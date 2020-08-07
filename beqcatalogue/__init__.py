@@ -40,7 +40,7 @@ if tree.body is not None:
 
 print(f"Extracted {len(posts.keys())} catalogue entries")
 
-with open('../docs/catalogue.md', mode='w+') as cat:
+with open('../docs/index.md', mode='w+') as cat:
     for k, v in posts.items():
         post_id = f"post-{k}"
         url = f"https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/{post_id}"

@@ -10,4 +10,4 @@ markdown_extensions:
       permalink: true
   - admonition
 nav:
-  - Catalogue: catalogue.md
+  - Catalogue: index.md
