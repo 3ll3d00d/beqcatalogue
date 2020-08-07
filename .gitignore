@@ -120,5 +120,6 @@ scratch.py
 .directory
 src/main/python/VERSION
 
-requirements.txt
-requirements_dev.txt
+#requirements.txt
+#requirements_dev.txt
+tmp/

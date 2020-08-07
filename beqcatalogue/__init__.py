@@ -40,11 +40,11 @@ if tree.body is not None:
 
 print(f"Extracted {len(posts.keys())} catalogue entries")
 
-with open('../docs/index.md', mode='w+') as cat:
+with open('../docs/catalogue.md', mode='w+') as cat:
     for k, v in posts.items():
         post_id = f"post-{k}"
         url = f"https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/{post_id}"
-        print(f"{k} - {v} - {url}")
+        # print(f"{k} - {v} - {url}")
 
         html = get_text(post_id)
         should_cache = False
@@ -66,6 +66,8 @@ with open('../docs/index.md', mode='w+') as cat:
                     found = True
                     print(f"* [{v}](./{k}.md)", file=cat)
                     with open(f"../docs/{k}.md", mode='w+') as sub:
+                        print(f"# {v}", file=sub)
+                        print("", file=sub)
                         for idx, l in enumerate(links):
                             print(f"![img {idx}]({l})", file=sub)
                             print('', file=sub)
