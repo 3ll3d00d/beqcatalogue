@@ -1,0 +1,13 @@
+site_name: BEQCatalogue
+site_url: 'https://beqcatalogue.readthedocs.io'
+copyright: 'Copyright &copy; 2019 Matt Khan'
+theme:
+  name: 'material'
+  logo: 'img/icon.png'
+  favicon: 'img/icon.ico'
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+nav:
+  - Index: index.md
