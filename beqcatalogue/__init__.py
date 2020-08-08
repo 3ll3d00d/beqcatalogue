@@ -60,12 +60,14 @@ def format_post_text(pt):
 
 with open('../tmp/errors.txt', mode='w+') as err:
     with open('../docs/index.md', mode='w+') as cat:
-        print(f"[Database](./database.csv)", file=cat)
         with open('../docs/database.csv', 'w+', newline='') as db:
             db_writer = csv.writer(db)
-            db_writer.writerow(['Title', 'Year', 'Format', 'AVS'])
+            db_writer.writerow(['Title', 'Year', 'Format', 'AVS', 'Catalogue'])
+            print('## Titles', file=cat)
             print('', file=cat)
-            print(f"| Title | Year | Format | Type | Discussion | |", file=cat)
+            print(f"| Title | Year | Format | Discussion | |", file=cat)
+            print(f"|-|-|-|-|-|", file=cat)
+
             for k, v in posts.items():
                 post_id = f"post-{k}"
                 url = f"https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/{post_id}"
@@ -91,7 +93,6 @@ with open('../tmp/errors.txt', mode='w+') as err:
                         imgs = tree.css(f"article[data-content={post_id}] img[data-src]")
                         links = [img.attributes['data-src'] for img in imgs]
                         if links:
-                            print(f"| [{v}](./{k}.md) | | | | [AVS Post]({url}) | |", file=cat)
                             found = True
                             post_text = tree.css(f"article[data-content={post_id}] article[qid=\"post-text\"] div[class=\"bbWrapper\"]")
                             with open(f"../docs/{k}.md", mode='w+') as sub:
@@ -122,5 +123,9 @@ with open('../tmp/errors.txt', mode='w+') as err:
                     elif should_cache is True:
                         write_text(post_id, html)
 
-                db_writer.writerow([v, year, content_format, url])
+                print(f"| [{v}](./{k}.md) | {year} | {content_format} | [AVS Post]({url}) | |", file=cat)
+                db_writer.writerow([v, year, content_format, url, f"https://beqcatalogue.readthedocs.io/en/latest/{k}/"])
+
+            print(f"## Offline Access", file=cat)
+            print(f"Content is available in csv form via the [database](./database.csv)", file=cat)
         print('', file=cat)

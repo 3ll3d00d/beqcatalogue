@@ -1,6 +1,6 @@
 site_name: BEQCatalogue
 site_url: 'https://beqcatalogue.readthedocs.io'
-copyright: 'Copyright &copy; 2019 Matt Khan'
+copyright: 'Copyright &copy; 2020 Matt Khan (formatting) / aron7awol (content)'
 theme:
   name: 'material'
   logo: 'img/icon.png'
