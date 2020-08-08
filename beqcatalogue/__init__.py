@@ -81,7 +81,7 @@ with open('../tmp/errors.txt', mode='w+') as err:
             db_writer.writerow(['Title', 'Year', 'Format', 'AVS', 'Catalogue'])
             print('## Titles', file=cat)
             print('', file=cat)
-            print(f"| Title | Year | Format | Discussion | |", file=cat)
+            print(f"| Title | Year | Format | Discussion | Notes |", file=cat)
             print(f"|-|-|-|-|-|", file=cat)
 
             for k, v in posts.items():
@@ -123,15 +123,15 @@ with open('../tmp/errors.txt', mode='w+') as err:
                                     print('', file=sub)
                             if len(links) != 2:
                                 print(f"{url} - {v} - {len(links)}", file=err)
+                            print(f"| [{v}](./{k}.md) | {year} | {content_format} | [AVS Post]({url}) | |", file=cat)
                     if not found:
                         print(f"Failed to find content in {url} for {v}")
-                        print(f"| [{v}](./{k}.md) | [AVS Post]({url}) | **NO DATA** |", file=cat)
+                        print(f"| [{v}](./{k}.md) | | | [AVS Post]({url}) | **NO DATA** |", file=cat)
                         with open(f"../docs/{k}.md", mode='w+') as sub:
                             print(f"**NO CONTENT FOUND**", file=sub)
                     elif should_cache is True:
                         write_text(post_id, html)
 
-                print(f"| [{v}](./{k}.md) | {year} | {content_format} | [AVS Post]({url}) | |", file=cat)
                 db_writer.writerow([v, year, content_format, url, f"https://beqcatalogue.readthedocs.io/en/latest/{k}/"])
 
             print('', file=cat)

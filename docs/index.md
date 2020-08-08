@@ -1,6 +1,6 @@
 ## Titles
 
-| Title | Year | Format | Discussion | |
+| Title | Year | Format | Discussion | Notes |
 |-|-|-|-|-|
 | [1BR](./59711930.md) | 2020 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59711930) | |
 | [10 Cloverfield Lane](./56743108.md) | 2016 | Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56743108) | |
@@ -71,8 +71,7 @@
 | [Apollo 13](./56694226.md) | 1995 | DTS:X | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56694226) | |
 | [Aquaman](./57696608.md) | 2018 | Atmos / DD+ Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57696608) | |
 | [Arizona](./56908660.md) | 2018 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56908660) | |
-| [Argo](./58982434.md) | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58982434) | **NO DATA** |
-| [Argo](./58982434.md) |  |  | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58982434) | |
+| [Argo](./58982434.md) | | | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58982434) | **NO DATA** |
 | [Arkansas](./59599034.md) | 2020 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59599034) | |
 | [Armageddon](./57770200.md) | 1998 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57770200) | |
 | [Army of Darkness](./58420266.md) | 1992 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58420266) | |
@@ -220,8 +219,7 @@
 | [Constantine:City of Demons](./56994304.md) | 2018 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56994304) | |
 | [Contact](./58356654.md) | 1997 | TrueHD 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58356654) | |
 | [Contagion](./59376318.md) | 2011 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59376318) | |
-| [Countdown](./59134024.md) | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59134024) | **NO DATA** |
-| [Countdown](./59134024.md) |  |  | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59134024) | |
+| [Countdown](./59134024.md) | | | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59134024) | **NO DATA** |
 | [The Courier](./59120430.md) | 2019 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59120430) | |
 | [Crank](./58041054.md) | 2014 | Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58041054) | |
 | [BD/LPCM 5.1](./57968136.md) | 2006 | LPCM 7.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57968136) | |
@@ -279,8 +277,7 @@
 | [Divergent](./56783360.md) | 2014 | DTS:X | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56783360) | |
 | [Insurgent](./58306850.md) | 2015 | Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58306850) | |
 | [Allegiant](./57200290.md) | 2016 | Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57200290) | |
-| [Django Unchained](./56806168.md) | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56806168) | **NO DATA** |
-| [Django Unchained](./56806168.md) |  |  | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56806168) | |
+| [Django Unchained](./56806168.md) | | | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56806168) | **NO DATA** |
 | [Doctor Sleep](./59144452.md) | 2019 | Theatrical / Director's Cut Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59144452) | |
 | [Doctor Strange](./56772152.md) | 2016 | Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56772152) | |
 | [A Dog's Way Home](./57873252.md) | 2019 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57873252) | |
@@ -311,8 +308,7 @@
 | [The Equalizer](./56771596.md) | 2014 | Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56771596) | |
 | [The Equalizer 2](./57097358.md) | 2018 | Atmos / DTS-HD MA 7.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57097358) | |
 | [Equilibrium](./57801456.md) | 2002 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57801456) | |
-| [Escape From Pretoria](./59434890.md) | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59434890) | **NO DATA** |
-| [Escape From Pretoria](./59434890.md) |  |  | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59434890) | |
+| [Escape From Pretoria](./59434890.md) | | | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59434890) | **NO DATA** |
 | [Escape Room](./57894286.md) | 2019 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57894286) | |
 | [Escape Plan](./58252568.md) | 2013 | Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58252568) | |
 | [Escape Plan 2: Hades](./58252956.md) | 2018 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58252956) | |
@@ -339,8 +335,7 @@
 | [2 Fast 2 Furious (2)](./56898642.md) | 2003 | DTS:X | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56898642) | |
 | [Fast and the Furious:Tokyo Drift (3)](./56893542.md) | 2006 | DTS:X | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56893542) | |
 | [Fast & Furious (4)](./58204968.md) | 2009 | DTS:X | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58204968) | |
-| [Fast 5](./58169488.md) | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58169488) | **NO DATA** |
-| [Fast 5](./58169488.md) |  |  | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58169488) | |
+| [Fast 5](./58169488.md) | | | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58169488) | **NO DATA** |
 | [Fast & Furious 6](./58206304.md) | 2013 | Theatrical DTS:X | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58206304) | |
 | [Furious 7 ](./57963128.md) | 2015 | Extended DTS:X | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57963128) | |
 | [Fate of the Furious (8)](./57963338.md) | 2017 | DTS:X | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57963338) | |
@@ -765,8 +760,7 @@
 | [Pan](./58092668.md) | 2015 | Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58092668) | |
 | [Pan's Labyrinth](./58645316.md) | 2006 | DTS-HD MA 7.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58645316) | |
 | [Pandas](./57996332.md) | 2018 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57996332) | |
-| [Pandorum](./56888302.md) | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56888302) | **NO DATA** |
-| [Pandorum](./56888302.md) |  |  | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56888302) | |
+| [Pandorum](./56888302.md) | | | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56888302) | **NO DATA** |
 | [Papillon](./57089762.md) | 2017 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57089762) | |
 | [Parasite](./59179592.md) | 2019 | Korean Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59179592) | |
 | [The Patriot](./57741958.md) | 2000 | Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57741958) | |
@@ -1074,8 +1068,7 @@
 | [Victor Frankenstein](./57273182.md) | 2015 | DTS-HD MA 7.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57273182) | |
 | [Violentia](./58024178.md) | 2018 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58024178) | |
 | [Vivaruim](./59636674.md) | 2020 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59636674) | |
-| [Walking Tall (2004)](./59388484.md) | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59388484) | **NO DATA** |
-| [Walking Tall (2004)](./59388484.md) |  |  | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59388484) | |
+| [Walking Tall (2004)](./59388484.md) | | | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59388484) | **NO DATA** |
 | [The Wall](./59635180.md) | 2017 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59635180) | |
 | [WALL•E](./57711596.md) | 2008 | Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57711596) | |
 | [War](./59499648.md) | 2007 | LPCM 7.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59499648) | |
@@ -1100,8 +1093,7 @@
 | [Wild](./56743028.md) | 2014 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56743028) | |
 | [Wind River](./56771420.md) | 2017 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56771420) | |
 | [Whiplash](./57726252.md) | 2014 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57726252) | |
-| [Who Framed Roger Rabbit](./59599848.md) | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59599848) | **NO DATA** |
-| [Who Framed Roger Rabbit](./59599848.md) |  |  | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59599848) | |
+| [Who Framed Roger Rabbit](./59599848.md) | | | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59599848) | **NO DATA** |
 | [Winter's Bone](./59720240.md) | 2010 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59720240) | |
 | [The Witch](./57021792.md) | 2015 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57021792) | |
 | [The Wolf of Wall Street](./58449556.md) | 2013 | DTS-HD MA 5.1 | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58449556) | |
@@ -1269,8 +1261,7 @@
 | [Stranger Things S2](./58314972.md) | 2016 | Season 2 Netflix DD+ | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58314972) | |
 | [Stranger Things S3](./58265196.md) | 2016 | Season 3 Netflix DD+ | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58265196) | |
 | [Swallow](./59535990.md) | 2019 | Amazon DD+ | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59535990) | |
-| [Tales from the Loop](./59447816.md) | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59447816) | **NO DATA** |
-| [Tales from the Loop](./59447816.md) |  |  | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59447816) | |
+| [Tales from the Loop](./59447816.md) | | | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59447816) | **NO DATA** |
 | [Taylor Swift: Reputation Stadium Tour](./57820018.md) | 2018 | DD+ Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57820018) | |
 | [Tiger King](./59425530.md) | 2020 | Season 1 Netflix DD+ Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59425530) | |
 | [Timmy Failure Mistakes Were Made](./59288088.md) | 2020 | Disney+ DD+ Atmos | [AVS Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59288088) | |
