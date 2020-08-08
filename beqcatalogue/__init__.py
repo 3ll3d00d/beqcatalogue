@@ -19,30 +19,28 @@ def write_text(p_id, txt):
         f.write(txt)
 
 
-IGNORED = ['Take the Red Pill (BassEQ)', 'BassEQ Demo Clips', 'TR Curves']
-
-posts = OrderedDict()
-first_page = get_text('first')
-if first_page is None:
-    r = requests.get('https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212')
-    if r.status_code == 200:
-        first_page = r.text
-        write_text('first', first_page)
-    else:
-        print(f"Failed to get first page - {r.status_code}")
-        exit(1)
-
-tree = HTMLParser(first_page)
-if tree.body is not None:
-    for href in tree.css('a[href]'):
-        link = href.attributes['href']
-        if link.startswith('https://xenforo.local.svc.cluster.local'):
-            post_id = [l for l in link.split('/') if l][-1]
-            name = href.child.text()
-            if 'xenforo.local' not in name and name not in IGNORED:
-                posts[post_id] = name
-
-print(f"Extracted {len(posts.keys())} catalogue entries")
+def extract_titles():
+    ignored = ['Take the Red Pill (BassEQ)', 'BassEQ Demo Clips', 'TR Curves']
+    by_id = OrderedDict()
+    first_page = get_text('first')
+    if first_page is None:
+        r = requests.get('https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212')
+        if r.status_code == 200:
+            first_page = r.text
+            write_text('first', first_page)
+        else:
+            print(f"Failed to get first page - {r.status_code}")
+            exit(1)
+    tree = HTMLParser(first_page)
+    if tree.body is not None:
+        for href in tree.css('a[href]'):
+            link = href.attributes['href']
+            if link.startswith('https://xenforo.local.svc.cluster.local'):
+                post_id = [l for l in link.split('/') if l][-1]
+                name = href.child.text()
+                if 'xenforo.local' not in name and name not in ignored:
+                    by_id[post_id] = name
+    return by_id
 
 
 def format_post_text(pt):
@@ -56,6 +54,24 @@ def format_post_text(pt):
             return name, year, format
     txt = [t.replace('BEQ', '').replace('BassEQ', '').replace('BASSEQ', '').replace('&#8203;', '') for t in txt]
     return '\n'.join(txt)
+
+
+posts = extract_titles()
+
+print(f"Extracted {len(posts.keys())} catalogue entries")
+
+
+def get_post(post_id, url):
+    html = get_text(post_id)
+    should_cache = False
+    if html is None:
+        r = requests.get(url)
+        if r.status_code == 200:
+            html = r.text
+            should_cache = True
+        else:
+            print(f"Failed to get {url} - {r.status_code}")
+    return html, should_cache
 
 
 with open('../tmp/errors.txt', mode='w+') as err:
@@ -73,15 +89,7 @@ with open('../tmp/errors.txt', mode='w+') as err:
                 url = f"https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/{post_id}"
                 # print(f"{k} - {v} - {url}")
 
-                html = get_text(post_id)
-                should_cache = False
-                if html is None:
-                    r = requests.get(url)
-                    if r.status_code == 200:
-                        html = r.text
-                        should_cache = True
-                    else:
-                        print(f"Failed to get {url} - {r.status_code}")
+                html, should_cache = get_post(post_id, url)
 
                 year = ''
                 content_format = ''
@@ -126,6 +134,6 @@ with open('../tmp/errors.txt', mode='w+') as err:
                 print(f"| [{v}](./{k}.md) | {year} | {content_format} | [AVS Post]({url}) | |", file=cat)
                 db_writer.writerow([v, year, content_format, url, f"https://beqcatalogue.readthedocs.io/en/latest/{k}/"])
 
+            print('', file=cat)
             print(f"## Offline Access", file=cat)
             print(f"Content is available in csv form via the [database](./database.csv)", file=cat)
-        print('', file=cat)
