@@ -1,5 +1,3 @@
-## Titles
-
 | Title | Release Date | Production Year | Format | Discussion | Lookup | Notes |
 |-|-|-|-|-|-|-|
 | [1BR](./59711930.md) | 2020-06-02 | 2020 | BD/DTS-HD MA 5.1 | [avsforum](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59711930) | [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=1BR&releaseyear=2020&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/search?query=1BR) [rottentoms](https://www.rottentomatoes.com/search?search=1BR) | |
@@ -1325,5 +1323,3 @@
 | [Wu Tang:An American Saga](./58776792.md) | 2019-01-01 | 2019 | Hulu DD+ | [avsforum](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58776792) | [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=Wu%20Tang%3AAn%20American%20Saga&releaseyear=2019&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/search?query=Wu%20Tang%3AAn%20American%20Saga) [rottentoms](https://www.rottentomatoes.com/search?search=Wu%20Tang%3AAn%20American%20Saga) | |
 | [ZeroZeroZero](./59338922.md) | 2020-01-01 | 2020 | Amazon Prime DD+ | [avsforum](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59338922) | [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=ZeroZeroZero&releaseyear=2020&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/search?query=ZeroZeroZero) [rottentoms](https://www.rottentomatoes.com/search?search=ZeroZeroZero) | |
 
-## Offline Access
-Content is available in csv form via the [database](./database.csv)

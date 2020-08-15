@@ -68,11 +68,11 @@ def extract_from_md_line(by_id, idx, trimmed):
         match = re.search(r"^([\w\s\d\-/\.:()+]+)", tags_fragment)
         if match:
             tags = match.group(1)
-        if not release_date and not tags:
-            print(f"Missing extra info at line {idx + 1} [{name}] | {extra_fragment}")
-        elif not release_date:
-            print(f"Missing release_date at line {idx + 1} [{name}] | {extra_fragment}")
-        elif not tags:
+        # if not release_date and not tags:
+        #     print(f"Missing extra info at line {idx + 1} [{name}] | {extra_fragment}")
+        # elif not release_date:
+        #     print(f"Missing release_date at line {idx + 1} [{name}] | {extra_fragment}")
+        if not tags:
             print(f"Missing tags at line {idx + 1} [{name}] | {extra_fragment}")
         by_id[post_id] = (name, release_date, tags)
     else:
@@ -235,8 +235,6 @@ with open('../tmp/delta.txt', mode='w+') as delta:
             with open('../docs/database.csv', 'w+', newline='') as db:
                 db_writer = csv.writer(db)
                 db_writer.writerow(['Title', 'Release Date', 'Production Year', 'Format', 'AVS', 'Catalogue', 'blu-ray.com'])
-                print('## Titles', file=cat)
-                print('', file=cat)
                 print(f"| Title | Release Date | Production Year | Format | Discussion | Lookup | Notes |", file=cat)
                 print(f"|-|-|-|-|-|-|-|", file=cat)
 
@@ -273,7 +271,8 @@ with open('../tmp/delta.txt', mode='w+') as delta:
                                     print("", file=sub)
                                     print(f"[Discussion Post]({url})", file=sub)
                                     print("", file=sub)
-                                    print(f"* Release Date: {release_date}", file=sub)
+                                    if release_date != '':
+                                        print(f"* Release Date: {release_date}", file=sub)
                                     formatted = format_post_text(post_text)
                                     if isinstance(formatted, tuple):
                                         if content_format == '':
@@ -320,5 +319,3 @@ with open('../tmp/delta.txt', mode='w+') as delta:
                     db_writer.writerow([content_name, release_date, production_year, content_format, url, f"https://beqcatalogue.readthedocs.io/en/latest/{k}/", bd_url])
 
                 print('', file=cat)
-                print(f"## Offline Access", file=cat)
-                print(f"Content is available in csv form via the [database](./database.csv)", file=cat)

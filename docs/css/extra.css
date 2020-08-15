@@ -1,0 +1,5 @@
+@media screen and (min-width: 60em) {
+    .md-content {
+        max-width: 100%;
+    }
+}
