@@ -1,4 +1,5 @@
 import csv
+from datetime import datetime
 import re
 from collections import OrderedDict
 from urllib import parse
@@ -43,16 +44,23 @@ def extract_from_html():
                     by_id[post_id] = name.strip()
     return by_id
 
+def scrub_links(txt):
+    ''' scrub additional MD links from the text '''
+    match = re.search(r"(.*)\[([\w\s\d.:\-'\"’&,/!·•+()\[\]]+)]\((?:https://.*)\)", txt)
+    if match:
+        return match.group(1)
+    return txt
+
 
 def extract_from_md_line(by_id, idx, trimmed):
     match = re.search(r"^\[([\w\s\d.:\-'\"’&,/!·•+()]+)]\((?:https://[\w\d./\-\.?=#]+post-)(\d+)( \".*\")?\)", trimmed)
     if match:
         name, post_id, extras = match.groups()
-        extra_fragment = trimmed[match.span(3 if extras else 2)[1] + 1:].strip()
-        year = ''
+        extra_fragment = scrub_links(trimmed[match.span(3 if extras else 2)[1] + 1:].strip())
+        release_date = ''
         match = re.search(r"^.*(?:\((.*)\))+.*", extra_fragment)
         if match:
-            year = match.group(1)
+            release_date = cleanse_release_date(idx, match, trimmed)
             tags_fragment = extra_fragment[0:match.span(1)[0]-1].strip()
         else:
             tags_fragment = extra_fragment
@@ -60,15 +68,54 @@ def extract_from_md_line(by_id, idx, trimmed):
         match = re.search(r"^([\w\s\d\-/\.:()+]+)", tags_fragment)
         if match:
             tags = match.group(1)
-        if not year and not tags:
+        if not release_date and not tags:
             print(f"Missing extra info at line {idx + 1} [{name}] | {extra_fragment}")
-        elif not year:
-            print(f"Missing year at line {idx + 1} [{name}] | {extra_fragment}")
+        elif not release_date:
+            print(f"Missing release_date at line {idx + 1} [{name}] | {extra_fragment}")
         elif not tags:
             print(f"Missing tags at line {idx + 1} [{name}] | {extra_fragment}")
-        by_id[post_id] = (name, year, tags)
+        by_id[post_id] = (name, release_date, tags)
     else:
         print(f"Ignoring line {idx + 1} : {trimmed}")
+
+
+def cleanse_release_date(idx, match, trimmed):
+    log_suffix = f"{idx + 1}: {trimmed}"
+    # use - as the only delimiter
+    release_date = match.group(1).replace('.', '-').replace(' ', '-').replace('/', '-').replace(',', '-').replace('--', '-')
+    # remove cruft
+    previous_rd = release_date
+    release_date = release_date.replace(')', '')
+    if len(release_date) != len(previous_rd):
+        print(f"Junk text in trimmed from release date '{previous_rd}' {log_suffix}")
+    # fix typos
+    release_date = release_date.replace('Sept', 'Sep').replace('Setp', 'Sep').replace('Mat', 'May')
+    # remove question marks
+    match = re.match(r"(\?+[-/])(\d{4})", release_date)
+    if match:
+        print(f"Redundant text trimmed from release date {log_suffix}")
+        release_date = match.group(2)
+    # parse
+    actual_date = extract_as_datetime(['%b-%d-%Y', '%B-%d-%Y', '%b-%Y', '%B-%Y', '%Y'], release_date)
+    if not actual_date:
+        actual_date = extract_as_datetime(['%b%d-%Y', '%b-%d-%y', '%b-%d%Y'], release_date)
+        if actual_date:
+            print(f"Non standard date format {release_date} {log_suffix}")
+    if not actual_date:
+        print(f"Incompatible date format {release_date} {log_suffix}")
+        return ''
+    else:
+        return actual_date.strftime('%Y-%m-%d')
+
+
+def extract_as_datetime(formats, release_date):
+    actual_date = None
+    for f in formats:
+        try:
+            actual_date = datetime.strptime(release_date, f)
+        except:
+            pass
+    return actual_date
 
 
 def extract_from_md():
@@ -117,6 +164,10 @@ def fix_formatting(idx, trimmed):
     elif idx == 1088:
         return (
             '[Spies in Disguise](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59312546 "AVS Forum | Home Theater Discussions And Reviews - Post 59312546") 4K/UHD/ATMOS (Mar.10/2020)',
+        )
+    elif idx == 1245:
+        return (
+            '[The Wave](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57481870 "AVS Forum | Home Theater Discussions And Reviews - Post 57481870") BD/ATMOS (2016)',
         )
     elif idx == 1268:
         return (
@@ -180,26 +231,26 @@ with open('../tmp/delta.txt', mode='w+') as delta:
         with open('../docs/index.md', mode='w+') as cat:
             with open('../docs/database.csv', 'w+', newline='') as db:
                 db_writer = csv.writer(db)
-                db_writer.writerow(['Title', 'Year', 'Format', 'AVS', 'Catalogue'])
+                db_writer.writerow(['Title', 'Release Date', 'Production Year', 'Format', 'AVS', 'Catalogue'])
                 print('## Titles', file=cat)
                 print('', file=cat)
-                print(f"| Title | Year | Format | Discussion | Lookup | Notes |", file=cat)
-                print(f"|-|-|-|-|-|-|", file=cat)
+                print(f"| Title | Release Date | Production Year | Format | Discussion | Lookup | Notes |", file=cat)
+                print(f"|-|-|-|-|-|-|-|", file=cat)
 
                 for k, v in posts.items():
                     post_id = f"post-{k}"
                     url = f"https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/{post_id}"
-                    # print(f"{k} - {v} - {url}")
 
                     html, should_cache = get_post(post_id, url)
                     if isinstance(v, tuple):
                         content_name = v[0]
-                        year = v[1]
+                        release_date = v[1]
                         content_format = v[2]
                     else:
                         content_name = v
-                        year = ''
+                        release_date = ''
                         content_format = ''
+                    production_year = ''
 
                     if html is not None:
                         tree = HTMLParser(html)
@@ -215,18 +266,20 @@ with open('../tmp/delta.txt', mode='w+') as delta:
                                     print("", file=sub)
                                     print(f"[Discussion Post]({url})", file=sub)
                                     print("", file=sub)
+                                    print(f"* Release Date: {release_date}", file=sub)
                                     formatted = format_post_text(post_text)
                                     if isinstance(formatted, tuple):
-                                        if year != '' and year != formatted[1]:
-                                            print(f"{content_name},{year},{formatted[1]}", file=delta)
-                                        if content_format != '' and content_format != formatted[2]:
+                                        if content_format == '':
+                                            content_format = formatted[2]
+                                        if content_format != formatted[2]:
                                             print(f"{content_name},{content_format},{formatted[2]}", file=delta)
-                                        year = formatted[1]
-                                        content_format = formatted[2]
-                                        print(f"* Year: {year}", file=sub)
+                                        production_year = formatted[1]
+                                        print(f"* Production Year: {production_year}", file=sub)
                                         print(f"* Format: {content_format}", file=sub)
                                         print("", file=sub)
                                     else:
+                                        print(f"* Production Year: {production_year}", file=sub)
+                                        print(f"* Format: {content_format}", file=sub)
                                         print(formatted, file=sub)
                                         print("", file=sub)
                                     for idx, l in enumerate(links):
@@ -241,17 +294,17 @@ with open('../tmp/delta.txt', mode='w+') as delta:
                                 rt_url = f"https://www.rottentomatoes.com/search?search={escaped}"
                                 # &yearfrom={year}&yearto={year}
                                 bd_url = f"https://www.blu-ray.com/movies/search.php?keyword={escaped}&submit=Search&action=search&"
-                                print(f"| [{content_name}](./{k}.md) | {year} | {content_format} | [avsforum]({url}) | [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) | |",
+                                print(f"| [{content_name}](./{k}.md) | {release_date} | {production_year} | {content_format} | [avsforum]({url}) | [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) | |",
                                       file=cat)
                         if not found:
                             print(f"Failed to find content in {url} for {content_name}")
-                            print(f"| [{content_name}](./{k}.md) | | | [AVS Post]({url}) | | **NO DATA** |", file=cat)
+                            print(f"| [{content_name}](./{k}.md) | | | | [AVS Post]({url}) | | **NO DATA** |", file=cat)
                             with open(f"../docs/{k}.md", mode='w+') as sub:
                                 print(f"**NO CONTENT FOUND**", file=sub)
                         elif should_cache is True:
                             write_text(post_id, html)
 
-                    db_writer.writerow([content_name, year, content_format, url, f"https://beqcatalogue.readthedocs.io/en/latest/{k}/"])
+                    db_writer.writerow([content_name, release_date, production_year, content_format, url, f"https://beqcatalogue.readthedocs.io/en/latest/{k}/"])
 
                 print('', file=cat)
                 print(f"## Offline Access", file=cat)
