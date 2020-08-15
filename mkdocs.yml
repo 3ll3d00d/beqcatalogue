@@ -17,7 +17,6 @@ extra_css:
 markdown_extensions:
   - toc:
       permalink: true
-      toc_depth: 0
   - admonition
 nav:
   - Catalogue: index.md
