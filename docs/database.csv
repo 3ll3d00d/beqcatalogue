@@ -13,8 +13,8 @@ Title,Year,Format,AVS,Catalogue
 21 Jump Street,2012,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58304838,https://beqcatalogue.readthedocs.io/en/latest/58304838/
 3 Days to Kill,2014,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57157652,https://beqcatalogue.readthedocs.io/en/latest/57157652/
 3 From Hell,2019,TrueHD 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58674874,https://beqcatalogue.readthedocs.io/en/latest/58674874/
-300 ,2006,TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56898814,https://beqcatalogue.readthedocs.io/en/latest/56898814/
-300:Rise of an Empire ,2014,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56898930,https://beqcatalogue.readthedocs.io/en/latest/56898930/
+300,2006,TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56898814,https://beqcatalogue.readthedocs.io/en/latest/56898814/
+300:Rise of an Empire,2014,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56898930,https://beqcatalogue.readthedocs.io/en/latest/56898930/
 303 Squadron,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58070870,https://beqcatalogue.readthedocs.io/en/latest/58070870/
 3:10 to Yuma,2007,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57003960,https://beqcatalogue.readthedocs.io/en/latest/57003960/
 47 Meters Down,2017,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59498046,https://beqcatalogue.readthedocs.io/en/latest/59498046/
@@ -58,7 +58,7 @@ Angel Has Fallen,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtere
 The Angry Birds Movie,2016,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58780024,https://beqcatalogue.readthedocs.io/en/latest/58780024/
 The Angry Birds Movie 2,2019,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58767198,https://beqcatalogue.readthedocs.io/en/latest/58767198/
 Anna,2019,Atmos / DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58539510,https://beqcatalogue.readthedocs.io/en/latest/58539510/
-Annihilation ,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56759084,https://beqcatalogue.readthedocs.io/en/latest/56759084/
+Annihilation,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56759084,https://beqcatalogue.readthedocs.io/en/latest/56759084/
 Anon,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57028842,https://beqcatalogue.readthedocs.io/en/latest/57028842/
 Ant-Man,2015,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56759266,https://beqcatalogue.readthedocs.io/en/latest/56759266/
 Ant-Man and the Wasp,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56899018,https://beqcatalogue.readthedocs.io/en/latest/56899018/
@@ -68,7 +68,7 @@ Apollo 11,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filter
 Apollo 13,1995,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56694226,https://beqcatalogue.readthedocs.io/en/latest/56694226/
 Aquaman,2018,Atmos / DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57696608,https://beqcatalogue.readthedocs.io/en/latest/57696608/
 Arizona,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56908660,https://beqcatalogue.readthedocs.io/en/latest/56908660/
-Argo,,,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58982434,https://beqcatalogue.readthedocs.io/en/latest/58982434/
+Argo,Feb.19/2013,BD/DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58982434,https://beqcatalogue.readthedocs.io/en/latest/58982434/
 Arkansas,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59599034,https://beqcatalogue.readthedocs.io/en/latest/59599034/
 Armageddon,1998,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57770200,https://beqcatalogue.readthedocs.io/en/latest/57770200/
 Army of Darkness,1992,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58420266,https://beqcatalogue.readthedocs.io/en/latest/58420266/
@@ -89,7 +89,6 @@ Attraction,2017,Russian Atmos,https://www.avsforum.com/threads/bass-eq-for-filte
 Avatar: Extended,2009,Theatrical / Extended DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56894532,https://beqcatalogue.readthedocs.io/en/latest/56894532/
 Avengement,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58247760,https://beqcatalogue.readthedocs.io/en/latest/58247760/
 The Avengers,2012,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56612552,https://beqcatalogue.readthedocs.io/en/latest/56612552/
-BD/DTS-HD MA 7.1,2012,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57968986,https://beqcatalogue.readthedocs.io/en/latest/57968986/
 The Avengers: Age of Ultron,2015,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56626708,https://beqcatalogue.readthedocs.io/en/latest/56626708/
 The Avengers: Infinity War,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56613830,https://beqcatalogue.readthedocs.io/en/latest/56613830/
 The Avengers: End Game,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58355484,https://beqcatalogue.readthedocs.io/en/latest/58355484/
@@ -103,7 +102,7 @@ Bad Boys II,2003,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-mov
 Bad Boys for Life,2020,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59432732,https://beqcatalogue.readthedocs.io/en/latest/59432732/
 Bad Times at the El Royale,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57291066,https://beqcatalogue.readthedocs.io/en/latest/57291066/
 Band of Brothers,2001,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57705944,https://beqcatalogue.readthedocs.io/en/latest/57705944/
-Batman ,1989,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58150172,https://beqcatalogue.readthedocs.io/en/latest/58150172/
+Batman,1989,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58150172,https://beqcatalogue.readthedocs.io/en/latest/58150172/
 Batman Returns,1992,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58150282,https://beqcatalogue.readthedocs.io/en/latest/58150282/
 Batman Forever,1995,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58150462,https://beqcatalogue.readthedocs.io/en/latest/58150462/
 Batman and Robin,1997,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58154126,https://beqcatalogue.readthedocs.io/en/latest/58154126/
@@ -129,16 +128,19 @@ The Birth of a Nation,2016,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-e
 Black '47,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57298002,https://beqcatalogue.readthedocs.io/en/latest/57298002/
 Black and Blue,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59120392,https://beqcatalogue.readthedocs.io/en/latest/59120392/
 Black Hawk Down,2001,Extended Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57725638,https://beqcatalogue.readthedocs.io/en/latest/57725638/
+Black Mass,2015,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59970806,https://beqcatalogue.readthedocs.io/en/latest/59970806/
 Black Panther,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56735720,https://beqcatalogue.readthedocs.io/en/latest/56735720/
 BlacKkKlansman,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57058882,https://beqcatalogue.readthedocs.io/en/latest/57058882/
 Black Swan,2010,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59242008,https://beqcatalogue.readthedocs.io/en/latest/59242008/
-Blade ,1998,DTS-HD MA 6.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57304472,https://beqcatalogue.readthedocs.io/en/latest/57304472/
+The Blackout (Russian),2019,Russian DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60002268,https://beqcatalogue.readthedocs.io/en/latest/60002268/
+Blade,1998,DTS-HD MA 6.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57304472,https://beqcatalogue.readthedocs.io/en/latest/57304472/
 Blade II,2002,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57304518,https://beqcatalogue.readthedocs.io/en/latest/57304518/
 Blade Trinity,2004,Unrated DTS-HD MA 6.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57304566,https://beqcatalogue.readthedocs.io/en/latest/57304566/
 "Blade Runner, The Final Cut",1982,The Final Cut Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57308284,https://beqcatalogue.readthedocs.io/en/latest/57308284/
 Blade Runner 2049,2017,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56737562,https://beqcatalogue.readthedocs.io/en/latest/56737562/
 The Blindside,2009,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58428506,https://beqcatalogue.readthedocs.io/en/latest/58428506/
 Blindspotting,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57088770,https://beqcatalogue.readthedocs.io/en/latest/57088770/
+Blood and Money,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59923092,https://beqcatalogue.readthedocs.io/en/latest/59923092/
 Bloodshot,2020,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59405454,https://beqcatalogue.readthedocs.io/en/latest/59405454/
 Bohemian Rapsody,2018,Atmos / DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57483082,https://beqcatalogue.readthedocs.io/en/latest/57483082/
 Bolt,2008,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57679340,https://beqcatalogue.readthedocs.io/en/latest/57679340/
@@ -159,6 +161,7 @@ Brave,2012,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.29
 Braveheart,1995,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56815588,https://beqcatalogue.readthedocs.io/en/latest/56815588/
 Brawl in Cell Block 99,2017,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56702620,https://beqcatalogue.readthedocs.io/en/latest/56702620/
 Breakthrough,2019,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58322760,https://beqcatalogue.readthedocs.io/en/latest/58322760/
+Brick,2005,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59957898,https://beqcatalogue.readthedocs.io/en/latest/59957898/
 Bridge of Spies,2015,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58780336,https://beqcatalogue.readthedocs.io/en/latest/58780336/
 Brightburn,2019,Atmos / DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58393252,https://beqcatalogue.readthedocs.io/en/latest/58393252/
 Bubba Ho-Tep,2002,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59273632,https://beqcatalogue.readthedocs.io/en/latest/59273632/
@@ -203,6 +206,7 @@ Cold Skin,2017,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movie
 Collateral,2004,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58092604,https://beqcatalogue.readthedocs.io/en/latest/58092604/
 Colombiana,2011,Unrated DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58566042,https://beqcatalogue.readthedocs.io/en/latest/58566042/
 Color Out of Space,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59262742,https://beqcatalogue.readthedocs.io/en/latest/59262742/
+Coma (Russian),2019,Russian DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59988296,https://beqcatalogue.readthedocs.io/en/latest/59988296/
 Commando,1985,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57672912,https://beqcatalogue.readthedocs.io/en/latest/57672912/
 The Commuter,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56747676,https://beqcatalogue.readthedocs.io/en/latest/56747676/
 Conan the Barbarian (2011),2011,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58333474,https://beqcatalogue.readthedocs.io/en/latest/58333474/
@@ -216,10 +220,10 @@ Constantine,2005,TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtere
 Constantine:City of Demons,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56994304,https://beqcatalogue.readthedocs.io/en/latest/56994304/
 Contact,1997,TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58356654,https://beqcatalogue.readthedocs.io/en/latest/58356654/
 Contagion,2011,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59376318,https://beqcatalogue.readthedocs.io/en/latest/59376318/
-Countdown,,,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59134024,https://beqcatalogue.readthedocs.io/en/latest/59134024/
+Cosmos,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59997044,https://beqcatalogue.readthedocs.io/en/latest/59997044/
+Countdown,Jan.21/2020,BD/DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59134024,https://beqcatalogue.readthedocs.io/en/latest/59134024/
 The Courier,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59120430,https://beqcatalogue.readthedocs.io/en/latest/59120430/
 Crank,2014,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58041054,https://beqcatalogue.readthedocs.io/en/latest/58041054/
-BD/LPCM 5.1,2006,LPCM 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57968136,https://beqcatalogue.readthedocs.io/en/latest/57968136/
 Crank 2: High Voltage,2009,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57968298,https://beqcatalogue.readthedocs.io/en/latest/57968298/
 Crash,2004,DTS-ES 6.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59148600,https://beqcatalogue.readthedocs.io/en/latest/59148600/
 Crawl,2019,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58644518,https://beqcatalogue.readthedocs.io/en/latest/58644518/
@@ -254,6 +258,7 @@ The Death of Superman,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-e
 The Death and Return of Superman,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58647878,https://beqcatalogue.readthedocs.io/en/latest/58647878/
 Death Wish,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56747610,https://beqcatalogue.readthedocs.io/en/latest/56747610/
 Deep Blue Sea,1999,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58428640,https://beqcatalogue.readthedocs.io/en/latest/58428640/
+Deep Blue Sea 3,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60016733,https://beqcatalogue.readthedocs.io/en/latest/60016733/
 Deepwater Horizon,2016,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57334724,https://beqcatalogue.readthedocs.io/en/latest/57334724/
 Den of Thieves,2018,Unrated DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56869804,https://beqcatalogue.readthedocs.io/en/latest/56869804/
 The Departed,2006,LPCM 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58446202,https://beqcatalogue.readthedocs.io/en/latest/58446202/
@@ -274,7 +279,7 @@ Disturbing the Peace,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq
 Divergent,2014,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56783360,https://beqcatalogue.readthedocs.io/en/latest/56783360/
 Insurgent,2015,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58306850,https://beqcatalogue.readthedocs.io/en/latest/58306850/
 Allegiant,2016,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57200290,https://beqcatalogue.readthedocs.io/en/latest/57200290/
-Django Unchained,,,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56806168,https://beqcatalogue.readthedocs.io/en/latest/56806168/
+Django Unchained,Apr.16/2016,BD/DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56806168,https://beqcatalogue.readthedocs.io/en/latest/56806168/
 Doctor Sleep,2019,Theatrical / Director's Cut Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59144452,https://beqcatalogue.readthedocs.io/en/latest/59144452/
 Doctor Strange,2016,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56772152,https://beqcatalogue.readthedocs.io/en/latest/56772152/
 A Dog's Way Home,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57873252,https://beqcatalogue.readthedocs.io/en/latest/57873252/
@@ -305,7 +310,7 @@ Enemey of the State,1998,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-
 The Equalizer,2014,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56771596,https://beqcatalogue.readthedocs.io/en/latest/56771596/
 The Equalizer 2,2018,Atmos / DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57097358,https://beqcatalogue.readthedocs.io/en/latest/57097358/
 Equilibrium,2002,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57801456,https://beqcatalogue.readthedocs.io/en/latest/57801456/
-Escape From Pretoria,,,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59434890,https://beqcatalogue.readthedocs.io/en/latest/59434890/
+Escape From Pretoria,Apr.7/2020,BD/DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59434890,https://beqcatalogue.readthedocs.io/en/latest/59434890/
 Escape Room,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57894286,https://beqcatalogue.readthedocs.io/en/latest/57894286/
 Escape Plan,2013,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58252568,https://beqcatalogue.readthedocs.io/en/latest/58252568/
 Escape Plan 2: Hades,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58252956,https://beqcatalogue.readthedocs.io/en/latest/58252956/
@@ -332,9 +337,9 @@ The Fast and the Furious (1),2001,DTS:X,https://www.avsforum.com/threads/bass-eq
 2 Fast 2 Furious (2),2003,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56898642,https://beqcatalogue.readthedocs.io/en/latest/56898642/
 Fast and the Furious:Tokyo Drift (3),2006,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56893542,https://beqcatalogue.readthedocs.io/en/latest/56893542/
 Fast & Furious (4),2009,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58204968,https://beqcatalogue.readthedocs.io/en/latest/58204968/
-Fast 5,,,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58169488,https://beqcatalogue.readthedocs.io/en/latest/58169488/
+Fast 5,June 11/2019,4K/UHD/DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58169488,https://beqcatalogue.readthedocs.io/en/latest/58169488/
 Fast & Furious 6,2013,Theatrical DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58206304,https://beqcatalogue.readthedocs.io/en/latest/58206304/
-Furious 7 ,2015,Extended DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57963128,https://beqcatalogue.readthedocs.io/en/latest/57963128/
+Furious 7,2015,Extended DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57963128,https://beqcatalogue.readthedocs.io/en/latest/57963128/
 Fate of the Furious (8),2017,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57963338,https://beqcatalogue.readthedocs.io/en/latest/57963338/
 Fast and Furious Presents: Hobbs & Shaw,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58731924,https://beqcatalogue.readthedocs.io/en/latest/58731924/
 Fearless,2006,Mandarin DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57757458,https://beqcatalogue.readthedocs.io/en/latest/57757458/
@@ -410,6 +415,7 @@ The Grinch,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movi
 The Grudge,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59383768,https://beqcatalogue.readthedocs.io/en/latest/59383768/
 Guardians of the Galaxy,2014,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57703514,https://beqcatalogue.readthedocs.io/en/latest/57703514/
 Guardians of the Galaxy Vol 2,2017,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56747116,https://beqcatalogue.readthedocs.io/en/latest/56747116/
+Gundala (Indonesian),2019,Indonesian DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59973728,https://beqcatalogue.readthedocs.io/en/latest/59973728/
 Guns Akimbo,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59509684,https://beqcatalogue.readthedocs.io/en/latest/59509684/
 Hacksaw Ridge,2016,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57716630,https://beqcatalogue.readthedocs.io/en/latest/57716630/
 Halloween (1978),1978,TrueHD 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56920974,https://beqcatalogue.readthedocs.io/en/latest/56920974/
@@ -441,7 +447,6 @@ Hellboy (2004),2004,Director's Cut Atmos,https://www.avsforum.com/threads/bass-e
 Hellboy Animated: Sword of Stones,2006,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57867418,https://beqcatalogue.readthedocs.io/en/latest/57867418/
 Hellboy Animated: Blood and Iron,2007,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57867448,https://beqcatalogue.readthedocs.io/en/latest/57867448/
 Hellboy II: The Golden Army,2008,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58021942,https://beqcatalogue.readthedocs.io/en/latest/58021942/
-BD/DTS-HD MA 7.1,2008,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57965174,https://beqcatalogue.readthedocs.io/en/latest/57965174/
 Hellboy (2019),2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58275176,https://beqcatalogue.readthedocs.io/en/latest/58275176/
 Hell Fest,2018,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57365062,https://beqcatalogue.readthedocs.io/en/latest/57365062/
 Hell or High Water,2016,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59873536,https://beqcatalogue.readthedocs.io/en/latest/59873536/
@@ -462,11 +467,10 @@ Hotel Artemis,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-fi
 Hotel Mumbai,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58177786,https://beqcatalogue.readthedocs.io/en/latest/58177786/
 Hotel Transylvania 3:Summer Vacation,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56870030,https://beqcatalogue.readthedocs.io/en/latest/56870030/
 Hot Fuzz,2007,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526692,https://beqcatalogue.readthedocs.io/en/latest/58526692/
- BD/DTS-HD MA 5.1,2007,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58015214,https://beqcatalogue.readthedocs.io/en/latest/58015214/
 The House,2017,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56816670,https://beqcatalogue.readthedocs.io/en/latest/56816670/
 House of Flying Daggers,2004,LPCM 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57633648,https://beqcatalogue.readthedocs.io/en/latest/57633648/
 The House with a Clock in its Walls,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57276892,https://beqcatalogue.readthedocs.io/en/latest/57276892/
-How to Train Your Dragon ,2010,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57414010,https://beqcatalogue.readthedocs.io/en/latest/57414010/
+How to Train Your Dragon,2010,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57414010,https://beqcatalogue.readthedocs.io/en/latest/57414010/
 How to Train Your Dragon 2,2014,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56825620,https://beqcatalogue.readthedocs.io/en/latest/56825620/
 How to Train Your Dragon: The Hidden World,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57871780,https://beqcatalogue.readthedocs.io/en/latest/57871780/
 Hugo,2011,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56815330,https://beqcatalogue.readthedocs.io/en/latest/56815330/
@@ -493,12 +497,13 @@ The Incredibles 2,2018,Atmos / DTS-HD MA 7.1,https://www.avsforum.com/threads/ba
 The Incredible Hulk (2008),2008,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57124314,https://beqcatalogue.readthedocs.io/en/latest/57124314/
 Independence Day,1996,Extended DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56898482,https://beqcatalogue.readthedocs.io/en/latest/56898482/
 Independence Day:Resurgence,2016,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56885250,https://beqcatalogue.readthedocs.io/en/latest/56885250/
-Indiana Jones and the Raiders of the Lost Ark ,1981,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57014778,https://beqcatalogue.readthedocs.io/en/latest/57014778/
-Indiana Jones and the Temple of Doom ,1984,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57014896,https://beqcatalogue.readthedocs.io/en/latest/57014896/
-Indiana Jones and the Last Crusade ,1989,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57014944,https://beqcatalogue.readthedocs.io/en/latest/57014944/
-Indiana Jones and the Kingdom of the Crystal Skull ,2008,TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57015002,https://beqcatalogue.readthedocs.io/en/latest/57015002/
+Indiana Jones and the Raiders of the Lost Ark,1981,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57014778,https://beqcatalogue.readthedocs.io/en/latest/57014778/
+Indiana Jones and the Temple of Doom,1984,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57014896,https://beqcatalogue.readthedocs.io/en/latest/57014896/
+Indiana Jones and the Last Crusade,1989,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57014944,https://beqcatalogue.readthedocs.io/en/latest/57014944/
+Indiana Jones and the Kingdom of the Crystal Skull,2008,TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57015002,https://beqcatalogue.readthedocs.io/en/latest/57015002/
 The Informer,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59115088,https://beqcatalogue.readthedocs.io/en/latest/59115088/
 Inglourious Basterds,2009,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58457274,https://beqcatalogue.readthedocs.io/en/latest/58457274/
+Inheritance,2020,TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59932720,https://beqcatalogue.readthedocs.io/en/latest/59932720/
 Inside Man,2006,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58154412,https://beqcatalogue.readthedocs.io/en/latest/58154412/
 Inside Man: Most Wanted,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58736172,https://beqcatalogue.readthedocs.io/en/latest/58736172/
 Inside Out,2015,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56846482,https://beqcatalogue.readthedocs.io/en/latest/56846482/
@@ -511,6 +516,7 @@ Into the Badlands S2,2015,Season 2 TrueHD 5.1,https://www.avsforum.com/threads/b
 Into the Badlands S3,2015,Season 3 TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58548476,https://beqcatalogue.readthedocs.io/en/latest/58548476/
 Into the Blue,2005,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59453940,https://beqcatalogue.readthedocs.io/en/latest/59453940/
 Into the Storm,2014,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57158118,https://beqcatalogue.readthedocs.io/en/latest/57158118/
+Invasion (Russian),2020,Russian DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59988624,https://beqcatalogue.readthedocs.io/en/latest/59988624/
 The Invisible Man,2020,Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59394686,https://beqcatalogue.readthedocs.io/en/latest/59394686/
 IP Man,2008,Cantonese DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58479354,https://beqcatalogue.readthedocs.io/en/latest/58479354/
 IP Man 3,2010,Cantonese DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58479612,https://beqcatalogue.readthedocs.io/en/latest/58479612/
@@ -551,6 +557,7 @@ John Wick: Chapter 2,2017,Atmos,https://www.avsforum.com/threads/bass-eq-for-fil
 John Wick: Chapter 3 -Parabellum,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58419548,https://beqcatalogue.readthedocs.io/en/latest/58419548/
 Jojo Rabbit,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59215134,https://beqcatalogue.readthedocs.io/en/latest/59215134/
 Joker,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58976274,https://beqcatalogue.readthedocs.io/en/latest/58976274/
+Journey to China: The Mystery of Iron Mask,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59933076,https://beqcatalogue.readthedocs.io/en/latest/59933076/
 Judy & Punch,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59385228,https://beqcatalogue.readthedocs.io/en/latest/59385228/
 "Juliet, Naked",2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57109142,https://beqcatalogue.readthedocs.io/en/latest/57109142/
 Jumanji,1995,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57257818,https://beqcatalogue.readthedocs.io/en/latest/57257818/
@@ -560,7 +567,6 @@ Jumper,2008,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-
 The Jungle Book,2016,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59149404,https://beqcatalogue.readthedocs.io/en/latest/59149404/
 Jupiter Ascending,2015,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56753406,https://beqcatalogue.readthedocs.io/en/latest/56753406/
 Jurassic Park,1993,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56894464,https://beqcatalogue.readthedocs.io/en/latest/56894464/
-BD/DTS-HD MA 7.1,1993,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57964114,https://beqcatalogue.readthedocs.io/en/latest/57964114/
 The Lost World:Jurassic Park,1997,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56894508,https://beqcatalogue.readthedocs.io/en/latest/56894508/
 Jurassic Park III,2001,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56894592,https://beqcatalogue.readthedocs.io/en/latest/56894592/
 Jurassic World,2015,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56735650,https://beqcatalogue.readthedocs.io/en/latest/56735650/
@@ -619,6 +625,7 @@ The Lego Movie 2: The Second Part,2019,Atmos,https://www.avsforum.com/threads/ba
 Léon: The Professional,1994,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57765890,https://beqcatalogue.readthedocs.io/en/latest/57765890/
 Life,2017,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56785632,https://beqcatalogue.readthedocs.io/en/latest/56785632/
 Life of Pi,2012,Blu-ray DTS-HD MA 7.1 (UHD Safety Unconfirmed),https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57967674,https://beqcatalogue.readthedocs.io/en/latest/57967674/
+Life Like,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59932654,https://beqcatalogue.readthedocs.io/en/latest/59932654/
 Light of My Life,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58759844,https://beqcatalogue.readthedocs.io/en/latest/58759844/
 The Lighthouse,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59099172,https://beqcatalogue.readthedocs.io/en/latest/59099172/
 Like a Boss,2020,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59467950,https://beqcatalogue.readthedocs.io/en/latest/59467950/
@@ -669,7 +676,7 @@ Mary Poppins Returns,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-fil
 Mary Queen of Scots,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57632844,https://beqcatalogue.readthedocs.io/en/latest/57632844/
 The Mask of Zorro,1998,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56854850,https://beqcatalogue.readthedocs.io/en/latest/56854850/
 Master and Commander,2003,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56746688,https://beqcatalogue.readthedocs.io/en/latest/56746688/
-Master Z: The IP Man Legacy ,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57756390,https://beqcatalogue.readthedocs.io/en/latest/57756390/
+Master Z: The IP Man Legacy,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57756390,https://beqcatalogue.readthedocs.io/en/latest/57756390/
 The Matrix,1999,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56814540,https://beqcatalogue.readthedocs.io/en/latest/56814540/
 The Matrix Reloaded,2003,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57021694,https://beqcatalogue.readthedocs.io/en/latest/57021694/
 The Matrix Revolutions,2003,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57022872,https://beqcatalogue.readthedocs.io/en/latest/57022872/
@@ -692,6 +699,7 @@ Mid90's,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered
 Midnight Special,2016,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57694554,https://beqcatalogue.readthedocs.io/en/latest/57694554/
 Midsommar,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58632030,https://beqcatalogue.readthedocs.io/en/latest/58632030/
 Midway,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59213784,https://beqcatalogue.readthedocs.io/en/latest/59213784/
+Mighty Morphin Power Rangers: The Movie,1995,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59915964,https://beqcatalogue.readthedocs.io/en/latest/59915964/
 Minority Report,2002,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56854768,https://beqcatalogue.readthedocs.io/en/latest/56854768/
 Mile 22,2018,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57104318,https://beqcatalogue.readthedocs.io/en/latest/57104318/
 Minions,2015,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57617970,https://beqcatalogue.readthedocs.io/en/latest/57617970/
@@ -728,7 +736,8 @@ My Spy,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-
 The Natural,1984,Director's Cut Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58155100,https://beqcatalogue.readthedocs.io/en/latest/58155100/
 Need for Speed,2014,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57309918,https://beqcatalogue.readthedocs.io/en/latest/57309918/
 Ne Zha,2019,Mandarin DTS-HD MA 5.1 / Dubbed English Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59343640,https://beqcatalogue.readthedocs.io/en/latest/59343640/
-Night at the Museum ,2006,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57867376,https://beqcatalogue.readthedocs.io/en/latest/57867376/
+The Nice Guys,2016,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59967660,https://beqcatalogue.readthedocs.io/en/latest/59967660/
+Night at the Museum,2006,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57867376,https://beqcatalogue.readthedocs.io/en/latest/57867376/
 Night at the Museum: Battle of the Smithsonian,2009,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57849326,https://beqcatalogue.readthedocs.io/en/latest/57849326/
 Night at the Museum: Secret of the Tomb,2014,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57849486,https://beqcatalogue.readthedocs.io/en/latest/57849486/
 Nightcrawler,2014,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56917638,https://beqcatalogue.readthedocs.io/en/latest/56917638/
@@ -749,6 +758,8 @@ Only the Brave,2017,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-
 Onward,2020,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59413186,https://beqcatalogue.readthedocs.io/en/latest/59413186/
 Open Range,2003,DTS-HD MA 6.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59241602,https://beqcatalogue.readthedocs.io/en/latest/59241602/
 Outbreak,1995,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59376394,https://beqcatalogue.readthedocs.io/en/latest/59376394/
+The Outpost,2020,Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59904294,https://beqcatalogue.readthedocs.io/en/latest/59904294/
+The Outsider,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59963044,https://beqcatalogue.readthedocs.io/en/latest/59963044/
 Overlord,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57576246,https://beqcatalogue.readthedocs.io/en/latest/57576246/
 Oz the Great and Powerful,2013,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58074366,https://beqcatalogue.readthedocs.io/en/latest/58074366/
 Pacific Rim,2013,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56760572,https://beqcatalogue.readthedocs.io/en/latest/56760572/
@@ -757,7 +768,7 @@ Passengers,2016,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movi
 Pan,2015,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58092668,https://beqcatalogue.readthedocs.io/en/latest/58092668/
 Pan's Labyrinth,2006,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58645316,https://beqcatalogue.readthedocs.io/en/latest/58645316/
 Pandas,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57996332,https://beqcatalogue.readthedocs.io/en/latest/57996332/
-Pandorum,,,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56888302,https://beqcatalogue.readthedocs.io/en/latest/56888302/
+Pandorum,Jan.19/2010,BD/TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56888302,https://beqcatalogue.readthedocs.io/en/latest/56888302/
 Papillon,2017,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57089762,https://beqcatalogue.readthedocs.io/en/latest/57089762/
 Parasite,2019,Korean Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59179592,https://beqcatalogue.readthedocs.io/en/latest/59179592/
 The Patriot,2000,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57741958,https://beqcatalogue.readthedocs.io/en/latest/57741958/
@@ -814,6 +825,7 @@ Prodigy,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered
 Project Almanac,2014,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56869990,https://beqcatalogue.readthedocs.io/en/latest/56869990/
 Prometheus,2013,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56776966,https://beqcatalogue.readthedocs.io/en/latest/56776966/
 Prospect,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57937872,https://beqcatalogue.readthedocs.io/en/latest/57937872/
+Proximity,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59922972,https://beqcatalogue.readthedocs.io/en/latest/59922972/
 Pulse,2006,TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56893306,https://beqcatalogue.readthedocs.io/en/latest/56893306/
 Puppet Master:The Littlest Reich,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56898696,https://beqcatalogue.readthedocs.io/en/latest/56898696/
 The Punisher,2004,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56865024,https://beqcatalogue.readthedocs.io/en/latest/56865024/
@@ -838,7 +850,7 @@ Ratatouille,2007,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-mov
 Ready or Not,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58863880,https://beqcatalogue.readthedocs.io/en/latest/58863880/
 Ready Player One,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56720998,https://beqcatalogue.readthedocs.io/en/latest/56720998/
 Real Steel,2011,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56806234,https://beqcatalogue.readthedocs.io/en/latest/56806234/
-Red ,2010,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58239628,https://beqcatalogue.readthedocs.io/en/latest/58239628/
+Red,2010,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58239628,https://beqcatalogue.readthedocs.io/en/latest/58239628/
 Red 2,2013,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58239770,https://beqcatalogue.readthedocs.io/en/latest/58239770/
 Red Shoes and the Seven Dwarves,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59510302,https://beqcatalogue.readthedocs.io/en/latest/59510302/
 Red Sparrow,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56740296,https://beqcatalogue.readthedocs.io/en/latest/56740296/
@@ -853,6 +865,7 @@ Resident Evil:Afterlife (2010),2010,Atmos,https://www.avsforum.com/threads/bass-
 Resident Evil:Retribution (2012),2012,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58320744,https://beqcatalogue.readthedocs.io/en/latest/58320744/
 Resident Evil:The Final Chapter (2016),2016,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56922044,https://beqcatalogue.readthedocs.io/en/latest/56922044/
 Resident Evil:Vendetta (Animated/2017),2017,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58313040,https://beqcatalogue.readthedocs.io/en/latest/58313040/
+Resistance,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59986548,https://beqcatalogue.readthedocs.io/en/latest/59986548/
 The Revenant,2015,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56766884,https://beqcatalogue.readthedocs.io/en/latest/56766884/
 Revenge,2017,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56884348,https://beqcatalogue.readthedocs.io/en/latest/56884348/
 The Rhythm Section,2020,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59504186,https://beqcatalogue.readthedocs.io/en/latest/59504186/
@@ -866,7 +879,7 @@ The Road,2009,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtere
 Road to Perdition,2002,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57752934,https://beqcatalogue.readthedocs.io/en/latest/57752934/
 Robin Hood (2010),2010,Unrated DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56799164,https://beqcatalogue.readthedocs.io/en/latest/56799164/
 Robin Hood (2018),2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57562518,https://beqcatalogue.readthedocs.io/en/latest/57562518/
-Robocop 1987 ,1987,Director's Cut DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58337322,https://beqcatalogue.readthedocs.io/en/latest/58337322/
+Robocop 1987,1987,Director's Cut DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58337322,https://beqcatalogue.readthedocs.io/en/latest/58337322/
 Robocop 2014,2014,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58012856,https://beqcatalogue.readthedocs.io/en/latest/58012856/
 The Rock,1996,LPCM 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58049636,https://beqcatalogue.readthedocs.io/en/latest/58049636/
 Rocketman,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58439788,https://beqcatalogue.readthedocs.io/en/latest/58439788/
@@ -883,6 +896,7 @@ San Andreas,2015,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-mov
 Saving Private Ryan,1998,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56760320,https://beqcatalogue.readthedocs.io/en/latest/56760320/
 Scary Stories to Tell in the Dark,2019,TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58742914,https://beqcatalogue.readthedocs.io/en/latest/58742914/
 Schindler's List,1993,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57283132,https://beqcatalogue.readthedocs.io/en/latest/57283132/
+Scoob!,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59945536,https://beqcatalogue.readthedocs.io/en/latest/59945536/
 Scott Pilgrim vs the World,2010,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56789570,https://beqcatalogue.readthedocs.io/en/latest/56789570/
 Sea Fever,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59593202,https://beqcatalogue.readthedocs.io/en/latest/59593202/
 Searching,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57170616,https://beqcatalogue.readthedocs.io/en/latest/57170616/
@@ -898,7 +912,6 @@ The Shannara Chronicles S1,2016,Season 1 TrueHD 5.1,https://www.avsforum.com/thr
 The Shannara Chronicles S2,2016,Season 2 TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59354894,https://beqcatalogue.readthedocs.io/en/latest/59354894/
 The Shape of Water,2017,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58317204,https://beqcatalogue.readthedocs.io/en/latest/58317204/
 Shaun of the Dead,2004,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526330,https://beqcatalogue.readthedocs.io/en/latest/58526330/
- BD/DTS-HD MA 5.1,2004,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58013966,https://beqcatalogue.readthedocs.io/en/latest/58013966/
 a Shaun the Sheep Movie:Farmageddon,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59240128,https://beqcatalogue.readthedocs.io/en/latest/59240128/
 Shazam,2019,Atmos / DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58227318,https://beqcatalogue.readthedocs.io/en/latest/58227318/
 Shed of the Dead,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58165446,https://beqcatalogue.readthedocs.io/en/latest/58165446/
@@ -926,6 +939,7 @@ Sniper:Assassin's End,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-e
 Snitch,2013,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58317138,https://beqcatalogue.readthedocs.io/en/latest/58317138/
 Snow White and the Huntsman,2012,Extended DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56893620,https://beqcatalogue.readthedocs.io/en/latest/56893620/
 The Huntsman: Winter's War,2016,Extended DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56893668,https://beqcatalogue.readthedocs.io/en/latest/56893668/
+A Soldier's Revenge aka Soldier's Heart,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59923014,https://beqcatalogue.readthedocs.io/en/latest/59923014/
 Sonic the Hedgehog,2020,Atmos / DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59432774,https://beqcatalogue.readthedocs.io/en/latest/59432774/
 The Sorcerer's Apprentice,2010,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56787706,https://beqcatalogue.readthedocs.io/en/latest/56787706/
 Sorry to Bother You,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56994824,https://beqcatalogue.readthedocs.io/en/latest/56994824/
@@ -961,9 +975,9 @@ Star Wars: Episode VI Return of the Jedi,1983,Atmos / Disney+ DD+ Atmos,https://
 Star Wars: The Force Awakens,2015,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56834638,https://beqcatalogue.readthedocs.io/en/latest/56834638/
 "Star Wars: Rogue One, a Star Wars Story",2016,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56834676,https://beqcatalogue.readthedocs.io/en/latest/56834676/
 Star Wars: The Last Jedi,2017,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56748480,https://beqcatalogue.readthedocs.io/en/latest/56748480/
-"Star Wars: Solo, a Star Wars Story ",2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56783448,https://beqcatalogue.readthedocs.io/en/latest/56783448/
-Star Wars: The Rise of Skywalker ,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59421590,https://beqcatalogue.readthedocs.io/en/latest/59421590/
-Straight Outta Compton ,2015,Director's Cut DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56851788,https://beqcatalogue.readthedocs.io/en/latest/56851788/
+"Star Wars: Solo, a Star Wars Story",2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56783448,https://beqcatalogue.readthedocs.io/en/latest/56783448/
+Star Wars: The Rise of Skywalker,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59421590,https://beqcatalogue.readthedocs.io/en/latest/59421590/
+Straight Outta Compton,2015,Director's Cut DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56851788,https://beqcatalogue.readthedocs.io/en/latest/56851788/
 Storks,2016,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58333718,https://beqcatalogue.readthedocs.io/en/latest/58333718/
 Storm Boy,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58023400,https://beqcatalogue.readthedocs.io/en/latest/58023400/
 Stuber,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58647138,https://beqcatalogue.readthedocs.io/en/latest/58647138/
@@ -977,7 +991,8 @@ Super 8,2011,TrueHD 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-mo
 Superfly,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56766390,https://beqcatalogue.readthedocs.io/en/latest/56766390/
 Superman:The Movie (1978),1978,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57058826,https://beqcatalogue.readthedocs.io/en/latest/57058826/
 Superman:Red Son,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59338480,https://beqcatalogue.readthedocs.io/en/latest/59338480/
-Suspiria (2018) ,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57531032,https://beqcatalogue.readthedocs.io/en/latest/57531032/
+Survive the Night,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59986830,https://beqcatalogue.readthedocs.io/en/latest/59986830/
+Suspiria (2018),2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57531032,https://beqcatalogue.readthedocs.io/en/latest/57531032/
 Suspiria (1977),1977,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59911432,https://beqcatalogue.readthedocs.io/en/latest/59911432/
 Swiss Army Man,2016,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56870920,https://beqcatalogue.readthedocs.io/en/latest/56870920/
 T-34,2018,Russian DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58687970,https://beqcatalogue.readthedocs.io/en/latest/58687970/
@@ -1056,6 +1071,7 @@ Up,2009,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.29952
 Upgrade,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56693610,https://beqcatalogue.readthedocs.io/en/latest/56693610/
 Us,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58170592,https://beqcatalogue.readthedocs.io/en/latest/58170592/
 The Usual Suspects,1995,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58277344,https://beqcatalogue.readthedocs.io/en/latest/58277344/
+Vacation,2015,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59970848,https://beqcatalogue.readthedocs.io/en/latest/59970848/
 Valerian and the City of a Thousand Planets,2017,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56758838,https://beqcatalogue.readthedocs.io/en/latest/56758838/
 Van Helsing,2004,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57022658,https://beqcatalogue.readthedocs.io/en/latest/57022658/
 The Vanishing,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57767748,https://beqcatalogue.readthedocs.io/en/latest/57767748/
@@ -1065,7 +1081,7 @@ VFW,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-mov
 Victor Frankenstein,2015,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57273182,https://beqcatalogue.readthedocs.io/en/latest/57273182/
 Violentia,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58024178,https://beqcatalogue.readthedocs.io/en/latest/58024178/
 Vivaruim,2020,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59636674,https://beqcatalogue.readthedocs.io/en/latest/59636674/
-Walking Tall (2004),,,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59388484,https://beqcatalogue.readthedocs.io/en/latest/59388484/
+Walking Tall (2004),June 2/2009,BD/DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59388484,https://beqcatalogue.readthedocs.io/en/latest/59388484/
 The Wall,2017,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59635180,https://beqcatalogue.readthedocs.io/en/latest/59635180/
 WALL•E,2008,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57711596,https://beqcatalogue.readthedocs.io/en/latest/57711596/
 War,2007,LPCM 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59499648,https://beqcatalogue.readthedocs.io/en/latest/59499648/
@@ -1074,13 +1090,13 @@ War Dogs,2016,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtere
 War of the Worlds,2005,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57481994,https://beqcatalogue.readthedocs.io/en/latest/57481994/
 War Horse,2011,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58209000,https://beqcatalogue.readthedocs.io/en/latest/58209000/
 Warrior,2011,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58153780,https://beqcatalogue.readthedocs.io/en/latest/58153780/
-Watchmen Ultimate Cut ,2009,Ultimate Cut TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57504674,https://beqcatalogue.readthedocs.io/en/latest/57504674/
+Watchmen Ultimate Cut,2009,Ultimate Cut TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57504674,https://beqcatalogue.readthedocs.io/en/latest/57504674/
 Waterworld,1995,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57622460,https://beqcatalogue.readthedocs.io/en/latest/57622460/
 The Wave,2015,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57481870,https://beqcatalogue.readthedocs.io/en/latest/57481870/
 The Way Back,2020,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59405480,https://beqcatalogue.readthedocs.io/en/latest/59405480/
 Welcome to Marwen,2018,TrueHD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57838806,https://beqcatalogue.readthedocs.io/en/latest/57838806/
-Westworld Season 1,,,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57464408,https://beqcatalogue.readthedocs.io/en/latest/57464408/
-Westworld Season 2,,,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57466772,https://beqcatalogue.readthedocs.io/en/latest/57466772/
+Westworld Season 1,Feb.13/2018,4K/UHD/ATMOS,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57464408,https://beqcatalogue.readthedocs.io/en/latest/57464408/
+Westworld Season 2,Dec.4/2018,4K/UHD/ATMOS,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57466772,https://beqcatalogue.readthedocs.io/en/latest/57466772/
 What We Do in the Shadows,2014,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57963398,https://beqcatalogue.readthedocs.io/en/latest/57963398/
 White Boy Rick,2018,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57322544,https://beqcatalogue.readthedocs.io/en/latest/57322544/
 White House Down,2013,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56811654,https://beqcatalogue.readthedocs.io/en/latest/56811654/
@@ -1090,15 +1106,16 @@ Widows,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2
 Wild,2014,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56743028,https://beqcatalogue.readthedocs.io/en/latest/56743028/
 Wind River,2017,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56771420,https://beqcatalogue.readthedocs.io/en/latest/56771420/
 Whiplash,2014,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57726252,https://beqcatalogue.readthedocs.io/en/latest/57726252/
-Who Framed Roger Rabbit,,,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59599848,https://beqcatalogue.readthedocs.io/en/latest/59599848/
+Who Framed Roger Rabbit,Mar. 12/2013,BD/DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59599848,https://beqcatalogue.readthedocs.io/en/latest/59599848/
+Wings Over Everest,2019,Lossy DTS 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59933120,https://beqcatalogue.readthedocs.io/en/latest/59933120/
 Winter's Bone,2010,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59720240,https://beqcatalogue.readthedocs.io/en/latest/59720240/
 The Witch,2015,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57021792,https://beqcatalogue.readthedocs.io/en/latest/57021792/
+Wolf,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59973244,https://beqcatalogue.readthedocs.io/en/latest/59973244/
 The Wolf of Wall Street,2013,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58449556,https://beqcatalogue.readthedocs.io/en/latest/58449556/
 Wonder Park,2019,TrueHD 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58206684,https://beqcatalogue.readthedocs.io/en/latest/58206684/
 Wonder Woman,2017,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56778360,https://beqcatalogue.readthedocs.io/en/latest/56778360/
 Wonder Woman: Bloodlines,2019,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58678278,https://beqcatalogue.readthedocs.io/en/latest/58678278/
 The Worlds End,2013,DTS:X,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526424,https://beqcatalogue.readthedocs.io/en/latest/58526424/
-BD/DTS-HD MA 5.1,2013,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58015350,https://beqcatalogue.readthedocs.io/en/latest/58015350/
 World War Z,2013,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57825014,https://beqcatalogue.readthedocs.io/en/latest/57825014/
 Woochi,2009,Korean DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59881848,https://beqcatalogue.readthedocs.io/en/latest/59881848/
 Wrath of the Titans,2012,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58302670,https://beqcatalogue.readthedocs.io/en/latest/58302670/
@@ -1106,7 +1123,7 @@ Wreck-It Ralph,2012,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-
 The Wrestler,2008,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59254338,https://beqcatalogue.readthedocs.io/en/latest/59254338/
 A Wrinkle in Time,2018,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58277376,https://beqcatalogue.readthedocs.io/en/latest/58277376/
 X-Men,2000,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56861072,https://beqcatalogue.readthedocs.io/en/latest/56861072/
-X2:X-Men United ,2003,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56861100,https://beqcatalogue.readthedocs.io/en/latest/56861100/
+X2:X-Men United,2003,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56861100,https://beqcatalogue.readthedocs.io/en/latest/56861100/
 X-Men:Last Stand,2006,DTS-HD MA 6.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56861116,https://beqcatalogue.readthedocs.io/en/latest/56861116/
 The Wolverine,2013,DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58117842,https://beqcatalogue.readthedocs.io/en/latest/58117842/
 X-Men Origins: Wolverine,2009,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57825054,https://beqcatalogue.readthedocs.io/en/latest/57825054/
@@ -1117,6 +1134,7 @@ X-Men: Dark Phoenix,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filt
 xXx: State of the Union,2002,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58239852,https://beqcatalogue.readthedocs.io/en/latest/58239852/
 xXx:Return of Xander Cage,2017,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56876460,https://beqcatalogue.readthedocs.io/en/latest/56876460/
 Yesterday,2019,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58552590,https://beqcatalogue.readthedocs.io/en/latest/58552590/
+You Are Wanted S1,2017,Season 1 DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59953246,https://beqcatalogue.readthedocs.io/en/latest/59953246/
 Young Guns,1988,DTS-HD HR 6.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58610000,https://beqcatalogue.readthedocs.io/en/latest/58610000/
 You Were Never Really Here,2017,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58678218,https://beqcatalogue.readthedocs.io/en/latest/58678218/
 Zero Dark Thirty,2012,Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56876198,https://beqcatalogue.readthedocs.io/en/latest/56876198/
@@ -1151,6 +1169,7 @@ Cosmos: Possible Worlds,2020,Season 1 DD+,https://www.avsforum.com/threads/bass-
 Counterpart S1,2018,Season 1 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59409318,https://beqcatalogue.readthedocs.io/en/latest/59409318/
 Counterpart S2,2018,Season 2 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59409356,https://beqcatalogue.readthedocs.io/en/latest/59409356/
 Curon S1,2020,Season 1 Netflix Italian DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59899480,https://beqcatalogue.readthedocs.io/en/latest/59899480/
+Cursed S1,2020,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59961698,https://beqcatalogue.readthedocs.io/en/latest/59961698/
 Da 5 Bloods,2020,Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59807592,https://beqcatalogue.readthedocs.io/en/latest/59807592/
 Daredevil S3,2018,DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57004930,https://beqcatalogue.readthedocs.io/en/latest/57004930/
 Dark S1,2017,DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56824798,https://beqcatalogue.readthedocs.io/en/latest/56824798/
@@ -1168,6 +1187,7 @@ El Hoyo,2019,Netflix Spanish DD+,https://www.avsforum.com/threads/bass-eq-for-fi
 Eurovision Song Contest: The Story of Fire Saga,2020,Netflix DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59873410,https://beqcatalogue.readthedocs.io/en/latest/59873410/
 The Expanse S4,2015,Season 4 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58953556,https://beqcatalogue.readthedocs.io/en/latest/58953556/
 Extraction,2020,Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59542552,https://beqcatalogue.readthedocs.io/en/latest/59542552/
+Fatal Affair,2020,Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59959016,https://beqcatalogue.readthedocs.io/en/latest/59959016/
 For All Mankind,2019,Season 1 Apple TV+ DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58792374,https://beqcatalogue.readthedocs.io/en/latest/58792374/
 Formula 1: Drive to Survive S1,2019,Season 1 DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57773258,https://beqcatalogue.readthedocs.io/en/latest/57773258/
 Formula 1: Drive to Survive S2,2019,Season 2 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59326722,https://beqcatalogue.readthedocs.io/en/latest/59326722/
@@ -1176,6 +1196,7 @@ Free Solo,2018,DTS-HD MA 5.1,https://www.avsforum.com/threads/bass-eq-for-filter
 Furie (Vietnamese),2019,Vietnamese DTS-HD MA 7.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58567996,https://beqcatalogue.readthedocs.io/en/latest/58567996/
 Giri/Haji,2019,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59409964,https://beqcatalogue.readthedocs.io/en/latest/59409964/
 Good Omens S1,2020,Season 1 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59853572,https://beqcatalogue.readthedocs.io/en/latest/59853572/
+Greyhound,2020,Apple TV+ DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59929620,https://beqcatalogue.readthedocs.io/en/latest/59929620/
 Hamilton,2020,Disney+ DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59899408,https://beqcatalogue.readthedocs.io/en/latest/59899408/
 Hanna S1,2019,Season 1 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57869412,https://beqcatalogue.readthedocs.io/en/latest/57869412/
 Hanna S2,2019,Season 2 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59897520,https://beqcatalogue.readthedocs.io/en/latest/59897520/
@@ -1187,6 +1208,7 @@ His Dark Materials S1,2019,Season 1 DD+,https://www.avsforum.com/threads/bass-eq
 Hunters,2020,Season 1 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59284010,https://beqcatalogue.readthedocs.io/en/latest/59284010/
 I Am Mother,2019,Netflix DD+ 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58154736,https://beqcatalogue.readthedocs.io/en/latest/58154736/
 I Am Not Okay With This,2020,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59306080,https://beqcatalogue.readthedocs.io/en/latest/59306080/
+I Know This Much Is True S1,2020,Season 1 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59960014,https://beqcatalogue.readthedocs.io/en/latest/59960014/
 The I-Land,2019,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58682728,https://beqcatalogue.readthedocs.io/en/latest/58682728/
 The Innocents,2018,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59907666,https://beqcatalogue.readthedocs.io/en/latest/59907666/
 In the Shadow of the Moon,2019,Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58643628,https://beqcatalogue.readthedocs.io/en/latest/58643628/
@@ -1222,12 +1244,12 @@ Night on Earth Season 1,2020,Season 1 Netflix DD+ Atmos,https://www.avsforum.com
 Noelle,2019,Disney+ DD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58839118,https://beqcatalogue.readthedocs.io/en/latest/58839118/
 October Faction,2020,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59142448,https://beqcatalogue.readthedocs.io/en/latest/59142448/
 Okja,2017,DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56800284,https://beqcatalogue.readthedocs.io/en/latest/56800284/
+The Old Guard,2020,Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59929730,https://beqcatalogue.readthedocs.io/en/latest/59929730/
 Omniscient S1,2020,Season 1 Netflix Portuguese DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59194806,https://beqcatalogue.readthedocs.io/en/latest/59194806/
 Once Upon a Time in London,2019,Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58686238,https://beqcatalogue.readthedocs.io/en/latest/58686238/
 The Order S1,2019,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59903974,https://beqcatalogue.readthedocs.io/en/latest/59903974/
 The Order S2,2019,Season 2 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59903996,https://beqcatalogue.readthedocs.io/en/latest/59903996/
 Outlaw King,2018,DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57088484,https://beqcatalogue.readthedocs.io/en/latest/57088484/
-The Outpost,2020,Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59904294,https://beqcatalogue.readthedocs.io/en/latest/59904294/
 The Outsider S1,2020,Season 1 DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59128586,https://beqcatalogue.readthedocs.io/en/latest/59128586/
 Ozark S1,2018,Netflix DD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59292632,https://beqcatalogue.readthedocs.io/en/latest/59292632/
 Point Blank,2018,DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56805602,https://beqcatalogue.readthedocs.io/en/latest/56805602/
@@ -1248,22 +1270,25 @@ See,2019,Season 1 Apple TV+ DD+ Atmos,https://www.avsforum.com/threads/bass-eq-f
 A Series of Unfortunate Events S1,2017,Season 1 Netflix DD,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59498648,https://beqcatalogue.readthedocs.io/en/latest/59498648/
 A Series of Unfortunate Events S2,2017,Season 2 Netflix DD,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59498818,https://beqcatalogue.readthedocs.io/en/latest/59498818/
 A Series of Unfortunate Events S3,2017,Season 3 Netflix DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59503994,https://beqcatalogue.readthedocs.io/en/latest/59503994/
-Sex Education ,2019,Season 1 DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57617758,https://beqcatalogue.readthedocs.io/en/latest/57617758/
+Sex Education,2019,Season 1 DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57617758,https://beqcatalogue.readthedocs.io/en/latest/57617758/
+Snowpiercer S1,2020,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59959412,https://beqcatalogue.readthedocs.io/en/latest/59959412/
 Space Force,2020,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59729168,https://beqcatalogue.readthedocs.io/en/latest/59729168/
 Spectral,2016,Netflix DD 5.1,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58440816,https://beqcatalogue.readthedocs.io/en/latest/58440816/
 Spencer Confidential,2020,Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59337504,https://beqcatalogue.readthedocs.io/en/latest/59337504/
 Star Trek: Discovery S:2,2017,Season 2 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57657252,https://beqcatalogue.readthedocs.io/en/latest/57657252/
 Star Trek: Picard S:1,2020,Season 1 DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59174798,https://beqcatalogue.readthedocs.io/en/latest/59174798/
+Stargirl S1,2020,Season 1 DC Universe DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60029290,https://beqcatalogue.readthedocs.io/en/latest/60029290/
 Stranger Things S1,2016,Season 1 Netflix DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58313440,https://beqcatalogue.readthedocs.io/en/latest/58313440/
 Stranger Things S2,2016,Season 2 Netflix DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58314972,https://beqcatalogue.readthedocs.io/en/latest/58314972/
 Stranger Things S3,2016,Season 3 Netflix DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58265196,https://beqcatalogue.readthedocs.io/en/latest/58265196/
 Swallow,2019,Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59535990,https://beqcatalogue.readthedocs.io/en/latest/59535990/
-Tales from the Loop,,,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59447816,https://beqcatalogue.readthedocs.io/en/latest/59447816/
+Tales from the Loop,2020,Amazon Prime DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59447816,https://beqcatalogue.readthedocs.io/en/latest/59447816/
 Taylor Swift: Reputation Stadium Tour,2018,DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57820018,https://beqcatalogue.readthedocs.io/en/latest/57820018/
 Tiger King,2020,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59425530,https://beqcatalogue.readthedocs.io/en/latest/59425530/
 Timmy Failure Mistakes Were Made,2020,Disney+ DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59288088,https://beqcatalogue.readthedocs.io/en/latest/59288088/
 Togo,2019,Disney+ DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58999042,https://beqcatalogue.readthedocs.io/en/latest/58999042/
 Too Old to Die Young,2019,Season 1 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58265724,https://beqcatalogue.readthedocs.io/en/latest/58265724/
+Transformers: War for Cybertron S1,2020,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60015743,https://beqcatalogue.readthedocs.io/en/latest/60015743/
 Treadstone S1,2019,Season 1 DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59010028,https://beqcatalogue.readthedocs.io/en/latest/59010028/
 Triple Frontier,2019,Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57741752,https://beqcatalogue.readthedocs.io/en/latest/57741752/
 True Detective S3,2014,Season 3 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57622950,https://beqcatalogue.readthedocs.io/en/latest/57622950/
@@ -1286,6 +1311,6 @@ The Witcher S1,2019,Season 1 Netflix DD+ Atmos,https://www.avsforum.com/threads/
 The Wolf's Call,2019,French TrueHD Atmos / Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58234030,https://beqcatalogue.readthedocs.io/en/latest/58234030/
 Wounds,2019,Hulu/Netflix DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58700510,https://beqcatalogue.readthedocs.io/en/latest/58700510/
 The Wretched,2019,Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59587530,https://beqcatalogue.readthedocs.io/en/latest/59587530/
-Wu Assassins ,2019,DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58419312,https://beqcatalogue.readthedocs.io/en/latest/58419312/
-Wu Tang:An American Saga ,2019,Hulu DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58776792,https://beqcatalogue.readthedocs.io/en/latest/58776792/
+Wu Assassins,2019,DD+ Atmos,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58419312,https://beqcatalogue.readthedocs.io/en/latest/58419312/
+Wu Tang:An American Saga,2019,Hulu DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58776792,https://beqcatalogue.readthedocs.io/en/latest/58776792/
 ZeroZeroZero,2020,Season 1 Amazon DD+,https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59338922,https://beqcatalogue.readthedocs.io/en/latest/59338922/
