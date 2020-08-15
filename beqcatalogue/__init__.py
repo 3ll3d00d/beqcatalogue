@@ -44,28 +44,86 @@ def extract_from_html():
     return by_id
 
 
+def extract_from_md_line(by_id, idx, trimmed):
+    match = re.search(r"^\[([\w\s\d.:\-'\"’&,/!·•+()]+)]\((?:https://[\w\d./\-\.?=#]+post-)(\d+)( \".*\")?\)", trimmed)
+    if match:
+        name, post_id, extras = match.groups()
+        extra_fragment = trimmed[match.span(3 if extras else 2)[1] + 1:].strip()
+        year = ''
+        match = re.search(r"^.*(?:\((.*)\))+.*", extra_fragment)
+        if match:
+            year = match.group(1)
+            tags_fragment = extra_fragment[0:match.span(1)[0]-1].strip()
+        else:
+            tags_fragment = extra_fragment
+        tags = ''
+        match = re.search(r"^([\w\s\d\-/\.:()+]+)", tags_fragment)
+        if match:
+            tags = match.group(1)
+        if not year and not tags:
+            print(f"Missing extra info at line {idx + 1} [{name}] | {extra_fragment}")
+        elif not year:
+            print(f"Missing year at line {idx + 1} [{name}] | {extra_fragment}")
+        elif not tags:
+            print(f"Missing tags at line {idx + 1} [{name}] | {extra_fragment}")
+        by_id[post_id] = (name, year, tags)
+    else:
+        print(f"Ignoring line {idx + 1} : {trimmed}")
+
+
 def extract_from_md():
     by_id = OrderedDict()
     with open('../../../bmiller/miniDSPBEQ.wiki/BEQ-List.md') as f:
         for idx, l in enumerate(f.readlines()):
             trimmed = l.strip()
             if trimmed and trimmed[0] == '[':
-                # match = re.search(r"^\[([\w\s\d.:\-'\"’&,/!·()]+)]\((?:https://[\w\d./\-\.?=#]+post-)(\d+).*(?:\".*\")?\) ([\w\s\d\-/\.:+]+) \((.*)\)", trimmed)
-                match = re.search(r"^\[([\w\s\d.:\-'\"’&,/!·•+()]+)]\((?:https://[\w\d./\-\.?=#]+post-)(\d+)( \".*\")?\)", trimmed)
-                if match:
-                    name, post_id, extras = match.groups()
-                    extra_fragment = trimmed[match.span(3 if extras else 2)[1]+1:].strip()
-                    match = re.search(r"^([\w\s\d\-/\.:+]+) \((.*)\)", extra_fragment)
-                    if match:
-                        tags = match.group(1)
-                        year = match.group(2)
-                        by_id[post_id] = (name, year, tags)
-                    else:
-                        by_id[post_id] = name
-                        print(f"No extra info found at line {idx+1} [{name}] | {extra_fragment}")
-                else:
-                    print(f"Ignoring line {idx+1} : {trimmed}")
+                for f in fix_formatting(idx, trimmed):
+                    extract_from_md_line(by_id, idx, f)
     return by_id
+
+
+def fix_formatting(idx, trimmed):
+    if idx == 91:
+        return (
+            '[Assimilate](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58501200 "AVS Forum | Home Theater Discussions And Reviews - Post 58501200") BD/DTS-HD MA 5.1 (July 23/2019)',
+        )
+    elif idx == 97:
+        return (
+            '[The Avengers](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56612552 "AVS Forum | Home Theater Discussions And Reviews - Post 56612552") 4K/UHD/ATMOS (Aug.14/2018)',
+            '[The Avengers](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57968986 "AVS Forum | Home Theater Discussions And Reviews - Post 57968986") BD/DTS-HD MA 7.1 (Aug.14/2018)'
+        )
+    elif idx == 250:
+        return (
+            '[Crank](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58041054 "AVS Forum | Home Theater Discussions And Reviews - Post 58041054") 4K/UHD/ATMOS (May 21/2019)',
+            '[Crank](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57968136 "AVS Forum | Home Theater Discussions And Reviews - Post 57968136") BD/LPCM 5.1 (May 21/2019)'        )
+    elif idx == 502:
+        return (
+            '[Hellboy II: The Golden Army](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58021942 "AVS Forum | Home Theater Discussions And Reviews - Post 58021942") 4K/UHD/DTS:X (May 7/2019)',
+            '[Hellboy II: The Golden Army](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57965174 "AVS Forum | Home Theater Discussions And Reviews - Post 57965174") BD/DTS-HD MA 7.1 (May 7/2019)'        )
+    elif idx == 523:
+        return (
+            '[Hot Fuzz](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526692 "AVS Forum | Home Theater Discussions And Reviews - Post 58526692") 4K/UHD/DTS:X (Sept.10/2019)',
+            '[Hot Fuzz](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58015214 "AVS Forum | Home Theater Discussions And Reviews - Post 58015214") BD/DTS-HD MA 5.1 (June 25/2013)'
+        )
+    elif idx == 646:
+        return (
+            '[Jurassic Park](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56894464 "AVS Forum | Home Theater Discussions And Reviews - Post 56894464") 4K/UHD/DTS:X (May22/2018)',
+            '[Jurassic Park](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57964114 "AVS Forum | Home Theater Discussions And Reviews - Post 57964114") BD/DTS-HD MA 7.1 (May22/2018)'        )
+    elif idx == 1039:
+        return (
+            '[Shaun of the Dead](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526330 "AVS Forum | Home Theater Discussions And Reviews - Post 58526330") 4K/UHD/DTS:X (Sept.10/2019)',
+            '[Shaun of the Dead](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58013966 "AVS Forum | Home Theater Discussions And Reviews - Post 58013966") BD/DTS-HD MA 5.1 (Sept.22/2009)'
+        )
+    elif idx == 1088:
+        return (
+            '[Spies in Disguise](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59312546 "AVS Forum | Home Theater Discussions And Reviews - Post 59312546") 4K/UHD/ATMOS (Mar.10/2020)',
+        )
+    elif idx == 1268:
+        return (
+            '[The Worlds End](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526424 "AVS Forum | Home Theater Discussions And Reviews - Post 58526424") 4K/UHD/DTS:X (Sept.10/2019)',
+            '[The Worlds End](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58015350 "AVS Forum | Home Theater Discussions And Reviews - Post 58015350") BD/DTS-HD MA 5.1 (Nov.19/2013)'
+        )
+    return trimmed,
 
 
 def extract_titles():
