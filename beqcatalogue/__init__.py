@@ -261,8 +261,11 @@ with open('../tmp/delta.txt', mode='w+') as delta:
                         tree = HTMLParser(html)
                         found = False
                         if tree.body is not None:
-                            imgs = tree.css(f"article[data-content={post_id}] img[data-src]")
-                            links = [img.attributes['data-src'] for img in imgs]
+                            links = [img.attributes['data-src'] for img in tree.css(f"article[data-content={post_id}] img[data-src]")]
+                            if not links:
+                                urls = [a.attributes['href'] for a in tree.css(f"article[data-content={post_id}] div[class=\"bbMediaWrapper\"] a")]
+                                if urls:
+                                    links = [l[0:l.index('%5B')] for l in urls]
                             if links:
                                 found = True
                                 post_text = tree.css(f"article[data-content={post_id}] article[qid=\"post-text\"] div[class=\"bbWrapper\"]")
@@ -313,7 +316,7 @@ with open('../tmp/delta.txt', mode='w+') as delta:
                             print(f"| [{content_name}](./{k}.md) | | | | [AVS Post]({url}) | | **NO DATA** |", file=cat)
                             with open(f"../docs/{k}.md", mode='w+') as sub:
                                 print(f"**NO CONTENT FOUND**", file=sub)
-                        elif should_cache is True:
+                        if should_cache is True:
                             write_text(post_id, html)
 
                     db_writer.writerow([content_name, release_date, production_year, content_format, url, f"https://beqcatalogue.readthedocs.io/en/latest/{k}/", bd_url])
