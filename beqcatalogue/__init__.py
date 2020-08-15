@@ -105,6 +105,9 @@ def cleanse_release_date(idx, match, trimmed):
         print(f"Incompatible date format {release_date} {log_suffix}")
         return ''
     else:
+        if actual_date.year < 1100:
+            actual_date = actual_date.replace(actual_date.year + 1000)
+            print(f"Year typo {release_date} {log_suffix}")
         return actual_date.strftime('%Y-%m-%d')
 
 
@@ -231,7 +234,7 @@ with open('../tmp/delta.txt', mode='w+') as delta:
         with open('../docs/index.md', mode='w+') as cat:
             with open('../docs/database.csv', 'w+', newline='') as db:
                 db_writer = csv.writer(db)
-                db_writer.writerow(['Title', 'Release Date', 'Production Year', 'Format', 'AVS', 'Catalogue'])
+                db_writer.writerow(['Title', 'Release Date', 'Production Year', 'Format', 'AVS', 'Catalogue', 'blu-ray.com'])
                 print('## Titles', file=cat)
                 print('', file=cat)
                 print(f"| Title | Release Date | Production Year | Format | Discussion | Lookup | Notes |", file=cat)
@@ -251,6 +254,10 @@ with open('../tmp/delta.txt', mode='w+') as delta:
                         release_date = ''
                         content_format = ''
                     production_year = ''
+                    release_year = ''
+                    bd_url = ''
+                    if release_date != '':
+                        release_year = datetime.strptime(release_date, '%Y-%m-%d').strftime('%Y')
 
                     if html is not None:
                         tree = HTMLParser(html)
@@ -273,6 +280,8 @@ with open('../tmp/delta.txt', mode='w+') as delta:
                                             content_format = formatted[2]
                                         if content_format != formatted[2]:
                                             print(f"{content_name},{content_format},{formatted[2]}", file=delta)
+                                        if release_year != '' and release_year != formatted[1]:
+                                            print(f"{content_name},{release_year},{formatted[1]}", file=delta)
                                         production_year = formatted[1]
                                         print(f"* Production Year: {production_year}", file=sub)
                                         print(f"* Format: {content_format}", file=sub)
@@ -292,8 +301,12 @@ with open('../tmp/delta.txt', mode='w+') as delta:
                                 # y:{year}
                                 mdb_url = f"https://www.themoviedb.org/search?query={escaped}"
                                 rt_url = f"https://www.rottentomatoes.com/search?search={escaped}"
-                                # &yearfrom={year}&yearto={year}
-                                bd_url = f"https://www.blu-ray.com/movies/search.php?keyword={escaped}&submit=Search&action=search&"
+                                # &yearfrom={production_year}&yearto={production_year}
+                                # &releaseyear=2006
+                                release_filter = ''
+                                if release_year != '':
+                                    release_filter = f"&releaseyear={release_year}"
+                                bd_url = f"https://www.blu-ray.com/movies/search.php?keyword={escaped}{release_filter}&submit=Search&action=search&"
                                 print(f"| [{content_name}](./{k}.md) | {release_date} | {production_year} | {content_format} | [avsforum]({url}) | [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) | |",
                                       file=cat)
                         if not found:
@@ -304,7 +317,7 @@ with open('../tmp/delta.txt', mode='w+') as delta:
                         elif should_cache is True:
                             write_text(post_id, html)
 
-                    db_writer.writerow([content_name, release_date, production_year, content_format, url, f"https://beqcatalogue.readthedocs.io/en/latest/{k}/"])
+                    db_writer.writerow([content_name, release_date, production_year, content_format, url, f"https://beqcatalogue.readthedocs.io/en/latest/{k}/", bd_url])
 
                 print('', file=cat)
                 print(f"## Offline Access", file=cat)
