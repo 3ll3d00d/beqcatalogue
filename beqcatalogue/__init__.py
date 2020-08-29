@@ -106,7 +106,7 @@ def cleanse_release_date(idx, match, trimmed):
     # parse
     actual_date = extract_as_datetime(['%b-%d-%Y', '%B-%d-%Y', '%b-%Y', '%B-%Y', '%Y'], release_date)
     if not actual_date:
-        actual_date = extract_as_datetime(['%b%d-%Y', '%b-%d-%y', '%b-%d%Y'], release_date)
+        actual_date = extract_as_datetime(['%b%d-%Y', '%b-%d-%y', '%b-%d%Y', '%b-%d-%y', '%B%d-%y'], release_date)
         if actual_date:
             print(f"Non standard date format {release_date} {log_suffix}")
     if not actual_date:
@@ -131,63 +131,14 @@ def extract_as_datetime(formats, release_date):
 
 def extract_from_md():
     by_id = OrderedDict()
-    with open('../../../bmiller/miniDSPBEQ.wiki/BEQ-List.md') as f:
+    with open('../../beqwiki/BEQ-List.md') as f:
         for idx, l in enumerate(f.readlines()):
             trimmed = l.strip()
             if trimmed and trimmed[0] == '[':
-                for f in fix_formatting(idx, trimmed):
-                    post_id, *vals = extract_from_md_line(idx, f)
-                    if post_id:
-                        by_id[post_id] = vals
+                post_id, *vals = extract_from_md_line(idx, trimmed)
+                if post_id:
+                    by_id[post_id] = vals
     return by_id
-
-
-def fix_formatting(idx, trimmed):
-    if idx == 91:
-        return (
-            '[Assimilate](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58501200 "AVS Forum | Home Theater Discussions And Reviews - Post 58501200") BD/DTS-HD MA 5.1 (July 23/2019)',
-        )
-    elif idx == 97:
-        return (
-            '[The Avengers](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56612552 "AVS Forum | Home Theater Discussions And Reviews - Post 56612552") 4K/UHD/ATMOS (Aug.14/2018)',
-            '[The Avengers](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57968986 "AVS Forum | Home Theater Discussions And Reviews - Post 57968986") BD/DTS-HD MA 7.1 (Aug.14/2018)'
-        )
-    elif idx == 250:
-        return (
-            '[Crank](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58041054 "AVS Forum | Home Theater Discussions And Reviews - Post 58041054") 4K/UHD/ATMOS (May 21/2019)',
-            '[Crank](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57968136 "AVS Forum | Home Theater Discussions And Reviews - Post 57968136") BD/LPCM 5.1 (May 21/2019)'        )
-    elif idx == 502:
-        return (
-            '[Hellboy II: The Golden Army](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58021942 "AVS Forum | Home Theater Discussions And Reviews - Post 58021942") 4K/UHD/DTS:X (May 7/2019)',
-            '[Hellboy II: The Golden Army](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57965174 "AVS Forum | Home Theater Discussions And Reviews - Post 57965174") BD/DTS-HD MA 7.1 (May 7/2019)'        )
-    elif idx == 523:
-        return (
-            '[Hot Fuzz](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526692 "AVS Forum | Home Theater Discussions And Reviews - Post 58526692") 4K/UHD/DTS:X (Sept.10/2019)',
-            '[Hot Fuzz](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58015214 "AVS Forum | Home Theater Discussions And Reviews - Post 58015214") BD/DTS-HD MA 5.1 (June 25/2013)'
-        )
-    elif idx == 646:
-        return (
-            '[Jurassic Park](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56894464 "AVS Forum | Home Theater Discussions And Reviews - Post 56894464") 4K/UHD/DTS:X (May22/2018)',
-            '[Jurassic Park](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57964114 "AVS Forum | Home Theater Discussions And Reviews - Post 57964114") BD/DTS-HD MA 7.1 (May22/2018)'        )
-    elif idx == 1039:
-        return (
-            '[Shaun of the Dead](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526330 "AVS Forum | Home Theater Discussions And Reviews - Post 58526330") 4K/UHD/DTS:X (Sept.10/2019)',
-            '[Shaun of the Dead](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58013966 "AVS Forum | Home Theater Discussions And Reviews - Post 58013966") BD/DTS-HD MA 5.1 (Sept.22/2009)'
-        )
-    elif idx == 1088:
-        return (
-            '[Spies in Disguise](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59312546 "AVS Forum | Home Theater Discussions And Reviews - Post 59312546") 4K/UHD/ATMOS (Mar.10/2020)',
-        )
-    elif idx == 1245:
-        return (
-            '[The Wave](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57481870 "AVS Forum | Home Theater Discussions And Reviews - Post 57481870") BD/ATMOS (2016)',
-        )
-    elif idx == 1268:
-        return (
-            '[The Worlds End](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526424 "AVS Forum | Home Theater Discussions And Reviews - Post 58526424") 4K/UHD/DTS:X (Sept.10/2019)',
-            '[The Worlds End](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58015350 "AVS Forum | Home Theater Discussions And Reviews - Post 58015350") BD/DTS-HD MA 5.1 (Nov.19/2013)'
-        )
-    return trimmed,
 
 
 def extract_titles():
@@ -207,6 +158,9 @@ def format_post_text(txt):
         format = m.group(3).replace('\u200b', '')
         return name, year, format
     else:
+        m = re.search(r".*B(?:ass|ASS)?EQ *(.*)", txt)
+        if m:
+            return m.group(1)
         return txt
 
 
@@ -347,12 +301,11 @@ def generate_content_page(content_format, content_name, links_by_text, productio
             if first:
                 formatted = format_post_text(pt)
                 if isinstance(formatted, tuple):
-                    if content_format == '':
-                        content_format = formatted[2]
                     if content_format != formatted[2]:
-                        print(f"{content_name},{content_format},{formatted[2]}", file=delta)
+                        print(f"FORMAT,{content_name},{content_format},{formatted[2]}", file=delta)
+                    content_format = formatted[2]
                     if release_year != '' and release_year != formatted[1]:
-                        print(f"{content_name},{release_year},{formatted[1]}", file=delta)
+                        print(f"DATE,{content_name},{release_year},{formatted[1]}", file=delta)
                     production_year = formatted[1]
                     print(f"* Production Year: {production_year}", file=sub)
                     print('', file=sub)
@@ -364,10 +317,12 @@ def generate_content_page(content_format, content_name, links_by_text, productio
                     print(f"## {content_format}", file=sub)
                     print(formatted, file=sub)
                     print('', file=sub)
+                print(f"{content_name},{content_format}", file=link_titles)
             else:
                 pt = pt if pt[-1] != ':' else pt[0:-1]
                 print(f"## {pt}", file=sub)
                 print('', file=sub)
+                print(f"{content_name},{pt}", file=link_titles)
 
             i = 0
             for l in image_links:
@@ -403,15 +358,16 @@ if __name__ == '__main__':
 
     with open('../tmp/spoilers.txt', mode='w+') as spoilers:
         with open('../tmp/delta.txt', mode='w+') as delta:
-            with open('../tmp/excess.txt', mode='w+') as excess:
-                with open('../docs/index.md', mode='w+') as cat:
-                    with open('../docs/database.csv', 'w+', newline='') as db:
-                        db_writer = csv.writer(db)
-                        db_writer.writerow(['Title', 'Release Date', 'Production Year', 'Format', 'AVS', 'Catalogue', 'blu-ray.com'])
-                        print(f"| Title | Release Date | Production Year | Format | Multiformat? | Discussion | Lookup | Notes |", file=cat)
-                        print(f"|-|-|-|-|-|-|-|-|", file=cat)
+            with open('../tmp/link_titles.txt', mode='w+') as link_titles:
+                with open('../tmp/excess.txt', mode='w+') as excess:
+                    with open('../docs/index.md', mode='w+') as cat:
+                        with open('../docs/database.csv', 'w+', newline='') as db:
+                            db_writer = csv.writer(db)
+                            db_writer.writerow(['Title', 'Release Date', 'Production Year', 'Format', 'AVS', 'Catalogue', 'blu-ray.com'])
+                            print(f"| Title | Release Date | Production Year | Format | Multiformat? | Discussion | Lookup | Notes |", file=cat)
+                            print(f"|-|-|-|-|-|-|-|-|", file=cat)
 
-                        for k, v in posts.items():
-                            process_content()
+                            for k, v in posts.items():
+                                process_content()
 
-                        print('', file=cat)
+                            print('', file=cat)
