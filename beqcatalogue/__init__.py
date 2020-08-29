@@ -242,7 +242,6 @@ def process_content():
         content_format = ''
     production_year = ''
     release_year = ''
-    bd_url = ''
     if release_date != '':
         release_year = datetime.strptime(release_date, '%Y-%m-%d').strftime('%Y')
     if html is not None:
@@ -252,19 +251,14 @@ def process_content():
             links_by_txt, spoiler_links = find_post_content(post_id, tree)
             if links_by_txt:
                 found = True
-                with open(f"../docs/{k}.md", mode='w+') as sub:
-                    content_format, production_year = generate_content_page(content_format, content_name, links_by_txt,
-                                                                            production_year, release_date,
-                                                                            release_year, spoiler_links, sub, url)
-                bd_url = generate_index_entry(content_format, content_name, production_year, release_date,
-                                              release_year, url, len(links_by_txt.keys()) > 1)
+                with open(f"../docs/{k}.md", mode='w+') as content_md:
+                    generate_content_page(content_format, content_name, links_by_txt, production_year, release_date,
+                                          release_year, spoiler_links, content_md, url)
         if not found:
             print(f"Failed to find content in {url} for {content_name}")
-            print(f"| [{content_name}](./{k}.md) | | | | | [AVS Post]({url}) | | **NO DATA** |", file=cat)
-            with open(f"../docs/{k}.md", mode='w+') as sub:
-                print(f"**NO CONTENT FOUND**", file=sub)
-    db_writer.writerow([content_name, release_date, production_year, content_format, url,
-                        f"https://beqcatalogue.readthedocs.io/en/latest/{k}/", bd_url])
+            print(f"| [{content_name}](./{k}.md) | | | | | [AVS Post]({url}) | | **NO DATA** |", file=index_md)
+            with open(f"../docs/{k}.md", mode='w+') as content_md:
+                print(f"**NO CONTENT FOUND**", file=content_md)
 
 
 def generate_index_entry(content_format, content_name, production_year, release_date, release_year, url, multiformat):
@@ -279,24 +273,29 @@ def generate_index_entry(content_format, content_name, production_year, release_
     if release_year != '':
         release_filter = f"&releaseyear={release_year}"
     bd_url = f"https://www.blu-ray.com/movies/search.php?keyword={escaped}{release_filter}&submit=Search&action=search&"
+    from markdown.extensions.toc import slugify
+    extra_slug = f"#{slugify(content_format, '-')}" if multiformat is True else ''
     print(
-        f"| [{content_name}](./{k}.md) | {release_date} | {production_year} | {content_format} | {'Yes' if multiformat else 'No'} | [avsforum]({url}) | [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) | |",
-        file=cat)
+        f"| [{content_name}](./{k}.md{extra_slug}) | {release_date} | {production_year} | {content_format} | {'Yes' if multiformat else 'No'} | [avsforum]({url}) | [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) |",
+        file=index_md)
     return bd_url
 
 
 def generate_content_page(content_format, content_name, links_by_text, production_year, release_date, release_year,
-                          spoiler_links, sub, url):
+                          spoiler_links, content_md, url):
     ''' prints the md content page '''
-    print(f"# {content_name}", file=sub)
-    print("", file=sub)
-    print(f"[Discussion Post]({url})", file=sub)
-    print("", file=sub)
+    print(f"# {content_name}", file=content_md)
+    print("", file=content_md)
+    print(f"[Discussion Post]({url})", file=content_md)
+    print("", file=content_md)
     if release_date != '':
-        print(f"* Release Date: {release_date}", file=sub)
+        print(f"* Release Date: {release_date}", file=content_md)
     first = True
     img_idx = 0
+    is_multiformat = len([k for k in links_by_text.keys() if not k.startswith('Advanced Users Only')]) > 1
     for pt, image_links in links_by_text.items():
+        actual_img_links = []
+        linked_content_format = None
         if image_links:
             if first:
                 formatted = format_post_text(pt)
@@ -307,29 +306,32 @@ def generate_content_page(content_format, content_name, links_by_text, productio
                     if release_year != '' and release_year != formatted[1]:
                         print(f"DATE,{content_name},{release_year},{formatted[1]}", file=delta)
                     production_year = formatted[1]
-                    print(f"* Production Year: {production_year}", file=sub)
-                    print('', file=sub)
-                    print(f"## {content_format}", file=sub)
-                    print('', file=sub)
+                    print(f"* Production Year: {production_year}", file=content_md)
+                    print('', file=content_md)
+                    print(f"## {content_format}", file=content_md)
+                    print('', file=content_md)
+
                 else:
-                    print(f"* Production Year: {production_year}", file=sub)
-                    print('', file=sub)
-                    print(f"## {content_format}", file=sub)
-                    print(formatted, file=sub)
-                    print('', file=sub)
+                    print(f"* Production Year: {production_year}", file=content_md)
+                    print('', file=content_md)
+                    print(f"## {content_format}", file=content_md)
+                    print(formatted, file=content_md)
+                    print('', file=content_md)
                 print(f"{content_name},{content_format}", file=link_titles)
+                linked_content_format = content_format
             else:
                 pt = pt if pt[-1] != ':' else pt[0:-1]
-                print(f"## {pt}", file=sub)
-                print('', file=sub)
+                print(f"## {pt}", file=content_md)
+                print('', file=content_md)
                 print(f"{content_name},{pt}", file=link_titles)
-
+                linked_content_format = pt
             i = 0
             for l in image_links:
                 if len(l) >= 4 and l[0:4] == 'IMG|':
-                    print(f"![img {i + img_idx}]({l[4:]})", file=sub)
-                    print('', file=sub)
+                    print(f"![img {i + img_idx}]({l[4:]})", file=content_md)
+                    print('', file=content_md)
                     i += 1
+                    actual_img_links.append(l[4:])
                 else:
                     print(f"Ignoring post content {url} - {l}")
             img_idx += i
@@ -338,7 +340,12 @@ def generate_content_page(content_format, content_name, links_by_text, productio
             if spoiler_links:
                 print(f"{url} - {content_name} - {len(spoiler_links)}", file=spoilers)
         first = False
-    return content_format, production_year
+        # special case for Arrival
+        if not linked_content_format.startswith('Advanced Users Only'):
+            bd_url = generate_index_entry(linked_content_format, content_name, production_year, release_date,
+                                          release_year, url, is_multiformat)
+            db_writer.writerow([content_name, release_date, production_year, linked_content_format, url,
+                                f"https://beqcatalogue.readthedocs.io/en/latest/{k}/", bd_url] + actual_img_links)
 
 
 if __name__ == '__main__':
@@ -360,14 +367,14 @@ if __name__ == '__main__':
         with open('../tmp/delta.txt', mode='w+') as delta:
             with open('../tmp/link_titles.txt', mode='w+') as link_titles:
                 with open('../tmp/excess.txt', mode='w+') as excess:
-                    with open('../docs/index.md', mode='w+') as cat:
-                        with open('../docs/database.csv', 'w+', newline='') as db:
-                            db_writer = csv.writer(db)
+                    with open('../docs/index.md', mode='w+') as index_md:
+                        with open('../docs/database.csv', 'w+', newline='') as db_csv:
+                            db_writer = csv.writer(db_csv)
                             db_writer.writerow(['Title', 'Release Date', 'Production Year', 'Format', 'AVS', 'Catalogue', 'blu-ray.com'])
-                            print(f"| Title | Release Date | Production Year | Format | Multiformat? | Discussion | Lookup | Notes |", file=cat)
-                            print(f"|-|-|-|-|-|-|-|-|", file=cat)
+                            print(f"| Title | Release Date | Production Year | Format | Multiformat? | Discussion | Lookup |", file=index_md)
+                            print(f"|-|-|-|-|-|-|-|", file=index_md)
 
                             for k, v in posts.items():
                                 process_content()
 
-                            print('', file=cat)
+                            print('', file=index_md)
