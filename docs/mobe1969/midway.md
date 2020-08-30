@@ -1,0 +1,10 @@
+# Midway
+
+* Author: mobe1969
+
+##  DTS-HD MA 5.1
+
+* Release Date: 1976
+
+![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Midway%20%281976%29%20DTS-HD%20MA%205.1.jpg)
+

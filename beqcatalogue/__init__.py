@@ -1,11 +1,36 @@
 import csv
-from datetime import datetime
 import re
 from collections import OrderedDict
+from datetime import datetime
+from os import listdir
+from os.path import isfile, join
 from urllib import parse
 
 import requests
+from markdown.extensions.toc import slugify
 from selectolax.parser import HTMLParser
+
+
+def extract_mobe1969():
+    root_path = '../../../../gitlab/Mobe1969/beq-reports'
+    movie_path = f"{root_path}/Movies"
+    movies = sorted([f for f in listdir(movie_path) if isfile(join(movie_path, f))])
+    # name -> [year, content type, img url]
+    metadata = OrderedDict()
+    for m in movies:
+        # name, year, content type
+        match = re.match(r"(.*)\((\d{4})\)(.*)", m)
+        if match:
+            name = match.group(1).strip()
+            t = match.group(3)
+            vals = [match.group(2), t[:-4], f"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/{parse.quote(m)}"]
+            if name in metadata:
+                metadata[name].append(vals)
+            else:
+                metadata[name] = [vals]
+        else:
+            print(f"Ignoring file {m}")
+    return metadata
 
 
 def get_text(p_id):
@@ -44,6 +69,7 @@ def extract_from_html():
                 if 'xenforo.local' not in name and name not in ignored:
                     by_id[post_id] = name.strip()
     return by_id
+
 
 def scrub_links(txt):
     ''' scrub additional MD links from the text '''
@@ -141,7 +167,7 @@ def extract_from_md():
     return by_id
 
 
-def extract_titles():
+def extract_aron7awol():
     try:
         return extract_from_md()
     except Exception as e:
@@ -228,16 +254,16 @@ def is_descendant_of(node, predicate):
     return predicate(node) or is_descendant_of(node.parent, predicate)
 
 
-def process_content():
-    post_id = f"post-{k}"
-    url = f"https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/{post_id}"
-    html = get_post(post_id, url)
-    if isinstance(v, list):
-        content_name = v[0]
-        release_date = v[1]
-        content_format = v[2]
+def process_aron7awol_content(post_id, content_meta, index_entries):
+    post_id_suffix = f"post-{post_id}"
+    url = f"https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/{post_id_suffix}"
+    html = get_post(post_id_suffix, url)
+    if isinstance(content_meta, list):
+        content_name = content_meta[0]
+        release_date = content_meta[1]
+        content_format = content_meta[2]
     else:
-        content_name = v
+        content_name = content_meta
         release_date = ''
         content_format = ''
     production_year = ''
@@ -248,20 +274,22 @@ def process_content():
         tree = HTMLParser(html)
         found = False
         if tree.body is not None:
-            links_by_txt, spoiler_links = find_post_content(post_id, tree)
+            links_by_txt, spoiler_links = find_post_content(post_id_suffix, tree)
             if links_by_txt:
                 found = True
-                with open(f"../docs/{k}.md", mode='w+') as content_md:
-                    generate_content_page(content_format, content_name, links_by_txt, production_year, release_date,
-                                          release_year, spoiler_links, content_md, url)
+                with open(f"../docs/aron7awol/{post_id}.md", mode='w+') as content_md:
+                    generate_aron7awol_content_page(post_id, content_format, content_name, links_by_txt,
+                                                    production_year, release_date, release_year, spoiler_links,
+                                                    content_md, url, index_entries)
         if not found:
             print(f"Failed to find content in {url} for {content_name}")
-            print(f"| [{content_name}](./{k}.md) | | | | | [AVS Post]({url}) | | **NO DATA** |", file=index_md)
-            with open(f"../docs/{k}.md", mode='w+') as content_md:
+            index_entries.append(f"| [{content_name}](./{post_id}.md) | | | | | [AVS Post]({url}) | | **NO DATA** |")
+            with open(f"../docs/aron7awol/{post_id}.md", mode='w+') as content_md:
                 print(f"**NO CONTENT FOUND**", file=content_md)
 
 
-def generate_index_entry(content_format, content_name, production_year, release_date, release_year, url, multiformat):
+def generate_index_entry(author, page_name, content_format, content_name, production_year, release_date, release_year,
+                         avs_url, multiformat, index_entries):
     ''' dumps the summary info to the index page '''
     escaped = parse.quote(content_name)
     # y:{year}
@@ -273,20 +301,19 @@ def generate_index_entry(content_format, content_name, production_year, release_
     if release_year != '':
         release_filter = f"&releaseyear={release_year}"
     bd_url = f"https://www.blu-ray.com/movies/search.php?keyword={escaped}{release_filter}&submit=Search&action=search&"
-    from markdown.extensions.toc import slugify
     extra_slug = f"#{slugify(content_format, '-')}" if multiformat is True else ''
-    print(
-        f"| [{content_name}](./{k}.md{extra_slug}) | {release_date} | {production_year} | {content_format} | {'Yes' if multiformat else 'No'} | [avsforum]({url}) | [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) |",
-        file=index_md)
+    index_entries.append(f"| [{content_name}](./{author}/{page_name}.md{extra_slug}) | {release_date} | {production_year} | {content_format} | {'Yes' if multiformat else 'No'} | {author} | [avsforum]({avs_url}) [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) |")
     return bd_url
 
 
-def generate_content_page(content_format, content_name, links_by_text, production_year, release_date, release_year,
-                          spoiler_links, content_md, url):
+def generate_aron7awol_content_page(post_id, content_format, content_name, links_by_text, production_year, release_date,
+                                    release_year, spoiler_links, content_md, avs_post_url, index_entries):
     ''' prints the md content page '''
     print(f"# {content_name}", file=content_md)
     print("", file=content_md)
-    print(f"[Discussion Post]({url})", file=content_md)
+    print("* Author: aron7awol", file=content_md)
+    print("", file=content_md)
+    print(f"* [Forum Post]({avs_post_url})", file=content_md)
     print("", file=content_md)
     if release_date != '':
         print(f"* Release Date: {release_date}", file=content_md)
@@ -333,23 +360,57 @@ def generate_content_page(content_format, content_name, links_by_text, productio
                     i += 1
                     actual_img_links.append(l[4:])
                 else:
-                    print(f"Ignoring post content {url} - {l}")
+                    print(f"Ignoring post content {avs_post_url} - {l}")
             img_idx += i
             if i > 2:
-                print(f"{url} - {content_name} - {i}", file=excess)
+                print(f"{avs_post_url} - {content_name} - {i}", file=excess)
             if spoiler_links:
-                print(f"{url} - {content_name} - {len(spoiler_links)}", file=spoilers)
+                print(f"{avs_post_url} - {content_name} - {len(spoiler_links)}", file=spoilers)
         first = False
         # special case for Arrival
         if not linked_content_format.startswith('Advanced Users Only'):
-            bd_url = generate_index_entry(linked_content_format, content_name, production_year, release_date,
-                                          release_year, url, is_multiformat)
-            db_writer.writerow([content_name, release_date, production_year, linked_content_format, url,
-                                f"https://beqcatalogue.readthedocs.io/en/latest/{k}/", bd_url] + actual_img_links)
+            bd_url = generate_index_entry('aron7awol', post_id, linked_content_format, content_name, production_year, release_date,
+                                          release_year, avs_post_url, is_multiformat, index_entries)
+            db_writer.writerow([content_name, release_date, production_year, linked_content_format, 'aron7awol', avs_post_url,
+                                f"https://beqcatalogue.readthedocs.io/en/latest/aron7awol/{post_id}/", bd_url] + actual_img_links)
+
+
+def process_mobe1969_content(content_name, content_meta, index_entries):
+    page_name = slugify(content_name, '-')
+    with open(f"../docs/mobe1969/{page_name}.md", mode='w+') as content_md:
+        generate_mobe1969_content_page(page_name, content_name, content_meta, index_entries, content_md)
+
+
+def generate_mobe1969_content_page(page_name, content_name, content_meta, index_entries, content_md):
+    '''
+    Creates a content page for an entry in Mobe1969's repo.
+    :param content_name:
+    :param content_meta:
+    :param index_entries:
+    :param content_md:
+    '''
+    print(f"# {content_name}", file=content_md)
+    print("", file=content_md)
+    print("* Author: mobe1969", file=content_md)
+    print("", file=content_md)
+    for meta in content_meta:
+        print(f"## {meta[1]}", file=content_md)
+        print('', file=content_md)
+        print(f"* Release Date: {meta[0]}", file=content_md)
+        print('', file=content_md)
+        print(f"![img0]({meta[2]})", file=content_md)
+        print('', file=content_md)
+        bd_url = generate_index_entry('mobe1969', page_name, meta[1], content_name, meta[0], meta[0],
+                                      meta[0], None, len(content_meta) > 1, index_entries)
+        db_writer.writerow([content_name, meta[0], meta[0], meta[1], 'mobe1969', None,
+                            f"https://beqcatalogue.readthedocs.io/en/latest/mobe1969/{page_name}/", bd_url, meta[2]])
 
 
 if __name__ == '__main__':
-    posts = extract_titles()
+    aron7awol_posts = extract_aron7awol()
+    print(f"Extracted {len(aron7awol_posts.keys())} aron7awol catalogue entries")
+    mobe1969_files = extract_mobe1969()
+    print(f"Extracted {len(mobe1969_files.keys())} mobe1969 catalogue entries")
     # posts = extract_from_html()
     # p2 = extract_from_md()
     #
@@ -361,7 +422,6 @@ if __name__ == '__main__':
     #         print(f"Missing from md {k} -> {v}")
     #
     # exit(1)
-    print(f"Extracted {len(posts.keys())} catalogue entries")
 
     with open('../tmp/spoilers.txt', mode='w+') as spoilers:
         with open('../tmp/delta.txt', mode='w+') as delta:
@@ -370,11 +430,16 @@ if __name__ == '__main__':
                     with open('../docs/index.md', mode='w+') as index_md:
                         with open('../docs/database.csv', 'w+', newline='') as db_csv:
                             db_writer = csv.writer(db_csv)
-                            db_writer.writerow(['Title', 'Release Date', 'Production Year', 'Format', 'AVS', 'Catalogue', 'blu-ray.com'])
-                            print(f"| Title | Release Date | Production Year | Format | Multiformat? | Discussion | Lookup |", file=index_md)
+                            db_writer.writerow(['Title', 'Release Date', 'Production Year', 'Format', 'Author', 'AVS', 'Catalogue', 'blu-ray.com'])
+                            print(f"| Title | Release Date | Production Year | Format | Multiformat? | Author | Links |", file=index_md)
                             print(f"|-|-|-|-|-|-|-|", file=index_md)
+                            index_entries = []
+                            for post_id, content_meta in aron7awol_posts.items():
+                                process_aron7awol_content(post_id, content_meta, index_entries)
 
-                            for k, v in posts.items():
-                                process_content()
+                            for content_name, content_meta in mobe1969_files.items():
+                                process_mobe1969_content(content_name, content_meta, index_entries)
 
+                            for i in sorted(index_entries, key=str.casefold):
+                                print(i, file=index_md)
                             print('', file=index_md)

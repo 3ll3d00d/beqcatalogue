@@ -1,0 +1,10 @@
+# Yakuza Apocalypse
+
+* Author: mobe1969
+
+##  DTS-HD MA 5.1 Ja
+
+* Release Date: 2015
+
+![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Yakuza%20Apocalypse%20%282015%29%20DTS-HD%20MA%205.1%20Ja.jpg)
+

@@ -1,0 +1,10 @@
+# Spy Kids 4
+
+* Author: mobe1969
+
+##  DTS-HD MA 5.1
+
+* Release Date: 2011
+
+![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Spy%20Kids%204%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+
