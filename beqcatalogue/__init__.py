@@ -372,7 +372,7 @@ def generate_aron7awol_content_page(post_id, content_format, content_name, links
             bd_url = generate_index_entry('aron7awol', post_id, linked_content_format, content_name, production_year, release_date,
                                           release_year, avs_post_url, is_multiformat, index_entries)
             db_writer.writerow([content_name, release_date, production_year, linked_content_format, 'aron7awol', avs_post_url,
-                                f"https://beqcatalogue.readthedocs.io/en/latest/aron7awol/{post_id}/", bd_url] + actual_img_links)
+                                f"https://beqcatalogue.readthedocs.io/en/latest/aron7awol/{post_id}/#{slugify(linked_content_format, '-')}", bd_url] + actual_img_links)
 
 
 def process_mobe1969_content(content_name, content_meta, index_entries):
@@ -403,7 +403,8 @@ def generate_mobe1969_content_page(page_name, content_name, content_meta, index_
         bd_url = generate_index_entry('mobe1969', page_name, meta[1], content_name, meta[0], meta[0],
                                       meta[0], None, len(content_meta) > 1, index_entries)
         db_writer.writerow([content_name, meta[0], meta[0], meta[1], 'mobe1969', None,
-                            f"https://beqcatalogue.readthedocs.io/en/latest/mobe1969/{page_name}/", bd_url, meta[2]])
+                            f"https://beqcatalogue.readthedocs.io/en/latest/mobe1969/{page_name}/#{slugify(meta[1], '-')}",
+                            bd_url, meta[2]])
 
 
 if __name__ == '__main__':
