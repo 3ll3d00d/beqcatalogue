@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS 5.1 Ja
+## DTS 5.1 Ja
 
 * Release Date: 2004
 

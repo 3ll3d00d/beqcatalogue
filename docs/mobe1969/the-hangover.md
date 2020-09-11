@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  (Unrated) TrueHD 5.1
+## (Unrated) TrueHD 5.1
 
 * Release Date: 2009
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  AC3 5.1 Ja
+## AC3 5.1 Ja
 
 * Release Date: 2007
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-X MA
+## DTS-X MA
 
 * Release Date: 1995
 

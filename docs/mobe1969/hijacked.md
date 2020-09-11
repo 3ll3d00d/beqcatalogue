@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  TrueHD 5.1.signal
+## TrueHD 5.1.signal
 
 * Release Date: 2012
 

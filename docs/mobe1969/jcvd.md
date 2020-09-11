@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  TrueHD 5.1 Fr
+## TrueHD 5.1 Fr
 
 * Release Date: 2008
 

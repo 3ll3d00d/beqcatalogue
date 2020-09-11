@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HRA 5.1
+## DTS-HRA 5.1
 
 * Release Date: 2007
 

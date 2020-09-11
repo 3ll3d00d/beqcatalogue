@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  (Uncut) DTSD-HD MA 5.1
+## (Uncut) DTSD-HD MA 5.1
 
 * Release Date: 2007
 

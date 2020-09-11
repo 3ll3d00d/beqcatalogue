@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HD HRA 6.1
+## DTS-HD HRA 6.1
 
 * Release Date: 1999
 

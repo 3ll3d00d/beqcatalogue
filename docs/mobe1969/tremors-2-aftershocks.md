@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HD MA 2.0
+## DTS-HD MA 2.0
 
 * Release Date: 1996
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-X MA Ko
+## DTS-X MA Ko
 
 * Release Date: 2016
 

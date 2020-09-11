@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTDS-HD MA 5.1 Fr
+## DTDS-HD MA 5.1 Fr
 
 * Release Date: 2010
 

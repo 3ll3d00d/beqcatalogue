@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HD MA 5.1 Sw
+## DTS-HD MA 5.1 Sw
 
 * Release Date: 2008
 

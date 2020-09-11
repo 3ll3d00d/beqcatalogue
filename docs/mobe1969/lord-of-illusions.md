@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  (DC) DTS-HD MA 5.1
+## (DC) DTS-HD MA 5.1
 
 * Release Date: 1995
 

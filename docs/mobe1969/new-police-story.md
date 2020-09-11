@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  AC3 5.1 Ca
+## AC3 5.1 Ca
 
 * Release Date: 2004
 

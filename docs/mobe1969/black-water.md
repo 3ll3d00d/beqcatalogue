@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  LPCM 5.1
+## LPCM 5.1
 
 * Release Date: 2018
 

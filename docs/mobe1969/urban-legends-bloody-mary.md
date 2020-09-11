@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  AC3 2.0
+## AC3 2.0
 
 * Release Date: 2005
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  LPCM+DTS-HD MA 5.1 Ja
+## LPCM+DTS-HD MA 5.1 Ja
 
 * Release Date: 2010
 

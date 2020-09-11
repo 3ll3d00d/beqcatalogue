@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  LPCM 2.0 Ja
+## LPCM 2.0 Ja
 
 * Release Date: 1995
 

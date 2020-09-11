@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DT-HD MA 5.1
+## DT-HD MA 5.1
 
 * Release Date: 2014
 

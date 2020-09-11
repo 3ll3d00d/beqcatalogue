@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  TrueHD + DTS-HD MA 5.1
+## TrueHD + DTS-HD MA 5.1
 
 * Release Date: 2006
 

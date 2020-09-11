@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  TrueHD 7.1
+## TrueHD 7.1
 
 * Release Date: 1991
 

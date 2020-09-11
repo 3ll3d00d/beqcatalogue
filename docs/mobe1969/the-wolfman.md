@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  (Extended) DTS-HD MA 5.1
+## (Extended) DTS-HD MA 5.1
 
 * Release Date: 2010
 

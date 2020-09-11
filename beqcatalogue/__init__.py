@@ -22,7 +22,7 @@ def extract_mobe1969():
         match = re.match(r"(.*)\((\d{4})\)(.*)", m)
         if match:
             name = match.group(1).strip()
-            t = match.group(3)
+            t = match.group(3).strip()
             vals = [match.group(2), t[:-4], f"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/{parse.quote(m)}"]
             if name in metadata:
                 metadata[name].append(vals)

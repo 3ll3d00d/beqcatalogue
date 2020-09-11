@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HD HRA 7.1
+## DTS-HD HRA 7.1
 
 * Release Date: 2007
 

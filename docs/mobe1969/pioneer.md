@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HD MA 7.1 Nor
+## DTS-HD MA 7.1 Nor
 
 * Release Date: 2013
 

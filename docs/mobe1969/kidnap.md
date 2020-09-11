@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  (US Ver) DTS-HD MA 5.1
+## (US Ver) DTS-HD MA 5.1
 
 * Release Date: 2017
 

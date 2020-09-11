@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  TrueHD 5.1
+## TrueHD 5.1
 
 * Release Date: 2006
 

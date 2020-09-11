@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HD MA 5.1 Ja
+## DTS-HD MA 5.1 Ja
 
 * Release Date: 2003
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HD MA 5.1 Da
+## DTS-HD MA 5.1 Da
 
 * Release Date: 2017
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HD MA 5.1 He
+## DTS-HD MA 5.1 He
 
 * Release Date: 2007
 

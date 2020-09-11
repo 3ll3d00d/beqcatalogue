@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HD MA 5.1 No
+## DTS-HD MA 5.1 No
 
 * Release Date: 2011
 

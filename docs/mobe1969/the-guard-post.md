@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  AC3 5.1 Ko
+## AC3 5.1 Ko
 
 * Release Date: 2008
 

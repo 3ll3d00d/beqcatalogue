@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HD MA 7.1
+## DTS-HD MA 7.1
 
 * Release Date: 2017
 

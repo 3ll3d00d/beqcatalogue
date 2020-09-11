@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  LPCM 7.1
+## LPCM 7.1
 
 * Release Date: 2007
 

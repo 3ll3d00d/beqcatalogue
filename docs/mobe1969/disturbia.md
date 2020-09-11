@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-ES 5.1
+## DTS-ES 5.1
 
 * Release Date: 2007
 

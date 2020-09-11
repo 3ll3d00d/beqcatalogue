@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  TrueHD 6.1 Ja
+## TrueHD 6.1 Ja
 
 * Release Date: 2009
 

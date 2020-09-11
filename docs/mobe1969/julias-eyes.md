@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS_HD MA 5.1 Sp
+## DTS_HD MA 5.1 Sp
 
 * Release Date: 2010
 

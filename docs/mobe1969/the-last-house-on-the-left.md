@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  (Unrated) DTS-HD MA 5.1
+## (Unrated) DTS-HD MA 5.1
 
 * Release Date: 2009
 

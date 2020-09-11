@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  TrueHD Atmos
+## TrueHD Atmos
 
 * Release Date: 2015
 

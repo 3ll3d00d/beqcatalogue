@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  TrueHD 7.1 Atmos
+## TrueHD 7.1 Atmos
 
 * Release Date: 2017
 

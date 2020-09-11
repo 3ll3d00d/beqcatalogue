@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  AC3 5.1
+## AC3 5.1
 
 * Release Date: 2017
 

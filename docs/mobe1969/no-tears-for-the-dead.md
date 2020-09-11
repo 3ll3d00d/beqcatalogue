@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-##  DTS-HD MA 5.1 Ko
+## DTS-HD MA 5.1 Ko
 
 * Release Date: 2014
 
