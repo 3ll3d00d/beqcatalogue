@@ -8,7 +8,7 @@ setup_git() {
 commit_files() {
   git checkout -b feature/travis-test
   git add -A
-  git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+  git commit -m "Travis build: $TRAVIS_BUILD_NUMBER" -m "[ci skip]"
 }
 
 upload_files() {
@@ -17,5 +17,5 @@ upload_files() {
 }
 
 setup_git
-commit_website_files
+commit_files
 upload_files
