@@ -5,6 +5,7 @@ cache:
     - .input
     - tmp
 language: python
+python: '3.7'
 dist: focal
 env:
   global:
