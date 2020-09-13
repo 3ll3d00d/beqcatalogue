@@ -26,8 +26,7 @@ before_script:
       cd .input/Mobe1969/beq-reports
       git pull
     else
-      mkdir -p .input/Mobe1969
-      git clone https://gitlab.com/Mobe1969/beq-reports.git .input/Mobe1969/
+      git clone https://gitlab.com/Mobe1969/beq-reports.git .input/Mobe1969/beq-reports
     fi
   - |
     if [[ -d .input/bmiller/miniDSPBEQ.wiki ]]
@@ -35,8 +34,7 @@ before_script:
       cd .input/bmiller/miniDSPBEQ.wiki
       git pull
     else
-      mkdir -p .input/bmiller
-      git clone https://github.com/bmiller/miniDSPBEQ.wiki.git .input/bmiller/
+      git clone https://github.com/bmiller/miniDSPBEQ.wiki.git .input/bmiller/miniDSPBEQ.wiki
     fi
 script:
   - pipenv run python beqcatalogue/__init__.py
