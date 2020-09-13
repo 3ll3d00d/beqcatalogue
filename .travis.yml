@@ -39,6 +39,6 @@ before_script:
       git clone https://github.com/bmiller/miniDSPBEQ.wiki.git .input/bmiller/
     fi
 script:
-  - pipenv run python -m beqcatalogue
+  - pipenv run python beqcatalogue/__init__.py
 after_success:
   - .travis/push.sh

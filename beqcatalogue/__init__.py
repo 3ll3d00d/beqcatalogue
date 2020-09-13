@@ -1,4 +1,5 @@
 import csv
+import os
 import re
 from collections import OrderedDict
 from datetime import datetime
@@ -12,7 +13,7 @@ from selectolax.parser import HTMLParser
 
 
 def extract_mobe1969():
-    root_path = '../../../../gitlab/Mobe1969/beq-reports'
+    root_path = '.input/Mobe1969/beq-reports'
     movie_path = f"{root_path}/Movies"
     movies = sorted([f for f in listdir(movie_path) if isfile(join(movie_path, f))])
     # name -> [year, content type, img url]
@@ -35,14 +36,14 @@ def extract_mobe1969():
 
 def get_text(p_id):
     try:
-        with open(f"../tmp/{p_id}.html") as f:
+        with open(f"tmp/{p_id}.html") as f:
             return f.read()
     except:
         return None
 
 
 def write_text(p_id, txt):
-    with open(f"../tmp/{p_id}.html", mode='w') as f:
+    with open(f"tmp/{p_id}.html", mode='w') as f:
         f.write(txt)
 
 
@@ -157,7 +158,7 @@ def extract_as_datetime(formats, release_date):
 
 def extract_from_md():
     by_id = OrderedDict()
-    with open('../../beqwiki/BEQ-List.md') as f:
+    with open('.input/bmiller/miniDSPBEQ.wiki/BEQ-List.md') as f:
         for idx, l in enumerate(f.readlines()):
             trimmed = l.strip()
             if trimmed and trimmed[0] == '[':
@@ -277,14 +278,14 @@ def process_aron7awol_content(post_id, content_meta, index_entries):
             links_by_txt, spoiler_links = find_post_content(post_id_suffix, tree)
             if links_by_txt:
                 found = True
-                with open(f"../docs/aron7awol/{post_id}.md", mode='w+') as content_md:
+                with open(f"docs/aron7awol/{post_id}.md", mode='w+') as content_md:
                     generate_aron7awol_content_page(post_id, content_format, content_name, links_by_txt,
                                                     production_year, release_date, release_year, spoiler_links,
                                                     content_md, url, index_entries)
         if not found:
             print(f"Failed to find content in {url} for {content_name}")
             index_entries.append(f"| [{content_name}](./{post_id}.md) | | | | | [AVS Post]({url}) | | **NO DATA** |")
-            with open(f"../docs/aron7awol/{post_id}.md", mode='w+') as content_md:
+            with open(f"docs/aron7awol/{post_id}.md", mode='w+') as content_md:
                 print(f"**NO CONTENT FOUND**", file=content_md)
 
 
@@ -377,7 +378,7 @@ def generate_aron7awol_content_page(post_id, content_format, content_name, links
 
 def process_mobe1969_content(content_name, content_meta, index_entries):
     page_name = slugify(content_name, '-')
-    with open(f"../docs/mobe1969/{page_name}.md", mode='w+') as content_md:
+    with open(f"docs/mobe1969/{page_name}.md", mode='w+') as content_md:
         generate_mobe1969_content_page(page_name, content_name, content_meta, index_entries, content_md)
 
 
@@ -407,6 +408,10 @@ def generate_mobe1969_content_page(page_name, content_name, content_meta, index_
                             bd_url, meta[2]])
 
 
+if os.getcwd() == __file__:
+    print(f"Switching CWD")
+    os.chdir('..')
+
 if __name__ == '__main__':
     aron7awol_posts = extract_aron7awol()
     print(f"Extracted {len(aron7awol_posts.keys())} aron7awol catalogue entries")
@@ -424,12 +429,12 @@ if __name__ == '__main__':
     #
     # exit(1)
 
-    with open('../tmp/spoilers.txt', mode='w+') as spoilers:
-        with open('../tmp/delta.txt', mode='w+') as delta:
-            with open('../tmp/link_titles.txt', mode='w+') as link_titles:
-                with open('../tmp/excess.txt', mode='w+') as excess:
-                    with open('../docs/index.md', mode='w+') as index_md:
-                        with open('../docs/database.csv', 'w+', newline='') as db_csv:
+    with open('tmp/spoilers.txt', mode='w+') as spoilers:
+        with open('tmp/delta.txt', mode='w+') as delta:
+            with open('tmp/link_titles.txt', mode='w+') as link_titles:
+                with open('tmp/excess.txt', mode='w+') as excess:
+                    with open('docs/index.md', mode='w+') as index_md:
+                        with open('docs/database.csv', 'w+', newline='') as db_csv:
                             db_writer = csv.writer(db_csv)
                             db_writer.writerow(['Title', 'Release Date', 'Production Year', 'Format', 'Author', 'AVS', 'Catalogue', 'blu-ray.com'])
                             print(f"| Title | Release Date | Production Year | Format | Multiformat? | Author | Links |", file=index_md)
