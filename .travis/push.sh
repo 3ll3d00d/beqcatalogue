@@ -13,7 +13,7 @@ commit_files() {
 
 upload_files() {
   git remote add origin-pages https://${GH_TOKEN}@github.com/3ll3d00d/beqcatalogue.git > /dev/null 2>&1
-  git push -set-upstream origin-pages HEAD
+  git push --set-upstream origin-pages HEAD
 }
 
 setup_git
