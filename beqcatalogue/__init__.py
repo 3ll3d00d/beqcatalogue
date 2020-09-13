@@ -408,9 +408,11 @@ def generate_mobe1969_content_page(page_name, content_name, content_meta, index_
                             bd_url, meta[2]])
 
 
-if os.getcwd() == __file__:
-    print(f"Switching CWD")
+if os.getcwd() == os.path.dirname(os.path.abspath(__file__)):
+    print(f"Switching CWD from {os.getcwd()}")
     os.chdir('..')
+else:
+    print(f"CWD: {os.getcwd()}")
 
 if __name__ == '__main__':
     aron7awol_posts = extract_aron7awol()
