@@ -1,0 +1,44 @@
+cache:
+  directories:
+    - "$PIP_CACHE_DIR"
+    - "$PIPENV_CACHE_DIR"
+    - .input
+    - tmp
+language: python
+dist: focal
+env:
+  global:
+    - PIP_CACHE_DIR=$HOME/.cache/pip
+    - PIPENV_CACHE_DIR=$HOME/.cache/pipenv
+    - PIPENV_VENV_IN_PROJECT=yes
+    - PIPENV_VERBOSITY=-1
+before_install:
+  - pip3 install --upgrade pip
+install:
+  - pip3 install pipenv
+  - pipenv install -d
+  - pip3 list
+  - pipenv run pip3 list
+before_script:
+  - |
+    if [[ -d .input/Mobe1969/beq-reports ]]
+    then
+      cd .input/Mobe1969/beq-reports
+      git pull
+    else
+      mkdir -p .input/Mobe1969
+      git clone https://gitlab.com/Mobe1969/beq-reports.git .input/Mobe1969/
+    fi
+  - |
+    if [[ -d .input/bmiller/miniDSPBEQ.wiki ]]
+    then
+      cd .input/bmiller/miniDSPBEQ.wiki
+      git pull
+    else
+      mkdir -p .input/bmiller
+      git clone https://github.com/bmiller/miniDSPBEQ.wiki.git .input/bmiller/
+    fi
+script:
+  - pipenv run python -m beqcatalogue
+after_success:
+  - .travis/push.sh
