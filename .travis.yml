@@ -25,19 +25,24 @@ before_script:
 - |
   if [[ -d .input/Mobe1969/beq-reports ]]
   then
-    cd .input/Mobe1969/beq-reports
+    pushd .input/Mobe1969/beq-reports
     git pull
+    popd
   else
     git clone https://gitlab.com/Mobe1969/beq-reports.git .input/Mobe1969/beq-reports
   fi
 - |
   if [[ -d .input/bmiller/miniDSPBEQ.wiki ]]
   then
-    cd .input/bmiller/miniDSPBEQ.wiki
+    pushd .input/bmiller/miniDSPBEQ.wiki
     git pull
+    popd
   else
     git clone https://github.com/bmiller/miniDSPBEQ.wiki.git .input/bmiller/miniDSPBEQ.wiki
   fi
+  pushd .input/bmiller/miniDSPBEQ.wiki
+  git apply ../../../beqwiki.patch
+  popd
 script:
 - pipenv run python beqcatalogue/__init__.py
 after_success:
