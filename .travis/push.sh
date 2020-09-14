@@ -6,7 +6,7 @@ setup_git() {
 }
 
 commit_files() {
-  git checkout -b feature/travis-test
+  git checkout -b master
   git add -A
   git commit -m "Travis build: $TRAVIS_BUILD_NUMBER" -m "[ci skip]"
 }
