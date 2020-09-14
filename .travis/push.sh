@@ -6,14 +6,14 @@ setup_git() {
 }
 
 commit_files() {
-  git remote -v
+  git checkout -b travis-upd
   git add -A
   git commit -m "Travis build: $TRAVIS_BUILD_NUMBER" -m "[ci skip]"
 }
 
 upload_files() {
   git remote add origin-pages https://${GH_TOKEN}@github.com/3ll3d00d/beqcatalogue.git > /dev/null 2>&1
-  git push --set-upstream origin-pages HEAD
+  git push -q -u origin-pages travis-upd:master
 }
 
 setup_git
