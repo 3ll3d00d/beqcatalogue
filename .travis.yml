@@ -1,44 +1,45 @@
 cache:
   directories:
-    - "$PIP_CACHE_DIR"
-    - "$PIPENV_CACHE_DIR"
-    - .input
-    - tmp
+  - "$PIP_CACHE_DIR"
+  - "$PIPENV_CACHE_DIR"
+  - ".input"
+  - tmp
 language: python
 python: '3.7'
 dist: focal
 virt: lxd
 env:
   global:
-    - PIP_CACHE_DIR=$HOME/.cache/pip
-    - PIPENV_CACHE_DIR=$HOME/.cache/pipenv
-    - PIPENV_VENV_IN_PROJECT=yes
-    - PIPENV_VERBOSITY=-1
+  - PIP_CACHE_DIR=$HOME/.cache/pip
+  - PIPENV_CACHE_DIR=$HOME/.cache/pipenv
+  - PIPENV_VENV_IN_PROJECT=yes
+  - PIPENV_VERBOSITY=-1
+  - secure: VCXIoxaM0hdtnSQjfbhKC+zJp1boxNA6R67Hcm512BCZh5z3vC5Tit6gdYkz2U7UjfufIxOVs0G6/A7hG5u8pe/QLEuj8FuoKxhgExlnAPxeG7H4CM03DxcGwVhKrLjsi/qOAcfZXbL6MDB1PxTeX8ur8MV6LEJrrnNodtd7hqG+1XmN/YizAV0GL6sTvuhbnLPl0l/nxP46r5Qhz3P4EavN1yNeBMVPcQGzIbZGnfM179QJWoJUS2jn3XejL4u6ZFigMXUXHTWRm8GTYNDQAYeKcDSzZfyT1fzUF9eDLN1/5KN4HpmpVFL5YtrmpJk/Srn0iBy1/9Wgi2DX8wTuOicqmTwKldgB2EvSPqj8WpLyHHkZgvudueIcL6a+wMdjE8a0WP8jQ+MtHjoQtzuU2sHEuAGX/pq4YFOH82xlDPY/x6SDCBzVaLDOEagt53pTfjSvdKOji+RIk/jiVp3N00vFcWp6W0CwZl9UzRBdCJ0H4ZH/FnVzvGbENvQ4bd4RH/EdxRn96cqUjNlkYbwPGZ0AvfX9AOFejlU2e/f+/AnbU8OjIUuGLIpmY9rmhILlpZS9kMuAPk7EUjvq3NammeZ3Ml/ClDAFqCdByl+0B9lzYGMgfBKdEHOYgPaZNjl00yzkIu9ourU/DLXrqSVp7FktUddMVENy7y+EU6ZWJEo=
 before_install:
-  - pip3 install --upgrade pip
+- pip3 install --upgrade pip
 install:
-  - pip3 install pipenv
-  - pipenv install -d
-  - pip3 list
-  - pipenv run pip3 list
+- pip3 install pipenv
+- pipenv install -d
+- pip3 list
+- pipenv run pip3 list
 before_script:
-  - |
-    if [[ -d .input/Mobe1969/beq-reports ]]
-    then
-      cd .input/Mobe1969/beq-reports
-      git pull
-    else
-      git clone https://gitlab.com/Mobe1969/beq-reports.git .input/Mobe1969/beq-reports
-    fi
-  - |
-    if [[ -d .input/bmiller/miniDSPBEQ.wiki ]]
-    then
-      cd .input/bmiller/miniDSPBEQ.wiki
-      git pull
-    else
-      git clone https://github.com/bmiller/miniDSPBEQ.wiki.git .input/bmiller/miniDSPBEQ.wiki
-    fi
+- |
+  if [[ -d .input/Mobe1969/beq-reports ]]
+  then
+    cd .input/Mobe1969/beq-reports
+    git pull
+  else
+    git clone https://gitlab.com/Mobe1969/beq-reports.git .input/Mobe1969/beq-reports
+  fi
+- |
+  if [[ -d .input/bmiller/miniDSPBEQ.wiki ]]
+  then
+    cd .input/bmiller/miniDSPBEQ.wiki
+    git pull
+  else
+    git clone https://github.com/bmiller/miniDSPBEQ.wiki.git .input/bmiller/miniDSPBEQ.wiki
+  fi
 script:
-  - pipenv run python beqcatalogue/__init__.py
+- pipenv run python beqcatalogue/__init__.py
 after_success:
-  - .travis/push.sh
+- ".travis/push.sh"
