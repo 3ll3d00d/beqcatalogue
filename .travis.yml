@@ -34,14 +34,13 @@ before_script:
 - |
   if [[ -d .input/bmiller/miniDSPBEQ.wiki ]]
   then
-    pushd .input/bmiller/miniDSPBEQ.wiki
+    pushd .input/bmiller/miniDSPBEQ
     git pull
     popd
   else
-    git clone https://github.com/bmiller/miniDSPBEQ.wiki.git .input/bmiller/miniDSPBEQ.wiki
+    git clone https://github.com/bmiller/miniDSPBEQ.git .input/bmiller/miniDSPBEQ
   fi
-  pushd .input/bmiller/miniDSPBEQ.wiki
-  git apply ../../../beqwiki.patch
+  pushd .input/bmiller/miniDSPBEQ
   popd
 script:
 - pipenv run python beqcatalogue/__init__.py

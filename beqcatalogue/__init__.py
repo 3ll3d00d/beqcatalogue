@@ -168,12 +168,65 @@ def extract_from_md():
     return by_id
 
 
+def extract_from_repo():
+    '''
+    extracts beq_metadata of following format
+           <beq_metadata>
+                <beq_title>9</beq_title>
+                <beq_alt_title />
+                <beq_sortTitle>9</beq_sortTitle>
+                <beq_year>2009</beq_year>
+                <beq_spectrumURL>https://i.imgur.com/aRic6II.jpg</beq_spectrumURL>
+                <beq_pvaURL>https://i.imgur.com/4DReGr5.jpg</beq_pvaURL>
+                <beq_edition />
+                <beq_season />
+                <beq_note />
+                <beq_warning />
+                <beq_gain>-1 gain</beq_gain>
+                <beq_language>English</beq_language>
+                <beq_source>Disc</beq_source>
+                <beq_author>aron7awol</beq_author>
+                <beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57282106</beq_avs>
+                <beq_theMovieDB>12244</beq_theMovieDB>
+                <beq_poster>/usfcQZRqdXTSSQ55esiPHJZKkIU.jpg</beq_poster>
+                <beq_runtime>79</beq_runtime>
+                <beq_audioTypes>
+                        <audioType>DTS-HD MA 5.1</audioType>
+                </beq_audioTypes>
+                <beq_genres>
+                        <genre id="878">Science Fiction</genre>
+                        <genre id="16">Animation</genre>
+                        <genre id="12">Adventure</genre>
+                        <genre id="28">Action</genre>
+                        <genre id="53">Thriller</genre>
+                </beq_genres>
+            </beq_metadata>
+    :return:
+    '''
+    import xml.etree.ElementTree as ET
+    import glob
+    elements = []
+    for xml in glob.glob(f".input/bmiller/miniDSPBEQ/Movie BEQs/**/*.xml", recursive=True):
+        et_tree = ET.parse(str(xml))
+        root = et_tree.getroot()
+        meta = {'repo_file': str(xml)}
+        for child in root:
+            if child.tag == 'beq_metadata':
+                for m in child:
+                    if len(m) == 0:
+                        txt = m.text
+                        if txt:
+                            meta[m.tag[4:]] = m.text
+                    elif m.tag == 'beq_audioTypes':
+                        audio_types = [c.text.strip() for c in m]
+                        meta['audioType'] = [at for at in audio_types if at]
+        if len(meta.keys()) > 0:
+            elements.append(meta)
+    return elements
+
+
 def extract_aron7awol():
-    try:
-        return extract_from_md()
-    except Exception as e:
-        print(e)
-        return extract_from_html()
+    return extract_from_repo()
 
 
 def format_post_text(txt):
@@ -289,21 +342,80 @@ def process_aron7awol_content(post_id, content_meta, index_entries):
                 print(f"**NO CONTENT FOUND**", file=content_md)
 
 
-def generate_index_entry(author, page_name, content_format, content_name, production_year, release_date, release_year,
-                         avs_url, multiformat, index_entries):
+def process_aron7awol_content_from_repo(content_meta, index_entries):
+    ''' converts beq_metadata into md '''
+    by_post_id = {}
+    for meta in content_meta:
+        if 'avs' in meta:
+            avs = meta['avs']
+            idx = avs.find('post?id=')
+            avs_post_id = None
+            if idx == -1:
+                idx = avs.find('post-')
+                if idx == -1:
+                    print(f"Unparsable post id {meta['repo_file']} - {avs}")
+                else:
+                    avs_post_id = avs[idx + 5:]
+            else:
+                avs_post_id = avs[idx + 8:]
+            if avs_post_id:
+                if avs_post_id in by_post_id:
+                    by_post_id[avs_post_id].append(meta)
+                else:
+                    by_post_id[avs_post_id] = [meta]
+        else:
+            print(f"Missing beq_avs entry for {meta['repo_file']}")
+    for post_id, metas in by_post_id.items():
+        if len(metas) > 2:
+            print(f"Multi meta in post {post_id} - {metas[0]['title']}")
+        with open(f"docs/aron7awol/{post_id}.md", mode='w+') as content_md:
+            generate_aron7awol_content_page_from_repo(post_id, metas, content_md, index_entries)
+
+
+def generate_aron7awol_content_page_from_repo(post_id, metas, content_md, index_entries):
+    ''' prints the md content page '''
+    print(f"# {metas[0]['title']}", file=content_md)
+    print("", file=content_md)
+    print("* Author: aron7awol", file=content_md)
+    print(f"* [Forum Post]({metas[0]['avs']})", file=content_md)
+    production_years = {m['year'] for m in metas}
+    img_idx = 0
+    if len(production_years) == 1:
+        print(f"* Production Year: {production_years.pop()}", file=content_md)
+    print("", file=content_md)
+    for meta in metas:
+        linked_content_format = ', '.join(meta['audioType'])
+        print(f"## {linked_content_format}", file=content_md)
+        print("", file=content_md)
+        if production_years:
+            print(f"* Production Year: {meta['year']}", file=content_md)
+            print("", file=content_md)
+        actual_img_links = []
+        if 'pvaURL' in meta:
+            print(f"![img {img_idx}]({meta['pvaURL']})", file=content_md)
+            print('', file=content_md)
+            actual_img_links.append(meta['pvaURL'])
+            img_idx = img_idx + 1
+        if 'spectrumURL' in meta:
+            print(f"![img {img_idx}]({meta['spectrumURL']})", file=content_md)
+            print('', file=content_md)
+            actual_img_links.append(meta['spectrumURL'])
+            img_idx = img_idx + 1
+
+        bd_url = generate_index_entry('aron7awol', post_id, linked_content_format, meta['title'], meta['year'],
+                                      meta['avs'], len(metas) > 1, index_entries)
+        db_writer.writerow([meta['title'], meta['year'], linked_content_format, 'aron7awol', meta['avs'],
+                            f"https://beqcatalogue.readthedocs.io/en/latest/aron7awol/{post_id}/#{slugify(linked_content_format, '-')}", bd_url] + actual_img_links)
+
+
+def generate_index_entry(author, page_name, content_format, content_name, year, avs_url, multiformat, index_entries):
     ''' dumps the summary info to the index page '''
     escaped = parse.quote(content_name)
-    # y:{year}
     mdb_url = f"https://www.themoviedb.org/search?query={escaped}"
     rt_url = f"https://www.rottentomatoes.com/search?search={escaped}"
-    # &yearfrom={production_year}&yearto={production_year}
-    # &releaseyear=2006
-    release_filter = ''
-    if release_year != '':
-        release_filter = f"&releaseyear={release_year}"
-    bd_url = f"https://www.blu-ray.com/movies/search.php?keyword={escaped}{release_filter}&submit=Search&action=search&"
+    bd_url = f"https://www.blu-ray.com/movies/search.php?keyword={escaped}&submit=Search&action=search&"
     extra_slug = f"#{slugify(content_format, '-')}" if multiformat is True else ''
-    index_entries.append(f"| [{content_name}](./{author}/{page_name}.md{extra_slug}) | {release_date} | {production_year} | {content_format} | {'Yes' if multiformat else 'No'} | {author} | [avsforum]({avs_url}) [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) |")
+    index_entries.append(f"| [{content_name}](./{author}/{page_name}.md{extra_slug}) | {year} | {content_format} | {'Yes' if multiformat else 'No'} | {author} | [avsforum]({avs_url}) [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) |")
     return bd_url
 
 
@@ -370,9 +482,8 @@ def generate_aron7awol_content_page(post_id, content_format, content_name, links
         first = False
         # special case for Arrival
         if not linked_content_format.startswith('Advanced Users Only'):
-            bd_url = generate_index_entry('aron7awol', post_id, linked_content_format, content_name, production_year, release_date,
-                                          release_year, avs_post_url, is_multiformat, index_entries)
-            db_writer.writerow([content_name, release_date, production_year, linked_content_format, 'aron7awol', avs_post_url,
+            bd_url = generate_index_entry('aron7awol', post_id, linked_content_format, content_name, production_year, avs_post_url, is_multiformat, index_entries)
+            db_writer.writerow([content_name, production_year, linked_content_format, 'aron7awol', avs_post_url,
                                 f"https://beqcatalogue.readthedocs.io/en/latest/aron7awol/{post_id}/#{slugify(linked_content_format, '-')}", bd_url] + actual_img_links)
 
 
@@ -401,9 +512,9 @@ def generate_mobe1969_content_page(page_name, content_name, content_meta, index_
         print('', file=content_md)
         print(f"![img0]({meta[2]})", file=content_md)
         print('', file=content_md)
-        bd_url = generate_index_entry('mobe1969', page_name, meta[1], content_name, meta[0], meta[0],
-                                      meta[0], None, len(content_meta) > 1, index_entries)
-        db_writer.writerow([content_name, meta[0], meta[0], meta[1], 'mobe1969', None,
+        bd_url = generate_index_entry('mobe1969', page_name, meta[1], content_name, meta[0], None,
+                                      len(content_meta) > 1, index_entries)
+        db_writer.writerow([content_name, meta[0], meta[1], 'mobe1969', None,
                             f"https://beqcatalogue.readthedocs.io/en/latest/mobe1969/{page_name}/#{slugify(meta[1], '-')}",
                             bd_url, meta[2]])
 
@@ -416,7 +527,7 @@ else:
 
 if __name__ == '__main__':
     aron7awol_posts = extract_aron7awol()
-    print(f"Extracted {len(aron7awol_posts.keys())} aron7awol catalogue entries")
+    print(f"Extracted {len(aron7awol_posts)} aron7awol catalogue entries")
     mobe1969_files = extract_mobe1969()
     print(f"Extracted {len(mobe1969_files.keys())} mobe1969 catalogue entries")
     # posts = extract_from_html()
@@ -438,12 +549,11 @@ if __name__ == '__main__':
                     with open('docs/index.md', mode='w+') as index_md:
                         with open('docs/database.csv', 'w+', newline='') as db_csv:
                             db_writer = csv.writer(db_csv)
-                            db_writer.writerow(['Title', 'Release Date', 'Production Year', 'Format', 'Author', 'AVS', 'Catalogue', 'blu-ray.com'])
-                            print(f"| Title | Release Date | Production Year | Format | Multiformat? | Author | Links |", file=index_md)
-                            print(f"|-|-|-|-|-|-|-|", file=index_md)
+                            db_writer.writerow(['Title', 'Year', 'Format', 'Author', 'AVS', 'Catalogue', 'blu-ray.com'])
+                            print(f"| Title | Year | Format | Multiformat? | Author | Links |", file=index_md)
+                            print(f"|-|-|-|-|-|-|", file=index_md)
                             index_entries = []
-                            for post_id, content_meta in aron7awol_posts.items():
-                                process_aron7awol_content(post_id, content_meta, index_entries)
+                            process_aron7awol_content_from_repo(aron7awol_posts, index_entries)
 
                             for content_name, content_meta in mobe1969_files.items():
                                 process_mobe1969_content(content_name, content_meta, index_entries)
