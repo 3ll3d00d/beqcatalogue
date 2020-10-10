@@ -1,22 +1,17 @@
 # Ghost in the Shell
 
 * Author: mobe1969
+* Production Year: 1995
 
-## LPCM 2.0 Ja
+## LPCM 2.0
 
-* Release Date: 1995
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20%281995%29%20LPCM%202.0%20Ja.jpg)
 
-![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20%281995%29%20LPCM%202.0%20Ja.jpg)
+## Atmos
 
-## TrueHD Atmos. (English)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20%281995%29%20TrueHD%20Atmos.jpg)
 
-* Release Date: 1995
+## Atmos
 
-![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20%281995%29%20TrueHD%20Atmos.%20%28English%29.jpg)
-
-## TrueHD Atmos
-
-* Release Date: 1995
-
-![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20%281995%29%20TrueHD%20Atmos.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20%281995%29%20TrueHD%20Atmos.jpg)
 

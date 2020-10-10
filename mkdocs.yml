@@ -19,5 +19,6 @@ markdown_extensions:
       permalink: true
   - admonition
 nav:
-  - Catalogue: index.md
+  - aron7awol: aron7awol.md
+  - mobe1969: mobe1969.md
   - Offline Access: offline.md

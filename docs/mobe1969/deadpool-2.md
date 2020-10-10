@@ -1,16 +1,13 @@
 # Deadpool 2
 
 * Author: mobe1969
+* Production Year: 2018
 
-## (Extended) TrueHD Atmos
+## Atmos
 
-* Release Date: 2018
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deadpool%202%20%282018%29%28Unrated%29%20TrueHD%20Atmos.jpg)
 
-![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deadpool%202%20%282018%29%28Extended%29%20TrueHD%20Atmos.jpg)
+## Atmos
 
-## (Unrated) TrueHD Atmos
-
-* Release Date: 2018
-
-![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deadpool%202%20%282018%29%28Unrated%29%20TrueHD%20Atmos.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deadpool%202%20%282018%29%28Extended%29%20TrueHD%20Atmos.jpg)
 

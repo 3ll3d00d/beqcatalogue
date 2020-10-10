@@ -1,10 +1,9 @@
 # The Fan
 
 * Author: mobe1969
+* Production Year: 1996
 
 ## DTS-HD MA 5.1
 
-* Release Date: 1996
-
-![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Fan%20%281996%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Fan%20%281996%29%20DTS-HD%20MA%205.1.jpg)
 

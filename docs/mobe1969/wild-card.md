@@ -1,10 +1,9 @@
 # Wild Card
 
 * Author: mobe1969
+* Production Year: 2015
 
-## (Extended) DTS-HD MA 5.1
+## DTS-HD MA 5.1
 
-* Release Date: 2015
-
-![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wild%20Card%20%282015%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wild%20Card%20%282015%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
 

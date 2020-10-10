@@ -23,13 +23,13 @@ install:
 - pipenv run pip3 list
 before_script:
 - |
-  if [[ -d .input/Mobe1969/beq-reports ]]
+  if [[ -d .input/Mobe1969/miniDSPBEQ ]]
   then
-    pushd .input/Mobe1969/beq-reports
+    pushd .input/Mobe1969/miniDSPBEQ
     git pull
     popd
   else
-    git clone https://gitlab.com/Mobe1969/beq-reports.git .input/Mobe1969/beq-reports
+    git clone https://github.com/Mobe1969/miniDSPBEQ.git .input/Mobe1969/miniDSPBEQ
   fi
 - |
   if [[ -d .input/bmiller/miniDSPBEQ.wiki ]]

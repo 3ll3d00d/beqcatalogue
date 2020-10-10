@@ -1,10 +1,9 @@
 # A Horrible Way to Die
 
 * Author: mobe1969
+* Production Year: 2010
 
 ## DTS-HD MA 5.1
 
-* Release Date: 2010
-
-![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Horrible%20Way%20to%20Die%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Horrible%20Way%20to%20Die%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 
