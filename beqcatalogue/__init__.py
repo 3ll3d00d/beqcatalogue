@@ -124,7 +124,7 @@ def generate_content_page(page_name, metas, content_md, index_entries, author):
     if len(production_years) == 1:
         print(f"* Production Year: {production_years.pop()}", file=content_md)
     print("", file=content_md)
-    for meta in metas:
+    for meta in sorted(metas, key=lambda m: ', '.join(m.get('audioType', ''))):
         if 'pvaURL' not in meta and 'spectrumURL' not in meta:
             print(f"No charts found in {meta}")
         else:
