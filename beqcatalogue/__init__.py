@@ -128,28 +128,32 @@ def generate_content_page(page_name, metas, content_md, index_entries, author):
         if 'pvaURL' not in meta and 'spectrumURL' not in meta:
             print(f"No charts found in {meta}")
         else:
-            linked_content_format = ', '.join(meta['audioType'])
-            print(f"## {linked_content_format}", file=content_md)
-            print("", file=content_md)
-            if production_years:
-                print(f"* Production Year: {meta['year']}", file=content_md)
+            audio_type = meta.get('audioType', '')
+            if audio_type:
+                linked_content_format = ', '.join(audio_type)
+                print(f"## {linked_content_format}", file=content_md)
                 print("", file=content_md)
-            actual_img_links = []
-            if 'pvaURL' in meta:
-                print(f"![img {img_idx}]({meta['pvaURL']})", file=content_md)
-                print('', file=content_md)
-                actual_img_links.append(meta['pvaURL'])
-                img_idx = img_idx + 1
-            if 'spectrumURL' in meta:
-                print(f"![img {img_idx}]({meta['spectrumURL']})", file=content_md)
-                print('', file=content_md)
-                actual_img_links.append(meta['spectrumURL'])
-                img_idx = img_idx + 1
+                if production_years:
+                    print(f"* Production Year: {meta['year']}", file=content_md)
+                    print("", file=content_md)
+                actual_img_links = []
+                if 'pvaURL' in meta:
+                    print(f"![img {img_idx}]({meta['pvaURL']})", file=content_md)
+                    print('', file=content_md)
+                    actual_img_links.append(meta['pvaURL'])
+                    img_idx = img_idx + 1
+                if 'spectrumURL' in meta:
+                    print(f"![img {img_idx}]({meta['spectrumURL']})", file=content_md)
+                    print('', file=content_md)
+                    actual_img_links.append(meta['spectrumURL'])
+                    img_idx = img_idx + 1
 
-            bd_url = generate_index_entry(author, page_name, linked_content_format, meta['title'], meta['year'],
-                                          meta.get('avs', None), len(metas) > 1, index_entries)
-            db_writer.writerow([meta['title'], meta['year'], linked_content_format, author, meta.get('avs', ''),
-                                f"https://beqcatalogue.readthedocs.io/en/latest/{author}/{page_name}/#{slugify(linked_content_format, '-')}", bd_url] + actual_img_links)
+                bd_url = generate_index_entry(author, page_name, linked_content_format, meta['title'], meta['year'],
+                                              meta.get('avs', None), len(metas) > 1, index_entries)
+                db_writer.writerow([meta['title'], meta['year'], linked_content_format, author, meta.get('avs', ''),
+                                    f"https://beqcatalogue.readthedocs.io/en/latest/{author}/{page_name}/#{slugify(linked_content_format, '-')}", bd_url] + actual_img_links)
+            else:
+                print(f"No audioTypes in {metas[0]['title']}")
 
 
 def generate_index_entry(author, page_name, content_format, content_name, year, avs_url, multiformat, index_entries):
