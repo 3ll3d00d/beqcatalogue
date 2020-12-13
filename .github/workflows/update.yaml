@@ -3,9 +3,13 @@ on:
   push:
     branches:
       - '*'
+    paths-ignore:
+      - '.github/workflows/trigger.yaml'
   pull_request:
     branches:
       - '*'
+    paths-ignore:
+      - '.github/workflows/trigger.yaml'
   schedule:
     - cron: '0 0/6 * * *'
   workflow_dispatch: {}
