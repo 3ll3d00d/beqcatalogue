@@ -1,0 +1,19 @@
+name: trigger beqcatalogue
+on:
+  push:
+    branches:
+      - 'master'
+      - 'main'
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: octokit/request-action@v2.x
+        id: trigger_beqcatalogue
+        with:
+          route: POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches
+          owner: 3ll3d00d
+          repo: beqcatalogue
+          workflow_id: 4216869
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
