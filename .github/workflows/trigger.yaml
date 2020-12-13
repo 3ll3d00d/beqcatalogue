@@ -10,10 +10,9 @@ jobs:
     steps:
       - uses: octokit/request-action@v2.x
         with:
-          route: POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches
+          route: POST /repos/{owner}/{repo}/{dispatches}
           owner: 3ll3d00d
           repo: beqcatalogue
-          workflow_id: 'update.yaml'
-          ref: 'master'
+          event_type: 'repository_dispatch'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
