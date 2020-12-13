@@ -9,13 +9,11 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: octokit/request-action@v2.x
-        id: trigger_beqcatalogue
         with:
           route: POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches
           owner: 3ll3d00d
           repo: beqcatalogue
-          workflow_id: 4216869
-          mediaType: 'application/vnd.github.v3+json'
+          workflow_id: 'trigger.yaml'
           ref: 'master'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
