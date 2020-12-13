@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: octokit/request-action@v2.x
         with:
-          route: POST /repos/{owner}/{repo}/{dispatches}
+          route: POST /repos/{owner}/{repo}/dispatches
           owner: 3ll3d00d
           repo: beqcatalogue
           event_type: 'trigger'
