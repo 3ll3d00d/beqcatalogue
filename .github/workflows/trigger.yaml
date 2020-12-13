@@ -15,5 +15,6 @@ jobs:
           owner: 3ll3d00d
           repo: beqcatalogue
           workflow_id: 4216869
+          mediaType: 'application/vnd.github.v3+json'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
