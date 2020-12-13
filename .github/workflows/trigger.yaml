@@ -13,7 +13,7 @@ jobs:
           route: POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches
           owner: 3ll3d00d
           repo: beqcatalogue
-          workflow_id: 'trigger.yaml'
+          workflow_id: 'update.yaml'
           ref: 'master'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
