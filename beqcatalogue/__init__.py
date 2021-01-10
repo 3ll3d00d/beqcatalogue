@@ -4,6 +4,8 @@ from urllib import parse
 
 from markdown.extensions.toc import slugify
 
+from beqcatalogue.iir import xml_to_filt
+
 
 def extract_from_repo(path):
     '''
@@ -58,6 +60,7 @@ def extract_from_repo(path):
                         audio_types = [c.text.strip() for c in m]
                         meta['audioType'] = [at for at in audio_types if at]
         if len(meta.keys()) > 0:
+            meta['filters'] = '^'.join([str(f) for f in xml_to_filt(xml, unroll=True)])
             elements.append(meta)
     return elements
 
@@ -150,8 +153,19 @@ def generate_content_page(page_name, metas, content_md, index_entries, author):
 
                 bd_url = generate_index_entry(author, page_name, linked_content_format, meta['title'], meta['year'],
                                               meta.get('avs', None), len(metas) > 1, index_entries)
-                db_writer.writerow([meta['title'], meta['year'], linked_content_format, author, meta.get('avs', ''),
-                                    f"https://beqcatalogue.readthedocs.io/en/latest/{author}/{page_name}/#{slugify(linked_content_format, '-')}", bd_url] + actual_img_links)
+                prefix = 'https://beqcatalogue.readthedocs.io/en/latest'
+                beq_catalogue_url = f"{prefix}/{author}/{page_name}/#{slugify(linked_content_format, '-')}"
+                cols = [
+                    meta['title'],
+                    meta['year'],
+                    linked_content_format,
+                    author,
+                    meta.get('avs', ''),
+                    beq_catalogue_url,
+                    bd_url,
+                    meta['filters']
+                ]
+                db_writer.writerow(cols + actual_img_links)
             else:
                 print(f"No audioTypes in {metas[0]['title']}")
 
@@ -184,7 +198,7 @@ if __name__ == '__main__':
 
     with open('docs/database.csv', 'w+', newline='') as db_csv:
         db_writer = csv.writer(db_csv)
-        db_writer.writerow(['Title', 'Year', 'Format', 'Author', 'AVS', 'Catalogue', 'blu-ray.com'])
+        db_writer.writerow(['Title', 'Year', 'Format', 'Author', 'AVS', 'Catalogue', 'blu-ray.com', 'filters'])
         index_entries = []
         process_aron7awol_content_from_repo(aron7awol, index_entries)
         with open('docs/aron7awol.md', mode='w+') as index_md:
