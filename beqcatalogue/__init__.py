@@ -4,7 +4,7 @@ from urllib import parse
 
 from markdown.extensions.toc import slugify
 
-from beqcatalogue.iir import xml_to_filt
+from iir import xml_to_filt
 
 
 def extract_from_repo(path):
