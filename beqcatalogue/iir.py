@@ -31,6 +31,7 @@ class Biquad(ABC):
         self.cos_w0 = math.cos(self.w0)
         self.sin_w0 = math.sin(self.w0)
         self.alpha = self.sin_w0 / (2.0 * self.q)
+        self.A = 10.0 ** (self.gain / 40.0)
         self.a, self.b = self._compute_coeffs()
 
     def __len__(self):
@@ -41,12 +42,29 @@ class Biquad(ABC):
         pass
 
     def format_biquads(self):
-        a = '`'.join([f"{float_to_str(-x)}" for idx, x in enumerate(self.a) if idx != 0])
-        b = '`'.join([f"{float_to_str(x)}" for idx, x in enumerate(self.b)])
-        return [f"{b}`{a}"]
+        a = [f"{float_to_str(-x)}" for idx, x in enumerate(self.a) if idx != 0]
+        b = [f"{float_to_str(x)}" for idx, x in enumerate(self.b)]
+        return b + a
+
+    def to_map(self):
+        return {
+            'type': self.__class__.__name__,
+            'freq': self.freq,
+            'gain': self.gain,
+            'q': self.q,
+            'biquads': {
+                '96000': {
+                    'b': self.format_biquads()[0:3],
+                    'a': self.format_biquads()[3:]
+                }
+            }
+        }
 
     def __repr__(self):
-        return f"{self.__class__.__name__}|{self.freq}|{self.gain}|{self.q}|{'|'.join(self.format_biquads())}"
+        return f"{self.print_params()}|{'|'.join('`'.join(self.format_biquads()))}"
+
+    def print_params(self):
+        return f"{self.__class__.__name__}|{self.freq}|{self.gain}|{self.q}"
 
 
 class PeakingEQ(Biquad):
@@ -65,7 +83,7 @@ class PeakingEQ(Biquad):
         super().__init__(fs, freq, q, gain)
 
     def _compute_coeffs(self):
-        A = 10.0 ** (self.gain / 40.0)
+        A = self.A
         a = [1.0 + self.alpha / A, -2.0 * self.cos_w0, 1.0 - self.alpha / A]
         b = [1.0 + self.alpha * A, -2.0 * self.cos_w0, 1.0 - self.alpha * A]
         return [a1 / a[0] for a1 in a], [b1 / a[0] for b1 in b]
@@ -74,31 +92,17 @@ class PeakingEQ(Biquad):
 class Shelf(Biquad, metaclass=ABCMeta):
 
     def __init__(self, fs, freq, q, gain, count):
-        self.A = 10.0 ** (gain / 40.0)
         super().__init__(fs, freq, q, gain)
         self.count = count
-        self.__cached_cascade = None
 
     def __len__(self):
         return self.count
 
-    def flatten(self):
-        '''
-        :return: an iterable of length count of this shelf where each shelf has count=1
-        '''
-        if self.count == 1:
-            return [self]
-        else:
-            return [self.__class__(self.fs, self.freq, self.q, self.gain, 1)] * self.count
+    def to_map(self):
+        return {**super().to_map(), 'count': self.count}
 
-    def format_biquads(self):
-        single = super().format_biquads()
-        if self.count == 1:
-            return single
-        elif self.count > 1:
-            return single * self.count
-        else:
-            raise ValueError('Shelf must have non zero count')
+    def print_params(self):
+        return f"{super().print_params()}|{self.count}"
 
 
 class LowShelf(Shelf):
@@ -117,7 +121,7 @@ class LowShelf(Shelf):
         super().__init__(fs, freq, q, gain, count)
 
     def _compute_coeffs(self):
-        A = 10.0 ** (self.gain / 40.0)
+        A = self.A
         a = [
             (A + 1) + ((A - 1) * self.cos_w0) + (2.0 * math.sqrt(A) * self.alpha),
             -2.0 * ((A - 1) + ((A + 1) * self.cos_w0)),

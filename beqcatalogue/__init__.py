@@ -2,6 +2,7 @@ import csv
 import os
 from urllib import parse
 
+import json
 from markdown.extensions.toc import slugify
 
 from iir import xml_to_filt
@@ -60,7 +61,9 @@ def extract_from_repo(path):
                         audio_types = [c.text.strip() for c in m]
                         meta['audioType'] = [at for at in audio_types if at]
         if len(meta.keys()) > 0:
-            meta['filters'] = '^'.join([str(f) for f in xml_to_filt(xml, unroll=True)])
+            filts = [f for f in xml_to_filt(xml, unroll=True)]
+            meta['jsonfilters'] = [f.to_map() for f in filts]
+            meta['filters'] = '^'.join([str(f) for f in filts])
             elements.append(meta)
     return elements
 
@@ -132,6 +135,12 @@ def generate_content_page(page_name, metas, content_md, index_entries, author):
             print(f"No charts found in {meta}")
         else:
             audio_type = meta.get('audioType', '')
+            beq_catalogue_url = ''
+            actual_img_links = []
+            if 'pvaURL' in meta:
+                actual_img_links.append(meta['pvaURL'])
+            if 'spectrumURL' in meta:
+                actual_img_links.append(meta['spectrumURL'])
             if audio_type:
                 linked_content_format = ', '.join(audio_type)
                 print(f"## {linked_content_format}", file=content_md)
@@ -139,17 +148,9 @@ def generate_content_page(page_name, metas, content_md, index_entries, author):
                 if production_years:
                     print(f"* Production Year: {meta['year']}", file=content_md)
                     print("", file=content_md)
-                actual_img_links = []
-                if 'pvaURL' in meta:
-                    print(f"![img {img_idx}]({meta['pvaURL']})", file=content_md)
+                for img in actual_img_links:
+                    print(f"![img {img_idx}]({img})", file=content_md)
                     print('', file=content_md)
-                    actual_img_links.append(meta['pvaURL'])
-                    img_idx = img_idx + 1
-                if 'spectrumURL' in meta:
-                    print(f"![img {img_idx}]({meta['spectrumURL']})", file=content_md)
-                    print('', file=content_md)
-                    actual_img_links.append(meta['spectrumURL'])
-                    img_idx = img_idx + 1
 
                 bd_url = generate_index_entry(author, page_name, linked_content_format, meta['title'], meta['year'],
                                               meta.get('avs', None), len(metas) > 1, index_entries)
@@ -168,6 +169,15 @@ def generate_content_page(page_name, metas, content_md, index_entries, author):
                 db_writer.writerow(cols + actual_img_links)
             else:
                 print(f"No audioTypes in {metas[0]['title']}")
+            json_catalogue.append({
+                'title': meta['title'],
+                'year': meta['year'],
+                'audioTypes': meta.get('audioType', []),
+                'author': author,
+                'catalogue_url': beq_catalogue_url,
+                'filters': meta['jsonfilters'],
+                'images': actual_img_links
+            })
 
 
 def generate_index_entry(author, page_name, content_format, content_name, year, avs_url, multiformat, index_entries):
@@ -196,6 +206,8 @@ if __name__ == '__main__':
     mobe1969 = extract_from_repo('.input/Mobe1969/miniDSPBEQ/Movie BEQs')
     print(f"Extracted {len(mobe1969)} mobe1969 catalogue entries")
 
+    json_catalogue = []
+
     with open('docs/database.csv', 'w+', newline='') as db_csv:
         db_writer = csv.writer(db_csv)
         db_writer.writerow(['Title', 'Year', 'Format', 'Author', 'AVS', 'Catalogue', 'blu-ray.com', 'filters'])
@@ -219,3 +231,6 @@ if __name__ == '__main__':
             for i in sorted(index_entries, key=str.casefold):
                 print(i, file=index_md)
             print('', file=index_md)
+
+    with open('docs/database.json', 'w+') as db_json:
+        json.dump(json_catalogue, db_json)
