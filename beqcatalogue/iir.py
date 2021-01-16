@@ -61,7 +61,7 @@ class Biquad(ABC):
         }
 
     def __repr__(self):
-        return f"{self.print_params()}|{'|'.join('`'.join(self.format_biquads()))}"
+        return f"{self.print_params()}|{'`'.join(self.format_biquads())}"
 
     def print_params(self):
         return f"{self.__class__.__name__}|{self.freq}|{self.gain}|{self.q}"
