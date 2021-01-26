@@ -92,7 +92,7 @@ def process_mobe1969_content_from_repo(content_meta, index_entries):
             if match:
                 json['title'] = match.group(1)
                 json['year'] = match.group(2)
-                json['audioType'] = match.group(3).split('+')
+                json['audioTypes'] = match.group(3).split('+')
             print(f"Missing title entry, extracted {json}")
             json['filters'] = meta['jsonfilters']
             json_catalogue.append(json)
