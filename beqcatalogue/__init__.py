@@ -1,5 +1,6 @@
 import csv
 import os
+import re
 from urllib import parse
 
 import json
@@ -49,7 +50,11 @@ def extract_from_repo(path):
     for xml in glob.glob(f"{path}/**/*.xml", recursive=True):
         et_tree = ET.parse(str(xml))
         root = et_tree.getroot()
-        meta = {'repo_file': str(xml)}
+        file_name = xml[:-4]
+        meta = {
+            'repo_file': str(xml),
+            'file_name': file_name.split('/')[-1]
+        }
         for child in root:
             if child.tag == 'beq_metadata':
                 for m in child:
@@ -60,17 +65,17 @@ def extract_from_repo(path):
                     elif m.tag == 'beq_audioTypes':
                         audio_types = [c.text.strip() for c in m]
                         meta['audioType'] = [at for at in audio_types if at]
-        if len(meta.keys()) > 0:
-            filts = [f for f in xml_to_filt(xml, unroll=True)]
-            meta['jsonfilters'] = [f.to_map() for f in filts]
-            meta['filters'] = '^'.join([str(f) for f in filts])
-            elements.append(meta)
+        filts = [f for f in xml_to_filt(xml, unroll=True)]
+        meta['jsonfilters'] = [f.to_map() for f in filts]
+        meta['filters'] = '^'.join([str(f) for f in filts])
+        elements.append(meta)
     return elements
 
 
 def process_mobe1969_content_from_repo(content_meta, index_entries):
     ''' converts beq_metadata into md '''
     by_title = {}
+    fallback_pattern = re.compile(r'(.*) \((\d{4})\)(?: *\(.*\))? (.*)')
     for meta in content_meta:
         if 'title' in meta:
             title = meta['title']
@@ -79,10 +84,19 @@ def process_mobe1969_content_from_repo(content_meta, index_entries):
             else:
                 by_title[title] = [meta]
         else:
-            print(f"Missing title entry for {meta['repo_file']}")
+            json = {
+                'title': meta['file_name'],
+                'author': 'mobe1969',
+            }
+            match = fallback_pattern.match(meta['file_name'])
+            if match:
+                json['title'] = match.group(1)
+                json['year'] = match.group(2)
+                json['audioType'] = match.group(3).split('+')
+            print(f"Missing title entry, extracted {json}")
+            json['filters'] = meta['jsonfilters']
+            json_catalogue.append(json)
     for title, metas in by_title.items():
-        if len(metas) > 2:
-            print(f"Multi meta in {title}")
         title_md = slugify(title, '-')
         with open(f"docs/mobe1969/{title_md}.md", mode='w+') as content_md:
             generate_content_page(title_md, metas, content_md, index_entries, 'mobe1969')
@@ -112,8 +126,6 @@ def process_aron7awol_content_from_repo(content_meta, index_entries):
         else:
             print(f"Missing beq_avs entry for {meta['repo_file']}")
     for post_id, metas in by_post_id.items():
-        if len(metas) > 2:
-            print(f"Multi meta in post {post_id} - {metas[0]['title']}")
         with open(f"docs/aron7awol/{post_id}.md", mode='w+') as content_md:
             generate_content_page(post_id, metas, content_md, index_entries, 'aron7awol')
 
