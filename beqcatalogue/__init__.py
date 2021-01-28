@@ -239,7 +239,7 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
                 print(f"* {linked_content_format}", file=content_md)
                 print("", file=content_md)
             if 'avs' in meta:
-                print(f"* [Forum Post]({metas[0]['avs']})", file=content_md)
+                print(f"* [Forum Post]({meta['avs']})", file=content_md)
             if 'year' in meta:
                 print(f"* Production Year: {meta['year']}", file=content_md)
                 print("", file=content_md)
