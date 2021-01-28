@@ -1,0 +1,31 @@
+# Game of Thrones
+
+* Author: aron7awol
+
+## Season 1
+
+* Atmos
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57535074)
+* Production Year: 2011
+
+![img 0](https://i.imgur.com/1bi4aMQ.jpg)
+
+## Season 7
+
+* Atmos
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57719272)
+* Production Year: 2011
+
+![img 0](https://i.imgur.com/TKfMxl8.jpg)
+
+## Season 8
+
+* Atmos
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57907144)
+* Production Year: 2011
+
+![img 0](https://i.imgur.com/qDTyvyo.jpg)
+
