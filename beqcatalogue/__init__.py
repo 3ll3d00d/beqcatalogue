@@ -263,8 +263,6 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
                     meta['filters']
                 ]
                 db_writer.writerow(cols + actual_img_links)
-            else:
-                print(f"No audioTypes in {meta}")
             json_catalogue.append({
                 'title': meta['title'],
                 'year': meta['year'],
