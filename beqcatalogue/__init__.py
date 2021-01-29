@@ -289,9 +289,12 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
         actual_img_links = []
         if author == 'aron7awol':
             episode_suffix = f" ({meta['warning']})" if 'warning' in meta else ''
+            short_epi_suffix = episode_suffix
         else:
             episode_suffix = f" Episode {meta['episode']}" if 'episode' in meta else ''
+            short_epi_suffix = f" E{meta['episode']}" if 'episode' in meta else ''
         season_link = f"Season {meta['season']}{episode_suffix}" if 'season' in meta else None
+        season_suffix = f"S{meta['season']}{short_epi_suffix}"
         if 'pvaURL' in meta:
             actual_img_links.append(meta['pvaURL'])
         if 'spectrumURL' in meta:
@@ -312,10 +315,12 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             print(f"![img {img_idx}]({img})", file=content_md)
             print('', file=content_md)
 
-        bd_url = generate_index_entry(author, page_name, linked_content_format, meta['title'], meta['year'],
-                                      meta.get('avs', None), len(metas) > 1, index_entries, content_type='TV')
+        extra_slug = f"#{slugify(season_link, '-')}" if season_link else ''
+        bd_url = generate_index_entry(author, page_name, linked_content_format, f"{meta['title']} {season_suffix}",
+                                      meta['year'], meta.get('avs', None), len(metas) > 1, index_entries,
+                                      content_type='TV', extra_slug=extra_slug)
         prefix = 'https://beqcatalogue.readthedocs.io/en/latest'
-        slugified_link = f"/#{slugify(season_link, '-')}" if season_link else ''
+        slugified_link = f"/{extra_slug}" if extra_slug else ''
         beq_catalogue_url = f"{prefix}/{author}/{page_name}{slugified_link}"
         cols = [
             meta['title'],
@@ -349,21 +354,21 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             'images': actual_img_links,
             'content_type': 'TV',
             'season': meta['season'] if 'season' in meta else '',
-            # replace with episode when available
-            'warning': meta.get('warning', ''),
-            'note': meta.get('note', ''),
+            'episode': meta.get('warning', meta.get('episode', '')),
             'mv': meta.get('gain', '0'),
             'avs': meta.get('avs', '')
         })
 
 
-def generate_index_entry(author, page_name, content_format, content_name, year, avs_url, multiformat, index_entries, content_type='film'):
+def generate_index_entry(author, page_name, content_format, content_name, year, avs_url, multiformat, index_entries,
+                         content_type='film', extra_slug=None):
     ''' dumps the summary info to the index page '''
     escaped = parse.quote(content_name)
     mdb_url = f"https://www.themoviedb.org/search?query={escaped}"
     rt_url = f"https://www.rottentomatoes.com/search?search={escaped}"
     bd_url = f"https://www.blu-ray.com/movies/search.php?keyword={escaped}&submit=Search&action=search&"
-    extra_slug = f"#{slugify(content_format, '-')}" if multiformat is True else ''
+    if content_type == 'film':
+        extra_slug = f"#{slugify(content_format, '-')}" if multiformat is True else ''
     avs_link = f"[avsforum]({avs_url})" if avs_url else ''
     index_entries.append(f"| [{content_name}](./{author}/{page_name}.md{extra_slug}) | {content_type} | {year} | {content_format} | {'Yes' if multiformat else 'No'} | {avs_link} [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) |")
     return bd_url
@@ -416,4 +421,4 @@ if __name__ == '__main__':
             print('', file=index_md)
 
     with open('docs/database.json', 'w+') as db_json:
-        json.dump(json_catalogue, db_json)
+        json.dump(json_catalogue, db_json, indent=0)
