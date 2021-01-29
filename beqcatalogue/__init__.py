@@ -203,6 +203,7 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 'title': meta['title'],
                 'year': meta['year'],
                 'audioTypes': meta.get('audioType', []),
+                'content_type': 'film',
                 'author': author,
                 'catalogue_url': beq_catalogue_url,
                 'filters': meta['jsonfilters'],
