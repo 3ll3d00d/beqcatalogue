@@ -9,7 +9,7 @@ from markdown.extensions.toc import slugify
 from iir import xml_to_filt
 
 
-def extract_from_repo(path: str, content_type: str):
+def extract_from_repo(path1: str, path2: str, content_type: str):
     '''
     extracts beq_metadata of following format
            <beq_metadata>
@@ -47,13 +47,14 @@ def extract_from_repo(path: str, content_type: str):
     import xml.etree.ElementTree as ET
     import glob
     elements = []
-    for xml in glob.glob(f"{path}/**/*.xml", recursive=True):
+    for xml in glob.glob(f"{path1}{path2}/**/*.xml", recursive=True):
         et_tree = ET.parse(str(xml))
         root = et_tree.getroot()
         file_name = xml[:-4]
         meta = {
             'repo_file': str(xml),
             'file_name': file_name.split('/')[-1],
+            'file_path': '/'.join(file_name[len(path1):].split('/')[:-1]),
             'content_type': content_type
         }
         for child in root:
@@ -73,8 +74,7 @@ def extract_from_repo(path: str, content_type: str):
     return elements
 
 
-def process_mobe1969_content_from_repo(content_meta, index_entries):
-    ''' converts beq_metadata into md '''
+def group_mobe1969_film_content(content_meta):
     by_title = {}
     fallback_pattern = re.compile(r'(.*) \((\d{4})\)(?: *\(.*\))? (.*)')
     for meta in content_meta:
@@ -98,20 +98,74 @@ def process_mobe1969_content_from_repo(content_meta, index_entries):
             print(f"Missing title entry, extracted {json}")
             json['filters'] = meta['jsonfilters']
             json_catalogue.append(json)
+    return by_title
+
+
+def group_mobe1969_tv_content(content_meta):
+    by_title = {}
+    fallback_pattern = re.compile(r'(.*) \((\d{4})\)(?: *\(.*\))? (.*)')
+    for meta in content_meta:
+        if 'title' in meta:
+            title = meta['title']
+            if title[-4:-2] == ' E' and title[-2:].isdigit():
+                meta['episode'] = title[-2:]
+                title = title[:-4]
+                meta['title'] = title
+            elif 'note' in meta:
+                note = meta['note']
+                if note[0] == 'E':
+                    if note[1:].isdigit():
+                        meta['episode'] = note[1:]
+                    elif '-' in note[1:]:
+                        vals = [int(i) for i in note[1:].split('-')]
+                        if len(vals) == 2:
+                            meta['episode'] = ','.join([str(e) for e in range(vals[0], vals[1]+1)])
+                elif note[0] == 'S':
+                    frags = note.split('-')
+                    if len(frags) == 2:
+                        if frags[1][0] == 'E':
+                            if frags[1][1:].isdigit():
+                                meta['episode'] = frags[1][1:]
+                if 'episode' not in meta:
+                    print(f"Unknown note format in {meta}")
+            if title in by_title:
+                by_title[title].append(meta)
+            else:
+                by_title[title] = [meta]
+        else:
+            json = {
+                'title': meta['file_name'],
+                'author': 'mobe1969',
+                'content_type': meta['content_type']
+            }
+            match = fallback_pattern.match(meta['file_name'])
+            if match:
+                json['title'] = match.group(1)
+                json['year'] = match.group(2)
+                json['audioTypes'] = match.group(3).split('+')
+            print(f"Missing title entry, extracted {json}")
+            json['filters'] = meta['jsonfilters']
+            json_catalogue.append(json)
+    return by_title
+
+
+def process_mobe1969_content_from_repo(content_meta, index_entries, content_type):
+    ''' converts beq_metadata into md '''
+    if content_type == 'film':
+        by_title = group_mobe1969_film_content(content_meta)
+    else:
+        by_title = group_mobe1969_tv_content(content_meta)
     for title, metas in by_title.items():
         title_md = slugify(title, '-')
         with open(f"docs/mobe1969/{title_md}.md", mode='w+') as content_md:
-            generate_film_content_page(title_md, metas, content_md, index_entries, 'mobe1969')
+            generate_content_page(title_md, metas, content_md, index_entries, 'mobe1969', content_type)
 
 
 def process_aron7awol_content_from_repo(content_meta, index_entries, content_type):
     ''' converts beq_metadata into md '''
     for post_id, metas in group_aron7awol_content(content_meta, content_type).items():
         with open(f"docs/aron7awol/{post_id}.md", mode='w+') as content_md:
-            if content_type == 'film':
-                generate_film_content_page(post_id, metas, content_md, index_entries, 'aron7awol')
-            else:
-                generate_tv_content_page(post_id, metas, content_md, index_entries, 'aron7awol')
+            generate_content_page(post_id, metas, content_md, index_entries, 'aron7awol', content_type)
 
 
 def group_aron7awol_content(content_meta, content_type) -> dict:
@@ -146,6 +200,13 @@ def group_aron7awol_content(content_meta, content_type) -> dict:
                 else:
                     grouped_meta[title] = [meta]
     return grouped_meta
+
+
+def generate_content_page(page_name, metas, content_md, index_entries, author, content_type):
+    if content_type == 'film':
+        generate_film_content_page(page_name, metas, content_md, index_entries, author)
+    else:
+        generate_tv_content_page(page_name, metas, content_md, index_entries, author)
 
 
 def generate_film_content_page(page_name, metas, content_md, index_entries, author):
@@ -221,68 +282,79 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
     print(f"* Author: {author}", file=content_md)
     img_idx = 0
     print("", file=content_md)
-    for meta in sorted(metas, key=lambda m: f"{m['season']}{m.get('warning', '')}"):
-        if 'pvaURL' not in meta and 'spectrumURL' not in meta:
-            print(f"No charts found in {meta}")
+    for meta in sorted(metas,
+                       key=lambda m: f"{m['season']}{m.get('warning' if author == 'aron7awol' else 'episode', '')}"):
+        audio_type = meta.get('audioType', '')
+        linked_content_format = ''
+        actual_img_links = []
+        if author == 'aron7awol':
+            episode_suffix = f" ({meta['warning']})" if 'warning' in meta else ''
         else:
-            audio_type = meta.get('audioType', '')
-            beq_catalogue_url = ''
-            linked_content_format = ''
-            actual_img_links = []
-            warning = f" ({meta['warning']})" if 'warning' in meta else ''
-            season_link = f"Season {meta['season']}{warning}" if 'season' in meta else None
-            if 'pvaURL' in meta:
-                actual_img_links.append(meta['pvaURL'])
-            if 'spectrumURL' in meta:
-                actual_img_links.append(meta['spectrumURL'])
-            if season_link:
-                print(f"## {season_link}", file=content_md)
-                print("", file=content_md)
-            if audio_type:
-                linked_content_format = ', '.join(audio_type)
-                print(f"* {linked_content_format}", file=content_md)
-                print("", file=content_md)
-            if 'avs' in meta:
-                print(f"* [Forum Post]({meta['avs']})", file=content_md)
-            if 'year' in meta:
-                print(f"* Production Year: {meta['year']}", file=content_md)
-                print("", file=content_md)
-            for img in actual_img_links:
-                print(f"![img {img_idx}]({img})", file=content_md)
-                print('', file=content_md)
+            episode_suffix = f" Episode {meta['episode']}" if 'episode' in meta else ''
+        season_link = f"Season {meta['season']}{episode_suffix}" if 'season' in meta else None
+        if 'pvaURL' in meta:
+            actual_img_links.append(meta['pvaURL'])
+        if 'spectrumURL' in meta:
+            actual_img_links.append(meta['spectrumURL'])
+        if season_link:
+            print(f"## {season_link}", file=content_md)
+            print("", file=content_md)
+        if audio_type:
+            linked_content_format = ', '.join(audio_type)
+            print(f"* {linked_content_format}", file=content_md)
+            print("", file=content_md)
+        if 'avs' in meta:
+            print(f"* [Forum Post]({meta['avs']})", file=content_md)
+        if 'year' in meta:
+            print(f"* Production Year: {meta['year']}", file=content_md)
+            print("", file=content_md)
+        for img in actual_img_links:
+            print(f"![img {img_idx}]({img})", file=content_md)
+            print('', file=content_md)
 
-                bd_url = generate_index_entry(author, page_name, linked_content_format, meta['title'], meta['year'],
-                                              meta.get('avs', None), len(metas) > 1, index_entries, content_type='TV')
-                prefix = 'https://beqcatalogue.readthedocs.io/en/latest'
-                slugified_link = f"/#{slugify(season_link, '-')}" if season_link else ''
-                beq_catalogue_url = f"{prefix}/{author}/{page_name}{slugified_link}"
-                cols = [
-                    meta['title'],
-                    meta['year'],
-                    linked_content_format,
-                    author,
-                    meta.get('avs', ''),
-                    beq_catalogue_url,
-                    bd_url,
-                    meta['filters']
-                ]
-                db_writer.writerow(cols + actual_img_links)
-            json_catalogue.append({
-                'title': meta['title'],
-                'year': meta['year'],
-                'audioTypes': meta.get('audioType', []),
-                'author': author,
-                'catalogue_url': beq_catalogue_url,
-                'filters': meta['jsonfilters'],
-                'images': actual_img_links,
-                'content_type': 'TV',
-                'season': meta['season'] if 'season' in meta else '',
-                # replace with episode when available
-                'warning': meta.get('warning', ''),
-                'note': meta.get('note', ''),
-                'mv': meta.get('gain', '0'),
-                'avs': meta.get('avs', '')
-            })
+        bd_url = generate_index_entry(author, page_name, linked_content_format, meta['title'], meta['year'],
+                                      meta.get('avs', None), len(metas) > 1, index_entries, content_type='TV')
+        prefix = 'https://beqcatalogue.readthedocs.io/en/latest'
+        slugified_link = f"/#{slugify(season_link, '-')}" if season_link else ''
+        beq_catalogue_url = f"{prefix}/{author}/{page_name}{slugified_link}"
+        cols = [
+            meta['title'],
+            meta['year'],
+            linked_content_format,
+            author,
+            meta.get('avs', ''),
+            beq_catalogue_url,
+            bd_url,
+            meta['filters']
+        ]
+        db_writer.writerow(cols + actual_img_links)
+
+        # TODO remove once metadata is added
+        if author == 'mobe1969' and len(actual_img_links) == 0:
+            from urllib.parse import quote
+            print(f"Generating img link for missing meta in {meta}")
+            fp = meta['file_path'].replace('TV BEQs', 'TV Series')
+            img = f"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/{quote(fp)}/{quote(meta['file_name'])}.jpg"
+            actual_img_links = [img]
+            print(f"![img {img_idx}]({img})", file=content_md)
+            print('', file=content_md)
+
+        json_catalogue.append({
+            'title': meta['title'],
+            'year': meta['year'],
+            'audioTypes': meta.get('audioType', []),
+            'author': author,
+            'catalogue_url': beq_catalogue_url,
+            'filters': meta['jsonfilters'],
+            'images': actual_img_links,
+            'content_type': 'TV',
+            'season': meta['season'] if 'season' in meta else '',
+            # replace with episode when available
+            'warning': meta.get('warning', ''),
+            'note': meta.get('note', ''),
+            'mv': meta.get('gain', '0'),
+            'avs': meta.get('avs', '')
+        })
 
 
 def generate_index_entry(author, page_name, content_format, content_name, year, avs_url, multiformat, index_entries, content_type='film'):
@@ -305,13 +377,15 @@ else:
 
 
 if __name__ == '__main__':
-    aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/Movie BEQs', 'film')
+    aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film')
     print(f"Extracted {len(aron7awol_films)} aron7awol film catalogue entries")
-    aron7awol_tv = extract_from_repo('.input/bmiller/miniDSPBEQ/TV Shows BEQ', 'TV')
+    aron7awol_tv = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
     print(f"Extracted {len(aron7awol_tv)} aron7awol TV catalogue entries")
 
-    mobe1969_films = extract_from_repo('.input/Mobe1969/miniDSPBEQ/Movie BEQs', 'film')
-    print(f"Extracted {len(mobe1969_films)} mobe1969 catalogue entries")
+    mobe1969_films = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'Movie BEQs', 'film')
+    print(f"Extracted {len(mobe1969_films)} mobe1969 film catalogue entries")
+    mobe1969_tv = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'TV BEQs', 'TV')
+    print(f"Extracted {len(mobe1969_tv)} mobe1969 TV catalogue entries")
 
     json_catalogue = []
 
@@ -329,13 +403,14 @@ if __name__ == '__main__':
             for i in sorted(index_entries, key=str.casefold):
                 print(i, file=index_md)
 
+        index_entries = []
+        process_mobe1969_content_from_repo(mobe1969_films, index_entries, 'film')
+        process_mobe1969_content_from_repo(mobe1969_tv, index_entries, 'TV')
         with open('docs/mobe1969.md', mode='w+') as index_md:
             print(f"# Mobe1969", file=index_md)
             print('', file=index_md)
             print(f"| Title | Type | Year | Format | Multiformat? | Links |", file=index_md)
             print(f"|-|-|-|-|-|-|", file=index_md)
-            index_entries = []
-            process_mobe1969_content_from_repo(mobe1969_films, index_entries)
             for i in sorted(index_entries, key=str.casefold):
                 print(i, file=index_md)
             print('', file=index_md)
