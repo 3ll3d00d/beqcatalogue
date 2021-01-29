@@ -206,7 +206,8 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 'author': author,
                 'catalogue_url': beq_catalogue_url,
                 'filters': meta['jsonfilters'],
-                'images': actual_img_links
+                'images': actual_img_links,
+                'warning': meta.get('warning', '')
             })
 
 
@@ -272,7 +273,10 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
                 'filters': meta['jsonfilters'],
                 'images': actual_img_links,
                 'content_type': 'TV',
-                'season': meta['season'] if 'season' in meta else ''
+                'season': meta['season'] if 'season' in meta else '',
+                # replace with episode when available
+                'warning': meta.get('warning', ''),
+                'note': meta.get('note', '')
             })
 
 
