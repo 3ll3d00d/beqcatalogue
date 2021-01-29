@@ -11,6 +11,12 @@
 
 ![img 0](https://i.imgur.com/xn9hOB1.jpg)
 
+## Season 2
+
+* DD 5.1
+
+* Production Year: 2017
+
 ## Season 3
 
 * DD+
