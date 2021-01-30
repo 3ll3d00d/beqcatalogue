@@ -19353,7 +19353,7 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59405430"
 },
 {
-"title": "Get In",
+"title": "Furie",
 "year": "2019",
 "audioTypes": [
 "DD+"
@@ -19491,7 +19491,7 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58567996"
 },
 {
-"title": "Get In",
+"title": "Furie",
 "year": "2019",
 "audioTypes": [
 "DTS-HD MA 7.1"
@@ -45800,7 +45800,7 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59495618"
 },
 {
-"title": "The Witches",
+"title": "Roald Dahl's The Witches",
 "year": "2020",
 "audioTypes": [
 "DD+"
@@ -62392,7 +62392,7 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58108818"
 },
 {
-"title": "Red Shoes and the Seven Dwarfs",
+"title": "Red Shoes And The Seven Dwarfs",
 "year": "2019",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -70261,7 +70261,7 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59959016"
 },
 {
-"title": "Game of Thrones Conquest & Rebellion: An Animated History of the Seven Kingdoms",
+"title": "Game of Thrones - Conquest & Rebellion: An Animated History of the Seven Kingdoms",
 "year": "2017",
 "audioTypes": [
 "TrueHD 5.1"
@@ -73584,7 +73584,7 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56788206"
 },
 {
-"title": "Journey to China: The Mystery of Iron Mask",
+"title": "The Iron Mask",
 "year": "2019",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -158698,7 +158698,7 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56759308"
 },
 {
-"title": "Escape from Pretoria",
+"title": "Escape From Pretoria",
 "year": "2020",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -159800,7 +159800,7 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58647878"
 },
 {
-"title": "Dracula",
+"title": "Bram Stoker's Dracula",
 "year": "1992",
 "audioTypes": [
 "Atmos"
@@ -169263,7 +169263,7 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57475704"
 },
 {
-"title": "Tom Clancy's  Jack Ryan",
+"title": "Tom Clancy's Jack Ryan",
 "year": "2018",
 "audioTypes": [
 "DD+ Atmos"
@@ -169383,7 +169383,7 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56752898"
 },
 {
-"title": "Tom Clancy's  Jack Ryan",
+"title": "Tom Clancy's Jack Ryan",
 "year": "2018",
 "audioTypes": [
 "DD+"
@@ -169943,7 +169943,7 @@
 "DD+"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/dark/#season-3-all-except-e6",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/dark/#season-3-episodes-1-5-7-8",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -170010,7 +170010,7 @@
 ],
 "content_type": "TV",
 "season": "3",
-"episode": "All except E6",
+"episode": "1,2,3,4,5,7,8",
 "mv": "+4.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59869508"
 },
@@ -170100,7 +170100,7 @@
 "DD+"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/bosch/#season-6-ep-1-9",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/bosch/#season-6-episodes-1-9",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -170207,7 +170207,7 @@
 ],
 "content_type": "TV",
 "season": "6",
-"episode": "Ep 1-9",
+"episode": "1,2,3,4,5,6,7,8,9",
 "mv": "+3.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59540646"
 },
@@ -170218,7 +170218,7 @@
 "DD+"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/bosch/#season-6-ep-10",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/bosch/#season-6-episode-10",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -170285,7 +170285,7 @@
 ],
 "content_type": "TV",
 "season": "6",
-"episode": "Ep 10",
+"episode": "10",
 "mv": "+3.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59540646"
 },
@@ -170826,7 +170826,85 @@
 "DD+"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-expanse/#season-5-e1-5-only-e7-8",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-expanse/#season-5",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 24.0,
+"gain": 5.4,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0002230936062666",
+"-1.9987757220449751",
+"0.998555993355801"
+],
+"a": [
+"1.9987765009697858",
+"-0.998778308037257"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 24.0,
+"gain": 5.4,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0002230936062666",
+"-1.9987757220449751",
+"0.998555993355801"
+],
+"a": [
+"1.9987765009697858",
+"-0.998778308037257"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 45.0,
+"gain": 1.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002033322863217",
+"-1.9972464529991574",
+"0.9970517832583755"
+],
+"a": [
+"1.9972464529991574",
+"-0.9972551155446974"
+]
+}
+}
+}
+],
+"images": [
+"https://i.imgur.com/fz8HIwr.jpg"
+],
+"content_type": "TV",
+"season": "5",
+"episode": "",
+"mv": "+5.0",
+"avs": "https://www.avsforum.com/goto/post?id=60335058"
+},
+{
+"title": "The Expanse",
+"year": "2015",
+"audioTypes": [
+"DD+"
+],
+"author": "aron7awol",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-expanse/#season-5-episodes-1-5-7-9",
 "filters": [
 {
 "type": "LowShelf",
@@ -170953,87 +171031,9 @@
 ],
 "content_type": "TV",
 "season": "5",
-"episode": "E1-5 Only, E7-8",
+"episode": "1,2,3,4,5,7,8,9",
 "mv": "+5.0",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60335058"
-},
-{
-"title": "The Expanse",
-"year": "2015",
-"audioTypes": [
-"DD+"
-],
-"author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-expanse/#season-5-e6-only",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 24.0,
-"gain": 5.4,
-"q": 1.1,
-"biquads": {
-"96000": {
-"b": [
-"1.0002230936062666",
-"-1.9987757220449751",
-"0.998555993355801"
-],
-"a": [
-"1.9987765009697858",
-"-0.998778308037257"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 24.0,
-"gain": 5.4,
-"q": 1.1,
-"biquads": {
-"96000": {
-"b": [
-"1.0002230936062666",
-"-1.9987757220449751",
-"0.998555993355801"
-],
-"a": [
-"1.9987765009697858",
-"-0.998778308037257"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 45.0,
-"gain": 1.2,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002033322863217",
-"-1.9972464529991574",
-"0.9970517832583755"
-],
-"a": [
-"1.9972464529991574",
-"-0.9972551155446974"
-]
-}
-}
-}
-],
-"images": [
-"https://i.imgur.com/fz8HIwr.jpg"
-],
-"content_type": "TV",
-"season": "5",
-"episode": "E6 Only",
-"mv": "+5.0",
-"avs": "https://www.avsforum.com/goto/post?id=60335058"
 },
 {
 "title": "The Order",
@@ -171866,125 +171866,7 @@
 "DD+"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/ozark/#season-3-e6",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 55.0,
-"gain": 0.8,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001655479151066",
-"-1.9965552438283618",
-"0.9964026318037424"
-],
-"a": [
-"1.9965552438283618",
-"-0.9965681797188489"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 23.0,
-"gain": 4.8,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002319630736",
-"-1.9985419292996498",
-"0.9983129513110318"
-],
-"a": [
-"1.9985425629735836",
-"-0.9985442807106985"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 23.0,
-"gain": 4.8,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002319630736",
-"-1.9985419292996498",
-"0.9983129513110318"
-],
-"a": [
-"1.9985425629735836",
-"-0.9985442807106985"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 23.0,
-"gain": 4.8,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002319630736",
-"-1.9985419292996498",
-"0.9983129513110318"
-],
-"a": [
-"1.9985425629735836",
-"-0.9985442807106985"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 23.0,
-"gain": 4.8,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002319630736",
-"-1.9985419292996498",
-"0.9983129513110318"
-],
-"a": [
-"1.9985425629735836",
-"-0.9985442807106985"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://i.imgur.com/7tvZ2V2.jpg"
-],
-"content_type": "TV",
-"season": "3",
-"episode": "E6",
-"mv": "0",
-"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59418556"
-},
-{
-"title": "Ozark",
-"year": "2017",
-"audioTypes": [
-"DD+"
-],
-"author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/ozark/#season-3-except-e6",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/ozark/#season-3-episodes-1-5-7-10",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -172091,7 +171973,125 @@
 ],
 "content_type": "TV",
 "season": "3",
-"episode": "Except E6",
+"episode": "1,2,3,4,5,7,8,9,10",
+"mv": "0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59418556"
+},
+{
+"title": "Ozark",
+"year": "2017",
+"audioTypes": [
+"DD+"
+],
+"author": "aron7awol",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/ozark/#season-3-episode-6",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 55.0,
+"gain": 0.8,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001655479151066",
+"-1.9965552438283618",
+"0.9964026318037424"
+],
+"a": [
+"1.9965552438283618",
+"-0.9965681797188489"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 4.8,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002319630736",
+"-1.9985419292996498",
+"0.9983129513110318"
+],
+"a": [
+"1.9985425629735836",
+"-0.9985442807106985"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 4.8,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002319630736",
+"-1.9985419292996498",
+"0.9983129513110318"
+],
+"a": [
+"1.9985425629735836",
+"-0.9985442807106985"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 4.8,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002319630736",
+"-1.9985419292996498",
+"0.9983129513110318"
+],
+"a": [
+"1.9985425629735836",
+"-0.9985442807106985"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 4.8,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002319630736",
+"-1.9985419292996498",
+"0.9983129513110318"
+],
+"a": [
+"1.9985425629735836",
+"-0.9985442807106985"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://i.imgur.com/7tvZ2V2.jpg"
+],
+"content_type": "TV",
+"season": "3",
+"episode": "6",
 "mv": "0",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59418556"
 },
@@ -172102,7 +172102,7 @@
 "DD+ Atmos"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/altered-carbon/#season-1-eps-1-8",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/altered-carbon/#season-1-episodes-1-8",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -172229,7 +172229,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "Eps 1-8",
+"episode": "1,2,3,4,5,6,7,8",
 "mv": "+5.0",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56816638"
 },
@@ -172240,7 +172240,7 @@
 "DD+ Atmos"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/altered-carbon/#season-1-eps-9-10",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/altered-carbon/#season-1-episodes-9-10",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -172347,7 +172347,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "Eps 9-10",
+"episode": "9,10",
 "mv": "+5.0",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56816638"
 },
@@ -172731,7 +172731,7 @@
 "DD+ Atmos"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/formula-1-drive-to-survive/#season-1-eps-2-10",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/formula-1-drive-to-survive/#season-1-episodes-2-10",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -172818,7 +172818,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "Eps 2-10",
+"episode": "2,3,4,5,6,7,8,9,10",
 "mv": "0",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57773258"
 },
@@ -174081,7 +174081,7 @@
 "DD+"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-outsider/#season-1-e1-7",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-outsider/#season-1-episodes-1-7",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -174148,7 +174148,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "E1-7",
+"episode": "1,2,3,4,5,6,7",
 "mv": "+5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59128586"
 },
@@ -174571,7 +174571,7 @@
 "DD+"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-umbrella-academy/#season-2-all-except-e2",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-umbrella-academy/#season-2-episodes-1-3-10",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -174638,7 +174638,7 @@
 ],
 "content_type": "TV",
 "season": "2",
-"episode": "All except E2",
+"episode": "1,3,4,5,6,7,8,9,10",
 "mv": "0",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60030635"
 },
@@ -176061,7 +176061,7 @@
 "DD+ Atmos"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/fate-the-winx-saga/#season-1-episodes-1-3-5-only",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/fate-the-winx-saga/#season-1",
 "filters": [
 {
 "type": "LowShelf",
@@ -176109,7 +176109,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "Episodes 1, 3-5 Only",
+"episode": "",
 "mv": "+3.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60442776"
 },
@@ -176120,7 +176120,7 @@
 "DD+ Atmos"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/fate-the-winx-saga/#season-1-episodes-2-6-only",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/fate-the-winx-saga/#season-1-episodes-2-6",
 "filters": [
 {
 "type": "LowShelf",
@@ -176187,7 +176187,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "Episodes 2, 6 Only",
+"episode": "2,6",
 "mv": "+3.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60442776"
 },
@@ -176338,12 +176338,14 @@
 "count": 1
 }
 ],
-"images": [],
+"images": [
+"https://i.imgur.com/CJZi6Fy.jpg"
+],
 "content_type": "TV",
 "season": "2",
 "episode": "",
 "mv": "+7.0",
-"avs": ""
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59498818"
 },
 {
 "title": "A Series of Unfortunate Events",
@@ -178324,8 +178326,8 @@
 "title": "Blood of Zeus",
 "year": "2020",
 "audioTypes": [
-"DD+",
-"DTS-HD MA 7.1"
+"DTS-HD MA 7.1",
+"DD+"
 ],
 "author": "aron7awol",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/blood-of-zeus/#season-1",
@@ -180008,13 +180010,13 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60218809"
 },
 {
-"title": "Transformers: War for Cybertron",
+"title": "Transformers: War for Cybertron: Siege",
 "year": "2020",
 "audioTypes": [
 "DD+ Atmos"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/transformers-war-for-cybertron/#season-1-all-except-e4",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/transformers-war-for-cybertron-siege/#season-1-episodes-1-3-5-6",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -180061,7 +180063,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "All except E4",
+"episode": "1,2,3,5,6",
 "mv": "+7.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60015743"
 },
@@ -180287,7 +180289,7 @@
 "DD+"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-rook/#season-1-e1-4-5-7-8-only",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-rook/#season-1-episodes-1-4-5-7-8",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -180414,7 +180416,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "E1, 4-5, 7-8 only",
+"episode": "1,4,5,7,8",
 "mv": "+4.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59409792"
 },
@@ -180562,7 +180564,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/nightflyers/#season-1-e2-10-only",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/nightflyers/#season-1-episodes-2-10",
 "filters": [
 {
 "type": "LowShelf",
@@ -180630,7 +180632,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "E2-10 ONLY",
+"episode": "2,3,4,5,6,7,8,9,10",
 "mv": "-0.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57691834"
 },
@@ -186351,6 +186353,155 @@
 "a": [
 "1.9988512391142548",
 "-0.9988520829354465"
+]
+}
+},
+"count": 1
+}
+]
+},
+{
+"title": "The 15-17 to Paris",
+"author": "mobe1969",
+"content_type": "film",
+"year": "2018",
+"audioTypes": [
+"TrueHD Atmos"
+],
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000919672658624",
+"-1.999024163322056",
+"0.998933056043754"
+],
+"a": [
+"1.9990242889035523",
+"-0.99902489772812"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000919672658624",
+"-1.999024163322056",
+"0.998933056043754"
+],
+"a": [
+"1.9990242889035523",
+"-0.99902489772812"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000919672658624",
+"-1.999024163322056",
+"0.998933056043754"
+],
+"a": [
+"1.9990242889035523",
+"-0.99902489772812"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000919672658624",
+"-1.999024163322056",
+"0.998933056043754"
+],
+"a": [
+"1.9990242889035523",
+"-0.99902489772812"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": 4.0,
+"q": 3.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0000644943025265",
+"-1.9997786268845417",
+"0.9997149720911395"
+],
+"a": [
+"1.9997786268845417",
+"-0.9997794663936662"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 15.0,
+"gain": 4.0,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000570090851668",
+"-1.9998040978189202",
+"0.9997480524682871"
+],
+"a": [
+"1.9998040978189202",
+"-0.999805061553454"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 0.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0",
+"-1.9983633797771971",
+"0.9983650918492536"
+],
+"a": [
+"1.9983633797771971",
+"-0.9983650918492536"
 ]
 }
 },

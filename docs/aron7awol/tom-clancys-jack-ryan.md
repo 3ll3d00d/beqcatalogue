@@ -1,4 +1,4 @@
-# Tom Clancy's  Jack Ryan
+# Tom Clancy's Jack Ryan
 
 * Author: aron7awol
 

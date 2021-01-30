@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-## Season 1 (Episodes 1, 3-5 Only)
+## Season 1
 
 * DD+ Atmos
 
@@ -11,7 +11,7 @@
 
 ![img 0](https://i.imgur.com/KFHyV5r.jpg)
 
-## Season 1 (Episodes 2, 6 Only)
+## Season 1 Episodes 2, 6
 
 * DD+ Atmos
 

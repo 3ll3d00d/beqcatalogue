@@ -38,16 +38,7 @@
 
 ![img 0](https://i.imgur.com/BFc3a2N.jpg)
 
-## Season 5 (E1-5 Only, E7-8)
-
-* DD+
-
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60335058)
-* Production Year: 2015
-
-![img 0](https://i.imgur.com/0uLjpdC.jpg)
-
-## Season 5 (E6 Only)
+## Season 5
 
 * DD+
 
@@ -55,4 +46,13 @@
 * Production Year: 2015
 
 ![img 0](https://i.imgur.com/fz8HIwr.jpg)
+
+## Season 5 Episodes 1-5, 7-9
+
+* DD+
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60335058)
+* Production Year: 2015
+
+![img 0](https://i.imgur.com/0uLjpdC.jpg)
 

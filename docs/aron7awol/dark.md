@@ -22,7 +22,7 @@
 
 ![img 0](https://i.imgur.com/9kBcufy.jpg)
 
-## Season 3 (All except E6)
+## Season 3 Episodes 1-5, 7-8
 
 * DD+
 

@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-## Season 1 (E1, 4-5, 7-8 only)
+## Season 1 Episodes 1, 4-5, 7-8
 
 * DD+
 

@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-## Season 1 (E2-10 ONLY)
+## Season 1 Episodes 2-10
 
 * DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-## Season 6 (Ep 1-9)
+## Season 6 Episodes 1-9
 
 * DD+
 
@@ -11,7 +11,7 @@
 
 ![img 0](https://i.imgur.com/QKZJp9V.jpg)
 
-## Season 6 (Ep 10)
+## Season 6 Episode 10
 
 * DD+
 

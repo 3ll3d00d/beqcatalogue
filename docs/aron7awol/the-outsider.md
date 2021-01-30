@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-## Season 1 (E1-7)
+## Season 1 Episodes 1-7
 
 * DD+
 

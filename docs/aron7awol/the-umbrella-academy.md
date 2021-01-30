@@ -11,7 +11,7 @@
 
 ![img 0](https://i.imgur.com/CfY29RS.jpg)
 
-## Season 2 (All except E2)
+## Season 2 Episodes 1, 3-10
 
 * DD+
 

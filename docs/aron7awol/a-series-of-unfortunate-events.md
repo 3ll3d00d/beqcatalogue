@@ -15,7 +15,10 @@
 
 * DD 5.1
 
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59498818)
 * Production Year: 2017
+
+![img 0](https://i.imgur.com/CJZi6Fy.jpg)
 
 ## Season 3
 

@@ -22,7 +22,7 @@
 
 ![img 0](https://i.imgur.com/IOobJS6.png)
 
-## Season 3 (E6)
+## Season 3 Episodes 1-5, 7-10
 
 * DD+
 
@@ -31,7 +31,7 @@
 
 ![img 0](https://i.imgur.com/7tvZ2V2.jpg)
 
-## Season 3 (Except E6)
+## Season 3 Episode 6
 
 * DD+
 
