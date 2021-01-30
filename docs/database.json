@@ -73327,6 +73327,124 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56883516"
 },
 {
+"title": "The Little Things",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "aron7awol",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/60458275/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 6.5,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003012607465391",
+"-1.998671759456372",
+"0.9983735108459253"
+],
+"a": [
+"1.9986725529264262",
+"-0.9986739781224105"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 6.5,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003012607465391",
+"-1.998671759456372",
+"0.9983735108459253"
+],
+"a": [
+"1.9986725529264262",
+"-0.9986739781224105"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 6.5,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003012607465391",
+"-1.998671759456372",
+"0.9983735108459253"
+],
+"a": [
+"1.9986725529264262",
+"-0.9986739781224105"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 6.5,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003012607465391",
+"-1.998671759456372",
+"0.9983735108459253"
+],
+"a": [
+"1.9986725529264262",
+"-0.9986739781224105"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 53.0,
+"gain": 1.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002194399744786",
+"-1.9967372845543103",
+"0.9965298578742032"
+],
+"a": [
+"1.9967372845543103",
+"-0.9967492978486818"
+]
+}
+}
+}
+],
+"images": [
+"https://i.imgur.com/9qYgmBe.jpg",
+"https://i.imgur.com/UjApjrZ.png"
+],
+"warning": "",
+"mv": "+6.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60458275"
+},
+{
 "title": "Lara Croft: Tomb Raider - The Cradle of Life",
 "year": "2003",
 "audioTypes": [
