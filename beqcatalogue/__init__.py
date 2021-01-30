@@ -1,9 +1,13 @@
 import csv
 import os
 import re
+from operator import itemgetter
+from typing import Tuple
 from urllib import parse
 
 import json
+
+from itertools import groupby
 from markdown.extensions.toc import slugify
 
 from iir import xml_to_filt
@@ -42,6 +46,15 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
                         <genre id="53">Thriller</genre>
                 </beq_genres>
             </beq_metadata>
+
+        new season format replaces beq_season with
+
+               <beq_season id="92137">
+                   <number>1</number>
+                   <poster>/q1X7Ev3Hcr0Q7aUiWgw1ZUZf1QZ.jpg</poster>
+                   <episodes count="8">1,2,3,4,5,6,7,8</episodes>
+               </beq_season>
+
     :return:
     '''
     import xml.etree.ElementTree as ET
@@ -67,11 +80,34 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
                     elif m.tag == 'beq_audioTypes':
                         audio_types = [c.text.strip() for c in m]
                         meta['audioType'] = [at for at in audio_types if at]
+                    elif m.tag == 'beq_season':
+                        parse_season(m, meta, xml)
         filts = [f for f in xml_to_filt(xml, unroll=True)]
         meta['jsonfilters'] = [f.to_map() for f in filts]
         meta['filters'] = '^'.join([str(f) for f in filts])
         elements.append(meta)
     return elements
+
+
+def parse_season(m, meta, xml):
+    try:
+        meta['season'] = {'id': m.attrib['id']}
+        for c in m:
+            if c.tag == 'episodes':
+                meta['season']['episode_count'] = c.attrib['count']
+            meta['season'][c.tag] = c.text
+        complete = True
+        if 'episode_count' in meta['season'] and 'episodes' in meta['season']:
+            count = int(meta['season']['episode_count'])
+            epi_txt = meta['season']['episodes']
+            if epi_txt:
+                episodes = [int(e) for e in meta['season']['episodes'].split(',')]
+                for c in range(count):
+                    if c + 1 not in episodes:
+                        complete = False
+        meta['season']['complete'] = complete
+    except:
+        print(f"Unable to parse season info from {xml}")
 
 
 def group_mobe1969_film_content(content_meta):
@@ -119,7 +155,7 @@ def group_mobe1969_tv_content(content_meta):
                     elif '-' in note[1:]:
                         vals = [int(i) for i in note[1:].split('-')]
                         if len(vals) == 2:
-                            meta['episode'] = ','.join([str(e) for e in range(vals[0], vals[1]+1)])
+                            meta['episode'] = ','.join([str(e) for e in range(vals[0], vals[1] + 1)])
                 elif note[0] == 'S':
                     frags = note.split('-')
                     if len(frags) == 2:
@@ -275,6 +311,46 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
             })
 
 
+def format_season_episode(m) -> Tuple[str, str, str, str]:
+    long_season_episode = ''
+    short_season_episode = ''
+    season = ''
+    episodes = ''
+    if 'season' in m:
+        season_meta = m['season']
+        if isinstance(season_meta, str):
+            season = season_meta
+            long_season_episode = f"Season {season}"
+            short_season_episode = f"S{season}"
+            if 'episode' in m:
+                episodes = m['episode']
+                long_season_episode += f" Episode {episodes}"
+                short_season_episode += f"E{episodes}"
+        else:
+            season = season_meta['number']
+            long_season_episode = f"Season {season}"
+            short_season_episode = f"S{season}"
+            if not season_meta['complete']:
+                episodes = season_meta['episodes']
+                to_print = episodes
+                s = ''
+                if ',' in episodes:
+                    epi_nums = [int(e) for e in episodes.split(',')]
+                    if len(epi_nums) > 1:
+                        ranges = []
+                        for k, g in groupby(enumerate(epi_nums), lambda t: t[0] - t[1]):
+                            group = list(map(itemgetter(1), g))
+                            if group[0] == group[-1]:
+                                ranges.append(f"{group[0]}")
+                            else:
+                                ranges.append(f"{group[0]}-{group[-1]}")
+                        to_print = ', '.join(ranges)
+                        s = 's'
+                long_season_episode += f" Episode{s} {to_print}"
+                short_season_episode += f"E{to_print}"
+    return long_season_episode, short_season_episode, season, episodes
+
+
 def generate_tv_content_page(page_name, metas, content_md, index_entries, author):
     ''' prints the md content page '''
     print(f"# {metas[0]['title']}", file=content_md)
@@ -282,25 +358,32 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
     print(f"* Author: {author}", file=content_md)
     img_idx = 0
     print("", file=content_md)
-    for meta in sorted(metas,
-                       key=lambda m: f"{m['season']}{m.get('warning' if author == 'aron7awol' else 'episode', '')}"):
+
+    def sort_meta(m):
+        sort_key = ''
+        if 'season' in m:
+            season_meta = m['season']
+            if isinstance(season_meta, str):
+                sort_key = season_meta
+                if 'episode' in m:
+                    sort_key += m['episode']
+            else:
+                sort_key = season_meta['number']
+                if not season_meta['complete']:
+                    sort_key += season_meta['episodes']
+        return sort_key
+
+    for meta in sorted(metas, key=sort_meta):
         audio_type = meta.get('audioType', '')
         linked_content_format = ''
         actual_img_links = []
-        if author == 'aron7awol':
-            episode_suffix = f" ({meta['warning']})" if 'warning' in meta else ''
-            short_epi_suffix = episode_suffix
-        else:
-            episode_suffix = f" Episode {meta['episode']}" if 'episode' in meta else ''
-            short_epi_suffix = f" E{meta['episode']}" if 'episode' in meta else ''
-        season_link = f"Season {meta['season']}{episode_suffix}" if 'season' in meta else None
-        season_suffix = f"S{meta['season']}{short_epi_suffix}"
+        long_season, short_season, season, episodes = format_season_episode(meta)
         if 'pvaURL' in meta:
             actual_img_links.append(meta['pvaURL'])
         if 'spectrumURL' in meta:
             actual_img_links.append(meta['spectrumURL'])
-        if season_link:
-            print(f"## {season_link}", file=content_md)
+        if long_season:
+            print(f"## {long_season}", file=content_md)
             print("", file=content_md)
         if audio_type:
             linked_content_format = ', '.join(audio_type)
@@ -315,8 +398,8 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             print(f"![img {img_idx}]({img})", file=content_md)
             print('', file=content_md)
 
-        extra_slug = f"#{slugify(season_link, '-')}" if season_link else ''
-        bd_url = generate_index_entry(author, page_name, linked_content_format, f"{meta['title']} {season_suffix}",
+        extra_slug = f"#{slugify(long_season, '-')}" if long_season else ''
+        bd_url = generate_index_entry(author, page_name, linked_content_format, f"{meta['title']} {short_season}",
                                       meta['year'], meta.get('avs', None), len(metas) > 1, index_entries,
                                       content_type='TV', extra_slug=extra_slug)
         prefix = 'https://beqcatalogue.readthedocs.io/en/latest'
@@ -353,8 +436,8 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             'filters': meta['jsonfilters'],
             'images': actual_img_links,
             'content_type': 'TV',
-            'season': meta['season'] if 'season' in meta else '',
-            'episode': meta.get('warning', meta.get('episode', '')),
+            'season': season,
+            'episode': episodes,
             'mv': meta.get('gain', '0'),
             'avs': meta.get('avs', '')
         })
@@ -370,7 +453,8 @@ def generate_index_entry(author, page_name, content_format, content_name, year, 
     if content_type == 'film':
         extra_slug = f"#{slugify(content_format, '-')}" if multiformat is True else ''
     avs_link = f"[avsforum]({avs_url})" if avs_url else ''
-    index_entries.append(f"| [{content_name}](./{author}/{page_name}.md{extra_slug}) | {content_type} | {year} | {content_format} | {'Yes' if multiformat else 'No'} | {avs_link} [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) |")
+    index_entries.append(
+        f"| [{content_name}](./{author}/{page_name}.md{extra_slug}) | {content_type} | {year} | {content_format} | {'Yes' if multiformat else 'No'} | {avs_link} [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) |")
     return bd_url
 
 
@@ -379,7 +463,6 @@ if os.getcwd() == os.path.dirname(os.path.abspath(__file__)):
     os.chdir('..')
 else:
     print(f"CWD: {os.getcwd()}")
-
 
 if __name__ == '__main__':
     aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film')
