@@ -38,15 +38,6 @@
 
 ![img 0](https://i.imgur.com/BFc3a2N.jpg)
 
-## Season 5
-
-* DD+
-
-* [Forum Post](https://www.avsforum.com/goto/post?id=60335058)
-* Production Year: 2015
-
-![img 0](https://i.imgur.com/fz8HIwr.jpg)
-
 ## Season 5 Episodes 1-5, 7-9
 
 * DD+
@@ -55,4 +46,13 @@
 * Production Year: 2015
 
 ![img 0](https://i.imgur.com/0uLjpdC.jpg)
+
+## Season 5 Episode 6
+
+* DD+
+
+* [Forum Post](https://www.avsforum.com/goto/post?id=60335058)
+* Production Year: 2015
+
+![img 0](https://i.imgur.com/fz8HIwr.jpg)
 
