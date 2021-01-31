@@ -12,5 +12,5 @@
 
 * Production Year: 2004
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Grudge%20(2004)(Unrated)%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Grudge%20%282004%29%28Unrated%29%20TrueHD%205.1.jpg)
 

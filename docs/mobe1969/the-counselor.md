@@ -5,5 +5,5 @@
 
 ## DTS-HD MA 5.1
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Counselor%20(2013)%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Counselor%20%282013%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -9,7 +9,7 @@
 
 ## Atmos
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20%281995%29%20TrueHD%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20%281995%29%20TrueHD%20Atmos%20En.jpg)
 
 ## LPCM 2.0
 

@@ -9,9 +9,9 @@
 
 ## DTS-X MA
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20(2018)%20DTS-X%20MA.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%20DTS-X%20MA.jpg)
 
 ## TrueHD Atmos
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20(2018)%20TrueHD%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%20TrueHD%20Atmos.jpg)
 

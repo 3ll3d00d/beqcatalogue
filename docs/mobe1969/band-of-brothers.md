@@ -8,7 +8,7 @@
 
 * Production Year: 2001
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20E01%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E01%29%20DTS-HD%20MA%205.1.jpg)
 
 ## Season 1 Episode 02
 
@@ -16,7 +16,7 @@
 
 * Production Year: 2001
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20E02%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E02%29%20DTS-HD%20MA%205.1.jpg)
 
 ## Season 1 Episode 03
 
@@ -24,7 +24,7 @@
 
 * Production Year: 2001
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20E03%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E03%29%20DTS-HD%20MA%205.1.jpg)
 
 ## Season 1 Episode 04
 
@@ -32,7 +32,7 @@
 
 * Production Year: 2001
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20E04%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E04%29%20DTS-HD%20MA%205.1.jpg)
 
 ## Season 1 Episode 05
 
@@ -40,7 +40,7 @@
 
 * Production Year: 2001
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20E05%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E05%29%20DTS-HD%20MA%205.1.jpg)
 
 ## Season 1 Episode 06
 
@@ -48,7 +48,7 @@
 
 * Production Year: 2001
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20E06%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E06%29%20DTS-HD%20MA%205.1.jpg)
 
 ## Season 1 Episode 07
 
@@ -56,7 +56,7 @@
 
 * Production Year: 2001
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20E07%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E07%29%20DTS-HD%20MA%205.1.jpg)
 
 ## Season 1 Episode 08
 
@@ -64,7 +64,7 @@
 
 * Production Year: 2001
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20E08%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E08%29%20DTS-HD%20MA%205.1.jpg)
 
 ## Season 1 Episode 09
 
@@ -72,7 +72,7 @@
 
 * Production Year: 2001
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20E09%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E09%29%20DTS-HD%20MA%205.1.jpg)
 
 ## Season 1 Episode 10
 
@@ -80,5 +80,5 @@
 
 * Production Year: 2001
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20E10%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E10%29%20DTS-HD%20MA%205.1.jpg)
 
