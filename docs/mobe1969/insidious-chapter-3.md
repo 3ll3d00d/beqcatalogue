@@ -1,4 +1,4 @@
-# Insidious: Chapter 3
+# Insidious Chapter 3
 
 * Author: mobe1969
 * Production Year: 2015

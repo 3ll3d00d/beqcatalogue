@@ -1,4 +1,4 @@
-# Tucker and Dale vs. Evil
+# Tucker and Dale vs Evil
 
 * Author: mobe1969
 * Production Year: 2010

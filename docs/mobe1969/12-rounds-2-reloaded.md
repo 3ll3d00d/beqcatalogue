@@ -1,4 +1,4 @@
-# 12 Rounds 2: Reloaded
+# 12 Rounds 2 Reloaded
 
 * Author: mobe1969
 * Production Year: 2013

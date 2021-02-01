@@ -1,4 +1,4 @@
-# Star Trek: Nemesis
+# Star Trek Nemesis
 
 * Author: mobe1969
 * Production Year: 2002

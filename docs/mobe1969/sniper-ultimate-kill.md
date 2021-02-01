@@ -1,4 +1,4 @@
-# Sniper: Ultimate Kill
+# Sniper Ultimate Kill
 
 * Author: mobe1969
 * Production Year: 2017

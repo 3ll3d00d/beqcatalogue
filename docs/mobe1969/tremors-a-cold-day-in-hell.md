@@ -1,4 +1,4 @@
-# Tremors: A Cold Day in Hell
+# Tremors A Cold Day in Hell
 
 * Author: mobe1969
 * Production Year: 2018

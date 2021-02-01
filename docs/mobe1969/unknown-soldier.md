@@ -4,7 +4,7 @@
 
 ## Season 1 Episode 1
 
-* Atmos
+* TrueHD Atmos
 
 * Production Year: 2018
 
@@ -12,7 +12,7 @@
 
 ## Season 1 Episode 1,2,3
 
-* Atmos
+* TrueHD Atmos
 
 * Production Year: 2018
 
@@ -20,7 +20,7 @@
 
 ## Season 1 Episode 2
 
-* Atmos
+* TrueHD Atmos
 
 * Production Year: 2018
 
@@ -28,7 +28,7 @@
 
 ## Season 1 Episode 3
 
-* Atmos
+* TrueHD Atmos
 
 * Production Year: 2018
 
@@ -36,7 +36,7 @@
 
 ## Season 1 Episode 4
 
-* Atmos
+* TrueHD Atmos
 
 * Production Year: 2018
 
@@ -44,7 +44,7 @@
 
 ## Season 1 Episode 4,5
 
-* Atmos
+* TrueHD Atmos
 
 * Production Year: 2018
 
@@ -52,7 +52,7 @@
 
 ## Season 1 Episode 5
 
-* Atmos
+* TrueHD Atmos
 
 * Production Year: 2018
 

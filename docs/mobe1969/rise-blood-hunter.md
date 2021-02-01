@@ -1,4 +1,4 @@
-# Rise: Blood Hunter
+# Rise Blood Hunter
 
 * Author: mobe1969
 * Production Year: 2007

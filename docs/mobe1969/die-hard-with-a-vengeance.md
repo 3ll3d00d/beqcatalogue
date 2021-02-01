@@ -1,4 +1,4 @@
-# Die Hard: With a Vengeance
+# Die Hard With a Vengeance
 
 * Author: mobe1969
 * Production Year: 1995

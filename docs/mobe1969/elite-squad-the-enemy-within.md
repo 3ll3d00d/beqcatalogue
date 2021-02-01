@@ -1,4 +1,4 @@
-# Elite Squad: The Enemy Within
+# Elite Squad The Enemy Within
 
 * Author: mobe1969
 * Production Year: 2010

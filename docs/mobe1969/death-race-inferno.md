@@ -1,4 +1,4 @@
-# Death Race: Inferno
+# Death Race Inferno
 
 * Author: mobe1969
 * Production Year: 2013

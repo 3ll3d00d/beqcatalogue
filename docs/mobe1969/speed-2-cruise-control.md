@@ -1,4 +1,4 @@
-# Speed 2: Cruise Control
+# Speed 2 Cruise Control
 
 * Author: mobe1969
 * Production Year: 1997

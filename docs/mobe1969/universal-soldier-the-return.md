@@ -1,4 +1,4 @@
-# Universal Soldier: The Return
+# Universal Soldier The Return
 
 * Author: mobe1969
 * Production Year: 1999

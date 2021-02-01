@@ -1,4 +1,4 @@
-# The Prodigy: World's On Fire
+# The Prodigy World's on Fire
 
 * Author: mobe1969
 * Production Year: 2011

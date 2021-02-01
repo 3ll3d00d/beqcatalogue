@@ -1,4 +1,4 @@
-# Jarhead 2: Field of Fire
+# Jarhead 2 Field of Fire
 
 * Author: mobe1969
 * Production Year: 2014

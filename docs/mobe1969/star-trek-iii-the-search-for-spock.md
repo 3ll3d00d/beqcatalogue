@@ -1,4 +1,4 @@
-# Star Trek III: The Search for Spock
+# Star Trek III The Search for Spock
 
 * Author: mobe1969
 * Production Year: 1984

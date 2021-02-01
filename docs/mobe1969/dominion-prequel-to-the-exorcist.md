@@ -1,4 +1,4 @@
-# Dominion: Prequel to the Exorcist
+# Dominion Prequel to the Exorcist
 
 * Author: mobe1969
 * Production Year: 2005

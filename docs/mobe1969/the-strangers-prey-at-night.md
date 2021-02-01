@@ -1,4 +1,4 @@
-# The Strangers: Prey at Night
+# The Strangers Prey at Night
 
 * Author: mobe1969
 * Production Year: 2018

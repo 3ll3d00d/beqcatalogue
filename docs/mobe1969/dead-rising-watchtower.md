@@ -1,4 +1,4 @@
-# Dead Rising: Watchtower
+# Dead Rising Watchtower
 
 * Author: mobe1969
 * Production Year: 2015

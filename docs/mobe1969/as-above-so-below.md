@@ -1,4 +1,4 @@
-# As Above, So Below
+# As Above So Below
 
 * Author: mobe1969
 * Production Year: 2014

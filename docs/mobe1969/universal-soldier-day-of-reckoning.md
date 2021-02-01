@@ -1,4 +1,4 @@
-# Universal Soldier: Day of Reckoning
+# Universal Soldier Day of Reckoning
 
 * Author: mobe1969
 * Production Year: 2012

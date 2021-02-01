@@ -1,4 +1,4 @@
-# Death Race: Beyond Anarchy
+# Death Race Beyond Anarchy
 
 * Author: mobe1969
 * Production Year: 2018

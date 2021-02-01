@@ -1,4 +1,4 @@
-# The Girl Who Kicked the Hornet's Nest
+# The Girl Who Kicked The Hornets Nest
 
 * Author: mobe1969
 * Production Year: 2009

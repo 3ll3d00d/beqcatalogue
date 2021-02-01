@@ -1,4 +1,4 @@
-# From Dusk Till Dawn 3: The Hangman's Daughter
+# From Dusk Till Dawn 3 The Hangman's Daughter
 
 * Author: mobe1969
 * Production Year: 1999

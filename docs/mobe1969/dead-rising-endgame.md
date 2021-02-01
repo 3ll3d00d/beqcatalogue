@@ -1,4 +1,4 @@
-# Dead Rising: Endgame
+# Dead Rising Endgame
 
 * Author: mobe1969
 * Production Year: 2016

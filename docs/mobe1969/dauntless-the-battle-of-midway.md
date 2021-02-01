@@ -1,4 +1,4 @@
-# Dauntless: The Battle of Midway
+# Dauntless The Battle of Midway
 
 * Author: mobe1969
 * Production Year: 2019

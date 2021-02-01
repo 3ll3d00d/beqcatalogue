@@ -1,4 +1,4 @@
-# Monsters: Dark Continent
+# Monsters Dark Continent
 
 * Author: mobe1969
 * Production Year: 2014

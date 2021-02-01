@@ -1,4 +1,4 @@
-# Resident Evil: Degeneration
+# Resident Evil Degeneration
 
 * Author: mobe1969
 * Production Year: 2008

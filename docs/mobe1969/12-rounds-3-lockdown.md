@@ -1,4 +1,4 @@
-# 12 Rounds 3: Lockdown
+# 12 Rounds 3 Lockdown
 
 * Author: mobe1969
 * Production Year: 2015

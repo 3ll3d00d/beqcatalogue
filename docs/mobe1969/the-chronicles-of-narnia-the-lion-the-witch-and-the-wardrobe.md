@@ -1,4 +1,4 @@
-# The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+# The Chronicles of Narnia The Lion, The Witch and the Wardrobe
 
 * Author: mobe1969
 * Production Year: 2008

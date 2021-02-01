@@ -1,4 +1,4 @@
-# Starship Troopers 3: Marauder
+# Starship Troopers 3 Marauder
 
 * Author: mobe1969
 * Production Year: 2008

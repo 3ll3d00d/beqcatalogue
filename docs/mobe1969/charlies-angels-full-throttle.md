@@ -1,4 +1,4 @@
-# Charlie's Angels: Full Throttle
+# Charlie's Angels Full Throttle
 
 * Author: mobe1969
 * Production Year: 2003

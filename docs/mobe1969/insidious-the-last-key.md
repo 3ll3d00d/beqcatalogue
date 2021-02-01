@@ -1,4 +1,4 @@
-# Insidious: The Last Key
+# Insidious The Last Key
 
 * Author: mobe1969
 * Production Year: 2018

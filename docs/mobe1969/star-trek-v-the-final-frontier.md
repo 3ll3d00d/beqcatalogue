@@ -1,4 +1,4 @@
-# Star Trek V: The Final Frontier
+# Star Trek V The Final Frontier
 
 * Author: mobe1969
 * Production Year: 1989

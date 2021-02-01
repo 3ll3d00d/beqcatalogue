@@ -1,4 +1,4 @@
-# Cirque du Freak: The Vampire's Assistant
+# Cirque Du Freak The Vampire's Assistant
 
 * Author: mobe1969
 * Production Year: 2009

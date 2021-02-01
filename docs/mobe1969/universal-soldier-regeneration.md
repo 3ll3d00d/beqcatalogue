@@ -1,4 +1,4 @@
-# Universal Soldier: Regeneration
+# Universal Soldier Regeneration
 
 * Author: mobe1969
 * Production Year: 2009

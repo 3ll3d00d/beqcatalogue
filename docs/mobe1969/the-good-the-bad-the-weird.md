@@ -1,4 +1,4 @@
-# The Good, The Bad, The Weird
+# The Good the Bad the Weird
 
 * Author: mobe1969
 * Production Year: 2008

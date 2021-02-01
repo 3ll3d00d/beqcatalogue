@@ -1,4 +1,4 @@
-# Sniper: Assassin's End
+# Sniper Assassin's End
 
 * Author: mobe1969
 * Production Year: 2020

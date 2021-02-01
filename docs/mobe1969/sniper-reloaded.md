@@ -1,4 +1,4 @@
-# Sniper: Reloaded
+# Sniper Reloaded
 
 * Author: mobe1969
 * Production Year: 2011

@@ -1,4 +1,4 @@
-# DOA: Dead or Alive
+# DOA Dead or Alive
 
 * Author: mobe1969
 * Production Year: 2006

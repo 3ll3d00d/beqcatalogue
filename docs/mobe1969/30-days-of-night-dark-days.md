@@ -1,4 +1,4 @@
-# 30 Days of Night: Dark Days
+# 30 Days of Night Dark Days
 
 * Author: mobe1969
 * Production Year: 2010

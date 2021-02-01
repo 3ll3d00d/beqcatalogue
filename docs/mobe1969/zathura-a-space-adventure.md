@@ -1,4 +1,4 @@
-# Zathura: A Space Adventure
+# Zathura A Space Adventure
 
 * Author: mobe1969
 * Production Year: 2005

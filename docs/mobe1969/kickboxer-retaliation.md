@@ -1,4 +1,4 @@
-# Kickboxer: Retaliation
+# Kickboxer Retaliation
 
 * Author: mobe1969
 * Production Year: 2018

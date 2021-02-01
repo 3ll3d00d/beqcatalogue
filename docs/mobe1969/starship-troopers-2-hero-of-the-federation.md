@@ -1,4 +1,4 @@
-# Starship Troopers 2: Hero of the Federation
+# Starship Troopers 2 Hero of the Federation
 
 * Author: mobe1969
 * Production Year: 2004

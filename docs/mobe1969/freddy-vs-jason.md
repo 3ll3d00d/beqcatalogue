@@ -1,4 +1,4 @@
-# Freddy vs. Jason
+# Freddy vs Jason
 
 * Author: mobe1969
 * Production Year: 2003

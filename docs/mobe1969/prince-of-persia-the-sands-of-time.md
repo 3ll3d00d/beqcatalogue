@@ -1,4 +1,4 @@
-# Prince of Persia: The Sands of Time
+# Prince of Persia The Sands of Time
 
 * Author: mobe1969
 * Production Year: 2010

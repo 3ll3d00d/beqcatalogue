@@ -1,4 +1,4 @@
-# Blood: The Last Vampire
+# Blood The Last Vampire
 
 * Author: mobe1969
 * Production Year: 2009

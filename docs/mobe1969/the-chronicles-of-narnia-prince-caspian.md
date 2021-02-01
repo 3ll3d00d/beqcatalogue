@@ -1,4 +1,4 @@
-# The Chronicles of Narnia: Prince Caspian
+# The Chronicles of Narnia Prince Caspian
 
 * Author: mobe1969
 * Production Year: 2008

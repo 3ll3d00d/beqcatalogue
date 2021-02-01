@@ -1,4 +1,4 @@
-# Garm Wars: The Last Druid
+# Garm Wars The Last Druid
 
 * Author: mobe1969
 * Production Year: 2014

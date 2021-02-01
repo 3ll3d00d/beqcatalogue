@@ -1,4 +1,4 @@
-# The Marine 6: Close Quarters
+# The Marine 6 Close Quarters
 
 * Author: mobe1969
 * Production Year: 2018

@@ -1,4 +1,4 @@
-# Team America: World Police
+# Team America World Police
 
 * Author: mobe1969
 * Production Year: 2004

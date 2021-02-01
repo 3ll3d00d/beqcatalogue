@@ -1,4 +1,4 @@
-# Seal Team Six: The Raid on Osama Bin Laden
+# Seal Team Six The Raid on Osama Bin Laden
 
 * Author: mobe1969
 * Production Year: 2012

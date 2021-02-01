@@ -1,4 +1,4 @@
-# Ghost Rider: Spirit of Vengeance
+# Ghost Rider Spirit of Vengeance
 
 * Author: mobe1969
 * Production Year: 2011

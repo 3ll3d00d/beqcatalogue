@@ -1,4 +1,4 @@
-# Tremors 2: Aftershocks
+# Tremors 2 Aftershocks
 
 * Author: mobe1969
 * Production Year: 1996

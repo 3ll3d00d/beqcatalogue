@@ -1,4 +1,4 @@
-# Star Trek: The Motion Picture
+# Star Trek The Motion Picture
 
 * Author: mobe1969
 * Production Year: 1979

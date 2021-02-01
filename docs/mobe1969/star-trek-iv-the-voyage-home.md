@@ -1,4 +1,4 @@
-# Star Trek IV: The Voyage Home
+# Star Trek IV The Voyage Home
 
 * Author: mobe1969
 * Production Year: 1986

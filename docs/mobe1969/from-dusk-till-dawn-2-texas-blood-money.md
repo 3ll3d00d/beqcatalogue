@@ -1,4 +1,4 @@
-# From Dusk Till Dawn 2: Texas Blood Money
+# From Dusk Till Dawn 2 Texas Blood Money
 
 * Author: mobe1969
 * Production Year: 1999

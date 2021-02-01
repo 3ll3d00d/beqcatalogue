@@ -1,4 +1,4 @@
-# Star Trek VI: The Undiscovered Country
+# Star Trek VI The Undiscovered Country
 
 * Author: mobe1969
 * Production Year: 1991

@@ -1,4 +1,4 @@
-# Final Fantasy: The Spirits Within
+# Final Fantasy The Spirits Within
 
 * Author: mobe1969
 * Production Year: 2001

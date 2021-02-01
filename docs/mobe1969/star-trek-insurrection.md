@@ -1,4 +1,4 @@
-# Star Trek: Insurrection
+# Star Trek Insurrection
 
 * Author: mobe1969
 * Production Year: 1998

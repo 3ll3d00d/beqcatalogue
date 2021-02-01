@@ -1,4 +1,4 @@
-# Insidious: Chapter 2
+# Insidious Chapter 2
 
 * Author: mobe1969
 * Production Year: 2013

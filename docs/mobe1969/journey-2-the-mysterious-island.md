@@ -1,4 +1,4 @@
-# Journey 2: The Mysterious Island
+# Journey 2 The Mysterious Island
 
 * Author: mobe1969
 * Production Year: 2012

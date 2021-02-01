@@ -1,4 +1,4 @@
-# Jarhead 3: The Siege
+# Jarhead 3 The Siege
 
 * Author: mobe1969
 * Production Year: 2016

@@ -1,4 +1,4 @@
-# Jack Ryan: Shadow Recruit
+# Jack Ryan Shadow Recruit
 
 * Author: mobe1969
 * Production Year: 2014

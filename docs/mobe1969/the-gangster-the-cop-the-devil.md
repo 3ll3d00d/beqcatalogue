@@ -1,4 +1,4 @@
-# The Gangster, the Cop, the Devil
+# The Gangster the Cop the Devil
 
 * Author: mobe1969
 * Production Year: 2019

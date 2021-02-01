@@ -1,4 +1,4 @@
-# Tales from the Crypt: Demon Knight
+# Tales from the Crypt Demon Knight
 
 * Author: mobe1969
 * Production Year: 1995

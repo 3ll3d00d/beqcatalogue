@@ -1,4 +1,4 @@
-# Ninja: Shadow of a Tear
+# Ninja Shadow of a Tear
 
 * Author: mobe1969
 * Production Year: 2013

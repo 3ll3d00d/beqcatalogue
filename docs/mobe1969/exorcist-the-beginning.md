@@ -1,4 +1,4 @@
-# Exorcist: The Beginning
+# Exorcist The Beginning
 
 * Author: mobe1969
 * Production Year: 2004

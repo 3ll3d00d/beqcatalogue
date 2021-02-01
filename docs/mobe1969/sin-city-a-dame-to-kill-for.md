@@ -1,4 +1,4 @@
-# Sin City: A Dame to Kill For
+# Sin City A Dame to Kill For
 
 * Author: mobe1969
 * Production Year: 2014

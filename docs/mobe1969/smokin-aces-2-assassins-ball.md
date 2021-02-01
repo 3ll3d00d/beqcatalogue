@@ -1,4 +1,4 @@
-# Smokin' Aces 2: Assassins' Ball
+# Smokin' Aces 2 Assassins' Ball
 
 * Author: mobe1969
 * Production Year: 2010

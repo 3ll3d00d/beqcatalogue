@@ -1,4 +1,4 @@
-# The Texas Chainsaw Massacre: The Beginning
+# The Texas Chainsaw Massacre The Beginning
 
 * Author: mobe1969
 * Production Year: 2006

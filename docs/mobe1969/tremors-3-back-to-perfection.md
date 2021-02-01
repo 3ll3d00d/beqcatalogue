@@ -1,4 +1,4 @@
-# Tremors 3: Back to Perfection
+# Tremors 3 Back to Perfection
 
 * Author: mobe1969
 * Production Year: 2001

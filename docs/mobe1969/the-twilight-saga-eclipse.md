@@ -1,4 +1,4 @@
-# The Twilight Saga: Eclipse
+# The Twilight Saga Eclipse
 
 * Author: mobe1969
 * Production Year: 2010

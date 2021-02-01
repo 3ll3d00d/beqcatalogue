@@ -1,4 +1,4 @@
-# Snow White: A Tale of Terror
+# Snow White A Tale of Terror
 
 * Author: mobe1969
 * Production Year: 1997

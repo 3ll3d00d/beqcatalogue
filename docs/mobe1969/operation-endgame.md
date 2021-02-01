@@ -1,4 +1,4 @@
-# Operation: Endgame
+# Operation Endgame
 
 * Author: mobe1969
 * Production Year: 2010

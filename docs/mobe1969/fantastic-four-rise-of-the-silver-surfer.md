@@ -1,4 +1,4 @@
-# Fantastic Four: Rise of the Silver Surfer
+# Fantastic Four Rise of the Silver Surfer
 
 * Author: mobe1969
 * Production Year: 2007

@@ -1,4 +1,4 @@
-# Star Trek II: The Wrath of Khan
+# Star Trek II The Wrath of Khan
 
 * Author: mobe1969
 * Production Year: 1982

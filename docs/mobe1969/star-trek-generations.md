@@ -1,4 +1,4 @@
-# Star Trek: Generations
+# Star Trek Generations
 
 * Author: mobe1969
 * Production Year: 1994

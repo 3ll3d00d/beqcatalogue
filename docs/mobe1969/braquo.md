@@ -4,7 +4,7 @@
 
 ## Season 4 Episode 1
 
-* DTS-HD MA 5.1
+* DTS-HD MA 5.1 Fr
 
 * Production Year: 2009
 
@@ -12,7 +12,7 @@
 
 ## Season 4 Episode 2
 
-* DTS-HD MA 5.1
+* DTS-HD MA 5.1 Fr
 
 * Production Year: 2009
 
@@ -20,7 +20,7 @@
 
 ## Season 4 Episode 3
 
-* DTS-HD MA 5.1
+* DTS-HD MA 5.1 Fr
 
 * Production Year: 2009
 
@@ -28,7 +28,7 @@
 
 ## Season 4 Episode 4
 
-* DTS-HD MA 5.1
+* DTS-HD MA 5.1 Fr
 
 * Production Year: 2009
 
@@ -36,7 +36,7 @@
 
 ## Season 4 Episode 5
 
-* DTS-HD MA 5.1
+* DTS-HD MA 5.1 Fr
 
 * Production Year: 2009
 
@@ -44,7 +44,7 @@
 
 ## Season 4 Episode 6
 
-* DTS-HD MA 5.1
+* DTS-HD MA 5.1 Fr
 
 * Production Year: 2009
 
@@ -52,7 +52,7 @@
 
 ## Season 4 Episode 7
 
-* DTS-HD MA 5.1
+* DTS-HD MA 5.1 Fr
 
 * Production Year: 2009
 
@@ -60,7 +60,7 @@
 
 ## Season 4 Episode 8
 
-* DTS-HD MA 5.1
+* DTS-HD MA 5.1 Fr
 
 * Production Year: 2009
 

@@ -1,4 +1,4 @@
-# Urban Legends: Bloody Mary
+# Urban Legends Bloody Mary
 
 * Author: mobe1969
 * Production Year: 2005
