@@ -233898,6 +233898,82 @@
 "avs": ""
 },
 {
+"title": "Evangelion 2.22 You Can Not Advance",
+"year": "2009",
+"audioTypes": [
+"TrueHD 6.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/evangelion-222-you-can-not-advance/#truehd-61",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": 12.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002281521380436",
+"-1.9998460932702273",
+"0.9996187806696307"
+],
+"a": [
+"1.9998460932702273",
+"-0.9998469328076743"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 7.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000236132072725",
+"-1.999048034745112",
+"0.9988135426983658"
+],
+"a": [
+"1.9990484884717536",
+"-0.9990492210444493"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": 5.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000140035229471",
+"-1.999638068573837",
+"0.9995001062732739"
+],
+"a": [
+"1.999638068573837",
+"-0.9996401415027445"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Evangelion%202.22%20You%20Can%20Not%20Advance%20%282009%29%28Ja%29%20TrueHD%206.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Dukes of Hazzard",
 "year": "2005",
 "audioTypes": [
@@ -255880,82 +255956,6 @@
 "avs": ""
 },
 {
-"title": "Evangelion 3.33 You Can",
-"year": "Not)",
-"audioTypes": [
-"TrueHD 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/evangelion-333-you-can/#truehd-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 10.0,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.000212285175202",
-"-1.9994543090245984",
-"0.9992427854001865"
-],
-"a": [
-"1.9994545693882408",
-"-0.9994548102117461"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 19.0,
-"gain": 13.0,
-"q": 7.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001456965018503",
-"-1.9999144020853667",
-"0.9997702519276985"
-],
-"a": [
-"1.9999144020853667",
-"-0.9999159484295487"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 22.0,
-"gain": 10.0,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001750682794106",
-"-1.9998359973573772",
-"0.9996630022120575"
-],
-"a": [
-"1.9998359973573772",
-"-0.999838070491468"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Evangelion%203.33%20You%20Can%20%28Not%29%20Redo%20%282012%29%28Ja%29%20TrueHD%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Back to the Future",
 "year": "1985",
 "audioTypes": [
@@ -261308,6 +261308,82 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Case%2039%20%282009%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Evangelion 1.11 You Are Not Alone",
+"year": "2007",
+"audioTypes": [
+"TrueHD 6.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/evangelion-111-you-are-not-alone/#truehd-61",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 8.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001872816204491",
+"-1.9997508666392616",
+"0.999564972759846"
+],
+"a": [
+"1.9997508666392616",
+"-0.999752254380295"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 16.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0006248249459413",
+"-1.9991724011423915",
+"0.9985510610378042"
+],
+"a": [
+"1.9991738674080015",
+"-0.9991744197181357"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": 7.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002076757505587",
+"-1.9996624276091497",
+"0.9994570175462734"
+],
+"a": [
+"1.9996624276091497",
+"-0.9996646932968323"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Evangelion%201.11%20You%20Are%20Not%20Alone%20%282007%29%28Ja%29%20TrueHD%206.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -270378,82 +270454,6 @@
 "avs": ""
 },
 {
-"title": "Evangelion 2.22 You Can",
-"year": "Not)",
-"audioTypes": [
-"TrueHD 6.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/evangelion-222-you-can/#truehd-61",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 14.0,
-"gain": 12.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002281521380436",
-"-1.9998460932702273",
-"0.9996187806696307"
-],
-"a": [
-"1.9998460932702273",
-"-0.9998469328076743"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 16.0,
-"gain": 7.0,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.000236132072725",
-"-1.999048034745112",
-"0.9988135426983658"
-],
-"a": [
-"1.9990484884717536",
-"-0.9990492210444493"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 22.0,
-"gain": 5.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000140035229471",
-"-1.999638068573837",
-"0.9995001062732739"
-],
-"a": [
-"1.999638068573837",
-"-0.9996401415027445"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Evangelion%202.22%20You%20Can%20%28Not%29%20Advance%20%282009%29%28Ja%29%20TrueHD%206.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "24 Hours to Live",
 "year": "2017",
 "audioTypes": [
@@ -277482,82 +277482,6 @@
 "avs": ""
 },
 {
-"title": "Evangelion 1.11 You Are",
-"year": "Not)",
-"audioTypes": [
-"TrueHD 6.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/evangelion-111-you-are/#truehd-61",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 18.0,
-"gain": 8.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001872816204491",
-"-1.9997508666392616",
-"0.999564972759846"
-],
-"a": [
-"1.9997508666392616",
-"-0.999752254380295"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 16.0,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0006248249459413",
-"-1.9991724011423915",
-"0.9985510610378042"
-],
-"a": [
-"1.9991738674080015",
-"-0.9991744197181357"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 23.0,
-"gain": 7.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002076757505587",
-"-1.9996624276091497",
-"0.9994570175462734"
-],
-"a": [
-"1.9996624276091497",
-"-0.9996646932968323"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Evangelion%201.11%20You%20Are%20%28Not%29%20Alone%20%282007%29%28Ja%29%20TrueHD%206.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Blood Father",
 "year": "2016",
 "audioTypes": [
@@ -278552,6 +278476,82 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Spy%20Kids%20%282001%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Evangelion 3.33 You Can Not Redo",
+"year": "Not)",
+"audioTypes": [
+"TrueHD 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/evangelion-333-you-can-not-redo/#truehd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000212285175202",
+"-1.9994543090245984",
+"0.9992427854001865"
+],
+"a": [
+"1.9994545693882408",
+"-0.9994548102117461"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 19.0,
+"gain": 13.0,
+"q": 7.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001456965018503",
+"-1.9999144020853667",
+"0.9997702519276985"
+],
+"a": [
+"1.9999144020853667",
+"-0.9999159484295487"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": 10.0,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001750682794106",
+"-1.9998359973573772",
+"0.9996630022120575"
+],
+"a": [
+"1.9998359973573772",
+"-0.999838070491468"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Evangelion%203.33%20You%20Can%20Not%20Redo%20%282012%29%28Ja%29%20TrueHD%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
