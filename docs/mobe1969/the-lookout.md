@@ -2,11 +2,11 @@
 
 * Author: mobe1969
 
-## DTS-HD MA 5.1 Fr
+## DTS-HD MA 5.1
 
 * Production Year: 2012
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lookout%20%282012%29%20DTS-HD%20MA%205.1%20Fr.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lookout%20%282012%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
 
 ## LPCM 5.1
 
