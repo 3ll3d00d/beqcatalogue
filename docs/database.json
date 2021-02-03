@@ -175902,6 +175902,162 @@
 "Atmos"
 ],
 "author": "aron7awol",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/game-of-thrones/#season-2",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 5.6,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002119618401577",
+"-1.9988853298835705",
+"0.9986748809613248"
+],
+"a": [
+"1.9988856893472229",
+"-0.9988864833378298"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 5.6,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002119618401577",
+"-1.9988853298835705",
+"0.9986748809613248"
+],
+"a": [
+"1.9988856893472229",
+"-0.9988864833378298"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 45.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000169294637828",
+"-1.9970672861298076",
+"0.9970590184344744"
+],
+"a": [
+"1.9970672861298076",
+"-0.9970759478982572"
+]
+}
+}
+}
+],
+"images": [
+"https://i.imgur.com/U1M1KXf.jpg"
+],
+"content_type": "TV",
+"season": "2",
+"episode": "",
+"mv": "+1.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60468735"
+},
+{
+"title": "Game of Thrones",
+"year": "2011",
+"audioTypes": [
+"Atmos"
+],
+"author": "aron7awol",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/game-of-thrones/#season-3",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 3.6,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001510534042468",
+"-1.9986878281192666",
+"0.9985388813659857"
+],
+"a": [
+"1.9986881855195042",
+"-0.998689577369995"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 3.6,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001510534042468",
+"-1.9986878281192666",
+"0.9985388813659857"
+],
+"a": [
+"1.9986881855195042",
+"-0.998689577369995"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 45.0,
+"gain": 0.3,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000507914853605",
+"-1.9971007089558452",
+"0.9970585793838974"
+],
+"a": [
+"1.9971007089558452",
+"-0.9971093708692579"
+]
+}
+}
+}
+],
+"images": [
+"https://i.imgur.com/Kt3iaEq.jpg"
+],
+"content_type": "TV",
+"season": "3",
+"episode": "",
+"mv": "+2.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60470204"
+},
+{
+"title": "Game of Thrones",
+"year": "2011",
+"audioTypes": [
+"Atmos"
+],
+"author": "aron7awol",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/game-of-thrones/#season-7",
 "filters": [
 {
@@ -205611,14 +205767,14 @@
 "avs": ""
 },
 {
-"title": "Non:Stop",
+"title": "Non-Stop",
 "year": "2014",
 "audioTypes": [
 "DTS-HD MA 5.1"
 ],
 "content_type": "film",
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/nonstop/#dts-hd-ma-51",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/non-stop/#dts-hd-ma-51",
 "filters": [
 {
 "type": "LowShelf",
