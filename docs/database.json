@@ -189032,6 +189032,143 @@
 "avs": ""
 },
 {
+"title": "The Next Generation Patlabor Tokyo War",
+"year": "2015",
+"audioTypes": [
+"TrueHD Atmos"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-next-generation-patlabor-tokyo-war/#truehd-atmos",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 13.0,
+"gain": 5.0,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"1.0001034400004052",
+"-1.9997334590217468",
+"0.9996307428674165"
+],
+"a": [
+"1.9997334590217468",
+"-0.9997341828678216"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 6.2,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000190848598138",
+"-1.9991098877853184",
+"0.9989200731640214"
+],
+"a": [
+"1.9991101515637608",
+"-0.9991106579837172"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 6.2,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000190848598138",
+"-1.9991098877853184",
+"0.9989200731640214"
+],
+"a": [
+"1.9991101515637608",
+"-0.9991106579837172"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 6.2,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000190848598138",
+"-1.9991098877853184",
+"0.9989200731640214"
+],
+"a": [
+"1.9991101515637608",
+"-0.9991106579837172"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 6.2,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000190848598138",
+"-1.9991098877853184",
+"0.9989200731640214"
+],
+"a": [
+"1.9991101515637608",
+"-0.9991106579837172"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 6.2,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000190848598138",
+"-1.9991098877853184",
+"0.9989200731640214"
+],
+"a": [
+"1.9991101515637608",
+"-0.9991106579837172"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Next%20Generation%20Patlabor%20Tokyo%20War%20%282015%29%28Ja%29%20TrueHD%20Atmos.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Bushwick",
 "year": "2017",
 "audioTypes": [
@@ -191872,64 +192009,6 @@
 "avs": ""
 },
 {
-"title": "Code Name Geronimo The Hunt For Osama Bin Laden",
-"year": "2012",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/code-name-geronimo-the-hunt-for-osama-bin-laden/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 7.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001659829035023",
-"-1.9993309256840015",
-"0.9991655835060734"
-],
-"a": [
-"1.999331102945988",
-"-0.9993313891475891"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 22.0,
-"gain": 7.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0003652497972966",
-"-1.9985274039196628",
-"0.9981652539905825"
-],
-"a": [
-"1.998528261523636",
-"-0.9985296461839062"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Code%20Name%20Geronimo%20The%20Hunt%20For%20Osama%20Bin%20Laden%20%282012%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Mimic 2",
 "year": "2001",
 "audioTypes": [
@@ -193857,6 +193936,140 @@
 "avs": ""
 },
 {
+"title": "Ghost in the Shell Solid State Society",
+"year": "2007",
+"audioTypes": [
+"TrueHD 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/ghost-in-the-shell-solid-state-society/#truehd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 12.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002882979021714",
+"-1.99942044635499",
+"0.9991330029124076"
+],
+"a": [
+"1.999420766269512",
+"-0.9994209809000568"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": 10.0,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000111410389918",
+"-1.9998961113355407",
+"0.9997855405040671"
+],
+"a": [
+"1.9998961113355407",
+"-0.9998969508939851"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": 7.0,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001760773926442",
+"-1.99971281564981",
+"0.9995396336141963"
+],
+"a": [
+"1.99971281564981",
+"-0.9997157110068405"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20Solid%20State%20Society%20%282007%29%28Ja%29%20TrueHD%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Ghost in the Shell Solid State Society",
+"year": "2007",
+"audioTypes": [
+"TrueHD 7.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/ghost-in-the-shell-solid-state-society/#truehd-71",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001420147317706",
+"-1.9993114180609644",
+"0.9991700082072339"
+],
+"a": [
+"1.9993115689214085",
+"-0.9993118720785603"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 4.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003305808751821",
+"-1.9974458380721771",
+"0.9971218550019502"
+],
+"a": [
+"1.9974470555079076",
+"-0.9974512184414014"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20Solid%20State%20Society%20%282007%29%28Ja%29%20TrueHD%207.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "The Puppet Masters",
 "year": "1994",
 "audioTypes": [
@@ -194991,6 +195204,63 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z%20for%20Zachariah%20%282015%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Che Part One",
+"year": "2008",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/che-part-one/#dts-hd-ma-51",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": 6.0,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001440897684497",
+"-1.9997077717467155",
+"0.9995663588916014"
+],
+"a": [
+"1.9997077717467155",
+"-0.9997104486600512"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 8.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000513426050056",
+"-1.9982434642752787",
+"0.9977349831987147"
+],
+"a": [
+"1.9982449524473223",
+"-0.9982469210767276"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Che%20Part%20One%20%282008%29%28Es%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -197385,83 +197655,6 @@
 "avs": ""
 },
 {
-"title": "Wrong Turn",
-"year": "2002",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/wrong-turn/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 9.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0004288039233362",
-"-1.9987360087192452",
-"0.9983100795661423"
-],
-"a": [
-"1.9987369361008769",
-"-0.9987379561078468"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 9.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0004288039233362",
-"-1.9987360087192452",
-"0.9983100795661423"
-],
-"a": [
-"1.9987369361008769",
-"-0.9987379561078468"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 22.0,
-"gain": 5.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002100339485809",
-"-1.999458188069116",
-"0.9992502268629692"
-],
-"a": [
-"1.999458188069116",
-"-0.99946026081155"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wrong%20Turn%20%282002%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Cooties",
 "year": "2014",
 "audioTypes": [
@@ -197971,6 +198164,84 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Run%20All%20Night%20%282015%29%20DTS-HD%20MA%207.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Mulholland Drive",
+"year": "2001",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/mulholland-drive/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 8.7,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002691913914414",
+"-1.9991715613149867",
+"0.998903563978258"
+],
+"a": [
+"1.9991719390647622",
+"-0.9991723776199238"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 8.7,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002691913914414",
+"-1.9991715613149867",
+"0.998903563978258"
+],
+"a": [
+"1.9991719390647622",
+"-0.9991723776199238"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0013673023966536",
+"-1.9981872998478465",
+"0.9968331667111009"
+],
+"a": [
+"1.9981928408842813",
+"-0.9981949280713189"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mulholland%20Drive%20%282001%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -198937,141 +199208,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fire%20in%20the%20Sky%20%281993%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "The Goonies",
-"year": "1995",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-goonies/#dts-hd-ma-51",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 10.0,
-"gain": 7.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001354486469458",
-"-1.9997808805741653",
-"0.9996458602486107"
-],
-"a": [
-"1.9997808805741653",
-"-0.9997813088955564"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 18.0,
-"gain": 10.0,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0007160093128622",
-"-1.9993363393094306",
-"0.9986217174499379"
-],
-"a": [
-"1.9993363393094306",
-"-0.9993377267628001"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 5.0,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002101517577993",
-"-1.9987395150191736",
-"0.9985316467762073"
-],
-"a": [
-"1.9987400147192114",
-"-0.9987412988339686"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 5.0,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002101517577993",
-"-1.9987395150191736",
-"0.9985316467762073"
-],
-"a": [
-"1.9987400147192114",
-"-0.9987412988339686"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 5.0,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002101517577993",
-"-1.9987395150191736",
-"0.9985316467762073"
-],
-"a": [
-"1.9987400147192114",
-"-0.9987412988339686"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 20.0,
-"gain": 6.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002305236420164",
-"-1.9995350449455136",
-"0.9993062343793625"
-],
-"a": [
-"1.9995350449455136",
-"-0.9995367580213791"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Goonies%20%281995%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -200186,64 +200322,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Girls%20Trip%20%282017%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Ghost in the Shell Solid State Society 3D",
-"year": "2011",
-"audioTypes": [
-"TrueHD 7.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/ghost-in-the-shell-solid-state-society-3d/#truehd-71",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 6.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001420147317706",
-"-1.9993114180609644",
-"0.9991700082072339"
-],
-"a": [
-"1.9993115689214085",
-"-0.9993118720785603"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 35.0,
-"gain": 4.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0003305808751821",
-"-1.9974458380721771",
-"0.9971218550019502"
-],
-"a": [
-"1.9974470555079076",
-"-0.9974512184414014"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20Solid%20State%20Society%203D%20%282011%29%28Ja%29%20TrueHD%207.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -203270,6 +203348,143 @@
 "avs": ""
 },
 {
+"title": "The Grief Tourist",
+"year": "2013",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-grief-tourist/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 2.4,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001106650903864",
+"-1.9985059230039137",
+"0.9983976366070225"
+],
+"a": [
+"1.9985062101388893",
+"-0.9985080145624324"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 2.4,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001106650903864",
+"-1.9985059230039137",
+"0.9983976366070225"
+],
+"a": [
+"1.9985062101388893",
+"-0.9985080145624324"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 2.4,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001106650903864",
+"-1.9985059230039137",
+"0.9983976366070225"
+],
+"a": [
+"1.9985062101388893",
+"-0.9985080145624324"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 2.4,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001106650903864",
+"-1.9985059230039137",
+"0.9983976366070225"
+],
+"a": [
+"1.9985062101388893",
+"-0.9985080145624324"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 2.4,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001106650903864",
+"-1.9985059230039137",
+"0.9983976366070225"
+],
+"a": [
+"1.9985062101388893",
+"-0.9985080145624324"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": 7.0,
+"q": 1.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003421288393046",
+"-1.9994451428700843",
+"0.9991054807498884"
+],
+"a": [
+"1.9994451428700843",
+"-0.999447609589193"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Grief%20Tourist%20%282013%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Star Trek Generations",
 "year": "1994",
 "audioTypes": [
@@ -203647,6 +203862,44 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20Man%20Down%20%282013%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Friday Night Lights",
+"year": "2004",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/friday-night-lights/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 7.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000232394613952",
+"-1.999063161726264",
+"0.9988320227665295"
+],
+"a": [
+"1.9990635091133047",
+"-0.999064069993441"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Friday%20Night%20Lights%20%282004%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -208519,82 +208772,6 @@
 "avs": ""
 },
 {
-"title": "Ghost in the Shell Solid State Society",
-"year": "2006",
-"audioTypes": [
-"TrueHD 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/ghost-in-the-shell-solid-state-society/#truehd-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 12.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002882979021714",
-"-1.99942044635499",
-"0.9991330029124076"
-],
-"a": [
-"1.999420766269512",
-"-0.9994209809000568"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 14.0,
-"gain": 10.0,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000111410389918",
-"-1.9998961113355407",
-"0.9997855405040671"
-],
-"a": [
-"1.9998961113355407",
-"-0.9998969508939851"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 26.0,
-"gain": 7.0,
-"q": 4.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001760773926442",
-"-1.99971281564981",
-"0.9995396336141963"
-],
-"a": [
-"1.99971281564981",
-"-0.9997157110068405"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20Solid%20State%20Society%20%282006%29%28Ja%29%20TrueHD%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "A.I. Artificial Intelligence",
 "year": "2001",
 "audioTypes": [
@@ -211865,64 +212042,6 @@
 "avs": ""
 },
 {
-"title": "Tracers",
-"year": "2014",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/tracers/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 9.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000385906158579",
-"-1.998862511310034",
-"0.9984789338622776"
-],
-"a": [
-"1.9988632625365554",
-"-0.9988640887943349"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 9.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000385906158579",
-"-1.998862511310034",
-"0.9984789338622776"
-],
-"a": [
-"1.9988632625365554",
-"-0.9988640887943349"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tracers%20%282014%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "The Hitcher",
 "year": "2007",
 "audioTypes": [
@@ -214096,83 +214215,6 @@
 "avs": ""
 },
 {
-"title": "Journey to the Centre of the Earth",
-"year": "2008",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/journey-to-the-centre-of-the-earth/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 3.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0000707408662124",
-"-1.9992494022902672",
-"0.9991791703497003"
-],
-"a": [
-"1.9992494766072075",
-"-0.9992498368989726"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 16.0,
-"gain": 8.3,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0003158026293777",
-"-1.9989684738021458",
-"0.9986544385670946"
-],
-"a": [
-"1.9989690176366424",
-"-0.9989696973619756"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 18.0,
-"gain": 4.2,
-"q": 2.7,
-"biquads": {
-"96000": {
-"b": [
-"1.0001065051618943",
-"-1.9996560474087361",
-"0.9995509299220752"
-],
-"a": [
-"1.9996560474087361",
-"-0.9996574350839695"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Journey%20to%20the%20Centre%20of%20the%20Earth%20%282008%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "When the Lights Went Out",
 "year": "2012",
 "audioTypes": [
@@ -215305,6 +215347,83 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20Vessel%20%282019%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "K:20 The Fiend with Twenty Faces",
+"year": "2008",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/k20-the-fiend-with-twenty-faces/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0005074962885725",
+"-1.9993281111117882",
+"0.998822432674292"
+],
+"a": [
+"1.9993288759823367",
+"-0.9993291640923162"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0005074962885725",
+"-1.9993281111117882",
+"0.998822432674292"
+],
+"a": [
+"1.9993288759823367",
+"-0.9993291640923162"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 15.0,
+"gain": 16.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000345843738925",
+"-1.999868764474237",
+"0.9995238845010097"
+],
+"a": [
+"1.999868764474237",
+"-0.9998697282399348"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K-20%20The%20Fiend%20with%20Twenty%20Faces%20%282008%29%20%282008%29%28Ja%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -216610,143 +216729,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Momentum%20%282015%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "The Next Generation Patlabor Shuto Kessen",
-"year": "2015",
-"audioTypes": [
-"TrueHD Atmos"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-next-generation-patlabor-shuto-kessen/#truehd-atmos",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 13.0,
-"gain": 5.0,
-"q": 2.4,
-"biquads": {
-"96000": {
-"b": [
-"1.0001034400004052",
-"-1.9997334590217468",
-"0.9996307428674165"
-],
-"a": [
-"1.9997334590217468",
-"-0.9997341828678216"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 6.2,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000190848598138",
-"-1.9991098877853184",
-"0.9989200731640214"
-],
-"a": [
-"1.9991101515637608",
-"-0.9991106579837172"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 6.2,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000190848598138",
-"-1.9991098877853184",
-"0.9989200731640214"
-],
-"a": [
-"1.9991101515637608",
-"-0.9991106579837172"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 6.2,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000190848598138",
-"-1.9991098877853184",
-"0.9989200731640214"
-],
-"a": [
-"1.9991101515637608",
-"-0.9991106579837172"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 6.2,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000190848598138",
-"-1.9991098877853184",
-"0.9989200731640214"
-],
-"a": [
-"1.9991101515637608",
-"-0.9991106579837172"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 6.2,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000190848598138",
-"-1.9991098877853184",
-"0.9989200731640214"
-],
-"a": [
-"1.9991101515637608",
-"-0.9991106579837172"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Next%20Generation%20Patlabor%20Shuto%20Kessen%20%282015%29%28Ja%29%20TrueHD%20Atmos.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -218408,44 +218390,6 @@
 "avs": ""
 },
 {
-"title": "The Blob",
-"year": "1998",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-blob/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0005074962885725",
-"-1.9993281111117882",
-"0.998822432674292"
-],
-"a": [
-"1.9993288759823367",
-"-0.9993291640923162"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Blob%20%281998%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "My Way",
 "year": "2011",
 "audioTypes": [
@@ -218516,6 +218460,64 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Seal%20Team%20Six%20The%20Raid%20on%20Osama%20Bin%20Laden%20%282012%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Seal Team Six The Raid on Osama Bin Laden",
+"year": "2012",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/seal-team-six-the-raid-on-osama-bin-laden/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001659829035023",
+"-1.9993309256840015",
+"0.9991655835060734"
+],
+"a": [
+"1.999331102945988",
+"-0.9993313891475891"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 7.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003652497972966",
+"-1.9985274039196628",
+"0.9981652539905825"
+],
+"a": [
+"1.998528261523636",
+"-0.9985296461839062"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Seal%20Team%20Six%20The%20Raid%20on%20Osama%20Bin%20Laden%20%282012%29%28Extended%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -221064,6 +221066,83 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Killing%20Them%20Softly%20%282012%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Journey to the Center of the Earth",
+"year": "2008",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/journey-to-the-center-of-the-earth/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000707408662124",
+"-1.9992494022902672",
+"0.9991791703497003"
+],
+"a": [
+"1.9992494766072075",
+"-0.9992498368989726"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 8.3,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003158026293777",
+"-1.9989684738021458",
+"0.9986544385670946"
+],
+"a": [
+"1.9989690176366424",
+"-0.9989696973619756"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 4.2,
+"q": 2.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0001065051618943",
+"-1.9996560474087361",
+"0.9995509299220752"
+],
+"a": [
+"1.9996560474087361",
+"-0.9996574350839695"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Journey%20to%20the%20Center%20of%20the%20Earth%20%282008%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -229206,6 +229285,83 @@
 "avs": ""
 },
 {
+"title": "Wrong Turn",
+"year": "2003",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/wrong-turn/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0004288039233362",
+"-1.9987360087192452",
+"0.9983100795661423"
+],
+"a": [
+"1.9987369361008769",
+"-0.9987379561078468"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0004288039233362",
+"-1.9987360087192452",
+"0.9983100795661423"
+],
+"a": [
+"1.9987369361008769",
+"-0.9987379561078468"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": 5.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002100339485809",
+"-1.999458188069116",
+"0.9992502268629692"
+],
+"a": [
+"1.999458188069116",
+"-0.99946026081155"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wrong%20Turn%20%282003%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Charlie's Angels",
 "year": "2000",
 "audioTypes": [
@@ -232670,6 +232826,121 @@
 "avs": ""
 },
 {
+"title": "WXIII Patlabor The Movie 3",
+"year": "2002",
+"audioTypes": [
+"TrueHD 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/wxiii-patlabor-the-movie-3/#truehd-51",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 10.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002387224707887",
+"-1.9997778057497955",
+"0.9995404710387351"
+],
+"a": [
+"1.9997778057497955",
+"-0.9997791935095237"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 11.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000527007935763",
+"-1.9988064442593496",
+"0.9982826619827915"
+],
+"a": [
+"1.9988076025318098",
+"-0.9988085116460945"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 11.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000527007935763",
+"-1.9988064442593496",
+"0.9982826619827915"
+],
+"a": [
+"1.9988076025318098",
+"-0.9988085116460945"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": 6.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001844274338973",
+"-1.9996269223520475",
+"0.9994449618615207"
+],
+"a": [
+"1.9996269223520475",
+"-0.9996293892954179"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": 8.0,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001664747596222",
+"-1.9997753927441286",
+"0.9996133039907489"
+],
+"a": [
+"1.9997753927441286",
+"-0.9997797787503709"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/WXIII%20Patlabor%20The%20Movie%203%20%282002%29%28Ja%29%20TrueHD%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Hamburger Hill",
 "year": "1987",
 "audioTypes": [
@@ -234995,6 +235266,44 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Boyka%20Undisputed%20%282016%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "The Preppie Connection",
+"year": "2016",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-preppie-connection/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000477706651817",
+"-1.9987717368408013",
+"0.9982970753546255"
+],
+"a": [
+"1.998772777940658",
+"-0.9987737409065859"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Preppie%20Connection%20%282016%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -238139,6 +238448,64 @@
 "avs": ""
 },
 {
+"title": "Tracers",
+"year": "2015",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/tracers/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 9.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000385906158579",
+"-1.998862511310034",
+"0.9984789338622776"
+],
+"a": [
+"1.9988632625365554",
+"-0.9988640887943349"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 9.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000385906158579",
+"-1.998862511310034",
+"0.9984789338622776"
+],
+"a": [
+"1.9988632625365554",
+"-0.9988640887943349"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tracers%20%282015%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Leatherface",
 "year": "2017",
 "audioTypes": [
@@ -239499,63 +239866,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Rundown%20%282003%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Che Part One The Argentine",
-"year": "2008",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/che-part-one-the-argentine/#dts-hd-ma-51",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 25.0,
-"gain": 6.0,
-"q": 4.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001440897684497",
-"-1.9997077717467155",
-"0.9995663588916014"
-],
-"a": [
-"1.9997077717467155",
-"-0.9997104486600512"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 8.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000513426050056",
-"-1.9982434642752787",
-"0.9977349831987147"
-],
-"a": [
-"1.9982449524473223",
-"-0.9982469210767276"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Che%20Part%20One%20The%20Argentine%20%282008%29%28Es%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -242733,6 +243043,102 @@
 "avs": ""
 },
 {
+"title": "Texas Killing Fields",
+"year": "2011",
+"audioTypes": [
+"TrueHD 7.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/texas-killing-fields/#truehd-71",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0005465520428287",
+"-1.9992763587942854",
+"0.9987319149740667"
+],
+"a": [
+"1.9992772458402073",
+"-0.9992775799709734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003267132299651",
+"-1.9984156129694481",
+"0.9980920981136762"
+],
+"a": [
+"1.9984164106643878",
+"-0.9984180136487021"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": 7.0,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001557633414806",
+"-1.999746243649166",
+"0.9995927460903343"
+],
+"a": [
+"1.999746243649166",
+"-0.999748509431815"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": 6.0,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001291063617894",
+"-1.9997372001520648",
+"0.9996114517607331"
+],
+"a": [
+"1.9997372001520648",
+"-0.9997405581225223"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Texas%20Killing%20Fields%20%282011%29%20TrueHD%207.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "You're Next",
 "year": "2011",
 "audioTypes": [
@@ -243655,44 +244061,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/School%20of%20Rock%20%282003%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Friday Night Lights",
-"year": "2009",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/friday-night-lights/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 14.0,
-"gain": 7.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000232394613952",
-"-1.999063161726264",
-"0.9988320227665295"
-],
-"a": [
-"1.9990635091133047",
-"-0.999064069993441"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Friday%20Night%20Lights%20%282009%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -245656,64 +246024,6 @@
 "avs": ""
 },
 {
-"title": "Dark Tide",
-"year": "2010",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/dark-tide/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 9.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002143536879469",
-"-1.9993682918427633",
-"0.9991546570741855"
-],
-"a": [
-"1.9993685237613388",
-"-0.9993687788435565"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 23.0,
-"gain": 2.3,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000124697753111",
-"-1.9982381154981679",
-"0.9981160023289325"
-],
-"a": [
-"1.9982384161350395",
-"-0.9982403994451718"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dark%20Tide%20%282010%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Miss Bala",
 "year": "2019",
 "audioTypes": [
@@ -246948,64 +247258,6 @@
 "avs": ""
 },
 {
-"title": "Broken Ciy",
-"year": "2015",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/broken-ciy/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 22.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0008590884235784",
-"-1.9988619878816858",
-"0.9980081044033052"
-],
-"a": [
-"1.9988641778901741",
-"-0.9988650028183956"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 22.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0008590884235784",
-"-1.9988619878816858",
-"0.9980081044033052"
-],
-"a": [
-"1.9988641778901741",
-"-0.9988650028183956"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Broken%20Ciy%20%282015%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Death Race 2",
 "year": "2010",
 "audioTypes": [
@@ -247038,6 +247290,100 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Death%20Race%202%20%282010%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Uncertainty",
+"year": "2009",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/uncertainty/#dts-hd-ma-51",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": 4.0,
+"q": 2.3,
+"biquads": {
+"96000": {
+"b": [
+"1.000066096468902",
+"-1.9997735595817159",
+"0.999707891432637"
+],
+"a": [
+"1.9997735595817159",
+"-0.9997739879015388"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": 8.0,
+"q": 2.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001357159701263",
+"-1.9998200397063153",
+"0.9996847520659673"
+],
+"a": [
+"1.9998200397063153",
+"-0.9998204680360936"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 5.0,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001227608949026",
+"-1.999683144895881",
+"0.9995617716950161"
+],
+"a": [
+"1.999683144895881",
+"-0.9996845325899185"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": 5.0,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001193513673368",
+"-1.9996906174052314",
+"0.9995739429282668"
+],
+"a": [
+"1.9996906174052314",
+"-0.9996932942956034"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Uncertainty%20%282009%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -258764,6 +259110,141 @@
 "avs": ""
 },
 {
+"title": "The Goonies",
+"year": "1985",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-goonies/#dts-hd-ma-51",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": 7.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001354486469458",
+"-1.9997808805741653",
+"0.9996458602486107"
+],
+"a": [
+"1.9997808805741653",
+"-0.9997813088955564"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 10.0,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0007160093128622",
+"-1.9993363393094306",
+"0.9986217174499379"
+],
+"a": [
+"1.9993363393094306",
+"-0.9993377267628001"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 5.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002101517577993",
+"-1.9987395150191736",
+"0.9985316467762073"
+],
+"a": [
+"1.9987400147192114",
+"-0.9987412988339686"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 5.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002101517577993",
+"-1.9987395150191736",
+"0.9985316467762073"
+],
+"a": [
+"1.9987400147192114",
+"-0.9987412988339686"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 5.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002101517577993",
+"-1.9987395150191736",
+"0.9985316467762073"
+],
+"a": [
+"1.9987400147192114",
+"-0.9987412988339686"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 6.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002305236420164",
+"-1.9995350449455136",
+"0.9993062343793625"
+],
+"a": [
+"1.9995350449455136",
+"-0.9995367580213791"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Goonies%20%281985%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "The Banana Splits Movie",
 "year": "2019",
 "audioTypes": [
@@ -259081,6 +259562,63 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Danger%20Close%20The%20Battle%20of%20Long%20Tan%20%282019%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Che Part Two",
+"year": "2008",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/che-part-two/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 11.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0008203911818023",
+"-1.998140857940595",
+"0.9973303420728724"
+],
+"a": [
+"1.9981444039768026",
+"-0.9981471872184668"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 42.0,
+"gain": 6.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0004839758681698",
+"-1.9990198878468888",
+"0.998543464715301"
+],
+"a": [
+"1.9990198878468888",
+"-0.9990274405834707"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Che%20Part%20Two%20%282008%29%28Es%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -264040,6 +264578,44 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Red%20Planet%20%282000%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "The Blob",
+"year": "1988",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-blob/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0005074962885725",
+"-1.9993281111117882",
+"0.998822432674292"
+],
+"a": [
+"1.9993288759823367",
+"-0.9993291640923162"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Blob%20%281988%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -269480,6 +270056,123 @@
 "avs": ""
 },
 {
+"title": "Hick",
+"year": "2011",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/hick/#dts-hd-ma-51",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": 4.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000506752957017",
+"-1.999826291157655",
+"0.9997760441930708"
+],
+"a": [
+"1.999826291157655",
+"-0.9998267194887724"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 2.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000942679514755",
+"-1.9984547530149634",
+"0.9983624061278658"
+],
+"a": [
+"1.9984549505693143",
+"-0.9984564765249899"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 2.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000942679514755",
+"-1.9984547530149634",
+"0.9983624061278658"
+],
+"a": [
+"1.9984549505693143",
+"-0.9984564765249899"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 2.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000942679514755",
+"-1.9984547530149634",
+"0.9983624061278658"
+],
+"a": [
+"1.9984549505693143",
+"-0.9984564765249899"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 2.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000942679514755",
+"-1.9984547530149634",
+"0.9983624061278658"
+],
+"a": [
+"1.9984549505693143",
+"-0.9984564765249899"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hick%20%282011%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "End of Days",
 "year": "1999",
 "audioTypes": [
@@ -273050,84 +273743,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tremors%203%20Back%20to%20Perfection%20%282001%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Mullholland Drive",
-"year": "2001",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/mullholland-drive/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 8.7,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002691913914414",
-"-1.9991715613149867",
-"0.998903563978258"
-],
-"a": [
-"1.9991719390647622",
-"-0.9991723776199238"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 8.7,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002691913914414",
-"-1.9991715613149867",
-"0.998903563978258"
-],
-"a": [
-"1.9991719390647622",
-"-0.9991723776199238"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 35.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0013673023966536",
-"-1.9981872998478465",
-"0.9968331667111009"
-],
-"a": [
-"1.9981928408842813",
-"-0.9981949280713189"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mullholland%20Drive%20%282001%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -276778,6 +277393,83 @@
 "avs": ""
 },
 {
+"title": "L'Assaut",
+"year": "2010",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/lassaut/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 11.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000395206238836",
+"-1.9991050875117606",
+"0.9987116959764561"
+],
+"a": [
+"1.9991057391370535",
+"-0.9991062505899994"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 11.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000395206238836",
+"-1.9991050875117606",
+"0.9987116959764561"
+],
+"a": [
+"1.9991057391370535",
+"-0.9991062505899994"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 16.0,
+"gain": 8.0,
+"q": 1.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0002937544138393",
+"-1.9996103103631941",
+"0.9993176523588958"
+],
+"a": [
+"1.9996103103631941",
+"-0.9996114067727351"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L%27Assaut%20%282010%29%28Fr%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "The Punisher",
 "year": "1989",
 "audioTypes": [
@@ -279319,143 +280011,6 @@
 "avs": ""
 },
 {
-"title": "Dark Tourist",
-"year": "2012",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/dark-tourist/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 22.0,
-"gain": 2.4,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0001106650903864",
-"-1.9985059230039137",
-"0.9983976366070225"
-],
-"a": [
-"1.9985062101388893",
-"-0.9985080145624324"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 22.0,
-"gain": 2.4,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0001106650903864",
-"-1.9985059230039137",
-"0.9983976366070225"
-],
-"a": [
-"1.9985062101388893",
-"-0.9985080145624324"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 22.0,
-"gain": 2.4,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0001106650903864",
-"-1.9985059230039137",
-"0.9983976366070225"
-],
-"a": [
-"1.9985062101388893",
-"-0.9985080145624324"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 22.0,
-"gain": 2.4,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0001106650903864",
-"-1.9985059230039137",
-"0.9983976366070225"
-],
-"a": [
-"1.9985062101388893",
-"-0.9985080145624324"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 22.0,
-"gain": 2.4,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0001106650903864",
-"-1.9985059230039137",
-"0.9983976366070225"
-],
-"a": [
-"1.9985062101388893",
-"-0.9985080145624324"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 24.0,
-"gain": 7.0,
-"q": 1.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0003421288393046",
-"-1.9994451428700843",
-"0.9991054807498884"
-],
-"a": [
-"1.9994451428700843",
-"-0.999447609589193"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dark%20Tourist%20%282012%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Traitor",
 "year": "2008",
 "audioTypes": [
@@ -281659,63 +282214,6 @@
 "avs": ""
 },
 {
-"title": "Che Part Two Guerrilla",
-"year": "2008",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/che-part-two-guerrilla/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 35.0,
-"gain": 11.0,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0008203911818023",
-"-1.998140857940595",
-"0.9973303420728724"
-],
-"a": [
-"1.9981444039768026",
-"-0.9981471872184668"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 42.0,
-"gain": 6.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0004839758681698",
-"-1.9990198878468888",
-"0.998543464715301"
-],
-"a": [
-"1.9990198878468888",
-"-0.9990274405834707"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Che%20Part%20Two%20Guerrilla%20%282008%29%28Es%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Perfect Sense",
 "year": "2011",
 "audioTypes": [
@@ -282693,121 +283191,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kickboxer%20Vengeance%20%282016%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Patlabor the Movie 3 WXIII",
-"year": "2002",
-"audioTypes": [
-"TrueHD 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/patlabor-the-movie-3-wxiii/#truehd-51",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 18.0,
-"gain": 10.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002387224707887",
-"-1.9997778057497955",
-"0.9995404710387351"
-],
-"a": [
-"1.9997778057497955",
-"-0.9997791935095237"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 11.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000527007935763",
-"-1.9988064442593496",
-"0.9982826619827915"
-],
-"a": [
-"1.9988076025318098",
-"-0.9988085116460945"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 11.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000527007935763",
-"-1.9988064442593496",
-"0.9982826619827915"
-],
-"a": [
-"1.9988076025318098",
-"-0.9988085116460945"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 24.0,
-"gain": 6.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001844274338973",
-"-1.9996269223520475",
-"0.9994449618615207"
-],
-"a": [
-"1.9996269223520475",
-"-0.9996293892954179"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 32.0,
-"gain": 8.0,
-"q": 6.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001664747596222",
-"-1.9997753927441286",
-"0.9996133039907489"
-],
-"a": [
-"1.9997753927441286",
-"-0.9997797787503709"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Patlabor%20the%20Movie%203%20WXIII%20%282002%29%28Ja%29%20TrueHD%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -285477,6 +285860,64 @@
 "avs": ""
 },
 {
+"title": "Dark Tide",
+"year": "2012",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/dark-tide/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 9.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002143536879469",
+"-1.9993682918427633",
+"0.9991546570741855"
+],
+"a": [
+"1.9993685237613388",
+"-0.9993687788435565"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 2.3,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000124697753111",
+"-1.9982381154981679",
+"0.9981160023289325"
+],
+"a": [
+"1.9982384161350395",
+"-0.9982403994451718"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dark%20Tide%20%282012%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Pineapple Express",
 "year": "2008",
 "audioTypes": [
@@ -286085,100 +286526,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Last%20Stand%20%282013%29%20DTS-HD%20MA%207.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Uncertainty",
-"year": "2008",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/uncertainty/#dts-hd-ma-51",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 10.0,
-"gain": 4.0,
-"q": 2.3,
-"biquads": {
-"96000": {
-"b": [
-"1.000066096468902",
-"-1.9997735595817159",
-"0.999707891432637"
-],
-"a": [
-"1.9997735595817159",
-"-0.9997739879015388"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 10.0,
-"gain": 8.0,
-"q": 2.3,
-"biquads": {
-"96000": {
-"b": [
-"1.0001357159701263",
-"-1.9998200397063153",
-"0.9996847520659673"
-],
-"a": [
-"1.9998200397063153",
-"-0.9998204680360936"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 18.0,
-"gain": 5.0,
-"q": 2.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001227608949026",
-"-1.999683144895881",
-"0.9995617716950161"
-],
-"a": [
-"1.999683144895881",
-"-0.9996845325899185"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 25.0,
-"gain": 5.0,
-"q": 4.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001193513673368",
-"-1.9996906174052314",
-"0.9995739429282668"
-],
-"a": [
-"1.9996906174052314",
-"-0.9996932942956034"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Uncertainty%20%282008%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -287397,44 +287744,6 @@
 "avs": ""
 },
 {
-"title": "The Cocaine Connection",
-"year": "2017",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-cocaine-connection/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 10.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000477706651817",
-"-1.9987717368408013",
-"0.9982970753546255"
-],
-"a": [
-"1.998772777940658",
-"-0.9987737409065859"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Cocaine%20Connection%20%282017%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "The Quick and the Dead",
 "year": "1995",
 "audioTypes": [
@@ -288524,83 +288833,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pound%20of%20Flesh%20%282015%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "K:20 The Legend of the Black Mask",
-"year": "2008",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/k20-the-legend-of-the-black-mask/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0005074962885725",
-"-1.9993281111117882",
-"0.998822432674292"
-],
-"a": [
-"1.9993288759823367",
-"-0.9993291640923162"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0005074962885725",
-"-1.9993281111117882",
-"0.998822432674292"
-],
-"a": [
-"1.9993288759823367",
-"-0.9993291640923162"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 15.0,
-"gain": 16.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000345843738925",
-"-1.999868764474237",
-"0.9995238845010097"
-],
-"a": [
-"1.999868764474237",
-"-0.9998697282399348"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K-20%20The%20Legend%20of%20the%20Black%20Mask%20%282008%29%28Ja%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -290183,83 +290415,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mama%20%282013%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "L'Assault",
-"year": "2010",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/lassault/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 11.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000395206238836",
-"-1.9991050875117606",
-"0.9987116959764561"
-],
-"a": [
-"1.9991057391370535",
-"-0.9991062505899994"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 11.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000395206238836",
-"-1.9991050875117606",
-"0.9987116959764561"
-],
-"a": [
-"1.9991057391370535",
-"-0.9991062505899994"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 16.0,
-"gain": 8.0,
-"q": 1.7,
-"biquads": {
-"96000": {
-"b": [
-"1.0002937544138393",
-"-1.9996103103631941",
-"0.9993176523588958"
-],
-"a": [
-"1.9996103103631941",
-"-0.9996114067727351"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L%27Assault%20%282010%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -295418,102 +295573,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sabotage%20%282014%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Texas Killing Fields",
-"year": "2008",
-"audioTypes": [
-"TrueHD 7.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/texas-killing-fields/#truehd-71",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 14.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0005465520428287",
-"-1.9992763587942854",
-"0.9987319149740667"
-],
-"a": [
-"1.9992772458402073",
-"-0.9992775799709734"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 23.0,
-"gain": 6.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0003267132299651",
-"-1.9984156129694481",
-"0.9980920981136762"
-],
-"a": [
-"1.9984164106643878",
-"-0.9984180136487021"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 23.0,
-"gain": 7.0,
-"q": 4.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001557633414806",
-"-1.999746243649166",
-"0.9995927460903343"
-],
-"a": [
-"1.999746243649166",
-"-0.999748509431815"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 28.0,
-"gain": 6.0,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001291063617894",
-"-1.9997372001520648",
-"0.9996114517607331"
-],
-"a": [
-"1.9997372001520648",
-"-0.9997405581225223"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Texas%20Killing%20Fields%20%282008%29%20TrueHD%207.1.jpg"
 ],
 "warning": "",
 "mv": "0",
