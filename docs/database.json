@@ -198170,6 +198170,104 @@
 "avs": ""
 },
 {
+"title": "Samurai Marathon",
+"year": "2019",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/samurai-marathon/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000047127475473",
+"-1.9992275091572376",
+"0.9991808621332909"
+],
+"a": [
+"1.9992275585648944",
+"-0.9992279402011073"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000047127475473",
+"-1.9992275091572376",
+"0.9991808621332909"
+],
+"a": [
+"1.9992275585648944",
+"-0.9992279402011073"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000047127475473",
+"-1.9992275091572376",
+"0.9991808621332909"
+],
+"a": [
+"1.9992275585648944",
+"-0.9992279402011073"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000047127475473",
+"-1.9992275091572376",
+"0.9991808621332909"
+],
+"a": [
+"1.9992275585648944",
+"-0.9992279402011073"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Samurai%20Marathon%20%282019%29%28Ja%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Mulholland Drive",
 "year": "2001",
 "audioTypes": [
@@ -203749,6 +203847,138 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Layer%20Cake%20%282004%29%20LPCM%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Sugar Mountain",
+"year": "2016",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/sugar-mountain/#dts-hd-ma-51",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": 4.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000760096508046",
+"-1.9997396621799088",
+"0.999664080841667"
+],
+"a": [
+"1.9997396621799088",
+"-0.9997400904924716"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 12.0,
+"gain": 4.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000912092074867",
+"-1.9996874999528547",
+"0.9995969074994188"
+],
+"a": [
+"1.9996874999528547",
+"-0.9996881167069054"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 15.0,
+"gain": 3.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000851752929667",
+"-1.9995861028371882",
+"0.9995018911737004"
+],
+"a": [
+"1.9995861028371882",
+"-0.9995870664666672"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 4.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000912091957672",
+"-1.9996867290504545",
+"0.9995969075512122"
+],
+"a": [
+"1.9996867290504545",
+"-0.9996881167469794"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 4.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000151999515998",
+"-1.9994785356129596",
+"0.9993282491244134"
+],
+"a": [
+"1.9994785356129596",
+"-0.9994802486404113"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": 4.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001165400182483",
+"-1.9995992342141409",
+"0.9994849598119748"
+],
+"a": [
+"1.9995992342141409",
+"-0.9996014998302233"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sugar%20Mountain%20%282016%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -212369,64 +212599,6 @@
 "avs": "mobe1969"
 },
 {
-"title": "One Missed Call 3 Final",
-"year": "2006",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/one-missed-call-3-final/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 6.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001420147317706",
-"-1.9993114180609644",
-"0.9991700082072339"
-],
-"a": [
-"1.9993115689214085",
-"-0.9993118720785603"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.00078093927355",
-"-1.9989656393277049",
-"0.9981890018835877"
-],
-"a": [
-"1.9989674493454122",
-"-0.9989681311394304"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/One%20Missed%20Call%203%20Final%20%282006%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Welcome to the Punch",
 "year": "2013",
 "audioTypes": [
@@ -216115,6 +216287,124 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fifty%20Dead%20Men%20Walking%20%282008%29%20TrueHD%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Boiling Point",
+"year": "1990",
+"audioTypes": [
+"LPCM 2.0"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/boiling-point/#lpcm-20",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 26.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003693486798015",
+"-1.998208784726644",
+"0.9978435227725385"
+],
+"a": [
+"1.998209803982119",
+"-0.9982118521968649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 26.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003693486798015",
+"-1.998208784726644",
+"0.9978435227725385"
+],
+"a": [
+"1.998209803982119",
+"-0.9982118521968649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 26.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003693486798015",
+"-1.998208784726644",
+"0.9978435227725385"
+],
+"a": [
+"1.998209803982119",
+"-0.9982118521968649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 26.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003693486798015",
+"-1.998208784726644",
+"0.9978435227725385"
+],
+"a": [
+"1.998209803982119",
+"-0.9982118521968649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 26.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003693486798015",
+"-1.998208784726644",
+"0.9978435227725385"
+],
+"a": [
+"1.998209803982119",
+"-0.9982118521968649"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Boiling%20Point%20%281990%29%28Ja%29%20LPCM%202.0.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -230453,6 +230743,64 @@
 "avs": ""
 },
 {
+"title": "First Love",
+"year": "2019",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/first-love/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001900892257025",
+"-1.9993498783967667",
+"0.9991604678684562"
+],
+"a": [
+"1.9993500826483133",
+"-0.9993503528426118"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 11.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000527007935763",
+"-1.9988064442593496",
+"0.9982826619827915"
+],
+"a": [
+"1.9988076025318098",
+"-0.9988085116460945"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/First%20Love%20%282019%29%28Ja%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "All the Devil's Men",
 "year": "2018",
 "audioTypes": [
@@ -234794,6 +235142,64 @@
 "avs": ""
 },
 {
+"title": "One Missed Call 3 Final",
+"year": "2006",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/one-missed-call-3-final/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001420147317706",
+"-1.9993114180609644",
+"0.9991700082072339"
+],
+"a": [
+"1.9993115689214085",
+"-0.9993118720785603"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.00078093927355",
+"-1.9989656393277049",
+"0.9981890018835877"
+],
+"a": [
+"1.9989674493454122",
+"-0.9989681311394304"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/One%20Missed%20Call%203%20Final%20%282006%29%28Ja%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "The Eye",
 "year": "2008",
 "audioTypes": [
@@ -237503,6 +237909,104 @@
 "avs": ""
 },
 {
+"title": "The Reunion",
+"year": "2011",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-reunion/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 4.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000169966249115",
+"-1.9986869616626173",
+"0.9985187415466412"
+],
+"a": [
+"1.9986872838614225",
+"-0.998688385596951"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 4.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000169966249115",
+"-1.9986869616626173",
+"0.9985187415466412"
+],
+"a": [
+"1.9986872838614225",
+"-0.998688385596951"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 4.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000169966249115",
+"-1.9986869616626173",
+"0.9985187415466412"
+],
+"a": [
+"1.9986872838614225",
+"-0.998688385596951"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 4.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000169966249115",
+"-1.9986869616626173",
+"0.9985187415466412"
+],
+"a": [
+"1.9986872838614225",
+"-0.998688385596951"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Reunion%20%282011%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "The Unborn",
 "year": "2009",
 "audioTypes": [
@@ -238037,124 +238541,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Solomon%20Kane%20%282009%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Boiling Point",
-"year": "1990",
-"audioTypes": [
-"LPCM 2.0"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/boiling-point/#lpcm-20",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 26.0,
-"gain": 6.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0003693486798015",
-"-1.998208784726644",
-"0.9978435227725385"
-],
-"a": [
-"1.998209803982119",
-"-0.9982118521968649"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 26.0,
-"gain": 6.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0003693486798015",
-"-1.998208784726644",
-"0.9978435227725385"
-],
-"a": [
-"1.998209803982119",
-"-0.9982118521968649"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 26.0,
-"gain": 6.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0003693486798015",
-"-1.998208784726644",
-"0.9978435227725385"
-],
-"a": [
-"1.998209803982119",
-"-0.9982118521968649"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 26.0,
-"gain": 6.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0003693486798015",
-"-1.998208784726644",
-"0.9978435227725385"
-],
-"a": [
-"1.998209803982119",
-"-0.9982118521968649"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 26.0,
-"gain": 6.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0003693486798015",
-"-1.998208784726644",
-"0.9978435227725385"
-],
-"a": [
-"1.998209803982119",
-"-0.9982118521968649"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Boiling%20Point%20%281990%29%20LPCM%202.0.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -246442,6 +246828,44 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Daylight%20%281996%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "One Missed Call",
+"year": "2003",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/one-missed-call/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 14.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000406533382008",
+"-1.9993432421226274",
+"0.9989380892435115"
+],
+"a": [
+"1.9993437946508035",
+"-0.9993440700973433"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/One%20Missed%20Call%20%282003%29%28Ja%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -254845,44 +255269,6 @@
 "avs": ""
 },
 {
-"title": "One Missed Call",
-"year": "2003",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/one-missed-call/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 12.0,
-"gain": 14.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000406533382008",
-"-1.9993432421226274",
-"0.9989380892435115"
-],
-"a": [
-"1.9993437946508035",
-"-0.9993440700973433"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/One%20Missed%20Call%20%282003%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Spoils of War",
 "year": "2009",
 "audioTypes": [
@@ -260376,144 +260762,6 @@
 "avs": ""
 },
 {
-"title": "ReBorn",
-"year": "2016",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/reborn/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 1.6,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001017976489899",
-"-1.9978895768743459",
-"0.9977911997039927"
-],
-"a": [
-"1.9978898645985594",
-"-0.997892709628769"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 1.6,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001017976489899",
-"-1.9978895768743459",
-"0.9977911997039927"
-],
-"a": [
-"1.9978898645985594",
-"-0.997892709628769"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 1.6,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001017976489899",
-"-1.9978895768743459",
-"0.9977911997039927"
-],
-"a": [
-"1.9978898645985594",
-"-0.997892709628769"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 1.6,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001017976489899",
-"-1.9978895768743459",
-"0.9977911997039927"
-],
-"a": [
-"1.9978898645985594",
-"-0.997892709628769"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 1.6,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001017976489899",
-"-1.9978895768743459",
-"0.9977911997039927"
-],
-"a": [
-"1.9978898645985594",
-"-0.997892709628769"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 1.6,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001017976489899",
-"-1.9978895768743459",
-"0.9977911997039927"
-],
-"a": [
-"1.9978898645985594",
-"-0.997892709628769"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/ReBorn%20%282016%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Zoolander",
 "year": "2001",
 "audioTypes": [
@@ -261603,104 +261851,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Faster%20%282010%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Samurai Marathon",
-"year": "2019",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/samurai-marathon/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 2.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000047127475473",
-"-1.9992275091572376",
-"0.9991808621332909"
-],
-"a": [
-"1.9992275585648944",
-"-0.9992279402011073"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 2.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000047127475473",
-"-1.9992275091572376",
-"0.9991808621332909"
-],
-"a": [
-"1.9992275585648944",
-"-0.9992279402011073"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 2.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000047127475473",
-"-1.9992275091572376",
-"0.9991808621332909"
-],
-"a": [
-"1.9992275585648944",
-"-0.9992279402011073"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 2.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000047127475473",
-"-1.9992275091572376",
-"0.9991808621332909"
-],
-"a": [
-"1.9992275585648944",
-"-0.9992279402011073"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Samurai%20Marathon%20%282019%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -267311,64 +267461,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Counselor%20%282013%29%28Extended%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "First Love",
-"year": "2019",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/first-love/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 8.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001900892257025",
-"-1.9993498783967667",
-"0.9991604678684562"
-],
-"a": [
-"1.9993500826483133",
-"-0.9993503528426118"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 11.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000527007935763",
-"-1.9988064442593496",
-"0.9982826619827915"
-],
-"a": [
-"1.9988076025318098",
-"-0.9988085116460945"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/First%20Love%20%282019%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -275668,6 +275760,124 @@
 "avs": ""
 },
 {
+"title": "Marked For Death",
+"year": "1990",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/marked-for-death/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003267132299651",
+"-1.9984156129694481",
+"0.9980920981136762"
+],
+"a": [
+"1.9984164106643878",
+"-0.9984180136487021"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003267132299651",
+"-1.9984156129694481",
+"0.9980920981136762"
+],
+"a": [
+"1.9984164106643878",
+"-0.9984180136487021"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003267132299651",
+"-1.9984156129694481",
+"0.9980920981136762"
+],
+"a": [
+"1.9984164106643878",
+"-0.9984180136487021"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003267132299651",
+"-1.9984156129694481",
+"0.9980920981136762"
+],
+"a": [
+"1.9984164106643878",
+"-0.9984180136487021"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003267132299651",
+"-1.9984156129694481",
+"0.9980920981136762"
+],
+"a": [
+"1.9984164106643878",
+"-0.9984180136487021"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Marked%20For%20Death%20%281990%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Undisputed III Redemption",
 "year": "2010",
 "audioTypes": [
@@ -279701,6 +279911,144 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Machine%20%282013%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "ReBorn",
+"year": "2016",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/reborn/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 1.6,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001017976489899",
+"-1.9978895768743459",
+"0.9977911997039927"
+],
+"a": [
+"1.9978898645985594",
+"-0.997892709628769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 1.6,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001017976489899",
+"-1.9978895768743459",
+"0.9977911997039927"
+],
+"a": [
+"1.9978898645985594",
+"-0.997892709628769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 1.6,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001017976489899",
+"-1.9978895768743459",
+"0.9977911997039927"
+],
+"a": [
+"1.9978898645985594",
+"-0.997892709628769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 1.6,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001017976489899",
+"-1.9978895768743459",
+"0.9977911997039927"
+],
+"a": [
+"1.9978898645985594",
+"-0.997892709628769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 1.6,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001017976489899",
+"-1.9978895768743459",
+"0.9977911997039927"
+],
+"a": [
+"1.9978898645985594",
+"-0.997892709628769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 1.6,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001017976489899",
+"-1.9978895768743459",
+"0.9977911997039927"
+],
+"a": [
+"1.9978898645985594",
+"-0.997892709628769"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/ReBorn%20%282016%29%28Ja%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -299806,7 +300154,7 @@
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28E1%29%20TrueHD%20Atmos.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E1%29%20TrueHD%20Atmos.jpg"
 ],
 "content_type": "TV",
 "season": "1",
@@ -299845,7 +300193,7 @@
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28E1-3%29%20TrueHD%20Atmos.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E1-3%29%20TrueHD%20Atmos.jpg"
 ],
 "content_type": "TV",
 "season": "1",
@@ -299943,7 +300291,7 @@
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28E3%29%20TrueHD%20Atmos.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E3%29%20TrueHD%20Atmos.jpg"
 ],
 "content_type": "TV",
 "season": "1",
@@ -300022,7 +300370,7 @@
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28E4%29%20TrueHD%20Atmos.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E4%29%20TrueHD%20Atmos.jpg"
 ],
 "content_type": "TV",
 "season": "1",
@@ -300081,7 +300429,7 @@
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28E4-5%29%20TrueHD%20Atmos.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E4-5%29%20TrueHD%20Atmos.jpg"
 ],
 "content_type": "TV",
 "season": "1",
@@ -300140,7 +300488,7 @@
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28E5%29%20TrueHD%20Atmos.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E5%29%20TrueHD%20Atmos.jpg"
 ],
 "content_type": "TV",
 "season": "1",
