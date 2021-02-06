@@ -29,6 +29,33 @@
 
 ![img 0](https://i.imgur.com/Kt3iaEq.jpg)
 
+## Season 4
+
+* Atmos
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60472075)
+* Production Year: 2011
+
+![img 0](https://i.imgur.com/ViTIQBW.jpg)
+
+## Season 5
+
+* Atmos
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60477409)
+* Production Year: 2011
+
+![img 0](https://i.imgur.com/GYldovW.jpg)
+
+## Season 6
+
+* Atmos
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60478431)
+* Production Year: 2011
+
+![img 0](https://i.imgur.com/Kt8XisU.jpg)
+
 ## Season 7
 
 * Atmos
