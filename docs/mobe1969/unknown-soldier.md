@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-## Season 1 Episode 1
+## Season 1
 
 * TrueHD Atmos
 
@@ -10,7 +10,7 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E1%29%20TrueHD%20Atmos.jpg)
 
-## Season 1 Episode 1,2,3
+## Season 1
 
 * TrueHD Atmos
 
@@ -24,7 +24,7 @@
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28E2%29%20TrueHD%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E2%29%20TrueHD%20Atmos.jpg)
 
 ## Season 1 Episode 3
 
@@ -42,7 +42,7 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E4%29%20TrueHD%20Atmos.jpg)
 
-## Season 1 Episode 4,5
+## Season 1 Episodes 4-5
 
 * TrueHD Atmos
 

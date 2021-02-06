@@ -186645,6 +186645,144 @@
 "avs": ""
 },
 {
+"title": "The Factory",
+"year": "2011",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-factory/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001181648370387",
+"-1.9992913394224483",
+"0.9991737456213624"
+],
+"a": [
+"1.9992914643818676",
+"-0.9992917854989819"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001181648370387",
+"-1.9992913394224483",
+"0.9991737456213624"
+],
+"a": [
+"1.9992914643818676",
+"-0.9992917854989819"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.3,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002631995552842",
+"-1.9985241248680143",
+"0.9982634864666214"
+],
+"a": [
+"1.9985247097711099",
+"-0.9985261011188102"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.3,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002631995552842",
+"-1.9985241248680143",
+"0.9982634864666214"
+],
+"a": [
+"1.9985247097711099",
+"-0.9985261011188102"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.3,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002631995552842",
+"-1.9985241248680143",
+"0.9982634864666214"
+],
+"a": [
+"1.9985247097711099",
+"-0.9985261011188102"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.3,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002631995552842",
+"-1.9985241248680143",
+"0.9982634864666214"
+],
+"a": [
+"1.9985247097711099",
+"-0.9985261011188102"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Factory%20%282011%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Criminal Activities",
 "year": "2015",
 "audioTypes": [
@@ -210729,144 +210867,6 @@
 "avs": ""
 },
 {
-"title": "The Factory",
-"year": "2012",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-factory/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 5.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001181648370387",
-"-1.9992913394224483",
-"0.9991737456213624"
-],
-"a": [
-"1.9992914643818676",
-"-0.9992917854989819"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 5.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001181648370387",
-"-1.9992913394224483",
-"0.9991737456213624"
-],
-"a": [
-"1.9992914643818676",
-"-0.9992917854989819"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 21.0,
-"gain": 5.3,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002631995552842",
-"-1.9985241248680143",
-"0.9982634864666214"
-],
-"a": [
-"1.9985247097711099",
-"-0.9985261011188102"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 21.0,
-"gain": 5.3,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002631995552842",
-"-1.9985241248680143",
-"0.9982634864666214"
-],
-"a": [
-"1.9985247097711099",
-"-0.9985261011188102"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 21.0,
-"gain": 5.3,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002631995552842",
-"-1.9985241248680143",
-"0.9982634864666214"
-],
-"a": [
-"1.9985247097711099",
-"-0.9985261011188102"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 21.0,
-"gain": 5.3,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002631995552842",
-"-1.9985241248680143",
-"0.9982634864666214"
-],
-"a": [
-"1.9985247097711099",
-"-0.9985261011188102"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Factory%20%282012%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Antiviral",
 "year": "2012",
 "audioTypes": [
@@ -230755,42 +230755,60 @@
 {
 "type": "LowShelf",
 "freq": 10.0,
-"gain": 8.0,
+"gain": 16.0,
 "q": 0.8,
 "biquads": {
 "96000": {
 "b": [
-"1.0001900892257025",
-"-1.9993498783967667",
-"0.9991604678684562"
+"1.0003903440886337",
+"-1.999483309316847",
+"0.9990940409629826"
 ],
 "a": [
-"1.9993500826483133",
-"-0.9993503528426118"
+"1.999483761937996",
+"-0.9994839324304674"
 ]
 }
 },
 "count": 1
 },
 {
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 11.0,
-"q": 0.8,
+"type": "PeakingEQ",
+"freq": 11.0,
+"gain": 12.0,
+"q": 2.0,
 "biquads": {
 "96000": {
 "b": [
-"1.000527007935763",
-"-1.9988064442593496",
-"0.9982826619827915"
+"1.000268889930821",
+"-1.999819083557461",
+"0.9995507119054435"
 ],
 "a": [
-"1.9988076025318098",
-"-0.9988085116460945"
+"1.999819083557461",
+"-0.9998196018362645"
 ]
 }
+}
 },
-"count": 1
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": 12.0,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002037088741411",
+"-1.9998606546671749",
+"0.9996596229110266"
+],
+"a": [
+"1.9998606546671749",
+"-0.9998633317851677"
+]
+}
+}
 }
 ],
 "images": [
@@ -296048,7 +296066,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-01",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1",
 "filters": [
 {
 "type": "LowShelf",
@@ -296153,7 +296171,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "01",
+"episode": "",
 "mv": "0",
 "avs": ""
 },
@@ -296164,7 +296182,103 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-02",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-10",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": 5.0,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000445621399239",
+"-1.9998846459433535",
+"0.999840923357061"
+],
+"a": [
+"1.9998846459433535",
+"-0.9998854854969847"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 11.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002655869710404",
+"-1.999790156175417",
+"0.9995259569726754"
+],
+"a": [
+"1.999790156175417",
+"-0.9997915439437158"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000702800158961",
+"-1.9990692516326267",
+"0.9983699361352154"
+],
+"a": [
+"1.9990707178225835",
+"-0.9990712701042204"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.0,
+"gain": 9.0,
+"q": 8.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000093040264184",
+"-1.9998957780216613",
+"0.9998046267644886"
+],
+"a": [
+"1.9998957780216613",
+"-0.9998976670286723"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Pacific%20%282010%29%28E10%29%20DTS-HD%20MA%205.1.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "10",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "The Pacific",
+"year": "2010",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-2",
 "filters": [
 {
 "type": "LowShelf",
@@ -296212,7 +296326,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "02",
+"episode": "2",
 "mv": "0",
 "avs": ""
 },
@@ -296223,7 +296337,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-03",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-3",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -296289,7 +296403,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "03",
+"episode": "3",
 "mv": "0",
 "avs": ""
 },
@@ -296300,7 +296414,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-04",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-4",
 "filters": [
 {
 "type": "LowShelf",
@@ -296385,7 +296499,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "04",
+"episode": "4",
 "mv": "0",
 "avs": ""
 },
@@ -296396,7 +296510,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-05",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-5",
 "filters": [
 {
 "type": "LowShelf",
@@ -296500,7 +296614,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "05",
+"episode": "5",
 "mv": "0",
 "avs": ""
 },
@@ -296511,7 +296625,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-06",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-6",
 "filters": [
 {
 "type": "LowShelf",
@@ -296616,7 +296730,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "06",
+"episode": "6",
 "mv": "0",
 "avs": ""
 },
@@ -296627,7 +296741,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-07",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-7",
 "filters": [
 {
 "type": "LowShelf",
@@ -296693,7 +296807,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "07",
+"episode": "7",
 "mv": "0",
 "avs": ""
 },
@@ -296704,7 +296818,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-08",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-8",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -296789,7 +296903,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "08",
+"episode": "8",
 "mv": "0",
 "avs": ""
 },
@@ -296800,7 +296914,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-09",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-9",
 "filters": [
 {
 "type": "LowShelf",
@@ -296905,103 +297019,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "09",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "The Pacific",
-"year": "2010",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-pacific/#season-1-episode-10",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 14.0,
-"gain": 5.0,
-"q": 6.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000445621399239",
-"-1.9998846459433535",
-"0.999840923357061"
-],
-"a": [
-"1.9998846459433535",
-"-0.9998854854969847"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 18.0,
-"gain": 11.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002655869710404",
-"-1.999790156175417",
-"0.9995259569726754"
-],
-"a": [
-"1.999790156175417",
-"-0.9997915439437158"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000702800158961",
-"-1.9990692516326267",
-"0.9983699361352154"
-],
-"a": [
-"1.9990707178225835",
-"-0.9990712701042204"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 21.0,
-"gain": 9.0,
-"q": 8.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000093040264184",
-"-1.9998957780216613",
-"0.9998046267644886"
-],
-"a": [
-"1.9998957780216613",
-"-0.9998976670286723"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Pacific%20%282010%29%28E10%29%20DTS-HD%20MA%205.1.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "10",
+"episode": "9",
 "mv": "0",
 "avs": ""
 },
@@ -297016,19 +297034,19 @@
 "filters": [
 {
 "type": "LowShelf",
-"freq": 10.0,
-"gain": 8.0,
+"freq": 40.0,
+"gain": 10.0,
 "q": 0.8,
 "biquads": {
 "96000": {
 "b": [
-"1.0001900892257025",
-"-1.9993498783967667",
-"0.9991604678684562"
+"1.0009558680522976",
+"-1.997540973971362",
+"0.9965972791195165"
 ],
 "a": [
-"1.9993500826483133",
-"-0.9993503528426118"
+"1.9975451358195957",
+"-0.9975489853235797"
 ]
 }
 },
@@ -297036,19 +297054,19 @@
 },
 {
 "type": "LowShelf",
-"freq": 23.0,
-"gain": 16.0,
+"freq": 40.0,
+"gain": 10.0,
 "q": 0.8,
 "biquads": {
 "96000": {
 "b": [
-"1.0008981667613581",
-"-1.9988101474827102",
-"0.9979176694507358"
+"1.0009558680522976",
+"-1.997540973971362",
+"0.9965972791195165"
 ],
 "a": [
-"1.9988125410459783",
-"-0.9988134426488259"
+"1.9975451358195957",
+"-0.9975489853235797"
 ]
 }
 },
@@ -297056,7 +297074,7 @@
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E04%29%20DTS-HD%20MA%205.1.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E01%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "content_type": "TV",
 "season": "1",
@@ -297071,7 +297089,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1-episode-10",
 "filters": [
 {
 "type": "LowShelf",
@@ -297094,70 +297112,32 @@
 "count": 1
 },
 {
-"type": "PeakingEQ",
-"freq": 15.0,
-"gain": 2.7,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000765852565723",
-"-1.9995789113112168",
-"0.9995032896806578"
-],
-"a": [
-"1.9995789113112168",
-"-0.99957987493723"
-]
-}
-}
-},
-{
 "type": "LowShelf",
-"freq": 22.0,
-"gain": 15.0,
+"freq": 35.0,
+"gain": 10.0,
 "q": 0.8,
 "biquads": {
 "96000": {
 "b": [
-"1.0008019747276409",
-"-1.9988289859251067",
-"0.9980319249011042"
+"1.0008362851304853",
+"-1.997848898746024",
+"0.9970219351496944"
 ],
 "a": [
-"1.9988310058800258",
-"-0.9988318796738264"
+"1.9978520856491406",
+"-0.9978550333770623"
 ]
 }
 },
 "count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 30.0,
-"gain": 3.0,
-"q": 2.5,
-"biquads": {
-"96000": {
-"b": [
-"1.0001362635227597",
-"-1.9993355344620036",
-"0.9992031249787924"
-],
-"a": [
-"1.9993355344620036",
-"-0.999339388501552"
-]
-}
-}
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E06%29%20DTS-HD%20MA%205.1.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E10%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "",
+"episode": "10",
 "mv": "0",
 "avs": ""
 },
@@ -297168,7 +297148,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1-episode-2",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -297254,7 +297234,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "",
+"episode": "2",
 "mv": "0",
 "avs": ""
 },
@@ -297265,551 +297245,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 10.0,
-"gain": 8.0,
-"q": 1.2,
-"biquads": {
-"96000": {
-"b": [
-"1.0002601008735492",
-"-1.9996554970869898",
-"0.9993958245079765"
-],
-"a": [
-"1.9996554970869898",
-"-0.9996559253815256"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 23.0,
-"gain": 10.0,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001830252490225",
-"-1.999828444811936",
-"0.9996476854386992"
-],
-"a": [
-"1.999828444811936",
-"-0.9998307106877217"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 23.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0008981667613581",
-"-1.9988101474827102",
-"0.9979176694507358"
-],
-"a": [
-"1.9988125410459783",
-"-0.9988134426488259"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 40.0,
-"gain": 9.0,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002835213423493",
-"-1.9996813081972347",
-"0.999404639674261"
-],
-"a": [
-"1.9996813081972347",
-"-0.9996881610166104"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E09%29%20DTS-HD%20MA%205.1.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Band of Brothers",
-"year": "2001",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 3.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0000707408662124",
-"-1.9992494022902672",
-"0.9991791703497003"
-],
-"a": [
-"1.9992494766072075",
-"-0.9992498368989726"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 13.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0006269702954858",
-"-1.998872910122884",
-"0.99824955919726"
-],
-"a": [
-"1.9988743146698238",
-"-0.9988751249458057"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 13.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0006269702954858",
-"-1.998872910122884",
-"0.99824955919726"
-],
-"a": [
-"1.9988743146698238",
-"-0.9988751249458057"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 25.0,
-"gain": 4.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001266717294723",
-"-1.9995641784548224",
-"0.9994401834464643"
-],
-"a": [
-"1.9995641784548224",
-"-0.9995668551759366"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 35.0,
-"gain": 2.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000880748621983",
-"-1.9993144435907202",
-"0.9992316144522795"
-],
-"a": [
-"1.9993144435907202",
-"-0.9993196893144779"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E07%29%20DTS-HD%20MA%205.1.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Band of Brothers",
-"year": "2001",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 7.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001659829035023",
-"-1.9993309256840015",
-"0.9991655835060734"
-],
-"a": [
-"1.999331102945988",
-"-0.9993313891475891"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 12.0,
-"gain": 4.0,
-"q": 7.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000260626766082",
-"-1.9999102637381934",
-"0.9998848178843419"
-],
-"a": [
-"1.9999102637381934",
-"-0.99991088056095"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 14.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0005465520428287",
-"-1.9992763587942854",
-"0.9987319149740667"
-],
-"a": [
-"1.9992772458402073",
-"-0.9992775799709734"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 27.0,
-"gain": 4.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001368030874525",
-"-1.9995290896562408",
-"0.9993954086420876"
-],
-"a": [
-"1.9995290896562408",
-"-0.9995322117295402"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E05%29%20DTS-HD%20MA%205.1.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Band of Brothers",
-"year": "2001",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 14.0,
-"gain": 3.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000530020952523",
-"-1.9997422040378732",
-"0.9996900414364548"
-],
-"a": [
-"1.9997422040378732",
-"-0.9997430435317071"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 13.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0006269702954858",
-"-1.998872910122884",
-"0.99824955919726"
-],
-"a": [
-"1.9988743146698238",
-"-0.9988751249458057"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 13.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0006269702954858",
-"-1.998872910122884",
-"0.99824955919726"
-],
-"a": [
-"1.9988743146698238",
-"-0.9988751249458057"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 22.0,
-"gain": 3.7,
-"q": 1.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0001625850632323",
-"-1.999385655061379",
-"0.9992251426653893"
-],
-"a": [
-"1.999385655061379",
-"-0.9993877277286216"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 32.0,
-"gain": 4.2,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001022456048438",
-"-1.9996667498238274",
-"0.999568889986945"
-],
-"a": [
-"1.9996667498238274",
-"-0.9996711355917888"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E08%29%20DTS-HD%20MA%205.1.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Band of Brothers",
-"year": "2001",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 40.0,
-"gain": 10.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0009558680522976",
-"-1.997540973971362",
-"0.9965972791195165"
-],
-"a": [
-"1.9975451358195957",
-"-0.9975489853235797"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 40.0,
-"gain": 10.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0009558680522976",
-"-1.997540973971362",
-"0.9965972791195165"
-],
-"a": [
-"1.9975451358195957",
-"-0.9975489853235797"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E01%29%20DTS-HD%20MA%205.1.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Band of Brothers",
-"year": "2001",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 7.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001659829035023",
-"-1.9993309256840015",
-"0.9991655835060734"
-],
-"a": [
-"1.999331102945988",
-"-0.9993313891475891"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 35.0,
-"gain": 10.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0008362851304853",
-"-1.997848898746024",
-"0.9970219351496944"
-],
-"a": [
-"1.9978520856491406",
-"-0.9978550333770623"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E10%29%20DTS-HD%20MA%205.1.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Band of Brothers",
-"year": "2001",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1-episode-3",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -297933,7 +297369,589 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "",
+"episode": "3",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Band of Brothers",
+"year": "2001",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1-episode-4",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001900892257025",
+"-1.9993498783967667",
+"0.9991604678684562"
+],
+"a": [
+"1.9993500826483133",
+"-0.9993503528426118"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0008981667613581",
+"-1.9988101474827102",
+"0.9979176694507358"
+],
+"a": [
+"1.9988125410459783",
+"-0.9988134426488259"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E04%29%20DTS-HD%20MA%205.1.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "4",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Band of Brothers",
+"year": "2001",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1-episode-5",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001659829035023",
+"-1.9993309256840015",
+"0.9991655835060734"
+],
+"a": [
+"1.999331102945988",
+"-0.9993313891475891"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 12.0,
+"gain": 4.0,
+"q": 7.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000260626766082",
+"-1.9999102637381934",
+"0.9998848178843419"
+],
+"a": [
+"1.9999102637381934",
+"-0.99991088056095"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0005465520428287",
+"-1.9992763587942854",
+"0.9987319149740667"
+],
+"a": [
+"1.9992772458402073",
+"-0.9992775799709734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": 4.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001368030874525",
+"-1.9995290896562408",
+"0.9993954086420876"
+],
+"a": [
+"1.9995290896562408",
+"-0.9995322117295402"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E05%29%20DTS-HD%20MA%205.1.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "5",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Band of Brothers",
+"year": "2001",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1-episode-6",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001659829035023",
+"-1.9993309256840015",
+"0.9991655835060734"
+],
+"a": [
+"1.999331102945988",
+"-0.9993313891475891"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 15.0,
+"gain": 2.7,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000765852565723",
+"-1.9995789113112168",
+"0.9995032896806578"
+],
+"a": [
+"1.9995789113112168",
+"-0.99957987493723"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 15.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0008019747276409",
+"-1.9988289859251067",
+"0.9980319249011042"
+],
+"a": [
+"1.9988310058800258",
+"-0.9988318796738264"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 3.0,
+"q": 2.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0001362635227597",
+"-1.9993355344620036",
+"0.9992031249787924"
+],
+"a": [
+"1.9993355344620036",
+"-0.999339388501552"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E06%29%20DTS-HD%20MA%205.1.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "6",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Band of Brothers",
+"year": "2001",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1-episode-7",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000707408662124",
+"-1.9992494022902672",
+"0.9991791703497003"
+],
+"a": [
+"1.9992494766072075",
+"-0.9992498368989726"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 13.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0006269702954858",
+"-1.998872910122884",
+"0.99824955919726"
+],
+"a": [
+"1.9988743146698238",
+"-0.9988751249458057"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 13.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0006269702954858",
+"-1.998872910122884",
+"0.99824955919726"
+],
+"a": [
+"1.9988743146698238",
+"-0.9988751249458057"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": 4.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001266717294723",
+"-1.9995641784548224",
+"0.9994401834464643"
+],
+"a": [
+"1.9995641784548224",
+"-0.9995668551759366"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": 2.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000880748621983",
+"-1.9993144435907202",
+"0.9992316144522795"
+],
+"a": [
+"1.9993144435907202",
+"-0.9993196893144779"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E07%29%20DTS-HD%20MA%205.1.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "7",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Band of Brothers",
+"year": "2001",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1-episode-8",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": 3.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000530020952523",
+"-1.9997422040378732",
+"0.9996900414364548"
+],
+"a": [
+"1.9997422040378732",
+"-0.9997430435317071"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 13.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0006269702954858",
+"-1.998872910122884",
+"0.99824955919726"
+],
+"a": [
+"1.9988743146698238",
+"-0.9988751249458057"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 13.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0006269702954858",
+"-1.998872910122884",
+"0.99824955919726"
+],
+"a": [
+"1.9988743146698238",
+"-0.9988751249458057"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": 3.7,
+"q": 1.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001625850632323",
+"-1.999385655061379",
+"0.9992251426653893"
+],
+"a": [
+"1.999385655061379",
+"-0.9993877277286216"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": 4.2,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001022456048438",
+"-1.9996667498238274",
+"0.999568889986945"
+],
+"a": [
+"1.9996667498238274",
+"-0.9996711355917888"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E08%29%20DTS-HD%20MA%205.1.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "8",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Band of Brothers",
+"year": "2001",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/band-of-brothers/#season-1-episode-9",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": 8.0,
+"q": 1.2,
+"biquads": {
+"96000": {
+"b": [
+"1.0002601008735492",
+"-1.9996554970869898",
+"0.9993958245079765"
+],
+"a": [
+"1.9996554970869898",
+"-0.9996559253815256"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": 10.0,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001830252490225",
+"-1.999828444811936",
+"0.9996476854386992"
+],
+"a": [
+"1.999828444811936",
+"-0.9998307106877217"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0008981667613581",
+"-1.9988101474827102",
+"0.9979176694507358"
+],
+"a": [
+"1.9988125410459783",
+"-0.9988134426488259"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 9.0,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002835213423493",
+"-1.9996813081972347",
+"0.999404639674261"
+],
+"a": [
+"1.9996813081972347",
+"-0.9996881610166104"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Band%20of%20Brothers%20%282001%29%28E09%29%20DTS-HD%20MA%205.1.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "9",
 "mv": "0",
 "avs": ""
 },
@@ -298764,188 +298782,34 @@
 "TrueHD Atmos"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1-episode-10",
 "filters": [
-{
-"type": "LowShelf",
-"freq": 40.0,
-"gain": 15.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0014589409812484",
-"-1.9978675979767118",
-"0.9964248928900076"
-],
-"a": [
-"1.9978742723261353",
-"-0.9978771595218322"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E02%29%20TrueHD%20Atmos.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "From the Earth to the Moon",
-"year": "1998",
-"audioTypes": [
-"TrueHD Atmos"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 40.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0015628820916467",
-"-1.9979273645441227",
-"0.9963816809028738"
-],
-"a": [
-"1.997934600883974",
-"-0.9979373266546693"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E08%29%20TrueHD%20Atmos.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "From the Earth to the Moon",
-"year": "1998",
-"audioTypes": [
-"TrueHD Atmos"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 20.0,
-"gain": 16.0,
-"q": 9.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001537138715895",
-"-1.999940385928841",
-"0.9997883854803875"
-],
-"a": [
-"1.999940385928841",
-"-0.9999420993519771"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 22.0,
-"gain": 6.0,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001014435544204",
-"-1.9997940740096967",
-"0.9996947035459071"
-],
-"a": [
-"1.9997940740096967",
-"-0.9997961471003276"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 26.0,
-"gain": 13.0,
-"q": 6.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002325973041049",
-"-1.999862920224611",
-"0.9996332184948711"
-],
-"a": [
-"1.999862920224611",
-"-0.9998658157989758"
-]
-}
-}
-},
 {
 "type": "PeakingEQ",
 "freq": 30.0,
-"gain": 7.0,
-"q": 8.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000101589204274",
-"-1.99983212228475",
-"0.9997343880772771"
-],
-"a": [
-"1.99983212228475",
-"-0.9998359772815512"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 38.0,
 "gain": 8.0,
-"q": 7.0,
+"q": 0.8,
 "biquads": {
 "96000": {
 "b": [
-"1.0001694471392049",
-"-1.9997696617949796",
-"0.9996063995968016"
+"1.0011697489213756",
+"-1.9984487445091716",
+"0.9972828479179149"
 ],
 "a": [
-"1.9997696617949796",
-"-0.9997758467360067"
+"1.9984487445091716",
+"-0.9984525968392907"
 ]
 }
 }
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E09%29%20TrueHD%20Atmos.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E10%29%20TrueHD%20Atmos.jpg"
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "",
+"episode": "10",
 "mv": "0",
 "avs": ""
 },
@@ -298956,7 +298820,7 @@
 "TrueHD Atmos"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1-episode-11",
 "filters": [
 {
 "type": "LowShelf",
@@ -298984,7 +298848,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "",
+"episode": "11",
 "mv": "0",
 "avs": ""
 },
@@ -298995,34 +298859,150 @@
 "TrueHD Atmos"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1-episode-12",
 "filters": [
 {
-"type": "PeakingEQ",
+"type": "LowShelf",
 "freq": 30.0,
-"gain": 8.0,
+"gain": 16.0,
 "q": 0.8,
 "biquads": {
 "96000": {
 "b": [
-"1.0011697489213756",
-"-1.9984487445091716",
-"0.9972828479179149"
+"1.001171785344505",
+"-1.9984469908110545",
+"0.9972848820879135"
 ],
 "a": [
-"1.9984487445091716",
-"-0.9984525968392907"
+"1.9984510623011702",
+"-0.9984525959423031"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E12%29%20TrueHD%20Atmos.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "12",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "From the Earth to the Moon",
+"year": "1998",
+"audioTypes": [
+"TrueHD Atmos"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1-episode-2",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 40.0,
+"gain": 15.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0014589409812484",
+"-1.9978675979767118",
+"0.9964248928900076"
+],
+"a": [
+"1.9978742723261353",
+"-0.9978771595218322"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E02%29%20TrueHD%20Atmos.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "2",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "From the Earth to the Moon",
+"year": "1998",
+"audioTypes": [
+"TrueHD Atmos"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1-episode-3",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": 12.0,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000215115769561",
+"-1.9998536057505403",
+"0.9996405631333242"
+],
+"a": [
+"1.9998536057505403",
+"-0.999855678902885"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": 11.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000531118489102",
+"-1.9995806645255134",
+"0.9990520129227136"
+],
+"a": [
+"1.9995806645255134",
+"-0.9995831314118154"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 47.0,
+"gain": 7.0,
+"q": 2.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0004714333280358",
+"-1.9992293796026095",
+"0.9987674053203783"
+],
+"a": [
+"1.9992293796026095",
+"-0.9992388386484139"
 ]
 }
 }
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E10%29%20TrueHD%20Atmos.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E03%29%20TrueHD%20Atmos.jpg"
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "",
+"episode": "3",
 "mv": "0",
 "avs": ""
 },
@@ -299033,7 +299013,330 @@
 "TrueHD Atmos"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1-episode-4",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 13.0,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002147063541784",
+"-1.9998744236303154",
+"0.9996614306427606"
+],
+"a": [
+"1.9998744236303154",
+"-0.9998761369969392"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": 12.0,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000329994370688",
+"-1.9997754844301825",
+"0.9994486125175157"
+],
+"a": [
+"1.9997754844301825",
+"-0.9997786068882037"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 6.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000460940125812",
+"-1.9990668806656378",
+"0.9986127912535856"
+],
+"a": [
+"1.9990668806656378",
+"-0.9990737313793976"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 52.0,
+"gain": 3.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002951235248336",
+"-1.9985576535064984",
+"0.9982741047615098"
+],
+"a": [
+"1.9985576535064984",
+"-0.9985692282863434"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E04%29%20TrueHD%20Atmos.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "4",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "From the Earth to the Moon",
+"year": "1998",
+"audioTypes": [
+"TrueHD Atmos"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1-episode-5",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 16.0,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000276678560914",
+"-1.9998940678638384",
+"0.9996191026863779"
+],
+"a": [
+"1.9998940678638384",
+"-0.9998957812472921"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": 9.0,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000194930576116",
+"-1.9997835270018205",
+"0.9995906695054018"
+],
+"a": [
+"1.9997835270018205",
+"-0.9997856000815178"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 9.0,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002658039815222",
+"-1.9997037932086006",
+"0.9994418439765046"
+],
+"a": [
+"1.9997037932086006",
+"-0.9997076479580269"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 6.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000460940125812",
+"-1.9990668806656378",
+"0.9986127912535856"
+],
+"a": [
+"1.9990668806656378",
+"-0.9990737313793976"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 52.0,
+"gain": 3.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002951235248336",
+"-1.9985576535064984",
+"0.9982741047615098"
+],
+"a": [
+"1.9985576535064984",
+"-0.9985692282863434"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E05%29%20TrueHD%20Atmos.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "5",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "From the Earth to the Moon",
+"year": "1998",
+"audioTypes": [
+"TrueHD Atmos"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1-episode-6",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 19.0,
+"gain": 16.0,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000262845325022",
+"-1.9998994455915908",
+"0.9996381465991864"
+],
+"a": [
+"1.9998994455915908",
+"-0.9999009919242083"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 11.0,
+"q": 7.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001264768844336",
+"-1.9998990164092663",
+"0.999774252912526"
+],
+"a": [
+"1.9998990164092663",
+"-0.9999007297969594"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": 14.0,
+"q": 7.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000201055983367",
+"-1.9998973022239257",
+"0.9996987135174972"
+],
+"a": [
+"1.9998973022239257",
+"-0.9998997695008641"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": 7.0,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001489917772908",
+"-1.9997547782180374",
+"0.9996104508080471"
+],
+"a": [
+"1.9997547782180374",
+"-0.9997594425853378"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 45.0,
+"gain": 8.0,
+"q": 1.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0008258923976212",
+"-1.9988987979647617",
+"0.9980815752793042"
+],
+"a": [
+"1.9988987979647617",
+"-0.9989074676769253"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E06%29%20TrueHD%20Atmos.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "6",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "From the Earth to the Moon",
+"year": "1998",
+"audioTypes": [
+"TrueHD Atmos"
+],
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1-episode-7",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -299155,7 +299458,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "",
+"episode": "7",
 "mv": "0",
 "avs": ""
 },
@@ -299166,23 +299469,23 @@
 "TrueHD Atmos"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1-episode-8",
 "filters": [
 {
 "type": "LowShelf",
-"freq": 30.0,
+"freq": 40.0,
 "gain": 16.0,
 "q": 0.8,
 "biquads": {
 "96000": {
 "b": [
-"1.001171785344505",
-"-1.9984469908110545",
-"0.9972848820879135"
+"1.0015628820916467",
+"-1.9979273645441227",
+"0.9963816809028738"
 ],
 "a": [
-"1.9984510623011702",
-"-0.9984525959423031"
+"1.997934600883974",
+"-0.9979373266546693"
 ]
 }
 },
@@ -299190,11 +299493,11 @@
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E12%29%20TrueHD%20Atmos.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E08%29%20TrueHD%20Atmos.jpg"
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "",
+"episode": "8",
 "mv": "0",
 "avs": ""
 },
@@ -299205,194 +299508,23 @@
 "TrueHD Atmos"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 22.0,
-"gain": 12.0,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000215115769561",
-"-1.9998536057505403",
-"0.9996405631333242"
-],
-"a": [
-"1.9998536057505403",
-"-0.999855678902885"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 24.0,
-"gain": 11.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000531118489102",
-"-1.9995806645255134",
-"0.9990520129227136"
-],
-"a": [
-"1.9995806645255134",
-"-0.9995831314118154"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 47.0,
-"gain": 7.0,
-"q": 2.7,
-"biquads": {
-"96000": {
-"b": [
-"1.0004714333280358",
-"-1.9992293796026095",
-"0.9987674053203783"
-],
-"a": [
-"1.9992293796026095",
-"-0.9992388386484139"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E03%29%20TrueHD%20Atmos.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "From the Earth to the Moon",
-"year": "1998",
-"audioTypes": [
-"TrueHD Atmos"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 20.0,
-"gain": 13.0,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002147063541784",
-"-1.9998744236303154",
-"0.9996614306427606"
-],
-"a": [
-"1.9998744236303154",
-"-0.9998761369969392"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 27.0,
-"gain": 12.0,
-"q": 4.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000329994370688",
-"-1.9997754844301825",
-"0.9994486125175157"
-],
-"a": [
-"1.9997754844301825",
-"-0.9997786068882037"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 40.0,
-"gain": 6.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000460940125812",
-"-1.9990668806656378",
-"0.9986127912535856"
-],
-"a": [
-"1.9990668806656378",
-"-0.9990737313793976"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 52.0,
-"gain": 3.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002951235248336",
-"-1.9985576535064984",
-"0.9982741047615098"
-],
-"a": [
-"1.9985576535064984",
-"-0.9985692282863434"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E04%29%20TrueHD%20Atmos.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "From the Earth to the Moon",
-"year": "1998",
-"audioTypes": [
-"TrueHD Atmos"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1-episode-9",
 "filters": [
 {
 "type": "PeakingEQ",
 "freq": 20.0,
 "gain": 16.0,
-"q": 5.0,
+"q": 9.0,
 "biquads": {
 "96000": {
 "b": [
-"1.000276678560914",
-"-1.9998940678638384",
-"0.9996191026863779"
+"1.0001537138715895",
+"-1.999940385928841",
+"0.9997883854803875"
 ],
 "a": [
-"1.9998940678638384",
-"-0.9998957812472921"
+"1.999940385928841",
+"-0.9999420993519771"
 ]
 }
 }
@@ -299400,18 +299532,37 @@
 {
 "type": "PeakingEQ",
 "freq": 22.0,
-"gain": 9.0,
-"q": 4.0,
+"gain": 6.0,
+"q": 5.0,
 "biquads": {
 "96000": {
 "b": [
-"1.000194930576116",
-"-1.9997835270018205",
-"0.9995906695054018"
+"1.0001014435544204",
+"-1.9997940740096967",
+"0.9996947035459071"
 ],
 "a": [
-"1.9997835270018205",
-"-0.9997856000815178"
+"1.9997940740096967",
+"-0.9997961471003276"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": 13.0,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002325973041049",
+"-1.999862920224611",
+"0.9996332184948711"
+],
+"a": [
+"1.999862920224611",
+"-0.9998658157989758"
 ]
 }
 }
@@ -299419,181 +299570,48 @@
 {
 "type": "PeakingEQ",
 "freq": 30.0,
-"gain": 9.0,
-"q": 4.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002658039815222",
-"-1.9997037932086006",
-"0.9994418439765046"
-],
-"a": [
-"1.9997037932086006",
-"-0.9997076479580269"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 40.0,
-"gain": 6.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000460940125812",
-"-1.9990668806656378",
-"0.9986127912535856"
-],
-"a": [
-"1.9990668806656378",
-"-0.9990737313793976"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 52.0,
-"gain": 3.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002951235248336",
-"-1.9985576535064984",
-"0.9982741047615098"
-],
-"a": [
-"1.9985576535064984",
-"-0.9985692282863434"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E05%29%20TrueHD%20Atmos.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "From the Earth to the Moon",
-"year": "1998",
-"audioTypes": [
-"TrueHD Atmos"
-],
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/from-the-earth-to-the-moon/#season-1",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 19.0,
-"gain": 16.0,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000262845325022",
-"-1.9998994455915908",
-"0.9996381465991864"
-],
-"a": [
-"1.9998994455915908",
-"-0.9999009919242083"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 20.0,
-"gain": 11.0,
-"q": 7.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001264768844336",
-"-1.9998990164092663",
-"0.999774252912526"
-],
-"a": [
-"1.9998990164092663",
-"-0.9999007297969594"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 24.0,
-"gain": 14.0,
-"q": 7.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000201055983367",
-"-1.9998973022239257",
-"0.9996987135174972"
-],
-"a": [
-"1.9998973022239257",
-"-0.9998997695008641"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 33.0,
 "gain": 7.0,
-"q": 6.0,
+"q": 8.0,
 "biquads": {
 "96000": {
 "b": [
-"1.0001489917772908",
-"-1.9997547782180374",
-"0.9996104508080471"
+"1.000101589204274",
+"-1.99983212228475",
+"0.9997343880772771"
 ],
 "a": [
-"1.9997547782180374",
-"-0.9997594425853378"
+"1.99983212228475",
+"-0.9998359772815512"
 ]
 }
 }
 },
 {
 "type": "PeakingEQ",
-"freq": 45.0,
+"freq": 38.0,
 "gain": 8.0,
-"q": 1.7,
+"q": 7.0,
 "biquads": {
 "96000": {
 "b": [
-"1.0008258923976212",
-"-1.9988987979647617",
-"0.9980815752793042"
+"1.0001694471392049",
+"-1.9997696617949796",
+"0.9996063995968016"
 ],
 "a": [
-"1.9988987979647617",
-"-0.9989074676769253"
+"1.9997696617949796",
+"-0.9997758467360067"
 ]
 }
 }
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E06%29%20TrueHD%20Atmos.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/From%20the%20Earth%20to%20the%20Moon%20%281998%29%28E09%29%20TrueHD%20Atmos.jpg"
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "",
+"episode": "9",
 "mv": "0",
 "avs": ""
 },
@@ -299604,7 +299622,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/watchmen/#season-1-episode-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/watchmen/#season-1",
 "filters": [
 {
 "type": "LowShelf",
@@ -299632,7 +299650,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "1",
+"episode": "",
 "mv": "0",
 "avs": ""
 },
@@ -300110,7 +300128,7 @@
 "TrueHD Atmos"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/unknown-soldier/#season-1-episode-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/unknown-soldier/#season-1",
 "filters": [
 {
 "type": "LowShelf",
@@ -300158,7 +300176,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "1",
+"episode": "",
 "mv": "0",
 "avs": ""
 },
@@ -300169,7 +300187,7 @@
 "TrueHD Atmos"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/unknown-soldier/#season-1-episode-123",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/unknown-soldier/#season-1",
 "filters": [
 {
 "type": "LowShelf",
@@ -300197,7 +300215,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "1,2,3",
+"episode": "",
 "mv": "0",
 "avs": ""
 },
@@ -300232,7 +300250,7 @@
 }
 ],
 "images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28E2%29%20TrueHD%20Atmos.jpg"
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E2%29%20TrueHD%20Atmos.jpg"
 ],
 "content_type": "TV",
 "season": "1",
@@ -300385,7 +300403,7 @@
 "TrueHD Atmos"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/unknown-soldier/#season-1-episode-45",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/unknown-soldier/#season-1-episodes-4-5",
 "filters": [
 {
 "type": "LowShelf",
@@ -300503,7 +300521,7 @@
 "DTS-HD MA 5.1"
 ],
 "author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/generation-kill/#season-1-episode-1",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/generation-kill/#season-1",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -300570,7 +300588,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "1",
+"episode": "",
 "mv": "0",
 "avs": ""
 },
