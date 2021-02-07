@@ -188873,296 +188873,6 @@
 "avs": ""
 },
 {
-"title": "Believer",
-"year": "2018",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/believer/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 33.0,
-"gain": 8.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000627600505342",
-"-1.99785260264841",
-"0.9972323876402857"
-],
-"a": [
-"1.9978548252873183",
-"-0.997857765506719"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Believer",
-"year": "2018",
-"audioTypes": [
-"DTS-X MA"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/believer/#dts-x-ma",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 2.0,
-"q": 0.6,
-"biquads": {
-"96000": {
-"b": [
-"1.0000816634323038",
-"-1.998661413544816",
-"0.9985805618457851"
-],
-"a": [
-"1.9986614970201233",
-"-0.9986621418027815"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 2.0,
-"q": 0.6,
-"biquads": {
-"96000": {
-"b": [
-"1.0000816634323038",
-"-1.998661413544816",
-"0.9985805618457851"
-],
-"a": [
-"1.9986614970201233",
-"-0.9986621418027815"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 2.0,
-"q": 0.6,
-"biquads": {
-"96000": {
-"b": [
-"1.0000816634323038",
-"-1.998661413544816",
-"0.9985805618457851"
-],
-"a": [
-"1.9986614970201233",
-"-0.9986621418027815"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 25.0,
-"gain": 2.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001178430547037",
-"-1.9980682756388313",
-"0.997953433668025"
-],
-"a": [
-"1.9980685842579426",
-"-0.998070968103617"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 36.0,
-"gain": 3.6,
-"q": 2.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000175576525714",
-"-1.999310689445468",
-"0.9991406626716607"
-],
-"a": [
-"1.999310689445468",
-"-0.9993162391973748"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%20DTS-X%20MA.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Believer",
-"year": "2018",
-"audioTypes": [
-"TrueHD Atmos"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/believer/#truehd-atmos",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 2.0,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000377098325686",
-"-1.9993818733939461",
-"0.9993446440500002"
-],
-"a": [
-"1.999381922805418",
-"-0.9993823044710975"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 16.0,
-"gain": 4.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001216059457827",
-"-1.9995830808625359",
-"0.9994625713113637"
-],
-"a": [
-"1.9995830808625359",
-"-0.9995841772571465"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 31.0,
-"gain": 2.3,
-"q": 6.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000448958372188",
-"-1.9996997048564171",
-"0.9996589250270078"
-],
-"a": [
-"1.9996997048564171",
-"-0.9997038208642264"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 36.0,
-"gain": 4.1,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0003099608845096",
-"-1.997670421051175",
-"0.9973674814626423"
-],
-"a": [
-"1.9976717419857177",
-"-0.9976761214126089"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 36.0,
-"gain": 4.1,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0003099608845096",
-"-1.997670421051175",
-"0.9973674814626423"
-],
-"a": [
-"1.9976717419857177",
-"-0.9976761214126089"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 43.0,
-"gain": 7.0,
-"q": 4.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002911776125576",
-"-1.9995219551677341",
-"0.9992386962170049"
-],
-"a": [
-"1.9995219551677341",
-"-0.9995298738295625"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%20TrueHD%20Atmos.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Hijacked",
 "year": "2012",
 "audioTypes": [
@@ -190737,83 +190447,6 @@
 "avs": ""
 },
 {
-"title": "The Wolf's Call",
-"year": "2019",
-"audioTypes": [
-"TrueHD Atmos"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-wolfs-call/#truehd-atmos",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 11.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000342494835218",
-"-1.9992244973608437",
-"0.9988833656508198"
-],
-"a": [
-"1.9992249868330016",
-"-0.9992253710138795"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 11.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000342494835218",
-"-1.9992244973608437",
-"0.9988833656508198"
-],
-"a": [
-"1.9992249868330016",
-"-0.9992253710138795"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 15.0,
-"gain": 7.0,
-"q": 3.5,
-"biquads": {
-"96000": {
-"b": [
-"1.0001161006434631",
-"-1.9998115838323354",
-"0.9996964469270136"
-],
-"a": [
-"1.9998115838323354",
-"-0.9998125475704768"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Wolf%27s%20Call%20%282019%29%20TrueHD%20Atmos.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Arrowhead",
 "year": "2016",
 "audioTypes": [
@@ -191002,6 +190635,63 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Man%20with%20the%20Iron%20Heart%20%282017%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "The 12th Man",
+"year": "2017",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-12th-man/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0005074962885725",
+"-1.9993281111117882",
+"0.998822432674292"
+],
+"a": [
+"1.9993288759823367",
+"-0.9993291640923162"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 15.0,
+"gain": 4.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001140070581542",
+"-1.999609197463594",
+"0.9994961540460481"
+],
+"a": [
+"1.999609197463594",
+"-0.9996101611042023"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%2012th%20Man%20%282017%29%28No%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -193884,182 +193574,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jacob%27s%20Ladder%20%282019%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Violent Cop",
-"year": "1989",
-"audioTypes": [
-"LPCM 2.0"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/violent-cop/#lpcm-20",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 3.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001910490106223",
-"-1.9979726847171628",
-"0.9977853434098856"
-],
-"a": [
-"1.9979732261423586",
-"-0.9979758509953116"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 3.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001910490106223",
-"-1.9979726847171628",
-"0.9977853434098856"
-],
-"a": [
-"1.9979732261423586",
-"-0.9979758509953116"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 3.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001910490106223",
-"-1.9979726847171628",
-"0.9977853434098856"
-],
-"a": [
-"1.9979732261423586",
-"-0.9979758509953116"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 3.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001910490106223",
-"-1.9979726847171628",
-"0.9977853434098856"
-],
-"a": [
-"1.9979732261423586",
-"-0.9979758509953116"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 3.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001910490106223",
-"-1.9979726847171628",
-"0.9977853434098856"
-],
-"a": [
-"1.9979732261423586",
-"-0.9979758509953116"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 27.0,
-"gain": 3.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001910490106223",
-"-1.9979726847171628",
-"0.9977853434098856"
-],
-"a": [
-"1.9979732261423586",
-"-0.9979758509953116"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Violent%20Cop%20%281989%29%20LPCM%202.0.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Elite Squad",
-"year": "2007",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/elite-squad/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 19.0,
-"gain": 13.0,
-"q": 0.85,
-"biquads": {
-"96000": {
-"b": [
-"1.0005606244817689",
-"-1.9989921704612925",
-"0.9984348126553352"
-],
-"a": [
-"1.9989934381403887",
-"-0.9989941694580078"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Elite%20Squad%20%282007%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -212920,6 +212434,64 @@
 "avs": ""
 },
 {
+"title": "Wings of Honneamise",
+"year": "1987",
+"audioTypes": [
+"TrueHD 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/wings-of-honneamise/#truehd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 9.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0004717055448968",
+"-1.9986094831558106",
+"0.9981412558634332"
+],
+"a": [
+"1.9986106052167878",
+"-0.9986118393473529"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 9.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0004717055448968",
+"-1.9986094831558106",
+"0.9981412558634332"
+],
+"a": [
+"1.9986106052167878",
+"-0.9986118393473529"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wings%20of%20Honneamise%20%281987%29%28Ja%29%20TrueHD%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "The Hitcher",
 "year": "2007",
 "audioTypes": [
@@ -217571,6 +217143,64 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Winchester%20%282018%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Weathering with You",
+"year": "2019",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/weathering-with-you/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001900892257025",
+"-1.9993498783967667",
+"0.9991604678684562"
+],
+"a": [
+"1.9993500826483133",
+"-0.9993503528426118"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000570509656609",
+"-1.998048057085731",
+"0.9974836517401895"
+],
+"a": [
+"1.9980498941562612",
+"-0.9980523243262683"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Weathering%20with%20You%20%282019%29%28Ja%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -232760,6 +232390,63 @@
 "avs": ""
 },
 {
+"title": "Thirst",
+"year": "2009",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/thirst/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 16.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.001171785344505",
+"-1.9984469908110545",
+"0.9972848820879135"
+],
+"a": [
+"1.9984510623011702",
+"-0.9984525959423031"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": 8.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0007800328947898",
+"-1.9989574292802383",
+"0.998188100056822"
+],
+"a": [
+"1.9989574292802383",
+"-0.9989681329516119"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Thirst%20%282009%29%28Ko%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Kickboxer Retaliation",
 "year": "2018",
 "audioTypes": [
@@ -233547,6 +233234,296 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Revenant%20%282009%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Believer",
+"year": "2018",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/believer/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 33.0,
+"gain": 8.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000627600505342",
+"-1.99785260264841",
+"0.9972323876402857"
+],
+"a": [
+"1.9978548252873183",
+"-0.997857765506719"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Believer",
+"year": "2018",
+"audioTypes": [
+"DTS-X MA"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/believer/#dts-x-ma",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 2.0,
+"q": 0.6,
+"biquads": {
+"96000": {
+"b": [
+"1.0000816634323038",
+"-1.998661413544816",
+"0.9985805618457851"
+],
+"a": [
+"1.9986614970201233",
+"-0.9986621418027815"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 2.0,
+"q": 0.6,
+"biquads": {
+"96000": {
+"b": [
+"1.0000816634323038",
+"-1.998661413544816",
+"0.9985805618457851"
+],
+"a": [
+"1.9986614970201233",
+"-0.9986621418027815"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 2.0,
+"q": 0.6,
+"biquads": {
+"96000": {
+"b": [
+"1.0000816634323038",
+"-1.998661413544816",
+"0.9985805618457851"
+],
+"a": [
+"1.9986614970201233",
+"-0.9986621418027815"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 2.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001178430547037",
+"-1.9980682756388313",
+"0.997953433668025"
+],
+"a": [
+"1.9980685842579426",
+"-0.998070968103617"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": 3.6,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000175576525714",
+"-1.999310689445468",
+"0.9991406626716607"
+],
+"a": [
+"1.999310689445468",
+"-0.9993162391973748"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%28Ko%29%20DTS-X%20MA.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Believer",
+"year": "2018",
+"audioTypes": [
+"TrueHD Atmos"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/believer/#truehd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.0,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000377098325686",
+"-1.9993818733939461",
+"0.9993446440500002"
+],
+"a": [
+"1.999381922805418",
+"-0.9993823044710975"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 16.0,
+"gain": 4.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001216059457827",
+"-1.9995830808625359",
+"0.9994625713113637"
+],
+"a": [
+"1.9995830808625359",
+"-0.9995841772571465"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": 2.3,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000448958372188",
+"-1.9996997048564171",
+"0.9996589250270078"
+],
+"a": [
+"1.9996997048564171",
+"-0.9997038208642264"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 36.0,
+"gain": 4.1,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003099608845096",
+"-1.997670421051175",
+"0.9973674814626423"
+],
+"a": [
+"1.9976717419857177",
+"-0.9976761214126089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 36.0,
+"gain": 4.1,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003099608845096",
+"-1.997670421051175",
+"0.9973674814626423"
+],
+"a": [
+"1.9976717419857177",
+"-0.9976761214126089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 43.0,
+"gain": 7.0,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002911776125576",
+"-1.9995219551677341",
+"0.9992386962170049"
+],
+"a": [
+"1.9995219551677341",
+"-0.9995298738295625"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%28Ko%29%20TrueHD%20Atmos.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -234497,6 +234474,63 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Veil%20%282016%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Elite Squad The Enemy Within",
+"year": "2010",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/elite-squad-the-enemy-within/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 28.0,
+"gain": 4.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000264434761369",
+"-1.99795701015965",
+"0.997696799070228"
+],
+"a": [
+"1.9979577895172054",
+"-0.9979604544740409"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 5.0,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001145779929854",
+"-1.9997017060300526",
+"0.9995909827824702"
+],
+"a": [
+"1.9997017060300526",
+"-0.9997055607754555"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Elite%20Squad%20The%20Enemy%20Within%20%282010%29%28Po%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -244599,6 +244633,144 @@
 "avs": ""
 },
 {
+"title": "Violent Cop",
+"year": "1989",
+"audioTypes": [
+"LPCM 2.0"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/violent-cop/#lpcm-20",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001910490106223",
+"-1.9979726847171628",
+"0.9977853434098856"
+],
+"a": [
+"1.9979732261423586",
+"-0.9979758509953116"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001910490106223",
+"-1.9979726847171628",
+"0.9977853434098856"
+],
+"a": [
+"1.9979732261423586",
+"-0.9979758509953116"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001910490106223",
+"-1.9979726847171628",
+"0.9977853434098856"
+],
+"a": [
+"1.9979732261423586",
+"-0.9979758509953116"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001910490106223",
+"-1.9979726847171628",
+"0.9977853434098856"
+],
+"a": [
+"1.9979732261423586",
+"-0.9979758509953116"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001910490106223",
+"-1.9979726847171628",
+"0.9977853434098856"
+],
+"a": [
+"1.9979732261423586",
+"-0.9979758509953116"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 3.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001910490106223",
+"-1.9979726847171628",
+"0.9977853434098856"
+],
+"a": [
+"1.9979732261423586",
+"-0.9979758509953116"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Violent%20Cop%20%281989%29%28Ja%29%20LPCM%202.0.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "Death Race Beyond Anarchy",
 "year": "2018",
 "audioTypes": [
@@ -245869,63 +246041,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Line%20%282009%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Thirst",
-"year": "2009",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/thirst/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 30.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.001171785344505",
-"-1.9984469908110545",
-"0.9972848820879135"
-],
-"a": [
-"1.9984510623011702",
-"-0.9984525959423031"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 50.0,
-"gain": 8.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0007800328947898",
-"-1.9989574292802383",
-"0.998188100056822"
-],
-"a": [
-"1.9989574292802383",
-"-0.9989681329516119"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Thirst%20%282009%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -259302,63 +259417,6 @@
 "avs": ""
 },
 {
-"title": "The 12th Man",
-"year": "2017",
-"audioTypes": [
-"DTS-HD MA 5.1 Da"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-12th-man/#dts-hd-ma-51-da",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 13.0,
-"gain": 16.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0005074962885725",
-"-1.9993281111117882",
-"0.998822432674292"
-],
-"a": [
-"1.9993288759823367",
-"-0.9993291640923162"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 15.0,
-"gain": 4.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001140070581542",
-"-1.999609197463594",
-"0.9994961540460481"
-],
-"a": [
-"1.999609197463594",
-"-0.9996101611042023"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%2012th%20Man%20%282017%29%20DTS-HD%20MA%205.1%20Da.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Already Gone",
 "year": "2019",
 "audioTypes": [
@@ -263217,64 +263275,6 @@
 "avs": ""
 },
 {
-"title": "Weathering with You",
-"year": "2019",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/weathering-with-you/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 8.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001900892257025",
-"-1.9993498783967667",
-"0.9991604678684562"
-],
-"a": [
-"1.9993500826483133",
-"-0.9993503528426118"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 30.0,
-"gain": 8.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000570509656609",
-"-1.998048057085731",
-"0.9974836517401895"
-],
-"a": [
-"1.9980498941562612",
-"-0.9980523243262683"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Weathering%20with%20You%20%282019%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "Friday the 13th",
 "year": "2009",
 "audioTypes": [
@@ -265092,64 +265092,6 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/El%20Gringo%20%282012%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
-"title": "Wings of Honneamise",
-"year": "1987",
-"audioTypes": [
-"TrueHD 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/wings-of-honneamise/#truehd-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 22.0,
-"gain": 9.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0004717055448968",
-"-1.9986094831558106",
-"0.9981412558634332"
-],
-"a": [
-"1.9986106052167878",
-"-0.9986118393473529"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 22.0,
-"gain": 9.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0004717055448968",
-"-1.9986094831558106",
-"0.9981412558634332"
-],
-"a": [
-"1.9986106052167878",
-"-0.9986118393473529"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wings%20of%20Honneamise%20%281987%29%20TrueHD%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -277302,6 +277244,83 @@
 "avs": ""
 },
 {
+"title": "The Wolf's Call",
+"year": "2019",
+"audioTypes": [
+"TrueHD Atmos"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-wolfs-call/#truehd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 11.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000342494835218",
+"-1.9992244973608437",
+"0.9988833656508198"
+],
+"a": [
+"1.9992249868330016",
+"-0.9992253710138795"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 11.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000342494835218",
+"-1.9992244973608437",
+"0.9988833656508198"
+],
+"a": [
+"1.9992249868330016",
+"-0.9992253710138795"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 15.0,
+"gain": 7.0,
+"q": 3.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0001161006434631",
+"-1.9998115838323354",
+"0.9996964469270136"
+],
+"a": [
+"1.9998115838323354",
+"-0.9998125475704768"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Wolf%27s%20Call%20%282019%29%28Fr%29%20TrueHD%20Atmos.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
 "title": "The Prophecy 3 The Ascent",
 "year": "2000",
 "audioTypes": [
@@ -287076,63 +287095,6 @@
 "avs": ""
 },
 {
-"title": "Elite Squad The Enemy Within",
-"year": "2010",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mobe1969",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/elite-squad-the-enemy-within/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 28.0,
-"gain": 4.0,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.000264434761369",
-"-1.99795701015965",
-"0.997696799070228"
-],
-"a": [
-"1.9979577895172054",
-"-0.9979604544740409"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 30.0,
-"gain": 5.0,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001145779929854",
-"-1.9997017060300526",
-"0.9995909827824702"
-],
-"a": [
-"1.9997017060300526",
-"-0.9997055607754555"
-]
-}
-}
-}
-],
-"images": [
-"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Elite%20Squad%20The%20Enemy%20Within%20%282010%29%20DTS-HD%20MA%205.1.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": ""
-},
-{
 "title": "American Heist",
 "year": "2014",
 "audioTypes": [
@@ -289125,6 +289087,44 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Infidel%20%282019%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "Elite Squad",
+"year": "2007",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/elite-squad/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 13.0,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0005606244817689",
+"-1.9989921704612925",
+"0.9984348126553352"
+],
+"a": [
+"1.9989934381403887",
+"-0.9989941694580078"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Elite%20Squad%20%282007%29%28Po%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
