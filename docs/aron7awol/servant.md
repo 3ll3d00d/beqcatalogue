@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-## Season 2 Episodes 1-3
+## Season 2 Episodes 1-4
 
 * DD+ Atmos
 

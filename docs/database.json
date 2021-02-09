@@ -38420,6 +38420,84 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56753406"
 },
 {
+"title": "Suicide Squad: Hell to Pay",
+"year": "2018",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "aron7awol",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/60485544/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 5.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001928924451398",
+"-1.998869208230097",
+"0.9986777857664169"
+],
+"a": [
+"1.998869534636351",
+"-0.9988703518053027"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 5.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001928924451398",
+"-1.998869208230097",
+"0.9986777857664169"
+],
+"a": [
+"1.998869534636351",
+"-0.9988703518053027"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 55.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000206848317077",
+"-1.9964143868555533",
+"0.9964066370017057"
+],
+"a": [
+"1.9964143868555533",
+"-0.9964273218334134"
+]
+}
+}
+}
+],
+"images": [
+"https://i.imgur.com/tTtTNMA.jpg",
+"https://i.imgur.com/bftECDy.png"
+],
+"warning": "",
+"mv": "+4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60485544"
+},
+{
 "title": "Terminator 2: Judgment Day",
 "year": "1991",
 "audioTypes": [
@@ -177235,7 +177313,7 @@
 "DD+ Atmos"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/servant/#season-2-episodes-1-3",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/servant/#season-2-episodes-1-4",
 "filters": [
 {
 "type": "LowShelf",
@@ -177302,7 +177380,7 @@
 ],
 "content_type": "TV",
 "season": "2",
-"episode": "1,2,3",
+"episode": "1,2,3,4",
 "mv": "+6.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60421061"
 },
@@ -182213,7 +182291,7 @@
 "DD+ Atmos"
 ],
 "author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/wandavision/#season-1-episodes-1-4",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/wandavision/#season-1-episodes-1-5",
 "filters": [
 {
 "type": "LowShelf",
@@ -182300,7 +182378,7 @@
 ],
 "content_type": "TV",
 "season": "1",
-"episode": "1,2,3,4",
+"episode": "1,2,3,4,5",
 "mv": "+6.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60421041"
 },
@@ -182734,136 +182812,6 @@
 "episode": "",
 "mv": "+6.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59557270"
-},
-{
-"title": "The Snowman",
-"author": "mobe1969",
-"content_type": "film",
-"year": "2017",
-"audioTypes": [
-"DTS-HD MA 7.1"
-],
-"filters": [
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 6.1,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002599697476402",
-"-1.9987637940010903",
-"0.9985057948334636"
-],
-"a": [
-"1.9987642911289751",
-"-0.998765267453219"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 6.1,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002599697476402",
-"-1.9987637940010903",
-"0.9985057948334636"
-],
-"a": [
-"1.9987642911289751",
-"-0.998765267453219"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 6.1,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002599697476402",
-"-1.9987637940010903",
-"0.9985057948334636"
-],
-"a": [
-"1.9987642911289751",
-"-0.998765267453219"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 6.1,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002599697476402",
-"-1.9987637940010903",
-"0.9985057948334636"
-],
-"a": [
-"1.9987642911289751",
-"-0.998765267453219"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 6.1,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002599697476402",
-"-1.9987637940010903",
-"0.9985057948334636"
-],
-"a": [
-"1.9987642911289751",
-"-0.998765267453219"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 28.0,
-"gain": 8.0,
-"q": 4.1,
-"biquads": {
-"96000": {
-"b": [
-"1.0002131623525843",
-"-1.9997146601034799",
-"0.9995048556835039"
-],
-"a": [
-"1.9997146601034799",
-"-0.9997180180360882"
-]
-}
-}
-}
-]
 },
 {
 "title": "Cloud Atlas",
@@ -185304,6 +185252,124 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Universal%20Soldier%20Day%20of%20Reckoning%20%282012%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "The Railway Man",
+"year": "2013",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-railway-man/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 2.9,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001367747181893",
+"-1.9984941808487178",
+"0.9983594293849503"
+],
+"a": [
+"1.9984944680057677",
+"-0.9984959169460889"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 2.9,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001367747181893",
+"-1.9984941808487178",
+"0.9983594293849503"
+],
+"a": [
+"1.9984944680057677",
+"-0.9984959169460889"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 2.9,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001367747181893",
+"-1.9984941808487178",
+"0.9983594293849503"
+],
+"a": [
+"1.9984944680057677",
+"-0.9984959169460889"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 2.9,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001367747181893",
+"-1.9984941808487178",
+"0.9983594293849503"
+],
+"a": [
+"1.9984944680057677",
+"-0.9984959169460889"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 2.9,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001367747181893",
+"-1.9984941808487178",
+"0.9983594293849503"
+],
+"a": [
+"1.9984944680057677",
+"-0.9984959169460889"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Railway%20Man%20%282013%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -196248,6 +196314,143 @@
 ],
 "images": [
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Getaway%20%282013%29%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": ""
+},
+{
+"title": "The Snowman",
+"year": "2017",
+"audioTypes": [
+"DTS-HD MA 7.1"
+],
+"content_type": "film",
+"author": "mobe1969",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mobe1969/the-snowman/#dts-hd-ma-71",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 6.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002599697476402",
+"-1.9987637940010903",
+"0.9985057948334636"
+],
+"a": [
+"1.9987642911289751",
+"-0.998765267453219"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 6.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002599697476402",
+"-1.9987637940010903",
+"0.9985057948334636"
+],
+"a": [
+"1.9987642911289751",
+"-0.998765267453219"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 6.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002599697476402",
+"-1.9987637940010903",
+"0.9985057948334636"
+],
+"a": [
+"1.9987642911289751",
+"-0.998765267453219"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 6.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002599697476402",
+"-1.9987637940010903",
+"0.9985057948334636"
+],
+"a": [
+"1.9987642911289751",
+"-0.998765267453219"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 6.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002599697476402",
+"-1.9987637940010903",
+"0.9985057948334636"
+],
+"a": [
+"1.9987642911289751",
+"-0.998765267453219"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": 8.0,
+"q": 4.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0002131623525843",
+"-1.9997146601034799",
+"0.9995048556835039"
+],
+"a": [
+"1.9997146601034799",
+"-0.9997180180360882"
+]
+}
+}
+}
+],
+"images": [
+"https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Snowman%20%282017%29%20DTS-HD%20MA%207.1.jpg"
 ],
 "warning": "",
 "mv": "0",
