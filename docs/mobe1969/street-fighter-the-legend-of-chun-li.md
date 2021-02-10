@@ -1,4 +1,4 @@
-# Street Fighter: The Legend of Chun-Li
+# Street Fighter The Legend of Chun-Li
 
 * Author: mobe1969
 * Production Year: 2009

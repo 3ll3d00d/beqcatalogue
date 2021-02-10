@@ -1,4 +1,4 @@
-# Bubba Ho-tep
+# Bubba Ho-Tep
 
 * Author: mobe1969
 * Production Year: 2002

@@ -1,4 +1,4 @@
-# K-19: The Widowmaker
+# K-19 The Widowmaker
 
 * Author: mobe1969
 * Production Year: 2002

@@ -1,16 +1,13 @@
 # Face-Off
 
 * Author: mobe1969
+* Production Year: 1997
 
 ## AC3 5.1
 
-* Release Date: 1997
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Face-Off%20%281997%29%20AC3%205.1.jpg)
 
-![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Face-Off%20%281997%29%20AC3%205.1.jpg)
+## AC3 5.1
 
-## DTS-ES 6.1
-
-* Release Date: 1997
-
-![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Face-Off%20%281997%29%20DTS-ES%206.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Face-Off%20%281997%29%20DTS-ES%206.1.jpg)
 
