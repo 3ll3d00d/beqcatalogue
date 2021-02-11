@@ -14515,163 +14515,6 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56887052"
 },
 {
-"title": "The Rock",
-"year": "1996",
-"audioTypes": [
-"LPCM 5.1"
-],
-"content_type": "film",
-"author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/58049636/#lpcm-51",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 65.0,
-"gain": 2.4,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000588524365627",
-"-1.9962835097705074",
-"0.9957130504679702"
-],
-"a": [
-"1.9962835097705074",
-"-0.9963015748335974"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 55.0,
-"gain": -3.9,
-"q": 2.5,
-"biquads": {
-"96000": {
-"b": [
-"0.9996743121628132",
-"-1.9981863625701142",
-"0.9985249968659773"
-],
-"a": [
-"1.9981863625701142",
-"-0.9981993090287907"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 29.0,
-"gain": 5.3,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002909849509467",
-"-1.998368050170977",
-"0.9980819490388018"
-],
-"a": [
-"1.9983691655122795",
-"-0.9983718186484463"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 29.0,
-"gain": 5.3,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002909849509467",
-"-1.998368050170977",
-"0.9980819490388018"
-],
-"a": [
-"1.9983691655122795",
-"-0.9983718186484463"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 29.0,
-"gain": 5.3,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002909849509467",
-"-1.998368050170977",
-"0.9980819490388018"
-],
-"a": [
-"1.9983691655122795",
-"-0.9983718186484463"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 29.0,
-"gain": 5.3,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002909849509467",
-"-1.998368050170977",
-"0.9980819490388018"
-],
-"a": [
-"1.9983691655122795",
-"-0.9983718186484463"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 29.0,
-"gain": 5.3,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002909849509467",
-"-1.998368050170977",
-"0.9980819490388018"
-],
-"a": [
-"1.9983691655122795",
-"-0.9983718186484463"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://i.imgur.com/8Wa9FIn.jpg",
-"https://i.imgur.com/MClMPz4.png"
-],
-"warning": "",
-"mv": "-1",
-"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58049636"
-},
-{
 "title": "The Hunt",
 "year": "2020",
 "audioTypes": [
@@ -36045,6 +35888,143 @@
 "warning": "",
 "mv": "-3",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58275024"
+},
+{
+"title": "The Rock",
+"year": "1996",
+"audioTypes": [
+"DTS-HD MA 5.1",
+"LPCM 5.1"
+],
+"content_type": "film",
+"author": "aron7awol",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/60487650/#dts-hd-ma-51-lpcm-51",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": -12.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9997556123401596",
+"-1.9993468368534801",
+"0.9995916527417464"
+],
+"a": [
+"1.9993468368534801",
+"-0.999347265081906"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 11.0,
+"gain": -8.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9998283528520062",
+"-1.999429123979148",
+"0.9996012893048821"
+],
+"a": [
+"1.999429123979148",
+"-0.9994296421568885"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 29.0,
+"gain": 9.5,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0005844299161768",
+"-1.9983927294481902",
+"0.9978145191691548"
+],
+"a": [
+"1.9983947975850174",
+"-0.998396880948504"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 29.0,
+"gain": 9.5,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0005844299161768",
+"-1.9983927294481902",
+"0.9978145191691548"
+],
+"a": [
+"1.9983947975850174",
+"-0.998396880948504"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 29.0,
+"gain": 9.5,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0005844299161768",
+"-1.9983927294481902",
+"0.9978145191691548"
+],
+"a": [
+"1.9983947975850174",
+"-0.998396880948504"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 70.0,
+"gain": 1.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0003160530394724",
+"-1.9957124963657467",
+"0.9954173885560953"
+],
+"a": [
+"1.9957124963657467",
+"-0.9957334415955678"
+]
+}
+}
+}
+],
+"images": [
+"https://i.imgur.com/Lfi6aiy.jpg",
+"https://i.imgur.com/iMC0SVZ.png"
+],
+"warning": "",
+"mv": "-0.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60487650"
 },
 {
 "title": "Zero Dark Thirty",
@@ -129081,6 +129061,104 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-56737678"
 },
 {
+"title": "The Kid Detective",
+"year": "2020",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "aron7awol",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/60487527/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.0,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0002584700808121",
+"-1.99874637388247",
+"0.9984916832253878"
+],
+"a": [
+"1.998747316494873",
+"-0.998749210693797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.0,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0002584700808121",
+"-1.99874637388247",
+"0.9984916832253878"
+],
+"a": [
+"1.998747316494873",
+"-0.998749210693797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 60.0,
+"gain": 5.0,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0005169884277818",
+"-1.9968972511646153",
+"0.9964007955683676"
+],
+"a": [
+"1.9969017443505348",
+"-0.9969132908102296"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.9,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0003381821162178",
+"-1.9937620555626623",
+"0.9934665774264448"
+],
+"a": [
+"1.9937620555626623",
+"-0.9938047595426629"
+]
+}
+}
+}
+],
+"images": [
+"https://i.imgur.com/yzrrB2j.jpg",
+"https://i.imgur.com/WFWz3II.png"
+],
+"warning": "",
+"mv": "+10.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60487527"
+},
+{
 "title": "The Thing",
 "year": "1982",
 "audioTypes": [
@@ -171758,6 +171836,122 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59897520"
 },
 {
+"title": "The Sinner",
+"year": "2017",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"author": "aron7awol",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-sinner/#season-1",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 55.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000041370773041",
+"-1.996434857208991",
+"0.9964064215464397"
+],
+"a": [
+"1.996434857208991",
+"-0.9964477923194807"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 6.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.00029048160624",
+"-1.9985912654196547",
+"0.9983039824687316"
+],
+"a": [
+"1.9985920631847085",
+"-0.9985936663099184"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://i.imgur.com/Ita0VxH.jpg"
+],
+"content_type": "TV",
+"season": "1",
+"episode": "",
+"mv": "+6.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59314466"
+},
+{
+"title": "The Sinner",
+"year": "2017",
+"audioTypes": [
+"DD+"
+],
+"author": "aron7awol",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-sinner/#season-3",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 34.0,
+"gain": 4.8,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0002808223894502",
+"-1.9982344589309617",
+"0.9979601587191075"
+],
+"a": [
+"1.9982358434590262",
+"-0.998239596580493"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 65.0,
+"gain": 0.6,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000146663639239",
+"-1.9958805665480863",
+"0.9957519643255639"
+],
+"a": [
+"1.9958805665480863",
+"-0.995898627964803"
+]
+}
+}
+}
+],
+"images": [
+"https://i.imgur.com/ia4xZm3.jpg"
+],
+"content_type": "TV",
+"season": "3",
+"episode": "",
+"mv": "+4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60490772"
+},
+{
 "title": "Into the Badlands",
 "year": "2015",
 "audioTypes": [
@@ -174032,64 +174226,6 @@
 "episode": "",
 "mv": "0",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59366890"
-},
-{
-"title": "The Sinner",
-"year": "2017",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"author": "aron7awol",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/the-sinner/#season-1",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 55.0,
-"gain": 0.2,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000041370773041",
-"-1.996434857208991",
-"0.9964064215464397"
-],
-"a": [
-"1.996434857208991",
-"-0.9964477923194807"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 23.0,
-"gain": 6.0,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.00029048160624",
-"-1.9985912654196547",
-"0.9983039824687316"
-],
-"a": [
-"1.9985920631847085",
-"-0.9985936663099184"
-]
-}
-},
-"count": 1
-}
-],
-"images": [
-"https://i.imgur.com/Ita0VxH.jpg"
-],
-"content_type": "TV",
-"season": "1",
-"episode": "",
-"mv": "+6.0",
-"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59314466"
 },
 {
 "title": "Homecoming",
