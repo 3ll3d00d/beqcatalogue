@@ -4,57 +4,57 @@
 
 ## Season 1
 
-* TrueHD Atmos
+* Atmos
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E1-3%29%20TrueHD%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E1-3%29%20Atmos.jpg)
 
 ## Season 1
 
-* TrueHD Atmos
+* Atmos
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E1%29%20TrueHD%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E1%29%20Atmos.jpg)
 
 ## Season 1 Episode 2
 
-* TrueHD Atmos
+* Atmos
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E2%29%20TrueHD%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E2%29%20Atmos.jpg)
 
 ## Season 1 Episode 3
 
-* TrueHD Atmos
+* Atmos
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E3%29%20TrueHD%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E3%29%20Atmos.jpg)
 
 ## Season 1 Episode 4
 
-* TrueHD Atmos
+* Atmos
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E4%29%20TrueHD%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E4%29%20Atmos.jpg)
 
 ## Season 1 Episodes 4-5
 
-* TrueHD Atmos
+* Atmos
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E4-5%29%20TrueHD%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E4-5%29%20Atmos.jpg)
 
 ## Season 1 Episode 5
 
-* TrueHD Atmos
+* Atmos
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E5%29%20TrueHD%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E5%29%20Atmos.jpg)
 

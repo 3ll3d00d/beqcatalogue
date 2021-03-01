@@ -3,7 +3,7 @@
 * Author: mobe1969
 * Production Year: 2008
 
-## DTS-HD MA 5.1 Da
+## DTS-HD MA 5.1
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flame%20and%20Citron%20%282008%29%20DTS-HD%20MA%205.1%20Da.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flame%20and%20Citron%20%282008%29%28Da%29%20DTS-HD%20MA%205.1.jpg)
 
