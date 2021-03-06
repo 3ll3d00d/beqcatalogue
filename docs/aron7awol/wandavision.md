@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-## Season 6.5 Episodes 1-8
+## Season 6.5
 
 * DD+ Atmos
 
