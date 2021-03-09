@@ -319,7 +319,7 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 'overview': meta.get('overview', ''),
                 'theMovieDB': meta.get('theMovieDB', ''),
                 'rating': meta.get('rating', ''),
-                'genres': meta.get('genres', '')
+                'genres': meta.get('genres', [])
             })
 
 
@@ -461,7 +461,7 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             'overview': meta.get('overview', ''),
             'theMovieDB': meta.get('theMovieDB', ''),
             'rating': meta.get('rating', ''),
-            'genres': meta.get('genres', '')
+            'genres': meta.get('genres', [])
         })
 
 
