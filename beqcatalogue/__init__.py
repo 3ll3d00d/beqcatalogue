@@ -82,6 +82,9 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
                         meta['audioType'] = [at for at in audio_types if at]
                     elif m.tag == 'beq_season':
                         parse_season(m, meta, xml)
+                    elif m.tag == 'beq_genres':
+                        genres = [c.text.strip() for c in m]
+                        meta['genres'] = [at for at in genres if at]
         filts = [f for f in xml_to_filt(xml, unroll=True)]
         meta['jsonfilters'] = [f.to_map() for f in filts]
         meta['filters'] = '^'.join([str(f) for f in filts])
@@ -307,7 +310,16 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 'images': actual_img_links,
                 'warning': meta.get('warning', ''),
                 'mv': meta.get('gain', '0'),
-                'avs': meta.get('avs', '')
+                'avs': meta.get('avs', ''),
+                'sortTitle': meta.get('sortTitle', ''),
+                'edition': meta.get('edition', ''),
+                'note': meta.get('note', ''),
+                'language': meta.get('language', ''),
+                'source': meta.get('source', ''),
+                'overview': meta.get('overview', ''),
+                'theMovieDB': meta.get('theMovieDB', ''),
+                'rating': meta.get('rating', ''),
+                'genres': meta.get('genres', [])
             })
 
 
@@ -431,15 +443,25 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             'title': meta['title'],
             'year': meta['year'],
             'audioTypes': meta.get('audioType', []),
+            'content_type': 'TV',
             'author': author,
             'catalogue_url': beq_catalogue_url,
             'filters': meta['jsonfilters'],
             'images': actual_img_links,
-            'content_type': 'TV',
+            'warning': meta.get('warning', ''),
             'season': season,
             'episode': episodes,
             'mv': meta.get('gain', '0'),
-            'avs': meta.get('avs', '')
+            'avs': meta.get('avs', ''),
+            'sortTitle': meta.get('sortTitle', ''),
+            'edition': meta.get('edition', ''),
+            'note': meta.get('note', ''),
+            'language': meta.get('language', ''),
+            'source': meta.get('source', ''),
+            'overview': meta.get('overview', ''),
+            'theMovieDB': meta.get('theMovieDB', ''),
+            'rating': meta.get('rating', ''),
+            'genres': meta.get('genres', [])
         })
 
 
