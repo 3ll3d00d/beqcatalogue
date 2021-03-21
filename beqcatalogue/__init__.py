@@ -94,7 +94,10 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
 
 def parse_season(m, meta, xml):
     try:
-        meta['season'] = {'id': m.attrib['id']}
+        meta['season'] = {
+            'id': m.attrib['id'],
+            'complete': False
+        }
         for c in m:
             if c.tag == 'episodes':
                 meta['season']['episode_count'] = c.attrib['count']
@@ -381,7 +384,7 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
                     sort_key += m['episode']
             else:
                 sort_key = season_meta['number']
-                if not season_meta['complete']:
+                if not season_meta.get('complete', False):
                     sort_key += season_meta['episodes']
         return sort_key
 
