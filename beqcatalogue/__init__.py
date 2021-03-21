@@ -96,7 +96,8 @@ def parse_season(m, meta, xml):
     try:
         meta['season'] = {
             'id': m.attrib['id'],
-            'complete': False
+            'complete': False,
+            'episodes': 0
         }
         for c in m:
             if c.tag == 'episodes':
