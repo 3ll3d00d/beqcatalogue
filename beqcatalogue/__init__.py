@@ -319,6 +319,7 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 'overview': meta.get('overview', ''),
                 'theMovieDB': meta.get('theMovieDB', ''),
                 'rating': meta.get('rating', ''),
+                'runtime': meta.get('runtime', '0'),
                 'genres': meta.get('genres', [])
             })
 
