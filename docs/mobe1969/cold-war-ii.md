@@ -7,7 +7,7 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cold%20War%20II%20%282016%29%28Ca%29%20DTS-HD%20MA%207.1.jpg)
 
-## DTS-HD MA 7.1
+## LPCM 5.1
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cold%20War%20II%20%282016%29%28Ca%29%20Auro%203D.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cold%20War%20II%20%282016%29%28Ca%29%20LPCM%205.1.jpg)
 
