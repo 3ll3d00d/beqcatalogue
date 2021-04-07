@@ -57,12 +57,10 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
 
     :return:
     '''
-    import xml.etree.ElementTree as ET
     import glob
     elements = []
     for xml in glob.glob(f"{path1}{path2}/**/*.xml", recursive=True):
-        et_tree = ET.parse(str(xml))
-        root = et_tree.getroot()
+        root = extract_root(xml)
         file_name = xml[:-4]
         meta = {
             'repo_file': str(xml),
@@ -90,6 +88,13 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
         meta['filters'] = '^'.join([str(f) for f in filts])
         elements.append(meta)
     return elements
+
+
+def extract_root(xml):
+    import xml.etree.ElementTree as ET
+    et_tree = ET.parse(str(xml))
+    root = et_tree.getroot()
+    return root
 
 
 def parse_season(m, meta, xml):
