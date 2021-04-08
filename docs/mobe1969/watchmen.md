@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-## Season 1
+## Season 1 Episode 1
 
 * DTS-HD MA 5.1
 

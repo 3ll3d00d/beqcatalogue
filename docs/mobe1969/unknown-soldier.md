@@ -2,21 +2,21 @@
 
 * Author: mobe1969
 
-## Season 1
-
-* Atmos
-
-* Production Year: 2018
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E1-3%29%20Atmos.jpg)
-
-## Season 1
+## Season 1 Episode 1
 
 * Atmos
 
 * Production Year: 2018
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E1%29%20Atmos.jpg)
+
+## Season 1 Episodes 1-3
+
+* Atmos
+
+* Production Year: 2018
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unknown%20Soldier%20%282018%29%28Fi%29%28E1-3%29%20Atmos.jpg)
 
 ## Season 1 Episode 2
 
