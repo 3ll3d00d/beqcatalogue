@@ -8,7 +8,7 @@
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Haunting%20of%20Hill%20House/Season%201/The%20Haunting%20of%20Hill%20House%20%282018%29%28S1-E01%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Haunting%20of%20Hill%20House/Season%201/The%20Haunting%20of%20Hill%20House%20%282018%29%28S1-E01%29%28Extended%29%20TrueHD%205.1.jpg)
 
 ## Season 1 Episode 1
 
@@ -16,7 +16,7 @@
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Haunting%20of%20Hill%20House/Season%201/The%20Haunting%20of%20Hill%20House%20%282018%29%28S1-E01%29%28Extended%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Haunting%20of%20Hill%20House/Season%201/The%20Haunting%20of%20Hill%20House%20%282018%29%28S1-E01%29%20TrueHD%205.1.jpg)
 
 ## Season 1 Episode 10
 
@@ -56,7 +56,7 @@
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Haunting%20of%20Hill%20House/Season%201/The%20Haunting%20of%20Hill%20House%20%282018%29%28S1-E05%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Haunting%20of%20Hill%20House/Season%201/The%20Haunting%20of%20Hill%20House%20%282018%29%28S1-E05%29%28Extended%29%20TrueHD%205.1.jpg)
 
 ## Season 1 Episode 5
 
@@ -64,7 +64,7 @@
 
 * Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Haunting%20of%20Hill%20House/Season%201/The%20Haunting%20of%20Hill%20House%20%282018%29%28S1-E05%29%28Extended%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Haunting%20of%20Hill%20House/Season%201/The%20Haunting%20of%20Hill%20House%20%282018%29%28S1-E05%29%20TrueHD%205.1.jpg)
 
 ## Season 1 Episode 6
 
