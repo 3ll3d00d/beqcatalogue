@@ -74,7 +74,11 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
                     if len(m) == 0:
                         txt = m.text
                         if txt:
-                            meta[m.tag[4:]] = m.text
+                            if m.tag == 'beq_collection':
+                                if 'id' in m.attrib:
+                                    meta[m.tag[4:]] = {'id': m.attrib['id'], 'name': m.text}
+                            else:
+                                meta[m.tag[4:]] = m.text
                     elif m.tag == 'beq_audioTypes':
                         audio_types = [c.text.strip() for c in m]
                         meta['audioType'] = [at for at in audio_types if at]
@@ -329,7 +333,9 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 'theMovieDB': meta.get('theMovieDB', ''),
                 'rating': meta.get('rating', ''),
                 'runtime': meta.get('runtime', '0'),
-                'genres': meta.get('genres', [])
+                'genres': meta.get('genres', []),
+                'altTitle': meta.get('alt_title', ''),
+                'collection': meta.get('collection', {})
             })
 
 
