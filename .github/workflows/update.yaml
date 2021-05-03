@@ -58,15 +58,7 @@ jobs:
         run: |
           pipenv run python beqcatalogue/__init__.py
           echo $GITHUB_SHA > docs/version.txt
-      - name: Calculate diffs
-        uses: technote-space/get-diff-action@v4
-        with:
-          PATTERNS: |
-            +docs/**/*.*
-            !docs/version.txt
       - name: Publish Catalogue
         uses: stefanzweifel/git-auto-commit-action@v4
-        if: env.GIT_DIFF
         with:
           commit_message: Updated catalogue
-          file_pattern: . :(exclude)docs/version.txt
