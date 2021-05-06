@@ -4,13 +4,13 @@
 
 ## DTS-HD MA 5.1
 
-* Production Year: 2007
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rogue%20%282007%29%20DTS-HD%20MA%205.1.jpg)
-
-## DTS-HD MA 5.1
-
 * Production Year: 2020
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rogue%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+
+## DTS-HD MA 5.1
+
+* Production Year: 2007
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rogue%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 
