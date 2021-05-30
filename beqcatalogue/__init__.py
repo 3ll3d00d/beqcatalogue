@@ -1,10 +1,12 @@
 import csv
 import os
 import re
+from collections import defaultdict
 from operator import itemgetter
-from typing import Tuple
+from typing import Tuple, List
 from urllib import parse
 
+import hashlib
 import json
 
 from itertools import groupby
@@ -137,20 +139,31 @@ def group_mobe1969_film_content(content_meta):
             else:
                 by_title[title] = [meta]
         else:
-            json = {
+            entry = {
                 'title': meta['file_name'],
                 'author': 'mobe1969',
                 'content_type': meta['content_type']
             }
             match = fallback_pattern.match(meta['file_name'])
             if match:
-                json['title'] = match.group(1)
-                json['year'] = match.group(2)
-                json['audioTypes'] = match.group(3).split('+')
-            print(f"Missing title entry, extracted {json}")
-            json['filters'] = meta['jsonfilters']
-            json_catalogue.append(json)
+                entry['title'] = match.group(1)
+                entry['year'] = match.group(2)
+                entry['audioTypes'] = match.group(3).split('+')
+            print(f"Missing title entry, extracted {entry}")
+            entry['filters'] = meta['jsonfilters']
+            add_to_catalogue(entry)
     return by_title
+
+
+def add_to_catalogue(entry: dict):
+    entry['digest'] = digest(entry)
+    json_catalogue.append(entry)
+
+
+def digest(entry: dict) -> str:
+    digest_keys = ['title', 'filters', 'mv', 'season', 'episode']
+    to_hash = json.dumps(slice_dict(digest_keys, entry)).encode('utf-8')
+    return hashlib.sha256(to_hash).hexdigest()
 
 
 def group_mobe1969_tv_content(content_meta):
@@ -185,19 +198,19 @@ def group_mobe1969_tv_content(content_meta):
             else:
                 by_title[title] = [meta]
         else:
-            json = {
+            entry = {
                 'title': meta['file_name'],
                 'author': 'mobe1969',
                 'content_type': meta['content_type']
             }
             match = fallback_pattern.match(meta['file_name'])
             if match:
-                json['title'] = match.group(1)
-                json['year'] = match.group(2)
-                json['audioTypes'] = match.group(3).split('+')
-            print(f"Missing title entry, extracted {json}")
-            json['filters'] = meta['jsonfilters']
-            json_catalogue.append(json)
+                entry['title'] = match.group(1)
+                entry['year'] = match.group(2)
+                entry['audioTypes'] = match.group(3).split('+')
+            print(f"Missing title entry, extracted {entry}")
+            entry['filters'] = meta['jsonfilters']
+            add_to_catalogue(entry)
     return by_title
 
 
@@ -312,7 +325,7 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 db_writer.writerow(cols + actual_img_links)
             else:
                 print(f"No audioTypes in {metas[0]['title']}")
-            json_catalogue.append({
+            add_to_catalogue({
                 'title': meta['title'],
                 'year': meta['year'],
                 'audioTypes': meta.get('audioType', []),
@@ -335,7 +348,8 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 'runtime': meta.get('runtime', '0'),
                 'genres': meta.get('genres', []),
                 'altTitle': meta.get('alt_title', ''),
-                'collection': meta.get('collection', {})
+                'collection': meta.get('collection', {}),
+                'underlying': meta['file_name']
             })
 
 
@@ -455,7 +469,7 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             print(f"![img {img_idx}]({img})", file=content_md)
             print('', file=content_md)
 
-        json_catalogue.append({
+        add_to_catalogue({
             'title': meta['title'],
             'year': meta['year'],
             'audioTypes': meta.get('audioType', []),
@@ -477,7 +491,8 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             'overview': meta.get('overview', ''),
             'theMovieDB': meta.get('theMovieDB', ''),
             'rating': meta.get('rating', ''),
-            'genres': meta.get('genres', [])
+            'genres': meta.get('genres', []),
+            'underlying': meta['file_name']
         })
 
 
@@ -501,6 +516,29 @@ if os.getcwd() == os.path.dirname(os.path.abspath(__file__)):
     os.chdir('..')
 else:
     print(f"CWD: {os.getcwd()}")
+
+
+def slice_dict(keys: List[str], d: dict) -> dict:
+    return {k: d[k] for k in keys if k in d}
+
+
+def detect_duplicate_hashes():
+    hashes = defaultdict(list)
+    slim_keys = ['title', 'author', 'underlying']
+
+    for j in json_catalogue:
+        hashes[j['digest']].append(slice_dict(slim_keys, j))
+
+    unique_count = 0
+    for k, v in hashes.items():
+        if len(v) > 1:
+            formatted = set()
+            for dupe in v:
+                formatted.add(f"{dupe['author']}/{dupe['title']} - {dupe['underlying']}")
+            print(f"DUPLICATE HASH: {k} -> {len(v)}x {formatted}")
+        unique_count += 1
+    print(f"{unique_count} unique catalogue entries generated")
+
 
 if __name__ == '__main__':
     aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film')
@@ -541,5 +579,6 @@ if __name__ == '__main__':
                 print(i, file=index_md)
             print('', file=index_md)
 
+    detect_duplicate_hashes()
     with open('docs/database.json', 'w+') as db_json:
         json.dump(json_catalogue, db_json, indent=0)
