@@ -540,6 +540,12 @@ def detect_duplicate_hashes():
     print(f"{unique_count} unique catalogue entries generated")
 
 
+def parse_diff_file(author: str):
+    with open(f"{author}.diff") as f:
+        for line in f.readlines():
+            pass
+
+
 if __name__ == '__main__':
     aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film')
     print(f"Extracted {len(aron7awol_films)} aron7awol film catalogue entries")
