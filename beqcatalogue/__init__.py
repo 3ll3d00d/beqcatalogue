@@ -1,13 +1,12 @@
 import csv
+import hashlib
+import json
 import os
 import re
 from collections import defaultdict
 from operator import itemgetter
 from typing import Tuple, List
 from urllib import parse
-
-import hashlib
-import json
 
 from itertools import groupby
 from markdown.extensions.toc import slugify
@@ -66,6 +65,7 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
         file_name = xml[:-4]
         meta = {
             'repo_file': str(xml),
+            'git_path': str(xml)[len(path1):],
             'file_name': file_name.split('/')[-1],
             'file_path': '/'.join(file_name[len(path1):].split('/')[:-1]),
             'content_type': content_type
@@ -151,11 +151,11 @@ def group_mobe1969_film_content(content_meta):
                 entry['audioTypes'] = match.group(3).split('+')
             print(f"Missing title entry, extracted {entry}")
             entry['filters'] = meta['jsonfilters']
-            add_to_catalogue(entry)
+            add_to_catalogue(entry, meta['git_path'], 'mobe1969')
     return by_title
 
 
-def add_to_catalogue(entry: dict):
+def add_to_catalogue(entry: dict, path: str, author: str):
     entry['digest'] = digest(entry)
     json_catalogue.append(entry)
 
@@ -210,7 +210,7 @@ def group_mobe1969_tv_content(content_meta):
                 entry['audioTypes'] = match.group(3).split('+')
             print(f"Missing title entry, extracted {entry}")
             entry['filters'] = meta['jsonfilters']
-            add_to_catalogue(entry)
+            add_to_catalogue(entry, meta['git_path'], 'mobe1969')
     return by_title
 
 
@@ -350,7 +350,7 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 'altTitle': meta.get('alt_title', ''),
                 'collection': meta.get('collection', {}),
                 'underlying': meta['file_name']
-            })
+            }, meta['git_path'], author)
 
 
 def format_season_episode(m) -> Tuple[str, str, str, str]:
@@ -493,7 +493,7 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             'rating': meta.get('rating', ''),
             'genres': meta.get('genres', []),
             'underlying': meta['file_name']
-        })
+        }, meta['git_path'], author)
 
 
 def generate_index_entry(author, page_name, content_format, content_name, year, avs_url, multiformat, index_entries,
