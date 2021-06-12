@@ -159,12 +159,12 @@ def add_to_catalogue(entry: dict, path: str, author: str):
     entry['digest'] = digest(entry)
     times = aron7awol_times if author == 'aron7awol' else mobe1969_times
     if path in times:
-        entry['updated_at'] = times[path][0]
-        entry['created_at'] = times[path][1]
+        entry['created_at'] = times[path][0]
+        entry['updated_at'] = times[path][1]
     else:
         print(f"Missing times for {author} / {path}")
-        entry['updated_at'] = 0
         entry['created_at'] = 0
+        entry['updated_at'] = 0
     json_catalogue.append(entry)
 
 
