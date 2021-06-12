@@ -5,7 +5,7 @@ import os
 import re
 from collections import defaultdict
 from operator import itemgetter
-from typing import Tuple, List
+from typing import Tuple, List, Dict
 from urllib import parse
 
 from itertools import groupby
@@ -540,13 +540,35 @@ def detect_duplicate_hashes():
     print(f"{unique_count} unique catalogue entries generated")
 
 
-def parse_diff_file(author: str):
+def load_times(author: str) -> Dict[str, Tuple[int, int]]:
+    times = {}
+    from csv import reader
+    with open(f"{author}.times.csv") as f:
+        for row in reader(f):
+            times[row[0]] = (int(row[1]), int(row[2]))
+    return apply_times_diff(times, author)
+
+
+def apply_times_diff(times: Dict[str, Tuple[int, int]], author: str) -> Dict[str, Tuple[int, int]]:
+    from csv import reader
     with open(f"{author}.diff") as f:
-        for line in f.readlines():
-            pass
+        for row in reader(f):
+            if row[0] in times:
+                old = times[row[0]]
+                times[row[0]] = (old[0], int(row[1]))
+            else:
+                times[row[0]] = (int(row[1]), int(row[1]))
+    with open(f"{author}.times.csv") as f:
+        from csv import writer
+        w = writer(f)
+        for k, v in times.items():
+            w.writerow([k, str(v[0]), str(v[1])])
+    return times
 
 
 if __name__ == '__main__':
+    aron7awol_times = load_times('aron7awol')
+    mobe1969_times = load_times('mobe1969')
     aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film')
     print(f"Extracted {len(aron7awol_films)} aron7awol film catalogue entries")
     aron7awol_tv = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
