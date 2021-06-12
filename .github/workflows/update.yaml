@@ -56,14 +56,16 @@ jobs:
           popd
       - name: Get git metadata
         run: |
+          M_SHA=$(cat mobe1969.sha)
           pushd .input/Mobe1969/miniDSPBEQ
-          git diff --name-only -z $(cat mobe1969.sha)..HEAD | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git diff --name-only -z ${M_SHA}..HEAD | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git --git-dir .input/Mobe1969/miniDSPBEQ/.git rev-parse HEAD > d.sha
           popd
           mv .input/Mobe1969/miniDSPBEQ/d.diff mobe1969.diff
           mv .input/Mobe1969/miniDSPBEQ/d.sha mobe1969.sha
+          A_SHA=$(cat aron7awol.sha)
           pushd .input/bmiller/miniDSPBEQ
-          git diff --name-only -z $(cat aron7awol.sha)..HEAD | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git diff --name-only -z ${A_SHA}..HEAD | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git --git-dir .input/bmiller/miniDSPBEQ/.git rev-parse HEAD > d.sha
           popd
           mv .input/bmiller/miniDSPBEQ/d.diff aron7awol.diff
