@@ -56,9 +56,9 @@ jobs:
           popd
       - name: Get git metadata
         run: |
-          git --git-dir .input/Mobe1969/miniDSPBEQ/.git diff --name-status $(cat mobe1969.sha)..HEAD > mobe1969.diff
+          git --git-dir .input/Mobe1969/miniDSPBEQ/.git diff --name-only -z $(cat mobe1969.sha)..HEAD | xargs -0 -n1 -I{} -- git log -1 --format="\"{}\",%at" {} | sort > mobe1969.diff
           git --git-dir .input/Mobe1969/miniDSPBEQ/.git rev-parse HEAD > mobe1969.sha
-          git --git-dir .input/bmiller/miniDSPBEQ/.git diff --name-status $(cat aron7awol.sha)..HEAD > aron7awol.diff
+          git --git-dir .input/bmiller/miniDSPBEQ/.git diff --name-only -z $(cat aron7awol.sha)..HEAD | xargs -0 -n1 -I{} -- git log -1 --format="\"{}\",%at" {} | sort > aron7awol.diff
           git --git-dir .input/bmiller/miniDSPBEQ/.git rev-parse HEAD > aron7awol.sha
       - name: Update Catalogue
         run: |
