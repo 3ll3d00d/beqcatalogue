@@ -157,6 +157,14 @@ def group_mobe1969_film_content(content_meta):
 
 def add_to_catalogue(entry: dict, path: str, author: str):
     entry['digest'] = digest(entry)
+    times = aron7awol_times if author == 'aron7awol' else mobe1969_times
+    if path in times:
+        entry['updated_at'] = times[path][0]
+        entry['created_at'] = times[path][1]
+    else:
+        print(f"Missing times for {author} / {path}")
+        entry['updated_at'] = 0
+        entry['created_at'] = 0
     json_catalogue.append(entry)
 
 
@@ -558,11 +566,12 @@ def apply_times_diff(times: Dict[str, Tuple[int, int]], author: str) -> Dict[str
                 times[row[0]] = (old[0], int(row[1]))
             else:
                 times[row[0]] = (int(row[1]), int(row[1]))
-    with open(f"{author}.times.csv") as f:
+    with open(f"{author}.times.csv", mode="w") as f:
         from csv import writer
         w = writer(f)
         for k, v in times.items():
-            w.writerow([k, str(v[0]), str(v[1])])
+            vals = [k, str(v[0]), str(v[1])]
+            w.writerow(vals)
     return times
 
 
