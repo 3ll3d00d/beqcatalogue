@@ -82,12 +82,12 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
                             else:
                                 meta[m.tag[4:]] = m.text
                     elif m.tag == 'beq_audioTypes':
-                        audio_types = [c.text.strip() for c in m]
+                        audio_types = [c.text.strip() for c in m if c.text]
                         meta['audioType'] = [at for at in audio_types if at]
                     elif m.tag == 'beq_season':
                         parse_season(m, meta, xml)
                     elif m.tag == 'beq_genres':
-                        genres = [c.text.strip() for c in m]
+                        genres = [c.text.strip() for c in m if c.text]
                         meta['genres'] = [at for at in genres if at]
         filts = [f for f in xml_to_filt(xml, unroll=True)]
         meta['jsonfilters'] = [f.to_map() for f in filts]
