@@ -92,8 +92,17 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
         filts = [f for f in xml_to_filt(xml, unroll=True)]
         meta['jsonfilters'] = [f.to_map() for f in filts]
         meta['filters'] = '^'.join([str(f) for f in filts])
+        suffix = get_title_suffix(meta)
+        meta['page_title'] = f"{meta['title']}_{suffix}" if suffix else meta['title']
         elements.append(meta)
     return elements
+
+
+def get_title_suffix(meta):
+    suffix = meta.get('theMovieDB', None)
+    if not suffix:
+        suffix = meta.get('year', None)
+    return suffix
 
 
 def extract_root(xml):
@@ -129,15 +138,19 @@ def parse_season(m, meta, xml):
 
 
 def group_mobe1969_film_content(content_meta):
-    by_title = {}
+    by_title = defaultdict(list)
     fallback_pattern = re.compile(r'(.*) \((\d{4})\)(?: *\(.*\))? (.*)')
     for meta in content_meta:
         if 'title' in meta:
             title = meta['title']
+            page_title = meta['page_title']
             if title in by_title:
-                by_title[title].append(meta)
+                if page_title == by_title[title][0]['page_title']:
+                    by_title[title].append(meta)
+                else:
+                    by_title[page_title].append(meta)
             else:
-                by_title[title] = [meta]
+                by_title[title].append(meta)
         else:
             entry = {
                 'title': meta['file_name'],
@@ -149,6 +162,7 @@ def group_mobe1969_film_content(content_meta):
                 entry['title'] = match.group(1)
                 entry['year'] = match.group(2)
                 entry['audioTypes'] = match.group(3).split('+')
+            entry['page_title'] = entry['title']
             print(f"Missing title entry, extracted {entry}")
             entry['filters'] = meta['jsonfilters']
             add_to_catalogue(entry, meta['git_path'], 'mobe1969')
