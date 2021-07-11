@@ -1,9 +1,12 @@
 # The Possession
 
-* Author: mobe1969
-* Production Year: 2012
-
 ## DTS-HD MA 5.1
+
+**2012 • PG-13 • 1h 32m • Thriller, Horror • mobe1969**
+
+A young girl buys an antique box at a yard sale, unaware that inside the collectible lives a malicious ancient spirit. The girl's father teams with his ex-wife to find a way to end the curse upon their child.
+
+[TMDB](77883)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Possession%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

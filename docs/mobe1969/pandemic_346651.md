@@ -1,9 +1,12 @@
 # Pandemic
 
-* Author: mobe1969
-* Production Year: 2016
-
 ## DTS-HD MA 5.1
+
+**2016 • PG-13 • 1h 31m • Science Fiction, Horror, Thriller, Action • mobe1969**
+
+After a virus of epic proportions overwhelms the planetwith more infected than uninfectedhumanity is losing its grip on survival and its only hope is finding a cure and keeping the infected contained. Lauren, a doctor, arrives in Los Angeles with her crack team to lead the hunt for uncontaminated civilian survivors, but nothing can prepare them for the blood-soaked mayhem they witness as they head into the Californian streets where everything is considered a trap.
+
+[TMDB](346651)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pandemic%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # A History of Violence
 
-* Author: mobe1969
-* Production Year: 2005
-
 ## TrueHD 5.1
+
+**2005 • R • 1h 36m • Drama, Thriller, Crime • mobe1969**
+
+An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.
+
+[TMDB](59)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20History%20of%20Violence%20%282005%29%20TrueHD%205.1.jpg)
 

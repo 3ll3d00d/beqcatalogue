@@ -1,9 +1,12 @@
 # Journey 2 The Mysterious Island
 
-* Author: mobe1969
-* Production Year: 2012
-
 ## DTS-HD MA 5.1
+
+**2012 • PG • 1h 34m • Science Fiction, Adventure, Action • mobe1969**
+
+Sean Anderson partners with his mom's boyfriend on a mission to find his grandfather, who is thought to be missing on a mythical island.
+
+[TMDB](72545)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Journey%202%20The%20Mysterious%20Island%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

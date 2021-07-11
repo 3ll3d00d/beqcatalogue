@@ -1,9 +1,12 @@
 # Wake of Death
 
-* Author: mobe1969
-* Production Year: 2004
-
 ## DTS-HD MA 5.1
+
+**2004 • R • 1h 31m • Action • mobe1969**
+
+Action superstar, Jean-Claude Van Damme (Universal Soldier, Street Fighter), is back and at his hard-hitting best as Ben Archer, an ex-mob enforcer seeking revenge against a ruthless Chinese kingpin responsible for his wife's brutal murder. When Archer joins forces with his old underworld friends, an all-out war is waged against the Chinese Triad in this pulse-pounding action thriller.
+
+[TMDB](14172)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wake%20of%20Death%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # Bridesmaids
 
-* Author: mobe1969
-* Production Year: 2011
-
 ## DTS-HD MA 5.1
+
+**2011 • R • 2h 5m • Comedy, Romance • mobe1969**
+
+Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, shell show Lillian and her bridesmaids just how far youll go for someone you love.
+
+[TMDB](55721)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bridesmaids%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

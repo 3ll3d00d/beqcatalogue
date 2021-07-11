@@ -1,9 +1,14 @@
 # Independence Day
 
-* Author: mobe1969
-* Production Year: 1996
-
 ## DTS-X
+
+EC
+
+**1996 • PG-13 • 2h 25m • Adventure, Action, Science Fiction • mobe1969**
+
+On July 2, a giant alien mothership enters orbit around Earth and deploys several dozen saucer-shaped 'destroyer' spacecraft that quickly lay waste to major cities around the planet. On July 3, the United States conducts a coordinated counterattack that fails. On July 4, a plan is devised to gain access to the interior of the alien mothership in space, in order to plant a nuclear missile.
+
+[TMDB](602)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Independence%20Day%20%281996%29%28EC%29%20DTS-X.jpg)
 

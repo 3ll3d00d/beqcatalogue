@@ -1,9 +1,12 @@
 # Sudden Impact
 
-* Author: mobe1969
-* Production Year: 1983
-
 ## TrueHD 5.1
+
+**1983 • R • 1h 57m • Crime • mobe1969**
+
+When a young rape victim takes justice into her own hands and becomes a serial killer, it's up to Dirty Harry Callahan, on suspension from the SFPD, to bring her to justice.
+
+[TMDB](10650)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sudden%20Impact%20%281983%29%20TrueHD%205.1.jpg)
 

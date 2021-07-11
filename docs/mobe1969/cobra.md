@@ -1,9 +1,12 @@
 # Cobra
 
-* Author: mobe1969
-* Production Year: 1986
-
 ## DTS-HD MA 5.1
+
+**1986 • R • 1h 27m • Action, Crime, Thriller • mobe1969**
+
+A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far reaching plans.
+
+[TMDB](9874)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cobra%20%281986%29%20DTS-HD%20MA%205.1.jpg)
 

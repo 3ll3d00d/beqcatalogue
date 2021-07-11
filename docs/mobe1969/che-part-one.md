@@ -1,9 +1,12 @@
 # Che Part One
 
-* Author: mobe1969
-* Production Year: 2008
-
 ## DTS-HD MA 5.1
+
+**2008 • R • 2h 14m • Spanish • Drama, History, War • mobe1969**
+
+The Argentine, begins as Che and a band of Cuban exiles (led by Fidel Castro) reach the Cuban shore from Mexico in 1956. Within two years, they mobilized popular support and an army and toppled the U.S.-friendly regime of dictator Fulgencio Batista.
+
+[TMDB](8881)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Che%20Part%20One%20%282008%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
 

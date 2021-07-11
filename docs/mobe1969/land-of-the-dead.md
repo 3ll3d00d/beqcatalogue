@@ -1,9 +1,14 @@
 # Land of the Dead
 
-* Author: mobe1969
-* Production Year: 2005
-
 ## DTS-HD MA 5.1
+
+Unrated
+
+**2005 • R • 1h 33m • Science Fiction, Horror • mobe1969**
+
+The world is full of zombies and the survivors have barricaded themselves inside a walled city to keep out the living dead. As the wealthy hide out in skyscrapers and chaos rules the streets, the rest of the survivors must find a way to stop the evolving zombies from breaking into the city.
+
+[TMDB](11683)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Land%20of%20the%20Dead%20%282005%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
 

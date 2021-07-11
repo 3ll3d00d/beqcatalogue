@@ -1,9 +1,12 @@
 # The Scorpion King Book of Souls
 
-* Author: mobe1969
-* Production Year: 2018
-
 ## DTS-HD MA 5.1
+
+**2018 • PG-13 • 1h 42m • Adventure, Action, Fantasy • mobe1969**
+
+The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
+
+[TMDB](522417)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Scorpion%20King%20Book%20of%20Souls%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

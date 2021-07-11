@@ -1,9 +1,12 @@
 # Felon
 
-* Author: mobe1969
-* Production Year: 2008
-
 ## TrueHD 5.1
+
+**2008 • R • 1h 43m • Action, Crime, Drama, Mystery • mobe1969**
+
+A family man convicted of killing an intruder must cope with life afterward in the violent penal system.
+
+[TMDB](13012)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Felon%20%282008%29%20TrueHD%205.1.jpg)
 

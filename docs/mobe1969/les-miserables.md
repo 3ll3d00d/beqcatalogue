@@ -1,9 +1,12 @@
 # Les Miserables
 
-* Author: mobe1969
-* Production Year: 1998
-
 ## DTS-HD MA 5.1
+
+**1998 • PG-13 • 2h 14m • Crime, Drama, History, Romance • mobe1969**
+
+Jean Valjean, a Frenchman imprisoned for stealing bread, must flee a police officer named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.
+
+[TMDB](4415)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Les%20Miserables%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

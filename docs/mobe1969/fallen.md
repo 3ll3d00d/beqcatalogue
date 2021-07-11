@@ -1,9 +1,12 @@
 # Fallen
 
-* Author: mobe1969
-* Production Year: 1998
-
 ## DTS-HD MA 5.1
+
+**1998 • R • 2h 4m • Drama, Crime, Action, Thriller • mobe1969**
+
+Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution the killings start again, and they are very similar to Reese's style.
+
+[TMDB](9411)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fallen%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

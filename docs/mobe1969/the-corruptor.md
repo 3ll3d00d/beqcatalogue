@@ -1,9 +1,12 @@
 # The Corruptor
 
-* Author: mobe1969
-* Production Year: 1999
-
 ## DTS-HD MA 5.1
+
+**1999 • R • 1h 50m • Action • mobe1969**
+
+Danny is a young cop partnered with Nick, a seasoned but ethically tainted veteran. As the two try to stop a gang war in Chinatown, Danny relies on Nick but grows increasingly uncomfortable with the way Nick gets things done.
+
+[TMDB](9455)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Corruptor%20%281999%29%20DTS-HD%20MA%205.1.jpg)
 

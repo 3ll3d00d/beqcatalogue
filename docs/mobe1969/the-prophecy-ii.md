@@ -1,9 +1,12 @@
 # The Prophecy II
 
-* Author: mobe1969
-* Production Year: 1998
-
 ## DTS-HD MA 2.0
+
+**1998 • R • 1h 27m • Horror, Fantasy, Thriller • mobe1969**
+
+Gabriel returns to try to destroy the human race he despises so much, with the help of a suicidal teen and the opposition of the angel Daniel.
+
+[TMDB](9033)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Prophecy%20II%20%281998%29%20DTS-HD%20MA%202.0.jpg)
 

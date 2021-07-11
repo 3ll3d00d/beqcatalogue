@@ -1,9 +1,12 @@
 # Home Sweet Hell
 
-* Author: mobe1969
-* Production Year: 2015
-
 ## DTS-HD MA 5.1
+
+**2015 • R • 1h 38m • Comedy, Drama • mobe1969**
+
+Mona and Dons seemingly perfect suburban bliss is disrupted by a sexy extortionist and Mona will stop at nothing, including killing the competition, to keep her little slice of heaven.
+
+[TMDB](276839)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Home%20Sweet%20Hell%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

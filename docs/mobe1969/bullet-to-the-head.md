@@ -1,9 +1,12 @@
 # Bullet to the Head
 
-* Author: mobe1969
-* Production Year: 2012
-
 ## DTS-HD MA 5.1
+
+**2012 • R • 1h 32m • Thriller, Crime, Action • mobe1969**
+
+After watching their respective partners die, a cop and a hitman form an alliance in order to bring down their common enemy.
+
+[TMDB](70074)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bullet%20to%20the%20Head%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

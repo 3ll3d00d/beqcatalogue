@@ -1,9 +1,12 @@
 # The Darkest Hour
 
-* Author: mobe1969
-* Production Year: 2011
-
 ## DTS-HD MA 5.1
+
+**2011 • PG-13 • 1h 29m • Thriller, Horror, Science Fiction, Action • mobe1969**
+
+In Moscow, five young people lead the charge against an alien race which has attacked Earth via our power supply.
+
+[TMDB](71469)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Darkest%20Hour%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

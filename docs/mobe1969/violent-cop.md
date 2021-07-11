@@ -1,9 +1,12 @@
 # Violent Cop
 
-* Author: mobe1969
-* Production Year: 1989
-
 ## LPCM 2.0
+
+**1989 • 16 • 1h 43m • Japanese • Action, Crime, Drama • mobe1969**
+
+A detective breaks all rules of ethical conduct while investigating a colleagues involvement in drug pushing and Yakuza activities.
+
+[TMDB](12622)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Violent%20Cop%20%281989%29%28Ja%29%20LPCM%202.0.jpg)
 

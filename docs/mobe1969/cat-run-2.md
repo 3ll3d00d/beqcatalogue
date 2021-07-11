@@ -1,9 +1,12 @@
 # Cat Run 2
 
-* Author: mobe1969
-* Production Year: 2014
-
 ## DTS-HD MA 5.1
+
+**2014 • R • 1h 37m • Action, Comedy • mobe1969**
+
+A couple of fumbling best friends run a private detective agency and find themselves solving their next case in New Orleans, becoming embroiled in a web of sexy female spies and government conspiracy in the lively and character-filled backdrops of the Big Easy
+
+[TMDB](273621)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cat%20Run%202%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

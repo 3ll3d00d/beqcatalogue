@@ -1,9 +1,12 @@
 # The Cold Light of Day
 
-* Author: mobe1969
-* Production Year: 2012
-
 ## TrueHD 5.1
+
+**2012 • PG-13 • 1h 33m • Action, Mystery, Thriller • mobe1969**
+
+After his family is kidnapped during their sailing trip in Spain, a young Wall Street trader is confronted by the people responsible: intelligence agents looking to recover a mysterious briefcase.
+
+[TMDB](77948)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Cold%20Light%20of%20Day%20%282012%29%20TrueHD%205.1.jpg)
 

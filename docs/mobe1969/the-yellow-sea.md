@@ -1,9 +1,12 @@
 # The Yellow Sea
 
-* Author: mobe1969
-* Production Year: 2010
-
 ## DTS-HD MA 5.1
+
+**2010 • 18 • 2h 37m • Korean • Drama, Crime, Thriller • mobe1969**
+
+A North Korean man takes an assassination job in the South to make money and find his missing wife. But when the job is botched, he is forced to go on the run from the police and the gangsters who paid him.
+
+[TMDB](57361)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Yellow%20Sea%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

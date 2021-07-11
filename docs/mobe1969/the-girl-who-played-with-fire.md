@@ -1,9 +1,12 @@
 # The Girl Who Played with Fire
 
-* Author: mobe1969
-* Production Year: 2009
-
 ## DTS-HD MA 5.1
+
+**2009 • R • 2h 10m • Swedish • Action, Mystery, Crime, Drama, Thriller • mobe1969**
+
+Mikael Blomkvist, publisher of Millennium magazine, has made his living exposing the crooked and corrupt practices of establishment Swedish figures. So when a young journalist approaches him with a meticulously researched thesis about sex trafficking in Sweden and those in high office who abuse underage girls, Blomkvist immediately throws himself into the investigation.
+
+[TMDB](24253)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Girl%20Who%20Played%20With%20Fire%20%282009%29%28Se%29%20DTS-HD%20MA%205.1.jpg)
 

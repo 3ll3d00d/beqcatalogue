@@ -1,9 +1,12 @@
 # Kite
 
-* Author: mobe1969
-* Production Year: 2014
-
 ## TrueHD 5.1
+
+**2014 • R • 1h 30m • Drama, Action • mobe1969**
+
+Based on the groundbreaking, cult classic anime, KITE tells the story of Sawa, a young woman living in a corrupt society where crime and gangs terrorize the streets. When Sawa's mother and policeman father are found victims of a grisly double homicide, she begins a ruthless pursuit for the man who murdered them. With the help of her father's ex-partner, Karl Aker, and a mysterious friend from her past, she becomes a merciless teen assassin, blasting her way through the dark world of human trafficking only to uncover a devastating truth
+
+[TMDB](192712)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kite%20%282014%29%20TrueHD%205.1.jpg)
 

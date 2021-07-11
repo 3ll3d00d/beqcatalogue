@@ -1,9 +1,12 @@
 # Big Trouble in Little China
 
-* Author: mobe1969
-* Production Year: 1986
-
 ## DTS-HD MA 5.1
+
+**1986 • PG-13 • 1h 39m • Fantasy, Action, Adventure, Comedy • mobe1969**
+
+When trucker Jack Burton agreed to take his friend, Wang Chi, to pick up his fiancee at the airport, he never expected to get involved in a supernatural battle between good and evil. Wang's fiancee has emerald green eyes, which make her a perfect target for immortal sorcerer Lo Pan and his three invincible cronies. Lo Pan must marry a girl with green eyes so he can regain his physical form.
+
+[TMDB](6978)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Big%20Trouble%20in%20Little%20China%20%281986%29%20DTS-HD%20MA%205.1.jpg)
 

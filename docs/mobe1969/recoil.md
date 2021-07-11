@@ -1,9 +1,12 @@
 # Recoil
 
-* Author: mobe1969
-* Production Year: 2011
-
 ## DTS-HD MA 5.1
+
+**2011 • R • 1h 34m • Action • mobe1969**
+
+A cop turns vigilante after his family is murdered, exacting vengeance on the killers - and then on all criminals who have slipped through the system.
+
+[TMDB](91333)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Recoil%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

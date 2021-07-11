@@ -1,9 +1,12 @@
 # Left Behind
 
-* Author: mobe1969
-* Production Year: 2014
-
 ## DTS-HD MA 5.1
+
+**2014 • PG-13 • 1h 50m • Thriller, Action, Science Fiction • mobe1969**
+
+A small group of survivors are left behind after millions of people suddenly vanish during the rapture and the world is plunged into chaos and destruction.
+
+[TMDB](218043)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Left%20Behind%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

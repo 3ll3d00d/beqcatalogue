@@ -1,9 +1,12 @@
 # Lights Out
 
-* Author: mobe1969
-* Production Year: 2016
-
 ## DTS-HD MA 5.1
+
+**2016 • PG-13 • 1h 21m • Mystery, Thriller, Horror, Drama • mobe1969**
+
+Rebecca must unlock the terror behind her little brother's experiences that once tested her sanity, bringing her face to face with a supernatural spirit attached to their mother.
+
+[TMDB](345911)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lights%20Out%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

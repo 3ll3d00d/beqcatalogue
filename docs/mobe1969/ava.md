@@ -1,9 +1,12 @@
 # Ava
 
-* Author: mobe1969
-* Production Year: 2020
-
 ## DTS-HD MA 5.1
+
+**2020 • R • 1h 36m • Crime, Action, Drama, Thriller • mobe1969**
+
+A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.
+
+[TMDB](539885)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ava%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

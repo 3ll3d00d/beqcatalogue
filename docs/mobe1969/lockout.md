@@ -1,9 +1,12 @@
 # Lockout
 
-* Author: mobe1969
-* Production Year: 2012
-
 ## DTS-HD MA 5.1
+
+**2012 • PG-13 • 1h 35m • Thriller, Science Fiction, Action • mobe1969**
+
+Set in the near future, Lockout follows a falsely convicted ex-government agent , whose one chance at obtaining freedom lies in the dangerous mission of rescuing the President's daughter from rioting convicts at an outer space maximum security prison.
+
+[TMDB](81796)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lockout%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

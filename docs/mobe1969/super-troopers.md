@@ -1,9 +1,12 @@
 # Super Troopers
 
-* Author: mobe1969
-* Production Year: 2001
-
 ## DTS-HD MA 5.1
+
+**2001 • R • 1h 40m • Comedy, Mystery, Crime • mobe1969**
+
+Five bored, occasionally high and always ineffective Vermont state troopers must prove their worth to the governor or lose their jobs. After stumbling on a drug ring, they plan to make a bust, but a rival police force is out to steal the glory.
+
+[TMDB](39939)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Super%20Troopers%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

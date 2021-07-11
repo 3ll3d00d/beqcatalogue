@@ -1,9 +1,12 @@
 # Derailed
 
-* Author: mobe1969
-* Production Year: 2005
-
 ## DTS-HD MA 5.1
+
+**2005 • R • 1h 48m • Drama, Thriller • mobe1969**
+
+When two married business executives having an affair are blackmailed by a violent criminal, they are forced to turn the tables on him to save their families.
+
+[TMDB](8999)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Derailed%20%282005%29%20DTS-HD%20MA%205.1.jpg)
 

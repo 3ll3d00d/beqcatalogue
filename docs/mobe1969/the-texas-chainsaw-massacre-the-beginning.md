@@ -1,13 +1,24 @@
 # The Texas Chainsaw Massacre The Beginning
 
-* Author: mobe1969
-* Production Year: 2006
-
 ## DTS-HD MA 5.1
+
+**2006 • R • 1h 31m • Horror, Thriller • mobe1969**
+
+Chrissie and her friends set out on a road trip for a final fling before one is shipped off to Vietnam. Along the way, bikers harass the foursome and cause an accident that throws Chrissie from the vehicle. The lawman who arrives on the scene kills one of the bikers and brings Chrissie's friends to the Hewitt homestead, where young Leatherface is learning the tools of terror.
+
+[TMDB](10781)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Texas%20Chainsaw%20Massacre%20The%20Beginning%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Texas%20Chainsaw%20Massacre%20The%20Beginning%20%282006%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
+French Blu Ray
+
+**2006 • R • 1h 31m • Horror, Thriller • mobe1969**
+
+Chrissie and her friends set out on a road trip for a final fling before one is shipped off to Vietnam. Along the way, bikers harass the foursome and cause an accident that throws Chrissie from the vehicle. The lawman who arrives on the scene kills one of the bikers and brings Chrissie's friends to the Hewitt homestead, where young Leatherface is learning the tools of terror.
+
+[TMDB](10781)
+
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Texas%20Chainsaw%20Massacre%20The%20Beginning%20%282006%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
 

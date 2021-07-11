@@ -1,9 +1,12 @@
 # Dark Tide
 
-* Author: mobe1969
-* Production Year: 2012
-
 ## DTS-HD MA 5.1
+
+**2012 • PG-13 • 1h 53m • Thriller, Adventure, Drama • mobe1969**
+
+A traumatized shark expert (Halle Berry) must battle her own fears to lead a thrill-seeking businessman on a dive into a dangerous section of water known as "Shark Alley."
+
+[TMDB](59963)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dark%20Tide%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # Nighthawks
 
-* Author: mobe1969
-* Production Year: 1981
-
 ## DTS-HD MA 2.0
+
+**1981 • R • 1h 39m • Action, Crime, Thriller • mobe1969**
+
+An international terrorist has New York in a grip of panic and it's up to Det. Sgt. Deke DaSilva to take him down.
+
+[TMDB](21610)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Nighthawks%20%281981%29%20DTS-HD%20MA%202.0.jpg)
 

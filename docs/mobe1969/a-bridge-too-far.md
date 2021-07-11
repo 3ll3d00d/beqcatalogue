@@ -1,9 +1,12 @@
 # A Bridge Too Far
 
-* Author: mobe1969
-* Production Year: 1977
-
 ## DTS-HD MA 5.1
+
+**1977 • PG • 2h 55m • War, History, Drama • mobe1969**
+
+Operation Market Garden, September 1944. The Allies attempt to capture several strategically important bridges in the Netherlands in the hope of breaking the German lines.
+
+[TMDB](5902)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Bridge%20Too%20Far%20%281977%29%20DTS-HD%20MA%205.1.jpg)
 

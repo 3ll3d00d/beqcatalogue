@@ -1,9 +1,12 @@
 # Ponyo
 
-* Author: mobe1969
-* Production Year: 2008
-
 ## DTS-HD MA 5.1
+
+**2008 • G • 1h 40m • Japanese • Animation, Family • mobe1969**
+
+The son of a sailor, 5-year old Sosuke, lives a quiet life on an oceanside cliff with his mother Lisa. One fateful day, he finds a beautiful goldfish trapped in a bottle on the beach and upon rescuing her, names her Ponyo. But she is no ordinary goldfish.
+
+[TMDB](12429)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ponyo%20%282008%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

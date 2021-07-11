@@ -1,9 +1,12 @@
 # The Hunter
 
-* Author: mobe1969
-* Production Year: 2011
-
 ## LPCM 5.1
+
+**2011 • R • 1h 42m • Drama, Thriller, Adventure • mobe1969**
+
+Martin, a mercenary, is sent from Europe by an anonymous biotech company to the Tasmanian wilderness on a hunt for the last Tasmanian tiger.
+
+[TMDB](70954)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hunter%20%282011%29%20LPCM%205.1.jpg)
 

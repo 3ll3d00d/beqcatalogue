@@ -1,9 +1,14 @@
 # Natural Born Killers
 
-* Author: mobe1969
-* Production Year: 1994
-
 ## TrueHD 5.1
+
+DC
+
+**1994 • R • 1h 59m • Crime, Thriller, Drama • mobe1969**
+
+Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.
+
+[TMDB](241)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Natural%20Born%20Killers%20%281994%29%28DC%29%20TrueHD%205.1.jpg)
 

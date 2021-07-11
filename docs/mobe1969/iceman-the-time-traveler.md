@@ -1,9 +1,12 @@
 # Iceman The Time Traveler
 
-* Author: mobe1969
-* Production Year: 2018
-
 ## TrueHD 5.1
+
+**2018 • NR • 1h 35m • Cantonese • Action, Comedy, History • mobe1969**
+
+The imperial guard and his three traitorous childhood friends ordered to hunt him down get accidentally buried and kept frozen in time. 400 years later pass and they are defrosted continuing the battle they left behind.
+
+[TMDB](490214)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Iceman%20The%20Time%20Traveler%20%282018%29%28Ca%29%20TrueHD%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # Poseidon
 
-* Author: mobe1969
-* Production Year: 2006
-
 ## DTS-HD MA 5.1
+
+**2006 • PG-13 • 1h 39m • Adventure, Thriller, Action, Drama • mobe1969**
+
+A packed cruise ship traveling the Atlantic is hit and overturned by a massive wave, compelling the passengers to begin a dramatic fight for their lives.
+
+[TMDB](503)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Poseidon%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

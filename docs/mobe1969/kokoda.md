@@ -1,9 +1,12 @@
 # Kokoda
 
-* Author: mobe1969
-* Production Year: 2006
-
 ## DTS-HD MA 5.1
+
+**2006 • 16 • 1h 32m • Action, Drama, History • mobe1969**
+
+A bitter battle is fought between Australian and Japanese soldiers along the Kokoda trail in New Guinea during World War II.
+
+[TMDB](9774)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kokoda%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

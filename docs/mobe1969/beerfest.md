@@ -1,9 +1,14 @@
 # Beerfest
 
-* Author: mobe1969
-* Production Year: 2006
-
 ## AC3 5.1
+
+Unrated
+
+**2006 • R • 1h 50m • Comedy • mobe1969**
+
+During a trip to Germany to scatter their grandfather's ashes, German-American brothers Todd and Jan discover Beerfest, the secret Olympics of downing stout, and want to enter the contest to defend their family's beer-guzzling honor. Their Old Country cousins sneer at the Yanks' chances, prompting the siblings to return to America to prepare for a showdown the following year.
+
+[TMDB](9988)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beerfest%20%282006%29%28Unrated%29%20AC3%205.1.jpg)
 

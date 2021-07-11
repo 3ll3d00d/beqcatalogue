@@ -1,9 +1,12 @@
 # Idle Hands
 
-* Author: mobe1969
-* Production Year: 1999
-
 ## DTS-HD MA 5.1
+
+**1999 • R • 1h 32m • Thriller, Horror, Comedy • mobe1969**
+
+Anton is a cheerful but exceedingly non-ambitious 17-year-old stoner who lives to stay buzzed, watch TV, and moon over Molly, the beautiful girl who lives next door. However, it turns out that the old clich about idle hands being the devil's playground has a kernel of truth after all.
+
+[TMDB](6552)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Idle%20Hands%20%281999%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # Bodies at Rest
 
-* Author: mobe1969
-* Production Year: 2019
-
 ## TrueHD 5.1
+
+**2019 • NR • 1h 33m • Cantonese • Action, Crime, Thriller • mobe1969**
+
+Working in the morgue, a hardworking forensics expert and his assistant are suddenly accosted by masked intruders who demand access to a body involved in a recent crime.
+
+[TMDB](531368)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bodies%20at%20Rest%20%282019%29%28Ca%29%20TrueHD%205.1.jpg)
 

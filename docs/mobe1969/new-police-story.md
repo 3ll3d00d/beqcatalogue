@@ -1,9 +1,12 @@
 # New Police Story
 
-* Author: mobe1969
-* Production Year: 2004
-
 ## AC3 5.1
+
+**2004 • R • 2h 3m • Cantonese • Drama, Crime, Action, Thriller • mobe1969**
+
+Sent into a drunken tailspin when his entire unit is killed by a gang of thrill-seeking punks, disgraced Hong Kong police inspector Wing (Jackie Chan) needs help from his new rookie partner, with a troubled past of his own, to climb out of the bottle and track down the gang and its ruthless leader.
+
+[TMDB](11636)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/New%20Police%20Story%20%282004%29%28Ca%29%20AC3%205.1.jpg)
 

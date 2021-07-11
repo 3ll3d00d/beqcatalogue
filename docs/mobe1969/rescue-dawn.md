@@ -1,9 +1,12 @@
 # Rescue Dawn
 
-* Author: mobe1969
-* Production Year: 2006
-
 ## DTS-HD MA 5.1
+
+**2006 • PG-13 • 2h 6m • War, Adventure, Drama • mobe1969**
+
+A US Fighter pilot's epic struggle of survival after being shot down on a mission over Laos during the Vietnam War.
+
+[TMDB](9952)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rescue%20Dawn%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

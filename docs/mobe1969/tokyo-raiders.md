@@ -1,9 +1,12 @@
 # Tokyo Raiders
 
-* Author: mobe1969
-* Production Year: 2000
-
 ## TrueHD 5.1
+
+**2000 • NR • 1h 58m • Cantonese • Thriller, Action, Comedy • mobe1969**
+
+When a private eye, a jilted bride and a mysterious stranger join forces to track down an elusive mobster, there's more than trouble in the air.
+
+[TMDB](45438)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tokyo%20Raiders%20%282000%29%28Ca%29%20TrueHD%205.1.jpg)
 

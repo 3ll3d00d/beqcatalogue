@@ -1,9 +1,12 @@
 # Point of No Return
 
-* Author: mobe1969
-* Production Year: 1993
-
 ## TrueHD 5.1
+
+**1993 • R • 1h 48m • Thriller, Action, Crime • mobe1969**
+
+Hardened criminal Maggie Hayward's consistent violence, even in police custody, ends in the execution chamber. However, top-secret US government agent 'Bob' arranges a staged death, so Maggie can be elaborately trained as a phantom killer and subdued into obedience.
+
+[TMDB](10498)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Point%20of%20No%20Return%20%281993%29%20TrueHD%205.1.jpg)
 

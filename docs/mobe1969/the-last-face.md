@@ -1,9 +1,12 @@
 # The Last Face
 
-* Author: mobe1969
-* Production Year: 2016
-
 ## DTS-HD MA 5.1
+
+**2016 • R • 2h 10m • Drama • mobe1969**
+
+Miguel, a heroic Spanish doctor, puts himself in harm's way to deliver medical treatment to the victims of military uprisings in Africa.
+
+[TMDB](287904)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Last%20Face%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

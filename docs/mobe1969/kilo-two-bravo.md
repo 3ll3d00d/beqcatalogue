@@ -1,9 +1,12 @@
 # Kilo Two Bravo
 
-* Author: mobe1969
-* Production Year: 2014
-
 ## DTS-HD MA 5.1
+
+**2014 • R • 1h 48m • Thriller, War, Adventure, Drama • mobe1969**
+
+British soldiers guarding the Kajaki Dam set out to rescue a three-man team after one of them loses a leg to a landmine.
+
+[TMDB](306650)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kilo%20Two%20Bravo%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # The Numbers Station
 
-* Author: mobe1969
-* Production Year: 2013
-
 ## DTS-HD MA 5.1
+
+**2013 • R • 1h 30m • Action, Thriller • mobe1969**
+
+When the moral values of a longtime wetwork black ops agent is tested during his last operation, he receives an unfavorable psych evaluation. Now he is given a break and a seemingly uncomplicated assignment of simply protecting the security of a young female code announcer, code resources and remote station they are assigned to. After an ambush and one phone call later, it becomes a complicated fight for their survival.
+
+[TMDB](77234)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Numbers%20Station%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

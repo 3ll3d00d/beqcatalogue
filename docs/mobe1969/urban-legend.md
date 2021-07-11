@@ -1,9 +1,12 @@
 # Urban Legend
 
-* Author: mobe1969
-* Production Year: 1998
-
 ## TrueHD 5.1
+
+**1998 • R • 1h 40m • Thriller, Horror • mobe1969**
+
+A college campus is plagued by a vicious serial killer murdering students in ways that correspond to various urban legends.
+
+[TMDB](9877)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Urban%20Legend%20%281998%29%20TrueHD%205.1.jpg)
 
