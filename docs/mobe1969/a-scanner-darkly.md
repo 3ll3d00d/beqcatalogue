@@ -1,9 +1,12 @@
 # A Scanner Darkly
 
-* Author: mobe1969
-* Production Year: 2006
-
 ## AC3 5.1
+
+**2006 • R • 1h 40m • Animation, Thriller, Science Fiction • mobe1969**
+
+An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.
+
+[TMDB](3509)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Scanner%20Darkly%20%282006%29%20AC3%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # 30 Days of Night
 
-* Author: mobe1969
-* Production Year: 2007
-
 ## TrueHD 5.1
+
+**2007 • R • 1h 53m • Horror, Thriller • mobe1969**
+
+This is the story of an isolated Alaskan town that is plunged into darkness for a month each year when the sun sinks below the horizon. As the last rays of light fade, the town is attacked by a bloodthirsty gang of vampires bent on an uninterrupted orgy of destruction. Only the small town's husband-and-wife Sheriff team stand between the survivors and certain destruction.
+
+[TMDB](4513)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/30%20Days%20of%20Night%20%282007%29%20TrueHD%205.1.jpg)
 

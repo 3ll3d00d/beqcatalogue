@@ -1,9 +1,12 @@
 # Star Trek III The Search for Spock
 
-* Author: mobe1969
-* Production Year: 1984
-
 ## TrueHD 7.1
+
+**1984 • PG • 1h 45m • Thriller, Adventure, Science Fiction, Action • mobe1969**
+
+Admiral Kirk and his bridge crew risk their careers stealing the decommissioned Enterprise to return to the restricted Genesis planet to recover Spock's body.
+
+[TMDB](157)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Star%20Trek%20III%20The%20Search%20for%20Spock%20%281984%29%20TrueHD%207.1.jpg)
 

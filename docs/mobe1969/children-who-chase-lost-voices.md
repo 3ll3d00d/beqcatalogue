@@ -1,9 +1,12 @@
 # Children Who Chase Lost Voices
 
-* Author: mobe1969
-* Production Year: 2011
-
 ## DTS-HD MA 5.1
+
+**2011 • PG • 1h 56m • Japanese • Animation, Adventure, Drama, Fantasy • mobe1969**
+
+The film centers on Asuna, a young girl who spends her solitary days listening to the mysterious music emanating from the crystal radio she received from her late father as a memento. One day while walking home she is attacked by a fearsome monster and saved mysterious boy named Shun. However, Shun disappears and Asuna embarks on a journey of adventure to the land of Agartha with her teacher Mr. Morisaki to meet a Shun again. Through her journey she comes to know the cruelty and beauty of the world, as well as loss.
+
+[TMDB](79707)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Children%20Who%20Chase%20Lost%20Voices%20%282011%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

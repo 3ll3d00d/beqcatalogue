@@ -1,9 +1,12 @@
 # Possession
 
-* Author: mobe1969
-* Production Year: 2009
-
 ## DTS-HD MA 5.1
+
+**2009 • PG-13 • 1h 26m • Thriller • mobe1969**
+
+A woman's life is thrown into chaos after a freak car accident sends her husband and brother-in-law into comas. Thrills arrive after the brother-in-law wakes up, thinking he's his brother.
+
+[TMDB](33788)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Possession%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

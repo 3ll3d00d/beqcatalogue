@@ -1,9 +1,12 @@
 # Outcast
 
-* Author: mobe1969
-* Production Year: 2014
-
 ## DTS-HD MA 5.1
+
+**2014 • 15 • 1h 38m • Action • mobe1969**
+
+A mysterious warrior teams up with the daughter and son of a deposed Chinese Emperor to defeat their cruel Uncle, who seeks their deaths.
+
+[TMDB](289720)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Outcast%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

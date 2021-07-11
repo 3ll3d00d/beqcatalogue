@@ -1,9 +1,12 @@
 # Machete
 
-* Author: mobe1969
-* Production Year: 2010
-
 ## DTS-HD MA 5.1
+
+**2010 • R • 1h 45m • Comedy, Action, Thriller • mobe1969**
+
+After being set-up and betrayed by the man who hired him to assassinate a Texas Senator, an ex-Federale launches a brutal rampage of revenge against his former boss.
+
+[TMDB](23631)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Machete%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

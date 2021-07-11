@@ -1,9 +1,12 @@
 # Deliver Us From Evil
 
-* Author: mobe1969
-* Production Year: 2020
-
 ## DTS-HD MA 5.1
+
+**2020 • MA15+ • 1h 48m • Korean • Action • mobe1969**
+
+A retired contract killer goes on a bloody rampage when a young girl finds herself at the mercy of gangland human traffickers only one man can come to her rescue with an arsenal of weapons and years of experience in the art of killing.
+
+[TMDB](581526)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deliver%20Us%20From%20Evil%20%282020%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

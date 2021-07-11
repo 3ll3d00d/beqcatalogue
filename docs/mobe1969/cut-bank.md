@@ -1,9 +1,12 @@
 # Cut Bank
 
-* Author: mobe1969
-* Production Year: 2014
-
 ## DTS-HD MA 5.1
+
+**2014 • R • 1h 32m • Thriller • mobe1969**
+
+25-year-old Dwayne McLaren, a former athlete turned auto mechanic, dreams of getting out of tiny Cut Bank, Montana the coldest town in America. But his effort to do so sets in motion a deadly series of events that change his life and the life of the town forever...
+
+[TMDB](276902)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cut%20Bank%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

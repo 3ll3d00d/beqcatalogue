@@ -1,9 +1,12 @@
 # Rush Hour
 
-* Author: mobe1969
-* Production Year: 1998
-
 ## DTS-HD MA 7.1
+
+**1998 • PG-13 • 1h 38m • Crime, Action, Comedy • mobe1969**
+
+When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.
+
+[TMDB](2109)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rush%20Hour%20%281998%29%20DTS-HD%20MA%207.1.jpg)
 

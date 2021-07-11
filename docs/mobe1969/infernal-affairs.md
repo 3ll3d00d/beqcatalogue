@@ -1,9 +1,12 @@
 # Infernal Affairs
 
-* Author: mobe1969
-* Production Year: 2002
-
 ## DTS-HD MA 5.1
+
+**2002 • R • 1h 41m • Cantonese • Drama, Action, Thriller, Crime, Mystery • mobe1969**
+
+Chan Wing Yan, a young police officer, has been sent undercover as a mole in the local mafia. Lau Kin Ming, a young mafia member, infiltrates the police force. Years later, their older counterparts, Chen Wing Yan and Inspector Lau Kin Ming, respectively, race against time to expose the mole within their midst.
+
+[TMDB](10775)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Infernal%20Affairs%20%282002%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

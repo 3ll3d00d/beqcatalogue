@@ -1,9 +1,12 @@
 # American Heist
 
-* Author: mobe1969
-* Production Year: 2014
-
 ## DTS-HD MA 5.1
+
+**2014 • NR • 1h 34m • Action • mobe1969**
+
+Two brothers, both with troubled paths, find themselves in the middle of one last bank job.
+
+[TMDB](250066)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/American%20Heist%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

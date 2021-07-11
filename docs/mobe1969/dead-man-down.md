@@ -1,9 +1,12 @@
 # Dead Man Down
 
-* Author: mobe1969
-* Production Year: 2013
-
 ## DTS-HD MA 5.1
+
+**2013 • R • 1h 58m • Thriller, Crime, Action, Drama • mobe1969**
+
+In New York City, a crime lord's right-hand man is seduced by a woman seeking retribution.
+
+[TMDB](102362)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20Man%20Down%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

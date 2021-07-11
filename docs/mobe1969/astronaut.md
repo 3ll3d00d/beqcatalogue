@@ -1,9 +1,12 @@
 # Astronaut
 
-* Author: mobe1969
-* Production Year: 2019
-
 ## DTS-HD MA 5.1
+
+**2019 • PG • 1h 38m • Comedy, Drama • mobe1969**
+
+A lonely widower battles his family, ill health and time to win a competition for a golden ticket to space.
+
+[TMDB](605801)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Astronaut%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # The Neon Demon
 
-* Author: mobe1969
-* Production Year: 2016
-
 ## DTS-HD MA 5.1
+
+**2016 • R • 1h 58m • Thriller, Horror, Mystery • mobe1969**
+
+When aspiring model Jesse moves to Los Angeles, her youth and vitality are devoured by a group of beauty-obsessed women who will take any means necessary to get what she has.
+
+[TMDB](301365)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Neon%20Demon%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

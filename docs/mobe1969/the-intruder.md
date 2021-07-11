@@ -1,9 +1,12 @@
 # The Intruder
 
-* Author: mobe1969
-* Production Year: 2019
-
 ## DTS-HD MA 5.1
+
+**2019 • PG-13 • 1h 42m • Thriller • mobe1969**
+
+A psychological thriller about a young married couple who buys a beautiful Napa Valley house on several acres of land only to find that the man they bought it from refuses to let go of the property.
+
+[TMDB](524247)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Intruder%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

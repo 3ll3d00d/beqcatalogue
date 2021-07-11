@@ -1,9 +1,12 @@
 # Paranoia
 
-* Author: mobe1969
-* Production Year: 2013
-
 ## DTS-HD MA 5.1
+
+**2013 • PG-13 • 1h 46m • Drama, Thriller • mobe1969**
+
+An entry-level employee at a powerful corporation finds himself occupying a corner office, but at a dangerous pricehe must spy on his boss's old mentor to secure for him a multi-billion dollar advantage.
+
+[TMDB](115348)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Paranoia%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

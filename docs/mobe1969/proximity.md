@@ -1,9 +1,12 @@
 # Proximity
 
-* Author: mobe1969
-* Production Year: 2020
-
 ## DTS-HD MA 5.1
+
+**2020 • 12 • 1h 59m • Science Fiction, Drama • mobe1969**
+
+A young NASA JPL scientist is abducted by extraterrestrials but when no one believes his story he becomes obsessed with finding proof which leads him on a journey of discovery.
+
+[TMDB](693158)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Proximity%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

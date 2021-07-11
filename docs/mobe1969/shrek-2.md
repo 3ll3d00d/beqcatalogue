@@ -1,9 +1,12 @@
 # Shrek 2
 
-* Author: mobe1969
-* Production Year: 2004
-
 ## TrueHD 7.1
+
+**2004 • PG • 1h 33m • Animation, Comedy, Adventure, Family, Fantasy • mobe1969**
+
+Shrek, Fiona and Donkey set off to Far, Far Away to meet Fiona's mother and father. But not everyone is happy. Shrek and the King find it hard to get along, and there's tension in the marriage. The fairy godmother discovers that Shrek has married Fiona instead of her Son Prince Charming and sets about destroying their marriage.
+
+[TMDB](809)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shrek%202%20%282004%29%20TrueHD%207.1.jpg)
 

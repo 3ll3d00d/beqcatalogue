@@ -1,9 +1,12 @@
 # The Last Boy Scout
 
-* Author: mobe1969
-* Production Year: 1991
-
 ## DTS-HD MA 5.1
+
+**1991 • R • 1h 45m • Thriller, Action • mobe1969**
+
+When the girl that detective Joe Hallenback is protecting gets murdered, the boyfriend of the murdered girl attempts to investigate and solve the case. What they discover is that there is deep seated corruption going on between a crooked politician and the owner of a pro football team.
+
+[TMDB](9319)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Last%20Boy%20Scout%20%281991%29%20DTS-HD%20MA%205.1.jpg)
 

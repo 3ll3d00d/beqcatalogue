@@ -1,9 +1,14 @@
 # Pineapple Express
 
-* Author: mobe1969
-* Production Year: 2008
-
 ## TrueHD 5.1
+
+Unrated
+
+**2008 • R • 1h 52m • Action, Crime, Comedy • mobe1969**
+
+A stoner and his dealer are forced to go on the run from the police after the pothead witnesses a cop commit a murder.
+
+[TMDB](10189)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pineapple%20Express%20%282008%29%28Unrated%29%20TrueHD%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # Gangster No. 1
 
-* Author: mobe1969
-* Production Year: 2000
-
 ## DTS-HD MA 5.1
+
+**2000 • 18 • 1h 43m • Thriller, Action, Drama • mobe1969**
+
+An old gangster is advised that Freddie Mays would leave jail after thirty years in prison. His mood changes and he recalls when he was a young punk and who joined Freddie's ganga man he both envied and ultimately betrayed.
+
+[TMDB](10394)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gangster%20No.%201%20%282000%29%20DTS-HD%20MA%205.1.jpg)
 

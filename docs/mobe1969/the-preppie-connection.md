@@ -1,9 +1,12 @@
 # The Preppie Connection
 
-* Author: mobe1969
-* Production Year: 2016
-
 ## DTS-HD MA 5.1
+
+**2016 • R • 1h 35m • Drama, Crime • mobe1969**
+
+A student at a private school uses his connections to establish a drug trafficking network.
+
+[TMDB](362478)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Preppie%20Connection%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

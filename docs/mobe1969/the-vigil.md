@@ -1,9 +1,12 @@
 # The Vigil
 
-* Author: mobe1969
-* Production Year: 2019
-
 ## DTS-HD MA 5.1
+
+**2019 • PG-13 • 1h 28m • Horror, Thriller, Mystery • mobe1969**
+
+A man providing overnight watch to a deceased member of his former Orthodox Jewish community finds himself opposite a malevolent entity.
+
+[TMDB](621707)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Vigil%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

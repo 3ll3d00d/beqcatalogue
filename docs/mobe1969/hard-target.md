@@ -1,9 +1,12 @@
 # Hard Target
 
-* Author: mobe1969
-* Production Year: 1993
-
 ## DTS-HD MA 5.1
+
+**1993 • R • 1h 37m • Adventure, Thriller, Crime, Drama, Action • mobe1969**
+
+When a woman's father goes missing, she enlists a local to aid in her search.  The pair soon discover that her father has died at the hands of a wealthy sportsman who hunts homeless men as a form of recreation.
+
+[TMDB](2019)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hard%20Target%20%281993%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # Black Butterfly
 
-* Author: mobe1969
-* Production Year: 2017
-
 ## DTS-HD MA 5.1
+
+**2017 • R • 1h 33m • Mystery, Thriller • mobe1969**
+
+Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
+
+[TMDB](76812)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Butterfly%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

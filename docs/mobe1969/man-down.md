@@ -1,9 +1,12 @@
 # Man Down
 
-* Author: mobe1969
-* Production Year: 2015
-
 ## DTS-HD MA 5.1
+
+**2015 • R • 1h 30m • Thriller, Drama • mobe1969**
+
+When a U.S. Marine returns home from Afghanistan, he finds that the place he once called home is no better than the battlefields he fought on overseas. Accompanied by his best friend, he searches desperately for the whereabouts of his estranged son and wife. In their search, the two intercept a man carrying vital information about his family.
+
+[TMDB](296523)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Man%20Down%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

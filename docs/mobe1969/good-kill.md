@@ -1,9 +1,12 @@
 # Good Kill
 
-* Author: mobe1969
-* Production Year: 2014
-
 ## DTS-HD MA 5.1
+
+**2014 • R • 1h 44m • Drama • mobe1969**
+
+In the shadowy world of drone warfare, combat unfolds like a video gameonly with real lives at stake. After six tours of duty, Air Force pilot Tom Egan now fights the Taliban from an air-conditioned bunker in the Nevada desert. But as he yearns to get back in the cockpit of a real plane and becomes increasingly troubled by the collateral damage he causes each time he pushes a button, Egans nervesand his relationship with his wifebegin to unravel.
+
+[TMDB](253626)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Good%20Kill%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # Deep Rising
 
-* Author: mobe1969
-* Production Year: 1998
-
 ## DTS-HD MA 5.1
+
+**1998 • R • 1h 46m • Action, Science Fiction, Adventure, Horror • mobe1969**
+
+A group of heavily armed hijackers board a luxury ocean liner in the South Pacific Ocean to loot it, only to do battle with a series of large-sized, tentacled, man-eating sea creatures who have taken over the ship first.
+
+[TMDB](9457)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deep%20Rising%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

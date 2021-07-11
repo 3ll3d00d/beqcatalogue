@@ -1,9 +1,12 @@
 # The Lost Boys
 
-* Author: mobe1969
-* Production Year: 1987
-
 ## TrueHD 5.1
+
+**1987 • R • 1h 37m • Horror, Comedy • mobe1969**
+
+A mother and her two teenage sons move to a seemingly nice and quiet small coastal California town yet soon find out that it's overrun by bike gangs and vampires. A couple of teenage friends take it upon themselves to hunt down the vampires that they suspect of a few mysterious murders and restore peace and calm to their town.
+
+[TMDB](1547)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lost%20Boys%20%281987%29%20TrueHD%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # Executive Decision
 
-* Author: mobe1969
-* Production Year: 1996
-
 ## DTS-HD MA 5.1
+
+**1996 • R • 2h 13m • Drama, Action, Thriller, Adventure • mobe1969**
+
+Terrorists hijack a 747 inbound to Washington D.C., demanding the release of their imprisoned leader. Intelligence expert David Grant (Kurt Russell) suspects another reason and he is soon the reluctant member of a special assault team that is assigned to intercept the plane and hijackers.
+
+[TMDB](2320)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Executive%20Decision%20%281996%29%20DTS-HD%20MA%205.1.jpg)
 

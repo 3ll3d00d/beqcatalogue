@@ -1,9 +1,12 @@
 # 24 Hours to Live
 
-* Author: mobe1969
-* Production Year: 2017
-
 ## DTS-HD MA 5.1
+
+**2017 • R • 1h 34m • Science Fiction, Mystery, Action, Thriller • mobe1969**
+
+An assassin seeks redemption after being given a second chance at life.
+
+[TMDB](470114)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/24%20Hours%20to%20Live%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

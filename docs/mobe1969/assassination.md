@@ -1,9 +1,12 @@
 # Assassination
 
-* Author: mobe1969
-* Production Year: 2015
-
 ## DTS-HD MA 5.1
+
+**2015 • MA15+ • 2h 20m • Korean • Action, Drama • mobe1969**
+
+In Japanese-occupied Korea, three freedom fighters are assigned a mission to assassinate a genocidal military leader and his top collaborator. But the plan goes completely awry amidst double-crossings, counter-assassinations, and a shocking revelation about one of the assassins' past.
+
+[TMDB](291549)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Assassination%20%282015%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

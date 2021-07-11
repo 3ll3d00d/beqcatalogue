@@ -1,9 +1,12 @@
 # Bushwick
 
-* Author: mobe1969
-* Production Year: 2017
-
 ## DTS-HD MA 5.1
+
+**2017 • 12A • 1h 34m • Action, Thriller • mobe1969**
+
+When an unknown military force invades Bushwick, a Brooklyn neighborhood, young student Lucy and war veteran Stupe must rely on each other to escape and survive.
+
+[TMDB](430354)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bushwick%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

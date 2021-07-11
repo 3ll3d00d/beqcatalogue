@@ -1,9 +1,12 @@
 # Kick-Ass 2
 
-* Author: mobe1969
-* Production Year: 2013
-
 ## DTS-HD MA 5.1
+
+**2013 • R • 1h 43m • Crime, Adventure, Action • mobe1969**
+
+After Kick-Ass insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist  reborn as The Mother Fucker  only the blade-wielding Hit-Girl can prevent their annihilation.
+
+[TMDB](59859)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kick-Ass%202%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

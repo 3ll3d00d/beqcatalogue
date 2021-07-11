@@ -1,9 +1,12 @@
 # Shaun the Sheep Movie
 
-* Author: mobe1969
-* Production Year: 2015
-
 ## DTS-HD MA 5.1
+
+**2015 • PG • 1h 25m • Family, Animation, Comedy, Adventure • mobe1969**
+
+When Shaun decides to take the day off and have some fun, he gets a little more action than he bargained for. A mix up with the Farmer, a caravan and a very steep hill lead them all to the Big City and it's up to Shaun and the flock to return everyone safely to the green grass of home.
+
+[TMDB](263109)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shaun%20the%20Sheep%20Movie%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

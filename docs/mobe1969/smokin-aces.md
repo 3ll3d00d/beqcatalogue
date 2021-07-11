@@ -1,9 +1,12 @@
 # Smokin' Aces
 
-* Author: mobe1969
-* Production Year: 2006
-
 ## DTS-HD MA 5.1
+
+**2006 • R • 1h 49m • Thriller, Mystery, Comedy, Action, Crime • mobe1969**
+
+When a Las Vegas performer-turned-snitch named Buddy Israel decides to turn state's evidence and testify against the mob, it seems that a whole lot of people would like to make sure he's no longer breathing.
+
+[TMDB](7516)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Smokin%27%20Aces%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

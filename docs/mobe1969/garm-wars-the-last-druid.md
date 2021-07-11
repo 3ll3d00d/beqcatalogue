@@ -1,9 +1,12 @@
 # Garm Wars The Last Druid
 
-* Author: mobe1969
-* Production Year: 2014
-
 ## DTS-HD MA 5.1
+
+**2014 • 15 • 1h 32m • Science Fiction, Thriller, Action • mobe1969**
+
+In a world where clone soldiers from three military tribes are locked in a perpetual battle of air, land and technology, one clone is separated from the battle and finds herself on the run with a group of unlikely companions.
+
+[TMDB](302026)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Garm%20Wars%20The%20Last%20Druid%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

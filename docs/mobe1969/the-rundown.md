@@ -1,9 +1,12 @@
 # The Rundown
 
-* Author: mobe1969
-* Production Year: 2003
-
 ## DTS-HD MA 5.1
+
+**2003 • PG-13 • 1h 44m • Comedy, Adventure, Thriller, Action • mobe1969**
+
+When Travis, the mouthy son of a criminal, disappears in the Amazon in search of a treasured artifact, his father sends in Beck, who becomes Travis's rival for the affections of Mariana, a mysterious Brazilian woman. With his steely disposition, Beck is a man of few words -- but it takes him all the discipline he can muster to work with Travis to nab a tyrant who's after the same treasure.
+
+[TMDB](10159)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Rundown%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 

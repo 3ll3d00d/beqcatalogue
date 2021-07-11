@@ -1,9 +1,12 @@
 # Final Destination
 
-* Author: mobe1969
-* Production Year: 2000
-
 ## TrueHD 5.1
+
+**2000 • R • 1h 38m • Horror • mobe1969**
+
+After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.
+
+[TMDB](9532)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Final%20Destination%20%282000%29%20TrueHD%205.1.jpg)
 

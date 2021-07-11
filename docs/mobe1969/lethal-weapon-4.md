@@ -1,9 +1,12 @@
 # Lethal Weapon 4
 
-* Author: mobe1969
-* Production Year: 1998
-
 ## DTS-HD MA 5.1
+
+**1998 • R • 2h 7m • Adventure, Crime, Thriller, Action, Comedy • mobe1969**
+
+In the combustible action franchise's final installment, maverick detectives Martin Riggs and Roger Murtaugh square off against Asian mobster Wah Sing Ku, who's up to his neck in slave trading and counterfeit currency. With help from gumshoe Leo Getz and smart-aleck rookie cop Lee Butters, Riggs and Murtaugh aim to take down Ku and his gang.
+
+[TMDB](944)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lethal%20Weapon%204%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

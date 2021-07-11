@@ -1,9 +1,12 @@
 # Before I Wake
 
-* Author: mobe1969
-* Production Year: 2016
-
 ## DTS-HD MA 5.1
+
+**2016 • PG-13 • 1h 37m • Drama, Fantasy, Horror, Thriller • mobe1969**
+
+An orphaned child's dreamsand nightmaresmanifest physically as he sleeps.
+
+[TMDB](301804)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Before%20I%20Wake%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

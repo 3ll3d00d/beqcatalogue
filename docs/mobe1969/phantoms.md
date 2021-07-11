@@ -1,9 +1,12 @@
 # Phantoms
 
-* Author: mobe1969
-* Production Year: 1998
-
 ## DTS-HD MA 5.1
+
+**1998 • R • 1h 31m • Science Fiction, Horror • mobe1969**
+
+In the peaceful town of Snowfield, Colorado something evil has wiped out the community. And now, its up to a group of people to stop it, or at least get out of Snowfield alive.
+
+[TMDB](9827)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Phantoms%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

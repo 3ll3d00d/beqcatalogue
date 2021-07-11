@@ -1,9 +1,12 @@
 # John Carter
 
-* Author: mobe1969
-* Production Year: 2012
-
 ## DTS-HD HR 7.1
+
+**2012 • PG-13 • 2h 12m • Action, Adventure, Science Fiction • mobe1969**
+
+John Carter is a war-weary, former military captain who's inexplicably transported to the mysterious and exotic planet of Barsoom (Mars) and reluctantly becomes embroiled in an epic conflict. It's a world on the brink of collapse, and Carter rediscovers his humanity when he realizes the survival of Barsoom and its people rests in his hands.
+
+[TMDB](49529)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/John%20Carter%20%282012%29%20DTS-HD%20HR%207.1.jpg)
 

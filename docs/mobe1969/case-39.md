@@ -1,9 +1,12 @@
 # Case 39
 
-* Author: mobe1969
-* Production Year: 2009
-
 ## DTS-HD MA 5.1
+
+**2009 • R • 1h 49m • Horror, Mystery, Thriller • mobe1969**
+
+In her many years as a social worker, Emily Jenkins believes she has seen it all, until she meets 10-year-old Lilith and the girl's cruel parents. Emily's worst fears are confirmed when the parents try to harm the child, and so Emily assumes custody of Lilith while she looks for a foster family. However, Emily soon finds that dark forces surround the seemingly innocent girl, and the more she tries to protect Lilith, the more horrors she encounters.
+
+[TMDB](28355)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Case%2039%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

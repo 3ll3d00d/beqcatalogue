@@ -1,9 +1,12 @@
 # 47 Meters Down
 
-* Author: mobe1969
-* Production Year: 2017
-
 ## LPCM 5.1
+
+**2017 • PG-13 • 1h 29m • Adventure, Drama, Horror, Thriller • mobe1969**
+
+Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.
+
+[TMDB](403119)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/47%20Meters%20Down%20%282017%29%20LPCM%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # The Dead
 
-* Author: mobe1969
-* Production Year: 2010
-
 ## TrueHD 5.1
+
+**2010 • R • 1h 33m • Horror, Science Fiction • mobe1969**
+
+A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.
+
+[TMDB](924)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Dead%20%282010%29%20TrueHD%205.1.jpg)
 

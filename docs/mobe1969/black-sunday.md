@@ -1,9 +1,12 @@
 # Black Sunday
 
-* Author: mobe1969
-* Production Year: 1977
-
 ## DTS-HD MA 5.1
+
+**1977 • R • 2h 23m • Action, Drama, Thriller • mobe1969**
+
+An Israeli anti-terrorist agent must stop a disgruntled Vietnam vet cooperating in a plot to commit a terrorist attack at the Super Bowl.
+
+[TMDB](50374)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Sunday%20%281977%29%20DTS-HD%20MA%205.1.jpg)
 

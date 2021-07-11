@@ -1,13 +1,22 @@
 # Late Phases
 
-* Author: mobe1969
-* Production Year: 2014
-
 ## AC3 5.1
+
+**2014 • 16 • 1h 35m • Horror, Thriller • mobe1969**
+
+When deadly attacks from a nearby forest beset a secluded retirement community, it is up to a blind army veteran to discover what the residents are hiding.
+
+[TMDB](254193)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Late%20Phases%20%282014%29%20AC3%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Late%20Phases%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+**2014 • 16 • 1h 35m • Horror, Thriller • mobe1969**
+
+When deadly attacks from a nearby forest beset a secluded retirement community, it is up to a blind army veteran to discover what the residents are hiding.
+
+[TMDB](254193)
+
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Late%20Phases%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

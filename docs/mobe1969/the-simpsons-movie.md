@@ -1,9 +1,12 @@
 # The Simpsons Movie
 
-* Author: mobe1969
-* Production Year: 2007
-
 ## DTS-HD MA 5.1
+
+**2007 • PG-13 • 1h 27m • Family, Animation, Comedy • mobe1969**
+
+After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.
+
+[TMDB](35)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Simpsons%20Movie%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

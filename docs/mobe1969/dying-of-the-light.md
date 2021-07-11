@@ -1,9 +1,12 @@
 # Dying of the Light
 
-* Author: mobe1969
-* Production Year: 2014
-
 ## DTS-HD MA 5.1
+
+**2014 • R • 1h 34m • Thriller, Drama • mobe1969**
+
+Evan Lake, a veteran CIA agent, has been ordered to retire. But when his protg uncovers evidence that Lake's nemesis, the terrorist Banir, has resurfaced, Lake goes rogue, embarking on a perilous, intercontinental mission to eliminate his sworn enemy.
+
+[TMDB](297596)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dying%20of%20the%20Light%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

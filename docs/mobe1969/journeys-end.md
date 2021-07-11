@@ -1,9 +1,12 @@
 # Journey's End
 
-* Author: mobe1969
-* Production Year: 2017
-
 ## DTS-HD MA 5.1
+
+**2017 • R • 1h 48m • War, Drama • mobe1969**
+
+Set in a dugout in Aisne in 1918, a group of British officers, led by the mentally disintegrating young officer Stanhope, variously await their fate.
+
+[TMDB](438259)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Journey%27s%20End%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

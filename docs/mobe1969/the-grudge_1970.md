@@ -1,9 +1,14 @@
 # The Grudge
 
-* Author: mobe1969
-* Production Year: 2004
-
 ## TrueHD 5.1
+
+Unrated
+
+**2004 • PG-13 • 1h 32m • Thriller, Horror, Mystery • mobe1969**
+
+An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim.
+
+[TMDB](1970)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Grudge%20%282004%29%28Unrated%29%20TrueHD%205.1.jpg)
 

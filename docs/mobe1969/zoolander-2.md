@@ -1,9 +1,12 @@
 # Zoolander 2
 
-* Author: mobe1969
-* Production Year: 2016
-
 ## DTS-X
+
+**2016 • PG-13 • 1h 40m • Comedy • mobe1969**
+
+Derek and Hansel are modelling again when an opposing company attempts to take them out from the business.
+
+[TMDB](329833)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zoolander%202%20%282016%29%20DTS-X.jpg)
 

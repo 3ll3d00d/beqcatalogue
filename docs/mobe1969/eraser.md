@@ -1,9 +1,12 @@
 # Eraser
 
-* Author: mobe1969
-* Production Year: 1996
-
 ## TrueHD 5.1
+
+**1996 • R • 1h 55m • Mystery, Thriller, Drama, Action • mobe1969**
+
+U.S. Marshall John Kruger erases the identities of people enrolled in the Witness Protection Program. His current assignment is to protect Lee Cullen, who's uncovered evidence that the weapons manufacturer she works for has been selling to terrorist groups. When Kruger discovers that there's a corrupt agent within the program, he must guard his own life while trying to protect Lee's.
+
+[TMDB](9268)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Eraser%20%281996%29%20TrueHD%205.1.jpg)
 

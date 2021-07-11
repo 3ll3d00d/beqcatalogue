@@ -1,9 +1,12 @@
 # Kill 'em All
 
-* Author: mobe1969
-* Production Year: 2017
-
 ## DTS-HD MA 5.1
+
+**2017 • R • 1h 36m • Crime, Action • mobe1969**
+
+After a massive shootout, a mysterious stranger (Van Damme) arrives at a local hospital on the brink of death. Then, a foreign gang brazenly comes to the hospital to hunt him down. His nurse, the sole surviving witness to the follow-up shootout, must face an FBI interrogation that unlocks a plot of international intrigue and revenge. With enough twists and turns, KILL'EM ALL will keep you guessing until the final bullet is fired.
+
+[TMDB](449503)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kill%20%27Em%20All%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,9 +1,12 @@
 # The Maiden Heist
 
-* Author: mobe1969
-* Production Year: 2009
-
 ## DTS-HD MA 5.1
+
+**2009 • PG-13 • 1h 31m • Comedy, Crime • mobe1969**
+
+A comedy centered on three museum security guards who devise a plan to steal back the artworks to which they have become attached after they are transferred to another museum.
+
+[TMDB](24271)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Maiden%20Heist%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 
