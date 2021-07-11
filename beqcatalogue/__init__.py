@@ -560,8 +560,8 @@ def generate_index_entry(author, page_name, content_format, content_name, year, 
     ''' dumps the summary info to the index page '''
     escaped = parse.quote(content_name)
     tmdb_ct = 'movie' if content_type == 'film' else 'tv'
-    tmdb = 'https://www.themoviedb.org/'
-    mdb_url = tmdb + f"search?query={escaped}" if not tmdb_id else f"{tmdb_ct}/{tmdb_id}"
+    tmdb = 'https://www.themoviedb.org'
+    mdb_url = f"{tmdb}/search?query={escaped}" if not tmdb_id else f"{tmdb}/{tmdb_ct}/{tmdb_id}"
     rt_url = f"https://www.rottentomatoes.com/search?search={escaped}"
     bd_url = f"https://www.blu-ray.com/movies/search.php?keyword={escaped}&submit=Search&action=search&"
     if content_type == 'film':
