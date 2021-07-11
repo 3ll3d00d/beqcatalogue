@@ -1,6 +1,7 @@
 import csv
 import hashlib
 import json
+import math
 import os
 import re
 from collections import defaultdict
@@ -301,14 +302,7 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
     ''' prints the md content page '''
     print(f"# {metas[0]['title']}", file=content_md)
     print("", file=content_md)
-    print(f"* Author: {author}", file=content_md)
-    if 'avs' in metas[0]:
-        print(f"* [Forum Post]({metas[0]['avs']})", file=content_md)
-    production_years = {m['year'] for m in metas}
     img_idx = 0
-    if len(production_years) == 1:
-        print(f"* Production Year: {production_years.pop()}", file=content_md)
-    print("", file=content_md)
     for meta in sorted(metas, key=lambda m: ', '.join(m.get('audioType', ''))):
         if 'pvaURL' not in meta and 'spectrumURL' not in meta:
             print(f"No charts found in {meta}")
@@ -323,16 +317,58 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
             if audio_type:
                 linked_content_format = ', '.join(audio_type)
                 print(f"## {linked_content_format}", file=content_md)
-                print("", file=content_md)
-                if production_years:
-                    print(f"* Production Year: {meta['year']}", file=content_md)
+                if 'edition' in meta:
                     print("", file=content_md)
+                    print(meta['edition'], file=content_md)
+                if 'altTitle' in meta and meta['altTitle'] != meta['title']:
+                    print("", file=content_md)
+                    print(meta['altTitle'], file=content_md)
+                extra_meta = []
+                if 'year' in meta:
+                    extra_meta.append(meta['year'])
+                if 'rating' in meta:
+                    extra_meta.append(meta['rating'])
+                if 'runtime' in meta:
+                    extra_meta.append(f"{math.floor(int(meta['runtime']) / 60)}h {int(meta['runtime']) % 60}m")
+                if 'language' in meta and meta['language'] != 'English':
+                    extra_meta.append(meta['language'])
+                if 'genres' in meta:
+                    g = ', '.join(meta['genres'])
+                    if g:
+                        extra_meta.append(g)
+                extra_meta.append(author)
+                print('', file=content_md)
+                e = ' \u2022 '.join(extra_meta)
+                print(f"**{e}**", file=content_md)
+                if 'overview' in meta:
+                    print('', file=content_md)
+                    print(meta['overview'], file=content_md)
+                if 'gain' in meta:
+                    print('', file=content_md)
+                    print(f"**MV Adjustment:** {'+' if float(meta['gain']) > 0 else ''}{meta['gain']} dB", file=content_md)
+                if 'note' in meta:
+                    print('', file=content_md)
+                    print(meta['note'], file=content_md)
+                if 'warning' in meta:
+                    print('', file=content_md)
+                    print(f"**{meta['warning']}**", file=content_md)
+                links = []
+                if 'avs' in meta:
+                    links.append(f"[Discuss]({meta['avs']})")
+                if 'theMovieDB' in meta:
+                    links.append(f"[TMDB]({meta['theMovieDB']})")
+                if links:
+                    print('', file=content_md)
+                    print('  '.join(links), file=content_md)
+                if actual_img_links:
+                    print('', file=content_md)
                 for img in actual_img_links:
                     print(f"![img {img_idx}]({img})", file=content_md)
                     print('', file=content_md)
-
+                    img_idx = img_idx + 1
                 bd_url = generate_index_entry(author, page_name, linked_content_format, meta['title'], meta['year'],
-                                              meta.get('avs', None), len(metas) > 1, index_entries)
+                                              meta.get('avs', None), meta.get('theMovieDB', None), len(metas) > 1,
+                                              index_entries)
                 prefix = 'https://beqcatalogue.readthedocs.io/en/latest'
                 beq_catalogue_url = f"{prefix}/{author}/{page_name}/#{slugify(linked_content_format, '-')}"
                 cols = [
@@ -465,8 +501,8 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
 
         extra_slug = f"#{slugify(long_season, '-')}" if long_season else ''
         bd_url = generate_index_entry(author, page_name, linked_content_format, f"{meta['title']} {short_season}",
-                                      meta['year'], meta.get('avs', None), len(metas) > 1, index_entries,
-                                      content_type='TV', extra_slug=extra_slug)
+                                      meta['year'], meta.get('avs', None), meta.get('theMovieDB', None),
+                                      len(metas) > 1, index_entries, content_type='TV', extra_slug=extra_slug)
         prefix = 'https://beqcatalogue.readthedocs.io/en/latest'
         slugified_link = f"/{extra_slug}" if extra_slug else ''
         beq_catalogue_url = f"{prefix}/{author}/{page_name}{slugified_link}"
@@ -519,11 +555,13 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
         }, meta['git_path'], author)
 
 
-def generate_index_entry(author, page_name, content_format, content_name, year, avs_url, multiformat, index_entries,
-                         content_type='film', extra_slug=None):
+def generate_index_entry(author, page_name, content_format, content_name, year, avs_url, tmdb_id, multiformat,
+                         index_entries, content_type='film', extra_slug=None):
     ''' dumps the summary info to the index page '''
     escaped = parse.quote(content_name)
-    mdb_url = f"https://www.themoviedb.org/search?query={escaped}"
+    tmdb_ct = 'movie' if content_type == 'film' else 'tv'
+    tmdb = 'https://www.themoviedb.org/'
+    mdb_url = tmdb + f"search?query={escaped}" if not tmdb_id else f"{tmdb_ct}/{tmdb_id}"
     rt_url = f"https://www.rottentomatoes.com/search?search={escaped}"
     bd_url = f"https://www.blu-ray.com/movies/search.php?keyword={escaped}&submit=Search&action=search&"
     if content_type == 'film':
