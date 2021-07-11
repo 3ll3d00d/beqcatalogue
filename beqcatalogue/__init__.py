@@ -93,7 +93,8 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
         meta['jsonfilters'] = [f.to_map() for f in filts]
         meta['filters'] = '^'.join([str(f) for f in filts])
         suffix = get_title_suffix(meta)
-        meta['page_title'] = f"{meta['title']}_{suffix}" if suffix else meta['title']
+        page_title = f"{meta['title']}_{suffix}" if suffix else meta['title']
+        meta['page_title'] = page_title.casefold()
         elements.append(meta)
     return elements
 
@@ -144,13 +145,13 @@ def group_mobe1969_film_content(content_meta):
         if 'title' in meta:
             title = meta['title']
             page_title = meta['page_title']
-            if title in by_title:
-                if page_title == by_title[title][0]['page_title']:
-                    by_title[title].append(meta)
+            if title.casefold() in by_title:
+                if page_title == by_title[title.casefold()][0]['page_title']:
+                    by_title[title.casefold()].append(meta)
                 else:
-                    by_title[page_title].append(meta)
+                    by_title[page_title.casefold()].append(meta)
             else:
-                by_title[title].append(meta)
+                by_title[title.casefold()].append(meta)
         else:
             entry = {
                 'title': meta['file_name'],
@@ -162,7 +163,7 @@ def group_mobe1969_film_content(content_meta):
                 entry['title'] = match.group(1)
                 entry['year'] = match.group(2)
                 entry['audioTypes'] = match.group(3).split('+')
-            entry['page_title'] = entry['title']
+            entry['page_title'] = entry['title'].casefold()
             print(f"Missing title entry, extracted {entry}")
             entry['filters'] = meta['jsonfilters']
             add_to_catalogue(entry, meta['git_path'], 'mobe1969')
