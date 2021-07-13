@@ -2,6 +2,8 @@
 
 ## DTS-HD MA 5.1
 
+Unrated
+
 **2007 • PG-13 • 2h 8m • Action, Thriller • mobe1969**
 
 John McClane is back and badder than ever, and this time he's working for Homeland Security. He calls on the services of a young hacker in his bid to stop a ring of Internet terrorists intent on taking control of America's computer infrastructure.
