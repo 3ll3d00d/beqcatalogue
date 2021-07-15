@@ -1,0 +1,12 @@
+# Colour of the Game
+
+## TrueHD 5.1
+
+**2017 • NR • 0h 0m • Cantonese • Drama, Action, Thriller, Crime • mobe1969**
+
+Da Hua, Ah Chun and a few others find themselves involved in wild and dangerous adventures when they get caught in a showdown between the China Mainland Police and Hong Kong bandits.
+
+[TMDB](479272)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Colour%20of%20the%20Game%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
+
