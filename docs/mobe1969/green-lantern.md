@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2011 • PG-13 • 1h 54m • Action, Science Fiction, Thriller, Adventure • mobe1969**
+**2011 • PG-13 • 1h 54m • Adventure, Action, Thriller, Science Fiction • mobe1969**
 
 For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.
 
@@ -12,9 +12,7 @@ For centuries, a small but powerful force of warriors called the Green Lantern C
 
 ## DTS-HD MA 5.1
 
-Extended
-
-**2011 • PG-13 • 1h 54m • Science Fiction, Action, Thriller, Adventure • mobe1969**
+**2011 • PG-13 • 2h 3m • Adventure, Action, Thriller, Science Fiction • mobe1969**
 
 For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.
 
