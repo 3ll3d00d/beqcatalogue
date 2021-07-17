@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2012 • R • 2h 11m • Drama, Thriller, Crime • mobe1969**
+**2012 • R • 2h 11m • Crime, Drama, Thriller • mobe1969**
 
 Pot growers Ben and Chon face off against the Mexican drug cartel who kidnapped their shared girlfriend.
 
