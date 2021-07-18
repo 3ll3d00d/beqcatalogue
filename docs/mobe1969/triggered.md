@@ -1,0 +1,12 @@
+# Triggered
+
+## AC3 5.1
+
+**2020 • R • 1h 30m • Thriller, Horror • mobe1969**
+
+Nine friends, all harboring a dark secret, go camping in the woods. After a wild night of partying, they wake up with suicide bombs strapped to their chests, all with varying times on their countdown clocks. They decide to work out how to disarm the bombs or find help - until they discover they can 'take' one another's time by killing each other.
+
+[TMDB](715239)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Triggered%20%282020%29%20AC3%205.1.jpg)
+
