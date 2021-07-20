@@ -1,12 +1,12 @@
-# ReBorn
+# Reborn
 
-## DTS-HD MA 5.1
+## TrueHD 5.1
 
-**2016 • NR • 1h 41m • Japanese • Action, Crime • mobe1969**
+**2018 • NR • 1h 39m • Mandarin • Science Fiction • mobe1969**
 
-A legend covert soldier with a mysterious past decides to unleash once again his beast within to stand up for what he cares about.
+Li Haoming, a talented funny geek enjoys living in his own virtual world and suddenly is dragged into a real dangerous hacker game by mysterious men. Contemporary police cyber security team go under cover in Shanghai and Kuala Lumpur to capture cybercriminal gang and thwart their attempt to hack computer control system.
 
-[TMDB](408866)
+[TMDB](542330)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/ReBorn%20%282016%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Reborn%20%282018%29%28Ma%29%20TrueHD%205.1.jpg)
 
