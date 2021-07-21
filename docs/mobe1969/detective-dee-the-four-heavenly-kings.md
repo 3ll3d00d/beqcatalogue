@@ -1,6 +1,6 @@
 # Detective Dee The Four Heavenly Kings
 
-## DTS-HD Master Audio 5.1
+## DTS-HD MA 5.1
 
 **2018 • NR • 2h 12m • Mandarin • Mystery, Fantasy, Adventure, Action • mobe1969**
 
@@ -8,5 +8,5 @@ Dee, the detective serving Chinese empress Wu Zetian, is called upon to investig
 
 [TMDB](506763)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Detective%20Dee%20The%20Four%20Heavenly%20Kings%20%282018%29%28Ma%29%20DTS-HD%20Master%20Audio%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Detective%20Dee%20The%20Four%20Heavenly%20Kings%20%282018%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 
