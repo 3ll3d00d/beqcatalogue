@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2011 • PG-13 • 1h 59m • Comedy, Crime, Action • mobe1969**
+**2011 • PG-13 • 1h 59m • Action, Crime, Comedy • mobe1969**
 
 Britt Reid, the heir to the largest newspaper fortune in Los Angeles, is a spoiled playboy who has been, thus far, happy to lead an aimless life. After his father dies, Britt meets Kato, a resourceful company employee. Realizing that they have the talent and resources to make something of their lives, Britt and Kato join forces as costumed crime-fighters to bring down the city's most-powerful criminal, Chudnofsky.
 
