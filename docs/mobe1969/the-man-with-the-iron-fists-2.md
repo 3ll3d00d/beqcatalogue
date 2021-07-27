@@ -2,6 +2,8 @@
 
 ## DTS-HD MA 5.1
 
+Unrated
+
 **2015 • R • 1h 30m • Action • mobe1969**
 
 When a stranger, Thaddeus, is found badly wounded near the village, miner Li Kung and his wife Ah Ni offer him refuge. As he heals, he becomes entrenched in a conflict that pits the townsfolk against the evil Master Ho, his nefarious Beetle Clan and the terrifying Lord Pi.
