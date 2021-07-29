@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2020 • R • 1h 46m • Action, Adventure • mobe1969**
+**2007 • R • 1h 39m • Horror, Action, Thriller • mobe1969**
 
-Battle-hardened OHara leads a lively mercenary team of soldiers on a daring mission: rescue hostages from their captors in remote Africa. But as the mission goes awry and the team is stranded, OHaras squad must face a bloody, brutal encounter with a gang of rebels.
+From the director of Wolf Creek comes this terrifying look at nature's perfect killing machine. When a group of tourists stumble into the remote Australian river territory of an enormous crocodile, the deadly creature traps them on a tiny mud island with the tide quickly rising and darkness descending. As the hungry predator closes in, they must fight for survival against all odds.
 
-[TMDB](718444)
+[TMDB](13022)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rogue%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rogue%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

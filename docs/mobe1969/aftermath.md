@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2014 • R • 1h 32m • Thriller, Drama • mobe1969**
+**2017 • R • 1h 32m • Drama, Thriller • mobe1969**
 
-Searching for a happy ending to a tale of unimaginable disaster and horror, nine strangers find themselves holed up together in a farmhouse cellar in rural Texas. The United States has hastily become embroiled in World War 3. A young doctor named Hunter survives the nuclear attack and is thrown together by happenstance with a group of wounded and frightened victims, including Elizabeth, a strong-willed confidant to Hunter, Brad - an antagonistic redneck jackass, and Jennifer, a barely coherent young woman suffering from severe post-traumatic stress. Together, they attempt to endure the devastating holocaust as they struggle with claustrophobia and conflicting personalities. In a makeshift shelter, Hunter and his dying companions wait for news from the government while fending off hunger, radiation sickness, and a horde of frightened and dying refugees
+A fatal plane crash changes the lives of Roman and Jake forever. Roman loses his wife and daughter in the accident, while Jake loses his mindas he happens to be the air traffic controller who failed to avert the nightmare. Rage and revenge engulfs Roman and Jake finds himself swamped with guilt and regret.
 
-[TMDB](188839)
+[TMDB](390051)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Aftermath%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Aftermath%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 
