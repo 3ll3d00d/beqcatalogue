@@ -14,7 +14,7 @@ Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell
 
 ## DTS-HD MA 5.1
 
-**1993 • R • 2h 0m • Action, Thriller, Crime, Romance • mobe1969**
+**1993 • R • 1h 58m • Action, Thriller, Crime, Romance • mobe1969**
 
 Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.
 

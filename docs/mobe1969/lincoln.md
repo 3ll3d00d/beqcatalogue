@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 7.1
 
-**2012 • R • 1h 34m • Action, Fantasy, Horror • mobe1969**
+**2012 • PG-13 • 2h 29m • Action, Fantasy, Horror • mobe1969**
 
-President Lincoln's mother is killed by a supernatural creature, which fuels his passion to crush vampires and their slave-owning helpers.
+The revealing story of the 16th US President's tumultuous final months in office. In a nation divided by war and the strong winds of change, Lincoln pursues a course of action designed to end the war, unite the country and abolish slavery. With the moral courage and fierce determination to succeed, his choices during this critical moment will change the fate of generations to come.
 
-[TMDB](72331)
+[TMDB](72976)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lincoln%20%282012%29%20DTS-HD%20MA%207.1.jpg)
 
