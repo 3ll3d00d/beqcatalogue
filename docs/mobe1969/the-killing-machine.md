@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2010 • NR • 1h 34m • Action, Science Fiction • mobe1969**
+**2010 • R • 1h 28m • Action, Drama, Thriller • mobe1969**
 
-A plane containing a highly classified government project crashes outside of a small town in the US. Realizing the level of danger, the government tries to secretly fix the problem. As tensions grow, the situation gets out of control, and civilians from the town find themselves facing their worst nightmare: a genetically enhanced killing machine that doesn't know how to stop.
+Trained KGB assassin, Edward Genn (code name ICARUS), worked years ago as a sleeper agent in America. But when the Soviet Union collapsed, he quickly found himself in a foreign country with no one to trust. Determined to escape his muddled existence, Edward tries to start over. He assumes a new identity, starts a family and tries to start his own legitimate business that could potentially pull him out of his world of being a hitman.
 
-[TMDB](194834)
+[TMDB](35402)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Killing%20Machine%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 
