@@ -14,7 +14,7 @@ In feudal China, a blacksmith who makes weapons for a small village is put in th
 
 Unrated
 
-**2012 • R • 1h 36m • Action • mobe1969**
+**2012 • R • 1h 42m • Action • mobe1969**
 
 In feudal China, a blacksmith who makes weapons for a small village is put in the position where he must defend himself and his fellow villagers.
 
