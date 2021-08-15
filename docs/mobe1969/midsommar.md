@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-DC
+Director's Cut
 
 **2019 • R • 2h 28m • Drama, Horror, Mystery • mobe1969**
 

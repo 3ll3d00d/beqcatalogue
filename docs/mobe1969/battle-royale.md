@@ -12,6 +12,8 @@ In the future, the Japanese government captures a class of ninth-grade students 
 
 ## TrueHD 7.1
 
+Director's Cut
+
 **2000 • R • 1h 54m • Japanese • Drama, Thriller, Action • mobe1969**
 
 In the future, the Japanese government captures a class of ninth-grade students and forces them to kill each other under the revolutionary "Battle Royale" act.

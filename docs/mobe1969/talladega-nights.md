@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Theatrical
+Theatrical Cut
 
 **2006 • PG-13 • 1h 47m • Comedy • mobe1969**
 
@@ -14,7 +14,7 @@ The fastest man on four wheels, Ricky Bobby is one of the greatest drivers in NA
 
 ## LPCM 5.1
 
-Theatrical
+Unrated Cut
 
 **2006 • PG-13 • 1h 47m • Comedy • mobe1969**
 

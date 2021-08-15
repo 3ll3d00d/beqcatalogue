@@ -14,7 +14,7 @@ After an encounter with UFOs, a line worker feels undeniably drawn to an isolate
 
 ## DTS-HD MA 5.1
 
-DC+SE+TC
+Director's Cut
 
 **1977 • PG • 2h 15m • Drama, Science Fiction • mobe1969**
 
@@ -26,7 +26,7 @@ After an encounter with UFOs, a line worker feels undeniably drawn to an isolate
 
 ## DTS-HD MA 5.1
 
-DC+SE+TC
+Theatrical Cut
 
 **1977 • PG • 2h 15m • Drama, Science Fiction • mobe1969**
 

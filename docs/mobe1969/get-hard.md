@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2015 • R • 1h 40m • Comedy • mobe1969**
 

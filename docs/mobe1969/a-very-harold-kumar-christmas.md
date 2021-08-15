@@ -2,7 +2,7 @@
 
 ## AC3 5.1
 
-Extended
+Extended Cut
 
 **2011 • R • 1h 48m • Comedy • mobe1969**
 

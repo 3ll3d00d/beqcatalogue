@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2020 • R • 1h 39m • Action, Crime • mobe1969**
 

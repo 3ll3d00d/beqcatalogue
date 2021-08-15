@@ -2,7 +2,7 @@
 
 ## DTS-X
 
-EC
+Extended Cut
 
 **1996 • PG-13 • 2h 25m • Adventure, Action, Science Fiction • mobe1969**
 

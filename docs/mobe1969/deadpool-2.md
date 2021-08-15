@@ -2,7 +2,7 @@
 
 ## Atmos
 
-Unrated
+Unrated Cut
 
 **2018 • PG-13 • 1h 59m • Comedy, Adventure, Action • mobe1969**
 
@@ -14,7 +14,7 @@ Wisecracking mercenary Deadpool battles the evil and powerful Cable and other ba
 
 ## Atmos
 
-Extended
+Extended Cut
 
 **2018 • PG-13 • 1h 59m • Adventure, Comedy, Action • mobe1969**
 

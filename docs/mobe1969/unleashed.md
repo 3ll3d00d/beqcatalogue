@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2005 • R • 1h 43m • Crime, Action • mobe1969**
 

@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-French Blu Ray
+Unrated Cut
 
 **2006 • R • 1h 31m • Horror, Thriller • mobe1969**
 

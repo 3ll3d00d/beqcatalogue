@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Unrated
+Unrated Cut
 
 **2006 • R • 1h 33m • Horror, Thriller • mobe1969**
 

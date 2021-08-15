@@ -12,7 +12,7 @@ Two estranged brothers reunite at their childhood home in the Alaskan wild. They
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2015 • R • 1h 34m • Action, Horror, Thriller • mobe1969**
 

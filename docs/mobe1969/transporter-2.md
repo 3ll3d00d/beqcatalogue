@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2005 • PG-13 • 1h 27m • Thriller, Action, Crime • mobe1969**
 

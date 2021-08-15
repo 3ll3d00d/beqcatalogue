@@ -12,7 +12,7 @@ When the rumored whereabouts of Osama bin Laden are revealed, the CIA readies a 
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2012 • NR • 1h 30m • Thriller, Action, Crime, Drama • mobe1969**
 

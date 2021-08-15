@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-Unrated
+Unrated Cut
 
 **2008 • R • 1h 52m • Action, Crime, Comedy • mobe1969**
 

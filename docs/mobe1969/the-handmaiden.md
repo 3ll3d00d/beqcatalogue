@@ -12,7 +12,7 @@
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2016 • R • 2h 48m • Korean • Thriller, Drama, Romance • mobe1969**
 

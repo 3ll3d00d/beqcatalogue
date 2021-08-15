@@ -12,7 +12,7 @@ A man steps out of a park fountain in Ho Chi Minh City with no recollection of w
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2019 • 18 • 1h 38m • Action, Science Fiction, Thriller, Horror • mobe1969**
 

@@ -2,7 +2,7 @@
 
 ## AC3 5.1
 
-Unrated
+Unrated Cut
 
 **2006 • R • 1h 50m • Comedy • mobe1969**
 

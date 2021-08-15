@@ -2,7 +2,7 @@
 
 ## LPCM 5.1
 
-DC
+Director's Cut
 
 **2000 • R • 1h 52m • Science Fiction, Action, Thriller • mobe1969**
 

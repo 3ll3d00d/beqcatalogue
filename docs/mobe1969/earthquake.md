@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 2.1
 
-TC
+Theatrical Cut
 
 **1974 • PG • 2h 3m • Thriller, Action, Drama • mobe1969**
 
@@ -14,7 +14,7 @@ Various interconnected people struggle to survive when an earthquake of unimagin
 
 ## DTS-HD MA 5.1
 
-TC
+Theatrical Cut
 
 **1974 • PG • 2h 3m • Thriller, Drama, Action • mobe1969**
 

@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 4.1
 
-Extended
+Extended Cut
 
 **1979 • R • 1h 57m • Science Fiction, Horror • mobe1969**
 

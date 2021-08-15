@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Unrated
+Unrated Cut
 
 **2007 • PG-13 • 2h 8m • Action, Thriller • mobe1969**
 

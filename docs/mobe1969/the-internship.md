@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2013 • PG-13 • 1h 59m • Comedy • mobe1969**
 

@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 7.1
 
-Extended
+Extended Cut
 
 **2008 • PG-13 • 1h 43m • Action, Comedy, Crime, Thriller, Science Fiction • mobe1969**
 

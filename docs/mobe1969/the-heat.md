@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2013 • R • 1h 57m • Comedy, Crime, Action • mobe1969**
 

@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 7.1
 
-Extended
+Extended Cut
 
 **2008 • R • 1h 47m • Comedy, Adventure • mobe1969**
 

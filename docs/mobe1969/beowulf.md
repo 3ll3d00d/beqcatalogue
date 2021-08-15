@@ -12,7 +12,7 @@ A 6th-century Scandinavian warrior named Beowulf embarks on a mission to slay th
 
 ## TrueHD 5.1
 
-DC
+Director's Cut
 
 **2007 • PG-13 • 1h 55m • Action, Animation, Adventure • mobe1969**
 

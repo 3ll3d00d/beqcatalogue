@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-Unrated
+Unrated Cut
 
 **2004 • PG-13 • 1h 32m • Thriller, Horror, Mystery • mobe1969**
 

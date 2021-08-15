@@ -2,7 +2,7 @@
 
 ## Atmos
 
-Extended
+Extended Cut
 
 **2019 • R • 1h 29m • Drama, Action, Thriller • mobe1969**
 

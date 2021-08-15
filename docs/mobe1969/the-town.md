@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2010 • R • 2h 30m • Crime, Drama, Thriller • mobe1969**
 

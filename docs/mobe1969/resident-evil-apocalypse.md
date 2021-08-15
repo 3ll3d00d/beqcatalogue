@@ -2,6 +2,8 @@
 
 ## Atmos
 
+Extended Cut
+
 **2004 • R • 1h 34m • Horror, Action, Science Fiction • mobe1969**
 
 As the city is locked down under quarantine, Alice joins a small band of elite soldiers, enlisted to rescue the missing daughter of the creator of the mutating T-virus. It's a heart-pounding race against time as the group faces off against hordes of blood- thirsty zombies, stealthy Lickers, mutant canines and the most sinister foe yet.

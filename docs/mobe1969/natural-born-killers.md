@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-DC
+Director's Cut
 
 **1994 • R • 1h 59m • Crime, Thriller, Drama • mobe1969**
 

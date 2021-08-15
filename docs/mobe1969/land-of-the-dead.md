@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Unrated
+Unrated Cut
 
 **2005 • R • 1h 33m • Science Fiction, Horror • mobe1969**
 

@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Unrated
+Unrated Cut
 
 **2012 • PG-13 • 1h 31m • TV Movie, Science Fiction • mobe1969**
 

@@ -14,7 +14,7 @@ Kyung-chul is a dangerous psychopath who kills for pleasure. He has committed in
 
 ## DTS-HD MA 5.1
 
-Theatrical
+Theatrical Cut
 
 **2010 • R • 2h 22m • Korean • Thriller, Horror • mobe1969**
 

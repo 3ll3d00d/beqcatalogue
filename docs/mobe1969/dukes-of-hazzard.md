@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Unrated
+Unrated Cut
 
 **2005 • PG-13 • 1h 44m • Comedy, Adventure, Action • mobe1969**
 

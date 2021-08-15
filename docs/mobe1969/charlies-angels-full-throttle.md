@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2003 • PG-13 • 1h 46m • Action, Adventure, Comedy • mobe1969**
 

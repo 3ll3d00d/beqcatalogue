@@ -12,7 +12,7 @@ A troubled young man is drawn to a mythical place called Midian where a variety 
 
 ## DTS-HD MA 5.1
 
-DC
+Director's Cut
 
 **1990 • R • 1h 42m • Drama, Action, Fantasy, Horror • mobe1969**
 

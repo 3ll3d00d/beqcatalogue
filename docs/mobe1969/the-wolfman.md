@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Extended
+Extended Cut
 
 **2010 • R • 1h 42m • History, Horror, Drama • mobe1969**
 

@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 7.1
 
-Extended
+Extended Cut
 
 **2004 • R • 1h 28m • Adventure, Comedy • mobe1969**
 

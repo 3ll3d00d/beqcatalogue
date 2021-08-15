@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Unrated
+Unrated Cut
 
 **1992 • R • 1h 40m • Thriller, Drama, Horror • mobe1969**
 

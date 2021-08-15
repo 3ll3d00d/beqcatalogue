@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-DC
+Director's Cut
 
 **1995 • R • 1h 59m • Horror, Fantasy • mobe1969**
 

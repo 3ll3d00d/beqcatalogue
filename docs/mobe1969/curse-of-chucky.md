@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Unrated
+Unrated Cut
 
 **2013 • R • 1h 37m • Thriller, Horror • mobe1969**
 

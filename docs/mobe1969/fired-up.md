@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-Unrated
+Unrated Cut
 
 **2009 • PG-13 • 1h 30m • Comedy • mobe1969**
 

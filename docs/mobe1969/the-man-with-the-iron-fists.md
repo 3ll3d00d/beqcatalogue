@@ -12,7 +12,7 @@ In feudal China, a blacksmith who makes weapons for a small village is put in th
 
 ## DTS-HD MA 5.1
 
-Unrated
+Unrated Cut
 
 **2012 • R • 1h 42m • Action • mobe1969**
 

@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Unrated
+Unrated Cut
 
 **2009 • R • 1h 50m • Horror, Crime, Drama, Thriller • mobe1969**
 

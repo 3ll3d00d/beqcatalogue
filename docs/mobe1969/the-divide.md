@@ -2,7 +2,7 @@
 
 ## TrueHD 7.1
 
-Unrated
+Unrated Cut
 
 **2011 • R • 1h 52m • Science Fiction, Horror • mobe1969**
 

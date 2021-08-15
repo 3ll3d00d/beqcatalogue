@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Unrated
+Unrated Cut
 
 **2014 • R • 1h 56m • Comedy, Western • mobe1969**
 
