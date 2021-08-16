@@ -16,7 +16,7 @@ After he reunites with an old pal through Facebook, a mild-mannered accountant i
 
 Extended Cut
 
-**2016 • PG-13 • 1h 47m • Action, Comedy, Mystery, Crime • mobe1969**
+**2016 • PG-13 • 1h 56m • Action, Comedy, Mystery, Crime • mobe1969**
 
 After he reunites with an old pal through Facebook, a mild-mannered accountant is lured into the world of international espionage.
 

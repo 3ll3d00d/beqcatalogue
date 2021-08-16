@@ -12,7 +12,7 @@ The story takes place in the year 2034, two years after the events in Ghost in t
 
 ## TrueHD 7.1
 
-**2007 • PG • 1h 45m • Japanese • Animation, Action, Thriller, Crime, Science Fiction • mobe1969**
+**2007 • PG • 1h 49m • Japanese • Animation, Action, Thriller, Crime, Science Fiction • mobe1969**
 
 The story takes place in the year 2034, two years after the events in Ghost in the Shell: S.A.C. 2nd GIG. Female cyborg Major Motoko Kusanagi has left Public Security Section 9, an elite counter-terrorist and anti-crime unit specializing in cyber-warfare, which has expanded to a team of 20 field operatives with Togusa acting as the field lead.
 
