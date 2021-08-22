@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2014 • NR • 1h 43m • Korean • Drama • mobe1969**
+**2014 • NR • 1h 39m • Korean • Drama • mobe1969**
 
 In response to a sudden dismissal of staff, workers at a big retail store begin a protest against their employer's oppressive labor policies.
 
