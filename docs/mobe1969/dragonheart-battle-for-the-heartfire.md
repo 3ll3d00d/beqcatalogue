@@ -1,4 +1,4 @@
-# Dragonheart Battle for the Heartfire
+# Dragonheart: Battle for the Heartfire
 
 ## DTS-HD MA 5.1
 
