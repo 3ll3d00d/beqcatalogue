@@ -1,4 +1,4 @@
-# Hirokin The Last Samurai
+# Hirokin: The Last Samurai
 
 ## DTS-HD MA 5.1
 

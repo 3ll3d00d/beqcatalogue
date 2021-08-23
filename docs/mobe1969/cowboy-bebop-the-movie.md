@@ -1,4 +1,4 @@
-# Cowboy Bebop The Movie
+# Cowboy Bebop: The Movie
 
 ## TrueHD 5.1
 

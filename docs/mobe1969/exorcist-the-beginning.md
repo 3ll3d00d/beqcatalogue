@@ -1,4 +1,4 @@
-# Exorcist The Beginning
+# Exorcist: The Beginning
 
 ## DTS-HD MA 5.1
 

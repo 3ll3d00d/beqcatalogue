@@ -1,4 +1,4 @@
-# Fantastic Four Rise of the Silver Surfer
+# Fantastic Four: Rise of the Silver Surfer
 
 ## DTS-HD MA 5.1
 

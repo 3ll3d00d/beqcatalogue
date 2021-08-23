@@ -1,4 +1,4 @@
-# Death Note L Change the World
+# Death Note: L: Change the WorLD
 
 ## DTS-HD MA 5.1
 

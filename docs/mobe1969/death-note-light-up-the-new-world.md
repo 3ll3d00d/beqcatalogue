@@ -1,4 +1,4 @@
-# Death Note Light Up the New World
+# Death Note: Light Up the New World
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# Smokin' Aces 2 Assassins' Ball
+# Smokin' Aces 2: Assassins' Ball
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# Ghost in the Shell SAC The Laughing Man
+# Ghost in the Shell: SAC: The Laughing Man
 
 ## TrueHD 5.1
 

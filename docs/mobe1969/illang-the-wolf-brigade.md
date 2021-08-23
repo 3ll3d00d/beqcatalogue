@@ -1,4 +1,4 @@
-# Illang The Wolf Brigade
+# Illang: The Wolf Brigade
 
 ## DTS-HD MA 5.1
 

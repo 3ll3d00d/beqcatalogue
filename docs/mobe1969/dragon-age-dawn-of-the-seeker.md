@@ -1,4 +1,4 @@
-# Dragon Age Dawn of the Seeker
+# Dragon Age: Dawn of the Seeker
 
 ## TrueHD 5.1
 

@@ -1,4 +1,4 @@
-# El Camino A Breaking Bad Movie
+# El Camino: A Breaking Bad Movie
 
 ## DTS-HD MA 5.1
 

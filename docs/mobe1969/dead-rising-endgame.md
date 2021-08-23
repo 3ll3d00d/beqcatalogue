@@ -1,4 +1,4 @@
-# Dead Rising Endgame
+# Dead Rising: Endgame
 
 ## DTS-HD MA 5.1
 

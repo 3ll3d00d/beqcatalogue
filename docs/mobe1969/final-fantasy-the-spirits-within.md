@@ -1,4 +1,4 @@
-# Final Fantasy The Spirits Within
+# Final Fantasy: The Spirits Within
 
 ## LPCM 5.1
 

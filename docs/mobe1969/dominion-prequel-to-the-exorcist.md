@@ -1,4 +1,4 @@
-# Dominion Prequel to the Exorcist
+# Dominion: Prequel to the Exorcist
 
 ## DTS-HD MA 5.1
 

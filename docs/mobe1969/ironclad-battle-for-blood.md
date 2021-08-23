@@ -1,4 +1,4 @@
-# Ironclad Battle for Blood
+# Ironclad: Battle for Blood
 
 ## DTS-HD MA 5.1
 

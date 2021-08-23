@@ -1,4 +1,4 @@
-# Along with the Gods The Last 49 Days
+# Along with the Gods: The Last 49 Days
 
 ## DTS-X
 

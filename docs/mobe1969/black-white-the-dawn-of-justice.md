@@ -1,4 +1,4 @@
-# Black & White The Dawn of Justice
+# Black & White: The Dawn of Justice
 
 ## TrueHD 5.1
 

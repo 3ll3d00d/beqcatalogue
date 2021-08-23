@@ -1,4 +1,4 @@
-# Berserk The Golden Age Arc II The Battle for Doldrey
+# Berserk: The Golden Age Arc II - The Battle for Doldrey
 
 ## DTS-HD MA 5.1
 

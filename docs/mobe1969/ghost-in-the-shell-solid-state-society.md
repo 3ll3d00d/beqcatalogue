@@ -1,4 +1,4 @@
-# Ghost in the Shell Solid State Society
+# Ghost in the Shell: Solid State Society
 
 ## TrueHD 5.1
 

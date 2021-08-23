@@ -1,4 +1,4 @@
-# Blood The Last Vampire
+# Blood: The Last Vampire
 
 ## DTS-HD MA 5.1
 

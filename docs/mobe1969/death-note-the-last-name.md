@@ -1,4 +1,4 @@
-# Death Note The Last Name
+# Death Note: The Last Name
 
 ## DTS-HD MA 5.1
 

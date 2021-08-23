@@ -1,4 +1,4 @@
-# Crouching Tiger, Hidden Dragon Sword of Destiny
+# Crouching Tiger, Hidden Dragon: Sword of Destiny
 
 ## TrueHD 5.1
 

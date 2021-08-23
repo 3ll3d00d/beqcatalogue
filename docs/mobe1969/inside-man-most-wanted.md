@@ -1,4 +1,4 @@
-# Inside Man Most Wanted
+# Inside Man: Most Wanted
 
 ## DTS-HD MA 5.1
 

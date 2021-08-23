@@ -1,4 +1,4 @@
-# Dauntless The Battle of Midway
+# Dauntless: The Battle of Midway
 
 ## DTS-HD MA 5.1
 

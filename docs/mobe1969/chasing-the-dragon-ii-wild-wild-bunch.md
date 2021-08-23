@@ -1,4 +1,4 @@
-# Chasing the Dragon II Wild Wild Bunch
+# Chasing the Dragon II: Wild Wild Bunch
 
 ## TrueHD 5.1
 

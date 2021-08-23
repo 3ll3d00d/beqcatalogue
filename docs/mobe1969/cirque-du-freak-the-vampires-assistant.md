@@ -1,4 +1,4 @@
-# Cirque Du Freak The Vampire's Assistant
+# Cirque du Freak: The Vampire's Assistant
 
 ## DTS-HD MA 5.1
 

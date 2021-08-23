@@ -1,4 +1,4 @@
-# Ghost in the Shell SAC Individual Eleven
+# Ghost in the Shell: SAC: Individual Eleven
 
 ## TrueHD 5.1
 

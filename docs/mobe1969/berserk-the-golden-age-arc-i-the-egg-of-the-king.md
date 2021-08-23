@@ -1,4 +1,4 @@
-# Berserk The Golden Age Arc I The Egg of the King
+# Berserk: The Golden Age Arc I - The Egg of the King
 
 ## DTS-HD MA 5.1
 

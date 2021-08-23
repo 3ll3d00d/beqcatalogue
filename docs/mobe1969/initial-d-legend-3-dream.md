@@ -1,4 +1,4 @@
-# Initial D Legend 3 : Dream
+# Initial D Legend 3: Dream
 
 ## DTS-HD MA 5.1
 

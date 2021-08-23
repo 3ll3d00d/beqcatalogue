@@ -1,4 +1,4 @@
-# Initial D Legend 1 : Awakening
+# Initial D Legend 1: Awakening
 
 ## DTS-HD MA 5.1
 

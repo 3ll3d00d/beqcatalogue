@@ -1,4 +1,4 @@
-# G.I. Joe Retaliation
+# G.I. Joe: Retaliation
 
 ## TrueHD 7.1
 

@@ -1,4 +1,4 @@
-# Battlestar Galactica Blood and Chrome
+# Battlestar Galactica: Blood and Chrome
 
 ## DTS-HD MA 5.1
 

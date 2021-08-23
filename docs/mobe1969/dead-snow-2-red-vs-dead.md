@@ -1,4 +1,4 @@
-# Dead Snow 2 Red vs. Dead
+# Dead Snow 2: Red vs. Dead
 
 ## AC3 5.1
 

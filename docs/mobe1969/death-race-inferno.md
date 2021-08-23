@@ -1,4 +1,4 @@
-# Death Race Inferno
+# Death Race: Inferno
 
 ## DTS-HD MA 5.1
 

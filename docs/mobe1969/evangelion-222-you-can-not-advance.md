@@ -1,4 +1,4 @@
-# Evangelion 2.22 You Can Not Advance
+# Evangelion: 2.22 You Can (Not) Advance
 
 ## TrueHD 6.1
 

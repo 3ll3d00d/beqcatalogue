@@ -1,4 +1,4 @@
-# Evangelion 3.33 You Can Not Redo
+# Evangelion: 3.33 You Can (Not) Redo
 
 ## TrueHD 5.1
 

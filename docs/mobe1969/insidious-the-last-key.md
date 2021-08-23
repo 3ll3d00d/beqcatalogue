@@ -1,4 +1,4 @@
-# Insidious The Last Key
+# Insidious: The Last Key
 
 ## DTS-HD MA 5.1
 

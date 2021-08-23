@@ -1,4 +1,4 @@
-# Dragonheart A New Beginning
+# Dragonheart: A New Beginning
 
 ## DTS-HD MA 5.1
 

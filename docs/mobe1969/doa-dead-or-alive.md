@@ -1,4 +1,4 @@
-# DOA Dead or Alive
+# DOA: Dead or Alive
 
 ## DTS-HD MA 5.1
 

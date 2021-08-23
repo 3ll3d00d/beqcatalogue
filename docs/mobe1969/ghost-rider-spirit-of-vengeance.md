@@ -1,4 +1,4 @@
-# Ghost Rider Spirit of Vengeance
+# Ghost Rider: Spirit of Vengeance
 
 ## DTS-HD MA 5.1
 

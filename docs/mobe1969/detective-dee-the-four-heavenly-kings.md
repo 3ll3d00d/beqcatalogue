@@ -1,4 +1,4 @@
-# Detective Dee The Four Heavenly Kings
+# Detective Dee: The Four Heavenly Kings
 
 ## DTS-HD MA 5.1
 

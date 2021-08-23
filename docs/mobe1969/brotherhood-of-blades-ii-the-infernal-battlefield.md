@@ -1,4 +1,4 @@
-# Brotherhood of Blades II The Infernal Battlefield
+# Brotherhood of Blades II: The Infernal Battlefield
 
 ## Atmos
 

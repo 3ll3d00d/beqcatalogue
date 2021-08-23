@@ -1,4 +1,4 @@
-# Berserk The Golden Age Arc III The Advent
+# Berserk: The Golden Age Arc III - The Advent
 
 ## DTS-HD MA 5.1
 

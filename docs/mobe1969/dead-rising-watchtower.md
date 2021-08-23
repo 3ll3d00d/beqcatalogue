@@ -1,4 +1,4 @@
-# Dead Rising Watchtower
+# Dead Rising: Watchtower
 
 ## DTS-HD MA 5.1
 

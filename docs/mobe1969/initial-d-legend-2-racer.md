@@ -1,4 +1,4 @@
-# Initial D Legend 2 : Racer
+# Initial D Legend 2: Racer
 
 ## DTS-HD MA 5.1
 

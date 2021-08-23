@@ -1,4 +1,4 @@
-# Garm Wars The Last Druid
+# Garm Wars: The Last Druid
 
 ## DTS-HD MA 5.1
 

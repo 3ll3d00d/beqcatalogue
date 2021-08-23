@@ -1,4 +1,4 @@
-# Ghost in the Shell 2 Innocence
+# Ghost in the Shell 2: Innocence
 
 ## DTS-X
 

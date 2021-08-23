@@ -1,4 +1,4 @@
-# Appleseed Ex Machina
+# Appleseed: Ex Machina
 
 ## AC3 5.1
 

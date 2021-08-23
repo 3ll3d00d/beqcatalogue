@@ -1,4 +1,4 @@
-# Final Fantasy VII Advent Children
+# Final Fantasy VII: Advent Children
 
 ## Atmos
 

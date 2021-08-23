@@ -1,4 +1,4 @@
-# Along with the Gods The Two Worlds
+# Along with the Gods: The Two Worlds
 
 ## DTS-HD MA 5.1
 

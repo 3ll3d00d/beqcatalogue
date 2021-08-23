@@ -1,4 +1,4 @@
-# From Dusk Till Dawn 2 Texas Blood Money
+# From Dusk Till Dawn 2: Texas Blood Money
 
 ## DTS-HD MA 5.1
 

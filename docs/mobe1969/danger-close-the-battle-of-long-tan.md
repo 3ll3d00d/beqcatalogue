@@ -1,4 +1,4 @@
-# Danger Close The Battle of Long Tan
+# Danger Close: The Battle of Long Tan
 
 ## DTS-HD MA 5.1
 

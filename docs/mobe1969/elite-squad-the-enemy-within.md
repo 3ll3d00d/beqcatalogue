@@ -1,4 +1,4 @@
-# Elite Squad The Enemy Within
+# Elite Squad: The Enemy Within
 
 ## DTS-HD MA 5.1
 
