@@ -1,4 +1,4 @@
-# Star Trek V The Final Frontier
+# Star Trek V: The Final Frontier
 
 ## TrueHD 7.1
 

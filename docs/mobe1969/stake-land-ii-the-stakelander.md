@@ -1,4 +1,4 @@
-# Stake Land II The Stakelander
+# Stake Land II: The Stakelander
 
 ## DTS-HD MA 5.1
 

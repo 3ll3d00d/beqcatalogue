@@ -1,4 +1,4 @@
-# Under Siege 2 Dark Territory
+# Under Siege 2: Dark Territory
 
 ## AC3 5.1
 

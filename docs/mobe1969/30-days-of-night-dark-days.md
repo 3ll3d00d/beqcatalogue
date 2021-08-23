@@ -1,4 +1,4 @@
-# 30 Days of Night Dark Days
+# 30 Days of Night: Dark Days
 
 ## DTS-HD MA 5.1
 

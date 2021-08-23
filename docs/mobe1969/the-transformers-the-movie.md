@@ -1,4 +1,4 @@
-# The Transformers The Movie
+# The Transformers: The Movie
 
 ## DTS-HD MA 5.1
 

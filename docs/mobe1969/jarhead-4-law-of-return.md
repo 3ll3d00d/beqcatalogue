@@ -1,4 +1,4 @@
-# Jarhead 4 Law of Return
+# Jarhead 4: Law of Return
 
 ## DTS-HD MA 5.1
 

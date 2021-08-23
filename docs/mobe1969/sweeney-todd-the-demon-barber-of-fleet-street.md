@@ -1,4 +1,4 @@
-# Sweeney Todd The Demon Barber of Fleet Street
+# Sweeney Todd: The Demon Barber of Fleet Street
 
 ## TrueHD 5.1
 

@@ -1,4 +1,4 @@
-# Mojin The Worm Valley
+# Mojin: The Worm Valley
 
 ## DTS-HD MA 5.1
 

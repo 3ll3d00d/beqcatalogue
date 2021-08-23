@@ -1,4 +1,4 @@
-# Trigun Badlands Rumble
+# Trigun: Badlands Rumble
 
 ## TrueHD 5.1
 

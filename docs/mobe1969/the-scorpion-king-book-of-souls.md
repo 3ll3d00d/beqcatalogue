@@ -1,4 +1,4 @@
-# The Scorpion King Book of Souls
+# The Scorpion King: Book of Souls
 
 ## DTS-HD MA 5.1
 

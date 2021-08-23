@@ -1,4 +1,4 @@
-# Sniper Assassin's End
+# Sniper: Assassin's End
 
 ## DTS-HD MA 5.1
 

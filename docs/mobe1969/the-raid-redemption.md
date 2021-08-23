@@ -1,4 +1,4 @@
-# The Raid Redemption
+# The Raid: Redemption
 
 ## DTS-HD MA 5.1
 

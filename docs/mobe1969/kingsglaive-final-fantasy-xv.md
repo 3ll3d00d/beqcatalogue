@@ -1,4 +1,4 @@
-# Kingsglaive Final Fantasy XV
+# Kingsglaive: Final Fantasy XV
 
 ## DTS-HD MA 5.1
 

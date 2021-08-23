@@ -1,4 +1,4 @@
-# Star Trek III The Search for Spock
+# Star Trek III: The Search for Spock
 
 ## TrueHD 7.1
 

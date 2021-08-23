@@ -1,4 +1,4 @@
-# S.W.A.T. Under Siege
+# S.W.A.T.: Under Siege
 
 ## DTS-HD MA 5.1
 

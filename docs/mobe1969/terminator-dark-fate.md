@@ -1,4 +1,4 @@
-# Terminator Dark Fate
+# Terminator: Dark Fate
 
 ## Atmos
 

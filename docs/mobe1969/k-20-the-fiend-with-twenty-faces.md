@@ -1,4 +1,4 @@
-# K-20 The Fiend with Twenty Faces
+# K-20: The Fiend with Twenty Faces
 
 ## DTS-HD MA 5.1
 

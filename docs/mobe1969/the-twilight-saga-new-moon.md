@@ -1,4 +1,4 @@
-# The Twilight Saga New Moon
+# The Twilight Saga: New Moon
 
 ## DTS-HD MA 5.1
 

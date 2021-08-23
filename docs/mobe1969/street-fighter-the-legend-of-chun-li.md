@@ -1,4 +1,4 @@
-# Street Fighter The Legend of Chun-Li
+# Street Fighter: The Legend of Chun-Li
 
 ## DTS-HD MA 5.1
 

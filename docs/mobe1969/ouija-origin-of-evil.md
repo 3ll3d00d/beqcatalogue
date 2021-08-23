@@ -1,4 +1,4 @@
-# Ouija Origin of Evil
+# Ouija: Origin of Evil
 
 ## DTS-HD MA 5.1
 

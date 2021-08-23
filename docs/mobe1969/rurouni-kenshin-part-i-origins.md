@@ -1,4 +1,4 @@
-# Rurouni Kenshin Part I Origins
+# Rurouni Kenshin Part I: Origins
 
 ## DTS-HD MA 5.1
 

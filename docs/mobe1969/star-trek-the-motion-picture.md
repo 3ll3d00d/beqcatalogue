@@ -1,4 +1,4 @@
-# Star Trek The Motion Picture
+# Star Trek: The Motion Picture
 
 ## TrueHD 7.1
 

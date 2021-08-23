@@ -1,4 +1,4 @@
-# 12 Rounds 2 Reloaded
+# 12 Rounds 2: Reloaded
 
 ## DTS-HD MA 5.1
 

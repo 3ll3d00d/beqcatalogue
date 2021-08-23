@@ -1,4 +1,4 @@
-# Jin-Roh The Wolf Brigade
+# Jin-Roh: The Wolf Brigade
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# Jarhead 3 The Siege
+# Jarhead 3: The Siege
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# Urban Legends Final Cut
+# Urban Legends: Final Cut
 
 ## TrueHD 5.1
 

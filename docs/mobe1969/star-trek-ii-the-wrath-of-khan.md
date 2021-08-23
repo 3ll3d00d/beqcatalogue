@@ -1,4 +1,4 @@
-# Star Trek II The Wrath of Khan
+# Star Trek II: The Wrath of Khan
 
 ## TrueHD 7.1
 

@@ -1,4 +1,4 @@
-# Trinity and Beyond The Atomic Bomb Movie
+# Trinity and Beyond: The Atomic Bomb Movie
 
 ## AC3 5.1
 

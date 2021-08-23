@@ -1,4 +1,4 @@
-# Tremors 4 The Legend Begins
+# Tremors 4: The Legend Begins
 
 ## DTS-HD MA 5.1
 

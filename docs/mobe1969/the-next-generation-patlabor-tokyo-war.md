@@ -1,4 +1,4 @@
-# The Next Generation Patlabor Tokyo War
+# The Next Generation Patlabor: Tokyo War
 
 ## Atmos
 

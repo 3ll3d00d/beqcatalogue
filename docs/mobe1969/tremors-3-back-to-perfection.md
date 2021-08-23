@@ -1,4 +1,4 @@
-# Tremors 3 Back to Perfection
+# Tremors 3: Back to Perfection
 
 ## DTS-HD MA 5.1
 

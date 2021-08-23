@@ -1,4 +1,4 @@
-# Quarantine 2 Terminal
+# Quarantine 2: Terminal
 
 ## AC3 5.1
 

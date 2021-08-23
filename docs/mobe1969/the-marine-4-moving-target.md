@@ -1,4 +1,4 @@
-# The Marine 4 Moving Target
+# The Marine 4: Moving Target
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# Starship Troopers 3 Marauder
+# Starship Troopers 3: Marauder
 
 ## TrueHD 5.1
 

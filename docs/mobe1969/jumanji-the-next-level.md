@@ -1,4 +1,4 @@
-# Jumanji The Next Level
+# Jumanji: The Next Level
 
 ## DTS-X
 

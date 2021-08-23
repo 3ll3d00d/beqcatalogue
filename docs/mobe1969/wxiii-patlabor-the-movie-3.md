@@ -1,4 +1,4 @@
-# WXIII Patlabor The Movie 3
+# WXIII: Patlabor The Movie 3
 
 ## TrueHD 5.1
 

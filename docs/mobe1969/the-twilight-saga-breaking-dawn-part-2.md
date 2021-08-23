@@ -1,4 +1,4 @@
-# The Twilight Saga Breaking Dawn : Part 2
+# The Twilight Saga: Breaking Dawn - Part 2
 
 ## DTS-HD MA 7.1
 

@@ -1,4 +1,4 @@
-# Sinbad Legend of the Seven Seas
+# Sinbad: Legend of the Seven Seas
 
 ## DTS-HD MA 5.1
 

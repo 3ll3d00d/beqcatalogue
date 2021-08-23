@@ -1,4 +1,4 @@
-# Team America World Police
+# Team America: World Police
 
 ## DTS-HD MA 5.1
 

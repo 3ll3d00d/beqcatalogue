@@ -1,4 +1,4 @@
-# Rec 4 Apocalypse
+# Rec 4: Apocalypse
 
 ## DTS-HD MA 5.1
 

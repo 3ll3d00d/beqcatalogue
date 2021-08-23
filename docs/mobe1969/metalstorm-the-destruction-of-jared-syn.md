@@ -1,4 +1,4 @@
-# Metalstorm The Destruction of Jared-Syn
+# Metalstorm: The Destruction of Jared-Syn
 
 ## DTS-HD MA 5.1
 

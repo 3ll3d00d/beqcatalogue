@@ -1,4 +1,4 @@
-# National Treasure Book of Secrets
+# National Treasure: Book of Secrets
 
 ## TrueHD 5.1
 

@@ -1,4 +1,4 @@
-# The Texas Chainsaw Massacre The Beginning
+# The Texas Chainsaw Massacre: The Beginning
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# The Marine 6 Close Quarters
+# The Marine 6: Close Quarters
 
 ## DTS-HD MA 5.1
 

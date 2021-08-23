@@ -1,4 +1,4 @@
-# Stagecoach The Texas Jack Story
+# Stagecoach: The Texas Jack Story
 
 ## DTS-HD MA 5.1
 

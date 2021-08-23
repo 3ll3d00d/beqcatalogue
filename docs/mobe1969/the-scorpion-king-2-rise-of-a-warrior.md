@@ -1,4 +1,4 @@
-# The Scorpion King 2 Rise of a Warrior
+# The Scorpion King 2: Rise of a Warrior
 
 ## DTS-HD MA 5.1
 

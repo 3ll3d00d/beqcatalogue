@@ -1,4 +1,4 @@
-# Starship Troopers 2 Hero of the Federation
+# Starship Troopers 2: Hero of the Federation
 
 ## TrueHD 5.1
 

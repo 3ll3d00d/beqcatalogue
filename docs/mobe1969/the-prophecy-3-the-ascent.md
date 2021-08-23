@@ -1,4 +1,4 @@
-# The Prophecy 3 The Ascent
+# The Prophecy 3: The Ascent
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# Urban Legends Bloody Mary
+# Urban Legends: Bloody Mary
 
 ## AC3 2.0
 

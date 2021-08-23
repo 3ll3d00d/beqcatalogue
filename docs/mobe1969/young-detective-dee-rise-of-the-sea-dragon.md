@@ -1,4 +1,4 @@
-# Young Detective Dee Rise of the Sea Dragon
+# Young Detective Dee: Rise of the Sea Dragon
 
 ## DTS-HD MA 7.1
 

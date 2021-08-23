@@ -1,4 +1,4 @@
-# Journey 2 The Mysterious Island
+# Journey 2: The Mysterious Island
 
 ## DTS-HD MA 5.1
 

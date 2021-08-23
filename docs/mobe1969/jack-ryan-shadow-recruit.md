@@ -1,4 +1,4 @@
-# Jack Ryan Shadow Recruit
+# Jack Ryan: Shadow Recruit
 
 ## DTS-HD MA 7.1
 

@@ -1,4 +1,4 @@
-# The Chronicles of Narnia Prince Caspian
+# The Chronicles of Narnia: Prince Caspian
 
 ## DTS-HD MA 7.1
 

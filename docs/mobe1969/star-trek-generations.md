@@ -1,4 +1,4 @@
-# Star Trek Generations
+# Star Trek: Generations
 
 ## TrueHD 5.1
 

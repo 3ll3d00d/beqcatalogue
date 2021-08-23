@@ -1,4 +1,4 @@
-# The Strangers Prey at Night
+# The Strangers: Prey at Night
 
 ## DTS-HD MA 5.1
 

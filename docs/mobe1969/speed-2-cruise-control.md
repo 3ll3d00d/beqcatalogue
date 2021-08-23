@@ -1,4 +1,4 @@
-# Speed 2 Cruise Control
+# Speed 2: Cruise Control
 
 ## DTS-HD MA 5.1
 

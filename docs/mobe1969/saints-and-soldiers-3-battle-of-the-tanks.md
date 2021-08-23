@@ -1,4 +1,4 @@
-# Saints and Soldiers 3 Battle of the Tanks
+# Saints and Soldiers 3: Battle of the Tanks
 
 ## DTS-HD MA 5.1
 

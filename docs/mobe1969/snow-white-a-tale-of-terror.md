@@ -1,4 +1,4 @@
-# Snow White A Tale of Terror
+# Snow White: A Tale of Terror
 
 ## TrueHD 5.1
 

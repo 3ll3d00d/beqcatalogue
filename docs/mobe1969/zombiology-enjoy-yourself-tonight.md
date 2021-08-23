@@ -1,4 +1,4 @@
-# Zombiology Enjoy Yourself Tonight
+# Zombiology: Enjoy Yourself Tonight
 
 ## TrueHD 5.1
 

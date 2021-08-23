@@ -1,4 +1,4 @@
-# The Chronicles of Narnia The Lion, The Witch and the Wardrobe
+# The Chronicles of Narnia: The Lion, The Witch and the Wardrobe
 
 ## LPCM 5.1
 

@@ -1,4 +1,4 @@
-# The Chronicles of Narnia Voyage of the Dawn Treader
+# The Chronicles of Narnia: Voyage of the Dawn Treader
 
 ## DTS-HD MA 5.1
 

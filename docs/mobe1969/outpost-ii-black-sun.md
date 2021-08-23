@@ -1,4 +1,4 @@
-# Outpost II Black Sun
+# Outpost II: Black Sun
 
 ## DTS-HD MA 5.1
 

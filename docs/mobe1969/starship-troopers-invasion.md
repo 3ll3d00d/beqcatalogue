@@ -1,4 +1,4 @@
-# Starship Troopers Invasion
+# Starship Troopers: Invasion
 
 ## DTS-HD MA 5.1
 

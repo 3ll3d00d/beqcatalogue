@@ -1,4 +1,4 @@
-# Star Trek VI The Undiscovered Country
+# Star Trek VI: The Undiscovered Country
 
 ## TrueHD 7.1
 

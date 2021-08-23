@@ -1,4 +1,4 @@
-# Undisputed III Redemption
+# Undisputed III: Redemption
 
 ## DTS-HD MA 5.1
 

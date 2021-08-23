@@ -1,4 +1,4 @@
-# Tales from the Crypt Demon Knight
+# Tales from the Crypt: Demon Knight
 
 ## DTS-HD MA 5.1
 

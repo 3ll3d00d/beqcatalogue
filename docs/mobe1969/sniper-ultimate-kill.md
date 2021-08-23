@@ -1,4 +1,4 @@
-# Sniper Ultimate Kill
+# Sniper: Ultimate Kill
 
 ## DTS-HD MA 5.1
 

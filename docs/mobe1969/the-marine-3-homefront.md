@@ -1,4 +1,4 @@
-# The Marine 3 Homefront
+# The Marine 3: Homefront
 
 ## DTS-HD MA 5.1
 

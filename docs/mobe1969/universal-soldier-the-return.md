@@ -1,4 +1,4 @@
-# Universal Soldier The Return
+# Universal Soldier: The Return
 
 ## TrueHD 5.1
 

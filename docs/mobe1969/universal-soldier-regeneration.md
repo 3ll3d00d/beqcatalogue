@@ -1,4 +1,4 @@
-# Universal Soldier Regeneration
+# Universal Soldier: Regeneration
 
 ## DTS-HD MA 5.1
 

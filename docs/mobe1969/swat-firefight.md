@@ -1,4 +1,4 @@
-# S.W.A.T. Firefight
+# S.W.A.T.: Firefight
 
 ## DTS-HD MA 5.1
 

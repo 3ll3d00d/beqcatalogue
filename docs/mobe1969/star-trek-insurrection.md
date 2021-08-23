@@ -1,4 +1,4 @@
-# Star Trek Insurrection
+# Star Trek: Insurrection
 
 ## TrueHD 5.1
 

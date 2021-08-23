@@ -1,4 +1,4 @@
-# The Twilight Saga Breaking Dawn : Part 1
+# The Twilight Saga: Breaking Dawn - Part 1
 
 ## DTS-HD MA 5.1
 

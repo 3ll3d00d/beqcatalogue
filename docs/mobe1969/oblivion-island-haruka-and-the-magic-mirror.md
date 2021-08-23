@@ -1,4 +1,4 @@
-# Oblivion Island Haruka and the Magic Mirror
+# Oblivion Island: Haruka and the Magic Mirror
 
 ## TrueHD 5.1
 

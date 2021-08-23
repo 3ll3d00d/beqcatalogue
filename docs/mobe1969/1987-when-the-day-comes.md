@@ -1,4 +1,4 @@
-# 1987 When the Day Comes
+# 1987: When the Day Comes
 
 ## TrueHD 5.1
 

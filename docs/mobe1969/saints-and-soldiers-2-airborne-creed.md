@@ -1,4 +1,4 @@
-# Saints and Soldiers 2 Airborne Creed
+# Saints and Soldiers 2: Airborne Creed
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# The Prophecy Uprising
+# The Prophecy: Uprising
 
 ## DTS-HD MA 5.1
 

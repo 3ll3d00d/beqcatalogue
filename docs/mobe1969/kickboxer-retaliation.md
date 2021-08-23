@@ -1,4 +1,4 @@
-# Kickboxer Retaliation
+# Kickboxer: Retaliation
 
 ## DTS-HD MA 5.1
 

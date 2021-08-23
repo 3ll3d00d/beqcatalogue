@@ -1,4 +1,4 @@
-# Lost Boys The Thirst
+# Lost Boys: The Thirst
 
 ## DTS-HD MA 5.1
 

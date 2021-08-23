@@ -1,4 +1,4 @@
-# Outpost III Rise of the Spetsnaz
+# Outpost III: Rise of the Spetsnaz
 
 ## DTS-HD MA 5.1
 

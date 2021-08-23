@@ -1,4 +1,4 @@
-# The Scorpion King 3 Battle for Redemption
+# The Scorpion King 3: Battle for Redemption
 
 ## DTS-HD MA 5.1
 

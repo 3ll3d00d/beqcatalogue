@@ -1,4 +1,4 @@
-# Jarhead 2 Field of Fire
+# Jarhead 2: Field of Fire
 
 ## DTS-HD MA 5.1
 

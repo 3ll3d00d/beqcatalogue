@@ -1,4 +1,4 @@
-# Tremors A Cold Day in Hell
+# Tremors: A Cold Day in Hell
 
 ## DTS-HD MA 5.1
 

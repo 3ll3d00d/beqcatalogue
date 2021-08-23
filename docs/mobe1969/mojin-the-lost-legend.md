@@ -1,4 +1,4 @@
-# Mojin The Lost Legend
+# Mojin: The Lost Legend
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# The Twilight Saga Eclipse
+# The Twilight Saga: Eclipse
 
 ## DTS-HD MA 5.1
 

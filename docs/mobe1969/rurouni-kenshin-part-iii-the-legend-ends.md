@@ -1,4 +1,4 @@
-# Rurouni Kenshin Part III The Legend Ends
+# Rurouni Kenshin Part III: The Legend Ends
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# 12 Rounds 3 Lockdown
+# 12 Rounds 3: Lockdown
 
 ## DTS-HD MA 5.1
 

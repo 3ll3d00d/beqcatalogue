@@ -1,4 +1,4 @@
-# Tales of Vesperia The First Strike
+# Tales of Vesperia: The First Strike
 
 ## TrueHD 5.1
 

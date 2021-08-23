@@ -1,4 +1,4 @@
-# Universal Soldier Day of Reckoning
+# Universal Soldier: Day of Reckoning
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# Zathura A Space Adventure
+# Zathura: A Space Adventure
 
 ## DTS-HD MA 5.1
 

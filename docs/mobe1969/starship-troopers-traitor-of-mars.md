@@ -1,4 +1,4 @@
-# Starship Troopers Traitor of Mars
+# Starship Troopers: Traitor of Mars
 
 ## Atmos
 

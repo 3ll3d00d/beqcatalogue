@@ -1,4 +1,4 @@
-# Sniper Reloaded
+# Sniper: Reloaded
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# The Scorpion King 4 Quest for Power
+# The Scorpion King 4: Quest for Power
 
 ## DTS-HD MA 5.1
 

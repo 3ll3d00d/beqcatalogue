@@ -1,4 +1,4 @@
-# Prince of Persia The Sands of Time
+# Prince of Persia: The Sands of Time
 
 ## DTS-HD MA 5.1
 

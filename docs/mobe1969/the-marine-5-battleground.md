@@ -1,4 +1,4 @@
-# The Marine 5 Battleground
+# The Marine 5: Battleground
 
 ## DTS-HD MA 5.1
 

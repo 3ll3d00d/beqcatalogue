@@ -1,4 +1,4 @@
-# Mozu The Movie
+# Mozu: The Movie
 
 ## TrueHD 5.1
 

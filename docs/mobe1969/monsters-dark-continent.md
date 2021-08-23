@@ -1,4 +1,4 @@
-# Monsters Dark Continent
+# Monsters: Dark Continent
 
 ## DTS-HD MA 5.1
 

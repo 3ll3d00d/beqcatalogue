@@ -1,4 +1,4 @@
-# USS Indianapolis Men of Courage
+# USS Indianapolis: Men of Courage
 
 ## DTS-HD MA 5.1
 

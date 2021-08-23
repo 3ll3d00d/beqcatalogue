@@ -1,4 +1,4 @@
-# Rurouni Kenshin Part II Kyoto Inferno
+# Rurouni Kenshin Part II: Kyoto Inferno
 
 ## DTS-HD MA 5.1
 

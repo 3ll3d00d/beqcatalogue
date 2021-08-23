@@ -1,4 +1,4 @@
-# The Mummy Tomb of the Dragon Emperor
+# The Mummy: Tomb of the Dragon Emperor
 
 ## DTS-HD MA 5.1
 

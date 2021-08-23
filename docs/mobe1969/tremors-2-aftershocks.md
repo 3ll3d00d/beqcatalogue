@@ -1,4 +1,4 @@
-# Tremors 2 Aftershocks
+# Tremors 2: Aftershocks
 
 ## DTS-HD MA 2.0
 
