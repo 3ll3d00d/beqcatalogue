@@ -1,4 +1,4 @@
-# Jimmy Vestvood Amerikan Hero
+# Jimmy Vestvood: Amerikan Hero
 
 ## DTS-HD MA 5.1
 

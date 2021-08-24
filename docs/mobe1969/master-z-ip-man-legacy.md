@@ -1,4 +1,4 @@
-# Master Z Ip Man Legacy
+# Master Z: Ip Man Legacy
 
 ## DTS-HD MA 5.1
 
