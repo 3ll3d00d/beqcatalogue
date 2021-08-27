@@ -20,3 +20,12 @@
 
 ![img 0](https://i.imgur.com/4yRk9tG.jpg)
 
+## Season 1 Episode 3
+
+* DD+ Atmos
+
+* [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+* Production Year: 2021
+
+![img 0](https://i.imgur.com/clwkIf1.jpeg)
+
