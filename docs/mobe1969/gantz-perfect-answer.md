@@ -1,4 +1,4 @@
-# Gantz Perfect Answer
+# Gantz: Perfect Answer
 
 ## DTS-HD MA 5.1
 

@@ -1,0 +1,12 @@
+# Billy Lynn's Long Halftime Walk
+
+## DTS-HD MA 5.1
+
+**2016 • R • 1h 53m • Drama, War • mobe1969**
+
+19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America's perceptions.
+
+[TMDB](293767)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Billy%20Lynn%27s%20Long%20Halftime%20Walk%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+
