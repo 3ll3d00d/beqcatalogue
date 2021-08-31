@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2016 • NR • 2h 13m • Thriller • mobe1969**
+**2016 • NR • 1h 46m • Thriller • mobe1969**
 
 After a failed assassination attempt, a soldier finds himself stranded in the desert. Exposed to the elements, he must survive the dangers of the desert and battle the psychological and physical toll of the treacherous conditions.
 

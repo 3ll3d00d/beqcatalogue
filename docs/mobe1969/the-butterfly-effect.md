@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2004 • R • 1h 53m • Science Fiction, Thriller • mobe1969**
+**2004 • R • 1h 59m • Science Fiction, Thriller • mobe1969**
 
 A young man struggles to access sublimated childhood memories. He finds a technique that allows him to travel back into the past, to occupy his childhood body and change history. However, he soon finds that every change he makes has unexpected consequences.
 
