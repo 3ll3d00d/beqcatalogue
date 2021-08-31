@@ -1,4 +1,4 @@
-# Warning Do Not Play
+# Warning: Do Not Play
 
 ## DTS-HD MA 5.1
 
