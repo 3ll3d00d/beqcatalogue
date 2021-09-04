@@ -1,0 +1,12 @@
+# Mortal Kombat
+
+## Atmos
+
+**2021 • R • 1h 50m • Action, Fantasy, Adventure • mobe1969**
+
+Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
+
+[TMDB](460465)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mortal%20Kombat%20%282021%29%20Atmos.jpg)
+
