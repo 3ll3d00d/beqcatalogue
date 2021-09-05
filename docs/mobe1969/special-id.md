@@ -12,7 +12,7 @@ A career-long undercover Hong Kong cop is sent to Mainland China when his former
 
 ## DTS-HD MA 5.1
 
-**2013 • NR • 1h 38m • Mamdarin • Drama, Action, Crime • mobe1969**
+**2013 • NR • 1h 38m • Mandarin • Drama, Action, Crime • mobe1969**
 
 A career-long undercover Hong Kong cop is sent to Mainland China when his former protg becomes the primary suspect in a murder.
 

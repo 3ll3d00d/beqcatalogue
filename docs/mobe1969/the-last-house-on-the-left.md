@@ -4,7 +4,7 @@
 
 Unrated Cut
 
-**2009 • R • 1h 50m • Horror, Crime, Drama, Thriller • mobe1969**
+**2009 • R • 1h 54m • Horror, Crime, Drama, Thriller • mobe1969**
 
 A group of teenage girls heading into the city hook up with a gang of drug-addled ne'er-do-wells and are brutally murdered. The killers find their way to the home of one of their victim's parents, where both father and mother exact a horrible revenge.
 
