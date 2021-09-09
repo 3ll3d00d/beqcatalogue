@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**1996 • PG-13 • 1h 51m • Adventure, Science Fiction, Action, Thriller • mobe1969**
+**1996 • PG-13 • 1h 51m • Science Fiction, Action, Adventure, Thriller • mobe1969**
 
 The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.
 

@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2002 • PG-13 • 1h 57m • Thriller, Adventure, Action, Science Fiction • mobe1969**
+**2002 • PG-13 • 1h 57m • Science Fiction, Action, Adventure, Thriller • mobe1969**
 
 En route to the honeymoon of William Riker to Deanna Troi on her home planet of Betazed, Captain Jean-Luc Picard and the crew of the U.S.S. Enterprise receives word from Starfleet that a coup has resulted in the installation of a new Romulan political leader, Shinzon, who claims to seek peace with the human-backed United Federation of Planets. Once in enemy territory, the captain and his crew make a startling discovery: Shinzon is human, a slave from the Romulan sister planet of Remus, and has a secret, shocking relationship to Picard himself.
 

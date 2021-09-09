@@ -2,9 +2,9 @@
 
 ## TrueHD 7.1
 
-**1991 • PG • 1h 53m • Adventure, Science Fiction, Action, Thriller • mobe1969**
+**1991 • PG • 1h 53m • Science Fiction, Action, Adventure, Thriller • mobe1969**
 
-On the eve of retirement, Kirk and McCoy are charged with assassinating the Klingon High Chancellor and imprisoned. The Enterprise crew must help them escape to thwart a conspiracy aimed at sabotaging the last best hope for peace.
+After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their dealiest encounter.
 
 [TMDB](174)
 

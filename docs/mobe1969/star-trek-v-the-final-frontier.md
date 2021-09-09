@@ -2,9 +2,9 @@
 
 ## TrueHD 7.1
 
-**1989 • PG • 1h 47m • Adventure, Science Fiction, Thriller, Action • mobe1969**
+**1989 • PG • 1h 47m • Science Fiction, Action, Adventure, Thriller • mobe1969**
 
-Capt. Kirk and his crew must deal with Mr. Spock's half brother who kidnaps three diplomats and hijacks the Enterprise in his obsessive search for God.
+The crew of the Federation starship Enterprise is called to Nimbus III, the Planet of Intergalactic Peace. They are to negotiate in a case of kidnapping only to find out that the kidnapper is a relative of Spock. This man is possessed by his life long search for the planet Shaka-Ri which is supposed to be the source of all life. Together they begin to search for this mysterious planet.
 
 [TMDB](172)
 

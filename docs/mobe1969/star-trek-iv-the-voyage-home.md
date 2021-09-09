@@ -2,9 +2,9 @@
 
 ## TrueHD 7.1
 
-**1986 • PG • 1h 59m • Adventure, Science Fiction • mobe1969**
+**1986 • PG • 1h 59m • Science Fiction, Adventure • mobe1969**
 
-Fugitives of the Federation for their daring rescue of Spock from the doomed Genesis Planet, Admiral Kirk (William Shatner) and his crew begin their journey home to face justice for their actions. But as they near Earth, they find it at the mercy of a mysterious alien presence whose signals are slowly destroying the planet. In a desperate attempt to answer the call of the probe, Kirk and his crew race back to the late twentieth century. However they soon find the world they once knew to be more alien than anything they've encountered in the far reaches of the galaxy!
+It's the 23rd century, and a mysterious alien power is threatening Earth by evaporating the oceans and destroying the atmosphere. In a frantic attempt to save mankind, Kirk and his crew must time travel back to 1986 San Francisco where they find a world of punk, pizza and exact-change buses that are as alien as anything they've ever encountered in the far reaches of the galaxy. A thrilling, action-packed Star Trek adventure!
 
 [TMDB](168)
 

@@ -2,7 +2,7 @@
 
 ## TrueHD 7.1
 
-**1979 • PG • 2h 12m • Mystery, Adventure, Science Fiction • mobe1969**
+**1979 • PG • 2h 12m • Science Fiction, Adventure, Mystery • mobe1969**
 
 When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.
 
