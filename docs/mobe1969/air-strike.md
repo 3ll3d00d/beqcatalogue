@@ -16,7 +16,7 @@ Scandinavian Blu-Ray. Proper cut and language. Contact me for English subtitles.
 
 ## DTS-HD MA 5.1
 
-**2018 • R • 2h 0m • Drama, War, Action, Adventure • mobe1969**
+**2018 • R • 1h 37m • Drama, War, Action, Adventure • mobe1969**
 
 An American pilot is sent to a Chinese province to teach a crew of would-be pilots how to fly war planes against the Japanese during World War II.
 
