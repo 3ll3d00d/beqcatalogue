@@ -2,6 +2,15 @@
 
 * Author: aron7awol
 
+## Season 1
+
+* DD+ Atmos
+
+* [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+* Production Year: 2021
+
+![img 0](https://i.imgur.com/JWi4qME.jpg)
+
 ## Season 1 Episode 1
 
 * DD+ Atmos
@@ -28,4 +37,13 @@
 * Production Year: 2021
 
 ![img 0](https://i.imgur.com/clwkIf1.jpeg)
+
+## Season 1 Episode 4
+
+* DD+ Atmos
+
+* [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+* Production Year: 2021
+
+![img 0](https://i.imgur.com/93uVURJ.jpg)
 
