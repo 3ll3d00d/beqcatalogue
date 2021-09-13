@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2003 • R • 1h 36m • Drama, Action, Thriller • mobe1969**
+**2003 • R • 1h 36m • Action, Drama, Thriller • mobe1969**
 
 A man must survive a prison where hardened criminals battle to the death for the warden's entertainment.
 
