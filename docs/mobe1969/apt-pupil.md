@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 2.0
 
-**1998 • R • 1h 47m • Drama, Thriller • mobe1969**
+**1998 • R • 1h 51m • Drama, Thriller • mobe1969**
 
 One day in 1984, Todd Bowden, a brilliant high school boy fascinated by the history of Nazism, stumbles across an old man whose appearance resembles that of Kurt Dussander, a wanted Nazi war criminal. A month later, Todd decides to knock on his door.
 
