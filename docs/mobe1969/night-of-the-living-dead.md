@@ -1,0 +1,12 @@
+# Night of the Living Dead
+
+## DTS-HD MA 5.1
+
+**1990 • R • 1h 28m • Horror • mobe1969**
+
+In this remake of the original classic film, a group of people are trapped inside a farmhouse as legions of the walking dead try to get inside and use them for food.
+
+[TMDB](19185)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Night%20of%20the%20Living%20Dead%20%281990%29%20DTS-HD%20MA%205.1.jpg)
+
