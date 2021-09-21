@@ -1,4 +1,4 @@
-# Painted Skin The Resurrection
+# Painted Skin: The Resurrection
 
 ## DTS-HD MA 5.1
 
