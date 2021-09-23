@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2017 • 15 • 1h 34m • Thriller, Action • mobe1969**
+**2017 • R • 1h 34m • Action, Thriller • mobe1969**
 
 A British Special Boat Service commando tracks down an international terrorist cell.
 
