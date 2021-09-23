@@ -1,12 +1,12 @@
 # The Lookout
 
-## DTS-HD MA 5.1
+## LPCM 5.1
 
-**2012 • NR • 1h 26m • French • Action, Mystery, Crime • mobe1969**
+**2007 • R • 1h 39m • Thriller, Drama, Crime • mobe1969**
 
-When police is about to apprehend a famous gang of bank robbers, an elite sniper opens fire from a roof, thus facilitating the flee of his accomplices. However, one of them is seriously injured, which compromises the plans of the thieves.
+Chris is a once promising high school athlete whose life is turned upside down following a tragic accident. As he tries to maintain a normal life, he takes a job as a janitor at a bank, where he ultimately finds himself caught up in a planned heist.
 
-[TMDB](122192)
+[TMDB](8270)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lookout%20%282012%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lookout%20%282007%29%20LPCM%205.1.jpg)
 

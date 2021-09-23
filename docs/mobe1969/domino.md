@@ -1,12 +1,12 @@
 # Domino
 
-## TrueHD 5.1
+## DTS-HD MA 5.1
 
-**2005 • R • 2h 7m • Crime, Action • mobe1969**
+**2019 • R • 1h 29m • Thriller • mobe1969**
 
-The story of the life of Domino Harvey, who abandoned her career as a Ford model to become a bounty hunter.
+Seeking justice for his partners murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.
 
-[TMDB](9923)
+[TMDB](455957)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Domino%20%282005%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Domino%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

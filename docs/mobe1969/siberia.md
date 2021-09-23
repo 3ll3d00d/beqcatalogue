@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2020 • R • 1h 32m • Drama, Fantasy, Adventure • mobe1969**
+**2018 • R • 1h 45m • Thriller, Crime, Romance • mobe1969**
 
-Clint is a dead man who lives alone in a frozen tundra. However, this isolation cannot bring either evasion or peace. One night, he begins a journey where he must confront his dreams, memories, and visions, crossing the darkness into the light.
+Lucas, a diamond trader who travels to Saint Petersburg to arrange a sale, discovers that his Russian business partner has left his hotel and gone to a small Siberian village, so Lucas also heads there to try find him.
 
-[TMDB](446574)
+[TMDB](438689)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Siberia%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Siberia%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

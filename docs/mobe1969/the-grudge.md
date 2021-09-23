@@ -1,14 +1,12 @@
 # The Grudge
 
-## TrueHD 5.1
+## DTS-HD MA 5.1
 
-Unrated Cut
+**2020 • R • 1h 33m • Horror, Mystery • mobe1969**
 
-**2004 • PG-13 • 1h 32m • Thriller, Horror, Mystery • mobe1969**
+After a young mother murders her family in her own house, a detective attempts to investigate the mysterious case, only to discover that the house is cursed by a vengeful ghost. Now targeted by the demonic spirits, the detective must do anything to protect herself and her family from harm.
 
-An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim.
+[TMDB](465086)
 
-[TMDB](1970)
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Grudge%20%282004%29%28Unrated%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Grudge%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

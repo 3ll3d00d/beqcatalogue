@@ -1,12 +1,12 @@
 # Legend
 
-## Atmos
+## DTS-HD MA 5.1
 
-**2015 • R • 2h 11m • Crime, Thriller • mobe1969**
+**1985 • PG • 1h 34m • Fantasy, Adventure • mobe1969**
 
-Suave, charming and volatile, Reggie Kray and his unstable twin brother Ronnie start to leave their mark on the London underworld in the 1960s. Using violence to get what they want, the siblings orchestrate robberies and murders while running nightclubs and protection rackets. With police Detective Leonard "Nipper" Read hot on their heels, the brothers continue their rapid rise to power and achieve tabloid notoriety.
+Set in a timeless mythical forest inhabited by fairies, goblins, unicorns and mortals, this fantastic story follows a mystical forest dweller, chosen by fate, to undertake a heroic quest. He must save the beautiful Princess  Lili and defeat the demonic Lord of Darkness, or the world will be plunged into a never-ending ice age.
 
-[TMDB](276907)
+[TMDB](11976)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Legend%20%282015%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Legend%20%281985%29%20DTS-HD%20MA%205.1.jpg)
 

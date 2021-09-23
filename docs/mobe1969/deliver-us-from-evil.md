@@ -1,12 +1,12 @@
-# Deliver Us from Evil
+# Deliver Us From Evil
 
 ## DTS-HD MA 5.1
 
-**2014 • R • 1h 58m • Crime, Horror, Thriller • mobe1969**
+**2020 • MA15+ • 1h 48m • Korean • Action • mobe1969**
 
-When a frightening wave of violence sweeps through New York City, troubled cop Sarchie fails to find a rational explanation for the bizarre crimes. However, his eyes are opened to a frightening alternate reality when renegade Jesuit priest Mendoza convinces him that demonic possession may be to blame for the gruesome murders. Together, they wage a valiant supernatural struggle to rid the city of an otherworldly evil.
+A retired contract killer goes on a bloody rampage when a young girl finds herself at the mercy of gangland human traffickers only one man can come to her rescue with an arsenal of weapons and years of experience in the art of killing.
 
-[TMDB](184346)
+[TMDB](581526)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deliver%20Us%20from%20Evil%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deliver%20Us%20From%20Evil%20%282020%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 
