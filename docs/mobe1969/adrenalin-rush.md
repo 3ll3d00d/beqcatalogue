@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2011 • NR • 1h 55m • Korean • Action, Crime, Thriller, Comedy • mobe1969**
+**2011 • NR • 1h 25m • Korean • Action, Crime, Thriller, Comedy • mobe1969**
 
 A biker is forced to deliver a ticking time bomb by a mysterious caller who has put an explosive helmet on his ex-girlfriend.
 
