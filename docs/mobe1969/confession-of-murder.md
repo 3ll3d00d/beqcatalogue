@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2012 • 16 • 1h 59m • Korean • Action, Thriller • mobe1969**
+**2012 • NR • 1h 59m • Korean • Action, Thriller • mobe1969**
 
 A serial killer reappears 15 years after his murder spree with a book detailing his crimes. The resentful cop who failed to catch him before is assigned to protect him. The families of the victims plan revenge. And as the media circus spirals out of control, a masked man called "J" appears claiming to be the real killer.
 
