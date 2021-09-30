@@ -1,12 +1,12 @@
 # Awake
 
-## DTS-HD MA 5.1
+## TrueHD 5.1
 
-**2019 • NR • 1h 32m • Action, Crime, Thriller • mobe1969**
+**2007 • R • 1h 24m • Mystery, Thriller, Crime • mobe1969**
 
-A man wakes in a hospital bed with no recollection of who he is, and learns that he's wanted by the police for a committing a series of murders.
+While undergoing heart surgery, a man experiences a phenomenon called anesthetic awareness, which leaves him awake but paralyzed throughout the operation. As various obstacles present themselves, his wife must make life-altering decisions while wrestling with her own personal drama.
 
-[TMDB](618019)
+[TMDB](13483)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Awake%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Awake%20%282007%29%20TrueHD%205.1.jpg)
 
