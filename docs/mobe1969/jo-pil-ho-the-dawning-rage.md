@@ -1,4 +1,4 @@
-# Jo Pil-ho The Dawning Rage
+# Jo Pil-ho: The Dawning Rage
 
 ## DTS-HD MA 5.1
 
