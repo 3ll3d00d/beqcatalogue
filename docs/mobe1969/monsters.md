@@ -4,9 +4,9 @@
 
 **2010 • R • 1h 34m • Drama, Science Fiction, Thriller • mobe1969**
 
-When Susan Murphy is unwittingly clobbered by a meteor full of outer space gunk on her wedding day, she mysteriously grows to 49-feet-11-inches. The military jumps into action and captures Susan, secreting her away to a covert government compound. She is renamed Ginormica and placed in confinement with a ragtag group of Monsters...
+Six years ago NASA discovered the possibility of alien life within our solar system. A probe was launched to collect samples, but crashed upon re-entry over Central America. Soon after, new life forms began to appear and half of Mexico was quarantined as an infected zone. Today, the American and Mexican military still struggle to contain "the creatures," while a journalist agrees to escort a shaken tourist through the infected zone in Mexico to the safety of the U.S. border.
 
-[TMDB](15512)
+[TMDB](43933)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Monsters%20%282010%29%20DTS-HD%20MA%207.1.jpg)
 

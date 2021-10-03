@@ -4,11 +4,11 @@
 
 Theatrical Cut
 
-**2014 • G • 1h 33m • Animation, Family, Fantasy, Adventure, Comedy, Romance • mobe1969**
+**2014 • PG-13 • 1h 39m • Action, Adventure • mobe1969**
 
-Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!
+Fourteen hundred years ago, a tormented soul walked the earth that was neither man nor god. Hercules was the powerful son of the god king Zeus, for this he received nothing but suffering his entire life. After twelve arduous labors and the loss of his family, this dark, world-weary soul turned his back on the gods finding his only solace in bloody battle. Over the years he warmed to the company of six similar souls, their only bond being their love of fighting and presence of death. These men and woman never question where they go to fight or why or whom, just how much they will be paid. Now the King of Thrace has hired these mercenaries to train his men to become the greatest army of all time. It is time for this bunch of lost souls to finally have their eyes opened to how far they have fallen when they must train an army to become as ruthless and blood thirsty as their reputation has become.
 
-[TMDB](11970)
+[TMDB](184315)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hercules%20%282014%29%20DTS-HD%20MA%207.1.jpg)
 
@@ -16,11 +16,11 @@ Bestowed with superhuman strength, a young mortal named Hercules sets out to pro
 
 Extended Cut
 
-**2014 • G • 1h 33m • Animation, Family, Fantasy, Adventure, Comedy, Romance • mobe1969**
+**2014 • PG-13 • 1h 42m • Action, Adventure • mobe1969**
 
-Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!
+Fourteen hundred years ago, a tormented soul walked the earth that was neither man nor god. Hercules was the powerful son of the god king Zeus, for this he received nothing but suffering his entire life. After twelve arduous labors and the loss of his family, this dark, world-weary soul turned his back on the gods finding his only solace in bloody battle. Over the years he warmed to the company of six similar souls, their only bond being their love of fighting and presence of death. These men and woman never question where they go to fight or why or whom, just how much they will be paid. Now the King of Thrace has hired these mercenaries to train his men to become the greatest army of all time. It is time for this bunch of lost souls to finally have their eyes opened to how far they have fallen when they must train an army to become as ruthless and blood thirsty as their reputation has become.
 
-[TMDB](11970)
+[TMDB](184315)
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hercules%20%282014%29%28EC%29%20DTS-HD%20MA%207.1.jpg)
 
