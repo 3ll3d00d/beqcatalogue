@@ -4,7 +4,7 @@
 
 Unrated Cut
 
-**2006 • R • 1h 50m • Comedy • mobe1969**
+**2006 • R • 1h 56m • Comedy • mobe1969**
 
 During a trip to Germany to scatter their grandfather's ashes, German-American brothers Todd and Jan discover Beerfest, the secret Olympics of downing stout, and want to enter the contest to defend their family's beer-guzzling honor. Their Old Country cousins sneer at the Yanks' chances, prompting the siblings to return to America to prepare for a showdown the following year.
 
