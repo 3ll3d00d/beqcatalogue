@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**1994 • R • 1h 39m • Thriller, Crime, Action, Science Fiction • mobe1969**
+**1994 • R • 1h 39m • Thriller, Science Fiction, Action, Crime • mobe1969**
 
 An officer for a security agency that regulates time travel, must fend for his life against a shady politician who has a tie to his past.
 
