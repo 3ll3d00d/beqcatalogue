@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2016 • R • 1h 51m • Korean • War, Action, Drama, History • mobe1969**
+**2016 • R • 1h 51m • Korean • History, Drama, War, Action • mobe1969**
 
 A squad of soldiers fight in the Korean War's crucial Battle of Incheon.
 
