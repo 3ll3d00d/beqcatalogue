@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Uncut
+Unrated Cut
 
 **2007 • R • 1h 41m • Mystery, Drama, Thriller • mobe1969**
 

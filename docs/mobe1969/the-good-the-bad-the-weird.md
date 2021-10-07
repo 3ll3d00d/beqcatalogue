@@ -1,4 +1,4 @@
-# The Good the Bad the Weird
+# The Good, The Bad, The Weird
 
 ## DTS-HD MA 5.1
 

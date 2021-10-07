@@ -1,6 +1,6 @@
 # Silence
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, TrueHD 5.1
 
 **2016 • R • 2h 41m • History, Drama • mobe1969**
 

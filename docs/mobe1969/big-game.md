@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Uncut
+Unrated Cut
 
 **2014 • PG-13 • 1h 30m • Thriller, Adventure, Action • mobe1969**
 

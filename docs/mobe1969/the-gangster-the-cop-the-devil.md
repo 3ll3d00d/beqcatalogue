@@ -1,4 +1,4 @@
-# The Gangster the Cop the Devil
+# The Gangster, the Cop, the Devil
 
 ## DTS-HD MA 5.1
 

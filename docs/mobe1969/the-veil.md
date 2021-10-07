@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2017 • 15 • 1h 26m • Action, Adventure, Science Fiction • mobe1969**
+**2016 • NR • 1h 33m • Horror • mobe1969**
 
-Set in a war-torn land where tribal factions live in fear of annihilation, the film tells the story of a deadly warrior leading a destructive war campaign. When he is betrayed by his own and left for dead, he is healed by a mysterious princess and taken in by a hidden tribe that believes he was chosen to wage a final battle.
+The story springs from the real-world headlines of religious cults and mass suicides. With Veil, it begins 30 years ago, when members of a religious cult known as Heaven's Veil take their own lives. The truth behind what really happened remains buried deep in the memory of the sole survivor, a five-year-old girl, who returns to the compound with a documentary crew as an adult. They soon discover something that is far more terrifying than anything they could have imagined.
 
-[TMDB](393306)
+[TMDB](257087)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Veil%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Veil%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

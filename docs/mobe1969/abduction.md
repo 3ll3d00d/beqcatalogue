@@ -2,23 +2,21 @@
 
 ## DTS-HD MA 5.1
 
-**2019 • 18 • 1h 38m • Science Fiction, Thriller, Action, Horror • mobe1969**
+**2011 • PG-13 • 1h 46m • Action, Mystery, Thriller • mobe1969**
 
-A man steps out of a park fountain in Ho Chi Minh City with no recollection of who he is or where he came from. As he wanders through the city, piecing together clues to his past, he is relentlessly pursued by mysterious figures.
+A young man sets out to uncover the truth about his life after finding his baby photo on a missing persons website.
 
-[TMDB](589594)
+[TMDB](59965)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Abduction%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Abduction%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 
-## DTS-HD MA 5.1
+## DTS-HD MA 7.1
 
-Extended Cut
+**2011 • PG-13 • 1h 46m • Thriller, Action, Mystery • mobe1969**
 
-**2019 • 18 • 1h 38m • Action, Science Fiction, Thriller, Horror • mobe1969**
+A young man sets out to uncover the truth about his life after finding his baby photo on a missing persons website.
 
-A man steps out of a park fountain in Ho Chi Minh City with no recollection of who he is or where he came from. As he wanders through the city, piecing together clues to his past, he is relentlessly pursued by mysterious figures.
+[TMDB](59965)
 
-[TMDB](589594)
-
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Abduction%20%282019%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Abduction%20%282011%29%20DTS-HD%20MA%207.1.jpg)
 

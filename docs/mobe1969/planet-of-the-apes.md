@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**1968 • G • 1h 52m • Science Fiction, Adventure, Drama, Action • mobe1969**
+**2001 • PG-13 • 1h 59m • Thriller, Action, Adventure, Science Fiction • mobe1969**
 
-A U.S. Spaceship lands on a desolate planet, stranding astronaut Taylor in a world dominated by apes, 2000 years into the future, who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.
+After a spectacular crash-landing on an uncharted planet, brash astronaut Leo Davidson finds himself trapped in a savage world where talking apes dominate the human race. Desperate to find a way home, Leo must evade the invincible gorilla army led by Ruthless General Thade.
 
-[TMDB](871)
+[TMDB](869)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Planet%20of%20the%20Apes%20%281968%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Planet%20of%20the%20Apes%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

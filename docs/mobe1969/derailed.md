@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2002 • 16 • 1h 29m • Thriller, Action • mobe1969**
+**2005 • R • 1h 48m • Drama, Thriller • mobe1969**
 
-NATO operative Jacques Kristoff (Jean-Claude Van Damme) is summoned into actionon his birthday, no lessto track down Galina Konstantin (Laura Harring), who has stolen an extremely valuable and dangerous top-secret container from the Slovakian Government.  Finding Galina doesn't take long, and Jacques must wrap up the mission by returning Galina and the contraband to his superiors by train.  Things seem to be going smoothly as Jacques and Galina board the train posing as a couple, but soon all hell breaks loose.
+When two married business executives having an affair are blackmailed by a violent criminal, they are forced to turn the tables on him to save their families.
 
-[TMDB](17774)
+[TMDB](8999)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Derailed%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Derailed%20%282005%29%20DTS-HD%20MA%205.1.jpg)
 
