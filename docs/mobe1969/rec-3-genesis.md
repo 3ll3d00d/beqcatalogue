@@ -1,10 +1,12 @@
 # Rec 3 Genesis
 
-* Author: mobe1969
+## DTS-HD MA 5.1
 
-## DTS-HD MA 5.1 Sp
+**2012 • R • 1h 20m • Spanish • Horror • mobe1969**
 
-* Release Date: 2012
+A pair of newlyweds must fight to survive when their wedding reception descends into chaos and carnage when their guests become infected by a virus that turns them into hungry zombies.
 
-![img0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rec%203%20Genesis%20%282012%29%20DTS-HD%20MA%205.1%20Sp.jpg)
+[TMDB](80280)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rec%203%20Genesis%20%282012%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
 
