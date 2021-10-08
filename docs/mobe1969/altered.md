@@ -1,6 +1,6 @@
 # Altered
 
-## DTS-HD MA 5.1
+## TrueHD MA 5.1, DTS-HD MA 5.1
 
 **2006 • R • 1h 28m • Thriller, Science Fiction, Horror • mobe1969**
 
@@ -8,5 +8,5 @@ Fifteen years ago, five men were abducted by aliens. Only four returned. Now, th
 
 [TMDB](14458)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Altered%20%282006%29%20TrueHD%20%2B%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Altered%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

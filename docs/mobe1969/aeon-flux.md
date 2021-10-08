@@ -1,6 +1,6 @@
 # Aeon Flux
 
-## DTS 5.1
+## AC3 5.1, DTS 5.1
 
 **2005 • PG-13 • 1h 33m • Action, Science Fiction, Thriller • mobe1969**
 
