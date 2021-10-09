@@ -1,6 +1,6 @@
 # Nightfall
 
-## TrueHD 7.1
+## TrueHD 7.1, DTS-HD MA 7.1
 
 **2012 • NR • 1h 48m • Cantonese • Thriller, Action, Crime, Mystery • mobe1969**
 

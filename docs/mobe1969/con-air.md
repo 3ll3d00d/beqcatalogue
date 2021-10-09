@@ -1,6 +1,6 @@
 # Con Air
 
-## LPCM 5.1
+## AC3 5.1, LPCM 5.1
 
 **1997 • R • 1h 56m • Action, Thriller, Crime • mobe1969**
 

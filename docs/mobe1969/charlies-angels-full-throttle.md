@@ -1,8 +1,8 @@
-# Charlie's Angels Full Throttle
+# Charlie's Angels: Full Throttle
 
 ## DTS-HD MA 5.1
 
-Extended Cut
+Theatrical Cut
 
 **2003 • PG-13 • 1h 46m • Action, Adventure, Comedy • mobe1969**
 
@@ -10,5 +10,5 @@ The Angels are charged with finding a pair of missing rings that are encoded wit
 
 [TMDB](9471)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Charlie%27s%20Angels%20Full%20Throttle%20%282003%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Charlie%27s%20Angels%20Full%20Throttle%20%282003%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
 
