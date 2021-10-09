@@ -1,4 +1,4 @@
-# Patlabor 2: The Movie
+# Patlabor 2 The Movie
 
 ## TrueHD 5.1
 
@@ -8,5 +8,5 @@ A Japanese police unit who use giant anthropomorphic robots (called Labors) is c
 
 [TMDB](14572)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Patlabor%20The%20Movie%202%20%281993%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Patlabor%202%20The%20Movie%20%281993%29%28Ja%29%20TrueHD%205.1.jpg)
 
