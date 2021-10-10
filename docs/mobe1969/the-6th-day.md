@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2000 • PG-13 • 2h 3m • Mystery, Science Fiction, Action • mobe1969**
+**2000 • PG-13 • 2h 3m • Science Fiction, Mystery, Action • mobe1969**
 
 Futuristic action about a man who meets a clone of himself and stumbles into a grand conspiracy about clones taking over the world.
 

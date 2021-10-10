@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2002 • R • 1h 48m • Drama, Thriller, Action • mobe1969**
+**2002 • R • 1h 48m • Action, Thriller, Drama • mobe1969**
 
 Firefighter Gordon Brewer is plunged into the complex and dangerous world of international terrorism after he loses his wife and child in a bombing credited to Claudio 'The Wolf' Perrini.
 

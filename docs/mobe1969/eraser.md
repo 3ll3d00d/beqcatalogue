@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**1996 • R • 1h 55m • Mystery, Thriller, Drama, Action • mobe1969**
+**1996 • R • 1h 55m • Action, Drama, Mystery, Thriller • mobe1969**
 
 U.S. Marshall John Kruger erases the identities of people enrolled in the Witness Protection Program. His current assignment is to protect Lee Cullen, who's uncovered evidence that the weapons manufacturer she works for has been selling to terrorist groups. When Kruger discovers that there's a corrupt agent within the program, he must guard his own life while trying to protect Lee's.
 
