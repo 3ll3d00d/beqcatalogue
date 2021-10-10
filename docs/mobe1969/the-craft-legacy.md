@@ -1,4 +1,4 @@
-# The Craft Legacy
+# The Craft: Legacy
 
 ## DTS-HD MA 5.1
 

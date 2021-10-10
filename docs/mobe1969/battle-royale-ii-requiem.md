@@ -1,4 +1,4 @@
-# Battle Royale II Requiem
+# Battle Royale II: Requiem
 
 ## TrueHD 5.1
 

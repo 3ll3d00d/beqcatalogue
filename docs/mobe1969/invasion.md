@@ -2,11 +2,11 @@
 
 ## TrueHD 5.1
 
-**2005 • G • 1h 22m • Family, Fantasy, Animation, Science Fiction • mobe1969**
+**2005 • G • 1h 21m • Horror • mobe1969**
 
-While trying to obtain "Tree Sweets", Littlefoot into the tree and knocks down all the blossoms, attracting the Tinysauruses. They devour the plants and disappear. But Littlefoot isn't blamed for the disappearance, instead he accidentally makes the adults believe the tiny dinosaurs were the main cause. Now Littlefoot and his friends must protect the tiny herd and learn the value of honesty.
+A meteor carrying an unknown infection, lands outside a Small Californian community, bringing terror and death. Just after midnight, a local rancher named Larry Jenkins discovers the meteor and calls the police. Inspector Bardo is sent to the scene to investigate. The small Lawton police department is short-handed, as it is the night of the high school prom. Arriving at a desolate forest road miles out of town, Bardo discovers that Jenkins has been infected by the alien organism. The officer is savagely attacked and infected. Both men head towards Lawton, terrorizing and contaminating everyone they encounter. Meanwhile, Cheryl and Timmy have left the prom and are parked atop Lover's Lane. Bardo comes upon the lovebirds and attacks them, infecting Timmy. Now Cheryl must run for her life through the pitch-black forest, escaping her pursuers and trying to reach the authorities before the infection spreads to L.A.
 
-[TMDB](24556)
+[TMDB](36965)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Invasion%20%282005%29%20TrueHD%205.1.jpg)
 

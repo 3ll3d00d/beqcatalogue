@@ -1,4 +1,4 @@
-# Resident Evil Retribution
+# Resident Evil: Retribution
 
 ## Atmos
 

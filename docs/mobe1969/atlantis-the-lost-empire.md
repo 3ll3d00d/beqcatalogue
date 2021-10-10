@@ -1,4 +1,4 @@
-# Atlantis : The Lost Empire
+# Atlantis: The Lost Empire
 
 ## DTS-HD MA 5.1
 

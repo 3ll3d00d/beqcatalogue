@@ -1,4 +1,4 @@
-# Smurfs The Lost Village
+# Smurfs: The Lost Village
 
 ## Atmos
 

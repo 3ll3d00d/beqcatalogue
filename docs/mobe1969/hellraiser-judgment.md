@@ -1,4 +1,4 @@
-# Hellraiser Judgment
+# Hellraiser: Judgment
 
 ## DTS-HD MA 5.1
 

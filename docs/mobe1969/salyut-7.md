@@ -1,4 +1,4 @@
-# Salyut 7
+# Salyut-7
 
 ## DTS-HD MA 7.1
 

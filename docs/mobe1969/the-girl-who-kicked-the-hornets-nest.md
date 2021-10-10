@@ -1,4 +1,4 @@
-# The Girl Who Kicked The Hornets Nest
+# The Girl Who Kicked the Hornet's Nest
 
 ## DTS-HD MA 5.1
 

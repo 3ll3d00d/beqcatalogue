@@ -1,4 +1,4 @@
-# Invasion Planet Earth
+# Invasion: Planet Earth
 
 ## DTS-HD MA 5.1
 

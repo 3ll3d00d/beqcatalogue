@@ -1,4 +1,4 @@
-# Exorcist II The Heretic
+# Exorcist II: The Heretic
 
 ## DTS-HD MA 1.0
 

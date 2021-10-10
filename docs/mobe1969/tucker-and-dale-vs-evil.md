@@ -1,4 +1,4 @@
-# Tucker and Dale vs Evil
+# Tucker and Dale vs. Evil
 
 ## DTS-HD MA 5.1
 

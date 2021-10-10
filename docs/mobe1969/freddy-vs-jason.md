@@ -1,4 +1,4 @@
-# Freddy vs Jason
+# Freddy vs. Jason
 
 ## TrueHD 5.1
 

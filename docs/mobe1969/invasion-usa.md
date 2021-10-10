@@ -1,4 +1,4 @@
-# Invasion USA
+# Invasion U.S.A.
 
 ## DTS-HD MA 5.1
 

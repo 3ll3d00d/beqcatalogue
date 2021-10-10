@@ -1,4 +1,4 @@
-# Sin City A Dame to Kill For
+# Sin City: A Dame to Kill For
 
 ## DTS-HD MA 5.1
 

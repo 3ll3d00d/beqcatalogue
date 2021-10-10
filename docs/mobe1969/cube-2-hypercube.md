@@ -1,4 +1,4 @@
-# Cube 2 Hypercube
+# Cube 2: Hypercube
 
 ## DD+ 5.1
 

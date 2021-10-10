@@ -1,4 +1,4 @@
-# As Above So Below
+# As Above, So Below
 
 ## DTS-HD MA 7.1
 

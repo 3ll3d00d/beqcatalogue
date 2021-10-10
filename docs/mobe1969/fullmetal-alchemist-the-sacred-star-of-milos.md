@@ -1,4 +1,4 @@
-# Fullmetal Alchemist The Sacred Star of Milos
+# Fullmetal Alchemist: The Sacred Star of Milos
 
 ## TrueHD 5.1
 

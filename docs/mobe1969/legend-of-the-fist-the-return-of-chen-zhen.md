@@ -1,4 +1,4 @@
-# Legend of The Fist The Return of Chen Zhen
+# Legend of the Fist: The Return of Chen Zhen
 
 ## TrueHD 7.1
 

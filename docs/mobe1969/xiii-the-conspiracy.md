@@ -1,4 +1,4 @@
-# XIII The Conspiracy
+# XIII: The Conspiracy
 
 ## AC3 5.1
 

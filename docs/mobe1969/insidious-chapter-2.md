@@ -1,4 +1,4 @@
-# Insidious Chapter 2
+# Insidious: Chapter 2
 
 ## DTS-HD MA 5.1
 

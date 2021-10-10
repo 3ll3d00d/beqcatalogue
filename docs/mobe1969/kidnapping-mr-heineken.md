@@ -1,4 +1,4 @@
-# Kidnapping Mr Heineken
+# Kidnapping Mr. Heineken
 
 ## DTS-HD MA 5.1
 

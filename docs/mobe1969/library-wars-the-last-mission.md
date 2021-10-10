@@ -1,4 +1,4 @@
-# Library Wars The Last Mission
+# Library Wars: The Last Mission
 
 ## DTS-HD MA 5.1
 

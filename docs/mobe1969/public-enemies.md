@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2009 • R • 2h 20m • Crime, Drama, History • mobe1969**
+**2009 • R • 2h 20m • Crime, History • mobe1969**
 
-United States President Lex Luthor uses the oncoming trajectory of a Kryptonite meteor to frame Superman and declare a $1 billion bounty on the heads of the Man of Steel and his partner in crime, Batman. Heroes and villains alike launch a relentless pursuit of Superman and Batman, who must uniteand recruit helpto try and stave off the action-packed onslaught, stop the meteor Luthors plot.
+Depression-era bank robber John Dillinger's charm and audacity endear him to much of America's downtrodden public, but he's also a thorn in the side of J. Edgar Hoover and the fledgling FBI. Desperate to capture the elusive outlaw, Hoover makes Dillinger his first Public Enemy Number One and assigns his top agent, Melvin Purvis, the task of bringing him in dead or alive.
 
-[TMDB](22855)
+[TMDB](11322)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Public%20Enemies%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

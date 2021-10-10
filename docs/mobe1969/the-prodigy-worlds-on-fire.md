@@ -1,4 +1,4 @@
-# The Prodigy World's on Fire
+# The Prodigy: World's On Fire
 
 ## DTS-HD MA 5.1
 

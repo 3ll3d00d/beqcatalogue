@@ -1,4 +1,4 @@
-# Mimic Sentinel
+# Mimic: Sentinel
 
 ## DTS-HD MA 5.1
 

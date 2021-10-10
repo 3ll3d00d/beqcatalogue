@@ -1,4 +1,4 @@
-# Bubba Ho-Tep
+# Bubba Ho-tep
 
 ## DTS-HD MA 5.1
 

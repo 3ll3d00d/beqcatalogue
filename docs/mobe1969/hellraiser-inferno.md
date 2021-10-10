@@ -1,4 +1,4 @@
-# Hellraiser Inferno
+# Hellraiser: Inferno
 
 ## DTS-HD MA 5.1
 

@@ -1,4 +1,4 @@
-# The Young and Prodigious TS Spivet
+# The Young and Prodigious T.S. Spivet
 
 ## TrueHD 5.1
 

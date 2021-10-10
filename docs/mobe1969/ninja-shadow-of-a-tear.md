@@ -1,4 +1,4 @@
-# Ninja Shadow of a Tear
+# Ninja: Shadow of a Tear
 
 ## DTS-HD MA 5.1
 

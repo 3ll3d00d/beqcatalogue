@@ -1,4 +1,4 @@
-# Saw The Final Chapter
+# Saw: The Final Chapter
 
 ## DTS-HD MA 7.1
 

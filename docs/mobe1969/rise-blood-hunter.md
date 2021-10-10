@@ -1,4 +1,4 @@
-# Rise Blood Hunter
+# Rise: Blood Hunter
 
 ## DTS-HD MA 5.1
 

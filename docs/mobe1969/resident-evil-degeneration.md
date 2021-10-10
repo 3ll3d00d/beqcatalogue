@@ -1,4 +1,4 @@
-# Resident Evil Degeneration
+# Resident Evil: Degeneration
 
 ## TrueHD 5.1
 

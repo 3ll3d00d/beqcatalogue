@@ -1,4 +1,4 @@
-# Die Hard With a Vengeance
+# Die Hard: With a Vengeance
 
 ## DTS-HD MA 5.1
 

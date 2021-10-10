@@ -1,4 +1,4 @@
-# Resident Evil Extinction
+# Resident Evil: Extinction
 
 ## Atmos
 

@@ -1,4 +1,4 @@
-# Hellraiser III Hell on Earth
+# Hellraiser III: Hell on Earth
 
 ## LPCM 2.0
 

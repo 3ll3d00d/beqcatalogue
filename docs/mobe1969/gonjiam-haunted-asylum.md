@@ -1,4 +1,4 @@
-# Gonjiam Haunted Asylum
+# Gonjiam: Haunted Asylum
 
 ## DTS-HD MA 5.1
 

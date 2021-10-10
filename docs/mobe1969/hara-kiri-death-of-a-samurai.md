@@ -1,4 +1,4 @@
-# Hara-Kiri Death of a Samurai
+# Hara-Kiri: Death of a Samurai
 
 ## DTS-HD MA 5.1
 

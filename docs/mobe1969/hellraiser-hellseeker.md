@@ -1,4 +1,4 @@
-# Hellraiser Hellseeker
+# Hellraiser: Hellseeker
 
 ## DTS-HD MA 5.1
 

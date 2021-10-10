@@ -1,4 +1,4 @@
-# J Edgar
+# J. Edgar
 
 ## DTS-HD MA 5.1
 

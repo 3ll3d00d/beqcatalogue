@@ -1,4 +1,4 @@
-# Escobar Paradise Lost
+# Escobar: Paradise Lost
 
 ## DTS-HD MA 5.1
 

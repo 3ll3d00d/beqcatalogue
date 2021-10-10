@@ -1,4 +1,4 @@
-# Halloween The Curse of Michael Myers
+# Halloween: The Curse of Michael Myers
 
 ## DTS-HD MA 5.1
 

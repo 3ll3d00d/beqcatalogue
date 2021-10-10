@@ -1,4 +1,4 @@
-# Doom Annihilation
+# Doom: Annihilation
 
 ## DTS-HD MA 5.1
 

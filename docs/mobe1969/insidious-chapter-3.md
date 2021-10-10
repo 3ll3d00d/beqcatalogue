@@ -1,4 +1,4 @@
-# Insidious Chapter 3
+# Insidious: Chapter 3
 
 ## DTS-HD MA 5.1
 

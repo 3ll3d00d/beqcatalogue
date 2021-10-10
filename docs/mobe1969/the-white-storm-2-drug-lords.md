@@ -1,4 +1,4 @@
-# The White Storm 2 Drug Lords
+# The White Storm 2: Drug Lords
 
 ## Atmos
 

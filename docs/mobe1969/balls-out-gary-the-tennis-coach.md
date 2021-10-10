@@ -1,4 +1,4 @@
-# Balls Out Gary the Tennis Coach
+# Balls Out: Gary the Tennis Coach
 
 ## AC3 5.1
 
