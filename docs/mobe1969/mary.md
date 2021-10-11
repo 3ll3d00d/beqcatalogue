@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2019 • R • 2h 0m • Drama, History • mobe1969**
+**2019 • R • 1h 24m • Horror • mobe1969**
 
-In the first century, free-spirited Mary Magdalene flees the marriage her family has arranged for her, finding refuge and a sense of purpose in a radical new movement led by the charismatic, rabble-rousing preacher named Jesus.
+A struggling family buys an old ship at auction with high hopes of starting a charter business, only to discover her horrifying secrets on the isolated open waters.
 
-[TMDB](407439)
+[TMDB](419706)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mary%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 
