@@ -65,3 +65,21 @@
 
 ![img 0](https://i.imgur.com/O5Bexue.jpg)
 
+## Season 1 Episode 8
+
+* DD+ Atmos
+
+* [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+* Production Year: 2021
+
+![img 0](https://i.imgur.com/EGhxfL9.jpg)
+
+## Season 1 Episode 9
+
+* DD+ Atmos
+
+* [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+* Production Year: 2021
+
+![img 0](https://i.imgur.com/YzEfKCt.jpg)
+
