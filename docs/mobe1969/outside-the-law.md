@@ -4,7 +4,7 @@
 
 **2010 • 12 • 2h 17m • French • History, Action, Drama, War • mobe1969**
 
-After losing their family home in Algeria in the 1920s, three brothers and their mother are scattered across the globe. Messaoud joins the French army fighting in Indochina; Abdelkader becomes a leader of the Algerian independence movement in France and Sad moves to Paris to make his fortune in the shady clubs and boxing halls of Pigalle.
+After losing their family home in Algeria in the 1920s, three brothers and their mother are scattered across the globe. Messaoud joins the French army fighting in Indochina; Abdelkader becomes a leader of the Algerian independence movement in France and Saïd moves to Paris to make his fortune in the shady clubs and boxing halls of Pigalle.
 
 [TMDB](47904)
 

@@ -1,0 +1,12 @@
+# Reign of Assassins
+
+## TrueHD 7.1
+
+**2010 • NR • 1h 57m • Mandarin • Drama, Action, Thriller, History • mobe1969**
+
+Set in ancient China, Zeng Jing is a skilled assassin who finds herself in possession of a mystical Buddhist monk's remains. She begins a quest to return the remains to its rightful resting place, and thus places herself in mortal danger because a team of assassins is in a deadly pursuit to possess the remains which holds an ancient power-wielding secret.
+
+[TMDB](44092)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Reign%20of%20Assassins%20%282010%29%28Ma%29%20TrueHD%207.1.jpg)
+

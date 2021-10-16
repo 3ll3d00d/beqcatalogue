@@ -4,7 +4,7 @@
 
 **2016 • R • 2h 28m • Mystery, Thriller, Western, Drama • mobe1969**
 
-In the menacing inferno of the old North-American West, Liz is a genuine survivor who is hunted by a vengeful preacher for a crime she didnt commit.
+In the menacing inferno of the old North-American West, Liz is a genuine survivor who is hunted by a vengeful preacher for a crime she didn’t commit.
 
 [TMDB](324560)
 

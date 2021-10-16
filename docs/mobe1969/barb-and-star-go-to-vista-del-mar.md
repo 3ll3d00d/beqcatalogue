@@ -4,7 +4,7 @@
 
 **2021 • PG-13 • 1h 47m • Comedy • mobe1969**
 
-The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villains evil plot to kill everyone in town.
+The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
 
 [TMDB](595813)
 

@@ -4,7 +4,7 @@
 
 **2019 • R • 1h 36m • Comedy, Thriller, Horror • mobe1969**
 
-After receiving a cryptic letter from his estranged father, Norval travels to his dads oceanfront home for what he hopes will be a positive experience. If only hed known the dark truth about his old man beforehand.
+After receiving a cryptic letter from his estranged father, Norval travels to his dad’s oceanfront home for what he hopes will be a positive experience. If only he’d known the dark truth about his old man beforehand.
 
 [TMDB](586592)
 

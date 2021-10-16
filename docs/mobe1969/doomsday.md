@@ -4,7 +4,7 @@
 
 **2008 • R • 1h 48m • Thriller, Action, Science Fiction • mobe1969**
 
-The lethal Reaper virus spreads throughout Britaininfecting millions and killing hundreds of thousands. Authorities brutally and successfully quarantine the country but, three decades later, the virus resurfaces in a major city. An elite group of specialists is urgently dispatched into the still-quarantined country to retrieve a cure by any means necessary. Shut off from the rest of the world, the unit must battle through a landscape that has become a waking nightmare.
+The lethal Reaper virus spreads throughout Britain—infecting millions and killing hundreds of thousands. Authorities brutally and successfully quarantine the country but, three decades later, the virus resurfaces in a major city. An elite group of specialists is urgently dispatched into the still-quarantined country to retrieve a cure by any means necessary. Shut off from the rest of the world, the unit must battle through a landscape that has become a waking nightmare.
 
 [TMDB](13460)
 

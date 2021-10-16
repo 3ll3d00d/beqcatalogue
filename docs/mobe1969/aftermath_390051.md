@@ -4,7 +4,7 @@
 
 **2017 • R • 1h 32m • Drama, Thriller • mobe1969**
 
-A fatal plane crash changes the lives of Roman and Jake forever. Roman loses his wife and daughter in the accident, while Jake loses his mindas he happens to be the air traffic controller who failed to avert the nightmare. Rage and revenge engulfs Roman and Jake finds himself swamped with guilt and regret.
+A fatal plane crash changes the lives of Roman and Jake forever. Roman loses his wife and daughter in the accident, while Jake loses his mind—as he happens to be the air traffic controller who failed to avert the nightmare. Rage and revenge engulfs Roman and Jake finds himself swamped with guilt and regret.
 
 [TMDB](390051)
 

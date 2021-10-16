@@ -4,7 +4,7 @@
 
 **2021 • PG-13 • 1h 48m • Action, Thriller, Crime • mobe1969**
 
-Jim Hansons quiet life is suddenly disturbed by two people crossing the US/Mexico border  a woman and her young son  desperate to flee a Mexican cartel. After a shootout leaves the mother dead, Jim becomes the boys reluctant defender. He embraces his role as Miguels protector and will stop at nothing to get him to safety, as they go on the run from the relentless assassins.
+Jim Hanson’s quiet life is suddenly disturbed by two people crossing the US/Mexico border – a woman and her young son – desperate to flee a Mexican cartel. After a shootout leaves the mother dead, Jim becomes the boy’s reluctant defender. He embraces his role as Miguel’s protector and will stop at nothing to get him to safety, as they go on the run from the relentless assassins.
 
 [TMDB](634528)
 

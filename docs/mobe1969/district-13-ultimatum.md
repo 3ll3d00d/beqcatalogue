@@ -4,7 +4,7 @@
 
 **2009 • R • 1h 41m • French • Action, Thriller, Crime • mobe1969**
 
-Damien and Leito return to District 13 on a mission to bring peace to the troubled sector that is controlled by five different gang bosses, before the citys secret services take drastic measures to solve the problem.
+Damien and Leito return to District 13 on a mission to bring peace to the troubled sector that is controlled by five different gang bosses, before the city’s secret services take drastic measures to solve the problem.
 
 [TMDB](15357)
 

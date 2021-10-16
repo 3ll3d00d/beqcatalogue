@@ -4,7 +4,7 @@
 
 **2013 • R • 1h 32m • Thriller, Horror • mobe1969**
 
-A young woman learns that she has inherited a Texas estate from her deceased grandmother.After embarking on a road trip with friends to uncover her roots, she finds she is the sole owner of a lavish, isolated Victorian mansion. But her newfound wealth comes at a price as she stumbles upon a horror that awaits her in the mansions dank cellars.
+A young woman learns that she has inherited a Texas estate from her deceased grandmother. After embarking on a road trip with friends to uncover her roots, she finds she is the sole owner of a lavish, isolated Victorian mansion. But her newfound wealth comes at a price as she stumbles upon a horror that awaits her in the mansion’s dank cellars.
 
 [TMDB](76617)
 

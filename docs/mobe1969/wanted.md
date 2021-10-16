@@ -4,7 +4,7 @@
 
 **2008 • R • 1h 50m • Crime, Thriller, Action • mobe1969**
 
-Doormat Wesley Gibson discovers that his recently murdered father  who Wesley never knew  belonged to a secret guild of assassins. After a leather-clad sexpot drafts Wesley into the society, he hones his innate killing skills and turns avenger.
+Doormat Wesley Gibson discovers that his recently murdered father - who Wesley never knew - belonged to a secret guild of assassins. After a leather-clad sexpot drafts Wesley into the society, he hones his innate killing skills and turns avenger.
 
 [TMDB](8909)
 

@@ -14,7 +14,7 @@ Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompete
 
 **2000 • R • 1h 43m • Comedy, Crime • mobe1969**
 
-Illegal boxing promoter Turkish convinces gangster Brick Top to offer bets on bare-knuckle boxer Mickey at his bookie business. When Mickey does not throw his first fight as agreed, an infuriated Brick Top demands another match. Meanwhile, gangster Frankie Four Fingers comes to place a bet for a friend with Brick Top's bookies, as multiple criminals converge on a stolen diamond that Frankie has come to London to sell.
+Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.
 
 [TMDB](107)
 

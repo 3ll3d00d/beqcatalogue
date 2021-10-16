@@ -4,7 +4,7 @@
 
 **2011 • R • 1h 32m • Horror, Mystery • mobe1969**
 
-In this fifth installment, Death is just as omnipresent as ever, and is unleashed after one mans premonition saves a group of coworkers from a terrifying suspension bridge collapse. But this group of unsuspecting souls was never supposed to survive, and, in a terrifying race against time, the ill-fated group frantically tries to discover a way to escape Deaths sinister agenda.
+In this fifth installment, Death is just as omnipresent as ever, and is unleashed after one man’s premonition saves a group of coworkers from a terrifying suspension bridge collapse. But this group of unsuspecting souls was never supposed to survive, and, in a terrifying race against time, the ill-fated group frantically tries to discover a way to escape Death’s sinister agenda.
 
 [TMDB](55779)
 

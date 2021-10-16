@@ -4,7 +4,7 @@
 
 **1993 • PG-13 • 1h 49m • Science Fiction, Drama, Mystery • mobe1969**
 
-A group of men who were clearing bush for the government arrive back in town, claiming that their friend was abducted by aliens. Nobody believes them, and despite a lack of motive and no evidence of foul play, their friends' disappearance is treated as murder.
+A group of men who were clearing brush for the government arrive back in town, claiming that their friend was abducted by aliens. Nobody believes them, and despite a lack of motive and no evidence of foul play, their friends' disappearance is treated as murder.
 
 [TMDB](15613)
 

@@ -4,7 +4,7 @@
 
 **2019 • NR • 1h 38m • War, Action, Drama, History • mobe1969**
 
-February 1976. Somalian rebels hijack a school bus carrying 21 French children and their teacher in Djibouti City. When the terrorists drive it to a no-mans-land on the border between Somalia and French territory, the French Government sends out a newly formed elite squad to rescue the hostages. Within a few hours, the highly trained team arrives to the crisis area, where the Somalian National Army has taken position behind the barbed wire on the border. The French unit is left with very few options to rescue the hostages. As the volatile situation unravels, the French men quickly come up with a daring plan: carry out a simultaneous 5 men sniper attack to get the children and the teacher out safely. A true story.
+February 1976. Somalian rebels hijack a school bus carrying 21 French children and their teacher in Djibouti City. When the terrorists drive it to a no-man’s-land on the border between Somalia and French territory, the French Government sends out a newly formed elite squad to rescue the hostages. Within a few hours, the highly trained team arrives to the crisis area, where the Somalian National Army has taken position behind the barbed wire on the border. The French unit is left with very few options to rescue the hostages. As the volatile situation unravels, the French men quickly come up with a daring plan: carry out a simultaneous 5 men sniper attack to get the children and the teacher out safely. A true story.
 
 [TMDB](484638)
 

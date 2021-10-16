@@ -4,7 +4,7 @@
 
 **2017 • NR • 1h 45m • Japanese • Drama, Action, Crime • mobe1969**
 
-tomo gets involved with new Yakuza battles after he comes back the Yakuza society.
+Ôtomo gets involved with new Yakuza battles after he comes back the Yakuza society.
 
 [TMDB](452323)
 

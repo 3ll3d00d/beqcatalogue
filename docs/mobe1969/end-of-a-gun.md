@@ -4,7 +4,7 @@
 
 **2016 • R • 1h 27m • Action, Crime, Thriller • mobe1969**
 
-A mall security guardand former federal agentcrosses paths with a drug kingpin's enforcer after the guard saves a woman from danger.
+A mall security guard—and former federal agent—crosses paths with a drug kingpin's enforcer after the guard saves a woman from danger.
 
 [TMDB](411632)
 

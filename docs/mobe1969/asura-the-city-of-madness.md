@@ -4,7 +4,7 @@
 
 **2016 • NR • 2h 16m • Korean • Action, Crime • mobe1969**
 
-A shady cop finds himself in over his head when he gets caught between Internal Affairs and the citys corrupt mayor.
+A shady cop finds himself in over his head when he gets caught between Internal Affairs and the city’s corrupt mayor.
 
 [TMDB](408620)
 

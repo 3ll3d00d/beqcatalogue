@@ -4,7 +4,7 @@
 
 **2021 • PG-13 • 1h 53m • Fantasy, Adventure, Action • mobe1969**
 
-In a time when monsters walk the Earth, humanitys fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
+In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
 
 [TMDB](399566)
 
@@ -14,7 +14,7 @@ In a time when monsters walk the Earth, humanitys fight for its future sets Godz
 
 **2021 • PG-13 • 1h 53m • Action, Adventure, Fantasy • mobe1969**
 
-In a time when monsters walk the Earth, humanitys fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
+In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
 
 [TMDB](399566)
 

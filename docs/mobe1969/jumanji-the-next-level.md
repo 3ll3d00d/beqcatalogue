@@ -4,7 +4,7 @@
 
 **2019 • PG-13 • 2h 3m • Adventure, Comedy, Fantasy • mobe1969**
 
-As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the worlds most dangerous game.
+As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.
 
 [TMDB](512200)
 

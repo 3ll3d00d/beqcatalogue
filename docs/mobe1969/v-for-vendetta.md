@@ -4,7 +4,7 @@
 
 **2006 • R • 2h 12m • Action, Thriller, Fantasy • mobe1969**
 
-In a world in which Great Britain has become a fascist state, a masked vigilante known only as V conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.
+In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.
 
 [TMDB](752)
 

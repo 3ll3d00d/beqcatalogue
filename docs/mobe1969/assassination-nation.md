@@ -4,7 +4,7 @@
 
 **2018 • R • 1h 48m • Thriller, Comedy, Horror • mobe1969**
 
-High school senior Lily and her group of friends live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they'll live through the night.
+High school senior Lily and her friends, Bex, Em and Sarah live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they'll live through the night.
 
 [TMDB](446101)
 

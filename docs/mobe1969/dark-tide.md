@@ -4,7 +4,7 @@
 
 **2012 • PG-13 • 1h 53m • Thriller, Adventure, Drama • mobe1969**
 
-A traumatized shark expert (Halle Berry) must battle her own fears to lead a thrill-seeking businessman on a dive into a dangerous section of water known as "Shark Alley."
+A traumatized shark expert must battle her own fears to lead a thrill-seeking businessman on a dive into a dangerous section of water known as "Shark Alley."
 
 [TMDB](59963)
 

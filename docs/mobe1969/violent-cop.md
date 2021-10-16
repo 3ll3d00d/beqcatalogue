@@ -4,7 +4,7 @@
 
 **1989 • 16 • 1h 43m • Japanese • Action, Crime, Drama • mobe1969**
 
-A detective breaks all rules of ethical conduct while investigating a colleagues involvement in drug pushing and Yakuza activities.
+A detective breaks all rules of ethical conduct while investigating a colleague’s involvement in drug pushing and Yakuza activities.
 
 [TMDB](12622)
 

@@ -4,7 +4,7 @@
 
 **2015 • NR • 2h 0m • Cantonese • Action, Crime, Thriller • mobe1969**
 
-A Hong Kong cop named Kit busts a major gangster only to find his cover blown and his main witness gone. The gangster, in retaliation, has him kidnapped and put in a Thai jail with a false criminal identity. A lowly prison guard Chai with extraordinary fighting skills guards kit and prevents his escape from prison. The prison guards daughter suffers from a rare form of leukemia and Kit is the only donor who can save her. The prison guard discovers Kits real identity and helps him to escape in return for his agreeing to save his daughter. Together, Kit and Chai must face the gangster and his minions and take them down.
+A Hong Kong cop named Kit busts a major gangster only to find his cover blown and his main witness gone. The gangster, in retaliation, has him kidnapped and put in a Thai jail with a false criminal identity. A lowly prison guard Chai with extraordinary fighting skills guards kit and prevents his escape from prison. The prison guard’s daughter suffers from a rare form of leukemia and Kit is the only donor who can save her. The prison guard discovers Kit’s real identity and helps him to escape in return for his agreeing to save his daughter. Together, Kit and Chai must face the gangster and his minions and take them down.
 
 [TMDB](331576)
 

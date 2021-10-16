@@ -4,7 +4,7 @@
 
 **2015 • R • 1h 48m • Thriller, Mystery, Drama • mobe1969**
 
-A husband and wife try to reinvigorate their relationship but their lives are threatened by a "friend" from the husband's past who holds a horrifying secret about him, sending their world into a tailspin.
+Simon and Robyn are a young married couple whose life is going as planned until a chance run-in with Simon's high school acquaintance sends their world into a tailspin.
 
 [TMDB](328425)
 

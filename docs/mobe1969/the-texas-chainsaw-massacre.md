@@ -4,7 +4,7 @@
 
 **2003 • R • 1h 38m • Horror • mobe1969**
 
-After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a deformed chainsaw-wielding killer and his family of equally psychopathic killers.
+After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a chainsaw-wielding killer and his family of equally psychopathic killers.
 
 [TMDB](9373)
 

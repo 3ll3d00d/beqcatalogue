@@ -4,7 +4,7 @@
 
 **1981 • NR • 1h 27m • Horror • mobe1969**
 
-A young family moves from their cramped New York City apartment to a spacious new home in New England.  But his is no ordinary house in the country:  the previous owner was the deranged Dr. Freudstein, whose monstrous human experiments have left a legacy of bloody mayhem.  Now, someone - or something - is alive in the basement, and home sweet home is about to become a horrific hell on earth.
+After a doctor kills his mistress and himself while researching the mysterious previous owner of his Boston home, his colleague, Dr. Norman Boyle, takes over his research and moves his family from New York City to the Boston mansion. Soon after, Boyle's young son Bob becomes plagued by visions of a young girl, who warns him of the danger within the house.
 
 [TMDB](28794)
 

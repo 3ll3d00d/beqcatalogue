@@ -4,7 +4,7 @@
 
 **2010 • 12 • 1h 30m • Japanese • Action, Science Fiction, Animation • mobe1969**
 
-In a quicksand surrounded town called Makka, rumors spread of a legendary robber named Gasback is after the town. To protect it, Mayor Kepler has hired bounty hunters. These hunters have been following Gasback from town to town in hopes of getting the bounty. Vash the Stampede is in town, along with Meryl and Milly, along with the female bounty hunter Ameria and Nicholas D. Wolfwood.
+In a quicksand surrounded town called Makka, rumors spread of a legendary robber named Gasback is after the town. To protect it, Mayor Kepler has hired bounty hunters. These hunters have been following Gasback from town to town in hopes of getting the bounty. Vash the Stampede is in town, along with Meryl and Milly, along with the female bounty hunter Amelia and Nicholas D. Wolfwood.
 
 [TMDB](51859)
 

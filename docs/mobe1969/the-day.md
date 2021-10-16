@@ -4,7 +4,7 @@
 
 **2011 • R • 1h 25m • Science Fiction, Action, Horror, Drama • mobe1969**
 
-Open war against humanity rages. For five survivors  lost and on the run  the pursuit is relentless, the bullets are dwindling and the battle is everywhere. This is a 24-hour look into their lives.
+Open war against humanity rages. For five survivors – lost and on the run – the pursuit is relentless, the bullets are dwindling and the battle is everywhere. This is a 24-hour look into their lives.
 
 [TMDB](84226)
 

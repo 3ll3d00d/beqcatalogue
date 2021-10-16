@@ -4,7 +4,7 @@
 
 **2004 • R • 1h 38m • Drama, Horror, Thriller • mobe1969**
 
-Set in 1969, Alan Parker (Jackson) is a young artist, studying at the University of Maine. He becomes obsessed with death, and believing he is losing his girlfriend, Jessica (Christensen), he tries to commit suicide on his birthday but his friends manage to stop him, and he recovers. He receives news that his mother has had a stroke, and decides to hitchhike to visit her at the hospital.
+In 1969, artist Alan Parker while studying at the University of Maine, becomes obsessed with death. Believing he is losing his girlfriend, he tries to commit suicide on his birthday but his friends manage to stop him. He receives news that his mother has had a stroke and decides to hitchhike to visit her at the hospital.
 
 [TMDB](12483)
 

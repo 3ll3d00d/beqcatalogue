@@ -4,7 +4,7 @@
 
 **2008 • PG-13 • 1h 52m • Comedy, Adventure, Romance • mobe1969**
 
-Treasure hunter Ben 'Finn' Finnegan has sunk both his trusty boat and his marriage to Tess in his obsessive quest to find the legendary 'Queen's Dowry' treasure. When he finds a vital clue that may finally pinpoint the treasure's whereabouts, he drags Tess and her boss along on the hunt. But Finn is not the only one interested in the goldhis former mentor-turned-enemy will stop at nothing to beat him to it.
+Treasure hunter Ben 'Finn' Finnegan has sunk both his trusty boat and his marriage to Tess in his obsessive quest to find the legendary 'Queen's Dowry' treasure. When he finds a vital clue that may finally pinpoint the treasure's whereabouts, he drags Tess and her boss along on the hunt. But Finn is not the only one interested in the gold—his former mentor-turned-enemy will stop at nothing to beat him to it.
 
 [TMDB](8676)
 

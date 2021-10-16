@@ -4,7 +4,7 @@
 
 **2012 • R • 1h 37m • Action, Crime, Thriller, Drama • mobe1969**
 
-A fireman takes an unexpected course of action when a man whom he's been ordered to testify againstafter being held up at a local convenience storethreatens him.
+A fireman takes an unexpected course of action when a man whom he's been ordered to testify against—after being held up at a local convenience store—threatens him.
 
 [TMDB](139567)
 

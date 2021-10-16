@@ -4,7 +4,7 @@
 
 **2009 • U • 2h 0m • Korean • Action, Drama, Thriller, Adventure • mobe1969**
 
-A woman named Yeon-hee lives in Busan with her boyfriend Man-sik near Haeundae Beach. But, when they find out a tsunami will hit the city, They realize they only have 10 minutes to escape!!
+On Haeundae Beach, a guilt-ridden fisherman takes care of a woman whose father accidentally got killed. A scientist reunites with his ex-wife and a daughter who doesn't even remember his face. And a poor rescue worker falls in love with a rich city girl. When they all find out a gigantic tsunami will hit the beach, they realize they only have 10 minutes to escape.
 
 [TMDB](33196)
 

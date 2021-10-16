@@ -4,7 +4,7 @@
 
 **1990 • R • 1h 48m • Action, Thriller, Science Fiction • mobe1969**
 
-Ten years after a band of mercenaries first battled a vicious alien, the invisible creature from another world has returned to Earthand this time, its drawn to the gang-ruled and ravaged city of Los Angeles. When it starts murdering drug dealers, detective-lieutenant Mike Harrigan and his police force set out to capture the creature, ignoring warnings from a mysterious government agent to stay away.
+A police chief in the war-torn streets of Los Angeles discovers that an extraterrestrial creature is hunting down residents - and that he is the next target.
 
 [TMDB](169)
 

@@ -4,7 +4,7 @@
 
 **1987 • R • 1h 43m • Action, Comedy, Crime • mobe1969**
 
-Axel heads for the land of sunshine and palm trees to find out who shot police Captain Andrew Bogomil. Thanks to a couple of old friends, Axel's investigation uncovers a series of robberies masterminded by a heartless weapons kingpinand the chase is on.
+Axel heads for the land of sunshine and palm trees to find out who shot police Captain Andrew Bogomil. Thanks to a couple of old friends, Axel's investigation uncovers a series of robberies masterminded by a heartless weapons kingpin—and the chase is on.
 
 [TMDB](96)
 

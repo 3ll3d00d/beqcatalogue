@@ -4,7 +4,7 @@
 
 **2010 • 18 • 2h 37m • Korean • Drama, Crime, Thriller • mobe1969**
 
-A North Korean man takes an assassination job in the South to make money and find his missing wife. But when the job is botched, he is forced to go on the run from the police and the gangsters who paid him.
+A Korean man in China takes an assassination job in South Korea to make money and find his missing wife. But when the job is botched, he is forced to go on the run from the police and the gangsters who paid him.
 
 [TMDB](57361)
 

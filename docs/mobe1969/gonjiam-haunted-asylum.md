@@ -4,7 +4,7 @@
 
 **2018 • NR • 1h 34m • Korean • Horror, Mystery • mobe1969**
 
-An internet broadcaster recruits a handful of people for their 'experience the horror' show at Gonjiam Psychiatric Hospital, a place selected as one of the '7 freakiest places on the planet'. They are to explore the haunted asylum and stream it live on their online show.
+The crew of a horror web series travels to an abandoned asylum for a live broadcast, but they encounter much more than expected as they move deeper inside the nightmarish old building.
 
 [TMDB](508642)
 

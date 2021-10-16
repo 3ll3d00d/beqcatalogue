@@ -14,7 +14,7 @@ Ben Archer, an ex-mob enforcer, seeks revenge against a ruthless Chinese kingpin
 
 **2004 • R • 1h 31m • Action • mobe1969**
 
-Action superstar, Jean-Claude Van Damme (Universal Soldier, Street Fighter), is back and at his hard-hitting best as Ben Archer, an ex-mob enforcer seeking revenge against a ruthless Chinese kingpin responsible for his wife's brutal murder. When Archer joins forces with his old underworld friends, an all-out war is waged against the Chinese Triad in this pulse-pounding action thriller.
+Ben Archer, an ex-mob enforcer, seeks revenge against a ruthless Chinese kingpin responsible for his wife's brutal murder. When Archer joins forces with his old underworld friends, an all-out war is waged against the Chinese Triad.
 
 [TMDB](14172)
 

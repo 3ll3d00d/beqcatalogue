@@ -4,7 +4,7 @@
 
 **2003 • R • 1h 37m • Horror • mobe1969**
 
-In an attempt to free himself from a state of forgotten limbo, evil dream-demon Freddy Krueger (Robert Englund) devises a plan to manipulate un-dead mass murderer Jason Voorhees (Ken Kirzenger) into slicing-and-dicing his way through the teenage population of Springwood.  But when the master of dreams loses control of his monster, a brutal fight to the death is the only way out in this long anticipated crossover between two of modern horror's most notorious killers!
+In an attempt to free himself from a state of forgotten limbo, evil dream-demon Freddy Krueger devises a plan to manipulate un-dead mass murderer Jason Voorhees  into slicing-and-dicing his way through the teenage population of Springwood.  But when the master of dreams loses control of his monster, a brutal fight to the death is the only way out.
 
 [TMDB](6466)
 

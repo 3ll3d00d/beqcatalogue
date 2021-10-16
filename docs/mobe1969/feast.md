@@ -4,7 +4,7 @@
 
 **2005 • R • 1h 35m • Horror, Action, Thriller • mobe1969**
 
-Patrons locked inside of a bar are forced to fight monsters.
+Trapped in a remote tavern, a group of strangers must band together for survival. Outside the bar, a horde of ravenous, flesh-eating monsters are trying to break in and dine on the frightened humans inside.
 
 [TMDB](10070)
 

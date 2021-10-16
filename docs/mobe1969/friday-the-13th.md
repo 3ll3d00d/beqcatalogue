@@ -4,7 +4,7 @@
 
 **2009 • R • 1h 37m • Horror • mobe1969**
 
-Ignoring the warnings of the locals, a group of teenage camp counselors takes on the job of reopening Camp Crystal Lake  on Friday the 13th no less, and raise the ire of Jason Voorhees, a masked, homicidal maniac.
+A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.
 
 [TMDB](13207)
 

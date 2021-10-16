@@ -4,7 +4,7 @@
 
 **2008 • 15 • 1h 30m • Horror, Science Fiction, Thriller, Action • mobe1969**
 
-In the supernatural thriller The Objective, writer-director Daniel Myrick locates the action in a remote mountain region on Afghanistan, where a team of US Special Ops forces is dispatched with the ostensible orders of locating an influential Muslim cleric. While on the mission they find themselves lost in a Middle Eastern 'Bermuda Triangle' of ancient evil and faced with an enemy that none of them could have imagined.
+A team of US Special Ops forces is dispatched to a remote mountain region of Afghanistan with orders to locate an influential Muslim cleric. While on the mission they find themselves lost in a Middle Eastern 'Bermuda Triangle' of ancient evil and faced with an enemy that none of them could have imagined.
 
 [TMDB](14878)
 

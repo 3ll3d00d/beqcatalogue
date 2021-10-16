@@ -4,7 +4,7 @@
 
 **2015 • NR • 2h 12m • Western, Horror, History • mobe1969**
 
-During a shootout in a saloon, Sheriff Hunt injures a suspicious stranger. One of the villagers takes care of him in prison. One day they both disappear  only the spear of a cannibal tribe is found. Hunt and a few of his men go in search of the prisoner and his nurse.
+During a shootout in a saloon, Sheriff Hunt injures a suspicious stranger. The doctor's assistant, wife of the local foreman, tends to him in prison. That night, the town is attacked and they both disappear—only the arrow of a cannibal tribe is found. Hunt and a few of his men go in search of the prisoner and the foreman's wife.
 
 [TMDB](294963)
 

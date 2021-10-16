@@ -4,7 +4,7 @@
 
 **2009 • PG-13 • 2h 29m • Thriller, Mystery • mobe1969**
 
-A murder in Paris Louvre Museum and cryptic clues in some of Leonardo da Vincis most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that  should it come to light  could rock the very foundations of Christianity.
+A murder in Paris’ Louvre Museum and cryptic clues in some of Leonardo da Vinci’s most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that — should it come to light — could rock the very foundations of Christianity.
 
 [TMDB](591)
 

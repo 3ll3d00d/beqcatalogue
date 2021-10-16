@@ -4,7 +4,7 @@
 
 **2013 • 12 • 2h 24m • Japanese • War, Drama • mobe1969**
 
-A young man Kentaro Saeki (Haruma Miura) keeps failing his bar test and does not know what to do any more. His older sister Keiko is a freelance writer. Kentaro and Keiko begin to search for information on their grandfather Kyuzo Miyabe (Junichi Okada) who dead in the special  forces during World War II.  Their grandfather Kyuzo Miyabe was terrified of death and obsessed with life. Why did he join the special forces? According to his fellow navy soldiers, Kyuzo Miyabe was a genius and also a coward. Kentaro and Keiko then discovers the shocking truth which has been sealed for 60 years.
+A young man Kentaro Saeki keeps failing his bar test and does not know what to do any more. His older sister Keiko is a freelance writer. Kentaro and Keiko begin to search for information on their grandfather Kyuzo Miyabe who dead in the special  forces during World War II.  Their grandfather Kyuzo Miyabe was terrified of death and obsessed with life. Why did he join the special forces? According to his fellow navy soldiers, Kyuzo Miyabe was a genius and also a coward. Kentaro and Keiko then discovers the shocking truth which has been sealed for 60 years.
 
 [TMDB](248087)
 

@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 36m • Cantonese • Action, Comedy, Crime • mobe1969**
 
-After being dumped by his fianc, heartbroken Hong Kong police officer Fallon Zhu gains 200+ pounds. His superiors demote him to the job of escorting convicts to Japan. When a convict in his custody mysteriously dies, he must team up with citizen Thor to solve the mystery.
+After being dumped by his fiancé, heartbroken Hong Kong police officer Fallon Zhu gains 200+ pounds. His superiors demote him to the job of escorting convicts to Japan. When a convict in his custody mysteriously dies, he must team up with citizen Thor to solve the mystery.
 
 [TMDB](503917)
 

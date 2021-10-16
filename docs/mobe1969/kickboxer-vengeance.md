@@ -4,7 +4,7 @@
 
 **2016 • NR • 1h 30m • Drama, Action • mobe1969**
 
-Eric and Kurt Sloane are the descendants of a well-known Venice, California-based family of martial artists.  Kurt, the younger of the two,  has always been in his brother Erics shadow, and despite his talent has been told he lacks the instinct needed to become a champion.  But when Kurt witnesses the merciless murder of his brother at the hands of Muay Thai champion Tong Po, he vows revenge.  He trains with his brothers mentor for a fight to the death with Tong Po. At first it seems impossible to turn Kurt into the living weapon he must become to beat Tong Po, but through a series of tests and dangerous encounters, Kurt proves he has a deeper strength that will carry him through to his final showdown with Tong Po.
+Eric and Kurt Sloane are the descendants of a well-known Venice, California-based family of martial artists. Kurt has always been in older brother, Eric's shadow, as he lacks the instincts needed to become a champion. Against Kurt's concerns, Eric accepts a paid offer and travels to Thailand to challenge the Muay Thai champion Tong Po and fails with dire consequences. Kurt sets out for revenge. He trains with his brother's mentor, Master Durand, for a Muay Thai fight against the merciless champion, Tong Po. Durand first thinks Kurt is impossible to train, but through a series of spiritual exercises and tests, Durand discovers that Kurt has a deeper strength that will carry him through his final showdown with Tong Po.
 
 [TMDB](308529)
 

@@ -4,7 +4,7 @@
 
 **1984 • PG • 1h 57m • Japanese • Adventure, Animation, Fantasy • mobe1969**
 
-After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausica, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.
+After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.
 
 [TMDB](81)
 
@@ -14,7 +14,7 @@ After a global war, the seaside kingdom known as the Valley of the Wind remains 
 
 **1984 • PG • 1h 57m • Adventure, Animation, Fantasy • mobe1969**
 
-After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausica, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.
+After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.
 
 [TMDB](81)
 

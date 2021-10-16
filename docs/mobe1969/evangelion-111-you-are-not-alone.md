@@ -4,7 +4,7 @@
 
 **2007 • PG-13 • 1h 37m • Japanese • Drama, Animation, Science Fiction, Action • mobe1969**
 
-After the Second Impact, Tokyo-3 is being attacked by giant creatures called Angels that seek to eradicate humankind. The child Shinji's objective is to fight the Angels by piloting one of the mysterious Evangelion mecha units. A remake of the first six episodes of GAINAX's famous 1996 anime series.  The film was retitled "Evangelion: 1.01" for its DVD release and "Evangelion: 1.11" for a release with additional scenes.
+After the Second Impact, Tokyo-3 is being attacked by giant monsters called Angels that seek to eradicate humankind. The child Shinji's objective is to fight the Angels by piloting one of the mysterious Evangelion mecha units. A remake of the first six episodes of GAINAX's famous 1996 anime series. The film was retitled "Evangelion: 1.01" for its home video version and "Evangelion: 1.11" for a release with additional scenes.
 
 [TMDB](15137)
 

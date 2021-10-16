@@ -18,7 +18,7 @@ Extended Cut
 
 **2004 • R • 1h 34m • Horror, Action, Science Fiction • mobe1969**
 
-As the city is locked down under quarantine, Alice joins a small band of elite soldiers, enlisted to rescue the missing daughter of the creator of the mutating T-virus. It's a heart-pounding race against time as the group faces off against hordes of blood- thirsty zombies, stealthy Lickers, mutant canines and the most sinister foe yet.
+As the city is locked down under quarantine, Alice finds out that the people that died from the previous incident at the Umbrella Corporation have turned into zombies. She then joins a small band of elite soldiers, who are enlisted to rescue the missing daughter of the creator of the mutating T-virus.  Once lack of luck and resources happen, they begin to wage an exhilarating battle to survive and escape before the Umbrella Corporation erases its experiment from the face of the earth.
 
 [TMDB](1577)
 

@@ -4,7 +4,7 @@
 
 **2018 • R • 1h 42m • Comedy • mobe1969**
 
-When three parents discover their daughters pact to lose their virginity at prom, they launch a covert one-night operation to stop the teens from sealing the deal.
+When three parents discover their daughters’ pact to lose their virginity at prom, they launch a covert one-night operation to stop the teens from sealing the deal.
 
 [TMDB](437557)
 

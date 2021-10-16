@@ -4,7 +4,7 @@
 
 **2015 • R • 1h 46m • Comedy, Adventure • mobe1969**
 
-Art dealer, Charles Mortdecai, searches for a stolen painting rumored to contain a secret code that gains access to hidden Nazi gold.
+An art dealer, Charles Mortdecai, searches for a stolen painting rumored to contain a secret code that gains access to hidden Nazi gold.
 
 [TMDB](210860)
 

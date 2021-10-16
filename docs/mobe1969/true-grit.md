@@ -4,7 +4,7 @@
 
 **2010 • PG-13 • 1h 50m • Drama, Adventure, Western • mobe1969**
 
-Following the murder of her father by a hired hand, a 14-year-old farm girl sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can finda man with 'true grit'Reuben J. 'Rooster' Cogburn.
+Following the murder of her father by a hired hand, a 14-year-old farm girl sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can find—a man with 'true grit'—Reuben J. 'Rooster' Cogburn.
 
 [TMDB](44264)
 

@@ -1,4 +1,4 @@
-# Tremors 5 Bloodlines
+# Tremors 5: Bloodlines
 
 ## DTS-HD MA 5.1
 

@@ -4,7 +4,7 @@
 
 **2014 • R • 1h 37m • Drama • mobe1969**
 
-War erupts between dirty cops and outlaw bikers as a drug kingpin (Ed Harris) tries to protect his empire.
+War erupts between dirty cops and outlaw bikers as a drug kingpin tries to protect his empire.
 
 [TMDB](240745)
 

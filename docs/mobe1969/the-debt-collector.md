@@ -4,7 +4,7 @@
 
 **2018 • 16 • 1h 36m • Action • mobe1969**
 
-A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one client pulls him into a situation deeper than could ever be expected.
+A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
 
 [TMDB](513691)
 

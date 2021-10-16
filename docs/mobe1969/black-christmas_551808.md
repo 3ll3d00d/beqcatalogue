@@ -4,7 +4,7 @@
 
 **2019 • PG-13 • 1h 32m • Horror, Mystery, Thriller • mobe1969**
 
-Hawthorne College is winding down for the holidays, yet one by one, sorority girls are being picked off. Riley Stone, a girl dealing with her own trauma, begins to notice and tries to save her friends before they too are picked off.
+During their Christmas break, the women at Hawthorne College start being preyed upon by an unknown stalker. Riley, a girl dealing with her own trauma, decides to take matters into her own hands before her and her friends are murdered too
 
 [TMDB](551808)
 

@@ -4,7 +4,7 @@
 
 **2014 • R • 1h 26m • Horror • mobe1969**
 
-An introverted teen sparks with his new neighbor, and together the couple begins to explore the haunted house that is family has unknowingly just purchased.
+An introverted teen sparks with his new neighbor, and together the couple begins to explore the haunted house that his family has unknowingly just purchased.
 
 [TMDB](146243)
 

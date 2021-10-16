@@ -4,7 +4,7 @@
 
 **2016 • 15 • 1h 49m • Horror, Mystery, Thriller • mobe1969**
 
-A series of murders has shaken the community to the point where people believe that only a legendary creature from dark times  the mythical Golem  must be responsible.
+A series of murders has shaken the community to the point where people believe that only a legendary creature from dark times – the mythical Golem – must be responsible.
 
 [TMDB](369300)
 

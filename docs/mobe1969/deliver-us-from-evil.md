@@ -4,7 +4,7 @@
 
 **2020 • MA15+ • 1h 48m • Korean • Action • mobe1969**
 
-A retired contract killer goes on a bloody rampage when a young girl finds herself at the mercy of gangland human traffickers only one man can come to her rescue with an arsenal of weapons and years of experience in the art of killing.
+A retired contract killer goes on a bloody rampage when a young girl finds herself at the mercy of gangland human traffickers and only one man can come to her rescue, with an arsenal of weapons and years of experience in the art of killing.
 
 [TMDB](581526)
 

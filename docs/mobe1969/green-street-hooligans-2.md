@@ -4,7 +4,7 @@
 
 **2009 • R • 1h 34m • Crime, Drama • mobe1969**
 
-When the top players of the Green Street Elite are imprisoned following a deadly battle with their archenemies Millwall every day becomes a fight for survival. On the inside, rival firms and prison guards will stop at nothing to make their lives a living hell, leaving the lads with no choice but to stand their ground and fight. Find out what happens when the two most fearsome and notorious firms
+Following the deadly climax of "Green Street Hooligans," several members of the West Ham firm and numerous members of Millwall end up in jail. The GSE quickly discover the brutality of life on the inside, as they are constant targets of the superior numbers and better-financed Millwall crew.
 
 [TMDB](15809)
 

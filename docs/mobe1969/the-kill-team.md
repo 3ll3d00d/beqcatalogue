@@ -4,7 +4,7 @@
 
 **2019 • R • 1h 27m • Action, Drama, Thriller • mobe1969**
 
-When Andrew Briggmana young soldier in the US invasion of Afghanistanwitnesses other recruits killing innocent civilians under the direction of a sadistic Sergeant, he considers reporting them to higher-ups. However, the heavily-armed and increasingly-violent platoon becomes suspicious that someone in their ranks has turned on them, and Andrew begins to fear that he'll be the next target.
+When Andrew Briggman—a young soldier in the US invasion of Afghanistan—witnesses other recruits killing innocent civilians under the direction of a sadistic Sergeant, he considers reporting them to higher-ups. However, the heavily-armed and increasingly-violent platoon becomes suspicious that someone in their ranks has turned on them, and Andrew begins to fear that he'll be the next target.
 
 [TMDB](489245)
 

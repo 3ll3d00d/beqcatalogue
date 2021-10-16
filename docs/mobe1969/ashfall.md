@@ -4,7 +4,7 @@
 
 **2019 • 16 • 2h 8m • Korean • Adventure, Action, Thriller • mobe1969**
 
-Stagnant since 1903, at an elevation of 9000', a volcano erupts on the mythical and majestic Baekdu Mountain.
+A group of unlikely heroes from across the Korean peninsula try to save the day after a volcano erupts on the mythical and majestic Baekdu Mountain.
 
 [TMDB](581387)
 

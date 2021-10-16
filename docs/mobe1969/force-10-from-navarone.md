@@ -4,7 +4,7 @@
 
 **1978 • PG • 1h 58m • War, Thriller, Adventure, Action • mobe1969**
 
-Mallory and Miller are back. The survivors of Navarone are sent on a mission along with a unit called Force 10, which is led by Colonel Barnsby. But Force 10 has a mission of their own which the boys know nothing about.
+World War II, 1943. Mallory and Miller, the heroes who destroyed the guns of Navarone, are sent to Yugoslavia in search of a ghost from the past.
 
 [TMDB](17339)
 

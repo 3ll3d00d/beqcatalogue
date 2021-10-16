@@ -4,7 +4,7 @@
 
 **2017 • R • 1h 31m • Drama • mobe1969**
 
-An adult victim of childhood sexual abuse confronts the horrors of his past.
+Malky is a demolition worker whose life receives a seismic shock when, out drinking with friends at a local pub, he sees a disturbing figure from his past: the man he holds responsible for a traumatic childhood incident. Fueled by anger, Malky sets out on a path of vengeance—and discovers that no one can escape the consequences of their sins.
 
 [TMDB](451764)
 

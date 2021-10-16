@@ -4,7 +4,7 @@
 
 **2011 • PG-13 • 1h 44m • Action, Comedy • mobe1969**
 
-A luxury condo manager leads a staff of workers to seek payback on the Wall Street swindler who defrauded them. With only days until the billionaire gets away with the perfect crime, the unlikely crew of amateur thieves enlists the help of petty crook Slide to steal the $20 million theyre sure is hidden in the penthouse.
+A luxury condo manager leads a staff of workers to seek payback on the Wall Street swindler who defrauded them. With only days until the billionaire gets away with the perfect crime, the unlikely crew of amateur thieves enlists the help of petty crook Slide to steal the $20 million they’re sure is hidden in the penthouse.
 
 [TMDB](59108)
 

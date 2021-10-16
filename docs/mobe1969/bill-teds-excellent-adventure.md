@@ -4,7 +4,7 @@
 
 **1989 • PG • 1h 30m • Adventure, Comedy, Science Fiction • mobe1969**
 
-Bill and Ted are high school buddies starting a band. They are also about to fail their history classwhich means Ted would be sent to military schoolbut receive help from Rufus, a traveller from a future where their band is the foundation for a perfect society. With the use of Rufus' time machine, Bill and Ted travel to various points in history, returning with important figures to help them complete their final history presentation.
+Bill and Ted are high school buddies starting a band. They are also about to fail their history class—which means Ted would be sent to military school—but receive help from Rufus, a traveller from a future where their band is the foundation for a perfect society. With the use of Rufus' time machine, Bill and Ted travel to various points in history, returning with important figures to help them complete their final history presentation.
 
 [TMDB](1648)
 

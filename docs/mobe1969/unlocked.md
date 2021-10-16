@@ -4,7 +4,7 @@
 
 **2017 • R • 1h 38m • Action, Thriller • mobe1969**
 
-After failing to apprehend the terrorist behind a Paris attack that claimed dozens of lives, CIA agent Alice Racine is forced to live in London as a caseworker. Her mentor unexpectedly calls her back into action when the CIA discovers that another attack is imminent. Alice soon learns that the classified information she's uncovered has been compromised. Running for her life, she turns to a former soldier to help her prevent a lethal biological attack on the citizens of London.
+After failing to apprehend the terrorist behind a Paris attack that claimed dozens of lives, CIA agent Alice Racine is forced to live in London as a caseworker. Her mentor unexpectedly calls her back into action when the CIA discovers that another attack is imminent. Alice soon learns that the classified information she's uncovered has been compromised...
 
 [TMDB](291276)
 

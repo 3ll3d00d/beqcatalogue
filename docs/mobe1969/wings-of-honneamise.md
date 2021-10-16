@@ -4,7 +4,7 @@
 
 **1987 • PG-13 • 2h 1m • Japanese • Science Fiction, Animation • mobe1969**
 
-On a future Earth, war between the Kingdom of Honneamise and its rival, The Republic, is inevitable. As evolving technology creates new ways to wage war, a small group seeks to propel mankind into space in their worlds first spaceflight program. For astronaut candidate Shirotsugh Lhadatt, its a personal odyssey as he grows from an aimless young man into a leader willing to put everything on the line in order to move the human race forward and away from the brink of Armageddon.
+On a future Earth, war between the Kingdom of Honneamise and its rival, The Republic, is inevitable. As evolving technology creates new ways to wage war, a small group seeks to propel mankind into space in their world’s first spaceflight program. For astronaut candidate Shirotsugh Lhadatt, it’s a personal odyssey as he grows from an aimless young man into a leader willing to put everything on the line in order to move the human race forward and away from the brink of Armageddon.
 
 [TMDB](20043)
 

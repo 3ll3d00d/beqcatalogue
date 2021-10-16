@@ -4,7 +4,7 @@
 
 **2017 • PG-13 • 2h 12m • Korean • Action, History, Drama • mobe1969**
 
-During the Japanese colonial era, roughly 400 Korean people, who were forced onto Battleship Island (Hashima Island) to mine for coal, attempt to escape.
+During the Japanese colonial era, roughly 400 Korean people, who were forced onto Battleship Island (‘Hashima Island’) to mine for coal, attempt to escape.
 
 [TMDB](436391)
 

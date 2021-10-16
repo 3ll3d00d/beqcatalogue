@@ -4,7 +4,7 @@
 
 **1984 • PG • 1h 58m • Adventure, Action • mobe1969**
 
-After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees  and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.
+After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.
 
 [TMDB](87)
 

@@ -4,7 +4,7 @@
 
 **2010 • NR • 1h 51m • Cantonese • Science Fiction, Action, Thriller • mobe1969**
 
-Sunny is a nave circus performer who dreams of inheriting his father's knife-throwing skills. However, his hostile colleagues continue to bully him, relegating him to a lowly clown. On a tour to Malaysia, Cheung and other performers discover a cave occupied by the Japanese army during World War II. Instead of finding treasure, the performers - including Sunny - are sprayed with a mysterious chemical that turns them into superhuman mutants...
+Sunny is a naïve circus performer who dreams of inheriting his father's knife-throwing skills. However, his hostile colleagues continue to bully him, relegating him to a lowly clown. On a tour to Malaysia, Cheung and other performers discover a cave occupied by the Japanese army during World War II. Instead of finding treasure, the performers - including Sunny - are sprayed with a mysterious chemical that turns them into superhuman mutants...
 
 [TMDB](44263)
 

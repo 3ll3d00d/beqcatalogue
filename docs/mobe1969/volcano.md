@@ -4,7 +4,7 @@
 
 **1997 • PG-13 • 1h 44m • Thriller, Action, Science Fiction, Drama • mobe1969**
 
-An earthquake shatters a peaceful Los Angeles morning and opens a fissure deep into the earth, causing lava to start bubbling up. As a volcano begins forming in the La Brea Tar Pits, the director of the city's emergency management service, Mike Roark, working with geologist Amy Barnes, must then use every resource in the city to try and stop the volcano from consuming Los Angeles.
+An earthquake shatters a peaceful Los Angeles morning and opens a fissure deep into the earth, causing lava to start bubbling up. As a volcano begins forming in the La Brea Tar Pits, the director of the city's emergency management service, working with a geologist, must then use every resource in the city to try and stop the volcano from consuming LA.
 
 [TMDB](10357)
 

@@ -4,7 +4,7 @@
 
 **2006 • R • 1h 50m • Drama, Mystery, Crime, Thriller • mobe1969**
 
-Slevin is mistakenly put in the middle of a personal war between the citys biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma. A film with many twists and turns.
+Slevin is mistakenly put in the middle of a personal war between the city’s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma. A film with many twists and turns.
 
 [TMDB](186)
 

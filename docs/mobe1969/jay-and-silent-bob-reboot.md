@@ -4,7 +4,7 @@
 
 **2019 • R • 1h 35m • Comedy • mobe1969**
 
-Jay and Silent Bob embark on a cross-country mission to stop Hollywood from rebooting the film based on their comic book counterparts Bluntman and Chronic.
+Jay and Silent Bob embark on a cross-country mission to stop Hollywood from rebooting a film based on their comic book characters Bluntman and Chronic.
 
 [TMDB](440762)
 

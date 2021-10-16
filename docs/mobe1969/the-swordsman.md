@@ -4,7 +4,7 @@
 
 **2020 • 15 • 1h 41m • Korean • Action • mobe1969**
 
-Tae-yeul, a swordsman in his thirties goes out to find his only daughter after losing one of his eyes. Min Seung-ho, the Joseon dynasty's best swordsman chooses an ordinary simple life after perceiving the transient nature of power. Gurutai, the best swordsman in Qing dynasty aspires to become the best even in the Joseon dynasty.
+After being blinded in a coup against the king, Joseon’s greatest swordsman (Jang Hyuk) goes into hiding, far removed from his city’s anguish. But when traffickers kidnap his daughter, he has no choice but to unsheathe his sword once more.
 
 [TMDB](492008)
 

@@ -4,7 +4,7 @@
 
 **2008 • PG-13 • 1h 54m • Action, Crime, Drama, Thriller • mobe1969**
 
-When straight arrow FBI agent Roy Clayton heads up the investigation into a dangerous international conspiracy, all clues seem to lead back to former U.S. Special Operations officer, Samir Horn.
+When straight arrow FBI agent Roy Clayton heads up the investigation into a dangerous international conspiracy, all clues seem to lead back to former U.S. Special Operations officer Samir Horn.
 
 [TMDB](13291)
 

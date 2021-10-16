@@ -4,7 +4,7 @@
 
 **2007 • R • 1h 52m • Crime, Drama, Mystery, Thriller • mobe1969**
 
-American corporations are using the North American Free Trade Agreement by opening large maquiladoras right across the United StatesMexico border. The maquiladoras hire mostly Mexican women to work long hours for little money in order to produce mass quantity products. Lauren Adrian, an impassioned American news reporter for the Chicago Sentinel wants to be assigned to the Iraq front-lines to cover the war. Instead, her editor George Morgan assigns her to investigate a series of slayings involving young maquiladora factory women in a Mexican bordertown.
+American corporations are using the North American Free Trade Agreement by opening large maquiladoras right across the United States–Mexico border. The maquiladoras hire mostly Mexican women to work long hours for little money in order to produce mass quantity products. Lauren Adrian, an impassioned American news reporter for the Chicago Sentinel wants to be assigned to the Iraq front-lines to cover the war. Instead, her editor George Morgan assigns her to investigate a series of slayings involving young maquiladora factory women in a Mexican bordertown.
 
 [TMDB](4351)
 

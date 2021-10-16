@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 45m • French • Mystery, Thriller • mobe1969**
 
-Nine translators have been picked by a ruthless publisher and locked in a luxury bunker to translate the highly anticipated book of a famous author in record time. Although the translators are confined to prevent any kind of leak because of the high financial stakes, a crisis erupts when someone posts the first 10 pages of the novel online and blackmails the publisher to pay 5 million euros. A hunt for the culprit inside the bunker unfolds.
+Nine translators, hired to translate the eagerly awaited final book of a bestselling trilogy, are confined in a luxurious bunker.
 
 [TMDB](477018)
 

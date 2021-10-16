@@ -4,7 +4,7 @@
 
 **2015 • R • 1h 23m • Action, Thriller • mobe1969**
 
-When a former CIA operative is kidnapped by a group of terrorists, his son learns there is no plan for his father to be savedso he launches his own rescue operation.
+When a former CIA operative is kidnapped by a group of terrorists, his son learns there is no plan for his father to be saved—so he launches his own rescue operation.
 
 [TMDB](326425)
 

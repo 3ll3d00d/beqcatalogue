@@ -4,7 +4,7 @@
 
 **2012 • R • 1h 49m • Drama, Thriller, Crime, Action • mobe1969**
 
-When his brother-in-law runs afoul of a drug lord, family man Chris Farraday turns to a skill he abandoned long agosmugglingto repay the debt. But the job goes wrong, and Farraday finds himself wanted by cops, crooks and killers alike.
+When his brother-in-law runs afoul of a drug lord, family man Chris Farraday turns to a skill he abandoned long ago—smuggling—to repay the debt. But the job goes wrong, and Farraday finds himself wanted by cops, crooks and killers alike.
 
 [TMDB](77866)
 

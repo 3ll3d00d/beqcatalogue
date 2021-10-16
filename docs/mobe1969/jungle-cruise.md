@@ -4,7 +4,7 @@
 
 **2021 • PG-13 • 2h 7m • Adventure, Fantasy, Comedy, Action • mobe1969**
 
-Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal  a discovery that will change the future of medicine.
+Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.
 
 [TMDB](451048)
 
@@ -14,7 +14,7 @@ Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take he
 
 **2021 • PG-13 • 2h 7m • Adventure, Fantasy, Comedy, Action • mobe1969**
 
-Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal  a discovery that will change the future of medicine.
+Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.
 
 [TMDB](451048)
 

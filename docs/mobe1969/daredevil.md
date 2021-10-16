@@ -4,7 +4,7 @@
 
 **2003 • PG-13 • 1h 43m • Action, Thriller, Science Fiction, Crime, Fantasy • mobe1969**
 
-He dwells in a world of eternal night, but the blackness is filled with sounds and scents, tastes and textures that most cannot perceive. Although attorney Matt Murdock is blind, his other four senses function with superhuman sharpness. By day, Murdock represents the downtrodden. At night he is Daredevil, a masked vigilante stalking the dark streets of the city, a relentless avenger of justice.
+A man blinded in a childhood accident fights crime using his superhumanly-elevated remaining senses.
 
 [TMDB](9480)
 

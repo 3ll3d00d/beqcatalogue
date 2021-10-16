@@ -4,7 +4,7 @@
 
 **2020 • R • 1h 35m • Action • mobe1969**
 
-Special Ops sniper Brandon Beckett is set up as the primary suspect for the murder of a foreign dignitary on the eve of signing a high-profile trade agreement with the United States. Narrowly escaping death, Beckett realizes that there may be a dark operative working within the government, and partners with the only person whom he can trust: his father, legendary sniper Sgt. Thomas Beckett. Both Becketts are on the run from the CIA, Russian mercenaries and Lady Death, a Yakuza-trained assassin with sniper skills that rival both legendary sharpshooters.
+Special ops sniper Brandon Beckett and his legendary father look for a dark operative within the government, and take on Russian mercenaries and a yakuza-trained assassin.
 
 [TMDB](702936)
 

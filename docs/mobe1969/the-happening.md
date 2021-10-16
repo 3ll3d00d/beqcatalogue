@@ -4,7 +4,7 @@
 
 **2008 • R • 1h 31m • Thriller, Science Fiction • mobe1969**
 
-When a deadly airborne virus threatens to wipe out the northeastern United States, teacher Elliott Moore (Mark Wahlberg) and his wife (Zooey Deschanel) flee from contaminated cities into the countryside in a fight to discover the truth. Is it terrorism, the accidental release of some toxic military bio weapon -- or something even more sinister? John Leguizamo and Betty Buckley co-star in this thriller from writer-director M. Night Shyamalan.
+When a deadly airborne virus threatens to wipe out the northeastern United States, teacher Elliott Moore and his wife Alma flee from contaminated cities into the countryside in a fight to discover the truth. Is it terrorism, the accidental release of some toxic military bio weapon -- or something even more sinister?
 
 [TMDB](8645)
 

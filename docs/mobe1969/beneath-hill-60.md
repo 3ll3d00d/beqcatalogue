@@ -4,7 +4,7 @@
 
 **2010 • R • 2h 2m • History, Drama, War • mobe1969**
 
-The true story of Australia's cat-and-mouse underground mine warfareone of the most misunderstood, misrepresented and mystifying conflicts of WW I. It was secret struggle BENEATH the Western Front that combined daring engineering, technology and science. Few on the surface knew of the brave, claustrophobic and sometimes barbaric work of these tunnellers.
+The true story of Australia's cat-and-mouse underground mine warfare—one of the most misunderstood, misrepresented and mystifying conflicts of WW I. It was secret struggle BENEATH the Western Front that combined daring engineering, technology and science. Few on the surface knew of the brave, claustrophobic and sometimes barbaric work of these tunnellers.
 
 [TMDB](43418)
 

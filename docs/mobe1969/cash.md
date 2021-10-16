@@ -4,7 +4,7 @@
 
 **2010 • R • 1h 48m • Crime, Thriller, Comedy, Mystery • mobe1969**
 
-A stroke of good luck turns lethal for Sam Phelan and his wife Leslie when they are faced with a life-changing decision that brings strange and sinister Pyke Kubic to their doorstep. As Pyke leads Sam and Leslie on a tumultuous adventure through the streets of Chicago, each are pulled deeper and deeper into a desperate spiral of deception and violence  all in the name of money.
+A stroke of good luck turns lethal for Sam Phelan and his wife Leslie when they are faced with a life-changing decision that brings strange and sinister Pyke Kubic to their doorstep. As Pyke leads Sam and Leslie on a tumultuous adventure through the streets of Chicago, each are pulled deeper and deeper into a desperate spiral of deception and violence – all in the name of money.
 
 [TMDB](27004)
 

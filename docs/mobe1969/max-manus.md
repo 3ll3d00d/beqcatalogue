@@ -4,7 +4,7 @@
 
 **2008 • 15 • 1h 58m • Norwegian • Drama, History, War • mobe1969**
 
-Max Manus is a Norwegian 2008 biographic war film based on the real events of the life of resistance fighter Max Manus (191496), after his contribution in the Winter War against the Soviet Union. The story follows Manus through the outbreak of World War II in Norway until peacetime in 1945.
+Max Manus is a Norwegian 2008 biographic war film based on the real events of the life of resistance fighter Max Manus (1914–96), after his contribution in the Winter War against the Soviet Union. The story follows Manus through the outbreak of World War II in Norway until peacetime in 1945.
 
 [TMDB](13752)
 

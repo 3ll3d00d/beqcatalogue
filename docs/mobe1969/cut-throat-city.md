@@ -4,7 +4,7 @@
 
 **2020 • 15 • 2h 3m • Action, Crime, Drama, Thriller • mobe1969**
 
-Four boyhood friends return to New Orleans Lower Ninth Ward after Hurricane Katrina, to find their home decimated and prospects for work swept away. Turning to a local gangster for employment, the crew is hired to pull off a daring casino heist, right in the heart of the city.
+Four boyhood friends return to New Orleans’ Lower Ninth Ward after Hurricane Katrina, to find their home decimated and prospects for work swept away. Turning to a local gangster for employment, the crew is hired to pull off a daring casino heist, right in the heart of the city.
 
 [TMDB](493065)
 

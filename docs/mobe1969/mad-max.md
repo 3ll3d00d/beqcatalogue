@@ -4,7 +4,7 @@
 
 **1979 • R • 1h 31m • Adventure, Action, Thriller, Science Fiction • mobe1969**
 
-Taking place in a dystopian Australia in the near future, Mad Max tells the story of a highway patrolman cruising the squalid back roads that have become the breeding ground of criminals foraging for gasoline and scraps. After some grisly events at the hands of a motorcycle gang, Max sets out across the barren wastelands in search of revenge.
+In a dystopian world, a vengeful Australian policeman named Max sets out to stop a violent motorcycle gang.
 
 [TMDB](9659)
 

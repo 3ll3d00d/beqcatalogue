@@ -4,7 +4,7 @@
 
 **2011 • R • 1h 33m • Drama, Action, Thriller • mobe1969**
 
-Mallory Kane is a highly trained operative who works for a government security contractor in the dirtiest, most dangerous corners of the world. After successfully freeing a Chinese journalist held hostage, she is double crossed and left for dead by someone close to her in her own agency. Suddenly the target of skilled assassins who know her every move, Mallory must find the truth in order to stay alive.
+A black ops soldier seeks payback after she is betrayed and left for dead.
 
 [TMDB](70435)
 

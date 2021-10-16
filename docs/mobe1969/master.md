@@ -4,7 +4,7 @@
 
 **2016 • NR • 2h 23m • Korean • Crime, Action • mobe1969**
 
-Koreas biggest network marketing scam reveals a far greater network of corruption and conspiracy lurking underneath.
+Korea’s biggest network marketing scam reveals a far greater network of corruption and conspiracy lurking underneath.
 
 [TMDB](382220)
 

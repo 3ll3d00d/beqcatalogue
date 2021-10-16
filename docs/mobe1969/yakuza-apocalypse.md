@@ -4,7 +4,7 @@
 
 **2015 • 16 • 1h 55m • Japanese • Action, Horror • mobe1969**
 
-Akira (Hayato Ichihara) admires Genyo Kamiura, the most powerful yakuza. Genyo Kamiura has been targeted numerous times, but he has never been killed. He is called the invincible person.  Because of Genyo Kamiura, Akira enters the world of the yakuza. His yakuza colleagues treat him like an idiot, and Akira can't even get tattoos because of his sensitive skin.  An assassin is sent to take out Genyo Kamiura. The killers know that Genyo Kamiura is a vampire. Thus begins the apocalypse.
+Akira admires Genyo Kamiura, the most powerful yakuza. Genyo Kamiura has been targeted numerous times, but he has never been killed. He is called the invincible person.  Because of Genyo Kamiura, Akira enters the world of the yakuza. His yakuza colleagues treat him like an idiot, and Akira can't even get tattoos because of his sensitive skin.  An assassin is sent to take out Genyo Kamiura. The killers know that Genyo Kamiura is a vampire. Thus begins the apocalypse.
 
 [TMDB](283127)
 

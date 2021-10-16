@@ -4,7 +4,7 @@
 
 **1999 • PG • 1h 42m • Family, Science Fiction, Comedy • mobe1969**
 
-The stars of a 1980s sci-fi shownow eking out a living through re-runs and sci-fi conventionsare beamed aboard an alien spacecraft. Believing the cast's heroic on-screen dramas are historical documents of real-life adventures, the band of aliens turn to the cast members for help in their quest to overcome the oppressive regime in their solar system.
+For four years, the courageous crew of the NSEA protector - "Commander Peter Quincy Taggart" (Tim Allen), "Lt. Tawny Madison (Sigourney Weaver) and "Dr.Lazarus" (Alan Rickman) - set off on a thrilling and often dangerous mission in space...and then their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for "historical documents" and beam up the crew of has-been actors to save the universe. With no script, no director and no clue, the actors must turn in the performances of their lives.
 
 [TMDB](926)
 

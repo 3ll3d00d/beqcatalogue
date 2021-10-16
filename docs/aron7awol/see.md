@@ -11,7 +11,7 @@
 
 ![img 0](https://i.imgur.com/Ugg1O0j.jpg)
 
-## Season 2 Episode 1
+## Season 2
 
 * DD+ Atmos
 

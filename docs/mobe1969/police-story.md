@@ -4,7 +4,7 @@
 
 **1985 • PG-13 • 1h 41m • Cantonese • Action, Crime, Thriller • mobe1969**
 
-A virtuous Hong Kong police officer must clear his name after he is framed for murder.
+Officer Chan Ka Kui manages to put a major Hong Kong drug dealer behind the bars practically alone, after a shooting and an impressive chase inside a slum. Now, he must protect the boss' secretary, Selina, who will testify against the gangster in court.
 
 [TMDB](9056)
 

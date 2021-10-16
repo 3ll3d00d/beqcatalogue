@@ -4,7 +4,7 @@
 
 **2013 • R • 1h 30m • Action, Drama • mobe1969**
 
-An old firm leader returns to Green Street for Revanche after receiving a call that his little brother was killed, but is he able to cope with a new type of hooliganism and can he find his killer?
+An old firm leader returns to Green Street for revenge after receiving a call that his little brother was killed, but is he able to cope with a new type of hooliganism and can he find his killer?
 
 [TMDB](182873)
 

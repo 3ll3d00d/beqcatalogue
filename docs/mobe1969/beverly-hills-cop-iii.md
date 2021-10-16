@@ -4,7 +4,7 @@
 
 **1994 • R • 1h 45m • Action, Comedy, Crime • mobe1969**
 
-Back in sunny southern California and on the trail of two murderers, Axel Foley again teams up with LA cop Billy Rosewood. Soon, they discover that an amusement park is being used as a front for a massive counterfeiting ring  and it's run by the same gang that shot Billy's boss.
+Back in sunny southern California and on the trail of two murderers, Axel Foley again teams up with LA cop Billy Rosewood. Soon, they discover that an amusement park is being used as a front for a massive counterfeiting ring – and it's run by the same gang that shot Billy's boss.
 
 [TMDB](306)
 

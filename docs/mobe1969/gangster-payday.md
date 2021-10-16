@@ -4,7 +4,7 @@
 
 **2014 • NR • 1h 37m • Cantonese • Thriller, Crime, Drama, Romance • mobe1969**
 
-Wong Kam-Kwei, a gang boss on the decline, overseeing bathhouses and karaoke bars, falls for a small restaurant owner, Mei. He begins to help her business, and learns that Mei is already in love with Leung, a member of his gang. Hes also like a brother to Kam-Kwei. When a rival gang hoping to steal his territory kills Leung, the only thing left for Kam-Kwei to do now is to protect Mei and avenge Leung.
+Wong Kam-Kwei, a gang boss on the decline, overseeing bathhouses and karaoke bars, falls for a small restaurant owner, Mei. He begins to help her business, and learns that Mei is already in love with Leung, a member of his gang. He’s also like a brother to Kam-Kwei. When a rival gang hoping to steal his territory kills Leung, the only thing left for Kam-Kwei to do now is to protect Mei and avenge Leung.
 
 [TMDB](294991)
 

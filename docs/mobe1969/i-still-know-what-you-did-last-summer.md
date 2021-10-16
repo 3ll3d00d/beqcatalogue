@@ -4,7 +4,7 @@
 
 **1998 • R • 1h 40m • Thriller, Mystery, Horror • mobe1969**
 
-Unfinished business with coed Julie James brings the murderer to the Bahamas to terrorize her and her friends, Karla, Tyrell and Will, during a vacation. Can Ray Bronson who survived a bloody attack alongside Julie two summers ago, get to the island in time to save everyone?
+Ever since killing the Fisherman one year ago, Julie James is still haunted by images of him after her. When her best friend Karla wins free tickets to the Bahamas, Julie finds this a perfect opportunity to finally relax. But someone is waiting for her. Someone who she thought was dead. Someone who is out again for revenge.
 
 [TMDB](3600)
 

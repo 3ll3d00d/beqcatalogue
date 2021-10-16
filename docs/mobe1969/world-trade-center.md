@@ -4,7 +4,7 @@
 
 **2006 • PG-13 • 2h 8m • Thriller, Drama, History • mobe1969**
 
-After the terrorist attack on the World Trade Center on September 11, 2001, the building collapses over the rescue team from the Port Authority Police Department. Will Jimeno and his sergeant John McLoughlin are found alive trapped under the wreckage while the rescue teams fight to save them.
+Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.
 
 [TMDB](1852)
 

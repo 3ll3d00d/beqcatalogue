@@ -4,7 +4,7 @@
 
 **1997 • R • 1h 50m • Thriller, Mystery, Horror • mobe1969**
 
-A homicide detective and an anthropologist try to destroy a South American lizard-like god, who's on a people eating rampage in a Chicago museum.
+A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.
 
 [TMDB](11015)
 

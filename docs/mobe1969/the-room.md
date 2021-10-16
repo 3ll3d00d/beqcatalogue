@@ -4,7 +4,7 @@
 
 **2019 • NR • 1h 40m • Drama, Science Fiction, Horror, Mystery • mobe1969**
 
-Kate and Matt discover that a part of their house can grant wishes. In the wake of several miscarriages, what they want most is a child.
+Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child.
 
 [TMDB](582913)
 

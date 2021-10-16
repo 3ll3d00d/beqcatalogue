@@ -4,7 +4,7 @@
 
 **2001 • R • 1h 44m • Thriller, Mystery, Crime, Action • mobe1969**
 
-When a teacher kidnaps a girl from a prestigious school, homicide detective, Alex Cross takes the case and teams up with young security agent, Jezzie Flannigan in hope of finding the girl and stopping the brutal psychopath.
+After the harrowing death of his partner, detective and best-selling author Alex Cross has retreated to the peace of retirement. But when a brilliant criminal kidnaps a senator's young daughter, Alex is lured back into action. Teamed with the Secret Service agent assigned to protect the missing girl, Alex follows a serpentine trail of clues that leads him to a stunning discovery - the kidnapper wants more than just ransom.
 
 [TMDB](2043)
 

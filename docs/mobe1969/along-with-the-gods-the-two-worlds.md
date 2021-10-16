@@ -4,7 +4,7 @@
 
 **2017 • NR • 2h 19m • Korean • Drama, Fantasy, Action • mobe1969**
 
-Having died unexpectedly, firefighter Ja-hong is taken to the afterlife by 3 afterlife guardians. Only when he passes 7 trials over 49 days and proves he was innocent in human life, hes able to reincarnate, and his 3 afterlife guardians are by his side to defend him in trial.
+Having died unexpectedly, firefighter Ja-hong is taken to the afterlife by 3 afterlife guardians. Only when he passes 7 trials over 49 days and proves he was innocent in human life, he’s able to reincarnate, and his 3 afterlife guardians are by his side to defend him in trial.
 
 [TMDB](397567)
 

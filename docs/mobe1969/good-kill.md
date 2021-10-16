@@ -4,7 +4,7 @@
 
 **2014 • R • 1h 44m • Drama • mobe1969**
 
-In the shadowy world of drone warfare, combat unfolds like a video gameonly with real lives at stake. After six tours of duty, Air Force pilot Tom Egan now fights the Taliban from an air-conditioned bunker in the Nevada desert. But as he yearns to get back in the cockpit of a real plane and becomes increasingly troubled by the collateral damage he causes each time he pushes a button, Egans nervesand his relationship with his wifebegin to unravel.
+In the shadowy world of drone warfare, combat unfolds like a video game–only with real lives at stake. After six tours of duty, Air Force pilot Tom Egan now fights the Taliban from an air-conditioned bunker in the Nevada desert. But as he yearns to get back in the cockpit of a real plane and becomes increasingly troubled by the collateral damage he causes each time he pushes a button, Egan’s nerves—and his relationship with his wife—begin to unravel.
 
 [TMDB](253626)
 

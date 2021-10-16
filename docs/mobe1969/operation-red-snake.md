@@ -4,7 +4,7 @@
 
 **2019 • NR • 1h 52m • Action, Drama, War • mobe1969**
 
-Kenza and Yal are two young French women who go to Syria to fight alongside the Kurdish forces. There they meet Zara, a Yezidi survivor. Born in different cultures but deeply united, the women-fighters heal their past wounds and discover their present strength, especially the fear they inspire in their opponents. The three young women soon bound together and become true sisters-in-arms.
+Kenza and Yaël are two young French women who go to Syria to fight alongside the Kurdish forces. There they meet Zara, a Yezidi survivor. Born in different cultures but deeply united, the women-fighters heal their past wounds and discover their present strength, especially the fear they inspire in their opponents. The three young women soon bound together and become true sisters-in-arms.
 
 [TMDB](618326)
 

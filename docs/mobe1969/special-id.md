@@ -4,7 +4,7 @@
 
 **2013 • NR • 1h 38m • Mandarin • Drama, Action, Crime • mobe1969**
 
-A career-long undercover Hong Kong cop is sent to Mainland China when his former protg becomes the primary suspect in a murder.
+A career-long undercover Hong Kong cop is sent to Mainland China when his former protégé becomes the primary suspect in a murder.
 
 Mandarin dub, Universal Blu-Ray
 
@@ -16,7 +16,7 @@ Mandarin dub, Universal Blu-Ray
 
 **2013 • NR • 1h 38m • Cantonese • Drama, Action, Crime • mobe1969**
 
-A career-long undercover Hong Kong cop is sent to Mainland China when his former protg becomes the primary suspect in a murder.
+A career-long undercover Hong Kong cop is sent to Mainland China when his former protégé becomes the primary suspect in a murder.
 
 [TMDB](222216)
 

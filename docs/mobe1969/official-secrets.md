@@ -4,7 +4,7 @@
 
 **2019 • R • 1h 52m • Drama, Thriller, History • mobe1969**
 
-The true story of British intelligence whistleblower Katharine Gun whoprior to the 2003 Iraq invasionleaked a top-secret NSA memo exposing a joint US-UK illegal spying operation against members of the UN Security Council. The memo proposed blackmailing member states into voting for war.
+The true story of British intelligence whistleblower Katharine Gun who—prior to the 2003 Iraq invasion—leaked a top-secret NSA memo exposing a joint US-UK illegal spying operation against members of the UN Security Council. The memo proposed blackmailing member states into voting for war.
 
 [TMDB](393624)
 

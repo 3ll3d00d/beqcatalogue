@@ -4,7 +4,7 @@
 
 **2018 • 18 • 1h 42m • Horror, Thriller • mobe1969**
 
-Mary is a very troubled woman who gets a job at a convenience store after setting her assassin boyfriend on fire. As she starts her graveyard shift at the Deer Gas Market, she is haunted by flashbacks.
+After setting her serial killer boyfriend on fire, a paranoid delusional woman gets a job at an all-night gas station. The isolation triggers her anxiety and hallucinations, with devastatingly gory results.
 
 [TMDB](532638)
 

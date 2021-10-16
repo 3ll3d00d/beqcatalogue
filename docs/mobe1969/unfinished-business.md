@@ -4,7 +4,7 @@
 
 **2015 • R • 1h 31m • Comedy • mobe1969**
 
-A hard-working small business owner and his two associates travel to Europe to close the most important deal of their lives.  But what began as a routine business trip goes off the rails in every imaginable  and unimaginable  way, including unplanned stops at a massive sex fetish event and a global economic summit.
+A hard-working small business owner and his two associates travel to Europe to close the most important deal of their lives.  But what began as a routine business trip goes off the rails in every imaginable – and unimaginable – way, including unplanned stops at a massive sex fetish event and a global economic summit.
 
 [TMDB](239573)
 

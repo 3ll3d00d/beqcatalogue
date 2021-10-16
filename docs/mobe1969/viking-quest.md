@@ -4,7 +4,7 @@
 
 **2015 • 16 • 1h 28m • Action, Adventure, Fantasy, TV Movie • mobe1969**
 
-Erick, a young Viking warrior, joins forces with a rival clan in order to rescue a kidnapped princess from the great Midgard Serpent. It's a perilous task with a risk far greater than merely their own lives; by rescuing the princess, they might cause Ragnark - the end of the world.
+Erick, a young Viking warrior, joins forces with a rival clan in order to rescue a kidnapped princess from the great Midgard Serpent. It's a perilous task with a risk far greater than merely their own lives; by rescuing the princess, they might cause Ragnarök - the end of the world.
 
 [TMDB](317960)
 

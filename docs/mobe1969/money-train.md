@@ -4,7 +4,7 @@
 
 **1995 • R • 1h 50m • Action, Comedy, Crime • mobe1969**
 
-When a vengeful New York transit cop decides to steal a trainload of subway fares, his foster brothera fellow coptries to protect him.
+When a vengeful New York transit cop decides to steal a trainload of subway fares, his foster brother—a fellow cop—tries to protect him.
 
 [TMDB](11517)
 
