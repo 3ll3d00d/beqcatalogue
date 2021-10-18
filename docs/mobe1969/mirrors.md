@@ -2,7 +2,9 @@
 
 ## DTS-HD MA 5.1
 
-**2008 • R • 1h 50m • Drama, Thriller, Horror, Mystery • mobe1969**
+Unrated Cut
+
+**2008 • R • 1h 51m • Drama, Thriller, Horror, Mystery • mobe1969**
 
 An ex-cop and his family are the target of an evil force that is using mirrors as a gateway into their home.
 
