@@ -8,7 +8,7 @@ When an oil rig in the Gobi Desert of Mongolia proves unproductive, an aircraft 
 
 [TMDB](11866)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flight%20of%20the%20Phoenix%20%282004%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flight%20of%20the%20Phoenix%20%282004%29%28-10dB%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ When an oil rig in the Gobi Desert of Mongolia proves unproductive, an aircraft 
 
 [TMDB](11866)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flight%20of%20the%20Phoenix%20%282004%29%28-10dB%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flight%20of%20the%20Phoenix%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 

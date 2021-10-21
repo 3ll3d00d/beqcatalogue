@@ -4,7 +4,7 @@
 
 **2012 • PG-13 • 1h 33m • Thriller, Action • mobe1969**
 
-A city in Washington state awakens to the surreal sight of foreign paratroopers dropping from the skyshockingly, the U.S. has been invaded and their hometown is the initial target. Quickly and without warning, the citizens find themselves prisoners and their town under enemy occupation. Determined to fight back, a group of young patriots seek refuge in the surrounding woods, training and reorganizing themselves into a guerrilla group of fighters.
+A city in Washington state awakens to the surreal sight of foreign paratroopers dropping from the sky—shockingly, the U.S. has been invaded and their hometown is the initial target. Quickly and without warning, the citizens find themselves prisoners and their town under enemy occupation. Determined to fight back, a group of young patriots seek refuge in the surrounding woods, training and reorganizing themselves into a guerrilla group of fighters.
 
 [TMDB](60747)
 

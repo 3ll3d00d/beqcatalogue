@@ -1,12 +1,12 @@
 # Only the Brave
 
-## Atmos
+## DTS-HD MA 5.1
 
-**2017 • PG-13 • 2h 14m • Drama, Action, History • mobe1969**
+**2006 • R • 1h 39m • Drama, War • mobe1969**
 
-Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.
+A searing portrait of war and prejudice, 'Only the Brave' takes you on a haunting journey into the hearts and minds of the forgotten heroes of WWII - the Japanese-American 100th/442nd.
 
-[TMDB](395991)
+[TMDB](31101)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Only%20the%20Brave%20%282017%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Only%20the%20Brave%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 
