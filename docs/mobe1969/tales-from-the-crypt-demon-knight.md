@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**1995 • R • 1h 32m • Thriller, Horror, Comedy • mobe1969**
+**1995 • R • 1h 32m • Horror, Comedy, Thriller • mobe1969**
 
 A man on the run is hunted by a demon known as the Collector.
 
