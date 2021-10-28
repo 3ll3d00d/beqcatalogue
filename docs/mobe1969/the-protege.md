@@ -1,4 +1,4 @@
-# The Protege
+# The Protégé
 
 ## Atmos
 
