@@ -4,7 +4,7 @@
 
 **2018 • NR • 2h 2m • Korean • Drama • mobe1969**
 
-A group of very different people set sail on an old warship. The passengers include a senator with his son, a newly-wed couple, a mysterious old man, a group of sex workers and a gang of violent criminals. At first the aggressive behaviour of the thugs and their leader is directed at the first class passengers, but then more and more indiscriminately against the rest of those on board. Rape is followed by murder and it’s not long before the first of numerous and increasingly brutal mutinies takes place.
+A group of very different people set sail on an old warship. The passengers include a senator with his son, a newly-wed couple, a mysterious old man, a group of sex workers and a gang of violent criminals. At first the aggressive behaviour of the thugs and their leader is directed at the first class passengers, but then more and more indiscriminately against the rest of those on board. Rape is followed by murder and itâ€™s not long before the first of numerous and increasingly brutal mutinies takes place.
 
 [TMDB](459267)
 

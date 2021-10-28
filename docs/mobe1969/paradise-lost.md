@@ -4,7 +4,7 @@
 
 Unrated Cut
 
-**2006 • R • 1h 33m • Horror, Thriller • mobe1969**
+**2006 • R • 1h 36m • Horror, Thriller • mobe1969**
 
 A group of young backpackers' vacation turns sour when a bus accident leaves them marooned in a remote Brazilian rural area that holds an ominous secret.
 

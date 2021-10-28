@@ -4,7 +4,7 @@
 
 **2003 • R • 1h 51m • Action, Crime • mobe1969**
 
-An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.
+An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle â€“ but she lives to plot her vengeance.
 
 [TMDB](24)
 

@@ -4,7 +4,7 @@
 
 **2010 • PG-13 • 1h 56m • Fantasy, Action, Adventure • mobe1969**
 
-A rogue prince reluctantly joins forces with a mysterious princess and together, they race against dark forces to safeguard an ancient dagger capable of releasing the Sands of Time – gift from the gods that can reverse time and allow its possessor to rule the world.
+A rogue prince reluctantly joins forces with a mysterious princess and together, they race against dark forces to safeguard an ancient dagger capable of releasing the Sands of Time â€“ gift from the gods that can reverse time and allow its possessor to rule the world.
 
 [TMDB](9543)
 
