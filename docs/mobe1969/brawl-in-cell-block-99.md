@@ -1,0 +1,12 @@
+# Brawl in Cell Block 99
+
+## DTS-HD MA 5.1
+
+**2017 • NR • 2h 12m • Action, Crime, Thriller • mobe1969**
+
+After working as a drug courier and getting into a brutal shootout with police, a former boxer finds himself at the mercy of his enemies as they force him to instigate violent acts that turn the prison he resides in into a battleground.
+
+[TMDB](398175)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Brawl%20in%20Cell%20Block%2099%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+
