@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2012 • 15 • 1h 18m • Korean • Horror • mobe1969**
+**2012 • NR • 1h 49m • Korean • Thriller • mobe1969**
 
-Deranged’ follows four girls who go on a bachelorette party weekend to a country house, in rural Spain. Little do they know what someone had planned for them. The real party begins when the host is mysteriously attacked and one by one, the guests find themselves in mortal danger. The race is on to uncover the killer’s identity and they must fight back or be brutally murdered.
+Jae-hyuk is a pharmaceutical worker for a medical supplies company. When a series of dead bodies are found floating in the Han River. The public is shocked to discovered that the deaths are related to a fatal outbreak of virus-infected mutant parasitic horsehair worms, called 'Yeongasi', that can control the human brain. Those infected shows symptoms of hunger and thirst, hence jumps into the river to combat dehydration. Whilst the authorities work to find a cure, Jae-hyuk struggles to save his family when they also exhibits similar symptoms.
 
-[TMDB](200044)
+[TMDB](121491)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deranged%20%282012%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 
