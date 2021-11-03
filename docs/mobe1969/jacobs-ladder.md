@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**1990 • R • 1h 53m • Drama, Mystery, Horror • mobe1969**
+**2019 • R • 1h 29m • Mystery, Horror, Thriller • mobe1969**
 
-After returning home from the Vietnam War, veteran Jacob Singer struggles to maintain his sanity. Plagued by hallucinations and flashbacks, Singer rapidly falls apart as the world and people around him morph and twist into disturbing images. His girlfriend, Jezzie, and ex-wife, Sarah, try to help, but to little avail. Even Singer's chiropractor friend, Louis, fails to reach him as he descends into madness.
+After losing his brother in combat, Jacob Singer returns home from Afghanistan -- only to be pulled into a mind-twisting state of paranoia. Singer soon realizes that his sibling is alive but life is not what it seems.
 
-[TMDB](2291)
+[TMDB](456529)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jacob%27s%20Ladder%20%281990%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jacob%27s%20Ladder%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

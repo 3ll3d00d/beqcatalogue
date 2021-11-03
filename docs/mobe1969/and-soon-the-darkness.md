@@ -1,4 +1,4 @@
-# And Soon The Darkness
+# And Soon the Darkness
 
 ## DTS-HD MA 5.1
 

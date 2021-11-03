@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2009 • R • 2h 32m • Swedish • Crime, Mystery, Thriller, Drama • mobe1969**
+**2011 • R • 2h 38m • Crime, Thriller, Drama, Mystery • mobe1969**
 
-Swedish thriller based on Stieg Larsson's novel about a male journalist and a young female hacker. In the opening of the movie, Mikael Blomkvist, a middle-aged publisher for the magazine Millennium, loses a libel case brought by corrupt Swedish industrialist Hans-Erik Wennerström. Nevertheless, he is hired by Henrik Vanger in order to solve a cold case, the disappearance of Vanger's niece
+This English-language adaptation of the Swedish novel by Stieg Larsson follows a disgraced journalist, Mikael Blomkvist, as he investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.
 
-[TMDB](15472)
+[TMDB](65754)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Girl%20with%20the%20Dragon%20Tattoo%20%282009%29%28Se%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Girl%20with%20the%20Dragon%20Tattoo%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2018 • NR • 1h 55m • Korean • Crime, Action • mobe1969**
+**2004 • R • 1h 36m • Action • mobe1969**
 
-Dong-chul and Ji-soo are a happily married couple. One day, Dong-chul comes home to find his house in disarray and his wife missing.
+The deranged military and former CIA agent Dean Cage is in a rehab program, trying to forget the traumatic loss of his best friend Scott in Bosnia. When he dates with his girl-friend and Scott's sister, Detective Amy Knight, in a dinning restaurant, he is mistakenly taken as being the CIA agent that is investigating the robbery of the military experiment EX by a man called Sullivan. He is injected with the drug and abducted by the thieves. Amy has six hours to find the also stolen antidote and save Dean's life.
 
-[TMDB](554972)
+[TMDB](23520)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unstoppable%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Unstoppable%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 
