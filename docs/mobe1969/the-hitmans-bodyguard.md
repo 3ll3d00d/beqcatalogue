@@ -1,0 +1,12 @@
+# The Hitman's Bodyguard
+
+## Atmos
+
+**2017 • R • 1h 58m • Thriller, Comedy, Crime, Action • mobe1969**
+
+The world's top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
+
+[TMDB](390043)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hitman%27s%20Bodyguard%20%282017%29%20Atmos.jpg)
+
