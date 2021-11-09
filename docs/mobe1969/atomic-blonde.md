@@ -8,7 +8,7 @@ An undercover MI6 agent is sent to Berlin during the Cold War to investigate the
 
 [TMDB](341013)
 
-![img 0](https://imgur.com/GVKGGly)
+![img 0](https://i.imgur.com/GVKGGly.png)
 
-![img 1](https://imgur.com/9PBEp33)
+![img 1](https://i.imgur.com/9PBEp33.png)
 
