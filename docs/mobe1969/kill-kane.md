@@ -1,0 +1,12 @@
+# Kill Kane
+
+## AC3 5.1
+
+**2016 • R • 1h 14m • Thriller, Crime • mobe1969**
+
+A teacher's world is torn apart when his wife and children are brutally murdered at the hands of a ruthless gang. Left for dead and with no one to turn to, he takes matters into his own hands and hits the streets in search of justice.
+
+[TMDB](378092)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kill%20Kane%20%282016%29%20AC3%205.1.jpg)
+
