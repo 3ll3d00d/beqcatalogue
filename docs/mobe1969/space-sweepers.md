@@ -1,0 +1,12 @@
+# Space Sweepers
+
+## AC3 5.1
+
+**2021 • R • 2h 16m • Korean • Drama, Fantasy, Science Fiction • mobe1969**
+
+When the crew of a space junk collector ship called The Victory discovers a humanoid robot named Dorothy that's known to be a weapon of mass destruction, they get involved in a risky business deal which puts their lives at stake.
+
+[TMDB](581389)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Space%20Sweepers%20%282021%29%28Ko%29%20AC3%205.1.jpg)
+
