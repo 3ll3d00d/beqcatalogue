@@ -1,6 +1,6 @@
 # Dukes of Hazzard
 
-## DTS-HD MA 5.1
+## DD 5.1
 
 Unrated Cut
 
