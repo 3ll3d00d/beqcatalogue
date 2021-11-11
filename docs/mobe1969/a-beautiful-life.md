@@ -1,6 +1,6 @@
 # A Beautiful Life
 
-## AC3 5.1
+## DD+ 5.1
 
 **2011 • NR • 2h 4m • Mandarin • Romance, Drama • mobe1969**
 
@@ -8,5 +8,5 @@ Fang Zhen Dong (Liu Ye) is a patrolling officer in Beijing who one night meets t
 
 [TMDB](72502)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Beautiful%20Life%20%282011%29%28Ma%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Beautiful%20Life%20%282011%29%28Ma%29%20DD%2B%205.1.jpg)
 

@@ -1,6 +1,6 @@
 # Steel Rain
 
-## AC3 5.1
+## DD+ 5.1
 
 **2017 • NR • 2h 19m • Korean • Action, Thriller • mobe1969**
 
@@ -8,7 +8,7 @@ Amid a coup, a North Korean agent escapes south with the country's injured leade
 
 [TMDB](435841)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Steel%20Rain%20%282017%29%28Ko%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Steel%20Rain%20%282017%29%28Ko%29%20DD%2B%205.1.jpg)
 
 ## DTS-X
 

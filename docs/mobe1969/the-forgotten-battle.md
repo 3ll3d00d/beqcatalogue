@@ -1,6 +1,6 @@
 # The Forgotten Battle
 
-## AC3 5.1
+## DD+ 5.1
 
 **2020 • NR • 2h 4m • Netflix • War, History, Drama • mobe1969**
 
@@ -8,5 +8,5 @@ November 1944. On the flooded isle of Walcheren, Zeeland, thousands of Allied so
 
 [TMDB](633515)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Forgotten%20Battle%20%282020%29%28Du%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Forgotten%20Battle%20%282020%29%28Du%29%20DD%2B%205.1.jpg)
 

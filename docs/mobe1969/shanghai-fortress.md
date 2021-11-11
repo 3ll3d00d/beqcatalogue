@@ -1,6 +1,6 @@
 # Shanghai Fortress
 
-## AC3 5.1
+## DD+ 5.1
 
 **2019 • NR • 1h 47m • Mandarin • Science Fiction, War • mobe1969**
 
@@ -8,5 +8,5 @@ Set in the future, the city of Shanghai battle to defend itself against an ongoi
 
 [TMDB](559957)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shanghai%20Fortress%20%282019%29%28Ma%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shanghai%20Fortress%20%282019%29%28Ma%29%20DD%2B%205.1.jpg)
 

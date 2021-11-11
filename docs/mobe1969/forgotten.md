@@ -1,6 +1,6 @@
 # Forgotten
 
-## AC3 5.1
+## DD+ 5.1
 
 **2017 • NR • 1h 48m • Korean • Thriller, Mystery, Drama, Horror, Crime • mobe1969**
 
@@ -8,5 +8,5 @@ Seoul, South Korea, 1997. When the young but extremely anxious student Jin-seok,
 
 [TMDB](488623)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Forgotten%20%282017%29%28Ko%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Forgotten%20%282017%29%28Ko%29%20DD%2B%205.1.jpg)
 

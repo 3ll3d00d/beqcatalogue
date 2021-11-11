@@ -1,12 +1,12 @@
 # Awake
 
-## DTS-HD MA 5.1
+## DD+ 5.1
 
-**2019 • NR • 1h 32m • Action, Crime, Thriller • mobe1969**
+**2021 • R • 1h 36m • Drama, Science Fiction, Thriller • mobe1969**
 
-A man wakes in a hospital bed with no recollection of who he is, and learns that he's wanted by the police for a committing a series of murders.
+After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.
 
-[TMDB](618019)
+[TMDB](615658)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Awake%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Awake%20%282021%29%20DD%2B%205.1.jpg)
 

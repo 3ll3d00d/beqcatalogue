@@ -1,6 +1,6 @@
 # Nezha Reborn
 
-## AC3 5.1
+## DD+ 5.1
 
 **2021 • 12 • 1h 56m • Mandarin • Animation, Action, Fantasy • mobe1969**
 
@@ -8,5 +8,5 @@
 
 [TMDB](663558)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Nezha%20Reborn%20%282021%29%28Ma%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Nezha%20Reborn%20%282021%29%28Ma%29%20DD%2B%205.1.jpg)
 

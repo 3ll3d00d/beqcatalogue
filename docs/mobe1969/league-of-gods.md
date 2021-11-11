@@ -1,6 +1,6 @@
 # League of Gods
 
-## AC3 5.1
+## DD+ 5.1
 
 **2016 • NR • 2h 10m • Mandarin • Action, Fantasy • mobe1969**
 
@@ -8,5 +8,5 @@ During the reign of King Zhou (Tony Leung Ka-fai), an official enters his bedcha
 
 [TMDB](406429)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/League%20of%20Gods%20%282016%29%28Ma%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/League%20of%20Gods%20%282016%29%28Ma%29%20DD%2B%205.1.jpg)
 

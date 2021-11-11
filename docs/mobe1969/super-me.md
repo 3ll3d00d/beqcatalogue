@@ -1,6 +1,6 @@
 # Super Me
 
-## AC3 5.1
+## DD+ 5.1
 
 **2019 • NR • 1h 42m • Mandarin • Adventure, Drama, Fantasy • mobe1969**
 
@@ -8,5 +8,5 @@ Sang Yu is so exhausted from trying to stay awake. Every time he closes his eyes
 
 [TMDB](603768)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Super%20Me%20%282019%29%28Ma%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Super%20Me%20%282019%29%28Ma%29%20DD%2B%205.1.jpg)
 
