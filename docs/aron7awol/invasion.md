@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-## Season 1 Episodes 1-3
+## Season 1 Episodes 1-3, 5-6
 
 * DD+ Atmos
 
