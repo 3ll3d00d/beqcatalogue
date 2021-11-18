@@ -1,12 +1,12 @@
 # Dark Water
 
-## LPCM 5.1
+## DTS-HD MA 5.1
 
-**2005 • PG-13 • 1h 45m • Thriller, Horror, Drama • mobe1969**
+**2002 • NR • 1h 41m • Japanese • Horror, Thriller, Mystery • mobe1969**
 
-Dahlia Williams and her daughter Cecelia move into a rundown apartment on New York's Roosevelt Island. She is currently in midst of divorce proceedings and the apartment, though near an excellent school for her daughter, is all she can afford. From the time she arrives, there are mysterious occurrences and there is a constant drip from the ceiling in her daughter's bedroom.
+A woman in the midst of an unpleasant divorce moves to an eerie apartment building with her young daughter. The ceiling of their apartment has a dark and active leak.
 
-[TMDB](9009)
+[TMDB](12205)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dark%20Water%20%282005%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dark%20Water%20%282002%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

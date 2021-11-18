@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2013 • R • 1h 44m • Drama, Thriller, Mystery, Action • mobe1969**
+**2003 • R • 2h 0m • Korean • Drama, Thriller, Mystery, Action • mobe1969**
 
-An everyday man has only three and a half days and limited resources to discover why he was imprisoned in a nondescript room for 20 years without any explanation.
+With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate businessman seeks revenge on his captors.
 
-[TMDB](87516)
+[TMDB](670)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Oldboy%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Oldboy%20%282003%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

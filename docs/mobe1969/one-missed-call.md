@@ -1,12 +1,12 @@
 # One Missed Call
 
-## DTS-HD MA 5.1
+## TrueHD 5.1
 
-**2003 • R • 1h 52m • Japanese • Horror, Thriller • mobe1969**
+**2008 • PG-13 • 1h 27m • Horror, Mystery, Thriller • mobe1969**
 
-People mysteriously start receiving voicemail messages from their future selves, in the form of the sound of them reacting to their own violent deaths, along with the exact date and time of their future death, listed on the message log. The plot thickens as the surviving characters pursue the answers to this mystery which could save their lives.
+Several people start receiving voice-mails from their future selves -- messages which include the date, time, and some of the details of their deaths.
 
-[TMDB](9694)
+[TMDB](6933)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/One%20Missed%20Call%20%282003%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/One%20Missed%20Call%20%282008%29%20TrueHD%205.1.jpg)
 
