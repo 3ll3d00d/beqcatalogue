@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 52m • Korean • Thriller, Mystery, Science Fiction • mobe1969**
 
-Connected by phone in the same home but 20 years apart, a serial killer puts another womanÃ¢â‚¬â„¢s past Ã¢â‚¬â€ and life Ã¢â‚¬â€ on the line to change her own fate.
+Connected by phone in the same home but 20 years apart, a serial killer puts another woman's past and life on the line to change her own fate.
 
 [TMDB](575604)
 

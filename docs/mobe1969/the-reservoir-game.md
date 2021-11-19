@@ -2,7 +2,8 @@
 
 ## DD+ 5.1
 
-**2017 • NR • 1h 40m • Korean • Documentary • mobe1969**
+**2017 • NR • 1h 40m • Korean • 
+,  ,  ,  ,   • mobe1969**
 
 An investigative reporter seeks to expose the whereabouts of a slush fund belonging to the former president of South Korea, Lee Myung-bak.
 
