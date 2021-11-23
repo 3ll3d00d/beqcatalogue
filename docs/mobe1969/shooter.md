@@ -1,12 +1,28 @@
 # Shooter
 
-## AC3 5.1
+* Author: mobe1969
 
-**2007 • R • 2h 4m • Action, Drama, Mystery, Thriller, Crime • mobe1969**
+## Season 1
 
-A marksman living in exile is coaxed back into action after learning of a plot to kill the president. Ultimately double-crossed and framed for the attempt, he goes on the run to track the real killer and find out who exactly set him up, and why??
+* DD+ 5.1
 
-[TMDB](7485)
+* Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shooter%20%282007%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Shooter%20%282018%29%28S1-E1-10%29%20DD%2B%205.1.jpg)
+
+## Season 2
+
+* DD+ 5.1
+
+* Production Year: 2018
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Shooter%20%282018%29%28S2-E1-8%29%20DD%2B%205.1.jpg)
+
+## Season 3
+
+* DD+ 5.1
+
+* Production Year: 2018
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Shooter%20%282018%29%28S3-E1-13%29%20DD%2B%205.1.jpg)
 
