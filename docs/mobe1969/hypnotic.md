@@ -1,0 +1,12 @@
+# Hypnotic
+
+## DD+ 5.1
+
+**2021 • 15 • 1h 28m • Thriller, Drama, Horror • mobe1969**
+
+A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
+
+[TMDB](864873)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hypnotic%20%282021%29%20DD%2B%205.1.jpg)
+

@@ -2,7 +2,9 @@
 
 ## DD+ 5.1
 
-**2018 • NR • 1h 59m • Korean • Drama, Crime • mobe1969**
+Extended Cut
+
+**2018 • NR • 2h 17m • Korean • Drama, Crime • mobe1969**
 
 The story of the journey of married couple up the social latter. The husband is professor at Seoul National University who is running for the National Assembly, and his wife is a painter.
 
