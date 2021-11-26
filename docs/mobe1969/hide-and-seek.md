@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2013 • NR • 0h 21m • Korean • Drama • mobe1969**
+**2013 • NR • 1h 47m • Korean • Drama • mobe1969**
 
 Sun-mi always feels worried whenever her daughter goes out. She accidentally finds out that there is a man near her daughter. One day, she has a nightmare that her daughter never comes back. The next day, she rushes out to see her daughter during work.
 
