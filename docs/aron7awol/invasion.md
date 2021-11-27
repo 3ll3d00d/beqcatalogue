@@ -11,7 +11,7 @@
 
 ![img 0](https://i.imgur.com/7AA8XHv.jpg)
 
-## Season 1 Episode 4
+## Season 1 Episodes 4, 7-8
 
 * DD+ Atmos
 
