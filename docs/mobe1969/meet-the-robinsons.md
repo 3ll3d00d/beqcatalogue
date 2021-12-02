@@ -1,4 +1,4 @@
-# Meet The Robinsons
+# Meet the Robinsons
 
 ## DTS-HD MA 5.1
 

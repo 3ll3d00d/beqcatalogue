@@ -1,12 +1,12 @@
 # Mosul
 
-## DD+ 5.1
+## DTS-HD MA 5.1
 
-**2020 • NR • 1h 26m • Arabic • War, Drama, Action • mobe1969**
+**2019 • MA15+ • 1h 26m • War, Documentary • mobe1969**
 
-When ISIS took their homes, families and city, one group of men fought to take it all back. Based on true events, this is the story of the Nineveh SWAT team, a renegade police unit who waged a guerrilla operation against ISIS in a desperate struggle to save their home city of Mosul.
+An Iraqi journalist joins an army of uneasy allies and unforgettable characters in the epic battle to liberate the city of Mosul from the Islamic State.
 
-[TMDB](618219)
+[TMDB](594082)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mosul%20%282020%29%28Ab%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mosul%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

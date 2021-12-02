@@ -1,12 +1,12 @@
 # Killers
 
-## DTS-HD MA 5.1
+## DTS-HD MA 7.1
 
-**2014 • 18 • 2h 17m • Japanese • Crime, Thriller, Action, Drama • mobe1969**
+**2010 • PG-13 • 1h 40m • Action, Thriller, Romance, Comedy • mobe1969**
 
-Mr. Nomura is an eerily handsome, sharply dressed, sociopathic serial killer who preys on the women of Tokyo. In Jakarta, a world-weary journalist named Bayu finds himself unexpectedly falling into vigilantism after brutally killing two sadistic robbers. When each posts videos of their violent sprees online, the pair find one another on the Internet and begin a toxic and competitive duel. While Bayu clings to the hope that he can resume a normal life, Nomura continues to spill blood without remorse. Killing, advises Nomura, is something everyone ought to consider.
+When an elite assassin marries a beautiful computer whiz after a whirlwind romance, he gives up the gun and settles down with his new bride. That is, until he learns that someone from his past has put a contract out on his life.
 
-[TMDB](171846)
+[TMDB](37821)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Killers%20%282014%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Killers%20%282010%29%20DTS-HD%20MA%207.1.jpg)
 

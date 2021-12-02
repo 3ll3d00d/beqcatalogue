@@ -72,7 +72,7 @@
 
 * Production Year: 2015
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Ash%20vs%20Evil%20Dead/Season%201/Ash%20vs%20Evil%20Dead%20%282015%29%28S1-E07%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Ash%20vs%20Evil%20Dead/Season%201/Ash%20vs%20Evil%20Dead%20%282015%29%28S1-E06-E10%29%20TrueHD%207.1.jpg)
 
 ## Season 1 Episodes 6-10
 
@@ -80,7 +80,7 @@
 
 * Production Year: 2015
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Ash%20vs%20Evil%20Dead/Season%201/Ash%20vs%20Evil%20Dead%20%282015%29%28S1-E06-E10%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Ash%20vs%20Evil%20Dead/Season%201/Ash%20vs%20Evil%20Dead%20%282015%29%28S1-E07%29%20TrueHD%207.1.jpg)
 
 ## Season 1 Episode 8
 

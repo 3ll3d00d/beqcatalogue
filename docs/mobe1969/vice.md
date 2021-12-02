@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2018 • R • 2h 12m • History, Comedy, Drama • mobe1969**
+**2015 • R • 1h 36m • Science Fiction, Thriller, Action, Adventure • mobe1969**
 
-George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive résumé includes stints as White House chief of staff, House Minority Whip and defense secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.
+Julian Michaels has designed the ultimate resort: VICE, where anything goes and the customers can play out their wildest fantasies with artificial inhabitants who look, think and feel like humans. When an artificial becomes self-aware and escapes, she finds herself caught in the crossfire between Julian's mercenaries and a cop who is hell-bent on shutting down Vice, and stopping the violence once and for all.
 
-[TMDB](429197)
+[TMDB](307663)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vice%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vice%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

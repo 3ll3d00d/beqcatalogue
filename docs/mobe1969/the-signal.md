@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2014 • PG-13 • 1h 37m • Thriller, Science Fiction • mobe1969**
+**2007 • R • 1h 43m • Horror, Science Fiction, Thriller • mobe1969**
 
-Three college students on a road trip across the Southwest experience a detour – the tracking of a computer genius who has already hacked into MIT and exposed security faults. When the trio find themselves drawn to an eerily isolated area, suddenly everything goes dark. When one of the students regains consciousness, he finds himself in a waking nightmare.
+A horror film told in three parts, from three perspectives, in which a mysterious transmission that turns people into killers invades every cell phone, radio, and television.
 
-[TMDB](242095)
+[TMDB](13059)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Signal%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Signal%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

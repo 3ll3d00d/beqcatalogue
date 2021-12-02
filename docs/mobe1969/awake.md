@@ -1,12 +1,12 @@
 # Awake
 
-## TrueHD 5.1
+## DD+ 5.1
 
-**2007 • R • 1h 24m • Mystery, Thriller, Crime • mobe1969**
+**2021 • R • 1h 36m • Drama, Science Fiction, Thriller • mobe1969**
 
-While undergoing heart surgery, a man experiences a phenomenon called ‘anesthetic awareness’, which leaves him awake but paralyzed throughout the operation. As various obstacles present themselves, his wife must make life-altering decisions while wrestling with her own personal drama.
+After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.
 
-[TMDB](13483)
+[TMDB](615658)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Awake%20%282007%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Awake%20%282021%29%20DD%2B%205.1.jpg)
 

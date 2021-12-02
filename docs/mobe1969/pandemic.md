@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2016 • PG-13 • 1h 31m • Science Fiction, Horror, Thriller, Action • mobe1969**
+**2009 • 12 • 2h 18m • Japanese • Action, Drama, Science Fiction, Thriller • mobe1969**
 
-After a virus of epic proportions overwhelms the planet—with more infected than uninfected—humanity is losing its grip on survival and its only hope is finding a cure and keeping the infected contained. Lauren, a doctor, arrives in Los Angeles with her crack team to lead the hunt for uncontaminated civilian survivors, but nothing can prepare them for the blood-soaked mayhem they witness as they head into the Californian streets where everything is considered a trap.
+ER doctor Tsuyoshi Matsuoka receives a patient with a virus unlike anything he's seen before. His symptoms include high fever, convulsions, vomiting of blood and multiple organ failure. Could this be a new form of influenza or is it some other variety of virus? As the situation worsens and more cases begin arriving, a medical officer from the World Health Organization named Eiko Kobayashi is dispatched to the area. At the rate the virus is spreading, the entire city’s transportation system and infrastructure would be brought to a halt within 3 months. Within 6 months it could spread to tens of millions of people--reaching a death toll far worse than any war.
 
-[TMDB](346651)
+[TMDB](41813)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pandemic%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pandemic%20%282009%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 
