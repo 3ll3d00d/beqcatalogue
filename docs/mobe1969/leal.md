@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2018 • NR • 0h 0m • Spanish • Action, Crime, Drama • mobe1969**
+**2018 • NR • 1h 47m • Spanish • Action, Crime, Drama • mobe1969**
 
 Former Colonel Fernandez is appointed Minister of the National Anti-Drug Agency (SENAD) and purges the special forces to fight the first of many battles against drug trafficking on the border of Paraguay and Argentina.
 
