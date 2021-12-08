@@ -16,7 +16,7 @@ Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and
 
 Extended Cut
 
-**2013 • PG-13 • 2h 6m • Action, Science Fiction, Adventure, Fantasy • mobe1969**
+**2013 • PG-13 • 2h 18m • Action, Science Fiction, Adventure, Fantasy • mobe1969**
 
 Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.
 
