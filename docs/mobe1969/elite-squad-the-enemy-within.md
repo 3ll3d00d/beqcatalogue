@@ -4,7 +4,7 @@
 
 **2010 • 18 • 1h 55m • Portuguese • Drama, Crime, Action • mobe1969**
 
-After a bloody invasion of the BOPE in the High-Security Penitentiary Bangu 1 in Rio de Janeiro to control a rebellion of interns, the Lieutenant-Colonel Roberto Nascimento and the second in command Captain AndrÃ© Matias are accused by the Human Right Aids member Diogo Fraga of execution of prisoners. Matias is transferred to the corrupted Military Police and Nascimento is exonerated from the BOPE by the Governor.
+After a bloody invasion of the BOPE in the High-Security Penitentiary Bangu 1 in Rio de Janeiro to control a rebellion of interns, the Lieutenant-Colonel Roberto Nascimento and the second in command Captain Andre Matias are accused by the Human Right Aids member Diogo Fraga of execution of prisoners. Matias is transferred to the corrupted Military Police and Nascimento is exonerated from the BOPE by the Governor.
 
 [TMDB](47931)
 

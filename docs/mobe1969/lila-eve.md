@@ -4,7 +4,7 @@
 
 **2016 • R • 1h 34m • Thriller, Drama • mobe1969**
 
-Lila, a grief-stricken mother reeling from her son’s murder, attends a support group where she meets Eve, who urges her to take matters into her own hands to track down her son’s killers.
+Lila, a grief-stricken mother reeling from her son's murder, attends a support group where she meets Eve, who urges her to take matters into her own hands to track down her son's killers.
 
 [TMDB](309581)
 

@@ -1,0 +1,12 @@
+# The Hunger Games: Mockingjay - Part 1
+
+## Atmos
+
+**2014 • PG-13 • 2h 3m • Science Fiction, Adventure, Thriller • mobe1969**
+
+Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.
+
+[TMDB](131631)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hunger%20Games%20Mockingjay%20-%20Part%201%20%282014%29%20Atmos.jpg)
+

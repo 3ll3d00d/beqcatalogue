@@ -4,7 +4,7 @@
 
 **2021 • MA15+ • 2h 35m • Japanese • Animation, Action, Drama, Science Fiction • mobe1969**
 
-In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka, and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each of them live a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizonâ€”one that will prove to be the true end of Evangelion.
+In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka, and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each of them live a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon - one that will prove to be the true end of Evangelion.
 
 [TMDB](283566)
 

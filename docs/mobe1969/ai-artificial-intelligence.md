@@ -4,7 +4,7 @@
 
 **2001 • PG-13 • 2h 26m • Adventure, Drama, Science Fiction • mobe1969**
 
-David, a robotic boyâ€”the first of his kind programmed to loveâ€”is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David. Without final acceptance by humans or machines, David embarks on a journey to discover where he truly belongs, uncovering a world in which the line between robot and machine is both vast and profoundly thin.
+David, a robotic boy, the first of his kind programmed to love, is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David. Without final acceptance by humans or machines, David embarks on a journey to discover where he truly belongs, uncovering a world in which the line between robot and machine is both vast and profoundly thin.
 
 [TMDB](644)
 

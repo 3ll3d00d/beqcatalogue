@@ -6,7 +6,7 @@ Theatrical Cut
 
 **2014 • PG-13 • 2h 12m • Action, Adventure, Fantasy, Science Fiction • mobe1969**
 
-The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.
+The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past - to save our future.
 
 [TMDB](127585)
 
@@ -18,7 +18,7 @@ Extended Cut
 
 **2014 • PG-13 • 2h 29m • Action, Adventure, Fantasy, Science Fiction • mobe1969**
 
-The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.
+The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past - to save our future.
 
 [TMDB](127585)
 
