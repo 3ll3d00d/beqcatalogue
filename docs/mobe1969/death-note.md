@@ -1,12 +1,12 @@
 # Death Note
 
-## DD+ 5.1
+## DTS-HD MA 5.1
 
-**2017 • 18 • 1h 41m • Crime, Drama, Fantasy, Horror, Thriller • mobe1969**
+**2006 • 15 • 2h 6m • Japanese • Fantasy, Mystery, Thriller • mobe1969**
 
-A young man comes to possess a supernatural notebook, the Death Note, that grants him the power to kill any person simply by writing down their name on the pages. He then decides to use the notebook to kill criminals and change the world, but an enigmatic detective attempts to track him down and end his reign of terror.
+Light Yagami finds the "Death Note," a notebook with the power to kill, and decides to create a Utopia by killing the world's criminals, and soon the world's greatest detective, "L," is hired to find the mysterious murderer. An all out battle between the two greatest minds on earth begins and the winner will control the world.
 
-[TMDB](351460)
+[TMDB](16007)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Death%20Note%20%282017%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Death%20Note%20%282006%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

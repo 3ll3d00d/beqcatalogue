@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2012 • R • 1h 29m • Horror, Thriller • mobe1969**
+**2010 • 15 • 2h 15m • Mandarin • Drama • mobe1969**
 
-Mayhem and death follow when an earthquake traps a group of tourists in a Chilean town.
+The epic story of a family separated as a result of the Great Tangshan Earthquake of 1976.  Based on the Tangshan Earthquake in 1976 that took the lives of 240,000 people.
 
-[TMDB](123103)
+[TMDB](44560)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Aftershock%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Aftershock%20%282010%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2016 • NR • 1h 31m • Action, Drama, Thriller • mobe1969**
+**2015 • 15 • 1h 20m • Action, Crime • mobe1969**
 
-An ex-SAS recluse, living in the mountains of France to escape a traumatic past, is hunted down by those who's lives he has destroyed.
+A rogue soldier turned outlaw is thrust into a relentless fight with a corrupt sheriff, his obedient deputies, and a dangerous drug cartel in order to protect his sister and her young daughter.
 
-[TMDB](430293)
+[TMDB](325173)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Close%20Range%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Close%20Range%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

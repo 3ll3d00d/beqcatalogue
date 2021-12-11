@@ -1,12 +1,12 @@
 # Black Christmas
 
-## DTS-HD MA 5.1
+## TrueHD 5.1
 
-**2019 • PG-13 • 1h 32m • Horror, Mystery, Thriller • mobe1969**
+**2006 • R • 1h 24m • Horror, Thriller, Mystery • mobe1969**
 
-During their Christmas break, the women at Hawthorne College start being preyed upon by an unknown stalker. Riley, a girl dealing with her own trauma, decides to take matters into her own hands before her and her friends are murdered too
+An escaped maniac returns to his childhood home on Christmas Eve, which is now a sorority house, and begins to murder the sorority sisters one by one.
 
-[TMDB](551808)
+[TMDB](9656)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Christmas%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Christmas%20%282006%29%20TrueHD%205.1.jpg)
 
