@@ -61,7 +61,7 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
     '''
     import glob
     elements = []
-    for xml in glob.glob(f"{path1}{path2}/**/*.xml", recursive=True):
+    for xml in sorted(glob.glob(f"{path1}{path2}/**/*.xml", recursive=True)):
         root = extract_root(xml)
         file_name = xml[:-4]
         meta = {
