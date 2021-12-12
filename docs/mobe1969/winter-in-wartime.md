@@ -1,0 +1,12 @@
+# Winter in Wartime
+
+## DTS-HD MA 5.1
+
+**2008 • R • 1h 43m • Dutch • Drama, History, War • mobe1969**
+
+During World War II in the freezing winter of 1944-45 the western Netherlands are in the grip of a famine. Many people move east to provide for their families. Fourteen year old Michiel can't wait to join the Dutch resistance, to the dismay of his father, who, as mayor, works to prevent escalations in the village.
+
+[TMDB](16564)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Winter%20in%20Wartime%20%282008%29%28Du%29%20DTS-HD%20MA%205.1.jpg)
+
