@@ -65,3 +65,12 @@
 
 ![img 0](https://i.imgur.com/fz8HIwr.jpg)
 
+## Season 6
+
+* DD+
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61262718)
+* Production Year: 2015
+
+![img 0](https://i.imgur.com/2CxEuSH.jpg)
+

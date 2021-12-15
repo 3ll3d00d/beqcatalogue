@@ -753,7 +753,7 @@ Movie BEQs/Mortal Engines (2018) (-1.5 gain) BEQ Atmos.xml,1543898641,1611984156
 Movie BEQs/Mortal Kombat (2021) (HBO Max) (+7.5 gain) BEQ DD+ Atmos.xml,1543898641,1619195422
 Movie BEQs/Mortal Kombat Legends Scorpion's Revenege (2020) (+1.0 gain) BEQ DTS-HD MA 5.1.xml,1543898641,1611984156
 Movie BEQs/Most Wanted (2020) (+3.0 gain) BEQ DTS-HD MA 5.1.xml,1543898641,1611984156
-Movie BEQs/Mother! (2017) BEQ Atmos.xml,1543898641,1611984156
+Movie BEQs/Mother! (2017) BEQ Atmos.xml,1543898641,1639522660
 Movie BEQs/Motherless Brooklyn (2019) (+6 gain) BEQ DTS-HD MA 5.1.xml,1543898641,1611984156
 Movie BEQs/Mowgli- Legend of the Jungle (2018) (+7 gain) BEQ DD+ Atmos.xml,1543898641,1611984156
 Movie BEQs/Mulan (2020) (+2.5 gain) BEQ Atmos.xml,1543898641,1611984156
@@ -1829,7 +1829,7 @@ Movie BEQs/Night Teeth (2021) (Netflix) (2.5 gain) BEQ DD+ Atmos.xml,1634860195,
 TV Shows BEQ/Just Beyond (2021) (Season 1) (Disney+) (2.0 gain) BEQ DD+ Atmos.xml,1634860195,1634946124
 Movie BEQs/Dune (2021) (HBO Max) (4.5 gain) BEQ DD+ Atmos.xml,1634864927,1635106880
 TV Shows BEQ/Another Life (2019) (Season 2) (Netflix) (1.5 gain) BEQ DD+ Atmos.xml,1634946124,1634946124
-TV Shows BEQ/Invasion (2021) (Season 1) (Apple TV+) (2.5 gain) BEQ DD+ Atmos.xml,1634946124,1638809502
+TV Shows BEQ/Invasion (2021) (Season 1) (Apple TV+) (2.5 gain) BEQ DD+ Atmos.xml,1634946124,1639522660
 TV Shows BEQ/Locke & Key (2020) (Season 2) (Netflix) (3.5 gain) BEQ DD+ Atmos.xml,1635284811,1635284811
 Movie BEQs/Don't Breathe 2 (2021) (0.5 gain) BEQ Atmos.xml,1635388163,1635388163
 Movie BEQs/Army of Thieves (2021) (Netflix) (4.0 gain) BEQ DD+ Atmos.xml,1635717691,1635717691
@@ -1853,7 +1853,7 @@ Movie BEQs/The Suicide Squad (2021) (-0.5 gain) BEQ Atmos.xml,1636834634,1636834
 Movie BEQs/Yakuza Princess (2021) (1.5 gain) BEQ Atmos.xml,1636834634,1636834634
 TV Shows BEQ/Arcane (2021) (Season 1) (Netflix) (2.0 gain) BEQ DD+.xml,1636860421,1637690142
 Movie BEQs/Last Night in Soho (2021) (Amazon) (2.0 gain) BEQ DD+ Atmos.xml,1637356171,1637356171
-TV Shows BEQ/The Wheel of Time (2021) (Season 1) (Amazon) (1.5 gain) BEQ DD+ Atmos.xml,1637356171,1638809502
+TV Shows BEQ/The Wheel of Time (2021) (Season 1) (Amazon) (1.5 gain) BEQ DD+ Atmos.xml,1637356171,1639522660
 Movie BEQs/Venom- Let There Be Carnage (2021) (Amazon) (-1.0 gain) BEQ DD+ Atmos.xml,1637690142,1637690142
 Movie BEQs/Arthur Christmas (2011) (5.5 gain) BEQ DTS-HD MA 5.1.xml,1637724888,1637724888
 TV Shows BEQ/Hawkeye (2021) (Season 1) (Disney+) (3.5 gain) BEQ DD+ Atmos.xml,1638035631,1639106956
@@ -1862,3 +1862,6 @@ Movie BEQs/The Last Duel (2021) (Amazon) (4.5 gain) BEQ DD+ Atmos.xml,1638464463
 TV Shows BEQ/Lost in Space (2018) (Season 3) (Netflix) (3.5 gain) BEQ DD+ Atmos.xml,1639009458,1639009458
 Movie BEQs/Dune (2021) (-4.5 gain) BEQ Atmos.xml,1639068894,1639068894
 Movie BEQs/Ron's Gone Wrong (2021) (5.5 gain) BEQ Atmos.xml,1639106956,1639106956
+Movie BEQs/13 Minutes (2021) BEQ DTS-HD MA 5.1.xml,1639522660,1639522660
+Movie BEQs/Venom- Let There Be Carnage (2021) (-1.5 gain) BEQ Atmos.xml,1639522660,1639522660
+TV Shows BEQ/The Expanse (2015) (Season 6) (Amazon) (2.5 gain) BEQ DD+.xml,1639522660,1639522660
