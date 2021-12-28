@@ -1,8 +1,8 @@
 # Blackhat
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
-**2015 • R • 2h 13m • Action, Crime, Thriller • mobe1969**
+**2015 • R • 2h 13m • Crime, Thriller, Action • mobe1969**
 
 A man is released from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The dangerous search leads them from Chicago to Hong Kong.
 
