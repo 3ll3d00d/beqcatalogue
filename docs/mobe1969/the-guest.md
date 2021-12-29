@@ -1,12 +1,12 @@
 # The Guest
 
-## DTS-HD MA 5.1
+* Author: mobe1969
 
-**2014 • R • 1h 40m • Thriller, Action, Mystery • mobe1969**
+## Season 1
 
-A soldier introduces himself to the Peterson family, claiming to be a friend of their son who died in action. After the young man is welcomed into their home, a series of accidental deaths seem to be connected to his presence.
+* DD+ 2.0
 
-[TMDB](241848)
+* Production Year: 2018
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Guest%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Guest%20%282018%29%28Ko%29%28S1-E1-16%29%20DD%2B%202.0.jpg)
 
