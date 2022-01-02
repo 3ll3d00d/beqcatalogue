@@ -1,0 +1,12 @@
+# Infected
+
+## DD+ 2.0
+
+**2013 • R • 1h 35m • Horror, Action, Science Fiction • mobe1969**
+
+A blood virus infects a small group of hunters turning a father & son trip into a fight for survival.
+
+[TMDB](126962)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Infected%20%282013%29%20DD%2B%202.0.jpg)
+
