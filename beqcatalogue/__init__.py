@@ -62,41 +62,46 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
     import glob
     elements = []
     for xml in sorted(glob.glob(f"{path1}{path2}/**/*.xml", recursive=True)):
-        root = extract_root(xml)
-        file_name = xml[:-4]
-        meta = {
-            'repo_file': str(xml),
-            'git_path': str(xml)[len(path1):],
-            'file_name': file_name.split('/')[-1],
-            'file_path': '/'.join(file_name[len(path1):].split('/')[:-1]),
-            'content_type': content_type
-        }
-        for child in root:
-            if child.tag == 'beq_metadata':
-                for m in child:
-                    if len(m) == 0:
-                        txt = m.text
-                        if txt:
-                            if m.tag == 'beq_collection':
-                                if 'id' in m.attrib:
-                                    meta[m.tag[4:]] = {'id': m.attrib['id'], 'name': m.text}
-                            else:
-                                meta[m.tag[4:]] = m.text
-                    elif m.tag == 'beq_audioTypes':
-                        audio_types = [c.text.strip() for c in m if c.text]
-                        meta['audioType'] = [at for at in audio_types if at]
-                    elif m.tag == 'beq_season':
-                        parse_season(m, meta, xml)
-                    elif m.tag == 'beq_genres':
-                        genres = [c.text.strip() for c in m if c.text]
-                        meta['genres'] = [at for at in genres if at]
-        filts = [f for f in xml_to_filt(xml, unroll=True)]
-        meta['jsonfilters'] = [f.to_map() for f in filts]
-        meta['filters'] = '^'.join([str(f) for f in filts])
-        suffix = get_title_suffix(meta)
-        page_title = f"{meta['title']}_{suffix}" if suffix else meta['title']
-        meta['page_title'] = page_title.casefold()
-        elements.append(meta)
+        try:
+            root = extract_root(xml)
+            file_name = xml[:-4]
+            meta = {
+                'repo_file': str(xml),
+                'git_path': str(xml)[len(path1):],
+                'file_name': file_name.split('/')[-1],
+                'file_path': '/'.join(file_name[len(path1):].split('/')[:-1]),
+                'content_type': content_type
+            }
+            for child in root:
+                if child.tag == 'beq_metadata':
+                    for m in child:
+                        if len(m) == 0:
+                            txt = m.text
+                            if txt:
+                                if m.tag == 'beq_collection':
+                                    if 'id' in m.attrib:
+                                        meta[m.tag[4:]] = {'id': m.attrib['id'], 'name': m.text}
+                                else:
+                                    meta[m.tag[4:]] = m.text
+                        elif m.tag == 'beq_audioTypes':
+                            audio_types = [c.text.strip() for c in m if c.text]
+                            meta['audioType'] = [at for at in audio_types if at]
+                        elif m.tag == 'beq_season':
+                            parse_season(m, meta, xml)
+                        elif m.tag == 'beq_genres':
+                            genres = [c.text.strip() for c in m if c.text]
+                            meta['genres'] = [at for at in genres if at]
+            filts = [f for f in xml_to_filt(xml, unroll=True)]
+            meta['jsonfilters'] = [f.to_map() for f in filts]
+            meta['filters'] = '^'.join([str(f) for f in filts])
+            suffix = get_title_suffix(meta)
+            page_title = f"{meta['title']}_{suffix}" if suffix else meta['title']
+            meta['page_title'] = page_title.casefold()
+            elements.append(meta)
+        except Exception as e:
+            print(f"Unexpected error while extracting metadata from {xml}")
+            raise e
+
     return elements
 
 
@@ -292,10 +297,14 @@ def group_aron7awol_content(content_meta, content_type) -> dict:
 
 
 def generate_content_page(page_name, metas, content_md, index_entries, author, content_type):
-    if content_type == 'film':
-        generate_film_content_page(page_name, metas, content_md, index_entries, author)
-    else:
-        generate_tv_content_page(page_name, metas, content_md, index_entries, author)
+    try:
+        if content_type == 'film':
+            generate_film_content_page(page_name, metas, content_md, index_entries, author)
+        else:
+            generate_tv_content_page(page_name, metas, content_md, index_entries, author)
+    except Exception as e:
+        print(f"Unexpected exception while processing {content_type} content page {page_name} for {author}")
+        raise e
 
 
 def generate_film_content_page(page_name, metas, content_md, index_entries, author):
