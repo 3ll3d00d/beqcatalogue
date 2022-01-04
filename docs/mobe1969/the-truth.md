@@ -1,0 +1,10 @@
+# The Truth
+
+* Author: mobe1969
+
+* DD+ 2.0
+
+* Production Year: 2008
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Truth%20%282008%29%28Ma%29%28S1-E1-20%29%20DD%2B%202.0.jpg)
+
