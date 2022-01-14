@@ -8,5 +8,5 @@ The story of a mild-mannered radio executive who strives to become the best step
 
 [TMDB](274167)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Daddy%27s%20Home%20%282015%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Daddy%27s%20Home%20%282015%29%20DTS-X.jpg)
 

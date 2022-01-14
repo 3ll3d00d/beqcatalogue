@@ -8,5 +8,5 @@ Jang Tae-Young is a popular trouble shooter in the criminal world. He is cold an
 
 [TMDB](437633)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/REAL%20%282017%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/REAL%20%282017%29%28Ko%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ Sean Anderson partners with his mom's boyfriend on a mission to find his grandfa
 
 [TMDB](72545)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Journey%202%20The%20Mysterious%20Island%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Journey%202%20The%20Mysterious%20Island%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

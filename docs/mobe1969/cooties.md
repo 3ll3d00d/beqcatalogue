@@ -8,5 +8,5 @@ A mysterious virus hits an isolated elementary school, transforming the kids int
 
 [TMDB](241843)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cooties%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cooties%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

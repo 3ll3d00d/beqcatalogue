@@ -8,5 +8,5 @@ The sequel to Monster Hunt. Set in a world where monsters and humans co-exist, t
 
 [TMDB](497984)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Monster%20Hunt%202%20%282018%29%28Ma%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Monster%20Hunt%202%20%282018%29%28Ma%29%20TrueHD%207.1.jpg)
 

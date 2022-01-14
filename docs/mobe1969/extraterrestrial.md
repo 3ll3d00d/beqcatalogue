@@ -8,5 +8,5 @@ Five friends set out to a cabin in the woods for a fun weekend getaway that is, 
 
 [TMDB](265016)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Extraterrestrial%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Extraterrestrial%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

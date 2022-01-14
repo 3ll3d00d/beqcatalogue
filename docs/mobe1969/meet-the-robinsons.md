@@ -8,7 +8,7 @@ Lewis, a brilliant young inventor, is keen on creating a time machine to find hi
 
 [TMDB](1267)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Meet%20The%20Robinsons%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Meet%20The%20Robinsons%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 
 ## LPCM 5.1
 
@@ -18,5 +18,5 @@ Lewis, a brilliant young inventor, is keen on creating a time machine to find hi
 
 [TMDB](1267)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Meet%20the%20Robinsons%20%282007%29%20LPCM%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Meet%20the%20Robinsons%20%282007%29%20LPCM%205.1.jpg)
 

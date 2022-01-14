@@ -8,5 +8,5 @@ Masaki, a baseball player and gas-station attendant, gets into trouble with the 
 
 [TMDB](26936)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Boiling%20Point%20%281990%29%28Ja%29%20LPCM%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Boiling%20Point%20%281990%29%28Ja%29%20LPCM%202.0.jpg)
 

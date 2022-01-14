@@ -8,5 +8,5 @@ The residents of a rural mining town discover that an unfortunate chemical spill
 
 [TMDB](8869)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Eight%20Legged%20Freaks%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Eight%20Legged%20Freaks%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

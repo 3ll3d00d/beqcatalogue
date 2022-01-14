@@ -8,5 +8,5 @@ A conman and his seductive partner are forced to work for a wild FBI agent, who 
 
 [TMDB](168672)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/American%20Hustle%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/American%20Hustle%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

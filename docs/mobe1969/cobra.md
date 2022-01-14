@@ -8,5 +8,5 @@ A tough-on-crime street cop must protect the only surviving witness to a strange
 
 [TMDB](9874)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cobra%20%281986%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cobra%20%281986%29%20DTS-HD%20MA%205.1.jpg)
 

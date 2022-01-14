@@ -8,5 +8,5 @@ Tillie Gardner has been rocked to her core by the tragic death of her parents in
 
 [TMDB](463870)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20Reckoning%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dead%20Reckoning%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

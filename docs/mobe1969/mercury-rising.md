@@ -8,5 +8,5 @@ Renegade FBI agent Art Jeffries protects a nine-year-old autistic boy who has cr
 
 [TMDB](8838)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mercury%20Rising%20%281998%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mercury%20Rising%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

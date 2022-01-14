@@ -10,5 +10,5 @@ A group of young backpackers' vacation turns sour when a bus accident leaves the
 
 [TMDB](9796)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Paradise%20Lost%20%282006%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Paradise%20Lost%20%282006%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
 

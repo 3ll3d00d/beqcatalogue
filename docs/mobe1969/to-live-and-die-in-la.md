@@ -8,5 +8,5 @@ A fearless Secret Service agent will stop at nothing to bring down the counterfe
 
 [TMDB](9846)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/To%20Live%20and%20Die%20in%20L.A.%20%281985%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/To%20Live%20and%20Die%20in%20L.A.%20%281985%29%20DTS-HD%20MA%205.1.jpg)
 

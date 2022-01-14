@@ -8,5 +8,5 @@ Ruka is a young girl whose parents are separated and whose father works in an aq
 
 [TMDB](585077)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Children%20of%20the%20Sea%20%282019%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Children%20of%20the%20Sea%20%282019%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

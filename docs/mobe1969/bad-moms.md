@@ -8,5 +8,5 @@ When three overworked and under-appreciated moms are pushed beyond their limits,
 
 [TMDB](376659)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bad%20Moms%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bad%20Moms%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A documentary filmmaker travels to Jellystone Park to shoot a project and soon c
 
 [TMDB](41515)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Yogi%20Bear%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Y/Yogi%20Bear%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

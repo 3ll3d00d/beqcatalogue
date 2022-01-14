@@ -8,5 +8,5 @@ At an isolated frontier outpost, a colonial magistrate suffers a crisis of consc
 
 [TMDB](505707)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Waiting%20For%20The%20Barbarians%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Waiting%20For%20The%20Barbarians%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

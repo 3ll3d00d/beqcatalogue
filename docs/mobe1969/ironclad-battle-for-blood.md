@@ -8,5 +8,5 @@ A survivor of the Great Siege of Rochester Castle fights to save his clan from f
 
 [TMDB](258251)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ironclad%20Battle%20for%20Blood%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Ironclad%20Battle%20for%20Blood%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

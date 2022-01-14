@@ -8,5 +8,5 @@ A traveling theater company gives its audience much more than they were expectin
 
 [TMDB](8054)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Imaginarium%20of%20Doctor%20Parnassus%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Imaginarium%20of%20Doctor%20Parnassus%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

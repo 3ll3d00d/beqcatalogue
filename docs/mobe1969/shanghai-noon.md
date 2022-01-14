@@ -8,5 +8,5 @@ Chon Wang, a clumsy imperial guard trails Princess Pei Pei when she is kidnapped
 
 [TMDB](8584)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shanghai%20Noon%20%282000%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shanghai%20Noon%20%282000%29%20AC3%205.1.jpg)
 

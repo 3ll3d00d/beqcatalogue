@@ -8,5 +8,5 @@ BEAUFORT tells the story of LIRAZ LIBERTI, the 22 year-old outpost commander, an
 
 [TMDB](15048)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beaufort%20%282007%29%28He%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beaufort%20%282007%29%28He%29%20DTS-HD%20MA%205.1.jpg)
 

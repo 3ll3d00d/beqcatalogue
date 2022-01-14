@@ -8,5 +8,5 @@ There exists an ancient manuscript still writing itself called the Lexicon. It s
 
 [TMDB](19564)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Prophecy%20Uprising%20%282005%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Prophecy%20Uprising%20%282005%29%20DTS-HD%20MA%205.1.jpg)
 

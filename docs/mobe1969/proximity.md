@@ -8,5 +8,5 @@ A young NASA JPL scientist is abducted by extraterrestrials but when no one beli
 
 [TMDB](693158)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Proximity%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Proximity%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

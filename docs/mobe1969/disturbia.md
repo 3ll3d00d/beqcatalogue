@@ -8,5 +8,5 @@ Kale is a 17-year-old placed under house arrest after punching his teacher. He i
 
 [TMDB](8271)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Disturbia%20%282007%29%20DTS-ES%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Disturbia%20%282007%29%20DTS-ES%205.1.jpg)
 

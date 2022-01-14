@@ -8,5 +8,5 @@ A headstrong Chinese-American woman returns to China when her beloved grandmothe
 
 [TMDB](565310)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Farewell%20%282019%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Farewell%20%282019%29%20DD%2B%205.1.jpg)
 

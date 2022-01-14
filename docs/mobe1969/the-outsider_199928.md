@@ -8,5 +8,5 @@ A former American G.I. joins a yakuza family after his release from prison in po
 
 [TMDB](199928)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Outsider%20%282018%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Outsider%20%282018%29%20DD%2B%205.1.jpg)
 

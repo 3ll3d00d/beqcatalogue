@@ -8,5 +8,5 @@ In the late Joseon Dynasty, Bongyi Kim Seon-dal is the best conman who sells wat
 
 [TMDB](385137)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Seondal%20The%20Man%20Who%20Sells%20the%20River%20%282016%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Seondal%20The%20Man%20Who%20Sells%20the%20River%20%282016%29%28Ko%29%20TrueHD%205.1.jpg)
 

@@ -8,7 +8,7 @@ A suspected criminal mastermind escapes from police custody, throwing the city i
 
 [TMDB](416249)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cold%20War%20II%20%282016%29%28Ca%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cold%20War%20II%20%282016%29%28Ca%29%20DTS-HD%20MA%207.1.jpg)
 
 ## LPCM 5.1
 
@@ -18,5 +18,5 @@ A suspected criminal mastermind escapes from police custody, throwing the city i
 
 [TMDB](416249)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cold%20War%20II%20%282016%29%28Ca%29%20LPCM%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cold%20War%20II%20%282016%29%28Ca%29%20LPCM%205.1.jpg)
 

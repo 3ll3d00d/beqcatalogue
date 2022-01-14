@@ -8,5 +8,5 @@ In 1932, a prisoner escapes from a women's prison in northern China. Inspector S
 
 [TMDB](373067)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Vanished%20Murderer%20%282015%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Vanished%20Murderer%20%282015%29%28Ca%29%20TrueHD%207.1.jpg)
 

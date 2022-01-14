@@ -8,5 +8,5 @@ A Viking boy is left behind after his clan battles a Native American tribe. Rais
 
 [TMDB](1534)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pathfinder%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pathfinder%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

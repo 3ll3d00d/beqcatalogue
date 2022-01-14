@@ -8,5 +8,5 @@ Jack Ryan, as a young covert CIA analyst, uncovers a Russian plot to crash the U
 
 [TMDB](137094)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jack%20Ryan%20Shadow%20Recruit%20%282014%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jack%20Ryan%20Shadow%20Recruit%20%282014%29%20DTS-HD%20MA%207.1.jpg)
 

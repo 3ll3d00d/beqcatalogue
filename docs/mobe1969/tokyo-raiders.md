@@ -8,5 +8,5 @@ When a private eye, a jilted bride and a mysterious stranger join forces to trac
 
 [TMDB](45438)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tokyo%20Raiders%20%282000%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tokyo%20Raiders%20%282000%29%28Ca%29%20TrueHD%205.1.jpg)
 

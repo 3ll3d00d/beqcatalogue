@@ -8,5 +8,5 @@ Cross is aided by his team of weapons experts Riot, War, Shark, Lucia, Ranger, S
 
 [TMDB](412452)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cross%20Wars%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cross%20Wars%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

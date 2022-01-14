@@ -8,5 +8,5 @@ Mike Regan is a successful, self-made man who has it all: a gorgeous wife, a bea
 
 [TMDB](340677)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I.T.%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I.T.%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

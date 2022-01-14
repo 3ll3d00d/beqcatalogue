@@ -8,5 +8,5 @@ He's a one-man arsenal... with enough voltage to rock the free world. They Don't
 
 [TMDB](9405)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Double%20Team%20%281997%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Double%20Team%20%281997%29%20AC3%205.1.jpg)
 

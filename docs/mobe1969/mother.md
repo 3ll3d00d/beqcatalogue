@@ -8,5 +8,5 @@ A mother lives quietly with her son. One day, a girl is brutally killed, and the
 
 [TMDB](30018)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mother%20%282009%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mother%20%282009%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

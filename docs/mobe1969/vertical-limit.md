@@ -8,5 +8,5 @@ Trapped near the summit of K2, the world's second-highest mountain, Annie Garret
 
 [TMDB](11678)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vertical%20Limit%20%282000%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Vertical%20Limit%20%282000%29%20LPCM%205.1.jpg)
 

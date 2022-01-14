@@ -8,5 +8,5 @@ Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from a
 
 [TMDB](749274)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cry%20Macho%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cry%20Macho%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 

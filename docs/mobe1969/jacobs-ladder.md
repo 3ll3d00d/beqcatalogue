@@ -8,5 +8,5 @@ After returning home from the Vietnam War, veteran Jacob Singer struggles to mai
 
 [TMDB](2291)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jacob%27s%20Ladder%20%281990%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jacob%27s%20Ladder%20%281990%29%20DTS-HD%20MA%205.1.jpg)
 

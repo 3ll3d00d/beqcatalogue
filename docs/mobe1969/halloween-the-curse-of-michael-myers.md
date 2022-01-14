@@ -8,5 +8,5 @@ Six years ago, Michael Myers terrorized the town of Haddonfield, Illinois. He an
 
 [TMDB](10987)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Halloween%20The%20Curse%20of%20Michael%20Myers%20%281995%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Halloween%20The%20Curse%20of%20Michael%20Myers%20%281995%29%20DTS-HD%20MA%205.1.jpg)
 

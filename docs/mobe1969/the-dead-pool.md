@@ -8,5 +8,5 @@ Dirty Harry Callahan returns for his final film adventure. Together with his par
 
 [TMDB](10651)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Dead%20Pool%20%281988%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Dead%20Pool%20%281988%29%20TrueHD%205.1.jpg)
 

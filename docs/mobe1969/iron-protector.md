@@ -8,5 +8,5 @@ Wu-Lin is the successor of an ancient, once powerful Chinese clan, the "Iron Fee
 
 [TMDB](399300)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Iron%20Protector%20%282016%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Iron%20Protector%20%282016%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

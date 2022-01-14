@@ -8,5 +8,5 @@ When Champion City's hero Captain Amazing is kidnapped by the recently paroled s
 
 [TMDB](9824)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mystery%20Men%20%281999%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mystery%20Men%20%281999%29%20DTS-HD%20MA%205.1.jpg)
 

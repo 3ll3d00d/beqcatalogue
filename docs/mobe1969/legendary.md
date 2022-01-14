@@ -8,5 +8,5 @@ Travis and his team travel to China in search of what isn't supposed to exist ..
 
 [TMDB](226672)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Legendary%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Legendary%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

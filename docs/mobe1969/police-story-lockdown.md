@@ -8,5 +8,5 @@ A man looking for the release of a long-time prisoner takes a police officer, hi
 
 [TMDB](219572)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Police%20Story%20Lockdown%20%282013%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Police%20Story%20Lockdown%20%282013%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

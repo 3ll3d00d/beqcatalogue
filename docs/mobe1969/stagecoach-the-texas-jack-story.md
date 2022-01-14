@@ -8,5 +8,5 @@ After retiring from his life as an outlaw, ranch owner Nathaniel Reed quietly le
 
 [TMDB](412894)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stagecoach%20The%20Texas%20Jack%20Story%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stagecoach%20The%20Texas%20Jack%20Story%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

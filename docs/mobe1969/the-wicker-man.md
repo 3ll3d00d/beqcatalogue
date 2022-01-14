@@ -8,5 +8,5 @@ A sheriff investigating the disappearance of a young girl from a small island di
 
 [TMDB](9708)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Wicker%20Man%20%282006%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Wicker%20Man%20%282006%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ U.S. Marshall John Kruger erases the identities of people enrolled in the Witnes
 
 [TMDB](9268)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Eraser%20%281996%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Eraser%20%281996%29%20TrueHD%205.1.jpg)
 

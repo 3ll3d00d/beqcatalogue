@@ -8,5 +8,5 @@ A veteran soldier returns from his completed tour of duty in Iraq, only to find 
 
 [TMDB](8988)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stop-Loss%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stop-Loss%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

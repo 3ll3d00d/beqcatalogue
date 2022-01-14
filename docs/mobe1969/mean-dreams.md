@@ -8,5 +8,5 @@ When two youngsters meet and fall for each other, they must go on the run from t
 
 [TMDB](393732)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mean%20Dreams%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mean%20Dreams%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimbl
 
 [TMDB](5503)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Fugitive%20%281993%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Fugitive%20%281993%29%20DTS-HD%20MA%205.1.jpg)
 

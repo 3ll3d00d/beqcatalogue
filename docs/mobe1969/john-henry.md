@@ -8,5 +8,5 @@ Ex-gang member John Henry is a quiet man with a violent past. When two immigrant
 
 [TMDB](658199)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/John%20Henry%20%282020%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/John%20Henry%20%282020%29%20DD%2B%205.1.jpg)
 

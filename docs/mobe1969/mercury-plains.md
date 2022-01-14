@@ -8,5 +8,5 @@ A troubled man runs away to Mexico and is recruited to join a paramilitary group
 
 [TMDB](376003)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mercury%20Plains%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mercury%20Plains%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

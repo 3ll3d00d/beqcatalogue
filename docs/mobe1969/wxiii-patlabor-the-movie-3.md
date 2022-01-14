@@ -8,5 +8,5 @@ Set in the year 2000 (between the events of Patlabor and Patlabor 2), when the l
 
 [TMDB](16402)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/WXIII%20Patlabor%20The%20Movie%203%20%282002%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/WXIII%20Patlabor%20The%20Movie%203%20%282002%29%28Ja%29%20TrueHD%205.1.jpg)
 

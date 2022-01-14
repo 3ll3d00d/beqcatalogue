@@ -8,5 +8,5 @@ A hitman accidentally kills a little girl. Filled with regret, he wants to quit.
 
 [TMDB](265851)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/No%20Tears%20for%20the%20Dead%20%282014%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/No%20Tears%20for%20the%20Dead%20%282014%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

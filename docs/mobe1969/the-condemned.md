@@ -8,5 +8,5 @@ Jack Conrad is awaiting the death penalty in a corrupt Central American prison. 
 
 [TMDB](14636)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Condemned%20%282007%29%20DTS-HD%20HR%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Condemned%20%282007%29%20DTS-HD%20HR%207.1.jpg)
 

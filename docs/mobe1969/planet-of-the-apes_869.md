@@ -8,5 +8,5 @@ After a spectacular crash-landing on an uncharted planet, brash astronaut Leo Da
 
 [TMDB](869)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Planet%20of%20the%20Apes%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Planet%20of%20the%20Apes%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

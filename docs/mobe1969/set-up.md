@@ -8,5 +8,5 @@ A group of friends plan out a detailed heist that turns deadly when one betrays 
 
 [TMDB](70586)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Set%20Up%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Set%20Up%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

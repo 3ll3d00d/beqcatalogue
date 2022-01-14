@@ -8,5 +8,5 @@ In Los Angeles, the Earth shakes, people panic, buildings crumble and fold. But 
 
 [TMDB](429691)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mind%20Blown%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mind%20Blown%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

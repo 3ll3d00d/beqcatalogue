@@ -8,5 +8,5 @@ Santos attempts to lead a people's revolt in Colombia to overthrow the President
 
 [TMDB](27350)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/McBain%20%281991%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/McBain%20%281991%29%20DD%2B%202.0.jpg)
 

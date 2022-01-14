@@ -8,5 +8,5 @@ Amigo Undead is the story of Kevin Ostrowski as he attempts to reconcile with hi
 
 [TMDB](339191)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Amigo%20Undead%20%282015%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Amigo%20Undead%20%282015%29%20DTS-HD%20MA%202.0.jpg)
 

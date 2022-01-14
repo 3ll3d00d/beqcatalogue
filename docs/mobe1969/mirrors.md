@@ -10,5 +10,5 @@ An ex-cop and his family are the target of an evil force that is using mirrors a
 
 [TMDB](13515)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mirrors%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mirrors%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

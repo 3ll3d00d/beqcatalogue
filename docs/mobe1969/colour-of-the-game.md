@@ -8,5 +8,5 @@ Da Hua, Ah Chun and a few others find themselves involved in wild and dangerous 
 
 [TMDB](479272)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Colour%20of%20the%20Game%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Colour%20of%20the%20Game%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ When a cure is found to treat mutations, lines are drawn amongst the X-Men,led b
 
 [TMDB](36668)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X-Men%20The%20Last%20Stand%20%282006%29%20DTS-HD%20MA%206.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X/X-Men%20The%20Last%20Stand%20%282006%29%20DTS-HD%20MA%206.1.jpg)
 

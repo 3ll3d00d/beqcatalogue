@@ -8,5 +8,5 @@ After carefree teenager Jay sleeps with her new boyfriend, Hugh, for the first t
 
 [TMDB](270303)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/It%20Follows%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/It%20Follows%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

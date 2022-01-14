@@ -8,5 +8,5 @@ A radio talk show host unravels a conspiracy about encounters with mysterious be
 
 [TMDB](176570)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shadow%20People%20%282013%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shadow%20People%20%282013%29%20TrueHD%205.1.jpg)
 

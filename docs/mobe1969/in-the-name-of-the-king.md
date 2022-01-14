@@ -8,5 +8,5 @@ A man named Farmer sets out to rescue his kidnapped wife and avenge the death of
 
 [TMDB](2312)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/In%20the%20Name%20of%20the%20King%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/In%20the%20Name%20of%20the%20King%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

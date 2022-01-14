@@ -8,5 +8,5 @@ During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hosta
 
 [TMDB](612)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Munich%20%282005%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Munich%20%282005%29%20DTS-HD%20MA%205.1.jpg)
 

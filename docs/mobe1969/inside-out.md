@@ -8,5 +8,5 @@ For the last thirteen years AJ (Triple H) has been behind bars, convicted of man
 
 [TMDB](70877)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Inside%20Out%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Inside%20Out%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

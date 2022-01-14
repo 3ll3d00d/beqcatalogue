@@ -8,5 +8,5 @@ Eight years have passed since Sara Wolfe and Eddie Baker escaped the House on Ha
 
 [TMDB](13564)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Return%20to%20House%20on%20Haunted%20Hill%20%282007%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Return%20to%20House%20on%20Haunted%20Hill%20%282007%29%20AC3%205.1.jpg)
 

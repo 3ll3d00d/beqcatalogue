@@ -8,5 +8,5 @@ An American is kidnapped while attending a conference in Cairo and ends up in pr
 
 [TMDB](649401)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Infidel%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Infidel%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

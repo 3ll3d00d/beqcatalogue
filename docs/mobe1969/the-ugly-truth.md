@@ -8,5 +8,5 @@ A romantically challenged morning show producer is reluctantly embroiled in a se
 
 [TMDB](20943)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Ugly%20Truth%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Ugly%20Truth%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

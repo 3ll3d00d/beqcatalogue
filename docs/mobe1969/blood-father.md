@@ -8,5 +8,5 @@ An ex-con reunites with his estranged wayward 16-year old daughter to protect he
 
 [TMDB](309886)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20Father%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blood%20Father%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

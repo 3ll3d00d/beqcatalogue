@@ -8,5 +8,5 @@ To recover and ancient scroll, a Chinese agent battles the Japanese yakuza and B
 
 [TMDB](196385)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Switch%20%282013%29%28Ma%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Switch%20%282013%29%28Ma%29%20DD%2B%202.0.jpg)
 

@@ -8,5 +8,5 @@ Darren Shan is a regular teenage kid. He and his friend Steve find out about a F
 
 [TMDB](24418)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cirque%20Du%20Freak%20The%20Vampire%27s%20Assistant%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cirque%20Du%20Freak%20The%20Vampire%27s%20Assistant%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

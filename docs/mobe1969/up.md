@@ -8,5 +8,5 @@ Carl Fredricksen spent his entire life dreaming of exploring the globe and exper
 
 [TMDB](14160)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Up%20%282009%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/U/Up%20%282009%29%20Atmos.jpg)
 

@@ -8,5 +8,5 @@ Brad and Dusty must deal with their intrusive fathers during the holidays.
 
 [TMDB](419680)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Daddy%27s%20Home%202%20%282017%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Daddy%27s%20Home%202%20%282017%29%20Atmos.jpg)
 

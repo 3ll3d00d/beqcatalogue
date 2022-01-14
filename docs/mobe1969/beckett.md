@@ -8,5 +8,5 @@ While vacationing in Greece, Beckett, becomes the target of a manhunt after a de
 
 [TMDB](597433)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beckett%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beckett%20%282021%29%20DD%2B%205.1.jpg)
 

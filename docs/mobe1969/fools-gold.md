@@ -8,5 +8,5 @@ Treasure hunter Ben 'Finn' Finnegan has sunk both his trusty boat and his marria
 
 [TMDB](8676)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fool%27s%20Gold%20%282008%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fool%27s%20Gold%20%282008%29%20AC3%205.1.jpg)
 

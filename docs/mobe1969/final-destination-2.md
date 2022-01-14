@@ -8,5 +8,5 @@ When Kimberly has a violent premonition of a highway pileup she blocks the freew
 
 [TMDB](9358)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Final%20Destination%202%20%282003%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Final%20Destination%202%20%282003%29%20TrueHD%205.1.jpg)
 

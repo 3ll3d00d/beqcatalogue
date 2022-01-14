@@ -8,5 +8,5 @@ After the disastrous food storm in the first film, Flint and his friends are for
 
 [TMDB](109451)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

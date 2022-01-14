@@ -4,9 +4,9 @@
 
 **2019 • NR • 1h 38m • Cantonese • Action • mobe1969**
 
-The undercover agent with dragon tattoo Kowloon continually helped the police to solve mysterious cases, which made him known as a rising star. However, his impulsive personality dragged him into endless troubles. He got himself into fights with the Macau detective, as well as an American Army veteran Alexander who has a secret linkage to Kowloon’s background…
+The undercover agent with dragon tattoo Kowloon continually helped the police to solve mysterious cases, which made him known as a rising star. However, his impulsive personality dragged him into endless troubles. He got himself into fights with the Macau detective, as well as an American Army veteran Alexander who has a secret linkage to Kowloonâ€™s backgroundâ€¦
 
 [TMDB](449998)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Invincible%20Dragon%20%282019%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Invincible%20Dragon%20%282019%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

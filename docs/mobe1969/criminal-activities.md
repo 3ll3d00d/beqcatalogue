@@ -8,5 +8,5 @@ Four young men make a risky investment together that gets them into trouble with
 
 [TMDB](334527)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Criminal%20Activities%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Criminal%20Activities%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

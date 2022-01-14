@@ -8,5 +8,5 @@ While on a hunting trip in the isolated wilderness, a father and his adopted tee
 
 [TMDB](696007)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Legacy%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Legacy%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

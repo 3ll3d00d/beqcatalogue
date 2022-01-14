@@ -8,5 +8,5 @@ When notorious criminal Jacob Sternwood is forced to return to London, it gives 
 
 [TMDB](93828)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Welcome%20to%20the%20Punch%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Welcome%20to%20the%20Punch%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

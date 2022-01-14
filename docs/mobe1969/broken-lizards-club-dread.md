@@ -8,5 +8,5 @@ When a serial killer interrupts the fun at the swanky Coconut Pete's Coconut Bea
 
 [TMDB](11217)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Broken%20Lizard%27s%20Club%20Dread%20%282004%29%20AC3%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Broken%20Lizard%27s%20Club%20Dread%20%282004%29%20AC3%202.0.jpg)
 

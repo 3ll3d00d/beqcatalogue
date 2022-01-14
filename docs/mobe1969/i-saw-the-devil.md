@@ -10,7 +10,7 @@ Kyung-chul is a dangerous psychopath who kills for pleasure. He has committed in
 
 [TMDB](49797)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I%20Saw%20the%20Devil%20%282010%29%28Ko%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I%20Saw%20the%20Devil%20%282010%29%28Ko%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -22,5 +22,5 @@ Kyung-chul is a dangerous psychopath who kills for pleasure. He has committed in
 
 [TMDB](49797)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I%20Saw%20the%20Devil%20%282010%29%28Ko%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I%20Saw%20the%20Devil%20%282010%29%28Ko%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
 

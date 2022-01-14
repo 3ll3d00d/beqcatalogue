@@ -8,5 +8,5 @@ Four girlfriends take a trip to New Orleans for an annual festival and, along th
 
 [TMDB](417870)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Girls%20Trip%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Girls%20Trip%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

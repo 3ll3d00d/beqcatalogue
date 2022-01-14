@@ -8,5 +8,5 @@ Kongwen Lu is the author of a fantasy novel series following a heroic teenager, 
 
 [TMDB](611698)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Writer%27s%20Odyssey%20%282021%29%28Ma%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Writer%27s%20Odyssey%20%282021%29%28Ma%29%20Atmos.jpg)
 

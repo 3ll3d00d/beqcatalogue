@@ -8,5 +8,5 @@ A struggling screenwriter inadvertently becomes entangled in the Los Angeles cri
 
 [TMDB](86838)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Seven%20Psychopaths%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Seven%20Psychopaths%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

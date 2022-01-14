@@ -8,5 +8,5 @@ The true story of the kidnapping of Freddy Heineken, the grandson of the founder
 
 [TMDB](228968)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kidnapping%20Mr%20Heineken%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kidnapping%20Mr%20Heineken%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

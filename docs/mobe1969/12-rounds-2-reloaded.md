@@ -8,5 +8,5 @@ Nick Malloy portrays an Emergency Medical Technician (EMT) who finds himself cau
 
 [TMDB](195269)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/12%20Rounds%202%20Reloaded%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/12%20Rounds%202%20Reloaded%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

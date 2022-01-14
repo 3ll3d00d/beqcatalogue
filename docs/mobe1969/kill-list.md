@@ -8,5 +8,5 @@ Nearly a year after a botched job, a hitman takes a new assignment with the prom
 
 [TMDB](74725)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kill%20List%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kill%20List%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ After getting a green card in exchange for assassinating a Cuban government offi
 
 [TMDB](111)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Scarface%20%281983%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Scarface%20%281983%29%20DTS-X.jpg)
 

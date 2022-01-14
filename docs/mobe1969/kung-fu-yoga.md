@@ -8,5 +8,5 @@ Two professors team up to locate a lost treasure and embark on an adventure that
 
 [TMDB](383785)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kung%20Fu%20Yoga%20%282017%29%28Ma%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Yoga%20%282017%29%28Ma%29%20DTS-X.jpg)
 

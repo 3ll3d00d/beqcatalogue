@@ -8,5 +8,5 @@ After a teenager has a terrifying vision of him and his friends dying in a plane
 
 [TMDB](9532)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Final%20Destination%20%282000%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Final%20Destination%20%282000%29%20TrueHD%205.1.jpg)
 

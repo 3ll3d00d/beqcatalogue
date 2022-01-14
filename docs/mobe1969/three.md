@@ -8,7 +8,7 @@ Realising that he will be defeated in no time during a police showdown, a thug s
 
 [TMDB](373922)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Three%20%282016%29%28Ca%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Three%20%282016%29%28Ca%29%20DTS-X.jpg)
 
 ## TrueHD 7.1
 
@@ -18,5 +18,5 @@ Realising that he will be defeated in no time during a police showdown, a thug s
 
 [TMDB](373922)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Three%20%282016%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Three%20%282016%29%28Ca%29%20TrueHD%207.1.jpg)
 

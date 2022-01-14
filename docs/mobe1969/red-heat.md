@@ -8,5 +8,5 @@ A tough Russian policeman is forced to partner up with a cocky Chicago police de
 
 [TMDB](9604)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Red%20Heat%20%281988%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Red%20Heat%20%281988%29%20DTS-HD%20MA%205.1.jpg)
 

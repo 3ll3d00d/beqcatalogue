@@ -8,5 +8,5 @@ An American soldier who had been killed during the Vietnam War is revived 25 yea
 
 [TMDB](9349)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Universal%20Soldier%20%281992%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/U/Universal%20Soldier%20%281992%29%20DTS-HD%20MA%205.1.jpg)
 

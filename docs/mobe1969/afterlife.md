@@ -8,5 +8,5 @@ Following a terrible car crash, a woman awakes to find an enigmatic mortician pr
 
 [TMDB](36419)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/After.Life%20%282009%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/After.Life%20%282009%29%20LPCM%205.1.jpg)
 

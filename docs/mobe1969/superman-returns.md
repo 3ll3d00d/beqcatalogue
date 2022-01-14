@@ -8,5 +8,5 @@ Superman returns to discover his 5-year absence has allowed Lex Luthor to walk f
 
 [TMDB](1452)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Superman%20Returns%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Superman%20Returns%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

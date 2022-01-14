@@ -8,5 +8,5 @@ Top Gun Chinese style. Yue Tianlong and Yin Shuanghu are top J-10 pilots and riv
 
 [TMDB](80353)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sky%20Fighters%20%282011%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sky%20Fighters%20%282011%29%28Ma%29%20TrueHD%205.1.jpg)
 

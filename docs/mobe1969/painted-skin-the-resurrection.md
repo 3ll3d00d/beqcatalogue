@@ -8,5 +8,5 @@ According to demon lore, it takes hundreds of years to attain human form. Even t
 
 [TMDB](124471)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Painted%20Skin%20The%20Resurrection%20%282012%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Painted%20Skin%20The%20Resurrection%20%282012%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

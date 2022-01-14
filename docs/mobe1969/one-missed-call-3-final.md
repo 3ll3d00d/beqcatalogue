@@ -8,5 +8,5 @@ Emiri, a timid high school girl, is bullied mercilessly by her classmates, but w
 
 [TMDB](55470)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/One%20Missed%20Call%203%20Final%20%282006%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/One%20Missed%20Call%203%20Final%20%282006%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

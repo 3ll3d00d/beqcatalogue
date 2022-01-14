@@ -8,5 +8,5 @@ When a prisoner transfer van is attacked, the cop in charge must fight those ins
 
 [TMDB](587996)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Below%20Zero%20%282021%29%28Es%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Below%20Zero%20%282021%29%28Es%29%20DD%2B%205.1.jpg)
 

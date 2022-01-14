@@ -8,5 +8,5 @@ An autistic 15-year-old boy steals money from his boss to provide rent for his a
 
 [TMDB](13442)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zig%20Zag%20%282002%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zig%20Zag%20%282002%29%20DD%2B%205.1.jpg)
 

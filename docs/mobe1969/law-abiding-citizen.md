@@ -8,5 +8,5 @@ A frustrated man decides to take justice into his own hands after a plea bargain
 
 [TMDB](22803)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Law%20Abiding%20Citizen%20%282009%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Law%20Abiding%20Citizen%20%282009%29%20Atmos.jpg)
 

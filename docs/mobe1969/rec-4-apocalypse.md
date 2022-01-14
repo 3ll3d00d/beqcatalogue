@@ -8,5 +8,5 @@ Angela Vidal, the young television reporter who entered the building with the fi
 
 [TMDB](185341)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rec%204%20Apocalypse%20%282014%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rec%204%20Apocalypse%20%282014%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Mere seconds before the Earth is to be demolished by an alien construction crew,
 
 [TMDB](7453)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hitchhiker%27s%20Guide%20to%20the%20Galaxy%20%282005%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hitchhiker%27s%20Guide%20to%20the%20Galaxy%20%282005%29%20LPCM%205.1.jpg)
 

@@ -8,5 +8,5 @@ Recently deceased, a white-sheeted ghost returns to his suburban home to console
 
 [TMDB](428449)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Ghost%20Story%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Ghost%20Story%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

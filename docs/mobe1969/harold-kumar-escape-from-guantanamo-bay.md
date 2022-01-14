@@ -10,5 +10,5 @@ Having satisfied their urge for White Castle, Harold and Kumar jump on a plane t
 
 [TMDB](13335)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Harold%20%26%20Kumar%20Escape%20from%20Guantanamo%20Bay%20%282008%29%28Extended%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Harold%20%26%20Kumar%20Escape%20from%20Guantanamo%20Bay%20%282008%29%28Extended%29%20DTS-HD%20MA%207.1.jpg)
 

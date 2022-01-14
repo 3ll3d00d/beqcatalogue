@@ -8,5 +8,5 @@ Gino Felino is an NYPD detective from Brooklyn who knows everyone and everything
 
 [TMDB](14362)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Out%20for%20Justice%20%281991%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Out%20for%20Justice%20%281991%29%20AC3%205.1.jpg)
 

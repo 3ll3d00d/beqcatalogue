@@ -8,5 +8,5 @@ Ninja Assassin follows Raizo, one of the deadliest assassins in the world. Taken
 
 [TMDB](22832)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ninja%20Assassin%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Ninja%20Assassin%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

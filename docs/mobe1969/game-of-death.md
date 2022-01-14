@@ -8,5 +8,5 @@ CIA agent Marcus is sent undercover to Detroit to take out an arms dealer and th
 
 [TMDB](46541)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Game%20of%20Death%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Game%20of%20Death%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A tale of revenge, honor and disgrace, centering on a poverty-stricken samurai w
 
 [TMDB](85836)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hara-Kiri%20Death%20of%20a%20Samurai%20%282011%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hara-Kiri%20Death%20of%20a%20Samurai%20%282011%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

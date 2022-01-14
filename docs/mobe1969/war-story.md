@@ -8,5 +8,5 @@ Lee is a world-weary American woman who arrives in an Italian city. Her tangles 
 
 [TMDB](246013)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/War%20Story%20%282014%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/War%20Story%20%282014%29%20AC3%205.1.jpg)
 

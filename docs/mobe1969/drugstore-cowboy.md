@@ -8,5 +8,5 @@ Portland, Oregon, 1971. Bob Hughes is the charismatic leader of a peculiar quart
 
 [TMDB](476)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Drugstore%20Cowboy%20%281989%29%20LPCM%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Drugstore%20Cowboy%20%281989%29%20LPCM%202.0.jpg)
 

@@ -8,5 +8,5 @@ In a broken city rife with injustice, ex-cop Billy Taggart seeks redemption and 
 
 [TMDB](98357)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Broken%20City%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Broken%20City%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

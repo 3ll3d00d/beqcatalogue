@@ -8,5 +8,5 @@ A true-story account of a German businessman who saved more than 200,000 Chinese
 
 [TMDB](5937)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/City%20of%20War%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/City%20of%20War%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ An American teenager who is obsessed with Hong Kong cinema and kung-fu classics 
 
 [TMDB](1729)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Forbidden%20Kingdom%20%282008%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Forbidden%20Kingdom%20%282008%29%20DTS-HD%20MA%207.1.jpg)
 

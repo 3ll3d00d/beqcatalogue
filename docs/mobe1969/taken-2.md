@@ -10,5 +10,5 @@ In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by
 
 [TMDB](82675)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Taken%202%20%282012%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Taken%202%20%282012%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
 

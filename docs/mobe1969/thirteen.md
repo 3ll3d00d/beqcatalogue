@@ -8,5 +8,5 @@ A naive young man assumes a dead man's identity and finds himself embroiled in a
 
 [TMDB](44982)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Thirteen%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Thirteen%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

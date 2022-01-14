@@ -8,5 +8,5 @@ A martial arts instructor working at a police academy gets imprisoned after kill
 
 [TMDB](290864)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kung%20Fu%20Jungle%20%282014%29%28Ca%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Jungle%20%282014%29%28Ca%29%20DTS-HD%20MA%207.1.jpg)
 

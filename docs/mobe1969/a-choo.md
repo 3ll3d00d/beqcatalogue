@@ -8,5 +8,5 @@ Even when they were orphans, Wang Yizhi has always been in love with Xinxin. Now
 
 [TMDB](288287)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Choo%20%282020%29%28Ma%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Choo%20%282020%29%28Ma%29%20DD%2B%205.1.jpg)
 

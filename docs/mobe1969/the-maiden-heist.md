@@ -8,5 +8,5 @@ A comedy centered on three museum security guards who devise a plan to steal bac
 
 [TMDB](24271)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Maiden%20Heist%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Maiden%20Heist%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

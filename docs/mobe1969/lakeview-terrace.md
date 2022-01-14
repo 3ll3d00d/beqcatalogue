@@ -8,5 +8,5 @@ A young interracial couple has just moved into their California dream home when 
 
 [TMDB](13279)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lakeview%20Terrace%20%282008%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lakeview%20Terrace%20%282008%29%20TrueHD%205.1.jpg)
 

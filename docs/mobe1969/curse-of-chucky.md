@@ -10,5 +10,5 @@ After the passing of her mother, a young woman in a wheelchair since birth, is f
 
 [TMDB](167032)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Curse%20of%20Chucky%20%282013%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Curse%20of%20Chucky%20%282013%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
 

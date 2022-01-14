@@ -8,5 +8,5 @@ Danny, a respected cop, is setup after an investigation goes wrong. While laying
 
 [TMDB](49261)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Locked%20Down%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Locked%20Down%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Two investigators of paranormal hoaxes, the veteran Dr. Margaret Matheson and he
 
 [TMDB](75638)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Red%20Lights%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Red%20Lights%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Anthropology students and their professor experience terror when they visit a sa
 
 [TMDB](93077)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rites%20of%20Passage%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rites%20of%20Passage%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

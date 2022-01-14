@@ -8,5 +8,5 @@ A three-person crew on a mission to Mars faces an impossible choice when an unpl
 
 [TMDB](559581)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stowaway%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stowaway%20%282021%29%20DD%2B%205.1.jpg)
 

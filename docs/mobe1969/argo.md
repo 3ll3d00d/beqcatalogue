@@ -10,5 +10,5 @@ As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' speciali
 
 [TMDB](68734)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Argo%20%282012%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Argo%20%282012%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
 

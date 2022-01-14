@@ -8,5 +8,5 @@ Tel Aviv, Israel. The twisted paths of three very different men brutally collide
 
 [TMDB](171540)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Big%20Bad%20Wolves%20%282013%29%28He%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Big%20Bad%20Wolves%20%282013%29%28He%29%20DTS-HD%20MA%205.1.jpg)
 

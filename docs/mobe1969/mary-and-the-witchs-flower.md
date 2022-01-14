@@ -8,7 +8,7 @@ Mary Smith, a young girl who lives with her great-aunt in the countryside, follo
 
 [TMDB](430447)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mary%20and%20the%20Witch%27s%20Flower%20%282017%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mary%20and%20the%20Witch%27s%20Flower%20%282017%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-X
 
@@ -18,5 +18,5 @@ Mary Smith, a young girl who lives with her great-aunt in the countryside, follo
 
 [TMDB](430447)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mary%20and%20the%20Witch%27s%20Flower%20%282017%29%28Ja%29%20DTS-X.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mary%20and%20the%20Witch%27s%20Flower%20%282017%29%28Ja%29%20DTS-X.jpg)
 

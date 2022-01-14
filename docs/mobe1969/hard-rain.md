@@ -8,5 +8,5 @@ Get swept up in the action as an armored car driver (Christian Slater) tries to 
 
 [TMDB](11258)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hard%20Rain%20%281998%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hard%20Rain%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

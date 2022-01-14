@@ -8,5 +8,5 @@ Haunted by terrible acts the Nazis forced him to participate in, the disenchante
 
 [TMDB](12700)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dominion%20Prequel%20to%20the%20Exorcist%20%282005%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dominion%20Prequel%20to%20the%20Exorcist%20%282005%29%20DTS-HD%20MA%205.1.jpg)
 

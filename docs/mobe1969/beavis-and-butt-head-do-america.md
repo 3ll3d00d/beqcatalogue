@@ -8,5 +8,5 @@ Mike Judge's slacker duo, Beavis and Butt-Head, wake to discover their TV has be
 
 [TMDB](3179)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beavis%20and%20Butt-Head%20Do%20America%20%281996%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beavis%20and%20Butt-Head%20Do%20America%20%281996%29%20AC3%205.1.jpg)
 

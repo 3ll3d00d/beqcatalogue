@@ -8,5 +8,5 @@ When a young soldier in Vietnam gets dumped by his hometown girl, he and his bes
 
 [TMDB](140222)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Love%20and%20Honor%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Love%20and%20Honor%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

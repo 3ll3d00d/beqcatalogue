@@ -8,5 +8,5 @@ Once a legendary detective and a new mom, Mi-young, now works a desk job. But wh
 
 [TMDB](571786)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Miss%20%26%20Mrs.%20Cops%20%282019%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Miss%20%26%20Mrs.%20Cops%20%282019%29%28Ko%29%20TrueHD%205.1.jpg)
 

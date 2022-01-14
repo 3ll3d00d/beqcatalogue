@@ -8,5 +8,5 @@ Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to exec
 
 [TMDB](399170)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Logan%20Lucky%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Logan%20Lucky%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

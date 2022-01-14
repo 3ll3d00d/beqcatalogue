@@ -8,5 +8,5 @@ A hard-nosed, hard-living Marine gunnery sergeant clashes with his superiors and
 
 [TMDB](10015)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Heartbreak%20Ridge%20%281986%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Heartbreak%20Ridge%20%281986%29%20DTS-HD%20MA%205.1.jpg)
 

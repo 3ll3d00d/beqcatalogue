@@ -8,5 +8,5 @@ Melanie Ballard is a hard nosed police chief in the year 2025. She and a police 
 
 [TMDB](10016)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghosts%20of%20Mars%20%282001%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghosts%20of%20Mars%20%282001%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ After serving prison time for a self-defense killing, Sailor Ripley reunites wit
 
 [TMDB](483)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wild%20At%20Heart%20%281990%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wild%20At%20Heart%20%281990%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Eight years after the third film, the OSS has become the world's top spy agency,
 
 [TMDB](56288)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Spy%20Kids%204%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spy%20Kids%204%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Three bumbling Army reservists are hustled onto a plane headed for combat in Ira
 
 [TMDB](14547)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Delta%20Farce%20%282007%29%20LPCM%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Delta%20Farce%20%282007%29%20LPCM%207.1.jpg)
 

@@ -10,5 +10,5 @@ On July 2, a giant alien mothership enters orbit around Earth and deploys severa
 
 [TMDB](602)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Independence%20Day%20%281996%29%28EC%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Independence%20Day%20%281996%29%28EC%29%20DTS-X.jpg)
 

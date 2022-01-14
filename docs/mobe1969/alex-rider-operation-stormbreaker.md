@@ -8,5 +8,5 @@ Alex Rider thinks he is a normal school boy, until his uncle is killed. He disco
 
 [TMDB](9978)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Alex%20Rider%20Operation%20Stormbreaker%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Alex%20Rider%20Operation%20Stormbreaker%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

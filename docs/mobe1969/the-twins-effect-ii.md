@@ -8,5 +8,5 @@ Set in Flower Capital, a land ruled by an Evil Queen. All men in the kingdom are
 
 [TMDB](10257)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Twins%20Effect%20II%20%282004%29%28Ca%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Twins%20Effect%20II%20%282004%29%28Ca%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@
 
 [TMDB](381067)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Karaoke%20Crazies%20%282016%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Karaoke%20Crazies%20%282016%29%28Ko%29%20TrueHD%205.1.jpg)
 

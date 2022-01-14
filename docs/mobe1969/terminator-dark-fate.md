@@ -8,7 +8,7 @@ Decades after Sarah Connor prevented Judgment Day, a lethal new Terminator is se
 
 [TMDB](290859)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Terminator%20Dark%20Fate%20%282019%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Terminator%20Dark%20Fate%20%282019%29%20Atmos.jpg)
 
 ## DTS-HD MA 7.1
 
@@ -18,5 +18,5 @@ Decades after Sarah Connor prevented Judgment Day, a lethal new Terminator is se
 
 [TMDB](290859)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Terminator%20Dark%20Fate%20%282019%29%20DTS-HD%20MA%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Terminator%20Dark%20Fate%20%282019%29%20DTS-HD%20MA%207.1.jpg)
 

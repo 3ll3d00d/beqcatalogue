@@ -8,5 +8,5 @@
 
 [TMDB](513434)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/One%20Cut%20of%20the%20Dead%20%282017%29%28Ja%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/One%20Cut%20of%20the%20Dead%20%282017%29%28Ja%29%20DTS-HD%20MA%202.0.jpg)
 

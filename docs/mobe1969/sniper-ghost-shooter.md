@@ -8,5 +8,5 @@ Elite snipers Brandon Beckett and Richard Miller are tasked with protecting a ga
 
 [TMDB](407375)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sniper%20Ghost%20Shooter%20%282016%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sniper%20Ghost%20Shooter%20%282016%29%20DD%2B%205.1.jpg)
 

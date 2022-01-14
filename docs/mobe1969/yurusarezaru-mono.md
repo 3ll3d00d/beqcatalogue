@@ -8,5 +8,5 @@ Set in Hokkaido, Japan in the 1880s. Jubei Kamata (Ken Watanabe), who is on the 
 
 [TMDB](141819)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Yurusarezaru%20Mono%20%282013%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Y/Yurusarezaru%20Mono%20%282013%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

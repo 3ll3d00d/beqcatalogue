@@ -8,5 +8,5 @@ One day a young woman named Blanca is saved by Xuan, a snake catcher from a near
 
 [TMDB](573699)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/White%20Snake%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/White%20Snake%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

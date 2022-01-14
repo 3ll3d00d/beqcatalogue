@@ -8,5 +8,5 @@ A university professor gradually succumbing to blindness is entranced by an obse
 
 [TMDB](287649)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Scarlet%20Innocence%20%282014%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Scarlet%20Innocence%20%282014%29%28Ko%29%20TrueHD%205.1.jpg)
 

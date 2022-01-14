@@ -8,5 +8,5 @@ In high school, Schmidt was a dork and Jenko was the popular jock. After graduat
 
 [TMDB](64688)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/21%20Jump%20Street%20%282012%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/21%20Jump%20Street%20%282012%29%20Atmos.jpg)
 

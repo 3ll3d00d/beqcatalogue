@@ -8,5 +8,5 @@ When their plans for a nature trip go awry, Polly and boyfriend Seth decide to c
 
 [TMDB](13220)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Splinter%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Splinter%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

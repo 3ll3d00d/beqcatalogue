@@ -8,5 +8,5 @@ In a world plagued by demons who cause great human suffering, young demon hunter
 
 [TMDB](170657)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Journey%20to%20the%20West%20Conquering%20the%20Demons%20%282013%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Journey%20to%20the%20West%20Conquering%20the%20Demons%20%282013%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

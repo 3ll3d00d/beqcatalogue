@@ -8,5 +8,5 @@ A Foreign Service Officer in London tries to prevent a terrorist attack set to h
 
 [TMDB](334074)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Survivor%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Survivor%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

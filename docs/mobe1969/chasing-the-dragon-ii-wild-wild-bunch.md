@@ -8,5 +8,5 @@ Based on real-life crimes that terrorized Hong Kong in the 1990s, Logan (Tony Le
 
 [TMDB](602661)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Chasing%20the%20Dragon%20II%20Wild%20Wild%20Bunch%20%282019%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Chasing%20the%20Dragon%20II%20Wild%20Wild%20Bunch%20%282019%29%28Ca%29%20TrueHD%205.1.jpg)
 

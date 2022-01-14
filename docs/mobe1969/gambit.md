@@ -8,5 +8,5 @@ An art curator decides to seek revenge on his abusive boss by conning him into b
 
 [TMDB](97434)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gambit%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gambit%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Yorkshire, 1974, the Maynard family moves into their dream house. It's a dream t
 
 [TMDB](50497)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/When%20the%20Lights%20Went%20Out%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/When%20the%20Lights%20Went%20Out%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

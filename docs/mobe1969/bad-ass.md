@@ -8,5 +8,5 @@ Decorated Vietnam hero, Frank Vega returns home only to get shunned by society l
 
 [TMDB](94380)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bad%20Ass%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bad%20Ass%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

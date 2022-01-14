@@ -8,5 +8,5 @@ Johnny and Peter, former paramilitary operatives, search Bangkok - leaving carna
 
 [TMDB](273238)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zero%20Tolerance%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zero%20Tolerance%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

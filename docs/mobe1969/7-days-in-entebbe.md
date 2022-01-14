@@ -8,5 +8,5 @@ In 1976, four hijackers take over an Air France airplane en route from Tel Aviv 
 
 [TMDB](433627)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/7%20Days%20in%20Entebbe%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/7%20Days%20in%20Entebbe%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

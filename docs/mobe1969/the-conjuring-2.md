@@ -8,5 +8,5 @@ Lorraine and Ed Warren travel to north London to help a single mother raising fo
 
 [TMDB](259693)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Conjuring%202%20%282016%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Conjuring%202%20%282016%29%20Atmos.jpg)
 

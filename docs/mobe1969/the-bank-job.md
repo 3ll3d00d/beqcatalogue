@@ -8,5 +8,5 @@ Terry is a small-time car dealer trying to leave his shady past behind and start
 
 [TMDB](8848)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Bank%20Job%20%282008%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Bank%20Job%20%282008%29%20DTS-HD%20MA%207.1.jpg)
 

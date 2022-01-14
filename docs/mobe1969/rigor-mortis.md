@@ -4,9 +4,9 @@
 
 **2013 • MA15+ • 1h 45m • Cantonese • Horror, Action, Drama • mobe1969**
 
-Juno Mak’s debut feature Rigor Mortis is an eerie and chilling, contemporary action- and special effects-laden homage to the classic Chinese vampire movies of the 1980s.
+Juno Makâ€™s debut feature Rigor Mortis is an eerie and chilling, contemporary action- and special effects-laden homage to the classic Chinese vampire movies of the 1980s.
 
 [TMDB](210911)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rigor%20Mortis%20%282013%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rigor%20Mortis%20%282013%29%28Ca%29%20TrueHD%205.1.jpg)
 

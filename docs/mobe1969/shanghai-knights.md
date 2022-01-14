@@ -8,5 +8,5 @@ The dynamic duo of Chon Wang and Roy O'Bannon return for another crazy adventure
 
 [TMDB](6038)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shanghai%20Knights%20%282003%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shanghai%20Knights%20%282003%29%20AC3%205.1.jpg)
 

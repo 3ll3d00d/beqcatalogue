@@ -10,7 +10,7 @@ During its return to the earth, commercial spaceship Nostromo intercepts a distr
 
 [TMDB](348)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Alien%20%281979%29%28TC%29%20DTS-HD%20MA%204.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Alien%20%281979%29%28TC%29%20DTS-HD%20MA%204.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -22,7 +22,7 @@ During its return to the earth, commercial spaceship Nostromo intercepts a distr
 
 [TMDB](348)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Alien%20%281979%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Alien%20%281979%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -34,7 +34,7 @@ During its return to the earth, commercial spaceship Nostromo intercepts a distr
 
 [TMDB](348)
 
-![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Alien%20%281979%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Alien%20%281979%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS.HD MA 5.1
 
@@ -46,5 +46,5 @@ During its return to the earth, commercial spaceship Nostromo intercepts a distr
 
 [TMDB](348)
 
-![img 3](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Alien%20%281979%29%28Extended%29%20DTS.HD%20MA%205.1.jpg)
+![img 3](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Alien%20%281979%29%28Extended%29%20DTS.HD%20MA%205.1.jpg)
 

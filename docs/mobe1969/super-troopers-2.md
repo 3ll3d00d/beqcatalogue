@@ -8,5 +8,5 @@ When an international border dispute arises between the U.S. and Canada, the Sup
 
 [TMDB](50022)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Super%20Troopers%202%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Super%20Troopers%202%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A depressed housewife who learns her husband was killed in a car accident the da
 
 [TMDB](9963)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Premonition%20%282007%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Premonition%20%282007%29%20LPCM%205.1.jpg)
 

@@ -8,7 +8,7 @@ Weary of the bloodshed and violence from the martial arts world, a powerful swor
 
 [TMDB](367206)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sword%20Master%20%282016%29%28Ma%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sword%20Master%20%282016%29%28Ma%29%20DTS-X.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ Weary of the bloodshed and violence from the martial arts world, a powerful swor
 
 [TMDB](367206)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sword%20Master%20%282016%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sword%20Master%20%282016%29%28Ma%29%20TrueHD%205.1.jpg)
 

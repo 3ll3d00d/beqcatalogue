@@ -8,5 +8,5 @@ A true-life drama in the 1920s, centering on British explorer Col. Percy Fawcett
 
 [TMDB](314095)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lost%20City%20of%20Z%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lost%20City%20of%20Z%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

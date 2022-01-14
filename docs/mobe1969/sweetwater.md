@@ -8,5 +8,5 @@ In the late 1800s, a fanatical religious leader, a renegade Sheriff, and a forme
 
 [TMDB](158916)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sweetwater%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sweetwater%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

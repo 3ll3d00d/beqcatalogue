@@ -8,5 +8,5 @@ A mysterious global blackout yields countless populations to simply vanish, leav
 
 [TMDB](43552)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vanishing%20on%207th%20Street%20%282010%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Vanishing%20on%207th%20Street%20%282010%29%20DTS-HD%20MA%207.1.jpg)
 

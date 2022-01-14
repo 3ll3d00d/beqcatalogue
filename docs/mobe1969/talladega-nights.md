@@ -10,7 +10,7 @@ The fastest man on four wheels, Ricky Bobby is one of the greatest drivers in NA
 
 [TMDB](9718)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Talladega%20Nights%20%282006%29%28Theatrical%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Talladega%20Nights%20%282006%29%28Theatrical%29%20DTS-HD%20MA%205.1.jpg)
 
 ## LPCM 5.1
 
@@ -22,5 +22,5 @@ The fastest man on four wheels, Ricky Bobby is one of the greatest drivers in NA
 
 [TMDB](9718)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Talladega%20Nights%20%282006%29%28Unrated%29%20LPCM%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Talladega%20Nights%20%282006%29%28Unrated%29%20LPCM%205.1.jpg)
 

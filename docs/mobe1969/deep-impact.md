@@ -8,7 +8,7 @@ A seven-mile-wide space rock is hurtling toward Earth, threatening to obliterate
 
 [TMDB](8656)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deep%20Impact%20%281998%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deep%20Impact%20%281998%29%20AC3%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ A seven-mile-wide space rock is hurtling toward Earth, threatening to obliterate
 
 [TMDB](8656)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deep%20Impact%20%281998%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deep%20Impact%20%281998%29%20TrueHD%205.1.jpg)
 

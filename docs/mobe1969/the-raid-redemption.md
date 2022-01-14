@@ -8,5 +8,5 @@ Deep in the heart of Jakarta's slums lies an impenetrable safe house for the wor
 
 [TMDB](94329)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Raid%20Redemption%20%282011%29%28In%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Raid%20Redemption%20%282011%29%28In%29%20DTS-HD%20MA%205.1.jpg)
 

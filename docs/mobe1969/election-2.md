@@ -8,5 +8,5 @@ As election time nears, current Triad chairman Lok faces competition from his go
 
 [TMDB](15077)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Election%202%20%282006%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Election%202%20%282006%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

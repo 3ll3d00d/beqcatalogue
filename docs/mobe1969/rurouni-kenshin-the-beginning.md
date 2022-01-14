@@ -8,5 +8,5 @@ Before he was a protector, Kenshin was a fearsome assassin known as Battosai. Bu
 
 [TMDB](672322)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rurouni%20Kenshin%20The%20Beginning%20%282021%29%28Ja%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rurouni%20Kenshin%20The%20Beginning%20%282021%29%28Ja%29%20DD%2B%205.1.jpg)
 

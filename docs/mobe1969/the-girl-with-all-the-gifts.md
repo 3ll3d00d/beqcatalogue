@@ -8,5 +8,5 @@ In the future, a strange fungus has changed nearly everyone into a thoughtless, 
 
 [TMDB](375366)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Girl%20With%20All%20The%20Gifts%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Girl%20With%20All%20The%20Gifts%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

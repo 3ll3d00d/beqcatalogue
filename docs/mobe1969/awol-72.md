@@ -8,5 +8,5 @@ An AWOL marine in possession of secret government information, is a wanted man, 
 
 [TMDB](342502)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/AWOL-72%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/AWOL-72%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Caleb, a coder at the world's largest internet company, wins a competition to sp
 
 [TMDB](264660)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ex%20Machina%20%282015%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Ex%20Machina%20%282015%29%20DTS-X.jpg)
 

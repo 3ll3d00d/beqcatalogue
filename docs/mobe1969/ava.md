@@ -8,5 +8,5 @@ A black ops assassin is forced to fight for her own survival after a job goes da
 
 [TMDB](539885)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ava%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Ava%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

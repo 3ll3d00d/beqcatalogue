@@ -8,5 +8,5 @@ Jay and Silent Bob embark on a cross-country mission to stop Hollywood from rebo
 
 [TMDB](440762)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jay%20and%20Silent%20Bob%20Reboot%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jay%20and%20Silent%20Bob%20Reboot%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

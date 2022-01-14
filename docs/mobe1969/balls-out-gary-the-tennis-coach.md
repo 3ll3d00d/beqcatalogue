@@ -8,5 +8,5 @@ An overenthusiastic high-school maintenance man attempts to lead an unlikely gro
 
 [TMDB](14141)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Balls%20Out%20Gary%20the%20Tennis%20Coach%20%282009%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Balls%20Out%20Gary%20the%20Tennis%20Coach%20%282009%29%20AC3%205.1.jpg)
 

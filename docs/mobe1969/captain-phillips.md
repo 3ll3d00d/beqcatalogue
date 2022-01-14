@@ -8,5 +8,5 @@ The true story of Captain Richard Phillips and the 2009 hijacking by Somali pira
 
 [TMDB](109424)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Captain%20Phillips%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Captain%20Phillips%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A black police detective must solve a strange case of a kidnapped boy and deal w
 
 [TMDB](9959)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Freedomland%20%282006%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Freedomland%20%282006%29%20TrueHD%205.1.jpg)
 

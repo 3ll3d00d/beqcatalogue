@@ -8,5 +8,5 @@ A wealthy New York investment banking executive hides his alternate psychopathic
 
 [TMDB](1359)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/American%20Psycho%20%282000%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/American%20Psycho%20%282000%29%20Atmos.jpg)
 

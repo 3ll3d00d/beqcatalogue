@@ -8,5 +8,5 @@ When a Russian mobster sets up a real estate scam that generates millions of pou
 
 [TMDB](13809)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/RocknRolla%20%282008%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/RocknRolla%20%282008%29%20TrueHD%205.1.jpg)
 

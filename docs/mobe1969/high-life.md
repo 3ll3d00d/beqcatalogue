@@ -8,5 +8,5 @@ A father and his daughter struggle to survive in deep space where they live in i
 
 [TMDB](376865)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/High%20Life%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/High%20Life%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

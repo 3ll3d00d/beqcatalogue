@@ -10,7 +10,7 @@ Sadly, the shorter dub...
 
 [TMDB](345934)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Air%20Strike%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Air%20Strike%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -24,5 +24,5 @@ Scandinavian Blu-Ray. Proper cut and language. Contact me for English subtitles.
 
 [TMDB](345934)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Air%20Strike%20%282018%29%28Ma%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Air%20Strike%20%282018%29%28Ma%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
 

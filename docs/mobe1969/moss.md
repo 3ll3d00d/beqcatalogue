@@ -8,5 +8,5 @@ A city boy visits a remote village to find out the reason behind his father's st
 
 [TMDB](49087)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Moss%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Moss%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

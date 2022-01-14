@@ -8,5 +8,5 @@ A woman turns to prescription medication as a way of handling her anxiety concer
 
 [TMDB](109421)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Side%20Effects%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Side%20Effects%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

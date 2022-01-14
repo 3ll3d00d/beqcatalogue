@@ -10,5 +10,5 @@ John McClane is back and badder than ever, and this time he's working for Homela
 
 [TMDB](1571)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Live%20Free%20or%20Die%20Hard%20%282007%29%28UR%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Live%20Free%20or%20Die%20Hard%20%282007%29%28UR%29%20DTS-HD%20MA%205.1.jpg)
 

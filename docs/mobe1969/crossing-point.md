@@ -8,5 +8,5 @@ A young American couple in love, Michael and Olivia vacation in Baja, but things
 
 [TMDB](391486)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Crossing%20Point%20%282016%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Crossing%20Point%20%282016%29%20AC3%205.1.jpg)
 

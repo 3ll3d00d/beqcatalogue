@@ -8,5 +8,5 @@ Dream demon Freddy Krueger is resurrected from his apparent demise, and rapidly 
 
 [TMDB](10131)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Nightmare%20on%20Elm%20Street%204%20The%20Dream%20Master%20%281988%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Nightmare%20on%20Elm%20Street%204%20The%20Dream%20Master%20%281988%29%20DTS-HD%20MA%205.1.jpg)
 

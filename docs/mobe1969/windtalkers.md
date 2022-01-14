@@ -10,7 +10,7 @@ Joe Enders is a gung-ho Marine assigned to protect a "windtalker" - one of sever
 
 [TMDB](12100)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Windtalkers%20%282002%29%28DC%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Windtalkers%20%282002%29%28DC%29%20AC3%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -20,5 +20,5 @@ Joe Enders is a gung-ho Marine assigned to protect a "windtalker" - one of sever
 
 [TMDB](12100)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Windtalkers%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Windtalkers%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

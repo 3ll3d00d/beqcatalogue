@@ -8,5 +8,5 @@ On his latest private investigation, a shamed former cop connects a murder case 
 
 [TMDB](505579)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bent%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bent%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

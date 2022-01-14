@@ -10,5 +10,5 @@ Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and
 
 [TMDB](43074)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghostbusters%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghostbusters%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

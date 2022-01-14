@@ -8,5 +8,5 @@ Space Pirate Captain Harlock and his fearless crew face off against the space in
 
 [TMDB](192577)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Harlock%20Space%20Pirate%20%282013%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Harlock%20Space%20Pirate%20%282013%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

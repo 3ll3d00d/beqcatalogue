@@ -8,5 +8,5 @@ John Gregory, who is a seventh son of a seventh son and also the local spook, ha
 
 [TMDB](68737)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Seventh%20Son%20%282014%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Seventh%20Son%20%282014%29%20DTS-HD%20MA%207.1.jpg)
 

@@ -8,5 +8,5 @@ Liu Jian, an elite Chinese police officer, comes to Paris to arrest a Chinese dr
 
 [TMDB](2140)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kiss%20of%20the%20Dragon%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kiss%20of%20the%20Dragon%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

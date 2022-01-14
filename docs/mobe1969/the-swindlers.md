@@ -8,5 +8,5 @@ A group of swindlers unite to hunt down an infamous con man who was known dead, 
 
 [TMDB](478187)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Swindlers%20%282017%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Swindlers%20%282017%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

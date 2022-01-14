@@ -8,5 +8,5 @@ John Carter is a war-weary, former military captain who's inexplicably transport
 
 [TMDB](49529)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/John%20Carter%20%282012%29%20DTS-HD%20HR%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/John%20Carter%20%282012%29%20DTS-HD%20HR%207.1.jpg)
 

@@ -10,7 +10,7 @@ Ex-government operative Bryan Mills finds his life is shattered when he's falsel
 
 [TMDB](260346)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Taken%203%20%282015%29%28TC%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Taken%203%20%282015%29%28TC%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -22,5 +22,5 @@ Ex-government operative Bryan Mills finds his life is shattered when he's falsel
 
 [TMDB](260346)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Taken%203%20%282015%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Taken%203%20%282015%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
 

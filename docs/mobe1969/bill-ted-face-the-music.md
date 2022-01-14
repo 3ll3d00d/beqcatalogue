@@ -8,5 +8,5 @@ Yet to fulfill their rock and roll destiny, the now middle-aged best friends Bil
 
 [TMDB](501979)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bill%20%26%20Ted%20Face%20the%20Music%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bill%20%26%20Ted%20Face%20the%20Music%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -4,9 +4,9 @@
 
 **1984 • PG-13 • 1h 54m • Action, Thriller, War, Drama • mobe1969**
 
-It is the dawn of World War III. In mid-western America, a group of teenagers band together to defend their town—and their country—from invading Soviet forces.
+It is the dawn of World War III. In mid-western America, a group of teenagers band together to defend their townâ€”and their countryâ€”from invading Soviet forces.
 
 [TMDB](1880)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Red%20Dawn%20%281984%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Red%20Dawn%20%281984%29%20DTS-HD%20MA%205.1.jpg)
 

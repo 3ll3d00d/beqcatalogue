@@ -8,5 +8,5 @@ David Lord finds himself forced into the savage world of a modern gladiatorial a
 
 [TMDB](71254)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Arena%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Arena%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

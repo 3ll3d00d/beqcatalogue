@@ -8,5 +8,5 @@ Brennan Huff and Dale Doback might be grown men. But that doesn't stop them from
 
 [TMDB](12133)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Step%20Brothers%20%282008%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Step%20Brothers%20%282008%29%20Atmos.jpg)
 

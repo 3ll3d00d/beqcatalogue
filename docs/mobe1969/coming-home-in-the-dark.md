@@ -8,5 +8,5 @@ A school teacher is forced to confront a brutal act from his past when a pair of
 
 [TMDB](711963)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Coming%20Home%20in%20the%20Dark%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Coming%20Home%20in%20the%20Dark%20%282021%29%20DD%2B%205.1.jpg)
 

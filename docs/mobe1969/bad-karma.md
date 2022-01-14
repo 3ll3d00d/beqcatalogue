@@ -8,5 +8,5 @@ Ray Liotta stars as Jack Malloy, a hardcore career criminal until a near-death e
 
 [TMDB](122796)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bad%20Karma%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bad%20Karma%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

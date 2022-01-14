@@ -8,5 +8,5 @@ A woman, accidentally caught in a dark deal, turns the tables on her captors and
 
 [TMDB](240832)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lucy%20%282014%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lucy%20%282014%29%20Atmos.jpg)
 

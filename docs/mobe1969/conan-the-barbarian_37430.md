@@ -8,5 +8,5 @@ A quest that begins as a personal vendetta for the fierce Cimmerian warrior soon
 
 [TMDB](37430)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Conan%20the%20Barbarian%20%282011%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Conan%20the%20Barbarian%20%282011%29%20Atmos.jpg)
 

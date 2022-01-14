@@ -8,5 +8,5 @@ After leaving a doctor visit with the worst news, Valerie Dreyfuss and her siste
 
 [TMDB](291347)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lost%20Time%20%282014%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lost%20Time%20%282014%29%20AC3%205.1.jpg)
 

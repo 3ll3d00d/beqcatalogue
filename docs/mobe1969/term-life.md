@@ -8,5 +8,5 @@ If Nick Barrow can stay alive for 21 days, he'll die happy. Everyone Nick knows 
 
 [TMDB](257440)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Term%20Life%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Term%20Life%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

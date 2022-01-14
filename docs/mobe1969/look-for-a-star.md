@@ -8,5 +8,5 @@ Wealthy construction mogul Sam Ching (Andy Lau) and cabaret dancer Milan Sit (Qi
 
 [TMDB](41544)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Look%20for%20a%20Star%20%282009%29%28Ca%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Look%20for%20a%20Star%20%282009%29%28Ca%29%20DD%2B%202.0.jpg)
 

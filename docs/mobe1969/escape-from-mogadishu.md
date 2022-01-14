@@ -8,5 +8,5 @@ Diplomats from the North and South Korean embassies in Somalia attempt a daring 
 
 [TMDB](607844)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Escape%20From%20Mogadishu%20%282021%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Escape%20From%20Mogadishu%20%282021%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

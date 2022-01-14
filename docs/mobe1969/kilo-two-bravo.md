@@ -8,5 +8,5 @@ British soldiers guarding the Kajaki Dam set out to rescue a three-man team afte
 
 [TMDB](306650)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kilo%20Two%20Bravo%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kilo%20Two%20Bravo%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

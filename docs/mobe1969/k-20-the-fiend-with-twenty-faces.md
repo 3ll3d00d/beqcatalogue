@@ -8,5 +8,5 @@ In an alternate version of 1949 Japan in which World War II never happened, the 
 
 [TMDB](24410)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K-20%20The%20Fiend%20with%20Twenty%20Faces%20%282008%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/K-20%20The%20Fiend%20with%20Twenty%20Faces%20%282008%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

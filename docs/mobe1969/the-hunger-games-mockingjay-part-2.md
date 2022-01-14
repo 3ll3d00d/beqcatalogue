@@ -8,5 +8,5 @@ With the nation of Panem in a full scale war, Katniss confronts President Snow i
 
 [TMDB](131634)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hunger%20Games%20Mockingjay%20-%20Part%202%20%282015%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hunger%20Games%20Mockingjay%20-%20Part%202%20%282015%29%20Atmos.jpg)
 

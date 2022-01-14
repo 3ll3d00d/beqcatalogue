@@ -8,5 +8,5 @@ The film mainly follows the famous 1597 Battle of Myeongryang during the Japanes
 
 [TMDB](282631)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Admiral%20Roaring%20Currents%20%282014%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Admiral%20Roaring%20Currents%20%282014%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

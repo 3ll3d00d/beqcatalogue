@@ -4,9 +4,9 @@
 
 **2011 • R • 1h 32m • Horror, Mystery • mobe1969**
 
-In this fifth installment, Death is just as omnipresent as ever, and is unleashed after one man’s premonition saves a group of coworkers from a terrifying suspension bridge collapse. But this group of unsuspecting souls was never supposed to survive, and, in a terrifying race against time, the ill-fated group frantically tries to discover a way to escape Death’s sinister agenda.
+In this fifth installment, Death is just as omnipresent as ever, and is unleashed after one manâ€™s premonition saves a group of coworkers from a terrifying suspension bridge collapse. But this group of unsuspecting souls was never supposed to survive, and, in a terrifying race against time, the ill-fated group frantically tries to discover a way to escape Deathâ€™s sinister agenda.
 
 [TMDB](55779)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Final%20Destination%205%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Final%20Destination%205%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

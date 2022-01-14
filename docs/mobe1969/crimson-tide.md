@@ -8,5 +8,5 @@ On a US nuclear missile sub, a young first officer stages a mutiny to prevent hi
 
 [TMDB](8963)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Crimson%20Tide%20%281995%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Crimson%20Tide%20%281995%29%20LPCM%205.1.jpg)
 

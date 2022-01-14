@@ -8,5 +8,5 @@ A former agent of the CIA and his estranged daughter go on the run after his emp
 
 [TMDB](106021)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Expatriate%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Expatriate%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

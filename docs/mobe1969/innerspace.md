@@ -8,5 +8,5 @@ Test pilot Tuck Pendleton volunteers to test a special vessel for a miniaturizat
 
 [TMDB](2614)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Innerspace%20%281987%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Innerspace%20%281987%29%20DTS-HD%20MA%205.1.jpg)
 

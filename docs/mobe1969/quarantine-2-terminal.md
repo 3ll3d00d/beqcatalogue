@@ -8,5 +8,5 @@ A plane is taken over by a mysterious virus. When the plane lands it is placed u
 
 [TMDB](59115)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Quarantine%202%20Terminal%20%282011%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Q/Quarantine%202%20Terminal%20%282011%29%20AC3%205.1.jpg)
 

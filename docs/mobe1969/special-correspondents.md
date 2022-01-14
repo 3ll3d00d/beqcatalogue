@@ -8,5 +8,5 @@ A radio journalist and his technician get in over their heads when they hatch a 
 
 [TMDB](355008)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Special%20Correspondents%20%282016%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Special%20Correspondents%20%282016%29%20DD%2B%205.1.jpg)
 

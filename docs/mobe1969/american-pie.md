@@ -8,5 +8,5 @@ At a high-school party, four friends find that losing their collective virginity
 
 [TMDB](2105)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/American%20Pie%20%281999%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/American%20Pie%20%281999%29%20DTS-HD%20MA%205.1.jpg)
 

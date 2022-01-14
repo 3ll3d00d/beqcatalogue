@@ -8,5 +8,5 @@ The Fantastic Four return to the big screen as a new and all powerful enemy thre
 
 [TMDB](1979)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fantastic%20Four%20Rise%20of%20the%20Silver%20Surfer%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fantastic%20Four%20Rise%20of%20the%20Silver%20Surfer%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

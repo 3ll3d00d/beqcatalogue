@@ -8,7 +8,7 @@ The gruesome Nazi Zombies are back to finish their mission, but our hero is not 
 
 [TMDB](241842)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20Snow%202%20Red%20vs.%20Dead%20%282014%29%28No%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dead%20Snow%202%20Red%20vs.%20Dead%20%282014%29%28No%29%20AC3%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ The gruesome Nazi Zombies are back to finish their mission, but our hero is not 
 
 [TMDB](241842)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20Snow%202%20Red%20vs.%20Dead%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dead%20Snow%202%20Red%20vs.%20Dead%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

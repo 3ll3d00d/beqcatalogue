@@ -8,5 +8,5 @@ A shady cop finds himself in over his head when he gets caught between Internal 
 
 [TMDB](408620)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Asura%20%282016%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Asura%20%282016%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

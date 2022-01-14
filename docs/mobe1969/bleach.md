@@ -8,5 +8,5 @@ High school student Ichigo Kurosaki lives an ordinary life, besides being able t
 
 [TMDB](420426)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bleach%20%282018%29%28Ja%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bleach%20%282018%29%28Ja%29%20DD%2B%205.1.jpg)
 

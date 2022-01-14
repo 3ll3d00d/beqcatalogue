@@ -8,5 +8,5 @@ Legless Southern inventor Dr. Arliss Loveless plans to rekindle the Civil War by
 
 [TMDB](8487)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wild%20Wild%20West%20%281999%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wild%20Wild%20West%20%281999%29%20DD%2B%205.1.jpg)
 

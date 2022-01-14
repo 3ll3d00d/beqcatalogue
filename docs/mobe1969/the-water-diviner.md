@@ -8,5 +8,5 @@ In 1919, Australian farmer Joshua Connor travels to Turkey to discover the fate 
 
 [TMDB](256917)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Water%20Diviner%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Water%20Diviner%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ James Bond helps a Russian General escape into the west. He soon finds out that 
 
 [TMDB](708)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Living%20Daylights%20%281987%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Living%20Daylights%20%281987%29%20DTS-HD%20MA%205.1.jpg)
 

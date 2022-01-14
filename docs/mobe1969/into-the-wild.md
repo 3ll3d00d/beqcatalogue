@@ -8,5 +8,5 @@ After graduating from Emory University in 1992, top student and athlete Christop
 
 [TMDB](5915)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Into%20The%20Wild%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Into%20The%20Wild%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

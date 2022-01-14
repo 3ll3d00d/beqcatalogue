@@ -8,5 +8,5 @@ A misfit group of World War II American soldiers goes AWOL to rob a bank behind 
 
 [TMDB](11589)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kelly%27s%20Heroes%20%281970%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kelly%27s%20Heroes%20%281970%29%20DTS-HD%20MA%205.1.jpg)
 

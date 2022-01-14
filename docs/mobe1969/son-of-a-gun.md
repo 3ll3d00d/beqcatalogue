@@ -8,5 +8,5 @@ Locked up for a minor crime, 19 year old JR quickly learns the harsh realities o
 
 [TMDB](294652)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Son%20of%20a%20Gun%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Son%20of%20a%20Gun%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

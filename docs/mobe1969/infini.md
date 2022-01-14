@@ -8,5 +8,5 @@ A search and rescue team are transported through deep space to a distant mining 
 
 [TMDB](301728)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Infini%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Infini%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

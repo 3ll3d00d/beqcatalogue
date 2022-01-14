@@ -8,5 +8,5 @@ Three young people on a road trip from Colorado to New Jersey talk to a trucker 
 
 [TMDB](10866)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Joy%20Ride%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Joy%20Ride%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

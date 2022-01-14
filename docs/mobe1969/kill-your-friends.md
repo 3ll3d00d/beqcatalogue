@@ -8,5 +8,5 @@ In the late 1990s, a drug-addled nihilist resorts to murder to climb the ladder 
 
 [TMDB](318922)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kill%20Your%20Friends%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kill%20Your%20Friends%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

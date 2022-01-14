@@ -8,5 +8,5 @@ In Sector 7, an underwater oil field located south of Jeju Island, Hae-jun is wo
 
 [TMDB](75821)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sector%207%20%282011%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sector%207%20%282011%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

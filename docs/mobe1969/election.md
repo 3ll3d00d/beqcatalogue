@@ -8,5 +8,5 @@ A drama-thriller centered on a democratic election within an organized crime soc
 
 [TMDB](18747)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Election%20%282005%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Election%20%282005%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

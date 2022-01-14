@@ -8,5 +8,5 @@ Poongsan has the unenviable - and death-defying - job of delivering messages acr
 
 [TMDB](75004)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Poongsan%20%282011%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Poongsan%20%282011%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

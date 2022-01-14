@@ -8,5 +8,5 @@ Ancient Korea, 1506. The tyrannical King Yeonsan-gun of Joseon is overthrown by 
 
 [TMDB](523593)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Monstrum%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Monstrum%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

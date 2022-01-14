@@ -8,5 +8,5 @@ Volcanologist Harry Dalton comes to the sleepy town of Dante's Peak to investiga
 
 [TMDB](9619)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dante%27s%20Peak%20%281997%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dante%27s%20Peak%20%281997%29%20DTS-HD%20MA%205.1.jpg)
 

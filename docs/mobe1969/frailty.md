@@ -8,5 +8,5 @@ A man confesses to an FBI agent his family's story of how his religious fanatic 
 
 [TMDB](12149)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Frailty%20%282001%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Frailty%20%282001%29%20DTS-HD%20MA%207.1.jpg)
 

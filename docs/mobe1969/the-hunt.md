@@ -8,5 +8,5 @@ An undercover reporter is commissioned to write a story about a series of grueso
 
 [TMDB](152578)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hunt%20%282012%29%28Da%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hunt%20%282012%29%28Da%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ In 1863, Mississippi farmer Newt Knight serves as a medic for the Confederate Ar
 
 [TMDB](316152)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Free%20State%20of%20Jones%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Free%20State%20of%20Jones%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

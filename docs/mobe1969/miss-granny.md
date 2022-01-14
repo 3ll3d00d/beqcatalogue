@@ -8,5 +8,5 @@ An unappreciated old granny magically turns 20 years old again and decides to ma
 
 [TMDB](253065)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Miss%20Granny%20%282014%29%28Ko%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Miss%20Granny%20%282014%29%28Ko%29%20DD%2B%205.1.jpg)
 

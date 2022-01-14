@@ -8,5 +8,5 @@ When bestselling author Carl Black moves his family back to his childhood home, 
 
 [TMDB](583116)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Meet%20The%20Blacks%202%20The%20House%20Next%20Door%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Meet%20The%20Blacks%202%20The%20House%20Next%20Door%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 

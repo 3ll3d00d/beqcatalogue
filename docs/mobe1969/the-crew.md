@@ -8,5 +8,5 @@ One of the members of a gang of thieves commits a serious mistake that force the
 
 [TMDB](393717)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Crew%20%282016%29%28Fr%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Crew%20%282016%29%28Fr%29%20DD%2B%205.1.jpg)
 

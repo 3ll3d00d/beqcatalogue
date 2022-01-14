@@ -8,5 +8,5 @@ Gary Faulkner is an ex-con, unemployed handyman, and modern day Don Quixote who 
 
 [TMDB](336445)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Army%20of%20One%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Army%20of%20One%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ An ex-cop turned con threatens to jump to his death from a Manhattan hotel rooft
 
 [TMDB](49527)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Man%20on%20a%20Ledge%20%282012%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Man%20on%20a%20Ledge%20%282012%29%20Atmos.jpg)
 

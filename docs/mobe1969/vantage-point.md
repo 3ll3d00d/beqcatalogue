@@ -8,5 +8,5 @@ The attempted assassination of the American president is told and re-told from s
 
 [TMDB](7461)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vantage%20Point%20%282008%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Vantage%20Point%20%282008%29%20TrueHD%205.1.jpg)
 

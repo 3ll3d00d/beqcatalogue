@@ -8,5 +8,5 @@ Gloria finds a power she never knew she had when she is drawn into a dangerous w
 
 [TMDB](500852)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Miss%20Bala%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Miss%20Bala%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

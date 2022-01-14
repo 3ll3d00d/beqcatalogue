@@ -8,5 +8,5 @@ Inspector Amaia Salazar must return to the Baztan valley in order to solve a ser
 
 [TMDB](613099)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Legacy%20of%20the%20Bones%20%282019%29%28Es%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Legacy%20of%20the%20Bones%20%282019%29%28Es%29%20DD%2B%205.1.jpg)
 

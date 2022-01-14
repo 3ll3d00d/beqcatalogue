@@ -8,5 +8,5 @@ Archetypal buddy cops Riggs and Murtaugh are back for another round of high-stak
 
 [TMDB](943)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lethal%20Weapon%203%20%281992%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lethal%20Weapon%203%20%281992%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -10,5 +10,5 @@ From the director of the Hangover trilogy and Joker, Road Trip is a raunchy coll
 
 [TMDB](9285)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Road%20Trip%20%282000%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Road%20Trip%20%282000%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
 

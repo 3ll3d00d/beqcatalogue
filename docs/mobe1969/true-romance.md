@@ -8,7 +8,7 @@ Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell
 
 [TMDB](319)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/True%20Romance%20%281993%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/True%20Romance%20%281993%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -20,7 +20,7 @@ Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell
 
 [TMDB](319)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/True%20Romance%20%281993%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/True%20Romance%20%281993%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -32,5 +32,5 @@ Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell
 
 [TMDB](319)
 
-![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/True%20Romance%20%281993%29%20TrueHD%205.1.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/True%20Romance%20%281993%29%20TrueHD%205.1.jpg)
 

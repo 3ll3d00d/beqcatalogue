@@ -8,5 +8,5 @@ A group of five mountaineers are hiking and climbing in the Scottish Highlands w
 
 [TMDB](81390)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Lonely%20Place%20to%20Die%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Lonely%20Place%20to%20Die%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

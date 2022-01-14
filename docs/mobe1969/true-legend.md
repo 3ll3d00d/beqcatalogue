@@ -8,5 +8,5 @@ Su Qi-Er, a wealthy man living during the Qing Dynasty who loses his fortune and
 
 [TMDB](37034)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/True%20Legend%20%282010%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/True%20Legend%20%282010%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

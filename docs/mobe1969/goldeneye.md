@@ -8,5 +8,5 @@ When a powerful satellite system falls into the hands of Alec Trevelyan, AKA Age
 
 [TMDB](710)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/GoldenEye%20%281995%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/GoldenEye%20%281995%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -10,5 +10,5 @@ When obscenely rich hedge-fund manager James is convicted of fraud and sentenced
 
 [TMDB](257091)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Get%20Hard%20%282015%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Get%20Hard%20%282015%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A group of unwitting teens are stranded near a strange wax museum and soon must 
 
 [TMDB](10066)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/House%20of%20Wax%20%282005%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/House%20of%20Wax%20%282005%29%20AC3%205.1.jpg)
 

@@ -8,5 +8,5 @@ Britain, A.D. 117. Quintus Dias, the sole survivor of a Pictish raid on a Roman 
 
 [TMDB](23759)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Centurion%20%282010%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Centurion%20%282010%29%20DTS-HD%20MA%207.1.jpg)
 

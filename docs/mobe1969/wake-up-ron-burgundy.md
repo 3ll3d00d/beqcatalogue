@@ -8,5 +8,5 @@ While Ron Burgundy's rivalry with Veronica Corningstone escalates quickly, a gro
 
 [TMDB](9965)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wake%20Up%2C%20Ron%20Burgundy%20%282004%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wake%20Up%2C%20Ron%20Burgundy%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Several hundred years after the Battle of Dannoura, the Genji and Heike clans fa
 
 [TMDB](13637)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sukiyaki%20Western%20Django%20%282007%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sukiyaki%20Western%20Django%20%282007%29%28Ja%29%20TrueHD%205.1.jpg)
 

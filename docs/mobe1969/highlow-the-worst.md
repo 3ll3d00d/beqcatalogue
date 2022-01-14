@@ -8,5 +8,5 @@
 
 [TMDB](727502)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/HiGH%26LOW%20THE%20WORST%20%282019%29%28Ja%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/HiGH%26LOW%20THE%20WORST%20%282019%29%28Ja%29%20DD%2B%205.1.jpg)
 

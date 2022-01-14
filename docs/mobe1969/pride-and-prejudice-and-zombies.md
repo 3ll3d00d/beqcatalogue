@@ -8,5 +8,5 @@ A zombie outbreak has fallen upon the land in this reimagining of Jane Austen's 
 
 [TMDB](58431)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pride%20and%20Prejudice%20and%20Zombies%20%282016%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pride%20and%20Prejudice%20and%20Zombies%20%282016%29%20Atmos.jpg)
 

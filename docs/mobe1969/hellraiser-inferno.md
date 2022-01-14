@@ -8,5 +8,5 @@ A shady police detective becomes embroiled in a strange world of murder, sadism 
 
 [TMDB](12597)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hellraiser%20Inferno%20%282000%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hellraiser%20Inferno%20%282000%29%20DTS-HD%20MA%205.1.jpg)
 

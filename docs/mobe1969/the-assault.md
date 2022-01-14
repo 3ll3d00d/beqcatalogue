@@ -8,5 +8,5 @@ December 1994. On Saturday 24th, four GIA terrorists hijack an Air France A300 A
 
 [TMDB](59145)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Assault%20%282010%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Assault%20%282010%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
 

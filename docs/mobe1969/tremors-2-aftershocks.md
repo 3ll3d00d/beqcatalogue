@@ -8,5 +8,5 @@ Those supersucking desert creatures are back --- and this time they're south of 
 
 [TMDB](11069)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tremors%202%20Aftershocks%20%281996%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tremors%202%20Aftershocks%20%281996%29%20DTS-HD%20MA%202.0.jpg)
 

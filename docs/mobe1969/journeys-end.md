@@ -8,5 +8,5 @@ Set in a dugout in Aisne in 1918, a group of British officers, led by the mental
 
 [TMDB](438259)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Journey%27s%20End%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Journey%27s%20End%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ The heat is on in this fast paced action-comedy starring Eddie Murphy as Axel Fo
 
 [TMDB](90)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beverly%20Hills%20Cop%20%281984%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beverly%20Hills%20Cop%20%281984%29%20DTS-HD%20MA%205.1.jpg)
 

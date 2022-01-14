@@ -8,5 +8,5 @@ Three Kung Fu prodigies have grown into washed-up, middle-aged men, now one kick
 
 [TMDB](731738)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Paper%20Tigers%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Paper%20Tigers%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

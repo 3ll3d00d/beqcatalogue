@@ -8,5 +8,5 @@ A US Fighter pilot's epic struggle of survival after being shot down on a missio
 
 [TMDB](9952)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rescue%20Dawn%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rescue%20Dawn%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ At a birthday party, a sex video is filmed without consent and Ren Li-cha is the
 
 [TMDB](720851)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Girl%27s%20Revenge%20%282020%29%28Ma%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Girl%27s%20Revenge%20%282020%29%28Ma%29%20DD%2B%205.1.jpg)
 

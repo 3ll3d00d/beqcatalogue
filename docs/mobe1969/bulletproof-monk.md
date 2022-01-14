@@ -8,5 +8,5 @@ A mysterious and immortal Tibetan kung fu master, who has spent the last 60 year
 
 [TMDB](11817)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bulletproof%20Monk%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bulletproof%20Monk%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 

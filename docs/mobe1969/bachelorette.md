@@ -8,5 +8,5 @@ Three friends are asked to be bridesmaids at a wedding of a woman they used to r
 
 [TMDB](84174)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bachelorette%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bachelorette%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

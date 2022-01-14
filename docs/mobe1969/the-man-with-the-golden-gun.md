@@ -8,5 +8,5 @@ Cool government operative James Bond searches for a stolen invention that can tu
 
 [TMDB](682)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Man%20with%20the%20Golden%20Gun%20%281974%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Man%20with%20the%20Golden%20Gun%20%281974%29%20DTS-HD%20MA%205.1.jpg)
 

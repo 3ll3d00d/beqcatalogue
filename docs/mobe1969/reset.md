@@ -8,5 +8,5 @@ In 2025, a scientist on the verge of making a major discovery related to time tr
 
 [TMDB](457832)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Reset%20%282017%29%28Ma%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Reset%20%282017%29%28Ma%29%20DTS-X.jpg)
 

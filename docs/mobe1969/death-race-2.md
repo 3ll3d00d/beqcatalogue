@@ -8,5 +8,5 @@ In the world's most dangerous prison, a new game is born: Death Race. The rules 
 
 [TMDB](51620)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Death%20Race%202%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Death%20Race%202%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

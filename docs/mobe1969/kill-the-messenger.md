@@ -8,5 +8,5 @@ A reporter becomes the target of a vicious smear campaign that drives him to the
 
 [TMDB](245916)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kill%20The%20Messenger%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kill%20The%20Messenger%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

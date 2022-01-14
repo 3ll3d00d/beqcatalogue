@@ -8,5 +8,5 @@ On an island off the coast of North America, local residents simultaneously figh
 
 [TMDB](29426)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Survival%20of%20the%20Dead%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Survival%20of%20the%20Dead%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

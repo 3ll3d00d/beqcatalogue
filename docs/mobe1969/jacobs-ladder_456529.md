@@ -8,5 +8,5 @@ After losing his brother in combat, Jacob Singer returns home from Afghanistan -
 
 [TMDB](456529)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jacob%27s%20Ladder%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jacob%27s%20Ladder%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

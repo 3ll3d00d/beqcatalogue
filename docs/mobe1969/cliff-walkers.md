@@ -8,5 +8,5 @@ Set in the puppet state of Manchukuo in the 1930s, the film follows four Communi
 
 [TMDB](639557)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cliff%20Walkers%20%282021%29%28Ma%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cliff%20Walkers%20%282021%29%28Ma%29%20Atmos.jpg)
 

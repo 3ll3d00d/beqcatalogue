@@ -8,5 +8,5 @@ After losing their academic posts at a prestigious university, a team of parapsy
 
 [TMDB](620)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghostbusters%20%281984%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghostbusters%20%281984%29%20Atmos.jpg)
 

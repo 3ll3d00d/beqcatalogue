@@ -8,5 +8,5 @@ An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tou
 
 [TMDB](619278)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Inside%20Man%20Most%20Wanted%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Inside%20Man%20Most%20Wanted%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

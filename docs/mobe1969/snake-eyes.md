@@ -8,5 +8,5 @@ All bets are off when corrupt homicide cop Rick Santoro witnesses a murder durin
 
 [TMDB](8688)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Snake%20Eyes%20%281998%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Snake%20Eyes%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

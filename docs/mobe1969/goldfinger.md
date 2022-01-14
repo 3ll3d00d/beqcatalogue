@@ -8,5 +8,5 @@ Special agent 007 comes face to face with one of the most notorious villains of 
 
 [TMDB](658)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Goldfinger%20%281964%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Goldfinger%20%281964%29%20DTS-HD%20MA%205.1.jpg)
 

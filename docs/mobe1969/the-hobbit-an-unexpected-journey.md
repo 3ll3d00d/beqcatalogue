@@ -10,5 +10,5 @@ Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by 
 
 [TMDB](49051)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hobbit%20An%20Unexpected%20Journey%20%282012%29%28TC%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hobbit%20An%20Unexpected%20Journey%20%282012%29%28TC%29%20Atmos.jpg)
 

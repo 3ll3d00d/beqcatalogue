@@ -8,5 +8,5 @@ A Harvard Medical School graduate takes a position at a mental institution and s
 
 [TMDB](207933)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stonehearst%20Asylum%20%282015%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stonehearst%20Asylum%20%282015%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ Chucky and Tiffany are resurrected by their innocent son, Glen, and hit Hollywoo
 
 [TMDB](11249)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Seed%20of%20Chucky%20%282004%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Seed%20of%20Chucky%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 

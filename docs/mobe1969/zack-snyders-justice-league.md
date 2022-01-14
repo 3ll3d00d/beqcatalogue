@@ -8,7 +8,7 @@ Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne 
 
 [TMDB](791373)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zack%20Snyder%27s%20Justice%20League%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zack%20Snyder%27s%20Justice%20League%20%282021%29%20Atmos.jpg)
 
 ## Atmos
 
@@ -20,7 +20,7 @@ Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne 
 
 [TMDB](791373)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zack%20Snyder%27s%20Justice%20League%20%282021%29%28D1%29%20Atmos.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zack%20Snyder%27s%20Justice%20League%20%282021%29%28D1%29%20Atmos.jpg)
 
 ## Atmos
 
@@ -32,5 +32,5 @@ Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne 
 
 [TMDB](791373)
 
-![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zack%20Snyder%27s%20Justice%20League%20%282021%29%28D2%29%20Atmos.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zack%20Snyder%27s%20Justice%20League%20%282021%29%28D2%29%20Atmos.jpg)
 

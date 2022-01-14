@@ -8,5 +8,5 @@ Former legendary assassin Kenshin Himura has now become a wandering samurai. Off
 
 [TMDB](127533)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rurouni%20Kenshin%20Part%20I%20Origins%20%282012%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rurouni%20Kenshin%20Part%20I%20Origins%20%282012%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

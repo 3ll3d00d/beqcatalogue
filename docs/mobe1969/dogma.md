@@ -8,5 +8,5 @@ The latest battle in the eternal war between Good and Evil has come to New Jerse
 
 [TMDB](1832)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dogma%20%281999%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dogma%20%281999%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ When a massive, gilled monster emerges from the deep and tears through the city,
 
 [TMDB](315011)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shin%20Godzilla%20%282016%29%28Ja%29%20DTS-HD%20MA%203.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shin%20Godzilla%20%282016%29%28Ja%29%20DTS-HD%20MA%203.1.jpg)
 

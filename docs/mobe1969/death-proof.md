@@ -8,5 +8,5 @@ Austin's hottest DJ, Jungle Julia, sets out into the night to unwind with her tw
 
 [TMDB](1991)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Death%20Proof%20%282007%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Death%20Proof%20%282007%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ After an unprecedented series of natural disasters threatened the planet, the wo
 
 [TMDB](274855)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Geostorm%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Geostorm%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

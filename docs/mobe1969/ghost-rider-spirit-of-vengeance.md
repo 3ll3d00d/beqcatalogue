@@ -8,5 +8,5 @@ When the devil resurfaces with aims to take over the world in human form, Johnny
 
 [TMDB](71676)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20Rider%20Spirit%20of%20Vengeance%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghost%20Rider%20Spirit%20of%20Vengeance%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

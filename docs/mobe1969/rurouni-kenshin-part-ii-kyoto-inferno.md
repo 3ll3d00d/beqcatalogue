@@ -8,5 +8,5 @@ Kenshin has settled into his new life with Kaoru and his other friends when he i
 
 [TMDB](221731)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rurouni%20Kenshin%20Part%20II%20Kyoto%20Inferno%20%282014%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rurouni%20Kenshin%20Part%20II%20Kyoto%20Inferno%20%282014%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

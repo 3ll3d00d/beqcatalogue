@@ -8,5 +8,5 @@ Set in the Mayan civilization, when a man's idyllic presence is brutally disrupt
 
 [TMDB](1579)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Apocalypto%20%282006%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Apocalypto%20%282006%29%20LPCM%205.1.jpg)
 

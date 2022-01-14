@@ -8,5 +8,5 @@ A Vietnam war veteran writes a series of articles about his war experiences for 
 
 [TMDB](200482)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/White%20Badge%20%281992%29%28Ko%29%20DTS-HD%20MA%203.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/White%20Badge%20%281992%29%28Ko%29%20DTS-HD%20MA%203.1.jpg)
 

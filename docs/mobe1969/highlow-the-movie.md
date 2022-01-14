@@ -8,5 +8,5 @@ S.W.O.R.D. Chiku is a devastated and dangerous town with 5 gangs - Sannoh Rengok
 
 [TMDB](436356)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/HiGH%26LOW%20The%20Movie%20%282016%29%28Ja%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/HiGH%26LOW%20The%20Movie%20%282016%29%28Ja%29%20DD%2B%205.1.jpg)
 

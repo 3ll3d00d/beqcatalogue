@@ -4,29 +4,29 @@
 
 **2018 • 15 • 2h 3m • Korean • Documentary • mobe1969**
 
-After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel. (Remake of the Chinese film “Drug War,” 2012.)
+After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel. (Remake of the Chinese film â€œDrug War,â€ 2012.)
 
 [TMDB](518963)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%28Ko%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Believer%20%282018%29%28Ko%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
 **2018 • 15 • 2h 3m • Korean • Documentary • mobe1969**
 
-After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel. (Remake of the Chinese film “Drug War,” 2012.)
+After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel. (Remake of the Chinese film â€œDrug War,â€ 2012.)
 
 [TMDB](518963)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Believer%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-X
 
 **2018 • 15 • 2h 3m • Korean • Documentary • mobe1969**
 
-After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel. (Remake of the Chinese film “Drug War,” 2012.)
+After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel. (Remake of the Chinese film â€œDrug War,â€ 2012.)
 
 [TMDB](518963)
 
-![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Believer%20%282018%29%28Ko%29%20DTS-X.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Believer%20%282018%29%28Ko%29%20DTS-X.jpg)
 

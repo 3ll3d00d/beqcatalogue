@@ -8,5 +8,5 @@ In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to b
 
 [TMDB](335796)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ouija%20Origin%20of%20Evil%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Ouija%20Origin%20of%20Evil%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Ash is transported back to medieval days, where he is captured by the dreaded Lo
 
 [TMDB](766)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Army%20of%20Darkness%20%281992%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Army%20of%20Darkness%20%281992%29%20DTS-HD%20MA%205.1.jpg)
 

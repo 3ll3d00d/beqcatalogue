@@ -8,5 +8,5 @@ When a cop's crooked past comes back to get him, can he do the right thing, or w
 
 [TMDB](100544)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Officer%20Down%20%282013%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Officer%20Down%20%282013%29%20TrueHD%205.1.jpg)
 

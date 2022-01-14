@@ -8,5 +8,5 @@ When Andrew Sterling, a successful black urbanite writer, buys a vacation home o
 
 [TMDB](31000)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Amos%20%26%20Andrew%20%281993%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Amos%20%26%20Andrew%20%281993%29%20DTS-HD%20MA%202.0.jpg)
 

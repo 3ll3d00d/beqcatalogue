@@ -8,5 +8,5 @@ This is a story about the biggest financial fraud attempted in Hong Kong, direct
 
 [TMDB](277519)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z%20Storm%20%282014%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Z%20Storm%20%282014%29%28Ca%29%20TrueHD%205.1.jpg)
 

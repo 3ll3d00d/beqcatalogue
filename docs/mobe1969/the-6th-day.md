@@ -8,5 +8,5 @@ Futuristic action about a man who meets a clone of himself and stumbles into a g
 
 [TMDB](8452)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%206th%20Day%20%282000%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%206th%20Day%20%282000%29%20TrueHD%205.1.jpg)
 

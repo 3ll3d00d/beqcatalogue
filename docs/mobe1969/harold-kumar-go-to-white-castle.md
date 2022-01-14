@@ -10,5 +10,5 @@ Nerdy accountant Harold and his irrepressible friend, Kumar, get stoned watching
 
 [TMDB](11282)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Harold%20%26%20Kumar%20Go%20To%20White%20Castle%20%282004%29%28Extended%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Harold%20%26%20Kumar%20Go%20To%20White%20Castle%20%282004%29%28Extended%29%20DTS-HD%20MA%207.1.jpg)
 

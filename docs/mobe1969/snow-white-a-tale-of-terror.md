@@ -8,5 +8,5 @@ When young Lili's mother dies in childbirth, her father remarries Lady Claudia, 
 
 [TMDB](9092)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Snow%20White%20A%20Tale%20of%20Terror%20%281997%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Snow%20White%20A%20Tale%20of%20Terror%20%281997%29%20TrueHD%205.1.jpg)
 

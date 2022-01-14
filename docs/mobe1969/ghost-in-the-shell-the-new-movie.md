@@ -8,5 +8,5 @@ When a ghost-infecting virus known as Fire-Starter begins spreading through the 
 
 [TMDB](334376)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20The%20New%20Movie%20%282015%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghost%20in%20the%20Shell%20The%20New%20Movie%20%282015%29%28Ja%29%20TrueHD%205.1.jpg)
 

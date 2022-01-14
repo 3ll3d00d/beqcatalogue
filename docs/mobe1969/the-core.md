@@ -8,5 +8,5 @@ Geophysicist Dr. Josh Keyes discovers that an unknown force has caused the earth
 
 [TMDB](9341)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Core%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Core%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 

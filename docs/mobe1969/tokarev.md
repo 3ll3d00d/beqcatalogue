@@ -8,5 +8,5 @@ When the Russian mob kidnaps the daughter of a reformed criminal, he rounds up h
 
 [TMDB](242310)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tokarev%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tokarev%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

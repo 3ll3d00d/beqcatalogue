@@ -8,5 +8,5 @@ Found footage helps a true-crime novelist realize how and why a family was murde
 
 [TMDB](82507)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sinister%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sinister%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

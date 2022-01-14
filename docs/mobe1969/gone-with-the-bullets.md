@@ -8,5 +8,5 @@ Set in 1920s Shanghai, Ma Zouri and Xiang Feitian establish a notorious beauty p
 
 [TMDB](312408)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gone%20with%20the%20Bullets%20%282014%29%28Ma%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gone%20with%20the%20Bullets%20%282014%29%28Ma%29%20AC3%205.1.jpg)
 

@@ -8,5 +8,5 @@ A rogue submarine captain pulls together a misfit crew to go after a sunken trea
 
 [TMDB](246080)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Sea%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Black%20Sea%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

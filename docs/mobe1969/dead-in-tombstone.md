@@ -8,5 +8,5 @@ An outlaw named Guerrero Hernandez is shot in the back and killed whilst attempt
 
 [TMDB](151933)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20in%20Tombstone%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dead%20in%20Tombstone%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

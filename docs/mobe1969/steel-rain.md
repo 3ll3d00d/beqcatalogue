@@ -8,7 +8,7 @@ Amid a coup, a North Korean agent escapes south with the country's injured leade
 
 [TMDB](435841)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Steel%20Rain%20%282017%29%28Ko%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Steel%20Rain%20%282017%29%28Ko%29%20DD%2B%205.1.jpg)
 
 ## DTS-X
 
@@ -18,5 +18,5 @@ Amid a coup, a North Korean agent escapes south with the country's injured leade
 
 [TMDB](435841)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Steel%20Rain%20%282017%29%28Ko%29%20DTS-X.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Steel%20Rain%20%282017%29%28Ko%29%20DTS-X.jpg)
 

@@ -8,5 +8,5 @@ Construction company owner John Matthews learns that his estranged son, Jason, h
 
 [TMDB](134411)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Snitch%20%282013%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Snitch%20%282013%29%20Atmos.jpg)
 

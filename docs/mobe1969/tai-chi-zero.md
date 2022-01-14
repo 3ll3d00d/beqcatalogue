@@ -8,5 +8,5 @@ In legendary Chen Village, everyone is a martial arts master, using their powerf
 
 [TMDB](121823)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tai%20Chi%20Zero%20%282012%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tai%20Chi%20Zero%20%282012%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

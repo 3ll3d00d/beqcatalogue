@@ -8,5 +8,5 @@ After a 13-year imprisonment for the kidnap and murder of a 6 year old boy, beau
 
 [TMDB](4550)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lady%20Vengeance%20%282005%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lady%20Vengeance%20%282005%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

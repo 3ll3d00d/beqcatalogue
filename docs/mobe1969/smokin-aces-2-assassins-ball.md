@@ -8,5 +8,5 @@ Walter Weed is an unassuming desk jockey at the FBI when the Bureau uncovers a p
 
 [TMDB](29564)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Smokin%27%20Aces%202%20Assassins%27%20Ball%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Smokin%27%20Aces%202%20Assassins%27%20Ball%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

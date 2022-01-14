@@ -8,5 +8,5 @@ A team of former robbers arrived at Paradise: Phuket, southern Thailand. Now tra
 
 [TMDB](571650)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Paradise%20Beach%20%282019%29%28Fr%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Paradise%20Beach%20%282019%29%28Fr%29%20DD%2B%205.1.jpg)
 

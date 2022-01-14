@@ -8,5 +8,5 @@ It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre
 
 [TMDB](808)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shrek%20%282001%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shrek%20%282001%29%20TrueHD%207.1.jpg)
 

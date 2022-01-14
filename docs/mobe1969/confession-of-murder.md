@@ -8,5 +8,5 @@ A serial killer reappears 15 years after his murder spree with a book detailing 
 
 [TMDB](140212)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Confession%20of%20Murder%20%282012%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Confession%20of%20Murder%20%282012%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

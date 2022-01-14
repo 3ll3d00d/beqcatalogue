@@ -4,9 +4,9 @@
 
 **2012 • R • 1h 45m • Action, Adventure, Drama, Science Fiction • mobe1969**
 
-In a planet where humans must scavenge the post-apocalyptic barren wasteland, Hirokin â€“ a reluctant warrior with a dark past â€“ sets off on mission to fulfill his destiny. Having fought to the death to save his wife and son from the planets evil dictator â€“ Griffin â€“ and his elite army of hunters, the lone warrior is left for dead in the vast desert. Armed with his samurai blade, Hirokin is forced to choose between avenging the murder of his family and fighting for the freedom his people. In a twist of fate and with a small rebellion by his side Hirokin s vision finally becomes clear.
+In a planet where humans must scavenge the post-apocalyptic barren wasteland, Hirokin Ã¢â‚¬â€œ a reluctant warrior with a dark past Ã¢â‚¬â€œ sets off on mission to fulfill his destiny. Having fought to the death to save his wife and son from the planets evil dictator Ã¢â‚¬â€œ Griffin Ã¢â‚¬â€œ and his elite army of hunters, the lone warrior is left for dead in the vast desert. Armed with his samurai blade, Hirokin is forced to choose between avenging the murder of his family and fighting for the freedom his people. In a twist of fate and with a small rebellion by his side Hirokin s vision finally becomes clear.
 
 [TMDB](103551)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hirokin%20The%20Last%20Samurai%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hirokin%20The%20Last%20Samurai%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

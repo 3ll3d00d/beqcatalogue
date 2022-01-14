@@ -8,5 +8,5 @@ From the producers of Paranormal Activity, Insidious, and Sinister comes Dark Sk
 
 [TMDB](145135)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dark%20Skies%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dark%20Skies%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

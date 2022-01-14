@@ -8,5 +8,5 @@ The world's top bodyguard gets a new client, a hit man who must testify at the I
 
 [TMDB](390043)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hitman%27s%20Bodyguard%20%282017%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hitman%27s%20Bodyguard%20%282017%29%20Atmos.jpg)
 

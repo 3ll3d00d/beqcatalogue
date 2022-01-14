@@ -10,5 +10,5 @@ All grown up in post-apocalyptic 2018, John Connor must lead the resistance of h
 
 [TMDB](534)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Terminator%20Salvation%20%282009%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Terminator%20Salvation%20%282009%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -10,5 +10,5 @@ The Candyman, a murderous soul with a hook for a hand, is accidentally summoned 
 
 [TMDB](9529)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Candyman%20%281992%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Candyman%20%281992%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
 

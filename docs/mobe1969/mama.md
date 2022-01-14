@@ -8,5 +8,5 @@ Guillermo del Toro presents Mama, a supernatural thriller that tells the hauntin
 
 [TMDB](132232)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mama%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mama%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

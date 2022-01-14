@@ -10,7 +10,7 @@ The ultimate X-Men ensemble fights a war for the survival of the species across 
 
 [TMDB](127585)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X-Men%20Days%20of%20Future%20Past%20%282014%29%28EC%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X/X-Men%20Days%20of%20Future%20Past%20%282014%29%28EC%29%20DTS-HD%20MA%207.1.jpg)
 
 ## DTS-HD MA 7.1
 
@@ -22,5 +22,5 @@ The ultimate X-Men ensemble fights a war for the survival of the species across 
 
 [TMDB](127585)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X-Men%20Days%20of%20Future%20Past%20%282014%29%28TC%29%20DTS-HD%20MA%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X/X-Men%20Days%20of%20Future%20Past%20%282014%29%28TC%29%20DTS-HD%20MA%207.1.jpg)
 

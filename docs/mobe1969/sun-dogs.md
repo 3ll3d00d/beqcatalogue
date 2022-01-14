@@ -8,5 +8,5 @@ A man eager to serve his country but rejected by the Marines pairs up with a you
 
 [TMDB](403068)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sun%20Dogs%20%282017%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sun%20Dogs%20%282017%29%20DD%2B%205.1.jpg)
 

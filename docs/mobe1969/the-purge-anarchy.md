@@ -8,5 +8,5 @@ One night per year, the government sanctions a 12-hour period in which citizens 
 
 [TMDB](238636)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Purge%20Anarchy%20%282014%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Purge%20Anarchy%20%282014%29%20DTS-X.jpg)
 

@@ -8,5 +8,5 @@ Jamie returns to his hometown in search of answers to his wife's murder, which o
 
 [TMDB](14001)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20Silence%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dead%20Silence%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

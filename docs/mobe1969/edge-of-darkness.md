@@ -8,5 +8,5 @@ As a seasoned homicide detective, Thomas Craven has seen the bleakest side of hu
 
 [TMDB](12201)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Edge%20of%20Darkness%20%282010%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Edge%20of%20Darkness%20%282010%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ A sorority moves in next door to the home of Mac and Kelly Radner who have a you
 
 [TMDB](325133)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Neighbors%202%20Sorority%20Rising%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Neighbors%202%20Sorority%20Rising%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

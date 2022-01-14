@@ -8,5 +8,5 @@ Upon discovering that his estranged twin brother Lok has died, Joe's investigati
 
 [TMDB](74274)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Born%20Wild%20%282001%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Born%20Wild%20%282001%29%28Ca%29%20TrueHD%207.1.jpg)
 

@@ -8,5 +8,5 @@ Thomas and Thomas are going through a rough patch: they are both thirty-somethin
 
 [TMDB](396920)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Journey%20to%20Greenland%20%282016%29%28Fr%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Journey%20to%20Greenland%20%282016%29%28Fr%29%20DD%2B%205.1.jpg)
 

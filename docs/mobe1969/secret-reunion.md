@@ -8,5 +8,5 @@ Six years ago a mysterious shooting takes place in Seoul. The after effects of t
 
 [TMDB](50090)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Secret%20Reunion%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Secret%20Reunion%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

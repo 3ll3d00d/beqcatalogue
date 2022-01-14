@@ -8,5 +8,5 @@ Shishio has set sail in his ironclad ship to bring down the Meiji government and
 
 [TMDB](221732)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rurouni%20Kenshin%20Part%20III%20The%20Legend%20Ends%20%282014%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rurouni%20Kenshin%20Part%20III%20The%20Legend%20Ends%20%282014%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

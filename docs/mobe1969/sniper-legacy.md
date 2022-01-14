@@ -8,5 +8,5 @@ After several military leaders are assassinated, Brandon hears his father was on
 
 [TMDB](290729)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sniper%20Legacy%20%282014%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sniper%20Legacy%20%282014%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ Terrence McDonagh is a New Orleans Police sergeant, who recieves a medal and a p
 
 [TMDB](11699)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bad%20Lieutenant%20Port%20of%20Call%20New%20Orleans%20%282009%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bad%20Lieutenant%20Port%20of%20Call%20New%20Orleans%20%282009%29%20TrueHD%205.1.jpg)
 

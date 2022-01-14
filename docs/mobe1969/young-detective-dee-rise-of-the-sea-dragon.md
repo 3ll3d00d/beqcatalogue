@@ -8,5 +8,5 @@ The action-packed and captivating tale of Dee Renjie's beginnings in the Imperia
 
 [TMDB](217923)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Young%20Detective%20Dee%20Rise%20of%20the%20Sea%20Dragon%20%282013%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Y/Young%20Detective%20Dee%20Rise%20of%20the%20Sea%20Dragon%20%282013%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
 

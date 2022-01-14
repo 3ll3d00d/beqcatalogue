@@ -8,5 +8,5 @@ A "gangster noir" set in the 1970s, when Gangnam, Seoul goes under development. 
 
 [TMDB](297721)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gangnam%20Blues%20%282015%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gangnam%20Blues%20%282015%29%28Ko%29%20TrueHD%205.1.jpg)
 

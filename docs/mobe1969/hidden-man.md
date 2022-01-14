@@ -8,5 +8,5 @@ A martial arts-infused spy thriller set in 1937 Beijing. A time when China was l
 
 [TMDB](503235)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hidden%20Man%20%282018%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hidden%20Man%20%282018%29%28Ma%29%20TrueHD%205.1.jpg)
 

@@ -8,7 +8,7 @@ In 2199, five years after the Gamilons began an invasion of Earth, the planet ha
 
 [TMDB](61984)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Space%20Battleship%20Yamato%20%282010%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Space%20Battleship%20Yamato%20%282010%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 
 ## LPCM 5.1
 
@@ -18,5 +18,5 @@ In 2199, five years after the Gamilons began an invasion of Earth, the planet ha
 
 [TMDB](61984)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Space%20Battleship%20Yamato%20%282010%29%28Ja%29%20LPCM%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Space%20Battleship%20Yamato%20%282010%29%28Ja%29%20LPCM%205.1.jpg)
 

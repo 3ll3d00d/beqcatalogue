@@ -8,5 +8,5 @@ In 1993, the Search for Extra Terrestrial Intelligence Project receives a transm
 
 [TMDB](9348)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Species%20%281995%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Species%20%281995%29%20DTS-HD%20MA%205.1.jpg)
 

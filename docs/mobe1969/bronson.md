@@ -8,5 +8,5 @@ A young man who was sentenced to 7 years in prison for robbing a post office end
 
 [TMDB](18533)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bronson%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bronson%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

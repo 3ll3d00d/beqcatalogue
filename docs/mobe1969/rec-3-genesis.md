@@ -8,5 +8,5 @@ A pair of newlyweds must fight to survive when their wedding reception descends 
 
 [TMDB](80280)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rec%203%20Genesis%20%282012%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rec%203%20Genesis%20%282012%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A monk turned body-builder, with the gift to see into people's lives, befriends 
 
 [TMDB](32233)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Running%20on%20Karma%20%282003%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Running%20on%20Karma%20%282003%29%28Ca%29%20TrueHD%207.1.jpg)
 

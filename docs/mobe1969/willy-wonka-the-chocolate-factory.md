@@ -8,7 +8,7 @@ When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a 
 
 [TMDB](252)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Willy%20Wonka%20%26%20The%20Chocolate%20Factory%20%281971%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Willy%20Wonka%20%26%20The%20Chocolate%20Factory%20%281971%29%20DTS-HD%20MA%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a 
 
 [TMDB](252)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Willy%20Wonka%20%26%20The%20Chocolate%20Factory%20%281971%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Willy%20Wonka%20%26%20The%20Chocolate%20Factory%20%281971%29%20TrueHD%205.1.jpg)
 

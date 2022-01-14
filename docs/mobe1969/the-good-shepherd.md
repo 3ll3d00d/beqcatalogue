@@ -8,5 +8,5 @@ Edward Wilson, the only witness to his father's suicide and member of the Skull 
 
 [TMDB](1247)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Good%20Shepherd%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Good%20Shepherd%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

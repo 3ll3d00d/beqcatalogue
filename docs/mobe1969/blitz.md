@@ -8,5 +8,5 @@ A tough cop is dispatched to take down a serial killer who has been targeting po
 
 [TMDB](55846)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blitz%20%282011%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blitz%20%282011%29%20TrueHD%205.1.jpg)
 

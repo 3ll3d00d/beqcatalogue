@@ -8,5 +8,5 @@ Russian army recruits complete training and take their posting in late 1980s Afg
 
 [TMDB](14097)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/9th%20Company%20%282005%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/9th%20Company%20%282005%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)
 

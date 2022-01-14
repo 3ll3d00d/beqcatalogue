@@ -8,5 +8,5 @@ In an attempt to free himself from a state of forgotten limbo, evil dream-demon 
 
 [TMDB](6466)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Freddy%20vs%20Jason%20%282003%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Freddy%20vs%20Jason%20%282003%29%20TrueHD%205.1.jpg)
 

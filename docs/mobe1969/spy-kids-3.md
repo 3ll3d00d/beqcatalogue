@@ -8,5 +8,5 @@ Carmen's caught in a virtual reality game designed by the Kids' new nemesis, the
 
 [TMDB](12279)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Spy%20Kids%203%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spy%20Kids%203%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 

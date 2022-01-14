@@ -8,5 +8,5 @@ A dramatic thriller based on the incredible true David vs. Goliath story of Amer
 
 [TMDB](321741)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Concussion%20%282015%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Concussion%20%282015%29%20Atmos.jpg)
 

@@ -8,5 +8,5 @@ With his wife's disappearance having become the focus of an intense media circus
 
 [TMDB](210577)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gone%20Girl%20%282014%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gone%20Girl%20%282014%29%20DTS-HD%20MA%207.1.jpg)
 

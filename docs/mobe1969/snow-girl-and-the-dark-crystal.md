@@ -8,5 +8,5 @@ The story of Chinese legendary anti-hero Zhong Kui, a young man endowed with mys
 
 [TMDB](299822)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Snow%20Girl%20and%20the%20Dark%20Crystal%20%282015%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Snow%20Girl%20and%20the%20Dark%20Crystal%20%282015%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ In 1969, artist Alan Parker while studying at the University of Maine, becomes o
 
 [TMDB](12483)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Riding%20the%20Bullet%20%282004%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Riding%20the%20Bullet%20%282004%29%20AC3%205.1.jpg)
 

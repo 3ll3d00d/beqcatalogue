@@ -8,5 +8,5 @@ Charley Brewster, a high school student, accidentally discovers the true and cre
 
 [TMDB](11797)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fright%20Night%20%281985%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fright%20Night%20%281985%29%20DTS-HD%20MA%205.1.jpg)
 

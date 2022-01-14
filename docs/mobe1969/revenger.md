@@ -8,5 +8,5 @@ Hell-bent on avenging the murder of his family, a former detective infiltrates a
 
 [TMDB](557968)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Revenger%20%282018%29%28Ko%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Revenger%20%282018%29%28Ko%29%20DD%2B%205.1.jpg)
 

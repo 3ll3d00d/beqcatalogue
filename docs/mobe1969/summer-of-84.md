@@ -8,5 +8,5 @@ Summer is usually a time for fun and games, but some teens get much more danger 
 
 [TMDB](470229)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Summer%20of%2084%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Summer%20of%2084%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

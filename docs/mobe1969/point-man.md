@@ -8,5 +8,5 @@ A trio of soldiers vow revenge on their platoon when they are left behind enemy 
 
 [TMDB](580431)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Point%20Man%20%282018%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Point%20Man%20%282018%29%20DD%2B%202.0.jpg)
 

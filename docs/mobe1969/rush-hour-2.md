@@ -8,5 +8,5 @@ It's vacation time for Carter as he finds himself alongside Lee in Hong Kong wis
 
 [TMDB](5175)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rush%20Hour%202%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rush%20Hour%202%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A writer stumbles upon a long-hidden secret when he agrees to help former Britis
 
 [TMDB](11439)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Ghost%20Writer%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Ghost%20Writer%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

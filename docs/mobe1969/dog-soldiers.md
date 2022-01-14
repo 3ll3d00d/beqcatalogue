@@ -8,5 +8,5 @@ A squad of British soldiers on training in the lonesome Scottish wilderness find
 
 [TMDB](11880)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dog%20Soldiers%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dog%20Soldiers%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

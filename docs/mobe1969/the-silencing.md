@@ -8,5 +8,5 @@ A reformed hunter becomes involved in a deadly game of cat and mouse when he and
 
 [TMDB](603119)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Silencing%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Silencing%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

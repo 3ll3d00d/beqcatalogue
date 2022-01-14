@@ -8,5 +8,5 @@ A young nurse is kidnapped by a group of violent teens who escape from a mental 
 
 [TMDB](300665)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Leatherface%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Leatherface%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

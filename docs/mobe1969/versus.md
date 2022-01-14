@@ -10,7 +10,7 @@ Set in the present where a group of ruthless gangsters, an unknown woman and an 
 
 [TMDB](5842)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Versus%20%282000%29%28TC%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Versus%20%282000%29%28TC%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 6.1
 
@@ -22,5 +22,5 @@ Set in the present where a group of ruthless gangsters, an unknown woman and an 
 
 [TMDB](5842)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Versus%20%282000%29%28EC%29%28Ja%29%20DTS-HD%20MA%206.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Versus%20%282000%29%28EC%29%28Ja%29%20DTS-HD%20MA%206.1.jpg)
 

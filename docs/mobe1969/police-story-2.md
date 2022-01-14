@@ -8,5 +8,5 @@ The Hong Kong super-cop must stop a group of blackmailing bombers at the same ti
 
 [TMDB](10753)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Police%20Story%202%20%281988%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Police%20Story%202%20%281988%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Throughout his life Edward Bloom has always been a man of big appetites, enormou
 
 [TMDB](587)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Big%20Fish%20%282003%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Big%20Fish%20%282003%29%20Atmos.jpg)
 

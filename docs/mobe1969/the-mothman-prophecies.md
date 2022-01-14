@@ -8,5 +8,5 @@ Reporter John Klein is plunged into a world of impossible terror and unthinkable
 
 [TMDB](2637)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Mothman%20Prophecies%20%282002%29%20DTS-HD%20HR%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Mothman%20Prophecies%20%282002%29%20DTS-HD%20HR%205.1.jpg)
 

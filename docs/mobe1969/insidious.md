@@ -8,5 +8,5 @@ A family discovers that dark spirits have invaded their home after their son ine
 
 [TMDB](49018)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Insidious%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Insidious%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

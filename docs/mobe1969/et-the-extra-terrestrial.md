@@ -8,5 +8,5 @@ After a gentle alien becomes stranded on Earth, the being is discovered and befr
 
 [TMDB](601)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E.T.%20the%20Extra-Terrestrial%20%281982%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/E.T.%20the%20Extra-Terrestrial%20%281982%29%20DTS-X.jpg)
 

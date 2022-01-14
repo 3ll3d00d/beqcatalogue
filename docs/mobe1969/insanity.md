@@ -8,5 +8,5 @@ Fan Kwok Sang's schizophrenic breakdown led to the accidental death of his wife 
 
 [TMDB](334930)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Insanity%20%282014%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Insanity%20%282014%29%28Ca%29%20TrueHD%205.1.jpg)
 

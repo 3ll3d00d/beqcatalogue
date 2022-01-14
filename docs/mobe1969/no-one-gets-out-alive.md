@@ -8,5 +8,5 @@ An immigrant in search of the American dream is forced to take a room in a board
 
 [TMDB](740925)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/No%20One%20Gets%20Out%20Alive%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/No%20One%20Gets%20Out%20Alive%20%282021%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ Two veteran New York City detectives work to identify the possible connection be
 
 [TMDB](13389)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Righteous%20Kill%20%282008%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Righteous%20Kill%20%282008%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ Set 18 months after movie "Library Wars." After the government's enactment of th
 
 [TMDB](363354)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Library%20Wars%20The%20Last%20Mission%20%282015%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Library%20Wars%20The%20Last%20Mission%20%282015%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

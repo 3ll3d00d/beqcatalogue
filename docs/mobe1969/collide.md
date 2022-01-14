@@ -8,5 +8,5 @@ An American backpacker gets involved with a ring of drug smugglers as their driv
 
 [TMDB](195590)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Collide%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Collide%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

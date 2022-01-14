@@ -8,5 +8,5 @@ When a strange signal pulsates through all cell phone networks worldwide, it sta
 
 [TMDB](168098)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cell%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cell%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

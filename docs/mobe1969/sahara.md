@@ -8,7 +8,7 @@ Scouring the ocean depths for treasure-laden shipwrecks is business as usual for
 
 [TMDB](7364)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sahara%20%282005%29%20DTS%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sahara%20%282005%29%20DTS%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ Scouring the ocean depths for treasure-laden shipwrecks is business as usual for
 
 [TMDB](7364)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sahara%20%282005%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sahara%20%282005%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Nikita, a former Russian Spetsnaz operative, is hired to neutralize the large pr
 
 [TMDB](651793)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Russian%20Raid%20%282020%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Russian%20Raid%20%282020%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)
 

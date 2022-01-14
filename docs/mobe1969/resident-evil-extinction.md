@@ -8,5 +8,5 @@ Years after the Racoon City catastrophe, survivors travel across the Nevada dese
 
 [TMDB](7737)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Resident%20Evil%20Extinction%20%282007%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Resident%20Evil%20Extinction%20%282007%29%20Atmos.jpg)
 

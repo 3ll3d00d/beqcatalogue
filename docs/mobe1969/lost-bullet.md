@@ -8,7 +8,7 @@ A small time delinquent, turned police mechanic for a go fast task force, is for
 
 [TMDB](706503)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lost%20Bullet%20%282020%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lost%20Bullet%20%282020%29%20DD%2B%205.1.jpg)
 
 ## DD+ 5.1
 
@@ -18,5 +18,5 @@ A small time delinquent, turned police mechanic for a go fast task force, is for
 
 [TMDB](706503)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lost%20Bullet%20%282020%29%28Fr%29%20DD%2B%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lost%20Bullet%20%282020%29%28Fr%29%20DD%2B%205.1.jpg)
 

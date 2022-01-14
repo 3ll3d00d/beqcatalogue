@@ -8,5 +8,5 @@ Former LAPD cop, Dakota Varley, enters a power boat race seeking the prize of $2
 
 [TMDB](48454)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Eliminator%20%282004%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Eliminator%20%282004%29%20DD%2B%202.0.jpg)
 

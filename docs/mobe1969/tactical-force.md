@@ -8,5 +8,5 @@ A training exercise for the LAPD SWAT Team goes terribly wrong when they find th
 
 [TMDB](70008)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tactical%20Force%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tactical%20Force%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A seeker named Dogen rescues Dhyana after her father is murdered by the evil Jar
 
 [TMDB](47364)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Metalstorm%20The%20Destruction%20of%20Jared-Syn%20%281983%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Metalstorm%20The%20Destruction%20of%20Jared-Syn%20%281983%29%20DTS-HD%20MA%205.1.jpg)
 

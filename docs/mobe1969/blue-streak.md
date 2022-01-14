@@ -8,5 +8,5 @@ Miles Logan is a jewel thief who just hit the big time by stealing a huge diamon
 
 [TMDB](11001)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blue%20Streak%20%281999%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blue%20Streak%20%281999%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ After being hypnotized by his sister in law, Tom Witzky begins seeing haunting v
 
 [TMDB](11601)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stir%20of%20Echoes%20%281999%29%20DTS-HD%20HR%206.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stir%20of%20Echoes%20%281999%29%20DTS-HD%20HR%206.1.jpg)
 

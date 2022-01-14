@@ -8,5 +8,5 @@ A Detroit cop reluctantly teams with his girlfriend's 11-year-old son to clear h
 
 [TMDB](615177)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Coffee%20%26%20Kareem%20%282020%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Coffee%20%26%20Kareem%20%282020%29%20DD%2B%205.1.jpg)
 

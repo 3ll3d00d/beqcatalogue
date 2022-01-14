@@ -8,7 +8,7 @@ For centuries, a small but powerful force of warriors called the Green Lantern C
 
 [TMDB](44912)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Green%20Lantern%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Green%20Lantern%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -20,5 +20,5 @@ For centuries, a small but powerful force of warriors called the Green Lantern C
 
 [TMDB](44912)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Green%20Lantern%20%282011%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Green%20Lantern%20%282011%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
 

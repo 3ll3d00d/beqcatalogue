@@ -8,5 +8,5 @@ An innocent man sentenced to rot in a Cambodian jail is released for the sadisti
 
 [TMDB](545572)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Prey%20%282018%29%28Ma%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Prey%20%282018%29%28Ma%29%20DD%2B%202.0.jpg)
 

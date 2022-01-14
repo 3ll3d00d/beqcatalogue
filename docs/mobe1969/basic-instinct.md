@@ -8,5 +8,5 @@ A violent police detective investigates a brutal murder that might involve a man
 
 [TMDB](402)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Basic%20Instinct%20%281992%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Basic%20Instinct%20%281992%29%20DTS-HD%20MA%205.1.jpg)
 

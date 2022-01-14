@@ -8,5 +8,5 @@ In the fourth installment of the fighting franchise, Boyka is shooting for the b
 
 [TMDB](348893)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Boyka%20Undisputed%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Boyka%20Undisputed%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

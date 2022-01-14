@@ -8,5 +8,5 @@ A disgraced FBI agent with a drinking problem joins nine other troubled law enfo
 
 [TMDB](10375)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D-Tox%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/D-Tox%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

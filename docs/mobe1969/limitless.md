@@ -8,5 +8,5 @@ A paranoia-fueled action thriller about an unsuccessful writer whose life is tra
 
 [TMDB](51876)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Limitless%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Limitless%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

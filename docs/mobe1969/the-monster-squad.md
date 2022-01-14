@@ -8,5 +8,5 @@ Count Dracula adjourns to Earth, accompanied by Frankenstein's Monster, the Wolf
 
 [TMDB](13509)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Monster%20Squad%20%281987%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Monster%20Squad%20%281987%29%20DTS-HD%20MA%205.1.jpg)
 

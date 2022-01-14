@@ -8,5 +8,5 @@ Four friends become stranded in Eastern Europe and have to become hit men, prost
 
 [TMDB](190469)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Redirected%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Redirected%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

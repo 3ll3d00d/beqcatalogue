@@ -10,7 +10,7 @@ After he reunites with an old pal through Facebook, a mild-mannered accountant i
 
 [TMDB](302699)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Central%20Intelligence%20%282016%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Central%20Intelligence%20%282016%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -22,5 +22,5 @@ After he reunites with an old pal through Facebook, a mild-mannered accountant i
 
 [TMDB](302699)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Central%20Intelligence%20%282016%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Central%20Intelligence%20%282016%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
 

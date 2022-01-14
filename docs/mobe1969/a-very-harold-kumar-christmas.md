@@ -10,7 +10,7 @@ Six years have elapsed since Guantanamo Bay, leaving Harold and Kumar estranged 
 
 [TMDB](55465)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Very%20Harold%20%26%20Kumar%20Christmas%20%282011%29%28Extended%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Very%20Harold%20%26%20Kumar%20Christmas%20%282011%29%28Extended%29%20AC3%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -20,5 +20,5 @@ Six years have elapsed since Guantanamo Bay, leaving Harold and Kumar estranged 
 
 [TMDB](55465)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Very%20Harold%20%26%20Kumar%20Christmas%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Very%20Harold%20%26%20Kumar%20Christmas%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

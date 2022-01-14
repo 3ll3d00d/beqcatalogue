@@ -8,5 +8,5 @@ The war against the Bugs continues! A Federation Starship crash-lands on the dis
 
 [TMDB](11127)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Starship%20Troopers%203%20Marauder%20%282008%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Starship%20Troopers%203%20Marauder%20%282008%29%20TrueHD%205.1.jpg)
 

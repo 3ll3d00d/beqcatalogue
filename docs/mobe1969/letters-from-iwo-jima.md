@@ -8,5 +8,5 @@ The story of the battle of Iwo Jima between the United States and Imperial Japan
 
 [TMDB](1251)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Letters%20From%20Iwo%20Jima%20%282006%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Letters%20From%20Iwo%20Jima%20%282006%29%20TrueHD%205.1.jpg)
 

@@ -10,5 +10,5 @@ L.A. screenwriter David Sumner relocates with his wife, Amy, to her hometown in 
 
 [TMDB](64639)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Straw%20Dogs%20%282011%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Straw%20Dogs%20%282011%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ FBI Agent Karl Helter and his partner Rebecca Lombardo are very close to busting
 
 [TMDB](693113)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Midnight%20In%20The%20Switchgrass%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Midnight%20In%20The%20Switchgrass%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 

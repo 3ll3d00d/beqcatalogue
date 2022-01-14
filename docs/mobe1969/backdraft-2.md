@@ -8,5 +8,5 @@ Years after the original Backdraft, Sean, son of the late Steve "Bull" McCaffrey
 
 [TMDB](587808)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Backdraft%202%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Backdraft%202%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

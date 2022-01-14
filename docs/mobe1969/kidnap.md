@@ -10,7 +10,7 @@ De Blu Ray Version
 
 [TMDB](293768)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kidnap%20%282017%29%2891m16s%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kidnap%20%282017%29%2891m16s%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -22,7 +22,7 @@ Netherlands Blu Ray Version
 
 [TMDB](293768)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kidnap%20%282017%29%2895m13s%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kidnap%20%282017%29%2895m13s%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -34,5 +34,5 @@ US Version
 
 [TMDB](293768)
 
-![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kidnap%20%282017%29%28US%20Ver%29%20DTS-HD%20MA%205.1.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kidnap%20%282017%29%28US%20Ver%29%20DTS-HD%20MA%205.1.jpg)
 

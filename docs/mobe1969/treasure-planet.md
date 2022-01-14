@@ -8,5 +8,5 @@ When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic "lo
 
 [TMDB](9016)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Treasure%20Planet%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Treasure%20Planet%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

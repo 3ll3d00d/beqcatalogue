@@ -8,5 +8,5 @@ In 1979 Ohio, several youngsters are making a zombie movie with a Super-8 camera
 
 [TMDB](37686)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Super%208%20%282011%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Super%208%20%282011%29%20TrueHD%207.1.jpg)
 

@@ -8,5 +8,5 @@ An assassin is hired by a businessman to avenge the murder of his daughter by wh
 
 [TMDB](57585)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Elephant%20White%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Elephant%20White%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ During the reign of the Vikings, a man from another world crash-lands on Earth, 
 
 [TMDB](10529)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Outlander%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Outlander%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

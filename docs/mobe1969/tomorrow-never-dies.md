@@ -8,5 +8,5 @@ A deranged media mogul is staging international incidents to pit the world's sup
 
 [TMDB](714)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tomorrow%20Never%20Dies%20%281997%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tomorrow%20Never%20Dies%20%281997%29%20DTS-HD%20MA%205.1.jpg)
 

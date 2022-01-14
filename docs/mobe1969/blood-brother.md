@@ -8,5 +8,5 @@ Blood Brother takes place on he mean streets of a city in decay, where a recentl
 
 [TMDB](552858)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20Brother%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blood%20Brother%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

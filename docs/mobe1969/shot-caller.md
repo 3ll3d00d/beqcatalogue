@@ -8,5 +8,5 @@ A newly-released prison gangster is forced by the leaders of his gang to orchest
 
 [TMDB](339692)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shot%20Caller%20%282017%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shot%20Caller%20%282017%29%20TrueHD%205.1.jpg)
 

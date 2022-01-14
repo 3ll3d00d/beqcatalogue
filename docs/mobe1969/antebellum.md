@@ -8,5 +8,5 @@ Successful author Veronica finds herself trapped in a horrifying reality and mus
 
 [TMDB](627290)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Antebellum%20%282020%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Antebellum%20%282020%29%20Atmos.jpg)
 

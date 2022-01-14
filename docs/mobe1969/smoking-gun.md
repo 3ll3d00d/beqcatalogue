@@ -8,5 +8,5 @@ Oregon, a small town near the sea, around 1870. Henry, a grieving man who aspire
 
 [TMDB](414018)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Smoking%20Gun%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Smoking%20Gun%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

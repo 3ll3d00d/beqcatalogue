@@ -8,5 +8,5 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 
 [TMDB](497698)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Widow%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Black%20Widow%20%282021%29%20Atmos.jpg)
 

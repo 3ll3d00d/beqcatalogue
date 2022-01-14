@@ -8,5 +8,5 @@ Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a 
 
 [TMDB](76812)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Butterfly%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Black%20Butterfly%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

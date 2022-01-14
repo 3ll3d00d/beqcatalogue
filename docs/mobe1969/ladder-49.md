@@ -8,5 +8,5 @@ Under the watchful eye of his mentor, Captain Mike Kennedy, probationary firefig
 
 [TMDB](11128)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ladder%2049%20%282004%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Ladder%2049%20%282004%29%20LPCM%205.1.jpg)
 

@@ -8,5 +8,5 @@ When a super typhoon strikes the city of a million people, only the heroic mayor
 
 [TMDB](84163)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Super%20Typhoon%20%282008%29%28Ma%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Super%20Typhoon%20%282008%29%28Ma%29%20DTS-HD%20MA%202.0.jpg)
 

@@ -8,5 +8,5 @@ Keong comes from Hong Kong to visit New York for his uncle's wedding. His uncle 
 
 [TMDB](33542)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rumble%20in%20the%20Bronx%20%281995%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rumble%20in%20the%20Bronx%20%281995%29%20DTS-HD%20MA%205.1.jpg)
 

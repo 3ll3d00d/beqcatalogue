@@ -8,7 +8,7 @@ As U.S. troops storm the beaches of Normandy, three brothers lie dead on the bat
 
 [TMDB](857)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Saving%20Private%20Ryan%20%281998%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Saving%20Private%20Ryan%20%281998%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ As U.S. troops storm the beaches of Normandy, three brothers lie dead on the bat
 
 [TMDB](857)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Saving%20Private%20Ryan%20%281998%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Saving%20Private%20Ryan%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

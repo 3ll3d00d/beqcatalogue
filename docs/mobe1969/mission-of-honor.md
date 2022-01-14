@@ -8,5 +8,5 @@ In the midst of the Balkan wars, a squad of Navy SEALs attempts to unravel a lon
 
 [TMDB](335788)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mission%20of%20Honor%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mission%20of%20Honor%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

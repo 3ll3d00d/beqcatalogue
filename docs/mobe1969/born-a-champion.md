@@ -8,5 +8,5 @@ After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley fall
 
 [TMDB](766931)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Born%20a%20Champion%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Born%20a%20Champion%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 

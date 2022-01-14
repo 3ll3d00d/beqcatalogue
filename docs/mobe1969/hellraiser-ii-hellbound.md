@@ -8,5 +8,5 @@ Doctor Channard is sent a new patient, a girl warning of the terrible creatures 
 
 [TMDB](9064)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hellraiser%20II%20Hellbound%20%281988%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hellraiser%20II%20Hellbound%20%281988%29%20DTS-HD%20MA%205.1.jpg)
 

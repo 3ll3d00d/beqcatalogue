@@ -8,5 +8,5 @@ A man blinded in a childhood accident fights crime using his superhumanly-elevat
 
 [TMDB](9480)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Daredevil%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Daredevil%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 

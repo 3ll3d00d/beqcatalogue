@@ -8,5 +8,5 @@ When an old collaborator gets severely injured, a veteran policeman tries to fig
 
 [TMDB](346646)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Veteran%20%282015%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Veteran%20%282015%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

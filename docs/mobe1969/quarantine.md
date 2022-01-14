@@ -8,5 +8,5 @@ A television reporter and her cameraman are trapped inside a building quarantine
 
 [TMDB](13812)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Quarantine%20%282008%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Q/Quarantine%20%282008%29%20TrueHD%205.1.jpg)
 

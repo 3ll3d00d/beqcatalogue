@@ -8,5 +8,5 @@ Nacho Libre is loosely based on the story of Fray Tormenta ("Friar Storm"), aka 
 
 [TMDB](9353)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Nacho%20Libre%20%282006%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Nacho%20Libre%20%282006%29%20AC3%205.1.jpg)
 

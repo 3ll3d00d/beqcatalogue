@@ -8,5 +8,5 @@ On the day of the U.S. presidential election in 2024, a team of elite mercenarie
 
 [TMDB](557972)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Take%20Point%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Take%20Point%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

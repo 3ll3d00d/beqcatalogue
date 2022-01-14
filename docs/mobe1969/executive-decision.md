@@ -8,5 +8,5 @@ Terrorists hijack a 747 inbound to Washington D.C., demanding the release of the
 
 [TMDB](2320)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Executive%20Decision%20%281996%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Executive%20Decision%20%281996%29%20DTS-HD%20MA%205.1.jpg)
 

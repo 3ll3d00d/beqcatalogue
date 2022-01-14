@@ -8,5 +8,5 @@ Qing Feng is the top lieutenant under gang boss Yong. Three years ago, his good 
 
 [TMDB](377579)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gatao%20%282015%29%28Ma%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gatao%20%282015%29%28Ma%29%20DD%2B%205.1.jpg)
 

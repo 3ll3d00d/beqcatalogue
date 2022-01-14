@@ -8,5 +8,5 @@ When a young rape victim takes justice into her own hands and becomes a serial k
 
 [TMDB](10650)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sudden%20Impact%20%281983%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sudden%20Impact%20%281983%29%20TrueHD%205.1.jpg)
 

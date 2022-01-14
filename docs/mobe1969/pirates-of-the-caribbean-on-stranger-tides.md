@@ -8,5 +8,5 @@ Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure
 
 [TMDB](1865)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pirates%20of%20the%20Caribbean%20On%20Stranger%20Tides%20%282011%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pirates%20of%20the%20Caribbean%20On%20Stranger%20Tides%20%282011%29%20Atmos.jpg)
 

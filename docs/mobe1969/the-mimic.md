@@ -8,5 +8,5 @@ A story of the Jangsan Tiger, who mimics human voices to lure them close, and a 
 
 [TMDB](437108)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Mimic%20%282017%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Mimic%20%282017%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

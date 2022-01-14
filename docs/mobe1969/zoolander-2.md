@@ -8,5 +8,5 @@ Derek and Hansel are modelling again when an opposing company attempts to take t
 
 [TMDB](329833)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zoolander%202%20%282016%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zoolander%202%20%282016%29%20DTS-X.jpg)
 

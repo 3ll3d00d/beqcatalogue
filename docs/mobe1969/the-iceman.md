@@ -8,5 +8,5 @@ The true story of Richard Kuklinski, the notorious contract killer and family ma
 
 [TMDB](68812)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Iceman%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Iceman%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

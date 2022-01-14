@@ -8,5 +8,5 @@ When they take some friends on an extreme sport adventure, the last thing Jared 
 
 [TMDB](11968)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Into%20the%20Blue%20%282005%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Into%20the%20Blue%20%282005%29%20LPCM%205.1.jpg)
 

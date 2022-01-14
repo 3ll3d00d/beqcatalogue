@@ -8,5 +8,5 @@ In Beijing, a young martial artist's skill places him in position to experience 
 
 [TMDB](76544)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Man%20of%20Tai%20Chi%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Man%20of%20Tai%20Chi%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

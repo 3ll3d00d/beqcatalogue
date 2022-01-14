@@ -8,5 +8,5 @@ For Pablo Escobar family is everything. When young surfer Nick falls for Escobar
 
 [TMDB](255343)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Escobar%20Paradise%20Lost%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Escobar%20Paradise%20Lost%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

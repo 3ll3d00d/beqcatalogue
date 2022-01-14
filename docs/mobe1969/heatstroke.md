@@ -8,5 +8,5 @@ On a family trip in the African desert, a research scientist unintentionally tra
 
 [TMDB](278334)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Heatstroke%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Heatstroke%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ The story of a farmer forced into conscription, who has been looking to get out 
 
 [TMDB](35138)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Little%20Big%20Soldier%20%282010%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Little%20Big%20Soldier%20%282010%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

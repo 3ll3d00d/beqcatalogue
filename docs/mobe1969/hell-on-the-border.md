@@ -8,5 +8,5 @@ This epic, action-packed Western tells the incredible true story of Bass Reeves,
 
 [TMDB](576379)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hell%20on%20the%20Border%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hell%20on%20the%20Border%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Painted Skin is based on one of Pu Songling's classic short stories in Strange S
 
 [TMDB](17808)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Painted%20Skin%20%282008%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Painted%20Skin%20%282008%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

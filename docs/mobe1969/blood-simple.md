@@ -8,5 +8,5 @@ The owner of a seedy small-town Texas bar discovers that one of his employees is
 
 [TMDB](11368)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20Simple%20%281984%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blood%20Simple%20%281984%29%20DTS-HD%20MA%205.1.jpg)
 

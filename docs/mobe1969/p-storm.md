@@ -8,5 +8,5 @@ Liu Yue Ping reports to the ICAC about a rich 2G Cao Yuen Yuen who bribed office
 
 [TMDB](588073)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P%20Storm%20%282019%29%28Ca%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/P%20Storm%20%282019%29%28Ca%29%20Atmos.jpg)
 

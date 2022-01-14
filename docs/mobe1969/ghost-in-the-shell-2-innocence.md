@@ -8,7 +8,7 @@ Groundbreaking director Mamoru Oshii continues to push the boundaries of art and
 
 [TMDB](12140)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%202%20Innocence%20%282004%29%28Ja%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghost%20in%20the%20Shell%202%20Innocence%20%282004%29%28Ja%29%20DTS-X.jpg)
 
 ## TrueHD 6.1
 
@@ -18,5 +18,5 @@ Groundbreaking director Mamoru Oshii continues to push the boundaries of art and
 
 [TMDB](12140)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%202%20Innocence%20%282004%29%28Ja%29%20TrueHD%206.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghost%20in%20the%20Shell%202%20Innocence%20%282004%29%28Ja%29%20TrueHD%206.1.jpg)
 

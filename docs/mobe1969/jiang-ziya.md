@@ -8,5 +8,5 @@ Atop the ruins of war, top commander Jiang Ziya is given the task to banish the 
 
 [TMDB](635389)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jiang%20Ziya%20%282020%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jiang%20Ziya%20%282020%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Two doctors find their graveyard shift inundated with townspeople ravaged by sor
 
 [TMDB](1992)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Planet%20Terror%20%282007%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Planet%20Terror%20%282007%29%20TrueHD%205.1.jpg)
 

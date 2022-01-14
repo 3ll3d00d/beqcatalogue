@@ -8,5 +8,5 @@ When a contract killer discovers his latest set of targets have supernatural abi
 
 [TMDB](631985)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rogue%20Cell%20%282019%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rogue%20Cell%20%282019%29%20DD%2B%202.0.jpg)
 

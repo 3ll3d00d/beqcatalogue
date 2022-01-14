@@ -8,5 +8,5 @@ Set in the year 2019 in Japan. In order to crack down on free expression, a new 
 
 [TMDB](193502)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Library%20Wars%20%282013%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Library%20Wars%20%282013%29%28Ja%29%20TrueHD%205.1.jpg)
 

@@ -8,7 +8,7 @@ Straight from the creators of the groundbreaking Matrix trilogy, this collection
 
 [TMDB](55931)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Animatrix%20%282003%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Animatrix%20%282003%29%20TrueHD%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ Straight from the creators of the groundbreaking Matrix trilogy, this collection
 
 [TMDB](55931)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Animatrix%20%282003%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Animatrix%20%282003%29%28Ja%29%20TrueHD%205.1.jpg)
 

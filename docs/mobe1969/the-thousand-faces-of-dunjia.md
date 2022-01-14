@@ -8,5 +8,5 @@ The world is on the brink of catastrophe in a chaotic age where evil demons roam
 
 [TMDB](460557)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Thousand%20Faces%20of%20Dunjia%20%282017%29%28Ma%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Thousand%20Faces%20of%20Dunjia%20%282017%29%28Ma%29%20DTS-X.jpg)
 

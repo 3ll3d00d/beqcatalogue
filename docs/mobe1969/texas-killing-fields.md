@@ -8,5 +8,5 @@ In the Texas bayous, a local homicide detective teams up with a cop from New Yor
 
 [TMDB](72477)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Texas%20Killing%20Fields%20%282011%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Texas%20Killing%20Fields%20%282011%29%20TrueHD%207.1.jpg)
 

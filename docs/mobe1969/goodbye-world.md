@@ -8,5 +8,5 @@ When a mysterious cyber-attack cripples civilization, a group of old college fri
 
 [TMDB](201066)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Goodbye%20World%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Goodbye%20World%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

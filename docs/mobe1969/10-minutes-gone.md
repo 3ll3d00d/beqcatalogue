@@ -8,5 +8,5 @@ Crime boss Rex hires Frank and his crew to steal a priceless jewel stash - but t
 
 [TMDB](552865)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/10%20Minutes%20Gone%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/10%20Minutes%20Gone%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

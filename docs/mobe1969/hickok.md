@@ -8,5 +8,5 @@ Legendary Lawman and Gunslinger Wild Bill Hickok, is tasked with taming the wild
 
 [TMDB](455675)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hickok%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hickok%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

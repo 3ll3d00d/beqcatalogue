@@ -8,5 +8,5 @@ The year is 2030. Six months passed since the Laughing Man Incident was solved. 
 
 [TMDB](111224)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20in%20the%20Shell%20SAC%20Individual%20Eleven%20%282006%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghost%20in%20the%20Shell%20SAC%20Individual%20Eleven%20%282006%29%28Ja%29%20TrueHD%205.1.jpg)
 

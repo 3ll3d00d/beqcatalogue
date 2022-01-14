@@ -8,5 +8,5 @@ Lucretia is a killer for hire. Specialised in poisoning and passionate about ope
 
 [TMDB](68280)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Requiem%20for%20a%20Killer%20%282011%29%28Fr%29%20%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Requiem%20for%20a%20Killer%20%282011%29%28Fr%29%20%20TrueHD%205.1.jpg)
 

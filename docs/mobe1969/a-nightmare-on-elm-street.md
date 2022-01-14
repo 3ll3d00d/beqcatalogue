@@ -8,5 +8,5 @@ Teenagers in a small town are dropping like flies, apparently in the grip of mas
 
 [TMDB](377)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Nightmare%20on%20Elm%20Street%20%281984%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Nightmare%20on%20Elm%20Street%20%281984%29%20DTS-HD%20MA%207.1.jpg)
 

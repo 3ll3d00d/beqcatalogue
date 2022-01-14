@@ -8,5 +8,5 @@ Lee Shan and Ayo are ex-Interpol agents who are now bounty hunters, chasing fugi
 
 [TMDB](388764)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bounty%20Hunters%20%282016%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bounty%20Hunters%20%282016%29%28Ca%29%20TrueHD%205.1.jpg)
 

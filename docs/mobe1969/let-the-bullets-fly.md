@@ -8,5 +8,5 @@ Set in China during the Warlords Period of the 1920s, notorious bandit chief Zha
 
 [TMDB](51533)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Let%20the%20Bullets%20Fly%20%282010%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Let%20the%20Bullets%20Fly%20%282010%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

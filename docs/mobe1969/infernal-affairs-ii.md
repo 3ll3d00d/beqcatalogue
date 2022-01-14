@@ -8,5 +8,5 @@ In this prequel to Mou gaan dou (2002), Chan Wing Yan has just become an underco
 
 [TMDB](11647)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Infernal%20Affairs%20II%20%282003%29%28Ca%29%20DTS-HD%20MA%206.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Infernal%20Affairs%20II%20%282003%29%28Ca%29%20DTS-HD%20MA%206.1.jpg)
 

@@ -8,5 +8,5 @@ With Ran, legendary director Akira Kurosawa reimagines Shakespeare's King Lear a
 
 [TMDB](11645)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ran%20%281985%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Ran%20%281985%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

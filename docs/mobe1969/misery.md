@@ -8,5 +8,5 @@ Novelist Paul Sheldon crashes his car on a snowy Colorado road. He is found by A
 
 [TMDB](1700)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Misery%20%281990%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Misery%20%281990%29%20DTS-HD%20MA%205.1.jpg)
 

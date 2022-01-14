@@ -8,5 +8,5 @@ A distant Federation outpost Fort Casey comes under attack by bugs. The team on 
 
 [TMDB](114478)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Starship%20Troopers%20Invasion%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Starship%20Troopers%20Invasion%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

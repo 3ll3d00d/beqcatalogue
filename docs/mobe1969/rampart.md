@@ -8,5 +8,5 @@ Follows veteran police officer Dave Brown, the last of the renegade cops, as he 
 
 [TMDB](75622)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rampart%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rampart%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

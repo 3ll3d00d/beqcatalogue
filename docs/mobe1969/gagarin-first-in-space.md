@@ -8,5 +8,5 @@ The film is dedicated to the first steps of mankind on the path of space explora
 
 [TMDB](199327)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gagarin%20First%20in%20Space%20%282013%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gagarin%20First%20in%20Space%20%282013%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)
 

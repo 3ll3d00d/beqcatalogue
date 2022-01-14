@@ -8,5 +8,5 @@ Julia becomes worried about her boyfriend, Holt when he explores the dark urban 
 
 [TMDB](14564)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rings%20%282017%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rings%20%282017%29%20DTS-HD%20MA%207.1.jpg)
 

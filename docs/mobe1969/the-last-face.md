@@ -8,5 +8,5 @@ Miguel, a heroic Spanish doctor, puts himself in harm's way to deliver medical t
 
 [TMDB](287904)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Last%20Face%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Last%20Face%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

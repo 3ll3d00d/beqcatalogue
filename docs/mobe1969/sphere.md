@@ -8,5 +8,5 @@ The OSSA discovers a spacecraft thought to be at least 300 years old at the bott
 
 [TMDB](10153)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sphere%20%281998%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sphere%20%281998%29%20TrueHD%205.1.jpg)
 

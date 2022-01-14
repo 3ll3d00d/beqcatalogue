@@ -8,5 +8,5 @@ When Russia's first nuclear submarine malfunctions on its maiden voyage, the cre
 
 [TMDB](8665)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K-19%20The%20Widowmaker%20%282002%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/K-19%20The%20Widowmaker%20%282002%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ The world is on the verge of a devastating war with monsters who are coming to r
 
 [TMDB](758902)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Yin%20Yang%20Master%20%282021%29%28Ma%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Yin%20Yang%20Master%20%282021%29%28Ma%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ In a suburban town, a deadly monster lurks in the surrounding forest, killing al
 
 [TMDB](702691)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dragon%20Soldiers%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dragon%20Soldiers%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A race car driver tries to transport an illegal beer shipment from Texas to Atla
 
 [TMDB](11006)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Smokey%20and%20the%20Bandit%20%281977%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Smokey%20and%20the%20Bandit%20%281977%29%20DTS-HD%20MA%205.1.jpg)
 

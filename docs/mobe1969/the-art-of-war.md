@@ -8,5 +8,5 @@ When ruthless terrorists threaten to bring down the United Nations, they frame t
 
 [TMDB](11398)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Art%20of%20War%20%282000%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Art%20of%20War%20%282000%29%20DTS-HD%20MA%205.1.jpg)
 

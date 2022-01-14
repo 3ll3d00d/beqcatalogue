@@ -8,5 +8,5 @@ SIRIUS 6B, Year 2078. On a distant mining planet ravaged by a decade of war, sci
 
 [TMDB](9102)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Screamers%20%281995%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Screamers%20%281995%29%20AC3%205.1.jpg)
 

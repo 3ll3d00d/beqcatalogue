@@ -10,5 +10,5 @@ The story of the Arthurian legend, based on the 'Sarmatian hypothesis' which con
 
 [TMDB](9477)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/King%20Arthur%20%282004%29%28DC%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/King%20Arthur%20%282004%29%28DC%29%20LPCM%205.1.jpg)
 

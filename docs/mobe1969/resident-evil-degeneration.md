@@ -8,5 +8,5 @@ A zombie attack brings chaos to Harvardville Airport. Leon Kennedy and Claire Re
 
 [TMDB](13648)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Resident%20Evil%20Degeneration%20%282008%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Resident%20Evil%20Degeneration%20%282008%29%20TrueHD%205.1.jpg)
 

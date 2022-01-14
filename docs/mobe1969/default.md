@@ -8,5 +8,5 @@ Only one week left until South Korea will go under sovereign default. Han Shi-Hy
 
 [TMDB](554137)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Default%20%282018%29%28Ko%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Default%20%282018%29%28Ko%29%20TrueHD%207.1.jpg)
 

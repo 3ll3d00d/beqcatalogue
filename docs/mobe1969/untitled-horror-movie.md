@@ -8,5 +8,5 @@ Set on computer screens and found footage style content, the movie follows six a
 
 [TMDB](720407)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Untitled%20Horror%20Movie%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/U/Untitled%20Horror%20Movie%20%282021%29%20DD%2B%205.1.jpg)
 

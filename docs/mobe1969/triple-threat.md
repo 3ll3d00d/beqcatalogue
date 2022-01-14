@@ -8,7 +8,7 @@ A crime syndicate places a hit on a billionaire's daughter, making her the targe
 
 [TMDB](449985)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Triple%20Threat%20%282019%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Triple%20Threat%20%282019%29%20DD%2B%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ A crime syndicate places a hit on a billionaire's daughter, making her the targe
 
 [TMDB](449985)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Triple%20Threat%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Triple%20Threat%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A group of very different people set sail on an old warship. The passengers incl
 
 [TMDB](459267)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Human%2C%20Space%2C%20Time%20and%20Human%20%282018%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Human%2C%20Space%2C%20Time%20and%20Human%20%282018%29%28Ko%29%20TrueHD%205.1.jpg)
 

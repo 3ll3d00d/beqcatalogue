@@ -8,5 +8,5 @@ Former SWAT leader David Hendrix and hard-partying movie star Brody Walker must 
 
 [TMDB](356334)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gridlocked%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gridlocked%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

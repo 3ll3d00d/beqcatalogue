@@ -8,5 +8,5 @@ Jacq Vaucan, an insurance agent of ROC robotics corporation, routinely investiga
 
 [TMDB](262543)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Automata%20%282014%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Automata%20%282014%29%20TrueHD%205.1.jpg)
 

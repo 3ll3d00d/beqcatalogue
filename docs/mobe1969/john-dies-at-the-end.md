@@ -8,5 +8,5 @@ A new drug promises out-of-body experiences, but users are coming back changed f
 
 [TMDB](75761)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/John%20Dies%20at%20the%20End%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/John%20Dies%20at%20the%20End%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

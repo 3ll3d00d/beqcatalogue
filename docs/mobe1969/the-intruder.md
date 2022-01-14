@@ -8,5 +8,5 @@ A psychological thriller about a young married couple who buys a beautiful Napa 
 
 [TMDB](524247)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Intruder%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Intruder%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -12,5 +12,5 @@ This is actually Edge of Tomorrow AFTER 40 seconds...
 
 [TMDB](137113)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Edge%20of%20Tomorrow%20%282014%29%2840s%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Edge%20of%20Tomorrow%20%282014%29%2840s%29%20DTS-HD%20MA%205.1.jpg)
 

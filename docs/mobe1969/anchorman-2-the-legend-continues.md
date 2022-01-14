@@ -10,5 +10,5 @@ With the 70s behind him, San Diego's top rated newsman, Ron Burgundy, returns to
 
 [TMDB](109443)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Anchorman%202%20The%20Legend%20Continues%20%282013%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Anchorman%202%20The%20Legend%20Continues%20%282013%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ In 1905, revolutionist Sun Yat-Sen visits Hong Kong to discuss plans with Tongme
 
 [TMDB](30596)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bodyguards%20and%20Assassins%20%282009%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bodyguards%20and%20Assassins%20%282009%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

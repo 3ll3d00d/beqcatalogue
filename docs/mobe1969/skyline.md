@@ -8,5 +8,5 @@ When strange lights descend on the city of Los Angeles, people are drawn outside
 
 [TMDB](42684)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Skyline%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Skyline%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

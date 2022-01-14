@@ -8,5 +8,5 @@ When Bond's latest assignment goes gravely wrong and agents around the world are
 
 [TMDB](37724)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Skyfall%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Skyfall%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

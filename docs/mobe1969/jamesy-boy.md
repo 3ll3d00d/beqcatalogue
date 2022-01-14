@@ -8,5 +8,5 @@ Based on the true story of teenager James Burns who goes from a suburban street 
 
 [TMDB](233470)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jamesy%20Boy%20%282014%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jamesy%20Boy%20%282014%29%20DD%2B%205.1.jpg)
 

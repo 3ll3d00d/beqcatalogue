@@ -8,7 +8,7 @@ Henry, a newly resurrected cyborg who must save his wife/creator from the clutch
 
 [TMDB](325348)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hardcore%20Henry%20%282015%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hardcore%20Henry%20%282015%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ Henry, a newly resurrected cyborg who must save his wife/creator from the clutch
 
 [TMDB](325348)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hardcore%20Henry%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hardcore%20Henry%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

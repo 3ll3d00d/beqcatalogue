@@ -8,5 +8,5 @@ Sent to live with his estranged father for the summer, a rebellious teen finds k
 
 [TMDB](621954)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Concrete%20Cowboy%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Concrete%20Cowboy%20%282021%29%20DD%2B%205.1.jpg)
 

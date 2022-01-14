@@ -8,5 +8,5 @@ Zombie Hunter is set in a post-apocalyptic Zombie wasteland caused by the myster
 
 [TMDB](206213)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zombie%20Hunter%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zombie%20Hunter%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

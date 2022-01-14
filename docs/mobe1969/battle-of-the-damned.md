@@ -8,5 +8,5 @@ Following a deadly viral outbreak, private military soldier Max Gatling leads a 
 
 [TMDB](185471)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Battle%20of%20the%20Damned%20%282013%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Battle%20of%20the%20Damned%20%282013%29%20TrueHD%205.1.jpg)
 

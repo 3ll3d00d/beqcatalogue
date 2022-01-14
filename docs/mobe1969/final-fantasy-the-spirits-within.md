@@ -8,7 +8,7 @@ Led by a strange dream, scientist Aki Ross struggles to collect the eight spirit
 
 [TMDB](2114)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Final%20Fantasy%20The%20Spirits%20Within%20%282001%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Final%20Fantasy%20The%20Spirits%20Within%20%282001%29%20Atmos.jpg)
 
 ## LPCM 5.1
 
@@ -18,5 +18,5 @@ Led by a strange dream, scientist Aki Ross struggles to collect the eight spirit
 
 [TMDB](2114)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Final%20Fantasy%20The%20Spirits%20Within%20%282001%29%20LPCM%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Final%20Fantasy%20The%20Spirits%20Within%20%282001%29%20LPCM%205.1.jpg)
 

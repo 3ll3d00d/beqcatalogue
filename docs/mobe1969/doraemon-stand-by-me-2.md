@@ -8,5 +8,5 @@ She and her beloved Shizuka are finally married! Nobita's childhood dream was su
 
 [TMDB](728754)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Doraemon%20Stand%20By%20Me%202%20%282020%29%28Ja%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Doraemon%20Stand%20By%20Me%202%20%282020%29%28Ja%29%20DD%2B%205.1.jpg)
 

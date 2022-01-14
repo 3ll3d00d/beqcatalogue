@@ -8,7 +8,7 @@ When the White House (Secret Service Code: "Olympus") is captured by a terrorist
 
 [TMDB](117263)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Olympus%20Has%20Fallen%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Olympus%20Has%20Fallen%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 
 ## TrueHD 7.1
 
@@ -18,5 +18,5 @@ When the White House (Secret Service Code: "Olympus") is captured by a terrorist
 
 [TMDB](117263)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Olympus%20Has%20Fallen%20%282013%29%20TrueHD%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Olympus%20Has%20Fallen%20%282013%29%20TrueHD%207.1.jpg)
 

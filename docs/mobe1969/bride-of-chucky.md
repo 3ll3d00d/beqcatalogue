@@ -8,5 +8,5 @@ Chucky hooks up with another murderous doll, the bridal gown-clad Tiffany, for a
 
 [TMDB](11932)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bride%20of%20Chucky%20%281998%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bride%20of%20Chucky%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

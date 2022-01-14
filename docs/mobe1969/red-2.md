@@ -8,5 +8,5 @@ Retired C.I.A. agent Frank Moses reunites his unlikely team of elite operatives 
 
 [TMDB](146216)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/RED%202%20%282013%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/RED%202%20%282013%29%20Atmos.jpg)
 

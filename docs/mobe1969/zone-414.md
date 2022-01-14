@@ -8,5 +8,5 @@ In the near future on a colony of state-of-the-art robots, a private investigato
 
 [TMDB](675319)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zone%20414%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zone%20414%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 

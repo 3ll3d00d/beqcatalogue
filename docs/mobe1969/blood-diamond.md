@@ -8,7 +8,7 @@ An ex-mercenary turned smuggler. A Mende fisherman. Amid the explosive civil war
 
 [TMDB](1372)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20Diamond%20%282006%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blood%20Diamond%20%282006%29%20LPCM%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ An ex-mercenary turned smuggler. A Mende fisherman. Amid the explosive civil war
 
 [TMDB](1372)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20Diamond%20%282006%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blood%20Diamond%20%282006%29%20TrueHD%205.1.jpg)
 

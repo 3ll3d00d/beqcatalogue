@@ -8,5 +8,5 @@ A police detective must solve a brutal murder to prove his partner's innocence a
 
 [TMDB](38264)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fire%20of%20Conscience%20%282010%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fire%20of%20Conscience%20%282010%29%28Ca%29%20TrueHD%207.1.jpg)
 

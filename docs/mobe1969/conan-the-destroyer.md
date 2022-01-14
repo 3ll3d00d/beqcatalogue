@@ -8,5 +8,5 @@ Conan is commissioned by the evil queen Taramis to safely escort a teen princess
 
 [TMDB](9610)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Conan%20the%20Destroyer%20%281984%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Conan%20the%20Destroyer%20%281984%29%20DTS-HD%20MA%205.1.jpg)
 

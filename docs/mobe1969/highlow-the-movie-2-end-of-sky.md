@@ -8,5 +8,5 @@ Members of SWORD win against Wangan Rengogun, which is led by Kohaku (Akira). Th
 
 [TMDB](508822)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/HiGH%26LOW%20The%20Movie%202%20End%20of%20Sky%20%282017%29%28Ja%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/HiGH%26LOW%20The%20Movie%202%20End%20of%20Sky%20%282017%29%28Ja%29%20DD%2B%205.1.jpg)
 

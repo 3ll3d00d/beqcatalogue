@@ -8,7 +8,7 @@ A disease carried by common cockroaches is killing Manhattan children. In an eff
 
 [TMDB](4961)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mimic%20%281997%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mimic%20%281997%29%20DTS-HD%20MA%207.1.jpg)
 
 ## DTS-HD MA 7.1
 
@@ -18,5 +18,5 @@ A disease carried by common cockroaches is killing Manhattan children. In an eff
 
 [TMDB](4961)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mimic%20%281997%29%28Directors%20Cut%29%20DTS-HD%20MA%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mimic%20%281997%29%28Directors%20Cut%29%20DTS-HD%20MA%207.1.jpg)
 

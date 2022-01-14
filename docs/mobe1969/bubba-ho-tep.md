@@ -8,5 +8,5 @@ Bubba Ho-tep tells the "true" story of what really did become of Elvis Presley. 
 
 [TMDB](9707)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bubba%20Ho-Tep%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bubba%20Ho-Tep%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

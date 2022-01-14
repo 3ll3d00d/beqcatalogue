@@ -8,5 +8,5 @@ An eccentric but faithful mafia, Chi-sung is sent to prison for his part in a ga
 
 [TMDB](55765)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Righteous%20Ties%20%282006%29%28Ko%29%20DTS%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Righteous%20Ties%20%282006%29%28Ko%29%20DTS%205.1.jpg)
 

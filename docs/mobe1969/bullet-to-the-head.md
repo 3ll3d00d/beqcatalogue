@@ -8,5 +8,5 @@ After watching their respective partners die, a cop and a hitman form an allianc
 
 [TMDB](70074)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bullet%20to%20the%20Head%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bullet%20to%20the%20Head%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

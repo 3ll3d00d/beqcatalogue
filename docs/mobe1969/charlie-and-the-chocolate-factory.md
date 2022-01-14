@@ -8,5 +8,5 @@ A young boy wins a tour through the most magnificent chocolate factory in the wo
 
 [TMDB](118)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Charlie%20and%20the%20Chocolate%20Factory%20%282005%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Charlie%20and%20the%20Chocolate%20Factory%20%282005%29%20TrueHD%205.1.jpg)
 

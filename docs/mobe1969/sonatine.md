@@ -8,5 +8,5 @@ Kitano plays Murakawa, a Tokyo yakuza tiring of gangster life. Along with a few 
 
 [TMDB](7500)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sonatine%20%281993%29%28Ja%29%20LPCM%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sonatine%20%281993%29%28Ja%29%20LPCM%202.0.jpg)
 

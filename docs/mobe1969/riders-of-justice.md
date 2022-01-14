@@ -8,5 +8,5 @@ Markus, a deployed military man, has to go home to his teenage daughter, Mathild
 
 [TMDB](663870)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Riders%20of%20Justice%20%282020%29%28Da%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Riders%20of%20Justice%20%282020%29%28Da%29%20DTS-HD%20MA%205.1.jpg)
 

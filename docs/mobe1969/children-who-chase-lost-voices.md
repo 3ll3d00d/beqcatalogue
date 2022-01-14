@@ -8,5 +8,5 @@ The film centers on Asuna, a young girl who spends her solitary days listening t
 
 [TMDB](79707)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Children%20Who%20Chase%20Lost%20Voices%20%282011%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Children%20Who%20Chase%20Lost%20Voices%20%282011%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

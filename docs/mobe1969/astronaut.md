@@ -8,5 +8,5 @@ A lonely widower battles his family, ill health and time to win a competition fo
 
 [TMDB](605801)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Astronaut%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Astronaut%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

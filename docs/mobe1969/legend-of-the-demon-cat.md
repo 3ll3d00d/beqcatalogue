@@ -8,5 +8,5 @@ During the Late Tang Dynasty, a manor is invaded by a demon cat and a sense of u
 
 [TMDB](434221)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Legend%20of%20the%20Demon%20Cat%20%282018%29%28Ma%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Legend%20of%20the%20Demon%20Cat%20%282018%29%28Ma%29%20Atmos.jpg)
 

@@ -8,5 +8,5 @@ A documentary crew follows an elite unit of soldiers in the wake of an alien inv
 
 [TMDB](312526)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Alien%20Outpost%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Alien%20Outpost%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

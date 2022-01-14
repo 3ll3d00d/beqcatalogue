@@ -8,5 +8,5 @@ A man enclosed in a plastic bubble, his sister, and their best friend must defen
 
 [TMDB](33005)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mimic%20Sentinel%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mimic%20Sentinel%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 

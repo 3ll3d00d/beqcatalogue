@@ -8,5 +8,5 @@ A young man Kentaro Saeki keeps failing his bar test and does not know what to d
 
 [TMDB](248087)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Eternal%20Zero%20%282013%29%28Ja%29%20DTS-HD%20MA%206.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Eternal%20Zero%20%282013%29%28Ja%29%20DTS-HD%20MA%206.1.jpg)
 

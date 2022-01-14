@@ -8,5 +8,5 @@ A gang of cold-blooded outlaws narrowly escapes a blood-soaked bank robbery in a
 
 [TMDB](376501)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Outlaws%20and%20Angels%20%282016%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Outlaws%20and%20Angels%20%282016%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ After Homer accidentally pollutes the town's water supply, Springfield is encase
 
 [TMDB](35)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Simpsons%20Movie%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Simpsons%20Movie%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

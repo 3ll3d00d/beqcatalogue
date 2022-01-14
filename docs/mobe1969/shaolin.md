@@ -8,5 +8,5 @@ China is plunged into strife as feuding warlords try to expand their power by wa
 
 [TMDB](55292)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shaolin%20%282011%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shaolin%20%282011%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
 

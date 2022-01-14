@@ -8,5 +8,5 @@ After the Cuban Revolution, Che is at the height of his fame and power. Then he 
 
 [TMDB](8880)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Che%20Part%20Two%20%282008%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Che%20Part%20Two%20%282008%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
 

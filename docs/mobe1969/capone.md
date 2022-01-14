@@ -8,5 +8,5 @@ The 47-year old Al Capone, after 10 years in prison, starts suffering from demen
 
 [TMDB](429422)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Capone%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Capone%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

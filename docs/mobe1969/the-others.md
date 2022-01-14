@@ -8,5 +8,5 @@ Grace is a religious woman who lives in an old house kept dark because her two c
 
 [TMDB](1933)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Others%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Others%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

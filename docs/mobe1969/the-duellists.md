@@ -8,5 +8,5 @@ In 1800, as Napoleon Bonaparte rises to power in France, a rivalry erupts betwee
 
 [TMDB](19067)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Duellists%20%281977%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Duellists%20%281977%29%20DTS-HD%20MA%205.1.jpg)
 

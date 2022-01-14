@@ -8,5 +8,5 @@ Former Colonel Fernandez is appointed Minister of the National Anti-Drug Agency 
 
 [TMDB](540871)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Leal%20%282018%29%28Es%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Leal%20%282018%29%28Es%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ A parasitic alien soul is injected into the body of Melanie Stryder. Instead of 
 
 [TMDB](72710)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Host%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Host%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

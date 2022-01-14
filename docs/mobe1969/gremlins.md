@@ -8,5 +8,5 @@ When Billy Peltzer is given a strange but adorable pet named Gizmo for Christmas
 
 [TMDB](927)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gremlins%20%281984%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gremlins%20%281984%29%20TrueHD%205.1.jpg)
 

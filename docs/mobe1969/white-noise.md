@@ -8,5 +8,5 @@ An architect's desire to speak with his wife from beyond the grave using EVP (El
 
 [TMDB](11804)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/White%20Noise%20%282005%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/White%20Noise%20%282005%29%20DTS-HD%20MA%205.1.jpg)
 

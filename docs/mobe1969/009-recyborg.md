@@ -8,5 +8,5 @@
 
 [TMDB](127544)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/009%20Re%20Cyborg%20%282012%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/009%20Re%20Cyborg%20%282012%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

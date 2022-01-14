@@ -8,5 +8,5 @@ Vietnam War, 1966. Australia and New Zealand send troops to support the United S
 
 [TMDB](508664)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Danger%20Close%20The%20Battle%20of%20Long%20Tan%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Danger%20Close%20The%20Battle%20of%20Long%20Tan%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

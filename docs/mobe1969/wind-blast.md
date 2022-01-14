@@ -8,5 +8,5 @@ Inspired from a true story, Hitman Zhang Ning gets more than he bargained for wh
 
 [TMDB](50005)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wind%20Blast%20%282010%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wind%20Blast%20%282010%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
 

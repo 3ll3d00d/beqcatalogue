@@ -8,5 +8,5 @@ Shamoto runs a small tropical fish shop. When his daughter Mitsuko is caught sho
 
 [TMDB](68341)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cold%20Fish%20%282010%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cold%20Fish%20%282010%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

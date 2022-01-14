@@ -8,5 +8,5 @@ To test its top-secret Human Hibernation Project, the Pentagon picks the most av
 
 [TMDB](7512)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Idiocracy%20%282006%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Idiocracy%20%282006%29%20AC3%205.1.jpg)
 

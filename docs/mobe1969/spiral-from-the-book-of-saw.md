@@ -4,11 +4,11 @@
 
 **2021 • R • 1h 33m • Horror, Thriller, Mystery • mobe1969**
 
-Working in the shadow of an esteemed police veteran, brash Detective Ezekiel â€œZekeâ€ Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the cityâ€™s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killerâ€™s morbid game.
+Working in the shadow of an esteemed police veteran, brash Detective Ezekiel Ã¢â‚¬Å“ZekeÃ¢â‚¬Â Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the cityÃ¢â‚¬â„¢s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killerÃ¢â‚¬â„¢s morbid game.
 
 [TMDB](602734)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Spiral%20From%20the%20Book%20of%20Saw%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spiral%20From%20the%20Book%20of%20Saw%20%282021%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 

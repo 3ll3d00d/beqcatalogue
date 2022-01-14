@@ -8,5 +8,5 @@ In the film that launched the James Bond saga, Agent 007 battles mysterious Dr. 
 
 [TMDB](646)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dr.%20No%20%281962%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dr.%20No%20%281962%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Copenhagen, Denmark, 1951. Criminal investigator Anders Olsen follows the case o
 
 [TMDB](480531)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Murderous%20Trance%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Murderous%20Trance%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

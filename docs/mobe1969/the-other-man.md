@@ -8,5 +8,5 @@ The story of a husband who suspects his wife of adultery, and sets out to track 
 
 [TMDB](17606)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Other%20Man%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Other%20Man%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

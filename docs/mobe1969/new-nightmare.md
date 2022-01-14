@@ -8,5 +8,5 @@ As Heather Langenkamp considers making another Nightmare on Elm Street film with
 
 [TMDB](11596)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/New%20Nightmare%20%281994%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/New%20Nightmare%20%281994%29%20DTS-HD%20MA%205.1.jpg)
 

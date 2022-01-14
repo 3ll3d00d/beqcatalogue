@@ -8,5 +8,5 @@ After their father is called into work, two young boys, Walter and Danny, are le
 
 [TMDB](6795)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zathura%20A%20Space%20Adventure%20%282005%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zathura%20A%20Space%20Adventure%20%282005%29%20DTS-HD%20MA%205.1.jpg)
 

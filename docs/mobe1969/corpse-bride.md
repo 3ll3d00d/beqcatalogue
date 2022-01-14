@@ -8,5 +8,5 @@ Set in a 19th-century european village, this stop-motion animation feature follo
 
 [TMDB](3933)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Corpse%20Bride%20%282005%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Corpse%20Bride%20%282005%29%20DTS-HD%20MA%205.1.jpg)
 

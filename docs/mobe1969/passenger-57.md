@@ -8,5 +8,5 @@ An infamous terrorist has evaded capture for a long time by being extremely clev
 
 [TMDB](10538)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Passenger%2057%20%281992%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Passenger%2057%20%281992%29%20DTS-HD%20MA%205.1.jpg)
 

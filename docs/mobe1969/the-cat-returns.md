@@ -8,5 +8,5 @@ Haru, a schoolgirl bored by her ordinary routine, saves the life of an unusual c
 
 [TMDB](15370)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Cat%20Returns%20%282002%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Cat%20Returns%20%282002%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

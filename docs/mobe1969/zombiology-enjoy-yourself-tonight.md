@@ -8,5 +8,5 @@ Two slackers put on their superhero suits to save Hong Kong from a zombie invasi
 
 [TMDB](455650)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zombiology%20Enjoy%20Yourself%20Tonight%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zombiology%20Enjoy%20Yourself%20Tonight%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
 

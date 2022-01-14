@@ -8,5 +8,5 @@ After fighting his way through an apartment building populated by an army of dan
 
 [TMDB](180299)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Raid%202%20%282014%29%28In%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Raid%202%20%282014%29%28In%29%20DTS-HD%20MA%205.1.jpg)
 

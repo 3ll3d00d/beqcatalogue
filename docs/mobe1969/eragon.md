@@ -8,5 +8,5 @@ In his homeland of Alagaesia, a farm boy happens upon a dragon's egg -- a discov
 
 [TMDB](2486)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Eragon%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Eragon%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

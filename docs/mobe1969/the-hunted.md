@@ -4,9 +4,9 @@
 
 **2003 • R • 1h 34m • Drama, Action, Thriller, Crime • mobe1969**
 
-In the wilderness of British Columbia, two hunters are tracked and viciously murdered by Aaron Hallum. A former Special Operations instructor is approached and asked to apprehend Hallum—his former student—who has 'gone rogue' after suffering severe battle stress from his time in Kosovo.
+In the wilderness of British Columbia, two hunters are tracked and viciously murdered by Aaron Hallum. A former Special Operations instructor is approached and asked to apprehend Hallumâ€”his former studentâ€”who has 'gone rogue' after suffering severe battle stress from his time in Kosovo.
 
 [TMDB](10632)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hunted%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hunted%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 

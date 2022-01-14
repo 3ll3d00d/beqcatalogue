@@ -8,5 +8,5 @@ The true story of Whitey Bulger, the brother of a state senator and the most inf
 
 [TMDB](261023)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Mass%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Black%20Mass%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

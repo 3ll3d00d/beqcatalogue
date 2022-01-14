@@ -8,5 +8,5 @@ Beautiful Carmen Colson and her ironworker husband Wayne are placed in the Feder
 
 [TMDB](16164)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Killshot%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Killshot%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,7 +8,7 @@ A cold and mysterious new security guard for a Los Angeles cash truck company su
 
 [TMDB](637649)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wrath%20of%20Man%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wrath%20of%20Man%20%282021%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,7 +18,7 @@ A cold and mysterious new security guard for a Los Angeles cash truck company su
 
 [TMDB](637649)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wrath%20of%20Man%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wrath%20of%20Man%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 7.1
 
@@ -28,5 +28,5 @@ A cold and mysterious new security guard for a Los Angeles cash truck company su
 
 [TMDB](637649)
 
-![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wrath%20of%20Man%20%282021%29%20DTS-HD%20MA%207.1.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wrath%20of%20Man%20%282021%29%20DTS-HD%20MA%207.1.jpg)
 

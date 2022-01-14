@@ -8,5 +8,5 @@ The battle of Red Cliff continues and the alliance between Xu and East Wu is fra
 
 [TMDB](15384)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Red%20Cliff%20Part%20II%20%282009%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Red%20Cliff%20Part%20II%20%282009%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

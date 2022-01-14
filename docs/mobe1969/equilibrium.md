@@ -8,5 +8,5 @@ In a dystopian future, a totalitarian regime maintains peace by subduing the pop
 
 [TMDB](7299)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Equilibrium%20%282002%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Equilibrium%20%282002%29%20TrueHD%205.1.jpg)
 

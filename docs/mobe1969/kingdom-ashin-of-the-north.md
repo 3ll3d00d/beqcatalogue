@@ -8,5 +8,5 @@ Tragedy, betrayal and a mysterious discovery fuel a woman's vengeance for the lo
 
 [TMDB](845222)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kingdom%20Ashin%20of%20the%20North%20%282021%29%28Ko%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kingdom%20Ashin%20of%20the%20North%20%282021%29%28Ko%29%20DD%2B%205.1.jpg)
 

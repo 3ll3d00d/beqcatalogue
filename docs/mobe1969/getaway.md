@@ -8,5 +8,5 @@ Former race car driver Brent Magna is pitted against the clock. Desperately tryi
 
 [TMDB](146227)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Getaway%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Getaway%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

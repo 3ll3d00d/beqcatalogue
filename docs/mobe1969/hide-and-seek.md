@@ -8,5 +8,5 @@ Sun-mi always feels worried whenever her daughter goes out. She accidentally fin
 
 [TMDB](365069)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hide%20and%20Seek%20%282013%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hide%20and%20Seek%20%282013%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

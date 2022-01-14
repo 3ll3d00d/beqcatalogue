@@ -8,5 +8,5 @@ A mysterious spacecraft captures Russian and American space capsules and brings 
 
 [TMDB](667)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/You%20Only%20Live%20Twice%20%281967%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Y/You%20Only%20Live%20Twice%20%281967%29%20DTS-HD%20MA%205.1.jpg)
 

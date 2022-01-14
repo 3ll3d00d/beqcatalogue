@@ -8,5 +8,5 @@ An evil Duke attempts to kill and collect the blood of a royal family of Europea
 
 [TMDB](17457)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Twins%20Effect%20%282003%29%28Ca%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Twins%20Effect%20%282003%29%28Ca%29%20DD%2B%205.1.jpg)
 

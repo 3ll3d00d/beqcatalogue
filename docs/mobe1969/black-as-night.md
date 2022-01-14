@@ -8,5 +8,5 @@ A teenage girl with self-esteem issues finds confidence in the most unlikely way
 
 [TMDB](767504)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20As%20Night%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Black%20As%20Night%20%282021%29%20DD%2B%205.1.jpg)
 

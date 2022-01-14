@@ -8,5 +8,5 @@ Princess Leia is captured and held hostage by the evil Imperial forces in their 
 
 [TMDB](11)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Star%20Wars%20Episode%20IV%20A%20New%20Hope%20%281977%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Star%20Wars%20Episode%20IV%20A%20New%20Hope%20%281977%29%20Atmos.jpg)
 

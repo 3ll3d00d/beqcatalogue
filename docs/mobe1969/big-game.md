@@ -10,5 +10,5 @@ Air Force One is shot down by terrorists, leaving the President of the United St
 
 [TMDB](230179)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Big%20Game%20%282014%29%28Uncut%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Big%20Game%20%282014%29%28Uncut%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Flight 7500 departs Los Angeles International Airport bound for Tokyo. As the ov
 
 [TMDB](82657)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flight%207500%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Flight%207500%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

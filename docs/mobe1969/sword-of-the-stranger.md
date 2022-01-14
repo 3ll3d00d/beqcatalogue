@@ -8,5 +8,5 @@ Pursued by formidable Chinese assassins, young Kotaro and his dog run into No Na
 
 [TMDB](13980)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sword%20of%20the%20Stranger%20%282007%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sword%20of%20the%20Stranger%20%282007%29%28Ja%29%20TrueHD%205.1.jpg)
 

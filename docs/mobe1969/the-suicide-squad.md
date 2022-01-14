@@ -8,5 +8,5 @@ Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty con
 
 [TMDB](436969)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Suicide%20Squad%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Suicide%20Squad%20%282021%29%20Atmos.jpg)
 

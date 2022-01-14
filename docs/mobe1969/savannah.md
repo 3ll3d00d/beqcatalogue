@@ -8,5 +8,5 @@ Savannah is the true story of Ward Allen, a romantic and bombastic character who
 
 [TMDB](207871)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Savannah%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Savannah%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

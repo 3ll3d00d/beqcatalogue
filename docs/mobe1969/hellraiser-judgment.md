@@ -8,5 +8,5 @@ Detectives Sean and David Carter are on the case to find a gruesome serial kille
 
 [TMDB](444149)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hellraiser%20Judgment%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hellraiser%20Judgment%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

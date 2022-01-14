@@ -8,5 +8,5 @@ When a pharmaceutical company's illegal experiments inadvertently create a zombi
 
 [TMDB](572151)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zombie%20For%20Sale%20%282019%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zombie%20For%20Sale%20%282019%29%28Ko%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ A Danish prince seeks revenge upon the villain who killed the king and his son t
 
 [TMDB](48791)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Royal%20Deceit%20%281994%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Royal%20Deceit%20%281994%29%20DTS-HD%20MA%202.0.jpg)
 

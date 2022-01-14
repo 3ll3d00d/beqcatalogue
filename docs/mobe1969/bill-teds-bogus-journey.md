@@ -8,5 +8,5 @@ Amiable slackers Bill and Ted are once again roped into a fantastical adventure 
 
 [TMDB](1649)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bill%20%26%20Ted%27s%20Bogus%20Journey%20%281991%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bill%20%26%20Ted%27s%20Bogus%20Journey%20%281991%29%20DTS-HD%20MA%205.1.jpg)
 

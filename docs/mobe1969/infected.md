@@ -8,5 +8,5 @@ A blood virus infects a small group of hunters turning a father & son trip into 
 
 [TMDB](126962)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Infected%20%282013%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Infected%20%282013%29%20DD%2B%202.0.jpg)
 

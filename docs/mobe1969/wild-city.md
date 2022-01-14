@@ -8,5 +8,5 @@ Former cop-turned-bar owner Kwok and his underachieving half-brother befriends a
 
 [TMDB](338421)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wild%20City%20%282015%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wild%20City%20%282015%29%28Ca%29%20TrueHD%205.1.jpg)
 

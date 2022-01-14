@@ -8,5 +8,5 @@ Dr. Peyton Westlake is on the verge of realizing a major breakthrough in synthet
 
 [TMDB](9556)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Darkman%20%281990%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Darkman%20%281990%29%20TrueHD%205.1.jpg)
 

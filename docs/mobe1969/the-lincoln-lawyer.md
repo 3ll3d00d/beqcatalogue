@@ -8,7 +8,7 @@ A lawyer conducts business from the back of his Lincoln town car while represent
 
 [TMDB](50348)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lincoln%20Lawyer%20%282011%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Lincoln%20Lawyer%20%282011%29%20Atmos.jpg)
 
 ## DTS-HD MA 7.1
 
@@ -18,5 +18,5 @@ A lawyer conducts business from the back of his Lincoln town car while represent
 
 [TMDB](50348)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lincoln%20Lawyer%20%282011%29%20DTS-HD%20MA%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Lincoln%20Lawyer%20%282011%29%20DTS-HD%20MA%207.1.jpg)
 

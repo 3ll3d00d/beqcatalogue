@@ -8,5 +8,5 @@ Based on actual events that took place at Gwangju Inhwa School for the hearing-i
 
 [TMDB](81481)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Silenced%20%282011%29%28Ko%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Silenced%20%282011%29%28Ko%29%20DD%2B%205.1.jpg)
 

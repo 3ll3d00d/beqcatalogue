@@ -8,5 +8,5 @@ In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one o
 
 [TMDB](77174)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/ParaNorman%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/ParaNorman%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

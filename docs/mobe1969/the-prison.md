@@ -8,5 +8,5 @@ An imprisoned ex-police inspector discovers that the entire penitentiary is cont
 
 [TMDB](438798)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Prison%20%282017%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Prison%20%282017%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

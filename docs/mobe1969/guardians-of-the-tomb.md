@@ -8,5 +8,5 @@ An innocent discovery of a well-preserved mummified Emperor from 200 BC China un
 
 [TMDB](409582)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Guardians%20of%20the%20Tomb%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Guardians%20of%20the%20Tomb%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

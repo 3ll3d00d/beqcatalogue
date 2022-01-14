@@ -8,5 +8,5 @@ When God loses faith in humankind, he sends his legion of angels to bring on the
 
 [TMDB](22894)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Legion%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Legion%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

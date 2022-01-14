@@ -8,5 +8,5 @@ After suffering life changing injuries in the line of duty, bomb disposal office
 
 [TMDB](559974)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shock%20Wave%202%20%282020%29%28Ca%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shock%20Wave%202%20%282020%29%28Ca%29%20Atmos.jpg)
 

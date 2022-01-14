@@ -8,5 +8,5 @@ A legendary Native American-hating Army captain nearing retirement in 1892 is gi
 
 [TMDB](384680)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hostiles%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hostiles%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

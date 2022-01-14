@@ -8,5 +8,5 @@ Under the direction of a ruthless instructor, a talented young drummer begins to
 
 [TMDB](244786)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Whiplash%20%282014%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Whiplash%20%282014%29%20Atmos.jpg)
 

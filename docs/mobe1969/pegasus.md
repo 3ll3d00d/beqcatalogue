@@ -8,5 +8,5 @@ Zhang Chi, a hubris and dominating six-time racing champion, falls from grace fo
 
 [TMDB](575219)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pegasus%20%282019%29%28Ma%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pegasus%20%282019%29%28Ma%29%20DD%2B%202.0.jpg)
 

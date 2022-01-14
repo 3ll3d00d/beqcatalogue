@@ -8,5 +8,5 @@ Gordie, Chris, Teddy and Vern are four friends who decide to hike to find the co
 
 [TMDB](235)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stand%20by%20Me%20%281986%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stand%20by%20Me%20%281986%29%20Atmos.jpg)
 

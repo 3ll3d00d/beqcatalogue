@@ -8,5 +8,5 @@ A brilliant plastic surgeon creates a synthetic skin that withstands any kind of
 
 [TMDB](63311)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Skin%20I%20Live%20In%20%282011%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Skin%20I%20Live%20In%20%282011%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
 

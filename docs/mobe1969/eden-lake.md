@@ -8,5 +8,5 @@ Eden Lake is a relentlessly tense and immaculately paced horror-thriller about m
 
 [TMDB](13510)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Eden%20Lake%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Eden%20Lake%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

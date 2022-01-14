@@ -8,5 +8,5 @@ Six years after her son went missing, dedicated mother Jung-Yeon still hasn't lo
 
 [TMDB](507773)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bring%20Me%20Home%20%282019%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bring%20Me%20Home%20%282019%29%28Ko%29%20TrueHD%205.1.jpg)
 

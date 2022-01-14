@@ -8,5 +8,5 @@ When a D.E.A. and S.W.A.T. cartel takedown ends in a shootout, S.W.A.T. Agent Tr
 
 [TMDB](461053)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S.W.A.T.%20Under%20Siege%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/S.W.A.T.%20Under%20Siege%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

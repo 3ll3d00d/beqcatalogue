@@ -8,5 +8,5 @@ An adrenaline seeking snowboarder gets lost in a massive winter storm in the bac
 
 [TMDB](423087)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/6%20Below%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/6%20Below%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

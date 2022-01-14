@@ -8,5 +8,5 @@ The true story of Sam Childers, a former drug-dealing biker who finds God and be
 
 [TMDB](45610)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Machine%20Gun%20Preacher%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Machine%20Gun%20Preacher%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

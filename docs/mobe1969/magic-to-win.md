@@ -8,5 +8,5 @@ Nobody knows that Professor Hong Sum Kwai is actually the Water Magician, one of
 
 [TMDB](85874)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Magic%20to%20Win%20%282011%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Magic%20to%20Win%20%282011%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

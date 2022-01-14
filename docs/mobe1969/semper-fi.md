@@ -8,5 +8,5 @@ Cal is a dedicated cop who also serves as a sergeant in the Marine Corps Reserve
 
 [TMDB](515724)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Semper%20Fi%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Semper%20Fi%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

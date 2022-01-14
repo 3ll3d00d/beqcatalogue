@@ -8,5 +8,5 @@ After a year apart - attending different schools, meeting different people - the
 
 [TMDB](2770)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/American%20Pie%202%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/American%20Pie%202%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

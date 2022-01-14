@@ -8,5 +8,5 @@ In ancient Egypt, peasant Mathayus is hired to exact revenge on the powerful Mem
 
 [TMDB](9334)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Scorpion%20King%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Scorpion%20King%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

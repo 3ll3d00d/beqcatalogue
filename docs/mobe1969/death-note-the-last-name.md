@@ -8,5 +8,5 @@ In the second installment of the Death Note film franchise, Light Yagami meets a
 
 [TMDB](16140)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Death%20Note%20The%20Last%20Name%20%282006%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Death%20Note%20The%20Last%20Name%20%282006%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

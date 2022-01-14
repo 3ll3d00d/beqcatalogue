@@ -8,5 +8,5 @@ In a future world, young people are increasingly becoming addicted to an illegal
 
 [TMDB](10881)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Avalon%20%282001%29%28Pl%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Avalon%20%282001%29%28Pl%29%20TrueHD%205.1.jpg)
 

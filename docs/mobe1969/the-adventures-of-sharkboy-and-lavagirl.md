@@ -8,5 +8,5 @@ Everyone always knew that Max had a wild imagination, but no one believed that h
 
 [TMDB](14199)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Adventures%20of%20Sharkboy%20and%20Lavagirl%20%282005%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Adventures%20of%20Sharkboy%20and%20Lavagirl%20%282005%29%20DD%2B%205.1.jpg)
 

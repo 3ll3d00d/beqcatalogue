@@ -8,5 +8,5 @@ A nerdy high school jazz band embarks on a journey to California for an internat
 
 [TMDB](794921)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Breakdown%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Breakdown%20%282021%29%20DD%2B%205.1.jpg)
 

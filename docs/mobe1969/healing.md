@@ -8,5 +8,5 @@ Viktor Kahdem is a man who has almost given up on life, sentenced to a low-secur
 
 [TMDB](254143)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Healing%20%282014%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Healing%20%282014%29%20DD%2B%205.1.jpg)
 

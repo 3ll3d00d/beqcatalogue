@@ -8,5 +8,5 @@ In order to save his dying father, young stunt cyclist Johnny Blaze sells his so
 
 [TMDB](1250)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20Rider%20%282007%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghost%20Rider%20%282007%29%20LPCM%205.1.jpg)
 

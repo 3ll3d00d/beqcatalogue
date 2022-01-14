@@ -8,5 +8,5 @@ A headstrong orphan discovers a world of spells and potions while living with a 
 
 [TMDB](683127)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Earwig%20and%20the%20Witch%20%282020%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Earwig%20and%20the%20Witch%20%282020%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

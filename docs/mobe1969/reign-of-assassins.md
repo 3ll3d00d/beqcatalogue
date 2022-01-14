@@ -8,5 +8,5 @@ Set in ancient China, Zeng Jing is a skilled assassin who finds herself in posse
 
 [TMDB](44092)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Reign%20of%20Assassins%20%282010%29%28Ma%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Reign%20of%20Assassins%20%282010%29%28Ma%29%20TrueHD%207.1.jpg)
 

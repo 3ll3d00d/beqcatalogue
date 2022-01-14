@@ -10,5 +10,5 @@ Eight-year-old Kevin McCallister makes the most of the situation after his famil
 
 [TMDB](771)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Home%20Alone%20%281990%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Home%20Alone%20%281990%29%20DTS-HD%20MA%205.1.jpg)
 

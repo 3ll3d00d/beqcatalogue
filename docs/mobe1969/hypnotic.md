@@ -8,5 +8,5 @@ A young woman seeking self-improvement enlists the help of a renowned hypnotist 
 
 [TMDB](864873)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hypnotic%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hypnotic%20%282021%29%20DD%2B%205.1.jpg)
 

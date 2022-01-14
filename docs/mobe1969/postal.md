@@ -8,5 +8,5 @@ The story begins with a regular Joe who tries desperately to seek employment, bu
 
 [TMDB](2728)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Postal%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Postal%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

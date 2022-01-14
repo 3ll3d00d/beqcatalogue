@@ -8,5 +8,5 @@ Mystery writer Grace Miller has killer instincts when it comes to motive - and s
 
 [TMDB](916740)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Brazen%20%282022%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Brazen%20%282022%29%20DD%2B%205.1.jpg)
 

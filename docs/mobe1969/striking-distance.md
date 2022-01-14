@@ -8,5 +8,5 @@ Coming from a police family, Tom Hardy ends up fighting his uncle after the murd
 
 [TMDB](11074)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Striking%20Distance%20%281993%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Striking%20Distance%20%281993%29%20TrueHD%205.1.jpg)
 

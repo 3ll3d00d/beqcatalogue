@@ -8,5 +8,5 @@ A group of men who were clearing brush for the government arrive back in town, c
 
 [TMDB](15613)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fire%20in%20the%20Sky%20%281993%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fire%20in%20the%20Sky%20%281993%29%20DTS-HD%20MA%205.1.jpg)
 

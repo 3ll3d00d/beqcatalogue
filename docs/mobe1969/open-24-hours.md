@@ -8,5 +8,5 @@ After setting her serial killer boyfriend on fire, a paranoid delusional woman g
 
 [TMDB](532638)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Open%2024%20Hours%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Open%2024%20Hours%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

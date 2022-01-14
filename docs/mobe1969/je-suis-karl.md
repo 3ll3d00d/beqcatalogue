@@ -8,5 +8,5 @@ After most of her family is murdered in a terrorist bombing, a young woman is un
 
 [TMDB](683641)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Je%20suis%20Karl%20%282021%29%28De%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Je%20suis%20Karl%20%282021%29%28De%29%20DD%2B%205.1.jpg)
 

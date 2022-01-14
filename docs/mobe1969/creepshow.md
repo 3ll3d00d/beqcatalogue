@@ -8,5 +8,5 @@ Inspired by the E.C. comics of the 1950s, George A. Romero and Stephen King brin
 
 [TMDB](16281)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Creepshow%20%281982%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Creepshow%20%281982%29%20TrueHD%205.1.jpg)
 

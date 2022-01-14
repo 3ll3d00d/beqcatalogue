@@ -8,5 +8,5 @@ James Bond is sent to investigate the connection between a North Korean terroris
 
 [TMDB](36669)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Die%20Another%20Day%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Die%20Another%20Day%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

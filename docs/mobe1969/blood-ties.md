@@ -8,5 +8,5 @@ Two brothers, on either side of the law, face off over organized crime in Brookl
 
 [TMDB](190955)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20Ties%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blood%20Ties%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,7 +8,7 @@ In a time when monsters walk the Earth, humanity's fight for its future sets God
 
 [TMDB](399566)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Godzilla%20vs.%20Kong%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Godzilla%20vs.%20Kong%20%282021%29%20Atmos.jpg)
 
 ## DTS-HD MA 7.1
 
@@ -18,5 +18,5 @@ In a time when monsters walk the Earth, humanity's fight for its future sets God
 
 [TMDB](399566)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Godzilla%20vs.%20Kong%20%282021%29%20DTS-HD%20MA%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Godzilla%20vs.%20Kong%20%282021%29%20DTS-HD%20MA%207.1.jpg)
 

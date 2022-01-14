@@ -8,5 +8,5 @@ The action continues from [REC], with the medical officer and a SWAT team outfit
 
 [TMDB](10664)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rec%202%20%282009%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rec%202%20%282009%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
 

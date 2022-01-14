@@ -8,7 +8,7 @@ A secret military project endangers Neo-Tokyo when it turns a biker gang member 
 
 [TMDB](149)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Akira%20%281988%29%28Ja%29%20LPCM%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Akira%20%281988%29%28Ja%29%20LPCM%202.0.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ A secret military project endangers Neo-Tokyo when it turns a biker gang member 
 
 [TMDB](149)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Akira%20%281988%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Akira%20%281988%29%28Ja%29%20TrueHD%205.1.jpg)
 

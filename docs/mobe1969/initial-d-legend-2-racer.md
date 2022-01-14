@@ -8,5 +8,5 @@ The planned film trilogy retells the beginning of the story from Shuuichi Shigen
 
 [TMDB](321487)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Initial%20D%20Legend%202%20-%20Racer%20%282015%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Initial%20D%20Legend%202%20-%20Racer%20%282015%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Set in Canton, China in the 1940s, the story revolves in a town ruled by the Axe
 
 [TMDB](9470)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kung%20Fu%20Hustle%20%282004%29%28Ca%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Hustle%20%282004%29%28Ca%29%20LPCM%205.1.jpg)
 

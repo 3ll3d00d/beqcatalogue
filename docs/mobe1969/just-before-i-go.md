@@ -8,5 +8,5 @@ Ted Morgan has been treading water for most of his life. After his wife leaves h
 
 [TMDB](258099)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Just%20Before%20I%20Go%20%282014%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Just%20Before%20I%20Go%20%282014%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized b
 
 [TMDB](128)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Princess%20Mononoke%20%281997%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Princess%20Mononoke%20%281997%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A group of strangers find themselves trapped in a maze-like prison. It soon beco
 
 [TMDB](431)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cube%20%281997%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cube%20%281997%29%20TrueHD%205.1.jpg)
 

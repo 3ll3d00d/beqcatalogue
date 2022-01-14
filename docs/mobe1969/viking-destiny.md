@@ -8,5 +8,5 @@ A Viking Princess is forced to flee her kingdom after being framed for the murde
 
 [TMDB](537347)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Viking%20Destiny%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Viking%20Destiny%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

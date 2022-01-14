@@ -8,5 +8,5 @@ An introverted teen sparks with his new neighbor, and together the couple begins
 
 [TMDB](146243)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Haunt%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Haunt%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

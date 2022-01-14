@@ -8,5 +8,5 @@ After failing to kill stubborn survivor Laurie and taking a bullet or six from f
 
 [TMDB](11281)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Halloween%20II%20%281981%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Halloween%20II%20%281981%29%20Atmos.jpg)
 

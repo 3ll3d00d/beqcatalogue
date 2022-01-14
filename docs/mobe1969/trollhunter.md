@@ -8,5 +8,5 @@ A group of students investigates a series of mysterious bear killings, but learn
 
 [TMDB](46146)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Trollhunter%20%282010%29%28No%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Trollhunter%20%282010%29%28No%29%20DTS-HD%20MA%205.1.jpg)
 

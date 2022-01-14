@@ -8,5 +8,5 @@ Ideologies collide with fatal results when a military drone contractor meets an 
 
 [TMDB](452068)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Drone%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Drone%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

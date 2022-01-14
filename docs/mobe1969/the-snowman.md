@@ -8,5 +8,5 @@ Detective Harry Hole investigates the disappearance of a woman whose pink scarf 
 
 [TMDB](372343)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Snowman%20%282017%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Snowman%20%282017%29%20DTS-HD%20MA%207.1.jpg)
 

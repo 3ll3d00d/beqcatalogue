@@ -8,5 +8,5 @@ A woman with a mysterious illness is forced into action when a group of terroris
 
 [TMDB](760883)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20Red%20Sky%20%282021%29%28De%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blood%20Red%20Sky%20%282021%29%28De%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ Paris 2020. While superheroes have assimilated into the Parisian society, they d
 
 [TMDB](641501)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/How%20I%20Became%20a%20Superhero%20%282020%29%28Fr%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/How%20I%20Became%20a%20Superhero%20%282020%29%28Fr%29%20DD%2B%205.1.jpg)
 

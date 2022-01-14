@@ -8,5 +8,5 @@ Jackie Cogan is an enforcer hired to restore order after three dumb guys rob a M
 
 [TMDB](64689)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Killing%20Them%20Softly%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Killing%20Them%20Softly%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A loan shark is forced to reconsider his violent lifestyle after the arrival of 
 
 [TMDB](123377)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pieta%20%282012%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pieta%20%282012%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Gan and his girlfriend Ai are mild-mannered toy shop owners by day but, when evi
 
 [TMDB](24561)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Yatterman%20%282009%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Y/Yatterman%20%282009%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

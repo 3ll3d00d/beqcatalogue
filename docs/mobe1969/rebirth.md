@@ -8,5 +8,5 @@ A man's life is turned inside out after a visit from his college friend leads hi
 
 [TMDB](369033)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rebirth%20%282016%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rebirth%20%282016%29%20DD%2B%205.1.jpg)
 

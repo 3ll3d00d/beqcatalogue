@@ -8,5 +8,5 @@ A parolee teams up with his old crew determined to find a buried bag of cash sto
 
 [TMDB](696002)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Paydirt%20%282020%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Paydirt%20%282020%29%20AC3%205.1.jpg)
 

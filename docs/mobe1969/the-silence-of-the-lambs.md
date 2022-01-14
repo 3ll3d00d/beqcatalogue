@@ -8,5 +8,5 @@ Clarice Starling is a top student at the FBI's training academy. Jack Crawford w
 
 [TMDB](274)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Silence%20of%20the%20Lambs%20%281991%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Silence%20of%20the%20Lambs%20%281991%29%20DTS-HD%20MA%205.1.jpg)
 

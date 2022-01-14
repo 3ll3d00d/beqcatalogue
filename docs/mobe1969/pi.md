@@ -8,5 +8,5 @@ The debut film from Darren Aronofsky in which a mathematical genius Maximilian C
 
 [TMDB](473)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pi%20%281998%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pi%20%281998%29%20DTS-HD%20MA%202.0.jpg)
 

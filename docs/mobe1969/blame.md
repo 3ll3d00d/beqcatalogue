@@ -8,5 +8,5 @@ A drama teacher's taboo relationship with an unstable student strikes a nerve in
 
 [TMDB](422128)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blame%20%282018%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blame%20%282018%29%20DD%2B%202.0.jpg)
 

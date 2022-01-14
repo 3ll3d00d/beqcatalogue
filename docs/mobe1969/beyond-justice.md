@@ -8,5 +8,5 @@ A young criminal defense attorney struggles with a homicide case that is not as 
 
 [TMDB](288818)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beyond%20Justice%20%282014%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beyond%20Justice%20%282014%29%20AC3%205.1.jpg)
 

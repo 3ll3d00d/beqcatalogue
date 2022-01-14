@@ -8,5 +8,5 @@ A crew of officers at an armored transport security firm risk their lives when t
 
 [TMDB](4597)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Armored%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Armored%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

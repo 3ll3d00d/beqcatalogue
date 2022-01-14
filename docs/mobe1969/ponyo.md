@@ -8,5 +8,5 @@ The son of a sailor, 5-year old Sosuke, lives a quiet life on an oceanside cliff
 
 [TMDB](12429)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ponyo%20%282008%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Ponyo%20%282008%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

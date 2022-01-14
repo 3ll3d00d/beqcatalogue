@@ -8,5 +8,5 @@ Handsome, unflappable U.S. Congressman Stephen Collins is the future of his poli
 
 [TMDB](16995)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/State%20of%20Play%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/State%20of%20Play%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

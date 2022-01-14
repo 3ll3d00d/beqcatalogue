@@ -8,5 +8,5 @@ In this classic whodunit, a police detective must rely on the only witness - a p
 
 [TMDB](629919)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Witness%20Out%20of%20the%20Blue%20%282019%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Witness%20Out%20of%20the%20Blue%20%282019%29%28Ca%29%20TrueHD%207.1.jpg)
 

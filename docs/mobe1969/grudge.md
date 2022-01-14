@@ -8,5 +8,5 @@ Ahead of a promotion, a police chief becomes entangled in a deadly incident and 
 
 [TMDB](874948)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Grudge%20%282021%29%28Tu%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Grudge%20%282021%29%28Tu%29%20DD%2B%205.1.jpg)
 

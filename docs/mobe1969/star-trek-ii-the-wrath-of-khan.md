@@ -8,7 +8,7 @@ It is the 23rd century. The Federation Starship U.S.S. Enterprise is on routine 
 
 [TMDB](154)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Star%20Trek%20II%20The%20Wrath%20of%20Khan%20%281982%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Star%20Trek%20II%20The%20Wrath%20of%20Khan%20%281982%29%20TrueHD%207.1.jpg)
 
 ## TrueHD 7.1
 
@@ -20,5 +20,5 @@ It is the 23rd century. The Federation Starship U.S.S. Enterprise is on routine 
 
 [TMDB](154)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Star%20Trek%20II%20The%20Wrath%20of%20Khan%20%281982%29%28DC%29%20TrueHD%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Star%20Trek%20II%20The%20Wrath%20of%20Khan%20%281982%29%28DC%29%20TrueHD%207.1.jpg)
 

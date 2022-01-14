@@ -8,5 +8,5 @@ In a world where supervillains are commonplace, two estranged childhood best fri
 
 [TMDB](615678)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Thunder%20Force%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Thunder%20Force%20%282021%29%20DD%2B%205.1.jpg)
 

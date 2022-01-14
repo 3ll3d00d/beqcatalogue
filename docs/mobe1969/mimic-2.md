@@ -8,5 +8,5 @@ When a cockroach-spread plague threatened to decimate the child population of Ne
 
 [TMDB](10706)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mimic%202%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mimic%202%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

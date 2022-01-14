@@ -8,5 +8,5 @@ The story centers on a group of strangers trapped in a time warp house where a t
 
 [TMDB](84577)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/7%20Below%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/7%20Below%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

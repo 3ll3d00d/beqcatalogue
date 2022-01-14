@@ -8,5 +8,5 @@ Chris is a once promising high school athlete whose life is turned upside down f
 
 [TMDB](8270)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Lookout%20%282007%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Lookout%20%282007%29%20LPCM%205.1.jpg)
 

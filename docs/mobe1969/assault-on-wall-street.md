@@ -8,5 +8,5 @@ Jim is an average New Yorker living a peaceful life with a well paying job and a
 
 [TMDB](184125)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Assault%20on%20Wall%20Street%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Assault%20on%20Wall%20Street%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

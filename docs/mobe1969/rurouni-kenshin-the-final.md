@@ -8,5 +8,5 @@ In 1879, Kenshin and his allies face their strongest enemy yet: his former broth
 
 [TMDB](602063)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rurouni%20Kenshin%20The%20Final%20%282021%29%28Ja%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rurouni%20Kenshin%20The%20Final%20%282021%29%28Ja%29%20DD%2B%205.1.jpg)
 

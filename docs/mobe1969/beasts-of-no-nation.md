@@ -8,5 +8,5 @@ A drama based on the experiences of Agu, a child fighting in the civil war of an
 
 [TMDB](283587)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beasts%20of%20No%20Nation%20%282015%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beasts%20of%20No%20Nation%20%282015%29%20DD%2B%205.1.jpg)
 

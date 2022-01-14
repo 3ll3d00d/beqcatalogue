@@ -8,5 +8,5 @@ A commentary on Spanish society dressed as a thriller about the misadventures of
 
 [TMDB](651589)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sky%20High%20%282020%29%28Es%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sky%20High%20%282020%29%28Es%29%20DD%2B%205.1.jpg)
 

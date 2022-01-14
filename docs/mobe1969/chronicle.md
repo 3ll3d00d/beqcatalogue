@@ -8,5 +8,5 @@ Three high school students make an incredible discovery, leading to their develo
 
 [TMDB](76726)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Chronicle%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Chronicle%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

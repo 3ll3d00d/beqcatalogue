@@ -8,5 +8,5 @@ In a countryside town bordering on a magical land, a young man makes a promise t
 
 [TMDB](2270)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stardust%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stardust%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

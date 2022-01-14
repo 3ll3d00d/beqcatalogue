@@ -8,5 +8,5 @@ A motorcycle stunt rider considers committing a crime in order to provide for hi
 
 [TMDB](97367)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Place%20Beyond%20the%20Pines%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Place%20Beyond%20the%20Pines%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

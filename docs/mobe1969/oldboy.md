@@ -8,5 +8,5 @@ With no clue how he came to be imprisoned, drugged and tortured for 15 years, a 
 
 [TMDB](670)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Oldboy%20%282003%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Oldboy%20%282003%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

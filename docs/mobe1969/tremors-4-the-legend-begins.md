@@ -8,5 +8,5 @@ This prequel of the bone-chilling Tremors begins in the town of Rejection, Nev.,
 
 [TMDB](10891)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tremors%204%20The%20Legend%20Begins%20%282004%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tremors%204%20The%20Legend%20Begins%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 

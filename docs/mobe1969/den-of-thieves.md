@@ -10,7 +10,7 @@ A gritty crime saga which follows the lives of an elite unit of the LA County Sh
 
 [TMDB](449443)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Den%20of%20Thieves%20%282018%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Den%20of%20Thieves%20%282018%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -22,5 +22,5 @@ A gritty crime saga which follows the lives of an elite unit of the LA County Sh
 
 [TMDB](449443)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Den%20of%20Thieves%20%282018%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Den%20of%20Thieves%20%282018%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ After a bloody invasion of the BOPE in the High-Security Penitentiary Bangu 1 in
 
 [TMDB](47931)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Elite%20Squad%20The%20Enemy%20Within%20%282010%29%28Po%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Elite%20Squad%20The%20Enemy%20Within%20%282010%29%28Po%29%20DTS-HD%20MA%205.1.jpg)
 

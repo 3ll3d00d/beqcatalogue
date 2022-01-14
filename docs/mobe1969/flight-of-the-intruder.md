@@ -8,5 +8,5 @@ U.S. Navy pilot Lt. Jake Grafton and his bombardier buddy, Lt. Cmdr. Virgil Cole
 
 [TMDB](18886)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flight%20of%20the%20Intruder%20%281991%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Flight%20of%20the%20Intruder%20%281991%29%20DTS-HD%20MA%205.1.jpg)
 

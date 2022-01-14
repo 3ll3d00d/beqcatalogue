@@ -8,5 +8,5 @@ Deliveryman Jongsu is out on a job when he runs into Haemi, a girl who once live
 
 [TMDB](491584)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Burning%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Burning%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

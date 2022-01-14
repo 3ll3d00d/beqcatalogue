@@ -8,5 +8,5 @@ Diamonds are stolen only to be sold again in the international market. James Bon
 
 [TMDB](681)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Diamonds%20Are%20Forever%20%281971%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Diamonds%20Are%20Forever%20%281971%29%20DTS-HD%20MA%205.1.jpg)
 

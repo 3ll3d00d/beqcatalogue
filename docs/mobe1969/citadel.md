@@ -8,5 +8,5 @@ Citadel tells the story of widower and single father Tommy Cowley, a man inflict
 
 [TMDB](52001)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Citadel%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Citadel%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

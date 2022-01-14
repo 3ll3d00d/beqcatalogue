@@ -8,5 +8,5 @@ After a mysterious malfunction sends their small plane climbing out of control, 
 
 [TMDB](44678)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Altitude%20%282010%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Altitude%20%282010%29%20TrueHD%205.1.jpg)
 

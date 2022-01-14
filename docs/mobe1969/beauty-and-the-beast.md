@@ -8,5 +8,5 @@ Follow the adventures of Belle, a bright young woman who finds herself in the ca
 
 [TMDB](10020)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beauty%20and%20the%20Beast%20%281991%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beauty%20and%20the%20Beast%20%281991%29%20Atmos.jpg)
 

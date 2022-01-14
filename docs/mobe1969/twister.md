@@ -8,7 +8,7 @@ An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornad
 
 [TMDB](664)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Twister%20%281996%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Twister%20%281996%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,7 +18,7 @@ An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornad
 
 [TMDB](664)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Twister%20%281996%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Twister%20%281996%29%20DTS-HD%20MA%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -28,5 +28,5 @@ An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornad
 
 [TMDB](664)
 
-![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Twister%20%281996%29%20TrueHD%205.1.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Twister%20%281996%29%20TrueHD%205.1.jpg)
 

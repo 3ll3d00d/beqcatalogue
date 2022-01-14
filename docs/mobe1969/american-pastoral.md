@@ -8,5 +8,5 @@ Set in postwar America, a man watches his seemingly perfect life fall apart as h
 
 [TMDB](326285)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/American%20Pastoral%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/American%20Pastoral%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

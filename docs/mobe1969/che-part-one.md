@@ -8,5 +8,5 @@ The Argentine, begins as Che and a band of Cuban exiles (led by Fidel Castro) re
 
 [TMDB](8881)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Che%20Part%20One%20%282008%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Che%20Part%20One%20%282008%29%28Es%29%20DTS-HD%20MA%205.1.jpg)
 

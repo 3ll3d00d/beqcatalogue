@@ -8,5 +8,5 @@ Still recovering from a heart transplant, a retired FBI profiler returns to serv
 
 [TMDB](9573)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20Work%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blood%20Work%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

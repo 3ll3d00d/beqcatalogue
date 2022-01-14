@@ -8,5 +8,5 @@ Sarah Plummer is an FBI Agent whose family is taken hostage while she is on a fl
 
 [TMDB](455509)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flight%20192%20%282016%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Flight%20192%20%282016%29%20DD%2B%202.0.jpg)
 

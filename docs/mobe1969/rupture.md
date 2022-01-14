@@ -8,5 +8,5 @@ A single mom tries to break free from a mysterious organization that has abducte
 
 [TMDB](345925)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rupture%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rupture%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

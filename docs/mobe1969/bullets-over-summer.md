@@ -8,5 +8,5 @@ Plainclothes policemen Brian and Mike use an elderly woman's apartment for surve
 
 [TMDB](68623)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bullets%20Over%20Summer%20%281999%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bullets%20Over%20Summer%20%281999%29%28Ca%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ When the crew of a space junk collector ship called The Victory discovers a huma
 
 [TMDB](581389)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Space%20Sweepers%20%282021%29%28Ko%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Space%20Sweepers%20%282021%29%28Ko%29%20DD%2B%205.1.jpg)
 

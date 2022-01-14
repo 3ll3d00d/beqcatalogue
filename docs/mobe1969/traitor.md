@@ -8,5 +8,5 @@ When straight arrow FBI agent Roy Clayton heads up the investigation into a dang
 
 [TMDB](13291)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Traitor%20%282008%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Traitor%20%282008%29%20TrueHD%205.1.jpg)
 

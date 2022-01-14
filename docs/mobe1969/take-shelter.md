@@ -8,5 +8,5 @@ Plagued by a series of apocalyptic visions, a young husband and father questions
 
 [TMDB](64720)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Take%20Shelter%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Take%20Shelter%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

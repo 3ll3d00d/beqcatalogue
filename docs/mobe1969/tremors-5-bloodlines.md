@@ -8,5 +8,5 @@ The giant, man-eating Graboids are back and even deadlier than before, terrorizi
 
 [TMDB](339530)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tremors%205%20Bloodlines%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tremors%205%20Bloodlines%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

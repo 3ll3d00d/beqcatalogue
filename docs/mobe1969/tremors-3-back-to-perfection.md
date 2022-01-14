@@ -8,5 +8,5 @@ Burt Gummer returns home to Perfection, Nev., to find that the town of terror ha
 
 [TMDB](10829)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tremors%203%20Back%20to%20Perfection%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tremors%203%20Back%20to%20Perfection%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

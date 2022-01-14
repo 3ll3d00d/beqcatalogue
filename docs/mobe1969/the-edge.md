@@ -8,5 +8,5 @@ The plane carrying wealthy Charles Morse crashes down in the Alaskan wilderness.
 
 [TMDB](9433)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Edge%20%281997%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Edge%20%281997%29%20DTS-HD%20MA%205.1.jpg)
 

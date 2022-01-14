@@ -8,5 +8,5 @@ An aging thief hopes to retire and live off his ill-gotten wealth when a young k
 
 [TMDB](11371)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Score%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Score%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

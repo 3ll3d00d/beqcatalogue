@@ -8,5 +8,5 @@ In 2035, where robots are commonplace and abide by the three laws of robotics, a
 
 [TMDB](2048)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I%2C%20Robot%20%282004%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I%2C%20Robot%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 

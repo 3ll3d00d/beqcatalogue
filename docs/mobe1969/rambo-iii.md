@@ -8,5 +8,5 @@ Combat has taken its toll on Rambo, but he's finally begun to find inner peace i
 
 [TMDB](1370)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rambo%20III%20%281988%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rambo%20III%20%281988%29%20DTS-HD%20MA%205.1.jpg)
 

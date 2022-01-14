@@ -8,5 +8,5 @@ A story set in Indochina in 1959, a lawless land controlled by the criminal clas
 
 [TMDB](437291)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Savage%20Dog%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Savage%20Dog%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ The third installment in the successful Bad Ass action-comedy franchise. Bad Ass
 
 [TMDB](309887)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bad%20Asses%20on%20the%20Bayou%20%282015%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bad%20Asses%20on%20the%20Bayou%20%282015%29%20DD%2B%205.1.jpg)
 

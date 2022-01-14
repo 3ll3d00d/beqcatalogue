@@ -4,9 +4,9 @@
 
 **1995 • R • 1h 50m • Action, Comedy, Crime • mobe1969**
 
-When a vengeful New York transit cop decides to steal a trainload of subway fares, his foster brother—a fellow cop—tries to protect him.
+When a vengeful New York transit cop decides to steal a trainload of subway fares, his foster brotherâ€”a fellow copâ€”tries to protect him.
 
 [TMDB](11517)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Money%20Train%20%281995%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Money%20Train%20%281995%29%20DTS-HD%20MA%205.1.jpg)
 

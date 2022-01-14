@@ -8,5 +8,5 @@ Hondo Harrelson recruits Jim Street to join an elite unit of the Los Angeles Pol
 
 [TMDB](9257)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S.W.A.T.%20%282003%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/S.W.A.T.%20%282003%29%20LPCM%205.1.jpg)
 

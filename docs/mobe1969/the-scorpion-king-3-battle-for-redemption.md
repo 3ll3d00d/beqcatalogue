@@ -8,5 +8,5 @@ Since his triumphant rise to power in the original blockbuster "The Scorpion Kin
 
 [TMDB](78049)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Scorpion%20King%203%20Battle%20for%20Redemption%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Scorpion%20King%203%20Battle%20for%20Redemption%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Clear the runway for Derek Zoolander, VH1's three-time male model of the year. H
 
 [TMDB](9398)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zoolander%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zoolander%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ After winning his first competition, Takumi focuses his attention on drift racin
 
 [TMDB](16411)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Initial%20D%20%282005%29%28Ca%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Initial%20D%20%282005%29%28Ca%29%20LPCM%205.1.jpg)
 

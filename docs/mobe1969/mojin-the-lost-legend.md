@@ -8,5 +8,5 @@ At the beginning of the 1990s, famous tomb explorer Hu Bayi decided to retire an
 
 [TMDB](299824)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mojin%20The%20Lost%20Legend%20%282015%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mojin%20The%20Lost%20Legend%20%282015%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

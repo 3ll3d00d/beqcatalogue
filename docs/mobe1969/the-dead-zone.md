@@ -8,5 +8,5 @@ Johnny Smith is a schoolteacher with his whole life ahead of him but, after leav
 
 [TMDB](11336)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Dead%20Zone%20%281983%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Dead%20Zone%20%281983%29%20TrueHD%205.1.jpg)
 

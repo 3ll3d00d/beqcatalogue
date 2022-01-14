@@ -8,5 +8,5 @@ The Hangover crew heads to Thailand for Stu's wedding. After the disaster of a b
 
 [TMDB](45243)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hangover%20Part%20II%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hangover%20Part%20II%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

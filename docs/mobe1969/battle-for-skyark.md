@@ -8,5 +8,5 @@ In the near future the earth has become desolate and dangerous. Now inhabited by
 
 [TMDB](335077)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Battle%20for%20Skyark%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Battle%20for%20Skyark%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

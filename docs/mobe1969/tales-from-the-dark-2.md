@@ -8,5 +8,5 @@ In "Haunted Pillow," TVB starlet Fala Chen is still obsessed with her lover (Gor
 
 [TMDB](222832)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tales%20From%20The%20Dark%202%20%282013%29%28Ca%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tales%20From%20The%20Dark%202%20%282013%29%28Ca%29%20DD%2B%202.0.jpg)
 

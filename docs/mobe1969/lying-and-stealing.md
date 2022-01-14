@@ -8,5 +8,5 @@ Hoping to leave his criminal lifestyle behind him, a successful art thief teams 
 
 [TMDB](509874)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lying%20and%20Stealing%20%282019%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lying%20and%20Stealing%20%282019%29%20DD%2B%205.1.jpg)
 

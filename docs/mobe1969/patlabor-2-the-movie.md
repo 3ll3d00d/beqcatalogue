@@ -8,7 +8,7 @@ A Japanese police unit who use giant anthropomorphic robots (called Labors) is c
 
 [TMDB](14572)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Patlabor%202%20The%20Movie%20%281993%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Patlabor%202%20The%20Movie%20%281993%29%28Ja%29%20TrueHD%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ A Japanese police unit who use giant anthropomorphic robots (called Labors) is c
 
 [TMDB](14572)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Patlabor%20The%20Movie%202%20%281993%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Patlabor%20The%20Movie%202%20%281993%29%28Ja%29%20TrueHD%205.1.jpg)
 

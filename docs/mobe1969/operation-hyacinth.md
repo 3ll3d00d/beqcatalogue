@@ -8,5 +8,5 @@ Not satisfied with the result of a murder investigation in Warsaw's gay communit
 
 [TMDB](809970)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Operation%20Hyacinth%20%282021%29%28Pl%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Operation%20Hyacinth%20%282021%29%28Pl%29%20DD%2B%205.1.jpg)
 

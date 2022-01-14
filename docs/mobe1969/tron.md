@@ -8,5 +8,5 @@ As Kevin Flynn searches for proof that he invented a hit video game, he is 'digi
 
 [TMDB](97)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tron%20%281982%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tron%20%281982%29%20DTS-HD%20MA%205.1.jpg)
 

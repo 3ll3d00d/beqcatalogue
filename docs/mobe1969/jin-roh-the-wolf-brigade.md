@@ -8,7 +8,7 @@ A member of an elite paramilitary counter-terrorism unit becomes traumatized aft
 
 [TMDB](823)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jin-Roh%20The%20Wolf%20Brigade%20%281999%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jin-Roh%20The%20Wolf%20Brigade%20%281999%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 
 ## LPCM 5.1
 
@@ -18,5 +18,5 @@ A member of an elite paramilitary counter-terrorism unit becomes traumatized aft
 
 [TMDB](823)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jin-Roh%20The%20Wolf%20Brigade%20%281999%29%28Ja%29%20LPCM%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jin-Roh%20The%20Wolf%20Brigade%20%281999%29%28Ja%29%20LPCM%205.1.jpg)
 

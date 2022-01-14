@@ -8,5 +8,5 @@ Los Angeles SWAT cop Jack Traven is up against bomb expert Howard Payne, who's a
 
 [TMDB](1637)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Speed%20%281994%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Speed%20%281994%29%20DTS-HD%20MA%205.1.jpg)
 

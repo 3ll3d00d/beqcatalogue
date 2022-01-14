@@ -8,5 +8,5 @@ When five sorority girls inadvertently cause the murder of one of their sisters 
 
 [TMDB](26688)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sorority%20Row%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sorority%20Row%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Akira is the legendary killer known as The Fable. Following the order of his bos
 
 [TMDB](734519)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Fable%20The%20Killer%20Who%20Doesn%27t%20Kill%20%282021%29%28Ja%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Fable%20The%20Killer%20Who%20Doesn%27t%20Kill%20%282021%29%28Ja%29%20DD%2B%205.1.jpg)
 

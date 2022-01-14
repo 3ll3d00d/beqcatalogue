@@ -8,5 +8,5 @@ From the star and director of "The Storm Riders" come this turbo- charged action
 
 [TMDB](49199)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Legend%20of%20Speed%20%281995%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Legend%20of%20Speed%20%281995%29%28Ca%29%20TrueHD%207.1.jpg)
 

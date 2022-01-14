@@ -8,5 +8,5 @@ Roast Pork joins the triad as a young man and ends up becoming a trusted lieuten
 
 [TMDB](41980)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Once%20a%20Gangster%20%282010%29%28Ca%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Once%20a%20Gangster%20%282010%29%28Ca%29%20DD%2B%202.0.jpg)
 

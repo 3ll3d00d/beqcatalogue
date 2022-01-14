@@ -8,5 +8,5 @@ Great Patriotic War, 1945. After barely surviving a battle with a mysterious, gh
 
 [TMDB](111237)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/White%20Tiger%20%282012%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/White%20Tiger%20%282012%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A story of yakuza family from 1999 to 2019. Kenji Yamamoto's (Gou Ayano) father 
 
 [TMDB](736146)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Family%20%282021%29%28Ja%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Family%20%282021%29%28Ja%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ A crew of international astronauts are sent on a private mission to Jupiter's fo
 
 [TMDB](174772)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Europa%20Report%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Europa%20Report%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

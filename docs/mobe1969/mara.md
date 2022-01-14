@@ -8,5 +8,5 @@ Criminal psychologist Kate Fuller is assigned to the murder of a man who has see
 
 [TMDB](514277)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mara%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mara%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

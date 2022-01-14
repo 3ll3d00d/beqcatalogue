@@ -8,5 +8,5 @@ A group of young adults visit a boarded up campsite named Crystal Lake where the
 
 [TMDB](13207)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Friday%20the%2013th%20%282009%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Friday%20the%2013th%20%282009%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ A DEA agent provides former Marine Tim Kearney with a way out of his prison sent
 
 [TMDB](10425)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bobby%20Z%20%282007%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bobby%20Z%20%282007%29%20TrueHD%205.1.jpg)
 

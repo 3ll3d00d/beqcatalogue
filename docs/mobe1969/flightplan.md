@@ -8,5 +8,5 @@ Flying at 40,000 feet in a state-of-the art aircraft that she helped design, Kyl
 
 [TMDB](9315)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flightplan%20%282005%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Flightplan%20%282005%29%20LPCM%205.1.jpg)
 

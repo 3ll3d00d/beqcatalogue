@@ -8,5 +8,5 @@ David, a robotic boy, the first of his kind programmed to love, is adopted as a 
 
 [TMDB](644)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A.I.%20Artificial%20Intelligence%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A.I.%20Artificial%20Intelligence%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

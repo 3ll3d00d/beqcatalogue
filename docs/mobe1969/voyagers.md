@@ -8,5 +8,5 @@ With the future of the human race at stake, a group of young men and women -- br
 
 [TMDB](597890)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Voyagers%20%282021%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Voyagers%20%282021%29%20TrueHD%205.1.jpg)
 

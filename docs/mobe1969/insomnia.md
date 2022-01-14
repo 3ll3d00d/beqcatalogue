@@ -8,5 +8,5 @@ Two Los Angeles homicide detectives are dispatched to a northern town where the 
 
 [TMDB](320)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Insomnia%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Insomnia%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

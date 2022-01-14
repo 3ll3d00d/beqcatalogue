@@ -8,5 +8,5 @@ After the re-emergence of the world's first mutant, world-destroyer Apocalypse, 
 
 [TMDB](246655)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X-Men%20Apocalypse%20%282016%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X/X-Men%20Apocalypse%20%282016%29%20Atmos.jpg)
 

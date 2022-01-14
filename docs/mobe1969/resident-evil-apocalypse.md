@@ -10,7 +10,7 @@ As the city is locked down under quarantine, Alice finds out that the people tha
 
 [TMDB](1577)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Resident%20Evil%20Apocalypse%20%282004%29%28Extended%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Resident%20Evil%20Apocalypse%20%282004%29%28Extended%29%20Atmos.jpg)
 
 ## Atmos
 
@@ -22,5 +22,5 @@ As the city is locked down under quarantine, Alice finds out that the people tha
 
 [TMDB](1577)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Resident%20Evil%20Apocalypse%20%282004%29%28TC%29%20Atmos.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Resident%20Evil%20Apocalypse%20%282004%29%28TC%29%20Atmos.jpg)
 

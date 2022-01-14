@@ -8,5 +8,5 @@ Lucas, a 14-year-old boy inducted into the gang life in Washington D.C., is dete
 
 [TMDB](538207)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/We%20Die%20Young%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/We%20Die%20Young%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

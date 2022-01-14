@@ -8,5 +8,5 @@ After a former elite agent rescues a 12-year-old Chinese girl who's been abducte
 
 [TMDB](72387)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Safe%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Safe%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

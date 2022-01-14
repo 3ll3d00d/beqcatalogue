@@ -8,5 +8,5 @@ Donna's senior prom is supposed to be the best night of her life, though a sadis
 
 [TMDB](8617)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Prom%20Night%20%282008%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Prom%20Night%20%282008%29%20TrueHD%205.1.jpg)
 

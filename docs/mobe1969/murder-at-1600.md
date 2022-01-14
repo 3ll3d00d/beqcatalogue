@@ -8,5 +8,5 @@ A secretary is found dead in a White House bathroom during an international cris
 
 [TMDB](9415)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Murder%20at%201600%20%281997%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Murder%20at%201600%20%281997%29%20DD%2B%205.1.jpg)
 

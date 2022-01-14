@@ -10,5 +10,5 @@ In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a 
 
 [TMDB](19995)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Avatar%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Avatar%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

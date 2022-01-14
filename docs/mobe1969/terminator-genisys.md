@@ -8,5 +8,5 @@ The year is 2029. John Connor, leader of the resistance continues the war agains
 
 [TMDB](87101)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Terminator%20Genisys%20%282015%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Terminator%20Genisys%20%282015%29%20Atmos.jpg)
 

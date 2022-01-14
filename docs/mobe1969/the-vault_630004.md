@@ -8,5 +8,5 @@ When an engineer learns of a mysterious, impenetrable fortress hidden under The 
 
 [TMDB](630004)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Vault%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Vault%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 

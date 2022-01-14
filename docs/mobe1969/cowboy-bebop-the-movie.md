@@ -8,7 +8,7 @@ The year is 2071. Following a terrorist bombing, a deadly virus is released on t
 
 [TMDB](11299)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cowboy%20Bebop%20The%20Movie%20%282001%29%28Ja%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cowboy%20Bebop%20The%20Movie%20%282001%29%28Ja%29%20AC3%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ The year is 2071. Following a terrorist bombing, a deadly virus is released on t
 
 [TMDB](11299)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cowboy%20Bebop%20The%20Movie%20%282001%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cowboy%20Bebop%20The%20Movie%20%282001%29%28Ja%29%20TrueHD%205.1.jpg)
 

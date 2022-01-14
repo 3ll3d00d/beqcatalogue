@@ -8,5 +8,5 @@ Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in B
 
 [TMDB](417859)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Puss%20In%20Boots%20%282011%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Puss%20In%20Boots%20%282011%29%20TrueHD%207.1.jpg)
 

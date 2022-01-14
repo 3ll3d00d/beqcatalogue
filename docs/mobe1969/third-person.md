@@ -8,5 +8,5 @@ An acclaimed novelist struggles to write an analysis of love in one of three sto
 
 [TMDB](192145)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Third%20Person%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Third%20Person%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

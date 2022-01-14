@@ -8,5 +8,5 @@ Three British soldiers find themselves stranded in No Man's Land after a failed 
 
 [TMDB](215814)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Forbidden%20Ground%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Forbidden%20Ground%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

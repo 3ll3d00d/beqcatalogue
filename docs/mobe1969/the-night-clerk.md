@@ -8,5 +8,5 @@ Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism s
 
 [TMDB](526007)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Night%20Clerk%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Night%20Clerk%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

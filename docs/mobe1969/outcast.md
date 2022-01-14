@@ -8,5 +8,5 @@ A mysterious warrior teams up with the daughter and son of a deposed Chinese Emp
 
 [TMDB](289720)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Outcast%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Outcast%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War h
 
 [TMDB](600)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Full%20Metal%20Jacket%20%281987%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Full%20Metal%20Jacket%20%281987%29%20DTS-HD%20MA%205.1.jpg)
 

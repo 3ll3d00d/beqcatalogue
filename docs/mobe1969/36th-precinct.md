@@ -8,5 +8,5 @@ The film takes place in Paris, where two cops are competing for the vacant seat 
 
 [TMDB](7291)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/36th%20Precinct%20%282004%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/36th%20Precinct%20%282004%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
 

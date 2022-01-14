@@ -8,5 +8,5 @@ When an unknown military force invades Bushwick, a Brooklyn neighborhood, young 
 
 [TMDB](430354)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bushwick%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bushwick%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,7 +8,7 @@ Tianhuo Island is a beautiful paradise. It almost makes people forget that it is
 
 [TMDB](604872)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Skyfire%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Skyfire%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ Tianhuo Island is a beautiful paradise. It almost makes people forget that it is
 
 [TMDB](604872)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Skyfire%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Skyfire%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

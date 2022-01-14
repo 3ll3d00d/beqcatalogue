@@ -8,5 +8,5 @@ A traumatized shark expert must battle her own fears to lead a thrill-seeking bu
 
 [TMDB](59963)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dark%20Tide%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dark%20Tide%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Called in to recover evidence in the aftermath of a horrific explosion on a New 
 
 [TMDB](7551)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deja%20Vu%20%282006%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deja%20Vu%20%282006%29%20LPCM%205.1.jpg)
 

@@ -8,5 +8,5 @@ HA Yoon-ju becomes the newest member to a unit within the Korean Police Forces S
 
 [TMDB](204553)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cold%20Eyes%20%282013%29%28Ko%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cold%20Eyes%20%282013%29%28Ko%29%20DTS-HD%20MA%207.1.jpg)
 

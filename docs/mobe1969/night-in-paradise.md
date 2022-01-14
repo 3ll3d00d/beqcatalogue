@@ -8,5 +8,5 @@ An assassin named Tae-goo is offered a chance to switch sides with his rival Buk
 
 [TMDB](606523)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Night%20in%20Paradise%20%282020%29%28Ko%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Night%20in%20Paradise%20%282020%29%28Ko%29%20DD%2B%205.1.jpg)
 

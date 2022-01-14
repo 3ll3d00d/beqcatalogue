@@ -8,5 +8,5 @@ Bumbling supervillain Megamind finally defeats his nemesis, the superhero Metro 
 
 [TMDB](38055)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Megamind%20%282010%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Megamind%20%282010%29%20TrueHD%207.1.jpg)
 

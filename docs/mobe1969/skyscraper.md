@@ -8,5 +8,5 @@ Framed and on the run, a former FBI agent must save his family from a blazing fi
 
 [TMDB](447200)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Skyscraper%20%282018%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Skyscraper%20%282018%29%20Atmos.jpg)
 

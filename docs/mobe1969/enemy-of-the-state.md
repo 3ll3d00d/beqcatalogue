@@ -8,5 +8,5 @@ A hotshot Washington criminal lawyer becomes the target of a rogue security exec
 
 [TMDB](9798)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Enemy%20of%20the%20State%20%281998%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Enemy%20of%20the%20State%20%281998%29%20LPCM%205.1.jpg)
 

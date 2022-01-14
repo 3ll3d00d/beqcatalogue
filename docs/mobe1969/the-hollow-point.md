@@ -8,5 +8,5 @@ Los Reyes County, Arizona. Leland, a retired lawman, works with Wallace, the new
 
 [TMDB](262982)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hollow%20Point%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hollow%20Point%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

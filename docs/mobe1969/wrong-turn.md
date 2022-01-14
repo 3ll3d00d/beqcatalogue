@@ -8,5 +8,5 @@ Chris crashes into a carload of other young people, and the group of stranded mo
 
 [TMDB](9902)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wrong%20Turn%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wrong%20Turn%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 

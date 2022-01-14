@@ -10,7 +10,7 @@ Dub track
 
 [TMDB](334298)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Monster%20Hunt%20%282015%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Monster%20Hunt%20%282015%29%28Ca%29%20TrueHD%207.1.jpg)
 
 ## TrueHD 7.1
 
@@ -20,5 +20,5 @@ Young monster kids try to make peace between the world of humans and the world o
 
 [TMDB](334298)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Monster%20Hunt%20%282015%29%28Ma%29%20TrueHD%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Monster%20Hunt%20%282015%29%28Ma%29%20TrueHD%207.1.jpg)
 

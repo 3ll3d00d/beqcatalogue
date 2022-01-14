@@ -8,5 +8,5 @@ After discovering a passenger ship missing since 1962 floating adrift on the Ber
 
 [TMDB](9645)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20Ship%20%282002%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghost%20Ship%20%282002%29%20TrueHD%205.1.jpg)
 

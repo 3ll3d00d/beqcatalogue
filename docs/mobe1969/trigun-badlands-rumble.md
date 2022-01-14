@@ -8,5 +8,5 @@ In a quicksand surrounded town called Makka, rumors spread of a legendary robber
 
 [TMDB](51859)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Trigun%20Badlands%20Rumble%20%282010%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Trigun%20Badlands%20Rumble%20%282010%29%28Ja%29%20TrueHD%205.1.jpg)
 

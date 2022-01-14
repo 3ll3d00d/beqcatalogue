@@ -8,5 +8,5 @@ When disc jockey Grant Mazzy reports to his basement radio station in the Canadi
 
 [TMDB](23963)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pontypool%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pontypool%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ En route to the honeymoon of William Riker to Deanna Troi on her home planet of 
 
 [TMDB](201)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Star%20Trek%20Nemesis%20%282002%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Star%20Trek%20Nemesis%20%282002%29%20TrueHD%205.1.jpg)
 

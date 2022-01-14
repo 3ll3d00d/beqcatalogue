@@ -8,5 +8,5 @@ Rebecca must unlock the terror behind her little brother's experiences that once
 
 [TMDB](345911)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lights%20Out%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lights%20Out%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

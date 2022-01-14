@@ -8,5 +8,5 @@ Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's p
 
 [TMDB](269149)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zootopia%20%282016%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zootopia%20%282016%29%20Atmos.jpg)
 

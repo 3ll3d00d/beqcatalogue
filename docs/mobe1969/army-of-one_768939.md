@@ -8,5 +8,5 @@ Out hiking, Special Forces Brenner Baker stumbles onto a Cartel's compound. Her 
 
 [TMDB](768939)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Army%20of%20One%20%282020%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Army%20of%20One%20%282020%29%20DD%2B%202.0.jpg)
 

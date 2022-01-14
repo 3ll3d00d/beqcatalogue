@@ -8,5 +8,5 @@ Buried by treacherous conditions at the top of Mt. Baekdu, a policeman must brav
 
 [TMDB](591051)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Savage%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Savage%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

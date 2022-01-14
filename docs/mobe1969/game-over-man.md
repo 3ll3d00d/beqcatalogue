@@ -8,5 +8,5 @@ Three friends are on the verge of getting their video game financed when their b
 
 [TMDB](456750)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Game%20Over%2C%20Man%21%20%282018%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Game%20Over%2C%20Man%21%20%282018%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ A freak tsunami traps shoppers at a coastal Australian supermarket inside the bu
 
 [TMDB](118957)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bait%20%282012%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bait%20%282012%29%20TrueHD%207.1.jpg)
 

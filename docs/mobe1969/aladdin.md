@@ -8,5 +8,5 @@ Princess Jasmine grows tired of being forced to remain in the palace, so she sne
 
 [TMDB](812)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Aladdin%20%281992%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Aladdin%20%281992%29%20Atmos.jpg)
 

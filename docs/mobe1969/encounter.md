@@ -8,5 +8,5 @@ A group of friends uncover an otherworldly object in a rural field, which they s
 
 [TMDB](529483)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Encounter%20%282018%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Encounter%20%282018%29%20AC3%205.1.jpg)
 

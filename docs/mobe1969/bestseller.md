@@ -8,5 +8,5 @@ Following a humiliating plagiarism scandal, an author moves to an isolated small
 
 [TMDB](42507)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bestseller%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bestseller%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

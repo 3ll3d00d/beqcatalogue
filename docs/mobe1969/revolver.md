@@ -8,5 +8,5 @@ Hotshot gambler Jake Green (Jason Statham) is long on bravado and seriously shor
 
 [TMDB](10851)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Revolver%20%282005%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Revolver%20%282005%29%20TrueHD%205.1.jpg)
 

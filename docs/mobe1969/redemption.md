@@ -8,5 +8,5 @@ Quinn Forte had it all: power, money, a brother who idolized him, and a woman wh
 
 [TMDB](220820)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Redemption%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Redemption%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

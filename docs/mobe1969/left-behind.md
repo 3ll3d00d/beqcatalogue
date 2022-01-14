@@ -8,5 +8,5 @@ A small group of survivors are left behind after millions of people suddenly van
 
 [TMDB](218043)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Left%20Behind%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Left%20Behind%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Charly Matteis has turned his back on his life as an outlaw. For the last three 
 
 [TMDB](37645)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/22%20Bullets%20%282010%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/22%20Bullets%20%282010%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
 

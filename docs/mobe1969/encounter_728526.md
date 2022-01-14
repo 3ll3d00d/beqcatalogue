@@ -8,5 +8,5 @@ A decorated Marine goes on a rescue mission to save his two young sons from an u
 
 [TMDB](728526)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Encounter%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Encounter%20%282021%29%20DD%2B%205.1.jpg)
 

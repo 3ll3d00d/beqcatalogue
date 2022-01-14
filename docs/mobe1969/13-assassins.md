@@ -8,5 +8,5 @@ A bravado period action film set at the end of Japan's feudal era in which a gro
 
 [TMDB](58857)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/13%20Assassins%20%282010%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/13%20Assassins%20%282010%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

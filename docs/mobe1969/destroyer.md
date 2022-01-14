@@ -8,5 +8,5 @@ Erin Bell is an LAPD detective who, as a young cop, was placed undercover with a
 
 [TMDB](471507)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Destroyer%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Destroyer%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

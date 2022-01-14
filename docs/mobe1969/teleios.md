@@ -8,5 +8,5 @@ A deep space mining vessel has been adrift for two years. It is suspected the cr
 
 [TMDB](421443)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Teleios%20%282017%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Teleios%20%282017%29%20DD%2B%202.0.jpg)
 

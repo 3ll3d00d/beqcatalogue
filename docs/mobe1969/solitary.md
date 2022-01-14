@@ -8,5 +8,5 @@ A man wakes up inside a room to discover he's a prisoner sent into space to form
 
 [TMDB](725273)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Solitary%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Solitary%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

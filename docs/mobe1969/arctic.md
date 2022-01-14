@@ -8,5 +8,5 @@ A man stranded in the Arctic is finally about to receive his long awaited rescue
 
 [TMDB](453755)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Arctic%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Arctic%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

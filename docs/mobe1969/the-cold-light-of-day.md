@@ -8,5 +8,5 @@ After his family is kidnapped during their sailing trip in Spain, a young Wall S
 
 [TMDB](77948)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Cold%20Light%20of%20Day%20%282012%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Cold%20Light%20of%20Day%20%282012%29%20TrueHD%205.1.jpg)
 

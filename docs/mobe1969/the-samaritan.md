@@ -8,5 +8,5 @@ After twenty years in prison, Foley is finished with the grifter's life. When he
 
 [TMDB](98339)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Samaritan%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Samaritan%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

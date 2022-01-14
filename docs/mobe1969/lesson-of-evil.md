@@ -8,5 +8,5 @@ A popular high school teacher concocts an extreme plan to deal with the rise of 
 
 [TMDB](120852)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lesson%20of%20Evil%20%282012%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lesson%20of%20Evil%20%282012%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

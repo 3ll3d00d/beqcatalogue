@@ -8,5 +8,5 @@ Workers at the Fukushima Daiichi facility in Japan risk their lives and stay at 
 
 [TMDB](563067)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fukushima%2050%20%282020%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fukushima%2050%20%282020%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

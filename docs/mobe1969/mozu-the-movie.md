@@ -8,5 +8,5 @@ Lone wolf detective with an enormous personal grievance seeks to connect the mys
 
 [TMDB](360552)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mozu%20The%20Movie%20%282015%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mozu%20The%20Movie%20%282015%29%28Ja%29%20TrueHD%205.1.jpg)
 

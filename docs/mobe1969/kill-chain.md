@@ -8,5 +8,5 @@ A hotel room shootout between two assassins kicks off a long night where bodies 
 
 [TMDB](531299)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kill%20Chain%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kill%20Chain%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

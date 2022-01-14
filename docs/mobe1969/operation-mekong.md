@@ -8,5 +8,5 @@ Chinese narco-cops take their mission to the Golden Triangle following the Mekon
 
 [TMDB](415214)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Operation%20Mekong%20%282016%29%28Ma%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Operation%20Mekong%20%282016%29%28Ma%29%20DTS-X.jpg)
 

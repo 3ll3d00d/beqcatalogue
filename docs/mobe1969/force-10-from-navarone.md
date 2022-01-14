@@ -8,5 +8,5 @@ World War II, 1943. Mallory and Miller, the heroes who destroyed the guns of Nav
 
 [TMDB](17339)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Force%2010%20from%20Navarone%20%281978%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Force%2010%20from%20Navarone%20%281978%29%20DTS-HD%20MA%205.1.jpg)
 

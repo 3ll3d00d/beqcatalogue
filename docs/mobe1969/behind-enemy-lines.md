@@ -8,5 +8,5 @@ While flying a routine reconnaissance mission over Bosnia, fighter pilot Chris B
 
 [TMDB](8007)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Behind%20Enemy%20Lines%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Behind%20Enemy%20Lines%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

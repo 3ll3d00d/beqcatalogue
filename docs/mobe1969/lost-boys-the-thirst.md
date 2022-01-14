@@ -8,5 +8,5 @@ Vampire hunter Edgar Frog is destitute and nearly friendless, when the beautiful
 
 [TMDB](46812)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lost%20Boys%20The%20Thirst%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lost%20Boys%20The%20Thirst%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

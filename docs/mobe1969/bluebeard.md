@@ -8,5 +8,5 @@ Dr. Seung-hoon sedates his landlord before a medical check-up, when the old man 
 
 [TMDB](435809)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bluebeard%20%282017%29%28Ko%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bluebeard%20%282017%29%28Ko%29%20DTS-X.jpg)
 

@@ -8,5 +8,5 @@ The adventures of two California Highway Patrol motorcycle officers as they make
 
 [TMDB](417644)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/CHiPS%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/CHiPS%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

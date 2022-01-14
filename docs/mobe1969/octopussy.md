@@ -4,9 +4,9 @@
 
 **1983 • PG • 2h 11m • Adventure, Action, Thriller • mobe1969**
 
-James Bond is sent to investigate after a fellow “00” agent is found dead with a priceless Fabergé egg. Bond follows the mystery and uncovers a smuggling scandal and a Russian General who wants to provoke a new World War.
+James Bond is sent to investigate after a fellow â€œ00â€ agent is found dead with a priceless FabergÃ© egg. Bond follows the mystery and uncovers a smuggling scandal and a Russian General who wants to provoke a new World War.
 
 [TMDB](700)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Octopussy%20%281983%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Octopussy%20%281983%29%20DTS-HD%20MA%205.1.jpg)
 

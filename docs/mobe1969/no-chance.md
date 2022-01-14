@@ -8,5 +8,5 @@ When a group of international criminals from his past kidnap his daughter, the w
 
 [TMDB](493550)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/No%20Chance%20%282020%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/No%20Chance%20%282020%29%20AC3%205.1.jpg)
 

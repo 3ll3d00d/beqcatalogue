@@ -8,5 +8,5 @@ When a much-publicized ice-skating scandal strips them of their gold medals, two
 
 [TMDB](9955)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blades%20of%20Glory%20%282007%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blades%20of%20Glory%20%282007%29%20LPCM%205.1.jpg)
 

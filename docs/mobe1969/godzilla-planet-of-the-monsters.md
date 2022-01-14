@@ -8,5 +8,5 @@ In the year 2048, the human race is forced to leave Earth after decades of losin
 
 [TMDB](449574)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Godzilla%20Planet%20of%20the%20Monsters%20%282017%29%28Ja%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Godzilla%20Planet%20of%20the%20Monsters%20%282017%29%28Ja%29%20DD%2B%205.1.jpg)
 

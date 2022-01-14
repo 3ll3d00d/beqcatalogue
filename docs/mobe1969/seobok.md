@@ -8,5 +8,5 @@ A former intelligence agent gets involved with the first human clone, Seo Bok, w
 
 [TMDB](586047)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Seobok%20%282021%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Seobok%20%282021%29%28Ko%29%20TrueHD%205.1.jpg)
 

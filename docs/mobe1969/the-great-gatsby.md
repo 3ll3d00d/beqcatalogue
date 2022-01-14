@@ -8,5 +8,5 @@ An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner
 
 [TMDB](64682)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Great%20Gatsby%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Great%20Gatsby%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

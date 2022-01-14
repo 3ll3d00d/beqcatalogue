@@ -8,5 +8,5 @@ When Scott learns that his longtime cyber-buddy from Berlin is a gorgeous young 
 
 [TMDB](9352)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/EuroTrip%20%282004%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/EuroTrip%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Seven years after the apparent death of Chen Zhen, who was shot after discoverin
 
 [TMDB](47854)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Legend%20of%20The%20Fist%20The%20Return%20of%20Chen%20Zhen%20%282010%29%28Ma%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Legend%20of%20The%20Fist%20The%20Return%20of%20Chen%20Zhen%20%282010%29%28Ma%29%20TrueHD%207.1.jpg)
 

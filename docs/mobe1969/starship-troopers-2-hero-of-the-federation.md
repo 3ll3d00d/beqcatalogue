@@ -8,5 +8,5 @@ In the sequel to Paul Verhoeven's loved/reviled sci-fi film, a group of troopers
 
 [TMDB](10304)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Starship%20Troopers%202%20Hero%20of%20the%20Federation%20%282004%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Starship%20Troopers%202%20Hero%20of%20the%20Federation%20%282004%29%20TrueHD%205.1.jpg)
 

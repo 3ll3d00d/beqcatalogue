@@ -8,5 +8,5 @@ A team of Special Ops elite soldiers, led by Captain Gus, formed a strong allegi
 
 [TMDB](479924)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ultimate%20Justice%20%282017%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/U/Ultimate%20Justice%20%282017%29%20DD%2B%202.0.jpg)
 

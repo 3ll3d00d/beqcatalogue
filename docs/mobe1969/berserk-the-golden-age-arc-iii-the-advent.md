@@ -8,5 +8,5 @@ A year has passed since Guts parted ways with the Band of the Hawks. Meanwhile, 
 
 [TMDB](144288)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Berserk%20The%20Golden%20Age%20Arc%20III%20The%20Advent%20%282013%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Berserk%20The%20Golden%20Age%20Arc%20III%20The%20Advent%20%282013%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

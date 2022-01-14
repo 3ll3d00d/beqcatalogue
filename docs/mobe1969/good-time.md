@@ -8,5 +8,5 @@ After a botched bank robbery lands his younger brother in prison, Connie Nikas e
 
 [TMDB](429200)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Good%20Time%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Good%20Time%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

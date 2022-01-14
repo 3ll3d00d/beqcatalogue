@@ -8,5 +8,5 @@ Nada, a wanderer without meaning in his life, discovers a pair of sunglasses cap
 
 [TMDB](8337)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/They%20Live%20%281988%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/They%20Live%20%281988%29%20DTS-HD%20MA%205.1.jpg)
 

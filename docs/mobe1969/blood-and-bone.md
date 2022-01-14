@@ -8,5 +8,5 @@ In Los Angeles, an ex-con takes the underground fighting world by storm in his q
 
 [TMDB](22164)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20and%20Bone%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blood%20and%20Bone%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

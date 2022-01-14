@@ -8,5 +8,5 @@ When a cop who is just out of rehab takes the graveyard shift in a city hospital
 
 [TMDB](434555)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Possession%20of%20Hannah%20Grace%20%282018%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Possession%20of%20Hannah%20Grace%20%282018%29%20DD%2B%205.1.jpg)
 

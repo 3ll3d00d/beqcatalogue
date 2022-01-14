@@ -8,5 +8,5 @@ When a Las Vegas performer-turned-snitch named Buddy Israel decides to turn stat
 
 [TMDB](7516)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Smokin%27%20Aces%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Smokin%27%20Aces%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

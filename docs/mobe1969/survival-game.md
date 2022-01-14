@@ -8,5 +8,5 @@ A twist on the classic game of Mafia. 12 competitors take part in a game of life
 
 [TMDB](375108)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Survival%20Game%20%282016%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Survival%20Game%20%282016%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)
 

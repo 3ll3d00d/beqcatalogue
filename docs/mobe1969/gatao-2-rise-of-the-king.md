@@ -1,6 +1,6 @@
 # Gatao 2: Rise of the King
 
-## DD+5.1
+## DD+ 5.1
 
 **2018 • NR • 2h 7m • Mandarin • Action, Drama, Crime • mobe1969**
 
@@ -8,5 +8,5 @@ Ren has finally succeeded his boss as the head of the North Fort Gang. For so lo
 
 [TMDB](506053)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gatao%202%20Rise%20of%20the%20King%20%282018%29%28Ma%29%20DD%2B5.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gatao%202%20Rise%20of%20the%20King%20%282018%29%28Ma%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ A biker is forced to deliver a ticking time bomb by a mysterious caller who has 
 
 [TMDB](77175)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Adrenalin%20Rush%20%282011%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Adrenalin%20Rush%20%282011%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Li Haoming, a talented funny geek enjoys living in his own virtual world and sud
 
 [TMDB](542330)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Reborn%20%282018%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Reborn%20%282018%29%28Ma%29%20TrueHD%205.1.jpg)
 

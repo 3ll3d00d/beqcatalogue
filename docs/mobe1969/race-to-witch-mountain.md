@@ -8,5 +8,5 @@ A taxi driver gets more than he bargained for when he picks up two teen runaways
 
 [TMDB](13836)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Race%20to%20Witch%20Mountain%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Race%20to%20Witch%20Mountain%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

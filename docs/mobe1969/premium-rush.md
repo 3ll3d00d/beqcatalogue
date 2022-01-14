@@ -8,5 +8,5 @@ In Manhattan, a bike messenger picks up an envelope that attracts the interest o
 
 [TMDB](49526)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Premium%20Rush%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Premium%20Rush%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

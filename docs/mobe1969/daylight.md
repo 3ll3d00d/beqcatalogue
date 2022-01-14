@@ -8,5 +8,5 @@ A group of armed robbers fleeing the police head for the New Jersey Tunnel and r
 
 [TMDB](11228)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Daylight%20%281996%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Daylight%20%281996%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,7 +8,7 @@ A DEA agent investigates the disappearance of a legendary Army ranger drill serg
 
 [TMDB](10782)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Basic%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Basic%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ A DEA agent investigates the disappearance of a legendary Army ranger drill serg
 
 [TMDB](10782)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Basic%20%282003%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Basic%20%282003%29%20TrueHD%205.1.jpg)
 

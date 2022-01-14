@@ -8,5 +8,5 @@ Shattered by the unexpected news of their irreversible break-up, an aspiring orc
 
 [TMDB](638943)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Perdida%20%282020%29%28Es%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Perdida%20%282020%29%28Es%29%20DD%2B%205.1.jpg)
 

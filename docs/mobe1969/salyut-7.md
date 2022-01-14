@@ -8,5 +8,5 @@ USSR, June 1985. After contact with the Salyut 7 space station is lost, cosmonau
 
 [TMDB](438740)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Salyut%207%20%282017%29%28Ru%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Salyut%207%20%282017%29%28Ru%29%20DTS-HD%20MA%207.1.jpg)
 

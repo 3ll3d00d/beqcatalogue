@@ -8,5 +8,5 @@ After a prosecution lawyer is framed and convicted for murder, he tries to catch
 
 [TMDB](378348)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Violent%20Prosecutor%20%282016%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Violent%20Prosecutor%20%282016%29%28Ko%29%20TrueHD%205.1.jpg)
 

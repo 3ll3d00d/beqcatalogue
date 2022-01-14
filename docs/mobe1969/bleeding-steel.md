@@ -8,5 +8,5 @@ Jackie Chan stars as a hardened special forces agent who fights to protect a you
 
 [TMDB](460648)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bleeding%20Steel%20%282017%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bleeding%20Steel%20%282017%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

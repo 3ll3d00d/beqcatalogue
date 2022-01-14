@@ -8,5 +8,5 @@ In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and th
 
 [TMDB](2493)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Princess%20Bride%20%281987%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Princess%20Bride%20%281987%29%20DTS-HD%20MA%205.1.jpg)
 

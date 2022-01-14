@@ -4,9 +4,9 @@
 
 **2012 • PG • 1h 25m • Thriller, Drama • mobe1969**
 
-Criminal psychologist Cameron Grainger is Detroit’s go-to hostage negotiator. Blaming herself when a crisis she’s handling goes wrong and a young man is killed, she removes herself from service. But she is called back into sudden and terrifying action when her own sister becomes a hostage and the assailants—with an agenda to be revealed—demand that Cameron be the one to negotiate her release.
+Criminal psychologist Cameron Grainger is Detroitâ€™s go-to hostage negotiator. Blaming herself when a crisis sheâ€™s handling goes wrong and a young man is killed, she removes herself from service. But she is called back into sudden and terrifying action when her own sister becomes a hostage and the assailantsâ€”with an agenda to be revealedâ€”demand that Cameron be the one to negotiate her release.
 
 [TMDB](120409)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Crisis%20Point%20%282012%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Crisis%20Point%20%282012%29%20DD%2B%205.1.jpg)
 

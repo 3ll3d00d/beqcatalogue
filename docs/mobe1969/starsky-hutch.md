@@ -8,5 +8,5 @@ Join uptight David Starsky and laid-back Ken "Hutch" Hutchinson as they're paire
 
 [TMDB](9384)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Starsky%20%26%20Hutch%20%282004%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Starsky%20%26%20Hutch%20%282004%29%20LPCM%205.1.jpg)
 

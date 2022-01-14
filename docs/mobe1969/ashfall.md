@@ -8,5 +8,5 @@ A group of unlikely heroes from across the Korean peninsula try to save the day 
 
 [TMDB](581387)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ashfall%20%282019%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Ashfall%20%282019%29%28Ko%29%20TrueHD%205.1.jpg)
 

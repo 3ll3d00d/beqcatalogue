@@ -8,5 +8,5 @@ A man named Mr. Smith delivers a woman's baby during a shootout, and is then cal
 
 [TMDB](4141)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shoot%20%27Em%20Up%20%282007%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shoot%20%27Em%20Up%20%282007%29%20DTS-HD%20MA%207.1.jpg)
 

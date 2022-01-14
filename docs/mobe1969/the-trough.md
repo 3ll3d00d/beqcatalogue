@@ -8,5 +8,5 @@ Yu Chau is a cop who has gone so deep undercover within the triad. He can no lon
 
 [TMDB](521288)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Trough%20%282018%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Trough%20%282018%29%28Ca%29%20TrueHD%205.1.jpg)
 

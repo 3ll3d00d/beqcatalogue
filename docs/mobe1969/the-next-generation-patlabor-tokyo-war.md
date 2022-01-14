@@ -8,5 +8,5 @@ An attack takes place on Rainbow Bridge in Odaiba, Tokyo by the fighter helicopt
 
 [TMDB](254538)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Next%20Generation%20Patlabor%20Tokyo%20War%20%282015%29%28Ja%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Next%20Generation%20Patlabor%20Tokyo%20War%20%282015%29%28Ja%29%20Atmos.jpg)
 

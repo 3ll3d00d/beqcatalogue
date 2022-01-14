@@ -8,5 +8,5 @@ Ancient Korea, 17th century. While the paranoid King Lee Jo of Joseon, vassal of
 
 [TMDB](537190)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rampant%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rampant%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

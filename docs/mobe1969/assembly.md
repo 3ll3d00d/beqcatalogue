@@ -8,7 +8,7 @@ Follows a soldier trying to gain recognition for comrades who died in 1948, at a
 
 [TMDB](14044)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Assembly%20%282007%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Assembly%20%282007%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 7.1
 
@@ -18,5 +18,5 @@ Follows a soldier trying to gain recognition for comrades who died in 1948, at a
 
 [TMDB](14044)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Assembly%20%282007%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Assembly%20%282007%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
 

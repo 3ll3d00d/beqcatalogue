@@ -8,7 +8,7 @@ A 6th-century Scandinavian warrior named Beowulf embarks on a mission to slay th
 
 [TMDB](2310)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beowulf%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beowulf%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -20,5 +20,5 @@ A 6th-century Scandinavian warrior named Beowulf embarks on a mission to slay th
 
 [TMDB](2310)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Beowulf%20%282007%29%28DC%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beowulf%20%282007%29%28DC%29%20TrueHD%205.1.jpg)
 

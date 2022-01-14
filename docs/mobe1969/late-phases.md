@@ -8,7 +8,7 @@ When deadly attacks from a nearby forest beset a secluded retirement community, 
 
 [TMDB](254193)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Late%20Phases%20%282014%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Late%20Phases%20%282014%29%20AC3%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ When deadly attacks from a nearby forest beset a secluded retirement community, 
 
 [TMDB](254193)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Late%20Phases%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Late%20Phases%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

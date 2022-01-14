@@ -8,5 +8,5 @@ The details of undercover police officers are deleted from a police database and
 
 [TMDB](411268)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Line%20Walker%20%282016%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Line%20Walker%20%282016%29%28Ca%29%20TrueHD%207.1.jpg)
 

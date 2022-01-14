@@ -8,5 +8,5 @@ A passionate holiday romance leads to an obsessive relationship when an Australi
 
 [TMDB](363126)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Berlin%20Syndrome%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Berlin%20Syndrome%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

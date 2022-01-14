@@ -8,5 +8,5 @@ Five bored, occasionally high and always ineffective Vermont state troopers must
 
 [TMDB](39939)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Super%20Troopers%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Super%20Troopers%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

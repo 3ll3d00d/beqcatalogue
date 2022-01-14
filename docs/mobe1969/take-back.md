@@ -8,5 +8,5 @@ Following the abduction of her daughter, Zara does all she can to get her back. 
 
 [TMDB](695282)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Take%20Back%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Take%20Back%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 

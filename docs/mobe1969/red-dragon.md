@@ -8,5 +8,5 @@ Former FBI Agent Will Graham, who was once almost killed by the savage Hannibal 
 
 [TMDB](9533)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Red%20Dragon%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Red%20Dragon%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

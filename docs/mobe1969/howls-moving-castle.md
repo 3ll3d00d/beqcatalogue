@@ -8,7 +8,7 @@ When Sophie, a shy young woman, is cursed with an old body by a spiteful witch, 
 
 [TMDB](4935)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Howl%27s%20Moving%20Castle%20%282004%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Howl%27s%20Moving%20Castle%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ When Sophie, a shy young woman, is cursed with an old body by a spiteful witch, 
 
 [TMDB](4935)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Howl%27s%20Moving%20Castle%20%282004%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Howl%27s%20Moving%20Castle%20%282004%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

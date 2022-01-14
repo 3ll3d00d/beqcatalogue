@@ -8,5 +8,5 @@ Gunslinger Jonah Hex is appointed by President Ulysses Grant to track down terro
 
 [TMDB](20533)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jonah%20Hex%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jonah%20Hex%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

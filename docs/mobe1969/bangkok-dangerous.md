@@ -8,5 +8,5 @@ When carrying out a hit, assassin Joe (Cage) always makes use of the knowledge o
 
 [TMDB](13184)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bangkok%20Dangerous%20%282008%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bangkok%20Dangerous%20%282008%29%20DTS-HD%20MA%207.1.jpg)
 

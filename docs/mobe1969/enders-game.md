@@ -8,5 +8,5 @@ Based on the classic novel by Orson Scott Card, Ender's Game is the story of the
 
 [TMDB](80274)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ender%27s%20Game%20%282013%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Ender%27s%20Game%20%282013%29%20Atmos.jpg)
 

@@ -8,5 +8,5 @@ John Smith is a mysterious stranger who is drawn into a vicious war between two 
 
 [TMDB](9333)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Last%20Man%20Standing%20%281996%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Last%20Man%20Standing%20%281996%29%20DTS-HD%20MA%205.1.jpg)
 

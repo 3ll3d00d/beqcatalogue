@@ -8,5 +8,5 @@ Heather Mason and her father have been on the run, always one step ahead of dang
 
 [TMDB](61012)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Silent%20Hill%20Revelation%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Silent%20Hill%20Revelation%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

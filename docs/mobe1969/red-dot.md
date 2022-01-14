@@ -8,5 +8,5 @@ On a hiking trip to rekindle their marriage, a couple find themselves fleeing fo
 
 [TMDB](649087)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Red%20Dot%20%282021%29%28Se%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Red%20Dot%20%282021%29%28Se%29%20DD%2B%205.1.jpg)
 

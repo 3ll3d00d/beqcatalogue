@@ -8,5 +8,5 @@ In the combustible action franchise's final installment, maverick detectives Mar
 
 [TMDB](944)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lethal%20Weapon%204%20%281998%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lethal%20Weapon%204%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ In this grisly remake of the 2002 horror hit, five college chums rent an isolate
 
 [TMDB](298584)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cabin%20Fever%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cabin%20Fever%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

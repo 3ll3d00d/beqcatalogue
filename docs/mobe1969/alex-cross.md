@@ -8,7 +8,7 @@ After Washington DC detective Alex Cross is told that a family member has been m
 
 [TMDB](94348)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Alex%20Cross%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Alex%20Cross%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 7.1
 
@@ -18,5 +18,5 @@ After Washington DC detective Alex Cross is told that a family member has been m
 
 [TMDB](94348)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Alex%20Cross%20%282012%29%20DTS-HD%20MA%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Alex%20Cross%20%282012%29%20DTS-HD%20MA%207.1.jpg)
 

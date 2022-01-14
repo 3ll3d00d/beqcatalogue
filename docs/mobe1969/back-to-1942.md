@@ -8,5 +8,5 @@ In 1942, Henan Province was devastated by the most tragic famine in modern Chine
 
 [TMDB](139329)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Back%20to%201942%20%282012%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Back%20to%201942%20%282012%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

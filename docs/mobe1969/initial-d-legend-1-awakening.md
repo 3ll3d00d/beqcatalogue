@@ -8,5 +8,5 @@ The first movie in a trilogy, focusing on the battle against the Takahashi broth
 
 [TMDB](271709)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Initial%20D%20Legend%201%20-%20Awakening%20%282014%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Initial%20D%20Legend%201%20-%20Awakening%20%282014%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

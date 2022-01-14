@@ -8,5 +8,5 @@ A single mother gives her son a beloved doll for his birthday, only to discover 
 
 [TMDB](10585)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Child%27s%20Play%20%281988%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Child%27s%20Play%20%281988%29%20DTS-HD%20MA%205.1.jpg)
 

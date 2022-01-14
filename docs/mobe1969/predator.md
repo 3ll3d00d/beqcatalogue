@@ -8,5 +8,5 @@ A team of commandos on a mission in a Central American jungle find themselves hu
 
 [TMDB](106)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Predator%20%281987%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Predator%20%281987%29%20DTS-HD%20MA%205.1.jpg)
 

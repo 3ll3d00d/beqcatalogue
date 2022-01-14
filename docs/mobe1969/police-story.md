@@ -8,5 +8,5 @@ Officer Chan Ka Kui manages to put a major Hong Kong drug dealer behind the bars
 
 [TMDB](9056)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Police%20Story%20%281985%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Police%20Story%20%281985%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

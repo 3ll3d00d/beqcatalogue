@@ -8,5 +8,5 @@ A murdering spree begins to happen again, this time its targeted toward the orig
 
 [TMDB](4234)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Scream%203%20%282000%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Scream%203%20%282000%29%20DTS-HD%20MA%205.1.jpg)
 

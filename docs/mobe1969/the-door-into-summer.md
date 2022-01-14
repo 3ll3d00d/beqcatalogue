@@ -8,5 +8,5 @@ A pioneering roboticist awakens in 2025 after decades in cryosleep. To change th
 
 [TMDB](722798)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Door%20into%20Summer%20%282021%29%28Ja%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Door%20into%20Summer%20%282021%29%28Ja%29%20DD%2B%202.0.jpg)
 

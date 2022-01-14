@@ -8,5 +8,5 @@ Red, a safe cracker who has just been released from prison, is trying to hold hi
 
 [TMDB](477508)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lucky%20Day%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lucky%20Day%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

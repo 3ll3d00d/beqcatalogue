@@ -8,5 +8,5 @@ A washed up actor best known for playing the title character in the 1980s detect
 
 [TMDB](381518)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mindhorn%20%282016%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mindhorn%20%282016%29%20DD%2B%205.1.jpg)
 

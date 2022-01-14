@@ -8,5 +8,5 @@ Somewhere in Tokyo, there is a room. In that room is a black sphere. Periodicall
 
 [TMDB](396263)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gantz%20O%20%282017%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gantz%20O%20%282017%29%28Ja%29%20TrueHD%205.1.jpg)
 

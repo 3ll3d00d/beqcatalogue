@@ -8,5 +8,5 @@ EC Comics-inspired weirdness returns with three tales. In the first, a wooden st
 
 [TMDB](16288)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Creepshow%202%20%281987%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Creepshow%202%20%281987%29%20DTS-HD%20MA%205.1.jpg)
 

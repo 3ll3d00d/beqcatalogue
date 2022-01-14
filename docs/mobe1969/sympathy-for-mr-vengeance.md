@@ -8,5 +8,5 @@ This is the story of Ryu, a deaf man, and his sister, who requires a kidney tran
 
 [TMDB](4689)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sympathy%20for%20Mr%20Vengeance%20%282002%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sympathy%20for%20Mr%20Vengeance%20%282002%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -10,5 +10,5 @@ A group of Iraq War veterans goes on the run from U.S. military forces while the
 
 [TMDB](34544)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20A-Team%20%282010%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20A-Team%20%282010%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
 

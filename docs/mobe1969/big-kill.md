@@ -8,5 +8,5 @@ A tenderfoot from Philadelphia, two misfit gamblers on the run, and a deadly pre
 
 [TMDB](524124)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Big%20Kill%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Big%20Kill%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

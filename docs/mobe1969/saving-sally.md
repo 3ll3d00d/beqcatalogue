@@ -8,5 +8,5 @@ Marty is an aspiring comic-book artist who is secretly in love with his best fri
 
 [TMDB](406492)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Saving%20Sally%20%282016%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Saving%20Sally%20%282016%29%20DD%2B%205.1.jpg)
 

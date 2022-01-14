@@ -8,5 +8,5 @@ When Ellen, the matriarch of the Graham family, passes away, her daughter's fami
 
 [TMDB](493922)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hereditary%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hereditary%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

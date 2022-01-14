@@ -8,5 +8,5 @@ Trapped in their New York brownstone's panic room, a hidden chamber built as a s
 
 [TMDB](4547)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Panic%20Room%20%282002%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Panic%20Room%20%282002%29%20AC3%205.1.jpg)
 

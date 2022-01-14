@@ -8,5 +8,5 @@ Mason Storm, a 'go it alone' cop, is gunned down at home. The intruders kill his
 
 [TMDB](9569)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hard%20to%20Kill%20%281990%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hard%20to%20Kill%20%281990%29%20DTS-HD%20MA%205.1.jpg)
 

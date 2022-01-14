@@ -8,5 +8,5 @@ A rookie cop's world is turned upside down when she comes face to face with Paym
 
 [TMDB](296065)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Last%20Shift%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Last%20Shift%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

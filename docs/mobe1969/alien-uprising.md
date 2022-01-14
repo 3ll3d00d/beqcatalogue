@@ -8,5 +8,5 @@ A group of friends awake one morning to find all electricity and power shut off 
 
 [TMDB](146631)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Alien%20Uprising%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Alien%20Uprising%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

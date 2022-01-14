@@ -8,5 +8,5 @@ A young reporter (Lucy Liu) wakes up and realises that she is not alive anymore.
 
 [TMDB](1872)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rise%20Blood%20Hunter%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rise%20Blood%20Hunter%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

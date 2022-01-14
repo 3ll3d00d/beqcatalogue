@@ -8,5 +8,5 @@ South Korea, 1993. An agent of the National Intelligence Service is sent to Beij
 
 [TMDB](517991)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Spy%20Gone%20North%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Spy%20Gone%20North%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

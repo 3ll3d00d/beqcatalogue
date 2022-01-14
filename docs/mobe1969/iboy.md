@@ -8,5 +8,5 @@ After an accident, Tom wakes from a coma to discover that fragments of his smart
 
 [TMDB](414190)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/iBOY%20%282017%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/iBOY%20%282017%29%20DD%2B%205.1.jpg)
 

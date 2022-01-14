@@ -8,5 +8,5 @@ After finding his brother murdered after returning from duty, Webster searches f
 
 [TMDB](352978)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Chain%20of%20Command%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Chain%20of%20Command%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ This is a story about a common man who has extraordinary events in his mundane l
 
 [TMDB](541340)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cities%20of%20Last%20Things%20%282018%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cities%20of%20Last%20Things%20%282018%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

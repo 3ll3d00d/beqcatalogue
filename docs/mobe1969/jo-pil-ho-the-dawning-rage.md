@@ -8,5 +8,5 @@ On the run from a dogged internal affairs agent, a corrupt cop reluctantly teams
 
 [TMDB](574303)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jo%20Pil-ho%20The%20Dawning%20Rage%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jo%20Pil-ho%20The%20Dawning%20Rage%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

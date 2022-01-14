@@ -8,5 +8,5 @@ A young Oxford academic and his attorney girlfriend holiday in Morocco. They bum
 
 [TMDB](205588)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Our%20Kind%20of%20Traitor%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Our%20Kind%20of%20Traitor%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

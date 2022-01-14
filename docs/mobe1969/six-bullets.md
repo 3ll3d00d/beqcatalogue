@@ -8,5 +8,5 @@ An ex-mercenary known for finding missing children is hired by a mixed martial a
 
 [TMDB](127521)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Six%20Bullets%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Six%20Bullets%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

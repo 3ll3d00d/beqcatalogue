@@ -8,5 +8,5 @@ A group of survivors take refuge in a shopping mall after the world is taken ove
 
 [TMDB](924)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dawn%20of%20the%20Dead%20%282004%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dawn%20of%20the%20Dead%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Pinhead is trapped in the Pillar of Souls. Fortunately for him it is bought by a
 
 [TMDB](11569)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hellraiser%20III%20Hell%20on%20Earth%20%281992%29%20LPCM%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hellraiser%20III%20Hell%20on%20Earth%20%281992%29%20LPCM%202.0.jpg)
 

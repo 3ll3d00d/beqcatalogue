@@ -8,5 +8,5 @@ A Harvard professor is lured back into the courtroom after twenty-five years to 
 
 [TMDB](9061)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Just%20Cause%20%281995%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Just%20Cause%20%281995%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels th
 
 [TMDB](166426)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pirates%20of%20the%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%20%282017%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pirates%20of%20the%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%20%282017%29%20Atmos.jpg)
 

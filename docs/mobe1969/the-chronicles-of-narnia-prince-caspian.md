@@ -8,5 +8,5 @@ One year after their incredible adventures in the Lion, the Witch and the Wardro
 
 [TMDB](2454)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Chronicles%20of%20Narnia%20Prince%20Caspian%20%282008%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Chronicles%20of%20Narnia%20Prince%20Caspian%20%282008%29%20DTS-HD%20MA%207.1.jpg)
 

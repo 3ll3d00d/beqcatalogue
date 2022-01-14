@@ -8,7 +8,7 @@ When a frightening wave of violence sweeps through New York City, troubled cop S
 
 [TMDB](184346)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deliver%20Us%20from%20Evil%20%282014%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deliver%20Us%20from%20Evil%20%282014%29%20AC3%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ When a frightening wave of violence sweeps through New York City, troubled cop S
 
 [TMDB](184346)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deliver%20Us%20from%20Evil%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deliver%20Us%20from%20Evil%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

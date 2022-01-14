@@ -8,5 +8,5 @@ In Japanese-occupied Korea, three freedom fighters are assigned a mission to ass
 
 [TMDB](291549)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Assassination%20%282015%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Assassination%20%282015%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

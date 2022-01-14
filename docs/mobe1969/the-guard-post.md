@@ -8,5 +8,5 @@ The plot concerns Guard Point 506, where an entire squad of soldiers have been k
 
 [TMDB](16882)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Guard%20Post%20%282008%29%28Ko%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Guard%20Post%20%282008%29%28Ko%29%20AC3%205.1.jpg)
 

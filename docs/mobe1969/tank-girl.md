@@ -8,5 +8,5 @@ Based on the British cult comic-strip, our tank-riding anti-heroine fights a meg
 
 [TMDB](9067)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tank%20Girl%20%281995%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tank%20Girl%20%281995%29%20DTS-HD%20MA%205.1.jpg)
 

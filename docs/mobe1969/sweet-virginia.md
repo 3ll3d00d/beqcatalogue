@@ -8,5 +8,5 @@ A former rodeo star, now a motel manager, meets a young man who is responsible f
 
 [TMDB](413992)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sweet%20Virginia%20%282017%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sweet%20Virginia%20%282017%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ Eddie Lomax (Jean-Claude Van Damme) is a drifter who has been in a suicidal funk
 
 [TMDB](10908)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Inferno%20%281999%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Inferno%20%281999%29%20DTS-HD%20MA%205.1.jpg)
 

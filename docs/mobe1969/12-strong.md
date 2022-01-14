@@ -8,5 +8,5 @@ A team of CIA agents and special forces head into Afghanistan in the aftermath o
 
 [TMDB](429351)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/12%20Strong%20%282018%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/12%20Strong%20%282018%29%20DTS-HD%20MA%207.1.jpg)
 

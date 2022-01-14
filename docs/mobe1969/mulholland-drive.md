@@ -12,7 +12,7 @@ Blonde Betty Elms has only just arrived in Hollywood to become a movie star when
 
 [TMDB](1018)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mulholland%20Drive%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mulholland%20Drive%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -26,5 +26,5 @@ Blonde Betty Elms has only just arrived in Hollywood to become a movie star when
 
 [TMDB](1018)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mulholland%20Drive%20%282001%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mulholland%20Drive%20%282001%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)
 

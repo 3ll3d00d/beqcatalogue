@@ -8,5 +8,5 @@ A small time crook and a newly-orphaned teenage boy team up to perform a string 
 
 [TMDB](360203)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lost%20in%20the%20Sun%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lost%20in%20the%20Sun%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A young girl, Chihiro, becomes trapped in a strange new world of spirits. When h
 
 [TMDB](129)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Spirited%20Away%20%282001%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spirited%20Away%20%282001%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

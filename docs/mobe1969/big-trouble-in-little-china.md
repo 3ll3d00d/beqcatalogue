@@ -8,5 +8,5 @@ When trucker Jack Burton agreed to take his friend, Wang Chi, to pick up his fia
 
 [TMDB](6978)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Big%20Trouble%20in%20Little%20China%20%281986%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Big%20Trouble%20in%20Little%20China%20%281986%29%20DTS-HD%20MA%205.1.jpg)
 

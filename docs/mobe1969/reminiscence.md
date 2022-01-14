@@ -8,5 +8,5 @@ Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami f
 
 [TMDB](579047)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Reminiscence%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Reminiscence%20%282021%29%20Atmos.jpg)
 

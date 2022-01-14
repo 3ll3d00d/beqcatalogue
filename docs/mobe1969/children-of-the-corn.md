@@ -8,5 +8,5 @@ Set primarily in 1975 in the fictional town of Gatlin, Nebraska this remake of t
 
 [TMDB](25754)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Children%20of%20the%20Corn%20%282009%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Children%20of%20the%20Corn%20%282009%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ After the events at Lake Victoria, the prehistoric school of blood-thirsty piran
 
 [TMDB](71668)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Piranha%203DD%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Piranha%203DD%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Based on Tom Clancy's bestseller, directed by John McTiernan (Die Hard) and star
 
 [TMDB](1669)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hunt%20for%20Red%20October%20%281990%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hunt%20for%20Red%20October%20%281990%29%20TrueHD%205.1.jpg)
 

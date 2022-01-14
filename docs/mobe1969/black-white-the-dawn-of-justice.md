@@ -8,5 +8,5 @@ Police officer in the Southern Precinct, WU Ying-xiong, has been revered as a he
 
 [TMDB](296777)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20%26%20White%20The%20Dawn%20of%20Justice%20%282014%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Black%20%26%20White%20The%20Dawn%20of%20Justice%20%282014%29%28Ma%29%20TrueHD%205.1.jpg)
 

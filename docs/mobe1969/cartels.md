@@ -8,5 +8,5 @@ An elite team of DEA agents are assigned to protect a dangerous drug lord and ta
 
 [TMDB](412678)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cartels%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cartels%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -4,9 +4,9 @@
 
 **2021 • NR • 2h 10m • Mandarin • Drama, Mystery, Science Fiction, Thriller • mobe1969**
 
-Wang Shicong, chairman of the famous group, died tragically at home. The prosecutor Liang Wenchao and his wife, Abang, learned during the investigation that the deceased’s long-term partner, Dr. Wan, and his ex-wife’s Son Wang Tianyou, young newlywed wife Li Yan, and even the dead ex-wife, each suspect has an intricate connection. As more clues gradually surfaced, they gradually discovered the rich. The amazing secret hidden behind the murder...
+Wang Shicong, chairman of the famous group, died tragically at home. The prosecutor Liang Wenchao and his wife, Abang, learned during the investigation that the deceasedâ€™s long-term partner, Dr. Wan, and his ex-wifeâ€™s Son Wang Tianyou, young newlywed wife Li Yan, and even the dead ex-wife, each suspect has an intricate connection. As more clues gradually surfaced, they gradually discovered the rich. The amazing secret hidden behind the murder...
 
 [TMDB](773569)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Soul%20%282021%29%28Ma%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Soul%20%282021%29%28Ma%29%20DD%2B%205.1.jpg)
 

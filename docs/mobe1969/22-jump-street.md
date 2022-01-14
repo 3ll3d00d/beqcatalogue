@@ -8,7 +8,7 @@ After making their way through high school (twice), big changes are in store for
 
 [TMDB](187017)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/22%20Jump%20Street%20%282014%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/22%20Jump%20Street%20%282014%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ After making their way through high school (twice), big changes are in store for
 
 [TMDB](187017)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/22%20Jump%20Street%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/22%20Jump%20Street%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

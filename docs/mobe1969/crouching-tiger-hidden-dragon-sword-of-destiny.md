@@ -8,7 +8,7 @@ A story of lost love, young love, a legendary sword and one last opportunity at 
 
 [TMDB](263341)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Crouching%20Tiger%2C%20Hidden%20Dragon%20Sword%20of%20Destiny%20%282016%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Crouching%20Tiger%2C%20Hidden%20Dragon%20Sword%20of%20Destiny%20%282016%29%20DD%2B%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ A story of lost love, young love, a legendary sword and one last opportunity at 
 
 [TMDB](263341)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Crouching%20Tiger%2C%20Hidden%20Dragon%20Sword%20of%20Destiny%20%282016%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Crouching%20Tiger%2C%20Hidden%20Dragon%20Sword%20of%20Destiny%20%282016%29%28Ma%29%20TrueHD%205.1.jpg)
 

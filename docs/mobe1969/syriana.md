@@ -8,5 +8,5 @@ The Middle Eastern oil industry is the backdrop of this tense drama, which weave
 
 [TMDB](231)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Syriana%20%282005%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Syriana%20%282005%29%20AC3%205.1.jpg)
 

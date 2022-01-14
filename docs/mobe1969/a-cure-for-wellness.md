@@ -8,5 +8,5 @@ An ambitious young executive is sent to retrieve his company's CEO from an idyll
 
 [TMDB](340837)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Cure%20for%20Wellness%20%282016%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Cure%20for%20Wellness%20%282016%29%20DTS-HD%20MA%207.1.jpg)
 

@@ -8,5 +8,5 @@ The police try to arrest expert hostage negotiator Danny Roman, who insists he's
 
 [TMDB](9631)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Negotiator%20%281998%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Negotiator%20%281998%29%20TrueHD%205.1.jpg)
 

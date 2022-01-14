@@ -8,5 +8,5 @@ A sawmill owner and his teenage daughter become tangled in a deadly feud when a 
 
 [TMDB](659067)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Earth%20and%20Blood%20%282020%29%28Fr%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Earth%20and%20Blood%20%282020%29%28Fr%29%20DD%2B%205.1.jpg)
 

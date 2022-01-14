@@ -8,5 +8,5 @@ Deeply ensconced in a top-secret military program, three pilots struggle to brin
 
 [TMDB](10048)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stealth%20%282005%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stealth%20%282005%29%20LPCM%205.1.jpg)
 

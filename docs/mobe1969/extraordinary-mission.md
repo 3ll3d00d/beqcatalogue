@@ -8,5 +8,5 @@ An undercover police officer attempts to take down a drug trafficking syndicate 
 
 [TMDB](445224)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Extraordinary%20Mission%20%282017%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Extraordinary%20Mission%20%282017%29%28Ma%29%20TrueHD%205.1.jpg)
 

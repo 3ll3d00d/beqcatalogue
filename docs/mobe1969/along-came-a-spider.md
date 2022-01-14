@@ -8,5 +8,5 @@ After the harrowing death of his partner, detective and best-selling author Alex
 
 [TMDB](2043)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Along%20Came%20a%20Spider%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Along%20Came%20a%20Spider%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A man becomes a cop in order to take down the police superintendent who may have
 
 [TMDB](78194)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Colour%20of%20the%20Truth%20%282003%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Colour%20of%20the%20Truth%20%282003%29%28Ca%29%20TrueHD%205.1.jpg)
 

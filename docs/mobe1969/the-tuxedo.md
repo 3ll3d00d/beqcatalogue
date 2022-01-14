@@ -8,5 +8,5 @@ Cabbie-turned-chauffeur Jimmy Tong learns there is really only one rule when you
 
 [TMDB](10771)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Tuxedo%20%282002%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Tuxedo%20%282002%29%20TrueHD%205.1.jpg)
 

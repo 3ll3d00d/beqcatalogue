@@ -8,5 +8,5 @@ Tough guy Thomas Beckett is an US soldier working in the Panamanian jungle. His 
 
 [TMDB](9545)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sniper%20%281993%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sniper%20%281993%29%20DTS-HD%20MA%205.1.jpg)
 

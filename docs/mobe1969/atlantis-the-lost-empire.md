@@ -8,5 +8,5 @@ The world's most highly qualified crew of archaeologists and explorers is led by
 
 [TMDB](10865)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Atlantis%20-%20The%20Lost%20Empire%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Atlantis%20-%20The%20Lost%20Empire%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

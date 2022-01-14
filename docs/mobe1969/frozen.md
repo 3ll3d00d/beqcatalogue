@@ -8,5 +8,5 @@ When three skiers find themselves stranded on a chair lift at a New England ski 
 
 [TMDB](44363)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Frozen%20%282010%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Frozen%20%282010%29%20TrueHD%205.1.jpg)
 

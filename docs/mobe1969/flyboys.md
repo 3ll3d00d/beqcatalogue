@@ -8,5 +8,5 @@ The adventures of the Lafayette Escadrille, young Americans who volunteered for 
 
 [TMDB](9664)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flyboys%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Flyboys%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

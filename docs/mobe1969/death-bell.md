@@ -8,5 +8,5 @@ On the eve of the dreaded university entrance examinations, the lives of 24 of t
 
 [TMDB](32272)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Death%20Bell%20%282008%29%28Ko%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Death%20Bell%20%282008%29%28Ko%29%20TrueHD%207.1.jpg)
 

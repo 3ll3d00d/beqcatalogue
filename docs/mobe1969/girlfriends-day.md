@@ -8,5 +8,5 @@ When he's caught up in a deadly conspiracy, an unemployed greeting card writer m
 
 [TMDB](346650)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Girlfriend%27s%20Day%20%282017%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Girlfriend%27s%20Day%20%282017%29%20DD%2B%205.1.jpg)
 

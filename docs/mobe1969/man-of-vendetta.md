@@ -8,5 +8,5 @@ A respected pastor is shattered when his daughter is kidnapped and not returned.
 
 [TMDB](50210)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Man%20of%20Vendetta%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Man%20of%20Vendetta%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

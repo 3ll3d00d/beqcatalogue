@@ -4,9 +4,9 @@
 
 **2017 • PG-13 • 1h 38m • Fantasy, Adventure • mobe1969**
 
-When the King Gareth dies, his potential heirs, twin grandchildren who possess the dragonâ€™s unique strengths, use their inherited powers against each other to vie for the throne. When Dragoâ€™s source of power â€“ known as the Heartfire â€“ is stolen, more than the throne is at stake; the siblings must end their rivalry with swords and sorcery or the kingdom may fall.
+When the King Gareth dies, his potential heirs, twin grandchildren who possess the dragonÃ¢â‚¬â„¢s unique strengths, use their inherited powers against each other to vie for the throne. When DragoÃ¢â‚¬â„¢s source of power Ã¢â‚¬â€œ known as the Heartfire Ã¢â‚¬â€œ is stolen, more than the throne is at stake; the siblings must end their rivalry with swords and sorcery or the kingdom may fall.
 
 [TMDB](451644)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dragonheart%20Battle%20for%20the%20Heartfire%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dragonheart%20Battle%20for%20the%20Heartfire%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

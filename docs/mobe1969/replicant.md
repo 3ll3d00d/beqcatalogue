@@ -8,5 +8,5 @@ Scientists create a genetic clone of a serial killer in order to help catch the 
 
 [TMDB](10596)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Replicant%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Replicant%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

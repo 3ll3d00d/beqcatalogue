@@ -8,5 +8,5 @@ In the year of 2039, after World Wars destroy much of the civilization as we kno
 
 [TMDB](42194)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tekken%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tekken%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

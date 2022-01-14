@@ -8,5 +8,5 @@ An illegal immigrant from Mainland China sneaks into the corrupt British-coloniz
 
 [TMDB](449927)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Chasing%20the%20Dragon%20%282017%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Chasing%20the%20Dragon%20%282017%29%28Ca%29%20TrueHD%207.1.jpg)
 

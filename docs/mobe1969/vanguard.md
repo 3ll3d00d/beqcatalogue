@@ -8,5 +8,5 @@ Covert security company Vanguard is the last hope of survival for an accountant 
 
 [TMDB](604822)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vanguard%20%282020%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Vanguard%20%282020%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

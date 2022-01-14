@@ -8,5 +8,5 @@ The harrowing true story of the crew of the USS Indianapolis, who were stranded 
 
 [TMDB](340945)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/USS%20Indianapolis%20Men%20of%20Courage%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/U/USS%20Indianapolis%20Men%20of%20Courage%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

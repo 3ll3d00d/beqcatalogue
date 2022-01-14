@@ -8,5 +8,5 @@ After a zombie becomes involved with the girlfriend of one of his victims, their
 
 [TMDB](82654)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Warm%20Bodies%20%282013%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Warm%20Bodies%20%282013%29%20Atmos.jpg)
 

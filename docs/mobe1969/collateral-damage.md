@@ -8,5 +8,5 @@ Firefighter Gordon Brewer is plunged into the complex and dangerous world of int
 
 [TMDB](9884)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Collateral%20Damage%20%282002%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Collateral%20Damage%20%282002%29%20TrueHD%205.1.jpg)
 

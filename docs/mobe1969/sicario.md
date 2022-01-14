@@ -8,5 +8,5 @@ An idealistic FBI agent is enlisted by a government task force to aid in the esc
 
 [TMDB](273481)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sicario%20%282015%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sicario%20%282015%29%20Atmos.jpg)
 

@@ -8,5 +8,5 @@ A leader of a drug cartel sends his two toughest henchmen to investigate why a s
 
 [TMDB](523077)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Running%20with%20the%20Devil%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Running%20with%20the%20Devil%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

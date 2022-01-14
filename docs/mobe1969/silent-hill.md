@@ -8,5 +8,5 @@ In search for answers, a mother travels to the enigmatic town of Silent Hill whe
 
 [TMDB](588)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Silent%20Hill%20%282006%29%20DTS-HD%20HR%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Silent%20Hill%20%282006%29%20DTS-HD%20HR%205.1.jpg)
 

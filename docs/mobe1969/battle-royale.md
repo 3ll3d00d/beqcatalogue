@@ -8,7 +8,7 @@ In the future, the Japanese government captures a class of ninth-grade students 
 
 [TMDB](3176)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Battle%20Royale%20%282000%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Battle%20Royale%20%282000%29%28Ja%29%20TrueHD%205.1.jpg)
 
 ## TrueHD 7.1
 
@@ -20,5 +20,5 @@ In the future, the Japanese government captures a class of ninth-grade students 
 
 [TMDB](3176)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Battle%20Royale%20%282000%29%28DC%29%28Ja%29%20TrueHD%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Battle%20Royale%20%282000%29%28DC%29%28Ja%29%20TrueHD%207.1.jpg)
 

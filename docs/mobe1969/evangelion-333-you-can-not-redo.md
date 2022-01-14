@@ -8,5 +8,5 @@ Fourteen years after Third Impact, Shinji Ikari awakens to a world he does not r
 
 [TMDB](75629)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Evangelion%203.33%20You%20Can%20Not%20Redo%20%282012%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Evangelion%203.33%20You%20Can%20Not%20Redo%20%282012%29%28Ja%29%20TrueHD%205.1.jpg)
 

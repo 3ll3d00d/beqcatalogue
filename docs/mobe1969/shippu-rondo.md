@@ -8,5 +8,5 @@ An illegal biological weapon K-55 is stolen from a university lab. The universit
 
 [TMDB](417817)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Shippu-Rondo%20%282016%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shippu-Rondo%20%282016%29%28Ja%29%20TrueHD%205.1.jpg)
 

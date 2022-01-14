@@ -8,5 +8,5 @@ A spectacular journey of an unwilling young hero thrust into a mysterious past f
 
 [TMDB](74842)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Legend%20of%20the%20Millennium%20Dragon%20%282011%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Legend%20of%20the%20Millennium%20Dragon%20%282011%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

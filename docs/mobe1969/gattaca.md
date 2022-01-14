@@ -8,5 +8,5 @@ In a future society in the era of indefinite eugenics, humans are set on a life 
 
 [TMDB](782)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gattaca%20%281997%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gattaca%20%281997%29%20TrueHD%205.1.jpg)
 

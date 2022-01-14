@@ -8,5 +8,5 @@ Terminal Island, New York: 2020. Overcrowding in the US penal system has reached
 
 [TMDB](10483)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Death%20Race%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Death%20Race%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Columbus has made a habit of running from what scares him. Tallahassee doesn't h
 
 [TMDB](19908)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zombieland%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zombieland%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

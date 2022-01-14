@@ -8,5 +8,5 @@ There's a deadly zombie epidemic threatening humanity, but Wade, a small-town fa
 
 [TMDB](287424)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Maggie%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Maggie%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Bombshell is a revealing look inside the most powerful and controversial media e
 
 [TMDB](525661)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bombshell%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bombshell%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

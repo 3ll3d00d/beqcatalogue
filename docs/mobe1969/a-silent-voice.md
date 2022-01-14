@@ -8,5 +8,5 @@ Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because s
 
 [TMDB](378064)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Silent%20Voice%20%282016%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Silent%20Voice%20%282016%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

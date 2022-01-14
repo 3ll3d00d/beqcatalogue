@@ -8,5 +8,5 @@ KILL SPEED is a high-octane, youth oriented, TOP GUN meets FAST & FURIOUS tale a
 
 [TMDB](47467)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kill%20Speed%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kill%20Speed%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

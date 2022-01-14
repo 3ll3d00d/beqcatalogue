@@ -8,5 +8,5 @@ In the spring of 1999, a group of old friends gather to celebrate their 20 year 
 
 [TMDB](41245)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Peppermint%20Candy%20%282000%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Peppermint%20Candy%20%282000%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

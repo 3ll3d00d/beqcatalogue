@@ -8,5 +8,5 @@ A mysterious virus, nicknamed Medusa, is spreading around Japan, turning its vic
 
 [TMDB](50388)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/King%20of%20Thorn%20%282009%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/King%20of%20Thorn%20%282009%29%28Ja%29%20TrueHD%205.1.jpg)
 

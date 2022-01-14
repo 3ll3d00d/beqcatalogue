@@ -8,5 +8,5 @@ A squad of the Jiaolong Commando Unit - Sea Dragon, a spec ops team of the Chine
 
 [TMDB](460555)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Operation%20Red%20Sea%20%282018%29%28Ma%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Operation%20Red%20Sea%20%282018%29%28Ma%29%20DTS-X.jpg)
 

@@ -8,5 +8,5 @@ Having died unexpectedly, firefighter Ja-hong is taken to the afterlife by 3 aft
 
 [TMDB](397567)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Along%20with%20the%20Gods%20The%20Two%20Worlds%20%282017%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Along%20with%20the%20Gods%20The%20Two%20Worlds%20%282017%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

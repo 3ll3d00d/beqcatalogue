@@ -8,5 +8,5 @@ Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission
 
 [TMDB](8321)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/In%20Bruges%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/In%20Bruges%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

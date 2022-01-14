@@ -8,5 +8,5 @@ Five high school students from different walks of life endure a Saturday detenti
 
 [TMDB](2108)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Breakfast%20Club%20%281985%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Breakfast%20Club%20%281985%29%20DTS-HD%20MA%205.1.jpg)
 

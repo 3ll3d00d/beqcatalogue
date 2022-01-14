@@ -8,5 +8,5 @@ Ja-yoon is a high school student who struggles with memory loss after she endure
 
 [TMDB](530254)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Witch%20Subversion%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Witch%20Subversion%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

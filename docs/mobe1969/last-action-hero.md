@@ -8,7 +8,7 @@ Danny is obsessed with a fictional movie character action hero Jack Slater. When
 
 [TMDB](9593)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Last%20Action%20Hero%20%281993%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Last%20Action%20Hero%20%281993%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ Danny is obsessed with a fictional movie character action hero Jack Slater. When
 
 [TMDB](9593)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Last%20Action%20Hero%20%281993%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Last%20Action%20Hero%20%281993%29%20DTS-HD%20MA%205.1.jpg)
 

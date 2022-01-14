@@ -8,5 +8,5 @@ Two years after the murder of his son and father, a retired hitman sets in motio
 
 [TMDB](726429)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Xtreme%20%282021%29%28Es%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X/Xtreme%20%282021%29%28Es%29%20DD%2B%205.1.jpg)
 

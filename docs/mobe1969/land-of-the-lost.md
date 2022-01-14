@@ -8,5 +8,5 @@ On his latest expedition, Dr. Rick Marshall is sucked into a space-time vortex a
 
 [TMDB](18162)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Land%20of%20the%20Lost%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Land%20of%20the%20Lost%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

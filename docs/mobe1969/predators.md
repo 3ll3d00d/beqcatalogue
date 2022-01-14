@@ -8,5 +8,5 @@ A group of cold-blooded killers find themselves trapped on an alien planet to be
 
 [TMDB](34851)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Predators%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Predators%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

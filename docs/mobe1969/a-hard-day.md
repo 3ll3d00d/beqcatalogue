@@ -8,5 +8,5 @@ After trying to cover up a car accident that left a man dead, a crooked homicide
 
 [TMDB](269494)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Hard%20Day%20%282014%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Hard%20Day%20%282014%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

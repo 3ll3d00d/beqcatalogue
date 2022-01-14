@@ -8,5 +8,5 @@ The movie is based on a true story about a repented gangster preaching the word 
 
 [TMDB](458266)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dealer%20Healer%20%282017%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dealer%20Healer%20%282017%29%28Ca%29%20TrueHD%207.1.jpg)
 

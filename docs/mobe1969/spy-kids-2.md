@@ -8,5 +8,5 @@ Exploring the further adventures of Carmen and Juni Cortez, who have now joined 
 
 [TMDB](9488)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Spy%20Kids%202%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spy%20Kids%202%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

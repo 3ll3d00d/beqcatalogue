@@ -10,7 +10,7 @@ A stoner and his dealer are forced to go on the run from the police after the po
 
 [TMDB](10189)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pineapple%20Express%20%282008%29%28TC%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pineapple%20Express%20%282008%29%28TC%29%20Atmos.jpg)
 
 ## TrueHD 5.1
 
@@ -22,5 +22,5 @@ A stoner and his dealer are forced to go on the run from the police after the po
 
 [TMDB](10189)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pineapple%20Express%20%282008%29%28Unrated%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pineapple%20Express%20%282008%29%28Unrated%29%20TrueHD%205.1.jpg)
 

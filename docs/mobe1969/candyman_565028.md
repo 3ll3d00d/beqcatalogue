@@ -8,5 +8,5 @@ Anthony and his partner move into a loft in the now gentrified Cabrini-Green, an
 
 [TMDB](565028)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Candyman%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Candyman%20%282021%29%20Atmos.jpg)
 

@@ -10,5 +10,5 @@ The story of the journey of married couple up the social latter. The husband is 
 
 [TMDB](543753)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/High%20Society%20%282018%29%28Ko%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/High%20Society%20%282018%29%28Ko%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ A career criminal nabbed by Mexican authorities is placed in a tough prison wher
 
 [TMDB](80389)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Get%20the%20Gringo%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Get%20the%20Gringo%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

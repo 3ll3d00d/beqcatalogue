@@ -8,5 +8,5 @@ When he is betrayed by a trusted friend, Mathayus must marshal all his strength 
 
 [TMDB](297291)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Scorpion%20King%204%20Quest%20for%20Power%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Scorpion%20King%204%20Quest%20for%20Power%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

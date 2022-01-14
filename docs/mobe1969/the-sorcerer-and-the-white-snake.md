@@ -8,5 +8,5 @@ The Sorcerer and the White Snake is an ancient Chinese fable about a woman demon
 
 [TMDB](75948)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Sorcerer%20and%20the%20White%20Snake%20%282011%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Sorcerer%20and%20the%20White%20Snake%20%282011%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

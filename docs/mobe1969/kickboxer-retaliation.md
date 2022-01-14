@@ -8,5 +8,5 @@ One year after the events of "Kickboxer: Vengeance", Kurt Sloan has vowed never 
 
 [TMDB](447665)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kickboxer%20Retaliation%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kickboxer%20Retaliation%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

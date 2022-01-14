@@ -8,5 +8,5 @@ Los Angeles Police Department detective Russell Poole has spent years trying to 
 
 [TMDB](433501)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/City%20of%20Lies%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/City%20of%20Lies%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

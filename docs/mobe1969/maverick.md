@@ -8,5 +8,5 @@ Maverick is a gambler who would rather con someone than fight them, and needs an
 
 [TMDB](9359)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Maverick%20%281994%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Maverick%20%281994%29%20DTS-HD%20MA%202.0.jpg)
 

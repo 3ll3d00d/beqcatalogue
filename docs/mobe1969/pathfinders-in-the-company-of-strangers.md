@@ -8,5 +8,5 @@ Untold and lost history. A true story of the American Pathfinders, the volunteer
 
 [TMDB](61346)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pathfinders%20In%20the%20Company%20of%20Strangers%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pathfinders%20In%20the%20Company%20of%20Strangers%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

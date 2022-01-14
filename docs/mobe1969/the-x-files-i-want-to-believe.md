@@ -4,9 +4,9 @@
 
 **2008 • PG-13 • 1h 44m • Drama, Mystery, Science Fiction, Thriller • mobe1969**
 
-Six years after the events of The X-Files series finale, former FBI agent Doctor Dana Scully is now a staff physician at Our Lady of Sorrows, a Catholic hospital, and treating a boy named Christian who has Sandhoff disease, a terminal brain condition. FBI agent Drummy arrives to ask Scullyâ€™s help in locating Fox Mulder, the fugitive former head of the X-Files division, and says they will call off its manhunt for him if he will help investigate the disappearances of several women, including young FBI agent Monica Banan.  Mulder and Scully are called back to duty by the FBI when a former priest claims to be receiving psychic visions pertaining to a kidnapped agent.
+Six years after the events of The X-Files series finale, former FBI agent Doctor Dana Scully is now a staff physician at Our Lady of Sorrows, a Catholic hospital, and treating a boy named Christian who has Sandhoff disease, a terminal brain condition. FBI agent Drummy arrives to ask ScullyÃ¢â‚¬â„¢s help in locating Fox Mulder, the fugitive former head of the X-Files division, and says they will call off its manhunt for him if he will help investigate the disappearances of several women, including young FBI agent Monica Banan.  Mulder and Scully are called back to duty by the FBI when a former priest claims to be receiving psychic visions pertaining to a kidnapped agent.
 
 [TMDB](8836)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20X%20Files%20I%20Want%20to%20Believe%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20X%20Files%20I%20Want%20to%20Believe%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

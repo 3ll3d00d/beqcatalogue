@@ -10,5 +10,5 @@ Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify t
 
 [TMDB](214756)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ted%202%20%282015%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Ted%202%20%282015%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
 

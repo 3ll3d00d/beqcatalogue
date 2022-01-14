@@ -8,5 +8,5 @@ The haunted Lambert family seeks to uncover the mysterious childhood secret that
 
 [TMDB](91586)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Insidious%20Chapter%202%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Insidious%20Chapter%202%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A vampire relates his epic life story of love, betrayal, loneliness, and dark hu
 
 [TMDB](628)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Interview%20with%20the%20Vampire%20%281994%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Interview%20with%20the%20Vampire%20%281994%29%20DTS-HD%20MA%205.1.jpg)
 

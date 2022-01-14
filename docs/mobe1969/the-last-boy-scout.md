@@ -8,5 +8,5 @@ When the girl that detective Joe Hallenback is protecting gets murdered, the boy
 
 [TMDB](9319)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Last%20Boy%20Scout%20%281991%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Last%20Boy%20Scout%20%281991%29%20DTS-HD%20MA%205.1.jpg)
 

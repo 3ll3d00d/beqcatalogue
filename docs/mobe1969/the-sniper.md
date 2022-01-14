@@ -8,5 +8,5 @@ A police sniper teams up with a hot-headed rookie to take down his former friend
 
 [TMDB](17082)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Sniper%20%282009%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Sniper%20%282009%29%28Ca%29%20TrueHD%207.1.jpg)
 

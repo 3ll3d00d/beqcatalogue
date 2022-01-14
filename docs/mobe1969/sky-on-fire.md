@@ -8,5 +8,5 @@ The chief security officer at a top-secret medical facility finds himself caught
 
 [TMDB](427433)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sky%20on%20Fire%20%282016%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sky%20on%20Fire%20%282016%29%28Ma%29%20TrueHD%205.1.jpg)
 

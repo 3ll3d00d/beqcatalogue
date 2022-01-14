@@ -8,5 +8,5 @@ When the daughter of veteran 911 call center operator Pamela, and her estranged 
 
 [TMDB](362185)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Operator%20%282015%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Operator%20%282015%29%20TrueHD%205.1.jpg)
 

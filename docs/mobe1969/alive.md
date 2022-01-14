@@ -8,5 +8,5 @@ As a grisly virus rampages a city, a lone man stays locked inside his apartment,
 
 [TMDB](614696)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/%23Alive%20%282020%29%28Ko%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/%23Alive%20%282020%29%28Ko%29%20Atmos.jpg)
 

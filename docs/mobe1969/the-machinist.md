@@ -8,5 +8,5 @@ The Machinist is the story of Trevor Reznik, a lathe-operator who is suffering f
 
 [TMDB](4553)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Machinist%20%282004%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Machinist%20%282004%29%20TrueHD%205.1.jpg)
 

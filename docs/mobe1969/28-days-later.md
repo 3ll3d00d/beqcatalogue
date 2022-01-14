@@ -8,5 +8,5 @@ Twenty-eight days after a killer virus was accidentally unleashed from a British
 
 [TMDB](170)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/28%20Days%20Later%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/28%20Days%20Later%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

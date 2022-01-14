@@ -10,7 +10,7 @@ Two top CIA operatives wage an epic battle against one another after they discov
 
 [TMDB](59962)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/This%20Means%20War%20%282012%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/This%20Means%20War%20%282012%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -22,5 +22,5 @@ Two top CIA operatives wage an epic battle against one another after they discov
 
 [TMDB](59962)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/This%20Means%20War%20%282012%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/This%20Means%20War%20%282012%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
 

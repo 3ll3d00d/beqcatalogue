@@ -8,5 +8,5 @@ In the years after the Revolution, China broken up into fiefdoms held by warlord
 
 [TMDB](83721)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Great%20Magician%20%282011%29%28Ma%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Great%20Magician%20%282011%29%28Ma%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ A former U.S. soldier returns to his hometown to find it overrun by crime and co
 
 [TMDB](11358)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Walking%20Tall%20%282004%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Walking%20Tall%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 

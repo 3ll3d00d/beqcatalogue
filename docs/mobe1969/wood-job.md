@@ -8,5 +8,5 @@ After failing his university entrance exam, Yuki Hirano sets his eyes on the rol
 
 [TMDB](274817)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wood%20Job%20%282014%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wood%20Job%20%282014%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

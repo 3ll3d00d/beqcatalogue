@@ -8,7 +8,7 @@
 
 [TMDB](293767)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Billy%20Lynn%27s%20Long%20Halftime%20Walk%20%282016%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Billy%20Lynn%27s%20Long%20Halftime%20Walk%20%282016%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@
 
 [TMDB](293767)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Billy%20Lynn%27s%20Long%20Halftime%20Walk%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Billy%20Lynn%27s%20Long%20Halftime%20Walk%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

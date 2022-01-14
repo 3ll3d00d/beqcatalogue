@@ -8,5 +8,5 @@ Nine translators, hired to translate the eagerly awaited final book of a bestsel
 
 [TMDB](477018)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Translators%20%282020%29%28Fr%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Translators%20%282020%29%28Fr%29%20TrueHD%205.1.jpg)
 

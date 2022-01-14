@@ -8,5 +8,5 @@ Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn fina
 
 [TMDB](1584)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/School%20of%20Rock%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/School%20of%20Rock%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Forensic psychologist Alex Cross travels to North Carolina and teams with escape
 
 [TMDB](9437)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kiss%20the%20Girls%20%281997%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kiss%20the%20Girls%20%281997%29%20DTS-HD%20MA%205.1.jpg)
 

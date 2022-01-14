@@ -8,5 +8,5 @@ Five carpoolers traveling in a motorhome to a common destination swerve to avoid
 
 [TMDB](768334)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Classic%20Horror%20Story%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Classic%20Horror%20Story%20%282021%29%20DD%2B%205.1.jpg)
 

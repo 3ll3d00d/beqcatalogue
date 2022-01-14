@@ -8,5 +8,5 @@ Americans Amy, Stacy, Jeff and Eric look for fun during a sunny holiday in Mexic
 
 [TMDB](11152)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Ruins%20%282008%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Ruins%20%282008%29%20TrueHD%205.1.jpg)
 

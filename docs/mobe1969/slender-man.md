@@ -8,5 +8,5 @@ In a small town in Massachusetts, four high school girls perform a ritual in an 
 
 [TMDB](439015)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Slender%20Man%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Slender%20Man%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

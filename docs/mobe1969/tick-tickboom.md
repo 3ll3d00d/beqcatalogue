@@ -8,5 +8,5 @@ On the cusp of his 30th birthday, Jonathon Larson, a promising young theater com
 
 [TMDB](537116)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/tick%2C%20tick...BOOM%21%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/tick%2C%20tick...BOOM%21%20%282021%29%20DD%2B%205.1.jpg)
 

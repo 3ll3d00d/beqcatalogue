@@ -8,5 +8,5 @@ Jesse Aarons trained all summer to become the fastest runner in school, so he's 
 
 [TMDB](1265)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bridge%20to%20Terabithia%20%282007%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bridge%20to%20Terabithia%20%282007%29%20LPCM%205.1.jpg)
 

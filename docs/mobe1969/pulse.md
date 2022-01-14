@@ -8,5 +8,5 @@ In the immense city of Tokyo, the darkness of the afterlife lurks some of its in
 
 [TMDB](27324)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pulse%20%282001%29%28Ja%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pulse%20%282001%29%28Ja%29%20AC3%205.1.jpg)
 

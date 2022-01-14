@@ -8,5 +8,5 @@ A man and his wife get themselves a huge gambling debt, and then accidentally ge
 
 [TMDB](478569)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Foolish%20Plan%20%282016%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Foolish%20Plan%20%282016%29%28Ma%29%20TrueHD%205.1.jpg)
 

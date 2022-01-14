@@ -8,5 +8,5 @@ An escaped maniac returns to his childhood home on Christmas Eve, which is now a
 
 [TMDB](9656)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Black%20Christmas%20%282006%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Black%20Christmas%20%282006%29%20TrueHD%205.1.jpg)
 

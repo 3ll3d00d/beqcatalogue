@@ -8,5 +8,5 @@ Set in 1982 in the suburb of Blackeberg, Stockholm, twelve-year-old Oskar is a l
 
 [TMDB](13310)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Let%20the%20Right%20One%20In%20%282008%29%28Se%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Let%20the%20Right%20One%20In%20%282008%29%28Se%29%20DTS-HD%20MA%205.1.jpg)
 

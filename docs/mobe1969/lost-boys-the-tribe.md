@@ -8,5 +8,5 @@ The sequel to the 1987 cult hit The Lost Boys takes us to the shady surf city of
 
 [TMDB](13489)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lost%20Boys%20The%20Tribe%20%282008%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lost%20Boys%20The%20Tribe%20%282008%29%20AC3%205.1.jpg)
 

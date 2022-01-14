@@ -8,5 +8,5 @@ An obsessed cop is on the trail of a serial killer prowling the streets of Buffa
 
 [TMDB](136911)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Factory%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Factory%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

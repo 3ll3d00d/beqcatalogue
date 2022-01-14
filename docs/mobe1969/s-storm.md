@@ -8,5 +8,5 @@ A suspect is killed while the ICAC team is investigating illegal soccer gambling
 
 [TMDB](367195)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S%20Storm%20%282016%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/S%20Storm%20%282016%29%28Ca%29%20TrueHD%207.1.jpg)
 

@@ -10,7 +10,7 @@ Set in the futuristic landscape of Los Angeles on July 4, 2008, as it stands on 
 
 [TMDB](4723)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Southland%20Tales%20%282006%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Southland%20Tales%20%282006%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -22,7 +22,7 @@ Set in the futuristic landscape of Los Angeles on July 4, 2008, as it stands on 
 
 [TMDB](4723)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Southland%20Tales%20%282006%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Southland%20Tales%20%282006%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -32,5 +32,5 @@ Set in the futuristic landscape of Los Angeles on July 4, 2008, as it stands on 
 
 [TMDB](4723)
 
-![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Southland%20Tales%20%282006%29%20TrueHD%205.1.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Southland%20Tales%20%282006%29%20TrueHD%205.1.jpg)
 

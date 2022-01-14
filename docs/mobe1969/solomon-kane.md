@@ -8,5 +8,5 @@ A nomadic 16th century warrior, condemned to hell for his brutal past, seeks red
 
 [TMDB](32985)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Solomon%20Kane%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Solomon%20Kane%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

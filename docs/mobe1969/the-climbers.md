@@ -8,5 +8,5 @@ May 1960. Mount Everest, the second step under the cliff. The four members of th
 
 [TMDB](601493)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Climbers%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Climbers%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

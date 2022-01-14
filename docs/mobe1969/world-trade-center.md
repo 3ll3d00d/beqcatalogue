@@ -8,5 +8,5 @@ Two police officers struggle to survive when they become trapped beneath the rub
 
 [TMDB](1852)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/World%20Trade%20Center%20%282006%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/World%20Trade%20Center%20%282006%29%20AC3%205.1.jpg)
 

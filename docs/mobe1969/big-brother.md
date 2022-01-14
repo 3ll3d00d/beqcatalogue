@@ -8,5 +8,5 @@ A soldier-turned-high school teacher uses unusual methods to reach to a class of
 
 [TMDB](504056)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Big%20Brother%20%282018%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Big%20Brother%20%282018%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

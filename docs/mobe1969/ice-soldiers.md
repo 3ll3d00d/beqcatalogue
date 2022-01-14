@@ -8,5 +8,5 @@ A scientist discovers the bodies of three frozen genetically modified Russians b
 
 [TMDB](255692)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ice%20Soldiers%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Ice%20Soldiers%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ An imperial guard searches for the truth behind a conspiracy that framed him and
 
 [TMDB](457837)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Brotherhood%20of%20Blades%20II%20The%20Infernal%20Battlefield%20%282017%29%28Ma%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Brotherhood%20of%20Blades%20II%20The%20Infernal%20Battlefield%20%282017%29%28Ma%29%20Atmos.jpg)
 

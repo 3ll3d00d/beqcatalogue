@@ -8,5 +8,5 @@ When Andy's mother is admitted to a psychiatric hospital, the young boy is place
 
 [TMDB](11186)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Child%27s%20Play%202%20%281990%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Child%27s%20Play%202%20%281990%29%20DTS-HD%20MA%202.0.jpg)
 

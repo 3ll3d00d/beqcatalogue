@@ -8,5 +8,5 @@ In a post-apocalyptic wasteland, an orphaned teen must battle a ruthless warlord
 
 [TMDB](310135)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Turbo%20Kid%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Turbo%20Kid%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

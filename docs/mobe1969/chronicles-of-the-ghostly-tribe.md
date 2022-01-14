@@ -8,5 +8,5 @@ In 1979, a young soldier is working in China's snowcapped mountains when an expl
 
 [TMDB](364324)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Chronicles%20of%20the%20Ghostly%20Tribe%20%282015%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Chronicles%20of%20the%20Ghostly%20Tribe%20%282015%29%28Ma%29%20TrueHD%205.1.jpg)
 

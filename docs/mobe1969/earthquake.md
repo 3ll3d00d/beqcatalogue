@@ -10,7 +10,7 @@ Various interconnected people struggle to survive when an earthquake of unimagin
 
 [TMDB](11123)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Earthquake%20%281974%29%28TC%29%20DTS-HD%20MA%202.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Earthquake%20%281974%29%28TC%29%20DTS-HD%20MA%202.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -22,5 +22,5 @@ Various interconnected people struggle to survive when an earthquake of unimagin
 
 [TMDB](11123)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Earthquake%20%281974%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Earthquake%20%281974%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
 

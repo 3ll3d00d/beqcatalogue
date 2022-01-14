@@ -8,5 +8,5 @@ Based on a real WWII vet and family man turned bank robber. Disillusioned by his
 
 [TMDB](92493)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Citizen%20Gangster%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Citizen%20Gangster%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

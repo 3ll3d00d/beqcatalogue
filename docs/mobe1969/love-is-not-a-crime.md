@@ -8,5 +8,5 @@ A young pickpocket in the New York subways, living a fast, free, lifestyle is co
 
 [TMDB](79465)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Love%20is%20Not%20a%20Crime%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Love%20is%20Not%20a%20Crime%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

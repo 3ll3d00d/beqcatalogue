@@ -8,5 +8,5 @@ Set in a futuristic world where humans live in isolation and interact through su
 
 [TMDB](19959)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Surrogates%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Surrogates%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

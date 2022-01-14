@@ -8,5 +8,5 @@ A group of people meet for the first time in a long time and play a game that re
 
 [TMDB](548352)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Intimate%20Strangers%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Intimate%20Strangers%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

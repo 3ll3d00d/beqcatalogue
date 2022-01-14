@@ -4,9 +4,9 @@
 
 **2017 • PG-13 • 2h 2m • Drama, Crime, Thriller • mobe1969**
 
-Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner â€“ the firm's frontman â€“ has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm â€“ truths that conflict with his values of helping the poor and dispossessed â€“ and finds himself in an existential crisis that leads to extreme actions.
+Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner Ã¢â‚¬â€œ the firm's frontman Ã¢â‚¬â€œ has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm Ã¢â‚¬â€œ truths that conflict with his values of helping the poor and dispossessed Ã¢â‚¬â€œ and finds himself in an existential crisis that leads to extreme actions.
 
 [TMDB](413362)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Roman%20J%20Israel%2C%20Esq%20%282017%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Roman%20J%20Israel%2C%20Esq%20%282017%29%20DD%2B%205.1.jpg)
 

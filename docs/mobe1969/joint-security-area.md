@@ -8,5 +8,5 @@ In the DMZ separating North and South Korea, two North Korean soldiers have been
 
 [TMDB](2440)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Joint%20Security%20Area%20%282000%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Joint%20Security%20Area%20%282000%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

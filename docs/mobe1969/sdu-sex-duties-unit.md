@@ -8,5 +8,5 @@ The Special Duties Unit (SDU) is an elite paramilitary tactical unit of the Hong
 
 [TMDB](210498)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/SDU%20Sex%20Duties%20Unit%20%282013%29%28Ca%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/SDU%20Sex%20Duties%20Unit%20%282013%29%28Ca%29%20DD%2B%202.0.jpg)
 

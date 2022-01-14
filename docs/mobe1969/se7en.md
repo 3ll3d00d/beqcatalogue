@@ -8,5 +8,5 @@ Two homicide detectives are on a desperate hunt for a serial killer whose crimes
 
 [TMDB](807)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Se7en%20%281995%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Se7en%20%281995%29%20DTS-HD%20MA%207.1.jpg)
 

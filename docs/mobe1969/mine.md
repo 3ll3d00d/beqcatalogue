@@ -8,5 +8,5 @@ After a failed assassination attempt, a soldier finds himself stranded in the de
 
 [TMDB](345009)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mine%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mine%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

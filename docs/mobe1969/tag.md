@@ -8,5 +8,5 @@ Female highs school students, including Mitsuko, Keiko and Izumi, become the tar
 
 [TMDB](340176)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tag%20%282015%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tag%20%282015%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

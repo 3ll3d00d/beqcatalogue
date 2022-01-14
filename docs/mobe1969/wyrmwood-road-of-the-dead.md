@@ -8,5 +8,5 @@ Barry is a talented mechanic and family man whose life is torn apart on the eve 
 
 [TMDB](290999)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wyrmwood%20Road%20of%20the%20Dead%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wyrmwood%20Road%20of%20the%20Dead%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

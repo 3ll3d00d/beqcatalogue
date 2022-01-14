@@ -8,5 +8,5 @@ Working in the morgue, a hardworking forensics expert and his assistant are sudd
 
 [TMDB](531368)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bodies%20at%20Rest%20%282019%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bodies%20at%20Rest%20%282019%29%28Ca%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ In the town of Dillford, humans, vampires and zombies were all living in peace -
 
 [TMDB](218784)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Freaks%20of%20Nature%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Freaks%20of%20Nature%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

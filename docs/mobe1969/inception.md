@@ -8,5 +8,5 @@ Cobb, a skilled thief who commits corporate espionage by infiltrating the subcon
 
 [TMDB](27205)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Inception%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Inception%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

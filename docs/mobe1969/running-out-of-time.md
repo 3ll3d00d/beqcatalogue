@@ -8,5 +8,5 @@ Police inspector and excellent hostage negotiator Ho Sheung-Sang finds himself i
 
 [TMDB](2463)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Running%20Out%20of%20Time%20%281999%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Running%20Out%20of%20Time%20%281999%29%28Ca%29%20TrueHD%207.1.jpg)
 

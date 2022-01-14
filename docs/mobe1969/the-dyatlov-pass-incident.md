@@ -8,5 +8,5 @@ In February of 1959, nine Russian hikers ventured into a remote area of the Ural
 
 [TMDB](169219)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Dyatlov%20Pass%20Incident%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Dyatlov%20Pass%20Incident%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

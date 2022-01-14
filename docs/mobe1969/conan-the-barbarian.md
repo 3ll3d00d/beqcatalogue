@@ -8,5 +8,5 @@ A film adaptation of the classic sword and sorcery hero, Conan the Barbarian. A 
 
 [TMDB](9387)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Conan%20the%20Barbarian%20%281982%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Conan%20the%20Barbarian%20%281982%29%20DTS-HD%20MA%205.1.jpg)
 

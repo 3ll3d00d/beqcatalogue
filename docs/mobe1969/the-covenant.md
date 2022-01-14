@@ -8,5 +8,5 @@ Four young men who belong to a supernatural legacy are forced to battle a fifth 
 
 [TMDB](9954)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Covenant%20%282006%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Covenant%20%282006%29%20LPCM%205.1.jpg)
 

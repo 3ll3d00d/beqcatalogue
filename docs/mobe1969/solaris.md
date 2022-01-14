@@ -8,5 +8,5 @@ A troubled psychologist is sent to investigate the crew of an isolated research 
 
 [TMDB](2103)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Solaris%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Solaris%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

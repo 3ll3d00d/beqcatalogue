@@ -8,5 +8,5 @@ Humanity's desperate battle to reclaim the Earth from Godzilla continues. The ke
 
 [TMDB](492719)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Godzilla%20City%20on%20the%20Edge%20of%20Battle%20%282018%29%28Ja%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Godzilla%20City%20on%20the%20Edge%20of%20Battle%20%282018%29%28Ja%29%20DD%2B%205.1.jpg)
 

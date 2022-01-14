@@ -8,5 +8,5 @@ Attacked by vampire, Spring, a born loser is saved by three street cleaners. Whe
 
 [TMDB](446830)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vampire%20Cleanup%20Department%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Vampire%20Cleanup%20Department%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
 

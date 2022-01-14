@@ -8,5 +8,5 @@ For four years, the courageous crew of the NSEA protector - "Commander Peter Qui
 
 [TMDB](926)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Galaxy%20Quest%20%281999%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Galaxy%20Quest%20%281999%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ As a child, Ali Neuman narrowly escaped being murdered by Inkhata, a militant po
 
 [TMDB](185567)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zulu%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zulu%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

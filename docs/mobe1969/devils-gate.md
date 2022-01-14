@@ -8,5 +8,5 @@ Set in the small town of Devil's Gate, North Dakota, the film examines the disap
 
 [TMDB](355193)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Devil%27s%20Gate%20%282018%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Devil%27s%20Gate%20%282018%29%20DD%2B%205.1.jpg)
 

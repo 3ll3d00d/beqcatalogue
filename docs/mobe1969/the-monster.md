@@ -4,9 +4,9 @@
 
 **2016 • R • 1h 31m • Drama, Horror • mobe1969**
 
-A mother and her 10-year old daughter are trapped in a forest. There is something in this forest. Something unlike anything they have heard before. Something that lurks in the darkness and it’s coming after them.
+A mother and her 10-year old daughter are trapped in a forest. There is something in this forest. Something unlike anything they have heard before. Something that lurks in the darkness and itâ€™s coming after them.
 
 [TMDB](340103)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Monster%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Monster%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

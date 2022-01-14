@@ -8,5 +8,5 @@ After he's shot during a heist in East L.A., an armored truck driver wrestles wi
 
 [TMDB](18056)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Take%20%282007%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Take%20%282007%29%20AC3%205.1.jpg)
 

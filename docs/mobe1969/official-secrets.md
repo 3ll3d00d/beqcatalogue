@@ -4,9 +4,9 @@
 
 **2019 • R • 1h 52m • Drama, Thriller, History • mobe1969**
 
-The true story of British intelligence whistleblower Katharine Gun who—prior to the 2003 Iraq invasion—leaked a top-secret NSA memo exposing a joint US-UK illegal spying operation against members of the UN Security Council. The memo proposed blackmailing member states into voting for war.
+The true story of British intelligence whistleblower Katharine Gun whoâ€”prior to the 2003 Iraq invasionâ€”leaked a top-secret NSA memo exposing a joint US-UK illegal spying operation against members of the UN Security Council. The memo proposed blackmailing member states into voting for war.
 
 [TMDB](393624)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Official%20Secrets%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Official%20Secrets%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

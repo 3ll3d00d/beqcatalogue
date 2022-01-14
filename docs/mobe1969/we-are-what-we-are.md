@@ -8,5 +8,5 @@ The Parkers, reclusive people who cling to ancient customs, find their secret li
 
 [TMDB](159128)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/We%20Are%20What%20We%20Are%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/We%20Are%20What%20We%20Are%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Talented but unproven stock car driver Cole Trickle gets a break and with the gu
 
 [TMDB](2119)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Days%20of%20Thunder%20%281990%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Days%20of%20Thunder%20%281990%29%20TrueHD%205.1.jpg)
 

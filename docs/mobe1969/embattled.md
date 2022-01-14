@@ -8,5 +8,5 @@ The eldest son of a ruthlessly tough MMA champion must fight his way out of the 
 
 [TMDB](592643)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Embattled%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Embattled%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

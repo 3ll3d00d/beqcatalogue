@@ -8,5 +8,5 @@ A former smuggler attempts to start his life anew and repair his relationship wi
 
 [TMDB](497768)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Better%20Tomorrow%20%282018%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Better%20Tomorrow%20%282018%29%28Ma%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ A biologist signs up for a dangerous, secret expedition into a mysterious zone w
 
 [TMDB](300668)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Annihilation%20%282018%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Annihilation%20%282018%29%20Atmos.jpg)
 

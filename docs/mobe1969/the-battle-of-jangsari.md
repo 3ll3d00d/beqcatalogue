@@ -8,5 +8,5 @@ Korean War, September 1950. In order to fight the enemy forces based in the Sout
 
 [TMDB](567629)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Battle%20of%20Jangsari%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Battle%20of%20Jangsari%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

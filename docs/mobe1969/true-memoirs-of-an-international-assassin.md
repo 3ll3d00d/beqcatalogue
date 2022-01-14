@@ -8,5 +8,5 @@ After a publisher changes a writer's debut novel about a deadly assassin from fi
 
 [TMDB](339396)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/True%20Memoirs%20of%20an%20International%20Assassin%20%282016%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/True%20Memoirs%20of%20an%20International%20Assassin%20%282016%29%20DD%2B%205.1.jpg)
 

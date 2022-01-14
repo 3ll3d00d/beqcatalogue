@@ -8,5 +8,5 @@ The Bride unwaveringly continues on her roaring rampage of revenge against the b
 
 [TMDB](393)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kill%20Bill%20Vol.%202%20%282004%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kill%20Bill%20Vol.%202%20%282004%29%20LPCM%205.1.jpg)
 

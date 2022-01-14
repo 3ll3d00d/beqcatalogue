@@ -8,5 +8,5 @@ A horror movie/buddy comedy about Joey and his undead friend Bart who comes back
 
 [TMDB](79896)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Revenant%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Revenant%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

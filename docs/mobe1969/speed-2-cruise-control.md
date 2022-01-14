@@ -8,5 +8,5 @@ A computer hacker breaks into the computer system of the Seabourn Legend cruise 
 
 [TMDB](1639)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Speed%202%20Cruise%20Control%20%281997%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Speed%202%20Cruise%20Control%20%281997%29%20DTS-HD%20MA%205.1.jpg)
 

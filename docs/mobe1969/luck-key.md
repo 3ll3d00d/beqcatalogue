@@ -8,5 +8,5 @@ A reverse comedy that tells the story of a perfectionist assassin who falls and 
 
 [TMDB](421928)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Luck-Key%20%282016%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Luck-Key%20%282016%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

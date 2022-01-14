@@ -8,5 +8,5 @@ Russian and British submarines with nuclear missiles on board both vanish from s
 
 [TMDB](691)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Spy%20Who%20Loved%20Me%20%281977%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Spy%20Who%20Loved%20Me%20%281977%29%20DTS-HD%20MA%205.1.jpg)
 

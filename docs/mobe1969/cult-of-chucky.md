@@ -8,5 +8,5 @@ Confined to an asylum for the criminally insane, Nica Pierce is convinced that s
 
 [TMDB](393345)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cult%20of%20Chucky%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cult%20of%20Chucky%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Jackie Justice is a mixed martial arts fighter who leaves the sport in disgrace.
 
 [TMDB](718633)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bruised%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bruised%20%282021%29%20DD%2B%205.1.jpg)
 

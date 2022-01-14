@@ -8,5 +8,5 @@ After being stabbed in the heart by ruthless home invaders, a man is left for de
 
 [TMDB](539619)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Edge%20of%20Fear%20%282018%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Edge%20of%20Fear%20%282018%29%20DD%2B%205.1.jpg)
 

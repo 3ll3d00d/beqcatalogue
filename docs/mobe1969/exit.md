@@ -8,5 +8,5 @@ When an unknown toxic gas strikes Seoul in an unprecedented act of terror, Yong-
 
 [TMDB](572164)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/EXIT%20%282019%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/EXIT%20%282019%29%28Ko%29%20TrueHD%205.1.jpg)
 

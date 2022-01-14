@@ -10,7 +10,7 @@ When his dysfunctional family clashes over the holidays, young Max is disillusio
 
 [TMDB](287903)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Krampus%20%282015%29%28The%20Naughty%20Cut%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Krampus%20%282015%29%28The%20Naughty%20Cut%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -20,5 +20,5 @@ When his dysfunctional family clashes over the holidays, young Max is disillusio
 
 [TMDB](287903)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Krampus%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Krampus%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

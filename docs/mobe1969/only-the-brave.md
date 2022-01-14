@@ -8,5 +8,5 @@ A searing portrait of war and prejudice, 'Only the Brave' takes you on a hauntin
 
 [TMDB](31101)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Only%20the%20Brave%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Only%20the%20Brave%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

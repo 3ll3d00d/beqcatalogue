@@ -8,5 +8,5 @@ Russian inmate Boyka, now severely hobbled by the knee injury suffered at the en
 
 [TMDB](38234)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Undisputed%20III%20Redemption%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/U/Undisputed%20III%20Redemption%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,7 +8,7 @@ A group of archaeological students become trapped in the past when they go there
 
 [TMDB](9562)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Timeline%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Timeline%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ A group of archaeological students become trapped in the past when they go there
 
 [TMDB](9562)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Timeline%20%282003%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Timeline%20%282003%29%20TrueHD%205.1.jpg)
 

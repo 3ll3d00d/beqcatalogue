@@ -8,5 +8,5 @@ Dae-ho, an investigative journalist, seeks to track down the whereabouts of his 
 
 [TMDB](436994)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lucid%20Dream%20%282017%29%28Ko%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lucid%20Dream%20%282017%29%28Ko%29%20DD%2B%205.1.jpg)
 

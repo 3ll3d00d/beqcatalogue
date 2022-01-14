@@ -8,5 +8,5 @@ An ordinary guy suddenly finds he has superpowers he can use to help his spirite
 
 [TMDB](452015)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Psychokinesis%20%282018%29%28Ko%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Psychokinesis%20%282018%29%28Ko%29%20DD%2B%205.1.jpg)
 

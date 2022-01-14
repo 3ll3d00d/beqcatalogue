@@ -8,5 +8,5 @@ An exiled detective is recruited to solve a series of mysterious deaths that thr
 
 [TMDB](48492)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Detective%20Dee%20Mystery%20of%20the%20Phantom%20Flame%20%282010%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Detective%20Dee%20Mystery%20of%20the%20Phantom%20Flame%20%282010%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

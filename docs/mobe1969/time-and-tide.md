@@ -8,5 +8,5 @@ Tyler is a restless, streetwise 21-year-old Hong Kong native who's had trouble g
 
 [TMDB](49291)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Time%20and%20Tide%20%282000%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Time%20and%20Tide%20%282000%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

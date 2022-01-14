@@ -8,7 +8,7 @@ China's deadliest special forces operative settles into a quiet life on the sea.
 
 [TMDB](452557)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wolf%20Warrior%20II%20%282017%29%28Ma%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wolf%20Warrior%20II%20%282017%29%28Ma%29%20Atmos.jpg)
 
 ## DTS-X
 
@@ -20,5 +20,5 @@ DTS-X IMAX
 
 [TMDB](452557)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wolf%20Warrior%20II%20%282017%29%28Ma%29%20DTS-X.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wolf%20Warrior%20II%20%282017%29%28Ma%29%20DTS-X.jpg)
 

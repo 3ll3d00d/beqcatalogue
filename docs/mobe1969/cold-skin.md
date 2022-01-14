@@ -8,5 +8,5 @@ A young man who arrives at a remote island finds himself trapped in a battle for
 
 [TMDB](428399)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cold%20Skin%20%282017%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cold%20Skin%20%282017%29%20Atmos.jpg)
 

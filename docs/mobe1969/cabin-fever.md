@@ -8,5 +8,5 @@ A group of five college graduates rent a cabin in the woods and begin to fall vi
 
 [TMDB](11547)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cabin%20Fever%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cabin%20Fever%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

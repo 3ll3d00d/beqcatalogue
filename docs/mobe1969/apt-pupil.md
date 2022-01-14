@@ -8,5 +8,5 @@ One day in 1984, Todd Bowden, a brilliant high school boy fascinated by the hist
 
 [TMDB](9445)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Apt%20Pupil%20%281998%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Apt%20Pupil%20%281998%29%20DTS-HD%20MA%202.0.jpg)
 

@@ -8,5 +8,5 @@ Four friends lose themselves in a carefree South-East Asian holiday. Only three 
 
 [TMDB](60270)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wish%20You%20Were%20Here%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wish%20You%20Were%20Here%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ On a prom-night dare, a trio of high school friends chant an incantation, unleas
 
 [TMDB](10292)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Urban%20Legends%20Bloody%20Mary%20%282005%29%20AC3%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/U/Urban%20Legends%20Bloody%20Mary%20%282005%29%20AC3%202.0.jpg)
 

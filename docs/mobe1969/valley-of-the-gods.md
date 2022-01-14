@@ -8,5 +8,5 @@ A mix of fantasy and sci-fi, the film entwines Navajo lore with a reclusive tril
 
 [TMDB](331044)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Valley%20of%20the%20Gods%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Valley%20of%20the%20Gods%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

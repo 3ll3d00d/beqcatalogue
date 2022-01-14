@@ -10,5 +10,5 @@ Two victims of traumatized childhoods become lovers and psychopathic serial murd
 
 [TMDB](241)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Natural%20Born%20Killers%20%281994%29%28DC%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Natural%20Born%20Killers%20%281994%29%28DC%29%20TrueHD%205.1.jpg)
 

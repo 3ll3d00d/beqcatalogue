@@ -8,5 +8,5 @@ A drug squad attempts to take down a criminal organization and they must go unde
 
 [TMDB](567646)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Extreme%20Job%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Extreme%20Job%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

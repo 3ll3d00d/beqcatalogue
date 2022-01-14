@@ -10,7 +10,7 @@ During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a 
 
 [TMDB](286217)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Martian%20%282015%29%28EC%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Martian%20%282015%29%28EC%29%20Atmos.jpg)
 
 ## Atmos
 
@@ -22,5 +22,5 @@ During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a 
 
 [TMDB](286217)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Martian%20%282015%29%28TC%29%20Atmos.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Martian%20%282015%29%28TC%29%20Atmos.jpg)
 

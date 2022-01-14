@@ -8,5 +8,5 @@ Sent into a drunken tailspin when his entire unit is killed by a gang of thrill-
 
 [TMDB](11636)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/New%20Police%20Story%20%282004%29%28Ca%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/New%20Police%20Story%20%282004%29%28Ca%29%20AC3%205.1.jpg)
 

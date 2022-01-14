@@ -8,5 +8,5 @@ Over the summer of 1976, thirty-six bombs detonate in the heart of Cleveland whi
 
 [TMDB](51209)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kill%20the%20Irishman%20%282011%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kill%20the%20Irishman%20%282011%29%20TrueHD%205.1.jpg)
 

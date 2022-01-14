@@ -8,5 +8,5 @@ In a California desert town, a short-order cook with clairvoyant abilities encou
 
 [TMDB](179826)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Odd%20Thomas%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Odd%20Thomas%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

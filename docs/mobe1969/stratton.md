@@ -8,5 +8,5 @@ A British Special Boat Service commando tracks down an international terrorist c
 
 [TMDB](348389)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Stratton%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stratton%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

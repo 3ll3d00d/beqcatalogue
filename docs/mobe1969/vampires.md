@@ -8,5 +8,5 @@ The church enlists a team of vampire-hunters to hunt down and destroy a group of
 
 [TMDB](9945)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Vampires%20%281998%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Vampires%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

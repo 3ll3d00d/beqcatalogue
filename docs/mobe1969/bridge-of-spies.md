@@ -8,5 +8,5 @@ During the Cold War, the Soviet Union captures U.S. pilot Francis Gary Powers af
 
 [TMDB](296098)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bridge%20of%20Spies%20%282015%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bridge%20of%20Spies%20%282015%29%20DTS-HD%20MA%207.1.jpg)
 

@@ -10,5 +10,5 @@ A fantasy movie about an arrogant, lazy prince and his more heroic brother who m
 
 [TMDB](38319)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Your%20Highness%20%282011%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Y/Your%20Highness%20%282011%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
 

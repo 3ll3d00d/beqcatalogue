@@ -8,5 +8,5 @@ While Native American Wolf is being pursued by the FBI for having taken the law 
 
 [TMDB](268060)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Road%20to%20Paloma%20%282014%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Road%20to%20Paloma%20%282014%29%20TrueHD%205.1.jpg)
 

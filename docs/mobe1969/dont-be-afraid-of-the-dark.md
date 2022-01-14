@@ -8,5 +8,5 @@ A young girl sent to live with her father and his new girlfriend discovers creat
 
 [TMDB](46261)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Don%27t%20Be%20Afraid%20of%20the%20Dark%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Don%27t%20Be%20Afraid%20of%20the%20Dark%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

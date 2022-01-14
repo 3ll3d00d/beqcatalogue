@@ -8,5 +8,5 @@ Bill and Ted are high school buddies starting a band. They are also about to fai
 
 [TMDB](1648)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bill%20%26%20Ted%27s%20Excellent%20Adventure%20%281989%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bill%20%26%20Ted%27s%20Excellent%20Adventure%20%281989%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ An assassin for a secret organization keeping Japan safe from underworld threats
 
 [TMDB](606216)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hydra%20%282019%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hydra%20%282019%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

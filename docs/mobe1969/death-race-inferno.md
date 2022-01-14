@@ -8,5 +8,5 @@ Carl Lucas / Frankenstein has won four of his races and needs to win one more to
 
 [TMDB](156717)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Death%20Race%20Inferno%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Death%20Race%20Inferno%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ When minor-league hockey player Derek Thompson -- who has a penchant for knockin
 
 [TMDB](23023)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tooth%20Fairy%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tooth%20Fairy%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ It's three years after the events of the original Battle Royale, and Shuya Nanah
 
 [TMDB](3177)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Battle%20Royale%20II%20Requiem%20%282003%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Battle%20Royale%20II%20Requiem%20%282003%29%28Ja%29%20TrueHD%205.1.jpg)
 

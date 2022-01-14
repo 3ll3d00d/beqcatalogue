@@ -8,5 +8,5 @@ Based on the game, Dead Rising takes place during a large-scale zombie outbreak.
 
 [TMDB](293771)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20Rising%20Watchtower%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dead%20Rising%20Watchtower%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

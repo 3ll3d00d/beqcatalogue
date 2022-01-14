@@ -8,7 +8,7 @@ In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cy
 
 [TMDB](218)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Terminator%20%281984%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Terminator%20%281984%29%20DTS-HD%20MA%205.1.jpg)
 
 ## LPCM 5.1
 
@@ -18,5 +18,5 @@ In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cy
 
 [TMDB](218)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Terminator%20%281984%29%20LPCM%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Terminator%20%281984%29%20LPCM%205.1.jpg)
 

@@ -8,5 +8,5 @@ In this remake of the original classic film, a group of people are trapped insid
 
 [TMDB](19185)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Night%20of%20the%20Living%20Dead%20%281990%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Night%20of%20the%20Living%20Dead%20%281990%29%20DTS-HD%20MA%205.1.jpg)
 

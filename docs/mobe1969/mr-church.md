@@ -8,5 +8,5 @@ A unique friendship develops when a little girl and her dying mother inherit a c
 
 [TMDB](374461)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mr.%20Church%20%282016%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mr.%20Church%20%282016%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ A twisted new tale of terror begins for a teenage girl and her family, and revea
 
 [TMDB](280092)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Insidious%20Chapter%203%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Insidious%20Chapter%203%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

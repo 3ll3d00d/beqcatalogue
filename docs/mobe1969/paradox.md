@@ -8,7 +8,7 @@ When a Hong Kong police negotiator is informed about the sudden disappearance of
 
 [TMDB](452558)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Paradox%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Paradox%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ When a Hong Kong police negotiator is informed about the sudden disappearance of
 
 [TMDB](452558)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Paradox%20%282017%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Paradox%20%282017%29%28Ma%29%20TrueHD%205.1.jpg)
 

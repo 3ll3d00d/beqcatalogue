@@ -8,5 +8,5 @@ Hye-jeong, a lonely young girl who has drifted away from her family and avoids p
 
 [TMDB](541682)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ghost%20Walk%20%282019%29%28Ko%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghost%20Walk%20%282019%29%28Ko%29%20DD%2B%202.0.jpg)
 

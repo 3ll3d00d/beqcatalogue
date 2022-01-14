@@ -8,5 +8,5 @@ Following the death of his employer and mentor, Bumpy Johnson, Frank Lucas estab
 
 [TMDB](4982)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/American%20Gangster%20%282007%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/American%20Gangster%20%282007%29%20DTS-X.jpg)
 

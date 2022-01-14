@@ -8,5 +8,5 @@ This time, a cataclysmic temblor hits Los Angeles, turning it into an island. Th
 
 [TMDB](10061)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Escape%20From%20L.A.%20%281996%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Escape%20From%20L.A.%20%281996%29%20TrueHD%205.1.jpg)
 

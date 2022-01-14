@@ -8,7 +8,7 @@ The Blind Man has been hiding out for several years in an isolated cabin and has
 
 [TMDB](482373)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Don%27t%20Breathe%202%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Don%27t%20Breathe%202%20%282021%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ The Blind Man has been hiding out for several years in an isolated cabin and has
 
 [TMDB](482373)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Don%27t%20Breathe%202%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Don%27t%20Breathe%202%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 

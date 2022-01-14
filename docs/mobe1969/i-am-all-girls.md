@@ -8,5 +8,5 @@ A special crimes investigator forms an unlikely bond with a serial killer to bri
 
 [TMDB](823855)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I%20Am%20All%20Girls%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I%20Am%20All%20Girls%20%282021%29%20DD%2B%205.1.jpg)
 

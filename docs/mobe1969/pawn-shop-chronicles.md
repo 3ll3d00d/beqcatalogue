@@ -8,5 +8,5 @@ The stories of a missing wife, a couple of meth heads and an Elvis impersonator 
 
 [TMDB](199420)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Pawn%20Shop%20Chronicles%20%282013%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pawn%20Shop%20Chronicles%20%282013%29%20TrueHD%205.1.jpg)
 

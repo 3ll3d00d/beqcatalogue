@@ -8,5 +8,5 @@ After the human race has been wiped out, Del lives in an empty town, content in 
 
 [TMDB](451877)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I%20Think%20We%27re%20Alone%20Now%20%282018%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I%20Think%20We%27re%20Alone%20Now%20%282018%29%20TrueHD%207.1.jpg)
 

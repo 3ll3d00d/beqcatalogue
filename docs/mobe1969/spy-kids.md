@@ -8,5 +8,5 @@ Carmen and Juni think their parents are boring. Little do they know that in thei
 
 [TMDB](10054)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Spy%20Kids%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spy%20Kids%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

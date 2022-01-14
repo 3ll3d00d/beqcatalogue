@@ -8,5 +8,5 @@ By the year 2050 AD, a mysterious organization called Galactor has occupied half
 
 [TMDB](225145)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gatchaman%20%282013%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gatchaman%20%282013%29%28Ja%29%20TrueHD%205.1.jpg)
 

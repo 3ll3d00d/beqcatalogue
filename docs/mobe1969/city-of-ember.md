@@ -8,5 +8,5 @@ For generations, the people of the City of Ember have flourished in an amazing w
 
 [TMDB](13600)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/City%20of%20Ember%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/City%20of%20Ember%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

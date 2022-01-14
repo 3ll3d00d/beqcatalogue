@@ -8,5 +8,5 @@ A group of six tourists looking to go off the beaten path, hire an 'extreme tour
 
 [TMDB](93856)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Chernobyl%20Diaries%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Chernobyl%20Diaries%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

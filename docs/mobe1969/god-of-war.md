@@ -8,5 +8,5 @@ During the 16th century, pirates rule the Chinese coastline, pillaging the small
 
 [TMDB](455043)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/God%20of%20War%20%282017%29%28Ma%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/God%20of%20War%20%282017%29%28Ma%29%20DTS-X.jpg)
 

@@ -8,5 +8,5 @@ When CIA Analyst Jack Ryan interferes with an IRA assassination, a renegade fact
 
 [TMDB](9869)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Patriot%20Games%20%281992%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Patriot%20Games%20%281992%29%20TrueHD%205.1.jpg)
 

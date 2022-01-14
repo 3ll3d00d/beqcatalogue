@@ -8,5 +8,5 @@ An officer for a security agency that regulates time travel, must fend for his l
 
 [TMDB](8831)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Timecop%20%281994%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Timecop%20%281994%29%20DTS-HD%20MA%205.1.jpg)
 

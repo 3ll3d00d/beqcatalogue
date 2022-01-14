@@ -8,7 +8,7 @@ A Puerto-Rican ex-con, just released from prison, pledges to stay away from drug
 
 [TMDB](6075)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Carlito%27s%20Way%20%281993%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Carlito%27s%20Way%20%281993%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-X
 
@@ -18,5 +18,5 @@ A Puerto-Rican ex-con, just released from prison, pledges to stay away from drug
 
 [TMDB](6075)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Carlito%27s%20Way%20%281993%29%20DTS-X.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Carlito%27s%20Way%20%281993%29%20DTS-X.jpg)
 

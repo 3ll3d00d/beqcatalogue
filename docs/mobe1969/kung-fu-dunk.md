@@ -8,7 +8,7 @@ Shi-Jie is a brilliant martial artist from the Kung Fu School. One day, he encou
 
 [TMDB](17108)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kung%20Fu%20Dunk%20%282008%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Dunk%20%282008%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
 
 ## LPCM 7.1
 
@@ -18,5 +18,5 @@ Shi-Jie is a brilliant martial artist from the Kung Fu School. One day, he encou
 
 [TMDB](17108)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kung%20Fu%20Dunk%20%282008%29%28Ma%29%20LPCM%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Dunk%20%282008%29%28Ma%29%20LPCM%207.1.jpg)
 

@@ -8,5 +8,5 @@ Truman Gates, a Chicago cop, sets out to find his brother's killer. Meanwhile, a
 
 [TMDB](27418)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Next%20of%20Kin%20%281989%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Next%20of%20Kin%20%281989%29%20DTS-HD%20MA%202.0.jpg)
 

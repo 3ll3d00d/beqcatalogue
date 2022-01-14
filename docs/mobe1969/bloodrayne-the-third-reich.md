@@ -10,5 +10,5 @@ Rayne fights against the Nazis in Europe during World War II, encountering Ekart
 
 [TMDB](12685)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bloodrayne%20The%20Third%20Reich%20%282010%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bloodrayne%20The%20Third%20Reich%20%282010%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
 

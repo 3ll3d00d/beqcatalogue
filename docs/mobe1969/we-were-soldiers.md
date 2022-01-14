@@ -8,5 +8,5 @@ The story of the first major battle of the American phase of the Vietnam War and
 
 [TMDB](10590)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/We%20Were%20Soldiers%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/We%20Were%20Soldiers%20%282002%29%20DTS-HD%20MA%205.1.jpg)
 

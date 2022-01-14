@@ -8,5 +8,5 @@ Alain Moreau's investigation into the death of his identical twin brother leads 
 
 [TMDB](10861)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Maximum%20Risk%20%281996%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Maximum%20Risk%20%281996%29%20TrueHD%205.1.jpg)
 

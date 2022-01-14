@@ -10,5 +10,5 @@ Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves t
 
 [TMDB](122917)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20%282014%29%28TC%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20%282014%29%28TC%29%20Atmos.jpg)
 

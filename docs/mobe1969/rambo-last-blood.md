@@ -10,5 +10,5 @@ After fighting his demons for decades, John Rambo now lives in peace on his fami
 
 [TMDB](522938)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rambo%20Last%20Blood%20%282019%29%28Extended%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rambo%20Last%20Blood%20%282019%29%28Extended%29%20Atmos.jpg)
 

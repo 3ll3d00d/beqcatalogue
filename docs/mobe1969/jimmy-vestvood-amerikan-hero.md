@@ -8,5 +8,5 @@ A wannabe private investigator wins the Green Card lottery and moves to America 
 
 [TMDB](299641)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jimmy%20Vestvood%20Amerikan%20Hero%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jimmy%20Vestvood%20Amerikan%20Hero%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

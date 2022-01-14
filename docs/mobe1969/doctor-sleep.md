@@ -10,5 +10,5 @@ Still irrevocably scarred by the trauma he endured as a child at the Overlook, D
 
 [TMDB](501170)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Doctor%20Sleep%20%282019%29%28Director%27s%20Cut%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Doctor%20Sleep%20%282019%29%28Director%27s%20Cut%29%20Atmos.jpg)
 

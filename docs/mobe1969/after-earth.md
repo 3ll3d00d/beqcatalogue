@@ -8,5 +8,5 @@ One thousand years after cataclysmic events forced humanity's escape from Earth,
 
 [TMDB](82700)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/After%20Earth%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/After%20Earth%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

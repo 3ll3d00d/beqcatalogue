@@ -8,5 +8,5 @@ Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smo
 
 [TMDB](1598)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cape%20Fear%20%281991%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cape%20Fear%20%281991%29%20DTS-HD%20MA%205.1.jpg)
 

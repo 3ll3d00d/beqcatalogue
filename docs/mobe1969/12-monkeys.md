@@ -8,5 +8,5 @@ In the year 2035, convict James Cole reluctantly volunteers to be sent back in t
 
 [TMDB](63)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/12%20Monkeys%20%281995%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/12%20Monkeys%20%281995%29%20DTS-HD%20MA%205.1.jpg)
 

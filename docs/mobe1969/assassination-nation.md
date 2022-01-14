@@ -8,5 +8,5 @@ High school senior Lily and her friends, Bex, Em and Sarah live in a haze of tex
 
 [TMDB](446101)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Assassination%20Nation%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Assassination%20Nation%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

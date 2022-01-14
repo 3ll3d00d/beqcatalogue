@@ -8,5 +8,5 @@ In early-1970s Las Vegas, low-level mobster Sam "Ace" Rothstein gets tapped by h
 
 [TMDB](524)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Casino%20%281995%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Casino%20%281995%29%20DTS-X.jpg)
 

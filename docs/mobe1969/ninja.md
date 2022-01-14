@@ -8,5 +8,5 @@ A westerner named Casey, studying Ninjutsu in Japan, is asked by the Sensei to r
 
 [TMDB](25602)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Ninja%20%282009%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Ninja%20%282009%29%20TrueHD%205.1.jpg)
 

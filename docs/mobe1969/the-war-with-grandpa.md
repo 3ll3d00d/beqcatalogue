@@ -8,5 +8,5 @@ Peter is thrilled that his Grandpa is coming to live with his family. That is, u
 
 [TMDB](425001)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20War%20With%20Grandpa%20%282020%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20War%20With%20Grandpa%20%282020%29%20DD%2B%205.1.jpg)
 

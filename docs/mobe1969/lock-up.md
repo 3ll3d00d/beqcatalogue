@@ -8,5 +8,5 @@ Frank Leone is nearing the end of his prison term for a relatively minor crime. 
 
 [TMDB](9972)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lock%20Up%20%281989%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lock%20Up%20%281989%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A psycho- sexual thriller following a couple that buys an old motel in the deser
 
 [TMDB](437375)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Looking%20Glass%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Looking%20Glass%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

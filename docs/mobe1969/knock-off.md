@@ -8,5 +8,5 @@ Marcus Ray, a sales representative for "V SIX" jeans, and his partner, Tommy Hen
 
 [TMDB](37498)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Knock%20Off%20%281998%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Knock%20Off%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

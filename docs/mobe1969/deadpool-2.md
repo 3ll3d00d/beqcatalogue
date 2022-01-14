@@ -10,7 +10,7 @@ Wisecracking mercenary Deadpool battles the evil and powerful Cable and other ba
 
 [TMDB](383498)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deadpool%202%20%282018%29%28Extended%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deadpool%202%20%282018%29%28Extended%29%20Atmos.jpg)
 
 ## Atmos
 
@@ -22,5 +22,5 @@ Wisecracking mercenary Deadpool battles the evil and powerful Cable and other ba
 
 [TMDB](383498)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deadpool%202%20%282018%29%28Unrated%29%20Atmos.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deadpool%202%20%282018%29%28Unrated%29%20Atmos.jpg)
 

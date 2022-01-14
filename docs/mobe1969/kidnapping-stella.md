@@ -8,5 +8,5 @@ Snatched off the street and held for ransom, a bound and gagged woman uses her l
 
 [TMDB](611468)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kidnapping%20Stella%20%282019%29%28De%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kidnapping%20Stella%20%282019%29%28De%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ A young witch, on her mandatory year of independent life, finds fitting into a n
 
 [TMDB](16859)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kiki%27s%20Delivery%20Service%20%281989%29%20LPCM%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kiki%27s%20Delivery%20Service%20%281989%29%20LPCM%202.0.jpg)
 

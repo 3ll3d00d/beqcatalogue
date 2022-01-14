@@ -8,5 +8,5 @@ A team of U.S. archaeologists unearths an ancient pyramid buried deep beneath th
 
 [TMDB](282813)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Pyramid%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Pyramid%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

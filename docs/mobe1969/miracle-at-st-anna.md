@@ -8,5 +8,5 @@ Miracle at St. Anna chronicles the story of four American soldiers who are membe
 
 [TMDB](12412)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Miracle%20at%20St.%20Anna%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Miracle%20at%20St.%20Anna%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

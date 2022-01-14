@@ -8,5 +8,5 @@ As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when 
 
 [TMDB](792)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Platoon%20%281986%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Platoon%20%281986%29%20AC3%205.1.jpg)
 

@@ -8,5 +8,5 @@ A card shark and his unwillingly-enlisted friends need to make a lot of cash qui
 
 [TMDB](100)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Lock%2C%20Stock%20And%20Two%20Smoking%20Barrels%20%281998%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lock%2C%20Stock%20And%20Two%20Smoking%20Barrels%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A bitter battle is fought between Australian and Japanese soldiers along the Kok
 
 [TMDB](9774)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kokoda%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kokoda%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

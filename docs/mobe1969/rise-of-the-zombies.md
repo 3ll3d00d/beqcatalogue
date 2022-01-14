@@ -8,5 +8,5 @@ When zombies overrun San Francisco, a desperate group survives by locking themse
 
 [TMDB](140174)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rise%20of%20the%20Zombies%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rise%20of%20the%20Zombies%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

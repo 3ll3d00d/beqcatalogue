@@ -10,7 +10,7 @@ In the waning years of the Ming Dynasty, the Bruneian Empire offers a rare creat
 
 [TMDB](569947)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kung%20Fu%20Monster%20%282018%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Monster%20%282018%29%28Ca%29%20TrueHD%207.1.jpg)
 
 ## TrueHD 7.1
 
@@ -20,5 +20,5 @@ In the waning years of the Ming Dynasty, the Bruneian Empire offers a rare creat
 
 [TMDB](569947)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Kung%20Fu%20Monster%20%282018%29%28Ma%29%20TrueHD%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Monster%20%282018%29%28Ma%29%20TrueHD%207.1.jpg)
 

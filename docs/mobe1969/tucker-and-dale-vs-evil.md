@@ -8,5 +8,5 @@ Two hillbillies are suspected of being killers by a group of paranoid college ki
 
 [TMDB](46838)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tucker%20and%20Dale%20vs%20Evil%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tucker%20and%20Dale%20vs%20Evil%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

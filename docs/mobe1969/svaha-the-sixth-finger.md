@@ -8,5 +8,5 @@ Pastor Park is head of a religious investigation center that exposes cults and c
 
 [TMDB](556509)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Svaha%20The%20Sixth%20Finger%20%282019%29%28Ko%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Svaha%20The%20Sixth%20Finger%20%282019%29%28Ko%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ As Nell Sweetzer tries to build a new life after the events of the first movie, 
 
 [TMDB](146203)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Last%20Exorcism%20Part%20II%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Last%20Exorcism%20Part%20II%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

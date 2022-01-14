@@ -8,5 +8,5 @@ When a small Colorado town is overrun by the flesh hungry dead, a small group of
 
 [TMDB](13613)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Day%20of%20the%20Dead%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Day%20of%20the%20Dead%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

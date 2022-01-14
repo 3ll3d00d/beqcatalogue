@@ -8,5 +8,5 @@ The film that brings back horror icon Freddy Krueger as a darker and more sinist
 
 [TMDB](23437)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A%20Nightmare%20on%20Elm%20Street%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Nightmare%20on%20Elm%20Street%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

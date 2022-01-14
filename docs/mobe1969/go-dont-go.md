@@ -8,5 +8,5 @@ A wallflower finds himself the last man in the world after an unknown apocalypse
 
 [TMDB](669644)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Go%20Don%27t%20Go%20%282020%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Go%20Don%27t%20Go%20%282020%29%20AC3%205.1.jpg)
 

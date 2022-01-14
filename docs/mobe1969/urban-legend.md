@@ -8,5 +8,5 @@ A college campus is plagued by a vicious serial killer murdering students in way
 
 [TMDB](9877)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Urban%20Legend%20%281998%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/U/Urban%20Legend%20%281998%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor
 
 [TMDB](460465)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mortal%20Kombat%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mortal%20Kombat%20%282021%29%20Atmos.jpg)
 

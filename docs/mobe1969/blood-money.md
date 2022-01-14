@@ -8,5 +8,5 @@ Zheng Zhou is the most feared warrior from the Shaolin Dynasty in China. His fig
 
 [TMDB](128280)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Blood%20Money%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blood%20Money%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

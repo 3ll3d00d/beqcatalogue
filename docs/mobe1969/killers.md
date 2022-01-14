@@ -8,5 +8,5 @@ When an elite assassin marries a beautiful computer whiz after a whirlwind roman
 
 [TMDB](37821)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Killers%20%282010%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Killers%20%282010%29%20DTS-HD%20MA%207.1.jpg)
 

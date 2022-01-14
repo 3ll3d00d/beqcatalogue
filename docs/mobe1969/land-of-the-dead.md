@@ -10,5 +10,5 @@ The world is full of zombies and the survivors have barricaded themselves inside
 
 [TMDB](11683)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Land%20of%20the%20Dead%20%282005%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Land%20of%20the%20Dead%20%282005%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
 

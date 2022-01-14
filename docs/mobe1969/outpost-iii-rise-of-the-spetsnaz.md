@@ -8,5 +8,5 @@ In the third installment of the hit Nazi Zombie action horror movie, Outpost: Ri
 
 [TMDB](164377)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Outpost%20III%20Rise%20of%20the%20Spetsnaz%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Outpost%20III%20Rise%20of%20the%20Spetsnaz%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

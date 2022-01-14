@@ -8,5 +8,5 @@ Trained in clandestine combat from childhood, the Jinyiwei were masters of the 1
 
 [TMDB](34179)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/14%20Blades%20%282010%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/14%20Blades%20%282010%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
 

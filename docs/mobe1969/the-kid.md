@@ -8,5 +8,5 @@ New Mexico Territory, 1880. Rio Cutler and his older sister Sara must abandon th
 
 [TMDB](492565)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Kid%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Kid%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

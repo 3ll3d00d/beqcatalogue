@@ -8,5 +8,5 @@ A drug addict tries to sabotage his brother's struggle to get sober once and for
 
 [TMDB](93094)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Junkie%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Junkie%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

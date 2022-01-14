@@ -8,5 +8,5 @@ After barely surviving a violent attack by an elusive serial killer, crime boss 
 
 [TMDB](581528)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Gangster%20the%20Cop%20the%20Devil%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Gangster%20the%20Cop%20the%20Devil%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

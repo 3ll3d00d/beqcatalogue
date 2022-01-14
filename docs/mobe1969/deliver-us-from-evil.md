@@ -8,7 +8,7 @@ A retired contract killer goes on a bloody rampage when a young girl finds herse
 
 [TMDB](581526)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deliver%20Us%20From%20Evil%20%282020%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deliver%20Us%20From%20Evil%20%282020%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -20,5 +20,5 @@ A retired contract killer goes on a bloody rampage when a young girl finds herse
 
 [TMDB](581526)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Deliver%20Us%20From%20Evil%20%282020%29%28Ko%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deliver%20Us%20From%20Evil%20%282020%29%28Ko%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
 

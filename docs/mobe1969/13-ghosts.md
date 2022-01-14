@@ -8,5 +8,5 @@ Arthur and his two children, Kathy and Bobby, inherit his Uncle Cyrus's estate: 
 
 [TMDB](9378)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/13%20Ghosts%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/13%20Ghosts%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

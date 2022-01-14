@@ -8,5 +8,5 @@ Taxi driver David, who's doomed after a terminal cancer diagnosis, accidentally 
 
 [TMDB](484290)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Always%20Be%20With%20You%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Always%20Be%20With%20You%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
 

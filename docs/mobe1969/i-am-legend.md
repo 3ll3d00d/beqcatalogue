@@ -8,5 +8,5 @@ Robert Neville is a scientist who was unable to stop the spread of the terrible 
 
 [TMDB](6479)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I%20Am%20Legend%20%282007%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I%20Am%20Legend%20%282007%29%20TrueHD%205.1.jpg)
 

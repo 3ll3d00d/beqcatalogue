@@ -8,5 +8,5 @@ On Christmas Eve, ten strangers board a bus traveling across Texas and are force
 
 [TMDB](17144)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Exit%20Speed%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Exit%20Speed%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

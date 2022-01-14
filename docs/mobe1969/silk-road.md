@@ -8,5 +8,5 @@ The true story of Ross Ulbricht, the charismatic young tech-mastermind who unlea
 
 [TMDB](579051)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Silk%20Road%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Silk%20Road%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 

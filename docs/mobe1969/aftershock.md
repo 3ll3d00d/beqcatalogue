@@ -8,5 +8,5 @@ The epic story of a family separated as a result of the Great Tangshan Earthquak
 
 [TMDB](44560)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Aftershock%20%282010%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Aftershock%20%282010%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ The sailor of legend is framed by the goddess Eris for the theft of the Book of 
 
 [TMDB](14411)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sinbad%20Legend%20of%20the%20Seven%20Seas%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sinbad%20Legend%20of%20the%20Seven%20Seas%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 

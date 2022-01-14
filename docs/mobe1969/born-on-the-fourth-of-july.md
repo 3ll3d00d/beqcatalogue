@@ -8,5 +8,5 @@ The biography of Ron Kovic. Paralyzed in the Vietnam war, he becomes an anti-war
 
 [TMDB](2604)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Born%20on%20the%20Fourth%20of%20July%20%281989%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Born%20on%20the%20Fourth%20of%20July%20%281989%29%20DTS-HD%20MA%205.1.jpg)
 

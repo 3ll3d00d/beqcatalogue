@@ -8,5 +8,5 @@ February 1976. Somalian rebels hijack a school bus carrying 21 French children a
 
 [TMDB](484638)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/15%20Minutes%20of%20War%20%282019%29Fr%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/15%20Minutes%20of%20War%20%282019%29Fr%29%20DTS-HD%20MA%205.1.jpg)
 

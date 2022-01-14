@@ -8,5 +8,5 @@ The true story of the investigation of the "Zodiac Killer", a serial killer who 
 
 [TMDB](1949)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Zodiac%20%282007%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zodiac%20%282007%29%20TrueHD%205.1.jpg)
 

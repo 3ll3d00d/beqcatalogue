@@ -8,5 +8,5 @@ Guts, an immensely strong sword-for-hire, has little direction in his life, simp
 
 [TMDB](113082)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Berserk%20The%20Golden%20Age%20Arc%20I%20The%20Egg%20of%20the%20King%20%282012%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Berserk%20The%20Golden%20Age%20Arc%20I%20The%20Egg%20of%20the%20King%20%282012%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

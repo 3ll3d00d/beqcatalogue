@@ -8,5 +8,5 @@ John Garrity, his estranged wife and their young son embark on a perilous journe
 
 [TMDB](524047)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Greenland%20%282020%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Greenland%20%282020%29%20Atmos.jpg)
 

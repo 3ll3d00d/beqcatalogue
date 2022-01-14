@@ -8,5 +8,5 @@ In real life, Kwon Yoo is unemployed, but in the virtual game world he is the be
 
 [TMDB](435366)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Fabricated%20City%20%282017%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fabricated%20City%20%282017%29%28Ko%29%20TrueHD%205.1.jpg)
 

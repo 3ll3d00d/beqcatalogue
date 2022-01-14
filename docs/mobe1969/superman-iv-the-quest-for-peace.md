@@ -8,5 +8,5 @@ With global superpowers engaged in an increasingly hostile arms race, Superman l
 
 [TMDB](11411)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Superman%20IV%20The%20Quest%20for%20Peace%20%281987%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Superman%20IV%20The%20Quest%20for%20Peace%20%281987%29%20DTS-HD%20MA%205.1.jpg)
 

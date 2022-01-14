@@ -10,7 +10,7 @@ The world's most lethal odd couple, bodyguard Michael Bryce and hitman Darius Ki
 
 [TMDB](522931)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hitman%27s%20Wife%27s%20Bodyguard%20%282021%29%28TC%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hitman%27s%20Wife%27s%20Bodyguard%20%282021%29%28TC%29%20Atmos.jpg)
 
 ## DTS-HD MA 7.1
 
@@ -22,5 +22,5 @@ The world's most lethal odd couple, bodyguard Michael Bryce and hitman Darius Ki
 
 [TMDB](522931)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hitman%27s%20Wife%27s%20Bodyguard%20%282021%29%28EC%29%20DTS-HD%20MA%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hitman%27s%20Wife%27s%20Bodyguard%20%282021%29%28EC%29%20DTS-HD%20MA%207.1.jpg)
 

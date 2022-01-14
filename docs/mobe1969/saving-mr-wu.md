@@ -8,5 +8,5 @@ Mr. Wu, a Hong Kong movie star, is kidnapped in Beijing by Zhang Hua's gang. The
 
 [TMDB](362154)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Saving%20Mr.%20Wu%20%282015%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Saving%20Mr.%20Wu%20%282015%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

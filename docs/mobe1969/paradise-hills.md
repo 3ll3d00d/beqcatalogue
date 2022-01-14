@@ -8,5 +8,5 @@ A young woman is sent to Paradise Hills to be reformed, only to learn that the h
 
 [TMDB](487083)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Paradise%20Hills%20%282019%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Paradise%20Hills%20%282019%29%20DD%2B%205.1.jpg)
 

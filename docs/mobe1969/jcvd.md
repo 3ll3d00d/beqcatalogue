@@ -8,5 +8,5 @@ Between his tax problems and his legal battle with his wife for the custody of h
 
 [TMDB](13672)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/JCVD%20%282008%29%28Fr%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/JCVD%20%282008%29%28Fr%29%20TrueHD%205.1.jpg)
 

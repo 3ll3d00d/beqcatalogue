@@ -8,5 +8,5 @@ Found at a Catholic hospital filthy and ferocious, feral teenager Darlin' is whi
 
 [TMDB](529149)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Darlin%27%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Darlin%27%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

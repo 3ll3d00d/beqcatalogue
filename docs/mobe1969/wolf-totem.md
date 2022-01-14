@@ -8,5 +8,5 @@ In 1969, a young Beijing student, Chen Zhen, is sent to live among the nomadic h
 
 [TMDB](309302)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Wolf%20Totem%20%282015%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wolf%20Totem%20%282015%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

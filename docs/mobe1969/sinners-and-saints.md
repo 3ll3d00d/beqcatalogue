@@ -8,5 +8,5 @@ In lawless storm ravaged New Orleans, eleaguered Detective Sean Riley is trying 
 
 [TMDB](66193)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sinners%20and%20Saints%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sinners%20and%20Saints%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapp
 
 [TMDB](2109)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Rush%20Hour%20%281998%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rush%20Hour%20%281998%29%20DTS-HD%20MA%207.1.jpg)
 

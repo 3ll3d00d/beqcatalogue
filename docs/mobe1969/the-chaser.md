@@ -8,5 +8,5 @@ Joong-ho is a dirty detective turned pimp in financial trouble as several of his
 
 [TMDB](13855)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Chaser%20%282008%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Chaser%20%282008%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

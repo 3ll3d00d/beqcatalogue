@@ -8,5 +8,5 @@ Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father
 
 [TMDB](20526)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/TRON%20Legacy%20%282010%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/TRON%20Legacy%20%282010%29%20DTS-HD%20MA%207.1.jpg)
 

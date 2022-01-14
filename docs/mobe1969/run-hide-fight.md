@@ -8,5 +8,5 @@ A 17-year-old girl uses her wits, survival skills, and compassion to fight for h
 
 [TMDB](629017)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Run%20Hide%20Fight%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Run%20Hide%20Fight%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

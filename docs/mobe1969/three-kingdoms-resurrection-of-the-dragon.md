@@ -8,5 +8,5 @@ The aging Zhao embarks on his final and greatest campaign, a road to adventure t
 
 [TMDB](14538)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Three%20Kingdoms%20Resurrection%20of%20the%20Dragon%20%282008%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Three%20Kingdoms%20Resurrection%20of%20the%20Dragon%20%282008%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

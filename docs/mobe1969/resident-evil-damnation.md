@@ -8,5 +8,5 @@ U.S. federal agent Leon S. Kennedy sneaks into the "East Slavic Republic" to ver
 
 [TMDB](133121)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Resident%20Evil%20Damnation%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Resident%20Evil%20Damnation%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

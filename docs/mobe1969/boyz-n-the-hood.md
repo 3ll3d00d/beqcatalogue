@@ -8,5 +8,5 @@ Boyz n the Hood is the popular and successful film and social criticism from Joh
 
 [TMDB](650)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Boyz%20n%20the%20Hood%20%281991%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Boyz%20n%20the%20Hood%20%281991%29%20Atmos.jpg)
 

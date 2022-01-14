@@ -8,5 +8,5 @@ The adventures of a group of explorers who make use of a newly discovered wormho
 
 [TMDB](157336)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Interstellar%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Interstellar%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

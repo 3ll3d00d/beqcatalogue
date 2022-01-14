@@ -8,5 +8,5 @@ U.S. soldier Frank Dux has come to Hong Kong to be accepted into the Kumite, a h
 
 [TMDB](11690)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Bloodsport%20%281988%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bloodsport%20%281988%29%20DTS-HD%20MA%202.0.jpg)
 

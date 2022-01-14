@@ -8,5 +8,5 @@ Mike is an unmotivated stoner whose small-town life with his live-in girlfriend,
 
 [TMDB](261392)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/American%20Ultra%20%282015%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/American%20Ultra%20%282015%29%20DTS-X.jpg)
 

@@ -8,5 +8,5 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 
 [TMDB](551804)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Freaky%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Freaky%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

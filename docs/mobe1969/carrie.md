@@ -10,5 +10,5 @@ A reimagining of the classic horror tale about Carrie White, a shy girl outcast 
 
 [TMDB](133805)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Carrie%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Carrie%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Eight medical students on a ski trip to Norway discover that Hitler's horrors li
 
 [TMDB](14451)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dead%20Snow%20%282009%29%28No%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dead%20Snow%20%282009%29%28No%29%20DTS-HD%20MA%205.1.jpg)
 

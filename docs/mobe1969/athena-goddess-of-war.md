@@ -8,5 +8,5 @@ Sometime in the near future, the Korean peninsula attempts to reunify. The South
 
 [TMDB](97872)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Athena%20Goddess%20of%20War%20%282011%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Athena%20Goddess%20of%20War%20%282011%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ The story of six young volunteers working on a humanitarian project in the woods
 
 [TMDB](157161)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I%20Didn%27t%20Come%20Here%20to%20Die%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I%20Didn%27t%20Come%20Here%20to%20Die%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

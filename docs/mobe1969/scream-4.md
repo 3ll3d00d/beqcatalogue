@@ -8,5 +8,5 @@ Sidney Prescott, now the author of a self-help book, returns home to Woodsboro o
 
 [TMDB](41446)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Scream%204%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Scream%204%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

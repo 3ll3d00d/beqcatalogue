@@ -8,5 +8,5 @@ In St. Jude, drug dealers and corrupt cops have destroyed an urban neighborhood.
 
 [TMDB](100683)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Dragon%20Eyes%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dragon%20Eyes%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

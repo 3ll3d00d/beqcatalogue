@@ -8,5 +8,5 @@ A teenager's weekend at a lake house with her father takes a turn for the worse 
 
 [TMDB](601844)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Becky%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Becky%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

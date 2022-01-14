@@ -8,5 +8,5 @@ After years of war, the Federation and the Klingon empire find themselves on the
 
 [TMDB](174)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Star%20Trek%20VI%20The%20Undiscovered%20Country%20%281991%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Star%20Trek%20VI%20The%20Undiscovered%20Country%20%281991%29%20TrueHD%207.1.jpg)
 

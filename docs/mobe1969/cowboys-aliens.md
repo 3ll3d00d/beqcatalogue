@@ -8,5 +8,5 @@ A stranger stumbles into the desert town of Absolution with no memory of his pas
 
 [TMDB](49849)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Cowboys%20%26%20Aliens%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cowboys%20%26%20Aliens%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 

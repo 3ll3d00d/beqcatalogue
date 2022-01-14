@@ -8,5 +8,5 @@ After her lousy stepfather steals her savings to buy a vicious tiger, Kelly lose
 
 [TMDB](39957)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Burning%20Bright%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Burning%20Bright%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ When Jay and Silent Bob learn that their comic-book alter egos, Bluntman and Chr
 
 [TMDB](2294)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Jay%20and%20Silent%20Bob%20Strike%20Back%20%282001%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jay%20and%20Silent%20Bob%20Strike%20Back%20%282001%29%20LPCM%205.1.jpg)
 

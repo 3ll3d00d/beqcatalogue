@@ -8,5 +8,5 @@ The crew of a horror web series travels to an abandoned asylum for a live broadc
 
 [TMDB](508642)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Gonjiam%20Haunted%20Asylum%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gonjiam%20Haunted%20Asylum%20%282018%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

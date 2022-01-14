@@ -10,7 +10,7 @@ Major Bill Cage is an officer who has never seen a day of combat when he is unce
 
 [TMDB](137113)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Edge%20of%20Tomorrow%20%282014%29%20DD%2B%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Edge%20of%20Tomorrow%20%282014%29%20DD%2B%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -20,5 +20,5 @@ Major Bill Cage is an officer who has never seen a day of combat when he is unce
 
 [TMDB](137113)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Edge%20of%20Tomorrow%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Edge%20of%20Tomorrow%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

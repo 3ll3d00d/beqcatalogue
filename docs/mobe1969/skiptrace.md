@@ -8,5 +8,5 @@ A detective from Hong Kong teams up with an American gambler to battle against a
 
 [TMDB](270774)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Skiptrace%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Skiptrace%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

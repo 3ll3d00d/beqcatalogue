@@ -8,5 +8,5 @@ Transferred home after a traumatizing combat mission, a highly trained French so
 
 [TMDB](793723)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Sentinelle%20%282021%29%28Fr%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sentinelle%20%282021%29%28Fr%29%20DD%2B%205.1.jpg)
 

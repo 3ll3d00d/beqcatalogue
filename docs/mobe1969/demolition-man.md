@@ -8,5 +8,5 @@ Simon Phoenix, a violent criminal cryogenically frozen in 1996, escapes during a
 
 [TMDB](9739)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Demolition%20Man%20%281993%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Demolition%20Man%20%281993%29%20DTS-HD%20MA%205.1.jpg)
 

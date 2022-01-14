@@ -8,5 +8,5 @@ In the aftermath of a massive earthquake in California, a rescue-chopper pilot m
 
 [TMDB](254128)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/San%20Andreas%20%282015%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/San%20Andreas%20%282015%29%20Atmos.jpg)
 

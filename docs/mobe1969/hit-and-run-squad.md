@@ -8,5 +8,5 @@ Min-jae, a rookie police officer with a natural born talent for driving, is assi
 
 [TMDB](568320)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Hit-and-Run%20Squad%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hit-and-Run%20Squad%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

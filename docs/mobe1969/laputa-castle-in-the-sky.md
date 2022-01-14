@@ -8,7 +8,7 @@ A young boy and a girl with a magic crystal must race against pirates and foreig
 
 [TMDB](10515)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Laputa%20Castle%20in%20the%20Sky%20%281986%29%28Ja%29%20LPCM%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Laputa%20Castle%20in%20the%20Sky%20%281986%29%28Ja%29%20LPCM%202.0.jpg)
 
 ## LPCM 5.1
 
@@ -18,5 +18,5 @@ A young boy and a girl with a magic crystal must race against pirates and foreig
 
 [TMDB](10515)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Laputa%20Castle%20in%20the%20Sky%20%281986%29%20LPCM%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Laputa%20Castle%20in%20the%20Sky%20%281986%29%20LPCM%205.1.jpg)
 

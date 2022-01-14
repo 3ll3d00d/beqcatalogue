@@ -8,5 +8,5 @@ Navy SEAL Lieutenant A.K. Waters and his elite squadron of tactical specialists 
 
 [TMDB](9567)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Tears%20of%20the%20Sun%20%282003%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tears%20of%20the%20Sun%20%282003%29%20LPCM%205.1.jpg)
 

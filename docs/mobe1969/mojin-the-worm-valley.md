@@ -8,5 +8,5 @@ Legendary tomb explorer Hu Bayi is on a dangerous mission as he seeks out the To
 
 [TMDB](571446)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Mojin%20The%20Worm%20Valley%20%282018%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mojin%20The%20Worm%20Valley%20%282018%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

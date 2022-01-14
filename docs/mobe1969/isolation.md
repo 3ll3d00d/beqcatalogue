@@ -8,5 +8,5 @@ Inspired by the true events of a couple vacationing on a remote island in the Ba
 
 [TMDB](380754)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Isolation%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Isolation%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 
