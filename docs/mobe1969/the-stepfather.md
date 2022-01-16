@@ -8,5 +8,5 @@ Michael Harding returns home from military school to find his mother happily in 
 
 [TMDB](19904)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Stepfather%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Stepfather%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

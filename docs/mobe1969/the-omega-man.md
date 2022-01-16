@@ -8,5 +8,5 @@ Due to an experimental vaccine, Dr. Robert Neville is the only human survivor of
 
 [TMDB](11234)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Omega%20Man%20%281971%29%20AC3%201.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/The%20Omega%20Man%20%281971%29%20AC3%201.0.jpg)
 

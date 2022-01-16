@@ -8,7 +8,7 @@ Following the dumping of gallons of toxic waste in the river, a giant mutated sq
 
 [TMDB](1255)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Host%20%282006%29%28Ko%29%20DTS-HD%20HR%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Host%20%282006%29%28Ko%29%20DTS-HD%20HR%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ Following the dumping of gallons of toxic waste in the river, a giant mutated sq
 
 [TMDB](1255)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Host%20%282006%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Host%20%282006%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

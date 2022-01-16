@@ -8,7 +8,7 @@ The third installment of the blockbuster fantasy series sees the return of the M
 
 [TMDB](437543)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Monkey%20King%203%20%282018%29%28Ca%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Monkey%20King%203%20%282018%29%28Ca%29%20Atmos.jpg)
 
 ## TrueHD 7.1
 
@@ -18,5 +18,5 @@ The third installment of the blockbuster fantasy series sees the return of the M
 
 [TMDB](437543)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Monkey%20King%203%20%282018%29%28Ma%29%20TrueHD%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Monkey%20King%203%20%282018%29%28Ma%29%20TrueHD%207.1.jpg)
 

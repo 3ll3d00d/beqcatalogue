@@ -10,5 +10,5 @@ Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the othe
 
 [TMDB](122)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%20%282003%29%28TC%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%20%282003%29%28TC%29%20Atmos.jpg)
 

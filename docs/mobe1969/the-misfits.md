@@ -8,5 +8,5 @@ After being recruited by a group of unconventional thieves, renowned criminal Ri
 
 [TMDB](581644)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Misfits%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Misfits%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ The film centers around a Malaysian pharmaceutical company using a new virus to 
 
 [TMDB](526841)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Leakers%20%282018%29%28Ca%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Leakers%20%282018%29%28Ca%29%20TrueHD%205.1.jpg)
 

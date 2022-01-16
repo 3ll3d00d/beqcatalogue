@@ -8,5 +8,5 @@ In order to avoid a jail sentence, Sean Boswell heads to Tokyo to live with his 
 
 [TMDB](9615)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Fast%20and%20the%20Furious%20Tokyo%20Drift%20%282006%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/The%20Fast%20and%20the%20Furious%20Tokyo%20Drift%20%282006%29%20DTS-X.jpg)
 

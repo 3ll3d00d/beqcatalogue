@@ -10,5 +10,5 @@ Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bi
 
 [TMDB](120)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Lord%20of%20the%20Rings%20The%20Fellowship%20of%20the%20Ring%20%282001%29%28TC%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Lord%20of%20the%20Rings%20The%20Fellowship%20of%20the%20Ring%20%282001%29%28TC%29%20Atmos.jpg)
 

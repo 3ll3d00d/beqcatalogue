@@ -10,7 +10,7 @@ A civilian oil rig crew is recruited to conduct a search and rescue effort when 
 
 [TMDB](2756)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Abyss%20%281989%29%28DC%29%20DD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/The%20Abyss%20%281989%29%28DC%29%20DD%205.1.jpg)
 
 ## DD 5.1
 
@@ -22,5 +22,5 @@ A civilian oil rig crew is recruited to conduct a search and rescue effort when 
 
 [TMDB](2756)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Abyss%20%281989%29%28TC%29%20DD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/The%20Abyss%20%281989%29%28TC%29%20DD%205.1.jpg)
 

@@ -8,5 +8,5 @@ The heroic tale of young Mathayus and his relentless quest for justice against a
 
 [TMDB](13486)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Scorpion%20King%202%20Rise%20of%20a%20Warrior%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Scorpion%20King%202%20Rise%20of%20a%20Warrior%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

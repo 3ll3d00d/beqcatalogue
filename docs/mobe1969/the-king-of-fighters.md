@@ -8,5 +8,5 @@ The King of Fighters movie will introduce a new science fiction spin into the se
 
 [TMDB](44571)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20King%20of%20Fighters%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/The%20King%20of%20Fighters%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

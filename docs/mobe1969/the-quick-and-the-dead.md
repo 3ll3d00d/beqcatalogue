@@ -8,5 +8,5 @@ A mysterious woman comes to compete in a quick-draw elimination tournament, in a
 
 [TMDB](12106)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Quick%20and%20the%20Dead%20%281995%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Q/The%20Quick%20and%20the%20Dead%20%281995%29%20Atmos.jpg)
 

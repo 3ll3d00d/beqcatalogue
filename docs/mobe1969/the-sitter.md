@@ -8,7 +8,7 @@ Noah, is not your typical entertain-the-kids-no-matter-how-boring-it-is kind of 
 
 [TMDB](57431)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Sitter%20%282011%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Sitter%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -20,5 +20,5 @@ Noah, is not your typical entertain-the-kids-no-matter-how-boring-it-is kind of 
 
 [TMDB](57431)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Sitter%20%282011%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Sitter%20%282011%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)
 

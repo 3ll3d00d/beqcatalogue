@@ -8,5 +8,5 @@ When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, 
 
 [TMDB](41513)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Smurfs%20%282011%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Smurfs%20%282011%29%20Atmos.jpg)
 

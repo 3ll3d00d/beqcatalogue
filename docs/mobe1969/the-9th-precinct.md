@@ -8,5 +8,5 @@ An idealistic cop joins an underground police unit and battles ghoulish forces t
 
 [TMDB](615137)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%209th%20Precinct%20%282019%29%28Ma%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/The%209th%20Precinct%20%282019%29%28Ma%29%20DD%2B%205.1.jpg)
 

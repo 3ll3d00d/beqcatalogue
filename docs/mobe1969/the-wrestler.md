@@ -8,5 +8,5 @@ Aging wrestler Randy "The Ram" Robinson is long past his prime but still ready a
 
 [TMDB](12163)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Wrestler%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Wrestler%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

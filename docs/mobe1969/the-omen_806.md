@@ -8,5 +8,5 @@ A diplomatic couple adopts the son of the devil without knowing it. A remake of 
 
 [TMDB](806)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Omen%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/The%20Omen%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ The conclusion to The Prophecy Trilogy. Once again, Christopher Walken returns a
 
 [TMDB](9011)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Prophecy%203%20The%20Ascent%20%282000%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Prophecy%203%20The%20Ascent%20%282000%29%20DTS-HD%20MA%205.1.jpg)
 

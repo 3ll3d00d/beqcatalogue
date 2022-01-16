@@ -8,5 +8,5 @@ Based on the true story of a pilot who had to ensure the safety of 128 passenger
 
 [TMDB](589712)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Captain%20%282019%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Captain%20%282019%29%28Ma%29%20TrueHD%205.1.jpg)
 

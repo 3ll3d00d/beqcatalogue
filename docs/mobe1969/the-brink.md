@@ -8,5 +8,5 @@ Reckless police inspector Sai Gau (Zhang Jin) is on a mission to crack down on c
 
 [TMDB](458257)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Brink%20%282017%29%28Ca%29%20TrueHD%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Brink%20%282017%29%28Ca%29%20TrueHD%207.1.jpg)
 

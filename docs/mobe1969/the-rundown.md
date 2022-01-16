@@ -8,5 +8,5 @@ When Travis, the mouthy son of a criminal, disappears in the Amazon in search of
 
 [TMDB](10159)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Rundown%20%282003%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Rundown%20%282003%29%20DTS-HD%20MA%205.1.jpg)
 

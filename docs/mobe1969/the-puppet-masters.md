@@ -4,9 +4,9 @@
 
 **1994 • R • 1h 49m • Science Fiction, Thriller, Horror • mobe1969**
 
-The Earth is invaded by alien parasitesâ€”aka 'slugs'â€”that ride on people's backs and control their minds
+The Earth is invaded by alien parasitesÃ¢â‚¬â€aka 'slugs'Ã¢â‚¬â€that ride on people's backs and control their minds
 
 [TMDB](25557)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Puppet%20Masters%20%281994%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Puppet%20Masters%20%281994%29%20DTS-HD%20MA%205.1.jpg)
 

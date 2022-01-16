@@ -8,5 +8,5 @@ In October 1991, a confluence of weather conditions combined to form a killer st
 
 [TMDB](2133)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Perfect%20Storm%20%282000%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Perfect%20Storm%20%282000%29%20TrueHD%205.1.jpg)
 

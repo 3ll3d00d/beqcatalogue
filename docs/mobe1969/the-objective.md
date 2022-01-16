@@ -8,5 +8,5 @@ A team of US Special Ops forces is dispatched to a remote mountain region of Afg
 
 [TMDB](14878)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Objective%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/The%20Objective%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Paranormal investigators Ed and Lorraine Warren encounter what would become one 
 
 [TMDB](423108)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Conjuring%20The%20Devil%20Made%20Me%20Do%20It%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Conjuring%20The%20Devil%20Made%20Me%20Do%20It%20%282021%29%20Atmos.jpg)
 

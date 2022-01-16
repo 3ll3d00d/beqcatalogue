@@ -8,5 +8,5 @@ In Stockholm, Sweden, hacker Lisbeth Salander is hired by Frans Balder, a comput
 
 [TMDB](446807)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Girl%20in%20the%20Spider%27s%20Web%20%282018%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/The%20Girl%20in%20the%20Spider%27s%20Web%20%282018%29%20Atmos.jpg)
 

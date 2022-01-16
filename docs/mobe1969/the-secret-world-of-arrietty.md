@@ -8,7 +8,7 @@
 
 [TMDB](51739)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Secret%20World%20of%20Arrietty%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Secret%20World%20of%20Arrietty%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@
 
 [TMDB](51739)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Secret%20World%20of%20Arrietty%20%282010%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Secret%20World%20of%20Arrietty%20%282010%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

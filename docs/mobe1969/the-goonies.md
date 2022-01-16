@@ -8,5 +8,5 @@ A young teenager named Mikey Walsh finds an old treasure map in his father's att
 
 [TMDB](9340)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Goonies%20%281985%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/The%20Goonies%20%281985%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ A mother and her two teenage sons move to a seemingly nice and quiet small coast
 
 [TMDB](1547)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Lost%20Boys%20%281987%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Lost%20Boys%20%281987%29%20TrueHD%205.1.jpg)
 

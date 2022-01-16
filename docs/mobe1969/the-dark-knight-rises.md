@@ -8,5 +8,5 @@ Following the death of District Attorney Harvey Dent, Batman assumes responsibil
 
 [TMDB](49026)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Dark%20Knight%20Rises%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Dark%20Knight%20Rises%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

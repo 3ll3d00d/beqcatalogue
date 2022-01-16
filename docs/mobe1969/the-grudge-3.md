@@ -8,5 +8,5 @@ Jake Kimble, the sole survivor of the Chicago massacre, is killed while in solit
 
 [TMDB](1977)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Grudge%203%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/The%20Grudge%203%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

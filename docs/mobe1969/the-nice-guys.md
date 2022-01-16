@@ -8,5 +8,5 @@ A private eye investigates the apparent suicide of a fading porn star in 1970s L
 
 [TMDB](290250)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Nice%20Guys%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/The%20Nice%20Guys%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

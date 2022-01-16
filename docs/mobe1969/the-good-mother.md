@@ -8,5 +8,5 @@ After finding a sexually liberated boyfriend, a divorced woman gets sued over da
 
 [TMDB](104301)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Good%20Mother%20%281988%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/The%20Good%20Mother%20%281988%29%20DTS-HD%20MA%202.0.jpg)
 

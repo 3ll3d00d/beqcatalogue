@@ -8,5 +8,5 @@ The Dalton gang escape to a nearby town after a train robbery goes south, but th
 
 [TMDB](610201)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Pale%20Door%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Pale%20Door%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

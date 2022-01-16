@@ -4,9 +4,9 @@
 
 **2020 • 15 • 1h 41m • Korean • Action • mobe1969**
 
-After being blinded in a coup against the king, Joseonâ€™s greatest swordsman (Jang Hyuk) goes into hiding, far removed from his cityâ€™s anguish. But when traffickers kidnap his daughter, he has no choice but to unsheathe his sword once more.
+After being blinded in a coup against the king, JoseonÃ¢â‚¬â„¢s greatest swordsman (Jang Hyuk) goes into hiding, far removed from his cityÃ¢â‚¬â„¢s anguish. But when traffickers kidnap his daughter, he has no choice but to unsheathe his sword once more.
 
 [TMDB](492008)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Swordsman%20%282020%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Swordsman%20%282020%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

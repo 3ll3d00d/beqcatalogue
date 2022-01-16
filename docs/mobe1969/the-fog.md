@@ -8,5 +8,5 @@ Strange things begin to occurs as a tiny California coastal town prepares to com
 
 [TMDB](790)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Fog%20%281980%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/The%20Fog%20%281980%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Gabriel returns to try to destroy the human race he despises so much, with the h
 
 [TMDB](9033)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Prophecy%20II%20%281998%29%20DTS-HD%20MA%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Prophecy%20II%20%281998%29%20DTS-HD%20MA%202.0.jpg)
 

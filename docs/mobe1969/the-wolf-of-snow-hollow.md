@@ -8,5 +8,5 @@ A stressed-out police officer struggles not to give in to the paranoia that grip
 
 [TMDB](652004)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Wolf%20of%20Snow%20Hollow%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Wolf%20of%20Snow%20Hollow%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

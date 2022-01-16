@@ -8,5 +8,5 @@ Every few hundred years, the most powerful demon on earth, a snake demon, awaken
 
 [TMDB](757860)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Yin-Yang%20Master%20Dream%20of%20Eternity%20%282020%29%28Ma%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Y/The%20Yin-Yang%20Master%20Dream%20of%20Eternity%20%282020%29%28Ma%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ A female assassin during the Tang Dynasty begins to question her loyalties when 
 
 [TMDB](253450)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Assassin%20%282015%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/The%20Assassin%20%282015%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

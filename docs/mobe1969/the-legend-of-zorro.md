@@ -8,5 +8,5 @@ Having spent the last 10 years fighting injustice and cruelty, Alejandro de la V
 
 [TMDB](1656)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Legend%20of%20Zorro%20%282005%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Legend%20of%20Zorro%20%282005%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@ An espionage thriller set in the 1950s and adapted from the novel "Year Suan/Plo
 
 [TMDB](129070)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Silent%20War%20%282012%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Silent%20War%20%282012%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
 

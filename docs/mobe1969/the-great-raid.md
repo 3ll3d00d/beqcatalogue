@@ -8,5 +8,5 @@ As World War II rages, the elite Sixth Ranger Battalion is given a mission of he
 
 [TMDB](13922)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Great%20Raid%20%282005%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/The%20Great%20Raid%20%282005%29%20LPCM%205.1.jpg)
 

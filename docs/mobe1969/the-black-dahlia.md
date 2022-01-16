@@ -8,5 +8,5 @@ Lee Blanchard and Bucky Bleichert are former boxers-turned-cops in 1940s Los Ang
 
 [TMDB](9676)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Black%20Dahlia%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Black%20Dahlia%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 

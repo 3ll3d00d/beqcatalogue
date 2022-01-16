@@ -8,5 +8,5 @@ When police is about to apprehend a famous gang of bank robbers, an elite sniper
 
 [TMDB](122192)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Lookout%20%282012%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Lookout%20%282012%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
 

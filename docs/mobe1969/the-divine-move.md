@@ -8,5 +8,5 @@ Professional baduk (go) player Tae-seok loses a high-stakes game to infamous und
 
 [TMDB](281298)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Divine%20Move%20%282014%29%28Ko%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Divine%20Move%20%282014%29%28Ko%29%20AC3%205.1.jpg)
 

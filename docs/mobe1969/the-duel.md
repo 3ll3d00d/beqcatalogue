@@ -8,5 +8,5 @@ A Texas Ranger investigates a series of unexplained deaths in a town called Hele
 
 [TMDB](333386)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Duel%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Duel%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Reunited in their hometown for their father's funeral, two self-interested broth
 
 [TMDB](485442)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Bros%20%282018%29%28Ko%29%20%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Bros%20%282018%29%28Ko%29%20%20DD%2B%205.1.jpg)
 

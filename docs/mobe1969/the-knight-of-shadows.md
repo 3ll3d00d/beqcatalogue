@@ -8,5 +8,5 @@ Pu Songling (Jackie Chan), a legendary demon hunter, is asked to investigate the
 
 [TMDB](512901)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Knight%20of%20Shadows%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/The%20Knight%20of%20Shadows%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,7 +8,7 @@ A police brigade working in the dangerous northern neighborhoods of Marseille, w
 
 [TMDB](637534)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Stronghold%20%282021%29%28Fr%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Stronghold%20%282021%29%28Fr%29%20DD%2B%205.1.jpg)
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Stronghold%20%282021%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
 

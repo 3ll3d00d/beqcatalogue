@@ -8,5 +8,5 @@ King Charles VI declares that Knight Jean de Carrouges settle his dispute with h
 
 [TMDB](617653)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Last%20Duel%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Last%20Duel%20%282021%29%20Atmos.jpg)
 

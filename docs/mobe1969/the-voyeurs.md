@@ -8,5 +8,5 @@ A young couple, find themselves becoming interested in the sex life of their nei
 
 [TMDB](645710)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Voyeurs%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/The%20Voyeurs%20%282021%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ After suffering a personal tragedy, and desperate for justice, Jacob Kanon, a ve
 
 [TMDB](449756)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Postcard%20Killings%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Postcard%20Killings%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

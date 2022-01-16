@@ -8,5 +8,5 @@ A Korean man in China takes an assassination job in South Korea to make money an
 
 [TMDB](57361)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Yellow%20Sea%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Y/The%20Yellow%20Sea%20%282010%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ Ghang-gheng, the ancient winner-take-all competition in which the deadliest figh
 
 [TMDB](9103)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Quest%20%281996%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Q/The%20Quest%20%281996%29%20DTS-HD%20MA%205.1.jpg)
 

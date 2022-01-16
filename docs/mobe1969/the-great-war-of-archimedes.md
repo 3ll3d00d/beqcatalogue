@@ -8,5 +8,5 @@ It is the early 1930s and the command of the Japanese Imperial Navy determines t
 
 [TMDB](605389)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Great%20War%20of%20Archimedes%20%282019%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/The%20Great%20War%20of%20Archimedes%20%282019%29%28Ja%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,5 +8,5 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 
 [TMDB](527261)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Silence%20%282019%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Silence%20%282019%29%20DD%2B%205.1.jpg)
 

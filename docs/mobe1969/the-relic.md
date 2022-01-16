@@ -8,5 +8,5 @@ A homicide detective teams up with an evolutionary biologist to hunt a giant cre
 
 [TMDB](11015)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Relic%20%281997%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Relic%20%281997%29%20DTS-HD%20MA%207.1.jpg)
 

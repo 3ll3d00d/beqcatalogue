@@ -8,5 +8,5 @@ Former CIA Operative, James Dial is coaxed back into action to kill a terrorist 
 
 [TMDB](15071)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Contractor%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Contractor%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

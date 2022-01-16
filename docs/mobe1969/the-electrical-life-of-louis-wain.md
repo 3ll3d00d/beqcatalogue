@@ -8,5 +8,5 @@ The extraordinary true story of eccentric British artist Louis Wain, whose playf
 
 [TMDB](617762)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Electrical%20Life%20of%20Louis%20Wain%20%282021%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/The%20Electrical%20Life%20of%20Louis%20Wain%20%282021%29%20DD%2B%205.1.jpg)
 

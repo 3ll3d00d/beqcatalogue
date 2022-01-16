@@ -10,5 +10,5 @@ Safe for Cantonese dub also
 
 [TMDB](381890)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Mermaid%20%282016%29%28Ma%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Mermaid%20%282016%29%28Ma%29%20TrueHD%205.1.jpg)
 

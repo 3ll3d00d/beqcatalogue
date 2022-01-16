@@ -10,5 +10,5 @@ Lawrence Talbot, an American man on a visit to Victorian London to make amends w
 
 [TMDB](7978)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Wolfman%20%282010%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Wolfman%20%282010%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
 

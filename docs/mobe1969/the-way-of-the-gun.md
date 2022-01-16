@@ -8,5 +8,5 @@ Two criminal drifters without sympathy get more than they bargained for after ki
 
 [TMDB](1619)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Way%20of%20the%20Gun%20%282000%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Way%20of%20the%20Gun%20%282000%29%20DTS-HD%20MA%207.1.jpg)
 

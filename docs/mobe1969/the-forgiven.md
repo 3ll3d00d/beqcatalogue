@@ -8,5 +8,5 @@ After the end of Apartheid, Archbishop Desmond Tutu meets with a brutal murderer
 
 [TMDB](450766)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Forgiven%20%282018%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/The%20Forgiven%20%282018%29%20DD%2B%205.1.jpg)
 

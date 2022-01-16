@@ -8,5 +8,5 @@ In a world where human beings and puppets live together, when the members of the
 
 [TMDB](412988)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Happytime%20Murders%20%282018%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Happytime%20Murders%20%282018%29%20DTS-HD%20MA%207.1.jpg)
 

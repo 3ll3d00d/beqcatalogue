@@ -8,5 +8,5 @@ When the president of Russia suddenly dies, a man whose politics are virtually u
 
 [TMDB](4614)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Sum%20of%20All%20Fears%20%282002%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Sum%20of%20All%20Fears%20%282002%29%20TrueHD%205.1.jpg)
 

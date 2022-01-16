@@ -4,9 +4,9 @@
 
 **1999 • R • 1h 58m • Mystery, Thriller, Drama, Crime • mobe1969**
 
-Rookie cop, Amelia Donaghy reluctantly teams with Lincoln Rhyme â€“ formerly the department's top homicide detective but now paralyzed as a result of a spinal injury â€“ to catch a grisly serial killer dubbed 'The Bone Collector'. The murderer's special signature is to leave tantalizing clues based on the grim remains of his crimes.
+Rookie cop, Amelia Donaghy reluctantly teams with Lincoln Rhyme Ã¢â‚¬â€œ formerly the department's top homicide detective but now paralyzed as a result of a spinal injury Ã¢â‚¬â€œ to catch a grisly serial killer dubbed 'The Bone Collector'. The murderer's special signature is to leave tantalizing clues based on the grim remains of his crimes.
 
 [TMDB](9481)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Bone%20Collector%20%281999%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Bone%20Collector%20%281999%29%20TrueHD%205.1.jpg)
 

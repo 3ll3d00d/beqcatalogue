@@ -8,5 +8,5 @@ Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Gam
 
 [TMDB](101299)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hunger%20Games%20Catching%20Fire%20%282013%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Hunger%20Games%20Catching%20Fire%20%282013%29%20Atmos.jpg)
 

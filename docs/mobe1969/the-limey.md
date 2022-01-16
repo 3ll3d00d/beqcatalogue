@@ -8,5 +8,5 @@ The Limey follows Wilson, a tough English ex-con who travels to Los Angeles to a
 
 [TMDB](10388)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Limey%20%281999%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Limey%20%281999%29%20DTS-HD%20MA%205.1.jpg)
 

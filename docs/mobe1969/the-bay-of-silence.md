@@ -8,5 +8,5 @@ Will believes his wife Rosalind is innocent of their son's suspected murder, onl
 
 [TMDB](623958)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Bay%20of%20Silence%20%282020%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Bay%20of%20Silence%20%282020%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ The Scorpion King teams up with a female warrior named Tala, who is the sister o
 
 [TMDB](522417)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Scorpion%20King%20Book%20of%20Souls%20%282018%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Scorpion%20King%20Book%20of%20Souls%20%282018%29%20DTS-HD%20MA%205.1.jpg)
 

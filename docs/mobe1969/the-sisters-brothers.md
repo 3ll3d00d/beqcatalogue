@@ -8,5 +8,5 @@ Oregon, 1851. Hermann Kermit Warm, a chemist and aspiring gold prospector, keeps
 
 [TMDB](440161)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Sisters%20Brothers%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Sisters%20Brothers%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

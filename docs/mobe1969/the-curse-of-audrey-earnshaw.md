@@ -8,5 +8,5 @@ A devout community suffering from a plague is torn apart by a beautiful young wo
 
 [TMDB](688343)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Curse%20of%20Audrey%20Earnshaw%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Curse%20of%20Audrey%20Earnshaw%20%282020%29%20DTS-HD%20MA%205.1.jpg)
 

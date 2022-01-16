@@ -8,5 +8,5 @@ When a group of close-knit friends assemble for the marriage of Skylar and Dan, 
 
 [TMDB](280002)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Remaining%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Remaining%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

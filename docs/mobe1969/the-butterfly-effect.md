@@ -8,5 +8,5 @@ A young man struggles to access sublimated childhood memories. He finds a techni
 
 [TMDB](1954)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Butterfly%20Effect%20%282004%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Butterfly%20Effect%20%282004%29%20DTS-HD%20MA%205.1.jpg)
 

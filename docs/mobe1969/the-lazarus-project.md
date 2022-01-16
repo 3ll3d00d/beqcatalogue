@@ -8,5 +8,5 @@ After Ben Garvey foolishly turned back to crime, he thought his life was over wh
 
 [TMDB](13825)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Lazarus%20Project%20%282008%29%20DTS-HD%20HR%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Lazarus%20Project%20%282008%29%20DTS-HD%20HR%205.1.jpg)
 

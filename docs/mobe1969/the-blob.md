@@ -8,5 +8,5 @@ Remake of the 1958 horror sci-fi about a deadly blob which is the spawn of a sec
 
 [TMDB](9599)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Blob%20%281988%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Blob%20%281988%29%20DTS-HD%20MA%205.1.jpg)
 

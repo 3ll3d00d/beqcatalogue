@@ -9,5 +9,5 @@ Doug Harris is a loveable but socially awkward groom-to-be with a problem: he ha
 
 [TMDB](252838)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Wedding%20Ringer%20%282015%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Wedding%20Ringer%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 

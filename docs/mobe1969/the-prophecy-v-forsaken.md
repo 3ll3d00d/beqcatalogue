@@ -8,5 +8,5 @@ In Bucharest, Allison is protecting the mysterious bible, "The Prophet Lexicon",
 
 [TMDB](37529)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Prophecy%20Forsaken%20%282005%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Prophecy%20Forsaken%20%282005%29%20DTS-HD%20MA%205.1.jpg)
 

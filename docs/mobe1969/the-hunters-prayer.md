@@ -8,5 +8,5 @@ An assassin forges an unlikely partnership with one of his targets: a woman seek
 
 [TMDB](302150)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hunter%27s%20Prayer%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Hunter%27s%20Prayer%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

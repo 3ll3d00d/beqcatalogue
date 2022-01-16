@@ -8,5 +8,5 @@ A private detective is hired to find a missing stripper but the job turns compli
 
 [TMDB](54271)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Big%20Bang%20%282010%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Big%20Bang%20%282010%29%20TrueHD%205.1.jpg)
 

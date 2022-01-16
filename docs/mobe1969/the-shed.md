@@ -8,5 +8,5 @@ The story of Stan, an orphaned teenager stuck living with his abusive grandfathe
 
 [TMDB](551994)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Shed%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Shed%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

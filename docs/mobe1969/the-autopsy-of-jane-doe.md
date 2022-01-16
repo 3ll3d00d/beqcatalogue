@@ -8,5 +8,5 @@ Father and son coroners receive a mysterious unidentified corpse with no apparen
 
 [TMDB](397243)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Autopsy%20of%20Jane%20Doe%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/The%20Autopsy%20of%20Jane%20Doe%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

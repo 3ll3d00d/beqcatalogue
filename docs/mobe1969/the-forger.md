@@ -8,5 +8,5 @@ A former child art prodigy and second generation petty thief arranges to buy his
 
 [TMDB](255157)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Forger%20%282014%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/The%20Forger%20%282014%29%20DTS-HD%20MA%205.1.jpg)
 

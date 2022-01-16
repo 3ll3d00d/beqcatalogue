@@ -8,5 +8,5 @@ Angela Bennett is a freelance software engineer who lives in a world of computer
 
 [TMDB](1642)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Net%20%281995%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/The%20Net%20%281995%29%20DTS-HD%20MA%205.1.jpg)
 

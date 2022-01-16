@@ -8,5 +8,5 @@ An operation in Thailand against a notorious drug lord changes the destiny of a 
 
 [TMDB](233112)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20White%20Storm%20%282013%29%28Ca%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20White%20Storm%20%282013%29%28Ca%29%20DTS-HD%20MA%207.1.jpg)
 

@@ -8,5 +8,5 @@ Five college friends spend the weekend at a remote cabin in the woods, where the
 
 [TMDB](22970)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Cabin%20in%20the%20Woods%20%282012%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Cabin%20in%20the%20Woods%20%282012%29%20Atmos.jpg)
 

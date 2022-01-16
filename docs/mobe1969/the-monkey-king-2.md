@@ -8,7 +8,7 @@ Taking place 500 years after the Havoc in Heaven, the Tang Priest is appointed b
 
 [TMDB](381902)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Monkey%20King%202%20%282016%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Monkey%20King%202%20%282016%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
 
 ## DTS-X
 
@@ -18,5 +18,5 @@ Taking place 500 years after the Havoc in Heaven, the Tang Priest is appointed b
 
 [TMDB](381902)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Monkey%20King%202%20%282016%29%28Ca%29%20DTS-X.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Monkey%20King%202%20%282016%29%28Ca%29%20DTS-X.jpg)
 

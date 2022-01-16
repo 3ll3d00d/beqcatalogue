@@ -8,5 +8,5 @@ Two years after choosing not to kill the man who killed his son, former police s
 
 [TMDB](316727)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Purge%20Election%20Year%20%282016%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Purge%20Election%20Year%20%282016%29%20DTS-X.jpg)
 

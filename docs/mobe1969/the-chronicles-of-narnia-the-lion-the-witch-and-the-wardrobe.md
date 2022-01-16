@@ -8,5 +8,5 @@ Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find 
 
 [TMDB](411)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Chronicles%20of%20Narnia%20The%20Lion%2C%20The%20Witch%20and%20the%20Wardrobe%20%282008%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Chronicles%20of%20Narnia%20The%20Lion%2C%20The%20Witch%20and%20the%20Wardrobe%20%282008%29%20LPCM%205.1.jpg)
 

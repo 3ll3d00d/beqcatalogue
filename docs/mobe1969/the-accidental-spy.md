@@ -8,5 +8,5 @@ A fun-filled story about an ordinary guy about to kick into an action-packed adv
 
 [TMDB](11847)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Accidental%20Spy%20%282001%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/The%20Accidental%20Spy%20%282001%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

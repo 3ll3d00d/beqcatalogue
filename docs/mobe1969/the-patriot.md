@@ -8,5 +8,5 @@ A deadly virus threatens to wipe out an entire Rocky Mountain town, leaving the 
 
 [TMDB](6058)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Patriot%20%281998%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Patriot%20%281998%29%20DD%2B%205.1.jpg)
 

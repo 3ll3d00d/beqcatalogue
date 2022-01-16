@@ -10,5 +10,5 @@ Uptight and straight-laced, FBI Special Agent Sarah Ashburn is a methodical inve
 
 [TMDB](136795)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Heat%20%282013%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Heat%20%282013%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)
 

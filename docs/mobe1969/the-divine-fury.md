@@ -14,5 +14,5 @@ After waking up with mysterious wounds on his hands, a champion fighter finds hi
 
 [TMDB](571627)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Divine%20Fury%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Divine%20Fury%20%282019%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

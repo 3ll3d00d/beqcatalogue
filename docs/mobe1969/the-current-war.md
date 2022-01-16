@@ -10,5 +10,5 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
 
 [TMDB](418879)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Current%20War%20%282017%29%28Director%27s%20Cut%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Current%20War%20%282017%29%28Director%27s%20Cut%29%20DTS-HD%20MA%205.1.jpg)
 

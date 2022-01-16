@@ -8,5 +8,5 @@ Bangkok, November 2008. Six young holidaymakers from Hong Kong are stranded in B
 
 [TMDB](51322)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Child%27s%20Eye%20%282010%29%28Ca%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Child%27s%20Eye%20%282010%29%28Ca%29%20DTS-HD%20MA%207.1.jpg)
 

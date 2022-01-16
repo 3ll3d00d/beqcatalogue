@@ -8,5 +8,5 @@ Mulder and Scully, now taken off the FBI's X Files cases, must find a way to fig
 
 [TMDB](846)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20X%20Files%20%281998%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X/The%20X%20Files%20%281998%29%20DTS-HD%20MA%205.1.jpg)
 

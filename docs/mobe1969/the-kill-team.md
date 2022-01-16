@@ -4,9 +4,9 @@
 
 **2019 • R • 1h 27m • Action, Drama, Thriller • mobe1969**
 
-When Andrew Briggmanâ€”a young soldier in the US invasion of Afghanistanâ€”witnesses other recruits killing innocent civilians under the direction of a sadistic Sergeant, he considers reporting them to higher-ups. However, the heavily-armed and increasingly-violent platoon becomes suspicious that someone in their ranks has turned on them, and Andrew begins to fear that he'll be the next target.
+When Andrew BriggmanÃ¢â‚¬â€a young soldier in the US invasion of AfghanistanÃ¢â‚¬â€witnesses other recruits killing innocent civilians under the direction of a sadistic Sergeant, he considers reporting them to higher-ups. However, the heavily-armed and increasingly-violent platoon becomes suspicious that someone in their ranks has turned on them, and Andrew begins to fear that he'll be the next target.
 
 [TMDB](489245)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Kill%20Team%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/The%20Kill%20Team%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

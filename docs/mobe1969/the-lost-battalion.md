@@ -8,5 +8,5 @@ Fact-based war drama about an American battalion of over 500 men which gets trap
 
 [TMDB](35583)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Lost%20Battalion%20%282001%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Lost%20Battalion%20%282001%29%20DTS-HD%20MA%205.1.jpg)
 

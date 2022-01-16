@@ -8,5 +8,5 @@ When a group of college students finds a mysterious book and recording in the ol
 
 [TMDB](764)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Evil%20Dead%20%281981%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/The%20Evil%20Dead%20%281981%29%20TrueHD%205.1.jpg)
 

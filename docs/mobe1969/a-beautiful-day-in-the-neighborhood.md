@@ -1,6 +1,6 @@
 # A Beautiful Day in the Neighborhood
 
-## DTS-HD MA 5.1
+## DTS-X
 
 **2019 • PG • 1h 49m • Drama • mobe1969**
 

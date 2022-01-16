@@ -8,5 +8,5 @@ Jake Blues, just released from prison, puts his old band back togther to save th
 
 [TMDB](525)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Blues%20Brothers%20%281980%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Blues%20Brothers%20%281980%29%20DTS-X.jpg)
 

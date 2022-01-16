@@ -8,5 +8,5 @@ Samantha Caine, suburban homemaker, is the ideal mom to her 8 year old daughter 
 
 [TMDB](11412)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Long%20Kiss%20Goodnight%20%281996%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Long%20Kiss%20Goodnight%20%281996%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -8,7 +8,7 @@ After a remote diamond mine collapses in far northern Canada, an ice road driver
 
 [TMDB](646207)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Ice%20Road%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Ice%20Road%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 
 ## TrueHD 5.1
 
@@ -18,5 +18,5 @@ After a remote diamond mine collapses in far northern Canada, an ice road driver
 
 [TMDB](646207)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Ice%20Road%20%282021%29%20TrueHD%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Ice%20Road%20%282021%29%20TrueHD%205.1.jpg)
 

@@ -8,5 +8,5 @@
 
 [TMDB](299687)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%205th%20Wave%20%282016%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/The%205th%20Wave%20%282016%29%20Atmos.jpg)
 

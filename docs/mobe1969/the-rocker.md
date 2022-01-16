@@ -8,5 +8,5 @@ In the 1980s, a drummer is abandoned by his band just before they become rock su
 
 [TMDB](10186)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Rocker%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Rocker%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 

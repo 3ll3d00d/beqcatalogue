@@ -8,7 +8,7 @@ A bunch of crooked cops raid a ruined building located in an impoverished suburb
 
 [TMDB](37905)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Horde%20%282009%29%28Fr%29%20DTS%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Horde%20%282009%29%28Fr%29%20DTS%205.1.jpg)
 
 ## DTS-HD MA 5.1
 
@@ -18,5 +18,5 @@ A bunch of crooked cops raid a ruined building located in an impoverished suburb
 
 [TMDB](37905)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Horde%20%282009%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Horde%20%282009%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
 

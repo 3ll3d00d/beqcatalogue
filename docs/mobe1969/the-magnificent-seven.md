@@ -8,5 +8,5 @@ Looking to mine for gold, greedy industrialist Bartholomew Bogue seizes control 
 
 [TMDB](333484)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Magnificent%20Seven%20%282016%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Magnificent%20Seven%20%282016%29%20Atmos.jpg)
 

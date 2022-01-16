@@ -10,5 +10,5 @@ Based on Wes Craven's 1977 suspenseful cult classic, The Hills Have Eyes is the 
 
 [TMDB](9792)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hills%20Have%20Eyes%20%282006%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Hills%20Have%20Eyes%20%282006%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
 

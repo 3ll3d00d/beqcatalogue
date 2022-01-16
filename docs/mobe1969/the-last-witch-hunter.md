@@ -8,5 +8,5 @@ The modern world holds many secrets, but by far the most astounding is that witc
 
 [TMDB](274854)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Last%20Witch%20Hunter%20%282015%29%20DTS-X.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Last%20Witch%20Hunter%20%282015%29%20DTS-X.jpg)
 

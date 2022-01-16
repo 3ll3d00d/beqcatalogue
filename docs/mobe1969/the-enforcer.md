@@ -8,5 +8,5 @@ Dirty Harry Callahan returns again, this time saddled with a rookie female partn
 
 [TMDB](10649)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Enforcer%20%281976%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/The%20Enforcer%20%281976%29%20TrueHD%205.1.jpg)
 

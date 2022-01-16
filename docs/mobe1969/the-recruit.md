@@ -8,5 +8,5 @@ A brilliant CIA trainee must prove his worth at the Farm, the agency's secret tr
 
 [TMDB](1647)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Recruit%20%282003%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Recruit%20%282003%29%20LPCM%205.1.jpg)
 

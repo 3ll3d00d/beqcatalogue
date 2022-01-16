@@ -8,5 +8,5 @@ A group of eighty American workers are locked in their office and ordered by an 
 
 [TMDB](341006)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Belko%20Experiment%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Belko%20Experiment%20%282016%29%20DTS-HD%20MA%205.1.jpg)
 

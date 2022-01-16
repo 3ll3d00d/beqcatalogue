@@ -8,5 +8,5 @@ On another planet in the distant past, a Gelfling embarks on a quest to find the
 
 [TMDB](11639)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Dark%20Crystal%20%281982%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Dark%20Crystal%20%281982%29%20Atmos.jpg)
 

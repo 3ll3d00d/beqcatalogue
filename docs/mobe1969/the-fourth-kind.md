@@ -8,5 +8,5 @@ Since the 1960s, a disproportionate number of the population in and around Nome,
 
 [TMDB](22824)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Fourth%20Kind%20%282009%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/The%20Fourth%20Kind%20%282009%29%20DTS-HD%20MA%205.1.jpg)
 

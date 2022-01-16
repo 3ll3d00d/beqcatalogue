@@ -8,5 +8,5 @@ A down-on-his-luck PI is hired by his old flame to investigate a murder. But whi
 
 [TMDB](529983)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Poison%20Rose%20%282019%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Poison%20Rose%20%282019%29%20DTS-HD%20MA%205.1.jpg)
 

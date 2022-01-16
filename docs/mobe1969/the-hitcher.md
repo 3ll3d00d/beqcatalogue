@@ -8,5 +8,5 @@ While driving through the New Mexico Desert during a rainy night, the college st
 
 [TMDB](8398)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Hitcher%20%282007%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Hitcher%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

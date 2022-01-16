@@ -10,7 +10,7 @@ Barney Ross leads a band of highly skilled mercenaries including knife enthusias
 
 [TMDB](27578)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Expendables%20%282010%29%28TC%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/The%20Expendables%20%282010%29%28TC%29%20Atmos.jpg)
 
 ## DTS-HD MA 7.1
 
@@ -22,5 +22,5 @@ Barney Ross leads a band of highly skilled mercenaries including knife enthusias
 
 [TMDB](27578)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Expendables%20%282010%29%28DC%29%20DTS-HD%20MA%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/The%20Expendables%20%282010%29%28DC%29%20DTS-HD%20MA%207.1.jpg)
 

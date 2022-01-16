@@ -8,5 +8,5 @@ One rainy night in an arms factory near Shanghai, a young female worker accused 
 
 [TMDB](129850)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Bullet%20Vanishes%20%282012%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Bullet%20Vanishes%20%282012%29%28Ma%29%20DTS-HD%20MA%207.1.jpg)
 

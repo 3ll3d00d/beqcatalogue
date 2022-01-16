@@ -8,5 +8,5 @@ In the early to mid '90s, when the South African system of apartheid was in its 
 
 [TMDB](60011)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Bang%20Bang%20Club%20%282010%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Bang%20Bang%20Club%20%282010%29%20DTS-HD%20MA%205.1.jpg)
 

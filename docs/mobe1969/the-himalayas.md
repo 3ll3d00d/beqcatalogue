@@ -8,5 +8,5 @@ Based on true events, renowned mountaineer UM Hong-gil sets out on a mission to 
 
 [TMDB](374111)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Himalayas%20%282015%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Himalayas%20%282015%29%28Ko%29%20TrueHD%205.1.jpg)
 

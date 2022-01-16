@@ -8,5 +8,5 @@ Five young mutants, just discovering their abilities while held in a secret faci
 
 [TMDB](340102)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20New%20Mutants%20%282020%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/The%20New%20Mutants%20%282020%29%20Atmos.jpg)
 

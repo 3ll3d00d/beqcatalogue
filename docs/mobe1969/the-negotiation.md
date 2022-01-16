@@ -8,5 +8,5 @@ An ace police crisis negotiator, Chae-yoon, is called to the scene where her sup
 
 [TMDB](542836)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Negotiation%20%282018%29%28Ko%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/The%20Negotiation%20%282018%29%28Ko%29%20TrueHD%205.1.jpg)
 

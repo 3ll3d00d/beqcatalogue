@@ -8,5 +8,5 @@ When an illicit arms deal goes bad, North Korean spy Pyo Jong-seong finds himsel
 
 [TMDB](160704)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Berlin%20File%20%282013%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Berlin%20File%20%282013%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 

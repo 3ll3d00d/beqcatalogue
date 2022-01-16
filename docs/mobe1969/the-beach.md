@@ -8,5 +8,5 @@ Twenty-something Richard travels to Thailand and finds himself in possession of 
 
 [TMDB](1907)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Beach%20%282000%29%20AC3%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Beach%20%282000%29%20AC3%205.1.jpg)
 

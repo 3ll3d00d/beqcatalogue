@@ -8,5 +8,5 @@ A female American reporter searches for her missing brother against the backdrop
 
 [TMDB](146955)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20Mule%20%282012%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Mule%20%282012%29%20DTS-HD%20MA%205.1.jpg)
 

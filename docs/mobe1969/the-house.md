@@ -8,5 +8,5 @@ Reeling from the unexpected death of her husband, Beth is left alone in the lake
 
 [TMDB](547565)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/The%20House%20%282022%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20House%20%282022%29%20DD%2B%205.1.jpg)
 
