@@ -65,7 +65,7 @@
 
 ![img 0](https://i.imgur.com/fz8HIwr.jpg)
 
-## Season 6 Episodes 1-4
+## Season 6
 
 * DD+
 
