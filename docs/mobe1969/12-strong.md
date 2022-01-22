@@ -4,7 +4,7 @@
 
 **2018 • R • 2h 10m • War, Drama, Action, History • mobe1969**
 
-A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
+A team of special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
 
 [TMDB](429351)
 
