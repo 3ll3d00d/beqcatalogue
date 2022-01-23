@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2003 • PG-13 • 1h 44m • Fantasy, Comedy, Action • mobe1969**
+**2003 • PG-13 • 1h 44m • Action, Comedy, Fantasy • mobe1969**
 
 A mysterious and immortal Tibetan kung fu master, who has spent the last 60 years traveling around the world protecting the ancient Scroll of the Ultimate, mentors a selfish street kid in the ancient intricacies of kung fu.
 

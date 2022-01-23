@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2004 • PG-13 • 1h 26m • Action, Adventure, Thriller, Drama • mobe1969**
+**2004 • PG-13 • 1h 26m • Adventure, Drama, Action, Thriller • mobe1969**
 
 A former U.S. soldier returns to his hometown to find it overrun by crime and corruption, which prompts him to clean house.
 
