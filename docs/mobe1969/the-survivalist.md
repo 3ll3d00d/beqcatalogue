@@ -1,12 +1,12 @@
 # The Survivalist
 
-## DTS-HD MA 5.1
+## DD+ 5.1
 
-**2021 • R • 1h 31m • Action, Thriller • mobe1969**
+**2015 • 18 • 1h 44m • Drama, Science Fiction, Thriller • mobe1969**
 
-A year and a half after the fall of civilization from a virus outbreak, a former FBI agent is forced to protect a young woman, who is immune to the disease, from a dangerous gang hunting her led by a psychopath who believes heÃ¢â‚¬â„¢s going to use her to save the world.
+In a time of starvation, a survivalist lives off a small plot of land hidden deep in forest. When two women seeking food and shelter discover his farm, he finds his existence threatened.
 
-[TMDB](779057)
+[TMDB](329004)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Survivalist%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Survivalist%20%282015%29%20DD%2B%205.1.jpg)
 
