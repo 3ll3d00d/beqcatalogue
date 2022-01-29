@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2016 • R • 1h 23m • Comedy, Action • mobe1969**
+**2016 • R • 1h 23m • Action, Comedy • mobe1969**
 
 Wrongfully accused and on the run, a top MI6 assassin joins forces with his long-lost, football hooligan brother to save the world from a sinister plot.
 
