@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2008 • PG-13 • 1h 49m • Fantasy, Action, Adventure, Science Fiction • mobe1969**
+**2008 • PG-13 • 1h 49m • Action, Adventure, Fantasy, Science Fiction • mobe1969**
 
 The heroic tale of young Mathayus and his relentless quest for justice against an evil and powerful villain, King Sargon. Mathayus faces heart-stopping tribulations during his adventurous, odds-defying trajectory toward his ultimate destiny: becoming the formidable warrior king of an ancient desert empire.
 

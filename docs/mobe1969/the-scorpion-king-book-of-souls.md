@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2018 • PG-13 • 1h 42m • Adventure, Action, Fantasy • mobe1969**
+**2018 • PG-13 • 1h 42m • Action, Adventure, Fantasy • mobe1969**
 
 The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
 

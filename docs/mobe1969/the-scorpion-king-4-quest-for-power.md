@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2015 • PG-13 • 1h 45m • Action, Fantasy, Adventure • mobe1969**
+**2015 • PG-13 • 1h 45m • Action, Adventure, Fantasy • mobe1969**
 
 When he is betrayed by a trusted friend, Mathayus must marshal all his strength and cunning to outwit a formidable opponent who will stop at nothing to unlock a supreme ancient power.
 
