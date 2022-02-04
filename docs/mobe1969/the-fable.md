@@ -4,7 +4,7 @@
 
 **2019 • 15 • 2h 3m • Japanese • Action, Comedy, Crime • mobe1969**
 
-Fable is a legendary yakuza hitman equal to noneÃ¢â‚¬â€but his boss orders him and his sultry associate to lay low and learn how to live a "normal life" in Osaka.
+Fable is a legendary yakuza hitman equal to none—but his boss orders him and his sultry associate to lay low and learn how to live a "normal life" in Osaka.
 
 [TMDB](532267)
 

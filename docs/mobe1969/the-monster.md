@@ -4,7 +4,7 @@
 
 **2016 • R • 1h 31m • Drama, Horror • mobe1969**
 
-A mother and her 10-year old daughter are trapped in a forest. There is something in this forest. Something unlike anything they have heard before. Something that lurks in the darkness and itÃ¢â‚¬â„¢s coming after them.
+A mother and her 10-year old daughter are trapped in a forest. There is something in this forest. Something unlike anything they have heard before. Something that lurks in the darkness and it’s coming after them.
 
 [TMDB](340103)
 

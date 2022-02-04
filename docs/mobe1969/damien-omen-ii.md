@@ -4,7 +4,7 @@
 
 **1978 • R • 1h 47m • Horror • mobe1969**
 
-Since the sudden and highly suspicious death of his parents, 12-year-old Damien has been in the charge of his wealthy aunt and uncle. Widely feared to be the Antichrist, Damien relentlessly plots to seize control of his uncle's business empireÃ¢â‚¬â€and the world. Anyone attempting to unravel the secrets of Damien's sinister past or fiendish future meets with a swift and cruel demise.
+Since the sudden and highly suspicious death of his parents, 12-year-old Damien has been in the charge of his wealthy aunt and uncle. Widely feared to be the Antichrist, Damien relentlessly plots to seize control of his uncle's business empire—and the world. Anyone attempting to unravel the secrets of Damien's sinister past or fiendish future meets with a swift and cruel demise.
 
 [TMDB](10766)
 

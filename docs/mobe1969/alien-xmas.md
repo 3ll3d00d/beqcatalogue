@@ -4,7 +4,7 @@
 
 **2020 • NR • 0h 42m • Animation, Family, Fantasy • mobe1969**
 
-A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth's gravity â€” and steal all the presents.
+A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth's gravity — and steal all the presents.
 
 [TMDB](656561)
 

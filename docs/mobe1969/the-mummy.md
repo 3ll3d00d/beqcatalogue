@@ -4,7 +4,7 @@
 
 **1999 • PG-13 • 2h 4m • Adventure, Action, Fantasy • mobe1969**
 
-Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden loveÃ¢â‚¬â€along with a curse that guarantees eternal doom upon the world if he is ever awoken.
+Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.
 
 [TMDB](564)
 

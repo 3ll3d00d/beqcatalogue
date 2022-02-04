@@ -4,7 +4,7 @@
 
 **2010 • PG-13 • 1h 43m • Action, Thriller, Romance • mobe1969**
 
-American tourist Frank meets mysterious British woman Elsie on the train to Venice. Romance seems to bud, but there's more to her than meets the eye. Remake of the 2005 French film "Anthony Zimmer", written and directed by JÃ©rÃ´me Salle.
+American tourist Frank meets mysterious British woman Elsie on the train to Venice. Romance seems to bud, but there's more to her than meets the eye. Remake of the 2005 French film "Anthony Zimmer", written and directed by Jérôme Salle.
 
 [TMDB](37710)
 

@@ -1,10 +1,10 @@
-# Amelie
+# Amélie
 
 ## DTS-HD MA 5.1
 
 **2001 • R • 1h 56m • French • Comedy, Romance • mobe1969**
 
-At a tiny Parisian cafÃ©, the adorable yet painfully shy AmÃ©lie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?
+At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?
 
 [TMDB](194)
 

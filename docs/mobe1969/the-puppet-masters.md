@@ -4,7 +4,7 @@
 
 **1994 • R • 1h 49m • Science Fiction, Thriller, Horror • mobe1969**
 
-The Earth is invaded by alien parasitesÃ¢â‚¬â€aka 'slugs'Ã¢â‚¬â€that ride on people's backs and control their minds
+The Earth is invaded by alien parasites—aka 'slugs'—that ride on people's backs and control their minds
 
 [TMDB](25557)
 

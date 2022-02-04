@@ -4,7 +4,7 @@
 
 **2002 • PG-13 • 1h 59m • Action, Drama, Mystery, Thriller • mobe1969**
 
-Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spyÃ¢â‚¬â€but who does he work for?
+Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?
 
 [TMDB](2501)
 

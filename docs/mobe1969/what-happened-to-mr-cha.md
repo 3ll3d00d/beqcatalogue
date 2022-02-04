@@ -4,7 +4,7 @@
 
 **2021 • NR • 1h 42m • Korean • Comedy • mobe1969**
 
-With the peak of his career long behind him, an actor clings to his past glory â€” until a sudden wake-up call forces him to face who he's become.
+With the peak of his career long behind him, an actor clings to his past glory — until a sudden wake-up call forces him to face who he's become.
 
 [TMDB](629277)
 

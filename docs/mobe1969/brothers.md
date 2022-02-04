@@ -4,7 +4,7 @@
 
 **2009 • R • 1h 44m • Drama, Thriller, War • mobe1969**
 
-When his helicopter goes down during his fourth tour of duty in Afghanistan, Marine Sam Cahill is presumed dead. Back home, brother Tommy  steps in to look over Samâ€™s wife, Grace, and two children. Samâ€™s surprise homecoming triggers domestic mayhem.
+When his helicopter goes down during his fourth tour of duty in Afghanistan, Marine Sam Cahill dies but comes back to life. Back home, brother Tommy steps in to look over Sam’s wife, Grace, and two children. Sam’s surprise resurrection triggers domestic mayhem!
 
 [TMDB](7445)
 

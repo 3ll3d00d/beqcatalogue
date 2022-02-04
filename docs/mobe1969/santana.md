@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 46m • Action • mobe1969**
 
-Two brothers â€” one a narcotics agent and the other a general â€” finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.
+Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.
 
 [TMDB](734309)
 

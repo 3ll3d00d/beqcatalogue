@@ -4,7 +4,7 @@
 
 **2019 • NR • 1h 34m • Thriller • mobe1969**
 
-Jay is a man with a secret who travels from Britain to Pakistan to attend a weddingÃ¢â‚¬â€armed with duct tape, a shotgun, and a plan to kidnap the bride-to-be. Jay and his hostage end up on the run across the border and through the railway stations, back alleys, and black markets of New Delhi.
+Jay is a man with a secret who travels from Britain to Pakistan to attend a wedding—armed with duct tape, a shotgun, and a plan to kidnap the bride-to-be. Jay and his hostage end up on the run across the border and through the railway stations, back alleys, and black markets of New Delhi.
 
 [TMDB](500899)
 

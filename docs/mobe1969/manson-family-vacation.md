@@ -4,7 +4,7 @@
 
 **2015 • NR • 1h 25m • Mystery, Comedy, Drama • mobe1969**
 
-The story of two brothers: one whoâ€™s devoted to his family, the other whoâ€™s obsessed with the Manson Family.
+The story of two brothers: one who’s devoted to his family, the other who’s obsessed with the Manson Family.
 
 [TMDB](323679)
 

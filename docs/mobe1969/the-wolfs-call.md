@@ -4,7 +4,7 @@
 
 **2019 • 15 • 1h 55m • French • Thriller, Action • mobe1969**
 
-With nuclear war looming, a military expert in underwater acoustics strives to prove things aren't as they seemÃ¢â‚¬â€or soundÃ¢â‚¬â€using only his ears.
+With nuclear war looming, a military expert in underwater acoustics strives to prove things aren't as they seem—or sound—using only his ears.
 
 [TMDB](484468)
 

@@ -4,7 +4,7 @@
 
 **2020 • PG-13 • 1h 43m • Comedy, Mystery, Horror • mobe1969**
 
-Hubie Dubois, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and itâ€™s up to Hubie to save Halloween.
+Hubie Dubois, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it’s up to Hubie to save Halloween.
 
 [TMDB](617505)
 

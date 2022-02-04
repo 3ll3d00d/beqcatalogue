@@ -4,7 +4,7 @@
 
 **2012 • PG • 1h 25m • Thriller, Drama • mobe1969**
 
-Criminal psychologist Cameron Grainger is Detroitâ€™s go-to hostage negotiator. Blaming herself when a crisis sheâ€™s handling goes wrong and a young man is killed, she removes herself from service. But she is called back into sudden and terrifying action when her own sister becomes a hostage and the assailantsâ€”with an agenda to be revealedâ€”demand that Cameron be the one to negotiate her release.
+Criminal psychologist Cameron Grainger is Detroit’s go-to hostage negotiator. Blaming herself when a crisis she’s handling goes wrong and a young man is killed, she removes herself from service. But she is called back into sudden and terrifying action when her own sister becomes a hostage and the assailants—with an agenda to be revealed—demand that Cameron be the one to negotiate her release.
 
 [TMDB](120409)
 

@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 39m • Italian • Crime • mobe1969**
 
-To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â and soon becomes a suspect himself.
+To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.
 
 [TMDB](654905)
 

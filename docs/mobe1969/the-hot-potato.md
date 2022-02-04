@@ -4,7 +4,7 @@
 
 **2011 • PG-13 • 1h 36m • Comedy, Crime • mobe1969**
 
-The 'Hot Potato' is an exciting new British period Ã¢â‚¬Ëœcaper movieÃ¢â‚¬â„¢, in the spirit of Ã¢â‚¬ËœThe Italian JobÃ¢â‚¬â„¢ and Ã¢â‚¬ËœTwo Way StretchÃ¢â‚¬â„¢ and is based on real events which took place at the end of the 1960s in LondonÃ¢â‚¬â„¢s East End.
+The 'Hot Potato' is an exciting new British period ‘caper movie’, in the spirit of ‘The Italian Job’ and ‘Two Way Stretch’ and is based on real events which took place at the end of the 1960s in London’s East End.
 
 [TMDB](120798)
 

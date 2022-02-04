@@ -4,7 +4,7 @@
 
 **2018 • NR • 1h 34m • Spanish • Thriller, Crime • mobe1969**
 
-GermÃ¡n, an honest family man, sees how his whole world wobbles the night when, driving home, accidentally runs over two teenage girls. From that moment, GermÃ¡n will have to do everything in his power to prevent his life from being destroyed forever.
+Germán, an honest family man, sees how his whole world wobbles the night when, driving home, accidentally runs over two teenage girls. From that moment, Germán will have to do everything in his power to prevent his life from being destroyed forever.
 
 [TMDB](533992)
 

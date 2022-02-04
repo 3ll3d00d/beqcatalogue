@@ -4,7 +4,7 @@
 
 **2011 • NR • 1h 9m • Music • mobe1969**
 
-Recorded before 65,000 fans, WorldÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s On Fire is the debut live film documenting The ProdigyÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Warrior's Dance festival from The National Bowl at Milton Keynes on July 24th, 2010.
+Recorded before 65,000 fans, World’s On Fire is the debut live film documenting The Prodigy’s Warrior's Dance festival from The National Bowl at Milton Keynes on July 24th, 2010.
 
 [TMDB](65330)
 

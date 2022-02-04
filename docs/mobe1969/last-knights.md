@@ -4,7 +4,7 @@
 
 **2015 • R • 1h 55m • Action, Adventure • mobe1969**
 
-When an evil emperor executes their leader, his band of knights â€“ bound by duty and honour â€“ embarks on a journey of vengeance that will not come to an end until they've destroyed their mortal foe.
+When an evil emperor executes their leader, his band of knights – bound by duty and honour – embarks on a journey of vengeance that will not come to an end until they've destroyed their mortal foe.
 
 [TMDB](308504)
 

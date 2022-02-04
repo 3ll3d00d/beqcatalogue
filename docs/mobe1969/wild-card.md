@@ -6,7 +6,7 @@ Extended Cut
 
 **2015 • R • 1h 32m • Action, Thriller, Crime • mobe1969**
 
-When a Las Vegas bodyguard with lethal skills and a gambling problem gets in trouble with the mob, he has one last playâ€¦ and it's all or nothing.
+When a Las Vegas bodyguard with lethal skills and a gambling problem gets in trouble with the mob, he has one last play… and it's all or nothing.
 
 [TMDB](265208)
 

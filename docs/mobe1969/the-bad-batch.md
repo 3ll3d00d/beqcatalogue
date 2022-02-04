@@ -4,7 +4,7 @@
 
 **2017 • R • 1h 59m • Drama, Horror, Science Fiction • mobe1969**
 
-In a desert wasteland in Texas, a muscled cannibal breaks one important rule: donÃ¢â‚¬â„¢t play with your food.
+In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
 
 [TMDB](316154)
 

@@ -4,7 +4,7 @@
 
 **2012 • R • 1h 43m • Danish • Thriller, Drama • mobe1969**
 
-Tensions are high after a Danish freighter is captured and held for ransom by Somali pirates, leading to weeks of high-stakes negotiations â€“ and an escalating potential for explosive violence.
+Tensions are high after a Danish freighter is captured and held for ransom by Somali pirates, leading to weeks of high-stakes negotiations – and an escalating potential for explosive violence.
 
 [TMDB](127846)
 

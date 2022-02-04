@@ -1,4 +1,4 @@
-# Deja Vu
+# Déjà Vu
 
 ## LPCM 5.1
 

@@ -4,7 +4,7 @@
 
 **2019 • R • 1h 35m • Mystery, Thriller, Action, Crime • mobe1969**
 
-A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urgesâ€”to take lives.
+A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges—to take lives.
 
 [TMDB](535265)
 

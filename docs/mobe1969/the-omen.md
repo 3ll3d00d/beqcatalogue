@@ -4,7 +4,7 @@
 
 **1976 • R • 1h 51m • Horror, Thriller • mobe1969**
 
-Immediately after their miscarriage, the US diplomat Robert Thorn adopts the newborn Damien without the knowledge of his wife. Yet what he doesnÃ¢â‚¬â„¢t know is that their new son is the son of the devil.
+Immediately after their miscarriage, the US diplomat Robert Thorn adopts the newborn Damien without the knowledge of his wife. Yet what he doesn’t know is that their new son is the son of the devil.
 
 [TMDB](794)
 

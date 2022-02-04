@@ -4,7 +4,7 @@
 
 **2012 • R • 1h 38m • Drama, Action, Adventure, Thriller • mobe1969**
 
-A man crossing into Mexico with a satchel of $2,000,000â€”and a bloody pastâ€”finds himself under sudden attack in the sleepy town of El Fronteras.
+A man crossing into Mexico with a satchel of $2,000,000—and a bloody past—finds himself under sudden attack in the sleepy town of El Fronteras.
 
 [TMDB](102629)
 

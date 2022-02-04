@@ -4,7 +4,7 @@
 
 **2021 • 15 • 1h 41m • Cantonese • Drama, Crime, Thriller • mobe1969**
 
-A retired British Chinese soldier, a young South Asian man, an encounter at Chungking Mansions.  Coincidentally, they both offended the same gang boss. What has given them a new lease of life and how do they rediscover themselves through each otherâ€™s companyâ€¦
+A retired British Chinese soldier, a young South Asian man, an encounter at Chungking Mansions.  Coincidentally, they both offended the same gang boss. What has given them a new lease of life and how do they rediscover themselves through each other’s company…
 
 [TMDB](741328)
 

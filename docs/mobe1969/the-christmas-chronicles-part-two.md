@@ -4,7 +4,7 @@
 
 **2020 • PG • 1h 52m • Family, Fantasy, Adventure, Comedy • mobe1969**
 
-Kate Pierce is reluctantly spending Christmas with her momÃ¢â‚¬â„¢s new boyfriend and his son Jack. But when the North Pole and Christmas are threatened to be destroyed, Kate and Jack are unexpectedly pulled into a new adventure with Santa Claus.
+Kate Pierce is reluctantly spending Christmas with her mom’s new boyfriend and his son Jack. But when the North Pole and Christmas are threatened to be destroyed, Kate and Jack are unexpectedly pulled into a new adventure with Santa Claus.
 
 [TMDB](654028)
 

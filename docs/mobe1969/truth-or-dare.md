@@ -4,7 +4,7 @@
 
 **2018 • PG-13 • 1h 40m • Thriller, Horror • mobe1969**
 
-A harmless game of "Truth or Dare" among friends turns deadly when someoneâ€”or somethingâ€”begins to punish those who tell a lieâ€”or refuse the dare.
+A harmless game of "Truth or Dare" among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
 
 [TMDB](460019)
 

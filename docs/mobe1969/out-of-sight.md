@@ -4,7 +4,7 @@
 
 **1998 • R • 2h 3m • Romance, Comedy, Crime • mobe1969**
 
-Meet Jack Foley, a smooth criminal who bends the law and is determined to make one last heist. Karen Sisco is a federal marshal who chooses all the right moves â€¦ and all the wrong guys. Now they're willing to risk it all to find out if there's more between them than just the law.
+Meet Jack Foley, a smooth criminal who bends the law and is determined to make one last heist. Karen Sisco is a federal marshal who chooses all the right moves … and all the wrong guys. Now they're willing to risk it all to find out if there's more between them than just the law.
 
 [TMDB](1389)
 

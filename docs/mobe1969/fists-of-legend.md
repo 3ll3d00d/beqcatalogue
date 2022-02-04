@@ -4,7 +4,7 @@
 
 **2013 • NR • 2h 33m • Korean • Action, Drama • mobe1969**
 
-On a television show billed as â€œthe greatest fight show on Earth,â€ eager amateurs with lots to prove boldly step into the ring and expect to leave bloody but victorious. The ratings hungry producers seek out â€œlegendaryâ€ but largely forgotten streetfighters and mine their desperation for recaptured glory and redemption into ratings gold.
+On a television show billed as “the greatest fight show on Earth,” eager amateurs with lots to prove boldly step into the ring and expect to leave bloody but victorious. The ratings hungry producers seek out “legendary” but largely forgotten streetfighters and mine their desperation for recaptured glory and redemption into ratings gold.
 
 [TMDB](180651)
 

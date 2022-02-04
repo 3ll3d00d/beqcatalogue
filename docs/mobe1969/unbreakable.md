@@ -4,7 +4,7 @@
 
 **2000 • PG-13 • 1h 46m • Thriller, Drama, Mystery • mobe1969**
 
-An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead â€” and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.
+An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead — and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.
 
 [TMDB](9741)
 

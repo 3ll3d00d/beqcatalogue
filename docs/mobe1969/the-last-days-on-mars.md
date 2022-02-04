@@ -4,7 +4,7 @@
 
 **2013 • PG-13 • 1h 38m • Science Fiction, Thriller, Horror • mobe1969**
 
-On the last day of the first manned mission to Mars, a crew member of Tantalus Base believes he has made an astounding discovery Ã¢â‚¬â€œ fossilized evidence of bacterial life. Unwilling to let the relief crew claim all the glory, he disobeys orders to pack up and goes out on an unauthorized expedition to collect further samples. But a routine excavation turns to disaster when the porous ground collapses and he falls into a deep crevice. His devastated colleagues attempt to recover his body. However, when another vanishes, they start to suspect that the life-form they have discovered is not without danger.
+On the last day of the first manned mission to Mars, a crew member of Tantalus Base believes he has made an astounding discovery – fossilized evidence of bacterial life. Unwilling to let the relief crew claim all the glory, he disobeys orders to pack up and goes out on an unauthorized expedition to collect further samples. But a routine excavation turns to disaster when the porous ground collapses and he falls into a deep crevice. His devastated colleagues attempt to recover his body. However, when another vanishes, they start to suspect that the life-form they have discovered is not without danger.
 
 [TMDB](190847)
 

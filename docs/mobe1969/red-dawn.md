@@ -4,7 +4,7 @@
 
 **1984 • PG-13 • 1h 54m • Action, Thriller, War, Drama • mobe1969**
 
-It is the dawn of World War III. In mid-western America, a group of teenagers band together to defend their townâ€”and their countryâ€”from invading Soviet forces.
+It is the dawn of World War III. In mid-western America, a group of teenagers band together to defend their town—and their country—from invading Soviet forces.
 
 [TMDB](1880)
 

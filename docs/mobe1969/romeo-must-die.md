@@ -4,7 +4,7 @@
 
 **2000 • R • 1h 55m • Action, Crime, Thriller • mobe1969**
 
-Two warring gang families (one African-American, the other Chinese) maneuver for bragging rights to the Oakland, California, docks. Hang Sing and Trish O'Day uncover a trail of deceit that leaves most of the warring factions dead â€¦ or worse!
+Two warring gang families (one African-American, the other Chinese) maneuver for bragging rights to the Oakland, California, docks. Hang Sing and Trish O'Day uncover a trail of deceit that leaves most of the warring factions dead … or worse!
 
 [TMDB](2085)
 

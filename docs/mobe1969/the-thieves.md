@@ -4,7 +4,7 @@
 
 **2012 • NR • 2h 15m • Korean • Action, Crime • mobe1969**
 
-A gang of South Korean thieves team up with a Hong Kong crew to steal a diamond necklace from a heavily-guarded casino safe in Macau. As the cops close in, old betrayals â€” and misunderstandings â€” resurface.
+A gang of South Korean thieves team up with a Hong Kong crew to steal a diamond necklace from a heavily-guarded casino safe in Macau. As the cops close in, old betrayals — and misunderstandings — resurface.
 
 [TMDB](124157)
 

@@ -4,7 +4,7 @@
 
 **2001 • R • 2h 6m • Action, Crime, Thriller • mobe1969**
 
-On the day of his retirement, a veteran CIA agent learns that his former protÃ©gÃ© has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal.
+On the day of his retirement, a veteran CIA agent learns that his former protégé has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal.
 
 [TMDB](1535)
 

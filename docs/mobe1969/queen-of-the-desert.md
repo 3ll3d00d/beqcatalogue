@@ -4,7 +4,7 @@
 
 **2015 • 0 • 2h 8m • Drama, Adventure, History • mobe1969**
 
-A chronicle of Gertrude Bell's life, a traveler, writer, archaeologist, explorer, cartographer, and political attachÃ© for the British Empire at the dawn of the twentieth century.
+A chronicle of Gertrude Bell's life, a traveler, writer, archaeologist, explorer, cartographer, and political attaché for the British Empire at the dawn of the twentieth century.
 
 [TMDB](157843)
 

@@ -4,7 +4,7 @@
 
 **2009 • NR • 1h 55m • Japanese • Drama, Action • mobe1969**
 
-Kamui is a ninja on the run from the world of ninja bound by rules in search of true freedom. However, he is burdened with the fate, where it is not allowed to take the secret of their powers outside of the tribeâ€”if you are born as ninja, you must die as ninja. This brings him to constantly fight for his life against other ninja who try to kill him and hide the secrets within. He does not trust, and he does not love. Showing weakness leads to immediate death. An incident brings him to an old fisherman's village, where he finally starts to feel trust and affection towards other people. However, his pursuers where just minutes away from setting up a huge trap on Kamuiâ€¦
+A rebellious ninja in 17th century Japan takes refuge with a fisherman and his family.
 
 [TMDB](38604)
 

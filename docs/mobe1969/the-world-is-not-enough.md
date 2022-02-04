@@ -4,7 +4,7 @@
 
 **1999 • PG-13 • 2h 8m • Adventure, Action, Thriller • mobe1969**
 
-Greed, revenge, world dominance and high-tech terrorism Ã¢â‚¬â€œ it's all in a day's work for Bond, who's on a mission to protect a beautiful oil heiress from a notorious terrorist. In a race against time that culminates in a dramatic submarine showdown, Bond works to defuse the international power struggle that has the world's oil supply hanging in the balance.
+Greed, revenge, world dominance and high-tech terrorism – it's all in a day's work for Bond, who's on a mission to protect a beautiful oil heiress from a notorious terrorist. In a race against time that culminates in a dramatic submarine showdown, Bond works to defuse the international power struggle that has the world's oil supply hanging in the balance.
 
 [TMDB](36643)
 

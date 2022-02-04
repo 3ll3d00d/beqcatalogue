@@ -4,7 +4,7 @@
 
 **2020 • 15 • 1h 41m • Korean • Action • mobe1969**
 
-After being blinded in a coup against the king, JoseonÃ¢â‚¬â„¢s greatest swordsman (Jang Hyuk) goes into hiding, far removed from his cityÃ¢â‚¬â„¢s anguish. But when traffickers kidnap his daughter, he has no choice but to unsheathe his sword once more.
+After being blinded in a coup against the king, Joseon’s greatest swordsman (Jang Hyuk) goes into hiding, far removed from his city’s anguish. But when traffickers kidnap his daughter, he has no choice but to unsheathe his sword once more.
 
 [TMDB](492008)
 

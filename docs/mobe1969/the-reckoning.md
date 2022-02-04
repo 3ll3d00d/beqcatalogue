@@ -4,7 +4,7 @@
 
 **2020 • 15 • 1h 51m • Horror, Drama • mobe1969**
 
-In the aftermath of the Great Plague and amidst the subsequent witch-hunts against women, a young widow grapples with the tragic death of her husband in a society completely consumed by fear and death. Because she rejects the advances of her landlord, she is falsely accused of being a witch and thrown in jail for a crime she didnÃ¢â‚¬â„¢t commit. She must endure physical persecution at the hands of EnglandÃ¢â‚¬â„¢s most ruthless witch-hunter and face her own inner demons as the devil himself starts to work his way into her mind.
+In the aftermath of the Great Plague and amidst the subsequent witch-hunts against women, a young widow grapples with the tragic death of her husband in a society completely consumed by fear and death. Because she rejects the advances of her landlord, she is falsely accused of being a witch and thrown in jail for a crime she didn’t commit. She must endure physical persecution at the hands of England’s most ruthless witch-hunter and face her own inner demons as the devil himself starts to work his way into her mind.
 
 [TMDB](587130)
 

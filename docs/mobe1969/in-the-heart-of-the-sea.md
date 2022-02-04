@@ -4,7 +4,7 @@
 
 **2015 • PG-13 • 2h 2m • Thriller, Drama, Adventure, Action, History • mobe1969**
 
-In the winter of 1820, the New England whaling ship Essex is assaulted by something no one could believeâ€”a whale of mammoth size and will, and an almost human sense of vengeance.
+In the winter of 1820, the New England whaling ship Essex is assaulted by something no one could believe—a whale of mammoth size and will, and an almost human sense of vengeance.
 
 [TMDB](205775)
 

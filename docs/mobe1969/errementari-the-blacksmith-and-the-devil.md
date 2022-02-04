@@ -4,7 +4,7 @@
 
 **2018 • NR • 1h 38m • Basque • Drama, Fantasy, Horror • mobe1969**
 
-Basque Country, Spain, 1843. A police constable arrives at a small village in Ãlava to investigate a mysterious blacksmith who lives alone deep in the woods.
+Basque Country, Spain, 1843. A police constable arrives at a small village in Álava to investigate a mysterious blacksmith who lives alone deep in the woods.
 
 [TMDB](477033)
 

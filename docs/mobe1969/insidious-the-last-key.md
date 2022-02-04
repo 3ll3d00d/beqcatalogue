@@ -4,7 +4,7 @@
 
 **2018 • PG-13 • 1h 58m • Horror, Thriller, Mystery • mobe1969**
 
-Parapsychologist Elise Rainier and her team travel to Five Keys, NM, to investigate a manÃ¢â‚¬â„¢s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her familyÃ¢â‚¬â„¢s old home.
+Parapsychologist Elise Rainier and her team travel to Five Keys, NM, to investigate a man’s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family’s old home.
 
 [TMDB](406563)
 

@@ -1,10 +1,10 @@
-# Eye For An Eye
+# Eye for an Eye
 
 ## DD+ 5.1
 
 **2019 • NR • 1h 47m • Spanish • Drama, Thriller, Crime • mobe1969**
 
-Mario, an exemplary man, lives in a village on the Galician coast. In the old peopleâ€™s home, where he works as a nurse, everyone appreciates him. When the best known narco in the area, Antonio PadÃ­n, recently released from prison, enters the residence, Mario tries to make Antonio feel at home.  Now, PadÃ­n's two sons, Kike and ToÃ±o, are in charge of the family business. The failure of an operation will put Kike in jail and cause them to owe a large debt to a Colombian supplier. ToÃ±o will turn to the nurse to try to convince his father to assume the debt. But Mario has his own plans.
+Mario, an exemplary man, lives in a village on the Galician coast. In the old people’s home, where he works as a nurse, everyone appreciates him. When the best known narco in the area, Antonio Padín, recently released from prison, enters the residence, Mario tries to make Antonio feel at home.  Now, Padín's two sons, Kike and Toño, are in charge of the family business. The failure of an operation will put Kike in jail and cause them to owe a large debt to a Colombian supplier. Toño will turn to the nurse to try to convince his father to assume the debt. But Mario has his own plans.
 
 [TMDB](574376)
 

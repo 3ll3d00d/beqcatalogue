@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 34m • Spanish • Thriller • mobe1969**
 
-Unable to face his new reality in a wheelchair, ÃƒÂngel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
+Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
 
 [TMDB](701175)
 

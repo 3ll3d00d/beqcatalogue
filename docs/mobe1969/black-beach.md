@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 55m • Spanish • Drama, Thriller • mobe1969**
 
-Carlos, a ruthless Spanish negotiation expert working in Brussels, is tasked with handling the kidnapping of a senior oil company executive in a troubled West African country â€”with which he has old and deep tiesâ€”, torn by ethnic tensions and government abuses.
+Carlos, a ruthless Spanish negotiation expert working in Brussels, is tasked with handling the kidnapping of a senior oil company executive in a troubled West African country —with which he has old and deep ties—, torn by ethnic tensions and government abuses.
 
 [TMDB](735129)
 

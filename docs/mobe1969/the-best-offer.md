@@ -4,7 +4,7 @@
 
 **2013 • R • 2h 4m • Drama, Romance, Crime, Mystery • mobe1969**
 
-Virgil Oldman is a world renowned antiques expert and auctioneer. An eccentric genius, he leads a solitary life, going to extreme lengths to keep his distance from the messiness of human relationships. When appointed by the beautiful but emotionally damaged Claire to oversee the valuation and sale of her familyÃ¢â‚¬â„¢s priceless art collection, Virgil allows himself to form an attachment to her Ã¢â‚¬â€œ and soon he is engulfed by a passion which will rock his bland existence to the core.
+Virgil Oldman is a world renowned antiques expert and auctioneer. An eccentric genius, he leads a solitary life, going to extreme lengths to keep his distance from the messiness of human relationships. When appointed by the beautiful but emotionally damaged Claire to oversee the valuation and sale of her family’s priceless art collection, Virgil allows himself to form an attachment to her – and soon he is engulfed by a passion which will rock his bland existence to the core.
 
 [TMDB](152742)
 

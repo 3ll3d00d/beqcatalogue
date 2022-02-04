@@ -4,7 +4,7 @@
 
 **2013 • R • 1h 47m • Thriller, Action, Crime • mobe1969**
 
-Ex-Federale agent Machete is recruited by the President of the United States for a mission which would be impossible for any mortal man â€“ he must take down a madman revolutionary and an eccentric billionaire arms dealer who has hatched a plan to spread war and anarchy across the planet.
+Ex-Federale agent Machete is recruited by the President of the United States for a mission which would be impossible for any mortal man – he must take down a madman revolutionary and an eccentric billionaire arms dealer who has hatched a plan to spread war and anarchy across the planet.
 
 [TMDB](106747)
 

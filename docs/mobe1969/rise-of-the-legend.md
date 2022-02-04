@@ -4,7 +4,7 @@
 
 **2014 • NR • 2h 11m • Mandarin • Action, Drama • mobe1969**
 
-In 1868 during the late Qing Dynasty, rampant corruption on the Imperial Court inflicts much suffering in people's lives. For years, the Black Tigerâ€™s fearsome boss Lei Gong has been trying to get rid of the leader of the Northern Sea. One of his latest recruits is Fei, a fearless fighter who takes the Northern Sea leaderâ€™s head after a fierce fight. Just as Lei Gong believes he has total control of the port, a new gang called the Orphans rises in power. Led by Feiâ€™s childhood friend Huo, the Orphans are out to eliminate all the criminal power from the portâ€¦
+In 1868 during the late Qing Dynasty, rampant corruption on the Imperial Court inflicts much suffering in people's lives. For years, the Black Tiger’s fearsome boss Lei Gong has been trying to get rid of the leader of the Northern Sea. One of his latest recruits is Fei, a fearless fighter who takes the Northern Sea leader’s head after a fierce fight. Just as Lei Gong believes he has total control of the port, a new gang called the Orphans rises in power. Led by Fei’s childhood friend Huo, the Orphans are out to eliminate all the criminal power from the port…
 
 [TMDB](294993)
 

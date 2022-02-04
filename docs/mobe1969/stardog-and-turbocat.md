@@ -4,7 +4,7 @@
 
 **2019 • PG • 1h 28m • Animation, Comedy, Family • mobe1969**
 
-When vigilante cat, Felix, and loyal canine, Buddy, set out to find Buddyâ€™s lost owner, they discover not only the power of friendship, but their inner superpowers along the way.
+When vigilante cat, Felix, and loyal canine, Buddy, set out to find Buddy’s lost owner, they discover not only the power of friendship, but their inner superpowers along the way.
 
 [TMDB](515789)
 

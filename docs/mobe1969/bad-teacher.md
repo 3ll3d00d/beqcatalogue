@@ -6,7 +6,7 @@ Unrated Cut
 
 **2011 • R • 1h 37m • Comedy • mobe1969**
 
-A lazy, incompetent middle school teacher who hates her job and her students is forced to return to her job to make enough money for a boob job after her rich fiancÃ© dumps her.
+A lazy, incompetent middle school teacher who hates her job and her students is forced to return to her job to make enough money for a boob job after her rich fiancé dumps her.
 
 [TMDB](52449)
 

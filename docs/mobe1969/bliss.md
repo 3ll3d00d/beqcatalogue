@@ -4,7 +4,7 @@
 
 **2021 • R • 1h 43m • Science Fiction, Romance, Drama • mobe1969**
 
-A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabelâ€™s wild conspiracy.
+A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel’s wild conspiracy.
 
 [TMDB](613911)
 

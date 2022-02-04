@@ -4,7 +4,7 @@
 
 **2021 • 12 • 2h 1m • Comedy, Romance • mobe1969**
 
-Three sons try to make their motherâ€™s dreams come true by bringing home wives for Christmas.
+Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
 
 [TMDB](882102)
 

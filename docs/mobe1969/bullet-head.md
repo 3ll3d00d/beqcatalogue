@@ -4,7 +4,7 @@
 
 **2017 • R • 1h 33m • Drama, Crime, Thriller • mobe1969**
 
-A group of career criminals finds itself trapped in a warehouse with the law â€“ and an Attack Dog named DeNiro closing in.
+A group of career criminals finds itself trapped in a warehouse with the law – and an Attack Dog named DeNiro closing in.
 
 [TMDB](480572)
 

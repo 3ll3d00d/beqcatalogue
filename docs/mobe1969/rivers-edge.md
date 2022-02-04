@@ -4,7 +4,7 @@
 
 **2018 • NR • 1h 58m • Japanese • Crime, Drama • mobe1969**
 
-Haruna Wakagusa is a high school student who lives with her mother. Ichiro Yamada is gay and Harunaâ€™s classmate. He is bullied at school, but Haruna sticks up for Ichiro. They become intimate and Ichiro tells Haruna his secret. He found a dead body along the riverside. A new body is soon found.
+Haruna Wakagusa is a high school student who lives with her mother. Ichiro Yamada is gay and Haruna’s classmate. He is bullied at school, but Haruna sticks up for Ichiro. They become intimate and Ichiro tells Haruna his secret. He found a dead body along the riverside. A new body is soon found.
 
 [TMDB](487358)
 

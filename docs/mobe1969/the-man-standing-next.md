@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 54m • Korean • Drama • mobe1969**
 
-In the 1970s, Korea is under the absolute control of the President Park, who controls the KCIA, the organization with an edge over any branch of government. The director of KCIA, KIM Gyu-pyeong, is the seemingly most prospective second-in-command. In the midst of reign of fear, a former KCIA director, PARK Yong-gak who knows all about the governmentÃ¢â‚¬â„¢s obscure operations, exiles to the U.S. where the investigation of Ã¢â‚¬ËœKoreagateÃ¢â‚¬â„¢ is underway. As the tension escalates, the stifling political maneuvering by the all second-in-commandÃ¢â‚¬â„¢s unfolds.
+In the 1970s, Korea is under the absolute control of the President Park, who controls the KCIA, the organization with an edge over any branch of government. The director of KCIA, KIM Gyu-pyeong, is the seemingly most prospective second-in-command. In the midst of reign of fear, a former KCIA director, PARK Yong-gak who knows all about the government’s obscure operations, exiles to the U.S. where the investigation of ‘Koreagate’ is underway. As the tension escalates, the stifling political maneuvering by the all second-in-command’s unfolds.
 
 [TMDB](566397)
 

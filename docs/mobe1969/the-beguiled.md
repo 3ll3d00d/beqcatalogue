@@ -4,7 +4,7 @@
 
 **2017 • R • 1h 33m • Drama • mobe1969**
 
-During the Civil War, at a Southern girlsÃ¢â‚¬â„¢ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
+During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
 
 [TMDB](399019)
 

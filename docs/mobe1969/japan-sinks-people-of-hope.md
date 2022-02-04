@@ -1,4 +1,4 @@
-# Japan Sinks People of Hope
+# JAPAN SINKS: People of Hope
 
 * Author: mobe1969
 

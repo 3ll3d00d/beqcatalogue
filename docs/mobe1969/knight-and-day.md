@@ -4,7 +4,7 @@
 
 **2010 • PG-13 • 1h 49m • Action, Comedy • mobe1969**
 
-A fugitive couple goes on a glamorous and sometimes deadly adventure where nothing and no one â€“ even themselves â€“ are what they seem. Amid shifting alliances and unexpected betrayals, they race across the globe, with their survival ultimately hinging on the battle of truth vs. trust.
+A fugitive couple goes on a glamorous and sometimes deadly adventure where nothing and no one – even themselves – are what they seem. Amid shifting alliances and unexpected betrayals, they race across the globe, with their survival ultimately hinging on the battle of truth vs. trust.
 
 [TMDB](37834)
 

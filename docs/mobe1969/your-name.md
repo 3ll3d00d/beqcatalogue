@@ -4,7 +4,7 @@
 
 **2016 • PG • 1h 46m • Japanese • Romance, Animation, Drama • mobe1969**
 
-High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in TakiÃ¢â‚¬â„¢s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.
+High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.
 
 [TMDB](372058)
 

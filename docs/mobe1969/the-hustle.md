@@ -4,7 +4,7 @@
 
 **2019 • PG-13 • 1h 34m • Comedy • mobe1969**
 
-Two female scam artists, one low rent and the other high class, compete to swindle a naÃƒÂ¯ve tech prodigy out of his fortune. A remake of the 1988 comedy "Dirty Rotten Scoundrels."
+Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy "Dirty Rotten Scoundrels."
 
 [TMDB](449562)
 

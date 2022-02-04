@@ -4,7 +4,7 @@
 
 **2021 • R • 1h 32m • Crime, Action, Thriller, Comedy • mobe1969**
 
-Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor â€” a "nobody." When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.
+Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a "nobody." When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.
 
 [TMDB](615457)
 

@@ -4,7 +4,7 @@
 
 **2018 • R • 1h 32m • Comedy, Crime • mobe1969**
 
-Based on the extraordinary true story of the European cityâ€™s 1973 bank heist and hostage crisis that was documented in the 1974 New Yorker article â€œThe Bank Dramaâ€ by Daniel Lang. The events grasped the worldâ€™s attention when the hostages bonded with their captors and turned against the authorities, giving rise to the psychological phenomenon known as â€œStockholm Syndrome.â€
+Based on the extraordinary true story of the European city’s 1973 bank heist and hostage crisis that was documented in the 1974 New Yorker article “The Bank Drama” by Daniel Lang. The events grasped the world’s attention when the hostages bonded with their captors and turned against the authorities, giving rise to the psychological phenomenon known as “Stockholm Syndrome.”
 
 [TMDB](437626)
 

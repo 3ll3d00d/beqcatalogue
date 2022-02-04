@@ -4,7 +4,7 @@
 
 **2015 • NR • 1h 43m • Cantonese • Horror • mobe1969**
 
-Street-smart exorcist Fatt has an unique method of dealing with vengeful spirits: He negotiates with them and persuades them to let go of their grudges. After recordings of his exorcisms go viral, Fatt attracts the attentions of a murderous spirit whoâ€™s targeting mediums, as well as a troublesome reporter who takes great interest in Fatt and his close relationship with a female spirit.
+Street-smart exorcist Fatt has an unique method of dealing with vengeful spirits: He negotiates with them and persuades them to let go of their grudges. After recordings of his exorcisms go viral, Fatt attracts the attentions of a murderous spirit who’s targeting mediums, as well as a troublesome reporter who takes great interest in Fatt and his close relationship with a female spirit.
 
 [TMDB](371451)
 

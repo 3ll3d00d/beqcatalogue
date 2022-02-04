@@ -4,7 +4,7 @@
 
 **2016 • R • 1h 28m • Science Fiction, Thriller • mobe1969**
 
-Two old friends living in a dystopic future become trapped in a mysterious time loop â€” one that may have something to do with an ongoing battle between an omnipotent corporation and a ragtag band of rebels.
+Two old friends living in a dystopic future become trapped in a mysterious time loop — one that may have something to do with an ongoing battle between an omnipotent corporation and a ragtag band of rebels.
 
 [TMDB](410199)
 

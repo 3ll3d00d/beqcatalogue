@@ -4,7 +4,7 @@
 
 **1971 • R • 1h 42m • Action, Crime, Thriller • mobe1969**
 
-When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan â€“ famous for his take-no-prisoners approach to law enforcement â€“ is tasked with hunting down the psychopath. Harry eventually collars Scorpio in the process of rescuing a kidnap victim, only to see him walk on technicalities. Now, the maverick detective is determined to nail the maniac himself.
+When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan – famous for his take-no-prisoners approach to law enforcement – is tasked with hunting down the psychopath. Harry eventually collars Scorpio in the process of rescuing a kidnap victim, only to see him walk on technicalities. Now, the maverick detective is determined to nail the maniac himself.
 
 [TMDB](984)
 

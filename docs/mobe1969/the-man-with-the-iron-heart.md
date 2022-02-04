@@ -4,7 +4,7 @@
 
 **2017 • R • 2h 0m • War, Action, Thriller, History • mobe1969**
 
-With the Third Reich at its peak in 1942, the Czech resistance in London plans the most ambitious military operation of WWII Ã¢â‚¬â€œ  Anthropoid. Two young recruits are sent to Prague to assassinate the most ruthless Nazi leader Ã¢â‚¬â€œ Reinhardt Heydrich, head of the SS, the Gestapo and the architect of the Final Solution.
+With the Third Reich at its peak in 1942, the Czech resistance in London plans the most ambitious military operation of WWII –  Anthropoid. Two young recruits are sent to Prague to assassinate the most ruthless Nazi leader – Reinhardt Heydrich, head of the SS, the Gestapo and the architect of the Final Solution.
 
 [TMDB](339259)
 

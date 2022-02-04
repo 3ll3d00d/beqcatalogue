@@ -4,7 +4,7 @@
 
 **2010 • R • 1h 56m • Horror, Drama, Mystery • mobe1969**
 
-A bullied young boy befriends a young female vampire who lives in secrecy with her guardian.  A remake of the movie â€œLet The Right One Inâ€ which was an adaptation of a book.
+A bullied young boy befriends a young female vampire who lives in secrecy with her guardian.  A remake of the movie “Let The Right One In” which was an adaptation of a book.
 
 [TMDB](41402)
 

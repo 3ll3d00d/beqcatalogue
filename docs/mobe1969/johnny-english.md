@@ -4,7 +4,7 @@
 
 **2003 • PG • 1h 28m • Adventure, Action, Comedy • mobe1969**
 
-A lowly pencil pusher working for MI7, Johnny English is suddenly promoted to super spy after Agent One is assassinated and every other agent is blown up at his funeral. When a billionaire entrepreneur sponsors the exhibition of the Crown Jewelsâ€”and the valuable gems disappear on the opening night and on English's watchâ€”the newly-designated agent must jump into action to find the thief and recover the missing gems.
+A lowly pencil pusher working for MI7, Johnny English is suddenly promoted to super spy after Agent One is assassinated and every other agent is blown up at his funeral. When a billionaire entrepreneur sponsors the exhibition of the Crown Jewels—and the valuable gems disappear on the opening night and on English's watch—the newly-designated agent must jump into action to find the thief and recover the missing gems.
 
 [TMDB](9486)
 

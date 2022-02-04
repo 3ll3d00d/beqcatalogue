@@ -8,5 +8,5 @@ Rescued as a child by the legendary assassin Moody and trained in the family bus
 
 [TMDB](645788)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/The%20Protege%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Protege%20%282021%29%20Atmos.jpg)
 

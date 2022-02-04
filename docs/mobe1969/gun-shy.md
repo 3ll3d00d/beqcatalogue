@@ -4,7 +4,7 @@
 
 **2017 • R • 1h 31m • Action, Crime, Adventure, Thriller, Comedy • mobe1969**
 
-AÂ mega-platinum,Â aging rock star's supermodel wife is abducted by pirates while vacationing in Chile.
+A mega-platinum, aging rock star's supermodel wife is abducted by pirates while vacationing in Chile.
 
 [TMDB](430682)
 

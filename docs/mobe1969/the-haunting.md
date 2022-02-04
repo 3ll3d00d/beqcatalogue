@@ -4,7 +4,7 @@
 
 **1999 • PG-13 • 1h 53m • Mystery, Fantasy, Horror, Thriller • mobe1969**
 
-Dr. David Marrow invites Eleanor Vance, Luke Sanderson, and Theo to the eerie and isolated Hill House to be subjects for a sleep disorder study. The unfortunate guests discover that Marrow is far more interested in the sinister mansion itself Ã¢â‚¬â€ and they soon see the true nature of its horror.
+Dr. David Marrow invites Eleanor Vance, Luke Sanderson, and Theo to the eerie and isolated Hill House to be subjects for a sleep disorder study. The unfortunate guests discover that Marrow is far more interested in the sinister mansion itself — and they soon see the true nature of its horror.
 
 [TMDB](11618)
 

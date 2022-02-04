@@ -1,4 +1,4 @@
-# Les Miserables
+# Les Misérables
 
 ## DTS-HD MA 5.1
 

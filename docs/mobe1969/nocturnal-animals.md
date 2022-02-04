@@ -4,7 +4,7 @@
 
 **2016 • R • 1h 56m • Drama, Thriller • mobe1969**
 
-Susan Morrow receives a book manuscript from her ex-husband â€“ a man she left 20 years earlier â€“ asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a mathematics professor whose family vacation turns violent.
+Susan Morrow receives a book manuscript from her ex-husband – a man she left 20 years earlier – asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a mathematics professor whose family vacation turns violent.
 
 [TMDB](340666)
 

@@ -4,7 +4,7 @@
 
 **2003 • R • 1h 34m • Drama, Action, Thriller, Crime • mobe1969**
 
-In the wilderness of British Columbia, two hunters are tracked and viciously murdered by Aaron Hallum. A former Special Operations instructor is approached and asked to apprehend HallumÃ¢â‚¬â€his former studentÃ¢â‚¬â€who has 'gone rogue' after suffering severe battle stress from his time in Kosovo.
+In the wilderness of British Columbia, two hunters are tracked and viciously murdered by Aaron Hallum. A former Special Operations instructor is approached and asked to apprehend Hallum—his former student—who has 'gone rogue' after suffering severe battle stress from his time in Kosovo.
 
 [TMDB](10632)
 

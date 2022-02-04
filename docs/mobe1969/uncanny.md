@@ -4,7 +4,7 @@
 
 **2015 • 15 • 1h 31m • Science Fiction, Thriller • mobe1969**
 
-For ten years, inventor David Kressen has lived in seclusion with his inventions, including Adam, a robot with incredible lifelike human qualities. When reporter Joy Andrews is given access to their unconventional facility, she is alternately repelled and attracted to the scientist and his creation. But as Adam exhibits emergent behavior of anger and jealousy towards her, she finds herself increasingly entangled in a web of deception where no oneâ€™s motives are easily decipherable.
+For ten years, inventor David Kressen has lived in seclusion with his inventions, including Adam, a robot with incredible lifelike human qualities. When reporter Joy Andrews is given access to their unconventional facility, she is alternately repelled and attracted to the scientist and his creation. But as Adam exhibits emergent behavior of anger and jealousy towards her, she finds herself increasingly entangled in a web of deception where no one’s motives are easily decipherable.
 
 [TMDB](137333)
 

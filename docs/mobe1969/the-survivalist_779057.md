@@ -4,7 +4,7 @@
 
 **2021 • R • 1h 31m • Action, Thriller • mobe1969**
 
-A year and a half after the fall of civilization from a virus outbreak, a former FBI agent is forced to protect a young woman, who is immune to the disease, from a dangerous gang hunting her led by a psychopath who believes heÃ¢â‚¬â„¢s going to use her to save the world.
+A year and a half after the fall of civilization from a virus outbreak, a former FBI agent is forced to protect a young woman, who is immune to the disease, from a dangerous gang hunting her led by a psychopath who believes he’s going to use her to save the world.
 
 [TMDB](779057)
 

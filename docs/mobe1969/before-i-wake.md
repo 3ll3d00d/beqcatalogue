@@ -4,7 +4,7 @@
 
 **2016 • PG-13 • 1h 37m • Drama, Fantasy, Horror, Thriller • mobe1969**
 
-An orphaned child's dreamsâ€”and nightmaresâ€”manifest physically as he sleeps.
+An orphaned child's dreams—and nightmares—manifest physically as he sleeps.
 
 [TMDB](301804)
 

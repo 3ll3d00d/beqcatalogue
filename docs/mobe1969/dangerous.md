@@ -4,7 +4,7 @@
 
 **2021 • R • 1h 39m • Action, Thriller • mobe1969**
 
-A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brotherâ€™s demise, he sets out on a relentless quest for vengeance.
+A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
 
 [TMDB](763788)
 

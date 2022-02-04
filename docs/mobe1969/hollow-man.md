@@ -6,7 +6,7 @@ Director's Cut
 
 **2000 • R • 1h 52m • Science Fiction, Action, Thriller • mobe1969**
 
-Cocky researcher, Sebastian Caine is working on a project to make living creatures invisible and he's so confident he's found the right formula that he tests it on himself and soon begins to vanish. The only problem is â€“ no-one can determine how to make him visible again. Caine's predicament eventually drives him mad, with terrifying results.
+Cocky researcher, Sebastian Caine is working on a project to make living creatures invisible and he's so confident he's found the right formula that he tests it on himself and soon begins to vanish. The only problem is – no-one can determine how to make him visible again. Caine's predicament eventually drives him mad, with terrifying results.
 
 [TMDB](9383)
 

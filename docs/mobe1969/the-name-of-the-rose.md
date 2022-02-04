@@ -4,7 +4,7 @@
 
 **1986 • R • 2h 10m • Drama, Thriller, Mystery • mobe1969**
 
-14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence Ã¢â‚¬â€œ which is considerable.
+14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence – which is considerable.
 
 [TMDB](192)
 

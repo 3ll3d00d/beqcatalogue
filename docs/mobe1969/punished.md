@@ -4,7 +4,7 @@
 
 **2011 • NR • 1h 34m • Cantonese • Action, Thriller, Crime • mobe1969**
 
-Real estate tycoon Wong Ho-Chiu (Anthony Wong Chau-Sang) suffers great pain when his daughter Daisy (Janice Man) is kidnapped and killed. Wong Ho-Chiu turns to his trusted bodyguard Chor (Richie Ren) to seek out the perpetrators and exact revenge. Wong Ho-Chiu goes one step further and orders Chor to videotape each of their executions. Once Chor tracks down the final perpetrator Wong Ho-Chiu decides to kill that person himself. When Wong Ho-Chiu learns about the perpetratorâ€™s past, he has second thoughts â€¦
+Real estate tycoon Wong Ho-Chiu (Anthony Wong Chau-Sang) suffers great pain when his daughter Daisy (Janice Man) is kidnapped and killed. Wong Ho-Chiu turns to his trusted bodyguard Chor (Richie Ren) to seek out the perpetrators and exact revenge. Wong Ho-Chiu goes one step further and orders Chor to videotape each of their executions. Once Chor tracks down the final perpetrator Wong Ho-Chiu decides to kill that person himself. When Wong Ho-Chiu learns about the perpetrator’s past, he has second thoughts …
 
 [TMDB](72650)
 

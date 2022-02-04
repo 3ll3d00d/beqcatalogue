@@ -4,7 +4,7 @@
 
 **2021 • PG • 1h 32m • Animation, Adventure, Comedy, Family • mobe1969**
 
-Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australiaâ€™s deadliest creatures plot an escape from their zoo to the Outback, a place where theyâ€™ll fit in without being judged.
+Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia’s deadliest creatures plot an escape from their zoo to the Outback, a place where they’ll fit in without being judged.
 
 [TMDB](770254)
 

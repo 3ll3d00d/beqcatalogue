@@ -4,7 +4,7 @@
 
 **2012 • R • 1h 26m • Thriller, Action • mobe1969**
 
-A special agent's plans to reconcile with his ex-fiancÃ© are ruined when she boards a private jet that is targeted by hijackers working for the same crime lord that he is chasing.
+A special agent's plans to reconcile with his ex-fiancé are ruined when she boards a private jet that is targeted by hijackers working for the same crime lord that he is chasing.
 
 [TMDB](119117)
 

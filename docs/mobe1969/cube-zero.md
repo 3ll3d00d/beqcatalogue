@@ -4,7 +4,7 @@
 
 **2004 • R • 1h 37m • Mystery, Science Fiction, Thriller • mobe1969**
 
-Cube Zero is the third film in the trilogy yet this time instead of a film about people trapped in a deadly cube trying to get out we see it from the eyes of someone who is controlling the cube and the torture of the victims inside. When the nerd canâ€™t stand to see a woman suffer he himself enters the cube to try and save her.
+Cube Zero is the third film in the trilogy yet this time instead of a film about people trapped in a deadly cube trying to get out we see it from the eyes of someone who is controlling the cube and the torture of the victims inside. When the nerd can’t stand to see a woman suffer he himself enters the cube to try and save her.
 
 [TMDB](438)
 

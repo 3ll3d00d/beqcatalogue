@@ -4,7 +4,7 @@
 
 **2021 • NR • 1h 59m • Japanese • Drama, Thriller • mobe1969**
 
-A homeless man meets a medical school student who pays him to volunteer for a surgical procedure known as trepanation, drilling a hole in his skull, which ends up giving him the ability to communicate with the dark side of peopleâ€™s subconscious minds.
+A homeless man meets a medical school student who pays him to volunteer for a surgical procedure known as trepanation, drilling a hole in his skull, which ends up giving him the ability to communicate with the dark side of people’s subconscious minds.
 
 [TMDB](741434)
 

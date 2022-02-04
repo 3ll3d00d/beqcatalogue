@@ -1,4 +1,4 @@
-# S.O.Z Soldiers or Zombies
+# S.O.Z: Soldiers or Zombies
 
 * Author: mobe1969
 

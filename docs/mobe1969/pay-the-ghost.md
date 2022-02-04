@@ -4,7 +4,7 @@
 
 **2015 • 16 • 1h 34m • Fantasy, Horror, Mystery, Thriller • mobe1969**
 
-One year after his young son disappeared during a Halloween carnival, Mike Cole is haunted by eerie images and terrifying messages he canâ€™t explain. Together with his estranged wife, he will stop at nothing to unravel the mystery and find their sonâ€”and, in doing so, he unearths a legend that refuses to remain buried in the past.
+One year after his young son disappeared during a Halloween carnival, Mike Cole is haunted by eerie images and terrifying messages he can’t explain. Together with his estranged wife, he will stop at nothing to unravel the mystery and find their son—and, in doing so, he unearths a legend that refuses to remain buried in the past.
 
 [TMDB](290637)
 

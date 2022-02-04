@@ -4,7 +4,7 @@
 
 **2017 • NR • 1h 44m • Spanish • Drama • mobe1969**
 
-ÃƒÂlvaro, a man obsessed with the idea of writing what he brands as Ã¢â‚¬Å“high literature,Ã¢â‚¬Â manipulates the lives and feelings of the people around him to write about the consequences caused by his devious acts.
+Álvaro, a man obsessed with the idea of writing what he brands as “high literature,” manipulates the lives and feelings of the people around him to write about the consequences caused by his devious acts.
 
 [TMDB](437036)
 

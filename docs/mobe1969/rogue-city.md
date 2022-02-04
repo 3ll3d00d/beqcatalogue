@@ -4,7 +4,7 @@
 
 **2020 • PG-13 • 1h 56m • French • Crime, Thriller, Action, Drama • mobe1969**
 
-Caught in the crosshairs of police corruption and Marseilleâ€™s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
+Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
 
 [TMDB](671039)
 

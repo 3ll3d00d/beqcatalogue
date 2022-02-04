@@ -4,7 +4,7 @@
 
 **2019 • NR • 2h 2m • Korean • Romance, Drama • mobe1969**
 
-In 1994, on the first day that Yoo Yeul went on air as the new DJ of the popular radio show â€˜Music Album,' a college girl Mi-su meets Hyun-woo who happens to drop by the bakery she works at. Like the music streaming from the radio, their frequencies slowly come in sync; even when they're apart, the show brings them together through ebbs and flows of events arising from both pure coincidence and inevitability, until the bitter reality sets in and drives them apart...
+In 1994, on the first day that Yoo Yeul went on air as the new DJ of the popular radio show ‘Music Album,' a college girl Mi-su meets Hyun-woo who happens to drop by the bakery she works at. Like the music streaming from the radio, their frequencies slowly come in sync; even when they're apart, the show brings them together through ebbs and flows of events arising from both pure coincidence and inevitability, until the bitter reality sets in and drives them apart...
 
 [TMDB](570503)
 

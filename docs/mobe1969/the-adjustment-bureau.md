@@ -4,7 +4,7 @@
 
 **2011 • PG-13 • 1h 46m • Thriller, Romance, Science Fiction • mobe1969**
 
-A man glimpses the future Fate has planned for him Ã¢â‚¬â€œ and chooses to fight for his own destiny. Battling the powerful Adjustment Bureau across, under and through the streets of New York, he risks his destined greatness to be with the only woman he's ever loved.
+A man glimpses the future Fate has planned for him – and chooses to fight for his own destiny. Battling the powerful Adjustment Bureau across, under and through the streets of New York, he risks his destined greatness to be with the only woman he's ever loved.
 
 [TMDB](38050)
 

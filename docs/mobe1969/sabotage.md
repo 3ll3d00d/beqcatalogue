@@ -4,7 +4,7 @@
 
 **2014 • R • 1h 50m • Action, Thriller, Crime, Drama • mobe1969**
 
-John "Breacher" Wharton leads an elite DEA task force that takes on the world's deadliest drug cartels. When the team successfully executes a high-stakes raid on a cartel safe house, they think their work is done â€“ until, one-by-one, the team members mysteriously start to be eliminated. As the body count rises, everyone is a suspect.
+John "Breacher" Wharton leads an elite DEA task force that takes on the world's deadliest drug cartels. When the team successfully executes a high-stakes raid on a cartel safe house, they think their work is done – until, one-by-one, the team members mysteriously start to be eliminated. As the body count rises, everyone is a suspect.
 
 [TMDB](144336)
 

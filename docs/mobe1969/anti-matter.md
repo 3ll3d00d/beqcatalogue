@@ -4,7 +4,7 @@
 
 **2016 • 15 • 1h 49m • Science Fiction • mobe1969**
 
-A scifi-noir take on Alice in Wonderland. Oxford PhD student Ana finds herself unable to build new memories, following an experiment to generate and travel through a wormhole. The story follows her increasingly desperate efforts to understand what happened, and to find out whoâ€”or whatâ€”is behind the rising horror in her life.
+A scifi-noir take on Alice in Wonderland. Oxford PhD student Ana finds herself unable to build new memories, following an experiment to generate and travel through a wormhole. The story follows her increasingly desperate efforts to understand what happened, and to find out who—or what—is behind the rising horror in her life.
 
 [TMDB](429101)
 

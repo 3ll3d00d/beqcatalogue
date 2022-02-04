@@ -4,7 +4,7 @@
 
 **2011 • PG • 1h 47m • Adventure, Animation, Mystery • mobe1969**
 
-From Academy AwardÃ‚Â® winning filmmakers, Steven Spielberg and Peter Jackson, comes the epic adventures of Tintin. Racing to uncover the secrets of a sunken ship that may hold a vast fortune, but also an ancient curse, Tintin and his loyal dog Snowy embark on an action-packed journey around the world that critics are calling.
+From Academy Award® winning filmmakers, Steven Spielberg and Peter Jackson, comes the epic adventures of Tintin. Racing to uncover the secrets of a sunken ship that may hold a vast fortune, but also an ancient curse, Tintin and his loyal dog Snowy embark on an action-packed journey around the world that critics are calling.
 
 [TMDB](17578)
 

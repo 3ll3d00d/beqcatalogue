@@ -4,7 +4,7 @@
 
 **2021 • R • 1h 33m • Horror, Thriller, Mystery • mobe1969**
 
-Working in the shadow of an esteemed police veteran, brash Detective Ezekiel Ã¢â‚¬Å“ZekeÃ¢â‚¬Â Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the cityÃ¢â‚¬â„¢s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killerÃ¢â‚¬â„¢s morbid game.
+Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
 
 [TMDB](602734)
 
