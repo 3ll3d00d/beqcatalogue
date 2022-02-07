@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**1978 • PG • 1h 54m • Drama, Adventure, War • mobe1969**
+**1978 • PG • 2h 6m • Drama, Adventure, War • mobe1969**
 
 World War II, 1943. Mallory and Miller, the heroes who destroyed the guns of Navarone, are sent to Yugoslavia in search of a ghost from the past.
 
