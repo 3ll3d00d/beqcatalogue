@@ -1,12 +1,12 @@
 # Point Blank
 
-## DTS-HD MA 5.1
+## DD+ 5.1
 
-**2010 • R • 1h 24m • French • Action, Thriller, Crime • mobe1969**
+**1998 • R • 1h 38m • Action, Drama, Crime • mobe1969**
 
-Samuel Pierret is a nurse who saves the wrong guy – a thief whose henchmen take Samuel's pregnant wife hostage to force him to spring their boss from the hospital. A race through the subways and streets of Paris ensues, and the body count rises. Can Samuel evade the cops and the criminal underground and deliver his beloved to safety?
+Convicted corporate criminal Howard engineers a prison break as he and a number of fellow inmates are being transferred to a new facility. The escapees storm a shopping mall and take a group of shoppers hostage (after killing many more of them) before making their demands. Only Rudy, a former mercenary and brother of one of the fugitives, can take out the criminals before more of the hostages die.
 
-[TMDB](61404)
+[TMDB](56125)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Point%20Blank%20%282010%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Point%20Blank%20%281998%29%20DD%2B%205.1.jpg)
 

@@ -8,5 +8,5 @@ Samuel Pierret is a nurse who saves the wrong guy – a thief whose henchmen tak
 
 [TMDB](61404)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Point%20Blank%20%282010%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Point%20Blank%20%282010%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)
 
