@@ -1,6 +1,6 @@
 # Halloween
 
-## Atmos
+## DTS-X
 
 **2018 • R • 1h 46m • Horror, Thriller • mobe1969**
 
@@ -8,5 +8,5 @@ Jamie Lee Curtis returns to her iconic role as Laurie Strode, who comes to her f
 
 [TMDB](424139)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Halloween%20%282018%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Halloween%20%282018%29%20DTS-X.jpg)
 
