@@ -2,9 +2,9 @@
 
 ## DTS-HD MA 5.1
 
-**2013 • R • 1h 43m • Crime, Adventure, Action • mobe1969**
+**2013 • R • 1h 43m • Action, Adventure, Crime • mobe1969**
 
-After Kick-Ass's insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist, reborn as The Mother Fucker, only the blade-wielding Hit-Girl can prevent their annihilation.
+After Kick-Ass’ insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist — reborn as The Mother Fucker — only the blade-wielding Hit-Girl can prevent their annihilation.
 
 [TMDB](59859)
 
