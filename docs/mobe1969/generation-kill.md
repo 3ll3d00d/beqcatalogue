@@ -2,6 +2,14 @@
 
 * Author: mobe1969
 
+## Season 1
+
+* DTS-HD MA 5.1
+
+* Production Year: 2008
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Generation%20Kill%20%282008%29%28E1-7%29%20DTS-HD%20MA%205.1.jpg)
+
 ## Season 1 Episode 1
 
 * DTS-HD MA 5.1
