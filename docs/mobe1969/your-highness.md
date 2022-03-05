@@ -4,7 +4,7 @@
 
 Unrated Cut
 
-**2011 • R • 1h 42m • Fantasy, Adventure, Comedy • mobe1969**
+**2011 • R • 1h 46m • Comedy, Fantasy • mobe1969**
 
 A fantasy movie about an arrogant, lazy prince and his more heroic brother who must complete a quest in order to save their father's kingdom.
 
