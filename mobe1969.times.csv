@@ -2208,7 +2208,7 @@ Movie BEQs/Wine War (2017)(Ma) TrueHD 7.1.xml,1623459245,1623459245
 Movie BEQs/Wolf Totem (2015)(Ma) DTS-HD MA 5.1.xml,1622660597,1622660597
 Movie BEQs/Young Detective Dee Rise of the Sea Dragon (2013)(Ma) DTS-HD Master Audio 7.1.xml,1622151931,1622151931
 Movie BEQs/Zombie 108 (2012)(Ma) TrueHD 7.1.xml,1623459245,1623459245
-Utilities/Metadata Population.ps1,1622797466,1646851852
+Utilities/Metadata Population.ps1,1622797466,1646989656
 Movie BEQs/Cabin Fever (2016) DTS-HD MA 5.1.xml,1623541663,1623541663
 Movie BEQs/The Mothman Prophecies (2002) DTS-HD HR 5.1.xml,1623555412,1623555412
 Movie BEQs/Doomsday Book (2012)(Ko) DTS-HD MA 5.1.xml,1623668386,1623668386
@@ -2280,7 +2280,7 @@ Movie BEQs/Jumanji The Next Level (2019) DTS-X.xml,1625275082,1635406805
 Movie BEQs/Tooth Fairy (2010) DTS-HD MA 5.1.xml,1625275082,1626114194
 Movie BEQs/Balls Out Gary the Tennis Coach (2009) AC3 5.1.xml,1625355254,1635406805
 Movie BEQs/Gremlins (1984) TrueHD 5.1.xml,1625355254,1634340079
-Utilities/TV Season Info Scratchpad.ps1,1625355254,1646305274
+Utilities/TV Season Info Scratchpad.ps1,1625355254,1646996317
 Movie BEQs/Just Before I Go (2014) TrueHD 5.1.xml,1625372870,1625372870
 Movie BEQs/Final Fantasy VII Advent Children (2005) Atmos.xml,1625441325,1635406805
 Movie BEQs/Final Fantasy VII Advent Children (2005)(Ja) Atmos.xml,1625441325,1635406805
@@ -8395,3 +8395,9 @@ TV BEQs/Neon Genesis Evangelion (1995)(S1 E1-26) DD+ 5.1.xml,1646818696,16468186
 Movie BEQs/B/The Bombardment (2021)(Da) DD+ 5.1.xml,1646851852,1646851852
 Movie BEQs/I/The Ice Road (2021) DD+ 5.1.xml,1646851852,1646851852
 TV BEQs/Clickbait (2021)(S1-E1-8) DD+ 5.1.xml,1646851852,1646851852
+Movie BEQs/A/The Adam Project (2022) DD+ 5.1.xml,1646989656,1646989656
+Movie BEQs/B/Batman & Robin (1997) Atmos.xml,1646996317,1646996317
+Movie BEQs/B/Batman (1989) Atmos.xml,1646996317,1646996317
+Movie BEQs/B/Batman Forever (1995) Atmos.xml,1646996317,1646996317
+Movie BEQs/B/Batman Returns (1992) Atmos.xml,1646996317,1646996317
+TV BEQs/The Last Kingdom (2015)(S5 E1-10) DD+ 5.1.xml,1646996317,1646996317
