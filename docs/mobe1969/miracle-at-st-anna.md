@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2008 • R • 2h 40m • War, Drama • mobe1969**
+**2008 • R • 2h 40m • Drama, War • mobe1969**
 
 Miracle at St. Anna chronicles the story of four American soldiers who are members of the all-black 92nd "Buffalo Soldier" Division stationed in Tuscany, Italy during World War II.
 

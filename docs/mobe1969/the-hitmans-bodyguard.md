@@ -10,3 +10,13 @@ The world's top bodyguard gets a new client, a hit man who must testify at the I
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Hitman%27s%20Bodyguard%20%282017%29%20Atmos.jpg)
 
+## DD+ 5.1
+
+**2017 • R • 1h 58m • Thriller, Comedy, Crime, Action • mobe1969**
+
+The world’s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
+
+[TMDB](390043)
+
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Hitman%27s%20Bodyguard%20%282017%29%20DD%2B%205.1.jpg)
+
