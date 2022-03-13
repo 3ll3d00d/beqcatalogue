@@ -1,0 +1,12 @@
+# Wonder Woman 1984
+
+## Atmos
+
+**2020 • PG-13 • 2h 31m • Action, Adventure, Fantasy • mobe1969**
+
+A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.
+
+[TMDB](464052)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wonder%20Woman%201984%20%282020%29%20Atmos.jpg)
+

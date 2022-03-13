@@ -1,6 +1,6 @@
 # Running Wild
 
-## AC3 2.0
+## DTS 5.1, AC3 2.0
 
 **2006 • NR • 2h 4m • Korean • Action, Crime, Thriller • mobe1969**
 
@@ -8,5 +8,5 @@ A grissled cop with tendencies towards excessive force teams up with an ambitiou
 
 [TMDB](32160)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Running%20Wild%20%282006%29%28Ko%29%20AC3%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Running%20Wild%20%282006%29%28Ko%29%20DTS%205.1.jpg)
 
