@@ -29,3 +29,12 @@
 
 ![img 0](https://i.imgur.com/0m3uUys.jpg)
 
+## Season 4
+
+* DD+ Atmos
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61509994)
+* Production Year: 2019
+
+![img 0](https://i.imgur.com/yST2eYS.jpg)
+
