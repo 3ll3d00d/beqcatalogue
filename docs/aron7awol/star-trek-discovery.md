@@ -20,3 +20,21 @@
 
 ![img 0](https://i.imgur.com/8QVgyg0.jpg)
 
+## Season 3
+
+* DD+
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61514054)
+* Production Year: 2017
+
+![img 0](https://i.imgur.com/EVJfWz6.jpg)
+
+## Season 4 Episodes 1-10, 12-13
+
+* DD+
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61514059)
+* Production Year: 2017
+
+![img 0](https://i.imgur.com/DekFYZe.jpg)
+
