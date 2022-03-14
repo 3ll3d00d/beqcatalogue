@@ -1,6 +1,6 @@
 # House of Wax
 
-## AC3 5.1
+## DD 5.1
 
 **2005 • R • 1h 53m • Drama, Horror • mobe1969**
 

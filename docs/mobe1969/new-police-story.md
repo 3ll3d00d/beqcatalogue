@@ -1,6 +1,6 @@
 # New Police Story
 
-## AC3 5.1
+## DD 5.1
 
 **2004 • R • 2h 3m • Cantonese • Drama, Crime, Action, Thriller • mobe1969**
 

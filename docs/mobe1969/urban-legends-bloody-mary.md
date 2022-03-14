@@ -1,6 +1,6 @@
 # Urban Legends: Bloody Mary
 
-## AC3 2.0
+## DD 2.0
 
 **2005 • R • 1h 33m • Thriller, Horror • mobe1969**
 

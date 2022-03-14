@@ -1,6 +1,6 @@
 # Running Wild
 
-## DTS 5.1, AC3 2.0
+## DTS 5.1, DD 2.0
 
 **2006 • NR • 2h 4m • Korean • Action, Crime, Thriller • mobe1969**
 

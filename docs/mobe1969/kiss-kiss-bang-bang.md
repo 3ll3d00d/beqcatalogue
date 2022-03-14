@@ -1,6 +1,6 @@
 # Kiss Kiss Bang Bang
 
-## AC3 5.1
+## DD 5.1
 
 **2005 • R • 1h 43m • Action, Crime, Comedy • mobe1969**
 

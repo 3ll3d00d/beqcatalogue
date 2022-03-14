@@ -1,6 +1,6 @@
 # A Very Harold & Kumar Christmas
 
-## AC3 5.1
+## DD 5.1
 
 Extended Cut
 

@@ -1,6 +1,6 @@
 # Idiocracy
 
-## AC3 5.1
+## DD 5.1
 
 **2006 • R • 1h 24m • Adventure, Comedy, Science Fiction • mobe1969**
 

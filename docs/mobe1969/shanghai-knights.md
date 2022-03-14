@@ -1,6 +1,6 @@
 # Shanghai Knights
 
-## AC3 5.1
+## DD 5.1
 
 **2003 • PG-13 • 1h 55m • Action, Adventure, Western, Comedy • mobe1969**
 

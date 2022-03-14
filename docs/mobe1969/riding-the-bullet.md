@@ -1,6 +1,6 @@
 # Riding the Bullet
 
-## AC3 5.1
+## DD 5.1
 
 **2004 • R • 1h 38m • Drama, Horror, Thriller • mobe1969**
 

@@ -1,6 +1,6 @@
 # Pulse
 
-## AC3 5.1
+## DD 5.1
 
 **2001 • R • 1h 59m • Japanese • Horror, Thriller • mobe1969**
 

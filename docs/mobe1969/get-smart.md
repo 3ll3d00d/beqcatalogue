@@ -1,6 +1,6 @@
 # Get Smart
 
-## AC3 5.1
+## DD 5.1
 
 **2008 • PG-13 • 1h 50m • Action, Comedy, Thriller • mobe1969**
 

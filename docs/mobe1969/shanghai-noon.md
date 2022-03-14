@@ -1,6 +1,6 @@
 # Shanghai Noon
 
-## AC3 5.1
+## DD 5.1
 
 **2000 • PG-13 • 1h 50m • Comedy, Action, Adventure, Western • mobe1969**
 

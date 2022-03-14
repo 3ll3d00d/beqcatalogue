@@ -1,6 +1,6 @@
 # Broken Lizard's Club Dread
 
-## AC3 2.0
+## DD 2.0
 
 **2004 • R • 1h 44m • Comedy, Horror • mobe1969**
 

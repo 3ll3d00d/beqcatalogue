@@ -1,6 +1,6 @@
 # Platoon
 
-## AC3 5.1
+## DD 5.1
 
 **1986 • R • 2h 0m • Drama, War, Action • mobe1969**
 

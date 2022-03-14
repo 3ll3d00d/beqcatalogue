@@ -1,6 +1,6 @@
 # Trinity and Beyond: The Atomic Bomb Movie
 
-## AC3 5.1
+## DD 5.1
 
 **1995 • NR • 1h 32m • Documentary • mobe1969**
 

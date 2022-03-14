@@ -1,6 +1,6 @@
 # Days of Glory
 
-## AC3 5.1, DTS 5.1
+## DD 5.1, DTS 5.1
 
 **2006 • R • 2h 8m • French • Drama, History, War • mobe1969**
 

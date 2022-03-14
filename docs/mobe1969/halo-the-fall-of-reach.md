@@ -4,7 +4,7 @@
 
 ## Season 1
 
-* AC3 5.1
+* DD 5.1
 
 * Production Year: 2015
 

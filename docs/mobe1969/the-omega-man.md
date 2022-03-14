@@ -1,6 +1,6 @@
 # The Omega Man
 
-## AC3 1.0
+## DD 1.0
 
 **1971 • PG • 1h 38m • Science Fiction, Action, Drama, Thriller • mobe1969**
 

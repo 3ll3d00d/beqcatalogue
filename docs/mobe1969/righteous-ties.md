@@ -1,6 +1,6 @@
 # Righteous Ties
 
-## DTS 5.1, AC3 5.1
+## DTS 5.1, DD 5.1
 
 **2006 • NR • 2h 6m • Korean • Action, Adventure, Crime, Drama • mobe1969**
 

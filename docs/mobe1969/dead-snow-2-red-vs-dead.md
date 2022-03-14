@@ -1,6 +1,6 @@
 # Dead Snow 2: Red vs. Dead
 
-## AC3 5.1
+## DD 5.1
 
 **2014 • R • 1h 40m • Norwegian • Action, Horror, Comedy • mobe1969**
 

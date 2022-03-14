@@ -1,6 +1,6 @@
 # Lost Boys: The Tribe
 
-## AC3 5.1
+## DD 5.1
 
 **2008 • R • 1h 34m • Crime, Drama, Horror, Thriller, Comedy • mobe1969**
 

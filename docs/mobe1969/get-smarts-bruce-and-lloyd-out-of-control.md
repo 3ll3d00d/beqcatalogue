@@ -1,6 +1,6 @@
 # Get Smart's Bruce and Lloyd Out of Control
 
-## AC3 5.1
+## DD 5.1
 
 **2008 • PG-13 • 1h 11m • Action, Comedy • mobe1969**
 

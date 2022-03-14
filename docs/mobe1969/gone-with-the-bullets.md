@@ -1,6 +1,6 @@
 # Gone with the Bullets
 
-## AC3 5.1
+## DD 5.1
 
 **2014 • NR • 2h 20m • Mandarin • Adventure, Comedy, Romance, Drama, Action • mobe1969**
 
