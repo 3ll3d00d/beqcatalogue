@@ -4,7 +4,7 @@
 
 **2020 • PG-13 • 1h 32m • Comedy, Science Fiction, Adventure • mobe1969**
 
-Yet to fulfill their rock and roll destiny, the now middle-aged best friends Bill and Ted set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they are helped by their daughters, a new batch of historical figures and a few music legends - to seek the song that will set their world right and bring harmony to the universe.
+Yet to fulfil their rock and roll destiny, the now middle-aged best friends Bill and Ted set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they are helped by their daughters, a new batch of historical figures and a few music legends — to seek the song that will set their world right and bring harmony to the universe.
 
 [TMDB](501979)
 
