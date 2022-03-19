@@ -16,7 +16,7 @@ A stoner and his dealer are forced to go on the run from the police after the po
 
 Unrated Cut
 
-**2008 • R • 1h 52m • Action, Crime, Comedy • mobe1969**
+**2008 • R • 1h 57m • Action, Comedy, Crime • mobe1969**
 
 A stoner and his dealer are forced to go on the run from the police after the pothead witnesses a cop commit a murder.
 

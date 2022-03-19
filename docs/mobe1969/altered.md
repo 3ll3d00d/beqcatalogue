@@ -1,6 +1,6 @@
 # Altered
 
-## TrueHD MA 5.1, DTS-HD MA 5.1
+## TrueHD 5.1, DTS-HD MA 5.1
 
 **2006 • R • 1h 28m • Thriller, Science Fiction, Horror • mobe1969**
 
