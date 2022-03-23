@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2012 • R • 1h 28m • Thriller, Crime, Action • mobe1969**
+**2012 • R • 1h 28m • Action, Thriller, Crime • mobe1969**
 
 A family on a road trip is stalked by criminals who stashed stolen money in their car.
 
