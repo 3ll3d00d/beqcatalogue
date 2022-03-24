@@ -1,5 +1,15 @@
 # The Hurt Locker
 
+## Atmos
+
+**2008 • R • 2h 11m • Drama, Thriller, War • mobe1969**
+
+During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.
+
+[TMDB](12162)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Hurt%20Locker%20%282008%29%20Atmos.jpg)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 2h 11m • Thriller, War, Drama • mobe1969**
@@ -8,5 +18,5 @@ Forced to play a dangerous game of cat-and-mouse in the chaos of war, an elite A
 
 [TMDB](12162)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Hurt%20Locker%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Hurt%20Locker%20%282008%29%20DTS-HD%20MA%205.1.jpg)
 
