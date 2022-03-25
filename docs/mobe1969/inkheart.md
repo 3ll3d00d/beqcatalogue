@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2008 • PG • 1h 46m • Fantasy, Family, Adventure • mobe1969**
+**2008 • PG • 1h 46m • Adventure, Family, Fantasy • mobe1969**
 
 The adventures of a father and his young daughter, in their search for a long lost book that will help reunite a missing, close relative.
 
