@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2012 • R • 1h 49m • Thriller, Crime, Drama • mobe1969**
+**2012 • R • 1h 49m • Crime, Drama, Thriller • mobe1969**
 
 Two young officers are marked for death after confiscating a small cache of money and firearms from the members of a notorious cartel during a routine traffic stop.
 
