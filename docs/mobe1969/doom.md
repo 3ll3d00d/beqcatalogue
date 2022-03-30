@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2005 • R • 1h 45m • Science Fiction, Action, Horror • mobe1969**
+**2005 • R • 1h 45m • Action, Horror, Science Fiction • mobe1969**
 
 A team of space marines known as the Rapid Response Tactical Squad, led by Sarge, is sent to a science facility on Mars after somebody reports a security breach. There, they learn that the alert came after a test subject, a mass murderer purposefully injected with alien DNA, broke free and began killing people. Dr. Grimm, who is related to team member Reaper, informs them all that the chromosome can mutate humans into monsters -- and is highly infectious.
 
