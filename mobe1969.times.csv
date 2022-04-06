@@ -4993,14 +4993,14 @@ Movie BEQs/G/Ghost Walk (2019)(Ko) DD+ 2.0.xml,1642113711,1642113711
 Movie BEQs/G/Ghost in the Shell (1995)(En) Atmos.xml,1642113711,1642113711
 Movie BEQs/G/Ghost in the Shell (1995)(Ja) Atmos.xml,1642113711,1642113711
 Movie BEQs/G/Ghost in the Shell (1995)(Ja) LPCM 2.0.xml,1642113711,1642113711
-Movie BEQs/G/Ghost in the Shell 2 Innocence (2004)(Ja) DTS-X.xml,1642113711,1642113711
-Movie BEQs/G/Ghost in the Shell 2 Innocence (2004)(Ja) TrueHD 6.1.xml,1642113711,1642113711
-Movie BEQs/G/Ghost in the Shell 2.0 (2008)(Ja) TrueHD 6.1.xml,1642113711,1642113711
-Movie BEQs/G/Ghost in the Shell SAC Individual Eleven (2006)(Ja) TrueHD 5.1.xml,1642113711,1642113711
-Movie BEQs/G/Ghost in the Shell SAC The Laughing Man (2005)(Ja) TrueHD 5.1.xml,1642113711,1642113711
+Movie BEQs/G/Ghost in the Shell 2 Innocence (2004)(Ja) DTS-X.xml,1642113711,1649153753
+Movie BEQs/G/Ghost in the Shell 2 Innocence (2004)(Ja) TrueHD 6.1.xml,1642113711,1649153753
+Movie BEQs/G/Ghost in the Shell 2.0 (2008)(Ja) TrueHD 6.1.xml,1642113711,1649153753
+Movie BEQs/G/Ghost in the Shell SAC Individual Eleven (2006)(Ja) TrueHD 5.1.xml,1642113711,1649153753
+Movie BEQs/G/Ghost in the Shell SAC The Laughing Man (2005)(Ja) TrueHD 5.1.xml,1642113711,1649153753
 Movie BEQs/G/Ghost in the Shell Solid State Society (2007)(Ja) TrueHD 5.1.xml,1642113711,1642113711
 Movie BEQs/G/Ghost in the Shell Solid State Society (2011)(Ja) TrueHD 7.1.xml,1642113711,1642113711
-Movie BEQs/G/Ghost in the Shell The New Movie (2015)(Ja) TrueHD 5.1.xml,1642113711,1642113711
+Movie BEQs/G/Ghost in the Shell The New Movie (2015)(Ja) TrueHD 5.1.xml,1642113711,1649153753
 Movie BEQs/G/Ghostbusters (1984) Atmos.xml,1642113711,1642113711
 Movie BEQs/G/Ghostbusters (2016) DTS-HD MA 5.1.xml,1642113711,1642113711
 Movie BEQs/G/Ghostbusters 2 (1989) Atmos.xml,1642113711,1642113711
@@ -5162,7 +5162,7 @@ Movie BEQs/H/Hunter Hunter (2020) DTS-HD MA 5.1.xml,1642113711,1642113711
 Movie BEQs/H/Hunter Killer (2018) Atmos.xml,1642113711,1643925564
 Movie BEQs/H/Husband Killers (2017)(Ca) TrueHD 5.1.xml,1642113711,1643925564
 Movie BEQs/H/Hydra (2019)(Ja) DTS-HD MA 5.1.xml,1642113711,1642113711
-Movie BEQs/H/Hyena Road (2015) DTS-HD MA 5.1.xml,1642113711,1643925564
+Movie BEQs/H/Hyena Road (2015) DTS-HD MA 5.1.xml,1642113711,1649155743
 Movie BEQs/H/Hypnotic (2021) DD+ 5.1.xml,1642113711,1642113711
 Movie BEQs/I/I Am All Girls (2021) DD+ 5.1.xml,1642113711,1642113711
 Movie BEQs/I/I Am Legend (2007) TrueHD 5.1.xml,1642113711,1642113711
@@ -6023,7 +6023,7 @@ Movie BEQs/S/Screamers (1995) AC3 5.1.xml,1642113711,1647222727
 Movie BEQs/S/Se7en (1995) DTS-HD MA 7.1.xml,1642113711,1642967655
 Movie BEQs/S/Sea Fog (2014)(Ko) DTS-HD MA 5.1.xml,1642113711,1642113711
 Movie BEQs/S/Seal Team Six The Raid on Osama Bin Laden (2012) DTS-HD MA 5.1.xml,1642113711,1642113711
-Movie BEQs/S/Seal Team Six The Raid on Osama Bin Laden (2012)(Extended) DTS-HD MA 5.1.xml,1642113711,1642113711
+Movie BEQs/S/Seal Team Six The Raid on Osama Bin Laden (2012)(Extended) DTS-HD MA 5.1.xml,1642113711,1649188870
 Movie BEQs/S/Season of the Witch (2011) DTS-HD MA 5.1.xml,1642113711,1642113711
 Movie BEQs/S/Second in Command (2006) DTS-HD MA 5.1.xml,1642113711,1642113711
 Movie BEQs/S/Secret Reunion (2010)(Ko) DTS-HD MA 5.1.xml,1642113711,1642113711
@@ -8540,3 +8540,10 @@ Movie BEQs/D/Dark Figure of Crime (2018)(Ko) DTS-HD MA 5.1.xml,1648976936,164897
 Movie BEQs/T/The Tax Collector (2020) DTS-HD MA 5.1.xml,1648976936,1648976936
 Movie BEQs/T/Training Day (2001) DD 5.1.xml,1648976936,1648976936
 Movie BEQs/W/The Witness (2018)(Ko) DTS-HD MA 5.1.xml,1648976936,1648976936
+Movie BEQs/B/Black Dynamite (2009) DTS-HD MA 5.1.xml,1649153753,1649153753
+Movie BEQs/G/Ghost in the Shell SAC Solid State Society (2011)(Ja) TrueHD 7.1.xml,1649153753,1649153753
+"Movie BEQs/P/Paul, Apostle of Christ (2018) DTS-HD MA 5.1.xml",1649153753,1649153753
+Movie BEQs/V/Voltage (2011)(Hi) DTS-HD MA 5.1.xml,1649153753,1649153753
+Movie BEQs/Z/Zero Dark Thirty (2012) Atmos.xml,1649197052,1649197052
+TV BEQs/The Mechanism (2018)(Po)(S1-E1-8) DD+ 5.1.xml,1649184121,1649184121
+TV BEQs/The Mechanism (2018)(Po)(S2-E1-8) DD+ 5.1.xml,1649184121,1649184121

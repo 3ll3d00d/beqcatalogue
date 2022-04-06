@@ -14,9 +14,11 @@ When the rumored whereabouts of Osama bin Laden are revealed, the CIA readies a 
 
 Extended Cut
 
-**2012 • NR • 1h 40m • Thriller, Action, Crime, Drama • mobe1969**
+**2012 • NR • 1h 41m • Thriller, Action, Crime, Drama • mobe1969**
 
 When the rumored whereabouts of Osama bin Laden are revealed, the CIA readies a team of seasoned U.S. Navy SEALs for the mission of a lifetime. Despite inconclusive evidence that bin Laden is inside the compound, and ignoring the possible ramifications of an unannounced attack on Pakistani soil, the Pentagon orders the attack. The SEAL Team bands together to complete their mission of justice in a riveting final showdown.
+
+The 'Code Name Geronimo' cut
 
 [TMDB](130267)
 

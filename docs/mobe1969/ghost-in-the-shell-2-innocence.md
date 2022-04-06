@@ -2,7 +2,7 @@
 
 ## DTS-X
 
-**2004 • PG-13 • 1h 40m • Japanese • Drama, Animation, Science Fiction • mobe1969**
+**2004 • PG-13 • 1h 40m • Japanese • Animation, Drama, Science Fiction • mobe1969**
 
 Groundbreaking director Mamoru Oshii continues to push the boundaries of art and anime with this universally acclaimed cyber thriller following cyborg detective Batou as he tries to unravel the reasons for a murderous robot revolt in the year 2032. A quest for a killer that becomes a mind bending search for the meaning of life.
 
@@ -12,7 +12,7 @@ Groundbreaking director Mamoru Oshii continues to push the boundaries of art and
 
 ## TrueHD 6.1
 
-**2004 • PG-13 • 1h 40m • Japanese • Animation, Science Fiction, Drama • mobe1969**
+**2004 • PG-13 • 1h 40m • Japanese • Animation, Drama, Science Fiction • mobe1969**
 
 Groundbreaking director Mamoru Oshii continues to push the boundaries of art and anime with this universally acclaimed cyber thriller following cyborg detective Batou as he tries to unravel the reasons for a murderous robot revolt in the year 2032. A quest for a killer that becomes a mind bending search for the meaning of life.
 
