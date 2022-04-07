@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2020 • NR • 2h 12m • Korean • Action, Thriller, War • mobe1969**
+**2020 • NR • 2h 2m • Korean • Action, Thriller, War • mobe1969**
 
 A futuristic film about a crisis near the brink of war after three leaders are kidnapped by a North Korean nuclear submarine in a coup d’état during a summit between the two Koreas and the United States.
 
