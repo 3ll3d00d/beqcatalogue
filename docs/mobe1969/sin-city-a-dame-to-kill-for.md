@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2014 • R • 1h 42m • Thriller, Crime, Action • mobe1969**
+**2014 • R • 1h 42m • Crime, Action, Thriller • mobe1969**
 
 Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.
 
