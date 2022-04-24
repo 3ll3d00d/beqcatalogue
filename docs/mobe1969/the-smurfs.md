@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2011 • PG • 1h 43m • Adventure, Comedy, Animation, Family, Fantasy • mobe1969**
+**2011 • PG • 1h 43m • Animation, Family, Adventure, Comedy, Fantasy • mobe1969**
 
 When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world and into ours -- in fact, smack dab in the middle of Central Park. Just three apples high and stuck in the Big Apple, the Smurfs must find a way to get back to their village before Gargamel tracks them down.
 

@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2017 • PG • 1h 29m • Comedy, Adventure, Animation, Family • mobe1969**
+**2017 • PG • 1h 29m • Family, Adventure, Animation, Comedy • mobe1969**
 
 In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.
 
