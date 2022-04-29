@@ -2,11 +2,11 @@
 
 ## DD 5.1
 
-**2012 • NR • 1h 25m • Mandarin • Thriller, Horror, Action • mobe1969**
+**2012 • M • 1h 58m • Mandarin • Action, Drama, Crime • mobe1969**
 
-"The Four" is a film encompassing the four horsemen of the apocalypse and their quest to gain control of the Earth, and the perils of one family in preventing them from doing so. Set in modern time with Bikers and Harley's.
+An undercover agent is assigned by his corrupt chief to infiltrate a rival department and sabotage their investigation of counterfeit currency. What he discovers is the counterfeiter's real plan. To overthrow the capital. Not by flooding it with funny money, but with an army of undead.
 
-[TMDB](346982)
+[TMDB](120143)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/The%20Four%20%282012%29%28Ma%29%20DD%205.1.jpg)
 
