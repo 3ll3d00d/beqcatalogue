@@ -10,3 +10,13 @@ When a Las Vegas performer-turned-snitch named Buddy Israel decides to turn stat
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Smokin%27%20Aces%20%282006%29%20DTS-HD%20MA%205.1.jpg)
 
+## DTS-X
+
+**2006 • R • 1h 49m • Action, Comedy, Crime, Thriller • mobe1969**
+
+When a Las Vegas performer-turned-snitch named Buddy Israel decides to turn state's evidence and testify against the mob, it seems that a whole lot of people would like to make sure he's no longer breathing.
+
+[TMDB](7516)
+
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Smokin%27%20Aces%20%282006%29%20DTS-X.jpg)
+
