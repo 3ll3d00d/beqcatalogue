@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2014 • NR • 1h 30m • Korean • Comedy, Thriller, Horror, Romance • mobe1969**
+**2014 • NR • 1h 30m • Korean • Thriller, Horror • mobe1969**
 
 A boy who can see ghosts moves to a small town, where he befriends a female ghost. The two work together to investigate a masked ghost who is murdering students one by one.
 
