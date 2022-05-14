@@ -1,22 +1,12 @@
 # The Lincoln Lawyer
 
-## Atmos
+* Author: mobe1969
 
-**2011 • R • 1h 59m • Thriller, Drama, Crime • mobe1969**
+## Season 1
 
-A lawyer conducts business from the back of his Lincoln town car while representing a high-profile client in Beverly Hills.
+* DD+ 5.1
 
-[TMDB](50348)
+* Production Year: 2022
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Lincoln%20Lawyer%20%282011%29%20Atmos.jpg)
-
-## DTS-HD MA 7.1
-
-**2011 • R • 1h 59m • Thriller, Drama, Crime • mobe1969**
-
-A lawyer conducts business from the back of his Lincoln town car while representing a high-profile client in Beverly Hills.
-
-[TMDB](50348)
-
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Lincoln%20Lawyer%20%282011%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Lincoln%20Lawyer%20%282022%29%28S1E1-10%29%20DD%2B%205.1.jpg)
 
