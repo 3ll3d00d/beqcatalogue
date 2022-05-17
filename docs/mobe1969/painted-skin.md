@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2008 • NR • 1h 43m • Mandarin • Fantasy, Action, Drama, Thriller • mobe1969**
+**2008 • NR • 1h 58m • Mandarin • Fantasy, Action, Drama, Thriller • mobe1969**
 
 Painted Skin is based on one of Pu Songling's classic short stories in Strange Stories from a Chinese Studio. Zhou Xun stars as Xiao Wei, a fox spirit that feasts on human hearts in order to maintain her lovely, youthful appearance. When General Wang Sheng (Chen Kun) 'rescues' her from a band of bandits and brings her home, trouble brews as the demon falls in love with the general.
 
@@ -12,7 +12,7 @@ Painted Skin is based on one of Pu Songling's classic short stories in Strange S
 
 ## LPCM 7.1
 
-**2008 • NR • 1h 43m • Mandarin • Fantasy, Action, Drama, Thriller • mobe1969**
+**2008 • NR • 1h 58m • Mandarin • Fantasy, Action, Drama, Thriller • mobe1969**
 
 Painted Skin is based on one of Pu Songling's classic short stories in Strange Stories from a Chinese Studio. Zhou Xun stars as Xiao Wei, a fox spirit that feasts on human hearts in order to maintain her lovely, youthful appearance. When General Wang Sheng (Chen Kun) 'rescues' her from a band of bandits and brings her home, trouble brews as the demon falls in love with the general.
 
