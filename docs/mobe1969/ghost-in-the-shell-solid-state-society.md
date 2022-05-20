@@ -8,5 +8,5 @@ The story takes place in the year 2034, two years after the events in Ghost in t
 
 [TMDB](18874)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghost%20in%20the%20Shell%20Solid%20State%20Society%20%282007%29%28Ja%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Ghost%20in%20the%20Shell%20SAC%20Solid%20State%20Society%20%282007%29%28Ja%29%20TrueHD%205.1.jpg)
 
