@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2009 • R • 1h 23m • Drama, Crime, Action, Thriller • mobe1969**
+**2009 • R • 1h 23m • Action, Crime, Drama, Thriller • mobe1969**
 
 A westerner named Casey, studying Ninjutsu in Japan, is asked by the Sensei to return to New York to protect the legendary Yoroi Bitsu, an armored chest that contains the weapons of the last Koga Ninja.
 
