@@ -10,3 +10,13 @@ A young man comes to possess a supernatural notebook, the Death Note, that grant
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Death%20Note%20%282017%29%20DD%2B%205.1.jpg)
 
+## DD+ Atmos
+
+**2017 • 18 • 1h 41m • Crime, Drama, Fantasy, Horror, Thriller • mobe1969**
+
+A young man comes to possess a supernatural notebook, the Death Note, that grants him the power to kill any person simply by writing down their name on the pages. He then decides to use the notebook to kill criminals and change the world, but an enigmatic detective attempts to track him down and end his reign of terror.
+
+[TMDB](351460)
+
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Death%20Note%20%282017%29%20DD%2B%20Atmos.jpg)
+

@@ -10,3 +10,13 @@ Warlords, warriors and statesmen wage a battle for supremacy in this fantasy tal
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dynasty%20Warriors%20%282021%29%28Ca%29%20DD%2B%205.1.jpg)
 
+## DD+ Atmos
+
+**2021 • PG-13 • 1h 58m • Cantonese • Action, Adventure, Fantasy • mobe1969**
+
+In the turbulent late Eastern Han Dynasty. Ambitious Dong Zhuo controls the court and the commonalty, and heroes from all over the country begin to rise.
+
+[TMDB](525660)
+
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dynasty%20Warriors%20%282021%29%28Ca%29%20DD%2B%20Atmos.jpg)
+
