@@ -1,6 +1,6 @@
 # Bruised
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2021 • R • 2h 9m • Drama • mobe1969**
 

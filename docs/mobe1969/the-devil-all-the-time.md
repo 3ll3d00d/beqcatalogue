@@ -1,6 +1,6 @@
 # The Devil All The Time
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2020 • R • 2h 18m • Crime, Drama, Thriller • mobe1969**
 

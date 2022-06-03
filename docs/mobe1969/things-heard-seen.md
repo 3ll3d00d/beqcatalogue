@@ -1,6 +1,6 @@
 # Things Heard & Seen
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2021 • NR • 2h 1m • Horror, Mystery, Drama, Thriller • mobe1969**
 

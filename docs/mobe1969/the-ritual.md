@@ -1,6 +1,6 @@
 # The Ritual
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2017 • R • 1h 34m • Horror, Thriller, Mystery • mobe1969**
 

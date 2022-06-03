@@ -1,6 +1,6 @@
 # Silverton Siege
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2022 • PG-13 • 1h 40m • Drama, Action, Crime • mobe1969**
 
