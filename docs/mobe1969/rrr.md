@@ -1,6 +1,6 @@
 # RRR
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2022 • PG-13 • 3h 7m • Hindi • Action, Drama, History, War • mobe1969**
 

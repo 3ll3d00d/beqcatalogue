@@ -1,6 +1,6 @@
 # Senior Year
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2022 • R • 1h 53m • Comedy • mobe1969**
 
