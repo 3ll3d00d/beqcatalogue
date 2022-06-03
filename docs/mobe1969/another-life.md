@@ -4,7 +4,7 @@
 
 ## Season 1
 
-* DD+ 5.1
+* DD+ Atmos, DD+ 5.1
 
 * Production Year: 2019
 
@@ -12,7 +12,7 @@
 
 ## Season 2
 
-* DD+ 5.1
+* DD+ Atmos, DD+ 5.1
 
 * Production Year: 2019
 
