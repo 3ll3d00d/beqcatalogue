@@ -1,6 +1,6 @@
 # Hubie Halloween
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2020 • PG-13 • 1h 43m • Comedy, Mystery, Horror • mobe1969**
 
