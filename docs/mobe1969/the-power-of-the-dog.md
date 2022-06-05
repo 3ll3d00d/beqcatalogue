@@ -1,6 +1,6 @@
 # The Power of the Dog
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2021 • R • 2h 7m • Western, Drama, Romance • mobe1969**
 

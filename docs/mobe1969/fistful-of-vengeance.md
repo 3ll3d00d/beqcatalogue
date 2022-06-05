@@ -1,6 +1,6 @@
 # Fistful of Vengeance
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2022 • R • 1h 34m • Action, Crime, Fantasy • mobe1969**
 

@@ -1,0 +1,12 @@
+# Etharkkum Thunindhavan
+
+## DD+ Atmos
+
+**2022 • NR • 2h 31m • Hindi • Action, Drama, Thriller • mobe1969**
+
+A lawyer turns judge jury and executioner and goes after a gang, led by a minister's son, that threatens women with videos of them.
+
+[TMDB](855397)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Etharkkum%20Thunindhavan%20%282022%29%28Hi%29%20DD%2B%20Atmos.jpg)
+

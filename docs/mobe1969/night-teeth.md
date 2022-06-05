@@ -1,6 +1,6 @@
 # Night Teeth
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2021 • R • 1h 47m • Horror, Thriller, Action • mobe1969**
 

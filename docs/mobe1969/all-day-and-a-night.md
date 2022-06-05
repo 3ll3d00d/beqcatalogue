@@ -1,6 +1,6 @@
 # All Day and a Night
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2020 • R • 2h 1m • Drama • mobe1969**
 
