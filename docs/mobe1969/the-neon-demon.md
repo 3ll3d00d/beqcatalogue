@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2016 • R • 1h 58m • Thriller, Horror, Mystery • mobe1969**
+**2016 • R • 1h 58m • Thriller, Drama, Horror • mobe1969**
 
 When aspiring model Jesse moves to Los Angeles, her youth and vitality are devoured by a group of beauty-obsessed women who will take any means necessary to get what she has.
 
