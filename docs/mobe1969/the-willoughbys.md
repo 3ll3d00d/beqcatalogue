@@ -1,6 +1,6 @@
 # The Willoughbys
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2020 • PG • 1h 32m • Animation, Comedy, Family • mobe1969**
 
