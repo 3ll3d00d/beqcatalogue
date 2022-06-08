@@ -1,6 +1,6 @@
 # Brazen
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2022 • NR • 1h 34m • Mystery, Thriller, Drama • mobe1969**
 

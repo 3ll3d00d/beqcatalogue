@@ -1,6 +1,6 @@
 # Rim of the World
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2019 • PG • 1h 39m • Science Fiction, Adventure, Action, Comedy • mobe1969**
 

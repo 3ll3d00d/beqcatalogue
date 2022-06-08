@@ -1,6 +1,6 @@
 # Afterlife of the Party
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2021 • PG • 1h 49m • Fantasy, Comedy, Drama • mobe1969**
 
