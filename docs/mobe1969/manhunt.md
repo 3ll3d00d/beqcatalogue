@@ -1,6 +1,6 @@
 # Manhunt
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2017 • 15 • 1h 46m • Mandarin • Action, Thriller, Crime • mobe1969**
 
