@@ -1,12 +1,12 @@
 # Cursed
 
-## DTS-HD MA 5.1
+* Author: mobe1969
 
-**2005 • PG-13 • 1h 37m • Horror, Comedy • mobe1969**
+## Season 1
 
-A werewolf loose in Los Angeles changes the lives of three young adults, who, after being mauled by the beast, learn they must kill their attacker if they hope to change their fate to avoid becoming werewolves too.
+* DD+ Atmos
 
-[TMDB](10012)
+* Production Year: 2020
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cursed%20%282005%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Cursed%20%282020%29%28S1-E1-10%29%20DD%2B%20Atmos.jpg)
 

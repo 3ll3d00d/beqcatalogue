@@ -1,6 +1,6 @@
 # Asakusa Kid
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2021 • 15 • 2h 3m • Japanese • Drama • mobe1969**
 

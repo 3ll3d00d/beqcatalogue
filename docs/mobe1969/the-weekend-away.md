@@ -1,6 +1,6 @@
 # The Weekend Away
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2022 • NR • 1h 29m • Thriller, Mystery • mobe1969**
 

@@ -1,6 +1,6 @@
 # Munich: The Edge of War
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2021 • PG-13 • 2h 9m • Drama, History, Thriller • mobe1969**
 
