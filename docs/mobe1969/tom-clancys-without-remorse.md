@@ -1,6 +1,6 @@
 # Tom Clancy's Without Remorse
 
-## DD+ 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2021 • R • 1h 49m • Action, Thriller • mobe1969**
 
