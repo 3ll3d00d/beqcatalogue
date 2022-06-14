@@ -28,7 +28,7 @@
 
 ## Season 4 Episodes 1-7
 
-* DD+ 5.1
+* DD+ Atmos, DD+ 5.1
 
 * Production Year: 2016
 
