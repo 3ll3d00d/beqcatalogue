@@ -1,6 +1,6 @@
 # 7 Prisoners
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2021 • NR • 1h 33m • Drama, Crime • mobe1969**
 
