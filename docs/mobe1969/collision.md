@@ -1,9 +1,12 @@
 # Collision
 
-* Author: mobe1969
-* Production Year: 2013
+## DD+ 5.1
 
-## DTS-HD MA 5.1
+**2022 • 15 • 1h 39m • Thriller, Crime • mobe1969**
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Intersections%20%282013%29%20DTS-HD%20MA%205.1.jpg)
+Over the course of one fateful day, a corrupt businessman and his socialite wife race to save their daughter from a notorious crime lord.
+
+[TMDB](975714)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Collision%20%282022%29%20DD%2B%205.1.jpg)
 
