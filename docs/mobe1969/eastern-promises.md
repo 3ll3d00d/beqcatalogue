@@ -6,6 +6,8 @@
 
 A Russian teenager, living in London, dies during childbirth but leaves clues to a midwife in her journal, that could tie her child to a rape involving a violent Russian mob family.
 
+Blu-Ray and new UHD
+
 [TMDB](2252)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Eastern%20Promises%20%282007%29%20DTS-HD%20MA%205.1.jpg)

@@ -22,6 +22,8 @@ UHD
 
 After a bizarre and near fatal encounter with a serial killer, a newswoman is sent to a rehabilitation center whose inhabitants may not be what they seem.
 
+UHD
+
 **UHD ONLY**
 
 [TMDB](11298)
