@@ -1,6 +1,6 @@
 # Last Night in Soho
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2021 • R • 1h 57m • Thriller, Horror, Mystery • mobe1969**
 
