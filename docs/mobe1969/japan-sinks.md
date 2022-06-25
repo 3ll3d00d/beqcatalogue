@@ -1,6 +1,6 @@
 # Japan Sinks
 
-## DTS 5.1
+## DTS-ES 6.1
 
 **2006 • NR • 2h 15m • Japanese • Drama, Thriller, Adventure, Science Fiction • mobe1969**
 
@@ -8,5 +8,5 @@ In the aftermath of a major earthquake, scientists predict that Japan will sink 
 
 [TMDB](16766)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sinking%20of%20Japan%20%282006%29%28Ja%29%20DTS%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sinking%20of%20Japan%20%282006%29%28Ja%29%20DTS-ES%206.1.jpg)
 
