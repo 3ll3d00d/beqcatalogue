@@ -10,3 +10,13 @@ Explore the mysterious and dangerous home of the king of the apes as a team of e
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kong%20Skull%20Island%20%282017%29%20Atmos.jpg)
 
+## DTS-HD MA 5.1
+
+**2017 • PG-13 • 1h 58m • Action, Adventure, Fantasy • mobe1969**
+
+Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
+
+[TMDB](293167)
+
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kong%20Skull%20Island%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+
