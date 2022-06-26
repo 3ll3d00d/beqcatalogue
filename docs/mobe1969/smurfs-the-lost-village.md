@@ -1,6 +1,6 @@
 # Smurfs: The Lost Village
 
-## Atmos
+## Atmos, DTS-HD MA 5.1
 
 **2017 • PG • 1h 29m • Family, Adventure, Animation, Comedy • mobe1969**
 
