@@ -1,6 +1,6 @@
 # Japan Sinks
 
-## DTS-ES 6.1
+## DTS-ES 6.1, DD-EX 6.1
 
 **2006 • NR • 2h 15m • Japanese • Drama, Thriller, Adventure, Science Fiction • mobe1969**
 
