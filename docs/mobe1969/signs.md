@@ -10,3 +10,13 @@ A family living on a farm finds mysterious crop circles in their fields which su
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Signs%20%282002%29%20LPCM%205.1.jpg)
 
+## LPCM 5.1
+
+**2002 • PG-13 • 1h 46m • Mystery, Science Fiction, Drama, Thriller • mobe1969**
+
+A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.
+
+[TMDB](2675)
+
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Signs%20%282002%29%20LPCM%205.1.jpg)
+

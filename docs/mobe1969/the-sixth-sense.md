@@ -10,3 +10,13 @@ Following an unexpected tragedy, a child psychologist named Malcolm Crowe meets 
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Sixth%20Sense%20%281999%29%20LPCM%205.1.jpg)
 
+## LPCM 5.1
+
+**1999 • PG-13 • 1h 47m • Mystery, Thriller, Drama • mobe1969**
+
+Following an unexpected tragedy, a child psychologist named Malcolm Crowe meets an nine year old boy named Cole Sear, who is hiding a dark secret.
+
+[TMDB](745)
+
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Sixth%20Sense%20%281999%29%20LPCM%205.1.jpg)
+
