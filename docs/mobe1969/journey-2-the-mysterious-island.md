@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2012 • PG • 1h 34m • Science Fiction, Adventure, Action • mobe1969**
+**2012 • PG • 1h 34m • Adventure, Action, Science Fiction • mobe1969**
 
 Sean Anderson partners with his mom's boyfriend on a mission to find his grandfather, who is thought to be missing on a mythical island.
 
