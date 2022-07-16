@@ -10,13 +10,3 @@ A washed-up private security agent has to escort a valuable Chinese antique out 
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/S.M.A.R.T.%20Chase%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 
-## DTS-HD MA 5.1
-
-**2017 • NR • 1h 35m • Action, Comedy, Adventure • mobe1969**
-
-A washed-up private security agent has to escort a valuable Chinese antique out of Shanghai but is ambushed en route.
-
-[TMDB](473920)
-
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/S.M.A.R.T.%20Chase%20%282017%29%20DTS-HD%20MA%205.1.jpg)
-
