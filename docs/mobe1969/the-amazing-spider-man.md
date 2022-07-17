@@ -1,6 +1,6 @@
 # The Amazing Spider-Man
 
-## Atmos
+## Atmos, DTS-HD MA 5.1
 
 **2012 • PG-13 • 2h 16m • Action, Adventure, Fantasy • mobe1969**
 

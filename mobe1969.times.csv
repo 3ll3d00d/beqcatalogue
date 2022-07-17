@@ -7401,7 +7401,7 @@ Movie BEQs/C/Cloverfield (2008) TrueHD 5.1.xml,1642312077,1642312077
 Movie BEQs/C/The Cabin in the Woods (2012) Atmos.xml,1642312077,1642312077
 Movie BEQs/C/The Call (2020)(Ko) DD+ 5.1.xml,1642312077,1642312077
 Movie BEQs/C/The Call Up (2016) DTS-HD MA 5.1.xml,1642312077,1643925564
-Movie BEQs/C/The Captain (2019)(Ma) TrueHD 5.1.xml,1642312077,1642312077
+Movie BEQs/C/The Captain (2019)(Ma) TrueHD 5.1.xml,1642312077,1658026687
 Movie BEQs/C/The Captive (2014) DTS-HD MA 5.1.xml,1642312077,1642312077
 Movie BEQs/C/The Cat Returns (2002)(Ja) DTS-HD MA 5.1.xml,1642312077,1642312077
 Movie BEQs/C/The Chaperone (2011) DTS-HD MA 5.1.xml,1642312077,1642312077
@@ -8168,7 +8168,7 @@ Movie BEQs/W/Wine Country (2019) DD+ 5.1.xml,1643453533,1643925564
 Movie BEQs/B/The Block Island Sound (2021) DD+ 5.1.xml,1643483643,1643925564
 Movie BEQs/F/The Falls (2021)(Ma) DD+ 5.1.xml,1643483643,1643483643
 Movie BEQs/R/Repo Men (2010)(UC) DTS-HD MA 5.1.xml,1643483643,1643483643
-Movie BEQs/A/The Amazing Spider-Man 2 (2014) Atmos.xml,1643570952,1643925564
+Movie BEQs/A/The Amazing Spider-Man 2 (2014) Atmos.xml,1643570952,1658026687
 Movie BEQs/B/Blade (1998) Atmos.xml,1643570952,1643570952
 Movie BEQs/B/Blade II (2002) DTS-HD MA 7.1.xml,1643570952,1643570952
 Movie BEQs/B/Blade Trinity (2004) DTS-HD MA 6.1.xml,1643570952,1643925564
@@ -8585,7 +8585,7 @@ Movie BEQs/S/Spider-Man (2002) Atmos.xml,1649879744,1649879744
 Movie BEQs/S/Spider-Man 2 (2004)(EC) DTS-HD MA 5.1.xml,1649879744,1649879744
 Movie BEQs/S/Spider-Man 2 (2004)(TC) Atmos.xml,1649879744,1649879744
 Movie BEQs/S/Spider-Man 3 (2007) Atmos.xml,1649879744,1649879744
-Movie BEQs/A/The Amazing Spider-Man (2012) Atmos.xml,1649981012,1649981012
+Movie BEQs/A/The Amazing Spider-Man (2012) Atmos.xml,1649981012,1658026687
 Movie BEQs/I/Iris 2 (2013)(Ko) DTS-HD MA 5.1.xml,1649961842,1649961842
 Movie BEQs/0-9/300 (2006) Atmos.xml,1649996106,1649996106
 Movie BEQs/0-9/300 Rise of an Empire (2014) DTS-HD MA 7.1.xml,1649996106,1649996106
@@ -9294,7 +9294,7 @@ Movie BEQs/H/Harry Potter and the Philosopher's Stone (2001) DTS-X.xml,165731689
 Movie BEQs/H/How to Train Your Dragon 2 (2014) DTS-X.xml,1657316897,1657316897
 Movie BEQs/H/King Arthur Legend of the Sword (2017) Atmos.xml,1657316897,1657316897
 Movie BEQs/R/Ralph Breaks the Internet (2018) Atmos.xml,1657316897,1657316897
-Movie BEQs/W/Wreck-It Ralph (2012) Atmos.xml,1657316897,1657316897
+Movie BEQs/W/Wreck-It Ralph (2012) Atmos.xml,1657316897,1658026687
 TV BEQs/4400 (2021)(S1 1-9) DD+ 5.1.xml,1657316897,1657316897
 TV BEQs/4400 (2021)(S1 10-13) DD+ 2.0.xml,1657316897,1657316897
 TV BEQs/Star Trek Prodigy (2021)(S1-E1-9) DD+ 5.1.xml,1657316897,1657316897
@@ -9798,3 +9798,10 @@ Movie BEQs/S/Singham (2011)(Hi) DD+ 5.1.xml,1657826293,1657826293
 TV BEQs/Kung Fu Panda The Dragon Knight (2022)(S1-E1-11) DD+ 5.1.xml,1657826293,1657826293
 TV BEQs/The Fame Game (2022)(Hi)(S1 1-8) DD+ Atmos.xml,1657862731,1657862731
 .github/workflows/trigger.yaml,1657924014,1657998079
+Movie BEQs/A/Abraham Lincoln Vampire Hunter (2012) DTS-HD MA 7.1.xml,1658026687,1658026687
+Movie BEQs/C/Coco (2017) Atmos.xml,1658026687,1658026687
+Movie BEQs/D/Don't Make Me Go (2022) DD+ 5.1.xml,1658026687,1658026687
+Movie BEQs/F/Fast & Furious Presents Hobbs & Shaw (2019) Atmos.xml,1658026687,1658026687
+Movie BEQs/H/House of Gucci (2021) DD+ 5.1.xml,1658026687,1658026687
+Movie BEQs/M/Monsters University (2013) Atmos.xml,1658026687,1658026687
+"Movie BEQs/M/Monsters, Inc. (2001) Atmos.xml",1658026687,1658026687

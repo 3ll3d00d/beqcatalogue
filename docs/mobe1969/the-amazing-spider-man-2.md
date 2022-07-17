@@ -1,6 +1,6 @@
 # The Amazing Spider-Man 2
 
-## Atmos
+## Atmos, DTS-HD MA 5.1
 
 **2014 • PG-13 • 2h 22m • Action, Adventure, Fantasy • mobe1969**
 
