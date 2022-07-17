@@ -1,6 +1,6 @@
 # Spider-Man: Far From Home
 
-## Atmos
+## Atmos, DTS-HD MA 5.1
 
 **2019 • PG-13 • 2h 9m • Action, Adventure, Science Fiction • mobe1969**
 

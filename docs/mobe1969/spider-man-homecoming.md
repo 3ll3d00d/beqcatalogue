@@ -1,6 +1,6 @@
 # Spider-Man: Homecoming
 
-## Atmos
+## Atmos, DTS-HD MA 5.1
 
 **2017 • PG-13 • 2h 13m • Action, Adventure, Science Fiction, Drama • mobe1969**
 

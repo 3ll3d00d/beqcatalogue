@@ -1,6 +1,6 @@
 # Spider-Man: Into the Spider-Verse
 
-## Atmos
+## Atmos, DTS-HD MA 5.1
 
 **2018 • PG • 1h 57m • Action, Adventure, Animation, Science Fiction • mobe1969**
 
