@@ -1,6 +1,6 @@
 # Monsters University
 
-## Atmos
+## Atmos, DTS-HD MA 7.1
 
 **2013 • G • 1h 44m • Animation, Family • mobe1969**
 
