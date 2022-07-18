@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2017 • PG-13 • 2h 14m • Drama, Action, History • mobe1969**
+**2017 • PG-13 • 2h 13m • Drama, Action, History • mobe1969**
 
 Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.
 
