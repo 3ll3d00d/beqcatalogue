@@ -1,6 +1,6 @@
 # Okja
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2017 • PG-13 • 2h 2m • Adventure, Drama, Science Fiction • mobe1969**
 
