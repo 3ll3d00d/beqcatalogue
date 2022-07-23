@@ -7,6 +7,9 @@ theme:
   favicon: 'img/icon.ico'
   features:
     - instant
+    - search.suggest
+    - search.highlight
+    - search.share
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
