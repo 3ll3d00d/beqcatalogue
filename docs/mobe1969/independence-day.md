@@ -4,7 +4,7 @@
 
 Extended Cut
 
-**1996 • PG-13 • 2h 25m • Adventure, Action, Science Fiction • mobe1969**
+**1996 • PG-13 • 2h 34m • Action, Adventure, Science Fiction • mobe1969**
 
 On July 2, a giant alien mothership enters orbit around Earth and deploys several dozen saucer-shaped 'destroyer' spacecraft that quickly lay waste to major cities around the planet. On July 3, the United States conducts a coordinated counterattack that fails. On July 4, a plan is devised to gain access to the interior of the alien mothership in space, in order to plant a nuclear missile.
 
