@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2019 • IIB • 1h 40m • Cantonese • Drama, Action, Thriller • mobe1969**
+**2019 • NR • 1h 40m • Cantonese • Drama, Action, Thriller • mobe1969**
 
 A financial tycoon, once a triad member, tries to eradicate the drug market while an old accomplice aims to be Hong Kong's first drug lord.
 
