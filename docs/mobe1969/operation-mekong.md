@@ -2,7 +2,7 @@
 
 ## DTS-X
 
-**2016 • NR • 2h 4m • Mandarin • Crime, War, Adventure, Action • mobe1969**
+**2016 • R • 2h 4m • Mandarin • Action, Adventure, Crime, War • mobe1969**
 
 Chinese narco-cops take their mission to the Golden Triangle following the Mekong River massacre of innocent fishermen by the region's drug lord.
 
