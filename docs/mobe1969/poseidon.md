@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2006 • PG-13 • 1h 39m • Adventure, Thriller, Action, Drama • mobe1969**
+**2006 • PG-13 • 1h 38m • Adventure, Action, Drama, Thriller • mobe1969**
 
 A packed cruise ship traveling the Atlantic is hit and overturned by a massive wave, compelling the passengers to begin a dramatic fight for their lives.
 
