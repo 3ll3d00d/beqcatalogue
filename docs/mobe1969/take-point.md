@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2018 • 15 • 2h 4m • Korean • Action • mobe1969**
+**2018 • NR • 2h 4m • Korean • Action • mobe1969**
 
 On the day of the U.S. presidential election in 2024, a team of elite mercenaries embark on a secret CIA mission to abduct North Korea's politician in an underground bunker below the Korean Demilitarized Zone. However, they get caught in the crossfire which causes tensions to escalate to the brink of World War III.
 
