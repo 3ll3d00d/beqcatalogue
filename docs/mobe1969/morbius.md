@@ -1,6 +1,6 @@
 # Morbius
 
-## Atmos
+## Atmos, DTS-HD MA 5.1
 
 **2022 • PG-13 • 1h 45m • Action, Science Fiction, Fantasy • mobe1969**
 
