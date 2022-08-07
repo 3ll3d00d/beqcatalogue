@@ -2,9 +2,9 @@
 
 ## DTS-HD MA 5.1
 
-**2021 • R • 1h 40m • Action, Science Fiction, Thriller, Mystery • mobe1969**
+**2021 • R • 1h 34m • Action, Science Fiction, Thriller • mobe1969**
 
-A retired special forces officer is trapped in a never-ending time loop on the day of his death.
+A former special forces agent is trapped in a time loop and relives his death over and over again. To escape the terrible situation, he must track down those responsible and stop them.
 
 [TMDB](513310)
 
