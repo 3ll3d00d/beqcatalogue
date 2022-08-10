@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2000 • PG-13 • 1h 38m • Thriller, Adventure, Crime, Comedy, Action • mobe1969**
+**2000 • PG-13 • 1h 38m • Action, Adventure, Comedy, Crime, Thriller • mobe1969**
 
 Three women, detectives with a mysterious boss, retrieve stolen voice-ID software, using martial arts, tech skills, and sex appeal.
 
