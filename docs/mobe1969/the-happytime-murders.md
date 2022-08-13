@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 7.1
 
-**2018 • R • 1h 31m • Comedy, Action, Crime • mobe1969**
+**2018 • R • 1h 31m • Action, Comedy, Crime • mobe1969**
 
 In a world where human beings and puppets live together, when the members of the cast of a children's television show aired during the 1990s begin to get murdered one by one, puppet Phil Philips, a former LAPD detective who fell in disgrace and turned into a private eye, takes on the case at the request of his old boss in order to assist detective Edwards, who was his partner in the past.
 
