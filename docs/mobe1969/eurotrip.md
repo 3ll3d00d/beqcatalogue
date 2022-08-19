@@ -2,7 +2,9 @@
 
 ## DTS-HD MA 5.1
 
-**2004 • R • 1h 33m • Comedy • mobe1969**
+Theatrical Cut
+
+**2004 • R • 1h 30m • Comedy • mobe1969**
 
 When Scott learns that his longtime cyber-buddy from Berlin is a gorgeous young woman, he and his friends embark on a trip across Europe.
 
