@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2022 • R • 1h 39m • Action, Thriller • mobe1969**
+**2022 • R • 1h 32m • Action, Thriller • mobe1969**
 
 A group of officers based in a labyrinthine top-secret must fight for their lives against Hatchet, a brilliant and infamous high-value detainee. When he escapes, his mysterious and deadly agenda has far reaching and dire consequences.
 
