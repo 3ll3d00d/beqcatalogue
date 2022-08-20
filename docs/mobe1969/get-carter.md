@@ -1,12 +1,12 @@
 # Get Carter
 
-## DTS-HD MA 5.1
+## LPCM 1.0
 
-**2000 • R • 1h 42m • Action, Drama, Thriller, Crime • mobe1969**
+**1971 • R • 1h 52m • Crime, Thriller • mobe1969**
 
-Remake of the British classic. Jack Carter, a mob enforcer living in Las Vegas, travels back to his hometown of Seattle for his brother's funeral. During this visit, Carter realizes that the death of his brother was not accidental, but a murder. With this knowledge, Carter sets out to kill all those responsible.
+Jack Carter is a small-time hood working in London. When word reaches him of his brother's death, he travels to Newcastle to attend the funeral. Refusing to accept the police report of suicide, Carter seeks out his brother’s friends and acquaintances to learn who murdered his sibling and why.
 
-[TMDB](10461)
+[TMDB](1485)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Get%20Carter%20%282000%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Get%20Carter%20%281971%29%20LPCM%201.0.jpg)
 
