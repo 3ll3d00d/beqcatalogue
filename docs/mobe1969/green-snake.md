@@ -2,9 +2,9 @@
 
 ## DD+ 5.1
 
-**2021 • NR • 2h 11m • Mandarin • Animation, Fantasy, Action, Adventure • mobe1969**
+**2021 • 12 • 2h 11m • Mandarin • Animation, Fantasy, Action, Adventure • mobe1969**
 
-While trying to free her sister from Fahai's clutches, Xiao Qing/Verta winds up in a dystopian city and meets a mysterious man who can't recall his past lives.  The sequel to Light Chaser's animated film about the legend of the White Snake.
+While trying to free her sister from Fahai's clutches, Xiao Qing winds up in a dystopian city and meets a mysterious man who can't recall his past life.
 
 [TMDB](795607)
 
