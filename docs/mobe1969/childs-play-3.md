@@ -1,5 +1,15 @@
 # Child's Play 3
 
+## Atmos
+
+**1991 • R • 1h 30m • Horror, Thriller • mobe1969**
+
+One of filmdom's most notorious killers is back to wreak more mayhem as Chucky continues his quest to possess the body of a human child. Eight years after seemingly destroying the killer doll, Andy Barclay turns 16 and is placed in a military school. Meanwhile, the greedy president of Play Pals Toy Company decides to resurrect the popular Good Guys doll line, confident that all the bad publicity is forgotten. As the assembly line recreates the first doll from a mass of melted plastic, the spirit of Chucky returns to renew his quest and seek revenge on Andy. Once again it's up to Andy to stop the unrelenting killer in this fast-paced thriller.
+
+[TMDB](11187)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Child%27s%20Play%203%20%281991%29%20Atmos.jpg)
+
 ## DTS-HD MA 2.0
 
 **1991 • R • 1h 30m • Horror, Action, Thriller • mobe1969**
@@ -8,5 +18,5 @@ Eight years have passed since the events of the second film. Chucky has been res
 
 [TMDB](11187)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Child%27s%20Play%203%20%281991%29%20DTS-HD%20MA%202.0.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Child%27s%20Play%203%20%281991%29%20DTS-HD%20MA%202.0.jpg)
 

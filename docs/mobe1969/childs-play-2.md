@@ -1,5 +1,15 @@
 # Child's Play 2
 
+## Atmos
+
+**1990 • R • 1h 24m • Horror, Thriller • mobe1969**
+
+Chucky's back! The notorious killer doll with the satanic smile comes back to life in this new chapter depicting the terrifying struggle between young Andy Barclay and the demonic doll attempting to possess his soul. Despite being roasted to a crisp in his last escapade, Chucky rises from the ashes after being reconstructed by a toy factory to dispel the negative publicity surrounding the doll. Back in one piece, Chucky tracks his prey to a foster home where the chase begins again in this fiendishly clever sequel to the enormously popular original.
+
+[TMDB](11186)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Child%27s%20Play%202%20%281990%29%20Atmos.jpg)
+
 ## DTS-HD MA 2.0
 
 **1990 • R • 1h 24m • Drama, Horror • mobe1969**
@@ -8,5 +18,5 @@ When Andy's mother is admitted to a psychiatric hospital, the young boy is place
 
 [TMDB](11186)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Child%27s%20Play%202%20%281990%29%20DTS-HD%20MA%202.0.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Child%27s%20Play%202%20%281990%29%20DTS-HD%20MA%202.0.jpg)
 
