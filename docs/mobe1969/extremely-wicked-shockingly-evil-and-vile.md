@@ -1,6 +1,6 @@
 # Extremely Wicked, Shockingly Evil and Vile
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2019 • R • 1h 51m • Thriller, Crime, Drama • mobe1969**
 
