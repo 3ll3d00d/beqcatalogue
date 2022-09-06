@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Both Cuts Identical
+Both cuts
 
 **2013 • R • 1h 40m • Drama, Horror • mobe1969**
 
