@@ -2,11 +2,13 @@
 
 ## DTS-HD MA 5.1
 
-**2017 • PG-13 • 1h 51m • Horror, Drama, Thriller • mobe1969**
+**1990 • R • 1h 55m • Drama, Science Fiction, Horror • mobe1969**
 
-Five medical students, hoping to understand the mystery of what lies beyond life, embark on a dangerous experiment. When their hearts are stopped for a short period of time, they have a near-death experience
+Five medical students want to find out if there is life after death. They plan to stop one of their hearts for a few seconds, thus simulating death, and then bring the person back to life.
 
-[TMDB](400710)
+UHD
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flatliners%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+[TMDB](1551)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Flatliners%20%281990%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)
 
