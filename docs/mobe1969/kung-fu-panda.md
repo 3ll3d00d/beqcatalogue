@@ -1,6 +1,6 @@
 # Kung Fu Panda
 
-## DTS-HD MA 5.1
+## TrueHD 5.1
 
 **2008 • PG • 1h 30m • Action, Adventure, Animation, Family, Comedy • mobe1969**
 
@@ -8,5 +8,5 @@ When the Valley of Peace is threatened, lazy Po the panda discovers his destiny 
 
 [TMDB](9502)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Panda%20%282008%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Panda%20%282008%29%20TrueHD%205.1.jpg)
 
