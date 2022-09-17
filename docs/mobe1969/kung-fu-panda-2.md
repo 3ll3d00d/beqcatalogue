@@ -1,6 +1,6 @@
 # Kung Fu Panda 2
 
-## DTS-HD MA 7.1
+## TrueHD 7.1
 
 **2011 • PG • 1h 31m • Animation, Family • mobe1969**
 
@@ -8,5 +8,5 @@ Po is now living his dream as The Dragon Warrior, protecting the Valley of Peace
 
 [TMDB](49444)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Panda%202%20%282011%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kung%20Fu%20Panda%202%20%282011%29%20TrueHD%207.1.jpg)
 
