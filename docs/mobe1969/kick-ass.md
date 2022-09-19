@@ -1,6 +1,6 @@
 # Kick-Ass
 
-## Atmos, DTS-HD MA 7.1
+## Atmos, DTS-X, DTS-HD MA 7.1
 
 **2010 • R • 1h 57m • Action, Crime • mobe1969**
 
