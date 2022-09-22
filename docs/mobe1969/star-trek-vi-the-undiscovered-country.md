@@ -2,7 +2,9 @@
 
 ## TrueHD 7.1
 
-**1991 • PG • 1h 53m • Science Fiction, Action, Adventure, Thriller • mobe1969**
+Theatrical Cut
+
+**1991 • PG • 1h 50m • Science Fiction, Action, Adventure, Thriller • mobe1969**
 
 After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their dealiest encounter.
 
