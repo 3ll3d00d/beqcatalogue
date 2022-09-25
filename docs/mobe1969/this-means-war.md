@@ -4,7 +4,7 @@
 
 Theatrical Cut
 
-**2012 • PG-13 • 1h 43m • Action, Comedy, Romance • mobe1969**
+**2012 • PG-13 • 1h 38m • Action, Comedy, Romance • mobe1969**
 
 Two top CIA operatives wage an epic battle against one another after they discover they are dating the same woman.
 
