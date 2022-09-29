@@ -2,7 +2,7 @@
 
 ## LPCM 5.1
 
-**2009 • R • 1h 30m • Comedy • mobe1969**
+**2009 • R • 1h 38m • Comedy • mobe1969**
 
 The brutal former heavyweight boxing champion Cleon "Slammin'" Salmon (Duncan), now owner of a Miami restaurant, institutes a competition to see which waiter can earn the most money in one night: the winner stands to gain $10,000, while the loser will endure a beating at the hands of the champ.
 
