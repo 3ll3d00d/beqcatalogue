@@ -8,5 +8,5 @@ Five medical students, hoping to understand the mystery of what lies beyond life
 
 [TMDB](400710)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Flatliners%20%282017%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Flatliners%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

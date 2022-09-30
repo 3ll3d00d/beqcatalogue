@@ -8,5 +8,5 @@ The tables are turned as four teenagers are sucked into Jumanji's world - pitted
 
 [TMDB](353486)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jumanji%20Welcome%20to%20the%20Jungle%20%282017%29%20Atmis.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jumanji%20Welcome%20to%20the%20Jungle%20%282017%29%20Atmos.jpg)
 
