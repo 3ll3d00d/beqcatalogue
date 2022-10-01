@@ -10,5 +10,5 @@ Cousins, Bo and Luke Duke, with the help of their eye-catching cousin, Daisy and
 
 [TMDB](6519)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dukes%20of%20Hazzard%20%282005%29%28UC%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Dukes%20of%20Hazzard%20%282005%29%28UC%29%20DD%2B%205.1.jpg)
 
