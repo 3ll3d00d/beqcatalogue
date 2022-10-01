@@ -1,10 +1,10 @@
 # Mars Attacks!
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **1996 • PG-13 • 1h 46m • Comedy, Fantasy, Science Fiction • mobe1969**
 
-'We come in peace' is not what those green men from Mars mean when they invade our planet, armed with irresistible weapons and a cruel sense of humor.  This star studded cast must play victim to the alien's fun and games in this comedy homage to science fiction films of the '50s and '60s.
+A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, "come in peace." U.S. President James Dale receives assurance from science professor Donald Kessler that the Martians' mission is a friendly one. But when a peaceful exchange ends in the total annihilation of the U.S. Congress, military men call for a full-scale nuclear retaliation.
 
 [TMDB](75)
 
