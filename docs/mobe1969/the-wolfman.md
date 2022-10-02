@@ -4,7 +4,7 @@
 
 Extended Cut
 
-**2010 • R • 1h 42m • History, Horror, Drama • mobe1969**
+**2010 • R • 1h 59m • Horror, History, Drama, Thriller • mobe1969**
 
 Lawrence Talbot, an American man on a visit to Victorian London to make amends with his estranged father, gets bitten by a werewolf and, after a moonlight transformation, leaves him with a savage hunger for flesh.
 
