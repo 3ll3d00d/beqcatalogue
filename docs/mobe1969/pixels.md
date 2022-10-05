@@ -18,5 +18,5 @@ Video game experts are recruited by the military to fight 1980s-era video game c
 
 [TMDB](257344)
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pixels%20%282015%29%20%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pixels%20%282015%29%20DTS-HD%20MA%205.1.jpg)
 
