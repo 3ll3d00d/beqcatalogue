@@ -1,6 +1,6 @@
 # Ice Age: Collision Course
 
-## DTS-HD MA 7.1
+## Atmos, DTS-HD MA 7.1
 
 **2016 • PG • 1h 35m • Adventure, Animation, Family, Comedy, Science Fiction • mobe1969**
 
