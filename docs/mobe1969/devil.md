@@ -1,6 +1,6 @@
 # Devil
 
-## DD+ 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2010 • PG-13 • 1h 20m • Horror, Mystery, Thriller • mobe1969**
 

@@ -1,0 +1,12 @@
+# The Craft
+
+## DTS-HD MA 5.1
+
+**1996 • R • 1h 41m • Horror, Drama, Fantasy • mobe1969**
+
+A Catholic school newcomer falls in with a clique of teen witches who wield their powers against all who dare to cross them -- be they teachers, rivals or meddlesome parents.
+
+[TMDB](9100)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Craft%20%281996%29%20DTS-HD%20MA%205.1.jpg)
+
