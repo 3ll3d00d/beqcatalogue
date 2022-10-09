@@ -1,12 +1,12 @@
-# Mother
+# mother!
 
-## DTS-HD MA 5.1
+## Atmos
 
-**2009 • NR • 2h 9m • Korean • Crime, Drama, Mystery, Thriller • mobe1969**
+**2017 • R • 2h 1m • Drama, Horror, Mystery • mobe1969**
 
-A mother lives quietly with her son. One day, a girl is brutally killed, and the boy is charged with the murder. Now, it's his mother's mission to prove him innocent.
+A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
-[TMDB](30018)
+[TMDB](381283)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mother%20%282009%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/mother%21%20%282017%29%20Atmos.jpg)
 
