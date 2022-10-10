@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2022 • R • 0h 0m • Comedy, Science Fiction • mobe1969**
+**2022 • R • 1h 52m • Comedy, Science Fiction • mobe1969**
 
 Three friends come together to defend their valuable mining company from…aliens?! What could possibly go wrong?
 
