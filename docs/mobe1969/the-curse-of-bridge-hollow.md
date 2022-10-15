@@ -2,7 +2,7 @@
 
 ## DD+ Atmos
 
-**2022 • NR • 1h 29m • Horror, Comedy, Adventure • mobe1969**
+**2022 • NR • 1h 32m • Horror, Comedy, Adventure • mobe1969**
 
 A Halloween-hating dad reluctantly teams up with his teenage daughter when an evil spirit wreaks havoc by making their town's decorations come to life.
 
