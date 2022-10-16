@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2019 • 15 • 1h 53m • Korean • Horror, Thriller • mobe1969**
+**2019 • NR • 1h 53m • Korean • Horror, Thriller • mobe1969**
 
 An evil spirit that changes faces infiltrates one family placing one brother in danger while the other tries to save him.
 

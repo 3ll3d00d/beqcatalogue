@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 7.1
 
-**2012 • R • 1h 34m • Action, Fantasy, Horror • mobe1969**
+**2012 • R • 1h 45m • Action, Fantasy, Horror • mobe1969**
 
 President Lincoln's mother is killed by a supernatural creature, which fuels his passion to crush vampires and their slave-owning helpers.
 
