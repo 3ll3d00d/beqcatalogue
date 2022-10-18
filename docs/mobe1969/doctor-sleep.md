@@ -4,7 +4,7 @@
 
 Director's Cut
 
-**2019 • R • 2h 32m • Horror, Drama, Fantasy, Thriller • mobe1969**
+**2019 • R • 3h 0m • Horror, Drama, Fantasy, Thriller • mobe1969**
 
 Still irrevocably scarred by the trauma he endured as a child at the Overlook, Dan Torrance has fought to find some semblance of peace. But that peace is shattered when he encounters Abra, a courageous teenager with her own powerful extrasensory gift, known as the 'shine'. Instinctively recognising that Dan shares her power, Abra has sought him out, desperate for his help against the merciless Rose the Hat and her followers.
 
