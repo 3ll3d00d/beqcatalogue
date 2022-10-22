@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2007 • R • 1h 26m • Fantasy, Comedy, Horror • mobe1969**
+**2007 • R • 1h 26m • Comedy, Horror, Fantasy • mobe1969**
 
 B Movie Legend Bruce Campbell is mistaken for his character Ash from the Evil Dead trilogy and forced to fight a real monster in a small town in Oregon.
 
