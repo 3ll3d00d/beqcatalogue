@@ -1,6 +1,6 @@
 # In the Blood
 
-## TrueHD 5.1
+## TrueHD 5.1, DD+ 5.1
 
 **2015 • R • 1h 48m • Thriller, Action, Crime • mobe1969**
 

@@ -1,6 +1,6 @@
 # Jo Pil-ho: The Dawning Rage
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2019 • NR • 2h 7m • Korean • Action, Crime, Drama • mobe1969**
 
