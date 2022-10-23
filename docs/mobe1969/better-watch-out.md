@@ -2,9 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2017 • R • 1h 29m • Horror, Thriller • mobe1969**
+**2017 • R • 1h 34m • Horror, Thriller • mobe1969**
 
 On a quiet suburban street tucked within a 'safe neighborhood', a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is far from a normal home invasion.
+
+Australian blu-ray (longer cut)
 
 [TMDB](406994)
 
