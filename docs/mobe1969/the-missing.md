@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2003 • R • 2h 15m • Thriller, Western, Adventure • mobe1969**
+**2003 • R • 2h 17m • Thriller, Western, Adventure • mobe1969**
 
 When rancher and single mother of two Maggie Gilkeson sees her teenage daughter, Lily, kidnapped by Apache rebels, she reluctantly accepts the help of her estranged father, Samuel, in tracking down the kidnappers. Along the way, the two must learn to reconcile the past and work together if they are going to have any hope of getting Lily back before she is taken over the border and forced to become a prostitute.
 
