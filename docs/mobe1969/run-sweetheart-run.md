@@ -1,0 +1,12 @@
+# Run Sweetheart Run
+
+## DD+ 5.1
+
+**2022 • R • 1h 43m • Horror, Thriller • mobe1969**
+
+A woman runs for her life though the streets of Los Angeles after her blind date suddenly turns violent.
+
+[TMDB](532870)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Run%20Sweetheart%20Run%20%282022%29%20DD%2B%205.1.jpg)
+
