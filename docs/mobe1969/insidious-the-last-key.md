@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2018 • PG-13 • 1h 58m • Horror, Thriller, Mystery • mobe1969**
+**2018 • PG-13 • 1h 43m • Horror, Mystery, Thriller • mobe1969**
 
 Parapsychologist Elise Rainier and her team travel to Five Keys, NM, to investigate a man’s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family’s old home.
 

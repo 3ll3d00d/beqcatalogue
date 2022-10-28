@@ -4,7 +4,7 @@
 
 **2007 • R • 1h 37m • Action, Adventure, Horror, Thriller • mobe1969**
 
-A young reporter (Lucy Liu) wakes up and realises that she is not alive anymore. She goes on a personal vendetta for a group a cultists that are responsible for her death.
+A reporter on the trail of a sinister cult wakes up in a morgue to find herself a member of the undead. She goes on a personal vendetta for a group a cultists that are responsible for her death.
 
 [TMDB](1872)
 

@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2015 • PG-13 • 1h 37m • Thriller, Drama, Horror • mobe1969**
+**2015 • PG-13 • 1h 37m • Horror, Drama, Thriller • mobe1969**
 
 A twisted new tale of terror begins for a teenage girl and her family, and revealing more mysteries of the otherworldly realm, 'The Further'.
 
