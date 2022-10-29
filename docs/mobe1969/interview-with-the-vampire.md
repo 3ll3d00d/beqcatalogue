@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**1994 • R • 2h 3m • Drama, Horror, Fantasy • mobe1969**
+**1994 • R • 2h 3m • Horror, Drama, Fantasy • mobe1969**
 
 A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.
 
