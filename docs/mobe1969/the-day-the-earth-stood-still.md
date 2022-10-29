@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2008 • PG-13 • 1h 44m • Science Fiction, Thriller, Drama • mobe1969**
+**2008 • PG-13 • 1h 44m • Drama, Science Fiction, Thriller • mobe1969**
 
 A representative of an alien race that went through drastic evolution to survive its own climate change, Klaatu comes to Earth to assess whether humanity can prevent the environmental damage they have inflicted on their own planet. When barred from speaking to the United Nations, he decides humankind shall be exterminated so the planet can survive.
 
