@@ -1,6 +1,6 @@
 # Underwater
 
-## DTS-HD MA 7.1
+## DTS-HD MA 7.1, DD 5.1
 
 **2020 • PG-13 • 1h 35m • Action, Horror, Science Fiction, Thriller • mobe1969**
 
