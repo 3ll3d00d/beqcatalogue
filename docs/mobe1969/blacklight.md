@@ -1,6 +1,6 @@
 # Blacklight
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • PG-13 • 1h 44m • Action, Thriller • mobe1969**
 

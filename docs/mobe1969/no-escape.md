@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2015 • R • 1h 43m • Thriller, Action • mobe1969**
+**2015 • R • 1h 43m • Thriller • mobe1969**
 
 In their new overseas home, an American family soon finds themselves caught in the middle of a coup, and they frantically look for a safe escape in an environment where foreigners are being immediately executed.
 
