@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2002 • R • 2h 18m • Action, War, History • mobe1969**
+**2002 • R • 2h 18m • Action, History, War • mobe1969**
 
 The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.
 
