@@ -4,7 +4,7 @@
 
 Extended Cut
 
-**2011 • PG-13 • 1h 50m • Action, Fantasy, Thriller • mobe1969**
+**2011 • PG-13 • 2h 7m • Action, Fantasy, Thriller • mobe1969**
 
 A young girl is institutionalized by her abusive stepfather. Retreating to an alternative reality as a coping strategy, she envisions a plan which will help her escape from the mental facility.
 
