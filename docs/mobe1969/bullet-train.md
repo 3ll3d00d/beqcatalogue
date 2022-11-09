@@ -1,6 +1,6 @@
 # Bullet Train
 
-## Atmos
+## Atmos, DTS-HD MA 5.1
 
 **2022 • R • 2h 7m • Action, Comedy, Thriller • mobe1969**
 
