@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2022 • R • 0h 0m • French • Action, Drama, Thriller • mobe1969**
+**2022 • R • 1h 40m • French • Action, Drama, Thriller • mobe1969**
 
 Having cleared his name, genius mechanic Lino has only one goal in mind: getting revenge on the corrupt cops who killed his brother and his mentor.
 
