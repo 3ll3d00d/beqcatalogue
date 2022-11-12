@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2020 • NR • 2h 18m • Mandarin • Drama, Thriller • mobe1969**
+**2020 • NR • 2h 13m • Mandarin • Drama, Thriller • mobe1969**
 
 A rescue unit within the Chinese Coast Guard are forced to overcome their personal differences to resolve a crisis.
 
@@ -12,7 +12,7 @@ A rescue unit within the Chinese Coast Guard are forced to overcome their person
 
 ## DTS-HD MA 5.1
 
-**2020 • NR • 2h 18m • Mandarin • Drama, Thriller • mobe1969**
+**2020 • NR • 2h 13m • Mandarin • Drama, Thriller • mobe1969**
 
 A rescue unit within the Chinese Coast Guard are forced to overcome their personal differences to resolve a crisis.
 
