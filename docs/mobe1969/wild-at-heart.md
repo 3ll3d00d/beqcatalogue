@@ -1,8 +1,8 @@
-# Wild at Heart
+# Wild At Heart
 
 ## DTS-HD MA 5.1
 
-**1990 • R • 2h 4m • Thriller, Comedy, Crime • mobe1969**
+**1990 • R • 2h 5m • Comedy, Crime, Thriller • mobe1969**
 
 After serving prison time for a self-defense killing, Sailor Ripley reunites with girlfriend Lula Fortune. Lula's mother, Marietta, desperate to keep them apart, hires a hitman to kill Sailor. But he finds a whole new set of troubles when he and Bobby Peru, an old buddy who's also out to get Sailor, try to rob a store. When Sailor lands in jail yet again, the young lovers appear further than ever from the shared life they covet.
 
