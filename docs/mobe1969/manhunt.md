@@ -1,12 +1,12 @@
 # Manhunt
 
-## Atmos, DD+ 5.1
+* Author: mobe1969
 
-**2017 • 15 • 1h 46m • Mandarin • Action, Thriller, Crime • mobe1969**
+## Season 1
 
-Accused of a murder he didn't commit, a prosecutor sets out on a mission to clear his name.
+* DD+ 5.1
 
-[TMDB](372782)
+* Production Year: 2017
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Manhunt%20%282017%29%28Ma%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Manhunt%20%282017%29%28S1%29%20DD%2B%205.1.jpg)
 
