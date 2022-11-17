@@ -10,3 +10,15 @@ In the DMZ separating North and South Korea, two North Korean soldiers have been
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Joint%20Security%20Area%20%282000%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 
+## DTS-HD MA 5.1
+
+**2000 • NR • 1h 50m • Korean • War, Drama, Thriller, Action • mobe1969**
+
+Two North Korean soldiers are killed in the border area between North and South Korea, prompting an investigation by a neutral body. The sergeant is the shooter, but the lead investigator, a Swiss-Korean woman, receives differing accounts from the two sides.
+
+UHD
+
+[TMDB](2440)
+
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Joint%20Security%20Area%20%282000%29%28Ko%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)
+
