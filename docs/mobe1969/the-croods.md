@@ -1,6 +1,6 @@
 # The Croods
 
-## DTS-HD MA 7.1
+## DTS-X, DTS-HD MA 7.1
 
 **2013 • PG • 1h 38m • Animation, Adventure, Family, Fantasy, Comedy, Action • mobe1969**
 
