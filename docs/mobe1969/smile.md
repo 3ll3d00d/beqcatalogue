@@ -1,6 +1,6 @@
 # Smile
 
-## DD+ 5.1
+## DD+ 5.1, DD+ Atmos
 
 **2022 • R • 1h 55m • Horror, Mystery, Thriller • mobe1969**
 
