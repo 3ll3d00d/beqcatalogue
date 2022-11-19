@@ -1,6 +1,6 @@
 # The Christmas Chronicles: Part Two
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2020 • PG • 1h 52m • Family, Fantasy, Adventure, Comedy • mobe1969**
 

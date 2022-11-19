@@ -1,6 +1,6 @@
 # The Christmas Chronicles
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2018 • PG • 1h 44m • Comedy, Adventure, Family, Fantasy • mobe1969**
 
