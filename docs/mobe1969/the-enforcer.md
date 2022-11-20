@@ -1,12 +1,12 @@
 # The Enforcer
 
-## TrueHD 5.1
+## DTS-HD MA 5.1
 
-**1976 • R • 1h 36m • Thriller, Crime, Action • mobe1969**
+**2022 • R • 1h 31m • Action, Thriller, Drama • mobe1969**
 
-Dirty Harry Callahan returns again, this time saddled with a rookie female partner. Together, they must stop a terrorist group consisting of angry Vietnam veterans.
+A noir thriller set in Miami, the film follows an enforcer who discovers his femme fatale boss has branched out into cyber sex trafficking, putting a young runaway he’s befriended at risk. He sacrifices everything to save the young girl from the deadly organization he’s spent his life building.
 
-[TMDB](10649)
+[TMDB](846433)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/The%20Enforcer%20%281976%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Enforcer%20%282022%29%20DTS-HD%20MA%205.1.jpg)
 
