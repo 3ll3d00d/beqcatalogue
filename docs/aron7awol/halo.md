@@ -2,6 +2,15 @@
 
 * Author: aron7awol
 
+## Season 1
+
+* Atmos
+
+* [Forum Post](https://www.avsforum.com/goto/post?id=61562814)
+* Production Year: 2022
+
+![img 0](https://i.imgur.com/XWicagg.jpg)
+
 ## Season 1 Episodes 1-2
 
 * DD+ Atmos
