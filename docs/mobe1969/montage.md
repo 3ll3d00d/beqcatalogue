@@ -2,9 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2013 • NR • 1h 59m • Korean • Thriller, Drama • mobe1969**
+**2013 • NR • 1h 55m • Korean • Thriller, Drama • mobe1969**
 
 A woman's child is kidnapped and killed after paying the ransom. 15 years later, a mysterious figure is seen visiting the site of killing and another kidnapping occurs using the same methods. The woman teams up with a detective to catch the killer once and for all.
+
+50i German Blu-Ray
 
 [TMDB](195276)
 
