@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**1989 • R • 1h 55m • Crime, Action • mobe1969**
+**1989 • R • 1h 55m • Action, Crime • mobe1969**
 
 Frank Leone is nearing the end of his prison term for a relatively minor crime. Just before he is paroled, however, Warden Drumgoole takes charge. Drumgoole was assigned to a hell-hole prison after his administration was publicly humiliated by Leone, and has now arrived on the scene to ensure that Leone never sees the light of day.
 
