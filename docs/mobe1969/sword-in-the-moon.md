@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2003 • NR • 1h 35m • Korean • Action, Adventure, Drama • mobe1969**
+**2003 • NR • 1h 39m • Korean • Action, Adventure, Drama • mobe1969**
 
 Kingdom of Joseon, ancient Korea. A usurper has conquered the throne. His ministers are being systematically eliminated by a mysterious assassin. An arrogant master swordsman is in charge of putting an end to the carnage.
 
