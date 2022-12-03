@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2004 • PG-13 • 1h 45m • Japanese • Animation, Science Fiction, Fantasy • mobe1969**
+**2004 • PG-13 • 2h 6m • Japanese • Animation, Fantasy, Science Fiction • mobe1969**
 
 After receiving a package from his grandfather, Ray, a young inventor who lives in England during the mid-19th century, finds himself caught in the middle of a deadly conflict related to a revolutionary advance in steam power.
 
