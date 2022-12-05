@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**and  • R • 1h 49m • Action, Crime • mobe1969**
+**2020 • R • 1h 49m • Action, Crime • mobe1969**
 
 Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.
 
