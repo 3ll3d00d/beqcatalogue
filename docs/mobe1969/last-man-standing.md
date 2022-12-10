@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**1996 • R • 1h 41m • Mystery, Drama, Crime, Action, Thriller • mobe1969**
+**1996 • R • 1h 41m • Action, Crime, Drama, Thriller, Mystery • mobe1969**
 
 John Smith is a mysterious stranger who is drawn into a vicious war between two Prohibition-era gangs. In a dangerous game, he switches allegiances from one to another, offering his services to the highest bidder. As the death toll mounts, Smith takes the law into his own hands in a deadly race to stay alive.
 
