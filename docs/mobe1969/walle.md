@@ -10,3 +10,5 @@ WALL·E is the last robot left on an Earth that has been overrun with garbage an
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/WALL%C2%B7E%20%282008%29%20Atmos.jpg)
 
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/WALL%C2%B7E%20%282008%29%28Cri%29%20Atmos.jpg)
+
