@@ -12,7 +12,7 @@ Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alon
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jurassic%20World%20Dominion%20%282022%29%28EC%29%20DTS-X.jpg)
 
-## DTS-X
+## DTS-X, DTS-HD MA 5.1
 
 Theatrical Cut
 
