@@ -1,12 +1,12 @@
 # Beast
 
-## DD+ Atmos
+## Atmos
 
-**2022 • NR • 2h 42m • Tamil • Action, Comedy, Thriller • mobe1969**
+**2022 • R • 1h 33m • Thriller, Adventure, Horror • mobe1969**
 
-A former RAW officer, who is among the hostages in a mall taken over by terrorists, has to foil their plans and prevent the government from releasing a dreaded terrorist, who he had helped put in prison at great personal cost.
+A recently widowed man and his two teenage daughters travel to a game reserve in South Africa. However, their journey of healing soon turns into a fight for survival when a bloodthirsty lion starts to stalk them.
 
-[TMDB](800383)
+[TMDB](760741)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beast%20%282022%29%28Ta%29%20DD%2B%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beast%20%282022%29%20Atmos.jpg)
 

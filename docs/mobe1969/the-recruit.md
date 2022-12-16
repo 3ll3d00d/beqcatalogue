@@ -1,12 +1,12 @@
 # The Recruit
 
-## LPCM 5.1
+* Author: mobe1969
 
-**2003 • PG-13 • 1h 55m • Thriller, Action • mobe1969**
+## Season 1
 
-A brilliant CIA trainee must prove his worth at the Farm, the agency's secret training grounds, where he learns to watch his back and trust no one.
+* DD+ Atmos
 
-[TMDB](1647)
+* Production Year: 2022
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Recruit%20%282003%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Recruit%20%282022%29%28S1%29%20DD%2B%20Atmos.jpg)
 
