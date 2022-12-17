@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2022 • NR • 0h 0m • Japanese • Action • mobe1969**
+**2022 • NR • 2h 18m • Japanese • Action • mobe1969**
 
 Adapted from the manga Hell Dogs by Fukamachi Akio.
 
