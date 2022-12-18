@@ -8,5 +8,5 @@ A retired hitman whose wife goes on a trip with her friend, and asks him to look
 
 [TMDB](938008)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/The%20Killer%20A%20Girl%20Who%20Deserves%20to%20Die%20%282022%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/The%20Killer%20%282022%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)
 
