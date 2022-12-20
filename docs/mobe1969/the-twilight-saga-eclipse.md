@@ -1,6 +1,6 @@
 # The Twilight Saga: Eclipse
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD 5.1, DD+ 5.1
 
 **2010 • PG-13 • 2h 4m • Romance, Adventure, Drama, Fantasy • mobe1969**
 

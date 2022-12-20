@@ -1,6 +1,6 @@
 # The Twilight Saga: New Moon
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD 5.1, DD+ 7.1
 
 **2009 • PG-13 • 2h 11m • Fantasy, Drama, Romance, Adventure • mobe1969**
 

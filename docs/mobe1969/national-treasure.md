@@ -1,6 +1,6 @@
 # National Treasure
 
-## LPCM 5.1
+## LPCM 5.1, DD 5.1, DD+ 5.1
 
 **2004 • PG • 2h 11m • Adventure, Action, Mystery, Thriller • mobe1969**
 
