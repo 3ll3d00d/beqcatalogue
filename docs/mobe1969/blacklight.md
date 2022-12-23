@@ -6,7 +6,7 @@
 
 Travis Block is a shadowy Government agent who specializes in removing operatives whose covers have been exposed. He then has to uncover a deadly conspiracy within his own ranks that reaches the highest echelons of power.
 
-UHD
+German Disc
 
 [TMDB](823625)
 
