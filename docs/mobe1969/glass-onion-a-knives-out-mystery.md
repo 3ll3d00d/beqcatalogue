@@ -2,7 +2,7 @@
 
 ## DD+ Atmos
 
-**2022 • PG-13 • 2h 19m • Comedy, Crime, Mystery • mobe1969**
+**2022 • PG-13 • 2h 21m • Comedy, Crime, Mystery • mobe1969**
 
 World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.
 
