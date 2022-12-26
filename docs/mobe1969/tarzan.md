@@ -2,11 +2,11 @@
 
 ## DTS-HD MA 5.1
 
-**2013 • G • 1h 28m • Family, Adventure, Animation, Drama • mobe1969**
+**2013 • G • 1h 34m • Animation, Action, Adventure, Family • mobe1969**
 
-Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...
+One of the most classic and revered stories of all time, Edgar Rice Burroughs' Tarzan returns to the big screen for a new generation. Tarzan and Jane face a mercenary army dispatched by the evil CEO of Greystoke Energies, a man who took over the company from Tarzan's parents, after they died in a plane crash in the African jungle.
 
-[TMDB](37135)
+[TMDB](230222)
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tarzan%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 
