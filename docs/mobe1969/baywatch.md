@@ -12,7 +12,7 @@ Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Baywatch%20%282017%29%28EC%29%20Atmos.jpg)
 
-## Atmos
+## Atmos, DD+ 5.1
 
 Theatrical Cut
 
