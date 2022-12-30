@@ -1,6 +1,6 @@
 # Kiki's Delivery Service
 
-## DTS-HD MA 5.1
+## DD EX 6.1
 
 **1989 • G • 1h 43m • Animation, Family, Fantasy, Adventure • mobe1969**
 
