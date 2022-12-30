@@ -2,7 +2,7 @@
 
 ## Atmos, DD+ Atmos
 
-**2020 • 15 • 1h 31m • Korean • Horror, Thriller • mobe1969**
+**2020 • 15 • 1h 38m • Korean • Horror, Thriller • mobe1969**
 
 A severely injured man and woman awake in an abandoned sanitarium only to discover that a sadistic caretaker holds the keys to their freedom and the horrific answers as to their true identity.
 
