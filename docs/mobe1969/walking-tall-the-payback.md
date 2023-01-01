@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2007 • R • 1h 28m • Crime, Adventure, Action • mobe1969**
+**2007 • R • 1h 34m • Crime, Adventure, Action • mobe1969**
 
 A man goes back to his hometown that is now overrun with crime and single-handedly takes justice into his own hands.
 
