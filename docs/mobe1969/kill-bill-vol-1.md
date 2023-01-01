@@ -1,6 +1,6 @@
 # Kill Bill: Vol. 1
 
-## LPCM 5.1
+## LPCM 5.1, DTS-HD MA 5.1
 
 **2003 • R • 1h 51m • Action, Crime • mobe1969**
 
