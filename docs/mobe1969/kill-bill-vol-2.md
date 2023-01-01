@@ -1,6 +1,6 @@
 # Kill Bill: Vol. 2
 
-## LPCM 5.1
+## LPCM 5.1, DTS-HD MA 5.1
 
 **2004 • R • 2h 16m • Action, Crime, Thriller • mobe1969**
 
