@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2016 • R • 1h 38m • Thriller, Science Fiction, Horror • mobe1969**
+**2016 • R • 1h 38m • Horror, Science Fiction, Thriller • mobe1969**
 
 When a strange signal pulsates through all cell phone networks worldwide, it starts a murderous epidemic of epic proportions when users become bloodthirsty creatures, and a group of people in New England are among the survivors to deal with the ensuing chaos after.
 
