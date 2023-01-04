@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Director's Cut
+Theatrical Cut
 
 **1991 • R • 2h 17m • Action, Thriller, Science Fiction • mobe1969**
 
@@ -10,5 +10,5 @@ Nearly 10 years have passed since Sarah Connor was targeted for termination by a
 
 [TMDB](280)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Terminator%202%20Judgment%20Day%20%281991%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Terminator%202%20Judgment%20Day%20%281991%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
 
