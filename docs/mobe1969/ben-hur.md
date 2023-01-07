@@ -1,6 +1,6 @@
 # Ben-Hur
 
-## DTS-HD MA 7.1
+## DTS-HD MA 7.1, DD+ 5.1
 
 **2016 • PG-13 • 2h 5m • Adventure, Action, Drama • mobe1969**
 

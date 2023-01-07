@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2013 • R • 2h 0m • Fantasy, Drama, Horror, Thriller • mobe1969**
+**2013 • R • 2h 0m • Drama, Fantasy, Thriller • mobe1969**
 
 In the aftermath of his girlfriend's mysterious death, a young man awakens to strange horns sprouting from his temples.
 
