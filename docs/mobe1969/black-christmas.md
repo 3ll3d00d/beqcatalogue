@@ -1,12 +1,12 @@
 # Black Christmas
 
-## TrueHD 5.1
+## DTS-HD MA 5.1
 
-**2006 • R • 1h 24m • Horror, Thriller, Mystery • mobe1969**
+**1974 • R • 1h 38m • Horror, Mystery, Thriller • mobe1969**
 
-An escaped maniac returns to his childhood home on Christmas Eve, which is now a sorority house, and begins to murder the sorority sisters one by one.
+During their Christmas break, a group of sorority girls are stalked by a stranger who leaves them threatening phone calls.
 
-[TMDB](9656)
+[TMDB](16938)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Black%20Christmas%20%282006%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Black%20Christmas%20%281974%29%20DTS-HD%20MA%205.1.jpg)
 
