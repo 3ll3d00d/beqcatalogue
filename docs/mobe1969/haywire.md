@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2011 • R • 1h 33m • Drama, Action, Thriller • mobe1969**
+**2011 • 15 • 1h 33m • Action, Drama, Thriller • mobe1969**
 
 A black ops soldier seeks payback after she is betrayed and left for dead.
 
