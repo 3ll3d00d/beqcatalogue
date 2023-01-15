@@ -303,7 +303,7 @@ def generate_content_page(page_name, metas, content_md, index_entries, author, c
         else:
             generate_tv_content_page(page_name, metas, content_md, index_entries, author)
     except Exception as e:
-        print(f"Unexpected exception while processing {content_type} content page {page_name} for {author}")
+        print(f"Unexpected exception while processing {content_type} content file {author} -- {metas[0]['git_path']}")
         raise e
 
 
@@ -375,14 +375,14 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                     print(f"![img {img_idx}]({img})", file=content_md)
                     print('', file=content_md)
                     img_idx = img_idx + 1
-                bd_url = generate_index_entry(author, page_name, linked_content_format, meta['title'], meta['year'],
-                                              meta.get('avs', None), meta.get('theMovieDB', None), len(metas) > 1,
-                                              index_entries)
+                bd_url = generate_index_entry(author, page_name, linked_content_format, meta['title'],
+                                              meta.get('year', ''), meta.get('avs', None), meta.get('theMovieDB', None),
+                                              len(metas) > 1, index_entries)
                 prefix = 'https://beqcatalogue.readthedocs.io/en/latest'
                 beq_catalogue_url = f"{prefix}/{author}/{page_name}/#{slugify(linked_content_format, '-')}"
                 cols = [
                     meta['title'],
-                    meta['year'],
+                    meta.get('year', ''),
                     linked_content_format,
                     author,
                     meta.get('avs', ''),
@@ -395,7 +395,7 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 print(f"No audioTypes in {metas[0]['title']}")
             add_to_catalogue({
                 'title': meta['title'],
-                'year': meta['year'],
+                'year': meta.get('year', ''),
                 'audioTypes': meta.get('audioType', []),
                 'content_type': 'film',
                 'author': author,
@@ -510,14 +510,14 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
 
         extra_slug = f"#{slugify(long_season, '-')}" if long_season else ''
         bd_url = generate_index_entry(author, page_name, linked_content_format, f"{meta['title']} {short_season}",
-                                      meta['year'], meta.get('avs', None), meta.get('theMovieDB', None),
+                                      meta.get('year', ''), meta.get('avs', None), meta.get('theMovieDB', None),
                                       len(metas) > 1, index_entries, content_type='TV', extra_slug=extra_slug)
         prefix = 'https://beqcatalogue.readthedocs.io/en/latest'
         slugified_link = f"/{extra_slug}" if extra_slug else ''
         beq_catalogue_url = f"{prefix}/{author}/{page_name}{slugified_link}"
         cols = [
             meta['title'],
-            meta['year'],
+            meta.get('year', ''),
             linked_content_format,
             author,
             meta.get('avs', ''),
@@ -539,7 +539,7 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
 
         add_to_catalogue({
             'title': meta['title'],
-            'year': meta['year'],
+            'year': meta.get('year', ''),
             'audioTypes': meta.get('audioType', []),
             'content_type': 'TV',
             'author': author,
