@@ -4,7 +4,7 @@
 
 Unrated Cut
 
-**2008 • PG-13 • 1h 40m • Crime, Action, Drama, Thriller • mobe1969**
+**2008 • PG-13 • 1h 43m • Crime, Action, Drama, Thriller • mobe1969**
 
 A DEA agent whose family was slain as part of a conspiracy, and an assassin out to avenge her sister's death, join forces to solve a series of murders in New York City.
 
