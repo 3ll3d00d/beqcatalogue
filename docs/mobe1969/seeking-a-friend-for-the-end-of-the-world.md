@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2012 • R • 1h 41m • Science Fiction, Drama, Comedy, Romance • mobe1969**
+**2012 • R • 1h 41m • Comedy, Drama, Romance, Science Fiction • mobe1969**
 
 As an asteroid nears Earth, a man finds himself alone after his wife leaves in a panic. He decides to take a road trip to reunite with his high school sweetheart. Accompanying him is a neighbor who inadvertently puts a wrench in his plan.
 
