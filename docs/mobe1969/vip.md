@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2017 • 18 • 2h 8m • Korean • Crime, Thriller, Action • mobe1969**
+**2017 • NR • 2h 8m • Korean • Crime, Thriller, Action • mobe1969**
 
 A son to a high-ranked official in North Korea commits a series of murders going across the countries around the world. The movie depicts the following events as South Korea, North Korea and Interpol start chasing down after him.
 
