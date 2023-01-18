@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2011 • R • 1h 25m • Science Fiction, Action, Horror, Drama • mobe1969**
+**2011 • R • 1h 25m • Action, Drama, Horror, Science Fiction • mobe1969**
 
 Open war against humanity rages. For five survivors – lost and on the run – the pursuit is relentless, the bullets are dwindling and the battle is everywhere. This is a 24-hour look into their lives.
 
