@@ -16,7 +16,7 @@ Sadly, the shorter dub...
 
 Extended Cut
 
-**2018 • R • 2h 0m • Mandarin • Drama, War, Action, Adventure • mobe1969**
+**2018 • R • 2h 7m • Mandarin • Drama, War, Action, Adventure • mobe1969**
 
 An American pilot is sent to a Chinese province to teach a crew of would-be pilots how to fly war planes against the Japanese during World War II.
 
