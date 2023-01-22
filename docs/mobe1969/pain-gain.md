@@ -2,7 +2,7 @@
 
 ## TrueHD 7.1
 
-**2013 • R • 2h 10m • Action, Crime, Drama, Thriller • mobe1969**
+**2013 • R • 2h 10m • Crime, Comedy • mobe1969**
 
 Daniel Lugo, manager of the Sun Gym in 1990s Miami, decides that there is only one way to achieve his version of the American dream: extortion. To achieve his goal, he recruits musclemen Paul and Adrian as accomplices. After several failed attempts, they abduct rich businessman Victor Kershaw and convince him to sign over all his assets to them. But when Kershaw makes it out alive, authorities are reluctant to believe his story.
 
