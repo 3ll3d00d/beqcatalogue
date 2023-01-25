@@ -2,7 +2,7 @@
 
 ## LPCM 5.1
 
-**1998 • R • 2h 12m • Drama, Action, Thriller • mobe1969**
+**1998 • R • 2h 12m • Action, Drama, Thriller • mobe1969**
 
 A hotshot Washington criminal lawyer becomes the target of a rogue security executive videotaped in the act of murdering a congressman when the incriminating tape is surreptitiously slipped into his shopping bag by the videographer, who is fleeing the executive's assassins.
 
