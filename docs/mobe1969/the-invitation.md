@@ -16,7 +16,7 @@ After the death of her mother, Evie is approached by an unknown cousin who invit
 
 Unrated Cut
 
-**2022 • PG-13 • 1h 56m • Horror, Thriller • mobe1969**
+**2022 • PG-13 • 1h 46m • Horror, Thriller • mobe1969**
 
 After the death of her mother, Evie is approached by an unknown cousin who invites her to a lavish wedding in the English countryside. Soon, she realizes a gothic conspiracy is afoot and must fight for survival as she uncovers twisted secrets in her family’s history.
 
