@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2017 • 18 • 1h 41m • Cantonese • Crime, Action, Drama • mobe1969**
+**2017 • NR • 1h 41m • Cantonese • Crime, Action, Drama • mobe1969**
 
 When a Hong Kong police negotiator is informed about the sudden disappearance of his 16-year-old daughter in Thailand,  he travels there to search for her whereabouts.
 
