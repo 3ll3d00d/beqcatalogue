@@ -8,5 +8,5 @@ A Hong Kong cop named Kit busts a major gangster only to find his cover blown an
 
 [TMDB](331576)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kill%20Zone%202%20%282015%29%28Ca%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/SPL%20II%20A%20Time%20for%20Consequences%20%282015%29%28Ca%29%20DTS-HD%20MA%207.1.jpg)
 
