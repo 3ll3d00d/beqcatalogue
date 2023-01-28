@@ -20,7 +20,7 @@ Extended Cut
 
 An American pilot is sent to a Chinese province to teach a crew of would-be pilots how to fly war planes against the Japanese during World War II.
 
-Scandinavian Blu-Ray. Proper cut and language. Contact me for English subtitles.
+Scandinavian Blu-Ray. Proper cut and language. English subtitles https://drive.google.com/file/d/1ZizL16Cb7XQRQTAAf67ysWJE08aO24sU/view?usp=share_link.
 
 [TMDB](345934)
 
