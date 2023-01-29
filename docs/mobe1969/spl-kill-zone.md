@@ -8,5 +8,5 @@ Chan, an articulate senior detective nearing the end of his career, is taking ca
 
 [TMDB](13127)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/SPL%20Kill%20Zone%20%282005%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/SPL%20Kill%20Zone%20%282005%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 
