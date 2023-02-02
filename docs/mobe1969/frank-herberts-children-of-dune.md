@@ -1,4 +1,4 @@
-# Frank Herberts Children of Dune
+# Frank Herbert's Children of Dune
 
 * Author: mobe1969
 
