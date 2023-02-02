@@ -4,7 +4,7 @@
 
 Unrated Cut
 
-**2006 • R • 1h 38m • Horror, Thriller • mobe1969**
+**2006 • R • 1h 28m • Horror, Thriller • mobe1969**
 
 When their computer hacker friend accidentally channels a mysterious wireless signal, a group of co-eds rally to stop a terrifying evil from taking over the world.
 
