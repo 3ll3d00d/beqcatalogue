@@ -4,7 +4,7 @@
 
 **2016 • R • 1h 26m • Mystery, Horror • mobe1969**
 
-Father and son coroners receive a mysterious unidentified corpse with no apparent cause of death. As they attempt to examine the beautiful young "Jane Doe," they discover increasingly bizarre clues that hold the key to her terrifying secrets.
+Father and son coroners receive a mysterious unidentified corpse with no apparent cause of death. As they attempt to examine the "Jane Doe," they discover increasingly bizarre clues that hold the key to her terrifying secrets.
 
 [TMDB](397243)
 

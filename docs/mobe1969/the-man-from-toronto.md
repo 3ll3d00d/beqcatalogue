@@ -4,7 +4,7 @@
 
 **2022 • PG-13 • 1h 50m • Action, Comedy • mobe1969**
 
-In a case of mistaken identity, the world’s deadliest assassin, known as the Man from Toronto, and a New York City screw-up are forced to team up after being confused for each other at an Airbnb.
+In a case of mistaken identity, the world’s deadliest assassin, known as the Man from Toronto, and a New York City screw-up are forced to team up after being confused for each other at a rental cabin.
 
 [TMDB](667739)
 

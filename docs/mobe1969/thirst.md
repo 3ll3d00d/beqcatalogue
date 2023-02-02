@@ -4,7 +4,7 @@
 
 **2009 • R • 2h 13m • Korean • Drama, Horror, Thriller • mobe1969**
 
-Sang-hyun, a respected priest, volunteers for an experimental procedure that may lead to a cure for a deadly virus. He gets infected and dies, but a blood transfusion of unknown origin brings him back to life as a vampire. Now, Sang-hyun is torn between faith and bloodlust, and has a newfound desire for Tae-ju, the wife of his childhood friend.
+A respected priest volunteers for an experimental procedure that may lead to a cure for a deadly virus. He gets infected and dies, but a blood transfusion of unknown origin brings him back to life. Now, he’s torn between faith and bloodlust, and has a newfound desire for the wife of a childhood friend.
 
 [TMDB](22536)
 

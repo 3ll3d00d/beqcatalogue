@@ -4,7 +4,7 @@
 
 **2008 • R • 2h 50m • Thriller, Action • mobe1969**
 
-A wounded man is washed up on a beach with no memory of his identity. The only clue is a tattoo on his neck, 'XIII'.
+Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses—Magneto and Mystique—to unhinge Stryker's scheme to exterminate all mutants.
 
 [TMDB](817122)
 

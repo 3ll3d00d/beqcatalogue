@@ -4,7 +4,7 @@
 
 **2021 • NR • 1h 32m • Korean • Drama, Fantasy, Thriller • mobe1969**
 
-Tragedy, betrayal and a mysterious discovery fuel a woman's vengeance for the loss of her tribe and family in this special episode of "Kingdom."
+Tragedy, betrayal and a mysterious discovery fuel a woman's vengeance for the loss of her tribe and family.
 
 [TMDB](845222)
 

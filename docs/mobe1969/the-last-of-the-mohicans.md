@@ -6,7 +6,7 @@ Director's Cut
 
 **1992 • R • 1h 52m • Action, Adventure, Drama, History, Romance, War • mobe1969**
 
-In war-torn Colonial America, in the midst of a bloody battle between British, the French and Native American allies, Cora Munro, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers, including Hawkeye, a rugged frontiersman and the adopted son of the Mohicans comes to their rescue. A passionate romance soon blossoms between Cora and Hawkeye, but many forces test their love as they continue to journey through the Frontier.
+In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.
 
 [TMDB](9361)
 

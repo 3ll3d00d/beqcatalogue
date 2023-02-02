@@ -4,7 +4,7 @@
 
 **2017 • R • 1h 43m • Drama, History, Western • mobe1969**
 
-In 1890, Catherine Weldon, a painter from New York, travels to North Dakota to paint a portrait of Sitting Bull and becomes involved in the struggle of the Lakota people to get the Government respects their rights over the land where they live.
+Based on a true story, this riveting western follows a headstrong New York widow as she journeys west to meet Sioux chief Sitting Bull, facing off with an army officer intent on war with Native Americans.
 
 [TMDB](396373)
 

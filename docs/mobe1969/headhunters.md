@@ -4,7 +4,7 @@
 
 **2011 • R • 1h 40m • Norwegian • Thriller, Crime, Action • mobe1969**
 
-An accomplished headhunter risks everything to obtain a valuable painting owned by a former mercenary..
+An accomplished headhunter risks everything to obtain a valuable painting owned by a former mercenary.
 
 [TMDB](70670)
 

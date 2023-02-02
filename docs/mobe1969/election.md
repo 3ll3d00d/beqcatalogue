@@ -4,7 +4,7 @@
 
 **2005 • NR • 1h 41m • Cantonese • Crime, Drama • mobe1969**
 
-A drama-thriller centered on a democratic election within an organized crime society.
+After losing an election to become chairman of the Wo Lin Shing triad, a gang leader lashes out and tries to seize the dragon-head baton, the official symbol of a chairman's authority.
 
 [TMDB](18747)
 

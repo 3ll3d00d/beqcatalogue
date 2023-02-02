@@ -4,7 +4,7 @@
 
 **2011 • PG • 1h 47m • Adventure, Animation, Mystery • mobe1969**
 
-From Academy Award® winning filmmakers, Steven Spielberg and Peter Jackson, comes the epic adventures of Tintin. Racing to uncover the secrets of a sunken ship that may hold a vast fortune, but also an ancient curse, Tintin and his loyal dog Snowy embark on an action-packed journey around the world that critics are calling.
+Intrepid young reporter, Tintin, and his loyal dog, Snowy, are thrust into a world of high adventure when they discover a ship carrying an explosive secret. As Tintin is drawn into a centuries-old mystery, Ivan Ivanovitch Sakharine suspects him of stealing a priceless treasure. Tintin and Snowy, with the help of salty, cantankerous Captain Haddock and bumbling detectives, Thompson and Thomson, travel half the world, one step ahead of their enemies, as Tintin endeavors to find the Unicorn, a sunken ship that may hold a vast fortune, but also an ancient curse.
 
 [TMDB](17578)
 

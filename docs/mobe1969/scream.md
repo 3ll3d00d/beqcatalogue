@@ -4,7 +4,7 @@
 
 **1996 • R • 1h 52m • Horror, Mystery, Crime • mobe1969**
 
-A killer known as Ghostface begins killing off teenagers, and as the body count begins rising, one girl and her friends find themselves contemplating the 'rules' of horror films as they find themselves living in a real-life one.
+A killer known as Ghostface begins killing off teenagers, and as the body count begins rising, one girl and her friends find themselves contemplating the 'rules' of horror films as they try to survive a real-life one.
 
 [TMDB](4232)
 

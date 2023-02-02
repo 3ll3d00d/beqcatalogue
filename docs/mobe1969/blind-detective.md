@@ -4,7 +4,7 @@
 
 **2013 • NR • 2h 10m • Cantonese • Crime, Comedy, Drama • mobe1969**
 
-A blind detective, former cop, teams up with a policewoman who admires him to solve the disappearance of a girl friend of hers, years ago. Besides, he helps her to improve her skills as an investigator.
+A brilliant detective is forced into early retirement after losing eyesight. Making ends meet by solving cold cases for reward money, he teams up with a rookie lady inspector to solve a case from her personal past.
 
 [TMDB](194523)
 

@@ -4,7 +4,7 @@
 
 **2004 • R • 1h 41m • Thriller, Drama • mobe1969**
 
-The Machinist is the story of Trevor Reznik, a lathe-operator who is suffering from insomnia. In a machine shop, occupational hazards are bad enough under normal circumstances; yet for Trevor the risks are compounded by fatigue. Trevor has lost the ability to sleep. This is no ordinary insomnia...
+Trevor, an insomniac lathe operator, experiences unusual occurrences at work and home. A strange man follows him everywhere, but no one else seems to notice him.
 
 [TMDB](4553)
 

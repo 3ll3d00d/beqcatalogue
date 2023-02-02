@@ -4,7 +4,7 @@
 
 **2017 • NR • 1h 42m • Mandarin • Comedy, Drama • mobe1969**
 
-When a son attempts to reconcile with his father, a series of fateful events allow him to experience the fatherâ€™s life in the past.
+When a son attempts to reconcile with his father, a series of fateful events allow him to experience the father’s life in the past.
 
 [TMDB](438081)
 

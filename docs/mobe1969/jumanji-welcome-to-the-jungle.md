@@ -4,7 +4,7 @@
 
 **2017 • PG-13 • 1h 59m • Adventure, Action, Comedy, Fantasy • mobe1969**
 
-The tables are turned as four teenagers are sucked into Jumanji's world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they'll play as characters from the game.
+Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!
 
 [TMDB](353486)
 

@@ -4,7 +4,7 @@
 
 **2021 • R • 2h 16m • Japanese • Crime, Drama • mobe1969**
 
-A story of yakuza family from 1999 to 2019. Kenji Yamamoto's (Gou Ayano) father died from using a stimulant drug. His life fell into desperation. Kenji Yamamoto then joined a crime syndicate. There, he meets the gang's boss Hiroshi Shibasaki (Hiroshi Tachi). Hiroshi Shibasaki reaches out to Kenji Yamamoto and they developed a relationship like father and son. As time passes, Kenji Yamamoto has his own family.
+A story of yakuza family from 1999 to 2019. Kenji Yamamoto's father died from using a stimulant drug. His life fell into desperation. Kenji Yamamoto then joined a crime syndicate. There, he meets the gang's boss Hiroshi Shibasaki. Hiroshi Shibasaki reaches out to Kenji Yamamoto and they developed a relationship like father and son. As time passes, Kenji Yamamoto has his own family.
 
 [TMDB](736146)
 

@@ -4,7 +4,7 @@
 
 **2006 • PG-13 • 1h 44m • Adventure, Action, Science Fiction, Thriller • mobe1969**
 
-When a cure is found to treat mutations, lines are drawn amongst the X-Men,led by Professor Charles Xavier, and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.
+When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.
 
 [TMDB](36668)
 

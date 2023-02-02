@@ -4,7 +4,7 @@
 
 **2017 • PG-13 • 1h 51m • Horror, Drama, Thriller • mobe1969**
 
-Five medical students, hoping to understand the mystery of what lies beyond life, embark on a dangerous experiment. When their hearts are stopped for a short period of time, they have a near-death experience
+Five medical students, hoping to understand the mystery of what lies beyond life, embark on a dangerous experiment. When their hearts are stopped for a short period of time, they have a near-death experience…
 
 [TMDB](400710)
 

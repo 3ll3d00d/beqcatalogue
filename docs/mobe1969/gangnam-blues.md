@@ -4,7 +4,7 @@
 
 **2015 • NR • 2h 15m • Korean • Action, Crime, Thriller • mobe1969**
 
-A "gangster noir" set in the 1970s, when Gangnam, Seoul goes under development. Political powers and darker organizations collide as they seek to grab control of the influential and exclusive area.
+Jong-Dae and Yong-Ki make a living by picking up paper and empty bottles. Both then join different gangster clan and becomes involved in a struggle of political interests over development in Gangnam, Seoul.
 
 [TMDB](297721)
 

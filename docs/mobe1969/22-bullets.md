@@ -4,7 +4,7 @@
 
 **2010 • NR • 1h 55m • French • Drama, Crime, Thriller • mobe1969**
 
-Charly Matteis has turned his back on his life as an outlaw. For the last three years, he's led a peaceful life devoting himself to his wife and two children. Then, one winter morning, he's left for dead in the parking garage in Marseille's Old Port, with 22 bullets in his body. Against all the odds, he doesn't die...
+Charly Matteï has turned his back on his life as an outlaw. For the last three years, he's led a peaceful life devoting himself to his wife and two children. Then, one winter morning, he's left for dead in the parking garage in Marseille's Old Port, with 22 bullets in his body. Against all the odds, he doesn't die...
 
 [TMDB](37645)
 

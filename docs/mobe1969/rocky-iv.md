@@ -4,7 +4,7 @@
 
 **1985 • PG-13 • 1h 31m • Drama • mobe1969**
 
-After iron man Drago, a highly intimidating 6-foot-5, 261-pound Soviet athlete, kills Apollo Creed in an exhibition match, Rocky comes to the heart of Russia for 15 pile-driving boxing rounds of revenge.
+Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.
 
 [TMDB](1374)
 

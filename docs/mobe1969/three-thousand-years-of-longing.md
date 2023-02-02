@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 48m • Fantasy, Drama, Romance • mobe1969**
 
-A solitary scholar discovers an ancient bottle while on a trip to Istanbul and unleashes a djinn who offers her three wishes. Filled with reluctance, she is unable to come up with one until his stories spark in her a desire to be loved.
+A solitary scholar discovers an ancient bottle while on a trip to Istanbul and unleashes a djinn who offers her three wishes. Filled with reluctance, she is unable to come up with one, so the djinn tries to inspire her with his stories.
 
 [TMDB](556694)
 

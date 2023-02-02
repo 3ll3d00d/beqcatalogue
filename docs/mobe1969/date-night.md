@@ -6,7 +6,7 @@ Theatrical Cut
 
 **2010 • PG-13 • 1h 37m • Comedy, Action, Adventure • mobe1969**
 
-Phil and Claire Foster fear that their mild-mannered relationship may be falling into a stale rut. During their weekly date night, their dinner reservation leads to their being mistaken for a couple of thievesâ€”and now a number of unsavoury characters want Phil and Claire killed.
+Phil and Claire Foster fear that their mild-mannered relationship may be falling into a stale rut. During their weekly date night, their dinner reservation leads to their being mistaken for a couple of thieves—and now a number of unsavoury characters want Phil and Claire killed.
 
 [TMDB](35056)
 

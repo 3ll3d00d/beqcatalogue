@@ -4,7 +4,7 @@
 
 **1984 • R • 1h 45m • Action, Comedy, Crime • mobe1969**
 
-The heat is on in this fast paced action-comedy starring Eddie Murphy as Axel Foley, a street smart Detroit cop tracking down his best friend's killer in Beverly Hills. Axel quickly learns that his wild style doesn't fit in with the Beverly Hills Police Department, which assigns two officers (Judge Reinhold & John Ashton) to make sure things don't get out of hand. Dragging the stuffy detectives along for the ride, Axel smashes through a huge culture clash in his hilarious, high-speed pursuit of justice. Featuring cameos by Paul Reiser, Bronson Pinchot and Damon Wayans, Beverly Hills Cop is an exhilarating, sidesplitting adventure.
+A freewheeling Detroit cop pursuing a murder investigation finds himself dealing with the very different culture of Beverly Hills.
 
 [TMDB](90)
 

@@ -4,7 +4,7 @@
 
 **2019 • 16 • 1h 46m • Adventure, Western • mobe1969**
 
-This epic, action-packed Western tells the incredible true story of Bass Reeves, the first black marshal in the Wild West. Having escaped from slavery after the Civil War, he arrives in Arkansas seeking a job with the law. To prove himself, he must hunt down a deadly outlaw with the help of a grizzled journeyman. As he chases the criminal deeper into the Cherokee Nation, Reeves must not only dodge bullets, but severe discrimination in hopes of earning his star--and cement his place as a cowboy legend.
+In the late 1800s, legendary marshal Bass Reeves sets out on the trail of notorious outlaw Bob Dozier.
 
 [TMDB](576379)
 

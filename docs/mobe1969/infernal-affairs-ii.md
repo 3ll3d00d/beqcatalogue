@@ -4,7 +4,7 @@
 
 **2003 • NR • 1h 59m • Cantonese • Drama, Action, Thriller, Crime • mobe1969**
 
-In this prequel to Mou gaan dou (2002), Chan Wing Yan has just become an undercover cop in the triads while Lau Kin Ming joins the police force. Both the triads and the police find an enemy in a rival crime boss.
+In this prequel to the original, a rebel policeman sets up the infiltration of Triad gangs and tries bring down a corrupt cop working for the Triad boss.
 
 [TMDB](11647)
 

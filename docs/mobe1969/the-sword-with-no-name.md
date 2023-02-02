@@ -4,7 +4,7 @@
 
 **2009 • NR • 2h 4m • Korean • Action, Drama, Romance • mobe1969**
 
-A Joseon dynasty bounty hunter becomes the body guard of the queen he secretly loves.
+Mu Myeong is a Joseon dynasty headhunter who meets and falls in love with lady Ja Yeong who will become the future Empress Myseongseong. A few years later, Ja Yeong enters the royal palace to marry King Gojong. Mu Myeong still having feelings for Ja Yeong and in an attempt to get closer to her becomes her personal body guard.
 
 [TMDB](41441)
 

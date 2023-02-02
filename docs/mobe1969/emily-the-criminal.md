@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 37m • Crime, Drama, Mystery, Thriller • mobe1969**
 
-Emily, who is saddled with student debt and locked out of the job market due to a minor criminal record, gets involved in a credit card scam that pulls her into the criminal underworld of Los Angeles, ultimately leading to deadly consequences.
+Desperate for income, Emily takes a shady gig buying goods with stolen credit cards supplied by a charismatic middleman named Youcef. Seduced by the quick cash and illicit thrills, they hatch a plan to take their business to the next level.
 
 [TMDB](862965)
 

@@ -4,7 +4,7 @@
 
 **2022 • NR • 1h 30m • Italian • Action, Comedy • mobe1969**
 
-Carezza and Sorriso, brothers very different from each other and in quarrel since childhood, will have to put aside their controversies to recover the legendary Dune Buggy, once belonged to their beloved father and now stolen from him by Torsillo, an unscrupulous building speculator, and his son Raniero. In doing so, they will forge an unusual alliance with a circus community, headed by the beautiful and dangerous Miriam and threatened by Torsillo's dirty business. Between daring chases, memorable fights and delicate meals based on beer and sausages, will the two brothers be able to find their beloved car?
+Estranged, quarreling brothers Carezza and Sorriso have to put aside their differences to reclaim their father's beloved dune buggy from predatory real estate developer Torsillo, with the help of beautiful circus performer Miriam, whose family business is threatened by Torsillo's enforcers.
 
 [TMDB](838197)
 

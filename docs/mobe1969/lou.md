@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 47m • Action, Drama • mobe1969**
 
-A gruff loner living a quiet life with her dog battles the elements and her own dark past when a neighbor's little girl is kidnapped during a storm.
+A young girl is kidnapped during a powerful storm. Her mother joins forces with her mysterious neighbour to set off in pursuit of the kidnapper. Their journey will test their limits and expose the dark secrets of their past.
 
 [TMDB](429473)
 

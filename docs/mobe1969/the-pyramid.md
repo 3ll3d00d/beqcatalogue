@@ -4,7 +4,7 @@
 
 **2014 • R • 1h 29m • Horror • mobe1969**
 
-A team of U.S. archaeologists unearths an ancient pyramid buried deep beneath the Egyptian desert. As they search the pyramid's depths, they become hopelessly lost in its dark and endless catacombs. Searching for a way out, they become desperate to seek daylight again. They come to realize they aren't just trapped, they are being hunted.
+An archaeological team attempt to unlock the secrets of a lost pyramid only to find themselves hunted by an insidious creature.
 
 [TMDB](282813)
 

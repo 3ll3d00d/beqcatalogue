@@ -4,7 +4,7 @@
 
 **2012 • R • 1h 35m • Horror, Comedy, Fantasy, Thriller • mobe1969**
 
-Five college friends spend the weekend at a remote cabin in the woods, where they get more than they bargained for. Together, they must discover the truth behind the cabin in the woods.
+Five friends go for a break at a remote cabin, where they get more than they bargained for, discovering the truth behind the cabin in the woods.
 
 [TMDB](22970)
 

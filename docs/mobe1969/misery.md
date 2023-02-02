@@ -4,7 +4,7 @@
 
 **1990 • R • 1h 47m • Drama, Thriller • mobe1969**
 
-Novelist Paul Sheldon crashes his car on a snowy Colorado road. He is found by Annie Wilkes, the "number one fan" of Paul's heroine Misery Chastaine. Annie is also somewhat unstable, and Paul finds himself crippled, drugged and at her mercy.
+Novelist Paul Sheldon crashes his car on a snowy Colorado road. He is found by Annie Wilkes, the "number one fan" of Paul's heroine Misery Chastaine. Annie is also dangerously unstable, and Paul finds himself crippled, drugged, and at her mercy.
 
 [TMDB](1700)
 

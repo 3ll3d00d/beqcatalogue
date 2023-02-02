@@ -4,7 +4,7 @@
 
 **2022 • NR • 1h 35m • Korean • Action, Thriller, Crime • mobe1969**
 
-A retired hitman whose wife goes on a trip with her friend, and asks him to look after the friend's teenage daughter. Things go awry when he is forced to use a little violence to protect the girl from juvenile delinquents, but then they are found dead and the girl is kidnapped.
+When retired hitman’s wife goes on vacation with her friend, she asks him to look after the friend's teenage daughter. Things go awry when he is forced to use a little violence to protect the girl from juvenile delinquents, but then they are found dead and the girl is kidnapped.
 
 [TMDB](938008)
 

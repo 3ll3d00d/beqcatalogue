@@ -4,7 +4,7 @@
 
 **2015 • R • 1h 33m • Horror, Thriller • mobe1969**
 
-In the dead of winter, Kat and Rose, two very different girls, find themselves spending winter break at their prestigious prep school. What they don't know is that Kat is being stalked by an evil entity, and their lives are about to change forever. Meanwhile, Joan, a young, troubled woman, makes her way across a frozen landscape towards the school. But why?
+Two young students at a prestigious prep school for girls are assailed by an evil, invisible power when they are stranded at the school over winter break.
 
 [TMDB](334536)
 

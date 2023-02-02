@@ -4,7 +4,7 @@
 
 **2002 • R • 1h 29m • Horror, Thriller, Mystery • mobe1969**
 
-Kirsty Cotten is now all grown up and married. Her memory of the events that took place back at her parent's home and the mental institution have dimmed, but she is still traumatized. A fatal car crash kills Kirsty. Now, her husband finds himself in a strange world full of sexy women, greed and murder, making him believe that he is in hell.
+Kirsty Cotton is now all grown up and married. Her memory of the events that took place back at her parent's home and the mental institution have dimmed, but she is still traumatized. A fatal car crash kills Kirsty. Now, her husband finds himself in a strange world full of sexy women, greed and murder, making him believe that he is in hell.
 
 [TMDB](11246)
 

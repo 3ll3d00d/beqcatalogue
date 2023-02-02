@@ -4,7 +4,7 @@
 
 **2010 • PG-13 • 1h 50m • Comedy, Action, Drama • mobe1969**
 
-Milo Boyd is a bounty hunter whose latest gig is rather satisfying, as he finds out that the bail-skipper he must chase down is his own ex-wife, Nicole -- but she has no intention of getting nabbed without a fight. Complicating matters, Nicole's wannabe-boyfriend, Stewart, joins the chase.
+A revered bounty hunter's latest gig is rather satisfying, as his bail-skipper is his ex-wife, who has no intention of getting nabbed without a fight.
 
 [TMDB](27573)
 
@@ -14,7 +14,7 @@ Milo Boyd is a bounty hunter whose latest gig is rather satisfying, as he finds 
 
 **2011 • PG-13 • 1h 50m • Comedy, Action, Drama • mobe1969**
 
-Milo Boyd is a bounty hunter whose latest gig is rather satisfying, as he finds out that the bail-skipper he must chase down is his own ex-wife, Nicole -- but she has no intention of getting nabbed without a fight. Complicating matters, Nicole's wannabe-boyfriend, Stewart, joins the chase.
+A revered bounty hunter's latest gig is rather satisfying, as his bail-skipper is his ex-wife, who has no intention of getting nabbed without a fight.
 
 [TMDB](27573)
 

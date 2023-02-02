@@ -4,7 +4,7 @@
 
 **2022 • PG-13 • 1h 45m • Horror • mobe1969**
 
-Craig, a young boy living in a small town befriends an older, reclusive billionaire, Mr. Harrigan. The two form a bond over books and an iPhone, but when the man passes away, the boy discovers that not everything dead is gone, and finds himself able to communicate with his friend from the grave through the iPhone that was buried with him.
+Craig, a young boy living in a small town befriends an older, reclusive billionaire, Mr. Harrigan. The two form a bond over books and an iPhone, but when the man passes away the boy discovers that not everything dead is gone.
 
 [TMDB](723419)
 

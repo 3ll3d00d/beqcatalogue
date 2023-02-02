@@ -4,7 +4,7 @@
 
 **2013 • NR • 1h 37m • Korean • Action, Thriller, Crime • mobe1969**
 
-"I'll blow up Mapo Bridge." An anonymous call comes into a radio station one day. When it turns out to be legitimate, a terrorist's threats end up getting broadcast live throughout the country.
+A newsman discovers he's been rigged with a bomb after he has an exclusive interview with a terrorist who blew up a bridge.
 
 [TMDB](209764)
 

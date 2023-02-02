@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 48m • Drama, Horror, Science Fiction • mobe1969**
 
-Humans adapt to a synthetic environment, with new transformations and mutations. With his partner Caprice, Saul Tenser, celebrity performance artist, publicly showcases the metamorphosis of his organs in avant-garde performances.
+With his partner Caprice, celebrity performance artist Saul Tenser publicly showcases the metamorphosis of his organs in avant-garde performances. Timlin, an investigator from the National Organ Registry, obsessively tracks their movements, which is when a mysterious group is revealed... Their mission -- to use Saul's notoriety to shed light on the next phase of human evolution.
 
 [TMDB](819876)
 

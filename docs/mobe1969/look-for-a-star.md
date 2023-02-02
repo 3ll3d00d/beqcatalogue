@@ -4,7 +4,7 @@
 
 **2009 • NR • 1h 57m • Cantonese • Romance, Drama, Comedy • mobe1969**
 
-Wealthy construction mogul Sam Ching (Andy Lau) and cabaret dancer Milan Sit (Qi Shu) fall madly in love with one another despite the class differences that would keep many couples apart. However, what Sit doesn't know is that Ching is the man responsible for razing a building representing cherished memories from her childhood. Can they live happily ever after if this secret gets out?
+Wealthy construction mogul Sam Ching and cabaret dancer Milan Sit fall madly in love with one another despite the class differences that would keep many couples apart. However, what Sit doesn't know is that Ching is the man responsible for razing a building representing cherished memories from her childhood.
 
 [TMDB](41544)
 

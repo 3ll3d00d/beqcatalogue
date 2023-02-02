@@ -4,7 +4,7 @@
 
 **1999 • R • 1h 45m • Thriller • mobe1969**
 
-A woman framed for her husband's murder suspects he is still alive; as she has already been tried for the crime, she can't be re-prosecuted if she finds and kills him.
+Framed for the murder of her husband, Libby Parsons survives the long years in prison with two burning desires sustaining her -- finding her son and solving the mystery that destroyed her once-happy life. Standing between her and her quest; however, is her parole officer, Travis Lehman. Libby poses a challenge to the cynical officer, one that forces him to face up to his own failings while pitting him against his superiors and law enforcement colleagues.
 
 [TMDB](10398)
 

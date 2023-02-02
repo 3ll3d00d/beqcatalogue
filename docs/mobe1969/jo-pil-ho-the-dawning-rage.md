@@ -4,7 +4,7 @@
 
 **2019 • NR • 2h 7m • Korean • Action, Crime, Drama • mobe1969**
 
-On the run from a dogged internal affairs agent, a corrupt cop reluctantly teams up with a defiant teen to unravel a conspiracy -- before it's too late.
+On the run from a dogged internal affairs agent, a corrupt cop reluctantly teams up with a defiant teen to unravel a conspiracy before it's too late.
 
 [TMDB](574303)
 

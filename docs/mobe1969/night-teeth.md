@@ -4,7 +4,7 @@
 
 **2021 • R • 1h 47m • Horror, Thriller, Action • mobe1969**
 
-A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
+A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions—and their dangerous, shadowy underworld—he must fight to stay alive.
 
 [TMDB](669671)
 

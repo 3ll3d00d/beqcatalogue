@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 32m • Action, Thriller • mobe1969**
 
-A group of officers based in a labyrinthine top-secret must fight for their lives against Hatchet, a brilliant and infamous high-value detainee. When he escapes, his mysterious and deadly agenda has far reaching and dire consequences.
+A group of officers based in a labyrinthine top-secret prison must fight for their lives against Hatchet, a brilliant and infamous high-value detainee. When he escapes, his mysterious and deadly agenda has far reaching and dire consequences.
 
 [TMDB](848123)
 

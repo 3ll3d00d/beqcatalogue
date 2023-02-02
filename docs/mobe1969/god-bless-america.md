@@ -4,7 +4,7 @@
 
 **2011 • R • 1h 44m • Comedy, Drama • mobe1969**
 
-Fed up with the cruelty and stupidity of American culture, an unlikely duo goes on a killing spree, killing reality TV stars, bigots and others they find repugnant in this black comedy.
+Fed up with the cruelty and stupidity of American culture, an unlikely duo goes on a killing spree, killing reality TV stars, bigots and others they find repugnant.
 
 [TMDB](74306)
 

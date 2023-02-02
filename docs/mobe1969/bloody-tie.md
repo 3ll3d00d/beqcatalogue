@@ -4,7 +4,7 @@
 
 **2006 • NR • 1h 56m • Korean • Action, Crime, Thriller • mobe1969**
 
-In this uncompromising vision of the gritty Korean underworld, a crystal meth dealer with a tragic past is forced to team up with a renegade cop to take down a powerful crime lord.
+A crystal meth dealer with a tragic past is forced to team up with a renegade cop to take down a powerful crime lord.
 
 [TMDB](32159)
 

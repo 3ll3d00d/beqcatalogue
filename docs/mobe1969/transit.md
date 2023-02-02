@@ -4,7 +4,7 @@
 
 **2012 • R • 1h 28m • Action, Thriller, Crime • mobe1969**
 
-A family on a road trip is stalked by criminals who stashed stolen money in their car.
+Nate takes his family for a camping trip to reconnect. When they pull off at a rest stop, a gang of thieves hides their stash from an armored car robbery among the family belongings. They soon find themselves on the run and the gang will stop at nothing to get their money back.
 
 [TMDB](82485)
 

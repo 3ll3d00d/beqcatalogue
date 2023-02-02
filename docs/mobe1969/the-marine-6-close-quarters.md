@@ -4,7 +4,7 @@
 
 **2018 • R • 1h 25m • Action • mobe1969**
 
-Jake Carter and another former Marine, Luke Trapper, join forces to rescue a kidnapped girl from a gang of international criminals.
+Jake Carter and another former Marine, Luke Trapper,  join forces to rescue a young kidnapped girl from a gang of international criminals.
 
 [TMDB](548928)
 

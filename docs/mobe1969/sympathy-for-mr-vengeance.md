@@ -4,7 +4,7 @@
 
 **2002 • R • 2h 9m • Korean • Action, Drama, Thriller • mobe1969**
 
-This is the story of Ryu, a deaf man, and his sister, who requires a kidney transplant. In order to afford the transplant, Ryu and his girlfriend develop a plan to kidnap Park's daughter. Things go horribly wrong, and the situation spirals rapidly into a cycle of violence and revenge.
+A deaf man and his girlfriend resort to desperate measures in order to fund a kidney transplant for his sister. Things go horribly wrong, and the situation spirals rapidly into a cycle of violence and revenge.
 
 [TMDB](4689)
 

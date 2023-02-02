@@ -4,7 +4,7 @@
 
 **2012 • R • 1h 55m • Crime, Drama, Western • mobe1969**
 
-Set in the Depression-era Franklin County, Virginia, a bootlegging gang is threatened by authorities who want a cut of their profits.
+In 1931, the Bondurant brothers of Franklin County, Virginia, run a multipurpose backwoods establishment that hides their true business — bootlegging. Middle brother Forrest is the brain of the operation; older Howard is the brawn, and younger Jack, the lookout. Though the local police have taken bribes and left the brothers alone, a violent war erupts when a sadistic lawman from Chicago arrives and tries to shut down the Bondurants operation.
 
 [TMDB](82633)
 

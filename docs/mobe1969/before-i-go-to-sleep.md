@@ -4,7 +4,7 @@
 
 **2014 • R • 1h 32m • Mystery, Thriller • mobe1969**
 
-A woman wakes up every day, remembering nothing as a result of a traumatic accident in her past. One day, new terrifying truths emerge that force her to question everyone around her.
+Ever since she sustained a traumatic head injury, Christine Lucas has suffered from anterograde amnesia, unable to form new memories and having forgotten the last 15 years of her life. Every morning, she becomes reacquainted with her husband, Ben, and the other constants in her life. Terrifying truths about her past begin to emerge, causing her to question everything -- and everyone -- around her.
 
 [TMDB](204922)
 

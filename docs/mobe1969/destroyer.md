@@ -4,7 +4,7 @@
 
 **2018 • R • 2h 1m • Drama, Crime, Thriller, Action • mobe1969**
 
-Erin Bell is an LAPD detective who, as a young cop, was placed undercover with a gang in the California desert with tragic results. When the leader of that gang re-emerges many years later, she must work her way back through the remaining members and into her own history with them to finally reckon with the demons that destroyed her past.
+When Erin Bell was a young cop, she was given an undercover assignment that ended badly and destroyed her life. Years later, she must face her demons in order to make peace with her past.
 
 [TMDB](471507)
 

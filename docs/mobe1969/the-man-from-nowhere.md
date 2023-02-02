@@ -4,7 +4,7 @@
 
 **2010 • R • 1h 59m • Korean • Action, Thriller, Crime • mobe1969**
 
-His only friend called him 'the man from nowhere'... Taesik, a former special agent becomes a loner after losing his wife in a miserable accident and lives a bitter life running a pawnshop. He only has a few customers and a friend named Somi, a little girl next door. As Taesik spends more and more time with Somi, he gets attached to her. Then Somi is kidnapped by a gang, and as Taesik tries to save Somi by becoming deeply associated with the gang his mysterious past is revealed...
+His only friend called him 'the man from nowhere'... Taesik, a former special agent becomes a loner after losing his wife in a miserable accident and lives a bitter life running a pawnshop. He only has a few customers and a friend named Somi, a little girl next door. As Taesik spends more and more time with Somi, he gets attached to her. Then Somi is kidnapped by a gang, and as Taesik tries to save Somi by becoming deeply associated with the gang his mysterious past is revealed.
 
 [TMDB](51608)
 

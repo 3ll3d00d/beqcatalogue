@@ -4,7 +4,7 @@
 
 **2022 • NR • 1h 57m • Crime, Thriller, Drama • mobe1969**
 
-Two men who meet on a bus and strike up a conversation that turns into friendship. For Henry Teague, worn down by a lifetime of physical labour and crime, this is a dream come true.
+Two strangers strike up a conversation on a long journey. One is a suspect in an unsolved missing person’s case and the other an undercover operative on his trail. Their uneasy friendship becomes the core of this tightly wrought thriller, which is based on the true story of one of the largest investigations and undercover operations in Australia.
 
 [TMDB](848791)
 

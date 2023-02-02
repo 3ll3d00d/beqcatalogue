@@ -4,7 +4,7 @@
 
 **2022 • NR • 2h 26m • Malayalam • Comedy, Drama, Action • mobe1969**
 
-Waseem is young, carefree and often drawn to fights. But when love blooms with a star vlogger, the impact of his fists could have disastrous effects.
+Wazim is young, carefree and often drawn to fights. But when love blooms with a star vlogger, the impact of his fists could have disastrous effects.
 
 [TMDB](863530)
 

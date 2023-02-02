@@ -4,7 +4,7 @@
 
 **1977 • R • 2h 23m • Action, Drama, Thriller • mobe1969**
 
-An Israeli anti-terrorist agent must stop a disgruntled Vietnam vet cooperating in a plot to commit a terrorist attack at the Super Bowl.
+An Israeli anti-terrorist agent must stop a disgruntled Vietnam vet cooperating in a Black September PLO plot to commit a terrorist attack at the Super Bowl.
 
 [TMDB](50374)
 

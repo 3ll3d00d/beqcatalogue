@@ -4,7 +4,7 @@
 
 **2021 • R • 2h 18m • Comedy, Drama, Science Fiction • mobe1969**
 
-Two low-level astronomers must go on a giant media tour to warn mankind of an approaching comet that will destroy planet Earth.
+Two American astronomers attempt to warn humankind about an approaching comet that will wipe out life on planet Earth.
 
 [TMDB](646380)
 

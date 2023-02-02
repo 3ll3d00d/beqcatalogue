@@ -4,7 +4,7 @@
 
 **2014 • NR • 1h 32m • Cantonese • Crime, Thriller • mobe1969**
 
-This is a story about the biggest financial fraud attempted in Hong Kong, directed at the Government of Hong Kong and involved all 7 million Hong Kong citizens... no one is free from the scheme. Within the four decades of guarding Hong Kong's financial integrity, the ICAC has never come across an opponent so huge and so well organized as in the Z Torrent file... shadowy figures from the underworld of South America, Italy and Europe all ready to plot against the estimated 150 million dollars of Hong Kong citizens' tax money which was pooled in a fund called the WELFARE FUND. High profile chartered accountants, high ranking law enforcers, power lawyers, the super entrepreneurs; they all have their shares of play but none can really grasp the big picture; they are there only for what they desire most.
+ICAC principal investigator William Luk takes his job seriously, and he needs every last scintilla of support from his team to take on the powerful and cunning Supt Wong, who is corrupt to the core. Wong is an enthusiastic tool of the monstrous Malcolm Wu, a cowboy big-time share trader who will stop at nothing to secure a large slice of the upcoming float of the HK government pension fund, worth billions.
 
 [TMDB](277519)
 

@@ -6,7 +6,7 @@ Unrated Cut
 
 **2015 • R • 1h 33m • Comedy • mobe1969**
 
-When Lou, who has become the "father of the Internet," is shot by an unknown assailant, Jacob and Nick fire up the time machine again to save their friend.
+After their first adventure with the "Hot Tub Time Machine," Lou and Nick are living very well off their ill-gotten gains, while Jacob still cannot rely on Lou to be a positive role model. When an unknown assailant breaks into Lou's mansion and shoots him, Nick and Jacob take him for another trip in the hot tub. They emerge in the year 2025, where they must figure out who shot Lou and prevent it from happening again.
 
 [TMDB](243938)
 

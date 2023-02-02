@@ -4,7 +4,7 @@
 
 **2000 • R • 1h 56m • Mystery, Horror • mobe1969**
 
-A murdering spree begins to happen again, this time its targeted toward the original Woodsboro survivors and those associated with the movie inside a movie, 'Stab 3'. Sydney must face the demons of her past to stop the killer.
+As bodies begin dropping around the set of ‘Stab 3’ — a movie sequel based on the gruesome Woodsboro killings — Sidney, Gale and Dewey are once again drawn into a game of horror movie mayhem.
 
 [TMDB](4234)
 

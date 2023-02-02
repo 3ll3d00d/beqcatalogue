@@ -4,7 +4,7 @@
 
 **2022 • NR • 1h 45m • Spanish • Action, Thriller, Crime • mobe1969**
 
-Follows Juan, an agent working for the intelligence services, who also reports to a parallel unit involved in illegal activities.
+Juan, a secret service agent, approaches Wendy, a young Filipina who works as a maid for a suspicious couple.
 
 [TMDB](769636)
 

@@ -4,7 +4,7 @@
 
 **2004 • R • 1h 27m • Comedy, Horror • mobe1969**
 
-Chucky and Tiffany are resurrected by their innocent son, Glen, and hit Hollywood, where a movie depicting the killer dolls' murder spree is underway.
+This time around, Chucky and his homicidal honey, Tiffany, are brought back to life by their orphan offspring, Glen. Then the horror goes Hollywood as Chucky unleashes his own brand of murderous mayhem!
 
 [TMDB](11249)
 

@@ -4,7 +4,7 @@
 
 **2011 • NR • 1h 47m • Mandarin • History, Drama, Action, War • mobe1969**
 
-During the warring period of the three kingdoms, ancient China is in turmoil. To unify the country, general Cao Cao (Jiang Wen), the real power behind the Emperor, enlists the aid of the greatest warrior in the land, Guan Yu (Donnie Yen). However, Guan Yu is a loyal friend of Cao Cao's enemy Liu Bei (Alex Fong) so to persuade the peerless warrior to fight, Cao Cao takes his beloved Qi Lan (Sun Li) hostage. After leading Cao Cao's forces to victory Guan Yu sets out with Qi Lan to rejoin Liu Bei. But now Cao Cao has deemed him too great a threat to live, and on the journey he must face all the forces at the Emperor's command sent to destroy him.
+During the warring period of the three kingdoms, ancient China is in turmoil. To unify the country, general Cao Cao, the real power behind the Emperor, enlists the aid of the greatest warrior in the land, Guan Yu.  However, Guan Yu is a loyal friend of Cao Cao's enemy Liu Bei so to persuade the peerless warrior to fight, Cao Cao takes his beloved Qi Lan hostage.  After leading Cao Cao's forces to victory Guan Yu sets out with Qi Lan to rejoin Liu Bei.  Now Cao Cao has deemed him too great a threat to live, and on the journey he must face all the forces at the Emperor's command sent to destroy him.
 
 [TMDB](62977)
 

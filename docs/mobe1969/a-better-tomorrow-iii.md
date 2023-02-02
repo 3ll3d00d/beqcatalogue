@@ -4,7 +4,7 @@
 
 **1989 • NR • 1h 54m • Cantonese • War, Action, Thriller • mobe1969**
 
-The year is 1974. A young Hong Kong Chinese, Mark (Chow Yun-Fat), travels to Saigon to make his fortune. There, he encounters a mysterious femme fatale, the lovely Kit. As he becomes more involved in her various underworld deals, a tragic romance develops. On the eve of the outbreak of war, Kit's past returns to endanger her, and Mark must risk everything for the one true love of his life...
+The year is 1974. A young Hong Kong Chinese, Mark, travels to Saigon to make his fortune. There, he encounters a mysterious femme fatale, the lovely Kit. As he becomes more involved in her various underworld deals, a tragic romance develops. On the eve of the outbreak of war, Kit's past returns to endanger her, and Mark must risk everything for the one true love of his life.
 
 [TMDB](41244)
 

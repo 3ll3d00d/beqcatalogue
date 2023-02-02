@@ -4,7 +4,7 @@
 
 **2000 • R • 1h 51m • Horror, Drama, Thriller, Mystery • mobe1969**
 
-When a local woman disappears and the police can't seem to find any leads, her father turns to a poor young woman with psychic powers. Slowly she starts having visions of the woman chained and in a pond. Her visions lead to the body and the arrest of an abusive husband, but did he really do it?
+Annie Wilson, young widow and mother of three, makes her living foretelling others' futures⁠—though her own has become cloudier than even she can see. Threatened by a client's violent husband and plagued by visions of a missing local woman, Annie finds herself pulled into a thicket of lies and deception in which her extraordinary gift may ultimately get her killed.
 
 [TMDB](2046)
 

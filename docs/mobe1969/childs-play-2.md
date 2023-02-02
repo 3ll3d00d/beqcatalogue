@@ -4,7 +4,7 @@
 
 **1990 • R • 1h 24m • Horror, Thriller • mobe1969**
 
-Chucky's back! The notorious killer doll with the satanic smile comes back to life in this new chapter depicting the terrifying struggle between young Andy Barclay and the demonic doll attempting to possess his soul. Despite being roasted to a crisp in his last escapade, Chucky rises from the ashes after being reconstructed by a toy factory to dispel the negative publicity surrounding the doll. Back in one piece, Chucky tracks his prey to a foster home where the chase begins again in this fiendishly clever sequel to the enormously popular original.
+When Andy’s mother is admitted to a psychiatric hospital, the young boy is placed in foster care, andChucky, determined to claim Andy's soul, is not far behind.
 
 [TMDB](11186)
 
@@ -14,7 +14,7 @@ Chucky's back! The notorious killer doll with the satanic smile comes back to li
 
 **1990 • R • 1h 24m • Drama, Horror • mobe1969**
 
-When Andy's mother is admitted to a psychiatric hospital, the young boy is placed in foster care, and Chucky, determined to claim Andy's soul, is not far behind.
+When Andy’s mother is admitted to a psychiatric hospital, the young boy is placed in foster care, andChucky, determined to claim Andy's soul, is not far behind.
 
 [TMDB](11186)
 

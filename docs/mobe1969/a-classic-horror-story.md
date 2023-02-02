@@ -4,7 +4,7 @@
 
 **2021 • 15 • 1h 35m • Drama, Horror, Mystery, Comedy • mobe1969**
 
-Five carpoolers traveling in a motorhome to a common destination swerve to avoid an animal carcass and crash into a tree. When they come to their senses, they find themselves in the middle of nowhere. The road they were traveling on has disappeared and there is only a dense, impenetrable forest and a wooden house in the middle of a clearing, which they discover is the home of a spine-chilling cult.
+Five people travelling by camper crash into a tree. When they recover, the road they were driving on has been replaced by an impenetrable forest and a wooden house.
 
 [TMDB](768334)
 

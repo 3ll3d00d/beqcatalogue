@@ -4,7 +4,7 @@
 
 **2014 • PG-13 • 1h 37m • Thriller, Science Fiction • mobe1969**
 
-Three college students on a road trip across the Southwest experience a detour – the tracking of a computer genius who has already hacked into MIT and exposed security faults. When the trio find themselves drawn to an eerily isolated area, suddenly everything goes dark. When one of the students regains consciousness, he finds himself in a waking nightmare.
+On a road trip, Nic and two friends are drawn to an isolated area by a computer genius. When everything suddenly goes dark, Nic regains consciousness - only to find himself in a waking nightmare.
 
 [TMDB](242095)
 

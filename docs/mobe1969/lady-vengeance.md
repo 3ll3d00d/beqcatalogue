@@ -4,7 +4,7 @@
 
 **2005 • R • 1h 55m • Korean • Drama, Thriller • mobe1969**
 
-After a 13-year imprisonment for the kidnap and murder of a 6 year old boy, beautiful Lee Guem-ja starts seeking revenge on the man that was really responsible for the boy's death. With the help of fellow inmates and reunited with her daughter, she gets closer and closer to her goal. But will her actions lead to the relief she seeks?
+After being wrongfully convicted, a woman is imprisoned for 13 years and forced to give up her daughter. While in prison she gains the respect of her cellmates and plots her revenge on the man responsible. Once released, she begins her elaborate plan of retribution, but discovers a horrifying truth.
 
 [TMDB](4550)
 

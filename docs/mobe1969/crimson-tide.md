@@ -4,7 +4,7 @@
 
 **1995 • R • 1h 56m • Thriller, War, Action • mobe1969**
 
-On a US nuclear missile sub, a young first officer stages a mutiny to prevent his trigger happy captain from launching his missiles before confirming his orders to do so.
+After the Cold War, a breakaway Russian republic with nuclear warheads becomes a possible worldwide threat. U.S. submarine Capt. Frank Ramsey signs on a relatively green but highly recommended Lt. Cmdr. Ron Hunter to the USS Alabama, which may be the only ship able to stop a possible Armageddon. When Ramsay insists that the Alabama must act aggressively, Hunter, fearing they will start rather than stop a disaster, leads a potential mutiny to stop him.
 
 [TMDB](8963)
 

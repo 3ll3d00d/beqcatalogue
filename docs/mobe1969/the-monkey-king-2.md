@@ -4,7 +4,7 @@
 
 **2016 • G • 2h 0m • Mandarin • Action, Adventure, Fantasy • mobe1969**
 
-Taking place 500 years after the Havoc in Heaven, the Tang Priest is appointed by Buddha to go to the West to fetch the sacred scriptures, only to accidentally free the Monkey King. With Lady White (Gong Li) aiming to break up the team assembled to defeat her, the Monkey King must fight in order to save his world!
+Taking place 500 years after the Havoc in Heaven, the Tang Priest is appointed by Buddha to go to the West to fetch the sacred scriptures, only to accidentally free the Monkey King. With Lady White aiming to break up the team assembled to defeat her, the Monkey King must fight in order to save his world!
 
 [TMDB](381902)
 
@@ -14,7 +14,7 @@ Taking place 500 years after the Havoc in Heaven, the Tang Priest is appointed b
 
 **2016 • G • 2h 0m • Cantonese • Action, Adventure, Fantasy • mobe1969**
 
-Taking place 500 years after the Havoc in Heaven, the Tang Priest is appointed by Buddha to go to the West to fetch the sacred scriptures, only to accidentally free the Monkey King. With Lady White (Gong Li) aiming to break up the team assembled to defeat her, the Monkey King must fight in order to save his world!
+Taking place 500 years after the Havoc in Heaven, the Tang Priest is appointed by Buddha to go to the West to fetch the sacred scriptures, only to accidentally free the Monkey King. With Lady White aiming to break up the team assembled to defeat her, the Monkey King must fight in order to save his world!
 
 [TMDB](381902)
 

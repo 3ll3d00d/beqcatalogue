@@ -6,7 +6,7 @@ Extended Cut
 
 **2005 • PG-13 • 3h 20m • Adventure, Drama, Action • mobe1969**
 
-In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.
+When an alien race and factions within Starfleet attempt to take over a planet that has "regenerative" properties, it falls upon Captain Picard and the crew of the Enterprise to defend the planet's people as well as the very ideals upon which the Federation itself was founded.
 
 [TMDB](200)
 
@@ -18,7 +18,7 @@ Theatrical Cut
 
 **2005 • PG-13 • 3h 7m • Adventure, Drama, Action • mobe1969**
 
-In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.
+When an alien race and factions within Starfleet attempt to take over a planet that has "regenerative" properties, it falls upon Captain Picard and the crew of the Enterprise to defend the planet's people as well as the very ideals upon which the Federation itself was founded.
 
 [TMDB](200)
 

@@ -4,7 +4,7 @@
 
 **2014 • 15 • 1h 47m • Drama, Thriller • mobe1969**
 
-Two first-year students at Oxford University join the infamous Riot Club, where reputations can be made or destroyed over the course of a single evening.
+Two first-year students at Oxford University join a secret society and learn that their reputations can be made or destroyed over the course of one evening.
 
 [TMDB](270302)
 

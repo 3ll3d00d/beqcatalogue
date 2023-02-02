@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 49m • Drama, Mystery, Thriller • mobe1969**
 
-In the Irish Midlands of 1859 an English nurse, Lib Wright, goes to a tiny village to observe what some see as a medical anomaly and others a miracle, that a girl has survived without food for months. Tourists flock to see 11-year-old Anna O’Donnell, and a journalist has come to cover the sensation as two strangers transform each other’s lives in a story of love pitted against evil.
+Haunted by her past, a nurse travels from England to a remote Irish village in 1862 to investigate a young girl's supposedly miraculous fast.
 
 [TMDB](823766)
 

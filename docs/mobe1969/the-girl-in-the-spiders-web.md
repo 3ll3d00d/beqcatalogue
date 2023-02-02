@@ -4,7 +4,7 @@
 
 **2018 • R • 1h 55m • Crime, Thriller, Action, Drama • mobe1969**
 
-In Stockholm, Sweden, hacker Lisbeth Salander is hired by Frans Balder, a computer engineer, to retrieve a program that he believes it is too dangerous to exist.
+After being enlisted to recover a dangerous computer program, hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cybercriminals and corrupt government officials.
 
 [TMDB](446807)
 

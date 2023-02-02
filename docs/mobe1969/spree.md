@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 33m • Horror, Comedy, Crime, Thriller • mobe1969**
 
-Kurt Kunkle, a rideshare driver thirsty for followers, has figured out a deadly plan to go viral. As his disturbing livestream is absurdly embraced by the social media hellscape, a comedian emerges as the only hope to stop him.
+Desperate for an online following, a rideshare driver has figured out a deadly plan to go viral and he will stop at nothing to get his five minutes of fame.
 
 [TMDB](653598)
 

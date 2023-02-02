@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 50m • Thriller, Crime • mobe1969**
 
-A rebellious young graffiti artist who targets the homes of the wealthy elite but discovers a shocking secret that leads him on a journey endangering himself and those closest to him.
+A rebellious young graffiti artist, who targets the homes of the wealthy elite, discovers a shocking secret that leads him on a journey endangering himself and those closest to him.
 
 [TMDB](852448)
 

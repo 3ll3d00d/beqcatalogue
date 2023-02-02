@@ -4,7 +4,7 @@
 
 **2018 • R • 2h 5m • Mandarin • Drama, Action, Adventure, Thriller, Mystery, Fantasy • mobe1969**
 
-Drifting aimlessly through life, Kaisi (Li Yi Feng) has racked up debts of several million having borrowed money from his friends. Lured with the promise of writing it all off, Kaisi leaves his ailing mother and childhood sweetheart Qing (Zhou Dongyu) to board the ship Destiny and attend a gambling party controlled by the mysterious Anderson (Michael Douglas).  All players join the game with stars. For each game they lose, their opponent captures a star. Everyone is holding daggers behind their backs plotting dirty means by which to overcome their opponents. The game quickly deteriorates into a slaughter and Kaisi must battle save his own skin…
+Drifting aimlessly through life, Kaisi has racked up debts of several million having borrowed money from his friends. Lured with the promise of writing it all off, Kaisi leaves his ailing mother and childhood sweetheart Qing to board the ship Destiny and attend a gambling party controlled by the mysterious Anderson. All players join the game with stars. For each game they lose, their opponent captures a star. Everyone is holding daggers behind their backs plotting dirty means by which to overcome their opponents. The game quickly deteriorates into a slaughter and Kaisi must battle save his own skin.
 
 [TMDB](518764)
 

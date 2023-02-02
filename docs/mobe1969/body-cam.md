@@ -4,7 +4,7 @@
 
 **2021 • R • 1h 36m • Horror, Thriller, Mystery • mobe1969**
 
-Cops involved with covering up a murder by getting rid of their body cam video footage find themselves haunted by an evil spirit.
+As a police officer investigates the gruesome murder of her colleague, she discovers that a mysterious supernatural force is behind it.
 
 [TMDB](513268)
 

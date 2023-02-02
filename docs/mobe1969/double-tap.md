@@ -4,7 +4,7 @@
 
 **2000 • NR • 1h 36m • Cantonese • Action, Thriller, Crime • mobe1969**
 
-Rick Pang (Leslie Cheung) is an IPSC champion who is also a gun expert who modifies his pistols to perfect his technique known as 'double tap', placing two shots in the same exact spot.  In the 1996 IPSC Hong Kong shooting competition, he goes up against another experienced shooter named Miu (Alex Fong). Unfortunately, the competition was marred by a depressed stock trader, a friend of Miu, who lost much in the stock market and threatened the safety of the contest, wounding the IPSC supervisor, again one of Miu's friends. Rick was forced to kill him with his trademark double tap.  Rick's experience from this encounter was strangely exciting to him and he discovers his lust for murdering others in cold blood.
+Rick Pang, an IPSC champion who is also a gun expert who tinkers with his pistols to perfect his technique known as 'double tap' which is the terminology where a shooter can place two exact shots in the same spot to maximize marksmanship.
 
 [TMDB](127849)
 

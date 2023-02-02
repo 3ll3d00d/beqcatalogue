@@ -4,7 +4,7 @@
 
 **2009 • PG-13 • 2h 7m • Thriller, Drama • mobe1969**
 
-Handsome, unflappable U.S. Congressman Stephen Collins is the future of his political party: an honorable appointee who serves as the chairman of a committee overseeing defense spending. All eyes are upon the rising star to be his party's contender for the upcoming presidential race. Until his research assistant/mistress is brutally murdered and buried secrets come tumbling out.
+When a congressional aide is killed, a Washington, D.C. journalist starts investigating the case involving the Representative, his old college friend.
 
 [TMDB](16995)
 

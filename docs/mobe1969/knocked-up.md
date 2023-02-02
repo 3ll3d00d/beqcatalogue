@@ -6,7 +6,7 @@ Theatrical Cut
 
 **2007 • R • 2h 9m • Comedy, Romance, Drama • mobe1969**
 
-For fun loving party animal Ben Stone, the last thing he ever expected was for his one night stand to show up on his doorstep eight weeks later to tell him she's pregnant.
+A slacker and a career-driven woman accidentally conceive a child after a one-night stand. As they try to make the relationship work, they must navigate the challenges of parenthood and their differences in lifestyle and maturity.
 
 [TMDB](4964)
 
@@ -18,7 +18,7 @@ Unrated Cut
 
 **2007 • R • 2h 13m • Comedy, Romance, Drama • mobe1969**
 
-For fun loving party animal Ben Stone, the last thing he ever expected was for his one night stand to show up on his doorstep eight weeks later to tell him she's pregnant.
+A slacker and a career-driven woman accidentally conceive a child after a one-night stand. As they try to make the relationship work, they must navigate the challenges of parenthood and their differences in lifestyle and maturity.
 
 [TMDB](4964)
 

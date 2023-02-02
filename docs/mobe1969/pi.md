@@ -4,7 +4,7 @@
 
 **1998 • R • 1h 24m • Mystery, Drama, Thriller • mobe1969**
 
-The debut film from Darren Aronofsky in which a mathematical genius Maximilian Cohen discovers a link in the connection between numbers and reality and thus believes he can predict the future.
+A mathematical genius discovers a link between numbers and reality, and thus believes he can predict the future.
 
 [TMDB](473)
 

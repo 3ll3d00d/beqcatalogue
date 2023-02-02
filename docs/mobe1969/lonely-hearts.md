@@ -4,7 +4,7 @@
 
 **2006 • R • 1h 48m • Drama, Thriller, Crime, Romance • mobe1969**
 
-Based on a true story. . . . In the late 1940s, Martha Beck and Raymond Fernandez were America’s notorious “Lonely Hearts Killers.” Their lethal scam was simple; they would swindle and then viciously murder lovelorn war widows who would answer their personal ads in which Ray would describe himself as a sexy Latin lover.
+In the late 1940s, a murderous couple known as the 'The Lonely Hearts Killers' kills close to a dozen people. Two detectives try to nab the duo who find their targets via the personals in the paper.
 
 [TMDB](1252)
 

@@ -4,7 +4,7 @@
 
 **2014 • 15 • 1h 38m • Action • mobe1969**
 
-A mysterious warrior teams up with the daughter and son of a deposed Chinese Emperor to defeat their cruel Uncle, who seeks their deaths.
+A mysterious warrior teams up with the daughter and son of a deposed Chinese Emperor to defeat their cruel brother, who seeks their deaths.
 
 [TMDB](289720)
 

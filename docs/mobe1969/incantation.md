@@ -4,7 +4,7 @@
 
 **2022 • 15 • 1h 51m • Mandarin • Horror • mobe1969**
 
-Inspired by a true story of a family who believed they were possessed by spirits, this film follows a woman who must protect her child from a curse.
+Inspired by a true story of a family who believed they were possessed by spirits, this film follows a woman who must protect her child from a curse.  WARNING: This is a cursed video, it might contain certain risks to watch. For those who dares to follow, please solve the puzzle of my daughter's curse with me.
 
 [TMDB](864370)
 

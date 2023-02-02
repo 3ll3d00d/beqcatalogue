@@ -4,7 +4,7 @@
 
 **2022 • R • 2h 14m • Crime, Comedy, History, Thriller, Mystery • mobe1969**
 
-In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a murder, become suspects themselves and uncover one of the most outrageous plots in North American history.
+In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a murder, become suspects themselves and uncover one of the most outrageous plots in American history.
 
 [TMDB](664469)
 

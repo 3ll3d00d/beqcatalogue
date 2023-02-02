@@ -4,7 +4,7 @@
 
 **2018 • R • 1h 57m • Action, Comedy • mobe1969**
 
-Audrey and Morgan, two thirty-year-old best friends in Los Angeles, are thrust unexpectedly into an international conspiracy when Audrey’s ex-boyfriend shows up at their apartment with a team of deadly assassins on his trail.
+A couple of thirtysomething best friends unwittingly become entangled in an international conspiracy when one’s ex-boyfriend shows up at their apartment with a team of deadly assassins on his trail.
 
 [TMDB](454992)
 
@@ -14,7 +14,7 @@ Audrey and Morgan, two thirty-year-old best friends in Los Angeles, are thrust u
 
 **2018 • R • 1h 57m • Action, Comedy • mobe1969**
 
-Audrey and Morgan, two thirty-year-old best friends in Los Angeles, are thrust unexpectedly into an international conspiracy when Audrey’s ex-boyfriend shows up at their apartment with a team of deadly assassins on his trail.
+A couple of thirtysomething best friends unwittingly become entangled in an international conspiracy when one’s ex-boyfriend shows up at their apartment with a team of deadly assassins on his trail.
 
 [TMDB](454992)
 

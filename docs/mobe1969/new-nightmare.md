@@ -4,7 +4,7 @@
 
 **1994 • R • 1h 52m • Horror, Mystery, Fantasy • mobe1969**
 
-As Heather Langenkamp considers making another Nightmare on Elm Street film with Wes Craven, her son, Dylan, falls under the spell of the iconic disfigured villain Freddy Krueger. Eventually, Langenkamp must confront Freddy's demonic spirit to save the soul of Dylan.
+A demonic force has chosen Freddy Krueger as its portal to the real world. Can Heather Langenkamp play the part of Nancy one last time and trap the evil trying to enter our world?
 
 [TMDB](11596)
 

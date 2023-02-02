@@ -4,7 +4,7 @@
 
 **1987 • PG • 2h 10m • Action, Adventure, Thriller • mobe1969**
 
-James Bond helps a Russian General escape into the west. He soon finds out that the KGB wants to kill him for helping the General. A little while later the General is kidnapped from the Secret Service leading 007 to be suspicious.
+After a defecting Russian general reveals a plot to assassinate foreign spies, James Bond is assigned a secret mission to dispatch the new head of the KGB to prevent an escalation of tensions between the Soviet Union and the West.
 
 [TMDB](708)
 

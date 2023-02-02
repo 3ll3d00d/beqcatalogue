@@ -4,7 +4,7 @@
 
 **2004 • R • 2h 3m • Cantonese • Drama, Crime, Action, Thriller • mobe1969**
 
-Sent into a drunken tailspin when his entire unit is killed by a gang of thrill-seeking punks, disgraced Hong Kong police inspector Wing (Jackie Chan) needs help from his new rookie partner, with a troubled past of his own, to climb out of the bottle and track down the gang and its ruthless leader.
+Sent into a drunken tailspin when his entire unit is killed by a gang of thrill-seeking punks, disgraced Hong Kong police inspector Wing needs help from his new rookie partner, with a troubled past of his own, to climb out of the bottle and track down the gang and its ruthless leader.
 
 [TMDB](11636)
 

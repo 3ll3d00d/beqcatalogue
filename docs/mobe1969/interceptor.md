@@ -4,7 +4,7 @@
 
 **2022 • MA15+ • 1h 38m • Action, Thriller, Adventure, Drama • mobe1969**
 
-An Army lieutenant uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent coordinated attack simultaneously threatens her remote missile interceptor station.
+A U.S. Army Captain uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent attack threatens her remote missile interceptor station.
 
 [TMDB](831946)
 

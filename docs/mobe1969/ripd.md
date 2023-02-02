@@ -4,7 +4,7 @@
 
 **2013 • PG-13 • 1h 36m • Fantasy, Action, Comedy, Crime • mobe1969**
 
-A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him. Based on the comic by Peter M. Lenkov.
+A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him.
 
 [TMDB](49524)
 

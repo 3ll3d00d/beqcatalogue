@@ -4,7 +4,7 @@
 
 **2021 • NR • 1h 57m • Cantonese • Action, Adventure, Fantasy • mobe1969**
 
-Warlords, warriors and statesmen wage a battle for supremacy in this fantasy tale based on the hit video games and the "Romance of the Three Kingdoms."
+In the turbulent late Eastern Han Dynasty. Ambitious Dong Zhuo controls the court and the commonalty, and heroes from all over the country begin to rise.
 
 [TMDB](525660)
 

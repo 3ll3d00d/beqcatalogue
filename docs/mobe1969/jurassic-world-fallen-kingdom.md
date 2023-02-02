@@ -4,7 +4,7 @@
 
 **2018 • PG-13 • 2h 9m • Action, Adventure, Science Fiction • mobe1969**
 
-Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on Isla Nublar. So, Claire Dearing recruits Owen Grady to help prevent the extinction of the dinosaurs once again.
+When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.
 
 [TMDB](351286)
 

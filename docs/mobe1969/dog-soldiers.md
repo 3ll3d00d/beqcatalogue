@@ -4,7 +4,7 @@
 
 **2002 • R • 1h 45m • Horror, Thriller, Action • mobe1969**
 
-A squad of British soldiers on training in the lonesome Scottish wilderness find a wounded Special Forces captain and the remains of his team. As they encounter zoologist Megan, it turns out that werewolves are active in the region. They have to prepare for some action as the there will be a full moon tonight...
+A squad of British soldiers on training in the lonesome Scottish wilderness find a wounded Special Forces captain and the remains of his team. As they encounter zoologist Megan, it turns out that werewolves are active in the region. They have to prepare for some action as there will be a full moon tonight...
 
 [TMDB](11880)
 
@@ -14,7 +14,7 @@ A squad of British soldiers on training in the lonesome Scottish wilderness find
 
 **2002 • R • 1h 45m • Horror, Action, Thriller • mobe1969**
 
-A squad of British soldiers on training in the lonesome Scottish wilderness find a wounded Special Forces captain and the remains of his team. As they encounter zoologist Megan, it turns out that werewolves are active in the region. They have to prepare for some action as the there will be a full moon tonight...
+A squad of British soldiers on training in the lonesome Scottish wilderness find a wounded Special Forces captain and the remains of his team. As they encounter zoologist Megan, it turns out that werewolves are active in the region. They have to prepare for some action as there will be a full moon tonight...
 
 UHD
 

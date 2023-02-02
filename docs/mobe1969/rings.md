@@ -4,7 +4,7 @@
 
 **2017 • PG-13 • 1h 42m • Horror • mobe1969**
 
-Julia becomes worried about her boyfriend, Holt when he explores the dark urban legend of a mysterious videotape said to kill the watcher seven days after viewing. She sacrifices herself to save her boyfriend and in doing so makes a horrifying discovery: there is a "movie within the movie" that no one has ever seen before.
+Julia becomes worried about her boyfriend Holt when he explores the dark urban legend of a mysterious videotape said to kill the watcher seven days after viewing. She sacrifices herself to save her boyfriend and in doing so makes a horrifying discovery: there is a "movie within the movie" that no one has ever seen before.
 
 [TMDB](14564)
 

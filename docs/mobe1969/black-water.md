@@ -4,7 +4,7 @@
 
 **2007 • R • 1h 30m • Adventure, Drama, Horror • mobe1969**
 
-A terrifying tale of survival in the mangrove swamps of Northern Australia.
+A trio of tourists on a fishing trip in the mangrove swamps of Northern Australia are left to fend for themselves when their tour guide is killed by a crocodile.
 
 [TMDB](14138)
 

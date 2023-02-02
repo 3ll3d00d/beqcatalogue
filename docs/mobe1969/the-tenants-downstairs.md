@@ -4,7 +4,7 @@
 
 **2016 • NC-17 • 1h 56m • Mandarin • Drama, Mystery • mobe1969**
 
-A lurid fantasy of wounded flesh and accursed lives that entwine and separate in a building run by a landlord (Simon Yam), who seeks to find a particular type of tenant for the property he inherits from his relatives. Driven by his desire of peeping into the darkest aspects of human nature, what he sees through the eyes of the omnipresent cameras ain’t pretty… but it gives him the wry, abject satisfaction of a dark god lording over and leering at the souls of the damned, his imagination hungering toward them.
+A loafer inherits an apartment block and lets out the place to a group of tenants, including a lusty gymnastics teacher, a geeky college student, a single father with his young daughter, a gay couple, a writer and a sexy female office worker. An incredible story is about to unfold as they start their lives in the same building.
 
 [TMDB](403032)
 

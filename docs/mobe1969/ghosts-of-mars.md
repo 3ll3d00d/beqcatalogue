@@ -4,7 +4,7 @@
 
 **2001 • R • 1h 38m • Science Fiction, Action, Horror • mobe1969**
 
-Melanie Ballard is a hard nosed police chief in the year 2025. She and a police snatch squad are sent to Mars to apprehend dangerous criminal James Williams. Mars has been occupied by humans for some time and they have set up mining facilities. The mining activities on Mars have unleashed the spirits of alien beings who gradually possess the bodies of the workers. It soon turns out that catching the dangerous fugitive takes a back seat as the alien spirits begin to rid their planet of the 'invaders'.
+In 2176, a Martian police unit is sent to pick up a highly dangerous criminal at a remote mining post. Upon arrival, the cops find the post deserted and something far more dangerous than any criminal — the original inhabitants of Mars, hellbent on getting their planet back.
 
 [TMDB](10016)
 

@@ -4,7 +4,7 @@
 
 **2004 • PG-13 • 1h 53m • Action, Drama, Thriller, Adventure • mobe1969**
 
-When an oil rig in the Gobi Desert of Mongolia proves unproductive, an aircraft crew are sent to shut the operation down. However, on their way to Beijing, a major dust storm forces them to crash their C-119 Flying Boxcar in an uncharted area of the desert.
+When an oil rig in the Gobi Desert of Mongolia proves unproductive, an aircraft crew are sent to shut the operation down and fly them out. On the flight out over the desert on the way to Beijing, Capt. Frank Towns and co-pilot A.J. are unable to keep their cargo plane, a C-119 Flying Boxcar, in the air when a violent sandstorm strikes. Crash-landing in a remote uncharted part of the desert, the two pilots and their passengers -- a crew of oil workers and a drifter -- must work together to survive by rebuilding the aircraft. Soon, low supplies and a band of merciless smugglers add even greater urgency to their task.
 
 [TMDB](11866)
 
@@ -14,7 +14,7 @@ When an oil rig in the Gobi Desert of Mongolia proves unproductive, an aircraft 
 
 **2004 • PG-13 • 1h 53m • Action, Drama, Thriller, Adventure • mobe1969**
 
-When an oil rig in the Gobi Desert of Mongolia proves unproductive, an aircraft crew are sent to shut the operation down. However, on their way to Beijing, a major dust storm forces them to crash their C-119 Flying Boxcar in an uncharted area of the desert.
+When an oil rig in the Gobi Desert of Mongolia proves unproductive, an aircraft crew are sent to shut the operation down and fly them out. On the flight out over the desert on the way to Beijing, Capt. Frank Towns and co-pilot A.J. are unable to keep their cargo plane, a C-119 Flying Boxcar, in the air when a violent sandstorm strikes. Crash-landing in a remote uncharted part of the desert, the two pilots and their passengers -- a crew of oil workers and a drifter -- must work together to survive by rebuilding the aircraft. Soon, low supplies and a band of merciless smugglers add even greater urgency to their task.
 
 [TMDB](11866)
 

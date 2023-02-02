@@ -4,7 +4,7 @@
 
 **2015 • R • 1h 30m • Action, Thriller • mobe1969**
 
-WWE Superstar Mike "The Miz" Mizanin returns as Jake Carter where he is assigned to protect a whistleblower who wishes to expose a corrupt military defence contractor. However, the military hires a heavily armed team of mercenaries to kill her and it's up to Carter to stop them at any cost.
+WWE Superstar Mike "The Miz" Mizanin returns as Jake Carter where he is assigned to protect a whistleblower who wishes to expose a corrupt military defense contractor. However, the military hires a heavily armed team of mercenaries to kill her and it's up to Carter to stop them at any cost.
 
 [TMDB](329540)
 

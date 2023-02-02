@@ -4,7 +4,7 @@
 
 **2020 • PG-13 • 2h 12m • Mandarin • Action, Drama, Fantasy, Mystery, Science Fiction • mobe1969**
 
-Every few hundred years, the most powerful demon on earth, a snake demon, awakens, and the Yin-Yang Masters are summoned to the capital. Meanwhile, the Princess of the realm has her own plans, as she conspires to claim the demon's power.
+Every few hundred years, the most powerful demon on earth—a snake demon—awakens, and the Yin-Yang Masters are summoned to the capital. Meanwhile, the Princess of the realm has her own plans, as she conspires to claim the demon’s power.
 
 [TMDB](757860)
 

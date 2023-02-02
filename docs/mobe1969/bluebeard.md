@@ -4,7 +4,7 @@
 
 **2017 • NR • 1h 57m • Korean • Mystery • mobe1969**
 
-Dr. Seung-hoon sedates his landlord before a medical check-up, when the old man begins telling him a convincing murder confession.
+A doctor finds himself in the middle of an unsolved serial murder case after discovering a secret from a sedated patient. When dismembered bodies show up close to home, he must solve the riddle before the killer realizes what he knows.
 
 [TMDB](435809)
 

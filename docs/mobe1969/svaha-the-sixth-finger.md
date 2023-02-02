@@ -4,7 +4,7 @@
 
 **2019 • NR • 2h 2m • Korean • Mystery, Thriller • mobe1969**
 
-Pastor Park is head of a religious investigation center that exposes cults and cult leaders. While looking into a suspicious new religion called Deer Mount he slowly uncovers clues that connect this cult to a series of mysterious cases of missing teenage girls when a body is found inside a damaged tunnel beams. He begins to uncover dark secrets surrounding this cult and its enforcer Na-han.
+Pastor Park is head of a religious investigation center that exposes cults and cult leaders. While looking into a suspicious new religion called Deer Mount, he slowly uncovers clues that connect this cult to a series of mysterious cases of missing teenage girls when a body is found inside a damaged tunnel beams. He begins to uncover dark secrets surrounding this cult and its enforcer Na-han.
 
 [TMDB](556509)
 
@@ -14,7 +14,7 @@ Pastor Park is head of a religious investigation center that exposes cults and c
 
 **2019 • NR • 2h 2m • Korean • Mystery, Thriller • mobe1969**
 
-Pastor Park is head of a religious investigation center that exposes cults and cult leaders. While looking into a suspicious new religion called ‘Deer Mount,’ he slowly uncovers clues that connect this cult to a series of mysterious cases of missing teenage girls when a body is found inside a damaged tunnel beams. He begins to uncover dark secrets surrounding this cult and its enforcer Na-han.
+Pastor Park is head of a religious investigation center that exposes cults and cult leaders. While looking into a suspicious new religion called Deer Mount, he slowly uncovers clues that connect this cult to a series of mysterious cases of missing teenage girls when a body is found inside a damaged tunnel beams. He begins to uncover dark secrets surrounding this cult and its enforcer Na-han.
 
 [TMDB](556509)
 

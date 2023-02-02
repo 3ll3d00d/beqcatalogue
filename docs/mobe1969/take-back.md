@@ -4,7 +4,7 @@
 
 **2021 • 15 • 1h 30m • Action, Thriller, Crime • mobe1969**
 
-Following the abduction of her daughter, Zara does all she can to get her back. However, when she discovers that she has been targeted by crime boss Patrick, who she has previous dealings with, Zara realises that her troubled past will be used against her. Once Zara has a heart-to-heart with her husband, Brian, the pair work together to settle old scores and ensure the safety of their daughter.
+Zara and Brian are living the perfect small town life when a mysterious stranger from Zara's secret past kidnaps their daughter and now they must race to save her life.
 
 [TMDB](695282)
 

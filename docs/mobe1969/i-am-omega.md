@@ -4,7 +4,7 @@
 
 **2007 • PG-13 • 1h 30m • Science Fiction, Action, Horror • mobe1969**
 
-The Last Man Alive Must Battle a Planet of the Dead. [An Asylum film.]
+In post apocalyptic LA being rampaged by zombie like cannibals humans that have some kind of genetic infection local man renchard is forced to live a daily struggle as he trys to locate radio signals and find a cure.
 
 [TMDB](30778)
 

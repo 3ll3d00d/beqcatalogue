@@ -4,7 +4,7 @@
 
 **2022 • NR • 0h 0m • Malay • Action, War, Adventure • mobe1969**
 
-The movie follows the story of a PASKAU team led by Captain Adib and his mentor, Major Adnan, tasked with protecting humanitarians serving in war torn country, Namburi. On their return home, their plane gets unexpectedly shot down by local militants. Nine of the passengers managed to make their jump before the plane crashes. Back in Malaysia, upon discovery of the news, the air force makes preparation for rescue. Adib's brother in-law, Zafran, a grounded SUKHOI pilot, fights for the opportunity to save them. The air force deploys help and the survivors make their final run to salvation.
+The movie follows the story of a PASKAU team led by Captain Adib and his mentor, Major Adnan, tasked with protecting humanitarians serving in war torn country, Namburi. On their return home, their plane gets unexpectedly shot down by local militants. Nine of the passengers managed to make their jump before the plane crashes. Back in Malaysia, upon discovery of the news, the air force makes preparation for rescue. Adib`s brother in-law, Zafran, a grounded SUKHOI pilot, fights for the opportunity to save them. The air force deploys help and the survivors make their final run to salvation.
 
 [TMDB](988294)
 

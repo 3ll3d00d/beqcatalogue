@@ -4,7 +4,7 @@
 
 **2010 • PG-13 • 1h 51m • Action, Adventure, Comedy, Crime, Thriller • mobe1969**
 
-When his peaceful life is threatened by a high-tech assassin, former black-ops agent, Frank Moses reassembles his old team in a last ditch effort to survive and uncover his assailants.
+After surviving an assault from a squad of hit men, retired CIA black ops agent Frank Moses reassembles his old team for an all-out war. Frank reunites with old Joe, crazy Marvin and wily Victoria to uncover a massive conspiracy that threatens their lives. Only their expert training will allow them to survive a near-impossible mission -- breaking into CIA headquarters.
 
 [TMDB](39514)
 

@@ -4,7 +4,7 @@
 
 **2011 • R • 1h 36m • Action, Comedy, Thriller, Crime • mobe1969**
 
-Two policemen must join forces to take on an international drug- smuggling gang - one, an unorthodox Irish policeman and the other, a straitlaced FBI agent. Sergeant Gerry Boyle is an eccentric small-town cop with a confrontational and crass personality and a subversive sense of humor. A longtime policeman in County Galway, Boyle is a maverick with his own moral code. He has seen enough of the world to know there isn't much to it and has had plenty of time to think about it. When a fellow police officer disappears and Boyle's small town becomes key to a large drug trafficking investigation, he is forced to at least feign interest when dealing with the humorless FBI agent Wendell Everett assigned to the case.
+When a small-town Irish cop with a crass personality is partnered with a straight-laced FBI agent to bust an international drug-trafficking ring, they must settle their differences in order to take down a dangerous gang.
 
 [TMDB](67913)
 

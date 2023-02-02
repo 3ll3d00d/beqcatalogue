@@ -4,7 +4,7 @@
 
 **2010 • NR • 2h 4m • Korean • Drama, Action, Thriller • mobe1969**
 
-A Korean remake of the John Woo Classic. One brother is a criminal. One brother is a cop. Both will fight to the death.
+Two brothers on different sides of the law go head-to-head.
 
 [TMDB](58959)
 

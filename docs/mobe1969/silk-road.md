@@ -4,7 +4,7 @@
 
 **2021 • R • 1h 56m • Crime, Thriller, Drama • mobe1969**
 
-The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
+Philosophical twenty-something Ross Ulbricht creates Silk Road, a dark net website that sells drugs, while DEA agent Rick Bowden goes undercover to bring him down.
 
 [TMDB](579051)
 

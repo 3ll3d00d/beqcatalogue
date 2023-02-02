@@ -4,7 +4,7 @@
 
 **1992 • R • 1h 24m • Thriller, Adventure, Action • mobe1969**
 
-An infamous terrorist has evaded capture for a long time by being extremely clever and ruthless. Things get interesting when he hijacks a plane carrying famous security expert John Cutter, who isn't about to stand this sort of thing.
+An infamous terrorist has evaded capture for a long time by being extremely clever and ruthless. Things get interesting when he hijacks a plane carrying famous security expert John Cutter, who isn't about to stand for this sort of thing.
 
 [TMDB](10538)
 

@@ -4,7 +4,7 @@
 
 **1988 • R • 1h 35m • Horror, Science Fiction • mobe1969**
 
-Remake of the 1958 horror sci-fi about a deadly blob which is the spawn of a secret government germ warfare project which consumes everyone in its path. Teenagers try in vain to warn the townsfolk, who refuse to take them seriously, while government agents try to cover up the evidence and confine the creature.
+In Arborville, California, three high school students discover a strange, gelatinous substance that melts the flesh of any living creatures in its path and wreaks havoc across town.
 
 [TMDB](9599)
 

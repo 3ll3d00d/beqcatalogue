@@ -4,7 +4,7 @@
 
 **2005 • NR • 2h 6m • Science Fiction, Action, Animation, Fantasy, Adventure • mobe1969**
 
-A hero named Cloud (Takahiro Sakurai) must fight a new evil as a mysterious disease affects mankind in a devastated city.
+Led by a strange dream, scientist Aki Ross struggles to collect the eight spirits in the hope of creating a force powerful enough to protect the planet. With the aid of the Deep Eyes Squadron and her mentor, Dr. Sid, Aki must save the Earth from its darkest hate and unleash the spirits within.
 
 [TMDB](824809)
 
@@ -14,7 +14,7 @@ A hero named Cloud (Takahiro Sakurai) must fight a new evil as a mysterious dise
 
 **2005 • NR • 2h 6m • Japanese • Science Fiction, Action, Animation, Fantasy, Adventure • mobe1969**
 
-A hero named Cloud (Takahiro Sakurai) must fight a new evil as a mysterious disease affects mankind in a devastated city.
+Led by a strange dream, scientist Aki Ross struggles to collect the eight spirits in the hope of creating a force powerful enough to protect the planet. With the aid of the Deep Eyes Squadron and her mentor, Dr. Sid, Aki must save the Earth from its darkest hate and unleash the spirits within.
 
 [TMDB](824809)
 
@@ -24,7 +24,7 @@ A hero named Cloud (Takahiro Sakurai) must fight a new evil as a mysterious dise
 
 **2005 • NR • 2h 6m • Japanese • Science Fiction, Action, Animation, Fantasy, Adventure • mobe1969**
 
-A hero named Cloud (Takahiro Sakurai) must fight a new evil as a mysterious disease affects mankind in a devastated city.
+Led by a strange dream, scientist Aki Ross struggles to collect the eight spirits in the hope of creating a force powerful enough to protect the planet. With the aid of the Deep Eyes Squadron and her mentor, Dr. Sid, Aki must save the Earth from its darkest hate and unleash the spirits within.
 
 [TMDB](824809)
 

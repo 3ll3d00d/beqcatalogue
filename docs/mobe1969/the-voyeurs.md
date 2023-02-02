@@ -4,7 +4,7 @@
 
 **2021 • R • 1h 57m • Thriller • mobe1969**
 
-A young couple, find themselves becoming interested in the sex life of their neighbors across the street. What starts as an innocent curiosity turns into an unhealthy obsession.
+When Pippa and Thomas move into their dream apartment, they notice that their windows look directly into the apartment opposite – inviting them to witness the volatile relationship of the attractive couple across the street. But what starts as a simple curiosity turns into full-blown obsession with increasingly dangerous consequences.
 
 [TMDB](645710)
 

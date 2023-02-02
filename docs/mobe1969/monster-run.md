@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 44m • Mandarin • Action, Adventure, Fantasy • mobe1969**
 
-Some strange things have always existed, you think it is a coincidence, or make up a reason to make it reasonable, in fact, because you do not want to admit. At the end of the season, she was regarded as an outlier because she could see monsters, until one day she saw monsters again in the supermarket where she worked and magically met Monster Hunter-Brother Meng. She discovered that there really were monsters in the world, and the two young men were involved in a new storm.
+Ji Mo is an outcast, due to her ability to see monsters that no one else can. One day, she meets a monster hunter, Meng. She discovers that there really are monsters in the world, and she is involved in a new storm.
 
 [TMDB](734355)
 
@@ -14,7 +14,7 @@ Some strange things have always existed, you think it is a coincidence, or make 
 
 **2020 • NR • 1h 44m • Cantonese • Action, Adventure, Fantasy • mobe1969**
 
-Some strange things have always existed, you think it is a coincidence, or make up a reason to make it reasonable, in fact, because you do not want to admit. At the end of the season, she was regarded as an outlier because she could see monsters, until one day she saw monsters again in the supermarket where she worked and magically met Monster Hunter-Brother Meng. She discovered that there really were monsters in the world, and the two young men were involved in a new storm.
+Ji Mo is an outcast, due to her ability to see monsters that no one else can. One day, she meets a monster hunter, Meng. She discovers that there really are monsters in the world, and she is involved in a new storm.
 
 This is the Cantonese dub on the German Blu-Ray
 

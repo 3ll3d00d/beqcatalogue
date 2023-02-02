@@ -4,7 +4,7 @@
 
 **2011 • NR • 2h 4m • Mandarin • Romance, Drama • mobe1969**
 
-Fang Zhen Dong (Liu Ye) is a patrolling officer in Beijing who one night meets the drunk Li Pei Ru (Shu Qi) while singing karaoke at the KTV place. Li Pei Ru is a real estate agent from Hong Kong who has vowed to make her fortune in the cosmoplitan Beijing, but is caught up in the complexities of life and ends up becoming a mistress of a married man.
+Fang Zhen Dong is a patrolling officer in Beijing who one night meets the drunk Li Pei Ru while singing karaoke at the KTV place. Li Pei Ru is a real estate agent from Hong Kong who has vowed to make her fortune in the cosmoplitan Beijing, but is caught up in the complexities of life and ends up becoming a mistress of a married man.
 
 [TMDB](72502)
 

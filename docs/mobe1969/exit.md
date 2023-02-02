@@ -4,7 +4,7 @@
 
 **2019 • PG • 1h 43m • Korean • Action, Comedy • mobe1969**
 
-When an unknown toxic gas strikes Seoul in an unprecedented act of terror, Yong-nam has just met Eui-ju from college by chance at his mother's birthday banquet. The city falls under sudden noxious gas attack and together, they must escape the panic-stricken city.
+At his mother's 70th birthday party, Yong-nam runs into Eui-joo, who rejected him in college. When the city is engulfed in toxic gas from a terrorist attack, the two must find a way to escape using all the techniques they learned in their college rock climbing club.
 
 [TMDB](572164)
 

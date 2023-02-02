@@ -4,7 +4,7 @@
 
 **2019 • PG • 1h 48m • Mandarin • Action, Fantasy • mobe1969**
 
-Pu Songling (Jackie Chan), a legendary demon hunter, is asked to investigate the mysterious disappearances of young girls from a small village. When he discovers evil forces are kidnapping the girls to feast on their souls, he sets out to save humanity from the inhuman invasion journeying through hidden worlds and colorful dimensions.
+Pu Songling, a legendary demon hunter, is asked to investigate the mysterious disappearances of young girls from a small village. When he discovers evil forces are kidnapping the girls to feast on their souls, he sets out to save humanity from the inhuman invasion journeying through hidden worlds and colorful dimensions.
 
 [TMDB](512901)
 

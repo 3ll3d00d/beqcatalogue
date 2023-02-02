@@ -4,7 +4,7 @@
 
 **2006 • R • 2h 1m • Crime, Drama • mobe1969**
 
-Lee Blanchard and Bucky Bleichert are former boxers-turned-cops in 1940s Los Angeles and, when an aspiring young actress turns up dead, Blanchard and Bleichert must grapple with corruption, narcissism, stag films and family madness as they pursue the killer.
+In 1940s Los Angeles, two former boxers-turned-cops must grapple with corruption, narcissism, stag films and family madness as they pursue the killer of an aspiring young actress.
 
 [TMDB](9676)
 

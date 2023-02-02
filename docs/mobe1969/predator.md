@@ -4,7 +4,7 @@
 
 **1987 • R • 1h 47m • Thriller, Action, Science Fiction, Adventure • mobe1969**
 
-A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.
+A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.
 
 [TMDB](106)
 

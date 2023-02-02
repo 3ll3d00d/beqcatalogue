@@ -4,7 +4,7 @@
 
 **2021 • R • 1h 53m • Drama, Thriller • mobe1969**
 
-Released from prison into a society that won't forgive her past, a woman seeks redemption by searching for the sister she left behind.
+A woman is released from prison after serving a sentence for a violent crime and re-enters a society that refuses to forgive her past.
 
 [TMDB](645886)
 

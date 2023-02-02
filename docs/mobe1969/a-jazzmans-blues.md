@@ -4,7 +4,7 @@
 
 **2022 • R • 2h 7m • Drama, Romance • mobe1969**
 
-Tyler Perry's tale of forbidden love and family drama unravels 40 years of secrets and lies against a soundtrack of juke joint blues in the Deep South.
+A tale of forbidden love and family drama unravels 40 years of secrets and lies against a soundtrack of juke joint blues in the Deep South.
 
 [TMDB](921643)
 

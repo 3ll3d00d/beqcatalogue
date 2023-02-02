@@ -4,7 +4,7 @@
 
 **2013 • R • 1h 25m • Thriller • mobe1969**
 
-Driving, lost and tormented in the night, primal fears of the dark and the unknown give way to fear that you have let the evil in, or that it is already there.
+Driving to a music festival in Ireland, a young couple gets trapped in a country maze on their way to a remote hotel, where an unidentifiable sinister force torments them.
 
 [TMDB](159095)
 

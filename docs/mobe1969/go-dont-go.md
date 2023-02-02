@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 35m • Science Fiction, Drama • mobe1969**
 
-A wallflower finds himself the last man in the world after an unknown apocalypse. He sticks to the routines that keep him sane, but in a moment of nostalgia and heartache for lost love, he triggers a chain-reaction that sends him spiralling toward a deadly revelation.
+Caught between a lost-love story and inescapable paranoia, "Go/Don't Go" is a genre-bending slow-burn thriller that follows Adam, a wallflower who happens to be the last person left alive--or so he thinks.
 
 [TMDB](669644)
 

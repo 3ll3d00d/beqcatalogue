@@ -4,7 +4,7 @@
 
 **2012 • R • 1h 50m • Horror, Mystery, Thriller • mobe1969**
 
-Found footage helps a true-crime novelist realize how and why a family was murdered in his new home, though his discoveries put his entire family in the path of a supernatural entity.
+True-crime writer Ellison Oswald is in a slump; he hasn't had a best seller in more than 10 years and is becoming increasingly desperate for a hit. So, when he discovers the existence of a snuff film showing the deaths of a family, he vows to solve the mystery. He moves his own family into the victims' home and gets to work. However, when old film footage and other clues hint at the presence of a supernatural force, Ellison learns that living in the house may be fatal.
 
 [TMDB](82507)
 

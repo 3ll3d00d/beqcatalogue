@@ -4,7 +4,7 @@
 
 **2000 • R • 1h 29m • Thriller, Drama, Crime • mobe1969**
 
-Ex-safecracker Gal Dove has served his time behind bars and is blissfully retired to a Spanish villa paradise with a wife he adores. The idyll is shattered by the arrival of his nemesis Don Logan, intent on persuading Gal to return to London for one last big job. Desperate not to sacrifice his enchanted existence, Dove is drawn into a shocking battle of wills with Logan, and takes part in a sensational underwater heist, risking everything to protect the woman he loves.
+Ex-safecracker Gal Dove has served his time behind bars and is blissfully retired to a Spanish villa paradise with a wife he adores. The idyll is shattered by the arrival of his nemesis Don Logan, intent on persuading Gal to return to London for one last big job.
 
 [TMDB](11826)
 

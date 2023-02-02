@@ -4,7 +4,7 @@
 
 **2021 • 12 • 1h 42m • Cantonese • Drama • mobe1969**
 
-This film is based on the story of So Wa Wai, the medal-winning Paralympic athlete. It teaches audiences that even people who “lose on the starting line” can achieve victory as long as they persist.
+Biopic tribute to So Wa Wai, Hong Kong's first Paralympic athlete to win gold. Even if you start at a disadvantage, you can still be first across the finish line.
 
 [TMDB](741318)
 

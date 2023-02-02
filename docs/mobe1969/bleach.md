@@ -4,7 +4,7 @@
 
 **2018 • PG-13 • 1h 48m • Japanese • Action, Fantasy, Adventure • mobe1969**
 
-High school student Ichigo Kurosaki lives an ordinary life, besides being able to see ghosts and the blurry memories of his mother death under strange circumstances when he was a kid. His peaceful world suddenly breaks as he meets Rukia Kuchiki, a God of Death.
+High school student Ichigo Kurosaki lives an ordinary life, besides being able to see ghosts and the blurry memories of his mother's death under strange circumstances when he was a kid. His peaceful world suddenly breaks as he meets Rukia Kuchiki, a God of Death.
 
 [TMDB](420426)
 

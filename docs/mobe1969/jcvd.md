@@ -4,7 +4,7 @@
 
 **2008 • R • 1h 36m • French • Comedy, Drama, Action, Crime • mobe1969**
 
-Between his tax problems and his legal battle with his wife for the custody of his daughter, these are hard times for the action movie star who finds that even Steven Seagal has pinched a role from him! Jean-Claude Van Damme returns to the country of his birth to seek the peace and tranquility he can no longer enjoy in the United States.
+Between his tax problems and his legal battle with his wife for the custody of his daughter, these are hard times for the action movie star who finds that even Steven Seagal has pinched a role from him! This fictionalized version of Jean-Claude Van Damme returns to the country of his birth to seek the peace and tranquility he can no longer enjoy in the United States, but inadvertently gets involved in a bank robbery with hostages.
 
 [TMDB](13672)
 

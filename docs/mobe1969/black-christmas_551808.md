@@ -4,7 +4,7 @@
 
 **2019 • PG-13 • 1h 32m • Horror, Mystery, Thriller • mobe1969**
 
-During their Christmas break, the women at Hawthorne College start being preyed upon by an unknown stalker. Riley, a girl dealing with her own trauma, decides to take matters into her own hands before her and her friends are murdered too
+During Christmas break, the women at Hawthorne College start being preyed upon by an unknown stalker. Riley, a girl dealing with her own trauma, decides to take matters into her own hands before her and her friends are murdered too.
 
 [TMDB](551808)
 

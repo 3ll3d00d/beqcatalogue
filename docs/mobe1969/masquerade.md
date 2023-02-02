@@ -4,7 +4,7 @@
 
 **2012 • NR • 2h 11m • Korean • Drama • mobe1969**
 
-A look-alike commoner is secretly hired to take the place of a poisoned king to save his country from falling into chaos.
+Though it places his own life in danger, a look-alike commoner secretly takes the place of a poisoned king to save his country from falling into chaos.
 
 [TMDB](133200)
 

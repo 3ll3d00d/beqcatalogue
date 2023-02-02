@@ -4,7 +4,7 @@
 
 **1993 • PG-13 • 2h 10m • Adventure, Fantasy, Action, Comedy, Family • mobe1969**
 
-Danny is obsessed with a fictional movie character action hero Jack Slater. When a magical ticket transports him into Jack's latest adventure, Danny finds himself in a world where movie magic and reality collide. Now it's up to Danny to save the life of his hero and new friend.
+Following the death of his father, young Danny Madigan takes comfort in watching action movies featuring the indestructible Los Angeles cop Jack Slater. After being given a magic ticket by theater manager Nick, Danny is sucked into the screen and bonds with Slater. When evil fictional villain Benedict gets his hands on the ticket and enters the real world, Danny and Jack must follow and stop him.
 
 [TMDB](9593)
 
@@ -14,7 +14,7 @@ Danny is obsessed with a fictional movie character action hero Jack Slater. When
 
 **1993 • PG-13 • 2h 10m • Family, Comedy, Fantasy, Action, Adventure • mobe1969**
 
-Danny is obsessed with a fictional movie character action hero Jack Slater. When a magical ticket transports him into Jack's latest adventure, Danny finds himself in a world where movie magic and reality collide. Now it's up to Danny to save the life of his hero and new friend.
+Following the death of his father, young Danny Madigan takes comfort in watching action movies featuring the indestructible Los Angeles cop Jack Slater. After being given a magic ticket by theater manager Nick, Danny is sucked into the screen and bonds with Slater. When evil fictional villain Benedict gets his hands on the ticket and enters the real world, Danny and Jack must follow and stop him.
 
 [TMDB](9593)
 

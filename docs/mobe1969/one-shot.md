@@ -4,7 +4,7 @@
 
 **2021 • NR • 1h 37m • Action • mobe1969**
 
-An elite squad of Navy SEAL's, on a covert mission to transport a prisoner off a CIA black site island prison, are trapped when insurgents attack while trying to rescue the same prisoner.
+An elite squad of Navy SEALs, on a covert mission to transport a prisoner off a CIA black site island prison, are trapped when insurgents attack while trying to rescue the same prisoner.
 
 [TMDB](811592)
 

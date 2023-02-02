@@ -4,7 +4,7 @@
 
 **2013 • MA15+ • 1h 41m • Cantonese • Horror, Action, Drama • mobe1969**
 
-Juno Mak’s debut feature Rigor Mortis is an eerie and chilling, contemporary action- and special effects-laden homage to the classic Chinese vampire movies of the 1980s.
+When a former actor moves into an apartment building with the intention of commiting suicide, he is saved by a Taoist priest who used to specialize in hunting Chinese hopping vampires: or Jiāngshī. Elsewhere in the building, a woman turns to a specialist in black magic to bring her husband back to life.
 
 [TMDB](210911)
 

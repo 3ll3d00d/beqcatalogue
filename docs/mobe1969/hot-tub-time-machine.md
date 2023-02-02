@@ -6,7 +6,7 @@ Theatrical Cut
 
 **2010 • R • 1h 41m • Science Fiction, Comedy, Adventure • mobe1969**
 
-A malfunctioning time machine at a ski resort takes a man back to 1986 with his two friends and nephew, where they must relive a fateful night and not change anything to make sure the nephew is born.
+Four pals are stuck in a rut in adulthood: Adam has just been dumped, Lou is a hopeless party animal, Craig is a henpecked husband, and Jacob does nothing but play video games in his basement. But they get a chance to brighten their future by changing their past after a night of heavy drinking in a ski-resort hot tub results in their waking up in 1986.
 
 [TMDB](23048)
 
@@ -18,7 +18,7 @@ Unrated Cut
 
 **2010 • R • 2h 1m • Science Fiction, Comedy, Adventure • mobe1969**
 
-A malfunctioning time machine at a ski resort takes a man back to 1986 with his two friends and nephew, where they must relive a fateful night and not change anything to make sure the nephew is born.
+Four pals are stuck in a rut in adulthood: Adam has just been dumped, Lou is a hopeless party animal, Craig is a henpecked husband, and Jacob does nothing but play video games in his basement. But they get a chance to brighten their future by changing their past after a night of heavy drinking in a ski-resort hot tub results in their waking up in 1986.
 
 [TMDB](23048)
 

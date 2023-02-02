@@ -4,7 +4,7 @@
 
 **2017 • 15 • 1h 33m • Horror • mobe1969**
 
-Four American best friends decide to take the back roads travelling to a wedding in England, on their way a deadly secret forces the girls to be...
+Four American best friends decide to take the back roads travelling to a wedding in England, on their way a deadly secret forces the girls to be stranded in the woods, where they discover a house occupied by Miss Perkins.
 
 [TMDB](454417)
 

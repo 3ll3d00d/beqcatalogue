@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 23m • Horror, Thriller • mobe1969**
 
-After nearly 50 years of hiding, Leatherface returns to terrorize a group of idealistic young friends who accidentally disrupt his carefully shielded world in a remote Texas town.
+After nearly 50 years of hiding, Leatherface returns to terrorize a group of idealistic influencers who accidentally disrupt his carefully shielded world in a remote Texas town.
 
 [TMDB](632727)
 
