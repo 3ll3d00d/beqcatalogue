@@ -1,6 +1,6 @@
 # Black Panther: Wakanda Forever
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **2022 • PG-13 • 2h 42m • Action, Adventure, Science Fiction • mobe1969**
 
