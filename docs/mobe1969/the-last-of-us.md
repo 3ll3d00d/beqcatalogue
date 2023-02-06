@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-## Season 1 Episodes 1-3
+## Season 1 Episodes 1-4
 
 * DD+ Atmos
 
