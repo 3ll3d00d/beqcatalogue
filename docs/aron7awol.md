@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # aron7awol
 
 | Title | Type | Year | Format | Multiformat? | Links |
