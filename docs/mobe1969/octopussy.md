@@ -4,7 +4,7 @@
 
 **1983 • PG • 2h 11m • Adventure, Action, Thriller • mobe1969**
 
-James Bond is sent to investigate after a fellow “00” agent is found dead with a priceless Fabergé egg. Bond follows the mystery and uncovers a smuggling scandal and a Russian General who wants to provoke a new World War.
+James Bond is sent to investigate after a fellow “00” agent is found dead with a priceless Indian Fabergé egg. Bond follows the mystery and uncovers a smuggling scandal and a Russian General who wants to provoke a new World War.
 
 [TMDB](700)
 

@@ -4,7 +4,7 @@
 
 **1997 • R • 1h 56m • Action, Thriller, Crime • mobe1969**
 
-When the government puts all its rotten criminal eggs in one airborne basket, it's asking for trouble. Before you can say, "Pass the barf bag," the crooks control the plane, led by creepy Cyrus "The Virus" Grissom. Watching his every move is the just-released Cameron Poe, who'd rather reunite with his family.
+Newly-paroled former US Army ranger Cameron Poe is headed back to his wife, but must fly home aboard a prison transport flight dubbed "Jailbird" taking the “worst of the worst” prisoners, a group described as “pure predators”, to a new super-prison. Poe faces impossible odds when the transport plane is skyjacked mid-flight by the most vicious criminals in the country led by the mastermind — genius serial killer Cyrus "The Virus" Grissom, and backed by black militant Diamond Dog and psychopath Billy Bedlam.
 
 [TMDB](1701)
 

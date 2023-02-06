@@ -4,7 +4,7 @@
 
 **2010 • R • 1h 21m • Action, Adventure, Comedy, Horror • mobe1969**
 
-Vampire hunter Edgar Frog is destitute and nearly friendless, when the beautiful vampire-romance novelist Gwen Lieber offers him a small fortune to go on the vampire hunt of a lifetime and save her brother from an army of newborn vampires who use a new drug called the Thirst, which is a mixture of Ecstasy and vampire blood. Realising he can't do this alone, Edgar turns to his brother, Alan Frog, to help him save Gwen's brother.
+Vampire hunter Edgar Frog is destitute and nearly friendless, when the beautiful novelist Gwen Lieber offers him a small fortune to go on a hunt to save her brother from vampires using a new drug called the Thirst, which is a mixture of Ecstasy and infected blood. Realising he can't do this alone, Edgar turns to his brother, Alan Frog, to help him save Gwen's brother.
 
 [TMDB](46812)
 

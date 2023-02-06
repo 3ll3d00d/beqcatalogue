@@ -4,7 +4,7 @@
 
 **2018 • R • 2h 20m • Korean • Science Fiction, Action, Thriller, Drama • mobe1969**
 
-In 2029, the elite police squad Illang combats a terrorist group opposing reunification of the two Koreas. But another enemy may be lurking nearby.
+In 2029, an elite police squad combats an anti-reunification terrorist group while another enemy lurks nearby.
 
 [TMDB](467824)
 

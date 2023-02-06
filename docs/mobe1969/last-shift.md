@@ -4,7 +4,7 @@
 
 **2014 • 15 • 1h 28m • Horror, Thriller • mobe1969**
 
-A rookie cop's world is turned upside down when she comes face to face with Paymon - King Of Hell. Officer Jessica Loren has the last shift at a transitioning police station, assigned to wait for a crew picking up bio-hazard waste from the armoury. But unbeknownst to her, cult leader John Michael Paymon has haunted the department ever since he committed suicide in custody. Jessica is about to find out just how dangerous he still is, all alone on the graveyard shift...
+Rookie police officer Jessica Loren has been assigned the last shift at a closing police station and must wait for a hazmat crew to collect biomedical evidence. Ordered not to leave the station under any circumstances, Jessica comes to learn that it's more than just an outdated station, it's home to the ultimate embodiment of evil and his devoted bloodthirsty followers. Jessica is left to fend for herself in the Devil's playground.
 
 [TMDB](296065)
 

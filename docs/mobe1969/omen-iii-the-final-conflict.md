@@ -4,7 +4,7 @@
 
 **1981 • R • 1h 48m • Horror • mobe1969**
 
-Damien Thorn has helped rescue the world from a recession, appearing to be a benign corporate benefactor. When he then becomes U.S. Ambassador to England, Damien fulfils a terrifying biblical prophecy. He also faces his own potential demise as an astronomical event brings about the second coming of Christ.
+Damien Thorn has helped rescue the world from a recession, appearing to be a benign corporate benefactor. When he then becomes U.S. Ambassador to the United Kingdom, Damien fulfills a terrifying biblical prophecy. He also faces his own potential demise as an astronomical event brings about the second coming of Christ.
 
 [TMDB](10768)
 

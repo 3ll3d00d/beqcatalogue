@@ -4,7 +4,7 @@
 
 **1982 • R • 1h 49m • Horror, Mystery, Science Fiction • mobe1969**
 
-Members of an American scientific research outpost in Antarctica find themselves battling a parasitic alien organism capable of perfectly imitating its victims. They soon discover that this task will be harder than they thought, as they don't know which members of the team have already been assimilated and their paranoia threatens to tear them apart.
+A team of American scientists investigate the empty, destroyed base of their Norwegian counterparts in Antarctica, only to discover a terrifying life force that can take the form of its prey.
 
 [TMDB](1091)
 
@@ -14,7 +14,7 @@ Members of an American scientific research outpost in Antarctica find themselves
 
 **1982 • R • 1h 49m • Horror, Mystery, Science Fiction • mobe1969**
 
-Members of an American scientific research outpost in Antarctica find themselves battling a parasitic alien organism capable of perfectly imitating its victims. They soon discover that this task will be harder than they thought, as they don't know which members of the team have already been assimilated and their paranoia threatens to tear them apart.
+A team of American scientists investigate the empty, destroyed base of their Norwegian counterparts in Antarctica, only to discover a terrifying life force that can take the form of its prey.
 
 [TMDB](1091)
 
@@ -24,7 +24,7 @@ Members of an American scientific research outpost in Antarctica find themselves
 
 **1982 • R • 1h 49m • Horror, Mystery, Science Fiction • mobe1969**
 
-Members of an American scientific research outpost in Antarctica find themselves battling a parasitic alien organism capable of perfectly imitating its victims. They soon discover that this task will be harder than they thought, as they don't know which members of the team have already been assimilated and their paranoia threatens to tear them apart.
+A team of American scientists investigate the empty, destroyed base of their Norwegian counterparts in Antarctica, only to discover a terrifying life force that can take the form of its prey.
 
 [TMDB](1091)
 
@@ -36,7 +36,7 @@ Members of an American scientific research outpost in Antarctica find themselves
 
 **1982 • R • 1h 49m • Horror, Mystery, Science Fiction • mobe1969**
 
-Members of an American scientific research outpost in Antarctica find themselves battling a parasitic alien organism capable of perfectly imitating its victims. They soon discover that this task will be harder than they thought, as they don't know which members of the team have already been assimilated and their paranoia threatens to tear them apart.
+A team of American scientists investigate the empty, destroyed base of their Norwegian counterparts in Antarctica, only to discover a terrifying life force that can take the form of its prey.
 
 **Has some PEQs above 35Hz. Not tested by me**
 

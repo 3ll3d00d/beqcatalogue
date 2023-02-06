@@ -4,7 +4,7 @@
 
 **2021 • 15 • 1h 26m • Science Fiction, Mystery, Thriller • mobe1969**
 
-Jane wakes up in a strange attic, in a parallel world, with seemingly no way out. She is stuck in a time-loop, destined to relive the same day over and over with little memory of her doing it before. But with each 'reset' she starts to remember more and more and begins to piece together what may be happening to her, with clues pointing to a Professor Aaron Ostergaard. She makes her way to the mysterious Wytness Quantum Research Centre, run by Charles Marland-White, to try to find a way out.
+Jane is the subject of a twisted science experiment where she is placed in a parallel world and is forced to find a way to either alter her reality or be stuck in a time-loop, destined to repeat the same test over and over again, with no memory of her doing it before. But with each 'reset' she starts to retain fragments of memory. With clues pointing to the mysterious Wytness Quantum Research Centre, she tries to find a way out.  (The film was shot entirely on an iPhone during the UK’s first lockdown.)
 
 [TMDB](797861)
 

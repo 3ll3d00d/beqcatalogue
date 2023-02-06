@@ -4,7 +4,7 @@
 
 **2022 • 15 • 2h 28m • Hindi • Action, Thriller • mobe1969**
 
-Joshua, an undercover cop is sent on a mission to neutralize a threat being posed by separatists. To gather intelligence, he enlists a woman - a budding boxer - to infiltrate the group. Set against the geopolitical backdrop of North East India, the film tells the story of a rebellion and an uprising. An Indian, who wants nothing more than peace for the nation.
+Amid the turmoil in northeast India, an undercover agent tasked with peace negotiations crosses paths with a tenacious boxer fighting for her dreams.
 
 [TMDB](888268)
 

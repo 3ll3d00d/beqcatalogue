@@ -4,7 +4,7 @@
 
 **1987 • R • 1h 32m • Horror, Comedy • mobe1969**
 
-EC Comics-inspired weirdness returns with three tales. In the first, a wooden statue of a Native American comes to life...to exact vengeance on the murderer of his elderly owners. In the second, four teens are stranded on a raft on a lake with a blob that is hungry. And in the third, a hit and run woman is terrorized by the hitchhiker she accidentally killed...or did she really kill him?
+EC Comics-inspired weirdness returns with three tales. In the first, a wooden statue of a Native American comes to life to exact vengeance on the murderer of his elderly owners. In the second, four teens are stranded on a raft on a lake with a blob that is hungry. And in the third, a hit and run woman is terrorized by the hitchhiker she accidentally killed... or did she?
 
 [TMDB](16288)
 

@@ -4,7 +4,7 @@
 
 **2015 • NR • 1h 27m • Science Fiction, Mystery, Drama, Thriller, Horror • mobe1969**
 
-In a massive, mysterious chamber, fifty strangers awaken to find themselves trapped with no memory of how they got there. Organized in an inward-facing circle and unable to move, they quickly learn that every two minutes, one of them must die... executed by a strange device in the center of the room.
+In a massive, mysterious chamber, fifty strangers awaken to find themselves trapped with no memory of how they got there.  Organized in an inward-facing circle and unable to move, they quickly learn that every two minutes, one of them must die…executed by a strange device in the center of the room.
 
 [TMDB](335866)
 

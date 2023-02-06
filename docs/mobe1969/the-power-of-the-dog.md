@@ -4,7 +4,7 @@
 
 **2021 • R • 2h 7m • Western, Drama, Romance • mobe1969**
 
-A domineering, magnetic rancher responds with mocking cruelty when his brother brings home a new wife and her son, until the unexpected comes to pass.
+A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.
 
 [TMDB](600583)
 

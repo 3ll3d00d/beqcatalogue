@@ -4,7 +4,7 @@
 
 **2012 • PG-13 • 1h 49m • Mandarin • Action, Adventure • mobe1969**
 
-Asian Hawk (Jackie Chan) leads a mercenary team to recover several lost artifacts from the Old Summer Palace, the bronze heads of the 12 Chinese Zodiac animals which were sacked by the French and British armies from the imperial Summer Palace in Beijing in 1860. Assisted by a Chinese student & a Parisian lady, Hawk stops at nothing to accomplish the mission.
+Asian Hawk leads a mercenary team to recover several lost artifacts from the Old Summer Palace, the bronze heads of the 12 Chinese Zodiac animals which were sacked by the French and British armies from the imperial Summer Palace in Beijing in 1860. Assisted by a Chinese student & a Parisian lady, Hawk stops at nothing to accomplish the mission.
 
 [TMDB](98567)
 

@@ -4,7 +4,7 @@
 
 **1979 • R • 1h 31m • Adventure, Action, Thriller, Science Fiction • mobe1969**
 
-In a dystopian world, a vengeful Australian policeman named Max sets out to stop a violent motorcycle gang.
+In the ravaged near future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face ofa police force hell-bent on stopping them. But they underestimate one officer: Max Rockatansky. And when the bikers brutalize Max's best friend and family, they send him into a mad frenzy that leaves him with only one thing left in the world to live for – revenge!
 
 [TMDB](9659)
 

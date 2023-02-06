@@ -4,7 +4,7 @@
 
 **2017 • NR • 1h 36m • Japanese • Comedy, Horror • mobe1969**
 
-"Things go badly for a hack director and film crew shooting a low-budget zombie movie in an abandoned Japanese World War II facility, when they are attacked by real zombies." Or, that's what it says on the tin, but this is the story of how it really happened...
+Things go badly for a hack director and film crew shooting a low-budget zombie movie in an abandoned Japanese World War II facility, when they are attacked by real zombies. Or, that's what it says on the tin, but this is the story of how it really happened.
 
 [TMDB](513434)
 

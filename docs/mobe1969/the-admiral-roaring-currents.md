@@ -4,7 +4,7 @@
 
 **2014 • MA15+ • 2h 6m • Korean • War, Action, Drama, History • mobe1969**
 
-The film mainly follows the famous 1597 Battle of Myeongryang during the Japanese invasion of Korea (1592-1598), where the iconic Joseon admiral Yi Sun-sin managed to destroy a total of 133 Japanese warships with only 13 ships remaining in his command. The battle, which took place in the Myeongryang Strait off the southwest coast of the Korean Peninsula, is considered one of the greatest victories of Yi.
+The film mainly follows the famous 1597 Battle of Myeongryang during the Japanese invasion of Korea 1592-1598, where the iconic Joseon admiral Yi Sun-sin managed to destroy a total of 133 Japanese warships with only 13 ships remaining in his command. The battle, which took place in the Myeongryang Strait off the southwest coast of the Korean Peninsula, is considered one of the greatest victories of Yi.
 
 [TMDB](282631)
 

@@ -4,7 +4,7 @@
 
 **1995 • NR • 1h 24m • Cantonese • Drama, Crime, Action • mobe1969**
 
-A Hong Kong detective has a change of heart after taking a bullet in the head.
+A man re-evaluates his life after being given a second chance. When seedy cop Liu Chen-hai is shot, he is forced to do some soul-searching about his old life.
 
 [TMDB](160342)
 

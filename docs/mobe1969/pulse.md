@@ -2,7 +2,7 @@
 
 ## DD 5.1
 
-**2001 • R • 1h 59m • Japanese • Horror, Thriller • mobe1969**
+**2001 • R • 1h 59m • Japanese • Horror, Thriller, Mystery • mobe1969**
 
 In the immense city of Tokyo, the darkness of the afterlife lurks some of its inhabitants who are desperately trying to escape the sadness and isolation of the modern world.
 

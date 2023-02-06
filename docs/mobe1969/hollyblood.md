@@ -4,7 +4,7 @@
 
 **2022 • NR • 0h 0m • Spanish • Comedy, Romance, Horror, Fantasy • mobe1969**
 
-Javi, a perfectly ordinary teenager who doesn't suspect that his crush on Sara might be reciprocated. Through a string of misunderstandings, Sara comes to believe that Javi is in possession of supernatural powers.
+Javi is a teenage student so shy and clumsy that he does not know how to attract the attention of his classmate Sara, a geeky girl who is only interested in a literary saga about vampires.
 
 [TMDB](821133)
 

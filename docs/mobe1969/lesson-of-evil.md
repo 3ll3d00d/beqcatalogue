@@ -4,7 +4,7 @@
 
 **2012 • NR • 2h 9m • Japanese • Thriller, Horror • mobe1969**
 
-A popular high school teacher concocts an extreme plan to deal with the rise of bullying and bad behavior among the student body.
+Seiji Hasumi is a popular English teacher in a private high school. He is also a violent and sociopathic killer, who slowly takes control of the students and faculty through murder and manipulation. When he is caught in the act during preparations for the school cultural festival, he sees staging a massacre as the only way out.
 
 [TMDB](120852)
 

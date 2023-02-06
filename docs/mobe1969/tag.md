@@ -4,7 +4,7 @@
 
 **2015 • 18 • 1h 25m • Japanese • Horror, Thriller • mobe1969**
 
-Female highs school students, including Mitsuko, Keiko and Izumi, become the targets of ghosts with various appearances including a groom with a pig's face and female teacher with a machine gun.
+High school student Mitsuko navigates a series of bizarre alternate realities, each ending in bloody carnage.
 
 [TMDB](340176)
 

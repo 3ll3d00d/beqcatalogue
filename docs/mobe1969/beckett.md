@@ -4,7 +4,7 @@
 
 **2021 • NR • 1h 49m • Action, Adventure, Crime, Drama, Mystery, Thriller • mobe1969**
 
-While vacationing in Greece, Beckett, becomes the target of a manhunt after a devastating car accident forces him to run for his life across the country to clear his name but tensions escalate as the authorities close in and political unrest mounts which makes Beckett fall even deeper into a dangerous web of conspiracy.
+An American tourist in Greece finds himself on the run after a tragic accident plunges him into a political conspiracy that makes him a target for assassination.
 
 [TMDB](597433)
 

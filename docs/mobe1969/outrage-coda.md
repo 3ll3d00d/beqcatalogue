@@ -4,7 +4,7 @@
 
 **2017 • NR • 1h 45m • Japanese • Drama, Action, Crime • mobe1969**
 
-Ôtomo gets involved with new Yakuza battles after he comes back the Yakuza society.
+Five years after the all-out war between the Sanno and Hanabishi crime families, former yakuza boss Otomo works in South Korea for Mr. Chang, a noted fixer. When tensions rise between Chang and the Hanabishi, and Chang's life is endangered, Otomo returns to Japan to settle things once and for all.
 
 [TMDB](452323)
 

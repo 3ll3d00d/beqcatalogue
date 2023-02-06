@@ -4,7 +4,7 @@
 
 **2012 • NR • 2h 14m • Japanese • Action, Adventure, Drama, History • mobe1969**
 
-Former legendary assassin Kenshin Himura has now become a wandering samurai. Offering aid & protecting those in need as atonement for his past deeds. During this time Kenshin Himura comes across and aides Kaoru Kamiya (Emi Takei). Her father opened the Kamiya Kasshin-ryu, a kendo school located in Tokyo and Kaoru is now an instructor there. Kaoru then invites Kenshin to stay at her dojo. Their relationship develops further, but Kenshin is still haunted by his violent past...
+In 1868, after the Bakumatsu war ends, the ex-assassin Kenshin Himura traverses Japan with an inverted sword, to defend the needy without killing.
 
 [TMDB](127533)
 

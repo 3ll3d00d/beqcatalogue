@@ -4,7 +4,7 @@
 
 **2022 • NR • 1h 45m • Danish • Crime, Thriller, Drama • mobe1969**
 
-It would appear that Christian and Leonora have it all. They are living the perfect life with their son, who's just been declared healthy after a serious long-term illness. Their future seems bright, but at a party at Christian's company, Leonora sees her husband with a younger woman, architect Xenia. Leonora realizes that Christian might leave her. On the spot, Leonora makes a decision: she refuses to be the woman who got left behind – and will avoid this by any means necessary.
+The thin line between love and hate turns deadly when a wife discovers her husband’s affair — and they both take extreme measures to get what they want.
 
 [TMDB](990691)
 

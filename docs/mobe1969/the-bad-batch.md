@@ -4,7 +4,7 @@
 
 **2017 • R • 1h 59m • Drama, Horror, Science Fiction • mobe1969**
 
-In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
+Arlen is sent to a fenced-off wasteland where undesirables are exiled to when she is kidnapped by a group of cannibals. She escapes and ends up on a journey to reunite a missing girl with her father.
 
 [TMDB](316154)
 

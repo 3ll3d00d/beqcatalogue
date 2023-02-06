@@ -4,7 +4,7 @@
 
 **2017 • 16 • 1h 33m • Thriller, Drama, Action • mobe1969**
 
-Colombian drug kingpin Jesus Morales secretly pays for the services of a sniper nicknamed "The Devil," capable of killing one-by-one the enemies of anyone who hires him. With no adversaries left alive, Morales grows stronger and gains control of more smuggling routes into the United States. The DEA, alarmed by this threat to the country, sends agent Kate Estrada, who has been following Morales for years, and Marine sniper Brandon Beckett to Colombia. Their mission: Kill "The Devil" and bring Morales back to the US to be tried for his crimes. The agents think they have everything under control, but Morales and "The Devil" have prepared plenty of surprises to keep the mission from succeeding.
+A ruthless Columbian drug lord has been using a cold-blooded assassin nicknamed The Devil to wipe out his competition. Sensing a threat to the US, the DEA hires a Marine sniper to kill The Devil, and capture the kingpin.
 
 [TMDB](464889)
 

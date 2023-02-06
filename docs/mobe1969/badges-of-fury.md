@@ -4,7 +4,7 @@
 
 **2013 • NR • 1h 38m • Comedy, Action, Crime • mobe1969**
 
-When a spate of eerie murders erupts across HK two troub/emaking cops are assigned to the case. Young maverick Wang and grizzled vet Huang who is fed up with his reckless younger partner always landing them in hot water. Reaching a dead end after discovering all the victims were former boyfriends of aspiring starlet Liu, the detectives must play a deadly game. One of them must go undercover as Liu’s lover to lure the killer out.
+When a series of eerie murders erupts across Hong Kong, grizzled veteran Huang and his reckless younger partner Wang, are assigned to track down the killer.
 
 [TMDB](202220)
 
@@ -14,7 +14,7 @@ When a spate of eerie murders erupts across HK two troub/emaking cops are assign
 
 **2013 • NR • 1h 38m • Mandarin • Comedy, Action, Crime • mobe1969**
 
-When a spate of eerie murders erupts across HK two troub/emaking cops are assigned to the case. Young maverick Wang and grizzled vet Huang who is fed up with his reckless younger partner always landing them in hot water. Reaching a dead end after discovering all the victims were former boyfriends of aspiring starlet Liu, the detectives must play a deadly game. One of them must go undercover as Liu’s lover to lure the killer out.
+When a series of eerie murders erupts across Hong Kong, grizzled veteran Huang and his reckless younger partner Wang, are assigned to track down the killer.
 
 [TMDB](202220)
 

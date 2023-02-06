@@ -4,7 +4,7 @@
 
 **2013 • PG • 1h 30m • Animation, Adventure • mobe1969**
 
-A heart-warming tale about friendship, honour &amp; courage, which sees a young boy become a man as he embarks on a quest to become a knight.
+A heart-warming tale about friendship, honor & courage, which sees a young boy become a man as he embarks on a quest to become a knight.
 
 [TMDB](146381)
 

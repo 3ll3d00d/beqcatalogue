@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 56m • Danish • Action, Comedy, Drama • mobe1969**
 
-Markus, a deployed military man, has to go home to his teenage daughter, Mathilde, when his wife dies in a tragic train accident. It seems to be plain bad luck - but it turns out that it might have been a carefully orchestrated assassination, which his wife ended up being a random casualty of.
+Markus returns home to care for his daughter when his wife dies in a tragic train accident. However, when a survivor of the wreck surfaces and claims foul play, Markus suspects his wife was murdered and embarks on a mission to find those responsible.
 
 [TMDB](663870)
 

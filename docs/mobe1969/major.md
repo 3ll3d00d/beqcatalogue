@@ -4,7 +4,7 @@
 
 **2022 • NR • 2h 25m • Hindi • Action, History, Drama • mobe1969**
 
-Based on the life of real-life Hero Major Sandeep Unnikrishnan, Major, the film, aims to show how this valiant soldier saved the lives of numerous hostages before being martyred by the terrorists who wreaked havoc in the Taj Mahal Palace Mumbai, India on the 26th of November, 2008.
+This biopic follows the life of Indian Army officer Major Sandeep Unnikrishnan, from his childhood to his heroic actions during the 2008 Mumbai attacks.
 
 [TMDB](605153)
 
@@ -14,7 +14,7 @@ Based on the life of real-life Hero Major Sandeep Unnikrishnan, Major, the film,
 
 **2022 • NR • 2h 25m • Telugu • Action, History, Drama • mobe1969**
 
-Based on the life of real-life Hero Major Sandeep Unnikrishnan, Major, the film, aims to show how this valiant soldier saved the lives of numerous hostages before being martyred by the terrorists who wreaked havoc in the Taj Mahal Palace Mumbai, India on the 26th of November, 2008.
+This biopic follows the life of Indian Army officer Major Sandeep Unnikrishnan, from his childhood to his heroic actions during the 2008 Mumbai attacks.
 
 [TMDB](605153)
 

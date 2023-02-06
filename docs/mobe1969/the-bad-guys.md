@@ -4,7 +4,7 @@
 
 **2022 • PG • 1h 40m • Animation, Comedy, Family, Crime • mobe1969**
 
-When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.
+When the Bad Guys, a crew of criminal animals, are finally caught after years of heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.
 
 [TMDB](629542)
 
@@ -14,7 +14,7 @@ When the infamous Bad Guys are finally caught after years of countless heists an
 
 **2022 • PG • 1h 40m • Animation, Comedy, Family, Crime • mobe1969**
 
-When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.
+When the Bad Guys, a crew of criminal animals, are finally caught after years of heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.
 
 [TMDB](629542)
 

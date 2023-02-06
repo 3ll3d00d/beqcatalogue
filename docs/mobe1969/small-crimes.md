@@ -4,7 +4,7 @@
 
 **2017 • NR • 1h 35m • Drama, Comedy, Thriller, Crime • mobe1969**
 
-A disgraced former cop, fresh off a six-year prison sentence for attempted murder - returns home looking for redemption but winds up trapped in the mess he left behind.
+A disgraced former cop, fresh off a six-year prison sentence for attempted murder, returns home looking for redemption but winds up trapped in the mess he left behind.
 
 [TMDB](411405)
 

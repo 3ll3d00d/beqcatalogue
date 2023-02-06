@@ -4,7 +4,7 @@
 
 **2020 • NR • 1h 48m • Action, Comedy • mobe1969**
 
-Three Kung Fu prodigies have grown into washed-up, middle-aged men, now one kick away from pulling their hamstrings. But when their master is murdered, they must juggle their dead-end jobs, dad duties, and old grudges to avenge his death.
+Three middle aged men polish their martial arts skills to avenge their fallen master.
 
 [TMDB](731738)
 

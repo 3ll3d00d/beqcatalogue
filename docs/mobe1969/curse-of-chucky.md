@@ -6,7 +6,7 @@ Unrated Cut
 
 **2013 • R • 1h 37m • Thriller, Horror • mobe1969**
 
-After the passing of her mother, a young woman in a wheelchair since birth, is forced to deal with her sister, brother-in-law, niece and their nanny as they say their goodbyes to mother. When people start turning up dead, Nica discovers the culprit might be a strange doll she received a few days earlier.
+After the passing of her mother, Nica Pierce, a young woman in a wheelchair, is forced to deal with her sister, brother-in-law, niece and their nanny as they say their goodbyes to mother. But when people start turning up dead, Nica discovers the culprit might be a strange doll she received a few days earlier.
 
 [TMDB](167032)
 

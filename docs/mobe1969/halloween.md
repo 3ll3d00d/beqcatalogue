@@ -4,7 +4,7 @@
 
 **1978 • R • 1h 31m • Horror, Thriller • mobe1969**
 
-Michael Myers escaped from the Illinois State Mental Hospital after 15 years of treatment for the brutal murder of his sister and has returned to Haddonfield to relieve his crime. What follows is a reign of terror. He came home for Halloween and may return.
+Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.
 
 [TMDB](948)
 

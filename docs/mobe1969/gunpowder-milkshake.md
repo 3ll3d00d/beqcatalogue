@@ -14,7 +14,7 @@ To protect an 8-year-old girl, a dangerous assassin reunites with her mother and
 
 **2021 • R • 1h 54m • Action, Crime, Thriller • mobe1969**
 
-In her turbulent life as a professional assassin, Sam has no choice but to go rogue to save the life of an innocent 8-year-old girl in the middle of the gang war she has unleashed.
+To protect an 8-year-old girl, a dangerous assassin reunites with her mother and her lethal associates to take down a ruthless crime syndicate and its army of henchmen.
 
 [TMDB](574060)
 

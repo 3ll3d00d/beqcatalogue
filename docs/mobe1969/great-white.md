@@ -4,7 +4,7 @@
 
 **2021 • 15 • 1h 31m • Horror, Thriller • mobe1969**
 
-A tourist trip quickly turns into a living nightmare when five passengers on a seaplane become stranded miles away from shore. What follows is a desperate bid for survival as the group tries to make it to land before they either run out of supplies or are taken by the man-eating sharks lurking just beneath the surface.
+A sea plane is destroyed in a freak accident, five people find themselves drifting on a raft. At the mercy of the tide and with no hope of rescue, the helpless situation takes a horrifying turn when they are terrorized by a ravenous great white.
 
 [TMDB](534072)
 

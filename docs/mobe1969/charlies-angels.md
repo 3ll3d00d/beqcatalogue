@@ -4,7 +4,7 @@
 
 **2000 • PG-13 • 1h 38m • Action, Adventure, Comedy, Crime, Thriller • mobe1969**
 
-Three women, detectives with a mysterious boss, retrieve stolen voice-ID software, using martial arts, tech skills, and sex appeal.
+The captivating crime-fighting trio who are masters of disguise, espionage and martial arts are back! When a devious mastermind embroils them in a plot to destroy individual privacy, the Angels, aided by their loyal sidekick Bosley, set out to bring down the bad guys. But when a terrible secret is revealed, it makes the Angels targets for assassination.
 
 [TMDB](4327)
 
@@ -14,7 +14,7 @@ Three women, detectives with a mysterious boss, retrieve stolen voice-ID softwar
 
 **2000 • PG-13 • 1h 38m • Action, Comedy, Thriller, Crime, Adventure • mobe1969**
 
-Three women, detectives with a mysterious boss, retrieve stolen voice-ID software, using martial arts, tech skills, and sex appeal.
+The captivating crime-fighting trio who are masters of disguise, espionage and martial arts are back! When a devious mastermind embroils them in a plot to destroy individual privacy, the Angels, aided by their loyal sidekick Bosley, set out to bring down the bad guys. But when a terrible secret is revealed, it makes the Angels targets for assassination.
 
 version 2
 
@@ -26,7 +26,7 @@ version 2
 
 **2000 • PG-13 • 1h 38m • Adventure, Action, Thriller, Crime, Comedy • mobe1969**
 
-Three women, detectives with a mysterious boss, retrieve stolen voice-ID software, using martial arts, tech skills, and sex appeal.
+The captivating crime-fighting trio who are masters of disguise, espionage and martial arts are back! When a devious mastermind embroils them in a plot to destroy individual privacy, the Angels, aided by their loyal sidekick Bosley, set out to bring down the bad guys. But when a terrible secret is revealed, it makes the Angels targets for assassination.
 
 [TMDB](4327)
 

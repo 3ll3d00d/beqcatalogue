@@ -4,7 +4,7 @@
 
 **2017 • 18 • 1h 36m • Adventure, Action, Drama • mobe1969**
 
-In 13th century Ireland a group of monks must escort a sacred relic across an Irish landscape fraught with peril.
+In 13th century Ireland a group of monks must escort a sacred relic across a landscape fraught with peril.
 
 [TMDB](340442)
 

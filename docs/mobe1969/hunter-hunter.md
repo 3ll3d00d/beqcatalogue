@@ -4,7 +4,7 @@
 
 **2020 • R18+ • 1h 33m • Horror, Thriller • mobe1969**
 
-Joseph and his family live in the remote wilderness as fur trappers but their tranquility starts to be threatened when they think are being hunted by the return of a rogue wolf and Joseph leaves them behind to track it.
+A fur trapper leaves his wife and daughter behind to kill a rogue wolf in the remote wilderness, but they soon become increasingly worried when their peaceful existence is disrupted.
 
 [TMDB](759902)
 

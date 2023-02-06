@@ -4,7 +4,7 @@
 
 **1997 • R • 2h 14m • Drama, Mystery, Thriller • mobe1969**
 
-A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgangers, and an impossible transformation inside a prison cell.
+A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell.
 
 [TMDB](638)
 

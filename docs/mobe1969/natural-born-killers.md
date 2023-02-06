@@ -6,7 +6,7 @@ Director's Cut
 
 **1994 • R • 1h 59m • Crime, Thriller, Drama • mobe1969**
 
-Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.
+Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.
 
 [TMDB](241)
 

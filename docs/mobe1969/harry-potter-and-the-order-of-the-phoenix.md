@@ -4,7 +4,7 @@
 
 **2007 • PG-13 • 2h 18m • Adventure, Fantasy, Mystery • mobe1969**
 
-A summer has passed since Harry's encounter with the Dark Lord, andHarry returns to learn that the wizarding community remains in denialabout Voldemort's return; the minister of magic believes that HeadmasterDumbledore is lying; and a new Defense Against the Dark Arts teacher hasbeen assigned. Now, with the entire wizard community in peril, thefuture of magic may depend on Harry Potter and the Order of the Phoenix.When the new professor, Dolores Umbridge's (Imelda Staunton--NannyMcPhee, Vera Drake), Ministry-approved course of defensive magic leavesthe young wizards woefully unprepared to protect themselves against thedark forces threatening them and the entire wizarding community,Hermione (Emma Watson) and Ron (Rupert Grint) urge Harry (DanielRadcliffe) to act. Meeting secretly with a small group of students whoname themselves "Dumbledore's Army," Harry teaches them how to defendthemselves against the Dark Arts.​
+Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.
 
 [TMDB](675)
 

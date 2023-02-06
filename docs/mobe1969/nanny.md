@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 38m • Horror, Drama • mobe1969**
 
-Aisha, an undocumented immigrant, lands a job as a nanny for a wealthy Manhattan couple. As she prepares for the arrival of the son she left behind in Senegal, a violent presence begins to invade both her dreams and her reality, threatening to destroy the American Dream she is painstakingly piecing together.
+Senegalese immigrant Aisha lands a job as a nanny for a wealthy Manhattan couple. As she prepares for the arrival of the son she left behind in Senegal, a violent presence begins to invade both her dreams and her reality, threatening to destroy the American Dream she is painstakingly piecing together.
 
 [TMDB](843932)
 

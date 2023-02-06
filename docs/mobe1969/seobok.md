@@ -4,7 +4,7 @@
 
 **2021 • NR • 1h 54m • Korean • Science Fiction, Action • mobe1969**
 
-A former intelligence agent gets involved with the first human clone, Seo Bok, who others seek, causing trouble.
+A former intelligence agent gets involved with the first human clone, Seobok, who others seek, causing trouble.
 
 [TMDB](586047)
 

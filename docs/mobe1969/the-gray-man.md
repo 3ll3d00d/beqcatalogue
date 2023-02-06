@@ -4,7 +4,7 @@
 
 **2022 • PG-13 • 2h 8m • Action, Thriller, Adventure • mobe1969**
 
-When the CIA's most skilled mercenary known as Court Gentry, aka Sierra Six, accidentally uncovers dark agency secrets, he becomes a primary target and is hunted around the world by psychopathic former colleague Lloyd Hansen and international assassins.
+When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the globe by a sociopathic rogue operative who's put a bounty on his head.
 
 [TMDB](725201)
 

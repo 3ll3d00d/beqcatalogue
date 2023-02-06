@@ -4,7 +4,7 @@
 
 **2021 • NR • 1h 30m • Korean • Action, Drama • mobe1969**
 
-Sung-Kyu (Jo Woo-Jin) works as a manager at a bank branch. One morning, he sets off to drive his kids to school and then go to work, but he receives a phone call without a caller ID. The caller tells him "when you get out the car, a bomb will explode."
+On his way to work, a bank manager receives an anonymous call claiming there's a bomb under his car seat, and if anyone exits the car, it will explode unless he can pay a ransom.
 
 [TMDB](654739)
 

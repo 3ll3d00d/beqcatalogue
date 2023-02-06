@@ -4,7 +4,7 @@
 
 **1995 • R • 1h 32m • Horror, Comedy, Thriller • mobe1969**
 
-A man on the run is hunted by a demon known as the Collector.
+Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.
 
 [TMDB](9059)
 

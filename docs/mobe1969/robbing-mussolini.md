@@ -4,7 +4,7 @@
 
 **2022 • NR • 1h 30m • Italian • Comedy, Crime • mobe1969**
 
-At the end of WWII, a black marketeer and a nightclub singer put together a ragtag bunch of misfits to carry out an impossible heist: to steal Mussolini's treasure right from his headquarters.
+At the end of WWII, an ambitious bootlegger and his nightclub-singing girlfriend assemble a ragtag bunch of misfits for an impossible heist: to steal Mussolini's treasure right from his headquarters.
 
 [TMDB](873125)
 

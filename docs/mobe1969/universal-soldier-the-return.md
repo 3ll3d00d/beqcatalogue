@@ -4,7 +4,7 @@
 
 **1999 • R • 1h 22m • Science Fiction, Action • mobe1969**
 
-Luc Deveraux, the heroic former Universal Soldier, is about to be thrown into action once again. When Seth, the supercomputer controlled ultra-warrior, decides to take revenge and destroy its creators, only Luc can stop it. All hell breaks loose as Luc battles Seth and a deadly team of perfect soldiers in a struggle that pits man against machine and good against evil.
+Luc Deveraux, the heroic former Universal Soldier, is about to be thrown into action once again. When SETH, the supercomputer-controlled ultra-warrior, decides to take revenge and destroy its creators, only Luc can stop it. All hell breaks loose as Luc battles SETH and a deadly team of perfect soldiers in a struggle that pits man against machine and good against evil.
 
 [TMDB](10366)
 

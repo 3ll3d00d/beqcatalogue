@@ -14,7 +14,7 @@ During the Iraq War, a Sergeant recently assigned to an army bomb squad is put a
 
 **2008 • R • 2h 11m • Thriller, War, Drama • mobe1969**
 
-Forced to play a dangerous game of cat-and-mouse in the chaos of war, an elite Army bomb squad unit must come together in a city where everyone is a potential enemy and every object could be a deadly bomb.
+During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.
 
 [TMDB](12162)
 

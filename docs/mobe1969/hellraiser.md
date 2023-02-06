@@ -4,7 +4,7 @@
 
 **1987 • R • 1h 34m • Horror • mobe1969**
 
-An unfaithful wife encounters the zombie of her dead lover while the demonic cenobites are pursuing him after he escaped their sadomasochistic underworld.
+After tinkering with a box he bought while abroad, sexual deviant Frank inadvertently opens a portal to hell, where fetish-demons led by Pinhead tear his body apart. When Frank’s brother and his wife move into his house, a skeletal Frank appears to his sister-in-law and asks her to supply him with corpses for his regeneration.
 
 [TMDB](9003)
 

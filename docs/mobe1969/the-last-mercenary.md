@@ -4,7 +4,7 @@
 
 **2021 • 15 • 1h 50m • French • Action, Comedy • mobe1969**
 
-A mysterious former secret service agent must urgently return to France when his estranged son  is falsely accused of arms and drug trafficking by the government, following a blunder by an overzealous bureaucrat and a mafia operation.
+A legendary secret service agent comes out of hiding and returns to France to help the son he's never met get out of trouble.
 
 [TMDB](729720)
 

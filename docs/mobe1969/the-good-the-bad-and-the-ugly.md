@@ -6,7 +6,7 @@ Theatrical Cut
 
 **1966 • R • 2h 42m • Western • mobe1969**
 
-While the Civil War rages between the Union and the Confederacy, three men – a quiet loner, a ruthless hit man and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.
+While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.
 
 [TMDB](429)
 

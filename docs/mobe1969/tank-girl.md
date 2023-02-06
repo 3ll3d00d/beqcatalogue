@@ -4,7 +4,7 @@
 
 **1995 • R • 1h 38m • Action, Comedy, Fantasy, Science Fiction • mobe1969**
 
-Based on the British cult comic-strip, our tank-riding anti-heroine fights a mega-corporation, which controls the world's water supply.
+After a comet disrupts the rain cycle of Earth, the planet has become a desolate, barren desert by the year 2033. With resources scarce, Kesslee — head of the powerful and evil Water & Power Corporation, the de facto government — has taken control of the water supply. Unwilling to cower under Kesslee's tyrannical rule, a pair of outlaws known as Tank Girl and Jet Girl rise up, joining the mysterious rebel Rippers to destroy the corrupt system.
 
 [TMDB](9067)
 

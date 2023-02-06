@@ -4,7 +4,7 @@
 
 **2003 • R • 1h 43m • Comedy, Romance • mobe1969**
 
-With high school a distant memory, Jim and Michelle are getting married -- and in a hurry, since Jim's grandmother is sick and wants to see him walk down the aisle -- prompting Stifler to throw the ultimate bachelor party. And Jim's dad is reliable as ever, doling out advice no one wants to hear.
+With high school a distant memory, Jim and Michelle are getting married — and in a hurry, since Jim's grandmother is sick and wants to see him walk down the aisle — prompting Stifler to throw the ultimate bachelor party. And Jim's dad is reliable as ever, doling out advice no one wants to hear.
 
 [TMDB](8273)
 

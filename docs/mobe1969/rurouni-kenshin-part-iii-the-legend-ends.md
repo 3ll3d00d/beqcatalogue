@@ -4,7 +4,7 @@
 
 **2014 • NR • 2h 15m • Japanese • Action, Adventure, Drama, Fantasy • mobe1969**
 
-Shishio has set sail in his ironclad ship to bring down the Meiji government and return Japan to chaos, carrying Kaoru with him. In order to stop him in time, Kenshin trains with his old master to learn his final technique.
+Shishio sets sail in his ironclad ship to bring down the government. In order to stop him, Kenshin trains with his old master to learn his final technique.
 
 [TMDB](221732)
 

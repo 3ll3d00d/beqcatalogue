@@ -14,7 +14,7 @@ In 1979, a group of young filmmakers set out to make an adult film in rural Texa
 
 **2022 • R • 1h 46m • Horror, Mystery, Thriller • mobe1969**
 
-In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.
+In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives. Hilarity ensues.
 
 [TMDB](760104)
 
@@ -24,7 +24,7 @@ In 1979, a group of young filmmakers set out to make an adult film in rural Texa
 
 **2022 • R • 1h 46m • Horror, Mystery, Thriller • mobe1969**
 
-In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.
+In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives. Hilarity ensues.
 
 [TMDB](760104)
 

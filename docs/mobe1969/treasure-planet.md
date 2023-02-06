@@ -4,7 +4,7 @@
 
 **2002 • PG • 1h 35m • Adventure, Animation, Family, Fantasy, Science Fiction • mobe1969**
 
-When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic "loot of a thousand worlds," a cyborg cook named John Silver teaches him to battle supernovas and space storms. But, soon, Jim realizes Silver is a pirate intent on mutiny!
+When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic "loot of a thousand worlds," a cyborg cook named John Silver teaches him to battle supernovas and space storms on their journey to find treasure.
 
 [TMDB](9016)
 

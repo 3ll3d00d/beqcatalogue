@@ -4,7 +4,7 @@
 
 **2003 • PG-13 • 3h 39m • Drama, History, War • mobe1969**
 
-The film centers mostly around the personal and professional life of Thomas "Stonewall" Jackson, a brilliant if eccentric Confederate general, from the outbreak of the American Civil War until its halfway point when Jackson is killed accidentally by his own soldiers in May 1863 during his greatest victory.
+The film centers mostly around the personal and professional life of Thomas "Stonewall" Jackson, a brilliant if eccentric Confederate general, from the outbreak of the American Civil War until its halfway point.
 
 [TMDB](16072)
 

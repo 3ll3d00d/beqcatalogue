@@ -4,7 +4,7 @@
 
 **2015 • NC-17 • 1h 58m • Horror, Action, Science Fiction • mobe1969**
 
-Based on the game, Dead Rising takes place during a large-scale zombie outbreak. When a mandatory government vaccine fails to stop the infection from spreading, the four leads must evade infection while also pursuing the root of the epidemic, with all signs pointing to a government conspiracy.
+A group of people fight to survive in a zombie infested town.
 
 [TMDB](293771)
 

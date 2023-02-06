@@ -4,7 +4,7 @@
 
 **2004 • PG-13 • 1h 40m • Japanese • Animation, Drama, Science Fiction • mobe1969**
 
-Groundbreaking director Mamoru Oshii continues to push the boundaries of art and anime with this universally acclaimed cyber thriller following cyborg detective Batou as he tries to unravel the reasons for a murderous robot revolt in the year 2032. A quest for a killer that becomes a mind bending search for the meaning of life.
+Cyborg detective Batou is assigned to investigate a series of murders committed by gynoids—doll-like cyborgs, which all malfunctioned, killed, then self-destructed afterwards. The brains of the gynoids initialize in order to protect their manufacturer's software, but in one gynoid, which Batou himself neutralized, one file remains: a voice speaking the phrase "Help me."
 
 [TMDB](12140)
 
@@ -14,7 +14,7 @@ Groundbreaking director Mamoru Oshii continues to push the boundaries of art and
 
 **2004 • PG-13 • 1h 40m • Japanese • Animation, Drama, Science Fiction • mobe1969**
 
-Groundbreaking director Mamoru Oshii continues to push the boundaries of art and anime with this universally acclaimed cyber thriller following cyborg detective Batou as he tries to unravel the reasons for a murderous robot revolt in the year 2032. A quest for a killer that becomes a mind bending search for the meaning of life.
+Cyborg detective Batou is assigned to investigate a series of murders committed by gynoids—doll-like cyborgs, which all malfunctioned, killed, then self-destructed afterwards. The brains of the gynoids initialize in order to protect their manufacturer's software, but in one gynoid, which Batou himself neutralized, one file remains: a voice speaking the phrase "Help me."
 
 [TMDB](12140)
 

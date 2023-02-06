@@ -4,7 +4,7 @@
 
 **2022 • 18 • 1h 48m • Hindi • Western, Action, Thriller, Drama, Crime • mobe1969**
 
-A veteran cop sees the chance to prove himself when murder and a stranger's grisly torture plot shake the walls of a sleepy desert town.
+A mysterious stranger arrives in a village situated in the Thar desert and crosses paths with a veteran cop investigating a case of brutal killings.
 
 [TMDB](941596)
 

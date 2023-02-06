@@ -4,7 +4,7 @@
 
 **2021 • R • 1h 49m • Comedy, Horror • mobe1969**
 
-When bestselling author Carl Black moves his family back to his childhood home, he must team up with oddball neighbors to do battle with a pimp, who may or may not be an actual vampire.
+Bestselling author Carl Black moves his family back to his childhood home, he must team up with oddball neighbors to do battle with a pimp, who may or may not be an actual vampire.
 
 [TMDB](583116)
 

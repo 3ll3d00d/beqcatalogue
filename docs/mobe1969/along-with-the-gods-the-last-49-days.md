@@ -4,7 +4,7 @@
 
 **2018 • NR • 2h 21m • Korean • Drama, Fantasy, Action • mobe1969**
 
-In the afterlife, one guardian helps a man through his trials, while his two colleagues help a former guardian on earth.
+As the deceased soul Ja-hong and his three afterlife guardians prepare for their remaining trials for reincarnation, the guardians soon come face to face with the truth of their tragic time on Earth 1,000 years earlier.
 
 [TMDB](518068)
 

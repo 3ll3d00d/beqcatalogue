@@ -4,7 +4,7 @@
 
 **1988 • R • 1h 27m • Horror • mobe1969**
 
-After 6-year-old Andy Barclay's babysitter is violently pushed out of a window to her death, nobody believes him when he says that "Chucky," his new birthday doll, did it! Until things start going terribly wrong... dead wrong. And when an ensuing rampage of gruesome murders lead a detective back to the same toy, he discovers that the real terror has just begun... the deranged doll has plans to transfer his evil spirit into a living human being — young Andy!
+A single mother gives her son a beloved doll for his birthday, only to discover that it is possessed by the soul of a serial killer.
 
 [TMDB](10585)
 

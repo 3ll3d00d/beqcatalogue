@@ -4,7 +4,7 @@
 
 **2009 • PG-13 • 1h 46m • Romance, Comedy • mobe1969**
 
-An employee at an Indian call-center travels to San Francisco to be with a guy she falls for over the phone
+An employee at an Indian call-center travels to San Francisco to be with a guy she falls for over the phone.
 
 [TMDB](17334)
 

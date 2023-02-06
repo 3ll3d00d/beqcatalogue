@@ -4,7 +4,7 @@
 
 **2015 • PG-13 • 2h 0m • History, Drama • mobe1969**
 
-Based on a true story about the collapse at the mine in San Jose, Chile that left 33 miners isolated underground for 69 days.
+Based on the true story of the collapse of a mine in San Jose, Chile—that left 33 miners isolated underground for 69 days.
 
 [TMDB](293646)
 

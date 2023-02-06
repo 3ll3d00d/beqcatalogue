@@ -4,7 +4,7 @@
 
 **2009 • R • 1h 40m • French • Action, Comedy, Crime • mobe1969**
 
-While standing in the doorway of the video shop where he works, Bazil has been inadvertently shot in the head. Now homeless and jobless, he is taken in by a troupe of misfits who live in a giant mound of trash. There Bazil begins his quest for revenge against the people who produced the gun that shot him.
+While standing in the doorway of the video shop where he works, Bazil is inadvertently shot in the head. Now homeless and jobless, he is taken in by a troupe of misfits who live in a giant mound of trash. There Bazil begins his quest for revenge against the people who produced the gun that shot him.
 
 [TMDB](27936)
 

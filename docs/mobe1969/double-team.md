@@ -4,7 +4,7 @@
 
 **1997 • R • 1h 33m • Action, Science Fiction • mobe1969**
 
-He's a one-man arsenal... with enough voltage to rock the free world. They Don't Play by the Rules. You're either on their side...or in their way. America's top counter-terrorist usually works alone...this time he's got company.
+A CIA agent is interned for failing to kill an international terrorist. Escaping from his island exile, he teams up with a flamboyant arms dealer and sets out to find the terrorist and rescue the agent's family. Together they're a two-man arsenal... with enough voltage to rock the free world.
 
 [TMDB](9405)
 

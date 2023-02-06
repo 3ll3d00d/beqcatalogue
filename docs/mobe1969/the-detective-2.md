@@ -4,7 +4,7 @@
 
 **2011 • NR • 1h 41m • Cantonese • Action • mobe1969**
 
-Mysteries keep revolving around Tam’s life.
+Bumbling private detective Chan Tam is enlisted by police pal Fung Chak to help in the investigation of a serial murder case. The victims a middle-aged man killed at home, a dead woman found in the trash dump, and a teenage girl slain in the park were all killed in grisly manners, but they didn't seem related to one another. With no clue to follow up on, Tam is decidedly at his wits' end.
 
 [TMDB](69619)
 
@@ -14,7 +14,7 @@ Mysteries keep revolving around Tam’s life.
 
 **2011 • NR • 1h 41m • Cantonese • Action • mobe1969**
 
-Mysteries keep revolving around Tam’s life.
+Bumbling private detective Chan Tam is enlisted by police pal Fung Chak to help in the investigation of a serial murder case. The victims a middle-aged man killed at home, a dead woman found in the trash dump, and a teenage girl slain in the park were all killed in grisly manners, but they didn't seem related to one another. With no clue to follow up on, Tam is decidedly at his wits' end.
 
 [TMDB](69619)
 

@@ -4,7 +4,7 @@
 
 **2013 • NR • 1h 43m • Cantonese • Action, Crime • mobe1969**
 
-Chen Tan (Aaron Kwok), a private detective in Thailand, travels to Malaysia following a series of clues found in a photo. There he searches for a man called Chai, who might help reveal the truths behind the murder of his parents 30 years ago. Chen finds Zheng (Nick Cheung), a Malaysian detective born in China. Together they meet Chai's daughter, Zi-Wei (Jiang Yi Yan) who could hold the key to cracking the case.
+Chen Tan, a private detective in Thailand, travels to Malaysia following a series of clues found in a photo. There he searches for a man called Chai, who might help reveal the truths behind the murder of his parents 30 years ago. Chen finds Zheng, a Malaysian detective born in China. Together they meet Chai's daughter, Zi-Wei who could hold the key to cracking the case.
 
 [TMDB](205575)
 

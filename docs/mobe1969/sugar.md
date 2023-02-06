@@ -4,7 +4,7 @@
 
 **2022 • NR • 0h 0m • Crime, Drama • mobe1969**
 
-Inspired by the dramatic true story of the Cocaine Cowgirls, Sugar follows two young Canadian women who get caught up in a major drug smuggling operation aboard a luxury cruise ship sailing around the world. With nowhere to runâ€”the walls close in on them.
+Inspired by the dramatic true story of the Cocaine Cowgirls, Sugar follows two young Canadian women who get caught up in a major drug smuggling operation aboard a luxury cruise ship sailing around the world. With nowhere to run—the walls close in on them.
 
 [TMDB](1041623)
 

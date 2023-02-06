@@ -4,7 +4,7 @@
 
 **2022 • R • 2h 13m • Drama, Comedy • mobe1969**
 
-The story of Alana Kane and Gary Valentine running around and falling in love in the San Fernando Valley, 1973.
+The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.
 
 [TMDB](718032)
 

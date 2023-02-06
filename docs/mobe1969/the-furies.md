@@ -4,7 +4,7 @@
 
 **2019 • R18+ • 1h 22m • Horror, Action, Thriller • mobe1969**
 
-A gripping female-driven horror film where a young woman faces her darkest fears with seven other unwilling participants in a deadly game. A game that can only have one winner. The film burrows into universal themes of survival, revenge and redemption, and reveals the darkness lurking within us all.
+A young woman faces her darkest fears with seven other unwilling participants in a deadly game — a game that can only have one winner.
 
 [TMDB](528091)
 

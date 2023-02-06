@@ -4,7 +4,7 @@
 
 **2018 • 15 • 1h 34m • Korean • Horror, Mystery • mobe1969**
 
-LEE Kyung-jin is one of the most powerful figures in Joseon but has been faced with a family crisis – his sons were found dead on their first day of marriage. Left with only his youngest son, Myung-kyu, LEE brings Ok-bun in the hopes of avoiding another death but Myung-kyu also dies while spending his first night with Ok-bun as a married couple. Nonetheless, Ok-bun, who was sold for money, gets pregnant, and becomes the youngest daughter-in-law. She suffers from severe hostility from other women in the family while a series of brutal murder and mysterious incidents occur in their home. Ok-bun soon realizes that her unborn child’s life is in grave danger.
+In the household of Lee Gyeong-jin, a high-ranking official of Joseon Kingdom, three sons die from an unidentified horror. A woman pregnant with a child of the third son soon learns of the evil spirit that haunts the house.
 
 [TMDB](553350)
 

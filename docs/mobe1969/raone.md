@@ -4,7 +4,7 @@
 
 **2011 • R • 2h 36m • Hindi • Adventure, Action, Science Fiction • mobe1969**
 
-Following his son's suggestion, a video game designer creates an action game where the villain has artificial intelligence and is stronger the protagonist. Trouble begins when the creator's son is forced to quit the game in between, much to the disappointment of the game's shape-shifting villain who then comes to life using a newly invented technology. The player now must escape him or else he might get killed, something only the game's less powerful protagonist can prevent from happening.
+When the titular antagonist of an action game takes on physical form, it's only the game's less powerful protagonist who can save his creator's family.
 
 [TMDB](41517)
 

@@ -4,7 +4,7 @@
 
 **1997 • PG-13 • 2h 1m • Thriller, Action, Adventure • mobe1969**
 
-A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+A disgruntled former employee hijacks the Seabourn Legend cruise liner. Set on a fixed course, without any means of communication and at the mercy of the hijacker, it's up to the one cop on vacation, and his soon to be fiancé (hopefully) Annie, to regain control of it before it kills the passengers and causes an environmental disaster. Insurmountable and daunting tasks awaits them on their  perilous journey throughout the ship trying to fend off the hijacker and save the passengers.
 
 [TMDB](1639)
 

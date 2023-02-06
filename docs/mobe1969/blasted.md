@@ -4,7 +4,7 @@
 
 **2022 • NR • 1h 54m • Norwegian • Action, Comedy, Science Fiction • mobe1969**
 
-When a former childhood friend crashes Sebastian's bachelor party and makes it all about himself, only an alien invasion can make them put aside their bad blood and reunite as the kick-ass laser-tag duo they once were.
+A drama teacher's taboo relationship with an unstable student strikes a nerve in her jealous classmate, sparking a vengeful chain of events within their suburban high school that draws parallels to "The Crucible".
 
 [TMDB](982987)
 

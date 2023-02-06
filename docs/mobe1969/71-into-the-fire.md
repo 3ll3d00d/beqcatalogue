@@ -4,7 +4,7 @@
 
 **2010 • 14A • 2h 0m • Korean • War • mobe1969**
 
-A civil war broke out in the 1950s between North and South Korea which changed the country forever. 71: Into the Fire centers on the struggles of 71 student soldiers who fought through the Korean War. Using real people and events based on the opening moves of the Battle of P'ohang-dong, the film exposes the personal and physical conflicts that these students faced when finding themselves on the last line of defense at P'ohang-dong Girl's Middle School against the NKPA's advancement, needing to hold out until back up from other Korean troops and the Allies arrived.
+In August 1950, waiting for UN troops to arrive, the South Korean army assembled to protect Nakdong River. Only 71 student-soldiers are left behind to guard the city of Pohang. Now they are on a mission to defend the country from North Korean troops.
 
 [TMDB](51200)
 

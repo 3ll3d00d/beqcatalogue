@@ -4,7 +4,7 @@
 
 **2010 • NR • 1h 44m • Cantonese • Comedy, Drama, Romance • mobe1969**
 
-Jimmy is a mild mannered advertising executive in his twenties. While smoking in an alley packed with booming loudmouth co-workers and sharing explicit gossips and horror stories, he befriends a misfit cosmetics salesgirl Cherie who also likes to light up. An awkward romance soon blossoms amidst the anxiety of their nicotine rush. As they become more attached to each other, they also find themselves moving farther away from their regular hot pot pack into their own private alley, where their conversations suggest more emotional depths, covering the collision of reality and delightfully trivial matters of the bizarre people around them.
+When the Hong Kong government enacts a ban on smoking cigarettes indoors, hard-core smokers are driven outside and a budding romance develops between two co-workers.
 
 [TMDB](41993)
 

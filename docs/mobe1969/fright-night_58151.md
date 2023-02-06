@@ -4,7 +4,7 @@
 
 **2011 • R • 1h 46m • Horror, Comedy • mobe1969**
 
-A teenager suspects his new neighbour is a vampire. Unable to convince anyone, he tries to enlist the help of a self-proclaimed vampire hunter and magician in this remake of the 1985 comedy-horror classic.
+A teenager suspects his new neighbour is a vampire. Unable to convince anyone, he tries to enlist the help of a self-proclaimed vampire hunter and magician.
 
 [TMDB](58151)
 

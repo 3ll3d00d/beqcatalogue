@@ -4,7 +4,7 @@
 
 **2011 • R • 2h 23m • Korean • Drama, Action, History, War • mobe1969**
 
-Jun-shik, who works for Tatsuo’s grandfather’s farm while Korea is colonized by Japan, dreams about participating in the Tokyo Olympics as a marathon runner. Tatsuo also aims to become a marathon runner, so the two become rivals. But the war breaks out and they both are forced to enlist in the army. Tatsuo becomes the head of defense in Jun-shik’s unit and he devises a scheme but fails. Jun-shik and Tatsuo are held captive by the Soviets. They run away but soon are captured by the Germans and forced to separate. In 1944, they meet again on the shores of Normandy.
+During the invasion of Normandy the photograph of a slim Korean man in German uniform was found. It transpired that the man had served as a soldier in the Japanese, Russian and German armies. His incredible story inspired director Kang Je-Gyu to create this epic war drama.
 
 [TMDB](94047)
 

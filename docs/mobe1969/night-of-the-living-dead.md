@@ -4,7 +4,7 @@
 
 **1990 • R • 1h 28m • Horror • mobe1969**
 
-In this remake of the original classic film, a group of people are trapped inside a farmhouse as legions of the walking dead try to get inside and use them for food.
+In this remake of the classic 1968 film, a group of people are trapped inside a farmhouse as legions of the walking dead try to get inside and use them for food.
 
 [TMDB](19185)
 

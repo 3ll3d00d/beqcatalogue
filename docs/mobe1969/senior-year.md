@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 53m • Comedy • mobe1969**
 
-A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to the high school where she was once a popular cheerleader to finish her senior year and become prom queen.
+A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to the high school where she was once a popular cheerleader to finish her senior year and become prom queen. The main plot is the empowerment of LGBTQ rights and progress through the years.
 
 [TMDB](800937)
 

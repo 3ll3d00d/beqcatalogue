@@ -4,7 +4,7 @@
 
 **2022 • R • 2h 15m • Science Fiction, Comedy, Drama • mobe1969**
 
-A professor, husband, and father to four is torn asunder by a rail car chemical spill that releases an “Airborne Toxic Event," forcing him to confront his biggest fear: his own mortality.
+Jack Gladney, professor of Hitler studies at The-College-on-the-Hill, husband to Babette, and father to four children/stepchildren, is torn asunder by a chemical spill from a rail car that releases an "Airborne Toxic Event" forcing Jack to confront his biggest fear - his own mortality.
 
 [TMDB](744594)
 

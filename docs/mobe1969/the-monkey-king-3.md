@@ -4,7 +4,7 @@
 
 **2018 • PG-13 • 1h 54m • Cantonese • Action, Adventure, Fantasy • mobe1969**
 
-The third installment of the blockbuster fantasy series sees the return of the Monkey King (Aaron Kwok) in his most action-packed adventure yet! While continuing their epic journey to the West, the Monkey King and his companions are taken captive by the Queen of an all-female land, who believes them to be part of an ancient prophecy heralding the fall of her kingdom. With a lot of sorcery and a little bit of charm, the travelers devise a plan to escape. But when their trickery angers the mighty River God, they realize they might just bring about the foretold destruction - unless they can find a way to quell her wrath.
+The third installment of the blockbuster fantasy series sees the return of the Monkey King in his most action-packed adventure yet! While continuing their epic journey to the West, the Monkey King and his companions are taken captive by the Queen of an all-female land, who believes them to be part of an ancient prophecy heralding the fall of her kingdom. With a lot of sorcery and a little bit of charm, the travelers devise a plan to escape. But when their trickery angers the mighty River God, they realize they might just bring about the foretold destruction - unless they can find a way to quell her wrath.
 
 [TMDB](437543)
 
@@ -14,7 +14,7 @@ The third installment of the blockbuster fantasy series sees the return of the M
 
 **2018 • PG-13 • 1h 54m • Mandarin • Action, Adventure, Fantasy • mobe1969**
 
-The third installment of the blockbuster fantasy series sees the return of the Monkey King (Aaron Kwok) in his most action-packed adventure yet! While continuing their epic journey to the West, the Monkey King and his companions are taken captive by the Queen of an all-female land, who believes them to be part of an ancient prophecy heralding the fall of her kingdom. With a lot of sorcery and a little bit of charm, the travelers devise a plan to escape. But when their trickery angers the mighty River God, they realize they might just bring about the foretold destruction - unless they can find a way to quell her wrath.
+The third installment of the blockbuster fantasy series sees the return of the Monkey King in his most action-packed adventure yet! While continuing their epic journey to the West, the Monkey King and his companions are taken captive by the Queen of an all-female land, who believes them to be part of an ancient prophecy heralding the fall of her kingdom. With a lot of sorcery and a little bit of charm, the travelers devise a plan to escape. But when their trickery angers the mighty River God, they realize they might just bring about the foretold destruction - unless they can find a way to quell her wrath.
 
 [TMDB](437543)
 

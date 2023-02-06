@@ -4,7 +4,7 @@
 
 **1986 • PG-13 • 1h 39m • Fantasy, Action, Adventure, Comedy • mobe1969**
 
-When trucker Jack Burton agreed to take his friend, Wang Chi, to pick up his fiancee at the airport, he never expected to get involved in a supernatural battle between good and evil. Wang's fiancee has emerald green eyes, which make her a perfect target for immortal sorcerer Lo Pan and his three invincible cronies. Lo Pan must marry a girl with green eyes so he can regain his physical form.
+When trucker Jack Burton agreed to take his friend, Wang Chi, to pick up his fiancee at the airport, he never expected to get involved in a supernatural battle between good and evil. Wang's fiancee has emerald green eyes, which make her a perfect target for immortal sorcerer Lo Pan—who must marry a girl with green eyes so he can regain his physical form.
 
 [TMDB](6978)
 

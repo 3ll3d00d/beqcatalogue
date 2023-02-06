@@ -4,7 +4,7 @@
 
 **2007 • R • 2h 38m • Thriller, Drama, Mystery, Crime • mobe1969**
 
-The true story of the investigation of the "Zodiac Killer", a serial killer who terrified the San Francisco Bay Area, taunting police with his ciphers and letters. The case becomes an obsession for three men as their lives and careers are built and destroyed by the endless trail of clues.
+A cartoonist teams up with an ace reporter and a law enforcement officer to track down an elusive serial killer.
 
 [TMDB](1949)
 

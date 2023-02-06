@@ -4,7 +4,7 @@
 
 **2016 • NR • 1h 50m • Japanese • Action • mobe1969**
 
-The Amamiya Brothers, Masaki (Takahiro) and Hiroto (Hiroomi Tosaka), keep looking for their older brother Takeru (Takumi Saito) who disappeared one year ago. The three Amamiya brothers lost their parents when they were young. Since then, they relied only on each other. On the anniversary of their parents' death, Masaki and Hiroto expect Takeru to appear. Instead, they meet a person who has a clue on Takeru's whereabouts. [idmoviebox.com]
+The Amamiya Brothers, Masaki (Takahiro) and Hiroto (Hiroomi Tosaka), keep looking for their older brother Takeru (Takumi Saito) who disappeared one year ago. The three Amamiya brothers lost their parents when they were young. Since then, they relied only on each other. On the anniversary of their parents' death, Masaki and Hiroto expect Takeru to appear. Instead, they meet a person who has a clue on Takeru's whereabouts.
 
 [TMDB](451001)
 

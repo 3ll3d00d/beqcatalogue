@@ -4,7 +4,7 @@
 
 **2015 • NR • 0h 46m • Japanese • Animation, Action, Science Fiction • mobe1969**
 
-Motoko and her squad are finally getting closer to Fire-Starter's broker, but things get tense when they're instructed to take a backseat role on a sting operation.
+The upcoming installment's story takes place amidst signs of postwar reconstruction in the winter of 2028. Tensions are rising in New Port City as demonstrations are held concerning the interests of foreign cartels. This leads to a shooting incident involving riot police. It all started with a cyberbrain infection released by the terrorist "Fire Starter." An independent offensive unit led by Makoto Kusanagi entrusts the suppression of the situation to their ghosts and aims for their own justice. Below the surface of the incident, lies the "tin girl" Emma and the "scarecrow man" Burinda Junior. As Kusanagi deals with the incident, she draws near to what those two ghosts were seeking.
 
 [TMDB](802809)
 

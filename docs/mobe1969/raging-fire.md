@@ -4,7 +4,7 @@
 
 **2021 • 15 • 2h 8m • Cantonese • Action, Crime • mobe1969**
 
-Shan is a highly respected cop with a long history of success in dangerous cases, however, his past soon comes back to haunt him when his former protégé seeks revenge against all those who have wronged him.
+Cheung Sung-bong is a highly respected cop with a long history of success in dangerous cases. However, his past soon comes back to haunt him when a former protégé resurfaces, seeking revenge.
 
 [TMDB](513692)
 
@@ -14,7 +14,7 @@ Shan is a highly respected cop with a long history of success in dangerous cases
 
 **2021 • 15 • 2h 8m • Cantonese • Action, Crime • mobe1969**
 
-Shan is a highly respected cop with a long history of success in dangerous cases, however, his past soon comes back to haunt him when his former protégé seeks revenge against all those who have wronged him.
+Cheung Sung-bong is a highly respected cop with a long history of success in dangerous cases. However, his past soon comes back to haunt him when a former protégé resurfaces, seeking revenge.
 
 [TMDB](513692)
 

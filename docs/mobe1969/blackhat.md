@@ -4,7 +4,7 @@
 
 **2015 • R • 2h 13m • Crime, Thriller, Action • mobe1969**
 
-A man is released from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The dangerous search leads them from Chicago to Hong Kong.
+Nicholas Hathaway, a furloughed convict, and his American and Chinese partners as hunt a high-level cybercrime network from Chicago to Los Angeles to Hong Kong to Jakarta. As Hathaway closes in, the stakes become personal as he discovers that the attack on a Chinese nuclear power plant was just the beginning.
 
 [TMDB](201088)
 

@@ -4,7 +4,7 @@
 
 **1997 • R • 1h 58m • Thriller • mobe1969**
 
-FBI agent Dennis Quaid tries to catch a serial killer who kidnapped his son.
+FBI agent Frank LaCrosse tries to catch a serial killer who kidnapped his son.
 
 [TMDB](10871)
 

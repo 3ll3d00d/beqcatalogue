@@ -4,7 +4,7 @@
 
 **2017 • NR • 1h 40m • Korean • Horror, Thriller • mobe1969**
 
-A story of the Jangsan Tiger, who mimics human voices to lure them close, and a family affected by the creature.
+The mother of a missing child takes in a lost girl she finds in the woods, but soon begins to wonder if she is even human.
 
 [TMDB](437108)
 

@@ -4,7 +4,7 @@
 
 **2018 • 15 • 1h 40m • Drama • mobe1969**
 
-A drama teacher's taboo relationship with an unstable student strikes a nerve in her jealous classmate, sparking a vengeful chain of events within their suburban high school that draws parallels to 'The Crucible'.
+A drama teacher's taboo relationship with an unstable student strikes a nerve in her jealous classmate, sparking a vengeful chain of events within their suburban high school that draws parallels to "The Crucible".
 
 [TMDB](422128)
 

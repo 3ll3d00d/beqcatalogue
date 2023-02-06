@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 51m • French • Science Fiction, Comedy • mobe1969**
 
-Humans have ceded most tasks to AI in 2045, even in nostalgic Alice's home. So when robots stage a coup, her androids protectively lock her doors.
+Set in the world of 2045, where communities have robotic helpers, a group of suburbanites are locked in for their protection by their household robots, while a rogue, self-aware AI android revolt uprising takes place outside.
 
 [TMDB](665828)
 

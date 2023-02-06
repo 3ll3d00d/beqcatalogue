@@ -4,7 +4,7 @@
 
 **1999 • R • 1h 33m • Thriller, Horror, Mystery • mobe1969**
 
-A remake of the 1959 film of the same name. A millionaire offers a group of diverse people $1,000,000 to spend the night in a haunted house with a horrifying past.
+An amusement park mogul offers a random group of diverse people $1 million to spend the night in a decrepit former mental institution.
 
 [TMDB](11377)
 

@@ -4,7 +4,7 @@
 
 **2022 • R • 2h 1m • Drama, Crime, Mystery • mobe1969**
 
-Suspicious that her colleague is responsible for a series of mysterious patient deaths, a nurse risks her own life to uncover the truth in this gripping thriller based on true events.
+Suspicious that her colleague is responsible for a series of mysterious patient deaths, a nurse risks her own life to uncover the truth.
 
 [TMDB](541134)
 

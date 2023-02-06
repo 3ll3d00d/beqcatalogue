@@ -4,7 +4,7 @@
 
 **2012 • R • 1h 47m • Mandarin • Action, Drama, Crime • mobe1969**
 
-The taciturn police commander Zhang leads an undercover drugs team and in his continuous battle against the ubiquitous drug barons, takes up arms against his arch enemy, Timmy Choi. When he gets hold of Choi, he makes a deal with him: in exchange for his life (in China you can get the death penalty for producing only 50 grams of drugs) the young criminal will help the police infiltrate a sizeable drug network.
+A drug cartel boss who is arrested in a raid is coerced into betraying his former accomplices as part of an undercover operation.
 
 [TMDB](110410)
 

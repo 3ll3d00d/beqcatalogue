@@ -4,7 +4,7 @@
 
 **2018 • MA15+ • 1h 45m • Drama, Horror, Thriller, Mystery • mobe1969**
 
-Summer is usually a time for fun and games, but some teens get much more danger than they bargained for after beginning to suspect their neighbor is a serial murderer.
+After suspecting that their police officer neighbor is a serial killer, a group of teenage friends spend their summer spying on him and gathering evidence, but as they get closer to discovering the truth, things get dangerous
 
 [TMDB](470229)
 

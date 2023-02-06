@@ -4,7 +4,7 @@
 
 **2019 • R • 1h 43m • War • mobe1969**
 
-Major Ronan Jackson (Devon Sawa), an accomplished fighter pilot for the Israel Defense Forces and son of a U.S. Senator (Robert Patrick), is shot down while flying through Syrian airspace. After miraculously surviving the crash, Jackson is taken captive by a group of Hezbollah militiamen. A gripping and powerful story packed with hard-hitting action, Jarhead: Law of Return follows a squad of elite soldiers, led by Gunnery Sergeant Dave Torres (Amaury Nolasco), as they risk their own lives in the hopes of saving an ally they've never met.
+Major Ronan Jackson, an accomplished fighter pilot for the Israel Defense Forces and son of a U.S. Senator, is shot down while flying through Syrian airspace. After miraculously surviving the crash, Jackson is taken captive by a group of Hezbollah militiamen. A squad of elite soldiers, led by Gunnery Sergeant Dave Torres, risk their own lives in the hopes of saving an ally they've never met.
 
 [TMDB](635744)
 

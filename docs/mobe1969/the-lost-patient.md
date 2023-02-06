@@ -4,7 +4,7 @@
 
 **2022 • 15 • 1h 33m • French • TV Movie, Thriller, Drama, Mystery • mobe1969**
 
-After waking up from a coma with no memory of the night when his entire family was murdered, a young man and his psychiatrist try to untangle the truth.
+The 19 years old Thomas wakes up in a hospital after three years in a coma. He doesn't remember anything. The psychologist Anna tells him that his family has been murdered and that he is the only survivor of the massacre while his sister Laura is still missing.
 
 [TMDB](1006917)
 

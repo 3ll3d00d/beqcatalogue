@@ -1,6 +1,6 @@
 # The Black Phone
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2022 • R • 1h 43m • Horror, Thriller • mobe1969**
 

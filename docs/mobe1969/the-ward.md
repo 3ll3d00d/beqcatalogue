@@ -4,7 +4,7 @@
 
 **2010 • R • 1h 28m • Thriller, Horror • mobe1969**
 
-A thriller centered on an institutionalized young woman who becomes terrorized by a ghost.
+Kristen, a troubled young woman, is captured by the police after burning down a farmhouse and is locked in the North Bend Psychiatric Hospital. Soon, she begins to suspect that the place has a dark secret at its core and she's determined to find out what it is.
 
 [TMDB](45657)
 

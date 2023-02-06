@@ -4,7 +4,7 @@
 
 **2014 • MA15+ • 2h 17m • Korean • Action • mobe1969**
 
-A lowly butcher joins a gang of heroic outlaws to seek revenge on a powerful man who killed his family.
+In 1862, amidst the rule of the late Joseon dynasty in Korea, a band of fighters named Kundo rise against the unjust authorities.
 
 [TMDB](281780)
 

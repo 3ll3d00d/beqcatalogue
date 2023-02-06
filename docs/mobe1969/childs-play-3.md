@@ -4,7 +4,7 @@
 
 **1991 • R • 1h 30m • Horror, Thriller • mobe1969**
 
-One of filmdom's most notorious killers is back to wreak more mayhem as Chucky continues his quest to possess the body of a human child. Eight years after seemingly destroying the killer doll, Andy Barclay turns 16 and is placed in a military school. Meanwhile, the greedy president of Play Pals Toy Company decides to resurrect the popular Good Guys doll line, confident that all the bad publicity is forgotten. As the assembly line recreates the first doll from a mass of melted plastic, the spirit of Chucky returns to renew his quest and seek revenge on Andy. Once again it's up to Andy to stop the unrelenting killer in this fast-paced thriller.
+Eight years have passed since the events of the second film. Chucky has been resurrected once again and seeks revenge on Andy, his former owner, who is now a teenager enrolled in military school.
 
 [TMDB](11187)
 

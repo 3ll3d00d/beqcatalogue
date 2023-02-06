@@ -1,5 +1,17 @@
 # Daredevil
 
+## DD+ 5.1
+
+Theatrical Cut
+
+**2003 • PG-13 • 1h 43m • Fantasy, Action • mobe1969**
+
+A man blinded in a childhood accident fights crime using his superhumanly-elevated remaining senses.
+
+[TMDB](9480)
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Daredevil%20%282003%29%28TC%29%20DD%2B%205.1.jpg)
+
 ## DTS-HD MA 5.1
 
 Director's Cut
@@ -10,5 +22,5 @@ A man blinded in a childhood accident fights crime using his superhumanly-elevat
 
 [TMDB](9480)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Daredevil%20%282003%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Daredevil%20%282003%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
 

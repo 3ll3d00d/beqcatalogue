@@ -4,7 +4,7 @@
 
 **2017 • NR • 1h 45m • Cantonese • Action • mobe1969**
 
-Two slackers put on their superhero suits to save Hong Kong from a zombie invasion. This hybrid directorial debut packs one hell of an emotional punch.
+A pair of slackers are forced to put aside their childish ways when a zombie outbreak makes its way to their small town.
 
 [TMDB](455650)
 

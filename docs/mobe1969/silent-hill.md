@@ -4,7 +4,7 @@
 
 **2006 • R • 2h 5m • Mystery, Horror • mobe1969**
 
-In search for answers, a mother travels to the enigmatic town of Silent Hill when her daughter begins to suffer recurring nightmares related to the place. It doesn't take long for her to discover its home to beings as equally haunting as the town itself.
+Rose, a desperate mother takes her adopted daughter, Sharon, to the town of Silent Hill in an attempt to cure her of her ailment. After a violent car crash, Sharon disappears and Rose begins a desperate search to get her back. She descends into the center of the twisted reality of a town's terrible secret. Pursued by grotesquely deformed creatures and townspeople stuck in permanent purgatory, Rose begins to uncover the truth behind the apocalyptic disaster that burned the town 30 years earlier.
 
 [TMDB](588)
 

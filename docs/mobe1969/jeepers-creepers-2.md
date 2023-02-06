@@ -4,7 +4,7 @@
 
 **2003 • R • 1h 44m • Horror • mobe1969**
 
-When their bus is crippled on the side of a deserted road, a team of high school athletes discover an opponent they cannot defeat – and may not survive. Staring hungrily at them through the school bus windows, the "Creeper" returns again and again. But when the teammates discover that it’s selective about whom it attacks, it will test their ability to stick together – as the insatiable menace tries to tear them apart!
+When their bus is crippled on the side of a deserted road, a team of high school athletes discover an opponent they cannot defeat – and may not survive. Staring hungrily at them through the school bus windows, The Creeper returns again and again. But when the teammates discover that it’s selective about whom it attacks, it will test their ability to stick together – as the insatiable menace tries to tear them apart!
 
 [TMDB](11351)
 

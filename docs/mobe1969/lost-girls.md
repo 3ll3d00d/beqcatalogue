@@ -4,7 +4,7 @@
 
 **2020 • R • 1h 35m • Drama, Mystery, Thriller, History • mobe1969**
 
-When Mari Gilbert's daughter disappears, police inaction drives her own investigation into the gated Long Island community where Shannan was last seen. Her search brings attention to over a dozen murdered sex workers.
+When Mari Gilbert's daughter disappears, police inaction drives her own investigation into the gated Long Island community where Shannan was last seen. Her search brings attention to over a dozen murdered prostitutes.
 
 [TMDB](567970)
 

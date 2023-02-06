@@ -4,7 +4,7 @@
 
 **2008 • R • 1h 37m • Action, Science Fiction, Animation, Horror • mobe1969**
 
-A zombie attack brings chaos to Harvardville Airport. Leon Kennedy and Claire Redfield , who fought the sinister Umbrella Corporation during the Raccoon City tragedy 7 years ago, are back. In high-octane Resident Evil style, they're ready to battle a rogue warrior who is seeking revenge after his family was killed in Raccoon City. The deadly G-Virus is unleashed and a new mutated monster rampages.
+Leon S. Kennedy and Claire Redfield must battle a rogue warrior seeking revenge after unleashing the deadly G-Virus, whilst a mutated monster goes on a rampage.
 
 [TMDB](13648)
 

@@ -4,7 +4,7 @@
 
 **2009 • PG-13 • 2h 3m • Adventure, Fantasy, Mystery • mobe1969**
 
-A traveling theater company gives its audience much more than they were expecting.
+A travelling theatre company has more to it than meets the eye. It is an imaginary world commanded by the mind of Doctor Parnassus and the audience is in for more than just a show.
 
 [TMDB](8054)
 

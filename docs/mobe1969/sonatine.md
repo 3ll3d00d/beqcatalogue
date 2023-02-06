@@ -4,7 +4,7 @@
 
 **1993 • R • 1h 34m • Japanese • Action, Crime, Thriller • mobe1969**
 
-Kitano plays Murakawa, a Tokyo yakuza tiring of gangster life. Along with a few of his henchmen, he is sent by his boss to Okinawa to help end a gang war, supposedly to mediate between two warring clans. He finds that the dispute between the clans is insignificant and whilst wondering why he was sent to Okinawa at all, Murakawa's headquarters are bombed and he and his gang are ambushed in a bar.
+A Japanese mobster attempts to even the score when he realizes he and his lackeys have been pawns in a lethal game.
 
 [TMDB](7500)
 

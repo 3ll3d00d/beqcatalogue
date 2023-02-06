@@ -4,7 +4,7 @@
 
 **2015 • NR • 2h 1m • Korean • History, Action, Adventure, Drama • mobe1969**
 
-While in medieval Korea, a young girl sets out to revenge the betrayal and the death of her mother. But therefore she must face one of the most powerful men and warriors of the Goryo Dynasty.
+While in medieval Korea, a young girl sets out to revenge the betrayal and the death of her mother. But therefore she must face one of the most powerful men and warriors of the Goryeo Dynasty.
 
 [TMDB](348689)
 

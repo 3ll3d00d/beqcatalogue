@@ -4,7 +4,7 @@
 
 **2022 • NR • 1h 26m • Animation, Comedy, Science Fiction • mobe1969**
 
-After a "creative" judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
+In 1998, Beavis and Butt-Head are sentenced to Space Camp by a “creative” judge. Their obsession with a docking simulator (huh huh) leads to a trip on the Space Shuttle, with predictably disastrous results. After going through a black hole, they re-emerge in our time, where they look for love, misuse iPhones, and are hunted by the Deep State. Spoiler: They don’t score.
 
 [TMDB](828947)
 

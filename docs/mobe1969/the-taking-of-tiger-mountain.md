@@ -4,7 +4,7 @@
 
 **2014 • 16 • 2h 21m • Mandarin • Thriller, War, Adventure • mobe1969**
 
-Based on the real life story of an incident in 1946 during the Chinese Civil War, the film involves a communist reconnaissance team soldier Yang Zirong who disguised himself as a bandit to infiltrate a local gang of bandits, eventually helping the main communist force to destroy the bandits. Based on the novel "Tracks in the Snowy Forest" by Qu Bo.
+Yang Zirong disguises himself as a bandit to infiltrate and destroy a bandit group. He joins hands with a hostage, and together, they fight against the warlord, Hawk.
 
 [TMDB](294992)
 

@@ -4,7 +4,7 @@
 
 **1969 • PG • 2h 22m • Adventure, Action, Thriller • mobe1969**
 
-James Bond tracks his archnemesis, Ernst Blofeld, to a mountaintop retreat where he is training an army of beautiful, lethal women. Along the way, Bond falls for Italian contessa Tracy Draco, and marries her in order to get closer to Blofeld.
+James Bond tracks his archnemesis, Ernst Blofeld, to a mountaintop retreat in the Swiss alps where he is training an army of beautiful, lethal women. Along the way, Bond falls for Italian contessa Tracy Draco, and marries her in order to get closer to Blofeld.
 
 [TMDB](668)
 

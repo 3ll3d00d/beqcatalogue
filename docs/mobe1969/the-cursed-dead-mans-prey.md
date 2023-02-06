@@ -4,7 +4,7 @@
 
 **2021 • NR • 1h 50m • Korean • Thriller, Mystery, Horror • mobe1969**
 
-In this movie spinoff of "The Cursed", reporter Im Jin-Hee receives a mysterious call while on a live radio program - the strange voice warning her about a murder happening soon. After the call, people begin to be murdered left and right. The murderers are "jaechaui" - corpses that can walk and talk like just like humans. One thing separates them from humans, though: they are just puppets being manipulated by someone far scarier than themselves.
+Following a brutal murder case, the police are baffled to find out that the assailant, whose body was found on the scene with the victim, had already been dead for three months. Meanwhile, journalist Jin-hee sets up a live interview with an anonymous caller claiming he is the true killer behind the mysterious murder. When the man announces three more murders will occur in the hands of the undead, Jin-hee must face the sinister forces beyond understanding.
 
 [TMDB](724885)
 

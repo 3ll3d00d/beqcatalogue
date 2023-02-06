@@ -4,7 +4,7 @@
 
 **2018 • 15 • 1h 58m • Action, Thriller, History, Crime, War • mobe1969**
 
-During the 1940s, a girl was raped by a group of English soldiers, and three young Egyptians retaliate. The British soldier is being held at the Karamouz police station in Alexandria, headed by General Youssef al-Masri.  General Frank Adams demands that the English soldier be handed over to him, but Yusuf refuses. The British army is led to block the police station, and enters a fierce confrontation with General Yusuf and the rest of the Egyptian soldiers.
+Alexandria, Egypt, 1940. Three young Egyptians come to the aid of a woman being attacked by three British soldiers. One of them is arrested and thrown in jail. When the military surrounds the police station and begins an all-out assault, it's up to one man, Gen. Youssef al-Masri, to defend his prison and protect his people.
 
 [TMDB](521784)
 

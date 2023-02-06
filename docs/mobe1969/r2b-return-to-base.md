@@ -4,7 +4,7 @@
 
 **2012 • NR • 1h 53m • Korean • Action, Drama, Romance • mobe1969**
 
-After he performs a dangerous dare-devil stunt at an air show, South Korean Air Force pilot Tae-hun is kicked out of the elite Black Eagles flying team and transferred to a combat unit where he immediately comes into conflict with ace pilot Cheol-hui. He makes friends with the other pilots in the unit and falls in love with the beautiful Se-young, who is in charge of maintenance, but his antics soon cause the entire unit to be suspended from duty. When a North Korean MIG fighter threatens, the group is called back into a gripping dogfight that leaves one comrade dead and another missing. Cheol-hui and Tae-hun join forces to rescue their missing friend and prevent a catastrophic war.
+Tae-hun causes trouble for the his unit with his antics. He does not take much seriously until a dogfight leaves a pilot dead and another missing. Tae-hun and the other members of his unit launch a rescue mission to prevent a war from breaking out.
 
 [TMDB](124294)
 

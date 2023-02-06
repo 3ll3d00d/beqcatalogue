@@ -4,7 +4,7 @@
 
 **2018 • PG-13 • 2h 18m • Korean • Drama, History, Thriller • mobe1969**
 
-South Korea, 1993. An agent of the National Intelligence Service is sent to Beijing with the assignment of infiltrating a group of North Korean officials with the ultimate goal of obtaining information about the North Korean nuclear program.
+South Korea, 1993. An agent of the National Intelligence Service is sent to Beijing to infiltrate a group of North Korean officials with the ultimate goal of obtaining information about their nuclear program.
 
 [TMDB](517991)
 

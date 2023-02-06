@@ -4,7 +4,7 @@
 
 **2008 • G • 1h 40m • Japanese • Animation, Family • mobe1969**
 
-The son of a sailor, 5-year old Sosuke, lives a quiet life on an oceanside cliff with his mother Lisa. One fateful day, he finds a beautiful goldfish trapped in a bottle on the beach and upon rescuing her, names her Ponyo. But she is no ordinary goldfish.
+The son of a sailor, 5-year-old Sosuke, lives a quiet life on an oceanside cliff with his mother Lisa. One fateful day, he finds a beautiful goldfish trapped in a bottle on the beach and upon rescuing her, names her Ponyo. But she is no ordinary goldfish.
 
 [TMDB](12429)
 

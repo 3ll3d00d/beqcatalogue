@@ -4,7 +4,7 @@
 
 **2022 • 15 • 1h 35m • Spanish • Thriller • mobe1969**
 
-A car attendant who must defend his territory and the neighbors of the neighborhood against.
+Togo just wants to watch his neighbors' homes, wash their cars and clean up their sidewalks. But the drug traffickers want more from him.
 
 [TMDB](884363)
 

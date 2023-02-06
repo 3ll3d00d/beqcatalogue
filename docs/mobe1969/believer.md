@@ -14,7 +14,7 @@ After a traumatic event, a drug trafficker turns sides and conspires with a dang
 
 **2018 • 15 • 2h 3m • Korean • Documentary • mobe1969**
 
-After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel. (Remake of the Chinese film “Drug War,” 2012.)
+After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel.
 
 [TMDB](518963)
 

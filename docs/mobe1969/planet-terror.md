@@ -4,7 +4,7 @@
 
 **2007 • R • 1h 45m • Thriller, Horror, Action • mobe1969**
 
-Two doctors find their graveyard shift inundated with townspeople ravaged by sores. Among the wounded is Cherry, a dancer whose leg was ripped from her body. As the invalids quickly become enraged aggressors, Cherry and her ex-boyfriend Wray lead a team of accidental warriors into the night.
+Two doctors find their graveyard shift inundated with townspeople ravaged by sores. Among the wounded is Cherry Darling, a dancer whose leg was ripped from her body. As the invalids quickly become enraged aggressors, Cherry and her ex-boyfriend El Wray lead a team of accidental warriors into the night.
 
 [TMDB](1992)
 

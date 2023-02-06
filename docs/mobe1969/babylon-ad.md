@@ -4,7 +4,7 @@
 
 **2008 • PG-13 • 1h 41m • Science Fiction, Action, Thriller, Adventure • mobe1969**
 
-A veteran-turned-mercenary  is hired to take a young woman with a secret from post-apocalyptic Eastern Europe to New York City.
+A veteran-turned-mercenary is hired to take a young woman with a secret from post-apocalyptic Eastern Europe to New York City.
 
 [TMDB](9381)
 

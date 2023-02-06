@@ -4,7 +4,7 @@
 
 **2006 • M • 2h 0m • Korean • Horror, Drama, Science Fiction • mobe1969**
 
-Following the dumping of gallons of toxic waste in the river, a giant mutated squid-like appears and begins attacking the populace. Gang-du's daughter Hyun-seo is snatched up by the creature; with his family to assist him, he sets off to find her.
+Following the dumping of gallons of toxic waste in the river, a giant mutated squid-like creature appears and begins attacking the populace. Gang-du's daughter Hyun-seo is snatched up by the creature; with his family to assist him, he sets off to find her.
 
 [TMDB](1255)
 
@@ -14,7 +14,7 @@ Following the dumping of gallons of toxic waste in the river, a giant mutated sq
 
 **2006 • M • 2h 0m • Korean • Horror, Science Fiction, Drama • mobe1969**
 
-Following the dumping of gallons of toxic waste in the river, a giant mutated squid-like appears and begins attacking the populace. Gang-du's daughter Hyun-seo is snatched up by the creature; with his family to assist him, he sets off to find her.
+Following the dumping of gallons of toxic waste in the river, a giant mutated squid-like creature appears and begins attacking the populace. Gang-du's daughter Hyun-seo is snatched up by the creature; with his family to assist him, he sets off to find her.
 
 [TMDB](1255)
 

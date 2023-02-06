@@ -4,7 +4,7 @@
 
 **2003 • NR • 1h 58m • Cantonese • Crime, Drama, Action • mobe1969**
 
-Infernal Affairs III is a 2003 Hong Kong crime thriller film directed by Andrew Lau and Alan Mak. It is the third installment in the Infernal Affairs film series, and is both a sequel and a semi-prequel to the original film, as it intercuts events before and after the events in the original.
+While Yeung Kam Wing is trying to remove all connections between the mob and him, his actions are being carefully observed by Lau Kin Ming, who bears a personal grudge against him.
 
 [TMDB](14310)
 

@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2021 • NR • 2h 56m • Mandarin • Drama, War • mobe1969**
+**2021 • NR • 2h 58m • Mandarin • Drama, War • mobe1969**
 
 Korean War, winter 1950. In the frozen and snowy area of Changjin Lake, a bloody battle is about to begin between the elite troops of the United States and China.
 
