@@ -659,6 +659,11 @@ if __name__ == '__main__':
         process_aron7awol_content_from_repo(aron7awol_films, index_entries, 'film')
         process_aron7awol_content_from_repo(aron7awol_tv, index_entries, 'TV')
         with open('docs/aron7awol.md', mode='w+') as index_md:
+            print('---', file=index_md)
+            print('search:', file=index_md)
+            print('  exclude: true', file=index_md)
+            print('---', file=index_md)
+            print('', file=index_md)
             print(f"# aron7awol", file=index_md)
             print('', file=index_md)
             print(f"| Title | Type | Year | Format | Multiformat? | Links |", file=index_md)
@@ -670,6 +675,11 @@ if __name__ == '__main__':
         process_mobe1969_content_from_repo(mobe1969_films, index_entries, 'film')
         process_mobe1969_content_from_repo(mobe1969_tv, index_entries, 'TV')
         with open('docs/mobe1969.md', mode='w+') as index_md:
+            print('---', file=index_md)
+            print('search:', file=index_md)
+            print('  exclude: true', file=index_md)
+            print('---', file=index_md)
+            print('', file=index_md)
             print(f"# Mobe1969", file=index_md)
             print('', file=index_md)
             print(f"| Title | Type | Year | Format | Multiformat? | Links |", file=index_md)
