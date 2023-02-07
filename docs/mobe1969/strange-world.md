@@ -5,8 +5,10 @@
 **2022 • PG • 1h 42m • Animation, Science Fiction, Adventure, Family • mobe1969**
 
 A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades—a family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.
+{ data-search-exclude }
 
 [TMDB](877269)
+{ data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Strange%20World%20%282022%29%20DD%2B%205.1.jpg)
 

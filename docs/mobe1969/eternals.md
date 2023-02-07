@@ -5,8 +5,10 @@
 **2021 • PG-13 • 2h 36m • Science Fiction • mobe1969**
 
 The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
+{ data-search-exclude }
 
 [TMDB](524434)
+{ data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Eternals%20%282021%29%20Atmos.jpg)
 
@@ -15,8 +17,10 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 **2021 • PG-13 • 2h 36m • Science Fiction • mobe1969**
 
 The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
+{ data-search-exclude }
 
 [TMDB](524434)
+{ data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Eternals%20%282021%29%20DTS-HD%20MA%207.1.jpg)
 

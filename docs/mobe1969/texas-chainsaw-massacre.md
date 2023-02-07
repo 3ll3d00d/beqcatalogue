@@ -5,8 +5,10 @@
 **2022 • R • 1h 23m • Horror, Thriller • mobe1969**
 
 After nearly 50 years of hiding, Leatherface returns to terrorize a group of idealistic influencers who accidentally disrupt his carefully shielded world in a remote Texas town.
+{ data-search-exclude }
 
 [TMDB](632727)
+{ data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Texas%20Chainsaw%20Massacre%20%282022%29%20DD%2B%205.1.jpg)
 

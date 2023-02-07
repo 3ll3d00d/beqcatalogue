@@ -5,8 +5,10 @@
 **2017 • R • 1h 30m • Drama, War, Thriller • mobe1969**
 
 An American sniper and his spotter engage in a deadly cat-and-mouse game with an Iraqi sniper.
+{ data-search-exclude }
 
 [TMDB](405775)
+{ data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Wall%20%282017%29%20DTS-HD%20MA%205.1.jpg)
 

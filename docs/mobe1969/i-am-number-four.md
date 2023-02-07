@@ -5,8 +5,10 @@
 **2011 • PG-13 • 1h 49m • Science Fiction, Thriller, Action, Adventure • mobe1969**
 
 A teenage fugitive with an incredible secret races to stay one step ahead of the mysterious forces seeking destroy him in this sci-fi action thriller. With three dead and one on the run, the race to find the elusive Number Four begins. Outwardly normal teen John Smith never gets too comfortable in the same identity, and along with his guardian, Henri, he is constantly moving from town to town. With each passing day, John gains a stronger grasp on his extraordinary new powers, and his bond to the beings that share his fantastic fate grows stronger.
+{ data-search-exclude }
 
 [TMDB](46529)
+{ data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I%20Am%20Number%20Four%20%282011%29%20DTS-HD%20MA%205.1.jpg)
 
