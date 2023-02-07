@@ -352,15 +352,18 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 if 'overview' in meta:
                     print('', file=content_md)
                     print(meta['overview'], file=content_md)
+                    print('{ data-search-exclude }', file=content_md)
                 if 'gain' in meta:
                     print('', file=content_md)
                     print(f"**MV Adjustment:** {'+' if float(meta['gain']) > 0 else ''}{meta['gain']} dB", file=content_md)
                 if 'note' in meta:
                     print('', file=content_md)
                     print(meta['note'], file=content_md)
+                    print('{ data-search-exclude }', file=content_md)
                 if 'warning' in meta:
                     print('', file=content_md)
                     print(f"**{meta['warning']}**", file=content_md)
+                    print('{ data-search-exclude }', file=content_md)
                 links = []
                 if 'avs' in meta:
                     links.append(f"[Discuss]({meta['avs']})")
@@ -369,6 +372,7 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 if links:
                     print('', file=content_md)
                     print('  '.join(links), file=content_md)
+                    print('{ data-search-exclude }', file=content_md)
                 if actual_img_links:
                     print('', file=content_md)
                 for img in actual_img_links:

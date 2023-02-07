@@ -1,12 +1,13 @@
 site_name: BEQCatalogue
 site_url: 'https://beqcatalogue.readthedocs.io'
-copyright: 'Copyright &copy; 2020 Matt Khan (formatting) / aron7awol (content)'
+copyright: 'Copyright &copy; 2023 3ll3d00d / aron7awol / mobe1969'
 theme:
   name: 'material'
   logo: 'img/icon.png'
   favicon: 'img/icon.ico'
   features:
-    - instant
+    - navigation.instant
+    - navigation.top
     - search.suggest
     - search.highlight
     - search.share
@@ -22,7 +23,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tables.js
 extra_css:
   - css/extra.css
@@ -30,7 +31,10 @@ markdown_extensions:
   - toc:
       permalink: true
   - admonition
+  - attr_list
 nav:
   - aron7awol: aron7awol.md
   - mobe1969: mobe1969.md
   - Offline Access: offline.md
+plugins:
+  - search
