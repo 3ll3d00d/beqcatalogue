@@ -26,3 +26,11 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/You%20%282010%29%28S3%201-10%29%20DD%2B%205.1.jpg)
 
+## Season 4 Episodes 1-5
+
+* DD+ 5.1
+
+* Production Year: 2010
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/You%20%282010%29%28S4%29%20DD%2B%205.1.jpg)
+

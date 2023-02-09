@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2022 • 15 • 1h 45m • French • Thriller, Crime, Drama • mobe1969**
+**2022 • 15 • 1h 46m • French • Thriller, Crime, Drama • mobe1969**
 
 In November 2015, a series of unprecedented and deadly attacks hits Paris. The anti-terrorist police led by Heloise and her chief commander Fred - face an unprecedented level of pressure: in a race against the clock, they must find the perpetrators of the attacks as quickly as possible before they can strike again, travelling across Europe and beyond in one of the biggest manhunts in history.
 { data-search-exclude }
