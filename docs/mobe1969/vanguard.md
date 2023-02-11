@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2020 • 15 • 1h 47m • Mandarin • Action, Adventure, Crime • mobe1969**
+**2020 • PG-13 • 1h 47m • Mandarin • Action, Adventure, Crime • mobe1969**
 
 Covert security company Vanguard is the last hope of survival for an accountant after he is targeted by the world's deadliest mercenary organization.
 { data-search-exclude }

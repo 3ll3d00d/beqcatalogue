@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2016 • NR • 2h 23m • Korean • Crime, Action • mobe1969**
+**2016 • NR • 2h 23m • Korean • Action • mobe1969**
 
 Korea’s biggest network marketing scam reveals a far greater network of corruption and conspiracy lurking underneath.
 { data-search-exclude }
