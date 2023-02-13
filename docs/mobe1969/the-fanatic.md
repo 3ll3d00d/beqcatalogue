@@ -1,6 +1,6 @@
 # The Fanatic
 
-## DD 5.1
+## DD+ 5.1, DD 5.1
 
 **2019 • R • 1h 28m • Crime, Thriller • mobe1969**
 
