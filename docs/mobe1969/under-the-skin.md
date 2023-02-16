@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2013 • R • 1h 48m • Science Fiction, Thriller, Drama • mobe1969**
+**2013 • R • 1h 48m • Thriller, Science Fiction, Drama • mobe1969**
 
 A seductive alien prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell.
 { data-search-exclude }
