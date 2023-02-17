@@ -14,6 +14,8 @@ A squad of British soldiers on training in the lonesome Scottish wilderness find
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **2002 • R • 1h 45m • Horror, Action, Thriller • mobe1969**
 
 A squad of British soldiers on training in the lonesome Scottish wilderness find a wounded Special Forces captain and the remains of his team. As they encounter zoologist Megan, it turns out that werewolves are active in the region. They have to prepare for some action as there will be a full moon tonight...

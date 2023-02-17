@@ -14,6 +14,8 @@ A tormented jazz musician finds himself lost in an enigmatic story involving mur
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **1997 • R • 2h 14m • Drama, Thriller, Mystery • mobe1969**
 
 A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell.

@@ -22,7 +22,8 @@ In the future, America is a dystopian wasteland. The latest scourge is Ma-Ma, a 
 [TMDB](49049)
 { data-search-exclude }
 
-![img 1](https://i.imgur.com/AR66r7I.jpg)
+![img 1](
+    )
 
 ![img 2](https://i.imgur.com/ojHVvGS.png)
 

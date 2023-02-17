@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Director's Cut
+Director's Cut, UHD
 
 **1991 • PG-13 • 2h 35m • Action, Adventure, Drama, Romance • mobe1969**
 
@@ -19,7 +19,7 @@ UHD
 
 ## DTS-HD MA 5.1
 
-Theatrical Cut
+Theatrical Cut, UHD
 
 **1991 • PG-13 • 2h 23m • Action, Adventure, Drama, Romance • mobe1969**
 

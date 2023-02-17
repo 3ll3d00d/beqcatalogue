@@ -2,6 +2,8 @@
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **1973 • R • 1h 45m • Western, Drama, Mystery • mobe1969**
 
 A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.

@@ -14,6 +14,8 @@ Two North Korean soldiers are killed in the border area between North and South 
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **2000 • NR • 1h 50m • Korean • War, Drama, Thriller, Action • mobe1969**
 
 Two North Korean soldiers are killed in the border area between North and South Korea, prompting an investigation by a neutral body. The sergeant is the shooter, but the lead investigator, a Swiss-Korean woman, receives differing accounts from the two sides.

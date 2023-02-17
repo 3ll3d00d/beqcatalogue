@@ -2,6 +2,8 @@
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **1980 • PG • 1h 51m • Science Fiction, Adventure • mobe1969**
 
 A football player and his mates travel to the planet Mongo and find themselves fighting the tyranny of Ming the Merciless to save Earth.

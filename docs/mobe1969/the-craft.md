@@ -14,6 +14,8 @@ A Catholic school newcomer falls in with a clique of teen witches who wield thei
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **1996 • R • 1h 41m • Horror, Drama, Fantasy • mobe1969**
 
 A Catholic school newcomer falls in with a clique of teen witches who wield their powers against all who dare to cross them -- be they teachers, rivals or meddlesome parents.

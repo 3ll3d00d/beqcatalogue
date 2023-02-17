@@ -2,6 +2,8 @@
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **1990 • R • 1h 55m • Drama, Science Fiction, Horror • mobe1969**
 
 Five medical students want to find out if there is life after death. They plan to stop one of their hearts for a few seconds, thus simulating death, and then bring the person back to life.

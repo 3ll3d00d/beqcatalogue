@@ -14,6 +14,8 @@
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **2003 • NR • 2h 11m • Korean • Crime, Drama, Thriller • mobe1969**
 
 1986 Gyunggi Province. The body of a young woman is found brutally raped and murdered. Two months later, a series of rapes and murders commences under similar circumstances. And in a country that had never known such crimes, the dark whispers about a serial murderer grow louder. A special task force is set up in the area, with two local detectives Park Doo-Man and Jo Young-Goo joined by a detective from Seoul who requested to be assigned to the case.

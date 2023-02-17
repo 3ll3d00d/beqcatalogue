@@ -10,5 +10,5 @@ A cinematic odyssey featuring never-before-seen footage exploring David Bowie's 
 [TMDB](957457)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Moonage%20Daydream%20%282022%29%20DTH-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Moonage%20Daydream%20%282022%29%20DTS-HD%20MA%205.1.jpg)
 

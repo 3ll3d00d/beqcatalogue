@@ -14,6 +14,8 @@ Mark Kaminsky is kicked out of the FBI for his rough treatment of a suspect. He 
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **1986 • R • 1h 46m • Action, Crime, Thriller • mobe1969**
 
 Mark Kaminsky is kicked out of the FBI for his rough treatment of a suspect. He winds up as the sheriff of a small town in North Carolina. FBI Chief Harry Shannon, whose son has been killed by a mobster named Patrovina, enlists Kaminsky in a personal vendetta with a promise of reinstatement into the FBI if Patrovina is taken down. To accomplish this, he must go undercover and join Patrovina's gang.

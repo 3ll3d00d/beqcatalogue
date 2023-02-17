@@ -21,6 +21,9 @@ Disc 1
 Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.
 { data-search-exclude }
 
+[Disc 1]
+{ data-search-exclude }
+
 [TMDB](791373)
 { data-search-exclude }
 
@@ -33,6 +36,9 @@ Disk 2
 **2021 • R • 4h 2m • Action, Adventure, Fantasy, Science Fiction • mobe1969**
 
 Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.
+{ data-search-exclude }
+
+[Disc 2]
 { data-search-exclude }
 
 [TMDB](791373)

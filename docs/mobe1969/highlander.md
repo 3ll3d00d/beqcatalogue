@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Director's Cut
+Director's Cut, UHD
 
 **1986 • R • 1h 57m • Adventure, Action, Fantasy • mobe1969**
 

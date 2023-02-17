@@ -14,6 +14,8 @@ Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **2008 • R • 1h 48m • Comedy, Drama, Crime • mobe1969**
 
 Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.

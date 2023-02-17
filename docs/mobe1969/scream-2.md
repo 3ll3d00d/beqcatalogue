@@ -14,6 +14,8 @@ Two years after the terrifying events that occurred in Woodsboro, Sidney is now 
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **1997 • R • 2h 0m • Horror, Mystery • mobe1969**
 
 Two years after the terrifying events that occurred in Woodsboro, Sidney is now attending Windsor College in Cincinnati, and Gale Weathers' best selling book on Sidney's life has now been made into a major motion picture. When two college students are killed in a theatre while watching the new film 'Stab', Sidney knows deep down that history is repeating itself.

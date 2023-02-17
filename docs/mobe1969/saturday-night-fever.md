@@ -14,6 +14,8 @@ Tony spends his Saturdays at a disco where his stylish moves raise his popularit
 
 ## TrueHD 5.1
 
+UHD
+
 **1977 • R • 1h 58m • Drama, Music, Romance • mobe1969**
 
 Tony spends his Saturdays at a disco where his stylish moves raise his popularity among the patrons. But his life outside the disco is not easy and things change when he gets attracted to Stephanie.

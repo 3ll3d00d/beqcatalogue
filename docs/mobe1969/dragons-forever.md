@@ -2,11 +2,14 @@
 
 ## Atmos
 
-Hong Kong Cut
+Hong Kong Cut, Hong Kong Blu-Ray
 
 **1988 • R • 1h 34m • Cantonese • Action, Comedy, Romance • mobe1969**
 
 A hot-shot lawyer is hired by a Hong Kong chemical plant to dispose of opposition to their polluting ways. But when he falls for a beautiful woman out to stop the plant, he is torn in a conflict of interest and asks his trusty friends Samo and Biao to help out at least until they discover the true purpose of the plant.
+{ data-search-exclude }
+
+Hong Kong Blu-Ray
 { data-search-exclude }
 
 [TMDB](21733)
