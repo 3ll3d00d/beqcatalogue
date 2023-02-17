@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2015 • NR • 1h 59m • Korean • Action, Comedy, Crime • mobe1969**
+**2015 • NR • 2h 5m • Korean • Action, Comedy, Crime • mobe1969**
 
 When an old collaborator gets severely injured, a veteran policeman tries to figure out the way to bring to justice the ultimately suspected aggressor, a spoiled young executive, heir to a mega corporation, who believes he is above the law.
 { data-search-exclude }
