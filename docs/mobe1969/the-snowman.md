@@ -1,6 +1,6 @@
 # The Snowman
 
-## DTS-HD MA 7.1
+## DTS-HD MA 7.1, DD+ 5.1
 
 **2017 • R • 1h 59m • Crime, Thriller • mobe1969**
 
