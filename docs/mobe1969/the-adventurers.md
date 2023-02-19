@@ -2,7 +2,7 @@
 
 ## DTS-X
 
-**2017 • NR • 1h 47m • Mandarin • Action, Drama, Crime, Adventure • mobe1969**
+**2017 • NR • 1h 48m • Mandarin • Action, Drama, Crime, Adventure • mobe1969**
 
 The world's top thieves join forces to pull off the heist of a lifetime. But when they find themselves pursued across Europe by a legendary French detective, they'll have to take their game to the next level.
 { data-search-exclude }
