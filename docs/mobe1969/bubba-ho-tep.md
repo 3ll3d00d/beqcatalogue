@@ -1,8 +1,8 @@
-# Bubba Ho-tep
+# Bubba Ho-Tep
 
 ## DTS-HD MA 5.1
 
-**2002 • R • 1h 32m • Fantasy, Comedy, Mystery, Thriller, Horror • mobe1969**
+**2002 • R • 1h 32m • Comedy, Horror, Thriller, Mystery, Fantasy • mobe1969**
 
 Bubba Ho-tep tells the "true" story of what really did become of Elvis Presley. We find Elvis as an elderly resident in an East Texas rest home, who switched identities with an Elvis impersonator years before his "death," then missed his chance to switch back. He must team up with JFK and fight an ancient Egyptian mummy for the souls of their fellow residents.
 { data-search-exclude }
