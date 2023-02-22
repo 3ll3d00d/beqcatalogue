@@ -1,6 +1,6 @@
 # Infernal Affairs
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, LPCM 5.1
 
 **2002 • R • 1h 41m • Cantonese • Drama, Action, Thriller, Crime, Mystery • mobe1969**
 
