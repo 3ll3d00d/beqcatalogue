@@ -1,6 +1,6 @@
 # Interstellar
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2014 • PG-13 • 2h 49m • Adventure, Drama, Science Fiction • mobe1969**
 
