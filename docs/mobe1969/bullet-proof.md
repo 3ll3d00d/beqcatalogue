@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2022 • R • 1h 21m • Action, Crime • mobe1969**
+**2022 • R • 1h 31m • Action, Crime • mobe1969**
 
 The Thief  pulls off the robbery of a lifetime when he robs the psychotic drug lord, Temple. The plan goes off without a hitch until the Thief discovers a stowaway in his getaway car - Temple's pregnant wife, Mia.
 { data-search-exclude }
