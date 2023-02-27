@@ -1,6 +1,6 @@
 # Rampage
 
-## Atmos, DTS-HD MA 5.1
+## Atmos, DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • PG-13 • 1h 47m • Action, Adventure, Science Fiction • mobe1969**
 
