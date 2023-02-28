@@ -1,6 +1,6 @@
 # The Misfits
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2021 • R • 1h 34m • Action, Comedy, Crime • mobe1969**
 
