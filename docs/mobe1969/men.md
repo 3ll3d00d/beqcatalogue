@@ -1,6 +1,6 @@
 # Men
 
-## Atmos, DTS-HD MA 5.1
+## Atmos, DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • R • 1h 40m • Horror, Thriller, Fantasy • mobe1969**
 
