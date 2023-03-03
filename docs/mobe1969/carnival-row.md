@@ -10,7 +10,7 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Carnival%20Row%20%282019%29%28S1%201-8%29%20DD%2B%205.1.jpg)
 
-## Season 2 Episodes 1-4
+## Season 2 Episodes 1-6
 
 * DD+ 5.1
 
