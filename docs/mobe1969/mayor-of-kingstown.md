@@ -10,7 +10,7 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Mayor%20of%20Kingstown%20%282021%29%28S1%201-10%29%20DD%2B%205.1.jpg)
 
-## Season 2 Episodes 1-7
+## Season 2 Episodes 1-8
 
 * DD+ 5.1
 
