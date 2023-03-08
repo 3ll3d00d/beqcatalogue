@@ -19,7 +19,7 @@ In an ancient time when majestic fire-breathers soared through the skies, a knig
 In an ancient time when majestic fire-breathers soared through the skies, a knight named Bowen comes face to face and heart to heart with the last dragon on Earth, Draco. Taking up arms to suppress a tyrant king, Bowen soon realizes his task will be harder than he'd imagined: If he kills the king, Draco will die as well.
 { data-search-exclude }
 
-Original blu-ray. Please wait for confirmation on the UHD
+Original Blu-Ray and UHD
 { data-search-exclude }
 
 [TMDB](8840)
