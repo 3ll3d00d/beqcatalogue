@@ -12,7 +12,7 @@ A cold and mysterious new security guard for a Los Angeles cash truck company su
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wrath%20of%20Man%20%282021%29%20Atmos.jpg)
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2021 • R • 1h 59m • Action, Crime, Thriller • mobe1969**
 

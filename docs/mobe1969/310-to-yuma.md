@@ -12,7 +12,7 @@ In Arizona in the late 1800s, infamous outlaw Ben Wade and his vicious gang of t
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/310%20to%20Yuma%20%282007%29%20DTS-X.jpg)
 
-## LPCM 7.1
+## LPCM 7.1, DD+ 5.1
 
 **2007 • R • 2h 2m • Western • mobe1969**
 
