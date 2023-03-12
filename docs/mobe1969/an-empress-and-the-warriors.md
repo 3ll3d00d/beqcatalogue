@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1, TrueHD 5.1
 
-**2008 • NR • 1h 39m • Mandarin • Action, Adventure, History • mobe1969**
+**2008 • NR • 1h 35m • Mandarin • Action, Adventure, History • mobe1969**
 
 After the death of her father, a woman is forced to take over as empress and fight to save her kingdom.
 { data-search-exclude }

@@ -1,6 +1,6 @@
 # Fantastic Beasts: The Secrets of Dumbledore
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2022 • PG-13 • 2h 22m • Fantasy, Adventure, Action • mobe1969**
 
