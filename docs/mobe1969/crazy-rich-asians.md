@@ -1,6 +1,6 @@
 # Crazy Rich Asians
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • PG-13 • 2h 1m • Comedy, Drama, Romance • mobe1969**
 
