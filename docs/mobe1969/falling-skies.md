@@ -2,6 +2,14 @@
 
 * Author: mobe1969
 
+## Season 1
+
+* DD+ 5.1
+
+* Production Year: 2011
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Falling%20Skies%20%282011%29%28S1%29%20DD%2B%205.1.jpg)
+
 ## Season 1 Episode 1
 
 * TrueHD 5.1
@@ -90,6 +98,14 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Falling%20Skies/Season%201/Falling%20Skies%20%282011%29%28S1-E09%29%20TrueHD%205.1.jpg)
 
+## Season 2
+
+* DD+ 5.1
+
+* Production Year: 2011
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Falling%20Skies%20%282011%29%28S2%29%20DD%2B%205.1.jpg)
+
 ## Season 2 Episode 1
 
 * TrueHD 5.1
@@ -170,6 +186,14 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Falling%20Skies/Season%202/Falling%20Skies%20%282011%29%28S2-E09%29%20TrueHD%205.1.jpg)
 
+## Season 3
+
+* DD+ 5.1
+
+* Production Year: 2011
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Falling%20Skies%20%282011%29%28S3%29%20DD%2B%205.1.jpg)
+
 ## Season 3 Episode 1
 
 * TrueHD 5.1
@@ -249,6 +273,14 @@
 * Production Year: 2011
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Falling%20Skies/Season%203/Falling%20Skies%20%282011%29%28S3-E09%29%20TrueHD%205.1.jpg)
+
+## Season 4
+
+* DD+ 5.1
+
+* Production Year: 2011
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Falling%20Skies%20%282011%29%28S4%29%20DD%2B%205.1.jpg)
 
 ## Season 4 Episode 1
 
@@ -345,6 +377,14 @@
 * Production Year: 2011
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Falling%20Skies/Season%204/Falling%20Skies%20%282011%29%28S4-E09%29%20TrueHD%205.1.jpg)
+
+## Season 5
+
+* DD+ 5.1
+
+* Production Year: 2011
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Falling%20Skies%20%282011%29%28S5%29%20DD%2B%205.1.jpg)
 
 ## Season 5 Episode 1
 
