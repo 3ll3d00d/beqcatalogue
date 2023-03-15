@@ -1,6 +1,6 @@
 # The Conjuring
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2013 • R • 1h 52m • Horror, Thriller • mobe1969**
 

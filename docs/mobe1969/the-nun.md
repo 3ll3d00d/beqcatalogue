@@ -1,6 +1,6 @@
 # The Nun
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2018 • R • 1h 36m • Horror, Mystery, Thriller • mobe1969**
 

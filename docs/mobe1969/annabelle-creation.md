@@ -1,6 +1,6 @@
 # Annabelle: Creation
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2017 • R • 1h 49m • Horror, Mystery, Thriller • mobe1969**
 

@@ -1,6 +1,6 @@
 # The Conjuring 2
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2016 • R • 2h 14m • Horror, Mystery, Thriller • mobe1969**
 

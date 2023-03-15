@@ -1,6 +1,6 @@
 # Hereditary
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • R • 2h 7m • Horror, Mystery, Thriller • mobe1969**
 
