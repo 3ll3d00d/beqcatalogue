@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 7.1
 
-**2016 • PG • 1h 53m • Family, Fantasy, Adventure • mobe1969**
+**2016 • PG • 1h 53m • Adventure, Family, Fantasy • mobe1969**
 
 Alice Kingsleigh returns to Underland and faces a new adventure in saving the Mad Hatter.
 { data-search-exclude }

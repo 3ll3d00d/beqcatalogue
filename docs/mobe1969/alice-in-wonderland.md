@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2010 • PG • 1h 48m • Adventure, Fantasy, Family • mobe1969**
+**2010 • PG • 1h 48m • Family, Fantasy, Adventure • mobe1969**
 
 Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny.
 { data-search-exclude }
