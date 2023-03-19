@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 7.1
 
-**2018 • PG-13 • 2h 13m • Drama, Crime • mobe1969**
+**2018 • PG-13 • 2h 13m • Crime, Drama • mobe1969**
 
 Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she's torn between her two very different worlds as she tries to speak her truth.
 { data-search-exclude }
