@@ -1,6 +1,6 @@
 # Monsters vs. Aliens
 
-## TrueHD 5.1
+## TrueHD 5.1, DD+ 5.1
 
 **2009 • PG • 1h 34m • Adventure, Family, Animation, Science Fiction • mobe1969**
 
