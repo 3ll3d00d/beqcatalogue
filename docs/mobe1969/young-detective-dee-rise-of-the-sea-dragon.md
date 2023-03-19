@@ -1,6 +1,6 @@
 # Young Detective Dee: Rise of the Sea Dragon
 
-## DTS-HD MA 7.1
+## DTS-HD MA 7.1, DTS 5.1
 
 **2013 • R • 2h 13m • Mandarin • Action, Crime, Fantasy, Adventure • mobe1969**
 
