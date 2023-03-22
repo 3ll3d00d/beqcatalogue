@@ -1,6 +1,6 @@
 # Beast
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2022 • R • 1h 33m • Thriller, Adventure, Horror • mobe1969**
 
