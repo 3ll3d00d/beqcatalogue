@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2018 • R • 1h 39m • Action • mobe1969**
+**2018 • R • 1h 40m • Action • mobe1969**
 
 A battle-scarred War on Terror bounty hunter is forced to go to London on a manhunt for a disavowed CIA operative, which leads him into a deadly running battle with a former military comrade and his private army.
 { data-search-exclude }

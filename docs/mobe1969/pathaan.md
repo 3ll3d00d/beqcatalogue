@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2023 • NR • 2h 26m • Hindi • Action, Adventure, Thriller • mobe1969**
+**2023 • NR • 2h 29m • Hindi • Action, Adventure, Thriller • mobe1969**
 
 A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.
 { data-search-exclude }
