@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-## Season 1 Episodes 1-8
+## Season 1
 
 * DD+ 5.1
 
