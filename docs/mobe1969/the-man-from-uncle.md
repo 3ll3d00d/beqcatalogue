@@ -1,6 +1,6 @@
 # The Man from U.N.C.L.E.
 
-## Atmos, DD 5.1
+## Atmos, DD+ 5.1, DD 5.1
 
 **2015 • PG-13 • 1h 56m • Comedy, Action, Adventure • mobe1969**
 
