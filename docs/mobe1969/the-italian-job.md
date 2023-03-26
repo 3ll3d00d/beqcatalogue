@@ -1,55 +1,19 @@
 # The Italian Job
 
-## DD 5.1
-
-**2003 • PG-13 • 1h 50m • Crime, Action • mobe1969**
-
-Charlie Croker pulled off the crime of a lifetime. The one thing that he didn't plan on was being double-crossed. Along with a drop-dead gorgeous safecracker, Croker and his team take off to re-steal the loot and end up in a pulse-pounding, pedal-to-the-metal chase that careens up, down, above and below the streets of Los Angeles.
-{ data-search-exclude }
-
-[TMDB](9654)
-{ data-search-exclude }
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Italian%20Job%20%282003%29%20AC3%205.1.jpg)
-
-## DD+ 5.1
-
-**2003 • PG-13 • 1h 50m • Action, Crime • mobe1969**
-
-Charlie Croker pulled off the crime of a lifetime. The one thing that he didn't plan on was being double-crossed. Along with a drop-dead gorgeous safecracker, Croker and his team take off to re-steal the loot and end up in a pulse-pounding, pedal-to-the-metal chase that careens up, down, above and below the streets of Los Angeles.
-{ data-search-exclude }
-
-[TMDB](9654)
-{ data-search-exclude }
-
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Italian%20Job%20%282003%29%20DD%2B%205.1.jpg)
-
 ## DTS-HD MA 5.1
 
-**2003 • PG-13 • 1h 50m • Action, Crime • mobe1969**
+UHD
 
-Charlie Croker pulled off the crime of a lifetime. The one thing that he didn't plan on was being double-crossed. Along with a drop-dead gorgeous safecracker, Croker and his team take off to re-steal the loot and end up in a pulse-pounding, pedal-to-the-metal chase that careens up, down, above and below the streets of Los Angeles.
+**1969 • G • 1h 39m • Action, Crime, Comedy, Thriller • mobe1969**
+
+Charlie's got a 'job' to do. Having just left prison he finds one of his friends has attempted a high-risk job in Torino, Italy, right under the nose of the mafia. Charlie's friend doesn't get very far, so Charlie takes over the 'job'. Using three Mini Coopers, a couple of Jaguars, and a bus, he hopes to bring Torino to a standstill, steal a fortune in gold and escape in the chaos.
 { data-search-exclude }
 
-[TMDB](9654)
+UHD
 { data-search-exclude }
 
-![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Italian%20Job%20%282003%29%20DTS-HD%20MA%205.1.jpg)
-
-## TrueHD 5.1, DTS-HD MA 5.1
-
-Russian Blu-Ray
-
-**2003 • PG-13 • 1h 50m • Action, Crime • mobe1969**
-
-Charlie Croker pulled off the crime of a lifetime. The one thing that he didn't plan on was being double-crossed. Along with a drop-dead gorgeous safecracker, Croker and his team take off to re-steal the loot and end up in a pulse-pounding, pedal-to-the-metal chase that careens up, down, above and below the streets of Los Angeles.
+[TMDB](10536)
 { data-search-exclude }
 
-**Russian Blu-Ray ONLY!**
-{ data-search-exclude }
-
-[TMDB](9654)
-{ data-search-exclude }
-
-![img 3](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Italian%20Job%20%282003%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Italian%20Job%20%281969%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)
 
