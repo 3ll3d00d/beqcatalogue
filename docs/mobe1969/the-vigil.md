@@ -1,6 +1,6 @@
 # The Vigil
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2019 • PG-13 • 1h 28m • Horror, Thriller, Mystery • mobe1969**
 
