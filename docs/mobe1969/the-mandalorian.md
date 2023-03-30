@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-## Season 3 Episodes 1-4
+## Season 3 Episodes 1-5
 
 * DD+ Atmos
 
