@@ -1,6 +1,6 @@
 # Better Watch Out
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2017 • R • 1h 34m • Horror, Thriller • mobe1969**
 
