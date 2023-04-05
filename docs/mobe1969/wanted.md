@@ -7,6 +7,9 @@
 Doormat Wesley Gibson discovers that his recently murdered father - who Wesley never knew - belonged to a secret guild of assassins. After a leather-clad sexpot drafts Wesley into the society, he hones his innate killing skills and turns avenger.
 { data-search-exclude }
 
+UHD and Blu-Ray
+{ data-search-exclude }
+
 [TMDB](8909)
 { data-search-exclude }
 
