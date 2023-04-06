@@ -14,7 +14,7 @@ When a fellow scientist asks for Jack's help in locating the mausoleum of China'
 
 ## TrueHD 5.1
 
-**2005 • PG-13 • 1h 58m • Cantonese • Action, Adventure, Comedy, Drama, Fantasy • mobe1969**
+**2005 • PG-13 • 2h 1m • Cantonese • Action, Adventure, Comedy, Drama, Fantasy • mobe1969**
 
 When a fellow scientist asks for Jack's help in locating the mausoleum of China's first emperor, the past collides violently with the present as Jack discovers his amazing visions are based in fact.
 { data-search-exclude }
