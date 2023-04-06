@@ -1,6 +1,6 @@
 # Green Lantern: Beware My Power
 
-## DD+ 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • PG-13 • 1h 27m • Animation, Action, Science Fiction • mobe1969**
 
@@ -10,5 +10,5 @@ Recently discharged Marine sniper John Stewart is at a crossroads in his life, o
 [TMDB](887357)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Green%20Lantern%20Beware%20My%20Power%20%282022%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Green%20Lantern%20Beware%20My%20Power%20%282022%29%20DTS-HD%20MA%205.1.jpg)
 
