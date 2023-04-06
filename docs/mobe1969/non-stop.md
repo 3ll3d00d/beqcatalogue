@@ -12,7 +12,7 @@ Bill Marks is a burned-out veteran of the Air Marshals service. He views the ass
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Non-Stop%20%282014%29%20DD%2B%205.1.jpg)
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, TrueHD 7.1
 
 **2014 • PG-13 • 1h 46m • Action, Thriller, Mystery • mobe1969**
 
