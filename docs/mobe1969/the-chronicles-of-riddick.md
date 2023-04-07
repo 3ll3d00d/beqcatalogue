@@ -14,7 +14,7 @@ After years of outrunning ruthless bounty hunters, escaped convict Riddick sudde
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Chronicles%20of%20Riddick%20%282004%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 Theatrical Cut
 

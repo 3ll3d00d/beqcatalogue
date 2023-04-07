@@ -1,6 +1,6 @@
 # Pathaan
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2023 • NR • 2h 29m • Hindi • Action, Adventure, Thriller • mobe1969**
 
