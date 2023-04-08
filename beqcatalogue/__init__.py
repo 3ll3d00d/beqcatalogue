@@ -732,7 +732,7 @@ if __name__ == '__main__':
             txt(item, 'title', fresh['title'])
             txt(item, 'link', fresh['catalogue_url'])
             txt(item, 'description', fresh['overview'])
-            txt(item, 'pubDate', formatdate(fresh['created_at']))
+            txt(item, 'pubDate', formatdate(max(fresh.get('created_at', 0), fresh.get('updated_at', 0))))
             txt(item, 'category', fresh['content_type'])
             txt(item, 'category', fresh['author'])
             txt(item, 'guid', fresh['digest'], isPermaLink='false')
