@@ -5,6 +5,7 @@ theme:
   name: 'material'
   logo: 'img/icon.png'
   favicon: 'img/icon.ico'
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.top
@@ -35,6 +36,5 @@ markdown_extensions:
 nav:
   - aron7awol: aron7awol.md
   - mobe1969: mobe1969.md
-  - Offline Access: offline.md
 plugins:
   - search

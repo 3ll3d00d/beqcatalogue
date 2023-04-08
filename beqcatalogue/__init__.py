@@ -4,15 +4,21 @@ import json
 import math
 import os
 import re
+import time
 from collections import defaultdict
 from operator import itemgetter
 from typing import Tuple, List, Dict
 from urllib import parse
 
+import xml.etree.ElementTree as ET
+
 from itertools import groupby
 from markdown.extensions.toc import slugify
+from email.utils import formatdate
 
 from iir import xml_to_filt
+
+TWO_WEEKS_AGO = time.time() - (2 * 7 * 24 * 60 * 60)
 
 
 def extract_from_repo(path1: str, path2: str, content_type: str):
@@ -355,7 +361,8 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                     print('{ data-search-exclude }', file=content_md)
                 if 'gain' in meta:
                     print('', file=content_md)
-                    print(f"**MV Adjustment:** {'+' if float(meta['gain']) > 0 else ''}{meta['gain']} dB", file=content_md)
+                    print(f"**MV Adjustment:** {'+' if float(meta['gain']) > 0 else ''}{meta['gain']} dB",
+                          file=content_md)
                 if 'note' in meta:
                     print('', file=content_md)
                     print(meta['note'], file=content_md)
@@ -654,7 +661,7 @@ if __name__ == '__main__':
     mobe1969_tv = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'TV BEQs', 'TV')
     print(f"Extracted {len(mobe1969_tv)} mobe1969 TV catalogue entries")
 
-    json_catalogue = []
+    json_catalogue: List[dict] = []
 
     with open('docs/database.csv', 'w+', newline='') as db_csv:
         db_writer = csv.writer(db_csv)
@@ -695,3 +702,38 @@ if __name__ == '__main__':
     detect_duplicate_hashes()
     with open('docs/database.json', 'w+') as db_json:
         json.dump(json_catalogue, db_json, indent=0)
+
+
+    def txt(parent, title, text, **kwargs):
+        e = ET.SubElement(parent, title, kwargs)
+        e.text = text
+        return e
+
+    guids = set()
+
+    ET.register_namespace('atom', 'http://www.w3.org/2005/Atom')
+    rss_feed = ET.Element('rss', attrib={'xmlns:atom': 'http://www.w3.org/2005/Atom', 'version': '2.0'})
+    channel = ET.SubElement(rss_feed, 'channel')
+    txt(channel, 'title', 'BEQCatalogue')
+    txt(channel, 'description', 'A RSS feed containing all BEQs created in the last 2 weeks')
+    txt(channel, 'link', 'https://beqcatalogue.readthedocs.io/')
+    txt(channel, 'language', 'en-gb')
+    txt(channel, 'pubDate', formatdate())
+    atom = ET.SubElement(channel, 'atom:link', href='https://beqcatalogue.readthedocs.io/en/latest/rss.xml', ref='self',
+                         type='application/rss+xml')
+    for fresh in sorted([c for c in json_catalogue if c.get('created_at', 0) >= TWO_WEEKS_AGO],
+                        key=lambda c: c.get('created_at', 0), reverse=True):
+        guid = fresh['digest']
+        sz = len(guids)
+        guids.add(guid)
+        if len(guids) != sz:
+            item = ET.SubElement(channel, 'item')
+            txt(item, 'title', fresh['title'])
+            txt(item, 'link', fresh['catalogue_url'])
+            txt(item, 'description', fresh['overview'])
+            txt(item, 'pubDate', formatdate(fresh['created_at']))
+            txt(item, 'category', fresh['content_type'])
+            txt(item, 'category', fresh['author'])
+            txt(item, 'guid', fresh['digest'], isPermaLink='false')
+    tree = ET.ElementTree(rss_feed)
+    tree.write("docs/rss/rss.xml", xml_declaration=True, encoding='utf-8')
