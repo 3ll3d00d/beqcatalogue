@@ -721,8 +721,9 @@ if __name__ == '__main__':
     txt(channel, 'pubDate', formatdate())
     atom = ET.SubElement(channel, 'atom:link', href='https://beqcatalogue.readthedocs.io/en/latest/rss.xml', ref='self',
                          type='application/rss+xml')
-    for fresh in sorted([c for c in json_catalogue if c.get('created_at', 0) >= TWO_WEEKS_AGO],
-                        key=lambda c: c.get('created_at', 0), reverse=True):
+    for fresh in sorted([c for c in json_catalogue if c.get('created_at', 0) >= TWO_WEEKS_AGO
+                                                      or c.get('updated_at', 0) >= TWO_WEEKS_AGO],
+                        key=lambda c: max(c.get('created_at', 0), c.get('updated_at', 0)), reverse=True):
         guid = fresh['digest']
         sz = len(guids)
         guids.add(guid)
