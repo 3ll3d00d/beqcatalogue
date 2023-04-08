@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2022 • NR • 2h 50m • Hindi • Crime, Thriller • mobe1969**
+**2022 • NR • 1h 48m • Hindi • Crime, Thriller • mobe1969**
 
 When a delusional housewife with a personality disorder is taken hostage by a terrorist on the loose and a husband accused of cheating on his wife have their own versions of reality, how do we know who's saying the truth?
 { data-search-exclude }
