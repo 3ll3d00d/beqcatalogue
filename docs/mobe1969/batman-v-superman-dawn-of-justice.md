@@ -2,7 +2,7 @@
 
 ## Atmos
 
-Theatrical
+Theatrical Cut
 
 **2016 • PG-13 • 2h 32m • Action, Adventure, Fantasy • mobe1969**
 
@@ -12,11 +12,11 @@ Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own
 [TMDB](209112)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Batman%20v%20Superman%20Dawn%20of%20Justice%20%282016%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Batman%20v%20Superman%20Dawn%20of%20Justice%20%282016%29%28TC%29%20Atmos.jpg)
 
 ## Atmos
 
-Extended
+Ultimate Edition
 
 **2016 • PG-13 • 3h 3m • Action, Adventure, Fantasy • mobe1969**
 
