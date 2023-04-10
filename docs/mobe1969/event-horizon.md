@@ -1,6 +1,6 @@
 # Event Horizon
 
-## TrueHD 5.1
+## TrueHD 5.1, DD+ 5.1
 
 UHD
 
