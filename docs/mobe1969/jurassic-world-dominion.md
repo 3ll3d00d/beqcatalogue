@@ -1,6 +1,6 @@
 # Jurassic World Dominion
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 Theatrical Cut
 
