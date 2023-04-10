@@ -672,7 +672,7 @@ if __name__ == '__main__':
 
     film_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'Movie BEQs', 'film')
     print(f"Extracted {len(film_data['halcyon888'])} halcyon888 film catalogue entries")
-    tv_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'TV BEQs', 'TV')
+    tv_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'TV Shows BEQs', 'TV')
     print(f"Extracted {len(tv_data['halcyon888'])} halcyon888 TV catalogue entries")
 
     json_catalogue: List[dict] = []
