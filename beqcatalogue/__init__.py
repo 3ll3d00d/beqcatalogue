@@ -41,7 +41,6 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
                 <beq_author>aron7awol</beq_author>
                 <beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57282106</beq_avs>
                 <beq_theMovieDB>12244</beq_theMovieDB>
-                <beq_poster>/usfcQZRqdXTSSQ55esiPHJZKkIU.jpg</beq_poster>
                 <beq_runtime>79</beq_runtime>
                 <beq_audioTypes>
                         <audioType>DTS-HD MA 5.1</audioType>
@@ -59,7 +58,6 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
 
                <beq_season id="92137">
                    <number>1</number>
-                   <poster>/q1X7Ev3Hcr0Q7aUiWgw1ZUZf1QZ.jpg</poster>
                    <episodes count="8">1,2,3,4,5,6,7,8</episodes>
                </beq_season>
 
@@ -103,6 +101,13 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
             suffix = get_title_suffix(meta)
             page_title = f"{meta['title']}_{suffix}" if suffix else meta['title']
             meta['page_title'] = page_title.casefold()
+            if 'gain' in meta:
+                g = meta['gain']
+                if g[0] == '+':
+                    g = g[1:]
+                if g.endswith(' gain'):
+                    g = g[:-5]
+                meta['gain'] = g
             elements.append(meta)
         except Exception as e:
             print(f"Unexpected error while extracting metadata from {xml}")
@@ -150,7 +155,7 @@ def parse_season(m, meta, xml):
         print(f"Unable to parse season info from {xml}")
 
 
-def group_mobe1969_film_content(content_meta):
+def group_film_content(author, content_meta):
     by_title = defaultdict(list)
     fallback_pattern = re.compile(r'(.*) \((\d{4})\)(?: *\(.*\))? (.*)')
     for meta in content_meta:
@@ -167,7 +172,7 @@ def group_mobe1969_film_content(content_meta):
         else:
             entry = {
                 'title': meta['file_name'],
-                'author': 'mobe1969',
+                'author': author,
                 'content_type': meta['content_type']
             }
             match = fallback_pattern.match(meta['file_name'])
@@ -178,16 +183,16 @@ def group_mobe1969_film_content(content_meta):
             entry['page_title'] = entry['title'].casefold()
             print(f"Missing title entry, extracted {entry}")
             entry['filters'] = meta['jsonfilters']
-            add_to_catalogue(entry, meta['git_path'], 'mobe1969')
+            add_to_catalogue(entry, meta['git_path'], author)
     return by_title
 
 
 def add_to_catalogue(entry: dict, path: str, author: str):
     entry['digest'] = digest(entry)
-    times = aron7awol_times if author == 'aron7awol' else mobe1969_times
-    if path in times:
-        entry['created_at'] = times[path][0]
-        entry['updated_at'] = times[path][1]
+    t = times[author]
+    if path in t:
+        entry['created_at'] = t[path][0]
+        entry['updated_at'] = t[path][1]
     else:
         print(f"Missing times for {author} / {path}")
         entry['created_at'] = 0
@@ -201,7 +206,7 @@ def digest(entry: dict) -> str:
     return hashlib.sha256(to_hash).hexdigest()
 
 
-def group_mobe1969_tv_content(content_meta):
+def group_tv_content(author, content_meta):
     by_title = {}
     fallback_pattern = re.compile(r'(.*) \((\d{4})\)(?: *\(.*\))? (.*)')
     for meta in content_meta:
@@ -235,7 +240,7 @@ def group_mobe1969_tv_content(content_meta):
         else:
             entry = {
                 'title': meta['file_name'],
-                'author': 'mobe1969',
+                'author': author,
                 'content_type': meta['content_type']
             }
             match = fallback_pattern.match(meta['file_name'])
@@ -245,20 +250,20 @@ def group_mobe1969_tv_content(content_meta):
                 entry['audioTypes'] = match.group(3).split('+')
             print(f"Missing title entry, extracted {entry}")
             entry['filters'] = meta['jsonfilters']
-            add_to_catalogue(entry, meta['git_path'], 'mobe1969')
+            add_to_catalogue(entry, meta['git_path'], author)
     return by_title
 
 
-def process_mobe1969_content_from_repo(content_meta, index_entries, content_type):
+def process_content_from_repo(author: str, content_meta, index_entries, content_type):
     ''' converts beq_metadata into md '''
     if content_type == 'film':
-        by_title = group_mobe1969_film_content(content_meta)
+        by_title = group_film_content(author, content_meta)
     else:
-        by_title = group_mobe1969_tv_content(content_meta)
+        by_title = group_tv_content(author, content_meta)
     for title, metas in by_title.items():
         title_md = slugify(title, '-')
-        with open(f"docs/mobe1969/{title_md}.md", mode='w+') as content_md:
-            generate_content_page(title_md, metas, content_md, index_entries, 'mobe1969', content_type)
+        with open(f"docs/{author}/{title_md}.md", mode='w+') as content_md:
+            generate_content_page(title_md, metas, content_md, index_entries, author, content_type)
 
 
 def process_aron7awol_content_from_repo(content_meta, index_entries, content_type):
@@ -649,17 +654,24 @@ def apply_times_diff(times: Dict[str, Tuple[int, int]], author: str) -> Dict[str
 
 
 if __name__ == '__main__':
-    aron7awol_times = load_times('aron7awol')
-    mobe1969_times = load_times('mobe1969')
+    times = {a: load_times(a) for a in ['aron7awol', 'mobe1969', 'halcyon888']}
     aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film')
     print(f"Extracted {len(aron7awol_films)} aron7awol film catalogue entries")
     aron7awol_tv = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
     print(f"Extracted {len(aron7awol_tv)} aron7awol TV catalogue entries")
 
-    mobe1969_films = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'Movie BEQs', 'film')
-    print(f"Extracted {len(mobe1969_films)} mobe1969 film catalogue entries")
-    mobe1969_tv = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'TV BEQs', 'TV')
-    print(f"Extracted {len(mobe1969_tv)} mobe1969 TV catalogue entries")
+    film_data = {}
+    tv_data = {}
+
+    film_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'Movie BEQs', 'film')
+    print(f"Extracted {len(film_data['mobe1969'])} mobe1969 film catalogue entries")
+    tv_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'TV BEQs', 'TV')
+    print(f"Extracted {len(tv_data['mobe1969'])} mobe1969 TV catalogue entries")
+
+    film_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'Movie BEQs', 'film')
+    print(f"Extracted {len(film_data['halcyon888'])} halcyon888 film catalogue entries")
+    tv_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'TV BEQs', 'TV')
+    print(f"Extracted {len(tv_data['halcyon888'])} halcyon888 TV catalogue entries")
 
     json_catalogue: List[dict] = []
 
@@ -682,22 +694,23 @@ if __name__ == '__main__':
             for i in sorted(index_entries, key=str.casefold):
                 print(i, file=index_md)
 
-        index_entries = []
-        process_mobe1969_content_from_repo(mobe1969_films, index_entries, 'film')
-        process_mobe1969_content_from_repo(mobe1969_tv, index_entries, 'TV')
-        with open('docs/mobe1969.md', mode='w+') as index_md:
-            print('---', file=index_md)
-            print('search:', file=index_md)
-            print('  exclude: true', file=index_md)
-            print('---', file=index_md)
-            print('', file=index_md)
-            print(f"# Mobe1969", file=index_md)
-            print('', file=index_md)
-            print(f"| Title | Type | Year | Format | Multiformat? | Links |", file=index_md)
-            print(f"|-|-|-|-|-|-|", file=index_md)
-            for i in sorted(index_entries, key=str.casefold):
-                print(i, file=index_md)
-            print('', file=index_md)
+        for author in ['mobe1969', 'halcyon888']:
+            index_entries = []
+            process_content_from_repo(author, film_data[author], index_entries, 'film')
+            process_content_from_repo(author, tv_data[author], index_entries, 'TV')
+            with open(f'docs/{author}.md', mode='w+') as index_md:
+                print('---', file=index_md)
+                print('search:', file=index_md)
+                print('  exclude: true', file=index_md)
+                print('---', file=index_md)
+                print('', file=index_md)
+                print(f"# {author}", file=index_md)
+                print('', file=index_md)
+                print(f"| Title | Type | Year | Format | Multiformat? | Links |", file=index_md)
+                print(f"|-|-|-|-|-|-|", file=index_md)
+                for i in sorted(index_entries, key=str.casefold):
+                    print(i, file=index_md)
+                print('', file=index_md)
 
     detect_duplicate_hashes()
     with open('docs/database.json', 'w+') as db_json:

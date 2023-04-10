@@ -37,13 +37,21 @@ jobs:
       - name: Get Input Repos
         run: |
           if [[ -d .input/Mobe1969/miniDSPBEQ ]]
-            then
-              pushd .input/Mobe1969/miniDSPBEQ
-              git pull
-              popd
-            else
-              git clone https://github.com/Mobe1969/miniDSPBEQ.git .input/Mobe1969/miniDSPBEQ
-            fi
+          then
+            pushd .input/Mobe1969/miniDSPBEQ
+            git pull
+            popd
+          else
+            git clone https://github.com/Mobe1969/miniDSPBEQ.git .input/Mobe1969/miniDSPBEQ
+          fi
+          if [[ -d .input/halcyon888/miniDSPBEQ ]]
+          then
+            pushd .input/halcyon888/miniDSPBEQ
+            git pull
+            popd
+          else
+            git clone https://github.com/halcyon-888/miniDSPBEQ.git .input/halcyon888/miniDSPBEQ
+          fi
           if [[ -d .input/bmiller/miniDSPBEQ.wiki ]]
           then
             pushd .input/bmiller/miniDSPBEQ
@@ -63,9 +71,16 @@ jobs:
           popd
           mv .input/Mobe1969/miniDSPBEQ/d.diff mobe1969.diff
           mv .input/Mobe1969/miniDSPBEQ/d.sha mobe1969.sha
-          A_SHA=$(cat aron7awol.sha)
+          M_SHA=$(cat halcyon888.sha)
+          pushd .input/halcyon888/miniDSPBEQ
+          git diff --name-only -z ${M_SHA}..HEAD | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git rev-parse HEAD > d.sha
+          popd
+          mv .input/halcyon888/miniDSPBEQ/d.diff halcyon888.diff
+          mv .input/halcyon888/miniDSPBEQ/d.sha halcyon888.sha
+          M_SHA=$(cat aron7awol.sha)
           pushd .input/bmiller/miniDSPBEQ
-          git diff --name-only -z ${A_SHA}..HEAD | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git diff --name-only -z ${M_SHA}..HEAD | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
           mv .input/bmiller/miniDSPBEQ/d.diff aron7awol.diff
