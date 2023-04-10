@@ -262,6 +262,8 @@ def process_content_from_repo(author: str, content_meta, index_entries, content_
         by_title = group_tv_content(author, content_meta)
     for title, metas in by_title.items():
         title_md = slugify(title, '-')
+        from pathlib import Path
+        Path(f"docs/{author}").mkdir(parents=True, exist_ok=True)
         with open(f"docs/{author}/{title_md}.md", mode='w+') as content_md:
             generate_content_page(title_md, metas, content_md, index_entries, author, content_type)
 
