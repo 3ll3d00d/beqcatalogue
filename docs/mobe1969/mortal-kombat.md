@@ -1,10 +1,13 @@
 # Mortal Kombat
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **2021 • R • 1h 50m • Action, Fantasy, Adventure • mobe1969**
 
 Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
+{ data-search-exclude }
+
+NOTE: DD+ 8dB down
 { data-search-exclude }
 
 [TMDB](460465)
