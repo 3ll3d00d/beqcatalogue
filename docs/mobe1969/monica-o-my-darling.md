@@ -2,7 +2,7 @@
 
 ## DD+ Atmos
 
-**2022 • R • 2h 9m • Hindi • Crime, Comedy, Drama • mobe1969**
+**2022 • R • 2h 9m • Hindi • Crime, Comedy, Drama, Mystery • mobe1969**
 
 A slick robotics expert joins a murderous plot after a passionate affair takes a sudden turn, but nothing — not even death — is what it seems to be.
 { data-search-exclude }
