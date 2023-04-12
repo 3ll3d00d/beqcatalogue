@@ -15,7 +15,7 @@ Special agent Orson Fortune and his team of operatives recruit one of Hollywood'
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62474080)  [TMDB](739405)
 { data-search-exclude }
 
-![img 0](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/operation%20fortune%202023%20PvE.jpg?raw=true)
+![img 0](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/operation%20fortune%202023%20PvA.jpg?raw=true)
 
 ![img 1](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/operation%20fortune%20peak%20spectrum.png?raw=true)
 
