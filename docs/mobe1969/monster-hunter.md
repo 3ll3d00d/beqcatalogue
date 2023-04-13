@@ -1,6 +1,6 @@
 # Monster Hunter
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2020 • PG-13 • 1h 44m • Action, Fantasy, Adventure • mobe1969**
 

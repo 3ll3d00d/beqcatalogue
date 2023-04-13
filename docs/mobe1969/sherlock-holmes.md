@@ -1,6 +1,6 @@
 # Sherlock Holmes
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2009 • PG-13 • 2h 9m • Action, Adventure, Crime, Mystery • mobe1969**
 

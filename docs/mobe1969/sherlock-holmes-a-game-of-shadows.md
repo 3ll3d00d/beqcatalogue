@@ -1,6 +1,6 @@
 # Sherlock Holmes: A Game of Shadows
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2011 • PG-13 • 2h 9m • Adventure, Action, Crime, Mystery • mobe1969**
 
