@@ -1,10 +1,13 @@
 # Blitz
 
-## TrueHD 5.1
+## TrueHD 5.1, DD+ 5.1
 
 **2011 • R • 1h 37m • Crime, Action, Thriller • mobe1969**
 
 A tough cop is dispatched to take down a serial killer who has been targeting police officers.
+{ data-search-exclude }
+
+DD+ 7dB down
 { data-search-exclude }
 
 [TMDB](55846)
