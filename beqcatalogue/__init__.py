@@ -541,11 +541,14 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             print(f"**{meta['warning']}**", file=content_md)
             print('{ data-search-exclude }', file=content_md)
         if 'avs' in meta:
+            print('', file=content_md)
             print(f"* [Forum Post]({meta['avs']})", file=content_md)
         if 'year' in meta:
+            print('', file=content_md)
             print(f"* Production Year: {meta['year']}", file=content_md)
             print("", file=content_md)
         for img in actual_img_links:
+            print('', file=content_md)
             print(f"![img {img_idx}]({img})", file=content_md)
             print('', file=content_md)
 
