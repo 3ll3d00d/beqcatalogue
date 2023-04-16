@@ -6,6 +6,8 @@
 
 * DTS-HD MA 2.0
 
+
+**MV Adjustment:** +4 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59355510)
 * Production Year: 2013
 
@@ -15,6 +17,8 @@
 
 * DTS-HD MA 2.0
 
+
+**MV Adjustment:** +4 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59355952)
 * Production Year: 2013
 
@@ -24,6 +28,8 @@
 
 * DTS-HD MA 5.1
 
+
+**MV Adjustment:** +4 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59355980)
 * Production Year: 2013
 
@@ -33,6 +39,8 @@
 
 * DTS-HD MA 5.1
 
+
+**MV Adjustment:** +4.5 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59356018)
 * Production Year: 2013
 
@@ -42,6 +50,8 @@
 
 * DTS-HD MA 5.1
 
+
+**MV Adjustment:** +4.5 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59359768)
 * Production Year: 2013
 

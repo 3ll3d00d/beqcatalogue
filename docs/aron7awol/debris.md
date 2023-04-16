@@ -6,6 +6,11 @@
 
 * DD+
 
+
+**MV Adjustment:** +4.0 dB
+
+**Episodes 1-11 Only**
+{ data-search-exclude }
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60741890)
 * Production Year: 2021
 

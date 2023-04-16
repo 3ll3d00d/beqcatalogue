@@ -6,6 +6,8 @@
 
 * Atmos
 
+
+**MV Adjustment:** +4.5 dB
 * [Forum Post](https://www.avsforum.com/goto/post?id=61562814)
 * Production Year: 2022
 
@@ -15,6 +17,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +4.0 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61562814)
 * Production Year: 2022
 

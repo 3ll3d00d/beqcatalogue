@@ -6,6 +6,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +4.5 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59236956)
 * Production Year: 2020
 
@@ -15,6 +17,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +3.5 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61128904)
 * Production Year: 2020
 

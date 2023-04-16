@@ -6,6 +6,8 @@
 
 * TrueHD 5.1
 
+
+**MV Adjustment:** +7 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58523196)
 * Production Year: 2015
 
@@ -15,6 +17,8 @@
 
 * TrueHD 5.1
 
+
+**MV Adjustment:** +7 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526160)
 * Production Year: 2015
 
@@ -24,6 +28,8 @@
 
 * TrueHD 5.1
 
+
+**MV Adjustment:** +7.0 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58548476)
 * Production Year: 2015
 

@@ -6,6 +6,11 @@
 
 * DD+
 
+
+**MV Adjustment:** +7.5 dB
+
+Miniseries
+{ data-search-exclude }
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57623132)
 * Production Year: 2017
 

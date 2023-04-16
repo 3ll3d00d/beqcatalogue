@@ -6,6 +6,8 @@
 
 * DTS-HD MA 5.1
 
+
+**MV Adjustment:** -0.5 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-57691834)
 * Production Year: 2018
 

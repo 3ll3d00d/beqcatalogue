@@ -15,6 +15,11 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +2.5 dB
+
+**All Episodes Except Episode 2!**
+{ data-search-exclude }
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60741769)
 * Production Year: 2019
 

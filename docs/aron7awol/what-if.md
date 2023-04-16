@@ -6,6 +6,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +4.0 dB
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60943564)
 * Production Year: 2021
 
@@ -15,6 +17,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +6.0 dB
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
 * Production Year: 2021
 
@@ -24,6 +28,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +4.5 dB
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
 * Production Year: 2021
 
@@ -33,6 +39,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +4.0 dB
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
 * Production Year: 2021
 
@@ -42,6 +50,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +5.0 dB
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
 * Production Year: 2021
 
@@ -51,6 +61,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +4.5 dB
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
 * Production Year: 2021
 
@@ -60,6 +72,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +5.0 dB
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
 * Production Year: 2021
 
@@ -69,6 +83,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +1.0 dB
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
 * Production Year: 2021
 
@@ -78,6 +94,8 @@
 
 * DD+ Atmos
 
+
+**MV Adjustment:** +2.5 dB
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
 * Production Year: 2021
 

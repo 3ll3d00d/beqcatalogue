@@ -6,6 +6,8 @@
 
 * Atmos
 
+
+**MV Adjustment:** +5.0 dB
 * Production Year: 2021
 
 ![img 0](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/a%20perfect%20planet%202021%20PvA.jpg?raw=true)
