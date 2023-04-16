@@ -8,8 +8,11 @@
 
 
 **MV Adjustment:** +5.0 dB
+
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61050523)
+
 * Production Year: 2021
+
 
 ![img 0](https://i.imgur.com/lIFwahA.jpg)
 
@@ -19,8 +22,11 @@
 
 
 **MV Adjustment:** +5.0 dB
+
 * [Forum Post](https://www.avsforum.com/goto/post?id=61050523)
+
 * Production Year: 2021
+
 
 ![img 0](https://i.imgur.com/gF8TIJl.jpg)
 

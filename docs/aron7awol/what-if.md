@@ -8,8 +8,11 @@
 
 
 **MV Adjustment:** +4.0 dB
+
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60943564)
+
 * Production Year: 2021
+
 
 ![img 0](https://i.imgur.com/BdWvmGG.jpg)
 
@@ -19,8 +22,11 @@
 
 
 **MV Adjustment:** +6.0 dB
+
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+
 * Production Year: 2021
+
 
 ![img 0](https://i.imgur.com/4yRk9tG.jpg)
 
@@ -30,8 +36,11 @@
 
 
 **MV Adjustment:** +4.5 dB
+
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+
 * Production Year: 2021
+
 
 ![img 0](https://i.imgur.com/clwkIf1.jpeg)
 
@@ -41,8 +50,11 @@
 
 
 **MV Adjustment:** +4.0 dB
+
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+
 * Production Year: 2021
+
 
 ![img 0](https://i.imgur.com/93uVURJ.jpg)
 
@@ -52,8 +64,11 @@
 
 
 **MV Adjustment:** +5.0 dB
+
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+
 * Production Year: 2021
+
 
 ![img 0](https://i.imgur.com/JWi4qME.jpg)
 
@@ -63,8 +78,11 @@
 
 
 **MV Adjustment:** +4.5 dB
+
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+
 * Production Year: 2021
+
 
 ![img 0](https://i.imgur.com/m8kiGcH.jpg)
 
@@ -74,8 +92,11 @@
 
 
 **MV Adjustment:** +5.0 dB
+
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+
 * Production Year: 2021
+
 
 ![img 0](https://i.imgur.com/O5Bexue.jpg)
 
@@ -85,8 +106,11 @@
 
 
 **MV Adjustment:** +1.0 dB
+
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+
 * Production Year: 2021
+
 
 ![img 0](https://i.imgur.com/EGhxfL9.jpg)
 
@@ -96,8 +120,11 @@
 
 
 **MV Adjustment:** +2.5 dB
+
 * [Forum Post](https://www.avsforum.com/goto/post?id=60943564)
+
 * Production Year: 2021
+
 
 ![img 0](https://i.imgur.com/YzEfKCt.jpg)
 

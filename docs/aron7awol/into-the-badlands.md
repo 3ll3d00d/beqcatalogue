@@ -8,8 +8,11 @@
 
 
 **MV Adjustment:** +7 dB
+
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58523196)
+
 * Production Year: 2015
+
 
 ![img 0](https://i.imgur.com/cpv5ksE.jpg)
 
@@ -19,8 +22,11 @@
 
 
 **MV Adjustment:** +7 dB
+
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58526160)
+
 * Production Year: 2015
+
 
 ![img 0](https://i.imgur.com/3OpKL3u.jpg)
 
@@ -30,8 +36,11 @@
 
 
 **MV Adjustment:** +7.0 dB
+
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-58548476)
+
 * Production Year: 2015
+
 
 ![img 0](https://i.imgur.com/HBxIpcd.jpg)
 

@@ -6,7 +6,9 @@
 
 * DTS-HD MA 5.1
 
+
 * Production Year: 2001
+
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%28E1-10%29%20DTS-HD%20MA%205.1.jpg)
 
@@ -14,7 +16,9 @@
 
 * DTS-HD MA 5.1
 
+
 * Production Year: 2001
+
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20%282001%29%28E01%29%20DTS-HD%20MA%205.1.jpg)
 
@@ -22,7 +26,9 @@
 
 * DTS-HD MA 5.1
 
+
 * Production Year: 2001
+
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20%282001%29%28E10%29%20DTS-HD%20MA%205.1.jpg)
 
@@ -30,7 +36,9 @@
 
 * DTS-HD MA 5.1
 
+
 * Production Year: 2001
+
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20%282001%29%28E02%29%20DTS-HD%20MA%205.1.jpg)
 
@@ -38,7 +46,9 @@
 
 * DTS-HD MA 5.1
 
+
 * Production Year: 2001
+
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20%282001%29%28E03%29%20DTS-HD%20MA%205.1.jpg)
 
@@ -46,7 +56,9 @@
 
 * DTS-HD MA 5.1
 
+
 * Production Year: 2001
+
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20%282001%29%28E04%29%20DTS-HD%20MA%205.1.jpg)
 
@@ -54,7 +66,9 @@
 
 * DTS-HD MA 5.1
 
+
 * Production Year: 2001
+
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20%282001%29%28E05%29%20DTS-HD%20MA%205.1.jpg)
 
@@ -62,7 +76,9 @@
 
 * DTS-HD MA 5.1
 
+
 * Production Year: 2001
+
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20%282001%29%28E06%29%20DTS-HD%20MA%205.1.jpg)
 
@@ -70,7 +86,9 @@
 
 * DTS-HD MA 5.1
 
+
 * Production Year: 2001
+
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20%282001%29%28E07%29%20DTS-HD%20MA%205.1.jpg)
 
@@ -78,7 +96,9 @@
 
 * DTS-HD MA 5.1
 
+
 * Production Year: 2001
+
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20%282001%29%28E08%29%20DTS-HD%20MA%205.1.jpg)
 
@@ -86,7 +106,9 @@
 
 * DTS-HD MA 5.1
 
+
 * Production Year: 2001
+
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Band%20of%20Brothers%20%282001%29%20DTS-HD%20MA%205.1/Band%20of%20Brothers%20%282001%29%28E09%29%20DTS-HD%20MA%205.1.jpg)
 
