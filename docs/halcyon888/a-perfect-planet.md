@@ -12,8 +12,8 @@
 * Production Year: 2021
 
 
-![img 0](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/a%20perfect%20planet%202021%20PvA.jpg?raw=true)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/a%20perfect%20planet%202021%20PvA.jpg)
 
 
-![img 0](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/a%20perfect%20planet%202021%20peak%20spectrum.png?raw=true)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/a%20perfect%20planet%202021%20peak%20spectrum.png)
 

@@ -15,5 +15,5 @@ BEQ Note: This BEQ was contributed to the catalogue by AVS Forum member Magly, t
 * Production Year: 2017
 
 
-![img 0](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/blue%20planet%20ii.jpg?raw=true)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/blue%20planet%20ii.jpg)
 

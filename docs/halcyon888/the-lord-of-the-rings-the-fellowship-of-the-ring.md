@@ -12,7 +12,7 @@ Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bi
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62475714)  [TMDB](120)
 { data-search-exclude }
 
-![img 0](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/LOTR1%20PvA.jpg?raw=true)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/LOTR1%20PvA.jpg)
 
-![img 1](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/LOTR1-extended_custom%20BEQ%20peak%20spectrum.png?raw=true)
+![img 1](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/LOTR1-extended_custom%20BEQ%20peak%20spectrum.png)
 

@@ -15,7 +15,7 @@ A fictional history of two legendary revolutionaries' journey away from home bef
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62476607)  [TMDB](579974)
 { data-search-exclude }
 
-![img 0](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/rrr%20PvA%20v3.jpg?raw=true)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/rrr%20PvA%20v3.jpg)
 
-![img 1](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/rrr%20peak%20spectrum%20v3.png?raw=true)
+![img 1](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/rrr%20peak%20spectrum%20v3.png)
 

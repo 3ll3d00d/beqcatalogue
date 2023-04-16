@@ -15,7 +15,7 @@ In 1988, American video game salesman Henk Rogers discovers the video game Tetri
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62470955)  [TMDB](726759)
 { data-search-exclude }
 
-![img 0](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/Tetris%20(2023).jpg?raw=true)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Tetris%20(2023).jpg)
 
-![img 1](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/tetris%20peak%20spectrum.png?raw=true)
+![img 1](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/tetris%20peak%20spectrum.png)
 

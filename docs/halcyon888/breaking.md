@@ -15,7 +15,7 @@ Desperate for money and running out of options, Marine veteran Brian Brown-Easle
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62483201)  [TMDB](801965)
 { data-search-exclude }
 
-![img 0](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/breaking%202022%20PvE%20v2.jpg?raw=true)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/breaking%202022%20PvE%20v2.jpg)
 
-![img 1](https://github.com/halcyon-888/miniDSPBEQ/blob/main/beq-reports/breaking%202022%20peak%20spectrum%20v2.png?raw=true)
+![img 1](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/breaking%202022%20peak%20spectrum%20v2.png)
 
