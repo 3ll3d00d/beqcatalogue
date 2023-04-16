@@ -1,6 +1,6 @@
 # This Is 40
 
-## DTS- HD MA 5.1
+## DTS-HD MA 5.1
 
 Theatrical Cut
 
@@ -12,9 +12,9 @@ Pete and Debbie are both about to turn 40, their kids hate each other, both of t
 [TMDB](89492)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/This%20Is%2040%20%282012%29%28TC%29%20DTS-%20HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/This%20Is%2040%20%282012%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
 
-## DTS- HD MA 5.1
+## DTS-HD MA 5.1
 
 Unrated Cut
 
@@ -26,5 +26,5 @@ Pete and Debbie are both about to turn 40, their kids hate each other, both of t
 [TMDB](89492)
 { data-search-exclude }
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/This%20Is%2040%20%282012%29%28UC%29%20DTS-%20HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/This%20Is%2040%20%282012%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
 
