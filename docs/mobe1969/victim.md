@@ -1,6 +1,6 @@
 # Victim
 
-## TrueHD MA 5.1
+## TrueHD 5.1
 
 **1999 • NR • 1h 33m • Cantonese • Horror, Thriller, Crime • mobe1969**
 
@@ -10,5 +10,5 @@ A computer engineer is kidnapped and tortured. Since then, his girlfriend senses
 [TMDB](26499)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Victim%20%281999%29%28Ca%29%20TrueHD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Victim%20%281999%29%28Ca%29%20TrueHD%205.1.jpg)
 

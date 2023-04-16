@@ -1,6 +1,6 @@
 # Kiki's Delivery Service
 
-## DD EX 6.1
+## DD+ 5.1
 
 **1989 • G • 1h 43m • Animation, Family, Fantasy, Adventure • mobe1969**
 
@@ -10,7 +10,7 @@ A young witch, on her mandatory year of independent life, finds fitting into a n
 [TMDB](16859)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kiki%27s%20Delivery%20Service%20%281989%29%20DD%20EX%206.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kiki%27s%20Delivery%20Service%20%281989%29%20DD-EX%206.1.jpg)
 
 ## LPCM 2.0
 

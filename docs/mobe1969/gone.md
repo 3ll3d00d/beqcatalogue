@@ -1,6 +1,6 @@
 # Gone
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2012 • PG-13 • 1h 34m • Thriller, Mystery, Drama • mobe1969**
 

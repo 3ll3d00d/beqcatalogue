@@ -1,10 +1,13 @@
 # Gone Girl
 
-## DTS-HD MA 7.1
+## DTS-HD MA 7.1, DD+ 5.1
 
 **2014 • R • 2h 29m • Mystery, Thriller, Drama • mobe1969**
 
 With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
+{ data-search-exclude }
+
+Note DD+ 4dB down
 { data-search-exclude }
 
 [TMDB](210577)

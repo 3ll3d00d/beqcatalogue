@@ -12,7 +12,7 @@ In Venice Beach, naive Midwesterner JB bonds with local slacker KG and they form
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tenacious%20D%20in%20The%20Pick%20of%20Destiny%20%282006%29%20DD%202.0.jpg)
 
-## DTS-ES 6.1, DD EX 6.1
+## DTS-ES 6.1, DD-EX 6.1
 
 **2006 • R • 1h 33m • Comedy, Music • mobe1969**
 
