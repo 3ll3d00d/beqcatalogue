@@ -108,6 +108,14 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
                 if g.endswith(' gain'):
                     g = g[:-5]
                 meta['gain'] = g
+            if 'theMovieDB' in meta:
+                db_id = meta['theMovieDB']
+                try:
+                    int(db_id)
+                except ValueError as e:
+                    print(f"Non integer theMovieDB '{db_id}' found in {xml}")
+                    if db_id[-1] == '"':
+                        meta['theMovieDB'] = db_id[:-1]
             elements.append(meta)
         except Exception as e:
             print(f"Unexpected error while extracting metadata from {xml}")
@@ -233,6 +241,9 @@ def group_tv_content(author, content_meta):
                                 meta['episode'] = frags[1][1:]
                 if 'episode' not in meta:
                     print(f"Unknown note format in {meta}")
+                else:
+                    del meta['note']
+                    print(f"Note used for episode info by {meta['repo_file']}, removing note from meta")
             if title in by_title:
                 by_title[title].append(meta)
             else:
@@ -517,6 +528,18 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             linked_content_format = ', '.join(audio_type)
             print(f"* {linked_content_format}", file=content_md)
             print("", file=content_md)
+        if 'gain' in meta:
+            print('', file=content_md)
+            print(f"**MV Adjustment:** {'+' if float(meta['gain']) > 0 else ''}{meta['gain']} dB",
+                  file=content_md)
+        if 'note' in meta:
+            print('', file=content_md)
+            print(meta['note'], file=content_md)
+            print('{ data-search-exclude }', file=content_md)
+        if 'warning' in meta:
+            print('', file=content_md)
+            print(f"**{meta['warning']}**", file=content_md)
+            print('{ data-search-exclude }', file=content_md)
         if 'avs' in meta:
             print(f"* [Forum Post]({meta['avs']})", file=content_md)
         if 'year' in meta:
@@ -655,6 +678,14 @@ def apply_times_diff(times: Dict[str, Tuple[int, int]], author: str) -> Dict[str
     return times
 
 
+def dump_audio_types(json_catalogue):
+    audio_types = set()
+    for c in json_catalogue:
+        for at in c.get('audioTypes', []):
+            audio_types.add(at)
+    print(f"Found {len(audio_types)} audio types- {sorted(list(audio_types))}")
+
+
 if __name__ == '__main__':
     times = {a: load_times(a) for a in ['aron7awol', 'mobe1969', 'halcyon888']}
     aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film')
@@ -715,6 +746,7 @@ if __name__ == '__main__':
                 print('', file=index_md)
 
     detect_duplicate_hashes()
+    dump_audio_types(json_catalogue)
     with open('docs/database.json', 'w+') as db_json:
         json.dump(json_catalogue, db_json, indent=0)
 
