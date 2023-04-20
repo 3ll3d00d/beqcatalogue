@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2005 • PG • 1h 55m • Adventure, Fantasy, Comedy, Family • mobe1969**
+**2005 • PG • 1h 55m • Adventure, Comedy, Family, Fantasy • mobe1969**
 
 A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.
 { data-search-exclude }
