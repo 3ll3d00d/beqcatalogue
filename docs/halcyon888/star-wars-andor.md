@@ -210,7 +210,7 @@
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-**A single negative PEQ filter was applied a 15Hz for safety. If you feel your system can reproduce the LFE that occurs at 17 minutes into the soundtrack without risk of subwoofer damage, then you do not need to use a BEQ for this episode--however you have been warned!**
+**A single negative PEQ filter was applied a 15Hz for safety. However, if you feel your system can reproduce the LFE that occurs at 17 minutes into the original soundtrack without risk of subwoofer damage (as indicated by the dotted green line), then you do not need to use a BEQ for this episode. You have been warned if you choose not to use this BEQ that was created for safety on this episode!**
 { data-search-exclude }
 
 * Production Year: 2022
