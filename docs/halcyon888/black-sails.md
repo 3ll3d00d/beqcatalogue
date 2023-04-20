@@ -4,7 +4,7 @@
 
 ## Season 1
 
-* DD 5.1
+* DTS 5.1
 
 
 **MV Adjustment:** +4.0 dB
