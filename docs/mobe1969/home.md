@@ -1,6 +1,6 @@
 # Home
 
-## DD+ 5.1
+## DTS-HD MA 7.1, DD+ 5.1
 
 **2015 • PG • 1h 34m • Fantasy, Comedy, Animation, Science Fiction, Family • mobe1969**
 
@@ -10,5 +10,5 @@ When Earth is taken over by the overly-confident Boov, an alien race in search o
 [TMDB](228161)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Home%20%282015%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Home%20%282015%29%20DTS-HD%20MA%207.1.jpg)
 
