@@ -1,14 +1,14 @@
 # The One
 
-## TrueHD 5.1
+* Author: mobe1969
 
-**2001 • PG-13 • 1h 27m • Science Fiction, Thriller, Action • mobe1969**
+## Season 1
 
-A sheriff's deputy fights an alternate universe version of himself who grows stronger with each alternate self he kills.
-{ data-search-exclude }
+* DD+ Atmos
 
-[TMDB](10796)
-{ data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/The%20One%20%282001%29%20TrueHD%205.1.jpg)
+* Production Year: 2021
+
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20One%20%282021%29%28S1%29%20DD%2B%20Atmos.jpg)
 

@@ -1,6 +1,6 @@
 # Batman and Superman: Battle of the Super Sons
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • PG-13 • 1h 19m • Animation, Action, Science Fiction • mobe1969**
 
