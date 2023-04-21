@@ -24,3 +24,17 @@ To recover and ancient scroll, a Chinese agent battles the Japanese yakuza and B
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Switch%20%282013%29%28Ma%29%20TrueHD%205.1.jpg)
 
+## TrueHD 7.1
+
+Extended Cut
+
+**2013 • NR • 2h 2m • Mandarin • Action, Romance • mobe1969**
+
+To recover and ancient scroll, a Chinese agent battles the Japanese yakuza and British mercenaries.
+{ data-search-exclude }
+
+[TMDB](196385)
+{ data-search-exclude }
+
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Switch%20%282013%29%28Ma%29%28EC%29%20TrueHD%207.1.jpg)
+
