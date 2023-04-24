@@ -27,7 +27,7 @@ Dialnorm Compensation: E01 +5dB; E02 +3dB; E10 +4dB
 
 **MV Adjustment:** +4.0 dB
 
-Dialnorm Values: E03 +4dB; E05 +5dB; E07 +3dB; E08 +3dB; E09 +4dB
+Dialnorm Compensation: E03 +4dB; E05 +5dB; E07 +3dB; E08 +3dB; E09 +4dB
 { data-search-exclude }
 
 * Production Year: 2022
