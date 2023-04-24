@@ -1,6 +1,6 @@
 # The Lorax
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2012 • PG • 1h 26m • Animation, Family • mobe1969**
 
