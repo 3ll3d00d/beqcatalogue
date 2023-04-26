@@ -4,7 +4,7 @@
 
 ## Season 1
 
-* DD+ 5.1
+* DTS-HD MA 5.1, DD+ 5.1
 
 
 * Production Year: 2018
@@ -14,7 +14,7 @@
 
 ## Season 2
 
-* DD+ 5.1
+* DTS-HD MA 5.1, DD+ 5.1
 
 
 * Production Year: 2018
