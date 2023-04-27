@@ -1,6 +1,6 @@
 # In Darkness
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • 16 • 1h 40m • Thriller, Mystery • mobe1969**
 
