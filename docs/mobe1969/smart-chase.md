@@ -1,6 +1,6 @@
 # S.M.A.R.T. Chase
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2017 • NR • 1h 35m • Action, Comedy, Adventure • mobe1969**
 

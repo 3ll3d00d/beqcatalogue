@@ -9,6 +9,9 @@ Director's Cut
 Kim Sun-woo is an enforcer and manager for a hotel owned by a cold, calculative crime boss, Kang who assigns Sun-Woo to a simple errand while he is away on a business trip; to shadow his young mistress, Heesoo, for fear that she may be cheating on him with a younger man with the mandate that he must kill them both if he discovers their affair.
 { data-search-exclude }
 
+Korean Blu-Ray
+{ data-search-exclude }
+
 [TMDB](11344)
 { data-search-exclude }
 

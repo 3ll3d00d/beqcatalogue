@@ -2,7 +2,7 @@
 
 ## TrueHD 7.1
 
-**2007 • PG • 1h 33m • Family, Adventure, Comedy, Animation, Fantasy • mobe1969**
+**2007 • PG • 1h 33m • Fantasy, Adventure, Animation, Comedy, Family • mobe1969**
 
 The King of Far Far Away has died and Shrek and Fiona are to become King & Queen. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, they set off to bring him back to rule the kingdom.
 { data-search-exclude }
