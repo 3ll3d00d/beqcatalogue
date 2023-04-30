@@ -1,6 +1,6 @@
 # The Suicide Squad
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **2021 • R • 2h 12m • Action, Adventure, Fantasy • mobe1969**
 
