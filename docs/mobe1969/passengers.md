@@ -1,6 +1,6 @@
 # Passengers
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2016 • PG-13 • 1h 56m • Drama, Romance, Science Fiction • mobe1969**
 

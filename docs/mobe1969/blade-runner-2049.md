@@ -1,6 +1,6 @@
 # Blade Runner 2049
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2017 • R • 2h 44m • Science Fiction, Drama • mobe1969**
 
