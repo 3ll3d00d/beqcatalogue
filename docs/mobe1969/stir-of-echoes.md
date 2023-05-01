@@ -1,6 +1,6 @@
 # Stir of Echoes
 
-## DTS-HD HR 6.1
+## DTS-HD HR 6.1, DD+ 5.1
 
 **1999 • R • 1h 39m • Horror • mobe1969**
 
