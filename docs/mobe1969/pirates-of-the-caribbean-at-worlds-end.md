@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2007 • PG-13 • 2h 49m • Adventure, Fantasy, Action • mobe1969**
+**2007 • PG-13 • 2h 48m • Adventure, Fantasy, Action • mobe1969**
 
 Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems.
 { data-search-exclude }
