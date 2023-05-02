@@ -9,6 +9,9 @@ A charming thief and a band of unlikely adventurers undertake an epic heist to r
 
 **MV Adjustment:** +5.0 dB
 
++2dB Dialnorm Compensation
+{ data-search-exclude }
+
 [TMDB](493529)
 { data-search-exclude }
 
