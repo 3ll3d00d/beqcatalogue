@@ -1,6 +1,6 @@
 # Minions: The Rise of Gru
 
-## Atmos
+## Atmos, DTS-HD MA 5.1
 
 **2022 • PG • 1h 27m • Animation, Comedy, Family • mobe1969**
 

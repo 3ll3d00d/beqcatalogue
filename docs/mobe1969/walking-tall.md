@@ -1,6 +1,6 @@
 # Walking Tall
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2004 • PG-13 • 1h 26m • Adventure, Drama, Action, Thriller • mobe1969**
 
