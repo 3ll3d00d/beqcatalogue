@@ -9,6 +9,9 @@ A former slave who arrives in Yellowstone City, Montana, a desolate former boomt
 
 **MV Adjustment:** +2.0 dB
 
++6dB Dialnorm Compensation
+{ data-search-exclude }
+
 [TMDB](974961)
 { data-search-exclude }
 
