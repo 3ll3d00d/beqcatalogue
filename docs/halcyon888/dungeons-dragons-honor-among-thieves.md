@@ -15,7 +15,7 @@ A charming thief and a band of unlikely adventurers undertake an epic heist to r
 [TMDB](493529)
 { data-search-exclude }
 
-![img 0](https://i.imgur.com/N6tacuV.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Dungeons%20and%20Dragons%20Honor%20Among%20Thieves%20(2023)%20DD%2B%20Atmos%20PvA%20v1.jpg)
 
-![img 1](https://i.imgur.com/Vqa0Glx.png)
+![img 1](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Dungeons%20and%20Dragons%20Honor%20Among%20Thieves%20(2023)%20DD%2B%20Atmos%20peak%20spectrum%20v1.png)
 
