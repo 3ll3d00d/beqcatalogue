@@ -1,6 +1,6 @@
 # Transformers: Revenge of the Fallen
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2009 • PG-13 • 2h 29m • Science Fiction, Action, Adventure • mobe1969**
 

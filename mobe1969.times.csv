@@ -6289,7 +6289,7 @@ Movie BEQs/T/Terminal (2018) TrueHD 5.1.xml,1642113711,1642113711
 Movie BEQs/T/Terminal Velocity (1994) DTS-HD MA 5.1.xml,1642113711,1642113711
 Movie BEQs/T/Terminator Dark Fate (2019) Atmos.xml,1642113711,1642113711
 Movie BEQs/T/Terminator Dark Fate (2019) DTS-HD MA 7.1.xml,1642113711,1642113711
-Movie BEQs/T/Terminator Genisys (2015) Atmos.xml,1642113711,1642113711
+Movie BEQs/T/Terminator Genisys (2015) Atmos.xml,1642113711,1683197981
 Movie BEQs/T/Terminator Salvation (2009)(TC) DTS-HD MA 5.1.xml,1642113711,1642113711
 Movie BEQs/T/Texas Chainsaw (2013) DTS-HD MA 7.1.xml,1642113711,1643925564
 Movie BEQs/T/Texas Killing Fields (2011) TrueHD 7.1.xml,1642113711,1642113711
@@ -7043,8 +7043,8 @@ Movie BEQs/T/Trading Paint (2019) DTS-HD MA 5.1.xml,1642113711,1642113711
 Movie BEQs/T/Traffickers (2012)(Ko) DTS-HD MA 5.1.xml,1642113711,1642113711
 Movie BEQs/T/Train to Busan (2016)(Ko) DTS-X.xml,1642113711,1675303928
 Movie BEQs/T/Traitor (2008) TrueHD 5.1.xml,1642113711,1642113711
-Movie BEQs/T/Transformers Age of Extinction (2014) Atmos.xml,1642113711,1679740604
-Movie BEQs/T/Transformers Dark of the Moon (2011) Atmos.xml,1642113711,1679740604
+Movie BEQs/T/Transformers Age of Extinction (2014) Atmos.xml,1642113711,1683197981
+Movie BEQs/T/Transformers Dark of the Moon (2011) Atmos.xml,1642113711,1683197981
 Movie BEQs/T/Transit (2012) DTS-HD MA 5.1.xml,1642113711,1675303928
 Movie BEQs/T/Transporter 2 (2005)(Extended) DTS-HD MA 5.1.xml,1642113711,1642113711
 Movie BEQs/T/Treasure Planet (2002) DTS-HD MA 5.1.xml,1642113711,1675303928
@@ -9169,7 +9169,7 @@ Movie BEQs/K/Kong Skull Island (2017) DTS-HD MA 5.1.xml,1656152278,1656152278
 Movie BEQs/M/The Martian (2015) Atmos.xml,1656152278,1656152278
 Movie BEQs/M/The Martian (2015)(TC) DTS-HD MA 7.1.xml,1656152278,1656152278
 Movie BEQs/P/Pacific Rim (2013) Atmos.xml,1656152278,1656152278
-Movie BEQs/P/Pacific Rim (2013) DTS-HD MA 7.1.xml,1656152278,1656152278
+Movie BEQs/P/Pacific Rim (2013) DTS-HD MA 7.1.xml,1656152278,1683197981
 Movie BEQs/T/Tomb Raider (2018) DTS-HD MA 5.1.xml,1656152278,1656152278
 Movie BEQs/W/Wonder Woman (2017) Atmos.xml,1656152278,1656152278
 Movie BEQs/W/Wonder Woman (2017) DTS-HD MA 5.1.xml,1656152278,1656152278
@@ -11513,8 +11513,8 @@ Movie BEQs/A/Adventureland (2009) DTS-HD MA 5.1.xml,1679707054,1679707054
 Movie BEQs/B/Bumblebee (2018) Atmos.xml,1679740604,1679740604
 Movie BEQs/G/Good Luck To You Leo Grande (2022) DD+ 5.1.xml,1679740604,1679740604
 Movie BEQs/P/Perfect Addiction (2023) DD+ 5.1.xml,1679740604,1679740604
-Movie BEQs/T/Transformers (2007) Atmos.xml,1679740604,1679740604
-Movie BEQs/T/Transformers Revenge of the Fallen (2009) Atmos.xml,1679740604,1679740604
+Movie BEQs/T/Transformers (2007) Atmos.xml,1679740604,1683197981
+Movie BEQs/T/Transformers Revenge of the Fallen (2009) Atmos.xml,1679740604,1683197981
 Movie BEQs/T/Transformers The Last Knight (2017) Atmos.xml,1679740604,1679740604
 Movie BEQs/B/A Better Tomorrow (1986)(UHD)(Ca) DTS-HD MA 7.1.xml,1679805873,1679805873
 Movie BEQs/I/The Italian Job (1969)(UHD) DTS-HD MA 5.1.xml,1679805873,1679805873
@@ -11896,3 +11896,7 @@ Movie BEQs/W/The Whale (2022) DTS-HD MA 5.1.xml,1683149770,1683149770
 TV BEQs/Queen Charlotte A Bridgerton Story (2023)(S1) DD+ Atmos.xml,1683192179,1683192179
 TV BEQs/Sanctuary (2023)(Ja)(S1) DD+ Atmos.xml,1683192179,1683192179
 TV BEQs/Supernatural Academy (2022)(S1) DD+ 5.1.xml,1683192179,1683192179
+Movie BEQs/A/Anon (2018) DD+ 5.1.xml,1683197981,1683197981
+Movie BEQs/A/Anon (2018) DTS-HD MA 5.1.xml,1683197981,1683197981
+Movie BEQs/C/Chef (2014) DTS-HD MA 5.1.xml,1683197981,1683197981
+Movie BEQs/H/Holiday on Mars (2020)(It) DD+ 5.1.xml,1683197981,1683197981
