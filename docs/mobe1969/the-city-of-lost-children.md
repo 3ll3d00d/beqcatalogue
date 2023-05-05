@@ -7,7 +7,7 @@
 A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.
 { data-search-exclude }
 
-UHD and Blu-Ray
+Blu-Ray and new UHD
 { data-search-exclude }
 
 [TMDB](902)
