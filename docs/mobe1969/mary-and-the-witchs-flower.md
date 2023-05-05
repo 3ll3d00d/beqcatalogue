@@ -14,7 +14,7 @@ Mary Smith, a young girl who lives with her great-aunt in the countryside, follo
 
 ## DTS-X
 
-**2017 • PG • 1h 43m • Japanese • Fantasy, Adventure, Animation • mobe1969**
+**2017 • PG • 1h 43m • Japanese • Fantasy, Adventure, Animation, Family • mobe1969**
 
 Mary Smith, a young girl who lives with her great-aunt in the countryside, follows a mysterious cat into the nearby forest where she finds a strange flower and an old broom, none of which is as ordinary as it seems.
 { data-search-exclude }
