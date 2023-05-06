@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2015 • NC-17 • 1h 58m • Horror, Action, Science Fiction • mobe1969**
+**2015 • NC-17 • 1h 58m • Horror, Science Fiction, Action • mobe1969**
 
 A group of people fight to survive in a zombie infested town.
 { data-search-exclude }

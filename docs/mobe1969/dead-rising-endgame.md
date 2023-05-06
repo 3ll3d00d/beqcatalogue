@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2016 • 18 • 1h 36m • Horror, Action • mobe1969**
+**2016 • NR • 1h 36m • Action, Horror • mobe1969**
 
 Investigative reporter Chase Carter must stop a secret government conspiracy in the zombie infested quarantine zone of East Mission City.
 { data-search-exclude }
