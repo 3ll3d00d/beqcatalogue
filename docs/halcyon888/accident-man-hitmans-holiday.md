@@ -4,7 +4,7 @@
 
 **2022 • R • 1h 36m • Action, Comedy, Crime • halcyon888**
 
-The Accident Man is back, and this time he must best the top assassins in the world to protect the ungrateful son of a mafia boss, save the life of his only friend and rekindle his relationship with his maniacal father figure.
+The Accident Man is back, and this time he must best the top assassins in the world to protect the ungrateful son of a mafia boss, save the life of his only friend, and rekindle his relationship with his maniacal father figure.
 { data-search-exclude }
 
 **MV Adjustment:** +9.0 dB
