@@ -2,13 +2,13 @@
 
 ## DTS-HD MA 5.1
 
-**2021 • R • 1h 44m • Science Fiction • mobe1969**
+**2013 • NR • 1h 35m • Action, Science Fiction, Thriller • mobe1969**
 
-In the not-too-distant future: after a global catastrophe has wiped out nearly all of humanity on Earth, an elite astronaut from Space Colony Kepler must make a decision that will seal the fate of the people on both planets.
+Forced underground by the next ice age, a struggling outpost of survivors must fight to preserve humanity against a threat even more savage than nature.
 { data-search-exclude }
 
-[TMDB](760873)
+[TMDB](178809)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Colony%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Colony%20%282013%29%20DTS-HD%20MA%205.1.jpg)
 
