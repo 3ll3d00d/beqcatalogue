@@ -12,7 +12,7 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Minions%20The%20Rise%20of%20Gru%20%282022%29%20Atmos.jpg)
 
-## DD+ Atmos
+## DD+ Atmos, DD+ 5.1
 
 **2022 • PG • 1h 27m • Animation, Adventure, Comedy, Fantasy • mobe1969**
 
