@@ -2,9 +2,9 @@
 
 ## DTS-HD MA 5.1
 
-**2023 • NR • 1h 26m • Action, Science Fiction • halcyon888**
+**2021 • NR • 1h 26m • Action, Science Fiction • halcyon888**
 
-When history’s greatest aquatic predator returns, the armada of modern warships sent to destroy it has no chance at all.
+When historyâ€™s greatest aquatic predator returns, the armada of modern warships sent to destroy it has no chance at all.
 { data-search-exclude }
 
 **MV Adjustment:** +11.5 dB
