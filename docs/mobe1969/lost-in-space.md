@@ -4,7 +4,7 @@
 
 ## Season 1
 
-* DD+ Atmos
+* DD+ Atmos, DTS-HD MA 5.1
 
 
 * Production Year: 2018
