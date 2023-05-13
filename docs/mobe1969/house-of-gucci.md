@@ -1,6 +1,6 @@
 # House of Gucci
 
-## Atmos, DTS-HD MA 5.1
+## Atmos, DTS-HD MA 7.1, DTS-HD MA 5.1
 
 **2021 • R • 2h 38m • Drama, Crime, History • mobe1969**
 
