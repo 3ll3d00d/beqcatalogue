@@ -1,6 +1,6 @@
 # Fantastic Mr. Fox
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2009 • PG • 1h 27m • Adventure, Animation, Comedy, Family • mobe1969**
 
