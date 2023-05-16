@@ -1,6 +1,6 @@
 # Creed III
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2023 • PG-13 • 1h 56m • Drama, Action • mobe1969**
 
