@@ -12,10 +12,10 @@ Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after 
 +3dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](840326)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62558488)  [TMDB](840326)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Sisu%202022%20PvA%20v1.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Sisu%202022%20PvA%20v2.jpg)
 
-![img 1](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Sisu%202022%20peak%20spectrum%20v1.png)
+![img 1](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Sisu%202022%20peak%20spectrum%20v2.png)
 
