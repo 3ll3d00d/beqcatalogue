@@ -1,6 +1,6 @@
 # Shazam! Fury of the Gods
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2023 • PG-13 • 2h 10m • Action, Comedy, Fantasy • mobe1969**
 
@@ -10,5 +10,5 @@ Billy Batson and his foster siblings, who transform into superheroes by saying "
 [TMDB](594767)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shazam%21%20Fury%20of%20the%20Gods%20%282023%29%20DD%2B%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shazam%21%20Fury%20of%20the%20Gods%20%282023%29%20Atmos.jpg)
 
