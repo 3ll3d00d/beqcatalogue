@@ -32,6 +32,8 @@ Dialnorm Compensation: E01 +4dB; E02 +5dB; E04 +4dB
 Dialnorm Compensation: E03 +4dB
 { data-search-exclude }
 
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62562120)
+
 * Production Year: 2023
 
 
