@@ -10,7 +10,7 @@ The young Shivudu is left as a foundling in a small village by his mother. By th
 [TMDB](256040)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Baahubali%20The%20Beginning%20%282015%29%28Hi%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bahubali%20The%20Beginning%20%282015%29%28Hi%29%20DD%2B%205.1.jpg)
 
 ## DD+ 5.1
 
@@ -22,5 +22,5 @@ The young Shivudu is left as a foundling in a small village by his mother. By th
 [TMDB](256040)
 { data-search-exclude }
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Baahubali%20The%20Beginning%20%282015%29%28Ta%29%20DD%2B%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bahubali%20The%20Beginning%20%282015%29%28Ta%29%20DD%2B%205.1.jpg)
 
