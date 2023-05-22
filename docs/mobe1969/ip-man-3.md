@@ -1,8 +1,8 @@
 # Ip Man 3
 
-## Atmos
+## Atmos, DD+ 5.1
 
-**2015 • PG-13 • 1h 45m • Cantonese • Drama, Action, History • mobe1969**
+**2015 • PG-13 • 1h 45m • Cantonese • Action, Drama, History • mobe1969**
 
 When a band of brutal gangsters led by a crooked property developer make a play to take over the city, Master Ip is forced to take a stand.
 { data-search-exclude }
