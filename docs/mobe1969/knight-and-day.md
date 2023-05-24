@@ -14,7 +14,7 @@ A fugitive couple goes on a glamorous and sometimes deadly adventure where nothi
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Knight%20and%20Day%20%282010%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD 5.1
 
 Theatrical Cut
 
