@@ -14,7 +14,7 @@ Welcome to Rekall, the company that can turn your dreams into real memories. For
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Total%20Recall%20%282012%29%28TC%29%20DD%2B%205.1.jpg)
 
-## DTS-HD MA 5.1
+## TrueHD 5.1
 
 Director's Cut
 
@@ -26,9 +26,9 @@ Welcome to Rekall, the company that can turn your dreams into real memories. For
 [TMDB](64635)
 { data-search-exclude }
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Total%20Recall%20%282012%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Total%20Recall%20%282012%29%28DC%29%20TrueHD%205.1.jpg)
 
-## DTS-HD MA 5.1
+## TrueHD 5.1
 
 Theatrical Cut
 
@@ -40,5 +40,5 @@ Welcome to Rekall, the company that can turn your dreams into real memories. For
 [TMDB](64635)
 { data-search-exclude }
 
-![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Total%20Recall%20%282012%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Total%20Recall%20%282012%29%28TC%29%20TrueHD%205.1.jpg)
 
