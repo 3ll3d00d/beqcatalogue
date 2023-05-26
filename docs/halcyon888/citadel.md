@@ -35,8 +35,8 @@ Dialnorm Compensation: E03 +3dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/ZpuQ2Oe.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Citadel%202023%20S1E02%2CE03%20PvA%20v2.jpg)
 
 
-![img 0](https://i.imgur.com/lMOKZpp.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Citadel%202023%20S1E02%2CE03%20peak%20spectrum%20v2.png)
 
