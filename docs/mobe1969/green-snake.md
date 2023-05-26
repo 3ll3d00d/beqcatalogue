@@ -14,6 +14,8 @@ While trying to free her sister from Fahai's clutches, Xiao Qing winds up in a d
 
 ## DD+ 5.1
 
+WARNING
+
 **2021 • 12 • 2h 11m • Mandarin • Animation, Fantasy, Action, Adventure • mobe1969**
 
 While trying to free her sister from Fahai's clutches, Xiao Qing winds up in a dystopian city and meets a mysterious man who can't recall his past life.
