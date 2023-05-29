@@ -1,14 +1,14 @@
 # Skylines
 
-## DTS-HD MA 5.1
+* Author: mobe1969
 
-**2020 • R • 1h 53m • Science Fiction, Action • mobe1969**
+## Season 1
 
-When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.
-{ data-search-exclude }
+* DD+ 5.1
 
-[TMDB](560144)
-{ data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Skylines%20%282020%29%20DTS-HD%20MA%205.1.jpg)
+* Production Year: 2019
+
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Skylines%20%282019%29%28De%29%28S1%29%20DD%2B%205.1.jpg)
 
