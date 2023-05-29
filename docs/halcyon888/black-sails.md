@@ -36,3 +36,20 @@
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Black%20Sails%20(2015)%20(S2)%20peak%20spectrum.png)
 
+## Season 3
+
+* DTS 5.1
+
+
+**MV Adjustment:** +0.5 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62583726)
+
+* Production Year: 2016
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Black%20Sails%20(2016)%20(S3)%20PvA.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Black%20Sails%20(2016)%20(S3)%20peak%20spectrum.png)
+
