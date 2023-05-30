@@ -4,7 +4,7 @@
 
 ## Season 1
 
-* DD+ 5.1
+* AAC 2.0
 
 
 * Production Year: 2023
