@@ -1,10 +1,13 @@
 # Trading Paint
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
-**2019 • R • 1h 27m • Action • mobe1969**
+**2019 • R • 1h 27m • Action, Drama • mobe1969**
 
 A stock car racing legend is drawn back to the dirt track when his son, an aspiring driver, joins a rival racing team.
+{ data-search-exclude }
+
+DD+ 5dB down
 { data-search-exclude }
 
 [TMDB](474214)
