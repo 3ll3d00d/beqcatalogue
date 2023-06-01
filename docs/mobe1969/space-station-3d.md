@@ -1,6 +1,6 @@
 # Space Station 3D
 
-## DTS-X
+## DTS-X, DTS-HD MA 5.1
 
 **2002 • NR • 0h 47m • Documentary • mobe1969**
 
