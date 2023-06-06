@@ -1,6 +1,6 @@
 # Uncharted
 
-## Atmos, DTS-HD MA 5.1
+## Atmos, DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • PG-13 • 1h 56m • Action, Adventure • mobe1969**
 
