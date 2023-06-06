@@ -1,6 +1,6 @@
 # Brotherhood of Blades
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2014 • NR • 1h 51m • Mandarin • Romance, Action, Drama • mobe1969**
 
