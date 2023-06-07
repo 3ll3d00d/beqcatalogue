@@ -2,7 +2,7 @@
 
 ## DD+ Atmos
 
-**2021 • PG • 1h 39m • Animation, Family, Comedy • mobe1969**
+**2021 • PG • 1h 43m • Animation, Family, Comedy • mobe1969**
 
 A music-loving kinkajou named Vivo embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.
 { data-search-exclude }
