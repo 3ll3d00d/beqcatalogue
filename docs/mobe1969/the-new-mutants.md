@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2020 • PG-13 • 1h 34m • Horror, Science Fiction • mobe1969**
+**2020 • PG-13 • 1h 34m • Science Fiction, Horror, Action, Mystery, Adventure • mobe1969**
 
 Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
 { data-search-exclude }
