@@ -1,6 +1,6 @@
 # Hacksaw Ridge
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2016 • R • 2h 19m • Drama, History, War • mobe1969**
 
