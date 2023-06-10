@@ -1,8 +1,8 @@
 # Ghost Rider: Spirit of Vengeance
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
-**2011 • PG-13 • 1h 35m • Action, Thriller, Fantasy • mobe1969**
+**2011 • PG-13 • 1h 36m • Action, Fantasy, Thriller • mobe1969**
 
 When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.
 { data-search-exclude }
