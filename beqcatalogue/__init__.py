@@ -690,7 +690,7 @@ def dump_audio_types(json_catalogue):
 
 
 if __name__ == '__main__':
-    times = {a: load_times(a) for a in ['aron7awol', 'mobe1969', 'halcyon888']}
+    times = {a: load_times(a) for a in ['aron7awol', 'mobe1969', 'halcyon888', 't1g8rsfan']}
     aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film')
     print(f"Extracted {len(aron7awol_films)} aron7awol film catalogue entries")
     aron7awol_tv = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
@@ -708,6 +708,11 @@ if __name__ == '__main__':
     print(f"Extracted {len(film_data['halcyon888'])} halcyon888 film catalogue entries")
     tv_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
     print(f"Extracted {len(tv_data['halcyon888'])} halcyon888 TV catalogue entries")
+
+    film_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'Movie BEQs', 'film')
+    print(f"Extracted {len(film_data['t1g8rsfan'])} t1g8rsfan film catalogue entries")
+    tv_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
+    print(f"Extracted {len(tv_data['t1g8rsfan'])} t1g8rsfan TV catalogue entries")
 
     json_catalogue: List[dict] = []
 
@@ -730,7 +735,7 @@ if __name__ == '__main__':
             for i in sorted(index_entries, key=str.casefold):
                 print(i, file=index_md)
 
-        for author in ['mobe1969', 'halcyon888']:
+        for author in ['mobe1969', 'halcyon888', 't1g8rsfan']:
             index_entries = []
             process_content_from_repo(author, film_data[author], index_entries, 'film')
             process_content_from_repo(author, tv_data[author], index_entries, 'TV')

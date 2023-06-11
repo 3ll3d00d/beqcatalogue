@@ -62,29 +62,46 @@ jobs:
           fi
           pushd .input/bmiller/miniDSPBEQ
           popd
+          if [[ -d .input/t1g8rsfan/miniDSPBEQ.wiki ]]
+          then
+            pushd .input/t1g8rsfan/miniDSPBEQ
+            git pull
+            popd
+          else
+            git clone https://github.com/T1G8RS-FAN/MiniDSPBEQ.git .input/t1g8rsfan/miniDSPBEQ
+          fi
+          pushd .input/t1g8rsfan/miniDSPBEQ
+          popd
       - name: Get git metadata
         run: |
           M_SHA=$(cat mobe1969.sha)
           pushd .input/Mobe1969/miniDSPBEQ
-          git diff --name-only -z ${M_SHA}..HEAD | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
           mv .input/Mobe1969/miniDSPBEQ/d.diff mobe1969.diff
           mv .input/Mobe1969/miniDSPBEQ/d.sha mobe1969.sha
           M_SHA=$(cat halcyon888.sha)
           pushd .input/halcyon888/miniDSPBEQ
-          git diff --name-only -z ${M_SHA}..HEAD | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ*| xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
           mv .input/halcyon888/miniDSPBEQ/d.diff halcyon888.diff
           mv .input/halcyon888/miniDSPBEQ/d.sha halcyon888.sha
           M_SHA=$(cat aron7awol.sha)
           pushd .input/bmiller/miniDSPBEQ
-          git diff --name-only -z ${M_SHA}..HEAD | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
           mv .input/bmiller/miniDSPBEQ/d.diff aron7awol.diff
           mv .input/bmiller/miniDSPBEQ/d.sha aron7awol.sha
+          M_SHA=$(cat t1g8rsfan.sha)
+          pushd .input/t1g8rsfan/miniDSPBEQ
+          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git rev-parse HEAD > d.sha
+          popd
+          mv .input/t1g8rsfan/miniDSPBEQ/d.diff t1g8rsfan.diff
+          mv .input/t1g8rsfan/miniDSPBEQ/d.sha t1g8rsfan.sha
       - name: Update Catalogue
         run: |
           pipenv run python beqcatalogue/__init__.py
