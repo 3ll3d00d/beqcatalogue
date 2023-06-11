@@ -12,7 +12,7 @@ Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptia
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62609512)  [TMDB](436270)
 { data-search-exclude }
 
-![img 0](https://github.com/T1G8RS-FAN/MiniDSPBEQ/blob/main/Images/Black%20Adam%20(2022)%20(%2B5.5%20gain)%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Black%20Adam%20(2022)%20(%2B5.5%20gain)%20Atmos.jpg)
 
-![img 1](https://github.com/T1G8RS-FAN/MiniDSPBEQ/blob/main/Images/Black%20Adam%20(2022)%20Atmos.png)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Black%20Adam%20(2022)%20Atmos.jpg)
 

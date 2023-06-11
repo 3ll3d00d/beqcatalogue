@@ -12,7 +12,7 @@ Fueled by an impoverished childhood, George Foreman channeled his anger into bec
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62563267)  [TMDB](878361)
 { data-search-exclude }
 
-![img 0](https://github.com/T1G8RS-FAN/MiniDSPBEQ/blob/main/Images/Big%20George%20Foreman%20(2023)%20(%2B3%20gain)%20DD%2B%20(MA).jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Big%20George%20Foreman%20(2023)%20(%2B3%20gain)%20DD%2B%20(MA).jpg)
 
-![img 1](https://github.com/T1G8RS-FAN/MiniDSPBEQ/blob/main/Images/Big%20George%20Foreman%20(2023)%20DD%2B.png)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Big%20George%20Foreman%20(2023)%20DD%2B.jpg)
 

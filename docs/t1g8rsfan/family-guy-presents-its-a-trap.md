@@ -12,7 +12,7 @@ With the Griffins stuck again at home during a blackout, Peter tells the story o
 [TMDB](278427)
 { data-search-exclude }
 
-![img 0](https://github.com/T1G8RS-FAN/MiniDSPBEQ/blob/main/Images/(2010)%20Family%20Guy%20Presents%20It's%20a%20Trap%20(%2B3.5%20gain)%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/(2009)%20Family%20Guy%20Presents%20Something%2C%20Something%20Dark%20Side%20(-2.5%20Gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://github.com/T1G8RS-FAN/MiniDSPBEQ/blob/main/Images/(2010)%20Family%20Guy%20Presents%20It's%20a%20Trap.png)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/(2009)%20Family%20Guy%20Presents%20Something%2C%20Something%20Dark%20Side.jpg)
 

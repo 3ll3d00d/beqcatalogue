@@ -15,7 +15,7 @@ A charming thief and a band of unlikely adventurers undertake an epic heist to r
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62576413)  [TMDB](493529)
 { data-search-exclude }
 
-![img 0](https://github.com/T1G8RS-FAN/MiniDSPBEQ/blob/main/Images/Dungeons%20and%20Dragons-Honor%20Among%20Thieves%20(2023)%20(%2B5%20gain)%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Dungeons%20and%20Dragons-Honor%20Among%20Thieves%20(2023)%20(%2B5%20gain)%20Atmos.jpg)
 
-![img 1](https://github.com/T1G8RS-FAN/MiniDSPBEQ/blob/main/Images/Dungeons%20and%20Dragons-Honor%20Among%20Thieves%20(2023)%20Atmos.png)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Dungeons%20and%20Dragons-Honor%20Among%20Thieves%20(2023)%20Atmos.jpg)
 
