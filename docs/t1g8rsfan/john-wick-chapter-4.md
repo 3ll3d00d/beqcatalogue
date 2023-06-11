@@ -9,13 +9,13 @@ With the price on his head ever increasing, John Wick uncovers a path to defeati
 
 **MV Adjustment:** +0.5 dB
 
-+6dB Dialnorm Compensation - DD+ Atmos
++6dB Dialnorm Compensation - DD+ Atmos​
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62574009)  [TMDB](603692)
 { data-search-exclude }
 
-![img 0](https://github.com/T1G8RS-FAN/MiniDSPBEQ/blob/main/Images/John%20Wick%20Chapter%204%20(2023)%20(%2B0.5%20gain)%20Atmos%20-%20DD%2B%20Atmos1.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/John%20Wick%20Chapter%204%20(2023)%20(%2B0.5%20gain)%20Atmos%20-%20DD%2B%20Atmos1.jpg)
 
-![img 1](https://github.com/T1G8RS-FAN/MiniDSPBEQ/blob/main/Images/John%20Wick%20Chapter%204%20(2023)%20Atmos%20-%20DD%2B%20Atmos.png)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/John%20Wick%20Chapter%204%20(2023)%20Atmos%20-%20DD%2B%20Atmos.jpg)
 
