@@ -15,7 +15,7 @@ Salt-of-the-earth Cole falls head over heels for enigmatic Sadie — but then ma
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62610683)  [TMDB](868759)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Ghosted%20(2023)%20ATV%2B%20DD%2BAtmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Ghosted%20(2023)%20(%2B0.5%20gain)%20DD%2BAtmos.jpg)
 
 ![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Ghosted%20(2023).jpg)
 
