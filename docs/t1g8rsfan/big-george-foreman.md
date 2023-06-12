@@ -1,6 +1,6 @@
 # Big George Foreman
 
-## DD+ Atmos, DD+
+## DD+
 
 **2023 • PG-13 • 2h 9m • History, Drama • t1g8rsfan**
 
