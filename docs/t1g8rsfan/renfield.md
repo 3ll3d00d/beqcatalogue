@@ -1,0 +1,21 @@
+# Renfield
+
+## DD+ Atmos
+
+**2023 • R • 1h 33m • Comedy, Horror, Fantasy • t1g8rsfan**
+
+Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.
+{ data-search-exclude }
+
+**MV Adjustment:** +1.5 dB
+
++5dB Dialnorm Compensation
+{ data-search-exclude }
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62534693)  [TMDB](649609)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Renfield%20(2023)%20(%2B1.5%20gain)%20DD%2BAtmos.jpg)
+
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Renfield%20(2023).jpg)
+
