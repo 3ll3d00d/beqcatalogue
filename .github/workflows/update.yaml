@@ -16,6 +16,10 @@ on:
     - cron: '0 0/6 * * *'
   repository_dispatch:
     types: [ trigger ]
+  workflow_dispatch:
+    branches: ['*']
+concurrency:
+  group: publish
 jobs:
   build:
     runs-on: ubuntu-latest
