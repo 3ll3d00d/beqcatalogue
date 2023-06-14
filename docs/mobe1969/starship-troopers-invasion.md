@@ -2,9 +2,9 @@
 
 ## DTS-HD MA 5.1
 
-**2012 • R • 1h 29m • Science Fiction, Action, Animation • mobe1969**
+**2012 • R • 1h 29m • Animation, Action, Science Fiction • mobe1969**
 
-A distant Federation outpost Fort Casey comes under attack by bugs. The team on the fast attack ship Alesia is assigned to help the Starship John A. Warden stationed in Fort Casey evacuate along with the survivors and bring military intelligence safely back to Earth. Carl Jenkins, now ministry of Paranormal Warfare, takes the starship on a clandestine mission before its rendezvous with the Alesia and goes missing in the nebula. Now, the battle-hardened troopers are charged with a rescue mission that may lead to a much more sinister consequence than they ever could have imagined....
+The troopers of two starships have joined forces to terminate a massive bug attack at a Federation outpost. Before the mission can be completed and the survivors evacuated, one ship abruptly departs and goes inexplicably dark. The remaining battle-hardened troopers race to the rescue only to discover that the threat from the bugs is about to hit home.
 { data-search-exclude }
 
 [TMDB](114478)
