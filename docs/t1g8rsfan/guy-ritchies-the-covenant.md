@@ -1,4 +1,4 @@
-# Guy Ritchie's The Covenant
+# Guy Ritchies The Covenant
 
 ## DD+ Atmos
 
@@ -13,7 +13,7 @@ During the war in Afghanistan, a local interpreter risks his own life to carry a
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62543897)  [TMDB](882569)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Guy%20Ritchie's%20The%20Covenant%20(2023)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Guy%20Ritchies%20The%20Covenant%20(2023)%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Guy%20Ritchie's%20The%20Covenant%20(2023).jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Guy%20Ritchies%20The%20Covenant%20(2023).jpg)
 
