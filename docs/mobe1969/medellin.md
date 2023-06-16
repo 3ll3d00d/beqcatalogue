@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2023 • NR • 0h 0m • French • Comedy, Action • mobe1969**
+**2023 • NR • 1h 44m • French • Comedy, Action • mobe1969**
 
 To save his little brother from the hands of dangerous narcos of the Medellín cartel, Reda has a plan that is as simple as it is totally insane: put together a team and raid Colombia. But this adventure is going to get completely out of control when he decides to kidnap the son of the cartel leader to exchange him for his brother's life.
 { data-search-exclude }
