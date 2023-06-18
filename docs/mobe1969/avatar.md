@@ -1,6 +1,6 @@
 # Avatar
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 Theatrical Cut
 
@@ -12,7 +12,7 @@ In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a 
 [TMDB](19995)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Avatar%20%282009%29%28TC%29%20DD%2B%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Avatar%20%282009%29%28TC%29%20Atmos.jpg)
 
 ## DTS-HD MA 5.1
 
