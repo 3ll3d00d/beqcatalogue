@@ -1,6 +1,6 @@
 # Punisher: War Zone
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2008 • R • 1h 42m • Action, Crime • mobe1969**
 
