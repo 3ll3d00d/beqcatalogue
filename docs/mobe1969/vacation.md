@@ -1,6 +1,6 @@
 # Vacation
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2015 • R • 1h 39m • Comedy • mobe1969**
 
