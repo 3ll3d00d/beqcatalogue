@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2019 • PG • 1h 59m • Family, Fantasy, Adventure • mobe1969**
+**2019 • PG • 1h 59m • Family, Fantasy, Adventure, Action • mobe1969**
 
 Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
 { data-search-exclude }
