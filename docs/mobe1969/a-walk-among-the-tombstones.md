@@ -1,6 +1,6 @@
 # A Walk Among the Tombstones
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2014 • R • 1h 53m • Mystery, Thriller, Crime, Drama • mobe1969**
 

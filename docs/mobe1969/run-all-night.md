@@ -1,6 +1,6 @@
 # Run All Night
 
-## DTS-HD MA 7.1
+## DTS-HD MA 7.1, DD+ 5.1
 
 **2015 • R • 1h 54m • Action • mobe1969**
 
