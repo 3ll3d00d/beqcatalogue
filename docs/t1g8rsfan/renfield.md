@@ -19,7 +19,7 @@ Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds
 
 ![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Renfield%20(2023).jpg)
 
-## DTS-HD MA 5.1, DTS-HD MA 7.1
+## DTS-HD MA 7.1
 
 **2023 • R • 1h 33m • Comedy, Horror, Fantasy • t1g8rsfan**
 
