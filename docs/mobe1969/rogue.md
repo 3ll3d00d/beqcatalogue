@@ -1,8 +1,8 @@
 # Rogue
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
-**2007 • R • 1h 39m • Horror, Action, Thriller • mobe1969**
+**2007 • R • 1h 39m • Action, Horror, Thriller • mobe1969**
 
 From the director of Wolf Creek comes this terrifying look at nature's perfect killing machine. When a group of tourists stumble into the remote Australian river territory of an enormous crocodile, the deadly creature traps them on a tiny mud island with the tide quickly rising and darkness descending. As the hungry predator closes in, they must fight for survival against all odds.
 { data-search-exclude }

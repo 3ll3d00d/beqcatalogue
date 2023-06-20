@@ -1,10 +1,13 @@
 # 21 Bridges
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2019 • R • 1h 39m • Crime, Action, Drama • mobe1969**
 
 An embattled NYPD detective, is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy. As the night unfolds, lines become blurred on who he is pursuing, and who is in pursuit of him.
+{ data-search-exclude }
+
+DD+ 5dB down
 { data-search-exclude }
 
 [TMDB](535292)
