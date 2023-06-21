@@ -1,6 +1,6 @@
 # Minority Report
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2002 • PG-13 • 2h 25m • Action, Thriller, Science Fiction, Mystery • mobe1969**
 

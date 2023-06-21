@@ -1,10 +1,13 @@
 # American Made
 
-## DTS-X
+## DTS-X, DD+ 5.1
 
 **2017 • R • 1h 55m • Action, Crime, Comedy • mobe1969**
 
 The true story of pilot Barry Seal, who transported contraband for the CIA and the Medellin cartel in the 1980s.
+{ data-search-exclude }
+
+DD+ 4dB down
 { data-search-exclude }
 
 [TMDB](337170)

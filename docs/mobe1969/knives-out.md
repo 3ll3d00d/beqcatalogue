@@ -1,6 +1,6 @@
 # Knives Out
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2019 • PG-13 • 2h 11m • Comedy, Crime, Mystery • mobe1969**
 

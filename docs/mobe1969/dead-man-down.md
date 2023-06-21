@@ -1,10 +1,13 @@
 # Dead Man Down
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2013 • R • 1h 58m • Thriller, Crime, Action, Drama • mobe1969**
 
 In New York City, a crime lord's right-hand man is seduced by a woman seeking retribution.
+{ data-search-exclude }
+
+DD+ 4dB down
 { data-search-exclude }
 
 [TMDB](102362)

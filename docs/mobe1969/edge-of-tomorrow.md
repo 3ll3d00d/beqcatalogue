@@ -29,7 +29,7 @@ Major Bill Cage is an officer who has never seen a day of combat when he is unce
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Edge%20of%20Tomorrow%20%282014%29%20DD%2B%20Atmos.jpg)
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2014 • PG-13 • 1h 53m • Action, Science Fiction • mobe1969**
 

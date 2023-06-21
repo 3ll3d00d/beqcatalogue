@@ -1,6 +1,6 @@
 # Heat
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **1995 • R • 2h 50m • Action, Crime, Drama, Thriller • mobe1969**
 
