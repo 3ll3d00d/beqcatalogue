@@ -1,6 +1,6 @@
 # The Legend of Zorro
 
-## TrueHD 5.1
+## TrueHD 5.1, DD+ 5.1
 
 **2005 • PG • 2h 9m • Adventure, Action • mobe1969**
 
