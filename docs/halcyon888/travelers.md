@@ -22,3 +22,23 @@ Dialnorm Compensation: E01 +3dB; E02 +3dB; E03 +3dB; E04 +3dB; E05 +4dB; E06 +5d
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Travelers%20S01%20peak%20spectrum.png)
 
+## Season 2
+
+* DD 5.1
+
+
+**MV Adjustment:** +6.0 dB
+
+Dialnorm Compensation: E1-6 +3dB; E7 +4dB; E8 +3dB; E9 +2dB; E10 +4dB; E11 +3dB; E12 +3dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62638212)
+
+* Production Year: 2017
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Travelers%20S02%20PvA.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Travelers%20S02%20peak%20spectrum.png)
+
