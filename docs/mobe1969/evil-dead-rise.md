@@ -1,6 +1,6 @@
 # Evil Dead Rise
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2023 • R • 1h 36m • Horror • mobe1969**
 
@@ -10,5 +10,5 @@ Two sisters find an ancient vinyl that gives birth to bloodthirsty demons that r
 [TMDB](713704)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Evil%20Dead%20Rise%20%282023%29%20DD%2B%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Evil%20Dead%20Rise%20%282023%29%20Atmos.jpg)
 
