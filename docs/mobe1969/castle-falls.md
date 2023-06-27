@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2021 • NR • 1h 29m • Action, Thriller • mobe1969**
+**2021 • NR • 1h 29m • Action, Crime, Thriller • mobe1969**
 
 Rival gangs seek out millions of dollars hidden inside a luxury condominium that's scheduled to be demolished, but first they have to deal with the demolition prep crewman who found the loot first.
 { data-search-exclude }
