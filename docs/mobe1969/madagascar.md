@@ -1,6 +1,6 @@
 # Madagascar
 
-## TrueHD 5.1
+## TrueHD 5.1, DD+ 5.1
 
 **2005 • PG • 1h 26m • Family, Animation, Adventure, Comedy • mobe1969**
 

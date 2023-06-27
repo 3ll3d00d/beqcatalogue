@@ -1,6 +1,6 @@
 # Penguins of Madagascar
 
-## DTS-HD MA 7.1
+## DTS-HD MA 7.1, DD+ 5.1
 
 **2014 • PG • 1h 32m • Family, Animation, Adventure, Comedy • mobe1969**
 
