@@ -1,6 +1,6 @@
 # Big George Foreman
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
 **2023 • PG-13 • 2h 9m • History, Drama • t1g8rsfan**
 
@@ -12,7 +12,7 @@ Fueled by an impoverished childhood, George Foreman channeled his anger into bec
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62563267)  [TMDB](878361)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Big%20George%20Foreman%20(2023)%20(%2B3%20gain)%20DD%2B%20(MA).jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Big%20George%20Foreman%20(2023)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Big%20George%20Foreman%20(2023)%20DD%2B.jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Big%20George%20Foreman%20(2023)%20DTS-HD%20MA%205.1.jpg)
 
