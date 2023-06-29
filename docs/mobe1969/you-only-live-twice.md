@@ -1,10 +1,13 @@
 # You Only Live Twice
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **1967 • PG • 1h 57m • Action, Thriller, Adventure • mobe1969**
 
 A mysterious spacecraft captures Russian and American space capsules and brings the two superpowers to the brink of war. James Bond investigates the case in Japan and comes face to face with his archenemy Blofeld.
+{ data-search-exclude }
+
+DD+ 4dB down
 { data-search-exclude }
 
 [TMDB](667)
