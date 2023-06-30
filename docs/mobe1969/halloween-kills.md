@@ -14,7 +14,7 @@ The nightmare isn't over as unstoppable killer Michael Myers escapes from Laurie
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Halloween%20Kills%20%282021%29%28EC%29%20Atmos.jpg)
 
-## Atmos
+## Atmos, DD+ 5.1
 
 Theatrical Cut
 

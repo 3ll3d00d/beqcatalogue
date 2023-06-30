@@ -17,7 +17,7 @@ UHD
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Robin%20Hood%20Prince%20of%20Thieves%20%281991%29%28UHD%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 Theatrical Cut, UHD
 
