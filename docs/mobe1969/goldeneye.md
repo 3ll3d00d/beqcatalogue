@@ -1,6 +1,6 @@
 # GoldenEye
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **1995 • PG-13 • 2h 10m • Adventure, Action, Thriller • mobe1969**
 
