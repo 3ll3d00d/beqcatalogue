@@ -37,8 +37,8 @@ Dialnorm Compensation: E3 +4dB; E9 +2dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/rUAgbgy.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Silo%20S01E03%2CE09%20PvA%20v1.jpg)
 
 
-![img 0](https://i.imgur.com/76DINPM.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Silo%20S01E03%2CE09%20peak%20spectrum%20v1.png)
 
