@@ -2,14 +2,14 @@
 
 * Author: halcyon888
 
-## Season 1 Episodes 1-2, 4-8
+## Season 1 Episodes 1-2, 4-8, 10
 
 * DD+ Atmos
 
 
 **MV Adjustment:** +7.0 dB
 
-Dialnorm Compensation: E01 +4dB; E02 +5dB; E04 +4dB; E05 +3dB; E06 +4dB; E07 +4dB; E08 +3dB
+Dialnorm Compensation: E01 +4dB; E02 +5dB; E04 +4dB; E05 +3dB; E06-E07 +4dB; E08 +3dB, E10 +3dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62562120)
@@ -17,10 +17,10 @@ Dialnorm Compensation: E01 +4dB; E02 +5dB; E04 +4dB; E05 +3dB; E06 +4dB; E07 +4d
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/52TlDLZ.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Silo%20S01E01-E02%2CE04-E08%2CE10%20PvA%20v3.jpg)
 
 
-![img 0](https://i.imgur.com/zbtqKKm.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Silo%20S01E01-E02%2CE04-E08%2CE10%20peak%20spectrum%20v3.png)
 
 ## Season 1 Episodes 3, 9
 
