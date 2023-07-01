@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2010 • PG-13 • 1h 21m • Western, Action, Drama, Fantasy, Thriller • mobe1969**
+**2010 • PG-13 • 1h 21m • Action, Western, Drama, Fantasy, Thriller • mobe1969**
 
 Gunslinger Jonah Hex is appointed by President Ulysses Grant to track down terrorist Quentin Turnbull, a former Confederate officer determined on unleashing hell on earth. Jonah not only secures freedom by accepting this task, he also gets revenge on the man who slayed his wife and child.
 { data-search-exclude }
