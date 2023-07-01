@@ -1,6 +1,6 @@
 # The Purge: Anarchy
 
-## DTS-X
+## DTS-X, DD+ 5.1
 
 **2014 • R • 1h 44m • Horror, Thriller • mobe1969**
 

@@ -1,6 +1,6 @@
 # The First Purge
 
-## DTS-X
+## DTS-X, DD+ 5.1
 
 **2018 • R • 1h 37m • Action, Thriller, Horror • mobe1969**
 
