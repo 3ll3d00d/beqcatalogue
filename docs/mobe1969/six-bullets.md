@@ -1,6 +1,6 @@
 # Six Bullets
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2012 • R • 1h 55m • Crime, Thriller, Action • mobe1969**
 
