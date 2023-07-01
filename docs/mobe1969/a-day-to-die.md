@@ -1,6 +1,6 @@
 # A Day To Die
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • R • 1h 41m • Action, Thriller, Crime • mobe1969**
 
