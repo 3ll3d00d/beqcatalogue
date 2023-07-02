@@ -1,10 +1,13 @@
 # The Dark Knight Rises
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2012 • PG-13 • 2h 45m • Action, Crime, Drama, Thriller • mobe1969**
 
 Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.
+{ data-search-exclude }
+
+DD+ 4dB down
 { data-search-exclude }
 
 [TMDB](49026)

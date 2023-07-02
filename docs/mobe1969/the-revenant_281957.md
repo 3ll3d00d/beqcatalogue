@@ -1,6 +1,6 @@
 # The Revenant
 
-## DTS-HD MA 7.1
+## DTS-HD MA 7.1, DD+ 5.1
 
 **2015 • R • 2h 37m • Western, Drama, Adventure • mobe1969**
 

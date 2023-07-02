@@ -1,6 +1,6 @@
 # The Dark Knight
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2008 • PG-13 • 2h 32m • Drama, Action, Crime, Thriller • mobe1969**
 
