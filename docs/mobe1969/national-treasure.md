@@ -24,7 +24,7 @@ Modern treasure hunters, led by archaeologist Ben Gates, search for a chest of r
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/National%20Treasure%20%282004%29%20DD%2B%20Atmos.jpg)
 
-## LPCM 5.1
+## LPCM 5.1, DTS-HD MA 5.1
 
 **2004 • PG • 2h 11m • Adventure, Action, Thriller, Mystery • mobe1969**
 
