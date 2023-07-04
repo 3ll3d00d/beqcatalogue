@@ -1,6 +1,6 @@
 # Allied
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2016 • R • 2h 4m • Action, Drama, War, Romance, Thriller • mobe1969**
 

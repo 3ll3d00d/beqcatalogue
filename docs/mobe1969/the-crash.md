@@ -1,6 +1,6 @@
 # The Crash
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2017 • R • 1h 24m • Thriller, Crime • mobe1969**
 
