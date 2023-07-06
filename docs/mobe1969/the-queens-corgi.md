@@ -7,7 +7,7 @@
 Since his arrival at Buckingham palace, Rex lives a life of luxury. Top dog, he has superseded his three fellow Corgis in Her Majesty’s heart. His arrogance can be quite irritating. When he causes a diplomatic incident during an official dinner with the President of the United States, he falls into disgrace. Betrayed by one of his peers, Rex becomes a stray dog in the streets of London. How can he redeem himself? In love, he will find the resources to surpass himself in the face of great danger…
 { data-search-exclude }
 
-UK cast, original audio
+UK cast, original audio. US dub identical
 { data-search-exclude }
 
 [TMDB](509730)
