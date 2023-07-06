@@ -1,10 +1,13 @@
 # Angel Has Fallen
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2019 • R • 2h 2m • Action, Thriller • mobe1969**
 
 After a treacherous attack, Secret Service agent Mike Banning is charged with attempting to assassinate President Trumbull. Chased by his own colleagues and the FBI, Banning begins a race against the clock to clear his name.
+{ data-search-exclude }
+
+Netflix DD+ -3dB, Prime -5dB
 { data-search-exclude }
 
 [TMDB](423204)
