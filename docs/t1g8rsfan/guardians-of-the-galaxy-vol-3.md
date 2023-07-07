@@ -9,6 +9,9 @@ Peter Quill, still reeling from the loss of Gamora, must rally his team around h
 
 **MV Adjustment:** +3.0 dB
 
++4dB Dialnorm Compensation
+{ data-search-exclude }
+
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62665173)  [TMDB](447365)
 { data-search-exclude }
 
