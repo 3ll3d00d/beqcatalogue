@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-## Season 2
+## Season 1
 
 * DD+ Atmos
 
