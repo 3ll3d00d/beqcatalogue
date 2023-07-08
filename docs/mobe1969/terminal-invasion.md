@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2002 • R • 1h 30m • Horror, Science Fiction, Thriller, TV Movie • mobe1969**
+**2002 • R • 1h 24m • Horror, Science Fiction, Thriller, TV Movie • mobe1969**
 
 Aliens in human disguise commandeer a rural airport during a snowstorm. To survive, the people trapped inside must determine which of their own is not of this Earth.
 { data-search-exclude }
