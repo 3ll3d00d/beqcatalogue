@@ -9,7 +9,7 @@ A straight-laced bank manager is about to marry the love of his life. When his b
 
 **MV Adjustment:** +2.0 dB
 
-+6dB Dialnorm Compensation
++2dB Dialnorm Compensation
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62668863)  [TMDB](921636)
