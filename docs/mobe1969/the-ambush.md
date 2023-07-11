@@ -10,5 +10,5 @@ It is the winter of 2018, the men and women of the UAE military are deployed to 
 [TMDB](884452)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/The%20Ambush%20%282021%29%28Ab%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/The%20Ambush%20%282021%29%28Ar%29%20DTS-HD%20MA%205.1.jpg)
 

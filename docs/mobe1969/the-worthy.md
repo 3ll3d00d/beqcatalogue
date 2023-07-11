@@ -10,5 +10,5 @@ A visually spectacular dystopian take on an Arab world torn apart by social diso
 [TMDB](413780)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Worthy%20%282016%29%28Ab%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Worthy%20%282016%29%28Ar%29%20DD%2B%205.1.jpg)
 
