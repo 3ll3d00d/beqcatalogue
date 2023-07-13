@@ -7,7 +7,7 @@
 New adaptation of Louis Cha's wuxia novel Demi-Gods and Semi-Devils.
 { data-search-exclude }
 
-Cantonese Atmos and Mandarin 7.1 tracks identical. German UHD DTS-HD MA 5.1 2dB down
+Cantonese and Mandarin tracks identical
 { data-search-exclude }
 
 [TMDB](990140)
