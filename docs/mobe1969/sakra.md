@@ -1,13 +1,13 @@
 # Sakra
 
-## Atmos
+## Atmos, TrueHD 7.1, DTS-HD MA 5.1
 
 **2023 • NR • 2h 10m • Cantonese • Action, Drama • mobe1969**
 
 New adaptation of Louis Cha's wuxia novel Demi-Gods and Semi-Devils.
 { data-search-exclude }
 
-Cantonese and Mandarin tracks identical
+Cantonese Atmos and Mandarin 7.1 tracks identical. German UHD DTS-HD MA 5.1 2dB down
 { data-search-exclude }
 
 [TMDB](990140)
