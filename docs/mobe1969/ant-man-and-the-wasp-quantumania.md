@@ -1,6 +1,6 @@
 # Ant-Man and the Wasp: Quantumania
 
-## Atmos
+## Atmos, DTS-HD MA 7.1
 
 **2023 • PG-13 • 2h 5m • Action, Adventure, Science Fiction • mobe1969**
 
