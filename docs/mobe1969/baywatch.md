@@ -4,7 +4,7 @@
 
 Extended Cut
 
-**2017 • R • 1h 56m • Comedy, Action, Crime • mobe1969**
+**2017 • R • 2h 1m • Comedy, Action, Crime • mobe1969**
 
 Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
 { data-search-exclude }
