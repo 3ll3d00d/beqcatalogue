@@ -1,6 +1,6 @@
 # Journey 2: The Mysterious Island
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2012 • PG • 1h 34m • Adventure, Action, Science Fiction • mobe1969**
 

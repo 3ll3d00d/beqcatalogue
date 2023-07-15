@@ -1,6 +1,6 @@
 # Layer Cake
 
-## LPCM 5.1
+## LPCM 5.1, DD+ 5.1
 
 **2004 • R • 1h 45m • Drama, Thriller, Crime • mobe1969**
 

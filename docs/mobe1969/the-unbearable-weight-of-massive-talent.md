@@ -1,6 +1,6 @@
 # The Unbearable Weight of Massive Talent
 
-## Atmos, DTS-HD MA 5.1
+## Atmos, DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • R • 1h 47m • Action, Comedy, Crime • mobe1969**
 
