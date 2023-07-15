@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2009 • PG • 1h 31m • Family, Science Fiction, Animation, Adventure, Comedy • mobe1969**
+**2009 • PG • 1h 31m • Animation, Family, Comedy, Science Fiction, Adventure • mobe1969**
 
 When Earth astronaut Capt. Chuck Baker arrives on Planet 51 -- a world reminiscent of American suburbia circa 1950 -- he tries to avoid capture, recover his spaceship and make it home safely, all with the help of an empathetic little green being.
 { data-search-exclude }
