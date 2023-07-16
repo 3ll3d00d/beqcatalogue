@@ -1,6 +1,6 @@
 # Sweeney Todd: The Demon Barber of Fleet Street
 
-## TrueHD 5.1
+## TrueHD 5.1, DD+ 5.1
 
 **2007 • R • 1h 56m • Drama, Horror • mobe1969**
 
