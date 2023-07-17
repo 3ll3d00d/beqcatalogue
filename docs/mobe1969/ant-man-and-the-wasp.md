@@ -10,5 +10,5 @@ Just when his time under house arrest is about to end, Scott Lang once again put
 [TMDB](363088)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Ant%20Man%20and%20the%20Wasp%20%282018%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Ant-Man%20and%20the%20Wasp%20%282018%29%20Atmos.jpg)
 
