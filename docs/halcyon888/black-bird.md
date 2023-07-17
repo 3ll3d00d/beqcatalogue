@@ -2,7 +2,7 @@
 
 * Author: halcyon888
 
-## Season 6
+## Season 1
 
 * DD+ Atmos
 

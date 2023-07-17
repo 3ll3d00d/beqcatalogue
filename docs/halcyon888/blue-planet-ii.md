@@ -2,7 +2,7 @@
 
 * Author: halcyon888
 
-## Season 7
+## Season 1
 
 * DTS-HD MA 5.1
 
