@@ -1,6 +1,6 @@
 # Black Adam
 
-## Atmos, DD+ Atmos
+## Atmos, DD+ Atmos, DD+ 5.1
 
 **2022 • PG-13 • 2h 5m • Action, Fantasy, Science Fiction • mobe1969**
 
