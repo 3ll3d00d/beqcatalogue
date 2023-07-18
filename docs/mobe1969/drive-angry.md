@@ -1,6 +1,6 @@
 # Drive Angry
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2011 • R • 1h 45m • Fantasy, Thriller, Action, Crime • mobe1969**
 
