@@ -47,10 +47,10 @@ Dialnorm Compensation: E01 +6dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/5etwrWr.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Jack%20Ryan%20S04E01%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/8m1HZbz.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Jack%20Ryan%20S04E01%20peak%20spectrum.png)
 
 ## Season 4 Episodes 2-3
 
@@ -67,10 +67,10 @@ Dialnorm Compensation: E02 +5dB, E03 +6dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/mXxBpmA.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Jack%20Ryan%20S04E02%2CE03%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/Z3UktCk.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Jack%20Ryan%20S04E02%2CE03%20peak%20spectrum.png)
 
 ## Season 4 Episodes 4-6
 
@@ -87,8 +87,8 @@ Dialnorm Compensation: E04 +7dB, E05 +8dB, E06 +7dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/rywY0Az.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Jack%20Ryan%20S04E04%2CE05%2CE06%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/wsAa6VC.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Jack%20Ryan%20S04E04%2CE05%2CE06%20peak%20spectrum.png)
 
