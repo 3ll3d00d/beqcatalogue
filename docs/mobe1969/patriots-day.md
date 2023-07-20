@@ -1,6 +1,6 @@
 # Patriots Day
 
-## DTS-X
+## DTS-X, DD+ 5.1
 
 **2016 • R • 2h 13m • Action, Crime, Drama, History, Thriller • mobe1969**
 

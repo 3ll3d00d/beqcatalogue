@@ -1,6 +1,6 @@
 # Becky
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2020 • R • 1h 33m • Horror, Crime, Thriller • mobe1969**
 
