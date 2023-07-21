@@ -32,7 +32,7 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Warrior%20%282019%29%28S02%29%20DD%2B%205.1.jpg)
 
-## Season 3 Episodes 1-5
+## Season 3 Episodes 1-6
 
 * DD+ 5.1
 
