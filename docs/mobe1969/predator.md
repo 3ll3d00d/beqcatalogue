@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**1987 • R • 1h 47m • Thriller, Action, Science Fiction, Adventure • mobe1969**
+**1987 • R • 1h 47m • Science Fiction, Action, Adventure, Thriller • mobe1969**
 
 A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.
 { data-search-exclude }

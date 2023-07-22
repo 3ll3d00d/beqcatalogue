@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**1990 • R • 1h 48m • Action, Thriller, Science Fiction • mobe1969**
+**1990 • R • 1h 48m • Science Fiction, Action, Thriller • mobe1969**
 
 A police chief in the war-torn streets of Los Angeles discovers that an extraterrestrial creature is hunting down residents - and that he is the next target.
 { data-search-exclude }
