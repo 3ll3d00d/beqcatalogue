@@ -2,7 +2,7 @@
 
 ## TrueHD 5.1
 
-**2015 • 12 • 1h 55m • Mandarin • Adventure, Action, Thriller • mobe1969**
+**2015 • NR • 1h 55m • Mandarin • Adventure, Action, Thriller • mobe1969**
 
 In 1979, a young soldier is working in China's snowcapped mountains when an explosion reveals bizarre fossils hidden deep in the mountain caverns. What they discover next will change his life and human history forever.
 { data-search-exclude }
