@@ -12,7 +12,7 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/The%205th%20Wave%20%282016%29%20Atmos.jpg)
 
-## DD+ 5.1
+## DD+ 5.1, DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 52m • Science Fiction, Adventure, Action • mobe1969**
 
