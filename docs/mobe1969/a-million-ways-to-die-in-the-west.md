@@ -4,7 +4,7 @@
 
 Unrated Cut
 
-**2014 • R • 1h 56m • Comedy, Western • mobe1969**
+**2014 • R • 2h 15m • Comedy, Western • mobe1969**
 
 As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his new-found courage to the test when her husband, a notorious gun-slinger, announces his arrival.
 { data-search-exclude }
