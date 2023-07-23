@@ -4,7 +4,7 @@
 
 Extended Cut
 
-**2015 • R • 1h 40m • Comedy • mobe1969**
+**2015 • R • 1h 47m • Comedy • mobe1969**
 
 When obscenely rich hedge-fund manager James is convicted of fraud and sentenced to a stretch in San Quentin, the judge gives him one month to get his affairs in order. Knowing that he won't survive more than a few minutes in prison on his own, James desperately turns to Darnell-- a black businessman who's never even had a parking ticket -- for help. As Darnell puts James through the wringer, both learn that they were wrong about many things, including each other.
 { data-search-exclude }

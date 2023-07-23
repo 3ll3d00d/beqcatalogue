@@ -2,7 +2,7 @@
 
 ## DTS-X
 
-**2019 • PG-13 • 1h 58m • Action, Adventure, Comedy, Science Fiction • mobe1969**
+**2019 • PG-13 • 1h 58m • Action, Adventure, Comedy • mobe1969**
 
 When a systems engineer blows the whistle on a dangerous technology, Charlie's Angels from across the globe are called into action, putting their lives on the line to protect society.
 { data-search-exclude }

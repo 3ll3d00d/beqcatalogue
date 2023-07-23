@@ -4,7 +4,7 @@
 
 Unrated Cut
 
-**2012 • PG-13 • 1h 31m • TV Movie, Science Fiction • mobe1969**
+**2012 • PG-13 • 1h 34m • Science Fiction, TV Movie, Action • mobe1969**
 
 The first Cylon war has been raging for 10 years and a young Ensign William Adama joins the fleet. Disappointed not to be assigned to a fighter but to a freighter, his co-pilot also isn't too keen on having a rookie flying his aircraft as he has only a short time before he again becomes a civilian. Their cargo is a civilian scientist, but they no sooner leave than she has new orders for them and a new destination. Although she’s less than forthcoming about the details, Adama is keen—particularly as it involves going into Cylon controlled space. However, nothing is as it seems.
 { data-search-exclude }
