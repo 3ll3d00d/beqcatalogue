@@ -9,6 +9,9 @@ Unrated Cut
 As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his new-found courage to the test when her husband, a notorious gun-slinger, announces his arrival.
 { data-search-exclude }
 
+Theatrical cut same filter
+{ data-search-exclude }
+
 [TMDB](188161)
 { data-search-exclude }
 

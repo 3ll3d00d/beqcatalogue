@@ -4,7 +4,7 @@
 
 Director's Cut
 
-**1997 • R • 1h 56m • Science Fiction, Horror, Action • mobe1969**
+**1997 • R • 1h 49m • Science Fiction, Horror, Action • mobe1969**
 
 Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping to breed the ultimate weapon. But the new Ripley is full of surprises … as are the new aliens. Ripley must team with a band of smugglers to keep the creatures from reaching Earth.
 { data-search-exclude }
