@@ -1,6 +1,6 @@
 # Cocaine Bear
 
-## DD+ Atmos, DTS-HD MA 7.1, DD+ 5.1
+## DD+ Atmos, DTS-HD MA 7.1, DTS-HD MA 5.1, DD+ 5.1
 
 **2023 • R • 1h 35m • Action, Comedy, Crime, Thriller • mobe1969**
 
