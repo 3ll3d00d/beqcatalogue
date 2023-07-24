@@ -1,6 +1,6 @@
 # World War Z
 
-## DTS-HD MA 7.1, DD+ 5.1
+## DTS-HD MA 7.1, DTS-HD MA 5.1, DD+ 5.1
 
 Theatrical Cut
 
