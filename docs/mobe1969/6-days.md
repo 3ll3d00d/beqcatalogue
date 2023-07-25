@@ -1,6 +1,6 @@
 # 6 Days
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2017 • R • 1h 35m • Action, Drama, History, Thriller • mobe1969**
 
