@@ -12,7 +12,7 @@
 Dialnorm Compensation: E01 +4dB, E04 +4dB, E08 +5dB
 { data-search-exclude }
 
-* Production Year: 2023
+* Production Year: 2019
 
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Carnival%20Row%20S02E01%2CE04%2CE08%20PvA%20v1.jpg)
@@ -30,7 +30,7 @@ Dialnorm Compensation: E01 +4dB, E04 +4dB, E08 +5dB
 Dialnorm Compensation: E02 +2dB, E03 +3dB, E06 +3dB
 { data-search-exclude }
 
-* Production Year: 2023
+* Production Year: 2019
 
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Carnival%20Row%20S02E02%2CE03%2CE06%20PvA%20v1.jpg)
@@ -48,7 +48,7 @@ Dialnorm Compensation: E02 +2dB, E03 +3dB, E06 +3dB
 Dialnorm Compensation: E05 +5dB, E10 +5dB
 { data-search-exclude }
 
-* Production Year: 2023
+* Production Year: 2019
 
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Carnival%20Row%20S02E05%2CE10%20PvA%20v1.jpg)
@@ -66,7 +66,7 @@ Dialnorm Compensation: E05 +5dB, E10 +5dB
 Dialnorm Compensation: E07 +5dB, E09 +3dB
 { data-search-exclude }
 
-* Production Year: 2023
+* Production Year: 2019
 
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Carnival%20Row%20S02E07%2CE09%20PvA%20v1.jpg)

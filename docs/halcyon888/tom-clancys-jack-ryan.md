@@ -9,7 +9,7 @@
 
 **MV Adjustment:** +5.0 dB
 
-* Production Year: 2022
+* Production Year: 2018
 
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Jack%20Ryan%20S3E01%2CE02%2CE03%2CE04%2CE05%2CE08%20PvA%20v1.jpg)
@@ -24,7 +24,7 @@
 
 **MV Adjustment:** +3.5 dB
 
-* Production Year: 2022
+* Production Year: 2018
 
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Jack%20Ryan%20S3E06%2CE07%20PvA%20v1.jpg)
@@ -44,7 +44,7 @@ Dialnorm Compensation: E01 +6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62653448)
 
-* Production Year: 2023
+* Production Year: 2018
 
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Jack%20Ryan%20S04E01%20PvA.jpg)
@@ -64,7 +64,7 @@ Dialnorm Compensation: E02 +5dB, E03 +6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62653448)
 
-* Production Year: 2023
+* Production Year: 2018
 
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Jack%20Ryan%20S04E02%2CE03%20PvA.jpg)
@@ -84,7 +84,7 @@ Dialnorm Compensation: E04 +7dB, E05 +8dB, E06 +7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62653448)
 
-* Production Year: 2023
+* Production Year: 2018
 
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Jack%20Ryan%20S04E04%2CE05%2CE06%20PvA.jpg)

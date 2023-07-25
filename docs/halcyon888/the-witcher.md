@@ -14,7 +14,7 @@ Dialnorm Compensation: E01 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
 
-* Production Year: 2023
+* Production Year: 2019
 
 
 ![img 0](https://i.imgur.com/B6LmKVB.jpg)
@@ -34,7 +34,7 @@ Dialnorm Compensation: E02 +4dB, E04 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
 
-* Production Year: 2023
+* Production Year: 2019
 
 
 ![img 0](https://i.imgur.com/6Nb3yiJ.jpg)
@@ -54,7 +54,7 @@ Dialnorm Compensation: E03 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
 
-* Production Year: 2023
+* Production Year: 2019
 
 
 ![img 0](https://i.imgur.com/Yzh7ZT1.jpg)
@@ -74,7 +74,7 @@ Dialnorm Compensation: E05 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
 
-* Production Year: 2023
+* Production Year: 2019
 
 
 ![img 0](https://i.imgur.com/YkQKlxk.jpg)

@@ -34,7 +34,7 @@ Dialnorm Compensation: E1-6 +3dB; E7 +4dB; E8 +3dB; E9 +2dB; E10 +4dB; E11 +3dB;
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62638212)
 
-* Production Year: 2017
+* Production Year: 2016
 
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Travelers%20S02%20PvA.jpg)
