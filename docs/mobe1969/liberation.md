@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2019 • NR • 0h 0m • Mandarin • Drama, History • mobe1969**
+**2019 • NR • 1h 43m • Mandarin • Drama, History • mobe1969**
 
 Based on real life events, the film is set in January 1949 and focuses around a group of soldiers involved in the final stages of the Battle of Pingjin
 { data-search-exclude }
