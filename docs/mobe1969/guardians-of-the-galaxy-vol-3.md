@@ -1,6 +1,6 @@
 # Guardians of the Galaxy Vol. 3
 
-## DD+ Atmos, DTS-HD MA 7.1
+## Atmos, DD+ Atmos, DTS-HD MA 7.1
 
 **2023 • PG-13 • 2h 30m • Action, Science Fiction, Adventure • mobe1969**
 
@@ -10,5 +10,5 @@ Peter Quill, still reeling from the loss of Gamora, must rally his team around h
 [TMDB](447365)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Guardians%20of%20the%20Galaxy%20Vol.%203%20%282023%29%20DD%2B%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Guardians%20of%20the%20Galaxy%20Vol.%203%20%282023%29%20Atmos.jpg)
 
