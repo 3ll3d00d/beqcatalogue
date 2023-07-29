@@ -17,10 +17,10 @@ Dialnorm Compensation: E01 +5dB
 * Production Year: 2019
 
 
-![img 0](https://i.imgur.com/B6LmKVB.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E01%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/TyVFrfP.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E01%20peak%20spectrum.png)
 
 ## Season 3 Episodes 2, 4
 
@@ -37,10 +37,10 @@ Dialnorm Compensation: E02 +4dB, E04 +5dB
 * Production Year: 2019
 
 
-![img 0](https://i.imgur.com/6Nb3yiJ.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E02%2CE04%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/ay9HJAm.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E02%2CE04%20peak%20spectrum.png)
 
 ## Season 3 Episode 3
 
@@ -57,10 +57,10 @@ Dialnorm Compensation: E03 +5dB
 * Production Year: 2019
 
 
-![img 0](https://i.imgur.com/Yzh7ZT1.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E03%20PvA%20v2.jpg)
 
 
-![img 0](https://i.imgur.com/3navYW2.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E03%20peak%20spectrum%20v2.png)
 
 ## Season 3 Episode 5
 
@@ -77,8 +77,48 @@ Dialnorm Compensation: E05 +4dB
 * Production Year: 2019
 
 
-![img 0](https://i.imgur.com/YkQKlxk.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E05%20PvA%20v2.jpg)
 
 
-![img 0](https://i.imgur.com/WcIsvGX.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E05%20peak%20spectrum%20v2.png)
+
+## Season 3 Episodes 6-7
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +2.0 dB
+
+Dialnorm Compensation: E06, E07 +5dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
+
+* Production Year: 2019
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E06%2CE07%20PvA.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E06%2CE07%20peak%20spectrum.png)
+
+## Season 3 Episode 8
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +2.5 dB
+
+Dialnorm Compensation: E08 +6dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
+
+* Production Year: 2019
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E08%20PvA.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Witcher%202023%20S03E08%20peak%20spectrum.png)
 
