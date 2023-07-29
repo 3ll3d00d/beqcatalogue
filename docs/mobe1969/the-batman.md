@@ -1,6 +1,6 @@
 # The Batman
 
-## Atmos, DD+ 5.1
+## Atmos
 
 **2022 • PG-13 • 2h 57m • Crime, Mystery, Thriller • mobe1969**
 
