@@ -393,7 +393,8 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 if 'avs' in meta:
                     links.append(f"[Discuss]({meta['avs']})")
                 if 'theMovieDB' in meta:
-                    links.append(f"[TMDB]({meta['theMovieDB']})")
+                    tmdb_url = make_tmdb_url('film', parse.quote(meta['title']), meta['theMovieDB'])
+                    links.append(f"[TMDB]({tmdb_url})")
                 if links:
                     print('', file=content_md)
                     print('  '.join(links), file=content_md)
@@ -612,17 +613,22 @@ def generate_index_entry(author, page_name, content_format, content_name, year, 
                          index_entries, content_type='film', extra_slug=None):
     ''' dumps the summary info to the index page '''
     escaped = parse.quote(content_name)
-    tmdb_ct = 'movie' if content_type == 'film' else 'tv'
-    tmdb = 'https://www.themoviedb.org'
-    mdb_url = f"{tmdb}/search?query={escaped}" if not tmdb_id else f"{tmdb}/{tmdb_ct}/{tmdb_id}"
+    tmdb_url = make_tmdb_url(content_type, escaped, tmdb_id)
     rt_url = f"https://www.rottentomatoes.com/search?search={escaped}"
     bd_url = f"https://www.blu-ray.com/movies/search.php?keyword={escaped}&submit=Search&action=search&"
     if content_type == 'film':
         extra_slug = f"#{slugify(content_format, '-')}" if multiformat is True else ''
     avs_link = f"[avsforum]({avs_url})" if avs_url else ''
     index_entries.append(
-        f"| [{content_name}](./{author}/{page_name}.md{extra_slug}) | {content_type} | {year} | {content_format} | {'Yes' if multiformat else 'No'} | {avs_link} [blu-ray]({bd_url}) [themoviedb]({mdb_url}) [rottentoms]({rt_url}) |")
+        f"| [{content_name}](./{author}/{page_name}.md{extra_slug}) | {content_type} | {year} | {content_format} | {'Yes' if multiformat else 'No'} | {avs_link} [blu-ray]({bd_url}) [themoviedb]({tmdb_url}) [rottentoms]({rt_url}) |")
     return bd_url
+
+
+def make_tmdb_url(content_type, escaped, tmdb_id):
+    tmdb_ct = 'movie' if content_type == 'film' else 'tv'
+    tmdb = 'https://www.themoviedb.org'
+    mdb_url = f"{tmdb}/search?query={escaped}" if not tmdb_id else f"{tmdb}/{tmdb_ct}/{tmdb_id}"
+    return mdb_url
 
 
 if os.getcwd() == os.path.dirname(os.path.abspath(__file__)):
