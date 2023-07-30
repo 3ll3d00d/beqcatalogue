@@ -36,3 +36,23 @@
 
 ![img 0](https://i.imgur.com/PyV8v5a.png)
 
+## Season 1 Episode 3
+
+* DD+
+
+
+**MV Adjustment:** +4.0 dB
+
+Dialnorm Compensation: E03 +7dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62703233)
+
+* Production Year: 2023
+
+
+![img 0](https://i.imgur.com/IdmG5Th.jpg)
+
+
+![img 0](https://i.imgur.com/L1RdWOW.png)
+
