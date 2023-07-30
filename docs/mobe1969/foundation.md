@@ -12,7 +12,7 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Foundation%20%282021%29%28S01%29%20DD%2B%20Atmos.jpg)
 
-## Season 2 Episode 1
+## Season 2 Episodes 1-3
 
 * DD+ Atmos
 
