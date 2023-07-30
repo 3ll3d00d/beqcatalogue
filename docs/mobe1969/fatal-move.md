@@ -7,7 +7,7 @@
 In the midst of a violent gang war, a series of misfortunes threaten the fate of a gang boss and his mob.
 { data-search-exclude }
 
-[TMDB](25655)
+[TMDB](https://www.themoviedb.org/movie/25655)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fatal%20Move%20%282008%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)

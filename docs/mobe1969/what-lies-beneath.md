@@ -7,7 +7,7 @@
 When Claire Spencer starts hearing ghostly voices and seeing spooky images, she wonders if an otherworldly spirit is trying to contact her. All the while, her husband tries to reassure her by telling her it's all in her head. But as Claire investigates, she discovers that the man she loves might know more than he's letting on.
 { data-search-exclude }
 
-[TMDB](2655)
+[TMDB](https://www.themoviedb.org/movie/2655)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/What%20Lies%20Beneath%20%282000%29%20DTS-HD%20MA%205.1.jpg)

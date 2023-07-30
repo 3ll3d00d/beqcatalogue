@@ -7,7 +7,7 @@
 Brad and Dusty must deal with their intrusive fathers during the holidays.
 { data-search-exclude }
 
-[TMDB](419680)
+[TMDB](https://www.themoviedb.org/movie/419680)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Daddy%27s%20Home%202%20%282017%29%20Atmos.jpg)

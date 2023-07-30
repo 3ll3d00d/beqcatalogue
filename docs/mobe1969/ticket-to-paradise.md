@@ -7,7 +7,7 @@
 A divorced couple teams up and travels to Bali to stop their daughter from making the same mistake they think they made 25 years ago.
 { data-search-exclude }
 
-[TMDB](800939)
+[TMDB](https://www.themoviedb.org/movie/800939)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Ticket%20to%20Paradise%20%282022%29%20DD%2B%205.1.jpg)

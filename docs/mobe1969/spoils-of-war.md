@@ -7,7 +7,7 @@
 Five SS soldiers infiltrate Austria near the Italian border in the autumn of 1944 to kidnap the ehad of Operation Bernhard - a secret German plan devised to destabililize the Allied war effort by flooding its economy with counterfeit currency.
 { data-search-exclude }
 
-[TMDB](35460)
+[TMDB](https://www.themoviedb.org/movie/35460)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spoils%20of%20War%20%282009%29%20DTS-HD%20MA%205.1.jpg)

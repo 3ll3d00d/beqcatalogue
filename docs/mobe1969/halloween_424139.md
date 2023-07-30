@@ -10,7 +10,7 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 DD+ 5dB down
 { data-search-exclude }
 
-[TMDB](424139)
+[TMDB](https://www.themoviedb.org/movie/424139)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Halloween%20%282018%29%20DTS-X.jpg)

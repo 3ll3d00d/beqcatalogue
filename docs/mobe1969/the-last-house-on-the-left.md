@@ -9,7 +9,7 @@ Unrated Cut
 A group of teenage girls heading into the city hook up with a gang of drug-addled ne'er-do-wells and are brutally murdered. The killers find their way to the home of one of their victim's parents, where both father and mother exact a horrible revenge.
 { data-search-exclude }
 
-[TMDB](18405)
+[TMDB](https://www.themoviedb.org/movie/18405)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Last%20House%20on%20the%20Left%20%282009%29%28Unrated%29%20DTS-HD%20MA%205.1.jpg)

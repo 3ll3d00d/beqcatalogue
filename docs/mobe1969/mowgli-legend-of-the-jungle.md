@@ -7,7 +7,7 @@
 A human child raised by wolves, must face off against a menacing tiger named Shere Khan, as well as his own origins.
 { data-search-exclude }
 
-[TMDB](407436)
+[TMDB](https://www.themoviedb.org/movie/407436)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mowgli%20Legend%20of%20the%20Jungle%20%282018%29%20DD%2B%20Atmos.jpg)

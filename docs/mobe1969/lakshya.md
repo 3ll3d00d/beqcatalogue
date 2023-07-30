@@ -7,7 +7,7 @@
 An aimless, jobless, irresponsible grown man joins the army and matures into a battlefield hero.
 { data-search-exclude }
 
-[TMDB](21175)
+[TMDB](https://www.themoviedb.org/movie/21175)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lakshya%20%282004%29%28Hi%29%20DD%2B%205.1.jpg)

@@ -7,7 +7,7 @@
 A man is out for justice after a group of corrupt police officers are unable to catch his wife's killer.
 { data-search-exclude }
 
-[TMDB](332411)
+[TMDB](https://www.themoviedb.org/movie/332411)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/I%20Am%20Wrath%20%282016%29%20DTS-HD%20MA%205.1.jpg)

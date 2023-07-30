@@ -10,7 +10,7 @@
 Hindi track identical
 { data-search-exclude }
 
-[TMDB](617405)
+[TMDB](https://www.themoviedb.org/movie/617405)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Marakkar%20Lion%20of%20the%20Arabian%20Sea%20%282021%29%28My%29%20DD%2B%205.1.jpg)

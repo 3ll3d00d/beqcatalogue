@@ -7,7 +7,7 @@
 Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.
 { data-search-exclude }
 
-[TMDB](934433)
+[TMDB](https://www.themoviedb.org/movie/934433)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Scream%20VI%20%282023%29%20Atmos.jpg)

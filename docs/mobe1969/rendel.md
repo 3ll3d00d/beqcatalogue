@@ -7,7 +7,7 @@
 Rendel, a masked superhero, becomes blinded by his desire for revenge against a sinister criminal organization.
 { data-search-exclude }
 
-[TMDB](397852)
+[TMDB](https://www.themoviedb.org/movie/397852)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rendel%20%282017%29%28Fi%29%20DTS-HD%20MA%205.1.jpg)

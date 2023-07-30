@@ -9,7 +9,7 @@ Extended Cut
 A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
 { data-search-exclude }
 
-[TMDB](619592)
+[TMDB](https://www.themoviedb.org/movie/619592)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Force%20of%20Nature%20%282020%29%28Extended%29%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@ Following the latest Ghostface killings, the four survivors leave Woodsboro behi
 
 **MV Adjustment:** +6.0 dB
 
-[TMDB](934433)
+[TMDB](https://www.themoviedb.org/movie/934433)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/scream%206%20(2023)%20PvA%20THD%20Atmos.jpg)
@@ -28,7 +28,7 @@ Following the latest Ghostface killings, the four survivors leave Woodsboro behi
 +2dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](934433)
+[TMDB](https://www.themoviedb.org/movie/934433)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/scream%206%20(2023)%20PvA%20v2.jpg)

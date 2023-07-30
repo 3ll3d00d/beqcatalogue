@@ -9,7 +9,7 @@ Director's Cut
 During the Japanese colonial era, roughly 400 Korean people, who were forced onto Battleship Island (‘Hashima Island’) to mine for coal, attempt to escape.
 { data-search-exclude }
 
-[TMDB](436391)
+[TMDB](https://www.themoviedb.org/movie/436391)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Battleship%20Island%20%282017%29%28Ko%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
@@ -21,7 +21,7 @@ During the Japanese colonial era, roughly 400 Korean people, who were forced ont
 During the Japanese colonial era, roughly 400 Korean people, who were forced onto Battleship Island (‘Hashima Island’) to mine for coal, attempt to escape.
 { data-search-exclude }
 
-[TMDB](436391)
+[TMDB](https://www.themoviedb.org/movie/436391)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Battleship%20Island%20%282017%29%28Ko%29%20TrueHD%205.1.jpg)

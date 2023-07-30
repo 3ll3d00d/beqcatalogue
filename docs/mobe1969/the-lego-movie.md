@@ -7,7 +7,7 @@
 An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from gluing the universe together.
 { data-search-exclude }
 
-[TMDB](137106)
+[TMDB](https://www.themoviedb.org/movie/137106)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Lego%20Movie%20%282014%29%20DTS-HD%20MA%205.1.jpg)

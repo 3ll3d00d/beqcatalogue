@@ -7,7 +7,7 @@
 A morally bent detective  has one of the worst days of his life after he tries to cover up an accidental crime.
 { data-search-exclude }
 
-[TMDB](473256)
+[TMDB](https://www.themoviedb.org/movie/473256)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Peace%20Breaker%20%282017%29%28Ma%29%20TrueHD%205.1.jpg)

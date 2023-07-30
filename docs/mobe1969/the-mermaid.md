@@ -10,7 +10,7 @@ A playboy business tycoon, Liu Xuan, purchases the Green Gulf, a wildlife reserv
 Safe for Cantonese dub also
 { data-search-exclude }
 
-[TMDB](381890)
+[TMDB](https://www.themoviedb.org/movie/381890)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Mermaid%20%282016%29%28Ma%29%20TrueHD%205.1.jpg)

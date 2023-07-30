@@ -7,7 +7,7 @@
 Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.
 { data-search-exclude }
 
-[TMDB](429617)
+[TMDB](https://www.themoviedb.org/movie/429617)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spider-Man%20Far%20from%20Home%20%282019%29%20Atmos.jpg)

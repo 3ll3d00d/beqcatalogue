@@ -10,7 +10,7 @@ In New York City, a crime lord's right-hand man is seduced by a woman seeking re
 DD+ 4dB down
 { data-search-exclude }
 
-[TMDB](102362)
+[TMDB](https://www.themoviedb.org/movie/102362)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dead%20Man%20Down%20%282013%29%20DTS-HD%20MA%205.1.jpg)

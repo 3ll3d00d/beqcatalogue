@@ -7,7 +7,7 @@
 When Champion City's hero Captain Amazing is kidnapped by the recently paroled supervillain Casanova Frankenstein, a trio of average, everyday superheroes -- Mr. Furious, the Shoveler and the Blue Raja -- assemble a new super team to save him.
 { data-search-exclude }
 
-[TMDB](9824)
+[TMDB](https://www.themoviedb.org/movie/9824)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mystery%20Men%20%281999%29%20DTS-HD%20MA%205.1.jpg)
@@ -24,7 +24,7 @@ When Champion City's hero Captain Amazing is kidnapped by the recently paroled s
 UHD
 { data-search-exclude }
 
-[TMDB](9824)
+[TMDB](https://www.themoviedb.org/movie/9824)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mystery%20Men%20%281999%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

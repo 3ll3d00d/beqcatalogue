@@ -7,7 +7,7 @@
 Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.
 { data-search-exclude }
 
-[TMDB](564)
+[TMDB](https://www.themoviedb.org/movie/564)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Mummy%20%281999%29%20DTS-HD%20MA%205.1.jpg)
@@ -19,7 +19,7 @@ Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra 
 Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.
 { data-search-exclude }
 
-[TMDB](564)
+[TMDB](https://www.themoviedb.org/movie/564)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Mummy%20%281999%29%20DTS-X.jpg)

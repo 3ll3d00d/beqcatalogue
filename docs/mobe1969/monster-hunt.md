@@ -10,7 +10,7 @@ Young monster kids try to make peace between the world of humans and the world o
 Dub track
 { data-search-exclude }
 
-[TMDB](334298)
+[TMDB](https://www.themoviedb.org/movie/334298)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Monster%20Hunt%20%282015%29%28Ca%29%20TrueHD%207.1.jpg)
@@ -22,7 +22,7 @@ Dub track
 Young monster kids try to make peace between the world of humans and the world of the monsters.
 { data-search-exclude }
 
-[TMDB](334298)
+[TMDB](https://www.themoviedb.org/movie/334298)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Monster%20Hunt%20%282015%29%28Ma%29%20TrueHD%207.1.jpg)

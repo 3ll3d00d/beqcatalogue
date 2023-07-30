@@ -12,7 +12,7 @@ A gunfighting stranger comes to the small settlement of Lago. After gunning down
 UHD
 { data-search-exclude }
 
-[TMDB](11901)
+[TMDB](https://www.themoviedb.org/movie/11901)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/High%20Plains%20Drifter%20%281973%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

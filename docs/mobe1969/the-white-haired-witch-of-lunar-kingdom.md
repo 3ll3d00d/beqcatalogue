@@ -10,7 +10,7 @@ In the twilight of the Ming Dynasty, the Imperial court is plagued by corruption
 NOTE: DD+ 5.1 is 4dB down
 { data-search-exclude }
 
-[TMDB](257648)
+[TMDB](https://www.themoviedb.org/movie/257648)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20White%20Haired%20Witch%20of%20Lunar%20Kingdom%20%282014%29%28Ma%29%20TrueHD%205.1.jpg)

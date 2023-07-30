@@ -7,7 +7,7 @@
 The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.
 { data-search-exclude }
 
-[TMDB](560057)
+[TMDB](https://www.themoviedb.org/movie/560057)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Sea%20Beast%20%282022%29%20DD%2B%20Atmos.jpg)

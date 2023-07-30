@@ -10,7 +10,7 @@ Veteran detective Cham works with rookie cop Will to hunt down the city's serial
 DTS-HD MA 5.1 on German UHD 3dB down
 { data-search-exclude }
 
-[TMDB](591222)
+[TMDB](https://www.themoviedb.org/movie/591222)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Limbo%20%282021%29%28Ca%29%20TrueHD%207.1.jpg)

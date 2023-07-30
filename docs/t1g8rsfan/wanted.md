@@ -9,7 +9,7 @@ Doormat Wesley Gibson discovers that his recently murdered father - who Wesley n
 
 **MV Adjustment:** -3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62626087)  [TMDB](8909)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62626087)  [TMDB](https://www.themoviedb.org/movie/8909)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Wanted%20(2008)%20(-3%20gain)%20DTS-HD%20MA%205.1.jpg)

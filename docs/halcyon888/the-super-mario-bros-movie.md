@@ -9,7 +9,7 @@ While working underground to fix a water main, Brooklyn plumbersâ€”and brothersâ
 
 **MV Adjustment:** +1.5 dB
 
-[TMDB](502356)
+[TMDB](https://www.themoviedb.org/movie/502356)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Super%20Mario%20Bros.%20Movie%202023%20THD%20Atmos%20PvA%20v1.jpg)
@@ -28,7 +28,7 @@ While working underground to fix a water main, Brooklyn plumbersâ€”and brothersâ
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](502356)
+[TMDB](https://www.themoviedb.org/movie/502356)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Super%20Mario%20Bros.%20Movie%202023%20PvA%20v1.jpg)

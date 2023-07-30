@@ -9,7 +9,7 @@ Extended Cut
 On July 2, a giant alien mothership enters orbit around Earth and deploys several dozen saucer-shaped 'destroyer' spacecraft that quickly lay waste to major cities around the planet. On July 3, the United States conducts a coordinated counterattack that fails. On July 4, a plan is devised to gain access to the interior of the alien mothership in space, in order to plant a nuclear missile.
 { data-search-exclude }
 
-[TMDB](602)
+[TMDB](https://www.themoviedb.org/movie/602)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Independence%20Day%20%281996%29%28EC%29%20DTS-X.jpg)
@@ -23,7 +23,7 @@ Theatrical Cut
 On July 2, a giant alien mothership enters orbit around Earth and deploys several dozen saucer-shaped 'destroyer' spacecraft that quickly lay waste to major cities around the planet. On July 3, the United States conducts a coordinated counterattack that fails. On July 4, a plan is devised to gain access to the interior of the alien mothership in space, in order to plant a nuclear missile.
 { data-search-exclude }
 
-[TMDB](602)
+[TMDB](https://www.themoviedb.org/movie/602)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Independence%20Day%20%281996%29%28TC%29%20DTS-X.jpg)

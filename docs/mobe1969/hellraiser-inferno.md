@@ -7,7 +7,7 @@
 A shady police detective becomes embroiled in a strange world of murder, sadism and madness after being assigned a murder investigation against a madman known only as "The Engineer".
 { data-search-exclude }
 
-[TMDB](12597)
+[TMDB](https://www.themoviedb.org/movie/12597)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hellraiser%20Inferno%20%282000%29%20DTS-HD%20MA%205.1.jpg)

@@ -7,7 +7,7 @@
 In this remake of the 1933 classic, an oil company expedition disturbs the peace of a giant ape and brings him back to New York to exploit him.
 { data-search-exclude }
 
-[TMDB](10730)
+[TMDB](https://www.themoviedb.org/movie/10730)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/King%20Kong%20%281976%29%20DTS-HD%20MA%205.1.jpg)
@@ -24,7 +24,7 @@ In this remake of the 1933 classic, an oil company expedition disturbs the peace
 UHD
 { data-search-exclude }
 
-[TMDB](10730)
+[TMDB](https://www.themoviedb.org/movie/10730)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/King%20Kong%20%281976%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

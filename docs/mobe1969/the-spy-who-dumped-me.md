@@ -7,7 +7,7 @@
 A couple of thirtysomething best friends unwittingly become entangled in an international conspiracy when one’s ex-boyfriend shows up at their apartment with a team of deadly assassins on his trail.
 { data-search-exclude }
 
-[TMDB](454992)
+[TMDB](https://www.themoviedb.org/movie/454992)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Spy%20Who%20Dumped%20Me%20%282018%29%20Atmos.jpg)
@@ -19,7 +19,7 @@ A couple of thirtysomething best friends unwittingly become entangled in an inte
 A couple of thirtysomething best friends unwittingly become entangled in an international conspiracy when one’s ex-boyfriend shows up at their apartment with a team of deadly assassins on his trail.
 { data-search-exclude }
 
-[TMDB](454992)
+[TMDB](https://www.themoviedb.org/movie/454992)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Spy%20Who%20Dumped%20Me%20%282018%29%20DD%2B%205.1.jpg)

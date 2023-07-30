@@ -10,7 +10,7 @@ When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported
 UHD Remaster
 { data-search-exclude }
 
-[TMDB](10719)
+[TMDB](https://www.themoviedb.org/movie/10719)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Elf%20%282003%29%20DTS-HD%20MA%205.1.jpg)

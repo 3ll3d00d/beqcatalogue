@@ -7,7 +7,7 @@
 The captivating crime-fighting trio who are masters of disguise, espionage and martial arts are back! When a devious mastermind embroils them in a plot to destroy individual privacy, the Angels, aided by their loyal sidekick Bosley, set out to bring down the bad guys. But when a terrible secret is revealed, it makes the Angels targets for assassination.
 { data-search-exclude }
 
-[TMDB](4327)
+[TMDB](https://www.themoviedb.org/movie/4327)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Charlie%27s%20Angels%20%282000%29%20Atmos.jpg)
@@ -22,7 +22,7 @@ The captivating crime-fighting trio who are masters of disguise, espionage and m
 version 2
 { data-search-exclude }
 
-[TMDB](4327)
+[TMDB](https://www.themoviedb.org/movie/4327)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Charlie%27s%20Angels%20%282000%29%28V2%29%20Atmos.jpg)
@@ -34,7 +34,7 @@ version 2
 The captivating crime-fighting trio who are masters of disguise, espionage and martial arts are back! When a devious mastermind embroils them in a plot to destroy individual privacy, the Angels, aided by their loyal sidekick Bosley, set out to bring down the bad guys. But when a terrible secret is revealed, it makes the Angels targets for assassination.
 { data-search-exclude }
 
-[TMDB](4327)
+[TMDB](https://www.themoviedb.org/movie/4327)
 { data-search-exclude }
 
 ![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Charlie%27s%20Angels%20%282000%29%20DTS-HD%20MA%205.1.jpg)

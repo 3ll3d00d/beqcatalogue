@@ -7,7 +7,7 @@
 An AWOL marine in possession of secret government information, is a wanted man, pursued by Russian special ops, the LAPD, and a dangerous assassin.
 { data-search-exclude }
 
-[TMDB](342502)
+[TMDB](https://www.themoviedb.org/movie/342502)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/AWOL-72%20%282015%29%20DTS-HD%20MA%205.1.jpg)

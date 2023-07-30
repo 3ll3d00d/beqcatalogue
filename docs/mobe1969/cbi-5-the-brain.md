@@ -7,7 +7,7 @@
 Series of bucket-killing murders happening in the city. Failure to resolve by police, a team of CBI Officers under CBI officer Sethurama Iyer take up the investigation to resolve the never experienced mystery.
 { data-search-exclude }
 
-[TMDB](569118)
+[TMDB](https://www.themoviedb.org/movie/569118)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/CBI%205%20The%20Brain%20%282022%29%28My%29%20DD%2B%205.1.jpg)

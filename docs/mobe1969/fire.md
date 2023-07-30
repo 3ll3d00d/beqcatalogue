@@ -7,7 +7,7 @@
 A heroic story about firefighters and rescuers. What we call an act of bravery is just a usual routine for them, if only one can get used to mortal danger and extreme risk. When people in distress seem to have nobody who may help them, rescuers come to fight against merciless forces of nature.
 { data-search-exclude }
 
-[TMDB](585257)
+[TMDB](https://www.themoviedb.org/movie/585257)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fire%20%282020%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)

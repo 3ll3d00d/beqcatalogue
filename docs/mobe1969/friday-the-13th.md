@@ -12,7 +12,7 @@ Camp counselors are stalked and murdered by an unknown assailant while trying to
 Theatrical Cut same
 { data-search-exclude }
 
-[TMDB](4488)
+[TMDB](https://www.themoviedb.org/movie/4488)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Friday%20the%2013th%20%281980%29%28UC%29%20DTS-HD%20MA%205.1.jpg)

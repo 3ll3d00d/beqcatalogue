@@ -7,7 +7,7 @@
 Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
 { data-search-exclude }
 
-[TMDB](762504)
+[TMDB](https://www.themoviedb.org/movie/762504)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Nope%20%282022%29%20Atmos.jpg)

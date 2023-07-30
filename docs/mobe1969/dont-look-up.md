@@ -7,7 +7,7 @@
 Two American astronomers attempt to warn humankind about an approaching comet that will wipe out life on planet Earth.
 { data-search-exclude }
 
-[TMDB](646380)
+[TMDB](https://www.themoviedb.org/movie/646380)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Don%27t%20Look%20Up%20%282021%29%20DD%2B%205.1.jpg)

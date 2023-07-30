@@ -7,7 +7,7 @@
 Set in Stalin-era Soviet Union, a disgraced MGB agent is dispatched to investigate a series of child murders -- a case that begins to connect with the very top of party leadership.
 { data-search-exclude }
 
-[TMDB](181283)
+[TMDB](https://www.themoviedb.org/movie/181283)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Child%2044%20%282015%29%20DTS-HD%20MA%205.1.jpg)

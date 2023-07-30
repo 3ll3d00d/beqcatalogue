@@ -9,7 +9,7 @@ The Accident Man is back, and this time he must best the top assassins in the wo
 
 **MV Adjustment:** +9.0 dB
 
-[TMDB](879444)
+[TMDB](https://www.themoviedb.org/movie/879444)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/accident%20man%20hitmans%20holiday%20PvA%20v3.jpg)

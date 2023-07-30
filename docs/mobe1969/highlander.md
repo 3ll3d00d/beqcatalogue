@@ -12,7 +12,7 @@ He fought his first battle on the Scottish Highlands in 1536. He will fight his 
 UHD
 { data-search-exclude }
 
-[TMDB](8009)
+[TMDB](https://www.themoviedb.org/movie/8009)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Highlander%20%281986%29%28DC%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

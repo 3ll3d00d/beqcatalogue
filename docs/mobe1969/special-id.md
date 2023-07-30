@@ -10,7 +10,7 @@ A career-long undercover Hong Kong cop is sent to Mainland China when his former
 Mandarin dub, Universal Blu-Ray
 { data-search-exclude }
 
-[TMDB](222216)
+[TMDB](https://www.themoviedb.org/movie/222216)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Special%20ID%20%282013%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)
@@ -22,7 +22,7 @@ Mandarin dub, Universal Blu-Ray
 A career-long undercover Hong Kong cop is sent to Mainland China when his former protégé becomes the primary suspect in a murder.
 { data-search-exclude }
 
-[TMDB](222216)
+[TMDB](https://www.themoviedb.org/movie/222216)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Special%20ID%20%282013%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)

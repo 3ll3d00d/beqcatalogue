@@ -10,7 +10,7 @@ Burger Beard is a pirate who is in search of the final page of a magical book th
 DD+ 5.1 2dB down
 { data-search-exclude }
 
-[TMDB](228165)
+[TMDB](https://www.themoviedb.org/movie/228165)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20SpongeBob%20Movie%20Sponge%20Out%20of%20Water%20%282015%29%20DTS-HD%20MA%205.1.jpg)

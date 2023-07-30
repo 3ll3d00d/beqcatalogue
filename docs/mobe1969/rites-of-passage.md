@@ -7,7 +7,7 @@
 Anthropology students and their professor experience terror when they visit a sacred burial ground.
 { data-search-exclude }
 
-[TMDB](93077)
+[TMDB](https://www.themoviedb.org/movie/93077)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Rites%20of%20Passage%20%282012%29%20DTS-HD%20MA%205.1.jpg)

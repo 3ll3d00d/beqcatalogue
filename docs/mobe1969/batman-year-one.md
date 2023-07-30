@@ -7,7 +7,7 @@
 A wealthy playboy named Bruce Wayne and a Chicago cop named Jim Gordon both return to Gotham City where their lives unexpectedly intersect.
 { data-search-exclude }
 
-[TMDB](69735)
+[TMDB](https://www.themoviedb.org/movie/69735)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Batman%20Year%20One%20%282011%29%20DTS-HD%20MA%205.1.jpg)

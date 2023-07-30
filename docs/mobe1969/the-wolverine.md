@@ -9,7 +9,7 @@ Extended Cut
 Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.
 { data-search-exclude }
 
-[TMDB](76170)
+[TMDB](https://www.themoviedb.org/movie/76170)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Wolverine%20%282013%29%28EC%29%20DTS-HD%20MA%207.1.jpg)
@@ -23,7 +23,7 @@ Theatrical Cut
 Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.
 { data-search-exclude }
 
-[TMDB](76170)
+[TMDB](https://www.themoviedb.org/movie/76170)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Wolverine%20%282013%29%28TC%29%20DTS-HD%20MA%207.1.jpg)

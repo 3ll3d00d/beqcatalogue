@@ -7,7 +7,7 @@
 Russian terrorists conspire to hijack the aircraft with the president and his family on board. The commander in chief finds himself facing an impossible predicament: give in to the terrorists and sacrifice his family, or risk everything to uphold his principles - and the integrity of the nation.
 { data-search-exclude }
 
-[TMDB](9772)
+[TMDB](https://www.themoviedb.org/movie/9772)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Air%20Force%20One%20%281997%29%20Atmos.jpg)
@@ -19,7 +19,7 @@ Russian terrorists conspire to hijack the aircraft with the president and his fa
 Russian terrorists conspire to hijack the aircraft with the president and his family on board. The commander in chief finds himself facing an impossible predicament: give in to the terrorists and sacrifice his family, or risk everything to uphold his principles - and the integrity of the nation.
 { data-search-exclude }
 
-[TMDB](9772)
+[TMDB](https://www.themoviedb.org/movie/9772)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Air%20Force%20One%20%281997%29%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@ When a new threat capable of destroying the entire planet emerges, Optimus Prime
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62675307)  [TMDB](667538)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62675307)  [TMDB](https://www.themoviedb.org/movie/667538)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Transformers%20Rise%20of%20the%20Beasts%20(2023)%20(%2B2.5%20gain)%20DD%2BAtmos.jpg)

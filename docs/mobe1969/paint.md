@@ -7,7 +7,7 @@
 Carl Nargle, Vermont’s #1 public television painter, is convinced he has it all: a signature perm, custom van, and fans hanging on his every stroke… until a younger, better artist steals everything (and everyone) Carl loves.
 { data-search-exclude }
 
-[TMDB](821890)
+[TMDB](https://www.themoviedb.org/movie/821890)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Paint%20%282023%29%20DD%2B%205.1.jpg)

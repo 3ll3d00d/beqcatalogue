@@ -7,7 +7,7 @@
 Investigative reporter Chase Carter must stop a secret government conspiracy in the zombie infested quarantine zone of East Mission City.
 { data-search-exclude }
 
-[TMDB](400605)
+[TMDB](https://www.themoviedb.org/movie/400605)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dead%20Rising%20Endgame%20%282016%29%20DTS-HD%20MA%205.1.jpg)

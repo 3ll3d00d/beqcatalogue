@@ -9,7 +9,7 @@ Unrated Cut
 Pot growers Ben and Chon face off against the Mexican drug cartel who kidnapped their shared girlfriend.
 { data-search-exclude }
 
-[TMDB](82525)
+[TMDB](https://www.themoviedb.org/movie/82525)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Savages%20%282012%29%28UC%29%20DTS-HD%20MA%205.1.jpg)

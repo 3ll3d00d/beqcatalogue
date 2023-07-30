@@ -7,7 +7,7 @@
 Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
 { data-search-exclude }
 
-[TMDB](566525)
+[TMDB](https://www.themoviedb.org/movie/566525)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20%282021%29%20Atmos.jpg)
@@ -21,7 +21,7 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 
 **MV Adjustment:** +10 dB
 
-[TMDB](566525)
+[TMDB](https://www.themoviedb.org/movie/566525)
 { data-search-exclude }
 
 ![img 1](https://i.imgur.com/m8gNKoP.jpg)

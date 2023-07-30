@@ -7,7 +7,7 @@
 Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.
 { data-search-exclude }
 
-[TMDB](319)
+[TMDB](https://www.themoviedb.org/movie/319)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/True%20Romance%20%281993%29%20DTS-HD%20MA%205.1.jpg)
@@ -21,7 +21,7 @@ Director's Cut
 Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.
 { data-search-exclude }
 
-[TMDB](319)
+[TMDB](https://www.themoviedb.org/movie/319)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/True%20Romance%20%281993%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
@@ -35,7 +35,7 @@ Director's Cut
 Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.
 { data-search-exclude }
 
-[TMDB](319)
+[TMDB](https://www.themoviedb.org/movie/319)
 { data-search-exclude }
 
 ![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/True%20Romance%20%281993%29%20TrueHD%205.1.jpg)

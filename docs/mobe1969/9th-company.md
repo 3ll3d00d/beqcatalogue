@@ -7,7 +7,7 @@
 Russian army recruits complete training and take their posting in late 1980s Afghanistan, where the insurgents are slowly gaining the upper hand.
 { data-search-exclude }
 
-[TMDB](14097)
+[TMDB](https://www.themoviedb.org/movie/14097)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/9th%20Company%20%282005%29%28Ru%29%20DTS-HD%20MA%205.1.jpg)

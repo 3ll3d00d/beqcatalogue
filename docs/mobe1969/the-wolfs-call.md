@@ -7,7 +7,7 @@
 With nuclear war looming, a military expert in underwater acoustics strives to prove things aren't as they seem—or sound—using only his ears.
 { data-search-exclude }
 
-[TMDB](484468)
+[TMDB](https://www.themoviedb.org/movie/484468)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Wolf%27s%20Call%20%282019%29%28Fr%29%20Atmos.jpg)

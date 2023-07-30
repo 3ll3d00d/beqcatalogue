@@ -7,7 +7,7 @@
 Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.
 { data-search-exclude }
 
-[TMDB](739405)
+[TMDB](https://www.themoviedb.org/movie/739405)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Operation%20Fortune%20Ruse%20de%20Guerre%20%282023%29%20Atmos.jpg)
@@ -19,7 +19,7 @@ Special agent Orson Fortune and his team of operatives recruit one of Hollywood'
 Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.
 { data-search-exclude }
 
-[TMDB](739405)
+[TMDB](https://www.themoviedb.org/movie/739405)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Operation%20Fortune%20Ruse%20de%20Guerre%20%282023%29%20DD%2B%205.1.jpg)
@@ -31,7 +31,7 @@ Special agent Orson Fortune and his team of operatives recruit one of Hollywood'
 Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.
 { data-search-exclude }
 
-[TMDB](739405)
+[TMDB](https://www.themoviedb.org/movie/739405)
 { data-search-exclude }
 
 ![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Operation%20Fortune%20Ruse%20de%20Guerre%20%282023%29%20DTS-HD%20MA%205.1.jpg)

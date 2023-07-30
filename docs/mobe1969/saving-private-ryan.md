@@ -7,7 +7,7 @@
 As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.
 { data-search-exclude }
 
-[TMDB](857)
+[TMDB](https://www.themoviedb.org/movie/857)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Saving%20Private%20Ryan%20%281998%29%20Atmos.jpg)
@@ -19,7 +19,7 @@ As U.S. troops storm the beaches of Normandy, three brothers lie dead on the bat
 As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.
 { data-search-exclude }
 
-[TMDB](857)
+[TMDB](https://www.themoviedb.org/movie/857)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Saving%20Private%20Ryan%20%281998%29%20DTS-HD%20MA%205.1.jpg)

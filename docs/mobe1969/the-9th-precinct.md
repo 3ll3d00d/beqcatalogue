@@ -7,7 +7,7 @@
 An idealistic cop joins an underground police unit and battles ghoulish forces threatening the balance between the human and the supernatural realms.
 { data-search-exclude }
 
-[TMDB](615137)
+[TMDB](https://www.themoviedb.org/movie/615137)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/The%209th%20Precinct%20%282019%29%28Ma%29%20DD%2B%205.1.jpg)

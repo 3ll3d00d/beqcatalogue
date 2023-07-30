@@ -7,7 +7,7 @@
 Reporters Loretta McLaughlin and Jean Cole bravely pursue the story of the Boston Strangler at great personal risk, putting their own lives on the line in their quest to uncover the truth.
 { data-search-exclude }
 
-[TMDB](881164)
+[TMDB](https://www.themoviedb.org/movie/881164)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Boston%20Strangler%20%282023%29%20DD%2B%20Atmos.jpg)

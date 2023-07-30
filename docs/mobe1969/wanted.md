@@ -10,7 +10,7 @@ Doormat Wesley Gibson discovers that his recently murdered father - who Wesley n
 UHD and Blu-Ray
 { data-search-exclude }
 
-[TMDB](8909)
+[TMDB](https://www.themoviedb.org/movie/8909)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Wanted%20%282008%29%20DTS-HD%20MA%205.1.jpg)

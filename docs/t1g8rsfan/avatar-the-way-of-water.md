@@ -12,7 +12,7 @@ Set more than a decade after the events of the first film, learn the story of th
 +4dB Dialorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62618243)  [TMDB](76600)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62618243)  [TMDB](https://www.themoviedb.org/movie/76600)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Avatar%20The%20Way%20of%20Water%20(2022)%20(%2B1.5%20gain)%20Atmos.jpg)
@@ -30,7 +30,7 @@ Set more than a decade after the events of the first film, learn the story of th
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62632920)  [TMDB](76600)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62632920)  [TMDB](https://www.themoviedb.org/movie/76600)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Avatar-%20The%20Way%20of%20Water%20(2022)%203D%20Disc%201%20(%2B2.5%20gain)%20DTS-HD%20MA%207.1.jpg)
@@ -48,7 +48,7 @@ Set more than a decade after the events of the first film, learn the story of th
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62632920)  [TMDB](76600)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62632920)  [TMDB](https://www.themoviedb.org/movie/76600)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Avatar-%20The%20Way%20of%20Water%20(2022)%203D-Disc%202%20(%2B1.5%20gain)%20DTS-HD%20MA%207.1.jpg)

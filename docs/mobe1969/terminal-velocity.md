@@ -7,7 +7,7 @@
 A maverick skydiver and a former KGB agent team up to stop the Russian mafia from stealing gold.
 { data-search-exclude }
 
-[TMDB](9057)
+[TMDB](https://www.themoviedb.org/movie/9057)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Terminal%20Velocity%20%281994%29%20DTS-HD%20MA%205.1.jpg)

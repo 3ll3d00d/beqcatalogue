@@ -7,7 +7,7 @@
 A web-comic artist finds that a series of murders are occurring that have a disturbing resemblance to the images in her work.
 { data-search-exclude }
 
-[TMDB](204260)
+[TMDB](https://www.themoviedb.org/movie/204260)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Killer%20Toon%20%282013%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)

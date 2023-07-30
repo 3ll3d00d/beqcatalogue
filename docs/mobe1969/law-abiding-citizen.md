@@ -7,7 +7,7 @@
 A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.
 { data-search-exclude }
 
-[TMDB](22803)
+[TMDB](https://www.themoviedb.org/movie/22803)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Law%20Abiding%20Citizen%20%282009%29%20Atmos.jpg)

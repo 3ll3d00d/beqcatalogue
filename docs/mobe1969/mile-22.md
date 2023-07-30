@@ -7,7 +7,7 @@
 An elite group of American operatives, aided by a top-secret tactical command team, must transport an asset who holds life-threatening information to an extraction point 22 miles away through the hostile streets of an Asian city.
 { data-search-exclude }
 
-[TMDB](347375)
+[TMDB](https://www.themoviedb.org/movie/347375)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mile%2022%20%282018%29%20DD%2B%205.1.jpg)
@@ -19,7 +19,7 @@ An elite group of American operatives, aided by a top-secret tactical command te
 An elite group of American operatives, aided by a top-secret tactical command team, must transport an asset who holds life-threatening information to an extraction point 22 miles away through the hostile streets of an Asian city.
 { data-search-exclude }
 
-[TMDB](347375)
+[TMDB](https://www.themoviedb.org/movie/347375)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mile%2022%20%282018%29%20DTS-HD%20MA%207.1.jpg)

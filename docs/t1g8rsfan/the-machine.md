@@ -9,7 +9,7 @@ Bert Kreischer faces a familial crisis and the arrival of his estranged father w
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62638566)  [TMDB](647250)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62638566)  [TMDB](https://www.themoviedb.org/movie/647250)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Machine%20(2023)%20(%2B4%20gain)%20DD%2B.jpg)

@@ -7,7 +7,7 @@
 In a California desert town, a short-order cook with clairvoyant abilities encounters a mysterious man with a link to dark, threatening forces.
 { data-search-exclude }
 
-[TMDB](179826)
+[TMDB](https://www.themoviedb.org/movie/179826)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Odd%20Thomas%20%282013%29%20DTS-HD%20MA%205.1.jpg)

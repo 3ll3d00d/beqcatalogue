@@ -7,7 +7,7 @@
 The Menu is a 2016 Hong Kong drama film about journalism and the sequel to the television series of the same name.
 { data-search-exclude }
 
-[TMDB](423125)
+[TMDB](https://www.themoviedb.org/movie/423125)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Menu%20%282016%29%28Ca%29%20TrueHD%205.1.jpg)

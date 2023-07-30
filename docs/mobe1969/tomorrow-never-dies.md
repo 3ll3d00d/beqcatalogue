@@ -10,7 +10,7 @@ A deranged media mogul is staging international incidents to pit the world's sup
 DD+ 5dB down
 { data-search-exclude }
 
-[TMDB](714)
+[TMDB](https://www.themoviedb.org/movie/714)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Tomorrow%20Never%20Dies%20%281997%29%20DTS-HD%20MA%205.1.jpg)

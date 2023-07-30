@@ -9,7 +9,7 @@ Led by a strange dream, scientist Aki Ross struggles to collect the eight spirit
 
 **MV Adjustment:** -3.0 dB
 
-[TMDB](2114)
+[TMDB](https://www.themoviedb.org/movie/2114)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Final%20Fantasy%20Spirits%20Within%20(2001)%20PvA%20v4.jpg)

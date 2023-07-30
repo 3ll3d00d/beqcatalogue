@@ -12,7 +12,7 @@ When the dastardly Sheriff of Nottingham murders Robin's father, the legendary a
 UHD
 { data-search-exclude }
 
-[TMDB](8367)
+[TMDB](https://www.themoviedb.org/movie/8367)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Robin%20Hood%20Prince%20of%20Thieves%20%281991%29%28UHD%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
@@ -29,7 +29,7 @@ When the dastardly Sheriff of Nottingham murders Robin's father, the legendary a
 UHD
 { data-search-exclude }
 
-[TMDB](8367)
+[TMDB](https://www.themoviedb.org/movie/8367)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Robin%20Hood%20Prince%20of%20Thieves%20%281991%29%28UHD%29%28TC%29%20DTS-HD%20MA%205.1.jpg)

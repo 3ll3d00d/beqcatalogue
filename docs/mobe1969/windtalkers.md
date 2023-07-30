@@ -9,7 +9,7 @@ Director's Cut
 Joe Enders is a gung-ho Marine assigned to protect a "windtalker" - one of several Navajo Indians who were used to relay messages during World War II because their spoken language was indecipherable to Japanese code breakers.
 { data-search-exclude }
 
-[TMDB](12100)
+[TMDB](https://www.themoviedb.org/movie/12100)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Windtalkers%20%282002%29%28DC%29%20AC3%205.1.jpg)
@@ -21,7 +21,7 @@ Joe Enders is a gung-ho Marine assigned to protect a "windtalker" - one of sever
 Joe Enders is a gung-ho Marine assigned to protect a "windtalker" - one of several Navajo Indians who were used to relay messages during World War II because their spoken language was indecipherable to Japanese code breakers.
 { data-search-exclude }
 
-[TMDB](12100)
+[TMDB](https://www.themoviedb.org/movie/12100)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Windtalkers%20%282002%29%20DTS-HD%20MA%205.1.jpg)

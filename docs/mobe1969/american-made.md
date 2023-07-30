@@ -10,7 +10,7 @@ The true story of pilot Barry Seal, who transported contraband for the CIA and t
 DD+ 4dB down
 { data-search-exclude }
 
-[TMDB](337170)
+[TMDB](https://www.themoviedb.org/movie/337170)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/American%20Made%20%282017%29%20DTS-X.jpg)

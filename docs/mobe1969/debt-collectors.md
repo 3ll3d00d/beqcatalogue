@@ -7,7 +7,7 @@
 A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.
 { data-search-exclude }
 
-[TMDB](647785)
+[TMDB](https://www.themoviedb.org/movie/647785)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Debt%20Collectors%20%282020%29%20DTS-HD%20MA%205.1.jpg)

@@ -7,7 +7,7 @@
 John Henry returns to his hometown in hopes of repairing his relationship with his estranged father, but a local gang is terrorizing the town. John Henry is the only one who can stop them, however he has abandoned both his gun and reputation as a fearless quick-draw killer.
 { data-search-exclude }
 
-[TMDB](354110)
+[TMDB](https://www.themoviedb.org/movie/354110)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Forsaken%20%282015%29%20DTS-HD%20MA%205.1.jpg)

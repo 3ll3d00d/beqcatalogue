@@ -7,7 +7,7 @@
 After starting their own detective agency, Nick and Audrey Spitz land a career-making case when their billionaire pal is kidnapped from his wedding.
 { data-search-exclude }
 
-[TMDB](638974)
+[TMDB](https://www.themoviedb.org/movie/638974)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Murder%20Mystery%202%20%282023%29%20DD%2B%20Atmos.jpg)

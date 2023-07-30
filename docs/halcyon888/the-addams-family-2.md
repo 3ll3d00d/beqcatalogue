@@ -9,7 +9,7 @@ The Addams get tangled up in more wacky adventures and find themselves involved 
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62610012)  [TMDB](639721)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62610012)  [TMDB](https://www.themoviedb.org/movie/639721)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Addams%20Family%202%20THD%20Atmos%20PvA.jpg)

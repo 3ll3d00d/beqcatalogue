@@ -9,7 +9,7 @@ Director's Cut
 In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.
 { data-search-exclude }
 
-[TMDB](242)
+[TMDB](https://www.themoviedb.org/movie/242)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/The%20Godfather%20Part%20III%20%281990%29%28DC%29%20TrueHD%205.1.jpg)
@@ -23,7 +23,7 @@ Theatrical Cut
 In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.
 { data-search-exclude }
 
-[TMDB](242)
+[TMDB](https://www.themoviedb.org/movie/242)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/The%20Godfather%20Part%20III%20%281990%29%28TC%29%20TrueHD%205.1.jpg)

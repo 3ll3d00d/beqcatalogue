@@ -7,7 +7,7 @@
 After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
 { data-search-exclude }
 
-[TMDB](443791)
+[TMDB](https://www.themoviedb.org/movie/443791)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/U/Underwater%20%282020%29%20DTS-HD%20MA%207.1.jpg)

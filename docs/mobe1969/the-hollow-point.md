@@ -7,7 +7,7 @@
 Los Reyes County, Arizona. Leland, a retired lawman, works with Wallace, the new sheriff who replaces him, when a vicious hit man, sent by a Mexican drug cartel, threatens their border small town.
 { data-search-exclude }
 
-[TMDB](262982)
+[TMDB](https://www.themoviedb.org/movie/262982)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Hollow%20Point%20%282016%29%20DTS-HD%20MA%205.1.jpg)

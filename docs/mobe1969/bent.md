@@ -7,7 +7,7 @@
 On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.
 { data-search-exclude }
 
-[TMDB](505579)
+[TMDB](https://www.themoviedb.org/movie/505579)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bent%20%282018%29%20DTS-HD%20MA%205.1.jpg)

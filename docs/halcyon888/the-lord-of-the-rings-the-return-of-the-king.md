@@ -11,7 +11,7 @@ Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the othe
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62475889)  [TMDB](122)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62475889)  [TMDB](https://www.themoviedb.org/movie/122)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/LOTR3%20PvA.jpg)

@@ -9,7 +9,7 @@ When a gunman takes five lives with six shots, all evidence points to the suspec
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62714976)  [TMDB](75780)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62714976)  [TMDB](https://www.themoviedb.org/movie/75780)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Jack%20Reacher%20(2012)%20(%2B1%20gain)%20DTS-HD%20MA%207.1.jpg)

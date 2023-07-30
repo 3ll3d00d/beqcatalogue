@@ -10,7 +10,7 @@ Ethan Hunt and his team are racing against time to track down a dangerous terror
 DD+ 5dB down
 { data-search-exclude }
 
-[TMDB](56292)
+[TMDB](https://www.themoviedb.org/movie/56292)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mission%20Impossible%20-%20Ghost%20Protocol%20%282011%29%20TrueHD%207.1.jpg)

@@ -10,7 +10,7 @@ A Muslim ambassador exiled from his homeland, Ahmad ibn Fadlan finds himself in 
 French Blu-Ray
 { data-search-exclude }
 
-[TMDB](1911)
+[TMDB](https://www.themoviedb.org/movie/1911)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/The%2013th%20Warrior%20%281999%29%20DTS-HD%20MA%205.1.jpg)
@@ -25,7 +25,7 @@ A Muslim ambassador exiled from his homeland, Ahmad ibn Fadlan finds himself in 
 German Blu-Ray
 { data-search-exclude }
 
-[TMDB](1911)
+[TMDB](https://www.themoviedb.org/movie/1911)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/The%2013th%20Warrior%20%281999%29%28GD%29%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@ A three-person crew on a mission to Mars faces an impossible choice when an unpl
 
 **MV Adjustment:** +9.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62556562)  [TMDB](559581)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62556562)  [TMDB](https://www.themoviedb.org/movie/559581)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Stowaway%20(2021)%20(%2B9%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -12,7 +12,7 @@ A fictional history of two legendary revolutionaries' journey away from home bef
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62476607)  [TMDB](579974)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62476607)  [TMDB](https://www.themoviedb.org/movie/579974)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/rrr%20PvA%20v3.jpg)

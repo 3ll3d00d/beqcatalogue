@@ -7,7 +7,7 @@
 When they take some friends on an extreme sport adventure, the last thing Jared and Sam expect to see below the shark-infested waters is a legendary pirate ship rumored to contain millions of dollars in gold. But their good fortune is short-lived, as a ruthless gang of criminals gets word of what they have uncovered.
 { data-search-exclude }
 
-[TMDB](11968)
+[TMDB](https://www.themoviedb.org/movie/11968)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Into%20the%20Blue%20%282005%29%20DD%2B%205.1.jpg)
@@ -19,7 +19,7 @@ When they take some friends on an extreme sport adventure, the last thing Jared 
 When they take some friends on an extreme sport adventure, the last thing Jared and Sam expect to see below the shark-infested waters is a legendary pirate ship rumored to contain millions of dollars in gold. But their good fortune is short-lived, as a ruthless gang of criminals gets word of what they have uncovered.
 { data-search-exclude }
 
-[TMDB](11968)
+[TMDB](https://www.themoviedb.org/movie/11968)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Into%20the%20Blue%20%282005%29%20LPCM%205.1.jpg)

@@ -9,7 +9,7 @@ A detective becomes entangled in a mystery involving his missing daughter and a 
 
 **MV Adjustment:** +2.5 dB
 
-[TMDB](536437)
+[TMDB](https://www.themoviedb.org/movie/536437)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Hypnotic%20(2023)%20(%2B2.5%20gain)%20DD%2B.jpg)

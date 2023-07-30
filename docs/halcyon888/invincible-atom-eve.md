@@ -12,7 +12,7 @@ In this special prequel episode, Samantha 'Atom Eve' Wilkins discovers her super
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62701364)  [TMDB](1155267)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62701364)  [TMDB](https://www.themoviedb.org/movie/1155267)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Invincible%20-%20Atom%20Eve%202023%20PvA.jpg)

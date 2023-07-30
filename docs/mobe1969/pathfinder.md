@@ -9,7 +9,7 @@ Extended Cut
 A Viking boy is left behind after his clan battles a Native American tribe. Raised within the tribe, he ultimately becomes their savior in a fight against the Norsemen.
 { data-search-exclude }
 
-[TMDB](1534)
+[TMDB](https://www.themoviedb.org/movie/1534)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Pathfinder%20%282007%29%28EC%29%20DTS-HD%20MA%205.1.jpg)

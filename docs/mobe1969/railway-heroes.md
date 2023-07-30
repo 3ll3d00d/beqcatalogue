@@ -7,7 +7,7 @@
 The historical story of an enemy fighting the wits and courage of an extraordinary brave group of ordinary heroes known as the "Lunan Railway Brigade" who desperately fight to defend their homeland.
 { data-search-exclude }
 
-[TMDB](889227)
+[TMDB](https://www.themoviedb.org/movie/889227)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Railway%20Heroes%20%282021%29%28Ma%29%20AAC%205.1.jpg)

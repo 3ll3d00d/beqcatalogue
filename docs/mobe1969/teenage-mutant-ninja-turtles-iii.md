@@ -7,7 +7,7 @@
 The four turtles travel back in time to the days of the legendary and deadly samurai in ancient Japan, where they train to perfect the art of becoming one. The turtles also assist a small village in an uprising.
 { data-search-exclude }
 
-[TMDB](1499)
+[TMDB](https://www.themoviedb.org/movie/1499)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Teenage%20Mutant%20Ninja%20Turtles%20III%20%281993%29%20DD%2B%205.1.jpg)

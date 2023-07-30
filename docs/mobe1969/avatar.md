@@ -9,7 +9,7 @@ Theatrical Cut
 In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.
 { data-search-exclude }
 
-[TMDB](19995)
+[TMDB](https://www.themoviedb.org/movie/19995)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Avatar%20%282009%29%28TC%29%20Atmos.jpg)
@@ -23,7 +23,7 @@ Director's Cut
 In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.
 { data-search-exclude }
 
-[TMDB](19995)
+[TMDB](https://www.themoviedb.org/movie/19995)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Avatar%20%282009%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
@@ -37,7 +37,7 @@ Extended Cut
 In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.
 { data-search-exclude }
 
-[TMDB](19995)
+[TMDB](https://www.themoviedb.org/movie/19995)
 { data-search-exclude }
 
 ![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Avatar%20%282009%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
@@ -51,7 +51,7 @@ Theatrical Cut
 In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.
 { data-search-exclude }
 
-[TMDB](19995)
+[TMDB](https://www.themoviedb.org/movie/19995)
 { data-search-exclude }
 
 ![img 3](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Avatar%20%282009%29%28TC%29%20DTS-HD%20MA%205.1.jpg)

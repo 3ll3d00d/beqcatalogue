@@ -9,7 +9,7 @@ A celebrity model couple are invited on a luxury cruise for the uber-rich, helme
 
 **MV Adjustment:** +9.0 dB
 
-[TMDB](497828)
+[TMDB](https://www.themoviedb.org/movie/497828)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Triangle%20of%20Sadness%202022%20PvA%20THD%20Atmos.jpg)
@@ -25,7 +25,7 @@ A celebrity model couple are invited on a luxury cruise for the uber-rich, helme
 
 **MV Adjustment:** +6.5 dB
 
-[TMDB](497828)
+[TMDB](https://www.themoviedb.org/movie/497828)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Triangle%20of%20Sadness%202022%20PvA%20DDP.jpg)

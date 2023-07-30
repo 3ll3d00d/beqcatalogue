@@ -7,7 +7,7 @@
 CIA Analyst Jack Ryan is drawn into an illegal war fought by the US government against a Colombian drug cartel.
 { data-search-exclude }
 
-[TMDB](9331)
+[TMDB](https://www.themoviedb.org/movie/9331)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Clear%20and%20Present%20Danger%20%281994%29%20TrueHD%205.1.jpg)

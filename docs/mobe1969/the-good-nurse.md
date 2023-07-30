@@ -7,7 +7,7 @@
 Suspicious that her colleague is responsible for a series of mysterious patient deaths, a nurse risks her own life to uncover the truth.
 { data-search-exclude }
 
-[TMDB](541134)
+[TMDB](https://www.themoviedb.org/movie/541134)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/The%20Good%20Nurse%20%282022%29%20DD%2B%20Atmos.jpg)

@@ -12,7 +12,7 @@ Captain Jack Sparrow works his way out of a blood debt with the ghostly Davy Jon
 BEQ Note: This BEQ was contributed to the catalogue by AVS Forum member Magly, thank you!
 { data-search-exclude }
 
-[TMDB](58)
+[TMDB](https://www.themoviedb.org/movie/58)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Pirates%20of%20the%20Caribbean%20Dead%20Mans%20Chest%20(2006)%20Atmos%20PvA.png)

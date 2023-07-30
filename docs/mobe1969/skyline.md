@@ -7,7 +7,7 @@
 When strange lights descend on the city of Los Angeles, people are drawn outside like moths to a flame where an extraterrestrial force threatens to swallow the entire human population off the face of the Earth. Now the band of survivors must fight for their lives as the world unravels around them.
 { data-search-exclude }
 
-[TMDB](42684)
+[TMDB](https://www.themoviedb.org/movie/42684)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Skyline%20%282010%29%20DTS-HD%20MA%205.1.jpg)
@@ -24,7 +24,7 @@ When strange lights descend on the city of Los Angeles, people are drawn outside
 UHD
 { data-search-exclude }
 
-[TMDB](42684)
+[TMDB](https://www.themoviedb.org/movie/42684)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Skyline%20%282010%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

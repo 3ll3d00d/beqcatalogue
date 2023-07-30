@@ -9,7 +9,7 @@ When his attempt to save his family inadvertently alters the future, Barry Allen
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62686867)  [TMDB](298618)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62686867)  [TMDB](https://www.themoviedb.org/movie/298618)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Flash%20(2023)%20(%2B5%20gain)%20DD%2BAtmos.jpg)

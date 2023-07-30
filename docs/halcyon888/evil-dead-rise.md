@@ -12,7 +12,7 @@ Two sisters find an ancient vinyl that gives birth to bloodthirsty demons that r
 +11dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](713704)
+[TMDB](https://www.themoviedb.org/movie/713704)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Evil%20Dead%20Rise%202023%20PvA%20v1.jpg)

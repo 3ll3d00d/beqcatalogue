@@ -12,7 +12,7 @@ The world is stunned when a group of time travelers arrive from the year 2051 to
 +7dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](588228)
+[TMDB](https://www.themoviedb.org/movie/588228)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Tomorrow%20War%202021%20PvA%20v4.jpg)

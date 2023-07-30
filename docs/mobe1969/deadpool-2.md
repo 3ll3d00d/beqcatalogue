@@ -9,7 +9,7 @@ Extended Cut
 Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.
 { data-search-exclude }
 
-[TMDB](383498)
+[TMDB](https://www.themoviedb.org/movie/383498)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deadpool%202%20%282018%29%28EC%29%20Atmos.jpg)
@@ -23,7 +23,7 @@ Theatrical Cut
 Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.
 { data-search-exclude }
 
-[TMDB](383498)
+[TMDB](https://www.themoviedb.org/movie/383498)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Deadpool%202%20%282018%29%28TC%29%20Atmos.jpg)

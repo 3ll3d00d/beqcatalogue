@@ -9,7 +9,7 @@ When a powerful satellite system falls into the hands of Alec Trevelyan, AKA Age
 
 **MV Adjustment:** -2.0 dB
 
-[TMDB](710)
+[TMDB](https://www.themoviedb.org/movie/710)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/goldeneye%201995%20PvA%20v2.jpg)

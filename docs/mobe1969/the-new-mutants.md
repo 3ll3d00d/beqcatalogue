@@ -7,7 +7,7 @@
 Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
 { data-search-exclude }
 
-[TMDB](340102)
+[TMDB](https://www.themoviedb.org/movie/340102)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/The%20New%20Mutants%20%282020%29%20Atmos.jpg)

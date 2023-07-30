@@ -9,7 +9,7 @@ Extended Cut
 In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.
 { data-search-exclude }
 
-[TMDB](82675)
+[TMDB](https://www.themoviedb.org/movie/82675)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Taken%202%20%282012%29%28EC%29%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@ Extended Cut
 An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.
 { data-search-exclude }
 
-[TMDB](2164)
+[TMDB](https://www.themoviedb.org/movie/2164)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stargate%20%281994%29%28EC%29%20DTS-HD%20MA%207.1.jpg)
@@ -23,7 +23,7 @@ Theatrical Cut
 An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.
 { data-search-exclude }
 
-[TMDB](2164)
+[TMDB](https://www.themoviedb.org/movie/2164)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stargate%20%281994%29%28TC%29%20DTS-HD%20MA%207.1.jpg)

@@ -9,7 +9,7 @@ Unrated Cut
 Popular high schoolers and best friends Shawn and Nick decide to ditch football camp for cheerleader camp. For the girls and for the glory.
 { data-search-exclude }
 
-[TMDB](17927)
+[TMDB](https://www.themoviedb.org/movie/17927)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fired%20Up%21%20%282009%29%28Unrated%29%20TrueHD%205.1.jpg)

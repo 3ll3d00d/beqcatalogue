@@ -9,7 +9,7 @@ Based on the bestselling book series, DreamWorks Animation presents the long-awa
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62636745)  [TMDB](268531)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62636745)  [TMDB](https://www.themoviedb.org/movie/268531)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Captain%20Underpants%20The%20First%20Epic%20Movie%20(2017)%20PvA.jpg)

@@ -10,7 +10,7 @@ Phil Broker is a former DEA agent who has gone through a crisis after his action
 DD+ 5dB down
 { data-search-exclude }
 
-[TMDB](204082)
+[TMDB](https://www.themoviedb.org/movie/204082)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Homefront%20%282013%29%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@ Theatrical Cut
 The heroic story of a dictator who risks his life to ensure that democracy would never come to the country he so lovingly oppressed.
 { data-search-exclude }
 
-[TMDB](76493)
+[TMDB](https://www.themoviedb.org/movie/76493)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Dictator%20%282012%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
@@ -23,7 +23,7 @@ Unrated Cut
 The heroic story of a dictator who risks his life to ensure that democracy would never come to the country he so lovingly oppressed.
 { data-search-exclude }
 
-[TMDB](76493)
+[TMDB](https://www.themoviedb.org/movie/76493)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Dictator%20%282012%29%28UC%29%20DTS-HD%20MA%205.1.jpg)

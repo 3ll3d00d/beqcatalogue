@@ -7,7 +7,7 @@
 Buried by treacherous conditions at the top of Mt. Baekdu, a policeman must brave the extreme weather until his transfer comes through. When a group of thieves stumbles into the station in search of safe shelter, both sides must fight for survival.
 { data-search-exclude }
 
-[TMDB](591051)
+[TMDB](https://www.themoviedb.org/movie/591051)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Savage%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)

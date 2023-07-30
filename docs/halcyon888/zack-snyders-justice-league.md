@@ -9,7 +9,7 @@ Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne 
 
 **MV Adjustment:** +7.0 dB
 
-[TMDB](791373)
+[TMDB](https://www.themoviedb.org/movie/791373)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Zack%20Snyders%20Justice%20League%202021%20PvA%20v4.jpg)

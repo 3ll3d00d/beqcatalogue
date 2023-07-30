@@ -9,7 +9,7 @@ Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents
 
 **MV Adjustment:** +1.0 dB
 
-[TMDB](640146)
+[TMDB](https://www.themoviedb.org/movie/640146)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/ant%20man%20and%20the%20wasp%20quantumania%20PvA%20v2%20THD%20Atmos.jpg)
@@ -28,7 +28,7 @@ Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62497815)  [TMDB](640146)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62497815)  [TMDB](https://www.themoviedb.org/movie/640146)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/ant%20man%20and%20the%20wasp%20quantumania%20PvA%20v2.png)

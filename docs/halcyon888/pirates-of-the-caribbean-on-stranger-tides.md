@@ -12,7 +12,7 @@ Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure
 BEQ Note: This BEQ was contributed to the catalogue by AVS Forum member Magly, thank you!
 { data-search-exclude }
 
-[TMDB](1865)
+[TMDB](https://www.themoviedb.org/movie/1865)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Pirates%20of%20the%20Caribbean%20On%20Stranger%20Tides%20(2011)%20Atmos%20PvA.png)

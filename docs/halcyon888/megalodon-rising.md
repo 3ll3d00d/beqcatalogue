@@ -9,7 +9,7 @@ When history's greatest aquatic predator returns, the armada of modern warships 
 
 **MV Adjustment:** +11.5 dB
 
-[TMDB](866462)
+[TMDB](https://www.themoviedb.org/movie/866462)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Megalodon%20Rising%202023%20PvA%20v2.jpg)

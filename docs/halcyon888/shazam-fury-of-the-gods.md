@@ -9,7 +9,7 @@ Billy Batson and his foster siblings, who transform into superheroes by saying "
 
 **MV Adjustment:** +6.5 dB
 
-[TMDB](594767)
+[TMDB](https://www.themoviedb.org/movie/594767)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Shazam!%20Fury%20of%20the%20Gods%20(2023)%20PvA.jpg)

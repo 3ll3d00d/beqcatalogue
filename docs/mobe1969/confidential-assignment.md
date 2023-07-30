@@ -7,7 +7,7 @@
 When a crime organization from North Korea crosses borders and enters South Korean soil, a South Korean detective must cooperate with a North Korean detective to investigate their whereabouts.
 { data-search-exclude }
 
-[TMDB](434119)
+[TMDB](https://www.themoviedb.org/movie/434119)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Confidential%20Assignment%20%282017%29%28Ko%29%20TrueHD%205.1.jpg)

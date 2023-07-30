@@ -7,7 +7,7 @@
 Inspector Amaia Salazar must return to the Baztan valley in order to solve a series of suicides that seem to follow a similar pattern.
 { data-search-exclude }
 
-[TMDB](613099)
+[TMDB](https://www.themoviedb.org/movie/613099)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Legacy%20of%20the%20Bones%20%282019%29%28Es%29%20DD%2B%205.1.jpg)
@@ -19,7 +19,7 @@ Inspector Amaia Salazar must return to the Baztan valley in order to solve a ser
 Inspector Amaia Salazar must return to the Baztan valley in order to solve a series of suicides that seem to follow a similar pattern.
 { data-search-exclude }
 
-[TMDB](613099)
+[TMDB](https://www.themoviedb.org/movie/613099)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Legacy%20of%20the%20Bones%20%282020%29%28Es%29%20DD%2B%205.1.jpg)

@@ -12,7 +12,7 @@ For all who remember Cannonball Run. Here is a modern twist on the subject. The 
 BEQ Note: This BEQ was contributed to the catalogue by AVS Forum member Magly, thank you!
 { data-search-exclude }
 
-[TMDB](284279)
+[TMDB](https://www.themoviedb.org/movie/284279)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Burnout%20(2014)%20DTS-HD%20MA%205.1.png)

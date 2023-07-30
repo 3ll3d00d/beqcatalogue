@@ -7,7 +7,7 @@
 Dee, the detective serving Chinese empress Wu Zetian, is called upon to investigate a series of strange events in Loyang, including the appearance of mysterious warriors wearing Chiyou ghost masks, foxes that speak human language and the pillar sculptures in the palace coming alive.
 { data-search-exclude }
 
-[TMDB](506763)
+[TMDB](https://www.themoviedb.org/movie/506763)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Detective%20Dee%20The%20Four%20Heavenly%20Kings%20%282018%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)

@@ -12,7 +12,7 @@ Tasked with extracting a family who is at the mercy of a Georgian gangster, Tyle
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62630758)  [TMDB](697843)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62630758)  [TMDB](https://www.themoviedb.org/movie/697843)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Extraction%202%20(2023)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

@@ -7,7 +7,7 @@
 When a big-city family moves to a remote town, two young brothers and their new friends try to solve the menacing mystery that haunts their home.
 { data-search-exclude }
 
-[TMDB](735595)
+[TMDB](https://www.themoviedb.org/movie/735595)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Strange%20House%20%282020%29%28De%29%20DD%2B%205.1.jpg)

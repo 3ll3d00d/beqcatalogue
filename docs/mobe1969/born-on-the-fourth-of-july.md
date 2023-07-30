@@ -7,7 +7,7 @@
 The biography of Ron Kovic. Paralyzed in the Vietnam war, he becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.
 { data-search-exclude }
 
-[TMDB](2604)
+[TMDB](https://www.themoviedb.org/movie/2604)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Born%20on%20the%20Fourth%20of%20July%20%281989%29%20DTS-HD%20MA%205.1.jpg)

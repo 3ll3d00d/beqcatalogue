@@ -7,7 +7,7 @@
 A fictional documentary discusses the effects the Iraq war has had on soldiers and local people through interviews with members of an American military unit, the media, and local Iraqis.
 { data-search-exclude }
 
-[TMDB](11600)
+[TMDB](https://www.themoviedb.org/movie/11600)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Redacted%20%282007%29%20DTS-HD%20MA%205.1.jpg)

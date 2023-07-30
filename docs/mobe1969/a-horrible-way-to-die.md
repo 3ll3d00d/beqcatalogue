@@ -7,7 +7,7 @@
 An escaped murderer is in pursuit of his ex-girlfriend, who has fled to start a new life in a small town.
 { data-search-exclude }
 
-[TMDB](44950)
+[TMDB](https://www.themoviedb.org/movie/44950)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20Horrible%20Way%20to%20Die%20%282010%29%20DTS-HD%20MA%205.1.jpg)

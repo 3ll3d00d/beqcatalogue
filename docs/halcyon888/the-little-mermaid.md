@@ -12,7 +12,7 @@ The youngest of King Triton’s daughters, and the most defiant, Ariel longs to 
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62705490)  [TMDB](447277)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62705490)  [TMDB](https://www.themoviedb.org/movie/447277)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Little%20Mermaid%202023%20DDP%20Atmos%20PvA.jpg)

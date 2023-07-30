@@ -12,7 +12,7 @@ Captain Barbossa, long believed to be dead, has come back to life and is headed 
 BEQ Note: This BEQ was contributed to the catalogue by AVS Forum member Magly, thank you!
 { data-search-exclude }
 
-[TMDB](285)
+[TMDB](https://www.themoviedb.org/movie/285)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Pirates%20of%20the%20Caribbean%20At%20Worlds%20End%20(2007)%20Atmos%20PvA.png)

@@ -12,7 +12,7 @@ After years of separation, Irena and her minister brother, Paul, reunite in New 
 UHD
 { data-search-exclude }
 
-[TMDB](6217)
+[TMDB](https://www.themoviedb.org/movie/6217)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cat%20People%20%281982%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

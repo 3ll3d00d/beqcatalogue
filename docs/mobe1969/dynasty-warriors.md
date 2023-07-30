@@ -7,7 +7,7 @@
 In the turbulent late Eastern Han Dynasty. Ambitious Dong Zhuo controls the court and the commonalty, and heroes from all over the country begin to rise.
 { data-search-exclude }
 
-[TMDB](525660)
+[TMDB](https://www.themoviedb.org/movie/525660)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dynasty%20Warriors%20%282021%29%28Ca%29%20DD%2B%205.1.jpg)
@@ -19,7 +19,7 @@ In the turbulent late Eastern Han Dynasty. Ambitious Dong Zhuo controls the cour
 In the turbulent late Eastern Han Dynasty. Ambitious Dong Zhuo controls the court and the commonalty, and heroes from all over the country begin to rise.
 { data-search-exclude }
 
-[TMDB](525660)
+[TMDB](https://www.themoviedb.org/movie/525660)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dynasty%20Warriors%20%282021%29%28Ca%29%20DD%2B%20Atmos.jpg)

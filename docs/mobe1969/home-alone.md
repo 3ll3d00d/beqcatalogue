@@ -10,7 +10,7 @@ Eight-year-old Kevin McCallister makes the most of the situation after his famil
 **UHD ONLY - DO NOT USE ON BLU-RAY**
 { data-search-exclude }
 
-[TMDB](771)
+[TMDB](https://www.themoviedb.org/movie/771)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Home%20Alone%20%281990%29%20DTS-HD%20MA%205.1.jpg)

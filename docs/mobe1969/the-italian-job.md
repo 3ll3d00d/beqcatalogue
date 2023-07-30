@@ -12,7 +12,7 @@ Charlie's got a 'job' to do. Having just left prison he finds one of his friends
 UHD
 { data-search-exclude }
 
-[TMDB](10536)
+[TMDB](https://www.themoviedb.org/movie/10536)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/The%20Italian%20Job%20%281969%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@ After dominating the boxing world, Adonis Creed has been thriving in both his ca
 
 **MV Adjustment:** +1.0 dB
 
-[TMDB](677179)
+[TMDB](https://www.themoviedb.org/movie/677179)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/creed3%20THD%20Atmos%20PvA%20v2.jpg)
@@ -28,7 +28,7 @@ After dominating the boxing world, Adonis Creed has been thriving in both his ca
 +5dB dialnorm compensation
 { data-search-exclude }
 
-[TMDB](677179)
+[TMDB](https://www.themoviedb.org/movie/677179)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/creed3%20PvA%20v2.jpg)

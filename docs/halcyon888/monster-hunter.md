@@ -9,7 +9,7 @@ A portal transports Cpt. Artemis and an elite unit of soldiers to a strange worl
 
 **MV Adjustment:** -4.0 dB
 
-[TMDB](458576)
+[TMDB](https://www.themoviedb.org/movie/458576)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Monster%20Hunter%202020%20PvA%20v2.jpg)

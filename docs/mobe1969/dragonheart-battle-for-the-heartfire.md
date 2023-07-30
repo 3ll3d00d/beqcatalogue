@@ -7,7 +7,7 @@
 When the King Gareth dies, his potential heirs, twin grandchildren who possess the dragon’s unique strengths, use their inherited powers against each other to vie for the throne. When Drago’s source of power – known as the Heartfire – is stolen, more than the throne is at stake; the siblings must end their rivalry with swords and sorcery or the kingdom may fall.
 { data-search-exclude }
 
-[TMDB](451644)
+[TMDB](https://www.themoviedb.org/movie/451644)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dragonheart%20Battle%20for%20the%20Heartfire%20%282017%29%20DTS-HD%20MA%205.1.jpg)

@@ -12,7 +12,7 @@ When a new threat capable of destroying the entire planet emerges, Optimus Prime
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](667538)
+[TMDB](https://www.themoviedb.org/movie/667538)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Transformers%20Rise%20of%20the%20Beasts%202023%20PvA.jpg)

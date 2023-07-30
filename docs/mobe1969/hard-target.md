@@ -10,7 +10,7 @@
 When a woman's father goes missing, she enlists a local to aid in her search.  The pair soon discover that her father has died at the hands of a wealthy sportsman who hunts homeless men as a form of recreation.
 { data-search-exclude }
 
-[TMDB](2019)
+[TMDB](https://www.themoviedb.org/movie/2019)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hard%20Target%20%281993%29%20DTS-HD%20MA%205.1.jpg)

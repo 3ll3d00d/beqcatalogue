@@ -12,7 +12,7 @@ A football player and his mates travel to the planet Mongo and find themselves f
 UHD
 { data-search-exclude }
 
-[TMDB](3604)
+[TMDB](https://www.themoviedb.org/movie/3604)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Flash%20Gordon%20%281980%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

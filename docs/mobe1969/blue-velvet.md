@@ -7,7 +7,7 @@
 The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of criminals who have kidnapped her child.
 { data-search-exclude }
 
-[TMDB](793)
+[TMDB](https://www.themoviedb.org/movie/793)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blue%20Velvet%20%281986%29%20DTS-HD%20MA%205.1.jpg)
@@ -22,7 +22,7 @@ The discovery of a severed human ear found in a field leads a young man on an in
 Criterion
 { data-search-exclude }
 
-[TMDB](793)
+[TMDB](https://www.themoviedb.org/movie/793)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blue%20Velvet%20%281986%29%28Cri%29%20DTS-HD%20MA%205.1.jpg)

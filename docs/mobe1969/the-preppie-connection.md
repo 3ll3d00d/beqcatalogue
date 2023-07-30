@@ -7,7 +7,7 @@
 A student at a private school uses his connections to establish a drug trafficking network.
 { data-search-exclude }
 
-[TMDB](362478)
+[TMDB](https://www.themoviedb.org/movie/362478)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Preppie%20Connection%20%282016%29%20DTS-HD%20MA%205.1.jpg)

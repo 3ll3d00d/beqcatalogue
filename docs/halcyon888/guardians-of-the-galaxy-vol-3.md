@@ -12,7 +12,7 @@ Peter Quill, still reeling from the loss of Gamora, must rally his team around h
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62664278)  [TMDB](447365)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62664278)  [TMDB](https://www.themoviedb.org/movie/447365)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Guardians%203%20PvA%20v2.jpg)

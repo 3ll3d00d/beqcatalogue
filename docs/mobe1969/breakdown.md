@@ -7,7 +7,7 @@
 When his SUV breaks down on a remote Southwestern road, Jeff Taylor lets his wife, Amy, hitch a ride with a trucker to get help. When she doesn't return, Jeff fixes his SUV and tracks down the trucker -- who tells the police he's never seen Amy. Johnathan Mostow's tense thriller then follows Jeff's desperate search for his wife, which eventually uncovers a small town's murderous secret.
 { data-search-exclude }
 
-[TMDB](2163)
+[TMDB](https://www.themoviedb.org/movie/2163)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Breakdown%20%281997%29%20DTS-HD%20MA%205.1.jpg)

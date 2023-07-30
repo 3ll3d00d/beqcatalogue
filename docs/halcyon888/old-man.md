@@ -9,7 +9,7 @@ Deep in the woods, a lost hiker stumbles upon the cabin of an erratic and reclus
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62665719)  [TMDB](766220)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62665719)  [TMDB](https://www.themoviedb.org/movie/766220)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Old%20Man%202022%20PvA.jpg)

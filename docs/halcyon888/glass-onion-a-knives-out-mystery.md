@@ -12,7 +12,7 @@ World famous detective Benoit Blanc heads to Greece to peel back the layers of a
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](661374)
+[TMDB](https://www.themoviedb.org/movie/661374)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Glass%20Onion%20PvA%20v2.jpg)

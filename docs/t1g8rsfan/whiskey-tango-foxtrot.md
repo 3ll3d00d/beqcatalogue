@@ -9,7 +9,7 @@ In 2002, cable news producer Kim Barker decides to shake up her routine by takin
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62626193)  [TMDB](279641)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62626193)  [TMDB](https://www.themoviedb.org/movie/279641)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Whiskey%20Tango%20Foxtrot%20(2016)%20(-1%20gain)%20DTS-X%207.1.jpg)

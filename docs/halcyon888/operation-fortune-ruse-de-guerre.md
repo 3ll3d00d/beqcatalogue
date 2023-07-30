@@ -12,7 +12,7 @@ Special agent Orson Fortune and his team of operatives recruit one of Hollywood'
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62474080)  [TMDB](739405)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62474080)  [TMDB](https://www.themoviedb.org/movie/739405)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/operation%20fortune%202023%20PvA.jpg)

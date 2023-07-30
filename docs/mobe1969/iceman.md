@@ -10,7 +10,7 @@ An imperial guard and his three traitorous childhood friends ordered to hunt him
 DTS-HD MA 5dB down
 { data-search-exclude }
 
-[TMDB](105001)
+[TMDB](https://www.themoviedb.org/movie/105001)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Iceman%20%282014%29%28Ca%29%20TrueHD%205.1.jpg)

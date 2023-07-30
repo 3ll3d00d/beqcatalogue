@@ -7,7 +7,7 @@
 A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.
 { data-search-exclude }
 
-[TMDB](329)
+[TMDB](https://www.themoviedb.org/movie/329)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jurassic%20Park%20%281993%29%20DD%2B%205.1.jpg)
@@ -19,7 +19,7 @@ A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs 
 A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.
 { data-search-exclude }
 
-[TMDB](329)
+[TMDB](https://www.themoviedb.org/movie/329)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jurassic%20Park%20%281993%29%20DTS-HD%20MA%207.1.jpg)
@@ -31,7 +31,7 @@ A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs 
 A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.
 { data-search-exclude }
 
-[TMDB](329)
+[TMDB](https://www.themoviedb.org/movie/329)
 { data-search-exclude }
 
 ![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jurassic%20Park%20%281993%29%20DTS-X.jpg)

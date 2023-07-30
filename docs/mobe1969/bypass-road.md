@@ -7,7 +7,7 @@
 The story revolves around a young man, Vikram, who is a fashion prodigy. The story is layered with a murder in town.
 { data-search-exclude }
 
-[TMDB](645370)
+[TMDB](https://www.themoviedb.org/movie/645370)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bypass%20Road%20%282019%29%28Hi%29%20DD%2B%205.1.jpg)

@@ -7,7 +7,7 @@
 A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.
 { data-search-exclude }
 
-[TMDB](149)
+[TMDB](https://www.themoviedb.org/movie/149)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Akira%20%281988%29%20DTS-HD%20MA%205.1.jpg)
@@ -19,7 +19,7 @@ A secret military project endangers Neo-Tokyo when it turns a biker gang member 
 A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.
 { data-search-exclude }
 
-[TMDB](149)
+[TMDB](https://www.themoviedb.org/movie/149)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Akira%20%281988%29%28Ja%29%20LPCM%202.0.jpg)
@@ -31,7 +31,7 @@ A secret military project endangers Neo-Tokyo when it turns a biker gang member 
 A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.
 { data-search-exclude }
 
-[TMDB](149)
+[TMDB](https://www.themoviedb.org/movie/149)
 { data-search-exclude }
 
 ![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Akira%20%281988%29%28Ja%29%20TrueHD%205.1.jpg)

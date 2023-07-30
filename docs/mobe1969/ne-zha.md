@@ -7,7 +7,7 @@
 The Primus extracts a Mixed Yuan Bead into a Spirit Seed and a Demon Pill. The Spirit Seed can be reincarnated as a human to help King Zhou establish a new dynasty, whereas the Demon Pill will create a devil threatening humanity. Ne Zha is the one who is destined to be the hero, but instead he becomes a devil incarnate, because the Spirit Seed and a Demon Pill are switched.
 { data-search-exclude }
 
-[TMDB](615453)
+[TMDB](https://www.themoviedb.org/movie/615453)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Ne%20Zha%20%282019%29%20Atmos.jpg)
@@ -19,7 +19,7 @@ The Primus extracts a Mixed Yuan Bead into a Spirit Seed and a Demon Pill. The S
 The Primus extracts a Mixed Yuan Bead into a Spirit Seed and a Demon Pill. The Spirit Seed can be reincarnated as a human to help King Zhou establish a new dynasty, whereas the Demon Pill will create a devil threatening humanity. Ne Zha is the one who is destined to be the hero, but instead he becomes a devil incarnate, because the Spirit Seed and a Demon Pill are switched.
 { data-search-exclude }
 
-[TMDB](615453)
+[TMDB](https://www.themoviedb.org/movie/615453)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Ne%20Zha%20%282019%29%28Ma%29%20Atmos.jpg)
@@ -34,7 +34,7 @@ The Primus extracts a Mixed Yuan Bead into a Spirit Seed and a Demon Pill. The S
 English Atmos identicql
 { data-search-exclude }
 
-[TMDB](615453)
+[TMDB](https://www.themoviedb.org/movie/615453)
 { data-search-exclude }
 
 ![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Ne%20Zha%20%282019%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)

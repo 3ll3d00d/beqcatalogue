@@ -11,7 +11,7 @@ The iconic "gentleman thief" Lupin III returns in an action-packed, continent-sp
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62636435)  [TMDB](614587)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62636435)  [TMDB](https://www.themoviedb.org/movie/614587)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Lupin%20III%20The%20First%202019%20PvA.jpg)

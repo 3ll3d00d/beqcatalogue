@@ -7,7 +7,7 @@
 A police chief in the war-torn streets of Los Angeles discovers that an extraterrestrial creature is hunting down residents - and that he is the next target.
 { data-search-exclude }
 
-[TMDB](169)
+[TMDB](https://www.themoviedb.org/movie/169)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Predator%202%20%281990%29%20DTS-HD%20MA%205.1.jpg)

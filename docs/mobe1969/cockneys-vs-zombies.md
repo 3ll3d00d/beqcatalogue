@@ -7,7 +7,7 @@
 A gang of bank robbers team up with the residents of an old people's home to try to survive a zombie outbreak.
 { data-search-exclude }
 
-[TMDB](114606)
+[TMDB](https://www.themoviedb.org/movie/114606)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cockneys%20vs%20Zombies%20%282012%29%20DTS-HD%20MA%205.1.jpg)

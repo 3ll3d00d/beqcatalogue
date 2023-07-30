@@ -7,7 +7,7 @@
 A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.
 { data-search-exclude }
 
-[TMDB](675327)
+[TMDB](https://www.themoviedb.org/movie/675327)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shadow%20in%20the%20Cloud%20%282020%29%20DTS-HD%20MA%205.1.jpg)

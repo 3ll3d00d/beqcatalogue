@@ -9,7 +9,7 @@ Peter Quill, still reeling from the loss of Gamora, must rally his team around h
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62665173)  [TMDB](447365)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62665173)  [TMDB](https://www.themoviedb.org/movie/447365)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Guardians%20of%20the%20Galaxy%20Vol.%203%20(2023)%20(%2B3%20gain)%20Atmos.jpg)
@@ -25,7 +25,7 @@ Peter Quill, still reeling from the loss of Gamora, must rally his team around h
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62665173)  [TMDB](447365)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62665173)  [TMDB](https://www.themoviedb.org/movie/447365)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Guardians%20of%20the%20Galaxy%20Vol.3%20(2023)%20(%2B3%20gain)%20DD%2BAtmos.jpg)

@@ -12,7 +12,7 @@ A charming thief and a band of unlikely adventurers undertake an epic heist to r
 +2dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62576413)  [TMDB](493529)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62576413)  [TMDB](https://www.themoviedb.org/movie/493529)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Dungeons%20and%20Dragons-Honor%20Among%20Thieves%20(2023)%20(%2B5%20gain)%20Atmos.jpg)

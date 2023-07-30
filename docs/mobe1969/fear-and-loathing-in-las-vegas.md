@@ -12,7 +12,7 @@ Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave 
 UHD
 { data-search-exclude }
 
-[TMDB](1878)
+[TMDB](https://www.themoviedb.org/movie/1878)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fear%20and%20Loathing%20in%20Las%20Vegas%20%281998%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

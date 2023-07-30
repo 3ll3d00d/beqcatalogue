@@ -7,7 +7,7 @@
 A serial killer ruthlessly hunts down a deaf woman through the streets of South Korea after she witnesses his brutal crime.
 { data-search-exclude }
 
-[TMDB](628704)
+[TMDB](https://www.themoviedb.org/movie/628704)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Midnight%20%282021%29%28Ko%29%20DTS-HD%20MA%205.1.jpg)

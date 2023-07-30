@@ -7,7 +7,7 @@
 Lex Luthor enacts his plan to rid the world of Superman, once and for all. Succeeding with solar radiation poisoning, the Man of Steel is slowly dying. With what little times remains, the Last Son of Krypton must confront the revealing of his secret identity to Lois Lane and face Luthor in a final battle.
 { data-search-exclude }
 
-[TMDB](56590)
+[TMDB](https://www.themoviedb.org/movie/56590)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/All%20Star%20Superman%20%282011%29%20DTS-HD%20MA%205.1.jpg)

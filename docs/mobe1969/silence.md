@@ -7,7 +7,7 @@
 Two Jesuit priests travel to seventeenth century Japan which has, under the Tokugawa shogunate, banned Catholicism and almost all foreign contact.
 { data-search-exclude }
 
-[TMDB](68730)
+[TMDB](https://www.themoviedb.org/movie/68730)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Silence%20%282016%29%20DD%2B%205.1.jpg)
@@ -19,7 +19,7 @@ Two Jesuit priests travel to seventeenth century Japan which has, under the Toku
 Two Jesuit priests travel to seventeenth century Japan which has, under the Tokugawa shogunate, banned Catholicism and almost all foreign contact.
 { data-search-exclude }
 
-[TMDB](68730)
+[TMDB](https://www.themoviedb.org/movie/68730)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Silence%20%282016%29%20DTS-HD%20MA%205.1.jpg)

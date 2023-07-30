@@ -7,7 +7,7 @@
 A violent police detective investigates a brutal murder that might involve a manipulative and seductive novelist.
 { data-search-exclude }
 
-[TMDB](402)
+[TMDB](https://www.themoviedb.org/movie/402)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Basic%20Instinct%20%281992%29%20DTS-HD%20MA%205.1.jpg)

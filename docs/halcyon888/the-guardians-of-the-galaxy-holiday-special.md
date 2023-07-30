@@ -9,7 +9,7 @@ On a mission to make Christmas unforgettable for Quill, the Guardians head to Ea
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62667569)  [TMDB](774752)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62667569)  [TMDB](https://www.themoviedb.org/movie/774752)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Guardians%20Holiday%20Special%202022%20PvA%20v2.jpg)

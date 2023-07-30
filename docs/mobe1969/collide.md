@@ -7,7 +7,7 @@
 An American backpacker gets involved with a ring of drug smugglers as their driver, and winds up on the run from his employers across Cologne’s autobahns.
 { data-search-exclude }
 
-[TMDB](195590)
+[TMDB](https://www.themoviedb.org/movie/195590)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Collide%20%282016%29%20DTS-HD%20MA%205.1.jpg)

@@ -7,7 +7,7 @@
 A small town is taken over by an alien plague, turning residents into zombies and all forms of mutant monsters.
 { data-search-exclude }
 
-[TMDB](9035)
+[TMDB](https://www.themoviedb.org/movie/9035)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Slither%20%282006%29%20DTS-HD%20MA%205.1.jpg)
@@ -19,7 +19,7 @@ A small town is taken over by an alien plague, turning residents into zombies an
 A small town is taken over by an alien plague, turning residents into zombies and all forms of mutant monsters.
 { data-search-exclude }
 
-[TMDB](9035)
+[TMDB](https://www.themoviedb.org/movie/9035)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Slither%20%282006%29%20TrueHD%205.1.jpg)

@@ -12,7 +12,7 @@ When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](725201)
+[TMDB](https://www.themoviedb.org/movie/725201)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Gray%20Man%202022%20PvA%20v5.jpg)

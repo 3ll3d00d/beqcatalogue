@@ -12,7 +12,7 @@ Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy'
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](758323)
+[TMDB](https://www.themoviedb.org/movie/758323)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Popes%20Exorcist%202023%20PvA%20v1.jpg)

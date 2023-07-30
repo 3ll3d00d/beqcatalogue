@@ -12,7 +12,7 @@ Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](649609)
+[TMDB](https://www.themoviedb.org/movie/649609)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Renfield%202023%20PvA%20v3.jpg)

@@ -7,7 +7,7 @@
 A boy haunted by visions of a parallel world aids its disillusioned guardian in preventing the destruction of the nexus of universes known as the Dark Tower.
 { data-search-exclude }
 
-[TMDB](353491)
+[TMDB](https://www.themoviedb.org/movie/353491)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/The%20Dark%20Tower%20%282017%29%20Atmos.jpg)

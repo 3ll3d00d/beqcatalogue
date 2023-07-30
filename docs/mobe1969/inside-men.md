@@ -7,7 +7,7 @@
 A disgruntled henchman teams up with an ambitious prosecutor to bring down a leading presidential candidate and the news editor behind him who is truly pulling the strings.
 { data-search-exclude }
 
-[TMDB](293413)
+[TMDB](https://www.themoviedb.org/movie/293413)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Inside%20Men%20%282015%29%28Ko%29%20TrueHD%205.1.jpg)

@@ -10,7 +10,7 @@ Flying Swords of Dragon Gate picks up three years after the infamous Dragon Inn 
 Dub track
 { data-search-exclude }
 
-[TMDB](81870)
+[TMDB](https://www.themoviedb.org/movie/81870)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Flying%20Swords%20of%20Dragon%20Gate%20%282012%29%28Ca%29%20TrueHD%205.1.jpg)
@@ -25,7 +25,7 @@ Flying Swords of Dragon Gate picks up three years after the infamous Dragon Inn 
 Native language track
 { data-search-exclude }
 
-[TMDB](81870)
+[TMDB](https://www.themoviedb.org/movie/81870)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Flying%20Swords%20of%20Dragon%20Gate%20%282012%29%28Ma%29%20TrueHD%205.1.jpg)

@@ -9,7 +9,7 @@ Theatrical Cut
 Pete and Debbie are both about to turn 40, their kids hate each other, both of their businesses are failing, they're on the verge of losing their house, and their relationship is threatening to fall apart.
 { data-search-exclude }
 
-[TMDB](89492)
+[TMDB](https://www.themoviedb.org/movie/89492)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/This%20Is%2040%20%282012%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
@@ -23,7 +23,7 @@ Unrated Cut
 Pete and Debbie are both about to turn 40, their kids hate each other, both of their businesses are failing, they're on the verge of losing their house, and their relationship is threatening to fall apart.
 { data-search-exclude }
 
-[TMDB](89492)
+[TMDB](https://www.themoviedb.org/movie/89492)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/This%20Is%2040%20%282012%29%28UC%29%20DTS-HD%20MA%205.1.jpg)

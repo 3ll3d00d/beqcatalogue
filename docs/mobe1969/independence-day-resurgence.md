@@ -7,7 +7,7 @@
 We always knew they were coming back. Using recovered alien technology, the nations of Earth have collaborated on an immense defense program to protect the planet. But nothing can prepare us for the aliens’ advanced and unprecedented force. Only the ingenuity of a few brave men and women can bring our world back from the brink of extinction.
 { data-search-exclude }
 
-[TMDB](47933)
+[TMDB](https://www.themoviedb.org/movie/47933)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Independence%20Day%20Resurgence%20%282016%29%20Atmos.jpg)
@@ -19,7 +19,7 @@ We always knew they were coming back. Using recovered alien technology, the nati
 We always knew they were coming back. Using recovered alien technology, the nations of Earth have collaborated on an immense defense program to protect the planet. But nothing can prepare us for the aliens’ advanced and unprecedented force. Only the ingenuity of a few brave men and women can bring our world back from the brink of extinction.
 { data-search-exclude }
 
-[TMDB](47933)
+[TMDB](https://www.themoviedb.org/movie/47933)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Independence%20Day%20Resurgence%20%282016%29%20DTS-HD%20MA%207.1.jpg)

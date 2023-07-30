@@ -7,7 +7,7 @@
 Working in the morgue, a hardworking forensics expert and his assistant are suddenly accosted by masked intruders who demand access to a body involved in a recent crime.
 { data-search-exclude }
 
-[TMDB](531368)
+[TMDB](https://www.themoviedb.org/movie/531368)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bodies%20at%20Rest%20%282019%29%28Ca%29%20TrueHD%205.1.jpg)

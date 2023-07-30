@@ -12,7 +12,7 @@ In 1988, American video game salesman Henk Rogers discovers the video game Tetri
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62470955)  [TMDB](726759)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62470955)  [TMDB](https://www.themoviedb.org/movie/726759)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Tetris%20(2023).jpg)

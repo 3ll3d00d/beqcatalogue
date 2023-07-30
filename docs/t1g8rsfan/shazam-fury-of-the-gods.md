@@ -9,7 +9,7 @@ Billy Batson and his foster siblings, who transform into superheroes by saying "
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62563102)  [TMDB](594767)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62563102)  [TMDB](https://www.themoviedb.org/movie/594767)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Shazam!%20Fury%20of%20the%20Gods%20(2023)%20(%2B6%20gain)%20Atmos.jpg)
@@ -25,7 +25,7 @@ Billy Batson and his foster siblings, who transform into superheroes by saying "
 
 **MV Adjustment:** +6.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62563102)  [TMDB](594767)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62563102)  [TMDB](https://www.themoviedb.org/movie/594767)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Shazam!%20Fury%20of%20the%20Gods%20(2023)%20(%2B6.5%20gain)%20DD%2B%20Atmos%20MA.jpg)

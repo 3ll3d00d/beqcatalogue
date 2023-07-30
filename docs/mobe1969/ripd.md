@@ -7,7 +7,7 @@
 A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him.
 { data-search-exclude }
 
-[TMDB](49524)
+[TMDB](https://www.themoviedb.org/movie/49524)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/R.I.P.D.%20%282013%29%20DD%2B%205.1.jpg)
@@ -19,7 +19,7 @@ A recently slain cop joins a team of undead police officers working for the Rest
 A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him.
 { data-search-exclude }
 
-[TMDB](49524)
+[TMDB](https://www.themoviedb.org/movie/49524)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/R.I.P.D.%20%282013%29%20DTS-HD%20MA%205.1.jpg)
@@ -31,7 +31,7 @@ A recently slain cop joins a team of undead police officers working for the Rest
 A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him.
 { data-search-exclude }
 
-[TMDB](49524)
+[TMDB](https://www.themoviedb.org/movie/49524)
 { data-search-exclude }
 
 ![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/R.I.P.D.%20%282013%29%20DTS-X.jpg)

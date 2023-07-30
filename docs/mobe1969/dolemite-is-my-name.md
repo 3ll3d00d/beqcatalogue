@@ -7,7 +7,7 @@
 The story of Rudy Ray Moore, who created the iconic big screen pimp character Dolemite in the 1970s.
 { data-search-exclude }
 
-[TMDB](528888)
+[TMDB](https://www.themoviedb.org/movie/528888)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dolemite%20Is%20My%20Name%20%282019%29%20DD%2B%20Atmos.jpg)

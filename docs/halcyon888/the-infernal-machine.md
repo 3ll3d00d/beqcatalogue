@@ -12,7 +12,7 @@ Reclusive and controversial author Bruce Cogburn is drawn out of hiding by an ob
 +1dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](916605)
+[TMDB](https://www.themoviedb.org/movie/916605)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Infernal%20Machine%202022%20PvA%20v2.jpg)

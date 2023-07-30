@@ -7,7 +7,7 @@
 Sean Haggerty only has an hour to deliver his illegal cargo. An hour to reassure a drug cartel, a hitman, and the DEA that nothing is wrong. An hour to make sure his wife survives. And he must do it all from the cockpit of his Cessna.
 { data-search-exclude }
 
-[TMDB](454650)
+[TMDB](https://www.themoviedb.org/movie/454650)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beast%20of%20Burden%20%282018%29%20DD%2B%205.1.jpg)

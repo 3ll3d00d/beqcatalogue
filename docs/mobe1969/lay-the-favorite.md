@@ -7,7 +7,7 @@
 A former stripper's talent with numbers lands her a job with a professional gambler who runs a sports book in Las Vegas.
 { data-search-exclude }
 
-[TMDB](84305)
+[TMDB](https://www.themoviedb.org/movie/84305)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Lay%20the%20Favorite%20%282012%29%20DTS-HD%20MA%205.1.jpg)

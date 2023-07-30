@@ -7,7 +7,7 @@
 A by-the-book female detective teams up with four down-on-their-luck assassins to investigate her father's murder.
 { data-search-exclude }
 
-[TMDB](683328)
+[TMDB](https://www.themoviedb.org/movie/683328)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/The%20Big%204%20%282022%29%28In%29%20DD%2B%205.1.jpg)

@@ -10,7 +10,7 @@ Geophysicist Dr. Josh Keyes discovers that an unknown force has caused the earth
 UHD and Blu-Ray
 { data-search-exclude }
 
-[TMDB](9341)
+[TMDB](https://www.themoviedb.org/movie/9341)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Core%20%282003%29%20DTS-HD%20MA%205.1.jpg)

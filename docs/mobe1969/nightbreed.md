@@ -7,7 +7,7 @@
 A troubled young man is drawn to a mythical place called Midian where a variety of monsters are hiding from humanity.
 { data-search-exclude }
 
-[TMDB](20481)
+[TMDB](https://www.themoviedb.org/movie/20481)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Nightbreed%20%281990%29%20DTS-HD%20MA%205.1.jpg)
@@ -21,7 +21,7 @@ Director's Cut
 A troubled young man is drawn to a mythical place called Midian where a variety of monsters are hiding from humanity.
 { data-search-exclude }
 
-[TMDB](20481)
+[TMDB](https://www.themoviedb.org/movie/20481)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Nightbreed%20%281990%29%28DC%29%20DTS-HD%20MA%205.1.jpg)

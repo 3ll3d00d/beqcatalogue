@@ -10,7 +10,7 @@ An embattled NYPD detective, is thrust into a citywide manhunt for a pair of cop
 DD+ 5dB down
 { data-search-exclude }
 
-[TMDB](535292)
+[TMDB](https://www.themoviedb.org/movie/535292)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/0-9/21%20Bridges%20%282019%29%20DTS-HD%20MA%205.1.jpg)

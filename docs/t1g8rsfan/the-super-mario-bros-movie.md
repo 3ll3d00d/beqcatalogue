@@ -12,7 +12,7 @@ While working underground to fix a water main, Brooklyn plumbers—and brothers�
 +6dB Dialnorm Compensation - DD+ Atmos​
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62556748)  [TMDB](502356)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62556748)  [TMDB](https://www.themoviedb.org/movie/502356)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Super%20Mario%20Bros.%20Movie%20(2023)%20(%2B1.5%20gain)%20Atmos%20-%20DD%2B%20Atmos.jpg)

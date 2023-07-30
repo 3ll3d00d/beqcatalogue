@@ -12,7 +12,7 @@ Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62534693)  [TMDB](649609)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62534693)  [TMDB](https://www.themoviedb.org/movie/649609)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Renfield%20(2023)%20(%2B1.5%20gain)%20DD%2BAtmos.jpg)
@@ -28,7 +28,7 @@ Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62534693)  [TMDB](649609)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62534693)  [TMDB](https://www.themoviedb.org/movie/649609)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Renfield%20(2023)%20(%2B1%20gain)%20DTS-HD%20MA%207.1.jpg)

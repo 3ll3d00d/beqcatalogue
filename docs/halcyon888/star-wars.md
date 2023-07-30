@@ -14,7 +14,7 @@ Princess Leia is captured and held hostage by the evil Imperial forces in their 
 Couldn't boost below 15Hz due to noise in the soundtrack.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62565824)  [TMDB](11)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62565824)  [TMDB](https://www.themoviedb.org/movie/11)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Star%20Wars-A%20New%20Hope%204K77%20PvA%20v2.jpg)

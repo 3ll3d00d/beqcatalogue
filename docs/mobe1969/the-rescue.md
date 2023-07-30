@@ -7,7 +7,7 @@
 A rescue unit within the Chinese Coast Guard are forced to overcome their personal differences to resolve a crisis.
 { data-search-exclude }
 
-[TMDB](613658)
+[TMDB](https://www.themoviedb.org/movie/613658)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Rescue%20%282020%29%28Ma%29%20Atmos.jpg)
@@ -19,7 +19,7 @@ A rescue unit within the Chinese Coast Guard are forced to overcome their person
 A rescue unit within the Chinese Coast Guard are forced to overcome their personal differences to resolve a crisis.
 { data-search-exclude }
 
-[TMDB](613658)
+[TMDB](https://www.themoviedb.org/movie/613658)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Rescue%20%282020%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)

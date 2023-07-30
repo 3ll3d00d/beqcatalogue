@@ -10,7 +10,7 @@ In the 28th century, Valerian and Laureline are special operatives charged with 
 DD+ 3dB down
 { data-search-exclude }
 
-[TMDB](339964)
+[TMDB](https://www.themoviedb.org/movie/339964)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/V/Valerian%20and%20the%20City%20of%20a%20Thousand%20Planets%20%282017%29%20Atmos.jpg)

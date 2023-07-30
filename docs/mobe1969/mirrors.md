@@ -9,7 +9,7 @@ Unrated Cut
 An ex-cop and his family are the target of an evil force that is using mirrors as a gateway into their home.
 { data-search-exclude }
 
-[TMDB](13515)
+[TMDB](https://www.themoviedb.org/movie/13515)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mirrors%20%282008%29%20DTS-HD%20MA%205.1.jpg)

@@ -12,7 +12,7 @@ After two years in prison for participating in an illegal street race, Roy says 
 BEQ Note: This BEQ was contributed to the catalogue by AVS Forum member Magly, thank you!
 { data-search-exclude }
 
-[TMDB](417503)
+[TMDB](https://www.themoviedb.org/movie/417503)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Burnout%202%20(2016)%20DTS-HD%20MA%205.1.png)

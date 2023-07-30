@@ -7,7 +7,7 @@
 A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.
 { data-search-exclude }
 
-[TMDB](539885)
+[TMDB](https://www.themoviedb.org/movie/539885)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Ava%20%282020%29%20DD%2B%205.1.jpg)
@@ -19,7 +19,7 @@ A black ops assassin is forced to fight for her own survival after a job goes da
 A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.
 { data-search-exclude }
 
-[TMDB](539885)
+[TMDB](https://www.themoviedb.org/movie/539885)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Ava%20%282020%29%20DTS-HD%20MA%205.1.jpg)

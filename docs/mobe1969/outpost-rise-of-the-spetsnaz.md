@@ -7,7 +7,7 @@
 In the third installment of the hit Nazi Zombie action horror movie, Outpost: Rise Of The Spetnaz, we discover the horrifying origins of these supernatural soldiers and see them in ferocious gladiatorial battle against the most ruthless and notorious of all military special forces: the Russian Spetsnaz.
 { data-search-exclude }
 
-[TMDB](164377)
+[TMDB](https://www.themoviedb.org/movie/164377)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/Outpost%20III%20Rise%20of%20the%20Spetsnaz%20%282013%29%20DTS-HD%20MA%205.1.jpg)

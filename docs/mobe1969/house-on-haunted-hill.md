@@ -7,7 +7,7 @@
 An amusement park mogul offers a random group of diverse people $1 million to spend the night in a decrepit former mental institution.
 { data-search-exclude }
 
-[TMDB](11377)
+[TMDB](https://www.themoviedb.org/movie/11377)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/House%20on%20Haunted%20Hill%20%281999%29%20DTS-HD%20MA%205.1.jpg)

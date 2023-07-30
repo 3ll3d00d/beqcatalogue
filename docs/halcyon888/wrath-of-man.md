@@ -9,7 +9,7 @@ A cold and mysterious new security guard for a Los Angeles cash truck company su
 
 **MV Adjustment:** +3.5 dB
 
-[TMDB](637649)
+[TMDB](https://www.themoviedb.org/movie/637649)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Wrath%20of%20Man%202021%20PvA%20v1.jpg)

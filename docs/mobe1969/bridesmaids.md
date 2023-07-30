@@ -9,7 +9,7 @@ Theatrical Cut
 Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she’ll show Lillian and her bridesmaids just how far you’ll go for someone you love.
 { data-search-exclude }
 
-[TMDB](55721)
+[TMDB](https://www.themoviedb.org/movie/55721)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bridesmaids%20%282011%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
@@ -23,7 +23,7 @@ Unrated Cut
 Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she’ll show Lillian and her bridesmaids just how far you’ll go for someone you love.
 { data-search-exclude }
 
-[TMDB](55721)
+[TMDB](https://www.themoviedb.org/movie/55721)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bridesmaids%20%282011%29%28UC%29%20DTS-HD%20MA%205.1.jpg)

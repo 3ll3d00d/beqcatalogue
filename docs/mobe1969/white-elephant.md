@@ -7,7 +7,7 @@
 An ex-marine enforcer must battle his conscience and code of honor when he is forced to do things for the mob.
 { data-search-exclude }
 
-[TMDB](843633)
+[TMDB](https://www.themoviedb.org/movie/843633)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/White%20Elephant%20%282022%29%20DD%2B%205.1.jpg)
@@ -19,7 +19,7 @@ An ex-marine enforcer must battle his conscience and code of honor when he is fo
 An ex-marine enforcer must battle his conscience and code of honor when he is forced to do things for the mob.
 { data-search-exclude }
 
-[TMDB](843633)
+[TMDB](https://www.themoviedb.org/movie/843633)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/White%20Elephant%20%282022%29%20DTS-HD%20MA%205.1.jpg)

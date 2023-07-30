@@ -9,7 +9,7 @@ Fueled by an impoverished childhood, George Foreman channeled his anger into bec
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62563267)  [TMDB](878361)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62563267)  [TMDB](https://www.themoviedb.org/movie/878361)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Big%20George%20Foreman%20(2023)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)

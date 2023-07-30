@@ -7,7 +7,7 @@
 Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
 { data-search-exclude }
 
-[TMDB](436969)
+[TMDB](https://www.themoviedb.org/movie/436969)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/The%20Suicide%20Squad%20%282021%29%20Atmos.jpg)

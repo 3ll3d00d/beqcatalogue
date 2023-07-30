@@ -9,7 +9,7 @@ A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to 
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62653289)  [TMDB](961323)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62653289)  [TMDB](https://www.themoviedb.org/movie/961323)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Nimona%202023%20PvA.jpg)

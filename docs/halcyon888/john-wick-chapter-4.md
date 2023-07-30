@@ -9,7 +9,7 @@ With the price on his head ever increasing, John Wick uncovers a path to defeati
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62570728)  [TMDB](603692)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62570728)  [TMDB](https://www.themoviedb.org/movie/603692)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/John%20Wick%20Chapter%204%20PvA%20v3%20THD%20Atmos.jpg)
@@ -28,7 +28,7 @@ With the price on his head ever increasing, John Wick uncovers a path to defeati
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62570728)  [TMDB](603692)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62570728)  [TMDB](https://www.themoviedb.org/movie/603692)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/John%20Wick%20Chapter%204%20PvA%20v3.jpg)

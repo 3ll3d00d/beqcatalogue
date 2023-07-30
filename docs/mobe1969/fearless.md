@@ -9,7 +9,7 @@ Director's Cut
 Huo Yuan Jia became the most famous martial arts fighter in all of China at the turn of the 20th Century. Huo faced personal tragedy but ultimately fought his way out of darkness, defining the true spirit of martial arts and also inspiring his nation. The son of a great fighter who didn't wish for his child to follow in his footsteps, Huo resolves to teach himself how to fight - and win.
 { data-search-exclude }
 
-[TMDB](7549)
+[TMDB](https://www.themoviedb.org/movie/7549)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fearless%20%282006%29%28Ma%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
@@ -23,7 +23,7 @@ Theatrical Cut
 Huo Yuan Jia became the most famous martial arts fighter in all of China at the turn of the 20th Century. Huo faced personal tragedy but ultimately fought his way out of darkness, defining the true spirit of martial arts and also inspiring his nation. The son of a great fighter who didn't wish for his child to follow in his footsteps, Huo resolves to teach himself how to fight - and win.
 { data-search-exclude }
 
-[TMDB](7549)
+[TMDB](https://www.themoviedb.org/movie/7549)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fearless%20%282006%29%28Ma%29%28TC%29%20DTS-HD%20MA%205.1.jpg)
@@ -37,7 +37,7 @@ Unrated Cut
 Huo Yuan Jia became the most famous martial arts fighter in all of China at the turn of the 20th Century. Huo faced personal tragedy but ultimately fought his way out of darkness, defining the true spirit of martial arts and also inspiring his nation. The son of a great fighter who didn't wish for his child to follow in his footsteps, Huo resolves to teach himself how to fight - and win.
 { data-search-exclude }
 
-[TMDB](7549)
+[TMDB](https://www.themoviedb.org/movie/7549)
 { data-search-exclude }
 
 ![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fearless%20%282006%29%28Ma%29%28UC%29%20DTS-HD%20MA%205.1.jpg)

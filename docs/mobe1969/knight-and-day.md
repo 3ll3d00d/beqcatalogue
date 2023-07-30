@@ -9,7 +9,7 @@ Extended Cut
 A fugitive couple goes on a glamorous and sometimes deadly adventure where nothing and no one – even themselves – are what they seem. Amid shifting alliances and unexpected betrayals, they race across the globe, with their survival ultimately hinging on the battle of truth vs. trust.
 { data-search-exclude }
 
-[TMDB](37834)
+[TMDB](https://www.themoviedb.org/movie/37834)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Knight%20and%20Day%20%282010%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
@@ -23,7 +23,7 @@ Theatrical Cut
 A fugitive couple goes on a glamorous and sometimes deadly adventure where nothing and no one – even themselves – are what they seem. Amid shifting alliances and unexpected betrayals, they race across the globe, with their survival ultimately hinging on the battle of truth vs. trust.
 { data-search-exclude }
 
-[TMDB](37834)
+[TMDB](https://www.themoviedb.org/movie/37834)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Knight%20and%20Day%20%282010%29%28TC%29%20DTS-HD%20MA%205.1.jpg)

@@ -11,7 +11,7 @@ Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Giml
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62475790)  [TMDB](121)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62475790)  [TMDB](https://www.themoviedb.org/movie/121)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/LOTR2%20PvA%20v5.jpg)

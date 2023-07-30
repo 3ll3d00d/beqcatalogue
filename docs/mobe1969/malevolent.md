@@ -7,7 +7,7 @@
 A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
 { data-search-exclude }
 
-[TMDB](481375)
+[TMDB](https://www.themoviedb.org/movie/481375)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Malevolent%20%282018%29%20DD%2B%205.1.jpg)

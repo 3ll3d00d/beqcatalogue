@@ -7,7 +7,7 @@
 A 6th-century Scandinavian warrior named Beowulf embarks on a mission to slay the man-like ogre, Grendel.
 { data-search-exclude }
 
-[TMDB](2310)
+[TMDB](https://www.themoviedb.org/movie/2310)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beowulf%20%282007%29%20DTS-HD%20MA%205.1.jpg)
@@ -21,7 +21,7 @@ Director's Cut
 A 6th-century Scandinavian warrior named Beowulf embarks on a mission to slay the man-like ogre, Grendel.
 { data-search-exclude }
 
-[TMDB](2310)
+[TMDB](https://www.themoviedb.org/movie/2310)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Beowulf%20%282007%29%28DC%29%20TrueHD%205.1.jpg)

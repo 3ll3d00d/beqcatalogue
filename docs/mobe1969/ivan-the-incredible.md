@@ -10,7 +10,7 @@ Poor Ivan Olsen is plagued by problems bullied at school and constantly pursued 
 Danish track identical
 { data-search-exclude }
 
-[TMDB](132313)
+[TMDB](https://www.themoviedb.org/movie/132313)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gummi%20Tarzan%20%282012%29%20DTS-HD%20MA%205.1.jpg)

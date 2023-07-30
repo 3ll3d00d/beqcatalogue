@@ -9,7 +9,7 @@ Unrated Cut
 Unlike their heroic counterparts on the force, desk-bound NYPD detectives Gamble and Hoitz garner no headlines as they work day to day. When a seemingly minor case turns out to be a big deal, the two cops get the opportunity to finally prove to their comrades that they have the right stuff.
 { data-search-exclude }
 
-[TMDB](27581)
+[TMDB](https://www.themoviedb.org/movie/27581)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/The%20Other%20Guys%20%282010%29%28UC%29%20DTS-HD%20MA%205.1.jpg)
@@ -23,7 +23,7 @@ Theatrical Cut
 Unlike their heroic counterparts on the force, desk-bound NYPD detectives Gamble and Hoitz garner no headlines as they work day to day. When a seemingly minor case turns out to be a big deal, the two cops get the opportunity to finally prove to their comrades that they have the right stuff.
 { data-search-exclude }
 
-[TMDB](27581)
+[TMDB](https://www.themoviedb.org/movie/27581)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/O/The%20Other%20Guys%20%282010%29%28TC%29%20DTS-HD%20MA%205.1.jpg)

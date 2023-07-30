@@ -7,7 +7,7 @@
 An orphaned child's dreams—and nightmares—manifest physically as he sleeps.
 { data-search-exclude }
 
-[TMDB](301804)
+[TMDB](https://www.themoviedb.org/movie/301804)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Before%20I%20Wake%20%282016%29%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@ The Naughty Cut
 When his dysfunctional family clashes over the holidays, young Max is disillusioned and turns his back on Christmas.  Little does he know, this lack of festive spirit has unleashed the wrath of Krampus: a demonic force of ancient evil intent on punishing non-believers.
 { data-search-exclude }
 
-[TMDB](287903)
+[TMDB](https://www.themoviedb.org/movie/287903)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Krampus%20%282015%29%28The%20Naughty%20Cut%29%20Atmos.jpg)
@@ -21,7 +21,7 @@ When his dysfunctional family clashes over the holidays, young Max is disillusio
 When his dysfunctional family clashes over the holidays, young Max is disillusioned and turns his back on Christmas.  Little does he know, this lack of festive spirit has unleashed the wrath of Krampus: a demonic force of ancient evil intent on punishing non-believers.
 { data-search-exclude }
 
-[TMDB](287903)
+[TMDB](https://www.themoviedb.org/movie/287903)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Krampus%20%282015%29%20DTS-HD%20MA%205.1.jpg)

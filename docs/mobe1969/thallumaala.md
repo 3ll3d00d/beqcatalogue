@@ -7,7 +7,7 @@
 Wazim is young, carefree and often drawn to fights. But when love blooms with a star vlogger, the impact of his fists could have disastrous effects.
 { data-search-exclude }
 
-[TMDB](863530)
+[TMDB](https://www.themoviedb.org/movie/863530)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Thallumaala%20%282022%29%28My%29%20DD%2B%205.1.jpg)

@@ -9,7 +9,7 @@ A gunned down Navy SEAL Master Chief must guide a child to safety through a gaun
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62713522)  [TMDB](1076487)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62713522)  [TMDB](https://www.themoviedb.org/movie/1076487)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Warhorse%20One%20(2023)%20(%2B6%20gain)%20DD%2B.jpg)

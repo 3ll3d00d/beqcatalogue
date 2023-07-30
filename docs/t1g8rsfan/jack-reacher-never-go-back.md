@@ -9,7 +9,7 @@ When Major Susan Turner is arrested for treason, ex-investigator Jack Reacher un
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62714990)  [TMDB](343611)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62714990)  [TMDB](https://www.themoviedb.org/movie/343611)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Jack%20Reacher%20Never%20Go%20Back%20(2016)%20(%2B4%20gain)%20Atmos.jpg)

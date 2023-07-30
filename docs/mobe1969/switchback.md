@@ -7,7 +7,7 @@
 FBI agent Frank LaCrosse tries to catch a serial killer who kidnapped his son.
 { data-search-exclude }
 
-[TMDB](10871)
+[TMDB](https://www.themoviedb.org/movie/10871)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Switchback%20%281997%29%20DD%2B%205.1.jpg)

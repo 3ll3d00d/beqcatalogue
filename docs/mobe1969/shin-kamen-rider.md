@@ -7,7 +7,7 @@
 Hongo Takeshi awakens to discover he has been transformed into a grasshopper-hybrid cyborg. Becoming the Masked Rider, he must fight the mysterious evil organization SHOCKER to protect all of mankind.
 { data-search-exclude }
 
-[TMDB](813477)
+[TMDB](https://www.themoviedb.org/movie/813477)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shin%20Masked%20Rider%20%282023%29%28Ja%29%20DD%2B%205.1.jpg)

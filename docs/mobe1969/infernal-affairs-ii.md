@@ -7,7 +7,7 @@
 In this prequel to the original, a rebel policeman sets up the infiltration of Triad gangs and tries bring down a corrupt cop working for the Triad boss.
 { data-search-exclude }
 
-[TMDB](11647)
+[TMDB](https://www.themoviedb.org/movie/11647)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Infernal%20Affairs%20II%20%282003%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
@@ -19,7 +19,7 @@ In this prequel to the original, a rebel policeman sets up the infiltration of T
 In this prequel to the original, a rebel policeman sets up the infiltration of Triad gangs and tries bring down a corrupt cop working for the Triad boss.
 { data-search-exclude }
 
-[TMDB](11647)
+[TMDB](https://www.themoviedb.org/movie/11647)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Infernal%20Affairs%20II%20%282003%29%28Ca%29%20DTS-HD%20MA%206.1.jpg)

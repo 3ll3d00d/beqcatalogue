@@ -7,7 +7,7 @@
 Having defeated the best fighters of the Imperial Japanese army in occupied Shanghai, Ip Man and his family settle in post-war Hong Kong. Struggling to make a living, Master Ip opens a kung fu school to bring his celebrated art of Wing Chun to the troubled youth of Hong Kong. His growing reputation soon brings challenges from powerful enemies, including pre-eminent Hung Gar master, Hung Quan.
 { data-search-exclude }
 
-[TMDB](37472)
+[TMDB](https://www.themoviedb.org/movie/37472)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Ip%20Man%202%20%282010%29%28Ca%29%20Atmos.jpg)
@@ -19,7 +19,7 @@ Having defeated the best fighters of the Imperial Japanese army in occupied Shan
 Having defeated the best fighters of the Imperial Japanese army in occupied Shanghai, Ip Man and his family settle in post-war Hong Kong. Struggling to make a living, Master Ip opens a kung fu school to bring his celebrated art of Wing Chun to the troubled youth of Hong Kong. His growing reputation soon brings challenges from powerful enemies, including pre-eminent Hung Gar master, Hung Quan.
 { data-search-exclude }
 
-[TMDB](37472)
+[TMDB](https://www.themoviedb.org/movie/37472)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Ip%20Man%202%20%282010%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)

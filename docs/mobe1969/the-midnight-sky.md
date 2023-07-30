@@ -7,7 +7,7 @@
 A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.
 { data-search-exclude }
 
-[TMDB](614911)
+[TMDB](https://www.themoviedb.org/movie/614911)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Midnight%20Sky%20%282020%29%20DD%2B%205.1.jpg)
@@ -19,7 +19,7 @@ A lone scientist in the Arctic races to contact a crew of astronauts returning h
 A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.
 { data-search-exclude }
 
-[TMDB](614911)
+[TMDB](https://www.themoviedb.org/movie/614911)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Midnight%20Sky%20%282020%29%20DD%2B%20Atmos.jpg)

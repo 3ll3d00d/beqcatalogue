@@ -9,7 +9,7 @@ Damian Wayne is having a hard time coping with his father's "no killing" rule. M
 
 **MV Adjustment:** +2.0 dB
 
-[TMDB](321528)
+[TMDB](https://www.themoviedb.org/movie/321528)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Batman%20vs.%20Robin%202015%20PvA%20v1.jpg)

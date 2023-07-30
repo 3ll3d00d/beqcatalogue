@@ -10,7 +10,7 @@ A series of eerie events thrusts an unlikely trio onto the trail of a nefarious 
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62696705)  [TMDB](736769)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62696705)  [TMDB](https://www.themoviedb.org/movie/736769)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/They%20Cloned%20Tyrone%202023%20PvA.jpg)

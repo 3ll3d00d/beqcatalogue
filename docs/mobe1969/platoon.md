@@ -10,7 +10,7 @@ As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when 
 UHD and Blu-Ray
 { data-search-exclude }
 
-[TMDB](792)
+[TMDB](https://www.themoviedb.org/movie/792)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Platoon%20%281986%29%20DTS-HD%20MA%205.1.jpg)

@@ -8,7 +8,7 @@ Doug Harris is a loveable but socially awkward groom-to-be with a problem: he ha
  best man Jimmy.
 { data-search-exclude }
 
-[TMDB](252838)
+[TMDB](https://www.themoviedb.org/movie/252838)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Wedding%20Ringer%20%282015%29%20DTS-HD%20MA%205.1.jpg)

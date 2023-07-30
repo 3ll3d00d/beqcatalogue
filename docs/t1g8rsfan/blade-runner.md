@@ -11,7 +11,7 @@ In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is c
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62677314)  [TMDB](78)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62677314)  [TMDB](https://www.themoviedb.org/movie/78)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Blade%20Runner%20(1982)%20The%20Final%20Cut%20(%2B1%20gain)%20Atmos.jpg)

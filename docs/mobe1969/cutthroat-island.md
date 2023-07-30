@@ -7,7 +7,7 @@
 Morgan Adams and her slave, William Shaw, are on a quest to recover the three portions of a treasure map. Unfortunately, the final portion is held by her murderous uncle, Dawg. Her crew is skeptical of her leadership abilities, so she must complete her quest before they mutiny against her. This is made yet more difficult by the efforts of the British crown to end her pirate raids.
 { data-search-exclude }
 
-[TMDB](1408)
+[TMDB](https://www.themoviedb.org/movie/1408)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cutthroat%20Island%20%281995%29%20DTS-HD%20MA%207.1.jpg)

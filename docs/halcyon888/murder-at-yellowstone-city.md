@@ -12,7 +12,7 @@ A former slave who arrives in Yellowstone City, Montana, a desolate former boomt
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](974961)
+[TMDB](https://www.themoviedb.org/movie/974961)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Murder%20at%20Yellowstone%20City%202022%20PvA%20v2.jpg)

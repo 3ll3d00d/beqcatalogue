@@ -7,7 +7,7 @@
 Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
 { data-search-exclude }
 
-[TMDB](282035)
+[TMDB](https://www.themoviedb.org/movie/282035)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Mummy%20%282017%29%20Atmos.jpg)

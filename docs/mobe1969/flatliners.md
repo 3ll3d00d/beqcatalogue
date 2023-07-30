@@ -12,7 +12,7 @@ Five medical students want to find out if there is life after death. They plan t
 UHD
 { data-search-exclude }
 
-[TMDB](1551)
+[TMDB](https://www.themoviedb.org/movie/1551)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Flatliners%20%281990%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

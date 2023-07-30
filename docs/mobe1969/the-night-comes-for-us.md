@@ -7,7 +7,7 @@
 After sparing a girl's life during a massacre, an elite Triad assassin is targeted by an onslaught of murderous gangsters.
 { data-search-exclude }
 
-[TMDB](449992)
+[TMDB](https://www.themoviedb.org/movie/449992)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/The%20Night%20Comes%20for%20Us%20%282018%29%28In%29%20DD%2B%205.1.jpg)

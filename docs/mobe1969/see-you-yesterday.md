@@ -7,7 +7,7 @@
 As two teen prodigies try to master the art of time travel, a tragic police shooting sends them on a series of dangerous trips to the past.
 { data-search-exclude }
 
-[TMDB](582607)
+[TMDB](https://www.themoviedb.org/movie/582607)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/See%20You%20Yesterday%20%282019%29%20DD%2B%205.1.jpg)

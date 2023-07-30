@@ -7,7 +7,7 @@
 After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.
 { data-search-exclude }
 
-[TMDB](246655)
+[TMDB](https://www.themoviedb.org/movie/246655)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X/X-Men%20Apocalypse%20%282016%29%20Atmos.jpg)

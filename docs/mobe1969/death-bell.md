@@ -7,7 +7,7 @@
 In a prep-class for year-end exams, a sadistic killer puts the students through mind-games in order to save each other.
 { data-search-exclude }
 
-[TMDB](32272)
+[TMDB](https://www.themoviedb.org/movie/32272)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Death%20Bell%20%282008%29%28Ko%29%20TrueHD%207.1.jpg)

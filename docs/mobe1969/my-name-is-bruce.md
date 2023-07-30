@@ -7,7 +7,7 @@
 B Movie Legend Bruce Campbell is mistaken for his character Ash from the Evil Dead trilogy and forced to fight a real monster in a small town in Oregon.
 { data-search-exclude }
 
-[TMDB](1961)
+[TMDB](https://www.themoviedb.org/movie/1961)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/My%20Name%20Is%20Bruce%20%282007%29%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@ Extended Cut
 Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they've played before.
 { data-search-exclude }
 
-[TMDB](585216)
+[TMDB](https://www.themoviedb.org/movie/585216)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Escape%20Room%20Tournament%20of%20Champions%20%282021%29%28EC%29%20DD%2B%205.1.jpg)
@@ -23,7 +23,7 @@ Theatrical Cut
 Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they've played before.
 { data-search-exclude }
 
-[TMDB](585216)
+[TMDB](https://www.themoviedb.org/movie/585216)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Escape%20Room%20Tournament%20of%20Champions%20%282021%29%28TC%29%20DD%2B%205.1.jpg)

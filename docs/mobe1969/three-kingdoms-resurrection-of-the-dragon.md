@@ -7,7 +7,7 @@
 The aging Zhao embarks on his final and greatest campaign, a road to adventure that will crown his name in glory for all time.
 { data-search-exclude }
 
-[TMDB](14538)
+[TMDB](https://www.themoviedb.org/movie/14538)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Three%20Kingdoms%20Resurrection%20of%20the%20Dragon%20%282008%29%28Ma%29%20DTS-HD%20MA%205.1.jpg)

@@ -7,7 +7,7 @@
 After his wife is assaulted, a husband enlists the services of a vigilante group to help him settle the score.
 { data-search-exclude }
 
-[TMDB](74998)
+[TMDB](https://www.themoviedb.org/movie/74998)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Seeking%20Justice%20%282011%29%20DTS-HD%20MA%205.1.jpg)

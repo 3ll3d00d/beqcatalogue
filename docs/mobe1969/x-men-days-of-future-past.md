@@ -9,7 +9,7 @@ Extended Cut
 The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.
 { data-search-exclude }
 
-[TMDB](127585)
+[TMDB](https://www.themoviedb.org/movie/127585)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X/X-Men%20Days%20of%20Future%20Past%20%282014%29%28EC%29%20DTS-HD%20MA%207.1.jpg)
@@ -23,7 +23,7 @@ Theatrical Cut
 The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.
 { data-search-exclude }
 
-[TMDB](127585)
+[TMDB](https://www.themoviedb.org/movie/127585)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/X/X-Men%20Days%20of%20Future%20Past%20%282014%29%28TC%29%20DTS-HD%20MA%207.1.jpg)

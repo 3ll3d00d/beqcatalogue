@@ -7,7 +7,7 @@
 When a gunman takes five lives with six shots, all evidence points to the suspect in custody. On interrogation, the suspect offers up a single note: "Get Jack Reacher!" So begins an extraordinary chase for the truth, pitting Jack Reacher against an unexpected enemy, with a skill for violence and a secret to keep.
 { data-search-exclude }
 
-[TMDB](75780)
+[TMDB](https://www.themoviedb.org/movie/75780)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/J/Jack%20Reacher%20%282012%29%20DTS-HD%20MA%207.1.jpg)

@@ -10,7 +10,7 @@ A tough cop is dispatched to take down a serial killer who has been targeting po
 DD+ 7dB down
 { data-search-exclude }
 
-[TMDB](55846)
+[TMDB](https://www.themoviedb.org/movie/55846)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Blitz%20%282011%29%20TrueHD%205.1.jpg)

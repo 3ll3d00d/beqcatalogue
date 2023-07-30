@@ -12,7 +12,7 @@ A video game expert Alex Rogan finds himself transported to another planet after
 UHD
 { data-search-exclude }
 
-[TMDB](11884)
+[TMDB](https://www.themoviedb.org/movie/11884)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Last%20Starfighter%20%281984%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

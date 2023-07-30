@@ -7,7 +7,7 @@
 A washed-up private security agent has to escort a valuable Chinese antique out of Shanghai but is ambushed en route.
 { data-search-exclude }
 
-[TMDB](473920)
+[TMDB](https://www.themoviedb.org/movie/473920)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/S.M.A.R.T.%20Chase%20%282017%29%20DTS-HD%20MA%205.1.jpg)

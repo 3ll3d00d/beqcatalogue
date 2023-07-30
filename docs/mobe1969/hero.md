@@ -7,7 +7,7 @@
 One man defeated three assassins who sought to murder the most powerful warlord in pre-unified China.
 { data-search-exclude }
 
-[TMDB](79)
+[TMDB](https://www.themoviedb.org/movie/79)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hero%20%282002%29%20DTS-HD%20MA%205.1.jpg)

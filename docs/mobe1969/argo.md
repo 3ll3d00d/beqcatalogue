@@ -9,7 +9,7 @@ Extended Cut
 As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.
 { data-search-exclude }
 
-[TMDB](68734)
+[TMDB](https://www.themoviedb.org/movie/68734)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Argo%20%282012%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
@@ -23,7 +23,7 @@ Theatrical Cut
 As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.
 { data-search-exclude }
 
-[TMDB](68734)
+[TMDB](https://www.themoviedb.org/movie/68734)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Argo%20%282012%29%28TC%29%20DTS-HD%20MA%205.1.jpg)

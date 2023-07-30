@@ -7,7 +7,7 @@
 After spending eight months in a mental institution, a former teacher moves back in with his parents and tries to reconcile with his ex-wife.
 { data-search-exclude }
 
-[TMDB](82693)
+[TMDB](https://www.themoviedb.org/movie/82693)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Silver%20Linings%20Playbook%20%282012%29%20DD%2B%205.1.jpg)

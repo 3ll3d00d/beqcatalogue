@@ -10,7 +10,7 @@ A scientist in a surrealist society kidnaps children to steal their dreams, hopi
 Blu-Ray and new UHD
 { data-search-exclude }
 
-[TMDB](902)
+[TMDB](https://www.themoviedb.org/movie/902)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20City%20of%20Lost%20Children%20%281995%29%28Fr%29%20DTS-HD%20MA%205.1.jpg)

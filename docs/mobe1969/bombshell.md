@@ -7,7 +7,7 @@
 Bombshell is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.
 { data-search-exclude }
 
-[TMDB](525661)
+[TMDB](https://www.themoviedb.org/movie/525661)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bombshell%20%282019%29%20DTS-HD%20MA%205.1.jpg)

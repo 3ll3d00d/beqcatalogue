@@ -9,7 +9,7 @@ A detective becomes entangled in a mystery involving his missing daughter and a 
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62587042)  [TMDB](536437)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62587042)  [TMDB](https://www.themoviedb.org/movie/536437)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hypnotic%202023%20PvA.jpg)

@@ -10,7 +10,7 @@ After an ambush, Afghan interpreter Ahmed goes to Herculean lengths to save US A
 +8dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](882569)
+[TMDB](https://www.themoviedb.org/movie/882569)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Covenant%202023%20PvA%20v1.jpg)

@@ -7,7 +7,7 @@
 The Autobots continue to work for NEST, now no longer in secret. But after discovering a strange artifact during a mission in Chernobyl, it becomes apparent to Optimus Prime that the United States government has been less than forthright with them.
 { data-search-exclude }
 
-[TMDB](38356)
+[TMDB](https://www.themoviedb.org/movie/38356)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Transformers%20Dark%20of%20the%20Moon%20%282011%29%20Atmos.jpg)

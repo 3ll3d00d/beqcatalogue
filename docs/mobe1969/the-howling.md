@@ -12,7 +12,7 @@ After a bizarre and near fatal encounter with a serial killer, a newswoman is se
 **BLU-RAY ONLY**
 { data-search-exclude }
 
-[TMDB](11298)
+[TMDB](https://www.themoviedb.org/movie/11298)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Howling%20%281981%29%20DTS-HD%20MA%205.1.jpg)
@@ -32,7 +32,7 @@ UHD
 **UHD ONLY**
 { data-search-exclude }
 
-[TMDB](11298)
+[TMDB](https://www.themoviedb.org/movie/11298)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/The%20Howling%20%281981%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

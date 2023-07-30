@@ -10,7 +10,7 @@ The six-member crew of the International Space Station is tasked with studying a
 DD+ 3dB down
 { data-search-exclude }
 
-[TMDB](395992)
+[TMDB](https://www.themoviedb.org/movie/395992)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Life%20%282017%29%20Atmos.jpg)

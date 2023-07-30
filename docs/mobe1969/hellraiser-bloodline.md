@@ -7,7 +7,7 @@
 Three generations of the same family deal with the consequences of unleashing the forces of hell.
 { data-search-exclude }
 
-[TMDB](8766)
+[TMDB](https://www.themoviedb.org/movie/8766)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/H/Hellraiser%20IV%20Bloodline%20%281996%29%20DD%205.1.jpg)

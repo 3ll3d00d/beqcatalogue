@@ -12,7 +12,7 @@ A straight-laced bank manager is about to marry the love of his life. When his b
 +2dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62668863)  [TMDB](921636)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62668863)  [TMDB](https://www.themoviedb.org/movie/921636)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Out-Laws%20(2023)%20(%2B2%20gain)%20DD%2BAtmos.jpg)

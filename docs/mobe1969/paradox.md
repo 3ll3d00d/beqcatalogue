@@ -7,7 +7,7 @@
 When a Hong Kong police negotiator is informed about the sudden disappearance of his 16-year-old daughter in Thailand,  he travels there to search for her whereabouts.
 { data-search-exclude }
 
-[TMDB](452558)
+[TMDB](https://www.themoviedb.org/movie/452558)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Paradox%20%282017%29%28Ca%29%20TrueHD%205.1.jpg)
@@ -19,7 +19,7 @@ When a Hong Kong police negotiator is informed about the sudden disappearance of
 When a Hong Kong police negotiator is informed about the sudden disappearance of his 16-year-old daughter in Thailand,  he travels there to search for her whereabouts.
 { data-search-exclude }
 
-[TMDB](452558)
+[TMDB](https://www.themoviedb.org/movie/452558)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Paradox%20%282017%29%28Ma%29%20TrueHD%205.1.jpg)

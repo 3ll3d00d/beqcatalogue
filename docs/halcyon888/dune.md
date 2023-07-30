@@ -9,7 +9,7 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 
 **MV Adjustment:** -4.5 dB
 
-[TMDB](438631)
+[TMDB](https://www.themoviedb.org/movie/438631)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Dune%202021%20THD%20Atmos%20PvA%20v3.jpg)
@@ -28,7 +28,7 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 HBO Max
 { data-search-exclude }
 
-[TMDB](438631)
+[TMDB](https://www.themoviedb.org/movie/438631)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Dune%202021%20DDP%20Atmos%20PvA.jpg)

@@ -11,7 +11,7 @@ A group of Iraq War veterans goes on the run from U.S. military forces while the
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62618314)  [TMDB](34544)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62618314)  [TMDB](https://www.themoviedb.org/movie/34544)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20A-Team%20(2010)%20Extended%20Cut%20DTS-HD%20MA%205.1.jpg)

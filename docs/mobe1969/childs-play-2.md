@@ -7,7 +7,7 @@
 When Andy’s mother is admitted to a psychiatric hospital, the young boy is placed in foster care, andChucky, determined to claim Andy's soul, is not far behind.
 { data-search-exclude }
 
-[TMDB](11186)
+[TMDB](https://www.themoviedb.org/movie/11186)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Child%27s%20Play%202%20%281990%29%20Atmos.jpg)
@@ -19,7 +19,7 @@ When Andy’s mother is admitted to a psychiatric hospital, the young boy is pla
 When Andy’s mother is admitted to a psychiatric hospital, the young boy is placed in foster care, andChucky, determined to claim Andy's soul, is not far behind.
 { data-search-exclude }
 
-[TMDB](11186)
+[TMDB](https://www.themoviedb.org/movie/11186)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Child%27s%20Play%202%20%281990%29%20DTS-HD%20MA%202.0.jpg)

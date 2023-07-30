@@ -7,7 +7,7 @@
 After Kick-Ass’ insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist — reborn as The Mother Fucker — only the blade-wielding Hit-Girl can prevent their annihilation.
 { data-search-exclude }
 
-[TMDB](59859)
+[TMDB](https://www.themoviedb.org/movie/59859)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/Kick-Ass%202%20%282013%29%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@ For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62690366)  [TMDB](65)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62690366)  [TMDB](https://www.themoviedb.org/movie/65)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/8%20Mile%20PvA.jpg)

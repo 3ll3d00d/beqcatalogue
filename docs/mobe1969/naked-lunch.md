@@ -12,7 +12,7 @@ Blank-faced bug killer Bill Lee and his dead-eyed wife, Joan, like to get high o
 UHD
 { data-search-exclude }
 
-[TMDB](2742)
+[TMDB](https://www.themoviedb.org/movie/2742)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/N/Naked%20Lunch%20%281991%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

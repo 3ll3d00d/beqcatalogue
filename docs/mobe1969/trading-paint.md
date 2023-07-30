@@ -10,7 +10,7 @@ A stock car racing legend is drawn back to the dirt track when his son, an aspir
 DD+ 5dB down
 { data-search-exclude }
 
-[TMDB](474214)
+[TMDB](https://www.themoviedb.org/movie/474214)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Trading%20Paint%20%282019%29%20DTS-HD%20MA%205.1.jpg)

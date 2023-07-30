@@ -10,7 +10,7 @@ An American pilot is sent to a Chinese province to teach a crew of would-be pilo
 Sadly, the shorter dub...
 { data-search-exclude }
 
-[TMDB](345934)
+[TMDB](https://www.themoviedb.org/movie/345934)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Air%20Strike%20%282018%29%20DTS-HD%20MA%205.1.jpg)
@@ -27,7 +27,7 @@ An American pilot is sent to a Chinese province to teach a crew of would-be pilo
 Scandinavian Blu-Ray. Proper cut and language. English subtitles https://drive.google.com/file/d/1ZizL16Cb7XQRQTAAf67ysWJE08aO24sU/view?usp=share_link.
 { data-search-exclude }
 
-[TMDB](345934)
+[TMDB](https://www.themoviedb.org/movie/345934)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Air%20Strike%20%282018%29%28Ma%29%28EC%29%20DTS-HD%20MA%205.1.jpg)

@@ -10,7 +10,7 @@ A mysterious spacecraft captures Russian and American space capsules and brings 
 DD+ 4dB down
 { data-search-exclude }
 
-[TMDB](667)
+[TMDB](https://www.themoviedb.org/movie/667)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Y/You%20Only%20Live%20Twice%20%281967%29%20DTS-HD%20MA%205.1.jpg)

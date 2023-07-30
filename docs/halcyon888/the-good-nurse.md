@@ -12,7 +12,7 @@ Suspicious that her colleague is responsible for a series of mysterious patient 
 +3dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](541134)
+[TMDB](https://www.themoviedb.org/movie/541134)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Good%20Nurse%202022%20PvA%20v2.jpg)

@@ -7,7 +7,7 @@
 A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero when Earth is invaded by a mysterious army bent on destruction.
 { data-search-exclude }
 
-[TMDB](429415)
+[TMDB](https://www.themoviedb.org/movie/429415)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Extinction%20%282018%29%20DD%2B%205.1.jpg)

@@ -7,7 +7,7 @@
 A medieval English knight is magically transported to present day where he ends up falling for a high school science teacher.
 { data-search-exclude }
 
-[TMDB](611207)
+[TMDB](https://www.themoviedb.org/movie/611207)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/K/The%20Knight%20Before%20Christmas%20%282019%29%20DD%2B%20Atmos.jpg)

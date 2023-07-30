@@ -7,7 +7,7 @@
 Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.
 { data-search-exclude }
 
-[TMDB](107)
+[TMDB](https://www.themoviedb.org/movie/107)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Snatch%20%282000%29%20Atmos.jpg)
@@ -19,7 +19,7 @@ Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompete
 Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.
 { data-search-exclude }
 
-[TMDB](107)
+[TMDB](https://www.themoviedb.org/movie/107)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Snatch%20%282000%29%20DTS-HD%20MA%205.1.jpg)

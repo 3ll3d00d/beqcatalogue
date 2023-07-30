@@ -7,7 +7,7 @@
 As his wedding day approaches, Ben heads to Miami with his soon-to-be brother-in-law James to bring down a drug dealer who's supplying the dealers of Atlanta with product.
 { data-search-exclude }
 
-[TMDB](323675)
+[TMDB](https://www.themoviedb.org/movie/323675)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Ride%20Along%202%20%282016%29%20DTS-HD%20MA%205.1.jpg)

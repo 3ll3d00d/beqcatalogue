@@ -9,7 +9,7 @@ After his mission is exposed, an undercover CIA operative stuck deep in hostile 
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62631425)  [TMDB](717930)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62631425)  [TMDB](https://www.themoviedb.org/movie/717930)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Kandahar%202023%20PvA%20v2.jpg)

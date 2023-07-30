@@ -7,7 +7,7 @@
 Garden gnomes, Gnomeo & Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.
 { data-search-exclude }
 
-[TMDB](370567)
+[TMDB](https://www.themoviedb.org/movie/370567)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sherlock%20Gnomes%20%282018%29%20DD%2B%205.1.jpg)

@@ -7,7 +7,7 @@
 It is the dawn of World War III. In mid-western America, a group of teenagers band together to defend their town—and their country—from invading Soviet forces.
 { data-search-exclude }
 
-[TMDB](1880)
+[TMDB](https://www.themoviedb.org/movie/1880)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Red%20Dawn%20%281984%29%20DTS-HD%20MA%205.1.jpg)
@@ -24,7 +24,7 @@ It is the dawn of World War III. In mid-western America, a group of teenagers ba
 UHD
 { data-search-exclude }
 
-[TMDB](1880)
+[TMDB](https://www.themoviedb.org/movie/1880)
 { data-search-exclude }
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Red%20Dawn%20%281984%29%28UHD%29%20DTS-HD%20MA%205.1.jpg)

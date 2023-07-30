@@ -7,7 +7,7 @@
 Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.
 { data-search-exclude }
 
-[TMDB](675445)
+[TMDB](https://www.themoviedb.org/movie/675445)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/PAW%20Patrol%20The%20Movie%20%282021%29%20Atmos.jpg)

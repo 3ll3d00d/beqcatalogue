@@ -7,7 +7,7 @@
 A man on the verge of a promotion takes a mysterious hallucinogenic drug that begins to tear down his reality and expose his life for what it really is.
 { data-search-exclude }
 
-[TMDB](619263)
+[TMDB](https://www.themoviedb.org/movie/619263)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/The%20Wave%20%282019%29%20DTS-HD%20MA%205.1.jpg)
