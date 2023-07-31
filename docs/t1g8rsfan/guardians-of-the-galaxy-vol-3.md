@@ -1,6 +1,6 @@
 # Guardians of the Galaxy Vol. 3
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **2023 • PG-13 • 2h 30m • Science Fiction, Adventure, Action • t1g8rsfan**
 
@@ -8,6 +8,9 @@ Peter Quill, still reeling from the loss of Gamora, must rally his team around h
 { data-search-exclude }
 
 **MV Adjustment:** +3.0 dB
+
++4dB Dialnorm Compensation - DD+ Atmos​
+{ data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62665173)  [TMDB](https://www.themoviedb.org/movie/447365)
 { data-search-exclude }
