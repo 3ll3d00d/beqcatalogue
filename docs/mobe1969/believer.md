@@ -12,9 +12,9 @@ After a traumatic event, a drug trafficker turns sides and conspires with a dang
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Believer%20%282018%29%28Ko%29%20Atmos.jpg)
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
-**2018 • 15 • 2h 3m • Korean • Documentary • mobe1969**
+**2018 • 15 • 2h 3m • Korean • Crime, Action, Thriller • mobe1969**
 
 After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel.
 { data-search-exclude }
