@@ -17,10 +17,10 @@ Dialnorm Compensation: E01-E02 +4dB, E05 +3dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/qCNNK7p.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hijack%202023%20S01E01%2CE02%2CE05%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/nszHvrh.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hijack%202023%20S01E01%2CE02%2CE05%20peak%20spectrum.png)
 
 ## Season 1 Episode 3
 
@@ -37,10 +37,10 @@ Dialnorm Compensation: E03 +4dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/Of4fyRc.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hijack%202023%20S01E03%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/iB8nUoD.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hijack%202023%20S01E03%20peak%20spectrum.png)
 
 ## Season 1 Episode 4
 
@@ -57,10 +57,10 @@ Dialnorm Compensation: E04 +5dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/97epekg.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hijack%202023%20S01E04%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/c9ammXB.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hijack%202023%20S01E04%20peak%20spectrum.png)
 
 ## Season 1 Episode 6
 
@@ -77,8 +77,28 @@ Dialnorm Compensation: E06 +4dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/X3qnp5R.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hijack%202023%20S01E06%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/0tIbt3O.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hijack%202023%20S01E06%20peak%20spectrum.png)
+
+## Season 1 Episode 7
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +3.0 dB
+
+Dialnorm Compensation: E07 +6.0 dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62646771)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hijack%202023%20S01E07%20PvA.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hijack%202023%20S01E07%20peak%20spectrum.png)
 
