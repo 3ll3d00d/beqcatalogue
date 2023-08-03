@@ -16,7 +16,7 @@ A frustrated man decides to take justice into his own hands after a plea bargain
 
 Unrated Cut
 
-**2009 • R • 1h 49m • Drama, Crime, Thriller • mobe1969**
+**2009 • R • 1h 59m • Drama, Crime, Thriller • mobe1969**
 
 A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.
 { data-search-exclude }
