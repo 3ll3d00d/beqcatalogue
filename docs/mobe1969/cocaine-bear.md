@@ -7,7 +7,7 @@
 Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.
 { data-search-exclude }
 
-Note 5.1 6dB down
+DD+ 5.1 5dB up
 { data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/804150)
