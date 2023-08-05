@@ -14,7 +14,7 @@ After high school slacker Ferris Bueller successfully fakes an illness in order 
 [TMDB](https://www.themoviedb.org/movie/9377)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ferris%20Bueller's%20Day%20Off%20(1986)%20(UHD)%20THD%20Atmos%20PvA.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ferris%20Buellers%20Day%20Off%20(1986)%20(UHD)%20THD%20Atmos%20PvA.jpg)
 
-![img 1](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ferris%20Bueller's%20Day%20Off%20(1986)%20(UHD)%20THD%20Atmos%20peak%20spectrum.png)
+![img 1](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ferris%20Buellers%20Day%20Off%20(1986)%20(UHD)%20THD%20Atmos%20peak%20spectrum.png)
 
