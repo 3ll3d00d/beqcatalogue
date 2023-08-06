@@ -36,7 +36,7 @@
 
 ![img 0](https://i.imgur.com/PyV8v5a.png)
 
-## Season 1 Episode 3
+## Season 1 Episodes 3-4
 
 * DD+
 
@@ -51,8 +51,8 @@ Dialnorm Compensation: E03 +7dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/IdmG5Th.jpg)
+![img 0](https://i.imgur.com/FZ3ssLv.jpg)
 
 
-![img 0](https://i.imgur.com/L1RdWOW.png)
+![img 0](https://i.imgur.com/143EhYd.png)
 
