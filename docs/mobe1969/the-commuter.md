@@ -1,8 +1,8 @@
 # The Commuter
 
-## Atmos
+## Atmos, DD+ 5.1
 
-**2018 • PG-13 • 1h 44m • Action, Thriller • mobe1969**
+**2018 • PG-13 • 1h 44m • Action, Thriller, Mystery • mobe1969**
 
 A businessman, on his daily commute home, gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
 { data-search-exclude }
