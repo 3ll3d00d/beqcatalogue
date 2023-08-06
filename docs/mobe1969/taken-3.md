@@ -18,7 +18,7 @@ Ex-government operative Bryan Mills finds his life is shattered when he's falsel
 
 Extended Cut
 
-**2015 • PG-13 • 1h 55m • Thriller, Action • mobe1969**
+**2015 • NR • 1h 55m • Thriller, Action • mobe1969**
 
 Ex-government operative Bryan Mills finds his life is shattered when he's falsely accused of a murder that hits close to home. As he's pursued by a savvy police inspector, Mills employs his particular set of skills to track the real killer and exact his unique brand of justice.
 { data-search-exclude }
