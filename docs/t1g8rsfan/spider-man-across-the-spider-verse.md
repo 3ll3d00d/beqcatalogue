@@ -9,6 +9,9 @@ After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood S
 
 **MV Adjustment:** +5.0 dB
 
++3dB Dialnorm Compensation
+{ data-search-exclude }
+
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62735368)  [TMDB](https://www.themoviedb.org/movie/569094)
 { data-search-exclude }
 
