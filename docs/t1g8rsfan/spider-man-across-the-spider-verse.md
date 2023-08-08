@@ -9,7 +9,7 @@ After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood S
 
 **MV Adjustment:** +5.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/569094)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62735368)  [TMDB](https://www.themoviedb.org/movie/569094)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Spider-Man%20Across%20the%20Spider-Verse%20(2023)%20(%2B5%20gain)%20DD%2BAtmos.jpg)
