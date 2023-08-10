@@ -12,7 +12,7 @@
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Star%20Trek%20Strange%20New%20Worlds%20%282022%29%28S1%201-10%29%20DD%2B%205.1.jpg)
 
-## Season 2 Episodes 1-8
+## Season 2
 
 * DD+ 5.1
 
