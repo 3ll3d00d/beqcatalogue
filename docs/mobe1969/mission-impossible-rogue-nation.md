@@ -1,6 +1,6 @@
 # Mission: Impossible - Rogue Nation
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **2015 • PG-13 • 2h 11m • Action, Adventure • mobe1969**
 
