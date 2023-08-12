@@ -42,14 +42,14 @@ Dialnorm Compensation: E02 +6dB, E03 +5dB
 
 ![img 0](https://i.imgur.com/ApEECf8.png)
 
-## Season 2 Episode 4
+## Season 2 Episodes 4-5
 
 * DD+ Atmos
 
 
 **MV Adjustment:** +6.0 dB
 
-Dialnorm Compensation: E04 +4dB
+Dialnorm Compensation: E04-E05 +4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62683265)
@@ -57,8 +57,8 @@ Dialnorm Compensation: E04 +4dB
 * Production Year: 2021
 
 
-![img 0](https://i.imgur.com/qqbQ1nI.jpg)
+![img 0](https://i.imgur.com/STexyoJ.jpg)
 
 
-![img 0](https://i.imgur.com/v1rbrWM.png)
+![img 0](https://i.imgur.com/ybahDIN.png)
 
