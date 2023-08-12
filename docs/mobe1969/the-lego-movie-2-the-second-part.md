@@ -1,6 +1,6 @@
 # The Lego Movie 2: The Second Part
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **2019 • PG • 1h 46m • Action, Adventure, Animation, Comedy, Family • mobe1969**
 

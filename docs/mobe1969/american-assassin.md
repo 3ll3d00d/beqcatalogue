@@ -1,6 +1,6 @@
 # American Assassin
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2017 • R • 1h 52m • Action, Thriller • mobe1969**
 
