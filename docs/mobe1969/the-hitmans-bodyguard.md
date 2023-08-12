@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2017 • R • 1h 58m • Thriller, Comedy, Crime, Action • mobe1969**
+**2017 • R • 1h 58m • Action, Comedy • mobe1969**
 
 The world’s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
 { data-search-exclude }
