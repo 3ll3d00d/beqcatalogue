@@ -19,7 +19,7 @@
 
 ![img 0](https://i.imgur.com/qX5UXoX.png)
 
-## Season 1 Episode 2
+## Season 1 Episodes 2, 5
 
 * DD+
 
@@ -31,10 +31,10 @@
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/8DULBYF.jpg)
+![img 0](https://i.imgur.com/O5XlTsc.jpg)
 
 
-![img 0](https://i.imgur.com/PyV8v5a.png)
+![img 0](https://i.imgur.com/EG1gBZl.png)
 
 ## Season 1 Episodes 3-4
 
