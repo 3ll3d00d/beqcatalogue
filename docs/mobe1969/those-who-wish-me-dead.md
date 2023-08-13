@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1, DD+ 5.1
 
-**2021 • R • 1h 40m • Drama, Thriller, Action • mobe1969**
+**2021 • R • 1h 40m • Thriller, Action • mobe1969**
 
 A young boy finds himself pursued by two assassins in the Montana wilderness, with a survival expert determined to protect him, and a forest fire threatening to consume them all.
 { data-search-exclude }
