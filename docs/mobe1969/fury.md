@@ -12,7 +12,7 @@ In the last months of World War II, as the Allies make their final push in the E
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Fury%20%282014%29%20Atmos.jpg)
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2014 • R • 2h 15m • War, Drama, Action • mobe1969**
 
