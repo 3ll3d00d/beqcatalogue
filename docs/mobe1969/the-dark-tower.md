@@ -1,8 +1,8 @@
 # The Dark Tower
 
-## Atmos
+## Atmos, DD+ 5.1
 
-**2017 • PG-13 • 1h 35m • Fantasy, Action, Science Fiction, Adventure • mobe1969**
+**2017 • PG-13 • 1h 35m • Fantasy, Action, Science Fiction • mobe1969**
 
 A boy haunted by visions of a parallel world aids its disillusioned guardian in preventing the destruction of the nexus of universes known as the Dark Tower.
 { data-search-exclude }
