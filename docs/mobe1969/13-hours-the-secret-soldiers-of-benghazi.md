@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2016 • R • 2h 24m • War, Action, History, Thriller, Drama • mobe1969**
+**2016 • R • 2h 24m • War, Action, History, Drama • mobe1969**
 
 An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.
 { data-search-exclude }
