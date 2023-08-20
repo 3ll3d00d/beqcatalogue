@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2006 • PG-13 • 1h 32m • Thriller, Adventure, Action, Drama • mobe1969**
+**2006 • PG-13 • 1h 32m • Action • mobe1969**
 
 A group of diamond thieves on the run kidnap the wife of a recently discharged marine who goes on a chase through the South Carolinian wilderness to retrieve her.
 { data-search-exclude }
