@@ -1,6 +1,6 @@
 # Blockers
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DR+ 5.1
 
 **2018 • R • 1h 42m • Comedy • mobe1969**
 
