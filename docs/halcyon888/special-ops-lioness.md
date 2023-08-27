@@ -56,3 +56,20 @@
 
 ![img 0](https://i.imgur.com/HrBV7uG.png)
 
+## Season 1 Episode 7
+
+* DD+
+
+
+**MV Adjustment:** +6.0 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62703233)
+
+* Production Year: 2023
+
+
+![img 0](https://i.imgur.com/2RrJWKr.jpg)
+
+
+![img 0](https://i.imgur.com/dt3ApRA.png)
+
