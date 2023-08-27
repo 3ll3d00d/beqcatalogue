@@ -1,6 +1,6 @@
 # Rush
 
-## DTS-HD MA 5.1
+## TrueHD 5.1, DTS-HD MA 5.1
 
 **2013 • R • 2h 3m • Drama, Action • t1g8rsfan**
 
