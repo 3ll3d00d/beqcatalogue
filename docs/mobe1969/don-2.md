@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2011 • 12A • 2h 19m • Hindi • Action, Thriller • mobe1969**
+**2011 • 12A • 2h 28m • Hindi • Action, Thriller • mobe1969**
 
 Having conquered the Asian underworld, crime boss Don sets in motion a plan that will give him dominion over Europe.
 { data-search-exclude }

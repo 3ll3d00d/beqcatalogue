@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2006 • PG-13 • 2h 58m • Hindi • Action, Drama, Thriller • mobe1969**
+**2006 • PG-13 • 2h 29m • Hindi • Action, Drama, Thriller • mobe1969**
 
 DCP DeSilva sees a way to bring to justice the feared head of a criminal empire by recruiting a man named Vijay, who looks exactly like the crime boss. The ruse works too well, and soon Vijay finds his life in danger when DeSilva, the only one who knows his true identity, dies.
 { data-search-exclude }
