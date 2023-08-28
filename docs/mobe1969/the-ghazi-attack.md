@@ -7,6 +7,9 @@
 India’s first underwater war film tries to decode the mystery behind the sinking of Pakistani submarine PNS Ghazi during the Indo-Pak war of 1971.
 { data-search-exclude }
 
+Telugu original same
+{ data-search-exclude }
+
 [TMDB](https://www.themoviedb.org/movie/442405)
 { data-search-exclude }
 
