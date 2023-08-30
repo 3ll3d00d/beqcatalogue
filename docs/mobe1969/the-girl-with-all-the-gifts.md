@@ -1,8 +1,8 @@
-# The Girl with All the Gifts
+# The Girl With All The Gifts
 
 ## DTS-HD MA 5.1
 
-**2016 • R • 1h 50m • Science Fiction, Horror, Thriller, Drama • mobe1969**
+**2016 • R • 1h 50m • Action, Horror, Science Fiction • mobe1969**
 
 In the future, a strange fungus has changed nearly everyone into a thoughtless, flesh-eating monster. When a scientist and a teacher find a girl who seems to be immune to the fungus, they all begin a journey to save humanity.
 { data-search-exclude }
