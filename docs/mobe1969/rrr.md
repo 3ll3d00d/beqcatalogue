@@ -10,5 +10,5 @@ A fictional history of two legendary revolutionaries' journey away from home bef
 [TMDB](https://www.themoviedb.org/movie/579974)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/RRR%20%282022%29%28Hi%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/RRR%20(2022)(Hi)%20DD+%20Atmos.jpg)
 

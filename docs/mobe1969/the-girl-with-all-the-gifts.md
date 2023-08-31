@@ -10,5 +10,5 @@ In the future, a strange fungus has changed nearly everyone into a thoughtless, 
 [TMDB](https://www.themoviedb.org/movie/375366)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/The%20Girl%20With%20All%20The%20Gifts%20%282016%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/The%20Girl%20With%20All%20The%20Gifts%20(2016)%20DTS-HD%20MA%205.1.jpg)
 
