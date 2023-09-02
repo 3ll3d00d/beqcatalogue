@@ -1,5 +1,19 @@
 # Stargate
 
+## DD+ 5.1
+
+Theatrical Cut
+
+**1994 • PG-13 • 2h 1m • Action, Adventure, Science Fiction • mobe1969**
+
+An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/2164)
+{ data-search-exclude }
+
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stargate%20(1994)(TC)%20DD+%205.1.jpg)
+
 ## DTS-HD MA 7.1
 
 Extended Cut
@@ -12,7 +26,7 @@ An interstellar teleportation device, found in Egypt, leads to a planet with hum
 [TMDB](https://www.themoviedb.org/movie/2164)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stargate%20%281994%29%28EC%29%20DTS-HD%20MA%207.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stargate%20%281994%29%28EC%29%20DTS-HD%20MA%207.1.jpg)
 
 ## DTS-HD MA 7.1
 
@@ -26,5 +40,5 @@ An interstellar teleportation device, found in Egypt, leads to a planet with hum
 [TMDB](https://www.themoviedb.org/movie/2164)
 { data-search-exclude }
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stargate%20%281994%29%28TC%29%20DTS-HD%20MA%207.1.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Stargate%20%281994%29%28TC%29%20DTS-HD%20MA%207.1.jpg)
 
