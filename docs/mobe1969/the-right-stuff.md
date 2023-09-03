@@ -1,6 +1,6 @@
 # The Right Stuff
 
-## TrueHD 5.1
+## TrueHD 5.1, DD+ 5.1
 
 **1983 • PG • 3h 13m • Drama, History, Adventure • mobe1969**
 
@@ -10,5 +10,5 @@ A chronicle of the original Mercury astronauts in the formation of America's spa
 [TMDB](https://www.themoviedb.org/movie/9549)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Right%20Stuff%20%281983%29%20TrueHD%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Right%20Stuff%20(1983)%20TrueHD%205.1.jpg)
 
