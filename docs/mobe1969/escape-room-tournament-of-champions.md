@@ -29,5 +29,5 @@ Atmos is 5dB hotter than 5.1 report.
 [TMDB](https://www.themoviedb.org/movie/585216)
 { data-search-exclude }
 
-![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Escape%20Room%20Tournament%20of%20Champions%20%282021%29%28TC%29%20DD%2B%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Escape%20Room%20Tournament%20of%20Champions%20(2021)(TC)%20DD+%205.1.jpg)
 
