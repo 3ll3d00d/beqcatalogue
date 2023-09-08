@@ -1,6 +1,6 @@
 # Prisoners of the Ghostland
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ Atmos
 
 **2021 • NR • 1h 43m • Action, Fantasy • mobe1969**
 
@@ -10,5 +10,5 @@ In the treacherous frontier city of Samurai Town, a ruthless bank robber is spru
 [TMDB](https://www.themoviedb.org/movie/523638)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Prisoners%20of%20the%20Ghostland%20%282021%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Prisoners%20of%20the%20Ghostland%20(2021)%20DTS-HD%20MA%205.1.jpg)
 
