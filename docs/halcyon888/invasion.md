@@ -18,21 +18,21 @@
 
 ![img 0](https://i.imgur.com/KWXEKXH.png)
 
-## Season 2 Episode 2
+## Season 2 Episodes 2-3
 
 * DD+ Atmos
 
 
 **MV Adjustment:** +8.0 dB
 
-+3dB Dialnorm Compensation
+Dialnorm Compensation: E02-E03 +3dB
 { data-search-exclude }
 
 * Production Year: 2021
 
 
-![img 0](https://i.imgur.com/UooA9Go.jpg)
+![img 0](https://i.imgur.com/RiqGrQh.jpg)
 
 
-![img 0](https://i.imgur.com/w0U64hy.png)
+![img 0](https://i.imgur.com/526mq0t.png)
 
