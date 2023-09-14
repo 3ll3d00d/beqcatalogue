@@ -1,6 +1,6 @@
 # The Little Mermaid
 
-## DD+ Atmos
+## DD+ Atmos, DTS-HD MA 7.1
 
 **2023 • PG • 2h 15m • Adventure, Family, Fantasy, Romance • mobe1969**
 
@@ -10,5 +10,5 @@ The youngest of King Triton’s daughters, and the most defiant, Ariel longs to 
 [TMDB](https://www.themoviedb.org/movie/447277)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Little%20Mermaid%20%282023%29%20DD%2B%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Little%20Mermaid%20(2023)%20DD+%20Atmos.jpg)
 
