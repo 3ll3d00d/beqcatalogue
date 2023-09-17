@@ -10,5 +10,5 @@ New York detective John McClane is back and kicking bad-guy butt in the third in
 [TMDB](https://www.themoviedb.org/movie/1572)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Die%20Hard%20With%20a%20Vengeance%20%281995%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Die%20Hard%20With%20a%20Vengeance%20(1995)%20DTS-HD%20MA%205.1.jpg)
 

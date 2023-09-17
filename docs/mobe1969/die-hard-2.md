@@ -10,5 +10,5 @@ Off-duty cop John McClane is gripped with a feeling of déjà vu when, on a snow
 [TMDB](https://www.themoviedb.org/movie/1573)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Die%20Hard%202%20%281990%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Die%20Hard%202%20(1990)%20DTS-HD%20MA%205.1.jpg)
 

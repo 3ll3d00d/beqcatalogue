@@ -10,5 +10,5 @@ NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for 
 [TMDB](https://www.themoviedb.org/movie/562)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Die%20Hard%20%281988%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Die%20Hard%20(1988)%20DTS-HD%20MA%205.1.jpg)
 
