@@ -1,6 +1,6 @@
 # The Rock
 
-## LPCM 5.1
+## LPCM 5.1, DD+ 5.1
 
 **1996 • R • 2h 17m • Action, Adventure, Thriller • mobe1969**
 
@@ -10,5 +10,5 @@ FBI chemical warfare expert Stanley Goodspeed is sent on an urgent mission with 
 [TMDB](https://www.themoviedb.org/movie/9802)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Rock%20%281996%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/The%20Rock%20(1996)%20LPCM%205.1.jpg)
 

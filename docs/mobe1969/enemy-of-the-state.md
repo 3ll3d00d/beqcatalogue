@@ -1,6 +1,6 @@
 # Enemy of the State
 
-## LPCM 5.1
+## LPCM 5.1, DD+ 5.1
 
 **1998 • R • 2h 12m • Action, Drama, Thriller • mobe1969**
 
@@ -10,5 +10,5 @@ A hotshot Washington criminal lawyer becomes the target of a rogue security exec
 [TMDB](https://www.themoviedb.org/movie/9798)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Enemy%20of%20the%20State%20%281998%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Enemy%20of%20the%20State%20(1998)%20LPCM%205.1.jpg)
 

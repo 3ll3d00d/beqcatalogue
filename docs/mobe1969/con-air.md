@@ -1,6 +1,6 @@
 # Con Air
 
-## LPCM 5.1, DD 5.1
+## LPCM 5.1, DD+ 5.1, DD 5.1
 
 **1997 • R • 1h 56m • Action, Thriller, Crime • mobe1969**
 
@@ -10,5 +10,5 @@ Newly-paroled former US Army ranger Cameron Poe is headed back to his wife, but 
 [TMDB](https://www.themoviedb.org/movie/1701)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Con%20Air%20%281997%29%20LPCM%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Con%20Air%20(1997)%20LPCM%205.1.jpg)
 
