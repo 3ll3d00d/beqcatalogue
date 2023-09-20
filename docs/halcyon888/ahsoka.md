@@ -42,3 +42,23 @@ Dialnorm Compensation: E05 +4dB
 
 ![img 0](https://i.imgur.com/Qz3MpTx.png)
 
+## Season 1 Episode 6
+
+* DD+ Atmos
+
+
+**MV Adjustment:** -0.5 dB
+
+Dialnorm Compensation: E06 +4dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62770042)
+
+* Production Year: 2023
+
+
+![img 0](https://i.imgur.com/GmoUaRm.jpg)
+
+
+![img 0](https://i.imgur.com/oW31DbB.png)
+
