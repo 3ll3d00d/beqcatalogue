@@ -37,10 +37,10 @@ Dialnorm Compensation: E05 +4dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/NiFZ1SA.jpg)
+![img 0](https://i.imgur.com/5bNpF0F.jpg)
 
 
-![img 0](https://i.imgur.com/Qz3MpTx.png)
+![img 0](https://i.imgur.com/Fe6jWNB.png)
 
 ## Season 1 Episode 6
 
