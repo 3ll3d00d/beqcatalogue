@@ -1,6 +1,6 @@
 # Armageddon
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **1998 • PG-13 • 2h 31m • Action, Thriller, Science Fiction, Adventure • mobe1969**
 
@@ -10,5 +10,5 @@ When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determi
 [TMDB](https://www.themoviedb.org/movie/95)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Armageddon%20%281998%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Armageddon%20(1998)%20DTS-HD%20MA%205.1.jpg)
 
