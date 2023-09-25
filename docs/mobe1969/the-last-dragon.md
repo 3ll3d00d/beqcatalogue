@@ -1,6 +1,6 @@
 # The Last Dragon
 
-## Atmos
+## Atmos, DTS-HD MA 7.1
 
 **1985 • PG-13 • 1h 48m • Action, Adventure, Music • mobe1969**
 
