@@ -1,14 +1,14 @@
 # Gold
 
-## DTS-HD MA 5.1
+## DD+ 5.1
 
-**2022 • R • 1h 37m • Thriller, Action • mobe1969**
+**2018 • NR • 2h 50m • Hindi • Drama, History • mobe1969**
 
-In the not-too-distant future, two drifters traveling through the desert stumble across the biggest gold nugget ever found and the dream of immense wealth and greed takes hold. They hatch a plan to excavate their bounty, with one man leaving to secure the necessary tools while the other remains with the gold. The man who remains must endure harsh desert elements, ravenous wild dogs, and mysterious intruders, while battling the sinking suspicion that he has been abandoned to his fate.
+Set in 1948, the historic story of India's first Olympic medal post their independence.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/760926)
+[TMDB](https://www.themoviedb.org/movie/478682)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gold%20%282022%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gold%20(2018)(Hi)%20DD+%205.1.jpg)
 
