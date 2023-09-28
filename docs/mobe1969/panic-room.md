@@ -24,7 +24,7 @@ Trapped in their New York brownstone's panic room, a hidden chamber built as a s
 
 ![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/Panic%20Room%20%282002%29%20DD%205.1.jpg)
 
-## DD+ 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2002 • R • 1h 51m • Crime, Drama, Thriller • mobe1969**
 
