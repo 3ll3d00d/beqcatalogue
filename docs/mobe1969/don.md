@@ -1,14 +1,14 @@
 # Don
 
-## DD+ 5.1
+## DTS-HD MA 5.1
 
-**2006 • PG-13 • 2h 29m • Hindi • Action, Drama, Thriller • mobe1969**
+**2006 • NR • 0h 0m • Family, Drama • mobe1969**
 
-DCP DeSilva sees a way to bring to justice the feared head of a criminal empire by recruiting a man named Vijay, who looks exactly like the crime boss. The ruse works too well, and soon Vijay finds his life in danger when DeSilva, the only one who knows his true identity, dies.
+Don, a rich twelve-year-old, is kicked out of school. He is send to another school where he has difficulties fitting in.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/17501)
+[TMDB](https://www.themoviedb.org/movie/92979)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Don%20%282006%29%28Hi%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Don%20(2006)%20DTS-HD%20MA%205.1.jpg)
 
