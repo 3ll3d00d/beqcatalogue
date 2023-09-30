@@ -1,5 +1,19 @@
 # Talk to Me
 
+## Atmos
+
+**2023 • R • 1h 35m • Horror, Thriller • halcyon888**
+
+When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.
+{ data-search-exclude }
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62814213)  [TMDB](https://www.themoviedb.org/movie/1008042)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Talk%20to%20Me%20(2023)%20THD%20Atmos%20PvA.jpg)
+
+![img 1](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Talk%20to%20Me%20(2023)%20THD%20Atmos%20peak%20spectrum.png)
+
 ## DD+
 
 **2022 • R • 1h 35m • Horror, Thriller • halcyon888**
@@ -12,7 +26,7 @@ When a group of friends discover how to conjure spirits using an embalmed hand, 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62814213)  [TMDB](https://www.themoviedb.org/movie/1008042)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Talk%20to%20Me%20(2023)%20DD%2B%205.1%20PvA%20v1.jpg)
+![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Talk%20to%20Me%20(2023)%20DD%2B%205.1%20PvA%20v1.jpg)
 
-![img 1](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Talk%20to%20Me%20(2023)%20DD%2B%205.1%20peak%20spectrum%20v1.png)
+![img 3](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Talk%20to%20Me%20(2023)%20DD%2B%205.1%20peak%20spectrum%20v1.png)
 
