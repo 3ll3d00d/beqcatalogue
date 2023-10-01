@@ -1,6 +1,6 @@
 # The Living Daylights
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **1987 • PG • 2h 10m • Action, Adventure, Thriller • mobe1969**
 
@@ -10,5 +10,5 @@ After a defecting Russian general reveals a plot to assassinate foreign spies, J
 [TMDB](https://www.themoviedb.org/movie/708)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Living%20Daylights%20%281987%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Living%20Daylights%20(1987)%20DTS-HD%20MA%205.1.jpg)
 

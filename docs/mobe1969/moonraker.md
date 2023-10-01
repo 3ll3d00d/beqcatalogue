@@ -1,6 +1,6 @@
 # Moonraker
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **1979 • PG • 2h 6m • Action, Adventure, Thriller, Science Fiction • mobe1969**
 
@@ -10,5 +10,5 @@ After Drax Industries' Moonraker space shuttle is hijacked, secret agent James B
 [TMDB](https://www.themoviedb.org/movie/698)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Moonraker%20%281979%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Moonraker%20(1979)%20DTS-HD%20MA%205.1.jpg)
 

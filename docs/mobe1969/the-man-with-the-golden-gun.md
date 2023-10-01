@@ -1,6 +1,6 @@
 # The Man with the Golden Gun
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **1974 • PG • 2h 5m • Adventure, Action, Thriller • mobe1969**
 
@@ -10,5 +10,5 @@ Cool government operative James Bond searches for a stolen invention that can tu
 [TMDB](https://www.themoviedb.org/movie/682)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Man%20with%20the%20Golden%20Gun%20%281974%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/The%20Man%20with%20the%20Golden%20Gun%20(1974)%20DTS-HD%20MA%205.1.jpg)
 
