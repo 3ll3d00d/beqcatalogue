@@ -1,6 +1,6 @@
 # Die Another Day
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2002 • PG-13 • 2h 13m • Adventure, Action, Thriller • mobe1969**
 
@@ -10,5 +10,5 @@ James Bond is sent to investigate the connection between a North Korean terroris
 [TMDB](https://www.themoviedb.org/movie/36669)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Die%20Another%20Day%20%282002%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Die%20Another%20Day%20(2002)%20DTS-HD%20MA%205.1.jpg)
 

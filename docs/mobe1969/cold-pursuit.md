@@ -1,6 +1,6 @@
 # Cold Pursuit
 
-## Atmos
+## Atmos, DD+ 5.1
 
 **2019 • R • 1h 59m • Action, Crime, Thriller • mobe1969**
 
@@ -10,5 +10,5 @@ The quiet family life of Nels Coxman, a snowplow driver, is upended after his so
 [TMDB](https://www.themoviedb.org/movie/438650)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cold%20Pursuit%20%282019%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Cold%20Pursuit%20(2019)%20Atmos.jpg)
 

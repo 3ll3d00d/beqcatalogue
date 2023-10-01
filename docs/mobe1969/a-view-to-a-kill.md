@@ -1,6 +1,6 @@
 # A View to a Kill
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **1985 • PG • 2h 11m • Adventure, Action, Thriller • mobe1969**
 
@@ -10,5 +10,5 @@ A newly-developed microchip designed by Zorin Industries for the British Governm
 [TMDB](https://www.themoviedb.org/movie/707)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20View%20to%20a%20Kill%20%281985%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/A%20View%20to%20a%20Kill%20(1985)%20DTS-HD%20MA%205.1.jpg)
 

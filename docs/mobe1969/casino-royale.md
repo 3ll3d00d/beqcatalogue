@@ -1,6 +1,6 @@
 # Casino Royale
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2006 • PG-13 • 2h 24m • Adventure, Action, Thriller • mobe1969**
 
@@ -10,5 +10,5 @@ Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a
 [TMDB](https://www.themoviedb.org/movie/36557)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Casino%20Royale%20%282006%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/Casino%20Royale%20(2006)%20DTS-HD%20MA%205.1.jpg)
 

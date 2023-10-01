@@ -1,6 +1,6 @@
 # From Russia with Love
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **1963 • PG • 1h 55m • Action, Thriller, Adventure • mobe1969**
 
@@ -10,5 +10,5 @@ Agent 007 is back in the second installment of the James Bond series, this time 
 [TMDB](https://www.themoviedb.org/movie/657)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/From%20Russia%20with%20Love%20%281963%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/From%20Russia%20with%20Love%20(1963)%20DTS-HD%20MA%205.1.jpg)
 

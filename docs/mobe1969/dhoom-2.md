@@ -12,3 +12,15 @@ Jai and Ali return, this time on the trail of an international thief who steals 
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dhoom%202%20%282006%29%28Hi%29%20DD%2B%205.1.jpg)
 
+## DTS-HD MA 5.1
+
+**2006 • PG-13 • 2h 31m • Hindi • Drama, Action, Thriller, Crime • mobe1969**
+
+Jai and Ali return, this time on the trail of an international thief who steals priceless artifacts and has chosen Mumbai as his next target.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/14194)
+{ data-search-exclude }
+
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Dhoom%202%20(2006)(Hi)%20DTS-HD%20MA%205.1.jpg)
+

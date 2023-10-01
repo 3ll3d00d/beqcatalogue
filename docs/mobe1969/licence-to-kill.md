@@ -1,6 +1,6 @@
 # Licence to Kill
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **1989 • PG-13 • 2h 13m • Adventure, Action, Thriller • mobe1969**
 
@@ -10,5 +10,5 @@ After capturing the notorious drug lord Franz Sanchez, Bond's close friend and f
 [TMDB](https://www.themoviedb.org/movie/709)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Licence%20to%20Kill%20%281989%29%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/Licence%20to%20Kill%20(1989)%20DTS-HD%20MA%205.1.jpg)
 
