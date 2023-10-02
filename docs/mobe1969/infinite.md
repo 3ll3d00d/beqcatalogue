@@ -1,6 +1,6 @@
 # Infinite
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **2021 • PG-13 • 1h 46m • Science Fiction, Action, Thriller • mobe1969**
 
@@ -10,5 +10,5 @@ Evan McCauley has skills he never learned and memories of places he has never vi
 [TMDB](https://www.themoviedb.org/movie/581726)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Infinite%20%282021%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/I/Infinite%20(2021)%20Atmos.jpg)
 

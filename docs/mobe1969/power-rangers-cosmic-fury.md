@@ -1,4 +1,4 @@
-# Power Rangers: Cosmic Fury
+# Power Rangers Cosmic Fury
 
 * Author: mobe1969
 
