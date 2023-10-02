@@ -1,14 +1,14 @@
 # Zero
 
-* Author: mobe1969
+## DD+ 5.1
 
-## Season 1
+**2018 • NR • 2h 44m • Hindi • Romance, Drama, Comedy • mobe1969**
 
-* DD+ 5.1
+Short in stature but big on love, a bachelor meets two very different women who broaden his horizons and help him find purpose in life.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/496076)
+{ data-search-exclude }
 
-* Production Year: 2021
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Zero%20%282021%29%28It%29%281-8%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/Z/Zero%20%282018%29%28Hi%29%20DD%2B%205.1.jpg)
 

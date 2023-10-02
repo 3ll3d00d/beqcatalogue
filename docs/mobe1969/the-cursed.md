@@ -1,14 +1,14 @@
 # The Cursed
 
-* Author: mobe1969
+## DTS-HD MA 5.1
 
-## Season 1
+**2021 • NR • 1h 51m • Horror, Fantasy, Mystery • mobe1969**
 
-* DD+ 2.0
+In the late 19th century, a brutal land baron slaughters a Roma clan, unleashing a curse on his family and village. In the days that follow, the townspeople are plagued by nightmares, the baron's son goes missing, and a boy is found murdered. The locals suspect a wild animal, but a visiting pathologist warns of a more sinister presence lurking in the woods.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/630392)
+{ data-search-exclude }
 
-* Production Year: 2020
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Cursed%20%282020%29%28Ko%29%28S1%20E1-12%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/C/The%20Cursed%20%282021%29%20DTS-HD%20MA%205.1.jpg)
 

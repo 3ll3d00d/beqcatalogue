@@ -1,94 +1,30 @@
 # Watchmen
 
-* Author: mobe1969
+## DTS-HD MA 5.1
 
-## Season 1 Episode 1
+Director's Cut
 
-* DTS-HD MA 5.1
+**2009 • R • 3h 6m • Action, Mystery, Science Fiction • mobe1969**
 
+In a gritty and alternate 1985 the glory days of costumed vigilantes have been brought to a close by a government crackdown, but after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so uncover a sinister plot that puts all of humanity in grave danger.
+{ data-search-exclude }
 
-* Production Year: 2019
+[TMDB](https://www.themoviedb.org/movie/13183)
+{ data-search-exclude }
 
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Watchmen%20%282009%29%28DC%29%20DTS-HD%20MA%205.1.jpg)
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Watchmen%20%282019%29%20DTS-HD%20MA%205.1/Watchmen%20%282019%29%28E1%29%20DTS-HD%20MA%205.1.jpg)
+## DTS-HD MA 5.1
 
-## Season 1 Episode 2
+Ultimate Cut
 
-* DTS-HD MA 5.1
+**2009 • R • 3h 35m • Action, Mystery, Science Fiction • mobe1969**
 
+In a gritty and alternate 1985 the glory days of costumed vigilantes have been brought to a close by a government crackdown, but after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so uncover a sinister plot that puts all of humanity in grave danger.
+{ data-search-exclude }
 
-* Production Year: 2019
+[TMDB](https://www.themoviedb.org/movie/13183)
+{ data-search-exclude }
 
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Watchmen%20%282019%29%20DTS-HD%20MA%205.1/Watchmen%20%282019%29%28E2%29%20DTS-HD%20MA%205.1.jpg)
-
-## Season 1 Episode 3
-
-* DTS-HD MA 5.1
-
-
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Watchmen%20%282019%29%20DTS-HD%20MA%205.1/Watchmen%20%282019%29%28E3%29%20DTS-HD%20MA%205.1.jpg)
-
-## Season 1 Episode 4
-
-* DTS-HD MA 5.1
-
-
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Watchmen%20%282019%29%20DTS-HD%20MA%205.1/Watchmen%20%282019%29%28E4%29%20DTS-HD%20MA%205.1.jpg)
-
-## Season 1 Episode 5
-
-* DTS-HD MA 5.1
-
-
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Watchmen%20%282019%29%20DTS-HD%20MA%205.1/Watchmen%20%282019%29%28E5%29%20DTS-HD%20MA%205.1.jpg)
-
-## Season 1 Episode 6
-
-* DTS-HD MA 5.1
-
-
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Watchmen%20%282019%29%20DTS-HD%20MA%205.1/Watchmen%20%282019%29%28E6%29%20DTS-HD%20MA%205.1.jpg)
-
-## Season 1 Episode 7
-
-* DTS-HD MA 5.1
-
-
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Watchmen%20%282019%29%20DTS-HD%20MA%205.1/Watchmen%20%282019%29%28E7%29%20DTS-HD%20MA%205.1.jpg)
-
-## Season 1 Episode 8
-
-* DTS-HD MA 5.1
-
-
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Watchmen%20%282019%29%20DTS-HD%20MA%205.1/Watchmen%20%282019%29%28E8%29%20DTS-HD%20MA%205.1.jpg)
-
-## Season 1 Episode 9
-
-* DTS-HD MA 5.1
-
-
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Watchmen%20%282019%29%20DTS-HD%20MA%205.1/Watchmen%20%282019%29%28E9%29%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Watchmen%20%282009%29%28ULT%29%20DTS-HD%20MA%205.1.jpg)
 

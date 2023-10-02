@@ -1,14 +1,14 @@
 # Black Knight
 
-* Author: mobe1969
+## DD+ 5.1
 
-## Season 1
+**2001 • PG-13 • 1h 35m • Comedy, Fantasy, Adventure • mobe1969**
 
-* DD+ Atmos
+Martin Lawrence plays Jamal, an employee in Medieval World amusement park. After nearly drowning in the moat, he awakens to find himself in 14th century England.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/11469)
+{ data-search-exclude }
 
-* Production Year: 2023
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Black%20Knight%20%282023%29%28Ko%29%28S1%29%20DD%2B%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Black%20Knight%20(2001)%20DD+%205.1.jpg)
 

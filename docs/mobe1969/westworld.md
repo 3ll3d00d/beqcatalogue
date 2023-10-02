@@ -1,24 +1,14 @@
 # Westworld
 
-* Author: mobe1969
+## DTS-HD MA 5.1
 
-## Season 3
+**1973 • PG-13 • 1h 29m • Adventure, Science Fiction, Western • mobe1969**
 
-* Atmos
+A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/2362)
+{ data-search-exclude }
 
-* Production Year: 2016
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Westworld%20%282016%29%28S3-E1-8%29%20Atmos.jpg)
-
-## Season 4
-
-* Atmos
-
-
-* Production Year: 2016
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Westworld%20%282016%29%28S4%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Westworld%20(1973)%20DTS-HD%20MA%205.1.jpg)
 

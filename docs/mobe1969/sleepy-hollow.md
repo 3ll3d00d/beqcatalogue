@@ -1,44 +1,31 @@
 # Sleepy Hollow
 
-* Author: mobe1969
+## DTS-HD MA 5.1
 
-## Season 1
+**1999 • R • 1h 45m • Drama, Fantasy, Thriller, Mystery, Horror • mobe1969**
 
-* DD+ 5.1
+New York detective Ichabod Crane is sent to Sleepy Hollow to investigate a series of mysterious deaths in which the victims are found beheaded. Locals believe the culprit to be none other than the legendary Headless Horseman.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/2668)
+{ data-search-exclude }
 
-* Production Year: 2013
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sleepy%20Hollow%20%281999%29%20DTS-HD%20MA%205.1.jpg)
 
+## DTS-HD MA 5.1
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Sleepy%20Hollow%20%282013%29%28S1%29%20DD%2B%205.1.jpg)
+UHD
 
-## Season 2
+**1999 • R • 1h 45m • Drama, Fantasy, Thriller, Mystery, Horror • mobe1969**
 
-* DD 5.1
+New York detective Ichabod Crane is sent to Sleepy Hollow to investigate a series of mysterious deaths in which the victims are found beheaded. Locals believe the culprit to be none other than the legendary Headless Horseman.
+{ data-search-exclude }
 
+UHD
+{ data-search-exclude }
 
-* Production Year: 2013
+[TMDB](https://www.themoviedb.org/movie/2668)
+{ data-search-exclude }
 
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Sleepy%20Hollow%20%282013%29%28S2%29%20DD%205.1.jpg)
-
-## Season 3
-
-* DD+ 5.1
-
-
-* Production Year: 2013
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Sleepy%20Hollow%20%282013%29%28S3%29%20DD%2B%205.1.jpg)
-
-## Season 4
-
-* DD+ 5.1
-
-
-* Production Year: 2013
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Sleepy%20Hollow%20%282013%29%28S4%29%20DD%2B%205.1.jpg)
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Sleepy%20Hollow%20(1999)(UHD)%20DTS-HD%20MA%205.1.jpg)
 

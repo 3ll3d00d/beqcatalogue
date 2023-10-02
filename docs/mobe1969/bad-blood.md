@@ -1,24 +1,14 @@
 # Bad Blood
 
-* Author: mobe1969
+## DTS-HD MA 5.1
 
-## Season 1
+**2010 • NR • 1h 31m • Cantonese • Action, Thriller • mobe1969**
 
-* DD+ 5.1
+When the boss of a ruling Hong Kong triad is arrested and executed in China for counterfeiting money, mayhem ensues as the mob's leading contenders circle the throne.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/34777)
+{ data-search-exclude }
 
-* Production Year: 2017
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Bad%20Blood%20%282017%29%28S1%20E1-6%29%20DD%2B%205.1.jpg)
-
-## Season 2
-
-* DD+ 5.1
-
-
-* Production Year: 2017
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Bad%20Blood%20%282017%29%28S2%20E1-8%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Bad%20Blood%20%282010%29%28Ca%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,24 +1,14 @@
 # Anna
 
-* Author: mobe1969
+## Atmos, DD+ 5.1
 
-## Season 1
+**2019 • R • 1h 59m • Thriller, Action • mobe1969**
 
-* DD+ 2.0
+Beneath Anna Poliatova's striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world's most feared government assassins.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/484641)
+{ data-search-exclude }
 
-* Production Year: 2022
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Anna%20%282022%29%28DC%29%28Ko%29%281-8%29%20DD%2B%202.0.jpg)
-
-## Season 1
-
-* DD+ 2.0
-
-
-* Production Year: 2022
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Anna%20%282022%29%28Ko%29%281-6%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/A/Anna%20%282019%29%20Atmos.jpg)
 

@@ -1,34 +1,38 @@
 # Shooter
 
-* Author: mobe1969
+## DD 5.1
 
-## Season 1
+**2007 • R • 2h 4m • Action, Drama, Mystery, Thriller, Crime • mobe1969**
 
-* DD+ 5.1
+A marksman living in exile is coaxed back into action after learning of a plot to kill the president. Ultimately double-crossed and framed for the attempt, he goes on the run to track the real killer and find out who exactly set him up, and why??
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/7485)
+{ data-search-exclude }
 
-* Production Year: 2018
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shooter%20%282007%29%20AC3%205.1.jpg)
 
+## DD+ 5.1
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Shooter%20%282018%29%28S1-E1-10%29%20DD%2B%205.1.jpg)
+**2007 • R • 2h 4m • Action, Drama, Mystery, Thriller, Crime • mobe1969**
 
-## Season 2
+A marksman living in exile is coaxed back into action after learning of a plot to kill the president. Ultimately double-crossed and framed for the attempt, he goes on the run to track the real killer and find out who exactly set him up, and why??
+{ data-search-exclude }
 
-* DD+ 5.1
+[TMDB](https://www.themoviedb.org/movie/7485)
+{ data-search-exclude }
 
+![img 1](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shooter%20%282007%29%20DD%2B%205.1.jpg)
 
-* Production Year: 2018
+## DTS-HD MA 5.1
 
+**2007 • R • 2h 4m • Action, Drama, Mystery, Thriller, Crime • mobe1969**
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Shooter%20%282018%29%28S2-E1-8%29%20DD%2B%205.1.jpg)
+A marksman living in exile is coaxed back into action after learning of a plot to kill the president. Ultimately double-crossed and framed for the attempt, he goes on the run to track the real killer and find out who exactly set him up, and why??
+{ data-search-exclude }
 
-## Season 3
+[TMDB](https://www.themoviedb.org/movie/7485)
+{ data-search-exclude }
 
-* DD+ 5.1
-
-
-* Production Year: 2018
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Shooter%20%282018%29%28S3-E1-13%29%20DD%2B%205.1.jpg)
+![img 2](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shooter%20%282007%29%20DTS-HD%20MA%205.1.jpg)
 

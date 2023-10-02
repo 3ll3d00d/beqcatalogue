@@ -1,24 +1,14 @@
 # Brotherhood
 
-* Author: mobe1969
+## DD+ 5.1
 
-## Season 1
+**2022 • NR • 0h 0m • Crime, Thriller • mobe1969**
 
-* DD+ 5.1
+After years of fighting to survive on the streets of Lagos, two brothers fall on opposite sides of the law. The bonds of brotherhood are put to the ultimate test as one joins a Taskforce that hunts down the other and his gang.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/1042978)
+{ data-search-exclude }
 
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Brotherhood%20%282019%29%28Po%29%28S1%29%20DD%2B%205.1.jpg)
-
-## Season 2
-
-* DD+ 5.1
-
-
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Brotherhood%20%282019%29%28Po%29%28S2%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/B/Brotherhood%20%282022%29%20DD%2B%205.1.jpg)
 

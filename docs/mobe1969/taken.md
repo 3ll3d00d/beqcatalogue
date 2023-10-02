@@ -1,24 +1,16 @@
 # Taken
 
-* Author: mobe1969
+## DTS-HD MA 5.1
 
-## Season 1
+Extended Cut
 
-* DD+ 5.1
+**2008 • PG-13 • 1h 34m • Action, Thriller • mobe1969**
 
+While vacationing with a friend in Paris, an American girl is kidnapped by a gang of human traffickers intent on selling her into forced prostitution. Working against the clock, her ex-spy father must pull out all the stops to save her. But with his best years possibly behind him, the job may be more than he can handle.
+{ data-search-exclude }
 
-* Production Year: 2017
+[TMDB](https://www.themoviedb.org/movie/8681)
+{ data-search-exclude }
 
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Taken%20%282017%29%28S1-E1-10%29%20DD%2B%205.1.jpg)
-
-## Season 2
-
-* DD+ 5.1
-
-
-* Production Year: 2017
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Taken%20%282017%29%28S2-E1-16%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Taken%20%282008%29%28EC%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,44 +1,14 @@
 # Warrior
 
-* Author: mobe1969
+## Atmos
 
-## Season 1
+**2011 • PG-13 • 2h 20m • Drama, Action • mobe1969**
 
-* DD+ 5.1
+The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament – a path that puts the fighter on a collision course with his estranged, older brother.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/59440)
+{ data-search-exclude }
 
-* Production Year: 2018
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Warrior%20%282018%29%28Da%29%28S1-E1-6%29%20DD%2B%205.1.jpg)
-
-## Season 1
-
-* DD+ 5.1
-
-
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Warrior%20%282019%29%28S01%29%20DD%2B%205.1.jpg)
-
-## Season 2
-
-* DD+ 5.1
-
-
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Warrior%20%282019%29%28S02%29%20DD%2B%205.1.jpg)
-
-## Season 3
-
-* DD+ 5.1
-
-
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Warrior%20%282019%29%28S03%29%20DD%2B%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/W/Warrior%20%282011%29%20Atmos.jpg)
 

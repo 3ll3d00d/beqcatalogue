@@ -1,14 +1,14 @@
 # Taxi Driver
 
-* Author: mobe1969
+## DTS-HD MA 5.1
 
-## Season 1
+**1976 • R • 1h 54m • Crime, Drama • mobe1969**
 
-* DD+ 2.0
+A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/103)
+{ data-search-exclude }
 
-* Production Year: 2021
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Taxi%20Driver%20%282021%29%28Ko%29%28S1-E1-16%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/T/Taxi%20Driver%20%281976%29%20DTS-HD%20MA%205.1.jpg)
 

@@ -1,14 +1,14 @@
 # Shadow
 
-* Author: mobe1969
+## Atmos
 
-## Season 1
+**2018 • NR • 0h 3m • Mandarin • Horror • mobe1969**
 
-* DD+ 2.0
+A man's home is filled with smoke and he can't find his child, but these aren't his only worries.Something else is inside the house with him.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/641684)
+{ data-search-exclude }
 
-* Production Year: 2019
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Shadow%20%282019%29%28S1-E1-8%29%20DD%2B%202.0.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Shadow%20%282018%29%28Ma%29%20Atmos.jpg)
 
