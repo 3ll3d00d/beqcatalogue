@@ -240,7 +240,7 @@ def group_tv_content(author, content_meta):
                             if frags[1][1:].isdigit():
                                 meta['episode'] = frags[1][1:]
                 if 'episode' not in meta:
-                    print(f"Unknown note format in {meta}")
+                    print(f"Unknown note format in TV {meta}")
                 else:
                     del meta['note']
                     print(f"Note used for episode info by {meta['repo_file']}, removing note from meta")
@@ -265,18 +265,23 @@ def group_tv_content(author, content_meta):
     return by_title
 
 
-def process_content_from_repo(author: str, content_meta, index_entries, content_type):
+def process_content_from_repo(author: str, content_meta, index_entries, content_type, created_titles=None):
     ''' converts beq_metadata into md '''
+    page_titles = []
     if content_type == 'film':
         by_title = group_film_content(author, content_meta)
     else:
         by_title = group_tv_content(author, content_meta)
     for title, metas in by_title.items():
         title_md = slugify(title, '-')
+        if created_titles and title_md in created_titles:
+            title_md = f'{title_md}-{content_type}'
+        page_titles.append(title_md)
         from pathlib import Path
         Path(f"docs/{author}").mkdir(parents=True, exist_ok=True)
         with open(f"docs/{author}/{title_md}.md", mode='w+') as content_md:
             generate_content_page(title_md, metas, content_md, index_entries, author, content_type)
+    return page_titles
 
 
 def process_aron7awol_content_from_repo(content_meta, index_entries, content_type):
@@ -743,8 +748,8 @@ if __name__ == '__main__':
 
         for author in ['mobe1969', 'halcyon888', 't1g8rsfan']:
             index_entries = []
-            process_content_from_repo(author, film_data[author], index_entries, 'film')
-            process_content_from_repo(author, tv_data[author], index_entries, 'TV')
+            page_titles = process_content_from_repo(author, film_data[author], index_entries, 'film')
+            process_content_from_repo(author, tv_data[author], index_entries, 'TV', created_titles=page_titles)
             with open(f'docs/{author}.md', mode='w+') as index_md:
                 print('---', file=index_md)
                 print('search:', file=index_md)
