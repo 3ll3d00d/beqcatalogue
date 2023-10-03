@@ -1,6 +1,6 @@
 # Secret Headquarters
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **2022 • PG • 1h 44m • Science Fiction, Family, Action, Adventure • mobe1969**
 
@@ -10,7 +10,7 @@ While hanging out after school, Charlie and his friends discover the headquarter
 [TMDB](https://www.themoviedb.org/movie/791155)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Secret%20Headquarters%20%282022%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Secret%20Headquarters%20(2022)%20Atmos.jpg)
 
 ## DD+ 5.1
 
