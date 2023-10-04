@@ -17,10 +17,10 @@ Dialnorm Compensation: E01-E04 +4dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/6ntpNSh.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ahsoka%20(2023)%20(S01E01-E04)%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/mVJdYaQ.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ahsoka%20(2023)%20(S01E01-E04)%20peak%20spectrum.png)
 
 ## Season 1 Episodes 5, 7
 
@@ -37,10 +37,10 @@ Dialnorm Compensation: E05, E07 +4dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/sOmcRTd.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ahsoka%20(2023)%20(S01E05%2CE07)%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/7y6LznP.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ahsoka%20(2023)%20(S01E05%2CE07)%20peak%20spectrum.png)
 
 ## Season 1 Episode 6
 
@@ -57,8 +57,28 @@ Dialnorm Compensation: E06 +4dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/GmoUaRm.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ahsoka%20(2023)%20(S01E06)%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/oW31DbB.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ahsoka%20(2023)%20(S01E06)%20peak%20spectrum.png)
+
+## Season 1 Episode 8
+
+* DD+ Atmos
+
+
+**MV Adjustment:** -2.0 dB
+
+Dialnorm Compensation: E08 +4dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62770042)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ahsoka%20(2023)%20(S01E08)%20PvA.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ahsoka%20(2023)%20(S01E08)%20peak%20spectrum.png)
 
