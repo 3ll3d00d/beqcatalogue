@@ -42,3 +42,23 @@ Dialnorm Compensation: E02 +7dB​
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Continental%20(2023)%20S01E02%20peak%20spectrum.png)
 
+## Season 1 Episode 3
+
+* DD+
+
+
+**MV Adjustment:** +1.5 dB
+
+Dialnorm Compensation: E03 +7dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62836262)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Continental%20(2023)%20S01E03%20PvA.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Continental%20(2023)%20S01E03%20peak%20spectrum.png)
+
