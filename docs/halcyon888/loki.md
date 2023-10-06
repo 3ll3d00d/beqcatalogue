@@ -9,6 +9,9 @@
 
 **MV Adjustment:** +3.0 dB
 
+Dialnorm Compensation: E01 +4dB
+{ data-search-exclude }
+
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866517)
 
 * Production Year: 2021
