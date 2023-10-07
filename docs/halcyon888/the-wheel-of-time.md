@@ -42,3 +42,23 @@ Dialnorm Compensation: E6 +5dB
 
 ![img 0](https://i.imgur.com/NZj3Ykw.png)
 
+## Season 2 Episode 8
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +4.0 dB
+
+Dialnorm Compensation: E8 +6dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62788845)
+
+* Production Year: 2021
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Wheel%20of%20Time%20S2E8%20PvA.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Wheel%20of%20Time%20S2E8%20peak%20spectrum.png)
+
