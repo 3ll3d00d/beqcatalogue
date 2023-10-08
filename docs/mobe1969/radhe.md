@@ -2,7 +2,7 @@
 
 ## DD+ 5.1
 
-**2021 • 15 • 2h 15m • Hindi • Action, Crime, Drama, Thriller • mobe1969**
+**2021 • 15 • 1h 49m • Hindi • Action, Crime, Drama, Thriller • mobe1969**
 
 As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe is recalled for a clean-up mission. But Radhe is up against a dangerous new outlaw Rana, who will stop at nothing to rule the city.
 { data-search-exclude }
@@ -14,7 +14,7 @@ As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe 
 
 ## DTS-EX 5.1
 
-**2021 • 15 • 2h 15m • Hindi • Action, Crime, Drama, Thriller • mobe1969**
+**2021 • 15 • 1h 49m • Hindi • Action, Crime, Drama, Thriller • mobe1969**
 
 As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe is recalled for a clean-up mission. But Radhe is up against a dangerous new outlaw Rana, who will stop at nothing to rule the city.
 { data-search-exclude }
