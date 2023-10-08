@@ -1,6 +1,6 @@
 # Raazi
 
-## DD+ 5.1
+## DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • NR • 2h 18m • Hindi • Thriller, Action, Drama, History • mobe1969**
 
