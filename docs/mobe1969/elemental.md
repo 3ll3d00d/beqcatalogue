@@ -1,6 +1,6 @@
 # Elemental
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2023 • PG • 1h 42m • Animation, Comedy, Family, Fantasy, Romance • mobe1969**
 
@@ -10,7 +10,7 @@ In a city where fire, water, land and air residents live together, a fiery young
 [TMDB](https://www.themoviedb.org/movie/976573)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Elemental%20%282023%29%20DD%2B%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/E/Elemental%20(2023)%20DD+%20Atmos.jpg)
 
 ## DTS-HD MA 7.1
 
