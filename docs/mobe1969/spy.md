@@ -14,7 +14,7 @@ A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of 
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/S/Spy%20%282015%29%28Extended%29%20DTS-HD%20MA%207.1.jpg)
 
-## DTS-HD MA 7.1, DD+ 5.1
+## DTS-HD MA 7.1, DD 5.1
 
 Theatrical Cut
 
