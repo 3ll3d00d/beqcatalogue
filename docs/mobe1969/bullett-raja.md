@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2013 • NR • 2h 18m • Hindi • Action, Crime, Drama • mobe1969**
+**2013 • NR • 2h 16m • Hindi • Action, Crime, Drama • mobe1969**
 
 A common man who transforms into a gangster revolts against the very system he once obediently followed by declaring war on the police, the government, and the industrialists.
 { data-search-exclude }
