@@ -1,6 +1,6 @@
 # Expend4bles
 
-## DD+ 5.1
+## DD+ Atmos, DD+ 5.1
 
 **2023 • R • 1h 43m • Action, Adventure, Thriller • mobe1969**
 
