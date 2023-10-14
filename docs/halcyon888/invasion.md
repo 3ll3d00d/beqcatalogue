@@ -36,23 +36,23 @@ Dialnorm Compensation: E02-E03 +3dB, E04 +4dB
 
 ![img 0](https://i.imgur.com/pdwJ7N0.png)
 
-## Season 2 Episodes 5-6
+## Season 2 Episodes 5-6, 8
 
 * DD+ Atmos
 
 
 **MV Adjustment:** +4.0 dB
 
-Dialnorm Compensation: E05 +3dB, E06 +4dB
+Dialnorm Compensation: E05 +3dB, E06 +4dB, E08 +3dB
 { data-search-exclude }
 
 * Production Year: 2021
 
 
-![img 0](https://i.imgur.com/e1hS8Xj.jpg)
+![img 0](https://i.imgur.com/81Q13Is.jpg)
 
 
-![img 0](https://i.imgur.com/TpFxplF.png)
+![img 0](https://i.imgur.com/4gLJnOA.png)
 
 ## Season 2 Episode 7
 
