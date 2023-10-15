@@ -1,14 +1,14 @@
 # The Power
 
-* Author: mobe1969
+## DD+ 5.1
 
-## Season 1
+**2021 • NR • 2h 34m • Hindi • Drama, Action • mobe1969**
 
-* DD+ Atmos, DD+ 5.1
+It is a hair-raising journey into the world of two lovers as both their families are ripped apart for the sake of revenge and power, and an entertaining look at how they rise out of that pit of blood lust and despair, together.
+{ data-search-exclude }
 
+[TMDB](https://www.themoviedb.org/movie/784167)
+{ data-search-exclude }
 
-* Production Year: 2023
-
-
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20Power%20%282023%29%28S1%29%20DD%2B%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/P/The%20Power%20(2021)(Hi)%20DD+%205.1.jpg)
 
