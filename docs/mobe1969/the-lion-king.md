@@ -1,6 +1,6 @@
 # The Lion King
 
-## DTS-HD MA 7.1, DD+ Atmos
+## DTS-HD MA 7.1, Atmos, DD+ Atmos
 
 **2019 • PG • 1h 58m • Adventure, Drama, Family, Animation • mobe1969**
 
