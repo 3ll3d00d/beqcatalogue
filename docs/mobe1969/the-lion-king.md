@@ -1,6 +1,6 @@
 # The Lion King
 
-## DTS-HD MA 7.1
+## DTS-HD MA 7.1, DD+ Atmos
 
 **2019 • PG • 1h 58m • Adventure, Drama, Family, Animation • mobe1969**
 
@@ -10,5 +10,5 @@ Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny
 [TMDB](https://www.themoviedb.org/movie/420818)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Lion%20King%20%282019%29%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/L/The%20Lion%20King%20(2019)%20DTS-HD%20MA%207.1.jpg)
 
