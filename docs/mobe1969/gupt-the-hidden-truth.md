@@ -1,6 +1,6 @@
 # Gupt: The Hidden Truth
 
-## DD+ 5.1
+## LPCM 5.1, DD+ 5.1
 
 **1997 • NR • 2h 55m • Hindi • Thriller, Action, Romance • mobe1969**
 
