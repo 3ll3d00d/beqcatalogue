@@ -12,7 +12,7 @@ Mary Smith, a young girl who lives with her great-aunt in the countryside, follo
 [TMDB](https://www.themoviedb.org/movie/430447)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Mary%20and%20the%20Witch's%20Flower%20(2017)%20(%2B1.5%20gain)%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Mary%20and%20the%20Witchs%20Flower%20(2017)%20(%2B1.5%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Mary%20and%20the%20Witch's%20Flower%20(2017)%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Mary%20and%20the%20Witchs%20Flower%20(2017)%20DTS-HD%20MA%205.1.jpg)
 
