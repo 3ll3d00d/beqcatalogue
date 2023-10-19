@@ -1,6 +1,6 @@
 # Strange World
 
-## DD+ Atmos, DD+ 5.1
+## Atmos, DD+ Atmos, DTS-HD MA 7.1, DD+ 5.1
 
 **2022 • PG • 1h 42m • Animation, Science Fiction, Adventure, Family • mobe1969**
 
