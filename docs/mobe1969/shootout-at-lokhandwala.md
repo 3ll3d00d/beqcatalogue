@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2007 • 15 • 2h 25m • Hindi • Action, Crime, History • mobe1969**
+**2007 • 15 • 2h 1m • Hindi • Action, Crime, History • mobe1969**
 
 On a calm summer day in 1991, in the bustling Lokhandwala Complex, five criminals including Maya and Dilip were counting 70 lakhs in flat no. 32 B, when 286 policemen, headed by ACP Khan, took strategic positions around their building. A gunfire ensued and the entire nation witnessed the most talked about daylight encounter lasting 6 hours that transformed suburban Mumbai into a war zone.
 { data-search-exclude }
