@@ -10,5 +10,5 @@ Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds
 [TMDB](https://www.themoviedb.org/movie/649609)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Renfield%20%282023%29%20DD%2B%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/R/Renfield%20(2023)%20DD+%20Atmos.jpg)
 
