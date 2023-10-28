@@ -77,7 +77,7 @@ Dialnorm Compensation: E04 +4dB
 * Production Year: 2021
 
 
-![img 0](https://i.imgur.com/gYPFSmx.jpg)
+![img 0](https://i.imgur.com/jZSDrFF.jpg)
 
 
 ![img 0](https://i.imgur.com/y7qo0mn.png)
