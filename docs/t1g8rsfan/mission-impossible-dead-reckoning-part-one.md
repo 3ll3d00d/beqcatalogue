@@ -14,5 +14,5 @@ Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/MI%20Dead%20Reckoning%20Pt%201%20(2023)%20(-1%20gain)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Mission%20Impossible%20Dead%20Reckoning%20Pt1%20DD%2B%20Atmos.jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/MI%20Dead%20Reckoning%20Pt%201%20(2023)%20Atmos.jpg)
 
