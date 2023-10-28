@@ -2,7 +2,7 @@
 
 ## DD 5.1
 
-**2022 • NR • 2h 36m • Hindi • Comedy, Fantasy, Horror • mobe1969**
+**2022 • NR • 2h 22m • Hindi • Comedy, Fantasy, Horror • mobe1969**
 
 Inspired by legendary folklore rooted in Arunachal Pradesh, Bhediya tells the story of Bhaskar, a man who gets bitten by a mythical wolf and begins to transform into the creature himself. As Bhaskar and his ragtag buddies try to find answers, he is worried that the monster in him will wipe out human existence in the local town.
 { data-search-exclude }
