@@ -1,6 +1,6 @@
 # Mission: Impossible - Dead Reckoning Part One
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2023 • PG-13 • 2h 44m • Action, Thriller • t1g8rsfan**
 
@@ -12,7 +12,7 @@ Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62882208)  [TMDB](https://www.themoviedb.org/movie/575264)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Mission%20Impossible%20Dead%20Reckoning%20Pt1%20(2023)%20(-1%20gain)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/MI%20Dead%20Reckoning%20Pt%201%20(2023)%20(-1%20gain)%20Atmos.jpg)
 
 ![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Mission%20Impossible%20Dead%20Reckoning%20Pt1%20DD%2B%20Atmos.jpg)
 
