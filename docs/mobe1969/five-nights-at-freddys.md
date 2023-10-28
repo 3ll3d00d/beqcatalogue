@@ -10,5 +10,5 @@ Recently fired and desperate for work, a troubled young man named Mike agrees to
 [TMDB](https://www.themoviedb.org/movie/507089)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Five%20Nights%20at%20Freddys%20(2023)%20DD+%205.1.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/F/Five%20Nights%20at%20Freddy's%20(2023)%20DD+%205.1.jpg)
 
