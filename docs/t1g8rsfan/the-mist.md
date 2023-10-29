@@ -9,7 +9,7 @@ After a violent storm, a dense cloud of mist envelops a small Maine town, trappi
 
 **MV Adjustment:** +3.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/5876)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62913569)  [TMDB](https://www.themoviedb.org/movie/5876)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Mist%20(2007)%20(%2B3%20gain)%20Atmos.jpg)
