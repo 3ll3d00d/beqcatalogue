@@ -14,6 +14,8 @@ After the death of his father and brother Danish, Faizal Khan vows to take reven
 
 ## DTS-HD MA 5.1
 
+German Blu-Ray
+
 **2012 • 18 • 2h 40m • Hindi • Action, Crime, Thriller • mobe1969**
 
 After the death of his father and brother Danish, Faizal Khan vows to take revenge by destroying Ramadhir Singh's gang.
