@@ -1,6 +1,6 @@
 # Death on the Nile
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **2022 • PG-13 • 2h 7m • Crime, Drama, Mystery, Thriller • mobe1969**
 
@@ -10,7 +10,7 @@ Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champ
 [TMDB](https://www.themoviedb.org/movie/505026)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Death%20on%20the%20Nile%20%282022%29%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/D/Death%20on%20the%20Nile%20(2022)%20Atmos.jpg)
 
 ## DTS-HD MA 7.1
 
