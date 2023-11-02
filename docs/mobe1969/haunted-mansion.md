@@ -1,6 +1,6 @@
 # Haunted Mansion
 
-## Atmos
+## Atmos, DTS-HD MA 7.1
 
 **2023 • PG-13 • 2h 3m • Fantasy, Comedy, Horror, Family • mobe1969**
 
