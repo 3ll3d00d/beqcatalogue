@@ -2,14 +2,14 @@
 
 * Author: halcyon888
 
-## Season 1 Episodes 1-7
+## Season 1
 
 * DD+
 
 
 **MV Adjustment:** +5.0 dB
 
-Dialnorm Compensation: E01-E02 +3dB, E03 +4dB, E04 +5dB, E05-E07 0dB
+Dialnorm Compensation: E01-E02 +3dB, E03 +4dB, E04 +5dB, E05-E08 0dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62851382)
@@ -17,8 +17,8 @@ Dialnorm Compensation: E01-E02 +3dB, E03 +4dB, E04 +5dB, E05-E07 0dB
 * Production Year: 2023
 
 
-![img 0](https://i.imgur.com/A9C0pO4.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Gen%20V%20(2023)%20(S01E01-E08)%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/2amrxlj.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Gen%20V%20(2023)%20(S01E01-E08)%20peak%20spectrum.png)
 
