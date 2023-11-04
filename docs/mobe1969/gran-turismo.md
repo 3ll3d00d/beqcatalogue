@@ -10,7 +10,7 @@ The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming
 [TMDB](https://www.themoviedb.org/movie/980489)
 { data-search-exclude }
 
-![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gran%20Turismo%20(2023)%20TrueHD%20Atmos.jpg)
+![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/G/Gran%20Turismo%20(2023)%20Atmos.jpg)
 
 ## DD+ 5.1
 
