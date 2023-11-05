@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2013 • NR • 1h 59m • Hindi • Action • mobe1969**
+**2013 • NR • 1h 41m • Hindi • Action • mobe1969**
 
 A disavowed Indian commando helps protect a woman from a local thug who is hellbent on forcing her to marry him.
 { data-search-exclude }
