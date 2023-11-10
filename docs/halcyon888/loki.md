@@ -17,10 +17,10 @@ Dialnorm Compensation: E01 +4dB
 * Production Year: 2021
 
 
-![img 0](https://i.imgur.com/QODKsla.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E01)%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/6qQbvvK.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E01)%20peak%20spectrum.png)
 
 ## Season 2 Episode 2
 
@@ -57,10 +57,10 @@ Dialnorm Compensation: E03 +4dB
 * Production Year: 2021
 
 
-![img 0](https://i.imgur.com/zpqb061.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E03)%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/xPpLVwo.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E03)%20peak%20spectrum.png)
 
 ## Season 2 Episodes 4-5
 
@@ -77,8 +77,25 @@ Dialnorm Compensation: E04-E05 +4dB
 * Production Year: 2021
 
 
-![img 0](https://i.imgur.com/zbK89Mj.jpg)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E04-E05)%20PvA.jpg)
 
 
-![img 0](https://i.imgur.com/WLyjHSP.png)
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E04-E05)%20peak%20spectrum.png)
+
+## Season 2 Episode 6
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +2.0 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866517)
+
+* Production Year: 2021
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E06)%20PvA.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E06)%20peak%20spectrum.png)
 
