@@ -2,14 +2,14 @@
 
 * Author: halcyon888
 
-## Season 2 Episode 1
+## Season 2 Episodes 1-2
 
 * DD+
 
 
 **MV Adjustment:** +3.0 dB
 
-Dialnorm Compensation E01: +6dB
+Dialnorm Compensation E01: +6dB, E02 +7dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62925171)
@@ -17,8 +17,8 @@ Dialnorm Compensation E01: +6dB
 * Production Year: 2021
 
 
-![img 0](https://i.imgur.com/FyrKMqA.jpg)
+![img 0](https://i.imgur.com/h3jjo8p.jpg)
 
 
-![img 0](https://i.imgur.com/22fYR4u.png)
+![img 0](https://i.imgur.com/EpncLOu.png)
 
