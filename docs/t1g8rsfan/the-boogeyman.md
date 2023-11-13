@@ -14,5 +14,5 @@ Still reeling from the tragic death of their mother, a teenage girl and her youn
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Boogeyman%20(2023)%20(-2%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Boogeyman%20(2023)%20(-2%20gain)%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Boogeyman%20(2023)%20DTS-HD%20MA%205.1.jpg)
 
