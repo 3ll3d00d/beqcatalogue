@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# kaeleria
+# kaelaria
 
 | Title | Type | Year | Format | Multiformat? | Links |
 |-|-|-|-|-|-|

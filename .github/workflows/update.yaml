@@ -87,6 +87,7 @@ jobs:
           popd
           mv .input/Mobe1969/miniDSPBEQ/d.diff mobe1969.diff
           mv .input/Mobe1969/miniDSPBEQ/d.sha mobe1969.sha
+
           M_SHA=$(cat halcyon888.sha)
           pushd .input/halcyon888/miniDSPBEQ
           git diff --name-only -z ${M_SHA}..HEAD -- *BEQ*| xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
@@ -94,6 +95,7 @@ jobs:
           popd
           mv .input/halcyon888/miniDSPBEQ/d.diff halcyon888.diff
           mv .input/halcyon888/miniDSPBEQ/d.sha halcyon888.sha
+
           M_SHA=$(cat aron7awol.sha)
           pushd .input/bmiller/miniDSPBEQ
           git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
@@ -101,6 +103,7 @@ jobs:
           popd
           mv .input/bmiller/miniDSPBEQ/d.diff aron7awol.diff
           mv .input/bmiller/miniDSPBEQ/d.sha aron7awol.sha
+
           M_SHA=$(cat t1g8rsfan.sha)
           pushd .input/t1g8rsfan/miniDSPBEQ
           git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
@@ -108,6 +111,7 @@ jobs:
           popd
           mv .input/t1g8rsfan/miniDSPBEQ/d.diff t1g8rsfan.diff
           mv .input/t1g8rsfan/miniDSPBEQ/d.sha t1g8rsfan.sha
+
           M_SHA=$(cat kaelaria.sha)
           pushd .input/kaelaria/Beq1
           git diff --name-only -z ${M_SHA}..HEAD -- tv\/ movies\/  | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
