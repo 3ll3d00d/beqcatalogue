@@ -110,7 +110,7 @@ jobs:
           mv .input/t1g8rsfan/miniDSPBEQ/d.sha t1g8rsfan.sha
           M_SHA=$(cat kaelaria.sha)
           pushd .input/kaelaria/Beq1
-          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git diff --name-only -z ${M_SHA}..HEAD -- tv\/ movies\/  | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
           mv .input/kaelaria/Beq1/d.diff kaelaria.diff
