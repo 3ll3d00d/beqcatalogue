@@ -62,9 +62,7 @@ jobs:
           else
             git clone https://github.com/bmiller/miniDSPBEQ.git .input/bmiller/miniDSPBEQ
           fi
-          pushd .input/bmiller/miniDSPBEQ
-          popd
-          if [[ -d .input/t1g8rsfan/miniDSPBEQ.wiki ]]
+          if [[ -d .input/t1g8rsfan/miniDSPBEQ ]]
           then
             pushd .input/t1g8rsfan/miniDSPBEQ
             git pull
@@ -72,8 +70,14 @@ jobs:
           else
             git clone https://github.com/T1G8RS-FAN/MiniDSPBEQ.git .input/t1g8rsfan/miniDSPBEQ
           fi
-          pushd .input/t1g8rsfan/miniDSPBEQ
-          popd
+          if [[ -d .input/kaelaria/Beq1 ]]
+          then
+            pushd .input/kaelaria/Beq1
+            git pull
+            popd
+          else
+            git clone https://github.com/kaelaria/Beq1.git .input/kaelaria/Beq1
+          fi
       - name: Get git metadata
         run: |
           M_SHA=$(cat mobe1969.sha)
@@ -104,6 +108,13 @@ jobs:
           popd
           mv .input/t1g8rsfan/miniDSPBEQ/d.diff t1g8rsfan.diff
           mv .input/t1g8rsfan/miniDSPBEQ/d.sha t1g8rsfan.sha
+          M_SHA=$(cat kaelaria.sha)
+          pushd .input/kaelaria/Beq1
+          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git rev-parse HEAD > d.sha
+          popd
+          mv .input/kaelaria/Beq1/d.diff kaelaria.diff
+          mv .input/kaelaria/Beq1/d.sha kaelaria.sha
       - name: Update Catalogue
         run: |
           pipenv run python beqcatalogue/__init__.py

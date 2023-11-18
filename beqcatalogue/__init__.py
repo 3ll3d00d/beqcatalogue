@@ -197,7 +197,7 @@ def group_film_content(author, content_meta):
 
 def add_to_catalogue(entry: dict, path: str, author: str):
     entry['digest'] = digest(entry)
-    t = times[author]
+    t = times.get(author, [])
     if path in t:
         entry['created_at'] = t[path][0]
         entry['updated_at'] = t[path][1]
@@ -700,8 +700,10 @@ def dump_audio_types(json_catalogue):
     print(f"Found {len(audio_types)} audio types- {sorted(list(audio_types))}")
 
 
+
 if __name__ == '__main__':
-    times = {a: load_times(a) for a in ['aron7awol', 'mobe1969', 'halcyon888', 't1g8rsfan']}
+    times = {a: load_times(a) for a in ['aron7awol', 'mobe1969', 'halcyon888', 't1g8rsfan', 'kaeleria']}
+
     aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film')
     print(f"Extracted {len(aron7awol_films)} aron7awol film catalogue entries")
     aron7awol_tv = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
@@ -725,6 +727,11 @@ if __name__ == '__main__':
     tv_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
     print(f"Extracted {len(tv_data['t1g8rsfan'])} t1g8rsfan TV catalogue entries")
 
+    film_data['kaeleria'] = extract_from_repo('.input/kaeleria/Beq1/', 'movies', 'film')
+    print(f"Extracted {len(film_data['kaeleria'])} kaeleria film catalogue entries")
+    tv_data['kaeleria'] = extract_from_repo('.input/kaeleria/Beq1/', 'tv', 'TV')
+    print(f"Extracted {len(tv_data['kaeleria'])} kaeleria TV catalogue entries")
+
     json_catalogue: List[dict] = []
 
     with open('docs/database.csv', 'w+', newline='') as db_csv:
@@ -746,7 +753,7 @@ if __name__ == '__main__':
             for i in sorted(index_entries, key=str.casefold):
                 print(i, file=index_md)
 
-        for author in ['mobe1969', 'halcyon888', 't1g8rsfan']:
+        for author in ['mobe1969', 'halcyon888', 't1g8rsfan', 'kaeleria']:
             index_entries = []
             page_titles = process_content_from_repo(author, film_data[author], index_entries, 'film')
             process_content_from_repo(author, tv_data[author], index_entries, 'TV', created_titles=page_titles)
