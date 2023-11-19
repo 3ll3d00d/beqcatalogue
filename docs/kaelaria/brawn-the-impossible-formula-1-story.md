@@ -2,7 +2,7 @@
 
 * Author: kaelaria
 
-* DD 5.1, DD+
+* DD+
 
 
 * Production Year: 2023
