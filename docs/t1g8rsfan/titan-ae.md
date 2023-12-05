@@ -12,7 +12,7 @@ A young man finds out that he holds the key to restoring hope and ensuring survi
 +8dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/7450)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62995052)  [TMDB](https://www.themoviedb.org/movie/7450)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Titan%20A.E.%20(2000)%20(%2B2.5%20gain)%20DD%2B.jpg)
