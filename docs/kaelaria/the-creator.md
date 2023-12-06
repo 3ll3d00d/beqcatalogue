@@ -1,6 +1,6 @@
 # The Creator
 
-## DD+ Atmos
+## DTS-HD MA 5.1, DD+ Atmos
 
 **2023 • PG-13 • 2h 14m • Science Fiction, Action, Thriller • kaelaria**
 
