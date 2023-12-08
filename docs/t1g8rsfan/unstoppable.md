@@ -1,6 +1,6 @@
 # Unstoppable
 
-## DTS-HD MA 5.1
+## DTS 5.1
 
 **2010 • PG-13 • 1h 38m • Action, Thriller • t1g8rsfan**
 
