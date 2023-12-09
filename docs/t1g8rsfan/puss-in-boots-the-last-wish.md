@@ -9,7 +9,7 @@ Puss in Boots discovers that his passion for adventure has taken its toll: He ha
 
 **MV Adjustment:** +1.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/315162)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63006266)  [TMDB](https://www.themoviedb.org/movie/315162)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Puss%20in%20Boots%20TLW%20(2022)%20(%2B1.5%20gain)%20Atmos.jpg)
