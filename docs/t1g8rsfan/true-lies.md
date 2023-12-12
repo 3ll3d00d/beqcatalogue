@@ -12,7 +12,7 @@ A fearless, globe-trotting, terrorist-battling secret agent has his life turned 
 +4dB Dialnorm Compensation​
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/36955)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63011176)  [TMDB](https://www.themoviedb.org/movie/36955)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/True%20Lies%20(1994)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)
