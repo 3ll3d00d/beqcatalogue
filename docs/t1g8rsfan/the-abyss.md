@@ -9,7 +9,7 @@ A civilian oil rig crew is recruited to conduct a search and rescue effort when 
 
 **MV Adjustment:** +2.0 dB
 
-+4dB Dialnorm Compensation
++4dB Dialnorm Compensation​
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63011151)  [TMDB](https://www.themoviedb.org/movie/2756)
