@@ -2,9 +2,7 @@
 
 * Author: kaelaria
 
-## Season 02 Episode 1,2,3
-
-* DD+ Atmos
+* DD+
 
 
 * Production Year: 2022
