@@ -1,6 +1,6 @@
 # The Family Plan
 
-## DD+
+## DD+ Atmos, DD+
 
 **2023 • PG-13 • 1h 59m • Action, Comedy • kaelaria**
 
