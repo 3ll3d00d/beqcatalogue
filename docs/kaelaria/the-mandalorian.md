@@ -2,7 +2,9 @@
 
 * Author: kaelaria
 
-* Atmos
+## Season 01
+
+* Atmos, DD+ Atmos
 
 
 * Production Year: 2019
