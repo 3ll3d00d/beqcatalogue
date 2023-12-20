@@ -15,7 +15,7 @@ UHD Blu-Ray
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63029508)  [TMDB](https://www.themoviedb.org/movie/754)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/miniDSPBEQ/main/Movie%20BEQs/Face%20Off%20(1998)%20(-4%20gain)%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Face%20Off%20(1998)%20(-4%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/miniDSPBEQ/main/Movie%20BEQs/Face%20Off%20(1998)%20DTS-HD%20MA%205.1.jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Face%20Off%20(1998)%20DTS-HD%20MA%205.1.jpg)
 
