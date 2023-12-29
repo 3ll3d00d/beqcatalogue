@@ -2,7 +2,7 @@
 
 * Author: t1g8rsfan
 
-## Season 1E1-2, 4
+## Season 1E1-2, 4, 8
 
 * DD+ Atmos
 
@@ -17,7 +17,7 @@
 * Production Year: 2023
 
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Monarch%20LOM%20S01E01-2%2C%204%20(%2B1.5)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Monarch%20LOM%20S01E01-2%2C%204%2C%208%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)
 
 ## Season 1E3, 6
 
