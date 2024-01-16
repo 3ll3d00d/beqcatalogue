@@ -12,7 +12,7 @@ An international heist crew, led by Cyrus Whitaker, race to lift $500 million in
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/955916)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63086474)  [TMDB](https://www.themoviedb.org/movie/955916)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Lift%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)
