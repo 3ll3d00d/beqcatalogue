@@ -2,7 +2,7 @@
 
 * Author: halcyon888
 
-## Season 1
+## Season 1 Episodes 1-6
 
 * DD+
 
