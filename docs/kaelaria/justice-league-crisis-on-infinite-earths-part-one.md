@@ -1,6 +1,6 @@
 # Justice League: Crisis on Infinite Earths Part One
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
 **2024 • PG-13 • 1h 33m • Animation, Science Fiction, Action • kaelaria**
 
