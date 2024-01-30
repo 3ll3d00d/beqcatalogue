@@ -1,8 +1,8 @@
 # Thanksgiving
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
-**2023 • R • 1h 46m • Horror, Thriller, Mystery • kaelaria**
+**2023 • R • 1h 46m • Horror, Mystery, Thriller • kaelaria**
 
 After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.
 { data-search-exclude }
