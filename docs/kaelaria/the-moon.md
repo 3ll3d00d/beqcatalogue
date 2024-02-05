@@ -1,6 +1,6 @@
 # The Moon
 
-## TrueHD 5.1, DD+ Atmos
+## Atmos, DD+ Atmos, DD+
 
 **2023 • 2h 9m • Drama, Adventure, Science Fiction • kaelaria**
 
