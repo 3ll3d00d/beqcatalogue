@@ -1,6 +1,6 @@
 # In the Fire
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
 **2023 • R • 1h 27m • Thriller, Drama, Horror • kaelaria**
 
