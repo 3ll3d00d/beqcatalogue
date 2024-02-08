@@ -14,7 +14,7 @@ A stranger stumbles into the desert town of Absolution with no memory of his pas
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62609562)  [TMDB](https://www.themoviedb.org/movie/49849)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Cowboys%20%26%20Aliens%20(2011)%20Extended%20Cut%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Cowboys%20%26%20Aliens%20(2011)%20Extended%20Cut%20(-2%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Cowboys%20%26%20Aliens%20Extended%20Cut.jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Cowboys%20%26%20Aliens%20(2011)%20Extended%20Cut%20DTS-HD%20MA%205.1.jpg)
 
