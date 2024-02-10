@@ -1,4 +1,4 @@
-# halo
+# Halo
 
 * Author: t1g8rsfan
 
