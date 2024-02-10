@@ -9,7 +9,7 @@
 
 **MV Adjustment:** +5.0 dB
 
-+2 Dialnorm Compensation
++2dB Dialnorm Compensation
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63087025)
