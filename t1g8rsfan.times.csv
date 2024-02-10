@@ -2,8 +2,8 @@ Movie BEQs/65 (2023) (-1.0 gain) BEQ Atmos.xml,1686443040,1702155606
 Movie BEQs/65 (2023) (Amazon) BEQ DD+ Atmos.xml,1686444301,1686506436
 Movie BEQs/Big George Foreman (2023) (+3.0 gain) BEQ DD+ Atmos.xml,1686457774,1686546508
 Movie BEQs/Black Adam (2022) (+5.5 gain) BEQ Atmos.xml,1686458879,1686507244
-Movie BEQs/Cowboys & Aliens (2011) (Extended Cut) (-2.0 gain) BEQ DTS-HD MA 5.1.xml,1686462916,1686507363
-Movie BEQs/Devotion (2022) (-2.0 gain) BEQ DD+ Atmos.xml,1686464890,1686507474
+Movie BEQs/Cowboys & Aliens (2011) (Extended Cut) (-2.0 gain) BEQ DTS-HD MA 5.1.xml,1686462916,1707432867
+Movie BEQs/Devotion (2022) (-2.0 gain) BEQ DD+ Atmos.xml,1686464890,1707432867
 Movie BEQs/Dungeons & Dragons- Honor Among Thieves (2023) (+5.0 gain) BEQ Atmos.xml,1686466893,1686507629
 Movie BEQs/Family Guy Presents- Blue Harvest (2007) (+2.0 gain) BEQ DTS-HD MA 5.1.xml,1686436379,1686511775
 Movie BEQs/Family Guy Presents- It's a Trap! (2010) (+3.5 gain) BEQ DTS-HD MA 5.1.xml,1686441102,1686508539
@@ -43,7 +43,7 @@ Movie BEQs/The Witcher (Season 3) (EP02) (Netflix) (+3.0 gain) BEQ DD+ Atmos.xml
 Movie BEQs/The Witcher (Season 3) (EP03) (Netflix) (+2.5 gain) BEQ DD+ Atmos.xml,1688319000,1688321144
 Movie BEQs/The Witcher (Season 3) (EP04) (Netflix) (+1.0 gain) BEQ DD+ Atmos.xml,1688319000,1688321189
 Movie BEQs/The Witcher (Season 3) (EP05) (Netflix) (+6.0 gain) BEQ DD+ Atmos.xml,1688319000,1688319977
-Movie BEQs/Battle- Los Angeles (2011) (-2.5 gain) BEQ DTS-HD MA 5.1.xml,1688417781,1688417781
+Movie BEQs/Battle- Los Angeles (2011) (-2.5 gain) BEQ DTS-HD MA 5.1.xml,1688417781,1707432867
 Movie BEQs/Mission- Impossible - Fallout (2018) (-2.5 gain) BEQ Atmos.xml,1688446710,1688446710
 Movie BEQs/X-Men Origins- Wolverine (2009) (-0.5 gain) BEQ DTS-HD MA 5.1.xml,1688699407,1688699407
 Movie BEQs/Guardians of the Galaxy Vol. 3 (2023) (+3.0 gain) BEQ DD+ Atmos.xml,1688705075,1690586117
@@ -246,3 +246,56 @@ Movie BEQs/Aliens (1986) (Special Edition) (Amazon) (+3.0 gain) BEQ DD+.xml,1703
 Movie BEQs/Reign of Fire (2002) BEQ TrueHD 5.1.xml,1703657262,1703657262
 "TV Shows BEQ/Monarch- Legacy of Monsters (2023) (Season 1E1-2, 4, 8) (Apple TV+) (+1.5 gain) BEQ DD+ Atmos.xml",1703889534,1703889534
 TV Shows BEQ/Lawmen- Bass Reeves (2023) (Season 1) (Amazon) (+1.0 gain) BEQ DD+.xml,1703916076,1703916076
+"TV Shows BEQ/What If...- (2023) (Season 2E1-4, 6-9) (Disney+) (+4.0 gain) BEQ DD+ Atmos.xml",1704183289,1704183289
+TV Shows BEQ/What If...- (2023) (Season 2E5) (Disney+) (+5.5 gain) BEQ DD+ Atmos.xml,1704183289,1704183289
+TV Shows BEQ/Twisted Metal (2023) (Season 1) (Peacock) (+2.0 gain) BEQ DD+.xml,1704391069,1704391069
+"TV Shows BEQ/Monarch- Legacy of Monsters (2023) (Season 1E1-2, 4, 8-9) (Apple TV+) (+1.5 gain) BEQ DD+ Atmos.xml",1704475433,1704475433
+TV Shows BEQ/Monarch- Legacy of Monsters (2023) (Season 1E3) (Disney+) (+1.0 gain) BEQ DD+ Atmos.xml,1704479830,1704479830
+TV Shows BEQ/Monarch- Legacy of Monsters (2023) (Season 1E6) (Disney+) (+1.0 gain) BEQ DD+ Atmos.xml,1704479830,1704479830
+Movie BEQs/Avatar (2009) (Extended Collector's Edition) (+1.0 gain) BEQ DTS-HD MA 5.1.xml,1704524941,1704524941
+Movie BEQs/Doom (2005) (Unrated Extended Cut) BEQ DTS-X.xml,1704649120,1704649120
+Movie BEQs/Prey (2022) (-3.5 gain) BEQ DTS-HD MA 7.1.xml,1704649120,1704649120
+Movie BEQs/The Abyss (1989) (Special Edition) (+1.0 gain) BEQ DD+ Atmos.xml,1704649120,1704649742
+Movie BEQs/Justice League- Crisis on Infinite Earths Part One (2024) (Amazon) (+3.0 gain) BEQ DD+.xml,1704846715,1704846715
+Movie BEQs/Napoleon (2023) (+3.0 gain) BEQ DD+ Atmos.xml,1704846715,1704846715
+Movie BEQs/Justice League- Crisis on Infinite Earths Part One (2024) (+7.5 gain) BEQ DTS-HD MA 5.1.xml,1705153459,1705153459
+TV Shows BEQ/Monarch- Legacy of Monsters (2023) (Season 1E10) (Disney+) BEQ DD+ Atmos.xml,1705155176,1705155176
+TV Shows BEQ/Monarch- Legacy of Monsters (2023) (Season 1E10) (Apple TV+) BEQ DD+ Atmos.xml,1705158265,1705158265
+TV Shows BEQ/Monarch- Legacy of Monsters (2023) (Season 1E3) (Apple TV+) (+1.0 gain) BEQ DD+ Atmos.xml,1705158268,1705158268
+TV Shows BEQ/Monarch- Legacy of Monsters (2023) (Season 1E6) (Apple TV+) (+1.0 gain) BEQ DD+ Atmos.xml,1705158271,1705158271
+Movie BEQs/Role Play (2024) (Amazon) (+5.0 gain) BEQ DD+ Atmos.xml,1705159210,1705159210
+Movie BEQs/The Marvels (2023) BEQ DD+ Atmos.xml,1705385642,1705385642
+Movie BEQs/Lift (2024) (Netflix) (+1.5 gain) BEQ DD+ Atmos.xml,1705416971,1705417481
+"TV Shows BEQ/Echo (2024) (Season 1E1, 3-5) (+1.5 gain) BEQ DD+ Atmos.xml",1705425141,1705425141
+TV Shows BEQ/Echo (2024) (Season 1E2) (-0.5 gain) BEQ DD+ Atmos.xml,1705425141,1705425141
+TV Shows BEQ/True Detective (2024) (Season 4E1) (HBOMax) (+5.0 gain) BEQ DD+ Atmos.xml,1705429584,1707544935
+Movie BEQs/Paprika (2006) (+2.5 gain) BEQ DTS-HD MA 5.1.xml,1705444380,1705444380
+Movie BEQs/Paprika (2006) BEQ DTS-HD MA 5.1.xml,1705540471,1705540471
+Movie BEQs/The Raid (2011) (Unrated) (-2.0 gain) BEQ Atmos.xml,1705719792,1705729543
+Movie BEQs/The Raid (2011) (Unrated) BEQ DTS-HD MA 5.1.xml,1705724887,1705724887
+Movie BEQs/Wonka (2023) (+5.5 gain) BEQ DD+ Atmos.xml,1705804626,1705804626
+TV Shows BEQ/True Detective (2024) (Season 4E2) (HBOMax) (+5.0 gain) BEQ DD+ Atmos.xml,1705978361,1705978361
+Movie BEQs/Aquaman and the Lost Kingdom (2023) (-0.5 gain) BEQ DD+ Atmos.xml,1706068271,1706415381
+Movie BEQs/Ferrari (2023) (Amazon) (-0.5 gain) BEQ DD+ Atmos.xml,1706068271,1706068271
+Movie BEQs/Migration (2023) (+5.0 gain) BEQ DD+ Atmos.xml,1706068271,1706068271
+Movie BEQs/Wish (2023) (+4.5 gain) BEQ DD+ Atmos.xml,1706068271,1706068271
+Movie BEQs/Freelance (2023) (+5.0 gain) BEQ DTS-HD MA 5.1.xml,1706371766,1706371766
+Movie BEQs/The Underdoggs (2024) (Amazon) (+4.0 gain) BEQ DD+.xml,1706371766,1706371766
+Movie BEQs/Silent Night (2023) (+2.0 gain) BEQ Atmos.xml,1706668614,1706668614
+Movie BEQs/The Beekeeper (2024) (+3.0 gain) BEQ DD+ Atmos.xml,1706668614,1706668614
+Movie BEQs/The Exorcist- Believer (2023) BEQ Atmos.xml,1706670287,1706670287
+TV Shows BEQ/True Detective (2024) (Season 4E3) (HBOMax) (+5.5 gain) BEQ DD+ Atmos.xml,1706670283,1707545124
+TV Shows BEQ/Masters of the Air (2024) (Season 1E1) (Apple TV+) (+1.5 gain) BEQ DD+ Atmos.xml,1706671251,1706671251
+TV Shows BEQ/Masters of the Air (2024) (Season 1E2) (Apple TV+) (+1.5 gain) BEQ DD+ Atmos.xml,1706671251,1706671251
+TV Shows BEQ/Masters of the Air (2024) (Season 1E2-3) (Apple TV+) (+2.0 gain) BEQ DD+ Atmos.xml,1707245020,1707245020
+"TV Shows BEQ/true detective (2024) (Season 4E2, 4) (HBOMax) (+4.5 gain) BEQ DD+ Atmos.xml",1707246986,1707246986
+Movie BEQs/The Tiger's Apprentice (2024) (+2.5 gain) BEQ DD+ Atmos.xml,1707248696,1707248696
+Movie BEQs/The Marvels (2023) BEQ Atmos.xml,1707338702,1707338702
+"TV Shows BEQ/Masters of the Air (2024) (Season 1E1, 4) (+1.5 gain) BEQ DD+ Atmos.xml",1707502900,1707502900
+TV Shows BEQ/halo (2024) (Season 2E1-2) (Peacock) (+4.5 gain) BEQ DD+ Atmos.xml,1707524086,1707524086
+TV Shows BEQ/Halo (2024) (Season 2E1-2) (Peacock) (+4.5 gain) BEQ DD+ Atmos.xml,1707524275,1707524275
+TV Shows BEQ/Halo (2024) (Season 2E1-2) (Paramount+) (+4.5 gain) BEQ DD+ Atmos.xml,1707524499,1707525221
+TV Shows BEQ/True Detective (2024) (Season 4E5) (HBOMax) (+4.5 gain) BEQ DD+ Atmos.xml,1707542564,1707542564
+"TV Shows BEQ/True Detective (2024) (Season 4E2, 4) (HBOMax) (+4.5 gain) BEQ DD+ Atmos.xml",1707544257,1707544257
+TV Shows BEQ/Halo (2022) (Season 1E1-2) (+4.0 gain) BEQ Atmos.xml,1707551298,1707551298
+TV Shows BEQ/Halo (2022) (Season 1E3-9) (+4.0 gain) BEQ Atmos.xml,1707551298,1707551298

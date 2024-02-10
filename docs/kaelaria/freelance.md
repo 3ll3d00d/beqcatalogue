@@ -1,6 +1,6 @@
 # Freelance
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
 **2023 • R • 1h 48m • Action, Comedy • kaelaria**
 
