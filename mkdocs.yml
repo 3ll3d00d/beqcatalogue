@@ -25,14 +25,17 @@ theme:
         name: Switch to light mode
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - tablefilter/tablefilter.js
   - javascripts/tables.js
 extra_css:
   - css/extra.css
+  - tablefilter/style/tablefilter.css
 markdown_extensions:
   - toc:
       permalink: true
   - admonition
   - attr_list
+  - tables
 nav:
   - aron7awol: aron7awol.md
   - mobe1969: mobe1969.md

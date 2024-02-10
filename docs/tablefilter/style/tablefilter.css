@@ -1,0 +1,67 @@
+.fltrow {
+    height: 1em;
+}
+
+.fltrow td {
+    padding: .2em !important;
+    border-bottom: 1px dotted !important;
+    border-top: 1px dotted;
+    border-left: 1px dotted;
+    border-right: 1px dotted;
+}
+
+.flt, .flt_s, .single_flt {
+    font-family: inherit;
+    font-size: inherit;
+    display: block;
+    margin: 0;
+    padding: 0 0 0 .2em;
+    width: 100%;
+    height: 35px;
+    vertical-align: middle;
+    border-radius: 2px;
+    box-sizing: border-box;
+}
+
+.sort-arrow {
+    position: absolute;
+    display: none;
+    width: 11px;
+    height: 11px;
+    margin: 0;
+    background-position: center center;
+    background-repeat: no-repeat
+}
+
+table.TF {
+    font-family: inherit;
+    border-spacing: 0;
+    border: 0;
+}
+
+table.TF th {
+    height: 35px;
+    margin: 0;
+    padding: .1em .7em;
+}
+
+table.TF td {
+    margin: 0;
+    padding: .5em .7em;
+    text-overflow: ellipsis
+}
+
+table.TF.resp {
+    display: block;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+table.TF.resp .sort-arrow {
+    position: initial
+}
+
+table.TF.sticky th {
+    position: sticky;
+    top: -1px
+}
