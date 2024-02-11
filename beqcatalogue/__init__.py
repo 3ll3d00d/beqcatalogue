@@ -5,16 +5,14 @@ import math
 import os
 import re
 import time
+import xml.etree.ElementTree as ET
 from collections import defaultdict
+from email.utils import formatdate
+from itertools import groupby
 from operator import itemgetter
-from typing import Tuple, List, Dict
 from urllib import parse
 
-import xml.etree.ElementTree as ET
-
-from itertools import groupby
 from markdown.extensions.toc import slugify
-from email.utils import formatdate
 
 from iir import xml_to_filt
 
@@ -265,7 +263,7 @@ def group_tv_content(author, content_meta):
     return by_title
 
 
-def process_content_from_repo(author: str, content_meta, index_entries, content_type, created_titles=None):
+def process_content_from_repo(author: str, content_meta, index_entries, content_type, pages_touched, created_titles=None):
     ''' converts beq_metadata into md '''
     page_titles = []
     if content_type == 'film':
@@ -279,15 +277,19 @@ def process_content_from_repo(author: str, content_meta, index_entries, content_
         page_titles.append(title_md)
         from pathlib import Path
         Path(f"docs/{author}").mkdir(parents=True, exist_ok=True)
-        with open(f"docs/{author}/{title_md}.md", mode='w+') as content_md:
+        page = f"docs/{author}/{title_md}.md"
+        pages_touched.append(page)
+        with open(page, mode='w+') as content_md:
             generate_content_page(title_md, metas, content_md, index_entries, author, content_type)
     return page_titles
 
 
-def process_aron7awol_content_from_repo(content_meta, index_entries, content_type):
+def process_aron7awol_content_from_repo(content_meta, index_entries, content_type, pages_touched: list[str]):
     ''' converts beq_metadata into md '''
     for post_id, metas in group_aron7awol_content(content_meta, content_type).items():
-        with open(f"docs/aron7awol/{post_id}.md", mode='w+') as content_md:
+        page = f"docs/aron7awol/{post_id}.md"
+        pages_touched.append(page)
+        with open(page, mode='w+') as content_md:
             generate_content_page(post_id, metas, content_md, index_entries, 'aron7awol', content_type)
 
 
@@ -456,7 +458,7 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
             }, meta['git_path'], author)
 
 
-def format_season_episode(m) -> Tuple[str, str, str, str]:
+def format_season_episode(m) -> tuple[str, str, str, str]:
     long_season_episode = ''
     short_season_episode = ''
     season = ''
@@ -643,7 +645,7 @@ else:
     print(f"CWD: {os.getcwd()}")
 
 
-def slice_dict(keys: List[str], d: dict) -> dict:
+def slice_dict(keys: list[str], d: dict) -> dict:
     return {k: d[k] for k in keys if k in d}
 
 
@@ -665,7 +667,7 @@ def detect_duplicate_hashes():
     print(f"{unique_count} unique catalogue entries generated")
 
 
-def load_times(author: str) -> Dict[str, Tuple[int, int]]:
+def load_times(author: str) -> dict[str, tuple[int, int]]:
     times = {}
     from csv import reader
     with open(f"{author}.times.csv") as f:
@@ -674,7 +676,7 @@ def load_times(author: str) -> Dict[str, Tuple[int, int]]:
     return apply_times_diff(times, author)
 
 
-def apply_times_diff(times: Dict[str, Tuple[int, int]], author: str) -> Dict[str, Tuple[int, int]]:
+def apply_times_diff(times: dict[str, tuple[int, int]], author: str) -> dict[str, tuple[int, int]]:
     from csv import reader
     with open(f"{author}.diff") as f:
         for row in reader(f):
@@ -699,6 +701,19 @@ def dump_audio_types(json_catalogue):
             audio_types.add(at)
     print(f"Found {len(audio_types)} audio types- {sorted(list(audio_types))}")
 
+
+def dump_excess_files(pages_touched: list[str]):
+    import glob
+    existing_pages = sorted(glob.glob(f"docs/*/*.md", recursive=True))
+    for page in sorted(pages_touched):
+        try:
+            existing_pages.remove(page)
+        except ValueError:
+            print(f'Touched a page but it does not exist! {page}')
+    if existing_pages:
+        print(f'{len(existing_pages)} files to delete')
+        for p in existing_pages:
+            print(f'rm -f {p}')
 
 
 if __name__ == '__main__':
@@ -732,14 +747,15 @@ if __name__ == '__main__':
     tv_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'tv', 'TV')
     print(f"Extracted {len(tv_data['kaelaria'])} kaelaria TV catalogue entries")
 
-    json_catalogue: List[dict] = []
+    json_catalogue: list[dict] = []
+    pages_touched: list[str] = []
 
     with open('docs/database.csv', 'w+', newline='') as db_csv:
         db_writer = csv.writer(db_csv)
         db_writer.writerow(['Title', 'Year', 'Format', 'Author', 'AVS', 'Catalogue', 'blu-ray.com', 'filters'])
         index_entries = []
-        process_aron7awol_content_from_repo(aron7awol_films, index_entries, 'film')
-        process_aron7awol_content_from_repo(aron7awol_tv, index_entries, 'TV')
+        process_aron7awol_content_from_repo(aron7awol_films, index_entries, 'film', pages_touched)
+        process_aron7awol_content_from_repo(aron7awol_tv, index_entries, 'TV', pages_touched)
         with open('docs/aron7awol.md', mode='w+') as index_md:
             print('---', file=index_md)
             print('search:', file=index_md)
@@ -755,8 +771,8 @@ if __name__ == '__main__':
 
         for author in ['mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria']:
             index_entries = []
-            page_titles = process_content_from_repo(author, film_data[author], index_entries, 'film')
-            process_content_from_repo(author, tv_data[author], index_entries, 'TV', created_titles=page_titles)
+            page_titles = process_content_from_repo(author, film_data[author], index_entries, 'film', pages_touched)
+            process_content_from_repo(author, tv_data[author], index_entries, 'TV', pages_touched, created_titles=page_titles)
             with open(f'docs/{author}.md', mode='w+') as index_md:
                 print('---', file=index_md)
                 print('search:', file=index_md)
@@ -773,6 +789,8 @@ if __name__ == '__main__':
 
     detect_duplicate_hashes()
     dump_audio_types(json_catalogue)
+    dump_excess_files(pages_touched)
+
     with open('docs/database.json', 'w+') as db_json:
         json.dump(json_catalogue, db_json, indent=0)
 

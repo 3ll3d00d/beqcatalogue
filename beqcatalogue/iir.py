@@ -2,7 +2,6 @@ import logging
 from abc import ABC, abstractmethod, ABCMeta
 
 import decimal
-from typing import List
 
 import math
 
@@ -222,7 +221,7 @@ def __extract_filters(file):
     return Counter([tuple(f.items()) for f in final_filt])
 
 
-def xml_to_filt(file, fs=96000, unroll=False) -> List[Biquad]:
+def xml_to_filt(file, fs=96000, unroll=False) -> list[Biquad]:
     ''' Extracts a set of filters from the provided minidsp file '''
     filts = __extract_filters(file)
     output = []

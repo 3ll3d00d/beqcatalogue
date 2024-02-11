@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "beqcatalogue"
+version = "0.0.1"
+description = "A website for browsin the beqcatalogue"
+authors = ["3ll3d00d <mattkhan+ezbeq@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://beqcatalogue.readthedocs.io/"
+repository = "https://github.com/3ll3d00d/beqcatalogue"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jinja2 = ">=2.11.3"
+
+[tool.poetry.group.dev.dependencies]
+mkdocs = "*"
+mkdocs-material = "*"
+pymdown-extensions = ">=10.0"
+requests = ">=2.31.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
