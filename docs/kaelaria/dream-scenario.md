@@ -1,6 +1,6 @@
 # Dream Scenario
 
-## DD+
+## Atmos, DD+
 
 **2023 • R • 1h 42m • Comedy, Fantasy • kaelaria**
 
