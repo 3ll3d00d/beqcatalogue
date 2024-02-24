@@ -1,6 +1,6 @@
 # Wonka
 
-## DD+ Atmos, DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2023 • PG • 1h 57m • Comedy, Family, Fantasy • t1g8rsfan**
 
