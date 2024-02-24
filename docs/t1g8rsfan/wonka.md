@@ -1,6 +1,6 @@
 # Wonka
 
-## DD+ Atmos
+## DD+ Atmos, DD+ Atmos
 
 **2023 • PG • 1h 57m • Comedy, Family, Fantasy • t1g8rsfan**
 
@@ -9,7 +9,7 @@ Willy Wonka – chock-full of ideas and determined to change the world one delec
 
 **MV Adjustment:** +5.5 dB
 
-+5dB Dialnorm Compensation
++5dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63096139)  [TMDB](https://www.themoviedb.org/movie/787699)
