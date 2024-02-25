@@ -4,7 +4,7 @@
 
 ## Season 01
 
-* DD+
+* DD+ Atmos
 
 
 * Production Year: 2021
@@ -17,7 +17,7 @@
 
 ## Season 02
 
-* DD+
+* DD+ Atmos
 
 
 * Production Year: 2021
