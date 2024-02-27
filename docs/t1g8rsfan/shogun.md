@@ -2,7 +2,7 @@
 
 * Author: t1g8rsfan
 
-## Season 1E1-2
+## Season 1
 
 * DD+
 
