@@ -30,7 +30,7 @@
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Halo%20S1E3-9%20(%2B4%20gain)%20Atmos.beq.jpg)
 
-## Season 2E1-4
+## Season 2
 
 * DD+ Atmos
 
