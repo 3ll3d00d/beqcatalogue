@@ -45,5 +45,5 @@
 * Production Year: 2024
 
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Halo%20S2E1-4%20DD%2B%20(%2B4.5%20gain)%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Halo%20S2E1-5%20DD%2B%20(%2B4.5%20gain)%20Atmos.jpg)
 
