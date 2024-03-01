@@ -2,7 +2,7 @@
 
 * Author: t1g8rsfan
 
-## Season 1E1, 4-6
+## Season 1E1, 4-7
 
 * DD+ Atmos
 
@@ -17,7 +17,7 @@
 * Production Year: 2024
 
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Masters%20of%20the%20Air%20S1E1%2C%204-6%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Masters%20of%20the%20Air%20S1E1%2C%204-7%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
 
 ## Season 1E2-3
 
