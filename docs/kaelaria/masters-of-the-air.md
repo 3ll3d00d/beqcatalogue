@@ -2,7 +2,7 @@
 
 * Author: kaelaria
 
-## Season 01E01-05
+## Season 01E01-07
 
 * DD+ Atmos
 
