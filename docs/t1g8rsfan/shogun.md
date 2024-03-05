@@ -1,4 +1,4 @@
-# Shōgun
+# Shogun
 
 * Author: t1g8rsfan
 
