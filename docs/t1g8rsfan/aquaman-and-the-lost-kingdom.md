@@ -1,6 +1,6 @@
 # Aquaman and the Lost Kingdom
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2023 • PG-13 • 2h 4m • Action, Adventure, Fantasy • t1g8rsfan**
 
@@ -9,7 +9,7 @@ Black Manta, still driven by the need to avenge his father's death and wielding 
 
 **MV Adjustment:** -0.5 dB
 
-+7dB Dialnorm Compensation​
++7dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63102828)  [TMDB](https://www.themoviedb.org/movie/572802)
