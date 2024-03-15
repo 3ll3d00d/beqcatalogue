@@ -1,6 +1,6 @@
 # True Lies
 
-## DD+ Atmos
+## DD+ Atmos, Atmos
 
 **1994 • R • 2h 20m • Action, Thriller • kaelaria**
 
