@@ -2,11 +2,14 @@
 
 ## Atmos
 
-Special Edition
+Theatrical Cut / Special Edition
 
 **1986 • t1g8rsfan**
 
 **MV Adjustment:** -1.0 dB
+
+Theatrical Cut (-1.5 MV)
+{ data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63042100)
 { data-search-exclude }
