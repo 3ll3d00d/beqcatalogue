@@ -2,7 +2,7 @@
 
 ## Atmos
 
-Theatrical Cut / Special Edition
+Special Edition / Theatrical Cut
 
 **1986 • t1g8rsfan**
 
