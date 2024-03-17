@@ -1,6 +1,6 @@
 # True Lies
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **1994 • R • 2h 20m • Action, Thriller • t1g8rsfan**
 
@@ -9,7 +9,7 @@ A fearless, globe-trotting, terrorist-battling secret agent has his life turned 
 
 **MV Adjustment:** +1.5 dB
 
-+4dB Dialnorm Compensation​
++4dB Dialnorm Compensation - DD+ Atmos​
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63011176)  [TMDB](https://www.themoviedb.org/movie/36955)
