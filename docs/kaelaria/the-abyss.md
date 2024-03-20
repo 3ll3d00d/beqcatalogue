@@ -4,7 +4,7 @@
 
 Special Edition
 
-**1989 • PG-13 • 2h 20m • Adventure, Action, Thriller, Science Fiction • kaelaria**
+**1989 • PG-13 • 2h 51m • Adventure, Action, Thriller, Science Fiction • kaelaria**
 
 A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.
 { data-search-exclude }
