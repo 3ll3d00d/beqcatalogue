@@ -9,8 +9,10 @@ Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Road%20House%20(2024)%20DD%2B.jpg)  [TMDB](https://www.themoviedb.org/movie/359410)
+[TMDB](https://www.themoviedb.org/movie/359410)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Road%20House%20(2024)%20(%2B3.5%20gain)%20DD%2B.jpg)
+
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Road%20House%20(2024)%20DD%2B.jpg)
 
