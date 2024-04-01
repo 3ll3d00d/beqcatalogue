@@ -4,7 +4,7 @@
 
 Special Edition
 
-**1986 • R • 2h 17m • Action, Thriller, Science Fiction • kaelaria**
+**1986 • R • 2h 34m • Action, Thriller, Science Fiction • kaelaria**
 
 Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.
 { data-search-exclude }
