@@ -1,6 +1,6 @@
 # The Beekeeper
 
-## DD+ Atmos, Atmos
+## DD+ Atmos, Atmos, DTS-HD MA 5.1
 
 **2024 • R • 1h 45m • Action, Thriller, Drama • kaelaria**
 
