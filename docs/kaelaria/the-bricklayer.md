@@ -1,6 +1,6 @@
 # The Bricklayer
 
-## DD+
+## DD+, DTS-HD MA 5.1
 
 **2023 • R • 1h 50m • Action, Thriller • kaelaria**
 
