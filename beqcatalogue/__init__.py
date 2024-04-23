@@ -747,6 +747,11 @@ if __name__ == '__main__':
     tv_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'tv', 'TV')
     print(f"Extracted {len(tv_data['kaelaria'])} kaelaria TV catalogue entries")
 
+    film_data['remixmark'] = extract_from_repo('.input/remixmark/beq-xml/', 'Movie BEQs', 'film')
+    print(f"Extracted {len(film_data['remixmark'])} remixmark film catalogue entries")
+    tv_data['remixmark'] = extract_from_repo('.input/remixmark/beq-xml/', 'TV BEQs', 'TV')
+    print(f"Extracted {len(tv_data['remixmark'])} remixmark TV catalogue entries")
+
     json_catalogue: list[dict] = []
     pages_touched: list[str] = []
 
@@ -769,10 +774,11 @@ if __name__ == '__main__':
             for i in sorted(index_entries, key=str.casefold):
                 print(i, file=index_md)
 
-        for author in ['mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria']:
+        for author in ['mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria', 'remixmark']:
             index_entries = []
             page_titles = process_content_from_repo(author, film_data[author], index_entries, 'film', pages_touched)
-            process_content_from_repo(author, tv_data[author], index_entries, 'TV', pages_touched, created_titles=page_titles)
+            if author in tv_data:
+                process_content_from_repo(author, tv_data[author], index_entries, 'TV', pages_touched, created_titles=page_titles)
             with open(f'docs/{author}.md', mode='w+') as index_md:
                 print('---', file=index_md)
                 print('search:', file=index_md)
@@ -793,7 +799,6 @@ if __name__ == '__main__':
 
     with open('docs/database.json', 'w+') as db_json:
         json.dump(json_catalogue, db_json, indent=0)
-
 
     def txt(parent, title, text, **kwargs):
         e = ET.SubElement(parent, title, kwargs)

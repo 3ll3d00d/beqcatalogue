@@ -86,6 +86,14 @@ jobs:
           else
             git clone https://github.com/kaelaria/Beq1.git .input/kaelaria/Beq1
           fi
+          if [[ -d .input/remixmark/beq-xml ]]
+          then
+            pushd .input/remixmark/beq-xml
+            git pull
+            popd
+          else
+            git clone https://github.com/remixmark/beq-xml.git .input/remixmark/beq-xml
+          fi
       - name: Get git metadata
         run: |
           M_SHA=$(cat mobe1969.sha)
@@ -127,6 +135,14 @@ jobs:
           popd
           mv .input/kaelaria/Beq1/d.diff kaelaria.diff
           mv .input/kaelaria/Beq1/d.sha kaelaria.sha
+
+          M_SHA=$(cat remixmark.sha)
+          pushd .input/remixmark/beq-xml
+          git diff --name-only -z ${M_SHA}..HEAD -- tv\/ movies\/  | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git rev-parse HEAD > d.sha
+          popd
+          mv .input/remixmark/beq-xml/d.diff remixmark.diff
+          mv .input/remixmark/beq-xml/d.sha remixmark.sha
       - name: Update Catalogue
         run: |
           poetry run python beqcatalogue/__init__.py
