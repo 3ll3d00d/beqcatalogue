@@ -717,7 +717,7 @@ def dump_excess_files(pages_touched: list[str]):
 
 
 if __name__ == '__main__':
-    times = {a: load_times(a) for a in ['aron7awol', 'mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria']}
+    times = {a: load_times(a) for a in ['aron7awol', 'mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria', 'remixmark']}
 
     aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film')
     print(f"Extracted {len(aron7awol_films)} aron7awol film catalogue entries")
