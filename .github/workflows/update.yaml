@@ -138,7 +138,7 @@ jobs:
 
           M_SHA=$(cat remixmark.sha)
           pushd .input/remixmark/beq-xml
-          git diff --name-only -z ${M_SHA}..HEAD -- tv\/ movies\/  | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
+          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ*  | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
           mv .input/remixmark/beq-xml/d.diff remixmark.diff
