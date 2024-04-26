@@ -747,9 +747,9 @@ if __name__ == '__main__':
     tv_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'tv', 'TV')
     print(f"Extracted {len(tv_data['kaelaria'])} kaelaria TV catalogue entries")
 
-    film_data['remixmark'] = extract_from_repo('.input/remixmark/beq-xml/', 'Movie BEQs', 'film')
+    film_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'Movie BEQs', 'film')
     print(f"Extracted {len(film_data['remixmark'])} remixmark film catalogue entries")
-    tv_data['remixmark'] = extract_from_repo('.input/remixmark/beq-xml/', 'TV BEQs', 'TV')
+    tv_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'TV BEQs', 'TV')
     print(f"Extracted {len(tv_data['remixmark'])} remixmark TV catalogue entries")
 
     json_catalogue: list[dict] = []
