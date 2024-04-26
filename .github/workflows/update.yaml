@@ -18,6 +18,7 @@ on:
     branches: ['*']
 concurrency:
   group: publish
+  cancel-in-progress: true
 jobs:
   build:
     runs-on: ubuntu-latest

@@ -4,6 +4,8 @@ on:
     branches:
       - 'master'
       - 'main'
+concurrency:
+  group: publish
 jobs:
   build:
     runs-on: ubuntu-latest
