@@ -1,4 +1,4 @@
-# Shōgun
+# Shogun
 
 * Author: kaelaria
 
