@@ -727,30 +727,45 @@ if __name__ == '__main__':
     film_data = {}
     tv_data = {}
 
-    film_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'Movie BEQs', 'film')
-    print(f"Extracted {len(film_data['mobe1969'])} mobe1969 film catalogue entries")
-    tv_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'TV BEQs', 'TV')
-    print(f"Extracted {len(tv_data['mobe1969'])} mobe1969 TV catalogue entries")
+    try:
+        film_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'Movie BEQs', 'film')
+        print(f"Extracted {len(film_data['mobe1969'])} mobe1969 film catalogue entries")
+        tv_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'TV BEQs', 'TV')
+        print(f"Extracted {len(tv_data['mobe1969'])} mobe1969 TV catalogue entries")
+    except:
+        print(f"Failed to extract for mobe1969")
 
-    film_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'Movie BEQs', 'film')
-    print(f"Extracted {len(film_data['halcyon888'])} halcyon888 film catalogue entries")
-    tv_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
-    print(f"Extracted {len(tv_data['halcyon888'])} halcyon888 TV catalogue entries")
+    try:
+        film_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'Movie BEQs', 'film')
+        print(f"Extracted {len(film_data['halcyon888'])} halcyon888 film catalogue entries")
+        tv_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
+        print(f"Extracted {len(tv_data['halcyon888'])} halcyon888 TV catalogue entries")
+    except:
+        print(f"Failed to extract for halcyon888")
 
-    film_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'Movie BEQs', 'film')
-    print(f"Extracted {len(film_data['t1g8rsfan'])} t1g8rsfan film catalogue entries")
-    tv_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
-    print(f"Extracted {len(tv_data['t1g8rsfan'])} t1g8rsfan TV catalogue entries")
+    try:
+        film_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'Movie BEQs', 'film')
+        print(f"Extracted {len(film_data['t1g8rsfan'])} t1g8rsfan film catalogue entries")
+        tv_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
+        print(f"Extracted {len(tv_data['t1g8rsfan'])} t1g8rsfan TV catalogue entries")
+    except:
+        print(f"Failed to extract for t1g8rsfan")
 
-    film_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'movies', 'film')
-    print(f"Extracted {len(film_data['kaelaria'])} kaelaria film catalogue entries")
-    tv_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'tv', 'TV')
-    print(f"Extracted {len(tv_data['kaelaria'])} kaelaria TV catalogue entries")
+    try:
+        film_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'movies', 'film')
+        print(f"Extracted {len(film_data['kaelaria'])} kaelaria film catalogue entries")
+        tv_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'tv', 'TV')
+        print(f"Extracted {len(tv_data['kaelaria'])} kaelaria TV catalogue entries")
+    except:
+        print(f"Failed to extract for kaelaria")
 
-    film_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'Movie BEQs', 'film')
-    print(f"Extracted {len(film_data['remixmark'])} remixmark film catalogue entries")
-    tv_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'TV BEQs', 'TV')
-    print(f"Extracted {len(tv_data['remixmark'])} remixmark TV catalogue entries")
+    try:
+        film_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'Movie BEQs', 'film')
+        print(f"Extracted {len(film_data['remixmark'])} remixmark film catalogue entries")
+        tv_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'TV BEQs', 'TV')
+        print(f"Extracted {len(tv_data['remixmark'])} remixmark TV catalogue entries")
+    except:
+        print(f"Failed to extract for remixmark")
 
     json_catalogue: list[dict] = []
     pages_touched: list[str] = []
