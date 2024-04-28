@@ -5,6 +5,7 @@ import math
 import os
 import re
 import time
+import traceback
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 from email.utils import formatdate
@@ -19,7 +20,7 @@ from iir import xml_to_filt
 TWO_WEEKS_AGO = time.time() - (2 * 7 * 24 * 60 * 60)
 
 
-def extract_from_repo(path1: str, path2: str, content_type: str):
+def extract_from_repo(path1: str, path2: str, content_type: str, author: str):
     '''
     extracts beq_metadata of following format
            <beq_metadata>
@@ -117,7 +118,8 @@ def extract_from_repo(path1: str, path2: str, content_type: str):
             elements.append(meta)
         except Exception as e:
             print(f"Unexpected error while extracting metadata from {xml}")
-            raise e
+            traceback.print_exc()
+            error_files[author].append(f'{xml}|{e}')
 
     return elements
 
@@ -165,31 +167,36 @@ def group_film_content(author, content_meta):
     by_title = defaultdict(list)
     fallback_pattern = re.compile(r'(.*) \((\d{4})\)(?: *\(.*\))? (.*)')
     for meta in content_meta:
-        if 'title' in meta:
-            title = meta['title']
-            page_title = meta['page_title']
-            if title.casefold() in by_title:
-                if page_title == by_title[title.casefold()][0]['page_title']:
-                    by_title[title.casefold()].append(meta)
+        try:
+            if 'title' in meta:
+                title = meta['title']
+                page_title = meta['page_title']
+                if title.casefold() in by_title:
+                    if page_title == by_title[title.casefold()][0]['page_title']:
+                        by_title[title.casefold()].append(meta)
+                    else:
+                        by_title[page_title.casefold()].append(meta)
                 else:
-                    by_title[page_title.casefold()].append(meta)
+                    by_title[title.casefold()].append(meta)
             else:
-                by_title[title.casefold()].append(meta)
-        else:
-            entry = {
-                'title': meta['file_name'],
-                'author': author,
-                'content_type': meta['content_type']
-            }
-            match = fallback_pattern.match(meta['file_name'])
-            if match:
-                entry['title'] = match.group(1)
-                entry['year'] = match.group(2)
-                entry['audioTypes'] = match.group(3).split('+')
-            entry['page_title'] = entry['title'].casefold()
-            print(f"Missing title entry, extracted {entry}")
-            entry['filters'] = meta['jsonfilters']
-            add_to_catalogue(entry, meta['git_path'], author)
+                entry = {
+                    'title': meta['file_name'],
+                    'author': author,
+                    'content_type': meta['content_type']
+                }
+                match = fallback_pattern.match(meta['file_name'])
+                if match:
+                    entry['title'] = match.group(1)
+                    entry['year'] = match.group(2)
+                    entry['audioTypes'] = match.group(3).split('+')
+                entry['page_title'] = entry['title'].casefold()
+                print(f"Missing title entry, extracted {entry}")
+                entry['filters'] = meta['jsonfilters']
+                add_to_catalogue(entry, meta['git_path'], author)
+        except Exception as e:
+            print(f'Unexpected exception when grouping {content_meta["git_path"]}')
+            error_files[author].append(f'{content_meta["git_path"]}|{e}')
+            traceback.print_exc()
     return by_title
 
 
@@ -216,50 +223,55 @@ def group_tv_content(author, content_meta):
     by_title = {}
     fallback_pattern = re.compile(r'(.*) \((\d{4})\)(?: *\(.*\))? (.*)')
     for meta in content_meta:
-        if 'title' in meta:
-            title = meta['title']
-            if title[-4:-2] == ' E' and title[-2:].isdigit():
-                meta['episode'] = title[-2:]
-                title = title[:-4]
-                meta['title'] = title
-            elif 'note' in meta:
-                note = meta['note']
-                if note[0] == 'E':
-                    if note[1:].isdigit():
-                        meta['episode'] = note[1:]
-                    elif '-' in note[1:]:
-                        vals = [int(i) for i in note[1:].split('-')]
-                        if len(vals) == 2:
-                            meta['episode'] = ','.join([str(e) for e in range(vals[0], vals[1] + 1)])
-                elif note[0] == 'S':
-                    frags = note.split('-')
-                    if len(frags) == 2:
-                        if frags[1][0] == 'E':
-                            if frags[1][1:].isdigit():
-                                meta['episode'] = frags[1][1:]
-                if 'episode' not in meta:
-                    print(f"Unknown note format in TV {meta}")
+        try:
+            if 'title' in meta:
+                title = meta['title']
+                if title[-4:-2] == ' E' and title[-2:].isdigit():
+                    meta['episode'] = title[-2:]
+                    title = title[:-4]
+                    meta['title'] = title
+                elif 'note' in meta:
+                    note = meta['note']
+                    if note[0] == 'E':
+                        if note[1:].isdigit():
+                            meta['episode'] = note[1:]
+                        elif '-' in note[1:]:
+                            vals = [int(i) for i in note[1:].split('-')]
+                            if len(vals) == 2:
+                                meta['episode'] = ','.join([str(e) for e in range(vals[0], vals[1] + 1)])
+                    elif note[0] == 'S':
+                        frags = note.split('-')
+                        if len(frags) == 2:
+                            if frags[1][0] == 'E':
+                                if frags[1][1:].isdigit():
+                                    meta['episode'] = frags[1][1:]
+                    if 'episode' not in meta:
+                        print(f"Unknown note format in TV {meta}")
+                    else:
+                        del meta['note']
+                        print(f"Note used for episode info by {meta['repo_file']}, removing note from meta")
+                if title in by_title:
+                    by_title[title].append(meta)
                 else:
-                    del meta['note']
-                    print(f"Note used for episode info by {meta['repo_file']}, removing note from meta")
-            if title in by_title:
-                by_title[title].append(meta)
+                    by_title[title] = [meta]
             else:
-                by_title[title] = [meta]
-        else:
-            entry = {
-                'title': meta['file_name'],
-                'author': author,
-                'content_type': meta['content_type']
-            }
-            match = fallback_pattern.match(meta['file_name'])
-            if match:
-                entry['title'] = match.group(1)
-                entry['year'] = match.group(2)
-                entry['audioTypes'] = match.group(3).split('+')
-            print(f"Missing title entry, extracted {entry}")
-            entry['filters'] = meta['jsonfilters']
-            add_to_catalogue(entry, meta['git_path'], author)
+                entry = {
+                    'title': meta['file_name'],
+                    'author': author,
+                    'content_type': meta['content_type']
+                }
+                match = fallback_pattern.match(meta['file_name'])
+                if match:
+                    entry['title'] = match.group(1)
+                    entry['year'] = match.group(2)
+                    entry['audioTypes'] = match.group(3).split('+')
+                print(f"Missing title entry, extracted {entry}")
+                entry['filters'] = meta['jsonfilters']
+                add_to_catalogue(entry, meta['git_path'], author)
+        except Exception as e:
+            print(f'Unexpected exception when grouping {content_meta["git_path"]}')
+            error_files[author].append(f'{content_meta["git_path"]}|{e}')
+            traceback.print_exc()
     return by_title
 
 
@@ -670,7 +682,7 @@ def detect_duplicate_hashes():
 def load_times(author: str) -> dict[str, tuple[int, int]]:
     times = {}
     from csv import reader
-    with open(f"{author}.times.csv") as f:
+    with open(f"meta/{author}.times.csv") as f:
         for row in reader(f):
             times[row[0]] = (int(row[1]), int(row[2]))
     return apply_times_diff(times, author)
@@ -678,14 +690,14 @@ def load_times(author: str) -> dict[str, tuple[int, int]]:
 
 def apply_times_diff(times: dict[str, tuple[int, int]], author: str) -> dict[str, tuple[int, int]]:
     from csv import reader
-    with open(f"{author}.diff") as f:
+    with open(f"meta/{author}.diff") as f:
         for row in reader(f):
             if row[0] in times:
                 old = times[row[0]]
                 times[row[0]] = (old[0], int(row[1]))
             else:
                 times[row[0]] = (int(row[1]), int(row[1]))
-    with open(f"{author}.times.csv", mode="w") as f:
+    with open(f"meta/{author}.times.csv", mode="w") as f:
         from csv import writer
         w = writer(f)
         for k, v in times.items():
@@ -717,55 +729,65 @@ def dump_excess_files(pages_touched: list[str]):
 
 
 if __name__ == '__main__':
-    times = {a: load_times(a) for a in ['aron7awol', 'mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria', 'remixmark']}
-
-    aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film')
-    print(f"Extracted {len(aron7awol_films)} aron7awol film catalogue entries")
-    aron7awol_tv = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
-    print(f"Extracted {len(aron7awol_tv)} aron7awol TV catalogue entries")
-
+    all_authors = ['aron7awol', 'mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria', 'remixmark']
+    times = {a: load_times(a) for a in all_authors}
+    error_files = {a: [] for a in all_authors}
     film_data = {}
     tv_data = {}
 
     try:
-        film_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'Movie BEQs', 'film')
+        aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film', 'aron7awol')
+        print(f"Extracted {len(aron7awol_films)} aron7awol film catalogue entries")
+        aron7awol_tv = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'TV Shows BEQ', 'TV', 'aron7awol')
+        print(f"Extracted {len(aron7awol_tv)} aron7awol TV catalogue entries")
+    except:
+        print(f"Failed to extract for aron7awol")
+        traceback.print_exc()
+
+    try:
+        film_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'Movie BEQs', 'film', 'mobe1969')
         print(f"Extracted {len(film_data['mobe1969'])} mobe1969 film catalogue entries")
-        tv_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'TV BEQs', 'TV')
+        tv_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'TV BEQs', 'TV', 'mobe1969')
         print(f"Extracted {len(tv_data['mobe1969'])} mobe1969 TV catalogue entries")
     except:
         print(f"Failed to extract for mobe1969")
+        traceback.print_exc()
 
     try:
-        film_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'Movie BEQs', 'film')
+        film_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'Movie BEQs', 'film', 'halcyon888')
         print(f"Extracted {len(film_data['halcyon888'])} halcyon888 film catalogue entries")
-        tv_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
+        tv_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'TV Shows BEQ', 'TV', 'halcyon888')
         print(f"Extracted {len(tv_data['halcyon888'])} halcyon888 TV catalogue entries")
     except:
         print(f"Failed to extract for halcyon888")
+        traceback.print_exc()
 
     try:
-        film_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'Movie BEQs', 'film')
+        film_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'Movie BEQs', 'film', 't1g8rsfan')
         print(f"Extracted {len(film_data['t1g8rsfan'])} t1g8rsfan film catalogue entries")
-        tv_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'TV Shows BEQ', 'TV')
+        tv_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'TV Shows BEQ', 'TV', 't1g8rsfan')
         print(f"Extracted {len(tv_data['t1g8rsfan'])} t1g8rsfan TV catalogue entries")
     except:
         print(f"Failed to extract for t1g8rsfan")
+        traceback.print_exc()
 
     try:
-        film_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'movies', 'film')
+        film_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'movies', 'film', 'kaelaria')
         print(f"Extracted {len(film_data['kaelaria'])} kaelaria film catalogue entries")
-        tv_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'tv', 'TV')
+        tv_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'tv', 'TV', 'kaelaria')
         print(f"Extracted {len(tv_data['kaelaria'])} kaelaria TV catalogue entries")
     except:
         print(f"Failed to extract for kaelaria")
+        traceback.print_exc()
 
     try:
-        film_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'Movie BEQs', 'film')
+        film_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'Movie BEQs', 'film', 'remixmark')
         print(f"Extracted {len(film_data['remixmark'])} remixmark film catalogue entries")
-        tv_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'TV BEQs', 'TV')
+        tv_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'TV BEQs', 'TV', 'remixmark')
         print(f"Extracted {len(tv_data['remixmark'])} remixmark TV catalogue entries")
     except:
         print(f"Failed to extract for remixmark")
+        traceback.print_exc()
 
     json_catalogue: list[dict] = []
     pages_touched: list[str] = []
@@ -811,6 +833,11 @@ if __name__ == '__main__':
     detect_duplicate_hashes()
     dump_audio_types(json_catalogue)
     dump_excess_files(pages_touched)
+
+    for author, errors in error_files.items():
+        with open(f'meta/{author}.errors', 'w') as f:
+            for e in errors:
+                f.write(f"{e}\n")
 
     with open('docs/database.json', 'w+') as db_json:
         json.dump(json_catalogue, db_json, indent=0)

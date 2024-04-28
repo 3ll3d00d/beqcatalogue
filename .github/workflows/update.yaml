@@ -97,53 +97,53 @@ jobs:
           fi
       - name: Get git metadata
         run: |
-          M_SHA=$(cat mobe1969.sha)
+          M_SHA=$(cat meta/mobe1969.sha)
           pushd .input/Mobe1969/miniDSPBEQ
           git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
-          mv .input/Mobe1969/miniDSPBEQ/d.diff mobe1969.diff
-          mv .input/Mobe1969/miniDSPBEQ/d.sha mobe1969.sha
+          mv .input/Mobe1969/miniDSPBEQ/d.diff meta/mobe1969.diff
+          mv .input/Mobe1969/miniDSPBEQ/d.sha meta/mobe1969.sha
 
-          M_SHA=$(cat halcyon888.sha)
+          M_SHA=$(cat meta/halcyon888.sha)
           pushd .input/halcyon888/miniDSPBEQ
           git diff --name-only -z ${M_SHA}..HEAD -- *BEQ*| xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
-          mv .input/halcyon888/miniDSPBEQ/d.diff halcyon888.diff
-          mv .input/halcyon888/miniDSPBEQ/d.sha halcyon888.sha
+          mv .input/halcyon888/miniDSPBEQ/d.diff meta/halcyon888.diff
+          mv .input/halcyon888/miniDSPBEQ/d.sha meta/halcyon888.sha
 
-          M_SHA=$(cat aron7awol.sha)
+          M_SHA=$(cat meta/aron7awol.sha)
           pushd .input/bmiller/miniDSPBEQ
           git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
-          mv .input/bmiller/miniDSPBEQ/d.diff aron7awol.diff
-          mv .input/bmiller/miniDSPBEQ/d.sha aron7awol.sha
+          mv .input/bmiller/miniDSPBEQ/d.diff meta/aron7awol.diff
+          mv .input/bmiller/miniDSPBEQ/d.sha meta/aron7awol.sha
 
-          M_SHA=$(cat t1g8rsfan.sha)
+          M_SHA=$(cat meta/t1g8rsfan.sha)
           pushd .input/t1g8rsfan/miniDSPBEQ
           git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
-          mv .input/t1g8rsfan/miniDSPBEQ/d.diff t1g8rsfan.diff
-          mv .input/t1g8rsfan/miniDSPBEQ/d.sha t1g8rsfan.sha
+          mv .input/t1g8rsfan/miniDSPBEQ/d.diff meta/t1g8rsfan.diff
+          mv .input/t1g8rsfan/miniDSPBEQ/d.sha meta/t1g8rsfan.sha
 
-          M_SHA=$(cat kaelaria.sha)
+          M_SHA=$(cat meta/kaelaria.sha)
           pushd .input/kaelaria/Beq1
           git diff --name-only -z ${M_SHA}..HEAD -- tv\/ movies\/  | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
-          mv .input/kaelaria/Beq1/d.diff kaelaria.diff
-          mv .input/kaelaria/Beq1/d.sha kaelaria.sha
+          mv .input/kaelaria/Beq1/d.diff meta/kaelaria.diff
+          mv .input/kaelaria/Beq1/d.sha meta/kaelaria.sha
 
-          M_SHA=$(cat remixmark.sha)
+          M_SHA=$(cat meta/remixmark.sha)
           pushd .input/remixmark/miniDSPBEQ
           git diff --name-only -z ${M_SHA}..HEAD -- *BEQ*  | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
-          mv .input/remixmark/miniDSPBEQ/d.diff remixmark.diff
-          mv .input/remixmark/miniDSPBEQ/d.sha remixmark.sha
+          mv .input/remixmark/miniDSPBEQ/d.diff meta/remixmark.diff
+          mv .input/remixmark/miniDSPBEQ/d.sha meta/remixmark.sha
       - name: Update Catalogue
         run: |
           poetry run python beqcatalogue/__init__.py
