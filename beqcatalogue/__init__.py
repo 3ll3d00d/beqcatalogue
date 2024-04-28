@@ -65,12 +65,13 @@ def extract_from_repo(path1: str, path2: str, content_type: str, author: str):
     import glob
     elements = []
     for xml in sorted(glob.glob(f"{path1}{path2}/**/*.xml", recursive=True)):
+        git_path = str(xml)[len(path1):]
         try:
             root = extract_root(xml)
             file_name = xml[:-4]
             meta = {
                 'repo_file': str(xml),
-                'git_path': str(xml)[len(path1):],
+                'git_path': git_path,
                 'file_name': file_name.split('/')[-1],
                 'file_path': '/'.join(file_name[len(path1):].split('/')[:-1]),
                 'content_type': content_type
@@ -119,7 +120,7 @@ def extract_from_repo(path1: str, path2: str, content_type: str, author: str):
         except Exception as e:
             print(f"Unexpected error while extracting metadata from {xml}")
             traceback.print_exc()
-            error_files[author].append(f'{xml}|{e}')
+            error_files[author].append(f'{git_path}|{e}')
 
     return elements
 
@@ -194,8 +195,8 @@ def group_film_content(author, content_meta):
                 entry['filters'] = meta['jsonfilters']
                 add_to_catalogue(entry, meta['git_path'], author)
         except Exception as e:
-            print(f'Unexpected exception when grouping {content_meta["git_path"]}')
-            error_files[author].append(f'{content_meta["git_path"]}|{e}')
+            print(f'Unexpected error when grouping {meta["git_path"]}')
+            error_files[author].append(f'{meta["git_path"]}|{e}')
             traceback.print_exc()
     return by_title
 
@@ -269,8 +270,8 @@ def group_tv_content(author, content_meta):
                 entry['filters'] = meta['jsonfilters']
                 add_to_catalogue(entry, meta['git_path'], author)
         except Exception as e:
-            print(f'Unexpected exception when grouping {content_meta["git_path"]}')
-            error_files[author].append(f'{content_meta["git_path"]}|{e}')
+            print(f'Unexpected error when grouping {meta["git_path"]}')
+            error_files[author].append(f'{meta["git_path"]}|{e}')
             traceback.print_exc()
     return by_title
 
@@ -346,7 +347,7 @@ def generate_content_page(page_name, metas, content_md, index_entries, author, c
         else:
             generate_tv_content_page(page_name, metas, content_md, index_entries, author)
     except Exception as e:
-        print(f"Unexpected exception while processing {content_type} content file {author} -- {metas[0]['git_path']}")
+        print(f"Unexpected error while processing {content_type} content file {author} -- {metas[0]['git_path']}")
         raise e
 
 
