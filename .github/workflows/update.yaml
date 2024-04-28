@@ -36,7 +36,7 @@ jobs:
           virtualenvs-in-project: true
       - name: Load cached venv
         id: cached-poetry-dependencies
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: .venv
           key: venv-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('**/poetry.lock') }}
@@ -149,6 +149,13 @@ jobs:
           poetry run python beqcatalogue/__init__.py
           echo $GITHUB_SHA > docs/version.txt
       - name: Publish Catalogue
-        uses: stefanzweifel/git-auto-commit-action@v4
+        id: pub-cat
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Updated catalogue
+      - name: Update Issues
+        if: steps.pub-cat.outputs.changes_detected == 'true'
+        env:
+          COMMIT_SHA: ${{ steps.pub-cat.outputs.commit_hash }}
+        run: |
+          poetry run python beqcatalogue/issues.py
