@@ -156,6 +156,7 @@ jobs:
       - name: Update Issues
         if: steps.pub-cat.outputs.changes_detected == 'true'
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_SHA: ${{ steps.pub-cat.outputs.commit_hash }}
         run: |
           poetry run python beqcatalogue/issues.py
