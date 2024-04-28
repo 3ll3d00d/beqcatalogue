@@ -1,6 +1,6 @@
 # Madame Web
 
-## DD+ Atmos
+## TrueHD Atmos, DTS-HD MA 7.1, DD+ Atmos
 
 **2024 • PG-13 • 1h 56m • Action, Fantasy • kaelaria**
 
