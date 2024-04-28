@@ -7,7 +7,7 @@
 * DTS-HD MA 5.1
 
 
-**MV Adjustment:** +2.0 dB
+**MV Adjustment:** +3.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1442#post-63277208)
 
