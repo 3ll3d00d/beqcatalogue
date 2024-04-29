@@ -9,7 +9,7 @@ Less than 24 hours into his parole, charismatic thief Danny Ocean is already rol
 
 **MV Adjustment:** +5.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/161)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1443#post-63278706)  [TMDB](https://www.themoviedb.org/movie/161)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Oceans%20Eleven%20(2001)%20(%2B5.5%20gain)%20DTS-HD%20MA%205.1.jpg)
