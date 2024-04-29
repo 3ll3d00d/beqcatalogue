@@ -4,7 +4,7 @@
 
 ## Season 01
 
-* DD+ Atmos
+* DD+
 
 
 * Production Year: 2024
