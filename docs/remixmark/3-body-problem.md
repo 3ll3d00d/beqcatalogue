@@ -2,7 +2,7 @@
 
 * Author: remixmark
 
-## Season 1
+## Season 1 Episode 4
 
 * DD+ Atmos
 
@@ -21,6 +21,24 @@ Dialnorm Compensation: 4dB
 
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/3%20Body%20Problem%20(2024)%20s1e4%20(%2B4.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 1 Episode 8
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +8.5 dB
+
+Dialnorm Compensation: 5dB
+{ data-search-exclude }
+
+* Production Year: 2024
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/main/3%20Body%20Problem%20(2024)%20s1e8%20(%2B8.5%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/main/3%20Body%20Problem%20(2024)%20s1e8%20(%2B8.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
 ## Season 1 Episodes 1-2
 
