@@ -29,6 +29,8 @@ Dialnorm Compensation Episode 1: +4dB Episode 2: +5dB
 Dialnorm Compensation +5dB
 { data-search-exclude }
 
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1444#post-63285838)
+
 * Production Year: 2024
 
 
