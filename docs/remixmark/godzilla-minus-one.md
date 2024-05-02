@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2023 • PG-13 • 2h 5m • Science Fiction, Horror, Action • remixmark**
+**2023 • PG-13 • 2h 5m • Japanese • Science Fiction, Horror, Action • remixmark**
 
 Postwar Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.
 { data-search-exclude }
