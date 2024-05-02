@@ -2,7 +2,7 @@
 
 * Author: remixmark
 
-## Season 1 Episodes 1-2
+## Season 1E1,2
 
 * DD+ Atmos
 
