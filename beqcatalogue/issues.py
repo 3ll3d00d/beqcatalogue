@@ -62,7 +62,7 @@ if __name__ == '__main__':
         if m:
             issues_by_author[m.group(1)] = issue
     errors_by_author = {}
-    for errors_file_name in sorted(glob.glob(f"../meta/*.errors")):
+    for errors_file_name in sorted(glob.glob(f"meta/*.errors")):
         author = Path(errors_file_name).stem
         with open(errors_file_name, 'r') as errors_file:
             errors_by_author[author] = [l.strip() for l in errors_file.readlines() if l.strip()]
