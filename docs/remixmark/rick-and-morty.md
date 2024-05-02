@@ -16,7 +16,7 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Rick%20and%20Morty%20Season%201%20episodes%201%205%206%207%2010%2011%20(2013)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-## Season 1E2-4
+## Season 1E2,3,4
 
 * DTS-HD MA 5.1
 
@@ -44,7 +44,7 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Rick%20and%20Morty%20Season%201%20episodes%208%209%20(2013)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-## Season 2 Episode 1-10
+## Season 2
 
 * DTS-HD MA 5.1
 
