@@ -9,7 +9,7 @@ Postwar Japan is at its lowest point when a new crisis emerges in the form of a 
 
 **MV Adjustment:** -5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1444#post-63284658)  [TMDB](https://www.themoviedb.org/movie/940721)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1444?post_id=63284658#post-63284658)  [TMDB](https://www.themoviedb.org/movie/940721)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20Minus%20One%20(2023)%20(-5%20gain)%20Atmos.jpg)
