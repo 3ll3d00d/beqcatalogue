@@ -1,6 +1,6 @@
 # Madame Web
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG-13 • 1h 56m • Action, Fantasy • t1g8rsfan**
 
@@ -9,7 +9,7 @@ Forced to confront revelations about her past, paramedic Cassandra Webb forges a
 
 **MV Adjustment:** +2.0 dB
 
-+5dB Dialnorm Compensation​
++5dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63203834)  [TMDB](https://www.themoviedb.org/movie/634492)
