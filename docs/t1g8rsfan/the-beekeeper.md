@@ -1,6 +1,6 @@
 # The Beekeeper
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • R • 1h 45m • Action, Thriller, Drama • t1g8rsfan**
 
@@ -9,7 +9,7 @@ One man’s campaign for vengeance takes on national stakes after he is revealed
 
 **MV Adjustment:** +3.0 dB
 
-+4dB Dialnorm Compensation
++4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63117208)  [TMDB](https://www.themoviedb.org/movie/866398)
