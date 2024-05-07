@@ -12,7 +12,7 @@ Follow the mythic journey of Paul Atreides as he unites with Chani and the Freme
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1448?post_id=63296458#post-63296458)  [TMDB](https://www.themoviedb.org/movie/693134)
 { data-search-exclude }
 
-![img 0](https://image.tmdb.org/t/p/original/8U6ww9eHilD88wmU3CDF4ANmRmH.jpg)
+![img 0](https://raw.githubusercontent.com/remixmark/images/main/Dune%20Part%20Two%20(-7%20gain)%20Atmos.jpg)
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/main/Dune%20Part%20Two%20(-7%20gain)%20Atmos%20Peak%20Spectrum.jpg)
 
