@@ -1,6 +1,6 @@
 # Dune: Part Two
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG-13 • 2h 47m • Science Fiction, Adventure • t1g8rsfan**
 
@@ -9,7 +9,7 @@ Follow the mythic journey of Paul Atreides as he unites with Chani and the Freme
 
 **MV Adjustment:** -6.5 dB
 
-+10dB Dialnorm Compensation
++10dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63257774)  [TMDB](https://www.themoviedb.org/movie/693134)
