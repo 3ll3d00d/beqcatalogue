@@ -72,23 +72,6 @@
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Star%20Wars%20The%20Bad%20Batch%20S2E5%2C%209%2C%2011%20DD%2B.jpg)
 
-## Season 3E1, 4
-
-* DD+
-
-
-**MV Adjustment:** +2.0 dB
-
-+4dB Dialnorm Compensation
-{ data-search-exclude }
-
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63171879)
-
-* Production Year: 2024
-
-
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Star%20Wars%20The%20Bad%20Batch%20S3E1-4%20(%2B2%20gain)%20DD%2B.jpg)
-
 ## Season 3E2-3, 5-7
 
 * DD+
