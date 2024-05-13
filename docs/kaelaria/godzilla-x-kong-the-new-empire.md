@@ -1,8 +1,8 @@
 # Godzilla x Kong: The New Empire
 
-## DD+
+## DD+ Atmos
 
-**2024 • PG-13 • 1h 55m • Action, Science Fiction, Adventure • kaelaria**
+**2024 • PG-13 • 1h 55m • Science Fiction, Action, Adventure • kaelaria**
 
 Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.
 { data-search-exclude }
