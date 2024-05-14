@@ -1,6 +1,6 @@
 # Godzilla x Kong: The New Empire
 
-## Atmos
+## DD+ Atmos
 
 **2024 • PG-13 • 1h 55m • Science Fiction, Action, Adventure • t1g8rsfan**
 
