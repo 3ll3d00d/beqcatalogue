@@ -50,7 +50,7 @@ Following their explosive showdown, Godzilla and Kong must reunite against a col
 Dialnorm Compensation: +6dB
 { data-search-exclude }
 
-** iTunes; due to soundtrack variations between streamers, use this BEQ with iTunes. **
+** Bit rate: 768 kb/s **
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1458?post_id=63312362#post-63312362)  [TMDB](https://www.themoviedb.org/movie/823464)
