@@ -73,17 +73,17 @@ Dialnorm Compensation Episode 5: +6dB Episode 8: +5dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/3%20Body%20Problem%20(2024)%20s1e5%2C8%20(%2B2.0%20gain)%20DD%2B%20Atmos.jpg)
 
-## Season 1E7
+## Season S1E7
 
 * DD+ Atmos
 
 
 **MV Adjustment:** +8.5 dB
 
-Dialnorm Compensation: 5dB
+Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1444#post-63285906)
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1444?post_id=63285906#post-63285906)
 
 * Production Year: 2024
 
