@@ -12,7 +12,7 @@ Following their explosive showdown, Godzilla and Kong must reunite against a col
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/823464)
+[Discuss](https://www.avsforum.com/posts/63311986/)  [TMDB](https://www.themoviedb.org/movie/823464)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/G%20x%20K%20(2024)%20(-1.5%20gain)%20DD%2B%20Atmos.jpg)
