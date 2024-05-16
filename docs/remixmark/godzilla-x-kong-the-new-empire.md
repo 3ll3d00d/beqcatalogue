@@ -28,6 +28,9 @@ Following their explosive showdown, Godzilla and Kong must reunite against a col
 Dialnorm Compensation: +6dB
 { data-search-exclude }
 
+**Amazon**
+{ data-search-exclude }
+
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1455?post_id=63308004#post-63308004)  [TMDB](https://www.themoviedb.org/movie/823464)
 { data-search-exclude }
 
@@ -44,7 +47,10 @@ Following their explosive showdown, Godzilla and Kong must reunite against a col
 
 **MV Adjustment:** -1.5 dB
 
-iTunes Dialnorm Compensation: +6dB
+Dialnorm Compensation: +6dB
+{ data-search-exclude }
+
+**iTunes**
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1458?post_id=63312362#post-63312362)  [TMDB](https://www.themoviedb.org/movie/823464)
