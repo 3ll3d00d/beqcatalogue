@@ -2,7 +2,7 @@
 
 * Author: t1g8rsfan
 
-## Season 1
+## Season 1E1-4, 6-10
 
 * DD+ Atmos
 
