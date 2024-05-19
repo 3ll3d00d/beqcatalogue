@@ -72,6 +72,23 @@
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Star%20Wars%20The%20Bad%20Batch%20S2E5%2C%209%2C%2011%20DD%2B.jpg)
 
+## Season 3E1, 4, 11-13, 15
+
+* DD+
+
+
+**MV Adjustment:** +2.0 dB
+
++4dB Dialnorm Compensation
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/posts/63171879/)
+
+* Production Year: 2024
+
+
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Star%20Wars%20The%20Bad%20Batch%20S3E1%2C%204%2C%2011-13%2C%2015%20(%2B2%20gain)%20DD%2B.beq.jpg)
+
 ## Season 3E2-3, 5-10, 14
 
 * DD+
@@ -88,21 +105,4 @@
 
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Star%20Wars%20The%20Bad%20Batch%20S3E2-3%2C%205-10%2C%2014%20(%2B2%20gain)%20DD%2B.jpg)
-
-## Season S3E1, 4, 11-13, 15
-
-* DD+
-
-
-**MV Adjustment:** +2.0 dB
-
-+4dB Dialnorm Compensation
-{ data-search-exclude }
-
-* [Forum Post](https://www.avsforum.com/posts/63171879/)
-
-* Production Year: 2024
-
-
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Star%20Wars%20The%20Bad%20Batch%20S3E1%2C%204%2C%2011-13%2C%2015%20(%2B2%20gain)%20DD%2B.beq.jpg)
 
