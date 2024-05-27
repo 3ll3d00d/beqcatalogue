@@ -12,7 +12,7 @@ When a young American woman is sent to Rome to begin a life of service to the ch
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/437342)
+[Discuss](https://www.avsforum.com/posts/63333557/)  [TMDB](https://www.themoviedb.org/movie/437342)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20First%20Omen%20(2024)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)
