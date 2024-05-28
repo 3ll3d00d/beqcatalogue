@@ -1,6 +1,6 @@
 # Orphan
 
-## DD+
+## DTS-HD MA 5.1
 
 **2009 • R • 2h 2m • Horror, Thriller, Mystery • kaelaria**
 
