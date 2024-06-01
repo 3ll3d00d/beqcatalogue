@@ -1,6 +1,6 @@
-# Noryang: Deadly Sea
+# Noryang Deadly Sea
 
-## DD+
+## DD+, DTS-HD MA 5.1
 
 **2023 • 2h 33m • Action, History, Drama, War • kaelaria**
 
