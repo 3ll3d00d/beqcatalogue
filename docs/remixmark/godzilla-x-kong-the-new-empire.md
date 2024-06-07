@@ -7,14 +7,14 @@
 Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.
 { data-search-exclude }
 
-**MV Adjustment:** +1.5 dB
+**MV Adjustment:** -1.5 dB
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1469?post_id=63354864#post-63354864)  [TMDB](https://www.themoviedb.org/movie/823464)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20x%20Kong%20The%20New%20Empire%20(2024)%20(%2B1.5%20gain)%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20x%20Kong%20The%20New%20Empire%20(2024)%20(-1.5%20gain)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20x%20Kong%20The%20New%20Empire%20(2024)%20(%2B1.5%20gain)%20Atmos%20Peak%20Spectrum.jpg)
+![img 1](https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20x%20Kong%20The%20New%20Empire%20(2024)%20(-1.5%20gain)%20Atmos%20Peak%20Spectrum.jpg)
 
 ## DD+
 
