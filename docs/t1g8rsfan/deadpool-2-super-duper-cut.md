@@ -9,5 +9,5 @@
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Deadpool2%20SDC%20(2018)%20Atmos%20PvA.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Deadpool2%20SDC%20(2018)%20Atmos%20PvA.jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Deadpool2%20SDC%20(2018)%20Atmos.jpg)
 
