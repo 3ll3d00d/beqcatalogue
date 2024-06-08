@@ -2,7 +2,10 @@
 
 ## Atmos
 
-**2018 • R • 3h 34m • Action, Adventure, Comedy • t1g8rsfan**
+**2018 • R • 2h 14m • Action, Adventure, Comedy • t1g8rsfan**
+
+Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.
+{ data-search-exclude }
 
 [Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/1298356)
 { data-search-exclude }
