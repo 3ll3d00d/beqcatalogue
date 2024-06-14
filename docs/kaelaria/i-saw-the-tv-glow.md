@@ -1,6 +1,6 @@
 # I Saw the TV Glow
 
-## DD+
+## DD+ Atmos
 
 **2024 • PG-13 • 1h 40m • Drama, Horror • kaelaria**
 
