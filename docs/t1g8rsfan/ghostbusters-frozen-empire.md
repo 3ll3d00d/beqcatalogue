@@ -25,7 +25,7 @@ The Spengler family returns to where it all started – the iconic New York City
 
 **MV Adjustment:** +1.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/967847)
+[Discuss](https://www.avsforum.com/posts/63383190/)  [TMDB](https://www.themoviedb.org/movie/967847)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Ghostbusters%20FE%20(2024)%20(%2B1.5%20gain)%20DD%2B.jpg)
