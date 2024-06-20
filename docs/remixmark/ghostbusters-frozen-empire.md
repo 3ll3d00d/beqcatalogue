@@ -12,7 +12,7 @@ When the discovery of an ancient artifact unleashes an evil force, Ghostbusters 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1473?post_id=63382716#post-63382716)  [TMDB](https://www.themoviedb.org/movie/967847)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/main/Ghostbusters%20Frozen%20Empire%20(2024)%20(%2B1.5%20gain)%20DD%2B.jpg)
+![img 0](https://raw.githubusercontent.com/remixmark/images/main/Ghostbusters%20Frozen%20Empire%20(2024)%20(-1.5%20gain)%20Atmos.jpg)
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/main/Ghostbusters%20Frozen%20Empire%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
