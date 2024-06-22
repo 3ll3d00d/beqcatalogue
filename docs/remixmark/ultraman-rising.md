@@ -7,7 +7,10 @@
 With Tokyo under attack from kaiju, Ultraman discovers his greatest challenge isn’t fighting giant monsters - it’s raising one.
 { data-search-exclude }
 
-**MV Adjustment:** +3.0 dB
+**MV Adjustment:** +2.5 dB
+
+Dialnorm Compensation: 4dB
+{ data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1474?post_id=63385125#post-63385125)  [TMDB](https://www.themoviedb.org/movie/829402)
 { data-search-exclude }
