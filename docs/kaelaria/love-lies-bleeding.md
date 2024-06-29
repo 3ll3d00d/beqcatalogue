@@ -1,6 +1,6 @@
 # Love Lies Bleeding
 
-## DD+ Atmos
+## DD+ Atmos, Atmos
 
 **2024 • R • 1h 44m • Crime, Romance, Thriller • kaelaria**
 
