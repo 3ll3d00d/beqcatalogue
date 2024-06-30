@@ -34,7 +34,7 @@ While the Second World War rages, the teenage Mahito, haunted by his mother's tr
 
 ## DD+ Atmos
 
-**023 • PG-13 • 2h 4m • Japanese • Animation, Adventure, Fantasy • remixmark**
+**2023 • PG-13 • 2h 4m • Japanese • Animation, Adventure, Fantasy • remixmark**
 
 While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the "long-awaited one."
 { data-search-exclude }
