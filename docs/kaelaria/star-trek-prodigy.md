@@ -1,4 +1,4 @@
-# Star Trek: Prodigy
+# Star Trek Prodigy
 
 * Author: kaelaria
 
