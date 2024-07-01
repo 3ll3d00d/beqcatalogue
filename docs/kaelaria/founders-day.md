@@ -1,6 +1,6 @@
 # Founders Day
 
-## DD+
+## DD+, DTS-HD MA 5.1
 
 **2024 • R • 1h 47m • Horror, Thriller, Comedy • kaelaria**
 
