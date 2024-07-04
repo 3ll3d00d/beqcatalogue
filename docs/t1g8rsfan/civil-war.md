@@ -1,6 +1,6 @@
 # Civil War
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • R • 1h 49m • War, Action, Drama • t1g8rsfan**
 
@@ -9,7 +9,7 @@ In the near future, a group of war journalists attempt to survive while reportin
 
 **MV Adjustment:** +0.5 dB
 
-+5dB Dialnorm Compensation
++5dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/posts/63327634/)  [TMDB](https://www.themoviedb.org/movie/929590)
