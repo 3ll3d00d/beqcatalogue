@@ -1,6 +1,6 @@
 # Lisa Frankenstein
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG-13 • 1h 42m • Romance, Comedy, Horror • kaelaria**
 
