@@ -83,3 +83,20 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Boys%20-%20S04E05%20(2024)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## Season 4E6
+
+* DD+
+
+
+**MV Adjustment:** +2.5 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1478?post_id=63410771#post-63410771)
+
+* Production Year: 2019
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Boys%20(2019)%20(%2B2.5%20gain)%20S04E06%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Boys%20(2019)%20(%2B2.5%20gain)%20S04E06%20DD%2BPeak%20Spectrum.jpg)
+
