@@ -1,6 +1,6 @@
 # Damsel
 
-## DD+
+## DD+, DD+ Atmos
 
 **2024 • PG-13 • 1h 49m • Fantasy, Action, Adventure • kaelaria**
 
