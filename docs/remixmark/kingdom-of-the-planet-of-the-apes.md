@@ -9,7 +9,7 @@ Several generations following Caesar's reign, apes – now the dominant species 
 
 **MV Adjustment:** +2.5 dB
 
-dialnorm compensation: 11dB
+Dialnorm Compensation: 11dB
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1478?post_id=63415324#post-63415324)  [TMDB](https://www.themoviedb.org/movie/653346)
