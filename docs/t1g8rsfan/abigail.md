@@ -1,6 +1,6 @@
 # Abigail
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • R • 1h 49m • Horror, Thriller, Comedy • t1g8rsfan**
 
@@ -9,10 +9,10 @@ After a group of would-be criminals kidnap the 12 year old ballerina daughter of
 
 **MV Adjustment:** +1.5 dB
 
-+6dB Dialnorm Compensation
++6dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1111873)
+[Discuss](https://www.avsforum.com/posts/63419847/)  [TMDB](https://www.themoviedb.org/movie/1111873)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Abigail%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)
