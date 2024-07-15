@@ -1,6 +1,6 @@
 # The Fall Guy
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG-13 • 2h 6m • Action, Comedy • t1g8rsfan**
 
@@ -9,7 +9,7 @@ Fresh off an almost career-ending accident, stuntman Colt Seavers has to track d
 
 **MV Adjustment:** +1.5 dB
 
-+6dB Dialnorm Compensation
++6dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/posts/63322862/)  [TMDB](https://www.themoviedb.org/movie/746036)
