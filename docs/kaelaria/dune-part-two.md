@@ -1,6 +1,6 @@
 # Dune: Part Two
 
-## TrueHD Atmos, DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG-13 • 2h 47m • Science Fiction, Adventure • kaelaria**
 
