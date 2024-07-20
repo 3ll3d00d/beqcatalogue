@@ -14,5 +14,5 @@ The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is ad
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Goodfellas%20(1990)%20(%2B7%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/main/Goodfellas%20(1990)%20(%2B7%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpgv)
+![img 1](https://raw.githubusercontent.com/remixmark/images/main/Goodfellas%20(1990)%20(%2B7%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
 
