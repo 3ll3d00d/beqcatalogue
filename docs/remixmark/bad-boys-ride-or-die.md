@@ -1,0 +1,20 @@
+# Bad Boys: Ride or Die
+
+## DD+
+
+Dialnorm Compensation:8dB
+
+**2024 • R • 1h 55m • Action, Crime, Thriller, Comedy • remixmark**
+
+After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.
+{ data-search-exclude }
+
+**MV Adjustment:** +0.5 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1484?post_id=63440167#post-63440167)  [TMDB](https://www.themoviedb.org/movie/573435)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/main/Bad%20Boys%20Ride%20or%20Die%20(2024)%20(%2B.5%20gain)%20DD%2B.jpg)
+
+![img 1](https://raw.githubusercontent.com/remixmark/images/main/Bad%20Boys%20Ride%20or%20Die%20(2024)%20(%2B.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+
