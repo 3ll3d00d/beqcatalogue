@@ -2,6 +2,8 @@
 
 ## Atmos
 
+Extended Cut
+
 **2024 • PG-13 • 2h 6m • Action, Comedy • kaelaria**
 
 Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.
