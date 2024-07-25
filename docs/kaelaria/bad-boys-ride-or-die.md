@@ -1,6 +1,6 @@
 # Bad Boys: Ride or Die
 
-## DD+
+## DD+ Atmos
 
 **2024 • R • 1h 55m • Action, Crime, Thriller, Comedy • kaelaria**
 
