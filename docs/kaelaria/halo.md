@@ -4,7 +4,7 @@
 
 ## Season 02
 
-* DD+ Atmos
+* DD+ Atmos, Atmos
 
 
 * Production Year: 2022
