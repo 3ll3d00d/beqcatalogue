@@ -2,14 +2,15 @@
 
 ## DD+
 
-Dialnorm Compensation:8dB
-
 **2024 • R • 1h 55m • Action, Crime, Thriller, Comedy • remixmark**
 
 After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.
 { data-search-exclude }
 
 **MV Adjustment:** +0.5 dB
+
+Dialnorm Compensation: 8dB
+{ data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1484?post_id=63440167#post-63440167)  [TMDB](https://www.themoviedb.org/movie/573435)
 { data-search-exclude }
