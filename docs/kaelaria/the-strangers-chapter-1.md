@@ -1,6 +1,6 @@
 # The Strangers: Chapter 1
 
-## DD+ Atmos
+## DD+ Atmos, Atmos
 
 **2024 • R • 1h 31m • Horror, Thriller • kaelaria**
 
