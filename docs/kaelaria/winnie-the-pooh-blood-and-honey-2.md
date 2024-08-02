@@ -1,6 +1,6 @@
 # Winnie-the-Pooh: Blood and Honey 2
 
-## DD+
+## DD+, DTS-HD MA 5.1
 
 **2024 • 1h 33m • Horror, Thriller, Mystery, Comedy • kaelaria**
 
