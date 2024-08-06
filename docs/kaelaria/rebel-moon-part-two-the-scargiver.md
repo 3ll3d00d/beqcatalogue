@@ -2,6 +2,8 @@
 
 ## DD+ Atmos
 
+Theatrical
+
 **2024 • PG-13 • 2h 3m • Action, Science Fiction, Drama • kaelaria**
 
 The rebels gear up for battle against the Motherworld as unbreakable bonds are forged, heroes emerge — and legends are made.

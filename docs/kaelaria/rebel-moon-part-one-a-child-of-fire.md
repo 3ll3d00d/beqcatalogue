@@ -2,6 +2,8 @@
 
 ## DD+ Atmos
 
+Theatrical
+
 **2023 • PG-13 • 2h 14m • Action, Science Fiction, Fantasy • kaelaria**
 
 When a peaceful colony on the edge of the galaxy finds itself threatened by the armies of the tyrannical Regent Balisarius, they dispatch Kora, a young woman with a mysterious past, to seek out warriors from neighboring planets to help them take a stand.
