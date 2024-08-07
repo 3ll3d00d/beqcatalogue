@@ -1,4 +1,4 @@
-# house of the dragon
+# House of the Dragon
 
 * Author: t1g8rsfan
 
