@@ -1,6 +1,6 @@
 # Furiosa: A Mad Max Saga
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • R • 2h 29m • Action, Adventure, Science Fiction • t1g8rsfan**
 
@@ -9,7 +9,7 @@ As the world fell, young Furiosa is snatched from the Green Place of Many Mother
 
 **MV Adjustment:** -1.0 dB
 
-+4dB Dialnorm Compensation
++4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/posts/63390554/)  [TMDB](https://www.themoviedb.org/movie/786892)
