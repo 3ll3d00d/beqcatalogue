@@ -1,6 +1,6 @@
 # The Duel
 
-## DD+
+## DD+ Atmos
 
 **2024 • 1h 39m • Comedy, Drama • kaelaria**
 
