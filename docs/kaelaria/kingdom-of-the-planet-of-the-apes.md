@@ -1,6 +1,6 @@
 # Kingdom of the Planet of the Apes
 
-## DD+ Atmos
+## DD+ Atmos, Atmos
 
 **2024 • PG-13 • 2h 25m • Science Fiction, Adventure, Action • kaelaria**
 
