@@ -1,6 +1,6 @@
 # Kingdom of the Planet of the Apes
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG-13 • 2h 25m • Science Fiction, Adventure, Action • t1g8rsfan**
 
@@ -9,7 +9,7 @@ Several generations following Caesar's reign, apes – now the dominant species 
 
 **MV Adjustment:** +2.5 dB
 
-+11dB Dialnorm Compensation​
++11dB Dialnorm Compensation​ - DD+ Atmos (iTunes)
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/posts/63415894/)  [TMDB](https://www.themoviedb.org/movie/653346)
