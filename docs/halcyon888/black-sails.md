@@ -53,3 +53,18 @@
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Black%20Sails%20(2016)%20(S3)%20peak%20spectrum.png)
 
+## Season 4
+
+* DTS 5.1
+
+
+**MV Adjustment:** +1.5 dB
+
+* Production Year: 2014
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Black%20Sails%20(2017)%20(S4)%20PvA%20v3.png)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Black%20Sails%20(2017)%20(S4)%20peak%20spectrum%20v3.png)
+
