@@ -7,6 +7,9 @@
 Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love -- or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.
 { data-search-exclude }
 
+HR From 3D Blu-Ray
+{ data-search-exclude }
+
 [TMDB](https://www.themoviedb.org/movie/1865)
 { data-search-exclude }
 
