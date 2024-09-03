@@ -26,7 +26,7 @@
 
 **MV Adjustment:** +5.0 dB
 
-+3dB Dialnorm Compensation​
++4dB Dialnorm Compensation​
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/posts/63518742/)
