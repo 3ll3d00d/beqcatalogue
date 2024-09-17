@@ -2,6 +2,8 @@
 
 ## DD+ Atmos
 
+1080p
+
 **2024 • R • 2h 12m • Crime, Action, Thriller • remixmark**
 
 A former Marine confronts corruption in a small town when local law enforcement unjustly seizes the bag of cash he needs to post his cousin's bail.
