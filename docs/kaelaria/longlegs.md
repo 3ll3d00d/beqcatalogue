@@ -1,6 +1,6 @@
 # Longlegs
 
-## DD+
+## DD+, DTS-HD MA 5.1
 
 **2024 • R • 1h 41m • Crime, Horror, Thriller • kaelaria**
 
