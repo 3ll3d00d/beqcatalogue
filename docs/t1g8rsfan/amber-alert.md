@@ -9,9 +9,6 @@ An ordinary rideshare becomes a high-stakes game of cat and mouse when Jaq and S
 
 **MV Adjustment:** +7.0 dB
 
-+3dB Dialnorm Compensation
-{ data-search-exclude }
-
 [Discuss](https://www.avsforum.com/posts/63564259/)  [TMDB](https://www.themoviedb.org/movie/1248753)
 { data-search-exclude }
 
