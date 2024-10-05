@@ -9,6 +9,9 @@ Nothing is what it seems when a twisted one-night stand spirals into a serial ki
 
 **MV Adjustment:** +1.5 dB
 
+1080p version only
+{ data-search-exclude }
+
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1507?post_id=63569573#post-63569573)  [TMDB](https://www.themoviedb.org/movie/1029281)
 { data-search-exclude }
 
