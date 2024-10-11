@@ -1,6 +1,6 @@
 # Twisters
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG-13 • 2h 3m • Action, Adventure, Drama • kaelaria**
 
