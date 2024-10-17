@@ -1,6 +1,6 @@
 # Borderlands
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG-13 • 1h 40m • Action, Science Fiction, Comedy • t1g8rsfan**
 
@@ -9,7 +9,7 @@ Returning to her home planet, an infamous bounty hunter forms an unexpected alli
 
 **MV Adjustment:** +4.0 dB
 
-+4dB Dialnorm Compensation
++4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/posts/63513298/)  [TMDB](https://www.themoviedb.org/movie/365177)
