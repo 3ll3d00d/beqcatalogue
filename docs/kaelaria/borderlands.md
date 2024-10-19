@@ -1,6 +1,6 @@
 # Borderlands
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG-13 • 1h 40m • Action, Science Fiction, Comedy • kaelaria**
 

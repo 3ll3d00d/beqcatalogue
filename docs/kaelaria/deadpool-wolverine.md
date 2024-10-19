@@ -1,6 +1,6 @@
 # Deadpool & Wolverine
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • R • 2h 8m • Action, Comedy, Science Fiction • kaelaria**
 
