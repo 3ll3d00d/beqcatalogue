@@ -1,6 +1,6 @@
 # Deadpool & Wolverine
 
-## DD+ Atmos
+## DTS-HD MA 7.1, DD+ Atmos
 
 **2024 • R • 2h 8m • Action, Comedy, Science Fiction • t1g8rsfan**
 
@@ -9,7 +9,7 @@ A listless Wade Wilson toils away in civilian life with his days as the morally 
 
 **MV Adjustment:** +0.5 dB
 
-+4dB Dialnorm Compensation
++4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/posts/63569182/)  [TMDB](https://www.themoviedb.org/movie/533535)
