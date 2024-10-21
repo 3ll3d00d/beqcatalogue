@@ -1,6 +1,6 @@
 # Deadpool & Wolverine
 
-## DTS-HD MA 7.1, DD+ Atmos
+## Atmos, DTS-HD MA 7.1, DD+ Atmos
 
 **2024 • R • 2h 8m • Action, Comedy, Science Fiction • t1g8rsfan**
 
