@@ -2,14 +2,14 @@
 
 ## DTS-HD MA 5.1
 
-4K80
+Project 4K80
 
 **1980 • PG • 2h 4m • Adventure, Action, Science Fiction • kaelaria**
 
 The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.
 { data-search-exclude }
 
-Default 35mm Track
+'80 70mm 6-Track Reconstruction Track
 { data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/1891)
