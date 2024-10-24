@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-4k80
+Project%204k80
 
 **1980 • PG • 2h 4m • Adventure, Action, Science Fiction • remixmark**
 
@@ -19,7 +19,7 @@ DTS-HD MA 5.1 - '97 DTS Cinema Audio, '80/'97 Theatrical Reconstruction "DTS6-80
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Empire%20Strikes%20Back%20(1980)%20(-1.5%20gain)%204k80%20DTS-HD%20MA%205.1%20-%20'97%20DTS%20Cinema%20Audio.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Empire%20Strikes%20Back%20(1980)%20(-1.5%20gain)Project%204k80%20DTS-HD%20MA%205.1%20-%20'97%20DTS%20Cinema%20Audio%20Peak%20Spectrum.jpg)
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Empire%20Strikes%20Back%20(1980)%20(-1.5%20gain)%204k80%20DTS-HD%20MA%205.1%20-%20'97%20DTS%20Cinema%20Audio%20Peak%20Spectrum.jpg)
 
 ## DTS-HD MA 5.1
 
