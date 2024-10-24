@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-Project 4k80
+Project 4K80
 
 **1980 • PG • 2h 4m • Adventure, Action, Science Fiction • remixmark**
 
@@ -23,7 +23,7 @@ DTS-HD MA 5.1 - '97 DTS Cinema Audio, '80/'97 Theatrical Reconstruction "DTS6-80
 
 ## DTS-HD MA 5.1
 
-Project 4k80
+Project 4K80
 
 **1980 • PG • 2h 4m • Adventure, Action, Science Fiction • remixmark**
 
