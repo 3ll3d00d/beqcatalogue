@@ -1,6 +1,6 @@
 # The Zone of Interest
 
-## DD+ Atmos
+## DD+ Atmos, Atmos
 
 **2023 • PG-13 • 1h 45m • Drama, History, War • kaelaria**
 
