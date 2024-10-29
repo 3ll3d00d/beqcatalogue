@@ -1,6 +1,6 @@
 # Joker: Folie à Deux
 
-## DD+
+## DD+ Atmos
 
 **2024 • R • 2h 18m • Drama, Crime, Thriller • kaelaria**
 
