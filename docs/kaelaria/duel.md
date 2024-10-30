@@ -18,7 +18,7 @@ Traveling businessman David Mann angers the driver of a rusty tanker while cross
 
 1971
 
-**12 • PG • 1h 29m • Action, Thriller, TV Movie • kaelaria**
+**1971 • PG • 1h 29m • Action, Thriller, TV Movie • kaelaria**
 
 Traveling businessman David Mann angers the driver of a rusty tanker while crossing the California desert. A simple trip turns deadly, as Mann struggles to stay on the road while the tanker plays cat and mouse with his life.
 { data-search-exclude }
