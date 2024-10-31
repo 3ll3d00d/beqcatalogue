@@ -2,20 +2,20 @@
 
 * Author: remixmark
 
-## Season 01E01-04
+## Season 01E01-06,08
 
 * DD+
 
 
-**MV Adjustment:** +1.5 dB
+**MV Adjustment:** +2.0 dB
 
-Dialnorm Compensation: Episodes 1-4 7dB
+Dialnorm Compensation: 7dB
 { data-search-exclude }
 
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1517?post_id=63602542#post-63602542)
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1524?post_id=63623238#post-63623238)
 
 * Production Year: 2024
 
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Teacup%20-%20S01E01-04%20DD%2B.jpg)
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Teacup%20-%20S01E01-06%2C08%20(2024)%20DD%2B.jpg)
 
