@@ -14,5 +14,5 @@ Ella Blake, a stop-motion animator struggling to control her demons after the lo
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Stopmotion%20(2024)%20(%2B3.5%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Stopmotion%20(2024)%20(%2B3.5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpghttps://raw.githubusercontent.com/remixmark/images/refs/heads/main/Stopmotion%20(2024)%20(%2B3.5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpghttps://raw.githubusercontent.com/remixmark/images/refs/heads/main/Stopmotion%20(2024)%20(%2B3.5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Stopmotion%20(2024)%20(%2B3.5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
 
