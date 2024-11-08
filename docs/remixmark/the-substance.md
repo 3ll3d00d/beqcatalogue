@@ -1,5 +1,24 @@
 # The Substance
 
+## DD 5.1
+
+**2024 • R • 2h 21m • Drama, Horror, Science Fiction • remixmark**
+
+A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.
+{ data-search-exclude }
+
+**MV Adjustment:** +4.0 dB
+
+Dialnorm Compensation: 3dB
+{ data-search-exclude }
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1525?post_id=63637968#post-63637968)  [TMDB](https://www.themoviedb.org/movie/933260)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(%2B4%20gain)%20DD.jpg)
+
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(%2B4%20gain)%20DD%20Peak%20Spectrum.jpg)
+
 ## DD+
 
 **2024 • R • 2h 21m • Horror, Drama, Science Fiction • remixmark**
@@ -15,9 +34,9 @@ Audio bit rate: 640 kb/s
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1513?post_id=63591920#post-63591920)  [TMDB](https://www.themoviedb.org/movie/933260)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(-3.5%20gain)%20DD%2B.jpg)
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(-3.5%20gain)%20DD%2B.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(-3.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(-3.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
 ## DD+
 
@@ -36,7 +55,7 @@ Bitrate: 320kb/sec
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1523?post_id=63622461#post-63622461)  [TMDB](https://www.themoviedb.org/movie/933260)
 { data-search-exclude }
 
-![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(%2B3%20gain)%20DD%2B.jpg)
+![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(%2B3%20gain)%20DD%2B.jpg)
 
-![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(%2B3%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+![img 5](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(%2B3%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
