@@ -1,6 +1,6 @@
 # The Killer's Game
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • R • 1h 44m • Action, Comedy, Crime • kaelaria**
 
