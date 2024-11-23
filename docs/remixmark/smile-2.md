@@ -23,6 +23,9 @@ About to embark on a new world tour, global pop sensation Skye Riley begins expe
 About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.
 { data-search-exclude }
 
+Dialnorm Compensation: 5db
+{ data-search-exclude }
+
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1530?post_id=63661990#post-63661990)  [TMDB](https://www.themoviedb.org/movie/1100782)
 { data-search-exclude }
 
