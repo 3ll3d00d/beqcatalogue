@@ -2,6 +2,23 @@
 
 * Author: remixmark
 
+## Season 02
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +4.5 dB
+
+Dialnorm Compensation: E1-11db E2-4dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/atmos-mixes-9-1-6-channel-activity.3292223/page-96?post_id=63667991#post-63667991)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Silo%20-%20S02%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)
+
 ## Season 02E01
 
 * DD+
