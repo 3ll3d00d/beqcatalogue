@@ -12,7 +12,7 @@
 Dialnorm Compensation: E1-11db E2-4dB
 { data-search-exclude }
 
-* [Forum Post](https://www.avsforum.com/threads/atmos-mixes-9-1-6-channel-activity.3292223/page-96?post_id=63667991#post-63667991)
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1531?post_id=63668005#post-63668005)
 
 * Production Year: 2023
 
