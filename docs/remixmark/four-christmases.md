@@ -1,6 +1,6 @@
 # Four Christmases
 
-## DTS-HD MA 5.1
+## TrueHD 5.1
 
 **2008 • PG-13 • 1h 28m • Comedy, Romance, Drama • remixmark**
 
