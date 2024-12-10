@@ -2,7 +2,7 @@
 
 ## DD+ Atmos
 
-**2024 • PG-13 • 1h 49m • Science Fiction, Action, Adventure • remixmark**
+**2024 • PG-13 • 1h 49m • Action, Science Fiction, Adventure • remixmark**
 
 Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.
 { data-search-exclude }
