@@ -38,3 +38,19 @@ Nothing is what it seems when a twisted one-night stand spirals into a serial ki
 
 ![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Strange%20Darling%204k%20(2024)%20(%2B4%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+**2024 • R • 1h 37m • Crime, Horror, Thriller • remixmark**
+
+Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.
+{ data-search-exclude }
+
+**MV Adjustment:** +4.0 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63704247#post-63704247)  [TMDB](https://www.themoviedb.org/movie/1029281)
+{ data-search-exclude }
+
+![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Strange%20Darling%20(2024)%20(%2B4%20gain)%20DTS-HD%20MA%205.1.jpg)
+
+![img 5](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Strange%20Darling%20(2024)%20(%2B4%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
