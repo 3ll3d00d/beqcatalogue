@@ -2,12 +2,12 @@
 
 * Author: remixmark
 
-## Season 01E01,05-07,10,11
+## Season 01E01, 05-07, 10-11
 
 * DTS-HD MA 5.1
 
 
-**MV Adjustment:** +4.0 dB
+**MV Adjustment:** +3.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1442#post-63277208)
 
