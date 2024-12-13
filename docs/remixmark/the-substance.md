@@ -59,3 +59,19 @@ Bitrate: 320kb/sec
 
 ![img 5](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(%2B3%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+**2024 • R • 2h 21m • Horror, Science Fiction • remixmark**
+
+A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.
+{ data-search-exclude }
+
+**MV Adjustment:** +4.0 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63704870#post-63704870)  [TMDB](https://www.themoviedb.org/movie/933260)
+{ data-search-exclude }
+
+![img 6](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20DTS-HD%20MA%205.1.jpg)
+
+![img 7](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
