@@ -89,7 +89,7 @@
 
 ## Season 01E06
 
-* DD+ Atmos
+* DD+
 
 
 **MV Adjustment:** +4.0 dB
