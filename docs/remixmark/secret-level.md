@@ -54,3 +54,20 @@ Dialnorm Compensation: 5dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Secret%20Level%20-%20S01E09%20(2024)%20(%2B9%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 01E10-11
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +0.5 dB
+
+Dialnorm Compensation: E10: 5db E11: 2dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63717629#post-63717629)
+
+* Production Year: 2024
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Secret%20Level%20-%20S01E10-11%20(2024)%20(%2B.5%20gain)%20DD%2B%20Atmos.jpg)
+
