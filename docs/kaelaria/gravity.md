@@ -1,0 +1,16 @@
+# Gravity
+
+## Atmos
+
+**2013 • PG-13 • 1h 31m • Science Fiction, Thriller, Drama • kaelaria**
+
+Dr. Ryan Stone, a brilliant medical engineer on her first Shuttle mission, with veteran astronaut Matt Kowalsky in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The Shuttle is destroyed, leaving Stone and Kowalsky completely alone-tethered to nothing but each other and spiraling out into the blackness of space. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/49047)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Gravity%20(2013)%20TrueHD%20Atmos.jpg)
+
+![img 1](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Gravity%20(2013)%20TrueHD%20Atmoshm.jpg)
+
