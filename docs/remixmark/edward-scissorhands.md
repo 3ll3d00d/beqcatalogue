@@ -1,6 +1,6 @@
 # Edward Scissorhands
 
-## DTS-HD MA 5.1
+## DTS-HD MA 4.0
 
 **1990 • PG-13 • 1h 45m • Fantasy, Drama, Romance • remixmark**
 
