@@ -2,6 +2,21 @@
 
 * Author: remixmark
 
+* DD+
+
+
+**MV Adjustment:** +3.0 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1548?post_id=63756391#post-63756391)
+
+* Production Year: 2024
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Landman%20-%20S01E09%20(2024)%20(%2B3%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Landman%20-%20S01E09%20(2024)%20(%2B3%20gain)%20DD%2B.jpg)
+
 ## Season 01E01
 
 * DD+
