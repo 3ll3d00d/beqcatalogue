@@ -1,6 +1,6 @@
 # Venom: The Last Dance
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG-13 • 1h 49m • Science Fiction, Action, Adventure • kaelaria**
 
