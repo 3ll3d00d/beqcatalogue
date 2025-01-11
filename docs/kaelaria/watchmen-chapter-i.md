@@ -1,6 +1,6 @@
 # Watchmen: Chapter I
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
 **2024 • R • 1h 24m • Animation, Drama, Science Fiction • kaelaria**
 
