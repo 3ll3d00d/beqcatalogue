@@ -142,3 +142,23 @@ Dialnorm Compensation: 4dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Star%20Wars%20-%20Skeleton%20Crew%20-%20S01E07%20(2024)%20(%2B4%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 01E08
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +2.0 dB
+
+Dialnorm Compensation: 4dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1552?post_id=63785653#post-63785653)
+
+* Production Year: 2024
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Star%20Wars%20-%20Skeleton%20Crew%20-%20S01E08%20(2024)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Star%20Wars%20-%20Skeleton%20Crew%20-%20S01E08%20(2024)%20(%2B2%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
