@@ -2,17 +2,17 @@
 
 * Author: remixmark
 
-## Season 02E01-09
+## Season 02E1-10
 
 * DD+ Atmos
 
 
 **MV Adjustment:** +5.0 dB
 
-Dialnorm Compensation: E1:11dB E2-4,E7:4dB E5,8-9:3dB E6:5dB
+Dialnorm Compensation: E1:11dB E2-4,E7:4dB E5,8-9:3dB E6,10:5dB
 { data-search-exclude }
 
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1549?post_id=63771112#post-63771112)
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1552?post_id=63785405#post-63785405)
 
 * Production Year: 2023
 
