@@ -1,6 +1,6 @@
 # Smile 2
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • R • 2h 7m • Horror, Mystery • kaelaria**
 
