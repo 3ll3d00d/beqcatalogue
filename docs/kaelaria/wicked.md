@@ -1,6 +1,6 @@
 # Wicked
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG • 2h 42m • Drama, Romance, Fantasy • kaelaria**
 
