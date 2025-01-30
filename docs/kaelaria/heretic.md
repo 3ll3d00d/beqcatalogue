@@ -1,6 +1,6 @@
 # Heretic
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • R • 1h 51m • Horror, Thriller • kaelaria**
 
