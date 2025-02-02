@@ -42,3 +42,23 @@ Dialnorm Compensation: 2dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Severance%20-%20S02E02%20(2022)%20(%2B4.85%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 2E03
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +4.5 dB
+
+Dialnorm Compensation: 4dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1556?post_id=63818840#post-63818840)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Severance%20-%20S02E03%20(2022)%20(%2B4.5%20gain)%20DD%2B%20Atmo.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Severance%20-%20S02E03%20(2022)%20(%2B4.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
