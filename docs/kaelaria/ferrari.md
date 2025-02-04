@@ -1,6 +1,6 @@
 # Ferrari
 
-## DD+ Atmos, Atmos
+## Atmos, DD+ Atmos, DTS-HD MA 5.1
 
 **2023 • R • 2h 11m • Drama, History • kaelaria**
 
