@@ -1,6 +1,6 @@
 # Imaginary
 
-## DD+ Atmos, DTS-HD MA 5.1
+## Atmos, DD+ Atmos, DTS-HD MA 5.1
 
 **2024 • PG-13 • 1h 44m • Horror, Mystery, Thriller • kaelaria**
 
