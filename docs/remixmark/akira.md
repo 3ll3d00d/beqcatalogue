@@ -16,7 +16,7 @@ A secret military project endangers Neo-Tokyo when it turns a biker gang member 
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Akira%20(1988)%20(%2B2%20gain)%20Atmos%20JA%20Peak%20Spectrum.jpg)
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, TrueHD 5.1
 
 **1998 • R • 2h 4m • Animation, Science Fiction, Action • remixmark**
 
