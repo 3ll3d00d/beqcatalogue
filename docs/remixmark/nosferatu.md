@@ -1,5 +1,23 @@
 # Nosferatu
 
+## Atmos
+
+Extended
+
+**2024 • R • 2h 13m • Horror, Fantasy • remixmark**
+
+A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.
+{ data-search-exclude }
+
+**MV Adjustment:** +1.5 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1559?post_id=63838731#post-63838731)  [TMDB](https://www.themoviedb.org/movie/426063)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nosferatu%20(2024)%20(%2B1.5%20gain)%20extended%20Atmos.png)
+
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nosferatu%20(2024)%20(%2B1.5%20gain)%20extended%20Atmos%20Peak%20Spectrum.png)
+
 ## DD+ Atmos
 
 **2024 • R • 2h 13m • Drama, Fantasy, Horror • remixmark**
@@ -15,7 +33,7 @@ Dialnorm Compensation: 6dB
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1553?post_id=63794061#post-63794061)  [TMDB](https://www.themoviedb.org/movie/426063)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nosferatu%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nosferatu%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nosferatu%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nosferatu%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
