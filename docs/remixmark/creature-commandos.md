@@ -2,14 +2,14 @@
 
 * Author: remixmark
 
-## Season 01E01-06
+## Season 01E01-07
 
 * DD+
 
 
 **MV Adjustment:** +5.0 dB
 
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1548?post_id=63759673#post-63759673)
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63841669#post-63841669)
 
 * Production Year: 2024
 
