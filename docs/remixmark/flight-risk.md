@@ -12,9 +12,9 @@ A U.S. Marshal escorts a government witness to trial after he's accused of getti
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63841534#post-63841534)  [TMDB](https://www.themoviedb.org/movie/1126166)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Flight%20Risk%20(2025)%20(%2B3.5%20gain)%20DD%2B.jpg)
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Flight%20Risk%20(2025)%20(%2B4.5%20gain)%20DD%2B.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Flight%20Risk%20(2025)%20(%2B3.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Flight%20Risk%20(2025)%20(%2B4.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
 ## DD+ Atmos
 
