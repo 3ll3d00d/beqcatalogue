@@ -1,6 +1,6 @@
 # Megalopolis
 
-## DD+
+## DD+, DTS-HD MA 5.1
 
 **2024 • R • 2h 18m • Science Fiction, Drama • kaelaria**
 
