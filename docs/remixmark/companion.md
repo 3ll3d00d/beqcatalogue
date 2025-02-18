@@ -1,6 +1,6 @@
 # Companion
 
-## DD+ Atmos
+## DD+ Atmos, DD+
 
 **2025 • R • 1h 37m • Horror, Science Fiction, Thriller • remixmark**
 
@@ -9,7 +9,7 @@ During a weekend getaway at a secluded lakeside estate, a group of friends finds
 
 **MV Adjustment:** +6.0 dB
 
-Dialnorm Compensation: 3dB
+DD+ Atmos Only Dialnorm Compensation: 3dB. No main volume adjustment for DD+.
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1561?post_id=63848512#post-63848512)  [TMDB](https://www.themoviedb.org/movie/1084199)
