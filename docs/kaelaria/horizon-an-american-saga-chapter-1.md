@@ -1,6 +1,6 @@
 # Horizon: An American Saga - Chapter 1
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • R • 3h 1m • Western, Drama • kaelaria**
 
