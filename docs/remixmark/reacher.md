@@ -1,19 +1,21 @@
 # Reacher
 
-## DD+ Atmos
+* Author: remixmark
 
-**2022 • TV-MA • Action & Adventure, Crime, Drama • remixmark**
+## Season 03E01-04
 
-Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.
-{ data-search-exclude }
+* DD+ Atmos
+
 
 **MV Adjustment:** +5.5 dB
 
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1562?post_id=63856220#post-63856220)  [TMDB](https://www.themoviedb.org/movie/108978)
-{ data-search-exclude }
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1564?post_id=63864022#post-63864022)
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Reacher%20-%20S03E01%20(2022)%20(%2B5.5%20gain)%20DD%2B%20Atmos.jpg)
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Reacher%20-%20S03%20(%2B5.5%20gain)%20DD%2B%20Atmos.jpg)
 
