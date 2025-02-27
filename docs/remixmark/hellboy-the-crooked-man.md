@@ -19,3 +19,19 @@ Dialnorm Compensation: 11dB
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Hellboy%20The%20Crooked%20Man%20(2024)%20(-1%20gain)%20DD%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+**2024 • R • 1h 40m • Fantasy, Horror, Action • remixmark**
+
+Hellboy and a rookie BPRD agent get stranded in 1950s rural Appalachia. There, they discover a small community haunted by witches, led by a local devil with a troubling connection to Hellboy's past: the Crooked Man.
+{ data-search-exclude }
+
+**MV Adjustment:** -1.0 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1563?post_id=63863248#post-63863248)  [TMDB](https://www.themoviedb.org/movie/1087822)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Hellboy%20The%20Crooked%20Man%20(2024)%20(-1%20gain)%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Hellboy%20The%20Crooked%20Man%20(2024)%20(-1%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
