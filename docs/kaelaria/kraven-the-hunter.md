@@ -1,6 +1,6 @@
 # Kraven the Hunter
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • R • 2h 7m • Action, Adventure, Thriller • kaelaria**
 
