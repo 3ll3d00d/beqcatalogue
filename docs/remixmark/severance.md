@@ -82,7 +82,7 @@ Dialnorm Compensation: 6dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Severance%20-%20S02E04%20(2022)%20(%2B6%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
-## Season 2E05
+## Season 02E05
 
 * DD+ Atmos
 
@@ -102,7 +102,7 @@ Dialnorm Compensation: 3dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Severance%20-%20S02E05%20(2022)%20(%2B6.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
-## Season 2E06
+## Season 02E06
 
 * DD+ Atmos
 
