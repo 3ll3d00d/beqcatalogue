@@ -1,6 +1,6 @@
 # Hellboy: The Crooked Man
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
 **2024 • R • 1h 40m • Horror, Action, Adventure • kaelaria**
 
