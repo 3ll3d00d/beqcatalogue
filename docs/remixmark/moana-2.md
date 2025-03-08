@@ -28,6 +28,9 @@ After receiving an unexpected call from her wayfinding ancestors, Moana journeys
 
 **MV Adjustment:** +3.0 dB
 
+Dialnorm Compensation: 4dB
+{ data-search-exclude }
+
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1566?post_id=63880947#post-63880947)  [TMDB](https://www.themoviedb.org/movie/1241982)
 { data-search-exclude }
 
