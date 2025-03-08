@@ -9,7 +9,7 @@
 
 **MV Adjustment:** +4.0 dB
 
-Dialnorm Compensation: E01-04 & 05-10 5dB E05 6dB. Episode 5 is DD+, all others are DD+ Atmos
+Dialnorm Compensation: E01-04 & 05-10 5dB E05 6dB.
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1565?post_id=63880045#post-63880045)
