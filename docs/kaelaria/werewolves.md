@@ -7,7 +7,7 @@
 A year after a supermoon’s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/970450-)
+[TMDB](https://www.themoviedb.org/movie/970450)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Werewolves%20(2024)%20%20DTS-HD%20MA%205.1.jpg)
