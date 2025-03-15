@@ -683,21 +683,23 @@ def detect_duplicate_hashes():
 def load_times(author: str) -> dict[str, tuple[int, int]]:
     times = {}
     from csv import reader
-    with open(f"meta/{author}.times.csv") as f:
-        for row in reader(f):
-            times[row[0]] = (int(row[1]), int(row[2]))
+    if os.path.isfile(f"meta/{author}.times.csv"):
+        with open(f"meta/{author}.times.csv") as f:
+            for row in reader(f):
+                times[row[0]] = (int(row[1]), int(row[2]))
     return apply_times_diff(times, author)
 
 
 def apply_times_diff(times: dict[str, tuple[int, int]], author: str) -> dict[str, tuple[int, int]]:
     from csv import reader
-    with open(f"meta/{author}.diff") as f:
-        for row in reader(f):
-            if row[0] in times:
-                old = times[row[0]]
-                times[row[0]] = (old[0], int(row[1]))
-            else:
-                times[row[0]] = (int(row[1]), int(row[1]))
+    if os.path.isfile(f"meta/{author}.diff"):
+        with open(f"meta/{author}.diff") as f:
+            for row in reader(f):
+                if row[0] in times:
+                    old = times[row[0]]
+                    times[row[0]] = (old[0], int(row[1]))
+                else:
+                    times[row[0]] = (int(row[1]), int(row[1]))
     with open(f"meta/{author}.times.csv", mode="w") as f:
         from csv import writer
         w = writer(f)
@@ -730,7 +732,7 @@ def dump_excess_files(pages_touched: list[str]):
 
 
 if __name__ == '__main__':
-    all_authors = ['aron7awol', 'mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria', 'remixmark']
+    all_authors = ['aron7awol', 'mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria', 'remixmark', 'mikejl']
     times = {a: load_times(a) for a in all_authors}
     error_files = {a: [] for a in all_authors}
     film_data = {}
@@ -790,6 +792,15 @@ if __name__ == '__main__':
         print(f"Failed to extract for remixmark")
         traceback.print_exc()
 
+    try:
+        film_data['mikejl'] = extract_from_repo('.input/mikejl/xml/', 'Movies', 'film', 'mikejl')
+        print(f"Extracted {len(film_data['mikejl'])} mikejl film catalogue entries")
+        tv_data['mikejl'] = extract_from_repo('.input/mikejl/xml/', 'TV', 'TV', 'mikejl')
+        print(f"Extracted {len(tv_data['mikejl'])} mikejl TV catalogue entries")
+    except:
+        print(f"Failed to extract for mikejl")
+        traceback.print_exc()
+
     json_catalogue: list[dict] = []
     pages_touched: list[str] = []
 
@@ -812,7 +823,7 @@ if __name__ == '__main__':
             for i in sorted(index_entries, key=str.casefold):
                 print(i, file=index_md)
 
-        for author in ['mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria', 'remixmark']:
+        for author in ['mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria', 'remixmark', 'mikejl']:
             index_entries = []
             page_titles = process_content_from_repo(author, film_data[author], index_entries, 'film', pages_touched)
             if author in tv_data:
