@@ -1,17 +1,19 @@
-[tool.poetry]
+[project]
 name = "beqcatalogue"
 version = "0.0.1"
-description = "A website for browsin the beqcatalogue"
-authors = ["3ll3d00d <mattkhan+ezbeq@gmail.com>"]
+description = "A website for browsing the beqcatalogue"
+authors = [
+    { name = "3ll3d00d", email = "mattkhan+beqc@gmail.com" }
+]
 license = "MIT"
 readme = "README.md"
 homepage = "https://beqcatalogue.readthedocs.io/"
 repository = "https://github.com/3ll3d00d/beqcatalogue"
-
-[tool.poetry.dependencies]
-python = "^3.12"
-jinja2 = ">=2.11.3"
-githubkit = "*"
+requires-python = ">=3.13, <3.14"
+dependencies = [
+    "jinja2 >= 2.11.3",
+    "githubkit"
+]
 
 [tool.poetry.group.dev.dependencies]
 mkdocs = "*"
