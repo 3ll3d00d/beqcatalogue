@@ -10,7 +10,7 @@ Researchers on the undersea lab Aquatica have genetically altered the brains of 
 [TMDB](https://www.themoviedb.org/movie/8914)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/c38155f98594596aced37a48652f033ce476ec9f/D/Deep%20Blue%20Sea%20(1999)%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Deep%20Blue%20Sea/Deep%20Blue%20Sea%20(1999)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/c38155f98594596aced37a48652f033ce476ec9f/D/Deep%20Blue%20Sea%20(1999)%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Deep%20Blue%20Sea/Deep%20Blue%20Sea%20(1999)%20Atmoshm.jpg)
 
