@@ -2,7 +2,7 @@
 
 * Author: mikejl
 
-## Season Season 01
+## Season 01
 
 * DD+
 
