@@ -10,7 +10,7 @@ For centuries and across cultures, parents have warned their children of the leg
 [TMDB](https://www.themoviedb.org/movie/978796)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Bagman%20(2024)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Bagman/Bagman%20(2024)%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Bagman%20(2024)%20DD%2B%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Bagman/Bagman%20(2024)%20DD%2B%20Atmoshm.jpg)
 
