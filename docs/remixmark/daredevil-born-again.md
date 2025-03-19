@@ -2,7 +2,7 @@
 
 * Author: remixmark
 
-## Season 01E01-02
+## Season 01E01-02, 04
 
 * DD+ Atmos
 
@@ -12,7 +12,7 @@
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1566?post_id=63881332#post-63881332)
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1570?post_id=63900770#post-63900770)
 
 * Production Year: 2025
 
