@@ -2,7 +2,7 @@
 
 ## DD+
 
-**2025 • 1h 56m • Thriller • mikejl**
+**2024 • 1h 56m • Thriller • mikejl**
 
 A strange disease kills off some of the richest and most influential people on the planet. First it was the billionaires, then the multi-millionaires and so on progressively... Then it threatens to strike anyone with any sort of fortune. With the whole world panicking, people try to flood the market with assets the world no longer wants.
 { data-search-exclude }
