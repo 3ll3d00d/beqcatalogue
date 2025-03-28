@@ -12,7 +12,7 @@ A gothic tale of obsession between a haunted young woman and the terrifying vamp
 [TMDB](https://www.themoviedb.org/movie/426063)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nosferatu%20(2024)%20(EX)%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nosferatu/Nosferatu%20(2024)%20(EX)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nosferatu%20(2024)%20(EX)%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nosferatu/Nosferatu%20(2024)%20(EX)%20Atmoshm.jpg)
 
