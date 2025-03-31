@@ -7,9 +7,6 @@
 By day, they're invisible—valets, hostesses, and bartenders at a luxury hotel. By night, they're the Carjackers, a crew of skilled drivers who track and rob wealthy clients on the road. As they plan their ultimate heist, the hotel director hires a ruthless hitman, to stop them at all costs. With danger closing in, can Nora, Zoe, Steve, and Prestance pull off their biggest score yet?
 { data-search-exclude }
 
-FR
-{ data-search-exclude }
-
 [TMDB](https://www.themoviedb.org/movie/1229730)
 { data-search-exclude }
 
