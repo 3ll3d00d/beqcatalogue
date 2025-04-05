@@ -158,8 +158,8 @@ jobs:
           git diff --name-only -z ${M_SHA}..HEAD -- *BEQ*  | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
           git rev-parse HEAD > d.sha
           popd
-          mv .input/mikejl/xml/d.diff meta/remixmark.diff
-          mv .input/mikejl/xml/d.sha meta/remixmark.sha
+          mv .input/mikejl/xml/d.diff meta/mikejl.diff
+          mv .input/mikejl/xml/d.sha meta/mikejl.sha
       - name: Update Catalogue
         run: |
           poetry run python beqcatalogue/__init__.py
