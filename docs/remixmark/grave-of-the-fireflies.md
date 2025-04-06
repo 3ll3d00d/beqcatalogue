@@ -1,6 +1,6 @@
 # Grave of the Fireflies
 
-## DTS-HD MA 5.1
+## DTS-HD MA 2.0
 
 **1988 • NR • 1h 29m • Japanese • Animation, Drama, War • remixmark**
 
