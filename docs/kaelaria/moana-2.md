@@ -1,6 +1,6 @@
 # Moana 2
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG • 1h 40m • Animation, Adventure, Family, Comedy, Mystery • kaelaria**
 
