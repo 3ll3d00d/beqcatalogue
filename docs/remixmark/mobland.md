@@ -19,7 +19,7 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20-%20S01E01%20(2025)%20(%2B2.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
-## Season 02E02
+## Season 01E02
 
 * DD+
 
