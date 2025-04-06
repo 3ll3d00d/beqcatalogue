@@ -7,6 +7,7 @@ search:
 
 | Title | Type | Year | Format | Multiformat? | Links |
 |-|-|-|-|-|-|
+| [300](./mikejl/300.md) | film | 2006 | Atmos | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=300&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/1271) [rottentoms](https://www.rottentomatoes.com/search?search=300) |
 | [8-Bit Christmas](./mikejl/8-bit-christmas.md) | film | 2021 | DD+ Atmos | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=8-Bit%20Christmas&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/802217) [rottentoms](https://www.rottentomatoes.com/search?search=8-Bit%20Christmas) |
 | [A Nightmare on Elm Street](./mikejl/a-nightmare-on-elm-street.md) | film | 1984 | DD+ Atmos | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=A%20Nightmare%20on%20Elm%20Street&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/377) [rottentoms](https://www.rottentomatoes.com/search?search=A%20Nightmare%20on%20Elm%20Street) |
 | [Abigail](./mikejl/abigail.md) | film | 2024 | DD+ Atmos | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=Abigail&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/1111873) [rottentoms](https://www.rottentomatoes.com/search?search=Abigail) |
