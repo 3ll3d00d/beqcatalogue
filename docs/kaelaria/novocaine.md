@@ -1,6 +1,6 @@
 # Novocaine
 
-## DD+
+## DD+ Atmos
 
 **2025 • R • 1h 49m • Action, Comedy, Thriller • kaelaria**
 
