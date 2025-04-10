@@ -1,5 +1,21 @@
 # Sonic the Hedgehog 3
 
+## Atmos
+
+**2024 • PG • 1h 50m • Action, Science Fiction, Comedy, Family, Adventure, Fantasy • remixmark**
+
+Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.
+{ data-search-exclude }
+
+**MV Adjustment:** +2.5 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63940929#post-63940929)  [TMDB](https://www.themoviedb.org/movie/939243)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sonic%20the%20Hedgehog%203%20(2024)%20(%2B2.5%20gain)%20Atmos.jpg)
+
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sonic%20the%20Hedgehog%203%20(2024)%20(%2B2.5%20gain)%20Atmos%20Peak%20Spectrum.jpg)
+
 ## DD+ Atmos
 
 **2024 • PG • 1h 50m • Action, Science Fiction, Comedy, Family • remixmark**
@@ -15,7 +31,7 @@ Dialnorm Compensation: 6dB
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1553?post_id=63794027#post-63794027)  [TMDB](https://www.themoviedb.org/movie/939243)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sonic%20the%20Hedgehog%203%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sonic%20the%20Hedgehog%203%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sonic%20the%20Hedgehog%203%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sonic%20the%20Hedgehog%203%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
