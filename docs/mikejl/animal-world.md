@@ -2,7 +2,7 @@
 
 ## DD+
 
-**2018 • R • 2h 5m • Korean • Drama, Action, Adventure, Thriller • mikejl**
+**2018 • R • 2h 5m • Mandarin • Drama, Action, Adventure, Thriller • mikejl**
 
 Backed into a corner by mounting debts, a youth agrees to submit himself to a high stakes game of chance in international waters aboard a disused warship.
 { data-search-exclude }
