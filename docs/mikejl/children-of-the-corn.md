@@ -7,9 +7,6 @@
 A psychopathic twelve-year-old girl in a small town in Nebraska recruits all the other children and goes on a bloody rampage, killing the corrupt adults and anyone else who opposes her. A bright high schooler who won't go along with the plan is the town's only hope of survival.
 { data-search-exclude }
 
-As received - No filters needed
-{ data-search-exclude }
-
 [TMDB](https://www.themoviedb.org/movie/701121)
 { data-search-exclude }
 
