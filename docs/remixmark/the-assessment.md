@@ -14,5 +14,5 @@ In a climate change-ravaged world, a utopian society optimizes life, including p
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Assessment%20(2025)%20(%2B3%20gain)%20DD%2B.jpg)
 
-![img 1](https://github.com/remixmark/images/blob/main/The%20Assessment%20(2025)%20(%2B3%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Assessment%20(2025)%20(%2B3%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
