@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2023 • PG-13 • 2h 4m • Science Fiction, Horror, Action • mikejl**
+**2023 • PG-13 • 2h 4m • Japanese • Science Fiction, Horror, Action • mikejl**
 
 In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.
 { data-search-exclude }
