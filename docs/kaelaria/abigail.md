@@ -1,6 +1,6 @@
 # Abigail
 
-## DD+ Atmos
+## TrueHD Atmos, DD+ Atmos
 
 **2024 • R • 1h 49m • Horror, Thriller, Comedy • kaelaria**
 
