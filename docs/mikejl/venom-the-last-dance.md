@@ -10,7 +10,7 @@ Eddie and Venom are on the run. Hunted by both of their worlds and with the net 
 [TMDB](https://www.themoviedb.org/movie/912649)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Venom%20The%20Last%20Dance%20(2024)%20HDR%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Venom%20-%20The%20Last%20Dance/Venom%20The%20Last%20Dance%20(2024)%20HDR%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Venom%20The%20Last%20Dance%20(2024)%20HDR%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Venom%20-%20The%20Last%20Dance/Venom%20The%20Last%20Dance%20(2024)%20HDR%20Atmoshm.jpg)
 

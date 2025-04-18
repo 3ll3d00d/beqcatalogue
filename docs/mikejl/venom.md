@@ -10,7 +10,7 @@ Investigative journalist Eddie Brock attempts a comeback following a scandal, bu
 [TMDB](https://www.themoviedb.org/movie/335983)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Venom%20(2018)%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Venom/Venom%20(2018)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Venom%20(2018)%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Venom/Venom%20(2018)%20Atmoshm.jpg)
 
