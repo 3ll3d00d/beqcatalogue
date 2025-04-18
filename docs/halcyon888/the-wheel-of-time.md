@@ -62,3 +62,33 @@ Dialnorm Compensation: E8 +6dB
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Wheel%20of%20Time%20S2E8%20peak%20spectrum.png)
 
+## Season 3 Episodes 1-7
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +4.0 dB
+
+* Production Year: 2021
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/The%20Wheel%20of%20Time%20(2025)%20S03E01-E07%20DD%2B%20Atmos%20PvA.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/The%20Wheel%20of%20Time%20(2025)%20S03E01-E07%20DD%2B%20Atmos%20peak%20spectrum.png)
+
+## Season 3 Episode 8
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +2.0 dB
+
+* Production Year: 2021
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/The%20Wheel%20of%20Time%20(2025)%20S03E08%20DD%2B%20Atmos%20PvA.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/The%20Wheel%20of%20Time%20(2025)%20S03E08%20DD%2B%20Atmos%20peak%20spectrum.png)
+
