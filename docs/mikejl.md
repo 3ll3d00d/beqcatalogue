@@ -7,6 +7,7 @@ search:
 
 | Title | Type | Year | Format | Multiformat? | Links |
 |-|-|-|-|-|-|
+| [3 Body Problem S01](./mikejl/3-body-problem.md#season-01) | TV | 2024 | DD+ Atmos | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=3%20Body%20Problem%20S01&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/tv/108545) [rottentoms](https://www.rottentomatoes.com/search?search=3%20Body%20Problem%20S01) |
 | [300](./mikejl/300.md) | film | 2006 | Atmos | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=300&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/1271) [rottentoms](https://www.rottentomatoes.com/search?search=300) |
 | [57 Seconds](./mikejl/57-seconds.md) | film | 2023 | DD+ | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=57%20Seconds&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/937249) [rottentoms](https://www.rottentomatoes.com/search?search=57%20Seconds) |
 | [8-Bit Christmas](./mikejl/8-bit-christmas.md) | film | 2021 | DD+ Atmos | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=8-Bit%20Christmas&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/802217) [rottentoms](https://www.rottentomatoes.com/search?search=8-Bit%20Christmas) |
