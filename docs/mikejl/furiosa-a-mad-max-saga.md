@@ -10,7 +10,7 @@ As the world falls, young Furiosa is snatched from the Green Place of Many Mothe
 [TMDB](https://www.themoviedb.org/movie/786892)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Furiosa%20-%20A%20Mad%20Max%20Saga%20(2024)/Furiosa%20-%20A%20Mad%20Max%20Saga%20(2024)%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Furiosa%20-%20A%20Mad%20Max%20Saga/Furiosa%20-%20A%20Mad%20Max%20Saga%20(2024)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Furiosa%20-%20A%20Mad%20Max%20Saga%20(2024)/Furiosa%20-%20A%20Mad%20Max%20Saga%20(2024)%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Furiosa%20-%20A%20Mad%20Max%20Saga/Furiosa%20-%20A%20Mad%20Max%20Saga%20(2024)%20Atmoshm.jpg)
 
