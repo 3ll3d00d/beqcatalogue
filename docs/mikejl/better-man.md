@@ -10,7 +10,7 @@ Follow Robbie Williams' journey from childhood, to being the youngest member of 
 [TMDB](https://www.themoviedb.org/movie/799766)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Better%20Man%20(2024)/Better%20Man%20(2024)%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Better%20Man/Better%20Man%20(2024)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Better%20Man%20(2024)/Better%20Man%20(2024)%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Better%20Man/Better%20Man%20(2024)%20Atmoshm.jpg)
 
