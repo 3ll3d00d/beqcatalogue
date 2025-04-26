@@ -10,7 +10,7 @@ Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannica
 [TMDB](https://www.themoviedb.org/movie/609681)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Marvels/The%20Marvels%20(2023)%20Atmoshm.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Marvels/The%20Marvels%20(2023)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Marvels/The%20Marvels%20(2023)%20Atmos.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Marvels/The%20Marvels%20(2023)%20Atmoshm.jpg)
 
