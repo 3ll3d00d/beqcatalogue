@@ -1,16 +1,16 @@
 # Blitz
 
-## DD+ Atmos
+## DD+
 
-**2024 • PG-13 • 2h 0m • War, Drama, History • mikejl**
+**2011 • R • 1h 37m • Crime, Action, Thriller • mikejl**
 
-In World War II London, nine-year-old George is evacuated to the countryside by his mother, Rita, to escape the bombings. Defiant and determined to return to his family, George embarks on an epic, perilous journey back home as Rita searches for him.
+A tough cop is dispatched to take down a serial killer who has been targeting police officers.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/896151)
+[TMDB](https://www.themoviedb.org/movie/55846)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blitz/Blitz%20(2024)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blitz/Blitz%20(2011)%20DD%2B%2051.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blitz/Blitz%20(2024)%20DD%2B%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blitz/Blitz%20(2011)%20DD%2B%2051hm.jpg)
 
