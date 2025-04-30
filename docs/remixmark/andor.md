@@ -17,5 +17,5 @@ Dialnorm Compensation: 4dB
 * Production Year: 2022
 
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Andor%20(2022)%20(%2B3%20gain)%20Season%202%20DD%2B%20Atmos.jpg)%20(%2B3%20gain)%20Season%202%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Andor%20(2022)%20(%2B3%20gain)%20Season%202%20DD%2B%20Atmos.jpg)
 
