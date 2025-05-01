@@ -7,6 +7,9 @@
 When a gunman enters an Apple Store in the heart of Amsterdam, the police face a delicate challenge to resolve the standoff.
 { data-search-exclude }
 
+Spoken Language is "Dutch"
+{ data-search-exclude }
+
 [TMDB](https://www.themoviedb.org/movie/1371202)
 { data-search-exclude }
 
