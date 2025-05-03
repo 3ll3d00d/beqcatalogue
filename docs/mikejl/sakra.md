@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2023 • 2h 10m • Action • mikejl**
+**2023 • 2h 10m • Cantonese • Action • mikejl**
 
 Qiao Feng is the respected leader of a roving band of martial artists. After he is wrongfully accused of murder and subsequently exiled, Qiao Feng goes on the run in search of answers about his own mysterious origin story—and the unknown enemies working to destroy him from the shadows.
 { data-search-exclude }
