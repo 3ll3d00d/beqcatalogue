@@ -2,9 +2,9 @@
 
 * Author: kaelaria
 
-## Season 01
+## Season 02
 
-* DD+ Atmos
+* Atmos, DD+ Atmos
 
 
 * Production Year: 2024
