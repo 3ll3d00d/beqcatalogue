@@ -2,7 +2,7 @@
 
 ## DD+
 
-**2025 • 1h 49m • Horror, Thriller • mikejl**
+**2025 • 1h 49m • Norwegian • Horror, Thriller • mikejl**
 
 In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.
 { data-search-exclude }
