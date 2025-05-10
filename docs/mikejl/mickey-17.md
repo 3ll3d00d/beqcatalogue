@@ -1,6 +1,6 @@
 # Mickey 17
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 2h 17m • Science Fiction, Comedy, Adventure • mikejl**
 
