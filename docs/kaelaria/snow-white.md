@@ -1,6 +1,6 @@
 # Snow White
 
-## DD+
+## DD+ Atmos
 
 **2025 • PG • 1h 49m • Family, Fantasy • kaelaria**
 
