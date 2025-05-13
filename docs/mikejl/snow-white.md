@@ -2,9 +2,9 @@
 
 ## DD+ Atmos
 
-**2025 • 1h 53m • Drama • mikejl**
+**2025 • PG • 1h 49m • Family, Fantasy • mikejl**
 
-The life of 20-year-old Nico from upper class Zurich is all party, sex and drugs when she meets Paco, the front man of a rap band. She finds herself drawn to his independent, creative and profound way of life, so different from her own. With naiveté and infinite self-confidence, she tries to adopt his lifestyle - without anticipating the consequences.
+Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.
 { data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/447273)
