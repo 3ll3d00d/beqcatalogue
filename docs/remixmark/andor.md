@@ -2,7 +2,7 @@
 
 * Author: remixmark
 
-## Season 02E01-09
+## Season 02
 
 * DD+ Atmos
 
@@ -12,10 +12,10 @@
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1585?post_id=63986840#post-63986840)
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1589?post_id=63997247#post-63997247)
 
 * Production Year: 2022
 
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Andor%20(2022)%20(%2B3.5%20gain)%20Season%2002%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Andor%20(2022)%20Season%2002%20(%2B3.5%20gain)%20DD%2B%20Atmos.jpg)
 
