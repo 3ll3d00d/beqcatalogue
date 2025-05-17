@@ -119,3 +119,23 @@ Dialnorm Compensation: 5dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Love%2C%20Death%20%26%20Robots%20(2019)%20Season%2004%20Episode%2005%20(%2B6%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 04E06
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +3.0 dB
+
+Dialnorm Compensation: 4dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64002211#post-64002211)
+
+* Production Year: 2019
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Love%2C%20Death%20%26%20Robots%20(2019)%20Season%2004%20Episode%2006%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Love%2C%20Death%20%26%20Robots%20(2019)%20Season%2004%20Episode%2006%20(%2B3%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
