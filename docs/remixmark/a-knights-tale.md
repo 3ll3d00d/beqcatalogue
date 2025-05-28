@@ -2,7 +2,7 @@
 
 ## Atmos
 
-Extended
+UHD Extended
 
 **2001 • PG-13 • 2h 13m • Adventure, Drama, Romance, Action • remixmark**
 
