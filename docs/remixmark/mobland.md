@@ -95,3 +95,20 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20-%20S01E09%20(2025)%20(%2B5.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## Season 01E10
+
+* DD+
+
+
+**MV Adjustment:** +7.5 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1597?post_id=64029774#post-64029774)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20-%20S01E10%20(2025)%20(%2B7.5%20gain)%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20-%20S01E10%20(2025)%20(%2B7.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+
