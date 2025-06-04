@@ -1,6 +1,6 @@
 # A Working Man
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 1h 56m • Action, Crime, Thriller • kaelaria**
 
