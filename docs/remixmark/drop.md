@@ -28,7 +28,7 @@ Violet, a widowed mother on her first date in years, arrives at an upscale resta
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1584?post_id=63972944#post-63972944)  [TMDB](https://www.themoviedb.org/movie/1249213)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1597?post_id=64032018#post-64032018)  [TMDB](https://www.themoviedb.org/movie/1249213)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Drop%20(2025)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)
