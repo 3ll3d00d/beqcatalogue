@@ -1,6 +1,6 @@
 # A Working Man
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 1h 56m • Action, Crime, Thriller • mikejl**
 
@@ -10,7 +10,7 @@ Levon Cade left behind a decorated military career in the black ops to live a si
 [TMDB](https://www.themoviedb.org/movie/1197306)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20Working%20Man/A%20Working%20Man%20(2025)%20HDR%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20Working%20Man/A%20Working%20Man%20(2025)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20Working%20Man/A%20Working%20Man%20(2025)%20HDR%20DD%2B%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20Working%20Man/A%20Working%20Man%20(2025)%20Atmoshm.jpg)
 
