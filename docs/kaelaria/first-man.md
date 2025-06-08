@@ -1,6 +1,6 @@
 # First Man
 
-## DTS-HD MA 7.1
+## Atmos
 
 **2018 • PG-13 • 2h 21m • History, Drama • kaelaria**
 
