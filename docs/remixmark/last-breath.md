@@ -35,3 +35,25 @@ Seasoned deep-sea divers battle the raging elements to rescue their crewmate tra
 
 ![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Last%20Breath%20(2025)%20(%2B4%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+UHD
+
+**2025 • PG-13 • 1h 33m • Drama, Thriller • remixmark**
+
+Seasoned deep-sea divers battle the raging elements to rescue their crewmate trapped hundreds of feet below the ocean's surface.
+{ data-search-exclude }
+
+**MV Adjustment:** +5.0 dB
+
+[Discuss](https://www.imdb.com/title/tt14403504/
+[CENTER][B]BassEQ Last Breath (2025) UHD DTS-HD MA 5.1[/B][/CENTER]
+
+[IMG]https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Last%20Breath%20(2025)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg[/IMG]
+[IMG]https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Last%20Breath%20(2025)%20(%2B5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg[/IMG])  [TMDB](https://www.themoviedb.org/movie/972533)
+{ data-search-exclude }
+
+![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Last%20Breath%20(2025)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)
+
+![img 5](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Last%20Breath%20(2025)%20(%2B5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
