@@ -4,7 +4,7 @@
 
 Director's Cut Roadshow Version
 
-**2005 • R • 3h 12m • Drama, Action, Adventure, History, War • halcyon888**
+**2005 • R • 3h 14m • Drama, Action, Adventure, History, War • halcyon888**
 
 After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.
 { data-search-exclude }
