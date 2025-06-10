@@ -2,12 +2,12 @@
 
 ## DTS-HD MA 5.1
 
-**2024 • NR • 2h 9m • Action, Adventure, Fantasy • mikejl**
+**2024 • NR • 2h 9m • Mandarin • Action, Adventure, Fantasy • mikejl**
 
 An archeologist noticed that the texture of the relics discovered during the excavation of a glacier closely resembled a jade pendant seen in one of his dreams. He and his team then embark on an expedition into the depths of the glacier.
 { data-search-exclude }
 
-No Filters Added - This BEQ is a Placeholder Only
+No Filters Added - Placeholder Only
 { data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/1116465)
