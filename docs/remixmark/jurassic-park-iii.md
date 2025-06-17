@@ -9,11 +9,7 @@ In need of funds for research, Dr. Alan Grant accepts a large sum of money to ac
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.imdb.com/title/tt0163025/
-[CENTER][B]BassEQ Jurassic Park III (2001) Atmos[/B][/CENTER]
-
-[IMG]https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jurassic%20Park%20III%20(2001)%20(-1%20gain)%20Atmos.jpg[/IMG]
-[IMG]https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jurassic%20Park%20III%20(2001)%20(-1%20gain)%20Atmos%20Peak%20Spectrum.jpg[/IMG])  [TMDB](https://www.themoviedb.org/movie/331)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1601?post_id=64050299#post-64050299)  [TMDB](https://www.themoviedb.org/movie/331)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jurassic%20Park%20III%20(2001)%20(-1%20gain)%20Atmos.jpg)
