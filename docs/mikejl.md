@@ -7,6 +7,7 @@ search:
 
 | Title | Type | Year | Format | Multiformat? | Links |
 |-|-|-|-|-|-|
+| [11 Rebels](./mikejl/11-rebels.md) | film | 2024 | Atmos | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=11%20Rebels&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/1310682) [rottentoms](https://www.rottentomatoes.com/search?search=11%20Rebels) |
 | [13 Assassins](./mikejl/13-assassins.md) | film | 2010 | DTS-HD MA 5.1 | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=13%20Assassins&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/58857) [rottentoms](https://www.rottentomatoes.com/search?search=13%20Assassins) |
 | [3 Body Problem S01](./mikejl/3-body-problem.md#season-01) | TV | 2024 | DD+ Atmos | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=3%20Body%20Problem%20S01&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/tv/108545) [rottentoms](https://www.rottentomatoes.com/search?search=3%20Body%20Problem%20S01) |
 | [300](./mikejl/300.md) | film | 2006 | Atmos | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=300&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/1271) [rottentoms](https://www.rottentomatoes.com/search?search=300) |
