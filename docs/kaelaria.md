@@ -7,6 +7,7 @@ search:
 
 | Title | Type | Year | Format | Multiformat? | Links |
 |-|-|-|-|-|-|
+| [11 Rebels](./kaelaria/11-rebels.md) | film | 2024 | Atmos | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=11%20Rebels&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/1310682) [rottentoms](https://www.rottentomatoes.com/search?search=11%20Rebels) |
 | [12.12: The Day](./kaelaria/1212-the-day.md) | film | 2023 | TrueHD 5.1, DD 5.1 | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=12.12%3A%20The%20Day&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/919207) [rottentoms](https://www.rottentomatoes.com/search?search=12.12%3A%20The%20Day) |
 | [1923 S01](./kaelaria/1923.md#season-01) | TV | 2022 | DD+ | Yes |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=1923%20S01&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/tv/157744) [rottentoms](https://www.rottentomatoes.com/search?search=1923%20S01) |
 | [1923 S02](./kaelaria/1923.md#season-02) | TV | 2022 | DD+ | Yes |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=1923%20S02&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/tv/157744) [rottentoms](https://www.rottentomatoes.com/search?search=1923%20S02) |
