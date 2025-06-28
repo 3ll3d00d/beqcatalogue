@@ -1,6 +1,6 @@
 # Jurassic Park III
 
-## Atmos, DTS:X
+## Atmos, DTS:X, DTS-HD MA 7.1
 
 **2001 • 1h 32m • Adventure, Action, Thriller, Science Fiction • kaelaria**
 

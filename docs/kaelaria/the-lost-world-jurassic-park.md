@@ -1,6 +1,6 @@
 # The Lost World: Jurassic Park
 
-## Atmos, DTS:X
+## Atmos, DTS:X, DTS-HD MA 7.1
 
 **1997 • PG-13 • 2h 9m • Adventure, Action, Science Fiction • kaelaria**
 
