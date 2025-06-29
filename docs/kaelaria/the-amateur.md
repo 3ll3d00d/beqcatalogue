@@ -1,6 +1,6 @@
 # The Amateur
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • PG-13 • 2h 3m • Thriller, Action • kaelaria**
 
