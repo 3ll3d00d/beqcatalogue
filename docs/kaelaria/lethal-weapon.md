@@ -2,6 +2,8 @@
 
 ## Atmos
 
+Directors Cut
+
 **1987 • R • 1h 50m • Adventure, Action, Comedy, Thriller, Crime • kaelaria**
 
 Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.
