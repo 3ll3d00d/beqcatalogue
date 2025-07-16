@@ -1,5 +1,21 @@
 # Final Destination Bloodlines
 
+## Atmos
+
+**202 • R • 1h 50m • Horror, Mystery • remixmark**
+
+Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.
+{ data-search-exclude }
+
+**MV Adjustment:** -1.0 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1617?post_id=64097498#post-64097498v)  [TMDB](https://www.themoviedb.org/movie/574475)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Final%20Destination%20Bloodlines%20(2025)%20(-1%20gain)%20Atmos.jpg)
+
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Final%20Destination%20Bloodlines%20(2025)%20(-1%20gain)%20Atmos%20Peak%20Spectrum.jpg)
+
 ## DD+
 
 **2025 • R • 1h 50m • Horror, Mystery • remixmark**
@@ -12,9 +28,9 @@ Plagued by a violent recurring nightmare, college student Stefanie heads home to
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1601?post_id=64050333#post-64050333)  [TMDB](https://www.themoviedb.org/movie/574475)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Final%20Destination%20Bloodlines%20(2025)%20(%2B5.5%20gain)%20DD%2B.jpg)
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Final%20Destination%20Bloodlines%20(2025)%20(%2B5.5%20gain)%20DD%2B.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Final%20Destination%20Bloodlines%20(2025)%20(%2B5.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Final%20Destination%20Bloodlines%20(2025)%20(%2B5.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
 ## DD+ Atmos
 
@@ -31,7 +47,7 @@ Dialnorm Compensation: 6dB
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1602?post_id=64052842#post-64052842)  [TMDB](https://www.themoviedb.org/movie/574475)
 { data-search-exclude }
 
-![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Final%20Destination%20Bloodlines%20(2025)%20(-.5%20gain)%20DD%2B%20Atmos.jpg)
+![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Final%20Destination%20Bloodlines%20(2025)%20(-.5%20gain)%20DD%2B%20Atmos.jpg)
 
-![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Final%20Destination%20Bloodlines%20(2025)%20(-.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+![img 5](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Final%20Destination%20Bloodlines%20(2025)%20(-.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
