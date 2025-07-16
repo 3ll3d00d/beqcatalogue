@@ -9,6 +9,9 @@ After the underlying tech for M3GAN is stolen and misused by a powerful defense 
 
 **MV Adjustment:** +6.5 dB
 
+Dialnorm Compensation: 2dB
+{ data-search-exclude }
+
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1617?post_id=64098035#post-64098035)  [TMDB](https://www.themoviedb.org/movie/1071585)
 { data-search-exclude }
 
