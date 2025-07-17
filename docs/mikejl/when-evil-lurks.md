@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**2024 • NR • 1h 40m • Spanish • Horror, Thriller • mikejl**
+**2023 • NR • 1h 40m • Spanish • Horror, Thriller • mikejl**
 
 Residents of a small rural town discover that a demon is about to be born among them. They desperately try to escape before the evil is born, but it may be too late.
 { data-search-exclude }
