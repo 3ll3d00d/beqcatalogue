@@ -35,7 +35,7 @@ Dialnorm Compensation: 5dB
 
 ![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Thunderbolts-%20(2025)%20(%2B2.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
-## DTS-HD MA 5.1
+## DTS-HD MA 7.1
 
 **2025 • PG-13 • 2h 7m • Action, Science Fiction, Adventure • remixmark**
 
