@@ -2,7 +2,7 @@
 
 ## DD+
 
-**2024 • NR • 1h 44m • Action, Comedy, Fantasy • mikejl**
+**2024 • NR • 1h 44m • Japanese • Action, Comedy, Fantasy • mikejl**
 
 After being possessed by the ghost of vengeful hitman Kudo, college student Fumika Matsuoka agrees to help him finish his quest for revenge from beyond the grave.
 { data-search-exclude }
