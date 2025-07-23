@@ -1,8 +1,8 @@
 # The Legend of Ochi
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
-**2025 • PG • 1h 35m • Fantasy, Adventure, Family • mikejl**
+**2025 • PG • 1h 35m • Family, Fantasy, Adventure • mikejl**
 
 In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.
 { data-search-exclude }
