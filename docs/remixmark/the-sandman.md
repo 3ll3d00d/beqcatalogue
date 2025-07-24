@@ -36,3 +36,23 @@ Dialnorm Compensation: 7,9-3dB 8,11-2dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sandman%20(2022)%20(%2B6%20gain)%20S02E07-09%2C11%20DD%2B%20Atmos.jpg)
 
+## Season 02E10
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +7.0 dB
+
+Dialnorm Compensation: 5dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1620?post_id=64111671#post-64111671)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sandman%20(2022)%20(%2B7%20gain)%20S02E10%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sandman%20(2022)%20(%2B7%20gain)%20S02E10%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
