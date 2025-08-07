@@ -64,7 +64,7 @@ Dialnorm Compensation: 7dB
 
 ## Season 02E04
 
-* DD+ Atmos
+* DD+
 
 
 **MV Adjustment:** +2.5 dB
