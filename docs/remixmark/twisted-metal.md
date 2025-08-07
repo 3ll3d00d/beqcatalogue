@@ -62,3 +62,23 @@ Dialnorm Compensation: 7dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Twisted%20Metal%20(2023)%20S02E03%20DD%2B%20Peak%20Spectrum.jpg)
 
+## Season 02E04
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +2.5 dB
+
+Dialnorm Compensation: 7dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1625?post_id=64134295#post-64134295)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Twisted%20Metal%20-%20S02E04%20(2023)%20(%2B2.5%20gain).jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Twisted%20Metal%20-%20S02E04%20(2023)%20(%2B2.5%20gain)%20Peak%20Spectrum.jpg)
+
