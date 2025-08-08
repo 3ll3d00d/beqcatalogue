@@ -1,6 +1,6 @@
 # How to Train Your Dragon
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • PG • 2h 5m • Fantasy, Family, Action • kaelaria**
 
