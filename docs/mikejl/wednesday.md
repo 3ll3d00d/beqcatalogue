@@ -23,8 +23,8 @@
 * Production Year: 2022
 
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Wednesday/Wednesday%20S02E01-04%20(2022)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Wednesday/Wednesday%20S02E01-08%20(2022)%20DD%2B%20Atmos.jpg)
 
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Wednesday/Wednesday%20S02E01-04%20(2022)%20DD%2B%20Atmoshm.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Wednesday/Wednesday%20S02E01-08%20(2022)%20DD%2B%20Atmoshm.jpg)
 
