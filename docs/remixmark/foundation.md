@@ -79,3 +79,23 @@ Dialnorm Compensation: 4dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Foundation%20(2021)%20-%20S03E04%20(%2B4.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 03E05
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +3.0 dB
+
+Dialnorm Compensation: 6dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1627?post_id=64139303#post-64139303)
+
+* Production Year: 2021
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Foundation%20(2021)%20-%20S03E05%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Foundation%20(2021)%20-%20S03E05%20(%2B3%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
