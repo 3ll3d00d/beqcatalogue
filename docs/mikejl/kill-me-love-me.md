@@ -2,7 +2,7 @@
 
 * Author: mikejl
 
-## Season 01
+## Season 01 -- Episodes  01-32
 
 * DD+ Atmos
 
