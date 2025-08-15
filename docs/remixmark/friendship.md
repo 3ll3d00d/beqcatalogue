@@ -35,6 +35,22 @@ Suburban dad Craig falls hard for his charismatic new neighbor Austin, as Craig�
 
 ![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Friendship%20(2025)%20(%2B7%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+**2024 • R • 1h 40m • Comedy • remixmark**
+
+Suburban dad Craig falls hard for his charismatic new neighbor Austin, as Craig’s attempts to make an adult male friend threaten to ruin both of their lives.
+{ data-search-exclude }
+
+**MV Adjustment:** +10.5 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1628?post_id=64147656#post-64147656)  [TMDB](https://www.themoviedb.org/movie/1239655)
+{ data-search-exclude }
+
+![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Friendship%20(2025)%20(%2B10.5%20gain)%20DTS-HD%20MA%205.1.jpg)
+
+![img 5](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Friendship%20(2025)%20(%2B10.5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
 ## TrueHD 5.1
 
 **2024 • R • 1h 40m • Comedy • remixmark**
@@ -47,7 +63,7 @@ Suburban dad Craig falls hard for his charismatic new neighbor Austin, as Craig�
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1620?post_id=64110616#post-64110616)  [TMDB](https://www.themoviedb.org/movie/1239655)
 { data-search-exclude }
 
-![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Friendship%20(2024)%20(%2B7.5%20gain)%20TrueHD.jpg)
+![img 6](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Friendship%20(2024)%20(%2B7.5%20gain)%20TrueHD.jpg)
 
-![img 5](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Friendship%20(2024)%20(%2B7.5%20gain)%20TrueHD%20Peak%20Spectrum.jpg)
+![img 7](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Friendship%20(2024)%20(%2B7.5%20gain)%20TrueHD%20Peak%20Spectrum.jpg)
 
