@@ -19,3 +19,18 @@
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Formula%201-%20Drive%20to%20Survive%20S6E1-10%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)
 
+## Season 7
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +4.0 dB
+
++5dB Dialnorm Compensation
+{ data-search-exclude }
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Formula%20One%20Drive%20to%20Survive%20S7%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)
+
