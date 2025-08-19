@@ -1,6 +1,6 @@
 # Karate Kid: Legends
 
-## DD+
+## DD+ Atmos, DD+
 
 **2025 • PG-13 • 1h 34m • Action, Adventure, Drama • mikejl**
 
