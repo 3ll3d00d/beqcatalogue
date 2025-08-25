@@ -1,5 +1,5 @@
 site_name: BEQCatalogue
-site_url: 'https://beqcatalogue.readthedocs.io'
+site_url: !ENV READTHEDOCS_CANONICAL_URL
 copyright: 'Copyright &copy; 2024 3ll3d00d / aron7awol / mobe1969 / halcyon888 / t1g8rsfan / remixmark'
 theme:
   name: 'material'
