@@ -469,6 +469,11 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 'collection': meta.get('collection', {}),
                 'underlying': meta['file_name']
             }, meta['git_path'], author)
+            generate_shake_eq(meta, author, page_name)
+
+
+def generate_shake_eq(meta, author, page_name):
+    pass
 
 
 def format_season_episode(m) -> tuple[str, str, str, str]:
