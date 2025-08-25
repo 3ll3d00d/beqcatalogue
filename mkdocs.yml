@@ -46,3 +46,4 @@ nav:
   - mikejl: mikejl.md
 plugins:
   - search
+  - social
