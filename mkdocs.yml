@@ -24,9 +24,10 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 extra_javascript:
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - https://unpkg.com/tablesort@5.6.0/dist/tablesort.min.js
   - tablefilter/tablefilter.js
   - javascripts/tables.js
+  - javascripts/readthedocs.js
 extra_css:
   - css/extra.css
   - tablefilter/style/tablefilter.css
