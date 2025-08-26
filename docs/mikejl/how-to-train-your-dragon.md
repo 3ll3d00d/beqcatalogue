@@ -16,9 +16,9 @@ On the rugged isle of Berk, where Vikings and dragons have been bitter enemies f
 
 ![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/How%20to%20Train%20Your%20Dragon/How%20to%20Train%20Your%20Dragon%20(2025)%20(IMAX)%20Atmoshm.jpg)
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
-**2025 • PG • 2h 5m • Fantasy, Family, Action • mikejl**
+**2025 • PG • 2h 5m • Fantasy, Family, Action, Adventure • mikejl**
 
 On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.
 { data-search-exclude }
