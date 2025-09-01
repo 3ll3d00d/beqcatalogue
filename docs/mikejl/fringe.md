@@ -57,3 +57,16 @@ No Drop-off to boost - BEQ Placeholder Only
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Fringe/Fringe%20S04E01-22%20(2008)%20DD%205.1hm.jpg)
 
+## Season 05
+
+* DD 5.1
+
+
+* Production Year: 2008
+
+
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Fringe/Fringe%20S05E01-13%20(2008)%20DD%205.1.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Fringe/Fringe%20S05E01-13%20(2008)%20DD%205.1hm.jpg)
+
