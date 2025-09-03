@@ -1,6 +1,6 @@
 # Jurassic World Rebirth
 
-## DD+ Atmos
+## Atmos
 
 **2025 • PG-13 • 2h 14m • Science Fiction, Adventure, Action • mikejl**
 
@@ -10,7 +10,7 @@ Five years after the events of Jurassic World Dominion, covert operations expert
 [TMDB](https://www.themoviedb.org/movie/1234821)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jurassic%20World/Jurassic%20World%20Rebirth%20(2025)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jurassic%20World/Jurassic%20World%20Rebirth%20(2025)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jurassic%20World/Jurassic%20World%20Rebirth%20(2025)%20DD%2B%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jurassic%20World/Jurassic%20World%20Rebirth%20(2025)%20Atmoshm.jpg)
 
