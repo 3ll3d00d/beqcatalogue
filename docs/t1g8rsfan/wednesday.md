@@ -24,7 +24,7 @@
 
 **MV Adjustment:** +4.0 dB
 
-+4dB Dialnorm Compensation
++2dB Dialnorm Compensation
 { data-search-exclude }
 
 * Production Year: 2025
