@@ -1,6 +1,6 @@
 # Jurassic World Rebirth
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • PG-13 • 2h 14m • Science Fiction, Adventure, Action • kaelaria**
 
