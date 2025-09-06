@@ -27,7 +27,6 @@ extra_javascript:
   - https://unpkg.com/tablesort@5.6.0/dist/tablesort.min.js
   - tablefilter/tablefilter.js
   - javascripts/tables.js
-  - javascripts/readthedocs.js
 extra_css:
   - css/extra.css
   - tablefilter/style/tablefilter.css
