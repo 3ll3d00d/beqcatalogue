@@ -1,6 +1,6 @@
 # Rust
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
 **2025 • 0h 0m • Western • kaelaria**
 
