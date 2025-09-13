@@ -1,6 +1,6 @@
 # Red One
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG-13 • 2h 4m • Action, Comedy, Fantasy • t1g8rsfan**
 
@@ -8,6 +8,9 @@ After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Sec
 { data-search-exclude }
 
 **MV Adjustment:** +2.5 dB
+
++4dB Dialnorm Compensation - DD+ Atmos
+{ data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/845781)
 { data-search-exclude }
