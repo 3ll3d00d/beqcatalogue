@@ -1,6 +1,6 @@
 # Superman
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • PG-13 • 2h 10m • Science Fiction, Adventure, Action • kaelaria**
 
