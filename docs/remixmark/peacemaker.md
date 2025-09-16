@@ -42,3 +42,43 @@ Dialnorm Compensation: 10dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Peacemaker%20(2022)%20-%20S02E02%20(%2B3.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 02E03
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +1.0 dB
+
+Dialnorm Compensation: 12dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1644?post_id=64205892#post-64205892)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Peacemaker%20(2022)%20-%20S02E03%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Peacemaker%20(2022)%20-%20S02E03%20(%2B1%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 02E04
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +1.5 dB
+
+Dialnorm Compensation: 11dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1644?post_id=64205863#post-64205863)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Peacemaker%20(2022)%20-%20S02E04%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Peacemaker%20(2022)%20-%20S02E04%20(%2B1.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
