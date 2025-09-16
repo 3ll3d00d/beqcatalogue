@@ -1,6 +1,6 @@
 # M3GAN 2.0
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • PG-13 • 2h 0m • Action, Science Fiction, Thriller • kaelaria**
 
