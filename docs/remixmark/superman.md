@@ -9,9 +9,6 @@ Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryp
 
 **MV Adjustment:** -2.0 dB
 
-Dialnorm Compensation: 4dB
-{ data-search-exclude }
-
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1644?post_id=64205802#post-64205802)  [TMDB](https://www.themoviedb.org/movie/1061474)
 { data-search-exclude }
 
