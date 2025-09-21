@@ -18,6 +18,8 @@ In a 19th-century European village, a young man about to be married is whisked a
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **2005 • 1h 17m • Romance, Fantasy, Animation • remixmark**
 
 Set in a 19th-century European village, this stop-motion animation feature follows the story of Victor, a young man whisked away to the underworld and wed to a mysterious corpse bride, while his real bride Victoria waits bereft in the land of the living.
