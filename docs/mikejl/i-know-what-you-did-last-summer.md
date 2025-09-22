@@ -1,6 +1,6 @@
 # I Know What You Did Last Summer
 
-## DD+ Atmos
+## DTS-HD MA 5.1, DD+ Atmos
 
 **2025 • R • 1h 51m • Horror, Mystery, Thriller • mikejl**
 
@@ -10,7 +10,7 @@ When five friends inadvertently cause a deadly car accident, they cover up their
 [TMDB](https://www.themoviedb.org/movie/1083433)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Know%20What%20You%20Did%20Last%20Summer/I%20Know%20What%20You%20Did%20Last%20Summer%20(2025)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Know%20What%20You%20Did%20Last%20Summer/I%20Know%20What%20You%20Did%20Last%20Summer%20(2025)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Know%20What%20You%20Did%20Last%20Summer/I%20Know%20What%20You%20Did%20Last%20Summer%20(2025)%20DD%2B%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Know%20What%20You%20Did%20Last%20Summer/I%20Know%20What%20You%20Did%20Last%20Summer%20(2025)%20DTS-HD%20MA%205.1hm.jpg)
 
