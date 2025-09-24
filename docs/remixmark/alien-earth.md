@@ -142,3 +142,23 @@ Dialnorm Compensation: 4dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Alien%20-%20Earth%20(2025)%20-%20S01E07%20(%2B4.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## Season 01E08
+
+* DD+
+
+
+**MV Adjustment:** +3.5 dB
+
+Dialnorm Compensation: 4dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1651?post_id=64219292#post-64219292)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Alien%20-%20Earth%20(2025)%20-%20S01E08%20(%2B3.5%20gain)%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Alien%20-%20Earth%20(2025)%20-%20S01E08%20(%2B3.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+
