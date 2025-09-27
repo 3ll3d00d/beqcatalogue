@@ -1,0 +1,16 @@
+# Die Hard
+
+## DTS-HD MA 5.1
+
+**1988 • R • 2h 12m • Action, Thriller • kaelaria**
+
+NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/562)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Die%20Hard%20(1988)%20DTS-HD%20MA%205.1.jpg)
+
+![img 1](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Die%20Hard%20(1988)%20DTS-HD%20MA%205.1hm.jpg)
+
