@@ -53,3 +53,20 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20(1997)%20-%20S27E03%20(%2B4%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## Season 27E04
+
+* DD+
+
+
+**MV Adjustment:** +4.5 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1655?post_id=64224253#post-64224253)
+
+* Production Year: 1997
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20(1997)%20-%20S27E04%20(%2B4.5%20gain)%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20(1997)%20-%20S27E04%20(%2B4.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+
