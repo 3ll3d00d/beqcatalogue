@@ -102,3 +102,23 @@ Dialnorm Compensation: 11dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Peacemaker%20(2022)%20-%20S02E05%20(%2B2.5%20gain)%20Peak%20Spectrum.jpg)
 
+## Season 02E06
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +4.0 dB
+
+Dialnorm Compensation: 9dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1655?post_id=64224266#post-64224266)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Peacemaker%20(2022)%20-%20S02E06%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Peacemaker%20(2022)%20-%20S02E06%20(%2B4%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
