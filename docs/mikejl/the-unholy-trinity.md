@@ -1,6 +1,6 @@
 # The Unholy Trinity
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
 **2025 • R • 1h 35m • Western, Adventure, Crime • mikejl**
 
@@ -10,7 +10,7 @@ Set against the turbulent backdrop of 1870s Montana, in the moments before the e
 [TMDB](https://www.themoviedb.org/movie/1195518)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Unholy%20Trinity/The%20Unholy%20Trinity%20(2025)%20DD%2B%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Unholy%20Trinity/The%20Unholy%20Trinity%20(2024)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Unholy%20Trinity/The%20Unholy%20Trinity%20(2025)%20DD%2B%205.1hm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Unholy%20Trinity/The%20Unholy%20Trinity%20(2024)%20DTS-HD%20MA%205.1hm.jpg)
 
