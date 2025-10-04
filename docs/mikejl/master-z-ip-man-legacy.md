@@ -2,7 +2,7 @@
 
 ## DD 5.1
 
-**2018 • 1h 47m • Action, Crime, Drama • mikejl**
+**2018 • 1h 47m • Cantonese • Action, Crime, Drama • mikejl**
 
 Following his defeat by Master Ip, Cheung Tin Chi tries to make a life with his young son in Hong Kong, waiting tables at a bar that caters to expats. But it's not long before the mix of foreigners, money, and triad leaders draw him once again to the fight.
 { data-search-exclude }
