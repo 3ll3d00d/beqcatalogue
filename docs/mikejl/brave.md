@@ -1,6 +1,6 @@
 # Brave
 
-## DD+
+## DD+ Atmos, DD+
 
 **2012 • PG • 1h 33m • Animation, Adventure, Comedy, Family, Action, Fantasy • mikejl**
 
@@ -10,7 +10,7 @@ In the mystical Scottish Highlands, Merida is the princess of a kingdom ruled by
 [TMDB](https://www.themoviedb.org/movie/62177)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Brave/Brave%20(2012)%20DD%2B%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Brave/Brave%20(2012)%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Brave/Brave%20(2012)%20DD%2B%205.1hm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Brave/Brave%20(2012)%20DD%2B%20Atmoshmhm.jpg)
 
