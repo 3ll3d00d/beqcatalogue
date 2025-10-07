@@ -12,5 +12,5 @@ In the mystical Scottish Highlands, Merida is the princess of a kingdom ruled by
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Brave/Brave%20(2012)%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Brave/Brave%20(2012)%20DD%2B%20Atmoshmhm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Brave/Brave%20(2012)%20DD%2B%20Atmoshm.jpg)
 
