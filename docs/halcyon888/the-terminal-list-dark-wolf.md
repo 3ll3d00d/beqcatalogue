@@ -25,7 +25,7 @@ Dialnorm Compensation: E01 +6dB; E02-E03 +5dB; E04 0dB; E06 +4dB; E07 +5dB
 * DD+ Atmos
 
 
-Dialnorm Compensation: +6dB>
+Dialnorm Compensation: +6dB
 { data-search-exclude }
 
 * Production Year: 2025
