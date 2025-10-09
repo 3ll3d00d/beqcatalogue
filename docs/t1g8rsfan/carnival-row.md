@@ -42,5 +42,5 @@
 * Production Year: 2023
 
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Carnival%20Row%20S2E1-6%2C%208%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Carnival%20Row%20S2E1-6%2C%208-10%20DD%2B%20Atmos.jpg)
 
