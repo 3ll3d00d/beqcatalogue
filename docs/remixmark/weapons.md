@@ -1,5 +1,21 @@
 # Weapons
 
+## Atmos
+
+**2025 • R • 2h 9m • Horror, Mystery • remixmark**
+
+When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.
+{ data-search-exclude }
+
+**MV Adjustment:** +1.5 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1665?post_id=64246867#post-64246867)  [TMDB](https://www.themoviedb.org/movie/1078605)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B6%20gain)%20Atmos.jpg)
+
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B6%20gain)%20Atmos%20Peak%20Spectrum.jpg)
+
 ## DD 5.1
 
 **2025 • R • 2h 9m • Horror, Mystery • remixmark**
@@ -15,9 +31,9 @@ Dialnorm Compensation: 4dB
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1642?post_id=64192775#post-64192775)  [TMDB](https://www.themoviedb.org/movie/1078605)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B2.5)%20DD.jpg)
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B2.5)%20DD.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B2.5)%20DD%20Peak%20Spectrum.jpg)
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B2.5)%20DD%20Peak%20Spectrum.jpg)
 
 ## DD+ Atmos
 
@@ -34,7 +50,7 @@ Dialnorm Compensation: 4dB
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1642?post_id=64193979#post-64193979)  [TMDB](https://www.themoviedb.org/movie/1078605)
 { data-search-exclude }
 
-![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
+![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
 
-![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+![img 5](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
