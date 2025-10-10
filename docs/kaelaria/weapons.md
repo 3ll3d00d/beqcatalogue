@@ -1,6 +1,6 @@
 # Weapons
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 2h 9m • Horror, Mystery • kaelaria**
 
