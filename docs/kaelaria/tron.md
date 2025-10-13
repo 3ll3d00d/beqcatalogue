@@ -1,6 +1,6 @@
 # Tron
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **1982 • PG • 1h 35m • Science Fiction, Action, Adventure • kaelaria**
 
