@@ -1,6 +1,6 @@
 # Nobody 2
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 1h 29m • Action, Thriller • mikejl**
 
@@ -10,7 +10,7 @@ Former assassin Hutch Mansell takes his family on a nostalgic vacation to a smal
 [TMDB](https://www.themoviedb.org/movie/1007734)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nobody/Nobody%202%20(2025)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nobody/Nobody%202%20(2025)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nobody/Nobody%202%20(2025)%20DD%2B%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Nobody/Nobody%202%20(2025)%20Atmoshm.jpg)
 
