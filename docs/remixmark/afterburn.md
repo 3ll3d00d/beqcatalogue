@@ -1,6 +1,6 @@
 # Afterburn
 
-## DD+ Atmos
+## DD+
 
 **2025 • R • 1h 45m • Science Fiction, Action, Comedy • remixmark**
 
