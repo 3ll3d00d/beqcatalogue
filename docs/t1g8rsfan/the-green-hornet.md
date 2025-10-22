@@ -9,7 +9,7 @@ Britt Reid, the heir to the largest newspaper fortune in Los Angeles, is a spoil
 
 **MV Adjustment:** -1.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/40805)
+[Discuss](https://www.avsforum.com/posts/62625965/)  [TMDB](https://www.themoviedb.org/movie/40805)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Green%20Hornet%20(2011)%20(-1.5%20gain)%20DTS-HD%20MA%205.1.jpg)
