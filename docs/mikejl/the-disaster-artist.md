@@ -1,6 +1,6 @@
 # The Disaster Artist
 
-## DD+ Atmos
+## TrueHD 7.1
 
 **2017 • R • 1h 44m • Comedy, Drama • mikejl**
 
