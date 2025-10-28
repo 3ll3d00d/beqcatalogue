@@ -35,3 +35,21 @@ When a downtrodden janitor, Winston Gooze, is exposed to a catastrophic toxic ac
 
 ![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Toxic%20Avenger%20Unrated%20(2025)%20(%2B2%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+UHD
+
+**2025 • NR • 1h 42m • Action, Comedy, Science Fiction • remixmark**
+
+When a downtrodden janitor, Winston Gooze, is exposed to a catastrophic toxic accident, he’s transformed into a new kind of hero: The Toxic Avenger. Now, Toxie must rise from outcast to savior, taking on ruthless corporate overlords and corrupt forces who threaten his son, his friends, and his community.
+{ data-search-exclude }
+
+**MV Adjustment:** +2.0 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1673?post_id=64279496#post-64279496)  [TMDB](https://www.themoviedb.org/movie/338969)
+{ data-search-exclude }
+
+![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Toxic%20Avenger%20Unrated%20(2025)%20UHD%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)
+
+![img 5](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Toxic%20Avenger%20Unrated%20(2025)%20UHD%20(%2B2%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
