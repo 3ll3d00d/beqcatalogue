@@ -9,7 +9,7 @@ A true story about Frank Abagnale Jr. who, before his 19th birthday, successfull
 
 **MV Adjustment:** +8.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/640)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1675?post_id=64285245#post-64285245)  [TMDB](https://www.themoviedb.org/movie/640)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Catch%20Me%20If%20You%20Can%20(2002)%20(%2B8%20gain)%20DTS-HD%20MA%205.1.jpg)
