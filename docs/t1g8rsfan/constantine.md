@@ -9,7 +9,7 @@ John Constantine has literally been to Hell and back. When he teams up with a po
 
 **MV Adjustment:** -2.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/561)
+[Discuss](https://www.avsforum.com/posts/62912182/)  [TMDB](https://www.themoviedb.org/movie/561)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Constantine%20(2005)%20(-2%20gain)%20Atmos.jpg)
