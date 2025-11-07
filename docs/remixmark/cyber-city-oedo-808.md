@@ -9,6 +9,9 @@ In the city of Oedo 2808a.d., three Cyber criminals are given two choices, to ei
 
 **MV Adjustment:** +3.0 dB
 
+Bit rate: 814 kb/s
+{ data-search-exclude }
+
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64294480#post-64294480)  [TMDB](https://www.themoviedb.org/movie/97187)
 { data-search-exclude }
 
