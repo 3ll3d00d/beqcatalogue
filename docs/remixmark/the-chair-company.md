@@ -82,3 +82,23 @@ Dialnorm Compensation: 7dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Chair%20Company%20(2025)%20-%20S01E04%20(%2B4%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 01E05
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +1.5 dB
+
+Dialnorm Compensation: 8dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1678?post_id=64299885#post-64299885)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Chair%20Company%20(2025)%20-%20S01E05%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Chair%20Company%20(2025)%20-%20S01E05%20(%2B1.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+

@@ -42,3 +42,23 @@ Dialnorm Compensation: 5dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/IT%20-%20Welcome%20to%20Derry%20(2025)%20-%20S01E02%20(%2B1.5%20gain)%20DD%2B%20Atmos%20Peaks%20Spectrum.jpg)
 
+## Season 01E03
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +1.0 dB
+
+Dialnorm Compensation: 12dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1678?post_id=64299844#post-64299844)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/IT%20-%20Welcome%20to%20Derry%20(2025)%20-%20S01E03%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/IT%20-%20Welcome%20to%20Derry%20(2025)%20-%20S01E03%20(%2B1%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
