@@ -107,3 +107,20 @@ Dialnorm Compensation: 5dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20(1997)%20-%20S28E02%20(%2B7%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## Season 28E03
+
+* DD+
+
+
+**MV Adjustment:** +4.0 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64304712#post-64304712)
+
+* Production Year: 1997
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20(1997)%20-%20S28E03%20(%2B4%20gain)%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20(1997)%20-%20S28E03%20(%2B4%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+
