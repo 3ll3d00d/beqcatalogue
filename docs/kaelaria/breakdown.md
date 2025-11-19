@@ -1,6 +1,6 @@
 # Breakdown
 
-## TrueHD 5.1
+## DTS-HD MA 5.1, TrueHD 5.1
 
 **1997 • R • 1h 33m • Crime, Mystery, Thriller, Action, Drama • kaelaria**
 
