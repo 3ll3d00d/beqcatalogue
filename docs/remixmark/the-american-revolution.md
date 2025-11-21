@@ -38,6 +38,23 @@
 
 ## Season 01E02
 
+* DD+
+
+
+**MV Adjustment:** +2.5 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318464#post-64318464)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E02%20(%2B2.5%20gain)%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E02%20(%2B2.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+
+## Season 01E02
+
 * AAC 2.0
 
 
@@ -52,6 +69,23 @@
 
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E02%20AAC%202.0%20Peak%20Spectrum.jpg)
+
+## Season 01E03
+
+* DD+
+
+
+**MV Adjustment:** +4.5 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318473#post-64318473)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E03%20(%2B4.5%20gain)%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E03%20(%2B4.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
 ## Season 01E03
 
@@ -70,6 +104,40 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E03%20AAC%202.0%20Peak%20Spectrum.jpg)
 
+## Season 01E04
+
+* DD+
+
+
+**MV Adjustment:** +4.0 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318476#post-64318476)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E04%20(%2B4%20gain)%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E04%20(%2B4%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+
+## Season 01E05
+
+* DD+
+
+
+**MV Adjustment:** +4.0 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318480#post-64318480)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E05%20(%2B4%20gain)%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E05%20(%2B4%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+
 ## Season 01E05
 
 * AAC 2.0
@@ -86,6 +154,23 @@
 
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E05%20AAC%202.0%20Peak%20Spectrum.jpg)
+
+## Season 01E06
+
+* DD+
+
+
+**MV Adjustment:** +3.0 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318485#post-64318485)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E06%20(%2B3%20gain)%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20American%20Revolution%20(2025)%20S01E06%20(%2B3%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
 ## Season 01E06
 
