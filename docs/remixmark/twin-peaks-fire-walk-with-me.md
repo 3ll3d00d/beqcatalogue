@@ -2,6 +2,8 @@
 
 ## DTS-HD MA 7.1
 
+UHD
+
 **1992 • R • 2h 15m • Drama, Mystery, Horror • remixmark**
 
 In the questionable town of Deer Meadow, Washington, FBI Agent Desmond inexplicably disappears while hunting for the man who murdered a teen girl. The killer is never apprehended, and, after experiencing dark visions and supernatural encounters, Agent Dale Cooper chillingly predicts that the culprit will claim another life. Meanwhile, in the more cozy town of Twin Peaks, hedonistic beauty Laura Palmer hangs with lowlifes and seems destined for a grisly fate.
