@@ -1,21 +1,18 @@
 # Diary of a Wimpy Kid: Rodrick Rules
 
-## DD+ Atmos
+## DTS-HD MA 5.1
 
-**2022 • PG • 1h 14m • Animation, Comedy, Family • remixmark**
+**2011 • PG • 1h 39m • Family, Comedy • remixmark**
 
-A new school year, his brother Rodrick teases him over and over and over and over again. Will Greg manage to get along with him? Or will a secret ruin everything?
+Wimpy Greg Heffley, now in seventh grade, thinks he has it all together. He has mastered middle school and gotten rid of the Cheese Touch. However, Greg's older brother, Rodrick, is itching to cut him down to size. He gets the perfect opportunity when their mother tries to force the boys to bond. Rodrick may be Greg's chief tormentor, but he feels his constant pranks are just what his little brother needs to prepare him for life's hard knocks.
 { data-search-exclude }
 
-**MV Adjustment:** +6.5 dB
+**MV Adjustment:** +6.0 dB
 
-Dialnorm Compensation: 4dB
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64320877#post-64320877)  [TMDB](https://www.themoviedb.org/movie/60307)
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64006216#post-64006216)  [TMDB](https://www.themoviedb.org/movie/897192)
-{ data-search-exclude }
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Diary%20of%20a%20Wimpy%20Kid%20Roderick%20Rules%20(2011)%20(%2B6%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Diary%20of%20a%20Wimpy%20Kid%20Rodrick%20Rules%20(2022)%20(%2B6.5%20gain)%20DD%2B%20Atmos.jpg)
-
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Diary%20of%20a%20Wimpy%20Kid%20Rodrick%20Rules%20(2022)%20(%2B6.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Diary%20of%20a%20Wimpy%20Kid%20Roderick%20Rules%20(2011)%20(%2B6%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
 
