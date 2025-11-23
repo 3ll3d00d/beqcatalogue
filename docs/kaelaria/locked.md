@@ -1,6 +1,6 @@
 # Locked
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
 **2025 • R • 1h 35m • Horror, Thriller • kaelaria**
 
