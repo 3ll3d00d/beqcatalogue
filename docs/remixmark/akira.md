@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**1988 • R • 2h 4m • Japanese • Animation, Science Fiction, Action • remixmark**
+**1988 • R • 2h 4m • Animation, Science Fiction, Action • remixmark**
 
 A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.
 { data-search-exclude }
