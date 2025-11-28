@@ -1,6 +1,6 @@
 # Good Fortune
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 1h 38m • Comedy, Fantasy • kaelaria**
 
