@@ -53,3 +53,18 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mighty%20Nein%20(2025)%20-%20S01E03%20(%2B5.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## Season 01E04
+
+* DD+
+
+
+**MV Adjustment:** +1.5 dB
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mighty%20Nein%20(2025)%20-%20S01E04%20(%2B1.5%20gain)%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mighty%20Nein%20(2025)%20-%20S01E04%20(%2B1.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+
