@@ -1,6 +1,6 @@
 # Shin Godzilla
 
-## DTS-HD MA 3.1
+## DTS-HD MA 3.1 TrueHD 3.1
 
 **2016 • PG-13 • 2h 0m • Japanese • Action, Science Fiction, Horror • remixmark**
 
@@ -8,6 +8,9 @@ When a massive, gilled monster emerges from the deep and tears through the city,
 { data-search-exclude }
 
 **MV Adjustment:** +2.5 dB
+
+Dialnorm Coompensation (TrueHD 3.1 only): 5dB
+{ data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1684?post_id=64331141#post-64331141)  [TMDB](https://www.themoviedb.org/movie/315011)
 { data-search-exclude }
