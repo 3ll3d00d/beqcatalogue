@@ -10,7 +10,7 @@ Thor is imprisoned on the other side of the universe and finds himself in a race
 [TMDB](https://www.themoviedb.org/movie/284053)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Thor/Thor%20-%20Ragnarok%20(2017)%20DTS-HD%20MA%207.1.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Thor/Thor%20-%20Ragnarok%20(2017)%20DTS-HD%20MA%207.1hm.jpg)
 
 ![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Thor/Thor%20-%20Ragnarok%20(2017)%20DTS-HD%20MA%207.1hm.jpg)
 
