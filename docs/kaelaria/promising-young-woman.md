@@ -1,6 +1,6 @@
 # Promising Young Woman
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2020 • R • 1h 54m • Thriller, Crime, Drama • kaelaria**
 
