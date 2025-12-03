@@ -1,6 +1,6 @@
 # The Long Walk
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 1h 49m • Thriller, Horror, Science Fiction • kaelaria**
 
