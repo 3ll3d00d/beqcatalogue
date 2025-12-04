@@ -639,7 +639,8 @@ def detect_duplicate_hashes():
             for dupe in v:
                 if dupe['author'] not in ignored_authors:
                     formatted.add(f"{dupe['author']}/{dupe['title']} - {dupe['underlying']}")
-            print(f"DUPLICATE HASH: {k} -> {len(v)}x {formatted}")
+            if formatted:
+                print(f"DUPLICATE HASH: {k} -> {len(v)}x {formatted}")
         unique_count += 1
     print(f"{unique_count} unique catalogue entries generated")
 
