@@ -23,11 +23,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           ref: ${{ github.head_ref }}
       - name: Set up Python 3.13
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: 3.13
       - name: Install Poetry
@@ -45,121 +45,8 @@ jobs:
         run: poetry install --no-interaction --no-root
       - name: Install project
         run: poetry install --no-interaction
-      - name: Get Input Repos
-        run: |
-          if [[ -d .input/Mobe1969/miniDSPBEQ ]]
-          then
-            pushd .input/Mobe1969/miniDSPBEQ
-            git pull
-            popd
-          else
-            git clone https://github.com/Mobe1969/miniDSPBEQ.git .input/Mobe1969/miniDSPBEQ
-          fi
-          if [[ -d .input/halcyon888/miniDSPBEQ ]]
-          then
-            pushd .input/halcyon888/miniDSPBEQ
-            git pull
-            popd
-          else
-            git clone https://github.com/halcyon-888/miniDSPBEQ.git .input/halcyon888/miniDSPBEQ
-          fi
-          if [[ -d .input/bmiller/miniDSPBEQ.wiki ]]
-          then
-            pushd .input/bmiller/miniDSPBEQ
-            git pull
-            popd
-          else
-            git clone https://github.com/bmiller/miniDSPBEQ.git .input/bmiller/miniDSPBEQ
-          fi
-          if [[ -d .input/t1g8rsfan/miniDSPBEQ ]]
-          then
-            pushd .input/t1g8rsfan/miniDSPBEQ
-            git pull
-            popd
-          else
-            git clone https://github.com/T1G8RS-FAN/MiniDSPBEQ.git .input/t1g8rsfan/miniDSPBEQ
-          fi
-          if [[ -d .input/kaelaria/Beq1 ]]
-          then
-            pushd .input/kaelaria/Beq1
-            git pull
-            popd
-          else
-            git clone https://github.com/kaelaria/Beq1.git .input/kaelaria/Beq1
-          fi
-          if [[ -d .input/remixmark/miniDSPBEQ ]]
-          then
-            pushd .input/remixmark/miniDSPBEQ
-            git pull
-            popd
-          else
-            git clone https://github.com/remixmark/miniDSPBEQ.git .input/remixmark/miniDSPBEQ
-          fi
-          if [[ -d .input/mikejl/xml ]]
-          then
-            pushd .input/mikejl/xml
-            git pull
-            popd
-          else
-            git clone https://github.com/MikejLarson/xml.git .input/mikejl/xml
-          fi
-      - name: Get git metadata
-        run: |
-          M_SHA=$(cat meta/mobe1969.sha)
-          pushd .input/Mobe1969/miniDSPBEQ
-          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
-          git rev-parse HEAD > d.sha
-          popd
-          mv .input/Mobe1969/miniDSPBEQ/d.diff meta/mobe1969.diff
-          mv .input/Mobe1969/miniDSPBEQ/d.sha meta/mobe1969.sha
-
-          M_SHA=$(cat meta/halcyon888.sha)
-          pushd .input/halcyon888/miniDSPBEQ
-          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ*| xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
-          git rev-parse HEAD > d.sha
-          popd
-          mv .input/halcyon888/miniDSPBEQ/d.diff meta/halcyon888.diff
-          mv .input/halcyon888/miniDSPBEQ/d.sha meta/halcyon888.sha
-
-          M_SHA=$(cat meta/aron7awol.sha)
-          pushd .input/bmiller/miniDSPBEQ
-          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
-          git rev-parse HEAD > d.sha
-          popd
-          mv .input/bmiller/miniDSPBEQ/d.diff meta/aron7awol.diff
-          mv .input/bmiller/miniDSPBEQ/d.sha meta/aron7awol.sha
-
-          M_SHA=$(cat meta/t1g8rsfan.sha)
-          pushd .input/t1g8rsfan/miniDSPBEQ
-          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
-          git rev-parse HEAD > d.sha
-          popd
-          mv .input/t1g8rsfan/miniDSPBEQ/d.diff meta/t1g8rsfan.diff
-          mv .input/t1g8rsfan/miniDSPBEQ/d.sha meta/t1g8rsfan.sha
-
-          M_SHA=$(cat meta/kaelaria.sha)
-          pushd .input/kaelaria/Beq1
-          git diff --name-only -z ${M_SHA}..HEAD -- tv\/ movies\/  | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
-          git rev-parse HEAD > d.sha
-          popd
-          mv .input/kaelaria/Beq1/d.diff meta/kaelaria.diff
-          mv .input/kaelaria/Beq1/d.sha meta/kaelaria.sha
-
-          M_SHA=$(cat meta/remixmark.sha)
-          pushd .input/remixmark/miniDSPBEQ
-          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ*  | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
-          git rev-parse HEAD > d.sha
-          popd
-          mv .input/remixmark/miniDSPBEQ/d.diff meta/remixmark.diff
-          mv .input/remixmark/miniDSPBEQ/d.sha meta/remixmark.sha
-
-          M_SHA=$(cat meta/mikejl.sha)
-          pushd .input/mikejl/xml
-          git diff --name-only -z ${M_SHA}..HEAD -- *BEQ*  | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > d.diff
-          git rev-parse HEAD > d.sha
-          popd
-          mv .input/mikejl/xml/d.diff meta/mikejl.diff
-          mv .input/mikejl/xml/d.sha meta/mikejl.sha
+      - name: Collate inputs
+        run: ./update_inputs.sh
       - name: Update Catalogue
         run: |
           poetry run python beqcatalogue/__init__.py

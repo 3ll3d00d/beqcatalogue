@@ -297,49 +297,6 @@ def process_content_from_repo(author: str, content_meta, index_entries, content_
     return page_titles
 
 
-def process_aron7awol_content_from_repo(content_meta, index_entries, content_type, pages_touched: list[str]):
-    ''' converts beq_metadata into md '''
-    for post_id, metas in group_aron7awol_content(content_meta, content_type).items():
-        page = f"docs/aron7awol/{post_id}.md"
-        pages_touched.append(page)
-        with open(page, mode='w+') as content_md:
-            generate_content_page(post_id, metas, content_md, index_entries, 'aron7awol', content_type)
-
-
-def group_aron7awol_content(content_meta, content_type) -> dict:
-    grouped_meta = {}
-    if content_type == 'film':
-        for meta in content_meta:
-            if 'avs' in meta:
-                avs = meta['avs']
-                idx = avs.find('post?id=')
-                avs_post_id = None
-                if idx == -1:
-                    idx = avs.find('post-')
-                    if idx == -1:
-                        print(f"Unparsable post id {meta['repo_file']} - {avs}")
-                    else:
-                        avs_post_id = avs[idx + 5:]
-                else:
-                    avs_post_id = avs[idx + 8:]
-                if avs_post_id:
-                    if avs_post_id in grouped_meta:
-                        grouped_meta[avs_post_id].append(meta)
-                    else:
-                        grouped_meta[avs_post_id] = [meta]
-            else:
-                print(f"Missing beq_avs entry for {meta['repo_file']}")
-    else:
-        for meta in content_meta:
-            if 'title' in meta:
-                title = slugify(meta['title'], '-')
-                if title in grouped_meta:
-                    grouped_meta[title].append(meta)
-                else:
-                    grouped_meta[title] = [meta]
-    return grouped_meta
-
-
 def generate_content_page(page_name, metas, content_md, index_entries, author, content_type):
     try:
         if content_type == 'film':
@@ -675,11 +632,13 @@ def detect_duplicate_hashes():
         hashes[j['digest']].append(slice_dict(slim_keys, j))
 
     unique_count = 0
+    ignored_authors = ['mobe1969','aron7awol']
     for k, v in hashes.items():
         if len(v) > 1:
             formatted = set()
             for dupe in v:
-                formatted.add(f"{dupe['author']}/{dupe['title']} - {dupe['underlying']}")
+                if dupe['author'] not in ignored_authors:
+                    formatted.add(f"{dupe['author']}/{dupe['title']} - {dupe['underlying']}")
             print(f"DUPLICATE HASH: {k} -> {len(v)}x {formatted}")
         unique_count += 1
     print(f"{unique_count} unique catalogue entries generated")
@@ -731,104 +690,95 @@ def dump_excess_files(pages_touched: list[str]):
         except ValueError:
             print(f'Touched a page but it does not exist! {page}')
     if existing_pages:
-        print(f'{len(existing_pages)} files to delete')
-        for p in existing_pages:
-            print(f'rm -f {p}')
+        to_delete = [p for p in existing_pages if not (p.startswith('docs/mobe1969/') or p.startswith('docs/aron7awol/'))]
+        if to_delete:
+            print(f'{len(to_delete)} files to delete')
+            for p in to_delete:
+                print(f'rm -f {p}')
+
+def retrieve_retained_rows(retained_authors: list[str]) -> list[list[str]]:
+    retained = []
+    db_path = 'docs/database.csv'
+    if os.path.exists(db_path):
+        with open(db_path, newline='', encoding='utf-8') as f:
+            reader = csv.reader(f)
+            try:
+                next(reader)
+                for row in reader:
+                    if len(row) > 3 and row[3] in retained_authors:
+                        retained.append(row)
+            except StopIteration:
+                pass
+    return retained
+
+
+def retrieve_retained_catalogue(retained_authors: list[str]) -> list[dict]:
+    retained = []
+    db_path = 'docs/database.json'
+    if os.path.exists(db_path):
+        try:
+            with open(db_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                if isinstance(data, list):
+                    for entry in data:
+                        if isinstance(entry, dict) and entry.get('author', '') in retained_authors:
+                            retained.append(entry)
+        except Exception:
+            print(f"Failed to load retained entries from {db_path}")
+            traceback.print_exc()
+    return retained
 
 
 if __name__ == '__main__':
-    all_authors = ['aron7awol', 'mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria', 'remixmark', 'mikejl']
+    repo_configs = [
+        ('halcyon888', '.input/halcyon888/miniDSPBEQ/', 'Movie BEQs', 'TV Shows BEQ'),
+        ('t1g8rsfan', '.input/t1g8rsfan/miniDSPBEQ/', 'Movie BEQs', 'TV Shows BEQ'),
+        ('kaelaria', '.input/kaelaria/Beq1/', 'movies', 'tv'),
+        ('remixmark', '.input/remixmark/miniDSPBEQ/', 'Movie BEQs', 'TV BEQs'),
+        ('mikejl', '.input/mikejl/xml/', 'Movies', 'TV'),
+        # enable when metadata is added
+        # ('bombaycat007', '.input/bombaycat007/miniDSPBEQ/', 'Movie BEQs', 'TV BEQs')
+    ]
+
+    all_authors = [a[0] for a in repo_configs]
     times = {a: load_times(a) for a in all_authors}
     error_files = {a: [] for a in all_authors}
     film_data = {}
     tv_data = {}
 
-    try:
-        aron7awol_films = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'Movie BEQs', 'film', 'aron7awol')
-        print(f"Extracted {len(aron7awol_films)} aron7awol film catalogue entries")
-        aron7awol_tv = extract_from_repo('.input/bmiller/miniDSPBEQ/', 'TV Shows BEQ', 'TV', 'aron7awol')
-        print(f"Extracted {len(aron7awol_tv)} aron7awol TV catalogue entries")
-    except:
-        print(f"Failed to extract for aron7awol")
-        traceback.print_exc()
+    for author, repo_path, film_sub, tv_sub in repo_configs:
+        try:
+            film_data[author] = extract_from_repo(repo_path, film_sub, 'film', author)
+            print(f"Extracted {len(film_data[author])} {author} film catalogue entries")
+            tv_data[author] = extract_from_repo(repo_path, tv_sub, 'TV', author)
+            print(f"Extracted {len(tv_data[author])} {author} TV catalogue entries")
+        except:
+            print(f"Failed to extract for {author}")
+            traceback.print_exc()
 
-    try:
-        film_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'Movie BEQs', 'film', 'mobe1969')
-        print(f"Extracted {len(film_data['mobe1969'])} mobe1969 film catalogue entries")
-        tv_data['mobe1969'] = extract_from_repo('.input/Mobe1969/miniDSPBEQ/', 'TV BEQs', 'TV', 'mobe1969')
-        print(f"Extracted {len(tv_data['mobe1969'])} mobe1969 TV catalogue entries")
-    except:
-        print(f"Failed to extract for mobe1969")
-        traceback.print_exc()
-
-    try:
-        film_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'Movie BEQs', 'film', 'halcyon888')
-        print(f"Extracted {len(film_data['halcyon888'])} halcyon888 film catalogue entries")
-        tv_data['halcyon888'] = extract_from_repo('.input/halcyon888/miniDSPBEQ/', 'TV Shows BEQ', 'TV', 'halcyon888')
-        print(f"Extracted {len(tv_data['halcyon888'])} halcyon888 TV catalogue entries")
-    except:
-        print(f"Failed to extract for halcyon888")
-        traceback.print_exc()
-
-    try:
-        film_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'Movie BEQs', 'film', 't1g8rsfan')
-        print(f"Extracted {len(film_data['t1g8rsfan'])} t1g8rsfan film catalogue entries")
-        tv_data['t1g8rsfan'] = extract_from_repo('.input/t1g8rsfan/miniDSPBEQ/', 'TV Shows BEQ', 'TV', 't1g8rsfan')
-        print(f"Extracted {len(tv_data['t1g8rsfan'])} t1g8rsfan TV catalogue entries")
-    except:
-        print(f"Failed to extract for t1g8rsfan")
-        traceback.print_exc()
-
-    try:
-        film_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'movies', 'film', 'kaelaria')
-        print(f"Extracted {len(film_data['kaelaria'])} kaelaria film catalogue entries")
-        tv_data['kaelaria'] = extract_from_repo('.input/kaelaria/Beq1/', 'tv', 'TV', 'kaelaria')
-        print(f"Extracted {len(tv_data['kaelaria'])} kaelaria TV catalogue entries")
-    except:
-        print(f"Failed to extract for kaelaria")
-        traceback.print_exc()
-
-    try:
-        film_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'Movie BEQs', 'film', 'remixmark')
-        print(f"Extracted {len(film_data['remixmark'])} remixmark film catalogue entries")
-        tv_data['remixmark'] = extract_from_repo('.input/remixmark/miniDSPBEQ/', 'TV BEQs', 'TV', 'remixmark')
-        print(f"Extracted {len(tv_data['remixmark'])} remixmark TV catalogue entries")
-    except:
-        print(f"Failed to extract for remixmark")
-        traceback.print_exc()
-
-    try:
-        film_data['mikejl'] = extract_from_repo('.input/mikejl/xml/', 'Movies', 'film', 'mikejl')
-        print(f"Extracted {len(film_data['mikejl'])} mikejl film catalogue entries")
-        tv_data['mikejl'] = extract_from_repo('.input/mikejl/xml/', 'TV', 'TV', 'mikejl')
-        print(f"Extracted {len(tv_data['mikejl'])} mikejl TV catalogue entries")
-    except:
-        print(f"Failed to extract for mikejl")
-        traceback.print_exc()
-
-    json_catalogue: list[dict] = []
+    retained_rows = retrieve_retained_rows(['aron7awol', 'mobe1969'])
+    json_catalogue = retrieve_retained_catalogue(['aron7awol', 'mobe1969'])
     pages_touched: list[str] = []
+    assumed_touched: set[str] = set()
+    for e in json_catalogue:
+        doc_page = f"docs/{e['catalogue_url'][46:]}"
+        hash_idx = doc_page.find("/#")
+        if hash_idx > -1:
+            doc_page = doc_page[0:hash_idx]
+        if doc_page[-1] == '/':
+            doc_page = doc_page[0:-1]
+        assumed_touched.add(f'{doc_page}.md')
+    pages_touched.extend(assumed_touched)
+
+    print(f"Retained {len(retained_rows)} csv entries, {len(json_catalogue)} json entries and {len(pages_touched)} touched pages")
 
     with open('docs/database.csv', 'w+', newline='') as db_csv:
         db_writer = csv.writer(db_csv)
         db_writer.writerow(['Title', 'Year', 'Format', 'Author', 'AVS', 'Catalogue', 'blu-ray.com', 'filters'])
-        index_entries = []
-        process_aron7awol_content_from_repo(aron7awol_films, index_entries, 'film', pages_touched)
-        process_aron7awol_content_from_repo(aron7awol_tv, index_entries, 'TV', pages_touched)
-        with open('docs/aron7awol.md', mode='w+') as index_md:
-            print('---', file=index_md)
-            print('search:', file=index_md)
-            print('  exclude: true', file=index_md)
-            print('---', file=index_md)
-            print('', file=index_md)
-            print(f"# aron7awol", file=index_md)
-            print('', file=index_md)
-            print(f"| Title | Type | Year | Format | Multiformat? | Links |", file=index_md)
-            print(f"|-|-|-|-|-|-|", file=index_md)
-            for i in sorted(index_entries, key=str.casefold):
-                print(i, file=index_md)
+        for r in retained_rows:
+            db_writer.writerow(r)
 
-        for author in ['mobe1969', 'halcyon888', 't1g8rsfan', 'kaelaria', 'remixmark', 'mikejl']:
+        for author in all_authors:
             index_entries = []
             page_titles = process_content_from_repo(author, film_data[author], index_entries, 'film', pages_touched)
             if author in tv_data:
