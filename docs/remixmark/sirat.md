@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2025 • 1h 54m • Drama, Thriller • remixmark**
+**2025 • 1h 54m • Spanish • Drama, Thriller • remixmark**
 
 A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.
 { data-search-exclude }
