@@ -1,6 +1,6 @@
 # Primitive War
 
-## DD+
+## DD+, DTS-HD MA 5.1
 
 **2025 • 2h 15m • Action, Horror, War • kaelaria**
 
