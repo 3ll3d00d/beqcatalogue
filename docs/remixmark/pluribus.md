@@ -122,3 +122,23 @@ Dialnorm Compensation: 3dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/PLUR1BUS%20(2025)%20-%20S01E06%20(%2B7.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 01E07
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +2.5 dB
+
+Dialnorm Compensation: 3dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1688?post_id=64353508#post-64353508)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/PLUR1BUS%20(2025)%20-%20S01E07%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/PLUR1BUS%20(2025)%20-%20S01E07%20(%2B2.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
