@@ -226,3 +226,20 @@ Dialnorm Compensation: 7dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Landman%20(2024)%20-%20S02E03%20(%2B2.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## Season 02E04
+
+* DD+
+
+
+**MV Adjustment:** +0.5 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1689?post_id=64356574#post-64356574)
+
+* Production Year: 2024
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Landman%20(2024)%20-%20S02E04%20(%2B.5%20gain)%20DD%2B.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Landman%20(2024)%20-%20S02E04%20(%2B.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
+
