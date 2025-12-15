@@ -2,6 +2,19 @@
 
 * Author: mikejl
 
+## Season 01
+
+* DD+
+
+
+* Production Year: 2018
+
+
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/Y/Yellowstone/Yellowstone%20S01E01-09%20(2018)%202K%20DD%2B%205.1.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/Y/Yellowstone/Yellowstone%20S01E01-09%20(2018)%202K%20DD%2B%205.1hm.jpg)
+
 ## Season 02
 
 * DD+
