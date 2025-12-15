@@ -1,6 +1,6 @@
 # The Old Woman with the Knife
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
 **2025 • 2h 3m • Korean • Action, Mystery, Drama • mikejl**
 
@@ -10,7 +10,7 @@ Aging assassin Hornclaw has seen it all, but she never expected to mentor a reck
 [TMDB](https://www.themoviedb.org/movie/1247002)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Old%20Woman%20With%20The%20Knife/The%20Old%20Woman%20With%20The%20Knife%20(2025)%20(ko)%20DD%2B%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Old%20Woman%20With%20The%20Knife/The%20Old%20Woman%20with%20the%20Knife%20(2025)%20(ko)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Old%20Woman%20With%20The%20Knife/The%20Old%20Woman%20With%20The%20Knife%20(2025)%20(ko)%20DD%2B%205.1hm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Old%20Woman%20With%20The%20Knife/The%20Old%20Woman%20with%20the%20Knife%20(2025)%20(ko)%20DTS-HD%20MA%205.1hm.jpg)
 
