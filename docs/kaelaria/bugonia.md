@@ -1,6 +1,6 @@
 # Bugonia
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 1h 59m • Science Fiction, Crime, Thriller • kaelaria**
 
