@@ -1,6 +1,6 @@
 # Companion
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 1h 37m • Horror, Science Fiction, Thriller • kaelaria**
 
