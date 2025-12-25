@@ -13,5 +13,5 @@
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Pluribus%20(2025)%20S01%20DD%2B%20Atmos.jpg)
 
 
-![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Pluribus%20(2025)%20S01%20DD%2B%20Atmosc.jpg)
+![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Pluribus%20(2025)%20S01%20DD%2B%20Atmoshm.jpg)
 
