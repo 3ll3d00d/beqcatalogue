@@ -62,8 +62,8 @@
 * Production Year: 2016
 
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Stranger%20Things/Stranger%20Things%20S05E01-04%20(2016)DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Stranger%20Things/Stranger%20Things%20S05E01-07%20(2016)%20DD%2B%20Atmos.jpg)
 
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Stranger%20Things/Stranger%20Things%20S05E01-04%20(2016)DD%2B%20Atmoshm.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Stranger%20Things/Stranger%20Things%20S05E01-07%20(2016)%20DD%2B%20Atmoshm.jpg)
 
