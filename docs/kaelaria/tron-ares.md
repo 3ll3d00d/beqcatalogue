@@ -1,6 +1,6 @@
 # TRON: Ares
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • PG-13 • 1h 59m • Science Fiction, Adventure, Action • kaelaria**
 
