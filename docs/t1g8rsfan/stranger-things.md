@@ -2,7 +2,7 @@
 
 * Author: t1g8rsfan
 
-## Season 5E1-4
+## Season 5E1-7
 
 * DD+ Atmos
 
@@ -15,5 +15,5 @@
 * Production Year: 2025
 
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Stranger%20Things%20S5E1-4%20(-1%20gain)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Stranger%20Things%20S5E1-7%20(-1%20gain)%20DD%2B%20Atmos.jpg)
 
