@@ -1,6 +1,6 @@
 # The Smashing Machine
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 2h 3m • History, Drama • kaelaria**
 
