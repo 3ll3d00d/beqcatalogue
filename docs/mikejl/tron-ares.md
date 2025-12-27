@@ -1,6 +1,6 @@
 # TRON: Ares
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • PG-13 • 1h 59m • Science Fiction, Adventure, Action • mikejl**
 
@@ -10,7 +10,7 @@ A highly sophisticated Program called Ares is sent from the digital world into t
 [TMDB](https://www.themoviedb.org/movie/533533)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Tron/Tron%20-%20Ares%20(2025)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Tron/Tron%20Ares%20(2025)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Tron/Tron%20-%20Ares%20(2025)%20DD%2B%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Tron/Tron%20Ares%20(2025)%20Atmoshm.jpg)
 
