@@ -12,5 +12,5 @@ Salvatore "Sal" Fragione is the Italian owner of a pizzeria in Brooklyn. A neigh
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Do%20the%20Right%20Thing/Do%20the%20Right%20Thing%20(1989)%20DTS-X.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Do%20the%20Right%20Thing/Do%20the%20Right%20Thing%20(1989)%20DTS-X.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Do%20the%20Right%20Thing/Do%20the%20Right%20Thing%20(1989)%20DTS-Xhm.jpg)
 
