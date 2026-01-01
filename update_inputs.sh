@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 authors=(
     halcyon888
@@ -47,10 +47,15 @@ do
     pushd "${p}" || exit
   fi
 
-  DIFF_INC='*BEQ*'
-  [[ ${authors[${i}]}"" == kaelaria ]] && DIFF_INC='tv\/ movies\/'
+#  DIFF_INC='*BEQ*'
+#  [[ ${authors[${i}]}"" == kaelaria ]] && DIFF_INC="tv\/ movies\/"
   [[ -z ${M_SHA} ]] && DIFF_RANGE=$(git hash-object -t tree /dev/null) || DIFF_RANGE="${M_SHA}"..HEAD
-  git diff --name-only -z "${DIFF_RANGE}" -- "${DIFF_INC}"| xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > ../../../meta/"${authors[${i}]}".diff
+  if [[ ${authors[${i}]}"" == kaelaria ]]
+  then
+    git diff --name-only -z "${DIFF_RANGE}" -- tv\/ movies\/ | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > ../../../meta/"${authors[${i}]}".diff
+  else
+    git diff --name-only -z "${DIFF_RANGE}" -- *BEQ* | xargs -0 -I{} -- git  log  -1 --format="\"{}\",%at" {} | sort > ../../../meta/"${authors[${i}]}".diff
+  fi
   git rev-parse HEAD > ../../../meta/"${authors[${i}]}".sha
 
   popd || exit
