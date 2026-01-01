@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-+12dB Dialnorm Compensation
++7dB Dialnorm Compensation
 { data-search-exclude }
 
 * Production Year: 2025
