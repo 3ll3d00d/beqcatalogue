@@ -56,3 +56,23 @@ Dialnorm Compensation: 06-6dB, 07-5dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Stranger%20Things%20(2016)%20S05E06%2607%20(-1%20gain)%20DD%2B%20Atmos.jpg)
 
+## Season 05E08
+
+* DD+ Atmos
+
+
+**MV Adjustment:** -2.5 dB
+
+Dialnorm Comensation: 5dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1697?post_id=64387339#post-64387339)
+
+* Production Year: 2016
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Stranger%20Things%20(2016)%20-%20S05E08%20(-2.5%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Stranger%20Things%20(2016)%20-%20S05E08%20(-2.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+

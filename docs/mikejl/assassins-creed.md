@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**2026 • PG-13 • 1h 56m • Action, Adventure, Science Fiction • mikejl**
+**2016 • PG-13 • 1h 56m • Action, Adventure, Science Fiction • mikejl**
 
 Through a technology that unlocks the generic memories of his ancestor in 15th century Spain, Callum Lynch discovers he is a descendant of an ancient line of Assassins and amasses lethal skills to take on the oppressive Templar Order.
 { data-search-exclude }
