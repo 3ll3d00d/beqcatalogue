@@ -10,7 +10,7 @@ Cast out from his clan, a young Predator finds an unlikely ally in a damaged and
 [TMDB](https://www.themoviedb.org/movie/1242898)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Predator%20-%20Badlands/Predator%20-%20Badlands%20(%202025)%20DD%2B%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Predator%20-%20Badlands/Predator%20-%20Badlands%20(2025)%20DD%2B%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Predator%20-%20Badlands/Predator%20-%20Badlands%20(%202025)%20DD%2B%205.1hm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Predator%20-%20Badlands/Predator%20-%20Badlands%20(2025)%20DD%2B%205.1hm.jpg)
 
