@@ -1,6 +1,6 @@
 # TRON: Legacy
 
-## Atmos
+## Atmos, DD+ Atmos
 
 **2010 • PG • 2h 6m • Adventure, Action, Science Fiction • mikejl**
 
