@@ -1,6 +1,6 @@
 # One Battle After Another
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 2h 42m • Action, Thriller, Crime • kaelaria**
 
