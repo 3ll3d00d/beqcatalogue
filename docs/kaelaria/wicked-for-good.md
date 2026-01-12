@@ -1,6 +1,6 @@
 # Wicked: For Good
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • PG • 2h 17m • Fantasy, Adventure, Romance • kaelaria**
 
