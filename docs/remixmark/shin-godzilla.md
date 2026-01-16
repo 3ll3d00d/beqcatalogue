@@ -1,6 +1,6 @@
 # Shin Godzilla
 
-## DTS-HD MA 3.1 TrueHD 3.1
+## DTS-HD MA 3.1, TrueHD 3.1
 
 **2016 • PG-13 • 2h 0m • Japanese • Action, Science Fiction, Horror • remixmark**
 
