@@ -1,6 +1,6 @@
 # Sonic the Hedgehog 3
 
-## TrueHD Atmos, DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG • 1h 50m • Action, Science Fiction, Comedy, Family • kaelaria**
 

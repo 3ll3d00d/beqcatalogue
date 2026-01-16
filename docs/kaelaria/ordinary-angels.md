@@ -1,6 +1,6 @@
 # Ordinary Angels
 
-## TrueHD Atmos, DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2024 • PG • 1h 58m • Drama • kaelaria**
 
