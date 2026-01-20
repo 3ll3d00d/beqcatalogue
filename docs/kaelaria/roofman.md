@@ -1,6 +1,6 @@
 # Roofman
 
-## DD+
+## DD+, TrueHD 5.1
 
 **2025 • R • 2h 6m • Comedy, Drama, Crime • kaelaria**
 
