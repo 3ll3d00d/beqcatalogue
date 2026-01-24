@@ -9,6 +9,9 @@ A trio of guys try and make up for missed opportunities in childhood by forming 
 
 **MV Adjustment:** +2.5 dB
 
+Dialnorm Compensation: 4dB
+{ data-search-exclude }
+
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1704?post_id=64434592#post-64434592)  [TMDB](https://www.themoviedb.org/movie/9957)
 { data-search-exclude }
 
