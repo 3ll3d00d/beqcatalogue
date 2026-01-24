@@ -14,5 +14,5 @@
 * Production Year: 2024
 
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Those%20About%20to%20Die%20S1%20(%2B2.5%20gain)%20DD%2B.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Those%20About%20to%20Die%20S1%20(%2B2.5%20gain)%20DD%2B.jpg)
 
