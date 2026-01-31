@@ -162,3 +162,23 @@ Dialnorm Compenation: 6dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Spartacus%20(2025)%20-%20House%20of%20Ashur%20-%20S01E08%20(%2B2%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 01E09
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +3.5 dB
+
+Dialnorm Compensation: 6dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1706?post_id=64446438#post-64446438)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Spartacus%20-%20House%20of%20Ashur%20(2025)%20-%20S01E08%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Spartacus%20-%20House%20of%20Ashur%20(2025)%20-%20S01E08%20(%2B2%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
