@@ -26,6 +26,8 @@ def cleanse_audio_types(audio_types: list[str]) -> list[str]:
             audio_type = audio_type.replace('DTS-HD-MA ', 'DTS-HD MA ')
         elif audio_type.startswith('DTS-HD.MA '):
             audio_type = audio_type.replace('DTS-HD.MA ', 'DTS-HD MA ')
+        elif audio_type.startswith('DTS-HD.MA.'):
+            audio_type = audio_type.replace('DTS-HD.MA.', 'DTS-HD MA ')
         elif audio_type.endswith('_to_mono'):
             audio_type = audio_type[0:-8]
         elif audio_type.endswith('_s1_5.1'):
@@ -42,7 +44,7 @@ def cleanse_audio_types(audio_types: list[str]) -> list[str]:
             audio_type = 'DTS-HD MA 5.1'
         return audio_type
 
-    return [replace(at) for at in audio_types]
+    return [replace(at.strip()) for ats in audio_types for at in ats.split(',')]
 
 
 def parse_audio_format(format_string: str) -> tuple[str, str]:
