@@ -20,6 +20,24 @@ from iir import xml_to_filt
 TWO_WEEKS_AGO = time.time() - (2 * 7 * 24 * 60 * 60)
 
 
+def cleanse_audio_types(audio_types: list[str]) -> list[str]:
+    def replace(audio_type: str) -> str:
+        if audio_type.startswith('DTS-HD-MA '):
+            audio_type = audio_type.replace('DTS-HD-MA ', 'DTS-HD MA ')
+        elif audio_type.startswith('DTS-HD.MA '):
+            audio_type = audio_type.replace('DTS-HD.MA ', 'DTS-HD MA ')
+        elif audio_type.endswith('_to_mono'):
+            audio_type = audio_type[0:-8]
+        elif audio_type.endswith('_s1_5.1'):
+            audio_type = audio_type[0:-7]
+        elif audio_type.startswith('DTS-X'):
+            audio_type = audio_type.replace('DTS-X', 'DTS:X')
+        elif audio_type == 'DTS-X HR':
+            audio_type = 'DTS-HD HR'
+        return audio_type
+
+    return [replace(at) for at in audio_types]
+
 def extract_from_repo(path1: str, path2: str, content_type: str, author: str):
     '''
     extracts beq_metadata of following format
@@ -89,7 +107,8 @@ def extract_from_repo(path1: str, path2: str, content_type: str, author: str):
                                     meta[m.tag[4:]] = m.text
                         elif m.tag == 'beq_audioTypes':
                             audio_types = [c.text.strip() for c in m if c.text]
-                            meta['audioType'] = [at for at in audio_types if at]
+                            audio_types = [at.strip() for ats in audio_types for at in ats.split(sep=',') if at]
+                            meta['audioType'] = cleanse_audio_types(audio_types)
                         elif m.tag == 'beq_season':
                             parse_season(m, meta, xml)
                         elif m.tag == 'beq_genres':
