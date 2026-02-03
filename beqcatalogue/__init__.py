@@ -33,10 +33,33 @@ def cleanse_audio_types(audio_types: list[str]) -> list[str]:
         elif audio_type.startswith('DTS-X'):
             audio_type = audio_type.replace('DTS-X', 'DTS:X')
         elif audio_type == 'DTS-X HR':
-            audio_type = 'DTS-HD HR'
+            audio_type = 'DTS:X HR'
+        elif audio_type == 'DD+5 1':
+            audio_type = 'DD+ 5.1'
+        elif audio_type == 'DD+Atmos':
+            audio_type = 'DD+ Atmos'
+        elif audio_type == 'DR+ 5.1':
+            audio_type = 'DTS-HD MA 5.1'
         return audio_type
 
     return [replace(at) for at in audio_types]
+
+
+def parse_audio_format(format_string: str) -> tuple[str, str]:
+    # Pattern: capture everything up to the channel count, then capture the channel count
+    # Channel count pattern: digits.digits or just standalone formats
+    pattern = r'^(.+?)\s*(\d+\.\d+|\d+\s+\d+)?(?:_.*)?$'
+
+    match = re.match(pattern, format_string)
+    if match:
+        codec = match.group(1).strip()
+        channel_count = match.group(2).strip() if match.group(2) else ""
+        # Normalize channel count format (e.g., "5 1" -> "5.1")
+        if channel_count and ' ' in channel_count:
+            channel_count = channel_count.replace(' ', '.')
+        return (codec, channel_count)
+    return (format_string, "")
+
 
 def extract_from_repo(path1: str, path2: str, content_type: str, author: str):
     '''
@@ -107,8 +130,7 @@ def extract_from_repo(path1: str, path2: str, content_type: str, author: str):
                                     meta[m.tag[4:]] = m.text
                         elif m.tag == 'beq_audioTypes':
                             audio_types = [c.text.strip() for c in m if c.text]
-                            audio_types = [at.strip() for ats in audio_types for at in ats.split(sep=',') if at]
-                            meta['audioType'] = cleanse_audio_types(audio_types)
+                            meta['audioType'] = [at for at in audio_types if at]
                         elif m.tag == 'beq_season':
                             parse_season(m, meta, xml)
                         elif m.tag == 'beq_genres':
@@ -816,6 +838,14 @@ if __name__ == '__main__':
                 for i in sorted(index_entries, key=str.casefold):
                     print(i, file=index_md)
                 print('', file=index_md)
+
+    for entry in json_catalogue:
+        audio_types = cleanse_audio_types(entry['audioTypes'])
+        entry['audioTypes'] = audio_types
+        if audio_types:
+            codec_channels = [parse_audio_format(at) for at in audio_types]
+            entry['audioCodec'] = [a[0] for a in codec_channels]
+            entry['audioChannelCounts'] = [a[1] for a in codec_channels]
 
     detect_duplicate_hashes()
     dump_audio_types(json_catalogue)
