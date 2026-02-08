@@ -846,8 +846,10 @@ if __name__ == '__main__':
         entry['audioTypes'] = audio_types
         if audio_types:
             codec_channels = [parse_audio_format(at) for at in audio_types]
-            entry['audioCodec'] = [a[0] for a in codec_channels]
+            entry['audioCodecs'] = [a[0] for a in codec_channels]
             entry['audioChannelCounts'] = [a[1] for a in codec_channels]
+        entry.pop('audioCodec', None)
+
 
     detect_duplicate_hashes()
     dump_audio_types(json_catalogue)
