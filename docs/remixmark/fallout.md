@@ -150,7 +150,7 @@ Dialnorm Compensation: 5dB
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1709?post_id=64455528#post-64455528)
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1711?post_id=64463133#post-64463133)
 
 * Production Year: 2024
 
