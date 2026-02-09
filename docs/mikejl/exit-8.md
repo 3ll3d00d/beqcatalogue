@@ -1,6 +1,6 @@
 # Exit 8
 
-## DD+
+## DD+ 7.1
 
 **2025 • 1h 35m • Japanese • Horror, Mystery • mikejl**
 
