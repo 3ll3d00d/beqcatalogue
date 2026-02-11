@@ -1,6 +1,6 @@
 # Exit 8
 
-## DD+ 7.1
+## DTS-HD MA 7.1, DD+ 7.1
 
 **2025 • 1h 35m • Japanese • Horror, Mystery • mikejl**
 
@@ -10,7 +10,7 @@ A man trapped in an endless sterile subway passageway sets out to find Exit 8. T
 [TMDB](https://www.themoviedb.org/movie/1408208)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/E/Exit%208/Exit%208%20(2025)%20(jp)%20DD%2B%207.1.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/E/Exit%208/Exit%208%20(2025)%20(jp)%20DTS-HD%20MA%207.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/E/Exit%208/Exit%208%20(2025)%20(jp)%20DD%2B%207.1hm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/E/Exit%208/Exit%208%20(2025)%20(jp)%20DTS-HD%20MA%207.1hm.jpg)
 
