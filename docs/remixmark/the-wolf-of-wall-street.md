@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**20.13 • R • 3h 0m • Crime, Drama, Comedy • remixmark**
+**2013 • R • 3h 0m • Crime, Drama, Comedy • remixmark**
 
 A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.
 { data-search-exclude }
