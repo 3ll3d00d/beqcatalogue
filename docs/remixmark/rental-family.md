@@ -19,3 +19,22 @@ Dialnorm Compensation: 4dB
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rental%20Family%20(2025)%20(%2B6.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+**2025 • PG-13 • 1h 50m • Comedy, Drama • remixmark**
+
+An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.
+{ data-search-exclude }
+
+**MV Adjustment:** +6.5 dB
+
+Dialnorm Compensation: 4dB
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/1208348)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rental%20Family%20(2025)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rental%20Family%20(2025)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
