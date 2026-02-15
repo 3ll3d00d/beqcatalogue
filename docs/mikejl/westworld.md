@@ -4,7 +4,7 @@
 
 UHD
 
-**19973 • PG • 1h 29m • Adventure, Science Fiction, Western • mikejl**
+**1973 • PG • 1h 29m • Adventure, Science Fiction, Western • mikejl**
 
 Delos is a futuristic amusement park that features themed worlds populated by human-like androids. After two patrons have a run-in with a menacing gunslinger in West World, the androids at Delos all begin to malfunction, causing havoc throughout the park.
 { data-search-exclude }
