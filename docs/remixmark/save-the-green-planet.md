@@ -2,7 +2,7 @@
 
 ## DTS-HD MA 5.1
 
-**20023 • 1h 57m • Korean • Comedy, Science Fiction, Crime • remixmark**
+**2003 • 1h 57m • Korean • Comedy, Science Fiction, Crime • remixmark**
 
 A young man believes that his country's leaders are actually toxic reptilian aliens sent down to launch a takeover of his beloved Earth. So he decides to abduct them and force the truth out on camera in his basement that doubles as a film studio and torture chamber.
 { data-search-exclude }
