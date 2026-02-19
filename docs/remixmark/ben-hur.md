@@ -16,3 +16,19 @@ In 26 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman emp
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Ben-Hur%20(1959)%20(-1%20gain)%20Atmos%20Peak%20Spectrum.jpg)
 
+## DD+ Atmos
+
+**1959 • 3h 32m • History, Drama, Adventure • remixmark**
+
+In 26 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.
+{ data-search-exclude }
+
+**MV Adjustment:** -0.5 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1714?post_id=64477823#post-64477823)  [TMDB](https://www.themoviedb.org/movie/665)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Ben-Hur%20(1959)%20(-.5%20gain)%20DD%2B%20Atmos.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Ben-Hur%20(1959)%20(-.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
