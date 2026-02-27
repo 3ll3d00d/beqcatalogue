@@ -36,3 +36,23 @@ Dialnorm Compensation: E01-04 & 05-10 5dB E05 6dB.
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Formula%201%20Drive%20to%20Survive%20(2019)%20S07%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)
 
+## Season 08E01
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +5.0 dB
+
+Dialnorm Compensation: 5dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1716?post_id=64490274#post-64490274)
+
+* Production Year: 2019
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Formula%201%20-%20Drive%20to%20Survive%20(2019)%20-%20S08E01%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Formula%201%20-%20Drive%20to%20Survive%20(2019)%20-%20S08E01%20(%2B5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
