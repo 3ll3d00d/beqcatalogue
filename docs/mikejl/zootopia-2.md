@@ -14,3 +14,17 @@ After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps an
 
 ![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/Z/Zootopia/Zootopia%202%20(2025)%204K%20HDR%20DD%2B%20Atmoshm.jpg)
 
+## DTS-HD MA 7.1
+
+**2025 • PG • 1h 48m • Animation, Comedy, Adventure, Family, Mystery • mikejl**
+
+After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/1084242)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/Z/Zootopia/Zootopia%202%20(2025)%202K%20DTS-HD%20MA%207.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/Z/Zootopia/Zootopia%202%20(2025)%202K%20DTS-HD%20MA%207.1hm.jpg)
+
