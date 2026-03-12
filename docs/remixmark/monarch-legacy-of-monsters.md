@@ -1,19 +1,42 @@
 # Monarch: Legacy of Monsters
 
-## DD+ Atmos
+* Author: remixmark
 
-**2023 • TV-14 • Sci-Fi & Fantasy, Drama, Action & Adventure • remixmark**
+## Season 02E01
 
-After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.
+* DD+ Atmos
+
+
+**MV Adjustment:** -1.0 dB
+
+Dialnorm Compensation: 4dB
 { data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1718?post_id=64493069#post-64493069)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Monarch%20-%20Legacy%20of%20Monsters%20(2023)%20-%20S02E01%20(-1%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Monarch%20-%20Legacy%20of%20Monsters%20(2023)%20-%20S02E01%20(-1%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 02E02
+
+* DD+ Atmos
+
 
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1720?post_id=64499984#post-64499984)  [TMDB](https://www.themoviedb.org/movie/202411)
-{ data-search-exclude }
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1720?post_id=64499984#post-64499984)
+
+* Production Year: 2023
+
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Monarch%20-%20Legacy%20of%20Monsters%20(2023)%20-%20S02E02%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Monarch%20-%20Legacy%20of%20Monsters%20(2023)%20-%20S02E02%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Monarch%20-%20Legacy%20of%20Monsters%20(2023)%20-%20S02E02%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
