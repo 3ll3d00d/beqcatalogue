@@ -1,16 +1,17 @@
 # Hijack
 
-## DD+ Atmos
+* Author: mikejl
 
-**2023 • TV-MA • Drama • mikejl**
+## Season 02
 
-Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.
-{ data-search-exclude }
+* DD+ Atmos
 
-[TMDB](https://www.themoviedb.org/movie/198102)
-{ data-search-exclude }
+
+* Production Year: 2023
+
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hijack/Hijack%20S02E01-08%20(2023)%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hijack/Hijack%20S02E01-08%20(2023)%20DD%2B%20Atmoshm.jpg)
+
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hijack/Hijack%20S02E01-08%20(2023)%20DD%2B%20Atmoshm.jpg)
 
