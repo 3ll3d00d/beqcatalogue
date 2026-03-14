@@ -31,7 +31,7 @@ Jack's got a blood debt to pay: he owes his soul to the legendary Davy Jones, gh
 [TMDB](https://www.themoviedb.org/movie/58)
 { data-search-exclude }
 
-![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/Pirates%20of%20the%20Caribbean%20-%20Dead%20Man's%20Chest%20(2006)%20LPCM5.1%20PvA.jpg)
+![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/Pirates%20of%20the%20Caribbean%20-%20Dead%20Mans%20Chest%20(2006)%20LPCM5.1%20PvA.jpg)
 
-![img 3](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/Pirates%20of%20the%20Caribbean%20-%20Dead%20Man's%20Chest%20(2006)%20LPCM5.1%20peak%20spectrum.png)
+![img 3](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/Pirates%20of%20the%20Caribbean%20-%20Dead%20Mans%20Chest%20(2006)%20LPCM5.1%20peak%20spectrum.png)
 
