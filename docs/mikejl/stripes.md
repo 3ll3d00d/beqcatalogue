@@ -4,7 +4,7 @@
 
 Extended
 
-**1981 • R • 1h 46m • Action, Comedy • mikejl**
+**1981 • R • 2h 2m • Action, Comedy • mikejl**
 
 Hard-luck cabbie John Winger, directionless after being fired from his job and dumped by his girlfriend, enlists in the U.S. Army with his close pal, Russell Ziskey. After his barely satisfactory performance in basic training, the irreverent Winger emerges as the figurehead for a ragtag band of misfits. However, his hijinks threaten to cause an international scandal when he inadvertently commandeers a military assault vehicle behind enemy lines.
 { data-search-exclude }
