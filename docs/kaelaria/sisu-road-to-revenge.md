@@ -1,6 +1,6 @@
 # Sisu: Road to Revenge
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 1h 29m • Action, War • kaelaria**
 
