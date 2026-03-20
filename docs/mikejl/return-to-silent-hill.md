@@ -14,3 +14,17 @@ When James receives a mysterious letter from his lost love Mary, he is drawn to 
 
 ![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Return%20to%20Silent%20Hill/Return%20to%20Silent%20Hill%20(2026)%20DD%2B%205.1hm.jpg)
 
+## DTS-HD MA 5.1
+
+**2026 • R • 1h 46m • Mystery, Drama, Horror • mikejl**
+
+When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/680493)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Return%20to%20Silent%20Hill/Return%20to%20Silent%20Hill%20(2026)%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Return%20to%20Silent%20Hill/Return%20to%20Silent%20Hill%20(2026)%20DTS-HD%20MA%205.1hm.jpg)
+
