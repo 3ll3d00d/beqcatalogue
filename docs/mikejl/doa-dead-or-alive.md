@@ -1,6 +1,6 @@
 # DOA: Dead or Alive
 
-## DTS-HD MA 5.1
+## DD+
 
 **2006 • 1h 27m • Adventure, Action, Thriller • mikejl**
 
@@ -10,7 +10,7 @@ Four beautiful rivals at an invitation-only martial-arts tournament join forces 
 [TMDB](https://www.themoviedb.org/movie/9053)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/DOA%20-%20Dead%20or%20Alive/DOA%20-%20Dead%20or%20Alive%20(2006)%20DTS-HD%20MA%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/DOA%20-%20Dead%20or%20Alive/DOA%20-%20Dead%20or%20Alive%20(2006)%20DD%2B%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/DOA%20-%20Dead%20or%20Alive/DOA%20-%20Dead%20or%20Alive%20(2006)%20DTS-HD%20MA%205.1hm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/DOA%20-%20Dead%20or%20Alive/DOA%20-%20Dead%20or%20Alive%20(2006)%20DD%2B%205.1hm.jpg)
 
