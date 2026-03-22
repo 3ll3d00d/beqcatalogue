@@ -10,7 +10,7 @@ A man claiming to be from the future takes the patrons of an iconic Los Angeles 
 [TMDB](https://www.themoviedb.org/movie/1119449)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die%20(2025)%20DD%2B%20Atmos%20PvA.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Good%20Luck%20Have%20Fun%20Dont%20Die%20(2025)%20DD%2B%20Atmos%20PvA.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die%20(2025)%20DD%2B%20Atmos.jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Good%20Luck%20Have%20Fun%20Dont%20Die%20(2025)%20DD%2B%20Atmos.jpg)
 
