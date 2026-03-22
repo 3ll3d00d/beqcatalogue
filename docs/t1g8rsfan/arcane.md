@@ -18,7 +18,7 @@
 
 ## Season 2
 
-* Atmos
+* Atmos, DD+Atmos
 
 
 **MV Adjustment:** +0.5 dB
