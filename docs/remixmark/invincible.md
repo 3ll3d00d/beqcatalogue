@@ -45,3 +45,17 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Invincible%20(2021)%20-%20S04E01-03%20(%2B5%20gain)%20DD%2B.jpg)
 
+## Season 04E01-04
+
+* DD+
+
+
+**MV Adjustment:** +5.0 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1726?post_id=64531314#post-64531314)
+
+* Production Year: 2021
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Invincible%20(2021)%20-%20S04E01-04%20(%2B5%20gain)%20DD%2B.jpg)
+
