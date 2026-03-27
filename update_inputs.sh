@@ -6,7 +6,7 @@ authors=(
     kaelaria
     remixmark
     mikejl
-#    bombaycat007
+    bombaycat007
 )
 dirs=(
     miniDSPBEQ
@@ -14,7 +14,7 @@ dirs=(
     Beq1
     miniDSPBEQ
     xml
-#    miniDSPBEQ
+    miniDSPBEQ
 )
 repoAuthors=(
     halcyon-888
@@ -22,7 +22,7 @@ repoAuthors=(
     kaelaria
     remixmark
     MikejLarson
-#    BombayCat007
+    BombayCat007
 )
 repoNames=(
     miniDSPBEQ
@@ -30,7 +30,7 @@ repoNames=(
     Beq1
     miniDSPBEQ
     xml
-#    miniDSPBEQ
+    miniDSPBEQ
 )
 for i in "${!authors[@]}"
 do

@@ -1,8 +1,8 @@
 site_name: BEQCatalogue
 site_url: !ENV READTHEDOCS_CANONICAL_URL
-copyright: 'Copyright &copy; 2024 3ll3d00d / aron7awol / mobe1969 / halcyon888 / t1g8rsfan / remixmark'
+copyright: 'Copyright &copy; 2026 3ll3d00d / aron7awol / mobe1969 / halcyon888 / t1g8rsfan / remixmark / mikejl / bombaycat007'
 theme:
-  name: 'material'
+  name: 'materialx'
   logo: 'img/icon.png'
   favicon: 'img/icon.ico'
   custom_dir: overrides
@@ -13,6 +13,10 @@ theme:
     - search.highlight
     - search.share
   palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
@@ -44,6 +48,7 @@ nav:
   - kaelaria: kaelaria.md
   - remixmark: remixmark.md
   - mikejl: mikejl.md
+  - bombaycat007: bombaycat007.md
 plugins:
   - search
   # - social
