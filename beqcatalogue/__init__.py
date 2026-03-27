@@ -780,8 +780,7 @@ if __name__ == '__main__':
         ('kaelaria', '.input/kaelaria/Beq1/', 'movies', 'tv'),
         ('remixmark', '.input/remixmark/miniDSPBEQ/', 'Movie BEQs', 'TV BEQs'),
         ('mikejl', '.input/mikejl/xml/', 'Movies', 'TV'),
-        # enable when metadata is added
-        ('bombaycat007', '.input/bombaycat007/miniDSPBEQ/', 'Movie BEQs', 'TV BEQs')
+        ('bombaycat007', '.input/bombaycat007/miniDSPBEQ/', 'Movie BEQs', 'TV BEQS')
     ]
 
     all_authors = [a[0] for a in repo_configs]
