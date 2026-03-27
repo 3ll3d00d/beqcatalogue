@@ -7,6 +7,7 @@
 * [kaelaria](./kaelaria.md)
 * [remixmark](./remixmark.md)
 * [mikejl](./mikejl.md)
+* [bombaycat007](./bombaycat007.md)
 
 ## RSS
 
