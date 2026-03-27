@@ -1,1 +1,1 @@
-mkdocs-material[imaging]>=9.6.18
+mkdocs-materialx[imaging]>=10.1.0
