@@ -1,6 +1,6 @@
 # Pink Floyd: The Wall
 
-## LPCM 5.1
+## LPCM 2.0
 
 DVD
 
