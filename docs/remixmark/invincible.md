@@ -31,3 +31,17 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Invincible%20(2021)%20-%20S03E08%20DD%2B%20Peak%20Spectrum.jpg)
 
+## Season 04E01-05
+
+* DD+
+
+
+**MV Adjustment:** +5.0 dB
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1730?post_id=64550154#post-64550154)
+
+* Production Year: 2021
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Invincible%20(2021)%20S04E01-05%20DD%2B.jpg)
+
