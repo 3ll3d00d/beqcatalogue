@@ -31,7 +31,7 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Invincible%20(2021)%20-%20S03E08%20DD%2B%20Peak%20Spectrum.jpg)
 
-## Season 04E01-05
+## Season 04E01-06
 
 * DD+
 
@@ -43,5 +43,5 @@
 * Production Year: 2021
 
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Invincible%20(2021)%20S04E01-05%20DD%2B.jpg)
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Invincible%20(2021)%20S04%20DD%2B.jpg)
 
