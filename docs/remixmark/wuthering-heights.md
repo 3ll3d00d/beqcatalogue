@@ -1,4 +1,4 @@
-# "Wuthering Heights"
+# Wuthering Heights
 
 ## DD+ Atmos
 
