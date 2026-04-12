@@ -141,6 +141,12 @@ def extract_from_repo(path1: str, path2: str, content_type: str, author: str):
             filts = [f for f in xml_to_filt(xml, unroll=True)]
             meta['jsonfilters'] = [f.to_map() for f in filts]
             meta['filters'] = '^'.join([str(f) for f in filts])
+            title = meta['title']
+            if title[0] == '"':
+                title = title[1:]
+            if title[-1] == '"':
+                title = title[:-1]
+            meta['title'] = title
             suffix = get_title_suffix(meta)
             page_title = f"{meta['title']}_{suffix}" if suffix else meta['title']
             meta['page_title'] = page_title.casefold()
