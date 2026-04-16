@@ -16,3 +16,19 @@ A man living in self-imposed exile on a remote island rescues a young girl from 
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Shelter%20(2026).%20(%2B1%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## TrueHD 5.1
+
+**2026 • R • 1h 47m • Action, Crime, Thriller • remixmark**
+
+A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.
+{ data-search-exclude }
+
+**MV Adjustment:** +3.5 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1732?post_id=64563350#post-64563350)  [TMDB](https://www.themoviedb.org/movie/1290821)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Shelter%20(2026)%20(%2B3.5%20gain)%20TrueHD%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Shelter%20(2026)%20(%2B3.5%20gain)%20TrueHD%205.1%20Peak%20Spectrum.jpg)
+
