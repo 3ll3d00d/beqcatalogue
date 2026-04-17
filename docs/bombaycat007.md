@@ -7,6 +7,7 @@ search:
 
 | Title | Type | Year | Format | Multiformat? | Links |
 |-|-|-|-|-|-|
+| [Aimee Mann - Charmer](./bombaycat007/aimee-mann-charmer.md) | film | 2012 | AAC 2.0 | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=Aimee%20Mann%20-%20Charmer&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/search?query=Aimee%20Mann%20-%20Charmer) [rottentoms](https://www.rottentomatoes.com/search?search=Aimee%20Mann%20-%20Charmer) |
 | [Aimee Mann: Live at St. Ann's Warehouse](./bombaycat007/aimee-mann-live-at-st-anns-warehouse.md) | film | 2004 | LPCM 2.0 | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=Aimee%20Mann%3A%20Live%20at%20St.%20Ann%27s%20Warehouse&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/58297) [rottentoms](https://www.rottentomatoes.com/search?search=Aimee%20Mann%3A%20Live%20at%20St.%20Ann%27s%20Warehouse) |
 | [Amadeus](./bombaycat007/amadeus.md) | film | 1984 | DTS-HD MA 5.1 | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=Amadeus&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/279) [rottentoms](https://www.rottentomatoes.com/search?search=Amadeus) |
 | [Barry Lyndon](./bombaycat007/barry-lyndon.md) | film | 1975 | DTS-HD MA 5.1 | No |  [blu-ray](https://www.blu-ray.com/movies/search.php?keyword=Barry%20Lyndon&submit=Search&action=search&) [themoviedb](https://www.themoviedb.org/movie/3175) [rottentoms](https://www.rottentomatoes.com/search?search=Barry%20Lyndon) |
