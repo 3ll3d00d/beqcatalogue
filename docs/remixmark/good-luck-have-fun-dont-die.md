@@ -1,8 +1,24 @@
 # Good Luck, Have Fun, Don't Die
 
+## Atmos
+
+**2025 • R • 2h 14m • Science Fiction, Action, Comedy • remixmark**
+
+A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.
+{ data-search-exclude }
+
+**MV Adjustment:** -0.5 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1733?post_id=64566244#post-64566244)  [TMDB](https://www.themoviedb.org/movie/1119449)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die%20(2026)%20(-.5%20gain)%20Atmos.jpg)
+
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die%20(2026)%20(-.5%20gain)%20Atmos%20Peak%20Spectrum.jpg)
+
 ## DD+ Atmos
 
-**2026 • R • 2h 14m • Action, Science Fiction, Adventure • remixmark**
+**2025 • R • 2h 14m • Action, Science Fiction, Adventure • remixmark**
 
 A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.
 { data-search-exclude }
@@ -13,7 +29,7 @@ Dialnorm Compensation:4dB
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1721?post_id=64507143#post-64507143)  [TMDB](https://www.themoviedb.org/movie/1119449)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die%20(2026)%20DD%2B%20Atmos.jpg)
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die%20(2026)%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die%20(2026)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die%20(2026)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
