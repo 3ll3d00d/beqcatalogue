@@ -62,6 +62,26 @@ Dialnorm Compensation: 5dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Boys%20(2019)%20-%20S05E03%20(%2B3%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 05E04
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +3.5 dB
+
+Dialnorm Compensation: 5dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1734?post_id=64573156#post-64573156)
+
+* Production Year: 2019
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Boys%20(2019)%20-%20S05E04%20(%2B3.5%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Boys%20(2019)%20-%20S05E04%20(%2B3.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
 ## Season 4E1
 
 * DD+
