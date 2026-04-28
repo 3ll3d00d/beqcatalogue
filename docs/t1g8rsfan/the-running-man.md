@@ -1,6 +1,6 @@
 # The Running Man
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • R • 2h 13m • Action, Thriller, Science Fiction • t1g8rsfan**
 
@@ -9,7 +9,7 @@ Desperate to save his sick daughter, working-class Ben Richards is convinced by 
 
 **MV Adjustment:** +3.0 dB
 
-+5dB Dialnorm Compensation
++5dB Dialnorm Compensation - DD+ Atmos (iTunes)
 { data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/798645)
