@@ -1,6 +1,6 @@
 # Anaconda
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2026 • PG-13 • 1h 40m • Adventure, Comedy, Horror • t1g8rsfan**
 
@@ -9,7 +9,7 @@ A group of friends facing mid-life crises head to the rainforest with the intent
 
 **MV Adjustment:** +4.5 dB
 
-+4dB Dialnorm Compensation
++4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/1234731)
