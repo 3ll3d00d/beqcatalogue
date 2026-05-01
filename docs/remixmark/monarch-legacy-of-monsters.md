@@ -180,3 +180,23 @@ Dialnorm Compensation:4dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Monarch%20-%20Legacy%20of%20Monsters%20(2023)%20(%2B2%20gain)%20-%20S02E09%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 02E10
+
+* DD+ Atmos
+
+
+**MV Adjustment:** -1.5 dB
+
+Dialnorm Compensation: 5dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1736?post_id=64589281#post-64589281)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Monarch%20-%20Legacy%20of%20Monsters%20(2023)%20-%20S02E10%20(-1.5%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Monarch%20-%20Legacy%20of%20Monsters%20(2023)%20-%20S02E10%20(-1.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
