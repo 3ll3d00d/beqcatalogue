@@ -1,6 +1,6 @@
 # Ready or Not 2: Here I Come
 
-## DD+
+## DD+ Atmos, DD+
 
 **2026 • R • 1h 48m • Horror, Comedy • mikejl**
 
@@ -10,7 +10,7 @@ Moments after surviving an all-out attack from the Le Domas family, Grace discov
 [TMDB](https://www.themoviedb.org/movie/1266127)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Ready%20or%20Not/Ready%20or%20Not%202%20-%20Here%20I%20Come%20(2026)%20DD%2B%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Ready%20or%20Not/Ready%20or%20Not%202%20-%20Here%20I%20Come%20(2026)%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Ready%20or%20Not/Ready%20or%20Not%202%20-%20Here%20I%20Come%20(2026)%20DD%2B%205.1hm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Ready%20or%20Not/Ready%20or%20Not%202%20-%20Here%20I%20Come%20(2026)%20DD%2B%20Atmoshm.jpg)
 
