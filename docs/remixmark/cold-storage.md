@@ -16,3 +16,19 @@ When a mutating, highly contagious fungus escapes a sealed facility, two young e
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cold%20Storage%20(2026)%20(%2B2%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+**2026 • R • 1h 39m • Horror, Science Fiction, Comedy • remixmark**
+
+When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction.
+{ data-search-exclude }
+
+**MV Adjustment:** +8.0 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1737?post_id=64594311#post-64594311)  [TMDB](https://www.themoviedb.org/movie/696393)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cold%20Storage%20(2026)%20(%2B8%20gain)%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cold%20Storage%20(2026)%20(%2B8%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
