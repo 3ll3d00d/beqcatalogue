@@ -14,7 +14,7 @@ A man living in self-imposed exile on a remote island rescues a young girl from 
 
 ![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Shelter/Shelter%20(2026)%20DD%2B%205.1hm.jpg)
 
-## TrueHD 5.1
+## TrueHD 5.1, DTS-HD MA 5.1
 
 **2026 • R • 1h 47m • Action, Crime, Thriller • mikejl**
 
