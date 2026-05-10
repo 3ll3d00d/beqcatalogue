@@ -102,3 +102,21 @@ Dialnorm Compensation: 7dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/A%20Knight%20of%20the%20Seven%20Kingdoms%20(2026)%20-%20S01E05%20(%2B2%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 01E06
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +7.0 dB
+
+Dialnorm Compensation: 5dB
+{ data-search-exclude }
+
+* Production Year: 2026
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/A%20Knight%20of%20the%20Seven%20Kingdoms%20(2026)%20-%20S01E06%20(%2B7%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/A%20Knight%20of%20the%20Seven%20Kingdoms%20(2026)%20-%20S01E06%20(%2B7%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
