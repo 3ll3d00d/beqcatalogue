@@ -1,6 +1,6 @@
 # Fight Club
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+ Atmos
 
 **1999 • R • 2h 19m • Drama • mikejl**
 
