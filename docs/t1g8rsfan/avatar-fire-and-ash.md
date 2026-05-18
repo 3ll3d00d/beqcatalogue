@@ -1,6 +1,6 @@
 # Avatar: Fire and Ash
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2025 • PG-13 • 3h 18m • Science Fiction, Adventure, Fantasy • t1g8rsfan**
 
@@ -9,13 +9,13 @@ In the wake of the devastating war against the RDA and the loss of their eldest 
 
 **MV Adjustment:** +2.0 dB
 
-+4dB Dialnorm Compensation
++4dB Dialnorm Compensation - DD+ Atmos (iTunes)
 { data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/83533)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Avatar%20Fire%20and%20Ash%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Avatar%20Fire%20and%20Ash%20(2025)%20(%2B2%20gain)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Avatar%20Fire%20and%20Ash%20(2025)%20DD%2B%20Atmos.jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Avatar%20Fire%20and%20Ash%20(2025)%20Atmos.jpg)
 
