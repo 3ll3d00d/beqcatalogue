@@ -28,9 +28,6 @@ In the wake of the devastating war against the RDA and the loss of their eldest 
 
 **MV Adjustment:** +2.0 dB
 
-Dialnorm Compensation:4dB
-{ data-search-exclude }
-
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1729?post_id=64545793#post-64545793)  [TMDB](https://www.themoviedb.org/movie/83533)
 { data-search-exclude }
 
