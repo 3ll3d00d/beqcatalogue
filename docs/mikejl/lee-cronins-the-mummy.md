@@ -10,7 +10,7 @@ The young daughter of a journalist disappears into the desert without a trace—
 [TMDB](https://www.themoviedb.org/movie/1304313)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Mummy/The%20Mummy%20(2026)%20DD%2B%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lee%20Cronin's%20The%20Mummy/Lee%20Cronin's%20The%20Mummy%20(2026)%20DD%2B%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Mummy/The%20Mummy%20(2026)%20DD%2B%205.1hm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lee%20Cronin's%20The%20Mummy/Lee%20Cronin's%20The%20Mummy%20(2026)%20DD%2B%205.1hm.jpg)
 
