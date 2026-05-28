@@ -14,3 +14,17 @@ A gripping survival thriller centred around best friends, Trish Stevens and Madd
 
 ![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Killer%20Whale/Killer%20Whale%20(2026)%20DD%2B%205.1hm.jpg)
 
+## DTS-HD MA 5.1
+
+**2026 • R • 1h 29m • Thriller, Horror, Action, Mystery, Science Fiction • mikejl**
+
+Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/1412598)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Killer%20Whale/Killer%20Whale%20(2026)%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Killer%20Whale/Killer%20Whale%20(2026)%202K%20DTS-HD%20MA%205.1hm.jpg)
+
