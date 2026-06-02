@@ -12,7 +12,7 @@
 Dialnorm Compensation: Ep.1,2,5 - 5dB Ep.3,4,6,7 - 4dB
 { data-search-exclude }
 
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64636962#post-64636962)
+* [Forum Post](Widow's Bay)
 
 * Production Year: 2026
 
