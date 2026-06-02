@@ -1,5 +1,21 @@
 # Scream 4
 
+## Atmos
+
+**2011 • R • 1h 51m • Horror, Mystery • remixmark**
+
+Fifteen years after the original Woodsboro murders, Sidney Prescott returns home to promote her new book about surviving trauma, only for a new Ghostface killer to emerge, targeting a new group of teens.
+{ data-search-exclude }
+
+**MV Adjustment:** +1.5 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1744?post_id=64640064#post-64640064)  [TMDB](https://www.themoviedb.org/movie/41446)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scream%204%20(2011)%20(%2B1.5%20gain)%20Atmos.jpg)
+
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scream%204%20(2011)%20(%2B1.5%20gain)%20Atmos%20Peak%20Spectrum.jpg)
+
 ## DD+ Atmos
 
 **2011 • R • 1h 51m • Horror, Mystery • remixmark**
@@ -15,7 +31,7 @@ Dialnorm Compensation: 4dB
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64458322#post-64458322)  [TMDB](https://www.themoviedb.org/movie/41446)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scream%204%20(2011)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scream%204%20(2011)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scream%204%20(2011)%20(%2B2%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scream%204%20(2011)%20(%2B2%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
