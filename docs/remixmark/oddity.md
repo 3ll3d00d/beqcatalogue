@@ -9,7 +9,7 @@ After the brutal murder of her twin sister, Darcy goes after those responsible b
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1527?post_id=63639708#post-63639708)  [TMDB](https://www.themoviedb.org/movie/1216191)
+[Discuss](https://beqcatalogue.readthedocs.io/en/latest/remixmark/oddity/?h=od)  [TMDB](https://www.themoviedb.org/movie/1216191)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Oddity%20(2024)%20(%2B6%20gain)%20DTS-HD%20MA%205.1.jpg)
