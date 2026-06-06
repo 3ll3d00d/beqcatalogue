@@ -1,4 +1,4 @@
-# cold storage
+# Cold Storage
 
 ## DD+
 
