@@ -1,6 +1,6 @@
 # Scream 7
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2026 • R • 1h 54m • Horror, Mystery, Crime • mikejl**
 
@@ -10,7 +10,7 @@ When a new Ghostface killer emerges in the quiet town where Sidney Prescott has 
 [TMDB](https://www.themoviedb.org/movie/1159559)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%207%20(2026)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%207%20(2026)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%207%20(2026)%20DD%2B%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%207%20(2026)%20Atmoshm.jpg)
 
