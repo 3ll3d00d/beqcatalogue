@@ -1,6 +1,6 @@
 # The Super Mario Galaxy Movie
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2026 • PG • 1h 38m • Family, Comedy, Adventure, Fantasy, Animation • mikejl**
 
@@ -10,7 +10,7 @@ Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi 
 [TMDB](https://www.themoviedb.org/movie/1226863)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Super%20Mario%20Bros.%20Movie/The%20Super%20Mario%20Galaxy%20Movie%20(2026)%202K%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Super%20Mario%20Bros.%20Movie/The%20Super%20Mario%20Galaxy%20Movie%20(2026)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Super%20Mario%20Bros.%20Movie/The%20Super%20Mario%20Galaxy%20Movie%20(2026)%202K%20DD%2B%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Super%20Mario%20Bros.%20Movie/The%20Super%20Mario%20Galaxy%20Movie%20(2026)%20Atmoshm.jpg)
 
