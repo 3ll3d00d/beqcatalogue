@@ -19,7 +19,7 @@ dependencies = [
 [tool.poetry.group.dev.dependencies]
 mkdocs = "*"
 mkdocs-materialx = "*"
-pymdown-extensions = ">=10.0"
+pymdown-extensions = ">=10.21.3"
 requests = ">=2.31.0"
 
 [build-system]
