@@ -1,6 +1,6 @@
 # Blades of the Guardians
 
-## DD+
+## DD+ 7.1
 
 **2026 • 2h 6m • Mandarin • Action, Drama, History • mikejl**
 
