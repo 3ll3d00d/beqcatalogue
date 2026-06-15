@@ -10,7 +10,7 @@ Framed for his family's murder and left for dead, an ex-hitman will stop at noth
 [TMDB](https://www.themoviedb.org/movie/1405338)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Demon%20City/Demon%20City%20(2025)%20DD%2B%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Demon%20City/Demon%20City%20(2025)%20(ja)%20DD%2B%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Demon%20City/Demon%20City%20(2025)%20DD%2B%205.1hm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Demon%20City/Demon%20City%20(2025)%20(ja)%20DD%2B%205.1hm.jpg)
 
