@@ -32,3 +32,21 @@ After a catastrophic military disaster, the dead don't just rise—they hunt. Th
 
 ![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/We%20Bury%20the%20Dead%20(2026)%20(%2B2.5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+UHD
+
+**2026 • R • 1h 35m • Horror, Thriller • remixmark**
+
+After a catastrophic military disaster reanimates the dead, Ava searches for her missing husband amidst an increasingly hostile world.
+{ data-search-exclude }
+
+**MV Adjustment:** +1.5 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1747?post_id=64664061#post-64664061)  [TMDB](https://www.themoviedb.org/movie/1198984)
+{ data-search-exclude }
+
+![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/We%20Bury%20the%20Dead%20(2026)%20(%2B1.5%20gain)%20DTS-HD%20MA%205.1.jpg)
+
+![img 5](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/We%20Bury%20the%20Dead%20(2026)%20(%2B1.5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
