@@ -16,3 +16,19 @@ Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's a
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Wasteman%20(2026)%20(-.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+**2026 • R • 1h 31m • Crime, Drama, Thriller • remixmark**
+
+Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's arrival. As Dee takes Taylor under his wing, a vicious attack tests their bond, forcing Taylor to choose between protecting Dee and his own chances at freedom.
+{ data-search-exclude }
+
+**MV Adjustment:** +5.0 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1749?post_id=64673586#post-64673586)  [TMDB](https://www.themoviedb.org/movie/1307373)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Wasteman%20(2026)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Wasteman%20(2026)%20(%2B5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
