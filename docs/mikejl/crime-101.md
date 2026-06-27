@@ -1,6 +1,6 @@
 # Crime 101
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2026 • R • 2h 21m • Crime, Thriller • mikejl**
 
@@ -10,7 +10,7 @@ When an elusive thief whose high-stakes heists unfold along the iconic 101 freew
 [TMDB](https://www.themoviedb.org/movie/1171145)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crime%20101/Crime%20101%20(2026)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crime%20101/Crime%20101%20(2026)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crime%20101/Crime%20101%20(2026)%20DD%2B%20Atmoshm.jpg)
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crime%20101/Crime%20101%20(2026)%20Atmoshm.jpg)
 
