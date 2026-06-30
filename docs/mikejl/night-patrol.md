@@ -14,3 +14,17 @@ An L.A. cop discovers a local task force is hiding a secret that puts the reside
 
 ![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Night%20Patrol/Night%20Patrol%20(2025)%20DD%2B5.1hm.jpg)
 
+## DTS-HD MA 5.1
+
+**2025 • R • 1h 44m • Horror, Mystery, Action • mikejl**
+
+An L.A. cop discovers a local task force is hiding a secret that puts the residents of his childhood neighborhood in danger.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/1323625)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Night%20Patrol/Night%20Patrol%20(2026)%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Night%20Patrol/Night%20Patrol%20(2026)%20DTS-HD%20MA%205.1hm.jpg)
+
