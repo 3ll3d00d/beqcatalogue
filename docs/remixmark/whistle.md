@@ -16,3 +16,17 @@ A misfit group of unwitting high school students stumble upon a cursed object, a
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Whistle%20(2026)%20(%2B3%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+**2026 • R • 1h 40m • Horror, Mystery • remixmark**
+
+A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.
+{ data-search-exclude }
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1752?post_id=64687507#post-64687507)  [TMDB](https://www.themoviedb.org/movie/1193501)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Whistle%20(2026)%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Whistle%20(2026)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
