@@ -72,7 +72,7 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20(2013)%20Season%208%20(%2B4.5%20gain)%20DD%2B.jpg)
 
-## Season 09E01-05
+## Season 09E01-07
 
 * DD+
 
