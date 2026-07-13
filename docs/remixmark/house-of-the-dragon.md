@@ -220,3 +220,23 @@ Dialnorm Compensation: 7dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/House%20of%20the%20Dragon%20(2022)%20-%20S03E03%20(%2B3.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 3E4
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +2.0 dB
+
+Dialnorm Compensation: 6dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1754?post_id=64702913#post-64702913)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/House%20of%20the%20Dragon%20(2022)%20-%20S03E04%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/House%20of%20the%20Dragon%20(2022)%20-%20S03E04%20(%2B2%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
