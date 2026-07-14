@@ -2,7 +2,7 @@
 
 * Author: mikejl
 
-## Season S03E01-02
+## Season 03E01-02
 
 * DD+ Atmos
 
