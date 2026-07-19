@@ -86,3 +86,20 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20(2013)%20Season%209%20(%2B3.5%20gain)%20DD%2B.jpg)
 
+## Season 9E01-08
+
+* DD+
+
+
+**MV Adjustment:** +3.5 dB
+
+Dialnorm Compensation: Ep 5-6 - 6dB, Ep 7-8 - 7dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1755?post_id=64712148#post-64712148)
+
+* Production Year: 2013
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20(2013)%20Season%209%20(%2B3.5%20gain)%20DD%2B.jpg)
+
