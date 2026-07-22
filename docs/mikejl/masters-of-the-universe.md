@@ -1,6 +1,6 @@
 # Masters of the Universe
 
-## DD+ Atmos
+## DD+ Atmos, DD+
 
 **2026 • PG-13 • 2h 21m • Action, Fantasy, Science Fiction • mikejl**
 
