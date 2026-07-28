@@ -18,7 +18,7 @@ A loyal dog moves to a rural family home with his owner Todd, only to discover s
 
 ## DTS-HD MA 5.1
 
-**20025 • PG-13 • 1h 13m • Horror • remixmark**
+**2025 • PG-13 • 1h 13m • Horror • remixmark**
 
 A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.
 { data-search-exclude }
