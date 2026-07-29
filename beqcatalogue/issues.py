@@ -4,7 +4,7 @@ from typing import List
 from pathlib import Path
 
 from githubkit import GitHub, ActionAuthStrategy, Response
-from githubkit.versions.v2022_11_28.models import Issue
+from githubkit_schemas.latest.models import Issue
 
 
 class IssueManager:
