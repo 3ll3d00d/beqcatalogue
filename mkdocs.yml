@@ -50,5 +50,8 @@ nav:
   - mikejl: mikejl.md
   - bombaycat007: bombaycat007.md
 plugins:
-  - search
+  - search:
+      pagefind:
+        exclude_selectors:
+          - .headerlink
   # - social
