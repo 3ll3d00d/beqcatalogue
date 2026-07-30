@@ -160,26 +160,6 @@ Dialnorm Compensation: 2dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/House%20of%20the%20Dragon%20-%20S02E08%20(2022)%20(%2B4%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
-## Season 3E06
-
-* DD+ Atmos
-
-
-**MV Adjustment:** +3.0 dB
-
-Dialnorm Compensation: 6dB
-{ data-search-exclude }
-
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1758?post_id=64724416#post-64724416)
-
-* Production Year: 2022
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/House%20of%20the%20Dragon%20(2022)%20-%20S03E06%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/House%20of%20the%20Dragon%20(2022)%20-%20S03E06%20(%2B3%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
-
 ## Season 3E1
 
 * DD+ Atmos
@@ -279,4 +259,24 @@ Dialnorm Compensation: 6dB
 
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/House%20of%20the%20Dragon%20(2022)%20S3E5%20(%2B3.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 3E6
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +3.0 dB
+
+Dialnorm Compensation: 6dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1758?post_id=64724416#post-64724416)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/House%20of%20the%20Dragon%20(2022)%20-%20S03E06%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/House%20of%20the%20Dragon%20(2022)%20-%20S03E06%20(%2B3%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
