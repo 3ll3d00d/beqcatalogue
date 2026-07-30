@@ -16,3 +16,19 @@ When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes,
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Hokum%20(2026)%20(%2B4.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+**2026 • R • 1h 48m • Horror • remixmark**
+
+When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.
+{ data-search-exclude }
+
+**MV Adjustment:** +5.0 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1760?post_id=64728731#post-64728731)  [TMDB](https://www.themoviedb.org/movie/1430077)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Hokum%20(2026)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Hokum%20(2026)%20(%2B5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
