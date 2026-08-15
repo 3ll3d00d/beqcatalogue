@@ -1,6 +1,6 @@
 # Deep Cover
 
-## DTS-HD MA 5.1
+## DTS-HD MA 2.0
 
 Criterion Collection Blu-ray
 
