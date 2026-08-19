@@ -19,7 +19,7 @@ Dialnorm Compensation - 4dB
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Beauty%20and%20The%20Beast%20(1991)%20(Dialnorm%20Compensation-4dB)%20(%2B5%20Gain)%20Atmos.png)
 
-![img 1](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Beauty%20and%20The%20Beast%20(1991)%20(Dialnorm%20Compensation-4dB)%20(%2B5%20Gain)%20Atmos%20peak%20spectrum.png)
+![img 1](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Beauty%20and%20The%20Beast%20(1991)%20(Dialnorm%20Compensation:4dB)%20(%2B5%20Gain)%20Atmos%20peak%20spectrum.png)
 
 ## DTS-HD MA 7.1
 
