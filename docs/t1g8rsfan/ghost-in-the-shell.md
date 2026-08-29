@@ -2,7 +2,7 @@
 
 ## Atmos
 
-Eng
+English
 
 **1995 • NR • 1h 23m • Action, Animation, Science Fiction • t1g8rsfan**
 
