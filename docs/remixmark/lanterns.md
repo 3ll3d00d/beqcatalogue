@@ -2,27 +2,7 @@
 
 * Author: remixmark
 
-## Season 1E03
-
-* DD+ Atmos
-
-
-**MV Adjustment:** -1.0 dB
-
-Dialnorm Compensation: 7dB
-{ data-search-exclude }
-
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800155#post-64800155)
-
-* Production Year: 2026
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lanterns%20(2026)%20-%20S01E03%20(-1%20gain)%20DD%2B%20Atmos.jpg)
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lanterns%20(2026)%20-%20S01E03%20(-1%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
-
-## Season 1E1
+## Season 1E01
 
 * DD+ Atmos
 
@@ -42,7 +22,7 @@ Dialnorm Compensation: 8dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lanterns%20(2026)%20-%20S01E01%20(-.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
-## Season 1E2
+## Season 1E02
 
 * DD+ Atmos
 
@@ -61,4 +41,24 @@ Dialnorm Compensation: 9dB
 
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lanterns%20(2026)%20-%20S01E02%20(-1.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 1E03
+
+* DD+ Atmos
+
+
+**MV Adjustment:** -1.0 dB
+
+Dialnorm Compensation: 7dB
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800155#post-64800155)
+
+* Production Year: 2026
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lanterns%20(2026)%20-%20S01E03%20(-1%20gain)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lanterns%20(2026)%20-%20S01E03%20(-1%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
