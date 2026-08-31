@@ -2,6 +2,8 @@
 
 ## DD+
 
+Digital Cinema Package (DCP)
+
 **2026 • PG • 1h 43m • Comedy, Adventure, Family • mikejl**
 
 After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.
