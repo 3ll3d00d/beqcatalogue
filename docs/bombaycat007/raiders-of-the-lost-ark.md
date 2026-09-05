@@ -16,3 +16,21 @@ When Dr. Indiana Jones – the tweed-suited professor who just happens to be a c
 
 ![img 1](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Raiders%20of%20the%20Lost%20Ark%20(1981)%20BEQ%20LaserDisc%20Dolby%20Surround%20peak%20spectrum.png)
 
+## DD+
+
+Dolby Surround
+
+**1981 • PG • 1h 55m • Adventure, Action • bombaycat007**
+
+When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.
+{ data-search-exclude }
+
+**MV Adjustment:** +1.5 dB
+
+[TMDB](https://www.themoviedb.org/movie/85)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Raiders%20of%20the%20Lost%20Ark%20(1981)%20(%2B1.5%20Gain)%20BEQ%20Dolby%20Surround%20peak%20spectrum.png)
+
+![img 3](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Raiders%20of%20the%20Lost%20Ark%20(1981)%20(%2B1.5%20Gain)%20BEQ%20Dolby%20Surround.png)
+
