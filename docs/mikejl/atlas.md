@@ -7,7 +7,7 @@
 A brilliant counterterrorism analyst with a deep distrust of AI discovers it might be her only hope when a mission to capture a renegade robot goes awry.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/614933)
+[TMDB](https://www.themoviedb.org/movie/614933)  [Compare across authors](../../compare/?t=film-atlas_614933)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Atlas/Atlas%20(2024)%20DD%2B%20Atmos.jpg)

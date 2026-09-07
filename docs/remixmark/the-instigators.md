@@ -12,7 +12,7 @@ Rory and Cobby are unlikely partners thrown together for a heist. But when it go
 Dialnorm Compensation: 8dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1499?post_id=63525050#post-63525050)  [TMDB](https://www.themoviedb.org/movie/1059064)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1499?post_id=63525050#post-63525050)  [TMDB](https://www.themoviedb.org/movie/1059064)  [Compare across authors](../../compare/?t=film-the-instigators_1059064)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Instigators%20(2024)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

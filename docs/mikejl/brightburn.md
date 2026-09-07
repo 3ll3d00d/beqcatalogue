@@ -7,7 +7,7 @@
 What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/531309)
+[TMDB](https://www.themoviedb.org/movie/531309)  [Compare across authors](../../compare/?t=film-brightburn_531309)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Brightburn/Brightburn%20(2019)%20Atmos.jpg)

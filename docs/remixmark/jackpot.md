@@ -12,7 +12,7 @@ In the near future, a 'Grand Lottery' has been established - the catch: kill the
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1492?post_id=63485580#post-63485580)  [TMDB](https://www.themoviedb.org/movie/1094138)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1492?post_id=63485580#post-63485580)  [TMDB](https://www.themoviedb.org/movie/1094138)  [Compare across authors](../../compare/?t=film-jackpot_1094138)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Jackpot!%20(2024)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

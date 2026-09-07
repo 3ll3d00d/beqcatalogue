@@ -7,7 +7,7 @@
 During the final days at the Yankee Pedlar Inn, two employees determined to reveal the hotel's haunted past begin to experience disturbing events as old guests check in for a stay.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/58428)
+[TMDB](https://www.themoviedb.org/movie/58428)  [Compare across authors](../../compare/?t=film-the-innkeepers_58428)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Innkeepers/The%20Innkeepers%20(2011)%20DTS-HD%20MA%205.1.jpg)

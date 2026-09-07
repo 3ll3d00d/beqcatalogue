@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-franklin_197591)
+
 * Production Year: 2024
 
 

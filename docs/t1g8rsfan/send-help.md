@@ -9,7 +9,7 @@ Two colleagues become stranded on a deserted island, the only survivors of a pla
 
 **MV Adjustment:** +2.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/1198994)
+[TMDB](https://www.themoviedb.org/movie/1198994)  [Compare across authors](../../compare/?t=film-send-help_1198994)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Send%20Help%20(2026)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)

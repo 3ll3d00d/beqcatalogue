@@ -9,7 +9,7 @@ A US Army officer, who made a "friendly fire" mistake that was covered up, has b
 
 **MV Adjustment:** -4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1600?post_id=64042581#post-64042581)  [TMDB](https://www.themoviedb.org/movie/10684)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1600?post_id=64042581#post-64042581)  [TMDB](https://www.themoviedb.org/movie/10684)  [Compare across authors](../../compare/?t=film-courage-under-fire_10684)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Courage%20Under%20Fire%20(1996)%20(-4%20gain)%20DTS-HD%20MA%205.1.jpg)

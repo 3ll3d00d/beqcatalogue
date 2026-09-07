@@ -11,7 +11,7 @@ John McClane is back and badder than ever, and this time he's working for Homela
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62838494)  [TMDB](https://www.themoviedb.org/movie/1571)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62838494)  [TMDB](https://www.themoviedb.org/movie/1571)  [Compare across authors](../../compare/?t=film-live-free-or-die-hard_1571)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Live%20Free%20or%20Die%20Hard%20(2007)%20Unrated%20PvA%20v2.jpg)

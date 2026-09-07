@@ -14,6 +14,8 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1669?post_id=64262748#post-64262748)
 
+* [Compare across authors](../../compare/?t=TV-the-chair-company_271267)
+
 * Production Year: 2025
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 7dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1670?post_id=64263947#post-64263947)
+
+* [Compare across authors](../../compare/?t=TV-the-chair-company_271267)
 
 * Production Year: 2025
 
@@ -54,6 +58,8 @@ Dialnorm Compensation 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1672?post_id=64276906#post-64276906)
 
+* [Compare across authors](../../compare/?t=TV-the-chair-company_271267)
+
 * Production Year: 2025
 
 
@@ -73,6 +79,8 @@ Dialnorm Compensation: 7dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1676?post_id=64289585#post-64289585)
+
+* [Compare across authors](../../compare/?t=TV-the-chair-company_271267)
 
 * Production Year: 2025
 
@@ -94,6 +102,8 @@ Dialnorm Compensation: 8dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1678?post_id=64299885#post-64299885)
 
+* [Compare across authors](../../compare/?t=TV-the-chair-company_271267)
+
 * Production Year: 2025
 
 
@@ -113,6 +123,8 @@ Dialnorm Compensation: 9dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64311206#post-64311206)
+
+* [Compare across authors](../../compare/?t=TV-the-chair-company_271267)
 
 * Production Year: 2025
 
@@ -134,6 +146,8 @@ Dialnorm Compensation: 10dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64323848#post-64323848)
 
+* [Compare across authors](../../compare/?t=TV-the-chair-company_271267)
+
 * Production Year: 2025
 
 
@@ -153,6 +167,8 @@ Dialnorm Compensation: 9dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1685?post_id=64334888#post-64334888)
+
+* [Compare across authors](../../compare/?t=TV-the-chair-company_271267)
 
 * Production Year: 2025
 

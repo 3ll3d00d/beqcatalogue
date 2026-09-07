@@ -7,7 +7,7 @@
 President Lincoln's mother is killed by a supernatural creature, which fuels his passion to crush vampires and their slave-owning helpers.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/72331)
+[TMDB](https://www.themoviedb.org/movie/72331)  [Compare across authors](../../compare/?t=film-abraham-lincoln-vampire-hunter_72331)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Abraham%20Lincoln%20Vampire%20Hunter/Abraham%20Lincoln%20Vampire%20Hunter%20(2012)%20DTS-HD%20MA%207.1.jpg)

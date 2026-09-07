@@ -6,6 +6,9 @@
 
 **MV Adjustment:** +4.0 dB
 
+[Compare across authors](../../compare/?t=film-dolby-core-universe_2019)
+{ data-search-exclude }
+
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Dolby%20Core%20Universe%20Atmos.jpg)
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/main/Dolby%20Core%20Universe%20Atmos%20Peak%20Spectrum.jpg)

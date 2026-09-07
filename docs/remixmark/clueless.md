@@ -9,7 +9,7 @@ Shallow, rich and socially successful Cher is at the top of her Beverly Hills hi
 
 **MV Adjustment:** +8.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1609?post_id=64069109#post-64069109)  [TMDB](https://www.themoviedb.org/movie/9603)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1609?post_id=64069109#post-64069109)  [TMDB](https://www.themoviedb.org/movie/9603)  [Compare across authors](../../compare/?t=film-clueless_9603)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Clueless%20(1995)%20(%2B8.5%20gain)%20DTS-HD%20MA%205.1.jpg)
@@ -27,7 +27,7 @@ Shallow, rich and socially successful Cher is at the top of her Beverly Hills hi
 
 **MV Adjustment:** +8.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1609?post_id=64069689#post-64069689)  [TMDB](https://www.themoviedb.org/movie/9603)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1609?post_id=64069689#post-64069689)  [TMDB](https://www.themoviedb.org/movie/9603)  [Compare across authors](../../compare/?t=film-clueless_9603)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Clueless%20(1995)%204k%20(%2B8.5%20gain)%20DTS-HD%20MA%205.1.jpg)

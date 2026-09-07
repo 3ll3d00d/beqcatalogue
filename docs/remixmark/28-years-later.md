@@ -9,7 +9,7 @@ Twenty-eight years since the rage virus escaped a biological weapons laboratory,
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1644?post_id=64205280#post-64205280)  [TMDB](https://www.themoviedb.org/movie/1100988)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1644?post_id=64205280#post-64205280)  [TMDB](https://www.themoviedb.org/movie/1100988)  [Compare across authors](../../compare/?t=film-28-years-later_1100988)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/28%20Years%20Later%20(2025)%20(%2B5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Twenty-eight years since the rage virus escaped a biological weapons laboratory,
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1621?post_id=64118618#post-64118618)  [TMDB](https://www.themoviedb.org/movie/1100988)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1621?post_id=64118618#post-64118618)  [TMDB](https://www.themoviedb.org/movie/1100988)  [Compare across authors](../../compare/?t=film-28-years-later_1100988)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/28%20Years%20Later%20(2025)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

@@ -9,7 +9,7 @@ Los Angeles, California. Officer Murphy, a veteran Metropolitan Police helicopte
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1736?post_id=64587277#post-64587277)  [TMDB](https://www.themoviedb.org/movie/6341)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1736?post_id=64587277#post-64587277)  [TMDB](https://www.themoviedb.org/movie/6341)  [Compare across authors](../../compare/?t=film-blue-thunder_6341)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blue%20Thunder%20(1983)%20(%2B4%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -7,7 +7,7 @@
 Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now regain his throne and his human form with the help of Pacha, a gentle llama herder.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/11688)
+[TMDB](https://www.themoviedb.org/movie/11688)  [Compare across authors](../../compare/?t=film-the-emperors-new-groove_11688)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Emperor's%20New%20Groove/The%20Emperors%20New%20Groove%20(2000)%20Atmos.jpg)
@@ -21,7 +21,7 @@ Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now 
 Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now regain his throne and his human form with the help of Pacha, a gentle llama herder.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/11688)
+[TMDB](https://www.themoviedb.org/movie/11688)  [Compare across authors](../../compare/?t=film-the-emperors-new-groove_11688)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Emperor's%20New%20Groove/The%20Emperor's%20New%20Groove%20(2000)%20DD%2B%20Atmos.jpg)

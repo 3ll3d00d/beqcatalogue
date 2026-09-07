@@ -12,7 +12,7 @@ After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself
 +4dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/822119)
+[TMDB](https://www.themoviedb.org/movie/822119)  [Compare across authors](../../compare/?t=film-captain-america-brave-new-world_822119)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Captain%20America%20Brave%20New%20World%20(2025)%20(%2B1%20gain)%20Atmos.jpg)

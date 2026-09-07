@@ -7,7 +7,7 @@
 In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/461130)
+[TMDB](https://www.themoviedb.org/movie/461130)  [Compare across authors](../../compare/?t=film-code-8_461130)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Code%208%20(2019)%20DTS%205.1.jpg)

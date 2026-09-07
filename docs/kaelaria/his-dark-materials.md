@@ -7,6 +7,8 @@
 * DTS-HD MA 5.1
 
 
+* [Compare across authors](../../compare/?t=TV-his-dark-materials_68507)
+
 * Production Year: 2019
 
 
@@ -20,6 +22,8 @@
 * DTS-HD MA 5.1
 
 
+* [Compare across authors](../../compare/?t=TV-his-dark-materials_68507)
+
 * Production Year: 2019
 
 
@@ -32,6 +36,8 @@
 
 * DTS-HD MA 5.1
 
+
+* [Compare across authors](../../compare/?t=TV-his-dark-materials_68507)
 
 * Production Year: 2019
 

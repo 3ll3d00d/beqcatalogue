@@ -7,7 +7,7 @@
 A biopic depicting the life of filmmaker and aviation pioneer Howard Hughes from 1927 to 1947, during which time he became a successful film producer and an aviation magnate, while simultaneously growing more unstable due to severe obsessive-compulsive disorder.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/2567)
+[TMDB](https://www.themoviedb.org/movie/2567)  [Compare across authors](../../compare/?t=film-the-aviator_2567)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Aviator%20(2004)%20DTS-HD%20MA%205.1.jpg)

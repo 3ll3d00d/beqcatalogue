@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-sec-football-any-given-saturday_296069)
+
 * Production Year: 2025
 
 

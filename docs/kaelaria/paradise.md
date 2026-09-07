@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-paradise_245927)
+
 * Production Year: 2025
 
 

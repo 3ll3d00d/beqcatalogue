@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-marvels-daredevil_61889)
+
 * Production Year: 2015
 
 
@@ -20,6 +22,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-marvels-daredevil_61889)
+
 * Production Year: 2015
 
 
@@ -32,6 +36,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-marvels-daredevil_61889)
 
 * Production Year: 2015
 

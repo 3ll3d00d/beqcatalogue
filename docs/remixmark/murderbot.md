@@ -14,6 +14,8 @@ Dialnorm Compensation: 5&6-4dB 1,2,3,4,7,8,9-6dB 10-5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1616?post_id=64090929#post-64090929)
 
+* [Compare across authors](../../compare/?t=TV-murderbot_241554)
+
 * Production Year: 2025
 
 

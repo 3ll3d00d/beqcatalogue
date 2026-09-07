@@ -11,7 +11,7 @@ A ticking-time-bomb insomniac and a slippery soap salesman channel primal male a
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1737?post_id=64594322#post-64594322)  [TMDB](https://www.themoviedb.org/movie/550)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1737?post_id=64594322#post-64594322)  [TMDB](https://www.themoviedb.org/movie/550)  [Compare across authors](../../compare/?t=film-fight-club_550)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Fight%20Club%20(1999)%20(%2B3.5%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -7,7 +7,7 @@
 As the world teeters on the brink of annihilation, Dietrich Bonhoeffer joins a deadly plot to assassinate Hitler, risking his faith and fate to save millions of Jews from genocide.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1079244)
+[TMDB](https://www.themoviedb.org/movie/1079244)  [Compare across authors](../../compare/?t=film-bonhoeffer-pastor-spy-assassin_1079244)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Bonhoeffer%20(2024)%20DD%2B.jpg)

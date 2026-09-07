@@ -12,7 +12,7 @@ After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1586?post_id=63988648#post-63988648)  [TMDB](https://www.themoviedb.org/movie/822119)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1586?post_id=63988648#post-63988648)  [TMDB](https://www.themoviedb.org/movie/822119)  [Compare across authors](../../compare/?t=film-captain-america-brave-new-world_822119)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Captain%20America%20Brave%20New%20World%20(2025)%20(%2B1%20gain)%20Atmos.jpg)
@@ -31,7 +31,7 @@ After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1577?post_id=63948294#post-63948294)  [TMDB](https://www.themoviedb.org/movie/822119)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1577?post_id=63948294#post-63948294)  [TMDB](https://www.themoviedb.org/movie/822119)  [Compare across authors](../../compare/?t=film-captain-america-brave-new-world_822119)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Captain%20America%20Brave%20New%20World%20(2025)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

@@ -9,7 +9,7 @@ Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadver
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1607?post_id=64064106#post-64064106)  [TMDB](https://www.themoviedb.org/movie/105)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1607?post_id=64064106#post-64064106)  [TMDB](https://www.themoviedb.org/movie/105)  [Compare across authors](../../compare/?t=film-back-to-the-future_105)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Back%20to%20the%20Future%20(1985)%20(%2B2.5%20gain)%20Atmos.jpg)

@@ -9,7 +9,7 @@ An American Ambassador is killed during an attack at a U.S. compound in Libya as
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/posts/63020604/)  [TMDB](https://www.themoviedb.org/movie/300671)
+[Discuss](https://www.avsforum.com/posts/63020604/)  [TMDB](https://www.themoviedb.org/movie/300671)  [Compare across authors](../../compare/?t=film-13-hours-the-secret-soldiers-of-benghazi_300671)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/13%20Hours%20Secret%20Soldiers%20of%20Bengazi%20(2016)%20(-0.5%20gain)%20Atmos.jpg)

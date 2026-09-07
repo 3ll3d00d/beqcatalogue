@@ -9,7 +9,7 @@ Wimpy Greg Heffley, now in seventh grade, thinks he has it all together. He has 
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64320877#post-64320877)  [TMDB](https://www.themoviedb.org/movie/60307)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64320877#post-64320877)  [TMDB](https://www.themoviedb.org/movie/60307)  [Compare across authors](../../compare/?t=film-diary-of-a-wimpy-kid-rodrick-rules_60307)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Diary%20of%20a%20Wimpy%20Kid%20Roderick%20Rules%20(2011)%20(%2B6%20gain)%20DTS-HD%20MA%205.1.jpg)

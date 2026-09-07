@@ -7,7 +7,7 @@
 A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1480574)
+[TMDB](https://www.themoviedb.org/movie/1480574)  [Compare across authors](../../compare/?t=film-just-play-dead_1480574)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Just%20Play%20Dead/Just%20Play%20Dead%20(2026)%20DD%2B%205.1.jpg)

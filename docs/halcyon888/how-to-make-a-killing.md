@@ -9,7 +9,7 @@ Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow 
 
 **MV Adjustment:** +4.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/467905)
+[TMDB](https://www.themoviedb.org/movie/467905)  [Compare across authors](../../compare/?t=film-how-to-make-a-killing_467905)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/How%20to%20Make%20a%20Killing%202026%20THD%20Atmos%20PvA.png)

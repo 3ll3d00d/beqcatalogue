@@ -12,7 +12,7 @@ Eager to impress his activist crush, a wealthy New York teenager follows an onli
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1763?post_id=64747836#post-64747836)  [TMDB](https://www.themoviedb.org/movie/1465557)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1763?post_id=64747836#post-64747836)  [TMDB](https://www.themoviedb.org/movie/1465557)  [Compare across authors](../../compare/?t=film-our-hero-balthazar_1465557)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Our%20Hero%2C%20Balthazar%20(2026)%20(%2B4.5%20gain)%20DD%2B.jpg)

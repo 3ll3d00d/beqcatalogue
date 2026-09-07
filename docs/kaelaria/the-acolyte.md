@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-acolyte_114479)
+
 * Production Year: 2024
 
 

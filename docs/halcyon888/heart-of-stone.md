@@ -12,7 +12,7 @@ An intelligence operative for a shadowy global peacekeeping agency races to stop
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62744168)  [TMDB](https://www.themoviedb.org/movie/724209)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62744168)  [TMDB](https://www.themoviedb.org/movie/724209)  [Compare across authors](../../compare/?t=film-heart-of-stone_724209)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Heart%20of%20Stone%202023%20PvA%20v2.jpg)

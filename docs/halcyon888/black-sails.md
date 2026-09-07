@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62471132)
 
+* [Compare across authors](../../compare/?t=TV-black-sails_47665)
+
 * Production Year: 2014
 
 
@@ -27,6 +29,8 @@
 **MV Adjustment:** +2.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62478272)
+
+* [Compare across authors](../../compare/?t=TV-black-sails_47665)
 
 * Production Year: 2014
 
@@ -45,6 +49,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62583726)
 
+* [Compare across authors](../../compare/?t=TV-black-sails_47665)
+
 * Production Year: 2014
 
 
@@ -59,6 +65,8 @@
 
 
 **MV Adjustment:** +1.5 dB
+
+* [Compare across authors](../../compare/?t=TV-black-sails_47665)
 
 * Production Year: 2014
 

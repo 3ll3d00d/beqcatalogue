@@ -9,7 +9,7 @@ When the renegade crew of Serenity agrees to hide a fugitive on their ship, they
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/posts/63566571/)  [TMDB](https://www.themoviedb.org/movie/16320)
+[Discuss](https://www.avsforum.com/posts/63566571/)  [TMDB](https://www.themoviedb.org/movie/16320)  [Compare across authors](../../compare/?t=film-serenity_16320)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Serenity%20(2005)%20(-2.5%20gain)%20DTS-X.jpg)

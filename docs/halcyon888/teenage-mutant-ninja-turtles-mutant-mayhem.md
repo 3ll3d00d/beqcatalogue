@@ -12,7 +12,7 @@ After years of being sheltered from the human world, the Turtle brothers set out
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62789251)  [TMDB](https://www.themoviedb.org/movie/614930)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62789251)  [TMDB](https://www.themoviedb.org/movie/614930)  [Compare across authors](../../compare/?t=film-teenage-mutant-ninja-turtles-mutant-mayhem_614930)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Teenage%20Mutant%20Ninja%20Turtles%20Mutant%20Mayhem%20(2023)%20DDP%20Atmos%20PvA.jpg)

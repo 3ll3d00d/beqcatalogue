@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-rivals_208921)
+
 * Production Year: 2024
 
 

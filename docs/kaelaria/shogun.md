@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-shogun_126308)
+
 * Production Year: 2024
 
 

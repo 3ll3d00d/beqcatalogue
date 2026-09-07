@@ -7,7 +7,7 @@
 When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1288059)
+[TMDB](https://www.themoviedb.org/movie/1288059)  [Compare across authors](../../compare/?t=film-i-want-your-sex_1288059)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Want%20Your%20Sex/I%20Want%20Your%20Sex%20(2026)%20DD%2B%205.1.jpg)

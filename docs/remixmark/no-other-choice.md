@@ -9,7 +9,7 @@ After being laid off and humiliated by a ruthless job market, a veteran paper mi
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64630980#post-64630980)  [TMDB](https://www.themoviedb.org/movie/639988)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64630980#post-64630980)  [TMDB](https://www.themoviedb.org/movie/639988)  [Compare across authors](../../compare/?t=film-no-other-choice_639988)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/No%20Other%20Choice%20(2025)%20(%2B5.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ After being laid off and humiliated by a ruthless job market, a veteran paper mi
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1713?post_id=64470537#post-64470537)  [TMDB](https://www.themoviedb.org/movie/639988)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1713?post_id=64470537#post-64470537)  [TMDB](https://www.themoviedb.org/movie/639988)  [Compare across authors](../../compare/?t=film-no-other-choice_639988)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/No%20Other%20Choice%20(2025)%20(%2B5.5%20gain)%20KO%20DD%2B%20Atmos.jpg)
@@ -44,7 +44,7 @@ After being laid off and humiliated by a ruthless job market, a veteran paper mi
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1736?post_id=64588787#post-64588787)  [TMDB](https://www.themoviedb.org/movie/639988)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1736?post_id=64588787#post-64588787)  [TMDB](https://www.themoviedb.org/movie/639988)  [Compare across authors](../../compare/?t=film-no-other-choice_639988)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/No%20Other%20Choice%20(2025)%20(%2B4.5%20gain)%20DTS-HD%20MA%2051.jpg)

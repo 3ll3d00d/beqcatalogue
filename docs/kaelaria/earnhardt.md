@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-earnhardt_286373)
+
 * Production Year: 2025
 
 

@@ -9,7 +9,7 @@ A fugitive couple goes on a glamorous and sometimes deadly adventure where nothi
 
 **MV Adjustment:** +0.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/37834)
+[TMDB](https://www.themoviedb.org/movie/37834)  [Compare across authors](../../compare/?t=film-knight-and-day_37834)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Knight%20and%20Day%20(2010)%20(Amazon)%20DDP%205.1%20PvA.png)

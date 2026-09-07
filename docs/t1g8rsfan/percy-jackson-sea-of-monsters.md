@@ -9,7 +9,7 @@ In their quest to confront the ultimate evil, Percy and his friends battle swarm
 
 **MV Adjustment:** +0.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/76285)
+[TMDB](https://www.themoviedb.org/movie/76285)  [Compare across authors](../../compare/?t=film-percy-jackson-sea-of-monsters_76285)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Percy%20Jackson%20Sea%20of%20Monsters%20(2013)%20(%2B0.5%20gain)%20DTS-HD%20MA%207.1.jpg)

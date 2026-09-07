@@ -7,7 +7,7 @@
 A struggling young dancer finds herself drawn in by dark forces when a peculiar, well-connected older couple promise her a shot at fame.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/807339)
+[TMDB](https://www.themoviedb.org/movie/807339)  [Compare across authors](../../compare/?t=film-apartment-7a_807339)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Apartment%207A/Apartment%207A%20(2024)%20DD%2B%20Atmos.jpg)

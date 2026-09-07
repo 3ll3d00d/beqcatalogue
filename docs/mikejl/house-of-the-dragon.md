@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+
 * Production Year: 2022
 
 
@@ -20,6 +22,8 @@
 * Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+
 * Production Year: 2022
 
 
@@ -32,6 +36,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 

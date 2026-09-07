@@ -9,7 +9,7 @@ The new frontier of Venus has degenerated into a dystopia ravaged by the civil w
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1495?post_id=63503609#post-63503609)  [TMDB](https://www.themoviedb.org/movie/31769)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1495?post_id=63503609#post-63503609)  [TMDB](https://www.themoviedb.org/movie/31769)  [Compare across authors](../../compare/?t=film-venus-wars_31769)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Venus%20Wars%20(1989)%20(%2B5%20gain)%20JA%20DD%2B.jpg)

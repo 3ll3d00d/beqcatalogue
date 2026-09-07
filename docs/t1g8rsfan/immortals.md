@@ -9,7 +9,7 @@ Theseus is a mortal man chosen by Zeus to lead the fight against the ruthless Ki
 
 **MV Adjustment:** -7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62722309)  [TMDB](https://www.themoviedb.org/movie/37958)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62722309)  [TMDB](https://www.themoviedb.org/movie/37958)  [Compare across authors](../../compare/?t=film-immortals_37958)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Immortals%20(2011)%20(-7%20gain)%20DTS-HD%20MA%205.1.jpg)

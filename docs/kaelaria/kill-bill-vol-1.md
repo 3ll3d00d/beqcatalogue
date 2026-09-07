@@ -7,7 +7,7 @@
 An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/24)
+[TMDB](https://www.themoviedb.org/movie/24)  [Compare across authors](../../compare/?t=film-kill-bill-vol-1_24)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Kill%20Bill%20Vol%201%20(2003)%20DTS-HD%20MA%205.1.jpg)

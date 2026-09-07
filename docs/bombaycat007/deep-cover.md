@@ -11,7 +11,7 @@ Black police officer Russell Stevens applies for a special anti-drug squad which
 
 **MV Adjustment:** +5.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/20676)
+[TMDB](https://www.themoviedb.org/movie/20676)  [Compare across authors](../../compare/?t=film-deep-cover_20676)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Deep%20Cover%20(1992)%20(%2B5.5%20Gain)%20DTS-HD%20MA%202.0.png)

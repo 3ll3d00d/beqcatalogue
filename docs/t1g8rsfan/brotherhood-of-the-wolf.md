@@ -14,7 +14,7 @@ In 18th century France, the Chevalier de Fronsac and his Native American friend 
 French Audio Track
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63018441)  [TMDB](https://www.themoviedb.org/movie/6312)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63018441)  [TMDB](https://www.themoviedb.org/movie/6312)  [Compare across authors](../../compare/?t=film-brotherhood-of-the-wolf_6312)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Brotherhood%20of%20the%20Wolf%20(2001)%20DC%20(%2B4%20gain)%20(Fr)%20Atmos.jpg)

@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-a-man-in-full_225120)
+
 * Production Year: 2024
 
 

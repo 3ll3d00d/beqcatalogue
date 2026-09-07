@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-completely-made-up-adventures-of-dick-turpin_197459)
+
 * Production Year: 2024
 
 

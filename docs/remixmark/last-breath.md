@@ -12,7 +12,7 @@ Last Breath follows a seasoned deep-sea diver as he battles the raging elements 
 Dialnorm Compensation: 12dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1570?post_id=63899399#post-63899399)  [TMDB](https://www.themoviedb.org/movie/972533)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1570?post_id=63899399#post-63899399)  [TMDB](https://www.themoviedb.org/movie/972533)  [Compare across authors](../../compare/?t=film-last-breath_972533)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Last%20Breath%20(2025)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)
@@ -28,7 +28,7 @@ Seasoned deep-sea divers battle the raging elements to rescue their crewmate tra
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1582?post_id=63963416#post-63963416)  [TMDB](https://www.themoviedb.org/movie/972533)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1582?post_id=63963416#post-63963416)  [TMDB](https://www.themoviedb.org/movie/972533)  [Compare across authors](../../compare/?t=film-last-breath_972533)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Last%20Breath%20(2025)%20(%2B4%20gain)%20DTS-HD%20MA%205.1.jpg)
@@ -46,7 +46,7 @@ Seasoned deep-sea divers battle the raging elements to rescue their crewmate tra
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.imdb.com/title/tt14403504/)  [TMDB](https://www.themoviedb.org/movie/972533)
+[Discuss](https://www.imdb.com/title/tt14403504/)  [TMDB](https://www.themoviedb.org/movie/972533)  [Compare across authors](../../compare/?t=film-last-breath_972533)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Last%20Breath%20(2025)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

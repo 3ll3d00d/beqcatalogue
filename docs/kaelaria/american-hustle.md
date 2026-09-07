@@ -7,7 +7,7 @@
 A conman and his seductive partner are forced to work for a wild FBI agent, who pushes them into a world of Jersey power-brokers and the Mafia.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/168672)
+[TMDB](https://www.themoviedb.org/movie/168672)  [Compare across authors](../../compare/?t=film-american-hustle_168672)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/American%20Hustle%20(2013)%20TrueHD%20Atmos.jpg)

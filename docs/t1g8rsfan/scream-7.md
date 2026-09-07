@@ -12,7 +12,7 @@ When a new Ghostface killer emerges in the quiet town where Sidney Prescott has 
 +4dB Dialnorm Compensation - DD+ Atmos (iTunes)
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1159559)
+[TMDB](https://www.themoviedb.org/movie/1159559)  [Compare across authors](../../compare/?t=film-scream-7_1159559)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Scream%207%20(2026)%20(%2B0.5%20gain)%20Atmos.jpg)

@@ -7,7 +7,7 @@
 When The Strangers learn that one of their victims, Maya, is still alive, they return to finish what they’ve started.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1010756)
+[TMDB](https://www.themoviedb.org/movie/1010756)  [Compare across authors](../../compare/?t=film-the-strangers-chapter-2_1010756)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Strangers/The%20Strangers%20Chapter%202%20(2025)%20DD%2B%20Atmos.jpg)

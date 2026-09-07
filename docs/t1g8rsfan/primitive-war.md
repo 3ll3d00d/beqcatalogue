@@ -9,7 +9,7 @@ During the Vietnam War, a recon unit ventures to an isolated jungle valley to un
 
 **MV Adjustment:** +1.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/1257009)
+[TMDB](https://www.themoviedb.org/movie/1257009)  [Compare across authors](../../compare/?t=film-primitive-war_1257009)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Primitive%20War%20(2025)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)

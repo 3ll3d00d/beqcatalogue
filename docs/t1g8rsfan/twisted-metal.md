@@ -14,6 +14,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63059751)
 
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
+
 * Production Year: 2023
 
 
@@ -25,6 +27,8 @@
 
 
 **MV Adjustment:** +7.5 dB
+
+* [Compare across authors](../../compare/?t=TV-twisted-metal_2025)
 
 * Production Year: 2025
 
@@ -38,6 +42,8 @@
 
 **MV Adjustment:** -0.5 dB
 
+* [Compare across authors](../../compare/?t=TV-twisted-metal_2025)
+
 * Production Year: 2025
 
 
@@ -49,6 +55,8 @@
 
 
 **MV Adjustment:** +2.5 dB
+
+* [Compare across authors](../../compare/?t=TV-twisted-metal_2025)
 
 * Production Year: 2025
 
@@ -62,6 +70,8 @@
 
 **MV Adjustment:** +4.0 dB
 
+* [Compare across authors](../../compare/?t=TV-twisted-metal_2025)
+
 * Production Year: 2025
 
 
@@ -73,6 +83,8 @@
 
 
 **MV Adjustment:** -4.5 dB
+
+* [Compare across authors](../../compare/?t=TV-twisted-metal_2025)
 
 * Production Year: 2025
 

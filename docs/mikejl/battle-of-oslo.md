@@ -7,7 +7,7 @@
 April 9th, 1940, Norway is under siege. As German warships close in on Oslo, Colonel Birger Eriksen, commander of the undermanned Oscarsborg Fortress, makes a bold decision that changes the course of history.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1272586)
+[TMDB](https://www.themoviedb.org/movie/1272586)  [Compare across authors](../../compare/?t=film-battle-of-oslo_1272586)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Battle%20of%20Oslo/Battle%20of%20Oslo%20(2025)%20(nor)%20DD%2B%205.1.jpg)

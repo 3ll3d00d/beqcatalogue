@@ -7,7 +7,7 @@
 Dragged on a vacation to the woods, teenagers Lisa and Eric fight for their lives against an unstoppable cannibal pig farmer.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1026532)
+[TMDB](https://www.themoviedb.org/movie/1026532)  [Compare across authors](../../compare/?t=film-the-hermit_1026532)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Hermit/The%20Hermit%20(2025)%20DD%2B%205.1.jpg)

@@ -7,6 +7,8 @@
 * DD 5.1
 
 
+* [Compare across authors](../../compare/?t=TV-marvels-avengers_59427)
+
 * Production Year: 2013
 
 

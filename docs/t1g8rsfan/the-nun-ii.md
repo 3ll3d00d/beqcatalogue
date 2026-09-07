@@ -9,7 +9,7 @@ In 1956 France, a priest is violently murdered, and Sister Irene begins to inves
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62937953)  [TMDB](https://www.themoviedb.org/movie/968051)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62937953)  [TMDB](https://www.themoviedb.org/movie/968051)  [Compare across authors](../../compare/?t=film-the-nun-ii_968051)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Nun%20II%20(2023)%20(%2B1%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ In 1956 France, a priest is violently murdered, and Sister Irene begins to inves
 +2dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62860509)  [TMDB](https://www.themoviedb.org/movie/968051)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62860509)  [TMDB](https://www.themoviedb.org/movie/968051)  [Compare across authors](../../compare/?t=film-the-nun-ii_968051)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Nun%20II%20(2023)%20(%2B0.5%20gain)%20DD%2B%20Atmos.jpg)

@@ -9,7 +9,7 @@ Unrated
 Three backpackers head to a Slovakian city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1690)
+[TMDB](https://www.themoviedb.org/movie/1690)  [Compare across authors](../../compare/?t=film-hostel_1690)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hostel/Hostel%20(2006)%20(Unrated)%20DTS-HD%20MA%205.1.jpg)

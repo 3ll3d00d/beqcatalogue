@@ -9,6 +9,8 @@
 
 **MV Adjustment:** +5.0 dB
 
+* [Compare across authors](../../compare/?t=TV-tom-clancys-jack-ryan_73375)
+
 * Production Year: 2018
 
 
@@ -23,6 +25,8 @@
 
 
 **MV Adjustment:** +3.5 dB
+
+* [Compare across authors](../../compare/?t=TV-tom-clancys-jack-ryan_73375)
 
 * Production Year: 2018
 
@@ -44,6 +48,8 @@ Dialnorm Compensation: E01 +6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62653448)
 
+* [Compare across authors](../../compare/?t=TV-tom-clancys-jack-ryan_73375)
+
 * Production Year: 2018
 
 
@@ -64,6 +70,8 @@ Dialnorm Compensation: E02 +5dB, E03 +6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62653448)
 
+* [Compare across authors](../../compare/?t=TV-tom-clancys-jack-ryan_73375)
+
 * Production Year: 2018
 
 
@@ -83,6 +91,8 @@ Dialnorm Compensation: E04 +7dB, E05 +8dB, E06 +7dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62653448)
+
+* [Compare across authors](../../compare/?t=TV-tom-clancys-jack-ryan_73375)
 
 * Production Year: 2018
 

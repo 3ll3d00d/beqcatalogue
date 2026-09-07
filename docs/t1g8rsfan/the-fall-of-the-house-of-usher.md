@@ -14,6 +14,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62912561)
 
+* [Compare across authors](../../compare/?t=TV-the-fall-of-the-house-of-usher_157065)
+
 * Production Year: 2023
 
 

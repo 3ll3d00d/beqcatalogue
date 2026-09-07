@@ -9,7 +9,7 @@ Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroile
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1564?post_id=63863503#post-63863503)  [TMDB](https://www.themoviedb.org/movie/604685)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1564?post_id=63863503#post-63863503)  [TMDB](https://www.themoviedb.org/movie/604685)  [Compare across authors](../../compare/?t=film-den-of-thieves-2-pantera_604685)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Den%20of%20Thieves%202%20Pantera%20(2025)%20(%2B2.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroile
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1555?post_id=63808646#post-63808646)  [TMDB](https://www.themoviedb.org/movie/604685)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1555?post_id=63808646#post-63808646)  [TMDB](https://www.themoviedb.org/movie/604685)  [Compare across authors](../../compare/?t=film-den-of-thieves-2-pantera_604685)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Den%20of%20Thieves%202%20Pantera%20(2025)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

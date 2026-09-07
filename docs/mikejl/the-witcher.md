@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-witcher_71912)
+
 * Production Year: 2019
 
 

@@ -5,6 +5,8 @@
 * DTS-HD MA 5.1
 
 
+* [Compare across authors](../../compare/?t=TV-colossal_339967)
+
 * Production Year: 2017
 
 

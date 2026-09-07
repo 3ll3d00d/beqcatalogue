@@ -7,7 +7,7 @@
 A true story about a secret British World War II organization; the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/799583)
+[TMDB](https://www.themoviedb.org/movie/799583)  [Compare across authors](../../compare/?t=film-the-ministry-of-ungentlemanly-warfare_799583)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20ministry%20of%20ungentlemanly%20warfare%20(2024)%20DD%2B%20Atmos.jpg)

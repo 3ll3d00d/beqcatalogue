@@ -7,7 +7,7 @@
 A boy is given the ability to become an adult superhero in times of need with a single magic word.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/287947)
+[TMDB](https://www.themoviedb.org/movie/287947)  [Compare across authors](../../compare/?t=film-shazam_287947)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Shazam/Shazam%20(2019)%20Atmos.jpg)

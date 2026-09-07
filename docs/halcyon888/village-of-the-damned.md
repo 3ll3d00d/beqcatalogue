@@ -9,7 +9,7 @@ An American village is visited by some unknown life form which leaves the women 
 
 **MV Adjustment:** +2.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/12122)
+[TMDB](https://www.themoviedb.org/movie/12122)  [Compare across authors](../../compare/?t=film-village-of-the-damned_12122)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Village%20of%20the%20Damned%201995%20PvAv3.jpg)

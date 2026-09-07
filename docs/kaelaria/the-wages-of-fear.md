@@ -10,7 +10,7 @@ When an explosion at an oil well threatens hundreds of lives, a crack team is ca
 English, French
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/984324)
+[TMDB](https://www.themoviedb.org/movie/984324)  [Compare across authors](../../compare/?t=film-the-wages-of-fear_984324)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Wages%20of%20Fear%20(2024)%20DD%2B%20Atmos.jpg)

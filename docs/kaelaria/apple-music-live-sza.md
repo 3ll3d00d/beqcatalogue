@@ -7,7 +7,7 @@
 A live concert from SZA at the Barclays Center, Brooklyn, New York from the SOS Tour.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1238965)
+[TMDB](https://www.themoviedb.org/movie/1238965)  [Compare across authors](../../compare/?t=film-apple-music-live-sza_1238965)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/apple%20music%20live%20sza%20(2024)%20DD%2B%20Atmos.jpg)

@@ -7,7 +7,7 @@
 In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1226578)
+[TMDB](https://www.themoviedb.org/movie/1226578)  [Compare across authors](../../compare/?t=film-longlegs_1226578)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Longlegs%20(2024)%20DD%2B.jpg)

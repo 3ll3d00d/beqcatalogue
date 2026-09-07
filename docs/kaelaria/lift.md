@@ -7,7 +7,7 @@
 An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/955916)
+[TMDB](https://www.themoviedb.org/movie/955916)  [Compare across authors](../../compare/?t=film-lift_955916)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Lift%20(2024)%20DD%2B%20Atmos.jpg)

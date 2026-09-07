@@ -9,7 +9,7 @@ The story of the last Seal Child’s journey home. After their mother’s disapp
 
 **MV Adjustment:** +9.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1757?post_id=64721085#post-64721085)  [TMDB](https://www.themoviedb.org/movie/110416)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1757?post_id=64721085#post-64721085)  [TMDB](https://www.themoviedb.org/movie/110416)  [Compare across authors](../../compare/?t=film-song-of-the-sea_110416)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Song%20of%20the%20Sea%20(2014)%20(%2B9%20gain)%20DTS-HD%20MA%205.1.jpg)

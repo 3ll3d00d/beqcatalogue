@@ -9,7 +9,7 @@ A desperate choice leads Jack down a path that leaves him beaten and bruised as 
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62835108)  [TMDB](https://www.themoviedb.org/movie/1032949)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62835108)  [TMDB](https://www.themoviedb.org/movie/1032949)  [Compare across authors](../../compare/?t=film-beaten-to-death_1032949)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Beaten%20to%20Death%20(2023)%20DDP%20PvA.jpg)

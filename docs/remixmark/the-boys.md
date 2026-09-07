@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1471?post_id=63367275#post-63367275)
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2024
 
 
@@ -27,6 +29,8 @@
 **MV Adjustment:** +2.5 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1471?post_id=63367288#post-63367288)
+
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
 
 * Production Year: 2024
 
@@ -45,6 +49,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1473?post_id=63382213#post-63382213)
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2019
 
 
@@ -59,6 +65,8 @@
 
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1476?post_id=63396725#post-63396725)
+
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
 
 * Production Year: 2019
 
@@ -77,6 +85,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1478?post_id=63410771#post-63410771)
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2019
 
 
@@ -93,6 +103,8 @@
 **MV Adjustment:** +3.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1480?post_id=63422352#post-63422352)
+
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
 
 * Production Year: 2019
 
@@ -111,6 +123,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1483?post_id=63434011#post-63434011)
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2019
 
 
@@ -125,6 +139,8 @@
 
 
 **MV Adjustment:** +3.5 dB
+
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
 
 * Production Year: 2024
 
@@ -146,6 +162,8 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1730?post_id=64550922#post-64550922)
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2019
 
 
@@ -165,6 +183,8 @@ Dialnorm Compensation: 5dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1730?post_id=64550931#post-64550931)
+
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
 
 * Production Year: 2019
 
@@ -186,6 +206,8 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1732?post_id=64561966#post-64561966)
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2019
 
 
@@ -205,6 +227,8 @@ Dialnorm Compensation: 5dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1734?post_id=64573156#post-64573156)
+
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
 
 * Production Year: 2019
 
@@ -226,6 +250,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1735?post_id=64585940#post-64585940)
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2019
 
 
@@ -245,6 +271,8 @@ Dialnorm Compensation: 5dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1738?post_id=64596492#post-64596492)
+
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
 
 * Production Year: 2019
 
@@ -266,6 +294,8 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1740?post_id=64607673#post-64607673)
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2019
 
 
@@ -285,6 +315,8 @@ Dialnorm Compensation: 5dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1742?post_id=64619250#post-64619250)
+
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
 
 * Production Year: 2019
 

@@ -11,7 +11,7 @@ An assassin is shot by her ruthless employer, Bill, and other members of their a
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1552?post_id=63785585#post-63785585)  [TMDB](https://www.themoviedb.org/movie/24)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1552?post_id=63785585#post-63785585)  [TMDB](https://www.themoviedb.org/movie/24)  [Compare across authors](../../compare/?t=film-kill-bill-vol-1_24)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Kill%20Bill%20Vol.%201%20(2003)%20(-1.5%20gain)%20UHD%20DTS-HD%20MA%205.1.jpg)

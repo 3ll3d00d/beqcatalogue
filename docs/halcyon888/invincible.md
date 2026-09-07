@@ -14,6 +14,8 @@ Dialnorm Compensation E01: +6dB, E02 +7dB, E04 +7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62925171)
 
+* [Compare across authors](../../compare/?t=TV-invincible_2021)
+
 * Production Year: 2021
 
 
@@ -34,6 +36,8 @@ Dialnorm Compensation: E03 0dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62925171)
 
+* [Compare across authors](../../compare/?t=TV-invincible_95557)
+
 * Production Year: 2021
 
 
@@ -53,6 +57,8 @@ Dialnorm Compensation: E05 0dB, E06 +7dB, E07 0dB, E08: +6dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62925171)
+
+* [Compare across authors](../../compare/?t=TV-invincible_95557)
 
 * Production Year: 2021
 

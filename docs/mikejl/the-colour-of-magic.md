@@ -7,6 +7,8 @@
 * DTS-HD MA 5.1
 
 
+* [Compare across authors](../../compare/?t=TV-the-colour-of-magic_5885)
+
 * Production Year: 2008
 
 

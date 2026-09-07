@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-a-knight-of-the-seven-kingdoms_224372)
+
 * Production Year: 2026
 
 

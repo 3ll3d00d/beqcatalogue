@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-shining-vale_136745)
+
 * Production Year: 2022
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-shining-vale_136745)
 
 * Production Year: 2022
 

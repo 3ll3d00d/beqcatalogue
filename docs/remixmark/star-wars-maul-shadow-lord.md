@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1737?post_id=64594286#post-64594286)
 
+* [Compare across authors](../../compare/?t=TV-star-wars-maul-shadow-lord_289219)
+
 * Production Year: 2026
 
 

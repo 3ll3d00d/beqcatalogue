@@ -9,7 +9,7 @@ Charlie Kenton is a washed-up fighter who retired from the ring when robots took
 
 **MV Adjustment:** -3.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/39254)
+[TMDB](https://www.themoviedb.org/movie/39254)  [Compare across authors](../../compare/?t=film-real-steel_39254)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Real%20Steel%20(2011)%20(-3.5%20gain)%20DTS-HD%20MA%207.1.jpg)

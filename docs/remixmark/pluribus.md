@@ -14,6 +14,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64295026#post-64295026)
 
+* [Compare across authors](../../compare/?t=TV-pluribus_225171)
+
 * Production Year: 2025
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64295045#post-64295045)
+
+* [Compare across authors](../../compare/?t=TV-pluribus_225171)
 
 * Production Year: 2025
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64306676#post-64306676)
 
+* [Compare across authors](../../compare/?t=TV-pluribus_225171)
+
 * Production Year: 2025
 
 
@@ -73,6 +79,8 @@ Dialnorm Compensation: 3dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318160#post-64318160)
+
+* [Compare across authors](../../compare/?t=TV-pluribus_225171)
 
 * Production Year: 2025
 
@@ -94,6 +102,8 @@ Dialnorm Compensation: 2dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1683?post_id=64326171#post-64326171)
 
+* [Compare across authors](../../compare/?t=TV-pluribus_225171)
+
 * Production Year: 2025
 
 
@@ -113,6 +123,8 @@ Dialnorm Compensation: 3dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1686?post_id=64341299#post-64341299)
+
+* [Compare across authors](../../compare/?t=TV-pluribus_225171)
 
 * Production Year: 2025
 
@@ -134,6 +146,8 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1688?post_id=64353508#post-64353508)
 
+* [Compare across authors](../../compare/?t=TV-pluribus_225171)
+
 * Production Year: 2025
 
 
@@ -154,6 +168,8 @@ Dialnorm Compensation: 2dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1690?post_id=64365170#post-64365170)
 
+* [Compare across authors](../../compare/?t=TV-pluribus_225171)
+
 * Production Year: 2025
 
 
@@ -173,6 +189,8 @@ Dialnorm Compensation: 3dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1692?post_id=64375169#post-64375169)
+
+* [Compare across authors](../../compare/?t=TV-pluribus_225171)
 
 * Production Year: 2025
 

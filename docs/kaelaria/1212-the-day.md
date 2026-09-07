@@ -10,7 +10,7 @@ After the assassination of President Park, martial law has been declared. A coup
 KO
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/919207)
+[TMDB](https://www.themoviedb.org/movie/919207)  [Compare across authors](../../compare/?t=film-1212-the-day_919207)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/12%2012%20The%20Day%20(2023)%20TrueHD%205.1.jpg)

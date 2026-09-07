@@ -14,6 +14,8 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1622?post_id=64123824#post-64123824)
 
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
+
 * Production Year: 2023
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 7dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1622?post_id=64123847#post-64123847)
+
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
 
 * Production Year: 2023
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1622?post_id=64123860#post-64123860)
 
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
+
 * Production Year: 2023
 
 
@@ -73,6 +79,8 @@ Dialnorm Compensation: 7dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1625?post_id=64134295#post-64134295)
+
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
 
 * Production Year: 2023
 
@@ -94,6 +102,8 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1625?post_id=64134298#post-64134298)
 
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
+
 * Production Year: 2023
 
 
@@ -110,6 +120,8 @@ Dialnorm Compensation: 7dB
 **MV Adjustment:** -2.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1628?post_id=64148349#post-64148349)
+
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
 
 * Production Year: 2023
 
@@ -131,6 +143,8 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1628?post_id=64148370#post-64148370)
 
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
+
 * Production Year: 2023
 
 
@@ -150,6 +164,8 @@ Dialnorm Compensation: 7dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1637?post_id=64167244#post-64167244)
+
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
 
 * Production Year: 2023
 
@@ -171,6 +187,8 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1637?post_id=64167312#post-64167312)
 
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
+
 * Production Year: 2023
 
 
@@ -187,6 +205,8 @@ Dialnorm Compensation: 7dB
 **MV Adjustment:** -0.5 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1639?post_id=64170449#post-64170449)
+
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
 
 * Production Year: 2023
 
@@ -205,6 +225,8 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1639?post_id=64170462#post-64170462)
 
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
+
 * Production Year: 2023
 
 
@@ -221,6 +243,8 @@ Dialnorm Compensation: 7dB
 **MV Adjustment:** +4.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1639?post_id=64170664#post-64170664)
+
+* [Compare across authors](../../compare/?t=TV-twisted-metal_133748)
 
 * Production Year: 2023
 

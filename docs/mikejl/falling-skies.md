@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-falling-skies_34967)
+
 * Production Year: 2011
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-falling-skies_34967)
 
 * Production Year: 2011
 
@@ -33,6 +37,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-falling-skies_34967)
+
 * Production Year: 2011
 
 
@@ -46,6 +52,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-falling-skies_34967)
+
 * Production Year: 2011
 
 
@@ -58,6 +66,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-falling-skies_34967)
 
 * Production Year: 2011
 

@@ -10,7 +10,7 @@ Malina wakes up disoriented in the trunk of a speeding car and discovers to her 
 DE
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1183905)
+[TMDB](https://www.themoviedb.org/movie/1183905)  [Compare across authors](../../compare/?t=film-trunk-locked-in_1183905)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Trunk%20-%20Locked%20In%20(2023)%20(De)%20DD%2B%20Atmos.jpg)

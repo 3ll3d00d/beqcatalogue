@@ -9,7 +9,7 @@ Buck Russell, a lovable but slovenly bachelor, suddenly becomes the temporary ca
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1525?post_id=63637945#post-63637945)  [TMDB](https://www.themoviedb.org/movie/2616)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1525?post_id=63637945#post-63637945)  [TMDB](https://www.themoviedb.org/movie/2616)  [Compare across authors](../../compare/?t=film-uncle-buck_2616)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Uncle%20Buck%201989%20(%2B5%20gain)%20DTS-HD%20MA%202.0.jpg)
@@ -27,7 +27,7 @@ Buck Russell, a lovable but slovenly bachelor, suddenly becomes the temporary ca
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63843543#post-63843543)  [TMDB](https://www.themoviedb.org/movie/2616)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63843543#post-63843543)  [TMDB](https://www.themoviedb.org/movie/2616)  [Compare across authors](../../compare/?t=film-uncle-buck_2616)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Uncle%20Buck%20(1989)%20(%2B5.5%20gain)%20UHD%20DTS-HD%20MA%205.1.jpg)

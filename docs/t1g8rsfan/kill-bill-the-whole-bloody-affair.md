@@ -9,7 +9,7 @@ A former assassin, known simply as The Bride, wakes from a coma four years after
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/posts/62999941/)  [TMDB](https://www.themoviedb.org/movie/414419)
+[Discuss](https://www.avsforum.com/posts/62999941/)  [TMDB](https://www.themoviedb.org/movie/414419)  [Compare across authors](../../compare/?t=film-kill-bill-the-whole-bloody-affair_414419)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Kill%20BIll%20TWBA%20(2011)%20(%2B0.5%20gain)%20DD%2B.jpg)

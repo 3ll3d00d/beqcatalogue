@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1564?post_id=63864008#post-63864008)
 
+* [Compare across authors](../../compare/?t=TV-invincible_95557)
+
 * Production Year: 2021
 
 
@@ -22,6 +24,8 @@
 
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1568?post_id=63890593#post-63890593)
+
+* [Compare across authors](../../compare/?t=TV-invincible_95557)
 
 * Production Year: 2021
 

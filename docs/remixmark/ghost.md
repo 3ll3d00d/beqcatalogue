@@ -9,7 +9,7 @@ Even though Sam Wheat, the successful investment counsellor, still finds it diff
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1517?post_id=63603383#post-63603383)  [TMDB](https://www.themoviedb.org/movie/251)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1517?post_id=63603383#post-63603383)  [TMDB](https://www.themoviedb.org/movie/251)  [Compare across authors](../../compare/?t=film-ghost_251)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Ghost%20(1990)%20(%2B4.5%20gain)%20TrueHD%205.1.jpg)

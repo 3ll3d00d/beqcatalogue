@@ -9,7 +9,7 @@ There's trouble brewing in Bikini Bottom. Someone has stolen King Neptune's crow
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1482?post_id=63428197#post-63428197)  [TMDB](https://www.themoviedb.org/movie/11836)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1482?post_id=63428197#post-63428197)  [TMDB](https://www.themoviedb.org/movie/11836)  [Compare across authors](../../compare/?t=film-the-spongebob-squarepants-movie_11836)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20SpongeBob%20SquarePants%20Movie%20(2004)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

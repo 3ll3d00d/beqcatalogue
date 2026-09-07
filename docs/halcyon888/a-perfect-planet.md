@@ -9,6 +9,8 @@
 
 **MV Adjustment:** +5.0 dB
 
+* [Compare across authors](../../compare/?t=TV-a-perfect-planet_115194)
+
 * Production Year: 2021
 
 

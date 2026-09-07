@@ -9,7 +9,7 @@ As New York City is invaded by alien creatures who hunt by sound, a woman named 
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63456036/)  [TMDB](https://www.themoviedb.org/movie/762441)
+[Discuss](https://www.avsforum.com/posts/63456036/)  [TMDB](https://www.themoviedb.org/movie/762441)  [Compare across authors](../../compare/?t=film-a-quiet-place-day-one_762441)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/A%20Quiet%20Place%20Day%20One%20(2024)%20(-2%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ As New York City is invaded by alien creatures who hunt by sound, a woman named 
 +15dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63456036/)  [TMDB](https://www.themoviedb.org/movie/762441)
+[Discuss](https://www.avsforum.com/posts/63456036/)  [TMDB](https://www.themoviedb.org/movie/762441)  [Compare across authors](../../compare/?t=film-a-quiet-place-day-one_762441)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/A%20Quiet%20Place%20Day%20One%20(2024)%20(-1%20gain)%20DD%2B%20Atmos.jpg)

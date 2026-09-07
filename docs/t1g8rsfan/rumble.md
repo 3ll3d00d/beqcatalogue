@@ -9,7 +9,7 @@ In a world where monster wrestling is a global sport and monsters are superstar 
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62956454)  [TMDB](https://www.themoviedb.org/movie/598331)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62956454)  [TMDB](https://www.themoviedb.org/movie/598331)  [Compare across authors](../../compare/?t=film-rumble_598331)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Rumble%20(2021)%20(%2B3.5%20gain)%20DTS-HD%20MA%205.1.jpg)

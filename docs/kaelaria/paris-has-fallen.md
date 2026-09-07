@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-paris-has-fallen_232018)
+
 * Production Year: 2024
 
 

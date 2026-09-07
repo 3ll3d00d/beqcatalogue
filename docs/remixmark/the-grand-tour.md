@@ -14,6 +14,8 @@ Dialnorm Compensation: 6dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1772#post-64819797)
 
+* [Compare across authors](../../compare/?t=TV-the-grand-tour_329471)
+
 * Production Year: 2026
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 6dB AI Created
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1773#post-64820513)
+
+* [Compare across authors](../../compare/?t=TV-the-grand-tour_329471)
 
 * Production Year: 2026
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: 6dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1773#post-64821633)
 
+* [Compare across authors](../../compare/?t=TV-the-grand-tour_329471)
+
 * Production Year: 2026
 
 
@@ -73,6 +79,8 @@ Dialnorm Compensation: 6dB AI Created
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1773#post-64822033)
+
+* [Compare across authors](../../compare/?t=TV-the-grand-tour_329471)
 
 * Production Year: 2026
 
@@ -94,6 +102,8 @@ Dialnorm Compensation: 5dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1773#post-64821817)
 
+* [Compare across authors](../../compare/?t=TV-the-grand-tour_329471)
+
 * Production Year: 2026
 
 
@@ -113,6 +123,8 @@ Dialnorm Compensation: 6dB AI Created
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1773#post-64822629)
+
+* [Compare across authors](../../compare/?t=TV-the-grand-tour_329471)
 
 * Production Year: 2026
 

@@ -9,7 +9,7 @@ Director's Cut
 The rebels gear up for battle against the ruthless forces of the Motherworld as unbreakable bonds are forged, heroes emerge — and legends are made.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/934632)
+[TMDB](https://www.themoviedb.org/movie/934632)  [Compare across authors](../../compare/?t=film-rebel-moon-part-two-the-scargiver_934632)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Rebel%20Moon%20Part%20Two%20The%20Scargiver.2024.%7Bedition-Directors%20Cut%7D.jpg)
@@ -25,7 +25,7 @@ Theatrical
 The rebels gear up for battle against the Motherworld as unbreakable bonds are forged, heroes emerge — and legends are made.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/934632)
+[TMDB](https://www.themoviedb.org/movie/934632)  [Compare across authors](../../compare/?t=film-rebel-moon-part-two-the-scargiver_934632)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/main/Rebel%20Moon%20Part%20Two%20The%20Scaregiver(2024)%20DD%2B%20Atmos.jpg)

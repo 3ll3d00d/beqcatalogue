@@ -14,7 +14,7 @@ A former Marine confronts corruption in a small town when local law enforcement 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1502?post_id=63534088#post-63534088)  [TMDB](https://www.themoviedb.org/movie/646097)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1502?post_id=63534088#post-63534088)  [TMDB](https://www.themoviedb.org/movie/646097)  [Compare across authors](../../compare/?t=film-rebel-ridge_646097)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Rebel%20Ridge%20(2024)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)
@@ -35,7 +35,7 @@ A former Marine confronts corruption in a small town when local law enforcement 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1503?post_id=63545058#post-63545058)  [TMDB](https://www.themoviedb.org/movie/646097)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1503?post_id=63545058#post-63545058)  [TMDB](https://www.themoviedb.org/movie/646097)  [Compare across authors](../../compare/?t=film-rebel-ridge_646097)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/Rebel%20Ridge%20(2024)%204k%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)

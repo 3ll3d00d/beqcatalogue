@@ -12,7 +12,7 @@ When a drug heist swerves lethally out of control, a jaded cop fights his way th
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1686?post_id=64345225#post-64345225)  [TMDB](https://www.themoviedb.org/movie/668489)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1686?post_id=64345225#post-64345225)  [TMDB](https://www.themoviedb.org/movie/668489)  [Compare across authors](../../compare/?t=film-havoc_668489)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Havoc%20(2025)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

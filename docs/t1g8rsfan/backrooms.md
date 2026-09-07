@@ -12,7 +12,7 @@ A strange doorway appears in the basement of a furniture showroom.
 +2dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1083381)
+[TMDB](https://www.themoviedb.org/movie/1083381)  [Compare across authors](../../compare/?t=film-backrooms_1083381)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Backrooms%20(2026)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

@@ -7,7 +7,7 @@
 A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/369972)
+[TMDB](https://www.themoviedb.org/movie/369972)  [Compare across authors](../../compare/?t=film-first-man_369972)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/First%20Man_s1_7.1_to_mono.jpg)

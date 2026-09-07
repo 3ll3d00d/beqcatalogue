@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-lazarus-project_194567)
+
 * Production Year: 2022
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-the-lazarus-project_194567)
 
 * Production Year: 2022
 

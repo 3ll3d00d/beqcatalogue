@@ -9,7 +9,7 @@ When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he
 
 **MV Adjustment:** +1.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/97)
+[TMDB](https://www.themoviedb.org/movie/97)  [Compare across authors](../../compare/?t=film-tron_97)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Tron%20(1982)%20(%2B1%20gain)%20Atmos.jpg)

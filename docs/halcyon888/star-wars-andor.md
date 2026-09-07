@@ -12,6 +12,8 @@
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
+
 * Production Year: 2022
 
 
@@ -29,6 +31,8 @@
 
 +4dB Dialnorm Compensation
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
 
 * Production Year: 2022
 
@@ -48,6 +52,8 @@
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
+
 * Production Year: 2022
 
 
@@ -65,6 +71,8 @@
 
 +4dB Dialnorm Compensation
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
 
 * Production Year: 2022
 
@@ -84,6 +92,8 @@
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
+
 * Production Year: 2022
 
 
@@ -101,6 +111,8 @@
 
 +4dB Dialnorm Compensation
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
 
 * Production Year: 2022
 
@@ -120,6 +132,8 @@
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
+
 * Production Year: 2022
 
 
@@ -137,6 +151,8 @@
 
 +4dB Dialnorm Compensation
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
 
 * Production Year: 2022
 
@@ -156,6 +172,8 @@
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
+
 * Production Year: 2022
 
 
@@ -174,6 +192,8 @@
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
+
 * Production Year: 2022
 
 
@@ -191,6 +211,8 @@
 
 +4dB Dialnorm Compensation
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
 
 * Production Year: 2022
 
@@ -212,6 +234,8 @@
 
 **A single negative PEQ filter was applied a 15Hz for safety. However, if you feel your system can reproduce the LFE that occurs at 17 minutes into the original soundtrack without risk of subwoofer damage (as indicated by the dotted green line), then you do not need to use a BEQ for this episode. You have been warned if you choose not to use this BEQ that was created for safety on this episode!**
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
 
 * Production Year: 2022
 

@@ -9,7 +9,7 @@ In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experienc
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1704?post_id=64436424#post-64436424)  [TMDB](https://www.themoviedb.org/movie/842924)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1704?post_id=64436424#post-64436424)  [TMDB](https://www.themoviedb.org/movie/842924)  [Compare across authors](../../compare/?t=film-the-life-of-chuck_842924)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Life%20of%20Chuck%20(2025)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

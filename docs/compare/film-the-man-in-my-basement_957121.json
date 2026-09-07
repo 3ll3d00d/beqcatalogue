@@ -1,0 +1,1 @@
+[{"author":"mikejl","audioTypes":["DD+"],"content_type":"film","season":"","episode":"","edition":"","filters":[{"type":"LowShelf","freq":20.0,"gain":9.0,"q":0.75,"count":1},{"type":"PeakingEQ","freq":27.0,"gain":-1.8,"q":2.4,"count":1},{"type":"PeakingEQ","freq":70.0,"gain":0.1,"q":2.5,"count":1}]}]

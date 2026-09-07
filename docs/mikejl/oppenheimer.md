@@ -7,7 +7,7 @@
 The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/872585)
+[TMDB](https://www.themoviedb.org/movie/872585)  [Compare across authors](../../compare/?t=film-oppenheimer_872585)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Oppenheimer/Oppenheimer%20(2023)%20DTS-HD%20MA%205.1.jpg)

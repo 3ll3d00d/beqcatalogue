@@ -12,7 +12,7 @@ In a remote village on the island of Carpathia, a shy farm girl named Yuri is ra
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64006186#post-64006186)  [TMDB](https://www.themoviedb.org/movie/896536)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64006186#post-64006186)  [TMDB](https://www.themoviedb.org/movie/896536)  [Compare across authors](../../compare/?t=film-the-legend-of-ochi_896536)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Legend%20of%20Ochi%20(2025)%20(%2B7%20gain)%20DD%2B%20Atmos.jpg)

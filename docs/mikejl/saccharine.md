@@ -7,7 +7,7 @@
 After succumbing to an obscure weight-loss craze involving the eating of human ashes, lovelorn medical student Hana finds herself haunted by the ghost of the person she's eating.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1363387)
+[TMDB](https://www.themoviedb.org/movie/1363387)  [Compare across authors](../../compare/?t=film-saccharine_1363387)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Saccharine/Saccharine%20(2026)%20DD%2B%20Atmos.jpg)

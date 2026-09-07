@@ -9,7 +9,7 @@ A runaway train, transporting deadly, toxic chemicals, is barreling down on Stan
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63002863)  [TMDB](https://www.themoviedb.org/movie/44048)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63002863)  [TMDB](https://www.themoviedb.org/movie/44048)  [Compare across authors](../../compare/?t=film-unstoppable_44048)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Unstoppable%20(2010)%20(-1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

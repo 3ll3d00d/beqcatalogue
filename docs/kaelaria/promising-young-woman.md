@@ -7,7 +7,7 @@
 A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/582014)
+[TMDB](https://www.themoviedb.org/movie/582014)  [Compare across authors](../../compare/?t=film-promising-young-woman_582014)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Promising%20Young%20Woman%20(2020)%20Atmos.jpg)

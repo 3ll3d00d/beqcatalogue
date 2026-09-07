@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64305828#post-64305828)
 
+* [Compare across authors](../../compare/?t=TV-twin-peaks_1920)
+
 * Production Year: 1990
 
 
@@ -24,6 +26,8 @@
 **MV Adjustment:** +4.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64305742#post-64305742)
+
+* [Compare across authors](../../compare/?t=TV-twin-peaks_1990)
 
 * Production Year: 1990
 
@@ -39,6 +43,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64305765#post-64305765)
 
+* [Compare across authors](../../compare/?t=TV-twin-peaks_1920)
+
 * Production Year: 1990
 
 
@@ -53,6 +59,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64305805#post-64305805)
 
+* [Compare across authors](../../compare/?t=TV-twin-peaks_1920)
+
 * Production Year: 1990
 
 
@@ -66,6 +74,8 @@
 **MV Adjustment:** +5.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64305785#post-64305785)
+
+* [Compare across authors](../../compare/?t=TV-twin-peaks_1920)
 
 * Production Year: 1990
 

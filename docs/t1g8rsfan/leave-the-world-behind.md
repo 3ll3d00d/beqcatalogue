@@ -9,7 +9,7 @@ A family's getaway to a luxurious rental home takes an ominous turn when a cyber
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63005847)  [TMDB](https://www.themoviedb.org/movie/726209)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63005847)  [TMDB](https://www.themoviedb.org/movie/726209)  [Compare across authors](../../compare/?t=film-leave-the-world-behind_726209)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Leave%20the%20World%20Behind%20(2023)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

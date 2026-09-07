@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-percy-jackson-and-the-olympians_103540)
+
 * Production Year: 2023
 
 

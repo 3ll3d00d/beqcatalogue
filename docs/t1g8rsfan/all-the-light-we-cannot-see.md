@@ -12,6 +12,8 @@
 +5dB Dialnorm Compensation​
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-all-the-light-we-cannot-see_155421)
+
 * Production Year: 2023
 
 

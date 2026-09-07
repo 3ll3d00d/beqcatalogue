@@ -12,6 +12,8 @@
 +4dB Dialnorm Compensation​
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
+
 * Production Year: 2025
 
 
@@ -26,6 +28,8 @@
 
 +4dB Dialnorm Compensation​
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
 
 * Production Year: 2025
 

@@ -7,7 +7,7 @@
 In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/754)
+[TMDB](https://www.themoviedb.org/movie/754)  [Compare across authors](../../compare/?t=film-faceoff_754)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Face-Off%20(1997)%20DTS-HD%20MA%205.1.jpg)

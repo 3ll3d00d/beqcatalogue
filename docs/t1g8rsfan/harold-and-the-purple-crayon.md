@@ -9,7 +9,7 @@ Inside of his book, adventurous Harold can make anything come to life simply by 
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/posts/63564259/)  [TMDB](https://www.themoviedb.org/movie/826510)
+[Discuss](https://www.avsforum.com/posts/63564259/)  [TMDB](https://www.themoviedb.org/movie/826510)  [Compare across authors](../../compare/?t=film-harold-and-the-purple-crayon_826510)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Harold%20and%20the%20Purple%20Crayon%20(2024)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)

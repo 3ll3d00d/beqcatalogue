@@ -12,7 +12,7 @@ Follow the mythic journey of Paul Atreides as he unites with Chani and the Freme
 Possible +10dB of Dialnorm Compensation, please check with your provider
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/693134)
+[TMDB](https://www.themoviedb.org/movie/693134)  [Compare across authors](../../compare/?t=film-dune-part-two_693134)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Dune%202%20DDP%20Atmos%20PvA.jpg)

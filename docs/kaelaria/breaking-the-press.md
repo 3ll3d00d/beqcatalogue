@@ -7,7 +7,7 @@
 A contemporary retelling of the parable of the prodigal son set in the world of Texas high school basketball.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/81224)
+[TMDB](https://www.themoviedb.org/movie/81224)  [Compare across authors](../../compare/?t=film-breaking-the-press_81224)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Les%20Miserables%20(2012)%20TrueHD%20Atmos.jpg)

@@ -9,7 +9,7 @@ A tenacious attorney uncovers a dark secret that connects a growing number of un
 
 **MV Adjustment:** +11.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1648?post_id=64215708#post-64215708)  [TMDB](https://www.themoviedb.org/movie/552178)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1648?post_id=64215708#post-64215708)  [TMDB](https://www.themoviedb.org/movie/552178)  [Compare across authors](../../compare/?t=film-dark-waters_552178)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Waters%20(2019)%20(%2B11%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-my-life-is-murder_91267)
+
 * Production Year: 2019
 
 

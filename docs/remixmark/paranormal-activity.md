@@ -12,7 +12,7 @@ After a young, middle-class couple moves into what seems like a typical suburban
 Dialnorm Compensation: 2db
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1639?post_id=64171410#post-64171410)  [TMDB](https://www.themoviedb.org/movie/23827)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1639?post_id=64171410#post-64171410)  [TMDB](https://www.themoviedb.org/movie/23827)  [Compare across authors](../../compare/?t=film-paranormal-activity_23827)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Paranormal%20Activity%20(2007)%20(%2B9%20gain)%20DTS-HD%20MA%207.1.jpg)

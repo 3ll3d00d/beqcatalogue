@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-bridgerton_91239)
+
 * Production Year: 2020
 
 

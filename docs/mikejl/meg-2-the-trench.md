@@ -7,7 +7,7 @@
 An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/615656)
+[TMDB](https://www.themoviedb.org/movie/615656)  [Compare across authors](../../compare/?t=film-meg-2-the-trench_615656)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Meg%202%20-%20The%20Trench/Meg%202%20-%20The%20Trench%20(2023)%20Atmos.jpg)

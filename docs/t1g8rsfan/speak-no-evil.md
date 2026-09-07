@@ -9,7 +9,7 @@ When an American family is invited to spend the weekend at the idyllic country e
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63571303/)  [TMDB](https://www.themoviedb.org/movie/1114513)
+[Discuss](https://www.avsforum.com/posts/63571303/)  [TMDB](https://www.themoviedb.org/movie/1114513)  [Compare across authors](../../compare/?t=film-speak-no-evil_1114513)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Speak%20No%20Evil%20(2024)%20(%2B7%20gain)%20DD%2B%20Atmos.jpg)

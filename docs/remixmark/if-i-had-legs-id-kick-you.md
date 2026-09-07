@@ -12,7 +12,7 @@ With her life crashing down around her, Linda attempts to navigate her child's m
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64314298#post-64314298)  [TMDB](https://www.themoviedb.org/movie/1160360)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64314298#post-64314298)  [TMDB](https://www.themoviedb.org/movie/1160360)  [Compare across authors](../../compare/?t=film-if-i-had-legs-id-kick-you_1160360)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/If%20I%20Had%20Legs%20I'd%20Kick%20You%20(2025)%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)

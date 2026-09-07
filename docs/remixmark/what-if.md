@@ -14,6 +14,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1543?post_id=63724938#post-63724938)
 
+* [Compare across authors](../../compare/?t=TV-what-if_91363)
+
 * Production Year: 2021
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1544?post_id=63726651#post-63726651)
+
+* [Compare across authors](../../compare/?t=TV-what-if_91363)
 
 * Production Year: 2021
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1544?post_id=63728821#post-63728821)
 
+* [Compare across authors](../../compare/?t=TV-what-if_91363)
+
 * Production Year: 2021
 
 
@@ -73,6 +79,8 @@ Dialnorm Compensation: 4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1544?post_id=63730393#post-63730393)
+
+* [Compare across authors](../../compare/?t=TV-what-if_91363)
 
 * Production Year: 2021
 
@@ -94,6 +102,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1545?post_id=63732320#post-63732320)
 
+* [Compare across authors](../../compare/?t=TV-what-if_91363)
+
 * Production Year: 2021
 
 
@@ -114,6 +124,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1545?post_id=63733738#post-63733738)
 
+* [Compare across authors](../../compare/?t=TV-what-if_91363)
+
 * Production Year: 2021
 
 
@@ -133,6 +145,8 @@ Dialnorm Compensation: 4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1545?post_id=63735876#post-63735876)
+
+* [Compare across authors](../../compare/?t=TV-what-if_91363)
 
 * Production Year: 2021
 

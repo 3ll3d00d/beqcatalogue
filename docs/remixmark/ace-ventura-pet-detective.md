@@ -9,7 +9,7 @@ He's Ace Ventura: Pet Detective. Jim Carrey is on the case to find the Miami Dol
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1617?post_id=64097527#post-64097527)  [TMDB](https://www.themoviedb.org/movie/3049)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1617?post_id=64097527#post-64097527)  [TMDB](https://www.themoviedb.org/movie/3049)  [Compare across authors](../../compare/?t=film-ace-ventura-pet-detective_3049)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Ace%20Ventura%20Pet%20Detective%20(1994)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)

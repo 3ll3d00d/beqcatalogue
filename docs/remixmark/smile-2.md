@@ -9,7 +9,7 @@ About to embark on a new world tour, global pop sensation Skye Riley begins expe
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1554?post_id=63794508#post-63794508)  [TMDB](https://www.themoviedb.org/movie/1100782)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1554?post_id=63794508#post-63794508)  [TMDB](https://www.themoviedb.org/movie/1100782)  [Compare across authors](../../compare/?t=film-smile-2_1100782)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Smile%202%20(2024)%20(-.5%20gain)%20Atmos.jpg)
@@ -25,7 +25,7 @@ About to embark on a new world tour, global pop sensation Skye Riley begins expe
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1529?post_id=63659526#post-63659526)  [TMDB](https://www.themoviedb.org/movie/1100782)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1529?post_id=63659526#post-63659526)  [TMDB](https://www.themoviedb.org/movie/1100782)  [Compare across authors](../../compare/?t=film-smile-2_1100782)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Smile%202%20(2024)%20(%2B4.5%20gain)%20DD%2B.jpg)
@@ -42,7 +42,7 @@ About to embark on a new world tour, global pop sensation Skye Riley begins expe
 Dialnorm Compensation: 5db
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1530?post_id=63661990#post-63661990)  [TMDB](https://www.themoviedb.org/movie/1100782)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1530?post_id=63661990#post-63661990)  [TMDB](https://www.themoviedb.org/movie/1100782)  [Compare across authors](../../compare/?t=film-smile-2_1100782)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Smile%202%20(2024)%20DD%2B%20Atmos.jpg)

@@ -12,7 +12,7 @@ Follow the mythic journey of Paul Atreides as he unites with Chani and the Freme
 +10dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63257774)  [TMDB](https://www.themoviedb.org/movie/693134)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63257774)  [TMDB](https://www.themoviedb.org/movie/693134)  [Compare across authors](../../compare/?t=film-dune-part-two_693134)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Dune%20Part%202%20(2024)%20(-6.5%20gain)%20DD%2B%20Atmos.jpg)

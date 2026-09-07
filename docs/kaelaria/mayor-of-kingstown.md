@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-mayor-of-kingstown_97951)
+
 * Production Year: 2021
 
 

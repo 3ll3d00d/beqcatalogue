@@ -9,7 +9,7 @@ On a desolate country highway, two homeward-bound teens are nearly run off the r
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1624?post_id=64133578#post-64133578)  [TMDB](https://www.themoviedb.org/movie/8922)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1624?post_id=64133578#post-64133578)  [TMDB](https://www.themoviedb.org/movie/8922)  [Compare across authors](../../compare/?t=film-jeepers-creepers_8922)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jeepers%20Creepers%20(2001)%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)

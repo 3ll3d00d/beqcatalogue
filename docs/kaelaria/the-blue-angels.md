@@ -7,7 +7,7 @@
 Follow the veterans and newest class of Navy and Marine Corps flight squadron as they go through intense training and into a season of heart-stopping aerial artistry.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1120821)
+[TMDB](https://www.themoviedb.org/movie/1120821)  [Compare across authors](../../compare/?t=film-the-blue-angels_1120821)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Theblue%20angels%20(2024)%20DD%2B.jpg)

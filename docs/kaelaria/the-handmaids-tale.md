@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-handmaids-tale_69478)
+
 * Production Year: 2017
 
 

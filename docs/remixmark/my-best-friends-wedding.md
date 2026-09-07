@@ -9,7 +9,7 @@ When she receives word that her longtime platonic pal Michael O'Neal is getting 
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/posts/63689576/)  [TMDB](https://www.themoviedb.org/movie/8874)
+[Discuss](https://www.avsforum.com/posts/63689576/)  [TMDB](https://www.themoviedb.org/movie/8874)  [Compare across authors](../../compare/?t=film-my-best-friends-wedding_8874)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/My%20Best%20Friend's%20Wedding%20(1997)%20(%2B2.5)%20Atmos.jpg)

@@ -12,7 +12,7 @@ Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creatur
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1062722)
+[TMDB](https://www.themoviedb.org/movie/1062722)  [Compare across authors](../../compare/?t=film-frankenstein_1062722)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Frankenstein%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-reacher_108978)
+
 * Production Year: 2022
 
 

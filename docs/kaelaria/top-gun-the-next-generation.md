@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-top-gun-the-next-generation_237289)
+
 * Production Year: 2025
 
 

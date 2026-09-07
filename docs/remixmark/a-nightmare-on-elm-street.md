@@ -9,7 +9,7 @@ Teenagers in a small town are dropping like flies, apparently in the grip of mas
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1515?post_id=63596527#post-63596527)  [TMDB](https://www.themoviedb.org/movie/377)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1515?post_id=63596527#post-63596527)  [TMDB](https://www.themoviedb.org/movie/377)  [Compare across authors](../../compare/?t=film-a-nightmare-on-elm-street_377)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/A%20Nightmare%20on%20Elm%20Street%20(1984)%20(%2B1%20gain)%20Atmos.jpg)

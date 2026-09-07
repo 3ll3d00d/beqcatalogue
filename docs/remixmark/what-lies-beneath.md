@@ -11,7 +11,7 @@ When Claire Spencer starts hearing ghostly voices and seeing spooky images, she 
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1580?post_id=63961383#post-63961383)  [TMDB](https://www.themoviedb.org/movie/2655)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1580?post_id=63961383#post-63961383)  [TMDB](https://www.themoviedb.org/movie/2655)  [Compare across authors](../../compare/?t=film-what-lies-beneath_2655)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/What%20Lies%20Beneath%20(2000)%20(%2B5%20gain)%20DTS-HD%20MA%205.1%20UHD.jpg)

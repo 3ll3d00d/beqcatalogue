@@ -9,7 +9,7 @@ Clean-cut Jeffrey Beaumont realizes his hometown is not so normal when he discov
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1475?post_id=63394385#post-63394385)  [TMDB](https://www.themoviedb.org/movie/793)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1475?post_id=63394385#post-63394385)  [TMDB](https://www.themoviedb.org/movie/793)  [Compare across authors](../../compare/?t=film-blue-velvet_793)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Blue%20Velvet%20(1986)%20(%2B4%20gain)%20DTS-HD%20MA%205.1.jpg)

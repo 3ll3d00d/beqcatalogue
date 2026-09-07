@@ -7,7 +7,7 @@
 While Sidney Prescott and her friends visit the Hollywood set of Stab 3, the third film based on the Woodsboro murders, another Ghostface killer rises to terrorize them.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/4234)
+[TMDB](https://www.themoviedb.org/movie/4234)  [Compare across authors](../../compare/?t=film-scream-3_4234)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%203%20(2000)%20DTS-HD%20MA%205.1.jpg)

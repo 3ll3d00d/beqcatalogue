@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-book-of-boba-fett_115036)
+
 * Production Year: 2021
 
 

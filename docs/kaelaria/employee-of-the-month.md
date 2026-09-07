@@ -7,7 +7,7 @@
 When he hears that the new female employee digs ambitious men who are the store employee of the month, a slacker gets his act together but finds himself in competition with his rival, an ambitious co-worker.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9794)
+[TMDB](https://www.themoviedb.org/movie/9794)  [Compare across authors](../../compare/?t=film-employee-of-the-month_9794)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/EMPLOYEE%20OF%20THE.MONTH%20(2006)%20DTS.jpg)

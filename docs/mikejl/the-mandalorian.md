@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-mandalorian_82856)
+
 * Production Year: 2019
 
 
@@ -20,6 +22,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-mandalorian_82856)
+
 * Production Year: 2019
 
 
@@ -32,6 +36,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-the-mandalorian_82856)
 
 * Production Year: 2019
 

@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-new-look_157368)
+
 * Production Year: 2024
 
 

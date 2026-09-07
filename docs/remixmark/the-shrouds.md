@@ -12,7 +12,7 @@ Inconsolable since the death of his wife, Karsh, a prominent businessman, invent
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1601?post_id=64050377#post-64050377)  [TMDB](https://www.themoviedb.org/movie/970947)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1601?post_id=64050377#post-64050377)  [TMDB](https://www.themoviedb.org/movie/970947)  [Compare across authors](../../compare/?t=film-the-shrouds_970947)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Shrouds%20(2025)%20(%2B9%20gain)%20DD.jpg)
@@ -30,7 +30,7 @@ Inconsolable since the death of his wife, Karsh, a prominent businessman, invent
 
 **MV Adjustment:** +9.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1672?post_id=64273511#post-64273511)  [TMDB](https://www.themoviedb.org/movie/970947)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1672?post_id=64273511#post-64273511)  [TMDB](https://www.themoviedb.org/movie/970947)  [Compare across authors](../../compare/?t=film-the-shrouds_970947)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Shrouds%20(2025)%20(%2B9%20gain)%20UHD%20DTS-HD%20MA%205.1.jpg)
@@ -46,7 +46,7 @@ Inconsolable since the death of his wife, Karsh, a prominent businessman, invent
 
 **MV Adjustment:** +9.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1643?post_id=64196492#post-64196492)  [TMDB](https://www.themoviedb.org/movie/970947)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1643?post_id=64196492#post-64196492)  [TMDB](https://www.themoviedb.org/movie/970947)  [Compare across authors](../../compare/?t=film-the-shrouds_970947)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Shrouds%20(2025)%20(%2B9%20gain)%20DTS-HD%20MA%205.1.jpg)

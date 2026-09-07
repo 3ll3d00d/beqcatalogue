@@ -10,7 +10,7 @@ In the winter of 1598, the seven-year Imjin War nears an end as the Japanese Wae
 KO
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/660360)
+[TMDB](https://www.themoviedb.org/movie/660360)  [Compare across authors](../../compare/?t=film-noryang-deadly-sea_660360)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Noryang%20(2023)%20DD%2B.jpg)

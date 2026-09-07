@@ -9,7 +9,7 @@ After being murdered by corrupt colleagues in a covert government agency, Al Sim
 
 **MV Adjustment:** -3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1476?post_id=63396717#post-63396717)  [TMDB](https://www.themoviedb.org/movie/10336)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1476?post_id=63396717#post-63396717)  [TMDB](https://www.themoviedb.org/movie/10336)  [Compare across authors](../../compare/?t=film-spawn_10336)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Spawn%20(1997)%20(-3.5%20gain)%20DTS-HD%20MA%205.1.jpg)
@@ -27,7 +27,7 @@ After being murdered by corrupt colleagues in a covert government agency, Al Sim
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1649?post_id=64216320#post-64216320)  [TMDB](https://www.themoviedb.org/movie/10336)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1649?post_id=64216320#post-64216320)  [TMDB](https://www.themoviedb.org/movie/10336)  [Compare across authors](../../compare/?t=film-spawn_10336)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Spawn%20(1997)%20UHD%20(-2%20gain)%20DTS-HD%20MA%205.1.jpg)

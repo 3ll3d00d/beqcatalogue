@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-school-spirits_208397)
+
 * Production Year: 2023
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-school-spirits_208397)
 
 * Production Year: 2023
 

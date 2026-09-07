@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-brilliant-minds_237748)
+
 * Production Year: 2024
 
 

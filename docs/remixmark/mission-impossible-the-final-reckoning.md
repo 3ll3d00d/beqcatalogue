@@ -9,7 +9,7 @@ Ethan Hunt and team continue their search for the terrifying AI known as the Ent
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1667?post_id=64253667#post-64253667)  [TMDB](https://www.themoviedb.org/movie/575265)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1667?post_id=64253667#post-64253667)  [TMDB](https://www.themoviedb.org/movie/575265)  [Compare across authors](../../compare/?t=film-mission-impossible-the-final-reckoning_575265)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Mission%20Impossible%20-%20The%20Final%20Reckoning%20(2025)%20(-1%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Ethan Hunt and team continue their search for the terrifying AI known as the Ent
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1629?post_id=64150713#post-64150713)  [TMDB](https://www.themoviedb.org/movie/575265)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1629?post_id=64150713#post-64150713)  [TMDB](https://www.themoviedb.org/movie/575265)  [Compare across authors](../../compare/?t=film-mission-impossible-the-final-reckoning_575265)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Mission%20Impossible%20-%20The%20Final%20Reckoning%20(2025)%20(-1%20gain)%20DD%2B%20Atmos.jpg)

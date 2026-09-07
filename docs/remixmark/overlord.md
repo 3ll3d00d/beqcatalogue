@@ -9,7 +9,7 @@ France, June 1944. On the eve of D-Day, some American paratroopers fall behind e
 
 **MV Adjustment:** -3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1651?post_id=64220072#post-64220072)  [TMDB](https://www.themoviedb.org/movie/438799)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1651?post_id=64220072#post-64220072)  [TMDB](https://www.themoviedb.org/movie/438799)  [Compare across authors](../../compare/?t=film-overlord_438799)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Overlord%20(2018)%20(-3.5%20gain)%20DD%2B%20Atmos.jpg)

@@ -11,7 +11,7 @@ A man who loves when a plan comes together, Col. Hannibal Smith leads a close-kn
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/posts/62618314/)  [TMDB](https://www.themoviedb.org/movie/34544)
+[Discuss](https://www.avsforum.com/posts/62618314/)  [TMDB](https://www.themoviedb.org/movie/34544)  [Compare across authors](../../compare/?t=film-the-a-team_34544)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20A-Team%20(2010)%20Extended%20Cut%20DTS-HD%20MA%205.1.jpg)

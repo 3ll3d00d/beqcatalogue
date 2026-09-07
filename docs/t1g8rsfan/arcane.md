@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/posts/63589729/)
 
+* [Compare across authors](../../compare/?t=TV-arcane_94605)
+
 * Production Year: 2021
 
 
@@ -24,6 +26,8 @@
 **MV Adjustment:** +0.5 dB
 
 * [Forum Post](https://www.avsforum.com/posts/63589729/)
+
+* [Compare across authors](../../compare/?t=TV-arcane_94605)
 
 * Production Year: 2024
 

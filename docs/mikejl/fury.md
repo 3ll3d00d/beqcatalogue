@@ -7,7 +7,7 @@
 In the last months of World War II, as the Allies make their final push in the European theatre, a battle-hardened U.S. Army sergeant named 'Wardaddy' commands a Sherman tank called 'Fury' and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/228150)
+[TMDB](https://www.themoviedb.org/movie/228150)  [Compare across authors](../../compare/?t=film-fury_228150)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Fury/Fury%20(2014)%20Atmos.jpg)

@@ -14,6 +14,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1613?post_id=64075318#post-64075318)
 
+* [Compare across authors](../../compare/?t=TV-ironheart_114471)
+
 * Production Year: 2025
 
 

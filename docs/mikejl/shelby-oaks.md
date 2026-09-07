@@ -7,7 +7,7 @@
 A woman's obsessive search for her missing sister leads her into a terrifying mystery at the hands of an unknown evil.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/937941)
+[TMDB](https://www.themoviedb.org/movie/937941)  [Compare across authors](../../compare/?t=film-shelby-oaks_937941)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Shelby%20Oaks/Shelby%20Oaks%20(2024)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ A woman's obsessive search for her missing sister leads her into a terrifying my
 A woman's obsessive search for her missing sister leads her into a terrifying mystery at the hands of an unknown evil.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/937941)
+[TMDB](https://www.themoviedb.org/movie/937941)  [Compare across authors](../../compare/?t=film-shelby-oaks_937941)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Shelby%20Oaks/Shelby%20Oaks%20(2024)%20DTS-HD%20MA%205.1.jpg)

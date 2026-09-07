@@ -12,6 +12,8 @@
 BEQ Note: This BEQ was contributed to the catalogue by AVS Forum member Magly, thanks!
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-blue-planet-ii_74313)
+
 * Production Year: 2017
 
 

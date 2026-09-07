@@ -12,7 +12,7 @@ A horrible toxic accident transforms terminally ill janitor Winston Gooze into a
 Dialnorm Compensation: 1dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1658?post_id=64229825#post-64229825)  [TMDB](https://www.themoviedb.org/movie/338969)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1658?post_id=64229825#post-64229825)  [TMDB](https://www.themoviedb.org/movie/338969)  [Compare across authors](../../compare/?t=film-the-toxic-avenger-unrated_338969)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Toxic%20Avenger%20Unrated%20(2025)%20(%2B6%20gain)%20DD%2B.jpg)
@@ -28,7 +28,7 @@ When a downtrodden janitor, Winston Gooze, is exposed to a catastrophic toxic ac
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1673?post_id=64278045#post-64278045)  [TMDB](https://www.themoviedb.org/movie/338969)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1673?post_id=64278045#post-64278045)  [TMDB](https://www.themoviedb.org/movie/338969)  [Compare across authors](../../compare/?t=film-the-toxic-avenger-unrated_338969)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Toxic%20Avenger%20Unrated%20(2025)%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)
@@ -46,7 +46,7 @@ When a downtrodden janitor, Winston Gooze, is exposed to a catastrophic toxic ac
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1673?post_id=64279496#post-64279496)  [TMDB](https://www.themoviedb.org/movie/338969)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1673?post_id=64279496#post-64279496)  [TMDB](https://www.themoviedb.org/movie/338969)  [Compare across authors](../../compare/?t=film-the-toxic-avenger-unrated_338969)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Toxic%20Avenger%20Unrated%20(2025)%20UHD%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)

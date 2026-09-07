@@ -9,7 +9,7 @@ When carefree teenager Jay sleeps with her older boyfriend for the first time, s
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62819169)  [TMDB](https://www.themoviedb.org/movie/270303)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62819169)  [TMDB](https://www.themoviedb.org/movie/270303)  [Compare across authors](../../compare/?t=film-it-follows_270303)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/It%20Follows%20(2014)%20(%2B0.5%20gain)%20Atmos.jpg)

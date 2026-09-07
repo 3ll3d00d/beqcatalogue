@@ -7,7 +7,7 @@
 Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/6479)
+[TMDB](https://www.themoviedb.org/movie/6479)  [Compare across authors](../../compare/?t=film-i-am-legend_6479)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/I%20Am%20Legend%20(2007)%20DTS-HD%20MA%205.1.jpg)

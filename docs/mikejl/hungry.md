@@ -7,7 +7,7 @@
 A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1382832)
+[TMDB](https://www.themoviedb.org/movie/1382832)  [Compare across authors](../../compare/?t=film-hungry_1382832)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hungry/Hungry%20(2026)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ A group of holidaymakers must fight for their lives against a rampaging hippo on
 A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1382832)
+[TMDB](https://www.themoviedb.org/movie/1382832)  [Compare across authors](../../compare/?t=film-hungry_1382832)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hungry/Hungry%20(2026)%20DTS-HD%20MA%205.1.jpg)

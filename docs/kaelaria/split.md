@@ -7,7 +7,7 @@
 Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/381288)
+[TMDB](https://www.themoviedb.org/movie/381288)  [Compare across authors](../../compare/?t=film-split_381288)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Split%20(2016)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fle
 Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/381288)
+[TMDB](https://www.themoviedb.org/movie/381288)  [Compare across authors](../../compare/?t=film-split_381288)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/main/Split%20(2016)%20DTS-HD%20MA%205.1.jpg)

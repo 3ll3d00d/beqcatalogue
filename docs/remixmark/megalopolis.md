@@ -9,7 +9,7 @@ Genius artist Cesar Catilina seeks to leap the City of New Rome into a utopian, 
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1543?post_id=63723707#post-63723707)  [TMDB](https://www.themoviedb.org/movie/592831)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1543?post_id=63723707#post-63723707)  [TMDB](https://www.themoviedb.org/movie/592831)  [Compare across authors](../../compare/?t=film-megalopolis_592831)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Megalopolis%20(2024)%20(%2B5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Genius artist Cesar Catilina seeks to leap the City of New Rome into a utopian, 
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1527?post_id=63651263#post-63651263)  [TMDB](https://www.themoviedb.org/movie/592831)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1527?post_id=63651263#post-63651263)  [TMDB](https://www.themoviedb.org/movie/592831)  [Compare across authors](../../compare/?t=film-megalopolis_592831)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Megalopolis%202024%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)

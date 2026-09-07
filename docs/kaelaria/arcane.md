@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-arcane_94605)
+
 * Production Year: 2021
 
 

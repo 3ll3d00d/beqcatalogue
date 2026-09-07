@@ -12,7 +12,7 @@ Two colleagues become stranded on a deserted island, the only survivors of a pla
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1732?post_id=64559790#post-64559790)  [TMDB](https://www.themoviedb.org/movie/1198994)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1732?post_id=64559790#post-64559790)  [TMDB](https://www.themoviedb.org/movie/1198994)  [Compare across authors](../../compare/?t=film-send-help_1198994)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Send%20Help%20(2026)%20(%2B3%20gain)%20Atmos.jpg)
@@ -31,7 +31,7 @@ Two colleagues become stranded on a deserted island, the only survivors of a pla
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1725?post_id=64526801#post-64526801)  [TMDB](https://www.themoviedb.org/movie/1198994)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1725?post_id=64526801#post-64526801)  [TMDB](https://www.themoviedb.org/movie/1198994)  [Compare across authors](../../compare/?t=film-send-help_1198994)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Send%20Help%20(2026)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)

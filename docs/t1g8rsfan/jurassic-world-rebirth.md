@@ -12,7 +12,7 @@ Five years after the events of Jurassic World Dominion, covert operations expert
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1234821)
+[TMDB](https://www.themoviedb.org/movie/1234821)  [Compare across authors](../../compare/?t=film-jurassic-world-rebirth_1234821)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/JW%20Rebirth%20(2025)%20(%2B1%20gain)%20Atmos.jpg)

@@ -9,7 +9,7 @@ Soulmates Eric and Shelly are brutally murdered when the demons of her dark past
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1524?post_id=63624920#post-63624920)  [TMDB](https://www.themoviedb.org/movie/957452)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1524?post_id=63624920#post-63624920)  [TMDB](https://www.themoviedb.org/movie/957452)  [Compare across authors](../../compare/?t=film-the-crow_957452)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Crow%20(2024)%20(-1%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Soulmates Eric and Shelly are brutally murdered when the demons of her dark past
 Dialnorm Compensation: 14dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1503?post_id=63539947#post-63539947)  [TMDB](https://www.themoviedb.org/movie/957452)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1503?post_id=63539947#post-63539947)  [TMDB](https://www.themoviedb.org/movie/957452)  [Compare across authors](../../compare/?t=film-the-crow_957452)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/The%20Crow%20(2024)%20(-1%20gain)%20DD%2B%20Atmos.jpg)

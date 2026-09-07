@@ -12,7 +12,7 @@ After Wang Wei's daughter is kidnapped by a criminal network and he receives no 
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1754?post_id=64694824#post-64694824)  [TMDB](https://www.themoviedb.org/movie/1280738)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1754?post_id=64694824#post-64694824)  [TMDB](https://www.themoviedb.org/movie/1280738)  [Compare across authors](../../compare/?t=film-the-furious_1280738)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Furious%20(2026)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

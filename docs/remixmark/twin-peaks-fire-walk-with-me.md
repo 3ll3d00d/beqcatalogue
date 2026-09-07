@@ -11,7 +11,7 @@ In the questionable town of Deer Meadow, Washington, FBI Agent Desmond inexplica
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318535#post-64318535)  [TMDB](https://www.themoviedb.org/movie/1923)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318535#post-64318535)  [TMDB](https://www.themoviedb.org/movie/1923)  [Compare across authors](../../compare/?t=film-twin-peaks-fire-walk-with-me_1923)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Twin%20Peaks%20Fire%20Walk%20with%20Me%20(1992)%20(-2%20gain)%20DTS-HD%20MA%205.1.jpg)

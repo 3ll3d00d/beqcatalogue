@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63841669#post-63841669)
 
+* [Compare across authors](../../compare/?t=TV-creature-commandos_219543)
+
 * Production Year: 2024
 
 

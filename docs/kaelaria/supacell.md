@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-supacell_158141)
+
 * Production Year: 2024
 
 

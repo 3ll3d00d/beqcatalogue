@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-malcolm-in-the-middle-lifes-still-unfair_279471)
+
 * Production Year: 2026
 
 

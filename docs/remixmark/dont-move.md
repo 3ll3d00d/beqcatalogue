@@ -12,7 +12,7 @@ A grieving woman in a secluded forest encounters a killer who injects her with a
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1522?post_id=63618694#post-63618694)  [TMDB](https://www.themoviedb.org/movie/1063877)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1522?post_id=63618694#post-63618694)  [TMDB](https://www.themoviedb.org/movie/1063877)  [Compare across authors](../../compare/?t=film-dont-move_1063877)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Don't%20Move%20(2024)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

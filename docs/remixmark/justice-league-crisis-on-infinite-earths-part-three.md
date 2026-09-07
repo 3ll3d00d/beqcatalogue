@@ -9,7 +9,7 @@ Now fully revealed as the ultimate threat to existence, the Anti-Monitor wages a
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1486?post_id=63450216#post-63450216)  [TMDB](https://www.themoviedb.org/movie/1209290)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1486?post_id=63450216#post-63450216)  [TMDB](https://www.themoviedb.org/movie/1209290)  [Compare across authors](../../compare/?t=film-justice-league-crisis-on-infinite-earths-part-three_1209290)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Justice%20League%20Crisis%20on%20Infinite%20Earths%20Part%20Three%20(2024)%20(%2B2%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ Now fully revealed as the ultimate threat to existence, the Anti-Monitor wages a
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1488?post_id=63462106#post-63462106)  [TMDB](https://www.themoviedb.org/movie/1209290)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1488?post_id=63462106#post-63462106)  [TMDB](https://www.themoviedb.org/movie/1209290)  [Compare across authors](../../compare/?t=film-justice-league-crisis-on-infinite-earths-part-three_1209290)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/Justice%20League%20Crisis%20on%20Infinite%20Earths%20Part%20Three%20(2024)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

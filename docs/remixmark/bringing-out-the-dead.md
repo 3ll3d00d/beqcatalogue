@@ -9,7 +9,7 @@ Once called "Father Frank" for his efforts to rescue lives, Frank Pierce sees th
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1745?post_id=64641720#post-64641720)  [TMDB](https://www.themoviedb.org/movie/8649)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1745?post_id=64641720#post-64641720)  [TMDB](https://www.themoviedb.org/movie/8649)  [Compare across authors](../../compare/?t=film-bringing-out-the-dead_8649)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Bringing%20Out%20the%20Dead%20(1999)%20(%2B.5%20gain)%20Atmos.jpg)

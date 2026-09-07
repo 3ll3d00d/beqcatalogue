@@ -7,7 +7,7 @@
 A US Army officer, who made a "friendly fire" mistake that was covered up, has been reassigned to a desk job. He is tasked to investigate a female chopper commander's worthiness to be awarded the Medal of Honor. At first all seems in order. But then he begins to notice inconsistencies between the testimonies of the witnesses...
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/10684)
+[TMDB](https://www.themoviedb.org/movie/10684)  [Compare across authors](../../compare/?t=film-courage-under-fire_10684)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Courage%20Under%20Fire%20(1996)%20DTS-HD%20MA%205.1.jpg)

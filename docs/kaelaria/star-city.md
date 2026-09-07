@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-star-city_252107)
+
 * Production Year: 2026
 
 

@@ -12,7 +12,7 @@ Thelma dreams of being a glamorous unicorn. Then in a rare pink and glitter-fill
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1476?post_id=63400609#post-63400609)  [TMDB](https://www.themoviedb.org/movie/739547)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1476?post_id=63400609#post-63400609)  [TMDB](https://www.themoviedb.org/movie/739547)  [Compare across authors](../../compare/?t=film-thelma-the-unicorn_739547)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Thelma%20the%20Unicorn%20(2024)%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)

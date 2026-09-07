@@ -14,6 +14,8 @@ Dialnorm Compensation: 01-3dB, 02-7dB, 04-5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1569?post_id=63893510#post-63893510)
 
+* [Compare across authors](../../compare/?t=TV-paradise_245927)
+
 * Production Year: 2025
 
 
@@ -31,6 +33,8 @@ Dialnorm Compensation: 03-7dB, 05-6dB, 06-5dB, 08-9dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1569?post_id=63893522#post-63893522)
 
+* [Compare across authors](../../compare/?t=TV-paradise_245927)
+
 * Production Year: 2025
 
 
@@ -47,6 +51,8 @@ Dialnorm Compensation: 8dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1569?post_id=63893533#post-63893533)
+
+* [Compare across authors](../../compare/?t=TV-paradise_245927)
 
 * Production Year: 2025
 

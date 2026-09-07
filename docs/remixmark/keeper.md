@@ -9,7 +9,7 @@ Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. W
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1697?post_id=64391413#post-64391413)  [TMDB](https://www.themoviedb.org/movie/1288072)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1697?post_id=64391413#post-64391413)  [TMDB](https://www.themoviedb.org/movie/1288072)  [Compare across authors](../../compare/?t=film-keeper_1288072)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Keeper%20(2025)%20(%2B4%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. W
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1703?post_id=64434541#post-64434541)  [TMDB](https://www.themoviedb.org/movie/1288072)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1703?post_id=64434541#post-64434541)  [TMDB](https://www.themoviedb.org/movie/1288072)  [Compare across authors](../../compare/?t=film-keeper_1288072)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Keeper%20(2025)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

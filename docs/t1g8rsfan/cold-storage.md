@@ -9,7 +9,7 @@ When a mutating, highly contagious fungus escapes a sealed facility, two employe
 
 **MV Adjustment:** +8.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/696393)
+[TMDB](https://www.themoviedb.org/movie/696393)  [Compare across authors](../../compare/?t=film-cold-storage_696393)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Cold%20Storage%20(2026)%20(%2B8%20gain)%20DTS-HD%20MA%205.1.jpg)

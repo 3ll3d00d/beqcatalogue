@@ -7,7 +7,7 @@
 A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1153714)
+[TMDB](https://www.themoviedb.org/movie/1153714)  [Compare across authors](../../compare/?t=film-death-of-a-unicorn_1153714)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Death%20of%20a%20Unicorn%20(2025)%20DD%2B%20Atmos.jpg)

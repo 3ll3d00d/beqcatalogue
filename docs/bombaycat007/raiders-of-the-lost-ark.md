@@ -9,7 +9,7 @@ Laserdisc Dolby Surround/DVD Audio
 When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/85)
+[TMDB](https://www.themoviedb.org/movie/85)  [Compare across authors](../../compare/?t=film-raiders-of-the-lost-ark_85)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Raiders%20of%20the%20Lost%20Ark%20(1981)%20BEQ%20LaserDisc%20Dolby%20Surround.png)
@@ -27,7 +27,7 @@ When Dr. Indiana Jones – the tweed-suited professor who just happens to be a c
 
 **MV Adjustment:** +1.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/85)
+[TMDB](https://www.themoviedb.org/movie/85)  [Compare across authors](../../compare/?t=film-raiders-of-the-lost-ark_85)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Raiders%20of%20the%20Lost%20Ark%20(1981)%20(%2B1.5%20Gain)%20BEQ%20Dolby%20Surround%20peak%20spectrum.png)

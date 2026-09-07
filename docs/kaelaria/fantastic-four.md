@@ -7,7 +7,7 @@
 During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these "Fantastic Four" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9738)
+[TMDB](https://www.themoviedb.org/movie/9738)  [Compare across authors](../../compare/?t=film-fantastic-four_9738)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Fantastic%20Four%20(2005)%20DTS-HD%20MA%205.1.jpg)

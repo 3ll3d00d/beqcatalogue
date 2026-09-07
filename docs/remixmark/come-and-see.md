@@ -9,7 +9,7 @@ The invasion of a village in Byelorussia by German forces sends young Florya int
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1648?post_id=64215231#post-64215231)  [TMDB](https://www.themoviedb.org/movie/25237)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1648?post_id=64215231#post-64215231)  [TMDB](https://www.themoviedb.org/movie/25237)  [Compare across authors](../../compare/?t=film-come-and-see_25237)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Come%20and%20See%20(1985)%20(%2B5%20gain)%20DTS-HD%20MA%203.1.jpg)

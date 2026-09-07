@@ -14,6 +14,8 @@ Dialnorm Compensation: Ep. 1 - 5dB, Ep. 2, 3 - 4dB, Ep. 4 - 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1684?post_id=64329659#post-64329659)
 
+* [Compare across authors](../../compare/?t=TV-stranger-things_66732)
+
 * Production Year: 2016
 
 
@@ -30,6 +32,8 @@ Dialnorm Compensation: 6dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1693?post_id=64378798#post-64378798)
+
+* [Compare across authors](../../compare/?t=TV-stranger-things_66732)
 
 * Production Year: 2016
 
@@ -51,6 +55,8 @@ Dialnorm Compensation: 06-6dB, 07-5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1693?post_id=64378825#post-64378825)
 
+* [Compare across authors](../../compare/?t=TV-stranger-things_66732)
+
 * Production Year: 2016
 
 
@@ -67,6 +73,8 @@ Dialnorm Comensation: 5dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1697?post_id=64387339#post-64387339)
+
+* [Compare across authors](../../compare/?t=TV-stranger-things_66732)
 
 * Production Year: 2016
 

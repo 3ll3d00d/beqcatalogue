@@ -12,7 +12,7 @@ Elio, a space fanatic with an active imagination, finds himself on a cosmic misa
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1643?post_id=64200446#post-64200446)  [TMDB](https://www.themoviedb.org/movie/1022787)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1643?post_id=64200446#post-64200446)  [TMDB](https://www.themoviedb.org/movie/1022787)  [Compare across authors](../../compare/?t=film-elio_1022787)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Elio%20(2025)%20(%2B3.5%20gain)%20Atmos.jpg)
@@ -31,7 +31,7 @@ Elio, a space fanatic with an active imagination, finds himself on a cosmic misa
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1630?post_id=64152380#post-64152380)  [TMDB](https://www.themoviedb.org/movie/1022787)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1630?post_id=64152380#post-64152380)  [TMDB](https://www.themoviedb.org/movie/1022787)  [Compare across authors](../../compare/?t=film-elio_1022787)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Elio%20(2025)%20(%2B4%20gain)%20DD%2B%207.1.jpg)
@@ -50,7 +50,7 @@ Elio, a space fanatic with an active imagination, finds himself on a cosmic misa
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1642?post_id=64185644#post-64185644)  [TMDB](https://www.themoviedb.org/movie/1022787)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1642?post_id=64185644#post-64185644)  [TMDB](https://www.themoviedb.org/movie/1022787)  [Compare across authors](../../compare/?t=film-elio_1022787)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Elio%20(2025)%20(%2B3.5%20gain)%20DTS-HD%20MA%207.1.jpg)

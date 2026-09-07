@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-queens-gambit_87739)
+
 * Production Year: 2020
 
 

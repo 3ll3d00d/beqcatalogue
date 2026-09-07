@@ -9,7 +9,7 @@ A boy haunted by visions of a parallel world aids its disillusioned guardian in 
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63100519/)  [TMDB](https://www.themoviedb.org/movie/353491)
+[Discuss](https://www.avsforum.com/posts/63100519/)  [TMDB](https://www.themoviedb.org/movie/353491)  [Compare across authors](../../compare/?t=film-the-dark-tower_353491)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Dark%20Tower%20(2017)%20(%2B1%20gain)%20Atmos.jpg)

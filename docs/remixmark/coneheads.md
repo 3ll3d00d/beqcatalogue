@@ -11,7 +11,7 @@ A pair of aliens arrive on Earth to prepare for invasion, but crash instead. Wit
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1632?post_id=64153521#post-64153521)  [TMDB](https://www.themoviedb.org/movie/9612)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1632?post_id=64153521#post-64153521)  [TMDB](https://www.themoviedb.org/movie/9612)  [Compare across authors](../../compare/?t=film-coneheads_9612)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Coneheads%20(1993)%20(%2B7%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -11,7 +11,7 @@ Blonde Betty Elms has only just arrived in Hollywood to become a movie star when
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1700?post_id=64413882#post-64413882)  [TMDB](https://www.themoviedb.org/movie/1018)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1700?post_id=64413882#post-64413882)  [TMDB](https://www.themoviedb.org/movie/1018)  [Compare across authors](../../compare/?t=film-mulholland-drive_1018)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Mulholland%20Drive%20(2001)%20(%2B2.5%20gain)%20DTS-HD%20MA%205.1.jpg)

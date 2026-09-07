@@ -7,7 +7,7 @@
 A common thief joins a mythical god on a quest through Egypt.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/205584)
+[TMDB](https://www.themoviedb.org/movie/205584)  [Compare across authors](../../compare/?t=film-gods-of-egypt_205584)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Gods%20of%20Egypt/Gods%20of%20Egypt%20(2016)%20DTS-X%207.1.jpg)

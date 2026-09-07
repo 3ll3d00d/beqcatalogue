@@ -9,7 +9,7 @@ Madeline is married to Ernest, who was once her arch-rival Helen's fiancé. Afte
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1700?post_id=64413790#post-64413790)  [TMDB](https://www.themoviedb.org/movie/9374)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1700?post_id=64413790#post-64413790)  [TMDB](https://www.themoviedb.org/movie/9374)  [Compare across authors](../../compare/?t=film-death-becomes-her_9374)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Death%20Becomes%20Her%20(1992)%20(%2B6%20gain)%20DTS-HD%20MA%205.1.jpg)

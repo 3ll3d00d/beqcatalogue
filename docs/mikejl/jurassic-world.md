@@ -7,7 +7,7 @@
 Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/135397)
+[TMDB](https://www.themoviedb.org/movie/135397)  [Compare across authors](../../compare/?t=film-jurassic-world_135397)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jurassic%20World/Jurassic%20World%20(2015)%20Atmos.jpg)

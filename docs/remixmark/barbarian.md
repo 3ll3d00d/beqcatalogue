@@ -9,7 +9,7 @@ In town for a job interview, a young woman arrives at her Airbnb late at night o
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1763?post_id=64743216#post-64743216)  [TMDB](https://www.themoviedb.org/movie/913290)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1763?post_id=64743216#post-64743216)  [TMDB](https://www.themoviedb.org/movie/913290)  [Compare across authors](../../compare/?t=film-barbarian_913290)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Barbarian%20(2022)%20(%2B4%20gain)%20DD%2B.jpg)
@@ -28,7 +28,7 @@ In town for a job interview, a young woman arrives at her Airbnb late at night o
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1763?post_id=64746588#post-64746588)  [TMDB](https://www.themoviedb.org/movie/913290)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1763?post_id=64746588#post-64746588)  [TMDB](https://www.themoviedb.org/movie/913290)  [Compare across authors](../../compare/?t=film-barbarian_913290)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Barbarian%20(2022)%20(%2B6%20gain)%20DTS-HD%20MA%205.1.jpg)

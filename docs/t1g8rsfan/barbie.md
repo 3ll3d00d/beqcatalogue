@@ -9,7 +9,7 @@ Barbie and Ken are having the time of their lives in the colorful and seemingly 
 
 **MV Adjustment:** +2.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/346698)
+[TMDB](https://www.themoviedb.org/movie/346698)  [Compare across authors](../../compare/?t=film-barbie_346698)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Barbie%20(2023)%20(%2B2%20gain)%20Atmos.jpg)

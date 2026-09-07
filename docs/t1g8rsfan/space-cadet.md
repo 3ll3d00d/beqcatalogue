@@ -9,7 +9,7 @@ Tiffany "Rex" Simpson has always dreamed of going to space, and her "doctored" a
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63420068/)  [TMDB](https://www.themoviedb.org/movie/1019411)
+[Discuss](https://www.avsforum.com/posts/63420068/)  [TMDB](https://www.themoviedb.org/movie/1019411)  [Compare across authors](../../compare/?t=film-space-cadet_1019411)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Space%20Cadet%20(2024)%20(%2B3%20gain)%20DD%2B.jpg)

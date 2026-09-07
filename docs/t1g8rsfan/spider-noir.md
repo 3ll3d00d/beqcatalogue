@@ -9,6 +9,8 @@
 
 **MV Adjustment:** +3.0 dB
 
+* [Compare across authors](../../compare/?t=TV-spider-noir_220102)
+
 * Production Year: 2026
 
 

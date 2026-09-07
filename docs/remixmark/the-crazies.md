@@ -7,7 +7,7 @@
 Four friends find themselves trapped in their small hometown after they discover their friends and neighbors going quickly and horrifically insane.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1592?post_id=64010441#post-64010441)  [TMDB](https://www.themoviedb.org/movie/29427)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1592?post_id=64010441#post-64010441)  [TMDB](https://www.themoviedb.org/movie/29427)  [Compare across authors](../../compare/?t=film-the-crazies_29427)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Crazies%20(2010)%20Atmos.jpg)

@@ -12,7 +12,7 @@ After her husband's abrupt death, Alice seeks solace with his remaining family â
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1761?post_id=64735875#post-64735875)  [TMDB](https://www.themoviedb.org/movie/1212763)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1761?post_id=64735875#post-64735875)  [TMDB](https://www.themoviedb.org/movie/1212763)  [Compare across authors](../../compare/?t=film-evil-dead-burn_1212763)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Evil%20Dead%20Burn%20(2026)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

@@ -7,7 +7,7 @@
 Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1358005)
+[TMDB](https://www.themoviedb.org/movie/1358005)  [Compare across authors](../../compare/?t=film-office-romance_1358005)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Office%20Romance/Office%20Romance%20(2026)%20DD%2B%20Atmos.jpg)

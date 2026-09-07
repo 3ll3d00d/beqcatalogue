@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-beacon-23_112388)
+
 * Production Year: 2023
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-beacon-23_112388)
 
 * Production Year: 2023
 

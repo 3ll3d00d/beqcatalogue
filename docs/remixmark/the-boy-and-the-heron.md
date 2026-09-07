@@ -9,7 +9,7 @@ While the Second World War rages, the teenage Mahito, haunted by his mother's tr
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1527?post_id=63645246#post-63645246)  [TMDB](https://www.themoviedb.org/movie/508883)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1527?post_id=63645246#post-63645246)  [TMDB](https://www.themoviedb.org/movie/508883)  [Compare across authors](../../compare/?t=film-the-boy-and-the-heron_508883)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Boy%20and%20the%20Heron%20(2023)%20(JA)%20(%2B7%20gain)%20Atmos.jpg)
@@ -25,7 +25,7 @@ While the Second World War rages, the teenage Mahito, haunted by his mother's tr
 
 **MV Adjustment:** +7.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1527?post_id=63645522#post-63645522)  [TMDB](https://www.themoviedb.org/movie/508883)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1527?post_id=63645522#post-63645522)  [TMDB](https://www.themoviedb.org/movie/508883)  [Compare across authors](../../compare/?t=film-the-boy-and-the-heron_508883)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Boy%20and%20the%20Heron%20(2023)%20(EN)%20(%2B7.5%20gain)%20Atmos.jpg)
@@ -41,7 +41,7 @@ While the Second World War rages, the teenage Mahito, haunted by his mother's tr
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1475?post_id=63391340#post-63391340)  [TMDB](https://www.themoviedb.org/movie/508883)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1475?post_id=63391340#post-63391340)  [TMDB](https://www.themoviedb.org/movie/508883)  [Compare across authors](../../compare/?t=film-the-boy-and-the-heron_508883)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/main/The%20Boy%20and%20the%20Heron%20(2023)%20(JP)%20(%2B4.5%20gain)%20DD%2B.jpg)
@@ -57,7 +57,7 @@ While the Second World War rages, the teenage Mahito, haunted by his mother's tr
 
 **MV Adjustment:** +7.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1476?post_id=63399883#post-63399883)  [TMDB](https://www.themoviedb.org/movie/508883)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1476?post_id=63399883#post-63399883)  [TMDB](https://www.themoviedb.org/movie/508883)  [Compare across authors](../../compare/?t=film-the-boy-and-the-heron_508883)
 { data-search-exclude }
 
 ![img 6](https://raw.githubusercontent.com/remixmark/images/main/The%20Boy%20and%20the%20Heron%20(2023)%20(EN)%20(%2B7.5%20gain)%20DD%2B%20Atmos.jpg)

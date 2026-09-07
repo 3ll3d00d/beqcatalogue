@@ -9,7 +9,7 @@ In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one o
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62942184)  [TMDB](https://www.themoviedb.org/movie/77174)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62942184)  [TMDB](https://www.themoviedb.org/movie/77174)  [Compare across authors](../../compare/?t=film-paranorman_77174)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/ParaNorman%20(2012)%20Atmos%20PvA.jpg)

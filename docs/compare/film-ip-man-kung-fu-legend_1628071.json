@@ -1,0 +1,1 @@
+[{"author":"mikejl","audioTypes":["Atmos"],"content_type":"film","season":"","episode":"","edition":"","filters":[{"type":"LowShelf","freq":20.0,"gain":7.0,"q":0.75,"count":1},{"type":"LowShelf","freq":20.0,"gain":7.0,"q":0.75,"count":1},{"type":"PeakingEQ","freq":25.0,"gain":-3.3,"q":2.1,"count":1},{"type":"PeakingEQ","freq":75.0,"gain":0.1,"q":1.0,"count":1}]}]

@@ -9,7 +9,7 @@ On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1687?post_id=64350091#post-64350091)  [TMDB](https://www.themoviedb.org/movie/11395)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1687?post_id=64350091#post-64350091)  [TMDB](https://www.themoviedb.org/movie/11395)  [Compare across authors](../../compare/?t=film-the-santa-clause_11395)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Santa%20Clause%20(1994)%20(%2B6%20gain)%20DTS-HD%20MA%205.1.jpg)

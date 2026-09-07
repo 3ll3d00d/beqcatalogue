@@ -14,6 +14,8 @@ Dialnorm Compensation: Ep. 1: 4dB, Ep. 3, 5-7: 5dB, Ep. 2, 4, 9-10: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1584?post_id=63975118#post-63975118)
 
+* [Compare across authors](../../compare/?t=TV-you_78191)
+
 * Production Year: 2018
 
 

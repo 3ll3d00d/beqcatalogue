@@ -9,7 +9,7 @@ On one random day in the San Fernando Valley, a dying father, a young wife, a ma
 
 **MV Adjustment:** +3.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/334)
+[TMDB](https://www.themoviedb.org/movie/334)  [Compare across authors](../../compare/?t=film-magnolia_334)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/main/Images/Magnolia%20(1999)%20(%2B3%20Gain)%20TrueHD%205.1.png)

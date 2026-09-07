@@ -14,7 +14,7 @@ In the year 2029, the barriers of our world have been broken down by the net and
 Ultra HD Blu-ray™
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9323)
+[TMDB](https://www.themoviedb.org/movie/9323)  [Compare across authors](../../compare/?t=film-ghost-in-the-shell_9323)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Ghost%20in%20the%20Shell%20(1995)%20(%2B5%20gain)%20Atmos.jpg)

@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-nemesis_285807)
+
 * Production Year: 2026
 
 

@@ -7,7 +7,7 @@
 Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1241470)
+[TMDB](https://www.themoviedb.org/movie/1241470)  [Compare across authors](../../compare/?t=film-osiris_1241470)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Osiris/Osiris%20(2025)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ Special Forces commandos on a mission are abducted mid-operation by a mysterious
 Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1241470)
+[TMDB](https://www.themoviedb.org/movie/1241470)  [Compare across authors](../../compare/?t=film-osiris_1241470)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Osiris/Osiris%20(2025)%20DD%2B%205.1.jpg)

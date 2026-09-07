@@ -10,7 +10,7 @@ When Carol Vanstone, CEO of the technology company Zenotek, expresses her intent
 UHD
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/384682)
+[TMDB](https://www.themoviedb.org/movie/384682)  [Compare across authors](../../compare/?t=film-office-christmas-party_384682)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Office%20Christmas%20Party/Office%20Christmas%20Party%20(2016)%20DTS-HD%20MA%205.1.jpg)

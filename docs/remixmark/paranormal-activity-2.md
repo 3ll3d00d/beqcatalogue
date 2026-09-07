@@ -9,7 +9,7 @@ Just as Daniel and Kristi welcome a newborn baby into their home, a demonic pres
 
 **MV Adjustment:** +8.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1640?post_id=64176666#post-64176666)  [TMDB](https://www.themoviedb.org/movie/41436)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1640?post_id=64176666#post-64176666)  [TMDB](https://www.themoviedb.org/movie/41436)  [Compare across authors](../../compare/?t=film-paranormal-activity-2_41436)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Paranormal%20Activity%202%20(2010)%20(%2B8%20gain)%20DTS-HD%20MA%205.1.jpg)

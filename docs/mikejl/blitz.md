@@ -7,7 +7,7 @@
 A tough cop is dispatched to take down a serial killer who has been targeting police officers.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/55846)
+[TMDB](https://www.themoviedb.org/movie/55846)  [Compare across authors](../../compare/?t=film-blitz_55846)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blitz/Blitz%20(2011)%20DD%2B%2051.jpg)

@@ -9,7 +9,7 @@
 
 **MV Adjustment:** +8.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1480?post_id=63421743#post-63421743)  [TMDB](https://www.themoviedb.org/movie/51739)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1480?post_id=63421743#post-63421743)  [TMDB](https://www.themoviedb.org/movie/51739)  [Compare across authors](../../compare/?t=film-the-secret-world-of-arrietty_51739)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Secret%20World%20of%20Arrietty%20(2010)%20(EN)%20(%2B8%20gain)%20DTS-HD%20MA%205.1.jpg)
@@ -25,7 +25,7 @@
 
 **MV Adjustment:** +6.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1480?post_id=63421453#post-63421453)  [TMDB](https://www.themoviedb.org/movie/51739)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1480?post_id=63421453#post-63421453)  [TMDB](https://www.themoviedb.org/movie/51739)  [Compare across authors](../../compare/?t=film-the-secret-world-of-arrietty_51739)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/The%20Secret%20World%20of%20Arrietty%20(2010)%20(JA)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1.jpg)

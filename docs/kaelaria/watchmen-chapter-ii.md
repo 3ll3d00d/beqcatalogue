@@ -7,7 +7,7 @@
 Suspicious of the events ensnaring their former colleagues, Nite Owl and Silk Spectre are spurred out of retirement to investigate. As they grapple with personal ethics, inner demons and a society turned against them, they race the clock to uncover a deepening plot that might trigger global nuclear war.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1299652)
+[TMDB](https://www.themoviedb.org/movie/1299652)  [Compare across authors](../../compare/?t=film-watchmen-chapter-ii_1299652)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Watchmen%20Chapter%20II(%202024)%20DTS-HD%20MA%205.1.jpg)

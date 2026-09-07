@@ -12,7 +12,7 @@ A ticking-time-bomb insomniac and a slippery soap salesman channel primal male a
 Ultra HD Blu-ray™
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/550)
+[TMDB](https://www.themoviedb.org/movie/550)  [Compare across authors](../../compare/?t=film-fight-club_550)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Fight%20Club%20(1999)%20(%2B1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

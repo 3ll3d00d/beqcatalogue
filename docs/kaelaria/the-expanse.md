@@ -7,6 +7,8 @@
 * DTS-HD MA 5.1
 
 
+* [Compare across authors](../../compare/?t=TV-the-expanse_63639)
+
 * Production Year: 2015
 
 
@@ -19,6 +21,8 @@
 
 * DTS-HD MA 5.1
 
+
+* [Compare across authors](../../compare/?t=TV-the-expanse_63639)
 
 * Production Year: 2015
 
@@ -33,6 +37,8 @@
 * DTS-HD MA 5.1
 
 
+* [Compare across authors](../../compare/?t=TV-the-expanse_63639)
+
 * Production Year: 2015
 
 
@@ -45,6 +51,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-the-expanse_63639)
 
 * Production Year: 2015
 
@@ -59,6 +67,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-expanse_63639)
+
 * Production Year: 2015
 
 
@@ -71,6 +81,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-the-expanse_63639)
 
 * Production Year: 2015
 

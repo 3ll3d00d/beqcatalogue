@@ -12,7 +12,7 @@ Returning to the house where his family was brutally murdered during the war, â€
 +2dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1223601)
+[TMDB](https://www.themoviedb.org/movie/1223601)  [Compare across authors](../../compare/?t=film-sisu-road-to-revenge_1223601)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Sisu%20Road%20to%20Revenge%20(2025)%20(%2B5%20gain)%20Atmos.jpg)

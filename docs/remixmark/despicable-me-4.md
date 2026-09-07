@@ -9,7 +9,7 @@ Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to 
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1503?post_id=63541752#post-63541752)  [TMDB](https://www.themoviedb.org/movie/519182)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1503?post_id=63541752#post-63541752)  [TMDB](https://www.themoviedb.org/movie/519182)  [Compare across authors](../../compare/?t=film-despicable-me-4_519182)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Despicable%20Me%204%20(2024)%20(%2B6%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Gru and Lucy and their girls — Margo, Edith and Agnes — welcome a new member
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1488?post_id=63466535#post-63466535)  [TMDB](https://www.themoviedb.org/movie/519182)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1488?post_id=63466535#post-63466535)  [TMDB](https://www.themoviedb.org/movie/519182)  [Compare across authors](../../compare/?t=film-despicable-me-4_519182)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/Despicable%20Me%204%20(2024)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

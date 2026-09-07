@@ -12,7 +12,7 @@ Not paying attention to his job, a young demon allows the evil cleansing machine
 Audio: English with Japanese Music
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/39107)
+[TMDB](https://www.themoviedb.org/movie/39107)  [Compare across authors](../../compare/?t=film-dragon-ball-z-fusion-reborn_39107)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Dragon%20Ball%20Z%20Fusion%20Reborn%20(1995)%20(-1%20gain)%20EN%20with%20JA%20music%20DTS-HD%20MA%205.1.jpg)

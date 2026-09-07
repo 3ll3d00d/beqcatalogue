@@ -12,7 +12,7 @@ Now that Dan's assassin days are behind him, all he wants for Christmas is quali
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63018885/)  [TMDB](https://www.themoviedb.org/movie/1363123)
+[Discuss](https://www.avsforum.com/posts/63018885/)  [TMDB](https://www.themoviedb.org/movie/1363123)  [Compare across authors](../../compare/?t=film-the-family-plan-2_1363123)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Family%20Plan%202%20(2025)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

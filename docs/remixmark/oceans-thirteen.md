@@ -9,7 +9,7 @@ Danny Ocean's team of criminals are back and composing a plan more personal than
 
 **MV Adjustment:** +6.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1443#post-63279824)  [TMDB](https://www.themoviedb.org/movie/298)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1443#post-63279824)  [TMDB](https://www.themoviedb.org/movie/298)  [Compare across authors](../../compare/?t=film-oceans-thirteen_298)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Oceans%20Thirteen%20(2007)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1.jpg)

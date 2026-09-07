@@ -9,7 +9,7 @@ Quentin Tarantino's complete cut combining Kill Bill: Vol. 1 and Vol. 2 follows 
 
 **MV Adjustment:** +0.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/414419)
+[TMDB](https://www.themoviedb.org/movie/414419)  [Compare across authors](../../compare/?t=film-kill-bill-the-whole-bloody-affair_414419)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Kill%20Bill%20-%20The%20Whole%20Bloody%20Affair%20(2011)%20(%2B0.5%20Gain)%20DD%2B.png)

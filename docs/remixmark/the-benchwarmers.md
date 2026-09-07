@@ -12,7 +12,7 @@ A trio of guys try and make up for missed opportunities in childhood by forming 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1704?post_id=64434592#post-64434592)  [TMDB](https://www.themoviedb.org/movie/9957)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1704?post_id=64434592#post-64434592)  [TMDB](https://www.themoviedb.org/movie/9957)  [Compare across authors](../../compare/?t=film-the-benchwarmers_9957)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Benchwarmers%20(2006)%20(%2B2.5%20gaiin)%20DD.jpg)

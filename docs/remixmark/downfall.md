@@ -9,7 +9,7 @@ In April of 1945, Germany stands at the brink of defeat with the Russian Army cl
 
 **MV Adjustment:** +8.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1625?post_id=64133808#post-64133808)  [TMDB](https://www.themoviedb.org/movie/613)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1625?post_id=64133808#post-64133808)  [TMDB](https://www.themoviedb.org/movie/613)  [Compare across authors](../../compare/?t=film-downfall_613)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Downfall%20(2004)%20(%2B8.5%20gain)%20(DE)%20DTS-HD%20MA%205.1.jpg)

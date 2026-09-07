@@ -11,7 +11,7 @@ Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bi
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1692?post_id=64377504#post-64377504)  [TMDB](https://www.themoviedb.org/movie/120)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1692?post_id=64377504#post-64377504)  [TMDB](https://www.themoviedb.org/movie/120)  [Compare across authors](../../compare/?t=film-the-lord-of-the-rings-the-fellowship-of-the-ring_120)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20The%20Fellowship%20of%20the%20Ring%20(2001)%20(-2.5gain)%20Atmos.jpg)

@@ -7,7 +7,7 @@
 A journalist witnesses a passenger being thrown overboard a luxury yacht at night—only to be told that it didn’t happen as all the passengers and crew are accounted for. Despite no one believing her, she continues to look for answers, putting her own life in danger.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1290879)
+[TMDB](https://www.themoviedb.org/movie/1290879)  [Compare across authors](../../compare/?t=film-the-woman-in-cabin-10_1290879)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Woman%20in%20Cabin%2010/The%20Woman%20in%20Cabin%2010%20(2025)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ A journalist witnesses a passenger being thrown overboard a luxury yacht at nigh
 A journalist witnesses a passenger being thrown overboard a luxury yacht at night—only to be told that it didn’t happen as all the passengers and crew are accounted for. Despite no one believing her, she continues to look for answers, putting her own life in danger.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1290879)
+[TMDB](https://www.themoviedb.org/movie/1290879)  [Compare across authors](../../compare/?t=film-the-woman-in-cabin-10_1290879)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Woman%20in%20Cabin%2010/The%20Woman%20in%20Cabin%2010%20(2025)%20DD%2B%20Atmos.jpg)

@@ -14,6 +14,8 @@ Dialnorm Compensation: E01 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866517)
 
+* [Compare across authors](../../compare/?t=TV-loki_84958)
+
 * Production Year: 2021
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: E02 +4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866517)
+
+* [Compare across authors](../../compare/?t=TV-loki_84958)
 
 * Production Year: 2021
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: E03 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866517)
 
+* [Compare across authors](../../compare/?t=TV-loki_84958)
+
 * Production Year: 2021
 
 
@@ -74,6 +80,8 @@ Dialnorm Compensation: E04-E05 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866517)
 
+* [Compare across authors](../../compare/?t=TV-loki_84958)
+
 * Production Year: 2021
 
 
@@ -90,6 +98,8 @@ Dialnorm Compensation: E04-E05 +4dB
 **MV Adjustment:** +2.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866517)
+
+* [Compare across authors](../../compare/?t=TV-loki_84958)
 
 * Production Year: 2021
 

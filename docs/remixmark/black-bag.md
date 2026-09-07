@@ -9,7 +9,7 @@ When his beloved wife is suspected of betraying the nation, an intelligence agen
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1573?post_id=63923742#post-63923742)  [TMDB](https://www.themoviedb.org/movie/1233575)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1573?post_id=63923742#post-63923742)  [TMDB](https://www.themoviedb.org/movie/1233575)  [Compare across authors](../../compare/?t=film-black-bag_1233575)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Black%20Bag%20(2025)%20(%2B7%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ When intelligence agent Kathryn Woodhouse is suspected of betraying the nation, 
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1586?post_id=63988710#post-63988710)  [TMDB](https://www.themoviedb.org/movie/1233575)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1586?post_id=63988710#post-63988710)  [TMDB](https://www.themoviedb.org/movie/1233575)  [Compare across authors](../../compare/?t=film-black-bag_1233575)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Black%20Bag%20(2025)%20(%2B5%20gain)%20TrueHD%205.1.jpg)

@@ -9,7 +9,7 @@ When a musician and her husband move to a remote house in Wales, the music they 
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1758?post_id=64724764#post-64724764)  [TMDB](https://www.themoviedb.org/movie/1193824)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1758?post_id=64724764#post-64724764)  [TMDB](https://www.themoviedb.org/movie/1193824)  [Compare across authors](../../compare/?t=film-rabbit-trap_1193824)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rabbit%20Trap%20(2025)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

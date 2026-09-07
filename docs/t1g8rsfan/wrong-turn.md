@@ -9,7 +9,7 @@ Chris crashes into a carload of other young people, and the group of stranded mo
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62793930)  [TMDB](https://www.themoviedb.org/movie/9902)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62793930)  [TMDB](https://www.themoviedb.org/movie/9902)  [Compare across authors](../../compare/?t=film-wrong-turn_9902)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Wrong%20Turn%20(2003)%20(-1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

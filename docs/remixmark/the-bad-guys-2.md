@@ -12,7 +12,7 @@ The now-reformed Bad Guys are trying (very, very hard) to be good, but instead f
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1631?post_id=64153398#post-64153398)  [TMDB](https://www.themoviedb.org/movie/1175942)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1631?post_id=64153398#post-64153398)  [TMDB](https://www.themoviedb.org/movie/1175942)  [Compare across authors](../../compare/?t=film-the-bad-guys-2_1175942)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Bad%20Guys%202%20(2025)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

@@ -9,7 +9,7 @@ Shrek, Fiona and Donkey set off to Far, Far Away to meet Fiona's mother and fath
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62806322)  [TMDB](https://www.themoviedb.org/movie/809)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62806322)  [TMDB](https://www.themoviedb.org/movie/809)  [Compare across authors](../../compare/?t=film-shrek-2_809)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Shrek%202%20(2004)%20THD%20PvA.jpg)

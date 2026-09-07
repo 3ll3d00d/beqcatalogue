@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-star-trek-prodigy_106393)
+
 * Production Year: 2021
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-star-trek-prodigy_106393)
 
 * Production Year: 2021
 

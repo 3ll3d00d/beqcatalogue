@@ -9,7 +9,7 @@ After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanz
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62913582)  [TMDB](https://www.themoviedb.org/movie/664767)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62913582)  [TMDB](https://www.themoviedb.org/movie/664767)  [Compare across authors](../../compare/?t=film-mortal-kombat-legends-scorpions-revenge_664767)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/MKL%20Scorpions%20Revenge%20(2020)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)

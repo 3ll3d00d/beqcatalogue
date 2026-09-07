@@ -11,7 +11,7 @@ An abortion clinic worker with a special heritage is called upon to save the exi
 
 **MV Adjustment:** +1.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/1832)
+[TMDB](https://www.themoviedb.org/movie/1832)  [Compare across authors](../../compare/?t=film-dogma_1832)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/main/Images/Dogma%20(1999)%20(%2B1.5%20Gain)%20Atmos.png)

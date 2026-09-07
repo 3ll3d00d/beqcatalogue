@@ -4,7 +4,7 @@
 
 **1994 • kaelaria**
 
-[TMDB](https://www.themoviedb.org/movie/13782)
+[TMDB](https://www.themoviedb.org/movie/13782)  [Compare across authors](../../compare/?t=film-timecop_13782)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Timecop%20(1994)%20DTS-HD%20MA%205.1.jpg)

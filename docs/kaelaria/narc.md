@@ -7,7 +7,7 @@
 When the trail goes cold on a murder investigation of a policeman, an undercover narcotics officer is lured back to the force to help solve the case.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/11022)
+[TMDB](https://www.themoviedb.org/movie/11022)  [Compare across authors](../../compare/?t=film-narc_11022)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/NARC%20(2002)%20TrueHD%20Atmos.jpg)

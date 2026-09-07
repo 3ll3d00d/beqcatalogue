@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-chucky_90462)
+
 * Production Year: 2021
 
 
@@ -20,6 +22,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-chucky_90462)
+
 * Production Year: 2021
 
 
@@ -32,6 +36,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-chucky_90462)
 
 * Production Year: 2021
 

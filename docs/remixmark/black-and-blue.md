@@ -9,7 +9,7 @@ Rookie cop Alicia West, an Army veteran, inadvertently captures the murder of a 
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1721?post_id=64508987#post-64508987)  [TMDB](https://www.themoviedb.org/movie/578189)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1721?post_id=64508987#post-64508987)  [TMDB](https://www.themoviedb.org/movie/578189)  [Compare across authors](../../compare/?t=film-black-and-blue_578189)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Black%20and%20Blue%20(2019)%20(%2B2%20gain)%20DD%2B.jpg)

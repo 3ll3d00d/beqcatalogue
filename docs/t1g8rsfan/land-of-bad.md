@@ -12,7 +12,7 @@ When a Delta Force special ops mission goes terribly wrong, Air Force drone pilo
 DTS-HD MA 5.1 - German UHD Blu-Ray Release
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63153102/)  [TMDB](https://www.themoviedb.org/movie/969492)
+[Discuss](https://www.avsforum.com/posts/63153102/)  [TMDB](https://www.themoviedb.org/movie/969492)  [Compare across authors](../../compare/?t=film-land-of-bad_969492)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Land%20of%20Bad%20(2023)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)
@@ -29,7 +29,7 @@ When a Delta Force special ops mission goes terribly wrong, Air Force drone pilo
 Canadian Release
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63153102/)  [TMDB](https://www.themoviedb.org/movie/969492)
+[Discuss](https://www.avsforum.com/posts/63153102/)  [TMDB](https://www.themoviedb.org/movie/969492)  [Compare across authors](../../compare/?t=film-land-of-bad_969492)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Land%20of%20Bad%20(2024)%20TrueHD%205.1%20PvA.jpg)

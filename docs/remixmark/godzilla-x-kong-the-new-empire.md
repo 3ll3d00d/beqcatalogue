@@ -9,7 +9,7 @@ Following their explosive showdown, Godzilla and Kong must reunite against a col
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1469?post_id=63354864#post-63354864)  [TMDB](https://www.themoviedb.org/movie/823464)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1469?post_id=63354864#post-63354864)  [TMDB](https://www.themoviedb.org/movie/823464)  [Compare across authors](../../compare/?t=film-godzilla-x-kong-the-new-empire_823464)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20x%20Kong%20The%20New%20Empire%20(2024)%20(-1.5%20gain)%20Atmos.jpg)
@@ -25,7 +25,7 @@ Following their explosive showdown, Godzilla and Kong must reunite against a col
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1454?post_id=63306427#post-63306427)  [TMDB](https://www.themoviedb.org/movie/823464)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1454?post_id=63306427#post-63306427)  [TMDB](https://www.themoviedb.org/movie/823464)  [Compare across authors](../../compare/?t=film-godzilla-x-kong-the-new-empire_823464)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20x%20Kong%20The%20New%20Empire%20(%2B2%20gain)%20DD%2B.jpg)
@@ -47,7 +47,7 @@ Dialnorm Compensation: +6dB
 ** Bit rate: 448kbps **
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1455?post_id=63308004#post-63308004)  [TMDB](https://www.themoviedb.org/movie/823464)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1455?post_id=63308004#post-63308004)  [TMDB](https://www.themoviedb.org/movie/823464)  [Compare across authors](../../compare/?t=film-godzilla-x-kong-the-new-empire_823464)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20x%20Kong%20The%20New%20Empire%20(-1.5%20gain)%20DD%2B%20Atmos.jpg)
@@ -69,7 +69,7 @@ Dialnorm Compensation: +6dB
 ** Bit rate: 768kbps **
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1458?post_id=63312362#post-63312362)  [TMDB](https://www.themoviedb.org/movie/823464)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1458?post_id=63312362#post-63312362)  [TMDB](https://www.themoviedb.org/movie/823464)  [Compare across authors](../../compare/?t=film-godzilla-x-kong-the-new-empire_823464)
 { data-search-exclude }
 
 ![img 6](https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20x%20Kong%20The%20New%20Empire%20(-1.5%20gain)%20DD%2B%20Atmos%20itunes.jpg)

@@ -12,7 +12,7 @@ A Catholic school newcomer falls in with a clique of teen witches who wield thei
 UHD
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1513?post_id=63591280#post-63591280)  [TMDB](https://www.themoviedb.org/movie/9100)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1513?post_id=63591280#post-63591280)  [TMDB](https://www.themoviedb.org/movie/9100)  [Compare across authors](../../compare/?t=film-the-craft_9100)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Craft%20(1996)%20(%2B1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

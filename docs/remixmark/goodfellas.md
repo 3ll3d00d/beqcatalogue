@@ -9,7 +9,7 @@ The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is ad
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1483?post_id=63434081#post-63434081)  [TMDB](https://www.themoviedb.org/movie/769)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1483?post_id=63434081#post-63434081)  [TMDB](https://www.themoviedb.org/movie/769)  [Compare across authors](../../compare/?t=film-goodfellas_769)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Goodfellas%20(1990)%20(%2B7%20gain)%20DTS-HD%20MA%205.1.jpg)

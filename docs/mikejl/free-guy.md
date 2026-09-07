@@ -7,7 +7,7 @@
 A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/550988)
+[TMDB](https://www.themoviedb.org/movie/550988)  [Compare across authors](../../compare/?t=film-free-guy_550988)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Free%20Guy/Free%20Guy%20(2021)%20Atmos.jpg)

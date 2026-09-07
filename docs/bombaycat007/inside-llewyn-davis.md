@@ -12,7 +12,7 @@ In Greenwich Village in the early 1960s, gifted but volatile folk musician Llewy
 (+6.5 MV Adjustment)
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/86829)
+[TMDB](https://www.themoviedb.org/movie/86829)  [Compare across authors](../../compare/?t=film-inside-llewyn-davis_86829)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Inside%20Llewyn%20Davis%20(2013)%20(%2B6.5%20Gain)%20AAC%205.1.png)

@@ -12,7 +12,7 @@ A former teenage getaway driver gets dragged back into her unsavory past when a 
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1151334)
+[TMDB](https://www.themoviedb.org/movie/1151334)  [Compare across authors](../../compare/?t=film-eenie-meanie_1151334)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Eenie%20Meanie%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

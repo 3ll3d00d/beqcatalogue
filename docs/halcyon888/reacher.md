@@ -14,6 +14,8 @@ Dialnorm Compensation: E01-E02 +5dB; E03-E05 +6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63022692)
 
+* [Compare across authors](../../compare/?t=TV-reacher_108978)
+
 * Production Year: 2022
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: E06 +5dB; E07-E08 +6dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63022692)
+
+* [Compare across authors](../../compare/?t=TV-reacher_108978)
 
 * Production Year: 2022
 

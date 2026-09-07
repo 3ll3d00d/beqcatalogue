@@ -7,7 +7,7 @@
 The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/417644)
+[TMDB](https://www.themoviedb.org/movie/417644)  [Compare across authors](../../compare/?t=film-chips_417644)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Chips/CHiPS%20(2017)%20DD%2B%205.1.jpg)

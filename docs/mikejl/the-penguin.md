@@ -7,6 +7,8 @@
 * Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-penguin_194764)
+
 * Production Year: 2023
 
 
@@ -20,6 +22,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-penguin_194764)
+
 * Production Year: 2024
 
 
@@ -32,6 +36,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-the-penguin_194764)
 
 * Production Year: 2024
 

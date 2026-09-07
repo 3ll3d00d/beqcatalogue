@@ -14,6 +14,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1627?post_id=64144003#post-64144003)
 
+* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
+
 * Production Year: 2025
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 7dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1627?post_id=64144014#post-64144014)
+
+* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
 
 * Production Year: 2025
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1632?post_id=64155233#post-64155233)
 
+* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
+
 * Production Year: 2025
 
 
@@ -73,6 +79,8 @@ Dialnorm Compensation: 8dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1637?post_id=64168510#post-64168510)
+
+* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
 
 * Production Year: 2025
 
@@ -94,6 +102,8 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1641?post_id=64180809#post-64180809)
 
+* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
+
 * Production Year: 2025
 
 
@@ -113,6 +123,8 @@ Dialnorm Compensation: 4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1643?post_id=64196441#post-64196441)
+
+* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
 
 * Production Year: 2025
 
@@ -134,6 +146,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1645?post_id=64206792#post-64206792)
 
+* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
+
 * Production Year: 2025
 
 
@@ -153,6 +167,8 @@ Dialnorm Compensation: 4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1651?post_id=64219292#post-64219292)
+
+* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
 
 * Production Year: 2025
 

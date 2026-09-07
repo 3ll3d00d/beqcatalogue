@@ -12,7 +12,7 @@ Mike, a down-to-earth construction worker, is thrust into the world of super spi
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63487331/)  [TMDB](https://www.themoviedb.org/movie/704239)
+[Discuss](https://www.avsforum.com/posts/63487331/)  [TMDB](https://www.themoviedb.org/movie/704239)  [Compare across authors](../../compare/?t=film-the-union_704239)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Union%20(2024)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

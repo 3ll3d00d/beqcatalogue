@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-one-piece_111110)
+
 * Production Year: 2023
 
 

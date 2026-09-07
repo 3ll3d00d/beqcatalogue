@@ -9,7 +9,7 @@ As their marriage quietly unravels, Alex faces middle age and an impending divor
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1721?post_id=64507165#post-64507165)  [TMDB](https://www.themoviedb.org/movie/1140498)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1721?post_id=64507165#post-64507165)  [TMDB](https://www.themoviedb.org/movie/1140498)  [Compare across authors](../../compare/?t=film-is-this-thing-on_1140498)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Is%20This%20Thing%20On!%20(2025)%20(%2B4.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ As their marriage quietly unravels, Alex faces middle age and an impending divor
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1712?post_id=64466856#post-64466856)  [TMDB](https://www.themoviedb.org/movie/1140498)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1712?post_id=64466856#post-64466856)  [TMDB](https://www.themoviedb.org/movie/1140498)  [Compare across authors](../../compare/?t=film-is-this-thing-on_1140498)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Is%20This%20Thing%20On!%20(2025)%20DD%2B%20Atmos.jpg)

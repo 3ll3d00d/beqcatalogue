@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-beast-in-me_250504)
+
 * Production Year: 2025
 
 

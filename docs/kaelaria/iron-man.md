@@ -7,7 +7,7 @@
 After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1726)
+[TMDB](https://www.themoviedb.org/movie/1726)  [Compare across authors](../../compare/?t=film-iron-man_1726)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Iron%20Man%20(2008)%20DD%2B%20Atmos.jpg)

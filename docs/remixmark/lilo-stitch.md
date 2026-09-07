@@ -12,7 +12,7 @@ The wildly funny and touching story of a lonely Hawaiian girl and the fugitive a
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1628?post_id=64147693#post-64147693)  [TMDB](https://www.themoviedb.org/movie/552524)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1628?post_id=64147693#post-64147693)  [TMDB](https://www.themoviedb.org/movie/552524)  [Compare across authors](../../compare/?t=film-lilo-stitch_552524)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lilo%20%26%20Stitch%20(2025)%20(%2B6%20gain)%20Atmos.jpg)
@@ -31,7 +31,7 @@ The wildly funny and touching story of a lonely Hawaiian girl and the fugitive a
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1620?post_id=64107425#post-64107425)  [TMDB](https://www.themoviedb.org/movie/552524)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1620?post_id=64107425#post-64107425)  [TMDB](https://www.themoviedb.org/movie/552524)  [Compare across authors](../../compare/?t=film-lilo-stitch_552524)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lilo%20%26%20Stitch%20(2025)%20(%2B6%20gain)%20DD%2B%20Atmos.jpg)

@@ -9,7 +9,7 @@ Armed with every weapon they can get their hands on and the skills to use them, 
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62882251)  [TMDB](https://www.themoviedb.org/movie/299054)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62882251)  [TMDB](https://www.themoviedb.org/movie/299054)  [Compare across authors](../../compare/?t=film-expend4bles_299054)
 { data-search-exclude }
 
 ![img 0](https://github.com/T1G8RS-FAN/BEQImages/blob/main/Images/Expend4bles%20(2023)%20(+0.5%20gain)%20Atmos.jpg?raw=true)

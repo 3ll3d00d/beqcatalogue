@@ -9,6 +9,8 @@
 
 **MV Adjustment:** +0.5 dB
 
+* [Compare across authors](../../compare/?t=TV-band-of-brothers_4613)
+
 * Production Year: 2001
 
 

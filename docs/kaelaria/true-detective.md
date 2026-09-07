@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-true-detective_46648)
+
 * Production Year: 2014
 
 

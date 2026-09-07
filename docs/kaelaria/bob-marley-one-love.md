@@ -7,7 +7,7 @@
 Jamaican singer-songwriter Bob Marley overcomes adversity to become the most famous reggae musician in the world.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/802219)
+[TMDB](https://www.themoviedb.org/movie/802219)  [Compare across authors](../../compare/?t=film-bob-marley-one-love_802219)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Bob%20Marley%20One%20Love%20(2024)%20DD%2B%20Atmos.jpg)

@@ -14,6 +14,8 @@ Dialnorm Compensation: +6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1448?post_id=63297221#post-63297221)
 
+* [Compare across authors](../../compare/?t=TV-shogun_126308)
+
 * Production Year: 2024
 
 

@@ -9,7 +9,7 @@ A couple’s romantic vacation at a secluded lakeside estate is upended when the
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1673?post_id=64278011#post-64278011)  [TMDB](https://www.themoviedb.org/movie/1330421)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1673?post_id=64278011#post-64278011)  [TMDB](https://www.themoviedb.org/movie/1330421)  [Compare across authors](../../compare/?t=film-bone-lake_1330421)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Bone%20Lake%20(2025)%20(%2B6%20gain)%20DD%2B.jpg)

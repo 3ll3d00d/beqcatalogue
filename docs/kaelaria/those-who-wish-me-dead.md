@@ -7,7 +7,7 @@
 A young boy finds himself pursued by two assassins in the Montana wilderness, with a survival expert determined to protect him, and a forest fire threatening to consume them all.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/578701)
+[TMDB](https://www.themoviedb.org/movie/578701)  [Compare across authors](../../compare/?t=film-those-who-wish-me-dead_578701)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Those.Who.Wish.Me.Dead%20(2021)%20DTS-HD%20MA%205.1.jpg)

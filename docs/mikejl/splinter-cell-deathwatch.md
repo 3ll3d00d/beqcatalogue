@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-splinter-cell-deathwatch_127366)
+
 * Production Year: 2025
 
 

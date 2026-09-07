@@ -9,7 +9,7 @@ Trying to leave their troubled lives behind, twin brothers return to their homet
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1610?post_id=64072555#post-64072555)  [TMDB](https://www.themoviedb.org/movie/1233413)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1610?post_id=64072555#post-64072555)  [TMDB](https://www.themoviedb.org/movie/1233413)  [Compare across authors](../../compare/?t=film-sinners_1233413)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sinners%20(2025)%20(%2B1%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Trying to leave their troubled lives behind, twin brothers return to their homet
 Dialnorm Compensation: 8dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1595?post_id=64021484#post-64021484)  [TMDB](https://www.themoviedb.org/movie/1233413)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1595?post_id=64021484#post-64021484)  [TMDB](https://www.themoviedb.org/movie/1233413)  [Compare across authors](../../compare/?t=film-sinners_1233413)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sinners%20(2025)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

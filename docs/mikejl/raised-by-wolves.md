@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-raised-by-wolves_85723)
+
 * Production Year: 2020
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-raised-by-wolves_85723)
 
 * Production Year: 2020
 

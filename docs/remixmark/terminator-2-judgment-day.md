@@ -11,7 +11,7 @@ Ten years after the events of the original, a reprogrammed T-800 is sent back in
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1749?post_id=64671976#post-64671976)  [TMDB](https://www.themoviedb.org/movie/280)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1749?post_id=64671976#post-64671976)  [TMDB](https://www.themoviedb.org/movie/280)  [Compare across authors](../../compare/?t=film-terminator-2-judgment-day_280)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Terminator%202%20Judgment%20Day%20(1991)%20(-.5%20gain)%20DTS-HD%20MA%205.1.jpg)

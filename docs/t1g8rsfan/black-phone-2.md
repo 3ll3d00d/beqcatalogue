@@ -10,7 +10,7 @@ Four years after escaping The Grabber, Finney Blake is struggling with his life 
 +4dB Dialnorm Compensation​
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1197137)
+[TMDB](https://www.themoviedb.org/movie/1197137)  [Compare across authors](../../compare/?t=film-black-phone-2_1197137)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Black%20Phone%202%20(2025)%20DD%2B%20Atmos%20PvA.jpg)

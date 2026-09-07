@@ -7,7 +7,7 @@
 Five different criminals face imminent death after botching a job quite badly.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/400)
+[TMDB](https://www.themoviedb.org/movie/400)  [Compare across authors](../../compare/?t=film-things-to-do-in-denver-when-youre-dead_400)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Things%20to%20Do%20in%20Denver%20When%20Youre%20Dead%20(1995)%20DTS-HD%20MA%205.1.jpg)

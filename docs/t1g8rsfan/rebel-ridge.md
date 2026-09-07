@@ -12,7 +12,7 @@ A former Marine confronts corruption in a small town when local law enforcement 
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63557498/)  [TMDB](https://www.themoviedb.org/movie/646097)
+[Discuss](https://www.avsforum.com/posts/63557498/)  [TMDB](https://www.themoviedb.org/movie/646097)  [Compare across authors](../../compare/?t=film-rebel-ridge_646097)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Rebel%20Ridge%20(2024)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)

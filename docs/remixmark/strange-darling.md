@@ -12,7 +12,7 @@ Nothing is what it seems when a twisted one-night stand spirals into a serial ki
 1080p version only
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1507?post_id=63569573#post-63569573)  [TMDB](https://www.themoviedb.org/movie/1029281)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1507?post_id=63569573#post-63569573)  [TMDB](https://www.themoviedb.org/movie/1029281)  [Compare across authors](../../compare/?t=film-strange-darling_1029281)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Strange%20Darling%20(2024)%20(%2B1.5%20gain)%20DD%2B.jpg)
@@ -31,7 +31,7 @@ Nothing is what it seems when a twisted one-night stand spirals into a serial ki
 4k version only
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1509?post_id=63577523#post-63577523)  [TMDB](https://www.themoviedb.org/movie/1029281)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1509?post_id=63577523#post-63577523)  [TMDB](https://www.themoviedb.org/movie/1029281)  [Compare across authors](../../compare/?t=film-strange-darling_1029281)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Strange%20Darling%204k%20(2024)%20(%2B4%20gain)%20DD%2B.jpg)
@@ -47,7 +47,7 @@ Nothing is what it seems when a twisted one-night stand spirals into a serial ki
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63704247#post-63704247)  [TMDB](https://www.themoviedb.org/movie/1029281)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63704247#post-63704247)  [TMDB](https://www.themoviedb.org/movie/1029281)  [Compare across authors](../../compare/?t=film-strange-darling_1029281)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Strange%20Darling%20(2024)%20(%2B4%20gain)%20DTS-HD%20MA%205.1.jpg)

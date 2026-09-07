@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-dinosaurs_313298)
+
 * Production Year: 2026
 
 

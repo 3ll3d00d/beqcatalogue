@@ -12,7 +12,7 @@ A woman, thrown into the stay-at-home routine of raising a toddler in the suburb
 Dialnorm Compensation: 7dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1545?post_id=63733696#post-63733696)  [TMDB](https://www.themoviedb.org/movie/728949)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1545?post_id=63733696#post-63733696)  [TMDB](https://www.themoviedb.org/movie/728949)  [Compare across authors](../../compare/?t=film-nightbitch_728949)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nightbitch%20(2024)%20(%2B6%20gain)%20DD%2B.jpg)
@@ -31,7 +31,7 @@ A woman, thrown into the stay-at-home routine of raising a toddler in the suburb
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1554?post_id=63802839#post-63802839)  [TMDB](https://www.themoviedb.org/movie/728949)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1554?post_id=63802839#post-63802839)  [TMDB](https://www.themoviedb.org/movie/728949)  [Compare across authors](../../compare/?t=film-nightbitch_728949)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nightbitch%20(2024)%20(%2B6%20gain)%20DD%2B%20Atmos.jpg)

@@ -12,7 +12,7 @@ A fading celebrity decides to use a black market drug, a cell-replicating substa
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1525?post_id=63637968#post-63637968)  [TMDB](https://www.themoviedb.org/movie/933260)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1525?post_id=63637968#post-63637968)  [TMDB](https://www.themoviedb.org/movie/933260)  [Compare across authors](../../compare/?t=film-the-substance_933260)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(%2B4%20gain)%20DD.jpg)
@@ -31,7 +31,7 @@ A fading celebrity decides to use a black market drug, a cell-replicating substa
 Audio bit rate: 640 kb/s
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1513?post_id=63591920#post-63591920)  [TMDB](https://www.themoviedb.org/movie/933260)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1513?post_id=63591920#post-63591920)  [TMDB](https://www.themoviedb.org/movie/933260)  [Compare across authors](../../compare/?t=film-the-substance_933260)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(-3.5%20gain)%20DD%2B.jpg)
@@ -52,7 +52,7 @@ A fading celebrity decides to use a black market drug, a cell-replicating substa
 Bitrate: 320kb/sec
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1523?post_id=63622461#post-63622461)  [TMDB](https://www.themoviedb.org/movie/933260)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1523?post_id=63622461#post-63622461)  [TMDB](https://www.themoviedb.org/movie/933260)  [Compare across authors](../../compare/?t=film-the-substance_933260)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(%2B3%20gain)%20DD%2B.jpg)
@@ -68,7 +68,7 @@ A fading celebrity decides to use a black market drug, a cell-replicating substa
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63704870#post-63704870)  [TMDB](https://www.themoviedb.org/movie/933260)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63704870#post-63704870)  [TMDB](https://www.themoviedb.org/movie/933260)  [Compare across authors](../../compare/?t=film-the-substance_933260)
 { data-search-exclude }
 
 ![img 6](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20DTS-HD%20MA%205.1.jpg)
@@ -86,7 +86,7 @@ A fading celebrity decides to use a black market drug, a cell-replicating substa
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1552?post_id=63785533#post-63785533)  [TMDB](https://www.themoviedb.org/movie/933260)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1552?post_id=63785533#post-63785533)  [TMDB](https://www.themoviedb.org/movie/933260)  [Compare across authors](../../compare/?t=film-the-substance_933260)
 { data-search-exclude }
 
 ![img 8](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Substance%20(2024)%20(%2B4%20gain)%20DTS-HD%20MA%205.1%20UHD.jpg)

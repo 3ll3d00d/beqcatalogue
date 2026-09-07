@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-dexter-resurrection_259909)
+
 * Production Year: 2025
 
 

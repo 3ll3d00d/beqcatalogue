@@ -1,0 +1,1 @@
+[{"author":"kaelaria","audioTypes":["DD+ Atmos"],"content_type":"film","season":"","episode":"","edition":"","filters":[{"type":"LowShelf","freq":20.0,"gain":8.2,"q":0.75,"count":1},{"type":"LowShelf","freq":20.0,"gain":8.2,"q":0.75,"count":1},{"type":"PeakingEQ","freq":30.0,"gain":-2.2,"q":3.0,"count":1}]}]

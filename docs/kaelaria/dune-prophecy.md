@@ -7,6 +7,8 @@
 * Atmos, DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-dune-prophecy_90228)
+
 * Production Year: 2024
 
 

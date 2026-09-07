@@ -12,6 +12,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63188605)
 
+* [Compare across authors](../../compare/?t=TV-the-mandalorian_2023)
+
 * Production Year: 2023
 
 

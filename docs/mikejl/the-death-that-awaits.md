@@ -7,7 +7,7 @@
 A drifter searching for answers to a mystery from her past takes on a job looking after a sick teen who is undergoing a mysterious transformation her family will do anything to stop.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1297454)
+[TMDB](https://www.themoviedb.org/movie/1297454)  [Compare across authors](../../compare/?t=film-the-death-that-awaits_1297454)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Death%20That%20Awaits/The%20Death%20That%20Awaits%20(2024)%20DTS-HD%20MA%205.1.jpg)

@@ -10,7 +10,7 @@ On one last grueling mission during Army Ranger training, a combat engineer must
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1265609)
+[TMDB](https://www.themoviedb.org/movie/1265609)  [Compare across authors](../../compare/?t=film-war-machine_1265609)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/War%20Machine%20(2026)%20DD%2B%20Atmos%20PvA.jpg)

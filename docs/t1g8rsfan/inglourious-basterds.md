@@ -9,7 +9,7 @@ In Nazi-occupied France during World War II, a group of Jewish-American soldiers
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62766831)  [TMDB](https://www.themoviedb.org/movie/16869)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62766831)  [TMDB](https://www.themoviedb.org/movie/16869)  [Compare across authors](../../compare/?t=film-inglourious-basterds_16869)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Inglorious%20Basterds%20(2009)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)

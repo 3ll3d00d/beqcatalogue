@@ -1,0 +1,1 @@
+[{"author":"aron7awol","audioTypes":["DD+"],"content_type":"TV","season":"5","episode":"1","edition":"","filters":[{"type":"LowShelf","freq":10.0,"gain":6.0,"q":0.8,"count":1},{"type":"LowShelf","freq":10.0,"gain":6.0,"q":0.8,"count":1},{"type":"LowShelf","freq":10.0,"gain":6.0,"q":0.8,"count":1},{"type":"PeakingEQ","freq":35.0,"gain":0.2,"q":1.0,"count":1}]}]

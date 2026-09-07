@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-ponies_262793)
+
 * Production Year: 2026
 
 

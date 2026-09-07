@@ -14,6 +14,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63171858)
 
+* [Compare across authors](../../compare/?t=TV-shogun_126308)
+
 * Production Year: 2024
 
 
@@ -30,6 +32,8 @@
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/posts/63171858/)
+
+* [Compare across authors](../../compare/?t=TV-shogun_126308)
 
 * Production Year: 2024
 
@@ -48,6 +52,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63171858)
 
+* [Compare across authors](../../compare/?t=TV-shogun_126308)
+
 * Production Year: 2024
 
 
@@ -64,6 +70,8 @@
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63171858)
+
+* [Compare across authors](../../compare/?t=TV-shogun_126308)
 
 * Production Year: 2024
 

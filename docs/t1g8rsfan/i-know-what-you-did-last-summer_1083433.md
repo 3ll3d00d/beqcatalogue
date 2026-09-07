@@ -12,7 +12,7 @@ When five friends inadvertently cause a deadly car accident, they cover up their
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1083433)
+[TMDB](https://www.themoviedb.org/movie/1083433)  [Compare across authors](../../compare/?t=film-i-know-what-you-did-last-summer_1083433)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/I%20Know%20What%20You%20Did%20Last%20Summer%20(2025)%20(%2B3.5%20gain)%20DD%2B%20Atmos.jpg)

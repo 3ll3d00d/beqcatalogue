@@ -7,7 +7,7 @@
 An undocumented Filipina immigrant lands a job as a careworker for a seemingly terminal old man, securing a better life for her and her daughter. But a dark discovery threatens to destroy everything she’s strived for and holds dear.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/879689)
+[TMDB](https://www.themoviedb.org/movie/879689)  [Compare across authors](../../compare/?t=film-raging-grace_879689)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Raging%20Grace/Raging%20Grace%20(2023)%20DTS-HD%20MA%205.1.jpg)

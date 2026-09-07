@@ -7,7 +7,7 @@
 In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploiting genetic disparity, risking everything to challenge the oppressive system.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1309012)
+[TMDB](https://www.themoviedb.org/movie/1309012)  [Compare across authors](../../compare/?t=film-altered_1309012)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Altered/Altered%20(2025)%20DD%2B%20Atmos.jpg)

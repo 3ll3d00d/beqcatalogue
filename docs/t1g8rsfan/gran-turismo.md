@@ -12,7 +12,7 @@ The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming
 +9dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62848099)  [TMDB](https://www.themoviedb.org/movie/980489)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62848099)  [TMDB](https://www.themoviedb.org/movie/980489)  [Compare across authors](../../compare/?t=film-gran-turismo_980489)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Gran%20Turismo%20(2023)%20(-2.5%20gain)%20Atmos.jpg)

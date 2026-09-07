@@ -9,7 +9,7 @@ Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/posts/62967833/)  [TMDB](https://www.themoviedb.org/movie/8078)
+[Discuss](https://www.avsforum.com/posts/62967833/)  [TMDB](https://www.themoviedb.org/movie/8078)  [Compare across authors](../../compare/?t=film-alien-resurrection_8078)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Alien%20Resurrection%20(1997)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)
@@ -27,7 +27,7 @@ Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/posts/62967833/)  [TMDB](https://www.themoviedb.org/movie/8078)
+[Discuss](https://www.avsforum.com/posts/62967833/)  [TMDB](https://www.themoviedb.org/movie/8078)  [Compare across authors](../../compare/?t=film-alien-resurrection_8078)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Alien%20Resurrection%20(1997)%20(%2B1%20gain)%20SE%20DTS-HD%20MA%205.1.jpg)

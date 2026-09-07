@@ -7,7 +7,7 @@
 A pair of high-frequency traders go up against their old boss in an effort to make millions in a fiber-optic cable deal.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/489243)
+[TMDB](https://www.themoviedb.org/movie/489243)  [Compare across authors](../../compare/?t=film-the-hummingbird-project_489243)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Hummingbird%20Project%20(2018)%20DD%2B%205.1.jpg)

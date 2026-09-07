@@ -9,7 +9,7 @@ Unrated
 A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/440597)
+[TMDB](https://www.themoviedb.org/movie/440597)  [Compare across authors](../../compare/?t=film-wish-upon_440597)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Wish%20Upon/Wish%20Upon%20(2017)%20(Unrated)%20DTS-HD%20MA%205.1.jpg)

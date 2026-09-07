@@ -9,7 +9,7 @@ When top hitman Joe Flood is diagnosed with a terminal illness, he decides to ta
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1528?post_id=63653079#post-63653079)  [TMDB](https://www.themoviedb.org/movie/507241)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1528?post_id=63653079#post-63653079)  [TMDB](https://www.themoviedb.org/movie/507241)  [Compare across authors](../../compare/?t=film-the-killers-game_507241)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Killer's%20Game%20(2024)%20(%2B.5%20gain)%20Atmos.jpg)

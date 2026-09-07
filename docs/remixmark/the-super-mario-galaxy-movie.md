@@ -9,7 +9,7 @@ Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi 
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1746?post_id=64651494#post-64651494)  [TMDB](https://www.themoviedb.org/movie/1226863)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1746?post_id=64651494#post-64651494)  [TMDB](https://www.themoviedb.org/movie/1226863)  [Compare across authors](../../compare/?t=film-the-super-mario-galaxy-movie_1226863)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Super%20Mario%20Galaxy%20Movie%20(2026)%20(%2B2%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1737?post_id=64594958#post-64594958)  [TMDB](https://www.themoviedb.org/movie/1226863)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1737?post_id=64594958#post-64594958)  [TMDB](https://www.themoviedb.org/movie/1226863)  [Compare across authors](../../compare/?t=film-the-super-mario-galaxy-movie_1226863)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Super%20Mario%20Galaxy%20Movie%20(2026)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

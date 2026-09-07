@@ -9,7 +9,7 @@ During the Vietnam War, a recon unit ventures to an isolated jungle valley to un
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1651?post_id=64220894#post-64220894)  [TMDB](https://www.themoviedb.org/movie/1257009)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1651?post_id=64220894#post-64220894)  [TMDB](https://www.themoviedb.org/movie/1257009)  [Compare across authors](../../compare/?t=film-primitive-war_1257009)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Primitive%20War%20(2025)%20(%2B3.5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ During the Vietnam War, a recon unit ventures to an isolated jungle valley to un
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1687?post_id=64350267#post-64350267)  [TMDB](https://www.themoviedb.org/movie/1257009)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1687?post_id=64350267#post-64350267)  [TMDB](https://www.themoviedb.org/movie/1257009)  [Compare across authors](../../compare/?t=film-primitive-war_1257009)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Primitive%20War%20(2025)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)

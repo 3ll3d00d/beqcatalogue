@@ -14,6 +14,8 @@ Dialnorm Compensation: 01-4dB 02-2dB 03-04-3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1624?post_id=64132364#post-64132364)
 
+* [Compare across authors](../../compare/?t=TV-wednesday_119051)
+
 * Production Year: 2022
 
 
@@ -30,6 +32,8 @@ Dialnorm Compensation: 01-4dB 02,05,08-2dB 03,04-3dB 06,07-1dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1641?post_id=64181455#post-64181455)
+
+* [Compare across authors](../../compare/?t=TV-wednesday_119051)
 
 * Production Year: 2022
 

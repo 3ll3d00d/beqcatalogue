@@ -9,7 +9,7 @@ After the disastrous food storm in the first film, Flint and his friends are for
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1670?post_id=64264951#post-64264951)  [TMDB](https://www.themoviedb.org/movie/109451)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1670?post_id=64264951#post-64264951)  [TMDB](https://www.themoviedb.org/movie/109451)  [Compare across authors](../../compare/?t=film-cloudy-with-a-chance-of-meatballs-2_109451)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20(2013)%20(%2B5.5%20gain)%20DTS-HD%20MA%205.1.jpg)

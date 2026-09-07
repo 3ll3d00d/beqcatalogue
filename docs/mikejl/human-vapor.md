@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-human-vapor_253960)
+
 * Production Year: 2026
 
 

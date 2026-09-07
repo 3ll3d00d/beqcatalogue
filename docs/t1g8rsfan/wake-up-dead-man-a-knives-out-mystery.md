@@ -12,7 +12,7 @@ When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsign
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/812583)
+[TMDB](https://www.themoviedb.org/movie/812583)  [Compare across authors](../../compare/?t=film-wake-up-dead-man-a-knives-out-mystery_812583)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Wake%20Up%20Dead%20Man%20(2025)%20(%2B6%20gain)%20DD%2B%20Atmos.jpg)

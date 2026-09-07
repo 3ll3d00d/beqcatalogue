@@ -7,7 +7,7 @@
 A prim and proper schoolgirl goes against her society grandmother's wishes when she dates a motorcycle-riding juvenile delinquent.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9768)
+[TMDB](https://www.themoviedb.org/movie/9768)  [Compare across authors](../../compare/?t=film-cry-baby_9768)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Cry-Baby%20(1990)%20DTS-HD%20MA%205.1.jpg)

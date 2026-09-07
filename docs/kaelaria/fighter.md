@@ -10,7 +10,7 @@ Top IAF aviators come together in the face of imminent danger, to form Air Drago
 Hindi
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/784651)
+[TMDB](https://www.themoviedb.org/movie/784651)  [Compare across authors](../../compare/?t=film-fighter_784651)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Fighter%20(2024)%20DD%2B%205.1.jpg)

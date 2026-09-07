@@ -9,7 +9,7 @@ After finding a host body in investigative reporter Eddie Brock, the alien symbi
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1622?post_id=64127335#post-64127335)  [TMDB](https://www.themoviedb.org/movie/580489)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1622?post_id=64127335#post-64127335)  [TMDB](https://www.themoviedb.org/movie/580489)  [Compare across authors](../../compare/?t=film-venom-let-there-be-carnage_580489)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Venom%20Let%20There%20Be%20Carnage%20(2021)%20Atmos.jpg)

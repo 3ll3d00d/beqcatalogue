@@ -11,7 +11,7 @@ In the year 2019, a plague has transformed almost every human into a vampire. Fa
 
 **MV Adjustment:** +3.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/19901)
+[TMDB](https://www.themoviedb.org/movie/19901)  [Compare across authors](../../compare/?t=film-daybreakers_19901)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Daybreakers%20(2009)%20DDP%205.1%20PvA.jpg)

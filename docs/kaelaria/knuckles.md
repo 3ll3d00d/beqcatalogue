@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-knuckles_158300)
+
 * Production Year: 2024
 
 

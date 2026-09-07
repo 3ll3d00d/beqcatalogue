@@ -14,6 +14,8 @@ Dialnorm Compensation: 12dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1635?post_id=64160452#post-64160452)
 
+* [Compare across authors](../../compare/?t=TV-peacemaker_110492)
+
 * Production Year: 2022
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 10dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1639?post_id=64172538#post-64172538)
+
+* [Compare across authors](../../compare/?t=TV-peacemaker_110492)
 
 * Production Year: 2022
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: 12dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1644?post_id=64205892#post-64205892)
 
+* [Compare across authors](../../compare/?t=TV-peacemaker_110492)
+
 * Production Year: 2022
 
 
@@ -73,6 +79,8 @@ Dialnorm Compensation: 11dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1644?post_id=64205863#post-64205863)
+
+* [Compare across authors](../../compare/?t=TV-peacemaker_110492)
 
 * Production Year: 2022
 
@@ -94,6 +102,8 @@ Dialnorm Compensation: 11dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1648?post_id=64214143#post-64214143)
 
+* [Compare across authors](../../compare/?t=TV-peacemaker_110492)
+
 * Production Year: 2022
 
 
@@ -113,6 +123,8 @@ Dialnorm Compensation: 9dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1655?post_id=64224266#post-64224266)
+
+* [Compare across authors](../../compare/?t=TV-peacemaker_110492)
 
 * Production Year: 2022
 
@@ -134,6 +146,8 @@ Dialnorm Compensation: 13dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1668?post_id=64256774#post-64256774)
 
+* [Compare across authors](../../compare/?t=TV-peacemaker_110492)
+
 * Production Year: 2022
 
 
@@ -153,6 +167,8 @@ Dialnorm Compensation: 12dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1668?post_id=64256788#post-64256788)
+
+* [Compare across authors](../../compare/?t=TV-peacemaker_110492)
 
 * Production Year: 2022
 

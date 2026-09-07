@@ -7,7 +7,7 @@
 In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1236153)
+[TMDB](https://www.themoviedb.org/movie/1236153)  [Compare across authors](../../compare/?t=film-mercy_1236153)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mercy/Mercy%20(2026)%20Atmos.jpg)
@@ -21,7 +21,7 @@ In the near future, a detective stands on trial accused of murdering his wife. H
 In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1236153)
+[TMDB](https://www.themoviedb.org/movie/1236153)  [Compare across authors](../../compare/?t=film-mercy_1236153)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mercy/Mercy%20(2026)%20DD%2B%20Atmos.jpg)

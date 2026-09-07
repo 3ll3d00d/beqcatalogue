@@ -12,7 +12,7 @@ Elena Houghlin is a scientist, engineer and inventor of Calisto -- a sustainable
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1754?post_id=64694911#post-64694911)  [TMDB](https://www.themoviedb.org/movie/458897)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1754?post_id=64694911#post-64694911)  [TMDB](https://www.themoviedb.org/movie/458897)  [Compare across authors](../../compare/?t=film-charlies-angels_458897)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Charlie's%20Angels%20(2019)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

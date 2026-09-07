@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-brothers-sun_227004)
+
 * Production Year: 2023
 
 

@@ -1,0 +1,1 @@
+[{"author":"aron7awol","audioTypes":["DTS:X"],"content_type":"film","season":"","episode":"","edition":"","filters":[{"type":"PeakingEQ","freq":65.0,"gain":0.2,"q":1.0,"count":1},{"type":"LowShelf","freq":22.0,"gain":5.3,"q":0.8,"count":1},{"type":"LowShelf","freq":22.0,"gain":5.3,"q":0.8,"count":1},{"type":"LowShelf","freq":22.0,"gain":5.3,"q":0.8,"count":1}]}]

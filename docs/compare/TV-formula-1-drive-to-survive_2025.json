@@ -1,0 +1,1 @@
+[{"author":"t1g8rsfan","audioTypes":["DD+ Atmos"],"content_type":"TV","season":"7","episode":"","edition":"","filters":[{"type":"LowShelf","freq":10.0,"gain":3.0,"q":0.9,"count":1},{"type":"LowShelf","freq":30.0,"gain":5.4,"q":1.0,"count":1},{"type":"LowShelf","freq":30.0,"gain":5.4,"q":1.0,"count":1},{"type":"PeakingEQ","freq":58.0,"gain":0.8,"q":0.7,"count":1}]}]

@@ -9,7 +9,7 @@ Still reeling from the tragic death of their mother, a teenage girl and her youn
 
 **MV Adjustment:** -2.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/532408)
+[TMDB](https://www.themoviedb.org/movie/532408)  [Compare across authors](../../compare/?t=film-the-boogeyman_532408)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Boogeyman%20(2023)%20(-2%20gain)%20DTS-HD%20MA%205.1.jpg)

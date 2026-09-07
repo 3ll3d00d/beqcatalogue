@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-bondsman_229711)
+
 * Production Year: 2025
 
 

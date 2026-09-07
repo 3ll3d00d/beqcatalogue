@@ -12,7 +12,7 @@ After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Sec
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/845781)
+[TMDB](https://www.themoviedb.org/movie/845781)  [Compare across authors](../../compare/?t=film-red-one_845781)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Red%20One%20(2024)%20(%2B2.5%20gain)%20Atmos.jpg)

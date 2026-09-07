@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64321519#post-64321519)
 
+* [Compare across authors](../../compare/?t=TV-the-mighty-nein_219080)
+
 * Production Year: 2025
 
 
@@ -27,6 +29,8 @@
 **MV Adjustment:** +2.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64321531#post-64321531)
+
+* [Compare across authors](../../compare/?t=TV-the-mighty-nein_219080)
 
 * Production Year: 2025
 
@@ -45,6 +49,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64321570#post-64321570)
 
+* [Compare across authors](../../compare/?t=TV-the-mighty-nein_219080)
+
 * Production Year: 2025
 
 
@@ -59,6 +65,8 @@
 
 
 **MV Adjustment:** +1.5 dB
+
+* [Compare across authors](../../compare/?t=TV-the-mighty-nein_219080)
 
 * Production Year: 2025
 
@@ -77,6 +85,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1686?post_id=64338373#post-64338373)
 
+* [Compare across authors](../../compare/?t=TV-the-mighty-nein_219080)
+
 * Production Year: 2025
 
 
@@ -94,6 +104,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1691?post_id=64365918#post-64365918)
 
+* [Compare across authors](../../compare/?t=TV-the-mighty-nein_219080)
+
 * Production Year: 2025
 
 
@@ -110,6 +122,8 @@
 **MV Adjustment:** +4.5 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1691?post_id=64365932#post-64365932)
+
+* [Compare across authors](../../compare/?t=TV-the-mighty-nein_219080)
 
 * Production Year: 2025
 

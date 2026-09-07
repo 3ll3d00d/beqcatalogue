@@ -7,7 +7,7 @@
 A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/533533)
+[TMDB](https://www.themoviedb.org/movie/533533)  [Compare across authors](../../compare/?t=film-tron-ares_533533)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Tron/Tron%20Ares%20(2025)%20Atmos.jpg)

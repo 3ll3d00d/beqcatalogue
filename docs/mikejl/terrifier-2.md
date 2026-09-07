@@ -7,7 +7,7 @@
 A year after the Miles County massacre, Art the Clown is resurrected by a sinister entity. Art returns home, where he must hunt down and destroy teenage Sienna and her younger brother Jonathan on Halloween. As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/663712)
+[TMDB](https://www.themoviedb.org/movie/663712)  [Compare across authors](../../compare/?t=film-terrifier-2_663712)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Terrifier/Terrifier%202%20(2022%20)DTS-HD%20MA%205.1.jpg)

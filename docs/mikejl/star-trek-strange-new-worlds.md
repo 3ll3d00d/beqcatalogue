@@ -7,6 +7,8 @@
 * DTS-HD MA 5.1
 
 
+* [Compare across authors](../../compare/?t=TV-star-trek-strange-new-worlds_103516)
+
 * Production Year: 2022
 
 

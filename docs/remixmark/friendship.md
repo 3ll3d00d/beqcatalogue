@@ -12,7 +12,7 @@ Suburban dad Craig falls hard for his charismatic new neighbor, as Craigâ€™s att
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1600?post_id=64041988#post-64041988)  [TMDB](https://www.themoviedb.org/movie/1239655)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1600?post_id=64041988#post-64041988)  [TMDB](https://www.themoviedb.org/movie/1239655)  [Compare across authors](../../compare/?t=film-friendship_1239655)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Friendship%20(2025)%20(%2B7.5%20gain)%20DD.jpg)
@@ -28,7 +28,7 @@ Suburban dad Craig falls hard for his charismatic new neighbor Austin, as Craigâ
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1602?post_id=64052860#post-64052860)  [TMDB](https://www.themoviedb.org/movie/1239655)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1602?post_id=64052860#post-64052860)  [TMDB](https://www.themoviedb.org/movie/1239655)  [Compare across authors](../../compare/?t=film-friendship_1239655)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Friendship%20(2025)%20(%2B7%20gain)%20DD%2B.jpg)
@@ -44,7 +44,7 @@ Suburban dad Craig falls hard for his charismatic new neighbor Austin, as Craigâ
 
 **MV Adjustment:** +10.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1628?post_id=64147656#post-64147656)  [TMDB](https://www.themoviedb.org/movie/1239655)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1628?post_id=64147656#post-64147656)  [TMDB](https://www.themoviedb.org/movie/1239655)  [Compare across authors](../../compare/?t=film-friendship_1239655)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Friendship%20(2025)%20(%2B10.5%20gain)%20DTS-HD%20MA%205.1.jpg)
@@ -60,7 +60,7 @@ Suburban dad Craig falls hard for his charismatic new neighbor Austin, as Craigâ
 
 **MV Adjustment:** +7.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1620?post_id=64110616#post-64110616)  [TMDB](https://www.themoviedb.org/movie/1239655)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1620?post_id=64110616#post-64110616)  [TMDB](https://www.themoviedb.org/movie/1239655)  [Compare across authors](../../compare/?t=film-friendship_1239655)
 { data-search-exclude }
 
 ![img 6](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Friendship%20(2024)%20(%2B7.5%20gain)%20TrueHD.jpg)

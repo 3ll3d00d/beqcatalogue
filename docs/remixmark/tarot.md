@@ -9,7 +9,7 @@ When a group of friends recklessly violates the sacred rule of Tarot readings th
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1465?post_id=63334727#post-63334727)  [TMDB](https://www.themoviedb.org/movie/719221)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1465?post_id=63334727#post-63334727)  [TMDB](https://www.themoviedb.org/movie/719221)  [Compare across authors](../../compare/?t=film-tarot_719221)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Tarot%20(%2B2.5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ When a group of friends recklessly violate the sacred rule of Tarot readings, th
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1480?post_id=63422433#post-63422433)  [TMDB](https://www.themoviedb.org/movie/719221)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1480?post_id=63422433#post-63422433)  [TMDB](https://www.themoviedb.org/movie/719221)  [Compare across authors](../../compare/?t=film-tarot_719221)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/Tarot%20(2024)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)

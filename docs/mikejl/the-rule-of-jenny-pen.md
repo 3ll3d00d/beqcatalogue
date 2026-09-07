@@ -7,7 +7,7 @@
 Confined to a secluded rest home and trapped within his stroke-ridden body, a former Judge must stop an elderly psychopath who employs a child's puppet to abuse the home's residents with deadly consequences.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1212742)
+[TMDB](https://www.themoviedb.org/movie/1212742)  [Compare across authors](../../compare/?t=film-the-rule-of-jenny-pen_1212742)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Rule%20of%20Jenny%20Pen/The%20Rule%20of%20Jenny%20Pen%20(2025)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ Confined to a secluded rest home and trapped within his stroke-ridden body, a fo
 Confined to a secluded rest home and trapped within his stroke-ridden body, a former Judge must stop an elderly psychopath who employs a child's puppet to abuse the home's residents with deadly consequences.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1212742)
+[TMDB](https://www.themoviedb.org/movie/1212742)  [Compare across authors](../../compare/?t=film-the-rule-of-jenny-pen_1212742)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Rule%20of%20Jenny%20Pen/The%20Rule%20of%20Jenny%20Pen%20(2024)%20DTS-HD%20MA%205.1.jpg)

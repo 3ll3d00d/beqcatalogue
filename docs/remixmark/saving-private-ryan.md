@@ -11,7 +11,7 @@ As U.S. troops storm the beaches of Normandy, three brothers lie dead on the bat
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1763?post_id=64747812#post-64747812)  [TMDB](https://www.themoviedb.org/movie/857)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1763?post_id=64747812#post-64747812)  [TMDB](https://www.themoviedb.org/movie/857)  [Compare across authors](../../compare/?t=film-saving-private-ryan_857)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Saving%20Private%20Ryan%20(1998)%20(-1.5%20gain)%20UHD%20Atmos.jpg)

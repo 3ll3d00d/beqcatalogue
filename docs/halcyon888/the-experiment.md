@@ -9,7 +9,7 @@
 
 **MV Adjustment:** +4.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/43549)
+[TMDB](https://www.themoviedb.org/movie/43549)  [Compare across authors](../../compare/?t=film-the-experiment_43549)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/The%20Experiment%20PvA.png)

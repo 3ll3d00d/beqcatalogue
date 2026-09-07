@@ -9,7 +9,7 @@ Revisited: The Final Unrated Cut
 Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1966)
+[TMDB](https://www.themoviedb.org/movie/1966)  [Compare across authors](../../compare/?t=film-alexander_1966)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Alexander%20(2006)%20TrueHD%20Atmos.jpg)

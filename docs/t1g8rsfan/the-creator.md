@@ -12,7 +12,7 @@ Amid a future war between the human race and the forces of artificial intelligen
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62946844)  [TMDB](https://www.themoviedb.org/movie/670292)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62946844)  [TMDB](https://www.themoviedb.org/movie/670292)  [Compare across authors](../../compare/?t=film-the-creator_670292)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Creator%20(2023)%20(%2B2.5%20gain)%20Atmos.jpg)

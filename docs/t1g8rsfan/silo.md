@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62969178/)
 
+* [Compare across authors](../../compare/?t=TV-silo_125988)
+
 * Production Year: 2023
 
 
@@ -24,6 +26,8 @@
 **MV Adjustment:** +4.0 dB
 
 * [Forum Post](https://www.avsforum.com/posts/62969178/)
+
+* [Compare across authors](../../compare/?t=TV-silo_125988)
 
 * Production Year: 2023
 
@@ -39,6 +43,8 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62969178/)
 
+* [Compare across authors](../../compare/?t=TV-silo_125988)
+
 * Production Year: 2023
 
 
@@ -53,6 +59,8 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62969178/)
 
+* [Compare across authors](../../compare/?t=TV-silo_125988)
+
 * Production Year: 2024
 
 
@@ -66,6 +74,8 @@
 **MV Adjustment:** +6.5 dB
 
 * [Forum Post](https://www.avsforum.com/posts/62969178/)
+
+* [Compare across authors](../../compare/?t=TV-silo_125988)
 
 * Production Year: 2024
 

@@ -7,7 +7,7 @@
 After witnessing his parents' brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/801937)
+[TMDB](https://www.themoviedb.org/movie/801937)  [Compare across authors](../../compare/?t=film-silent-night-deadly-night_801937)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silent%20Night%20Deadly%20NIght/Silent%20Night%20Deadly%20Night%20(2025)%20DTS-HD%20MA%205.1.jpg)

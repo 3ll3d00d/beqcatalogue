@@ -7,7 +7,7 @@
 After the brutal murder of her twin sister, Darcy goes after those responsible by using haunted items as her tools for revenge.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1216191)
+[TMDB](https://www.themoviedb.org/movie/1216191)  [Compare across authors](../../compare/?t=film-oddity_1216191)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Oddity/Oddity%20(2024)%20DTS-HD%20MA%205.1.jpg)

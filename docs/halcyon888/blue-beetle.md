@@ -7,7 +7,7 @@
 Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62827516)  [TMDB](https://www.themoviedb.org/movie/565770)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62827516)  [TMDB](https://www.themoviedb.org/movie/565770)  [Compare across authors](../../compare/?t=film-blue-beetle_565770)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Blue%20Beetle%20(2023)%20THD%20Atmos%20PvA.jpg)
@@ -24,7 +24,7 @@ Recent college grad Jaime Reyes returns home full of aspirations for his future,
 +2dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62827516)  [TMDB](https://www.themoviedb.org/movie/565770)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62827516)  [TMDB](https://www.themoviedb.org/movie/565770)  [Compare across authors](../../compare/?t=film-blue-beetle_565770)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Blue%20Beetle%20(2023)%20DDP%20Atmos%20PvA.jpg)

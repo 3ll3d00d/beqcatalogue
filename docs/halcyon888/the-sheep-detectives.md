@@ -9,7 +9,7 @@ George Hardy is a shepherd who reads detective novels to his beloved sheep every
 
 **MV Adjustment:** +5.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/1301421)
+[TMDB](https://www.themoviedb.org/movie/1301421)  [Compare across authors](../../compare/?t=film-the-sheep-detectives_1301421)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/The%20Sheep%20Detectives%20(2026)%20DDP%20PvA.png)

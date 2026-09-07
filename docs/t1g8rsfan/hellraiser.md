@@ -12,7 +12,7 @@ A young woman struggling with addiction comes into possession of an ancient puzz
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62999955)  [TMDB](https://www.themoviedb.org/movie/338947)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62999955)  [TMDB](https://www.themoviedb.org/movie/338947)  [Compare across authors](../../compare/?t=film-hellraiser_338947)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Hellraiser%20(2022)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)

@@ -7,7 +7,7 @@
 After assuming his dead cellmate's identity to get with his girlfriend, an ex-con finds himself the reluctant participant in a casino heist.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/2155)
+[TMDB](https://www.themoviedb.org/movie/2155)  [Compare across authors](../../compare/?t=film-reindeer-games_2155)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Reindeer%20Games%20(2000)%20DTS-HD%20MA%205.1.jpg)

@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-evil_86848)
+
 * Production Year: 2019
 
 

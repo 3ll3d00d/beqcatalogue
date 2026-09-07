@@ -9,7 +9,7 @@ An aging ex-boxer gangster working as muscle for a Boston crime boss receives an
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1553?post_id=63794106#post-63794106)  [TMDB](https://www.themoviedb.org/movie/974453)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1553?post_id=63794106#post-63794106)  [TMDB](https://www.themoviedb.org/movie/974453)  [Compare across authors](../../compare/?t=film-absolution_974453)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Absolution%20(2024)%20(%2B2.5%20gain)%20DTS-HD%20MA%205.1.jpg)

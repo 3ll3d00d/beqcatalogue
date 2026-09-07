@@ -9,7 +9,7 @@ When the discovery of an ancient artifact unleashes an evil force, Ghostbusters 
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1473?post_id=63382716#post-63382716)  [TMDB](https://www.themoviedb.org/movie/967847)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1473?post_id=63382716#post-63382716)  [TMDB](https://www.themoviedb.org/movie/967847)  [Compare across authors](../../compare/?t=film-ghostbusters-frozen-empire_967847)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Ghostbusters%20Frozen%20Empire%20(2024)%20(-1.5%20gain)%20Atmos.jpg)
@@ -25,7 +25,7 @@ The Spengler family returns to where it all started – the iconic New York City
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1448?post_id=63295557#post-63295557)  [TMDB](https://www.themoviedb.org/movie/967847)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1448?post_id=63295557#post-63295557)  [TMDB](https://www.themoviedb.org/movie/967847)  [Compare across authors](../../compare/?t=film-ghostbusters-frozen-empire_967847)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/Ghostbusters%20Frozen%20Empire%20(2024)%20(%2B1.5%20gain)%20DD%2B.jpg)

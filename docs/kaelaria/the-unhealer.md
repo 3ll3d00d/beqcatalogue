@@ -7,7 +7,7 @@
 A botched faith healing leaves a bullied teenager with unusual powers.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/740903)
+[TMDB](https://www.themoviedb.org/movie/740903)  [Compare across authors](../../compare/?t=film-the-unhealer_740903)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Unhealer%20(2020)%20DD%2B%205.1.jpg)

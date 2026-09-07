@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-hunting-party_247723)
+
 * Production Year: 2025
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-the-hunting-party_247723)
 
 * Production Year: 2025
 

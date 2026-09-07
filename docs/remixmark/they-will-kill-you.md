@@ -9,7 +9,7 @@ A woman answers a help wanted ad to be a housekeeper in a mysterious New York Ci
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1747?post_id=64664150#post-64664150)  [TMDB](https://www.themoviedb.org/movie/1292695)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1747?post_id=64664150#post-64664150)  [TMDB](https://www.themoviedb.org/movie/1292695)  [Compare across authors](../../compare/?t=film-they-will-kill-you_1292695)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/They%20Will%20Kill%20You%20(2026)%20(%2B1%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ A woman answers a help wanted ad to be a housekeeper in a mysterious New York Ci
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1735?post_id=64584410#post-64584410)  [TMDB](https://www.themoviedb.org/movie/1292695)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1735?post_id=64584410#post-64584410)  [TMDB](https://www.themoviedb.org/movie/1292695)  [Compare across authors](../../compare/?t=film-they-will-kill-you_1292695)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/They%20Will%20Kill%20You%20(2026)%20(%2B.5%20gain)%20DD%2B%20Atmos.jpg)

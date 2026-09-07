@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-game-of-thrones_1399)
+
 * Production Year: 2011
 
 
@@ -19,6 +21,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-game-of-thrones_1399)
 
 * Production Year: 2011
 
@@ -33,6 +37,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-game-of-thrones_1399)
+
 * Production Year: 2011
 
 
@@ -45,6 +51,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-game-of-thrones_1399)
 
 * Production Year: 2011
 
@@ -59,6 +67,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-game-of-thrones_1399)
+
 * Production Year: 2011
 
 
@@ -71,6 +81,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-game-of-thrones_1399)
 
 * Production Year: 2011
 
@@ -85,6 +97,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-game-of-thrones_1399)
+
 * Production Year: 2011
 
 
@@ -97,6 +111,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-game-of-thrones_1399)
 
 * Production Year: 2011
 

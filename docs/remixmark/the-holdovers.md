@@ -9,7 +9,7 @@ A curmudgeonly instructor at a New England prep school is forced to remain on ca
 
 **MV Adjustment:** +8.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1712?post_id=64466889#post-64466889)  [TMDB](https://www.themoviedb.org/movie/840430)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1712?post_id=64466889#post-64466889)  [TMDB](https://www.themoviedb.org/movie/840430)  [Compare across authors](../../compare/?t=film-the-holdovers_840430)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Holdovers%20(2023)%20(%2B8.5%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-shrinking_136311)
+
 * Production Year: 2023
 
 

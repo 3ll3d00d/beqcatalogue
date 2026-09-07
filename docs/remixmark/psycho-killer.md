@@ -9,7 +9,7 @@ Following the brutal murder of her husband, a Kansas highway patrol officer sets
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1730?post_id=64552768#post-64552768)  [TMDB](https://www.themoviedb.org/movie/1107166)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1730?post_id=64552768#post-64552768)  [TMDB](https://www.themoviedb.org/movie/1107166)  [Compare across authors](../../compare/?t=film-psycho-killer_1107166)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Psycho%20Killer%20(2026)%20(%2B5.5%20gain)%20DD%2B.jpg)

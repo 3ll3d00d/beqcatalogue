@@ -7,7 +7,7 @@
 Edmond Dantès becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1084736)
+[TMDB](https://www.themoviedb.org/movie/1084736)  [Compare across authors](../../compare/?t=film-the-count-of-monte-cristo_1084736)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Count%20of%20Monte%20Cristo/The%20Count%20of%20Monte%20Cristo%20(2024)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ Edmond Dantès becomes the target of a sinister plot and is arrested on his wedd
 Edmond Dantès becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1084736)
+[TMDB](https://www.themoviedb.org/movie/1084736)  [Compare across authors](../../compare/?t=film-the-count-of-monte-cristo_1084736)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Count%20of%20Monte%20Cristo/The%20Count%20of%20Monte%20Cristo%20(2024)%20(fr)%20DTS-HD%20MA%205.1.jpg)

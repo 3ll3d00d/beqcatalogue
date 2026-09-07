@@ -14,6 +14,8 @@ Dialnorm Compensation: E01-E02 +4dB, E05 +3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62646771)
 
+* [Compare across authors](../../compare/?t=TV-hijack_198102)
+
 * Production Year: 2023
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: E03 +4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62646771)
+
+* [Compare across authors](../../compare/?t=TV-hijack_198102)
 
 * Production Year: 2023
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: E04 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62646771)
 
+* [Compare across authors](../../compare/?t=TV-hijack_198102)
+
 * Production Year: 2023
 
 
@@ -74,6 +80,8 @@ Dialnorm Compensation: E06 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62646771)
 
+* [Compare across authors](../../compare/?t=TV-hijack_198102)
+
 * Production Year: 2023
 
 
@@ -93,6 +101,8 @@ Dialnorm Compensation: E07 +6.0 dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62646771)
+
+* [Compare across authors](../../compare/?t=TV-hijack_198102)
 
 * Production Year: 2023
 

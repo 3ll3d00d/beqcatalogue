@@ -9,7 +9,7 @@ Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a T
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63704294#post-63704294)  [TMDB](https://www.themoviedb.org/movie/6977)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63704294#post-63704294)  [TMDB](https://www.themoviedb.org/movie/6977)  [Compare across authors](../../compare/?t=film-no-country-for-old-men_6977)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/No%20Country%20for%20Old%20Men%20(2007)%20(%2B7%20gain)%20DTS-HD%20MA%205.1.jpg)

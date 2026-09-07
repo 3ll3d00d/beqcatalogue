@@ -9,7 +9,7 @@ When Jesper distinguishes himself as the Postal Academy's worst student, he is s
 
 **MV Adjustment:** +19.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1574?post_id=63927144#post-63927144)  [TMDB](https://www.themoviedb.org/movie/508965)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1574?post_id=63927144#post-63927144)  [TMDB](https://www.themoviedb.org/movie/508965)  [Compare across authors](../../compare/?t=film-klaus_508965)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Klaus%20(2019)%20(%2B19.5%20gain)%20DTS-HD%20MA%207.1.jpg)

@@ -14,7 +14,7 @@ On the rugged isle of Berk, where Vikings and dragons have been bitter enemies f
 +4dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1087192)
+[TMDB](https://www.themoviedb.org/movie/1087192)  [Compare across authors](../../compare/?t=film-how-to-train-your-dragon_1087192)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/How%20to%20Train%20Your%20Dragon%20(2025)%20(%2B4%20gain)%20Atmos.jpg)

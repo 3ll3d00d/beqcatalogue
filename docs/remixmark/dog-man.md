@@ -9,7 +9,7 @@ When a faithful police dog and his human police officer owner are injured togeth
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63941635#post-63941635)  [TMDB](https://www.themoviedb.org/movie/774370)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63941635#post-63941635)  [TMDB](https://www.themoviedb.org/movie/774370)  [Compare across authors](../../compare/?t=film-dog-man_774370)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dog%20Man%20(2025)%20(%2B6%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ When a faithful police dog and his human police officer owner are injured togeth
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1561?post_id=63853008#post-63853008)  [TMDB](https://www.themoviedb.org/movie/774370)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1561?post_id=63853008#post-63853008)  [TMDB](https://www.themoviedb.org/movie/774370)  [Compare across authors](../../compare/?t=film-dog-man_774370)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dog%20Man%20(2025)%20(%2B6.5%20gain)%20DD%2B%20Atmos.jpg)

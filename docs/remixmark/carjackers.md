@@ -9,7 +9,7 @@ By day, they're invisible—valets, hostesses, and bartenders at a luxury hotel.
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1573?post_id=63922324#post-63922324)  [TMDB](https://www.themoviedb.org/movie/1229730)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1573?post_id=63922324#post-63922324)  [TMDB](https://www.themoviedb.org/movie/1229730)  [Compare across authors](../../compare/?t=film-carjackers_1229730)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Carjackers%20(2025)%20(%2B2.5%20gain)%20DD%2B.jpg)

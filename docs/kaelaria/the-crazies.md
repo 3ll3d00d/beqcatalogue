@@ -7,7 +7,7 @@
 Four friends find themselves trapped in their small hometown after they discover their friends and neighbors going quickly and horrifically insane.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/29427)
+[TMDB](https://www.themoviedb.org/movie/29427)  [Compare across authors](../../compare/?t=film-the-crazies_29427)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Crazies%20(2010)%20DTS-MA%205.1.jpg)

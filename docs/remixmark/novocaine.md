@@ -9,7 +9,7 @@ When the girl of his dreams is kidnapped, everyman Nate turns his inability to f
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63937479#post-63937479)  [TMDB](https://www.themoviedb.org/movie/1195506)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63937479#post-63937479)  [TMDB](https://www.themoviedb.org/movie/1195506)  [Compare across authors](../../compare/?t=film-novocaine_1195506)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Novocaine%20(2025)%20(%2B1%20gain)%20DD%2B.jpg)
@@ -28,7 +28,7 @@ When the girl of his dreams is kidnapped, everyman Nate turns his inability to f
 Dialnorm Compensation:5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63938763#post-63938763)  [TMDB](https://www.themoviedb.org/movie/1195506)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63938763#post-63938763)  [TMDB](https://www.themoviedb.org/movie/1195506)  [Compare across authors](../../compare/?t=film-novocaine_1195506)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Novocaine%20(2025)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

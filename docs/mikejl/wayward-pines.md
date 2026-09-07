@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-wayward-pines_53425)
+
 * Production Year: 2015
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-wayward-pines_53425)
 
 * Production Year: 2015
 

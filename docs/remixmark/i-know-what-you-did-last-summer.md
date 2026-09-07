@@ -12,7 +12,7 @@ When five friends inadvertently cause a deadly car accident, they cover up their
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1637?post_id=64166650#post-64166650)  [TMDB](https://www.themoviedb.org/movie/1083433)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1637?post_id=64166650#post-64166650)  [TMDB](https://www.themoviedb.org/movie/1083433)  [Compare across authors](../../compare/?t=film-i-know-what-you-did-last-summer_1083433)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/I%20Know%20What%20You%20Did%20Last%20Summer%20(2025)%20(%2B3.5%20gain)%20DD%2B%20Atmos.jpg)
@@ -28,7 +28,7 @@ When five friends inadvertently cause a deadly car accident, they cover up their
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1649?post_id=64216360#post-64216360)  [TMDB](https://www.themoviedb.org/movie/1083433)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1649?post_id=64216360#post-64216360)  [TMDB](https://www.themoviedb.org/movie/1083433)  [Compare across authors](../../compare/?t=film-i-know-what-you-did-last-summer_1083433)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/I%20Know%20What%20You%20Did%20Last%20Summer%20(2025)%20(%2B3.5%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -7,7 +7,7 @@
 Two brothers crash into the decaying Earth to stop a capitalist from manufacturing an immortality serum, which is synthesized utilizing heinous methods and leaving an increasingly dire infertility rate in its wake.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1058619)
+[TMDB](https://www.themoviedb.org/movie/1058619)  [Compare across authors](../../compare/?t=film-divinity_1058619)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Divinity/Divinity%20(2023)%20DTS-HD%20MA%205.1.jpg)
