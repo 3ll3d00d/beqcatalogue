@@ -1,5 +1,7 @@
 # Me and Me
 
+[Compare across authors](../../compare/?t=film-me-and-me_581529)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 45m • Korean • Drama, Mystery • mobe1969**

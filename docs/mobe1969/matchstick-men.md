@@ -1,5 +1,7 @@
 # Matchstick Men
 
+[Compare across authors](../../compare/?t=film-matchstick-men_7270)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG-13 • 1h 56m • Thriller, Comedy, Drama, Crime • mobe1969**

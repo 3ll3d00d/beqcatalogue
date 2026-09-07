@@ -1,5 +1,7 @@
 # Garbage
 
+[Compare across authors](../../compare/?t=film-garbage_500788)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 45m • Hindi • Thriller, Drama • mobe1969**

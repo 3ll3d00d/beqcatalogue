@@ -1,5 +1,7 @@
 # Space Dogs: Tropical Adventure
 
+[Compare across authors](../../compare/?t=film-space-dogs-tropical-adventure_579824)
+
 ## DD+ 5.1
 
 **2020 • U • 1h 20m • Animation, Family • mobe1969**

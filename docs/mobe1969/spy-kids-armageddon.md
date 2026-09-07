@@ -1,5 +1,7 @@
 # Spy Kids: Armageddon
 
+[Compare across authors](../../compare/?t=film-spy-kids-armageddon_790493)
+
 ## DD+ Atmos
 
 **2023 • PG • 1h 38m • Family, Comedy, Action, Adventure, Fantasy • mobe1969**

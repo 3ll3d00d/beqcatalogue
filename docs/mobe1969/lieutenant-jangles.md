@@ -1,5 +1,7 @@
 # Lieutenant Jangles
 
+[Compare across authors](../../compare/?t=film-lieutenant-jangles_515768)
+
 ## DTS-HD MA 2.0
 
 **2022 • NR • 1h 38m • Comedy, Crime, Action • mobe1969**

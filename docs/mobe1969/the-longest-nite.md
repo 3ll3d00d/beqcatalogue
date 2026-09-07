@@ -1,5 +1,7 @@
 # The Longest Nite
 
+[Compare across authors](../../compare/?t=film-the-longest-nite_41158)
+
 ## DTS-HD MA 5.1
 
 **1998 • NR • 1h 24m • Cantonese • Action, Crime, Drama, Thriller • mobe1969**

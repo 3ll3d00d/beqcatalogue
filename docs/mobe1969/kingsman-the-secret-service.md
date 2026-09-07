@@ -1,5 +1,7 @@
 # Kingsman: The Secret Service
 
+[Compare across authors](../../compare/?t=film-kingsman-the-secret-service_207703)
+
 ## DTS-HD MA 7.1
 
 **2014 • R • 2h 9m • Crime, Comedy, Action, Adventure • mobe1969**

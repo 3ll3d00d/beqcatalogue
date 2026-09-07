@@ -1,5 +1,7 @@
 # The Vanished Murderer
 
+[Compare across authors](../../compare/?t=film-the-vanished-murderer_373067)
+
 ## TrueHD 7.1
 
 **2015 • NR • 2h 1m • Cantonese • Action, Mystery, Drama, Thriller • mobe1969**

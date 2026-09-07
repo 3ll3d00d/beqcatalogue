@@ -1,5 +1,7 @@
 # Wood Job!
 
+[Compare across authors](../../compare/?t=film-wood-job_274817)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 56m • Japanese • Drama, Comedy • mobe1969**

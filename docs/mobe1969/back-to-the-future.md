@@ -1,5 +1,7 @@
 # Back to the Future
 
+[Compare across authors](../../compare/?t=film-back-to-the-future_105)
+
 ## DTS-HD MA 5.1
 
 **1985 • PG • 1h 56m • Comedy, Adventure, Science Fiction, Family • mobe1969**

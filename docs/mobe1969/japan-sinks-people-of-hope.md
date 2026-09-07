@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-japan-sinks-people-of-hope_135144)
+
 ## Season 1
 
 * DD+ 2.0

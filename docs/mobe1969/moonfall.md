@@ -1,5 +1,7 @@
 # Moonfall
 
+[Compare across authors](../../compare/?t=film-moonfall_406759)
+
 ## Atmos
 
 **2022 • PG-13 • 2h 10m • Science Fiction, Adventure, Action • mobe1969**

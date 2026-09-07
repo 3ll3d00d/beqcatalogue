@@ -1,5 +1,7 @@
 # Miss Granny
 
+[Compare across authors](../../compare/?t=film-miss-granny_253065)
+
 ## DD+ 5.1
 
 **2014 • 12 • 2h 4m • Korean • Family, Drama, Comedy, Music • mobe1969**

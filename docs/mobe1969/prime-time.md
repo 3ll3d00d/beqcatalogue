@@ -1,5 +1,7 @@
 # Prime Time
 
+[Compare across authors](../../compare/?t=film-prime-time_745078)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 33m • Polish • Drama, Thriller • mobe1969**

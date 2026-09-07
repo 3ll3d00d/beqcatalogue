@@ -1,5 +1,7 @@
 # Lady Vengeance
 
+[Compare across authors](../../compare/?t=film-lady-vengeance_4550)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 55m • Korean • Drama, Thriller • mobe1969**

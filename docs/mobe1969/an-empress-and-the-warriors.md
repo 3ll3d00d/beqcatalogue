@@ -1,5 +1,7 @@
 # An Empress and the Warriors
 
+[Compare across authors](../../compare/?t=film-an-empress-and-the-warriors_14539)
+
 ## DTS-HD MA 5.1, TrueHD 5.1
 
 **2008 • NR • 1h 35m • Mandarin • Action, Adventure, History • mobe1969**

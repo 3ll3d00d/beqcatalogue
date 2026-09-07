@@ -1,5 +1,7 @@
 # Pets United
 
+[Compare across authors](../../compare/?t=film-pets-united_638134)
+
 ## DD+ 5.1
 
 **2019 • PG • 1h 29m • Animation, Family, Adventure, Comedy • mobe1969**

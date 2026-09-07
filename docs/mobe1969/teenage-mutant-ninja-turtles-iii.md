@@ -1,5 +1,7 @@
 # Teenage Mutant Ninja Turtles III
 
+[Compare across authors](../../compare/?t=film-teenage-mutant-ninja-turtles-iii_1499)
+
 ## DD+ 5.1
 
 **1993 • PG • 1h 36m • Action, Adventure, Comedy, Family, Fantasy, Science Fiction • mobe1969**

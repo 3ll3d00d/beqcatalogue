@@ -1,5 +1,7 @@
 # Kannai Nambathe
 
+[Compare across authors](../../compare/?t=film-kannai-nambathe_904717)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 13m • Tamil • Crime, Thriller, Action • mobe1969**

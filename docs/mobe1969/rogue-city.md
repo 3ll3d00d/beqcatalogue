@@ -1,5 +1,7 @@
 # Rogue City
 
+[Compare across authors](../../compare/?t=film-rogue-city_671039)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 56m • French • Crime, Thriller, Action, Drama • mobe1969**

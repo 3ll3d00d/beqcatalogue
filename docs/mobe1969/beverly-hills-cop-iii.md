@@ -1,5 +1,7 @@
 # Beverly Hills Cop III
 
+[Compare across authors](../../compare/?t=film-beverly-hills-cop-iii_306)
+
 ## DTS-HD MA 5.1
 
 **1994 • R • 1h 45m • Action, Comedy, Crime • mobe1969**

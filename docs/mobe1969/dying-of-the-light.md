@@ -1,5 +1,7 @@
 # Dying of the Light
 
+[Compare across authors](../../compare/?t=film-dying-of-the-light_297596)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 34m • Thriller, Drama • mobe1969**

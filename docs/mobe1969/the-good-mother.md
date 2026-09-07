@@ -1,5 +1,7 @@
 # The Good Mother
 
+[Compare across authors](../../compare/?t=film-the-good-mother_104301)
+
 ## DTS-HD MA 2.0
 
 **1988 • R • 1h 44m • Drama, Romance • mobe1969**

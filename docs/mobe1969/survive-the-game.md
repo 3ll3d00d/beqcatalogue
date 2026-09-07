@@ -1,5 +1,7 @@
 # Survive the Game
 
+[Compare across authors](../../compare/?t=film-survive-the-game_787310)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 37m • Action, Thriller, Crime • mobe1969**

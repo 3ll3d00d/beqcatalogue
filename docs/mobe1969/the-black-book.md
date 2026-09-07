@@ -1,5 +1,7 @@
 # The Black Book
 
+[Compare across authors](../../compare/?t=film-the-black-book_1172009)
+
 ## DD+ 5.1
 
 **2023 • R • 2h 4m • Mystery, Thriller, Action • mobe1969**

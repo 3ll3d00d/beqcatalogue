@@ -1,5 +1,7 @@
 # Shutter Island
 
+[Compare across authors](../../compare/?t=film-shutter-island_11324)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 2h 18m • Drama, Thriller, Mystery • mobe1969**

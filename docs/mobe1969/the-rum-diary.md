@@ -1,5 +1,7 @@
 # The Rum Diary
 
+[Compare across authors](../../compare/?t=film-the-rum-diary_23514)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 2h 0m • Comedy, Drama • mobe1969**

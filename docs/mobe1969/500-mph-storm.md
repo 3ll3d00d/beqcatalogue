@@ -1,5 +1,7 @@
 # 500 MPH Storm
 
+[Compare across authors](../../compare/?t=film-500-mph-storm_172767)
+
 ## DD+ 5.1
 
 **2013 • PG • 1h 30m • Action, Science Fiction, TV Movie, Adventure, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # SPL II: A Time for Consequences
 
+[Compare across authors](../../compare/?t=film-spl-ii-a-time-for-consequences_331576)
+
 ## DTS-HD MA 7.1
 
 **2015 • NR • 2h 0m • Cantonese • Action, Crime, Thriller • mobe1969**

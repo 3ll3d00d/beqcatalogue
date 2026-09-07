@@ -1,5 +1,7 @@
 # The Mechanik
 
+[Compare across authors](../../compare/?t=film-the-mechanik_26116)
+
 ## DD+ 2.0
 
 **2005 • R • 1h 34m • Action, Thriller • mobe1969**

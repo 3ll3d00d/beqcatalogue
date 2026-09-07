@@ -1,5 +1,7 @@
 # Queen of Spades
 
+[Compare across authors](../../compare/?t=film-queen-of-spades_829358)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 31m • Horror • mobe1969**

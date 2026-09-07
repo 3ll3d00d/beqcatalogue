@@ -1,5 +1,7 @@
 # Polite Society
 
+[Compare across authors](../../compare/?t=film-polite-society_977223)
+
 ## DD+ Atmos
 
 **2023 • PG-13 • 1h 43m • Action, Adventure, Comedy • mobe1969**

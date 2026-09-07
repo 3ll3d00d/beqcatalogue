@@ -1,5 +1,7 @@
 # Minnal Murali
 
+[Compare across authors](../../compare/?t=film-minnal-murali_657644)
+
 ## DD+ Atmos
 
 **2021 • 12 • 2h 38m • Malayalam • Action, Adventure, Comedy • mobe1969**

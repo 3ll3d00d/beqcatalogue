@@ -1,5 +1,7 @@
 # The Haunting
 
+[Compare across authors](../../compare/?t=film-the-haunting_11618)
+
 ## DTS-HD MA 5.1
 
 **1999 • PG-13 • 1h 53m • Horror, Thriller, Fantasy, Mystery • mobe1969**

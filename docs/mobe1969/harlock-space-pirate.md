@@ -1,5 +1,7 @@
 # Harlock Space Pirate
 
+[Compare across authors](../../compare/?t=film-harlock-space-pirate_192577)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 55m • Japanese • Animation, Science Fiction • mobe1969**

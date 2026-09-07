@@ -1,5 +1,7 @@
 # The Coast Guard
 
+[Compare across authors](../../compare/?t=film-the-coast-guard_1416)
+
 ## DTS-HD MA 5.1
 
 **2002 • NR • 1h 36m • Korean • Thriller, Drama • mobe1969**

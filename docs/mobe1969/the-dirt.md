@@ -1,5 +1,7 @@
 # The Dirt
 
+[Compare across authors](../../compare/?t=film-the-dirt_327331)
+
 ## DD+ Atmos
 
 **2019 • R • 1h 48m • Drama, Music, History, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # The Swindlers
 
+[Compare across authors](../../compare/?t=film-the-swindlers_478187)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 1h 57m • Korean • Crime, Action • mobe1969**

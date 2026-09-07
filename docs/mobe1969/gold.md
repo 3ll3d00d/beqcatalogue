@@ -1,5 +1,7 @@
 # Gold
 
+[Compare across authors](../../compare/?t=film-gold_478682)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 50m • Hindi • Drama, History • mobe1969**

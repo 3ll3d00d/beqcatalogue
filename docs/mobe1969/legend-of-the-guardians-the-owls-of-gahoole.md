@@ -1,5 +1,7 @@
 # Legend of the Guardians: The Owls of Ga'Hoole
 
+[Compare across authors](../../compare/?t=film-legend-of-the-guardians-the-owls-of-gahoole_41216)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG • 1h 37m • Animation, Adventure, Family, Fantasy • mobe1969**

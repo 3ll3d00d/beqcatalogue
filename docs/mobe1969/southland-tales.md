@@ -1,5 +1,7 @@
 # Southland Tales
 
+[Compare across authors](../../compare/?t=film-southland-tales_4723)
+
 ## DTS-HD MA 5.1
 
 Director's Cut

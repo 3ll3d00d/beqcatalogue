@@ -1,5 +1,7 @@
 # Spirited Away
 
+[Compare across authors](../../compare/?t=film-spirited-away_129)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG • 2h 5m • Japanese • Animation, Family, Fantasy • mobe1969**

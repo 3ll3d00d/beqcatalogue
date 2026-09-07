@@ -1,5 +1,7 @@
 # Dolphin Tale 2
 
+[Compare across authors](../../compare/?t=film-dolphin-tale-2_227735)
+
 ## DD+ 5.1
 
 **2014 • PG • 1h 47m • Family, Drama • mobe1969**

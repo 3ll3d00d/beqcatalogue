@@ -1,5 +1,7 @@
 # Remember
 
+[Compare across authors](../../compare/?t=film-remember_633374)
+
 ## DTS-HD MA 5.1
 
 **2022 • G • 2h 8m • Korean • Thriller • mobe1969**

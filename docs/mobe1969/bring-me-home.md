@@ -1,5 +1,7 @@
 # Bring Me Home
 
+[Compare across authors](../../compare/?t=film-bring-me-home_507773)
+
 ## TrueHD 5.1
 
 **2019 • NR • 1h 48m • Korean • Drama, Thriller • mobe1969**

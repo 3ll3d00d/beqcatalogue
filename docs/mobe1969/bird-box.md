@@ -1,5 +1,7 @@
 # Bird Box
 
+[Compare across authors](../../compare/?t=film-bird-box_405774)
+
 ## DD+ Atmos
 
 **2018 • R • 2h 4m • Thriller, Drama, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Fistful of Vengeance
 
+[Compare across authors](../../compare/?t=film-fistful-of-vengeance_890656)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2022 • R • 1h 34m • Action, Crime, Fantasy • mobe1969**

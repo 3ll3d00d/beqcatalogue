@@ -1,5 +1,7 @@
 # Mixtape
 
+[Compare across authors](../../compare/?t=film-mixtape_32471)
+
 ## DD+ Atmos
 
 **2021 • PG • 1h 34m • Comedy, Family • mobe1969**

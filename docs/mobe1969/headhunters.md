@@ -1,5 +1,7 @@
 # Headhunters
 
+[Compare across authors](../../compare/?t=film-headhunters_70670)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 40m • Norwegian • Thriller, Crime, Action • mobe1969**

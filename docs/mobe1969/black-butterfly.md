@@ -1,5 +1,7 @@
 # Black Butterfly
 
+[Compare across authors](../../compare/?t=film-black-butterfly_76812)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 33m • Mystery, Thriller • mobe1969**

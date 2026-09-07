@@ -1,5 +1,7 @@
 # Caught in Time
 
+[Compare across authors](../../compare/?t=film-caught-in-time_751820)
+
 ## TrueHD 5.1
 
 **2020 • NR • 1h 35m • Mandarin • Action, Crime, Drama • mobe1969**

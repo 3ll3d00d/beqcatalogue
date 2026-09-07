@@ -1,5 +1,7 @@
 # Great White
 
+[Compare across authors](../../compare/?t=film-great-white_534072)
+
 ## DTS-HD MA 5.1
 
 **2021 • 15 • 1h 31m • Horror, Thriller • mobe1969**

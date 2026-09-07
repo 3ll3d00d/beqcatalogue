@@ -1,5 +1,7 @@
 # 7 Seconds
 
+[Compare across authors](../../compare/?t=film-7-seconds_9721)
+
 ## TrueHD 5.1
 
 **2005 • R • 1h 36m • Action, Crime, Thriller • mobe1969**

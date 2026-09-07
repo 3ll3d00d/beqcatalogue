@@ -1,5 +1,7 @@
 # The Housemaid
 
+[Compare across authors](../../compare/?t=film-the-housemaid_45202)
+
 ## DTS-HD MA 5.1
 
 **2010 • 15 • 1h 47m • Korean • Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # 1987: When the Day Comes
 
+[Compare across authors](../../compare/?t=film-1987-when-the-day-comes_437103)
+
 ## TrueHD 5.1
 
 **2017 • 15 • 2h 9m • Korean • Drama, History, Thriller • mobe1969**

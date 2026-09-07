@@ -1,5 +1,7 @@
 # Tooth Fairy
 
+[Compare across authors](../../compare/?t=film-tooth-fairy_23023)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG • 1h 41m • Comedy, Family, Fantasy • mobe1969**

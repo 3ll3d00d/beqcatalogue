@@ -1,5 +1,7 @@
 # Stealth
 
+[Compare across authors](../../compare/?t=film-stealth_10048)
+
 ## LPCM 5.1
 
 **2005 • PG-13 • 2h 1m • Science Fiction, Action, War • mobe1969**

@@ -1,5 +1,7 @@
 # The Grudge 3
 
+[Compare across authors](../../compare/?t=film-the-grudge-3_1977)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 30m • Mystery, Thriller, Horror • mobe1969**

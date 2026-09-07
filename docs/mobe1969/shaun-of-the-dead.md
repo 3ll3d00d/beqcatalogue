@@ -1,5 +1,7 @@
 # Shaun of the Dead
 
+[Compare across authors](../../compare/?t=film-shaun-of-the-dead_747)
+
 ## DTS-X
 
 **2004 • R • 1h 39m • Horror, Comedy • mobe1969**

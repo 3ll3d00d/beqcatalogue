@@ -1,5 +1,7 @@
 # Hellboy II: The Golden Army
 
+[Compare across authors](../../compare/?t=film-hellboy-ii-the-golden-army_11253)
+
 ## DTS-X
 
 **2008 • PG-13 • 2h 0m • Action, Adventure, Mystery, Fantasy, Horror, Science Fiction • mobe1969**

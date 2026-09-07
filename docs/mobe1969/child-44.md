@@ -1,5 +1,7 @@
 # Child 44
 
+[Compare across authors](../../compare/?t=film-child-44_181283)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 2h 17m • Crime, Thriller • mobe1969**

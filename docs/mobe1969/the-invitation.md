@@ -1,5 +1,7 @@
 # The Invitation
 
+[Compare across authors](../../compare/?t=film-the-invitation_830788)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

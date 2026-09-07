@@ -1,5 +1,7 @@
 # Appleseed Alpha
 
+[Compare across authors](../../compare/?t=film-appleseed-alpha_269650)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 30m • Science Fiction, Animation, Action • mobe1969**

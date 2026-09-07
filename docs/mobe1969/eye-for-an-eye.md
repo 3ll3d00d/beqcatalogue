@@ -1,5 +1,7 @@
 # Eye for an Eye
 
+[Compare across authors](../../compare/?t=film-eye-for-an-eye_574376)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 47m • Spanish • Drama, Thriller, Crime • mobe1969**

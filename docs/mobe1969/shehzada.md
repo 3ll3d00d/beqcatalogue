@@ -1,5 +1,7 @@
 # Shehzada
 
+[Compare across authors](../../compare/?t=film-shehzada_884434)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 22m • Hindi • Action, Comedy, Drama, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Pi
 
+[Compare across authors](../../compare/?t=film-pi_473)
+
 ## DTS-HD MA 2.0
 
 **1998 • R • 1h 24m • Mystery, Drama, Thriller • mobe1969**

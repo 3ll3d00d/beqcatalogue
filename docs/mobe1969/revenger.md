@@ -1,5 +1,7 @@
 # Revenger
 
+[Compare across authors](../../compare/?t=film-revenger_557968)
+
 ## DD+ 5.1
 
 **2018 • NC-17 • 1h 42m • Korean • Action • mobe1969**

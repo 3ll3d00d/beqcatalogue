@@ -1,5 +1,7 @@
 # Awake
 
+[Compare across authors](../../compare/?t=film-awake_13483)
+
 ## TrueHD 5.1
 
 **2007 • R • 1h 24m • Mystery, Thriller, Crime • mobe1969**

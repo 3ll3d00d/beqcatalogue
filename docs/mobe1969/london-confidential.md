@@ -1,5 +1,7 @@
 # London Confidential
 
+[Compare across authors](../../compare/?t=film-london-confidential_734819)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 18m • Hindi • Thriller, Crime, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The Little Things
 
+[Compare across authors](../../compare/?t=film-the-little-things_602269)
+
 ## DD+ Atmos
 
 **2021 • R • 2h 8m • Crime, Drama, Thriller • mobe1969**

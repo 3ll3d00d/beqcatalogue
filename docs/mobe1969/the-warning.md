@@ -1,5 +1,7 @@
 # The Warning
 
+[Compare across authors](../../compare/?t=film-the-warning_508018)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 33m • Spanish • Thriller, Drama, Fantasy • mobe1969**

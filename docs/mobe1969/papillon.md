@@ -1,5 +1,7 @@
 # Papillon
 
+[Compare across authors](../../compare/?t=film-papillon_433498)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 2h 14m • Drama • mobe1969**

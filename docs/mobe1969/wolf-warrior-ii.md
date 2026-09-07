@@ -1,5 +1,7 @@
 # Wolf Warrior II
 
+[Compare across authors](../../compare/?t=film-wolf-warrior-ii_452557)
+
 ## Atmos
 
 **2017 • NR • 2h 4m • Mandarin • War, Action, Drama • mobe1969**

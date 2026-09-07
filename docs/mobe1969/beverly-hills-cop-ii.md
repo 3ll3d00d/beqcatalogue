@@ -1,5 +1,7 @@
 # Beverly Hills Cop II
 
+[Compare across authors](../../compare/?t=film-beverly-hills-cop-ii_96)
+
 ## DTS-HD MA 5.1
 
 **1987 • R • 1h 43m • Action, Comedy, Crime • mobe1969**

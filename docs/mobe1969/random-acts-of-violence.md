@@ -1,5 +1,7 @@
 # Random Acts of Violence
 
+[Compare across authors](../../compare/?t=film-random-acts-of-violence_582049)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 20m • Drama, Horror, Thriller • mobe1969**

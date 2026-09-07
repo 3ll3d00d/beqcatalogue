@@ -1,5 +1,7 @@
 # John Henry
 
+[Compare across authors](../../compare/?t=film-john-henry_658199)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 31m • Drama, Thriller • mobe1969**

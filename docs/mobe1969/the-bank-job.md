@@ -1,5 +1,7 @@
 # The Bank Job
 
+[Compare across authors](../../compare/?t=film-the-bank-job_8848)
+
 ## DTS-HD MA 7.1
 
 **2008 • R • 1h 52m • Drama, Crime, Thriller • mobe1969**

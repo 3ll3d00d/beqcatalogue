@@ -1,5 +1,7 @@
 # The Secret Life of Walter Mitty
 
+[Compare across authors](../../compare/?t=film-the-secret-life-of-walter-mitty_116745)
+
 ## DTS-HD MA 7.1
 
 **2013 • PG • 1h 54m • Adventure, Comedy, Drama, Fantasy • mobe1969**

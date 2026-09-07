@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-bad-guys-vile-city_75765)
+
 ## Season 1
 
 * DD+ 2.0

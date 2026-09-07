@@ -1,5 +1,7 @@
 # My Spy
 
+[Compare across authors](../../compare/?t=film-my-spy_592834)
+
 ## DD+ 5.1
 
 Extended Cut

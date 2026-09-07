@@ -1,5 +1,7 @@
 # Inhale
 
+[Compare across authors](../../compare/?t=film-inhale_12645)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 40m • Drama, Action, Thriller • mobe1969**

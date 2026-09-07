@@ -1,5 +1,7 @@
 # Medellín
 
+[Compare across authors](../../compare/?t=film-medellin_961718)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 44m • French • Comedy, Action • mobe1969**

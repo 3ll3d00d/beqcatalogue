@@ -1,5 +1,7 @@
 # EuroTrip
 
+[Compare across authors](../../compare/?t=film-eurotrip_9352)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

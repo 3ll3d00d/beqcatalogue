@@ -1,5 +1,7 @@
 # We Are Your Friends
 
+[Compare across authors](../../compare/?t=film-we-are-your-friends_301351)
+
 ## DD 5.1
 
 **2015 • R • 1h 36m • Drama, Music, Romance, Comedy • mobe1969**

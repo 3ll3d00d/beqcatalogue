@@ -1,5 +1,7 @@
 # Luka Chuppi
 
+[Compare across authors](../../compare/?t=film-luka-chuppi_585062)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 6m • Hindi • Comedy, Romance • mobe1969**

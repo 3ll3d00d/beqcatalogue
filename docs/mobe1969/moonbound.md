@@ -1,5 +1,7 @@
 # Moonbound
 
+[Compare across authors](../../compare/?t=film-moonbound_809717)
+
 ## DD+ 5.1
 
 **2021 • PG • 1h 21m • Animation, Adventure, Family, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # The Losers
 
+[Compare across authors](../../compare/?t=film-the-losers_34813)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 37m • Action, Thriller, Adventure, Mystery, Crime • mobe1969**

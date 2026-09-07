@@ -1,5 +1,7 @@
 # Heatstroke
 
+[Compare across authors](../../compare/?t=film-heatstroke_278334)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 32m • Thriller • mobe1969**

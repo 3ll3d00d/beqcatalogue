@@ -1,5 +1,7 @@
 # Pacific Rim
 
+[Compare across authors](../../compare/?t=film-pacific-rim_68726)
+
 ## Atmos
 
 **2013 • PG-13 • 2h 11m • Action, Science Fiction, Adventure • mobe1969**

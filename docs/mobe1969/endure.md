@@ -1,5 +1,7 @@
 # Endure
 
+[Compare across authors](../../compare/?t=film-endure_63273)
+
 ## DD+ 5.1
 
 **2010 • R • 1h 31m • Mystery, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # It Comes at Night
 
+[Compare across authors](../../compare/?t=film-it-comes-at-night_418078)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 31m • Drama, Horror, Mystery • mobe1969**

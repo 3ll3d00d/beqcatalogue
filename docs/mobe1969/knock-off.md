@@ -1,5 +1,7 @@
 # Knock Off
 
+[Compare across authors](../../compare/?t=film-knock-off_37498)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 31m • Adventure, Action, Thriller • mobe1969**

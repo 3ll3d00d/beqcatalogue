@@ -1,5 +1,7 @@
 # Welcome Home
 
+[Compare across authors](../../compare/?t=film-welcome-home_525460)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 37m • Thriller, Horror • mobe1969**

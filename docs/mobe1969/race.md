@@ -1,5 +1,7 @@
 # Race
 
+[Compare across authors](../../compare/?t=film-race_19658)
+
 ## DTS-HD MA 5.1
 
 **2008 • 12 • 2h 41m • Hindi • Drama, Action, Thriller, Crime • mobe1969**

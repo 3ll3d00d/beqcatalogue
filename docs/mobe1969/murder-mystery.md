@@ -1,5 +1,7 @@
 # Murder Mystery
 
+[Compare across authors](../../compare/?t=film-murder-mystery_514999)
+
 ## DD+ 5.1
 
 **2019 • PG-13 • 1h 37m • Comedy • mobe1969**

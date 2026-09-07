@@ -1,5 +1,7 @@
 # Mr. & Mrs. Smith
 
+[Compare across authors](../../compare/?t=film-mr-mrs-smith_787)
+
 ## DTS-HD MA 5.1
 
 **2005 • PG-13 • 2h 0m • Action, Comedy, Drama, Thriller • mobe1969**

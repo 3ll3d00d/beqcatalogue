@@ -1,5 +1,7 @@
 # The Last House on the Left
 
+[Compare across authors](../../compare/?t=film-the-last-house-on-the-left_18405)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut, UHD

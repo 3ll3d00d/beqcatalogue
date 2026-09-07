@@ -1,5 +1,7 @@
 # Dreamland
 
+[Compare across authors](../../compare/?t=film-dreamland_480434)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 38m • Thriller, Drama • mobe1969**

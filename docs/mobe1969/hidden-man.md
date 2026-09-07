@@ -1,5 +1,7 @@
 # Hidden Man
 
+[Compare across authors](../../compare/?t=film-hidden-man_503235)
+
 ## TrueHD 5.1
 
 **2018 • NR • 2h 17m • Mandarin • Adventure, Action, Romance • mobe1969**

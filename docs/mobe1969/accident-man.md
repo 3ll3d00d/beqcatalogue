@@ -1,5 +1,7 @@
 # Accident Man
 
+[Compare across authors](../../compare/?t=film-accident-man_455236)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 41m • Crime, Action, Thriller • mobe1969**

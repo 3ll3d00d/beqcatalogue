@@ -1,5 +1,7 @@
 # Mad Max 2
 
+[Compare across authors](../../compare/?t=film-mad-max-2_8810)
+
 ## Atmos
 
 **1981 • R • 1h 36m • Adventure, Action, Thriller, Science Fiction • mobe1969**

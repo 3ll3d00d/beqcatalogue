@@ -1,5 +1,7 @@
 # Mission Kashmir
 
+[Compare across authors](../../compare/?t=film-mission-kashmir_46406)
+
 ## DD 5.1
 
 **2000 • 12 • 2h 31m • Hindi • Action, Drama, Thriller • mobe1969**

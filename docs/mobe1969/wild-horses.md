@@ -1,5 +1,7 @@
 # Wild Horses
 
+[Compare across authors](../../compare/?t=film-wild-horses_324333)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 40m • Crime, Drama, Thriller • mobe1969**

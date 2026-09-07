@@ -1,5 +1,7 @@
 # Secret Headquarters
 
+[Compare across authors](../../compare/?t=film-secret-headquarters_791155)
+
 ## Atmos, DD+ Atmos
 
 **2022 • PG • 1h 44m • Science Fiction, Family, Action, Adventure • mobe1969**

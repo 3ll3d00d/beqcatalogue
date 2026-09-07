@@ -1,5 +1,7 @@
 # Rigor Mortis
 
+[Compare across authors](../../compare/?t=film-rigor-mortis_210911)
+
 ## TrueHD 5.1
 
 **2013 • MA15+ • 1h 41m • Cantonese • Horror, Action, Drama • mobe1969**

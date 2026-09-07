@@ -1,5 +1,7 @@
 # Satyameva Jayate
 
+[Compare across authors](../../compare/?t=film-satyameva-jayate_531597)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 22m • Hindi • Action, Thriller • mobe1969**

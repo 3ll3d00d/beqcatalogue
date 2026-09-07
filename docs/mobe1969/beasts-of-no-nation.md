@@ -1,5 +1,7 @@
 # Beasts of No Nation
 
+[Compare across authors](../../compare/?t=film-beasts-of-no-nation_283587)
+
 ## DD+ 5.1
 
 **2015 • R • 2h 17m • Drama, War • mobe1969**

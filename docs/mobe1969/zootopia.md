@@ -1,5 +1,7 @@
 # Zootopia
 
+[Compare across authors](../../compare/?t=film-zootopia_269149)
+
 ## Atmos
 
 **2016 • PG • 1h 49m • Animation, Adventure, Family, Comedy • mobe1969**

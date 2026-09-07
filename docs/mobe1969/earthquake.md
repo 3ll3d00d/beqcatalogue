@@ -1,5 +1,7 @@
 # Earthquake
 
+[Compare across authors](../../compare/?t=film-earthquake_11123)
+
 ## DTS-HD MA 2.1
 
 Theatrical Cut

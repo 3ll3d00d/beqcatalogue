@@ -1,5 +1,7 @@
 # Look Both Ways
 
+[Compare across authors](../../compare/?t=film-look-both-ways_805327)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 1h 50m • Romance, Drama, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # The Hunger Games: Mockingjay - Part 1
 
+[Compare across authors](../../compare/?t=film-the-hunger-games-mockingjay-part-1_131631)
+
 ## Atmos
 
 **2014 • PG-13 • 2h 3m • Science Fiction, Adventure, Thriller • mobe1969**

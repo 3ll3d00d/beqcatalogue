@@ -1,5 +1,7 @@
 # Smallfoot
 
+[Compare across authors](../../compare/?t=film-smallfoot_446894)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG • 1h 36m • Family, Animation, Adventure, Fantasy • mobe1969**

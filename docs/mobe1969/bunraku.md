@@ -1,5 +1,7 @@
 # Bunraku
 
+[Compare across authors](../../compare/?t=film-bunraku_30618)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 58m • Thriller, Action, Drama • mobe1969**

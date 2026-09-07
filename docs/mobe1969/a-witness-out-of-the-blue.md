@@ -1,5 +1,7 @@
 # A Witness Out of the Blue
 
+[Compare across authors](../../compare/?t=film-a-witness-out-of-the-blue_629919)
+
 ## TrueHD 7.1
 
 **2019 • NR • 1h 44m • Cantonese • Crime, Thriller, Mystery • mobe1969**

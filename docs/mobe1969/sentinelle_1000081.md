@@ -1,5 +1,7 @@
 # Sentinelle
 
+[Compare across authors](../../compare/?t=film-sentinelle_1000081)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 39m • French • Comedy, Adventure, Action • mobe1969**

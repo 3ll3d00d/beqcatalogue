@@ -1,5 +1,7 @@
 # Beowulf
 
+[Compare across authors](../../compare/?t=film-beowulf_2310)
+
 ## DTS-HD MA 5.1
 
 **2007 • PG-13 • 1h 55m • Adventure, Action, Animation • mobe1969**

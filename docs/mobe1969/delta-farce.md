@@ -1,5 +1,7 @@
 # Delta Farce
 
+[Compare across authors](../../compare/?t=film-delta-farce_14547)
+
 ## LPCM 7.1
 
 **2007 • PG-13 • 1h 30m • Action, Adventure, Comedy • mobe1969**

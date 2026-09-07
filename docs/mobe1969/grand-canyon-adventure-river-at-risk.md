@@ -1,5 +1,7 @@
 # Grand Canyon Adventure: River at Risk
 
+[Compare across authors](../../compare/?t=film-grand-canyon-adventure-river-at-risk_15557)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 0h 45m • Adventure, Documentary • mobe1969**

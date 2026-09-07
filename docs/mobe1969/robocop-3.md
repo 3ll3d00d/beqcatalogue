@@ -1,5 +1,7 @@
 # RoboCop 3
 
+[Compare across authors](../../compare/?t=film-robocop-3_5550)
+
 ## DTS-HD MA 5.1
 
 **1993 • PG-13 • 1h 44m • Action, Adventure, Crime, Science Fiction, Thriller • mobe1969**

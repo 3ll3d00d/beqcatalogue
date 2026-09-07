@@ -1,5 +1,7 @@
 # Blood Conscious
 
+[Compare across authors](../../compare/?t=film-blood-conscious_799640)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 20m • Horror, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Ghost in the Shell
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell_315837)
+
 ## Atmos, DD+ 5.1
 
 **2017 • PG-13 • 1h 47m • Science Fiction, Drama, Action • mobe1969**

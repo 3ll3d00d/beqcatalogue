@@ -1,5 +1,7 @@
 # Father & Soldier
 
+[Compare across authors](../../compare/?t=film-father-soldier_967874)
+
 ## DTS-HD MA 5.1
 
 **2023 • NR • 1h 49m • French • Drama, History, War • mobe1969**

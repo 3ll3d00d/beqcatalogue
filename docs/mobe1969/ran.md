@@ -1,5 +1,7 @@
 # Ran
 
+[Compare across authors](../../compare/?t=film-ran_11645)
+
 ## DTS-HD MA 5.1
 
 **1985 • R • 2h 40m • Japanese • Action, Drama, History • mobe1969**

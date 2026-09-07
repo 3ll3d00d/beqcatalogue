@@ -1,5 +1,7 @@
 # Dragonslayer
 
+[Compare across authors](../../compare/?t=film-dragonslayer_848)
+
 ## Atmos
 
 **1981 • PG • 1h 48m • Fantasy, Adventure • mobe1969**

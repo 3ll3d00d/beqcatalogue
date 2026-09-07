@@ -1,5 +1,7 @@
 # Zoolander 2
 
+[Compare across authors](../../compare/?t=film-zoolander-2_329833)
+
 ## DTS-X
 
 **2016 • PG-13 • 1h 40m • Comedy • mobe1969**

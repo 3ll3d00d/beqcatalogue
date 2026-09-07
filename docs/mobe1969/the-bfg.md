@@ -1,5 +1,7 @@
 # The BFG
 
+[Compare across authors](../../compare/?t=film-the-bfg_267935)
+
 ## TrueHD 7.1
 
 **2016 • PG • 1h 57m • Adventure, Family, Fantasy • mobe1969**

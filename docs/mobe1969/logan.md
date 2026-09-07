@@ -1,5 +1,7 @@
 # Logan
 
+[Compare across authors](../../compare/?t=film-logan_263115)
+
 ## Atmos
 
 **2017 • R • 2h 17m • Action, Drama, Science Fiction • mobe1969**

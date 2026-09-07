@@ -1,5 +1,7 @@
 # Ghayal Once Again
 
+[Compare across authors](../../compare/?t=film-ghayal-once-again_381298)
+
 ## DTS-HD MA 5.1
 
 **2016 • 12A • 2h 7m • Hindi • Action, Crime, Drama • mobe1969**

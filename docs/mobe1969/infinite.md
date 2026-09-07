@@ -1,5 +1,7 @@
 # Infinite
 
+[Compare across authors](../../compare/?t=film-infinite_581726)
+
 ## Atmos, DD+ Atmos
 
 **2021 • PG-13 • 1h 46m • Science Fiction, Action, Thriller • mobe1969**

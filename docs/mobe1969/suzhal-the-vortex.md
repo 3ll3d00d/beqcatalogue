@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-suzhal-the-vortex_200861)
+
 ## Season 1
 
 * DD+ 5.1

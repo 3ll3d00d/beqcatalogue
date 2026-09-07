@@ -1,5 +1,7 @@
 # The Spy Gone North
 
+[Compare across authors](../../compare/?t=film-the-spy-gone-north_517991)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 2h 18m • Korean • Drama, History, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # New Trial
 
+[Compare across authors](../../compare/?t=film-new-trial_435821)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 1h 59m • Korean • Drama, Crime • mobe1969**

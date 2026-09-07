@@ -1,5 +1,7 @@
 # Thor: Love and Thunder
 
+[Compare across authors](../../compare/?t=film-thor-love-and-thunder_616037)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2022 • PG-13 • 1h 59m • Fantasy, Action, Comedy • mobe1969**

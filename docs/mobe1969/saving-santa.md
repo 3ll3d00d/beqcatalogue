@@ -1,5 +1,7 @@
 # Saving Santa
 
+[Compare across authors](../../compare/?t=film-saving-santa_238302)
+
 ## DTS-HD MA 5.1
 
 **2013 • G • 1h 23m • Animation, Comedy, Family • mobe1969**

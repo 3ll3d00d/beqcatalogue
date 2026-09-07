@@ -1,5 +1,7 @@
 # Outrage Beyond
 
+[Compare across authors](../../compare/?t=film-outrage-beyond_121828)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 50m • Japanese • Action • mobe1969**

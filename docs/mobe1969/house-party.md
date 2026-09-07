@@ -1,5 +1,7 @@
 # House Party
 
+[Compare across authors](../../compare/?t=film-house-party_632065)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 40m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Kaibutsu-kun: The Movie
 
+[Compare across authors](../../compare/?t=film-kaibutsu-kun-the-movie_219896)
+
 ## TrueHD 5.1
 
 **2011 • NR • 1h 43m • Japanese • Comedy, Fantasy • mobe1969**

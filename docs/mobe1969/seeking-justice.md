@@ -1,5 +1,7 @@
 # Seeking Justice
 
+[Compare across authors](../../compare/?t=film-seeking-justice_74998)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 45m • Thriller, Action, Drama • mobe1969**

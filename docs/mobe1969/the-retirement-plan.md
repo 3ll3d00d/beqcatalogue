@@ -1,5 +1,7 @@
 # The Retirement Plan
 
+[Compare across authors](../../compare/?t=film-the-retirement-plan_866346)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 43m • Comedy, Action • mobe1969**

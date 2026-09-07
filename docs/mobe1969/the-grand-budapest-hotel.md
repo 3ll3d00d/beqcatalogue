@@ -1,5 +1,7 @@
 # The Grand Budapest Hotel
 
+[Compare across authors](../../compare/?t=film-the-grand-budapest-hotel_120467)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 40m • Comedy, Drama • mobe1969**

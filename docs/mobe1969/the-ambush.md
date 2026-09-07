@@ -1,5 +1,7 @@
 # The Ambush
 
+[Compare across authors](../../compare/?t=film-the-ambush_884452)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 50m • Arabic • Action, Drama, War • mobe1969**

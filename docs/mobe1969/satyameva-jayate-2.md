@@ -1,5 +1,7 @@
 # Satyameva Jayate 2
 
+[Compare across authors](../../compare/?t=film-satyameva-jayate-2_695973)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 21m • Hindi • Action, Crime, Drama, Thriller • mobe1969**

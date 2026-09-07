@@ -1,5 +1,7 @@
 # Ghostland
 
+[Compare across authors](../../compare/?t=film-ghostland_476299)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 31m • Thriller, Horror, Mystery • mobe1969**

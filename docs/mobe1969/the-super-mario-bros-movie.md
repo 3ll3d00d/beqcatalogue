@@ -1,5 +1,7 @@
 # The Super Mario Bros. Movie
 
+[Compare across authors](../../compare/?t=film-the-super-mario-bros-movie_502356)
+
 ## Atmos
 
 **2023 • PG • 1h 32m • Animation, Family, Adventure, Fantasy, Comedy • mobe1969**

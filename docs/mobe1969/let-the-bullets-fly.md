@@ -1,5 +1,7 @@
 # Let the Bullets Fly
 
+[Compare across authors](../../compare/?t=film-let-the-bullets-fly_51533)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 2h 12m • Mandarin • Action, Comedy • mobe1969**

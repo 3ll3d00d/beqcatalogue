@@ -1,5 +1,7 @@
 # The Prince of Egypt
 
+[Compare across authors](../../compare/?t=film-the-prince-of-egypt_9837)
+
 ## DTS-X
 
 **1998 • PG • 1h 39m • Adventure, Animation, Drama, Family • mobe1969**

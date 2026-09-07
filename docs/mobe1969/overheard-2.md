@@ -1,5 +1,7 @@
 # Overheard 2
 
+[Compare across authors](../../compare/?t=film-overheard-2_74639)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 59m • Cantonese • Action, Drama, Thriller • mobe1969**

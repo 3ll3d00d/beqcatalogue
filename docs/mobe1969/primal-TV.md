@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-primal_89456)
+
 ## Season 2
 
 * DD+ 5.1

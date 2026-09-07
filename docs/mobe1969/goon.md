@@ -1,5 +1,7 @@
 # Goon
 
+[Compare across authors](../../compare/?t=film-goon_74387)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 32m • Comedy • mobe1969**

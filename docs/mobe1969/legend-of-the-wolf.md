@@ -1,5 +1,7 @@
 # Legend Of The Wolf
 
+[Compare across authors](../../compare/?t=film-legend-of-the-wolf_33537)
+
 ## LPCM 2.0
 
 **1997 • NR • 1h 34m • Cantonese • Action • mobe1969**

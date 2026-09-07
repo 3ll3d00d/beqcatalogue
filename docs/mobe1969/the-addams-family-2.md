@@ -1,5 +1,7 @@
 # The Addams Family 2
 
+[Compare across authors](../../compare/?t=film-the-addams-family-2_639721)
+
 ## DD+ 5.1
 
 **2021 • PG • 1h 33m • Animation, Adventure, Comedy, Family, Fantasy, Horror • mobe1969**

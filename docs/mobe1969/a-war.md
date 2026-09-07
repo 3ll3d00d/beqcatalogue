@@ -1,5 +1,7 @@
 # A War
 
+[Compare across authors](../../compare/?t=film-a-war_348674)
+
 ## DTS-HD MA 5.1
 
 **2015 • 15 • 1h 55m • Danish • Drama, War • mobe1969**

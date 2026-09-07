@@ -1,5 +1,7 @@
 # Safe
 
+[Compare across authors](../../compare/?t=film-safe_72387)
+
 ## DD+ 5.1
 
 **2012 • R • 1h 34m • Action, Crime, Thriller • mobe1969**

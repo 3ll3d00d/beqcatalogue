@@ -1,5 +1,7 @@
 # Empire State
 
+[Compare across authors](../../compare/?t=film-empire-state_169209)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 34m • Action, Drama • mobe1969**

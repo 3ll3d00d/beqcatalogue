@@ -1,5 +1,7 @@
 # The Machine
 
+[Compare across authors](../../compare/?t=film-the-machine_174675)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 32m • Science Fiction, Thriller • mobe1969**

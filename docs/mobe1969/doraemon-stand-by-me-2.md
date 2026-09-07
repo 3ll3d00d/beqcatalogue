@@ -1,5 +1,7 @@
 # Doraemon Stand By Me 2
 
+[Compare across authors](../../compare/?t=film-doraemon-stand-by-me-2_728754)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 36m • Japanese • Animation • mobe1969**

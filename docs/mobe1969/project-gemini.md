@@ -1,5 +1,7 @@
 # Project Gemini
 
+[Compare across authors](../../compare/?t=film-project-gemini_575322)
+
 ## DTS-HD MA 5.1
 
 **2022 • 15 • 1h 38m • Science Fiction • mobe1969**

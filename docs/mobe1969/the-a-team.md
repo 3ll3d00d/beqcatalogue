@@ -1,5 +1,7 @@
 # The A-Team
 
+[Compare across authors](../../compare/?t=film-the-a-team_34544)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

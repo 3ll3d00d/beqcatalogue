@@ -1,5 +1,7 @@
 # Braven
 
+[Compare across authors](../../compare/?t=film-braven_459910)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 34m • Thriller, Action, Drama • mobe1969**

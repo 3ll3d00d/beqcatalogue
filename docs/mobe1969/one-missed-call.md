@@ -1,5 +1,7 @@
 # One Missed Call
 
+[Compare across authors](../../compare/?t=film-one-missed-call_9694)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 52m • Japanese • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Quarantine
 
+[Compare across authors](../../compare/?t=film-quarantine_13812)
+
 ## TrueHD 5.1
 
 **2008 • R • 1h 29m • Horror, Science Fiction • mobe1969**

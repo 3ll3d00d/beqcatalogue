@@ -1,5 +1,7 @@
 # Don't Tell a Soul
 
+[Compare across authors](../../compare/?t=film-dont-tell-a-soul_572400)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 23m • Drama, Thriller, Crime • mobe1969**

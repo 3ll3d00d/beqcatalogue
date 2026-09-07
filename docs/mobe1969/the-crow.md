@@ -1,5 +1,7 @@
 # The Crow
 
+[Compare across authors](../../compare/?t=film-the-crow_9495)
+
 ## DTS-HD MA 5.1
 
 **1994 • R • 1h 42m • Fantasy, Action, Thriller • mobe1969**

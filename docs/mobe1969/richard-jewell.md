@@ -1,5 +1,7 @@
 # Richard Jewell
 
+[Compare across authors](../../compare/?t=film-richard-jewell_292011)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 2h 11m • Drama, History, Crime • mobe1969**

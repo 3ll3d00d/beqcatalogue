@@ -1,5 +1,7 @@
 # Cars
 
+[Compare across authors](../../compare/?t=film-cars_920)
+
 ## Atmos
 
 **2006 • G • 1h 57m • Animation, Adventure, Comedy, Family • mobe1969**

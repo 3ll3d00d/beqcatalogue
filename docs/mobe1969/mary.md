@@ -1,5 +1,7 @@
 # Mary
 
+[Compare across authors](../../compare/?t=film-mary_419706)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 24m • Horror • mobe1969**

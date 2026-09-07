@@ -1,5 +1,7 @@
 # Reign of Assassins
 
+[Compare across authors](../../compare/?t=film-reign-of-assassins_44092)
+
 ## DD+ 5.1
 
 **2010 • NR • 1h 57m • Mandarin • Action, Adventure • mobe1969**

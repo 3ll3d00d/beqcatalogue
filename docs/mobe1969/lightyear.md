@@ -1,5 +1,7 @@
 # Lightyear
 
+[Compare across authors](../../compare/?t=film-lightyear_718789)
+
 ## Atmos, DD+ Atmos, DTS-HD MA 7.1
 
 **2022 • PG • 1h 45m • Animation, Science Fiction, Adventure, Action, Family • mobe1969**

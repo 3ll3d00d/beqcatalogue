@@ -1,5 +1,7 @@
 # Natural City
 
+[Compare across authors](../../compare/?t=film-natural-city_14573)
+
 ## DTS-HD MA 5.1
 
 **2003 • 15 • 1h 54m • Korean • Science Fiction, Action, Drama, Thriller • mobe1969**

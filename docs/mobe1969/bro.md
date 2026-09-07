@@ -1,5 +1,7 @@
 # Bro
 
+[Compare across authors](../../compare/?t=film-bro_1090486)
+
 ## DD+ 5.1
 
 **2023 • 12A • 2h 13m • Telugu • Comedy, Drama, Fantasy • mobe1969**

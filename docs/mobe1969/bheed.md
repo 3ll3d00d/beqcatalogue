@@ -1,5 +1,7 @@
 # Bheed
 
+[Compare across authors](../../compare/?t=film-bheed_1081726)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 52m • Hindi • Drama • mobe1969**

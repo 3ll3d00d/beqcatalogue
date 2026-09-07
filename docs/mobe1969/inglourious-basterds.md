@@ -1,5 +1,7 @@
 # Inglourious Basterds
 
+[Compare across authors](../../compare/?t=film-inglourious-basterds_16869)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 2h 33m • Drama, Action, Thriller, War • mobe1969**

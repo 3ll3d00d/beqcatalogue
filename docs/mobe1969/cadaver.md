@@ -1,5 +1,7 @@
 # Cadaver
 
+[Compare across authors](../../compare/?t=film-cadaver_692969)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 26m • Norwegian • Drama, Horror, Thriller • mobe1969**

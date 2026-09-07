@@ -1,5 +1,7 @@
 # Assassination
 
+[Compare across authors](../../compare/?t=film-assassination_291549)
+
 ## DTS-HD MA 5.1
 
 **2015 • MA15+ • 2h 20m • Korean • Action, Drama • mobe1969**

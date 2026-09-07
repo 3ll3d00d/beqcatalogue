@@ -1,5 +1,7 @@
 # Somebody I Used To Know
 
+[Compare across authors](../../compare/?t=film-somebody-i-used-to-know_869112)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 46m • Romance, Comedy, Drama • mobe1969**

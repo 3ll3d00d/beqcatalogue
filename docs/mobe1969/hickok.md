@@ -1,5 +1,7 @@
 # Hickok
 
+[Compare across authors](../../compare/?t=film-hickok_455675)
+
 ## DTS-HD MA 5.1
 
 **2017 • 15 • 1h 28m • Western • mobe1969**

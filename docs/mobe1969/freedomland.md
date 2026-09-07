@@ -1,5 +1,7 @@
 # Freedomland
 
+[Compare across authors](../../compare/?t=film-freedomland_9959)
+
 ## TrueHD 5.1
 
 **2006 • R • 1h 53m • Drama, Thriller, Crime, Mystery • mobe1969**

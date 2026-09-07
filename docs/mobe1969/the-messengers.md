@@ -1,5 +1,7 @@
 # The Messengers
 
+[Compare across authors](../../compare/?t=film-the-messengers_9966)
+
 ## DD 5.1
 
 **2007 • PG-13 • 1h 30m • Mystery, Thriller, Horror • mobe1969**

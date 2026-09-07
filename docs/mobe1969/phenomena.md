@@ -1,5 +1,7 @@
 # Phenomena
 
+[Compare across authors](../../compare/?t=film-phenomena_1073413)
+
 ## DD+ Atmos
 
 **2023 • NR • 0h 0m • Spanish • Horror • mobe1969**

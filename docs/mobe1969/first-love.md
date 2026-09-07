@@ -1,5 +1,7 @@
 # First Love
 
+[Compare across authors](../../compare/?t=film-first-love_597094)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 48m • Japanese • Crime, Romance, Drama, Action • mobe1969**

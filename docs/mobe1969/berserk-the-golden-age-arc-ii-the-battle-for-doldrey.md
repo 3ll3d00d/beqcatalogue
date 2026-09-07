@@ -1,5 +1,7 @@
 # Berserk: The Golden Age Arc II - The Battle for Doldrey
 
+[Compare across authors](../../compare/?t=film-berserk-the-golden-age-arc-ii-the-battle-for-doldrey_118412)
+
 ## DTS-HD MA 5.1
 
 **2012 • 16 • 1h 38m • Japanese • Action, Animation, Drama, Fantasy, Adventure • mobe1969**

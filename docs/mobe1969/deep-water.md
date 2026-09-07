@@ -1,5 +1,7 @@
 # Deep Water
 
+[Compare across authors](../../compare/?t=film-deep-water_619979)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 55m • Thriller, Romance, Drama • mobe1969**

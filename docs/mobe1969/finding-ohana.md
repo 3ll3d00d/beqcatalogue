@@ -1,5 +1,7 @@
 # Finding 'Ohana
 
+[Compare across authors](../../compare/?t=film-finding-ohana_644092)
+
 ## DD+ Atmos
 
 **2021 • PG • 2h 3m • Action, Adventure, Comedy, Family • mobe1969**

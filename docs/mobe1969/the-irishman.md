@@ -1,5 +1,7 @@
 # The Irishman
 
+[Compare across authors](../../compare/?t=film-the-irishman_398978)
+
 ## DD+ Atmos
 
 **2019 • R • 3h 29m • Crime, Drama, History • mobe1969**

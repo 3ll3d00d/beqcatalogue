@@ -1,5 +1,7 @@
 # Cuttputlli
 
+[Compare across authors](../../compare/?t=film-cuttputlli_956757)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 14m • Hindi • Crime, Mystery, Thriller • mobe1969**

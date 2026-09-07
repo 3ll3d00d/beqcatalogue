@@ -1,5 +1,7 @@
 # Confidential Informant
 
+[Compare across authors](../../compare/?t=film-confidential-informant_1070802)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 28m • Action, Thriller • mobe1969**

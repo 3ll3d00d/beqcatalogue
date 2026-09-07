@@ -1,5 +1,7 @@
 # The Lookout
 
+[Compare across authors](../../compare/?t=film-the-lookout_8270)
+
 ## LPCM 5.1
 
 **2007 • R • 1h 39m • Thriller, Drama, Crime • mobe1969**

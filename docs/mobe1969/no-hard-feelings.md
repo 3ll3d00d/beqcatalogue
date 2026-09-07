@@ -1,5 +1,7 @@
 # No Hard Feelings
 
+[Compare across authors](../../compare/?t=film-no-hard-feelings_884605)
+
 ## DD 5.1
 
 **2023 • R • 1h 44m • Comedy, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # 21 Jump Street
 
+[Compare across authors](../../compare/?t=film-21-jump-street_64688)
+
 ## Atmos
 
 **2012 • R • 1h 49m • Action, Comedy, Crime • mobe1969**

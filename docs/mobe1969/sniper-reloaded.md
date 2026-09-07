@@ -1,5 +1,7 @@
 # Sniper: Reloaded
 
+[Compare across authors](../../compare/?t=film-sniper-reloaded_58767)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 31m • War, Drama, Action, Thriller • mobe1969**

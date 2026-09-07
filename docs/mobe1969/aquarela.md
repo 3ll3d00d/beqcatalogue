@@ -1,5 +1,7 @@
 # Aquarela
 
+[Compare across authors](../../compare/?t=film-aquarela_539016)
+
 ## TrueHD 7.1
 
 **2019 • PG • 1h 30m • Russian • Documentary • mobe1969**

@@ -1,5 +1,7 @@
 # Gothika
 
+[Compare across authors](../../compare/?t=film-gothika_4970)
+
 ## LPCM 5.1
 
 **2003 • R • 1h 38m • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Ghost in the Shell Arise - Border 5: Pyrophoric Cult
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell-arise-border-5-pyrophoric-cult_802809)
+
 ## TrueHD 5.1
 
 **2015 • NR • 0h 46m • Japanese • Animation, Action, Science Fiction • mobe1969**

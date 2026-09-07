@@ -1,5 +1,7 @@
 # Hell on the Border
 
+[Compare across authors](../../compare/?t=film-hell-on-the-border_576379)
+
 ## DD+ 5.1
 
 **2019 • PG-13 • 1h 50m • Western, Adventure • mobe1969**

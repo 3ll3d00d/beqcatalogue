@@ -1,5 +1,7 @@
 # Willed to Kill
 
+[Compare across authors](../../compare/?t=film-willed-to-kill_158689)
+
 ## DD+ 5.1
 
 **2012 • NR • 1h 34m • TV Movie, Drama, Mystery, Thriller • mobe1969**

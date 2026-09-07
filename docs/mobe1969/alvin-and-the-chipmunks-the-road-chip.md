@@ -1,5 +1,7 @@
 # Alvin and the Chipmunks: The Road Chip
 
+[Compare across authors](../../compare/?t=film-alvin-and-the-chipmunks-the-road-chip_258509)
+
 ## DD+ 5.1
 
 **2015 • PG • 1h 32m • Adventure, Animation, Comedy, Family • mobe1969**

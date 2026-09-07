@@ -1,5 +1,7 @@
 # Unlocked
 
+[Compare across authors](../../compare/?t=film-unlocked_291276)
+
 ## TrueHD 5.1, DD+ 5.1
 
 **2017 • R • 1h 38m • Action, Thriller • mobe1969**

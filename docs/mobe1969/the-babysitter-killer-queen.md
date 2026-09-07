@@ -1,5 +1,7 @@
 # The Babysitter: Killer Queen
 
+[Compare across authors](../../compare/?t=film-the-babysitter-killer-queen_623491)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 41m • Comedy, Horror • mobe1969**

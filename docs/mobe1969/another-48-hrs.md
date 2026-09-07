@@ -1,5 +1,7 @@
 # Another 48 Hrs.
 
+[Compare across authors](../../compare/?t=film-another-48-hrs_11595)
+
 ## TrueHD 5.1
 
 **1990 • R • 1h 35m • Thriller, Action, Comedy, Crime, Drama • mobe1969**

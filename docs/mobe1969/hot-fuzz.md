@@ -1,5 +1,7 @@
 # Hot Fuzz
 
+[Compare across authors](../../compare/?t=film-hot-fuzz_4638)
+
 ## DTS-X
 
 **2007 • R • 2h 1m • Crime, Action, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # The Missing
 
+[Compare across authors](../../compare/?t=film-the-missing_12146)
+
 ## TrueHD 5.1
 
 **2003 • R • 2h 17m • Thriller, Western, Adventure • mobe1969**

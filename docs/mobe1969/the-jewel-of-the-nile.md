@@ -1,5 +1,7 @@
 # The Jewel of the Nile
 
+[Compare across authors](../../compare/?t=film-the-jewel-of-the-nile_10303)
+
 ## DTS-HD MA 5.1
 
 **1985 • PG • 1h 46m • Adventure, Action, Comedy, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # So I Married an Axe Murderer
 
+[Compare across authors](../../compare/?t=film-so-i-married-an-axe-murderer_10442)
+
 ## Atmos
 
 **1993 • PG-13 • 1h 33m • Comedy, Crime, Romance • mobe1969**

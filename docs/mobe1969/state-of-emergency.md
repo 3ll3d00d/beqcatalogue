@@ -1,5 +1,7 @@
 # State of Emergency
 
+[Compare across authors](../../compare/?t=film-state-of-emergency_136476)
+
 ## DTS-HD MA 5.1
 
 **2011 • 15 • 1h 30m • Science Fiction, Thriller • mobe1969**

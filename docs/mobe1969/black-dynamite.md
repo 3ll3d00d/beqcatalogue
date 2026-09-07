@@ -1,5 +1,7 @@
 # Black Dynamite
 
+[Compare across authors](../../compare/?t=film-black-dynamite_24804)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 25m • Comedy, Action • mobe1969**

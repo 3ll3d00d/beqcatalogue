@@ -1,5 +1,7 @@
 # The Ballad of Buster Scruggs
 
+[Compare across authors](../../compare/?t=film-the-ballad-of-buster-scruggs_537996)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 12m • Comedy, Drama, Western • mobe1969**

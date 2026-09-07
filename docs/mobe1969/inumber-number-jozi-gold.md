@@ -1,5 +1,7 @@
 # iNumber Number: Jozi Gold
 
+[Compare across authors](../../compare/?t=film-inumber-number-jozi-gold_1129956)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 53m • Zulu • Action, Crime, Thriller • mobe1969**

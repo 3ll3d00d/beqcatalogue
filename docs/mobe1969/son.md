@@ -1,5 +1,7 @@
 # Son
 
+[Compare across authors](../../compare/?t=film-son_754934)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 38m • Horror, Thriller • mobe1969**

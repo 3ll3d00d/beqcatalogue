@@ -1,5 +1,7 @@
 # Ironclad: Battle for Blood
 
+[Compare across authors](../../compare/?t=film-ironclad-battle-for-blood_258251)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 48m • Action, Adventure • mobe1969**

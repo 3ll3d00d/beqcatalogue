@@ -1,5 +1,7 @@
 # Waterworld
 
+[Compare across authors](../../compare/?t=film-waterworld_9804)
+
 ## Atmos
 
 **1995 • PG-13 • 2h 15m • Adventure, Action, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # The Royal Hotel
 
+[Compare across authors](../../compare/?t=film-the-royal-hotel_944952)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 31m • Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Colour of the Truth
 
+[Compare across authors](../../compare/?t=film-colour-of-the-truth_78194)
+
 ## TrueHD 5.1
 
 **2003 • NR • 1h 44m • Cantonese • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Tyler Perry's A Madea Homecoming
 
+[Compare across authors](../../compare/?t=film-tyler-perrys-a-madea-homecoming_845404)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 45m • Comedy • mobe1969**

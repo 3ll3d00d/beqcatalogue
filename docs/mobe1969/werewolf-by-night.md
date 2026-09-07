@@ -1,5 +1,7 @@
 # Werewolf by Night
 
+[Compare across authors](../../compare/?t=film-werewolf-by-night_894205)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 0h 55m • Action, Fantasy, Horror, TV Movie • mobe1969**

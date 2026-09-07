@@ -1,5 +1,7 @@
 # The Decline
 
+[Compare across authors](../../compare/?t=film-the-decline_674607)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 23m • French • Thriller • mobe1969**

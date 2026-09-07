@@ -1,5 +1,7 @@
 # Buba
 
+[Compare across authors](../../compare/?t=film-buba_997703)
+
 ## DD+ Atmos
 
 **2022 • NR • 0h 0m • German • Comedy, Drama • mobe1969**

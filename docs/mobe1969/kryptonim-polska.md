@@ -1,5 +1,7 @@
 # Kryptonim Polska
 
+[Compare across authors](../../compare/?t=film-kryptonim-polska_1011367)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 36m • Polish • Comedy, Romance • mobe1969**

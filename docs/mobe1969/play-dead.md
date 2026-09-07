@@ -1,5 +1,7 @@
 # Play Dead
 
+[Compare across authors](../../compare/?t=film-play-dead_1020696)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 46m • Horror, Thriller • mobe1969**

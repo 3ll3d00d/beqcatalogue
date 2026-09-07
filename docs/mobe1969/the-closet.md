@@ -1,5 +1,7 @@
 # The Closet
 
+[Compare across authors](../../compare/?t=film-the-closet_571625)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 38m • Korean • Horror, Thriller • mobe1969**

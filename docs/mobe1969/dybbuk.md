@@ -1,5 +1,7 @@
 # Dybbuk
 
+[Compare across authors](../../compare/?t=film-dybbuk_886440)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 58m • Hindi • Horror, Thriller, Drama • mobe1969**

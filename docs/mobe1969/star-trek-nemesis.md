@@ -1,5 +1,7 @@
 # Star Trek: Nemesis
 
+[Compare across authors](../../compare/?t=film-star-trek-nemesis_201)
+
 ## TrueHD 5.1
 
 **2002 • PG-13 • 1h 57m • Science Fiction, Action, Adventure, Thriller • mobe1969**

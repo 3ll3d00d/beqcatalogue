@@ -1,5 +1,7 @@
 # Scream
 
+[Compare across authors](../../compare/?t=film-scream_4232)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 1h 52m • Horror, Mystery, Crime • mobe1969**

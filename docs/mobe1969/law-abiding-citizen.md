@@ -1,5 +1,7 @@
 # Law Abiding Citizen
 
+[Compare across authors](../../compare/?t=film-law-abiding-citizen_22803)
+
 ## Atmos
 
 **2009 • R • 1h 49m • Drama, Crime, Thriller • mobe1969**

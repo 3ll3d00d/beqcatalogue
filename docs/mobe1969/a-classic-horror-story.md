@@ -1,5 +1,7 @@
 # A Classic Horror Story
 
+[Compare across authors](../../compare/?t=film-a-classic-horror-story_768334)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 35m • Drama, Horror, Mystery, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Free State of Jones
 
+[Compare across authors](../../compare/?t=film-free-state-of-jones_316152)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 2h 20m • Action, Drama, History, War • mobe1969**

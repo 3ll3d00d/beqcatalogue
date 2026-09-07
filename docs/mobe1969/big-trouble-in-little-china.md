@@ -1,5 +1,7 @@
 # Big Trouble in Little China
 
+[Compare across authors](../../compare/?t=film-big-trouble-in-little-china_6978)
+
 ## DTS-HD MA 5.1
 
 **1986 • PG-13 • 1h 39m • Fantasy, Action, Adventure, Comedy • mobe1969**

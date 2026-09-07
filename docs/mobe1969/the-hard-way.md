@@ -1,5 +1,7 @@
 # The Hard Way
 
+[Compare across authors](../../compare/?t=film-the-hard-way_586347)
+
 ## DD+ 5.1
 
 **2019 • MA15+ • 1h 34m • Action • mobe1969**

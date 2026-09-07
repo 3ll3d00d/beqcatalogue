@@ -1,5 +1,7 @@
 # The Tax Collector
 
+[Compare across authors](../../compare/?t=film-the-tax-collector_531499)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 35m • Action, Crime, Drama • mobe1969**

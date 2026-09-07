@@ -1,5 +1,7 @@
 # Agent Vinod
 
+[Compare across authors](../../compare/?t=film-agent-vinod_85050)
+
 ## DD 5.1
 
 **2012 • NR • 2h 37m • Hindi • Action, Adventure, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Infamous
 
+[Compare across authors](../../compare/?t=film-infamous_703134)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 40m • Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Overhaul
 
+[Compare across authors](../../compare/?t=film-overhaul_818511)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 40m • Portuguese • Action, Thriller, Drama • mobe1969**

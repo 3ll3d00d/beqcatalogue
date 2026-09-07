@@ -1,5 +1,7 @@
 # Bulbbul
 
+[Compare across authors](../../compare/?t=film-bulbbul_714338)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 34m • Hindi • Horror, Fantasy • mobe1969**

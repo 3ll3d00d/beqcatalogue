@@ -1,5 +1,7 @@
 # Death Proof
 
+[Compare across authors](../../compare/?t=film-death-proof_1991)
+
 ## TrueHD 5.1
 
 **2007 • R • 1h 53m • Action, Thriller • mobe1969**

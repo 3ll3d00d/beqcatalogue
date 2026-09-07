@@ -1,5 +1,7 @@
 # Emily the Criminal
 
+[Compare across authors](../../compare/?t=film-emily-the-criminal_862965)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • R • 1h 37m • Crime, Drama, Mystery, Thriller • mobe1969**

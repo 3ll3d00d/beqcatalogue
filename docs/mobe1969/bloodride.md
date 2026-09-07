@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-bloodride_100043)
+
 ## Season 1
 
 * DD+ 5.1

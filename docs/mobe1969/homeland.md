@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-homeland_1407)
+
 ## Season 8
 
 * DD+ 5.1

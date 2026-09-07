@@ -1,5 +1,7 @@
 # Space Jam
 
+[Compare across authors](../../compare/?t=film-space-jam_2300)
+
 ## Atmos
 
 **1996 • PG • 1h 28m • Comedy, Family, Animation, Science Fiction • mobe1969**

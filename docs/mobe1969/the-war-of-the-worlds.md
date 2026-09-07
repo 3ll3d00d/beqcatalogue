@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-war-of-the-worlds_83981)
+
 ## Season 1
 
 * DTS-HD MA 5.1

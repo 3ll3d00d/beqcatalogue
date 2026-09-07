@@ -1,5 +1,7 @@
 # Holidate
 
+[Compare across authors](../../compare/?t=film-holidate_615665)
+
 ## DD+ Atmos
 
 **2020 • 15 • 1h 44m • Comedy, Romance • mobe1969**

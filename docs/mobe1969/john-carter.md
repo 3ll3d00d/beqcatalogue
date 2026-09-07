@@ -1,5 +1,7 @@
 # John Carter
 
+[Compare across authors](../../compare/?t=film-john-carter_49529)
+
 ## DTS-HD HR 7.1
 
 **2012 • PG-13 • 2h 12m • Action, Adventure, Science Fiction • mobe1969**

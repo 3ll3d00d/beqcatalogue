@@ -1,5 +1,7 @@
 # The Guard of Auschwitz
 
+[Compare across authors](../../compare/?t=film-the-guard-of-auschwitz_598824)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 27m • Drama, Thriller, War • mobe1969**

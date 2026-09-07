@@ -1,5 +1,7 @@
 # Taken 3
 
+[Compare across authors](../../compare/?t=film-taken-3_260346)
+
 ## Atmos
 
 Theatrical Cut

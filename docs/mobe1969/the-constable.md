@@ -1,5 +1,7 @@
 # The Constable
 
+[Compare across authors](../../compare/?t=film-the-constable_240106)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 40m • Cantonese • Drama, Action • mobe1969**

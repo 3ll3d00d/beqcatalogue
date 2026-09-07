@@ -1,5 +1,7 @@
 # All Hail
 
+[Compare across authors](../../compare/?t=film-all-hail_682344)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 58m • Spanish • Comedy, Drama • mobe1969**

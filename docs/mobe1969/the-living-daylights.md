@@ -1,5 +1,7 @@
 # The Living Daylights
 
+[Compare across authors](../../compare/?t=film-the-living-daylights_708)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1987 • PG • 2h 10m • Action, Adventure, Thriller • mobe1969**

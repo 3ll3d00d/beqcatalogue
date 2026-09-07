@@ -1,5 +1,7 @@
 # The Pyramid
 
+[Compare across authors](../../compare/?t=film-the-pyramid_282813)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 29m • Horror • mobe1969**

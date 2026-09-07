@@ -1,5 +1,7 @@
 # Line of Duty
 
+[Compare across authors](../../compare/?t=film-line-of-duty_346709)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 38m • Action, Crime, Thriller • mobe1969**

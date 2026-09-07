@@ -1,5 +1,7 @@
 # Ant-Man and the Wasp
 
+[Compare across authors](../../compare/?t=film-ant-man-and-the-wasp_363088)
+
 ## Atmos
 
 **2018 • PG-13 • 1h 59m • Action, Adventure, Science Fiction • mobe1969**

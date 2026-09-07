@@ -1,5 +1,7 @@
 # Halloween III: Season of the Witch
 
+[Compare across authors](../../compare/?t=film-halloween-iii-season-of-the-witch_10676)
+
 ## Atmos
 
 **1982 • R • 1h 38m • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Tinker Tailor Soldier Spy
 
+[Compare across authors](../../compare/?t=film-tinker-tailor-soldier-spy_49517)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 2h 7m • Mystery, Thriller, Drama • mobe1969**

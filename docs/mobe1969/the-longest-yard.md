@@ -1,5 +1,7 @@
 # The Longest Yard
 
+[Compare across authors](../../compare/?t=film-the-longest-yard_4985)
+
 ## DTS-HD MA 2.0
 
 **1974 • R • 2h 1m • Comedy, Drama • mobe1969**

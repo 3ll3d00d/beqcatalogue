@@ -1,5 +1,7 @@
 # A Beautiful Day in the Neighborhood
 
+[Compare across authors](../../compare/?t=film-a-beautiful-day-in-the-neighborhood_501907)
+
 ## DTS-X
 
 **2019 • PG • 1h 49m • Drama • mobe1969**

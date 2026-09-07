@@ -1,5 +1,7 @@
 # Commitment
 
+[Compare across authors](../../compare/?t=film-commitment_235704)
+
 ## DTS-HD MA 5.1
 
 **2013 • 16 • 1h 53m • Korean • Drama, Thriller, Action • mobe1969**

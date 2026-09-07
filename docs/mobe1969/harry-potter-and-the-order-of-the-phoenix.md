@@ -1,5 +1,7 @@
 # Harry Potter and the Order of the Phoenix
 
+[Compare across authors](../../compare/?t=film-harry-potter-and-the-order-of-the-phoenix_675)
+
 ## DD+ 5.1
 
 **2007 • PG-13 • 2h 18m • Adventure, Fantasy, Mystery • mobe1969**

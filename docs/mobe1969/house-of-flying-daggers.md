@@ -1,5 +1,7 @@
 # House of Flying Daggers
 
+[Compare across authors](../../compare/?t=film-house-of-flying-daggers_9550)
+
 ## DTS-HD MA 5.1
 
 **2004 • PG-13 • 1h 59m • Mandarin • Adventure, Drama, Action • mobe1969**

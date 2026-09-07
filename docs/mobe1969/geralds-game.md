@@ -1,5 +1,7 @@
 # Gerald's Game
 
+[Compare across authors](../../compare/?t=film-geralds-game_343674)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 44m • Horror, Thriller • mobe1969**

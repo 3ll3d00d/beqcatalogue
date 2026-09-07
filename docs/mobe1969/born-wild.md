@@ -1,5 +1,7 @@
 # Born Wild
 
+[Compare across authors](../../compare/?t=film-born-wild_74274)
+
 ## TrueHD 7.1
 
 **2001 • NR • 1h 49m • Cantonese • Drama, Action • mobe1969**

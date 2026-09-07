@@ -1,5 +1,7 @@
 # A View to a Kill
 
+[Compare across authors](../../compare/?t=film-a-view-to-a-kill_707)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1985 • PG • 2h 11m • Adventure, Action, Thriller • mobe1969**

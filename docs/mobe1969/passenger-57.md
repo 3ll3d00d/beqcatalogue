@@ -1,5 +1,7 @@
 # Passenger 57
 
+[Compare across authors](../../compare/?t=film-passenger-57_10538)
+
 ## DTS-HD MA 5.1
 
 **1992 • R • 1h 24m • Thriller, Adventure, Action • mobe1969**

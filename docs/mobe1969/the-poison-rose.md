@@ -1,5 +1,7 @@
 # The Poison Rose
 
+[Compare across authors](../../compare/?t=film-the-poison-rose_529983)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 38m • Thriller, Crime • mobe1969**

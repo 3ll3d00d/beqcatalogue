@@ -1,5 +1,7 @@
 # Mudbound
 
+[Compare across authors](../../compare/?t=film-mudbound_414425)
+
 ## DD+ 5.1
 
 **2017 • R • 2h 15m • Drama • mobe1969**

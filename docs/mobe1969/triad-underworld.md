@@ -1,5 +1,7 @@
 # Triad Underworld
 
+[Compare across authors](../../compare/?t=film-triad-underworld_38030)
+
 ## DTS-HD MA 5.1
 
 **2004 • NR • 1h 25m • Cantonese • Drama, Crime, Action • mobe1969**

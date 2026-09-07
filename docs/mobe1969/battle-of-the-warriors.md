@@ -1,5 +1,7 @@
 # Battle of the Warriors
 
+[Compare across authors](../../compare/?t=film-battle-of-the-warriors_14808)
+
 ## DTS-HD MA 5.1
 
 **2006 • R • 2h 13m • Mandarin • History, Drama, Action, War • mobe1969**

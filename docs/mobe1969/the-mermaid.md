@@ -1,5 +1,7 @@
 # The Mermaid
 
+[Compare across authors](../../compare/?t=film-the-mermaid_381890)
+
 ## TrueHD 5.1
 
 **2016 • NR • 1h 33m • Mandarin • Comedy, Fantasy, Romance • mobe1969**

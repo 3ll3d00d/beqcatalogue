@@ -1,5 +1,7 @@
 # American Underdog
 
+[Compare across authors](../../compare/?t=film-american-underdog_673309)
+
 ## Atmos
 
 **2021 • PG • 1h 52m • Drama • mobe1969**

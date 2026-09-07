@@ -1,5 +1,7 @@
 # Pain Hustlers
 
+[Compare across authors](../../compare/?t=film-pain-hustlers_862968)
+
 ## DD+ Atmos
 
 **2023 • R • 2h 2m • Drama, Crime • mobe1969**

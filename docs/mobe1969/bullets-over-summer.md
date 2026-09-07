@@ -1,5 +1,7 @@
 # Bullets Over Summer
 
+[Compare across authors](../../compare/?t=film-bullets-over-summer_68623)
+
 ## TrueHD 5.1
 
 **1999 • NR • 1h 32m • Cantonese • Crime, Action, Thriller • mobe1969**

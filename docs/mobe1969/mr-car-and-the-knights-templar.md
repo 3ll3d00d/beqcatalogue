@@ -1,5 +1,7 @@
 # Mr. Car and the Knights Templar
 
+[Compare across authors](../../compare/?t=film-mr-car-and-the-knights-templar_1059638)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 50m • Polish • Adventure • mobe1969**

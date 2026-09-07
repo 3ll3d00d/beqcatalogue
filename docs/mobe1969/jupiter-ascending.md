@@ -1,5 +1,7 @@
 # Jupiter Ascending
 
+[Compare across authors](../../compare/?t=film-jupiter-ascending_76757)
+
 ## Atmos
 
 **2015 • PG-13 • 2h 7m • Science Fiction, Fantasy, Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Stronghold
 
+[Compare across authors](../../compare/?t=film-the-stronghold_637534)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2021 • 15 • 1h 45m • French • Thriller • mobe1969**

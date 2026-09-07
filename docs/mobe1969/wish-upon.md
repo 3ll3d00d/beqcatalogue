@@ -1,5 +1,7 @@
 # Wish Upon
 
+[Compare across authors](../../compare/?t=film-wish-upon_440597)
+
 ## DD+ 5.1
 
 **2017 • PG-13 • 1h 30m • Horror, Thriller, Fantasy • mobe1969**

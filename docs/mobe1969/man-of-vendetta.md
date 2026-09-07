@@ -1,5 +1,7 @@
 # Man of Vendetta
 
+[Compare across authors](../../compare/?t=film-man-of-vendetta_50210)
+
 ## DTS-HD MA 5.1
 
 **2010 • 18 • 1h 53m • Korean • Drama, Crime, Thriller, Action • mobe1969**

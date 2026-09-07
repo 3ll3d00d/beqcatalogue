@@ -1,5 +1,7 @@
 # Killer Toon
 
+[Compare across authors](../../compare/?t=film-killer-toon_204260)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 44m • Korean • Horror, Thriller • mobe1969**

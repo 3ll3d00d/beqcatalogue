@@ -1,5 +1,7 @@
 # The Tunnel
 
+[Compare across authors](../../compare/?t=film-the-tunnel_606154)
+
 ## Atmos
 
 **2020 • NR • 1h 43m • Norwegian • Thriller, Drama • mobe1969**

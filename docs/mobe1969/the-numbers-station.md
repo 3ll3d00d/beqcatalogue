@@ -1,5 +1,7 @@
 # The Numbers Station
 
+[Compare across authors](../../compare/?t=film-the-numbers-station_77234)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 30m • Action, Thriller • mobe1969**

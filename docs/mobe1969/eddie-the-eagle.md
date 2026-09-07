@@ -1,5 +1,7 @@
 # Eddie the Eagle
 
+[Compare across authors](../../compare/?t=film-eddie-the-eagle_319888)
+
 ## Atmos
 
 **2016 • PG-13 • 1h 46m • Comedy, Drama, History, Adventure • mobe1969**

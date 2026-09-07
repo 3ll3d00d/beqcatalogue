@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-wheel-of-time_71914)
+
 ## Season 1
 
 * DD+ Atmos

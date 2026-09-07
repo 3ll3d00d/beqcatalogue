@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-who-is-erin-carter_227318)
+
 ## Season 1
 
 * DD+ Atmos

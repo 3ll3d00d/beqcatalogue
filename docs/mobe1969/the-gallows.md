@@ -1,5 +1,7 @@
 # The Gallows
 
+[Compare across authors](../../compare/?t=film-the-gallows_299245)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 27m • Horror, Thriller • mobe1969**

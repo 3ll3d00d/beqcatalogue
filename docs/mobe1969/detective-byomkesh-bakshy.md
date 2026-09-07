@@ -1,5 +1,7 @@
 # Detective Byomkesh Bakshy!
 
+[Compare across authors](../../compare/?t=film-detective-byomkesh-bakshy_320295)
+
 ## DD+ 5.1
 
 **2015 • R • 2h 19m • Hindi • Action, Mystery, Drama • mobe1969**

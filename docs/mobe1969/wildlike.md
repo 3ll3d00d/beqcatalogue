@@ -1,5 +1,7 @@
 # Wildlike
 
+[Compare across authors](../../compare/?t=film-wildlike_300654)
+
 ## DD+ 5.1
 
 **2015 • NR • 1h 44m • Adventure, Drama, Thriller • mobe1969**

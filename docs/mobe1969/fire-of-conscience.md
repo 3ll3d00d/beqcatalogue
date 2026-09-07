@@ -1,5 +1,7 @@
 # Fire of Conscience
 
+[Compare across authors](../../compare/?t=film-fire-of-conscience_38264)
+
 ## TrueHD 7.1
 
 **2010 • NR • 1h 46m • Cantonese • Action, Thriller, Crime • mobe1969**

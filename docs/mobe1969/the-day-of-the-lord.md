@@ -1,5 +1,7 @@
 # The Day of the Lord
 
+[Compare across authors](../../compare/?t=film-the-day-of-the-lord_676844)
+
 ## DD+ Atmos
 
 **2020 • NR • 1h 33m • Spanish • Drama, Horror, Thriller • mobe1969**

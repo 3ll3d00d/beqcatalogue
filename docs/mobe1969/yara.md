@@ -1,5 +1,7 @@
 # Yara
 
+[Compare across authors](../../compare/?t=film-yara_747688)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 36m • Italian • Crime, Drama • mobe1969**

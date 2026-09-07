@@ -1,5 +1,7 @@
 # TÁR
 
+[Compare across authors](../../compare/?t=film-tar_817758)
+
 ## Atmos, DD+ Atmos
 
 **2022 • R • 2h 38m • Drama, Music • mobe1969**

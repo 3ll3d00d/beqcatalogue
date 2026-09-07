@@ -1,5 +1,7 @@
 # The Cursed: Dead Man’s Prey
 
+[Compare across authors](../../compare/?t=film-the-cursed-dead-mans-prey_724885)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 50m • Korean • Thriller, Mystery, Horror • mobe1969**

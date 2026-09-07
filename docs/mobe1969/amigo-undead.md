@@ -1,5 +1,7 @@
 # Amigo Undead
 
+[Compare across authors](../../compare/?t=film-amigo-undead_339191)
+
 ## DTS-HD MA 2.0
 
 **2015 • R • 1h 24m • Horror, Comedy • mobe1969**

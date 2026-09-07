@@ -1,5 +1,7 @@
 # Ghost in the Shell Arise - Border 4: Ghost Stands Alone
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell-arise-border-4-ghost-stands-alone_279254)
+
 ## TrueHD 5.1
 
 **2014 • R • 0h 59m • Japanese • Action, Animation, Science Fiction, Crime • mobe1969**

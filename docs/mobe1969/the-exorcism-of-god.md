@@ -1,5 +1,7 @@
 # The Exorcism of God
 
+[Compare across authors](../../compare/?t=film-the-exorcism-of-god_836225)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 38m • Horror • mobe1969**

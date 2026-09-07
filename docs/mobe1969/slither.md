@@ -1,5 +1,7 @@
 # Slither
 
+[Compare across authors](../../compare/?t=film-slither_9035)
+
 ## DTS-HD MA 5.1
 
 **2006 • R • 1h 35m • Horror, Science Fiction, Comedy • mobe1969**

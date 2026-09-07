@@ -1,5 +1,7 @@
 # Mary Poppins Returns
 
+[Compare across authors](../../compare/?t=film-mary-poppins-returns_400650)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2018 • PG • 2h 11m • Fantasy, Family, Comedy • mobe1969**

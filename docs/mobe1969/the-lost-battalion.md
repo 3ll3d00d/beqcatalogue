@@ -1,5 +1,7 @@
 # The Lost Battalion
 
+[Compare across authors](../../compare/?t=film-the-lost-battalion_35583)
+
 ## DTS-HD MA 5.1
 
 **2001 • 16 • 1h 32m • TV Movie, History, Drama, War • mobe1969**

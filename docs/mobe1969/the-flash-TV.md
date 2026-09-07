@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-flash_60735)
+
 ## Season 9
 
 * DD+ 5.1

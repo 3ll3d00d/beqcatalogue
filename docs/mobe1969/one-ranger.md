@@ -1,5 +1,7 @@
 # One Ranger
 
+[Compare across authors](../../compare/?t=film-one-ranger_1093994)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 35m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Taking of Pelham 123
 
+[Compare across authors](../../compare/?t=film-the-taking-of-pelham-123_18487)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 46m • Action, Crime, Thriller • mobe1969**

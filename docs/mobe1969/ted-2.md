@@ -1,5 +1,7 @@
 # Ted 2
 
+[Compare across authors](../../compare/?t=film-ted-2_214756)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

@@ -1,5 +1,7 @@
 # A Nightmare on Elm Street 5: The Dream Child
 
+[Compare across authors](../../compare/?t=film-a-nightmare-on-elm-street-5-the-dream-child_10160)
+
 ## DTS-HD MA 5.1
 
 **1989 • R • 1h 29m • Horror, Thriller • mobe1969**

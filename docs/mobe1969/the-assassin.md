@@ -1,5 +1,7 @@
 # The Assassin
 
+[Compare across authors](../../compare/?t=film-the-assassin_253450)
+
 ## DD+ 5.1
 
 **2015 • NR • 1h 45m • Mandarin • Action, Drama, History • mobe1969**

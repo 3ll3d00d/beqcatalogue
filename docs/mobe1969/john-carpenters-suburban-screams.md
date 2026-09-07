@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-john-carpenters-suburban-screams_234821)
+
 ## Season 1
 
 * DD+ 5.1

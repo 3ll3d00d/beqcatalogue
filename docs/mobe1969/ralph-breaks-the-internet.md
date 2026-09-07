@@ -1,5 +1,7 @@
 # Ralph Breaks the Internet
 
+[Compare across authors](../../compare/?t=film-ralph-breaks-the-internet_404368)
+
 ## Atmos
 
 **2018 • PG • 1h 52m • Family, Animation, Comedy, Adventure • mobe1969**

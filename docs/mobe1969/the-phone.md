@@ -1,5 +1,7 @@
 # The Phone
 
+[Compare across authors](../../compare/?t=film-the-phone_367882)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 55m • Korean • Thriller, Action, Mystery • mobe1969**

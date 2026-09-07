@@ -1,5 +1,7 @@
 # Supercell
 
+[Compare across authors](../../compare/?t=film-supercell_842945)
+
 ## DTS-HD MA 5.1
 
 **2023 • PG-13 • 1h 40m • Action • mobe1969**

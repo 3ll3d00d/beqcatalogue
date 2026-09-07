@@ -1,5 +1,7 @@
 # Brotherhood of Blades II: The Infernal Battlefield
 
+[Compare across authors](../../compare/?t=film-brotherhood-of-blades-ii-the-infernal-battlefield_457837)
+
 ## Atmos
 
 **2017 • NR • 2h 0m • Mandarin • Romance, Action, Drama, History • mobe1969**

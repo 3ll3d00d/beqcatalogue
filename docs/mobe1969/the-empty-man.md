@@ -1,5 +1,7 @@
 # The Empty Man
 
+[Compare across authors](../../compare/?t=film-the-empty-man_516632)
+
 ## DD+ 5.1
 
 **2020 • R • 2h 17m • Horror, Mystery, Thriller • mobe1969**

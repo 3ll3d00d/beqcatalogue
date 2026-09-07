@@ -1,5 +1,7 @@
 # A Bridge Too Far
 
+[Compare across authors](../../compare/?t=film-a-bridge-too-far_5902)
+
 ## DTS-HD MA 5.1
 
 **1977 • PG • 2h 55m • War, History, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The White Storm
 
+[Compare across authors](../../compare/?t=film-the-white-storm_233112)
+
 ## DTS-HD MA 7.1
 
 **2013 • NR • 2h 20m • Cantonese • Drama, Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Carjacked
 
+[Compare across authors](../../compare/?t=film-carjacked_72912)
+
 ## TrueHD 5.1
 
 **2011 • R • 1h 29m • Action, Thriller • mobe1969**

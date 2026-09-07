@@ -1,5 +1,7 @@
 # The House of Secrets
 
+[Compare across authors](../../compare/?t=film-the-house-of-secrets_1146676)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 59m • Drama • mobe1969**

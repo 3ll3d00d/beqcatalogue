@@ -1,5 +1,7 @@
 # Game
 
+[Compare across authors](../../compare/?t=film-game_60740)
+
 ## DD+ 5.1
 
 **2011 • NR • 2h 15m • Hindi • Mystery, Thriller • mobe1969**

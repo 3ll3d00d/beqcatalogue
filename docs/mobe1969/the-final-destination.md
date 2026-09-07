@@ -1,5 +1,7 @@
 # The Final Destination
 
+[Compare across authors](../../compare/?t=film-the-final-destination_19912)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 22m • Horror, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Rain Man
 
+[Compare across authors](../../compare/?t=film-rain-man_380)
+
 ## DTS-HD MA 5.1
 
 **1988 • R • 2h 14m • Drama • mobe1969**

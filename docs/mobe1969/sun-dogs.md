@@ -1,5 +1,7 @@
 # Sun Dogs
 
+[Compare across authors](../../compare/?t=film-sun-dogs_403068)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 33m • Drama, Comedy • mobe1969**

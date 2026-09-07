@@ -1,5 +1,7 @@
 # Dark Waters
 
+[Compare across authors](../../compare/?t=film-dark-waters_552178)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 2h 7m • Drama, Thriller • mobe1969**

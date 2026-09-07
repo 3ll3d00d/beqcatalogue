@@ -1,5 +1,7 @@
 # Tolkien
 
+[Compare across authors](../../compare/?t=film-tolkien_468224)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG-13 • 1h 52m • Drama, History, War, Romance • mobe1969**

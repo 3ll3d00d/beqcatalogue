@@ -1,5 +1,7 @@
 # Austin Powers: International Man of Mystery
 
+[Compare across authors](../../compare/?t=film-austin-powers-international-man-of-mystery_816)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

@@ -1,5 +1,7 @@
 # One Missed Call
 
+[Compare across authors](../../compare/?t=film-one-missed-call_6933)
+
 ## TrueHD 5.1
 
 **2008 • PG-13 • 1h 27m • Horror, Mystery, Thriller • mobe1969**

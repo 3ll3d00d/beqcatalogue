@@ -1,5 +1,7 @@
 # The Water Diviner
 
+[Compare across authors](../../compare/?t=film-the-water-diviner_256917)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 52m • War, Drama • mobe1969**

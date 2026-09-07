@@ -1,5 +1,7 @@
 # Gotti
 
+[Compare across authors](../../compare/?t=film-gotti_339103)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 50m • Crime, Drama, History, Thriller • mobe1969**

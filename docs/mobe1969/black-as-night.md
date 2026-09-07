@@ -1,5 +1,7 @@
 # Black As Night
 
+[Compare across authors](../../compare/?t=film-black-as-night_767504)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 27m • Horror, Thriller • mobe1969**

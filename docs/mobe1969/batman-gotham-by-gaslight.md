@@ -1,5 +1,7 @@
 # Batman: Gotham by Gaslight
 
+[Compare across authors](../../compare/?t=film-batman-gotham-by-gaslight_471474)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 18m • Thriller, Action, Animation, Science Fiction • mobe1969**

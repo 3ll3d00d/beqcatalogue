@@ -1,5 +1,7 @@
 # Don't Hang Up
 
+[Compare across authors](../../compare/?t=film-dont-hang-up_375355)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 23m • Horror, Thriller • mobe1969**

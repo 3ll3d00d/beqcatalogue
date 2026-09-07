@@ -1,5 +1,7 @@
 # Miserere
 
+[Compare across authors](../../compare/?t=film-miserere_201759)
+
 ## DD+ 5.1
 
 **2013 • NR • 1h 46m • French • Thriller • mobe1969**

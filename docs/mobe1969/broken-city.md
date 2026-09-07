@@ -1,5 +1,7 @@
 # Broken City
 
+[Compare across authors](../../compare/?t=film-broken-city_98357)
+
 ## DD+ 5.1
 
 **2013 • R • 1h 49m • Thriller, Crime, Drama • mobe1969**

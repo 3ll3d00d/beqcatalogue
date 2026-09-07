@@ -1,5 +1,7 @@
 # Tiku Weds Sheru
 
+[Compare across authors](../../compare/?t=film-tiku-weds-sheru_919031)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 51m • Hindi • Comedy, Drama, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Fullmetal Alchemist: The Sacred Star of Milos
 
+[Compare across authors](../../compare/?t=film-fullmetal-alchemist-the-sacred-star-of-milos_80518)
+
 ## TrueHD 5.1
 
 **2011 • NR • 1h 50m • Japanese • Adventure, Fantasy, Animation, Action, Science Fiction • mobe1969**

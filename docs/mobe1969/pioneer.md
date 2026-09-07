@@ -1,5 +1,7 @@
 # Pioneer
 
+[Compare across authors](../../compare/?t=film-pioneer_168399)
+
 ## DTS-HD MA 7.1
 
 **2013 • 15 • 1h 46m • Norwegian • Thriller • mobe1969**

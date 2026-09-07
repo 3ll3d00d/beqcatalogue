@@ -1,5 +1,7 @@
 # Very Bad Things
 
+[Compare across authors](../../compare/?t=film-very-bad-things_10029)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 40m • Crime, Comedy, Thriller • mobe1969**

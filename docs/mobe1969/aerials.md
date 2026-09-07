@@ -1,5 +1,7 @@
 # Aerials
 
+[Compare across authors](../../compare/?t=film-aerials_699673)
+
 ## DD+ 2.0
 
 **2016 • NR • 1h 30m • Arabic • Drama, Science Fiction, Thriller • mobe1969**

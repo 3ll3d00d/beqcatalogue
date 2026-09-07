@@ -1,5 +1,7 @@
 # Outlander
 
+[Compare across authors](../../compare/?t=film-outlander_10529)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 55m • Science Fiction • mobe1969**

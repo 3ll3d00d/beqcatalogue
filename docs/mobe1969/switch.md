@@ -1,5 +1,7 @@
 # Switch
 
+[Compare across authors](../../compare/?t=film-switch_69225)
+
 ## DD+ 5.1
 
 **2011 • 15 • 1h 44m • French • Crime, Action, Thriller • mobe1969**

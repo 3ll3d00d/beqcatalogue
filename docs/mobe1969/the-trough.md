@@ -1,5 +1,7 @@
 # The Trough
 
+[Compare across authors](../../compare/?t=film-the-trough_521288)
+
 ## TrueHD 5.1
 
 **2018 • NR • 1h 53m • Cantonese • Crime, Action, Thriller, Drama, Thriller • mobe1969**

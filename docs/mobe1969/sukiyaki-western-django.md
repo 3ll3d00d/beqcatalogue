@@ -1,5 +1,7 @@
 # Sukiyaki Western Django
 
+[Compare across authors](../../compare/?t=film-sukiyaki-western-django_13637)
+
 ## TrueHD 5.1
 
 **2007 • R • 2h 1m • Japanese • Adventure, Action, Western, Comedy, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Our Kind of Traitor
 
+[Compare across authors](../../compare/?t=film-our-kind-of-traitor_205588)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 48m • Thriller • mobe1969**

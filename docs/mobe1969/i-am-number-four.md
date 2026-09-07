@@ -1,5 +1,7 @@
 # I Am Number Four
 
+[Compare across authors](../../compare/?t=film-i-am-number-four_46529)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 49m • Science Fiction, Thriller, Action, Adventure • mobe1969**

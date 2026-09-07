@@ -1,5 +1,7 @@
 # Amos & Andrew
 
+[Compare across authors](../../compare/?t=film-amos-andrew_31000)
+
 ## DTS-HD MA 2.0
 
 **1993 • PG-13 • 1h 36m • Action, Comedy • mobe1969**

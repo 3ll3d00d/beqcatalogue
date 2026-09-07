@@ -1,5 +1,7 @@
 # Day Watch
 
+[Compare across authors](../../compare/?t=film-day-watch_2269)
+
 ## TrueHD 5.1
 
 **2006 • R • 2h 12m • Russian • Fantasy, Science Fiction • mobe1969**

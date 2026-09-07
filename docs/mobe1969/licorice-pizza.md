@@ -1,5 +1,7 @@
 # Licorice Pizza
 
+[Compare across authors](../../compare/?t=film-licorice-pizza_718032)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 2h 13m • Drama, Comedy • mobe1969**

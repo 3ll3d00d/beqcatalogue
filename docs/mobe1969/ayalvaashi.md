@@ -1,5 +1,7 @@
 # Ayalvaashi
 
+[Compare across authors](../../compare/?t=film-ayalvaashi_1018972)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 47m • Malayalam • Drama, Comedy • mobe1969**

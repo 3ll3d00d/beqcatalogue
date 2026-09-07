@@ -1,5 +1,7 @@
 # The Fugitive
 
+[Compare across authors](../../compare/?t=film-the-fugitive_5503)
+
 ## DTS-HD MA 5.1
 
 **1993 • PG-13 • 2h 11m • Thriller, Crime, Mystery, Adventure, Action • mobe1969**

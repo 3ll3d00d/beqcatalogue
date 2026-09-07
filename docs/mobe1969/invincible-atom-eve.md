@@ -1,5 +1,7 @@
 # Invincible: Atom Eve
 
+[Compare across authors](../../compare/?t=film-invincible-atom-eve_1154863)
+
 ## DD+ 5.1
 
 **2023 • MA 15+ • 0h 56m • Animation, Action, TV Movie • mobe1969**

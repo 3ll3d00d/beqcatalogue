@@ -1,5 +1,7 @@
 # Black Death
 
+[Compare across authors](../../compare/?t=film-black-death_41215)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 42m • Action, Drama, Thriller, History, Mystery, Horror • mobe1969**

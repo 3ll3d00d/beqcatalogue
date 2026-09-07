@@ -1,5 +1,7 @@
 # 28 Days Later
 
+[Compare across authors](../../compare/?t=film-28-days-later_170)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 1h 53m • Thriller, Science Fiction, Horror • mobe1969**

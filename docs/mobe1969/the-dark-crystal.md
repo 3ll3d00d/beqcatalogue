@@ -1,5 +1,7 @@
 # The Dark Crystal
 
+[Compare across authors](../../compare/?t=film-the-dark-crystal_11639)
+
 ## Atmos
 
 **1982 • PG • 1h 33m • Fantasy, Adventure, Family, Animation • mobe1969**

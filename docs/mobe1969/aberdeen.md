@@ -1,5 +1,7 @@
 # Aberdeen
 
+[Compare across authors](../../compare/?t=film-aberdeen_257642)
+
 ## TrueHD 5.1
 
 **2014 • NR • 1h 36m • Cantonese • Drama, Family • mobe1969**

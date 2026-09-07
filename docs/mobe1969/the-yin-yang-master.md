@@ -1,5 +1,7 @@
 # The Yin Yang Master
 
+[Compare across authors](../../compare/?t=film-the-yin-yang-master_758902)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 1m • Mandarin • Action, Adventure, Drama, Fantasy, Romance • mobe1969**

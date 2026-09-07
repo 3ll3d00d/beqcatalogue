@@ -1,5 +1,7 @@
 # The Spy Who Loved Me
 
+[Compare across authors](../../compare/?t=film-the-spy-who-loved-me_691)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1977 • PG • 2h 5m • Adventure, Action, Thriller • mobe1969**

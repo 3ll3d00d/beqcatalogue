@@ -1,5 +1,7 @@
 # Legend of the Fist: The Return of Chen Zhen
 
+[Compare across authors](../../compare/?t=film-legend-of-the-fist-the-return-of-chen-zhen_47854)
+
 ## TrueHD 7.1
 
 **2010 • R • 1h 45m • Mandarin • Drama, Action, History, Thriller • mobe1969**

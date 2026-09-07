@@ -1,5 +1,7 @@
 # Premium Rush
 
+[Compare across authors](../../compare/?t=film-premium-rush_49526)
+
 ## DD 5.1
 
 **2012 • PG-13 • 1h 31m • Crime, Action, Thriller • mobe1969**

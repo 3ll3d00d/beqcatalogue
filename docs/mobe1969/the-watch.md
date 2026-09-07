@@ -1,5 +1,7 @@
 # The Watch
 
+[Compare across authors](../../compare/?t=film-the-watch_80035)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 42m • Comedy, Action, Science Fiction • mobe1969**

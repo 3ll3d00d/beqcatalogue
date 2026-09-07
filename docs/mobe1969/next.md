@@ -1,5 +1,7 @@
 # Next
 
+[Compare across authors](../../compare/?t=film-next_1738)
+
 ## DTS-HD HR 5.1
 
 **2007 • PG-13 • 1h 36m • Action, Science Fiction, Thriller • mobe1969**

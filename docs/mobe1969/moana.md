@@ -1,5 +1,7 @@
 # Moana
 
+[Compare across authors](../../compare/?t=film-moana_277834)
+
 ## Atmos
 
 **2016 • PG • 1h 47m • Adventure, Comedy, Family, Animation • mobe1969**

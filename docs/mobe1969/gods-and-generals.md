@@ -1,5 +1,7 @@
 # Gods and Generals
 
+[Compare across authors](../../compare/?t=film-gods-and-generals_16072)
+
 ## DD+ 5.1
 
 **2003 • PG-13 • 3h 39m • Drama, History, War • mobe1969**

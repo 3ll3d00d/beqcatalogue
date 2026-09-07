@@ -1,5 +1,7 @@
 # The Wolfman
 
+[Compare across authors](../../compare/?t=film-the-wolfman_7978)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

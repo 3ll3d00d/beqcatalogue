@@ -1,5 +1,7 @@
 # Boyz n the Hood
 
+[Compare across authors](../../compare/?t=film-boyz-n-the-hood_650)
+
 ## Atmos
 
 **1991 • R • 1h 52m • Drama, Crime • mobe1969**

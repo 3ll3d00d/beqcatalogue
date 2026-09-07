@@ -1,5 +1,7 @@
 # The Hangover Part II
 
+[Compare across authors](../../compare/?t=film-the-hangover-part-ii_45243)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 42m • Comedy • mobe1969**

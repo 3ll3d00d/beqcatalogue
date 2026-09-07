@@ -1,5 +1,7 @@
 # Vehicle 19
 
+[Compare across authors](../../compare/?t=film-vehicle-19_180948)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 25m • Thriller, Action • mobe1969**

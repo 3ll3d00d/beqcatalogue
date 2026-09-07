@@ -1,5 +1,7 @@
 # The Thousand Faces of Dunjia
 
+[Compare across authors](../../compare/?t=film-the-thousand-faces-of-dunjia_460557)
+
 ## DTS-X
 
 **2017 • NR • 1h 53m • Mandarin • Adventure, Action, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Iratta
 
+[Compare across authors](../../compare/?t=film-iratta_945167)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 50m • Malayalam • Drama, Thriller • mobe1969**

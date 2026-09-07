@@ -1,5 +1,7 @@
 # Blood Money
 
+[Compare across authors](../../compare/?t=film-blood-money_422821)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 40m • Thriller, Drama • mobe1969**

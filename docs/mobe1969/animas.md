@@ -1,5 +1,7 @@
 # Animas
 
+[Compare across authors](../../compare/?t=film-animas_484436)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 23m • Spanish • Thriller, Drama, Horror • mobe1969**

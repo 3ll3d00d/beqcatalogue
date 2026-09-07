@@ -1,5 +1,7 @@
 # Shadow in the Cloud
 
+[Compare across authors](../../compare/?t=film-shadow-in-the-cloud_675327)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 23m • Horror, Action, War • mobe1969**

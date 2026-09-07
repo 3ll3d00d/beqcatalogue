@@ -1,5 +1,7 @@
 # Bāhubali: The Beginning
 
+[Compare across authors](../../compare/?t=film-bahubali-the-beginning_256040)
+
 ## DD+ 5.1
 
 **2015 • NR • 2h 38m • Hindi • Action, Adventure, Drama, Fantasy • mobe1969**

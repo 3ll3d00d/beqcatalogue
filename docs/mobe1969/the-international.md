@@ -1,5 +1,7 @@
 # The International
 
+[Compare across authors](../../compare/?t=film-the-international_4959)
+
 ## TrueHD 5.1
 
 **2009 • R • 1h 58m • Action, Thriller, Drama, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # American Night
 
+[Compare across authors](../../compare/?t=film-american-night_695080)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 2h 3m • Action, Thriller • mobe1969**

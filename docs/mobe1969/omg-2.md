@@ -1,5 +1,7 @@
 # OMG 2
 
+[Compare across authors](../../compare/?t=film-omg-2_888710)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 36m • Hindi • Comedy, Drama • mobe1969**

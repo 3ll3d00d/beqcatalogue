@@ -1,5 +1,7 @@
 # Barbershop
 
+[Compare across authors](../../compare/?t=film-barbershop_10611)
+
 ## DD+ 5.1
 
 **2002 • PG-13 • 1h 42m • Comedy, Drama • mobe1969**

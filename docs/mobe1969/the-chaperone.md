@@ -1,5 +1,7 @@
 # The Chaperone
 
+[Compare across authors](../../compare/?t=film-the-chaperone_54557)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 43m • Comedy, Family, Action • mobe1969**

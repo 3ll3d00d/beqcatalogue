@@ -1,5 +1,7 @@
 # Che: Part One
 
+[Compare across authors](../../compare/?t=film-che-part-one_8881)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 2h 14m • Spanish • Drama, History, War • mobe1969**

@@ -1,5 +1,7 @@
 # The Vault
 
+[Compare across authors](../../compare/?t=film-the-vault_630004)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 58m • Action, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Arrowhead
 
+[Compare across authors](../../compare/?t=film-arrowhead_360799)
+
 ## DTS-HD MA 5.1
 
 **2016 • 15 • 1h 35m • Action, Adventure, Mystery, Science Fiction • mobe1969**

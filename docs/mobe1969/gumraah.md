@@ -1,5 +1,7 @@
 # Gumraah
 
+[Compare across authors](../../compare/?t=film-gumraah_974025)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 10m • Hindi • Action, Crime, Thriller • mobe1969**

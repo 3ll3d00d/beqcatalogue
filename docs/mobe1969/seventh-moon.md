@@ -1,5 +1,7 @@
 # Seventh Moon
 
+[Compare across authors](../../compare/?t=film-seventh-moon_24330)
+
 ## DTS-HD MA 5.1
 
 **2008 • 15 • 1h 27m • Horror • mobe1969**

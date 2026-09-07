@@ -1,5 +1,7 @@
 # Seoul Vibe
 
+[Compare across authors](../../compare/?t=film-seoul-vibe_773867)
+
 ## DD+ Atmos
 
 **2022 • R • 2h 20m • Korean • Crime, Action • mobe1969**

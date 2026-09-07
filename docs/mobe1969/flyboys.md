@@ -1,5 +1,7 @@
 # Flyboys
 
+[Compare across authors](../../compare/?t=film-flyboys_9664)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 2h 18m • Drama, War, Romance, Adventure, Action, History • mobe1969**

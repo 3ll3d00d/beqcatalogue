@@ -1,5 +1,7 @@
 # Planes, Trains and Automobiles
 
+[Compare across authors](../../compare/?t=film-planes-trains-and-automobiles_2609)
+
 ## DTS-HD MA 5.1
 
 **1987 • R • 1h 33m • Comedy • mobe1969**

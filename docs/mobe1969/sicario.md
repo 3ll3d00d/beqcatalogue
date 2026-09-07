@@ -1,5 +1,7 @@
 # Sicario
 
+[Compare across authors](../../compare/?t=film-sicario_273481)
+
 ## Atmos
 
 **2015 • R • 2h 2m • Action, Crime, Thriller • mobe1969**

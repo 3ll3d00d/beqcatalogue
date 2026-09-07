@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-servant_88055)
+
 ## Season 2
 
 * DD+ Atmos

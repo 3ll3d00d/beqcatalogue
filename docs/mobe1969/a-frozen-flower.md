@@ -1,5 +1,7 @@
 # A Frozen Flower
 
+[Compare across authors](../../compare/?t=film-a-frozen-flower_17903)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 2h 13m • Korean • Drama • mobe1969**

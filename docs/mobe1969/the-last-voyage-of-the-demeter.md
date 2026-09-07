@@ -1,5 +1,7 @@
 # The Last Voyage of the Demeter
 
+[Compare across authors](../../compare/?t=film-the-last-voyage-of-the-demeter_635910)
+
 ## Atmos
 
 **2023 • R • 1h 59m • Thriller, Horror • mobe1969**

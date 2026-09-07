@@ -1,5 +1,7 @@
 # End of a Gun
 
+[Compare across authors](../../compare/?t=film-end-of-a-gun_411632)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 27m • Action, Crime, Thriller • mobe1969**

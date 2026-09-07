@@ -1,5 +1,7 @@
 # Tai Chi Zero
 
+[Compare across authors](../../compare/?t=film-tai-chi-zero_121823)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 40m • Mandarin • Action, Drama • mobe1969**

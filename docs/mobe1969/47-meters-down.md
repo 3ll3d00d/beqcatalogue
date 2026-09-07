@@ -1,5 +1,7 @@
 # 47 Meters Down
 
+[Compare across authors](../../compare/?t=film-47-meters-down_403119)
+
 ## LPCM 5.1
 
 **2017 • PG-13 • 1h 29m • Adventure, Drama, Horror, Thriller • mobe1969**

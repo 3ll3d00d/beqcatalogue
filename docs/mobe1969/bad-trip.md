@@ -1,5 +1,7 @@
 # Bad Trip
 
+[Compare across authors](../../compare/?t=film-bad-trip_578908)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 27m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Black & White: The Dawn of Assault
 
+[Compare across authors](../../compare/?t=film-black-white-the-dawn-of-assault_137400)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 2h 22m • Mandarin • Comedy, Action • mobe1969**

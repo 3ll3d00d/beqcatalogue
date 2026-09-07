@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Hathaway
 
+[Compare across authors](../../compare/?t=film-mobile-suit-gundam-hathaway_685274)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 1h 36m • Japanese • Animation, Action, Drama, Science Fiction • mobe1969**

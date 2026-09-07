@@ -1,5 +1,7 @@
 # Ocean's Twelve
 
+[Compare across authors](../../compare/?t=film-oceans-twelve_163)
+
 ## DD 5.1
 
 **2004 • PG-13 • 2h 5m • Thriller, Crime • mobe1969**

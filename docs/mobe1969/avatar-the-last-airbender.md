@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-avatar-the-last-airbender_246)
+
 ## Season 1
 
 * DD 2.0

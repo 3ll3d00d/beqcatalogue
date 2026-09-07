@@ -1,5 +1,7 @@
 # My Name is Vendetta
 
+[Compare across authors](../../compare/?t=film-my-name-is-vendetta_873126)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 30m • Italian • Crime, Thriller • mobe1969**

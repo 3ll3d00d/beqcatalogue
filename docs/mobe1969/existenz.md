@@ -1,5 +1,7 @@
 # eXistenZ
 
+[Compare across authors](../../compare/?t=film-existenz_1946)
+
 ## LPCM 5.1
 
 **1999 • R • 1h 37m • Action, Thriller, Science Fiction, Horror • mobe1969**

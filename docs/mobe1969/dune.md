@@ -1,5 +1,7 @@
 # Dune
 
+[Compare across authors](../../compare/?t=film-dune_841)
+
 ## DTS-HD MA 5.1
 
 **1984 • PG-13 • 2h 17m • Action, Science Fiction, Adventure • mobe1969**

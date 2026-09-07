@@ -1,5 +1,7 @@
 # Home
 
+[Compare across authors](../../compare/?t=film-home_228161)
+
 ## DTS-HD MA 7.1, DD+ 5.1
 
 **2015 • PG • 1h 34m • Fantasy, Comedy, Animation, Science Fiction, Family • mobe1969**

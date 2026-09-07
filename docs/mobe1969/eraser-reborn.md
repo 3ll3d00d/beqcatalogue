@@ -1,5 +1,7 @@
 # Eraser: Reborn
 
+[Compare across authors](../../compare/?t=film-eraser-reborn_923597)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 42m • Action • mobe1969**

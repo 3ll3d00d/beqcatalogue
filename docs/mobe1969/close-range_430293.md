@@ -1,5 +1,7 @@
 # Close Range
 
+[Compare across authors](../../compare/?t=film-close-range_430293)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 31m • Action, Drama, Thriller • mobe1969**

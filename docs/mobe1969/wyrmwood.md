@@ -1,5 +1,7 @@
 # Wyrmwood
 
+[Compare across authors](../../compare/?t=film-wyrmwood_290999)
+
 ## DTS-HD MA 7.1
 
 **2014 • NR • 1h 38m • Horror, Action, Comedy • mobe1969**

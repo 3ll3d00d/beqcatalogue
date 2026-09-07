@@ -1,5 +1,7 @@
 # Revolt
 
+[Compare across authors](../../compare/?t=film-revolt_313943)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 27m • Science Fiction, Action • mobe1969**

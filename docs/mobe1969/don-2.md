@@ -1,5 +1,7 @@
 # Don 2
 
+[Compare across authors](../../compare/?t=film-don-2_41109)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2011 • 12A • 2h 28m • Hindi • Action, Thriller • mobe1969**

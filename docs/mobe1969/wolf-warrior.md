@@ -1,5 +1,7 @@
 # Wolf Warrior
 
+[Compare across authors](../../compare/?t=film-wolf-warrior_335462)
+
 ## TrueHD 7.1
 
 **2015 • 15 • 1h 30m • Mandarin • Action, War • mobe1969**

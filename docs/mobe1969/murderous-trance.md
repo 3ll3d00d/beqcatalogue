@@ -1,5 +1,7 @@
 # Murderous Trance
 
+[Compare across authors](../../compare/?t=film-murderous-trance_480531)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 1h 50m • Thriller • mobe1969**

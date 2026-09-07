@@ -1,5 +1,7 @@
 # The Worthy
 
+[Compare across authors](../../compare/?t=film-the-worthy_413780)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 35m • Arabic • Thriller, Action, Science Fiction • mobe1969**

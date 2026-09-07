@@ -1,5 +1,7 @@
 # Cliffhanger
 
+[Compare across authors](../../compare/?t=film-cliffhanger_9350)
+
 ## Atmos
 
 **1993 • R • 1h 52m • Action, Adventure, Thriller • mobe1969**

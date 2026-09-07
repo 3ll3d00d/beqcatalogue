@@ -1,5 +1,7 @@
 # Rust Creek
 
+[Compare across authors](../../compare/?t=film-rust-creek_561362)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 48m • Drama, Thriller • mobe1969**

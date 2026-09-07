@@ -1,5 +1,7 @@
 # K-20: The Fiend with Twenty Faces
 
+[Compare across authors](../../compare/?t=film-k-20-the-fiend-with-twenty-faces_24410)
+
 ## DTS-HD MA 5.1
 
 **2008 • 16 • 2h 17m • Japanese • Action, Adventure, Crime • mobe1969**

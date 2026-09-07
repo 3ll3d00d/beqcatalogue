@@ -1,5 +1,7 @@
 # Baby
 
+[Compare across authors](../../compare/?t=film-baby_314389)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 2h 40m • Hindi • Action, Thriller • mobe1969**

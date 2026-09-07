@@ -1,5 +1,7 @@
 # Dark Tourist
 
+[Compare across authors](../../compare/?t=film-dark-tourist_204882)
+
 ## DTS-HD MA 5.1
 
 **2012 • R18+ • 1h 24m • Thriller, Drama • mobe1969**

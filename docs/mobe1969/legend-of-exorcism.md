@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-legend-of-exorcism_105644)
+
 ## Season 1
 
 * DD+ 2.0

@@ -1,5 +1,7 @@
 # Mars Needs Moms
 
+[Compare across authors](../../compare/?t=film-mars-needs-moms_50321)
+
 ## DTS-HD MA 7.1
 
 **2011 • PG • 1h 28m • Adventure, Animation, Family • mobe1969**

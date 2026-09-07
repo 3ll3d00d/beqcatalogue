@@ -1,5 +1,7 @@
 # Death on the Nile
 
+[Compare across authors](../../compare/?t=film-death-on-the-nile_505026)
+
 ## Atmos, DD+ Atmos
 
 **2022 • PG-13 • 2h 7m • Crime, Drama, Mystery, Thriller • mobe1969**

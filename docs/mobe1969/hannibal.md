@@ -1,5 +1,7 @@
 # Hannibal
 
+[Compare across authors](../../compare/?t=film-hannibal_9740)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 2h 11m • Crime, Drama, Thriller • mobe1969**

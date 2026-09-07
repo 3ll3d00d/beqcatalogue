@@ -1,5 +1,7 @@
 # Victim
 
+[Compare across authors](../../compare/?t=film-victim_26499)
+
 ## TrueHD 5.1
 
 **1999 • NR • 1h 33m • Cantonese • Horror, Thriller, Crime • mobe1969**

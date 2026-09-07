@@ -1,5 +1,7 @@
 # The Package
 
+[Compare across authors](../../compare/?t=film-the-package_146578)
+
 ## TrueHD 5.1
 
 **2013 • R • 1h 33m • Action • mobe1969**

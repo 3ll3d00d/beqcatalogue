@@ -1,5 +1,7 @@
 # Don't Knock Twice
 
+[Compare across authors](../../compare/?t=film-dont-knock-twice_420245)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 33m • Horror • mobe1969**

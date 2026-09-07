@@ -1,5 +1,7 @@
 # Romeo Must Die
 
+[Compare across authors](../../compare/?t=film-romeo-must-die_2085)
+
 ## DD+ 5.1
 
 **2000 • R • 1h 55m • Action, Crime, Thriller • mobe1969**

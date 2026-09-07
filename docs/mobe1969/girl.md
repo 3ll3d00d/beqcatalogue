@@ -1,5 +1,7 @@
 # Girl
 
+[Compare across authors](../../compare/?t=film-girl_717634)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 30m • Thriller • mobe1969**

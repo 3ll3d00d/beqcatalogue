@@ -1,5 +1,7 @@
 # Magnum Force
 
+[Compare across authors](../../compare/?t=film-magnum-force_10648)
+
 ## TrueHD 5.1
 
 **1973 • R • 2h 4m • Crime, Drama, Action, Thriller, Mystery • mobe1969**

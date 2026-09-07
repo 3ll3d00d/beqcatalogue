@@ -1,5 +1,7 @@
 # The Negotiator
 
+[Compare across authors](../../compare/?t=film-the-negotiator_9631)
+
 ## TrueHD 5.1
 
 **1998 • R • 2h 20m • Thriller, Crime, Drama, Action • mobe1969**

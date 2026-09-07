@@ -1,5 +1,7 @@
 # Russian Raid
 
+[Compare across authors](../../compare/?t=film-russian-raid_651793)
+
 ## DTS-HD MA 5.1
 
 **2020 • 15 • 1h 43m • Russian • Action • mobe1969**

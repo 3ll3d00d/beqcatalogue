@@ -1,5 +1,7 @@
 # The In Between
 
+[Compare across authors](../../compare/?t=film-the-in-between_818750)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 1h 56m • Romance, Science Fiction, Drama • mobe1969**

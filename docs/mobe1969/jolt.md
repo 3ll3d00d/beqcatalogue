@@ -1,5 +1,7 @@
 # Jolt
 
+[Compare across authors](../../compare/?t=film-jolt_617502)
+
 ## DTS-HD MA 7.1, DD+ 5.1
 
 **2021 • R • 1h 31m • Action, Comedy • mobe1969**

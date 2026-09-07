@@ -1,5 +1,7 @@
 # The Infiltrator
 
+[Compare across authors](../../compare/?t=film-the-infiltrator_325789)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 2h 7m • Crime, Drama, Thriller • mobe1969**

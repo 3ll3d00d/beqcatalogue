@@ -1,5 +1,7 @@
 # The Perfect Weapon
 
+[Compare across authors](../../compare/?t=film-the-perfect-weapon_416149)
+
 ## DD+ 5.1
 
 **2016 • PG-13 • 1h 28m • Science Fiction, Action • mobe1969**

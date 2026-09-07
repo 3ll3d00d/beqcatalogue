@@ -1,5 +1,7 @@
 # Love and Monsters
 
+[Compare across authors](../../compare/?t=film-love-and-monsters_590223)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 49m • Comedy, Action, Adventure, Fantasy • mobe1969**

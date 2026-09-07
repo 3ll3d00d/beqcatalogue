@@ -1,5 +1,7 @@
 # At the Devil's Door
 
+[Compare across authors](../../compare/?t=film-at-the-devils-door_254188)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 31m • Horror • mobe1969**

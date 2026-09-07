@@ -1,5 +1,7 @@
 # The Omega Man
 
+[Compare across authors](../../compare/?t=film-the-omega-man_11234)
+
 ## DD 1.0
 
 **1971 • PG • 1h 38m • Science Fiction, Action, Drama, Thriller • mobe1969**

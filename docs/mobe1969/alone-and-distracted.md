@@ -1,5 +1,7 @@
 # Alone and Distracted
 
+[Compare across authors](../../compare/?t=film-alone-and-distracted_137113)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG • 1h 53m • Action, Science Fiction • mobe1969**

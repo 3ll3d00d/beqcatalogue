@@ -1,5 +1,7 @@
 # Ratatouille
 
+[Compare across authors](../../compare/?t=film-ratatouille_2062)
+
 ## Atmos
 
 **2007 • G • 1h 51m • Animation, Comedy, Family, Fantasy • mobe1969**

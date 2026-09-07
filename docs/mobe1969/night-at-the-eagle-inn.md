@@ -1,5 +1,7 @@
 # Night at the Eagle Inn
 
+[Compare across authors](../../compare/?t=film-night-at-the-eagle-inn_854529)
+
 ## DD 5.1
 
 **2021 • 15 • 1h 10m • Horror, Mystery • mobe1969**

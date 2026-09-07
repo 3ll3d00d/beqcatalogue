@@ -1,5 +1,7 @@
 # Dark Places
 
+[Compare across authors](../../compare/?t=film-dark-places_182560)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 53m • Thriller, Mystery, Drama, Adventure • mobe1969**

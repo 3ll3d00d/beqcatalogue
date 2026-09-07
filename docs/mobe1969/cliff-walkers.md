@@ -1,5 +1,7 @@
 # Cliff Walkers
 
+[Compare across authors](../../compare/?t=film-cliff-walkers_639557)
+
 ## Atmos
 
 **2021 • MA15+ • 2h 0m • Mandarin • Drama, History, Thriller, Crime • mobe1969**

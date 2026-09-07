@@ -1,5 +1,7 @@
 # 12 Rounds 2: Reloaded
 
+[Compare across authors](../../compare/?t=film-12-rounds-2-reloaded_195269)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 35m • Adventure, Action • mobe1969**

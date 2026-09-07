@@ -1,5 +1,7 @@
 # The Eternal Zero
 
+[Compare across authors](../../compare/?t=film-the-eternal-zero_248087)
+
 ## DTS-HD MA 6.1
 
 **2013 • 12 • 2h 24m • Japanese • War, Drama • mobe1969**

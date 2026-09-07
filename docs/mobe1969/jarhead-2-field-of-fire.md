@@ -1,5 +1,7 @@
 # Jarhead 2: Field of Fire
 
+[Compare across authors](../../compare/?t=film-jarhead-2-field-of-fire_285423)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 43m • Action, War • mobe1969**

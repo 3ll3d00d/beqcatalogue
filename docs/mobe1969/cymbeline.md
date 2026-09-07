@@ -1,5 +1,7 @@
 # Cymbeline
 
+[Compare across authors](../../compare/?t=film-cymbeline_240745)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 37m • Drama • mobe1969**

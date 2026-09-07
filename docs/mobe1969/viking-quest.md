@@ -1,5 +1,7 @@
 # Viking Quest
 
+[Compare across authors](../../compare/?t=film-viking-quest_317960)
+
 ## DTS-HD MA 5.1
 
 **2015 • 16 • 1h 28m • Action, Adventure, Fantasy, TV Movie • mobe1969**

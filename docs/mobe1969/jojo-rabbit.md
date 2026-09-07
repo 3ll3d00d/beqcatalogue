@@ -1,5 +1,7 @@
 # Jojo Rabbit
 
+[Compare across authors](../../compare/?t=film-jojo-rabbit_515001)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG-13 • 1h 48m • Comedy, War, Drama • mobe1969**

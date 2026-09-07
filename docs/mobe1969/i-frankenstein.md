@@ -1,5 +1,7 @@
 # I, Frankenstein
 
+[Compare across authors](../../compare/?t=film-i-frankenstein_100241)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 32m • Horror, Thriller • mobe1969**

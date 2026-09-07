@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-defiant-ones_72141)
+
 ## Season 1
 
 * DD+

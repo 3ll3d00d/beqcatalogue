@@ -1,5 +1,7 @@
 # The Prophecy V: Forsaken
 
+[Compare across authors](../../compare/?t=film-the-prophecy-v-forsaken_37529)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 15m • Horror, Thriller • mobe1969**

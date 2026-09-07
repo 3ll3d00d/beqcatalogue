@@ -1,5 +1,7 @@
 # Alex Cross
 
+[Compare across authors](../../compare/?t=film-alex-cross_94348)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 41m • Action, Thriller, Crime, Mystery • mobe1969**

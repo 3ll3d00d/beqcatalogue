@@ -1,5 +1,7 @@
 # Pokémon: Zoroark - Master of Illusions
 
+[Compare across authors](../../compare/?t=film-pokemon-zoroark-master-of-illusions_50087)
+
 ## DTS-HD MA 5.1
 
 **2010 • G • 1h 36m • Family, Animation, Adventure, Fantasy • mobe1969**

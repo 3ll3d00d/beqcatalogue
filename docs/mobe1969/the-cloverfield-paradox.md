@@ -1,5 +1,7 @@
 # The Cloverfield Paradox
 
+[Compare across authors](../../compare/?t=film-the-cloverfield-paradox_384521)
+
 ## Atmos
 
 **2018 • PG-13 • 1h 42m • Horror, Science Fiction, Action, Thriller • mobe1969**

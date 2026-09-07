@@ -1,5 +1,7 @@
 # Project Power
 
+[Compare across authors](../../compare/?t=film-project-power_605116)
+
 ## DD+ Atmos
 
 **2020 • R • 1h 53m • Action, Crime, Science Fiction • mobe1969**

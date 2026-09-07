@@ -1,5 +1,7 @@
 # The Standoff at Sparrow Creek
 
+[Compare across authors](../../compare/?t=film-the-standoff-at-sparrow-creek_516630)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 28m • Drama, Thriller, Mystery • mobe1969**

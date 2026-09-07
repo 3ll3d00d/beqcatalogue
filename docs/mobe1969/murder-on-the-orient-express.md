@@ -1,5 +1,7 @@
 # Murder on the Orient Express
 
+[Compare across authors](../../compare/?t=film-murder-on-the-orient-express_392044)
+
 ## Atmos, DD+ Atmos
 
 **2017 • PG-13 • 1h 54m • Mystery, Crime, Drama • mobe1969**

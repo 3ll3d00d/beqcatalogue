@@ -1,5 +1,7 @@
 # Noah
 
+[Compare across authors](../../compare/?t=film-noah_86834)
+
 ## DD+ 5.1
 
 **2014 • PG-13 • 2h 18m • Drama, Adventure • mobe1969**

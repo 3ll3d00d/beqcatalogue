@@ -1,5 +1,7 @@
 # What Happened to Monday
 
+[Compare across authors](../../compare/?t=film-what-happened-to-monday_406990)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 2h 3m • Mystery, Drama, Thriller, Science Fiction • mobe1969**

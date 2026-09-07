@@ -1,5 +1,7 @@
 # The Punisher
 
+[Compare across authors](../../compare/?t=film-the-punisher_8867)
+
 ## DTS-HD MA 5.1
 
 **1989 • R • 1h 29m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # CHI-RAQ
 
+[Compare across authors](../../compare/?t=film-chi-raq_340275)
+
 ## DD+ 5.1
 
 **2015 • R • 2h 7m • Drama, Crime, Comedy • mobe1969**

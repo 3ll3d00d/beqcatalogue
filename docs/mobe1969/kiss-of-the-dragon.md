@@ -1,5 +1,7 @@
 # Kiss of the Dragon
 
+[Compare across authors](../../compare/?t=film-kiss-of-the-dragon_2140)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 1h 38m • Crime, Thriller, Action • mobe1969**

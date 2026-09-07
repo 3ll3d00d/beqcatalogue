@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-falling-skies_34967)
+
 ## Season 1
 
 * DD+ 5.1

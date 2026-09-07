@@ -1,5 +1,7 @@
 # Van Helsing
 
+[Compare across authors](../../compare/?t=film-van-helsing_7131)
+
 ## DTS-X
 
 **2004 • PG-13 • 2h 12m • Horror, Adventure, Action • mobe1969**

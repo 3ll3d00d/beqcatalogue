@@ -1,5 +1,7 @@
 # Dawn of the Beast
 
+[Compare across authors](../../compare/?t=film-dawn-of-the-beast_786584)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 23m • Horror, Thriller • mobe1969**

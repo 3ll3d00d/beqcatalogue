@@ -1,5 +1,7 @@
 # Guardians of the Galaxy
 
+[Compare across authors](../../compare/?t=film-guardians-of-the-galaxy_118340)
+
 ## Atmos
 
 **2014 • PG-13 • 2h 1m • Action, Science Fiction, Adventure • mobe1969**

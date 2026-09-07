@@ -1,5 +1,7 @@
 # Mortal Kombat: Annihilation
 
+[Compare across authors](../../compare/?t=film-mortal-kombat-annihilation_9823)
+
 ## DD+ 5.1
 
 **1998 • PG-13 • 1h 35m • Action, Fantasy, Science Fiction • mobe1969**

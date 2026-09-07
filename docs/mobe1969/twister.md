@@ -1,5 +1,7 @@
 # Twister
 
+[Compare across authors](../../compare/?t=film-twister_664)
+
 ## Atmos
 
 **1996 • PG-13 • 1h 53m • Action, Adventure, Drama • mobe1969**

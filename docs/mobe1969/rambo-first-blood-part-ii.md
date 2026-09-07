@@ -1,5 +1,7 @@
 # Rambo: First Blood Part II
 
+[Compare across authors](../../compare/?t=film-rambo-first-blood-part-ii_1369)
+
 ## DTS-HD MA 5.1
 
 **1985 • R • 1h 36m • Action, Adventure, Thriller, War • mobe1969**

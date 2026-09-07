@@ -1,5 +1,7 @@
 # Sudden Death
 
+[Compare across authors](../../compare/?t=film-sudden-death_9091)
+
 ## DD+ 5.1
 
 **1995 • R • 1h 46m • Action, Adventure, Thriller, Drama • mobe1969**

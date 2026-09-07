@@ -1,5 +1,7 @@
 # Paprika
 
+[Compare across authors](../../compare/?t=film-paprika_4977)
+
 ## DD+ 5.1
 
 **2006 • R • 1h 30m • Japanese • Animation, Mystery, Science Fiction, Thriller • mobe1969**

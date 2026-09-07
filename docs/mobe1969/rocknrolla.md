@@ -1,5 +1,7 @@
 # RocknRolla
 
+[Compare across authors](../../compare/?t=film-rocknrolla_13809)
+
 ## TrueHD 5.1
 
 **2008 • R • 1h 54m • Action, Crime, Thriller • mobe1969**

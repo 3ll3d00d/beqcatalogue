@@ -1,5 +1,7 @@
 # Redacted
 
+[Compare across authors](../../compare/?t=film-redacted_11600)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 30m • Drama, Crime, Thriller, War • mobe1969**

@@ -1,5 +1,7 @@
 # Quantum of Solace
 
+[Compare across authors](../../compare/?t=film-quantum-of-solace_10764)
+
 ## DD+ 5.1
 
 **2008 • PG-13 • 1h 46m • Adventure, Action, Thriller, Crime • mobe1969**

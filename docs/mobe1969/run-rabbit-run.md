@@ -1,5 +1,7 @@
 # Run Rabbit Run
 
+[Compare across authors](../../compare/?t=film-run-rabbit-run_714669)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 40m • Horror, Mystery • mobe1969**

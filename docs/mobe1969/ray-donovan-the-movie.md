@@ -1,5 +1,7 @@
 # Ray Donovan: The Movie
 
+[Compare across authors](../../compare/?t=film-ray-donovan-the-movie_800425)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 40m • Drama, TV Movie • mobe1969**

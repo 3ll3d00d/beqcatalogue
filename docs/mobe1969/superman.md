@@ -1,5 +1,7 @@
 # Superman
 
+[Compare across authors](../../compare/?t=film-superman_1924)
+
 ## Atmos
 
 Theatrical Cut

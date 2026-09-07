@@ -1,5 +1,7 @@
 # Death Note: Light Up the New World
 
+[Compare across authors](../../compare/?t=film-death-note-light-up-the-new-world_382272)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 2h 15m • Japanese • Fantasy, Mystery, Thriller • mobe1969**

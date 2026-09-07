@@ -1,5 +1,7 @@
 # Trigun: Badlands Rumble
 
+[Compare across authors](../../compare/?t=film-trigun-badlands-rumble_51859)
+
 ## TrueHD 5.1
 
 **2010 • 12 • 1h 30m • Japanese • Action, Science Fiction, Animation • mobe1969**

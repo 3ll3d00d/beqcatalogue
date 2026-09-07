@@ -1,5 +1,7 @@
 # Whiskey Tango Foxtrot
 
+[Compare across authors](../../compare/?t=film-whiskey-tango-foxtrot_279641)
+
 ## DTS-X
 
 **2016 • R • 1h 52m • Comedy, Drama, War • mobe1969**

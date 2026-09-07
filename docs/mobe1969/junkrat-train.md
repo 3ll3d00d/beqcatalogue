@@ -1,5 +1,7 @@
 # Junkrat Train
 
+[Compare across authors](../../compare/?t=film-junkrat-train_783701)
+
 ## DTS-HD MA 2.0
 
 **2021 • NR • 1h 32m • Mandarin • Horror, Thriller, Mystery • mobe1969**

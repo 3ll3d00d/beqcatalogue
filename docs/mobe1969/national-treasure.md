@@ -1,5 +1,7 @@
 # National Treasure
 
+[Compare across authors](../../compare/?t=film-national-treasure_2059)
+
 ## DD+ 5.1, DD 5.1
 
 **2004 • PG • 2h 11m • Adventure, Action, Thriller, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # The Disappearance of Alice Creed
 
+[Compare across authors](../../compare/?t=film-the-disappearance-of-alice-creed_38542)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 40m • Thriller, Drama, Crime • mobe1969**

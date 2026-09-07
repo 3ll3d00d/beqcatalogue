@@ -1,5 +1,7 @@
 # Unstoppable
 
+[Compare across authors](../../compare/?t=film-unstoppable_44048)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 38m • Action, Thriller • mobe1969**

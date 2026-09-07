@@ -1,5 +1,7 @@
 # Force 10 from Navarone
 
+[Compare across authors](../../compare/?t=film-force-10-from-navarone_17339)
+
 ## DTS-HD MA 5.1
 
 **1978 • PG • 2h 6m • Drama, Adventure, War • mobe1969**

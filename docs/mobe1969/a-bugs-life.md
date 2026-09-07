@@ -1,5 +1,7 @@
 # A Bug's Life
 
+[Compare across authors](../../compare/?t=film-a-bugs-life_9487)
+
 ## Atmos
 
 **1998 • G • 1h 35m • Adventure, Animation, Comedy, Family • mobe1969**

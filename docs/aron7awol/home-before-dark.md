@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-home-before-dark_98161)
+
 ## Season 1
 
 * DD+ Atmos

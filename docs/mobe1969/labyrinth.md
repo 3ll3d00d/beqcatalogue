@@ -1,5 +1,7 @@
 # Labyrinth
 
+[Compare across authors](../../compare/?t=film-labyrinth_13597)
+
 ## Atmos
 
 **1986 • PG • 1h 42m • Adventure, Family, Fantasy • mobe1969**

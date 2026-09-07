@@ -1,5 +1,7 @@
 # Ashfall
 
+[Compare across authors](../../compare/?t=film-ashfall_581387)
+
 ## TrueHD 5.1
 
 **2019 • 16 • 2h 8m • Korean • Adventure, Action, Thriller • mobe1969**

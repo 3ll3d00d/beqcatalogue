@@ -1,5 +1,7 @@
 # Hyena Road
 
+[Compare across authors](../../compare/?t=film-hyena-road_316042)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2015 • R • 2h 0m • War, Drama, Thriller, Action • mobe1969**

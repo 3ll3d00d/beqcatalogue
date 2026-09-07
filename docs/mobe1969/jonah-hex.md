@@ -1,5 +1,7 @@
 # Jonah Hex
 
+[Compare across authors](../../compare/?t=film-jonah-hex_20533)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 21m • Action, Western, Drama, Fantasy, Thriller • mobe1969**

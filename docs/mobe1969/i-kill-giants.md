@@ -1,5 +1,7 @@
 # I Kill Giants
 
+[Compare across authors](../../compare/?t=film-i-kill-giants_419831)
+
 ## DD+ 5.1
 
 **2018 • PG-13 • 1h 46m • Fantasy, Drama • mobe1969**

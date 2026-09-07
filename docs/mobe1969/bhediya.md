@@ -1,5 +1,7 @@
 # Bhediya
 
+[Compare across authors](../../compare/?t=film-bhediya_799177)
+
 ## DD 5.1
 
 **2022 • NR • 2h 22m • Hindi • Comedy, Fantasy, Horror • mobe1969**

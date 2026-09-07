@@ -1,5 +1,7 @@
 # The Resistance Banker
 
+[Compare across authors](../../compare/?t=film-the-resistance-banker_497916)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 4m • Dutch • War, Drama • mobe1969**

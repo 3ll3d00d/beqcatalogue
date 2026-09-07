@@ -1,5 +1,7 @@
 # Darfur
 
+[Compare across authors](../../compare/?t=film-darfur_46217)
+
 ## DTS-HD MA 5.1
 
 **2009 • 18 • 1h 38m • Thriller, Action, Drama • mobe1969**

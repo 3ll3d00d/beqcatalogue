@@ -1,5 +1,7 @@
 # Infernal Affairs II
 
+[Compare across authors](../../compare/?t=film-infernal-affairs-ii_11647)
+
 ## Atmos
 
 **2003 • NR • 1h 59m • Cantonese • Action, Thriller, Crime • mobe1969**

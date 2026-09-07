@@ -1,5 +1,7 @@
 # Unforgiven
 
+[Compare across authors](../../compare/?t=film-unforgiven_33)
+
 ## DTS-HD MA 5.1
 
 **1992 • R • 2h 10m • Western • mobe1969**

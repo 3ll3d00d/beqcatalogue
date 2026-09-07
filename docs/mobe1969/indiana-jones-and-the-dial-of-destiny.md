@@ -1,5 +1,7 @@
 # Indiana Jones and the Dial of Destiny
 
+[Compare across authors](../../compare/?t=film-indiana-jones-and-the-dial-of-destiny_335977)
+
 ## DD+ Atmos
 
 **2023 • PG-13 • 2h 35m • Adventure, Action, Fantasy • mobe1969**

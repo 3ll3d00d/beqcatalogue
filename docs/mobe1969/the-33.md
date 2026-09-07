@@ -1,5 +1,7 @@
 # The 33
 
+[Compare across authors](../../compare/?t=film-the-33_293646)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 2h 0m • History, Drama • mobe1969**

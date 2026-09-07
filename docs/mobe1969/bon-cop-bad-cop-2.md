@@ -1,5 +1,7 @@
 # Bon Cop Bad Cop 2
 
+[Compare across authors](../../compare/?t=film-bon-cop-bad-cop-2_417489)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 6m • French • Crime, Comedy • mobe1969**

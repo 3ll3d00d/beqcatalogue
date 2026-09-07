@@ -1,5 +1,7 @@
 # IO
 
+[Compare across authors](../../compare/?t=film-io_433249)
+
 ## DD+ 5.1
 
 **2019 • PG-13 • 1h 36m • Science Fiction • mobe1969**

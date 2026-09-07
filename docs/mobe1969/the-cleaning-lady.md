@@ -1,5 +1,7 @@
 # The Cleaning Lady
 
+[Compare across authors](../../compare/?t=film-the-cleaning-lady_534271)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 30m • Horror, Thriller • mobe1969**

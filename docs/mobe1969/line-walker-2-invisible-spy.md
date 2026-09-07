@@ -1,5 +1,7 @@
 # Line Walker 2: Invisible Spy
 
+[Compare across authors](../../compare/?t=film-line-walker-2-invisible-spy_589157)
+
 ## Atmos
 
 **2019 • NR • 1h 38m • Cantonese • Drama, Action, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Running on Karma
 
+[Compare across authors](../../compare/?t=film-running-on-karma_32233)
+
 ## TrueHD 7.1
 
 **2003 • NR • 1h 33m • Cantonese • Thriller, Action, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Money Plane
 
+[Compare across authors](../../compare/?t=film-money-plane_694919)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 22m • Action, Crime • mobe1969**

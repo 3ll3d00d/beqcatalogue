@@ -1,5 +1,7 @@
 # Red Dot
 
+[Compare across authors](../../compare/?t=film-red-dot_649087)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 26m • Swedish • Thriller • mobe1969**

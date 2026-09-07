@@ -1,5 +1,7 @@
 # Golden Job
 
+[Compare across authors](../../compare/?t=film-golden-job_531380)
+
 ## DTS-HD MA 5.1, TrueHD 5.1
 
 **2018 • NR • 1h 40m • Cantonese • Action, Adventure, Crime • mobe1969**

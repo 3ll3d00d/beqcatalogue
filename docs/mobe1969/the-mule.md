@@ -1,5 +1,7 @@
 # The Mule
 
+[Compare across authors](../../compare/?t=film-the-mule_146955)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 36m • Crime, Thriller • mobe1969**

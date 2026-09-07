@@ -1,5 +1,7 @@
 # The Bourne Ultimatum
 
+[Compare across authors](../../compare/?t=film-the-bourne-ultimatum_2503)
+
 ## DD+ 5.1
 
 **2007 • PG-13 • 1h 55m • Action, Drama, Mystery, Thriller • mobe1969**

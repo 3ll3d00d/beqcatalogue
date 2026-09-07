@@ -1,5 +1,7 @@
 # Smurfs: The Lost Village
 
+[Compare across authors](../../compare/?t=film-smurfs-the-lost-village_137116)
+
 ## Atmos, DTS-HD MA 5.1
 
 **2017 • PG • 1h 29m • Family, Adventure, Animation, Comedy • mobe1969**

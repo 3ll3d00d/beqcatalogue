@@ -1,5 +1,7 @@
 # Hellraiser: Inferno
 
+[Compare across authors](../../compare/?t=film-hellraiser-inferno_12597)
+
 ## DTS-HD MA 5.1
 
 **2000 • R • 1h 39m • Mystery, Crime, Thriller, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Haywire
 
+[Compare across authors](../../compare/?t=film-haywire_70435)
+
 ## DTS-HD MA 5.1
 
 **2011 • 15 • 1h 33m • Action, Drama, Thriller • mobe1969**

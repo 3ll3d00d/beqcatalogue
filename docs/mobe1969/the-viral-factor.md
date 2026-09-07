@@ -1,5 +1,7 @@
 # The Viral Factor
 
+[Compare across authors](../../compare/?t=film-the-viral-factor_83706)
+
 ## DTS-HD MA 5.1
 
 **2012 • 18 • 2h 2m • Cantonese • Action, Drama, Thriller • mobe1969**

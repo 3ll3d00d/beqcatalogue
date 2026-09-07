@@ -1,5 +1,7 @@
 # A Turtle's Tale 2: Sammy's Escape from Paradise
 
+[Compare across authors](../../compare/?t=film-a-turtles-tale-2-sammys-escape-from-paradise_113594)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 32m • Adventure, Animation • mobe1969**

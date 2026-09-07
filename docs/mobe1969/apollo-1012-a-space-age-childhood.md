@@ -1,5 +1,7 @@
 # Apollo 10½:  A Space Age Childhood
 
+[Compare across authors](../../compare/?t=film-apollo-1012-a-space-age-childhood_664996)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 1h 38m • Animation, Science Fiction, Family • mobe1969**

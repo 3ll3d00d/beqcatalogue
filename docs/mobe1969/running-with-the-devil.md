@@ -1,5 +1,7 @@
 # Running with the Devil
 
+[Compare across authors](../../compare/?t=film-running-with-the-devil_523077)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 40m • Thriller, Drama, Crime • mobe1969**

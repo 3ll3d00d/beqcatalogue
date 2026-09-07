@@ -1,5 +1,7 @@
 # Lost Bullet
 
+[Compare across authors](../../compare/?t=film-lost-bullet_706503)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 32m • Action, Thriller, Crime • mobe1969**

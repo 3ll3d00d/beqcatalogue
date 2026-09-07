@@ -1,5 +1,7 @@
 # Troll
 
+[Compare across authors](../../compare/?t=film-troll_736526)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 1h 43m • Norwegian • Action, Adventure, Fantasy • mobe1969**

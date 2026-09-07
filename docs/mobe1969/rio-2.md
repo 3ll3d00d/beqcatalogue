@@ -1,5 +1,7 @@
 # Rio 2
 
+[Compare across authors](../../compare/?t=film-rio-2_172385)
+
 ## DTS-HD MA 7.1
 
 **2014 • G • 1h 41m • Adventure, Animation, Comedy, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Déjà Vu
 
+[Compare across authors](../../compare/?t=film-deja-vu_7551)
+
 ## LPCM 5.1, DD+ 5.1
 
 **2006 • PG-13 • 2h 6m • Action, Thriller, Science Fiction • mobe1969**

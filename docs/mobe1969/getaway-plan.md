@@ -1,5 +1,7 @@
 # Getaway Plan
 
+[Compare across authors](../../compare/?t=film-getaway-plan_436827)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 45m • Spanish • Action, Thriller • mobe1969**

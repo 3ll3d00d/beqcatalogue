@@ -1,5 +1,7 @@
 # Nina of the Woods
 
+[Compare across authors](../../compare/?t=film-nina-of-the-woods_702292)
+
 ## DD 5.1
 
 **2020 • NR • 0h 0m • Adventure, Science Fiction, Thriller • mobe1969**

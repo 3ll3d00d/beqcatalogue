@@ -1,5 +1,7 @@
 # Fukrey
 
+[Compare across authors](../../compare/?t=film-fukrey_199139)
+
 ## DD+ 5.1
 
 **2013 • NR • 2h 17m • Hindi • Comedy, Drama, Romance • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-haunting-of-hill-house_72844)
+
 ## Season 1
 
 * DD+ Atmos

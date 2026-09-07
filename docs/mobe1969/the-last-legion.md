@@ -1,5 +1,7 @@
 # The Last Legion
 
+[Compare across authors](../../compare/?t=film-the-last-legion_9703)
+
 ## DTS-HD MA 5.1
 
 **2007 • PG-13 • 1h 42m • Adventure, War, Fantasy, Action • mobe1969**

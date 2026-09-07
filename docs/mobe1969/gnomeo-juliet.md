@@ -1,5 +1,7 @@
 # Gnomeo & Juliet
 
+[Compare across authors](../../compare/?t=film-gnomeo-juliet_45772)
+
 ## DTS-HD MA 5.1
 
 **2011 • G • 1h 24m • Animation, Family • mobe1969**

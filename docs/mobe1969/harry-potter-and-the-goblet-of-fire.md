@@ -1,5 +1,7 @@
 # Harry Potter and the Goblet of Fire
 
+[Compare across authors](../../compare/?t=film-harry-potter-and-the-goblet-of-fire_674)
+
 ## DD+ 5.1
 
 **2005 • PG-13 • 2h 37m • Adventure, Fantasy, Family • mobe1969**

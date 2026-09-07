@@ -1,5 +1,7 @@
 # Child of Kamiari Month
 
+[Compare across authors](../../compare/?t=film-child-of-kamiari-month_628964)
+
 ## DD+ 5.1
 
 **2021 • PG • 1h 40m • Japanese • Animation, Drama, Fantasy, Family • mobe1969**

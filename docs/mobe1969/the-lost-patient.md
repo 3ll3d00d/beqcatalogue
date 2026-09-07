@@ -1,5 +1,7 @@
 # The Lost Patient
 
+[Compare across authors](../../compare/?t=film-the-lost-patient_1006917)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 33m • French • TV Movie, Thriller, Drama, Mystery • mobe1969**

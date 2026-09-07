@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-secret-royal-inspector-joy_130020)
+
 * DD+ 2.0
 
 

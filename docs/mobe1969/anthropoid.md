@@ -1,5 +1,7 @@
 # Anthropoid
 
+[Compare across authors](../../compare/?t=film-anthropoid_351339)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 2h 0m • War, History, Thriller • mobe1969**

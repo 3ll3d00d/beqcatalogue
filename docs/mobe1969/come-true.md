@@ -1,5 +1,7 @@
 # Come True
 
+[Compare across authors](../../compare/?t=film-come-true_515454)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 45m • Science Fiction, Horror • mobe1969**

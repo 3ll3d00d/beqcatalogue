@@ -1,5 +1,7 @@
 # The Bell Keeper
 
+[Compare across authors](../../compare/?t=film-the-bell-keeper_938669)
+
 ## DD+ 5.1
 
 **2023 • NR • 0h 0m • Action, Horror • mobe1969**

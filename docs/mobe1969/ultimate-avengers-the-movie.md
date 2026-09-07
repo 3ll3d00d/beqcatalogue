@@ -1,5 +1,7 @@
 # Ultimate Avengers: The Movie
 
+[Compare across authors](../../compare/?t=film-ultimate-avengers-the-movie_14609)
+
 ## LPCM 7.1
 
 **2006 • PG-13 • 1h 12m • Action, Animation, Family, Adventure, Science Fiction • mobe1969**

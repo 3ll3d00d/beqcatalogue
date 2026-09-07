@@ -1,5 +1,7 @@
 # The Water Man
 
+[Compare across authors](../../compare/?t=film-the-water-man_346687)
+
 ## DD+ 5.1
 
 **2020 • PG • 1h 32m • Adventure • mobe1969**

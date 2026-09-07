@@ -1,5 +1,7 @@
 # The Place Beyond the Pines
 
+[Compare across authors](../../compare/?t=film-the-place-beyond-the-pines_97367)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 2h 20m • Drama, Crime • mobe1969**

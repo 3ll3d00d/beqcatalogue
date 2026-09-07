@@ -1,5 +1,7 @@
 # Slender Man
 
+[Compare across authors](../../compare/?t=film-slender-man_439015)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 33m • Horror, Mystery, Thriller • mobe1969**

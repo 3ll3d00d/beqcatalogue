@@ -1,5 +1,7 @@
 # Die in a Gunfight
 
+[Compare across authors](../../compare/?t=film-die-in-a-gunfight_481879)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 32m • Romance, Action • mobe1969**

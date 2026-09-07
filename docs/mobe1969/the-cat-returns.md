@@ -1,5 +1,7 @@
 # The Cat Returns
 
+[Compare across authors](../../compare/?t=film-the-cat-returns_15370)
+
 ## DTS-HD MA 5.1
 
 **2002 • G • 1h 15m • Japanese • Adventure, Fantasy, Animation, Drama, Family • mobe1969**

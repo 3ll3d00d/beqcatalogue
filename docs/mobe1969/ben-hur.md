@@ -1,5 +1,7 @@
 # Ben-Hur
 
+[Compare across authors](../../compare/?t=film-ben-hur_271969)
+
 ## DTS-HD MA 7.1, DD+ 5.1
 
 **2016 • PG-13 • 2h 5m • Adventure, Action, Drama • mobe1969**

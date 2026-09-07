@@ -1,5 +1,7 @@
 # Spell
 
+[Compare across authors](../../compare/?t=film-spell_621151)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 31m • Thriller, Horror, Fantasy • mobe1969**

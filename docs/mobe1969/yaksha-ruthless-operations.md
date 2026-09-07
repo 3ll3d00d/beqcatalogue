@@ -1,5 +1,7 @@
 # Yaksha: Ruthless Operations
 
+[Compare across authors](../../compare/?t=film-yaksha-ruthless-operations_606402)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 5m • Korean • Action • mobe1969**

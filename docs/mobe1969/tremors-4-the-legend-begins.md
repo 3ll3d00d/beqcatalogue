@@ -1,5 +1,7 @@
 # Tremors 4: The Legend Begins
 
+[Compare across authors](../../compare/?t=film-tremors-4-the-legend-begins_10891)
+
 ## DTS-HD MA 5.1
 
 **2004 • PG-13 • 1h 41m • Horror, Western, Action, Comedy • mobe1969**

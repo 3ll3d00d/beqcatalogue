@@ -1,5 +1,7 @@
 # State of Play
 
+[Compare across authors](../../compare/?t=film-state-of-play_16995)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 2h 7m • Thriller, Drama • mobe1969**

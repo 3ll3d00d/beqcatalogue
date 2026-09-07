@@ -1,5 +1,7 @@
 # Deep Sea
 
+[Compare across authors](../../compare/?t=film-deep-sea_667717)
+
 ## Atmos
 
 **2023 • NR • 1h 45m • Mandarin • Animation, Adventure, Fantasy, Science Fiction • mobe1969**

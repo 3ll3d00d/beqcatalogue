@@ -1,5 +1,7 @@
 # Marked For Death
 
+[Compare across authors](../../compare/?t=film-marked-for-death_10173)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 1h 34m • Action • mobe1969**

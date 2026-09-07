@@ -1,5 +1,7 @@
 # Meet The Blacks 2: The House Next Door
 
+[Compare across authors](../../compare/?t=film-meet-the-blacks-2-the-house-next-door_583116)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 49m • Comedy, Horror • mobe1969**

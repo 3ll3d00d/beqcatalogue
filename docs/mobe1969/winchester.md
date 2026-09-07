@@ -1,5 +1,7 @@
 # Winchester
 
+[Compare across authors](../../compare/?t=film-winchester_416234)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 40m • Fantasy, Thriller, Horror, Mystery • mobe1969**

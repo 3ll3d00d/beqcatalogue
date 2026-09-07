@@ -1,5 +1,7 @@
 # The Snowman
 
+[Compare across authors](../../compare/?t=film-the-snowman_372343)
+
 ## DTS-HD MA 7.1, DD+ 5.1
 
 **2017 • R • 1h 59m • Crime, Thriller • mobe1969**

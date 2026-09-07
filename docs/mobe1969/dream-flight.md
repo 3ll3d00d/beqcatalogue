@@ -1,5 +1,7 @@
 # Dream Flight
 
+[Compare across authors](../../compare/?t=film-dream-flight_336277)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 2h 27m • Mandarin • Romance, Thriller, Drama, Action • mobe1969**

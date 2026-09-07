@@ -1,5 +1,7 @@
 # The Prey
 
+[Compare across authors](../../compare/?t=film-the-prey_545572)
+
 ## DD+ 2.0
 
 **2018 • NR • 1h 34m • Mandarin • Adventure, Action, Crime • mobe1969**

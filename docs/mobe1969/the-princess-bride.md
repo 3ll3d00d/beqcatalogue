@@ -1,5 +1,7 @@
 # The Princess Bride
 
+[Compare across authors](../../compare/?t=film-the-princess-bride_2493)
+
 ## DD+ 5.1
 
 **1987 • PG • 1h 39m • Adventure, Family, Fantasy, Comedy, Romance • mobe1969**

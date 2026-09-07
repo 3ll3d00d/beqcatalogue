@@ -1,5 +1,7 @@
 # Revolver
 
+[Compare across authors](../../compare/?t=film-revolver_10851)
+
 ## TrueHD 5.1
 
 **2005 • R • 1h 51m • Crime, Mystery, Drama, Thriller • mobe1969**

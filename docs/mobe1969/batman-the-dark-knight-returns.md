@@ -1,5 +1,7 @@
 # Batman: The Dark Knight Returns
 
+[Compare across authors](../../compare/?t=film-batman-the-dark-knight-returns_123025)
+
 ## DTS-HD MA 5.1
 
 Part I and II

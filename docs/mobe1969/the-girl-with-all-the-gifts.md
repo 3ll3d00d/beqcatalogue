@@ -1,5 +1,7 @@
 # The Girl With All The Gifts
 
+[Compare across authors](../../compare/?t=film-the-girl-with-all-the-gifts_375366)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 50m • Action, Horror, Science Fiction • mobe1969**

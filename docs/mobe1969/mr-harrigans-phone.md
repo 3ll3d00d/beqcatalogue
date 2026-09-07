@@ -1,5 +1,7 @@
 # Mr. Harrigan's Phone
 
+[Compare across authors](../../compare/?t=film-mr-harrigans-phone_723419)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 1h 45m • Horror • mobe1969**

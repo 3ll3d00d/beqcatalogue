@@ -1,5 +1,7 @@
 # Shark Tale
 
+[Compare across authors](../../compare/?t=film-shark-tale_10555)
+
 ## DD+ 5.1
 
 **2004 • PG • 1h 30m • Animation, Action, Comedy, Family • mobe1969**

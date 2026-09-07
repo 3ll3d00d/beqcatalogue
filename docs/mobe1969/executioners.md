@@ -1,5 +1,7 @@
 # Executioners
 
+[Compare across authors](../../compare/?t=film-executioners_58311)
+
 ## DTS-HD MA 5.1
 
 **1993 • R • 1h 41m • Cantonese • Action, Comedy, Science Fiction • mobe1969**

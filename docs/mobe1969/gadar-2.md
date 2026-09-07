@@ -1,5 +1,7 @@
 # Gadar 2
 
+[Compare across authors](../../compare/?t=film-gadar-2_885331)
+
 ## DD+ Atmos
 
 **2023 • NR • 2h 48m • Hindi • Action, Drama, Thriller • mobe1969**

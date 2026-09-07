@@ -1,5 +1,7 @@
 # Tag
 
+[Compare across authors](../../compare/?t=film-tag_340176)
+
 ## DTS-HD MA 5.1
 
 **2015 • 18 • 1h 25m • Japanese • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # On the Edge
 
+[Compare across authors](../../compare/?t=film-on-the-edge_36931)
+
 ## DTS-HD MA 7.1
 
 **2006 • NR • 1h 28m • Cantonese • Drama, Action, Thriller, Crime • mobe1969**

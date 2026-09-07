@@ -1,5 +1,7 @@
 # Already Gone
 
+[Compare across authors](../../compare/?t=film-already-gone_623582)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 33m • Drama • mobe1969**

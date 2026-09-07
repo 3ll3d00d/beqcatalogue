@@ -1,5 +1,7 @@
 # The Hurt Locker
 
+[Compare across authors](../../compare/?t=film-the-hurt-locker_12162)
+
 ## Atmos
 
 **2008 • R • 2h 11m • Drama, Thriller, War • mobe1969**

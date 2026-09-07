@@ -1,5 +1,7 @@
 # Born to Raise Hell
 
+[Compare across authors](../../compare/?t=film-born-to-raise-hell_46103)
+
 ## DTS-HD MA 5.1
 
 **2010 • 18 • 1h 38m • Action, Thriller • mobe1969**

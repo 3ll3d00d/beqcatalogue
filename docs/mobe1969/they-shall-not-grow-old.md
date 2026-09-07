@@ -1,5 +1,7 @@
 # They Shall Not Grow Old
 
+[Compare across authors](../../compare/?t=film-they-shall-not-grow-old_543580)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 39m • Documentary, History, War • mobe1969**

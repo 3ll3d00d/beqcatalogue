@@ -1,5 +1,7 @@
 # Outpost
 
+[Compare across authors](../../compare/?t=film-outpost_9017)
+
 ## DD 5.1
 
 **2008 • R • 1h 30m • Action, Adventure, Horror • mobe1969**

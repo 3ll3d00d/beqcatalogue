@@ -1,5 +1,7 @@
 # Final Fantasy: The Spirits Within
 
+[Compare across authors](../../compare/?t=film-final-fantasy-the-spirits-within_2114)
+
 ## Atmos
 
 **2001 • PG-13 • 1h 46m • Adventure, Action, Animation, Fantasy, Science Fiction, Thriller, Romance • mobe1969**

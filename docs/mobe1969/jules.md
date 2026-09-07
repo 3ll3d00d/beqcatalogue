@@ -1,5 +1,7 @@
 # Jules
 
+[Compare across authors](../../compare/?t=film-jules_1072371)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 27m • Science Fiction, Comedy, Drama • mobe1969**

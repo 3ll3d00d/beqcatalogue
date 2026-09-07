@@ -1,5 +1,7 @@
 # The Witcher: Nightmare of the Wolf
 
+[Compare across authors](../../compare/?t=film-the-witcher-nightmare-of-the-wolf_666243)
+
 ## DD+ Atmos
 
 **2021 • R • 1h 23m • Animation, Action, Fantasy • mobe1969**

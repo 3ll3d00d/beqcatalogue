@@ -1,5 +1,7 @@
 # Sound of Metal
 
+[Compare across authors](../../compare/?t=film-sound-of-metal_502033)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 2h 1m • Drama • mobe1969**

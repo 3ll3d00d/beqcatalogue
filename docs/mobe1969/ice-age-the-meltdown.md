@@ -1,5 +1,7 @@
 # Ice Age: The Meltdown
 
+[Compare across authors](../../compare/?t=film-ice-age-the-meltdown_950)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG • 1h 31m • Animation, Family, Comedy, Adventure • mobe1969**

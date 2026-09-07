@@ -1,5 +1,7 @@
 # Amandla
 
+[Compare across authors](../../compare/?t=film-amandla_926180)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 46m • Zulu • Crime, Drama • mobe1969**

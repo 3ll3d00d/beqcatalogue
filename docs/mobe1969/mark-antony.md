@@ -1,5 +1,7 @@
 # Mark Antony
 
+[Compare across authors](../../compare/?t=film-mark-antony_922087)
+
 ## DD+ 5.1
 
 **2023 • 12A • 2h 31m • Tamil • Science Fiction, Action, Comedy • mobe1969**

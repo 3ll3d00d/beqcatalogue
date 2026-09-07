@@ -1,5 +1,7 @@
 # Ip Man: The Awakening
 
+[Compare across authors](../../compare/?t=film-ip-man-the-awakening_875104)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 20m • Mandarin • Action, Drama, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Neerja
 
+[Compare across authors](../../compare/?t=film-neerja_376869)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 2h 2m • Hindi • Drama, Thriller • mobe1969**

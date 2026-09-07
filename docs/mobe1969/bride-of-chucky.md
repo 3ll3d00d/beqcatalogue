@@ -1,5 +1,7 @@
 # Bride of Chucky
 
+[Compare across authors](../../compare/?t=film-bride-of-chucky_11932)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 29m • Horror, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Final Destination 3
 
+[Compare across authors](../../compare/?t=film-final-destination-3_9286)
+
 ## TrueHD 5.1
 
 **2006 • R • 1h 33m • Horror, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # The Girl Next Door
 
+[Compare across authors](../../compare/?t=film-the-girl-next-door_15356)
+
 ## DD 5.1
 
 **2007 • R • 1h 31m • Horror, Thriller, Drama, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Rock Dog
 
+[Compare across authors](../../compare/?t=film-rock-dog_333667)
+
 ## DD+ 5.1
 
 **2016 • PG • 1h 30m • Adventure, Animation, Comedy, Family, Music • mobe1969**

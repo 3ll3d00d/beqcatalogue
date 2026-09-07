@@ -1,5 +1,7 @@
 # Stretch
 
+[Compare across authors](../../compare/?t=film-stretch_227300)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 34m • Action, Comedy, Thriller • mobe1969**

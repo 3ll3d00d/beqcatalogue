@@ -1,5 +1,7 @@
 # 20th Century Girl
 
+[Compare across authors](../../compare/?t=film-20th-century-girl_851644)
+
 ## DD+ Atmos
 
 **2022 • NR • 1h 59m • Korean • Romance, Drama • mobe1969**

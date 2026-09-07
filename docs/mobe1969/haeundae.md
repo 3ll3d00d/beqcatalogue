@@ -1,5 +1,7 @@
 # Haeundae
 
+[Compare across authors](../../compare/?t=film-haeundae_33196)
+
 ## DTS-HD MA 5.1
 
 **2009 • U • 2h 0m • Korean • Action, Drama, Thriller, Adventure • mobe1969**

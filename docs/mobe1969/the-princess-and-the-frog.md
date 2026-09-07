@@ -1,5 +1,7 @@
 # The Princess and the Frog
 
+[Compare across authors](../../compare/?t=film-the-princess-and-the-frog_10198)
+
 ## DD+ Atmos
 
 **2009 • G • 1h 38m • Romance, Family, Animation • mobe1969**

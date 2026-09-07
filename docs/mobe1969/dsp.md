@@ -1,5 +1,7 @@
 # DSP
 
+[Compare across authors](../../compare/?t=film-dsp_806920)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 2m • Tamil • Action, Drama • mobe1969**

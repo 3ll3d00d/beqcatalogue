@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-women-at-war_155491)
+
 ## Season 1
 
 * DD+ 5.1

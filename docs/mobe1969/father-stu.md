@@ -1,5 +1,7 @@
 # Father Stu
 
+[Compare across authors](../../compare/?t=film-father-stu_809140)
+
 ## DD+ 5.1
 
 **2022 • R • 2h 4m • Drama • mobe1969**

@@ -1,5 +1,7 @@
 # CBI 5: The Brain
 
+[Compare across authors](../../compare/?t=film-cbi-5-the-brain_569118)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 43m • Malayalam • Crime, Thriller • mobe1969**

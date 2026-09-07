@@ -1,5 +1,7 @@
 # Bad Teacher
 
+[Compare across authors](../../compare/?t=film-bad-teacher_52449)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

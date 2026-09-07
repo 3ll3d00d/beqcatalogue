@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-dirk-gentlys-holistic-detective-agency_67773)
+
 ## Season 1
 
 * DD+ 5.1

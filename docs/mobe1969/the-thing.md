@@ -1,5 +1,7 @@
 # The Thing
 
+[Compare across authors](../../compare/?t=film-the-thing_1091)
+
 ## DTS-HD MA 4.1
 
 **1982 • R • 1h 49m • Horror, Mystery, Science Fiction • mobe1969**

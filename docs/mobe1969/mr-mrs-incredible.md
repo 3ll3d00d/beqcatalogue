@@ -1,5 +1,7 @@
 # Mr. & Mrs. Incredible
 
+[Compare across authors](../../compare/?t=film-mr-mrs-incredible_59499)
+
 ## TrueHD 5.1
 
 **2011 • NR • 1h 40m • Cantonese • Action, Comedy, Romance • mobe1969**

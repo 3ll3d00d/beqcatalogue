@@ -1,5 +1,7 @@
 # Wild City
 
+[Compare across authors](../../compare/?t=film-wild-city_338421)
+
 ## TrueHD 5.1
 
 **2015 • NR • 1h 42m • Cantonese • Thriller, Action, Crime • mobe1969**

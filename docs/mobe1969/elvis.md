@@ -1,5 +1,7 @@
 # Elvis
 
+[Compare across authors](../../compare/?t=film-elvis_614934)
+
 ## Atmos
 
 **2022 • PG-13 • 2h 39m • Drama, History, Music • mobe1969**

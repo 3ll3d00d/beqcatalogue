@@ -1,5 +1,7 @@
 # Student of the Year 2
 
+[Compare across authors](../../compare/?t=film-student-of-the-year-2_503129)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 26m • Hindi • Romance, Comedy, Drama • mobe1969**

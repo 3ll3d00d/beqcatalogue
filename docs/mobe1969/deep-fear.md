@@ -1,5 +1,7 @@
 # Deep Fear
 
+[Compare across authors](../../compare/?t=film-deep-fear_899445)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 24m • Horror, Thriller, Action • mobe1969**

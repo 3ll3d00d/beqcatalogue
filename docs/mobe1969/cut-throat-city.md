@@ -1,5 +1,7 @@
 # Cut Throat City
 
+[Compare across authors](../../compare/?t=film-cut-throat-city_493065)
+
 ## DTS-HD MA 5.1
 
 **2020 • 15 • 2h 3m • Action, Crime, Drama, Thriller • mobe1969**

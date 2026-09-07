@@ -1,5 +1,7 @@
 # Brimstone
 
+[Compare across authors](../../compare/?t=film-brimstone_324560)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 2h 28m • Mystery, Thriller, Western, Drama • mobe1969**

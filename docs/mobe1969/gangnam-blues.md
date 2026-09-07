@@ -1,5 +1,7 @@
 # Gangnam Blues
 
+[Compare across authors](../../compare/?t=film-gangnam-blues_297721)
+
 ## TrueHD 5.1
 
 **2015 • NR • 2h 15m • Korean • Action, Crime, Thriller • mobe1969**

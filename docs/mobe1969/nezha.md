@@ -1,5 +1,7 @@
 # Nezha
 
+[Compare across authors](../../compare/?t=film-nezha_781456)
+
 ## TrueHD 5.1
 
 **2021 • NR • 1h 45m • Mandarin • Drama • mobe1969**

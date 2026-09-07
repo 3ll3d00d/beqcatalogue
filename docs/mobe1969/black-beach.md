@@ -1,5 +1,7 @@
 # Black Beach
 
+[Compare across authors](../../compare/?t=film-black-beach_735129)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 55m • Spanish • Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Bodyguard
 
+[Compare across authors](../../compare/?t=film-bodyguard_73582)
+
 ## DTS-HD MA 5.1, LPCM 5.1
 
 **2011 • NR • 2h 14m • Hindi • Drama, Action, Romance • mobe1969**

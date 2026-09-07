@@ -1,5 +1,7 @@
 # Mission of Honor
 
+[Compare across authors](../../compare/?t=film-mission-of-honor_335788)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 45m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Narvik
 
+[Compare across authors](../../compare/?t=film-narvik_619930)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 48m • Norwegian • War, Drama, History, Action • mobe1969**

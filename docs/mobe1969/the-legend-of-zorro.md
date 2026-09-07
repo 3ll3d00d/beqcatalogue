@@ -1,5 +1,7 @@
 # The Legend of Zorro
 
+[Compare across authors](../../compare/?t=film-the-legend-of-zorro_1656)
+
 ## Atmos
 
 **2005 • PG • 2h 9m • Action, Adventure, Western • mobe1969**

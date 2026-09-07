@@ -1,5 +1,7 @@
 # Gallowwalkers
 
+[Compare across authors](../../compare/?t=film-gallowwalkers_46429)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 30m • Action, Western, Horror • mobe1969**

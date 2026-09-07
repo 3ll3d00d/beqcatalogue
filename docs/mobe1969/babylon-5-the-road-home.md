@@ -1,5 +1,7 @@
 # Babylon 5: The Road Home
 
+[Compare across authors](../../compare/?t=film-babylon-5-the-road-home_1121575)
+
 ## DTS-HD MA 5.1
 
 **2023 • PG-13 • 1h 20m • Science Fiction, Animation, Action, Adventure • mobe1969**

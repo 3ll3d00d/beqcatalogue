@@ -1,5 +1,7 @@
 # Monk Comes Down the Mountain
 
+[Compare across authors](../../compare/?t=film-monk-comes-down-the-mountain_345235)
+
 ## DD+ 5.1
 
 **2015 • NR • 1h 53m • Cantonese • Action, Comedy • mobe1969**

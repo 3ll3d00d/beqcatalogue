@@ -1,5 +1,7 @@
 # Cosmic Sin
 
+[Compare across authors](../../compare/?t=film-cosmic-sin_681887)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2021 • R • 1h 28m • Action, Adventure, Science Fiction • mobe1969**

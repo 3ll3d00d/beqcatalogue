@@ -1,5 +1,7 @@
 # Ned Kelly
 
+[Compare across authors](../../compare/?t=film-ned-kelly_10544)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 50m • Action, Adventure, Drama, History • mobe1969**

@@ -1,5 +1,7 @@
 # Bone Tomahawk
 
+[Compare across authors](../../compare/?t=film-bone-tomahawk_294963)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 2h 12m • Western, Horror, History • mobe1969**

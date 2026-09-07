@@ -1,5 +1,7 @@
 # The Simpsons Movie
 
+[Compare across authors](../../compare/?t=film-the-simpsons-movie_35)
+
 ## DTS-HD MA 5.1
 
 **2007 • PG-13 • 1h 27m • Family, Animation, Comedy • mobe1969**

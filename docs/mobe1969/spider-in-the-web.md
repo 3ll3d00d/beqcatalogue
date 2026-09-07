@@ -1,5 +1,7 @@
 # Spider in the Web
 
+[Compare across authors](../../compare/?t=film-spider-in-the-web_513413)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 53m • Thriller • mobe1969**

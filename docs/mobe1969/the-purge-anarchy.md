@@ -1,5 +1,7 @@
 # The Purge: Anarchy
 
+[Compare across authors](../../compare/?t=film-the-purge-anarchy_238636)
+
 ## DTS-X, DD+ 5.1
 
 **2014 • R • 1h 44m • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # HiGH&LOW The Movie
 
+[Compare across authors](../../compare/?t=film-highlow-the-movie_436356)
+
 ## DD+ 5.1
 
 **2016 • NR • 2h 9m • Japanese • Action • mobe1969**

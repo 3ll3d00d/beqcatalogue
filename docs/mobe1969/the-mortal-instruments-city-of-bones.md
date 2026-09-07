@@ -1,5 +1,7 @@
 # The Mortal Instruments: City of Bones
 
+[Compare across authors](../../compare/?t=film-the-mortal-instruments-city-of-bones_123553)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 2h 10m • Fantasy, Action, Mystery • mobe1969**

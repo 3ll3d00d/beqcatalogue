@@ -1,5 +1,7 @@
 # Uncanny
 
+[Compare across authors](../../compare/?t=film-uncanny_137333)
+
 ## DTS-HD MA 5.1
 
 **2015 • 15 • 1h 31m • Science Fiction, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Firestorm
 
+[Compare across authors](../../compare/?t=film-firestorm_244114)
+
 ## TrueHD 7.1
 
 **2014 • NR • 1h 45m • Cantonese • Drama, Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Coraline
 
+[Compare across authors](../../compare/?t=film-coraline_14836)
+
 ## Atmos
 
 **2009 • PG • 1h 40m • Animation, Family, Fantasy • mobe1969**

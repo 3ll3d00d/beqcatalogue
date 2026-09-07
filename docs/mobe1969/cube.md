@@ -1,5 +1,7 @@
 # Cube
 
+[Compare across authors](../../compare/?t=film-cube_431)
+
 ## DD+ 5.1
 
 **1997 • R • 1h 30m • Thriller, Science Fiction, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Full Metal Jacket
 
+[Compare across authors](../../compare/?t=film-full-metal-jacket_600)
+
 ## DTS-HD MA 5.1
 
 **1987 • R • 1h 57m • Drama, War • mobe1969**

@@ -1,5 +1,7 @@
 # Cloudy with a Chance of Meatballs
 
+[Compare across authors](../../compare/?t=film-cloudy-with-a-chance-of-meatballs_22794)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2009 • PG • 1h 30m • Family, Comedy, Animation • mobe1969**

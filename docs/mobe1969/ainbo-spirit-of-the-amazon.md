@@ -1,5 +1,7 @@
 # AINBO: Spirit of the Amazon
 
+[Compare across authors](../../compare/?t=film-ainbo-spirit-of-the-amazon_588921)
+
 ## DD+ 5.1
 
 **2021 • PG • 1h 24m • Adventure, Animation, Family, Fantasy • mobe1969**

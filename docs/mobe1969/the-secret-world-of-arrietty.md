@@ -1,5 +1,7 @@
 # The Secret World of Arrietty
 
+[Compare across authors](../../compare/?t=film-the-secret-world-of-arrietty_51739)
+
 ## DTS-HD MA 5.1
 
 **2010 • G • 1h 34m • Fantasy, Animation, Family • mobe1969**

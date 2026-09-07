@@ -1,5 +1,7 @@
 # Bounty Hunters
 
+[Compare across authors](../../compare/?t=film-bounty-hunters_388764)
+
 ## TrueHD 5.1
 
 **2016 • 12A • 1h 46m • Cantonese • Action, Adventure, Comedy, Drama • mobe1969**

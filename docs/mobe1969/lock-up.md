@@ -1,5 +1,7 @@
 # Lock Up
 
+[Compare across authors](../../compare/?t=film-lock-up_9972)
+
 ## DTS-HD MA 5.1
 
 **1989 • R • 1h 55m • Action, Crime • mobe1969**

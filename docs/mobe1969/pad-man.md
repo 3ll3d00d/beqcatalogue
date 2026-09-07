@@ -1,5 +1,7 @@
 # Pad Man
 
+[Compare across authors](../../compare/?t=film-pad-man_447856)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 20m • Hindi • Comedy, Drama • mobe1969**

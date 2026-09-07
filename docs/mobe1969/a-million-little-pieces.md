@@ -1,5 +1,7 @@
 # A Million Little Pieces
 
+[Compare across authors](../../compare/?t=film-a-million-little-pieces_499566)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 53m • Drama • mobe1969**

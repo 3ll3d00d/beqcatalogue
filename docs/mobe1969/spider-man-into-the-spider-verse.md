@@ -1,5 +1,7 @@
 # Spider-Man: Into the Spider-Verse
 
+[Compare across authors](../../compare/?t=film-spider-man-into-the-spider-verse_324857)
+
 ## Atmos, DTS-HD MA 5.1
 
 **2018 • PG • 1h 57m • Action, Adventure, Animation, Science Fiction • mobe1969**

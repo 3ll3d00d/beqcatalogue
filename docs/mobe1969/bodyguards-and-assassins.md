@@ -1,5 +1,7 @@
 # Bodyguards and Assassins
 
+[Compare across authors](../../compare/?t=film-bodyguards-and-assassins_30596)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 2h 19m • Mandarin • Drama, Action, History • mobe1969**

@@ -1,5 +1,7 @@
 # The Deal
 
+[Compare across authors](../../compare/?t=film-the-deal_718919)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 32m • Science Fiction • mobe1969**

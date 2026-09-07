@@ -1,5 +1,7 @@
 # You People
 
+[Compare across authors](../../compare/?t=film-you-people_866413)
+
 ## DD+ Atmos
 
 **2023 • NR • 1h 57m • Comedy, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Resident Evil: Extinction
 
+[Compare across authors](../../compare/?t=film-resident-evil-extinction_7737)
+
 ## Atmos
 
 **2007 • R • 1h 34m • Horror, Action, Science Fiction • mobe1969**

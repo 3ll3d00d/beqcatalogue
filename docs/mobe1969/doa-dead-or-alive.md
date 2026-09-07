@@ -1,5 +1,7 @@
 # DOA: Dead or Alive
 
+[Compare across authors](../../compare/?t=film-doa-dead-or-alive_9053)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 1h 27m • Action, Adventure, Thriller • mobe1969**

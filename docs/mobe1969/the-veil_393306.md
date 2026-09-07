@@ -1,5 +1,7 @@
 # The Veil
 
+[Compare across authors](../../compare/?t=film-the-veil_393306)
+
 ## DTS-HD MA 5.1
 
 **2017 • 15 • 1h 26m • Action, Adventure, Science Fiction • mobe1969**

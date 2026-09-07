@@ -1,5 +1,7 @@
 # The Magician
 
+[Compare across authors](../../compare/?t=film-the-magician_366654)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 2h 2m • Korean • Drama, Romance, Fantasy • mobe1969**

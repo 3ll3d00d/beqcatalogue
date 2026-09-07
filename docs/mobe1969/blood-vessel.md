@@ -1,5 +1,7 @@
 # Blood Vessel
 
+[Compare across authors](../../compare/?t=film-blood-vessel_618585)
+
 ## DTS-HD MA 5.1
 
 **2019 • MA15+ • 1h 33m • Horror, Science Fiction • mobe1969**

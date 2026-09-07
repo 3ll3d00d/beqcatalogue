@@ -1,5 +1,7 @@
 # Wolf Totem
 
+[Compare across authors](../../compare/?t=film-wolf-totem_309302)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 56m • Mandarin • Adventure, Drama • mobe1969**

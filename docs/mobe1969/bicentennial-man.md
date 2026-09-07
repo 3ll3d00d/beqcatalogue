@@ -1,5 +1,7 @@
 # Bicentennial Man
 
+[Compare across authors](../../compare/?t=film-bicentennial-man_2277)
+
 ## DD+ 5.1
 
 **1999 • PG • 2h 11m • Science Fiction, Comedy, Drama • mobe1969**

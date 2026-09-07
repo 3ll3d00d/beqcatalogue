@@ -1,5 +1,7 @@
 # The Smurfs 2
 
+[Compare across authors](../../compare/?t=film-the-smurfs-2_77931)
+
 ## Atmos
 
 **2013 • PG • 1h 45m • Fantasy, Family, Comedy, Animation • mobe1969**

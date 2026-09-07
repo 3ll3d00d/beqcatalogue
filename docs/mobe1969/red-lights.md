@@ -1,5 +1,7 @@
 # Red Lights
 
+[Compare across authors](../../compare/?t=film-red-lights_75638)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 59m • Thriller • mobe1969**

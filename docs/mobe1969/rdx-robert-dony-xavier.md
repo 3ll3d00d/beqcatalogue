@@ -1,5 +1,7 @@
 # RDX: Robert Dony Xavier
 
+[Compare across authors](../../compare/?t=film-rdx-robert-dony-xavier_997391)
+
 ## DD+ 5.1
 
 **2023 • 12A • 2h 30m • Malayalam • Action, Drama • mobe1969**

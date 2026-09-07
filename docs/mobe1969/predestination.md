@@ -1,5 +1,7 @@
 # Predestination
 
+[Compare across authors](../../compare/?t=film-predestination_206487)
+
 ## DD+ 5.1, DTS-HD MA 5.1
 
 **2014 • R • 1h 37m • Science Fiction, Thriller • mobe1969**

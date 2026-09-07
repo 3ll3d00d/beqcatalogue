@@ -1,5 +1,7 @@
 # Widows
 
+[Compare across authors](../../compare/?t=film-widows_401469)
+
 ## Atmos
 
 **2018 • R • 2h 9m • Crime, Thriller • mobe1969**

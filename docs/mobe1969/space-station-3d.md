@@ -1,5 +1,7 @@
 # Space Station 3D
 
+[Compare across authors](../../compare/?t=film-space-station-3d_18221)
+
 ## DTS-X, DTS-HD MA 5.1
 
 **2002 • NR • 0h 47m • Documentary • mobe1969**

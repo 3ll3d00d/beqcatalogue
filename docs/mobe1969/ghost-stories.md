@@ -1,5 +1,7 @@
 # Ghost Stories
 
+[Compare across authors](../../compare/?t=film-ghost-stories_601643)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 24m • Hindi • Horror • mobe1969**

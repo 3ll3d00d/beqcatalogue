@@ -1,5 +1,7 @@
 # Recurrence
 
+[Compare across authors](../../compare/?t=film-recurrence_798223)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 56m • Spanish • Thriller, Crime, Drama • mobe1969**

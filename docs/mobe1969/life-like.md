@@ -1,5 +1,7 @@
 # Life Like
 
+[Compare across authors](../../compare/?t=film-life-like_586707)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 35m • Thriller, Science Fiction • mobe1969**

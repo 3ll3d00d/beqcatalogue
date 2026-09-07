@@ -1,5 +1,7 @@
 # Cirque du Freak: The Vampire's Assistant
 
+[Compare across authors](../../compare/?t=film-cirque-du-freak-the-vampires-assistant_24418)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 49m • Action, Fantasy, Thriller, Adventure • mobe1969**

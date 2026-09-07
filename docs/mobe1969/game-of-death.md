@@ -1,5 +1,7 @@
 # Game of Death
 
+[Compare across authors](../../compare/?t=film-game-of-death_46541)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 38m • Adventure, Thriller, Action • mobe1969**

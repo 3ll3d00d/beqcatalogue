@@ -1,5 +1,7 @@
 # The Killer
 
+[Compare across authors](../../compare/?t=film-the-killer_938008)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 35m • Korean • Action, Thriller, Crime • mobe1969**

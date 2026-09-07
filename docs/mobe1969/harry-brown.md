@@ -1,5 +1,7 @@
 # Harry Brown
 
+[Compare across authors](../../compare/?t=film-harry-brown_25941)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 43m • Thriller, Crime, Drama, Action • mobe1969**

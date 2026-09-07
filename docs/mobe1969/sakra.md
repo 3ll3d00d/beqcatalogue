@@ -1,5 +1,7 @@
 # Sakra
 
+[Compare across authors](../../compare/?t=film-sakra_990140)
+
 ## Atmos, TrueHD 7.1, DTS-HD MA 5.1
 
 **2023 • NR • 2h 10m • Cantonese • Action, Drama • mobe1969**

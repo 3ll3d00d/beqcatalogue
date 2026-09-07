@@ -1,5 +1,7 @@
 # Street Kings
 
+[Compare across authors](../../compare/?t=film-street-kings_1266)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 49m • Action, Crime, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Hellhole
 
+[Compare across authors](../../compare/?t=film-hellhole_1032950)
+
 ## DD+ 5.1
 
 **2022 • NR • 0h 0m • Polish • Horror • mobe1969**

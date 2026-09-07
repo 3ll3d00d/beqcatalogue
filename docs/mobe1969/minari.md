@@ -1,5 +1,7 @@
 # Minari
 
+[Compare across authors](../../compare/?t=film-minari_615643)
+
 ## DTS-HD MA 5.1
 
 **2020 • PG-13 • 1h 55m • Korean • Drama • mobe1969**

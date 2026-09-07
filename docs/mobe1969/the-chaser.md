@@ -1,5 +1,7 @@
 # The Chaser
 
+[Compare across authors](../../compare/?t=film-the-chaser_13855)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG-13 • 2h 5m • Korean • Crime, Drama, Thriller • mobe1969**

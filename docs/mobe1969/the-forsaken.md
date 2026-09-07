@@ -1,5 +1,7 @@
 # The Forsaken
 
+[Compare across authors](../../compare/?t=film-the-forsaken_12484)
+
 ## DTS 5.1
 
 Unrated Cut

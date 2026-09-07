@@ -1,5 +1,7 @@
 # Sayen
 
+[Compare across authors](../../compare/?t=film-sayen_850871)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 34m • Spanish • Thriller, Action • mobe1969**

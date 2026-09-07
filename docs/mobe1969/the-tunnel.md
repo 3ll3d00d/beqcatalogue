@@ -1,5 +1,7 @@
 # The Tunnel
 
+[Compare across authors](../../compare/?t=film-the-tunnel_46221)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 30m • Horror, Thriller, Mystery • mobe1969**

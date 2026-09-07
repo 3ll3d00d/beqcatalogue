@@ -1,5 +1,7 @@
 # The Claus Family 2
 
+[Compare across authors](../../compare/?t=film-the-claus-family-2_881180)
+
 ## DD+ 5.1
 
 **2021 • PG • 1h 38m • Flemish • Family, Comedy, Fantasy • mobe1969**

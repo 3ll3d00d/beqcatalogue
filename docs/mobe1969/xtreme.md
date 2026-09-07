@@ -1,5 +1,7 @@
 # Xtreme
 
+[Compare across authors](../../compare/?t=film-xtreme_726429)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 51m • Spanish • Action, Adventure, Crime • mobe1969**

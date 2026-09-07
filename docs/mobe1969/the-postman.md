@@ -1,5 +1,7 @@
 # The Postman
 
+[Compare across authors](../../compare/?t=film-the-postman_9922)
+
 ## TrueHD 5.1
 
 **1997 • R • 2h 57m • Science Fiction, Adventure, Action, War • mobe1969**

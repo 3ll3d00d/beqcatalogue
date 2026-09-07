@@ -1,5 +1,7 @@
 # 3 from Hell
 
+[Compare across authors](../../compare/?t=film-3-from-hell_489064)
+
 ## TrueHD 7.1
 
 **2019 • R • 1h 55m • Drama, Horror, Crime • mobe1969**

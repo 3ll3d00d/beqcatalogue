@@ -1,5 +1,7 @@
 # CBGB
 
+[Compare across authors](../../compare/?t=film-cbgb_111479)
+
 ## DD+ 5.1
 
 **2013 • R • 1h 41m • Drama, Music • mobe1969**

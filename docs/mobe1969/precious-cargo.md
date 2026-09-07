@@ -1,5 +1,7 @@
 # Precious Cargo
 
+[Compare across authors](../../compare/?t=film-precious-cargo_384737)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 39m • Action, Crime, Thriller • mobe1969**

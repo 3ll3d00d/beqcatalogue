@@ -1,5 +1,7 @@
 # Paradise Beach
 
+[Compare across authors](../../compare/?t=film-paradise-beach_571650)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 33m • French • Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Four 2
 
+[Compare across authors](../../compare/?t=film-the-four-2_251749)
+
 ## TrueHD 5.1
 
 **2013 • PG-13 • 1h 57m • Mandarin • Action • mobe1969**

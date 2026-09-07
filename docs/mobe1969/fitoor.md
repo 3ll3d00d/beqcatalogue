@@ -1,5 +1,7 @@
 # Fitoor
 
+[Compare across authors](../../compare/?t=film-fitoor_376047)
+
 ## DD+ 5.1
 
 **2016 • NR • 2h 11m • Hindi • Romance, Drama • mobe1969**

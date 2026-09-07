@@ -1,5 +1,7 @@
 # The Lobster
 
+[Compare across authors](../../compare/?t=film-the-lobster_254320)
+
 ## DD+ 5.1
 
 **2015 • R • 1h 58m • Comedy, Drama, Romance • mobe1969**

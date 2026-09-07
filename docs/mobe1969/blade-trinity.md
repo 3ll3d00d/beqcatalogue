@@ -1,5 +1,7 @@
 # Blade: Trinity
 
+[Compare across authors](../../compare/?t=film-blade-trinity_36648)
+
 ## DTS-HD MA 6.1
 
 **2004 • R • 2h 3m • Action, Horror, Fantasy • mobe1969**

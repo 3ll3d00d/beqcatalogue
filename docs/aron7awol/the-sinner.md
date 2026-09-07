@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-sinner_39852)
+
 ## Season 1
 
 * DTS-HD MA 5.1

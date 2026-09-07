@@ -1,5 +1,7 @@
 # The Cursed Lesson
 
+[Compare across authors](../../compare/?t=film-the-cursed-lesson_759917)
+
 ## TrueHD 5.1
 
 **2020 • NR • 1h 33m • Korean • Horror • mobe1969**

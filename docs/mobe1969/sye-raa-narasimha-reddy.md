@@ -1,5 +1,7 @@
 # Sye Raa Narasimha Reddy
 
+[Compare across authors](../../compare/?t=film-sye-raa-narasimha-reddy_496495)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 49m • Telugu • Drama, History, War • mobe1969**

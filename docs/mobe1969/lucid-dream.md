@@ -1,5 +1,7 @@
 # Lucid Dream
 
+[Compare across authors](../../compare/?t=film-lucid-dream_436994)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 41m • Korean • Science Fiction, Thriller • mobe1969**

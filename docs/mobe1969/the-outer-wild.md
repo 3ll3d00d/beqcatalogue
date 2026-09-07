@@ -1,5 +1,7 @@
 # The Outer Wild
 
+[Compare across authors](../../compare/?t=film-the-outer-wild_505860)
+
 ## DD+ 2.0
 
 **2018 • NR • 1h 25m • Fantasy, Adventure, Drama • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-dahmer-monster-the-jeffrey-dahmer-story_113988)
+
 ## Season 1
 
 * DD+ Atmos

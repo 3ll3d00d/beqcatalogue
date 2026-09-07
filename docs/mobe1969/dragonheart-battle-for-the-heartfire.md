@@ -1,5 +1,7 @@
 # Dragonheart: Battle for the Heartfire
 
+[Compare across authors](../../compare/?t=film-dragonheart-battle-for-the-heartfire_451644)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG-13 • 1h 38m • Fantasy, Adventure • mobe1969**

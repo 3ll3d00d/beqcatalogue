@@ -1,5 +1,7 @@
 # Princess Mononoke
 
+[Compare across authors](../../compare/?t=film-princess-mononoke_128)
+
 ## DTS-HD MA 5.1
 
 **1997 • PG-13 • 2h 14m • Japanese • Adventure, Fantasy, Animation • mobe1969**

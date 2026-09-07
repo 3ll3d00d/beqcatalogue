@@ -1,5 +1,7 @@
 # DreamKatcher
 
+[Compare across authors](../../compare/?t=film-dreamkatcher_639247)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 25m • Horror, Thriller • mobe1969**

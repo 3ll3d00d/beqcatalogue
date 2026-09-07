@@ -1,5 +1,7 @@
 # Assault on VA-33
 
+[Compare across authors](../../compare/?t=film-assault-on-va-33_797294)
+
 ## DTS-HD MA 5.1
 
 **2021 • 15 • 1h 26m • Action, Thriller • mobe1969**

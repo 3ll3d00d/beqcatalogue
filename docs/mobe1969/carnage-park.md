@@ -1,5 +1,7 @@
 # Carnage Park
 
+[Compare across authors](../../compare/?t=film-carnage-park_369032)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 21m • Action, Crime, Horror, Thriller • mobe1969**

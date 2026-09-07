@@ -1,5 +1,7 @@
 # The Cabin in the Woods
 
+[Compare across authors](../../compare/?t=film-the-cabin-in-the-woods_22970)
+
 ## Atmos
 
 **2012 • R • 1h 35m • Horror, Comedy, Fantasy, Thriller • mobe1969**

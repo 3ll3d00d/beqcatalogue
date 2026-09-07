@@ -1,5 +1,7 @@
 # Saints and Soldiers
 
+[Compare across authors](../../compare/?t=film-saints-and-soldiers_10105)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG-13 • 1h 30m • War, History, Action, Drama, Adventure • mobe1969**

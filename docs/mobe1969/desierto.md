@@ -1,5 +1,7 @@
 # Desierto
 
+[Compare across authors](../../compare/?t=film-desierto_258363)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 28m • Thriller, Drama • mobe1969**

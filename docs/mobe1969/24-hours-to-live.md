@@ -1,5 +1,7 @@
 # 24 Hours to Live
 
+[Compare across authors](../../compare/?t=film-24-hours-to-live_470114)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 34m • Science Fiction, Mystery, Action, Thriller • mobe1969**

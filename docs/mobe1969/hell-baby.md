@@ -1,5 +1,7 @@
 # Hell Baby
 
+[Compare across authors](../../compare/?t=film-hell-baby_159092)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 38m • Comedy, Horror • mobe1969**

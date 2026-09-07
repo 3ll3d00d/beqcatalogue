@@ -1,5 +1,7 @@
 # Port of Call
 
+[Compare across authors](../../compare/?t=film-port-of-call_334557)
+
 ## TrueHD 7.1
 
 Director's Cut

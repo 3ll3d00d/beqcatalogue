@@ -1,5 +1,7 @@
 # Boss Level
 
+[Compare across authors](../../compare/?t=film-boss-level_513310)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2021 • R • 1h 41m • Action, Science Fiction, Thriller • mobe1969**

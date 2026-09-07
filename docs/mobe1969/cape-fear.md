@@ -1,5 +1,7 @@
 # Cape Fear
 
+[Compare across authors](../../compare/?t=film-cape-fear_1598)
+
 ## DTS-HD MA 5.1
 
 **1991 • R • 2h 8m • Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Equal Standard
 
+[Compare across authors](../../compare/?t=film-equal-standard_652385)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 41m • Action, Crime, Drama • mobe1969**

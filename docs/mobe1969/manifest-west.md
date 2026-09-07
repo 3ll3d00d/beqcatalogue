@@ -1,5 +1,7 @@
 # Manifest West
 
+[Compare across authors](../../compare/?t=film-manifest-west_762895)
+
 ## DD+ 5.1
 
 **2022 • MA 15+ • 1h 31m • Drama • mobe1969**

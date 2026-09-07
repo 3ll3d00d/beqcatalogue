@@ -1,5 +1,7 @@
 # Operation Christmas Drop
 
+[Compare across authors](../../compare/?t=film-operation-christmas-drop_738646)
+
 ## DD+ Atmos
 
 **2020 • NR • 1h 35m • Comedy, Family, Romance • mobe1969**

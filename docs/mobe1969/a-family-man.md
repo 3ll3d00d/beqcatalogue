@@ -1,5 +1,7 @@
 # A Family Man
 
+[Compare across authors](../../compare/?t=film-a-family-man_375183)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 48m • Drama • mobe1969**

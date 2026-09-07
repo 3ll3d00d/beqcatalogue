@@ -1,5 +1,7 @@
 # San Andreas
 
+[Compare across authors](../../compare/?t=film-san-andreas_254128)
+
 ## Atmos
 
 **2015 • PG-13 • 1h 54m • Action, Drama, Thriller • mobe1969**

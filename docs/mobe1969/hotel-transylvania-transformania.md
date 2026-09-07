@@ -1,5 +1,7 @@
 # Hotel Transylvania: Transformania
 
+[Compare across authors](../../compare/?t=film-hotel-transylvania-transformania_585083)
+
 ## DD+ 5.1
 
 **2022 • PG • 1h 27m • Animation, Family, Fantasy, Comedy, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Avengers: Age of Ultron
 
+[Compare across authors](../../compare/?t=film-avengers-age-of-ultron_99861)
+
 ## Atmos
 
 **2015 • PG-13 • 2h 21m • Action, Adventure, Science Fiction • mobe1969**

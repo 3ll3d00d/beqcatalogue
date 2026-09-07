@@ -1,5 +1,7 @@
 # Transcendence
 
+[Compare across authors](../../compare/?t=film-transcendence_157353)
+
 ## DTS-HD MA 7.1
 
 3D Cut

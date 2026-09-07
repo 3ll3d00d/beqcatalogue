@@ -1,5 +1,7 @@
 # A Simple Favor
 
+[Compare across authors](../../compare/?t=film-a-simple-favor_484247)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 57m • Crime, Thriller, Mystery, Comedy • mobe1969**

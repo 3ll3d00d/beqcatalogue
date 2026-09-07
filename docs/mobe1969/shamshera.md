@@ -1,5 +1,7 @@
 # Shamshera
 
+[Compare across authors](../../compare/?t=film-shamshera_539686)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 38m • Hindi • Action, Drama, Adventure • mobe1969**

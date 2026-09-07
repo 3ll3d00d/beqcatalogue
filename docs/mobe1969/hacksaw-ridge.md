@@ -1,5 +1,7 @@
 # Hacksaw Ridge
 
+[Compare across authors](../../compare/?t=film-hacksaw-ridge_324786)
+
 ## Atmos, DD+ 5.1
 
 **2016 • R • 2h 19m • Drama, History, War • mobe1969**

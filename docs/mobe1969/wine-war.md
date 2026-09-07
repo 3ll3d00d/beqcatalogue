@@ -1,5 +1,7 @@
 # Wine War
 
+[Compare across authors](../../compare/?t=film-wine-war_462605)
+
 ## TrueHD 7.1
 
 **2017 • NR • 1h 30m • Mandarin • Comedy, Action • mobe1969**

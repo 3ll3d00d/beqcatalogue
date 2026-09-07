@@ -1,5 +1,7 @@
 # The Princess Diaries
 
+[Compare across authors](../../compare/?t=film-the-princess-diaries_9880)
+
 ## DTS-HD MA 5.1
 
 **2001 • G • 1h 55m • Comedy, Family, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Cry Macho
 
+[Compare across authors](../../compare/?t=film-cry-macho_749274)
+
 ## DTS-HD MA 5.1
 
 **2021 • PG-13 • 1h 44m • Western, Drama • mobe1969**

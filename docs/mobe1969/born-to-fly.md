@@ -1,5 +1,7 @@
 # Born to Fly
 
+[Compare across authors](../../compare/?t=film-born-to-fly_1012837)
+
 ## DD+ 5.1
 
 **2023 • 12A • 2h 7m • Mandarin • Drama, Action • mobe1969**

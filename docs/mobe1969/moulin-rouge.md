@@ -1,5 +1,7 @@
 # Moulin Rouge!
 
+[Compare across authors](../../compare/?t=film-moulin-rouge_824)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG-13 • 2h 8m • Drama, Romance, Music • mobe1969**

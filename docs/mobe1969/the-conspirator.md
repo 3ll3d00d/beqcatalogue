@@ -1,5 +1,7 @@
 # The Conspirator
 
+[Compare across authors](../../compare/?t=film-the-conspirator_60309)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 2h 2m • Crime, Drama, History • mobe1969**

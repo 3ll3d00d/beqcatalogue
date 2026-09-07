@@ -1,5 +1,7 @@
 # Queen of the Desert
 
+[Compare across authors](../../compare/?t=film-queen-of-the-desert_157843)
+
 ## DTS-HD MA 5.1
 
 **2015 • 0 • 2h 8m • Drama, Adventure, History • mobe1969**

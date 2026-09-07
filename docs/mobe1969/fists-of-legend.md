@@ -1,5 +1,7 @@
 # Fists of Legend
 
+[Compare across authors](../../compare/?t=film-fists-of-legend_180651)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 2h 33m • Korean • Action, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Once a Gangster
 
+[Compare across authors](../../compare/?t=film-once-a-gangster_41980)
+
 ## DD+ 2.0
 
 **2010 • NR • 1h 35m • Cantonese • Action, Comedy, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Believer
 
+[Compare across authors](../../compare/?t=film-believer_518963)
+
 ## Atmos
 
 **2018 • NR • 2h 3m • Korean • Crime, Action • mobe1969**

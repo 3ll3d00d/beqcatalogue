@@ -1,5 +1,7 @@
 # A Clockwork Orange
 
+[Compare across authors](../../compare/?t=film-a-clockwork-orange_185)
+
 ## DTS-HD MA 5.1
 
 **1971 • R • 2h 17m • Science Fiction, Drama • mobe1969**

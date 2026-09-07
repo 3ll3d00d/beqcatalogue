@@ -1,5 +1,7 @@
 # Nacho Libre
 
+[Compare across authors](../../compare/?t=film-nacho-libre_9353)
+
 ## DD 5.1
 
 **2006 • PG • 1h 32m • Comedy, Family • mobe1969**

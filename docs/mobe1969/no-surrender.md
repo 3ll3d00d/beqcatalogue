@@ -1,5 +1,7 @@
 # No Surrender
 
+[Compare across authors](../../compare/?t=film-no-surrender_521784)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • 15 • 1h 58m • Action, Thriller, History, Crime, War • mobe1969**

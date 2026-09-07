@@ -1,5 +1,7 @@
 # Cars 2
 
+[Compare across authors](../../compare/?t=film-cars-2_49013)
+
 ## Atmos
 
 **2011 • G • 1h 46m • Animation, Family, Adventure, Comedy • mobe1969**

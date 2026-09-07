@@ -1,5 +1,7 @@
 # Vendetta
 
+[Compare across authors](../../compare/?t=film-vendetta_894169)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 36m • Action, Crime, Thriller • mobe1969**

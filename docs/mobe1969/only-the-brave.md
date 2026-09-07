@@ -1,5 +1,7 @@
 # Only the Brave
 
+[Compare across authors](../../compare/?t=film-only-the-brave_31101)
+
 ## DTS-HD MA 5.1
 
 **2006 • R • 1h 39m • Drama, War • mobe1969**

@@ -1,5 +1,7 @@
 # Warhorse One
 
+[Compare across authors](../../compare/?t=film-warhorse-one_1076487)
+
 ## DD+ 5.1
 
 **2023 • R • 2h 0m • Action, Drama, War • mobe1969**

@@ -1,5 +1,7 @@
 # Tad, the Lost Explorer, and the Secret of King Midas
 
+[Compare across authors](../../compare/?t=film-tad-the-lost-explorer-and-the-secret-of-king-midas_452773)
+
 ## TrueHD 5.1
 
 **2017 • PG • 1h 25m • Animation, Adventure, Comedy, Family • mobe1969**

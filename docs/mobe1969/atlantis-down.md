@@ -1,5 +1,7 @@
 # Atlantis Down
 
+[Compare across authors](../../compare/?t=film-atlantis-down_105191)
+
 ## DTS-HD MA 2.0
 
 **2010 • 15 • 1h 35m • Science Fiction • mobe1969**

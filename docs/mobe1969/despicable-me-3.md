@@ -1,5 +1,7 @@
 # Despicable Me 3
 
+[Compare across authors](../../compare/?t=film-despicable-me-3_324852)
+
 ## DTS-X
 
 **2017 • PG • 1h 36m • Action, Animation, Comedy, Family, Adventure • mobe1969**

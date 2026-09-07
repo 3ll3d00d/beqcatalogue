@@ -1,5 +1,7 @@
 # Betrayal
 
+[Compare across authors](../../compare/?t=film-betrayal_279205)
+
 ## DD+ 5.1
 
 **2013 • NR • 1h 30m • Action, Adventure, Crime • mobe1969**

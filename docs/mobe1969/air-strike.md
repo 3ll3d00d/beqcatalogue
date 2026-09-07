@@ -1,5 +1,7 @@
 # Air Strike
 
+[Compare across authors](../../compare/?t=film-air-strike_345934)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 37m • Drama, War, Action, Adventure • mobe1969**

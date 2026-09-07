@@ -1,5 +1,7 @@
 # The Mimic
 
+[Compare across authors](../../compare/?t=film-the-mimic_437108)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 1h 40m • Korean • Horror, Thriller • mobe1969**

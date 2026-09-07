@@ -1,5 +1,7 @@
 # Europa Report
 
+[Compare across authors](../../compare/?t=film-europa-report_174772)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 30m • Science Fiction, Thriller • mobe1969**

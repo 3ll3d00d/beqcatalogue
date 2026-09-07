@@ -1,5 +1,7 @@
 # Outland
 
+[Compare across authors](../../compare/?t=film-outland_10540)
+
 ## DTS-HD MA 5.1
 
 **1981 • R • 1h 52m • Science Fiction, Mystery • mobe1969**

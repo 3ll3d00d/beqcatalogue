@@ -1,5 +1,7 @@
 # The Last Starship
 
+[Compare across authors](../../compare/?t=film-the-last-starship_406285)
+
 ## DD+ 5.1
 
 **2017 • 15 • 1h 48m • Science Fiction, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Crouching Tiger, Hidden Dragon: Sword of Destiny
 
+[Compare across authors](../../compare/?t=film-crouching-tiger-hidden-dragon-sword-of-destiny_263341)
+
 ## DD+ 5.1
 
 **2016 • PG-13 • 1h 43m • Action, Adventure, Drama • mobe1969**

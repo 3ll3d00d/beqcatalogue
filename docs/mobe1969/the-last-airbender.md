@@ -1,5 +1,7 @@
 # The Last Airbender
 
+[Compare across authors](../../compare/?t=film-the-last-airbender_10196)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG • 1h 43m • Action, Adventure, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # HELL DOGS
 
+[Compare across authors](../../compare/?t=film-hell-dogs_910371)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 18m • Japanese • Action • mobe1969**

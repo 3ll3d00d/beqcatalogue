@@ -1,5 +1,7 @@
 # Moonage Daydream
 
+[Compare across authors](../../compare/?t=film-moonage-daydream_957457)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • PG-13 • 2h 15m • Documentary, Music • mobe1969**

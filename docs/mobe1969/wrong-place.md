@@ -1,5 +1,7 @@
 # Wrong Place
 
+[Compare across authors](../../compare/?t=film-wrong-place_921353)
+
 ## DTS-HD MA 5.1
 
 **2022 • 15 • 1h 36m • Action, Crime, Thriller • mobe1969**

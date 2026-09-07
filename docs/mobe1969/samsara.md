@@ -1,5 +1,7 @@
 # Samsara
 
+[Compare across authors](../../compare/?t=film-samsara_89708)
+
 ## DTS-HD MA 7.1
 
 **2011 • PG-13 • 1h 42m • Documentary • mobe1969**

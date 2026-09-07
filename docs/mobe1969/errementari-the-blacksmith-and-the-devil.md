@@ -1,5 +1,7 @@
 # Errementari: The Blacksmith and the Devil
 
+[Compare across authors](../../compare/?t=film-errementari-the-blacksmith-and-the-devil_477033)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 38m • Basque • Drama, Fantasy, Horror • mobe1969**

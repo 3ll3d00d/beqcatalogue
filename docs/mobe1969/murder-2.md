@@ -1,5 +1,7 @@
 # Murder 2
 
+[Compare across authors](../../compare/?t=film-murder-2_69775)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 2h 7m • Hindi • Action, Crime, Drama, Thriller • mobe1969**

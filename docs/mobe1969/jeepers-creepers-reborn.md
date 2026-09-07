@@ -1,5 +1,7 @@
 # Jeepers Creepers: Reborn
 
+[Compare across authors](../../compare/?t=film-jeepers-creepers-reborn_717728)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 28m • Horror, Thriller, Mystery • mobe1969**

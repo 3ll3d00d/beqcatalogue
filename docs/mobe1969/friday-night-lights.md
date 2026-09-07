@@ -1,5 +1,7 @@
 # Friday Night Lights
 
+[Compare across authors](../../compare/?t=film-friday-night-lights_13416)
+
 ## DTS-HD MA 5.1
 
 **2004 • PG-13 • 1h 58m • Drama • mobe1969**

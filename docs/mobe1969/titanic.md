@@ -1,5 +1,7 @@
 # Titanic
 
+[Compare across authors](../../compare/?t=film-titanic_597)
+
 ## DTS-HD MA 5.1
 
 **1997 • PG-13 • 3h 14m • Drama, Romance • mobe1969**

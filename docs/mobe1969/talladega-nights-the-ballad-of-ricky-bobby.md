@@ -1,5 +1,7 @@
 # Talladega Nights: The Ballad of Ricky Bobby
 
+[Compare across authors](../../compare/?t=film-talladega-nights-the-ballad-of-ricky-bobby_9718)
+
 ## LPCM 5.1
 
 Unrated Cut

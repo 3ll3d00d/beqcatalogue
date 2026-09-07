@@ -1,5 +1,7 @@
 # The Yellow Sea
 
+[Compare across authors](../../compare/?t=film-the-yellow-sea_57361)
+
 ## DTS-HD MA 5.1
 
 **2010 • 18 • 2h 37m • Korean • Drama, Crime, Thriller • mobe1969**

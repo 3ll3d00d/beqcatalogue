@@ -1,5 +1,7 @@
 # Evangelion: 1.11 You Are (Not) Alone
 
+[Compare across authors](../../compare/?t=film-evangelion-111-you-are-not-alone_15137)
+
 ## TrueHD 6.1
 
 **2007 • PG-13 • 1h 37m • Japanese • Drama, Animation, Science Fiction, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Out of Sight
 
+[Compare across authors](../../compare/?t=film-out-of-sight_1389)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 2h 3m • Romance, Comedy, Crime • mobe1969**

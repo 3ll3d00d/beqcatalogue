@@ -1,5 +1,7 @@
 # Seven Pounds
 
+[Compare across authors](../../compare/?t=film-seven-pounds_11321)
+
 ## TrueHD 5.1
 
 **2008 • PG-13 • 2h 3m • Drama • mobe1969**

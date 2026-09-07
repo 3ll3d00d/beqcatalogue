@@ -1,5 +1,7 @@
 # Exit Speed
 
+[Compare across authors](../../compare/?t=film-exit-speed_17144)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 31m • Thriller, Action • mobe1969**

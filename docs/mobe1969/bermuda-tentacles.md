@@ -1,5 +1,7 @@
 # Bermuda Tentacles
 
+[Compare across authors](../../compare/?t=film-bermuda-tentacles_260372)
+
 ## DD+ 5.1
 
 **2014 • NR • 2h 6m • Science Fiction • mobe1969**

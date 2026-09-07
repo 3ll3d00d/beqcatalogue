@@ -1,5 +1,7 @@
 # Sweet River
 
+[Compare across authors](../../compare/?t=film-sweet-river_717942)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 42m • Horror, Mystery • mobe1969**

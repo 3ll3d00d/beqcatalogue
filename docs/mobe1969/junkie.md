@@ -1,5 +1,7 @@
 # Junkie
 
+[Compare across authors](../../compare/?t=film-junkie_93094)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 24m • Comedy • mobe1969**

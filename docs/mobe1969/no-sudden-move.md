@@ -1,5 +1,7 @@
 # No Sudden Move
 
+[Compare across authors](../../compare/?t=film-no-sudden-move_649409)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 55m • Crime, Drama, Mystery • mobe1969**

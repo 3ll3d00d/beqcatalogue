@@ -1,5 +1,7 @@
 # Devil's Gate
 
+[Compare across authors](../../compare/?t=film-devils-gate_355193)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 34m • Thriller, Horror, Science Fiction • mobe1969**

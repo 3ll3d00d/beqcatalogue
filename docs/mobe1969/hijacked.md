@@ -1,5 +1,7 @@
 # Hijacked
 
+[Compare across authors](../../compare/?t=film-hijacked_119117)
+
 ## TrueHD 5.1
 
 **2012 • R • 1h 26m • Thriller, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Bait
 
+[Compare across authors](../../compare/?t=film-bait_118957)
+
 ## TrueHD 7.1
 
 **2012 • 15 • 1h 33m • Action, Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Come and Find Me
 
+[Compare across authors](../../compare/?t=film-come-and-find-me_345918)
+
 ## DD+ 5.1
 
 **2016 • R • 1h 52m • Drama, Thriller, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Scarlet Innocence
 
+[Compare across authors](../../compare/?t=film-scarlet-innocence_287649)
+
 ## TrueHD 5.1
 
 **2014 • NR • 1h 51m • Korean • Drama, Romance • mobe1969**

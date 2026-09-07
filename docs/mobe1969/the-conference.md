@@ -1,5 +1,7 @@
 # The Conference
 
+[Compare across authors](../../compare/?t=film-the-conference_1161048)
+
 ## DD+ Atmos
 
 **2023 • NR • 1h 38m • Swedish • Comedy, Horror, Thriller • mobe1969**

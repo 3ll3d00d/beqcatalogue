@@ -1,5 +1,7 @@
 # Midsommar
 
+[Compare across authors](../../compare/?t=film-midsommar_530385)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 2h 27m • Horror, Drama, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Spy Kids 3-D Game Over
 
+[Compare across authors](../../compare/?t=film-spy-kids-3-d-game-over_12279)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG • 1h 24m • Comedy, Family, Adventure, Action, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Casper
 
+[Compare across authors](../../compare/?t=film-casper_8839)
+
 ## DD+ 5.1
 
 **1995 • PG • 1h 40m • Fantasy, Comedy, Family • mobe1969**

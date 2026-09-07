@@ -1,5 +1,7 @@
 # 22 July
 
+[Compare across authors](../../compare/?t=film-22-july_474354)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 23m • History, Drama, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # The Twin
 
+[Compare across authors](../../compare/?t=film-the-twin_477462)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 49m • Horror, Mystery • mobe1969**

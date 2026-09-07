@@ -1,5 +1,7 @@
 # Crimson Tide
 
+[Compare across authors](../../compare/?t=film-crimson-tide_8963)
+
 ## LPCM 5.1
 
 **1995 • R • 1h 56m • Thriller, War, Action • mobe1969**

@@ -1,5 +1,7 @@
 # My Girlfriend Is an Agent
 
+[Compare across authors](../../compare/?t=film-my-girlfriend-is-an-agent_18374)
+
 ## DTS-HD MA 5.1
 
 **2009 • NR • 1h 53m • Korean • Action, Adventure, Comedy, Romance • mobe1969**

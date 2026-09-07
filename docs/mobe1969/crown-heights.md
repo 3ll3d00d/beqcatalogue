@@ -1,5 +1,7 @@
 # Crown Heights
 
+[Compare across authors](../../compare/?t=film-crown-heights_425507)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 36m • Drama • mobe1969**

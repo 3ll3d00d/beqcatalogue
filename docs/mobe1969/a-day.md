@@ -1,5 +1,7 @@
 # A Day
 
+[Compare across authors](../../compare/?t=film-a-day_459073)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 1h 30m • Korean • Drama, Thriller, Mystery • mobe1969**

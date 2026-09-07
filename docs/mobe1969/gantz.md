@@ -1,5 +1,7 @@
 # Gantz
 
+[Compare across authors](../../compare/?t=film-gantz_56832)
+
 ## DTS-HD MA 5.1
 
 **2010 • MA15+ • 2h 10m • Japanese • Science Fiction, Action, Horror • mobe1969**

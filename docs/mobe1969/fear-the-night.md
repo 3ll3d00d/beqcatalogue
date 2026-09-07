@@ -1,5 +1,7 @@
 # Fear the Night
 
+[Compare across authors](../../compare/?t=film-fear-the-night_1143190)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 32m • Action, Thriller • mobe1969**

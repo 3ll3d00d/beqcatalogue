@@ -1,5 +1,7 @@
 # National Lampoon's Van Wilder
 
+[Compare across authors](../../compare/?t=film-national-lampoons-van-wilder_11452)
+
 ## Atmos
 
 Unrated Cut

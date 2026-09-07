@@ -1,5 +1,7 @@
 # 3000 Miles to Graceland
 
+[Compare across authors](../../compare/?t=film-3000-miles-to-graceland_12138)
+
 ## DD+ 5.1
 
 **2003 • R • 2h 5m • Action, Adventure, Comedy, Crime, Thriller • mobe1969**

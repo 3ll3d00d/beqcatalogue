@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-under-the-black-moonlight_84569)
+
 ## Season 1
 
 * DD+ 2.0

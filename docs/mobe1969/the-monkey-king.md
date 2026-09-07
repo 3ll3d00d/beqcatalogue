@@ -1,5 +1,7 @@
 # The Monkey King
 
+[Compare across authors](../../compare/?t=film-the-monkey-king_119892)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 59m • Mandarin • Action, Adventure, Family • mobe1969**

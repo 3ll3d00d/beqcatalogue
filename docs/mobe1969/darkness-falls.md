@@ -1,5 +1,7 @@
 # Darkness Falls
 
+[Compare across authors](../../compare/?t=film-darkness-falls_10727)
+
 ## DD+ 5.1
 
 **2003 • PG-13 • 1h 26m • Thriller, Horror • mobe1969**

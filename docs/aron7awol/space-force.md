@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-space-force_85922)
+
 ## Season 1
 
 * DD+ Atmos

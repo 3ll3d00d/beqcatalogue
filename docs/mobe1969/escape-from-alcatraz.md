@@ -1,5 +1,7 @@
 # Escape from Alcatraz
 
+[Compare across authors](../../compare/?t=film-escape-from-alcatraz_10734)
+
 ## DTS-HD MA 5.1
 
 **1979 • PG • 1h 53m • Drama, Thriller • mobe1969**

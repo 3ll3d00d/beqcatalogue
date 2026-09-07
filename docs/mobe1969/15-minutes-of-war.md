@@ -1,5 +1,7 @@
 # 15 Minutes of War
 
+[Compare across authors](../../compare/?t=film-15-minutes-of-war_484638)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 38m • French • War, Action, Drama, History • mobe1969**

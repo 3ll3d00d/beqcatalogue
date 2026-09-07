@@ -1,5 +1,7 @@
 # The Godfather
 
+[Compare across authors](../../compare/?t=film-the-godfather_238)
+
 ## TrueHD 5.1
 
 **1972 • R • 2h 55m • Drama, Crime • mobe1969**

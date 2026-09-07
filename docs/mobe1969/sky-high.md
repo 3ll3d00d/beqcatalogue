@@ -1,5 +1,7 @@
 # Sky High
 
+[Compare across authors](../../compare/?t=film-sky-high_651589)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 1m • Spanish • Action, Drama, Thriller • mobe1969**

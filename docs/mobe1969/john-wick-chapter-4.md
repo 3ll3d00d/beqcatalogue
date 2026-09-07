@@ -1,5 +1,7 @@
 # John Wick: Chapter 4
 
+[Compare across authors](../../compare/?t=film-john-wick-chapter-4_603692)
+
 ## Atmos
 
 **2023 • R • 2h 50m • Action, Thriller, Crime • mobe1969**

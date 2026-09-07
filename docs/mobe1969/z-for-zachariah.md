@@ -1,5 +1,7 @@
 # Z for Zachariah
 
+[Compare across authors](../../compare/?t=film-z-for-zachariah_193687)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 37m • Science Fiction • mobe1969**

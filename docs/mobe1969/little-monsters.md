@@ -1,5 +1,7 @@
 # Little Monsters
 
+[Compare across authors](../../compare/?t=film-little-monsters_503125)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 34m • Horror, Comedy • mobe1969**

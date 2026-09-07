@@ -1,5 +1,7 @@
 # Da 5 Bloods
 
+[Compare across authors](../../compare/?t=film-da-5-bloods_581859)
+
 ## DD+ Atmos
 
 **2020 • R • 2h 36m • War, Drama • mobe1969**

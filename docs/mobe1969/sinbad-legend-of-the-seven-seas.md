@@ -1,5 +1,7 @@
 # Sinbad: Legend of the Seven Seas
 
+[Compare across authors](../../compare/?t=film-sinbad-legend-of-the-seven-seas_14411)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG • 1h 30m • Family, Animation, Adventure, Comedy, Fantasy, Action • mobe1969**

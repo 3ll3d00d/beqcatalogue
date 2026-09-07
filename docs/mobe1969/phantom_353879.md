@@ -1,5 +1,7 @@
 # Phantom
 
+[Compare across authors](../../compare/?t=film-phantom_353879)
+
 ## Atmos
 
 **2015 • NR • 2h 17m • Hindi • Thriller, Action • mobe1969**

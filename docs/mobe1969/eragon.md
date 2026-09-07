@@ -1,5 +1,7 @@
 # Eragon
 
+[Compare across authors](../../compare/?t=film-eragon_2486)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG • 1h 44m • Fantasy, Action, Adventure, Family • mobe1969**

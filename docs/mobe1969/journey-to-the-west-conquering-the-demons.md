@@ -1,5 +1,7 @@
 # Journey to the West: Conquering the Demons
 
+[Compare across authors](../../compare/?t=film-journey-to-the-west-conquering-the-demons_170657)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 50m • Mandarin • Action, Fantasy, Adventure, Comedy • mobe1969**

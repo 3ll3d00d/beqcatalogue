@@ -1,5 +1,7 @@
 # Man of Tai Chi
 
+[Compare across authors](../../compare/?t=film-man-of-tai-chi_76544)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 45m • Drama, Action • mobe1969**

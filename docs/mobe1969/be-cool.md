@@ -1,5 +1,7 @@
 # Be Cool
 
+[Compare across authors](../../compare/?t=film-be-cool_4551)
+
 ## DD+ 5.1
 
 **2005 • PG-13 • 1h 58m • Comedy, Crime • mobe1969**

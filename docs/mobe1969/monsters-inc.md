@@ -1,5 +1,7 @@
 # Monsters, Inc.
 
+[Compare across authors](../../compare/?t=film-monsters-inc_585)
+
 ## Atmos
 
 **2001 • G • 1h 32m • Animation, Comedy, Family • mobe1969**

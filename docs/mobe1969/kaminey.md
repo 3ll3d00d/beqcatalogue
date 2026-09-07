@@ -1,5 +1,7 @@
 # Kaminey
 
+[Compare across authors](../../compare/?t=film-kaminey_20688)
+
 ## DD+ 5.1
 
 **2009 • NR • 2h 15m • Hindi • Action, Crime, Drama • mobe1969**

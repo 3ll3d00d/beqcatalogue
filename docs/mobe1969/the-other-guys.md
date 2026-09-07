@@ -1,5 +1,7 @@
 # The Other Guys
 
+[Compare across authors](../../compare/?t=film-the-other-guys_27581)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

@@ -1,5 +1,7 @@
 # American Wedding
 
+[Compare across authors](../../compare/?t=film-american-wedding_8273)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 43m • Comedy, Romance • mobe1969**

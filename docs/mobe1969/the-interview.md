@@ -1,5 +1,7 @@
 # The Interview
 
+[Compare across authors](../../compare/?t=film-the-interview_228967)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2014 • R • 1h 53m • Action, Comedy • mobe1969**

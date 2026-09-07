@@ -1,5 +1,7 @@
 # Nocturnal Animals
 
+[Compare across authors](../../compare/?t=film-nocturnal-animals_340666)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 56m • Drama, Thriller • mobe1969**

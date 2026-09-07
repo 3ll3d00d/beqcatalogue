@@ -1,5 +1,7 @@
 # Police Story
 
+[Compare across authors](../../compare/?t=film-police-story_9056)
+
 ## DTS-HD MA 5.1
 
 **1985 • PG-13 • 1h 41m • Cantonese • Action, Crime, Thriller • mobe1969**

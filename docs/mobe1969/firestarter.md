@@ -1,5 +1,7 @@
 # Firestarter
 
+[Compare across authors](../../compare/?t=film-firestarter_532710)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 34m • Thriller, Science Fiction, Horror, Drama • mobe1969**

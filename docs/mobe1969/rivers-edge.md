@@ -1,5 +1,7 @@
 # River's Edge
 
+[Compare across authors](../../compare/?t=film-rivers-edge_487358)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 58m • Japanese • Crime, Drama • mobe1969**

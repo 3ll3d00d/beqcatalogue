@@ -1,5 +1,7 @@
 # Freelancers
 
+[Compare across authors](../../compare/?t=film-freelancers_122800)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 36m • Mystery, Action, Crime, Drama • mobe1969**

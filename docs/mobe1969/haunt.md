@@ -1,5 +1,7 @@
 # Haunt
 
+[Compare across authors](../../compare/?t=film-haunt_146243)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 26m • Horror • mobe1969**

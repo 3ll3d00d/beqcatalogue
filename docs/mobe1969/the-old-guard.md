@@ -1,5 +1,7 @@
 # The Old Guard
 
+[Compare across authors](../../compare/?t=film-the-old-guard_547016)
+
 ## DD+ Atmos
 
 **2020 • R • 2h 5m • Action, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Stockholm
 
+[Compare across authors](../../compare/?t=film-stockholm_437626)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 32m • Comedy, Crime • mobe1969**

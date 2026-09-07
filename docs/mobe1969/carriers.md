@@ -1,5 +1,7 @@
 # Carriers
 
+[Compare across authors](../../compare/?t=film-carriers_25769)
+
 ## TrueHD 5.1
 
 **2009 • PG-13 • 1h 24m • Action, Thriller, Drama, Science Fiction, Horror • mobe1969**

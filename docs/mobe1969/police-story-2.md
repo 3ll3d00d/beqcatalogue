@@ -1,5 +1,7 @@
 # Police Story 2
 
+[Compare across authors](../../compare/?t=film-police-story-2_10753)
+
 ## DTS-HD MA 5.1
 
 **1988 • PG-13 • 2h 2m • Cantonese • Action, Crime, Thriller • mobe1969**

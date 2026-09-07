@@ -1,5 +1,7 @@
 # Bad Lieutenant: Port of Call - New Orleans
 
+[Compare across authors](../../compare/?t=film-bad-lieutenant-port-of-call-new-orleans_11699)
+
 ## TrueHD 5.1
 
 **2009 • R • 2h 2m • Drama, Crime • mobe1969**

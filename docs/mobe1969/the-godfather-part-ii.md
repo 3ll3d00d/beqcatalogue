@@ -1,5 +1,7 @@
 # The Godfather: Part II
 
+[Compare across authors](../../compare/?t=film-the-godfather-part-ii_240)
+
 ## TrueHD 5.1
 
 **1974 • R • 3h 21m • Drama, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Fire in the Sky
 
+[Compare across authors](../../compare/?t=film-fire-in-the-sky_15613)
+
 ## DTS-HD MA 5.1
 
 **1993 • PG-13 • 1h 49m • Science Fiction, Drama, Mystery • mobe1969**

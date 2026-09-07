@@ -1,5 +1,7 @@
 # Kong: Skull Island
 
+[Compare across authors](../../compare/?t=film-kong-skull-island_293167)
+
 ## Atmos
 
 **2017 • PG-13 • 1h 58m • Action, Adventure, Fantasy • mobe1969**

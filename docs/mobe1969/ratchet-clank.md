@@ -1,5 +1,7 @@
 # Ratchet & Clank
 
+[Compare across authors](../../compare/?t=film-ratchet-clank_234004)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG • 1h 34m • Action, Adventure, Animation, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Zathura: A Space Adventure
 
+[Compare across authors](../../compare/?t=film-zathura-a-space-adventure_6795)
+
 ## DTS-HD MA 5.1
 
 **2005 • PG • 1h 41m • Fantasy, Family, Science Fiction, Adventure, Comedy • mobe1969**

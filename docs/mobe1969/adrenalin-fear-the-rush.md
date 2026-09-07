@@ -1,5 +1,7 @@
 # Adrenalin: Fear the Rush
 
+[Compare across authors](../../compare/?t=film-adrenalin-fear-the-rush_55687)
+
 ## DTS 5.1
 
 **1996 • R • 1h 17m • Action, Science Fiction, Thriller, Horror • mobe1969**

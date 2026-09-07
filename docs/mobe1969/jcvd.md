@@ -1,5 +1,7 @@
 # JCVD
 
+[Compare across authors](../../compare/?t=film-jcvd_13672)
+
 ## TrueHD 5.1
 
 **2008 • R • 1h 36m • French • Comedy, Drama, Action, Crime • mobe1969**

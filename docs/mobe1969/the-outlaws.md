@@ -1,5 +1,7 @@
 # The Outlaws
 
+[Compare across authors](../../compare/?t=film-the-outlaws_479718)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 2h 1m • Korean • Action, Crime • mobe1969**

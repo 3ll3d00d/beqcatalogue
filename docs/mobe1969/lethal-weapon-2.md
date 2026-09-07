@@ -1,5 +1,7 @@
 # Lethal Weapon 2
 
+[Compare across authors](../../compare/?t=film-lethal-weapon-2_942)
+
 ## DTS-HD MA 5.1
 
 **1989 • R • 1h 54m • Comedy, Crime, Action, Adventure, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Retribution
 
+[Compare across authors](../../compare/?t=film-retribution_762430)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2023 • R • 1h 31m • Thriller, Action, Crime • mobe1969**

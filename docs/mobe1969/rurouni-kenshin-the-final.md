@@ -1,5 +1,7 @@
 # Rurouni Kenshin: The Final
 
+[Compare across authors](../../compare/?t=film-rurouni-kenshin-the-final_602063)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 2h 18m • Japanese • Action, Adventure, Drama • mobe1969**

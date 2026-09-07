@@ -1,5 +1,7 @@
 # Transformers: Rise of the Beasts
 
+[Compare across authors](../../compare/?t=film-transformers-rise-of-the-beasts_667538)
+
 ## Atmos
 
 **2023 • PG-13 • 2h 7m • Action, Adventure, Science Fiction • mobe1969**

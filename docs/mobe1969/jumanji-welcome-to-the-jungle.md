@@ -1,5 +1,7 @@
 # Jumanji: Welcome to the Jungle
 
+[Compare across authors](../../compare/?t=film-jumanji-welcome-to-the-jungle_353486)
+
 ## Atmos, DD+ 5.1
 
 **2017 • PG-13 • 1h 59m • Adventure, Action, Comedy, Fantasy • mobe1969**

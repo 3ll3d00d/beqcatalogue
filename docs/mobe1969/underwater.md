@@ -1,5 +1,7 @@
 # Underwater
 
+[Compare across authors](../../compare/?t=film-underwater_443791)
+
 ## DTS-HD MA 7.1, DD+ Atmos, DD+ 5.1, DD 5.1
 
 **2020 • PG-13 • 1h 35m • Action, Horror, Science Fiction • mobe1969**

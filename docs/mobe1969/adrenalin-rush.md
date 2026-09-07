@@ -1,5 +1,7 @@
 # Adrenalin Rush
 
+[Compare across authors](../../compare/?t=film-adrenalin-rush_77175)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 25m • Korean • Action, Crime, Thriller, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Judge Dredd
 
+[Compare across authors](../../compare/?t=film-judge-dredd_9482)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 1h 36m • Science Fiction • mobe1969**

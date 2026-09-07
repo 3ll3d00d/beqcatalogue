@@ -1,5 +1,7 @@
 # Valley of the Dead
 
+[Compare across authors](../../compare/?t=film-valley-of-the-dead_613093)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 41m • Spanish • Comedy, Horror, War • mobe1969**

@@ -1,5 +1,7 @@
 # Clown
 
+[Compare across authors](../../compare/?t=film-clown_112454)
+
 ## DTS-HD MA 5.1
 
 **2014 • 18 • 1h 40m • Horror • mobe1969**

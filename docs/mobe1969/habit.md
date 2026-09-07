@@ -1,5 +1,7 @@
 # Habit
 
+[Compare across authors](../../compare/?t=film-habit_682376)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 21m • Crime, Thriller, Comedy • mobe1969**

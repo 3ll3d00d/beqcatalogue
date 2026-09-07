@@ -1,5 +1,7 @@
 # Air Force The Movie: Selagi Bernyawa
 
+[Compare across authors](../../compare/?t=film-air-force-the-movie-selagi-bernyawa_988294)
+
 ## DD+ 5.1
 
 **2022 • NR • 0h 0m • Malay • Action, War, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # The Perfect Storm
 
+[Compare across authors](../../compare/?t=film-the-perfect-storm_2133)
+
 ## TrueHD 5.1
 
 **2000 • PG-13 • 2h 10m • Drama • mobe1969**

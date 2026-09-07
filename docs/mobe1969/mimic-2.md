@@ -1,5 +1,7 @@
 # Mimic 2
 
+[Compare across authors](../../compare/?t=film-mimic-2_10706)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 1h 22m • Horror, Science Fiction, Thriller • mobe1969**

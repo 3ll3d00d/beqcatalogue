@@ -1,5 +1,7 @@
 # Sexy Beast
 
+[Compare across authors](../../compare/?t=film-sexy-beast_11826)
+
 ## DTS-HD HR 5.1
 
 **2000 • R • 1h 29m • Thriller, Drama, Crime • mobe1969**

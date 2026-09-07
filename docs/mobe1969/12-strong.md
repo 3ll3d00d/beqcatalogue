@@ -1,5 +1,7 @@
 # 12 Strong
 
+[Compare across authors](../../compare/?t=film-12-strong_429351)
+
 ## DTS-HD MA 7.1
 
 **2018 • R • 2h 10m • War, Drama, Action, History • mobe1969**

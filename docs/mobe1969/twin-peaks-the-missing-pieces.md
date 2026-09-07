@@ -1,5 +1,7 @@
 # Twin Peaks: The Missing Pieces
 
+[Compare across authors](../../compare/?t=film-twin-peaks-the-missing-pieces_284457)
+
 ## DTS-HD MA 7.1
 
 **2014 • NR • 1h 31m • Thriller, Crime, Mystery, Horror • mobe1969**

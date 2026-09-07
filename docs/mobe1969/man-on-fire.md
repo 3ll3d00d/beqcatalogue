@@ -1,5 +1,7 @@
 # Man on Fire
 
+[Compare across authors](../../compare/?t=film-man-on-fire_9509)
+
 ## DTS-HD MA 5.1
 
 **2004 • R • 2h 26m • Action, Thriller, Drama • mobe1969**

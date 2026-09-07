@@ -1,5 +1,7 @@
 # How to Blow Up a Pipeline
 
+[Compare across authors](../../compare/?t=film-how-to-blow-up-a-pipeline_1008048)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 44m • Crime, Drama, Thriller • mobe1969**

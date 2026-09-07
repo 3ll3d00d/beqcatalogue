@@ -1,5 +1,7 @@
 # 10 Cloverfield Lane
 
+[Compare across authors](../../compare/?t=film-10-cloverfield-lane_333371)
+
 ## Atmos
 
 **2016 • PG-13 • 1h 44m • Thriller, Science Fiction, Drama, Horror • mobe1969**

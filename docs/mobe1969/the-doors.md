@@ -1,5 +1,7 @@
 # The Doors
 
+[Compare across authors](../../compare/?t=film-the-doors_10537)
+
 ## Atmos
 
 **1997 • R • 2h 20m • Music, Drama • mobe1969**

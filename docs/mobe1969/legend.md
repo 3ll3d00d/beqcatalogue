@@ -1,5 +1,7 @@
 # Legend
 
+[Compare across authors](../../compare/?t=film-legend_11976)
+
 ## DTS-HD MA 5.1
 
 **1985 • PG • 1h 34m • Fantasy, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Saw: The Final Chapter
 
+[Compare across authors](../../compare/?t=film-saw-the-final-chapter_41439)
+
 ## DTS-HD MA 7.1
 
 **2010 • R • 1h 30m • Horror, Crime • mobe1969**

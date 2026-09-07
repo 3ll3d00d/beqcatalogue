@@ -1,5 +1,7 @@
 # Ribbit
 
+[Compare across authors](../../compare/?t=film-ribbit_256690)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG • 1h 28m • Animation, Comedy, Family, Adventure • mobe1969**

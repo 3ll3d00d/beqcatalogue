@@ -1,5 +1,7 @@
 # Malayankunju
 
+[Compare across authors](../../compare/?t=film-malayankunju_816586)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 52m • Malayalam • Thriller, Drama • mobe1969**

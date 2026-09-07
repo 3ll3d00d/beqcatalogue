@@ -1,5 +1,7 @@
 # Spotlight
 
+[Compare across authors](../../compare/?t=film-spotlight_314365)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 2h 9m • Drama, History • mobe1969**

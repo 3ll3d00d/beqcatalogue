@@ -1,5 +1,7 @@
 # Power Rangers
 
+[Compare across authors](../../compare/?t=film-power-rangers_305470)
+
 ## Atmos
 
 **2017 • PG-13 • 2h 4m • Science Fiction, Action, Adventure • mobe1969**

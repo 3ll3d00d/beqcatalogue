@@ -1,5 +1,7 @@
 # The Gray Man
 
+[Compare across authors](../../compare/?t=film-the-gray-man_725201)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 2h 8m • Action, Thriller, Adventure • mobe1969**

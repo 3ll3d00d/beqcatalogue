@@ -1,5 +1,7 @@
 # Flash Point
 
+[Compare across authors](../../compare/?t=film-flash-point_35854)
+
 ## DD+ 5.1
 
 **2007 • R • 1h 28m • Cantonese • Action • mobe1969**

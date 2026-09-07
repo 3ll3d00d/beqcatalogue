@@ -1,5 +1,7 @@
 # Hot Tub Time Machine 2
 
+[Compare across authors](../../compare/?t=film-hot-tub-time-machine-2_243938)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

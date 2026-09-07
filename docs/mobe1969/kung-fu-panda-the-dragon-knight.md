@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-kung-fu-panda-the-dragon-knight_129959)
+
 ## Season 1
 
 * DD+ 5.1

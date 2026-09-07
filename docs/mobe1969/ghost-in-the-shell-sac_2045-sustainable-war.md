@@ -1,5 +1,7 @@
 # Ghost in the Shell: SAC_2045 Sustainable War
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell-sac_2045-sustainable-war_965244)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 58m • Japanese • Animation, Action, Science Fiction • mobe1969**

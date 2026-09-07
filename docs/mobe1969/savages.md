@@ -1,5 +1,7 @@
 # Savages
 
+[Compare across authors](../../compare/?t=film-savages_82525)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

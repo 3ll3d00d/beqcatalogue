@@ -1,5 +1,7 @@
 # Falling Down
 
+[Compare across authors](../../compare/?t=film-falling-down_37094)
+
 ## DTS-HD MA 5.1
 
 **1993 • R • 1h 53m • Crime, Drama, Thriller • mobe1969**

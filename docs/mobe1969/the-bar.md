@@ -1,5 +1,7 @@
 # The Bar
 
+[Compare across authors](../../compare/?t=film-the-bar_420648)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 42m • Spanish • Horror, Thriller, Comedy • mobe1969**

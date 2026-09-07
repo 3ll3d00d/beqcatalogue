@@ -1,5 +1,7 @@
 # Star Trek Beyond
 
+[Compare across authors](../../compare/?t=film-star-trek-beyond_188927)
+
 ## Atmos
 
 **2016 • PG-13 • 2h 2m • Action, Adventure, Science Fiction • mobe1969**

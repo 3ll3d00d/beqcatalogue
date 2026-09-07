@@ -1,5 +1,7 @@
 # Asterix & Obelix: The Middle Kingdom
 
+[Compare across authors](../../compare/?t=film-asterix-obelix-the-middle-kingdom_643215)
+
 ## DD+ Atmos
 
 **2023 • PG • 1h 52m • French • Comedy, Adventure, Family • mobe1969**

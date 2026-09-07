@@ -1,5 +1,7 @@
 # The Death and Return of Superman
 
+[Compare across authors](../../compare/?t=film-the-death-and-return-of-superman_630656)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG-13 • 2h 46m • Science Fiction, Adventure, Animation, Action, Fantasy • mobe1969**

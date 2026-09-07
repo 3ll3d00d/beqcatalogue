@@ -1,5 +1,7 @@
 # Dum Laga Ke Haisha
 
+[Compare across authors](../../compare/?t=film-dum-laga-ke-haisha_325138)
+
 ## DD+ 5.1
 
 **2015 • NR • 1h 51m • Hindi • Comedy, Drama, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Code Name Banshee
 
+[Compare across authors](../../compare/?t=film-code-name-banshee_916719)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 33m • Thriller, Action • mobe1969**

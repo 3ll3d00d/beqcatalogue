@@ -1,5 +1,7 @@
 # Oxygen
 
+[Compare across authors](../../compare/?t=film-oxygen_471498)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • 15 • 1h 40m • French • Science Fiction, Thriller, Horror • mobe1969**

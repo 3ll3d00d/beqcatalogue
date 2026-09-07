@@ -1,5 +1,7 @@
 # The Hitchhiker's Guide to the Galaxy
 
+[Compare across authors](../../compare/?t=film-the-hitchhikers-guide-to-the-galaxy_7453)
+
 ## LPCM 5.1
 
 **2005 • PG • 1h 49m • Adventure, Comedy, Family, Science Fiction • mobe1969**

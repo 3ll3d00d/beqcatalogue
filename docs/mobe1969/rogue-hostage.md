@@ -1,5 +1,7 @@
 # Rogue Hostage
 
+[Compare across authors](../../compare/?t=film-rogue-hostage_825997)
+
 ## DTS-HD MA 5.1
 
 **2021 • 15 • 1h 34m • Action, Thriller • mobe1969**

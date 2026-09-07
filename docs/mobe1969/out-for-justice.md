@@ -1,5 +1,7 @@
 # Out for Justice
 
+[Compare across authors](../../compare/?t=film-out-for-justice_14362)
+
 ## DD 5.1
 
 **1991 • R • 1h 31m • Action • mobe1969**

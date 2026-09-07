@@ -1,5 +1,7 @@
 # Baaghi
 
+[Compare across authors](../../compare/?t=film-baaghi_391629)
+
 ## Atmos
 
 **2016 • NR • 2h 14m • Hindi • Action, Thriller, Romance, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Padavettu
 
+[Compare across authors](../../compare/?t=film-padavettu_657995)
+
 ## DD+ 5.1
 
 **2022 • 12A • 2h 22m • Malayalam • Drama, Action • mobe1969**

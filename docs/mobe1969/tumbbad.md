@@ -1,5 +1,7 @@
 # Tumbbad
 
+[Compare across authors](../../compare/?t=film-tumbbad_538858)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 53m • Hindi • Horror, Fantasy • mobe1969**

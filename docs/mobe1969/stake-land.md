@@ -1,5 +1,7 @@
 # Stake Land
 
+[Compare across authors](../../compare/?t=film-stake-land_52015)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 38m • Horror, Science Fiction, Drama • mobe1969**

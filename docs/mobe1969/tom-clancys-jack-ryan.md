@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-tom-clancys-jack-ryan_73375)
+
 ## Season 1
 
 * Atmos

@@ -1,5 +1,7 @@
 # Jurassic Park
 
+[Compare across authors](../../compare/?t=film-jurassic-park_329)
+
 ## DD+ 5.1
 
 **1993 • PG-13 • 2h 7m • Adventure, Science Fiction • mobe1969**

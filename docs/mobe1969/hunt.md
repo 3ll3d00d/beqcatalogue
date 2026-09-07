@@ -1,5 +1,7 @@
 # Hunt
 
+[Compare across authors](../../compare/?t=film-hunt_727340)
+
 ## TrueHD 5.1
 
 **2022 • 15 • 2h 5m • Korean • Thriller, Action • mobe1969**

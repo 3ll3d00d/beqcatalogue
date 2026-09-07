@@ -1,5 +1,7 @@
 # Hotel Transylvania
 
+[Compare across authors](../../compare/?t=film-hotel-transylvania_76492)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG • 1h 31m • Animation, Comedy, Family, Fantasy • mobe1969**

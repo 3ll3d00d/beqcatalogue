@@ -1,5 +1,7 @@
 # Furlough
 
+[Compare across authors](../../compare/?t=film-furlough_502426)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 24m • Comedy • mobe1969**

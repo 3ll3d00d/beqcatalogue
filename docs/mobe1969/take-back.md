@@ -1,5 +1,7 @@
 # Take Back
 
+[Compare across authors](../../compare/?t=film-take-back_695282)
+
 ## DTS-HD MA 5.1
 
 **2021 • 15 • 1h 30m • Action, Thriller, Crime • mobe1969**

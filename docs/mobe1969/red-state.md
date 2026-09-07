@@ -1,5 +1,7 @@
 # Red State
 
+[Compare across authors](../../compare/?t=film-red-state_48572)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 28m • Horror, Action, Thriller • mobe1969**

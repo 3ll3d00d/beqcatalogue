@@ -1,5 +1,7 @@
 # Mike and Dave Need Wedding Dates
 
+[Compare across authors](../../compare/?t=film-mike-and-dave-need-wedding-dates_316023)
+
 ## DTS-HD MA 7.1
 
 **2016 • R • 1h 38m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # The Hunter
 
+[Compare across authors](../../compare/?t=film-the-hunter_70954)
+
 ## LPCM 5.1
 
 **2011 • R • 1h 42m • Drama, Thriller, Adventure • mobe1969**

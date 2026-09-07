@@ -1,5 +1,7 @@
 # Mrs. Serial Killer
 
+[Compare across authors](../../compare/?t=film-mrs-serial-killer_601807)
+
 ## DD+ Atmos
 
 **2020 • NR • 1h 46m • Hindi • Thriller • mobe1969**

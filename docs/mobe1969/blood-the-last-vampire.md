@@ -1,5 +1,7 @@
 # Blood: The Last Vampire
 
+[Compare across authors](../../compare/?t=film-blood-the-last-vampire_1450)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 31m • Adventure, Horror, Science Fiction, Action, Thriller • mobe1969**

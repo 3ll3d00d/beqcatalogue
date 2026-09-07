@@ -1,5 +1,7 @@
 # Bridge of Spies
 
+[Compare across authors](../../compare/?t=film-bridge-of-spies_296098)
+
 ## DTS-HD MA 7.1
 
 **2015 • PG-13 • 2h 21m • Thriller, Drama • mobe1969**

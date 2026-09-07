@@ -1,5 +1,7 @@
 # The Rescue
 
+[Compare across authors](../../compare/?t=film-the-rescue_613658)
+
 ## Atmos
 
 **2020 • NR • 2h 13m • Mandarin • Drama, Thriller • mobe1969**

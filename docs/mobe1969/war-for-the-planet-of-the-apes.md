@@ -1,5 +1,7 @@
 # War for the Planet of the Apes
 
+[Compare across authors](../../compare/?t=film-war-for-the-planet-of-the-apes_281338)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2017 • PG-13 • 2h 20m • Drama, Science Fiction, War • mobe1969**

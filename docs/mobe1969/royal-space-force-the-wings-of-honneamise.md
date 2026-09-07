@@ -1,5 +1,7 @@
 # Royal Space Force - The Wings Of Honneamise
 
+[Compare across authors](../../compare/?t=film-royal-space-force-the-wings-of-honneamise_20043)
+
 ## TrueHD 5.1
 
 **1987 • PG-13 • 2h 1m • Japanese • Science Fiction, Animation • mobe1969**

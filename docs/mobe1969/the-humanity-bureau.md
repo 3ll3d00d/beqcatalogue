@@ -1,5 +1,7 @@
 # The Humanity Bureau
 
+[Compare across authors](../../compare/?t=film-the-humanity-bureau_456048)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 34m • Science Fiction, Action, Adventure • mobe1969**

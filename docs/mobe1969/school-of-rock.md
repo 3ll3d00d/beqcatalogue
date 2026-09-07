@@ -1,5 +1,7 @@
 # School of Rock
 
+[Compare across authors](../../compare/?t=film-school-of-rock_1584)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG-13 • 1h 50m • Comedy, Music • mobe1969**

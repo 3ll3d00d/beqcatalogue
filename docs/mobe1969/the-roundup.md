@@ -1,5 +1,7 @@
 # The Roundup
 
+[Compare across authors](../../compare/?t=film-the-roundup_619803)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • PG • 1h 46m • Korean • Action, Crime • mobe1969**

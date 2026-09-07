@@ -1,5 +1,7 @@
 # I Am Omega
 
+[Compare across authors](../../compare/?t=film-i-am-omega_30778)
+
 ## DTS-HD MA 5.1
 
 **2007 • PG-13 • 1h 30m • Science Fiction, Action, Horror • mobe1969**

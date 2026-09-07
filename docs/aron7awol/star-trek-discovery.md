@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-star-trek-discovery_67198)
+
 ## Season 1
 
 * DTS-HD MA 5.1

@@ -1,5 +1,7 @@
 # Appleseed
 
+[Compare across authors](../../compare/?t=film-appleseed_11633)
+
 ## DTS 5.1
 
 **2004 • R • 1h 41m • Japanese • Animation, Action, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Welcome to Marwen
 
+[Compare across authors](../../compare/?t=film-welcome-to-marwen_351044)
+
 ## TrueHD 5.1
 
 **2018 • PG-13 • 1h 56m • Drama, Comedy, Fantasy • mobe1969**

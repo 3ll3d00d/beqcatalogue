@@ -1,5 +1,7 @@
 # Northern Skies Over Empty Space
 
+[Compare across authors](../../compare/?t=film-northern-skies-over-empty-space_926325)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 54m • Spanish • Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Thirteen
 
+[Compare across authors](../../compare/?t=film-thirteen_44982)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 37m • Drama, Thriller • mobe1969**

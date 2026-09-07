@@ -1,5 +1,7 @@
 # Drink Drank Drunk
 
+[Compare across authors](../../compare/?t=film-drink-drank-drunk_427883)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 33m • Cantonese • Comedy • mobe1969**

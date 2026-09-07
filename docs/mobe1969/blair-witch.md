@@ -1,5 +1,7 @@
 # Blair Witch
 
+[Compare across authors](../../compare/?t=film-blair-witch_351211)
+
 ## DD+ 5.1
 
 **2016 • R • 1h 29m • Thriller, Horror • mobe1969**

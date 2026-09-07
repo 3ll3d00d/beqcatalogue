@@ -1,5 +1,7 @@
 # Super
 
+[Compare across authors](../../compare/?t=film-super_45132)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 36m • Comedy, Action, Drama • mobe1969**

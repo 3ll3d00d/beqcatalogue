@@ -1,5 +1,7 @@
 # Maximum Conviction
 
+[Compare across authors](../../compare/?t=film-maximum-conviction_118683)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 37m • Action, Adventure, Thriller • mobe1969**

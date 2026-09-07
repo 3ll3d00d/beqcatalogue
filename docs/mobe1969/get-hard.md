@@ -1,5 +1,7 @@
 # Get Hard
 
+[Compare across authors](../../compare/?t=film-get-hard_257091)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

@@ -1,5 +1,7 @@
 # Che: Part Two
 
+[Compare across authors](../../compare/?t=film-che-part-two_8880)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 2h 11m • Spanish • War, History, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Their Finest
 
+[Compare across authors](../../compare/?t=film-their-finest_340101)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 57m • War, Drama, Romance, Comedy • mobe1969**

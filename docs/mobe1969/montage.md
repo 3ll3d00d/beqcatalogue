@@ -1,5 +1,7 @@
 # Montage
 
+[Compare across authors](../../compare/?t=film-montage_195276)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 55m • Korean • Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Blitz Patrollie
 
+[Compare across authors](../../compare/?t=film-blitz-patrollie_198444)
+
 ## DD+ 5.1
 
 **2012 • NR • 1h 41m • Action, Comedy, Crime • mobe1969**

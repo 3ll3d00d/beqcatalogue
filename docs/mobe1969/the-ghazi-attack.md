@@ -1,5 +1,7 @@
 # The Ghazi Attack
 
+[Compare across authors](../../compare/?t=film-the-ghazi-attack_442405)
+
 ## Atmos
 
 **2017 • NR • 2h 6m • Hindi • Action, War, Thriller, History • mobe1969**

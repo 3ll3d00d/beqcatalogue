@@ -1,5 +1,7 @@
 # Evil Dead II
 
+[Compare across authors](../../compare/?t=film-evil-dead-ii_765)
+
 ## DTS-HD MA 5.1
 
 **1987 • R • 1h 24m • Horror, Comedy, Fantasy • mobe1969**

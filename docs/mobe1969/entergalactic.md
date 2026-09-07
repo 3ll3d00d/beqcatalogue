@@ -1,5 +1,7 @@
 # Entergalactic
 
+[Compare across authors](../../compare/?t=film-entergalactic_1027014)
+
 ## DD+ Atmos
 
 **2022 • NR • 1h 32m • Animation, Comedy, Drama, Music • mobe1969**

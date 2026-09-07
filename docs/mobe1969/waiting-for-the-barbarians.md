@@ -1,5 +1,7 @@
 # Waiting for the Barbarians
 
+[Compare across authors](../../compare/?t=film-waiting-for-the-barbarians_505707)
+
 ## DTS-HD MA 5.1
 
 **2019 • 15 • 1h 54m • Drama • mobe1969**

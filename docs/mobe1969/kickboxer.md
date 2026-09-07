@@ -1,5 +1,7 @@
 # Kickboxer
 
+[Compare across authors](../../compare/?t=film-kickboxer_10222)
+
 ## DTS-HD MA 5.1
 
 **1989 • R • 1h 37m • Action, Thriller, Drama • mobe1969**

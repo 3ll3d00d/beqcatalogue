@@ -1,5 +1,7 @@
 # Stree
 
+[Compare across authors](../../compare/?t=film-stree_533991)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 8m • Hindi • Horror, Comedy • mobe1969**

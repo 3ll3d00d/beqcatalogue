@@ -1,5 +1,7 @@
 # Beyond the Law
 
+[Compare across authors](../../compare/?t=film-beyond-the-law_650272)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 30m • Action • mobe1969**

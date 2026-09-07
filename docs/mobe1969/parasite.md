@@ -1,5 +1,7 @@
 # Parasite
 
+[Compare across authors](../../compare/?t=film-parasite_496243)
+
 ## Atmos
 
 **2019 • R • 2h 13m • Korean • Comedy, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Why Him?
 
+[Compare across authors](../../compare/?t=film-why-him_356305)
+
 ## DTS-HD MA 7.1
 
 **2016 • R • 1h 51m • Comedy • mobe1969**

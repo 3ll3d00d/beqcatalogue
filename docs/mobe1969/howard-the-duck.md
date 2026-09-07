@@ -1,5 +1,7 @@
 # Howard the Duck
 
+[Compare across authors](../../compare/?t=film-howard-the-duck_10658)
+
 ## DTS-HD MA 7.1
 
 **1986 • PG • 1h 50m • Comedy, Fantasy, Science Fiction • mobe1969**

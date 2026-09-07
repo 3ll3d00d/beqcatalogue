@@ -1,5 +1,7 @@
 # Return of the Jedi
 
+[Compare across authors](../../compare/?t=film-return-of-the-jedi_1892)
+
 ## Atmos
 
 **1983 • PG • 2h 15m • Adventure, Action, Science Fiction • mobe1969**

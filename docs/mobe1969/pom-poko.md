@@ -1,5 +1,7 @@
 # Pom Poko
 
+[Compare across authors](../../compare/?t=film-pom-poko_15283)
+
 ## DD 2.0
 
 **1994 • G • 1h 59m • Adventure, Animation, Fantasy • mobe1969**

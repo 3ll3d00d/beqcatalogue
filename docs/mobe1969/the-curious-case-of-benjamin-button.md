@@ -1,5 +1,7 @@
 # The Curious Case of Benjamin Button
 
+[Compare across authors](../../compare/?t=film-the-curious-case-of-benjamin-button_4922)
+
 ## TrueHD 5.1
 
 **2008 • PG-13 • 2h 46m • Drama, Mystery, Romance, Fantasy, Thriller • mobe1969**

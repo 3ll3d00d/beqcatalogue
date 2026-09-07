@@ -1,5 +1,7 @@
 # Recoil
 
+[Compare across authors](../../compare/?t=film-recoil_91333)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 34m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Parker
 
+[Compare across authors](../../compare/?t=film-parker_119283)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 58m • Action, Crime • mobe1969**

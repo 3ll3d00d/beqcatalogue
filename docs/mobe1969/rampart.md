@@ -1,5 +1,7 @@
 # Rampart
 
+[Compare across authors](../../compare/?t=film-rampart_75622)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 48m • Crime, Drama • mobe1969**

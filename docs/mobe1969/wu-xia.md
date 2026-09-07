@@ -1,5 +1,7 @@
 # Wu Xia
 
+[Compare across authors](../../compare/?t=film-wu-xia_70057)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 55m • Mandarin • Drama, Action, Thriller • mobe1969**

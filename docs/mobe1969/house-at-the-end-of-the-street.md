@@ -1,5 +1,7 @@
 # House at the End of the Street
 
+[Compare across authors](../../compare/?t=film-house-at-the-end-of-the-street_82505)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 41m • Thriller, Horror • mobe1969**

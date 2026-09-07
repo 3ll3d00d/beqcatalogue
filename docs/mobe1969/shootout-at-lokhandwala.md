@@ -1,5 +1,7 @@
 # Shootout at Lokhandwala
 
+[Compare across authors](../../compare/?t=film-shootout-at-lokhandwala_20742)
+
 ## DTS-HD MA 5.1
 
 **2007 • 15 • 2h 1m • Hindi • Action, Crime, History • mobe1969**

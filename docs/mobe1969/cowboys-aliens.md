@@ -1,5 +1,7 @@
 # Cowboys & Aliens
 
+[Compare across authors](../../compare/?t=film-cowboys-aliens_49849)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 59m • Science Fiction, Action, Western, Thriller • mobe1969**

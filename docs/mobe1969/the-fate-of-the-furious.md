@@ -1,5 +1,7 @@
 # The Fate of the Furious
 
+[Compare across authors](../../compare/?t=film-the-fate-of-the-furious_337339)
+
 ## DD 5.1
 
 Theatrical Cut

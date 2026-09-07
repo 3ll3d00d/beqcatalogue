@@ -1,5 +1,7 @@
 # Magnolia
 
+[Compare across authors](../../compare/?t=film-magnolia_334)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 3h 9m • Drama • mobe1969**

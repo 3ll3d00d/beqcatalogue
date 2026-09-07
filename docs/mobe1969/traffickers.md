@@ -1,5 +1,7 @@
 # Traffickers
 
+[Compare across authors](../../compare/?t=film-traffickers_133603)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 51m • Korean • Drama, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Stagecoach: The Texas Jack Story
 
+[Compare across authors](../../compare/?t=film-stagecoach-the-texas-jack-story_412894)
+
 ## DTS-HD MA 5.1
 
 **2016 • 15 • 1h 30m • Western • mobe1969**

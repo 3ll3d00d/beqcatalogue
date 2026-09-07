@@ -1,5 +1,7 @@
 # White Noise
 
+[Compare across authors](../../compare/?t=film-white-noise_744594)
+
 ## DD+ Atmos
 
 **2022 • R • 2h 15m • Science Fiction, Comedy, Drama • mobe1969**

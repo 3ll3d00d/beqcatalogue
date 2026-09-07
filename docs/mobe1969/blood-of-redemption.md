@@ -1,5 +1,7 @@
 # Blood of Redemption
 
+[Compare across authors](../../compare/?t=film-blood-of-redemption_220820)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 25m • Drama, Action, Thriller, Crime • mobe1969**

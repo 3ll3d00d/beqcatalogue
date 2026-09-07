@@ -1,5 +1,7 @@
 # The Battleship Island
 
+[Compare across authors](../../compare/?t=film-the-battleship-island_436391)
+
 ## DTS-HD MA 5.1
 
 Director's Cut

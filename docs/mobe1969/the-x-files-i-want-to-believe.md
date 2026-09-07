@@ -1,5 +1,7 @@
 # The X Files: I Want to Believe
 
+[Compare across authors](../../compare/?t=film-the-x-files-i-want-to-believe_8836)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG-13 • 1h 44m • Drama, Mystery, Science Fiction, Thriller • mobe1969**

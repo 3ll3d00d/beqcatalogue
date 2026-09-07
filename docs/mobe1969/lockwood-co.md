@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-lockwood-co_213241)
+
 ## Season 1
 
 * DD+ Atmos

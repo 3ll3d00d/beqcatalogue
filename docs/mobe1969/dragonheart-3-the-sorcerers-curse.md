@@ -1,5 +1,7 @@
 # Dragonheart 3: The Sorcerer's Curse
 
+[Compare across authors](../../compare/?t=film-dragonheart-3-the-sorcerers-curse_300803)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 37m • Fantasy • mobe1969**

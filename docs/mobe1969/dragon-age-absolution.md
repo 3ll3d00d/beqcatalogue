@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-dragon-age-absolution_203805)
+
 ## Season 1
 
 * DD+ Atmos

@@ -1,5 +1,7 @@
 # Lay the Favorite
 
+[Compare across authors](../../compare/?t=film-lay-the-favorite_84305)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 34m • Drama, Comedy • mobe1969**

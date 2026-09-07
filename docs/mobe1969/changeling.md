@@ -1,5 +1,7 @@
 # Changeling
 
+[Compare across authors](../../compare/?t=film-changeling_3580)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 2h 21m • Crime, Drama, Mystery • mobe1969**

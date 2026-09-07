@@ -1,5 +1,7 @@
 # G.I. Joe: The Rise of Cobra
 
+[Compare across authors](../../compare/?t=film-gi-joe-the-rise-of-cobra_14869)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 58m • Adventure, Action, Thriller, Science Fiction • mobe1969**

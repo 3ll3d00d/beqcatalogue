@@ -1,5 +1,7 @@
 # The Courier
 
+[Compare across authors](../../compare/?t=film-the-courier_611914)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 39m • Crime, Action, Drama, Thriller • mobe1969**

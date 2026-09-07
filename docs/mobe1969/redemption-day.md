@@ -1,5 +1,7 @@
 # Redemption Day
 
+[Compare across authors](../../compare/?t=film-redemption-day_767304)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 40m • Action • mobe1969**

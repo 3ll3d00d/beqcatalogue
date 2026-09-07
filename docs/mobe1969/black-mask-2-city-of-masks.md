@@ -1,5 +1,7 @@
 # Black Mask 2: City of Masks
 
+[Compare across authors](../../compare/?t=film-black-mask-2-city-of-masks_49516)
+
 ## TrueHD 7.1
 
 **2002 • PG • 1h 42m • Cantonese • Action, Adventure, Drama, Science Fiction • mobe1969**

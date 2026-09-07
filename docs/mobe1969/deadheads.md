@@ -1,5 +1,7 @@
 # DeadHeads
 
+[Compare across authors](../../compare/?t=film-deadheads_77067)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 34m • Comedy, Adventure, Horror • mobe1969**

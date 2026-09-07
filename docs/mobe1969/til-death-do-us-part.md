@@ -1,5 +1,7 @@
 # Til Death Do Us Part
 
+[Compare across authors](../../compare/?t=film-til-death-do-us-part_1126577)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 49m • Horror, Thriller, Action • mobe1969**

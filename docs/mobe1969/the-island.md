@@ -1,5 +1,7 @@
 # The Island
 
+[Compare across authors](../../compare/?t=film-the-island_535170)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 2h 14m • Mandarin • Comedy, Drama, Mystery • mobe1969**

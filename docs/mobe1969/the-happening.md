@@ -1,5 +1,7 @@
 # The Happening
 
+[Compare across authors](../../compare/?t=film-the-happening_8645)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 31m • Thriller, Science Fiction • mobe1969**

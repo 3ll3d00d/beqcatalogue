@@ -1,5 +1,7 @@
 # Gone in Sixty Seconds
 
+[Compare across authors](../../compare/?t=film-gone-in-sixty-seconds_9679)
+
 ## DD+ 5.1
 
 **2000 • PG-13 • 1h 58m • Action, Crime, Thriller • mobe1969**

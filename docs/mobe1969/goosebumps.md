@@ -1,5 +1,7 @@
 # Goosebumps
 
+[Compare across authors](../../compare/?t=film-goosebumps_257445)
+
 ## Atmos
 
 **2015 • PG • 1h 43m • Adventure, Horror, Comedy • mobe1969**

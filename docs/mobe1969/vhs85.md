@@ -1,5 +1,7 @@
 # V/H/S/85
 
+[Compare across authors](../../compare/?t=film-vhs85_1032948)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 50m • Horror, Thriller, Mystery, Crime, Science Fiction • mobe1969**

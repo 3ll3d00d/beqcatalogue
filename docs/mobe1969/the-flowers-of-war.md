@@ -1,5 +1,7 @@
 # The Flowers of War
 
+[Compare across authors](../../compare/?t=film-the-flowers-of-war_76758)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 2h 26m • Drama, History, War • mobe1969**

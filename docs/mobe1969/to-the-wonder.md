@@ -1,5 +1,7 @@
 # To the Wonder
 
+[Compare across authors](../../compare/?t=film-to-the-wonder_60281)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 52m • Drama, Romance • mobe1969**

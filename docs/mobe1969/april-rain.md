@@ -1,5 +1,7 @@
 # April Rain
 
+[Compare across authors](../../compare/?t=film-april-rain_268823)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 30m • Action • mobe1969**

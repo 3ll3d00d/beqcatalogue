@@ -1,5 +1,7 @@
 # Gray Matter
 
+[Compare across authors](../../compare/?t=film-gray-matter_1093796)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 28m • Science Fiction • mobe1969**

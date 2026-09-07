@@ -1,5 +1,7 @@
 # The Right Stuff
 
+[Compare across authors](../../compare/?t=film-the-right-stuff_9549)
+
 ## TrueHD 5.1, DD+ 5.1
 
 **1983 • PG • 3h 13m • Drama, History, Adventure • mobe1969**

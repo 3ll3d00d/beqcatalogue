@@ -1,5 +1,7 @@
 # A Christmas Story
 
+[Compare across authors](../../compare/?t=film-a-christmas-story_850)
+
 ## DTS-HD MA 2.0
 
 **1983 • PG • 1h 33m • Comedy, Family • mobe1969**

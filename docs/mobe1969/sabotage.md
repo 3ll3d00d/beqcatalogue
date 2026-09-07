@@ -1,5 +1,7 @@
 # Sabotage
 
+[Compare across authors](../../compare/?t=film-sabotage_144336)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 50m • Action, Drama, Thriller, Crime • mobe1969**

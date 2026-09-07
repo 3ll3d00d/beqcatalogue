@@ -1,5 +1,7 @@
 # Once Upon a Time in Mumbaai
 
+[Compare across authors](../../compare/?t=film-once-upon-a-time-in-mumbaai_42966)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 2h 12m • Hindi • Drama, Thriller, Crime • mobe1969**

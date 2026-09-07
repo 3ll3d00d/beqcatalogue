@@ -1,5 +1,7 @@
 # The Signal
 
+[Compare across authors](../../compare/?t=film-the-signal_13059)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 43m • Horror, Science Fiction, Thriller • mobe1969**

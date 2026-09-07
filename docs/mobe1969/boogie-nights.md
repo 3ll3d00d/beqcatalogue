@@ -1,5 +1,7 @@
 # Boogie Nights
 
+[Compare across authors](../../compare/?t=film-boogie-nights_940164)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 28m • Korean • Comedy, Drama, Action, Crime • mobe1969**

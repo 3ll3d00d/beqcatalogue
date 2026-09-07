@@ -1,5 +1,7 @@
 # Us and Them
 
+[Compare across authors](../../compare/?t=film-us-and-them_438466)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 23m • Thriller, Drama, Crime • mobe1969**

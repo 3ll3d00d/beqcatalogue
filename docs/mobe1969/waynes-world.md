@@ -1,5 +1,7 @@
 # Wayne's World
 
+[Compare across authors](../../compare/?t=film-waynes-world_8872)
+
 ## Atmos
 
 **1992 • PG-13 • 1h 35m • Comedy, Music • mobe1969**

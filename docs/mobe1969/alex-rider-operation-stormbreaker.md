@@ -1,5 +1,7 @@
 # Alex Rider: Operation Stormbreaker
 
+[Compare across authors](../../compare/?t=film-alex-rider-operation-stormbreaker_9978)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG • 1h 33m • Adventure, Action, Family • mobe1969**

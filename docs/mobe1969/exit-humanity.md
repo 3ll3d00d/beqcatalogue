@@ -1,5 +1,7 @@
 # Exit Humanity
 
+[Compare across authors](../../compare/?t=film-exit-humanity_86305)
+
 ## DD 5.1
 
 **2011 • R • 1h 54m • Drama, Horror • mobe1969**

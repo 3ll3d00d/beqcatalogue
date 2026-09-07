@@ -1,5 +1,7 @@
 # Crazy Samurai Musashi
 
+[Compare across authors](../../compare/?t=film-crazy-samurai-musashi_675476)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 32m • Japanese • Action • mobe1969**

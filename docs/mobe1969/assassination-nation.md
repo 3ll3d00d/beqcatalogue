@@ -1,5 +1,7 @@
 # Assassination Nation
 
+[Compare across authors](../../compare/?t=film-assassination-nation_446101)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 48m • Thriller, Comedy, Horror • mobe1969**

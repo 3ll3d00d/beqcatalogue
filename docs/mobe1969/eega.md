@@ -1,5 +1,7 @@
 # Eega
 
+[Compare across authors](../../compare/?t=film-eega_148265)
+
 ## DD+ 5.1
 
 **2012 • NR • 2h 25m • Telugu • Fantasy, Action, Comedy • mobe1969**

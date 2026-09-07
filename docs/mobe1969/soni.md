@@ -1,5 +1,7 @@
 # Soni
 
+[Compare across authors](../../compare/?t=film-soni_539036)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 37m • Hindi • Drama, Crime • mobe1969**

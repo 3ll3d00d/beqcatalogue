@@ -1,5 +1,7 @@
 # 22 Jump Street
 
+[Compare across authors](../../compare/?t=film-22-jump-street_187017)
+
 ## Atmos
 
 **2014 • R • 1h 52m • Crime, Comedy, Action • mobe1969**

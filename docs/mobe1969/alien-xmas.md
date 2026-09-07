@@ -1,5 +1,7 @@
 # Alien Xmas
 
+[Compare across authors](../../compare/?t=film-alien-xmas_656561)
+
 ## DD+ 5.1
 
 **2020 • NR • 0h 42m • Animation, Family, Fantasy • mobe1969**

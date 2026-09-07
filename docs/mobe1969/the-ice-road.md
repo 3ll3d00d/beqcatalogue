@@ -1,5 +1,7 @@
 # The Ice Road
 
+[Compare across authors](../../compare/?t=film-the-ice-road_646207)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 1h 48m • Action, Adventure, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Robinson Crusoe
 
+[Compare across authors](../../compare/?t=film-robinson-crusoe_368940)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG • 1h 30m • Animation, Adventure, Comedy, Family • mobe1969**

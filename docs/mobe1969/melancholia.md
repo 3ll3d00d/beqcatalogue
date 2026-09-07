@@ -1,5 +1,7 @@
 # Melancholia
 
+[Compare across authors](../../compare/?t=film-melancholia_62215)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 2h 15m • Science Fiction, Drama • mobe1969**

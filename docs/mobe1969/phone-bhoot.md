@@ -1,5 +1,7 @@
 # Phone Bhoot
 
+[Compare across authors](../../compare/?t=film-phone-bhoot_726207)
+
 ## DD+ 5.1
 
 **2022 • 15 • 2h 17m • Hindi • Horror, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # The Vigil
 
+[Compare across authors](../../compare/?t=film-the-vigil_621707)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2019 • PG-13 • 1h 28m • Horror, Thriller, Mystery • mobe1969**

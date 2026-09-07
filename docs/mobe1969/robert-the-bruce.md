@@ -1,5 +1,7 @@
 # Robert the Bruce
 
+[Compare across authors](../../compare/?t=film-robert-the-bruce_532812)
+
 ## DTS-HD MA 5.1
 
 **2019 • 15 • 2h 4m • Drama, History • mobe1969**

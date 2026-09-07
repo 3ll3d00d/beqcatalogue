@@ -1,5 +1,7 @@
 # The School for Good and Evil
 
+[Compare across authors](../../compare/?t=film-the-school-for-good-and-evil_779782)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 2h 26m • Fantasy, Action, Drama • mobe1969**

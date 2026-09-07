@@ -1,5 +1,7 @@
 # Penguins of Madagascar
 
+[Compare across authors](../../compare/?t=film-penguins-of-madagascar_270946)
+
 ## DTS-HD MA 7.1, DD+ 5.1
 
 **2014 • PG • 1h 32m • Family, Animation, Adventure, Comedy • mobe1969**

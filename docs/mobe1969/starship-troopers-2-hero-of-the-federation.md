@@ -1,5 +1,7 @@
 # Starship Troopers 2: Hero of the Federation
 
+[Compare across authors](../../compare/?t=film-starship-troopers-2-hero-of-the-federation_10304)
+
 ## TrueHD 5.1
 
 **2004 • R • 1h 28m • Action, Science Fiction, Horror, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Dangan Runner
 
+[Compare across authors](../../compare/?t=film-dangan-runner_105130)
+
 ## DTS-HD MA 2.0
 
 **1996 • NR • 1h 22m • Japanese • Crime, Comedy, Action • mobe1969**

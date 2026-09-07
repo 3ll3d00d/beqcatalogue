@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-girihaji_94659)
+
 ## Season 1
 
 * DD+ Atmos

@@ -1,5 +1,7 @@
 # Time to Hunt
 
+[Compare across authors](../../compare/?t=film-time-to-hunt_571785)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 15m • Korean • Drama, Action, Thriller • mobe1969**

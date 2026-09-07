@@ -1,5 +1,7 @@
 # Phantoms
 
+[Compare across authors](../../compare/?t=film-phantoms_9827)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 31m • Science Fiction, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Operation Mayfair
 
+[Compare across authors](../../compare/?t=film-operation-mayfair_1103937)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 56m • Hindi • Crime, Thriller • mobe1969**

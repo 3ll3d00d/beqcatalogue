@@ -1,5 +1,7 @@
 # The Target
 
+[Compare across authors](../../compare/?t=film-the-target_267467)
+
 ## DTS-HD MA 5.1
 
 **2014 • MA15+ • 1h 42m • Korean • Thriller, Action • mobe1969**

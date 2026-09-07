@@ -1,5 +1,7 @@
 # Austin Powers in Goldmember
 
+[Compare across authors](../../compare/?t=film-austin-powers-in-goldmember_818)
+
 ## DD+ 5.1
 
 **2002 • PG-13 • 1h 33m • Comedy, Crime, Science Fiction • mobe1969**

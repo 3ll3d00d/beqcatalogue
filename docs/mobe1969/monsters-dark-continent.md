@@ -1,5 +1,7 @@
 # Monsters: Dark Continent
 
+[Compare across authors](../../compare/?t=film-monsters-dark-continent_145221)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 59m • Drama, Science Fiction, Thriller • mobe1969**

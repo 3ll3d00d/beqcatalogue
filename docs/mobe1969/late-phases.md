@@ -1,5 +1,7 @@
 # Late Phases
 
+[Compare across authors](../../compare/?t=film-late-phases_254193)
+
 ## DD 5.1
 
 **2014 • 16 • 1h 35m • Horror, Thriller • mobe1969**

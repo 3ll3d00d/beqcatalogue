@@ -1,5 +1,7 @@
 # Along with the Gods: The Two Worlds
 
+[Compare across authors](../../compare/?t=film-along-with-the-gods-the-two-worlds_397567)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 2h 19m • Korean • Drama, Fantasy, Action • mobe1969**

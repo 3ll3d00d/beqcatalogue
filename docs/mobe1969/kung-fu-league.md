@@ -1,5 +1,7 @@
 # Kung Fu League
 
+[Compare across authors](../../compare/?t=film-kung-fu-league_523873)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 1h 42m • Mandarin • Action, Comedy • mobe1969**

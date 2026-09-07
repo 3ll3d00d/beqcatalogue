@@ -1,5 +1,7 @@
 # Alkhallat+
 
+[Compare across authors](../../compare/?t=film-alkhallat_1064450)
+
 ## DD+ 5.1
 
 **2023 • PG • 1h 56m • Mystery, Comedy • mobe1969**

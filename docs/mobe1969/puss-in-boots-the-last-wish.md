@@ -1,5 +1,7 @@
 # Puss in Boots: The Last Wish
 
+[Compare across authors](../../compare/?t=film-puss-in-boots-the-last-wish_315162)
+
 ## Atmos
 
 **2022 • PG • 1h 43m • Animation, Adventure, Comedy • mobe1969**

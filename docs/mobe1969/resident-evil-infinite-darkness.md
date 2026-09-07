@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-resident-evil-infinite-darkness_110642)
+
 ## Season 1
 
 * DTS-HD MA 5.1, DD+ 5.1

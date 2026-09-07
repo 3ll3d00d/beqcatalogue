@@ -1,5 +1,7 @@
 # Mummies
 
+[Compare across authors](../../compare/?t=film-mummies_816904)
+
 ## DD+ 5.1
 
 **2023 • PG • 1h 28m • Animation, Comedy, Family, Adventure, Fantasy • mobe1969**

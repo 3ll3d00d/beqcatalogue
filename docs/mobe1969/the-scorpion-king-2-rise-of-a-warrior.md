@@ -1,5 +1,7 @@
 # The Scorpion King 2: Rise of a Warrior
 
+[Compare across authors](../../compare/?t=film-the-scorpion-king-2-rise-of-a-warrior_13486)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG-13 • 1h 49m • Action, Adventure, Fantasy, Science Fiction • mobe1969**

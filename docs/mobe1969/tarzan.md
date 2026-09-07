@@ -1,5 +1,7 @@
 # Tarzan
 
+[Compare across authors](../../compare/?t=film-tarzan_230222)
+
 ## DTS-HD MA 5.1
 
 **2013 • G • 1h 34m • Animation, Action, Adventure, Family • mobe1969**

@@ -1,5 +1,7 @@
 # The Colony
 
+[Compare across authors](../../compare/?t=film-the-colony_760873)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 44m • Science Fiction • mobe1969**

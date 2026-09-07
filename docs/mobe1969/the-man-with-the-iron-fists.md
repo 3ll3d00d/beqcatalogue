@@ -1,5 +1,7 @@
 # The Man with the Iron Fists
 
+[Compare across authors](../../compare/?t=film-the-man-with-the-iron-fists_97430)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 36m • Action • mobe1969**

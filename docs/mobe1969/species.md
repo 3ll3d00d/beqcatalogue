@@ -1,5 +1,7 @@
 # Species
 
+[Compare across authors](../../compare/?t=film-species_9348)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 1h 48m • Science Fiction, Horror, Action • mobe1969**

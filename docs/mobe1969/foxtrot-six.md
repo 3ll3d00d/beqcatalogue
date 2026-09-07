@@ -1,5 +1,7 @@
 # Foxtrot Six
 
+[Compare across authors](../../compare/?t=film-foxtrot-six_491854)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 54m • Action, Science Fiction, Drama • mobe1969**

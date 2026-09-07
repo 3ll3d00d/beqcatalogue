@@ -1,5 +1,7 @@
 # How I Became a Superhero
 
+[Compare across authors](../../compare/?t=film-how-i-became-a-superhero_641501)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2020 • 15 • 1h 41m • French • Science Fiction, Adventure, Mystery, Action, Thriller, Fantasy, Comedy • mobe1969**

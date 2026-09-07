@@ -1,5 +1,7 @@
 # Kaali Khuhi
 
+[Compare across authors](../../compare/?t=film-kaali-khuhi_744876)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 30m • Hindi • Horror, Drama, Thriller • mobe1969**

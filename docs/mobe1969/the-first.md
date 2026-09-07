@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-first_74159)
+
 ## Season 1
 
 * DD+ 5.1

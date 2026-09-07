@@ -1,5 +1,7 @@
 # Dog Soldiers
 
+[Compare across authors](../../compare/?t=film-dog-soldiers_11880)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 1h 45m • Horror, Thriller, Action • mobe1969**

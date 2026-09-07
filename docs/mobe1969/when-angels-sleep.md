@@ -1,5 +1,7 @@
 # When Angels Sleep
 
+[Compare across authors](../../compare/?t=film-when-angels-sleep_533992)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 34m • German • Thriller, Crime • mobe1969**

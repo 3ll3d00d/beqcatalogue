@@ -1,5 +1,7 @@
 # The Loft
 
+[Compare across authors](../../compare/?t=film-the-loft_72784)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 48m • Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Megamind
 
+[Compare across authors](../../compare/?t=film-megamind_38055)
+
 ## TrueHD 7.1
 
 **2010 • PG • 1h 36m • Animation, Action, Comedy, Family, Science Fiction • mobe1969**

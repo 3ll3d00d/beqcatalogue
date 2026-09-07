@@ -1,5 +1,7 @@
 # Viking Destiny
 
+[Compare across authors](../../compare/?t=film-viking-destiny_537347)
+
 ## DTS-HD MA 5.1
 
 **2018 • 18 • 1h 31m • Adventure, Action, Fantasy • mobe1969**

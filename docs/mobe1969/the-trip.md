@@ -1,5 +1,7 @@
 # The Trip
 
+[Compare across authors](../../compare/?t=film-the-trip_760747)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 53m • Norwegian • Action, Comedy, Thriller, Horror • mobe1969**

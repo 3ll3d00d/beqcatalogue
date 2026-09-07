@@ -1,5 +1,7 @@
 # The Domestics
 
+[Compare across authors](../../compare/?t=film-the-domestics_426814)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 35m • Thriller, Horror • mobe1969**

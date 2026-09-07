@@ -1,5 +1,7 @@
 # The Last Lullaby
 
+[Compare across authors](../../compare/?t=film-the-last-lullaby_67362)
+
 ## DD+ 2.0
 
 **2008 • NR • 1h 33m • Drama, Mystery • mobe1969**

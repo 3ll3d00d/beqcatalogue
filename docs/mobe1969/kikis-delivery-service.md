@@ -1,5 +1,7 @@
 # Kiki's Delivery Service
 
+[Compare across authors](../../compare/?t=film-kikis-delivery-service_16859)
+
 ## DD+ 5.1
 
 **1989 • G • 1h 43m • Animation, Family, Fantasy, Adventure • mobe1969**

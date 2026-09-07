@@ -1,5 +1,7 @@
 # Raangi
 
+[Compare across authors](../../compare/?t=film-raangi_618907)
+
 ## DD+ Atmos
 
 **2022 • NR • 2h 1m • Tamil • Action, Thriller • mobe1969**

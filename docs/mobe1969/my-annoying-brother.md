@@ -1,5 +1,7 @@
 # My Annoying Brother
 
+[Compare across authors](../../compare/?t=film-my-annoying-brother_426166)
+
 ## TrueHD 5.1
 
 **2016 • NR • 1h 50m • Korean • Drama, Comedy • mobe1969**

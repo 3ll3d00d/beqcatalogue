@@ -1,5 +1,7 @@
 # Outrage Coda
 
+[Compare across authors](../../compare/?t=film-outrage-coda_452323)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 1h 45m • Japanese • Drama, Action, Crime • mobe1969**

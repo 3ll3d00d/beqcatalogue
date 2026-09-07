@@ -1,5 +1,7 @@
 # Library Wars: The Last Mission
 
+[Compare across authors](../../compare/?t=film-library-wars-the-last-mission_363354)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 2h 0m • Japanese • Romance, Action, Comedy • mobe1969**

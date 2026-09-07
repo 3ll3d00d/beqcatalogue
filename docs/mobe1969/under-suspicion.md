@@ -1,5 +1,7 @@
 # Under Suspicion
 
+[Compare across authors](../../compare/?t=film-under-suspicion_26850)
+
 ## LPCM 2.0
 
 **1991 • R • 1h 39m • Crime, Thriller • mobe1969**

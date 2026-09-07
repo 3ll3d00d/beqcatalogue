@@ -1,5 +1,7 @@
 # Pain & Gain
 
+[Compare across authors](../../compare/?t=film-pain-gain_134374)
+
 ## TrueHD 7.1
 
 **2013 • R • 2h 10m • Crime, Comedy • mobe1969**

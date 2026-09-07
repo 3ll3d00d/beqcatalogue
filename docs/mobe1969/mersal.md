@@ -1,5 +1,7 @@
 # Mersal
 
+[Compare across authors](../../compare/?t=film-mersal_456287)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 49m • Tamil • Thriller, Action • mobe1969**

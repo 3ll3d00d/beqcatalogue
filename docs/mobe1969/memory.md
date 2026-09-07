@@ -1,5 +1,7 @@
 # Memory
 
+[Compare across authors](../../compare/?t=film-memory_818397)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 54m • Action, Thriller, Crime • mobe1969**

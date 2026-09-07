@@ -1,5 +1,7 @@
 # The Aviary
 
+[Compare across authors](../../compare/?t=film-the-aviary_952374)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 35m • Thriller • mobe1969**

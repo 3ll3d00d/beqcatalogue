@@ -1,5 +1,7 @@
 # The Electrical Life of Louis Wain
 
+[Compare across authors](../../compare/?t=film-the-electrical-life-of-louis-wain_617762)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 51m • Drama, History • mobe1969**

@@ -1,5 +1,7 @@
 # Tune in for Love
 
+[Compare across authors](../../compare/?t=film-tune-in-for-love_570503)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 2m • Korean • Romance, Drama • mobe1969**

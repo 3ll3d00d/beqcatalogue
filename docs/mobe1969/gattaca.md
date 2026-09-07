@@ -1,5 +1,7 @@
 # Gattaca
 
+[Compare across authors](../../compare/?t=film-gattaca_782)
+
 ## TrueHD 5.1
 
 **1997 • PG-13 • 1h 46m • Science Fiction, Mystery, Romance, Thriller • mobe1969**

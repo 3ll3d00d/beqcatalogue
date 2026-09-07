@@ -1,5 +1,7 @@
 # Back to the Future Part II
 
+[Compare across authors](../../compare/?t=film-back-to-the-future-part-ii_165)
+
 ## DTS-HD MA 5.1
 
 **1989 • PG • 1h 48m • Adventure, Comedy, Science Fiction, Family • mobe1969**

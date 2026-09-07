@@ -1,5 +1,7 @@
 # The Village
 
+[Compare across authors](../../compare/?t=film-the-village_6947)
+
 ## DD+ 5.1
 
 **2004 • PG-13 • 1h 48m • Drama, Mystery, Thriller • mobe1969**

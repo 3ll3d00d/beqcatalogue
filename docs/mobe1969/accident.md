@@ -1,5 +1,7 @@
 # Accident
 
+[Compare across authors](../../compare/?t=film-accident_25474)
+
 ## TrueHD 7.1
 
 **2009 • R • 1h 29m • Cantonese • Action, Drama, Thriller • mobe1969**

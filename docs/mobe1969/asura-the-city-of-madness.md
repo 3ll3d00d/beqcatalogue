@@ -1,5 +1,7 @@
 # Asura: The City of Madness
 
+[Compare across authors](../../compare/?t=film-asura-the-city-of-madness_408620)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 2h 16m • Korean • Action, Crime • mobe1969**

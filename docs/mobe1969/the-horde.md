@@ -1,5 +1,7 @@
 # The Horde
 
+[Compare across authors](../../compare/?t=film-the-horde_37905)
+
 ## DTS 5.1
 
 **2009 • 18 • 1h 38m • French • Action, Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Bhoothnath Returns
 
+[Compare across authors](../../compare/?t=film-bhoothnath-returns_264085)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 2h 32m • Hindi • Comedy, Drama, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Blithe Spirit
 
+[Compare across authors](../../compare/?t=film-blithe-spirit_644831)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 39m • Comedy, Fantasy, Romance • mobe1969**

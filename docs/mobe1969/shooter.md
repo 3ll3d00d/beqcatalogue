@@ -1,5 +1,7 @@
 # Shooter
 
+[Compare across authors](../../compare/?t=film-shooter_7485)
+
 ## DD 5.1
 
 **2007 • R • 2h 4m • Action, Drama, Mystery, Thriller, Crime • mobe1969**

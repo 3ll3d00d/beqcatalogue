@@ -1,5 +1,7 @@
 # The Fountain
 
+[Compare across authors](../../compare/?t=film-the-fountain_1381)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 1h 36m • Drama, Adventure, Science Fiction, Romance • mobe1969**

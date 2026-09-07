@@ -1,5 +1,7 @@
 # Child's Play 2
 
+[Compare across authors](../../compare/?t=film-childs-play-2_11186)
+
 ## Atmos
 
 **1990 • R • 1h 24m • Horror, Thriller • mobe1969**

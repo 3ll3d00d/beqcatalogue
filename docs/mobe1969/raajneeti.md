@@ -1,5 +1,7 @@
 # Raajneeti
 
+[Compare across authors](../../compare/?t=film-raajneeti_37951)
+
 ## DD+ 5.1
 
 **2010 • 12A • 2h 47m • Hindi • Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Outpost: Black Sun
 
+[Compare across authors](../../compare/?t=film-outpost-black-sun_100183)
+
 ## DTS-HD MA 5.1
 
 **2012 • 15 • 1h 41m • Action, Horror • mobe1969**

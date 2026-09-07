@@ -1,5 +1,7 @@
 # Atomic Blonde
 
+[Compare across authors](../../compare/?t=film-atomic-blonde_341013)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 55m • Italian • Action, Thriller • mobe1969**

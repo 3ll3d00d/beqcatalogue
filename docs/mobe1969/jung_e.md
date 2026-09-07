@@ -1,5 +1,7 @@
 # JUNG_E
 
+[Compare across authors](../../compare/?t=film-jung_e_843794)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 38m • Korean • Action, Adventure, Science Fiction • mobe1969**

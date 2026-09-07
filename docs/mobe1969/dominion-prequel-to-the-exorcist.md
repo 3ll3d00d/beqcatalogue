@@ -1,5 +1,7 @@
 # Dominion: Prequel to the Exorcist
 
+[Compare across authors](../../compare/?t=film-dominion-prequel-to-the-exorcist_12700)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 57m • Horror, Thriller • mobe1969**

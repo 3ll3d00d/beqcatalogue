@@ -1,5 +1,7 @@
 # Deliver Us from Evil
 
+[Compare across authors](../../compare/?t=film-deliver-us-from-evil_184346)
+
 ## DD 5.1
 
 **2014 • R • 1h 58m • Thriller, Crime, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # The Gunman
 
+[Compare across authors](../../compare/?t=film-the-gunman_266396)
+
 ## Atmos
 
 **2015 • R • 1h 55m • Drama, Crime, Action • mobe1969**

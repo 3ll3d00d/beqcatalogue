@@ -1,5 +1,7 @@
 # Sugar Mountain
 
+[Compare across authors](../../compare/?t=film-sugar-mountain_423377)
+
 ## DTS-HD MA 5.1
 
 **2016 • 16 • 1h 46m • Drama, Thriller • mobe1969**

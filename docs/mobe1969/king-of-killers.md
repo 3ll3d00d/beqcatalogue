@@ -1,5 +1,7 @@
 # King of Killers
 
+[Compare across authors](../../compare/?t=film-king-of-killers_1024127)
+
 ## DTS-HD MA 5.1
 
 **2023 • R • 1h 31m • Action, Thriller • mobe1969**

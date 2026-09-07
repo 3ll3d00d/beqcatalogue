@@ -1,5 +1,7 @@
 # Flash Gordon
 
+[Compare across authors](../../compare/?t=film-flash-gordon_3604)
+
 ## DTS-HD MA 5.1
 
 UHD

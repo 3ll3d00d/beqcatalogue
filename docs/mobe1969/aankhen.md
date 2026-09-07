@@ -1,5 +1,7 @@
 # Aankhen
 
+[Compare across authors](../../compare/?t=film-aankhen_21982)
+
 ## DD+ 5.1
 
 **2002 • NR • 2h 45m • Hindi • Crime, Thriller • mobe1969**

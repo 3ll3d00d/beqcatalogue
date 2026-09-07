@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-warrior_73544)
+
 ## Season 1
 
 * DD+

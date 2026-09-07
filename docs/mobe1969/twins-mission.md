@@ -1,5 +1,7 @@
 # Twins Mission
 
+[Compare across authors](../../compare/?t=film-twins-mission_15939)
+
 ## DD+ 5.1
 
 **2007 • NR • 1h 39m • Cantonese • Action • mobe1969**

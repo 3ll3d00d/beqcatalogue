@@ -1,5 +1,7 @@
 # Bring It On
 
+[Compare across authors](../../compare/?t=film-bring-it-on_1588)
+
 ## DTS-HD MA 5.1
 
 **2000 • PG-13 • 1h 38m • Comedy • mobe1969**

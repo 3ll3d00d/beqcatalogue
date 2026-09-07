@@ -1,5 +1,7 @@
 # Johnny English Reborn
 
+[Compare across authors](../../compare/?t=film-johnny-english-reborn_58233)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG • 1h 41m • Crime, Adventure, Action, Comedy, Thriller • mobe1969**

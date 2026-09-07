@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-thicker-than-water_222559)
+
 ## Season 1
 
 * DD+ 5.1

@@ -1,5 +1,7 @@
 # Kambakkht Ishq
 
+[Compare across authors](../../compare/?t=film-kambakkht-ishq_10788)
+
 ## DTS-HD MA 5.1, DD 5.1
 
 **2009 • NR • 2h 14m • Hindi • Action, Comedy, Drama, Romance • mobe1969**

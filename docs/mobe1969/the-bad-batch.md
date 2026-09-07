@@ -1,5 +1,7 @@
 # The Bad Batch
 
+[Compare across authors](../../compare/?t=film-the-bad-batch_316154)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 59m • Drama, Horror, Science Fiction • mobe1969**

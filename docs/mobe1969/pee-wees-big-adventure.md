@@ -1,5 +1,7 @@
 # Pee-Wee's Big Adventure
 
+[Compare across authors](../../compare/?t=film-pee-wees-big-adventure_5683)
+
 ## DD+ 5.1
 
 **1985 • PG • 1h 31m • Comedy, Adventure • mobe1969**

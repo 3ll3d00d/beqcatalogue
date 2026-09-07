@@ -1,5 +1,7 @@
 # Dil Dhadakne Do
 
+[Compare across authors](../../compare/?t=film-dil-dhadakne-do_338065)
+
 ## DD+ 5.1
 
 **2015 • PG-13 • 2h 50m • Hindi • Drama, Family, Romance • mobe1969**

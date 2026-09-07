@@ -1,5 +1,7 @@
 # The Scary House
 
+[Compare across authors](../../compare/?t=film-the-scary-house_735595)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 40m • German • Family, Fantasy, Horror • mobe1969**

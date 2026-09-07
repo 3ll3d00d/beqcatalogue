@@ -1,5 +1,7 @@
 # 10 Days of a Bad Man
 
+[Compare across authors](../../compare/?t=film-10-days-of-a-bad-man_1074262)
+
 ## DD+ 5.1
 
 **2023 • R • 2h 4m • Turkish • Crime • mobe1969**

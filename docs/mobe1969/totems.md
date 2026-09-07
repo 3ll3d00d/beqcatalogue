@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-totems_121462)
+
 ## Season 1
 
 * DD+ 5.1

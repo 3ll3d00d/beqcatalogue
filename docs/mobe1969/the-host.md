@@ -1,5 +1,7 @@
 # The Host
 
+[Compare across authors](../../compare/?t=film-the-host_1255)
+
 ## DTS-HD HR 5.1
 
 **2006 • M • 2h 0m • Korean • Horror, Drama, Science Fiction • mobe1969**

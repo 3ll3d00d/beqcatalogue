@@ -1,5 +1,7 @@
 # A Jazzman's Blues
 
+[Compare across authors](../../compare/?t=film-a-jazzmans-blues_921643)
+
 ## DD+ Atmos
 
 **2022 • R • 2h 7m • Drama, Romance • mobe1969**

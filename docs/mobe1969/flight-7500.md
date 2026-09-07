@@ -1,5 +1,7 @@
 # Flight 7500
 
+[Compare across authors](../../compare/?t=film-flight-7500_82657)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 19m • Horror, Thriller, Mystery • mobe1969**

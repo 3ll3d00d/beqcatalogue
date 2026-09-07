@@ -1,5 +1,7 @@
 # Piranha 3D
 
+[Compare across authors](../../compare/?t=film-piranha-3d_43593)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 28m • Comedy, Horror • mobe1969**

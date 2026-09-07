@@ -1,5 +1,7 @@
 # Running Out of Time 2
 
+[Compare across authors](../../compare/?t=film-running-out-of-time-2_45303)
+
 ## TrueHD 7.1
 
 **2001 • NR • 1h 35m • Cantonese • Thriller, Action, Crime • mobe1969**

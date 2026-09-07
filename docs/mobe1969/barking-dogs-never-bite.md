@@ -1,5 +1,7 @@
 # Barking Dogs Never Bite
 
+[Compare across authors](../../compare/?t=film-barking-dogs-never-bite_21531)
+
 ## DTS-HD MA 5.1
 
 **2000 • NR • 1h 50m • Korean • Comedy • mobe1969**

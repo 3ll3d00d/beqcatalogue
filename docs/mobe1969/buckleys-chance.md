@@ -1,5 +1,7 @@
 # Buckley's Chance
 
+[Compare across authors](../../compare/?t=film-buckleys-chance_813152)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 36m • Drama, Family • mobe1969**

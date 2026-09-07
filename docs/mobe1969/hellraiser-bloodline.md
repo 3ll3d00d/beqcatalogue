@@ -1,5 +1,7 @@
 # Hellraiser: Bloodline
 
+[Compare across authors](../../compare/?t=film-hellraiser-bloodline_8766)
+
 ## DD 5.1
 
 **1996 • R • 1h 26m • Horror, Science Fiction • mobe1969**

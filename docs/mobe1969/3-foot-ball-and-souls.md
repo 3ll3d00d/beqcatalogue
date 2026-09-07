@@ -1,5 +1,7 @@
 # 3 Foot Ball and Souls
 
+[Compare across authors](../../compare/?t=film-3-foot-ball-and-souls_470116)
+
 ## DD+ 2.0
 
 **2018 • NR • 1h 33m • Japanese • Comedy, Science Fiction, Drama, Mystery • mobe1969**

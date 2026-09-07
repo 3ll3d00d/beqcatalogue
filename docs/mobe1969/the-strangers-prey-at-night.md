@@ -1,5 +1,7 @@
 # The Strangers: Prey at Night
 
+[Compare across authors](../../compare/?t=film-the-strangers-prey-at-night_371608)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 25m • Thriller, Horror • mobe1969**

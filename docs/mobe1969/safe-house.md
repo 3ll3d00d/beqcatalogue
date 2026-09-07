@@ -1,5 +1,7 @@
 # Safe House
 
+[Compare across authors](../../compare/?t=film-safe-house_59961)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 55m • Action, Thriller • mobe1969**

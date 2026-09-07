@@ -1,5 +1,7 @@
 # Riverdance: The Animated Adventure
 
+[Compare across authors](../../compare/?t=film-riverdance-the-animated-adventure_756403)
+
 ## DD+ Atmos
 
 **2021 • U • 1h 26m • Animation, Fantasy, Music, Adventure, Comedy, Family • mobe1969**

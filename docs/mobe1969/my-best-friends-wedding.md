@@ -1,5 +1,7 @@
 # My Best Friend's Wedding
 
+[Compare across authors](../../compare/?t=film-my-best-friends-wedding_409289)
+
 ## DD+ 5.1
 
 **2016 • PG • 1h 31m • Mandarin • Romance, Comedy • mobe1969**

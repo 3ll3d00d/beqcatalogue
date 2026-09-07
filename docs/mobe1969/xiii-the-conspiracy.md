@@ -1,5 +1,7 @@
 # XIII: The Conspiracy
 
+[Compare across authors](../../compare/?t=film-xiii-the-conspiracy_817122)
+
 ## DD 5.1
 
 **2008 • R • 2h 50m • Thriller, Action • mobe1969**

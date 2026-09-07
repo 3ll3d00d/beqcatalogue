@@ -1,5 +1,7 @@
 # Hick
 
+[Compare across authors](../../compare/?t=film-hick_94363)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 39m • Comedy, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Scrooge: A Christmas Carol
 
+[Compare across authors](../../compare/?t=film-scrooge-a-christmas-carol_1001865)
+
 ## DD+ 5.1
 
 **2022 • G • 1h 37m • Animation, Family, Fantasy, Drama • mobe1969**

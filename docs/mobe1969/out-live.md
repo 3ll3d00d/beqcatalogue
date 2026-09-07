@@ -1,5 +1,7 @@
 # Out Live
 
+[Compare across authors](../../compare/?t=film-out-live_16404)
+
 ## DTS-HD MA 5.1
 
 **2000 • NR • 1h 58m • Korean • Drama, Action, Fantasy • mobe1969**

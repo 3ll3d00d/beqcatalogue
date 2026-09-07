@@ -1,5 +1,7 @@
 # The Hunter's Prayer
 
+[Compare across authors](../../compare/?t=film-the-hunters-prayer_302150)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 31m • Action, Thriller • mobe1969**

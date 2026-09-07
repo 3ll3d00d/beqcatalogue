@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-mad-for-each-other_125350)
+
 ## Season 1
 
 * DD+ 2.0

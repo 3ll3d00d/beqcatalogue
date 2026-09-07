@@ -1,5 +1,7 @@
 # Deep Sea 3D
 
+[Compare across authors](../../compare/?t=film-deep-sea-3d_17700)
+
 ## DTS-HD MA 5.1
 
 **2006 • G • 0h 41m • Documentary • mobe1969**

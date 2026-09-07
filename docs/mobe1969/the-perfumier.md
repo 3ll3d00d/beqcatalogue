@@ -1,5 +1,7 @@
 # The Perfumier
 
+[Compare across authors](../../compare/?t=film-the-perfumier_1016446)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 36m • German • Crime, Drama, Thriller • mobe1969**

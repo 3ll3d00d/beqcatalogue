@@ -1,5 +1,7 @@
 # A Call To Spy
 
+[Compare across authors](../../compare/?t=film-a-call-to-spy_589612)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 2h 4m • War, Drama, Thriller • mobe1969**

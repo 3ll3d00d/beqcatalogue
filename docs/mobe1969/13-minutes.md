@@ -1,5 +1,7 @@
 # 13 Minutes
 
+[Compare across authors](../../compare/?t=film-13-minutes_787723)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 1h 49m • Action, Drama, Thriller • mobe1969**

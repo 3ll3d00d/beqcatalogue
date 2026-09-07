@@ -1,5 +1,7 @@
 # Rush Hour
 
+[Compare across authors](../../compare/?t=film-rush-hour_2109)
+
 ## DTS-HD MA 7.1
 
 **1998 • PG-13 • 1h 38m • Crime, Action, Comedy • mobe1969**

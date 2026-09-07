@@ -1,5 +1,7 @@
 # The Toll
 
+[Compare across authors](../../compare/?t=film-the-toll_638045)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 20m • Thriller, Horror • mobe1969**

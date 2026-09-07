@@ -1,5 +1,7 @@
 # Dauntless: The Battle of Midway
 
+[Compare across authors](../../compare/?t=film-dauntless-the-battle-of-midway_604837)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 38m • War • mobe1969**

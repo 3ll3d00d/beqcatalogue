@@ -1,5 +1,7 @@
 # Dead Snow
 
+[Compare across authors](../../compare/?t=film-dead-snow_14451)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 31m • Norwegian • Horror, Comedy • mobe1969**

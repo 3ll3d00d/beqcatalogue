@@ -1,5 +1,7 @@
 # Nope
 
+[Compare across authors](../../compare/?t=film-nope_762504)
+
 ## Atmos
 
 **2022 • R • 2h 10m • Horror, Mystery, Science Fiction, Thriller • mobe1969**

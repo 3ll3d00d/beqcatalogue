@@ -1,5 +1,7 @@
 # Rocky Aur Rani Kii Prem Kahaani
 
+[Compare across authors](../../compare/?t=film-rocky-aur-rani-kii-prem-kahaani_848116)
+
 ## DD+ 5.1
 
 **2023 • 12A • 2h 49m • Hindi • Comedy, Drama, Family, Romance • mobe1969**

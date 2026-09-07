@@ -1,5 +1,7 @@
 # A Christmas Carol
 
+[Compare across authors](../../compare/?t=film-a-christmas-carol_17979)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG • 1h 34m • Animation, Family, Drama, Fantasy • mobe1969**

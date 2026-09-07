@@ -1,5 +1,7 @@
 # Pandemic
 
+[Compare across authors](../../compare/?t=film-pandemic_41813)
+
 ## DTS-HD MA 5.1
 
 **2009 • 12 • 2h 18m • Japanese • Action, Drama, Science Fiction, Thriller • mobe1969**

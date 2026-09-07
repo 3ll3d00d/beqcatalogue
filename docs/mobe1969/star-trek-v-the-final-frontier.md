@@ -1,5 +1,7 @@
 # Star Trek V: The Final Frontier
 
+[Compare across authors](../../compare/?t=film-star-trek-v-the-final-frontier_172)
+
 ## TrueHD 7.1
 
 **1989 • PG • 1h 47m • Science Fiction, Action, Adventure, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Night Watch
 
+[Compare across authors](../../compare/?t=film-night-watch_3040)
+
 ## TrueHD 5.1
 
 **2004 • R • 1h 54m • Russian • Fantasy, Action, Thriller • mobe1969**

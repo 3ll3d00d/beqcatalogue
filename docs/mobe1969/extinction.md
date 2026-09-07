@@ -1,5 +1,7 @@
 # Extinction
 
+[Compare across authors](../../compare/?t=film-extinction_429415)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 36m • Action, Drama, Science Fiction, Thriller • mobe1969**

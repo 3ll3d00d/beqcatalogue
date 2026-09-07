@@ -1,5 +1,7 @@
 # Naai Sekar Returns
 
+[Compare across authors](../../compare/?t=film-naai-sekar-returns_882397)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 24m • Tamil • Comedy • mobe1969**

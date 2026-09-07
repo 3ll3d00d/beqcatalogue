@@ -1,5 +1,7 @@
 # Star Trek III: The Search for Spock
 
+[Compare across authors](../../compare/?t=film-star-trek-iii-the-search-for-spock_157)
+
 ## TrueHD 7.1
 
 **1984 • PG • 1h 45m • Thriller, Adventure, Science Fiction, Action • mobe1969**

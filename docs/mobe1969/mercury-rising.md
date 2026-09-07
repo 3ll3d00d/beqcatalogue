@@ -1,5 +1,7 @@
 # Mercury Rising
 
+[Compare across authors](../../compare/?t=film-mercury-rising_8838)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 51m • Action, Crime, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Star Wars: The Force Awakens
 
+[Compare across authors](../../compare/?t=film-star-wars-the-force-awakens_140607)
+
 ## Atmos
 
 **2015 • PG-13 • 2h 16m • Adventure, Action, Science Fiction, Fantasy • mobe1969**

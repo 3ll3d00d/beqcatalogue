@@ -1,5 +1,7 @@
 # The Chronicles of Narnia: The Lion, The Witch and the Wardrobe
 
+[Compare across authors](../../compare/?t=film-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe_411)
+
 ## LPCM 5.1
 
 **2008 • PG • 2h 23m • Fantasy, Adventure, Family • mobe1969**

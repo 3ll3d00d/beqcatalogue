@@ -1,5 +1,7 @@
 # Beowulf & Grendel
 
+[Compare across authors](../../compare/?t=film-beowulf-grendel_5471)
+
 ## LPCM 5.1
 
 **2005 • R • 1h 43m • Action, Adventure, Drama, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Star Trek
 
+[Compare across authors](../../compare/?t=film-star-trek_13475)
+
 ## Atmos
 
 **2009 • PG-13 • 2h 7m • Science Fiction, Action, Adventure • mobe1969**

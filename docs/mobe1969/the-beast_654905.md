@@ -1,5 +1,7 @@
 # The Beast
 
+[Compare across authors](../../compare/?t=film-the-beast_654905)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 39m • Italian • Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Mikhael
 
+[Compare across authors](../../compare/?t=film-mikhael_573257)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 30m • Malayalam • Action, Family, Thriller • mobe1969**

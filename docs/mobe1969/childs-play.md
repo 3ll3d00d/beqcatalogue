@@ -1,5 +1,7 @@
 # Child's Play
 
+[Compare across authors](../../compare/?t=film-childs-play_10585)
+
 ## Atmos
 
 **1988 • R • 1h 27m • Horror • mobe1969**

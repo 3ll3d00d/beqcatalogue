@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-when-heroes-fly_79720)
+
 ## Season 1
 
 * DD+ 2.0

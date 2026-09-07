@@ -1,5 +1,7 @@
 # Urban Legend
 
+[Compare across authors](../../compare/?t=film-urban-legend_9877)
+
 ## TrueHD 5.1
 
 **1998 • R • 1h 40m • Thriller, Horror • mobe1969**

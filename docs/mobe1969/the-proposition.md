@@ -1,5 +1,7 @@
 # The Proposition
 
+[Compare across authors](../../compare/?t=film-the-proposition_16608)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 44m • Action, Adventure, Crime, Drama, Thriller, Western • mobe1969**

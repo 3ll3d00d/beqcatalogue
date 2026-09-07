@@ -1,5 +1,7 @@
 # The Reluctant Fundamentalist
 
+[Compare across authors](../../compare/?t=film-the-reluctant-fundamentalist_121677)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 2h 10m • Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Expend4bles
 
+[Compare across authors](../../compare/?t=film-expend4bles_299054)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2023 • R • 1h 43m • Action, Adventure, Thriller • mobe1969**

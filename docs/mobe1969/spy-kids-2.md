@@ -1,5 +1,7 @@
 # Spy Kids 2
 
+[Compare across authors](../../compare/?t=film-spy-kids-2_9488)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG • 1h 40m • Family, Action, Comedy, Adventure • mobe1969**

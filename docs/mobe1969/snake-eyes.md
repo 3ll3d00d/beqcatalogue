@@ -1,5 +1,7 @@
 # Snake Eyes
 
+[Compare across authors](../../compare/?t=film-snake-eyes_8688)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 38m • Thriller, Mystery, Crime • mobe1969**

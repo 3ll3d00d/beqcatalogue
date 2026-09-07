@@ -1,5 +1,7 @@
 # Akira
 
+[Compare across authors](../../compare/?t=film-akira_149)
+
 ## DTS-HD MA 5.1
 
 **1988 • R • 2h 4m • Animation, Science Fiction, Action • mobe1969**

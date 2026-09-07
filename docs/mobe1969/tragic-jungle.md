@@ -1,5 +1,7 @@
 # Tragic Jungle
 
+[Compare across authors](../../compare/?t=film-tragic-jungle_618746)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 36m • Spanish • Drama, Mystery • mobe1969**

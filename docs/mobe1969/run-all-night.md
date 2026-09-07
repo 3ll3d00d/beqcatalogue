@@ -1,5 +1,7 @@
 # Run All Night
 
+[Compare across authors](../../compare/?t=film-run-all-night_241554)
+
 ## DTS-HD MA 7.1, DD+ 5.1
 
 **2015 • R • 1h 54m • Action • mobe1969**

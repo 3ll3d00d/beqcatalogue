@@ -1,5 +1,7 @@
 # Tremors 2: Aftershocks
 
+[Compare across authors](../../compare/?t=film-tremors-2-aftershocks_11069)
+
 ## DTS-HD MA 2.0
 
 **1996 • PG-13 • 1h 40m • Action, Horror, Thriller, Science Fiction, Comedy • mobe1969**

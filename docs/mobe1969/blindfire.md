@@ -1,5 +1,7 @@
 # Blindfire
 
+[Compare across authors](../../compare/?t=film-blindfire_758935)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 23m • Crime, Drama, Thriller • mobe1969**

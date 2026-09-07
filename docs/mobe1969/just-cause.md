@@ -1,5 +1,7 @@
 # Just Cause
 
+[Compare across authors](../../compare/?t=film-just-cause_9061)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 1h 42m • Action, Drama, Mystery, Thriller • mobe1969**

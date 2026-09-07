@@ -1,5 +1,7 @@
 # Dangerous Game: The Legacy Murders
 
+[Compare across authors](../../compare/?t=film-dangerous-game-the-legacy-murders_1027385)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 36m • Thriller, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Cell
 
+[Compare across authors](../../compare/?t=film-cell_168098)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 38m • Horror, Science Fiction, Thriller • mobe1969**

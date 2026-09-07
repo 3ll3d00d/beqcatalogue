@@ -1,5 +1,7 @@
 # Zero Tolerance
 
+[Compare across authors](../../compare/?t=film-zero-tolerance_273238)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2015 • R • 1h 29m • Thriller, Action, Crime • mobe1969**

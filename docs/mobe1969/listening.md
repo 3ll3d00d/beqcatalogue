@@ -1,5 +1,7 @@
 # Listening
 
+[Compare across authors](../../compare/?t=film-listening_331592)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 40m • Drama, Thriller, Science Fiction • mobe1969**

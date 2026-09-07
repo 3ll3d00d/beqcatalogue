@@ -1,5 +1,7 @@
 # Race to Witch Mountain
 
+[Compare across authors](../../compare/?t=film-race-to-witch-mountain_13836)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2009 • PG • 1h 38m • Adventure, Family, Fantasy, Science Fiction, Thriller, Action • mobe1969**

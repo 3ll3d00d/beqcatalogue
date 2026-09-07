@@ -1,5 +1,7 @@
 # Brightburn
 
+[Compare across authors](../../compare/?t=film-brightburn_531309)
+
 ## Atmos
 
 **2019 • R • 1h 31m • Horror, Thriller, Science Fiction • mobe1969**

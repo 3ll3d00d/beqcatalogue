@@ -1,5 +1,7 @@
 # An American Crime
 
+[Compare across authors](../../compare/?t=film-an-american-crime_13008)
+
 ## DD+ 5.1
 
 **2007 • R • 1h 37m • Crime, Drama • mobe1969**

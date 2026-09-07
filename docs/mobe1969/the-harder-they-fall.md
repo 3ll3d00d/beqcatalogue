@@ -1,5 +1,7 @@
 # The Harder They Fall
 
+[Compare across authors](../../compare/?t=film-the-harder-they-fall_618162)
+
 ## DD+ 5.1
 
 **2021 • R • 2h 19m • Western • mobe1969**

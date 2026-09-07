@@ -1,5 +1,7 @@
 # Talaash
 
+[Compare across authors](../../compare/?t=film-talaash_86004)
+
 ## DD+ 5.1
 
 **2012 • NR • 2h 29m • Hindi • Crime, Drama, Thriller • mobe1969**

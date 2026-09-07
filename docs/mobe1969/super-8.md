@@ -1,5 +1,7 @@
 # Super 8
 
+[Compare across authors](../../compare/?t=film-super-8_37686)
+
 ## TrueHD 7.1
 
 **2011 • PG-13 • 1h 52m • Thriller, Science Fiction, Mystery • mobe1969**

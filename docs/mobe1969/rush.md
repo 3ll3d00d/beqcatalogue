@@ -1,5 +1,7 @@
 # Rush
 
+[Compare across authors](../../compare/?t=film-rush_96721)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 2h 3m • Drama, Action • mobe1969**

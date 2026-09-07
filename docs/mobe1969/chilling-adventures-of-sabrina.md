@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-chilling-adventures-of-sabrina_79242)
+
 ## Season 4
 
 * DD+ 5.1

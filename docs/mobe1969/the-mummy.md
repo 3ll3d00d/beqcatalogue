@@ -1,5 +1,7 @@
 # The Mummy
 
+[Compare across authors](../../compare/?t=film-the-mummy_564)
+
 ## DTS-HD MA 5.1
 
 **1999 • PG-13 • 2h 4m • Adventure, Action, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Dobaaraa
 
+[Compare across authors](../../compare/?t=film-dobaaraa_796207)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 15m • Hindi • Science Fiction, Mystery, Thriller • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-phantom-pups_210694)
+
 ## Season 1
 
 * DD+ Atmos

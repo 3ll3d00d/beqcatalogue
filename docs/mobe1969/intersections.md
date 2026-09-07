@@ -1,5 +1,7 @@
 # Intersections
 
+[Compare across authors](../../compare/?t=film-intersections_158426)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 41m • Romance, Thriller • mobe1969**

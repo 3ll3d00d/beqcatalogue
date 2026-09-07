@@ -1,5 +1,7 @@
 # Young Adult
 
+[Compare across authors](../../compare/?t=film-young-adult_57157)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 34m • Comedy, Drama • mobe1969**

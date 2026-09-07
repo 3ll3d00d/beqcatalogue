@@ -1,5 +1,7 @@
 # Bubba Ho-Tep
 
+[Compare across authors](../../compare/?t=film-bubba-ho-tep_9707)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 1h 32m • Comedy, Horror, Thriller, Mystery, Fantasy • mobe1969**

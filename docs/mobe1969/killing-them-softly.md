@@ -1,5 +1,7 @@
 # Killing Them Softly
 
+[Compare across authors](../../compare/?t=film-killing-them-softly_64689)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 37m • Crime, Thriller • mobe1969**

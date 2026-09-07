@@ -1,5 +1,7 @@
 # End of Watch
 
+[Compare across authors](../../compare/?t=film-end-of-watch_77016)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 49m • Crime, Drama, Thriller • mobe1969**

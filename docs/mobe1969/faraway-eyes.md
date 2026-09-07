@@ -1,5 +1,7 @@
 # Faraway Eyes
 
+[Compare across authors](../../compare/?t=film-faraway-eyes_534038)
+
 ## DD+ 5.1
 
 **2020 • R • 2h 1m • Fantasy, Comedy, Romance • mobe1969**

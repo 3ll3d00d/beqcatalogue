@@ -1,5 +1,7 @@
 # Black Mass
 
+[Compare across authors](../../compare/?t=film-black-mass_261023)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 2h 3m • Drama, Crime, History • mobe1969**

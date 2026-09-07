@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-cobra-kai_77169)
+
 ## Season 2
 
 * AAC 5.1

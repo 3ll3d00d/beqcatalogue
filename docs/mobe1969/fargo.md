@@ -1,5 +1,7 @@
 # Fargo
 
+[Compare across authors](../../compare/?t=film-fargo_275)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 1h 38m • Crime, Drama, Thriller • mobe1969**

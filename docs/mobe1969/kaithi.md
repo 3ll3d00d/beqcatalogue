@@ -1,5 +1,7 @@
 # Kaithi
 
+[Compare across authors](../../compare/?t=film-kaithi_587030)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 27m • Tamil • Action, Thriller • mobe1969**

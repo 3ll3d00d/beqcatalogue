@@ -1,5 +1,7 @@
 # Supernova
 
+[Compare across authors](../../compare/?t=film-supernova_10384)
+
 ## DTS-HD MA 5.1
 
 **2000 • R • 1h 31m • Horror, Science Fiction, Thriller • mobe1969**

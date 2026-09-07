@@ -1,5 +1,7 @@
 # Evil Dead
 
+[Compare across authors](../../compare/?t=film-evil-dead_109428)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

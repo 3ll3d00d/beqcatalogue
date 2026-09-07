@@ -1,5 +1,7 @@
 # Five Minutes of Heaven
 
+[Compare across authors](../../compare/?t=film-five-minutes-of-heaven_16759)
+
 ## DD 5.1
 
 **2009 • R • 1h 29m • Crime, Drama, Thriller • mobe1969**

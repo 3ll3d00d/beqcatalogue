@@ -1,5 +1,7 @@
 # Addams Family Values
 
+[Compare across authors](../../compare/?t=film-addams-family-values_2758)
+
 ## DD+ 5.1
 
 **1993 • PG-13 • 1h 34m • Comedy, Family, Fantasy • mobe1969**

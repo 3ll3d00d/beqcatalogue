@@ -1,5 +1,7 @@
 # Prisoners of the Ghostland
 
+[Compare across authors](../../compare/?t=film-prisoners-of-the-ghostland_523638)
+
 ## DTS-HD MA 5.1, DD+ Atmos
 
 **2021 • NR • 1h 43m • Action, Fantasy • mobe1969**

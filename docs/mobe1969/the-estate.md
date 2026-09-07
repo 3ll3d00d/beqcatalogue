@@ -1,5 +1,7 @@
 # The Estate
 
+[Compare across authors](../../compare/?t=film-the-estate_910858)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 31m • Comedy, Drama • mobe1969**

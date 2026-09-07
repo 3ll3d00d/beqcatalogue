@@ -1,5 +1,7 @@
 # Extinct
 
+[Compare across authors](../../compare/?t=film-extinct_664236)
+
 ## DD+ 5.1
 
 **2021 • PG • 1h 25m • Animation, Comedy, Family, Adventure • mobe1969**

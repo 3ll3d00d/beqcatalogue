@@ -1,5 +1,7 @@
 # Weathering with You
 
+[Compare across authors](../../compare/?t=film-weathering-with-you_568160)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG-13 • 1h 52m • Japanese • Fantasy, Drama, Romance, Animation • mobe1969**

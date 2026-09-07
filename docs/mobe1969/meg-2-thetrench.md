@@ -1,5 +1,7 @@
 # Meg 2 The.Trench
 
+[Compare across authors](../../compare/?t=film-meg-2-thetrench_2023)
+
 ## DD+ Atmos
 
 **2023 • mobe1969**

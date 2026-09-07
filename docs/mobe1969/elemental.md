@@ -1,5 +1,7 @@
 # Elemental
 
+[Compare across authors](../../compare/?t=film-elemental_976573)
+
 ## Atmos, DD+ Atmos
 
 **2023 • PG • 1h 42m • Animation, Comedy, Family, Fantasy, Romance • mobe1969**

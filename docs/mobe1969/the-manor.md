@@ -1,5 +1,7 @@
 # The Manor
 
+[Compare across authors](../../compare/?t=film-the-manor_761388)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 36m • Comedy, Fantasy • mobe1969**

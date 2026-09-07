@@ -1,5 +1,7 @@
 # Love and Leashes
 
+[Compare across authors](../../compare/?t=film-love-and-leashes_760517)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2022 • R • 1h 57m • Korean • Romance, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Evidence
 
+[Compare across authors](../../compare/?t=film-evidence_198210)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 33m • Horror, Thriller, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # The Yards
 
+[Compare across authors](../../compare/?t=film-the-yards_19457)
+
 ## DTS-HD MA 5.1
 
 Director's Cut

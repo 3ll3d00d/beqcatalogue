@@ -1,5 +1,7 @@
 # El Conde
 
+[Compare across authors](../../compare/?t=film-el-conde_991708)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 51m • Spanish • Comedy, Horror • mobe1969**

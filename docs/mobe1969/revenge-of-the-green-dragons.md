@@ -1,5 +1,7 @@
 # Revenge of the Green Dragons
 
+[Compare across authors](../../compare/?t=film-revenge-of-the-green-dragons_286709)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 35m • Drama, Action, Crime • mobe1969**

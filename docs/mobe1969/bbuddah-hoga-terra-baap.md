@@ -1,5 +1,7 @@
 # Bbuddah Hoga Terra Baap
 
+[Compare across authors](../../compare/?t=film-bbuddah-hoga-terra-baap_69774)
+
 ## DD+ 5.1
 
 **2011 • NR • 1h 58m • Hindi • Action, Thriller • mobe1969**

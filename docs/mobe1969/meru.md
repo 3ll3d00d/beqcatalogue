@@ -1,5 +1,7 @@
 # Meru
 
+[Compare across authors](../../compare/?t=film-meru_318279)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 29m • Adventure, Documentary • mobe1969**

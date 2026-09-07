@@ -1,5 +1,7 @@
 # The Hot Potato
 
+[Compare across authors](../../compare/?t=film-the-hot-potato_120798)
+
 ## DD+ 5.1
 
 **2011 • PG-13 • 1h 36m • Comedy, Crime • mobe1969**

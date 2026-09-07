@@ -1,5 +1,7 @@
 # The Polar Express
 
+[Compare across authors](../../compare/?t=film-the-polar-express_5255)
+
 ## DTS-HD MA 5.1
 
 **2004 • G • 1h 40m • Animation, Family, Adventure, Fantasy, Comedy • mobe1969**

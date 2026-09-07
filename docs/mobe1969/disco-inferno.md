@@ -1,5 +1,7 @@
 # Disco Inferno
 
+[Compare across authors](../../compare/?t=film-disco-inferno_1191902)
+
 ## DD+ 5.1
 
 **2023 • NR • 0h 18m • Horror • mobe1969**

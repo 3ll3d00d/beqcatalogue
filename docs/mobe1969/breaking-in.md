@@ -1,5 +1,7 @@
 # Breaking In
 
+[Compare across authors](../../compare/?t=film-breaking-in_497814)
+
 ## DTS-HD MA 5.1
 
 Director's Cut

@@ -1,5 +1,7 @@
 # Broken Lizard's Club Dread
 
+[Compare across authors](../../compare/?t=film-broken-lizards-club-dread_11217)
+
 ## DD 2.0
 
 **2004 • R • 1h 44m • Comedy, Horror • mobe1969**

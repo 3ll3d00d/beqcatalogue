@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
+
 ## Season 1
 
 * DD+ 5.1

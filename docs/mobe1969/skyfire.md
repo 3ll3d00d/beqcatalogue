@@ -1,5 +1,7 @@
 # Skyfire
 
+[Compare across authors](../../compare/?t=film-skyfire_604872)
+
 ## DTS-HD MA 5.1
 
 **2019 • 12 • 1h 37m • Action, Adventure • mobe1969**

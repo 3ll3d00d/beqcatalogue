@@ -1,5 +1,7 @@
 # War Story
 
+[Compare across authors](../../compare/?t=film-war-story_246013)
+
 ## DD 5.1
 
 **2014 • NR • 1h 30m • Drama • mobe1969**

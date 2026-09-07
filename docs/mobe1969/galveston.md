@@ -1,5 +1,7 @@
 # Galveston
 
+[Compare across authors](../../compare/?t=film-galveston_283601)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 1h 31m • Thriller • mobe1969**

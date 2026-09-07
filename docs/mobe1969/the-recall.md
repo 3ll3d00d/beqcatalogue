@@ -1,5 +1,7 @@
 # The Recall
 
+[Compare across authors](../../compare/?t=film-the-recall_455551)
+
 ## DTS-HD MA 5.1
 
 **2017 • 15 • 1h 31m • Science Fiction, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # The Best Man
 
+[Compare across authors](../../compare/?t=film-the-best-man_1094319)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2023 • R • 1h 33m • Action, Thriller • mobe1969**

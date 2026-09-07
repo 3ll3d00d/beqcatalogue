@@ -1,5 +1,7 @@
 # Master
 
+[Compare across authors](../../compare/?t=film-master_382220)
+
 ## TrueHD 5.1
 
 **2016 • NR • 2h 23m • Korean • Action • mobe1969**

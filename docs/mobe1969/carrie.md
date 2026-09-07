@@ -1,5 +1,7 @@
 # Carrie
 
+[Compare across authors](../../compare/?t=film-carrie_133805)
+
 ## DTS-HD MA 5.1
 
 Both cuts

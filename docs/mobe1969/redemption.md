@@ -1,5 +1,7 @@
 # Redemption
 
+[Compare across authors](../../compare/?t=film-redemption_220820)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 25m • Crime, Drama, Thriller, Action • mobe1969**

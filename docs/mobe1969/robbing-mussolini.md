@@ -1,5 +1,7 @@
 # Robbing Mussolini
 
+[Compare across authors](../../compare/?t=film-robbing-mussolini_873125)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 30m • Italian • Comedy, Crime • mobe1969**

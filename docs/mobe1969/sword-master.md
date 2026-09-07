@@ -1,5 +1,7 @@
 # Sword Master
 
+[Compare across authors](../../compare/?t=film-sword-master_367206)
+
 ## DTS-X
 
 **2016 • NR • 1h 48m • Mandarin • Action • mobe1969**

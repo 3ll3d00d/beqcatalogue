@@ -1,5 +1,7 @@
 # Paskal
 
+[Compare across authors](../../compare/?t=film-paskal_546230)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 40m • Malay • Action, War • mobe1969**

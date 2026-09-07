@@ -1,5 +1,7 @@
 # House on Haunted Hill
 
+[Compare across authors](../../compare/?t=film-house-on-haunted-hill_11377)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 33m • Thriller, Horror, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Sleepy Hollow
 
+[Compare across authors](../../compare/?t=film-sleepy-hollow_2668)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 45m • Drama, Fantasy, Thriller, Mystery, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Dr. No
 
+[Compare across authors](../../compare/?t=film-dr-no_646)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1962 • PG • 1h 50m • Adventure, Action, Thriller • mobe1969**

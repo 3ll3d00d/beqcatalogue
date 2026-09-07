@@ -1,5 +1,7 @@
 # The King
 
+[Compare across authors](../../compare/?t=film-the-king_434724)
+
 ## Atmos
 
 **2017 • NR • 2h 14m • Korean • Crime, Action • mobe1969**

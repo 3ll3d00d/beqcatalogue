@@ -1,5 +1,7 @@
 # Sunshine
 
+[Compare across authors](../../compare/?t=film-sunshine_1272)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 47m • Science Fiction, Thriller • mobe1969**

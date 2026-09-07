@@ -1,5 +1,7 @@
 # Rescue Dawn
 
+[Compare across authors](../../compare/?t=film-rescue-dawn_9952)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 2h 6m • War, Adventure, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The Babymakers
 
+[Compare across authors](../../compare/?t=film-the-babymakers_98066)
+
 ## TrueHD 5.1
 
 **2012 • R • 1h 38m • Comedy • mobe1969**

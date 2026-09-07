@@ -1,5 +1,7 @@
 # Godzilla
 
+[Compare across authors](../../compare/?t=film-godzilla_929)
+
 ## Atmos
 
 **1998 • PG-13 • 2h 18m • Science Fiction, Action, Thriller • mobe1969**

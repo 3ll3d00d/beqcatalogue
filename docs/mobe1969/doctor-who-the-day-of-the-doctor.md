@@ -1,5 +1,7 @@
 # Doctor Who: The Day of the Doctor
 
+[Compare across authors](../../compare/?t=film-doctor-who-the-day-of-the-doctor_313106)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 17m • Science Fiction, Adventure • mobe1969**

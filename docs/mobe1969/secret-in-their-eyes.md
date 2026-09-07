@@ -1,5 +1,7 @@
 # Secret in Their Eyes
 
+[Compare across authors](../../compare/?t=film-secret-in-their-eyes_290751)
+
 ## DD+ 5.1
 
 **2015 • PG-13 • 1h 51m • Crime, Drama, Mystery, Thriller • mobe1969**

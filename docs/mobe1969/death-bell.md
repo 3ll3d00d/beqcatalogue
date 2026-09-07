@@ -1,5 +1,7 @@
 # Death Bell
 
+[Compare across authors](../../compare/?t=film-death-bell_32272)
+
 ## TrueHD 7.1
 
 **2008 • NR • 1h 28m • Korean • Horror, Thriller • mobe1969**

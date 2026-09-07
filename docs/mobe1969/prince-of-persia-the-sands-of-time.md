@@ -1,5 +1,7 @@
 # Prince of Persia: The Sands of Time
 
+[Compare across authors](../../compare/?t=film-prince-of-persia-the-sands-of-time_9543)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 56m • Fantasy, Action, Adventure • mobe1969**

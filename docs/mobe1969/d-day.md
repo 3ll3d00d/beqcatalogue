@@ -1,5 +1,7 @@
 # D-Day
 
+[Compare across authors](../../compare/?t=film-d-day_206851)
+
 ## TrueHD 5.1, DTS-HD MA 5.1
 
 **2013 • NR • 2h 33m • Hindi • Action, Thriller • mobe1969**

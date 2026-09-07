@@ -1,5 +1,7 @@
 # Abduction
 
+[Compare across authors](../../compare/?t=film-abduction_589594)
+
 ## DTS-HD MA 5.1
 
 **2019 • 18 • 1h 38m • Science Fiction, Thriller, Action, Horror • mobe1969**

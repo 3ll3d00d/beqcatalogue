@@ -1,5 +1,7 @@
 # Thunder Force
 
+[Compare across authors](../../compare/?t=film-thunder-force_615678)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 1h 47m • Action, Adventure, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # 10 Days of a Good Man
 
+[Compare across authors](../../compare/?t=film-10-days-of-a-good-man_1073337)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 4m • Turkish • Mystery, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # No Tears for the Dead
 
+[Compare across authors](../../compare/?t=film-no-tears-for-the-dead_265851)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 57m • Korean • Action, Thriller • mobe1969**

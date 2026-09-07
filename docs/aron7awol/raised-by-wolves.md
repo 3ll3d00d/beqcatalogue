@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-raised-by-wolves_85723)
+
 ## Season 1
 
 * DD+

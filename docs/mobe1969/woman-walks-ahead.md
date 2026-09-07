@@ -1,5 +1,7 @@
 # Woman Walks Ahead
 
+[Compare across authors](../../compare/?t=film-woman-walks-ahead_396373)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 43m • Drama, History, Western • mobe1969**

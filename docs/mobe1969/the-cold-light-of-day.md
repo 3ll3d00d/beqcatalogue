@@ -1,5 +1,7 @@
 # The Cold Light of Day
 
+[Compare across authors](../../compare/?t=film-the-cold-light-of-day_77948)
+
 ## TrueHD 5.1
 
 **2012 • PG-13 • 1h 33m • Action, Mystery, Thriller • mobe1969**

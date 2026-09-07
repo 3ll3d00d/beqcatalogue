@@ -1,5 +1,7 @@
 # House of Darkness
 
+[Compare across authors](../../compare/?t=film-house-of-darkness_942890)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 28m • Horror, Thriller • mobe1969**

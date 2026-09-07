@@ -1,5 +1,7 @@
 # Tai Chi Hero
 
+[Compare across authors](../../compare/?t=film-tai-chi-hero_149085)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 40m • Mandarin • Action, Adventure • mobe1969**

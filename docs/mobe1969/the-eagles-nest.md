@@ -1,5 +1,7 @@
 # The Eagle's Nest
 
+[Compare across authors](../../compare/?t=film-the-eagles-nest_749824)
+
 ## DD+ 2.0
 
 **2020 • NR • 1h 30m • French • Thriller • mobe1969**

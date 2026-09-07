@@ -1,5 +1,7 @@
 # Triple Tap
 
+[Compare across authors](../../compare/?t=film-triple-tap_44245)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 57m • Cantonese • Action, Thriller, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Agent Cody Banks 2: Destination London
 
+[Compare across authors](../../compare/?t=film-agent-cody-banks-2-destination-london_17047)
+
 ## DD+ 5.1
 
 **2004 • PG • 1h 40m • Comedy, Action, Adventure, Family, Romance • mobe1969**

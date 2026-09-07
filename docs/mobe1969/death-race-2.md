@@ -1,5 +1,7 @@
 # Death Race 2
 
+[Compare across authors](../../compare/?t=film-death-race-2_51620)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 36m • Science Fiction, Action, Thriller • mobe1969**

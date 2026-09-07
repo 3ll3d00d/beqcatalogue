@@ -1,5 +1,7 @@
 # Bumblebee
 
+[Compare across authors](../../compare/?t=film-bumblebee_424783)
+
 ## Atmos
 
 **2018 • PG-13 • 1h 53m • Action, Adventure, Science Fiction • mobe1969**

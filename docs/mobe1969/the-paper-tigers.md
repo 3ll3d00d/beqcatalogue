@@ -1,5 +1,7 @@
 # The Paper Tigers
 
+[Compare across authors](../../compare/?t=film-the-paper-tigers_731738)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 48m • Action, Comedy • mobe1969**

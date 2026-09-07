@@ -1,5 +1,7 @@
 # Riddick
 
+[Compare across authors](../../compare/?t=film-riddick_87421)
+
 ## DD+ 5.1
 
 Theatrical Cut

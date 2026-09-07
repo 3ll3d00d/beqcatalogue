@@ -1,5 +1,7 @@
 # Fright Night
 
+[Compare across authors](../../compare/?t=film-fright-night_11797)
+
 ## Atmos
 
 **1985 • R • 1h 46m • Comedy, Horror • mobe1969**

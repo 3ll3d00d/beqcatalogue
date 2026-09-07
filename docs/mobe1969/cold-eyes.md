@@ -1,5 +1,7 @@
 # Cold Eyes
 
+[Compare across authors](../../compare/?t=film-cold-eyes_204553)
+
 ## DTS-HD MA 7.1
 
 **2013 • 15 • 1h 59m • Korean • Crime, Action, Thriller • mobe1969**

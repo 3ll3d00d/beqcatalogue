@@ -1,5 +1,7 @@
 # I'm Your Woman
 
+[Compare across authors](../../compare/?t=film-im-your-woman_643612)
+
 ## DD+ 5.1
 
 **2020 • R • 2h 0m • Crime, Drama • mobe1969**

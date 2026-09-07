@@ -1,5 +1,7 @@
 # Demonic
 
+[Compare across authors](../../compare/?t=film-demonic_774021)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 44m • Horror, Thriller • mobe1969**

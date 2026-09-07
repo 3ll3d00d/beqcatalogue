@@ -1,5 +1,7 @@
 # Eden Lake
 
+[Compare across authors](../../compare/?t=film-eden-lake_13510)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 31m • Thriller, Horror • mobe1969**

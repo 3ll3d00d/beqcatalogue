@@ -1,5 +1,7 @@
 # No One Gets Out Alive
 
+[Compare across authors](../../compare/?t=film-no-one-gets-out-alive_740925)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 25m • Horror, Thriller, Mystery • mobe1969**

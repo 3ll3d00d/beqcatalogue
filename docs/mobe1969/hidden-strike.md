@@ -1,5 +1,7 @@
 # Hidden Strike
 
+[Compare across authors](../../compare/?t=film-hidden-strike_457332)
+
 ## DD+ 5.1
 
 **2023 • 12 • 1h 43m • Action, Adventure, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Violent Cop
 
+[Compare across authors](../../compare/?t=film-violent-cop_12622)
+
 ## LPCM 2.0
 
 **1989 • 16 • 1h 43m • Japanese • Action, Crime, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Baby Driver
 
+[Compare across authors](../../compare/?t=film-baby-driver_339403)
+
 ## Atmos
 
 **2017 • R • 1h 53m • Action, Crime • mobe1969**

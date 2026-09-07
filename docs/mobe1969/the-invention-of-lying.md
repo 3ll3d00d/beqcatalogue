@@ -1,5 +1,7 @@
 # The Invention of Lying
 
+[Compare across authors](../../compare/?t=film-the-invention-of-lying_23082)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 40m • Comedy, Fantasy, Romance • mobe1969**

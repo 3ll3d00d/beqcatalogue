@@ -1,5 +1,7 @@
 # Locked Down
 
+[Compare across authors](../../compare/?t=film-locked-down_49261)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 39m • Action, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # 30 Days of Night: Dark Days
 
+[Compare across authors](../../compare/?t=film-30-days-of-night-dark-days_42941)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 32m • Thriller, Horror • mobe1969**

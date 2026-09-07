@@ -1,5 +1,7 @@
 # Old Dads
 
+[Compare across authors](../../compare/?t=film-old-dads_987917)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 42m • Comedy • mobe1969**

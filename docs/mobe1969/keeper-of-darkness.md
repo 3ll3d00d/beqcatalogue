@@ -1,5 +1,7 @@
 # Keeper of Darkness
 
+[Compare across authors](../../compare/?t=film-keeper-of-darkness_371451)
+
 ## TrueHD 7.1
 
 **2015 • NR • 1h 43m • Cantonese • Horror • mobe1969**

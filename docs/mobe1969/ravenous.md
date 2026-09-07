@@ -1,5 +1,7 @@
 # Ravenous
 
+[Compare across authors](../../compare/?t=film-ravenous_415010)
+
 ## DD+ 5.1
 
 **2017 • 14A • 1h 43m • French • Horror, Drama, Science Fiction • mobe1969**

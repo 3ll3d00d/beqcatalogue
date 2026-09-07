@@ -1,5 +1,7 @@
 # Gifted
 
+[Compare across authors](../../compare/?t=film-gifted_314569)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 43m • Korean • Crime, Drama, Thriller • mobe1969**

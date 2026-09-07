@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-glory_136283)
+
 ## Season 1
 
 * DD+ Atmos

@@ -1,5 +1,7 @@
 # Detective K: Secret of Virtuous Widow
 
+[Compare across authors](../../compare/?t=film-detective-k-secret-of-virtuous-widow_64931)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 55m • Korean • Action, Comedy, Crime, History, Mystery • mobe1969**

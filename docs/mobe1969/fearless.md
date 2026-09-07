@@ -1,5 +1,7 @@
 # Fearless
 
+[Compare across authors](../../compare/?t=film-fearless_7549)
+
 ## DTS-HD MA 5.1
 
 Director's Cut

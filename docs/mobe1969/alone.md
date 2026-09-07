@@ -1,5 +1,7 @@
 # Alone
 
+[Compare across authors](../../compare/?t=film-alone_509635)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 38m • Thriller, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # The Reef: Stalked
 
+[Compare across authors](../../compare/?t=film-the-reef-stalked_730167)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 33m • Mystery, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # John Dies at the End
 
+[Compare across authors](../../compare/?t=film-john-dies-at-the-end_75761)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 39m • Comedy, Horror • mobe1969**

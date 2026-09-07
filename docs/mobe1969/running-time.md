@@ -1,5 +1,7 @@
 # Running Time
 
+[Compare across authors](../../compare/?t=film-running-time_81048)
+
 ## DTS-HD MA 2.0
 
 **1997 • NR • 1h 10m • Crime • mobe1969**

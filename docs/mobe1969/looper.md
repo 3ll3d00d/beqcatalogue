@@ -1,5 +1,7 @@
 # Looper
 
+[Compare across authors](../../compare/?t=film-looper_59967)
+
 ## Atmos
 
 **2012 • R • 1h 58m • Action, Thriller, Science Fiction • mobe1969**

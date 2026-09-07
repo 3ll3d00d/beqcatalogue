@@ -1,5 +1,7 @@
 # Wounds
 
+[Compare across authors](../../compare/?t=film-wounds_505423)
+
 ## DD+ Atmos
 
 **2019 • NR • 1h 34m • Horror, Mystery, Thriller • mobe1969**

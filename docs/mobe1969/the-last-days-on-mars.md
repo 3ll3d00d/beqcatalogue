@@ -1,5 +1,7 @@
 # The Last Days on Mars
 
+[Compare across authors](../../compare/?t=film-the-last-days-on-mars_190847)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 38m • Science Fiction, Thriller, Horror • mobe1969**

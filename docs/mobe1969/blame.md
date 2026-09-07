@@ -1,5 +1,7 @@
 # Blame
 
+[Compare across authors](../../compare/?t=film-blame_422128)
+
 ## DD+ 2.0
 
 **2018 • 15 • 1h 40m • Drama • mobe1969**

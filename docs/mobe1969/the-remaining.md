@@ -1,5 +1,7 @@
 # The Remaining
 
+[Compare across authors](../../compare/?t=film-the-remaining_280002)
+
 ## DD+ 5.1
 
 **2014 • PG-13 • 1h 28m • Thriller, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Star Trek: First Contact
 
+[Compare across authors](../../compare/?t=film-star-trek-first-contact_199)
+
 ## TrueHD 5.1
 
 **1996 • PG-13 • 1h 51m • Science Fiction, Action, Adventure, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Sky Hunter
 
+[Compare across authors](../../compare/?t=film-sky-hunter_478826)
+
 ## TrueHD 5.1
 
 **2017 • M • 1h 58m • Mandarin • Action • mobe1969**

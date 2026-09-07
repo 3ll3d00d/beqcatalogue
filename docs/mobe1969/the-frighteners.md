@@ -1,5 +1,7 @@
 # The Frighteners
 
+[Compare across authors](../../compare/?t=film-the-frighteners_10779)
+
 ## Atmos
 
 Director's Cut

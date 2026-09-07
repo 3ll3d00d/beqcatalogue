@@ -1,5 +1,7 @@
 # Extreme Job
 
+[Compare across authors](../../compare/?t=film-extreme-job_567646)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 51m • Korean • Action, Comedy, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Lethal Weapon 4
 
+[Compare across authors](../../compare/?t=film-lethal-weapon-4_944)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 2h 7m • Adventure, Crime, Thriller, Action, Comedy • mobe1969**

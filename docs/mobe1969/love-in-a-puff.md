@@ -1,5 +1,7 @@
 # Love in a Puff
 
+[Compare across authors](../../compare/?t=film-love-in-a-puff_41993)
+
 ## DD+ 5.1
 
 **2010 • NR • 1h 44m • Cantonese • Comedy, Drama, Romance • mobe1969**

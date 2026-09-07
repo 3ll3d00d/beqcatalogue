@@ -1,5 +1,7 @@
 # The Darkness
 
+[Compare across authors](../../compare/?t=film-the-darkness_257345)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 32m • Horror, Thriller • mobe1969**

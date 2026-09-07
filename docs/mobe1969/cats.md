@@ -1,5 +1,7 @@
 # Cats
 
+[Compare across authors](../../compare/?t=film-cats_513386)
+
 ## TrueHD 5.1
 
 **2018 • PG • 1h 45m • Cantonese • Animation, Family • mobe1969**

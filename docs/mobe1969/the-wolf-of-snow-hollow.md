@@ -1,5 +1,7 @@
 # The Wolf of Snow Hollow
 
+[Compare across authors](../../compare/?t=film-the-wolf-of-snow-hollow_652004)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 25m • Horror, Thriller • mobe1969**

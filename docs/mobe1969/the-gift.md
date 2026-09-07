@@ -1,5 +1,7 @@
 # The Gift
 
+[Compare across authors](../../compare/?t=film-the-gift_2046)
+
 ## DTS-HD MA 5.1
 
 **2000 • R • 1h 51m • Horror, Drama, Thriller, Mystery • mobe1969**

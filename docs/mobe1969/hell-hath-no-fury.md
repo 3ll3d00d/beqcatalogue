@@ -1,5 +1,7 @@
 # Hell Hath No Fury
 
+[Compare across authors](../../compare/?t=film-hell-hath-no-fury_877013)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 34m • Action, War • mobe1969**

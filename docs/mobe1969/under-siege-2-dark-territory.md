@@ -1,5 +1,7 @@
 # Under Siege 2: Dark Territory
 
+[Compare across authors](../../compare/?t=film-under-siege-2-dark-territory_3512)
+
 ## DD 5.1
 
 **1995 • R • 1h 40m • Thriller, Action • mobe1969**

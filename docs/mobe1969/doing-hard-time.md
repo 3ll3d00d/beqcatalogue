@@ -1,5 +1,7 @@
 # Doing Hard Time
 
+[Compare across authors](../../compare/?t=film-doing-hard-time_32812)
+
 ## DD+ 5.1
 
 **2004 • R • 1h 35m • Action, Adventure, Crime, Drama • mobe1969**

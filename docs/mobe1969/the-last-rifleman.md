@@ -1,5 +1,7 @@
 # The Last Rifleman
 
+[Compare across authors](../../compare/?t=film-the-last-rifleman_763144)
+
 ## DD+ 5.1
 
 **2023 • 12 • 0h 0m • Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Wailing
 
+[Compare across authors](../../compare/?t=film-the-wailing_293670)
+
 ## DTS-HD MA 5.1
 
 **2016 • 15 • 2h 36m • Korean • Horror, Mystery • mobe1969**

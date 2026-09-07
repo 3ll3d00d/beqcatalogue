@@ -1,5 +1,7 @@
 # Fright Night
 
+[Compare across authors](../../compare/?t=film-fright-night_58151)
+
 ## DTS-HD MA 7.1
 
 **2011 • R • 1h 46m • Horror, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # S.W.A.T.: Firefight
 
+[Compare across authors](../../compare/?t=film-swat-firefight_54445)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 29m • Action, Crime, Thriller • mobe1969**

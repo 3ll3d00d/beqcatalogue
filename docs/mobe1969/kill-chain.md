@@ -1,5 +1,7 @@
 # Kill Chain
 
+[Compare across authors](../../compare/?t=film-kill-chain_531299)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 32m • Thriller • mobe1969**

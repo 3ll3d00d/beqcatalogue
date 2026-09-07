@@ -1,5 +1,7 @@
 # Jayeshbhai Jordaar
 
+[Compare across authors](../../compare/?t=film-jayeshbhai-jordaar_678999)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 4m • Hindi • Comedy, Drama • mobe1969**

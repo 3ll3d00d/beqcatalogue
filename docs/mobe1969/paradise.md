@@ -1,5 +1,7 @@
 # Paradise
 
+[Compare across authors](../../compare/?t=film-paradise_1140066)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 57m • German • Thriller, Science Fiction • mobe1969**

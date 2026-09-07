@@ -1,5 +1,7 @@
 # Skin Trade
 
+[Compare across authors](../../compare/?t=film-skin-trade_327833)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 36m • Thriller, Action, Drama • mobe1969**

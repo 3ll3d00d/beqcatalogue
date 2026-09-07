@@ -1,5 +1,7 @@
 # Class of '83
 
+[Compare across authors](../../compare/?t=film-class-of-83_730428)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 38m • Hindi • Action, Crime, Drama • mobe1969**

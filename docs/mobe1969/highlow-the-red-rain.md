@@ -1,5 +1,7 @@
 # HiGH&LOW: The Red Rain
 
+[Compare across authors](../../compare/?t=film-highlow-the-red-rain_451001)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 50m • Japanese • Action • mobe1969**

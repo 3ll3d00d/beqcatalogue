@@ -1,5 +1,7 @@
 # The Illusionist
 
+[Compare across authors](../../compare/?t=film-the-illusionist_1491)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 1h 50m • Fantasy, Drama, Thriller, Romance • mobe1969**

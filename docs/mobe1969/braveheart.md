@@ -1,5 +1,7 @@
 # Braveheart
 
+[Compare across authors](../../compare/?t=film-braveheart_197)
+
 ## Atmos
 
 **1995 • R • 2h 58m • Action, Drama, History, War • mobe1969**

@@ -1,5 +1,7 @@
 # The Saint
 
+[Compare across authors](../../compare/?t=film-the-saint_463906)
+
 ## DD+ 5.1
 
 **2017 • PG-13 • 1h 32m • Action, Adventure, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Black Christmas
 
+[Compare across authors](../../compare/?t=film-black-christmas_551808)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG-13 • 1h 32m • Horror, Mystery, Thriller • mobe1969**

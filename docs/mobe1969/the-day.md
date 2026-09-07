@@ -1,5 +1,7 @@
 # The Day
 
+[Compare across authors](../../compare/?t=film-the-day_84226)
+
 ## TrueHD 5.1
 
 **2011 • R • 1h 25m • Action, Drama, Horror, Science Fiction • mobe1969**

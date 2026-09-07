@@ -1,5 +1,7 @@
 # Roohi
 
+[Compare across authors](../../compare/?t=film-roohi_694103)
+
 ## DD+ 5.1
 
 **2021 • 12 • 2h 14m • Hindi • Horror, Comedy • mobe1969**

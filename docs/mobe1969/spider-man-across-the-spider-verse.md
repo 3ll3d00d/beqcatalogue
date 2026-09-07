@@ -1,5 +1,7 @@
 # Spider-Man: Across the Spider-Verse
 
+[Compare across authors](../../compare/?t=film-spider-man-across-the-spider-verse_569094)
+
 ## Atmos, DTS-HD MA 5.1
 
 **2023 • PG • 2h 20m • Animation, Action, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Live and Let Die
 
+[Compare across authors](../../compare/?t=film-live-and-let-die_253)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1973 • PG • 2h 1m • Adventure, Action, Thriller • mobe1969**

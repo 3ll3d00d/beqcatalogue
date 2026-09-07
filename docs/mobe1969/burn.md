@@ -1,5 +1,7 @@
 # Burn
 
+[Compare across authors](../../compare/?t=film-burn_508138)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 29m • Thriller, Crime, Action • mobe1969**

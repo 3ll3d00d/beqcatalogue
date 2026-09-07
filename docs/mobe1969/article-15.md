@@ -1,5 +1,7 @@
 # Article 15
 
+[Compare across authors](../../compare/?t=film-article-15_597089)
+
 ## DD+ 5.1
 
 **2019 • 15 • 2h 10m • Hindi • Drama, Crime • mobe1969**

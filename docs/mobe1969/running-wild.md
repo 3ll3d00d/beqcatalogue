@@ -1,5 +1,7 @@
 # Running Wild
 
+[Compare across authors](../../compare/?t=film-running-wild_32160)
+
 ## DTS 5.1, DD 2.0
 
 **2006 • NR • 2h 4m • Korean • Action, Crime, Thriller • mobe1969**

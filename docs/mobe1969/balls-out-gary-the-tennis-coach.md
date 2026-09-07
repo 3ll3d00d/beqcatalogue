@@ -1,5 +1,7 @@
 # Balls Out: Gary the Tennis Coach
 
+[Compare across authors](../../compare/?t=film-balls-out-gary-the-tennis-coach_14141)
+
 ## DD 5.1
 
 **2009 • R • 1h 27m • Comedy • mobe1969**

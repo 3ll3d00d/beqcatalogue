@@ -1,5 +1,7 @@
 # Monsters
 
+[Compare across authors](../../compare/?t=film-monsters_43933)
+
 ## DTS-HD MA 7.1
 
 **2010 • R • 1h 34m • Drama, Science Fiction, Thriller • mobe1969**

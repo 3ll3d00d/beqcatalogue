@@ -1,5 +1,7 @@
 # Dark Crimes
 
+[Compare across authors](../../compare/?t=film-dark-crimes_340674)
+
 ## DTS-HD MA 5.1
 
 **2016 • 16 • 1h 33m • Drama, Thriller • mobe1969**

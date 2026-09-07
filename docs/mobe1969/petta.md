@@ -1,5 +1,7 @@
 # Petta
 
+[Compare across authors](../../compare/?t=film-petta_534993)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 52m • Tamil • Drama, Action • mobe1969**

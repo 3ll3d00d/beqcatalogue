@@ -1,5 +1,7 @@
 # A Turtle's Tale: Sammy's Adventures
 
+[Compare across authors](../../compare/?t=film-a-turtles-tale-sammys-adventures_49953)
+
 ## DTS-HD MA 5.1
 
 **2010 • G • 1h 28m • Animation, Family • mobe1969**

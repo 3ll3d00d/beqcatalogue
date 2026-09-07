@@ -1,5 +1,7 @@
 # The Twilight Saga: New Moon
 
+[Compare across authors](../../compare/?t=film-the-twilight-saga-new-moon_18239)
+
 ## DD+ 5.1
 
 **2009 • PG-13 • 2h 11m • Adventure, Fantasy, Drama, Romance • mobe1969**

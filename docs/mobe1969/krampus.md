@@ -1,5 +1,7 @@
 # Krampus
 
+[Compare across authors](../../compare/?t=film-krampus_287903)
+
 ## Atmos
 
 The Naughty Cut

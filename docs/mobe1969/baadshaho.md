@@ -1,5 +1,7 @@
 # Baadshaho
 
+[Compare across authors](../../compare/?t=film-baadshaho_441894)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 16m • Hindi • Action, Thriller • mobe1969**

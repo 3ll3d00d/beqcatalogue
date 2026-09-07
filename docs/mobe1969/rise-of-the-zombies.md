@@ -1,5 +1,7 @@
 # Rise of the Zombies
 
+[Compare across authors](../../compare/?t=film-rise-of-the-zombies_140174)
+
 ## DTS-HD MA 5.1
 
 **2012 • 18 • 1h 30m • Thriller, Horror, Action • mobe1969**

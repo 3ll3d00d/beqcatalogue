@@ -1,5 +1,7 @@
 # Ice Age
 
+[Compare across authors](../../compare/?t=film-ice-age_425)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG • 1h 21m • Animation, Comedy, Family, Adventure • mobe1969**

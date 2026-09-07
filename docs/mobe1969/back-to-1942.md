@@ -1,5 +1,7 @@
 # Back to 1942
 
+[Compare across authors](../../compare/?t=film-back-to-1942_139329)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 2h 25m • Mandarin • Drama, War • mobe1969**

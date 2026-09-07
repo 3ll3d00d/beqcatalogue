@@ -1,5 +1,7 @@
 # Lockout
 
+[Compare across authors](../../compare/?t=film-lockout_81796)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 35m • Action, Thriller, Science Fiction • mobe1969**

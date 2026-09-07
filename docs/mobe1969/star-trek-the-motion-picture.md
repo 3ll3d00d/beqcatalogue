@@ -1,5 +1,7 @@
 # Star Trek: The Motion Picture
 
+[Compare across authors](../../compare/?t=film-star-trek-the-motion-picture_152)
+
 ## Atmos
 
 Director's Cut

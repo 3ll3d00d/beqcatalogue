@@ -1,5 +1,7 @@
 # The Forest
 
+[Compare across authors](../../compare/?t=film-the-forest_329440)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 35m • Horror, Thriller, Mystery • mobe1969**

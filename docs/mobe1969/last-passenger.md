@@ -1,5 +1,7 @@
 # Last Passenger
 
+[Compare across authors](../../compare/?t=film-last-passenger_104329)
+
 ## DD+ 2.0
 
 **2013 • R • 1h 36m • Action, Thriller, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # The Crow: City of Angels
 
+[Compare across authors](../../compare/?t=film-the-crow-city-of-angels_10546)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 1h 24m • Action, Fantasy, Thriller • mobe1969**

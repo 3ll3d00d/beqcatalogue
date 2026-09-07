@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-haunting-of-bly-manor_109958)
+
 ## Season 1
 
 * DD+ Atmos

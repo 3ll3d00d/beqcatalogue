@@ -1,5 +1,7 @@
 # Peter Rabbit
 
+[Compare across authors](../../compare/?t=film-peter-rabbit_381719)
+
 ## DD+ 5.1
 
 **2018 • PG • 1h 33m • Animation, Adventure, Family • mobe1969**

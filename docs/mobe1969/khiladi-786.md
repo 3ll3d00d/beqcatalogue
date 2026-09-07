@@ -1,5 +1,7 @@
 # Khiladi 786
 
+[Compare across authors](../../compare/?t=film-khiladi-786_147767)
+
 ## DD 5.1
 
 **2012 • NR • 2h 19m • Hindi • Action, Comedy • mobe1969**

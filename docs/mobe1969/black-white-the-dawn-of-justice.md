@@ -1,5 +1,7 @@
 # Black & White: The Dawn of Justice
 
+[Compare across authors](../../compare/?t=film-black-white-the-dawn-of-justice_296777)
+
 ## TrueHD 5.1
 
 **2014 • NR • 2h 6m • Mandarin • Action • mobe1969**

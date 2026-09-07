@@ -1,5 +1,7 @@
 # Three Kingdoms: Resurrection of the Dragon
 
+[Compare across authors](../../compare/?t=film-three-kingdoms-resurrection-of-the-dragon_14538)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 42m • Mandarin • Action, History, Drama • mobe1969**

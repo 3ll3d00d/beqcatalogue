@@ -1,5 +1,7 @@
 # Kill Bill: Vol. 2
 
+[Compare across authors](../../compare/?t=film-kill-bill-vol-2_393)
+
 ## LPCM 5.1, DTS-HD MA 5.1
 
 **2004 • R • 2h 16m • Action, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Devil's Advocate
 
+[Compare across authors](../../compare/?t=film-the-devils-advocate_1813)
+
 ## DTS-HD 5.1
 
 **1997 • R • 2h 24m • Drama, Mystery, Thriller, Horror • mobe1969**

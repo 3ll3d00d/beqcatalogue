@@ -1,5 +1,7 @@
 # A Wednesday!
 
+[Compare across authors](../../compare/?t=film-a-wednesday_19703)
+
 ## DD+ 5.1
 
 **2008 • NR • 1h 43m • Hindi • Drama, Thriller • mobe1969**

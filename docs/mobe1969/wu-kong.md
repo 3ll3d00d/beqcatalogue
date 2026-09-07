@@ -1,5 +1,7 @@
 # Wu Kong
 
+[Compare across authors](../../compare/?t=film-wu-kong_452910)
+
 ## TrueHD 7.1
 
 **2017 • NR • 2h 10m • Mandarin • Fantasy, Action, Adventure • mobe1969**

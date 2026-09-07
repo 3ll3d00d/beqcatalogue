@@ -1,5 +1,7 @@
 # The Air I Breathe
 
+[Compare across authors](../../compare/?t=film-the-air-i-breathe_13641)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 35m • Thriller, Crime • mobe1969**

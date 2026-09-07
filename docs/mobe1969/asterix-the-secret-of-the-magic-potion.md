@@ -1,5 +1,7 @@
 # Asterix: The Secret of the Magic Potion
 
+[Compare across authors](../../compare/?t=film-asterix-the-secret-of-the-magic-potion_527729)
+
 ## DTS-HD MA 5.1
 
 **2018 • G • 1h 25m • French • Family, Animation, Comedy, Adventure • mobe1969**

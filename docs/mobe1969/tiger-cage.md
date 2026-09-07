@@ -1,5 +1,7 @@
 # Tiger Cage
 
+[Compare across authors](../../compare/?t=film-tiger-cage_58409)
+
 ## LPCM 2.0
 
 **1988 • 18 • 1h 32m • Cantonese • Action, Crime • mobe1969**

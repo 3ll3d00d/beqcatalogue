@@ -1,5 +1,7 @@
 # New Nightmare
 
+[Compare across authors](../../compare/?t=film-new-nightmare_11596)
+
 ## DTS-HD MA 5.1
 
 **1994 • R • 1h 52m • Horror, Mystery, Fantasy • mobe1969**

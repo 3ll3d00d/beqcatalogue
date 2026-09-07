@@ -1,5 +1,7 @@
 # Godzilla: The Planet Eater
 
+[Compare across authors](../../compare/?t=film-godzilla-the-planet-eater_536115)
+
 ## DD+ 5.1
 
 **2018 • PG • 1h 30m • Japanese • Animation, Science Fiction, Action, Adventure, Fantasy • mobe1969**

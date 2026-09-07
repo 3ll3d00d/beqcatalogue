@@ -1,5 +1,7 @@
 # Age of Heroes
 
+[Compare across authors](../../compare/?t=film-age-of-heroes_38540)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 30m • Action, War, Drama, Thriller • mobe1969**

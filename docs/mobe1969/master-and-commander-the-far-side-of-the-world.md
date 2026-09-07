@@ -1,5 +1,7 @@
 # Master and Commander: The Far Side of the World
 
+[Compare across authors](../../compare/?t=film-master-and-commander-the-far-side-of-the-world_8619)
+
 ## DTS 5.1
 
 **2003 • PG-13 • 2h 18m • Adventure, Drama, War • mobe1969**

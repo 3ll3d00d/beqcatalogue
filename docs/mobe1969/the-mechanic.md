@@ -1,5 +1,7 @@
 # The Mechanic
 
+[Compare across authors](../../compare/?t=film-the-mechanic_27582)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 33m • Action, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # The Ones You Didn’t Burn
 
+[Compare across authors](../../compare/?t=film-the-ones-you-didnt-burn_974264)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 10m • Horror • mobe1969**

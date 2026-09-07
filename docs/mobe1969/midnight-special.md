@@ -1,5 +1,7 @@
 # Midnight Special
 
+[Compare across authors](../../compare/?t=film-midnight-special_245703)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 52m • Science Fiction, Drama, Adventure • mobe1969**

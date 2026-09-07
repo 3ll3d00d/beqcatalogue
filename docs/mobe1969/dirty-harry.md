@@ -1,5 +1,7 @@
 # Dirty Harry
 
+[Compare across authors](../../compare/?t=film-dirty-harry_984)
+
 ## TrueHD 5.1
 
 **1971 • R • 1h 42m • Action, Crime, Thriller • mobe1969**

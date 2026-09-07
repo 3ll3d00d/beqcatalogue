@@ -1,5 +1,7 @@
 # Switchback
 
+[Compare across authors](../../compare/?t=film-switchback_10871)
+
 ## DD+ 5.1
 
 **1997 • R • 1h 58m • Thriller • mobe1969**

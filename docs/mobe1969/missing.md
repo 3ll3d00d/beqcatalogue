@@ -1,5 +1,7 @@
 # Missing
 
+[Compare across authors](../../compare/?t=film-missing_768362)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 51m • Thriller, Mystery • mobe1969**

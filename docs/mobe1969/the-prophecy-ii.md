@@ -1,5 +1,7 @@
 # The Prophecy II
 
+[Compare across authors](../../compare/?t=film-the-prophecy-ii_9033)
+
 ## DTS-HD MA 2.0
 
 **1998 • R • 1h 27m • Horror, Fantasy, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Hard to Kill
 
+[Compare across authors](../../compare/?t=film-hard-to-kill_9569)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 1h 36m • Action • mobe1969**

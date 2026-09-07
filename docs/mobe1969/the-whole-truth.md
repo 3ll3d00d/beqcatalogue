@@ -1,5 +1,7 @@
 # The Whole Truth
 
+[Compare across authors](../../compare/?t=film-the-whole-truth_331583)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 33m • Drama, Thriller • mobe1969**

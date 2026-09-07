@@ -1,5 +1,7 @@
 # They Cloned Tyrone
 
+[Compare across authors](../../compare/?t=film-they-cloned-tyrone_736769)
+
 ## DD+ Atmos
 
 **2023 • R • 2h 2m • Science Fiction, Comedy, Mystery • mobe1969**

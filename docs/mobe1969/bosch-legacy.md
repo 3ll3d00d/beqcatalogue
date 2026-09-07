@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-bosch-legacy_153657)
+
 ## Season 1
 
 * DD+ 5.1

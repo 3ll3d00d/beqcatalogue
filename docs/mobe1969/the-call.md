@@ -1,5 +1,7 @@
 # The Call
 
+[Compare across authors](../../compare/?t=film-the-call_575604)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 52m • Korean • Thriller, Mystery, Science Fiction • mobe1969**

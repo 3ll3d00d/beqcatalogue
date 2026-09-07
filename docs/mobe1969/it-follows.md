@@ -1,5 +1,7 @@
 # It Follows
 
+[Compare across authors](../../compare/?t=film-it-follows_270303)
+
 ## Atmos
 
 **2014 • R • 1h 41m • Horror, Mystery • mobe1969**

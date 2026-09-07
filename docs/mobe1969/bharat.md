@@ -1,5 +1,7 @@
 # Bharat
 
+[Compare across authors](../../compare/?t=film-bharat_569594)
+
 ## DD+ 5.1
 
 **2019 • 12A • 2h 35m • Hindi • Drama, Action • mobe1969**

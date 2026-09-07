@@ -1,5 +1,7 @@
 # Free Birds
 
+[Compare across authors](../../compare/?t=film-free-birds_175574)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG • 1h 31m • Animation, Comedy, Family • mobe1969**

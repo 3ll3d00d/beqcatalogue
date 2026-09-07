@@ -1,5 +1,7 @@
 # Harry Potter and the Chamber of Secrets
 
+[Compare across authors](../../compare/?t=film-harry-potter-and-the-chamber-of-secrets_672)
+
 ## DD+ 5.1
 
 **2002 • PG • 2h 41m • Adventure, Fantasy • mobe1969**

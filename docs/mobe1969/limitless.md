@@ -1,5 +1,7 @@
 # Limitless
 
+[Compare across authors](../../compare/?t=film-limitless_51876)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 45m • Mystery, Science Fiction, Thriller • mobe1969**

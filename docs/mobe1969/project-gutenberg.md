@@ -1,5 +1,7 @@
 # Project Gutenberg
 
+[Compare across authors](../../compare/?t=film-project-gutenberg_531384)
+
 ## Atmos
 
 **2018 • R • 2h 10m • Cantonese • Action, Crime • mobe1969**

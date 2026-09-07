@@ -1,5 +1,7 @@
 # Red Riding Hood
 
+[Compare across authors](../../compare/?t=film-red-riding-hood_49730)
+
 ## DTS-HD MA 5.1
 
 Alternate Cut

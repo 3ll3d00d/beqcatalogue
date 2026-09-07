@@ -1,5 +1,7 @@
 # F9: The Fast Saga
 
+[Compare across authors](../../compare/?t=film-f9-the-fast-saga_385128)
+
 ## Atmos
 
 Director's Cut

@@ -1,5 +1,7 @@
 # Totally Killer
 
+[Compare across authors](../../compare/?t=film-totally-killer_974931)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 46m • Horror, Comedy • mobe1969**

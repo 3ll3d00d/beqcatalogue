@@ -1,5 +1,7 @@
 # World Trade Center
 
+[Compare across authors](../../compare/?t=film-world-trade-center_1852)
+
 ## DD 5.1
 
 **2006 • PG-13 • 2h 8m • Thriller, Drama, History • mobe1969**

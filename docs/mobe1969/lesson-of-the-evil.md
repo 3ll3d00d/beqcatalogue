@@ -1,5 +1,7 @@
 # Lesson of the Evil
 
+[Compare across authors](../../compare/?t=film-lesson-of-the-evil_120852)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 2h 9m • Japanese • Thriller, Horror • mobe1969**

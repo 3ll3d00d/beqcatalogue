@@ -1,5 +1,7 @@
 # Antebellum
 
+[Compare across authors](../../compare/?t=film-antebellum_627290)
+
 ## Atmos
 
 **2020 • R • 1h 45m • Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Willow
 
+[Compare across authors](../../compare/?t=film-willow_847)
+
 ## DTS-HD MA 5.1
 
 **1988 • PG • 2h 6m • Action, Adventure, Fantasy • mobe1969**

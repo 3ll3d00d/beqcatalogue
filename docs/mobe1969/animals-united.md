@@ -1,5 +1,7 @@
 # Animals United
 
+[Compare across authors](../../compare/?t=film-animals-united_50135)
+
 ## DTS-HD MA 5.1
 
 **2010 • G • 1h 33m • Animation, Family, Comedy • mobe1969**

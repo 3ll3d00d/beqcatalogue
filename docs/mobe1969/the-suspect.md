@@ -1,5 +1,7 @@
 # The Suspect
 
+[Compare across authors](../../compare/?t=film-the-suspect_242454)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 2h 17m • Korean • Action, Thriller • mobe1969**

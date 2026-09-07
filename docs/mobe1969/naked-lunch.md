@@ -1,5 +1,7 @@
 # Naked Lunch
 
+[Compare across authors](../../compare/?t=film-naked-lunch_2742)
+
 ## DTS-HD MA 5.1
 
 UHD

@@ -1,5 +1,7 @@
 # The Platform
 
+[Compare across authors](../../compare/?t=film-the-platform_619264)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 35m • Spanish • Drama, Science Fiction, Thriller • mobe1969**

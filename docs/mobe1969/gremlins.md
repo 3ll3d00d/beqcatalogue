@@ -1,5 +1,7 @@
 # Gremlins
 
+[Compare across authors](../../compare/?t=film-gremlins_927)
+
 ## TrueHD 5.1, DTS-HD MA 5.1
 
 **1984 • PG • 1h 46m • Fantasy, Horror, Comedy • mobe1969**

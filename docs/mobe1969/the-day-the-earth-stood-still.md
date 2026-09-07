@@ -1,5 +1,7 @@
 # The Day the Earth Stood Still
 
+[Compare across authors](../../compare/?t=film-the-day-the-earth-stood-still_10200)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG-13 • 1h 44m • Drama, Science Fiction, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Trollhunter
 
+[Compare across authors](../../compare/?t=film-trollhunter_46146)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 43m • Norwegian • Fantasy, Horror • mobe1969**

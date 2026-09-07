@@ -1,5 +1,7 @@
 # Winter in Wartime
 
+[Compare across authors](../../compare/?t=film-winter-in-wartime_16564)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 43m • Dutch • Drama, History, War • mobe1969**

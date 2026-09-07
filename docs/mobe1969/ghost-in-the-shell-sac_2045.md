@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-ghost-in-the-shell-sac_2045_90293)
+
 ## Season 1
 
 * DD+ 5.1

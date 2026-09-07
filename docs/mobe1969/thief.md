@@ -1,5 +1,7 @@
 # Thief
 
+[Compare across authors](../../compare/?t=film-thief_11524)
+
 ## DTS-HD MA 5.1
 
 **1981 • R • 2h 3m • Crime, Thriller, Action • mobe1969**

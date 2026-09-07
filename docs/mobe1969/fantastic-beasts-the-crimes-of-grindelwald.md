@@ -1,5 +1,7 @@
 # Fantastic Beasts: The Crimes of Grindelwald
 
+[Compare across authors](../../compare/?t=film-fantastic-beasts-the-crimes-of-grindelwald_338952)
+
 ## Atmos, DD+ 5.1
 
 **2018 • PG-13 • 2h 14m • Fantasy, Adventure, Action • mobe1969**

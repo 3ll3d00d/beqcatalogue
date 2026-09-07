@@ -1,5 +1,7 @@
 # Nobody Sleeps in the Woods Tonight
 
+[Compare across authors](../../compare/?t=film-nobody-sleeps-in-the-woods-tonight_681019)
+
 ## DD+ 5.1
 
 **2020 • 18 • 1h 42m • Polish • Horror, Thriller • mobe1969**

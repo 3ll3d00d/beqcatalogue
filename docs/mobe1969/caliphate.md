@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-caliphate_92891)
+
 ## Season 1
 
 * DD+ 5.1

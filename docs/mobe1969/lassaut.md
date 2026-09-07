@@ -1,5 +1,7 @@
 # L'Assaut
 
+[Compare across authors](../../compare/?t=film-lassaut_59145)
+
 ## DTS-HD MA 5.1
 
 **2010 • 18 • 1h 30m • French • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Marine 5: Battleground
 
+[Compare across authors](../../compare/?t=film-the-marine-5-battleground_445993)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 31m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # A Haunting in Venice
 
+[Compare across authors](../../compare/?t=film-a-haunting-in-venice_945729)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 44m • Mystery, Thriller, Crime • mobe1969**

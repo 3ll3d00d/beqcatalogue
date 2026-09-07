@@ -1,5 +1,7 @@
 # Fatherhood
 
+[Compare across authors](../../compare/?t=film-fatherhood_607259)
+
 ## DD+ Atmos
 
 **2021 • PG-13 • 1h 49m • Drama, Comedy • mobe1969**

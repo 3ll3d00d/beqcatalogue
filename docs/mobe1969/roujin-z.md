@@ -1,5 +1,7 @@
 # Roujin Z
 
+[Compare across authors](../../compare/?t=film-roujin-z_35648)
+
 ## DTS-HD MA 5.1
 
 **1991 • NR • 1h 20m • Japanese • Animation, Drama, Science Fiction • mobe1969**

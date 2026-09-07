@@ -1,5 +1,7 @@
 # Jackpot
 
+[Compare across authors](../../compare/?t=film-jackpot_86987)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 26m • Norwegian • Crime, Action, Comedy • mobe1969**

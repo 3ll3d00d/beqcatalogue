@@ -1,5 +1,7 @@
 # Gangs of Wasseypur - Part 2
 
+[Compare across authors](../../compare/?t=film-gangs-of-wasseypur-part-2_126400)
+
 ## DD+ 5.1
 
 **2012 • 18 • 2h 40m • Hindi • Action, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Takers
 
+[Compare across authors](../../compare/?t=film-takers_22907)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 47m • Crime, Thriller, Action, Drama • mobe1969**

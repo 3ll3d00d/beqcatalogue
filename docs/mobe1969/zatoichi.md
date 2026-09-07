@@ -1,5 +1,7 @@
 # Zatoichi
 
+[Compare across authors](../../compare/?t=film-zatoichi_246)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 51m • Japanese • Drama, Action, Adventure • mobe1969**

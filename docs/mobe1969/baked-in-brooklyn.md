@@ -1,5 +1,7 @@
 # Baked in Brooklyn
 
+[Compare across authors](../../compare/?t=film-baked-in-brooklyn_417877)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 26m • Comedy, Crime, Drama, Romance • mobe1969**

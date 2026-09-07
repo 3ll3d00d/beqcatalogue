@@ -1,5 +1,7 @@
 # Laal Kaptaan
 
+[Compare across authors](../../compare/?t=film-laal-kaptaan_621003)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 35m • Hindi • Drama, Action • mobe1969**

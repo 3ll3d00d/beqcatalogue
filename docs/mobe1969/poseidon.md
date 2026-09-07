@@ -1,5 +1,7 @@
 # Poseidon
 
+[Compare across authors](../../compare/?t=film-poseidon_503)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2006 • PG-13 • 1h 38m • Adventure, Action, Drama, Thriller • mobe1969**

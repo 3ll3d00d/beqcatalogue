@@ -1,5 +1,7 @@
 # Bholaa
 
+[Compare across authors](../../compare/?t=film-bholaa_965606)
+
 ## DD+ 5.1
 
 **2023 • 15 • 2h 24m • Hindi • Action, Adventure, Crime • mobe1969**

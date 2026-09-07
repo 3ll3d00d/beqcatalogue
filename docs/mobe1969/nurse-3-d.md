@@ -1,5 +1,7 @@
 # Nurse 3-D
 
+[Compare across authors](../../compare/?t=film-nurse-3-d_78383)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 24m • Horror, Thriller • mobe1969**

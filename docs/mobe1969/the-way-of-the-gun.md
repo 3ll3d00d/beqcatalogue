@@ -1,5 +1,7 @@
 # The Way of the Gun
 
+[Compare across authors](../../compare/?t=film-the-way-of-the-gun_1619)
+
 ## DTS-HD MA 7.1
 
 **2000 • R • 1h 59m • Drama, Crime, Thriller, Action • mobe1969**

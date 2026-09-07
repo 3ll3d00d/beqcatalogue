@@ -1,5 +1,7 @@
 # Whiteout
 
+[Compare across authors](../../compare/?t=film-whiteout_22787)
+
 ## TrueHD 5.1
 
 **2009 • R • 1h 41m • Mystery, Thriller, Crime, Action • mobe1969**

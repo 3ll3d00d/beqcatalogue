@@ -1,5 +1,7 @@
 # 44 Inch Chest
 
+[Compare across authors](../../compare/?t=film-44-inch-chest_29182)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 35m • Crime, Drama • mobe1969**

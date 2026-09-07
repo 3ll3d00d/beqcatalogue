@@ -1,5 +1,7 @@
 # Red Cliff
 
+[Compare across authors](../../compare/?t=film-red-cliff_12289)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 2h 30m • Mandarin • Action, Adventure, Drama, War • mobe1969**

@@ -1,5 +1,7 @@
 # A Man of Action
 
+[Compare across authors](../../compare/?t=film-a-man-of-action_945897)
+
 ## DD+ 5.1
 
 **2022 • NR • 0h 0m • Spanish • Drama, History • mobe1969**

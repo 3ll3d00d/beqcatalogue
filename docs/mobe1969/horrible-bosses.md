@@ -1,5 +1,7 @@
 # Horrible Bosses
 
+[Compare across authors](../../compare/?t=film-horrible-bosses_51540)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

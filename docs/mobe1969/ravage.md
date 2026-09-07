@@ -1,5 +1,7 @@
 # Ravage
 
+[Compare across authors](../../compare/?t=film-ravage_637969)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 24m • Horror, Thriller • mobe1969**

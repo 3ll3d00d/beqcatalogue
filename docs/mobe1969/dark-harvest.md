@@ -1,5 +1,7 @@
 # Dark Harvest
 
+[Compare across authors](../../compare/?t=film-dark-harvest_675531)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 33m • Horror, Mystery, Thriller, Fantasy, Drama • mobe1969**

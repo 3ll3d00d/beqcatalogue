@@ -1,5 +1,7 @@
 # Fifty Dead Men Walking
 
+[Compare across authors](../../compare/?t=film-fifty-dead-men-walking_17622)
+
 ## TrueHD 5.1
 
 **2008 • R • 1h 57m • Thriller, Action • mobe1969**

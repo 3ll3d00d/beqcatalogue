@@ -1,5 +1,7 @@
 # Batman: Bad Blood
 
+[Compare across authors](../../compare/?t=film-batman-bad-blood_366924)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 12m • Science Fiction, Action, Animation • mobe1969**

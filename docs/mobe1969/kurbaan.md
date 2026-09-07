@@ -1,5 +1,7 @@
 # Kurbaan
 
+[Compare across authors](../../compare/?t=film-kurbaan_24613)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 2h 41m • Hindi • Crime, Drama, Romance, Thriller, Action • mobe1969**

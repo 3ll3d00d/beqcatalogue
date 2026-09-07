@@ -1,5 +1,7 @@
 # The Drug King
 
+[Compare across authors](../../compare/?t=film-the-drug-king_497370)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 19m • Korean • Crime, Action, Drama • mobe1969**

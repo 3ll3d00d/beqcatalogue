@@ -1,5 +1,7 @@
 # Gagarin: First in Space
 
+[Compare across authors](../../compare/?t=film-gagarin-first-in-space_199327)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 48m • Russian • Drama, History • mobe1969**

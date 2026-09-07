@@ -1,5 +1,7 @@
 # The Visit
 
+[Compare across authors](../../compare/?t=film-the-visit_298312)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 34m • Horror, Thriller, Mystery • mobe1969**

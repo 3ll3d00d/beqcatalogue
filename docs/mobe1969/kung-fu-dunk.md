@@ -1,5 +1,7 @@
 # Kung Fu Dunk
 
+[Compare across authors](../../compare/?t=film-kung-fu-dunk_17108)
+
 ## DTS-HD MA 7.1
 
 **2008 • NR • 1h 40m • Mandarin • Action, Adventure, Comedy • mobe1969**

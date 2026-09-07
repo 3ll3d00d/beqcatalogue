@@ -1,5 +1,7 @@
 # Undead
 
+[Compare across authors](../../compare/?t=film-undead_8991)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 37m • Horror, Action, Comedy, Science Fiction • mobe1969**

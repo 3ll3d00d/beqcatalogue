@@ -1,5 +1,7 @@
 # Vampire Cleanup Department
 
+[Compare across authors](../../compare/?t=film-vampire-cleanup-department_446830)
+
 ## TrueHD 5.1
 
 **2017 • NR • 1h 33m • Cantonese • Comedy, Action, Horror • mobe1969**

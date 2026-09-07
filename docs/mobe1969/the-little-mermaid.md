@@ -1,5 +1,7 @@
 # The Little Mermaid
 
+[Compare across authors](../../compare/?t=film-the-little-mermaid_447277)
+
 ## Atmos, DD+ Atmos, DTS-HD MA 7.1
 
 **2023 • PG • 2h 15m • Adventure, Family, Fantasy, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # The Void
 
+[Compare across authors](../../compare/?t=film-the-void_378018)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 30m • Mystery, Horror, Science Fiction • mobe1969**

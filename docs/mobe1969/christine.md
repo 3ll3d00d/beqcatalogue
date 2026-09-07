@@ -1,5 +1,7 @@
 # Christine
 
+[Compare across authors](../../compare/?t=film-christine_8769)
+
 ## Atmos
 
 **1983 • R • 1h 50m • Horror • mobe1969**

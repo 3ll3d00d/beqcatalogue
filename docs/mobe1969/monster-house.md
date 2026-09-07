@@ -1,5 +1,7 @@
 # Monster House
 
+[Compare across authors](../../compare/?t=film-monster-house_9297)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG • 1h 31m • Animation, Comedy, Family, Fantasy • mobe1969**

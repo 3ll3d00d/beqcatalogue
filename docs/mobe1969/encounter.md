@@ -1,5 +1,7 @@
 # Encounter
 
+[Compare across authors](../../compare/?t=film-encounter_529483)
+
 ## DD 5.1
 
 **2018 • NR • 1h 22m • Science Fiction • mobe1969**

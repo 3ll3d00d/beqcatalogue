@@ -1,5 +1,7 @@
 # Freaks of Nature
 
+[Compare across authors](../../compare/?t=film-freaks-of-nature_218784)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 32m • Comedy, Science Fiction, Horror • mobe1969**

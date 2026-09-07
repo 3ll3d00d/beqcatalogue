@@ -1,5 +1,7 @@
 # Darlings
 
+[Compare across authors](../../compare/?t=film-darlings_801526)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 14m • Hindi • Comedy, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Khufiya
 
+[Compare across authors](../../compare/?t=film-khufiya_878926)
+
 ## DD+ Atmos
 
 **2023 • R • 2h 37m • Hindi • Crime, Thriller, Mystery • mobe1969**

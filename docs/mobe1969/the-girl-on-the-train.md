@@ -1,5 +1,7 @@
 # The Girl on the Train
 
+[Compare across authors](../../compare/?t=film-the-girl-on-the-train_346685)
+
 ## DTS-X
 
 **2016 • R • 1h 52m • Thriller, Mystery, Drama • mobe1969**

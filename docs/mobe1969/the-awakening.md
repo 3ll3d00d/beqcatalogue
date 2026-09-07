@@ -1,5 +1,7 @@
 # The Awakening
 
+[Compare across authors](../../compare/?t=film-the-awakening_77949)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 47m • Horror, Thriller, Mystery • mobe1969**

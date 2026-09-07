@@ -1,5 +1,7 @@
 # Redline
 
+[Compare across authors](../../compare/?t=film-redline_71883)
+
 ## TrueHD 5.1
 
 **2009 • PG-13 • 1h 42m • Action, Animation, Science Fiction • mobe1969**

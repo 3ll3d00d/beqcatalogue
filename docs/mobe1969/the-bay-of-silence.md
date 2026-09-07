@@ -1,5 +1,7 @@
 # The Bay of Silence
 
+[Compare across authors](../../compare/?t=film-the-bay-of-silence_623958)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 33m • Thriller • mobe1969**

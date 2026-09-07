@@ -1,5 +1,7 @@
 # Hansel & Gretel
 
+[Compare across authors](../../compare/?t=film-hansel-gretel_25597)
+
 ## DTS-HD MA 5.1
 
 **2007 • NR • 1h 57m • Korean • Fantasy, Drama, Horror • mobe1969**

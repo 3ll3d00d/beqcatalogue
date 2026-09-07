@@ -1,5 +1,7 @@
 # Black Box
 
+[Compare across authors](../../compare/?t=film-black-box_663260)
+
 ## Atmos
 
 **2021 • NR • 2h 9m • French • Mystery, Thriller, Drama • mobe1969**

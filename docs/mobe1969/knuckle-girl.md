@@ -1,5 +1,7 @@
 # Knuckle Girl
 
+[Compare across authors](../../compare/?t=film-knuckle-girl_1178734)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 47m • Japanese • Action, Drama • mobe1969**

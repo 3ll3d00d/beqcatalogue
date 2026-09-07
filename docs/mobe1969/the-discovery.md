@@ -1,5 +1,7 @@
 # The Discovery
 
+[Compare across authors](../../compare/?t=film-the-discovery_376134)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 42m • Drama, Romance, Science Fiction, Thriller, Mystery • mobe1969**

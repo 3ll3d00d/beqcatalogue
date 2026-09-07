@@ -1,5 +1,7 @@
 # The Wasteland
 
+[Compare across authors](../../compare/?t=film-the-wasteland_800410)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 31m • Spanish • Horror, Thriller • mobe1969**

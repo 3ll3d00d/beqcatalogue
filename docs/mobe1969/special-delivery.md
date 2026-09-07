@@ -1,5 +1,7 @@
 # Special Delivery
 
+[Compare across authors](../../compare/?t=film-special-delivery_606403)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 49m • Korean • Action, Crime • mobe1969**

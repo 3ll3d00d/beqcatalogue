@@ -1,5 +1,7 @@
 # Above the Law
 
+[Compare across authors](../../compare/?t=film-above-the-law_9395)
+
 ## TrueHD 5.1
 
 **1988 • R • 1h 39m • Action, Thriller • mobe1969**

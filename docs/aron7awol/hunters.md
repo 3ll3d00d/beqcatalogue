@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-hunters_79622)
+
 ## Season 1
 
 * DD+

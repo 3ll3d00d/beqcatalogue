@@ -1,5 +1,7 @@
 # Captain Nova
 
+[Compare across authors](../../compare/?t=film-captain-nova_881957)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 26m • Dutch • Adventure, Family, Science Fiction • mobe1969**

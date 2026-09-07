@@ -1,5 +1,7 @@
 # Children Who Chase Lost Voices
 
+[Compare across authors](../../compare/?t=film-children-who-chase-lost-voices_79707)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG • 1h 56m • Japanese • Animation, Adventure, Drama, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Dog Gone
 
+[Compare across authors](../../compare/?t=film-dog-gone_858408)
+
 ## DD+ Atmos
 
 **2023 • PG • 1h 35m • Family, Drama • mobe1969**

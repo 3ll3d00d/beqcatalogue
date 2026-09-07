@@ -1,5 +1,7 @@
 # Cryo
 
+[Compare across authors](../../compare/?t=film-cryo_953542)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 1h 58m • Thriller, Science Fiction, Mystery • mobe1969**

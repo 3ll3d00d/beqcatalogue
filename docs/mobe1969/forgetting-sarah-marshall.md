@@ -1,5 +1,7 @@
 # Forgetting Sarah Marshall
 
+[Compare across authors](../../compare/?t=film-forgetting-sarah-marshall_9870)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

@@ -1,5 +1,7 @@
 # Easy Rider
 
+[Compare across authors](../../compare/?t=film-easy-rider_624)
+
 ## DTS-HD MA 5.1
 
 **1969 • R • 1h 35m • Adventure, Drama • mobe1969**

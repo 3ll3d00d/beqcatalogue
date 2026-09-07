@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-game-of-thrones_1399)
+
 ## Season 1
 
 * Atmos

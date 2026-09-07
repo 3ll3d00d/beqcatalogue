@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-moon-knight_92749)
+
 ## Season 1 Episodes 1-2
 
 * DD+ Atmos

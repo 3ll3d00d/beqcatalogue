@@ -1,5 +1,7 @@
 # History of the World: Part I
 
+[Compare across authors](../../compare/?t=film-history-of-the-world-part-i_10156)
+
 ## DTS-HD MA 5.1
 
 **1981 • R • 1h 32m • Comedy • mobe1969**

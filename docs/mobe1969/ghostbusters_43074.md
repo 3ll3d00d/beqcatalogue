@@ -1,5 +1,7 @@
 # Ghostbusters
 
+[Compare across authors](../../compare/?t=film-ghostbusters_43074)
+
 ## Atmos
 
 Extended Cut

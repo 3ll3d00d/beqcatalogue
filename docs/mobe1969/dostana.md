@@ -1,5 +1,7 @@
 # Dostana
 
+[Compare across authors](../../compare/?t=film-dostana_14071)
+
 ## DD+ 5.1
 
 **2008 • PG-13 • 2h 25m • Hindi • Drama, Comedy, Romance • mobe1969**

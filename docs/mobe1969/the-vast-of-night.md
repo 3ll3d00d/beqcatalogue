@@ -1,5 +1,7 @@
 # The Vast of Night
 
+[Compare across authors](../../compare/?t=film-the-vast-of-night_565743)
+
 ## DD+ 5.1
 
 **2019 • PG-13 • 1h 31m • Mystery, Science Fiction, Thriller • mobe1969**

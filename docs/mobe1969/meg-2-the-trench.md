@@ -1,5 +1,7 @@
 # Meg 2: The Trench
 
+[Compare across authors](../../compare/?t=film-meg-2-the-trench_615656)
+
 ## Atmos
 
 **2023 • PG-13 • 1h 56m • Action, Science Fiction, Horror • mobe1969**

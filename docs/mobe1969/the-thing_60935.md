@@ -1,5 +1,7 @@
 # The Thing
 
+[Compare across authors](../../compare/?t=film-the-thing_60935)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2011 • R • 1h 43m • Horror, Science Fiction, Mystery, Thriller • mobe1969**

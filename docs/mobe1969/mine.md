@@ -1,5 +1,7 @@
 # Mine
 
+[Compare across authors](../../compare/?t=film-mine_345009)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 46m • Thriller • mobe1969**

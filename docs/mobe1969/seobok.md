@@ -1,5 +1,7 @@
 # Seobok
 
+[Compare across authors](../../compare/?t=film-seobok_586047)
+
 ## TrueHD 5.1
 
 **2021 • NR • 1h 54m • Korean • Science Fiction, Action • mobe1969**

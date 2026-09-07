@@ -1,5 +1,7 @@
 # Fallen
 
+[Compare across authors](../../compare/?t=film-fallen_9411)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 2h 4m • Drama, Crime, Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Cold War
 
+[Compare across authors](../../compare/?t=film-cold-war_137409)
+
 ## DTS-HD MA 7.1, TrueHD 7.1
 
 **2012 • 16 • 1h 42m • Cantonese • Thriller, Action • mobe1969**

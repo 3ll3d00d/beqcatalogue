@@ -1,5 +1,7 @@
 # Circle
 
+[Compare across authors](../../compare/?t=film-circle_335866)
+
 ## DD+ 5.1
 
 **2015 • NR • 1h 27m • Science Fiction, Mystery, Drama, Thriller, Horror • mobe1969**

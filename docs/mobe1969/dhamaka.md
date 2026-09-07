@@ -1,5 +1,7 @@
 # Dhamaka
 
+[Compare across authors](../../compare/?t=film-dhamaka_767377)
+
 ## DD+ Atmos
 
 **2021 • 15 • 1h 44m • Hindi • Thriller, Drama, Crime • mobe1969**

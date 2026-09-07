@@ -1,5 +1,7 @@
 # Derailed
 
+[Compare across authors](../../compare/?t=film-derailed_428639)
+
 ## DD 2.0
 
 **2016 • NR • 1h 31m • Korean • Crime, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Rogue Warfare
 
+[Compare across authors](../../compare/?t=film-rogue-warfare_627879)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 43m • Action, War • mobe1969**

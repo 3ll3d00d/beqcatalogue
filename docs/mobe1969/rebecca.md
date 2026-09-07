@@ -1,5 +1,7 @@
 # Rebecca
 
+[Compare across authors](../../compare/?t=film-rebecca_505379)
+
 ## DD+ Atmos
 
 **2020 • PG-13 • 2h 3m • Romance, Drama, Mystery, Thriller • mobe1969**

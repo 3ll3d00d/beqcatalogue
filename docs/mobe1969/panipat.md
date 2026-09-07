@@ -1,5 +1,7 @@
 # Panipat
 
+[Compare across authors](../../compare/?t=film-panipat_577332)
+
 ## DD+ 5.1
 
 **2019 • 15 • 2h 51m • Hindi • Action, History, War, Romance • mobe1969**

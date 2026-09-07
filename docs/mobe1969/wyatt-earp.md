@@ -1,5 +1,7 @@
 # Wyatt Earp
 
+[Compare across authors](../../compare/?t=film-wyatt-earp_12160)
+
 ## DD 5.1
 
 **1994 • PG-13 • 3h 11m • Western, Drama, Action, Adventure • mobe1969**

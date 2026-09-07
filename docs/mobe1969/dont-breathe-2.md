@@ -1,5 +1,7 @@
 # Don't Breathe 2
 
+[Compare across authors](../../compare/?t=film-dont-breathe-2_482373)
+
 ## Atmos
 
 **2021 • R • 1h 38m • Thriller, Horror • mobe1969**

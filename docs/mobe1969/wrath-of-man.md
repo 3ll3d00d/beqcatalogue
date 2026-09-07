@@ -1,5 +1,7 @@
 # Wrath of Man
 
+[Compare across authors](../../compare/?t=film-wrath-of-man_637649)
+
 ## Atmos
 
 **2021 • R • 1h 59m • Action, Crime, Thriller • mobe1969**

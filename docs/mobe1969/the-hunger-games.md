@@ -1,5 +1,7 @@
 # The Hunger Games
 
+[Compare across authors](../../compare/?t=film-the-hunger-games_70160)
+
 ## Atmos
 
 **2012 • PG-13 • 2h 22m • Science Fiction, Adventure, Fantasy • mobe1969**

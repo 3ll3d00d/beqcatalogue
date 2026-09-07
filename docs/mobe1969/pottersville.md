@@ -1,5 +1,7 @@
 # Pottersville
 
+[Compare across authors](../../compare/?t=film-pottersville_413990)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 25m • Comedy • mobe1969**

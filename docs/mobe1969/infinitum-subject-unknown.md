@@ -1,5 +1,7 @@
 # Infinitum: Subject Unknown
 
+[Compare across authors](../../compare/?t=film-infinitum-subject-unknown_797861)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 26m • Science Fiction, Mystery, Thriller • mobe1969**

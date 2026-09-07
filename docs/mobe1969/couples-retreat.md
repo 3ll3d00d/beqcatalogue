@@ -1,5 +1,7 @@
 # Couples Retreat
 
+[Compare across authors](../../compare/?t=film-couples-retreat_19899)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 53m • Comedy, Romance • mobe1969**

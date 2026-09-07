@@ -1,5 +1,7 @@
 # The Outsider
 
+[Compare across authors](../../compare/?t=film-the-outsider_199928)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 0m • Crime, Drama, Mystery • mobe1969**

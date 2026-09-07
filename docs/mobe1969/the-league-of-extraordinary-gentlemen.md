@@ -1,5 +1,7 @@
 # The League of Extraordinary Gentlemen
 
+[Compare across authors](../../compare/?t=film-the-league-of-extraordinary-gentlemen_8698)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG-13 • 1h 50m • Fantasy, Action, Thriller, Science Fiction • mobe1969**

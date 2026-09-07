@@ -1,5 +1,7 @@
 # Space Battleship Yamato
 
+[Compare across authors](../../compare/?t=film-space-battleship-yamato_61984)
+
 ## DTS-HD MA 5.1
 
 **2010 • 15 • 2h 11m • Japanese • Science Fiction • mobe1969**

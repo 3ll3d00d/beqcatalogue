@@ -1,5 +1,7 @@
 # Rocketry: The Nambi Effect
 
+[Compare across authors](../../compare/?t=film-rocketry-the-nambi-effect_607145)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 34m • Tamil • Drama, Action, History • mobe1969**

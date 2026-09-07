@@ -1,5 +1,7 @@
 # Girl on the Third Floor
 
+[Compare across authors](../../compare/?t=film-girl-on-the-third-floor_580630)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 33m • Horror, Thriller • mobe1969**

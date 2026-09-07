@@ -1,5 +1,7 @@
 # Lethal Weapon 3
 
+[Compare across authors](../../compare/?t=film-lethal-weapon-3_943)
+
 ## DTS-HD MA 5.1
 
 **1992 • R • 1h 58m • Crime, Action, Comedy, Adventure, Thriller • mobe1969**

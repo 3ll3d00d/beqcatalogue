@@ -1,5 +1,7 @@
 # Dark Tide
 
+[Compare across authors](../../compare/?t=film-dark-tide_59963)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 53m • Thriller, Adventure, Drama • mobe1969**

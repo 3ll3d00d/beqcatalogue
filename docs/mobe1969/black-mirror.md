@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-black-mirror_42009)
+
 ## Season 6
 
 * DD+ Atmos

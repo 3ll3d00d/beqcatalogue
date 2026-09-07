@@ -1,5 +1,7 @@
 # Infinite Storm
 
+[Compare across authors](../../compare/?t=film-infinite-storm_811631)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 37m • Drama, Thriller • mobe1969**

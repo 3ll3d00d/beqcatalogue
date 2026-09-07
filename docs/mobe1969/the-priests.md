@@ -1,5 +1,7 @@
 # The Priests
 
+[Compare across authors](../../compare/?t=film-the-priests_360551)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 43m • Korean • Mystery, Thriller • mobe1969**

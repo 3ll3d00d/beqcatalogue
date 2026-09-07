@@ -1,5 +1,7 @@
 # Infidel
 
+[Compare across authors](../../compare/?t=film-infidel_649401)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 47m • Action, Adventure, Thriller • mobe1969**

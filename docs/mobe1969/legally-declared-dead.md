@@ -1,5 +1,7 @@
 # Legally Declared Dead
 
+[Compare across authors](../../compare/?t=film-legally-declared-dead_647641)
+
 ## TrueHD 7.1
 
 **2019 • NR • 1h 49m • Cantonese • Crime, Mystery, Thriller, Drama • mobe1969**

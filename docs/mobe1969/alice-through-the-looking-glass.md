@@ -1,5 +1,7 @@
 # Alice Through the Looking Glass
 
+[Compare across authors](../../compare/?t=film-alice-through-the-looking-glass_241259)
+
 ## DTS-HD MA 7.1
 
 **2016 • PG • 1h 53m • Adventure, Family, Fantasy • mobe1969**

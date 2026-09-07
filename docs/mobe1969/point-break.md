@@ -1,5 +1,7 @@
 # Point Break
 
+[Compare across authors](../../compare/?t=film-point-break_1089)
+
 ## DTS-HD MA 5.1
 
 **1991 • R • 2h 2m • Action, Thriller, Crime • mobe1969**

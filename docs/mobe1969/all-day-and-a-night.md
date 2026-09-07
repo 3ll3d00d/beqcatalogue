@@ -1,5 +1,7 @@
 # All Day and a Night
 
+[Compare across authors](../../compare/?t=film-all-day-and-a-night_530956)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2020 • R • 2h 1m • Drama • mobe1969**

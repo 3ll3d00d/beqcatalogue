@@ -1,5 +1,7 @@
 # A Beautiful Life
 
+[Compare across authors](../../compare/?t=film-a-beautiful-life_72502)
+
 ## DD+ 5.1
 
 **2011 • NR • 2h 4m • Mandarin • Romance, Drama • mobe1969**

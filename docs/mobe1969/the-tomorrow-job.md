@@ -1,5 +1,7 @@
 # The Tomorrow Job
 
+[Compare across authors](../../compare/?t=film-the-tomorrow-job_1064912)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 45m • Science Fiction, Action • mobe1969**

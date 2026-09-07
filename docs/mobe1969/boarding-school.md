@@ -1,5 +1,7 @@
 # Boarding School
 
+[Compare across authors](../../compare/?t=film-boarding-school_531145)
+
 ## TrueHD 5.1
 
 **2018 • R • 1h 51m • Horror, Mystery • mobe1969**

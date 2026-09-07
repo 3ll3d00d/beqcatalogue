@@ -1,5 +1,7 @@
 # The Name of the Rose
 
+[Compare across authors](../../compare/?t=film-the-name-of-the-rose_192)
+
 ## DTS-HD MA 5.1
 
 **1986 • R • 2h 10m • Drama, Thriller, Mystery • mobe1969**

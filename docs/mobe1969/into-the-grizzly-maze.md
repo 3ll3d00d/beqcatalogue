@@ -1,5 +1,7 @@
 # Into the Grizzly Maze
 
+[Compare across authors](../../compare/?t=film-into-the-grizzly-maze_244316)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 34m • Horror, Thriller, Action • mobe1969**

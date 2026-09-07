@@ -1,5 +1,7 @@
 # Undercover Punch and Gun
 
+[Compare across authors](../../compare/?t=film-undercover-punch-and-gun_367198)
+
 ## TrueHD 5.1
 
 **2019 • NR • 1h 30m • Cantonese • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Spy Next Door
 
+[Compare across authors](../../compare/?t=film-the-spy-next-door_23172)
+
 ## TrueHD 5.1
 
 **2010 • PG • 1h 34m • Action, Comedy, Family • mobe1969**

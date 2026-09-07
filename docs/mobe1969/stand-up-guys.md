@@ -1,5 +1,7 @@
 # Stand Up Guys
 
+[Compare across authors](../../compare/?t=film-stand-up-guys_121824)
+
 ## DD+ 5.1
 
 **2012 • R • 1h 35m • Thriller, Comedy, Action • mobe1969**

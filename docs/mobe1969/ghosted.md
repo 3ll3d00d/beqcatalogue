@@ -1,5 +1,7 @@
 # Ghosted
 
+[Compare across authors](../../compare/?t=film-ghosted_868759)
+
 ## DD+ 5.1 Atmos
 
 **2023 • PG-13 • 2h 0m • Action, Comedy, Romance • mobe1969**

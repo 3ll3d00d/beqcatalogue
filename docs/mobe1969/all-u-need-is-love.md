@@ -1,5 +1,7 @@
 # All U Need Is Love
 
+[Compare across authors](../../compare/?t=film-all-u-need-is-love_814772)
+
 ## TrueHD 7.1
 
 **2021 • NR • 1h 35m • Cantonese • Comedy • mobe1969**

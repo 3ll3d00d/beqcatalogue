@@ -1,5 +1,7 @@
 # True Spirit
 
+[Compare across authors](../../compare/?t=film-true-spirit_739986)
+
 ## DD+ Atmos
 
 **2023 • PG • 1h 49m • Adventure, Family, Drama • mobe1969**

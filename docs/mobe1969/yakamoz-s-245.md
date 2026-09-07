@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-yakamoz-s-245_195930)
+
 ## Season 1
 
 * DD+ 5.1

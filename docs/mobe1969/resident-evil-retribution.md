@@ -1,5 +1,7 @@
 # Resident Evil: Retribution
 
+[Compare across authors](../../compare/?t=film-resident-evil-retribution_71679)
+
 ## Atmos
 
 **2012 • R • 1h 35m • Action, Horror, Science Fiction • mobe1969**

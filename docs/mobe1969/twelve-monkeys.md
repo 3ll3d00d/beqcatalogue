@@ -1,5 +1,7 @@
 # Twelve Monkeys
 
+[Compare across authors](../../compare/?t=film-twelve-monkeys_63)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 2h 9m • Science Fiction, Thriller, Mystery • mobe1969**

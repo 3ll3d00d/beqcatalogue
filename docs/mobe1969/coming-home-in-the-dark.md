@@ -1,5 +1,7 @@
 # Coming Home in the Dark
 
+[Compare across authors](../../compare/?t=film-coming-home-in-the-dark_711963)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 33m • Thriller, Horror • mobe1969**

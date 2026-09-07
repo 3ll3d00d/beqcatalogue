@@ -1,5 +1,7 @@
 # The One
 
+[Compare across authors](../../compare/?t=film-the-one_10796)
+
 ## TrueHD 5.1
 
 **2001 • PG-13 • 1h 27m • Science Fiction, Thriller, Action • mobe1969**

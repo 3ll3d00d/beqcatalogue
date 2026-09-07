@@ -1,5 +1,7 @@
 # Catch.44
 
+[Compare across authors](../../compare/?t=film-catch44_75736)
+
 ## TrueHD 5.1
 
 **2011 • R • 1h 33m • Drama, Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Dragons Forever
 
+[Compare across authors](../../compare/?t=film-dragons-forever_21733)
+
 ## Atmos
 
 Hong Kong Cut, Hong Kong Blu-Ray

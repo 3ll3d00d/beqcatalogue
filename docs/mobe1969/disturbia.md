@@ -1,5 +1,7 @@
 # Disturbia
 
+[Compare across authors](../../compare/?t=film-disturbia_8271)
+
 ## DTS-ES 5.1
 
 **2007 • PG-13 • 1h 45m • Mystery, Thriller, Drama • mobe1969**

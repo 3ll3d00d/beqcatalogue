@@ -1,5 +1,7 @@
 # Pattathu Arasan
 
+[Compare across authors](../../compare/?t=film-pattathu-arasan_1046902)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 17m • Tamil • Family, Action, Romance • mobe1969**

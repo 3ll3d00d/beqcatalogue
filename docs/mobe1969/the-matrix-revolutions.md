@@ -1,5 +1,7 @@
 # The Matrix Revolutions
 
+[Compare across authors](../../compare/?t=film-the-matrix-revolutions_605)
+
 ## Atmos
 
 **2003 • R • 2h 9m • Adventure, Action, Thriller, Science Fiction • mobe1969**

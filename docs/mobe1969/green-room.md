@@ -1,5 +1,7 @@
 # Green Room
 
+[Compare across authors](../../compare/?t=film-green-room_313922)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 35m • Horror, Thriller, Crime • mobe1969**

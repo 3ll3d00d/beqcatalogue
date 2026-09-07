@@ -1,5 +1,7 @@
 # The After
 
+[Compare across authors](../../compare/?t=film-the-after_1169455)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 0h 18m • Drama • mobe1969**

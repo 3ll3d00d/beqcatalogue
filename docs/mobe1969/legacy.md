@@ -1,5 +1,7 @@
 # Legacy
 
+[Compare across authors](../../compare/?t=film-legacy_696007)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 38m • Action, Thriller • mobe1969**

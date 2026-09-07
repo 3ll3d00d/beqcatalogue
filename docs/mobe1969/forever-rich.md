@@ -1,5 +1,7 @@
 # Forever Rich
 
+[Compare across authors](../../compare/?t=film-forever-rich_785527)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 29m • Dutch • Crime, Comedy, Drama • mobe1969**

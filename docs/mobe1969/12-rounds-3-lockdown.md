@@ -1,5 +1,7 @@
 # 12 Rounds 3: Lockdown
 
+[Compare across authors](../../compare/?t=film-12-rounds-3-lockdown_351901)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 30m • Thriller, Crime, Action • mobe1969**

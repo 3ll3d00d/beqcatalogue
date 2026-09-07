@@ -1,5 +1,7 @@
 # Legion of Super-Heroes
 
+[Compare across authors](../../compare/?t=film-legion-of-super-heroes_1003580)
+
 ## DTS-HD MA 5.1
 
 **2023 • PG-13 • 1h 24m • Animation, Action, Science Fiction • mobe1969**

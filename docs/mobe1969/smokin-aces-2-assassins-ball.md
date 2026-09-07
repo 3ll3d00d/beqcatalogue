@@ -1,5 +1,7 @@
 # Smokin' Aces 2: Assassins' Ball
 
+[Compare across authors](../../compare/?t=film-smokin-aces-2-assassins-ball_29564)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

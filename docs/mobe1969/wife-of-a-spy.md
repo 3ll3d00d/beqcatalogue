@@ -1,5 +1,7 @@
 # Wife of a Spy
 
+[Compare across authors](../../compare/?t=film-wife-of-a-spy_688301)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 54m • Japanese • Drama, History, War, Thriller • mobe1969**

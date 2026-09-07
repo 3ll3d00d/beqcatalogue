@@ -1,5 +1,7 @@
 # Siberia
 
+[Compare across authors](../../compare/?t=film-siberia_446574)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 32m • Drama, Fantasy, Adventure • mobe1969**

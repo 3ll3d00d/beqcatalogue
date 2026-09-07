@@ -1,5 +1,7 @@
 # Vice
 
+[Compare across authors](../../compare/?t=film-vice_307663)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 36m • Science Fiction, Thriller, Action, Adventure • mobe1969**

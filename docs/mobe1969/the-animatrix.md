@@ -1,5 +1,7 @@
 # The Animatrix
 
+[Compare across authors](../../compare/?t=film-the-animatrix_55931)
+
 ## TrueHD 5.1
 
 **2003 • PG-13 • 1h 42m • Animation, Science Fiction • mobe1969**

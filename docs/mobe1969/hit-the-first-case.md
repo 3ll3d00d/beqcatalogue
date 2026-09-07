@@ -1,5 +1,7 @@
 # HIT: The First Case
 
+[Compare across authors](../../compare/?t=film-hit-the-first-case_678391)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 6m • Telugu • Action, Drama, Thriller • mobe1969**

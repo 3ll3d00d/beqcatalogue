@@ -1,5 +1,7 @@
 # Heavy Metal 2000
 
+[Compare across authors](../../compare/?t=film-heavy-metal-2000_16225)
+
 ## DTS-HD MA 5.1
 
 **2000 • R • 1h 28m • Action, Adventure, Animation, Fantasy, Science Fiction • mobe1969**

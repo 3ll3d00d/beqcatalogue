@@ -1,5 +1,7 @@
 # Deserter
 
+[Compare across authors](../../compare/?t=film-deserter_63971)
+
 ## DD+ 5.1
 
 **2002 • 15 • 1h 30m • Drama, War • mobe1969**

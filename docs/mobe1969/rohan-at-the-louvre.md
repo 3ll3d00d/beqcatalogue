@@ -1,5 +1,7 @@
 # Rohan at the Louvre
 
+[Compare across authors](../../compare/?t=film-rohan-at-the-louvre_1069813)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 58m • Japanese • Mystery, Action, Adventure, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Veeran
 
+[Compare across authors](../../compare/?t=film-veeran_979801)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 30m • Tamil • Fantasy, Thriller • mobe1969**

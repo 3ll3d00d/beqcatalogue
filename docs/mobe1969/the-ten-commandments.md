@@ -1,5 +1,7 @@
 # The Ten Commandments
 
+[Compare across authors](../../compare/?t=film-the-ten-commandments_6844)
+
 ## DTS-HD MA 5.1
 
 **1956 • G • 3h 40m • Drama, History • mobe1969**

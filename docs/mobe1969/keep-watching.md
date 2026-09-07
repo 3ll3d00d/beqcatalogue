@@ -1,5 +1,7 @@
 # Keep Watching
 
+[Compare across authors](../../compare/?t=film-keep-watching_242606)
+
 ## DTS-HD MA 5.1
 
 **2017 • 15 • 1h 30m • Thriller, Horror, Drama • mobe1969**

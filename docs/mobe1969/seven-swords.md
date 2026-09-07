@@ -1,5 +1,7 @@
 # Seven Swords
 
+[Compare across authors](../../compare/?t=film-seven-swords_10703)
+
 ## TrueHD 7.1
 
 **2005 • R • 2h 33m • Mandarin • Action, Drama • mobe1969**

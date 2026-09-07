@@ -1,5 +1,7 @@
 # In the Tall Grass
 
+[Compare across authors](../../compare/?t=film-in-the-tall-grass_523139)
+
 ## DD+ Atmos
 
 **2019 • NR • 1h 42m • Horror, Drama, Thriller • mobe1969**

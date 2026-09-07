@@ -1,5 +1,7 @@
 # Shadow
 
+[Compare across authors](../../compare/?t=film-shadow_641684)
+
 ## Atmos
 
 **2018 • NR • 0h 3m • Mandarin • Horror • mobe1969**

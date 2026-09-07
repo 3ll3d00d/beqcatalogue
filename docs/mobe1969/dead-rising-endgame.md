@@ -1,5 +1,7 @@
 # Dead Rising: Endgame
 
+[Compare across authors](../../compare/?t=film-dead-rising-endgame_400605)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 36m • Action, Horror • mobe1969**

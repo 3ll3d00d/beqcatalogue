@@ -1,5 +1,7 @@
 # Blood Diamond
 
+[Compare across authors](../../compare/?t=film-blood-diamond_1372)
+
 ## LPCM 5.1
 
 **2006 • R • 2h 23m • Drama, Thriller, Action • mobe1969**

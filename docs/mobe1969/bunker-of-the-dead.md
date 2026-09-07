@@ -1,5 +1,7 @@
 # Bunker of the Dead
 
+[Compare across authors](../../compare/?t=film-bunker-of-the-dead_381214)
+
 ## DTS-HD MA 5.1
 
 **2015 • 16 • 1h 16m • Horror, Comedy, Action • mobe1969**

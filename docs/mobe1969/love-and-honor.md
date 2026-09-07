@@ -1,5 +1,7 @@
 # Love and Honor
 
+[Compare across authors](../../compare/?t=film-love-and-honor_140222)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 32m • Drama, Romance • mobe1969**

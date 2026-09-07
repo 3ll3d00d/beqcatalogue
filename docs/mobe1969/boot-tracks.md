@@ -1,5 +1,7 @@
 # Boot Tracks
 
+[Compare across authors](../../compare/?t=film-boot-tracks_150229)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 31m • Thriller • mobe1969**

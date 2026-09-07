@@ -1,5 +1,7 @@
 # Let the Right One In
 
+[Compare across authors](../../compare/?t=film-let-the-right-one-in_13310)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 55m • Swedish • Drama, Horror • mobe1969**

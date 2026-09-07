@@ -1,5 +1,7 @@
 # Dead Drop
 
+[Compare across authors](../../compare/?t=film-dead-drop_227229)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 30m • Thriller, Action, Crime, Drama • mobe1969**

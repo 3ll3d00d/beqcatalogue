@@ -1,5 +1,7 @@
 # Breakdown
 
+[Compare across authors](../../compare/?t=film-breakdown_794921)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 39m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Kill the Irishman
 
+[Compare across authors](../../compare/?t=film-kill-the-irishman_51209)
+
 ## TrueHD 5.1
 
 **2011 • R • 1h 46m • Drama, Action, Thriller, Crime • mobe1969**

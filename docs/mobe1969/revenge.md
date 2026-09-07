@@ -1,5 +1,7 @@
 # Revenge
 
+[Compare across authors](../../compare/?t=film-revenge_14249)
+
 ## LPCM 5.1
 
 Unrated Edition

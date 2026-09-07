@@ -1,5 +1,7 @@
 # Rangoon
 
+[Compare across authors](../../compare/?t=film-rangoon_392271)
+
 ## Atmos
 
 **2017 • NR • 2h 47m • Hindi • War, History, Drama, Romance • mobe1969**

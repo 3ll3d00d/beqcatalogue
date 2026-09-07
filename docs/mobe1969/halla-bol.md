@@ -1,5 +1,7 @@
 # Halla Bol
 
+[Compare across authors](../../compare/?t=film-halla-bol_23848)
+
 ## DD+ 5.1
 
 **2008 • NR • 2h 30m • Hindi • Drama • mobe1969**

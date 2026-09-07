@@ -1,5 +1,7 @@
 # The Hangover Part III
 
+[Compare across authors](../../compare/?t=film-the-hangover-part-iii_109439)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 40m • Comedy • mobe1969**

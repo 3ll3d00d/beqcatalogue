@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-betaal_103759)
+
 ## Season 1
 
 * DD+ Atmos, DD+ 5.1

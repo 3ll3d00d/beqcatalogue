@@ -1,5 +1,7 @@
 # Iraivan
 
+[Compare across authors](../../compare/?t=film-iraivan_990787)
+
 ## DD+ 5.1
 
 **2023 • 15 • 2h 32m • Tamil • Thriller • mobe1969**

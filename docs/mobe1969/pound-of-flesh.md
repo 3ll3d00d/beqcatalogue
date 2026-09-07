@@ -1,5 +1,7 @@
 # Pound of Flesh
 
+[Compare across authors](../../compare/?t=film-pound-of-flesh_326284)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 44m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Drive Angry
 
+[Compare across authors](../../compare/?t=film-drive-angry_47327)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2011 • R • 1h 45m • Fantasy, Thriller, Action, Crime • mobe1969**

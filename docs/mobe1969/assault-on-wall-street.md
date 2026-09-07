@@ -1,5 +1,7 @@
 # Assault on Wall Street
 
+[Compare across authors](../../compare/?t=film-assault-on-wall-street_184125)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 39m • Drama, Thriller, Action • mobe1969**

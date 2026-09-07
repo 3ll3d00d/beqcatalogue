@@ -1,5 +1,7 @@
 # The Jacket
 
+[Compare across authors](../../compare/?t=film-the-jacket_9667)
+
 ## DD+ 5.1
 
 **2005 • R • 1h 43m • Thriller, Mystery, Drama • mobe1969**

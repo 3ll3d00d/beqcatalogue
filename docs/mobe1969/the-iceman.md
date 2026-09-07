@@ -1,5 +1,7 @@
 # The Iceman
 
+[Compare across authors](../../compare/?t=film-the-iceman_68812)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 45m • Drama, Crime, Thriller • mobe1969**

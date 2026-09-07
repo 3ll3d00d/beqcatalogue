@@ -1,5 +1,7 @@
 # Rogue One: A Star Wars Story
 
+[Compare across authors](../../compare/?t=film-rogue-one-a-star-wars-story_330459)
+
 ## Atmos
 
 **2016 • PG-13 • 2h 13m • Action, Adventure, Science Fiction • mobe1969**

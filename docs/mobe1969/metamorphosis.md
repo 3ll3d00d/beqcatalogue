@@ -1,5 +1,7 @@
 # Metamorphosis
 
+[Compare across authors](../../compare/?t=film-metamorphosis_581531)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 53m • Korean • Horror, Thriller • mobe1969**

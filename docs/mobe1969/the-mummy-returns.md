@@ -1,5 +1,7 @@
 # The Mummy Returns
 
+[Compare across authors](../../compare/?t=film-the-mummy-returns_1734)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG-13 • 2h 10m • Adventure, Action, Fantasy • mobe1969**

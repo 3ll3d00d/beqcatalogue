@@ -1,5 +1,7 @@
 # Kickboxer: Retaliation
 
+[Compare across authors](../../compare/?t=film-kickboxer-retaliation_447665)
+
 ## DTS-HD MA 5.1
 
 **2018 • 16 • 1h 50m • Action, Drama • mobe1969**

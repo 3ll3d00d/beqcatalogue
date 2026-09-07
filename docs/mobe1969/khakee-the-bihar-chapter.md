@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-khakee-the-bihar-chapter_213635)
+
 ## Season 1
 
 * DD+ Atmos

@@ -1,5 +1,7 @@
 # Willow Creek
 
+[Compare across authors](../../compare/?t=film-willow-creek_185460)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 20m • Adventure, Horror, Mystery, Thriller • mobe1969**

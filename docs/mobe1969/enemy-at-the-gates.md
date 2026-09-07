@@ -1,5 +1,7 @@
 # Enemy at the Gates
 
+[Compare across authors](../../compare/?t=film-enemy-at-the-gates_853)
+
 ## DTS-HD MA 5.1
 
 UHD

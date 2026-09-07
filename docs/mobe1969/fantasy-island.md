@@ -1,5 +1,7 @@
 # Fantasy Island
 
+[Compare across authors](../../compare/?t=film-fantasy-island_539537)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2020 • PG-13 • 1h 49m • Horror, Fantasy, Adventure, Mystery • mobe1969**

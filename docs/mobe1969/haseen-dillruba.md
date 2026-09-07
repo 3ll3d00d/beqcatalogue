@@ -1,5 +1,7 @@
 # Haseen Dillruba
 
+[Compare across authors](../../compare/?t=film-haseen-dillruba_695969)
+
 ## DD+ Atmos
 
 **2021 • R • 2h 16m • Hindi • Mystery, Crime, Thriller, Romance • mobe1969**

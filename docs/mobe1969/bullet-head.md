@@ -1,5 +1,7 @@
 # Bullet Head
 
+[Compare across authors](../../compare/?t=film-bullet-head_480572)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 33m • Drama, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Bright Hill Road
 
+[Compare across authors](../../compare/?t=film-bright-hill-road_744168)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 31m • Horror • mobe1969**

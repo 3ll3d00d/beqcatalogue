@@ -1,5 +1,7 @@
 # Dogma
 
+[Compare across authors](../../compare/?t=film-dogma_1832)
+
 ## TrueHD 5.1
 
 **1999 • R • 2h 10m • Fantasy, Comedy, Adventure • mobe1969**

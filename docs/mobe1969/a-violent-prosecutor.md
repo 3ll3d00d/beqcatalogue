@@ -1,5 +1,7 @@
 # A Violent Prosecutor
 
+[Compare across authors](../../compare/?t=film-a-violent-prosecutor_378348)
+
 ## TrueHD 5.1
 
 **2016 • NR • 2h 6m • Korean • Crime, Comedy • mobe1969**

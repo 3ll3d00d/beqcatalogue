@@ -1,5 +1,7 @@
 # Cat's Eye
 
+[Compare across authors](../../compare/?t=film-cats-eye_10552)
+
 ## DTS-HD MA 5.1
 
 **1985 • PG-13 • 1h 34m • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Live Free or Die Hard
 
+[Compare across authors](../../compare/?t=film-live-free-or-die-hard_1571)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

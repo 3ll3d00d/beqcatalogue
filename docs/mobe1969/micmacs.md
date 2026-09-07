@@ -1,5 +1,7 @@
 # MicMacs
 
+[Compare across authors](../../compare/?t=film-micmacs_27936)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 40m • French • Action, Comedy, Crime • mobe1969**

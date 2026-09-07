@@ -1,5 +1,7 @@
 # The Sniper
 
+[Compare across authors](../../compare/?t=film-the-sniper_17082)
+
 ## TrueHD 7.1
 
 **2009 • NR • 1h 30m • Cantonese • Action, Thriller • mobe1969**

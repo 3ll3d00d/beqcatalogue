@@ -1,5 +1,7 @@
 # Skylines
 
+[Compare across authors](../../compare/?t=film-skylines_560144)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 53m • Science Fiction, Action • mobe1969**

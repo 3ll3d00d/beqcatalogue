@@ -1,5 +1,7 @@
 # Living
 
+[Compare across authors](../../compare/?t=film-living_760099)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 1h 42m • Drama • mobe1969**

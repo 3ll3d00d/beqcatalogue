@@ -1,5 +1,7 @@
 # Heart of the Home
 
+[Compare across authors](../../compare/?t=film-heart-of-the-home_785174)
+
 ## DD 5.1
 
 **2021 • NR • 1h 20m • Horror • mobe1969**

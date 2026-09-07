@@ -1,5 +1,7 @@
 # The Caine Mutiny Court-Martial
 
+[Compare across authors](../../compare/?t=film-the-caine-mutiny-court-martial_1018332)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 48m • Drama, TV Movie • mobe1969**

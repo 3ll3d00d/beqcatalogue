@@ -1,5 +1,7 @@
 # Gamer
 
+[Compare across authors](../../compare/?t=film-gamer_18501)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 35m • Action, Thriller, Science Fiction • mobe1969**

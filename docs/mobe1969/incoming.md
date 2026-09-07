@@ -1,5 +1,7 @@
 # Incoming
 
+[Compare across authors](../../compare/?t=film-incoming_522964)
+
 ## DTS-HD MA 5.1
 
 **2018 • 18 • 1h 29m • Science Fiction, Thriller, Action • mobe1969**

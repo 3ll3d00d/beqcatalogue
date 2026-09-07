@@ -1,5 +1,7 @@
 # Forces of Nature
 
+[Compare across authors](../../compare/?t=film-forces-of-nature_1641)
+
 ## DD+ 5.1
 
 **1999 • PG-13 • 1h 45m • Romance, Comedy • mobe1969**

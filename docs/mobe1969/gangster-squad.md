@@ -1,5 +1,7 @@
 # Gangster Squad
 
+[Compare across authors](../../compare/?t=film-gangster-squad_82682)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 53m • Drama, Crime, Action, Thriller • mobe1969**

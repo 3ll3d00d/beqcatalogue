@@ -1,5 +1,7 @@
 # Tommy Boy
 
+[Compare across authors](../../compare/?t=film-tommy-boy_11381)
+
 ## TrueHD 5.1
 
 **1995 • PG-13 • 1h 38m • Comedy • mobe1969**

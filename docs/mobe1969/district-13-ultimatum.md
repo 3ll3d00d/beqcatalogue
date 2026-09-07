@@ -1,5 +1,7 @@
 # District 13: Ultimatum
 
+[Compare across authors](../../compare/?t=film-district-13-ultimatum_15357)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 41m • French • Action, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Replicas
 
+[Compare across authors](../../compare/?t=film-replicas_300681)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • PG-13 • 1h 47m • Science Fiction, Thriller, Drama • mobe1969**

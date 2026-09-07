@@ -1,5 +1,7 @@
 # DragonHeart
 
+[Compare across authors](../../compare/?t=film-dragonheart_8840)
+
 ## Atmos
 
 **1996 • PG-13 • 1h 43m • Fantasy, Action, Adventure, Drama • mobe1969**

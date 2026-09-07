@@ -1,5 +1,7 @@
 # Left Behind: Rise of the Antichrist
 
+[Compare across authors](../../compare/?t=film-left-behind-rise-of-the-antichrist_1008903)
+
 ## DTS-HD MA 5.1
 
 **2023 • PG-13 • 1h 58m • Science Fiction, Action, Drama, Thriller • mobe1969**

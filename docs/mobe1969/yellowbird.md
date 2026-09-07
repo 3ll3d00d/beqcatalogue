@@ -1,5 +1,7 @@
 # Yellowbird
 
+[Compare across authors](../../compare/?t=film-yellowbird_292795)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG • 1h 30m • Animation, Family, Comedy • mobe1969**

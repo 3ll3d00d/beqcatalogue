@@ -1,5 +1,7 @@
 # Riot
 
+[Compare across authors](../../compare/?t=film-riot_360055)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 28m • Action • mobe1969**

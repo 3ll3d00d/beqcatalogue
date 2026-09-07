@@ -1,5 +1,7 @@
 # The Killer Inside Me
 
+[Compare across authors](../../compare/?t=film-the-killer-inside-me_37414)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 49m • Crime, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Under the Skin
 
+[Compare across authors](../../compare/?t=film-under-the-skin_97370)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 48m • Thriller, Science Fiction, Drama • mobe1969**

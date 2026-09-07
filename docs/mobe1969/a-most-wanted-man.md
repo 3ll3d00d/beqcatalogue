@@ -1,5 +1,7 @@
 # A Most Wanted Man
 
+[Compare across authors](../../compare/?t=film-a-most-wanted-man_157849)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 2h 1m • Thriller • mobe1969**

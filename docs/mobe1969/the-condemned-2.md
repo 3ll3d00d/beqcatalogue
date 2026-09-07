@@ -1,5 +1,7 @@
 # The Condemned 2
 
+[Compare across authors](../../compare/?t=film-the-condemned-2_353610)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 30m • Action • mobe1969**

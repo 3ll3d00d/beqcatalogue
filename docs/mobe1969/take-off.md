@@ -1,5 +1,7 @@
 # Take Off
 
+[Compare across authors](../../compare/?t=film-take-off_37870)
+
 ## TrueHD 5.1
 
 Director's Cut

@@ -1,5 +1,7 @@
 # The Pale Door
 
+[Compare across authors](../../compare/?t=film-the-pale-door_610201)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 36m • Horror, Western • mobe1969**

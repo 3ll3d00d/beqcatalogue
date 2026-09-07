@@ -1,5 +1,7 @@
 # J. Edgar
 
+[Compare across authors](../../compare/?t=film-j-edgar_88794)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 2h 17m • Drama, Crime, History • mobe1969**

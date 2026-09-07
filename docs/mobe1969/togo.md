@@ -1,5 +1,7 @@
 # Togo
 
+[Compare across authors](../../compare/?t=film-togo_884363)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 35m • Spanish • Thriller • mobe1969**

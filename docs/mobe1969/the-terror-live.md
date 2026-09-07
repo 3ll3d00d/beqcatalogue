@@ -1,5 +1,7 @@
 # The Terror Live
 
+[Compare across authors](../../compare/?t=film-the-terror-live_209764)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 37m • Korean • Action, Thriller, Crime • mobe1969**

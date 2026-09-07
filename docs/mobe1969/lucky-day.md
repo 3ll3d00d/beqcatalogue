@@ -1,5 +1,7 @@
 # Lucky Day
 
+[Compare across authors](../../compare/?t=film-lucky-day_477508)
+
 ## DTS-HD MA 5.1
 
 **2019 • U • 1h 39m • Crime, Thriller, Action • mobe1969**

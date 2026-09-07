@@ -1,5 +1,7 @@
 # Silent Night
 
+[Compare across authors](../../compare/?t=film-silent-night_664574)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 32m • Horror, Comedy, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Silent House
 
+[Compare across authors](../../compare/?t=film-silent-house_92182)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 25m • Horror, Mystery • mobe1969**

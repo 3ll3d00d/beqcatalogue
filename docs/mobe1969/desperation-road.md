@@ -1,5 +1,7 @@
 # Desperation Road
 
+[Compare across authors](../../compare/?t=film-desperation-road_1039690)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 52m • Action, Drama, Thriller • mobe1969**

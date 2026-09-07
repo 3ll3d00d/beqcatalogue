@@ -1,5 +1,7 @@
 # Robots
 
+[Compare across authors](../../compare/?t=film-robots_723347)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2023 • R • 1h 33m • Romance, Science Fiction, Fantasy, Comedy • mobe1969**

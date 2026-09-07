@@ -1,5 +1,7 @@
 # Hide and Seek
 
+[Compare across authors](../../compare/?t=film-hide-and-seek_365069)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 47m • Korean • Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Conan the Destroyer
 
+[Compare across authors](../../compare/?t=film-conan-the-destroyer_9610)
+
 ## DTS-HD MA 5.1
 
 **1984 • PG • 1h 43m • Adventure, Fantasy, Action • mobe1969**

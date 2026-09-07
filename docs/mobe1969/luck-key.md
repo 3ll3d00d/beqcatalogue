@@ -1,5 +1,7 @@
 # Luck-Key
 
+[Compare across authors](../../compare/?t=film-luck-key_421928)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 52m • Korean • Action, Comedy • mobe1969**

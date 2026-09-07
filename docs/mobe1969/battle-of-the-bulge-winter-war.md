@@ -1,5 +1,7 @@
 # Battle Of The Bulge: Winter War
 
+[Compare across authors](../../compare/?t=film-battle-of-the-bulge-winter-war_755529)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 25m • Action, War, Drama, Thriller • mobe1969**

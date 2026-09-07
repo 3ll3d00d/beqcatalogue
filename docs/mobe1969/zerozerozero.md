@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-zerozerozero_92137)
+
 ## Season 1 Episodes 1-3
 
 * DTS-HD MA 5.1

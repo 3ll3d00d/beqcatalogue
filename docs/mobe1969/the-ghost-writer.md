@@ -1,5 +1,7 @@
 # The Ghost Writer
 
+[Compare across authors](../../compare/?t=film-the-ghost-writer_11439)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 2h 8m • Thriller, Mystery • mobe1969**

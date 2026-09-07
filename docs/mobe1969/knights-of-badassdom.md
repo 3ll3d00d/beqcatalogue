@@ -1,5 +1,7 @@
 # Knights of Badassdom
 
+[Compare across authors](../../compare/?t=film-knights-of-badassdom_74461)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 26m • Adventure, Fantasy, Horror, Comedy • mobe1969**

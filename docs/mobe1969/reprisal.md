@@ -1,5 +1,7 @@
 # Reprisal
 
+[Compare across authors](../../compare/?t=film-reprisal_531593)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 29m • Crime, Thriller, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Line Walker
 
+[Compare across authors](../../compare/?t=film-line-walker_411268)
+
 ## TrueHD 7.1
 
 **2016 • NR • 1h 48m • Cantonese • Action, Crime, Drama • mobe1969**

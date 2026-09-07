@@ -1,5 +1,7 @@
 # Redirected
 
+[Compare across authors](../../compare/?t=film-redirected_190469)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 39m • Crime, Thriller, Action, Comedy • mobe1969**

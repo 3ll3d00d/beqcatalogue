@@ -1,5 +1,7 @@
 # The Family
 
+[Compare across authors](../../compare/?t=film-the-family_112205)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 51m • Action, Comedy, Crime • mobe1969**

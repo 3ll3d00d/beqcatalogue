@@ -1,5 +1,7 @@
 # Zombieland
 
+[Compare across authors](../../compare/?t=film-zombieland_19908)
+
 ## Atmos
 
 **2009 • R • 1h 28m • Comedy, Horror • mobe1969**

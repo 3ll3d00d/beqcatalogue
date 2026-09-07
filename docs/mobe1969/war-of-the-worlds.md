@@ -1,5 +1,7 @@
 # War of the Worlds
 
+[Compare across authors](../../compare/?t=film-war-of-the-worlds_74)
+
 ## Atmos
 
 **2005 • PG-13 • 1h 57m • Adventure, Thriller, Science Fiction • mobe1969**

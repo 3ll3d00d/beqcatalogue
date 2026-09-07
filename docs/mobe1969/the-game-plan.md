@@ -1,5 +1,7 @@
 # The Game Plan
 
+[Compare across authors](../../compare/?t=film-the-game-plan_13680)
+
 ## DD+ 5.1
 
 **2007 • PG • 1h 50m • Comedy, Family • mobe1969**

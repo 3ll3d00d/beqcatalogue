@@ -1,5 +1,7 @@
 # Vengeance
 
+[Compare across authors](../../compare/?t=film-vengeance_683340)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • R • 1h 48m • Thriller, Mystery, Comedy • mobe1969**

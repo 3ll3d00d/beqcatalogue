@@ -1,5 +1,7 @@
 # The White Storm 2: Drug Lords
 
+[Compare across authors](../../compare/?t=film-the-white-storm-2-drug-lords_512731)
+
 ## Atmos
 
 **2019 • NR • 1h 40m • Cantonese • Drama, Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Isolation
 
+[Compare across authors](../../compare/?t=film-isolation_380754)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 26m • Action, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Chernobyl 1986
 
+[Compare across authors](../../compare/?t=film-chernobyl-1986_589761)
+
 ## DTS-HD MA 5.1
 
 **2021 • M • 2h 16m • Russian • Drama, History, Adventure • mobe1969**

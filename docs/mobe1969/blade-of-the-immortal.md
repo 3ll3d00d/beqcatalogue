@@ -1,5 +1,7 @@
 # Blade of the Immortal
 
+[Compare across authors](../../compare/?t=film-blade-of-the-immortal_426284)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 2h 20m • Japanese • Fantasy, Drama, Action • mobe1969**

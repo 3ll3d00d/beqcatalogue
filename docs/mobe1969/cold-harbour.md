@@ -1,5 +1,7 @@
 # Cold Harbour
 
+[Compare across authors](../../compare/?t=film-cold-harbour_233444)
+
 ## DD+ 5.1
 
 **2014 • NR • 1h 33m • Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Tremors: A Cold Day in Hell
 
+[Compare across authors](../../compare/?t=film-tremors-a-cold-day-in-hell_496704)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 38m • Science Fiction, Comedy, Action, Horror • mobe1969**

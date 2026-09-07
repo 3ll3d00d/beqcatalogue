@@ -1,5 +1,7 @@
 # Ghost in the Shell: Stand Alone Complex – Individual Eleven
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell-stand-alone-complex-individual-eleven_111224)
+
 ## TrueHD 5.1
 
 **2006 • 15 • 2h 42m • Japanese • Animation, Science Fiction • mobe1969**

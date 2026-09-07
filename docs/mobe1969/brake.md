@@ -1,5 +1,7 @@
 # Brake
 
+[Compare across authors](../../compare/?t=film-brake_85414)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 32m • Crime, Action, Thriller • mobe1969**

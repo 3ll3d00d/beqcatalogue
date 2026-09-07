@@ -1,5 +1,7 @@
 # Drishyam 2
 
+[Compare across authors](../../compare/?t=film-drishyam-2_1029827)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 22m • Hindi • Crime, Thriller, Drama, Mystery • mobe1969**

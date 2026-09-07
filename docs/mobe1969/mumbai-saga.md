@@ -1,5 +1,7 @@
 # Mumbai Saga
 
+[Compare across authors](../../compare/?t=film-mumbai-saga_608746)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 5m • Hindi • Action, Drama, Crime • mobe1969**

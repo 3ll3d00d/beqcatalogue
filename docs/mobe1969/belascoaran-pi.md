@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-belascoaran-pi_206709)
+
 ## Season 1
 
 * DD+ Atmos

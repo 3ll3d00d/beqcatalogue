@@ -1,5 +1,7 @@
 # The Machinist
 
+[Compare across authors](../../compare/?t=film-the-machinist_4553)
+
 ## TrueHD 5.1
 
 **2004 • R • 1h 41m • Thriller, Drama • mobe1969**

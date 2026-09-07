@@ -1,5 +1,7 @@
 # Starship Troopers
 
+[Compare across authors](../../compare/?t=film-starship-troopers_563)
+
 ## Atmos
 
 **1997 • R • 2h 9m • Adventure, Action, Thriller, Science Fiction • mobe1969**

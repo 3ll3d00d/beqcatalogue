@@ -1,5 +1,7 @@
 # Horns
 
+[Compare across authors](../../compare/?t=film-horns_149509)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 2h 0m • Drama, Fantasy, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Small Crimes
 
+[Compare across authors](../../compare/?t=film-small-crimes_411405)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 35m • Drama, Comedy, Thriller, Crime • mobe1969**

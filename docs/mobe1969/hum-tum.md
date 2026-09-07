@@ -1,5 +1,7 @@
 # Hum Tum
 
+[Compare across authors](../../compare/?t=film-hum-tum_4253)
+
 ## DD+ 5.1
 
 **2004 • NR • 2h 22m • Hindi • Romance, Family, Comedy, Drama • mobe1969**

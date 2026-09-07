@@ -1,5 +1,7 @@
 # The Last Mercenary
 
+[Compare across authors](../../compare/?t=film-the-last-mercenary_729720)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 50m • French • Action, Comedy • mobe1969**

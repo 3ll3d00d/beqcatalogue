@@ -1,5 +1,7 @@
 # The Menu
 
+[Compare across authors](../../compare/?t=film-the-menu_423125)
+
 ## TrueHD 5.1
 
 **2016 • NR • 1h 29m • Cantonese • Drama • mobe1969**

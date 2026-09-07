@@ -1,5 +1,7 @@
 # The Resistance Fighter
 
+[Compare across authors](../../compare/?t=film-the-resistance-fighter_582494)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 54m • Polish • Drama, Thriller, War • mobe1969**

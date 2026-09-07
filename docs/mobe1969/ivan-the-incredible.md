@@ -1,5 +1,7 @@
 # Ivan the Incredible
 
+[Compare across authors](../../compare/?t=film-ivan-the-incredible_132313)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG • 1h 20m • Animation, Comedy, Family • mobe1969**

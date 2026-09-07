@@ -1,5 +1,7 @@
 # The Bag Man
 
+[Compare across authors](../../compare/?t=film-the-bag-man_242076)
+
 ## DD+ 5.1
 
 **2014 • R • 1h 48m • Crime, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Awareness
 
+[Compare across authors](../../compare/?t=film-awareness_1067820)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 52m • Spanish • Science Fiction, Mystery, Thriller, Action • mobe1969**

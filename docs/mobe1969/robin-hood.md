@@ -1,5 +1,7 @@
 # Robin Hood
 
+[Compare across authors](../../compare/?t=film-robin-hood_20662)
+
 ## DTS-X
 
 Director's Cut

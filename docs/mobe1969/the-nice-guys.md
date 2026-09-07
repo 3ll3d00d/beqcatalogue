@@ -1,5 +1,7 @@
 # The Nice Guys
 
+[Compare across authors](../../compare/?t=film-the-nice-guys_290250)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2016 • R • 1h 56m • Comedy, Crime, Action • mobe1969**

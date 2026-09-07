@@ -1,5 +1,7 @@
 # Tunnel
 
+[Compare across authors](../../compare/?t=film-tunnel_390497)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 2h 6m • Korean • Thriller, Drama, Action • mobe1969**

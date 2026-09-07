@@ -1,5 +1,7 @@
 # Congo
 
+[Compare across authors](../../compare/?t=film-congo_10329)
+
 ## DTS-HD MA 5.1
 
 **1995 • PG-13 • 1h 49m • Adventure, Science Fiction, Action • mobe1969**

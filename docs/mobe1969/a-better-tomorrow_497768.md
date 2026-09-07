@@ -1,5 +1,7 @@
 # A Better Tomorrow
 
+[Compare across authors](../../compare/?t=film-a-better-tomorrow_497768)
+
 ## TrueHD 5.1
 
 **2018 • NR • 1h 54m • Mandarin • Action • mobe1969**

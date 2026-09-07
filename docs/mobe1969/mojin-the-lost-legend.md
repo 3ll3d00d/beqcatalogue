@@ -1,5 +1,7 @@
 # Mojin: The Lost Legend
 
+[Compare across authors](../../compare/?t=film-mojin-the-lost-legend_299824)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 2h 7m • Mandarin • Action, Adventure, Fantasy • mobe1969**

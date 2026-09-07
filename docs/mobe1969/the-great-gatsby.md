@@ -1,5 +1,7 @@
 # The Great Gatsby
 
+[Compare across authors](../../compare/?t=film-the-great-gatsby_64682)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 2h 23m • Drama, Romance • mobe1969**

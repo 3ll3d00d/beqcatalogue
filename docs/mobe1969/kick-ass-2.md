@@ -1,5 +1,7 @@
 # Kick-Ass 2
 
+[Compare across authors](../../compare/?t=film-kick-ass-2_59859)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 43m • Action, Adventure, Crime • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-westworld_63247)
+
 ## Season 3
 
 * Atmos

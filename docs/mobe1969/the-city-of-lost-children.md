@@ -1,5 +1,7 @@
 # The City of Lost Children
 
+[Compare across authors](../../compare/?t=film-the-city-of-lost-children_902)
+
 ## DTS-HD MA 5.1
 
 **1995 • 15 • 1h 48m • French • Fantasy, Science Fiction, Adventure • mobe1969**

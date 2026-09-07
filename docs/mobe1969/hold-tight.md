@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-hold-tight_158155)
+
 ## Season 1
 
 * DD+ Atmos

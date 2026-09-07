@@ -1,5 +1,7 @@
 # February
 
+[Compare across authors](../../compare/?t=film-february_334536)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 33m • Horror, Thriller • mobe1969**

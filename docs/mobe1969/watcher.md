@@ -1,5 +1,7 @@
 # Watcher
 
+[Compare across authors](../../compare/?t=film-watcher_807356)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 36m • Mystery, Thriller, Horror • mobe1969**

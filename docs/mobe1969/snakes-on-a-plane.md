@@ -1,5 +1,7 @@
 # Snakes on a Plane
 
+[Compare across authors](../../compare/?t=film-snakes-on-a-plane_326)
+
 ## DD 5.1
 
 **2006 • R • 1h 45m • Action, Crime, Thriller, Horror • mobe1969**

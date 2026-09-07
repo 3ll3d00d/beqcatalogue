@@ -1,5 +1,7 @@
 # Death Race
 
+[Compare across authors](../../compare/?t=film-death-race_10483)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 45m • Thriller, Science Fiction, Action • mobe1969**

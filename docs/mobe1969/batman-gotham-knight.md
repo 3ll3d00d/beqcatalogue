@@ -1,5 +1,7 @@
 # Batman: Gotham Knight
 
+[Compare across authors](../../compare/?t=film-batman-gotham-knight_13851)
+
 ## DD 5.1
 
 **2008 • PG-13 • 1h 15m • Science Fiction, Animation, Action, Crime, Thriller • mobe1969**

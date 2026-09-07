@@ -1,5 +1,7 @@
 # Sonic the Hedgehog 2
 
+[Compare across authors](../../compare/?t=film-sonic-the-hedgehog-2_675353)
+
 ## Atmos
 
 **2022 • PG • 2h 2m • Action, Adventure, Family, Comedy • mobe1969**

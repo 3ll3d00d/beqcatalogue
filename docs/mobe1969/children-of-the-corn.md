@@ -1,5 +1,7 @@
 # Children of the Corn
 
+[Compare across authors](../../compare/?t=film-children-of-the-corn_10823)
+
 ## DTS-HD MA 5.1
 
 **1984 • R • 1h 32m • Horror, Thriller • mobe1969**

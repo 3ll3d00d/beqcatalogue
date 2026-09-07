@@ -1,5 +1,7 @@
 # Hellboy
 
+[Compare across authors](../../compare/?t=film-hellboy_1487)
+
 ## Atmos
 
 Director's Cut

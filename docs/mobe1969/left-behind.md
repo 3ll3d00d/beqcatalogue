@@ -1,5 +1,7 @@
 # Left Behind
 
+[Compare across authors](../../compare/?t=film-left-behind_218043)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 50m • Thriller, Action, Science Fiction • mobe1969**

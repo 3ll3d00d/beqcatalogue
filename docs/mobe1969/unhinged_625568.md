@@ -1,5 +1,7 @@
 # Unhinged
 
+[Compare across authors](../../compare/?t=film-unhinged_625568)
+
 ## Atmos
 
 **2020 • R • 1h 30m • Action, Thriller • mobe1969**

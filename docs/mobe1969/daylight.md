@@ -1,5 +1,7 @@
 # Daylight
 
+[Compare across authors](../../compare/?t=film-daylight_11228)
+
 ## Atmos
 
 **1996 • PG-13 • 1h 55m • Action, Adventure, Thriller • mobe1969**

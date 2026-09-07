@@ -1,5 +1,7 @@
 # Brothers
 
+[Compare across authors](../../compare/?t=film-brothers_330037)
+
 ## DD+ 5.1
 
 **2015 • NR • 2h 36m • Hindi • Action, Drama, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Spy Kids
 
+[Compare across authors](../../compare/?t=film-spy-kids_10054)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG • 1h 28m • Comedy, Adventure, Action, Family • mobe1969**

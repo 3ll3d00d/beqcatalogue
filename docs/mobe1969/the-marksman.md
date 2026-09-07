@@ -1,5 +1,7 @@
 # The Marksman
 
+[Compare across authors](../../compare/?t=film-the-marksman_634528)
+
 ## DTS-HD MA 5.1
 
 **2021 • PG-13 • 1h 48m • Action, Thriller, Crime • mobe1969**

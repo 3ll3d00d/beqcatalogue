@@ -1,5 +1,7 @@
 # Sex Drive
 
+[Compare across authors](../../compare/?t=film-sex-drive_13523)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

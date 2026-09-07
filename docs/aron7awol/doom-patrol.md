@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-doom-patrol_79501)
+
 ## Season 1
 
 * DD+

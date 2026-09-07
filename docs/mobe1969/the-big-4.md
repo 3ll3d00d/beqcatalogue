@@ -1,5 +1,7 @@
 # The Big 4
 
+[Compare across authors](../../compare/?t=film-the-big-4_683328)
+
 ## DD+ 5.1
 
 **2022 • 15 • 2h 21m • Indonesian • Action, Comedy, Crime • mobe1969**

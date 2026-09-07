@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-defending-jacob_87784)
+
 ## Season 1
 
 * DD+ Atmos

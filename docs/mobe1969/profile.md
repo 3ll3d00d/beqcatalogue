@@ -1,5 +1,7 @@
 # Profile
 
+[Compare across authors](../../compare/?t=film-profile_493675)
+
 ## DD+ 5.1
 
 **2018 • 15 • 1h 46m • Thriller, Drama, Mystery • mobe1969**

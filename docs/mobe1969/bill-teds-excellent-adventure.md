@@ -1,5 +1,7 @@
 # Bill & Ted's Excellent Adventure
 
+[Compare across authors](../../compare/?t=film-bill-teds-excellent-adventure_1648)
+
 ## DTS-HD MA 5.1
 
 **1989 • PG • 1h 30m • Adventure, Comedy, Science Fiction • mobe1969**

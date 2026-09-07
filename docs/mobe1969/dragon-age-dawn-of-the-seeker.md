@@ -1,5 +1,7 @@
 # Dragon Age: Dawn of the Seeker
 
+[Compare across authors](../../compare/?t=film-dragon-age-dawn-of-the-seeker_103173)
+
 ## TrueHD 5.1
 
 **2012 • 15 • 1h 30m • Japanese • Animation, Fantasy • mobe1969**

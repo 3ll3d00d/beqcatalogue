@@ -1,5 +1,7 @@
 # Jailbreak
 
+[Compare across authors](../../compare/?t=film-jailbreak_433623)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 40m • Khymer • Action • mobe1969**

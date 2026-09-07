@@ -1,5 +1,7 @@
 # The Bourne Identity
 
+[Compare across authors](../../compare/?t=film-the-bourne-identity_2501)
+
 ## DD+ 5.1
 
 **2002 • PG-13 • 1h 59m • Action, Drama, Mystery, Thriller • mobe1969**

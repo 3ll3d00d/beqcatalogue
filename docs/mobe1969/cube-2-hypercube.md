@@ -1,5 +1,7 @@
 # Cube 2: Hypercube
 
+[Compare across authors](../../compare/?t=film-cube-2-hypercube_437)
+
 ## DD+ 5.1
 
 **2002 • R • 1h 34m • Thriller, Science Fiction, Mystery • mobe1969**

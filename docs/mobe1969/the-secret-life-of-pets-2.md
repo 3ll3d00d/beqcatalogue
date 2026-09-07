@@ -1,5 +1,7 @@
 # The Secret Life of Pets 2
 
+[Compare across authors](../../compare/?t=film-the-secret-life-of-pets-2_412117)
+
 ## Atmos
 
 **2019 • PG • 1h 26m • Adventure, Animation, Comedy, Family • mobe1969**

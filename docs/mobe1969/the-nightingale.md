@@ -1,5 +1,7 @@
 # The Nightingale
 
+[Compare across authors](../../compare/?t=film-the-nightingale_400090)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 2h 16m • Horror, Drama, Thriller • mobe1969**

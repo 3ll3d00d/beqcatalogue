@@ -1,5 +1,7 @@
 # Reasonable Doubt
 
+[Compare across authors](../../compare/?t=film-reasonable-doubt_240916)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 31m • Thriller, Crime • mobe1969**

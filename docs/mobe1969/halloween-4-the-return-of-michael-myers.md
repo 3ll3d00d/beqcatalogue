@@ -1,5 +1,7 @@
 # Halloween 4: The Return of Michael Myers
 
+[Compare across authors](../../compare/?t=film-halloween-4-the-return-of-michael-myers_11357)
+
 ## Atmos
 
 **1988 • R • 1h 28m • Horror, Thriller • mobe1969**

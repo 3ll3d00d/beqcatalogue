@@ -1,5 +1,7 @@
 # Ultimate Heist
 
+[Compare across authors](../../compare/?t=film-ultimate-heist_15638)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 34m • French • Action, Adventure, Thriller • mobe1969**

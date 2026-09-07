@@ -1,5 +1,7 @@
 # Laputa Castle in the Sky
 
+[Compare across authors](../../compare/?t=film-laputa-castle-in-the-sky_10515)
+
 ## LPCM 2.0
 
 **1986 • PG • 2h 5m • Japanese • Adventure, Fantasy, Animation, Action, Family, Romance • mobe1969**

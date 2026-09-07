@@ -1,5 +1,7 @@
 # Cinderella II: Dreams Come True
 
+[Compare across authors](../../compare/?t=film-cinderella-ii-dreams-come-true_14128)
+
 ## DD+ 5.1
 
 **2020 • G • 1h 14m • Family, Animation, Romance, Fantasy • mobe1969**

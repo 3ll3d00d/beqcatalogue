@@ -1,5 +1,7 @@
 # The SpongeBob Movie: Sponge on the Run
 
+[Compare across authors](../../compare/?t=film-the-spongebob-movie-sponge-on-the-run_400160)
+
 ## DD+ Atmos
 
 **2020 • PG • 1h 35m • Family, Animation, Fantasy, Adventure, Comedy • mobe1969**

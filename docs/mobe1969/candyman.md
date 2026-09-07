@@ -1,5 +1,7 @@
 # Candyman
 
+[Compare across authors](../../compare/?t=film-candyman_9529)
+
 ## Atmos
 
 Unrated Cut

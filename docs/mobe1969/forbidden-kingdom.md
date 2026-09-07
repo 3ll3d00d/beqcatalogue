@@ -1,5 +1,7 @@
 # Forbidden Kingdom
 
+[Compare across authors](../../compare/?t=film-forbidden-kingdom_1729)
+
 ## DTS-HD MA 7.1
 
 **2008 • PG-13 • 1h 44m • Action, Adventure, Fantasy • mobe1969**

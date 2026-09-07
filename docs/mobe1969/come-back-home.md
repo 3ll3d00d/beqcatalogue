@@ -1,5 +1,7 @@
 # Come Back Home
 
+[Compare across authors](../../compare/?t=film-come-back-home_973211)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 42m • Mandarin • Adventure, Drama, Thriller • mobe1969**

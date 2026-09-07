@@ -1,5 +1,7 @@
 # Roald Dahl's The Witches
 
+[Compare across authors](../../compare/?t=film-roald-dahls-the-witches_531219)
+
 ## DTS-HD MA 5.1
 
 **2020 • PG • 1h 46m • Adventure, Fantasy, Comedy, Family, Horror • mobe1969**

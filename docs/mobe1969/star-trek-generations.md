@@ -1,5 +1,7 @@
 # Star Trek: Generations
 
+[Compare across authors](../../compare/?t=film-star-trek-generations_193)
+
 ## TrueHD 5.1
 
 **1994 • PG • 1h 58m • Science Fiction, Action, Adventure, Thriller • mobe1969**

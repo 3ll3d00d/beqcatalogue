@@ -1,5 +1,7 @@
 # A.I. Artificial Intelligence
 
+[Compare across authors](../../compare/?t=film-ai-artificial-intelligence_644)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG-13 • 2h 26m • Adventure, Drama, Science Fiction • mobe1969**

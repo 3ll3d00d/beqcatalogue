@@ -1,5 +1,7 @@
 # Hesher
 
+[Compare across authors](../../compare/?t=film-hesher_44835)
+
 ## DD+ 5.1
 
 **2010 • R • 1h 46m • Drama • mobe1969**

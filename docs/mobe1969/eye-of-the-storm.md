@@ -1,5 +1,7 @@
 # Eye of the Storm
 
+[Compare across authors](../../compare/?t=film-eye-of-the-storm_1040284)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 58m • Mandarin • Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The Equalizer 3
 
+[Compare across authors](../../compare/?t=film-the-equalizer-3_926393)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 49m • Action, Thriller, Crime • mobe1969**

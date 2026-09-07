@@ -1,5 +1,7 @@
 # Pawn Shop Chronicles
 
+[Compare across authors](../../compare/?t=film-pawn-shop-chronicles_199420)
+
 ## TrueHD 5.1
 
 **2013 • R • 1h 47m • Action, Comedy • mobe1969**

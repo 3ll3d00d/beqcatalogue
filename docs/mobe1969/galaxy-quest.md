@@ -1,5 +1,7 @@
 # Galaxy Quest
 
+[Compare across authors](../../compare/?t=film-galaxy-quest_926)
+
 ## TrueHD 5.1
 
 **1999 • PG • 1h 41m • Comedy, Family, Science Fiction, Adventure • mobe1969**

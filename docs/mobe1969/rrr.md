@@ -1,5 +1,7 @@
 # RRR
 
+[Compare across authors](../../compare/?t=film-rrr_579974)
+
 ## DD+ Atmos
 
 **2022 • NR • 3h 6m • Telugu • Action, Drama • mobe1969**

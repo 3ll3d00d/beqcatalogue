@@ -1,5 +1,7 @@
 # The Divine Move
 
+[Compare across authors](../../compare/?t=film-the-divine-move_281298)
+
 ## DD 5.1
 
 **2014 • NR • 1h 58m • Korean • Action • mobe1969**

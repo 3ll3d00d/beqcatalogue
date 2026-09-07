@@ -1,5 +1,7 @@
 # The Assistant
 
+[Compare across authors](../../compare/?t=film-the-assistant_962910)
+
 ## DD+ 5.1
 
 **2022 • 15 • 2h 4m • Malay • Crime, Action, Thriller • mobe1969**

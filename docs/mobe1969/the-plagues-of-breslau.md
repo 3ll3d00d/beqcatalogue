@@ -1,5 +1,7 @@
 # The Plagues of Breslau
 
+[Compare across authors](../../compare/?t=film-the-plagues-of-breslau_557336)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 33m • Polish • Crime, Action, Thriller • mobe1969**

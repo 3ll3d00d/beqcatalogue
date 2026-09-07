@@ -1,5 +1,7 @@
 # The Driver
 
+[Compare across authors](../../compare/?t=film-the-driver_648043)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 37m • Horror, Action • mobe1969**

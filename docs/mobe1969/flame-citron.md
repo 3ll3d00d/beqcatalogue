@@ -1,5 +1,7 @@
 # Flame & Citron
 
+[Compare across authors](../../compare/?t=film-flame-citron_8883)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 2h 10m • Danish • History, War, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Police Story 3: Super Cop
 
+[Compare across authors](../../compare/?t=film-police-story-3-super-cop_11134)
+
 ## Atmos
 
 **1992 • R • 1h 36m • Cantonese • Action, Crime, Thriller • mobe1969**

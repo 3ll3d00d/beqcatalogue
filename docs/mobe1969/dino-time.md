@@ -1,5 +1,7 @@
 # Dino Time
 
+[Compare across authors](../../compare/?t=film-dino-time_136793)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG • 1h 25m • Animation, Adventure, Comedy, Family • mobe1969**

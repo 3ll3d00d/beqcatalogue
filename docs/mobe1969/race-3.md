@@ -1,5 +1,7 @@
 # Race 3
 
+[Compare across authors](../../compare/?t=film-race-3_496320)
+
 ## DD+ 5.1, DD 5.1
 
 **2018 • 12A • 2h 40m • Hindi • Thriller, Action • mobe1969**

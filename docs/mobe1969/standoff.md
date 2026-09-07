@@ -1,5 +1,7 @@
 # Standoff
 
+[Compare across authors](../../compare/?t=film-standoff_344041)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 20m • Thriller, Drama • mobe1969**

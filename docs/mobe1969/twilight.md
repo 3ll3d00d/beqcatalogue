@@ -1,5 +1,7 @@
 # Twilight
 
+[Compare across authors](../../compare/?t=film-twilight_8966)
+
 ## Atmos
 
 **2008 • PG-13 • 2h 2m • Fantasy, Drama, Romance • mobe1969**

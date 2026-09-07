@@ -1,5 +1,7 @@
 # Mr. Go
 
+[Compare across authors](../../compare/?t=film-mr-go_207052)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 2h 12m • Korean • Drama, Comedy, Action • mobe1969**

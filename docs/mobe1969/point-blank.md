@@ -1,5 +1,7 @@
 # Point Blank
 
+[Compare across authors](../../compare/?t=film-point-blank_56125)
+
 ## DD+ 5.1
 
 **1998 • R • 1h 38m • Action, Drama, Crime • mobe1969**

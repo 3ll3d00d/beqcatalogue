@@ -1,5 +1,7 @@
 # His House
 
+[Compare across authors](../../compare/?t=film-his-house_575774)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2020 • NR • 1h 33m • Drama, Horror, Thriller • mobe1969**

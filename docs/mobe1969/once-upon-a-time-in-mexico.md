@@ -1,5 +1,7 @@
 # Once Upon a Time in Mexico
 
+[Compare across authors](../../compare/?t=film-once-upon-a-time-in-mexico_1428)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 42m • Action, Drama, Mystery • mobe1969**

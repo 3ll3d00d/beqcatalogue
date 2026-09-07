@@ -1,5 +1,7 @@
 # Beast
 
+[Compare across authors](../../compare/?t=film-beast_760741)
+
 ## Atmos, DD+ Atmos, DD+ 5.1
 
 **2022 • R • 1h 33m • Thriller, Adventure, Horror • mobe1969**

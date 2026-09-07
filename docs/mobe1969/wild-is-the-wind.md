@@ -1,5 +1,7 @@
 # Wild Is the Wind
 
+[Compare across authors](../../compare/?t=film-wild-is-the-wind_1033107)
+
 ## DD+ 5.1
 
 **2022 • NR • 0h 0m • Crime, Drama • mobe1969**

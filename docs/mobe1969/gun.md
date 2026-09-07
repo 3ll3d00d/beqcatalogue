@@ -1,5 +1,7 @@
 # Gun
 
+[Compare across authors](../../compare/?t=film-gun_51250)
+
 ## DD+ 5.1
 
 **2010 • R • 1h 21m • Action, Crime • mobe1969**

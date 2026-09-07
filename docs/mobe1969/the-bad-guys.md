@@ -1,5 +1,7 @@
 # The Bad Guys
 
+[Compare across authors](../../compare/?t=film-the-bad-guys_629542)
+
 ## Atmos
 
 **2022 • PG • 1h 40m • Animation, Comedy, Family, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Harold & Kumar Escape from Guantanamo Bay
 
+[Compare across authors](../../compare/?t=film-harold-kumar-escape-from-guantanamo-bay_13335)
+
 ## DTS-HD MA 7.1
 
 Extended Cut

@@ -1,5 +1,7 @@
 # Journey's End
 
+[Compare across authors](../../compare/?t=film-journeys-end_438259)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 48m • War, Drama • mobe1969**

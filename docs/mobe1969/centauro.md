@@ -1,5 +1,7 @@
 # Centauro
 
+[Compare across authors](../../compare/?t=film-centauro_852592)
+
 ## DD+ Atmos
 
 **2022 • 15 • 1h 29m • Spanish • Action, Crime, Thriller • mobe1969**

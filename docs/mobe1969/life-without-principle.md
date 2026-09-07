@@ -1,5 +1,7 @@
 # Life Without Principle
 
+[Compare across authors](../../compare/?t=film-life-without-principle_90147)
+
 ## DD+ 5.1
 
 **2011 • NR • 1h 47m • Cantonese • Action, Thriller, Crime • mobe1969**

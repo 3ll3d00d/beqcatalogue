@@ -1,5 +1,7 @@
 # Three
 
+[Compare across authors](../../compare/?t=film-three_373922)
+
 ## DTS-X
 
 **2016 • NR • 1h 28m • Cantonese • Thriller, Crime, Action • mobe1969**

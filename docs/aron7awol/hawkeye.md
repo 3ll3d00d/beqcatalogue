@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-hawkeye_88329)
+
 ## Season 1 Episodes 1-5
 
 * DD+ Atmos

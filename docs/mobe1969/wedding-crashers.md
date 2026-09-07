@@ -1,5 +1,7 @@
 # Wedding Crashers
 
+[Compare across authors](../../compare/?t=film-wedding-crashers_9522)
+
 ## TrueHD 5.1
 
 Theatrical Cut

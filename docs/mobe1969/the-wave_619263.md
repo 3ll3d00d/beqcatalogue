@@ -1,5 +1,7 @@
 # The Wave
 
+[Compare across authors](../../compare/?t=film-the-wave_619263)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 27m • Science Fiction • mobe1969**

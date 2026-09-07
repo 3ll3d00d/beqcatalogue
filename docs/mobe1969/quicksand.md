@@ -1,5 +1,7 @@
 # Quicksand
 
+[Compare across authors](../../compare/?t=film-quicksand_47517)
+
 ## DD+ 2.0
 
 **2003 • R • 1h 34m • Action, Crime, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Goliyon Ki Raasleela Ram-Leela
 
+[Compare across authors](../../compare/?t=film-goliyon-ki-raasleela-ram-leela_235984)
+
 ## DTS-HD MA 7.1
 
 **2013 • PG-13 • 2h 35m • Hindi • Drama, Romance • mobe1969**

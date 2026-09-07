@@ -1,5 +1,7 @@
 # Saturday Night Fever
 
+[Compare across authors](../../compare/?t=film-saturday-night-fever_11009)
+
 ## TrueHD 5.1
 
 **1977 • R • 1h 58m • Drama, Music, Romance • mobe1969**

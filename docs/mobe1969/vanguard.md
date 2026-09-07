@@ -1,5 +1,7 @@
 # Vanguard
 
+[Compare across authors](../../compare/?t=film-vanguard_604822)
+
 ## DTS-HD MA 5.1
 
 **2020 • PG-13 • 1h 47m • Mandarin • Action, Adventure, Crime • mobe1969**

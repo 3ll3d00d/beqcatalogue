@@ -1,5 +1,7 @@
 # Z Storm
 
+[Compare across authors](../../compare/?t=film-z-storm_277519)
+
 ## TrueHD 5.1
 
 **2014 • NR • 1h 32m • Cantonese • Crime, Thriller • mobe1969**

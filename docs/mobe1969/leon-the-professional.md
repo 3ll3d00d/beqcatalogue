@@ -1,5 +1,7 @@
 # Léon: The Professional
 
+[Compare across authors](../../compare/?t=film-leon-the-professional_101)
+
 ## Atmos
 
 Extended Cut

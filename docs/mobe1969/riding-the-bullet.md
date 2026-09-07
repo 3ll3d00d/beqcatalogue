@@ -1,5 +1,7 @@
 # Riding the Bullet
 
+[Compare across authors](../../compare/?t=film-riding-the-bullet_12483)
+
 ## DD 5.1
 
 **2004 • R • 1h 38m • Drama, Horror, Thriller • mobe1969**

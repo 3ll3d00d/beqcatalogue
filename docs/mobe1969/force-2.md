@@ -1,5 +1,7 @@
 # Force 2
 
+[Compare across authors](../../compare/?t=film-force-2_426558)
+
 ## DD+ 5.1
 
 **2016 • 12A • 2h 3m • Hindi • Action, Adventure, Crime • mobe1969**

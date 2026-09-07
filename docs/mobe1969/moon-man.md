@@ -1,5 +1,7 @@
 # Moon Man
 
+[Compare across authors](../../compare/?t=film-moon-man_801803)
+
 ## AAC 2.0
 
 **2022 • NR • 2h 2m • Mandarin • Science Fiction, Comedy • mobe1969**

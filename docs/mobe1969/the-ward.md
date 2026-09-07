@@ -1,5 +1,7 @@
 # The Ward
 
+[Compare across authors](../../compare/?t=film-the-ward_45657)
+
 ## TrueHD 5.1
 
 **2010 • R • 1h 28m • Thriller, Horror • mobe1969**

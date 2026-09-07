@@ -1,5 +1,7 @@
 # Overboard
 
+[Compare across authors](../../compare/?t=film-overboard_454619)
+
 ## DD+ 5.1
 
 **2018 • PG-13 • 1h 52m • Romance, Comedy • mobe1969**

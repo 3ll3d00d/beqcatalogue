@@ -1,5 +1,7 @@
 # The Main Event
 
+[Compare across authors](../../compare/?t=film-the-main-event_637157)
+
 ## DD+ Atmos
 
 **2020 • NR • 1h 42m • Family, Comedy • mobe1969**

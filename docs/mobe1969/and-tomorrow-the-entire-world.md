@@ -1,5 +1,7 @@
 # And Tomorrow the Entire World
 
+[Compare across authors](../../compare/?t=film-and-tomorrow-the-entire-world_728113)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 51m • German • Crime, Drama, Romance • mobe1969**

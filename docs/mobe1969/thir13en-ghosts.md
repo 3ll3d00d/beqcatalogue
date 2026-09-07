@@ -1,5 +1,7 @@
 # Thir13en Ghosts
 
+[Compare across authors](../../compare/?t=film-thir13en-ghosts_9378)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 1h 31m • Horror, Thriller • mobe1969**

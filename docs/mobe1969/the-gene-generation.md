@@ -1,5 +1,7 @@
 # The Gene Generation
 
+[Compare across authors](../../compare/?t=film-the-gene-generation_15166)
+
 ## DTS-HD HR 5.1
 
 **2007 • R • 1h 36m • Science Fiction, Action • mobe1969**

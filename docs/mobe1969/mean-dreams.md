@@ -1,5 +1,7 @@
 # Mean Dreams
 
+[Compare across authors](../../compare/?t=film-mean-dreams_393732)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 48m • Drama, Thriller • mobe1969**

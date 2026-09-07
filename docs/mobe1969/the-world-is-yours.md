@@ -1,5 +1,7 @@
 # The World Is Yours
 
+[Compare across authors](../../compare/?t=film-the-world-is-yours_504603)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 34m • French • Comedy, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # The Kid Who Would Be King
 
+[Compare across authors](../../compare/?t=film-the-kid-who-would-be-king_454294)
+
 ## Atmos
 
 **2019 • PG • 2h 0m • Action, Adventure, Fantasy, Family • mobe1969**

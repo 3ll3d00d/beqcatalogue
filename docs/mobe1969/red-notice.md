@@ -1,5 +1,7 @@
 # Red Notice
 
+[Compare across authors](../../compare/?t=film-red-notice_512195)
+
 ## DD+ Atmos
 
 **2021 • PG-13 • 1h 58m • Action, Comedy, Crime, Thriller • mobe1969**

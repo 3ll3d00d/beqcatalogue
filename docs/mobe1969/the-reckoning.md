@@ -1,5 +1,7 @@
 # The Reckoning
 
+[Compare across authors](../../compare/?t=film-the-reckoning_587130)
+
 ## DTS-HD MA 5.1
 
 **2020 • 15 • 1h 51m • Horror, Drama • mobe1969**

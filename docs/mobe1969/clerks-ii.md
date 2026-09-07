@@ -1,5 +1,7 @@
 # Clerks II
 
+[Compare across authors](../../compare/?t=film-clerks-ii_2295)
+
 ## TrueHD 5.1
 
 **2006 • R • 1h 37m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Halloween Ends
 
+[Compare across authors](../../compare/?t=film-halloween-ends_616820)
+
 ## Atmos
 
 **2022 • R • 1h 51m • Horror, Thriller • mobe1969**

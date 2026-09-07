@@ -1,5 +1,7 @@
 # Death Note: L: Change the WorLD
 
+[Compare across authors](../../compare/?t=film-death-note-l-change-the-world_20329)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 2h 9m • Japanese • Fantasy, Action, Thriller, Science Fiction, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # The Beguiled
 
+[Compare across authors](../../compare/?t=film-the-beguiled_399019)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 33m • Drama • mobe1969**

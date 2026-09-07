@@ -1,5 +1,7 @@
 # Side Effects
 
+[Compare across authors](../../compare/?t=film-side-effects_109421)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 46m • Thriller, Crime, Drama • mobe1969**

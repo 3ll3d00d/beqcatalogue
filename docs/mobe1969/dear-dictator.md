@@ -1,5 +1,7 @@
 # Dear Dictator
 
+[Compare across authors](../../compare/?t=film-dear-dictator_418667)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 30m • Comedy • mobe1969**

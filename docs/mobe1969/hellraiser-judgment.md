@@ -1,5 +1,7 @@
 # Hellraiser: Judgment
 
+[Compare across authors](../../compare/?t=film-hellraiser-judgment_444149)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 1h 21m • Horror • mobe1969**

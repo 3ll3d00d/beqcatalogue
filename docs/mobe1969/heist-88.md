@@ -1,5 +1,7 @@
 # Heist 88
 
+[Compare across authors](../../compare/?t=film-heist-88_1170944)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 23m • Crime, Drama • mobe1969**

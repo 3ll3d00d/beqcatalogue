@@ -1,5 +1,7 @@
 # Volcano
 
+[Compare across authors](../../compare/?t=film-volcano_10357)
+
 ## DTS-HD MA 5.1
 
 **1997 • PG-13 • 1h 44m • Thriller, Action, Science Fiction, Drama • mobe1969**

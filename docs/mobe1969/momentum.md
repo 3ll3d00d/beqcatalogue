@@ -1,5 +1,7 @@
 # Momentum
 
+[Compare across authors](../../compare/?t=film-momentum_346808)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 36m • Action, Crime, Thriller • mobe1969**

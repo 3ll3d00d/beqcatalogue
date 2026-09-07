@@ -1,5 +1,7 @@
 # Kundo: Age of the Rampant
 
+[Compare across authors](../../compare/?t=film-kundo-age-of-the-rampant_281780)
+
 ## DTS-HD MA 5.1
 
 **2014 • MA15+ • 2h 17m • Korean • Action • mobe1969**

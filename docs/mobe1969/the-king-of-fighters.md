@@ -1,5 +1,7 @@
 # The King of Fighters
 
+[Compare across authors](../../compare/?t=film-the-king-of-fighters_44571)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 33m • Thriller, Action, Science Fiction • mobe1969**

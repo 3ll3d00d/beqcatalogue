@@ -1,5 +1,7 @@
 # Minions
 
+[Compare across authors](../../compare/?t=film-minions_211672)
+
 ## Atmos
 
 **2015 • PG • 1h 31m • Family, Animation, Adventure, Comedy • mobe1969**

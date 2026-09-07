@@ -1,5 +1,7 @@
 # Scream 2
 
+[Compare across authors](../../compare/?t=film-scream-2_4233)
+
 ## DTS-HD MA 5.1
 
 **1997 • R • 2h 0m • Horror, Mystery • mobe1969**

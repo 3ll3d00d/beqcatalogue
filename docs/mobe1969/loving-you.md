@@ -1,5 +1,7 @@
 # Loving You
 
+[Compare across authors](../../compare/?t=film-loving-you_160342)
+
 ## DTS-HD MA 2.0
 
 **1995 • NR • 1h 24m • Cantonese • Drama, Crime, Action • mobe1969**

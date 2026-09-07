@@ -1,5 +1,7 @@
 # Conspirators
 
+[Compare across authors](../../compare/?t=film-conspirators_205575)
+
 ## DTS-HD MA 7.1
 
 **2013 • NR • 1h 43m • Cantonese • Action, Crime • mobe1969**

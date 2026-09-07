@@ -1,5 +1,7 @@
 # Dark Phoenix
 
+[Compare across authors](../../compare/?t=film-dark-phoenix_320288)
+
 ## Atmos
 
 **2019 • PG-13 • 1h 54m • Fantasy, Science Fiction, Action, Adventure • mobe1969**

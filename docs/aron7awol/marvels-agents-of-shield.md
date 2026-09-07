@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-marvels-agents-of-shield_1403)
+
 ## Season 6
 
 * DD+

@@ -1,5 +1,7 @@
 # Operation Hyacinth
 
+[Compare across authors](../../compare/?t=film-operation-hyacinth_809970)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 46m • Polish • Thriller • mobe1969**

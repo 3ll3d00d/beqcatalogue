@@ -1,5 +1,7 @@
 # Housefull 2
 
+[Compare across authors](../../compare/?t=film-housefull-2_85052)
+
 ## DD 5.1
 
 **2012 • 12A • 2h 25m • Hindi • Comedy, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Clifford the Big Red Dog
 
+[Compare across authors](../../compare/?t=film-clifford-the-big-red-dog_585245)
+
 ## DD+ Atmos
 
 **2021 • PG • 1h 37m • Family, Adventure, Comedy, Fantasy • mobe1969**

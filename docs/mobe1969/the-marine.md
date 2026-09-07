@@ -1,5 +1,7 @@
 # The Marine
 
+[Compare across authors](../../compare/?t=film-the-marine_8975)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 1h 32m • Action • mobe1969**

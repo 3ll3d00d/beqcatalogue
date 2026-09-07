@@ -1,5 +1,7 @@
 # The Twilight Samurai
 
+[Compare across authors](../../compare/?t=film-the-twilight-samurai_12496)
+
 ## TrueHD 5.1
 
 **2002 • 15Ã¬â€žÂ¸Ã¬ÂÂ´Ã¬Æ’ÂÃªÂ´â‚¬Ã«Å¾Å’ÃªÂ°â‚¬ • 2h 9m • Japanese • Action, Drama, Romance • mobe1969**

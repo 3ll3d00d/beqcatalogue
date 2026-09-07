@@ -1,5 +1,7 @@
 # The Puppet Masters
 
+[Compare across authors](../../compare/?t=film-the-puppet-masters_25557)
+
 ## DTS-HD MA 5.1
 
 **1994 • R • 1h 49m • Science Fiction, Thriller, Horror • mobe1969**

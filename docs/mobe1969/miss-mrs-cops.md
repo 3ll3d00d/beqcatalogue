@@ -1,5 +1,7 @@
 # Miss & Mrs. Cops
 
+[Compare across authors](../../compare/?t=film-miss-mrs-cops_571786)
+
 ## TrueHD 5.1
 
 **2019 • NR • 1h 47m • Korean • Action, Comedy • mobe1969**

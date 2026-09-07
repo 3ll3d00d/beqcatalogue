@@ -1,5 +1,7 @@
 # The Wandering Earth II
 
+[Compare across authors](../../compare/?t=film-the-wandering-earth-ii_842675)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 53m • Mandarin • Science Fiction, Action, Drama • mobe1969**

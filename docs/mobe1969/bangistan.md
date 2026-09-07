@@ -1,5 +1,7 @@
 # Bangistan
 
+[Compare across authors](../../compare/?t=film-bangistan_352099)
+
 ## DD+ 5.1
 
 **2015 • NR • 2h 15m • Hindi • Comedy, Drama • mobe1969**

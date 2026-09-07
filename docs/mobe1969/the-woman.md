@@ -1,5 +1,7 @@
 # The Woman
 
+[Compare across authors](../../compare/?t=film-the-woman_65599)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 42m • Drama, Horror • mobe1969**

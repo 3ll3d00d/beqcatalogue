@@ -1,5 +1,7 @@
 # The Karate Kid Part III
 
+[Compare across authors](../../compare/?t=film-the-karate-kid-part-iii_10495)
+
 ## Atmos
 
 **1989 • PG • 1h 52m • Action, Family, Drama, Adventure • mobe1969**

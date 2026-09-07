@@ -1,5 +1,7 @@
 # The Rocketeer
 
+[Compare across authors](../../compare/?t=film-the-rocketeer_10249)
+
 ## DTS-HD MA 5.1
 
 **1991 • PG • 1h 48m • Action, Adventure, Science Fiction, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Fast & Furious
 
+[Compare across authors](../../compare/?t=film-fast-furious_13804)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 47m • Action, Crime, Drama, Thriller • mobe1969**

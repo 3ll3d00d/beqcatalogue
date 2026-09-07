@@ -1,5 +1,7 @@
 # Chhalaang
 
+[Compare across authors](../../compare/?t=film-chhalaang_667585)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 16m • Hindi • Comedy, Drama • mobe1969**

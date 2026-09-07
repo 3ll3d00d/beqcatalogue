@@ -1,5 +1,7 @@
 # Pearl Harbor
 
+[Compare across authors](../../compare/?t=film-pearl-harbor_676)
+
 ## LPCM 5.1
 
 **2001 • PG-13 • 3h 3m • Action, War, History, Romance, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The Day After Tomorrow
 
+[Compare across authors](../../compare/?t=film-the-day-after-tomorrow_435)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2004 • PG-13 • 2h 4m • Action, Adventure, Science Fiction, Thriller • mobe1969**

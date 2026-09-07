@@ -1,5 +1,7 @@
 # Road to Paloma
 
+[Compare across authors](../../compare/?t=film-road-to-paloma_268060)
+
 ## TrueHD 5.1
 
 **2014 • R • 1h 31m • Thriller, Drama • mobe1969**

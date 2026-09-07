@@ -1,5 +1,7 @@
 # Stolen
 
+[Compare across authors](../../compare/?t=film-stolen_127493)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 36m • Action, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Tiger Cage II
 
+[Compare across authors](../../compare/?t=film-tiger-cage-ii_58412)
+
 ## LPCM 2.0
 
 **1990 • NR • 1h 35m • Cantonese • Action, Crime • mobe1969**

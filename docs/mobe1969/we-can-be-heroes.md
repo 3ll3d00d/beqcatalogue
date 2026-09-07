@@ -1,5 +1,7 @@
 # We Can Be Heroes
 
+[Compare across authors](../../compare/?t=film-we-can-be-heroes_615677)
+
 ## DD+ 5.1
 
 **2020 • PG • 1h 37m • Action, Fantasy, Family, Comedy • mobe1969**

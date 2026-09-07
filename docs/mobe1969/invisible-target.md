@@ -1,5 +1,7 @@
 # Invisible Target
 
+[Compare across authors](../../compare/?t=film-invisible-target_19528)
+
 ## DTS-HD MA 7.1
 
 **2007 • NR • 2h 9m • Cantonese • Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Ugly Truth
 
+[Compare across authors](../../compare/?t=film-the-ugly-truth_20943)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 36m • Comedy, Romance • mobe1969**

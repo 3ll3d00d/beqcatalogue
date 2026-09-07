@@ -1,5 +1,7 @@
 # Iceman
 
+[Compare across authors](../../compare/?t=film-iceman_105001)
+
 ## TrueHD 5.1, DTS-HD MA 5.1
 
 **2014 • R • 1h 44m • Cantonese • Adventure, Action, Science Fiction, Comedy, Fantasy • mobe1969**

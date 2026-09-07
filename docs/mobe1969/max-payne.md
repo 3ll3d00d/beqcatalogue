@@ -1,5 +1,7 @@
 # Max Payne
 
+[Compare across authors](../../compare/?t=film-max-payne_13051)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

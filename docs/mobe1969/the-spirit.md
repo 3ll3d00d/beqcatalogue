@@ -1,5 +1,7 @@
 # The Spirit
 
+[Compare across authors](../../compare/?t=film-the-spirit_8285)
+
 ## DTS-HD MA 7.1
 
 Extended Cut

@@ -1,5 +1,7 @@
 # Batman vs. Teenage Mutant Ninja Turtles
 
+[Compare across authors](../../compare/?t=film-batman-vs-teenage-mutant-ninja-turtles_581997)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG-13 • 1h 27m • Animation, Action, Family • mobe1969**

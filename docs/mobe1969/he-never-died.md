@@ -1,5 +1,7 @@
 # He Never Died
 
+[Compare across authors](../../compare/?t=film-he-never-died_279690)
+
 ## DD+ 5.1
 
 **2015 • R • 1h 39m • Comedy, Drama, Fantasy, Horror • mobe1969**

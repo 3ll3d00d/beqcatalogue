@@ -1,5 +1,7 @@
 # Punished
 
+[Compare across authors](../../compare/?t=film-punished_72650)
+
 ## DTS-HD MA 7.1
 
 **2011 • NR • 1h 34m • Cantonese • Action, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Inferno
 
+[Compare across authors](../../compare/?t=film-inferno_207932)
+
 ## Atmos
 
 **2016 • PG-13 • 2h 1m • Mystery, Thriller, Drama, Action • mobe1969**

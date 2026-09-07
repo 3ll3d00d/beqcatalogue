@@ -1,5 +1,7 @@
 # The Eye
 
+[Compare across authors](../../compare/?t=film-the-eye_9030)
+
 ## DTS-HD MA 7.1
 
 **2008 • PG-13 • 1h 38m • Thriller, Drama, Horror • mobe1969**

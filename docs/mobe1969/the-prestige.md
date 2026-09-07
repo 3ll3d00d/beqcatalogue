@@ -1,5 +1,7 @@
 # The Prestige
 
+[Compare across authors](../../compare/?t=film-the-prestige_1124)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 2h 10m • Drama, Mystery, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Boost
 
+[Compare across authors](../../compare/?t=film-boost_391484)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 35m • Action, Drama, Crime • mobe1969**

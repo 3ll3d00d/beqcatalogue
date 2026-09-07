@@ -1,5 +1,7 @@
 # Happy Feet Two
 
+[Compare across authors](../../compare/?t=film-happy-feet-two_65759)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG • 1h 40m • Animation, Comedy, Family • mobe1969**

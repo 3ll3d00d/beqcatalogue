@@ -1,5 +1,7 @@
 # Journey to Greenland
 
+[Compare across authors](../../compare/?t=film-journey-to-greenland_396920)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 38m • French • Drama, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Lost Girls & Love Hotels
 
+[Compare across authors](../../compare/?t=film-lost-girls-love-hotels_479259)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 37m • Drama • mobe1969**

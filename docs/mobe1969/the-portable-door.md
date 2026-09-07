@@ -1,5 +1,7 @@
 # The Portable Door
 
+[Compare across authors](../../compare/?t=film-the-portable-door_830896)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 56m • Fantasy, Adventure, Comedy • mobe1969**

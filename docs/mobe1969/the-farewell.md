@@ -1,5 +1,7 @@
 # The Farewell
 
+[Compare across authors](../../compare/?t=film-the-farewell_565310)
+
 ## DD+ 5.1
 
 **2019 • PG • 1h 40m • Comedy, Drama • mobe1969**

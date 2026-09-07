@@ -1,5 +1,7 @@
 # American Refugee
 
+[Compare across authors](../../compare/?t=film-american-refugee_827315)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 35m • Horror, Thriller • mobe1969**

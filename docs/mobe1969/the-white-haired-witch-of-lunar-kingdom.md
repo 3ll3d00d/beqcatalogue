@@ -1,5 +1,7 @@
 # The White Haired Witch of Lunar Kingdom
 
+[Compare across authors](../../compare/?t=film-the-white-haired-witch-of-lunar-kingdom_257648)
+
 ## TrueHD 5.1, DD+ 5.1
 
 **2014 • NR • 1h 44m • Mandarin • Romance, Fantasy, Action • mobe1969**

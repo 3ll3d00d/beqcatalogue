@@ -1,5 +1,7 @@
 # The Man from Earth
 
+[Compare across authors](../../compare/?t=film-the-man-from-earth_13363)
+
 ## DD+ 5.1
 
 **2007 • NR • 1h 27m • Science Fiction, Drama • mobe1969**

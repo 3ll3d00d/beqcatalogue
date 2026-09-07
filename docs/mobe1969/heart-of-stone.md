@@ -1,5 +1,7 @@
 # Heart of Stone
 
+[Compare across authors](../../compare/?t=film-heart-of-stone_724209)
+
 ## DD+ Atmos
 
 **2023 • PG-13 • 2h 2m • Thriller, Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Deep
 
+[Compare across authors](../../compare/?t=film-the-deep_127913)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 35m • Icelandic • Drama • mobe1969**

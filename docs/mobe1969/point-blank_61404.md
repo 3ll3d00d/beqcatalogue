@@ -1,5 +1,7 @@
 # Point Blank
 
+[Compare across authors](../../compare/?t=film-point-blank_61404)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 24m • French • Action, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Knight of Cups
 
+[Compare across authors](../../compare/?t=film-knight-of-cups_86835)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 58m • Romance, Drama • mobe1969**

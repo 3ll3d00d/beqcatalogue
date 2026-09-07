@@ -1,5 +1,7 @@
 # Coin Heist
 
+[Compare across authors](../../compare/?t=film-coin-heist_429238)
+
 ## DD+ 5.1
 
 **2017 • PG • 1h 37m • Family, Crime • mobe1969**

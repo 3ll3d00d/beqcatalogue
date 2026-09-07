@@ -1,5 +1,7 @@
 # Nimona
 
+[Compare across authors](../../compare/?t=film-nimona_961323)
+
 ## DD+ Atmos
 
 **2023 • PG • 1h 39m • Animation, Science Fiction, Action, Adventure, Fantasy • mobe1969**

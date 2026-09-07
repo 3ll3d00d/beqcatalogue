@@ -1,5 +1,7 @@
 # I Am Wrath
 
+[Compare across authors](../../compare/?t=film-i-am-wrath_332411)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 32m • Thriller, Crime, Action, Drama • mobe1969**

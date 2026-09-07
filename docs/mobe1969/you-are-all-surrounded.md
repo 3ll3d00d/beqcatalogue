@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-you-are-all-surrounded_61173)
+
 ## Season 1
 
 * DD+ 2.0

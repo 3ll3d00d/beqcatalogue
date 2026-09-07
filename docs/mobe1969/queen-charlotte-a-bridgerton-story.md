@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-queen-charlotte-a-bridgerton-story_196454)
+
 ## Season 1
 
 * DD+ Atmos

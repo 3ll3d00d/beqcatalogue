@@ -1,5 +1,7 @@
 # Manhunt
 
+[Compare across authors](../../compare/?t=film-manhunt_372782)
+
 ## Atmos, TrueHD 7.1, DD+ 5.1
 
 **2017 • 15 • 1h 46m • Mandarin • Action, Thriller, Crime • mobe1969**

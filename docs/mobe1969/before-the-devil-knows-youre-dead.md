@@ -1,5 +1,7 @@
 # Before the Devil Knows You're Dead
 
+[Compare across authors](../../compare/?t=film-before-the-devil-knows-youre-dead_7972)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 57m • Crime, Drama, Thriller • mobe1969**

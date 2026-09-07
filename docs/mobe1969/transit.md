@@ -1,5 +1,7 @@
 # Transit
 
+[Compare across authors](../../compare/?t=film-transit_82485)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 28m • Action, Thriller, Crime • mobe1969**

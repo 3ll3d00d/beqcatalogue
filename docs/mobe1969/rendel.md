@@ -1,5 +1,7 @@
 # Rendel
 
+[Compare across authors](../../compare/?t=film-rendel_397852)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 1h 45m • Finnish • Fantasy, Action, Crime • mobe1969**

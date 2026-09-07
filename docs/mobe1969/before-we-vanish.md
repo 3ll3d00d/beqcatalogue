@@ -1,5 +1,7 @@
 # Before We Vanish
 
+[Compare across authors](../../compare/?t=film-before-we-vanish_446164)
+
 ## DTS-HD MA 7.1
 
 **2017 • NR • 2h 9m • Japanese • Science Fiction, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # See for Me
 
+[Compare across authors](../../compare/?t=film-see-for-me_825808)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 32m • Thriller • mobe1969**

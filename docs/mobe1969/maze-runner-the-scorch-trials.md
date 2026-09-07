@@ -1,5 +1,7 @@
 # Maze Runner: The Scorch Trials
 
+[Compare across authors](../../compare/?t=film-maze-runner-the-scorch-trials_294254)
+
 ## DTS-HD MA 7.1
 
 **2015 • PG-13 • 2h 11m • Science Fiction, Action, Thriller, Adventure • mobe1969**

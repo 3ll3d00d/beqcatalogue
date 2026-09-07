@@ -1,5 +1,7 @@
 # Red Family
 
+[Compare across authors](../../compare/?t=film-red-family_241885)
+
 ## TrueHD 5.1
 
 **2013 • NR • 1h 39m • Korean • Drama • mobe1969**

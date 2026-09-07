@@ -1,5 +1,7 @@
 # Allegiant
 
+[Compare across authors](../../compare/?t=film-allegiant_262504)
+
 ## Atmos
 
 **2016 • PG-13 • 2h 0m • Adventure, Science Fiction, Action, Mystery • mobe1969**

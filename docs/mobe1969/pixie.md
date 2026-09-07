@@ -1,5 +1,7 @@
 # Pixie
 
+[Compare across authors](../../compare/?t=film-pixie_651610)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 34m • Comedy, Crime, Thriller • mobe1969**

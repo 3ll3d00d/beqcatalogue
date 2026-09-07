@@ -1,5 +1,7 @@
 # Operation: Endgame
 
+[Compare across authors](../../compare/?t=film-operation-endgame_41135)
+
 ## LPCM 5.1
 
 **2010 • R • 1h 22m • Action, Adventure, Comedy, Thriller • mobe1969**

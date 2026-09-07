@@ -1,5 +1,7 @@
 # Abduction
 
+[Compare across authors](../../compare/?t=film-abduction_59965)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 46m • Action, Mystery, Thriller • mobe1969**

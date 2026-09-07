@@ -1,5 +1,7 @@
 # Blackhat
 
+[Compare across authors](../../compare/?t=film-blackhat_201088)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2015 • R • 2h 13m • Crime, Thriller, Action • mobe1969**

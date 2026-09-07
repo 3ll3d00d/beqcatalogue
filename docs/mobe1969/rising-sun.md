@@ -1,5 +1,7 @@
 # Rising Sun
 
+[Compare across authors](../../compare/?t=film-rising-sun_7007)
+
 ## DTS-HD MA 5.1
 
 **1993 • R • 2h 5m • Thriller, Drama, Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Prison
 
+[Compare across authors](../../compare/?t=film-the-prison_438798)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 2h 5m • Korean • Crime, Action • mobe1969**

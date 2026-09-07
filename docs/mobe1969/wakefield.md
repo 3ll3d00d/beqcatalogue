@@ -1,5 +1,7 @@
 # Wakefield
 
+[Compare across authors](../../compare/?t=film-wakefield_369894)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 46m • Drama • mobe1969**

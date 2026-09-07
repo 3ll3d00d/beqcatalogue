@@ -1,5 +1,7 @@
 # Welcome Back
 
+[Compare across authors](../../compare/?t=film-welcome-back_357563)
+
 ## DTS-HD MA 7.1
 
 **2015 • 12A • 2h 33m • Hindi • Action, Comedy • mobe1969**

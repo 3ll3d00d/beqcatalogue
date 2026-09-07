@@ -1,5 +1,7 @@
 # The Amityville Horror
 
+[Compare across authors](../../compare/?t=film-the-amityville-horror_10065)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 30m • Horror • mobe1969**

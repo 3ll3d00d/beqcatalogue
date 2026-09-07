@@ -1,5 +1,7 @@
 # Venom
 
+[Compare across authors](../../compare/?t=film-venom_7182)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 25m • Thriller, Horror • mobe1969**

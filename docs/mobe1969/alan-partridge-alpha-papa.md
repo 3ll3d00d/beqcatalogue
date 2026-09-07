@@ -1,5 +1,7 @@
 # Alan Partridge: Alpha Papa
 
+[Compare across authors](../../compare/?t=film-alan-partridge-alpha-papa_177699)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 30m • Comedy • mobe1969**

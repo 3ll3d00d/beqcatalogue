@@ -1,5 +1,7 @@
 # Letters from Iwo Jima
 
+[Compare across authors](../../compare/?t=film-letters-from-iwo-jima_1251)
+
 ## TrueHD 5.1
 
 **2006 • R • 2h 21m • Action, War, Drama • mobe1969**

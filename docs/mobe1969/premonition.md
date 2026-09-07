@@ -1,5 +1,7 @@
 # Premonition
 
+[Compare across authors](../../compare/?t=film-premonition_9963)
+
 ## LPCM 5.1
 
 **2007 • PG-13 • 1h 36m • Thriller, Drama, Mystery • mobe1969**

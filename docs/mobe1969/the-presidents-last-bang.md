@@ -1,5 +1,7 @@
 # The President's Last Bang
 
+[Compare across authors](../../compare/?t=film-the-presidents-last-bang_41338)
+
 ## DTS-HD MA 5.1
 
 **2005 • NR • 1h 42m • Korean • Comedy, History • mobe1969**

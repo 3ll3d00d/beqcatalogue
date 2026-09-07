@@ -1,5 +1,7 @@
 # Av: The Hunt
 
+[Compare across authors](../../compare/?t=film-av-the-hunt_706085)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 26m • Turkish • Thriller • mobe1969**

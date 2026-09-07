@@ -1,5 +1,7 @@
 # The Line
 
+[Compare across authors](../../compare/?t=film-the-line_17334)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 46m • Romance, Comedy • mobe1969**

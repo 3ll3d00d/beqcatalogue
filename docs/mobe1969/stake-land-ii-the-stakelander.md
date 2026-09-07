@@ -1,5 +1,7 @@
 # Stake Land II: The Stakelander
 
+[Compare across authors](../../compare/?t=film-stake-land-ii-the-stakelander_410988)
+
 ## DTS-HD MA 5.1
 
 **2016 • 15 • 1h 25m • Action, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Trouble
 
+[Compare across authors](../../compare/?t=film-trouble_570480)
+
 ## DD+ 5.1
 
 **2019 • G • 1h 28m • Animation, Adventure, Family, Comedy, Music • mobe1969**

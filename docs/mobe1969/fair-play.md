@@ -1,5 +1,7 @@
 # Fair Play
 
+[Compare across authors](../../compare/?t=film-fair-play_910571)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 53m • Drama, Thriller • mobe1969**

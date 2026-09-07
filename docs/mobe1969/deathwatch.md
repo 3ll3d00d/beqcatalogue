@@ -1,5 +1,7 @@
 # Deathwatch
 
+[Compare across authors](../../compare/?t=film-deathwatch_12576)
+
 ## DD+ 5.1
 
 **2002 • 15 • 1h 34m • Drama, Horror, Thriller, War • mobe1969**

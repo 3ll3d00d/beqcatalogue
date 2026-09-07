@@ -1,5 +1,7 @@
 # The Ruins
 
+[Compare across authors](../../compare/?t=film-the-ruins_11152)
+
 ## TrueHD 5.1
 
 **2008 • R • 1h 31m • Horror • mobe1969**

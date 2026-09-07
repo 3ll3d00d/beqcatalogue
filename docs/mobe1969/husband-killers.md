@@ -1,5 +1,7 @@
 # Husband Killers
 
+[Compare across authors](../../compare/?t=film-husband-killers_459254)
+
 ## TrueHD 5.1
 
 **2017 • NR • 1h 36m • Cantonese • Action, Comedy • mobe1969**

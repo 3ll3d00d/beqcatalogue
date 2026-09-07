@@ -1,5 +1,7 @@
 # Overlord
 
+[Compare across authors](../../compare/?t=film-overlord_438799)
+
 ## Atmos, DD+ 5.1
 
 **2018 • R • 1h 50m • Horror, War, Science Fiction • mobe1969**

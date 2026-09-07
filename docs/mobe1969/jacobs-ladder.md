@@ -1,5 +1,7 @@
 # Jacob's Ladder
 
+[Compare across authors](../../compare/?t=film-jacobs-ladder_2291)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 1h 53m • Drama, Mystery, Horror • mobe1969**

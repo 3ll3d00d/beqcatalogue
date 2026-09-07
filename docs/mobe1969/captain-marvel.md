@@ -1,5 +1,7 @@
 # Captain Marvel
 
+[Compare across authors](../../compare/?t=film-captain-marvel_299537)
+
 ## Atmos
 
 **2019 • PG-13 • 2h 4m • Action, Adventure, Science Fiction • mobe1969**

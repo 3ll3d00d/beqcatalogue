@@ -1,5 +1,7 @@
 # Kaal
 
+[Compare across authors](../../compare/?t=film-kaal_20132)
+
 ## DD+ 5.1
 
 **2005 • NR • 2h 7m • Hindi • Action, Thriller • mobe1969**

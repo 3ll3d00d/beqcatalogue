@@ -1,5 +1,7 @@
 # Purple Hearts
 
+[Compare across authors](../../compare/?t=film-purple-hearts_762975)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 2h 2m • Romance, Drama • mobe1969**

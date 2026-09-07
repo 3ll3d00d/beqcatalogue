@@ -1,5 +1,7 @@
 # The Huntsman: Winter's War
 
+[Compare across authors](../../compare/?t=film-the-huntsman-winters-war_290595)
+
 ## DTS-X
 
 Extended Cut

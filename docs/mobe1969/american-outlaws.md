@@ -1,5 +1,7 @@
 # American Outlaws
 
+[Compare across authors](../../compare/?t=film-american-outlaws_13496)
+
 ## DD+ 5.1
 
 **2001 • PG-13 • 1h 34m • Western, Action • mobe1969**

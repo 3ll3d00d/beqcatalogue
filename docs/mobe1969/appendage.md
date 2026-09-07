@@ -1,5 +1,7 @@
 # Appendage
 
+[Compare across authors](../../compare/?t=film-appendage_1081662)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 34m • Horror • mobe1969**

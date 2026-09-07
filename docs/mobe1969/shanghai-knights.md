@@ -1,5 +1,7 @@
 # Shanghai Knights
 
+[Compare across authors](../../compare/?t=film-shanghai-knights_6038)
+
 ## DD 5.1
 
 **2003 • PG-13 • 1h 55m • Action, Adventure, Comedy, Western • mobe1969**

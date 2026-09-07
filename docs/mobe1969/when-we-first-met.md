@@ -1,5 +1,7 @@
 # When We First Met
 
+[Compare across authors](../../compare/?t=film-when-we-first-met_433310)
+
 ## DD+ 5.1
 
 **2018 • PG-13 • 1h 37m • Comedy, Romance, Fantasy • mobe1969**

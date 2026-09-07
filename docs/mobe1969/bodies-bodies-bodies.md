@@ -1,5 +1,7 @@
 # Bodies Bodies Bodies
 
+[Compare across authors](../../compare/?t=film-bodies-bodies-bodies_520023)
+
 ## Atmos
 
 **2022 • R • 1h 34m • Mystery, Comedy, Horror • mobe1969**

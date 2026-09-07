@@ -1,5 +1,7 @@
 # The Quick and the Dead
 
+[Compare across authors](../../compare/?t=film-the-quick-and-the-dead_12106)
+
 ## Atmos
 
 **1995 • R • 1h 47m • Western • mobe1969**

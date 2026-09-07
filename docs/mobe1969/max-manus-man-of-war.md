@@ -1,5 +1,7 @@
 # Max Manus: Man of War
 
+[Compare across authors](../../compare/?t=film-max-manus-man-of-war_13752)
+
 ## TrueHD 5.1
 
 **2008 • 15 • 1h 58m • Norwegian • Drama, History, War • mobe1969**

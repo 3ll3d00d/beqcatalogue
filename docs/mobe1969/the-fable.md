@@ -1,5 +1,7 @@
 # The Fable
 
+[Compare across authors](../../compare/?t=film-the-fable_532267)
+
 ## DD+ 5.1
 
 **2019 • 15 • 2h 3m • Japanese • Action, Comedy, Crime • mobe1969**

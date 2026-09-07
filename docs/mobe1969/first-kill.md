@@ -1,5 +1,7 @@
 # First Kill
 
+[Compare across authors](../../compare/?t=film-first-kill_410554)
+
 ## DTS-HD MA 5.1
 
 **2017 • 15 • 1h 37m • Thriller, Action, Crime • mobe1969**

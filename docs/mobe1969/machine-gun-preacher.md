@@ -1,5 +1,7 @@
 # Machine Gun Preacher
 
+[Compare across authors](../../compare/?t=film-machine-gun-preacher_45610)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 2h 9m • Action, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # K.G.F: Chapter 1
 
+[Compare across authors](../../compare/?t=film-kgf-chapter-1_564147)
+
 ## DD+ 5.1
 
 **2018 • PG-13 • 2h 36m • Hindi • Action, Crime, Drama • mobe1969**

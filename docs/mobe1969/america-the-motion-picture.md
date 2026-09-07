@@ -1,5 +1,7 @@
 # America: The Motion Picture
 
+[Compare across authors](../../compare/?t=film-america-the-motion-picture_739542)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 38m • Animation, Action, Comedy • mobe1969**

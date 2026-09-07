@@ -1,5 +1,7 @@
 # Son of Batman
 
+[Compare across authors](../../compare/?t=film-son-of-batman_251519)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 14m • Animation, Action, Adventure • mobe1969**

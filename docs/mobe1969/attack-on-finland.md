@@ -1,5 +1,7 @@
 # Attack on Finland
 
+[Compare across authors](../../compare/?t=film-attack-on-finland_655302)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 59m • Finnish • Action, Thriller • mobe1969**

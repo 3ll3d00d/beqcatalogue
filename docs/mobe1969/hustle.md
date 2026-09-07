@@ -1,5 +1,7 @@
 # Hustle
 
+[Compare across authors](../../compare/?t=film-hustle_705861)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 57m • Drama, Comedy • mobe1969**

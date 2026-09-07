@@ -1,5 +1,7 @@
 # Epic
 
+[Compare across authors](../../compare/?t=film-epic_116711)
+
 ## DTS-HD MA 7.1
 
 **2013 • PG • 1h 42m • Animation, Adventure, Family, Fantasy • mobe1969**

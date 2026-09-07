@@ -1,5 +1,7 @@
 # One Piece Film: GOLD
 
+[Compare across authors](../../compare/?t=film-one-piece-film-gold_374205)
+
 ## DD+ 5.1
 
 **2016 • PG-13 • 2h 0m • Japanese • Action, Animation, Adventure, Comedy • mobe1969**

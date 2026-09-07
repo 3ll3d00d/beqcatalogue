@@ -1,5 +1,7 @@
 # Attack on Titan Part 2
 
+[Compare across authors](../../compare/?t=film-attack-on-titan-part-2_340382)
+
 ## DTS-HD MA 5.1
 
 **2015 • 15 • 1h 27m • Japanese • Horror, Science Fiction, Action, Fantasy • mobe1969**

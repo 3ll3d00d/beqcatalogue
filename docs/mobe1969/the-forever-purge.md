@@ -1,5 +1,7 @@
 # The Forever Purge
 
+[Compare across authors](../../compare/?t=film-the-forever-purge_602223)
+
 ## Atmos
 
 **2021 • R • 1h 43m • Horror, Action, Thriller • mobe1969**

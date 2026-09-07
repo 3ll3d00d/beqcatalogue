@@ -1,5 +1,7 @@
 # Hocus Pocus
 
+[Compare across authors](../../compare/?t=film-hocus-pocus_10439)
+
 ## DTS-HD MA 5.1
 
 **1993 • PG • 1h 36m • Fantasy, Comedy, Family • mobe1969**

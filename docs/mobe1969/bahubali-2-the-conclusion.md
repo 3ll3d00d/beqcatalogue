@@ -1,5 +1,7 @@
 # Bāhubali 2: The Conclusion
 
+[Compare across authors](../../compare/?t=film-bahubali-2-the-conclusion_350312)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 48m • Hindi • Action, Adventure, Fantasy • mobe1969**

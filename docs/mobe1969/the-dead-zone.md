@@ -1,5 +1,7 @@
 # The Dead Zone
 
+[Compare across authors](../../compare/?t=film-the-dead-zone_11336)
+
 ## TrueHD 5.1
 
 **1983 • R • 1h 43m • Thriller, Horror, Science Fiction • mobe1969**

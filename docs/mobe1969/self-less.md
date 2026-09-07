@@ -1,5 +1,7 @@
 # Self-Less
 
+[Compare across authors](../../compare/?t=film-self-less_238615)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 56m • Science Fiction, Mystery, Thriller • mobe1969**

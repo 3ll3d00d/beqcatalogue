@@ -1,5 +1,7 @@
 # 7 Prisoners
 
+[Compare across authors](../../compare/?t=film-7-prisoners_785538)
+
 ## DD+ Atmos
 
 **2021 • NR • 1h 33m • Portuguese • Drama, Crime • mobe1969**

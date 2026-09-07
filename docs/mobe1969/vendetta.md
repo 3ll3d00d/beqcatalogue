@@ -1,5 +1,7 @@
 # Vendetta
 
+[Compare across authors](../../compare/?t=film-vendetta_225747)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 42m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Queen & Slim
 
+[Compare across authors](../../compare/?t=film-queen-slim_536743)
+
 ## Atmos
 
 **2019 • R • 2h 11m • Drama, Romance, Crime • mobe1969**

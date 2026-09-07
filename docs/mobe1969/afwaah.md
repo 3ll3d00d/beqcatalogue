@@ -1,5 +1,7 @@
 # Afwaah
 
+[Compare across authors](../../compare/?t=film-afwaah_939423)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 6m • Hindi • Drama • mobe1969**

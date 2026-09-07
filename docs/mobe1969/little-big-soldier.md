@@ -1,5 +1,7 @@
 # Little Big Soldier
 
+[Compare across authors](../../compare/?t=film-little-big-soldier_35138)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 36m • Mandarin • Action, Comedy, Adventure • mobe1969**

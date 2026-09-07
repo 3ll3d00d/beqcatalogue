@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-loki_84958)
+
 ## Season 1
 
 * DTS-HD MA 5.1

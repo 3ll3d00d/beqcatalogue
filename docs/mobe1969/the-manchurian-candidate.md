@@ -1,5 +1,7 @@
 # The Manchurian Candidate
 
+[Compare across authors](../../compare/?t=film-the-manchurian-candidate_982)
+
 ## DTS 5.1, DD 5.1
 
 **2004 • PG-13 • 2h 6m • Thriller, Drama, Mystery • mobe1969**

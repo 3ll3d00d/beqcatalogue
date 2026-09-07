@@ -1,5 +1,7 @@
 # Joe Somebody
 
+[Compare across authors](../../compare/?t=film-joe-somebody_12312)
+
 ## DD+ 5.1
 
 **2001 • PG • 1h 39m • Comedy, Romance, Family, Drama • mobe1969**

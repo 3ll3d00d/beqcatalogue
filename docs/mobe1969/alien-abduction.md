@@ -1,5 +1,7 @@
 # Alien Abduction
 
+[Compare across authors](../../compare/?t=film-alien-abduction_258193)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 25m • Science Fiction, Horror, Thriller • mobe1969**

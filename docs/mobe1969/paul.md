@@ -1,5 +1,7 @@
 # Paul
 
+[Compare across authors](../../compare/?t=film-paul_39513)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

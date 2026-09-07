@@ -1,5 +1,7 @@
 # Pokémon: Arceus and the Jewel of Life
 
+[Compare across authors](../../compare/?t=film-pokemon-arceus-and-the-jewel-of-life_39057)
+
 ## DTS-HD MA 5.1
 
 **2009 • G • 1h 34m • Family, Animation, Adventure, Fantasy • mobe1969**

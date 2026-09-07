@@ -1,5 +1,7 @@
 # A Better Tomorrow II
 
+[Compare across authors](../../compare/?t=film-a-better-tomorrow-ii_18305)
+
 ## DTS-HD MA 7.1
 
 **1987 • NR • 1h 45m • Cantonese • Action, Crime, Thriller • mobe1969**

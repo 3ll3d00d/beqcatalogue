@@ -1,5 +1,7 @@
 # Settlers
 
+[Compare across authors](../../compare/?t=film-settlers_791568)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 44m • Science Fiction, Thriller • mobe1969**

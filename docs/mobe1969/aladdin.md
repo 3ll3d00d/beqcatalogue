@@ -1,5 +1,7 @@
 # Aladdin
 
+[Compare across authors](../../compare/?t=film-aladdin_812)
+
 ## Atmos
 
 **1992 • G • 1h 30m • Animation, Family, Adventure, Fantasy, Romance • mobe1969**

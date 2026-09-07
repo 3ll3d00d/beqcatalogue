@@ -1,5 +1,7 @@
 # The Shepherd: Border Patrol
 
+[Compare across authors](../../compare/?t=film-the-shepherd-border-patrol_24411)
+
 ## DD 5.1
 
 **2008 • NR • 1h 35m • Action, Crime, Thriller • mobe1969**

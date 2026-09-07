@@ -1,5 +1,7 @@
 # The Most Dangerous Game
 
+[Compare across authors](../../compare/?t=film-the-most-dangerous-game_994702)
+
 ## DD+ 2.0
 
 **2022 • NR • 1h 35m • Thriller • mobe1969**

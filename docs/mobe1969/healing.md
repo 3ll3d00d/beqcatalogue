@@ -1,5 +1,7 @@
 # Healing
 
+[Compare across authors](../../compare/?t=film-healing_254143)
+
 ## DD+ 5.1
 
 **2014 • NR • 1h 52m • Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Gone Girl
 
+[Compare across authors](../../compare/?t=film-gone-girl_210577)
+
 ## DTS-HD MA 7.1, DD+ 5.1
 
 **2014 • R • 2h 29m • Mystery, Thriller, Drama • mobe1969**

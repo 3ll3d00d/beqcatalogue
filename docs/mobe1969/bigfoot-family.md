@@ -1,5 +1,7 @@
 # Bigfoot Family
 
+[Compare across authors](../../compare/?t=film-bigfoot-family_702525)
+
 ## DD+ 5.1
 
 **2020 • G • 1h 37m • Animation, Adventure, Family • mobe1969**

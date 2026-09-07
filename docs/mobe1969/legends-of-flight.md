@@ -1,5 +1,7 @@
 # Legends of Flight
 
+[Compare across authors](../../compare/?t=film-legends-of-flight_58731)
+
 ## DTS-HD MA 5.1
 
 **2010 • U • 0h 44m • Documentary • mobe1969**

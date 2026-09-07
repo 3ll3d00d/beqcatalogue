@@ -1,5 +1,7 @@
 # Runner Runner
 
+[Compare across authors](../../compare/?t=film-runner-runner_146238)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 31m • Crime, Thriller, Drama • mobe1969**

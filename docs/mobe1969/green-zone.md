@@ -1,5 +1,7 @@
 # Green Zone
 
+[Compare across authors](../../compare/?t=film-green-zone_22972)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2010 • R • 1h 55m • War, Action, Adventure, Drama, Thriller • mobe1969**

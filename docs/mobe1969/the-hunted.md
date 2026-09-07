@@ -1,5 +1,7 @@
 # The Hunted
 
+[Compare across authors](../../compare/?t=film-the-hunted_10632)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 34m • Drama, Action, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Overheard
 
+[Compare across authors](../../compare/?t=film-overheard_24889)
+
 ## DTS-HD MA 7.1
 
 **2009 • NR • 1h 40m • Cantonese • Drama, Thriller • mobe1969**

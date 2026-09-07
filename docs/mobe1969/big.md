@@ -1,5 +1,7 @@
 # Big
 
+[Compare across authors](../../compare/?t=film-big_2280)
+
 ## DTS-HD MA 5.1
 
 **1988 • PG • 1h 44m • Fantasy, Drama, Comedy, Romance, Family • mobe1969**

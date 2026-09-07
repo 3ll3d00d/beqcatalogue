@@ -1,5 +1,7 @@
 # After Earth
 
+[Compare across authors](../../compare/?t=film-after-earth_82700)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 40m • Science Fiction, Action, Adventure • mobe1969**

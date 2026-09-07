@@ -1,5 +1,7 @@
 # Thank God
 
+[Compare across authors](../../compare/?t=film-thank-god_783723)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 1m • Hindi • Comedy • mobe1969**

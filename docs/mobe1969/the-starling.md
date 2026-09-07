@@ -1,5 +1,7 @@
 # The Starling
 
+[Compare across authors](../../compare/?t=film-the-starling_468225)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • PG-13 • 1h 43m • Drama • mobe1969**

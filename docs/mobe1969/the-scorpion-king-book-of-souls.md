@@ -1,5 +1,7 @@
 # The Scorpion King: Book of Souls
 
+[Compare across authors](../../compare/?t=film-the-scorpion-king-book-of-souls_522417)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 42m • Action, Adventure, Fantasy • mobe1969**

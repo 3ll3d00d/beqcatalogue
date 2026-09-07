@@ -1,5 +1,7 @@
 # Ready Player One
 
+[Compare across authors](../../compare/?t=film-ready-player-one_333339)
+
 ## Atmos
 
 **2018 • PG-13 • 2h 20m • Science Fiction, Adventure, Action • mobe1969**

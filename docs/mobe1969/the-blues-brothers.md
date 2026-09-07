@@ -1,5 +1,7 @@
 # The Blues Brothers
 
+[Compare across authors](../../compare/?t=film-the-blues-brothers_525)
+
 ## DTS-X
 
 **1980 • R • 2h 13m • Music, Comedy, Action, Crime • mobe1969**

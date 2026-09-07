@@ -1,5 +1,7 @@
 # Dante's Peak
 
+[Compare across authors](../../compare/?t=film-dantes-peak_9619)
+
 ## DTS-HD MA 5.1
 
 **1997 • PG-13 • 1h 48m • Action, Adventure, Drama, Thriller • mobe1969**

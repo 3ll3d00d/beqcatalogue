@@ -1,5 +1,7 @@
 # Tornado Alley
 
+[Compare across authors](../../compare/?t=film-tornado-alley_53436)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 0h 40m • Documentary • mobe1969**

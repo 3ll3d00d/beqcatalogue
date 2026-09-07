@@ -1,5 +1,7 @@
 # Ghost Walk
 
+[Compare across authors](../../compare/?t=film-ghost-walk_541682)
+
 ## DD+ 2.0
 
 **2019 • NR • 1h 30m • Korean • Drama, Fantasy, Mystery • mobe1969**

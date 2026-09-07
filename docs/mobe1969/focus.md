@@ -1,5 +1,7 @@
 # Focus
 
+[Compare across authors](../../compare/?t=film-focus_256591)
+
 ## DTS-HD MA 7.1
 
 **2015 • R • 1h 45m • Romance, Comedy, Crime, Drama • mobe1969**

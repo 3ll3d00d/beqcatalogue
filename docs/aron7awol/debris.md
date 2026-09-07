@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-debris_106159)
+
 ## Season 1 Episodes 1-11
 
 * DD+

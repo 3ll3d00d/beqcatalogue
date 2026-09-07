@@ -1,5 +1,7 @@
 # The Gentlemen
 
+[Compare across authors](../../compare/?t=film-the-gentlemen_522627)
+
 ## Atmos, DD+ 5.1
 
 **2020 • R • 1h 53m • Comedy, Crime, Action • mobe1969**

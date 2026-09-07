@@ -1,5 +1,7 @@
 # Catch and Release
 
+[Compare across authors](../../compare/?t=film-catch-and-release_13668)
+
 ## DD+ 5.1
 
 **2006 • PG-13 • 1h 51m • Comedy, Drama, Romance • mobe1969**

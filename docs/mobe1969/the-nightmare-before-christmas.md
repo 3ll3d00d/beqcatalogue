@@ -1,5 +1,7 @@
 # The Nightmare Before Christmas
 
+[Compare across authors](../../compare/?t=film-the-nightmare-before-christmas_9479)
+
 ## TrueHD 7.1
 
 **1993 • PG • 1h 16m • Fantasy, Animation, Family • mobe1969**

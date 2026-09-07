@@ -1,5 +1,7 @@
 # Exte: Hair Extensions
 
+[Compare across authors](../../compare/?t=film-exte-hair-extensions_21784)
+
 ## DD 5.1
 
 **2007 • NR • 1h 48m • Japanese • Horror, Mystery, Thriller • mobe1969**

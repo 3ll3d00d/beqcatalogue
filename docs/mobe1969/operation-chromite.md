@@ -1,5 +1,7 @@
 # Operation Chromite
 
+[Compare across authors](../../compare/?t=film-operation-chromite_407887)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 51m • Korean • History, Drama, War, Action • mobe1969**

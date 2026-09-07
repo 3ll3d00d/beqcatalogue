@@ -1,5 +1,7 @@
 # One More Time
 
+[Compare across authors](../../compare/?t=film-one-more-time_1100962)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 25m • Swedish • Comedy • mobe1969**

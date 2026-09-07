@@ -1,5 +1,7 @@
 # American Siege
 
+[Compare across authors](../../compare/?t=film-american-siege_766907)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 30m • Action, Thriller, Crime, Drama • mobe1969**

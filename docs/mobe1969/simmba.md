@@ -1,5 +1,7 @@
 # Simmba
 
+[Compare across authors](../../compare/?t=film-simmba_496524)
+
 ## DTS-HD MA 5.1
 
 **2018 • 15 • 2h 39m • Hindi • Action, Comedy, Crime, Drama • mobe1969**

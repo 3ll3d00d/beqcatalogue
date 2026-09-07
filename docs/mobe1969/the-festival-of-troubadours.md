@@ -1,5 +1,7 @@
 # The Festival of Troubadours
 
+[Compare across authors](../../compare/?t=film-the-festival-of-troubadours_879080)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 42m • Turkish • Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Chernobyl Diaries
 
+[Compare across authors](../../compare/?t=film-chernobyl-diaries_93856)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 28m • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Handmaiden
 
+[Compare across authors](../../compare/?t=film-the-handmaiden_290098)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 2h 25m • Korean • Thriller, Drama, Romance • mobe1969**

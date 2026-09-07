@@ -1,5 +1,7 @@
 # Rings
 
+[Compare across authors](../../compare/?t=film-rings_14564)
+
 ## DTS-HD MA 7.1
 
 **2017 • PG-13 • 1h 42m • Horror • mobe1969**

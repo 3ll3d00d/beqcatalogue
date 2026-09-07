@@ -1,5 +1,7 @@
 # 16 Blocks
 
+[Compare across authors](../../compare/?t=film-16-blocks_2207)
+
 ## DD 5.1
 
 **2006 • PG-13 • 1h 45m • Adventure, Crime, Thriller, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Inkheart
 
+[Compare across authors](../../compare/?t=film-inkheart_2309)
+
 ## TrueHD 5.1
 
 **2008 • PG • 1h 46m • Adventure, Family, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # The Girl with the Dragon Tattoo
 
+[Compare across authors](../../compare/?t=film-the-girl-with-the-dragon-tattoo_65754)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 2h 38m • Crime, Thriller, Drama, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Lavender
 
+[Compare across authors](../../compare/?t=film-lavender_340584)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 32m • Drama, Thriller • mobe1969**

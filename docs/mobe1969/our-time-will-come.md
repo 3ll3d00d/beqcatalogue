@@ -1,5 +1,7 @@
 # Our Time Will Come
 
+[Compare across authors](../../compare/?t=film-our-time-will-come_452400)
+
 ## TrueHD 7.1
 
 **2017 • NR • 2h 10m • Cantonese • Drama, History • mobe1969**

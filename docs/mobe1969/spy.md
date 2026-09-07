@@ -1,5 +1,7 @@
 # Spy
 
+[Compare across authors](../../compare/?t=film-spy_238713)
+
 ## DTS-HD MA 7.1
 
 Extended Cut

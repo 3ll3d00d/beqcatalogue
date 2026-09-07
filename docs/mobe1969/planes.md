@@ -1,5 +1,7 @@
 # Planes
 
+[Compare across authors](../../compare/?t=film-planes_151960)
+
 ## DTS-HD MA 7.1
 
 **2013 • PG • 1h 31m • Animation, Family, Adventure, Comedy • mobe1969**

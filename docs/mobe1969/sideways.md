@@ -1,5 +1,7 @@
 # Sideways
 
+[Compare across authors](../../compare/?t=film-sideways_9675)
+
 ## DTS-HD MA 5.1
 
 **2004 • R • 2h 7m • Comedy, Drama, Romance • mobe1969**

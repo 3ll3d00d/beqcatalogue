@@ -1,5 +1,7 @@
 # Zig Zag
 
+[Compare across authors](../../compare/?t=film-zig-zag_13442)
+
 ## DD+ 5.1
 
 **2002 • R • 1h 41m • Drama • mobe1969**

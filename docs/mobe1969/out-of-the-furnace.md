@@ -1,5 +1,7 @@
 # Out of the Furnace
 
+[Compare across authors](../../compare/?t=film-out-of-the-furnace_164457)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 56m • Thriller, Crime, Drama • mobe1969**

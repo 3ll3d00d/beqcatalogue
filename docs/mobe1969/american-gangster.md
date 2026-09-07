@@ -1,5 +1,7 @@
 # American Gangster
 
+[Compare across authors](../../compare/?t=film-american-gangster_4982)
+
 ## DTS-X
 
 Director's Cut

@@ -1,5 +1,7 @@
 # The Outfit
 
+[Compare across authors](../../compare/?t=film-the-outfit_799876)
+
 ## Atmos, DD+ 5.1
 
 **2022 • R • 1h 45m • Crime, Drama, Thriller • mobe1969**

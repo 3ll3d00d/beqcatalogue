@@ -1,5 +1,7 @@
 # Invasion
 
+[Compare across authors](../../compare/?t=film-invasion_36965)
+
 ## TrueHD 5.1
 
 **2005 • G • 1h 21m • Horror • mobe1969**

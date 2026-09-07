@@ -1,5 +1,7 @@
 # Scary Stories to Tell in the Dark
 
+[Compare across authors](../../compare/?t=film-scary-stories-to-tell-in-the-dark_417384)
+
 ## DD+ 5.1
 
 **2019 • PG-13 • 1h 48m • Horror, Thriller • mobe1969**

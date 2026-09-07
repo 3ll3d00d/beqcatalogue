@@ -1,5 +1,7 @@
 # Qodrat
 
+[Compare across authors](../../compare/?t=film-qodrat_1026836)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 42m • Indonesian • Horror, Action, Drama • mobe1969**

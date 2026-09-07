@@ -1,5 +1,7 @@
 # The Good Liar
 
+[Compare across authors](../../compare/?t=film-the-good-liar_511322)
+
 ## DD 5.1
 
 **2019 • R • 1h 49m • Crime • mobe1969**

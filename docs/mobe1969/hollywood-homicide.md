@@ -1,5 +1,7 @@
 # Hollywood Homicide
 
+[Compare across authors](../../compare/?t=film-hollywood-homicide_11375)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG-13 • 1h 56m • Action, Adventure, Comedy, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # American Heist
 
+[Compare across authors](../../compare/?t=film-american-heist_250066)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 34m • Action • mobe1969**

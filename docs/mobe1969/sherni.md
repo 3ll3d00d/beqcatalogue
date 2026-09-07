@@ -1,5 +1,7 @@
 # Sherni
 
+[Compare across authors](../../compare/?t=film-sherni_830891)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 10m • Hindi • Drama • mobe1969**

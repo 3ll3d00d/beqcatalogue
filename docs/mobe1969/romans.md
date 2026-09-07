@@ -1,5 +1,7 @@
 # Romans
 
+[Compare across authors](../../compare/?t=film-romans_451764)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 31m • Drama • mobe1969**

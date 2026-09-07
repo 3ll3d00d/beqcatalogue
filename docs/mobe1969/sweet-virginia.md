@@ -1,5 +1,7 @@
 # Sweet Virginia
 
+[Compare across authors](../../compare/?t=film-sweet-virginia_413992)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 34m • Drama, Thriller • mobe1969**

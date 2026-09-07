@@ -1,5 +1,7 @@
 # 12 Mighty Orphans
 
+[Compare across authors](../../compare/?t=film-12-mighty-orphans_625169)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 1h 58m • History, Drama, Action • mobe1969**

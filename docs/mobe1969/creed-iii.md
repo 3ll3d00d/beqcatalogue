@@ -1,5 +1,7 @@
 # Creed III
 
+[Compare across authors](../../compare/?t=film-creed-iii_677179)
+
 ## Atmos
 
 **2023 • PG-13 • 1h 56m • Drama, Action • mobe1969**

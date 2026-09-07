@@ -1,5 +1,7 @@
 # The Kid
 
+[Compare across authors](../../compare/?t=film-the-kid_492565)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 40m • Western, Drama • mobe1969**

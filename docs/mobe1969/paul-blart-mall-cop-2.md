@@ -1,5 +1,7 @@
 # Paul Blart: Mall Cop 2
 
+[Compare across authors](../../compare/?t=film-paul-blart-mall-cop-2_256961)
+
 ## DD+ 5.1
 
 **2015 • PG • 1h 34m • Action, Comedy, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Aporia
 
+[Compare across authors](../../compare/?t=film-aporia_528502)
+
 ## DTS-HD MA 5.1
 
 **2023 • R • 1h 44m • Drama, Science Fiction • mobe1969**

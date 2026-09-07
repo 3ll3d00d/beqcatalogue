@@ -1,5 +1,7 @@
 # Cargo
 
+[Compare across authors](../../compare/?t=film-cargo_34069)
+
 ## DTS-HD MA 5.1
 
 **2009 • 12 • 2h 0m • German • Mystery, Science Fiction, Thriller • mobe1969**

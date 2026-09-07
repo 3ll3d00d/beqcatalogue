@@ -1,5 +1,7 @@
 # Yurusarezaru Mono
 
+[Compare across authors](../../compare/?t=film-yurusarezaru-mono_141819)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 2h 15m • Japanese • Action, Crime, Drama • mobe1969**

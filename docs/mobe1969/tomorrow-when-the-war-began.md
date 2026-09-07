@@ -1,5 +1,7 @@
 # Tomorrow, When The War Began
 
+[Compare across authors](../../compare/?t=film-tomorrow-when-the-war-began_43930)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 43m • Action, Adventure, Drama • mobe1969**

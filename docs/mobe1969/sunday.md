@@ -1,5 +1,7 @@
 # Sunday
 
+[Compare across authors](../../compare/?t=film-sunday_20917)
+
 ## DD 5.1
 
 **2008 • PG • 2h 10m • Hindi • Comedy, Thriller • mobe1969**

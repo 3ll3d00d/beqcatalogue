@@ -1,5 +1,7 @@
 # The Five-Year Engagement
 
+[Compare across authors](../../compare/?t=film-the-five-year-engagement_72207)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

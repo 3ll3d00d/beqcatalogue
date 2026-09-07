@@ -1,5 +1,7 @@
 # Khuda Haafiz Chapter 2: Agni Pariksha
 
+[Compare across authors](../../compare/?t=film-khuda-haafiz-chapter-2-agni-pariksha_965653)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 26m • Hindi • Drama, Action • mobe1969**

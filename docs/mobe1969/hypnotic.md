@@ -1,5 +1,7 @@
 # Hypnotic
 
+[Compare across authors](../../compare/?t=film-hypnotic_864873)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 28m • Thriller, Drama, Horror • mobe1969**

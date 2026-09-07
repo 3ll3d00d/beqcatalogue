@@ -1,5 +1,7 @@
 # Seoul Station
 
+[Compare across authors](../../compare/?t=film-seoul-station_389868)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 32m • Korean • Drama, Animation, Horror • mobe1969**

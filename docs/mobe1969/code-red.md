@@ -1,5 +1,7 @@
 # Code Red
 
+[Compare across authors](../../compare/?t=film-code-red_252455)
+
 ## DD+ 5.1
 
 **2013 • NR • 1h 31m • Horror • mobe1969**

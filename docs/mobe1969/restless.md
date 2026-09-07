@@ -1,5 +1,7 @@
 # Restless
 
+[Compare across authors](../../compare/?t=film-restless_928381)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 35m • French • Action, Thriller • mobe1969**

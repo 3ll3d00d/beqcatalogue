@@ -1,5 +1,7 @@
 # Bad Land Road to Fury
 
+[Compare across authors](../../compare/?t=film-bad-land-road-to-fury_215379)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 40m • Drama, Science Fiction, Western, Action • mobe1969**

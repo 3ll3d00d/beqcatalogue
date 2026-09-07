@@ -1,5 +1,7 @@
 # Go Fast
 
+[Compare across authors](../../compare/?t=film-go-fast_15942)
+
 ## DTS-HD MA 5.1
 
 **2008 • 16 • 1h 30m • French • Drama, Action, Crime • mobe1969**

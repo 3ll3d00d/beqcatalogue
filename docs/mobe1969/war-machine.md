@@ -1,5 +1,7 @@
 # War Machine
 
+[Compare across authors](../../compare/?t=film-war-machine_354287)
+
 ## DD+ 5.1
 
 **2017 • R • 2h 2m • Comedy, Drama, War • mobe1969**

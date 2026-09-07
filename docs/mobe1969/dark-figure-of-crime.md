@@ -1,5 +1,7 @@
 # Dark Figure of Crime
 
+[Compare across authors](../../compare/?t=film-dark-figure-of-crime_544627)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 1h 51m • Korean • Crime, Drama • mobe1969**

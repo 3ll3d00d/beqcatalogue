@@ -1,5 +1,7 @@
 # Killshot
 
+[Compare across authors](../../compare/?t=film-killshot_16164)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 35m • Crime, Drama, Thriller • mobe1969**

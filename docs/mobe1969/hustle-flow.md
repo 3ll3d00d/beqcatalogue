@@ -1,5 +1,7 @@
 # Hustle & Flow
 
+[Compare across authors](../../compare/?t=film-hustle-flow_10476)
+
 ## TrueHD 5.1
 
 **2005 • R • 1h 56m • Crime, Drama, Music • mobe1969**

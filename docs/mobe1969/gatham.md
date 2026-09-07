@@ -1,5 +1,7 @@
 # Gatham
 
+[Compare across authors](../../compare/?t=film-gatham_760981)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 0m • Telugu • mobe1969**

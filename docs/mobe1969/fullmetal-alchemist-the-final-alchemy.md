@@ -1,5 +1,7 @@
 # Fullmetal Alchemist: The Final Alchemy
 
+[Compare across authors](../../compare/?t=film-fullmetal-alchemist-the-final-alchemy_960704)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 2h 23m • Japanese • Fantasy, Adventure, Action • mobe1969**

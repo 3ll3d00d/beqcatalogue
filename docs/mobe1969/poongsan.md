@@ -1,5 +1,7 @@
 # Poongsan
 
+[Compare across authors](../../compare/?t=film-poongsan_75004)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 2h 1m • Korean • Action, Drama, Romance • mobe1969**

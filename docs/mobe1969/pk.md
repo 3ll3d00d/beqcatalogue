@@ -1,5 +1,7 @@
 # PK
 
+[Compare across authors](../../compare/?t=film-pk_297222)
+
 ## DD+ 5.1
 
 **2014 • PG-13 • 2h 33m • Hindi • Comedy, Drama, Adventure, Science Fiction • mobe1969**

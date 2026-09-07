@@ -1,5 +1,7 @@
 # Over the Moon
 
+[Compare across authors](../../compare/?t=film-over-the-moon_560050)
+
 ## DD+ 5.1
 
 **2020 • PG • 1h 40m • Mandarin • Animation, Adventure, Family, Fantasy • mobe1969**

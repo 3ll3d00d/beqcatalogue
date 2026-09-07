@@ -1,5 +1,7 @@
 # Taken
 
+[Compare across authors](../../compare/?t=film-taken_8681)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

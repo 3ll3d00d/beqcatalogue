@@ -1,5 +1,7 @@
 # The Sea Beast
 
+[Compare across authors](../../compare/?t=film-the-sea-beast_560057)
+
 ## DD+ Atmos
 
 **2022 • PG • 1h 55m • Animation, Adventure, Family, Fantasy • mobe1969**

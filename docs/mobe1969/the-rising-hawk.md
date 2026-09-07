@@ -1,5 +1,7 @@
 # The Rising Hawk
 
+[Compare across authors](../../compare/?t=film-the-rising-hawk_468816)
+
 ## DD+ 5.1
 
 **2019 • 15 • 1h 50m • Action, History, Drama • mobe1969**

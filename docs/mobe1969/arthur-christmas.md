@@ -1,5 +1,7 @@
 # Arthur Christmas
 
+[Compare across authors](../../compare/?t=film-arthur-christmas_51052)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG • 1h 37m • Drama, Animation, Family, Comedy • mobe1969**

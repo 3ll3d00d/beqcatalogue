@@ -1,5 +1,7 @@
 # Emergency
 
+[Compare across authors](../../compare/?t=film-emergency_819309)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 45m • Comedy, Drama, Thriller • mobe1969**

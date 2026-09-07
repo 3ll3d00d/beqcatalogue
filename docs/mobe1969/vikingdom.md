@@ -1,5 +1,7 @@
 # Vikingdom
 
+[Compare across authors](../../compare/?t=film-vikingdom_100542)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 54m • Adventure • mobe1969**

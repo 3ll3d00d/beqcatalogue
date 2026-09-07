@@ -1,5 +1,7 @@
 # To Leslie
 
+[Compare across authors](../../compare/?t=film-to-leslie_823147)
+
 ## DTS-HD-MA 5.1
 
 **2022 • R • 1h 59m • Drama • mobe1969**

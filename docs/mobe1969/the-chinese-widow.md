@@ -1,5 +1,7 @@
 # The Chinese Widow
 
+[Compare across authors](../../compare/?t=film-the-chinese-widow_528210)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 37m • Mandarin • Drama, Romance, History, War • mobe1969**

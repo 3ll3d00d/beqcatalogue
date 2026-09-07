@@ -1,5 +1,7 @@
 # Street Fighter
 
+[Compare across authors](../../compare/?t=film-street-fighter_11667)
+
 ## TrueHD 5.1
 
 **1994 • PG-13 • 1h 42m • Action, Adventure, Comedy, Thriller • mobe1969**

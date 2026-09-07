@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-tiger-king-murder-mayhem-and-madness_100698)
+
 ## Season 1
 
 * DD+ Atmos

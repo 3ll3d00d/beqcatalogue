@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-sell-your-haunted-house_121695)
+
 ## Season 1
 
 * DD+ 2.0

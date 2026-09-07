@@ -1,5 +1,7 @@
 # Wake Up, Ron Burgundy
 
+[Compare across authors](../../compare/?t=film-wake-up-ron-burgundy_9965)
+
 ## DTS-HD MA 5.1
 
 **2004 • PG-13 • 1h 33m • Comedy • mobe1969**

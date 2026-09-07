@@ -1,5 +1,7 @@
 # Warcraft
 
+[Compare across authors](../../compare/?t=film-warcraft_68735)
+
 ## Atmos
 
 **2016 • PG-13 • 2h 3m • Action, Adventure, Fantasy • mobe1969**

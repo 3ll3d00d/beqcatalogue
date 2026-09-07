@@ -1,5 +1,7 @@
 # American Girl
 
+[Compare across authors](../../compare/?t=film-american-girl_878987)
+
 ## DD+ 5.1
 
 **2021 • 12 • 1h 41m • Mandarin • Drama, Family • mobe1969**

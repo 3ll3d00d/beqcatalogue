@@ -1,5 +1,7 @@
 # Confession
 
+[Compare across authors](../../compare/?t=film-confession_634595)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 45m • Korean • Crime, Thriller • mobe1969**

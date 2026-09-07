@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-stand_86382)
+
 ## Season 1
 
 * DD+

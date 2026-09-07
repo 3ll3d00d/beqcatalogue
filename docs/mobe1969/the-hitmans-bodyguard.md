@@ -1,5 +1,7 @@
 # The Hitman's Bodyguard
 
+[Compare across authors](../../compare/?t=film-the-hitmans-bodyguard_390043)
+
 ## Atmos
 
 **2017 • R • 1h 58m • Action, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Dasara
 
+[Compare across authors](../../compare/?t=film-dasara_885184)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 39m • Telugu • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Warhunt
 
+[Compare across authors](../../compare/?t=film-warhunt_697799)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 33m • Action, Horror, Thriller, War, Fantasy • mobe1969**

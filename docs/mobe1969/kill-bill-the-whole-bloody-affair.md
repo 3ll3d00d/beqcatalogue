@@ -1,5 +1,7 @@
 # Kill Bill: The Whole Bloody Affair
 
+[Compare across authors](../../compare/?t=film-kill-bill-the-whole-bloody-affair_414419)
+
 ## DD 5.1
 
 **2011 • R • 3h 58m • Action, Crime, Thriller • mobe1969**

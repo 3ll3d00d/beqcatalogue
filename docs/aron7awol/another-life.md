@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-another-life_79130)
+
 ## Season 1
 
 * DD+ Atmos

@@ -1,5 +1,7 @@
 # From Vegas to Macau III
 
+[Compare across authors](../../compare/?t=film-from-vegas-to-macau-iii_381002)
+
 ## Atmos
 
 **2016 • NR • 1h 52m • Cantonese • Action, Comedy • mobe1969**

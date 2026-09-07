@@ -1,5 +1,7 @@
 # Hostage
 
+[Compare across authors](../../compare/?t=film-hostage_2026)
+
 ## DTS-HD HA 5.1
 
 **2005 • R • 1h 53m • Action, Thriller, Crime • mobe1969**

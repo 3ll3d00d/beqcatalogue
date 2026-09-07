@@ -1,5 +1,7 @@
 # The Pirates! In an Adventure with Scientists!
 
+[Compare across authors](../../compare/?t=film-the-pirates-in-an-adventure-with-scientists_72197)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG • 1h 28m • Animation, Adventure, Family, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Monster Family
 
+[Compare across authors](../../compare/?t=film-monster-family_454699)
+
 ## DD+ 5.1, DTS-HD MA 5.1
 
 **2017 • PG • 1h 33m • Animation, Family, Fantasy, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # The Unjust
 
+[Compare across authors](../../compare/?t=film-the-unjust_61062)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 59m • Korean • Crime, Thriller • mobe1969**

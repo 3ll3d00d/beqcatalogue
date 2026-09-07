@@ -1,5 +1,7 @@
 # Memories of Murder
 
+[Compare across authors](../../compare/?t=film-memories-of-murder_11423)
+
 ## DTS-HD MA 5.1
 
 **2003 • NR • 2h 11m • Korean • Crime, Drama, Thriller • mobe1969**

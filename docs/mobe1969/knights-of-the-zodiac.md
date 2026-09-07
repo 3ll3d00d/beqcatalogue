@@ -1,5 +1,7 @@
 # Knights of the Zodiac
 
+[Compare across authors](../../compare/?t=film-knights-of-the-zodiac_455476)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 52m • Fantasy, Action, Adventure • mobe1969**

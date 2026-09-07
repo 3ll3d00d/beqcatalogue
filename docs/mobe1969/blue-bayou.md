@@ -1,5 +1,7 @@
 # Blue Bayou
 
+[Compare across authors](../../compare/?t=film-blue-bayou_644089)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 57m • Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Mercenary for Justice
 
+[Compare across authors](../../compare/?t=film-mercenary-for-justice_13722)
+
 ## DD+ 2.0
 
 **2006 • R • 1h 36m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # No Escape
 
+[Compare across authors](../../compare/?t=film-no-escape_192141)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 43m • Thriller • mobe1969**

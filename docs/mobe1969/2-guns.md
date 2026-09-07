@@ -1,5 +1,7 @@
 # 2 Guns
 
+[Compare across authors](../../compare/?t=film-2-guns_136400)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2013 • R • 1h 49m • Action, Comedy, Crime • mobe1969**

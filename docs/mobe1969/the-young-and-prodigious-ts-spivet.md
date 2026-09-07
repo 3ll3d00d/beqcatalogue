@@ -1,5 +1,7 @@
 # The Young and Prodigious T.S. Spivet
 
+[Compare across authors](../../compare/?t=film-the-young-and-prodigious-ts-spivet_157841)
+
 ## TrueHD 5.1
 
 **2015 • G • 1h 45m • Adventure, Drama, Family • mobe1969**

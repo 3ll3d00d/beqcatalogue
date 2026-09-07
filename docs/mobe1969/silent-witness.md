@@ -1,5 +1,7 @@
 # Silent Witness
 
+[Compare across authors](../../compare/?t=film-silent-witness_225877)
+
 ## TrueHD 5.1
 
 **2013 • NR • 1h 59m • Mandarin • Crime, Drama, Mystery • mobe1969**

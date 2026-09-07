@@ -1,5 +1,7 @@
 # Exeter
 
+[Compare across authors](../../compare/?t=film-exeter_226458)
+
 ## DTS-HD MA 5.1
 
 **2015 • 18 • 1h 31m • Horror, Thriller • mobe1969**

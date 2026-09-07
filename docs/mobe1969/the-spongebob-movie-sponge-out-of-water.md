@@ -1,5 +1,7 @@
 # The SpongeBob Movie: Sponge Out of Water
 
+[Compare across authors](../../compare/?t=film-the-spongebob-movie-sponge-out-of-water_228165)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2015 • PG • 1h 33m • Family, Adventure, Comedy, Fantasy, Animation • mobe1969**

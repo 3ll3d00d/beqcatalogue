@@ -1,5 +1,7 @@
 # Savage Salvation
 
+[Compare across authors](../../compare/?t=film-savage-salvation_740952)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 41m • Action, Thriller, Crime, Drama • mobe1969**

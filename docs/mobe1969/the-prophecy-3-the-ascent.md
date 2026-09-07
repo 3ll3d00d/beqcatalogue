@@ -1,5 +1,7 @@
 # The Prophecy 3: The Ascent
 
+[Compare across authors](../../compare/?t=film-the-prophecy-3-the-ascent_9011)
+
 ## DTS-HD MA 5.1
 
 **2000 • R • 1h 43m • Horror, Fantasy, Thriller • mobe1969**

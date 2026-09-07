@@ -1,5 +1,7 @@
 # Cold Fish
 
+[Compare across authors](../../compare/?t=film-cold-fish_68341)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 2h 24m • Japanese • Drama, Thriller, Crime, Horror • mobe1969**

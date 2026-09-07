@@ -1,5 +1,7 @@
 # The Best Offer
 
+[Compare across authors](../../compare/?t=film-the-best-offer_152742)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 2h 4m • Drama, Romance, Crime, Mystery • mobe1969**

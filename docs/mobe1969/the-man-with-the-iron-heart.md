@@ -1,5 +1,7 @@
 # The Man with the Iron Heart
 
+[Compare across authors](../../compare/?t=film-the-man-with-the-iron-heart_339259)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 2h 0m • War, Action, Thriller, History • mobe1969**

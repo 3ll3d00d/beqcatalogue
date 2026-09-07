@@ -1,5 +1,7 @@
 # Blacklight
 
+[Compare across authors](../../compare/?t=film-blacklight_823625)
+
 ## DTS-HD MA 5.1
 
 UHD

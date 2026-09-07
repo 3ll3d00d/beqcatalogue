@@ -1,5 +1,7 @@
 # Maps to the Stars
 
+[Compare across authors](../../compare/?t=film-maps-to-the-stars_157851)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 52m • Drama • mobe1969**

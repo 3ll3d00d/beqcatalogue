@@ -1,5 +1,7 @@
 # The Burial
 
+[Compare across authors](../../compare/?t=film-the-burial_763165)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2023 • R • 2h 6m • Drama, Comedy • mobe1969**

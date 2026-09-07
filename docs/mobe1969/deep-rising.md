@@ -1,5 +1,7 @@
 # Deep Rising
 
+[Compare across authors](../../compare/?t=film-deep-rising_9457)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 46m • Action, Science Fiction, Adventure, Horror • mobe1969**

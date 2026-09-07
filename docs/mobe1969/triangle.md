@@ -1,5 +1,7 @@
 # Triangle
 
+[Compare across authors](../../compare/?t=film-triangle_26466)
+
 ## TrueHD 5.1
 
 **2009 • R • 1h 39m • Horror • mobe1969**

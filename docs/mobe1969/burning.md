@@ -1,5 +1,7 @@
 # Burning
 
+[Compare across authors](../../compare/?t=film-burning_491584)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 2h 28m • Korean • Mystery, Drama, Thriller • mobe1969**

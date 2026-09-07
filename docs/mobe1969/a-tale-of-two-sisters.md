@@ -1,5 +1,7 @@
 # A Tale of Two Sisters
 
+[Compare across authors](../../compare/?t=film-a-tale-of-two-sisters_4552)
+
 ## DTS-HD MA 5.1
 
 **2003 • 15 • 1h 55m • Korean • Drama, Horror, Mystery • mobe1969**

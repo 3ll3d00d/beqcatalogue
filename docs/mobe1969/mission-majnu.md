@@ -1,5 +1,7 @@
 # Mission Majnu
 
+[Compare across authors](../../compare/?t=film-mission-majnu_778946)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 9m • Hindi • Thriller, Action, Drama • mobe1969**

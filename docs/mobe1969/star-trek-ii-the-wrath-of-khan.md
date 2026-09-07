@@ -1,5 +1,7 @@
 # Star Trek II: The Wrath of Khan
 
+[Compare across authors](../../compare/?t=film-star-trek-ii-the-wrath-of-khan_154)
+
 ## TrueHD 7.1
 
 **1982 • PG • 1h 53m • Action, Adventure, Science Fiction, Thriller • mobe1969**

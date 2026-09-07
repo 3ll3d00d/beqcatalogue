@@ -1,5 +1,7 @@
 # El Mariachi
 
+[Compare across authors](../../compare/?t=film-el-mariachi_9367)
+
 ## DTS-HD MA 2.0
 
 **1992 • R • 1h 21m • Spanish • Action, Crime, Thriller • mobe1969**

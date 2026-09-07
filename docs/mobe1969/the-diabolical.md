@@ -1,5 +1,7 @@
 # The Diabolical
 
+[Compare across authors](../../compare/?t=film-the-diabolical_323370)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 26m • Horror, Science Fiction, Thriller • mobe1969**

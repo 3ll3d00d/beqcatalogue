@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-fame-game_156441)
+
 ## Season 1
 
 * DD+ Atmos

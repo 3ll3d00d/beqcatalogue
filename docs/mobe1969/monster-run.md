@@ -1,5 +1,7 @@
 # Monster Run
 
+[Compare across authors](../../compare/?t=film-monster-run_734355)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 44m • Mandarin • Action, Adventure, Fantasy • mobe1969**

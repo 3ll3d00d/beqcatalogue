@@ -1,5 +1,7 @@
 # The Merciless
 
+[Compare across authors](../../compare/?t=film-the-merciless_451997)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 2h 0m • Korean • Action, Crime, Mystery • mobe1969**

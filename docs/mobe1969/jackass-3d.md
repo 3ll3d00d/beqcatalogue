@@ -1,5 +1,7 @@
 # Jackass 3D
 
+[Compare across authors](../../compare/?t=film-jackass-3d_16290)
+
 ## DTS-HD 5.1
 
 **2010 • R • 1h 39m • Comedy, Documentary, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Our House
 
+[Compare across authors](../../compare/?t=film-our-house_414191)
+
 ## DD+ 5.1
 
 **2018 • PG-13 • 1h 30m • Horror, Drama, Thriller • mobe1969**

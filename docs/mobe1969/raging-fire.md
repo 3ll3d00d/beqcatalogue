@@ -1,5 +1,7 @@
 # Raging Fire
 
+[Compare across authors](../../compare/?t=film-raging-fire_513692)
+
 ## Atmos
 
 **2021 • 15 • 2h 8m • Cantonese • Action, Crime • mobe1969**

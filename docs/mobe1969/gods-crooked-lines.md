@@ -1,5 +1,7 @@
 # God's Crooked Lines
 
+[Compare across authors](../../compare/?t=film-gods-crooked-lines_890980)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 35m • Spanish • Drama, Mystery, Thriller • mobe1969**

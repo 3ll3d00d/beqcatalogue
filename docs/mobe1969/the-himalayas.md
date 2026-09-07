@@ -1,5 +1,7 @@
 # The Himalayas
 
+[Compare across authors](../../compare/?t=film-the-himalayas_374111)
+
 ## TrueHD 5.1
 
 **2015 • 12 • 2h 5m • Korean • Adventure, Family • mobe1969**

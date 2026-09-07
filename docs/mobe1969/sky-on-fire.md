@@ -1,5 +1,7 @@
 # Sky on Fire
 
+[Compare across authors](../../compare/?t=film-sky-on-fire_427433)
+
 ## TrueHD 5.1
 
 **2016 • NR • 1h 39m • Mandarin • Action, Crime, Thriller • mobe1969**

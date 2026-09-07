@@ -1,5 +1,7 @@
 # Rambo
 
+[Compare across authors](../../compare/?t=film-rambo_7555)
+
 ## Atmos
 
 Director's Cut

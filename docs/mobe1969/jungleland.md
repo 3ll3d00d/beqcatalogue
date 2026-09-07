@@ -1,5 +1,7 @@
 # Jungleland
 
+[Compare across authors](../../compare/?t=film-jungleland_556501)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 30m • Drama • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-one-piece_111110)
+
 ## Season 1
 
 * DD+ Atmos

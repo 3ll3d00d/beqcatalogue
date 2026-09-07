@@ -1,5 +1,7 @@
 # 50 First Dates
 
+[Compare across authors](../../compare/?t=film-50-first-dates_1824)
+
 ## DD 5.1
 
 **2004 • PG-13 • 1h 39m • Comedy, Romance • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-mythic-quest-ravens-banquet_94951)
+
 ## Season 1
 
 * DD+ Atmos

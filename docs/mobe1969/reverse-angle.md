@@ -1,5 +1,7 @@
 # Reverse Angle
 
+[Compare across authors](../../compare/?t=film-reverse-angle_67204)
+
 ## DD+ 5.1
 
 **2009 • NR • 0h 0m • TV Movie, Action, Drama, Mystery • mobe1969**

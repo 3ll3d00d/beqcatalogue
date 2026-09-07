@@ -1,5 +1,7 @@
 # Hospital
 
+[Compare across authors](../../compare/?t=film-hospital_761163)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 29m • Mandarin • Horror, Thriller • mobe1969**

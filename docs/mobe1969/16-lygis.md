@@ -1,5 +1,7 @@
 # 16 Lygis
 
+[Compare across authors](../../compare/?t=film-16-lygis_548066)
+
 ## DD+ 5.1
 
 **2018 • 15 • 1h 42m • Science Fiction, Thriller • mobe1969**

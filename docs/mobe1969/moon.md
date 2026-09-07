@@ -1,5 +1,7 @@
 # Moon
 
+[Compare across authors](../../compare/?t=film-moon_17431)
+
 ## Atmos
 
 **2009 • R • 1h 37m • Science Fiction, Drama • mobe1969**

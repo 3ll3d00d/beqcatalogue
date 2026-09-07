@@ -1,5 +1,7 @@
 # Super Typhoon
 
+[Compare across authors](../../compare/?t=film-super-typhoon_84163)
+
 ## DTS-HD MA 2.0
 
 **2008 • NR • 1h 34m • Mandarin • Drama, Action, Science Fiction • mobe1969**

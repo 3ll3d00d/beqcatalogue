@@ -1,5 +1,7 @@
 # Superfly
 
+[Compare across authors](../../compare/?t=film-superfly_500475)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 47m • Action, Crime • mobe1969**

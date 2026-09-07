@@ -1,5 +1,7 @@
 # Flight 192
 
+[Compare across authors](../../compare/?t=film-flight-192_455509)
+
 ## DD+ 2.0
 
 **2016 • NR • 2h 0m • Action, TV Movie • mobe1969**

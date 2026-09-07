@@ -1,5 +1,7 @@
 # Inside Man
 
+[Compare across authors](../../compare/?t=film-inside-man_1020662)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 27m • Thriller, Crime, Drama • mobe1969**

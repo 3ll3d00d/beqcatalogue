@@ -1,5 +1,7 @@
 # Kumari
 
+[Compare across authors](../../compare/?t=film-kumari_851731)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 17m • Malayalam • Thriller, Mystery, Horror, Drama • mobe1969**

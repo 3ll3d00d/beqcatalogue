@@ -1,5 +1,7 @@
 # Nowhere to Run
 
+[Compare across authors](../../compare/?t=film-nowhere-to-run_10413)
+
 ## LPCM 2.0
 
 **1993 • R • 1h 34m • Action, Drama, Thriller, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # The Forger
 
+[Compare across authors](../../compare/?t=film-the-forger_255157)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 35m • Thriller, Crime, Drama • mobe1969**

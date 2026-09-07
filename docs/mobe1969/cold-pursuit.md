@@ -1,5 +1,7 @@
 # Cold Pursuit
 
+[Compare across authors](../../compare/?t=film-cold-pursuit_438650)
+
 ## Atmos, DD+ 5.1
 
 **2019 • R • 1h 59m • Action, Crime, Thriller • mobe1969**

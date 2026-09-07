@@ -1,5 +1,7 @@
 # Countdown
 
+[Compare across authors](../../compare/?t=film-countdown_599975)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG-13 • 1h 30m • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Last Boy
 
+[Compare across authors](../../compare/?t=film-the-last-boy_573632)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 27m • Drama, Science Fiction • mobe1969**

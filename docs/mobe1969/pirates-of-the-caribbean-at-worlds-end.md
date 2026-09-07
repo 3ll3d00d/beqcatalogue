@@ -1,5 +1,7 @@
 # Pirates of the Caribbean: At World's End
 
+[Compare across authors](../../compare/?t=film-pirates-of-the-caribbean-at-worlds-end_285)
+
 ## Atmos
 
 **2007 • PG-13 • 2h 48m • Adventure, Fantasy, Action • mobe1969**

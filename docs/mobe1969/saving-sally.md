@@ -1,5 +1,7 @@
 # Saving Sally
 
+[Compare across authors](../../compare/?t=film-saving-sally_406492)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 34m • Animation, Comedy, Fantasy, Romance • mobe1969**

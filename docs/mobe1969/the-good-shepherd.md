@@ -1,5 +1,7 @@
 # The Good Shepherd
 
+[Compare across authors](../../compare/?t=film-the-good-shepherd_1247)
+
 ## DTS-HD MA 5.1
 
 **2006 • R • 2h 47m • Drama, Thriller, History • mobe1969**

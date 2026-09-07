@@ -1,5 +1,7 @@
 # The Recon
 
+[Compare across authors](../../compare/?t=film-the-recon_871983)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 50m • Korean • Thriller • mobe1969**

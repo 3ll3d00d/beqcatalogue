@@ -1,5 +1,7 @@
 # When the Lights Went Out
 
+[Compare across authors](../../compare/?t=film-when-the-lights-went-out_50497)
+
 ## DTS-HD MA 5.1
 
 **2012 • 15 • 1h 26m • Drama, Horror, Thriller • mobe1969**

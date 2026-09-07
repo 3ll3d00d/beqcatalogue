@@ -1,5 +1,7 @@
 # Here Are The Young Men
 
+[Compare across authors](../../compare/?t=film-here-are-the-young-men_540248)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 36m • Drama • mobe1969**

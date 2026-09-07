@@ -1,5 +1,7 @@
 # My Bloody Valentine
 
+[Compare across authors](../../compare/?t=film-my-bloody-valentine_14435)
+
 ## DTS-HD MA 7.1
 
 **2009 • R • 1h 41m • Mystery, Horror • mobe1969**

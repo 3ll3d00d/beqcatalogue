@@ -1,5 +1,7 @@
 # Don't Breathe
 
+[Compare across authors](../../compare/?t=film-dont-breathe_300669)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 29m • Crime, Horror, Thriller • mobe1969**

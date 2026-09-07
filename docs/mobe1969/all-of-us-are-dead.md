@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-all-of-us-are-dead_99966)
+
 ## Season 1
 
 * DD+ 5.1

@@ -1,5 +1,7 @@
 # Flight Crew
 
+[Compare across authors](../../compare/?t=film-flight-crew_380111)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 2h 18m • Russian • Action • mobe1969**

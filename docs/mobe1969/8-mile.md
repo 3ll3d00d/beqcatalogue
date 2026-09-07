@@ -1,5 +1,7 @@
 # 8 Mile
 
+[Compare across authors](../../compare/?t=film-8-mile_65)
+
 ## DTS-X
 
 **2002 • R • 1h 51m • Drama, Music • mobe1969**

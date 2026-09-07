@@ -1,5 +1,7 @@
 # The Wedding Ringer
 
+[Compare across authors](../../compare/?t=film-the-wedding-ringer_252838)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 41m • Comedy • mobe1969**

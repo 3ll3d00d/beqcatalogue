@@ -1,5 +1,7 @@
 # 80 For Brady
 
+[Compare across authors](../../compare/?t=film-80-for-brady_942922)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 38m • Comedy • mobe1969**

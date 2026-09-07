@@ -1,5 +1,7 @@
 # In the Shadow of the Moon
 
+[Compare across authors](../../compare/?t=film-in-the-shadow-of-the-moon_530382)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 55m • Mystery, Science Fiction, Thriller • mobe1969**

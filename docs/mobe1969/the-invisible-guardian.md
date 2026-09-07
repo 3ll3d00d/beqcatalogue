@@ -1,5 +1,7 @@
 # The Invisible Guardian
 
+[Compare across authors](../../compare/?t=film-the-invisible-guardian_392207)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 9m • Spanish • Thriller • mobe1969**

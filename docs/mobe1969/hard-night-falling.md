@@ -1,5 +1,7 @@
 # Hard Night Falling
 
+[Compare across authors](../../compare/?t=film-hard-night-falling_605368)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 26m • Action, Thriller • mobe1969**

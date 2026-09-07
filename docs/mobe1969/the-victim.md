@@ -1,5 +1,7 @@
 # The Victim
 
+[Compare across authors](../../compare/?t=film-the-victim_44008)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 24m • Thriller, Action, Horror • mobe1969**

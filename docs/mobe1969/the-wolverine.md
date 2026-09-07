@@ -1,5 +1,7 @@
 # The Wolverine
 
+[Compare across authors](../../compare/?t=film-the-wolverine_76170)
+
 ## DTS-HD MA 7.1
 
 Extended Cut

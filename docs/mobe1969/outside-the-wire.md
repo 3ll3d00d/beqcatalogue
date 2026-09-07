@@ -1,5 +1,7 @@
 # Outside the Wire
 
+[Compare across authors](../../compare/?t=film-outside-the-wire_775996)
+
 ## DD+ Atmos
 
 **2021 • R • 1h 56m • Thriller, Action, Science Fiction • mobe1969**

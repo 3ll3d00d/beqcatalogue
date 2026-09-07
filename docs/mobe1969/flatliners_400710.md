@@ -1,5 +1,7 @@
 # Flatliners
 
+[Compare across authors](../../compare/?t=film-flatliners_400710)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG-13 • 1h 51m • Horror, Drama, Thriller • mobe1969**

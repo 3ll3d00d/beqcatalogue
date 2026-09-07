@@ -1,5 +1,7 @@
 # Cujo
 
+[Compare across authors](../../compare/?t=film-cujo_10489)
+
 ## DTS-HD MA 5.1
 
 **1983 • R • 1h 33m • Thriller, Horror • mobe1969**

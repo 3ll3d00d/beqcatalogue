@@ -1,5 +1,7 @@
 # The Twilight Saga: Eclipse
 
+[Compare across authors](../../compare/?t=film-the-twilight-saga-eclipse_24021)
+
 ## DD+ 5.1
 
 **2010 • PG-13 • 2h 4m • Adventure, Fantasy, Drama, Romance • mobe1969**

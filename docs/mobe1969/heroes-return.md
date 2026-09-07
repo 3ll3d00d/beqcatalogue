@@ -1,5 +1,7 @@
 # Heroes Return
 
+[Compare across authors](../../compare/?t=film-heroes-return_791900)
+
 ## TrueHD 5.1
 
 **2021 • NR • 1h 30m • Mandarin • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Jurassic World: Fallen Kingdom
 
+[Compare across authors](../../compare/?t=film-jurassic-world-fallen-kingdom_351286)
+
 ## DTS-X
 
 **2018 • PG-13 • 2h 9m • Action, Adventure, Science Fiction • mobe1969**

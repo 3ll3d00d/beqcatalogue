@@ -1,5 +1,7 @@
 # The Patriot
 
+[Compare across authors](../../compare/?t=film-the-patriot_2024)
+
 ## Atmos
 
 Theatrical Cut

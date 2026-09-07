@@ -1,5 +1,7 @@
 # The Shawshank Redemption
 
+[Compare across authors](../../compare/?t=film-the-shawshank-redemption_278)
+
 ## DTS-HD MA 5.1
 
 **1994 • R • 2h 22m • Drama, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Shaft
 
+[Compare across authors](../../compare/?t=film-shaft_479)
+
 ## DTS-HD MA 5.1
 
 **2000 • R • 1h 39m • Crime, Adventure, Action, Thriller • mobe1969**

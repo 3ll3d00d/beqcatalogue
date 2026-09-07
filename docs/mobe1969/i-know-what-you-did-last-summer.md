@@ -1,5 +1,7 @@
 # I Know What You Did Last Summer
 
+[Compare across authors](../../compare/?t=film-i-know-what-you-did-last-summer_3597)
+
 ## Atmos
 
 **1997 • R • 1h 41m • Horror, Thriller, Mystery • mobe1969**

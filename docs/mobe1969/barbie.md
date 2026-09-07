@@ -1,5 +1,7 @@
 # Barbie
 
+[Compare across authors](../../compare/?t=film-barbie_346698)
+
 ## Atmos
 
 **2023 • PG-13 • 1h 54m • Comedy, Adventure, Fantasy • mobe1969**

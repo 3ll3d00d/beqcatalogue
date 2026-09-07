@@ -1,5 +1,7 @@
 # Valerian and the City of a Thousand Planets
 
+[Compare across authors](../../compare/?t=film-valerian-and-the-city-of-a-thousand-planets_339964)
+
 ## Atmos, DD+ 5.1
 
 **2017 • PG-13 • 2h 16m • Adventure, Science Fiction, Action • mobe1969**

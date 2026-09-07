@@ -1,5 +1,7 @@
 # The Rhythm Section
 
+[Compare across authors](../../compare/?t=film-the-rhythm-section_466622)
+
 ## DTS-HD MA 7.1
 
 **2020 • R • 1h 49m • Action, Thriller • mobe1969**

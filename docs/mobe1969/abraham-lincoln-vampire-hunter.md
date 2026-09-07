@@ -1,5 +1,7 @@
 # Abraham Lincoln: Vampire Hunter
 
+[Compare across authors](../../compare/?t=film-abraham-lincoln-vampire-hunter_72331)
+
 ## DTS-HD MA 7.1
 
 **2012 • R • 1h 45m • Action, Fantasy, Horror • mobe1969**

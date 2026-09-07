@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-longest-night_201331)
+
 ## Season 1
 
 * DD+ Atmos

@@ -1,5 +1,7 @@
 # Half Past Dead
 
+[Compare across authors](../../compare/?t=film-half-past-dead_10167)
+
 ## DD+ 5.1
 
 **2002 • PG-13 • 1h 38m • Crime, Action, Thriller • mobe1969**

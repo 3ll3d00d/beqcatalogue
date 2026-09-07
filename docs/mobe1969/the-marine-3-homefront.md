@@ -1,5 +1,7 @@
 # The Marine 3: Homefront
 
+[Compare across authors](../../compare/?t=film-the-marine-3-homefront_171581)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 26m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Spiderhead
 
+[Compare across authors](../../compare/?t=film-spiderhead_615469)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 47m • Science Fiction, Thriller • mobe1969**

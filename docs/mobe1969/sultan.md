@@ -1,5 +1,7 @@
 # Sultan
 
+[Compare across authors](../../compare/?t=film-sultan_376812)
+
 ## Atmos
 
 **2016 • NR • 2h 50m • Hindi • Drama, Action, Romance • mobe1969**

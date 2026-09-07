@@ -1,5 +1,7 @@
 # Mr. Nobody
 
+[Compare across authors](../../compare/?t=film-mr-nobody_31011)
+
 ## DTS-HD MA 5.1
 
 **2009 • NR • 2h 21m • Science Fiction, Drama, Romance, Fantasy • mobe1969**

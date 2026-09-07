@@ -1,5 +1,7 @@
 # Doctor Strange in the Multiverse of Madness
 
+[Compare across authors](../../compare/?t=film-doctor-strange-in-the-multiverse-of-madness_453395)
+
 ## Atmos
 
 **2022 • PG-13 • 2h 6m • Fantasy, Action, Adventure • mobe1969**

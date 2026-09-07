@@ -1,5 +1,7 @@
 # Agent Cody Banks
 
+[Compare across authors](../../compare/?t=film-agent-cody-banks_10923)
+
 ## DD+ 5.1
 
 **2003 • PG • 1h 42m • Action, Adventure, Comedy, Family • mobe1969**

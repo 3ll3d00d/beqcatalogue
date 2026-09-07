@@ -1,5 +1,7 @@
 # Infini
 
+[Compare across authors](../../compare/?t=film-infini_301728)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 50m • Thriller, Horror, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Kotigobba 3
 
+[Compare across authors](../../compare/?t=film-kotigobba-3_678470)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 20m • Kannada • Action, Crime, Thriller • mobe1969**

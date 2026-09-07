@@ -1,5 +1,7 @@
 # The Warriors Gate
 
+[Compare across authors](../../compare/?t=film-the-warriors-gate_413658)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 48m • Action, Adventure • mobe1969**

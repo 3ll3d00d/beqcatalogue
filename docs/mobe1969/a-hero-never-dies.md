@@ -1,5 +1,7 @@
 # A Hero Never Dies
 
+[Compare across authors](../../compare/?t=film-a-hero-never-dies_58776)
+
 ## DTS-HD MA 2.0
 
 **1998 • NR • 1h 38m • Cantonese • Action, Crime, Thriller • mobe1969**

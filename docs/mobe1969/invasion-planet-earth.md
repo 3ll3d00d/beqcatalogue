@@ -1,5 +1,7 @@
 # Invasion: Planet Earth
 
+[Compare across authors](../../compare/?t=film-invasion-planet-earth_641370)
+
 ## DTS-HD MA 5.1
 
 **2019 • 12A • 1h 38m • Action, Adventure, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # The Fog
 
+[Compare across authors](../../compare/?t=film-the-fog_791)
+
 ## DD+ 5.1
 
 **2005 • PG-13 • 1h 40m • Horror, Thriller • mobe1969**

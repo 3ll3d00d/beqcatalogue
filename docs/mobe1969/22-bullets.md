@@ -1,5 +1,7 @@
 # 22 Bullets
 
+[Compare across authors](../../compare/?t=film-22-bullets_37645)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 55m • French • Drama, Crime, Thriller • mobe1969**

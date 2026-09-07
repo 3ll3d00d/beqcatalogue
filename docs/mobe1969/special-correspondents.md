@@ -1,5 +1,7 @@
 # Special Correspondents
 
+[Compare across authors](../../compare/?t=film-special-correspondents_355008)
+
 ## DD+ 5.1
 
 **2016 • PG-13 • 1h 40m • Comedy • mobe1969**

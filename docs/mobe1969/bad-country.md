@@ -1,5 +1,7 @@
 # Bad Country
 
+[Compare across authors](../../compare/?t=film-bad-country_256731)
+
 ## DD+ 5.1
 
 **2014 • 15 • 1h 35m • Drama, Action, Crime • mobe1969**

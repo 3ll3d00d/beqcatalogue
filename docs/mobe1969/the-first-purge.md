@@ -1,5 +1,7 @@
 # The First Purge
 
+[Compare across authors](../../compare/?t=film-the-first-purge_442249)
+
 ## DTS-X, DD+ 5.1
 
 **2018 • R • 1h 37m • Action, Thriller, Horror • mobe1969**

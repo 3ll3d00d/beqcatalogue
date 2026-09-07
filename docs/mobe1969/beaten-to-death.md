@@ -1,5 +1,7 @@
 # Beaten to Death
 
+[Compare across authors](../../compare/?t=film-beaten-to-death_1032949)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 32m • Horror • mobe1969**

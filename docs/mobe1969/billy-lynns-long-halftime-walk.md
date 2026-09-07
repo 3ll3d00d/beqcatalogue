@@ -1,5 +1,7 @@
 # Billy Lynn's Long Halftime Walk
 
+[Compare across authors](../../compare/?t=film-billy-lynns-long-halftime-walk_293767)
+
 ## Atmos
 
 **2016 • R • 1h 53m • Drama, War • mobe1969**

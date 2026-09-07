@@ -1,5 +1,7 @@
 # The Witch
 
+[Compare across authors](../../compare/?t=film-the-witch_310131)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2015 • R • 1h 32m • Drama, Fantasy, Horror, Mystery • mobe1969**

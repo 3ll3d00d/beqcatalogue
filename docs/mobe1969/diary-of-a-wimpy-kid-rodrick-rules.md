@@ -1,5 +1,7 @@
 # Diary of a Wimpy Kid: Rodrick Rules
 
+[Compare across authors](../../compare/?t=film-diary-of-a-wimpy-kid-rodrick-rules_897192)
+
 ## DD+ Atmos
 
 **2022 • PG • 1h 14m • Animation, Comedy, Family • mobe1969**

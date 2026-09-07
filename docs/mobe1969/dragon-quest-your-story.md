@@ -1,5 +1,7 @@
 # Dragon Quest: Your Story
 
+[Compare across authors](../../compare/?t=film-dragon-quest-your-story_592867)
+
 ## DD+ 5.1
 
 **2019 • PG • 1h 42m • Japanese • Animation, Adventure, Comedy, Fantasy, Action, Family • mobe1969**

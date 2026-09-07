@@ -1,5 +1,7 @@
 # Holmes & Watson
 
+[Compare across authors](../../compare/?t=film-holmes-watson_426563)
+
 ## DD+ Atmos, DD 5.1
 
 **2018 • PG-13 • 1h 30m • Mystery, Adventure, Comedy, Crime • mobe1969**

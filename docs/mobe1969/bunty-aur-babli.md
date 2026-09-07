@@ -1,5 +1,7 @@
 # Bunty Aur Babli
 
+[Compare across authors](../../compare/?t=film-bunty-aur-babli_11763)
+
 ## DD+ 5.1
 
 **2005 • NR • 2h 50m • Hindi • Comedy, Crime, Romance • mobe1969**

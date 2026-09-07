@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-brooklyn-nine-nine_48891)
+
 ## Season 8
 
 * DTS-HD MA 5.1

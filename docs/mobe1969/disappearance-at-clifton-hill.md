@@ -1,5 +1,7 @@
 # Disappearance at Clifton Hill
 
+[Compare across authors](../../compare/?t=film-disappearance-at-clifton-hill_598577)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 40m • Thriller • mobe1969**

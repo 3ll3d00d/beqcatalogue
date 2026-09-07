@@ -1,5 +1,7 @@
 # Dual
 
+[Compare across authors](../../compare/?t=film-dual_698128)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • NR • 1h 35m • Science Fiction, Thriller • mobe1969**

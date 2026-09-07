@@ -1,5 +1,7 @@
 # The Smurfs
 
+[Compare across authors](../../compare/?t=film-the-smurfs_41513)
+
 ## Atmos
 
 **2011 • PG • 1h 43m • Animation, Family, Adventure, Comedy, Fantasy • mobe1969**

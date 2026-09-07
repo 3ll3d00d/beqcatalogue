@@ -1,5 +1,7 @@
 # Zulu
 
+[Compare across authors](../../compare/?t=film-zulu_185567)
+
 ## DTS-HD MA 5.1
 
 **2013 • 18 • 1h 50m • Crime, Drama, Thriller • mobe1969**

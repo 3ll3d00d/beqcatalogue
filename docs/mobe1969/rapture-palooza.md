@@ -1,5 +1,7 @@
 # Rapture-Palooza
 
+[Compare across authors](../../compare/?t=film-rapture-palooza_174188)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 25m • Comedy, Fantasy, Horror • mobe1969**

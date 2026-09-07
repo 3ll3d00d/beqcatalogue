@@ -1,5 +1,7 @@
 # The Curse of La Llorona
 
+[Compare across authors](../../compare/?t=film-the-curse-of-la-llorona_480414)
+
 ## Atmos, DD+ Atmos
 
 **2019 • R • 1h 33m • Horror, Mystery, Thriller • mobe1969**

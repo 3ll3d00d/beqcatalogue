@@ -1,5 +1,7 @@
 # Over Your Dead Body
 
+[Compare across authors](../../compare/?t=film-over-your-dead-body_199925)
+
 ## DTS-HD MA 5.1
 
 **2014 • 18 • 1h 52m • Japanese • Horror • mobe1969**

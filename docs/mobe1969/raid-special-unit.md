@@ -1,5 +1,7 @@
 # R.A.I.D. Special Unit
 
+[Compare across authors](../../compare/?t=film-raid-special-unit_382597)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 45m • French • Action, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Girlfriend's Day
 
+[Compare across authors](../../compare/?t=film-girlfriends-day_346650)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 10m • Comedy, Drama • mobe1969**

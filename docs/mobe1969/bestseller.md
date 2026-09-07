@@ -1,5 +1,7 @@
 # Bestseller
 
+[Compare across authors](../../compare/?t=film-bestseller_42507)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 57m • Korean • Horror, Thriller, Mystery • mobe1969**

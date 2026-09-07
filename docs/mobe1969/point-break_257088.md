@@ -1,5 +1,7 @@
 # Point Break
 
+[Compare across authors](../../compare/?t=film-point-break_257088)
+
 ## DTS-HD MA 7.1, DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 53m • Action, Adventure, Crime, Thriller • mobe1969**

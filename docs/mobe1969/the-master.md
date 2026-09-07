@@ -1,5 +1,7 @@
 # The Master
 
+[Compare across authors](../../compare/?t=film-the-master_68722)
+
 ## DD+ 5.1
 
 **2012 • R • 2h 17m • Drama • mobe1969**

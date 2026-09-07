@@ -1,5 +1,7 @@
 # Gatao 2: Rise of the King
 
+[Compare across authors](../../compare/?t=film-gatao-2-rise-of-the-king_506053)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 7m • Mandarin • Action, Drama, Crime • mobe1969**

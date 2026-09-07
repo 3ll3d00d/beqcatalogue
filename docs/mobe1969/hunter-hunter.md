@@ -1,5 +1,7 @@
 # Hunter Hunter
 
+[Compare across authors](../../compare/?t=film-hunter-hunter_759902)
+
 ## DTS-HD MA 5.1
 
 **2020 • R18+ • 1h 33m • Horror, Thriller • mobe1969**

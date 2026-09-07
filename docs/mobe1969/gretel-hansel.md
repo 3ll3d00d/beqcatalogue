@@ -1,5 +1,7 @@
 # Gretel & Hansel
 
+[Compare across authors](../../compare/?t=film-gretel-hansel_542224)
+
 ## DTS-HD MA 5.1
 
 **2020 • PG-13 • 1h 27m • Fantasy, Horror, Mystery • mobe1969**

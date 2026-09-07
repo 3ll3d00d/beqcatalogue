@@ -1,5 +1,7 @@
 # Monster Family 2
 
+[Compare across authors](../../compare/?t=film-monster-family-2_823609)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2021 • PG • 1h 43m • Animation, Family • mobe1969**

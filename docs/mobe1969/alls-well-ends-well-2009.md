@@ -1,5 +1,7 @@
 # All's Well, Ends Well 2009
 
+[Compare across authors](../../compare/?t=film-alls-well-ends-well-2009_22193)
+
 ## DD+ 2.0
 
 **2009 • NR • 1h 35m • Comedy • mobe1969**

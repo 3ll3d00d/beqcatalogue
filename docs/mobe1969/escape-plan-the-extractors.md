@@ -1,5 +1,7 @@
 # Escape Plan: The Extractors
 
+[Compare across authors](../../compare/?t=film-escape-plan-the-extractors_480042)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 37m • Action, Thriller, Crime • mobe1969**

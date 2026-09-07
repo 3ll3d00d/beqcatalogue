@@ -1,5 +1,7 @@
 # The Lie
 
+[Compare across authors](../../compare/?t=film-the-lie_539649)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 35m • Drama, Horror, Mystery, Thriller • mobe1969**

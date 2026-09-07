@@ -1,5 +1,7 @@
 # Highlander
 
+[Compare across authors](../../compare/?t=film-highlander_8009)
+
 ## DTS-HD MA 5.1
 
 Director's Cut, UHD

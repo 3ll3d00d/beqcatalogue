@@ -1,5 +1,7 @@
 # Assassination Games
 
+[Compare across authors](../../compare/?t=film-assassination-games_71677)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 41m • Action • mobe1969**

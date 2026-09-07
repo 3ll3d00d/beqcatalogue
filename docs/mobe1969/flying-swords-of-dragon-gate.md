@@ -1,5 +1,7 @@
 # Flying Swords of Dragon Gate
 
+[Compare across authors](../../compare/?t=film-flying-swords-of-dragon-gate_81870)
+
 ## TrueHD 5.1
 
 **2012 • 15 • 2h 5m • Cantonese • Adventure, Action • mobe1969**

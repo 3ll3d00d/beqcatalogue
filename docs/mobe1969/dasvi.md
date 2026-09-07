@@ -1,5 +1,7 @@
 # Dasvi
 
+[Compare across authors](../../compare/?t=film-dasvi_799713)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 7m • Hindi • Drama, Comedy • mobe1969**

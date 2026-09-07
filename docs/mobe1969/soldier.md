@@ -1,5 +1,7 @@
 # Soldier
 
+[Compare across authors](../../compare/?t=film-soldier_9425)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 39m • Action, Science Fiction • mobe1969**

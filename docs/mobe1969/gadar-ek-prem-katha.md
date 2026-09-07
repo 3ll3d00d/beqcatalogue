@@ -1,5 +1,7 @@
 # Gadar: Ek Prem Katha
 
+[Compare across authors](../../compare/?t=film-gadar-ek-prem-katha_80156)
+
 ## DD+ 5.1
 
 **2001 • 15 • 3h 2m • Hindi • Action, Drama, Romance • mobe1969**

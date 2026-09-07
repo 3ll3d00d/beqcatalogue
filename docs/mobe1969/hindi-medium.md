@@ -1,5 +1,7 @@
 # Hindi Medium
 
+[Compare across authors](../../compare/?t=film-hindi-medium_456570)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 12m • Hindi • Comedy, Drama • mobe1969**

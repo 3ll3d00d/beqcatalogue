@@ -1,5 +1,7 @@
 # Fighting
 
+[Compare across authors](../../compare/?t=film-fighting_17336)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 45m • Action • mobe1969**

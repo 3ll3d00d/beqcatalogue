@@ -1,5 +1,7 @@
 # Shadow People
 
+[Compare across authors](../../compare/?t=film-shadow-people_176570)
+
 ## TrueHD 5.1
 
 **2013 • PG-13 • 1h 29m • Thriller • mobe1969**

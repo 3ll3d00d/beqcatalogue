@@ -1,5 +1,7 @@
 # The Flash
 
+[Compare across authors](../../compare/?t=film-the-flash_298618)
+
 ## Atmos
 
 **2023 • PG-13 • 2h 24m • Action, Adventure, Science Fiction • mobe1969**

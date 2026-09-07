@@ -1,5 +1,7 @@
 # Wanted
 
+[Compare across authors](../../compare/?t=film-wanted_8909)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 50m • Action, Thriller, Crime • mobe1969**

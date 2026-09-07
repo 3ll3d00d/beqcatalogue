@@ -1,5 +1,7 @@
 # The Little Prince
 
+[Compare across authors](../../compare/?t=film-the-little-prince_309809)
+
 ## DD+ 5.1
 
 **2015 • PG • 1h 48m • Adventure, Animation, Fantasy, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Resident Evil: Damnation
 
+[Compare across authors](../../compare/?t=film-resident-evil-damnation_133121)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 40m • Animation, Horror, Action • mobe1969**

@@ -1,5 +1,7 @@
 # DTC –Yukemuri Junjo Hen– from High & Low
 
+[Compare across authors](../../compare/?t=film-dtc-yukemuri-junjo-hen-from-high-low_551086)
+
 ## DD+ 2.0
 
 **2018 • NR • 1h 42m • Japanese • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Highwaymen
 
+[Compare across authors](../../compare/?t=film-highwaymen_29979)
+
 ## DTS-HD MA 5.1
 
 **2004 • R • 1h 20m • Action, Thriller, Crime, Horror • mobe1969**

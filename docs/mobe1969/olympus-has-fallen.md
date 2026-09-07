@@ -1,5 +1,7 @@
 # Olympus Has Fallen
 
+[Compare across authors](../../compare/?t=film-olympus-has-fallen_117263)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2013 • R • 2h 0m • Action, Thriller • mobe1969**

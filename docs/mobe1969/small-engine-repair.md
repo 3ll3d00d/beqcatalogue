@@ -1,5 +1,7 @@
 # Small Engine Repair
 
+[Compare across authors](../../compare/?t=film-small-engine-repair_665896)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 42m • Drama, Thriller, Comedy • mobe1969**

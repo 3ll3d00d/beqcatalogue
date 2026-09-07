@@ -1,5 +1,7 @@
 # The Man with the Golden Gun
 
+[Compare across authors](../../compare/?t=film-the-man-with-the-golden-gun_682)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1974 • PG • 2h 5m • Adventure, Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Debt Collectors
 
+[Compare across authors](../../compare/?t=film-debt-collectors_647785)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2020 • R • 1h 37m • Action, Comedy, Crime • mobe1969**

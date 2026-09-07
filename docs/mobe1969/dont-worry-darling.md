@@ -1,5 +1,7 @@
 # Don't Worry Darling
 
+[Compare across authors](../../compare/?t=film-dont-worry-darling_619730)
+
 ## DD+ 5.1
 
 **2022 • R • 2h 3m • Thriller, Mystery, Science Fiction • mobe1969**

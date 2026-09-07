@@ -1,5 +1,7 @@
 # Dassehra
 
+[Compare across authors](../../compare/?t=film-dassehra_550488)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 49m • Hindi • Thriller • mobe1969**

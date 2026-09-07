@@ -1,5 +1,7 @@
 # Maximum Risk
 
+[Compare across authors](../../compare/?t=film-maximum-risk_10861)
+
 ## TrueHD 5.1
 
 **1996 • R • 1h 40m • Action • mobe1969**

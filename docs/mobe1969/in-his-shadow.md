@@ -1,5 +1,7 @@
 # In His Shadow
 
+[Compare across authors](../../compare/?t=film-in-his-shadow_948050)
+
 ## DD+ Atmos
 
 **2023 • 15 • 1h 29m • French • Drama, Thriller • mobe1969**

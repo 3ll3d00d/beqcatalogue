@@ -1,5 +1,7 @@
 # Leatherface
 
+[Compare across authors](../../compare/?t=film-leatherface_300665)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 28m • Thriller, Horror, Mystery • mobe1969**

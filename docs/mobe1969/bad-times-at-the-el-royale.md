@@ -1,5 +1,7 @@
 # Bad Times at the El Royale
 
+[Compare across authors](../../compare/?t=film-bad-times-at-the-el-royale_446021)
+
 ## Atmos
 
 **2018 • R • 2h 21m • Thriller, Drama, Mystery, Crime • mobe1969**

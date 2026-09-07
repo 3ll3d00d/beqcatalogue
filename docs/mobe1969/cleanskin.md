@@ -1,5 +1,7 @@
 # Cleanskin
 
+[Compare across authors](../../compare/?t=film-cleanskin_95516)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 48m • Drama, Thriller, Crime • mobe1969**

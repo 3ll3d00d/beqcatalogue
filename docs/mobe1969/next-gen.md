@@ -1,5 +1,7 @@
 # Next Gen
 
+[Compare across authors](../../compare/?t=film-next-gen_523777)
+
 ## DD+ Atmos
 
 **2018 • PG • 1h 45m • Animation, Action, Adventure, Family • mobe1969**

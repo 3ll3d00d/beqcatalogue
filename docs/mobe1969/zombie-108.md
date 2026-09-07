@@ -1,5 +1,7 @@
 # Zombie 108
 
+[Compare across authors](../../compare/?t=film-zombie-108_119471)
+
 ## TrueHD 7.1
 
 **2012 • NR • 1h 28m • Mandarin • Horror, Science Fiction • mobe1969**

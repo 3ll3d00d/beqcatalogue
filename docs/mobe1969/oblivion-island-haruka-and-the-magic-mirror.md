@@ -1,5 +1,7 @@
 # Oblivion Island: Haruka and the Magic Mirror
 
+[Compare across authors](../../compare/?t=film-oblivion-island-haruka-and-the-magic-mirror_39544)
+
 ## TrueHD 5.1
 
 **2009 • NR • 1h 38m • Japanese • Animation, Adventure • mobe1969**

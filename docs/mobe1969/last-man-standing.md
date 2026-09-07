@@ -1,5 +1,7 @@
 # Last Man Standing
 
+[Compare across authors](../../compare/?t=film-last-man-standing_9333)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 1h 41m • Action, Crime, Drama, Thriller, Mystery • mobe1969**

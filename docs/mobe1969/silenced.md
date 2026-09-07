@@ -1,5 +1,7 @@
 # Silenced
 
+[Compare across authors](../../compare/?t=film-silenced_81481)
+
 ## DD+ 5.1
 
 **2011 • NR • 2h 5m • Korean • Drama • mobe1969**

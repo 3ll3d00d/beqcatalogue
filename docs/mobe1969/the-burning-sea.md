@@ -1,5 +1,7 @@
 # The Burning Sea
 
+[Compare across authors](../../compare/?t=film-the-burning-sea_623511)
+
 ## Atmos
 
 **2021 • PG-13 • 1h 44m • Norwegian • Action, Drama, Thriller • mobe1969**

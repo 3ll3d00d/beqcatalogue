@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-truth-be-told_80054)
+
 ## Season 1
 
 * DD+ Atmos

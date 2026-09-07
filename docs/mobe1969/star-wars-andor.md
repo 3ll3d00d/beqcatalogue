@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
+
 ## Season 1
 
 * DD+ Atmos

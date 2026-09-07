@@ -1,5 +1,7 @@
 # Phantom Detective
 
+[Compare across authors](../../compare/?t=film-phantom-detective_394170)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 2h 5m • Korean • Action, Drama • mobe1969**

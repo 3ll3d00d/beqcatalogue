@@ -1,5 +1,7 @@
 # Big Hero 6
 
+[Compare across authors](../../compare/?t=film-big-hero-6_177572)
+
 ## Atmos
 
 **2014 • PG • 1h 42m • Adventure, Family, Animation, Action, Comedy • mobe1969**

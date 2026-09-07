@@ -1,5 +1,7 @@
 # Assembly
 
+[Compare across authors](../../compare/?t=film-assembly_14044)
+
 ## DTS-HD MA 5.1
 
 **2007 • NR • 2h 4m • Mandarin • Action, History • mobe1969**

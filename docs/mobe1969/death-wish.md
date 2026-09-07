@@ -1,5 +1,7 @@
 # Death Wish
 
+[Compare across authors](../../compare/?t=film-death-wish_395990)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 47m • Action, Crime, Drama, Thriller • mobe1969**

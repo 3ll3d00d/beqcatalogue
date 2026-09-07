@@ -1,5 +1,7 @@
 # Apocalypto
 
+[Compare across authors](../../compare/?t=film-apocalypto_1579)
+
 ## LPCM 5.1
 
 **2006 • R • 2h 19m • Mayan • Action, Drama, Adventure, Thriller • mobe1969**

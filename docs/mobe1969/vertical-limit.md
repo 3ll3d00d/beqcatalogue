@@ -1,5 +1,7 @@
 # Vertical Limit
 
+[Compare across authors](../../compare/?t=film-vertical-limit_11678)
+
 ## LPCM 5.1
 
 **2000 • PG-13 • 2h 4m • Action, Thriller, Drama, Adventure • mobe1969**

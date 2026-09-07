@@ -1,5 +1,7 @@
 # On Her Majesty's Secret Service
 
+[Compare across authors](../../compare/?t=film-on-her-majestys-secret-service_668)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1969 • PG • 2h 22m • Adventure, Action, Thriller • mobe1969**

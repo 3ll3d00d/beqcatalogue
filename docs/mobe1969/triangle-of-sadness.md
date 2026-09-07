@@ -1,5 +1,7 @@
 # Triangle of Sadness
 
+[Compare across authors](../../compare/?t=film-triangle-of-sadness_497828)
+
 ## Atmos
 
 **2022 • R • 2h 27m • Comedy, Drama • mobe1969**

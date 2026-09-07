@@ -1,5 +1,7 @@
 # The Croods: A New Age
 
+[Compare across authors](../../compare/?t=film-the-croods-a-new-age_529203)
+
 ## Atmos
 
 **2020 • PG • 1h 35m • Animation, Family, Adventure, Fantasy, Comedy • mobe1969**

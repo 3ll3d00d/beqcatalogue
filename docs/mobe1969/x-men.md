@@ -1,5 +1,7 @@
 # X-Men
 
+[Compare across authors](../../compare/?t=film-x-men_36657)
+
 ## DTS-HD MA 5.1
 
 **2000 • PG-13 • 1h 44m • Adventure, Action, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Honest Thief
 
+[Compare across authors](../../compare/?t=film-honest-thief_553604)
+
 ## DTS-HD MA 7.1, DD+ 5.1
 
 **2020 • PG-13 • 1h 39m • Thriller, Action, Crime, Drama • mobe1969**

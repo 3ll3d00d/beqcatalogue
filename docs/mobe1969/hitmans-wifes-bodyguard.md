@@ -1,5 +1,7 @@
 # Hitman's Wife's Bodyguard
 
+[Compare across authors](../../compare/?t=film-hitmans-wifes-bodyguard_522931)
+
 ## Atmos, DD+ 5.1
 
 Theatrical Cut

@@ -1,5 +1,7 @@
 # In the Name of the King III: The Last Mission
 
+[Compare across authors](../../compare/?t=film-in-the-name-of-the-king-iii-the-last-mission_252360)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 25m • Action, Adventure, Drama, Fantasy • mobe1969**

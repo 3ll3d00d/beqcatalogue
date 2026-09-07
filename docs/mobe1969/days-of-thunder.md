@@ -1,5 +1,7 @@
 # Days of Thunder
 
+[Compare across authors](../../compare/?t=film-days-of-thunder_2119)
+
 ## TrueHD 5.1
 
 **1990 • PG-13 • 1h 47m • Action, Adventure, Drama, Romance • mobe1969**

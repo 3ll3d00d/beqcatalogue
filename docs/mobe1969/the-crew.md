@@ -1,5 +1,7 @@
 # The Crew
 
+[Compare across authors](../../compare/?t=film-the-crew_393717)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 18m • French • Drama, Crime, Thriller • mobe1969**

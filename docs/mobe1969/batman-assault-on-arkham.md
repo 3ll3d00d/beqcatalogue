@@ -1,5 +1,7 @@
 # Batman: Assault on Arkham
 
+[Compare across authors](../../compare/?t=film-batman-assault-on-arkham_242643)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 15m • Thriller, Animation, Action, Crime • mobe1969**

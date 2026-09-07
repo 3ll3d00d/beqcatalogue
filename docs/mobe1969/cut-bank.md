@@ -1,5 +1,7 @@
 # Cut Bank
 
+[Compare across authors](../../compare/?t=film-cut-bank_276902)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 32m • Thriller • mobe1969**

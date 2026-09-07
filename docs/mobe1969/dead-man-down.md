@@ -1,5 +1,7 @@
 # Dead Man Down
 
+[Compare across authors](../../compare/?t=film-dead-man-down_102362)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2013 • R • 1h 58m • Thriller, Crime, Action, Drama • mobe1969**

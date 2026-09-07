@@ -1,5 +1,7 @@
 # Nandor Fodor and the Talking Mongoose
 
+[Compare across authors](../../compare/?t=film-nandor-fodor-and-the-talking-mongoose_979287)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 36m • Mystery, Comedy • mobe1969**

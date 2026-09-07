@@ -1,5 +1,7 @@
 # Ra.One
 
+[Compare across authors](../../compare/?t=film-raone_41517)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 2h 36m • Hindi • Adventure, Action, Science Fiction • mobe1969**

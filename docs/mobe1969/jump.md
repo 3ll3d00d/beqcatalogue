@@ -1,5 +1,7 @@
 # Jump
 
+[Compare across authors](../../compare/?t=film-jump_37528)
+
 ## DD+ 5.1
 
 **2009 • NR • 1h 27m • Mandarin • Comedy, Drama • mobe1969**

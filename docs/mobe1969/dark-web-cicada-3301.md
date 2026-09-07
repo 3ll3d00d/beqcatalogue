@@ -1,5 +1,7 @@
 # Dark Web: Cicada 3301
 
+[Compare across authors](../../compare/?t=film-dark-web-cicada-3301_791469)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 44m • Thriller, Action, Comedy • mobe1969**

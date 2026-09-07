@@ -1,5 +1,7 @@
 # GARO: Red Requiem
 
+[Compare across authors](../../compare/?t=film-garo-red-requiem_75930)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 37m • Japanese • Action, Adventure, Fantasy, Thriller • mobe1969**

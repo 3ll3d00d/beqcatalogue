@@ -1,5 +1,7 @@
 # Hell
 
+[Compare across authors](../../compare/?t=film-hell_73262)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 29m • German • Horror, Science Fiction, Thriller, Mystery • mobe1969**

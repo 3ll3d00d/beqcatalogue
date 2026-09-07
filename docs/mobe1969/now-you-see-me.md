@@ -1,5 +1,7 @@
 # Now You See Me
 
+[Compare across authors](../../compare/?t=film-now-you-see-me_75656)
+
 ## Atmos
 
 **2013 • PG-13 • 1h 56m • Thriller, Crime • mobe1969**

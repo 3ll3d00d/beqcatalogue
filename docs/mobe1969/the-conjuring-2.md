@@ -1,5 +1,7 @@
 # The Conjuring 2
 
+[Compare across authors](../../compare/?t=film-the-conjuring-2_259693)
+
 ## Atmos, DD+ 5.1
 
 **2016 • R • 2h 14m • Horror, Mystery, Thriller • mobe1969**

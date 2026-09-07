@@ -1,5 +1,7 @@
 # The Last Exorcism
 
+[Compare across authors](../../compare/?t=film-the-last-exorcism_38358)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 27m • Drama, Thriller, Horror • mobe1969**

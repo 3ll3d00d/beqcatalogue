@@ -1,5 +1,7 @@
 # Dragon Blade
 
+[Compare across authors](../../compare/?t=film-dragon-blade_300168)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 2h 7m • Adventure, History • mobe1969**

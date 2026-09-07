@@ -1,5 +1,7 @@
 # The Last Frontier
 
+[Compare across authors](../../compare/?t=film-the-last-frontier_579831)
+
 ## DTS-HD MA 5.1
 
 **2020 • 15 • 2h 22m • Russian • War, Drama, History • mobe1969**

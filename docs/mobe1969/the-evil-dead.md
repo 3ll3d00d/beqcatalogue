@@ -1,5 +1,7 @@
 # The Evil Dead
 
+[Compare across authors](../../compare/?t=film-the-evil-dead_764)
+
 ## TrueHD 5.1
 
 **1981 • NC-17 • 1h 25m • Horror • mobe1969**

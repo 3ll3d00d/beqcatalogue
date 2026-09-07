@@ -1,5 +1,7 @@
 # Flight of the Intruder
 
+[Compare across authors](../../compare/?t=film-flight-of-the-intruder_18886)
+
 ## DTS-HD MA 5.1
 
 **1991 • PG-13 • 1h 55m • Action, War • mobe1969**

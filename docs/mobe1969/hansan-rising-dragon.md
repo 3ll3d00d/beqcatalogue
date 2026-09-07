@@ -1,5 +1,7 @@
 # Hansan: Rising Dragon
 
+[Compare across authors](../../compare/?t=film-hansan-rising-dragon_588108)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 2h 10m • Korean • History, Action, Drama, War • mobe1969**

@@ -1,5 +1,7 @@
 # 13 Assassins
 
+[Compare across authors](../../compare/?t=film-13-assassins_58857)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 2h 21m • Japanese • Action, Adventure, Drama • mobe1969**

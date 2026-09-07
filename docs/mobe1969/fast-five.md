@@ -1,5 +1,7 @@
 # Fast Five
 
+[Compare across authors](../../compare/?t=film-fast-five_51497)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

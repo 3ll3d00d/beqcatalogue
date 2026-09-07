@@ -1,5 +1,7 @@
 # Alienoid
 
+[Compare across authors](../../compare/?t=film-alienoid_601796)
+
 ## Atmos
 
 **2022 • NR • 2h 23m • Korean • Science Fiction, Action, Fantasy, Adventure • mobe1969**

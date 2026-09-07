@@ -1,5 +1,7 @@
 # Frailty
 
+[Compare across authors](../../compare/?t=film-frailty_12149)
+
 ## DTS-HD MA 7.1
 
 **2001 • R • 1h 40m • Crime, Thriller, Drama • mobe1969**

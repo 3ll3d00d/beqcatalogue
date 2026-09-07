@@ -1,5 +1,7 @@
 # The Paramedic
 
+[Compare across authors](../../compare/?t=film-the-paramedic_701175)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 34m • Spanish • Thriller • mobe1969**

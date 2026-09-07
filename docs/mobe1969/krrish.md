@@ -1,5 +1,7 @@
 # Krrish
 
+[Compare across authors](../../compare/?t=film-krrish_32740)
+
 ## DD+ 5.1
 
 **2006 • PG • 2h 54m • Hindi • Action, Science Fiction • mobe1969**

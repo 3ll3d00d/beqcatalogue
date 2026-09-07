@@ -1,5 +1,7 @@
 # The Star
 
+[Compare across authors](../../compare/?t=film-the-star_355547)
+
 ## DD+ 5.1
 
 **2017 • PG • 1h 26m • Comedy, Adventure, Family, Fantasy, Animation • mobe1969**

@@ -1,5 +1,7 @@
 # Naam Shabana
 
+[Compare across authors](../../compare/?t=film-naam-shabana_441071)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 27m • Hindi • Thriller • mobe1969**

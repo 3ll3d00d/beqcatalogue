@@ -1,5 +1,7 @@
 # Detective Dee and the Mystery of the Phantom Flame
 
+[Compare across authors](../../compare/?t=film-detective-dee-and-the-mystery-of-the-phantom-flame_48492)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 59m • Cantonese • Action, Adventure, Drama, Mystery • mobe1969**

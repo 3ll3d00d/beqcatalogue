@@ -1,5 +1,7 @@
 # The Skeleton Key
 
+[Compare across authors](../../compare/?t=film-the-skeleton-key_9913)
+
 ## DTS-HD MA 5.1
 
 **2005 • PG-13 • 1h 44m • Drama, Horror, Mystery, Thriller • mobe1969**

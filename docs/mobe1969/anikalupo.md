@@ -1,5 +1,7 @@
 # Anikalupo
 
+[Compare across authors](../../compare/?t=film-anikalupo_1023994)
+
 ## DD+ 5.1
 
 **2022 • R • 2h 22m • Yoruba • Drama, Fantasy • mobe1969**

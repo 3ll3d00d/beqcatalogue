@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-sandman_90802)
+
 ## Season 1
 
 * DD+ Atmos

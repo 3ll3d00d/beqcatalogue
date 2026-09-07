@@ -1,5 +1,7 @@
 # Close Range
 
+[Compare across authors](../../compare/?t=film-close-range_325173)
+
 ## DTS-HD MA 5.1
 
 **2015 • 15 • 1h 20m • Action, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # On His Majesty's Secret Service
 
+[Compare across authors](../../compare/?t=film-on-his-majestys-secret-service_26929)
+
 ## TrueHD 5.1
 
 **2009 • NR • 1h 37m • Cantonese • Comedy, Action • mobe1969**

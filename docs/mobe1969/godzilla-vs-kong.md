@@ -1,5 +1,7 @@
 # Godzilla vs. Kong
 
+[Compare across authors](../../compare/?t=film-godzilla-vs-kong_399566)
+
 ## Atmos
 
 **2021 • PG-13 • 1h 53m • Fantasy, Adventure, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Golmaal Again
 
+[Compare across authors](../../compare/?t=film-golmaal-again_472123)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 31m • Hindi • Comedy, Horror, Action, Fantasy • mobe1969**

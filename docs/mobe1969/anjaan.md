@@ -1,5 +1,7 @@
 # Anjaan
 
+[Compare across authors](../../compare/?t=film-anjaan_278258)
+
 ## DD+ 5.1
 
 **2014 • NR • 2h 50m • Tamil • Action, Thriller, Crime • mobe1969**

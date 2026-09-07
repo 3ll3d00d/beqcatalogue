@@ -1,5 +1,7 @@
 # Mimic: Sentinel
 
+[Compare across authors](../../compare/?t=film-mimic-sentinel_33005)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 17m • Horror, Science Fiction, Thriller • mobe1969**

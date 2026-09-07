@@ -1,5 +1,7 @@
 # Perrier's Bounty
 
+[Compare across authors](../../compare/?t=film-perriers-bounty_41009)
+
 ## DD 5.1
 
 **2009 • R • 1h 28m • Action, Comedy, Crime, Drama • mobe1969**

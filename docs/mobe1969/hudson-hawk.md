@@ -1,5 +1,7 @@
 # Hudson Hawk
 
+[Compare across authors](../../compare/?t=film-hudson-hawk_9292)
+
 ## DTS-HD MA 2.0
 
 **1991 • R • 1h 40m • Action, Adventure, Comedy • mobe1969**

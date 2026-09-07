@@ -1,5 +1,7 @@
 # Guardians
 
+[Compare across authors](../../compare/?t=film-guardians_354556)
+
 ## DTS-HD MA 5.1
 
 **2017 • 12 • 1h 29m • Russian • Action, Adventure, Comedy, Fantasy, Science Fiction, Thriller • mobe1969**

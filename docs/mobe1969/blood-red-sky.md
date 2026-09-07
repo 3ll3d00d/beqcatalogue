@@ -1,5 +1,7 @@
 # Blood Red Sky
 
+[Compare across authors](../../compare/?t=film-blood-red-sky_760883)
+
 ## DD+ 5.1
 
 **2021 • 18 • 2h 1m • German • Horror, Thriller, Action • mobe1969**

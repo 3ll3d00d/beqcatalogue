@@ -1,5 +1,7 @@
 # Street Kings 2: Motor City
 
+[Compare across authors](../../compare/?t=film-street-kings-2-motor-city_58625)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 33m • Crime, Drama, Thriller • mobe1969**

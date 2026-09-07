@@ -1,5 +1,7 @@
 # Babylon A.D.
 
+[Compare across authors](../../compare/?t=film-babylon-ad_9381)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG-13 • 1h 41m • Science Fiction, Action, Thriller, Adventure • mobe1969**

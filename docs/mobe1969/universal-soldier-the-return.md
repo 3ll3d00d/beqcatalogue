@@ -1,5 +1,7 @@
 # Universal Soldier: The Return
 
+[Compare across authors](../../compare/?t=film-universal-soldier-the-return_10366)
+
 ## TrueHD 5.1
 
 **1999 • R • 1h 22m • Science Fiction, Action • mobe1969**

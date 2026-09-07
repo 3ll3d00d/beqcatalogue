@@ -1,5 +1,7 @@
 # Arizona
 
+[Compare across authors](../../compare/?t=film-arizona_490004)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 25m • Comedy, Thriller • mobe1969**

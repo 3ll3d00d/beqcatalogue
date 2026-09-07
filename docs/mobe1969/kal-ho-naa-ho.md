@@ -1,5 +1,7 @@
 # Kal Ho Naa Ho
 
+[Compare across authors](../../compare/?t=film-kal-ho-naa-ho_4254)
+
 ## DD+ 5.1
 
 **2003 • PG • 3h 7m • Hindi • Comedy, Drama, Romance • mobe1969**

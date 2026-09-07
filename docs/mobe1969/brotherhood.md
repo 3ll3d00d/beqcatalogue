@@ -1,5 +1,7 @@
 # Brotherhood
 
+[Compare across authors](../../compare/?t=film-brotherhood_1042978)
+
 ## DD+ 5.1
 
 **2022 • NR • 0h 0m • Crime, Thriller • mobe1969**

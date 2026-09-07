@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-1000-walls-in-dream_93683)
+
 ## Season 1
 
 * DD+ 2.0

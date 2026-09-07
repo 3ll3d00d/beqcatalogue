@@ -1,5 +1,7 @@
 # Angels & Demons
 
+[Compare across authors](../../compare/?t=film-angels-demons_13448)
+
 ## Atmos
 
 **2009 • PG-13 • 2h 18m • Thriller, Mystery • mobe1969**

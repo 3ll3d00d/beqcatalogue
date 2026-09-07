@@ -1,5 +1,7 @@
 # Kill Switch
 
+[Compare across authors](../../compare/?t=film-kill-switch_423988)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 31m • Action, Science Fiction, Thriller • mobe1969**

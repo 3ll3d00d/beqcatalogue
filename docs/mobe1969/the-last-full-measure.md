@@ -1,5 +1,7 @@
 # The Last Full Measure
 
+[Compare across authors](../../compare/?t=film-the-last-full-measure_442065)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 50m • Drama, War • mobe1969**

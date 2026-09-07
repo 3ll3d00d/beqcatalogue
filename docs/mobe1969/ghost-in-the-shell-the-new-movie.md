@@ -1,5 +1,7 @@
 # Ghost in the Shell: The New Movie
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell-the-new-movie_334376)
+
 ## TrueHD 5.1
 
 **2015 • 15 • 1h 40m • Japanese • Science Fiction, Animation • mobe1969**

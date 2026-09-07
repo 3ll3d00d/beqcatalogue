@@ -1,5 +1,7 @@
 # Attack
 
+[Compare across authors](../../compare/?t=film-attack_799155)
+
 ## DD+ 5.1
 
 **2022 • 15 • 2h 3m • Hindi • Action, Science Fiction, Thriller • mobe1969**

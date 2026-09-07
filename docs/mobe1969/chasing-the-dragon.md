@@ -1,5 +1,7 @@
 # Chasing the Dragon
 
+[Compare across authors](../../compare/?t=film-chasing-the-dragon_449927)
+
 ## TrueHD 7.1
 
 **2017 • NR • 2h 8m • Cantonese • Action, Crime, History • mobe1969**

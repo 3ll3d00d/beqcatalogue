@@ -1,5 +1,7 @@
 # Deranged
 
+[Compare across authors](../../compare/?t=film-deranged_121491)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 49m • Korean • Thriller • mobe1969**

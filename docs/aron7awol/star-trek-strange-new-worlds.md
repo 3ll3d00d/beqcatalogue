@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-star-trek-strange-new-worlds_103516)
+
 ## Season 1
 
 * DD+

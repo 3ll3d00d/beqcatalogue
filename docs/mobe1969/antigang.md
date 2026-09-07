@@ -1,5 +1,7 @@
 # Antigang
 
+[Compare across authors](../../compare/?t=film-antigang_348060)
+
 ## DTS-HD MA 5.1
 
 **2015 • 15 • 1h 32m • French • Action, Drama • mobe1969**

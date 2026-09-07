@@ -1,5 +1,7 @@
 # The Devil All The Time
 
+[Compare across authors](../../compare/?t=film-the-devil-all-the-time_499932)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2020 • R • 2h 18m • Crime, Drama, Thriller • mobe1969**

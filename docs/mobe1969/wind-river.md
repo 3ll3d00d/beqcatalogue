@@ -1,5 +1,7 @@
 # Wind River
 
+[Compare across authors](../../compare/?t=film-wind-river_395834)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 47m • Crime, Drama, Mystery, Thriller • mobe1969**

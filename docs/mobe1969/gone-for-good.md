@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-gone-for-good_128068)
+
 ## Season 1
 
 * DD+ 5.1

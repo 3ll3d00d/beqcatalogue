@@ -1,5 +1,7 @@
 # Along with the Gods: The Last 49 Days
 
+[Compare across authors](../../compare/?t=film-along-with-the-gods-the-last-49-days_518068)
+
 ## DTS-X
 
 **2018 • NR • 2h 21m • Korean • Drama, Fantasy, Action • mobe1969**

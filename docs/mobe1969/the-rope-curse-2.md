@@ -1,5 +1,7 @@
 # The Rope Curse 2
 
+[Compare across authors](../../compare/?t=film-the-rope-curse-2_737519)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 44m • Mandarin • Horror • mobe1969**

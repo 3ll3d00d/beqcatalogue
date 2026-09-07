@@ -1,5 +1,7 @@
 # Riders of Justice
 
+[Compare across authors](../../compare/?t=film-riders-of-justice_663870)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2020 • NR • 1h 56m • Danish • Action, Comedy, Drama • mobe1969**

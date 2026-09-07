@@ -1,5 +1,7 @@
 # The Dry
 
+[Compare across authors](../../compare/?t=film-the-dry_567797)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 57m • Drama, Crime, Mystery, Thriller • mobe1969**

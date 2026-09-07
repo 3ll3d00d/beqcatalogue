@@ -1,5 +1,7 @@
 # Appleseed: Ex Machina
 
+[Compare across authors](../../compare/?t=film-appleseed-ex-machina_13981)
+
 ## DD 5.1
 
 **2007 • PG-13 • 1h 45m • Japanese • Action, Animation, Science Fiction, Thriller • mobe1969**

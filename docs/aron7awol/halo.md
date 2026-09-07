@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-halo_52814)
+
 ## Season 1
 
 * Atmos

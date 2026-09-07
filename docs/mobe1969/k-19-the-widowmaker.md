@@ -1,5 +1,7 @@
 # K-19: The Widowmaker
 
+[Compare across authors](../../compare/?t=film-k-19-the-widowmaker_8665)
+
 ## TrueHD 5.1
 
 **2002 • PG-13 • 2h 18m • History, War, Mystery, Drama, Thriller • mobe1969**

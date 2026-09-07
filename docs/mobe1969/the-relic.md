@@ -1,5 +1,7 @@
 # The Relic
 
+[Compare across authors](../../compare/?t=film-the-relic_11015)
+
 ## DTS-HD MA 7.1
 
 **1997 • R • 1h 50m • Thriller, Mystery, Horror • mobe1969**

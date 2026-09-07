@@ -1,5 +1,7 @@
 # The Collective
 
+[Compare across authors](../../compare/?t=film-the-collective_1060090)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 26m • Action, Thriller • mobe1969**

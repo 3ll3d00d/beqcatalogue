@@ -1,5 +1,7 @@
 # The Chronicles of Narnia: Voyage of the Dawn Treader
 
+[Compare across authors](../../compare/?t=film-the-chronicles-of-narnia-voyage-of-the-dawn-treader_10140)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG • 1h 53m • Adventure, Fantasy, Family • mobe1969**

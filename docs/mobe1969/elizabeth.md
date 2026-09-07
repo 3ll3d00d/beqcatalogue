@@ -1,5 +1,7 @@
 # Elizabeth
 
+[Compare across authors](../../compare/?t=film-elizabeth_4518)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 2h 4m • Drama, History • mobe1969**

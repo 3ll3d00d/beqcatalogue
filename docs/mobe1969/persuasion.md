@@ -1,5 +1,7 @@
 # Persuasion
 
+[Compare across authors](../../compare/?t=film-persuasion_820912)
+
 ## DD+ Atmos
 
 **2022 • PG • 1h 47m • Romance, Drama, Comedy • mobe1969**

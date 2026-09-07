@@ -1,5 +1,7 @@
 # Game Over, Man!
 
+[Compare across authors](../../compare/?t=film-game-over-man_456750)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 40m • Action, Comedy • mobe1969**

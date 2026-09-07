@@ -1,5 +1,7 @@
 # Spies in Disguise
 
+[Compare across authors](../../compare/?t=film-spies-in-disguise_431693)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2019 • PG • 1h 42m • Animation, Action, Adventure, Comedy, Family • mobe1969**

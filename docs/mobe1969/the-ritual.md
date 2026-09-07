@@ -1,5 +1,7 @@
 # The Ritual
 
+[Compare across authors](../../compare/?t=film-the-ritual_433808)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2017 • R • 1h 34m • Horror, Thriller, Mystery • mobe1969**

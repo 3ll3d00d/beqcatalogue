@@ -1,5 +1,7 @@
 # The Grief Tourist
 
+[Compare across authors](../../compare/?t=film-the-grief-tourist_204882)
+
 ## DTS-HD MA 5.1
 
 **2013 • R18+ • 1h 24m • Thriller, Drama • mobe1969**

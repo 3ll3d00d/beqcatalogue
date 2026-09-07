@@ -1,5 +1,7 @@
 # Bliss
 
+[Compare across authors](../../compare/?t=film-bliss_613911)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 43m • Science Fiction, Romance, Drama • mobe1969**

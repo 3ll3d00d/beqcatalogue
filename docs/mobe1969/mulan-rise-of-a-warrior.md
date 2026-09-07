@@ -1,5 +1,7 @@
 # Mulan: Rise of a Warrior
 
+[Compare across authors](../../compare/?t=film-mulan-rise-of-a-warrior_32909)
+
 ## DTS-HD MA 5.1
 
 **2009 • M • 1h 55m • Mandarin • Adventure, Drama, Action • mobe1969**

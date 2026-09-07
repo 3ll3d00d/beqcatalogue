@@ -1,5 +1,7 @@
 # Dredd
 
+[Compare across authors](../../compare/?t=film-dredd_49049)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2012 • R • 1h 35m • Action, Science Fiction • mobe1969**

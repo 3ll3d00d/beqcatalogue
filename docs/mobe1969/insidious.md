@@ -1,5 +1,7 @@
 # Insidious
 
+[Compare across authors](../../compare/?t=film-insidious_49018)
+
 ## Atmos
 
 **2010 • PG-13 • 1h 43m • Horror, Thriller • mobe1969**

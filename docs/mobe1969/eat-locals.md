@@ -1,5 +1,7 @@
 # Eat Locals
 
+[Compare across authors](../../compare/?t=film-eat-locals_412758)
+
 ## DD+ 5.1
 
 **2017 • 15 • 1h 33m • Action, Comedy, Horror • mobe1969**

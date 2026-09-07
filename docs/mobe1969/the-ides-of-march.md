@@ -1,5 +1,7 @@
 # The Ides of March
 
+[Compare across authors](../../compare/?t=film-the-ides-of-march_10316)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 41m • Drama • mobe1969**

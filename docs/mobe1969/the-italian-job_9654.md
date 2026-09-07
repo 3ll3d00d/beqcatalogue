@@ -1,5 +1,7 @@
 # The Italian Job
 
+[Compare across authors](../../compare/?t=film-the-italian-job_9654)
+
 ## DD 5.1
 
 **2003 • PG-13 • 1h 50m • Crime, Action • mobe1969**

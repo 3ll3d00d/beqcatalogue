@@ -1,5 +1,7 @@
 # Wedding Season
 
+[Compare across authors](../../compare/?t=film-wedding-season_818612)
+
 ## DD+ Atmos
 
 **2022 • NR • 1h 39m • Romance, Comedy • mobe1969**

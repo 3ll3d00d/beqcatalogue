@@ -1,5 +1,7 @@
 # The Unholy
 
+[Compare across authors](../../compare/?t=film-the-unholy_632357)
+
 ## DTS-HD MA 5.1
 
 **2021 • PG-13 • 1h 39m • Horror • mobe1969**

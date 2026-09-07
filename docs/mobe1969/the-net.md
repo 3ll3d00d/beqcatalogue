@@ -1,5 +1,7 @@
 # The Net
 
+[Compare across authors](../../compare/?t=film-the-net_1642)
+
 ## DTS-HD MA 5.1
 
 **1995 • PG-13 • 1h 54m • Crime, Drama, Mystery, Thriller, Action • mobe1969**

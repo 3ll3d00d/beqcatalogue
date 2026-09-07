@@ -1,5 +1,7 @@
 # Resistance
 
+[Compare across authors](../../compare/?t=film-resistance_96944)
+
 ## DTS-HD MA 5.1
 
 **2011 • 15 • 1h 32m • War, Drama, Thriller • mobe1969**

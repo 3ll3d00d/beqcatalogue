@@ -1,5 +1,7 @@
 # Bloody Sunday
 
+[Compare across authors](../../compare/?t=film-bloody-sunday_4107)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 1h 47m • Drama, History • mobe1969**

@@ -1,5 +1,7 @@
 # Black Panther
 
+[Compare across authors](../../compare/?t=film-black-panther_284054)
+
 ## Atmos
 
 **2018 • PG-13 • 2h 14m • Action, Adventure, Science Fiction • mobe1969**

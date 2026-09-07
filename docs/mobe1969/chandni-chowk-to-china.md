@@ -1,5 +1,7 @@
 # Chandni Chowk to China
 
+[Compare across authors](../../compare/?t=film-chandni-chowk-to-china_20002)
+
 ## DD+ 5.1
 
 **2009 • NR • 2h 34m • Hindi • Action, Comedy • mobe1969**

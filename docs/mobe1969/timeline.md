@@ -1,5 +1,7 @@
 # Timeline
 
+[Compare across authors](../../compare/?t=film-timeline_9562)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG-13 • 1h 56m • Action, Adventure, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # The Mule
 
+[Compare across authors](../../compare/?t=film-the-mule_253272)
+
 ## DD+ 5.1
 
 **2014 • 15 • 1h 43m • Crime, Comedy • mobe1969**

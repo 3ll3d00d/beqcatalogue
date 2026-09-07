@@ -1,5 +1,7 @@
 # Go
 
+[Compare across authors](../../compare/?t=film-go_9430)
+
 ## TrueHD 5.1
 
 **1999 • R • 1h 38m • Crime, Thriller, Comedy • mobe1969**

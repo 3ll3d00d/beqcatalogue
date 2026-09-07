@@ -1,5 +1,7 @@
 # The Warlords
 
+[Compare across authors](../../compare/?t=film-the-warlords_14392)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 2h 6m • Mandarin • Action, Drama, History • mobe1969**

@@ -1,5 +1,7 @@
 # The Edge
 
+[Compare across authors](../../compare/?t=film-the-edge_9433)
+
 ## DTS-HD MA 5.1
 
 **1997 • R • 1h 57m • Action, Adventure, Drama • mobe1969**

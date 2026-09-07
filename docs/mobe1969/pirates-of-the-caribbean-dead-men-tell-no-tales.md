@@ -1,5 +1,7 @@
 # Pirates of the Caribbean: Dead Men Tell No Tales
 
+[Compare across authors](../../compare/?t=film-pirates-of-the-caribbean-dead-men-tell-no-tales_166426)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2017 • PG-13 • 2h 9m • Adventure, Action, Fantasy • mobe1969**

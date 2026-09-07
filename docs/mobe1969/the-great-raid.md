@@ -1,5 +1,7 @@
 # The Great Raid
 
+[Compare across authors](../../compare/?t=film-the-great-raid_13922)
+
 ## LPCM 5.1
 
 **2005 • R • 2h 12m • Action, War, History • mobe1969**

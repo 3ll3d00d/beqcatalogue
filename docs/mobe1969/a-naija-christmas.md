@@ -1,5 +1,7 @@
 # A Naija Christmas
 
+[Compare across authors](../../compare/?t=film-a-naija-christmas_882102)
+
 ## DD+ 5.1
 
 **2021 • 12 • 2h 1m • Comedy, Romance • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-i-know-what-you-did-last-summer_129680)
+
 ## Season 1
 
 * DD+ 5.1

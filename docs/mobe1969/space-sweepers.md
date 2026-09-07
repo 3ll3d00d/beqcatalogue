@@ -1,5 +1,7 @@
 # Space Sweepers
 
+[Compare across authors](../../compare/?t=film-space-sweepers_581389)
+
 ## DD+ 5.1
 
 **2021 • R • 2h 16m • Korean • Drama, Fantasy, Science Fiction • mobe1969**

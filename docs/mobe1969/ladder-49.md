@@ -1,5 +1,7 @@
 # Ladder 49
 
+[Compare across authors](../../compare/?t=film-ladder-49_11128)
+
 ## LPCM 5.1
 
 **2004 • PG-13 • 1h 55m • Drama, Action, Thriller • mobe1969**

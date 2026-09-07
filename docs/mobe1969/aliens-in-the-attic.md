@@ -1,5 +1,7 @@
 # Aliens in the Attic
 
+[Compare across authors](../../compare/?t=film-aliens-in-the-attic_20856)
+
 ## DD+ 5.1
 
 **2009 • PG • 1h 26m • Adventure, Comedy, Family, Fantasy, Science Fiction • mobe1969**

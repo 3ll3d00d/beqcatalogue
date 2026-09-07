@@ -1,5 +1,7 @@
 # Dhoom 2
 
+[Compare across authors](../../compare/?t=film-dhoom-2_14194)
+
 ## DD+ 5.1
 
 **2006 • PG-13 • 2h 27m • Hindi • Drama, Action, Thriller, Crime • mobe1969**

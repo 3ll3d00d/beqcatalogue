@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-sound-of-magic_123349)
+
 ## Season 1
 
 * DD+ 5.1

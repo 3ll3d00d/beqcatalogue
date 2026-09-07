@@ -1,5 +1,7 @@
 # The Fall
 
+[Compare across authors](../../compare/?t=film-the-fall_14784)
+
 ## DTS-HD MA 5.1
 
 **2006 • R • 1h 57m • Adventure, Fantasy, Drama • mobe1969**

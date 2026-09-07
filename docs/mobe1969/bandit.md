@@ -1,5 +1,7 @@
 # Bandit
 
+[Compare across authors](../../compare/?t=film-bandit_842942)
+
 ## DD+ 5.1
 
 **2022 • R • 2h 6m • Crime, Drama, Thriller • mobe1969**

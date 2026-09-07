@@ -1,5 +1,7 @@
 # Soorarai Pottru
 
+[Compare across authors](../../compare/?t=film-soorarai-pottru_595228)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 29m • Tamil • Drama, Action • mobe1969**

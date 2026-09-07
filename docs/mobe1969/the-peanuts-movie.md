@@ -1,5 +1,7 @@
 # The Peanuts Movie
 
+[Compare across authors](../../compare/?t=film-the-peanuts-movie_227973)
+
 ## Atmos
 
 **2015 • G • 1h 28m • Adventure, Comedy, Animation, Family • mobe1969**

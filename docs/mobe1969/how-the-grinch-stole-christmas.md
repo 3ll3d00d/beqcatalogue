@@ -1,5 +1,7 @@
 # How the Grinch Stole Christmas
 
+[Compare across authors](../../compare/?t=film-how-the-grinch-stole-christmas_8871)
+
 ## DTS-HD MA 7.1
 
 **2000 • PG • 1h 44m • Family, Comedy, Fantasy • mobe1969**

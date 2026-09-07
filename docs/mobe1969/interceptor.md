@@ -1,5 +1,7 @@
 # Interceptor
 
+[Compare across authors](../../compare/?t=film-interceptor_831946)
+
 ## DD+ Atmos
 
 **2022 • MA15+ • 1h 38m • Action, Thriller, Adventure, Drama • mobe1969**

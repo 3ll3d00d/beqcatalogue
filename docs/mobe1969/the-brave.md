@@ -1,5 +1,7 @@
 # The Brave
 
+[Compare across authors](../../compare/?t=film-the-brave_541768)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 43m • Action, Thriller, Crime • mobe1969**

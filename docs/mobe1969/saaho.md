@@ -1,5 +1,7 @@
 # Saaho
 
+[Compare across authors](../../compare/?t=film-saaho_454292)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 51m • Hindi • Action, Thriller • mobe1969**

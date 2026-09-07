@@ -1,5 +1,7 @@
 # Asphalt Burning
 
+[Compare across authors](../../compare/?t=film-asphalt-burning_505746)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 40m • Norwegian • Action, Comedy • mobe1969**

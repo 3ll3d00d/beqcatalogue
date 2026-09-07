@@ -1,5 +1,7 @@
 # Entrapment
 
+[Compare across authors](../../compare/?t=film-entrapment_1844)
+
 ## DD+ 5.1
 
 **1999 • PG-13 • 1h 52m • Romance, Drama, Mystery • mobe1969**

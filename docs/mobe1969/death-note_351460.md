@@ -1,5 +1,7 @@
 # Death Note
 
+[Compare across authors](../../compare/?t=film-death-note_351460)
+
 ## DD+ 5.1
 
 **2017 • 18 • 1h 41m • Crime, Drama, Fantasy, Horror, Thriller • mobe1969**

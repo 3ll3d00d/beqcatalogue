@@ -1,5 +1,7 @@
 # Journey to the West: The Demons Strike Back
 
+[Compare across authors](../../compare/?t=film-journey-to-the-west-the-demons-strike-back_435800)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG-13 • 1h 49m • Mandarin • Adventure, Fantasy, Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Butterfly Effect
 
+[Compare across authors](../../compare/?t=film-the-butterfly-effect_1954)
+
 ## DTS-HD MA 5.1
 
 **2004 • R • 1h 59m • Science Fiction, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Berserk: The Golden Age Arc I - The Egg of the King
 
+[Compare across authors](../../compare/?t=film-berserk-the-golden-age-arc-i-the-egg-of-the-king_113082)
+
 ## DTS-HD MA 5.1
 
 **2012 • 16 • 1h 16m • Japanese • Animation, Adventure, Fantasy, Action • mobe1969**

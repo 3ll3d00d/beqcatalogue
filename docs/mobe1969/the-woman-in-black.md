@@ -1,5 +1,7 @@
 # The Woman in Black
 
+[Compare across authors](../../compare/?t=film-the-woman-in-black_65086)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 35m • Horror, Drama, Thriller • mobe1969**

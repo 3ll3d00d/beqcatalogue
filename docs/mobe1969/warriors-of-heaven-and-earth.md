@@ -1,5 +1,7 @@
 # Warriors of Heaven and Earth
 
+[Compare across authors](../../compare/?t=film-warriors-of-heaven-and-earth_14797)
+
 ## DD+ 5.1
 
 **2003 • NR • 1h 54m • Mandarin • Drama, Action, Adventure • mobe1969**

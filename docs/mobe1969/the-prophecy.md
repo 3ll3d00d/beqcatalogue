@@ -1,5 +1,7 @@
 # The Prophecy
 
+[Compare across authors](../../compare/?t=film-the-prophecy_11980)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 1h 38m • Horror, Fantasy, Thriller • mobe1969**

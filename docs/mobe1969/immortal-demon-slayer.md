@@ -1,5 +1,7 @@
 # Immortal Demon Slayer
 
+[Compare across authors](../../compare/?t=film-immortal-demon-slayer_452910)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 2h 10m • Mandarin • Fantasy, Action, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Saving General Yang
 
+[Compare across authors](../../compare/?t=film-saving-general-yang_181009)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 42m • Mandarin • Action, Adventure, History • mobe1969**

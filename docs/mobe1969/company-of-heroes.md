@@ -1,5 +1,7 @@
 # Company of Heroes
 
+[Compare across authors](../../compare/?t=film-company-of-heroes_168676)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 0h 0m • War, Drama • mobe1969**

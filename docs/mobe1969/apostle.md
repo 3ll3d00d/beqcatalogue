@@ -1,5 +1,7 @@
 # Apostle
 
+[Compare across authors](../../compare/?t=film-apostle_424121)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 10m • Horror, Mystery, Thriller, Drama • mobe1969**

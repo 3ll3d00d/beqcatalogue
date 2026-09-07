@@ -1,5 +1,7 @@
 # Demonic
 
+[Compare across authors](../../compare/?t=film-demonic_234212)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 23m • Thriller, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Bhoot: Part One - The Haunted Ship
 
+[Compare across authors](../../compare/?t=film-bhoot-part-one-the-haunted-ship_616880)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 54m • Hindi • Horror, Thriller • mobe1969**

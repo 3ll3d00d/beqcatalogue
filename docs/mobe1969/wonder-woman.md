@@ -1,5 +1,7 @@
 # Wonder Woman
 
+[Compare across authors](../../compare/?t=film-wonder-woman_297762)
+
 ## Atmos
 
 **2017 • PG-13 • 2h 21m • Action, Adventure, Fantasy • mobe1969**

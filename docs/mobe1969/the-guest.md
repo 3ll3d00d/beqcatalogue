@@ -1,5 +1,7 @@
 # The Guest
 
+[Compare across authors](../../compare/?t=film-the-guest_241848)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 40m • Thriller, Action, Mystery • mobe1969**

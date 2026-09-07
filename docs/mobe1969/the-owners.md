@@ -1,5 +1,7 @@
 # The Owners
 
+[Compare across authors](../../compare/?t=film-the-owners_659986)
+
 ## DD+ 5.1
 
 **2020 • 18 • 1h 32m • Thriller, Horror • mobe1969**

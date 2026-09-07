@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-in-the-name-of-god-a-holy-betrayal_218476)
+
 ## Season 1
 
 * DD+ 5.1

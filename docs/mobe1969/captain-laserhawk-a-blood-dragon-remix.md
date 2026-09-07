@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-captain-laserhawk-a-blood-dragon-remix_127372)
+
 ## Season 1
 
 * DD+ Atmos

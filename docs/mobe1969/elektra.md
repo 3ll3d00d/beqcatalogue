@@ -1,5 +1,7 @@
 # Elektra
 
+[Compare across authors](../../compare/?t=film-elektra_9947)
+
 ## DD+ 5.1
 
 Theatrical Cut

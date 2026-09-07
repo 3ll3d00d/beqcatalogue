@@ -1,5 +1,7 @@
 # The Blackening
 
+[Compare across authors](../../compare/?t=film-the-blackening_1008392)
+
 ## Atmos
 
 **2023 • R • 1h 37m • Horror, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Friday
 
+[Compare across authors](../../compare/?t=film-friday_10634)
+
 ## TrueHD 7.1
 
 Director's Cut

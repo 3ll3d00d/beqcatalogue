@@ -1,5 +1,7 @@
 # Velvet Buzzsaw
 
+[Compare across authors](../../compare/?t=film-velvet-buzzsaw_463684)
+
 ## DD+ Atmos
 
 **2019 • R • 1h 53m • Thriller, Mystery, Horror • mobe1969**

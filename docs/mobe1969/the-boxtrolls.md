@@ -1,5 +1,7 @@
 # The Boxtrolls
 
+[Compare across authors](../../compare/?t=film-the-boxtrolls_170687)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG • 1h 37m • Animation, Comedy, Family, Fantasy • mobe1969**

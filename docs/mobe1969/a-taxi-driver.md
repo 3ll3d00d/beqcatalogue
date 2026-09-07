@@ -1,5 +1,7 @@
 # A Taxi Driver
 
+[Compare across authors](../../compare/?t=film-a-taxi-driver_437068)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 2h 18m • Korean • Drama, History, Action • mobe1969**

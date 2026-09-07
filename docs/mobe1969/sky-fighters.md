@@ -1,5 +1,7 @@
 # Sky Fighters
 
+[Compare across authors](../../compare/?t=film-sky-fighters_80353)
+
 ## TrueHD 5.1
 
 **2011 • NR • 1h 34m • Mandarin • Action, Drama • mobe1969**

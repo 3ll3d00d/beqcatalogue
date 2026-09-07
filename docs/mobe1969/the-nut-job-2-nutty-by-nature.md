@@ -1,5 +1,7 @@
 # The Nut Job 2: Nutty by Nature
 
+[Compare across authors](../../compare/?t=film-the-nut-job-2-nutty-by-nature_335777)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG • 1h 31m • Animation, Family, Adventure, Comedy • mobe1969**

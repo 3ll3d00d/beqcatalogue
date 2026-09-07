@@ -1,5 +1,7 @@
 # London Has Fallen
 
+[Compare across authors](../../compare/?t=film-london-has-fallen_267860)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 39m • Action, Thriller • mobe1969**

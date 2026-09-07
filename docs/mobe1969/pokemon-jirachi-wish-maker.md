@@ -1,5 +1,7 @@
 # Pokémon: Jirachi - Wish Maker
 
+[Compare across authors](../../compare/?t=film-pokemon-jirachi-wish-maker_36218)
+
 ## DD 5.1
 
 **2003 • PG • 1h 21m • Family, Action, Animation, Adventure, Fantasy, Science Fiction • mobe1969**

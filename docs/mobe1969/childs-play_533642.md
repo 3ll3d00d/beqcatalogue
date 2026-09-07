@@ -1,5 +1,7 @@
 # Child's Play
 
+[Compare across authors](../../compare/?t=film-childs-play_533642)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 30m • Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Kung Fu Panda
 
+[Compare across authors](../../compare/?t=film-kung-fu-panda_9502)
+
 ## TrueHD 5.1
 
 **2008 • PG • 1h 30m • Action, Adventure, Animation, Family, Comedy • mobe1969**

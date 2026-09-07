@@ -1,5 +1,7 @@
 # Speed
 
+[Compare across authors](../../compare/?t=film-speed_1637)
+
 ## DTS-HD MA 5.1
 
 **1994 • R • 1h 56m • Action, Crime, Adventure • mobe1969**

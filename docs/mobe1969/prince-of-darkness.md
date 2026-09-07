@@ -1,5 +1,7 @@
 # Prince of Darkness
 
+[Compare across authors](../../compare/?t=film-prince-of-darkness_8852)
+
 ## Atmos
 
 **1987 • R • 1h 41m • Horror • mobe1969**

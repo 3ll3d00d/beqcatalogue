@@ -1,5 +1,7 @@
 # Bunty Aur Babli 2
 
+[Compare across authors](../../compare/?t=film-bunty-aur-babli-2_666390)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 18m • Hindi • Comedy, Crime, Drama • mobe1969**

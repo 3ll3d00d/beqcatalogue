@@ -1,5 +1,7 @@
 # 9th Company
 
+[Compare across authors](../../compare/?t=film-9th-company_14097)
+
 ## DTS-HD MA 5.1
 
 **2005 • 15 • 2h 19m • Russian • Drama, History, War, Action • mobe1969**

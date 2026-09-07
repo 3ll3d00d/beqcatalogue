@@ -1,5 +1,7 @@
 # Dark Water
 
+[Compare across authors](../../compare/?t=film-dark-water_12205)
+
 ## DTS-HD MA 5.1
 
 **2002 • NR • 1h 41m • Japanese • Horror, Thriller, Mystery • mobe1969**

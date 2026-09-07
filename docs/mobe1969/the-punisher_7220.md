@@ -1,5 +1,7 @@
 # The Punisher
 
+[Compare across authors](../../compare/?t=film-the-punisher_7220)
+
 ## Atmos
 
 **2004 • R • 2h 4m • Action, Crime, Drama • mobe1969**

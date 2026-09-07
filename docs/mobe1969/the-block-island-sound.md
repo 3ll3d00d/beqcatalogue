@@ -1,5 +1,7 @@
 # The Block Island Sound
 
+[Compare across authors](../../compare/?t=film-the-block-island-sound_731740)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 43m • Horror, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # The Monkey King 3
 
+[Compare across authors](../../compare/?t=film-the-monkey-king-3_437543)
+
 ## Atmos
 
 **2018 • PG-13 • 1h 54m • Cantonese • Action, Adventure, Fantasy • mobe1969**

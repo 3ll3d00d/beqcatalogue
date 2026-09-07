@@ -1,5 +1,7 @@
 # Rogue Warfare: Death of a Nation
 
+[Compare across authors](../../compare/?t=film-rogue-warfare-death-of-a-nation_635780)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 43m • War, Action • mobe1969**

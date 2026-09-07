@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-unchained-fate_121388)
+
 ## Season 1
 
 * DD+ 2.0

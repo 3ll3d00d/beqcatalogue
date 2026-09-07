@@ -1,5 +1,7 @@
 # Rush Hour 3
 
+[Compare across authors](../../compare/?t=film-rush-hour-3_5174)
+
 ## DTS-HD MA 7.1
 
 **2007 • PG-13 • 1h 31m • Comedy, Crime, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Risen
 
+[Compare across authors](../../compare/?t=film-risen_335778)
+
 ## Atmos
 
 **2016 • PG-13 • 1h 47m • Action, History, Adventure, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Close Encounters of the Third Kind
 
+[Compare across authors](../../compare/?t=film-close-encounters-of-the-third-kind_840)
+
 ## DTS-HD MA 5.1
 
 Director's Cut

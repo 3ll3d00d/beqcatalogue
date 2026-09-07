@@ -1,5 +1,7 @@
 # Acts of Vengeance
 
+[Compare across authors](../../compare/?t=film-acts-of-vengeance_445954)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 27m • Action, Drama, Thriller • mobe1969**

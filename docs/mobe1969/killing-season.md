@@ -1,5 +1,7 @@
 # Killing Season
 
+[Compare across authors](../../compare/?t=film-killing-season_77663)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 31m • Action, Thriller • mobe1969**

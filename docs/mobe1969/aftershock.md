@@ -1,5 +1,7 @@
 # Aftershock
 
+[Compare across authors](../../compare/?t=film-aftershock_44560)
+
 ## DTS-HD MA 5.1
 
 **2010 • 15 • 2h 15m • Mandarin • Drama • mobe1969**

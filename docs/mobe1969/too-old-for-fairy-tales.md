@@ -1,5 +1,7 @@
 # Too Old for Fairy Tales
 
+[Compare across authors](../../compare/?t=film-too-old-for-fairy-tales_939475)
+
 ## DD+ 5.1
 
 **2022 • PG • 1h 46m • Polish • Family, Comedy • mobe1969**

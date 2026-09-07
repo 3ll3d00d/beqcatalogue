@@ -1,5 +1,7 @@
 # A Wrinkle in Time
 
+[Compare across authors](../../compare/?t=film-a-wrinkle-in-time_407451)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2018 • PG • 1h 49m • Adventure, Science Fiction, Family, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Take Shelter
 
+[Compare across authors](../../compare/?t=film-take-shelter_64720)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 2h 0m • Horror, Drama, Thriller • mobe1969**

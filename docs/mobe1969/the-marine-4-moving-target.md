@@ -1,5 +1,7 @@
 # The Marine 4: Moving Target
 
+[Compare across authors](../../compare/?t=film-the-marine-4-moving-target_329540)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 30m • Action, Thriller • mobe1969**

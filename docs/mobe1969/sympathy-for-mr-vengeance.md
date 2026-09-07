@@ -1,5 +1,7 @@
 # Sympathy for Mr. Vengeance
 
+[Compare across authors](../../compare/?t=film-sympathy-for-mr-vengeance_4689)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 2h 9m • Korean • Action, Drama, Thriller • mobe1969**

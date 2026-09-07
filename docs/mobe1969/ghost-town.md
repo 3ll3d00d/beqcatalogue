@@ -1,5 +1,7 @@
 # Ghost Town
 
+[Compare across authors](../../compare/?t=film-ghost-town_12797)
+
 ## TrueHD 5.1
 
 **2008 • PG-13 • 1h 42m • Drama, Comedy, Fantasy • mobe1969**

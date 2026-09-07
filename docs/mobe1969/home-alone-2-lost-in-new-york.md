@@ -1,5 +1,7 @@
 # Home Alone 2: Lost in New York
 
+[Compare across authors](../../compare/?t=film-home-alone-2-lost-in-new-york_772)
+
 ## DTS-HD MA 5.1
 
 **1992 • PG • 2h 0m • Comedy, Family, Adventure • mobe1969**

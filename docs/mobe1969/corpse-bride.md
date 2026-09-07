@@ -1,5 +1,7 @@
 # Corpse Bride
 
+[Compare across authors](../../compare/?t=film-corpse-bride_3933)
+
 ## DTS-HD MA 5.1
 
 **2005 • PG • 1h 17m • Romance, Fantasy, Animation • mobe1969**

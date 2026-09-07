@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-clickbait_129495)
+
 ## Season 1
 
 * DD+ 5.1

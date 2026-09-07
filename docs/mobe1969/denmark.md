@@ -1,5 +1,7 @@
 # Denmark
 
+[Compare across authors](../../compare/?t=film-denmark_489162)
+
 ## DD+ 5.1
 
 **2019 • 15 • 1h 31m • Comedy • mobe1969**

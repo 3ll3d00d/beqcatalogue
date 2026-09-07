@@ -1,5 +1,7 @@
 # Hara-Kiri: Death of a Samurai
 
+[Compare across authors](../../compare/?t=film-hara-kiri-death-of-a-samurai_85836)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 2h 6m • Japanese • Drama • mobe1969**

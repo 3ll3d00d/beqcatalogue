@@ -1,5 +1,7 @@
 # Frostbite!
 
+[Compare across authors](../../compare/?t=film-frostbite_311482)
+
 ## DD+ 5.1
 
 **2013 • NR • 1h 30m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # BASEketball
 
+[Compare across authors](../../compare/?t=film-baseketball_14013)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 43m • Comedy • mobe1969**

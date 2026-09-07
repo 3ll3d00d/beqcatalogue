@@ -1,5 +1,7 @@
 # Vantage Point
 
+[Compare across authors](../../compare/?t=film-vantage-point_7461)
+
 ## TrueHD 5.1
 
 **2008 • PG-13 • 1h 30m • Drama, Action, Thriller, Crime • mobe1969**

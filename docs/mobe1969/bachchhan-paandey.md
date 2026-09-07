@@ -1,5 +1,7 @@
 # Bachchhan Paandey
 
+[Compare across authors](../../compare/?t=film-bachchhan-paandey_715765)
+
 ## DD+ 5.1
 
 **2022 • MA15+ • 2h 27m • Hindi • Comedy, Action, Crime • mobe1969**

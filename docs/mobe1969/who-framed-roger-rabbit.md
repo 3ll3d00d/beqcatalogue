@@ -1,5 +1,7 @@
 # Who Framed Roger Rabbit
 
+[Compare across authors](../../compare/?t=film-who-framed-roger-rabbit_856)
+
 ## Atmos
 
 **1988 • PG • 1h 44m • Fantasy, Animation, Comedy, Crime, Family • mobe1969**

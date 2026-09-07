@@ -1,5 +1,7 @@
 # I Still Know What You Did Last Summer
 
+[Compare across authors](../../compare/?t=film-i-still-know-what-you-did-last-summer_3600)
+
 ## TrueHD 5.1
 
 **1998 • R • 1h 40m • Thriller, Mystery, Horror • mobe1969**

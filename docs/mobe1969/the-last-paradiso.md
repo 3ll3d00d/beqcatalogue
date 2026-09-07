@@ -1,5 +1,7 @@
 # The Last Paradiso
 
+[Compare across authors](../../compare/?t=film-the-last-paradiso_746422)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 47m • Italian • Drama, Romance • mobe1969**

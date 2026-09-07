@@ -1,5 +1,7 @@
 # Long Weekend
 
+[Compare across authors](../../compare/?t=film-long-weekend_20323)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 27m • Thriller, Drama, Horror • mobe1969**

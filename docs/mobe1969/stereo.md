@@ -1,5 +1,7 @@
 # Stereo
 
+[Compare across authors](../../compare/?t=film-stereo_256311)
+
 ## DD+ 5.1
 
 **2014 • NR • 1h 35m • German • Thriller • mobe1969**

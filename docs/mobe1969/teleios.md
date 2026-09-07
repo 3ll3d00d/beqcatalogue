@@ -1,5 +1,7 @@
 # Teleios
 
+[Compare across authors](../../compare/?t=film-teleios_421443)
+
 ## DD+ 2.0
 
 **2017 • NC-17 • 1h 33m • Science Fiction • mobe1969**

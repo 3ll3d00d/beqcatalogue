@@ -1,5 +1,7 @@
 # The Bridge Curse
 
+[Compare across authors](../../compare/?t=film-the-bridge-curse_678489)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 27m • Mandarin • Horror, Thriller, Mystery • mobe1969**

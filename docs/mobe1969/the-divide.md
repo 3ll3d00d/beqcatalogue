@@ -1,5 +1,7 @@
 # The Divide
 
+[Compare across authors](../../compare/?t=film-the-divide_38541)
+
 ## TrueHD 7.1
 
 Unrated Cut

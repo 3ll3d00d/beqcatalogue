@@ -1,5 +1,7 @@
 # Ant-Man
 
+[Compare across authors](../../compare/?t=film-ant-man_102899)
+
 ## Atmos
 
 **2015 • PG-13 • 1h 57m • Science Fiction, Action, Adventure • mobe1969**

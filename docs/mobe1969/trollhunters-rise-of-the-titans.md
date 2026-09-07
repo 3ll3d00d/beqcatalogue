@@ -1,5 +1,7 @@
 # Trollhunters: Rise of the Titans
 
+[Compare across authors](../../compare/?t=film-trollhunters-rise-of-the-titans_730840)
+
 ## DD+ Atmos
 
 **2021 • PG • 1h 46m • Animation, Fantasy, Family, Action, Adventure • mobe1969**

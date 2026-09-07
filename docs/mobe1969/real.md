@@ -1,5 +1,7 @@
 # REAL
 
+[Compare across authors](../../compare/?t=film-real_437633)
+
 ## TrueHD 5.1
 
 **2017 • NR • 2h 17m • Korean • Action, Crime, Thriller • mobe1969**

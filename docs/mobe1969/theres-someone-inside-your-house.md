@@ -1,5 +1,7 @@
 # There's Someone Inside Your House
 
+[Compare across authors](../../compare/?t=film-theres-someone-inside-your-house_512025)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 36m • Thriller, Horror, Mystery • mobe1969**

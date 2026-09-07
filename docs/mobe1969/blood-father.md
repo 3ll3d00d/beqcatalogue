@@ -1,5 +1,7 @@
 # Blood Father
 
+[Compare across authors](../../compare/?t=film-blood-father_309886)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 28m • Drama, Action, Thriller • mobe1969**

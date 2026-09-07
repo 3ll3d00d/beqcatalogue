@@ -1,5 +1,7 @@
 # Lou
 
+[Compare across authors](../../compare/?t=film-lou_429473)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 47m • Action, Drama • mobe1969**

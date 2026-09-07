@@ -1,5 +1,7 @@
 # Saw
 
+[Compare across authors](../../compare/?t=film-saw_176)
+
 ## Atmos
 
 Director's Cut

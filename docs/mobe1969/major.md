@@ -1,5 +1,7 @@
 # Major
 
+[Compare across authors](../../compare/?t=film-major_605153)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 25m • Hindi • Action, History, Drama • mobe1969**

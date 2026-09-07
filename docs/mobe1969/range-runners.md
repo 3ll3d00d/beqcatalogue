@@ -1,5 +1,7 @@
 # Range Runners
 
+[Compare across authors](../../compare/?t=film-range-runners_594089)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 51m • Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Cartel 2045
 
+[Compare across authors](../../compare/?t=film-cartel-2045_458478)
+
 ## DD 5.1
 
 **2017 • NR • 1h 30m • Action, Science Fiction, Adventure • mobe1969**

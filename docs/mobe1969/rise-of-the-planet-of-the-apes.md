@@ -1,5 +1,7 @@
 # Rise of the Planet of the Apes
 
+[Compare across authors](../../compare/?t=film-rise-of-the-planet-of-the-apes_61791)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 45m • Thriller, Action, Drama, Science Fiction • mobe1969**

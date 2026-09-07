@@ -1,5 +1,7 @@
 # Tower Heist
 
+[Compare across authors](../../compare/?t=film-tower-heist_59108)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 44m • Action, Comedy • mobe1969**

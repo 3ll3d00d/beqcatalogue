@@ -1,5 +1,7 @@
 # Asteroid City
 
+[Compare across authors](../../compare/?t=film-asteroid-city_747188)
+
 ## DD+ Atmos
 
 **2023 • PG-13 • 1h 45m • Comedy, Romance, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Mad Max: Fury Road
 
+[Compare across authors](../../compare/?t=film-mad-max-fury-road_76341)
+
 ## Atmos
 
 **2015 • R • 2h 1m • Action, Adventure, Science Fiction • mobe1969**

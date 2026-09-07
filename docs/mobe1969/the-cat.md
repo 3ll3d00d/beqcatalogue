@@ -1,5 +1,7 @@
 # The Cat
 
+[Compare across authors](../../compare/?t=film-the-cat_75931)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 46m • Korean • Horror, Mystery • mobe1969**

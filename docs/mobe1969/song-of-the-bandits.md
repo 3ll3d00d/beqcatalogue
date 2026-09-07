@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-song-of-the-bandits_136368)
+
 ## Season 1
 
 * DD+ Atmos

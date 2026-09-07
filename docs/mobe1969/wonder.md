@@ -1,5 +1,7 @@
 # Wonder
 
+[Compare across authors](../../compare/?t=film-wonder_406997)
+
 ## TrueHD 7.1
 
 **2017 • PG • 1h 53m • Drama, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Annabelle
 
+[Compare across authors](../../compare/?t=film-annabelle_250546)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2014 • R • 1h 39m • Horror • mobe1969**

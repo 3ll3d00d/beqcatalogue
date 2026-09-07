@@ -1,5 +1,7 @@
 # Escobar: Paradise Lost
 
+[Compare across authors](../../compare/?t=film-escobar-paradise-lost_255343)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 2h 0m • Thriller, Romance • mobe1969**

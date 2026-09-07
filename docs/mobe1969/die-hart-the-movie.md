@@ -1,5 +1,7 @@
 # Die Hart the Movie
 
+[Compare across authors](../../compare/?t=film-die-hart-the-movie_1077280)
+
 ## DD+ 5.1
 
 **2023 • NR • 0h 0m • Action, Comedy, Thriller • mobe1969**

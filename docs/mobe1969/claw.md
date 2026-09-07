@@ -1,5 +1,7 @@
 # Claw
 
+[Compare across authors](../../compare/?t=film-claw_736506)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 21m • Horror, Mystery, Thriller, Science Fiction • mobe1969**

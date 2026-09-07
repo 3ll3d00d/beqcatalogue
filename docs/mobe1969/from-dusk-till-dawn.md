@@ -1,5 +1,7 @@
 # From Dusk Till Dawn
 
+[Compare across authors](../../compare/?t=film-from-dusk-till-dawn_755)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 1h 48m • Action, Crime, Thriller, Horror • mobe1969**

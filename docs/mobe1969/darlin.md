@@ -1,5 +1,7 @@
 # Darlin'
 
+[Compare across authors](../../compare/?t=film-darlin_529149)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 41m • Horror, Mystery • mobe1969**

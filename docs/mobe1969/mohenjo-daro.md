@@ -1,5 +1,7 @@
 # Mohenjo Daro
 
+[Compare across authors](../../compare/?t=film-mohenjo-daro_402672)
+
 ## DD+ 5.1
 
 **2016 • NR • 2h 35m • Hindi • Adventure, Drama, History, Romance • mobe1969**

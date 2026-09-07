@@ -1,5 +1,7 @@
 # Cold Case
 
+[Compare across authors](../../compare/?t=film-cold-case_838609)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 19m • Malayalam • Thriller, Horror • mobe1969**

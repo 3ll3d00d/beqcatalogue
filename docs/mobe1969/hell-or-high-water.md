@@ -1,5 +1,7 @@
 # Hell or High Water
 
+[Compare across authors](../../compare/?t=film-hell-or-high-water_338766)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 42m • Western, Crime • mobe1969**

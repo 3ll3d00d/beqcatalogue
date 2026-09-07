@@ -1,5 +1,7 @@
 # Drive Hard
 
+[Compare across authors](../../compare/?t=film-drive-hard_256092)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 36m • Action, Comedy, Crime • mobe1969**

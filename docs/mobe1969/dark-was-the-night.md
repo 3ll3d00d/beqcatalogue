@@ -1,5 +1,7 @@
 # Dark Was the Night
 
+[Compare across authors](../../compare/?t=film-dark-was-the-night_300467)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 37m • Horror, Thriller • mobe1969**

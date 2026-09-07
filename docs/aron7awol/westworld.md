@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-westworld_63247)
+
 ## Season 1
 
 * Atmos

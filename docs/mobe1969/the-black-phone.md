@@ -1,5 +1,7 @@
 # The Black Phone
 
+[Compare across authors](../../compare/?t=film-the-black-phone_756999)
+
 ## Atmos, DD+ 5.1
 
 **2022 • R • 1h 43m • Horror, Thriller • mobe1969**

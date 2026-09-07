@@ -1,5 +1,7 @@
 # Terminal
 
+[Compare across authors](../../compare/?t=film-terminal_385332)
+
 ## TrueHD 5.1
 
 **2018 • NR • 1h 35m • Drama, Thriller, Crime • mobe1969**

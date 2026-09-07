@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-a-perfect-planet_115194)
+
 ## Season 1
 
 * Atmos

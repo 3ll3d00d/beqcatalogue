@@ -1,5 +1,7 @@
 # Ironclad
 
+[Compare across authors](../../compare/?t=film-ironclad_38543)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 2h 1m • Action, Adventure, History, Romance • mobe1969**

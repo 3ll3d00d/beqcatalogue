@@ -1,5 +1,7 @@
 # Close
 
+[Compare across authors](../../compare/?t=film-close_460321)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 35m • Action, Adventure, Thriller • mobe1969**

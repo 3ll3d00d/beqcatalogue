@@ -1,5 +1,7 @@
 # Night Teeth
 
+[Compare across authors](../../compare/?t=film-night-teeth_669671)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • R • 1h 47m • Horror, Thriller, Action • mobe1969**

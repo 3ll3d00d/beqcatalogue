@@ -1,5 +1,7 @@
 # Riders
 
+[Compare across authors](../../compare/?t=film-riders_12577)
+
 ## DD+ 2.0
 
 **2002 • R • 1h 23m • Crime, Action, Thriller • mobe1969**

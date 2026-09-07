@@ -1,5 +1,7 @@
 # Death Note
 
+[Compare across authors](../../compare/?t=film-death-note_16007)
+
 ## DTS-HD MA 5.1
 
 **2006 • 15 • 2h 6m • Japanese • Fantasy, Mystery, Thriller • mobe1969**

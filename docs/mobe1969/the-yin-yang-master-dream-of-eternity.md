@@ -1,5 +1,7 @@
 # The Yin-Yang Master: Dream of Eternity
 
+[Compare across authors](../../compare/?t=film-the-yin-yang-master-dream-of-eternity_757860)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 2h 12m • Mandarin • Action, Drama, Fantasy, Mystery, Science Fiction • mobe1969**

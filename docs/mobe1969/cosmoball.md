@@ -1,5 +1,7 @@
 # Cosmoball
 
+[Compare across authors](../../compare/?t=film-cosmoball_517096)
+
 ## DTS-HD MA 5.1
 
 **2020 • PG • 1h 55m • Russian • Science Fiction, Adventure • mobe1969**

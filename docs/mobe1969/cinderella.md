@@ -1,5 +1,7 @@
 # Cinderella
 
+[Compare across authors](../../compare/?t=film-cinderella_11224)
+
 ## DTS-HD MA 5.1
 
 **1950 • G • 1h 14m • Family, Fantasy, Animation, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Run Hide Fight
 
+[Compare across authors](../../compare/?t=film-run-hide-fight_629017)
+
 ## DTS-HD MA 5.1
 
 **2020 • 15 • 1h 49m • Action, Crime, Drama, Thriller • mobe1969**

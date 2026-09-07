@@ -1,5 +1,7 @@
 # The Twilight Saga: Breaking Dawn - Part 2
 
+[Compare across authors](../../compare/?t=film-the-twilight-saga-breaking-dawn-part-2_50620)
+
 ## DD+ 5 1
 
 **2012 • PG-13 • 1h 55m • Adventure, Fantasy, Drama, Romance • mobe1969**

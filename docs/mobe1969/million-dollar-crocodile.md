@@ -1,5 +1,7 @@
 # Million Dollar Crocodile
 
+[Compare across authors](../../compare/?t=film-million-dollar-crocodile_115738)
+
 ## DD 5.1
 
 **2012 • NR • 1h 27m • Mandarin • Crime, Drama, Horror, Thriller • mobe1969**

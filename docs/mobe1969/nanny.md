@@ -1,5 +1,7 @@
 # Nanny
 
+[Compare across authors](../../compare/?t=film-nanny_843932)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 38m • Horror, Drama • mobe1969**

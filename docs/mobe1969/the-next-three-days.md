@@ -1,5 +1,7 @@
 # The Next Three Days
 
+[Compare across authors](../../compare/?t=film-the-next-three-days_43539)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2010 • PG-13 • 2h 13m • Romance, Drama, Thriller, Crime • mobe1969**

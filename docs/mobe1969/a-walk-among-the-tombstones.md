@@ -1,5 +1,7 @@
 # A Walk Among the Tombstones
 
+[Compare across authors](../../compare/?t=film-a-walk-among-the-tombstones_169917)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2014 • R • 1h 53m • Mystery, Thriller, Crime, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Love Hard
 
+[Compare across authors](../../compare/?t=film-love-hard_734265)
+
 ## DD+ Atmos
 
 **2021 • 12 • 1h 45m • Comedy, Romance • mobe1969**

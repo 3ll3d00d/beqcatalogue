@@ -1,5 +1,7 @@
 # Never Grow Old
 
+[Compare across authors](../../compare/?t=film-never-grow-old_498743)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 41m • Western • mobe1969**

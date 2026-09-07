@@ -1,5 +1,7 @@
 # Enola Holmes 2
 
+[Compare across authors](../../compare/?t=film-enola-holmes-2_829280)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 2h 9m • Mystery, Adventure, Crime • mobe1969**

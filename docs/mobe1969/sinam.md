@@ -1,5 +1,7 @@
 # Sinam
 
+[Compare across authors](../../compare/?t=film-sinam_1022011)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 55m • Tamil • Action, Thriller, Crime • mobe1969**

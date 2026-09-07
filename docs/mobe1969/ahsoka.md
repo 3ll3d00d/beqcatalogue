@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-ahsoka_114461)
+
 ## Season 1
 
 * DD+ Atmos

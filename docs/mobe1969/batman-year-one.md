@@ -1,5 +1,7 @@
 # Batman: Year One
 
+[Compare across authors](../../compare/?t=film-batman-year-one_69735)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 4m • Action, Animation, Crime • mobe1969**

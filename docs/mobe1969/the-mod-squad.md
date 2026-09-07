@@ -1,5 +1,7 @@
 # The Mod Squad
 
+[Compare across authors](../../compare/?t=film-the-mod-squad_16379)
+
 ## DD+ 5.1
 
 **1999 • R • 1h 32m • Action, Mystery, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # K.G.F: Chapter 2
 
+[Compare across authors](../../compare/?t=film-kgf-chapter-2_587412)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 2h 48m • Hindi • Action, Crime, Drama • mobe1969**

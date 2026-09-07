@@ -1,5 +1,7 @@
 # Ghost Ship
 
+[Compare across authors](../../compare/?t=film-ghost-ship_9645)
+
 ## TrueHD 5.1
 
 **2002 • R • 1h 31m • Horror, Mystery, Thriller • mobe1969**

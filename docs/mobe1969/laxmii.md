@@ -1,5 +1,7 @@
 # Laxmii
 
+[Compare across authors](../../compare/?t=film-laxmii_603673)
+
 ## DD+ 5.1
 
 **2020 • MA15+ • 2h 21m • Hindi • Horror, Comedy • mobe1969**

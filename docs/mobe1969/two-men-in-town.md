@@ -1,5 +1,7 @@
 # Two Men in Town
 
+[Compare across authors](../../compare/?t=film-two-men-in-town_254772)
+
 ## DD+ 5.1
 
 **2014 • PG-13 • 2h 0m • Crime, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Extraction 2
 
+[Compare across authors](../../compare/?t=film-extraction-2_697843)
+
 ## DD+ Atmos
 
 **2023 • R • 2h 3m • Action, Thriller • mobe1969**

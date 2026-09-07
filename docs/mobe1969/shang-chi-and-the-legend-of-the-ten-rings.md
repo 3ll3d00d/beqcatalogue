@@ -1,5 +1,7 @@
 # Shang-Chi and the Legend of the Ten Rings
 
+[Compare across authors](../../compare/?t=film-shang-chi-and-the-legend-of-the-ten-rings_566525)
+
 ## Atmos
 
 **2021 • PG-13 • 2h 12m • Action, Adventure, Fantasy • mobe1969**

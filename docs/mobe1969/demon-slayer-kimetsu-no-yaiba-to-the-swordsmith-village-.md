@@ -1,5 +1,7 @@
 # Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-
 
+[Compare across authors](../../compare/?t=film-demon-slayer-kimetsu-no-yaiba-to-the-swordsmith-village-_1067282)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 55m • Japanese • Action, Animation, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Bhavesh Joshi Superhero
 
+[Compare across authors](../../compare/?t=film-bhavesh-joshi-superhero_527511)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 35m • Hindi • Action, Drama • mobe1969**

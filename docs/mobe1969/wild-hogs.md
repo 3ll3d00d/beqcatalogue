@@ -1,5 +1,7 @@
 # Wild Hogs
 
+[Compare across authors](../../compare/?t=film-wild-hogs_11199)
+
 ## LPCM 5.1
 
 **2007 • PG-13 • 1h 40m • Action, Adventure, Comedy • mobe1969**

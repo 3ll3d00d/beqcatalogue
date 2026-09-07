@@ -1,5 +1,7 @@
 # Suddenly
 
+[Compare across authors](../../compare/?t=film-suddenly_217896)
+
 ## DD+ 2.0
 
 **2013 • 15 • 1h 30m • Thriller • mobe1969**

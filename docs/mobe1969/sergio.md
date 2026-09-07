@@ -1,5 +1,7 @@
 # Sergio
 
+[Compare across authors](../../compare/?t=film-sergio_653744)
+
 ## DD+ Atmos
 
 **2020 • R • 1h 58m • Drama • mobe1969**

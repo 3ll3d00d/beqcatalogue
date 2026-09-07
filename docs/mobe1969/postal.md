@@ -1,5 +1,7 @@
 # Postal
 
+[Compare across authors](../../compare/?t=film-postal_2728)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 40m • Comedy, Action • mobe1969**

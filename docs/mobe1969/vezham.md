@@ -1,5 +1,7 @@
 # Vezham
 
+[Compare across authors](../../compare/?t=film-vezham_972830)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 15m • Tamil • Mystery, Thriller • mobe1969**

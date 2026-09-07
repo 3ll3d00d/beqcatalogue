@@ -1,5 +1,7 @@
 # The Wonder
 
+[Compare across authors](../../compare/?t=film-the-wonder_823766)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 49m • Drama, Mystery, Thriller • mobe1969**

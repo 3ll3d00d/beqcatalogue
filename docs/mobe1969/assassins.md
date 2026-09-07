@@ -1,5 +1,7 @@
 # Assassins
 
+[Compare across authors](../../compare/?t=film-assassins_9691)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 2h 12m • Action, Adventure, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Old Henry
 
+[Compare across authors](../../compare/?t=film-old-henry_785663)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 39m • Action, Western, Thriller • mobe1969**

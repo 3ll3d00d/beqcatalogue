@@ -1,5 +1,7 @@
 # Dhokha: Round D Corner
 
+[Compare across authors](../../compare/?t=film-dhokha-round-d-corner_1005581)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 48m • Hindi • Crime, Thriller • mobe1969**

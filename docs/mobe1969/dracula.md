@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-dracula_86850)
+
 ## Season 1
 
 * DD+ Atmos

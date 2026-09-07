@@ -1,5 +1,7 @@
 # EXIT
 
+[Compare across authors](../../compare/?t=film-exit_572164)
+
 ## TrueHD 5.1
 
 **2019 • PG • 1h 43m • Korean • Action, Comedy • mobe1969**

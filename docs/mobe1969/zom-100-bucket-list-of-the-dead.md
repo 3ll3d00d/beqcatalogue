@@ -1,5 +1,7 @@
 # Zom 100: Bucket List of the Dead
 
+[Compare across authors](../../compare/?t=film-zom-100-bucket-list-of-the-dead_1070514)
+
 ## DD+ Atmos
 
 **2023 • R • 2h 9m • Japanese • Action, Comedy, Science Fiction • mobe1969**

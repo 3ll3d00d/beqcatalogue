@@ -1,5 +1,7 @@
 # iBOY
 
+[Compare across authors](../../compare/?t=film-iboy_414190)
+
 ## DD+ 5.1
 
 **2017 • 15 • 1h 30m • Action, Science Fiction • mobe1969**

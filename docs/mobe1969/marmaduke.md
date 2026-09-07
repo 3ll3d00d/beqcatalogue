@@ -1,5 +1,7 @@
 # Marmaduke
 
+[Compare across authors](../../compare/?t=film-marmaduke_678287)
+
 ## DD+ Atmos
 
 **2022 • PG • 1h 28m • Animation, Family, Comedy • mobe1969**

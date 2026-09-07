@@ -1,5 +1,7 @@
 # Blood Simple
 
+[Compare across authors](../../compare/?t=film-blood-simple_11368)
+
 ## DTS-HD MA 5.1
 
 **1984 • R • 1h 37m • Crime, Drama, Thriller • mobe1969**

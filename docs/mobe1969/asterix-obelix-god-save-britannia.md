@@ -1,5 +1,7 @@
 # Asterix & Obelix: God Save Britannia
 
+[Compare across authors](../../compare/?t=film-asterix-obelix-god-save-britannia_99770)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG • 1h 50m • French • Family, Adventure, Comedy • mobe1969**

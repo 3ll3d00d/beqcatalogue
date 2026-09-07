@@ -1,5 +1,7 @@
 # Machete
 
+[Compare across authors](../../compare/?t=film-machete_23631)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 45m • Comedy, Action, Thriller • mobe1969**

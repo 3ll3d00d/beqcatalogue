@@ -1,5 +1,7 @@
 # Red Dawn
 
+[Compare across authors](../../compare/?t=film-red-dawn_1880)
+
 ## DTS-HD MA 5.1
 
 **1984 • PG-13 • 1h 54m • Action, Thriller, War, Drama • mobe1969**

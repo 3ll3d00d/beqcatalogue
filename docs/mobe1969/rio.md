@@ -1,5 +1,7 @@
 # Rio
 
+[Compare across authors](../../compare/?t=film-rio_46195)
+
 ## DTS-HD MA 5.1
 
 **2011 • G • 1h 36m • Animation, Adventure, Comedy, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Infected
 
+[Compare across authors](../../compare/?t=film-infected_126962)
+
 ## DD+ 2.0
 
 **2013 • R • 1h 35m • Horror, Action, Science Fiction • mobe1969**

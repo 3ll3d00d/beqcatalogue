@@ -1,5 +1,7 @@
 # Born a Champion
 
+[Compare across authors](../../compare/?t=film-born-a-champion_766931)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 51m • Action, Drama • mobe1969**

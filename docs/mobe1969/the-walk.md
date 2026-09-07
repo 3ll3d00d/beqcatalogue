@@ -1,5 +1,7 @@
 # The Walk
 
+[Compare across authors](../../compare/?t=film-the-walk_285783)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG • 2h 3m • Adventure, Drama, Thriller, History • mobe1969**

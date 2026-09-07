@@ -1,5 +1,7 @@
 # Ghostbusters 2
 
+[Compare across authors](../../compare/?t=film-ghostbusters-2_2978)
+
 ## Atmos
 
 **1989 • PG • 1h 48m • Comedy, Fantasy • mobe1969**

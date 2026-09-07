@@ -1,5 +1,7 @@
 # Green Street Hooligans
 
+[Compare across authors](../../compare/?t=film-green-street-hooligans_8923)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 49m • Crime, Drama • mobe1969**

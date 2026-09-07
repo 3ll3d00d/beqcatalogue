@@ -1,5 +1,7 @@
 # Alpha Rift
 
+[Compare across authors](../../compare/?t=film-alpha-rift_786798)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 1h 34m • Science Fiction, Action, Fantasy • mobe1969**

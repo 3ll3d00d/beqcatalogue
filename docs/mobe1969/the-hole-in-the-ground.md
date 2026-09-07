@@ -1,5 +1,7 @@
 # The Hole in the Ground
 
+[Compare across authors](../../compare/?t=film-the-hole-in-the-ground_484437)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 30m • Horror • mobe1969**

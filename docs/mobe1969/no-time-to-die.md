@@ -1,5 +1,7 @@
 # No Time To Die
 
+[Compare across authors](../../compare/?t=film-no-time-to-die_370172)
+
 ## Atmos
 
 **2021 • PG-13 • 2h 43m • Adventure, Action, Thriller • mobe1969**

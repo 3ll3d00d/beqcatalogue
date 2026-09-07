@@ -1,5 +1,7 @@
 # The Good, The Bad & The Dead
 
+[Compare across authors](../../compare/?t=film-the-good-the-bad-the-dead_362046)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 24m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Sudden Impact
 
+[Compare across authors](../../compare/?t=film-sudden-impact_10650)
+
 ## TrueHD 5.1
 
 **1983 • R • 1h 57m • Crime • mobe1969**

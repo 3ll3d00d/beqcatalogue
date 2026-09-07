@@ -1,5 +1,7 @@
 # A Man Apart
 
+[Compare across authors](../../compare/?t=film-a-man-apart_8409)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 49m • Action, Drama • mobe1969**

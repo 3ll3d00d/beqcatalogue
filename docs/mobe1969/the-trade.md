@@ -1,5 +1,7 @@
 # The Trade
 
+[Compare across authors](../../compare/?t=film-the-trade_1101365)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 8m • Crime, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # You Only Live Twice
 
+[Compare across authors](../../compare/?t=film-you-only-live-twice_667)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1967 • PG • 1h 57m • Action, Thriller, Adventure • mobe1969**

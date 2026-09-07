@@ -1,5 +1,7 @@
 # The Tournament
 
+[Compare across authors](../../compare/?t=film-the-tournament_24056)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 35m • Action, Horror, Thriller • mobe1969**

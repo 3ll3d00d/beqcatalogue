@@ -1,5 +1,7 @@
 # PTU
 
+[Compare across authors](../../compare/?t=film-ptu_25536)
+
 ## DTS-HD MA 5.1
 
 **2003 • NR • 1h 28m • Cantonese • Crime, Thriller • mobe1969**

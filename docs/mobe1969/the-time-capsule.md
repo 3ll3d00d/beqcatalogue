@@ -1,5 +1,7 @@
 # The Time Capsule
 
+[Compare across authors](../../compare/?t=film-the-time-capsule_974188)
+
 ## DD+ 5.1
 
 **2022 • M • 1h 45m • Drama, Romance, Science Fiction • mobe1969**

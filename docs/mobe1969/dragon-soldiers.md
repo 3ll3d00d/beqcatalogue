@@ -1,5 +1,7 @@
 # Dragon Soldiers
 
+[Compare across authors](../../compare/?t=film-dragon-soldiers_702691)
+
 ## DTS-HD MA 5.1
 
 **2020 • 16 • 1h 30m • Action • mobe1969**

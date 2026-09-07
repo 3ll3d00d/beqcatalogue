@@ -1,5 +1,7 @@
 # The Midnight Sky
 
+[Compare across authors](../../compare/?t=film-the-midnight-sky_614911)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 58m • Science Fiction, Drama • mobe1969**

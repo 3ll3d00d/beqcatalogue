@@ -1,5 +1,7 @@
 # Black Crab
 
+[Compare across authors](../../compare/?t=film-black-crab_760868)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 49m • Swedish • Action, Thriller • mobe1969**

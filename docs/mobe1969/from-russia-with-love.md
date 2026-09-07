@@ -1,5 +1,7 @@
 # From Russia with Love
 
+[Compare across authors](../../compare/?t=film-from-russia-with-love_657)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1963 • PG • 1h 55m • Action, Thriller, Adventure • mobe1969**

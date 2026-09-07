@@ -1,5 +1,7 @@
 # FullMetal Alchemist
 
+[Compare across authors](../../compare/?t=film-fullmetal-alchemist_426285)
+
 ## DD+ 5.1
 
 **2017 • PG-13 • 2h 15m • Japanese • Action, Fantasy, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Kokoda
 
+[Compare across authors](../../compare/?t=film-kokoda_9774)
+
 ## DTS-HD MA 5.1
 
 **2006 • 16 • 1h 32m • Action, Drama, History • mobe1969**

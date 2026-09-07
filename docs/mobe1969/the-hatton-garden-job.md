@@ -1,5 +1,7 @@
 # The Hatton Garden Job
 
+[Compare across authors](../../compare/?t=film-the-hatton-garden-job_448847)
+
 ## DTS-HD MA 5.1
 
 **2017 • 15 • 1h 33m • Crime • mobe1969**

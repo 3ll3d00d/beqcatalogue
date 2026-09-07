@@ -1,5 +1,7 @@
 # Batman Begins
 
+[Compare across authors](../../compare/?t=film-batman-begins_272)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2005 • PG-13 • 2h 20m • Action, Crime, Drama • mobe1969**

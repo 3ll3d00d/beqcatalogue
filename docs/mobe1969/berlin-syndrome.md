@@ -1,5 +1,7 @@
 # Berlin Syndrome
 
+[Compare across authors](../../compare/?t=film-berlin-syndrome_363126)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 56m • Mystery, Drama, Thriller • mobe1969**

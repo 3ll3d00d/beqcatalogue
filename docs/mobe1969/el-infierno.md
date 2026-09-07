@@ -1,5 +1,7 @@
 # El Infierno
 
+[Compare across authors](../../compare/?t=film-el-infierno_52629)
+
 ## DD+ 5.1
 
 **2010 • NR • 2h 25m • Spanish • Drama, Crime, Comedy • mobe1969**

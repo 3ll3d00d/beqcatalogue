@@ -1,5 +1,7 @@
 # Marauders
 
+[Compare across authors](../../compare/?t=film-marauders_359412)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 47m • Action, Crime, Thriller • mobe1969**

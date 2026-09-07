@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-breathe_76659)
+
 ## Season 1
 
 * DD+ 5.1

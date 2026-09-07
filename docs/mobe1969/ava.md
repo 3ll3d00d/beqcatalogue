@@ -1,5 +1,7 @@
 # Ava
 
+[Compare across authors](../../compare/?t=film-ava_539885)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 36m • Action, Crime, Drama, Adventure, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Ordinary Love
 
+[Compare across authors](../../compare/?t=film-ordinary-love_588787)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 32m • Romance, Drama • mobe1969**

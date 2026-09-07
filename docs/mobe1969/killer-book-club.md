@@ -1,5 +1,7 @@
 # Killer Book Club
 
+[Compare across authors](../../compare/?t=film-killer-book-club_1010826)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 29m • Spanish • Horror • mobe1969**

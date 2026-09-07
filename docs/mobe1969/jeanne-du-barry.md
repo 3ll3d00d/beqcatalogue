@@ -1,5 +1,7 @@
 # Jeanne du Barry
 
+[Compare across authors](../../compare/?t=film-jeanne-du-barry_921452)
+
 ## DTS-HD MA 5.1
 
 **2023 • NR • 1h 57m • French • Drama, History, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Marco Polo: One Hundred Eyes
 
+[Compare across authors](../../compare/?t=film-marco-polo-one-hundred-eyes_372981)
+
 ## DD+ 5.1
 
 **2015 • NR • 0h 28m • Action, History, Drama • mobe1969**

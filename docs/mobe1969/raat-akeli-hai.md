@@ -1,5 +1,7 @@
 # Raat Akeli Hai
 
+[Compare across authors](../../compare/?t=film-raat-akeli-hai_589615)
+
 ## DD+ Atmos
 
 **2020 • NR • 2h 29m • Hindi • Crime, Mystery, Thriller • mobe1969**

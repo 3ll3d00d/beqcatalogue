@@ -1,5 +1,7 @@
 # SPL Kill Zone
 
+[Compare across authors](../../compare/?t=film-spl-kill-zone_13127)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 33m • Cantonese • Action, Crime, Drama, Thriller • mobe1969**

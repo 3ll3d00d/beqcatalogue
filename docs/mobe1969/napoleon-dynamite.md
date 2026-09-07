@@ -1,5 +1,7 @@
 # Napoleon Dynamite
 
+[Compare across authors](../../compare/?t=film-napoleon-dynamite_8193)
+
 ## DTS-HD MA 5.1
 
 **2004 • PG • 1h 35m • Comedy • mobe1969**

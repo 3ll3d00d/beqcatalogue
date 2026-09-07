@@ -1,5 +1,7 @@
 # Outlaws and Angels
 
+[Compare across authors](../../compare/?t=film-outlaws-and-angels_376501)
+
 ## DD+ 5.1
 
 **2016 • 18 • 2h 0m • Western, Drama, Thriller • mobe1969**

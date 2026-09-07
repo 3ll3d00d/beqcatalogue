@@ -1,5 +1,7 @@
 # Ram Setu
 
+[Compare across authors](../../compare/?t=film-ram-setu_764081)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 29m • Hindi • Action, Adventure, Drama • mobe1969**

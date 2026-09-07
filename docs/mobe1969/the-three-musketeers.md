@@ -1,5 +1,7 @@
 # The Three Musketeers
 
+[Compare across authors](../../compare/?t=film-the-three-musketeers_52451)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 50m • Adventure, Action, Thriller • mobe1969**

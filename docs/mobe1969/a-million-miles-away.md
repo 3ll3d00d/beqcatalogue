@@ -1,5 +1,7 @@
 # A Million Miles Away
 
+[Compare across authors](../../compare/?t=film-a-million-miles-away_1002185)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2023 • PG • 2h 1m • History, Science Fiction, Drama • mobe1969**

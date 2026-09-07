@@ -1,5 +1,7 @@
 # Father Figures
 
+[Compare across authors](../../compare/?t=film-father-figures_354861)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 2h 5m • Comedy • mobe1969**

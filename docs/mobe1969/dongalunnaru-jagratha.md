@@ -1,5 +1,7 @@
 # Dongalunnaru Jagratha
 
+[Compare across authors](../../compare/?t=film-dongalunnaru-jagratha_982447)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 36m • Thriller • mobe1969**

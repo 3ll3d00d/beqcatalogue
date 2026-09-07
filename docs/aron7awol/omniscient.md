@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-omniscient_98510)
+
 ## Season 1
 
 * DD+

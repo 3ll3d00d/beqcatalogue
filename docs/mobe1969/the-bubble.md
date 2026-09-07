@@ -1,5 +1,7 @@
 # The Bubble
 
+[Compare across authors](../../compare/?t=film-the-bubble_765119)
+
 ## DD+ 5.1
 
 **2022 • R • 2h 6m • Comedy • mobe1969**

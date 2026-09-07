@@ -1,5 +1,7 @@
 # Hi! Dharma!
 
+[Compare across authors](../../compare/?t=film-hi-dharma_68457)
+
 ## DTS-HD MA 5.1
 
 **2001 • NR • 1h 35m • Korean • Action, Comedy • mobe1969**

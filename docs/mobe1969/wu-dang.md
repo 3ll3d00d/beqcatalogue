@@ -1,5 +1,7 @@
 # Wu Dang
 
+[Compare across authors](../../compare/?t=film-wu-dang_120713)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 38m • Mandarin • Action • mobe1969**

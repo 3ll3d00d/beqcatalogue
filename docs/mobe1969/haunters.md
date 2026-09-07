@@ -1,5 +1,7 @@
 # Haunters
 
+[Compare across authors](../../compare/?t=film-haunters_68252)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 52m • Korean • Thriller, Science Fiction, Action • mobe1969**

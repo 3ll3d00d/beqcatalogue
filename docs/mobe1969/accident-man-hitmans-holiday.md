@@ -1,5 +1,7 @@
 # Accident Man: Hitman's Holiday
 
+[Compare across authors](../../compare/?t=film-accident-man-hitmans-holiday_879444)
+
 ## DD 5.1
 
 **2022 • R • 1h 36m • Action, Comedy, Crime • mobe1969**

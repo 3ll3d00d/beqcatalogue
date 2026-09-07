@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-cursed_97488)
+
 ## Season 1
 
 * DD+ 2.0

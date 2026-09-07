@@ -1,5 +1,7 @@
 # Prom Night
 
+[Compare across authors](../../compare/?t=film-prom-night_8617)
+
 ## TrueHD 5.1
 
 **2008 • PG-13 • 1h 28m • Crime, Horror, Drama • mobe1969**

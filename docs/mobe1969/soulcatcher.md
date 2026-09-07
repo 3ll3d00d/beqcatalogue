@@ -1,5 +1,7 @@
 # Soulcatcher
 
+[Compare across authors](../../compare/?t=film-soulcatcher_1149381)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 38m • Polish • Action • mobe1969**

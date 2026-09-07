@@ -1,5 +1,7 @@
 # Children of the Sea
 
+[Compare across authors](../../compare/?t=film-children-of-the-sea_585077)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 50m • Japanese • Animation, Fantasy, Adventure, Mystery • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-man-in-the-high-castle_62017)
+
 ## Season 1
 
 * DD+

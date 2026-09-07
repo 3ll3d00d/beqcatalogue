@@ -1,5 +1,7 @@
 # The Out-Laws
 
+[Compare across authors](../../compare/?t=film-the-out-laws_921636)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 35m • Action, Comedy, Romance • mobe1969**

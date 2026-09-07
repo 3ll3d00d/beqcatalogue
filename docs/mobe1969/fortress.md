@@ -1,5 +1,7 @@
 # Fortress
 
+[Compare across authors](../../compare/?t=film-fortress_826749)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 40m • Crime, Action, Thriller • mobe1969**

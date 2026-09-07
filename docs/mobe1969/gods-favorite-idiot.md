@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-gods-favorite-idiot_114201)
+
 ## Season 1
 
 * DD+ Atmos

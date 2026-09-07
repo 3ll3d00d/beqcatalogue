@@ -1,5 +1,7 @@
 # Triple 9
 
+[Compare across authors](../../compare/?t=film-triple-9_146198)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 55m • Action, Thriller, Mystery • mobe1969**

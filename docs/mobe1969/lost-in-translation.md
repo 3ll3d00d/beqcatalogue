@@ -1,5 +1,7 @@
 # Lost in Translation
 
+[Compare across authors](../../compare/?t=film-lost-in-translation_153)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 42m • Drama, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Don't Go Breaking My Heart
 
+[Compare across authors](../../compare/?t=film-dont-go-breaking-my-heart_67793)
+
 ## DD+ 2.0
 
 **2011 • NR • 1h 55m • Cantonese • Comedy, Romance • mobe1969**

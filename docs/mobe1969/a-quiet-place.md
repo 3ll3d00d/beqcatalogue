@@ -1,5 +1,7 @@
 # A Quiet Place
 
+[Compare across authors](../../compare/?t=film-a-quiet-place_447332)
+
 ## Atmos, DD+ 5.1
 
 **2018 • PG-13 • 1h 31m • Horror, Drama, Science Fiction • mobe1969**

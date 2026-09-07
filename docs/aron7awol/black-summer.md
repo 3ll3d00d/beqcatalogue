@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-black-summer_88052)
+
 ## Season 1
 
 * DD+ Atmos

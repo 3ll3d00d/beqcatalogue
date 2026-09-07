@@ -1,5 +1,7 @@
 # Creepy
 
+[Compare across authors](../../compare/?t=film-creepy_380620)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 2h 10m • Japanese • Mystery, Thriller, Horror • mobe1969**

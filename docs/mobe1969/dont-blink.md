@@ -1,5 +1,7 @@
 # Don't Blink
 
+[Compare across authors](../../compare/?t=film-dont-blink_294308)
+
 ## DD+ 5.1
 
 **2014 • 15 • 1h 32m • Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Battle for Skyark
 
+[Compare across authors](../../compare/?t=film-battle-for-skyark_335077)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 28m • Family, Science Fiction, Action, Adventure • mobe1969**

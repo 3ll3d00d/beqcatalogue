@@ -1,5 +1,7 @@
 # The Railway Man
 
+[Compare across authors](../../compare/?t=film-the-railway-man_127560)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 56m • Drama, History • mobe1969**

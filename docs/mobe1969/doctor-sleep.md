@@ -1,5 +1,7 @@
 # Doctor Sleep
 
+[Compare across authors](../../compare/?t=film-doctor-sleep_501170)
+
 ## Atmos
 
 Director's Cut

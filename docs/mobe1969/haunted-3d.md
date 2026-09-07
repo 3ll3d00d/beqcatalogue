@@ -1,5 +1,7 @@
 # Haunted-3D
 
+[Compare across authors](../../compare/?t=film-haunted-3d_68758)
+
 ## AAC 5.1
 
 **2011 • NR • 2h 23m • Hindi • Action, Fantasy, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Unstoppable
 
+[Compare across authors](../../compare/?t=film-unstoppable_554972)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 1h 55m • Korean • Crime, Action • mobe1969**

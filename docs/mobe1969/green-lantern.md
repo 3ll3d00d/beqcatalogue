@@ -1,5 +1,7 @@
 # Green Lantern
 
+[Compare across authors](../../compare/?t=film-green-lantern_44912)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

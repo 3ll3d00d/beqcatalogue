@@ -1,5 +1,7 @@
 # Silent Hill Revelation
 
+[Compare across authors](../../compare/?t=film-silent-hill-revelation_61012)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 34m • Mystery, Horror, Thriller • mobe1969**

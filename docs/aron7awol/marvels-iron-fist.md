@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-marvels-iron-fist_62127)
+
 ## Season 2
 
 * DD+ Atmos

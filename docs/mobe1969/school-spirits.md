@@ -1,5 +1,7 @@
 # School Spirits
 
+[Compare across authors](../../compare/?t=film-school-spirits_492034)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 28m • Fantasy, Horror, Adventure, Comedy • mobe1969**

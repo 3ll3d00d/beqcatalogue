@@ -1,5 +1,7 @@
 # The Pope's Exorcist
 
+[Compare across authors](../../compare/?t=film-the-popes-exorcist_758323)
+
 ## DTS-HD MA 5.1, DD+ 5.1, DD+ Atmos
 
 **2023 • R • 1h 43m • Horror, Mystery, Thriller • mobe1969**

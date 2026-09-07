@@ -1,5 +1,7 @@
 # Willy Wonka & The Chocolate Factory
 
+[Compare across authors](../../compare/?t=film-willy-wonka-the-chocolate-factory_252)
+
 ## DTS-HD MA 5.1
 
 **1971 • G • 1h 40m • Family, Fantasy, Comedy • mobe1969**

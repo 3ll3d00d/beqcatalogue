@@ -1,5 +1,7 @@
 # Oldboy
 
+[Compare across authors](../../compare/?t=film-oldboy_87516)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 44m • Drama, Thriller, Mystery, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Christopher
 
+[Compare across authors](../../compare/?t=film-christopher_992589)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 30m • Malayalam • Action, Thriller • mobe1969**

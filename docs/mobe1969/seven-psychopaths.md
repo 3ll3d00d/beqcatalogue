@@ -1,5 +1,7 @@
 # Seven Psychopaths
 
+[Compare across authors](../../compare/?t=film-seven-psychopaths_86838)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 50m • Crime, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Glass
 
+[Compare across authors](../../compare/?t=film-glass_450465)
+
 ## Atmos
 
 **2019 • PG-13 • 2h 9m • Thriller, Drama, Science Fiction • mobe1969**

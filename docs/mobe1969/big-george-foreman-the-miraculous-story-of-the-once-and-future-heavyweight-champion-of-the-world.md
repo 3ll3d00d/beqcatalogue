@@ -1,5 +1,7 @@
 # Big George Foreman: The Miraculous Story of the Once and Future Heavyweight Champion of the World
 
+[Compare across authors](../../compare/?t=film-big-george-foreman-the-miraculous-story-of-the-once-and-future-heavyweight-champion-of-the-world_878361)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 2h 9m • Drama • mobe1969**

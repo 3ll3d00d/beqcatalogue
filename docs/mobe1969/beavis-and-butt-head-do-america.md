@@ -1,5 +1,7 @@
 # Beavis and Butt-Head Do America
 
+[Compare across authors](../../compare/?t=film-beavis-and-butt-head-do-america_3179)
+
 ## DD 5.1
 
 **1996 • PG-13 • 1h 21m • Animation, Comedy • mobe1969**

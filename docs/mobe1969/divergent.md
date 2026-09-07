@@ -1,5 +1,7 @@
 # Divergent
 
+[Compare across authors](../../compare/?t=film-divergent_157350)
+
 ## Atmos
 
 **2014 • PG-13 • 2h 19m • Action, Adventure, Science Fiction • mobe1969**

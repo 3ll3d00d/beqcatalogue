@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-peripheral_95403)
+
 ## Season 1 Episodes 1-3, 5-8
 
 * DD+

@@ -1,5 +1,7 @@
 # Pacific Rim: Uprising
 
+[Compare across authors](../../compare/?t=film-pacific-rim-uprising_268896)
+
 ## Atmos
 
 **2018 • PG-13 • 1h 51m • Action, Fantasy, Science Fiction, Adventure • mobe1969**

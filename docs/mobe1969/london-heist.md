@@ -1,5 +1,7 @@
 # London Heist
 
+[Compare across authors](../../compare/?t=film-london-heist_453759)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 1h 31m • Thriller, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Bajirao Mastani
 
+[Compare across authors](../../compare/?t=film-bajirao-mastani_362045)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2015 • NR • 2h 38m • Hindi • War, History, Romance • mobe1969**

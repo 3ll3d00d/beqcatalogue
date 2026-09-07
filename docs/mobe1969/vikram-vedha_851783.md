@@ -1,5 +1,7 @@
 # Vikram Vedha
 
+[Compare across authors](../../compare/?t=film-vikram-vedha_851783)
+
 ## DD+ 5.1
 
 **2022 • 15 • 2h 40m • Hindi • Action, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Volition
 
+[Compare across authors](../../compare/?t=film-volition_600348)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 31m • Science Fiction, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Commando - A One Man Army
 
+[Compare across authors](../../compare/?t=film-commando-a-one-man-army_185640)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 41m • Hindi • Action • mobe1969**

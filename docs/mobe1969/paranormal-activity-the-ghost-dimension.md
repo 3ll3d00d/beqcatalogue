@@ -1,5 +1,7 @@
 # Paranormal Activity: The Ghost Dimension
 
+[Compare across authors](../../compare/?t=film-paranormal-activity-the-ghost-dimension_146301)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 28m • Horror, Thriller • mobe1969**

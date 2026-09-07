@@ -1,5 +1,7 @@
 # Life on the Line
 
+[Compare across authors](../../compare/?t=film-life-on-the-line_398289)
+
 ## DTS-HD MA 5.1
 
 **2015 • 12 • 1h 37m • Drama, Action • mobe1969**

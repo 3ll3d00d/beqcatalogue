@@ -1,5 +1,7 @@
 # League of Gods
 
+[Compare across authors](../../compare/?t=film-league-of-gods_406429)
+
 ## DD+ 5.1
 
 **2016 • NR • 2h 10m • Mandarin • Action, Fantasy • mobe1969**

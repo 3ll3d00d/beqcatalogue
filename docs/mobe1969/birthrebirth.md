@@ -1,5 +1,7 @@
 # Birth/Rebirth
 
+[Compare across authors](../../compare/?t=film-birthrebirth_1058638)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 36m • Drama, Horror, Thriller • mobe1969**

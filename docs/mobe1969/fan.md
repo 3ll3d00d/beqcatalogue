@@ -1,5 +1,7 @@
 # Fan
 
+[Compare across authors](../../compare/?t=film-fan_377985)
+
 ## DD+ 5.1
 
 **2016 • NR • 2h 18m • Hindi • Action, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Kung Fu Yoga
 
+[Compare across authors](../../compare/?t=film-kung-fu-yoga_383785)
+
 ## DTS-X
 
 **2017 • NR • 1h 47m • Mandarin • Comedy, Mystery, Action, Adventure • mobe1969**

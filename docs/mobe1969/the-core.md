@@ -1,5 +1,7 @@
 # The Core
 
+[Compare across authors](../../compare/?t=film-the-core_9341)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2003 • PG-13 • 2h 16m • Action, Thriller, Adventure, Science Fiction • mobe1969**

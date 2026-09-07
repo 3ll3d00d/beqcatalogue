@@ -1,5 +1,7 @@
 # Jungle Beat: The Movie
 
+[Compare across authors](../../compare/?t=film-jungle-beat-the-movie_663459)
+
 ## DD+ 5.1
 
 **2020 • G • 1h 24m • Family, Animation, Science Fiction, Comedy • mobe1969**

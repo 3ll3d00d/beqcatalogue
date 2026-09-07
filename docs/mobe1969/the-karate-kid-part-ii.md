@@ -1,5 +1,7 @@
 # The Karate Kid Part II
 
+[Compare across authors](../../compare/?t=film-the-karate-kid-part-ii_8856)
+
 ## Atmos
 
 **1986 • PG • 1h 53m • Adventure, Drama, Action, Romance, Family • mobe1969**

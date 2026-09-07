@@ -1,5 +1,7 @@
 # Black Coal, Thin Ice
 
+[Compare across authors](../../compare/?t=film-black-coal-thin-ice_255756)
+
 ## DTS-HD MA 5.1
 
 **2014 • MA15+ • 1h 46m • Mandarin • Crime, Drama, Mystery, Thriller • mobe1969**

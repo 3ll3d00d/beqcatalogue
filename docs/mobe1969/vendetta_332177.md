@@ -1,5 +1,7 @@
 # Vendetta
 
+[Compare across authors](../../compare/?t=film-vendetta_332177)
+
 ## DTS-HD MA 5.1
 
 **2015 • M • 1h 30m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # T2 Trainspotting
 
+[Compare across authors](../../compare/?t=film-t2-trainspotting_180863)
+
 ## Atmos
 
 **2017 • R • 1h 57m • Crime, Drama • mobe1969**

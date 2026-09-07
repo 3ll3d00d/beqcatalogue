@@ -1,5 +1,7 @@
 # How to Train Your Dragon 2
 
+[Compare across authors](../../compare/?t=film-how-to-train-your-dragon-2_82702)
+
 ## DTS-HD MA 7.1
 
 **2014 • PG • 1h 42m • Fantasy, Action, Adventure, Animation, Comedy, Family • mobe1969**

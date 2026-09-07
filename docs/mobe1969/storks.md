@@ -1,5 +1,7 @@
 # Storks
 
+[Compare across authors](../../compare/?t=film-storks_332210)
+
 ## DTS-HD MA 7.1
 
 **2016 • PG • 1h 27m • Adventure, Animation, Comedy, Family • mobe1969**

@@ -1,5 +1,7 @@
 # The Jack in the Box
 
+[Compare across authors](../../compare/?t=film-the-jack-in-the-box_622420)
+
 ## DD+ 5.1
 
 **2019 • 18 • 1h 27m • Horror • mobe1969**

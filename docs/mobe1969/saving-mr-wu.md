@@ -1,5 +1,7 @@
 # Saving Mr. Wu
 
+[Compare across authors](../../compare/?t=film-saving-mr-wu_362154)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 46m • Mandarin • Thriller, Crime, Action, Drama • mobe1969**

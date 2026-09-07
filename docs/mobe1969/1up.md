@@ -1,5 +1,7 @@
 # 1UP
 
+[Compare across authors](../../compare/?t=film-1up_767401)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 40m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # All The Bright Places
 
+[Compare across authors](../../compare/?t=film-all-the-bright-places_342470)
+
 ## DD+ Atmos
 
 **2020 • NR • 1h 48m • Romance, Drama • mobe1969**

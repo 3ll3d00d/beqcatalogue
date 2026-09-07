@@ -1,5 +1,7 @@
 # One Piece Film Red
 
+[Compare across authors](../../compare/?t=film-one-piece-film-red_900667)
+
 ## DTS-HD MA 5.1
 
 **2022 • PG-13 • 1h 55m • Japanese • Animation, Adventure, Action, Fantasy • mobe1969**

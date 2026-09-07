@@ -1,5 +1,7 @@
 # Bedevilled
 
+[Compare across authors](../../compare/?t=film-bedevilled_59421)
+
 ## DTS-HD MA 5.1
 
 **2010 • 18 • 1h 55m • Korean • Thriller, Crime, Drama, Horror • mobe1969**

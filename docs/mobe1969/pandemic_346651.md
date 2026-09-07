@@ -1,5 +1,7 @@
 # Pandemic
 
+[Compare across authors](../../compare/?t=film-pandemic_346651)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 31m • Science Fiction, Horror, Thriller, Action • mobe1969**

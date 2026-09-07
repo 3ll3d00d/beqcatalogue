@@ -1,5 +1,7 @@
 # I Used to Be Famous
 
+[Compare across authors](../../compare/?t=film-i-used-to-be-famous_1013228)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 44m • Comedy, Drama, Music • mobe1969**

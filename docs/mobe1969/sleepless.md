@@ -1,5 +1,7 @@
 # Sleepless
 
+[Compare across authors](../../compare/?t=film-sleepless_324542)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 35m • Action, Thriller, Crime • mobe1969**

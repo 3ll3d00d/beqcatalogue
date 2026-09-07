@@ -1,5 +1,7 @@
 # The Covenant
 
+[Compare across authors](../../compare/?t=film-the-covenant_9954)
+
 ## LPCM 5.1
 
 **2006 • PG-13 • 1h 37m • Horror, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Home Alone
 
+[Compare across authors](../../compare/?t=film-home-alone_771)
+
 ## DTS-HD MA 5.1
 
 **1990 • PG • 1h 43m • Comedy, Family • mobe1969**

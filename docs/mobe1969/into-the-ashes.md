@@ -1,5 +1,7 @@
 # Into the Ashes
 
+[Compare across authors](../../compare/?t=film-into-the-ashes_609189)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 37m • Crime, Thriller, Drama, Mystery • mobe1969**

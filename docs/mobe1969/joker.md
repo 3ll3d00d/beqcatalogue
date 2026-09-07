@@ -1,5 +1,7 @@
 # Joker
 
+[Compare across authors](../../compare/?t=film-joker_475557)
+
 ## Atmos
 
 **2020 • R • 2h 2m • Crime, Thriller, Drama • mobe1969**

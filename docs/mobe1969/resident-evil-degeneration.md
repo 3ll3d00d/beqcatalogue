@@ -1,5 +1,7 @@
 # Resident Evil: Degeneration
 
+[Compare across authors](../../compare/?t=film-resident-evil-degeneration_13648)
+
 ## TrueHD 5.1
 
 **2008 • R • 1h 37m • Animation, Horror, Action, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Emperor
 
+[Compare across authors](../../compare/?t=film-emperor_666219)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 39m • Drama, History • mobe1969**

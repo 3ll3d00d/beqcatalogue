@@ -1,5 +1,7 @@
 # Sweetwater
 
+[Compare across authors](../../compare/?t=film-sweetwater_158916)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 36m • Western, Thriller • mobe1969**

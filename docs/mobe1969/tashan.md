@@ -1,5 +1,7 @@
 # Tashan
 
+[Compare across authors](../../compare/?t=film-tashan_14193)
+
 ## DD+ 5.1
 
 **2008 • NR • 2h 28m • Hindi • Action, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # R.I.A (Override)
 
+[Compare across authors](../../compare/?t=film-ria-override_694938)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 35m • Adventure, Science Fiction, Thriller • mobe1969**

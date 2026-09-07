@@ -1,5 +1,7 @@
 # The Legion
 
+[Compare across authors](../../compare/?t=film-the-legion_631939)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 36m • Adventure, History, Action • mobe1969**

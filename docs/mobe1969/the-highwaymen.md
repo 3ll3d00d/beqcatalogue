@@ -1,5 +1,7 @@
 # The Highwaymen
 
+[Compare across authors](../../compare/?t=film-the-highwaymen_500682)
+
 ## DD+ Atmos
 
 **2019 • R • 2h 13m • Crime, Drama, Thriller • mobe1969**

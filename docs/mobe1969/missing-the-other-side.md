@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-missing-the-other-side_106761)
+
 ## Season 1
 
 * DD+ 2.0

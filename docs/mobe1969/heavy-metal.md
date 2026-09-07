@@ -1,5 +1,7 @@
 # Heavy Metal
 
+[Compare across authors](../../compare/?t=film-heavy-metal_11827)
+
 ## Atmos
 
 **1981 • R • 1h 30m • Animation, Science Fiction, Adventure, Fantasy, Music • mobe1969**

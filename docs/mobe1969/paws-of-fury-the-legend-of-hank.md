@@ -1,5 +1,7 @@
 # Paws of Fury: The Legend of Hank
 
+[Compare across authors](../../compare/?t=film-paws-of-fury-the-legend-of-hank_366672)
+
 ## Atmos
 
 **2022 • PG • 1h 34m • Animation, Action, Adventure, Comedy, Family, Western • mobe1969**

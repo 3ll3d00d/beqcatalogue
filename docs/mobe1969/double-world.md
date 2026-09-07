@@ -1,5 +1,7 @@
 # Double World
 
+[Compare across authors](../../compare/?t=film-double-world_611395)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 50m • Mandarin • Action, Adventure, Fantasy • mobe1969**

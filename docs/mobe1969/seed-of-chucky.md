@@ -1,5 +1,7 @@
 # Seed of Chucky
 
+[Compare across authors](../../compare/?t=film-seed-of-chucky_11249)
+
 ## DTS-HD MA 5.1
 
 **2004 • R • 1h 27m • Comedy, Horror • mobe1969**

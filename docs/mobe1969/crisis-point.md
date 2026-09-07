@@ -1,5 +1,7 @@
 # Crisis Point
 
+[Compare across authors](../../compare/?t=film-crisis-point_120409)
+
 ## DD+ 5.1
 
 **2012 • PG • 1h 25m • Thriller, Drama • mobe1969**

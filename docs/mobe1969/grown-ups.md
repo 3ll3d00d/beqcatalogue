@@ -1,5 +1,7 @@
 # Grown Ups
 
+[Compare across authors](../../compare/?t=film-grown-ups_38365)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 42m • Comedy • mobe1969**

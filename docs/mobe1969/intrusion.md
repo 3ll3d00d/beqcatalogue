@@ -1,5 +1,7 @@
 # Intrusion
 
+[Compare across authors](../../compare/?t=film-intrusion_785752)
+
 ## DD+ 5.1
 
 **2021 • 12 • 1h 33m • Thriller • mobe1969**

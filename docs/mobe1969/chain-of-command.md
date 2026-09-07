@@ -1,5 +1,7 @@
 # Chain of Command
 
+[Compare across authors](../../compare/?t=film-chain-of-command_352978)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 28m • Action, Thriller, Adventure • mobe1969**

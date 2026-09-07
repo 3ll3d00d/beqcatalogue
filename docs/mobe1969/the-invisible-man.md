@@ -1,5 +1,7 @@
 # The Invisible Man
 
+[Compare across authors](../../compare/?t=film-the-invisible-man_570670)
+
 ## Atmos
 
 **2020 • R • 2h 4m • Thriller, Science Fiction, Horror • mobe1969**

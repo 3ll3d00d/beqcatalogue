@@ -1,5 +1,7 @@
 # Thunderball
 
+[Compare across authors](../../compare/?t=film-thunderball_660)
+
 ## DD+ 5.1
 
 **1965 • PG • 2h 10m • Adventure, Action, Thriller • mobe1969**

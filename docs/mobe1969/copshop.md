@@ -1,5 +1,7 @@
 # Copshop
 
+[Compare across authors](../../compare/?t=film-copshop_738652)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 47m • Thriller, Crime, Action • mobe1969**

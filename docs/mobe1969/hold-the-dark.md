@@ -1,5 +1,7 @@
 # Hold the Dark
 
+[Compare across authors](../../compare/?t=film-hold-the-dark_395841)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 6m • Thriller, Mystery, Crime • mobe1969**

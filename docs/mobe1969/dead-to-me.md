@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-dead-to-me_81357)
+
 ## Season 1
 
 * DD+ 5.1

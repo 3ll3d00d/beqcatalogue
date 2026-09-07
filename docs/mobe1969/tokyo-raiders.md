@@ -1,5 +1,7 @@
 # Tokyo Raiders
 
+[Compare across authors](../../compare/?t=film-tokyo-raiders_45438)
+
 ## TrueHD 5.1
 
 **2000 • NR • 1h 58m • Cantonese • Thriller, Action, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # King of Thieves
 
+[Compare across authors](../../compare/?t=film-king-of-thieves_520360)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 48m • Drama, Crime • mobe1969**

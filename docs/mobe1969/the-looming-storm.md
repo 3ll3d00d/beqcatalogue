@@ -1,5 +1,7 @@
 # The Looming Storm
 
+[Compare across authors](../../compare/?t=film-the-looming-storm_487786)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 2h 0m • Mandarin • Crime, Mystery, Thriller • mobe1969**

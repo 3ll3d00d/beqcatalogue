@@ -1,5 +1,7 @@
 # The Boy
 
+[Compare across authors](../../compare/?t=film-the-boy_321258)
+
 ## TrueHD 7.1
 
 **2016 • PG-13 • 1h 37m • Horror, Thriller, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Five Nights at Freddy's
 
+[Compare across authors](../../compare/?t=film-five-nights-at-freddys_507089)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 50m • Horror, Thriller • mobe1969**

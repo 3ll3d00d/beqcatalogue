@@ -1,5 +1,7 @@
 # Viruman
 
+[Compare across authors](../../compare/?t=film-viruman_870769)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 31m • Tamil • Action, Family • mobe1969**

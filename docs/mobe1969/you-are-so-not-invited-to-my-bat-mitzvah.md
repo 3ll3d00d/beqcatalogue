@@ -1,5 +1,7 @@
 # You Are So Not Invited to My Bat Mitzvah
 
+[Compare across authors](../../compare/?t=film-you-are-so-not-invited-to-my-bat-mitzvah_999644)
+
 ## DD+ Atmos
 
 **2023 • PG-13 • 1h 43m • Comedy • mobe1969**

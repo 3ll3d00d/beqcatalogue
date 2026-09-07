@@ -1,5 +1,7 @@
 # The Seventh Day
 
+[Compare across authors](../../compare/?t=film-the-seventh-day_645856)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 27m • Horror • mobe1969**

@@ -1,5 +1,7 @@
 # The Nun II
 
+[Compare across authors](../../compare/?t=film-the-nun-ii_968051)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 50m • Horror, Mystery, Thriller • mobe1969**

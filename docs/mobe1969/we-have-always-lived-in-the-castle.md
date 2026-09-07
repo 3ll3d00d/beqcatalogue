@@ -1,5 +1,7 @@
 # We Have Always Lived in the Castle
 
+[Compare across authors](../../compare/?t=film-we-have-always-lived-in-the-castle_411144)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 36m • Mystery, Thriller, Horror • mobe1969**

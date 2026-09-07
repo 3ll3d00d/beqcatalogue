@@ -1,5 +1,7 @@
 # Mary and the Witch's Flower
 
+[Compare across authors](../../compare/?t=film-mary-and-the-witchs-flower_430447)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG • 1h 43m • Japanese • Fantasy, Adventure, Animation • mobe1969**

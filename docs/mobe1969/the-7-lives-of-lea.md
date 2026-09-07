@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-7-lives-of-lea_195928)
+
 ## Season 1
 
 * DD+ 5.1

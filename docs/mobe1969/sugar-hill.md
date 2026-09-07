@@ -1,5 +1,7 @@
 # Sugar Hill
 
+[Compare across authors](../../compare/?t=film-sugar-hill_39349)
+
 ## DD+ 2.0
 
 **1993 • R • 2h 3m • Drama, Action, Thriller • mobe1969**

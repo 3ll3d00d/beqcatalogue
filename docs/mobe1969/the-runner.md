@@ -1,5 +1,7 @@
 # The Runner
 
+[Compare across authors](../../compare/?t=film-the-runner_277546)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 30m • Drama • mobe1969**

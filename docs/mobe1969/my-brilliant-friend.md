@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-my-brilliant-friend_78154)
+
 ## Season 1
 
 * DTS-HD MA 5.1

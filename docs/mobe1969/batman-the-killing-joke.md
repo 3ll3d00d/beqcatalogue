@@ -1,5 +1,7 @@
 # Batman: The Killing Joke
 
+[Compare across authors](../../compare/?t=film-batman-the-killing-joke_382322)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 16m • Action, Animation, Crime, Drama • mobe1969**

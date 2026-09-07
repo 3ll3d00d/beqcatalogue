@@ -1,5 +1,7 @@
 # The Claus Family
 
+[Compare across authors](../../compare/?t=film-the-claus-family_767896)
+
 ## DD+ 5.1
 
 **2020 • PG • 1h 36m • Flemish • Family, Fantasy • mobe1969**

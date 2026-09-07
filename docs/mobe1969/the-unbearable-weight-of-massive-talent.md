@@ -1,5 +1,7 @@
 # The Unbearable Weight of Massive Talent
 
+[Compare across authors](../../compare/?t=film-the-unbearable-weight-of-massive-talent_648579)
+
 ## Atmos, DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • R • 1h 47m • Action, Comedy, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # The Adventures of Pluto Nash
 
+[Compare across authors](../../compare/?t=film-the-adventures-of-pluto-nash_11692)
+
 ## DD+ 5.1
 
 **2002 • PG-13 • 1h 35m • Action, Comedy, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # The Corrupted
 
+[Compare across authors](../../compare/?t=film-the-corrupted_512239)
+
 ## DTS-HD MA 5.1
 
 **2019 • 18 • 1h 43m • Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Sanako
 
+[Compare across authors](../../compare/?t=film-sanako_1018993)
+
 ## DD+ 5.1
 
 **2021 • NR • 0h 17m • Hindi • Thriller, Drama • mobe1969**

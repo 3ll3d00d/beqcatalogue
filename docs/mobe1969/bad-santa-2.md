@@ -1,5 +1,7 @@
 # Bad Santa 2
 
+[Compare across authors](../../compare/?t=film-bad-santa-2_338964)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

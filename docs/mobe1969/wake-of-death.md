@@ -1,5 +1,7 @@
 # Wake of Death
 
+[Compare across authors](../../compare/?t=film-wake-of-death_14172)
+
 ## DD 5.1
 
 **2004 • R • 1h 31m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Mrs. Chatterjee vs Norway
 
+[Compare across authors](../../compare/?t=film-mrs-chatterjee-vs-norway_986594)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 15m • Hindi • Drama, Thriller • mobe1969**

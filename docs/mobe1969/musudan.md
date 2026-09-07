@@ -1,5 +1,7 @@
 # Musudan
 
+[Compare across authors](../../compare/?t=film-musudan_387845)
+
 ## DD 2.0
 
 **2016 • NR • 1h 27m • Korean • Mystery, Thriller, Action • mobe1969**

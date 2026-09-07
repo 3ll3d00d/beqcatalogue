@@ -1,5 +1,7 @@
 # World War Z
 
+[Compare across authors](../../compare/?t=film-world-war-z_72190)
+
 ## DTS-HD MA 7.1
 
 Extended Cut

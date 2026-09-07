@@ -1,5 +1,7 @@
 # Jexi
 
+[Compare across authors](../../compare/?t=film-jexi_620725)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 24m • Comedy • mobe1969**

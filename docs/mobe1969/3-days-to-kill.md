@@ -1,5 +1,7 @@
 # 3 Days to Kill
 
+[Compare across authors](../../compare/?t=film-3-days-to-kill_192102)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

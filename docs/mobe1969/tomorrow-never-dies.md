@@ -1,5 +1,7 @@
 # Tomorrow Never Dies
 
+[Compare across authors](../../compare/?t=film-tomorrow-never-dies_714)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1997 • PG-13 • 1h 59m • Adventure, Action, Thriller • mobe1969**

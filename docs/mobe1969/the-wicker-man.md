@@ -1,5 +1,7 @@
 # The Wicker Man
 
+[Compare across authors](../../compare/?t=film-the-wicker-man_9708)
+
 ## TrueHD 5.1
 
 **2006 • PG-13 • 1h 42m • Drama, Mystery, Horror, Thriller • mobe1969**

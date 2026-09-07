@@ -1,5 +1,7 @@
 # 57 Seconds
 
+[Compare across authors](../../compare/?t=film-57-seconds_937249)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 39m • Thriller, Science Fiction • mobe1969**

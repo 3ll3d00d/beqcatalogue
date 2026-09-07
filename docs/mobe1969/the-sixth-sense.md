@@ -1,5 +1,7 @@
 # The Sixth Sense
 
+[Compare across authors](../../compare/?t=film-the-sixth-sense_745)
+
 ## LPCM 5.1
 
 **1999 • PG-13 • 1h 47m • Mystery, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Beauty and the Beast
 
+[Compare across authors](../../compare/?t=film-beauty-and-the-beast_321612)
+
 ## DTS-HD MA 7.1
 
 **2017 • PG • 2h 9m • Family, Fantasy, Romance • mobe1969**

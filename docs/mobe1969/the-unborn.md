@@ -1,5 +1,7 @@
 # The Unborn
 
+[Compare across authors](../../compare/?t=film-the-unborn_13788)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 27m • Thriller, Mystery, Horror • mobe1969**

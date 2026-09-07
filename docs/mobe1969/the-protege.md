@@ -1,5 +1,7 @@
 # The Protégé
 
+[Compare across authors](../../compare/?t=film-the-protege_645788)
+
 ## Atmos
 
 **2021 • R • 1h 49m • Action, Thriller • mobe1969**

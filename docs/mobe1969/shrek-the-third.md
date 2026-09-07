@@ -1,5 +1,7 @@
 # Shrek the Third
 
+[Compare across authors](../../compare/?t=film-shrek-the-third_810)
+
 ## DTS-X
 
 **2007 • PG • 1h 33m • Fantasy, Adventure, Animation, Comedy, Family • mobe1969**

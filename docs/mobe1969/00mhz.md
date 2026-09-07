@@ -1,5 +1,7 @@
 # 0.0MHz
 
+[Compare across authors](../../compare/?t=film-00mhz_584586)
+
 ## TrueHD 7.1
 
 **2019 • NR • 1h 42m • Korean • Horror • mobe1969**

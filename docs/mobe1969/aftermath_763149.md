@@ -1,5 +1,7 @@
 # Aftermath
 
+[Compare across authors](../../compare/?t=film-aftermath_763149)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 54m • Horror, Crime, Drama, Thriller • mobe1969**

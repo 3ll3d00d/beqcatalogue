@@ -1,5 +1,7 @@
 # Black Rain
 
+[Compare across authors](../../compare/?t=film-black-rain_4105)
+
 ## DD 5.1
 
 **1989 • R • 2h 5m • Thriller, Action, Crime • mobe1969**

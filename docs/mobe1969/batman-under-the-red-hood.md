@@ -1,5 +1,7 @@
 # Batman: Under the Red Hood
 
+[Compare across authors](../../compare/?t=film-batman-under-the-red-hood_40662)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 15m • Science Fiction, Crime, Action, Animation, Mystery • mobe1969**

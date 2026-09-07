@@ -1,5 +1,7 @@
 # Johnny English
 
+[Compare across authors](../../compare/?t=film-johnny-english_9486)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG • 1h 28m • Adventure, Action, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Joy
 
+[Compare across authors](../../compare/?t=film-joy_274479)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 2h 4m • Drama, Comedy • mobe1969**

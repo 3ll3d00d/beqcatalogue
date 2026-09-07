@@ -1,5 +1,7 @@
 # The Kitchen
 
+[Compare across authors](../../compare/?t=film-the-kitchen_487680)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2019 • PG-13 • 1h 44m • Action • mobe1969**

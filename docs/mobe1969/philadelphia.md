@@ -1,5 +1,7 @@
 # Philadelphia
 
+[Compare across authors](../../compare/?t=film-philadelphia_9800)
+
 ## Atmos
 
 **1993 • PG-13 • 2h 6m • Drama • mobe1969**

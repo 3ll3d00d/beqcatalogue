@@ -1,5 +1,7 @@
 # Gemini Man
 
+[Compare across authors](../../compare/?t=film-gemini-man_453405)
+
 ## Atmos
 
 **2019 • PG-13 • 1h 57m • Science Fiction, Action, Thriller • mobe1969**

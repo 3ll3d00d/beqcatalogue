@@ -1,5 +1,7 @@
 # Ice Age: Continental Drift
 
+[Compare across authors](../../compare/?t=film-ice-age-continental-drift_57800)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG • 1h 28m • Animation, Comedy, Adventure, Family • mobe1969**

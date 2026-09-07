@@ -1,5 +1,7 @@
 # Daughter of the Wolf
 
+[Compare across authors](../../compare/?t=film-daughter-of-the-wolf_525657)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2019 • R • 1h 28m • Action, Thriller • mobe1969**

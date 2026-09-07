@@ -1,5 +1,7 @@
 # Special ID
 
+[Compare across authors](../../compare/?t=film-special-id_222216)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 38m • Mandarin • Drama, Action, Crime • mobe1969**

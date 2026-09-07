@@ -1,5 +1,7 @@
 # I Spit on Your Grave
 
+[Compare across authors](../../compare/?t=film-i-spit-on-your-grave_43947)
+
 ## TrueHD 5.1
 
 **2010 • R • 1h 48m • Horror, Thriller, Crime • mobe1969**

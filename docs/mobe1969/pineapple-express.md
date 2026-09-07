@@ -1,5 +1,7 @@
 # Pineapple Express
 
+[Compare across authors](../../compare/?t=film-pineapple-express_10189)
+
 ## Atmos
 
 Theatrical Cut

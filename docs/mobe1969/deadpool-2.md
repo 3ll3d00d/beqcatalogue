@@ -1,5 +1,7 @@
 # Deadpool 2
 
+[Compare across authors](../../compare/?t=film-deadpool-2_383498)
+
 ## Atmos
 
 Extended Cut

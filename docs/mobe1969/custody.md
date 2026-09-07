@@ -1,5 +1,7 @@
 # Custody
 
+[Compare across authors](../../compare/?t=film-custody_965203)
+
 ## DD+ 5.1
 
 **2023 • 12A • 2h 30m • Telugu • Action, Thriller • mobe1969**

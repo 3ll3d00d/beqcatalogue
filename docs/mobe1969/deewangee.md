@@ -1,5 +1,7 @@
 # Deewangee
 
+[Compare across authors](../../compare/?t=film-deewangee_78827)
+
 ## DD+ 5.1
 
 **2002 • NR • 2h 36m • Hindi • Crime, Drama, Mystery, Thriller • mobe1969**

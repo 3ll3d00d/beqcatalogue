@@ -1,5 +1,7 @@
 # Nighthawks
 
+[Compare across authors](../../compare/?t=film-nighthawks_21610)
+
 ## DTS-HD MA 2.0
 
 **1981 • R • 1h 39m • Action, Crime, Thriller • mobe1969**

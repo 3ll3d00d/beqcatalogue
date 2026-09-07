@@ -1,5 +1,7 @@
 # The Invasion
 
+[Compare across authors](../../compare/?t=film-the-invasion_4858)
+
 ## TrueHD 5.1
 
 **2007 • PG-13 • 1h 39m • Thriller, Science Fiction • mobe1969**

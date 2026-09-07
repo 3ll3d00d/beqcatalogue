@@ -1,5 +1,7 @@
 # Shaitan
 
+[Compare across authors](../../compare/?t=film-shaitan_69785)
+
 ## DD+ 5.1
 
 **2011 • NR • 2h 6m • Hindi • Action, Crime, Drama, Thriller • mobe1969**

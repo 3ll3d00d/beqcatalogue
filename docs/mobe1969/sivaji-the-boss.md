@@ -1,5 +1,7 @@
 # Sivaji: The Boss
 
+[Compare across authors](../../compare/?t=film-sivaji-the-boss_24049)
+
 ## DD+ 5.1
 
 **2007 • PG-13 • 3h 9m • Tamil • Action, Drama • mobe1969**

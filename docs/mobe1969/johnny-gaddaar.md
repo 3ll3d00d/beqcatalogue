@@ -1,5 +1,7 @@
 # Johnny Gaddaar
 
+[Compare across authors](../../compare/?t=film-johnny-gaddaar_20129)
+
 ## DD+ 5.1
 
 **2007 • NR • 2h 31m • Hindi • Crime, Drama, Mystery, Thriller • mobe1969**

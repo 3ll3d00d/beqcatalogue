@@ -1,5 +1,7 @@
 # Kung Fu Panda 2
 
+[Compare across authors](../../compare/?t=film-kung-fu-panda-2_49444)
+
 ## TrueHD 7.1
 
 **2011 • PG • 1h 31m • Animation, Family • mobe1969**

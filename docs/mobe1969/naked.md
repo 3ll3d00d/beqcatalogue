@@ -1,5 +1,7 @@
 # Naked
 
+[Compare across authors](../../compare/?t=film-naked_433251)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 36m • Comedy • mobe1969**

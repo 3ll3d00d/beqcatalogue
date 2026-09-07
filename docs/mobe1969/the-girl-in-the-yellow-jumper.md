@@ -1,5 +1,7 @@
 # The Girl in the Yellow Jumper
 
+[Compare across authors](../../compare/?t=film-the-girl-in-the-yellow-jumper_881274)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 20m • Crime, Thriller • mobe1969**

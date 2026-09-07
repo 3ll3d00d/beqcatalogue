@@ -1,5 +1,7 @@
 # I Come with the Rain
 
+[Compare across authors](../../compare/?t=film-i-come-with-the-rain_31166)
+
 ## DTS-HD MA 5.1
 
 **2009 • 18 • 1h 54m • Thriller • mobe1969**

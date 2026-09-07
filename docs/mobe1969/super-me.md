@@ -1,5 +1,7 @@
 # Super Me
 
+[Compare across authors](../../compare/?t=film-super-me_603768)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 42m • Mandarin • Adventure, Drama, Fantasy • mobe1969**

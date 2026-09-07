@@ -1,5 +1,7 @@
 # Scoob!
 
+[Compare across authors](../../compare/?t=film-scoob_385103)
+
 ## DTS-HD MA 5.1
 
 **2020 • PG • 1h 33m • Animation, Comedy, Family, Mystery • mobe1969**

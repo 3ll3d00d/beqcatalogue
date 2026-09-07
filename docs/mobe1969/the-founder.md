@@ -1,5 +1,7 @@
 # The Founder
 
+[Compare across authors](../../compare/?t=film-the-founder_310307)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 55m • Drama, History • mobe1969**

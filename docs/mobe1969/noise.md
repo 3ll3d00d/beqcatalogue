@@ -1,5 +1,7 @@
 # Noise
 
+[Compare across authors](../../compare/?t=film-noise_1057577)
+
 ## DD+ Atmos
 
 **2023 • 15 • 1h 30m • Flemish • Thriller • mobe1969**

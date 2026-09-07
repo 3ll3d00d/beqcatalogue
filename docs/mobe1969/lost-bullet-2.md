@@ -1,5 +1,7 @@
 # Lost Bullet 2
 
+[Compare across authors](../../compare/?t=film-lost-bullet-2_948276)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 40m • French • Action, Drama, Thriller • mobe1969**

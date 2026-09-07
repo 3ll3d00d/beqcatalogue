@@ -1,5 +1,7 @@
 # The Marine 6: Close Quarters
 
+[Compare across authors](../../compare/?t=film-the-marine-6-close-quarters_548928)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 25m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Dabangg
 
+[Compare across authors](../../compare/?t=film-dabangg_44425)
+
 ## DD 5.1
 
 **2010 • PG-13 • 2h 10m • Hindi • Action, Comedy, Crime • mobe1969**

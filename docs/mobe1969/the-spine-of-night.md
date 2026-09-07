@@ -1,5 +1,7 @@
 # The Spine of Night
 
+[Compare across authors](../../compare/?t=film-the-spine-of-night_795522)
+
 ## DTS-HD MA 5.1
 
 **2021 • NC-17 • 1h 33m • Animation, Fantasy, Action • mobe1969**

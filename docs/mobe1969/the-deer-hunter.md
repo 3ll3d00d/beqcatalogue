@@ -1,5 +1,7 @@
 # The Deer Hunter
 
+[Compare across authors](../../compare/?t=film-the-deer-hunter_11778)
+
 ## DTS-HD MA 5.1
 
 **1978 • R • 3h 4m • Drama, War • mobe1969**

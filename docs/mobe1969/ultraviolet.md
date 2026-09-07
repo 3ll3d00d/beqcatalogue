@@ -1,5 +1,7 @@
 # Ultraviolet
 
+[Compare across authors](../../compare/?t=film-ultraviolet_9920)
+
 ## LPCM 5.1
 
 **2006 • PG-13 • 1h 27m • Thriller, Science Fiction, Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Long Kiss Goodnight
 
+[Compare across authors](../../compare/?t=film-the-long-kiss-goodnight_11412)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 2h 1m • Crime, Action, Mystery, Thriller • mobe1969**

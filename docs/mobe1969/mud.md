@@ -1,5 +1,7 @@
 # Mud
 
+[Compare across authors](../../compare/?t=film-mud_103731)
+
 ## TrueHD 5.1
 
 **2012 • PG-13 • 2h 10m • Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Mission: Impossible - Dead Reckoning Part One
 
+[Compare across authors](../../compare/?t=film-mission-impossible-dead-reckoning-part-one_575264)
+
 ## Atmos
 
 **2023 • PG-13 • 2h 44m • Action, Thriller • mobe1969**

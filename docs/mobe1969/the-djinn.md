@@ -1,5 +1,7 @@
 # The Djinn
 
+[Compare across authors](../../compare/?t=film-the-djinn_797946)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 22m • Horror, Thriller • mobe1969**

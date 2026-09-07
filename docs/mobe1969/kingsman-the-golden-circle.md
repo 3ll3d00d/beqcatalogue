@@ -1,5 +1,7 @@
 # Kingsman: The Golden Circle
 
+[Compare across authors](../../compare/?t=film-kingsman-the-golden-circle_343668)
+
 ## Atmos
 
 **2017 • R • 2h 21m • Action, Adventure, Comedy, Crime, Thriller • mobe1969**

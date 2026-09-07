@@ -1,5 +1,7 @@
 # The Dictator
 
+[Compare across authors](../../compare/?t=film-the-dictator_76493)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

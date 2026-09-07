@@ -1,5 +1,7 @@
 # The Colony
 
+[Compare across authors](../../compare/?t=film-the-colony_178809)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 35m • Action, Science Fiction, Thriller • mobe1969**

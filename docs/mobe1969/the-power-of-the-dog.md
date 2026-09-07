@@ -1,5 +1,7 @@
 # The Power of the Dog
 
+[Compare across authors](../../compare/?t=film-the-power-of-the-dog_600583)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • R • 2h 7m • Western, Drama, Romance • mobe1969**

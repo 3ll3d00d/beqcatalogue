@@ -1,5 +1,7 @@
 # Invasion U.S.A.
 
+[Compare across authors](../../compare/?t=film-invasion-usa_15983)
+
 ## DTS-HD MA 5.1
 
 **1985 • R • 1h 47m • Action • mobe1969**

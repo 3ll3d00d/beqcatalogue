@@ -1,5 +1,7 @@
 # Full Throttle
 
+[Compare across authors](../../compare/?t=film-full-throttle_53720)
+
 ## TrueHD 7.1
 
 **1995 • NR • 1h 54m • Cantonese • Action, Drama • mobe1969**

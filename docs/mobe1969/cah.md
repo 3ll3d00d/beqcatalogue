@@ -1,5 +1,7 @@
 # Ca$h
 
+[Compare across authors](../../compare/?t=film-cah_27004)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 48m • Crime, Thriller, Comedy, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Basic
 
+[Compare across authors](../../compare/?t=film-basic_10782)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 38m • Action, Drama, Mystery, Thriller, Crime • mobe1969**

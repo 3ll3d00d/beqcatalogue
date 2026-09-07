@@ -1,5 +1,7 @@
 # Mister Organ
 
+[Compare across authors](../../compare/?t=film-mister-organ_1013602)
+
 ## DTS-HD MA 5.1
 
 **2022 • MA15+ • 1h 36m • Documentary • mobe1969**

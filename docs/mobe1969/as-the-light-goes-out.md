@@ -1,5 +1,7 @@
 # As The Light Goes Out
 
+[Compare across authors](../../compare/?t=film-as-the-light-goes-out_247954)
+
 ## DD+ 5.1
 
 **2014 • NR • 1h 55m • Cantonese • Drama, Action • mobe1969**

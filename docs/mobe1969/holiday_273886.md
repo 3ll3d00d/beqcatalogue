@@ -1,5 +1,7 @@
 # Holiday
 
+[Compare across authors](../../compare/?t=film-holiday_273886)
+
 ## DTS-HD MA 5.1
 
 **2014 • 15 • 2h 41m • Hindi • Action, Crime, Thriller • mobe1969**

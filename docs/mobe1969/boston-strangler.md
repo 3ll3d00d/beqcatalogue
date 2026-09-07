@@ -1,5 +1,7 @@
 # Boston Strangler
 
+[Compare across authors](../../compare/?t=film-boston-strangler_881164)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 52m • Thriller, Drama, Crime • mobe1969**

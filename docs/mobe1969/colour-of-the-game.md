@@ -1,5 +1,7 @@
 # Colour of the Game
 
+[Compare across authors](../../compare/?t=film-colour-of-the-game_479272)
+
 ## TrueHD 5.1
 
 **2017 • NR • 1h 44m • Cantonese • Drama, Action, Thriller, Crime • mobe1969**

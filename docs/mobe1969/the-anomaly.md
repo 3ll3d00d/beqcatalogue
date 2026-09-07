@@ -1,5 +1,7 @@
 # The Anomaly
 
+[Compare across authors](../../compare/?t=film-the-anomaly_269173)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 37m • Thriller, Action, Science Fiction • mobe1969**

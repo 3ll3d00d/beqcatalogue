@@ -1,5 +1,7 @@
 # Sleepers
 
+[Compare across authors](../../compare/?t=film-sleepers_819)
+
 ## DD+ 5.1
 
 **1996 • R • 2h 27m • Crime, Drama, Thriller • mobe1969**

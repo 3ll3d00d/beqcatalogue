@@ -1,5 +1,7 @@
 # Tron
 
+[Compare across authors](../../compare/?t=film-tron_97)
+
 ## DTS-HD MA 5.1
 
 **1982 • PG • 1h 36m • Science Fiction, Action, Adventure • mobe1969**

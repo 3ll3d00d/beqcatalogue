@@ -1,5 +1,7 @@
 # Old Man
 
+[Compare across authors](../../compare/?t=film-old-man_766220)
+
 ## DTS-HD MA 5.1
 
 **2022 • 15 • 1h 38m • Thriller, Horror • mobe1969**

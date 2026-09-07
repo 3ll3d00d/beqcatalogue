@@ -1,5 +1,7 @@
 # Lost Highway
 
+[Compare across authors](../../compare/?t=film-lost-highway_638)
+
 ## DTS-HD MA 5.1
 
 **1997 • R • 2h 14m • Drama, Mystery, Thriller • mobe1969**

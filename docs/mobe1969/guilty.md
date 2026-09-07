@@ -1,5 +1,7 @@
 # Guilty
 
+[Compare across authors](../../compare/?t=film-guilty_337961)
+
 ## TrueHD 5.1
 
 **2015 • NR • 1h 43m • Cantonese • Romance, Thriller, Mystery, Drama • mobe1969**

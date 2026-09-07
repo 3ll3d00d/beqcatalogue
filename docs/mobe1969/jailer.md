@@ -1,5 +1,7 @@
 # Jailer
 
+[Compare across authors](../../compare/?t=film-jailer_937020)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 45m • Tamil • Action, Crime, Thriller • mobe1969**

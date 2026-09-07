@@ -1,5 +1,7 @@
 # The Vault
 
+[Compare across authors](../../compare/?t=film-the-vault_416160)
+
 ## DTS-HD MA 5.1
 
 **2017 • 15 • 1h 31m • Horror, Thriller • mobe1969**

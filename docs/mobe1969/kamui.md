@@ -1,5 +1,7 @@
 # Kamui
 
+[Compare across authors](../../compare/?t=film-kamui_38604)
+
 ## DTS-HD MA 5.1
 
 **2009 • NR • 1h 55m • Japanese • Drama, Action • mobe1969**

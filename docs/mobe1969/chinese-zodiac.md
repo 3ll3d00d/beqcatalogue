@@ -1,5 +1,7 @@
 # Chinese Zodiac
 
+[Compare across authors](../../compare/?t=film-chinese-zodiac_98567)
+
 ## DTS-HD MA 5.1
 
 Alternate Cut

@@ -1,5 +1,7 @@
 # American Psycho
 
+[Compare across authors](../../compare/?t=film-american-psycho_1359)
+
 ## Atmos
 
 **2000 • R • 1h 42m • Thriller, Drama, Crime, Horror • mobe1969**

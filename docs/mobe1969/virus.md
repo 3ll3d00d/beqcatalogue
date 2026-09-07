@@ -1,5 +1,7 @@
 # Virus
 
+[Compare across authors](../../compare/?t=film-virus_9423)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 39m • Horror, Action, Science Fiction • mobe1969**

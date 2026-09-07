@@ -1,5 +1,7 @@
 # Avenging Angelo
 
+[Compare across authors](../../compare/?t=film-avenging-angelo_13437)
+
 ## DD+ 5.1
 
 **2002 • R • 1h 37m • Action, Comedy, Crime • mobe1969**

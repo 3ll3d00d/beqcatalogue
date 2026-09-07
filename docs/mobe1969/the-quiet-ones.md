@@ -1,5 +1,7 @@
 # The Quiet Ones
 
+[Compare across authors](../../compare/?t=film-the-quiet-ones_193612)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 38m • Horror • mobe1969**

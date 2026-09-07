@@ -1,5 +1,7 @@
 # The Silent War
 
+[Compare across authors](../../compare/?t=film-the-silent-war_129070)
+
 ## DTS-HD MA 7.1
 
 **2012 • NR • 2h 0m • Mandarin • Drama, Mystery • mobe1969**

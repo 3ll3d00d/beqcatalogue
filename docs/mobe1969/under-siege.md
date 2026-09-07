@@ -1,5 +1,7 @@
 # Under Siege
 
+[Compare across authors](../../compare/?t=film-under-siege_8845)
+
 ## DD 5.1
 
 **1992 • R • 1h 43m • Thriller, Action • mobe1969**

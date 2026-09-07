@@ -1,5 +1,7 @@
 # Phantom
 
+[Compare across authors](../../compare/?t=film-phantom_152259)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 39m • Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Bullet Vanishes
 
+[Compare across authors](../../compare/?t=film-the-bullet-vanishes_129850)
+
 ## DTS-HD MA 7.1
 
 **2012 • PG-13 • 1h 48m • Mandarin • Action, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # The Bounty Hunter
 
+[Compare across authors](../../compare/?t=film-the-bounty-hunter_27573)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 50m • Comedy, Action, Drama • mobe1969**

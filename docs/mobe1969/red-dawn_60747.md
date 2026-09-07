@@ -1,5 +1,7 @@
 # Red Dawn
 
+[Compare across authors](../../compare/?t=film-red-dawn_60747)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 33m • Thriller, Action • mobe1969**

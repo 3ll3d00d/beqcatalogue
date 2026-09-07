@@ -1,5 +1,7 @@
 # The Contract
 
+[Compare across authors](../../compare/?t=film-the-contract_1441)
+
 ## DD+ 5.1
 
 **2006 • R • 1h 36m • Drama, Action, Thriller, Crime • mobe1969**

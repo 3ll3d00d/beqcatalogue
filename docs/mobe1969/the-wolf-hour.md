@@ -1,5 +1,7 @@
 # The Wolf Hour
 
+[Compare across authors](../../compare/?t=film-the-wolf-hour_483353)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 39m • Thriller, Drama, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Action Jackson
 
+[Compare across authors](../../compare/?t=film-action-jackson_308165)
+
 ## DD 5.1
 
 **2014 • 15 • 2h 24m • Hindi • Action, Thriller • mobe1969**

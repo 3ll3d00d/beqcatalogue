@@ -1,5 +1,7 @@
 # Out of Inferno
 
+[Compare across authors](../../compare/?t=film-out-of-inferno_244339)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 47m • Cantonese • Action, Drama • mobe1969**

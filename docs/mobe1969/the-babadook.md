@@ -1,5 +1,7 @@
 # The Babadook
 
+[Compare across authors](../../compare/?t=film-the-babadook_242224)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 34m • Drama, Horror • mobe1969**

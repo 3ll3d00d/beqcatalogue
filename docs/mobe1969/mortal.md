@@ -1,5 +1,7 @@
 # Mortal
 
+[Compare across authors](../../compare/?t=film-mortal_489326)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 44m • Action, Fantasy, Thriller • mobe1969**

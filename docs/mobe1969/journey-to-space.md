@@ -1,5 +1,7 @@
 # Journey to Space
 
+[Compare across authors](../../compare/?t=film-journey-to-space_325263)
+
 ## Atmos
 
 **2015 • NR • 0h 42m • Documentary • mobe1969**

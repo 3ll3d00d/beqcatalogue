@@ -1,5 +1,7 @@
 # The Mobfathers
 
+[Compare across authors](../../compare/?t=film-the-mobfathers_391477)
+
 ## TrueHD 5.1
 
 **2016 • NR • 1h 33m • Cantonese • Crime, Drama • mobe1969**

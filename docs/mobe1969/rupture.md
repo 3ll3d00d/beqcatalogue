@@ -1,5 +1,7 @@
 # Rupture
 
+[Compare across authors](../../compare/?t=film-rupture_345925)
+
 ## DTS-HD MA 5.1
 
 **2016 • 15 • 1h 42m • Thriller, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Aftermath
 
+[Compare across authors](../../compare/?t=film-aftermath_188839)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 32m • Thriller, Drama • mobe1969**

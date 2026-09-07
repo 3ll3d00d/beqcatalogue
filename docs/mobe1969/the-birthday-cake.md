@@ -1,5 +1,7 @@
 # The Birthday Cake
 
+[Compare across authors](../../compare/?t=film-the-birthday-cake_624481)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 33m • Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Unnatural
 
+[Compare across authors](../../compare/?t=film-unnatural_356483)
+
 ## DD+ 5.1
 
 **2015 • NR • 1h 29m • Action, Horror, Thriller • mobe1969**

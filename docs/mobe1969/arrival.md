@@ -1,5 +1,7 @@
 # Arrival
 
+[Compare across authors](../../compare/?t=film-arrival_329865)
+
 ## DTS-HD MA 7.1, DD+ 5.1
 
 **2016 • PG-13 • 1h 56m • Drama, Science Fiction, Mystery • mobe1969**

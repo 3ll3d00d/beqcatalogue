@@ -1,5 +1,7 @@
 # Bhool Bhulaiyaa
 
+[Compare across authors](../../compare/?t=film-bhool-bhulaiyaa_19025)
+
 ## DTS-HD MA 5.1
 
 **2007 • NR • 2h 31m • Hindi • Comedy, Horror, Thriller • mobe1969**

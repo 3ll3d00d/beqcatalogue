@@ -1,5 +1,7 @@
 # Fast X
 
+[Compare across authors](../../compare/?t=film-fast-x_385687)
+
 ## Atmos, DD+ Atmos
 
 **2023 • PG-13 • 2h 22m • Action, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Wyrmwood: Road of the Dead
 
+[Compare across authors](../../compare/?t=film-wyrmwood-road-of-the-dead_290999)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 38m • Horror, Action, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Crimes of the Future
 
+[Compare across authors](../../compare/?t=film-crimes-of-the-future_819876)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 48m • Drama, Horror, Science Fiction • mobe1969**

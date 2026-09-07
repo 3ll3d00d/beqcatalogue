@@ -1,5 +1,7 @@
 # Gantz:O
 
+[Compare across authors](../../compare/?t=film-gantzo_396263)
+
 ## TrueHD 5.1
 
 **2017 • NC-17 • 1h 35m • Japanese • Science Fiction, Action, Animation • mobe1969**

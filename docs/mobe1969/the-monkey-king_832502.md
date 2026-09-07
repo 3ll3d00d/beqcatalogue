@@ -1,5 +1,7 @@
 # The Monkey King
 
+[Compare across authors](../../compare/?t=film-the-monkey-king_832502)
+
 ## DD+ Atmos
 
 **2023 • PG • 1h 32m • Animation, Fantasy, Adventure, Family, Comedy • mobe1969**

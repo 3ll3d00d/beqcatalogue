@@ -1,5 +1,7 @@
 # MacGruber
 
+[Compare across authors](../../compare/?t=film-macgruber_37931)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

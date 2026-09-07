@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-green-glove-gang_210750)
+
 ## Season 1
 
 * DD+ Atmos

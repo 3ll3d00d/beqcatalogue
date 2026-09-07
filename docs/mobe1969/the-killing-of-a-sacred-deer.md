@@ -1,5 +1,7 @@
 # The Killing of a Sacred Deer
 
+[Compare across authors](../../compare/?t=film-the-killing-of-a-sacred-deer_399057)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 2h 1m • Drama, Thriller, Mystery • mobe1969**

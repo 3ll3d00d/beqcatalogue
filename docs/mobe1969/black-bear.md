@@ -1,5 +1,7 @@
 # Black Bear
 
+[Compare across authors](../../compare/?t=film-black-bear_624788)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 46m • Drama, Comedy, Thriller • mobe1969**

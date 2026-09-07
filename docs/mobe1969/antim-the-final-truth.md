@@ -1,5 +1,7 @@
 # Antim: The Final Truth
 
+[Compare across authors](../../compare/?t=film-antim-the-final-truth_774607)
+
 ## AAC 5.1
 
 **2021 • NR • 2h 20m • Hindi • Action • mobe1969**

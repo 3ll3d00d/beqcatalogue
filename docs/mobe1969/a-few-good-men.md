@@ -1,5 +1,7 @@
 # A Few Good Men
 
+[Compare across authors](../../compare/?t=film-a-few-good-men_881)
+
 ## Atmos
 
 **1992 • R • 2h 18m • Drama • mobe1969**

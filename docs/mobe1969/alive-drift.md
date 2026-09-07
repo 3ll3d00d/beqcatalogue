@@ -1,5 +1,7 @@
 # Alive Drift
 
+[Compare across authors](../../compare/?t=film-alive-drift_983866)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 2h 1m • Japanese • Action • mobe1969**

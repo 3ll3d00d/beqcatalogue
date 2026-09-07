@@ -1,5 +1,7 @@
 # Carlito's Way
 
+[Compare across authors](../../compare/?t=film-carlitos-way_6075)
+
 ## DTS-HD MA 5.1
 
 **1993 • R • 2h 24m • Thriller, Crime • mobe1969**

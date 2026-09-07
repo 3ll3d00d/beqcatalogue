@@ -1,5 +1,7 @@
 # Fukushima 50
 
+[Compare across authors](../../compare/?t=film-fukushima-50_563067)
+
 ## DTS-HD MA 5.1
 
 **2020 • 12 • 2h 2m • Japanese • Drama, History • mobe1969**

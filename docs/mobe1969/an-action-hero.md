@@ -1,5 +1,7 @@
 # An Action Hero
 
+[Compare across authors](../../compare/?t=film-an-action-hero_882826)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 12m • Hindi • Action, Crime, Comedy, Thriller • mobe1969**

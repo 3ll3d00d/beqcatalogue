@@ -1,5 +1,7 @@
 # Passengers
 
+[Compare across authors](../../compare/?t=film-passengers_274870)
+
 ## Atmos, DD+ 5.1
 
 **2016 • PG-13 • 1h 56m • Drama, Romance, Science Fiction • mobe1969**

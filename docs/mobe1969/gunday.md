@@ -1,5 +1,7 @@
 # Gunday
 
+[Compare across authors](../../compare/?t=film-gunday_250551)
+
 ## DD+ 5.1
 
 **2014 • NR • 2h 32m • Hindi • Action, Crime, Drama • mobe1969**

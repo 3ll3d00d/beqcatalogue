@@ -1,5 +1,7 @@
 # Sweeney Todd: The Demon Barber of Fleet Street
 
+[Compare across authors](../../compare/?t=film-sweeney-todd-the-demon-barber-of-fleet-street_13885)
+
 ## TrueHD 5.1, DD+ 5.1
 
 **2007 • R • 1h 56m • Drama, Horror • mobe1969**

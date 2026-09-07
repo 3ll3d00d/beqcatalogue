@@ -1,5 +1,7 @@
 # The Thieves
 
+[Compare across authors](../../compare/?t=film-the-thieves_124157)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 2h 15m • Korean • Action, Crime • mobe1969**

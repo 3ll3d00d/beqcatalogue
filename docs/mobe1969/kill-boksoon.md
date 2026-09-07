@@ -1,5 +1,7 @@
 # Kill Boksoon
 
+[Compare across authors](../../compare/?t=film-kill-boksoon_849869)
+
 ## DD+ Atmos
 
 **2023 • R • 2h 17m • Korean • Action, Thriller, Adventure • mobe1969**

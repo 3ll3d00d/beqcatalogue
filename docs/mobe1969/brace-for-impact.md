@@ -1,5 +1,7 @@
 # Brace for Impact
 
+[Compare across authors](../../compare/?t=film-brace-for-impact_399912)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 31m • Thriller, TV Movie • mobe1969**

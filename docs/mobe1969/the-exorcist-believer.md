@@ -1,5 +1,7 @@
 # The Exorcist: Believer
 
+[Compare across authors](../../compare/?t=film-the-exorcist-believer_807172)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 51m • Horror • mobe1969**

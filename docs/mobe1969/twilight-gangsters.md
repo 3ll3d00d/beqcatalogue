@@ -1,5 +1,7 @@
 # Twilight Gangsters
 
+[Compare across authors](../../compare/?t=film-twilight-gangsters_52120)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 47m • Korean • Crime, Comedy, Action • mobe1969**

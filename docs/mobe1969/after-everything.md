@@ -1,5 +1,7 @@
 # After Everything
 
+[Compare across authors](../../compare/?t=film-after-everything_820525)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 33m • Romance, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Sinkhole
 
+[Compare across authors](../../compare/?t=film-sinkhole_623135)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 53m • Korean • Comedy, Drama • mobe1969**

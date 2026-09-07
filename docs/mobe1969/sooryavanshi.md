@@ -1,5 +1,7 @@
 # Sooryavanshi
 
+[Compare across authors](../../compare/?t=film-sooryavanshi_592508)
+
 ## DD+ 5.1
 
 **2021 • 12A • 2h 25m • Hindi • Action, Crime, Thriller • mobe1969**

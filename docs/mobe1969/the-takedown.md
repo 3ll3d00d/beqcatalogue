@@ -1,5 +1,7 @@
 # The Takedown
 
+[Compare across authors](../../compare/?t=film-the-takedown_785985)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 59m • French • Comedy, Action • mobe1969**

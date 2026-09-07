@@ -1,5 +1,7 @@
 # Beyond Skyline
 
+[Compare across authors](../../compare/?t=film-beyond-skyline_271404)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 45m • Action, Science Fiction, Adventure, Horror • mobe1969**

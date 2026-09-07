@@ -1,5 +1,7 @@
 # Saul: The Journey to Damascus
 
+[Compare across authors](../../compare/?t=film-saul-the-journey-to-damascus_301872)
+
 ## DD+ 5.1
 
 **2014 • NR • 0h 0m • Drama • mobe1969**

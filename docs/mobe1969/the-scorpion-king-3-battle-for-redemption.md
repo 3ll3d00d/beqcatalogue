@@ -1,5 +1,7 @@
 # The Scorpion King 3: Battle for Redemption
 
+[Compare across authors](../../compare/?t=film-the-scorpion-king-3-battle-for-redemption_78049)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 46m • Action, Adventure, Fantasy, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Duckweed
 
+[Compare across authors](../../compare/?t=film-duckweed_438081)
+
 ## TrueHD 5.1
 
 **2017 • NR • 1h 42m • Mandarin • Comedy, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Every Breath You Take
 
+[Compare across authors](../../compare/?t=film-every-breath-you-take_803923)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 45m • Thriller • mobe1969**

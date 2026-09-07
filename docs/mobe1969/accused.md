@@ -1,5 +1,7 @@
 # Accused
 
+[Compare across authors](../../compare/?t=film-accused_912974)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 28m • Drama, Thriller • mobe1969**

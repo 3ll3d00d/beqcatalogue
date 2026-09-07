@@ -1,5 +1,7 @@
 # Witchville
 
+[Compare across authors](../../compare/?t=film-witchville_42053)
+
 ## DD+ 5.1
 
 **2010 • 12 • 1h 27m • Fantasy, Adventure • mobe1969**

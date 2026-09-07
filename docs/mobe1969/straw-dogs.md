@@ -1,5 +1,7 @@
 # Straw Dogs
 
+[Compare across authors](../../compare/?t=film-straw-dogs_64639)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

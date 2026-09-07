@@ -1,5 +1,7 @@
 # Don
 
+[Compare across authors](../../compare/?t=film-don_17501)
+
 ## DD+ 5.1
 
 **2006 • PG-13 • 2h 29m • Hindi • Action, Drama, Thriller • mobe1969**

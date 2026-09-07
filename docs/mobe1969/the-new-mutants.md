@@ -1,5 +1,7 @@
 # The New Mutants
 
+[Compare across authors](../../compare/?t=film-the-new-mutants_340102)
+
 ## Atmos
 
 **2020 • PG-13 • 1h 34m • Science Fiction, Horror, Action, Mystery, Adventure • mobe1969**

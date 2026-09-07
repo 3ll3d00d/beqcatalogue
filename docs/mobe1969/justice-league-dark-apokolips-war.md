@@ -1,5 +1,7 @@
 # Justice League Dark: Apokolips War
 
+[Compare across authors](../../compare/?t=film-justice-league-dark-apokolips-war_618344)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 30m • Animation, Action, Science Fiction • mobe1969**

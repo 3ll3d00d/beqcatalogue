@@ -1,5 +1,7 @@
 # Anna
 
+[Compare across authors](../../compare/?t=film-anna_484641)
+
 ## Atmos, DD+ 5.1
 
 **2019 • R • 1h 59m • Thriller, Action • mobe1969**

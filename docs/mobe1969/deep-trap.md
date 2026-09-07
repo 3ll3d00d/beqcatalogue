@@ -1,5 +1,7 @@
 # Deep Trap
 
+[Compare across authors](../../compare/?t=film-deep-trap_361539)
+
 ## TrueHD 5.1
 
 **2015 • NR • 1h 36m • Korean • Thriller • mobe1969**

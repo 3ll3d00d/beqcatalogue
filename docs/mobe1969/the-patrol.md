@@ -1,5 +1,7 @@
 # The Patrol
 
+[Compare across authors](../../compare/?t=film-the-patrol_239845)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 25m • Drama, War • mobe1969**

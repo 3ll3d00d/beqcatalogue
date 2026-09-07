@@ -1,5 +1,7 @@
 # Guillermo del Toro's Pinocchio
 
+[Compare across authors](../../compare/?t=film-guillermo-del-toros-pinocchio_555604)
+
 ## DD+ Atmos
 
 **2022 • PG • 1h 57m • Animation, Fantasy, Drama • mobe1969**

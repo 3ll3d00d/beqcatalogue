@@ -1,5 +1,7 @@
 # New World Order: The End Has Come
 
+[Compare across authors](../../compare/?t=film-new-world-order-the-end-has-come_278024)
+
 ## DD+ 5.1
 
 **2013 • NR • 1h 26m • Drama, Thriller • mobe1969**

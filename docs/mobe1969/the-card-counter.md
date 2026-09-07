@@ -1,5 +1,7 @@
 # The Card Counter
 
+[Compare across authors](../../compare/?t=film-the-card-counter_643532)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 51m • Drama, Crime, Thriller • mobe1969**

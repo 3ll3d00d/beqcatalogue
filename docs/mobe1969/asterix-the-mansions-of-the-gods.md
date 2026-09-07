@@ -1,5 +1,7 @@
 # Asterix: The Mansions of the Gods
 
+[Compare across authors](../../compare/?t=film-asterix-the-mansions-of-the-gods_170522)
+
 ## DTS-HD MA 5.1
 
 **2014 • G • 1h 25m • Animation, Comedy, Adventure, Family • mobe1969**

@@ -1,5 +1,7 @@
 # A Day and a Half
 
+[Compare across authors](../../compare/?t=film-a-day-and-a-half_978783)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 35m • Swedish • Drama, Thriller • mobe1969**

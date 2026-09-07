@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-tribes-of-europa_93808)
+
 ## Season 1
 
 * DD+

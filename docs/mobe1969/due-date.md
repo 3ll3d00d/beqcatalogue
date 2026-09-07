@@ -1,5 +1,7 @@
 # Due Date
 
+[Compare across authors](../../compare/?t=film-due-date_41733)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 35m • Comedy, Drama • mobe1969**

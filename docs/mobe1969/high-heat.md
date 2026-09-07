@@ -1,5 +1,7 @@
 # High Heat
 
+[Compare across authors](../../compare/?t=film-high-heat_1015963)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 24m • Action, Thriller, Crime, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # The Old Way
 
+[Compare across authors](../../compare/?t=film-the-old-way_872954)
+
 ## DTS-HD MA 5.1
 
 **2023 • R • 1h 35m • Western, Action • mobe1969**

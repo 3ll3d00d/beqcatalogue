@@ -1,5 +1,7 @@
 # Lamb
 
+[Compare across authors](../../compare/?t=film-lamb_788929)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 46m • Icelandic • Drama, Mystery, Fantasy, Horror • mobe1969**

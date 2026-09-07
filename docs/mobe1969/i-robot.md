@@ -1,5 +1,7 @@
 # I, Robot
 
+[Compare across authors](../../compare/?t=film-i-robot_2048)
+
 ## DTS-HD MA 5.1
 
 **2004 • PG-13 • 1h 55m • Action, Science Fiction • mobe1969**

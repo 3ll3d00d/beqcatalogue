@@ -1,5 +1,7 @@
 # The Two Popes
 
+[Compare across authors](../../compare/?t=film-the-two-popes_551332)
+
 ## DD+ Atmos
 
 **2019 • PG-13 • 2h 5m • Drama, Comedy, History • mobe1969**

@@ -1,5 +1,7 @@
 # Candyman
 
+[Compare across authors](../../compare/?t=film-candyman_565028)
+
 ## Atmos
 
 **2021 • R • 1h 31m • Horror, Thriller • mobe1969**

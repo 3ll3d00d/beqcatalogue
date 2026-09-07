@@ -1,5 +1,7 @@
 # Zero Dark Thirty
 
+[Compare across authors](../../compare/?t=film-zero-dark-thirty_97630)
+
 ## Atmos
 
 **2012 • R • 2h 37m • Thriller, Drama, History • mobe1969**

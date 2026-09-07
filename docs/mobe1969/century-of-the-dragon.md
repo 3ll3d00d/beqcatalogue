@@ -1,5 +1,7 @@
 # Century of the Dragon
 
+[Compare across authors](../../compare/?t=film-century-of-the-dragon_274669)
+
 ## DTS-HD MA 5.1
 
 **1999 • NR • 1h 48m • Cantonese • Thriller, Drama, Crime, Action • mobe1969**

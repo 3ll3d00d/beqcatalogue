@@ -1,5 +1,7 @@
 # The Good, The Bad, The Weird
 
+[Compare across authors](../../compare/?t=film-the-good-the-bad-the-weird_15067)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 2h 10m • Korean • Adventure, Western, Action, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # White Tiger
 
+[Compare across authors](../../compare/?t=film-white-tiger_111237)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 45m • Russian • Action, Adventure, Fantasy, War • mobe1969**

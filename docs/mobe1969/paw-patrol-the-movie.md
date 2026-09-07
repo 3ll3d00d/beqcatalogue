@@ -1,5 +1,7 @@
 # PAW Patrol: The Movie
 
+[Compare across authors](../../compare/?t=film-paw-patrol-the-movie_675445)
+
 ## Atmos, DD+ Atmos
 
 **2021 • G • 1h 26m • Animation, Family, Adventure, Comedy • mobe1969**

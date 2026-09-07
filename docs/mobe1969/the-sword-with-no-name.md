@@ -1,5 +1,7 @@
 # The Sword with No Name
 
+[Compare across authors](../../compare/?t=film-the-sword-with-no-name_41441)
+
 ## DTS-HD MA 5.1
 
 **2009 • NR • 2h 4m • Korean • Action, Drama, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Fred Claus
 
+[Compare across authors](../../compare/?t=film-fred-claus_5375)
+
 ## DD+ 5.1
 
 **2007 • PG • 1h 56m • Action, Comedy, Drama • mobe1969**

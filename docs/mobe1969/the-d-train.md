@@ -1,5 +1,7 @@
 # The D Train
 
+[Compare across authors](../../compare/?t=film-the-d-train_2014)
+
 ## DTS-HD MA 5.1
 
 **2014 • mobe1969**

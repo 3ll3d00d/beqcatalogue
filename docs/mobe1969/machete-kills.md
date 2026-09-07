@@ -1,5 +1,7 @@
 # Machete Kills
 
+[Compare across authors](../../compare/?t=film-machete-kills_106747)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 47m • Thriller, Action, Crime • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-kleo_206010)
+
 ## Season 1
 
 * DD+ Atmos

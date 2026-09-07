@@ -1,5 +1,7 @@
 # The Voyeurs
 
+[Compare across authors](../../compare/?t=film-the-voyeurs_645710)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 57m • Thriller • mobe1969**

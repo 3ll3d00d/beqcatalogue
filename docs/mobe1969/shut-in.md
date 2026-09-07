@@ -1,5 +1,7 @@
 # Shut In
 
+[Compare across authors](../../compare/?t=film-shut-in_629015)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 30m • Thriller, Horror, Drama • mobe1969**

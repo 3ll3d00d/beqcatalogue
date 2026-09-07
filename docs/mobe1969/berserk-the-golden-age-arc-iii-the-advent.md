@@ -1,5 +1,7 @@
 # Berserk: The Golden Age Arc III - The Advent
 
+[Compare across authors](../../compare/?t=film-berserk-the-golden-age-arc-iii-the-advent_144288)
+
 ## DTS-HD MA 5.1
 
 **2013 • R18+ • 1h 50m • Japanese • Fantasy, Animation, Action, Drama, Adventure • mobe1969**

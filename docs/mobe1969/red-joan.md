@@ -1,5 +1,7 @@
 # Red Joan
 
+[Compare across authors](../../compare/?t=film-red-joan_494974)
+
 ## DD+ 5.1
 
 **2018 • 12A • 1h 41m • Thriller, History • mobe1969**

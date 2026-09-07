@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-raised-by-wolves_85723)
+
 ## Season 2
 
 * DD+ 5.1

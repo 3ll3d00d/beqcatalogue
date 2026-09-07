@@ -1,5 +1,7 @@
 # Jai Ho
 
+[Compare across authors](../../compare/?t=film-jai-ho_244237)
+
 ## DTS 5.1
 
 **2014 • 15 • 2h 25m • Hindi • Action, Drama • mobe1969**

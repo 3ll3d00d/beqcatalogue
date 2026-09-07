@@ -1,5 +1,7 @@
 # Dolan's Cadillac
 
+[Compare across authors](../../compare/?t=film-dolans-cadillac_19823)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 21m • Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Afterlife of the Party
 
+[Compare across authors](../../compare/?t=film-afterlife-of-the-party_785457)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • PG • 1h 49m • Fantasy, Comedy, Drama • mobe1969**

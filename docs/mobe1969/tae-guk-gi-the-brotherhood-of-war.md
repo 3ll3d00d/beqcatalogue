@@ -1,5 +1,7 @@
 # Tae Guk Gi: The Brotherhood of War
 
+[Compare across authors](../../compare/?t=film-tae-guk-gi-the-brotherhood-of-war_11658)
+
 ## DTS-HD MA 5.1
 
 **2004 • R • 2h 29m • Korean • Action, Adventure, Drama, History, War • mobe1969**

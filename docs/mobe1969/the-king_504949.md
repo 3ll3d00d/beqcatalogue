@@ -1,5 +1,7 @@
 # The King
 
+[Compare across authors](../../compare/?t=film-the-king_504949)
+
 ## DD+ Atmos
 
 **2019 • R • 2h 20m • Drama, History, War • mobe1969**

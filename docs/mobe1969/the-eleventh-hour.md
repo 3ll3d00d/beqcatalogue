@@ -1,5 +1,7 @@
 # The Eleventh Hour
 
+[Compare across authors](../../compare/?t=film-the-eleventh-hour_65515)
+
 ## DD+ 5.1
 
 **2008 • NR • 1h 33m • Action, Thriller • mobe1969**

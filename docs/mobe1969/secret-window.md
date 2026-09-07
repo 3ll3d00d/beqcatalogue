@@ -1,5 +1,7 @@
 # Secret Window
 
+[Compare across authors](../../compare/?t=film-secret-window_1586)
+
 ## LPCM 5.1
 
 **2004 • PG-13 • 1h 36m • Thriller, Mystery • mobe1969**

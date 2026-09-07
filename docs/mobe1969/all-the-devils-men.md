@@ -1,5 +1,7 @@
 # All the Devil's Men
 
+[Compare across authors](../../compare/?t=film-all-the-devils-men_481203)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 40m • Action • mobe1969**

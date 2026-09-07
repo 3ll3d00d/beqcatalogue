@@ -1,5 +1,7 @@
 # 400 Days
 
+[Compare across authors](../../compare/?t=film-400-days_332502)
+
 ## DTS-HD MA 5.1
 
 **2015 • 15 • 1h 31m • Science Fiction, Mystery, Thriller • mobe1969**

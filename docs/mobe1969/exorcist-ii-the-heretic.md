@@ -1,5 +1,7 @@
 # Exorcist II: The Heretic
 
+[Compare across authors](../../compare/?t=film-exorcist-ii-the-heretic_11586)
+
 ## DTS-HD MA 1.0
 
 **1977 • R • 1h 58m • Horror, Thriller, Fantasy, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Black Hawk Down
 
+[Compare across authors](../../compare/?t=film-black-hawk-down_855)
+
 ## Atmos
 
 Extended Cut

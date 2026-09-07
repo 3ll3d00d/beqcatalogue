@@ -1,5 +1,7 @@
 # Triage
 
+[Compare across authors](../../compare/?t=film-triage_33195)
+
 ## DTS-HD MA 5.1
 
 **2009 • 15 • 1h 39m • Drama, Thriller, Mystery • mobe1969**

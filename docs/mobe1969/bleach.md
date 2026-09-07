@@ -1,5 +1,7 @@
 # Bleach
 
+[Compare across authors](../../compare/?t=film-bleach_420426)
+
 ## DD+ 5.1
 
 **2018 • PG-13 • 1h 48m • Japanese • Action, Fantasy, Adventure • mobe1969**

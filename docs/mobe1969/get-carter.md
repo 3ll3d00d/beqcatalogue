@@ -1,5 +1,7 @@
 # Get Carter
 
+[Compare across authors](../../compare/?t=film-get-carter_1485)
+
 ## LPCM 1.0
 
 **1971 • R • 1h 52m • Crime, Thriller • mobe1969**

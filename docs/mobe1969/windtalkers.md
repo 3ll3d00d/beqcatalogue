@@ -1,5 +1,7 @@
 # Windtalkers
 
+[Compare across authors](../../compare/?t=film-windtalkers_12100)
+
 ## DD 5.1
 
 Director's Cut

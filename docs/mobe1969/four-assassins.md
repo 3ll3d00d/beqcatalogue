@@ -1,5 +1,7 @@
 # Four Assassins
 
+[Compare across authors](../../compare/?t=film-four-assassins_132236)
+
 ## DTS-HD MA 5.1
 
 **2013 • 15 • 1h 26m • Thriller • mobe1969**

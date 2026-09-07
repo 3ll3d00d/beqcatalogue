@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 ## Season 1
 
 * DD+

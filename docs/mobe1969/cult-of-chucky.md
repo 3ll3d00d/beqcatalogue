@@ -1,5 +1,7 @@
 # Cult of Chucky
 
+[Compare across authors](../../compare/?t=film-cult-of-chucky_393345)
+
 ## DTS-HD MA 5.1
 
 **2017 • 18 • 1h 31m • Thriller, Horror • mobe1969**

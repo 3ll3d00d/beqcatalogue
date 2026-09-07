@@ -1,5 +1,7 @@
 # Friday the 13th
 
+[Compare across authors](../../compare/?t=film-friday-the-13th_4488)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

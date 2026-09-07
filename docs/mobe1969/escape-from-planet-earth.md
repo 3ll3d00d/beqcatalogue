@@ -1,5 +1,7 @@
 # Escape from Planet Earth
 
+[Compare across authors](../../compare/?t=film-escape-from-planet-earth_68179)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG • 1h 29m • Animation, Comedy, Adventure, Family, Science Fiction • mobe1969**

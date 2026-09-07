@@ -1,5 +1,7 @@
 # The Wedding Guest
 
+[Compare across authors](../../compare/?t=film-the-wedding-guest_500899)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 34m • Thriller • mobe1969**

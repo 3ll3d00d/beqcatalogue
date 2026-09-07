@@ -1,5 +1,7 @@
 # The Twins Effect II
 
+[Compare across authors](../../compare/?t=film-the-twins-effect-ii_10257)
+
 ## DD+ 5.1
 
 **2004 • NR • 1h 46m • Cantonese • Action, Adventure, Comedy, Science Fiction • mobe1969**

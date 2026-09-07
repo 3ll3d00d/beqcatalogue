@@ -1,5 +1,7 @@
 # Anniyan
 
+[Compare across authors](../../compare/?t=film-anniyan_19978)
+
 ## DD+ 5.1
 
 **2005 • NR • 3h 1m • Tamil • Action, Drama, Thriller • mobe1969**

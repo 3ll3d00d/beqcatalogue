@@ -1,5 +1,7 @@
 # Skyfall
 
+[Compare across authors](../../compare/?t=film-skyfall_37724)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2012 • PG-13 • 2h 23m • Action, Adventure, Thriller • mobe1969**

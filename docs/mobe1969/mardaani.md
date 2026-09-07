@@ -1,5 +1,7 @@
 # Mardaani
 
+[Compare across authors](../../compare/?t=film-mardaani_287767)
+
 ## DD+ 5.1
 
 **2014 • 15 • 1h 53m • Hindi • Action, Crime, Drama, Thriller • mobe1969**

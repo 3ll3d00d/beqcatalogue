@@ -1,5 +1,7 @@
 # The Recruit
 
+[Compare across authors](../../compare/?t=film-the-recruit_1647)
+
 ## LPCM 5.1
 
 **2003 • PG-13 • 1h 55m • Thriller, Action • mobe1969**

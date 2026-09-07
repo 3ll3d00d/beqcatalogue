@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-maya-and-the-three_132141)
+
 ## Season 1
 
 * DD+ Atmos

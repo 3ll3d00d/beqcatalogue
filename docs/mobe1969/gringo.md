@@ -1,5 +1,7 @@
 # Gringo
 
+[Compare across authors](../../compare/?t=film-gringo_340022)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 50m • Comedy, Action • mobe1969**

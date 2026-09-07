@@ -1,5 +1,7 @@
 # Blood Fest
 
+[Compare across authors](../../compare/?t=film-blood-fest_472226)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 33m • Comedy, Horror • mobe1969**

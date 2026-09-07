@@ -1,5 +1,7 @@
 # Aeon Flux
 
+[Compare across authors](../../compare/?t=film-aeon-flux_8202)
+
 ## DD 5.1, DTS 5.1
 
 **2005 • PG-13 • 1h 33m • Action, Science Fiction, Thriller • mobe1969**

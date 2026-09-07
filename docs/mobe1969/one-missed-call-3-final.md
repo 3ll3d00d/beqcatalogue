@@ -1,5 +1,7 @@
 # One Missed Call 3: Final
 
+[Compare across authors](../../compare/?t=film-one-missed-call-3-final_55470)
+
 ## DTS-HD MA 5.1
 
 **2006 • R • 1h 49m • Japanese • Horror • mobe1969**

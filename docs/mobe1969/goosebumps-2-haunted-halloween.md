@@ -1,5 +1,7 @@
 # Goosebumps 2: Haunted Halloween
 
+[Compare across authors](../../compare/?t=film-goosebumps-2-haunted-halloween_442062)
+
 ## Atmos
 
 **2018 • PG • 1h 30m • Adventure, Comedy, Fantasy, Family, Horror • mobe1969**

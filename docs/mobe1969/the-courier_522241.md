@@ -1,5 +1,7 @@
 # The Courier
 
+[Compare across authors](../../compare/?t=film-the-courier_522241)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 52m • Thriller, History, Drama • mobe1969**

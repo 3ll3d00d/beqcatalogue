@@ -1,5 +1,7 @@
 # The Siege of Jadotville
 
+[Compare across authors](../../compare/?t=film-the-siege-of-jadotville_334517)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 48m • War, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Midnight Runners
 
+[Compare across authors](../../compare/?t=film-midnight-runners_453127)
+
 ## TrueHD 5.1
 
 **2017 • NR • 1h 49m • Korean • Comedy, Action, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Dumb and Dumber
 
+[Compare across authors](../../compare/?t=film-dumb-and-dumber_8467)
+
 ## TrueHD 5.1
 
 **1994 • PG-13 • 1h 47m • Comedy • mobe1969**

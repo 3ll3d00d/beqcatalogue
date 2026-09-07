@@ -1,5 +1,7 @@
 # Highway
 
+[Compare across authors](../../compare/?t=film-highway_252841)
+
 ## DD 5.1
 
 **2014 • PG-13 • 2h 13m • Hindi • Drama, Romance, Crime • mobe1969**

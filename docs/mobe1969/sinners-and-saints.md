@@ -1,5 +1,7 @@
 # Sinners and Saints
 
+[Compare across authors](../../compare/?t=film-sinners-and-saints_66193)
+
 ## DTS-HD MA 5.1
 
 **2010 • NC-17 • 1h 44m • Action, Crime, Thriller • mobe1969**

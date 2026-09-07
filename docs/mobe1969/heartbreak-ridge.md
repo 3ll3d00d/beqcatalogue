@@ -1,5 +1,7 @@
 # Heartbreak Ridge
 
+[Compare across authors](../../compare/?t=film-heartbreak-ridge_10015)
+
 ## DTS-HD MA 5.1
 
 **1986 • R • 2h 10m • War, Action, Comedy, Drama • mobe1969**

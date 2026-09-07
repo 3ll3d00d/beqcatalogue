@@ -1,5 +1,7 @@
 # The Medallion
 
+[Compare across authors](../../compare/?t=film-the-medallion_10610)
+
 ## DD 5.1
 
 **2003 • PG-13 • 1h 28m • Thriller, Fantasy, Action, Comedy • mobe1969**

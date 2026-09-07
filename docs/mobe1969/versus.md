@@ -1,5 +1,7 @@
 # Versus
 
+[Compare across authors](../../compare/?t=film-versus_5842)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

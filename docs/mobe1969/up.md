@@ -1,5 +1,7 @@
 # Up
 
+[Compare across authors](../../compare/?t=film-up_14160)
+
 ## Atmos
 
 **2009 • PG • 1h 36m • Animation, Comedy, Family, Adventure • mobe1969**

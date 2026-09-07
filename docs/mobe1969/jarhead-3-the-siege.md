@@ -1,5 +1,7 @@
 # Jarhead 3: The Siege
 
+[Compare across authors](../../compare/?t=film-jarhead-3-the-siege_378385)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 35m • Drama, War, Action • mobe1969**

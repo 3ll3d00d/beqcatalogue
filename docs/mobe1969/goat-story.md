@@ -1,5 +1,7 @@
 # Goat Story
 
+[Compare across authors](../../compare/?t=film-goat-story_21188)
+
 ## DTS 5.1
 
 **2008 • PG-13 • 1h 20m • Czech • Animation, Comedy • mobe1969**

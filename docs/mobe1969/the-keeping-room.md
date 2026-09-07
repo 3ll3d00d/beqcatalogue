@@ -1,5 +1,7 @@
 # The Keeping Room
 
+[Compare across authors](../../compare/?t=film-the-keeping-room_284284)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 35m • Drama, Western • mobe1969**

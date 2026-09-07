@@ -1,5 +1,7 @@
 # West Side Story
 
+[Compare across authors](../../compare/?t=film-west-side-story_511809)
+
 ## Atmos, DD+ 7.1, DD 5.1
 
 **2021 • PG-13 • 2h 37m • Drama, Romance, Crime • mobe1969**

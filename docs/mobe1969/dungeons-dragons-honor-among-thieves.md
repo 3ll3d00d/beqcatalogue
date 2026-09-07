@@ -1,5 +1,7 @@
 # Dungeons & Dragons: Honor Among Thieves
 
+[Compare across authors](../../compare/?t=film-dungeons-dragons-honor-among-thieves_493529)
+
 ## Atmos
 
 **2023 • PG-13 • 2h 14m • Adventure, Fantasy, Comedy • mobe1969**

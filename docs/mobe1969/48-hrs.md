@@ -1,5 +1,7 @@
 # 48 Hrs.
 
+[Compare across authors](../../compare/?t=film-48-hrs_150)
+
 ## TrueHD 5.1
 
 **1982 • R • 1h 36m • Thriller, Action, Comedy, Crime, Drama • mobe1969**

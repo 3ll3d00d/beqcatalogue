@@ -1,5 +1,7 @@
 # A Ghost Story
 
+[Compare across authors](../../compare/?t=film-a-ghost-story_428449)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 33m • Drama, Fantasy • mobe1969**

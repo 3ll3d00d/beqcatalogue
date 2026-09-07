@@ -1,5 +1,7 @@
 # The Swimmers
 
+[Compare across authors](../../compare/?t=film-the-swimmers_821881)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 2h 14m • Drama, History • mobe1969**

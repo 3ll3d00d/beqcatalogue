@@ -1,5 +1,7 @@
 # The Midnight Meat Train
 
+[Compare across authors](../../compare/?t=film-the-midnight-meat-train_10185)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 38m • Fantasy, Mystery, Horror • mobe1969**

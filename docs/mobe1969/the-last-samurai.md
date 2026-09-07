@@ -1,5 +1,7 @@
 # The Last Samurai
 
+[Compare across authors](../../compare/?t=film-the-last-samurai_616)
+
 ## DD 5.1
 
 **2003 • R • 2h 34m • Drama, Action, War, History • mobe1969**

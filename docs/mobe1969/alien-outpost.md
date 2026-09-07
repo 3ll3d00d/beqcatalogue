@@ -1,5 +1,7 @@
 # Alien Outpost
 
+[Compare across authors](../../compare/?t=film-alien-outpost_312526)
+
 ## DTS-HD MA 5.1
 
 **2014 • NC-17 • 1h 33m • Thriller, Action, Science Fiction • mobe1969**

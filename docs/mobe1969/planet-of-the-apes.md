@@ -1,5 +1,7 @@
 # Planet of the Apes
 
+[Compare across authors](../../compare/?t=film-planet-of-the-apes_871)
+
 ## DTS-HD MA 5.1
 
 **1968 • G • 1h 52m • Science Fiction, Adventure, Drama, Action • mobe1969**

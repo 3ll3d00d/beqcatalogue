@@ -1,5 +1,7 @@
 # Lebanon
 
+[Compare across authors](../../compare/?t=film-lebanon_32084)
+
 ## DTS-HD MA 5.1
 
 **2009 • 16 • 1h 33m • Hebrew • Drama, War • mobe1969**

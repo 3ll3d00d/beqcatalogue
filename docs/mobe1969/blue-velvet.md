@@ -1,5 +1,7 @@
 # Blue Velvet
 
+[Compare across authors](../../compare/?t=film-blue-velvet_793)
+
 ## DTS-HD MA 5.1
 
 **1986 • R • 2h 0m • Drama, Crime, Mystery, Thriller • mobe1969**

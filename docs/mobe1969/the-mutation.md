@@ -1,5 +1,7 @@
 # The Mutation
 
+[Compare across authors](../../compare/?t=film-the-mutation_801583)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 27m • Horror • mobe1969**

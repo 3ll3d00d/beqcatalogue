@@ -1,5 +1,7 @@
 # Flightplan
 
+[Compare across authors](../../compare/?t=film-flightplan_9315)
+
 ## LPCM 5.1
 
 **2005 • PG-13 • 1h 38m • Thriller, Mystery, Drama • mobe1969**

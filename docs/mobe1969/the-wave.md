@@ -1,5 +1,7 @@
 # The Wave
 
+[Compare across authors](../../compare/?t=film-the-wave_336882)
+
 ## Atmos
 
 **2015 • R • 1h 44m • Norwegian • Thriller • mobe1969**

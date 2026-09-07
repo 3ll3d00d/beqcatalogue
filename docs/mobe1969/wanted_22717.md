@@ -1,5 +1,7 @@
 # Wanted
 
+[Compare across authors](../../compare/?t=film-wanted_22717)
+
 ## DD 5.1
 
 **2009 • 15 • 2h 35m • Hindi • Action, Comedy, Crime, Thriller • mobe1969**

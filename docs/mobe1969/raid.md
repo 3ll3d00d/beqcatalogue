@@ -1,5 +1,7 @@
 # Raid
 
+[Compare across authors](../../compare/?t=film-raid_503838)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 2h 8m • Hindi • Crime, Drama, Thriller, Action • mobe1969**

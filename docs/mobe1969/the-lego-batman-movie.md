@@ -1,5 +1,7 @@
 # The Lego Batman Movie
 
+[Compare across authors](../../compare/?t=film-the-lego-batman-movie_324849)
+
 ## Atmos
 
 **2017 • PG • 1h 44m • Animation, Action, Comedy, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Start-Up
 
+[Compare across authors](../../compare/?t=film-start-up_581530)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 42m • Korean • Drama, Action, Comedy • mobe1969**

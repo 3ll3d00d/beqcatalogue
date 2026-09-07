@@ -1,5 +1,7 @@
 # Come to Daddy
 
+[Compare across authors](../../compare/?t=film-come-to-daddy_586592)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 36m • Comedy, Thriller, Horror • mobe1969**

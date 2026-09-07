@@ -1,5 +1,7 @@
 # Connected
 
+[Compare across authors](../../compare/?t=film-connected_19611)
+
 ## DD+ 5.1
 
 **2008 • NR • 1h 50m • Cantonese • Thriller, Action • mobe1969**

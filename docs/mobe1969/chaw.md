@@ -1,5 +1,7 @@
 # Chaw
 
+[Compare across authors](../../compare/?t=film-chaw_59450)
+
 ## DTS-HD MA 5.1
 
 **2009 • NR • 2h 1m • Korean • Horror, Comedy, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Songbird
 
+[Compare across authors](../../compare/?t=film-songbird_721625)
+
 ## DTS-HD MA 5.1
 
 **2020 • PG-13 • 1h 25m • Thriller, Romance, Drama, Mystery • mobe1969**

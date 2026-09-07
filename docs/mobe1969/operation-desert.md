@@ -1,5 +1,7 @@
 # Operation Desert
 
+[Compare across authors](../../compare/?t=film-operation-desert_14878)
+
 ## DTS-HD MA 5.1
 
 **2008 • 15 • 1h 30m • Action, Horror, Science Fiction, Thriller • mobe1969**

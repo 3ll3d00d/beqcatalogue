@@ -1,5 +1,7 @@
 # Bulletproof
 
+[Compare across authors](../../compare/?t=film-bulletproof_10723)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 1h 24m • Comedy, Crime, Action • mobe1969**

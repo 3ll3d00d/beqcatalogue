@@ -1,5 +1,7 @@
 # The Oak Room
 
+[Compare across authors](../../compare/?t=film-the-oak-room_717021)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 29m • Thriller, Horror, Mystery • mobe1969**

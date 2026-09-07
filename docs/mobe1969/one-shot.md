@@ -1,5 +1,7 @@
 # One Shot
 
+[Compare across authors](../../compare/?t=film-one-shot_811592)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 37m • Action • mobe1969**

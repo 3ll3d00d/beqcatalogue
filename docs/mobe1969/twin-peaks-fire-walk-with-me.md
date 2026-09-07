@@ -1,5 +1,7 @@
 # Twin Peaks: Fire Walk with Me
 
+[Compare across authors](../../compare/?t=film-twin-peaks-fire-walk-with-me_1923)
+
 ## DTS-HD MA 7.1
 
 **1992 • R • 2h 15m • Drama, Mystery, Horror • mobe1969**

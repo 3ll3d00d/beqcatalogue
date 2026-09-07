@@ -1,5 +1,7 @@
 # Cam
 
+[Compare across authors](../../compare/?t=film-cam_521935)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 35m • Mystery, Thriller, Horror • mobe1969**

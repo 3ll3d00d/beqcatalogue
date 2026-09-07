@@ -1,5 +1,7 @@
 # The Voices
 
+[Compare across authors](../../compare/?t=film-the-voices_244458)
+
 ## DD+ 5.1
 
 **2014 • R • 1h 41m • Comedy, Crime, Horror, Fantasy • mobe1969**

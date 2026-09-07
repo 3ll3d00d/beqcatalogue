@@ -1,5 +1,7 @@
 # Fenced In
 
+[Compare across authors](../../compare/?t=film-fenced-in_818502)
+
 ## DD+ Atmos
 
 **2022 • 15 • 1h 50m • Portuguese • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Charlie and the Chocolate Factory
 
+[Compare across authors](../../compare/?t=film-charlie-and-the-chocolate-factory_118)
+
 ## TrueHD 5.1
 
 **2005 • PG • 1h 55m • Adventure, Comedy, Family, Fantasy • mobe1969**

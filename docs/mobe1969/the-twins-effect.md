@@ -1,5 +1,7 @@
 # The Twins Effect
 
+[Compare across authors](../../compare/?t=film-the-twins-effect_17457)
+
 ## DD+ 5.1
 
 **2003 • NR • 1h 47m • Cantonese • Action, Comedy, Horror • mobe1969**

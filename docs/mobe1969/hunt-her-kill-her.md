@@ -1,5 +1,7 @@
 # Hunt Her, Kill Her
 
+[Compare across authors](../../compare/?t=film-hunt-her-kill-her_989872)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 38m • Horror • mobe1969**

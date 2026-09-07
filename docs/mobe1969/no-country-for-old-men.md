@@ -1,5 +1,7 @@
 # No Country for Old Men
 
+[Compare across authors](../../compare/?t=film-no-country-for-old-men_6977)
+
 ## LPCM 5.1
 
 **2007 • R • 2h 2m • Crime, Thriller, Drama • mobe1969**

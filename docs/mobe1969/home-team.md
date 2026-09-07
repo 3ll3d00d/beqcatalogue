@@ -1,5 +1,7 @@
 # Home Team
 
+[Compare across authors](../../compare/?t=film-home-team_817648)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2022 • PG • 1h 35m • Family, Comedy • mobe1969**

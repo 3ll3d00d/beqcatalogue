@@ -1,5 +1,7 @@
 # VANish
 
+[Compare across authors](../../compare/?t=film-vanish_298032)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 19m • Thriller, Horror, Action, Crime • mobe1969**

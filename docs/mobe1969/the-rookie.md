@@ -1,5 +1,7 @@
 # The Rookie
 
+[Compare across authors](../../compare/?t=film-the-rookie_6723)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 2h 0m • Action, Thriller, Drama, Crime • mobe1969**

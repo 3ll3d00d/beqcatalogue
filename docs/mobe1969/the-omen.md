@@ -1,5 +1,7 @@
 # The Omen
 
+[Compare across authors](../../compare/?t=film-the-omen_794)
+
 ## DTS-HD MA 5.1
 
 **1976 • R • 1h 51m • Horror, Thriller • mobe1969**

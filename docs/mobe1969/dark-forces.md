@@ -1,5 +1,7 @@
 # Dark Forces
 
+[Compare across authors](../../compare/?t=film-dark-forces_735110)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 21m • Spanish • Horror, Action, Thriller, Mystery • mobe1969**

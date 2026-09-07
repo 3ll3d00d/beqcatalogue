@@ -1,5 +1,7 @@
 # Ravanasura
 
+[Compare across authors](../../compare/?t=film-ravanasura_892269)
+
 ## DD+ 5.1
 
 **2023 • 18 • 2h 22m • Telugu • Action, Thriller, Comedy • mobe1969**

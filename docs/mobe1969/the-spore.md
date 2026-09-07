@@ -1,5 +1,7 @@
 # The Spore
 
+[Compare across authors](../../compare/?t=film-the-spore_818834)
+
 ## DD 5.1
 
 **2021 • R • 1h 31m • Horror • mobe1969**

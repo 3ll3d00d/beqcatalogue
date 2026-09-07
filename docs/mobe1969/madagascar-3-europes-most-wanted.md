@@ -1,5 +1,7 @@
 # Madagascar 3: Europe's Most Wanted
 
+[Compare across authors](../../compare/?t=film-madagascar-3-europes-most-wanted_80321)
+
 ## TrueHD 7.1
 
 **2012 • PG • 1h 33m • Animation, Family, Comedy, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # The Damned
 
+[Compare across authors](../../compare/?t=film-the-damned_258086)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 27m • Thriller, Horror, Mystery • mobe1969**

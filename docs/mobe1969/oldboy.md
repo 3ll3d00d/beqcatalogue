@@ -1,5 +1,7 @@
 # Oldboy
 
+[Compare across authors](../../compare/?t=film-oldboy_670)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 2h 0m • Korean • Drama, Thriller, Mystery, Action • mobe1969**

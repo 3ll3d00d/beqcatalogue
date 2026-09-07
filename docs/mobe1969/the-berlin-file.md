@@ -1,5 +1,7 @@
 # The Berlin File
 
+[Compare across authors](../../compare/?t=film-the-berlin-file_160704)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 2h 0m • Korean • Action, Thriller • mobe1969**

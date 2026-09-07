@@ -1,5 +1,7 @@
 # Teenage Mutant Ninja Turtles II: The Secret of the Ooze
 
+[Compare across authors](../../compare/?t=film-teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze_1497)
+
 ## DD+ 5.1
 
 **1991 • PG • 1h 28m • Science Fiction, Adventure, Action, Comedy, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Troubleshooter
 
+[Compare across authors](../../compare/?t=film-troubleshooter_56578)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 40m • Korean • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Four
 
+[Compare across authors](../../compare/?t=film-the-four_120143)
+
 ## DD 5.1
 
 **2012 • M • 1h 58m • Mandarin • Action, Drama, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # The Guard Post
 
+[Compare across authors](../../compare/?t=film-the-guard-post_16882)
+
 ## DD 5.1
 
 **2008 • NR • 2h 1m • Korean • Horror, Mystery • mobe1969**

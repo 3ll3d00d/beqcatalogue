@@ -1,5 +1,7 @@
 # Freaks
 
+[Compare across authors](../../compare/?t=film-freaks_539892)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 45m • Science Fiction, Thriller, Drama, Mystery • mobe1969**

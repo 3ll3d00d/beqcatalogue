@@ -1,5 +1,7 @@
 # Look for a Star
 
+[Compare across authors](../../compare/?t=film-look-for-a-star_41544)
+
 ## DD+ 2.0
 
 **2009 • NR • 1h 57m • Cantonese • Romance, Drama, Comedy • mobe1969**

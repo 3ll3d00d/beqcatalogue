@@ -1,5 +1,7 @@
 # The Privilege
 
+[Compare across authors](../../compare/?t=film-the-privilege_926980)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 47m • German • Horror • mobe1969**

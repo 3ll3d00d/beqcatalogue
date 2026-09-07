@@ -1,5 +1,7 @@
 # Once Upon a Time in Hong Kong
 
+[Compare across authors](../../compare/?t=film-once-upon-a-time-in-hong-kong_814781)
+
 ## AAC 2.0
 
 **2021 • NR • 1h 46m • Cantonese • Crime, Drama, Action • mobe1969**

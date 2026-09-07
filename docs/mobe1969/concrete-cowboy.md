@@ -1,5 +1,7 @@
 # Concrete Cowboy
 
+[Compare across authors](../../compare/?t=film-concrete-cowboy_621954)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 51m • Drama, Western • mobe1969**

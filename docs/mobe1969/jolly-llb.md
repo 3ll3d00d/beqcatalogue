@@ -1,5 +1,7 @@
 # Jolly LLB
 
+[Compare across authors](../../compare/?t=film-jolly-llb_177358)
+
 ## TrueHD 5.1, DTS-HD MA 5.1
 
 **2013 • NR • 2h 15m • Hindi • Comedy, Drama • mobe1969**

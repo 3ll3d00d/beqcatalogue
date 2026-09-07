@@ -1,5 +1,7 @@
 # Snatch
 
+[Compare across authors](../../compare/?t=film-snatch_107)
+
 ## Atmos
 
 **2000 • R • 1h 44m • Crime, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Partisan
 
+[Compare across authors](../../compare/?t=film-partisan_306482)
+
 ## DTS-HD MA 5.1
 
 **2015 • 18 • 1h 38m • Thriller, Drama • mobe1969**

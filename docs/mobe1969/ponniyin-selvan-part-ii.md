@@ -1,5 +1,7 @@
 # Ponniyin Selvan: Part II
 
+[Compare across authors](../../compare/?t=film-ponniyin-selvan-part-ii_858082)
+
 ## DD+ 5.1
 
 **2023 • 15 • 2h 45m • Tamil • Action, Adventure, Drama • mobe1969**

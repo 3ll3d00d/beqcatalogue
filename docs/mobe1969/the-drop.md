@@ -1,5 +1,7 @@
 # The Drop
 
+[Compare across authors](../../compare/?t=film-the-drop_154400)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 46m • Drama, Crime • mobe1969**

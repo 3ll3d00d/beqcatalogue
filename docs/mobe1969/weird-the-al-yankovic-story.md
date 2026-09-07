@@ -1,5 +1,7 @@
 # Weird: The Al Yankovic Story
 
+[Compare across authors](../../compare/?t=film-weird-the-al-yankovic-story_928344)
+
 ## DTS-HD MA 5.1
 
 **2022 • PG-13 • 1h 48m • Music, Comedy • mobe1969**

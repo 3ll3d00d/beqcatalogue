@@ -1,5 +1,7 @@
 # Point Man
 
+[Compare across authors](../../compare/?t=film-point-man_580431)
+
 ## DD+ 2.0
 
 **2018 • NR • 1h 47m • Action, War • mobe1969**

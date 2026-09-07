@@ -1,5 +1,7 @@
 # The Woman in the Window
 
+[Compare across authors](../../compare/?t=film-the-woman-in-the-window_520663)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • R • 1h 42m • Drama, Thriller, Crime, Mystery • mobe1969**

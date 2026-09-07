@@ -1,5 +1,7 @@
 # White Vengeance
 
+[Compare across authors](../../compare/?t=film-white-vengeance_81344)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 2h 15m • Mandarin • Drama, Action • mobe1969**

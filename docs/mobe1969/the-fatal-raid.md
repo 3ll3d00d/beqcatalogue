@@ -1,5 +1,7 @@
 # The Fatal Raid
 
+[Compare across authors](../../compare/?t=film-the-fatal-raid_608845)
+
 ## TrueHD 5.1
 
 **2019 • NR • 1h 31m • Cantonese • Action, Comedy, Drama • mobe1969**

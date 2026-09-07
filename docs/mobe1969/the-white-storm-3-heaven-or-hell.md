@@ -1,5 +1,7 @@
 # The White Storm 3: Heaven or Hell
 
+[Compare across authors](../../compare/?t=film-the-white-storm-3-heaven-or-hell_1093485)
+
 ## Atmos
 
 **2023 • NR • 2h 5m • Cantonese • Action, Drama, Crime • mobe1969**

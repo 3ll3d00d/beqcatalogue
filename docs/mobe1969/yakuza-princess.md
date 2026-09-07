@@ -1,5 +1,7 @@
 # Yakuza Princess
 
+[Compare across authors](../../compare/?t=film-yakuza-princess_661595)
+
 ## Atmos
 
 **2021 • R • 1h 52m • Action • mobe1969**

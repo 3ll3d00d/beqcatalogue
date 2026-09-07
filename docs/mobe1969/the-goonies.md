@@ -1,5 +1,7 @@
 # The Goonies
 
+[Compare across authors](../../compare/?t=film-the-goonies_9340)
+
 ## DTS-HD MA 5.1
 
 **1985 • PG • 1h 54m • Adventure, Comedy, Family • mobe1969**

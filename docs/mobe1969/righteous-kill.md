@@ -1,5 +1,7 @@
 # Righteous Kill
 
+[Compare across authors](../../compare/?t=film-righteous-kill_13389)
+
 ## TrueHD 5.1
 
 **2008 • R • 1h 41m • Action, Drama, Thriller, Crime • mobe1969**

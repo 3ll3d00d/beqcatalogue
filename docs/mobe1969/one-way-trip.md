@@ -1,5 +1,7 @@
 # One Way Trip
 
+[Compare across authors](../../compare/?t=film-one-way-trip_381375)
+
 ## TrueHD 5.1
 
 **2015 • NR • 1h 33m • Korean • Drama • mobe1969**

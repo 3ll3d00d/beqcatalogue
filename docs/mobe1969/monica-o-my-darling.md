@@ -1,5 +1,7 @@
 # Monica, O My Darling
 
+[Compare across authors](../../compare/?t=film-monica-o-my-darling_915831)
+
 ## DD+ Atmos
 
 **2022 • R • 2h 9m • Hindi • Crime, Comedy, Drama, Mystery • mobe1969**

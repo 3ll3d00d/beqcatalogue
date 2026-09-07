@@ -1,5 +1,7 @@
 # Mayhem
 
+[Compare across authors](../../compare/?t=film-mayhem_429733)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 1h 26m • Action, Comedy, Horror • mobe1969**

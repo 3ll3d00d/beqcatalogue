@@ -1,5 +1,7 @@
 # White House Down
 
+[Compare across authors](../../compare/?t=film-white-house-down_117251)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2013 • PG-13 • 2h 11m • Action, Drama, Thriller • mobe1969**

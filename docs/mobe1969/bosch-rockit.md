@@ -1,5 +1,7 @@
 # Bosch & Rockit
 
+[Compare across authors](../../compare/?t=film-bosch-rockit_863814)
+
 ## DD+ 5.1
 
 **2022 • MA15+ • 1h 47m • Drama • mobe1969**

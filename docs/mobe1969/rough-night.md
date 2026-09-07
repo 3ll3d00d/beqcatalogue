@@ -1,5 +1,7 @@
 # Rough Night
 
+[Compare across authors](../../compare/?t=film-rough-night_397422)
+
 ## Atmos
 
 **2017 • R • 1h 41m • Comedy, Drama • mobe1969**

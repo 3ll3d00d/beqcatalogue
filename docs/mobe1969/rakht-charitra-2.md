@@ -1,5 +1,7 @@
 # Rakht Charitra 2
 
+[Compare across authors](../../compare/?t=film-rakht-charitra-2_55808)
+
 ## DD+ 5.1
 
 **2010 • NR • 2h 15m • Hindi • Action, Crime, Drama • mobe1969**

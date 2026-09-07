@@ -1,5 +1,7 @@
 # Bartkowiak
 
+[Compare across authors](../../compare/?t=film-bartkowiak_809968)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 31m • Polish • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Jurassic Park III
 
+[Compare across authors](../../compare/?t=film-jurassic-park-iii_331)
+
 ## DTS-X, DD+ 5.1
 
 **2001 • PG-13 • 1h 32m • Adventure, Action, Thriller, Science Fiction • mobe1969**

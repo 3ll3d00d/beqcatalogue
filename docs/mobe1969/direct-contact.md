@@ -1,5 +1,7 @@
 # Direct Contact
 
+[Compare across authors](../../compare/?t=film-direct-contact_20236)
+
 ## TrueHD 5.1
 
 **2009 • 18 • 1h 30m • Action, Adventure, Thriller • mobe1969**

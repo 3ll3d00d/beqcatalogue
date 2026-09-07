@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-post-mortem-no-one-dies-in-skarnes_129933)
+
 ## Season 1
 
 * DD+ 5.1

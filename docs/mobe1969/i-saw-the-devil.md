@@ -1,5 +1,7 @@
 # I Saw the Devil
 
+[Compare across authors](../../compare/?t=film-i-saw-the-devil_49797)
+
 ## DTS-HD MA 5.1
 
 Director's Cut

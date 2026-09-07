@@ -1,5 +1,7 @@
 # Hindsight
 
+[Compare across authors](../../compare/?t=film-hindsight_81460)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 2h 2m • Korean • Action, Drama, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Speed 2: Cruise Control
 
+[Compare across authors](../../compare/?t=film-speed-2-cruise-control_1639)
+
 ## DTS-HD MA 5.1
 
 **1997 • PG-13 • 2h 1m • Action, Adventure, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Gardener
 
+[Compare across authors](../../compare/?t=film-the-gardener_894432)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 29m • Action, Thriller • mobe1969**

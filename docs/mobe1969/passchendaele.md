@@ -1,5 +1,7 @@
 # Passchendaele
 
+[Compare across authors](../../compare/?t=film-passchendaele_14582)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 1h 54m • Drama, Romance, War, History • mobe1969**

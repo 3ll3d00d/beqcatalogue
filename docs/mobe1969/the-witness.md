@@ -1,5 +1,7 @@
 # The Witness
 
+[Compare across authors](../../compare/?t=film-the-witness_529569)
+
 ## DTS-HD MA 5.1
 
 **2018 • 15 • 1h 51m • Korean • Thriller • mobe1969**

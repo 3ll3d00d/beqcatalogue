@@ -1,5 +1,7 @@
 # G-Force
 
+[Compare across authors](../../compare/?t=film-g-force_19585)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG • 1h 28m • Family, Fantasy, Action, Adventure, Comedy • mobe1969**

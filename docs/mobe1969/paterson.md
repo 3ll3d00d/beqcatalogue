@@ -1,5 +1,7 @@
 # Paterson
 
+[Compare across authors](../../compare/?t=film-paterson_370755)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 58m • Drama, Comedy, Romance • mobe1969**

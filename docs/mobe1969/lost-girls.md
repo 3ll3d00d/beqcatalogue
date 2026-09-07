@@ -1,5 +1,7 @@
 # Lost Girls
 
+[Compare across authors](../../compare/?t=film-lost-girls_567970)
+
 ## DD+ Atmos
 
 **2020 • R • 1h 35m • Drama, Mystery, Thriller, History • mobe1969**

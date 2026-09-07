@@ -1,5 +1,7 @@
 # Shanghai Fortress
 
+[Compare across authors](../../compare/?t=film-shanghai-fortress_559957)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 47m • Mandarin • Science Fiction, War • mobe1969**

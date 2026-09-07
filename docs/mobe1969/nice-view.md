@@ -1,5 +1,7 @@
 # Nice View
 
+[Compare across authors](../../compare/?t=film-nice-view_803266)
+
 ## Atmos
 
 **2022 • PG • 1h 46m • Mandarin • Drama, Family, Comedy • mobe1969**

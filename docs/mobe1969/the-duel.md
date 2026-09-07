@@ -1,5 +1,7 @@
 # The Duel
 
+[Compare across authors](../../compare/?t=film-the-duel_333386)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 50m • Western, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Despicable Me 2
 
+[Compare across authors](../../compare/?t=film-despicable-me-2_93456)
+
 ## DTS-X
 
 **2013 • PG • 1h 38m • Animation, Comedy, Family • mobe1969**

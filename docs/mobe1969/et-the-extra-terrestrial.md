@@ -1,5 +1,7 @@
 # E.T. the Extra-Terrestrial
 
+[Compare across authors](../../compare/?t=film-et-the-extra-terrestrial_601)
+
 ## DTS-X
 
 **1982 • PG • 1h 55m • Science Fiction, Adventure, Family, Fantasy • mobe1969**

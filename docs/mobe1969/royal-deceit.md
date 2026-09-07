@@ -1,5 +1,7 @@
 # Royal Deceit
 
+[Compare across authors](../../compare/?t=film-royal-deceit_48791)
+
 ## DTS-HD MA 2.0
 
 **1994 • R • 1h 25m • Drama, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Backtrace
 
+[Compare across authors](../../compare/?t=film-backtrace_512412)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 27m • Crime, Thriller • mobe1969**

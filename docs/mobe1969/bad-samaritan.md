@@ -1,5 +1,7 @@
 # Bad Samaritan
 
+[Compare across authors](../../compare/?t=film-bad-samaritan_467632)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 51m • Thriller, Crime, Horror • mobe1969**

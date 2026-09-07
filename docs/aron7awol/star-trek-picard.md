@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-star-trek-picard_85949)
+
 ## Season 1
 
 * DD+

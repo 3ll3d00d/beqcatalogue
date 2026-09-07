@@ -1,5 +1,7 @@
 # 7 Khoon Maaf
 
+[Compare across authors](../../compare/?t=film-7-khoon-maaf_56338)
+
 ## DD+ 5.1
 
 **2011 • 15 • 2h 28m • Hindi • Drama, Mystery, Thriller • mobe1969**

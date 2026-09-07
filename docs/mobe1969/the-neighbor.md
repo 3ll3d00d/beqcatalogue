@@ -1,5 +1,7 @@
 # The Neighbor
 
+[Compare across authors](../../compare/?t=film-the-neighbor_415311)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 45m • Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Fantastic Four
 
+[Compare across authors](../../compare/?t=film-fantastic-four_9738)
+
 ## DTS-HD MA 5.1
 
 **2005 • PG-13 • 1h 46m • Action, Adventure, Fantasy, Science Fiction • mobe1969**

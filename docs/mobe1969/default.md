@@ -1,5 +1,7 @@
 # Default
 
+[Compare across authors](../../compare/?t=film-default_554137)
+
 ## TrueHD 7.1
 
 **2018 • NR • 1h 54m • Korean • Drama, History • mobe1969**

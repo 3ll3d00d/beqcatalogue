@@ -1,5 +1,7 @@
 # Bulldozer
 
+[Compare across authors](../../compare/?t=film-bulldozer_957517)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 23m • Crime • mobe1969**

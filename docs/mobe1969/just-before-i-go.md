@@ -1,5 +1,7 @@
 # Just Before I Go
 
+[Compare across authors](../../compare/?t=film-just-before-i-go_258099)
+
 ## TrueHD 5.1
 
 **2014 • R • 1h 35m • Comedy, Drama, Romance • mobe1969**

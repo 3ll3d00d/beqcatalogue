@@ -1,5 +1,7 @@
 # Mother's Day
 
+[Compare across authors](../../compare/?t=film-mothers-day_1107872)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 34m • Polish • Action, Thriller • mobe1969**

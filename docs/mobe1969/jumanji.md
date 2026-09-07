@@ -1,5 +1,7 @@
 # Jumanji
 
+[Compare across authors](../../compare/?t=film-jumanji_8844)
+
 ## Atmos
 
 **1995 • PG • 1h 44m • Adventure, Fantasy, Family • mobe1969**

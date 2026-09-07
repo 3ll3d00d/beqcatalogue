@@ -1,5 +1,7 @@
 # Insomnia
 
+[Compare across authors](../../compare/?t=film-insomnia_320)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 1h 58m • Mystery, Thriller, Crime • mobe1969**

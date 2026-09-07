@@ -1,5 +1,7 @@
 # Eye in the Sky
 
+[Compare across authors](../../compare/?t=film-eye-in-the-sky_37984)
+
 ## TrueHD 5.1
 
 **2007 • NR • 1h 30m • Cantonese • Action, Thriller • mobe1969**

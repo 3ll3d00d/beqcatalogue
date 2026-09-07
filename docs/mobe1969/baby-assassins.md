@@ -1,5 +1,7 @@
 # Baby Assassins
 
+[Compare across authors](../../compare/?t=film-baby-assassins_847143)
+
 ## DTS-HD MA 5.1
 
 **2021 • 15 • 1h 35m • Japanese • Drama, Comedy, Action • mobe1969**

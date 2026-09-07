@@ -1,5 +1,7 @@
 # 10 Minutes Gone
 
+[Compare across authors](../../compare/?t=film-10-minutes-gone_552865)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 29m • Mystery, Crime, Thriller, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Surrogates
 
+[Compare across authors](../../compare/?t=film-surrogates_19959)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 29m • Science Fiction, Action, Thriller • mobe1969**

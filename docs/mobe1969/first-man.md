@@ -1,5 +1,7 @@
 # First Man
 
+[Compare across authors](../../compare/?t=film-first-man_369972)
+
 ## Atmos
 
 **2018 • PG-13 • 2h 21m • History, Drama • mobe1969**

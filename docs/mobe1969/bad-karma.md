@@ -1,5 +1,7 @@
 # Bad Karma
 
+[Compare across authors](../../compare/?t=film-bad-karma_122796)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 27m • Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # 30 Days of Night
 
+[Compare across authors](../../compare/?t=film-30-days-of-night_4513)
+
 ## TrueHD 5.1, DTS 5.1
 
 **2007 • R • 1h 53m • Horror, Thriller • mobe1969**

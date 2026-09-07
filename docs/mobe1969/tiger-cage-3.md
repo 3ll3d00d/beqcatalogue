@@ -1,5 +1,7 @@
 # Tiger Cage 3
 
+[Compare across authors](../../compare/?t=film-tiger-cage-3_138529)
+
 ## LPCM 2.0
 
 **1991 • NR • 1h 33m • Cantonese • Thriller, Action, Crime • mobe1969**

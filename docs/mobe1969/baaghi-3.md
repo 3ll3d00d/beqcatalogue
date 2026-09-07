@@ -1,5 +1,7 @@
 # Baaghi 3
 
+[Compare across authors](../../compare/?t=film-baaghi-3_594669)
+
 ## DTS-HD MA 5.1
 
 **2020 • 12A • 2h 24m • Hindi • Action, Adventure, Thriller • mobe1969**

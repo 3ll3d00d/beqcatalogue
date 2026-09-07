@@ -1,5 +1,7 @@
 # Monster Hunt
 
+[Compare across authors](../../compare/?t=film-monster-hunt_334298)
+
 ## TrueHD 7.1
 
 **2015 • PG • 1h 51m • Cantonese • Comedy, Fantasy, Adventure • mobe1969**

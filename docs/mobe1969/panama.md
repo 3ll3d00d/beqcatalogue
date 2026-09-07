@@ -1,5 +1,7 @@
 # Panama
 
+[Compare across authors](../../compare/?t=film-panama_628878)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 40m • Action, Thriller • mobe1969**

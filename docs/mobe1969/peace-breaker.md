@@ -1,5 +1,7 @@
 # Peace Breaker
 
+[Compare across authors](../../compare/?t=film-peace-breaker_473256)
+
 ## TrueHD 5.1
 
 **2017 • NR • 1h 53m • Mandarin • Crime • mobe1969**

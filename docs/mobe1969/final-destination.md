@@ -1,5 +1,7 @@
 # Final Destination
 
+[Compare across authors](../../compare/?t=film-final-destination_9532)
+
 ## TrueHD 5.1
 
 **2000 • R • 1h 38m • Horror • mobe1969**

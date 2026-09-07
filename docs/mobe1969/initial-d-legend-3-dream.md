@@ -1,5 +1,7 @@
 # Initial D Legend 3: Dream
 
+[Compare across authors](../../compare/?t=film-initial-d-legend-3-dream_372758)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 5m • Japanese • Action, Animation, Drama • mobe1969**

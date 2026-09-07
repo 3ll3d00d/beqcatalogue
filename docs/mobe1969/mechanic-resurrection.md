@@ -1,5 +1,7 @@
 # Mechanic: Resurrection
 
+[Compare across authors](../../compare/?t=film-mechanic-resurrection_278924)
+
 ## Atmos
 
 **2016 • R • 1h 38m • Action, Crime, Thriller • mobe1969**

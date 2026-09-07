@@ -1,5 +1,7 @@
 # The Lone Ranger
 
+[Compare across authors](../../compare/?t=film-the-lone-ranger_57201)
+
 ## DTS-HD MA 7.1
 
 **2013 • PG-13 • 2h 29m • Action, Adventure, Western • mobe1969**

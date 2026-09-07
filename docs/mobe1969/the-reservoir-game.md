@@ -1,5 +1,7 @@
 # The Reservoir Game
 
+[Compare across authors](../../compare/?t=film-the-reservoir-game_477767)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 40m • Korean • Documentary • mobe1969**

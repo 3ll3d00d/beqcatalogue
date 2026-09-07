@@ -1,5 +1,7 @@
 # Elimination Game
 
+[Compare across authors](../../compare/?t=film-elimination-game_301730)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 30m • Action • mobe1969**

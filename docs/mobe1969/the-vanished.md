@@ -1,5 +1,7 @@
 # The Vanished
 
+[Compare across authors](../../compare/?t=film-the-vanished_718400)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 55m • Mystery, Thriller, Action • mobe1969**

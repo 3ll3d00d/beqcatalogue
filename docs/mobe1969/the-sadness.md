@@ -1,5 +1,7 @@
 # The Sadness
 
+[Compare across authors](../../compare/?t=film-the-sadness_776797)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 40m • Mandarin • Horror, Action • mobe1969**

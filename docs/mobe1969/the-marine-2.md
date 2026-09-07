@@ -1,5 +1,7 @@
 # The Marine 2
 
+[Compare across authors](../../compare/?t=film-the-marine-2_27310)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 35m • Drama, Thriller, Action, Adventure • mobe1969**

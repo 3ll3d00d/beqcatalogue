@@ -1,5 +1,7 @@
 # Warrior Assassin
 
+[Compare across authors](../../compare/?t=film-warrior-assassin_264071)
+
 ## DD+ 5.1
 
 **2013 • PG-13 • 2h 12m • Mandarin • Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Limey
 
+[Compare across authors](../../compare/?t=film-the-limey_10388)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 29m • Drama, Mystery, Crime, Thriller, Action • mobe1969**

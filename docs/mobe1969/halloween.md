@@ -1,5 +1,7 @@
 # Halloween
 
+[Compare across authors](../../compare/?t=film-halloween_948)
+
 ## Atmos
 
 **1978 • R • 1h 31m • Horror, Thriller • mobe1969**

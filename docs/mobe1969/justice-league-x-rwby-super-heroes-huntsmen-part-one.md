@@ -1,5 +1,7 @@
 # Justice League x RWBY: Super Heroes & Huntsmen, Part One
 
+[Compare across authors](../../compare/?t=film-justice-league-x-rwby-super-heroes-huntsmen-part-one_997776)
+
 ## DTS-HD 5.1
 
 **2023 • PG • 1h 23m • Animation, Action, Fantasy • mobe1969**

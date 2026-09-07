@@ -1,5 +1,7 @@
 # Zoom
 
+[Compare across authors](../../compare/?t=film-zoom_14113)
+
 ## DD+ 5.1
 
 **2006 • PG • 1h 23m • Family, Comedy, Adventure, Action, Science Fiction • mobe1969**

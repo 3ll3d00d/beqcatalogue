@@ -1,5 +1,7 @@
 # Blue
 
+[Compare across authors](../../compare/?t=film-blue_24595)
+
 ## DD+ 5.1
 
 **2009 • NR • 1h 56m • Hindi • Action, Adventure, Thriller • mobe1969**

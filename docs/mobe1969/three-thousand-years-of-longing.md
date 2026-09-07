@@ -1,5 +1,7 @@
 # Three Thousand Years of Longing
 
+[Compare across authors](../../compare/?t=film-three-thousand-years-of-longing_556694)
+
 ## Atmos, DD+ 5.1
 
 **2022 • R • 1h 48m • Fantasy, Drama, Romance • mobe1969**

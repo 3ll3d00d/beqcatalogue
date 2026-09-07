@@ -1,5 +1,7 @@
 # P Storm
 
+[Compare across authors](../../compare/?t=film-p-storm_588073)
+
 ## Atmos
 
 **2019 • NR • 1h 36m • Cantonese • Action, Crime • mobe1969**

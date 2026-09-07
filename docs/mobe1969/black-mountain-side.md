@@ -1,5 +1,7 @@
 # Black Mountain Side
 
+[Compare across authors](../../compare/?t=film-black-mountain-side_267852)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 39m • Thriller • mobe1969**

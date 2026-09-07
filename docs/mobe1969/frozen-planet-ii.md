@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-frozen-planet-ii_116155)
+
 ## Season 1
 
 * Atmos

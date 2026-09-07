@@ -1,5 +1,7 @@
 # The Addams Family
 
+[Compare across authors](../../compare/?t=film-the-addams-family_481084)
+
 ## DD+ 5.1
 
 **2019 • PG • 1h 26m • Family, Animation, Comedy, Fantasy, Horror • mobe1969**

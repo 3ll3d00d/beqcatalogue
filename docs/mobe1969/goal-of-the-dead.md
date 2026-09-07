@@ -1,5 +1,7 @@
 # Goal of the Dead
 
+[Compare across authors](../../compare/?t=film-goal-of-the-dead_273467)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 2h 20m • French • Comedy, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Kilo Two Bravo
 
+[Compare across authors](../../compare/?t=film-kilo-two-bravo_306650)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 48m • Thriller, War, Adventure, Drama • mobe1969**

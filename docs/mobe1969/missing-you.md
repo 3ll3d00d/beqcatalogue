@@ -1,5 +1,7 @@
 # Missing You
 
+[Compare across authors](../../compare/?t=film-missing-you_390433)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 48m • Korean • Thriller, Drama • mobe1969**

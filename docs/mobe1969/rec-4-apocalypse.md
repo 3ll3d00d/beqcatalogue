@@ -1,5 +1,7 @@
 # Rec 4: Apocalypse
 
+[Compare across authors](../../compare/?t=film-rec-4-apocalypse_185341)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 35m • Spanish • Horror, Thriller • mobe1969**

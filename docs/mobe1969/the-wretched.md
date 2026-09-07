@@ -1,5 +1,7 @@
 # The Wretched
 
+[Compare across authors](../../compare/?t=film-the-wretched_605804)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 35m • Horror • mobe1969**

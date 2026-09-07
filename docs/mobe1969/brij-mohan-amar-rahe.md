@@ -1,5 +1,7 @@
 # Brij Mohan Amar Rahe!
 
+[Compare across authors](../../compare/?t=film-brij-mohan-amar-rahe_539470)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 40m • Hindi • Comedy, Drama • mobe1969**

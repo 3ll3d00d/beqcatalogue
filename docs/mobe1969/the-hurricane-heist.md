@@ -1,5 +1,7 @@
 # The Hurricane Heist
 
+[Compare across authors](../../compare/?t=film-the-hurricane-heist_430040)
+
 ## Atmos
 
 **2018 • PG-13 • 1h 43m • Action, Crime, Thriller • mobe1969**

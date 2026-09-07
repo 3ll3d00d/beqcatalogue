@@ -1,5 +1,7 @@
 # Firefox
 
+[Compare across authors](../../compare/?t=film-firefox_10724)
+
 ## DTS-HD MA 5.1
 
 **1982 • PG • 2h 16m • Science Fiction, Action, Adventure, Thriller • mobe1969**

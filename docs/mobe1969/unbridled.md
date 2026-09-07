@@ -1,5 +1,7 @@
 # Unbridled
 
+[Compare across authors](../../compare/?t=film-unbridled_621930)
+
 ## DD+ 5.1
 
 **2019 • PG-13 • 1h 55m • Drama • mobe1969**

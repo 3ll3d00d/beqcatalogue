@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-curon_103849)
+
 ## Season 1
 
 * DD+

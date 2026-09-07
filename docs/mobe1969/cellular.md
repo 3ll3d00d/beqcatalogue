@@ -1,5 +1,7 @@
 # Cellular
 
+[Compare across authors](../../compare/?t=film-cellular_9759)
+
 ## DTS-HD MA 5.1
 
 **2004 • PG-13 • 1h 34m • Thriller, Action • mobe1969**

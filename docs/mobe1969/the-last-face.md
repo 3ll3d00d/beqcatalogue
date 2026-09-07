@@ -1,5 +1,7 @@
 # The Last Face
 
+[Compare across authors](../../compare/?t=film-the-last-face_287904)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 2h 10m • Drama • mobe1969**

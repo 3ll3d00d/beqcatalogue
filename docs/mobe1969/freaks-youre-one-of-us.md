@@ -1,5 +1,7 @@
 # Freaks - You're One of Us
 
+[Compare across authors](../../compare/?t=film-freaks-youre-one-of-us_658777)
+
 ## DD+ 5.1
 
 **2020 • NC-17 • 1h 33m • German • Drama, Fantasy, Thriller • mobe1969**

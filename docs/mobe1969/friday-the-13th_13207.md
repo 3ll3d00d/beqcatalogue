@@ -1,5 +1,7 @@
 # Friday the 13th
 
+[Compare across authors](../../compare/?t=film-friday-the-13th_13207)
+
 ## TrueHD 5.1
 
 **2009 • R • 1h 37m • Horror • mobe1969**

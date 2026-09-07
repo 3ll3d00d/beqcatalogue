@@ -1,5 +1,7 @@
 # Wild Dog
 
+[Compare across authors](../../compare/?t=film-wild-dog_802068)
+
 ## DD+ 5.1
 
 **2021 • 15 • 2h 2m • Telugu • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Mist
 
+[Compare across authors](../../compare/?t=film-the-mist_5876)
+
 ## Atmos
 
 **2007 • R • 2h 6m • Horror, Science Fiction, Thriller • mobe1969**

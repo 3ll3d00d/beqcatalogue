@@ -1,5 +1,7 @@
 # The Craft
 
+[Compare across authors](../../compare/?t=film-the-craft_9100)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 1h 41m • Horror, Drama, Fantasy • mobe1969**

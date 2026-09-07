@@ -1,5 +1,7 @@
 # Peppermint Candy
 
+[Compare across authors](../../compare/?t=film-peppermint-candy_41245)
+
 ## DTS-HD MA 5.1
 
 **2000 • NR • 2h 10m • Korean • Drama • mobe1969**

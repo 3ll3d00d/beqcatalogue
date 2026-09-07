@@ -1,5 +1,7 @@
 # Lost Boys: The Thirst
 
+[Compare across authors](../../compare/?t=film-lost-boys-the-thirst_46812)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 21m • Action, Adventure, Comedy, Horror • mobe1969**

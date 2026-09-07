@@ -1,5 +1,7 @@
 # Dead Silence
 
+[Compare across authors](../../compare/?t=film-dead-silence_14001)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

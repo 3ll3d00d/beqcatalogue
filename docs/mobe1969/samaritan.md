@@ -1,5 +1,7 @@
 # Samaritan
 
+[Compare across authors](../../compare/?t=film-samaritan_629176)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 1h 39m • Action, Thriller, Fantasy • mobe1969**

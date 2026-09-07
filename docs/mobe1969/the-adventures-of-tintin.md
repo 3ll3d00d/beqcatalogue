@@ -1,5 +1,7 @@
 # The Adventures of Tintin
 
+[Compare across authors](../../compare/?t=film-the-adventures-of-tintin_17578)
+
 ## DTS-HD MA 7.1
 
 **2011 • PG • 1h 47m • Adventure, Animation, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Vinaya Vidheya Rama
 
+[Compare across authors](../../compare/?t=film-vinaya-vidheya-rama_566402)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 26m • Telugu • Action, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Incendies
 
+[Compare across authors](../../compare/?t=film-incendies_46738)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 2h 10m • French • Drama, War, Mystery • mobe1969**

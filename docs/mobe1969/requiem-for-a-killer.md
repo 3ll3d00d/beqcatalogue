@@ -1,5 +1,7 @@
 # Requiem for a Killer
 
+[Compare across authors](../../compare/?t=film-requiem-for-a-killer_68280)
+
 ## TrueHD 5.1
 
 **2011 • R • 1h 31m • French • Thriller • mobe1969**

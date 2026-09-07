@@ -1,5 +1,7 @@
 # Ip Man 4: The Finale
 
+[Compare across authors](../../compare/?t=film-ip-man-4-the-finale_449924)
+
 ## Atmos
 
 **2019 • NR • 1h 47m • Action, Drama, History • mobe1969**

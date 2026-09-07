@@ -1,5 +1,7 @@
 # Terrifier 2
 
+[Compare across authors](../../compare/?t=film-terrifier-2_663712)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 18m • Horror • mobe1969**

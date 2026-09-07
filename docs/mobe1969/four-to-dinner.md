@@ -1,5 +1,7 @@
 # Four to Dinner
 
+[Compare across authors](../../compare/?t=film-four-to-dinner_832277)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 44m • Italian • Comedy, Romance • mobe1969**

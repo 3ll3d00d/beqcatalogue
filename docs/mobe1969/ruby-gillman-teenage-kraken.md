@@ -1,5 +1,7 @@
 # Ruby Gillman, Teenage Kraken
 
+[Compare across authors](../../compare/?t=film-ruby-gillman-teenage-kraken_1040148)
+
 ## DD+ 5.1
 
 **2023 • PG • 1h 31m • Animation, Family, Fantasy, Comedy • mobe1969**

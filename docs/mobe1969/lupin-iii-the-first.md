@@ -1,5 +1,7 @@
 # Lupin III: The First
 
+[Compare across authors](../../compare/?t=film-lupin-iii-the-first_614587)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 1h 33m • Adventure, Action, Animation • mobe1969**

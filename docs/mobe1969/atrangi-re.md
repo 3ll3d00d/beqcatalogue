@@ -1,5 +1,7 @@
 # Atrangi Re
 
+[Compare across authors](../../compare/?t=film-atrangi-re_618911)
+
 ## AAC 5.1
 
 **2021 • NR • 2h 18m • Hindi • Comedy, Drama, Romance • mobe1969**

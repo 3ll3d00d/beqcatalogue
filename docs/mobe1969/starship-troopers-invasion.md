@@ -1,5 +1,7 @@
 # Starship Troopers: Invasion
 
+[Compare across authors](../../compare/?t=film-starship-troopers-invasion_114478)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 29m • Animation, Action, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Shanghai
 
+[Compare across authors](../../compare/?t=film-shanghai_38407)
+
 ## DD+ 5.1
 
 **2012 • R • 1h 45m • Hindi • Drama, Thriller, Mystery, Crime • mobe1969**

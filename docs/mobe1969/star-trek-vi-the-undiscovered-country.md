@@ -1,5 +1,7 @@
 # Star Trek VI: The Undiscovered Country
 
+[Compare across authors](../../compare/?t=film-star-trek-vi-the-undiscovered-country_174)
+
 ## TrueHD 7.1
 
 Theatrical Cut

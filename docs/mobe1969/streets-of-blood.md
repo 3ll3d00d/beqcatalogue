@@ -1,5 +1,7 @@
 # Streets of Blood
 
+[Compare across authors](../../compare/?t=film-streets-of-blood_19727)
+
 ## DD+ 5.1
 
 **2009 • R • 1h 35m • Action, Crime, Drama • mobe1969**

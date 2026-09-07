@@ -1,5 +1,7 @@
 # Alien Uprising
 
+[Compare across authors](../../compare/?t=film-alien-uprising_146631)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 41m • Action, Comedy, Horror, Adventure, Science Fiction • mobe1969**

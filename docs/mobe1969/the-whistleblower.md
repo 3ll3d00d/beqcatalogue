@@ -1,5 +1,7 @@
 # The Whistleblower
 
+[Compare across authors](../../compare/?t=film-the-whistleblower_622832)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 14m • Mandarin • Action, Crime, Mystery • mobe1969**

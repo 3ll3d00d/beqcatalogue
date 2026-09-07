@@ -1,5 +1,7 @@
 # The Girl in the Spider's Web
 
+[Compare across authors](../../compare/?t=film-the-girl-in-the-spiders-web_446807)
+
 ## Atmos
 
 **2018 • R • 1h 55m • Crime, Thriller, Action, Drama • mobe1969**

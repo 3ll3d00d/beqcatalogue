@@ -1,5 +1,7 @@
 # Hot Pursuit
 
+[Compare across authors](../../compare/?t=film-hot-pursuit_268920)
+
 ## DD+ 5.1
 
 **2015 • PG-13 • 1h 27m • Action, Comedy, Crime • mobe1969**

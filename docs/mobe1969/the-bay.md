@@ -1,5 +1,7 @@
 # The Bay
 
+[Compare across authors](../../compare/?t=film-the-bay_123105)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 24m • Science Fiction, Horror, Thriller • mobe1969**

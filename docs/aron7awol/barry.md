@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-barry_73107)
+
 ## Season 2
 
 * DD+

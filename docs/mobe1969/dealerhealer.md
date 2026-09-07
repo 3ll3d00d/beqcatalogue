@@ -1,5 +1,7 @@
 # Dealer/Healer
 
+[Compare across authors](../../compare/?t=film-dealerhealer_458266)
+
 ## TrueHD 7.1
 
 **2017 • NR • 1h 41m • Cantonese • Drama, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Advantageous
 
+[Compare across authors](../../compare/?t=film-advantageous_308457)
+
 ## DD+ 5.1
 
 **2015 • NR • 1h 32m • Science Fiction, Drama • mobe1969**

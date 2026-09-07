@@ -1,5 +1,7 @@
 # Trespass
 
+[Compare across authors](../../compare/?t=film-trespass_70578)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 31m • Crime, Drama, Thriller, Mystery • mobe1969**

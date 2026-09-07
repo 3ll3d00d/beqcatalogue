@@ -1,5 +1,7 @@
 # Wildcat
 
+[Compare across authors](../../compare/?t=film-wildcat_762735)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 33m • Mystery, Thriller, Drama, War • mobe1969**

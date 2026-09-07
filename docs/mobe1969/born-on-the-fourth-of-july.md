@@ -1,5 +1,7 @@
 # Born on the Fourth of July
 
+[Compare across authors](../../compare/?t=film-born-on-the-fourth-of-july_2604)
+
 ## DTS-HD MA 5.1
 
 **1989 • R • 2h 25m • War, Drama • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-chief-of-staff_89642)
+
 ## Season 1
 
 * DD+ 2.0

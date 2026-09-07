@@ -1,5 +1,7 @@
 # The Transformers: The Movie
 
+[Compare across authors](../../compare/?t=film-the-transformers-the-movie_1857)
+
 ## DTS-HD MA 5.1
 
 **1986 • PG • 1h 24m • Animation, Science Fiction, Action, Adventure, Family • mobe1969**

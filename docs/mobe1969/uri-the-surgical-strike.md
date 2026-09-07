@@ -1,5 +1,7 @@
 # URI: The Surgical Strike
 
+[Compare across authors](../../compare/?t=film-uri-the-surgical-strike_554600)
+
 ## DTS-HD MA 5.1
 
 **2019 • MA15+ • 2h 18m • Hindi • Action, Drama, War • mobe1969**

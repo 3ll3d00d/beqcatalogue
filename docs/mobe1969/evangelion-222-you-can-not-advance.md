@@ -1,5 +1,7 @@
 # Evangelion: 2.22 You Can (Not) Advance
 
+[Compare across authors](../../compare/?t=film-evangelion-222-you-can-not-advance_22843)
+
 ## TrueHD 6.1
 
 **2009 • NR • 1h 48m • Japanese • Science Fiction, Action, Animation, Drama • mobe1969**

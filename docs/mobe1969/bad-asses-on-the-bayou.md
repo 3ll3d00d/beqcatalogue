@@ -1,5 +1,7 @@
 # Bad Asses on the Bayou
 
+[Compare across authors](../../compare/?t=film-bad-asses-on-the-bayou_309887)
+
 ## DD+ 5.1
 
 **2015 • R • 1h 25m • Comedy, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Angel Eyes
 
+[Compare across authors](../../compare/?t=film-angel-eyes_5852)
+
 ## DD+ 5.1
 
 **2001 • R • 1h 42m • Drama, Romance, Thriller • mobe1969**

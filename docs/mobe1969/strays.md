@@ -1,5 +1,7 @@
 # Strays
 
+[Compare across authors](../../compare/?t=film-strays_912908)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 33m • Comedy, Animation, Adventure • mobe1969**

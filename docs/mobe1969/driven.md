@@ -1,5 +1,7 @@
 # Driven
 
+[Compare across authors](../../compare/?t=film-driven_10477)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG-13 • 1h 56m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Mr. Church
 
+[Compare across authors](../../compare/?t=film-mr-church_374461)
+
 ## DD+ 5.1
 
 **2016 • PG-13 • 1h 44m • Drama • mobe1969**

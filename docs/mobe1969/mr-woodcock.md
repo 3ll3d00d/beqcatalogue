@@ -1,5 +1,7 @@
 # Mr. Woodcock
 
+[Compare across authors](../../compare/?t=film-mr-woodcock_13257)
+
 ## DTS-HD MA 7.1
 
 **2007 • PG-13 • 1h 27m • Comedy, Romance • mobe1969**

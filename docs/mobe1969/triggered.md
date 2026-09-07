@@ -1,5 +1,7 @@
 # Triggered
 
+[Compare across authors](../../compare/?t=film-triggered_715239)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 30m • Thriller, Horror • mobe1969**

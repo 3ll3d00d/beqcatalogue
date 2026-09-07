@@ -1,5 +1,7 @@
 # Helios
 
+[Compare across authors](../../compare/?t=film-helios_315509)
+
 ## Atmos, DD+ 5.1
 
 **2015 • MA15+ • 1h 58m • Cantonese • Crime, Action • mobe1969**

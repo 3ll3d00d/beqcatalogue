@@ -1,5 +1,7 @@
 # The Bad Guys: Reign of Chaos
 
+[Compare across authors](../../compare/?t=film-the-bad-guys-reign-of-chaos_585831)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 55m • Korean • Action, Crime • mobe1969**

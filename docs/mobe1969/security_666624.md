@@ -1,5 +1,7 @@
 # Security
 
+[Compare across authors](../../compare/?t=film-security_666624)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 58m • Italian • Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Pirates of the Caribbean: The Curse of the Black Pearl
 
+[Compare across authors](../../compare/?t=film-pirates-of-the-caribbean-the-curse-of-the-black-pearl_22)
+
 ## Atmos
 
 **2003 • PG-13 • 2h 23m • Adventure, Fantasy, Action • mobe1969**

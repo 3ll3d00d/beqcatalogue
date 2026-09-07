@@ -1,5 +1,7 @@
 # The Legend of Speed
 
+[Compare across authors](../../compare/?t=film-the-legend-of-speed_49199)
+
 ## TrueHD 7.1
 
 **1995 • NR • 1h 49m • Cantonese • Action • mobe1969**

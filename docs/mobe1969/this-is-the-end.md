@@ -1,5 +1,7 @@
 # This Is the End
 
+[Compare across authors](../../compare/?t=film-this-is-the-end_109414)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 47m • Action, Comedy • mobe1969**

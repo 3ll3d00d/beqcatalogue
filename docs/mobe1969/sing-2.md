@@ -1,5 +1,7 @@
 # Sing 2
 
+[Compare across authors](../../compare/?t=film-sing-2_438695)
+
 ## Atmos
 
 **2021 • PG • 1h 50m • Animation, Comedy, Family, Music • mobe1969**

@@ -1,5 +1,7 @@
 # Turning Point
 
+[Compare across authors](../../compare/?t=film-turning-point_44133)
+
 ## TrueHD 5.1
 
 **2009 • NR • 1h 29m • Cantonese • Action, Crime, Drama, Family, Thriller • mobe1969**

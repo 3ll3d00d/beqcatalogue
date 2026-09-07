@@ -1,5 +1,7 @@
 # The Turning
 
+[Compare across authors](../../compare/?t=film-the-turning_492611)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 34m • Horror, Thriller • mobe1969**

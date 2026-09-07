@@ -1,5 +1,7 @@
 # The Beast
 
+[Compare across authors](../../compare/?t=film-the-beast_575754)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 2h 10m • Korean • Crime, Action, Thriller, Mystery • mobe1969**

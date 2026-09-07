@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-woman-in-the-house-across-the-street-from-the-girl-in-the-window_111838)
+
 ## Season 1
 
 * DD+ Atmos, DD+ 5.1

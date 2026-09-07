@@ -1,5 +1,7 @@
 # Fatale
 
+[Compare across authors](../../compare/?t=film-fatale_549514)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 42m • Drama, Thriller • mobe1969**

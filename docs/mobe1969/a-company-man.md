@@ -1,5 +1,7 @@
 # A Company Man
 
+[Compare across authors](../../compare/?t=film-a-company-man_134126)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 36m • Korean • Drama, Action • mobe1969**

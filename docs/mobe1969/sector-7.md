@@ -1,5 +1,7 @@
 # Sector 7
 
+[Compare across authors](../../compare/?t=film-sector-7_75821)
+
 ## DTS-HD MA 5.1
 
 **2011 • 16 • 1h 41m • Korean • Science Fiction, Thriller, Adventure, Horror, Action • mobe1969**

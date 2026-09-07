@@ -1,5 +1,7 @@
 # Gangster Land
 
+[Compare across authors](../../compare/?t=film-gangster-land_485337)
+
 ## DTS-HD MA 5.1
 
 **2017 • 15 • 1h 30m • Thriller, Crime, Action • mobe1969**

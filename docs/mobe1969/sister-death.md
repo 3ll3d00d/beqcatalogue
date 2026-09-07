@@ -1,5 +1,7 @@
 # Sister Death
 
+[Compare across authors](../../compare/?t=film-sister-death_955531)
+
 ## DD+ Atmos
 
 **2023 • NR • 1h 30m • Spanish • Drama, Horror • mobe1969**

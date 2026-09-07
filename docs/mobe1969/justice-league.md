@@ -1,5 +1,7 @@
 # Justice League
 
+[Compare across authors](../../compare/?t=film-justice-league_141052)
+
 ## Atmos
 
 **2017 • PG-13 • 2h 0m • Action, Adventure, Science Fiction • mobe1969**

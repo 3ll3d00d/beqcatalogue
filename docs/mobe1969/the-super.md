@@ -1,5 +1,7 @@
 # The Super
 
+[Compare across authors](../../compare/?t=film-the-super_463022)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 30m • Thriller, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Tears of the Sun
 
+[Compare across authors](../../compare/?t=film-tears-of-the-sun_9567)
+
 ## DD+ 5.1
 
 **2003 • R • 2h 1m • War, Action, Drama • mobe1969**

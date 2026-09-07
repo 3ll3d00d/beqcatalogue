@@ -1,5 +1,7 @@
 # Layer Cake
 
+[Compare across authors](../../compare/?t=film-layer-cake_4836)
+
 ## LPCM 5.1, DD+ 5.1
 
 **2004 • R • 1h 45m • Drama, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Upgrade
 
+[Compare across authors](../../compare/?t=film-upgrade_500664)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 40m • Action, Thriller, Science Fiction • mobe1969**

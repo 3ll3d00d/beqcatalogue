@@ -1,5 +1,7 @@
 # Perfect Addiction
 
+[Compare across authors](../../compare/?t=film-perfect-addiction_845659)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 37m • Drama, Romance, Action • mobe1969**

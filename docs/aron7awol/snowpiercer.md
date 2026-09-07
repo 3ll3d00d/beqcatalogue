@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-snowpiercer_79680)
+
 ## Season 1
 
 * DD+ Atmos

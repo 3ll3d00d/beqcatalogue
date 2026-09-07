@@ -1,5 +1,7 @@
 # Bad Moms
 
+[Compare across authors](../../compare/?t=film-bad-moms_376659)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 40m • Comedy • mobe1969**

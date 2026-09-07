@@ -1,5 +1,7 @@
 # Terrifier
 
+[Compare across authors](../../compare/?t=film-terrifier_420634)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 24m • Horror, Thriller • mobe1969**

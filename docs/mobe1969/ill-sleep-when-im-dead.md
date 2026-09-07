@@ -1,5 +1,7 @@
 # I'll Sleep When I'm Dead
 
+[Compare across authors](../../compare/?t=film-ill-sleep-when-im-dead_3515)
+
 ## DTS-HD MA 5.1
 
 **2003 • NR • 1h 37m • Drama, Action, Thriller, Crime • mobe1969**

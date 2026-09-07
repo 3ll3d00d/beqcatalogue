@@ -1,5 +1,7 @@
 # Crown Vic
 
+[Compare across authors](../../compare/?t=film-crown-vic_524659)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 50m • Thriller, Action, Crime, Drama • mobe1969**

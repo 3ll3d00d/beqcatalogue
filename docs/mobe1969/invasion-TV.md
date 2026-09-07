@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-invasion_127235)
+
 ## Season 2
 
 * DD+ Atmos

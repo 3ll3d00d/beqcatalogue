@@ -1,5 +1,7 @@
 # Patriot Games
 
+[Compare across authors](../../compare/?t=film-patriot-games_9869)
+
 ## TrueHD 5.1
 
 **1992 • R • 1h 57m • Action, Crime, Thriller, Drama • mobe1969**

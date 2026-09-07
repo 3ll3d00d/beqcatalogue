@@ -1,5 +1,7 @@
 # Pearl
 
+[Compare across authors](../../compare/?t=film-pearl_949423)
+
 ## DTS-HD MA 5.1, DD+ Atmos
 
 **2022 • R • 1h 42m • Horror • mobe1969**

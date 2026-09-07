@@ -1,5 +1,7 @@
 # The Man with the Iron Fists 2
 
+[Compare across authors](../../compare/?t=film-the-man-with-the-iron-fists-2_321494)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

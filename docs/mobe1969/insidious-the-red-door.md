@@ -1,5 +1,7 @@
 # Insidious: The Red Door
 
+[Compare across authors](../../compare/?t=film-insidious-the-red-door_614479)
+
 ## DD+ Atmos
 
 **2023 • PG-13 • 1h 47m • Horror, Mystery, Thriller • mobe1969**

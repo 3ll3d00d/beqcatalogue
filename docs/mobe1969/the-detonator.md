@@ -1,5 +1,7 @@
 # The Detonator
 
+[Compare across authors](../../compare/?t=film-the-detonator_24624)
+
 ## DD+ 5.1
 
 **2006 • R • 1h 31m • Action, Thriller • mobe1969**

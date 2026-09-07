@@ -1,5 +1,7 @@
 # Delicatessen
 
+[Compare across authors](../../compare/?t=film-delicatessen_892)
+
 ## DTS-HD MA 2.0
 
 **1991 • R • 1h 39m • French • Comedy, Science Fiction, Fantasy • mobe1969**

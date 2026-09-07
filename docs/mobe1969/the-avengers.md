@@ -1,5 +1,7 @@
 # The Avengers
 
+[Compare across authors](../../compare/?t=film-the-avengers_24428)
+
 ## Atmos
 
 **2012 • PG-13 • 2h 23m • Science Fiction, Action, Adventure • mobe1969**

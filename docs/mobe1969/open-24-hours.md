@@ -1,5 +1,7 @@
 # Open 24 Hours
 
+[Compare across authors](../../compare/?t=film-open-24-hours_532638)
+
 ## DTS-HD MA 5.1
 
 **2018 • 18 • 1h 42m • Horror, Thriller • mobe1969**

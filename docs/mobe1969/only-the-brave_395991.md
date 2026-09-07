@@ -1,5 +1,7 @@
 # Only the Brave
 
+[Compare across authors](../../compare/?t=film-only-the-brave_395991)
+
 ## Atmos
 
 **2017 • PG-13 • 2h 13m • Drama, Action, History • mobe1969**

@@ -1,5 +1,7 @@
 # Glass Onion: A Knives Out Mystery
 
+[Compare across authors](../../compare/?t=film-glass-onion-a-knives-out-mystery_661374)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 2h 21m • Comedy, Crime, Mystery • mobe1969**

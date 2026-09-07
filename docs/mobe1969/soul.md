@@ -1,5 +1,7 @@
 # Soul
 
+[Compare across authors](../../compare/?t=film-soul_508442)
+
 ## Atmos
 
 **2020 • PG • 1h 41m • Animation, Family, Comedy, Fantasy, Drama • mobe1969**

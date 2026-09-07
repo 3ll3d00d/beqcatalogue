@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-paatal-lok_103051)
+
 ## Season 1
 
 * DD+ 5.1

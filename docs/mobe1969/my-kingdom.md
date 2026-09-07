@@ -1,5 +1,7 @@
 # My Kingdom
 
+[Compare across authors](../../compare/?t=film-my-kingdom_78022)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 39m • Mandarin • Drama, Action, Romance • mobe1969**

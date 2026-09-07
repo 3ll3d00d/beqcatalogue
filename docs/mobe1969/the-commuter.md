@@ -1,5 +1,7 @@
 # The Commuter
 
+[Compare across authors](../../compare/?t=film-the-commuter_399035)
+
 ## Atmos, DD+ 5.1
 
 **2018 • PG-13 • 1h 44m • Action, Thriller, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Dead Again in Tombstone
 
+[Compare across authors](../../compare/?t=film-dead-again-in-tombstone_473165)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 39m • Western • mobe1969**

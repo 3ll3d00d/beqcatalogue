@@ -1,5 +1,7 @@
 # Good Time
 
+[Compare across authors](../../compare/?t=film-good-time_429200)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 42m • Thriller, Drama, Crime • mobe1969**

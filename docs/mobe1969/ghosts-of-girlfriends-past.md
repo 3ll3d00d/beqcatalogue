@@ -1,5 +1,7 @@
 # Ghosts of Girlfriends Past
 
+[Compare across authors](../../compare/?t=film-ghosts-of-girlfriends-past_12556)
+
 ## TrueHD 5.1
 
 **2009 • PG-13 • 1h 55m • Fantasy, Comedy, Romance • mobe1969**

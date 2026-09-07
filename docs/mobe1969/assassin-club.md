@@ -1,5 +1,7 @@
 # Assassin Club
 
+[Compare across authors](../../compare/?t=film-assassin-club_876969)
+
 ## DTS-HD MA 5.1
 
 **2023 • R • 1h 53m • Action, Mystery, Thriller • mobe1969**

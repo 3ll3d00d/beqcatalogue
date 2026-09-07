@@ -1,5 +1,7 @@
 # Me Time
 
+[Compare across authors](../../compare/?t=film-me-time_862551)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 41m • Comedy • mobe1969**

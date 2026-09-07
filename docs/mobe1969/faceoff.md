@@ -1,5 +1,7 @@
 # Face/Off
 
+[Compare across authors](../../compare/?t=film-faceoff_754)
+
 ## DD 5.1
 
 **1997 • R • 2h 19m • Action, Science Fiction, Crime, Thriller • mobe1969**

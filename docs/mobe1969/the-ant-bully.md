@@ -1,5 +1,7 @@
 # The Ant Bully
 
+[Compare across authors](../../compare/?t=film-the-ant-bully_9906)
+
 ## DD+ 5.1
 
 **2006 • PG • 1h 28m • Fantasy, Adventure, Animation, Comedy, Family • mobe1969**

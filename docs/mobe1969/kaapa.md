@@ -1,5 +1,7 @@
 # Kaapa
 
+[Compare across authors](../../compare/?t=film-kaapa_862618)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 13m • Malayalam • Crime, Action, Drama • mobe1969**

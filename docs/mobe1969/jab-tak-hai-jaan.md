@@ -1,5 +1,7 @@
 # Jab Tak Hai Jaan
 
+[Compare across authors](../../compare/?t=film-jab-tak-hai-jaan_132316)
+
 ## DD+ 5.1
 
 **2012 • NR • 2h 56m • Hindi • Drama, Romance • mobe1969**

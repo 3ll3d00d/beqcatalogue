@@ -1,5 +1,7 @@
 # The Green Hornet
 
+[Compare across authors](../../compare/?t=film-the-green-hornet_40805)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 59m • Action, Crime, Comedy • mobe1969**

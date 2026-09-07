@@ -1,5 +1,7 @@
 # Arjun Patiala
 
+[Compare across authors](../../compare/?t=film-arjun-patiala_531601)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 47m • Hindi • Comedy, Romance • mobe1969**

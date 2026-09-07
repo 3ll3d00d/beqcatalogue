@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-stay-close_136308)
+
 ## Season 1
 
 * DD+ Atmos

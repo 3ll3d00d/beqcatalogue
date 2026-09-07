@@ -1,5 +1,7 @@
 # Pig
 
+[Compare across authors](../../compare/?t=film-pig_635731)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 31m • Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Cloud Atlas
 
+[Compare across authors](../../compare/?t=film-cloud-atlas_83542)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 2h 52m • Science Fiction, Drama • mobe1969**

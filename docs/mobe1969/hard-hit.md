@@ -1,5 +1,7 @@
 # Hard Hit
 
+[Compare across authors](../../compare/?t=film-hard-hit_654739)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 30m • Korean • Action, Drama • mobe1969**

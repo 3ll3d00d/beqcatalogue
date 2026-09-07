@@ -1,5 +1,7 @@
 # Max Cloud
 
+[Compare across authors](../../compare/?t=film-max-cloud_647781)
+
 ## DTS-HD MA 5.1
 
 **2020 • 12 • 1h 28m • Science Fiction, Action, Comedy • mobe1969**

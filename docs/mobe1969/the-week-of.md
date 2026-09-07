@@ -1,5 +1,7 @@
 # The Week Of
 
+[Compare across authors](../../compare/?t=film-the-week-of_465109)
+
 ## DD+ 5.1
 
 **2018 • PG-13 • 1h 56m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # The Lost World: Jurassic Park
 
+[Compare across authors](../../compare/?t=film-the-lost-world-jurassic-park_330)
+
 ## DD+ 5.1
 
 **1997 • PG-13 • 2h 9m • Adventure, Action, Science Fiction • mobe1969**

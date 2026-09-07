@@ -1,5 +1,7 @@
 # Poltergeist
 
+[Compare across authors](../../compare/?t=film-poltergeist_609)
+
 ## DTS-HD MA 5.1
 
 **1982 • PG • 1h 54m • Horror • mobe1969**

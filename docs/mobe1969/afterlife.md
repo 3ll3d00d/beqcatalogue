@@ -1,5 +1,7 @@
 # After.Life
 
+[Compare across authors](../../compare/?t=film-afterlife_36419)
+
 ## LPCM 5.1, DD+ 5.1
 
 **2009 • R • 1h 44m • Drama, Horror, Mystery, Thriller • mobe1969**

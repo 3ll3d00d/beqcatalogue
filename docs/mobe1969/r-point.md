@@ -1,5 +1,7 @@
 # R-Point
 
+[Compare across authors](../../compare/?t=film-r-point_16138)
+
 ## DTS-HD MA 5.1
 
 **2004 • NR • 1h 47m • Korean • Action, History, Horror • mobe1969**

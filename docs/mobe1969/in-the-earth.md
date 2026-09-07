@@ -1,5 +1,7 @@
 # In the Earth
 
+[Compare across authors](../../compare/?t=film-in-the-earth_748853)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 47m • Horror, Science Fiction, Thriller • mobe1969**

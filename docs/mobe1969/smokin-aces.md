@@ -1,5 +1,7 @@
 # Smokin' Aces
 
+[Compare across authors](../../compare/?t=film-smokin-aces_7516)
+
 ## DTS-HD MA 5.1
 
 **2006 • R • 1h 49m • Thriller, Mystery, Comedy, Action, Crime • mobe1969**

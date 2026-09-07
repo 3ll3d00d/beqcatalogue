@@ -1,5 +1,7 @@
 # Lost Time
 
+[Compare across authors](../../compare/?t=film-lost-time_291347)
+
 ## DD 5.1
 
 **2014 • NR • 1h 33m • Thriller, Horror, Science Fiction • mobe1969**

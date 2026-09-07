@@ -1,5 +1,7 @@
 # Ocean Heaven
 
+[Compare across authors](../../compare/?t=film-ocean-heaven_54328)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 36m • Mandarin • Drama • mobe1969**

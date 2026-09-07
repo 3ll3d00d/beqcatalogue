@@ -1,5 +1,7 @@
 # Nerve
 
+[Compare across authors](../../compare/?t=film-nerve_328387)
+
 ## DD+ 5.1
 
 **2016 • PG-13 • 1h 36m • Mystery, Adventure, Crime • mobe1969**

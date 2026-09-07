@@ -1,5 +1,7 @@
 # The Equalizer 2
 
+[Compare across authors](../../compare/?t=film-the-equalizer-2_345887)
+
 ## Atmos
 
 **2018 • R • 2h 1m • Action, Thriller, Crime • mobe1969**

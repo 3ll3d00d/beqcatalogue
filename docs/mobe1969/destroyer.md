@@ -1,5 +1,7 @@
 # Destroyer
 
+[Compare across authors](../../compare/?t=film-destroyer_471507)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 2h 1m • Drama, Crime, Thriller, Action • mobe1969**

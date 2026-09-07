@@ -1,5 +1,7 @@
 # Shin Godzilla
 
+[Compare across authors](../../compare/?t=film-shin-godzilla_315011)
+
 ## DTS-HD MA 3.1
 
 **2016 • M • 2h 0m • Japanese • Action, Science Fiction, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # GodFather
 
+[Compare across authors](../../compare/?t=film-godfather_863931)
+
 ## DD+ 5.1
 
 **2022 • R • 2h 37m • Telugu • Action, Drama • mobe1969**

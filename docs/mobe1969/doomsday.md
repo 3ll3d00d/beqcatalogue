@@ -1,5 +1,7 @@
 # Doomsday
 
+[Compare across authors](../../compare/?t=film-doomsday_13460)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 48m • Thriller, Action, Science Fiction • mobe1969**

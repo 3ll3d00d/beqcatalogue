@@ -1,5 +1,7 @@
 # Offering to the Storm
 
+[Compare across authors](../../compare/?t=film-offering-to-the-storm_673174)
+
 ## DD+ 5.1
 
 **2020 • R • 2h 19m • Spanish • Crime, Thriller • mobe1969**

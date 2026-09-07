@@ -1,5 +1,7 @@
 # Set Up
 
+[Compare across authors](../../compare/?t=film-set-up_70586)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 25m • Crime, Thriller, Action, Drama • mobe1969**

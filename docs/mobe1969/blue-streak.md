@@ -1,5 +1,7 @@
 # Blue Streak
 
+[Compare across authors](../../compare/?t=film-blue-streak_11001)
+
 ## TrueHD 5.1
 
 **1999 • PG-13 • 1h 33m • Action, Crime, Comedy • mobe1969**

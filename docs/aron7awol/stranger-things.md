@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-stranger-things_66732)
+
 ## Season 1
 
 * DD+

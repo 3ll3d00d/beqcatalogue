@@ -1,5 +1,7 @@
 # Ugram
 
+[Compare across authors](../../compare/?t=film-ugram_1069937)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 28m • Telugu • Action, Thriller • mobe1969**

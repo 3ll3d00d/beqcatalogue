@@ -1,5 +1,7 @@
 # Khatta Meetha
 
+[Compare across authors](../../compare/?t=film-khatta-meetha_44565)
+
 ## DD 5.1
 
 **2010 • PG • 2h 35m • Hindi • Comedy, Drama • mobe1969**

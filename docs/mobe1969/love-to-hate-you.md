@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-love-to-hate-you_137094)
+
 ## Season 1
 
 * DD+ Atmos

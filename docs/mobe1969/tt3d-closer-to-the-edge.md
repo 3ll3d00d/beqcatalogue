@@ -1,5 +1,7 @@
 # TT3D: Closer to the Edge
 
+[Compare across authors](../../compare/?t=film-tt3d-closer-to-the-edge_79628)
+
 ## DTS-HD MA 5.1
 
 **2011 • 15 • 1h 44m • Documentary • mobe1969**

@@ -1,5 +1,7 @@
 # Universal Soldier: Day of Reckoning
 
+[Compare across authors](../../compare/?t=film-universal-soldier-day-of-reckoning_122857)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 54m • Action, Science Fiction, Thriller • mobe1969**

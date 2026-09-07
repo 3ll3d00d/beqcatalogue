@@ -1,5 +1,7 @@
 # Sher Shivraj
 
+[Compare across authors](../../compare/?t=film-sher-shivraj_959834)
+
 ## DD+ 5.1
 
 **2022 • NR • 0h 0m • Marathi • Drama, Action, History • mobe1969**

@@ -1,5 +1,7 @@
 # Homefront
 
+[Compare across authors](../../compare/?t=film-homefront_204082)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2013 • R • 1h 40m • Action, Thriller • mobe1969**

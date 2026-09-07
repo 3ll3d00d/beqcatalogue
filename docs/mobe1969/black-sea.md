@@ -1,5 +1,7 @@
 # Black Sea
 
+[Compare across authors](../../compare/?t=film-black-sea_246080)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 55m • Drama, Adventure, Thriller • mobe1969**

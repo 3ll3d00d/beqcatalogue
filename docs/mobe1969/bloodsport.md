@@ -1,5 +1,7 @@
 # Bloodsport
 
+[Compare across authors](../../compare/?t=film-bloodsport_11690)
+
 ## Atmos
 
 **1988 • R • 1h 32m • Action, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Eight Legged Freaks
 
+[Compare across authors](../../compare/?t=film-eight-legged-freaks_8869)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG-13 • 1h 39m • Action, Comedy, Horror, Thriller • mobe1969**

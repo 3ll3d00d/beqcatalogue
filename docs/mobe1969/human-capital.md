@@ -1,5 +1,7 @@
 # Human Capital
 
+[Compare across authors](../../compare/?t=film-human-capital_569711)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 35m • Crime, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Dinosaurs: Giants of Patagonia
 
+[Compare across authors](../../compare/?t=film-dinosaurs-giants-of-patagonia_53264)
+
 ## DTS-HD MA 5.1
 
 **2007 • G • 0h 39m • Documentary • mobe1969**

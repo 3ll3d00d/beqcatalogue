@@ -1,5 +1,7 @@
 # Snow White: A Tale of Terror
 
+[Compare across authors](../../compare/?t=film-snow-white-a-tale-of-terror_9092)
+
 ## TrueHD 5.1
 
 **1997 • R • 1h 40m • Fantasy, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Shrek the Halls
 
+[Compare across authors](../../compare/?t=film-shrek-the-halls_13394)
+
 ## DD+ 5.1
 
 **2007 • PG • 0h 28m • Adventure, Animation, Comedy, Fantasy, Family • mobe1969**

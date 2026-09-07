@@ -1,5 +1,7 @@
 # Breaking News In Yuba County
 
+[Compare across authors](../../compare/?t=film-breaking-news-in-yuba-county_556867)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 36m • Comedy, Drama, Crime, Thriller • mobe1969**

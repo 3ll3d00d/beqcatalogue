@@ -1,5 +1,7 @@
 # The Count of Monte Cristo
 
+[Compare across authors](../../compare/?t=film-the-count-of-monte-cristo_11362)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG-13 • 2h 11m • Adventure, Drama, History • mobe1969**

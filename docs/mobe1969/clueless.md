@@ -1,5 +1,7 @@
 # Clueless
 
+[Compare across authors](../../compare/?t=film-clueless_9603)
+
 ## DD+ 5.1
 
 **1995 • PG-13 • 1h 37m • Comedy, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Message from the King
 
+[Compare across authors](../../compare/?t=film-message-from-the-king_301355)
+
 ## DD+ 5.1
 
 **2016 • 15 • 1h 42m • Thriller • mobe1969**

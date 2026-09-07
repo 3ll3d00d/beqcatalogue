@@ -1,5 +1,7 @@
 # Captain Phillips
 
+[Compare across authors](../../compare/?t=film-captain-phillips_109424)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 2h 14m • Action, Drama, Thriller • mobe1969**

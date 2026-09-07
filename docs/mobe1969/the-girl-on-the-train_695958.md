@@ -1,5 +1,7 @@
 # The Girl on the Train
 
+[Compare across authors](../../compare/?t=film-the-girl-on-the-train_695958)
+
 ## DD+ Atmos
 
 **2021 • NR • 2h 8m • Hindi • Thriller, Mystery, Drama • mobe1969**

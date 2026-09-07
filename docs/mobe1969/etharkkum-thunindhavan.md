@@ -1,5 +1,7 @@
 # Etharkkum Thunindhavan
 
+[Compare across authors](../../compare/?t=film-etharkkum-thunindhavan_855397)
+
 ## DD+ Atmos
 
 **2022 • NR • 2h 31m • Hindi • Action, Drama, Thriller • mobe1969**

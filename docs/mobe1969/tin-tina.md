@@ -1,5 +1,7 @@
 # Tin & Tina
 
+[Compare across authors](../../compare/?t=film-tin-tina_943930)
+
 ## DD+ Atmos
 
 **2023 • NR • 1h 59m • Spanish • Horror, Thriller, Mystery • mobe1969**

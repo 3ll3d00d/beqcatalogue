@@ -1,5 +1,7 @@
 # Patlabor: The Movie
 
+[Compare across authors](../../compare/?t=film-patlabor-the-movie_14571)
+
 ## TrueHD 5.1
 
 **1989 • PG • 1h 40m • Japanese • Science Fiction, Action, Animation • mobe1969**

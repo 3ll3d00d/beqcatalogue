@@ -1,5 +1,7 @@
 # Code Name: Tiranga
 
+[Compare across authors](../../compare/?t=film-code-name-tiranga_1021166)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 17m • Hindi • Action, Thriller • mobe1969**

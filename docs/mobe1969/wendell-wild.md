@@ -1,5 +1,7 @@
 # Wendell & Wild
 
+[Compare across authors](../../compare/?t=film-wendell-wild_511817)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 1h 47m • Animation, Comedy, Fantasy, Horror, Adventure • mobe1969**

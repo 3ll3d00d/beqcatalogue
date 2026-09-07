@@ -1,5 +1,7 @@
 # Animal Crackers
 
+[Compare across authors](../../compare/?t=film-animal-crackers_315064)
+
 ## DD+ 5.1
 
 **2020 • PG • 1h 45m • Comedy, Animation, Adventure • mobe1969**

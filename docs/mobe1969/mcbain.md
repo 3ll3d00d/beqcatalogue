@@ -1,5 +1,7 @@
 # McBain
 
+[Compare across authors](../../compare/?t=film-mcbain_27350)
+
 ## DD+ 2.0
 
 **1991 • NR • 1h 47m • Action, War, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Crank
 
+[Compare across authors](../../compare/?t=film-crank_1948)
+
 ## Atmos
 
 **2006 • R • 1h 28m • Action, Thriller, Crime • mobe1969**

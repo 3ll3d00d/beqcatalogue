@@ -1,5 +1,7 @@
 # The Girl on the Mountain
 
+[Compare across authors](../../compare/?t=film-the-girl-on-the-mountain_754342)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 34m • Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Hardcore Henry
 
+[Compare across authors](../../compare/?t=film-hardcore-henry_325348)
+
 ## Atmos
 
 **2015 • R • 1h 36m • Action, Adventure, Science Fiction • mobe1969**

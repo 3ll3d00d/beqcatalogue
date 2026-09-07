@@ -1,5 +1,7 @@
 # Bingo Hell
 
+[Compare across authors](../../compare/?t=film-bingo-hell_802226)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 25m • Thriller • mobe1969**

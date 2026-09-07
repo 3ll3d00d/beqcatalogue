@@ -1,5 +1,7 @@
 # Patlabor 2: The Movie
 
+[Compare across authors](../../compare/?t=film-patlabor-2-the-movie_14572)
+
 ## TrueHD 5.1
 
 **1993 • PG • 1h 47m • Japanese • Animation, Science Fiction, Action, Thriller • mobe1969**

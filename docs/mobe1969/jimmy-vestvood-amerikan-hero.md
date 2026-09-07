@@ -1,5 +1,7 @@
 # Jimmy Vestvood: Amerikan Hero
 
+[Compare across authors](../../compare/?t=film-jimmy-vestvood-amerikan-hero_299641)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 24m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Doghouse
 
+[Compare across authors](../../compare/?t=film-doghouse_20606)
+
 ## DD 5.1
 
 **2009 • 15 • 1h 29m • Comedy, Horror • mobe1969**

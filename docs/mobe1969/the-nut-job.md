@@ -1,5 +1,7 @@
 # The Nut Job
 
+[Compare across authors](../../compare/?t=film-the-nut-job_227783)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG • 1h 25m • Animation, Comedy, Family, Adventure • mobe1969**

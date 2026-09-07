@@ -1,5 +1,7 @@
 # Escape From L.A.
 
+[Compare across authors](../../compare/?t=film-escape-from-la_10061)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 1h 37m • Action, Adventure, Science Fiction, Thriller • mobe1969**

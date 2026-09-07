@@ -1,5 +1,7 @@
 # The Outback
 
+[Compare across authors](../../compare/?t=film-the-outback_136405)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG • 1h 25m • Animation, Adventure, Family • mobe1969**

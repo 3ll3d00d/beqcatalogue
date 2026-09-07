@@ -1,5 +1,7 @@
 # Diablo
 
+[Compare across authors](../../compare/?t=film-diablo_362703)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 23m • Western, Thriller, Adventure, Action • mobe1969**

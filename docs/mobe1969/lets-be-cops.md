@@ -1,5 +1,7 @@
 # Let's Be Cops
 
+[Compare across authors](../../compare/?t=film-lets-be-cops_193893)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 44m • Comedy • mobe1969**

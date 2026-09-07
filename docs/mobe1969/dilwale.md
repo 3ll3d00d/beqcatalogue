@@ -1,5 +1,7 @@
 # Dilwale
 
+[Compare across authors](../../compare/?t=film-dilwale_370665)
+
 ## DD+ 5.1
 
 **2015 • NR • 2h 38m • Hindi • Crime, Action, Comedy • mobe1969**

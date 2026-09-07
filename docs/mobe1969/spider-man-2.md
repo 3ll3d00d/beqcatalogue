@@ -1,5 +1,7 @@
 # Spider-Man 2
 
+[Compare across authors](../../compare/?t=film-spider-man-2_558)
+
 ## Atmos
 
 Theatrical Cut

@@ -1,5 +1,7 @@
 # The Captain
 
+[Compare across authors](../../compare/?t=film-the-captain_589712)
+
 ## TrueHD 5.1
 
 **2019 • NR • 1h 51m • Mandarin • Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Babylon
 
+[Compare across authors](../../compare/?t=film-babylon_615777)
+
 ## Atmos
 
 **2023 • R • 3h 9m • Drama, Comedy • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-obi-wan-kenobi_92830)
+
 ## Season 1
 
 * DD+ Atmos

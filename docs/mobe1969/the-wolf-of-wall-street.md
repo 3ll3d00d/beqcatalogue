@@ -1,5 +1,7 @@
 # The Wolf of Wall Street
 
+[Compare across authors](../../compare/?t=film-the-wolf-of-wall-street_106646)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 3h 0m • Crime, Drama, Comedy • mobe1969**

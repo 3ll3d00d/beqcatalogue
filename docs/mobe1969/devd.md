@@ -1,5 +1,7 @@
 # Dev.D
 
+[Compare across authors](../../compare/?t=film-devd_15977)
+
 ## DD+ 5.1
 
 **2009 • NR • 2h 24m • Hindi • Comedy, Drama, Romance • mobe1969**

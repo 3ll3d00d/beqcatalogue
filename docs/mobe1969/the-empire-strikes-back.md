@@ -1,5 +1,7 @@
 # The Empire Strikes Back
 
+[Compare across authors](../../compare/?t=film-the-empire-strikes-back_1891)
+
 ## Atmos
 
 **1980 • PG • 2h 4m • Adventure, Action, Science Fiction • mobe1969**

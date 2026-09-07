@@ -1,5 +1,7 @@
 # Battle of the Bulge Wunderland
 
+[Compare across authors](../../compare/?t=film-battle-of-the-bulge-wunderland_480465)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 25m • Action, War, Drama, Thriller • mobe1969**

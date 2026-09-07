@@ -1,5 +1,7 @@
 # Underworld: Awakening
 
+[Compare across authors](../../compare/?t=film-underworld-awakening_52520)
+
 ## Atmos
 
 **2012 • R • 1h 28m • Fantasy, Action, Horror • mobe1969**

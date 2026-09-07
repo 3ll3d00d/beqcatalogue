@@ -1,5 +1,7 @@
 # No Mercy
 
+[Compare across authors](../../compare/?t=film-no-mercy_569016)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 34m • Korean • Action • mobe1969**

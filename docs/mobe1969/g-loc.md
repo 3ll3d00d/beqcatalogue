@@ -1,5 +1,7 @@
 # G-Loc
 
+[Compare across authors](../../compare/?t=film-g-loc_720124)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 32m • Science Fiction • mobe1969**

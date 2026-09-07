@@ -1,5 +1,7 @@
 # The Kingdom
 
+[Compare across authors](../../compare/?t=film-the-kingdom_4349)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 50m • Thriller, Action, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Wild Wild West
 
+[Compare across authors](../../compare/?t=film-wild-wild-west_8487)
+
 ## DD+ 5.1
 
 **1999 • PG-13 • 1h 46m • Action, Adventure, Comedy, Science Fiction, Western • mobe1969**

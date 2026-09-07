@@ -1,5 +1,7 @@
 # Ambulance
 
+[Compare across authors](../../compare/?t=film-ambulance_763285)
+
 ## Atmos
 
 **2022 • R • 2h 16m • Action, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # The Lost City
 
+[Compare across authors](../../compare/?t=film-the-lost-city_752623)
+
 ## Atmos
 
 **2022 • PG-13 • 1h 52m • Action, Adventure, Comedy • mobe1969**

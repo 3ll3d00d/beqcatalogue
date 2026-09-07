@@ -1,5 +1,7 @@
 # Crater
 
+[Compare across authors](../../compare/?t=film-crater_620705)
+
 ## DD+ Atmos
 
 **2023 • PG • 1h 44m • Science Fiction, Action, Adventure, Family • mobe1969**

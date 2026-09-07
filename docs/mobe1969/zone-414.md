@@ -1,5 +1,7 @@
 # Zone 414
 
+[Compare across authors](../../compare/?t=film-zone-414_675319)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 38m • Science Fiction, Thriller, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Darkness
 
+[Compare across authors](../../compare/?t=film-darkness_11056)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG-13 • 1h 42m • Horror • mobe1969**

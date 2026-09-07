@@ -1,5 +1,7 @@
 # Planet Terror
 
+[Compare across authors](../../compare/?t=film-planet-terror_1992)
+
 ## TrueHD 5.1
 
 **2007 • R • 1h 45m • Thriller, Horror, Action • mobe1969**

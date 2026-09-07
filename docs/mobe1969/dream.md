@@ -1,5 +1,7 @@
 # Dream
 
+[Compare across authors](../../compare/?t=film-dream_636173)
+
 ## DD+ 5.1
 
 **2023 • 12 • 2h 5m • Korean • Comedy, Drama • mobe1969**

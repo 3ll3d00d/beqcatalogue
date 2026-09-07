@@ -1,5 +1,7 @@
 # Animal World
 
+[Compare across authors](../../compare/?t=film-animal-world_518764)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 5m • Mandarin • Drama, Action, Adventure, Thriller, Mystery, Fantasy • mobe1969**

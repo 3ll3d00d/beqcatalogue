@@ -1,5 +1,7 @@
 # Set It Off
 
+[Compare across authors](../../compare/?t=film-set-it-off_9400)
+
 ## DD+ 5.1
 
 **1996 • R • 2h 3m • Crime, Drama, Thriller • mobe1969**

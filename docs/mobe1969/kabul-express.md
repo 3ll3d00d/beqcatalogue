@@ -1,5 +1,7 @@
 # Kabul Express
 
+[Compare across authors](../../compare/?t=film-kabul-express_30244)
+
 ## DD+ 5.1
 
 **2006 • NR • 1h 44m • Hindi • Action, Comedy, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Passenger
 
+[Compare across authors](../../compare/?t=film-the-passenger_957314)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 34m • Thriller, Drama • mobe1969**

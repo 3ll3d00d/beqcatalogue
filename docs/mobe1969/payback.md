@@ -1,5 +1,7 @@
 # Payback
 
+[Compare across authors](../../compare/?t=film-payback_2112)
+
 ## TrueHD 5.1
 
 **1999 • R • 1h 40m • Action, Crime, Drama • mobe1969**

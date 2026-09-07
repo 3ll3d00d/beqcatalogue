@@ -1,5 +1,7 @@
 # Ludo
 
+[Compare across authors](../../compare/?t=film-ludo_658412)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 2h 30m • Hindi • Crime, Comedy • mobe1969**

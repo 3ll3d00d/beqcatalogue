@@ -1,5 +1,7 @@
 # House of Wax
 
+[Compare across authors](../../compare/?t=film-house-of-wax_10066)
+
 ## DD 5.1
 
 **2005 • R • 1h 53m • Drama, Horror • mobe1969**

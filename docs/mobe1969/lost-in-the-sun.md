@@ -1,5 +1,7 @@
 # Lost in the Sun
 
+[Compare across authors](../../compare/?t=film-lost-in-the-sun_360203)
+
 ## DTS-HD MA 5.1
 
 **2016 • M • 1h 35m • Action, Crime, Drama, Thriller • mobe1969**

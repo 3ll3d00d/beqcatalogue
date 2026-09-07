@@ -1,5 +1,7 @@
 # The Superdeep
 
+[Compare across authors](../../compare/?t=film-the-superdeep_579828)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 53m • Horror, Science Fiction, Thriller • mobe1969**

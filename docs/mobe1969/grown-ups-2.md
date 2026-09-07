@@ -1,5 +1,7 @@
 # Grown Ups 2
 
+[Compare across authors](../../compare/?t=film-grown-ups-2_109418)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 41m • Comedy • mobe1969**

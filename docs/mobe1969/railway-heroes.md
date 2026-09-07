@@ -1,5 +1,7 @@
 # Railway Heroes
 
+[Compare across authors](../../compare/?t=film-railway-heroes_889227)
+
 ## AAC 5.1
 
 **2021 • NR • 2h 4m • Mandarin • War, Drama • mobe1969**

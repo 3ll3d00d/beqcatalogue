@@ -1,5 +1,7 @@
 # Escape Plan
 
+[Compare across authors](../../compare/?t=film-escape-plan_107846)
+
 ## Atmos
 
 **2013 • R • 1h 55m • Action, Thriller • mobe1969**

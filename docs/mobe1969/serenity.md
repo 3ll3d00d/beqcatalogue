@@ -1,5 +1,7 @@
 # Serenity
 
+[Compare across authors](../../compare/?t=film-serenity_16320)
+
 ## DTS-X
 
 **2005 • PG-13 • 1h 59m • Science Fiction, Action, Adventure, Thriller • mobe1969**

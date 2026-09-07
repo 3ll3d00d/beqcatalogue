@@ -1,5 +1,7 @@
 # The Craft: Legacy
 
+[Compare across authors](../../compare/?t=film-the-craft-legacy_590995)
+
 ## DTS-HD MA 5.1
 
 **2020 • PG-13 • 1h 34m • Horror, Drama, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Mystery Men
 
+[Compare across authors](../../compare/?t=film-mystery-men_9824)
+
 ## DTS-HD MA 5.1
 
 **1999 • PG-13 • 2h 1m • Science Fiction, Comedy, Adventure, Action, Fantasy • mobe1969**

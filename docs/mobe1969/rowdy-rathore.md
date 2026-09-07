@@ -1,5 +1,7 @@
 # Rowdy Rathore
 
+[Compare across authors](../../compare/?t=film-rowdy-rathore_102632)
+
 ## DD+ 5.1
 
 **2012 • PG-13 • 2h 23m • Hindi • Action, Comedy, Crime • mobe1969**

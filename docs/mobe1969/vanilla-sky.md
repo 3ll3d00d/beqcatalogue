@@ -1,5 +1,7 @@
 # Vanilla Sky
 
+[Compare across authors](../../compare/?t=film-vanilla-sky_1903)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 2h 16m • Romance, Science Fiction, Fantasy, Thriller • mobe1969**

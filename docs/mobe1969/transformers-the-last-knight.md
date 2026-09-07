@@ -1,5 +1,7 @@
 # Transformers: The Last Knight
 
+[Compare across authors](../../compare/?t=film-transformers-the-last-knight_335988)
+
 ## Atmos, DD+ 5.1
 
 **2017 • PG-13 • 2h 34m • Action, Adventure, Science Fiction • mobe1969**

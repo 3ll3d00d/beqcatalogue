@@ -1,5 +1,7 @@
 # Meow
 
+[Compare across authors](../../compare/?t=film-meow_466924)
+
 ## DTS-HD MA 7.1
 
 **2017 • NR • 1h 40m • Cantonese • Science Fiction, Comedy, Drama, Family, Fantasy • mobe1969**

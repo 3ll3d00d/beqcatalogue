@@ -1,5 +1,7 @@
 # [REC]³ Genesis
 
+[Compare across authors](../../compare/?t=film-rec3-genesis_80280)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 20m • Spanish • Horror • mobe1969**

@@ -1,5 +1,7 @@
 # The Slammin' Salmon
 
+[Compare across authors](../../compare/?t=film-the-slammin-salmon_34423)
+
 ## LPCM 5.1
 
 **2009 • R • 1h 38m • Comedy • mobe1969**

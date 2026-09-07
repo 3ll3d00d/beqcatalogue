@@ -1,5 +1,7 @@
 # 14 Blades
 
+[Compare across authors](../../compare/?t=film-14-blades_34179)
+
 ## DTS-HD MA 7.1
 
 **2010 • R • 1h 54m • Mandarin • Drama, Action, Thriller • mobe1969**

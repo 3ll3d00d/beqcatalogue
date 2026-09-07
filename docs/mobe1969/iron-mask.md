@@ -1,5 +1,7 @@
 # Iron Mask
 
+[Compare across authors](../../compare/?t=film-iron-mask_428045)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG-13 • 2h 1m • Action, Adventure, Family, Fantasy • mobe1969**

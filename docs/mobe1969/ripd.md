@@ -1,5 +1,7 @@
 # R.I.P.D.
 
+[Compare across authors](../../compare/?t=film-ripd_49524)
+
 ## DD+ 5.1
 
 **2013 • PG-13 • 1h 36m • Fantasy, Action, Comedy, Crime • mobe1969**

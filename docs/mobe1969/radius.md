@@ -1,5 +1,7 @@
 # Radius
 
+[Compare across authors](../../compare/?t=film-radius_436274)
+
 ## DTS-HD MA 5.1
 
 **2017 • M • 1h 33m • Fantasy, Science Fiction, Thriller • mobe1969**

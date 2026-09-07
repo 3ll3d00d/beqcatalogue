@@ -1,5 +1,7 @@
 # True History of the Kelly Gang
 
+[Compare across authors](../../compare/?t=film-true-history-of-the-kelly-gang_501395)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 2h 4m • Drama, Crime • mobe1969**

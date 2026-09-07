@@ -1,5 +1,7 @@
 # Dirty Grandpa
 
+[Compare across authors](../../compare/?t=film-dirty-grandpa_291870)
+
 ## Atmos
 
 **2016 • R • 1h 42m • Comedy • mobe1969**

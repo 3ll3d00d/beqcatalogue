@@ -1,5 +1,7 @@
 # Smokey and the Bandit
 
+[Compare across authors](../../compare/?t=film-smokey-and-the-bandit_11006)
+
 ## DTS-HD MA 5.1
 
 **1977 • PG • 1h 36m • Action, Adventure, Comedy • mobe1969**

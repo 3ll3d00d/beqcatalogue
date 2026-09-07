@@ -1,5 +1,7 @@
 # Japan Sinks
 
+[Compare across authors](../../compare/?t=film-japan-sinks_16766)
+
 ## DTS-ES 6.1, DD-EX 6.1
 
 **2006 • NR • 2h 15m • Japanese • Drama, Thriller, Adventure, Science Fiction • mobe1969**

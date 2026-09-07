@@ -1,5 +1,7 @@
 # Looking for Teddy
 
+[Compare across authors](../../compare/?t=film-looking-for-teddy_486520)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 22m • French • Comedy • mobe1969**

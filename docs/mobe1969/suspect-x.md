@@ -1,5 +1,7 @@
 # Suspect X
 
+[Compare across authors](../../compare/?t=film-suspect-x_42341)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 2h 8m • Japanese • Crime, Drama, Mystery, Thriller • mobe1969**

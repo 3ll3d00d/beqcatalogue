@@ -1,5 +1,7 @@
 # Zoolander
 
+[Compare across authors](../../compare/?t=film-zoolander_9398)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG-13 • 1h 29m • Comedy • mobe1969**

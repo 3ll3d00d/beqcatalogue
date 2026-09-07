@@ -1,5 +1,7 @@
 # Eliminators
 
+[Compare across authors](../../compare/?t=film-eliminators_421313)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 35m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Secrets in the Hot Spring
 
+[Compare across authors](../../compare/?t=film-secrets-in-the-hot-spring_535849)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 49m • Mandarin • Comedy, Horror • mobe1969**

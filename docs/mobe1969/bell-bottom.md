@@ -1,5 +1,7 @@
 # Bell Bottom
 
+[Compare across authors](../../compare/?t=film-bell-bottom_721048)
+
 ## DD+ 5.1
 
 **2021 • 12A • 2h 3m • Hindi • Thriller, Action • mobe1969**

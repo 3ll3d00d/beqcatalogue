@@ -1,5 +1,7 @@
 # The Take
 
+[Compare across authors](../../compare/?t=film-the-take_18056)
+
 ## DD 5.1
 
 **2007 • 15 • 1h 36m • Action, Thriller, Drama, Mystery • mobe1969**

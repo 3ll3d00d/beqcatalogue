@@ -1,5 +1,7 @@
 # The Clovehitch Killer
 
+[Compare across authors](../../compare/?t=film-the-clovehitch-killer_544431)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 49m • Drama, Mystery, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Balkan Line
 
+[Compare across authors](../../compare/?t=film-balkan-line_517093)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 2h 10m • Russian • Drama, Action, War • mobe1969**

@@ -1,5 +1,7 @@
 # Nairobi Half Life
 
+[Compare across authors](../../compare/?t=film-nairobi-half-life_130737)
+
 ## DD+ 5.1
 
 **2012 • NR • 1h 36m • Drama • mobe1969**

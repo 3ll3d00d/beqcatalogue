@@ -1,5 +1,7 @@
 # Angel Has Fallen
 
+[Compare across authors](../../compare/?t=film-angel-has-fallen_423204)
+
 ## Atmos, DD+ 5.1
 
 **2019 • R • 2h 2m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The 6th Day
 
+[Compare across authors](../../compare/?t=film-the-6th-day_8452)
+
 ## TrueHD 5.1
 
 **2000 • PG-13 • 2h 3m • Science Fiction, Mystery, Action • mobe1969**

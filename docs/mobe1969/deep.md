@@ -1,5 +1,7 @@
 # Deep
 
+[Compare across authors](../../compare/?t=film-deep_430474)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG • 1h 32m • Animation, Family, Adventure • mobe1969**

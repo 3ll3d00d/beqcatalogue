@@ -1,5 +1,7 @@
 # Lost in Space
 
+[Compare across authors](../../compare/?t=film-lost-in-space_2157)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1998 • PG-13 • 2h 10m • Science Fiction, Adventure • mobe1969**

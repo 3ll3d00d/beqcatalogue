@@ -1,5 +1,7 @@
 # Universal Soldier: Regeneration
 
+[Compare across authors](../../compare/?t=film-universal-soldier-regeneration_28510)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 37m • Thriller, Science Fiction, Adventure, Action • mobe1969**

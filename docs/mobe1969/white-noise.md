@@ -1,5 +1,7 @@
 # White Noise
 
+[Compare across authors](../../compare/?t=film-white-noise_11804)
+
 ## DTS-HD MA 5.1
 
 **2005 • PG-13 • 1h 41m • Drama, Horror, Thriller • mobe1969**

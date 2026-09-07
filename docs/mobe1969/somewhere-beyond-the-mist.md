@@ -1,5 +1,7 @@
 # Somewhere Beyond the Mist
 
+[Compare across authors](../../compare/?t=film-somewhere-beyond-the-mist_484365)
+
 ## TrueHD 5.1
 
 **2017 • NR • 1h 26m • Cantonese • Drama, Thriller • mobe1969**

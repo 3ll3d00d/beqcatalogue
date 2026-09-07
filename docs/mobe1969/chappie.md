@@ -1,5 +1,7 @@
 # Chappie
 
+[Compare across authors](../../compare/?t=film-chappie_198184)
+
 ## Atmos
 
 **2015 • R • 2h 0m • Crime, Action, Science Fiction • mobe1969**

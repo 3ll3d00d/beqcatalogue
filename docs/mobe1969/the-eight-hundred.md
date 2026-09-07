@@ -1,5 +1,7 @@
 # The Eight Hundred
 
+[Compare across authors](../../compare/?t=film-the-eight-hundred_508935)
+
 ## DTS-HD MA 5.1
 
 **2020 • 15 • 2h 28m • Mandarin • War, History, Drama, Action • mobe1969**

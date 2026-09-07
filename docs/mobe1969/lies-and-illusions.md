@@ -1,5 +1,7 @@
 # Lies and Illusions
 
+[Compare across authors](../../compare/?t=film-lies-and-illusions_23736)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 32m • Action, Comedy, Thriller • mobe1969**

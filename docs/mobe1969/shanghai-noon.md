@@ -1,5 +1,7 @@
 # Shanghai Noon
 
+[Compare across authors](../../compare/?t=film-shanghai-noon_8584)
+
 ## DD 5.1
 
 **2000 • PG-13 • 1h 50m • Adventure, Action, Comedy, Western • mobe1969**

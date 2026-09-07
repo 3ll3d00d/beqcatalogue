@@ -1,5 +1,7 @@
 # Drone
 
+[Compare across authors](../../compare/?t=film-drone_452068)
+
 ## DTS-HD MA 5.1
 
 **2017 • 15 • 1h 31m • Thriller • mobe1969**

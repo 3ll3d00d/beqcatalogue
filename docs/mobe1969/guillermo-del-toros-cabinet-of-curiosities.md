@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-guillermo-del-toros-cabinet-of-curiosities_83659)
+
 ## Season 1
 
 * DD+ Atmos

@@ -1,5 +1,7 @@
 # Amphibious 3D
 
+[Compare across authors](../../compare/?t=film-amphibious-3d_83877)
+
 ## DD 5.1
 
 **2010 • 15 • 1h 23m • Horror • mobe1969**

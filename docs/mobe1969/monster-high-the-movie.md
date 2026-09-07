@@ -1,5 +1,7 @@
 # Monster High: The Movie
 
+[Compare across authors](../../compare/?t=film-monster-high-the-movie_335795)
+
 ## DD+ 5.1
 
 **2022 • G • 1h 29m • Family, Fantasy, Comedy, Adventure • mobe1969**

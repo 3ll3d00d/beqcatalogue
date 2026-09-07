@@ -1,5 +1,7 @@
 # Paradise Hills
 
+[Compare across authors](../../compare/?t=film-paradise-hills_487083)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 35m • Fantasy, Science Fiction, Thriller • mobe1969**

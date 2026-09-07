@@ -1,5 +1,7 @@
 # Khumba
 
+[Compare across authors](../../compare/?t=film-khumba_172391)
+
 ## DTS-HD MA 5.1
 
 **2013 • G • 1h 25m • Animation, Adventure, Family • mobe1969**

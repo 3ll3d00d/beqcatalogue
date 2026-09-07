@@ -1,5 +1,7 @@
 # Out of Death
 
+[Compare across authors](../../compare/?t=film-out-of-death_774714)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 35m • Crime, Adventure, Thriller • mobe1969**

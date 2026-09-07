@@ -1,5 +1,7 @@
 # Expect the Unexpected
 
+[Compare across authors](../../compare/?t=film-expect-the-unexpected_72897)
+
 ## DTS-HD MA 5.1
 
 **1998 • NR • 1h 27m • Cantonese • Crime, Action, Thriller, Drama • mobe1969**

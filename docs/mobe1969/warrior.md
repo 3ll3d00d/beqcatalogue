@@ -1,5 +1,7 @@
 # Warrior
 
+[Compare across authors](../../compare/?t=film-warrior_59440)
+
 ## Atmos
 
 **2011 • PG-13 • 2h 20m • Drama, Action • mobe1969**

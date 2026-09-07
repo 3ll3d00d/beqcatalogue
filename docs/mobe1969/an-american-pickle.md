@@ -1,5 +1,7 @@
 # An American Pickle
 
+[Compare across authors](../../compare/?t=film-an-american-pickle_628917)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 29m • Comedy, Drama • mobe1969**

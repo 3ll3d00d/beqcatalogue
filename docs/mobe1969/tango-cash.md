@@ -1,5 +1,7 @@
 # Tango & Cash
 
+[Compare across authors](../../compare/?t=film-tango-cash_9618)
+
 ## TrueHD 5.1
 
 **1989 • R • 1h 44m • Action, Adventure, Comedy, Thriller • mobe1969**

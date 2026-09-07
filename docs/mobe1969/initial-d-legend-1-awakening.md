@@ -1,5 +1,7 @@
 # Initial D Legend 1: Awakening
 
+[Compare across authors](../../compare/?t=film-initial-d-legend-1-awakening_271709)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 2m • Japanese • Animation, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Ghost in the Shell Arise - Border 3: Ghost Tears
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell-arise-border-3-ghost-tears_240341)
+
 ## TrueHD 5.1
 
 **2014 • R • 0h 59m • Japanese • Action, Animation, Science Fiction • mobe1969**

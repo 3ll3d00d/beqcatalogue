@@ -1,5 +1,7 @@
 # Tom & Jerry
 
+[Compare across authors](../../compare/?t=film-tom-jerry_587807)
+
 ## Atmos
 
 **2021 • PG • 1h 41m • Comedy, Family, Animation • mobe1969**

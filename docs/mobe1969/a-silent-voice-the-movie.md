@@ -1,5 +1,7 @@
 # A Silent Voice: The Movie
 
+[Compare across authors](../../compare/?t=film-a-silent-voice-the-movie_378064)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 2h 10m • Japanese • Animation, Drama • mobe1969**

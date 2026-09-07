@@ -1,5 +1,7 @@
 # The Sleepover
 
+[Compare across authors](../../compare/?t=film-the-sleepover_626393)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 43m • Family, Action • mobe1969**

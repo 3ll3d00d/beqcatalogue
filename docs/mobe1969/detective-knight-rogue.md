@@ -1,5 +1,7 @@
 # Detective Knight: Rogue
 
+[Compare across authors](../../compare/?t=film-detective-knight-rogue_1024546)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 45m • Action, Crime • mobe1969**

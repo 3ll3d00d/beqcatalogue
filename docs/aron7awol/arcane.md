@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-arcane_94605)
+
 ## Season 1
 
 * DD+

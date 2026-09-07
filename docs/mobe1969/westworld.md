@@ -1,5 +1,7 @@
 # Westworld
 
+[Compare across authors](../../compare/?t=film-westworld_2362)
+
 ## DTS-HD MA 5.1
 
 **1973 • PG-13 • 1h 29m • Adventure, Science Fiction, Western • mobe1969**

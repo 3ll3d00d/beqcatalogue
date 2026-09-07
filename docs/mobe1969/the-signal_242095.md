@@ -1,5 +1,7 @@
 # The Signal
 
+[Compare across authors](../../compare/?t=film-the-signal_242095)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 37m • Thriller, Science Fiction • mobe1969**

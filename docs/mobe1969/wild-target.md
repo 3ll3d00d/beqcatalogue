@@ -1,5 +1,7 @@
 # Wild Target
 
+[Compare across authors](../../compare/?t=film-wild-target_44147)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 38m • Action, Comedy • mobe1969**

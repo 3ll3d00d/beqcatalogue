@@ -1,5 +1,7 @@
 # Quarantine 2: Terminal
 
+[Compare across authors](../../compare/?t=film-quarantine-2-terminal_59115)
+
 ## DD 5.1
 
 **2011 • R • 1h 26m • Horror, Mystery, Science Fiction • mobe1969**

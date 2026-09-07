@@ -1,5 +1,7 @@
 # Dangerous Lies
 
+[Compare across authors](../../compare/?t=film-dangerous-lies_689723)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 36m • Thriller • mobe1969**

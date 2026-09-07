@@ -1,5 +1,7 @@
 # The Squad: Home Run
 
+[Compare across authors](../../compare/?t=film-the-squad-home-run_1020394)
+
 ## DD+ Atmos
 
 **2023 • NR • 1h 33m • French • Action, Drama • mobe1969**

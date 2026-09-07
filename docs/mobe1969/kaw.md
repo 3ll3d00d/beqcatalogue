@@ -1,5 +1,7 @@
 # Kaw
 
+[Compare across authors](../../compare/?t=film-kaw_39158)
+
 ## DD+ 5.1
 
 **2007 • NR • 1h 33m • Horror • mobe1969**

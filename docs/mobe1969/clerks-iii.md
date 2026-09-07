@@ -1,5 +1,7 @@
 # Clerks III
 
+[Compare across authors](../../compare/?t=film-clerks-iii_635891)
+
 ## Atmos, DD+ 5.1
 
 **2022 • R • 1h 40m • Comedy • mobe1969**

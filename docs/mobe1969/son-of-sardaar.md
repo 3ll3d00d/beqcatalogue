@@ -1,5 +1,7 @@
 # Son of Sardaar
 
+[Compare across authors](../../compare/?t=film-son-of-sardaar_140896)
+
 ## DD 5.1
 
 **2012 • 12A • 2h 21m • Hindi • Action, Comedy, Romance • mobe1969**

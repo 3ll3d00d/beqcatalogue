@@ -1,5 +1,7 @@
 # The Devil's Backbone
 
+[Compare across authors](../../compare/?t=film-the-devils-backbone_1433)
+
 ## DTS-HD MA 5.1
 
 **2001 • 15 • 1h 48m • Spanish • Fantasy, Drama, Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Limbo
 
+[Compare across authors](../../compare/?t=film-limbo_591222)
+
 ## TrueHD 7.1, DTS-HD MA 5.1
 
 **2021 • NR • 1h 58m • Cantonese • Thriller, Crime, Action • mobe1969**

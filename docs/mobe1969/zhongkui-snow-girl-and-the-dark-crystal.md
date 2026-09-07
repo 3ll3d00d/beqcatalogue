@@ -1,5 +1,7 @@
 # Zhongkui: Snow Girl and the Dark Crystal
 
+[Compare across authors](../../compare/?t=film-zhongkui-snow-girl-and-the-dark-crystal_299822)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 58m • Mandarin • Action, Fantasy, Romance • mobe1969**

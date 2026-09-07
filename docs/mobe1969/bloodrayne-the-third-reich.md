@@ -1,5 +1,7 @@
 # BloodRayne: The Third Reich
 
+[Compare across authors](../../compare/?t=film-bloodrayne-the-third-reich_12685)
+
 ## DTS-HD MA 5.1
 
 Director's Cut

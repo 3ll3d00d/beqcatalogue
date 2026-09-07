@@ -1,5 +1,7 @@
 # Where Eagles Dare
 
+[Compare across authors](../../compare/?t=film-where-eagles-dare_11046)
+
 ## DTS-HD MA 5.1
 
 **1968 • PG • 2h 35m • Adventure, Action, War • mobe1969**

@@ -1,5 +1,7 @@
 # The Dig
 
+[Compare across authors](../../compare/?t=film-the-dig_532865)
+
 ## DD+ Atmos
 
 **2021 • PG-13 • 1h 52m • Drama, History • mobe1969**

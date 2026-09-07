@@ -1,5 +1,7 @@
 # Beau Is Afraid
 
+[Compare across authors](../../compare/?t=film-beau-is-afraid_798286)
+
 ## DTS-HD MA 7.1
 
 **2023 • R • 2h 59m • Comedy, Adventure, Fantasy • mobe1969**

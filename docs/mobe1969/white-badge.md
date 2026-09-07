@@ -1,5 +1,7 @@
 # White Badge
 
+[Compare across authors](../../compare/?t=film-white-badge_200482)
+
 ## DTS-HD MA 3.1
 
 **1992 • NR • 2h 2m • Korean • War, Drama • mobe1969**

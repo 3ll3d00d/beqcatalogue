@@ -1,5 +1,7 @@
 # The House of Magic
 
+[Compare across authors](../../compare/?t=film-the-house-of-magic_202575)
+
 ## DTS-HD MA 5.1
 
 **2013 • G • 1h 25m • Family, Fantasy, Animation, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Saakini Daakini
 
+[Compare across authors](../../compare/?t=film-saakini-daakini_862946)
+
 ## DD+ 5.1
 
 **2022 • NR • 0h 0m • Telugu • Action, Comedy • mobe1969**

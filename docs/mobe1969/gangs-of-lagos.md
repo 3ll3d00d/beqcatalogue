@@ -1,5 +1,7 @@
 # Gangs of Lagos
 
+[Compare across authors](../../compare/?t=film-gangs-of-lagos_1104040)
+
 ## DD+ 5.1
 
 **2023 • NR • 0h 0m • Crime • mobe1969**

@@ -1,5 +1,7 @@
 # We Were Soldiers
 
+[Compare across authors](../../compare/?t=film-we-were-soldiers_10590)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 2h 18m • Action, History, War • mobe1969**

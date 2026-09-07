@@ -1,5 +1,7 @@
 # Terminal Velocity
 
+[Compare across authors](../../compare/?t=film-terminal-velocity_9057)
+
 ## DTS-HD MA 5.1
 
 **1994 • PG-13 • 1h 42m • Action • mobe1969**

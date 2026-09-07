@@ -1,5 +1,7 @@
 # Nameless Gangster
 
+[Compare across authors](../../compare/?t=film-nameless-gangster_89501)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 2h 13m • Korean • Crime, Thriller • mobe1969**

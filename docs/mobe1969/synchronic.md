@@ -1,5 +1,7 @@
 # Synchronic
 
+[Compare across authors](../../compare/?t=film-synchronic_549294)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2020 • R • 1h 41m • Science Fiction, Drama, Thriller, Horror • mobe1969**

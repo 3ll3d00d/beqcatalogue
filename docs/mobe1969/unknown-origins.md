@@ -1,5 +1,7 @@
 # Unknown Origins
 
+[Compare across authors](../../compare/?t=film-unknown-origins_438396)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 37m • Spanish • Drama, Thriller • mobe1969**

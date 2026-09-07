@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-penny-dreadful-city-of-angels_83685)
+
 ## Season 1
 
 * DD+

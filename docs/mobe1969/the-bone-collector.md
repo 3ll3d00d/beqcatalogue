@@ -1,5 +1,7 @@
 # The Bone Collector
 
+[Compare across authors](../../compare/?t=film-the-bone-collector_9481)
+
 ## TrueHD 5.1
 
 **1999 • R • 1h 58m • Mystery, Thriller, Drama, Crime • mobe1969**

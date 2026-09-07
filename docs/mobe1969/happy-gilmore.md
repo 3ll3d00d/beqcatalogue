@@ -1,5 +1,7 @@
 # Happy Gilmore
 
+[Compare across authors](../../compare/?t=film-happy-gilmore_9614)
+
 ## DTS-HD MA 5.1
 
 **1996 • PG-13 • 1h 32m • Comedy • mobe1969**

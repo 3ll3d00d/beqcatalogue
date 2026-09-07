@@ -1,5 +1,7 @@
 # Gurudev Hoysala
 
+[Compare across authors](../../compare/?t=film-gurudev-hoysala_927223)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 12m • Kannada • Action, Thriller, Crime • mobe1969**

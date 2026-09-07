@@ -1,5 +1,7 @@
 # Goodbye Monster
 
+[Compare across authors](../../compare/?t=film-goodbye-monster_1028318)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 39m • Mandarin • Animation, Fantasy, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Chinese Doctors
 
+[Compare across authors](../../compare/?t=film-chinese-doctors_848880)
+
 ## TrueHD 5.1
 
 **2021 • NR • 2h 9m • Mandarin • Drama • mobe1969**

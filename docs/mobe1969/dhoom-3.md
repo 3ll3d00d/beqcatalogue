@@ -1,5 +1,7 @@
 # Dhoom 3
 
+[Compare across authors](../../compare/?t=film-dhoom-3_44977)
+
 ## DD+ 5.1
 
 **2013 • 12A • 2h 52m • Hindi • Action, Crime, Thriller • mobe1969**

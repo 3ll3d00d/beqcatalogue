@@ -1,5 +1,7 @@
 # Golmaal - Fun Unlimited
 
+[Compare across authors](../../compare/?t=film-golmaal-fun-unlimited_19670)
+
 ## DD+ 5.1
 
 **2006 • NR • 2h 30m • Hindi • Comedy, Family • mobe1969**

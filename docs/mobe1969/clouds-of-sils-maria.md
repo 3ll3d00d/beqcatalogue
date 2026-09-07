@@ -1,5 +1,7 @@
 # Clouds of Sils Maria
 
+[Compare across authors](../../compare/?t=film-clouds-of-sils-maria_246860)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 2h 4m • Drama • mobe1969**

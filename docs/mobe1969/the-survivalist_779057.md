@@ -1,5 +1,7 @@
 # The Survivalist
 
+[Compare across authors](../../compare/?t=film-the-survivalist_779057)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 31m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Tremors
 
+[Compare across authors](../../compare/?t=film-tremors_9362)
+
 ## DTS-HD MA 5.1
 
 **1990 • PG-13 • 1h 36m • Horror, Action • mobe1969**

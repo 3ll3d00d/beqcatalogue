@@ -1,5 +1,7 @@
 # It's a Disaster
 
+[Compare across authors](../../compare/?t=film-its-a-disaster_114779)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 26m • Comedy • mobe1969**

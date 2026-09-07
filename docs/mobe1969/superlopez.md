@@ -1,5 +1,7 @@
 # Superlopez
 
+[Compare across authors](../../compare/?t=film-superlopez_457915)
+
 ## DD+ 5.1
 
 **2018 • G • 1h 48m • Spanish • Comedy • mobe1969**

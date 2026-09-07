@@ -1,5 +1,7 @@
 # Secret Magic Control Agency
 
+[Compare across authors](../../compare/?t=film-secret-magic-control-agency_797394)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 44m • Animation, Comedy, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # The Objective
 
+[Compare across authors](../../compare/?t=film-the-objective_14878)
+
 ## DTS-HD MA 5.1
 
 **2008 • 15 • 1h 30m • Horror, Science Fiction, Thriller, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Ultimate Avengers 2: Rise of the Panther
 
+[Compare across authors](../../compare/?t=film-ultimate-avengers-2-rise-of-the-panther_14611)
+
 ## LPCM 7.1
 
 **2006 • PG-13 • 1h 13m • Adventure, Animation, Action, Science Fiction • mobe1969**

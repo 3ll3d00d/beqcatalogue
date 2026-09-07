@@ -1,5 +1,7 @@
 # Double Identity
 
+[Compare across authors](../../compare/?t=film-double-identity_31453)
+
 ## TrueHD 5.1
 
 **2009 • 16 • 1h 33m • Thriller, Crime • mobe1969**

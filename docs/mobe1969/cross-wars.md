@@ -1,5 +1,7 @@
 # Cross Wars
 
+[Compare across authors](../../compare/?t=film-cross-wars_412452)
+
 ## DTS-HD MA 5.1
 
 **2017 • 16 • 1h 38m • Action • mobe1969**

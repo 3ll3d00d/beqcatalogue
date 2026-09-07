@@ -1,5 +1,7 @@
 # Beast Stalker
 
+[Compare across authors](../../compare/?t=film-beast-stalker_18060)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 1h 50m • Cantonese • Action, Thriller • mobe1969**

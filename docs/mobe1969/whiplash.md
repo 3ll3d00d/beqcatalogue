@@ -1,5 +1,7 @@
 # Whiplash
 
+[Compare across authors](../../compare/?t=film-whiplash_244786)
+
 ## Atmos
 
 **2014 • R • 1h 47m • Drama, Music • mobe1969**

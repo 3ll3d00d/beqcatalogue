@@ -1,5 +1,7 @@
 # Agneepath
 
+[Compare across authors](../../compare/?t=film-agneepath_84858)
+
 ## DD+ 5.1
 
 **2012 • 15 • 2h 54m • Hindi • Action, Crime, Drama • mobe1969**

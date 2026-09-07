@@ -1,5 +1,7 @@
 # Curve
 
+[Compare across authors](../../compare/?t=film-curve_347754)
+
 ## DD+ 5.1
 
 **2015 • R • 1h 26m • Horror, Thriller • mobe1969**

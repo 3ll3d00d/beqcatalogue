@@ -1,5 +1,7 @@
 # The Bros
 
+[Compare across authors](../../compare/?t=film-the-bros_485442)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 42m • Korean • Comedy • mobe1969**

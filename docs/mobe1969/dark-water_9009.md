@@ -1,5 +1,7 @@
 # Dark Water
 
+[Compare across authors](../../compare/?t=film-dark-water_9009)
+
 ## LPCM 5.1
 
 **2005 • PG-13 • 1h 45m • Thriller, Horror, Drama • mobe1969**

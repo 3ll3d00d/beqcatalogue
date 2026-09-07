@@ -1,5 +1,7 @@
 # Jason X
 
+[Compare across authors](../../compare/?t=film-jason-x_11470)
+
 ## DD+ 5.1
 
 **2001 • R • 1h 31m • Horror, Science Fiction • mobe1969**

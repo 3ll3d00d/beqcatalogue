@@ -1,5 +1,7 @@
 # The Incredible Hulk
 
+[Compare across authors](../../compare/?t=film-the-incredible-hulk_1724)
+
 ## Atmos
 
 **2008 • PG-13 • 1h 54m • Science Fiction, Action, Adventure • mobe1969**

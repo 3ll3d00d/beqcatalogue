@@ -1,5 +1,7 @@
 # Pulse
 
+[Compare across authors](../../compare/?t=film-pulse_9682)
+
 ## TrueHD 5.1
 
 Unrated Cut

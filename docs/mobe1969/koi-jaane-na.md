@@ -1,5 +1,7 @@
 # Koi Jaane Na
 
+[Compare across authors](../../compare/?t=film-koi-jaane-na_794008)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 21m • Hindi • Thriller, Mystery • mobe1969**

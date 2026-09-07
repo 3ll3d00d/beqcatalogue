@@ -1,5 +1,7 @@
 # Hostage House
 
+[Compare across authors](../../compare/?t=film-hostage-house_814853)
+
 ## DD+ 5.1
 
 **2021 • 12 • 1h 30m • Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # LOLA
 
+[Compare across authors](../../compare/?t=film-lola_941019)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 19m • Drama, Science Fiction • mobe1969**

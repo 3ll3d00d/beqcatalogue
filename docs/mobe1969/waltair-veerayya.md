@@ -1,5 +1,7 @@
 # Waltair Veerayya
 
+[Compare across authors](../../compare/?t=film-waltair-veerayya_989017)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 40m • Telugu • Action, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Chandramukhi 2
 
+[Compare across authors](../../compare/?t=film-chandramukhi-2_987580)
+
 ## DD+ 5.1
 
 **2023 • 12A • 2h 38m • Tamil • Comedy, Drama, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # How I Now Live
 
+[Compare across authors](../../compare/?t=film-how-i-now-live_162215)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 41m • Drama, Action, Thriller, War • mobe1969**

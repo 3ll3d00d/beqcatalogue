@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-mom-dont-do-that_135726)
+
 ## Season 1
 
 * DD+ 5.1

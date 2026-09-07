@@ -1,5 +1,7 @@
 # The Point Men
 
+[Compare across authors](../../compare/?t=film-the-point-men_606400)
+
 ## TrueHD 5.1
 
 **2023 • NR • 1h 48m • Korean • Crime, Action • mobe1969**

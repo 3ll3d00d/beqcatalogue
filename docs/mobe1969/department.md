@@ -1,5 +1,7 @@
 # Department
 
+[Compare across authors](../../compare/?t=film-department_117784)
+
 ## DD+ 5.1
 
 **2012 • NR • 2h 21m • Hindi • Action, Thriller • mobe1969**

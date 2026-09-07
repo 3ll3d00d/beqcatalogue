@@ -1,5 +1,7 @@
 # The Limehouse Golem
 
+[Compare across authors](../../compare/?t=film-the-limehouse-golem_369300)
+
 ## DTS-HD MA 5.1
 
 **2016 • 15 • 1h 49m • Horror, Mystery, Thriller • mobe1969**

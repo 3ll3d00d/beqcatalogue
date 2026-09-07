@@ -1,5 +1,7 @@
 # November
 
+[Compare across authors](../../compare/?t=film-november_823951)
+
 ## DTS-HD MA 5.1
 
 **2022 • 15 • 1h 46m • French • Thriller, Crime, Drama • mobe1969**

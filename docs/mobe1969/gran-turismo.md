@@ -1,5 +1,7 @@
 # Gran Turismo
 
+[Compare across authors](../../compare/?t=film-gran-turismo_980489)
+
 ## Atmos
 
 **2023 • PG-13 • 2h 15m • Adventure, Action, Drama • mobe1969**

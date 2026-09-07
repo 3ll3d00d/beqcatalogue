@@ -1,5 +1,7 @@
 # Behind the Line: Escape to Dunkirk
 
+[Compare across authors](../../compare/?t=film-behind-the-line-escape-to-dunkirk_726876)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 27m • War • mobe1969**

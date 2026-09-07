@@ -1,5 +1,7 @@
 # Unforgettable
 
+[Compare across authors](../../compare/?t=film-unforgettable_418437)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 40m • Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Ouija
 
+[Compare across authors](../../compare/?t=film-ouija_242512)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 29m • Horror • mobe1969**

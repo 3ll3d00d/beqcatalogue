@@ -1,5 +1,7 @@
 # Apollo 18
 
+[Compare across authors](../../compare/?t=film-apollo-18_50357)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 26m • Science Fiction, Horror, Thriller • mobe1969**

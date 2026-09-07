@@ -1,5 +1,7 @@
 # Justin and the Knights of Valour
 
+[Compare across authors](../../compare/?t=film-justin-and-the-knights-of-valour_146381)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG • 1h 30m • Animation, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # The Last Kingdom: Seven Kings Must Die
 
+[Compare across authors](../../compare/?t=film-the-last-kingdom-seven-kings-must-die_948713)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 51m • Action, Drama, War • mobe1969**

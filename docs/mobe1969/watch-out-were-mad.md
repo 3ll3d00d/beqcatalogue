@@ -1,5 +1,7 @@
 # Watch Out, We're Mad
 
+[Compare across authors](../../compare/?t=film-watch-out-were-mad_838197)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 30m • Italian • Action, Comedy • mobe1969**

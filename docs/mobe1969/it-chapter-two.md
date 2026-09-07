@@ -1,5 +1,7 @@
 # It Chapter Two
 
+[Compare across authors](../../compare/?t=film-it-chapter-two_474350)
+
 ## Atmos
 
 **2019 • R • 2h 50m • Horror, Fantasy • mobe1969**

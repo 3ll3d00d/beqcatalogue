@@ -1,5 +1,7 @@
 # Bright: Samurai Soul
 
+[Compare across authors](../../compare/?t=film-bright-samurai-soul_839100)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • PG-13 • 1h 20m • Japanese • Animation, Action, Fantasy • mobe1969**

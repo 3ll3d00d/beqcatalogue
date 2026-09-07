@@ -1,5 +1,7 @@
 # Chasing the Dragon II: Wild Wild Bunch
 
+[Compare across authors](../../compare/?t=film-chasing-the-dragon-ii-wild-wild-bunch_602661)
+
 ## TrueHD 5.1
 
 **2019 • NR • 1h 43m • Cantonese • Crime, Action, Drama, History, Thriller • mobe1969**

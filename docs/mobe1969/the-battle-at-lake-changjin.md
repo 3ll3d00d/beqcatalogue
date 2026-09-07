@@ -1,5 +1,7 @@
 # The Battle at Lake Changjin
 
+[Compare across authors](../../compare/?t=film-the-battle-at-lake-changjin_779029)
+
 ## TrueHD 5.1
 
 **2021 • NR • 2h 58m • Mandarin • Drama, War • mobe1969**

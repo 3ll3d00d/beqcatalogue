@@ -1,5 +1,7 @@
 # The Battle of Jangsari
 
+[Compare across authors](../../compare/?t=film-the-battle-of-jangsari_567629)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 44m • Korean • Drama, History, War • mobe1969**

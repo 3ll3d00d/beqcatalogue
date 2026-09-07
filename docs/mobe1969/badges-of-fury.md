@@ -1,5 +1,7 @@
 # Badges of Fury
 
+[Compare across authors](../../compare/?t=film-badges-of-fury_202220)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 38m • Comedy, Action, Crime • mobe1969**

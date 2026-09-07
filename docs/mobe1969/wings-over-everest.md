@@ -1,5 +1,7 @@
 # Wings Over Everest
 
+[Compare across authors](../../compare/?t=film-wings-over-everest_630094)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 50m • Mandarin • Action • mobe1969**

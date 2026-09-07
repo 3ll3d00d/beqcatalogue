@@ -1,5 +1,7 @@
 # The Tuxedo
 
+[Compare across authors](../../compare/?t=film-the-tuxedo_10771)
+
 ## TrueHD 5.1
 
 **2002 • PG-13 • 1h 38m • Thriller, Action, Comedy, Science Fiction • mobe1969**

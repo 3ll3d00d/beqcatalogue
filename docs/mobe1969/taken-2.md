@@ -1,5 +1,7 @@
 # Taken 2
 
+[Compare across authors](../../compare/?t=film-taken-2_82675)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

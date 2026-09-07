@@ -1,5 +1,7 @@
 # War on Everyone
 
+[Compare across authors](../../compare/?t=film-war-on-everyone_333663)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 38m • Comedy, Mystery, Action • mobe1969**

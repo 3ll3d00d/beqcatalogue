@@ -1,5 +1,7 @@
 # The Dukes of Hazzard
 
+[Compare across authors](../../compare/?t=film-the-dukes-of-hazzard_6519)
+
 ## DD+ 5.1
 
 Unrated Cut

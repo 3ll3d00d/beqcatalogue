@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-one-and-only_127008)
+
 ## Season 1
 
 * DD+ 2.0

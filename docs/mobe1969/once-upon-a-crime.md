@@ -1,5 +1,7 @@
 # Once Upon a Crime
 
+[Compare across authors](../../compare/?t=film-once-upon-a-crime_1122634)
+
 ## DD+ 5.1
 
 **2023 • PG • 1h 45m • Japanese • Mystery, Comedy, Fantasy • mobe1969**

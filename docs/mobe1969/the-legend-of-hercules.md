@@ -1,5 +1,7 @@
 # The Legend of Hercules
 
+[Compare across authors](../../compare/?t=film-the-legend-of-hercules_188207)
+
 ## Atmos
 
 **2014 • PG-13 • 1h 39m • Action, Adventure • mobe1969**

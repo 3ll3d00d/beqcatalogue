@@ -1,5 +1,7 @@
 # Voyagers
 
+[Compare across authors](../../compare/?t=film-voyagers_597890)
+
 ## TrueHD 5.1
 
 **2021 • PG-13 • 1h 48m • Science Fiction, Thriller • mobe1969**

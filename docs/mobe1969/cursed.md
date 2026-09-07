@@ -1,5 +1,7 @@
 # Cursed
 
+[Compare across authors](../../compare/?t=film-cursed_10012)
+
 ## DTS-HD MA 5.1
 
 **2005 • PG-13 • 1h 37m • Horror, Comedy • mobe1969**

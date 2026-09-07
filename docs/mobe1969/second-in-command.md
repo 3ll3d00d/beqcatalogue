@@ -1,5 +1,7 @@
 # Second in Command
 
+[Compare across authors](../../compare/?t=film-second-in-command_19167)
+
 ## DTS-HD MA 5.1
 
 **2006 • R • 1h 31m • Action • mobe1969**

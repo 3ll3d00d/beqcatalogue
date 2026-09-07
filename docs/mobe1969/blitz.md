@@ -1,5 +1,7 @@
 # Blitz
 
+[Compare across authors](../../compare/?t=film-blitz_55846)
+
 ## TrueHD 5.1, DD+ 5.1
 
 **2011 • R • 1h 37m • Crime, Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Forrest Gump
 
+[Compare across authors](../../compare/?t=film-forrest-gump_13)
+
 ## Atmos
 
 **1994 • PG-13 • 2h 22m • Drama, Romance, Comedy • mobe1969**

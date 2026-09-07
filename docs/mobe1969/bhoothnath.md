@@ -1,5 +1,7 @@
 # Bhoothnath
 
+[Compare across authors](../../compare/?t=film-bhoothnath_15974)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG • 2h 31m • Hindi • Family, Comedy • mobe1969**

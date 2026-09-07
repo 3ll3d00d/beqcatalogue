@@ -1,5 +1,7 @@
 # Texas Chainsaw Massacre
 
+[Compare across authors](../../compare/?t=film-texas-chainsaw-massacre_632727)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2022 • R • 1h 23m • Horror, Thriller • mobe1969**

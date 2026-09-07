@@ -1,5 +1,7 @@
 # Bull
 
+[Compare across authors](../../compare/?t=film-bull_821792)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 27m • Thriller • mobe1969**

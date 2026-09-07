@@ -1,5 +1,7 @@
 # ID2: Shadwell Army
 
+[Compare across authors](../../compare/?t=film-id2-shadwell-army_411041)
+
 ## DD+ 5.1
 
 **2016 • 18 • 1h 32m • Drama, Crime • mobe1969**

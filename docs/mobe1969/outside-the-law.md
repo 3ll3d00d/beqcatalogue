@@ -1,5 +1,7 @@
 # Outside the Law
 
+[Compare across authors](../../compare/?t=film-outside-the-law_47904)
+
 ## DTS-HD MA 5.1
 
 **2010 • 12 • 2h 17m • French • History, Action, Drama, War • mobe1969**

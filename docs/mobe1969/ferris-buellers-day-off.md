@@ -1,5 +1,7 @@
 # Ferris Bueller's Day Off
 
+[Compare across authors](../../compare/?t=film-ferris-buellers-day-off_9377)
+
 ## Atmos
 
 **1986 • PG-13 • 1h 43m • Comedy • mobe1969**

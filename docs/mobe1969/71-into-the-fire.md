@@ -1,5 +1,7 @@
 # 71: Into The Fire
 
+[Compare across authors](../../compare/?t=film-71-into-the-fire_51200)
+
 ## DTS-HD MA 5.1
 
 **2010 • 14A • 2h 0m • Korean • War • mobe1969**

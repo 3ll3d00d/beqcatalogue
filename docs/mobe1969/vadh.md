@@ -1,5 +1,7 @@
 # Vadh
 
+[Compare across authors](../../compare/?t=film-vadh_1046991)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 50m • Hindi • Crime, Thriller • mobe1969**

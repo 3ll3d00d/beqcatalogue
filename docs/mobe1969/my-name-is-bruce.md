@@ -1,5 +1,7 @@
 # My Name Is Bruce
 
+[Compare across authors](../../compare/?t=film-my-name-is-bruce_1961)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 26m • Comedy, Horror, Fantasy • mobe1969**

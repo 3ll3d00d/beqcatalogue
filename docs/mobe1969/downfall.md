@@ -1,5 +1,7 @@
 # Downfall
 
+[Compare across authors](../../compare/?t=film-downfall_613)
+
 ## DD 5.1
 
 **2004 • R • 2h 36m • German • Drama, History, War • mobe1969**

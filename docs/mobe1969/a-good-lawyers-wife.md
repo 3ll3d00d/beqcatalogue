@@ -1,5 +1,7 @@
 # A Good Lawyer's Wife
 
+[Compare across authors](../../compare/?t=film-a-good-lawyers-wife_61952)
+
 ## DTS-HD MA 2.0
 
 **2003 • NR • 1h 46m • Korean • Drama, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Dhoom
 
+[Compare across authors](../../compare/?t=film-dhoom_17478)
+
 ## DD+ 5.1
 
 **2004 • PG • 2h 4m • Hindi • Action, Crime, Drama, Thriller • mobe1969**

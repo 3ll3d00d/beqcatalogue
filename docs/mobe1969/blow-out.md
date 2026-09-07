@@ -1,5 +1,7 @@
 # Blow Out
 
+[Compare across authors](../../compare/?t=film-blow-out_11644)
+
 ## DTS-HD MA 2.0
 
 **1981 • R • 1h 48m • Crime, Drama, Mystery, Thriller • mobe1969**

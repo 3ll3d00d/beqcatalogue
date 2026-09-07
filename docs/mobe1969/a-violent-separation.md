@@ -1,5 +1,7 @@
 # A Violent Separation
 
+[Compare across authors](../../compare/?t=film-a-violent-separation_506815)
+
 ## DD+ 5.1
 
 **2019 • 15 • 1h 46m • Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Brawl in Cell Block 99
 
+[Compare across authors](../../compare/?t=film-brawl-in-cell-block-99_398175)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2017 • NR • 2h 12m • Action, Crime, Thriller • mobe1969**

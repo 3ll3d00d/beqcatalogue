@@ -1,5 +1,7 @@
 # Lakeview Terrace
 
+[Compare across authors](../../compare/?t=film-lakeview-terrace_13279)
+
 ## TrueHD 5.1
 
 **2008 • PG-13 • 1h 50m • Thriller, Drama, Crime • mobe1969**

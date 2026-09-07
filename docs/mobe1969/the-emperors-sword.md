@@ -1,5 +1,7 @@
 # The Emperor's Sword
 
+[Compare across authors](../../compare/?t=film-the-emperors-sword_686329)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 33m • Mandarin • Action • mobe1969**

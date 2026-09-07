@@ -1,5 +1,7 @@
 # Incredibles 2
 
+[Compare across authors](../../compare/?t=film-incredibles-2_260513)
+
 ## Atmos
 
 **2018 • PG • 1h 58m • Action, Adventure, Animation, Family • mobe1969**

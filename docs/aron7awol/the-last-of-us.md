@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-last-of-us_100088)
+
 ## Season 1 Episodes 1-4, 6-9
 
 * DD+ Atmos

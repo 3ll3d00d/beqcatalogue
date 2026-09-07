@@ -1,5 +1,7 @@
 # The Forgotten Battle
 
+[Compare across authors](../../compare/?t=film-the-forgotten-battle_633515)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 4m • Dutch • War, History, Drama • mobe1969**

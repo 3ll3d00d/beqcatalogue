@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-mythic-quest_94951)
+
 ## Season 2 Episodes 1-2
 
 * DD+ Atmos

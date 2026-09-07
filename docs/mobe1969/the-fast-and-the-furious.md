@@ -1,5 +1,7 @@
 # The Fast and the Furious
 
+[Compare across authors](../../compare/?t=film-the-fast-and-the-furious_9799)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG-13 • 1h 46m • Action, Crime, Thriller • mobe1969**

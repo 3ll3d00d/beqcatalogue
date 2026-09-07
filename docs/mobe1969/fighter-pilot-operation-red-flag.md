@@ -1,5 +1,7 @@
 # Fighter Pilot: Operation Red Flag
 
+[Compare across authors](../../compare/?t=film-fighter-pilot-operation-red-flag_15089)
+
 ## DTS-HD MA 5.1
 
 **2004 • NR • 0h 48m • Documentary • mobe1969**

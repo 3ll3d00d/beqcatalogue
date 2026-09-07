@@ -1,5 +1,7 @@
 # Kung Fu Hustle
 
+[Compare across authors](../../compare/?t=film-kung-fu-hustle_9470)
+
 ## LPCM 5.1
 
 **2004 • R • 1h 39m • Cantonese • Action, Comedy, Crime, Fantasy • mobe1969**

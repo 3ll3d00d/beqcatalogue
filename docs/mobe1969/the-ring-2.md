@@ -1,5 +1,7 @@
 # The Ring 2
 
+[Compare across authors](../../compare/?t=film-the-ring-2_10320)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

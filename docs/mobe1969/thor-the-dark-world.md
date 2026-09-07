@@ -1,5 +1,7 @@
 # Thor: The Dark World
 
+[Compare across authors](../../compare/?t=film-thor-the-dark-world_76338)
+
 ## Atmos
 
 **2013 • PG-13 • 1h 52m • Action, Adventure, Fantasy • mobe1969**

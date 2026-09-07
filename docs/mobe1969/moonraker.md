@@ -1,5 +1,7 @@
 # Moonraker
 
+[Compare across authors](../../compare/?t=film-moonraker_698)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1979 • PG • 2h 6m • Action, Adventure, Thriller, Science Fiction • mobe1969**

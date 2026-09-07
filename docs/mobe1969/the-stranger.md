@@ -1,5 +1,7 @@
 # The Stranger
 
+[Compare across authors](../../compare/?t=film-the-stranger_38166)
+
 ## LPCM 5.1
 
 **2010 • R • 1h 31m • Action, Thriller • mobe1969**

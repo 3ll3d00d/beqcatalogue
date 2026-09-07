@@ -1,5 +1,7 @@
 # Clash of the Titans
 
+[Compare across authors](../../compare/?t=film-clash-of-the-titans_18823)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 46m • Adventure, Fantasy, Action • mobe1969**

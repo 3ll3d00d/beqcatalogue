@@ -1,5 +1,7 @@
 # Final Fantasy VII: Advent Children
 
+[Compare across authors](../../compare/?t=film-final-fantasy-vii-advent-children_824809)
+
 ## Atmos
 
 **2005 • NR • 2h 6m • Science Fiction, Action, Animation, Fantasy, Adventure • mobe1969**

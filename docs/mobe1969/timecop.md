@@ -1,5 +1,7 @@
 # Timecop
 
+[Compare across authors](../../compare/?t=film-timecop_8831)
+
 ## DTS-HD MA 5.1
 
 **1994 • R • 1h 39m • Thriller, Science Fiction, Action, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # 4Closed
 
+[Compare across authors](../../compare/?t=film-4closed_223899)
+
 ## DD+ 5.1
 
 **2013 • PG-13 • 1h 31m • Thriller • mobe1969**

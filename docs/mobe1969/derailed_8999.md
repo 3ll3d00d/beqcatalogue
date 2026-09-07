@@ -1,5 +1,7 @@
 # Derailed
 
+[Compare across authors](../../compare/?t=film-derailed_8999)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 48m • Drama, Thriller • mobe1969**

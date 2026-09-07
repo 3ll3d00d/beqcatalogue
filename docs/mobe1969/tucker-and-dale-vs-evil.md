@@ -1,5 +1,7 @@
 # Tucker and Dale vs. Evil
 
+[Compare across authors](../../compare/?t=film-tucker-and-dale-vs-evil_46838)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 29m • Comedy, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Tremors 5: Bloodlines
 
+[Compare across authors](../../compare/?t=film-tremors-5-bloodlines_339530)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 39m • Science Fiction, Horror, Action • mobe1969**

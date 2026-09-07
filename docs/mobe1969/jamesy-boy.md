@@ -1,5 +1,7 @@
 # Jamesy Boy
 
+[Compare across authors](../../compare/?t=film-jamesy-boy_233470)
+
 ## DD+ 5.1
 
 **2014 • NR • 1h 49m • Crime, Drama, Romance • mobe1969**

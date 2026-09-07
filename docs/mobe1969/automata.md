@@ -1,5 +1,7 @@
 # Automata
 
+[Compare across authors](../../compare/?t=film-automata_262543)
+
 ## TrueHD 5.1
 
 **2014 • R • 1h 50m • Thriller, Science Fiction • mobe1969**

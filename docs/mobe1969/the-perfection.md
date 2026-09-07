@@ -1,5 +1,7 @@
 # The Perfection
 
+[Compare across authors](../../compare/?t=film-the-perfection_529962)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 30m • Horror, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Overdrive
 
+[Compare across authors](../../compare/?t=film-overdrive_404733)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG-13 • 1h 33m • Mystery, Action, Thriller • mobe1969**

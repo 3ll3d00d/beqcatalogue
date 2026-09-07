@@ -1,5 +1,7 @@
 # Lamhaa
 
+[Compare across authors](../../compare/?t=film-lamhaa_41107)
+
 ## DD+ 5.1
 
 **2010 • NR • 1h 55m • Hindi • Action, Thriller • mobe1969**

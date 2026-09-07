@@ -1,5 +1,7 @@
 # Hackers
 
+[Compare across authors](../../compare/?t=film-hackers_10428)
+
 ## DTS-HD MA 5.1
 
 **1995 • PG-13 • 1h 47m • Action, Crime, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Players
 
+[Compare across authors](../../compare/?t=film-players_83382)
+
 ## DD+ 5.1
 
 **2012 • 12A • 2h 45m • Hindi • Action, Crime, Thriller • mobe1969**

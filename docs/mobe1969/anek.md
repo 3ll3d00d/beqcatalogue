@@ -1,5 +1,7 @@
 # Anek
 
+[Compare across authors](../../compare/?t=film-anek_888268)
+
 ## DD+ 5.1
 
 **2022 • 15 • 2h 28m • Hindi • Action, Thriller • mobe1969**

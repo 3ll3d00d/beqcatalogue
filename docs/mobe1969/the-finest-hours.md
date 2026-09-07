@@ -1,5 +1,7 @@
 # The Finest Hours
 
+[Compare across authors](../../compare/?t=film-the-finest-hours_300673)
+
 ## DTS-HD MA 7.1
 
 **2016 • PG-13 • 1h 57m • Action, Drama, History, Thriller • mobe1969**

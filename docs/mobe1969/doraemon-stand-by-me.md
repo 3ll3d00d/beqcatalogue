@@ -1,5 +1,7 @@
 # Doraemon: Stand By Me
 
+[Compare across authors](../../compare/?t=film-doraemon-stand-by-me_265712)
+
 ## DTS-HD MA 5.1
 
 **2015 • G • 1h 30m • Japanese • Animation, Family, Science Fiction, Fantasy • mobe1969**

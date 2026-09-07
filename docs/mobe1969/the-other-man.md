@@ -1,5 +1,7 @@
 # The Other Man
 
+[Compare across authors](../../compare/?t=film-the-other-man_17606)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 30m • Drama, Thriller, Mystery, Romance • mobe1969**

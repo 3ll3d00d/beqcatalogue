@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-marvels-agents-of-shield_1403)
+
 ## Season 1
 
 * DTS HD-MA 5.1

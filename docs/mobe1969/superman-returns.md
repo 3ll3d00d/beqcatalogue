@@ -1,5 +1,7 @@
 # Superman Returns
 
+[Compare across authors](../../compare/?t=film-superman-returns_1452)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 2h 34m • Science Fiction, Action, Adventure • mobe1969**

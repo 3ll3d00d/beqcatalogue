@@ -1,5 +1,7 @@
 # Terminator 3: Rise of the Machines
 
+[Compare across authors](../../compare/?t=film-terminator-3-rise-of-the-machines_296)
+
 ## DD 5.1
 
 **2003 • R • 1h 49m • Action, Thriller, Science Fiction • mobe1969**

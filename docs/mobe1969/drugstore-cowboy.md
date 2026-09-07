@@ -1,5 +1,7 @@
 # Drugstore Cowboy
 
+[Compare across authors](../../compare/?t=film-drugstore-cowboy_476)
+
 ## LPCM 2.0
 
 **1989 • R • 1h 38m • Drama, Crime • mobe1969**

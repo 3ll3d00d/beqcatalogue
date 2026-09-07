@@ -1,5 +1,7 @@
 # Licence to Kill
 
+[Compare across authors](../../compare/?t=film-licence-to-kill_709)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1989 • PG-13 • 2h 13m • Adventure, Action, Thriller • mobe1969**

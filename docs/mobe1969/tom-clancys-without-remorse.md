@@ -1,5 +1,7 @@
 # Tom Clancy's Without Remorse
 
+[Compare across authors](../../compare/?t=film-tom-clancys-without-remorse_567189)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2021 • R • 1h 49m • Action, Thriller • mobe1969**

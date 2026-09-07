@@ -1,5 +1,7 @@
 # Encounter
 
+[Compare across authors](../../compare/?t=film-encounter_728526)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 48m • Science Fiction, Thriller, Adventure • mobe1969**

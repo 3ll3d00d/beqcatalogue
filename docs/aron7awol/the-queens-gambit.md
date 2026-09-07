@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-queens-gambit_87739)
+
 ## Season 1
 
 * DD+

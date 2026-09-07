@@ -1,5 +1,7 @@
 # 100% Wolf
 
+[Compare across authors](../../compare/?t=film-100-wolf_520946)
+
 ## DD+ 5.1
 
 **2021 • PG • 1h 36m • Animation, Family, Fantasy • mobe1969**

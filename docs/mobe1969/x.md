@@ -1,5 +1,7 @@
 # X
 
+[Compare across authors](../../compare/?t=film-x_760104)
+
 ## Atmos
 
 **2022 • R • 1h 46m • Horror, Mystery, Thriller • mobe1969**

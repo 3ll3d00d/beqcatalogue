@@ -1,5 +1,7 @@
 # Coco
 
+[Compare across authors](../../compare/?t=film-coco_354912)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2017 • PG • 1h 45m • Family, Animation, Fantasy, Music, Comedy, Adventure • mobe1969**

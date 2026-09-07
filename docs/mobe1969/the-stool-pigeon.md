@@ -1,5 +1,7 @@
 # The Stool Pigeon
 
+[Compare across authors](../../compare/?t=film-the-stool-pigeon_48417)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 53m • Cantonese • Thriller, Drama, Action • mobe1969**

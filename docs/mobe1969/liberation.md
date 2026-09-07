@@ -1,5 +1,7 @@
 # Liberation
 
+[Compare across authors](../../compare/?t=film-liberation_611690)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 43m • Mandarin • Drama, History • mobe1969**

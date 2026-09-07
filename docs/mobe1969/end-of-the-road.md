@@ -1,5 +1,7 @@
 # End of the Road
 
+[Compare across authors](../../compare/?t=film-end-of-the-road_773975)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 29m • Thriller, Drama, Crime • mobe1969**

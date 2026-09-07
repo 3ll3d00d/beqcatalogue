@@ -1,5 +1,7 @@
 # Armored
 
+[Compare across authors](../../compare/?t=film-armored_4597)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 28m • Thriller, Mystery, Crime, Drama, Action • mobe1969**

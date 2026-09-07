@@ -1,5 +1,7 @@
 # American Pie
 
+[Compare across authors](../../compare/?t=film-american-pie_2105)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 35m • Comedy, Romance • mobe1969**

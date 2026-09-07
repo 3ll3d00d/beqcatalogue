@@ -1,5 +1,7 @@
 # The Chronicles of Riddick
 
+[Compare across authors](../../compare/?t=film-the-chronicles-of-riddick_2789)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

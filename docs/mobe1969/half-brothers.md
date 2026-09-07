@@ -1,5 +1,7 @@
 # Half Brothers
 
+[Compare across authors](../../compare/?t=film-half-brothers_652962)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 36m • Comedy, Drama • mobe1969**

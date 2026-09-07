@@ -1,5 +1,7 @@
 # Playing with Fire
 
+[Compare across authors](../../compare/?t=film-playing-with-fire_554241)
+
 ## DD+ 5.1
 
 **2019 • PG • 1h 36m • Family, Comedy • mobe1969**

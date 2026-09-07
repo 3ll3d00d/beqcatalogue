@@ -1,5 +1,7 @@
 # Incantation
 
+[Compare across authors](../../compare/?t=film-incantation_864370)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 51m • Mandarin • Horror • mobe1969**

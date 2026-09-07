@@ -1,5 +1,7 @@
 # Run & Gun
 
+[Compare across authors](../../compare/?t=film-run-gun_910596)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 36m • Action, Thriller • mobe1969**

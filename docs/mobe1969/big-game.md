@@ -1,5 +1,7 @@
 # Big Game
 
+[Compare across authors](../../compare/?t=film-big-game_230179)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

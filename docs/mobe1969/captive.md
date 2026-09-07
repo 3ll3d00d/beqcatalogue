@@ -1,5 +1,7 @@
 # Captive
 
+[Compare across authors](../../compare/?t=film-captive_331190)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 37m • Crime, Drama, Thriller • mobe1969**

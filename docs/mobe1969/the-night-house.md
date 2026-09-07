@@ -1,5 +1,7 @@
 # The Night House
 
+[Compare across authors](../../compare/?t=film-the-night-house_547565)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 47m • Horror, Thriller, Mystery • mobe1969**

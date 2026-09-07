@@ -1,5 +1,7 @@
 # Rogue Cell: Shadow Warrior
 
+[Compare across authors](../../compare/?t=film-rogue-cell-shadow-warrior_802960)
+
 ## DD+ 2.0
 
 **2021 • NR • 0h 0m • Action, Crime • mobe1969**

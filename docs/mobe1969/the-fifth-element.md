@@ -1,5 +1,7 @@
 # The Fifth Element
 
+[Compare across authors](../../compare/?t=film-the-fifth-element_18)
+
 ## Atmos
 
 **1997 • PG-13 • 2h 6m • Adventure, Fantasy, Action, Thriller, Science Fiction • mobe1969**

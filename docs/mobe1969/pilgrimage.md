@@ -1,5 +1,7 @@
 # Pilgrimage
 
+[Compare across authors](../../compare/?t=film-pilgrimage_340442)
+
 ## DTS-HD MA 5.1
 
 **2017 • 18 • 1h 36m • Adventure, Action, Drama • mobe1969**

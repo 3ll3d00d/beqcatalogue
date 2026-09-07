@@ -1,5 +1,7 @@
 # Polar
 
+[Compare across authors](../../compare/?t=film-polar_483906)
+
 ## DD+ Atmos
 
 **2019 • R • 1h 58m • Action, Crime, Drama • mobe1969**

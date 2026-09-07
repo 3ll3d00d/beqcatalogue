@@ -1,5 +1,7 @@
 # Song of the Assassins
 
+[Compare across authors](../../compare/?t=film-song-of-the-assassins_504071)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 58m • Mandarin • Drama, Action, History • mobe1969**

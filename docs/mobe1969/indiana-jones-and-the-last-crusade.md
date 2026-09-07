@@ -1,5 +1,7 @@
 # Indiana Jones and the Last Crusade
 
+[Compare across authors](../../compare/?t=film-indiana-jones-and-the-last-crusade_89)
+
 ## Atmos
 
 **1989 • PG-13 • 2h 7m • Adventure, Action • mobe1969**

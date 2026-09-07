@@ -1,5 +1,7 @@
 # Eraserhead
 
+[Compare across authors](../../compare/?t=film-eraserhead_985)
+
 ## LPCM 2.0
 
 **1977 • NR • 1h 29m • Fantasy, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Time Trap
 
+[Compare across authors](../../compare/?t=film-time-trap_455839)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 27m • Science Fiction, Adventure • mobe1969**

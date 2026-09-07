@@ -1,5 +1,7 @@
 # Chor Nikal Ke Bhaga
 
+[Compare across authors](../../compare/?t=film-chor-nikal-ke-bhaga_1018228)
+
 ## DD+ Atmos
 
 **2023 • NR • 1h 50m • Hindi • Crime, Thriller • mobe1969**

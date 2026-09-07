@@ -1,5 +1,7 @@
 # Salaam Namaste
 
+[Compare across authors](../../compare/?t=film-salaam-namaste_15084)
+
 ## DD+ 5.1
 
 **2005 • PG • 2h 38m • Hindi • Comedy, Romance, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The Divine Weapon
 
+[Compare across authors](../../compare/?t=film-the-divine-weapon_50341)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 2h 14m • Korean • Action, Adventure, History • mobe1969**

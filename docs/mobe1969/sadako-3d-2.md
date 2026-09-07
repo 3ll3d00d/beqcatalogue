@@ -1,5 +1,7 @@
 # Sadako 3D 2
 
+[Compare across authors](../../compare/?t=film-sadako-3d-2_257527)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 36m • Japanese • Horror • mobe1969**

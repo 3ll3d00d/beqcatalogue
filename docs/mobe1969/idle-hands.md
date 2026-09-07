@@ -1,5 +1,7 @@
 # Idle Hands
 
+[Compare across authors](../../compare/?t=film-idle-hands_6552)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 32m • Thriller, Horror, Comedy • mobe1969**

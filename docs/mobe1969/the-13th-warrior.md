@@ -1,5 +1,7 @@
 # The 13th Warrior
 
+[Compare across authors](../../compare/?t=film-the-13th-warrior_1911)
+
 ## DD+ 5.1
 
 **1999 • R • 1h 42m • Adventure, History, Action • mobe1969**

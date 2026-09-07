@@ -1,5 +1,7 @@
 # Mile 22
 
+[Compare across authors](../../compare/?t=film-mile-22_347375)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 35m • Action, Thriller • mobe1969**

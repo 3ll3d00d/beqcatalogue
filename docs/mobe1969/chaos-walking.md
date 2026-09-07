@@ -1,5 +1,7 @@
 # Chaos Walking
 
+[Compare across authors](../../compare/?t=film-chaos-walking_412656)
+
 ## Atmos
 
 **2021 • PG-13 • 1h 49m • Science Fiction • mobe1969**

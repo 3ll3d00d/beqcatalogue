@@ -1,5 +1,7 @@
 # Equilibrium
 
+[Compare across authors](../../compare/?t=film-equilibrium_7299)
+
 ## TrueHD 5.1
 
 **2002 • R • 1h 47m • Action, Science Fiction, Thriller • mobe1969**

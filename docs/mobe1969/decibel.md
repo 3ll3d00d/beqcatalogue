@@ -1,5 +1,7 @@
 # Decibel
 
+[Compare across authors](../../compare/?t=film-decibel_774548)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 50m • Korean • Action, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Veteran
 
+[Compare across authors](../../compare/?t=film-veteran_346646)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 2h 5m • Korean • Action, Comedy, Crime • mobe1969**

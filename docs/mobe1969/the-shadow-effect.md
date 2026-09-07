@@ -1,5 +1,7 @@
 # The Shadow Effect
 
+[Compare across authors](../../compare/?t=film-the-shadow-effect_383538)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 1h 33m • Science Fiction, Action, Thriller • mobe1969**

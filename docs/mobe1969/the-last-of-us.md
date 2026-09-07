@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-last-of-us_100088)
+
 ## Season 1
 
 * Atmos

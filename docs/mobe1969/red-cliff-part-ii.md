@@ -1,5 +1,7 @@
 # Red Cliff Part II
 
+[Compare across authors](../../compare/?t=film-red-cliff-part-ii_15384)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 2h 16m • Mandarin • Action, Drama, History, War • mobe1969**

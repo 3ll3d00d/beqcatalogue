@@ -1,5 +1,7 @@
 # Detective Knight: Independence
 
+[Compare across authors](../../compare/?t=film-detective-knight-independence_1035806)
+
 ## DTS-HD MA 5.1
 
 **2023 • R • 1h 32m • Action, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Fender Bender
 
+[Compare across authors](../../compare/?t=film-fender-bender_397278)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 31m • Horror, Thriller • mobe1969**

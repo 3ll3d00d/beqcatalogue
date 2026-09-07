@@ -1,5 +1,7 @@
 # Battlestar Galactica: Blood & Chrome
 
+[Compare across authors](../../compare/?t=film-battlestar-galactica-blood-chrome_257368)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

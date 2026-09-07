@@ -1,5 +1,7 @@
 # A Sun
 
+[Compare across authors](../../compare/?t=film-a-sun_622951)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 35m • Mandarin • Crime, Drama • mobe1969**

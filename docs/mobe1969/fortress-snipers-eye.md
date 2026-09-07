@@ -1,5 +1,7 @@
 # Fortress: Sniper's Eye
 
+[Compare across authors](../../compare/?t=film-fortress-snipers-eye_883502)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 27m • Action • mobe1969**

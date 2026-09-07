@@ -1,5 +1,7 @@
 # Early Man
 
+[Compare across authors](../../compare/?t=film-early-man_387592)
+
 ## Atmos
 
 **2018 • PG • 1h 29m • Family, Comedy, Animation, Adventure • mobe1969**

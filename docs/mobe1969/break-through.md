@@ -1,5 +1,7 @@
 # Break Through
 
+[Compare across authors](../../compare/?t=film-break-through_870026)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 24m • Mandarin • Action • mobe1969**

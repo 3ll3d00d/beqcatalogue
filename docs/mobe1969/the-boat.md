@@ -1,5 +1,7 @@
 # The Boat
 
+[Compare across authors](../../compare/?t=film-the-boat_543915)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 29m • Thriller, Mystery, Horror • mobe1969**

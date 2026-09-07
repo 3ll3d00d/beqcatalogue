@@ -1,5 +1,7 @@
 # Screamers
 
+[Compare across authors](../../compare/?t=film-screamers_9102)
+
 ## DD 5.1
 
 **1995 • R • 1h 48m • Horror, Science Fiction • mobe1969**

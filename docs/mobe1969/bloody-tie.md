@@ -1,5 +1,7 @@
 # Bloody Tie
 
+[Compare across authors](../../compare/?t=film-bloody-tie_32159)
+
 ## DTS-HD MA 5.1
 
 **2006 • NR • 1h 56m • Korean • Action, Crime, Thriller • mobe1969**

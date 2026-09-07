@@ -1,5 +1,7 @@
 # Elephant White
 
+[Compare across authors](../../compare/?t=film-elephant-white_57585)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 31m • Action, Thriller, Fantasy, Crime • mobe1969**

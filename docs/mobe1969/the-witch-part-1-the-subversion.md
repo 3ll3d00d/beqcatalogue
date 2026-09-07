@@ -1,5 +1,7 @@
 # The Witch: Part 1. The Subversion
 
+[Compare across authors](../../compare/?t=film-the-witch-part-1-the-subversion_530254)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 2h 5m • Korean • Action, Mystery, Science Fiction • mobe1969**

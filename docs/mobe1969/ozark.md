@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-ozark_69740)
+
 ## Season 4
 
 * DD+ 5.1

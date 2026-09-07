@@ -1,5 +1,7 @@
 # The Raid: Redemption
 
+[Compare across authors](../../compare/?t=film-the-raid-redemption_94329)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 41m • Indonesian • Action, Thriller, Crime • mobe1969**

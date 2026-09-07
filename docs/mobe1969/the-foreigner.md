@@ -1,5 +1,7 @@
 # The Foreigner
 
+[Compare across authors](../../compare/?t=film-the-foreigner_379149)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 53m • Action, Thriller • mobe1969**

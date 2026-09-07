@@ -1,5 +1,7 @@
 # Wild At Heart
 
+[Compare across authors](../../compare/?t=film-wild-at-heart_483)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 2h 5m • Comedy, Crime, Thriller • mobe1969**

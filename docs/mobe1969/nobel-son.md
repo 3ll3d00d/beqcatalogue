@@ -1,5 +1,7 @@
 # Nobel Son
 
+[Compare across authors](../../compare/?t=film-nobel-son_15676)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 50m • Comedy, Crime, Drama • mobe1969**

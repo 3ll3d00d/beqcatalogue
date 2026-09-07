@@ -1,5 +1,7 @@
 # Dead in Tombstone
 
+[Compare across authors](../../compare/?t=film-dead-in-tombstone_151933)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 40m • Horror, Western, Drama, Fantasy, Action • mobe1969**

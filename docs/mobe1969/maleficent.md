@@ -1,5 +1,7 @@
 # Maleficent
 
+[Compare across authors](../../compare/?t=film-maleficent_102651)
+
 ## Atmos
 
 **2014 • PG • 1h 37m • Fantasy, Adventure, Action, Family, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Jarhead 4: Law of Return
 
+[Compare across authors](../../compare/?t=film-jarhead-4-law-of-return_635744)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 43m • War • mobe1969**

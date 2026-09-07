@@ -1,5 +1,7 @@
 # The Chalk Line
 
+[Compare across authors](../../compare/?t=film-the-chalk-line_960875)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 47m • Spanish • Horror, Thriller • mobe1969**

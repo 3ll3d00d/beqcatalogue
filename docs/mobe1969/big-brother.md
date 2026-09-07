@@ -1,5 +1,7 @@
 # Big Brother
 
+[Compare across authors](../../compare/?t=film-big-brother_504056)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 1h 51m • Cantonese • Action, Drama, Comedy • mobe1969**

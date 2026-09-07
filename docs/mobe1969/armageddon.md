@@ -1,5 +1,7 @@
 # Armageddon
 
+[Compare across authors](../../compare/?t=film-armageddon_95)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1998 • PG-13 • 2h 31m • Action, Thriller, Science Fiction, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Cash Truck
 
+[Compare across authors](../../compare/?t=film-cash-truck_21776)
+
 ## DTS-HD MA 5.1
 
 **2004 • NR • 1h 35m • French • Action, Drama, Crime, Thriller • mobe1969**

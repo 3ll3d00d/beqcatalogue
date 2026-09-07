@@ -1,5 +1,7 @@
 # Virtuality
 
+[Compare across authors](../../compare/?t=film-virtuality_37178)
+
 ## DTS-HD MA 5.1
 
 **2009 • NR • 1h 27m • Science Fiction, TV Movie, Drama, Thriller • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-three-body_204541)
+
 ## Season 1
 
 * AAC 2.0

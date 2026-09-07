@@ -1,5 +1,7 @@
 # Kingdom: Ashin of the North
 
+[Compare across authors](../../compare/?t=film-kingdom-ashin-of-the-north_845222)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 32m • Korean • Drama, Fantasy, Thriller • mobe1969**

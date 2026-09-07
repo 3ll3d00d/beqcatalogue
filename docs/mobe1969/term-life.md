@@ -1,5 +1,7 @@
 # Term Life
 
+[Compare across authors](../../compare/?t=film-term-life_257440)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 33m • Thriller, Crime • mobe1969**

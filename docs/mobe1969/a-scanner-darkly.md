@@ -1,5 +1,7 @@
 # A Scanner Darkly
 
+[Compare across authors](../../compare/?t=film-a-scanner-darkly_3509)
+
 ## DD 5.1
 
 **2006 • R • 1h 40m • Animation, Thriller, Science Fiction • mobe1969**

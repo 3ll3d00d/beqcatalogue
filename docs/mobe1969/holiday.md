@@ -1,5 +1,7 @@
 # Holiday
 
+[Compare across authors](../../compare/?t=film-holiday_13311)
+
 ## DTS-HD MA 5.1
 
 **2006 • NR • 2h 2m • Korean • Drama, Crime, Thriller • mobe1969**

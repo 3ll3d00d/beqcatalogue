@@ -1,5 +1,7 @@
 # Stargate
 
+[Compare across authors](../../compare/?t=film-stargate_2164)
+
 ## DD+ 5.1
 
 Theatrical Cut

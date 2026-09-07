@@ -1,5 +1,7 @@
 # Extraordinary Mission
 
+[Compare across authors](../../compare/?t=film-extraordinary-mission_445224)
+
 ## TrueHD 5.1
 
 **2017 • NR • 1h 57m • Mandarin • Action, Crime, Thriller • mobe1969**

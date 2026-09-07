@@ -1,5 +1,7 @@
 # Angel of Mine
 
+[Compare across authors](../../compare/?t=film-angel-of-mine_515741)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 38m • Drama, Thriller, Mystery • mobe1969**

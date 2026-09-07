@@ -1,5 +1,7 @@
 # Catch the Bullet
 
+[Compare across authors](../../compare/?t=film-catch-the-bullet_859860)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 29m • Western, Action • mobe1969**

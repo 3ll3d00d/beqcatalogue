@@ -1,5 +1,7 @@
 # Bounty Killer
 
+[Compare across authors](../../compare/?t=film-bounty-killer_209504)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 33m • Action, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # God Is A Bullet
 
+[Compare across authors](../../compare/?t=film-god-is-a-bullet_808396)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 35m • Action, Crime, Horror • mobe1969**

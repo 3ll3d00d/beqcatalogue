@@ -1,5 +1,7 @@
 # Gunpowder Milkshake
 
+[Compare across authors](../../compare/?t=film-gunpowder-milkshake_574060)
+
 ## Atmos
 
 **2021 • R • 1h 54m • Action, Crime, Thriller • mobe1969**

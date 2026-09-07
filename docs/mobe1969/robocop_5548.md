@@ -1,5 +1,7 @@
 # Robocop
 
+[Compare across authors](../../compare/?t=film-robocop_5548)
+
 ## Atmos
 
 Director's Cut

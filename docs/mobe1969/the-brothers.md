@@ -1,5 +1,7 @@
 # The Brothers
 
+[Compare across authors](../../compare/?t=film-the-brothers_20322)
+
 ## DD+ 5.1
 
 **2001 • R • 1h 46m • Comedy, Drama, Romance • mobe1969**

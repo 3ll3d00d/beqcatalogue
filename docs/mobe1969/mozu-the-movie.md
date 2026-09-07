@@ -1,5 +1,7 @@
 # Mozu: The Movie
 
+[Compare across authors](../../compare/?t=film-mozu-the-movie_360552)
+
 ## TrueHD 5.1
 
 **2015 • NR • 1h 56m • Japanese • Thriller, Crime • mobe1969**

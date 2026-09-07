@@ -1,5 +1,7 @@
 # HollyBlood
 
+[Compare across authors](../../compare/?t=film-hollyblood_821133)
+
 ## DD+ 5.1
 
 **2022 • NR • 0h 0m • Spanish • Comedy, Romance, Horror, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # The Accidental Spy
 
+[Compare across authors](../../compare/?t=film-the-accidental-spy_11847)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG-13 • 1h 48m • Cantonese • Action, Comedy, Thriller • mobe1969**

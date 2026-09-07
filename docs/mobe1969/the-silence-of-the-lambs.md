@@ -1,5 +1,7 @@
 # The Silence of the Lambs
 
+[Compare across authors](../../compare/?t=film-the-silence-of-the-lambs_274)
+
 ## DTS-HD MA 5.1
 
 **1991 • R • 1h 59m • Crime, Thriller, Drama, Horror • mobe1969**

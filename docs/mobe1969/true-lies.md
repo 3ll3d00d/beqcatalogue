@@ -1,5 +1,7 @@
 # True Lies
 
+[Compare across authors](../../compare/?t=film-true-lies_36955)
+
 ## DTS-HD MA 5.1
 
 **1994 • R • 2h 21m • Action, Thriller • mobe1969**

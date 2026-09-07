@@ -1,5 +1,7 @@
 # Sand Castle
 
+[Compare across authors](../../compare/?t=film-sand-castle_390054)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 53m • War, Action, Drama • mobe1969**

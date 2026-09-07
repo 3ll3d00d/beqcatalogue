@@ -1,5 +1,7 @@
 # Are You Here
 
+[Compare across authors](../../compare/?t=film-are-you-here_380087)
+
 ## TrueHD 5.1
 
 **2015 • NR • 1h 25m • Cantonese • Horror • mobe1969**

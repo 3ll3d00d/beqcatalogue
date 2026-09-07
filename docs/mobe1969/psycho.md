@@ -1,5 +1,7 @@
 # Psycho
 
+[Compare across authors](../../compare/?t=film-psycho_642889)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 25m • Tamil • Thriller, Drama • mobe1969**

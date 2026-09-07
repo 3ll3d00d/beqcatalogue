@@ -1,5 +1,7 @@
 # See You Yesterday
 
+[Compare across authors](../../compare/?t=film-see-you-yesterday_582607)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 26m • Science Fiction, Drama, Adventure, Crime, Action • mobe1969**

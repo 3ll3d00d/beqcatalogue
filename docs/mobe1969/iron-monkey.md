@@ -1,5 +1,7 @@
 # Iron Monkey
 
+[Compare across authors](../../compare/?t=film-iron-monkey_12780)
+
 ## TrueHD 7.1
 
 **1993 • PG-13 • 1h 30m • Cantonese • Action, Crime, Drama • mobe1969**

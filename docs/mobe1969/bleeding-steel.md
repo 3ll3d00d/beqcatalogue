@@ -1,5 +1,7 @@
 # Bleeding Steel
 
+[Compare across authors](../../compare/?t=film-bleeding-steel_460648)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 49m • Mandarin • Action, Science Fiction, Thriller • mobe1969**

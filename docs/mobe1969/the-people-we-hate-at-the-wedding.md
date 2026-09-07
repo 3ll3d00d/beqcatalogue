@@ -1,5 +1,7 @@
 # The People We Hate At The Wedding
 
+[Compare across authors](../../compare/?t=film-the-people-we-hate-at-the-wedding_802372)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 39m • Comedy • mobe1969**

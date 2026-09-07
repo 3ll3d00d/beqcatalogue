@@ -1,5 +1,7 @@
 # Do Revenge
 
+[Compare across authors](../../compare/?t=film-do-revenge_762968)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 58m • Comedy • mobe1969**

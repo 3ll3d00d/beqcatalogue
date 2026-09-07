@@ -1,5 +1,7 @@
 # Welcome to Sudden Death
 
+[Compare across authors](../../compare/?t=film-welcome-to-sudden-death_741067)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 20m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # We Couldn't Become Adults
 
+[Compare across authors](../../compare/?t=film-we-couldnt-become-adults_785544)
+
 ## DD+ 5.1
 
 **2021 • 15 • 2h 4m • Japanese • Drama, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Shin Kamen Rider
 
+[Compare across authors](../../compare/?t=film-shin-kamen-rider_813477)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 1m • Japanese • Action, Science Fiction, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Amsterdam
 
+[Compare across authors](../../compare/?t=film-amsterdam_664469)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2022 • R • 2h 14m • Crime, Comedy, History, Thriller, Mystery • mobe1969**

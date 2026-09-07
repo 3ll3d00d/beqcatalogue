@@ -1,5 +1,7 @@
 # Green Street Hooligans 3: Never Back Down
 
+[Compare across authors](../../compare/?t=film-green-street-hooligans-3-never-back-down_182873)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 30m • Action, Drama • mobe1969**

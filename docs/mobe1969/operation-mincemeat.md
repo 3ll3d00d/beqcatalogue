@@ -1,5 +1,7 @@
 # Operation Mincemeat
 
+[Compare across authors](../../compare/?t=film-operation-mincemeat_661231)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 2h 8m • War, History, Drama • mobe1969**

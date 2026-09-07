@@ -1,5 +1,7 @@
 # Arsenal
 
+[Compare across authors](../../compare/?t=film-arsenal_388202)
+
 ## DTS-HD MA 5.1
 
 **2017 • 18 • 1h 32m • Action, Thriller, Crime • mobe1969**

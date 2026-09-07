@@ -1,5 +1,7 @@
 # Case 39
 
+[Compare across authors](../../compare/?t=film-case-39_28355)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 49m • Horror, Mystery, Thriller • mobe1969**

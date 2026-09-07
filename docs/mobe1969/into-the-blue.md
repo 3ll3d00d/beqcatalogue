@@ -1,5 +1,7 @@
 # Into the Blue
 
+[Compare across authors](../../compare/?t=film-into-the-blue_11968)
+
 ## DD+ 5.1
 
 **2005 • PG-13 • 1h 50m • Action, Thriller, Adventure, Crime • mobe1969**

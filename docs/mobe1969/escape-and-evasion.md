@@ -1,5 +1,7 @@
 # Escape and Evasion
 
+[Compare across authors](../../compare/?t=film-escape-and-evasion_520939)
+
 ## DD+ 5.1
 
 **2019 • 18 • 1h 32m • Drama, War • mobe1969**

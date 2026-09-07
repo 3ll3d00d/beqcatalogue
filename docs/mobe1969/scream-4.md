@@ -1,5 +1,7 @@
 # Scream 4
 
+[Compare across authors](../../compare/?t=film-scream-4_41446)
+
 ## DTS-HD MA 5.1, DD 5.1
 
 **2011 • R • 1h 51m • Horror, Mystery • mobe1969**

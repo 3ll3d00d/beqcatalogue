@@ -1,5 +1,7 @@
 # Mowgli: Legend of the Jungle
 
+[Compare across authors](../../compare/?t=film-mowgli-legend-of-the-jungle_407436)
+
 ## DD+ Atmos
 
 **2018 • PG-13 • 1h 45m • Adventure, Drama • mobe1969**

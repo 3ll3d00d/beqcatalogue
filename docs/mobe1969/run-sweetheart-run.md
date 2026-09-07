@@ -1,5 +1,7 @@
 # Run Sweetheart Run
 
+[Compare across authors](../../compare/?t=film-run-sweetheart-run_532870)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 43m • Horror, Thriller • mobe1969**

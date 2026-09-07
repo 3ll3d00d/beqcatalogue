@@ -1,5 +1,7 @@
 # Texas Killing Fields
 
+[Compare across authors](../../compare/?t=film-texas-killing-fields_72477)
+
 ## TrueHD 7.1
 
 **2011 • R • 1h 45m • Drama, Thriller, Crime, Mystery • mobe1969**

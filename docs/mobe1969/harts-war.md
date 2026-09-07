@@ -1,5 +1,7 @@
 # Hart's War
 
+[Compare across authors](../../compare/?t=film-harts-war_10592)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 2h 5m • Drama, War • mobe1969**

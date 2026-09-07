@@ -1,5 +1,7 @@
 # Madras Cafe
 
+[Compare across authors](../../compare/?t=film-madras-cafe_215776)
+
 ## DD+ 5.1
 
 **2013 • NR • 2h 8m • Hindi • Thriller, Drama, Action • mobe1969**

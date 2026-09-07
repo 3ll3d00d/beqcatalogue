@@ -1,5 +1,7 @@
 # Shaun the Sheep Movie
 
+[Compare across authors](../../compare/?t=film-shaun-the-sheep-movie_263109)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG • 1h 25m • Family, Animation, Comedy, Adventure • mobe1969**

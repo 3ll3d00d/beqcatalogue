@@ -1,5 +1,7 @@
 # Bhool Bhulaiyaa 2
 
+[Compare across authors](../../compare/?t=film-bhool-bhulaiyaa-2_695962)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 22m • Hindi • Horror, Comedy • mobe1969**

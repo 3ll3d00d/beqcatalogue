@@ -1,5 +1,7 @@
 # Tales From The Dark 2
 
+[Compare across authors](../../compare/?t=film-tales-from-the-dark-2_222832)
+
 ## DD+ 2.0
 
 **2013 • NR • 1h 30m • Cantonese • Horror • mobe1969**

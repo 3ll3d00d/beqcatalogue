@@ -1,5 +1,7 @@
 # Greyhound
 
+[Compare across authors](../../compare/?t=film-greyhound_516486)
+
 ## DD+ Atmos
 
 **2020 • PG-13 • 1h 31m • War, Action, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The Woman King
 
+[Compare across authors](../../compare/?t=film-the-woman-king_724495)
+
 ## DD+ Atmos, DD+ 7.1
 
 **2022 • PG-13 • 2h 15m • Action, Drama, History • mobe1969**

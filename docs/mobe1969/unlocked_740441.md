@@ -1,5 +1,7 @@
 # Unlocked
 
+[Compare across authors](../../compare/?t=film-unlocked_740441)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 57m • Korean • Thriller, Mystery • mobe1969**

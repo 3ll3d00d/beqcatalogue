@@ -1,5 +1,7 @@
 # Fatman
 
+[Compare across authors](../../compare/?t=film-fatman_602211)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 40m • Action, Comedy, Fantasy • mobe1969**

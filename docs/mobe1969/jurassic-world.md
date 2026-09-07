@@ -1,5 +1,7 @@
 # Jurassic World
 
+[Compare across authors](../../compare/?t=film-jurassic-world_135397)
+
 ## DTS-HD MA 7.1
 
 **2015 • PG-13 • 2h 4m • Action, Adventure, Science Fiction, Thriller • mobe1969**

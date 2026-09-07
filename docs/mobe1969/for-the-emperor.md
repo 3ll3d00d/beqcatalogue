@@ -1,5 +1,7 @@
 # For the Emperor
 
+[Compare across authors](../../compare/?t=film-for-the-emperor_280019)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 44m • Korean • Action, Crime, Thriller • mobe1969**

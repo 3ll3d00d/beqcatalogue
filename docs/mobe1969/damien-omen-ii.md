@@ -1,5 +1,7 @@
 # Damien: Omen II
 
+[Compare across authors](../../compare/?t=film-damien-omen-ii_10766)
+
 ## DTS-HD MA 5.1
 
 **1978 • R • 1h 47m • Horror • mobe1969**

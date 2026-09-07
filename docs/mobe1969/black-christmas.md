@@ -1,5 +1,7 @@
 # Black Christmas
 
+[Compare across authors](../../compare/?t=film-black-christmas_16938)
+
 ## DTS-HD MA 5.1
 
 **1974 • R • 1h 38m • Horror, Mystery, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Do-Over
 
+[Compare across authors](../../compare/?t=film-the-do-over_389053)
+
 ## DD+ 5.1
 
 **2016 • PG-13 • 1h 48m • Action, Adventure, Comedy • mobe1969**

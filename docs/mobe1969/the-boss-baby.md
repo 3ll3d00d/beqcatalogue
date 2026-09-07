@@ -1,5 +1,7 @@
 # The Boss Baby
 
+[Compare across authors](../../compare/?t=film-the-boss-baby_295693)
+
 ## DTS-HD MA 7.1
 
 **2017 • PG • 1h 37m • Animation, Comedy, Family • mobe1969**

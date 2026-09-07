@@ -1,5 +1,7 @@
 # Legend of the Millennium Dragon
 
+[Compare across authors](../../compare/?t=film-legend-of-the-millennium-dragon_74842)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 38m • Japanese • Adventure, Fantasy, Animation, Science Fiction • mobe1969**

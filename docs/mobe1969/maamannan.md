@@ -1,5 +1,7 @@
 # Maamannan
 
+[Compare across authors](../../compare/?t=film-maamannan_906223)
+
 ## DD+ 5.1
 
 **2023 • 15 • 2h 36m • Tamil • Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Cat People
 
+[Compare across authors](../../compare/?t=film-cat-people_6217)
+
 ## DTS-HD MA 5.1
 
 UHD

@@ -1,5 +1,7 @@
 # Black Adam
 
+[Compare across authors](../../compare/?t=film-black-adam_436270)
+
 ## Atmos, DD+ Atmos, DD+ 5.1
 
 **2022 • PG-13 • 2h 5m • Action, Fantasy, Science Fiction • mobe1969**

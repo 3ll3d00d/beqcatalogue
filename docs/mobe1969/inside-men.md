@@ -1,5 +1,7 @@
 # Inside Men
 
+[Compare across authors](../../compare/?t=film-inside-men_293413)
+
 ## TrueHD 5.1
 
 **2015 • NR • 2h 10m • Korean • Drama, Crime, Action • mobe1969**

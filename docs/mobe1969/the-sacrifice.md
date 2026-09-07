@@ -1,5 +1,7 @@
 # The Sacrifice
 
+[Compare across authors](../../compare/?t=film-the-sacrifice_748685)
+
 ## TrueHD 5.1
 
 **2020 • NR • 2h 2m • Mandarin • War, History, Action • mobe1969**

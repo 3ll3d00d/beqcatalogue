@@ -1,5 +1,7 @@
 # The Bling Ring
 
+[Compare across authors](../../compare/?t=film-the-bling-ring_96936)
+
 ## DD+ 5.1
 
 **2013 • R • 1h 30m • Drama, Crime • mobe1969**

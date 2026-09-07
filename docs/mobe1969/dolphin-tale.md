@@ -1,5 +1,7 @@
 # Dolphin Tale
 
+[Compare across authors](../../compare/?t=film-dolphin-tale_62837)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG • 1h 53m • Drama, Family • mobe1969**

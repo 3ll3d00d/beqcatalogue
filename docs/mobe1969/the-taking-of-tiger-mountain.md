@@ -1,5 +1,7 @@
 # The Taking of Tiger Mountain
 
+[Compare across authors](../../compare/?t=film-the-taking-of-tiger-mountain_294992)
+
 ## TrueHD 5.1
 
 **2014 • 16 • 2h 21m • Mandarin • Thriller, War, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Hulk
 
+[Compare across authors](../../compare/?t=film-hulk_1927)
+
 ## DTS-X
 
 **2003 • PG-13 • 2h 18m • Science Fiction, Action • mobe1969**

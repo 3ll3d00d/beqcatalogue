@@ -1,5 +1,7 @@
 # National Treasure: Book of Secrets
 
+[Compare across authors](../../compare/?t=film-national-treasure-book-of-secrets_6637)
+
 ## DD+ Atmos
 
 **2007 • PG • 2h 4m • Action, Adventure, Mystery, Thriller • mobe1969**

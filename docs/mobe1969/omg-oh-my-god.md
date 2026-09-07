@@ -1,5 +1,7 @@
 # OMG: Oh My God!
 
+[Compare across authors](../../compare/?t=film-omg-oh-my-god_135718)
+
 ## DD+ 5.1
 
 **2012 • NR • 2h 5m • Hindi • Comedy, Drama, Fantasy • mobe1969**

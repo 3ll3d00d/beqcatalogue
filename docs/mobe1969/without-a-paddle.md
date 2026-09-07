@@ -1,5 +1,7 @@
 # Without a Paddle
 
+[Compare across authors](../../compare/?t=film-without-a-paddle_10762)
+
 ## DD+ 5.1
 
 **2004 • PG-13 • 1h 35m • Comedy, Action, Adventure, Thriller • mobe1969**

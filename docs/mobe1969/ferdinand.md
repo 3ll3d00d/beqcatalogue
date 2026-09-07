@@ -1,5 +1,7 @@
 # Ferdinand
 
+[Compare across authors](../../compare/?t=film-ferdinand_364689)
+
 ## Atmos
 
 **2017 • PG • 1h 48m • Animation, Family, Adventure, Comedy • mobe1969**

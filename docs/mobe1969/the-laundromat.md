@@ -1,5 +1,7 @@
 # The Laundromat
 
+[Compare across authors](../../compare/?t=film-the-laundromat_517909)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 36m • Drama, Crime, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Running Out of Time
 
+[Compare across authors](../../compare/?t=film-running-out-of-time_2463)
+
 ## TrueHD 7.1
 
 **1999 • NR • 1h 33m • Cantonese • Drama, Action, Thriller, Crime • mobe1969**

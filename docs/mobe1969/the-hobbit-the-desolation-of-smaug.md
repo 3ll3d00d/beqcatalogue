@@ -1,5 +1,7 @@
 # The Hobbit: The Desolation of Smaug
 
+[Compare across authors](../../compare/?t=film-the-hobbit-the-desolation-of-smaug_57158)
+
 ## Atmos
 
 Theatrical Cut

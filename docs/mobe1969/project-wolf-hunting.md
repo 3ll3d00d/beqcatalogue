@@ -1,5 +1,7 @@
 # Project Wolf Hunting
 
+[Compare across authors](../../compare/?t=film-project-wolf-hunting_799379)
+
 ## DTS-HD MA 5.1
 
 **2022 • 18 • 2h 2m • Korean • Action, Thriller, Horror • mobe1969**

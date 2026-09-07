@@ -1,5 +1,7 @@
 # On the Line
 
+[Compare across authors](../../compare/?t=film-on-the-line_644714)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 49m • Korean • Action, Crime, Drama • mobe1969**

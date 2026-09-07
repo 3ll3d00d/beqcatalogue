@@ -1,5 +1,7 @@
 # The Incredible Burt Wonderstone
 
+[Compare across authors](../../compare/?t=film-the-incredible-burt-wonderstone_124459)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 40m • Comedy • mobe1969**

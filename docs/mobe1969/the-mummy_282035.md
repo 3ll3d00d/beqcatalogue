@@ -1,5 +1,7 @@
 # The Mummy
 
+[Compare across authors](../../compare/?t=film-the-mummy_282035)
+
 ## Atmos, DD+ 5.1
 
 **2017 • PG-13 • 1h 50m • Fantasy, Thriller, Action, Adventure, Horror • mobe1969**

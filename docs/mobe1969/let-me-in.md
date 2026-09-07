@@ -1,5 +1,7 @@
 # Let Me In
 
+[Compare across authors](../../compare/?t=film-let-me-in_41402)
+
 ## TrueHD 5.1
 
 **2010 • R • 1h 56m • Horror, Drama, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Abominable
 
+[Compare across authors](../../compare/?t=film-abominable_431580)
+
 ## Atmos
 
 **2019 • PG • 1h 37m • Family, Animation, Adventure, Comedy • mobe1969**

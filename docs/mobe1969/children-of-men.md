@@ -1,5 +1,7 @@
 # Children of Men
 
+[Compare across authors](../../compare/?t=film-children-of-men_9693)
+
 ## DTS-HD MA 5.1
 
 **2006 • R • 1h 49m • Drama, Action, Thriller, Science Fiction • mobe1969**

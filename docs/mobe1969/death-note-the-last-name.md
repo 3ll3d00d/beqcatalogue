@@ -1,5 +1,7 @@
 # Death Note: The Last Name
 
+[Compare across authors](../../compare/?t=film-death-note-the-last-name_16140)
+
 ## DTS-HD MA 5.1
 
 **2006 • 12A • 2h 21m • Japanese • Fantasy, Thriller, Mystery • mobe1969**

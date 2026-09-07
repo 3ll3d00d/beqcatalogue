@@ -1,5 +1,7 @@
 # The Order
 
+[Compare across authors](../../compare/?t=film-the-order_37632)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 1h 29m • Adventure, Comedy, Action • mobe1969**

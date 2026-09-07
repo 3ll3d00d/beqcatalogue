@@ -1,5 +1,7 @@
 # Blood Brother
 
+[Compare across authors](../../compare/?t=film-blood-brother_552858)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 30m • Crime, Action, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The Blob
 
+[Compare across authors](../../compare/?t=film-the-blob_9599)
+
 ## DTS-HD MA 5.1
 
 **1988 • R • 1h 35m • Horror, Science Fiction • mobe1969**

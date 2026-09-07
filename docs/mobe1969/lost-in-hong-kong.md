@@ -1,5 +1,7 @@
 # Lost in Hong Kong
 
+[Compare across authors](../../compare/?t=film-lost-in-hong-kong_361613)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 54m • Cantonese • Comedy • mobe1969**

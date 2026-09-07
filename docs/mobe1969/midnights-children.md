@@ -1,5 +1,7 @@
 # Midnight's Children
 
+[Compare across authors](../../compare/?t=film-midnights-children_121598)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 2h 28m • Drama • mobe1969**

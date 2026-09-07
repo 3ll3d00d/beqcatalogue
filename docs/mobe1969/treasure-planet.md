@@ -1,5 +1,7 @@
 # Treasure Planet
 
+[Compare across authors](../../compare/?t=film-treasure-planet_9016)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG • 1h 35m • Adventure, Animation, Family, Fantasy, Science Fiction • mobe1969**

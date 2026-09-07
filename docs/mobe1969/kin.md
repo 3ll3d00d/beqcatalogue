@@ -1,5 +1,7 @@
 # Kin
 
+[Compare across authors](../../compare/?t=film-kin_425505)
+
 ## Atmos
 
 **2018 • PG-13 • 1h 42m • Science Fiction, Action • mobe1969**

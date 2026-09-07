@@ -1,5 +1,7 @@
 # Fear Street: 1994
 
+[Compare across authors](../../compare/?t=film-fear-street-1994_591273)
+
 ## DD+ Atmos
 
 **2021 • R • 1h 47m • Mystery, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Speckles: The Tarbosaurus
 
+[Compare across authors](../../compare/?t=film-speckles-the-tarbosaurus_128475)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 28m • Korean • Animation, Adventure, Science Fiction • mobe1969**

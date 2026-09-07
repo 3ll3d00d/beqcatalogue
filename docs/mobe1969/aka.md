@@ -1,5 +1,7 @@
 # AKA
 
+[Compare across authors](../../compare/?t=film-aka_1102776)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 2m • French • Crime, Action, Thriller • mobe1969**

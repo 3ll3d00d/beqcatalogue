@@ -1,5 +1,7 @@
 # Kickboxer: Vengeance
 
+[Compare across authors](../../compare/?t=film-kickboxer-vengeance_308529)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 30m • Drama, Action • mobe1969**

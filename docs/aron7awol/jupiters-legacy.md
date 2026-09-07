@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-jupiters-legacy_93484)
+
 ## Season 1
 
 * DD+ Atmos

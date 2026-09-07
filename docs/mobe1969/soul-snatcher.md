@@ -1,5 +1,7 @@
 # Soul Snatcher
 
+[Compare across authors](../../compare/?t=film-soul-snatcher_755594)
+
 ## TrueHD 5.1
 
 **2021 • NR • 2h 5m • Mandarin • Comedy, Fantasy • mobe1969**

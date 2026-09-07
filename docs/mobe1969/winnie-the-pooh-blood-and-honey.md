@@ -1,5 +1,7 @@
 # Winnie the Pooh: Blood and Honey
 
+[Compare across authors](../../compare/?t=film-winnie-the-pooh-blood-and-honey_980078)
+
 ## DTS-HD 5.1
 
 **2023 • NR • 1h 24m • Horror, Thriller • mobe1969**

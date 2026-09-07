@@ -1,5 +1,7 @@
 # Guilt
 
+[Compare across authors](../../compare/?t=film-guilt_741018)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 42m • Thriller • mobe1969**

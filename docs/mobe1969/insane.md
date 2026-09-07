@@ -1,5 +1,7 @@
 # Insane
 
+[Compare across authors](../../compare/?t=film-insane_393070)
+
 ## TrueHD 5.1
 
 **2016 • NR • 1h 31m • Korean • Mystery, Thriller • mobe1969**

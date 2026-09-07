@@ -1,5 +1,7 @@
 # Outrage
 
+[Compare across authors](../../compare/?t=film-outrage_45284)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 49m • Japanese • Action, Crime, Drama • mobe1969**

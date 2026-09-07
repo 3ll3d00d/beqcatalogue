@@ -1,5 +1,7 @@
 # Kidnap
 
+[Compare across authors](../../compare/?t=film-kidnap_293768)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 31m • Thriller, Drama • mobe1969**

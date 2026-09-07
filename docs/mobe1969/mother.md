@@ -1,5 +1,7 @@
 # mother!
 
+[Compare across authors](../../compare/?t=film-mother_381283)
+
 ## Atmos
 
 **2017 • R • 2h 1m • Drama, Horror, Mystery • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-jungle_208120)
+
 ## Season 1
 
 * DD+ 5.1

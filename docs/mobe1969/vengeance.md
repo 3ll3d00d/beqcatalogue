@@ -1,5 +1,7 @@
 # Vengeance
 
+[Compare across authors](../../compare/?t=film-vengeance_18899)
+
 ## DTS-HD MA 5.1
 
 **2009 • NR • 1h 48m • Thriller, Action • mobe1969**

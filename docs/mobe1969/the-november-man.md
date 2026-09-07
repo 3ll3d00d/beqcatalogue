@@ -1,5 +1,7 @@
 # The November Man
 
+[Compare across authors](../../compare/?t=film-the-november-man_254904)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 48m • Crime, Action, Thriller • mobe1969**

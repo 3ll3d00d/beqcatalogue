@@ -1,5 +1,7 @@
 # In Fear
 
+[Compare across authors](../../compare/?t=film-in-fear_159095)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 25m • Thriller • mobe1969**

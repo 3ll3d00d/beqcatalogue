@@ -1,5 +1,7 @@
 # ParaNorman
 
+[Compare across authors](../../compare/?t=film-paranorman_77174)
+
 ## Atmos
 
 **2012 • PG • 1h 30m • Family, Animation, Adventure, Comedy • mobe1969**

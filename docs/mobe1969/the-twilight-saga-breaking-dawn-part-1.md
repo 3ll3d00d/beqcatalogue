@@ -1,5 +1,7 @@
 # The Twilight Saga: Breaking Dawn - Part 1
 
+[Compare across authors](../../compare/?t=film-the-twilight-saga-breaking-dawn-part-1_50619)
+
 ## DD+ 5.1
 
 **2011 • PG-13 • 1h 57m • Adventure, Fantasy, Romance • mobe1969**

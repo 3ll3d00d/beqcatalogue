@@ -1,5 +1,7 @@
 # Gridiron Gang
 
+[Compare across authors](../../compare/?t=film-gridiron-gang_9766)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 2h 5m • Action, Drama • mobe1969**

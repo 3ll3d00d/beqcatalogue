@@ -1,5 +1,7 @@
 # Into the White
 
+[Compare across authors](../../compare/?t=film-into-the-white_78215)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 40m • War, Action, Drama • mobe1969**

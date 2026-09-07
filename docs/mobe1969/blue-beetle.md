@@ -1,5 +1,7 @@
 # Blue Beetle
 
+[Compare across authors](../../compare/?t=film-blue-beetle_565770)
+
 ## Atmos
 
 **2023 • PG-13 • 2h 8m • Action, Science Fiction, Adventure • mobe1969**

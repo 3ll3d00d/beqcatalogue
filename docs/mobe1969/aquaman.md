@@ -1,5 +1,7 @@
 # Aquaman
 
+[Compare across authors](../../compare/?t=film-aquaman_297802)
+
 ## Atmos
 
 **2019 • PG-13 • 2h 23m • Action, Adventure, Fantasy • mobe1969**

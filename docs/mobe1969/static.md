@@ -1,5 +1,7 @@
 # Static
 
+[Compare across authors](../../compare/?t=film-static_165567)
+
 ## DTS-HD MA 5.1
 
 **2012 • 16 • 1h 20m • Drama, Mystery, Thriller, Horror • mobe1969**

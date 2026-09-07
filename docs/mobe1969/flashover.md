@@ -1,5 +1,7 @@
 # Flashover
 
+[Compare across authors](../../compare/?t=film-flashover_949698)
+
 ## DTS-HD MA 7.1
 
 **2023 • NR • 1h 54m • Mandarin • Drama, Action • mobe1969**

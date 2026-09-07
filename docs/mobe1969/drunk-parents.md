@@ -1,5 +1,7 @@
 # Drunk Parents
 
+[Compare across authors](../../compare/?t=film-drunk-parents_369560)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 37m • Comedy • mobe1969**

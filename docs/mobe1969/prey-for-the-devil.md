@@ -1,5 +1,7 @@
 # Prey for the Devil
 
+[Compare across authors](../../compare/?t=film-prey-for-the-devil_676547)
+
 ## Atmos
 
 **2022 • PG-13 • 1h 33m • Horror, Thriller • mobe1969**

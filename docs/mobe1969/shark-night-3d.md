@@ -1,5 +1,7 @@
 # Shark Night 3D
 
+[Compare across authors](../../compare/?t=film-shark-night-3d_65055)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 31m • Horror, Thriller • mobe1969**

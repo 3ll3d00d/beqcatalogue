@@ -1,5 +1,7 @@
 # Deadlock
 
+[Compare across authors](../../compare/?t=film-deadlock_718949)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 36m • Action, Thriller • mobe1969**

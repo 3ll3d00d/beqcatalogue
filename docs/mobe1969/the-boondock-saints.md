@@ -1,5 +1,7 @@
 # The Boondock Saints
 
+[Compare across authors](../../compare/?t=film-the-boondock-saints_8374)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 48m • Action, Thriller, Crime • mobe1969**

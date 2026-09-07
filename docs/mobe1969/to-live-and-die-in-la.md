@@ -1,5 +1,7 @@
 # To Live and Die in L.A.
 
+[Compare across authors](../../compare/?t=film-to-live-and-die-in-la_9846)
+
 ## DTS-HD MA 5.1
 
 **1985 • R • 1h 56m • Crime, Thriller, Action • mobe1969**

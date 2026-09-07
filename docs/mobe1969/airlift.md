@@ -1,5 +1,7 @@
 # Airlift
 
+[Compare across authors](../../compare/?t=film-airlift_375290)
+
 ## Atmos, DTS-EX 5.1
 
 **2016 • NR • 2h 6m • Hindi • Drama, History, Action • mobe1969**

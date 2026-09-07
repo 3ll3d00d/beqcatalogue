@@ -1,5 +1,7 @@
 # Spenser Confidential
 
+[Compare across authors](../../compare/?t=film-spenser-confidential_581600)
+
 ## Atmos
 
 **2020 • R • 1h 50m • Comedy, Action, Thriller • mobe1969**

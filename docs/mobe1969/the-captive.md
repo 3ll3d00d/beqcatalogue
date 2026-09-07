@@ -1,5 +1,7 @@
 # The Captive
 
+[Compare across authors](../../compare/?t=film-the-captive_244761)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 52m • Drama, Thriller, Crime • mobe1969**

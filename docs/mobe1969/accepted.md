@@ -1,5 +1,7 @@
 # Accepted
 
+[Compare across authors](../../compare/?t=film-accepted_9788)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 1h 33m • Comedy • mobe1969**

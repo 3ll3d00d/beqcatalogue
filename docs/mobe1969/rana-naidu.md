@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-rana-naidu_203202)
+
 ## Season 1
 
 * DD+ Atmos, DD+ 5.1

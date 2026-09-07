@@ -1,5 +1,7 @@
 # Pitch Black
 
+[Compare across authors](../../compare/?t=film-pitch-black_2787)
+
 ## Atmos
 
 Director's Cut

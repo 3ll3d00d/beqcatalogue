@@ -1,5 +1,7 @@
 # Hellbound: Hellraiser II
 
+[Compare across authors](../../compare/?t=film-hellbound-hellraiser-ii_9064)
+
 ## DTS-HD MA 5.1
 
 **1988 • R • 1h 37m • Horror, Thriller • mobe1969**

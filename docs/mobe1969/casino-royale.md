@@ -1,5 +1,7 @@
 # Casino Royale
 
+[Compare across authors](../../compare/?t=film-casino-royale_36557)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2006 • PG-13 • 2h 24m • Adventure, Action, Thriller • mobe1969**

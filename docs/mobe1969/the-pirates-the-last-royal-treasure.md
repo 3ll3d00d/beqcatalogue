@@ -1,5 +1,7 @@
 # The Pirates: The Last Royal Treasure
 
+[Compare across authors](../../compare/?t=film-the-pirates-the-last-royal-treasure_591120)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 6m • Korean • Action, Adventure, Comedy, History • mobe1969**

@@ -1,5 +1,7 @@
 # The Lovebirds
 
+[Compare across authors](../../compare/?t=film-the-lovebirds_576156)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 27m • Comedy, Action, Romance • mobe1969**

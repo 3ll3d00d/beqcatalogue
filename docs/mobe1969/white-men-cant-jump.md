@@ -1,5 +1,7 @@
 # White Men Can't Jump
 
+[Compare across authors](../../compare/?t=film-white-men-cant-jump_920125)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 41m • Comedy, Drama • mobe1969**

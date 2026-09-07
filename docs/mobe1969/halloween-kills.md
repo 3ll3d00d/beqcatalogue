@@ -1,5 +1,7 @@
 # Halloween Kills
 
+[Compare across authors](../../compare/?t=film-halloween-kills_610253)
+
 ## Atmos
 
 Extended Cut

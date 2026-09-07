@@ -1,5 +1,7 @@
 # Bleeding Heart
 
+[Compare across authors](../../compare/?t=film-bleeding-heart_332706)
+
 ## DTS-HD MA 5.1
 
 **2015 • 15 • 1h 20m • Thriller, Drama • mobe1969**

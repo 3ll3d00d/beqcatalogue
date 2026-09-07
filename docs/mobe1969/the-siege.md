@@ -1,5 +1,7 @@
 # The Siege
 
+[Compare across authors](../../compare/?t=film-the-siege_9882)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 56m • Crime, Action, Drama, Thriller • mobe1969**

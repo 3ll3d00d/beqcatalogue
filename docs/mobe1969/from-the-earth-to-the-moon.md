@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-from-the-earth-to-the-moon_3556)
+
 ## Season 1 Episode 1
 
 * Atmos

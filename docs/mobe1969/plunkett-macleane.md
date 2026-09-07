@@ -1,5 +1,7 @@
 # Plunkett & Macleane
 
+[Compare across authors](../../compare/?t=film-plunkett-macleane_10381)
+
 ## LPCM 5.1
 
 **1999 • R • 1h 33m • Drama, Action, Comedy • mobe1969**

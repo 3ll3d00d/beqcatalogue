@@ -1,5 +1,7 @@
 # Ghost in the Shell Arise - Border 1: Ghost Pain
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell-arise-border-1-ghost-pain_196750)
+
 ## TrueHD 5.1
 
 **2013 • R • 0h 58m • Japanese • Action, Animation, Crime, Science Fiction • mobe1969**

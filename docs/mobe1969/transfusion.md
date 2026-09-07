@@ -1,5 +1,7 @@
 # Transfusion
 
+[Compare across authors](../../compare/?t=film-transfusion_842544)
+
 ## DTS-HD MA 5.1
 
 **2023 • 18 • 1h 45m • Crime, Thriller, Drama • mobe1969**

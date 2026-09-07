@@ -1,5 +1,7 @@
 # Extraterrestrial
 
+[Compare across authors](../../compare/?t=film-extraterrestrial_265016)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 41m • Horror, Science Fiction • mobe1969**

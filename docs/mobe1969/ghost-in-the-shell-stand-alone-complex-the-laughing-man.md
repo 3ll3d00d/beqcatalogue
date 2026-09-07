@@ -1,5 +1,7 @@
 # Ghost in the Shell: Stand Alone Complex - The Laughing Man
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell-stand-alone-complex-the-laughing-man_18839)
+
 ## TrueHD 5.1
 
 **2005 • PG • 2h 40m • Japanese • Science Fiction, Animation, Action, Crime • mobe1969**

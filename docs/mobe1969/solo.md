@@ -1,5 +1,7 @@
 # Solo
 
+[Compare across authors](../../compare/?t=film-solo_224950)
+
 ## DD+ 5.1
 
 **2013 • NR • 1h 23m • Horror, Thriller • mobe1969**

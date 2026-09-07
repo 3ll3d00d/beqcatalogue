@@ -1,5 +1,7 @@
 # Doctor Who: Dark Water / Death in Heaven
 
+[Compare across authors](../../compare/?t=film-doctor-who-dark-water-death-in-heaven_357118)
+
 ## Atmos
 
 **2014 • NR • 1h 44m • Science Fiction, Drama, Mystery • mobe1969**

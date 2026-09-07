@@ -1,5 +1,7 @@
 # Come Out Fighting
 
+[Compare across authors](../../compare/?t=film-come-out-fighting_1047925)
+
 ## DTS-HD MA 5.1
 
 **2023 • NR • 1h 35m • War, Drama, Action • mobe1969**

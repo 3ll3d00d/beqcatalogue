@@ -1,5 +1,7 @@
 # Red Planet
 
+[Compare across authors](../../compare/?t=film-red-planet_8870)
+
 ## DTS-HD MA 5.1
 
 **2000 • PG-13 • 1h 46m • Science Fiction, Action, Thriller • mobe1969**

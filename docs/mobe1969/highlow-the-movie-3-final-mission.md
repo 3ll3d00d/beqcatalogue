@@ -1,5 +1,7 @@
 # HiGH&LOW The Movie 3: Final Mission
 
+[Compare across authors](../../compare/?t=film-highlow-the-movie-3-final-mission_525831)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 58m • Japanese • Action, Drama • mobe1969**

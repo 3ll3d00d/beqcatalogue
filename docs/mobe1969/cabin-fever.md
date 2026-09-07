@@ -1,5 +1,7 @@
 # Cabin Fever
 
+[Compare across authors](../../compare/?t=film-cabin-fever_11547)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 1h 33m • Horror • mobe1969**

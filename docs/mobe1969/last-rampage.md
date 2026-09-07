@@ -1,5 +1,7 @@
 # Last Rampage
 
+[Compare across authors](../../compare/?t=film-last-rampage_423414)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 33m • Drama, Crime, Thriller • mobe1969**

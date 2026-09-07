@@ -1,5 +1,7 @@
 # The Babysitter
 
+[Compare across authors](../../compare/?t=film-the-babysitter_419479)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 25m • Horror, Comedy • mobe1969**

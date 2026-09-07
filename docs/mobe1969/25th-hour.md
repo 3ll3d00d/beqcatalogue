@@ -1,5 +1,7 @@
 # 25th Hour
 
+[Compare across authors](../../compare/?t=film-25th-hour_1429)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 2h 15m • Crime, Drama • mobe1969**

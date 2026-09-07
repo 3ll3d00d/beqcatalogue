@@ -1,5 +1,7 @@
 # Teenage Mutant Ninja Turtles
 
+[Compare across authors](../../compare/?t=film-teenage-mutant-ninja-turtles_1498)
+
 ## DD+ 5.1
 
 **1990 • PG • 1h 33m • Science Fiction, Action, Adventure, Comedy, Family • mobe1969**

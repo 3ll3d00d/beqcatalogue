@@ -1,5 +1,7 @@
 # Ocean's Thirteen
 
+[Compare across authors](../../compare/?t=film-oceans-thirteen_298)
+
 ## DD 5.1
 
 **2007 • PG-13 • 2h 2m • Crime, Thriller • mobe1969**

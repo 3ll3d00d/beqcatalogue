@@ -1,5 +1,7 @@
 # Don't Look Up
 
+[Compare across authors](../../compare/?t=film-dont-look-up_646380)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • R • 2h 18m • Comedy, Drama, Science Fiction • mobe1969**

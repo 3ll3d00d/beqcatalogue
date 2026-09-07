@@ -1,5 +1,7 @@
 # Paint
 
+[Compare across authors](../../compare/?t=film-paint_821890)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 36m • Comedy, Drama • mobe1969**

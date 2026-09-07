@@ -1,5 +1,7 @@
 # The Next Generation Patlabor: Tokyo War
 
+[Compare across authors](../../compare/?t=film-the-next-generation-patlabor-tokyo-war_254538)
+
 ## Atmos
 
 **2015 • 12 • 1h 59m • Japanese • Action, Science Fiction • mobe1969**

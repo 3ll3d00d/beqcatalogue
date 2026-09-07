@@ -1,5 +1,7 @@
 # Malevolent
 
+[Compare across authors](../../compare/?t=film-malevolent_481375)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 29m • Horror • mobe1969**

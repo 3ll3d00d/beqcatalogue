@@ -1,5 +1,7 @@
 # Army of One
 
+[Compare across authors](../../compare/?t=film-army-of-one_768939)
+
 ## DD+ 2.0
 
 **2020 • R • 1h 27m • Action • mobe1969**

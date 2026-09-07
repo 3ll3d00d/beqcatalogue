@@ -1,5 +1,7 @@
 # Breakdown
 
+[Compare across authors](../../compare/?t=film-breakdown_2163)
+
 ## DTS-HD MA 5.1
 
 **1997 • R • 1h 35m • Drama, Action, Thriller • mobe1969**

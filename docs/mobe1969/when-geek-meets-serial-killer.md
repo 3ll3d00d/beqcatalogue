@@ -1,5 +1,7 @@
 # When Geek Meets Serial Killer
 
+[Compare across authors](../../compare/?t=film-when-geek-meets-serial-killer_347078)
+
 ## TrueHD 5.1
 
 **2015 • NR • 1h 31m • Mandarin • Crime, Comedy • mobe1969**

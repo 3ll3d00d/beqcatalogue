@@ -1,5 +1,7 @@
 # The Grandmaster of Kung Fu
 
+[Compare across authors](../../compare/?t=film-the-grandmaster-of-kung-fu_799718)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 14m • Mandarin • Action • mobe1969**

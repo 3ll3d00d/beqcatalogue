@@ -1,5 +1,7 @@
 # The Cleanse
 
+[Compare across authors](../../compare/?t=film-the-cleanse_298096)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 21m • Drama, Comedy, Fantasy, Horror • mobe1969**

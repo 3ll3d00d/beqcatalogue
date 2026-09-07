@@ -1,5 +1,7 @@
 # Maleficent: Mistress of Evil
 
+[Compare across authors](../../compare/?t=film-maleficent-mistress-of-evil_420809)
+
 ## Atmos
 
 **2019 • PG • 1h 59m • Family, Fantasy, Adventure, Action • mobe1969**

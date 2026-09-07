@@ -1,5 +1,7 @@
 # Battle for Terra
 
+[Compare across authors](../../compare/?t=film-battle-for-terra_16873)
+
 ## DTS-HD MA 5.1
 
 **2007 • PG • 1h 25m • Action, Adventure, Animation, Science Fiction • mobe1969**

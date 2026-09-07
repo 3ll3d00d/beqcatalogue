@@ -1,5 +1,7 @@
 # Tanks for Stalin
 
+[Compare across authors](../../compare/?t=film-tanks-for-stalin_506750)
+
 ## DD+ 5.1
 
 **2018 • 18 • 1h 35m • Russian • War, Action, Adventure • mobe1969**

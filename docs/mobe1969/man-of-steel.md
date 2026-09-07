@@ -1,5 +1,7 @@
 # Man of Steel
 
+[Compare across authors](../../compare/?t=film-man-of-steel_49521)
+
 ## Atmos
 
 **2013 • PG-13 • 2h 23m • Action, Adventure, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Crisis
 
+[Compare across authors](../../compare/?t=film-crisis_580532)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 58m • Thriller, Crime, Drama • mobe1969**

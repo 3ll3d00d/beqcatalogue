@@ -1,5 +1,7 @@
 # Initial D
 
+[Compare across authors](../../compare/?t=film-initial-d_16411)
+
 ## LPCM 5.1
 
 **2005 • NR • 1h 47m • Cantonese • Action, Crime, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Amar Akbar Anthony
 
+[Compare across authors](../../compare/?t=film-amar-akbar-anthony_535169)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 33m • Telugu • Action, Drama • mobe1969**

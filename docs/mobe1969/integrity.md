@@ -1,5 +1,7 @@
 # Integrity
 
+[Compare across authors](../../compare/?t=film-integrity_575238)
+
 ## Atmos
 
 **2019 • NR • 1h 54m • Cantonese • Crime, Mystery, Drama, Thriller • mobe1969**

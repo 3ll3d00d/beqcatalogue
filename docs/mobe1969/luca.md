@@ -1,5 +1,7 @@
 # Luca
 
+[Compare across authors](../../compare/?t=film-luca_508943)
+
 ## Atmos
 
 **2021 • PG • 1h 35m • Animation, Comedy, Fantasy, Adventure, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Locked Down
 
+[Compare across authors](../../compare/?t=film-locked-down_741228)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 58m • Comedy, Crime, Drama • mobe1969**

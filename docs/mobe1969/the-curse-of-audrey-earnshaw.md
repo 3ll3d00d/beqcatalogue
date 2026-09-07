@@ -1,5 +1,7 @@
 # The Curse of Audrey Earnshaw
 
+[Compare across authors](../../compare/?t=film-the-curse-of-audrey-earnshaw_688343)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 33m • Horror, Drama • mobe1969**

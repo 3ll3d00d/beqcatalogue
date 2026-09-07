@@ -1,5 +1,7 @@
 # Shrek 2
 
+[Compare across authors](../../compare/?t=film-shrek-2_809)
+
 ## DTS-X
 
 **2004 • PG • 1h 33m • Animation, Family, Comedy, Fantasy, Adventure • mobe1969**

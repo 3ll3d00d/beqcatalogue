@@ -1,5 +1,7 @@
 # Enemy Lines
 
+[Compare across authors](../../compare/?t=film-enemy-lines_679796)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 32m • War, Action • mobe1969**

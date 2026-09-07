@@ -1,5 +1,7 @@
 # Bedazzled
 
+[Compare across authors](../../compare/?t=film-bedazzled_1636)
+
 ## DD+ 5.1
 
 **2000 • PG-13 • 1h 33m • Fantasy, Comedy, Romance • mobe1969**

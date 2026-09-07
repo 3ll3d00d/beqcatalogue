@@ -1,5 +1,7 @@
 # The Virtuoso
 
+[Compare across authors](../../compare/?t=film-the-virtuoso_808023)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 45m • Thriller, Action, Crime • mobe1969**

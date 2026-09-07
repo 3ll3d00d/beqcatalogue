@@ -1,5 +1,7 @@
 # Good Newwz
 
+[Compare across authors](../../compare/?t=film-good-newwz_643534)
+
 ## DD+ 5.1
 
 **2019 • 12A • 2h 12m • Hindi • Romance, Comedy, Family, Drama • mobe1969**

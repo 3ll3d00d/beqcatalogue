@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-loki_84958)
+
 ## Season 1
 
 * DD+ Atmos

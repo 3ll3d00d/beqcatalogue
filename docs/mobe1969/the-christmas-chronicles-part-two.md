@@ -1,5 +1,7 @@
 # The Christmas Chronicles: Part Two
 
+[Compare across authors](../../compare/?t=film-the-christmas-chronicles-part-two_654028)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2020 • PG • 1h 52m • Family, Fantasy, Adventure, Comedy • mobe1969**

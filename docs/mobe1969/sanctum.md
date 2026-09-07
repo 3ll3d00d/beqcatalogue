@@ -1,5 +1,7 @@
 # Sanctum
 
+[Compare across authors](../../compare/?t=film-sanctum_48340)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 48m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Lesson Plan
 
+[Compare across authors](../../compare/?t=film-lesson-plan_1049233)
+
 ## DD+ Atmos
 
 **2022 • NR • 1h 41m • Polish • Crime, Thriller • mobe1969**

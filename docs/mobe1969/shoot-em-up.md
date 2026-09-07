@@ -1,5 +1,7 @@
 # Shoot 'Em Up
 
+[Compare across authors](../../compare/?t=film-shoot-em-up_4141)
+
 ## DTS-HD MA 7.1
 
 **2007 • R • 1h 26m • Action, Crime, Thriller, Comedy • mobe1969**

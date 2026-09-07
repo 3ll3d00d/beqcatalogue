@@ -1,5 +1,7 @@
 # Unknown
 
+[Compare across authors](../../compare/?t=film-unknown_48138)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 53m • Action, Mystery, Thriller • mobe1969**

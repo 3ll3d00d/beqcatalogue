@@ -1,5 +1,7 @@
 # Time
 
+[Compare across authors](../../compare/?t=film-time_806443)
+
 ## DD+ 5.1
 
 **2021 • 12 • 1h 39m • Cantonese • Drama, Comedy • mobe1969**

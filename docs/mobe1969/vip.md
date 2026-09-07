@@ -1,5 +1,7 @@
 # V.I.P.
 
+[Compare across authors](../../compare/?t=film-vip_435601)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 2h 8m • Korean • Crime, Thriller, Action • mobe1969**

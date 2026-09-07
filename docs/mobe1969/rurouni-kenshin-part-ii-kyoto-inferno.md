@@ -1,5 +1,7 @@
 # Rurouni Kenshin Part II: Kyoto Inferno
 
+[Compare across authors](../../compare/?t=film-rurouni-kenshin-part-ii-kyoto-inferno_221731)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 2h 18m • Japanese • Action, Adventure, Drama, Fantasy • mobe1969**

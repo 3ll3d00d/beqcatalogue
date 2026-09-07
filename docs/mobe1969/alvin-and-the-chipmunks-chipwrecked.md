@@ -1,5 +1,7 @@
 # Alvin and the Chipmunks: Chipwrecked
 
+[Compare across authors](../../compare/?t=film-alvin-and-the-chipmunks-chipwrecked_55301)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2011 • G • 1h 27m • Comedy, Fantasy, Family, Music, Animation • mobe1969**

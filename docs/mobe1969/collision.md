@@ -1,5 +1,7 @@
 # Collision
 
+[Compare across authors](../../compare/?t=film-collision_975714)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 39m • Thriller, Crime • mobe1969**

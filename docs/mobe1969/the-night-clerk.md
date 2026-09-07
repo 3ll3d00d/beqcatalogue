@@ -1,5 +1,7 @@
 # The Night Clerk
 
+[Compare across authors](../../compare/?t=film-the-night-clerk_526007)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 30m • Crime, Drama, Thriller • mobe1969**

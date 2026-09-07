@@ -1,5 +1,7 @@
 # The Guillotines
 
+[Compare across authors](../../compare/?t=film-the-guillotines_167449)
+
 ## DTS-HD MA 7.1
 
 **2012 • R • 1h 53m • Mandarin • Action, History, Adventure, Drama • mobe1969**

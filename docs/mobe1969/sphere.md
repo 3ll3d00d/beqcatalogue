@@ -1,5 +1,7 @@
 # Sphere
 
+[Compare across authors](../../compare/?t=film-sphere_10153)
+
 ## TrueHD 5.1
 
 **1998 • PG-13 • 2h 14m • Science Fiction, Drama, Mystery, Horror • mobe1969**

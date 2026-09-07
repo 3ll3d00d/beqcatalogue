@@ -1,5 +1,7 @@
 # He Who Dares
 
+[Compare across authors](../../compare/?t=film-he-who-dares_233487)
+
 ## DD+ 5.1
 
 **2014 • 15 • 1h 22m • Action • mobe1969**

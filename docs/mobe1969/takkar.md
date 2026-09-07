@@ -1,5 +1,7 @@
 # Takkar
 
+[Compare across authors](../../compare/?t=film-takkar_657731)
+
 ## DD+ 5.1
 
 **2023 • 12A • 2h 18m • Tamil • Action, Romance • mobe1969**

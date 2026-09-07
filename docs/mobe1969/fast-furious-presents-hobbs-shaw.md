@@ -1,5 +1,7 @@
 # Fast & Furious Presents: Hobbs & Shaw
 
+[Compare across authors](../../compare/?t=film-fast-furious-presents-hobbs-shaw_384018)
+
 ## Atmos
 
 **2019 • PG-13 • 2h 17m • Action, Adventure, Comedy • mobe1969**

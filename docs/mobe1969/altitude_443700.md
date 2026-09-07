@@ -1,5 +1,7 @@
 # Altitude
 
+[Compare across authors](../../compare/?t=film-altitude_443700)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 26m • Action, Thriller • mobe1969**

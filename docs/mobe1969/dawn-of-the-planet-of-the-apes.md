@@ -1,5 +1,7 @@
 # Dawn of the Planet of the Apes
 
+[Compare across authors](../../compare/?t=film-dawn-of-the-planet-of-the-apes_119450)
+
 ## DTS-HD MA 7.1
 
 **2014 • PG-13 • 2h 10m • Science Fiction, Action, Drama, Thriller • mobe1969**

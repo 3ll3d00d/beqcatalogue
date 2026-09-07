@@ -1,5 +1,7 @@
 # Ad Astra
 
+[Compare across authors](../../compare/?t=film-ad-astra_419704)
+
 ## Atmos
 
 **2019 • PG-13 • 2h 3m • Science Fiction, Drama • mobe1969**

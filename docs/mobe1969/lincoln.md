@@ -1,5 +1,7 @@
 # Lincoln
 
+[Compare across authors](../../compare/?t=film-lincoln_72976)
+
 ## DTS-HD MA 7.1
 
 **2012 • PG-13 • 2h 29m • History, Drama • mobe1969**

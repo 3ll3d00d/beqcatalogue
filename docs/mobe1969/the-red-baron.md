@@ -1,5 +1,7 @@
 # The Red Baron
 
+[Compare across authors](../../compare/?t=film-the-red-baron_8349)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG-13 • 2h 0m • Action, Adventure, Drama, History, War • mobe1969**

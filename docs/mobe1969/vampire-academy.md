@@ -1,5 +1,7 @@
 # Vampire Academy
 
+[Compare across authors](../../compare/?t=film-vampire-academy_203739)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 44m • Comedy, Action, Fantasy • mobe1969**

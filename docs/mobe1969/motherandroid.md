@@ -1,5 +1,7 @@
 # Mother/Android
 
+[Compare across authors](../../compare/?t=film-motherandroid_739413)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 50m • Science Fiction, Thriller • mobe1969**

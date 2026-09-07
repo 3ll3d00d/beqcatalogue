@@ -1,5 +1,7 @@
 # The Saint
 
+[Compare across authors](../../compare/?t=film-the-saint_10003)
+
 ## TrueHD 5.1
 
 **1997 • PG-13 • 1h 56m • Thriller, Action, Romance, Science Fiction, Adventure • mobe1969**

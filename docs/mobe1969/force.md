@@ -1,5 +1,7 @@
 # Force
 
+[Compare across authors](../../compare/?t=film-force_75745)
+
 ## DD 5.1
 
 **2011 • R • 2h 17m • Hindi • Action, Crime, Drama, Thriller • mobe1969**

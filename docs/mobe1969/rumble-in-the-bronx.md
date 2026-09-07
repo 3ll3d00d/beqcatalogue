@@ -1,5 +1,7 @@
 # Rumble in the Bronx
 
+[Compare across authors](../../compare/?t=film-rumble-in-the-bronx_33542)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 1h 44m • Crime, Action, Comedy, Thriller • mobe1969**

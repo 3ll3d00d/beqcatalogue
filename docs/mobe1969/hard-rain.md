@@ -1,5 +1,7 @@
 # Hard Rain
 
+[Compare across authors](../../compare/?t=film-hard-rain_11258)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 37m • Thriller, Crime, Action • mobe1969**

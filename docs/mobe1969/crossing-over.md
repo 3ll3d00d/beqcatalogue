@@ -1,5 +1,7 @@
 # Crossing Over
 
+[Compare across authors](../../compare/?t=film-crossing-over_15577)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 53m • Drama, Crime • mobe1969**

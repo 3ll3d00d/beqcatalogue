@@ -1,5 +1,7 @@
 # Gambit
 
+[Compare across authors](../../compare/?t=film-gambit_97434)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 29m • Comedy, Crime • mobe1969**

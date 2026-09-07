@@ -1,5 +1,7 @@
 # Solo: A Star Wars Story
 
+[Compare across authors](../../compare/?t=film-solo-a-star-wars-story_348350)
+
 ## Atmos
 
 **2018 • PG-13 • 2h 15m • Science Fiction, Adventure, Action • mobe1969**

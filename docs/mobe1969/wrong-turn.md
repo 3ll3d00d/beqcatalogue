@@ -1,5 +1,7 @@
 # Wrong Turn
 
+[Compare across authors](../../compare/?t=film-wrong-turn_9902)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 24m • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Megalodon Rising
 
+[Compare across authors](../../compare/?t=film-megalodon-rising_866462)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 26m • Action, Science Fiction • mobe1969**

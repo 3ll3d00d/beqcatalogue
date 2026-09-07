@@ -1,5 +1,7 @@
 # Cobweb
 
+[Compare across authors](../../compare/?t=film-cobweb_709631)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2023 • R • 1h 28m • Horror • mobe1969**

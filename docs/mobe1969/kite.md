@@ -1,5 +1,7 @@
 # Kite
 
+[Compare across authors](../../compare/?t=film-kite_192712)
+
 ## TrueHD 5.1
 
 **2014 • R • 1h 30m • Drama, Action • mobe1969**

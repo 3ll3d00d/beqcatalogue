@@ -1,5 +1,7 @@
 # Passion
 
+[Compare across authors](../../compare/?t=film-passion_109099)
+
 ## DTS-HD MA 5.1
 
 **2012 • 15 • 1h 40m • Drama, Thriller, Mystery, Crime • mobe1969**

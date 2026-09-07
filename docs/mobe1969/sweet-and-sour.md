@@ -1,5 +1,7 @@
 # Sweet and Sour
 
+[Compare across authors](../../compare/?t=film-sweet-and-sour_662237)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 41m • Korean • Comedy, Romance • mobe1969**

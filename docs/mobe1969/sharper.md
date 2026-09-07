@@ -1,5 +1,7 @@
 # Sharper
 
+[Compare across authors](../../compare/?t=film-sharper_717980)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 56m • Thriller, Crime, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The Three Musketeers: D'Artagnan
 
+[Compare across authors](../../compare/?t=film-the-three-musketeers-dartagnan_796185)
+
 ## Atmos
 
 **2023 • 15 • 2h 1m • French • Action, Adventure, History, Drama • mobe1969**

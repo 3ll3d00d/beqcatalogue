@@ -1,5 +1,7 @@
 # Apple Music Live: Ed Sheeran
 
+[Compare across authors](../../compare/?t=film-apple-music-live-ed-sheeran_1125575)
+
 ## DD+ Atmos
 
 **2023 • PG • 1h 9m • Music • mobe1969**

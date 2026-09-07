@@ -1,5 +1,7 @@
 # HIT: The 2nd Case
 
+[Compare across authors](../../compare/?t=film-hit-the-2nd-case_811945)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 4m • Telugu • Crime, Thriller, Action • mobe1969**

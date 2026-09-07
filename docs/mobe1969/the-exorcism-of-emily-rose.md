@@ -1,5 +1,7 @@
 # The Exorcism of Emily Rose
 
+[Compare across authors](../../compare/?t=film-the-exorcism-of-emily-rose_8643)
+
 ## TrueHD 5.1
 
 **2005 • PG-13 • 2h 2m • Horror, Thriller, Drama, Crime • mobe1969**

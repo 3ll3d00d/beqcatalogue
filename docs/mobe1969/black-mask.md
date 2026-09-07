@@ -1,5 +1,7 @@
 # Black Mask
 
+[Compare across authors](../../compare/?t=film-black-mask_9460)
+
 ## TrueHD 7.1
 
 **1996 • R • 1h 39m • Cantonese • Action • mobe1969**

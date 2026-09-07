@@ -1,5 +1,7 @@
 # Catwoman: Hunted
 
+[Compare across authors](../../compare/?t=film-catwoman-hunted_862491)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 1h 18m • Animation, Action, Crime • mobe1969**

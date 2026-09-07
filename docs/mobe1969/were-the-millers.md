@@ -1,5 +1,7 @@
 # We're the Millers
 
+[Compare across authors](../../compare/?t=film-were-the-millers_138832)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

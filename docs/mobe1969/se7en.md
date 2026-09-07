@@ -1,5 +1,7 @@
 # Se7en
 
+[Compare across authors](../../compare/?t=film-se7en_807)
+
 ## DTS-HD MA 7.1
 
 **1995 • R • 2h 7m • Crime, Mystery, Thriller • mobe1969**

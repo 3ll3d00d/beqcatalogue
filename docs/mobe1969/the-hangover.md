@@ -1,5 +1,7 @@
 # The Hangover
 
+[Compare across authors](../../compare/?t=film-the-hangover_18785)
+
 ## TrueHD 5.1
 
 Unrated Cut

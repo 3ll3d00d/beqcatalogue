@@ -1,5 +1,7 @@
 # Girl's Revenge
 
+[Compare across authors](../../compare/?t=film-girls-revenge_720851)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 21m • Mandarin • Drama • mobe1969**

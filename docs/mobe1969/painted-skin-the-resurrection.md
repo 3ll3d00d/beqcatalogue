@@ -1,5 +1,7 @@
 # Painted Skin: The Resurrection
 
+[Compare across authors](../../compare/?t=film-painted-skin-the-resurrection_124471)
+
 ## DTS-HD MA 5.1
 
 **2012 • M • 2h 11m • Mandarin • Drama, Fantasy • mobe1969**

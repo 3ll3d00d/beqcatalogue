@@ -1,5 +1,7 @@
 # The Call Up
 
+[Compare across authors](../../compare/?t=film-the-call-up_388347)
+
 ## DTS-HD MA 5.1
 
 **2016 • 15 • 1h 30m • Adventure, Action, Science Fiction • mobe1969**

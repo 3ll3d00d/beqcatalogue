@@ -1,5 +1,7 @@
 # The Son of No One
 
+[Compare across authors](../../compare/?t=film-the-son-of-no-one_74536)
+
 ## TrueHD 5.1
 
 **2011 • R • 1h 30m • Drama, Thriller, Crime • mobe1969**

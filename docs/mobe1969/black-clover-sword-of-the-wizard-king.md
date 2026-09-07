@@ -1,5 +1,7 @@
 # Black Clover: Sword of the Wizard King
 
+[Compare across authors](../../compare/?t=film-black-clover-sword-of-the-wizard-king_812225)
+
 ## DD+ 5.1
 
 **2023 • 12 • 1h 53m • Japanese • Animation, Fantasy, Action, Adventure • mobe1969**

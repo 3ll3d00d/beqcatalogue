@@ -1,5 +1,7 @@
 # Train to Busan
 
+[Compare across authors](../../compare/?t=film-train-to-busan_396535)
+
 ## Atmos
 
 **2016 • NR • 1h 58m • Korean • Horror, Thriller, Science Fiction, Action • mobe1969**

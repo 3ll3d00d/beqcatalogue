@@ -1,5 +1,7 @@
 # Horsemen
 
+[Compare across authors](../../compare/?t=film-horsemen_18476)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 30m • Mystery, Crime, Thriller, Horror, Drama • mobe1969**

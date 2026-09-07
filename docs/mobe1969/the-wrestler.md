@@ -1,5 +1,7 @@
 # The Wrestler
 
+[Compare across authors](../../compare/?t=film-the-wrestler_12163)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 49m • Drama, Romance • mobe1969**

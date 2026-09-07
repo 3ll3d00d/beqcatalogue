@@ -1,5 +1,7 @@
 # Kidnapping Mr. Heineken
 
+[Compare across authors](../../compare/?t=film-kidnapping-mr-heineken_228968)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 35m • Drama, Action, Crime, Thriller, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Thirteen Lives
 
+[Compare across authors](../../compare/?t=film-thirteen-lives_698948)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 2h 27m • Drama, Thriller • mobe1969**

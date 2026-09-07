@@ -1,5 +1,7 @@
 # Memoir of a Murderer
 
+[Compare across authors](../../compare/?t=film-memoir-of-a-murderer_432836)
+
 ## DTS-HD MA 5.1
 
 Director's Cut

@@ -1,5 +1,7 @@
 # Jolly LLB 2
 
+[Compare across authors](../../compare/?t=film-jolly-llb-2_412090)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 2h 20m • Hindi • Comedy, Crime • mobe1969**

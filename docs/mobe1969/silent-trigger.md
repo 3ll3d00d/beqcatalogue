@@ -1,5 +1,7 @@
 # Silent Trigger
 
+[Compare across authors](../../compare/?t=film-silent-trigger_24206)
+
 ## DD+ 5.1
 
 **1996 • NR • 1h 33m • Drama, Action, Thriller • mobe1969**

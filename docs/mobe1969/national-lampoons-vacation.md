@@ -1,5 +1,7 @@
 # National Lampoon's Vacation
 
+[Compare across authors](../../compare/?t=film-national-lampoons-vacation_11153)
+
 ## DTS-HD MA 2.0
 
 **1983 • R • 1h 39m • Comedy, Adventure • mobe1969**

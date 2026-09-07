@@ -1,5 +1,7 @@
 # Aladdin
 
+[Compare across authors](../../compare/?t=film-aladdin_420817)
+
 ## Atmos
 
 **2019 • PG • 2h 8m • Adventure, Fantasy, Romance, Family • mobe1969**

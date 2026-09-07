@@ -1,5 +1,7 @@
 # Jack Reacher
 
+[Compare across authors](../../compare/?t=film-jack-reacher_75780)
+
 ## DTS-HD MA 7.1, DD+ 5.1
 
 **2012 • PG-13 • 2h 10m • Crime, Drama, Thriller, Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Dustwalker
 
+[Compare across authors](../../compare/?t=film-the-dustwalker_614869)
+
 ## DTS-HD MA 5.1
 
 **2019 • MA15+ • 1h 32m • Thriller, Science Fiction • mobe1969**

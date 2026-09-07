@@ -1,5 +1,7 @@
 # Kill Your Friends
 
+[Compare across authors](../../compare/?t=film-kill-your-friends_318922)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 44m • Comedy, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Incarnate
 
+[Compare across authors](../../compare/?t=film-incarnate_241258)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 31m • Horror, Thriller • mobe1969**

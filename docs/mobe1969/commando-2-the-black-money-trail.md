@@ -1,5 +1,7 @@
 # Commando 2 -  The Black Money Trail
 
+[Compare across authors](../../compare/?t=film-commando-2-the-black-money-trail_444713)
+
 ## DD 5.1
 
 **2017 • NR • 2h 3m • Hindi • Action, Thriller • mobe1969**

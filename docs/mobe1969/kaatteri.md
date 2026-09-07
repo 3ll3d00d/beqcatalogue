@@ -1,5 +1,7 @@
 # Kaatteri
 
+[Compare across authors](../../compare/?t=film-kaatteri_533660)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 53m • Tamil • Comedy, Horror • mobe1969**

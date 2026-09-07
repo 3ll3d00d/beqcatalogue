@@ -1,5 +1,7 @@
 # Public Enemies
 
+[Compare across authors](../../compare/?t=film-public-enemies_11322)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 2h 20m • Crime, History • mobe1969**

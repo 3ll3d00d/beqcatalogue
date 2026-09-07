@@ -1,5 +1,7 @@
 # Small Soldiers
 
+[Compare across authors](../../compare/?t=film-small-soldiers_11551)
+
 ## DD+ 5.1
 
 **1998 • PG-13 • 1h 50m • Comedy, Adventure, Fantasy, Science Fiction, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Superintelligence
 
+[Compare across authors](../../compare/?t=film-superintelligence_521007)
+
 ## DD+ 5.1
 
 **2021 • PG • 1h 46m • Comedy, Science Fiction, Romance • mobe1969**

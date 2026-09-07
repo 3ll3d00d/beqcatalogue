@@ -1,5 +1,7 @@
 # That Girl in Yellow Boots
 
+[Compare across authors](../../compare/?t=film-that-girl-in-yellow-boots_77864)
+
 ## DD+ 5.1
 
 **2010 • NR • 1h 43m • Hindi • Crime, Drama, Mystery, Thriller • mobe1969**

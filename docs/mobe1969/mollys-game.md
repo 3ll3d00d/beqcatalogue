@@ -1,5 +1,7 @@
 # Molly's Game
 
+[Compare across authors](../../compare/?t=film-mollys-game_396371)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 20m • Drama, Crime • mobe1969**

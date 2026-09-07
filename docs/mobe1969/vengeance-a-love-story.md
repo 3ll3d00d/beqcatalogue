@@ -1,5 +1,7 @@
 # Vengeance: A Love Story
 
+[Compare across authors](../../compare/?t=film-vengeance-a-love-story_397415)
+
 ## DD 5.1
 
 **2017 • 15 • 1h 39m • Drama, Thriller • mobe1969**

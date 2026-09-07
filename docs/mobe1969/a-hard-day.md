@@ -1,5 +1,7 @@
 # A Hard Day
 
+[Compare across authors](../../compare/?t=film-a-hard-day_269494)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 51m • Korean • Action, Crime, Thriller • mobe1969**

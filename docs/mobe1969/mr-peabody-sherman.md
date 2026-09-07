@@ -1,5 +1,7 @@
 # Mr. Peabody & Sherman
 
+[Compare across authors](../../compare/?t=film-mr-peabody-sherman_82703)
+
 ## DTS-HD MA 7.1
 
 **2014 • PG • 1h 32m • Animation, Adventure, Family • mobe1969**

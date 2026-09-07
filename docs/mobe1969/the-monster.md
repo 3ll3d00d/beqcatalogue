@@ -1,5 +1,7 @@
 # The Monster
 
+[Compare across authors](../../compare/?t=film-the-monster_340103)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 31m • Drama, Horror • mobe1969**

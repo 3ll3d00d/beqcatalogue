@@ -1,5 +1,7 @@
 # The Factory
 
+[Compare across authors](../../compare/?t=film-the-factory_136911)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 48m • Crime, Thriller, Mystery • mobe1969**

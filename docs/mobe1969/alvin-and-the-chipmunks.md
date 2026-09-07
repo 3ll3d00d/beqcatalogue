@@ -1,5 +1,7 @@
 # Alvin and the Chipmunks
 
+[Compare across authors](../../compare/?t=film-alvin-and-the-chipmunks_6477)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2007 • PG • 1h 32m • Comedy, Family, Fantasy, Animation • mobe1969**

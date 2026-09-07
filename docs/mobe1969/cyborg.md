@@ -1,5 +1,7 @@
 # Cyborg
 
+[Compare across authors](../../compare/?t=film-cyborg_10134)
+
 ## DTS-HD MA 2.0
 
 **1989 • R • 1h 26m • Science Fiction, Action • mobe1969**

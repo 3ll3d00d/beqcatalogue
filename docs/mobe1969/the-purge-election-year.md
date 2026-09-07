@@ -1,5 +1,7 @@
 # The Purge: Election Year
 
+[Compare across authors](../../compare/?t=film-the-purge-election-year_316727)
+
 ## DD+ 5.1
 
 **2016 • R • 1h 45m • Action, Horror, Thriller • mobe1969**

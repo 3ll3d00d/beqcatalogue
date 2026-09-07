@@ -1,5 +1,7 @@
 # Kuttey
 
+[Compare across authors](../../compare/?t=film-kuttey_864573)
+
 ## DD+ Atmos
 
 **2023 • NR • 1h 52m • Hindi • Comedy, Crime, Thriller • mobe1969**

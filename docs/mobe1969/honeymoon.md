@@ -1,5 +1,7 @@
 # Honeymoon
 
+[Compare across authors](../../compare/?t=film-honeymoon_254191)
+
 ## DD+ 5.1
 
 **2014 • R • 1h 28m • Horror, Science Fiction • mobe1969**

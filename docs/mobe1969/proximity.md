@@ -1,5 +1,7 @@
 # Proximity
 
+[Compare across authors](../../compare/?t=film-proximity_693158)
+
 ## DTS-HD MA 5.1
 
 **2020 • 12 • 1h 59m • Science Fiction, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Barb & Star Go to Vista Del Mar
 
+[Compare across authors](../../compare/?t=film-barb-star-go-to-vista-del-mar_595813)
+
 ## DTS-HD MA 5.1
 
 **2021 • PG-13 • 1h 47m • Comedy • mobe1969**

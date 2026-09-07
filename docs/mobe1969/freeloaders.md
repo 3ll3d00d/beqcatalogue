@@ -1,5 +1,7 @@
 # Freeloaders
 
+[Compare across authors](../../compare/?t=film-freeloaders_121147)
+
 ## DD 5.1
 
 **2012 • R • 1h 17m • Comedy • mobe1969**

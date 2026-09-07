@@ -1,5 +1,7 @@
 # Escape from New York
 
+[Compare across authors](../../compare/?t=film-escape-from-new-york_1103)
+
 ## Atmos
 
 **1981 • R • 1h 39m • Science Fiction, Action • mobe1969**

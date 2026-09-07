@@ -1,5 +1,7 @@
 # Dohchay
 
+[Compare across authors](../../compare/?t=film-dohchay_336082)
+
 ## DD+ 5.1
 
 **2015 • NR • 2h 18m • Telugu • Action, Crime, Comedy • mobe1969**

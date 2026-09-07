@@ -1,5 +1,7 @@
 # Ninja Assassin
 
+[Compare across authors](../../compare/?t=film-ninja-assassin_22832)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 39m • Action • mobe1969**

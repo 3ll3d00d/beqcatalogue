@@ -1,5 +1,7 @@
 # The Book of Life
 
+[Compare across authors](../../compare/?t=film-the-book-of-life_228326)
+
 ## DTS-HD MA 7.1
 
 **2014 • PG • 1h 35m • Animation, Adventure, Comedy, Family, Fantasy • mobe1969**

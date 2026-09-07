@@ -1,5 +1,7 @@
 # One in the Chamber
 
+[Compare across authors](../../compare/?t=film-one-in-the-chamber_122924)
+
 ## TrueHD 5.1
 
 **2012 • R • 1h 31m • Action, Thriller • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-mosquito-coast_93716)
+
 ## Season 1
 
 * DD+ Atmos

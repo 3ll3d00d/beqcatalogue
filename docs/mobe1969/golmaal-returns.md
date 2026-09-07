@@ -1,5 +1,7 @@
 # Golmaal Returns
 
+[Compare across authors](../../compare/?t=film-golmaal-returns_14546)
+
 ## DD+ 5.1
 
 **2008 • PG • 2h 15m • Hindi • Comedy • mobe1969**

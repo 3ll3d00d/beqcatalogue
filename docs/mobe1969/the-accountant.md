@@ -1,5 +1,7 @@
 # The Accountant
 
+[Compare across authors](../../compare/?t=film-the-accountant_302946)
+
 ## DTS-HD MA 7.1
 
 **2017 • R • 2h 8m • Crime, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Rough Cut
 
+[Compare across authors](../../compare/?t=film-rough-cut_17593)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 1h 53m • Korean • Action, Drama • mobe1969**

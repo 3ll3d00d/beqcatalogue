@@ -1,5 +1,7 @@
 # Mob Land
 
+[Compare across authors](../../compare/?t=film-mob-land_979275)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 51m • Action, Crime, Thriller • mobe1969**

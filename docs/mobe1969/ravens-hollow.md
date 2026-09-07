@@ -1,5 +1,7 @@
 # Raven's Hollow
 
+[Compare across authors](../../compare/?t=film-ravens-hollow_996581)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 38m • Mystery, Thriller, Horror • mobe1969**

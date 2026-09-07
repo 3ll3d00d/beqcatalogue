@@ -1,5 +1,7 @@
 # Monster Hunt 2
 
+[Compare across authors](../../compare/?t=film-monster-hunt-2_497984)
+
 ## TrueHD 7.1
 
 **2018 • PG • 1h 50m • Mandarin • Adventure, Comedy, Fantasy • mobe1969**

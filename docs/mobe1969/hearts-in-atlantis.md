@@ -1,5 +1,7 @@
 # Hearts in Atlantis
 
+[Compare across authors](../../compare/?t=film-hearts-in-atlantis_11313)
+
 ## DD 5.1
 
 **2001 • PG-13 • 1h 41m • Drama, Mystery • mobe1969**

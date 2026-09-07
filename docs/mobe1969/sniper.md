@@ -1,5 +1,7 @@
 # Sniper
 
+[Compare across authors](../../compare/?t=film-sniper_9545)
+
 ## DTS-HD MA 5.1
 
 **1993 • R • 1h 38m • Action, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Grimsby
 
+[Compare across authors](../../compare/?t=film-grimsby_267193)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2016 • R • 1h 23m • Action, Comedy • mobe1969**

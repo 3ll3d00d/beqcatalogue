@@ -1,5 +1,7 @@
 # Orphan: First Kill
 
+[Compare across authors](../../compare/?t=film-orphan-first-kill_760161)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 39m • Horror, Thriller • mobe1969**

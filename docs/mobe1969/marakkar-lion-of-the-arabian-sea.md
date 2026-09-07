@@ -1,5 +1,7 @@
 # Marakkar: Lion of the Arabian Sea
 
+[Compare across authors](../../compare/?t=film-marakkar-lion-of-the-arabian-sea_617405)
+
 ## DD+ 5.1
 
 **2021 • 15 • 3h 2m • Malayalam • History, War, Action • mobe1969**

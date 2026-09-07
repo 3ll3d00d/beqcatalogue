@@ -1,5 +1,7 @@
 # Immersion
 
+[Compare across authors](../../compare/?t=film-immersion_842725)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 22m • Spanish • Thriller • mobe1969**

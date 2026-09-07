@@ -1,5 +1,7 @@
 # Pipeline
 
+[Compare across authors](../../compare/?t=film-pipeline_618200)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 48m • Korean • Crime, Adventure • mobe1969**

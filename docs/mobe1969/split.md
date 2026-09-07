@@ -1,5 +1,7 @@
 # Split
 
+[Compare across authors](../../compare/?t=film-split_381288)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG-13 • 1h 57m • Horror, Thriller • mobe1969**

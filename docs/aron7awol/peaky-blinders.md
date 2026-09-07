@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-peaky-blinders_60574)
+
 ## Season 1
 
 * DTS-HD MA 2.0

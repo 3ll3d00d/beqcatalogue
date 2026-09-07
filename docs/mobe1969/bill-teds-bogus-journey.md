@@ -1,5 +1,7 @@
 # Bill & Ted's Bogus Journey
 
+[Compare across authors](../../compare/?t=film-bill-teds-bogus-journey_1649)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1991 • PG • 1h 33m • Adventure, Comedy, Science Fiction • mobe1969**

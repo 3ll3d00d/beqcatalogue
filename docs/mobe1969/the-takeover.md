@@ -1,5 +1,7 @@
 # The Takeover
 
+[Compare across authors](../../compare/?t=film-the-takeover_944864)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 27m • Dutch • Action, Crime, Thriller • mobe1969**

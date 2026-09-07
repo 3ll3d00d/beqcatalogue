@@ -1,5 +1,7 @@
 # V for Vendetta
 
+[Compare across authors](../../compare/?t=film-v-for-vendetta_752)
+
 ## Atmos
 
 **2006 • R • 2h 12m • Action, Thriller, Fantasy • mobe1969**

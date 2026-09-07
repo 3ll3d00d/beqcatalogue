@@ -1,5 +1,7 @@
 # Thunivu
 
+[Compare across authors](../../compare/?t=film-thunivu_904557)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 26m • Tamil • Action, Crime, Thriller • mobe1969**

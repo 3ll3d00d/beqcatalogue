@@ -1,5 +1,7 @@
 # The Hater
 
+[Compare across authors](../../compare/?t=film-the-hater_590854)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 15m • Polish • Drama, Thriller • mobe1969**

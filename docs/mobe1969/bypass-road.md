@@ -1,5 +1,7 @@
 # Bypass Road
 
+[Compare across authors](../../compare/?t=film-bypass-road_645370)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 17m • Hindi • Drama, Thriller • mobe1969**

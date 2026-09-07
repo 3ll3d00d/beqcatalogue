@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-on-children_80759)
+
 ## Season 1
 
 * DD+ 2.0

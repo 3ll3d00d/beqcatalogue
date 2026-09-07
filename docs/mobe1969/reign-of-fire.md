@@ -1,5 +1,7 @@
 # Reign of Fire
 
+[Compare across authors](../../compare/?t=film-reign-of-fire_6278)
+
 ## LPCM 5.1
 
 **2002 • PG-13 • 1h 41m • Fantasy, Adventure, Action • mobe1969**

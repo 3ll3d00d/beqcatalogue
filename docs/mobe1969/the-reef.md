@@ -1,5 +1,7 @@
 # The Reef
 
+[Compare across authors](../../compare/?t=film-the-reef_49787)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 28m • Drama, Horror, Thriller • mobe1969**

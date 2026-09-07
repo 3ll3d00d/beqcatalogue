@@ -1,5 +1,7 @@
 # Howl
 
+[Compare across authors](../../compare/?t=film-howl_301846)
+
 ## TrueHD 5.1
 
 **2015 • 18 • 1h 29m • Horror • mobe1969**

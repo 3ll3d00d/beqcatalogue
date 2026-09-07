@@ -1,5 +1,7 @@
 # Underworld: Evolution
 
+[Compare across authors](../../compare/?t=film-underworld-evolution_834)
+
 ## Atmos
 
 **2006 • R • 1h 46m • Fantasy, Action, Thriller • mobe1969**

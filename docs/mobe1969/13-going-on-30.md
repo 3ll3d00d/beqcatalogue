@@ -1,5 +1,7 @@
 # 13 Going on 30
 
+[Compare across authors](../../compare/?t=film-13-going-on-30_10096)
+
 ## DD+ 5.1
 
 **2004 • PG-13 • 1h 38m • Comedy, Fantasy, Romance • mobe1969**

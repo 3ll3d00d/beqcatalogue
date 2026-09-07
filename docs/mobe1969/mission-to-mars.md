@@ -1,5 +1,7 @@
 # Mission to Mars
 
+[Compare across authors](../../compare/?t=film-mission-to-mars_2067)
+
 ## DTS-HD MA 5.1
 
 **2000 • PG • 1h 54m • Thriller, Science Fiction • mobe1969**

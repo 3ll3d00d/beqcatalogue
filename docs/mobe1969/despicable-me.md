@@ -1,5 +1,7 @@
 # Despicable Me
 
+[Compare across authors](../../compare/?t=film-despicable-me_20352)
+
 ## DTS-X
 
 **2010 • PG • 1h 35m • Family, Animation, Comedy, Crime • mobe1969**

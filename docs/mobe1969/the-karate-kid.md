@@ -1,5 +1,7 @@
 # The Karate Kid
 
+[Compare across authors](../../compare/?t=film-the-karate-kid_38575)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG • 2h 20m • Action, Adventure, Drama, Family • mobe1969**

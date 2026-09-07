@@ -1,5 +1,7 @@
 # Unstoppable
 
+[Compare across authors](../../compare/?t=film-unstoppable_23520)
+
 ## DTS-HD MA 5.1
 
 **2004 • R • 1h 36m • Action • mobe1969**

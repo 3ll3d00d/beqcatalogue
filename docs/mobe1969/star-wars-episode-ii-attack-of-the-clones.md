@@ -1,5 +1,7 @@
 # Star Wars: Episode II - Attack of the Clones
 
+[Compare across authors](../../compare/?t=film-star-wars-episode-ii-attack-of-the-clones_1894)
+
 ## Atmos
 
 **2002 • PG • 2h 22m • Adventure, Action, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # The Others
 
+[Compare across authors](../../compare/?t=film-the-others_1933)
+
 ## Atmos
 
 **2001 • PG-13 • 1h 41m • Horror, Mystery, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Translators
 
+[Compare across authors](../../compare/?t=film-the-translators_477018)
+
 ## TrueHD 5.1
 
 **2020 • NR • 1h 45m • French • Mystery, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Extraction
 
+[Compare across authors](../../compare/?t=film-extraction_326425)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 23m • Action, Thriller • mobe1969**

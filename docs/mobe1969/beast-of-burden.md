@@ -1,5 +1,7 @@
 # Beast of Burden
 
+[Compare across authors](../../compare/?t=film-beast-of-burden_454650)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 30m • Action, Crime, Drama, Thriller • mobe1969**

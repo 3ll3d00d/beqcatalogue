@@ -1,5 +1,7 @@
 # IRIS: The Movie
 
+[Compare across authors](../../compare/?t=film-iris-the-movie_53656)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 58m • Korean • Action, Adventure, Drama, Romance • mobe1969**

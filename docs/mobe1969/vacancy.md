@@ -1,5 +1,7 @@
 # Vacancy
 
+[Compare across authors](../../compare/?t=film-vacancy_10294)
+
 ## LPCM 5.1
 
 **2007 • R • 1h 20m • Thriller, Horror • mobe1969**

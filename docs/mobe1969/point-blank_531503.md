@@ -1,5 +1,7 @@
 # Point Blank
 
+[Compare across authors](../../compare/?t=film-point-blank_531503)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2019 • NC-17 • 1h 26m • Action, Thriller • mobe1969**

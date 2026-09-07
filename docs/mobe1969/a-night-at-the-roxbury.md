@@ -1,5 +1,7 @@
 # A Night at the Roxbury
 
+[Compare across authors](../../compare/?t=film-a-night-at-the-roxbury_9429)
+
 ## TrueHD 5.1
 
 **1998 • PG-13 • 1h 21m • Comedy, Music, Romance • mobe1969**

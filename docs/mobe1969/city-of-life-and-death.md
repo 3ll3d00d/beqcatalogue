@@ -1,5 +1,7 @@
 # City of Life and Death
 
+[Compare across authors](../../compare/?t=film-city-of-life-and-death_21345)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 2h 12m • Mandarin • Drama, History, War • mobe1969**

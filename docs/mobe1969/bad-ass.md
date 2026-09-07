@@ -1,5 +1,7 @@
 # Bad Ass
 
+[Compare across authors](../../compare/?t=film-bad-ass_94380)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 30m • Action, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Battle for Haditha
 
+[Compare across authors](../../compare/?t=film-battle-for-haditha_14111)
+
 ## DTS-HD MA 5.1
 
 **2007 • NR • 1h 37m • Action, Adventure, Drama, History, War • mobe1969**

@@ -1,5 +1,7 @@
 # Bulletproof Monk
 
+[Compare across authors](../../compare/?t=film-bulletproof-monk_11817)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG-13 • 1h 44m • Action, Comedy, Fantasy • mobe1969**

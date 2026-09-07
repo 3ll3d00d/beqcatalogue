@@ -1,5 +1,7 @@
 # Sniper: Ultimate Kill
 
+[Compare across authors](../../compare/?t=film-sniper-ultimate-kill_464889)
+
 ## DTS-HD MA 5.1
 
 **2017 • 16 • 1h 33m • Thriller, Drama, Action • mobe1969**

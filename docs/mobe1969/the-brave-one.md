@@ -1,5 +1,7 @@
 # The Brave One
 
+[Compare across authors](../../compare/?t=film-the-brave-one_4413)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 2h 2m • Drama, Thriller, Crime • mobe1969**

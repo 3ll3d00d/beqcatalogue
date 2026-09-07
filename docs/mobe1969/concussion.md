@@ -1,5 +1,7 @@
 # Concussion
 
+[Compare across authors](../../compare/?t=film-concussion_321741)
+
 ## Atmos
 
 **2015 • PG-13 • 2h 3m • Drama, History • mobe1969**

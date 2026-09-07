@@ -1,5 +1,7 @@
 # Elite Squad
 
+[Compare across authors](../../compare/?t=film-elite-squad_7347)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 55m • Portuguese • Action, Crime, Drama • mobe1969**

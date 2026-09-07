@@ -1,5 +1,7 @@
 # Capture the Flag
 
+[Compare across authors](../../compare/?t=film-capture-the-flag_300602)
+
 ## DD+ 5.1
 
 **2015 • PG • 1h 34m • Comedy, Animation, Adventure, Family • mobe1969**

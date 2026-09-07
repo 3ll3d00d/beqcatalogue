@@ -1,5 +1,7 @@
 # The Hitcher
 
+[Compare across authors](../../compare/?t=film-the-hitcher_8398)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 24m • Crime, Action, Horror, Thriller • mobe1969**

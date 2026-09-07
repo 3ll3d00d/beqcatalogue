@@ -1,5 +1,7 @@
 # Legend of the Demon Cat
 
+[Compare across authors](../../compare/?t=film-legend-of-the-demon-cat_434221)
+
 ## Atmos
 
 **2018 • NR • 2h 9m • Mandarin • Drama, Fantasy, Mystery • mobe1969**

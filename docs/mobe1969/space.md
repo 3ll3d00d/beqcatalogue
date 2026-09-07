@@ -1,5 +1,7 @@
 # Space
 
+[Compare across authors](../../compare/?t=film-space_687972)
+
 ## DD+ 2.0
 
 **2020 • PG • 1h 33m • Science Fiction, Horror, Action • mobe1969**

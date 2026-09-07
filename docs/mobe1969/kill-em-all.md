@@ -1,5 +1,7 @@
 # Kill 'em All
 
+[Compare across authors](../../compare/?t=film-kill-em-all_449503)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 36m • Crime, Action • mobe1969**

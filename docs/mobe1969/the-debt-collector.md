@@ -1,5 +1,7 @@
 # The Debt Collector
 
+[Compare across authors](../../compare/?t=film-the-debt-collector_513691)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • 16 • 1h 36m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # A Better Tomorrow
 
+[Compare across authors](../../compare/?t=film-a-better-tomorrow_11471)
+
 ## DTS-HD MA 7.1
 
 **1986 • R • 1h 35m • Cantonese • Action, Crime, Drama • mobe1969**

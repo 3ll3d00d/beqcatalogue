@@ -1,5 +1,7 @@
 # Home Sweet Hell
 
+[Compare across authors](../../compare/?t=film-home-sweet-hell_276839)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 38m • Comedy, Drama • mobe1969**

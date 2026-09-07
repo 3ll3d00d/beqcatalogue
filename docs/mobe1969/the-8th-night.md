@@ -1,5 +1,7 @@
 # The 8th Night
 
+[Compare across authors](../../compare/?t=film-the-8th-night_604360)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 55m • Korean • Mystery, Thriller, Horror • mobe1969**

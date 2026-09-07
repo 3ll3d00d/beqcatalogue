@@ -1,5 +1,7 @@
 # Casino
 
+[Compare across authors](../../compare/?t=film-casino_524)
+
 ## DTS-X
 
 **1995 • R • 2h 59m • Crime • mobe1969**

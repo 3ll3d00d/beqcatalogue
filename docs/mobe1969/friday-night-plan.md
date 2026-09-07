@@ -1,5 +1,7 @@
 # Friday Night Plan
 
+[Compare across authors](../../compare/?t=film-friday-night-plan_1160562)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 48m • Hindi • Comedy, Drama • mobe1969**

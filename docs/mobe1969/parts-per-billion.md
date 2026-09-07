@@ -1,5 +1,7 @@
 # Parts Per Billion
 
+[Compare across authors](../../compare/?t=film-parts-per-billion_270654)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 38m • Science Fiction • mobe1969**

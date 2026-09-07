@@ -1,5 +1,7 @@
 # Unearthed
 
+[Compare across authors](../../compare/?t=film-unearthed_15426)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 33m • Action, Adventure, Horror, Science Fiction, Thriller • mobe1969**

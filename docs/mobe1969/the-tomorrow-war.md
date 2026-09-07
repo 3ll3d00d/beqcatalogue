@@ -1,5 +1,7 @@
 # The Tomorrow War
 
+[Compare across authors](../../compare/?t=film-the-tomorrow-war_588228)
+
 ## DD+ 5.1, DD+ Atmos
 
 **2021 • PG-13 • 2h 18m • Action, Science Fiction, Adventure • mobe1969**

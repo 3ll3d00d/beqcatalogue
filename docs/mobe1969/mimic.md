@@ -1,5 +1,7 @@
 # Mimic
 
+[Compare across authors](../../compare/?t=film-mimic_4961)
+
 ## DTS-HD MA 7.1
 
 Director's Cut

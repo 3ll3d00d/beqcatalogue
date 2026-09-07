@@ -1,5 +1,7 @@
 # Bigbug
 
+[Compare across authors](../../compare/?t=film-bigbug_665828)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 51m • French • Science Fiction, Comedy • mobe1969**

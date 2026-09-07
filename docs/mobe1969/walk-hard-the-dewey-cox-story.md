@@ -1,5 +1,7 @@
 # Walk Hard: The Dewey Cox Story
 
+[Compare across authors](../../compare/?t=film-walk-hard-the-dewey-cox-story_6575)
+
 ## TrueHD 5.1
 
 **2007 • R • 1h 36m • Comedy, Music, Drama • mobe1969**

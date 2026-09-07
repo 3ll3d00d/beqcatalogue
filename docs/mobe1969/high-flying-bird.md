@@ -1,5 +1,7 @@
 # High Flying Bird
 
+[Compare across authors](../../compare/?t=film-high-flying-bird_510498)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 30m • Drama • mobe1969**

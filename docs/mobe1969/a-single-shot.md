@@ -1,5 +1,7 @@
 # A Single Shot
 
+[Compare across authors](../../compare/?t=film-a-single-shot_159932)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 56m • Drama, Crime, Thriller • mobe1969**

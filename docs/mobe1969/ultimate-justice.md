@@ -1,5 +1,7 @@
 # Ultimate Justice
 
+[Compare across authors](../../compare/?t=film-ultimate-justice_479924)
+
 ## DD+ 2.0
 
 **2017 • NR • 1h 33m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Assault
 
+[Compare across authors](../../compare/?t=film-the-assault_59145)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 28m • French • Drama, Action, Thriller • mobe1969**

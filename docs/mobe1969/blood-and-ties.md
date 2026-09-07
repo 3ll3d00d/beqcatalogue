@@ -1,5 +1,7 @@
 # Blood and Ties
 
+[Compare across authors](../../compare/?t=film-blood-and-ties_229878)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 35m • Korean • Thriller • mobe1969**

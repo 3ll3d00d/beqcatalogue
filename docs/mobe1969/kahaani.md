@@ -1,5 +1,7 @@
 # Kahaani
 
+[Compare across authors](../../compare/?t=film-kahaani_82825)
+
 ## TrueHD 5.1
 
 **2012 • NR • 2h 2m • Hindi • Mystery, Thriller • mobe1969**

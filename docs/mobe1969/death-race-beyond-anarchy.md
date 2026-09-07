@@ -1,5 +1,7 @@
 # Death Race: Beyond Anarchy
 
+[Compare across authors](../../compare/?t=film-death-race-beyond-anarchy_401478)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 51m • Science Fiction, Thriller, Action • mobe1969**

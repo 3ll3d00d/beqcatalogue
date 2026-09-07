@@ -1,5 +1,7 @@
 # I Think We're Alone Now
 
+[Compare across authors](../../compare/?t=film-i-think-were-alone-now_451877)
+
 ## Atmos
 
 **2018 • R • 1h 40m • Science Fiction, Drama, Mystery • mobe1969**

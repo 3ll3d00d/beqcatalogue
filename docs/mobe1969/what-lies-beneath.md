@@ -1,5 +1,7 @@
 # What Lies Beneath
 
+[Compare across authors](../../compare/?t=film-what-lies-beneath_2655)
+
 ## DTS-HD MA 5.1
 
 **2000 • PG-13 • 2h 10m • Drama, Horror, Mystery, Thriller • mobe1969**

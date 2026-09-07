@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-heaven-officials-blessing_112398)
+
 ## Season 1
 
 * DD+ 2.0

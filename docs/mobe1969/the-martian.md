@@ -1,5 +1,7 @@
 # The Martian
 
+[Compare across authors](../../compare/?t=film-the-martian_286217)
+
 ## Atmos
 
 **2015 • PG-13 • 2h 21m • Drama, Adventure, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Crouching Tiger, Hidden Dragon
 
+[Compare across authors](../../compare/?t=film-crouching-tiger-hidden-dragon_146)
+
 ## Atmos
 
 **2000 • PG-13 • 2h 0m • Mandarin • Adventure, Drama, Action, Romance • mobe1969**

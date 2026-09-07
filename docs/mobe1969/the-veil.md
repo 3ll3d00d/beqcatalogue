@@ -1,5 +1,7 @@
 # The Veil
 
+[Compare across authors](../../compare/?t=film-the-veil_257087)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 33m • Horror • mobe1969**

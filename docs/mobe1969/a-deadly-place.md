@@ -1,5 +1,7 @@
 # A Deadly Place
 
+[Compare across authors](../../compare/?t=film-a-deadly-place_765236)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 23m • Thriller • mobe1969**

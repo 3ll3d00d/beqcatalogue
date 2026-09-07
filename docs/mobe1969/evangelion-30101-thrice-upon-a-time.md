@@ -1,5 +1,7 @@
 # Evangelion 3.0+1.01 Thrice Upon a Time
 
+[Compare across authors](../../compare/?t=film-evangelion-30101-thrice-upon-a-time_283566)
+
 ## DD+ 5.1
 
 **2021 • MA15+ • 2h 35m • Japanese • Animation, Action, Drama, Science Fiction • mobe1969**

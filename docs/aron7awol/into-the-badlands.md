@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-into-the-badlands_47450)
+
 ## Season 1
 
 * TrueHD 5.1

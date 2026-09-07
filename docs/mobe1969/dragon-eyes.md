@@ -1,5 +1,7 @@
 # Dragon Eyes
 
+[Compare across authors](../../compare/?t=film-dragon-eyes_100683)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 28m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Vanishing on 7th Street
 
+[Compare across authors](../../compare/?t=film-vanishing-on-7th-street_43552)
+
 ## DTS-HD MA 7.1
 
 **2010 • R • 1h 32m • Mystery, Horror, Thriller • mobe1969**

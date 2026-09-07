@@ -1,5 +1,7 @@
 # Sisu
 
+[Compare across authors](../../compare/?t=film-sisu_840326)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2023 • R • 1h 31m • Action, War • mobe1969**

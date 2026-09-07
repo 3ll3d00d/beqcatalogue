@@ -1,5 +1,7 @@
 # Alien Code
 
+[Compare across authors](../../compare/?t=film-alien-code_529358)
+
 ## DD+ 5.1
 
 **2018 • PG • 1h 37m • Science Fiction • mobe1969**

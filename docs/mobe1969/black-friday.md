@@ -1,5 +1,7 @@
 # Black Friday
 
+[Compare across authors](../../compare/?t=film-black-friday_765869)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 24m • Horror, Comedy, Science Fiction • mobe1969**

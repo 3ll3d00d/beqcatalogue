@@ -1,5 +1,7 @@
 # Rampant
 
+[Compare across authors](../../compare/?t=film-rampant_537190)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 2h 2m • Korean • Action, Horror, Drama, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Pandigai
 
+[Compare across authors](../../compare/?t=film-pandigai_413166)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 30m • Tamil • Romance, Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Torbaaz
 
+[Compare across authors](../../compare/?t=film-torbaaz_681235)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 12m • Hindi • Drama • mobe1969**

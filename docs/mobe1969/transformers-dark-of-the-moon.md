@@ -1,5 +1,7 @@
 # Transformers: Dark of the Moon
 
+[Compare across authors](../../compare/?t=film-transformers-dark-of-the-moon_38356)
+
 ## Atmos, DD+ 5.1
 
 **2011 • PG-13 • 2h 34m • Action, Science Fiction, Adventure • mobe1969**

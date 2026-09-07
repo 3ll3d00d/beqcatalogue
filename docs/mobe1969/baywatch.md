@@ -1,5 +1,7 @@
 # Baywatch
 
+[Compare across authors](../../compare/?t=film-baywatch_339846)
+
 ## Atmos
 
 Extended Cut

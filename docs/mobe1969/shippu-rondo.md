@@ -1,5 +1,7 @@
 # Shippu-Rondo
 
+[Compare across authors](../../compare/?t=film-shippu-rondo_417817)
+
 ## TrueHD 5.1
 
 **2016 • NR • 1h 49m • Japanese • Drama • mobe1969**

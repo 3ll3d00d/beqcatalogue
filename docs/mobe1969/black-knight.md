@@ -1,5 +1,7 @@
 # Black Knight
 
+[Compare across authors](../../compare/?t=film-black-knight_11469)
+
 ## DD+ 5.1
 
 **2001 • PG-13 • 1h 35m • Comedy, Fantasy, Adventure • mobe1969**

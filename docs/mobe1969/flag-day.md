@@ -1,5 +1,7 @@
 # Flag Day
 
+[Compare across authors](../../compare/?t=film-flag-day_662712)
+
 ## DTS-HD MA 7.1
 
 **2021 • R • 1h 48m • Drama, Thriller, Crime • mobe1969**

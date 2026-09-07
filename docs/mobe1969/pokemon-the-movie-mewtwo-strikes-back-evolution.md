@@ -1,5 +1,7 @@
 # Pokemon the Movie: Mewtwo Strikes Back - Evolution
 
+[Compare across authors](../../compare/?t=film-pokemon-the-movie-mewtwo-strikes-back-evolution_571891)
+
 ## DD+ 5.1
 
 **2019 • PG • 1h 38m • Animation, Adventure, Fantasy, Action, Family • mobe1969**

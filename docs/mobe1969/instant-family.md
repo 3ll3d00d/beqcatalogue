@@ -1,5 +1,7 @@
 # Instant Family
 
+[Compare across authors](../../compare/?t=film-instant-family_491418)
+
 ## DTS-HD MA 7.1
 
 **2018 • PG-13 • 1h 58m • Comedy • mobe1969**

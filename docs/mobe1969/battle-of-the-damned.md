@@ -1,5 +1,7 @@
 # Battle of the Damned
 
+[Compare across authors](../../compare/?t=film-battle-of-the-damned_185471)
+
 ## TrueHD 5.1
 
 **2013 • R18+ • 1h 28m • Action, Science Fiction, Adventure • mobe1969**

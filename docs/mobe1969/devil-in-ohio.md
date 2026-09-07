@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-devil-in-ohio_133700)
+
 ## Season 1
 
 * DD+ Atmos

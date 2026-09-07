@@ -1,5 +1,7 @@
 # The Whale
 
+[Compare across authors](../../compare/?t=film-the-whale_785084)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 56m • Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Everest
 
+[Compare across authors](../../compare/?t=film-everest_253412)
+
 ## Atmos
 
 **2015 • PG-13 • 2h 1m • Drama, Adventure, History • mobe1969**

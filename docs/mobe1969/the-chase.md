@@ -1,5 +1,7 @@
 # The Chase
 
+[Compare across authors](../../compare/?t=film-the-chase_488621)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 50m • Korean • Thriller • mobe1969**

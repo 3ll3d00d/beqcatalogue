@@ -1,5 +1,7 @@
 # Get Duked!
 
+[Compare across authors](../../compare/?t=film-get-duked_580629)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 27m • Comedy, Action, Horror • mobe1969**

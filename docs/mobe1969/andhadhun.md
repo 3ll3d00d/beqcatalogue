@@ -1,5 +1,7 @@
 # Andhadhun
 
+[Compare across authors](../../compare/?t=film-andhadhun_534780)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 19m • Hindi • Crime, Thriller, Comedy • mobe1969**

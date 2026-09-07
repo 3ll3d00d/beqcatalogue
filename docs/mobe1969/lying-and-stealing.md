@@ -1,5 +1,7 @@
 # Lying and Stealing
 
+[Compare across authors](../../compare/?t=film-lying-and-stealing_509874)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 40m • Crime, Comedy, Drama • mobe1969**

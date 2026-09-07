@@ -1,5 +1,7 @@
 # Krrish 3
 
+[Compare across authors](../../compare/?t=film-krrish-3_204435)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 2h 32m • Hindi • Action, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Toro
 
+[Compare across authors](../../compare/?t=film-toro_364615)
+
 ## DD+ 5.1
 
 **2016 • 18A • 1h 45m • Spanish • Drama, Crime, Thriller • mobe1969**

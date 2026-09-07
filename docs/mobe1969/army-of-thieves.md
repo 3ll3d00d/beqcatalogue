@@ -1,5 +1,7 @@
 # Army of Thieves
 
+[Compare across authors](../../compare/?t=film-army-of-thieves_796499)
+
 ## DD+ Atmos
 
 **2021 • R • 2h 7m • Crime, Comedy • mobe1969**

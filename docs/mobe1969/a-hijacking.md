@@ -1,5 +1,7 @@
 # A Hijacking
 
+[Compare across authors](../../compare/?t=film-a-hijacking_127846)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 43m • Danish • Thriller, Drama • mobe1969**

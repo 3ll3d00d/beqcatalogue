@@ -1,5 +1,7 @@
 # Pathfinders: In the Company of Strangers
 
+[Compare across authors](../../compare/?t=film-pathfinders-in-the-company-of-strangers_61346)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 31m • Action, History, War • mobe1969**

@@ -1,5 +1,7 @@
 # Solomon Kane
 
+[Compare across authors](../../compare/?t=film-solomon-kane_32985)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 44m • Adventure, Action, Fantasy • mobe1969**

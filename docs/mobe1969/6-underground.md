@@ -1,5 +1,7 @@
 # 6 Underground
 
+[Compare across authors](../../compare/?t=film-6-underground_509967)
+
 ## DD+ Atmos
 
 **2019 • R • 2h 8m • Action, Thriller, Comedy • mobe1969**

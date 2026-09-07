@@ -1,5 +1,7 @@
 # 14 Peaks: Nothing Is Impossible
 
+[Compare across authors](../../compare/?t=film-14-peaks-nothing-is-impossible_890825)
+
 ## DD+ Atmos
 
 **2021 • 12 • 1h 41m • Documentary • mobe1969**

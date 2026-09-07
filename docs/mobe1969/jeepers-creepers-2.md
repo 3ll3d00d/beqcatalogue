@@ -1,5 +1,7 @@
 # Jeepers Creepers 2
 
+[Compare across authors](../../compare/?t=film-jeepers-creepers-2_11351)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 44m • Horror • mobe1969**

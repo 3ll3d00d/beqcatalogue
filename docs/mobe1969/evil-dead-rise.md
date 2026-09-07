@@ -1,5 +1,7 @@
 # Evil Dead Rise
 
+[Compare across authors](../../compare/?t=film-evil-dead-rise_713704)
+
 ## Atmos, DD+ Atmos
 
 **2023 • R • 1h 36m • Horror • mobe1969**

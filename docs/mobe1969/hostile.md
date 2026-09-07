@@ -1,5 +1,7 @@
 # Hostile
 
+[Compare across authors](../../compare/?t=film-hostile_461992)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 22m • Drama, Horror, Romance, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # The Survivalist
 
+[Compare across authors](../../compare/?t=film-the-survivalist_329004)
+
 ## DD+ 5.1
 
 **2015 • 18 • 1h 44m • Drama, Science Fiction, Thriller • mobe1969**

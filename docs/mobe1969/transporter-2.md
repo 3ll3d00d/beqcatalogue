@@ -1,5 +1,7 @@
 # Transporter 2
 
+[Compare across authors](../../compare/?t=film-transporter-2_9335)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

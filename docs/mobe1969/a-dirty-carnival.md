@@ -1,5 +1,7 @@
 # A Dirty Carnival
 
+[Compare across authors](../../compare/?t=film-a-dirty-carnival_23538)
+
 ## DTS-HD MA 5.1
 
 **2006 • NR • 2h 21m • Korean • Crime, Drama, Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Last Man
 
+[Compare across authors](../../compare/?t=film-the-last-man_472715)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 41m • Thriller, Drama, Science Fiction, Action • mobe1969**

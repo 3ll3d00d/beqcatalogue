@@ -1,5 +1,7 @@
 # Munich
 
+[Compare across authors](../../compare/?t=film-munich_612)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 2h 44m • Action, Drama, History, Thriller • mobe1969**

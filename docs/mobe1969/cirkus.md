@@ -1,5 +1,7 @@
 # Cirkus
 
+[Compare across authors](../../compare/?t=film-cirkus_755045)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 20m • Hindi • Comedy, Drama • mobe1969**

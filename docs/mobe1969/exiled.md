@@ -1,5 +1,7 @@
 # Exiled
 
+[Compare across authors](../../compare/?t=film-exiled_13807)
+
 ## DTS-HD MA 5.1, TrueHD 5.1
 
 **2006 • R • 1h 50m • Cantonese • Action, Crime, Thriller • mobe1969**

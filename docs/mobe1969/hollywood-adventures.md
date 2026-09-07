@@ -1,5 +1,7 @@
 # Hollywood Adventures
 
+[Compare across authors](../../compare/?t=film-hollywood-adventures_343059)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 54m • Mandarin • Comedy, Action • mobe1969**

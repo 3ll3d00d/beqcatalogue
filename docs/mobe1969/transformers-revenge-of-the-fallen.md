@@ -1,5 +1,7 @@
 # Transformers: Revenge of the Fallen
 
+[Compare across authors](../../compare/?t=film-transformers-revenge-of-the-fallen_8373)
+
 ## Atmos, DD+ 5.1
 
 **2009 • PG-13 • 2h 29m • Science Fiction, Action, Adventure • mobe1969**

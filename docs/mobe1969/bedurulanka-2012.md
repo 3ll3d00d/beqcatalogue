@@ -1,5 +1,7 @@
 # Bedurulanka 2012
 
+[Compare across authors](../../compare/?t=film-bedurulanka-2012_1055200)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 29m • Telugu • Comedy, Drama • mobe1969**

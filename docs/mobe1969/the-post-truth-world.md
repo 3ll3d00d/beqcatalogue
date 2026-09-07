@@ -1,5 +1,7 @@
 # The Post-Truth World
 
+[Compare across authors](../../compare/?t=film-the-post-truth-world_1007962)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 0m • Mandarin • Crime, Mystery • mobe1969**

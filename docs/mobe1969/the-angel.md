@@ -1,5 +1,7 @@
 # The Angel
 
+[Compare across authors](../../compare/?t=film-the-angel_468362)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 54m • Action, Drama, History, Thriller, War • mobe1969**

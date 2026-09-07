@@ -1,5 +1,7 @@
 # I Came By
 
+[Compare across authors](../../compare/?t=film-i-came-by_852448)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 50m • Thriller, Crime • mobe1969**

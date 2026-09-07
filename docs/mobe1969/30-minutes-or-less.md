@@ -1,5 +1,7 @@
 # 30 Minutes or Less
 
+[Compare across authors](../../compare/?t=film-30-minutes-or-less_62206)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 23m • Action, Adventure, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Blunt Force Trauma
 
+[Compare across authors](../../compare/?t=film-blunt-force-trauma_360387)
+
 ## DTS-HD MA 5.1
 
 **2015 • 15 • 1h 32m • Action • mobe1969**

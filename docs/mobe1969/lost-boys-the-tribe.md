@@ -1,5 +1,7 @@
 # Lost Boys: The Tribe
 
+[Compare across authors](../../compare/?t=film-lost-boys-the-tribe_13489)
+
 ## DD 5.1
 
 **2008 • R • 1h 34m • Crime, Drama, Horror, Thriller, Comedy • mobe1969**

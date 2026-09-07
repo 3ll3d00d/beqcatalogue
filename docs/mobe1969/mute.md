@@ -1,5 +1,7 @@
 # Mute
 
+[Compare across authors](../../compare/?t=film-mute_401371)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 6m • Science Fiction, Mystery, Thriller • mobe1969**

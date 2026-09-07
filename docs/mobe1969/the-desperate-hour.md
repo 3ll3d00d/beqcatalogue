@@ -1,5 +1,7 @@
 # The Desperate Hour
 
+[Compare across authors](../../compare/?t=film-the-desperate-hour_764835)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 1h 24m • Thriller • mobe1969**

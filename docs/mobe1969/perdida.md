@@ -1,5 +1,7 @@
 # Perdida
 
+[Compare across authors](../../compare/?t=film-perdida_638943)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 46m • Spanish • Thriller • mobe1969**

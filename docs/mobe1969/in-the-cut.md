@@ -1,5 +1,7 @@
 # In the Cut
 
+[Compare across authors](../../compare/?t=film-in-the-cut_10944)
+
 ## DD+ 5.1
 
 **2003 • R • 1h 59m • Mystery, Thriller, Drama • mobe1969**

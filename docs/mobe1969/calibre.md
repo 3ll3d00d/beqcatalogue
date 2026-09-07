@@ -1,5 +1,7 @@
 # Calibre
 
+[Compare across authors](../../compare/?t=film-calibre_474051)
+
 ## DD+ 5.1
 
 **2018 • 15 • 1h 41m • Horror, Thriller • mobe1969**

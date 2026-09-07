@@ -1,5 +1,7 @@
 # Your Name.
 
+[Compare across authors](../../compare/?t=film-your-name_372058)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG • 1h 46m • Japanese • Romance, Animation, Drama • mobe1969**

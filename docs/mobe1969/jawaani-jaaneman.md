@@ -1,5 +1,7 @@
 # Jawaani Jaaneman
 
+[Compare across authors](../../compare/?t=film-jawaani-jaaneman_607297)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 10m • Hindi • Comedy • mobe1969**

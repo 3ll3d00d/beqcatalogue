@@ -1,5 +1,7 @@
 # Ambushed
 
+[Compare across authors](../../compare/?t=film-ambushed_216541)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 33m • Action, Crime, Drama • mobe1969**

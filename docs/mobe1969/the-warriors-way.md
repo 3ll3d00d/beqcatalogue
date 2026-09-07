@@ -1,5 +1,7 @@
 # The Warrior's Way
 
+[Compare across authors](../../compare/?t=film-the-warriors-way_46528)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 40m • Western, Action, Thriller, Fantasy, Adventure • mobe1969**

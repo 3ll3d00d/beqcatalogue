@@ -1,5 +1,7 @@
 # Bubble
 
+[Compare across authors](../../compare/?t=film-bubble_912598)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 41m • Japanese • Comedy • mobe1969**

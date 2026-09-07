@@ -1,5 +1,7 @@
 # American Sicario
 
+[Compare across authors](../../compare/?t=film-american-sicario_893297)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 30m • Crime, Action • mobe1969**

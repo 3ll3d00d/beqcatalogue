@@ -1,5 +1,7 @@
 # Minamata
 
+[Compare across authors](../../compare/?t=film-minamata_560008)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 55m • Drama, History • mobe1969**

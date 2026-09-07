@@ -1,5 +1,7 @@
 # Plane
 
+[Compare across authors](../../compare/?t=film-plane_646389)
+
 ## Atmos, DD+ 5.1
 
 **2023 • R • 1h 47m • Action, Adventure, Thriller • mobe1969**

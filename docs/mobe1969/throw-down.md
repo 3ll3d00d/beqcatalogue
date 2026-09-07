@@ -1,5 +1,7 @@
 # Throw Down
 
+[Compare across authors](../../compare/?t=film-throw-down_25664)
+
 ## DTS-HD MA 5.1
 
 **2004 • NR • 1h 35m • Cantonese • Drama, Action • mobe1969**

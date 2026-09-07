@@ -1,5 +1,7 @@
 # Money Train
 
+[Compare across authors](../../compare/?t=film-money-train_11517)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 1h 50m • Action, Comedy, Crime • mobe1969**

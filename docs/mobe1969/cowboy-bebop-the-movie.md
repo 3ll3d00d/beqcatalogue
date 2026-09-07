@@ -1,5 +1,7 @@
 # Cowboy Bebop: The Movie
 
+[Compare across authors](../../compare/?t=film-cowboy-bebop-the-movie_11299)
+
 ## DD 5.1
 
 **2001 • R • 1h 55m • Japanese • Action, Animation, Science Fiction • mobe1969**

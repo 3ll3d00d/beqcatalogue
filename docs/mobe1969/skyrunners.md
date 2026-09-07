@@ -1,5 +1,7 @@
 # Skyrunners
 
+[Compare across authors](../../compare/?t=film-skyrunners_28729)
+
 ## DD+ 5.1
 
 **2009 • G • 1h 32m • Comedy, Science Fiction, TV Movie • mobe1969**

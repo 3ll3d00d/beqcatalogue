@@ -1,5 +1,7 @@
 # Brother
 
+[Compare across authors](../../compare/?t=film-brother_570137)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 36m • French • Drama • mobe1969**

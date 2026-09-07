@@ -1,5 +1,7 @@
 # Tokarev
 
+[Compare across authors](../../compare/?t=film-tokarev_242310)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 38m • Thriller, Action, Crime • mobe1969**

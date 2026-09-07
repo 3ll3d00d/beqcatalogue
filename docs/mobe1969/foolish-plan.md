@@ -1,5 +1,7 @@
 # Foolish Plan
 
+[Compare across authors](../../compare/?t=film-foolish-plan_478569)
+
 ## TrueHD 5.1
 
 **2016 • NR • 1h 28m • Mandarin • Comedy, Crime • mobe1969**

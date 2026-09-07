@@ -1,5 +1,7 @@
 # Metal Lords
 
+[Compare across authors](../../compare/?t=film-metal-lords_739993)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 37m • Comedy, Drama, Music • mobe1969**

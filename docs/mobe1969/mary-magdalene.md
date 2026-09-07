@@ -1,5 +1,7 @@
 # Mary Magdalene
 
+[Compare across authors](../../compare/?t=film-mary-magdalene_407439)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 0m • Drama, History • mobe1969**

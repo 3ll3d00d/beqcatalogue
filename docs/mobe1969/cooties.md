@@ -1,5 +1,7 @@
 # Cooties
 
+[Compare across authors](../../compare/?t=film-cooties_241843)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 28m • Horror, Comedy • mobe1969**

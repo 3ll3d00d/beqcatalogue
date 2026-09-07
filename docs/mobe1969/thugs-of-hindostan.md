@@ -1,5 +1,7 @@
 # Thugs of Hindostan
 
+[Compare across authors](../../compare/?t=film-thugs-of-hindostan_472138)
+
 ## Atmos
 
 **2018 • NR • 2h 44m • Hindi • Adventure, Action • mobe1969**

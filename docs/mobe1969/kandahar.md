@@ -1,5 +1,7 @@
 # Kandahar
 
+[Compare across authors](../../compare/?t=film-kandahar_717930)
+
 ## DD+ 5.1
 
 

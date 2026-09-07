@@ -1,5 +1,7 @@
 # The Fourth Kind
 
+[Compare across authors](../../compare/?t=film-the-fourth-kind_22824)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 38m • Thriller, Science Fiction, Mystery • mobe1969**

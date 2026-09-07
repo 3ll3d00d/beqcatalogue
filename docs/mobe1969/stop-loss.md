@@ -1,5 +1,7 @@
 # Stop-Loss
 
+[Compare across authors](../../compare/?t=film-stop-loss_8988)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 53m • War, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The Guns of Navarone
 
+[Compare across authors](../../compare/?t=film-the-guns-of-navarone_10911)
+
 ## Atmos
 
 **1961 • NR • 2h 38m • War, Action • mobe1969**

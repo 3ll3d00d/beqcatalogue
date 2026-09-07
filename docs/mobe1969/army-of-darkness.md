@@ -1,5 +1,7 @@
 # Army of Darkness
 
+[Compare across authors](../../compare/?t=film-army-of-darkness_766)
+
 ## DD 2.0
 
 TV Cut

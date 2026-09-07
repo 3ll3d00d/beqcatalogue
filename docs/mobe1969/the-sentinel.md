@@ -1,5 +1,7 @@
 # The Sentinel
 
+[Compare across authors](../../compare/?t=film-the-sentinel_5820)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 1h 48m • Action, Thriller, Crime • mobe1969**

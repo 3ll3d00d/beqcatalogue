@@ -1,5 +1,7 @@
 # Infinity Pool
 
+[Compare across authors](../../compare/?t=film-infinity-pool_667216)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 58m • Horror, Science Fiction, Thriller • mobe1969**

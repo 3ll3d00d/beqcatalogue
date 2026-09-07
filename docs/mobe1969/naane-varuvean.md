@@ -1,5 +1,7 @@
 # Naane Varuvean
 
+[Compare across authors](../../compare/?t=film-naane-varuvean_785664)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 2m • Telugu • Action, Thriller, Horror • mobe1969**

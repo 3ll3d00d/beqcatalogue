@@ -1,5 +1,7 @@
 # Blood Ties
 
+[Compare across authors](../../compare/?t=film-blood-ties_190955)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 2h 8m • Thriller, Crime, Drama • mobe1969**

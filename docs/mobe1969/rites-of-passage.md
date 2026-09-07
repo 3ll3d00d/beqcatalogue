@@ -1,5 +1,7 @@
 # Rites of Passage
 
+[Compare across authors](../../compare/?t=film-rites-of-passage_93077)
+
 ## DTS-HD MA 5.1
 
 **2012 • 16 • 1h 35m • Thriller • mobe1969**

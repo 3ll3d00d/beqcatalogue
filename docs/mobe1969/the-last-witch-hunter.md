@@ -1,5 +1,7 @@
 # The Last Witch Hunter
 
+[Compare across authors](../../compare/?t=film-the-last-witch-hunter_274854)
+
 ## DTS-X, DD+ 5.1
 
 **2015 • PG-13 • 1h 46m • Fantasy, Action, Adventure • mobe1969**

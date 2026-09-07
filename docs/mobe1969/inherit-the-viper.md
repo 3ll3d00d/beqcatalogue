@@ -1,5 +1,7 @@
 # Inherit the Viper
 
+[Compare across authors](../../compare/?t=film-inherit-the-viper_634904)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 30m • Drama, Thriller, Crime • mobe1969**

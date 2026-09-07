@@ -1,5 +1,7 @@
 # Tales of Vesperia: The First Strike
 
+[Compare across authors](../../compare/?t=film-tales-of-vesperia-the-first-strike_39319)
+
 ## TrueHD 5.1
 
 **2009 • NR • 1h 50m • Animation, Action, Adventure, Fantasy • mobe1969**

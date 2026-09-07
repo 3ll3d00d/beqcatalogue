@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-hanna_54155)
+
 ## Season 1
 
 * DD+

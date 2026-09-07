@@ -1,5 +1,7 @@
 # Sardar Udham
 
+[Compare across authors](../../compare/?t=film-sardar-udham_598826)
+
 ## DD+ 5.1
 
 **2021 • R • 2h 43m • Hindi • Crime, Drama, History • mobe1969**

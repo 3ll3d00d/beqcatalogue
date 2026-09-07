@@ -1,5 +1,7 @@
 # The Motive
 
+[Compare across authors](../../compare/?t=film-the-motive_437036)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 44m • Spanish • Drama • mobe1969**

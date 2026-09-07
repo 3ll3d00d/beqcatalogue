@@ -1,5 +1,7 @@
 # The Knight of Shadows
 
+[Compare across authors](../../compare/?t=film-the-knight-of-shadows_512901)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG • 1h 48m • Mandarin • Action, Fantasy • mobe1969**

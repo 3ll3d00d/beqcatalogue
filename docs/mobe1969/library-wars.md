@@ -1,5 +1,7 @@
 # Library Wars
 
+[Compare across authors](../../compare/?t=film-library-wars_193502)
+
 ## TrueHD 5.1
 
 **2013 • NR • 2h 8m • Japanese • Romance, Action, Fantasy • mobe1969**

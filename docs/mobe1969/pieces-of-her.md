@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-pieces-of-her_99002)
+
 ## Season 1
 
 * DD+ Atmos

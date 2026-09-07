@@ -1,5 +1,7 @@
 # Leal
 
+[Compare across authors](../../compare/?t=film-leal_540871)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 47m • Spanish • Action, Crime, Drama • mobe1969**

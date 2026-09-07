@@ -1,5 +1,7 @@
 # Mercy
 
+[Compare across authors](../../compare/?t=film-mercy_401060)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 22m • Thriller • mobe1969**

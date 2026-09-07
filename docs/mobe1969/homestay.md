@@ -1,5 +1,7 @@
 # HOMESTAY
 
+[Compare across authors](../../compare/?t=film-homestay_899686)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 52m • Japanese • Drama, Mystery, Fantasy • mobe1969**

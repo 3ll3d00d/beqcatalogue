@@ -1,5 +1,7 @@
 # Wander
 
+[Compare across authors](../../compare/?t=film-wander_646593)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 34m • Thriller, Crime, Mystery • mobe1969**

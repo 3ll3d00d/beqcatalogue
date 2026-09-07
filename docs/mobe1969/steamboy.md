@@ -1,5 +1,7 @@
 # Steamboy
 
+[Compare across authors](../../compare/?t=film-steamboy_8953)
+
 ## DTS-HD MA 5.1
 
 **2004 • PG-13 • 2h 6m • Japanese • Animation, Fantasy, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Leviathan
 
+[Compare across authors](../../compare/?t=film-leviathan_14372)
+
 ## DTS-HD MA 5.1
 
 **1989 • R • 1h 38m • Adventure, Horror, Action, Thriller, Science Fiction • mobe1969**

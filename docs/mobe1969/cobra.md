@@ -1,5 +1,7 @@
 # Cobra
 
+[Compare across authors](../../compare/?t=film-cobra_9874)
+
 ## DTS-HD MA 5.1
 
 **1986 • R • 1h 27m • Action, Crime, Thriller • mobe1969**

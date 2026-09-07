@@ -1,5 +1,7 @@
 # The Grandmaster
 
+[Compare across authors](../../compare/?t=film-the-grandmaster_44865)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 2h 10m • Cantonese • Action, Drama, History • mobe1969**

@@ -1,5 +1,7 @@
 # Yuddham Sharanam
 
+[Compare across authors](../../compare/?t=film-yuddham-sharanam_474955)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 21m • Telugu • Action, Romance, Thriller • mobe1969**

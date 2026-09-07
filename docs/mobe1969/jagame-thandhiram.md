@@ -1,5 +1,7 @@
 # Jagame Thandhiram
 
+[Compare across authors](../../compare/?t=film-jagame-thandhiram_656113)
+
 ## DD+ Atmos
 
 **2021 • 15 • 2h 38m • Tamil • Crime, Comedy • mobe1969**

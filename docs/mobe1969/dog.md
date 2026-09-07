@@ -1,5 +1,7 @@
 # Dog
 
+[Compare across authors](../../compare/?t=film-dog_626735)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 1h 42m • Drama, Comedy • mobe1969**

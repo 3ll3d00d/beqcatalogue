@@ -1,5 +1,7 @@
 # Beaufort
 
+[Compare across authors](../../compare/?t=film-beaufort_15048)
+
 ## DTS-HD MA 5.1
 
 **2007 • 16 • 2h 11m • Hebrew • History, Drama • mobe1969**

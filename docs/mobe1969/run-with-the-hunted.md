@@ -1,5 +1,7 @@
 # Run with the Hunted
 
+[Compare across authors](../../compare/?t=film-run-with-the-hunted_591774)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 33m • Crime • mobe1969**

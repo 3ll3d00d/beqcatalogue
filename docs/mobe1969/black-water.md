@@ -1,5 +1,7 @@
 # Black Water
 
+[Compare across authors](../../compare/?t=film-black-water_14138)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 30m • Adventure, Drama, Horror • mobe1969**

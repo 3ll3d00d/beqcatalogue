@@ -1,5 +1,7 @@
 # Argo
 
+[Compare across authors](../../compare/?t=film-argo_68734)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

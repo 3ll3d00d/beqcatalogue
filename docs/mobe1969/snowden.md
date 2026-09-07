@@ -1,5 +1,7 @@
 # Snowden
 
+[Compare across authors](../../compare/?t=film-snowden_302401)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 2h 14m • History, Crime, Thriller, Drama • mobe1969**

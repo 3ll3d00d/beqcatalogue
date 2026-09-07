@@ -1,5 +1,7 @@
 # Ghost in the Shell 2.0
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell-20_14092)
+
 ## TrueHD 6.1
 
 **2008 • NR • 1h 25m • Japanese • Action, Animation, Science Fiction • mobe1969**

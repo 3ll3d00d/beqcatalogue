@@ -1,5 +1,7 @@
 # Unbowed
 
+[Compare across authors](../../compare/?t=film-unbowed_116323)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 40m • Korean • Drama • mobe1969**

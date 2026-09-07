@@ -1,5 +1,7 @@
 # Bullet Proof
 
+[Compare across authors](../../compare/?t=film-bullet-proof_993145)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 31m • Action, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # All Quiet on the Western Front
 
+[Compare across authors](../../compare/?t=film-all-quiet-on-the-western-front_49046)
+
 ## Atmos
 
 **2022 • R • 2h 27m • German • Drama, War, History • mobe1969**

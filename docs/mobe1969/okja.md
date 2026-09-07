@@ -1,5 +1,7 @@
 # Okja
 
+[Compare across authors](../../compare/?t=film-okja_387426)
+
 ## Atmos, DD+ Atmos
 
 **2017 • PG-13 • 2h 2m • Adventure, Drama, Science Fiction • mobe1969**

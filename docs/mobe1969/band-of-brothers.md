@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-band-of-brothers_4613)
+
 ## Season 1
 
 * DTS-HD MA 5.1

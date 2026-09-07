@@ -1,5 +1,7 @@
 # Brick Mansions
 
+[Compare across authors](../../compare/?t=film-brick-mansions_254473)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 30m • Action, Crime, Drama • mobe1969**

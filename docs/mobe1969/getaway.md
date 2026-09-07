@@ -1,5 +1,7 @@
 # Getaway
 
+[Compare across authors](../../compare/?t=film-getaway_146227)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 30m • Action, Crime • mobe1969**

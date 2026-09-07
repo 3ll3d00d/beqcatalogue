@@ -1,5 +1,7 @@
 # The Captain
 
+[Compare across authors](../../compare/?t=film-the-captain_475094)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 58m • German • War, Drama, History • mobe1969**

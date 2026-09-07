@@ -1,5 +1,7 @@
 # Final Destination 2
 
+[Compare across authors](../../compare/?t=film-final-destination-2_9358)
+
 ## TrueHD 5.1
 
 **2003 • R • 1h 30m • Horror, Mystery • mobe1969**

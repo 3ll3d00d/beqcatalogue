@@ -1,5 +1,7 @@
 # Final Destination 5
 
+[Compare across authors](../../compare/?t=film-final-destination-5_55779)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 32m • Horror, Mystery • mobe1969**

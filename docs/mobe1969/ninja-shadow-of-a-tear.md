@@ -1,5 +1,7 @@
 # Ninja: Shadow of a Tear
 
+[Compare across authors](../../compare/?t=film-ninja-shadow-of-a-tear_180894)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 35m • Action, Crime, Thriller • mobe1969**

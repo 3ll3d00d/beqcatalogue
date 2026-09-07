@@ -1,5 +1,7 @@
 # Big Bad Wolves
 
+[Compare across authors](../../compare/?t=film-big-bad-wolves_171540)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 46m • Hebrew • Thriller, Horror, Comedy, Crime • mobe1969**

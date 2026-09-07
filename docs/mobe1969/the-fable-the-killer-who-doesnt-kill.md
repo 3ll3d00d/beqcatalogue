@@ -1,5 +1,7 @@
 # The Fable: The Killer Who Doesn't Kill
 
+[Compare across authors](../../compare/?t=film-the-fable-the-killer-who-doesnt-kill_734519)
+
 ## DD+ 5.1
 
 **2021 • 15 • 2h 12m • Japanese • Action, Comedy, Crime • mobe1969**

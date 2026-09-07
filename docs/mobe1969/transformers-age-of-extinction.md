@@ -1,5 +1,7 @@
 # Transformers: Age of Extinction
 
+[Compare across authors](../../compare/?t=film-transformers-age-of-extinction_91314)
+
 ## Atmos, DD+ 5.1
 
 **2014 • PG-13 • 2h 45m • Science Fiction, Action, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Special 26
 
+[Compare across authors](../../compare/?t=film-special-26_165904)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 2h 24m • Hindi • Crime, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Spacewalker
 
+[Compare across authors](../../compare/?t=film-the-spacewalker_440642)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG • 2h 20m • Russian • Adventure, Drama, History, Thriller • mobe1969**

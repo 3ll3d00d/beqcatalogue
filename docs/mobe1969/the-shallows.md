@@ -1,5 +1,7 @@
 # The Shallows
 
+[Compare across authors](../../compare/?t=film-the-shallows_332567)
+
 ## Atmos
 
 **2016 • PG-13 • 1h 26m • Horror, Drama, Thriller • mobe1969**

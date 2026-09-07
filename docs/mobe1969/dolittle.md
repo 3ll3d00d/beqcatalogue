@@ -1,5 +1,7 @@
 # Dolittle
 
+[Compare across authors](../../compare/?t=film-dolittle_448119)
+
 ## Atmos
 
 **2020 • PG • 1h 41m • Family, Fantasy, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Hoodwinked Too! Hood VS. Evil
 
+[Compare across authors](../../compare/?t=film-hoodwinked-too-hood-vs-evil_57089)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG • 1h 26m • Comedy, Animation, Family • mobe1969**

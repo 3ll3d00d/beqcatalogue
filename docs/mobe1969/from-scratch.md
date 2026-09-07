@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-from-scratch_207717)
+
 ## Season 1
 
 * DD+ Atmos

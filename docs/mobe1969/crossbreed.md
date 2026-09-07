@@ -1,5 +1,7 @@
 # Crossbreed
 
+[Compare across authors](../../compare/?t=film-crossbreed_514755)
+
 ## DD+ 5.1
 
 **2019 • 15 • 1h 26m • Science Fiction • mobe1969**

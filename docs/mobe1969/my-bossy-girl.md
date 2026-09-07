@@ -1,5 +1,7 @@
 # My Bossy Girl
 
+[Compare across authors](../../compare/?t=film-my-bossy-girl_640793)
+
 ## DD+ 2.0
 
 **2019 • NR • 1h 40m • Korean • Comedy, Romance • mobe1969**

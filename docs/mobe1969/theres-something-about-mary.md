@@ -1,5 +1,7 @@
 # There's Something About Mary
 
+[Compare across authors](../../compare/?t=film-theres-something-about-mary_544)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

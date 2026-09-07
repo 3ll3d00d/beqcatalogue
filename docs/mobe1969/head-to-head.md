@@ -1,5 +1,7 @@
 # Head to Head
 
+[Compare across authors](../../compare/?t=film-head-to-head_1153366)
+
 ## DD+ Atmos
 
 **2023 • NR • 0h 0m • Arabic • Action, Comedy, Thriller • mobe1969**

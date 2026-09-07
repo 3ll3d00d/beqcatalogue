@@ -1,5 +1,7 @@
 # American Pie 2
 
+[Compare across authors](../../compare/?t=film-american-pie-2_2770)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 1h 48m • Comedy, Romance • mobe1969**

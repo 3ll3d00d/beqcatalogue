@@ -1,5 +1,7 @@
 # Zombie For Sale
 
+[Compare across authors](../../compare/?t=film-zombie-for-sale_572151)
+
 ## TrueHD 5.1
 
 **2019 • NR • 1h 52m • Korean • Comedy, Horror, Drama, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # A Better Tomorrow
 
+[Compare across authors](../../compare/?t=film-a-better-tomorrow_58959)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 2h 4m • Korean • Drama, Action, Thriller • mobe1969**

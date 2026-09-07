@@ -1,5 +1,7 @@
 # The Inhabitant
 
+[Compare across authors](../../compare/?t=film-the-inhabitant_772973)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 37m • Thriller, Horror • mobe1969**

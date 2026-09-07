@@ -1,5 +1,7 @@
 # Boudica
 
+[Compare across authors](../../compare/?t=film-boudica_975902)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 41m • Action, War • mobe1969**

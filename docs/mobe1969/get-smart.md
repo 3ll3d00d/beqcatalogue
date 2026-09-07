@@ -1,5 +1,7 @@
 # Get Smart
 
+[Compare across authors](../../compare/?t=film-get-smart_11665)
+
 ## DD 5.1
 
 **2008 • PG-13 • 1h 50m • Action, Comedy, Thriller • mobe1969**

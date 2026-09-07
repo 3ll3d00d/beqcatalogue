@@ -1,5 +1,7 @@
 # Date Night
 
+[Compare across authors](../../compare/?t=film-date-night_35056)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

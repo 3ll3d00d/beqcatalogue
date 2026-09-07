@@ -1,5 +1,7 @@
 # Gasoline Alley
 
+[Compare across authors](../../compare/?t=film-gasoline-alley_916821)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • R • 1h 37m • Thriller, Crime, Mystery • mobe1969**

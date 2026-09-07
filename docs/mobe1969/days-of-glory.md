@@ -1,5 +1,7 @@
 # Days of Glory
 
+[Compare across authors](../../compare/?t=film-days-of-glory_2016)
+
 ## DD 5.1, DTS 5.1
 
 **2006 • R • 2h 8m • French • Drama, History, War • mobe1969**

@@ -1,5 +1,7 @@
 # Ghost Dog: The Way of the Samurai
 
+[Compare across authors](../../compare/?t=film-ghost-dog-the-way-of-the-samurai_4816)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 56m • Crime, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # MAL·MO·E: The Secret Mission
 
+[Compare across authors](../../compare/?t=film-malmoe-the-secret-mission_564863)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 2h 15m • Korean • Drama, Comedy, History • mobe1969**

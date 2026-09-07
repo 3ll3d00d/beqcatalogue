@@ -1,5 +1,7 @@
 # Alice in Wonderland
 
+[Compare across authors](../../compare/?t=film-alice-in-wonderland_12155)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG • 1h 48m • Family, Fantasy, Adventure • mobe1969**

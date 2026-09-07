@@ -1,5 +1,7 @@
 # Wrong Place, Wrong Time
 
+[Compare across authors](../../compare/?t=film-wrong-place-wrong-time_818972)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 24m • Action, Horror, Thriller • mobe1969**

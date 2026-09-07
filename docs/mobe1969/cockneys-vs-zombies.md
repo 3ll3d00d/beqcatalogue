@@ -1,5 +1,7 @@
 # Cockneys vs Zombies
 
+[Compare across authors](../../compare/?t=film-cockneys-vs-zombies_114606)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 28m • Comedy, Horror • mobe1969**

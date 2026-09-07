@@ -1,5 +1,7 @@
 # The Missing Lynx
 
+[Compare across authors](../../compare/?t=film-the-missing-lynx_29192)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG • 1h 37m • Animation, Family, Adventure • mobe1969**

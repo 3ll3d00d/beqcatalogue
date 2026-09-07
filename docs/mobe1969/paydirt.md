@@ -1,5 +1,7 @@
 # Paydirt
 
+[Compare across authors](../../compare/?t=film-paydirt_696002)
+
 ## DD 5.1
 
 **2020 • NR • 1h 21m • Crime, Thriller • mobe1969**

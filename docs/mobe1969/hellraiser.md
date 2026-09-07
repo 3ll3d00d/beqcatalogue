@@ -1,5 +1,7 @@
 # Hellraiser
 
+[Compare across authors](../../compare/?t=film-hellraiser_9003)
+
 ## DTS-HD MA 5.1
 
 **1987 • R • 1h 34m • Horror • mobe1969**

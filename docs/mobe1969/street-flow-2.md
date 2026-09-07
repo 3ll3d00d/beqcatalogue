@@ -1,5 +1,7 @@
 # Street Flow 2
 
+[Compare across authors](../../compare/?t=film-street-flow-2_1034947)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 38m • French • Drama • mobe1969**

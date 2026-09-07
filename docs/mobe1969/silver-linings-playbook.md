@@ -1,5 +1,7 @@
 # Silver Linings Playbook
 
+[Compare across authors](../../compare/?t=film-silver-linings-playbook_82693)
+
 ## DD+ 5.1
 
 **2012 • R • 2h 2m • Drama, Comedy, Romance • mobe1969**

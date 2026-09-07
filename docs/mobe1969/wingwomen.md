@@ -1,5 +1,7 @@
 # Wingwomen
 
+[Compare across authors](../../compare/?t=film-wingwomen_1010928)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 54m • French • Comedy, Action • mobe1969**

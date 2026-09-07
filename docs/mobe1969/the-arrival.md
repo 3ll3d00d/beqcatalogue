@@ -1,5 +1,7 @@
 # The Arrival
 
+[Compare across authors](../../compare/?t=film-the-arrival_10547)
+
 ## DD+ 5.1
 
 **1996 • PG-13 • 1h 55m • Science Fiction, Thriller • mobe1969**

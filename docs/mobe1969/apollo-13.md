@@ -1,5 +1,7 @@
 # Apollo 13
 
+[Compare across authors](../../compare/?t=film-apollo-13_568)
+
 ## DTS-X
 
 **1995 • PG • 2h 20m • History, Drama, Adventure • mobe1969**

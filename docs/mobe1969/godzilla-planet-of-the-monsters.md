@@ -1,5 +1,7 @@
 # Godzilla: Planet of the Monsters
 
+[Compare across authors](../../compare/?t=film-godzilla-planet-of-the-monsters_449574)
+
 ## DD+ 5.1
 
 **2017 • PG-13 • 1h 29m • Japanese • Action, Adventure, Science Fiction, Animation • mobe1969**

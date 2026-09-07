@@ -1,5 +1,7 @@
 # Broad Peak
 
+[Compare across authors](../../compare/?t=film-broad-peak_999127)
+
 ## DD+ Atmos
 
 **2022 • NR • 1h 41m • Polish • Thriller, Drama • mobe1969**

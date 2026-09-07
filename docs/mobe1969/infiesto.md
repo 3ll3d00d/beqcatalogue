@@ -1,5 +1,7 @@
 # Infiesto
 
+[Compare across authors](../../compare/?t=film-infiesto_1072567)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 36m • Spanish • Thriller, Crime, Drama • mobe1969**

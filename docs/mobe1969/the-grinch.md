@@ -1,5 +1,7 @@
 # The Grinch
 
+[Compare across authors](../../compare/?t=film-the-grinch_360920)
+
 ## Atmos
 
 **2018 • PG • 1h 25m • Animation, Family, Comedy, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Flatliners
 
+[Compare across authors](../../compare/?t=film-flatliners_1551)
+
 ## DTS-HD MA 5.1
 
 UHD

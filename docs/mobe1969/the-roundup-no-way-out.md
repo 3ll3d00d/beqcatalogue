@@ -1,5 +1,7 @@
 # The Roundup: No Way Out
 
+[Compare across authors](../../compare/?t=film-the-roundup-no-way-out_955555)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 45m • Korean • Crime, Action • mobe1969**

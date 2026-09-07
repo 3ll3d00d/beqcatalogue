@@ -1,5 +1,7 @@
 # I Am All Girls
 
+[Compare across authors](../../compare/?t=film-i-am-all-girls_823855)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 47m • Crime, Drama, Mystery, Thriller • mobe1969**

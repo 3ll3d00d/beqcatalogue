@@ -1,5 +1,7 @@
 # Heartfall Arises
 
+[Compare across authors](../../compare/?t=film-heartfall-arises_416309)
+
 ## TrueHD 5.1
 
 **2016 • NR • 1h 46m • Cantonese • Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Inferno
 
+[Compare across authors](../../compare/?t=film-inferno_10908)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 35m • Romance, Drama, Action • mobe1969**

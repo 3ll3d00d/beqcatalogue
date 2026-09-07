@@ -1,5 +1,7 @@
 # The Great Magician
 
+[Compare across authors](../../compare/?t=film-the-great-magician_83721)
+
 ## DD+ 5.1
 
 **2011 • NR • 2h 8m • Mandarin • Drama, Mystery • mobe1969**

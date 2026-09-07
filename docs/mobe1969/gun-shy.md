@@ -1,5 +1,7 @@
 # Gun Shy
 
+[Compare across authors](../../compare/?t=film-gun-shy_430682)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 31m • Action, Crime, Adventure, Thriller, Comedy • mobe1969**

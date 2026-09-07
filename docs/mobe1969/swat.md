@@ -1,5 +1,7 @@
 # S.W.A.T.
 
+[Compare across authors](../../compare/?t=film-swat_9257)
+
 ## LPCM 5.1, DD+ 5.1
 
 **2003 • PG-13 • 1h 57m • Action, Crime, Thriller • mobe1969**

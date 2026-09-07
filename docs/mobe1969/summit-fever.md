@@ -1,5 +1,7 @@
 # Summit Fever
 
+[Compare across authors](../../compare/?t=film-summit-fever_994441)
+
 ## DTS-HD MA 5.1
 
 **2023 • R • 1h 55m • Drama, Thriller • mobe1969**

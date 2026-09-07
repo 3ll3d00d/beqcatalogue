@@ -1,5 +1,7 @@
 # These Final Hours
 
+[Compare across authors](../../compare/?t=film-these-final-hours_199575)
+
 ## DTS-HD MA 5.1
 
 **2013 • 15 • 1h 27m • Drama, Science Fiction, Thriller • mobe1969**

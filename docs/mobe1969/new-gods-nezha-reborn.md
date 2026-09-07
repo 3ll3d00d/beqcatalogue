@@ -1,5 +1,7 @@
 # New Gods: Nezha Reborn
 
+[Compare across authors](../../compare/?t=film-new-gods-nezha-reborn_663558)
+
 ## DD+ 5.1
 
 **2021 • 12 • 1h 56m • Mandarin • Animation, Action, Fantasy • mobe1969**

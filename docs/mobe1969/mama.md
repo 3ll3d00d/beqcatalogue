@@ -1,5 +1,7 @@
 # Mama
 
+[Compare across authors](../../compare/?t=film-mama_132232)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 40m • Horror • mobe1969**

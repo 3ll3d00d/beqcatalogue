@@ -1,5 +1,7 @@
 # Almost Famous
 
+[Compare across authors](../../compare/?t=film-almost-famous_786)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

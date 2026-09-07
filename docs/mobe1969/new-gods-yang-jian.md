@@ -1,5 +1,7 @@
 # New Gods: Yang Jian
 
+[Compare across authors](../../compare/?t=film-new-gods-yang-jian_844075)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 2h 8m • Mandarin • Animation, Adventure, Fantasy • mobe1969**

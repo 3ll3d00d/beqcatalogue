@@ -1,5 +1,7 @@
 # The Incredibles
 
+[Compare across authors](../../compare/?t=film-the-incredibles_9806)
+
 ## Atmos
 
 **2004 • PG • 1h 55m • Action, Adventure, Animation, Family • mobe1969**

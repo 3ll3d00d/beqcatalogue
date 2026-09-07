@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-cosmos_58474)
+
 ## Season 2
 
 * DD+

@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-jurassic-world-camp-cretaceous_93741)
+
 ## Season 1
 
 * DD+

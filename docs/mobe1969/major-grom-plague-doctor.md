@@ -1,5 +1,7 @@
 # Major Grom: Plague Doctor
 
+[Compare across authors](../../compare/?t=film-major-grom-plague-doctor_529106)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 16m • Russian • Action, Adventure • mobe1969**

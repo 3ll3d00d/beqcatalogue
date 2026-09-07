@@ -1,5 +1,7 @@
 # Athena: Goddess of War
 
+[Compare across authors](../../compare/?t=film-athena-goddess-of-war_97872)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 2h 0m • Korean • Action, Thriller • mobe1969**

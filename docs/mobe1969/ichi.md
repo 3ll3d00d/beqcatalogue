@@ -1,5 +1,7 @@
 # Ichi
 
+[Compare across authors](../../compare/?t=film-ichi_19506)
+
 ## TrueHD 5.1
 
 **2008 • NR • 2h 0m • Japanese • Action, Adventure, Drama, History • mobe1969**

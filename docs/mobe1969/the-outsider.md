@@ -1,5 +1,7 @@
 # The Outsider
 
+[Compare across authors](../../compare/?t=film-the-outsider_241765)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 34m • Action, Crime, Drama, Mystery, Thriller • mobe1969**

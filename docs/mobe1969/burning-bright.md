@@ -1,5 +1,7 @@
 # Burning Bright
 
+[Compare across authors](../../compare/?t=film-burning-bright_39957)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 29m • Drama, Horror, Thriller • mobe1969**

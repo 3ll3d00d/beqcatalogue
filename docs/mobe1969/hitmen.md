@@ -1,5 +1,7 @@
 # Hitmen
 
+[Compare across authors](../../compare/?t=film-hitmen_1063971)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 36m • Action, Comedy • mobe1969**

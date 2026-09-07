@@ -1,5 +1,7 @@
 # Damascus Cover
 
+[Compare across authors](../../compare/?t=film-damascus-cover_324538)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 33m • Thriller, Mystery • mobe1969**

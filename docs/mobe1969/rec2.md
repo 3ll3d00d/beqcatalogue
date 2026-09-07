@@ -1,5 +1,7 @@
 # [REC]²
 
+[Compare across authors](../../compare/?t=film-rec2_10664)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 25m • Spanish • Horror, Thriller • mobe1969**

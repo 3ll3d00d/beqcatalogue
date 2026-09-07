@@ -1,5 +1,7 @@
 # Killer Elite
 
+[Compare across authors](../../compare/?t=film-killer-elite_49021)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 2h 6m • Action, Adventure, Thriller • mobe1969**

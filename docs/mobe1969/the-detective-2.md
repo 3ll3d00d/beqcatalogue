@@ -1,5 +1,7 @@
 # The Detective 2
 
+[Compare across authors](../../compare/?t=film-the-detective-2_69619)
+
 ## DTS-HD MA 7.1
 
 **2011 • NR • 1h 41m • Cantonese • Action • mobe1969**

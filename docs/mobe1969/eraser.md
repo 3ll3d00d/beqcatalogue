@@ -1,5 +1,7 @@
 # Eraser
 
+[Compare across authors](../../compare/?t=film-eraser_9268)
+
 ## TrueHD 5.1
 
 **1996 • R • 1h 55m • Action, Drama, Mystery, Thriller • mobe1969**

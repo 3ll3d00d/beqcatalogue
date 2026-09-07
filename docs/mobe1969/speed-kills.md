@@ -1,5 +1,7 @@
 # Speed Kills
 
+[Compare across authors](../../compare/?t=film-speed-kills_466411)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 42m • Crime, Drama, Thriller • mobe1969**

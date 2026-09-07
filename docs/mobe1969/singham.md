@@ -1,5 +1,7 @@
 # Singham
 
+[Compare across authors](../../compare/?t=film-singham_70590)
+
 ## DD+ 5.1
 
 **2011 • 12A • 2h 23m • Hindi • Drama, Action, Crime • mobe1969**

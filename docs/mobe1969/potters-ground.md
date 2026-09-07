@@ -1,5 +1,7 @@
 # Potter's Ground
 
+[Compare across authors](../../compare/?t=film-potters-ground_829729)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 40m • Drama, Thriller, Western • mobe1969**

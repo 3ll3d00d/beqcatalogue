@@ -1,5 +1,7 @@
 # The Running Man
 
+[Compare across authors](../../compare/?t=film-the-running-man_865)
+
 ## DTS-HD MA 5.1
 
 **1987 • R • 1h 41m • Action, Science Fiction, Thriller • mobe1969**

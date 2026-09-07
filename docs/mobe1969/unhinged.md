@@ -1,5 +1,7 @@
 # Unhinged
 
+[Compare across authors](../../compare/?t=film-unhinged_454417)
+
 ## DD+ 5.1
 
 **2017 • 15 • 1h 33m • Horror • mobe1969**

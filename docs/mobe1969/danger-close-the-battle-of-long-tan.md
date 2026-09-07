@@ -1,5 +1,7 @@
 # Danger Close: The Battle of Long Tan
 
+[Compare across authors](../../compare/?t=film-danger-close-the-battle-of-long-tan_508664)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2019 • R • 1h 59m • War, Action, Drama, History • mobe1969**

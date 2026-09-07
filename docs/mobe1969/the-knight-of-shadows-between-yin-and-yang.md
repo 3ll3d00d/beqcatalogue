@@ -1,5 +1,7 @@
 # The Knight of Shadows: Between Yin and Yang
 
+[Compare across authors](../../compare/?t=film-the-knight-of-shadows-between-yin-and-yang_512901)
+
 ## DD+ 5.1
 
 **2019 • PG • 1h 48m • Mandarin • Action, Fantasy • mobe1969**

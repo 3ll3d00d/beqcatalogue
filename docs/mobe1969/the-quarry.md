@@ -1,5 +1,7 @@
 # The Quarry
 
+[Compare across authors](../../compare/?t=film-the-quarry_598215)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 38m • Crime, Mystery, Thriller • mobe1969**

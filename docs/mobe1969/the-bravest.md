@@ -1,5 +1,7 @@
 # The Bravest
 
+[Compare across authors](../../compare/?t=film-the-bravest_605375)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 58m • Mandarin • Drama • mobe1969**

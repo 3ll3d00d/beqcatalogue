@@ -1,5 +1,7 @@
 # 3: The Dale Earnhardt Story
 
+[Compare across authors](../../compare/?t=film-3-the-dale-earnhardt-story_30762)
+
 ## DD 5.1
 
 **2004 • NR • 1h 32m • TV Movie, Drama • mobe1969**

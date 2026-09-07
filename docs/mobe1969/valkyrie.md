@@ -1,5 +1,7 @@
 # Valkyrie
 
+[Compare across authors](../../compare/?t=film-valkyrie_2253)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG-13 • 2h 1m • Drama, Thriller, History, War • mobe1969**

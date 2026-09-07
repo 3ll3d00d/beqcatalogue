@@ -1,5 +1,7 @@
 # The Isle
 
+[Compare across authors](../../compare/?t=film-the-isle_8653)
+
 ## DTS-HD MA 2.0
 
 **2000 • NR • 1h 30m • Korean • Drama, Thriller • mobe1969**

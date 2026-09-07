@@ -1,5 +1,7 @@
 # In the Name of the King
 
+[Compare across authors](../../compare/?t=film-in-the-name-of-the-king_2312)
+
 ## DTS-HD MA 5.1
 
 **2007 • PG-13 • 2h 7m • Drama, Adventure, Fantasy, Action • mobe1969**

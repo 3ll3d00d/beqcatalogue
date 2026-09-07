@@ -1,5 +1,7 @@
 # Green Snake
 
+[Compare across authors](../../compare/?t=film-green-snake_795607)
+
 ## DD+ 5.1
 
 **2021 • 12 • 2h 11m • Mandarin • Animation, Fantasy, Action, Adventure • mobe1969**

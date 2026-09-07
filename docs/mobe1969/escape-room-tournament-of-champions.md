@@ -1,5 +1,7 @@
 # Escape Room: Tournament of Champions
 
+[Compare across authors](../../compare/?t=film-escape-room-tournament-of-champions_585216)
+
 ## DD+ 5.1
 
 Extended Cut

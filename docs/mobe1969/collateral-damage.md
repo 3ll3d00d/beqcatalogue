@@ -1,5 +1,7 @@
 # Collateral Damage
 
+[Compare across authors](../../compare/?t=film-collateral-damage_9884)
+
 ## TrueHD 5.1
 
 **2002 • R • 1h 48m • Action, Thriller, Drama • mobe1969**

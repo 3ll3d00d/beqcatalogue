@@ -1,5 +1,7 @@
 # Stand by Me
 
+[Compare across authors](../../compare/?t=film-stand-by-me_235)
+
 ## Atmos
 
 **1986 • R • 1h 29m • Crime, Drama • mobe1969**

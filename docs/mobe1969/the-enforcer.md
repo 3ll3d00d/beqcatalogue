@@ -1,5 +1,7 @@
 # The Enforcer
 
+[Compare across authors](../../compare/?t=film-the-enforcer_846433)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 31m • Action, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Along Came a Spider
 
+[Compare across authors](../../compare/?t=film-along-came-a-spider_2043)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 1h 44m • Thriller, Mystery, Crime, Action • mobe1969**

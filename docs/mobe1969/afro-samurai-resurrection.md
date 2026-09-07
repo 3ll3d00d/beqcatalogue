@@ -1,5 +1,7 @@
 # Afro Samurai: Resurrection
 
+[Compare across authors](../../compare/?t=film-afro-samurai-resurrection_14711)
+
 ## TrueHD 5.1
 
 **2009 • NR • 1h 41m • Animation, Action • mobe1969**

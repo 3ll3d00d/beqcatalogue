@@ -1,5 +1,7 @@
 # Roald Dahl's Matilda The Musical
 
+[Compare across authors](../../compare/?t=film-roald-dahls-matilda-the-musical_668482)
+
 ## DD+ Atmos
 
 **2022 • PG • 1h 57m • Family, Comedy, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Brothers
 
+[Compare across authors](../../compare/?t=film-brothers_7445)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 44m • Drama, Thriller, War • mobe1969**

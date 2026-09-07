@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-santo_128013)
+
 ## Season 1
 
 * DD+ Atmos

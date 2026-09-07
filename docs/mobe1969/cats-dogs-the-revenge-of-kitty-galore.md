@@ -1,5 +1,7 @@
 # Cats & Dogs: The Revenge of Kitty Galore
 
+[Compare across authors](../../compare/?t=film-cats-dogs-the-revenge-of-kitty-galore_39691)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG • 1h 22m • Action, Adventure, Animation, Comedy, Family, Fantasy • mobe1969**

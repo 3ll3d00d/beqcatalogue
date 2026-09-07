@@ -1,5 +1,7 @@
 # Roman J. Israel, Esq.
 
+[Compare across authors](../../compare/?t=film-roman-j-israel-esq_413362)
+
 ## DD+ 5.1
 
 **2017 • PG-13 • 2h 2m • Drama, Crime, Thriller • mobe1969**

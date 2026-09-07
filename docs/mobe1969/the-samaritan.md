@@ -1,5 +1,7 @@
 # The Samaritan
 
+[Compare across authors](../../compare/?t=film-the-samaritan_98339)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 30m • Thriller • mobe1969**

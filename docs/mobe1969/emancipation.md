@@ -1,5 +1,7 @@
 # Emancipation
 
+[Compare across authors](../../compare/?t=film-emancipation_715931)
+
 ## DD+ Atmos
 
 **2022 • R • 2h 12m • History, Drama, Thriller, Action • mobe1969**

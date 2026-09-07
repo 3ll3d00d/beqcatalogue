@@ -1,5 +1,7 @@
 # Knocked Up
 
+[Compare across authors](../../compare/?t=film-knocked-up_4964)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

@@ -1,5 +1,7 @@
 # Luther: The Fallen Sun
 
+[Compare across authors](../../compare/?t=film-luther-the-fallen-sun_722149)
+
 ## DD+ Atmos
 
 **2023 • R • 2h 9m • Crime, Drama • mobe1969**

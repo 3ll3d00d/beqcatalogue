@@ -1,5 +1,7 @@
 # Baby Boy
 
+[Compare across authors](../../compare/?t=film-baby-boy_16161)
+
 ## DD+ 5.1
 
 **2001 • R • 2h 10m • Crime, Drama, Romance, Thriller • mobe1969**

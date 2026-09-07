@@ -1,5 +1,7 @@
 # Detective vs. Sleuths
 
+[Compare across authors](../../compare/?t=film-detective-vs-sleuths_543504)
+
 ## Atmos
 
 **2022 • NR • 1h 42m • Cantonese • Action, Crime, Mystery, Thriller • mobe1969**

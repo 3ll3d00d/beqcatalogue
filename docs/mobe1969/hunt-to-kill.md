@@ -1,5 +1,7 @@
 # Hunt to Kill
 
+[Compare across authors](../../compare/?t=film-hunt-to-kill_46713)
+
 ## TrueHD 5.1
 
 **2010 • R • 1h 38m • Action, Adventure, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Virupaksha
 
+[Compare across authors](../../compare/?t=film-virupaksha_1034590)
+
 ## DD+ 5.1
 
 **2023 • 15 • 2h 26m • Telugu • Mystery, Thriller, Horror • mobe1969**

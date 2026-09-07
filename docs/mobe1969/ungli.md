@@ -1,5 +1,7 @@
 # Ungli
 
+[Compare across authors](../../compare/?t=film-ungli_303904)
+
 ## DD+ 5.1
 
 **2014 • NR • 1h 54m • Hindi • Thriller, Comedy, Drama • mobe1969**

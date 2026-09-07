@@ -1,5 +1,7 @@
 # Jackass Number Two
 
+[Compare across authors](../../compare/?t=film-jackass-number-two_12094)
+
 ## DD+ 5.1
 
 **2006 • R • 1h 32m • Action, Comedy, Documentary • mobe1969**

@@ -1,5 +1,7 @@
 # Mercury Plains
 
+[Compare across authors](../../compare/?t=film-mercury-plains_376003)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 42m • Action, Adventure, Drama • mobe1969**

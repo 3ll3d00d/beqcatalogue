@@ -1,5 +1,7 @@
 # Legion
 
+[Compare across authors](../../compare/?t=film-legion_22894)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 40m • Horror, Fantasy, Action • mobe1969**

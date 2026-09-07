@@ -1,5 +1,7 @@
 # Soldiers of Fortune
 
+[Compare across authors](../../compare/?t=film-soldiers-of-fortune_112304)
+
 ## DD+ 5.1
 
 **2012 • R • 1h 34m • Action, Adventure • mobe1969**

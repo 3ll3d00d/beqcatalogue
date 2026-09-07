@@ -1,5 +1,7 @@
 # The Nugget
 
+[Compare across authors](../../compare/?t=film-the-nugget_6382)
+
 ## DD+ 5.1
 
 **2002 • NR • 1h 29m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Back to the Future Part III
 
+[Compare across authors](../../compare/?t=film-back-to-the-future-part-iii_196)
+
 ## DTS-HD MA 5.1
 
 **1990 • PG • 1h 59m • Comedy, Adventure, Science Fiction • mobe1969**

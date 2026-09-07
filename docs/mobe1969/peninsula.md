@@ -1,5 +1,7 @@
 # Peninsula
 
+[Compare across authors](../../compare/?t=film-peninsula_581392)
+
 ## Atmos
 
 **2020 • NR • 1h 56m • Korean • Action, Horror, Thriller • mobe1969**

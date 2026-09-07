@@ -1,5 +1,7 @@
 # In a Valley of Violence
 
+[Compare across authors](../../compare/?t=film-in-a-valley-of-violence_291356)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 44m • Crime, Thriller, Western, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Good Kill
 
+[Compare across authors](../../compare/?t=film-good-kill_253626)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 44m • Drama • mobe1969**

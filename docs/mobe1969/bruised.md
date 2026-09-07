@@ -1,5 +1,7 @@
 # Bruised
 
+[Compare across authors](../../compare/?t=film-bruised_718633)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • R • 2h 9m • Drama • mobe1969**

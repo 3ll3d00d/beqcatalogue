@@ -1,5 +1,7 @@
 # Magic to Win
 
+[Compare across authors](../../compare/?t=film-magic-to-win_85874)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 40m • Cantonese • Fantasy • mobe1969**

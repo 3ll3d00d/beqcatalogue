@@ -1,5 +1,7 @@
 # Behind Enemy Lines
 
+[Compare across authors](../../compare/?t=film-behind-enemy-lines_8007)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG-13 • 1h 46m • Action, Drama, Thriller, War • mobe1969**

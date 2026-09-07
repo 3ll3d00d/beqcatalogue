@@ -1,5 +1,7 @@
 # Broken Arrow
 
+[Compare across authors](../../compare/?t=film-broken-arrow_9208)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 1h 48m • Action • mobe1969**

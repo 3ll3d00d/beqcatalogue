@@ -1,5 +1,7 @@
 # Iron Protector
 
+[Compare across authors](../../compare/?t=film-iron-protector_399300)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 29m • Mandarin • Action • mobe1969**

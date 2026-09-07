@@ -1,5 +1,7 @@
 # Escaflowne
 
+[Compare across authors](../../compare/?t=film-escaflowne_16990)
+
 ## TrueHD 5.1
 
 **2000 • PG-13 • 1h 38m • Japanese • Animation, Drama, Adventure, Fantasy • mobe1969**

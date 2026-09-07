@@ -1,5 +1,7 @@
 # Battleship
 
+[Compare across authors](../../compare/?t=film-battleship_44833)
+
 ## DD+ 5.1
 
 **2012 • PG-13 • 2h 11m • Thriller, Action, Adventure, Science Fiction • mobe1969**

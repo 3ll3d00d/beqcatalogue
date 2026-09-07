@@ -1,5 +1,7 @@
 # Fear and Loathing in Las Vegas
 
+[Compare across authors](../../compare/?t=film-fear-and-loathing-in-las-vegas_1878)
+
 ## DTS-HD MA 5.1
 
 UHD

@@ -1,5 +1,7 @@
 # The Belko Experiment
 
+[Compare across authors](../../compare/?t=film-the-belko-experiment_341006)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 29m • Thriller, Action, Horror • mobe1969**

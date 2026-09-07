@@ -1,5 +1,7 @@
 # Star Trek IV: The Voyage Home
 
+[Compare across authors](../../compare/?t=film-star-trek-iv-the-voyage-home_168)
+
 ## TrueHD 7.1
 
 **1986 • PG • 1h 59m • Science Fiction, Adventure • mobe1969**

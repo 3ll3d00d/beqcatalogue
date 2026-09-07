@@ -1,5 +1,7 @@
 # The Game Changer
 
+[Compare across authors](../../compare/?t=film-the-game-changer_452103)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 2h 6m • Mandarin • Action, Crime, Drama • mobe1969**

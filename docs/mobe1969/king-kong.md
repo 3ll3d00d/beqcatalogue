@@ -1,5 +1,7 @@
 # King Kong
 
+[Compare across authors](../../compare/?t=film-king-kong_10730)
+
 ## DTS-HD MA 5.1
 
 **1976 • PG • 2h 14m • Adventure, Drama, Horror • mobe1969**

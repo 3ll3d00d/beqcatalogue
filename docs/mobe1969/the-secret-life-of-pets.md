@@ -1,5 +1,7 @@
 # The Secret Life of Pets
 
+[Compare across authors](../../compare/?t=film-the-secret-life-of-pets_328111)
+
 ## Atmos
 
 **2016 • PG • 1h 26m • Adventure, Comedy, Animation, Family • mobe1969**

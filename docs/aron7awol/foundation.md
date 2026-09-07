@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-foundation_93740)
+
 ## Season 1 Episodes 1-3, 8
 
 * DD+ Atmos

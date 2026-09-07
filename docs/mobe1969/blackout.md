@@ -1,5 +1,7 @@
 # Blackout
 
+[Compare across authors](../../compare/?t=film-blackout_759507)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 31m • Action • mobe1969**

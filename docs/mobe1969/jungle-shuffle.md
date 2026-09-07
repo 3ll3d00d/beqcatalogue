@@ -1,5 +1,7 @@
 # Jungle Shuffle
 
+[Compare across authors](../../compare/?t=film-jungle-shuffle_283671)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 22m • Family, Animation, Adventure • mobe1969**

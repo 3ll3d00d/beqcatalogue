@@ -1,5 +1,7 @@
 # Cloudy Mountain
 
+[Compare across authors](../../compare/?t=film-cloudy-mountain_862855)
+
 ## TrueHD 5.1
 
 **2021 • NR • 1h 54m • Mandarin • Action • mobe1969**

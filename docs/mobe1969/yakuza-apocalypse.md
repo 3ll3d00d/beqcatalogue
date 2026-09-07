@@ -1,5 +1,7 @@
 # Yakuza Apocalypse
 
+[Compare across authors](../../compare/?t=film-yakuza-apocalypse_283127)
+
 ## DTS-HD MA 5.1
 
 **2015 • 16 • 1h 55m • Japanese • Action, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # The Hole
 
+[Compare across authors](../../compare/?t=film-the-hole_45650)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 32m • Adventure, Fantasy, Thriller • mobe1969**

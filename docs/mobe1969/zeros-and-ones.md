@@ -1,5 +1,7 @@
 # Zeros and Ones
 
+[Compare across authors](../../compare/?t=film-zeros-and-ones_762433)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 25m • Thriller, War • mobe1969**

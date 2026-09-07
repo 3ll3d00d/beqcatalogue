@@ -1,5 +1,7 @@
 # Earth and Blood
 
+[Compare across authors](../../compare/?t=film-earth-and-blood_659067)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 20m • French • Action, Thriller • mobe1969**

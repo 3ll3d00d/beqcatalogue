@@ -1,5 +1,7 @@
 # Toilet: A Love Story
 
+[Compare across authors](../../compare/?t=film-toilet-a-love-story_441875)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 35m • Hindi • Comedy, Drama, Romance • mobe1969**

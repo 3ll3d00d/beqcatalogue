@@ -1,5 +1,7 @@
 # Masquerade
 
+[Compare across authors](../../compare/?t=film-masquerade_133200)
+
 ## DD 5.1
 
 **2012 • NR • 2h 11m • Korean • Drama • mobe1969**

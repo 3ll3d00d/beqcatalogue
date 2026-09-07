@@ -1,5 +1,7 @@
 # Loving Adults
 
+[Compare across authors](../../compare/?t=film-loving-adults_990691)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 45m • Danish • Crime, Thriller, Drama • mobe1969**

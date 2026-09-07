@@ -1,5 +1,7 @@
 # The Sixth Secret
 
+[Compare across authors](../../compare/?t=film-the-sixth-secret_964237)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 30m • Crime, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # A Lonely Place to Die
 
+[Compare across authors](../../compare/?t=film-a-lonely-place-to-die_81390)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 39m • Crime, Adventure, Thriller, Action • mobe1969**

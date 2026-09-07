@@ -1,5 +1,7 @@
 # Rise: Blood Hunter
 
+[Compare across authors](../../compare/?t=film-rise-blood-hunter_1872)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 2h 2m • Action, Adventure, Horror, Thriller • mobe1969**

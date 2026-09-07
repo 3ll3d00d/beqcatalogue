@@ -1,5 +1,7 @@
 # Day of the Dead: Bloodline
 
+[Compare across authors](../../compare/?t=film-day-of-the-dead-bloodline_485415)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 30m • Action, Horror • mobe1969**

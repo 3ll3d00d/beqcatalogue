@@ -1,5 +1,7 @@
 # Mafia Mamma
 
+[Compare across authors](../../compare/?t=film-mafia-mamma_809787)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 41m • Comedy, Action, Crime • mobe1969**

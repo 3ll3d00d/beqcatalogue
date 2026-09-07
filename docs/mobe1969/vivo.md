@@ -1,5 +1,7 @@
 # Vivo
 
+[Compare across authors](../../compare/?t=film-vivo_449406)
+
 ## DD+ Atmos
 
 **2021 • PG • 1h 43m • Animation, Family, Comedy • mobe1969**

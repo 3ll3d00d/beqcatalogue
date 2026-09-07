@@ -1,5 +1,7 @@
 # The Little Stranger
 
+[Compare across authors](../../compare/?t=film-the-little-stranger_455108)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 51m • Mystery, Horror • mobe1969**

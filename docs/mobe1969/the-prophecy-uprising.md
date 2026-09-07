@@ -1,5 +1,7 @@
 # The Prophecy: Uprising
 
+[Compare across authors](../../compare/?t=film-the-prophecy-uprising_19564)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 28m • Horror, Action, Fantasy, Thriller • mobe1969**

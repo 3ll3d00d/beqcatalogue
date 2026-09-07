@@ -1,5 +1,7 @@
 # One Hour Photo
 
+[Compare across authors](../../compare/?t=film-one-hour-photo_9357)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 1h 36m • Thriller • mobe1969**

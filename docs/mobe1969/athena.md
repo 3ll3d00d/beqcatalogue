@@ -1,5 +1,7 @@
 # Athena
 
+[Compare across authors](../../compare/?t=film-athena_852046)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 37m • French • Drama, Action, Thriller • mobe1969**

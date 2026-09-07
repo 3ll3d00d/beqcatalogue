@@ -1,5 +1,7 @@
 # Black Box
 
+[Compare across authors](../../compare/?t=film-black-box_716258)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 40m • Horror, Science Fiction, Thriller • mobe1969**

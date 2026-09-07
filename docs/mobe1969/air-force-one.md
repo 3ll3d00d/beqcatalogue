@@ -1,5 +1,7 @@
 # Air Force One
 
+[Compare across authors](../../compare/?t=film-air-force-one_9772)
+
 ## Atmos
 
 **1997 • R • 2h 4m • Action, Thriller • mobe1969**

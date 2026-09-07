@@ -1,5 +1,7 @@
 # Rise of the Guardians
 
+[Compare across authors](../../compare/?t=film-rise-of-the-guardians_81188)
+
 ## TrueHD 7.1
 
 **2012 • PG • 1h 37m • Family, Animation, Fantasy, Action, Adventure • mobe1969**

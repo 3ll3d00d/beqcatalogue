@@ -1,5 +1,7 @@
 # Dishoom
 
+[Compare across authors](../../compare/?t=film-dishoom_393441)
+
 ## DD 5.1
 
 **2016 • NR • 2h 0m • Hindi • Comedy, Action • mobe1969**

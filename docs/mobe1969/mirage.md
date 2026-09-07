@@ -1,5 +1,7 @@
 # Mirage
 
+[Compare across authors](../../compare/?t=film-mirage_529216)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 9m • Spanish • Science Fiction, Thriller, Drama, Romance, Mystery • mobe1969**

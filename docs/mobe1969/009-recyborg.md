@@ -1,5 +1,7 @@
 # 009 Re:Cyborg
 
+[Compare across authors](../../compare/?t=film-009-recyborg_127544)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 43m • Japanese • Action, Animation, Science Fiction • mobe1969**

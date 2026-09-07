@@ -1,5 +1,7 @@
 # Survival Game
 
+[Compare across authors](../../compare/?t=film-survival-game_375108)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 31m • Russian • Action, Science Fiction • mobe1969**

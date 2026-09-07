@@ -1,5 +1,7 @@
 # The Legend of Tarzan
 
+[Compare across authors](../../compare/?t=film-the-legend-of-tarzan_258489)
+
 ## Atmos
 
 **2016 • PG-13 • 1h 49m • Fantasy, Action, Adventure • mobe1969**

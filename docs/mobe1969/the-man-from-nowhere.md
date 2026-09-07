@@ -1,5 +1,7 @@
 # The Man from Nowhere
 
+[Compare across authors](../../compare/?t=film-the-man-from-nowhere_51608)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 59m • Korean • Action, Thriller, Crime • mobe1969**

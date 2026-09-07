@@ -1,5 +1,7 @@
 # Finding Steve McQueen
 
+[Compare across authors](../../compare/?t=film-finding-steve-mcqueen_433499)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 31m • Crime • mobe1969**

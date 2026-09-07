@@ -1,5 +1,7 @@
 # Out Of The Dark
 
+[Compare across authors](../../compare/?t=film-out-of-the-dark_283686)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 32m • Thriller, Horror • mobe1969**

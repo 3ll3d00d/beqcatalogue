@@ -1,5 +1,7 @@
 # Ice Age: Dawn of the Dinosaurs
 
+[Compare across authors](../../compare/?t=film-ice-age-dawn-of-the-dinosaurs_8355)
+
 ## DTS-HD MA 7.1
 
 **2009 • PG • 1h 34m • Animation, Comedy, Family, Adventure • mobe1969**

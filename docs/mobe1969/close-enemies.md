@@ -1,5 +1,7 @@
 # Close Enemies
 
+[Compare across authors](../../compare/?t=film-close-enemies_484901)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 51m • French • Drama, Thriller • mobe1969**

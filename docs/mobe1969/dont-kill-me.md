@@ -1,5 +1,7 @@
 # Don't Kill Me
 
+[Compare across authors](../../compare/?t=film-dont-kill-me_734796)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 30m • Italian • Horror, Romance, Drama • mobe1969**

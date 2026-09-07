@@ -1,5 +1,7 @@
 # The Aeronauts
 
+[Compare across authors](../../compare/?t=film-the-aeronauts_514921)
+
 ## DD+ 5.1
 
 **2019 • PG-13 • 1h 41m • Adventure, Drama, Romance • mobe1969**

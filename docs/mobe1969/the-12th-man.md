@@ -1,5 +1,7 @@
 # The 12th Man
 
+[Compare across authors](../../compare/?t=film-the-12th-man_435577)
+
 ## Atmos
 
 **2017 • NR • 2h 16m • Norwegian • Drama, War • mobe1969**

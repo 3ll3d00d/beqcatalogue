@@ -1,5 +1,7 @@
 # The Shining
 
+[Compare across authors](../../compare/?t=film-the-shining_694)
+
 ## DD+ 5.1
 
 **1980 • R • 2h 24m • Horror, Thriller • mobe1969**

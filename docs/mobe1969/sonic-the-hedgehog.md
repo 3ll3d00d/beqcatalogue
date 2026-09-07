@@ -1,5 +1,7 @@
 # Sonic the Hedgehog
 
+[Compare across authors](../../compare/?t=film-sonic-the-hedgehog_454626)
+
 ## Atmos
 
 **2020 • PG • 1h 39m • Action, Science Fiction, Comedy, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Knockaround Guys
 
+[Compare across authors](../../compare/?t=film-knockaround-guys_7501)
+
 ## DD+ 5.1
 
 **2001 • R • 1h 32m • Crime, Thriller • mobe1969**

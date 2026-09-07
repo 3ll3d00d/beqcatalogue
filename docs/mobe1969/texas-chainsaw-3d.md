@@ -1,5 +1,7 @@
 # Texas Chainsaw 3D
 
+[Compare across authors](../../compare/?t=film-texas-chainsaw-3d_76617)
+
 ## DTS-HD MA 7.1
 
 **2013 • R • 1h 32m • Thriller, Horror • mobe1969**

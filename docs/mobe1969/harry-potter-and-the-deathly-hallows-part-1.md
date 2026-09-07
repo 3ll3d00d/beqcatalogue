@@ -1,5 +1,7 @@
 # Harry Potter and the Deathly Hallows: Part 1
 
+[Compare across authors](../../compare/?t=film-harry-potter-and-the-deathly-hallows-part-1_12444)
+
 ## DD+ 5.1
 
 **2010 • PG-13 • 2h 26m • Adventure, Fantasy • mobe1969**

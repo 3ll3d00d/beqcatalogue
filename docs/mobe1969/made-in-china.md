@@ -1,5 +1,7 @@
 # Made in China
 
+[Compare across authors](../../compare/?t=film-made-in-china_640076)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 10m • Hindi • Comedy, Drama • mobe1969**

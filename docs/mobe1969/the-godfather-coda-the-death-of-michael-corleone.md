@@ -1,5 +1,7 @@
 # The Godfather Coda: The Death of Michael Corleone
 
+[Compare across authors](../../compare/?t=film-the-godfather-coda-the-death-of-michael-corleone_242)
+
 ## TrueHD 5.1
 
 **1990 • R • 2h 37m • Crime, Drama, Thriller • mobe1969**

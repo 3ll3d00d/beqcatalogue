@@ -1,5 +1,7 @@
 # The Influence
 
+[Compare across authors](../../compare/?t=film-the-influence_605373)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 39m • Spanish • Horror • mobe1969**

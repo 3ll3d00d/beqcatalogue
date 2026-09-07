@@ -1,5 +1,7 @@
 # A Vigilante
 
+[Compare across authors](../../compare/?t=film-a-vigilante_500904)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 32m • Thriller, Drama • mobe1969**

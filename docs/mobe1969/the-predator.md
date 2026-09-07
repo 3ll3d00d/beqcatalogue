@@ -1,5 +1,7 @@
 # The Predator
 
+[Compare across authors](../../compare/?t=film-the-predator_346910)
+
 ## Atmos
 
 **2018 • R • 1h 47m • Science Fiction, Action, Adventure • mobe1969**

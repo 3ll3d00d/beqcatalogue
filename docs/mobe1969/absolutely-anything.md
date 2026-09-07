@@ -1,5 +1,7 @@
 # Absolutely Anything
 
+[Compare across authors](../../compare/?t=film-absolutely-anything_86828)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 25m • Comedy, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # R2B: Return to Base
 
+[Compare across authors](../../compare/?t=film-r2b-return-to-base_124294)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 53m • Korean • Action, Drama, Romance • mobe1969**

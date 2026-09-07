@@ -1,5 +1,7 @@
 # Spider-Man
 
+[Compare across authors](../../compare/?t=film-spider-man_557)
+
 ## Atmos
 
 **2002 • PG-13 • 2h 1m • Fantasy, Action • mobe1969**

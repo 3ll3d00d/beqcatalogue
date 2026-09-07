@@ -1,5 +1,7 @@
 # Bang Bang!
 
+[Compare across authors](../../compare/?t=film-bang-bang_283589)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 2h 33m • Hindi • Action, Adventure, Comedy, Romance • mobe1969**

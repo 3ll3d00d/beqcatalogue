@@ -1,5 +1,7 @@
 # The Wandering Earth
 
+[Compare across authors](../../compare/?t=film-the-wandering-earth_535167)
+
 ## Atmos
 
 **2019 • PG-13 • 2h 6m • Mandarin • Science Fiction, Action, Drama • mobe1969**

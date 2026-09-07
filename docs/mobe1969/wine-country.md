@@ -1,5 +1,7 @@
 # Wine Country
 
+[Compare across authors](../../compare/?t=film-wine-country_513083)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 43m • Comedy • mobe1969**

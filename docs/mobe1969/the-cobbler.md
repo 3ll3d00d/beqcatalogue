@@ -1,5 +1,7 @@
 # The Cobbler
 
+[Compare across authors](../../compare/?t=film-the-cobbler_238215)
+
 ## DD+ 5.1
 
 **2014 • PG-13 • 1h 39m • Fantasy, Comedy, Drama • mobe1969**

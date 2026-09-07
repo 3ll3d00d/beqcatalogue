@@ -1,5 +1,7 @@
 # Pagalpanti
 
+[Compare across authors](../../compare/?t=film-pagalpanti_649487)
+
 ## DD+ 5.1
 
 **2019 • 12A • 2h 29m • Hindi • Comedy, Action • mobe1969**

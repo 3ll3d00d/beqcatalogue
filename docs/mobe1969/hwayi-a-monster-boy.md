@@ -1,5 +1,7 @@
 # Hwayi: A Monster Boy
 
+[Compare across authors](../../compare/?t=film-hwayi-a-monster-boy_214910)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 2h 5m • Korean • Action, Thriller, Crime • mobe1969**

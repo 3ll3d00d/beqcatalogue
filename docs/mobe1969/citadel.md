@@ -1,5 +1,7 @@
 # Citadel
 
+[Compare across authors](../../compare/?t=film-citadel_52001)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 25m • Drama, Horror, Thriller • mobe1969**

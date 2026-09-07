@@ -1,5 +1,7 @@
 # Team America: World Police
 
+[Compare across authors](../../compare/?t=film-team-america-world-police_3989)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

@@ -1,5 +1,7 @@
 # Bad Santa
 
+[Compare across authors](../../compare/?t=film-bad-santa_10147)
+
 ## LPCM 5.1
 
 Director's Cut

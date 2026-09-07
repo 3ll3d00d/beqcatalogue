@@ -1,5 +1,7 @@
 # The Great War of Archimedes
 
+[Compare across authors](../../compare/?t=film-the-great-war-of-archimedes_605389)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 2h 10m • Japanese • War, Action, Mystery, Drama • mobe1969**

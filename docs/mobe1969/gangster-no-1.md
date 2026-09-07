@@ -1,5 +1,7 @@
 # Gangster No. 1
 
+[Compare across authors](../../compare/?t=film-gangster-no-1_10394)
+
 ## DTS-HD MA 5.1
 
 **2000 • 18 • 1h 43m • Thriller, Action, Drama • mobe1969**

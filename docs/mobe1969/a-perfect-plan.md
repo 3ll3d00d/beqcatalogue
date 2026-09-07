@@ -1,5 +1,7 @@
 # A Perfect Plan
 
+[Compare across authors](../../compare/?t=film-a-perfect-plan_699046)
+
 ## DD+ 2.0
 
 **2020 • 15 • 1h 18m • Action, Crime, Mystery, Thriller • mobe1969**

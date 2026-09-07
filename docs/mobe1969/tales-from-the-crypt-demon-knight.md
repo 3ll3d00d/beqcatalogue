@@ -1,5 +1,7 @@
 # Tales from the Crypt: Demon Knight
 
+[Compare across authors](../../compare/?t=film-tales-from-the-crypt-demon-knight_9059)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 1h 32m • Horror, Comedy, Thriller • mobe1969**

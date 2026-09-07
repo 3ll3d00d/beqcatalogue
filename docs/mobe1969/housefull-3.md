@@ -1,5 +1,7 @@
 # Housefull 3
 
+[Compare across authors](../../compare/?t=film-housefull-3_391779)
+
 ## DD 5.1
 
 **2016 • NR • 2h 20m • Hindi • Comedy, Romance • mobe1969**

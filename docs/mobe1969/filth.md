@@ -1,5 +1,7 @@
 # Filth
 
+[Compare across authors](../../compare/?t=film-filth_85889)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 37m • Crime, Drama, Comedy • mobe1969**

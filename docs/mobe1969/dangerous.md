@@ -1,5 +1,7 @@
 # Dangerous
 
+[Compare across authors](../../compare/?t=film-dangerous_763788)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 39m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Inside
 
+[Compare across authors](../../compare/?t=film-inside_365995)
+
 ## DTS-HD MA 5.1
 
 **2016 • 16 • 1h 25m • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Unknown
 
+[Compare across authors](../../compare/?t=film-unknown_9828)
+
 ## DTS-HD MA 5.1
 
 **2006 • NR • 1h 38m • Thriller, Mystery, Adventure, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Sea Fog
 
+[Compare across authors](../../compare/?t=film-sea-fog_272691)
+
 ## DTS-HD MA 5.1
 
 **2014 • 16 • 1h 51m • Korean • Thriller, Drama • mobe1969**

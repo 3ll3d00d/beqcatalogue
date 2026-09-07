@@ -1,5 +1,7 @@
 # American Muscle
 
+[Compare across authors](../../compare/?t=film-american-muscle_287950)
+
 ## DTS-HD MA 5.1
 
 **2014 • 18 • 1h 17m • Action • mobe1969**

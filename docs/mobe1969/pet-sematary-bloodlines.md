@@ -1,5 +1,7 @@
 # Pet Sematary: Bloodlines
 
+[Compare across authors](../../compare/?t=film-pet-sematary-bloodlines_830764)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 27m • Horror, Fantasy, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Octopussy
 
+[Compare across authors](../../compare/?t=film-octopussy_700)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1983 • PG • 2h 11m • Adventure, Action, Thriller • mobe1969**

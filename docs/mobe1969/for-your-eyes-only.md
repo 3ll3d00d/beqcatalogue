@@ -1,5 +1,7 @@
 # For Your Eyes Only
 
+[Compare across authors](../../compare/?t=film-for-your-eyes-only_699)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1981 • PG • 2h 7m • Adventure, Action, Thriller • mobe1969**

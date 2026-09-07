@@ -1,5 +1,7 @@
 # White Squall
 
+[Compare across authors](../../compare/?t=film-white-squall_10534)
+
 ## DTS-HD MA 5.1
 
 **1996 • PG-13 • 2h 9m • Drama, Action, Adventure • mobe1969**

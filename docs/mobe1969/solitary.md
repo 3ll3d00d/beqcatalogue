@@ -1,5 +1,7 @@
 # Solitary
 
+[Compare across authors](../../compare/?t=film-solitary_725273)
+
 ## DTS-HD MA 5.1
 
 **2020 • 15 • 1h 29m • Science Fiction • mobe1969**

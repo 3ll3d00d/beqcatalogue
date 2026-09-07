@@ -1,5 +1,7 @@
 # Freddy vs. Jason
 
+[Compare across authors](../../compare/?t=film-freddy-vs-jason_6466)
+
 ## TrueHD 5.1
 
 **2003 • R • 1h 37m • Horror • mobe1969**

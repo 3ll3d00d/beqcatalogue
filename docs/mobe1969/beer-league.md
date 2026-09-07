@@ -1,5 +1,7 @@
 # Beer League
 
+[Compare across authors](../../compare/?t=film-beer-league_14137)
+
 ## DD 5.1
 
 **2006 • R • 1h 26m • Comedy • mobe1969**

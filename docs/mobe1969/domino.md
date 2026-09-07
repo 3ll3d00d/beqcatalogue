@@ -1,5 +1,7 @@
 # Domino
 
+[Compare across authors](../../compare/?t=film-domino_9923)
+
 ## TrueHD 5.1
 
 **2005 • R • 2h 7m • Crime, Action • mobe1969**

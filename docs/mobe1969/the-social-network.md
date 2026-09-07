@@ -1,5 +1,7 @@
 # The Social Network
 
+[Compare across authors](../../compare/?t=film-the-social-network_37799)
+
 ## Atmos
 
 **2010 • PG-13 • 2h 1m • Drama • mobe1969**

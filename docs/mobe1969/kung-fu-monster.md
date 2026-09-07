@@ -1,5 +1,7 @@
 # Kung Fu Monster
 
+[Compare across authors](../../compare/?t=film-kung-fu-monster_569947)
+
 ## TrueHD 7.1
 
 Native language track (mixed Cantonese Mandarin)

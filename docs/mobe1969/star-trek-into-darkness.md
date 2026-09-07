@@ -1,5 +1,7 @@
 # Star Trek into Darkness
 
+[Compare across authors](../../compare/?t=film-star-trek-into-darkness_54138)
+
 ## Atmos
 
 **2013 • PG-13 • 2h 12m • Action, Adventure, Science Fiction • mobe1969**

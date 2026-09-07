@@ -1,5 +1,7 @@
 # Tiger Zinda Hai
 
+[Compare across authors](../../compare/?t=film-tiger-zinda-hai_441909)
+
 ## Atmos
 
 **2017 • 12A • 2h 45m • Hindi • Action, Thriller • mobe1969**

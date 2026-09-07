@@ -1,5 +1,7 @@
 # Flight 666
 
+[Compare across authors](../../compare/?t=film-flight-666_527642)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 29m • Horror, Science Fiction • mobe1969**

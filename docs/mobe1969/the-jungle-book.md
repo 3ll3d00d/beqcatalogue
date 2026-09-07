@@ -1,5 +1,7 @@
 # The Jungle Book
 
+[Compare across authors](../../compare/?t=film-the-jungle-book_278927)
+
 ## Atmos
 
 **2016 • PG • 1h 46m • Family, Adventure, Drama, Fantasy • mobe1969**

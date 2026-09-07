@@ -1,5 +1,7 @@
 # Superman II
 
+[Compare across authors](../../compare/?t=film-superman-ii_8536)
+
 ## Atmos
 
 Director's Cut

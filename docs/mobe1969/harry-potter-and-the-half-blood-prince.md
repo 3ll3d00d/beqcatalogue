@@ -1,5 +1,7 @@
 # Harry Potter and the Half-Blood Prince
 
+[Compare across authors](../../compare/?t=film-harry-potter-and-the-half-blood-prince_767)
+
 ## DD+ 5.1
 
 **2009 • PG • 2h 33m • Adventure, Fantasy • mobe1969**

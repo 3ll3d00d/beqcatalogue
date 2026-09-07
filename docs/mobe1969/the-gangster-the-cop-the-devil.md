@@ -1,5 +1,7 @@
 # The Gangster, the Cop, the Devil
 
+[Compare across authors](../../compare/?t=film-the-gangster-the-cop-the-devil_581528)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 50m • Korean • Crime, Action, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # 100 Bloody Acres
 
+[Compare across authors](../../compare/?t=film-100-bloody-acres_126757)
+
 ## DD+ 5.1
 
 **2012 • R • 1h 31m • Comedy, Horror • mobe1969**

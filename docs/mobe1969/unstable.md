@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-unstable_219788)
+
 ## Season 1
 
 * DD+ Atmos

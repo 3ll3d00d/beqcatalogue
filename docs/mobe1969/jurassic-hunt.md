@@ -1,5 +1,7 @@
 # Jurassic Hunt
 
+[Compare across authors](../../compare/?t=film-jurassic-hunt_848278)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 23m • Action, Science Fiction, Thriller • mobe1969**

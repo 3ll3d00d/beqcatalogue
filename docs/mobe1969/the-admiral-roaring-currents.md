@@ -1,5 +1,7 @@
 # The Admiral: Roaring Currents
 
+[Compare across authors](../../compare/?t=film-the-admiral-roaring-currents_282631)
+
 ## DTS-HD MA 5.1
 
 **2014 • MA15+ • 2h 6m • Korean • War, Action, Drama, History • mobe1969**

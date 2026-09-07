@@ -1,5 +1,7 @@
 # Quest for Zhu
 
+[Compare across authors](../../compare/?t=film-quest-for-zhu_75421)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 12m • Animation, Family • mobe1969**

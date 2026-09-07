@@ -1,5 +1,7 @@
 # The Rope Curse
 
+[Compare across authors](../../compare/?t=film-the-rope-curse_552737)
+
 ## TrueHD 7.1
 
 **2018 • NR • 1h 46m • Mandarin • Horror • mobe1969**

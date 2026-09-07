@@ -1,5 +1,7 @@
 # Thor: Ragnarok
 
+[Compare across authors](../../compare/?t=film-thor-ragnarok_284053)
+
 ## Atmos
 
 **2017 • PG-13 • 2h 11m • Action, Adventure, Fantasy, Science Fiction • mobe1969**

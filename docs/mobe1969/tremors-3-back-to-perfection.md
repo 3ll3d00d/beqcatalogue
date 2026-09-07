@@ -1,5 +1,7 @@
 # Tremors 3: Back to Perfection
 
+[Compare across authors](../../compare/?t=film-tremors-3-back-to-perfection_10829)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG • 1h 44m • Science Fiction, Comedy, Thriller, Horror, Action • mobe1969**

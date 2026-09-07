@@ -1,5 +1,7 @@
 # The Detective
 
+[Compare across authors](../../compare/?t=film-the-detective_56329)
+
 ## DTS-HD MA 7.1
 
 **2007 • NR • 1h 49m • Cantonese • Drama, Action, Thriller, Mystery • mobe1969**

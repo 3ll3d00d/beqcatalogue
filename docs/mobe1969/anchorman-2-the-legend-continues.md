@@ -1,5 +1,7 @@
 # Anchorman 2: The Legend Continues
 
+[Compare across authors](../../compare/?t=film-anchorman-2-the-legend-continues_109443)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

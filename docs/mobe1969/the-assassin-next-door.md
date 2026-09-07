@@ -1,5 +1,7 @@
 # The Assassin Next Door
 
+[Compare across authors](../../compare/?t=film-the-assassin-next-door_37714)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 42m • Russian • Drama, Thriller • mobe1969**

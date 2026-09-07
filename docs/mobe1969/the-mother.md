@@ -1,5 +1,7 @@
 # The Mother
 
+[Compare across authors](../../compare/?t=film-the-mother_552688)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 55m • Action, Thriller • mobe1969**

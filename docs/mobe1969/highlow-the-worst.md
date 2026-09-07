@@ -1,5 +1,7 @@
 # HiGH&LOW THE WORST
 
+[Compare across authors](../../compare/?t=film-highlow-the-worst_727502)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 5m • Japanese • Action, Comedy • mobe1969**

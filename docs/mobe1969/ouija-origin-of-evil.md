@@ -1,5 +1,7 @@
 # Ouija: Origin of Evil
 
+[Compare across authors](../../compare/?t=film-ouija-origin-of-evil_335796)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 39m • Horror, Thriller • mobe1969**

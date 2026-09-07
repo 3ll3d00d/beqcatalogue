@@ -1,5 +1,7 @@
 # Observe and Report
 
+[Compare across authors](../../compare/?t=film-observe-and-report_16991)
+
 ## TrueHD 5.1
 
 **2009 • R • 1h 27m • Comedy, Crime, Drama • mobe1969**

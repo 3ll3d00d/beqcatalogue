@@ -1,5 +1,7 @@
 # Old People
 
+[Compare across authors](../../compare/?t=film-old-people_999722)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 41m • German • Horror • mobe1969**

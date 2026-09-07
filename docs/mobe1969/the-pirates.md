@@ -1,5 +1,7 @@
 # The Pirates
 
+[Compare across authors](../../compare/?t=film-the-pirates_285213)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 2h 10m • Korean • Action, History, Adventure, Drama, Fantasy • mobe1969**

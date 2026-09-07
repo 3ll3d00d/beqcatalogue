@@ -1,5 +1,7 @@
 # Restart The Earth
 
+[Compare across authors](../../compare/?t=film-restart-the-earth_870096)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 33m • Mandarin • Science Fiction, Horror, Action • mobe1969**

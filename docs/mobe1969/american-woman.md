@@ -1,5 +1,7 @@
 # American Woman
 
+[Compare across authors](../../compare/?t=film-american-woman_339976)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 51m • Drama, Mystery • mobe1969**

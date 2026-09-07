@@ -1,5 +1,7 @@
 # American Reunion
 
+[Compare across authors](../../compare/?t=film-american-reunion_71552)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 53m • Comedy • mobe1969**

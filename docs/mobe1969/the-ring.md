@@ -1,5 +1,7 @@
 # The Ring
 
+[Compare across authors](../../compare/?t=film-the-ring_565)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG-13 • 1h 55m • Horror, Mystery • mobe1969**

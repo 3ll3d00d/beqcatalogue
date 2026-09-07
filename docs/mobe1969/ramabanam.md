@@ -1,5 +1,7 @@
 # Ramabanam
 
+[Compare across authors](../../compare/?t=film-ramabanam_1074641)
+
 ## DD+ 5.1
 
 **2023 • 15 • 2h 23m • Telugu • Action, Comedy • mobe1969**

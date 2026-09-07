@@ -1,5 +1,7 @@
 # Resident Evil: Apocalypse
 
+[Compare across authors](../../compare/?t=film-resident-evil-apocalypse_1577)
+
 ## Atmos
 
 Extended Cut

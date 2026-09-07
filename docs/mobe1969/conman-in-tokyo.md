@@ -1,5 +1,7 @@
 # Conman in Tokyo
 
+[Compare across authors](../../compare/?t=film-conman-in-tokyo_75697)
+
 ## TrueHD 5.1
 
 **2000 • NR • 1h 43m • Cantonese • Action, Comedy • mobe1969**

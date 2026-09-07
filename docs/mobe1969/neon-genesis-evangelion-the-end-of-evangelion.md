@@ -1,5 +1,7 @@
 # Neon Genesis Evangelion: The End of Evangelion
 
+[Compare across authors](../../compare/?t=film-neon-genesis-evangelion-the-end-of-evangelion_18491)
+
 ## DD+ 5.1
 
 **1997 • 15 • 1h 27m • Drama, Science Fiction, Animation, Action • mobe1969**

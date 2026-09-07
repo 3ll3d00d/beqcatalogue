@@ -1,5 +1,7 @@
 # Call of Heroes
 
+[Compare across authors](../../compare/?t=film-call-of-heroes_413198)
+
 ## Atmos
 
 **2016 • NR • 2h 0m • Cantonese • Adventure, Action • mobe1969**

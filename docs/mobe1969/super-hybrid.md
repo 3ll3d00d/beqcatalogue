@@ -1,5 +1,7 @@
 # Super Hybrid
 
+[Compare across authors](../../compare/?t=film-super-hybrid_69270)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 35m • Horror • mobe1969**

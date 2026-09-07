@@ -1,5 +1,7 @@
 # Killers
 
+[Compare across authors](../../compare/?t=film-killers_171846)
+
 ## DTS-HD MA 5.1
 
 **2014 • 18 • 2h 17m • Japanese • Crime, Thriller, Action, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Badmaash Company
 
+[Compare across authors](../../compare/?t=film-badmaash-company_37822)
+
 ## DD+ 5.1
 
 **2010 • NR • 2h 24m • Hindi • Crime • mobe1969**

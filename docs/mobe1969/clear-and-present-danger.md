@@ -1,5 +1,7 @@
 # Clear and Present Danger
 
+[Compare across authors](../../compare/?t=film-clear-and-present-danger_9331)
+
 ## TrueHD 5.1
 
 **1994 • PG-13 • 2h 21m • Action, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Delhi Belly
 
+[Compare across authors](../../compare/?t=film-delhi-belly_67109)
+
 ## DD+ 5.1
 
 **2011 • NR • 1h 42m • Action, Comedy • mobe1969**

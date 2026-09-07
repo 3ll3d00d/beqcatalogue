@@ -1,5 +1,7 @@
 # The Terminator
 
+[Compare across authors](../../compare/?t=film-the-terminator_218)
+
 ## DD+ 5.1
 
 **1984 • R • 1h 48m • Action, Thriller, Science Fiction • mobe1969**

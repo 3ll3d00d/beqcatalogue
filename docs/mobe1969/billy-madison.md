@@ -1,5 +1,7 @@
 # Billy Madison
 
+[Compare across authors](../../compare/?t=film-billy-madison_11017)
+
 ## DTS-HD MA 5.1
 
 **1995 • PG-13 • 1h 30m • Comedy • mobe1969**

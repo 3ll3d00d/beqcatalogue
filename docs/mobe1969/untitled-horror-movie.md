@@ -1,5 +1,7 @@
 # Untitled Horror Movie
 
+[Compare across authors](../../compare/?t=film-untitled-horror-movie_720407)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 27m • Horror, Comedy • mobe1969**

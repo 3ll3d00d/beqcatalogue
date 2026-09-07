@@ -1,5 +1,7 @@
 # The Godfather: Part III
 
+[Compare across authors](../../compare/?t=film-the-godfather-part-iii_242)
+
 ## TrueHD 5.1
 
 Director's Cut

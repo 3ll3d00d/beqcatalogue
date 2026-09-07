@@ -1,5 +1,7 @@
 # S Storm
 
+[Compare across authors](../../compare/?t=film-s-storm_367195)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 30m • Cantonese • Thriller, Action • mobe1969**

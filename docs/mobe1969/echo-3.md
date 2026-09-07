@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-echo-3_106116)
+
 ## Season 1
 
 * AAC 5.1

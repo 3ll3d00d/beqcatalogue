@@ -1,5 +1,7 @@
 # Until Death
 
+[Compare across authors](../../compare/?t=film-until-death_20411)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 41m • Action, Thriller, Crime • mobe1969**

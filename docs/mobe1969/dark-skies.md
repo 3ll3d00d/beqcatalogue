@@ -1,5 +1,7 @@
 # Dark Skies
 
+[Compare across authors](../../compare/?t=film-dark-skies_145135)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 37m • Thriller, Science Fiction, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # The Seventh Sign
 
+[Compare across authors](../../compare/?t=film-the-seventh-sign_11082)
+
 ## DD 2.0
 
 **1988 • R • 1h 37m • Horror, Fantasy • mobe1969**

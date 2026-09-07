@@ -1,5 +1,7 @@
 # Nocebo
 
+[Compare across authors](../../compare/?t=film-nocebo_782936)
+
 ## DTS-HD MA 5.1
 
 **2022 • 15 • 1h 36m • Mystery, Thriller, Horror • mobe1969**

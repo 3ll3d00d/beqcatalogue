@@ -1,5 +1,7 @@
 # The Dark Knight Rises
 
+[Compare across authors](../../compare/?t=film-the-dark-knight-rises_49026)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2012 • PG-13 • 2h 45m • Action, Crime, Drama, Thriller • mobe1969**

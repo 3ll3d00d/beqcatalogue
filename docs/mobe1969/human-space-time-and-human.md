@@ -1,5 +1,7 @@
 # Human, Space, Time and Human
 
+[Compare across authors](../../compare/?t=film-human-space-time-and-human_459267)
+
 ## TrueHD 5.1
 
 **2018 • NR • 2h 2m • Korean • Drama • mobe1969**

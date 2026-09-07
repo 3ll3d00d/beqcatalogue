@@ -1,5 +1,7 @@
 # Royalteen
 
+[Compare across authors](../../compare/?t=film-royalteen_996518)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 47m • Norwegian • Romance, Drama • mobe1969**

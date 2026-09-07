@@ -1,5 +1,7 @@
 # Baaghi 2
 
+[Compare across authors](../../compare/?t=film-baaghi-2_496316)
+
 ## DD 5.1
 
 **2018 • 12A • 2h 15m • Hindi • Action, Crime, Adventure, Mystery, Thriller • mobe1969**

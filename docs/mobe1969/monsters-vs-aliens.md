@@ -1,5 +1,7 @@
 # Monsters vs. Aliens
 
+[Compare across authors](../../compare/?t=film-monsters-vs-aliens_15512)
+
 ## TrueHD 5.1, DD+ 5.1
 
 **2009 • PG • 1h 34m • Adventure, Family, Animation, Science Fiction • mobe1969**

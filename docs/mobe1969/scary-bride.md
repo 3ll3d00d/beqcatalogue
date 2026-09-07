@@ -1,5 +1,7 @@
 # Scary Bride
 
+[Compare across authors](../../compare/?t=film-scary-bride_752834)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 13m • Comedy, Horror • mobe1969**

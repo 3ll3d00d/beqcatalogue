@@ -1,5 +1,7 @@
 # The House
 
+[Compare across authors](../../compare/?t=film-the-house_547565)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2022 • R • 1h 47m • Horror, Thriller, Mystery • mobe1969**

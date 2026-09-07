@@ -1,5 +1,7 @@
 # Gulliver's Travels
 
+[Compare across authors](../../compare/?t=film-gullivers-travels_38745)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG • 1h 25m • Family, Comedy, Adventure, Fantasy • mobe1969**

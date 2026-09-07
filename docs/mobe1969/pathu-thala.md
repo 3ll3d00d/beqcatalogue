@@ -1,5 +1,7 @@
 # Pathu Thala
 
+[Compare across authors](../../compare/?t=film-pathu-thala_882392)
+
 ## DD+ 5.1
 
 **2023 • 15 • 2h 30m • Tamil • Action, Thriller • mobe1969**

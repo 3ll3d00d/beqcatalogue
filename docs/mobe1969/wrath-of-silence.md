@@ -1,5 +1,7 @@
 # Wrath of Silence
 
+[Compare across authors](../../compare/?t=film-wrath-of-silence_473328)
+
 ## DD+ 5.1
 
 **2017 • 18 • 1h 59m • Mandarin • Drama, Thriller • mobe1969**

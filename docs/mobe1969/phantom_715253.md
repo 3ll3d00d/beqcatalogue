@@ -1,5 +1,7 @@
 # Phantom
 
+[Compare across authors](../../compare/?t=film-phantom_715253)
+
 ## DTS-HD MA 5.1
 
 **2023 • NR • 2h 12m • Korean • Action, Thriller, Crime, Adventure • mobe1969**

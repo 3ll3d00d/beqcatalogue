@@ -1,5 +1,7 @@
 # Baazaar
 
+[Compare across authors](../../compare/?t=film-baazaar_556907)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 20m • Hindi • Crime, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Looking Glass
 
+[Compare across authors](../../compare/?t=film-looking-glass_437375)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 43m • Thriller, Mystery • mobe1969**

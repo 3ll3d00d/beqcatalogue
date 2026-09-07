@@ -1,5 +1,7 @@
 # Little Evil
 
+[Compare across authors](../../compare/?t=film-little-evil_346671)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 34m • Comedy, Horror • mobe1969**

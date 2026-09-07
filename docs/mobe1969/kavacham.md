@@ -1,5 +1,7 @@
 # Kavacham
 
+[Compare across authors](../../compare/?t=film-kavacham_565277)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 23m • Telugu • Action, Thriller • mobe1969**

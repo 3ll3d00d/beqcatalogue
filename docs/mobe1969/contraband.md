@@ -1,5 +1,7 @@
 # Contraband
 
+[Compare across authors](../../compare/?t=film-contraband_77866)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 49m • Drama, Thriller, Crime, Action • mobe1969**

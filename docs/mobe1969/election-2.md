@@ -1,5 +1,7 @@
 # Election 2
 
+[Compare across authors](../../compare/?t=film-election-2_15077)
+
 ## DTS-HD MA 5.1
 
 **2006 • NR • 1h 32m • Cantonese • Drama, Crime • mobe1969**

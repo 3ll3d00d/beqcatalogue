@@ -1,5 +1,7 @@
 # The Good Doctor
 
+[Compare across authors](../../compare/?t=film-the-good-doctor_65650)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 33m • Drama, Thriller, Mystery • mobe1969**

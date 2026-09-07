@@ -1,5 +1,7 @@
 # Hours
 
+[Compare across authors](../../compare/?t=film-hours_172803)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 37m • Drama, Thriller • mobe1969**

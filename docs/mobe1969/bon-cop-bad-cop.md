@@ -1,5 +1,7 @@
 # Bon Cop Bad Cop
 
+[Compare across authors](../../compare/?t=film-bon-cop-bad-cop_15049)
+
 ## DD+ 5.1
 
 **2006 • PG-13 • 1h 56m • French • Action, Comedy, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Superman IV: The Quest for Peace
 
+[Compare across authors](../../compare/?t=film-superman-iv-the-quest-for-peace_11411)
+
 ## Atmos
 
 **1987 • PG • 1h 30m • Action, Adventure, Science Fiction • mobe1969**

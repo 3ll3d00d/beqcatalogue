@@ -1,5 +1,7 @@
 # Resident Evil: The Final Chapter
 
+[Compare across authors](../../compare/?t=film-resident-evil-the-final-chapter_173897)
+
 ## Atmos
 
 **2016 • R • 1h 47m • Action, Horror, Science Fiction • mobe1969**

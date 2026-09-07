@@ -1,5 +1,7 @@
 # Hot Blooded
 
+[Compare across authors](../../compare/?t=film-hot-blooded_599333)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 59m • Korean • Crime, Action, Thriller • mobe1969**

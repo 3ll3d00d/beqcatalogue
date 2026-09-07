@@ -1,5 +1,7 @@
 # Beckett
 
+[Compare across authors](../../compare/?t=film-beckett_597433)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 49m • Action, Adventure, Crime, Drama, Mystery, Thriller • mobe1969**

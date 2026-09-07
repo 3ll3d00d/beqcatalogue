@@ -1,5 +1,7 @@
 # The Legacy of the Bones
 
+[Compare across authors](../../compare/?t=film-the-legacy-of-the-bones_613099)
+
 ## DD+ 5.1
 
 **2019 • NC-17 • 2h 1m • Spanish • Thriller, Crime • mobe1969**

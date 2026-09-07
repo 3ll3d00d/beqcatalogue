@@ -1,5 +1,7 @@
 # A Quiet Place Part II
 
+[Compare across authors](../../compare/?t=film-a-quiet-place-part-ii_520763)
+
 ## Atmos, DD+ Atmos, DD+ 5.1
 
 **2021 • PG-13 • 1h 37m • Science Fiction, Thriller, Horror • mobe1969**

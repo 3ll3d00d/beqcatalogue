@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-truth-seekers_92209)
+
 ## Season 1
 
 * DD+

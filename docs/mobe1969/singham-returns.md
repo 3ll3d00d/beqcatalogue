@@ -1,5 +1,7 @@
 # Singham Returns
 
+[Compare across authors](../../compare/?t=film-singham-returns_285803)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 2h 22m • Hindi • Action • mobe1969**

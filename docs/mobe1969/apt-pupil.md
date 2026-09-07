@@ -1,5 +1,7 @@
 # Apt Pupil
 
+[Compare across authors](../../compare/?t=film-apt-pupil_9445)
+
 ## DTS-HD MA 2.0
 
 **1998 • R • 1h 51m • Drama, Thriller • mobe1969**

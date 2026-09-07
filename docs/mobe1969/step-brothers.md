@@ -1,5 +1,7 @@
 # Step Brothers
 
+[Compare across authors](../../compare/?t=film-step-brothers_12133)
+
 ## Atmos
 
 **2008 • R • 1h 38m • Comedy • mobe1969**

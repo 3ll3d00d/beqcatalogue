@@ -1,5 +1,7 @@
 # The Big Hit
 
+[Compare across authors](../../compare/?t=film-the-big-hit_9448)
+
 ## LPCM 5.1
 
 **1998 • R • 1h 31m • Action, Adventure, Comedy, Thriller • mobe1969**

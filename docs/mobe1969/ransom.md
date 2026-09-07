@@ -1,5 +1,7 @@
 # Ransom
 
+[Compare across authors](../../compare/?t=film-ransom_3595)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 2h 1m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Jarhead
 
+[Compare across authors](../../compare/?t=film-jarhead_25)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 2h 3m • Drama, War • mobe1969**

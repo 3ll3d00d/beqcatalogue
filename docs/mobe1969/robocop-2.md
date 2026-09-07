@@ -1,5 +1,7 @@
 # RoboCop 2
 
+[Compare across authors](../../compare/?t=film-robocop-2_5549)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 1h 57m • Action, Adventure, Crime, Science Fiction, Thriller • mobe1969**

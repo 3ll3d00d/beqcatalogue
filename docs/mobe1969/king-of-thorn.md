@@ -1,5 +1,7 @@
 # King of Thorn
 
+[Compare across authors](../../compare/?t=film-king-of-thorn_50388)
+
 ## TrueHD 5.1
 
 **2009 • NR • 1h 45m • Japanese • Fantasy, Animation, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Conan the Barbarian
 
+[Compare across authors](../../compare/?t=film-conan-the-barbarian_9387)
+
 ## Atmos
 
 **2011 • R • 2h 9m • Adventure, Fantasy, Action • mobe1969**

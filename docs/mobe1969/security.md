@@ -1,5 +1,7 @@
 # Security
 
+[Compare across authors](../../compare/?t=film-security_460846)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2017 • R • 1h 27m • Thriller, Crime, Action • mobe1969**

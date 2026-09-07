@@ -1,5 +1,7 @@
 # Iris 2
 
+[Compare across authors](../../compare/?t=film-iris-2_281056)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 59m • Korean • Action • mobe1969**

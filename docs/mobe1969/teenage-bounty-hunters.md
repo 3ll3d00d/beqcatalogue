@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-teenage-bounty-hunters_90766)
+
 ## Season 1
 
 * DD+ Atmos

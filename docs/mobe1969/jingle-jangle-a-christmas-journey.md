@@ -1,5 +1,7 @@
 # Jingle Jangle: A Christmas Journey
 
+[Compare across authors](../../compare/?t=film-jingle-jangle-a-christmas-journey_622855)
+
 ## DD+ Atmos
 
 **2020 • PG • 2h 2m • Family, Fantasy, Music • mobe1969**

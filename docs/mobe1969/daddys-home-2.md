@@ -1,5 +1,7 @@
 # Daddy's Home 2
 
+[Compare across authors](../../compare/?t=film-daddys-home-2_419680)
+
 ## Atmos
 
 **2017 • PG-13 • 1h 40m • Comedy • mobe1969**

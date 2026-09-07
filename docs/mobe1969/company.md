@@ -1,5 +1,7 @@
 # Company
 
+[Compare across authors](../../compare/?t=film-company_15761)
+
 ## DD+ 5.1
 
 **2002 • NR • 2h 36m • Hindi • Action, Crime, Drama • mobe1969**

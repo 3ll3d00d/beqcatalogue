@@ -1,5 +1,7 @@
 # Staying Alive
 
+[Compare across authors](../../compare/?t=film-staying-alive_10805)
+
 ## DTS-HD MA 5.1
 
 **1983 • PG • 1h 33m • Drama, Music • mobe1969**

@@ -1,5 +1,7 @@
 # Alien
 
+[Compare across authors](../../compare/?t=film-alien_348)
+
 ## DTS-HD MA 4.1
 
 Theatrical Cut

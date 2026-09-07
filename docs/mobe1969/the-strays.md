@@ -1,5 +1,7 @@
 # The Strays
 
+[Compare across authors](../../compare/?t=film-the-strays_1063422)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 38m • Drama • mobe1969**

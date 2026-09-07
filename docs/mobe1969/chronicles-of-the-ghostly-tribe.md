@@ -1,5 +1,7 @@
 # Chronicles of the Ghostly Tribe
 
+[Compare across authors](../../compare/?t=film-chronicles-of-the-ghostly-tribe_364324)
+
 ## TrueHD 5.1
 
 **2015 • NR • 1h 55m • Mandarin • Adventure, Action, Thriller • mobe1969**

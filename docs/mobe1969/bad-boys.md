@@ -1,5 +1,7 @@
 # Bad Boys
 
+[Compare across authors](../../compare/?t=film-bad-boys_9737)
+
 ## Atmos
 
 **1995 • R • 1h 59m • Action, Comedy, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Proposal
 
+[Compare across authors](../../compare/?t=film-the-proposal_18240)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 48m • Comedy, Romance, Drama • mobe1969**

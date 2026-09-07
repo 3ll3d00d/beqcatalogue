@@ -1,5 +1,7 @@
 # Defiance
 
+[Compare across authors](../../compare/?t=film-defiance_13813)
+
 ## TrueHD 5.1
 
 **2008 • R • 2h 17m • History, War, Drama, Action • mobe1969**

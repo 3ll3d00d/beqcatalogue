@@ -1,5 +1,7 @@
 # Darkman
 
+[Compare across authors](../../compare/?t=film-darkman_9556)
+
 ## TrueHD 5.1
 
 **1990 • R • 1h 36m • Action, Science Fiction, Crime • mobe1969**

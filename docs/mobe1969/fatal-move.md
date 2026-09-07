@@ -1,5 +1,7 @@
 # Fatal Move
 
+[Compare across authors](../../compare/?t=film-fatal-move_25655)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 1h 52m • Cantonese • Action, Crime • mobe1969**

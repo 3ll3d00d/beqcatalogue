@@ -1,5 +1,7 @@
 # Ghost in the Shell: Stand Alone Complex - Solid State Society
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell-stand-alone-complex-solid-state-society_18874)
+
 ## TrueHD 5.1
 
 **2007 • PG • 1h 45m • Japanese • Thriller, Animation, Action, Crime, Science Fiction • mobe1969**

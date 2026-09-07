@@ -1,5 +1,7 @@
 # Nobody
 
+[Compare across authors](../../compare/?t=film-nobody_615457)
+
 ## Atmos
 
 **2021 • R • 1h 32m • Action, Crime, Thriller • mobe1969**

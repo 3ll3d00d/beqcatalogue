@@ -1,5 +1,7 @@
 # Wonder Woman: Bloodlines
 
+[Compare across authors](../../compare/?t=film-wonder-woman-bloodlines_537055)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG-13 • 1h 23m • Science Fiction, Animation, Action, Fantasy • mobe1969**

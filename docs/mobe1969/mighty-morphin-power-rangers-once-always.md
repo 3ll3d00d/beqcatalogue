@@ -1,5 +1,7 @@
 # Mighty Morphin Power Rangers: Once & Always
 
+[Compare across authors](../../compare/?t=film-mighty-morphin-power-rangers-once-always_1068141)
+
 ## DD+ Atmos
 
 **2023 • G • 0h 55m • Family, Action, Science Fiction, Fantasy • mobe1969**

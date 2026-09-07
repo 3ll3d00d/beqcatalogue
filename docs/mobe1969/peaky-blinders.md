@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-peaky-blinders_60574)
+
 ## Season 6
 
 * DD+ Atmos

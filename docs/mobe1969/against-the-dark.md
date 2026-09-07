@@ -1,5 +1,7 @@
 # Against the Dark
 
+[Compare across authors](../../compare/?t=film-against-the-dark_15039)
+
 ## DD+ 5.1
 
 **2009 • R • 1h 34m • Horror, Action, Thriller, Science Fiction • mobe1969**

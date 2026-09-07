@@ -1,5 +1,7 @@
 # The Mortuary Collection
 
+[Compare across authors](../../compare/?t=film-the-mortuary-collection_524216)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 51m • Fantasy, Horror • mobe1969**

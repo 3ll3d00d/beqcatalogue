@@ -1,5 +1,7 @@
 # The Bob's Burgers Movie
 
+[Compare across authors](../../compare/?t=film-the-bobs-burgers-movie_504827)
+
 ## DTS-HD MA 5.1
 
 **2022 • PG-13 • 1h 42m • Animation, Adventure, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Gantz: Perfect Answer
 
+[Compare across authors](../../compare/?t=film-gantz-perfect-answer_74135)
+
 ## DTS-HD MA 5.1
 
 **2011 • MA15+ • 2h 21m • Japanese • Science Fiction, Mystery, Action • mobe1969**

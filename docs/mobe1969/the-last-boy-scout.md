@@ -1,5 +1,7 @@
 # The Last Boy Scout
 
+[Compare across authors](../../compare/?t=film-the-last-boy-scout_9319)
+
 ## DTS-HD MA 5.1
 
 **1991 • R • 1h 45m • Action, Thriller • mobe1969**

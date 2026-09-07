@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+
 ## Season 1
 
 * Atmos

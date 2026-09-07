@@ -1,5 +1,7 @@
 # Collide
 
+[Compare across authors](../../compare/?t=film-collide_195590)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 38m • Action, Thriller • mobe1969**

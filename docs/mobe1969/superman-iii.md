@@ -1,5 +1,7 @@
 # Superman III
 
+[Compare across authors](../../compare/?t=film-superman-iii_9531)
+
 ## Atmos
 
 **1983 • PG • 2h 5m • Comedy, Science Fiction, Action, Adventure • mobe1969**

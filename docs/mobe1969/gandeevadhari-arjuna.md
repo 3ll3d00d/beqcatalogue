@@ -1,5 +1,7 @@
 # Gandeevadhari Arjuna
 
+[Compare across authors](../../compare/?t=film-gandeevadhari-arjuna_1034155)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 30m • Telugu • Action, Thriller • mobe1969**

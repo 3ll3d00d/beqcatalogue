@@ -1,5 +1,7 @@
 # The Killing Machine
 
+[Compare across authors](../../compare/?t=film-the-killing-machine_35402)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 28m • Action, Drama, Thriller • mobe1969**

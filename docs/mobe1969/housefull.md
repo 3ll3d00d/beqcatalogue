@@ -1,5 +1,7 @@
 # Housefull
 
+[Compare across authors](../../compare/?t=film-housefull_58051)
+
 ## DTS 5.1
 
 **2010 • 12A • 2h 15m • Hindi • Comedy, Romance • mobe1969**

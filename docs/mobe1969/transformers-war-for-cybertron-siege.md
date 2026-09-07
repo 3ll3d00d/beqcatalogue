@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-transformers-war-for-cybertron-siege_100617)
+
 ## Season 1
 
 * DD+ Atmos

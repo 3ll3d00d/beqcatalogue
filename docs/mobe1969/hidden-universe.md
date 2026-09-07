@@ -1,5 +1,7 @@
 # Hidden Universe
 
+[Compare across authors](../../compare/?t=film-hidden-universe_251522)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 0h 36m • Documentary • mobe1969**

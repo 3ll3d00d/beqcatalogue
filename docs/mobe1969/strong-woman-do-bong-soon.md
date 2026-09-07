@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-strong-woman-do-bong-soon_68814)
+
 ## Season 1
 
 * DD+ 2.0

@@ -1,5 +1,7 @@
 # Behemoth
 
+[Compare across authors](../../compare/?t=film-behemoth_352202)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 35m • Mandarin • Documentary • mobe1969**

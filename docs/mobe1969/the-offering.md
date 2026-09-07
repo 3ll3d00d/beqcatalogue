@@ -1,5 +1,7 @@
 # The Offering
 
+[Compare across authors](../../compare/?t=film-the-offering_955991)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 33m • Drama, Horror • mobe1969**

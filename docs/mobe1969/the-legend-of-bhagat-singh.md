@@ -1,5 +1,7 @@
 # The Legend of Bhagat Singh
 
+[Compare across authors](../../compare/?t=film-the-legend-of-bhagat-singh_31525)
+
 ## DD+ 5.1
 
 **2002 • 12 • 2h 35m • Hindi • Crime, Drama, History • mobe1969**

@@ -1,5 +1,7 @@
 # Insidious: Chapter 2
 
+[Compare across authors](../../compare/?t=film-insidious-chapter-2_91586)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2013 • PG-13 • 1h 46m • Horror, Thriller • mobe1969**

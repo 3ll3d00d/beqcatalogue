@@ -1,5 +1,7 @@
 # Elizabeth: The Golden Age
 
+[Compare across authors](../../compare/?t=film-elizabeth-the-golden-age_4517)
+
 ## DTS-HD MA 5.1
 
 **2007 • PG-13 • 1h 54m • Drama, History, Romance • mobe1969**

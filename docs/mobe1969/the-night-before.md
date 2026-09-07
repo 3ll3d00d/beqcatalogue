@@ -1,5 +1,7 @@
 # The Night Before
 
+[Compare across authors](../../compare/?t=film-the-night-before_296100)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 41m • Comedy, Adventure, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Red Dirt Rising
 
+[Compare across authors](../../compare/?t=film-red-dirt-rising_48839)
+
 ## DD+ 5.1
 
 **2014 • NR • 1h 35m • Drama • mobe1969**

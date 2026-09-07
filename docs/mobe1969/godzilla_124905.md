@@ -1,5 +1,7 @@
 # Godzilla
 
+[Compare across authors](../../compare/?t=film-godzilla_124905)
+
 ## Atmos
 
 **2014 • PG-13 • 2h 3m • Action, Drama, Science Fiction • mobe1969**

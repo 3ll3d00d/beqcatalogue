@@ -1,5 +1,7 @@
 # Hunter Killer
 
+[Compare across authors](../../compare/?t=film-hunter-killer_399402)
+
 ## Atmos
 
 **2018 • R • 2h 1m • Action, Thriller • mobe1969**

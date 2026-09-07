@@ -1,5 +1,7 @@
 # Deliver Us From Evil
 
+[Compare across authors](../../compare/?t=film-deliver-us-from-evil_581526)
+
 ## DTS-HD MA 5.1
 
 **2020 • MA15+ • 1h 48m • Korean • Action • mobe1969**

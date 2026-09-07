@@ -1,5 +1,7 @@
 # The Girl Who Played with Fire
 
+[Compare across authors](../../compare/?t=film-the-girl-who-played-with-fire_24253)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 2h 10m • Swedish • Action, Mystery, Crime, Drama, Thriller • mobe1969**

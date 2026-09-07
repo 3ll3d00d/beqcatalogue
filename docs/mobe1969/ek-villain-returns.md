@@ -1,5 +1,7 @@
 # Ek Villain Returns
 
+[Compare across authors](../../compare/?t=film-ek-villain-returns_682401)
+
 ## DD+ 5.1
 
 **2022 • 15 • 2h 7m • Hindi • Action, Crime, Thriller • mobe1969**

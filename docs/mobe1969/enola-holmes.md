@@ -1,5 +1,7 @@
 # Enola Holmes
 
+[Compare across authors](../../compare/?t=film-enola-holmes_497582)
+
 ## DD+ Atmos
 
 **2020 • PG-13 • 2h 3m • Mystery, Crime, Adventure • mobe1969**

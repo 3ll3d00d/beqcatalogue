@@ -1,5 +1,7 @@
 # The Ridiculous 6
 
+[Compare across authors](../../compare/?t=film-the-ridiculous-6_347969)
+
 ## DD+ 5.1
 
 **2015 • PG-13 • 1h 59m • Western, Comedy • mobe1969**

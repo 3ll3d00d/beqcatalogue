@@ -1,5 +1,7 @@
 # The Wolf's Call
 
+[Compare across authors](../../compare/?t=film-the-wolfs-call_484468)
+
 ## Atmos, DD+ Atmos
 
 **2019 • 15 • 1h 55m • French • Thriller, Action • mobe1969**

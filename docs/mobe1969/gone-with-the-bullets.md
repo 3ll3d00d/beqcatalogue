@@ -1,5 +1,7 @@
 # Gone with the Bullets
 
+[Compare across authors](../../compare/?t=film-gone-with-the-bullets_312408)
+
 ## DD 5.1
 
 **2014 • NR • 2h 20m • Mandarin • Adventure, Comedy, Romance, Drama, Action • mobe1969**

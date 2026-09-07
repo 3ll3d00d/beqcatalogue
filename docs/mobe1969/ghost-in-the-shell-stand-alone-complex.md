@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-ghost-in-the-shell-stand-alone-complex_1095)
+
 ## Season 1
 
 * TrueHD 5.1

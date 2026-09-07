@@ -1,5 +1,7 @@
 # The Purge
 
+[Compare across authors](../../compare/?t=film-the-purge_158015)
+
 ## DTS-X, DD+ 5.1
 
 **2013 • R • 1h 26m • Science Fiction, Horror, Thriller • mobe1969**

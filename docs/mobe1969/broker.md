@@ -1,5 +1,7 @@
 # Broker
 
+[Compare across authors](../../compare/?t=film-broker_736732)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 2h 9m • Korean • Drama • mobe1969**

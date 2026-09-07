@@ -1,5 +1,7 @@
 # Night School
 
+[Compare across authors](../../compare/?t=film-night-school_454293)
+
 ## DTS-X
 
 Extended Cut

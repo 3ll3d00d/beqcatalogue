@@ -1,5 +1,7 @@
 # Fall
 
+[Compare across authors](../../compare/?t=film-fall_985939)
+
 ## Atmos
 
 Unrated Cut

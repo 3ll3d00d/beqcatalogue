@@ -1,5 +1,7 @@
 # Breach
 
+[Compare across authors](../../compare/?t=film-breach_651571)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2020 • R • 1h 32m • Science Fiction, Action • mobe1969**

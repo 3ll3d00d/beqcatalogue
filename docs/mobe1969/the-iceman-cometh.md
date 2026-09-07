@@ -1,5 +1,7 @@
 # The Iceman Cometh
 
+[Compare across authors](../../compare/?t=film-the-iceman-cometh_45454)
+
 ## TrueHD 5.1
 
 **1989 • NR • 1h 54m • Cantonese • Action, Comedy, Science Fiction • mobe1969**

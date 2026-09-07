@@ -1,5 +1,7 @@
 # Slumberland
 
+[Compare across authors](../../compare/?t=film-slumberland_668461)
+
 ## DD+ Atmos
 
 **2022 • PG • 1h 57m • Adventure, Fantasy, Family • mobe1969**

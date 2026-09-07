@@ -1,5 +1,7 @@
 # The Lost Boys
 
+[Compare across authors](../../compare/?t=film-the-lost-boys_1547)
+
 ## DTS-HD MA 5.1, TrueHD 5.1
 
 **1987 • R • 1h 37m • Horror, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Isn't It Romantic
 
+[Compare across authors](../../compare/?t=film-isnt-it-romantic_449563)
+
 ## DD+ 5.1
 
 **2019 • PG-13 • 1h 29m • Comedy, Fantasy, Romance • mobe1969**

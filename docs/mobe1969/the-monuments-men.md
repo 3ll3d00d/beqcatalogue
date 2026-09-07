@@ -1,5 +1,7 @@
 # The Monuments Men
 
+[Compare across authors](../../compare/?t=film-the-monuments-men_152760)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 58m • War, Drama, History, Action • mobe1969**

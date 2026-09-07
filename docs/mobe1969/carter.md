@@ -1,5 +1,7 @@
 # Carter
 
+[Compare across authors](../../compare/?t=film-carter_800345)
+
 ## DD+ Atmos
 
 **2022 • R • 2h 12m • Korean • Action, Thriller • mobe1969**

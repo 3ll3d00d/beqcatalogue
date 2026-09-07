@@ -1,5 +1,7 @@
 # Child's Play 3
 
+[Compare across authors](../../compare/?t=film-childs-play-3_11187)
+
 ## Atmos
 
 **1991 • R • 1h 30m • Horror, Thriller • mobe1969**

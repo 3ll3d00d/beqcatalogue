@@ -1,5 +1,7 @@
 # Eight Below
 
+[Compare across authors](../../compare/?t=film-eight-below_9036)
+
 ## LPCM 5.1
 
 **2006 • PG • 2h 0m • Adventure, Drama, Family • mobe1969**

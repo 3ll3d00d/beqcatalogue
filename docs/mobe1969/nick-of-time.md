@@ -1,5 +1,7 @@
 # Nick of Time
 
+[Compare across authors](../../compare/?t=film-nick-of-time_2086)
+
 ## DD+ 5.1
 
 **1995 • R • 1h 30m • Thriller, Crime, Action • mobe1969**

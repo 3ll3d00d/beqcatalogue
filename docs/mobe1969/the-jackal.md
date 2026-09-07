@@ -1,5 +1,7 @@
 # The Jackal
 
+[Compare across authors](../../compare/?t=film-the-jackal_4824)
+
 ## DTS-HD MA 5.1
 
 **1997 • R • 2h 4m • Crime, Action, Adventure, Thriller • mobe1969**

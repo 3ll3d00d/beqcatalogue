@@ -1,5 +1,7 @@
 # Never Let Go
 
+[Compare across authors](../../compare/?t=film-never-let-go_347761)
+
 ## DD+ 5.1
 
 **2015 • 15 • 1h 33m • Action, Drama, Thriller • mobe1969**

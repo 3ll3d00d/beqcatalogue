@@ -1,5 +1,7 @@
 # Rustom
 
+[Compare across authors](../../compare/?t=film-rustom_392572)
+
 ## Atmos
 
 **2016 • NR • 2h 28m • Hindi • Thriller, Drama, Crime • mobe1969**

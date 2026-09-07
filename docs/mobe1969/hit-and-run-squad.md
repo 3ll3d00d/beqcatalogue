@@ -1,5 +1,7 @@
 # Hit-and-Run Squad
 
+[Compare across authors](../../compare/?t=film-hit-and-run-squad_568320)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 2h 13m • Korean • Crime, Action • mobe1969**

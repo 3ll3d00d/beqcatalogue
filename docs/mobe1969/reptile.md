@@ -1,5 +1,7 @@
 # Reptile
 
+[Compare across authors](../../compare/?t=film-reptile_866463)
+
 ## DD+ Atmos
 
 **2023 • R • 2h 16m • Thriller, Crime, Drama • mobe1969**

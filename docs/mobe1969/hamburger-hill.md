@@ -1,5 +1,7 @@
 # Hamburger Hill
 
+[Compare across authors](../../compare/?t=film-hamburger-hill_10652)
+
 ## DTS-HD MA 5.1
 
 **1987 • R • 1h 50m • War, Action, Drama • mobe1969**

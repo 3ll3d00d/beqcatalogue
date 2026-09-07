@@ -1,5 +1,7 @@
 # Gabbar Is Back
 
+[Compare across authors](../../compare/?t=film-gabbar-is-back_337876)
+
 ## DD+ 5.1
 
 **2015 • NR • 2h 10m • Hindi • Drama, Action • mobe1969**

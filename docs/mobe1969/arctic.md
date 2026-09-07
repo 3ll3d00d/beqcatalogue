@@ -1,5 +1,7 @@
 # Arctic
 
+[Compare across authors](../../compare/?t=film-arctic_453755)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 38m • Drama • mobe1969**

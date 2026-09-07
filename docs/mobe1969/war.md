@@ -1,5 +1,7 @@
 # War
 
+[Compare across authors](../../compare/?t=film-war_10431)
+
 ## LPCM 7.1
 
 **2007 • R • 1h 43m • Action • mobe1969**

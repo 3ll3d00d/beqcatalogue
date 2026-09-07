@@ -1,5 +1,7 @@
 # Mary Queen of Scots
 
+[Compare across authors](../../compare/?t=film-mary-queen-of-scots_457136)
+
 ## Atmos
 
 **2018 • R • 2h 4m • Drama, History • mobe1969**

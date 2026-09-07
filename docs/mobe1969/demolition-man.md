@@ -1,5 +1,7 @@
 # Demolition Man
 
+[Compare across authors](../../compare/?t=film-demolition-man_9739)
+
 ## DTS-HD MA 5.1
 
 **1993 • R • 1h 55m • Crime, Action, Science Fiction • mobe1969**

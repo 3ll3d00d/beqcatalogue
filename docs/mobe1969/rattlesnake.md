@@ -1,5 +1,7 @@
 # Rattlesnake
 
+[Compare across authors](../../compare/?t=film-rattlesnake_560362)
+
 ## DD+ Atmos
 
 **2019 • NR • 1h 25m • Thriller, Drama, Mystery, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Dragonheart: A New Beginning
 
+[Compare across authors](../../compare/?t=film-dragonheart-a-new-beginning_10473)
+
 ## DTS-HD MA 5.1
 
 **2000 • PG • 1h 24m • Fantasy, Adventure • mobe1969**

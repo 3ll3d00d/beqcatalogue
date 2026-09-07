@@ -1,5 +1,7 @@
 # The Tower
 
+[Compare across authors](../../compare/?t=film-the-tower_154030)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 2h 1m • Korean • Action, Drama • mobe1969**

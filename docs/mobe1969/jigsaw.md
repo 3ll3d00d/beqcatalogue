@@ -1,5 +1,7 @@
 # Jigsaw
 
+[Compare across authors](../../compare/?t=film-jigsaw_298250)
+
 ## Atmos
 
 **2017 • R • 1h 32m • Horror, Crime, Mystery, Thriller • mobe1969**

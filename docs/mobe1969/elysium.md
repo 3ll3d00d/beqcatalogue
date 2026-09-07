@@ -1,5 +1,7 @@
 # Elysium
 
+[Compare across authors](../../compare/?t=film-elysium_68724)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2013 • R • 1h 49m • Science Fiction, Action, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Adjustment Bureau
 
+[Compare across authors](../../compare/?t=film-the-adjustment-bureau_38050)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 46m • Thriller, Romance, Science Fiction • mobe1969**

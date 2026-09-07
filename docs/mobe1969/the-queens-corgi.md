@@ -1,5 +1,7 @@
 # The Queen's Corgi
 
+[Compare across authors](../../compare/?t=film-the-queens-corgi_509730)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG • 1h 25m • Family, Animation • mobe1969**

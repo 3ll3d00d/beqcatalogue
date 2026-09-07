@@ -1,5 +1,7 @@
 # Butterfly on a Wheel
 
+[Compare across authors](../../compare/?t=film-butterfly-on-a-wheel_13250)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 35m • Crime, Drama, Thriller • mobe1969**

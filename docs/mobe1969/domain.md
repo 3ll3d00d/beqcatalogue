@@ -1,5 +1,7 @@
 # Domain
 
+[Compare across authors](../../compare/?t=film-domain_434593)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 33m • Comedy, Horror • mobe1969**

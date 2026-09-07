@@ -1,5 +1,7 @@
 # Chip 'n Dale: Rescue Rangers
 
+[Compare across authors](../../compare/?t=film-chip-n-dale-rescue-rangers_420821)
+
 ## DD+ Atmos
 
 **2022 • PG • 1h 39m • Animation, Family, Comedy, Adventure, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Promising Young Woman
 
+[Compare across authors](../../compare/?t=film-promising-young-woman_582014)
+
 ## DTS-HD MA 7.1, DTS-HD MA 5.1
 
 **2020 • R • 1h 54m • Thriller, Crime, Drama • mobe1969**

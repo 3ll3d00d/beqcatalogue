@@ -1,5 +1,7 @@
 # TANG AND ME
 
+[Compare across authors](../../compare/?t=film-tang-and-me_961415)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 55m • Japanese • Comedy, Family, Science Fiction • mobe1969**

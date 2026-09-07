@@ -1,5 +1,7 @@
 # Kingdom
 
+[Compare across authors](../../compare/?t=film-kingdom_554805)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2019 • NR • 2h 14m • Japanese • Action, War, History, Drama • mobe1969**

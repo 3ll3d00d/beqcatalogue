@@ -1,5 +1,7 @@
 # The Duellists
 
+[Compare across authors](../../compare/?t=film-the-duellists_19067)
+
 ## DTS-HD MA 5.1
 
 **1977 • PG • 1h 40m • Drama, War • mobe1969**

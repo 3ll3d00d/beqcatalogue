@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-alice-in-borderland_110316)
+
 ## Season 1
 
 * DD+

@@ -1,5 +1,7 @@
 # Tomb of the River
 
+[Compare across authors](../../compare/?t=film-tomb-of-the-river_752886)
+
 ## LPCM 5.1
 
 **2022 • NR • 2h 0m • Korean • Action, Crime, Drama • mobe1969**

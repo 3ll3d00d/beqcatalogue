@@ -1,5 +1,7 @@
 # S.M.A.R.T. Chase
 
+[Compare across authors](../../compare/?t=film-smart-chase_473920)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2017 • NR • 1h 35m • Action, Comedy, Adventure • mobe1969**

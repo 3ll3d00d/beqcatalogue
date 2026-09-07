@@ -1,5 +1,7 @@
 # 12 Years a Slave
 
+[Compare across authors](../../compare/?t=film-12-years-a-slave_76203)
+
 ## TrueHD 5.1
 
 **2013 • R • 2h 14m • Drama, History • mobe1969**

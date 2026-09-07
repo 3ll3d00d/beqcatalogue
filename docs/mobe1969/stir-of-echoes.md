@@ -1,5 +1,7 @@
 # Stir of Echoes
 
+[Compare across authors](../../compare/?t=film-stir-of-echoes_11601)
+
 ## DTS-HD HR 6.1, DD+ 5.1
 
 **1999 • R • 1h 39m • Horror • mobe1969**

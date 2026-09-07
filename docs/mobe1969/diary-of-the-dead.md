@@ -1,5 +1,7 @@
 # Diary of the Dead
 
+[Compare across authors](../../compare/?t=film-diary-of-the-dead_13025)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 35m • Horror • mobe1969**

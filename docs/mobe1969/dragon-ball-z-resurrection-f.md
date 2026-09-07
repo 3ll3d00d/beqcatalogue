@@ -1,5 +1,7 @@
 # Dragon Ball Z: Resurrection 'F'
 
+[Compare across authors](../../compare/?t=film-dragon-ball-z-resurrection-f_303857)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 33m • Japanese • Action, Animation, Science Fiction • mobe1969**

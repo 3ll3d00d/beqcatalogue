@@ -1,5 +1,7 @@
 # Charlie's Angels
 
+[Compare across authors](../../compare/?t=film-charlies-angels_458897)
+
 ## DTS-X
 
 **2019 • PG-13 • 1h 58m • Action, Adventure, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Dragged Across Concrete
 
+[Compare across authors](../../compare/?t=film-dragged-across-concrete_438674)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 2h 39m • Crime, Action, Thriller • mobe1969**

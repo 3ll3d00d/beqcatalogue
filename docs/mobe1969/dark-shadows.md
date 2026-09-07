@@ -1,5 +1,7 @@
 # Dark Shadows
 
+[Compare across authors](../../compare/?t=film-dark-shadows_62213)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 53m • Fantasy, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # How It Ends
 
+[Compare across authors](../../compare/?t=film-how-it-ends_475210)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 53m • Science Fiction, Thriller, Mystery, Action, Adventure • mobe1969**

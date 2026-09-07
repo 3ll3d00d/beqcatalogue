@@ -1,5 +1,7 @@
 # Nikamma
 
+[Compare across authors](../../compare/?t=film-nikamma_693841)
+
 ## DD+ 5.1
 
 **2022 • M • 2h 27m • Hindi • Action, Comedy • mobe1969**

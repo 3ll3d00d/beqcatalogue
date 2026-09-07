@@ -1,5 +1,7 @@
 # In the Line of Fire
 
+[Compare across authors](../../compare/?t=film-in-the-line-of-fire_9386)
+
 ## Atmos
 
 **1993 • R • 2h 8m • Action, Drama, Thriller, Crime, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Derailed
 
+[Compare across authors](../../compare/?t=film-derailed_17774)
+
 ## DTS-HD MA 5.1
 
 **2002 • 16 • 1h 29m • Thriller, Action • mobe1969**

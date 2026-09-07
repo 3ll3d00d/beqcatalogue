@@ -1,5 +1,7 @@
 # The Ghost Station
 
+[Compare across authors](../../compare/?t=film-the-ghost-station_844386)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 20m • Korean • Horror, Mystery, Fantasy • mobe1969**

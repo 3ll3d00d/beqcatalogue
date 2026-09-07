@@ -1,5 +1,7 @@
 # White Elephant
 
+[Compare across authors](../../compare/?t=film-white-elephant_843633)
+
 ## DD+ 5.1
 
 **2022 • R18+ • 1h 33m • Action, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # No Good Deed
 
+[Compare across authors](../../compare/?t=film-no-good-deed_136835)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 23m • Crime, Thriller • mobe1969**

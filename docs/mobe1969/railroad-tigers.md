@@ -1,5 +1,7 @@
 # Railroad Tigers
 
+[Compare across authors](../../compare/?t=film-railroad-tigers_377447)
+
 ## DTS-X
 
 **2016 • NR • 2h 4m • Mandarin • Action, Comedy, War • mobe1969**

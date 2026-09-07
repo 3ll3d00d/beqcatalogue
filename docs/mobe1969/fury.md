@@ -1,5 +1,7 @@
 # Fury
 
+[Compare across authors](../../compare/?t=film-fury_228150)
+
 ## Atmos
 
 **2014 • R • 2h 15m • War, Drama, Action • mobe1969**

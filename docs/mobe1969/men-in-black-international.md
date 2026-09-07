@@ -1,5 +1,7 @@
 # Men in Black: International
 
+[Compare across authors](../../compare/?t=film-men-in-black-international_479455)
+
 ## Atmos
 
 **2019 • PG-13 • 1h 55m • Comedy, Science Fiction, Action • mobe1969**

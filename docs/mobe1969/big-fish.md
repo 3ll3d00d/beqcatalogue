@@ -1,5 +1,7 @@
 # Big Fish
 
+[Compare across authors](../../compare/?t=film-big-fish_587)
+
 ## Atmos
 
 **2003 • PG-13 • 2h 5m • Adventure, Fantasy, Drama • mobe1969**

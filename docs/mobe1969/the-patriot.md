@@ -1,5 +1,7 @@
 # The Patriot
 
+[Compare across authors](../../compare/?t=film-the-patriot_6058)
+
 ## DD+ 5.1
 
 **1998 • NR • 1h 30m • Action, Thriller • mobe1969**

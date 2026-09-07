@@ -1,5 +1,7 @@
 # Blasted
 
+[Compare across authors](../../compare/?t=film-blasted_982987)
+
 ## DD+ Atmos
 
 **2022 • NR • 1h 54m • Norwegian • Action, Comedy, Science Fiction • mobe1969**

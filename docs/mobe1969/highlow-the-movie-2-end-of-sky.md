@@ -1,5 +1,7 @@
 # HiGH&LOW The Movie 2: End of Sky
 
+[Compare across authors](../../compare/?t=film-highlow-the-movie-2-end-of-sky_508822)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 4m • Japanese • Action • mobe1969**

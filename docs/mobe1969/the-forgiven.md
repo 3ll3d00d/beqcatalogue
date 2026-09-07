@@ -1,5 +1,7 @@
 # The Forgiven
 
+[Compare across authors](../../compare/?t=film-the-forgiven_450766)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 55m • Thriller • mobe1969**

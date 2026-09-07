@@ -1,5 +1,7 @@
 # Don't Go
 
+[Compare across authors](../../compare/?t=film-dont-go_542202)
+
 ## DTS-HD MA 5.1
 
 **2018 • M • 1h 34m • Mystery • mobe1969**

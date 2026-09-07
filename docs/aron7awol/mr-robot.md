@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-mr-robot_62560)
+
 ## Season 4
 
 * DD+

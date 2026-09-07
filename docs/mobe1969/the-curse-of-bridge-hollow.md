@@ -1,5 +1,7 @@
 # The Curse of Bridge Hollow
 
+[Compare across authors](../../compare/?t=film-the-curse-of-bridge-hollow_864959)
+
 ## DD+ Atmos
 
 **2022 • NR • 1h 32m • Horror, Comedy, Adventure • mobe1969**

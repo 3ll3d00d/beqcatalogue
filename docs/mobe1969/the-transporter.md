@@ -1,5 +1,7 @@
 # The Transporter
 
+[Compare across authors](../../compare/?t=film-the-transporter_4108)
+
 ## DD+ 5.1
 
 **2002 • PG-13 • 1h 32m • Action, Crime, Thriller • mobe1969**

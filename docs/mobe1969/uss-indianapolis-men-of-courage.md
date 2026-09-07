@@ -1,5 +1,7 @@
 # USS Indianapolis: Men of Courage
 
+[Compare across authors](../../compare/?t=film-uss-indianapolis-men-of-courage_340945)
+
 ## DTS-HD MA 5.1
 
 **2016 • 16 • 2h 8m • Action, War • mobe1969**

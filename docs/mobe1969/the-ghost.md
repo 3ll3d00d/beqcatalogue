@@ -1,5 +1,7 @@
 # The Ghost
 
+[Compare across authors](../../compare/?t=film-the-ghost_868666)
+
 ## DD+ 5.1
 
 **2022 • 15 • 2h 18m • Telugu • Action, Drama, Thriller • mobe1969**

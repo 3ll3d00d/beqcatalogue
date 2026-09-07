@@ -1,5 +1,7 @@
 # Director's Cut
 
+[Compare across authors](../../compare/?t=film-directors-cut_355536)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 22m • Horror, Comedy, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Skin I Live In
 
+[Compare across authors](../../compare/?t=film-the-skin-i-live-in_63311)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 2h 0m • Spanish • Drama, Thriller, Mystery, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Godspeed
 
+[Compare across authors](../../compare/?t=film-godspeed_411005)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 51m • Mandarin • Drama, Crime, Comedy, Thriller • mobe1969**

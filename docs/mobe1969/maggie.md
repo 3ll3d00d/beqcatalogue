@@ -1,5 +1,7 @@
 # Maggie
 
+[Compare across authors](../../compare/?t=film-maggie_287424)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 35m • Horror, Drama, Mystery • mobe1969**

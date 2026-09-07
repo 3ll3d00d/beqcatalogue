@@ -1,5 +1,7 @@
 # Ghost Rider
 
+[Compare across authors](../../compare/?t=film-ghost-rider_1250)
+
 ## DD+ 5.1
 
 Theatrical Cut

@@ -1,5 +1,7 @@
 # Goon: Last of the Enforcers
 
+[Compare across authors](../../compare/?t=film-goon-last-of-the-enforcers_336890)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 41m • Comedy • mobe1969**

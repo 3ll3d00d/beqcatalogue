@@ -1,5 +1,7 @@
 # Nowhere
 
+[Compare across authors](../../compare/?t=film-nowhere_1151534)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 49m • Spanish • Thriller, Drama • mobe1969**

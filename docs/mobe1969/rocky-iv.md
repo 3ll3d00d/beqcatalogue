@@ -1,5 +1,7 @@
 # Rocky IV
 
+[Compare across authors](../../compare/?t=film-rocky-iv_1374)
+
 ## DTS-HD MA 5.1
 
 **1985 • PG-13 • 1h 31m • Drama • mobe1969**

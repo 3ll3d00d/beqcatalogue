@@ -1,5 +1,7 @@
 # Batman Returns
 
+[Compare across authors](../../compare/?t=film-batman-returns_364)
+
 ## Atmos
 
 **1992 • PG-13 • 2h 3m • Action, Fantasy • mobe1969**

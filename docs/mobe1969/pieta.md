@@ -1,5 +1,7 @@
 # Pietà
 
+[Compare across authors](../../compare/?t=film-pieta_123377)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 44m • Korean • Drama • mobe1969**

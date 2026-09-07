@@ -1,5 +1,7 @@
 # Red Eye
 
+[Compare across authors](../../compare/?t=film-red-eye_11460)
+
 ## DTS-HD MA 5.1
 
 **2005 • PG-13 • 1h 25m • Horror, Thriller • mobe1969**

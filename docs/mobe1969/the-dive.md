@@ -1,5 +1,7 @@
 # The Dive
 
+[Compare across authors](../../compare/?t=film-the-dive_1109534)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 31m • Thriller • mobe1969**

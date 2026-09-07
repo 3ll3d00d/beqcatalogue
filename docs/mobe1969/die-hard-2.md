@@ -1,5 +1,7 @@
 # Die Hard 2
 
+[Compare across authors](../../compare/?t=film-die-hard-2_1573)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 2h 4m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Suicide Squad
 
+[Compare across authors](../../compare/?t=film-the-suicide-squad_436969)
+
 ## Atmos, DD+ Atmos
 
 **2021 • R • 2h 12m • Action, Adventure, Fantasy • mobe1969**

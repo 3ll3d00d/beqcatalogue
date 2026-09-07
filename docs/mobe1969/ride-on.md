@@ -1,5 +1,7 @@
 # Ride On
 
+[Compare across authors](../../compare/?t=film-ride-on_931102)
+
 ## DTS-HD 5.1
 
 **2023 • PG • 2h 6m • Mandarin • Action, Comedy, Adventure, Drama • mobe1969**

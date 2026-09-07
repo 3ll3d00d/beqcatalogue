@@ -1,5 +1,7 @@
 # Sorcerer
 
+[Compare across authors](../../compare/?t=film-sorcerer_38985)
+
 ## DTS-HD MA 5.1
 
 **1977 • PG • 2h 1m • Thriller, Adventure, Drama • mobe1969**

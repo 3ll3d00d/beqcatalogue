@@ -1,5 +1,7 @@
 # Love is Not a Crime
 
+[Compare across authors](../../compare/?t=film-love-is-not-a-crime_79465)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 29m • Comedy, Drama, Romance • mobe1969**

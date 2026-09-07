@@ -1,5 +1,7 @@
 # Knowing
 
+[Compare across authors](../../compare/?t=film-knowing_13811)
+
 ## Atmos
 
 **2009 • PG-13 • 2h 1m • Action, Mystery, Science Fiction, Thriller • mobe1969**

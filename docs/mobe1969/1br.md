@@ -1,5 +1,7 @@
 # 1BR
 
+[Compare across authors](../../compare/?t=film-1br_611605)
+
 ## DD+ 5.1
 
 **2019 • 15 • 1h 30m • Thriller, Drama, Horror • mobe1969**

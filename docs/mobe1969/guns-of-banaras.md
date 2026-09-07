@@ -1,5 +1,7 @@
 # Guns of Banaras
 
+[Compare across authors](../../compare/?t=film-guns-of-banaras_678960)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 15m • Hindi • Action, Crime, Drama • mobe1969**

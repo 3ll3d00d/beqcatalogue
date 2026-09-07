@@ -1,5 +1,7 @@
 # The Falls
 
+[Compare across authors](../../compare/?t=film-the-falls_852355)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 9m • Mandarin • Drama • mobe1969**

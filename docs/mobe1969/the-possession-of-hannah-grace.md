@@ -1,5 +1,7 @@
 # The Possession of Hannah Grace
 
+[Compare across authors](../../compare/?t=film-the-possession-of-hannah-grace_434555)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 26m • Horror, Drama • mobe1969**

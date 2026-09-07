@@ -1,5 +1,7 @@
 # War Pigs
 
+[Compare across authors](../../compare/?t=film-war-pigs_348811)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 32m • War, Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Invisible
 
+[Compare across authors](../../compare/?t=film-the-invisible_9785)
+
 ## LPCM 5.1
 
 **2007 • PG-13 • 1h 42m • Mystery, Drama, Fantasy, Thriller, Crime, Science Fiction • mobe1969**

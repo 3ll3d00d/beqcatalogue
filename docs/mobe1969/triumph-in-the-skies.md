@@ -1,5 +1,7 @@
 # Triumph in the Skies
 
+[Compare across authors](../../compare/?t=film-triumph-in-the-skies_320132)
+
 ## DD+ 5.1
 
 **2015 • NR • 1h 40m • Cantonese • Comedy, Drama, Romance • mobe1969**

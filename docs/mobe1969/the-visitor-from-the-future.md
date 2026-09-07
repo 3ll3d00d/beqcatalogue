@@ -1,5 +1,7 @@
 # The Visitor from the Future
 
+[Compare across authors](../../compare/?t=film-the-visitor-from-the-future_810389)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 42m • French • Science Fiction, Comedy, Adventure • mobe1969**

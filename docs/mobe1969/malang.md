@@ -1,5 +1,7 @@
 # Malang
 
+[Compare across authors](../../compare/?t=film-malang_661043)
+
 ## DD+ 5.1
 
 **2020 • 15 • 2h 15m • Hindi • Romance, Action, Drama • mobe1969**

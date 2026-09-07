@@ -1,5 +1,7 @@
 # Crossing Point
 
+[Compare across authors](../../compare/?t=film-crossing-point_391486)
+
 ## DD 5.1
 
 **2016 • NR • 1h 32m • Action, Thriller • mobe1969**

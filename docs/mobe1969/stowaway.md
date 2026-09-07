@@ -1,5 +1,7 @@
 # Stowaway
 
+[Compare across authors](../../compare/?t=film-stowaway_559581)
+
 ## DD+ 5.1
 
 **2021 • M • 1h 57m • Science Fiction, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Big Bang
 
+[Compare across authors](../../compare/?t=film-the-big-bang_54271)
+
 ## TrueHD 5.1
 
 **2010 • R • 1h 41m • Action, Mystery, Thriller • mobe1969**

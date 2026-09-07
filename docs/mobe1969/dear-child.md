@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-dear-child_229221)
+
 ## Season 1
 
 * DD+ 5.1

@@ -1,5 +1,7 @@
 # Avengement
 
+[Compare across authors](../../compare/?t=film-avengement_534490)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2019 • NR • 1h 28m • Crime, Action • mobe1969**

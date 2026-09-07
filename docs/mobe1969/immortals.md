@@ -1,5 +1,7 @@
 # Immortals
 
+[Compare across authors](../../compare/?t=film-immortals_37958)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 50m • Fantasy, Action, Drama • mobe1969**

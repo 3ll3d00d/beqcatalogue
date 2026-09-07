@@ -1,5 +1,7 @@
 # The Toybox
 
+[Compare across authors](../../compare/?t=film-the-toybox_516784)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 21m • Horror, Thriller • mobe1969**

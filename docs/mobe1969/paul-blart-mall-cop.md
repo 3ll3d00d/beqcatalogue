@@ -1,5 +1,7 @@
 # Paul Blart: Mall Cop
 
+[Compare across authors](../../compare/?t=film-paul-blart-mall-cop_14560)
+
 ## DD+ 5.1
 
 **2009 • PG • 1h 31m • Action, Adventure, Comedy, Family • mobe1969**

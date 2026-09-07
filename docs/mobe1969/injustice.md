@@ -1,5 +1,7 @@
 # Injustice
 
+[Compare across authors](../../compare/?t=film-injustice_831405)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 18m • Animation, Science Fiction, Fantasy, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Open Season
 
+[Compare across authors](../../compare/?t=film-open-season_7484)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG • 1h 26m • Animation, Family, Adventure, Comedy • mobe1969**

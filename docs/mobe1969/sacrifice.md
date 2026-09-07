@@ -1,5 +1,7 @@
 # Sacrifice
 
+[Compare across authors](../../compare/?t=film-sacrifice_394661)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 31m • Thriller, Crime, Mystery • mobe1969**

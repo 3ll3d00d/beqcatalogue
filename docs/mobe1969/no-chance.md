@@ -1,5 +1,7 @@
 # No Chance
 
+[Compare across authors](../../compare/?t=film-no-chance_493550)
+
 ## DD 5.1
 
 **2020 • NR • 1h 35m • Action, War, Comedy • mobe1969**

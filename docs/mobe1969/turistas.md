@@ -1,5 +1,7 @@
 # Turistas
 
+[Compare across authors](../../compare/?t=film-turistas_9796)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

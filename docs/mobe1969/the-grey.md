@@ -1,5 +1,7 @@
 # The Grey
 
+[Compare across authors](../../compare/?t=film-the-grey_75174)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 57m • Drama, Thriller, Action, Adventure • mobe1969**

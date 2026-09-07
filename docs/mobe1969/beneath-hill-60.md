@@ -1,5 +1,7 @@
 # Beneath Hill 60
 
+[Compare across authors](../../compare/?t=film-beneath-hill-60_43418)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 2h 2m • History, Drama, War • mobe1969**

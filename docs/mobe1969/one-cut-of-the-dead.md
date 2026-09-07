@@ -1,5 +1,7 @@
 # One Cut of the Dead
 
+[Compare across authors](../../compare/?t=film-one-cut-of-the-dead_513434)
+
 ## DTS-HD MA 2.0
 
 **2017 • NR • 1h 36m • Japanese • Comedy, Horror • mobe1969**

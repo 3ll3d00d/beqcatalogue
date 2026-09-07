@@ -1,5 +1,7 @@
 # Zero
 
+[Compare across authors](../../compare/?t=film-zero_496076)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 44m • Hindi • Romance, Drama, Comedy • mobe1969**

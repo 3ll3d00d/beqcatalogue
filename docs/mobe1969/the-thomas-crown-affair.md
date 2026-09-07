@@ -1,5 +1,7 @@
 # The Thomas Crown Affair
 
+[Compare across authors](../../compare/?t=film-the-thomas-crown-affair_913)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 53m • Drama, Crime, Romance • mobe1969**

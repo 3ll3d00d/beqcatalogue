@@ -1,5 +1,7 @@
 # The Stranger
 
+[Compare across authors](../../compare/?t=film-the-stranger_848791)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 57m • Crime, Thriller, Drama • mobe1969**

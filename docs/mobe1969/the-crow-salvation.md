@@ -1,5 +1,7 @@
 # The Crow: Salvation
 
+[Compare across authors](../../compare/?t=film-the-crow-salvation_9456)
+
 ## DTS-HD MA 5.1
 
 **2000 • R • 1h 42m • Action, Thriller, Crime, Fantasy, Mystery • mobe1969**

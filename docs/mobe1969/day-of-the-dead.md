@@ -1,5 +1,7 @@
 # Day of the Dead
 
+[Compare across authors](../../compare/?t=film-day-of-the-dead_13613)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 1h 26m • Horror • mobe1969**

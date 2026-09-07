@@ -1,5 +1,7 @@
 # Saints and Soldiers 3: Battle of the Tanks
 
+[Compare across authors](../../compare/?t=film-saints-and-soldiers-3-battle-of-the-tanks_294690)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 36m • Action, Drama, War • mobe1969**

@@ -1,5 +1,7 @@
 # Your Place or Mine
 
+[Compare across authors](../../compare/?t=film-your-place-or-mine_703451)
+
 ## DD+ Atmos
 
 **2023 • PG-13 • 1h 49m • Comedy, Romance • mobe1969**

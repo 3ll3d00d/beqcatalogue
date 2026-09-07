@@ -1,5 +1,7 @@
 # Stonehearst Asylum
 
+[Compare across authors](../../compare/?t=film-stonehearst-asylum_207933)
+
 ## TrueHD 5.1
 
 **2015 • PG-13 • 1h 52m • Thriller • mobe1969**

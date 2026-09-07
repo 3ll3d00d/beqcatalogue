@@ -1,5 +1,7 @@
 # Ek Villain
 
+[Compare across authors](../../compare/?t=film-ek-villain_276935)
+
 ## DD 5.1
 
 **2014 • NR • 2h 9m • Hindi • Action, Crime, Thriller • mobe1969**

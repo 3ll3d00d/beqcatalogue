@@ -1,5 +1,7 @@
 # Attack of the Hollywood Clichés!
 
+[Compare across authors](../../compare/?t=film-attack-of-the-hollywood-cliches_877657)
+
 ## DD+ 5.1
 
 **2021 • 15 • 0h 59m • Documentary • mobe1969**

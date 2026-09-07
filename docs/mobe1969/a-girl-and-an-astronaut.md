@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-a-girl-and-an-astronaut_217858)
+
 ## Season 1
 
 * DD+ Atmos

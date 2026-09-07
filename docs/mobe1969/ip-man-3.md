@@ -1,5 +1,7 @@
 # Ip Man 3
 
+[Compare across authors](../../compare/?t=film-ip-man-3_365222)
+
 ## Atmos, DD+ 5.1
 
 **2015 • PG-13 • 1h 45m • Cantonese • Action, Drama, History • mobe1969**

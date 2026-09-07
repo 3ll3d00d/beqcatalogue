@@ -1,5 +1,7 @@
 # Beerfest
 
+[Compare across authors](../../compare/?t=film-beerfest_9988)
+
 ## DD 5.1
 
 Unrated Cut

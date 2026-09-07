@@ -1,5 +1,7 @@
 # The Red Sea Diving Resort
 
+[Compare across authors](../../compare/?t=film-the-red-sea-diving-resort_465003)
+
 ## DD+ 5.1
 
 **2019 • R • 2h 10m • Drama, Thriller, History • mobe1969**

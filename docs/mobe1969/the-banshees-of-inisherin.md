@@ -1,5 +1,7 @@
 # The Banshees of Inisherin
 
+[Compare across authors](../../compare/?t=film-the-banshees-of-inisherin_674324)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 54m • Drama, Comedy • mobe1969**

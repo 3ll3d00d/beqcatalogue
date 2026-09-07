@@ -1,5 +1,7 @@
 # The Heroic Trio
 
+[Compare across authors](../../compare/?t=film-the-heroic-trio_43636)
+
 ## DTS-HD MA 5.1
 
 **1993 • NR • 1h 28m • Cantonese • Action, Fantasy, Thriller • mobe1969**

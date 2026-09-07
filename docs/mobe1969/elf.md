@@ -1,5 +1,7 @@
 # Elf
 
+[Compare across authors](../../compare/?t=film-elf_10719)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG • 1h 37m • Comedy, Family, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Attack the Block
 
+[Compare across authors](../../compare/?t=film-attack-the-block_59678)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 22m • Action, Comedy, Science Fiction • mobe1969**

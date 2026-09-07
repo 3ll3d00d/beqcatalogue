@@ -1,5 +1,7 @@
 # Old Dogs
 
+[Compare across authors](../../compare/?t=film-old-dogs_22949)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG • 1h 28m • Comedy, Family • mobe1969**

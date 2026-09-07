@@ -1,5 +1,7 @@
 # Truth or Dare
 
+[Compare across authors](../../compare/?t=film-truth-or-dare_460019)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 40m • Thriller, Horror • mobe1969**

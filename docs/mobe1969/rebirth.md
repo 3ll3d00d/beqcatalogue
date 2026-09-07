@@ -1,5 +1,7 @@
 # Rebirth
 
+[Compare across authors](../../compare/?t=film-rebirth_369033)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 41m • Thriller • mobe1969**

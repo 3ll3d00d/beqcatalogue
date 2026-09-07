@@ -1,5 +1,7 @@
 # The Power
 
+[Compare across authors](../../compare/?t=film-the-power_784167)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 34m • Hindi • Drama, Action • mobe1969**

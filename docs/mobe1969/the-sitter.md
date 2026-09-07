@@ -1,5 +1,7 @@
 # The Sitter
 
+[Compare across authors](../../compare/?t=film-the-sitter_57431)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 21m • Comedy • mobe1969**

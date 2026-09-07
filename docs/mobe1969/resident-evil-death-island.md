@@ -1,5 +1,7 @@
 # Resident Evil: Death Island
 
+[Compare across authors](../../compare/?t=film-resident-evil-death-island_1083862)
+
 ## Atmos
 
 **2023 • R • 1h 31m • Animation, Action, Horror • mobe1969**

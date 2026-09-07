@@ -1,5 +1,7 @@
 # Point of No Return
 
+[Compare across authors](../../compare/?t=film-point-of-no-return_10498)
+
 ## TrueHD 5.1
 
 **1993 • R • 1h 48m • Thriller, Action, Crime • mobe1969**

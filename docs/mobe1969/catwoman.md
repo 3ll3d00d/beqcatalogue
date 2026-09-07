@@ -1,5 +1,7 @@
 # Catwoman
 
+[Compare across authors](../../compare/?t=film-catwoman_314)
+
 ## TrueHD 5.1
 
 **2004 • PG-13 • 1h 44m • Action, Fantasy, Mystery, Crime • mobe1969**

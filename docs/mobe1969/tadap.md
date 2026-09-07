@@ -1,5 +1,7 @@
 # Tadap
 
+[Compare across authors](../../compare/?t=film-tadap_669696)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 6m • Hindi • Action, Romance • mobe1969**

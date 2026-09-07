@@ -1,5 +1,7 @@
 # The Last Thing He Wanted
 
+[Compare across authors](../../compare/?t=film-the-last-thing-he-wanted_505225)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 56m • Drama, Thriller • mobe1969**

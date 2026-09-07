@@ -1,5 +1,7 @@
 # Ace Ventura: Pet Detective
 
+[Compare across authors](../../compare/?t=film-ace-ventura-pet-detective_3049)
+
 ## DTS-HD MA 5.1
 
 **1994 • PG-13 • 1h 26m • Comedy, Adventure • mobe1969**

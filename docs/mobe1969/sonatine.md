@@ -1,5 +1,7 @@
 # Sonatine
 
+[Compare across authors](../../compare/?t=film-sonatine_7500)
+
 ## LPCM 2.0
 
 **1993 • R • 1h 34m • Japanese • Action, Crime, Thriller • mobe1969**

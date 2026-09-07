@@ -1,5 +1,7 @@
 # Dragon Ball Super: Broly
 
+[Compare across authors](../../compare/?t=film-dragon-ball-super-broly_503314)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG • 1h 41m • Action, Science Fiction, Animation • mobe1969**

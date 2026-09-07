@@ -1,5 +1,7 @@
 # The Rental
 
+[Compare across authors](../../compare/?t=film-the-rental_587496)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 28m • Horror • mobe1969**

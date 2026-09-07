@@ -1,5 +1,7 @@
 # Angel Heart
 
+[Compare across authors](../../compare/?t=film-angel-heart_635)
+
 ## DTS-HD MA 5.1
 
 **1987 • R • 1h 53m • Mystery, Horror • mobe1969**

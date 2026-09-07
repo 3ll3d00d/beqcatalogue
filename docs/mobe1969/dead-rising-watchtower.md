@@ -1,5 +1,7 @@
 # Dead Rising: Watchtower
 
+[Compare across authors](../../compare/?t=film-dead-rising-watchtower_293771)
+
 ## DTS-HD MA 5.1
 
 **2015 • NC-17 • 1h 58m • Horror, Science Fiction, Action • mobe1969**

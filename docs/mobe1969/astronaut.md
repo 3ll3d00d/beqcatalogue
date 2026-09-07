@@ -1,5 +1,7 @@
 # Astronaut
 
+[Compare across authors](../../compare/?t=film-astronaut_605801)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG • 1h 38m • Comedy, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The X Files
 
+[Compare across authors](../../compare/?t=film-the-x-files_846)
+
 ## DTS-HD MA 5.1
 
 **1998 • PG-13 • 2h 1m • Thriller, Science Fiction, Mystery • mobe1969**

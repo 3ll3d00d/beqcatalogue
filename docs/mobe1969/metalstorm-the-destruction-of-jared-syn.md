@@ -1,5 +1,7 @@
 # Metalstorm: The Destruction of Jared-Syn
 
+[Compare across authors](../../compare/?t=film-metalstorm-the-destruction-of-jared-syn_47364)
+
 ## DTS-HD MA 5.1
 
 **1983 • PG • 1h 24m • Fantasy, Science Fiction • mobe1969**

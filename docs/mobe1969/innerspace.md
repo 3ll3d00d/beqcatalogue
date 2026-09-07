@@ -1,5 +1,7 @@
 # Innerspace
 
+[Compare across authors](../../compare/?t=film-innerspace_2614)
+
 ## DTS-HD MA 5.1
 
 **1987 • PG • 2h 0m • Action, Comedy, Science Fiction • mobe1969**

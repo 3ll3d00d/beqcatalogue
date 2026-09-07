@@ -1,5 +1,7 @@
 # Unwelcome
 
+[Compare across authors](../../compare/?t=film-unwelcome_758769)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 44m • Horror • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-a-league-of-their-own_107005)
+
 ## Season 1
 
 * DD+ 5.1

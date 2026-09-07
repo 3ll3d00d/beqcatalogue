@@ -1,5 +1,7 @@
 # Sword of the Stranger
 
+[Compare across authors](../../compare/?t=film-sword-of-the-stranger_13980)
+
 ## TrueHD 5.1
 
 **2007 • NR • 1h 43m • Japanese • Animation, Action, History • mobe1969**

@@ -1,5 +1,7 @@
 # Midnight In The Switchgrass
 
+[Compare across authors](../../compare/?t=film-midnight-in-the-switchgrass_693113)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2021 • R • 1h 39m • Crime, Thriller, Action, Mystery • mobe1969**

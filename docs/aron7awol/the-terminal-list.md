@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-terminal-list_120911)
+
 ## Season 1
 
 * DD+

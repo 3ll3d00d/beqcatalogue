@@ -1,5 +1,7 @@
 # What Happened to Mr Cha?
 
+[Compare across authors](../../compare/?t=film-what-happened-to-mr-cha_629277)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 42m • Korean • Comedy • mobe1969**

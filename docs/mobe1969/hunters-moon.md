@@ -1,5 +1,7 @@
 # Hunter's Moon
 
+[Compare across authors](../../compare/?t=film-hunters-moon_458673)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 21m • Thriller, Horror, Crime • mobe1969**

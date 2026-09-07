@@ -1,5 +1,7 @@
 # The Art of War
 
+[Compare across authors](../../compare/?t=film-the-art-of-war_11398)
+
 ## DTS-HD MA 5.1
 
 **2000 • R • 1h 57m • Crime, Action, Adventure • mobe1969**

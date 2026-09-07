@@ -1,5 +1,7 @@
 # Lock, Stock and Two Smoking Barrels
 
+[Compare across authors](../../compare/?t=film-lock-stock-and-two-smoking-barrels_100)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 45m • Crime, Comedy • mobe1969**

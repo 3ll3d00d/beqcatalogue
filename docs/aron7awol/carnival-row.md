@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-carnival-row_90027)
+
 ## Season 1
 
 * DD+

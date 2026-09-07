@@ -1,5 +1,7 @@
 # London Boulevard
 
+[Compare across authors](../../compare/?t=film-london-boulevard_48838)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 43m • Crime, Drama • mobe1969**

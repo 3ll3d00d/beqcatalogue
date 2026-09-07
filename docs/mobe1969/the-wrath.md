@@ -1,5 +1,7 @@
 # The Wrath
 
+[Compare across authors](../../compare/?t=film-the-wrath_553350)
+
 ## TrueHD 7.1
 
 **2018 • 15 • 1h 34m • Korean • Horror, Mystery • mobe1969**

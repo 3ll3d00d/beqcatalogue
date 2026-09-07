@@ -1,5 +1,7 @@
 # Madagascar: Escape 2 Africa
 
+[Compare across authors](../../compare/?t=film-madagascar-escape-2-africa_10527)
+
 ## TrueHD 5.1
 
 **2008 • PG • 1h 29m • Family, Adventure, Animation, Comedy • mobe1969**

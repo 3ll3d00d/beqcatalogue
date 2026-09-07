@@ -1,5 +1,7 @@
 # Ustaad
 
+[Compare across authors](../../compare/?t=film-ustaad_1031983)
+
 ## DD+ 5.1
 
 **2023 • NR • 0h 0m • Telugu • Comedy, Romance, Action • mobe1969**

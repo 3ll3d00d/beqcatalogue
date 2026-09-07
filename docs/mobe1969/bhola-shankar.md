@@ -1,5 +1,7 @@
 # Bhola Shankar
 
+[Compare across authors](../../compare/?t=film-bhola-shankar_864221)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 38m • Telugu • Action, Crime, Drama, Thriller • mobe1969**

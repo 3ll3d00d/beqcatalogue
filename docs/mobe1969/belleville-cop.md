@@ -1,5 +1,7 @@
 # Belleville Cop
 
+[Compare across authors](../../compare/?t=film-belleville-cop_495673)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 50m • Comedy, Crime • mobe1969**

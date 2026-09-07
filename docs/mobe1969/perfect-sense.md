@@ -1,5 +1,7 @@
 # Perfect Sense
 
+[Compare across authors](../../compare/?t=film-perfect-sense_51999)
+
 ## LPCM 5.1
 
 **2011 • R • 1h 33m • Romance, Science Fiction, Drama • mobe1969**

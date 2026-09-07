@@ -1,5 +1,7 @@
 # The Jack in the Box: Awakening
 
+[Compare across authors](../../compare/?t=film-the-jack-in-the-box-awakening_801071)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 29m • Horror • mobe1969**

@@ -1,5 +1,7 @@
 # The Initiated
 
+[Compare across authors](../../compare/?t=film-the-initiated_1133923)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 52m • Spanish • Crime, Mystery, Thriller • mobe1969**

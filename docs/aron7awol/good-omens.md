@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-good-omens_71915)
+
 ## Season 1
 
 * DD+

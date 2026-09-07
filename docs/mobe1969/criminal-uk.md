@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-criminal-uk_92926)
+
 ## Season 1
 
 * DD+ Atmos

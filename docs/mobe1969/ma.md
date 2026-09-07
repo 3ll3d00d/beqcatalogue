@@ -1,5 +1,7 @@
 # Ma
 
+[Compare across authors](../../compare/?t=film-ma_502416)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 39m • Horror • mobe1969**

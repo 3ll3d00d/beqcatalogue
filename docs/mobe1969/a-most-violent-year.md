@@ -1,5 +1,7 @@
 # A Most Violent Year
 
+[Compare across authors](../../compare/?t=film-a-most-violent-year_241239)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 2h 5m • Crime, Drama, Thriller • mobe1969**

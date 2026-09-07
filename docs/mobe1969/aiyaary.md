@@ -1,5 +1,7 @@
 # Aiyaary
 
+[Compare across authors](../../compare/?t=film-aiyaary_493620)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 37m • Hindi • Action, Thriller • mobe1969**

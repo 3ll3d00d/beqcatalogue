@@ -1,5 +1,7 @@
 # The Matrix Resurrections
 
+[Compare across authors](../../compare/?t=film-the-matrix-resurrections_624860)
+
 ## Atmos, DD+ Atmos
 
 **2021 • R • 2h 28m • Science Fiction, Action, Adventure • mobe1969**

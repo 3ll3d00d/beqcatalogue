@@ -1,5 +1,7 @@
 # The Menu
 
+[Compare across authors](../../compare/?t=film-the-menu_593643)
+
 ## DD+ Atmos, DTS-HD MA 5.1
 
 **2022 • R • 1h 47m • Horror, Thriller • mobe1969**

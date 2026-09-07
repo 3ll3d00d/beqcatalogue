@@ -1,5 +1,7 @@
 # Legionnaire
 
+[Compare across authors](../../compare/?t=film-legionnaire_3513)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 38m • Adventure, Drama, Action, History, Thriller • mobe1969**

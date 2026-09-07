@@ -1,5 +1,7 @@
 # Wazir
 
+[Compare across authors](../../compare/?t=film-wazir_275269)
+
 ## Atmos, DD-EX 6.1
 
 **2016 • PG-13 • 1h 43m • Hindi • Thriller, Action, Crime • mobe1969**

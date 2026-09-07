@@ -1,5 +1,7 @@
 # Indiana Jones and the Temple of Doom
 
+[Compare across authors](../../compare/?t=film-indiana-jones-and-the-temple-of-doom_87)
+
 ## Atmos
 
 **1984 • PG • 1h 58m • Adventure, Action • mobe1969**

@@ -1,5 +1,7 @@
 # CHiPS
 
+[Compare across authors](../../compare/?t=film-chips_417644)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 40m • Action, Comedy, Crime • mobe1969**

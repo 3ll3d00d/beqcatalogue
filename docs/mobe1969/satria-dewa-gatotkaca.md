@@ -1,5 +1,7 @@
 # Satria Dewa: Gatotkaca
 
+[Compare across authors](../../compare/?t=film-satria-dewa-gatotkaca_667062)
+
 ## DD+ Atmos
 
 **2022 • NR • 2h 9m • Indonesian • Action, Adventure, Drama • mobe1969**

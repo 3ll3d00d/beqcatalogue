@@ -1,5 +1,7 @@
 # The Bridge on the River Kwai
 
+[Compare across authors](../../compare/?t=film-the-bridge-on-the-river-kwai_826)
+
 ## Atmos
 
 **1957 • PG • 2h 41m • Drama, History, War • mobe1969**

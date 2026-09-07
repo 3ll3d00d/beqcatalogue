@@ -1,5 +1,7 @@
 # Office Uprising
 
+[Compare across authors](../../compare/?t=film-office-uprising_381237)
+
 ## DD+ 5.1
 
 **2018 • 15 • 1h 28m • Comedy, Horror, Action • mobe1969**

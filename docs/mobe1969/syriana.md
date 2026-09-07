@@ -1,5 +1,7 @@
 # Syriana
 
+[Compare across authors](../../compare/?t=film-syriana_231)
+
 ## DD 5.1
 
 **2005 • R • 2h 8m • Drama, Thriller • mobe1969**

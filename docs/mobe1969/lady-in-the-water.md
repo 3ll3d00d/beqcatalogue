@@ -1,5 +1,7 @@
 # Lady in the Water
 
+[Compare across authors](../../compare/?t=film-lady-in-the-water_9697)
+
 ## DD 5.1
 
 **2006 • PG-13 • 1h 50m • Drama, Fantasy, Mystery • mobe1969**

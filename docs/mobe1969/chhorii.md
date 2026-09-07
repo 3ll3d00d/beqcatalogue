@@ -1,5 +1,7 @@
 # Chhorii
 
+[Compare across authors](../../compare/?t=film-chhorii_711643)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 9m • Hindi • Horror, Thriller • mobe1969**

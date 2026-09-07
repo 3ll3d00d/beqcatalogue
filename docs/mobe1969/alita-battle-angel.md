@@ -1,5 +1,7 @@
 # Alita: Battle Angel
 
+[Compare across authors](../../compare/?t=film-alita-battle-angel_399579)
+
 ## Atmos
 
 **2019 • PG-13 • 2h 2m • Action, Science Fiction, Adventure • mobe1969**

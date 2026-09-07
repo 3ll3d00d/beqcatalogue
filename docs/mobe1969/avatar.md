@@ -1,5 +1,7 @@
 # Avatar
 
+[Compare across authors](../../compare/?t=film-avatar_19995)
+
 ## Atmos, DD+ Atmos
 
 Theatrical Cut

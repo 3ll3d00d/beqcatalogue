@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-dynasties_82953)
+
 ## Season 1
 
 * Atmos

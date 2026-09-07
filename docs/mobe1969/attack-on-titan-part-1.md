@@ -1,5 +1,7 @@
 # Attack on Titan Part 1
 
+[Compare across authors](../../compare/?t=film-attack-on-titan-part-1_295830)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 38m • Japanese • Horror, Fantasy, Action, Science Fiction • mobe1969**

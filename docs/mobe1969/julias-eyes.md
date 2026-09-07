@@ -1,5 +1,7 @@
 # Julia's Eyes
 
+[Compare across authors](../../compare/?t=film-julias-eyes_52274)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 58m • Spanish • Horror, Thriller • mobe1969**

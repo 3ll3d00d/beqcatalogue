@@ -1,5 +1,7 @@
 # Kung Fu Jungle
 
+[Compare across authors](../../compare/?t=film-kung-fu-jungle_290864)
+
 ## DTS-HD MA 7.1
 
 **2014 • NR • 1h 40m • Cantonese • Crime, Action, Thriller • mobe1969**

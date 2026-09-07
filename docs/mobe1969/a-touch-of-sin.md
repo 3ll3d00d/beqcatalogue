@@ -1,5 +1,7 @@
 # A Touch of Sin
 
+[Compare across authors](../../compare/?t=film-a-touch-of-sin_187022)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 2h 11m • Mandarin • Drama, Crime, Action • mobe1969**

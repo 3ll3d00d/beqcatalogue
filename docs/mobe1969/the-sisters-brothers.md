@@ -1,5 +1,7 @@
 # The Sisters Brothers
 
+[Compare across authors](../../compare/?t=film-the-sisters-brothers_440161)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 2h 2m • Western, Comedy • mobe1969**

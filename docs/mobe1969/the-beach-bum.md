@@ -1,5 +1,7 @@
 # The Beach Bum
 
+[Compare across authors](../../compare/?t=film-the-beach-bum_441384)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 35m • Comedy • mobe1969**

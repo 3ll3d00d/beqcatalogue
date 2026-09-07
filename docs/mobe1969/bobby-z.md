@@ -1,5 +1,7 @@
 # Bobby Z
 
+[Compare across authors](../../compare/?t=film-bobby-z_10425)
+
 ## TrueHD 5.1
 
 **2007 • R • 1h 37m • Drama, Crime, Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Binding
 
+[Compare across authors](../../compare/?t=film-the-binding_741998)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 33m • Italian • Horror, Thriller, Drama • mobe1969**

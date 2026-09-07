@@ -1,5 +1,7 @@
 # The Mummy: Tomb of the Dragon Emperor
 
+[Compare across authors](../../compare/?t=film-the-mummy-tomb-of-the-dragon-emperor_1735)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG-13 • 1h 52m • Adventure, Action, Fantasy • mobe1969**

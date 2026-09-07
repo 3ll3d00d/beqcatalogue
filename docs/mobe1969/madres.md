@@ -1,5 +1,7 @@
 # Madres
 
+[Compare across authors](../../compare/?t=film-madres_796428)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 23m • Horror • mobe1969**

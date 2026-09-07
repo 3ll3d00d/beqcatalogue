@@ -1,5 +1,7 @@
 # Shaolin Soccer
 
+[Compare across authors](../../compare/?t=film-shaolin-soccer_11770)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG • 1h 53m • Cantonese • Action, Comedy • mobe1969**

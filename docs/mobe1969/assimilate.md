@@ -1,5 +1,7 @@
 # Assimilate
 
+[Compare across authors](../../compare/?t=film-assimilate_528985)
+
 ## DD+ 5.1
 
 **2019 • PG-13 • 1h 33m • Horror, Thriller, Science Fiction • mobe1969**

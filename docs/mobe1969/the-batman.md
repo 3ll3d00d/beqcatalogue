@@ -1,5 +1,7 @@
 # The Batman
 
+[Compare across authors](../../compare/?t=film-the-batman_414906)
+
 ## Atmos, DD+ 5.1
 
 **2022 • PG-13 • 2h 57m • Crime, Mystery, Thriller • mobe1969**

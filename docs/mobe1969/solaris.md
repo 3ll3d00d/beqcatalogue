@@ -1,5 +1,7 @@
 # Solaris
 
+[Compare across authors](../../compare/?t=film-solaris_2103)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG-13 • 1h 39m • Drama, Mystery, Romance, Science Fiction • mobe1969**

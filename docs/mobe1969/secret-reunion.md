@@ -1,5 +1,7 @@
 # Secret Reunion
 
+[Compare across authors](../../compare/?t=film-secret-reunion_50090)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 56m • Korean • Drama, Action • mobe1969**

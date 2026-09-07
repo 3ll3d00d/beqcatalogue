@@ -1,5 +1,7 @@
 # SDU: Sex Duties Unit
 
+[Compare across authors](../../compare/?t=film-sdu-sex-duties-unit_210498)
+
 ## DD+ 2.0
 
 **2013 • NR • 1h 34m • Cantonese • Comedy • mobe1969**

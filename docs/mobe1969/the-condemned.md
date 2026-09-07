@@ -1,5 +1,7 @@
 # The Condemned
 
+[Compare across authors](../../compare/?t=film-the-condemned_14636)
+
 ## DTS-HD HR 7.1
 
 **2007 • R • 1h 53m • Thriller, Action • mobe1969**

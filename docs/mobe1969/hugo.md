@@ -1,5 +1,7 @@
 # Hugo
 
+[Compare across authors](../../compare/?t=film-hugo_44826)
+
 ## DTS-HD MA 7.1
 
 **2011 • PG • 2h 6m • Adventure, Drama, Family • mobe1969**

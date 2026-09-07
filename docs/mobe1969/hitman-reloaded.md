@@ -1,5 +1,7 @@
 # Hitman Reloaded
 
+[Compare across authors](../../compare/?t=film-hitman-reloaded_118737)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 35m • Action, Thriller • mobe1969**

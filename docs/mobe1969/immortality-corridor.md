@@ -1,5 +1,7 @@
 # Immortality Corridor
 
+[Compare across authors](../../compare/?t=film-immortality-corridor_575333)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 5m • Russian • War, Drama • mobe1969**

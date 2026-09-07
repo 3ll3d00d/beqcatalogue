@@ -1,5 +1,7 @@
 # Urban Legends: Final Cut
 
+[Compare across authors](../../compare/?t=film-urban-legends-final-cut_12212)
+
 ## TrueHD 5.1
 
 **2000 • R • 1h 37m • Thriller, Horror, Mystery • mobe1969**

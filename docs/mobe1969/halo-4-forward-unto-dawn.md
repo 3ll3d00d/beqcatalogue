@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-halo-4-forward-unto-dawn_56295)
+
 ## Season 1
 
 * DTS-HD MA 5.1

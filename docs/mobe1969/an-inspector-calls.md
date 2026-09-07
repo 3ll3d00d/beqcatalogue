@@ -1,5 +1,7 @@
 # An Inspector Calls
 
+[Compare across authors](../../compare/?t=film-an-inspector-calls_334281)
+
 ## TrueHD 5.1
 
 **2015 • NR • 1h 37m • Cantonese • Comedy, Action • mobe1969**

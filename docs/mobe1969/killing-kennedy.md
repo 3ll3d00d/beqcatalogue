@@ -1,5 +1,7 @@
 # Killing Kennedy
 
+[Compare across authors](../../compare/?t=film-killing-kennedy_235093)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 27m • Drama • mobe1969**

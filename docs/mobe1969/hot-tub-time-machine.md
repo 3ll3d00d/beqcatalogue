@@ -1,5 +1,7 @@
 # Hot Tub Time Machine
 
+[Compare across authors](../../compare/?t=film-hot-tub-time-machine_23048)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

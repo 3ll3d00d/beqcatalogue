@@ -1,5 +1,7 @@
 # The Furies
 
+[Compare across authors](../../compare/?t=film-the-furies_528091)
+
 ## DTS-HD MA 5.1
 
 **2019 • R18+ • 1h 22m • Horror, Action, Thriller • mobe1969**

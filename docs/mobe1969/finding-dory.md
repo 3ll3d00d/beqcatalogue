@@ -1,5 +1,7 @@
 # Finding Dory
 
+[Compare across authors](../../compare/?t=film-finding-dory_127380)
+
 ## DTS-HD MA 7.1
 
 **2016 • PG • 1h 37m • Adventure, Animation, Comedy, Family • mobe1969**

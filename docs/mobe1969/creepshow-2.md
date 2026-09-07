@@ -1,5 +1,7 @@
 # Creepshow 2
 
+[Compare across authors](../../compare/?t=film-creepshow-2_16288)
+
 ## DTS-HD MA 5.1
 
 **1987 • R • 1h 32m • Horror, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # The Lookout
 
+[Compare across authors](../../compare/?t=film-the-lookout_122192)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 26m • French • Action, Mystery, Crime • mobe1969**

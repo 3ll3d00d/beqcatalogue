@@ -1,5 +1,7 @@
 # The Tiger
 
+[Compare across authors](../../compare/?t=film-the-tiger_363093)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 2h 19m • Korean • Action, History, Thriller, Fantasy • mobe1969**

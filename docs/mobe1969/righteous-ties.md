@@ -1,5 +1,7 @@
 # Righteous Ties
 
+[Compare across authors](../../compare/?t=film-righteous-ties_55765)
+
 ## DTS 5.1, DD 5.1
 
 **2006 • NR • 2h 6m • Korean • Action, Adventure, Crime, Drama • mobe1969**

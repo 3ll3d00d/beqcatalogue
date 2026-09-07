@@ -1,5 +1,7 @@
 # Boss
 
+[Compare across authors](../../compare/?t=film-boss_228355)
+
 ## DD+ 5.1
 
 **2013 • NR • 2h 23m • Hindi • Action, Comedy, Drama • mobe1969**

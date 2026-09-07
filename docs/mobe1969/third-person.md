@@ -1,5 +1,7 @@
 # Third Person
 
+[Compare across authors](../../compare/?t=film-third-person_192145)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 2h 17m • Drama, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Zombeavers
 
+[Compare across authors](../../compare/?t=film-zombeavers_254474)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 25m • Action, Comedy, Horror • mobe1969**

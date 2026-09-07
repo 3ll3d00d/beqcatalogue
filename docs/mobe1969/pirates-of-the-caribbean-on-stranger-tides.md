@@ -1,5 +1,7 @@
 # Pirates of the Caribbean: On Stranger Tides
 
+[Compare across authors](../../compare/?t=film-pirates-of-the-caribbean-on-stranger-tides_1865)
+
 ## Atmos
 
 **2011 • PG-13 • 2h 17m • Adventure, Action, Fantasy • mobe1969**

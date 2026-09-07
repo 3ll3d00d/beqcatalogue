@@ -1,5 +1,7 @@
 # Night of the Creeps
 
+[Compare across authors](../../compare/?t=film-night-of-the-creeps_15762)
+
 ## DTS-HD MA 5.1
 
 **1986 • R • 1h 28m • Science Fiction, Horror, Comedy • mobe1969**

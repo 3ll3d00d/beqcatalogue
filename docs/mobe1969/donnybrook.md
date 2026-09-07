@@ -1,5 +1,7 @@
 # Donnybrook
 
+[Compare across authors](../../compare/?t=film-donnybrook_504599)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 41m • Drama, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # The Enforcer
 
+[Compare across authors](../../compare/?t=film-the-enforcer_10649)
+
 ## TrueHD 5.1
 
 **1976 • R • 1h 36m • Thriller, Crime, Action • mobe1969**

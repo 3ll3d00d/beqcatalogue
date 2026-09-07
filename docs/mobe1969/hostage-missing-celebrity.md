@@ -1,5 +1,7 @@
 # Hostage: Missing Celebrity
 
+[Compare across authors](../../compare/?t=film-hostage-missing-celebrity_602463)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 34m • Korean • Action, Thriller • mobe1969**

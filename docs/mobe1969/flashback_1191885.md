@@ -1,5 +1,7 @@
 # Flashback
 
+[Compare across authors](../../compare/?t=film-flashback_1191885)
+
 ## DD+ Atmos
 
 **2023 • NR • 0h 16m • Horror • mobe1969**

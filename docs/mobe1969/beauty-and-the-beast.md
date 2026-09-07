@@ -1,5 +1,7 @@
 # Beauty and the Beast
 
+[Compare across authors](../../compare/?t=film-beauty-and-the-beast_10020)
+
 ## Atmos
 
 **1991 • G • 1h 24m • Romance, Family, Animation, Fantasy • mobe1969**

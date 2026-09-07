@@ -1,5 +1,7 @@
 # The Expendables 3
 
+[Compare across authors](../../compare/?t=film-the-expendables-3_138103)
+
 ## Atmos
 
 Theatrical Cut

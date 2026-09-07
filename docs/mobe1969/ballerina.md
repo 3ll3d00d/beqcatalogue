@@ -1,5 +1,7 @@
 # Ballerina
 
+[Compare across authors](../../compare/?t=film-ballerina_961268)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 33m • Korean • Action, Crime, Thriller • mobe1969**

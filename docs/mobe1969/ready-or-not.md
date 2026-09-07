@@ -1,5 +1,7 @@
 # Ready or Not
 
+[Compare across authors](../../compare/?t=film-ready-or-not_567609)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2019 • R • 1h 35m • Comedy, Horror, Thriller • mobe1969**

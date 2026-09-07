@@ -1,5 +1,7 @@
 # Contact
 
+[Compare across authors](../../compare/?t=film-contact_686)
+
 ## TrueHD 5.1
 
 **1997 • PG • 2h 30m • Drama, Science Fiction, Mystery • mobe1969**

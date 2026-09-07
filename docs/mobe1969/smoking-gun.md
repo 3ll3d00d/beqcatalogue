@@ -1,5 +1,7 @@
 # Smoking Gun
 
+[Compare across authors](../../compare/?t=film-smoking-gun_414018)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 54m • Western, Comedy • mobe1969**

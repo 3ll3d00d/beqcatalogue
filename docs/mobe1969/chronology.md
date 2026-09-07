@@ -1,5 +1,7 @@
 # Chronology
 
+[Compare across authors](../../compare/?t=film-chronology_521413)
+
 ## DD+ 2.0
 
 **2016 • NR • 1h 35m • Thriller • mobe1969**

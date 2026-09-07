@@ -1,5 +1,7 @@
 # Blood Money
 
+[Compare across authors](../../compare/?t=film-blood-money_128280)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 46m • Action, Thriller • mobe1969**

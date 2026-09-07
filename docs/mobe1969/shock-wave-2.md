@@ -1,5 +1,7 @@
 # Shock Wave 2
 
+[Compare across authors](../../compare/?t=film-shock-wave-2_559974)
+
 ## Atmos
 
 **2020 • 15 • 2h 0m • Cantonese • Action, Crime • mobe1969**

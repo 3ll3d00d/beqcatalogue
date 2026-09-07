@@ -1,5 +1,7 @@
 # Trivisa
 
+[Compare across authors](../../compare/?t=film-trivisa_380762)
+
 ## TrueHD 5.1
 
 **2016 • NR • 1h 36m • Cantonese • Drama, Crime, Thriller • mobe1969**

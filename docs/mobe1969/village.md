@@ -1,5 +1,7 @@
 # Village
 
+[Compare across authors](../../compare/?t=film-village_1038515)
+
 ## DD+ 5.1
 
 **2023 • R • 2h 2m • Japanese • Drama • mobe1969**

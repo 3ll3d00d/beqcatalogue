@@ -1,5 +1,7 @@
 # Batman vs. Robin
 
+[Compare across authors](../../compare/?t=film-batman-vs-robin_321528)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 12m • Science Fiction, Action, Adventure, Animation • mobe1969**

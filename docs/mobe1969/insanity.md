@@ -1,5 +1,7 @@
 # Insanity
 
+[Compare across authors](../../compare/?t=film-insanity_334930)
+
 ## TrueHD 5.1
 
 **2014 • NR • 0h 0m • Cantonese • Mystery, Thriller • mobe1969**

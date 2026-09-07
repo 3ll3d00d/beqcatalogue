@@ -1,5 +1,7 @@
 # Monster Hunter: Legends of the Guild
 
+[Compare across authors](../../compare/?t=film-monster-hunter-legends-of-the-guild_851281)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 0h 58m • Animation, Adventure, Action, Fantasy • mobe1969**

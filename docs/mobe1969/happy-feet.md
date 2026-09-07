@@ -1,5 +1,7 @@
 # Happy Feet
 
+[Compare across authors](../../compare/?t=film-happy-feet_9836)
+
 ## DD+ 5.1, DD 5.1
 
 **2006 • PG • 1h 48m • Animation, Comedy, Family • mobe1969**

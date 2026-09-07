@@ -1,5 +1,7 @@
 # The Stepford Wives
 
+[Compare across authors](../../compare/?t=film-the-stepford-wives_9890)
+
 ## DTS-HD MA 5.1
 
 **2004 • PG-13 • 1h 33m • Comedy, Science Fiction, Horror, Thriller • mobe1969**

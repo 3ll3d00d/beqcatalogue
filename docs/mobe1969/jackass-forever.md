@@ -1,5 +1,7 @@
 # Jackass Forever
 
+[Compare across authors](../../compare/?t=film-jackass-forever_656663)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 36m • Comedy, Documentary • mobe1969**

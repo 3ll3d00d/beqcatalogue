@@ -1,5 +1,7 @@
 # The King's Man
 
+[Compare across authors](../../compare/?t=film-the-kings-man_476669)
+
 ## Atmos
 
 **2021 • R • 2h 11m • Action, Adventure, Thriller, War • mobe1969**

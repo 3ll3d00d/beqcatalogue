@@ -1,5 +1,7 @@
 # Outlaw King
 
+[Compare across authors](../../compare/?t=film-outlaw-king_454227)
+
 ## DD+ Atmos
 
 **2018 • R • 2h 2m • Action, History, Drama, War • mobe1969**

@@ -1,5 +1,7 @@
 # Ice Soldiers
 
+[Compare across authors](../../compare/?t=film-ice-soldiers_255692)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 35m • Science Fiction, Action • mobe1969**

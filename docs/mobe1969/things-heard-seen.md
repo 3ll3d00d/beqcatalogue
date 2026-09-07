@@ -1,5 +1,7 @@
 # Things Heard & Seen
 
+[Compare across authors](../../compare/?t=film-things-heard-seen_631060)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • NR • 2h 1m • Horror, Mystery, Drama, Thriller • mobe1969**

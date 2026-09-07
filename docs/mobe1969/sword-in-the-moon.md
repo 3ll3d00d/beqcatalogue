@@ -1,5 +1,7 @@
 # Sword in the Moon
 
+[Compare across authors](../../compare/?t=film-sword-in-the-moon_13512)
+
 ## DTS-HD MA 5.1
 
 **2003 • NR • 1h 39m • Korean • Action, Adventure, Drama • mobe1969**

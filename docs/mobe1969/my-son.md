@@ -1,5 +1,7 @@
 # My Son
 
+[Compare across authors](../../compare/?t=film-my-son_750253)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 35m • Crime, Drama, Mystery • mobe1969**

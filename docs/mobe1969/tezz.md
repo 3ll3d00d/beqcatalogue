@@ -1,5 +1,7 @@
 # Tezz
 
+[Compare across authors](../../compare/?t=film-tezz_85992)
+
 ## DD 5.1
 
 **2012 • NR • 2h 1m • Hindi • Drama, Action, Thriller • mobe1969**

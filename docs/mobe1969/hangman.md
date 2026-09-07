@@ -1,5 +1,7 @@
 # Hangman
 
+[Compare across authors](../../compare/?t=film-hangman_323368)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 38m • Mystery, Crime, Thriller • mobe1969**

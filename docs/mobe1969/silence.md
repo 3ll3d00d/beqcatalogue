@@ -1,5 +1,7 @@
 # Silence
 
+[Compare across authors](../../compare/?t=film-silence_68730)
+
 ## DD+ 5.1
 
 **2016 • R • 2h 41m • Drama, History • mobe1969**

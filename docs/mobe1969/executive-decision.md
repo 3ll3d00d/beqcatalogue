@@ -1,5 +1,7 @@
 # Executive Decision
 
+[Compare across authors](../../compare/?t=film-executive-decision_2320)
+
 ## DD+ 5.1
 
 **1996 • R • 2h 13m • Action, Adventure, Drama, Thriller • mobe1969**

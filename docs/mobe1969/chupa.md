@@ -1,5 +1,7 @@
 # Chupa
 
+[Compare across authors](../../compare/?t=film-chupa_736790)
+
 ## DD+ Atmos
 
 **2023 • PG • 1h 35m • Family, Adventure, Fantasy • mobe1969**

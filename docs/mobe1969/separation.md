@@ -1,5 +1,7 @@
 # Separation
 
+[Compare across authors](../../compare/?t=film-separation_760195)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 47m • Horror, Drama • mobe1969**

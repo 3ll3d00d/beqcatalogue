@@ -1,5 +1,7 @@
 # The Requin
 
+[Compare across authors](../../compare/?t=film-the-requin_803114)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 29m • Thriller • mobe1969**

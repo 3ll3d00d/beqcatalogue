@@ -1,5 +1,7 @@
 # 2 Fast 2 Furious
 
+[Compare across authors](../../compare/?t=film-2-fast-2-furious_584)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG-13 • 1h 48m • Action, Crime, Thriller • mobe1969**

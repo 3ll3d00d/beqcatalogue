@@ -1,5 +1,7 @@
 # Four Good Days
 
+[Compare across authors](../../compare/?t=film-four-good-days_641960)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 40m • Drama • mobe1969**

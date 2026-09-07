@@ -1,5 +1,7 @@
 # The Sum of All Fears
 
+[Compare across authors](../../compare/?t=film-the-sum-of-all-fears_4614)
+
 ## TrueHD 5.1
 
 **2002 • PG-13 • 2h 4m • Action, Drama, Thriller • mobe1969**

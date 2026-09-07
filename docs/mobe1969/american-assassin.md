@@ -1,5 +1,7 @@
 # American Assassin
 
+[Compare across authors](../../compare/?t=film-american-assassin_415842)
+
 ## Atmos, DD+ 5.1
 
 **2017 • R • 1h 52m • Action, Thriller • mobe1969**

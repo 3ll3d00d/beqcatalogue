@@ -1,5 +1,7 @@
 # Northern Limit Line
 
+[Compare across authors](../../compare/?t=film-northern-limit-line_343843)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 2h 10m • Korean • War, History • mobe1969**

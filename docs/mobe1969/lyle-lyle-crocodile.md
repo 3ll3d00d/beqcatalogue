@@ -1,5 +1,7 @@
 # Lyle, Lyle, Crocodile
 
+[Compare across authors](../../compare/?t=film-lyle-lyle-crocodile_830784)
+
 ## DD+ 5.1
 
 **2022 • PG • 1h 46m • Comedy, Family, Music • mobe1969**

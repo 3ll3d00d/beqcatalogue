@@ -1,5 +1,7 @@
 # Body Cam
 
+[Compare across authors](../../compare/?t=film-body-cam_513268)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 36m • Horror, Thriller, Mystery • mobe1969**

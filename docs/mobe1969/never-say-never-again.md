@@ -1,5 +1,7 @@
 # Never Say Never Again
 
+[Compare across authors](../../compare/?t=film-never-say-never-again_36670)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1983 • PG • 2h 14m • Adventure, Action, Thriller • mobe1969**

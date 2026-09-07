@@ -1,5 +1,7 @@
 # Rogue
 
+[Compare across authors](../../compare/?t=film-rogue_13022)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2007 • R • 1h 39m • Action, Horror, Thriller • mobe1969**

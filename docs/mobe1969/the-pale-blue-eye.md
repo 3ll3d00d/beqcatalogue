@@ -1,5 +1,7 @@
 # The Pale Blue Eye
 
+[Compare across authors](../../compare/?t=film-the-pale-blue-eye_800815)
+
 ## DD+ Atmos
 
 **2022 • R • 2h 10m • Mystery, Thriller • mobe1969**

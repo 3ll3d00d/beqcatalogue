@@ -1,5 +1,7 @@
 # Heropanti
 
+[Compare across authors](../../compare/?t=film-heropanti_271200)
+
 ## DD 5.1
 
 **2014 • NR • 2h 26m • Hindi • Romance, Action • mobe1969**

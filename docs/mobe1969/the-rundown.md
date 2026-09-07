@@ -1,5 +1,7 @@
 # The Rundown
 
+[Compare across authors](../../compare/?t=film-the-rundown_10159)
+
 ## DD+ 5.1
 
 **2003 • PG-13 • 1h 44m • Adventure, Action, Comedy, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # New York
 
+[Compare across authors](../../compare/?t=film-new-york_19616)
+
 ## DD+ 5.1
 
 **2009 • NR • 2h 33m • Hindi • Crime, Drama, Thriller • mobe1969**

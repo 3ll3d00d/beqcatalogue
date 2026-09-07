@@ -1,5 +1,7 @@
 # Moss
 
+[Compare across authors](../../compare/?t=film-moss_49087)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 2h 43m • Korean • Drama, Thriller, Crime, Mystery • mobe1969**

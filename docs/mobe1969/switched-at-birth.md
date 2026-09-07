@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-switched-at-birth_37632)
+
 ## Season 1
 
 * DD+ 2.0

@@ -1,5 +1,7 @@
 # The Devil's Child
 
+[Compare across authors](../../compare/?t=film-the-devils-child_818883)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 29m • Horror • mobe1969**

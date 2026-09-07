@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-breathe-into-the-shadows_105521)
+
 ## Season 1
 
 * DD+ 5.1

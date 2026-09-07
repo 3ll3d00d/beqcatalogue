@@ -1,5 +1,7 @@
 # Hannibal Rising
 
+[Compare across authors](../../compare/?t=film-hannibal-rising_1248)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 2h 1m • Crime, Drama, Thriller, Horror • mobe1969**

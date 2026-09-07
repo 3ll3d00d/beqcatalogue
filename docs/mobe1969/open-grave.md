@@ -1,5 +1,7 @@
 # Open Grave
 
+[Compare across authors](../../compare/?t=film-open-grave_215830)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 42m • Horror, Mystery, Thriller • mobe1969**

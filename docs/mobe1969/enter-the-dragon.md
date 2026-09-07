@@ -1,5 +1,7 @@
 # Enter the Dragon
 
+[Compare across authors](../../compare/?t=film-enter-the-dragon_9461)
+
 ## Atmos
 
 **1973 • R • 1h 42m • Action • mobe1969**

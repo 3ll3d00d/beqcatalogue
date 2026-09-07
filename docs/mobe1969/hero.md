@@ -1,5 +1,7 @@
 # Hero
 
+[Compare across authors](../../compare/?t=film-hero_79)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG-13 • 1h 39m • Drama, Adventure, Action, History • mobe1969**

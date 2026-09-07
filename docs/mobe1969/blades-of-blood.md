@@ -1,5 +1,7 @@
 # Blades of Blood
 
+[Compare across authors](../../compare/?t=film-blades-of-blood_45075)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 48m • Korean • History, Action • mobe1969**

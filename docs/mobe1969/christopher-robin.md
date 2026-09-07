@@ -1,5 +1,7 @@
 # Christopher Robin
 
+[Compare across authors](../../compare/?t=film-christopher-robin_420814)
+
 ## DD+ Atmos
 
 **2018 • PG • 1h 44m • Adventure, Comedy, Family, Fantasy • mobe1969**

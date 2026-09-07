@@ -1,5 +1,7 @@
 # Pretty Woman
 
+[Compare across authors](../../compare/?t=film-pretty-woman_114)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 1h 59m • Comedy, Romance • mobe1969**

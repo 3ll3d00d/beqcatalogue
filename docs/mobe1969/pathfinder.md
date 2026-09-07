@@ -1,5 +1,7 @@
 # Pathfinder
 
+[Compare across authors](../../compare/?t=film-pathfinder_1534)
+
 ## DD+ 5.1
 
 Theatrical Cut

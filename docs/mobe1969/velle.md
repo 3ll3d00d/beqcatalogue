@@ -1,5 +1,7 @@
 # Velle
 
+[Compare across authors](../../compare/?t=film-velle_899439)
+
 ## DD+ 5.1
 
 **2021 • 12A • 2h 5m • Hindi • Comedy, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Blood Money
 
+[Compare across authors](../../compare/?t=film-blood-money_105379)
+
 ## DD+ 5.1
 
 **2012 • NR • 1h 50m • Hindi • Drama, Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Thor
 
+[Compare across authors](../../compare/?t=film-thor_10195)
+
 ## Atmos
 
 **2011 • PG-13 • 1h 55m • Adventure, Fantasy, Action • mobe1969**

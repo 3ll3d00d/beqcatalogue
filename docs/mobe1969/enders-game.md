@@ -1,5 +1,7 @@
 # Ender's Game
 
+[Compare across authors](../../compare/?t=film-enders-game_80274)
+
 ## Atmos
 
 **2013 • PG-13 • 1h 54m • Science Fiction, Action, Adventure • mobe1969**

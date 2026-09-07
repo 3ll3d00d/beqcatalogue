@@ -1,5 +1,7 @@
 # Slow West
 
+[Compare across authors](../../compare/?t=film-slow-west_223485)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 24m • Romance, Western, Action, Thriller, Drama • mobe1969**

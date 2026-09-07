@@ -1,5 +1,7 @@
 # Stardust
 
+[Compare across authors](../../compare/?t=film-stardust_2270)
+
 ## DTS-HD MA 5.1
 
 **2007 • PG-13 • 2h 7m • Adventure, Family, Fantasy, Romance • mobe1969**

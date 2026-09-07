@@ -1,5 +1,7 @@
 # Ace Ventura: When Nature Calls
 
+[Compare across authors](../../compare/?t=film-ace-ventura-when-nature-calls_9273)
+
 ## DTS-HD MA 5.1
 
 **1995 • PG-13 • 1h 30m • Crime, Comedy, Adventure • mobe1969**

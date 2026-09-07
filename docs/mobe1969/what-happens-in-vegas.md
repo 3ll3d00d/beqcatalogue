@@ -1,5 +1,7 @@
 # What Happens in Vegas
 
+[Compare across authors](../../compare/?t=film-what-happens-in-vegas_9029)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG-13 • 1h 39m • Comedy, Romance • mobe1969**

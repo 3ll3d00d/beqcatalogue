@@ -1,5 +1,7 @@
 # Super Troopers 2
 
+[Compare across authors](../../compare/?t=film-super-troopers-2_50022)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 40m • Comedy, Crime, Mystery • mobe1969**

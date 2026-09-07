@@ -1,5 +1,7 @@
 # Mulholland Drive
 
+[Compare across authors](../../compare/?t=film-mulholland-drive_1018)
+
 ## DD+ 5.1
 
 **2001 • R • 2h 27m • Thriller, Drama, Mystery • mobe1969**

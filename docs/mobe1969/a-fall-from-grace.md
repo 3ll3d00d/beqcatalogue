@@ -1,5 +1,7 @@
 # A Fall from Grace
 
+[Compare across authors](../../compare/?t=film-a-fall-from-grace_651070)
+
 ## DD+ Atmos
 
 **2020 • NR • 2h 0m • Drama, Fantasy, Thriller • mobe1969**

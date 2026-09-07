@@ -1,5 +1,7 @@
 # Champion
 
+[Compare across authors](../../compare/?t=film-champion_520358)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 1h 48m • Korean • Drama • mobe1969**

@@ -1,5 +1,7 @@
 # All Nighter
 
+[Compare across authors](../../compare/?t=film-all-nighter_352501)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 26m • Comedy • mobe1969**

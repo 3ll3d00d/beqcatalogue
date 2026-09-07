@@ -1,5 +1,7 @@
 # The Night Comes for Us
 
+[Compare across authors](../../compare/?t=film-the-night-comes-for-us_449992)
+
 ## DD+ 5.1
 
 **2018 • R • 2h 1m • Indonesian • Action, Thriller, Crime • mobe1969**

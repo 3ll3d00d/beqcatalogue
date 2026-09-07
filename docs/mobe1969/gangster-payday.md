@@ -1,5 +1,7 @@
 # Gangster Payday
 
+[Compare across authors](../../compare/?t=film-gangster-payday_294991)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 37m • Cantonese • Thriller, Crime, Drama, Romance • mobe1969**

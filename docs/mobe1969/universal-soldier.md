@@ -1,5 +1,7 @@
 # Universal Soldier
 
+[Compare across authors](../../compare/?t=film-universal-soldier_9349)
+
 ## DTS-HD MA 5.1
 
 **1992 • R • 1h 42m • Thriller, Science Fiction, Action, Crime • mobe1969**

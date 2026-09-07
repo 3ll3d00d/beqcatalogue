@@ -1,5 +1,7 @@
 # We Summon the Darkness
 
+[Compare across authors](../../compare/?t=film-we-summon-the-darkness_546724)
+
 ## TrueHD 5.1
 
 **2019 • R • 1h 31m • Thriller, Horror • mobe1969**

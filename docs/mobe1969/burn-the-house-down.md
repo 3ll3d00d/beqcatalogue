@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-burn-the-house-down_210268)
+
 ## Season 1
 
 * DD+ Atmos

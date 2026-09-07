@@ -1,5 +1,7 @@
 # Into The Wild
 
+[Compare across authors](../../compare/?t=film-into-the-wild_5915)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 2h 28m • Adventure, Drama • mobe1969**

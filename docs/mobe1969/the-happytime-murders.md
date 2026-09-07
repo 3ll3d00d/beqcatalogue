@@ -1,5 +1,7 @@
 # The Happytime Murders
 
+[Compare across authors](../../compare/?t=film-the-happytime-murders_412988)
+
 ## DTS-HD MA 7.1
 
 **2018 • R • 1h 31m • Action, Comedy, Crime • mobe1969**

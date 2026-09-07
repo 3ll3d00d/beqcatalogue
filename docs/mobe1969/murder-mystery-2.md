@@ -1,5 +1,7 @@
 # Murder Mystery 2
 
+[Compare across authors](../../compare/?t=film-murder-mystery-2_638974)
+
 ## DD+ Atmos
 
 **2023 • PG-13 • 1h 30m • Comedy, Mystery, Action • mobe1969**

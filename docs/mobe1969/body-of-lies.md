@@ -1,5 +1,7 @@
 # Body of Lies
 
+[Compare across authors](../../compare/?t=film-body-of-lies_12113)
+
 ## TrueHD 5.1
 
 **2008 • R • 2h 8m • Action, Drama, Thriller • mobe1969**

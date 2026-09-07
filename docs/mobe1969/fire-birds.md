@@ -1,5 +1,7 @@
 # Fire Birds
 
+[Compare across authors](../../compare/?t=film-fire-birds_6470)
+
 ## DTS-HD MA 5.1
 
 **1990 • PG-13 • 1h 25m • Action, Adventure • mobe1969**

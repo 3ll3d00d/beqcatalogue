@@ -1,5 +1,7 @@
 # The Girl with the Dragon Tattoo
 
+[Compare across authors](../../compare/?t=film-the-girl-with-the-dragon-tattoo_15472)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 2h 32m • Swedish • Crime, Mystery, Thriller, Drama • mobe1969**

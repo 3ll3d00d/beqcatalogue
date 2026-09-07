@@ -1,5 +1,7 @@
 # Backdraft 2
 
+[Compare across authors](../../compare/?t=film-backdraft-2_587808)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 42m • Crime, Drama, Action • mobe1969**

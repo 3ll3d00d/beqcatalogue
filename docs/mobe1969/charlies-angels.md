@@ -1,5 +1,7 @@
 # Charlie's Angels
 
+[Compare across authors](../../compare/?t=film-charlies-angels_4327)
+
 ## Atmos
 
 **2000 • PG-13 • 1h 38m • Action, Adventure, Comedy, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Mom
 
+[Compare across authors](../../compare/?t=film-mom_404604)
+
 ## DD+ 5.1
 
 **2017 • 15 • 2h 27m • Hindi • Crime, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Last Shift
 
+[Compare across authors](../../compare/?t=film-last-shift_296065)
+
 ## DTS-HD MA 5.1
 
 **2014 • 15 • 1h 28m • Horror, Thriller • mobe1969**

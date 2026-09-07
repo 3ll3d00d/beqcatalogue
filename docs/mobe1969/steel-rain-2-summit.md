@@ -1,5 +1,7 @@
 # Steel Rain 2: Summit
 
+[Compare across authors](../../compare/?t=film-steel-rain-2-summit_606906)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 2h 22m • Korean • Action, Thriller, War • mobe1969**

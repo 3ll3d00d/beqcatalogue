@@ -1,5 +1,7 @@
 # Deepsea Challenge 3D
 
+[Compare across authors](../../compare/?t=film-deepsea-challenge-3d_276909)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG • 1h 30m • Documentary • mobe1969**

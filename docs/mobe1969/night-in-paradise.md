@@ -1,5 +1,7 @@
 # Night in Paradise
 
+[Compare across authors](../../compare/?t=film-night-in-paradise_606523)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 11m • Korean • Crime, Drama, Thriller, Action • mobe1969**

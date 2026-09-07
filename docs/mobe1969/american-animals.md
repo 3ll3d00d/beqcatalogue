@@ -1,5 +1,7 @@
 # American Animals
 
+[Compare across authors](../../compare/?t=film-american-animals_489931)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 57m • Crime, Documentary, Drama • mobe1969**

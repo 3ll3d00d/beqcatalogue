@@ -1,5 +1,7 @@
 # Ghosts of Mars
 
+[Compare across authors](../../compare/?t=film-ghosts-of-mars_10016)
+
 ## TrueHD 5.1
 
 **2001 • R • 1h 38m • Science Fiction, Action, Horror • mobe1969**

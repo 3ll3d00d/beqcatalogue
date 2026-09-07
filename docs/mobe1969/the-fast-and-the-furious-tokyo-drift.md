@@ -1,5 +1,7 @@
 # The Fast and the Furious: Tokyo Drift
 
+[Compare across authors](../../compare/?t=film-the-fast-and-the-furious-tokyo-drift_9615)
+
 ## DTS-HD MA 5.1
 
 **2006 • PG-13 • 1h 44m • Action, Crime, Drama, Thriller • mobe1969**

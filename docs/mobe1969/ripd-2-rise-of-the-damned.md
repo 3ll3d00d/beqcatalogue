@@ -1,5 +1,7 @@
 # R.I.P.D. 2: Rise of the Damned
 
+[Compare across authors](../../compare/?t=film-ripd-2-rise-of-the-damned_1013860)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • PG-13 • 1h 42m • Fantasy, Action, Comedy, Crime • mobe1969**

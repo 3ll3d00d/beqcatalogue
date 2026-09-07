@@ -1,5 +1,7 @@
 # Blood
 
+[Compare across authors](../../compare/?t=film-blood_746524)
+
 ## DTS-HD MA 5.1
 
 **2023 • 15 • 1h 48m • Horror, Mystery, Thriller • mobe1969**

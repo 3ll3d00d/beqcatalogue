@@ -1,5 +1,7 @@
 # Boogie
 
+[Compare across authors](../../compare/?t=film-boogie_35837)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 22m • Action, Animation • mobe1969**

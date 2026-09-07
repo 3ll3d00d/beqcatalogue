@@ -1,5 +1,7 @@
 # Where the Crawdads Sing
 
+[Compare across authors](../../compare/?t=film-where-the-crawdads-sing_682507)
+
 ## DTS-HD MA 5.1
 
 **2022 • PG-13 • 2h 5m • Drama, Mystery, Thriller • mobe1969**

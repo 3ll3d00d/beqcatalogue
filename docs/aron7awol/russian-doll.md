@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-russian-doll_84977)
+
 ## Season 1
 
 * DD+

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-abc-murders_81049)
+
 * DD+ 5.1
 
 

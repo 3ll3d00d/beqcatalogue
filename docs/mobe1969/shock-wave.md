@@ -1,5 +1,7 @@
 # Shock Wave
 
+[Compare across authors](../../compare/?t=film-shock-wave_441531)
+
 ## Atmos
 
 **2017 • 15 • 1h 59m • Cantonese • Action, Crime • mobe1969**

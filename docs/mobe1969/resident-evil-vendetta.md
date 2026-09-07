@@ -1,5 +1,7 @@
 # Resident Evil: Vendetta
 
+[Compare across authors](../../compare/?t=film-resident-evil-vendetta_400136)
+
 ## Atmos, DTS-HD MA 5.1
 
 **2017 • R • 1h 37m • Animation, Horror, Adventure, Mystery, Action, Science Fiction • mobe1969**

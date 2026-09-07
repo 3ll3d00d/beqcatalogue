@@ -1,5 +1,7 @@
 # The Battle at Lake Changjin: Water Gate Bridge
 
+[Compare across authors](../../compare/?t=film-the-battle-at-lake-changjin-water-gate-bridge_928123)
+
 ## DTS-HD MA 5.1
 
 **2022 • 15 • 2h 29m • Mandarin • War, History, Action, Drama • mobe1969**

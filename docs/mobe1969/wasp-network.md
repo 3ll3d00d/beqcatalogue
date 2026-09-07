@@ -1,5 +1,7 @@
 # Wasp Network
 
+[Compare across authors](../../compare/?t=film-wasp-network_451184)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 8m • Drama, History, Thriller • mobe1969**

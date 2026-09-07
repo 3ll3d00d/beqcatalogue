@@ -1,5 +1,7 @@
 # Godzilla: City on the Edge of Battle
 
+[Compare across authors](../../compare/?t=film-godzilla-city-on-the-edge-of-battle_492719)
+
 ## DD+ 5.1
 
 **2018 • PG-13 • 1h 45m • Japanese • Animation, Science Fiction • mobe1969**

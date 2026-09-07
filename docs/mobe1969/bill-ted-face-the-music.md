@@ -1,5 +1,7 @@
 # Bill & Ted Face the Music
 
+[Compare across authors](../../compare/?t=film-bill-ted-face-the-music_501979)
+
 ## DTS-HD MA 5.1
 
 **2020 • PG-13 • 1h 32m • Comedy, Science Fiction, Adventure • mobe1969**

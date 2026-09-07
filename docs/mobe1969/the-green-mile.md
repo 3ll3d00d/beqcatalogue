@@ -1,5 +1,7 @@
 # The Green Mile
 
+[Compare across authors](../../compare/?t=film-the-green-mile_497)
+
 ## Atmos
 
 **1999 • R • 3h 9m • Fantasy, Drama, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # The Courier
 
+[Compare across authors](../../compare/?t=film-the-courier_97512)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 31m • Crime, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Brazen
 
+[Compare across authors](../../compare/?t=film-brazen_916740)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2022 • NR • 1h 34m • Mystery, Thriller, Drama • mobe1969**

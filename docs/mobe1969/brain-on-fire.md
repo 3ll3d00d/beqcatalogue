@@ -1,5 +1,7 @@
 # Brain on Fire
 
+[Compare across authors](../../compare/?t=film-brain-on-fire_340027)
+
 ## DD+ 5.1
 
 **2017 • PG-13 • 1h 28m • Drama • mobe1969**

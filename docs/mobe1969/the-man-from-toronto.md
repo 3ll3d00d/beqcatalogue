@@ -1,5 +1,7 @@
 # The Man From Toronto
 
+[Compare across authors](../../compare/?t=film-the-man-from-toronto_667739)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 1h 50m • Action, Comedy • mobe1969**

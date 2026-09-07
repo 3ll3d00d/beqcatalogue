@@ -1,5 +1,7 @@
 # Apaharan
 
+[Compare across authors](../../compare/?t=film-apaharan_28805)
+
 ## DD+ 5.1
 
 **2005 • NR • 2h 53m • Hindi • Action, Crime, Drama • mobe1969**

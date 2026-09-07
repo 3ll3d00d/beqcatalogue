@@ -1,5 +1,7 @@
 # Hostiles
 
+[Compare across authors](../../compare/?t=film-hostiles_384680)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 2h 14m • Western, Drama, History • mobe1969**

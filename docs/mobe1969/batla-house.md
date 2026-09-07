@@ -1,5 +1,7 @@
 # Batla House
 
+[Compare across authors](../../compare/?t=film-batla-house_550485)
+
 ## DD+ 5.1
 
 **2019 • 12A • 2h 26m • Hindi • Action, Drama, Thriller • mobe1969**

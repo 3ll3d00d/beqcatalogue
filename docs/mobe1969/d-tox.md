@@ -1,5 +1,7 @@
 # D-Tox
 
+[Compare across authors](../../compare/?t=film-d-tox_10375)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 1h 36m • Action, Horror, Thriller • mobe1969**

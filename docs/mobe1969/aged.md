@@ -1,5 +1,7 @@
 # Aged
 
+[Compare across authors](../../compare/?t=film-aged_1130571)
+
 ## DD+ 5.1
 
 **2023 • NR • 0h 0m • Horror • mobe1969**

@@ -1,5 +1,7 @@
 # From Dusk Till Dawn 3: The Hangman's Daughter
 
+[Compare across authors](../../compare/?t=film-from-dusk-till-dawn-3-the-hangmans-daughter_10213)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 34m • Thriller, Horror, Western • mobe1969**

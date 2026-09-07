@@ -1,5 +1,7 @@
 # Red Sonja
 
+[Compare across authors](../../compare/?t=film-red-sonja_9626)
+
 ## DTS-HD MA 5.1
 
 **1985 • PG-13 • 1h 29m • Adventure, Fantasy, Action • mobe1969**

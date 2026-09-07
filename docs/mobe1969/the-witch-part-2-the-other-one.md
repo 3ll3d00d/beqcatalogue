@@ -1,5 +1,7 @@
 # The Witch: Part 2. The Other One
 
+[Compare across authors](../../compare/?t=film-the-witch-part-2-the-other-one_615173)
+
 ## DTS-HD MA 5.1
 
 **2022 • 18 • 2h 17m • Korean • Action, Mystery, Thriller, Science Fiction • mobe1969**

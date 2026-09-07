@@ -1,5 +1,7 @@
 # Out of Time
 
+[Compare across authors](../../compare/?t=film-out-of-time_2116)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 1h 45m • Drama, Thriller, Crime • mobe1969**

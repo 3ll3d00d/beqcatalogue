@@ -1,5 +1,7 @@
 # Silent Hill
 
+[Compare across authors](../../compare/?t=film-silent-hill_588)
+
 ## DTS-HD HR 5.1
 
 **2006 • R • 2h 5m • Mystery, Horror • mobe1969**

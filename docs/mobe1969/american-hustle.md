@@ -1,5 +1,7 @@
 # American Hustle
 
+[Compare across authors](../../compare/?t=film-american-hustle_168672)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 2h 18m • Drama, Crime • mobe1969**

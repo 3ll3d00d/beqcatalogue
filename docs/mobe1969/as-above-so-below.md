@@ -1,5 +1,7 @@
 # As Above, So Below
 
+[Compare across authors](../../compare/?t=film-as-above-so-below_256274)
+
 ## DTS-HD MA 7.1
 
 **2014 • R • 1h 33m • Horror, Thriller • mobe1969**

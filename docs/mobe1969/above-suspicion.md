@@ -1,5 +1,7 @@
 # Above Suspicion
 
+[Compare across authors](../../compare/?t=film-above-suspicion_421473)
+
 ## DTS-HD MA 5.1
 
 **2019 • 15 • 1h 44m • Thriller, Crime, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Traitor
 
+[Compare across authors](../../compare/?t=film-traitor_13291)
+
 ## TrueHD 5.1
 
 **2008 • PG-13 • 1h 54m • Action, Crime, Drama, Thriller • mobe1969**

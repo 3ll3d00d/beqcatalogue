@@ -1,5 +1,7 @@
 # The Shadow
 
+[Compare across authors](../../compare/?t=film-the-shadow_8850)
+
 ## DTS-HD.MA.5.1
 
 **1994 • PG-13 • 1h 48m • Adventure, Fantasy, Action, Thriller, Science Fiction • mobe1969**

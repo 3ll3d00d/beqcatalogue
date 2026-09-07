@@ -1,5 +1,7 @@
 # Beyond a Reasonable Doubt
 
+[Compare across authors](../../compare/?t=film-beyond-a-reasonable-doubt_25137)
+
 ## LPCM 5.1
 
 **2009 • PG-13 • 1h 45m • Crime, Drama, Thriller • mobe1969**

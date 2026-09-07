@@ -1,5 +1,7 @@
 # Dabangg 3
 
+[Compare across authors](../../compare/?t=film-dabangg-3_496339)
+
 ## DD+ 5.1
 
 **2019 • 12A • 2h 30m • Hindi • Action, Comedy, Crime • mobe1969**

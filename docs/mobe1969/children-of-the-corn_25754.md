@@ -1,5 +1,7 @@
 # Children of the Corn
 
+[Compare across authors](../../compare/?t=film-children-of-the-corn_25754)
+
 ## TrueHD 5.1
 
 **2009 • PG-13 • 1h 32m • Horror, Thriller, TV Movie • mobe1969**

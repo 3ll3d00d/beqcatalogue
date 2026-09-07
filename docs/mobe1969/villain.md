@@ -1,5 +1,7 @@
 # Villain
 
+[Compare across authors](../../compare/?t=film-villain_660549)
+
 ## DD+ 5.1
 
 **2020 • 18 • 1h 37m • Crime, Drama, Thriller • mobe1969**

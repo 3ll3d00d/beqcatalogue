@@ -1,5 +1,7 @@
 # Bram Stoker's Dracula
 
+[Compare across authors](../../compare/?t=film-bram-stokers-dracula_6114)
+
 ## Atmos
 
 **1992 • R • 2h 8m • Romance, Horror • mobe1969**

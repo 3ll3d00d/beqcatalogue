@@ -1,5 +1,7 @@
 # Cube Zero
 
+[Compare across authors](../../compare/?t=film-cube-zero_438)
+
 ## DD+ 5.1
 
 **2004 • R • 1h 37m • Mystery, Science Fiction, Thriller • mobe1969**

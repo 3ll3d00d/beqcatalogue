@@ -1,5 +1,7 @@
 # Scream VI
 
+[Compare across authors](../../compare/?t=film-scream-vi_934433)
+
 ## Atmos
 
 **2023 • R • 2h 3m • Horror, Mystery, Thriller • mobe1969**

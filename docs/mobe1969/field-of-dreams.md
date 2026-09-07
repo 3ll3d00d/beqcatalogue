@@ -1,5 +1,7 @@
 # Field of Dreams
 
+[Compare across authors](../../compare/?t=film-field-of-dreams_2323)
+
 ## DTS-X
 
 **1989 • PG • 1h 47m • Drama, Fantasy • mobe1969**

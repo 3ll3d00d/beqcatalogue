@@ -1,5 +1,7 @@
 # Bandits
 
+[Compare across authors](../../compare/?t=film-bandits_3172)
+
 ## DD+ 5.1
 
 **2001 • PG-13 • 2h 3m • Comedy, Crime • mobe1969**

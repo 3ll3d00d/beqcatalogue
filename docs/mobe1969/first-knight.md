@@ -1,5 +1,7 @@
 # First Knight
 
+[Compare across authors](../../compare/?t=film-first-knight_6520)
+
 ## DTS-HD MA 5.1
 
 **1995 • PG-13 • 2h 14m • Action, Adventure, Drama, Romance • mobe1969**

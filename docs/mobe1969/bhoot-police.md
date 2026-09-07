@@ -1,5 +1,7 @@
 # Bhoot Police
 
+[Compare across authors](../../compare/?t=film-bhoot-police_739146)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 9m • Hindi • Adventure, Horror, Comedy • mobe1969**

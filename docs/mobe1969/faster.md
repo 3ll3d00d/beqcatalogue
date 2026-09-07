@@ -1,5 +1,7 @@
 # Faster
 
+[Compare across authors](../../compare/?t=film-faster_41283)
+
 ## DD+ 5.1
 
 **2010 • R • 1h 38m • Crime, Drama, Action, Thriller • mobe1969**

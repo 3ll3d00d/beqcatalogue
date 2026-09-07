@@ -1,5 +1,7 @@
 # Race 2
 
+[Compare across authors](../../compare/?t=film-race-2_44749)
+
 ## DD+ 5.1
 
 **2013 • NR • 2h 30m • Hindi • Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Venom: Let There Be Carnage
 
+[Compare across authors](../../compare/?t=film-venom-let-there-be-carnage_580489)
+
 ## Atmos
 
 **2021 • PG-13 • 1h 37m • Science Fiction, Action, Adventure • mobe1969**

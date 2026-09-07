@@ -1,5 +1,7 @@
 # Taxi
 
+[Compare across authors](../../compare/?t=film-taxi_2330)
+
 ## DTS-HD MA 5.1
 
 **1998 • 15 • 1h 26m • French • Action, Comedy • mobe1969**

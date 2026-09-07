@@ -1,5 +1,7 @@
 # Sniper: Legacy
 
+[Compare across authors](../../compare/?t=film-sniper-legacy_290729)
+
 ## DD+ 5.1
 
 **2014 • 15 • 1h 34m • Thriller, Action • mobe1969**

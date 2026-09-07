@@ -1,5 +1,7 @@
 # Wild Card
 
+[Compare across authors](../../compare/?t=film-wild-card_265208)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

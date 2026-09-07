@@ -1,5 +1,7 @@
 # 6 Below
 
+[Compare across authors](../../compare/?t=film-6-below_423087)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG-13 • 1h 37m • Thriller, Drama • mobe1969**

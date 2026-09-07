@@ -1,5 +1,7 @@
 # Shrek Forever After
 
+[Compare across authors](../../compare/?t=film-shrek-forever-after_10192)
+
 ## TrueHD 7.1
 
 **2010 • PG • 1h 33m • Family, Comedy, Animation, Adventure, Fantasy • mobe1969**

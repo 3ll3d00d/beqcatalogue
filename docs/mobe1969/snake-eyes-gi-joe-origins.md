@@ -1,5 +1,7 @@
 # Snake Eyes: G.I. Joe Origins
 
+[Compare across authors](../../compare/?t=film-snake-eyes-gi-joe-origins_568620)
+
 ## Atmos, DD+ Atmos
 
 **2021 • PG-13 • 2h 1m • Action, Adventure • mobe1969**

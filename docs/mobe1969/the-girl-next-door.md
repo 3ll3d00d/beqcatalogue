@@ -1,5 +1,7 @@
 # The Girl Next Door
 
+[Compare across authors](../../compare/?t=film-the-girl-next-door_10591)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 50m • Comedy, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Wayne's World 2
 
+[Compare across authors](../../compare/?t=film-waynes-world-2_8873)
+
 ## TrueHD 5.1
 
 **1993 • PG-13 • 1h 35m • Comedy, Music • mobe1969**

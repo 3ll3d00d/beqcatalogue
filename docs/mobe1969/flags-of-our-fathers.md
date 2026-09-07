@@ -1,5 +1,7 @@
 # Flags of Our Fathers
 
+[Compare across authors](../../compare/?t=film-flags-of-our-fathers_3683)
+
 ## LPCM 5.1
 
 **2006 • R • 2h 15m • War, History, Drama • mobe1969**

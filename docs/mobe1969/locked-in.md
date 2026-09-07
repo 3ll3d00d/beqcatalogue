@@ -1,5 +1,7 @@
 # Locked In
 
+[Compare across authors](../../compare/?t=film-locked-in_1064024)
+
 ## DD+ Atmos
 
 **2023 • NR • 1h 36m • Thriller • mobe1969**

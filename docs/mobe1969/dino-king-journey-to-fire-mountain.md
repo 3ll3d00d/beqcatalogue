@@ -1,5 +1,7 @@
 # Dino King: Journey to Fire Mountain
 
+[Compare across authors](../../compare/?t=film-dino-king-journey-to-fire-mountain_561974)
+
 ## DD+ 5.1
 
 **2019 • G • 1h 30m • Animation, Adventure • mobe1969**

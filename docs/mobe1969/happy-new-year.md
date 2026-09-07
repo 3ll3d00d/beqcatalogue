@@ -1,5 +1,7 @@
 # Happy New Year
 
+[Compare across authors](../../compare/?t=film-happy-new-year_277432)
+
 ## DD+ 5.1
 
 **2014 • PG-13 • 3h 0m • Hindi • Action, Comedy, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Parmanu: The Story of Pokhran
 
+[Compare across authors](../../compare/?t=film-parmanu-the-story-of-pokhran_465642)
+
 ## AAC 2.0
 
 **2018 • 12A • 2h 9m • Hindi • Drama, Action, History • mobe1969**

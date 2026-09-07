@@ -1,5 +1,7 @@
 # The Adventurers
 
+[Compare across authors](../../compare/?t=film-the-adventurers_452551)
+
 ## DTS-X
 
 **2017 • NR • 1h 48m • Mandarin • Action, Drama, Crime, Adventure • mobe1969**

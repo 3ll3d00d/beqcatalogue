@@ -1,5 +1,7 @@
 # The Revenant
 
+[Compare across authors](../../compare/?t=film-the-revenant_79896)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 50m • Comedy, Horror • mobe1969**

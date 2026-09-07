@@ -1,5 +1,7 @@
 # Secret Society of Second Born Royals
 
+[Compare across authors](../../compare/?t=film-secret-society-of-second-born-royals_621870)
+
 ## DD+ Atmos
 
 **2020 • PG • 1h 37m • Action, Adventure, Comedy, Fantasy • mobe1969**

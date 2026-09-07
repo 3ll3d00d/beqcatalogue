@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-zerozerozero_92137)
+
 ## Season 1
 
 * DD+

@@ -1,5 +1,7 @@
 # Scarface
 
+[Compare across authors](../../compare/?t=film-scarface_111)
+
 ## DTS-X
 
 **1983 • R • 2h 50m • Drama, Thriller, Crime, Action • mobe1969**

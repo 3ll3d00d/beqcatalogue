@@ -1,5 +1,7 @@
 # Legendary Assassin
 
+[Compare across authors](../../compare/?t=film-legendary-assassin_26010)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 1h 29m • Cantonese • Action • mobe1969**

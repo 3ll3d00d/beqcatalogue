@@ -1,5 +1,7 @@
 # The Rock
 
+[Compare across authors](../../compare/?t=film-the-rock_9802)
+
 ## LPCM 5.1, DD+ 5.1
 
 **1996 • R • 2h 17m • Action, Adventure, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The 15:17 to Paris
 
+[Compare across authors](../../compare/?t=film-the-1517-to-paris_453201)
+
 ## Atmos
 
 **2018 • PG-13 • 1h 34m • History, Drama, Thriller • mobe1969**

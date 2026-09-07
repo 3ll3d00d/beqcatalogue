@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-stained_88448)
+
 ## Season 1 Episodes 1-4
 
 * TrueHD 5.1

@@ -1,5 +1,7 @@
 # Chickenhare and the Hamster of Darkness
 
+[Compare across authors](../../compare/?t=film-chickenhare-and-the-hamster-of-darkness_778855)
+
 ## DD+ 5.1
 
 **2022 • PG • 1h 31m • Animation, Adventure, Comedy, Family, Fantasy • mobe1969**

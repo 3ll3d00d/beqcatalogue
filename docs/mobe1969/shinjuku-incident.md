@@ -1,5 +1,7 @@
 # Shinjuku Incident
 
+[Compare across authors](../../compare/?t=film-shinjuku-incident_20083)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2009 • R • 1h 59m • Cantonese • Drama, Action, Thriller, Crime • mobe1969**

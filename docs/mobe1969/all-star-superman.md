@@ -1,5 +1,7 @@
 # All Star Superman
 
+[Compare across authors](../../compare/?t=film-all-star-superman_56590)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG • 1h 16m • Science Fiction, Animation, Action, Adventure • mobe1969**

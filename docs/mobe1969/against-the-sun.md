@@ -1,5 +1,7 @@
 # Against the Sun
 
+[Compare across authors](../../compare/?t=film-against-the-sun_302828)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG • 1h 39m • War, Adventure • mobe1969**

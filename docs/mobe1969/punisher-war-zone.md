@@ -1,5 +1,7 @@
 # Punisher: War Zone
 
+[Compare across authors](../../compare/?t=film-punisher-war-zone_13056)
+
 ## Atmos, DD+ 5.1
 
 **2008 • R • 1h 42m • Action, Crime • mobe1969**

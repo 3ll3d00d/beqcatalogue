@@ -1,5 +1,7 @@
 # American Sniper
 
+[Compare across authors](../../compare/?t=film-american-sniper_190859)
+
 ## Atmos
 
 **2014 • R • 2h 13m • War, Action • mobe1969**

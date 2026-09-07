@@ -1,5 +1,7 @@
 # The Son of Bigfoot
 
+[Compare across authors](../../compare/?t=film-the-son-of-bigfoot_413644)
+
 ## DTS-HD MA 5.1, DD+ 5.1, DD 5.1
 
 **2017 • PG • 1h 32m • Family, Animation, Comedy • mobe1969**

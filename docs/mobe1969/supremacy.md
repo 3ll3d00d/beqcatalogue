@@ -1,5 +1,7 @@
 # Supremacy
 
+[Compare across authors](../../compare/?t=film-supremacy_277702)
+
 ## DTS-HD MA 5.1
 
 **2014 • 16 • 1h 37m • Crime, Drama • mobe1969**

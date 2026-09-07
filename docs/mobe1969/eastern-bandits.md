@@ -1,5 +1,7 @@
 # Eastern Bandits
 
+[Compare across authors](../../compare/?t=film-eastern-bandits_134770)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 45m • Mandarin • History, Drama • mobe1969**

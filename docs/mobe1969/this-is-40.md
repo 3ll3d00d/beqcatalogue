@@ -1,5 +1,7 @@
 # This Is 40
 
+[Compare across authors](../../compare/?t=film-this-is-40_89492)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

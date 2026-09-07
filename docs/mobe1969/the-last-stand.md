@@ -1,5 +1,7 @@
 # The Last Stand
 
+[Compare across authors](../../compare/?t=film-the-last-stand_76640)
+
 ## DTS-HD MA 7.1
 
 **2013 • R • 1h 47m • Action, Crime, Thriller • mobe1969**

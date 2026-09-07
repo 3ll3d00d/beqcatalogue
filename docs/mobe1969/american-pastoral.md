@@ -1,5 +1,7 @@
 # American Pastoral
 
+[Compare across authors](../../compare/?t=film-american-pastoral_326285)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 48m • Drama, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Frankenweenie
 
+[Compare across authors](../../compare/?t=film-frankenweenie_62214)
+
 ## DTS-HD MA 7.1
 
 **2012 • PG • 1h 27m • Animation, Comedy, Family • mobe1969**

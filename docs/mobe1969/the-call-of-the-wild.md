@@ -1,5 +1,7 @@
 # The Call of the Wild
 
+[Compare across authors](../../compare/?t=film-the-call-of-the-wild_481848)
+
 ## Atmos
 
 **2020 • PG • 1h 40m • Adventure, Family, Drama • mobe1969**

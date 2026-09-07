@@ -1,5 +1,7 @@
 # Thallumaala
 
+[Compare across authors](../../compare/?t=film-thallumaala_863530)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 26m • Malayalam • Comedy, Drama, Action • mobe1969**

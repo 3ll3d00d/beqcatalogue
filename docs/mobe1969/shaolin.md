@@ -1,5 +1,7 @@
 # Shaolin
 
+[Compare across authors](../../compare/?t=film-shaolin_55292)
+
 ## DTS-HD MA 7.1, TrueHD 7.1
 
 **2011 • R • 2h 11m • Mandarin • Action, Drama • mobe1969**

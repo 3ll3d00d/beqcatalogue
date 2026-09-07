@@ -1,5 +1,7 @@
 # Je suis Karl
 
+[Compare across authors](../../compare/?t=film-je-suis-karl_683641)
+
 ## DD+ 5.1
 
 **2021 • R • 2h 6m • German • Drama • mobe1969**

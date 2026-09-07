@@ -1,5 +1,7 @@
 # Equals
 
+[Compare across authors](../../compare/?t=film-equals_301875)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 41m • Drama, Science Fiction, Romance • mobe1969**

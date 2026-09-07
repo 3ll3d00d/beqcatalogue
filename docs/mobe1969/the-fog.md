@@ -1,5 +1,7 @@
 # The Fog
 
+[Compare across authors](../../compare/?t=film-the-fog_790)
+
 ## Atmos
 
 **1980 • R • 1h 29m • Horror • mobe1969**

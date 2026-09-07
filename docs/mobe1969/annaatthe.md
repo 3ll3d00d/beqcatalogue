@@ -1,5 +1,7 @@
 # Annaatthe
 
+[Compare across authors](../../compare/?t=film-annaatthe_752961)
+
 ## DD+ 5.1
 
 **2021 • NR • 2h 43m • Tamil • Action, Family, Drama • mobe1969**

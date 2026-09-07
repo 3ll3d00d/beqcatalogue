@@ -1,5 +1,7 @@
 # Get the Gringo
 
+[Compare across authors](../../compare/?t=film-get-the-gringo_80389)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 35m • Thriller, Drama, Crime, Action • mobe1969**

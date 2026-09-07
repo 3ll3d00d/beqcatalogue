@@ -1,5 +1,7 @@
 # Sicario: Day of the Soldado
 
+[Compare across authors](../../compare/?t=film-sicario-day-of-the-soldado_400535)
+
 ## Atmos
 
 **2018 • R • 2h 2m • Action, Crime, Drama, Thriller • mobe1969**

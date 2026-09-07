@@ -1,5 +1,7 @@
 # Black Sunday
 
+[Compare across authors](../../compare/?t=film-black-sunday_50374)
+
 ## DTS-HD MA 5.1
 
 **1977 • R • 2h 23m • Action, Drama, Thriller • mobe1969**

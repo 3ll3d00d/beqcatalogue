@@ -1,5 +1,7 @@
 # Underworld
 
+[Compare across authors](../../compare/?t=film-underworld_277)
+
 ## Atmos
 
 Extended Cut

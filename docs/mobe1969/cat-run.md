@@ -1,5 +1,7 @@
 # Cat Run
 
+[Compare across authors](../../compare/?t=film-cat-run_57353)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 42m • Comedy, Action, Thriller • mobe1969**

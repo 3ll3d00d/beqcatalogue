@@ -1,5 +1,7 @@
 # Amélie
 
+[Compare across authors](../../compare/?t=film-amelie_194)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 1h 56m • French • Comedy, Romance • mobe1969**

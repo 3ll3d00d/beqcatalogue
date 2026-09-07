@@ -1,5 +1,7 @@
 # A Very Harold & Kumar Christmas
 
+[Compare across authors](../../compare/?t=film-a-very-harold-kumar-christmas_55465)
+
 ## DD 5.1
 
 Extended Cut

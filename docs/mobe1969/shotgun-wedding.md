@@ -1,5 +1,7 @@
 # Shotgun Wedding
 
+[Compare across authors](../../compare/?t=film-shotgun-wedding_758009)
+
 ## Atmos
 
 **2022 • R • 1h 41m • Action, Comedy, Romance • mobe1969**

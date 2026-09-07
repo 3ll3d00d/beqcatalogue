@@ -1,5 +1,7 @@
 # Annihilation
 
+[Compare across authors](../../compare/?t=film-annihilation_300668)
+
 ## Atmos
 
 **2018 • R • 1h 55m • Science Fiction, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Survival of the Dead
 
+[Compare across authors](../../compare/?t=film-survival-of-the-dead_29426)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 30m • Comedy, Horror, Thriller • mobe1969**

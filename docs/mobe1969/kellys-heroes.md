@@ -1,5 +1,7 @@
 # Kelly's Heroes
 
+[Compare across authors](../../compare/?t=film-kellys-heroes_11589)
+
 ## DTS-HD MA 5.1
 
 **1970 • PG • 2h 24m • Adventure, War, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Sympathy For The Devil
 
+[Compare across authors](../../compare/?t=film-sympathy-for-the-devil_1030987)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 30m • Thriller • mobe1969**

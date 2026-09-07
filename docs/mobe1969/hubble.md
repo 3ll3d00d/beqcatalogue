@@ -1,5 +1,7 @@
 # Hubble
 
+[Compare across authors](../../compare/?t=film-hubble_44992)
+
 ## DTS-HD MA 5.1
 
 **2010 • G • 0h 44m • Documentary • mobe1969**

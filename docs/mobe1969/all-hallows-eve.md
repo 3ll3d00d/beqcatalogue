@@ -1,5 +1,7 @@
 # All Hallows' Eve
 
+[Compare across authors](../../compare/?t=film-all-hallows-eve_231001)
+
 ## DD+ 5.1
 
 **2013 • R • 1h 22m • Horror • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-dark_70523)
+
 ## Season 1
 
 * DD+ Atmos

@@ -1,5 +1,7 @@
 # Altitude
 
+[Compare across authors](../../compare/?t=film-altitude_44678)
+
 ## TrueHD 5.1
 
 **2010 • R • 1h 30m • Action, Horror, Thriller, Science Fiction • mobe1969**

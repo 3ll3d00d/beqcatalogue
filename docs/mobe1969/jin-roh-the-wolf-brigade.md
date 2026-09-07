@@ -1,5 +1,7 @@
 # Jin-Roh: The Wolf Brigade
 
+[Compare across authors](../../compare/?t=film-jin-roh-the-wolf-brigade_823)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 42m • Japanese • Animation, Science Fiction, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Cemetery Junction
 
+[Compare across authors](../../compare/?t=film-cemetery-junction_36801)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 34m • Drama, Comedy • mobe1969**

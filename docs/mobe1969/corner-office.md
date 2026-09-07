@@ -1,5 +1,7 @@
 # Corner Office
 
+[Compare across authors](../../compare/?t=film-corner-office_800279)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 1h 41m • Comedy, Drama • mobe1969**

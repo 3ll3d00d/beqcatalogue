@@ -1,5 +1,7 @@
 # Virtuosity
 
+[Compare across authors](../../compare/?t=film-virtuosity_9271)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 1h 46m • Action, Crime, Science Fiction, Thriller • mobe1969**

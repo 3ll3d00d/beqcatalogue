@@ -1,5 +1,7 @@
 # Star Wars Episode IV A New Hope
 
+[Compare across authors](../../compare/?t=film-star-wars-episode-iv-a-new-hope_11)
+
 ## Atmos
 
 **1977 • PG • 2h 1m • Adventure, Action, Science Fiction • mobe1969**

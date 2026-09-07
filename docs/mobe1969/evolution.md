@@ -1,5 +1,7 @@
 # Evolution
 
+[Compare across authors](../../compare/?t=film-evolution_9397)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG-13 • 1h 41m • Comedy, Science Fiction, Action • mobe1969**

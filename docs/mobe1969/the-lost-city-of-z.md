@@ -1,5 +1,7 @@
 # The Lost City of Z
 
+[Compare across authors](../../compare/?t=film-the-lost-city-of-z_314095)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG-13 • 2h 21m • Adventure, Drama, History • mobe1969**

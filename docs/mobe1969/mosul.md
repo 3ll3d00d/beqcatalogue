@@ -1,5 +1,7 @@
 # Mosul
 
+[Compare across authors](../../compare/?t=film-mosul_594082)
+
 ## DTS-HD MA 5.1
 
 **2019 • MA15+ • 1h 26m • War, Documentary • mobe1969**

@@ -1,5 +1,7 @@
 # Better Watch Out
 
+[Compare across authors](../../compare/?t=film-better-watch-out_406994)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2017 • R • 1h 34m • Horror, Thriller • mobe1969**

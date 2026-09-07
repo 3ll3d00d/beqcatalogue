@@ -1,5 +1,7 @@
 # Hellboy Animated: Blood and Iron
 
+[Compare across authors](../../compare/?t=film-hellboy-animated-blood-and-iron_13204)
+
 ## Atmos
 
 **2007 • NR • 1h 15m • TV Movie, Fantasy, Animation, Horror, Action, Thriller, Science Fiction • mobe1969**

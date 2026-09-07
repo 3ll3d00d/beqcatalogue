@@ -1,5 +1,7 @@
 # Halloween 5: The Revenge of Michael Myers
 
+[Compare across authors](../../compare/?t=film-halloween-5-the-revenge-of-michael-myers_11361)
+
 ## Atmos
 
 **1989 • R • 1h 36m • Horror, Thriller • mobe1969**

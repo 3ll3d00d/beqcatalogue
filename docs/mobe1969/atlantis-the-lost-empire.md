@@ -1,5 +1,7 @@
 # Atlantis: The Lost Empire
 
+[Compare across authors](../../compare/?t=film-atlantis-the-lost-empire_10865)
+
 ## DTS-HD MA 5.1
 
 **2001 • PG • 1h 35m • Animation, Family, Adventure, Science Fiction • mobe1969**

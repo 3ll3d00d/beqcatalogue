@@ -1,5 +1,7 @@
 # That Demon Within
 
+[Compare across authors](../../compare/?t=film-that-demon-within_253622)
+
 ## DD+ 5.1
 
 **2014 • MA15+ • 1h 52m • Cantonese • Thriller, Crime • mobe1969**

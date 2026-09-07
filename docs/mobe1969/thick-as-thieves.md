@@ -1,5 +1,7 @@
 # Thick as Thieves
 
+[Compare across authors](../../compare/?t=film-thick-as-thieves_14979)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 44m • Thriller, Mystery • mobe1969**

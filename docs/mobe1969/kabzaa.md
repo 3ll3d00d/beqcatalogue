@@ -1,5 +1,7 @@
 # Kabzaa
 
+[Compare across authors](../../compare/?t=film-kabzaa_683876)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 16m • Hindi • Action, Drama • mobe1969**

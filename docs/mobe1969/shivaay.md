@@ -1,5 +1,7 @@
 # Shivaay
 
+[Compare across authors](../../compare/?t=film-shivaay_370992)
+
 ## DD+ 5.1
 
 **2016 • PG-13 • 2h 33m • Hindi • Adventure, Action, Drama, Thriller • mobe1969**

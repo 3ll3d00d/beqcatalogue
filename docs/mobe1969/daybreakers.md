@@ -1,5 +1,7 @@
 # Daybreakers
 
+[Compare across authors](../../compare/?t=film-daybreakers_19901)
+
 ## Atmos
 
 **2009 • R • 1h 38m • Action, Fantasy, Science Fiction • mobe1969**

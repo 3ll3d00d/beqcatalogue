@@ -1,5 +1,7 @@
 # The Time Machine
 
+[Compare across authors](../../compare/?t=film-the-time-machine_2135)
+
 ## TrueHD 5.1
 
 **2002 • PG-13 • 1h 36m • Science Fiction, Adventure, Action • mobe1969**

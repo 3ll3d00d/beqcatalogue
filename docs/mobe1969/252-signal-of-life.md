@@ -1,5 +1,7 @@
 # 252: Signal of Life
 
+[Compare across authors](../../compare/?t=film-252-signal-of-life_81391)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 2h 8m • Japanese • Action, Adventure, Drama • mobe1969**

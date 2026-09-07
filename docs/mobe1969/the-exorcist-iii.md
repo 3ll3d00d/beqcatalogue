@@ -1,5 +1,7 @@
 # The Exorcist III
 
+[Compare across authors](../../compare/?t=film-the-exorcist-iii_11587)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 1h 50m • Horror, Mystery • mobe1969**

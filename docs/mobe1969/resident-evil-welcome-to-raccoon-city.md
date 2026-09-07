@@ -1,5 +1,7 @@
 # Resident Evil: Welcome to Raccoon City
 
+[Compare across authors](../../compare/?t=film-resident-evil-welcome-to-raccoon-city_460458)
+
 ## Atmos
 
 **2021 • R • 1h 47m • Horror, Science Fiction, Action • mobe1969**

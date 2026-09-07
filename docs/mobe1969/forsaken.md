@@ -1,5 +1,7 @@
 # Forsaken
 
+[Compare across authors](../../compare/?t=film-forsaken_354110)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 30m • Drama, Western • mobe1969**

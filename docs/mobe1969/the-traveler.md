@@ -1,5 +1,7 @@
 # The Traveler
 
+[Compare across authors](../../compare/?t=film-the-traveler_32612)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 36m • Horror, Thriller • mobe1969**

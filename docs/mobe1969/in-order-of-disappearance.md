@@ -1,5 +1,7 @@
 # In Order of Disappearance
 
+[Compare across authors](../../compare/?t=film-in-order-of-disappearance_252822)
+
 ## DTS-HD MA 5.1
 
 **2014 • 15 • 1h 55m • Norwegian • Crime, Thriller, Comedy, Action • mobe1969**

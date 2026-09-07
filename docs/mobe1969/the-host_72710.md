@@ -1,5 +1,7 @@
 # The Host
 
+[Compare across authors](../../compare/?t=film-the-host_72710)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 2h 5m • Action, Adventure, Romance, Science Fiction, Thriller • mobe1969**

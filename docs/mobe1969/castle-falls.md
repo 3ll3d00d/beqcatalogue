@@ -1,5 +1,7 @@
 # Castle Falls
 
+[Compare across authors](../../compare/?t=film-castle-falls_683311)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 29m • Action, Crime, Thriller • mobe1969**

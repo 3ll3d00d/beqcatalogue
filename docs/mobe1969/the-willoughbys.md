@@ -1,5 +1,7 @@
 # The Willoughbys
 
+[Compare across authors](../../compare/?t=film-the-willoughbys_560044)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2020 • PG • 1h 32m • Animation, Comedy, Family • mobe1969**

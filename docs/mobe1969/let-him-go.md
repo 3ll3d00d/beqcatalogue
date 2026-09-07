@@ -1,5 +1,7 @@
 # Let Him Go
 
+[Compare across authors](../../compare/?t=film-let-him-go_596161)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 54m • Drama, Thriller, Crime, Western • mobe1969**

@@ -1,5 +1,7 @@
 # A Dark Place
 
+[Compare across authors](../../compare/?t=film-a-dark-place_412157)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 29m • Thriller, Mystery • mobe1969**

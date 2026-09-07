@@ -1,5 +1,7 @@
 # The Great Battle
 
+[Compare across authors](../../compare/?t=film-the-great-battle_535389)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 2h 15m • Korean • War, History, Action • mobe1969**

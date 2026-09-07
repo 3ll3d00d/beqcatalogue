@@ -1,5 +1,7 @@
 # National Security
 
+[Compare across authors](../../compare/?t=film-national-security_11078)
+
 ## DTS-HD MA 5.1
 
 **2003 • PG-13 • 1h 28m • Action, Crime, Comedy, Thriller • mobe1969**

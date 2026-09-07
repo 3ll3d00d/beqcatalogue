@@ -1,5 +1,7 @@
 # Collective Invention
 
+[Compare across authors](../../compare/?t=film-collective-invention_356201)
+
 ## TrueHD 5.1
 
 **2015 • 14A • 1h 32m • Korean • Comedy, Drama • mobe1969**

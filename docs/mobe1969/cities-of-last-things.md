@@ -1,5 +1,7 @@
 # Cities of Last Things
 
+[Compare across authors](../../compare/?t=film-cities-of-last-things_541340)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • NR • 1h 47m • Mandarin • Crime, Drama, Science Fiction • mobe1969**

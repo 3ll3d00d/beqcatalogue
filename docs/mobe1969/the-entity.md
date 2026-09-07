@@ -1,5 +1,7 @@
 # The Entity
 
+[Compare across authors](../../compare/?t=film-the-entity_24740)
+
 ## DTS-HD MA 5.1
 
 **1982 • R • 2h 5m • Horror, Mystery, Thriller • mobe1969**

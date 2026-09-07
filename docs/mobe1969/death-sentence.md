@@ -1,5 +1,7 @@
 # Death Sentence
 
+[Compare across authors](../../compare/?t=film-death-sentence_11835)
+
 ## DTS-HD HR 5.1
 
 **2007 • R • 1h 45m • Crime, Drama, Thriller, Action • mobe1969**

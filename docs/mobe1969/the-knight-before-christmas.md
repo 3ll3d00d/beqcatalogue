@@ -1,5 +1,7 @@
 # The Knight Before Christmas
 
+[Compare across authors](../../compare/?t=film-the-knight-before-christmas_611207)
+
 ## DD+ Atmos
 
 **2019 • NR • 1h 32m • Comedy, Romance • mobe1969**

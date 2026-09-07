@@ -1,5 +1,7 @@
 # Vampires
 
+[Compare across authors](../../compare/?t=film-vampires_9945)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 48m • Horror, Western, Drama, Fantasy, Action, Thriller • mobe1969**

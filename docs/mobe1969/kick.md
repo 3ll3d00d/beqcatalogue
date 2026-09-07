@@ -1,5 +1,7 @@
 # Kick
 
+[Compare across authors](../../compare/?t=film-kick_280690)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 2h 26m • Hindi • Action, Romance, Comedy, Crime • mobe1969**

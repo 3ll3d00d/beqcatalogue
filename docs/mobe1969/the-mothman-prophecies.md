@@ -1,5 +1,7 @@
 # The Mothman Prophecies
 
+[Compare across authors](../../compare/?t=film-the-mothman-prophecies_2637)
+
 ## DTS-HD HR 5.1
 
 **2002 • PG-13 • 1h 59m • Drama, Horror, Mystery • mobe1969**

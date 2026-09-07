@@ -1,5 +1,7 @@
 # Rim of the World
 
+[Compare across authors](../../compare/?t=film-rim-of-the-world_531306)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2019 • PG • 1h 39m • Science Fiction, Adventure, Action, Comedy • mobe1969**

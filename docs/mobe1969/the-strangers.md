@@ -1,5 +1,7 @@
 # The Strangers
 
+[Compare across authors](../../compare/?t=film-the-strangers_10665)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

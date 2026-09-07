@@ -1,5 +1,7 @@
 # The Corruptor
 
+[Compare across authors](../../compare/?t=film-the-corruptor_9455)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 50m • Action • mobe1969**

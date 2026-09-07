@@ -1,5 +1,7 @@
 # Hereafter
 
+[Compare across authors](../../compare/?t=film-hereafter_44603)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 2h 9m • Drama, Fantasy • mobe1969**

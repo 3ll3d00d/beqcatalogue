@@ -1,5 +1,7 @@
 # 13 Hours: The Secret Soldiers of Benghazi
 
+[Compare across authors](../../compare/?t=film-13-hours-the-secret-soldiers-of-benghazi_300671)
+
 ## Atmos
 
 **2016 • R • 2h 24m • War, Action, History, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # A Babysitter's Guide to Monster Hunting
 
+[Compare across authors](../../compare/?t=film-a-babysitters-guide-to-monster-hunting_624963)
+
 ## DD+ Atmos
 
 **2020 • PG • 1h 34m • Family, Fantasy, Adventure, Comedy • mobe1969**

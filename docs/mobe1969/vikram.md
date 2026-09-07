@@ -1,5 +1,7 @@
 # Vikram
 
+[Compare across authors](../../compare/?t=film-vikram_743563)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 2h 54m • Tamil • Action, Adventure, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Pure Japanese
 
+[Compare across authors](../../compare/?t=film-pure-japanese_890316)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 28m • Japanese • Action, Drama • mobe1969**

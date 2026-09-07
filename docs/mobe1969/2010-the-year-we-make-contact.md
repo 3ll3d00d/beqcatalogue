@@ -1,5 +1,7 @@
 # 2010: The Year We Make Contact
 
+[Compare across authors](../../compare/?t=film-2010-the-year-we-make-contact_4437)
+
 ## TrueHD 5.1
 
 **1984 • PG • 1h 56m • Science Fiction, Thriller • mobe1969**

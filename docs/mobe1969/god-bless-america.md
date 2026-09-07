@@ -1,5 +1,7 @@
 # God Bless America
 
+[Compare across authors](../../compare/?t=film-god-bless-america_74306)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 44m • Comedy, Drama • mobe1969**

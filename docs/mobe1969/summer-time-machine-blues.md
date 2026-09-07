@@ -1,5 +1,7 @@
 # Summer Time Machine Blues
 
+[Compare across authors](../../compare/?t=film-summer-time-machine-blues_26130)
+
 ## DTS-HD MA 5.1
 
 **2005 • NR • 1h 47m • Japanese • Comedy, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Gladiator
 
+[Compare across authors](../../compare/?t=film-gladiator_98)
+
 ## DTS-X
 
 Director's Cut

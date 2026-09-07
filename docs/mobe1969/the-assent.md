@@ -1,5 +1,7 @@
 # The Assent
 
+[Compare across authors](../../compare/?t=film-the-assent_632309)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 29m • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Goodnight Mommy
 
+[Compare across authors](../../compare/?t=film-goodnight-mommy_814800)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 31m • Drama, Horror, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Blood and Bone
 
+[Compare across authors](../../compare/?t=film-blood-and-bone_22164)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 33m • Drama, Action, Thriller • mobe1969**

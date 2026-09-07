@@ -1,5 +1,7 @@
 # The Abyss
 
+[Compare across authors](../../compare/?t=film-the-abyss_2756)
+
 ## DD 5.1
 
 Director's Cut

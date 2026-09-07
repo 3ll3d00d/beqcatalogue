@@ -1,5 +1,7 @@
 # Seondal: The Man Who Sells the River
 
+[Compare across authors](../../compare/?t=film-seondal-the-man-who-sells-the-river_385137)
+
 ## TrueHD 5.1
 
 **2016 • NR • 2h 1m • Korean • History, Comedy • mobe1969**

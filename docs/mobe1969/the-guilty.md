@@ -1,5 +1,7 @@
 # The Guilty
 
+[Compare across authors](../../compare/?t=film-the-guilty_567748)
+
 ## DD+ Atmos
 
 **2021 • R • 1h 31m • Drama, Thriller • mobe1969**

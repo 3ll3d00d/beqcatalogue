@@ -1,5 +1,7 @@
 # The Eliminator
 
+[Compare across authors](../../compare/?t=film-the-eliminator_48454)
+
 ## DD+ 2.0
 
 **2004 • NR • 1h 29m • Action, Thriller • mobe1969**

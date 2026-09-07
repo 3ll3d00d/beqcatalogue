@@ -1,5 +1,7 @@
 # Silverton Siege
 
+[Compare across authors](../../compare/?t=film-silverton-siege_951470)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2022 • PG-13 • 1h 40m • Drama, Action, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Raw Deal
 
+[Compare across authors](../../compare/?t=film-raw-deal_2099)
+
 ## DTS-HD MA 5.1
 
 **1986 • R • 1h 46m • Action, Crime, Thriller • mobe1969**

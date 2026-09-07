@@ -1,5 +1,7 @@
 # Cop Land
 
+[Compare across authors](../../compare/?t=film-cop-land_2142)
+
 ## DTS-HD MA 5.1
 
 **1997 • R • 1h 44m • Action, Crime, Drama • mobe1969**

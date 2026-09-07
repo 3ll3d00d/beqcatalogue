@@ -1,5 +1,7 @@
 # Pari
 
+[Compare across authors](../../compare/?t=film-pari_461649)
+
 ## DD+ 5.1
 
 **2018 • PG-13 • 2h 15m • Hindi • Horror, Fantasy, Mystery • mobe1969**

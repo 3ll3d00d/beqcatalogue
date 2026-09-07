@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-inhuman-resources_101690)
+
 ## Season 1
 
 * DD+ 5.1

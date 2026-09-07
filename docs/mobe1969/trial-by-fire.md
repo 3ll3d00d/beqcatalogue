@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-trial-by-fire_217699)
+
 ## Season 1
 
 * DD+ Atmos

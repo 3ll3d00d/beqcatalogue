@@ -1,5 +1,7 @@
 # Coming 2 America
 
+[Compare across authors](../../compare/?t=film-coming-2-america_484718)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 1h 50m • Comedy • mobe1969**

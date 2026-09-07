@@ -1,5 +1,7 @@
 # Shazam!
 
+[Compare across authors](../../compare/?t=film-shazam_287947)
+
 ## Atmos, DD+ Atmos
 
 **2019 • PG-13 • 2h 12m • Action, Comedy, Fantasy • mobe1969**

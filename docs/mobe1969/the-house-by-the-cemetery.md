@@ -1,5 +1,7 @@
 # The House by the Cemetery
 
+[Compare across authors](../../compare/?t=film-the-house-by-the-cemetery_28794)
+
 ## Atmos
 
 **1981 • NR • 1h 27m • Horror • mobe1969**

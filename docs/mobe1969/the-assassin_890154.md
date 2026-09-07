@@ -1,5 +1,7 @@
 # The Assassin
 
+[Compare across authors](../../compare/?t=film-the-assassin_890154)
+
 ## DTS-HD MA 5.1
 
 **2023 • NR • 1h 41m • Korean • Action • mobe1969**

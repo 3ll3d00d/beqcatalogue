@@ -1,5 +1,7 @@
 # Perpetrator
 
+[Compare across authors](../../compare/?t=film-perpetrator_1061656)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 40m • Horror • mobe1969**

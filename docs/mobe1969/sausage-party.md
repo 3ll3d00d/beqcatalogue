@@ -1,5 +1,7 @@
 # Sausage Party
 
+[Compare across authors](../../compare/?t=film-sausage-party_223702)
+
 ## Atmos
 
 **2016 • R • 1h 29m • Animation, Adventure, Comedy, Fantasy • mobe1969**

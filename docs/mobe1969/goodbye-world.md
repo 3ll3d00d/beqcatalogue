@@ -1,5 +1,7 @@
 # Goodbye World
 
+[Compare across authors](../../compare/?t=film-goodbye-world_201066)
+
 ## DTS-HD MA 5.1
 
 **2013 • 15 • 1h 41m • Drama, Comedy • mobe1969**

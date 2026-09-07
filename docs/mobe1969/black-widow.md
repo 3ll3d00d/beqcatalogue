@@ -1,5 +1,7 @@
 # Black Widow
 
+[Compare across authors](../../compare/?t=film-black-widow_497698)
+
 ## Atmos
 
 **2021 • PG-13 • 2h 14m • Action, Adventure, Thriller, Science Fiction • mobe1969**

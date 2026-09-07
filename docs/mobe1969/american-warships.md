@@ -1,5 +1,7 @@
 # American Warships
 
+[Compare across authors](../../compare/?t=film-american-warships_97632)
+
 ## DD+ 5.1
 
 **2012 • R • 1h 30m • Action, Thriller, Science Fiction, War • mobe1969**

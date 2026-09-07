@@ -1,5 +1,7 @@
 # The Deep House
 
+[Compare across authors](../../compare/?t=film-the-deep-house_672582)
+
 ## Atmos
 
 **2021 • NR • 1h 25m • Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Antariksham 9000 KMPH
 
+[Compare across authors](../../compare/?t=film-antariksham-9000-kmph_566486)
+
 ## DD+ 5.1
 
 **2018 • NR • 2h 20m • Telugu • Science Fiction, Thriller • mobe1969**

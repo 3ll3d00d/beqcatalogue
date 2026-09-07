@@ -1,5 +1,7 @@
 # The Machine
 
+[Compare across authors](../../compare/?t=film-the-machine_647250)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 52m • Action, Comedy, Crime • mobe1969**

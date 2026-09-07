@@ -1,5 +1,7 @@
 # tick, tick...BOOM!
 
+[Compare across authors](../../compare/?t=film-tick-tickboom_537116)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 2h 1m • Drama, Music • mobe1969**

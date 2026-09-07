@@ -1,5 +1,7 @@
 # Shazam! Fury of the Gods
 
+[Compare across authors](../../compare/?t=film-shazam-fury-of-the-gods_594767)
+
 ## Atmos, DD+ Atmos
 
 **2023 • PG-13 • 2h 10m • Action, Comedy, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Dead Reckoning
 
+[Compare across authors](../../compare/?t=film-dead-reckoning_463870)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 31m • Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Dynasty Warriors
 
+[Compare across authors](../../compare/?t=film-dynasty-warriors_525660)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 57m • Cantonese • Action, Adventure, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Robin Hood: The Rebellion
 
+[Compare across authors](../../compare/?t=film-robin-hood-the-rebellion_549165)
+
 ## DD+ 5.1
 
 **2018 • 12 • 1h 32m • Adventure, History, Action • mobe1969**

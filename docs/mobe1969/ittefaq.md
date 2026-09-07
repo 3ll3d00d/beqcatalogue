@@ -1,5 +1,7 @@
 # Ittefaq
 
+[Compare across authors](../../compare/?t=film-ittefaq_464458)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 47m • Hindi • Crime, Thriller, Mystery • mobe1969**

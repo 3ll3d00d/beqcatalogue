@@ -1,5 +1,7 @@
 # Intruder
 
+[Compare across authors](../../compare/?t=film-intruder_602291)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 42m • Korean • Mystery, Thriller • mobe1969**

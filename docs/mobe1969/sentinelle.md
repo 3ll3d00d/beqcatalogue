@@ -1,5 +1,7 @@
 # Sentinelle
 
+[Compare across authors](../../compare/?t=film-sentinelle_793723)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 20m • French • Thriller, Action, Drama • mobe1969**

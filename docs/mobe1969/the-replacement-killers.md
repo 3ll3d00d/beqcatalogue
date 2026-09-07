@@ -1,5 +1,7 @@
 # The Replacement Killers
 
+[Compare across authors](../../compare/?t=film-the-replacement-killers_11702)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 27m • Action, Drama, Crime, Thriller, Mystery • mobe1969**

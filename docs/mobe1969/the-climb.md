@@ -1,5 +1,7 @@
 # The Climb
 
+[Compare across authors](../../compare/?t=film-the-climb_421447)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 43m • French • Comedy, Romance, Adventure • mobe1969**

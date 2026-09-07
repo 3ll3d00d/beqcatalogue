@@ -1,5 +1,7 @@
 # Frozen
 
+[Compare across authors](../../compare/?t=film-frozen_44363)
+
 ## TrueHD 5.1
 
 **2010 • R • 1h 33m • Thriller • mobe1969**

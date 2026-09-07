@@ -1,5 +1,7 @@
 # Meet the Blacks
 
+[Compare across authors](../../compare/?t=film-meet-the-blacks_377587)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 30m • Comedy, Horror • mobe1969**

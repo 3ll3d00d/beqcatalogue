@@ -1,5 +1,7 @@
 # The Impossible
 
+[Compare across authors](../../compare/?t=film-the-impossible_80278)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 53m • Thriller, Drama • mobe1969**

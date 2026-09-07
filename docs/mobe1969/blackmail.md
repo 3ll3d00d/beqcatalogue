@@ -1,5 +1,7 @@
 # Blackmail
 
+[Compare across authors](../../compare/?t=film-blackmail_512098)
+
 ## DD+ 5.1
 
 **2018 • 15 • 2h 18m • Hindi • Comedy, Thriller • mobe1969**

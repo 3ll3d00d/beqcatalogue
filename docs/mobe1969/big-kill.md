@@ -1,5 +1,7 @@
 # Big Kill
 
+[Compare across authors](../../compare/?t=film-big-kill_524124)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 2h 6m • Action, Western • mobe1969**

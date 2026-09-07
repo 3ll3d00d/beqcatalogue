@@ -1,5 +1,7 @@
 # House of the Rising Sun
 
+[Compare across authors](../../compare/?t=film-house-of-the-rising-sun_68472)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 30m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Survivor
 
+[Compare across authors](../../compare/?t=film-survivor_334074)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 36m • Thriller, Action, Crime • mobe1969**

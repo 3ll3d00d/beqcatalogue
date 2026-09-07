@@ -1,5 +1,7 @@
 # The Dead Pool
 
+[Compare across authors](../../compare/?t=film-the-dead-pool_10651)
+
 ## TrueHD 5.1
 
 **1988 • R • 1h 31m • Thriller, Action, Crime • mobe1969**

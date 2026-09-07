@@ -1,5 +1,7 @@
 # Last Sentinel
 
+[Compare across authors](../../compare/?t=film-last-sentinel_516806)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 52m • Science Fiction, Thriller, Drama • mobe1969**

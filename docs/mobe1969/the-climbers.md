@@ -1,5 +1,7 @@
 # The Climbers
 
+[Compare across authors](../../compare/?t=film-the-climbers_601493)
+
 ## AAC 5.1
 
 **2019 • NR • 2h 5m • Mandarin • Adventure, Action, Drama, History • mobe1969**

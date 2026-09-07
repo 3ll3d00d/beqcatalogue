@@ -1,5 +1,7 @@
 # Omen III: The Final Conflict
 
+[Compare across authors](../../compare/?t=film-omen-iii-the-final-conflict_10768)
+
 ## DTS-HD MA 5.1
 
 **1981 • R • 1h 48m • Horror • mobe1969**

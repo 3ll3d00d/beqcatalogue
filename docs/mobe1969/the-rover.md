@@ -1,5 +1,7 @@
 # The Rover
 
+[Compare across authors](../../compare/?t=film-the-rover_157845)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 43m • Crime, Drama • mobe1969**

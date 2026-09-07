@@ -1,5 +1,7 @@
 # Enemy of the State
 
+[Compare across authors](../../compare/?t=film-enemy-of-the-state_9798)
+
 ## LPCM 5.1, DD+ 5.1
 
 **1998 • R • 2h 12m • Action, Drama, Thriller • mobe1969**

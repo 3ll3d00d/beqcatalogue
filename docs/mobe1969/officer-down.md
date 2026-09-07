@@ -1,5 +1,7 @@
 # Officer Down
 
+[Compare across authors](../../compare/?t=film-officer-down_100544)
+
 ## TrueHD 5.1
 
 **2013 • R • 1h 38m • Crime, Drama • mobe1969**

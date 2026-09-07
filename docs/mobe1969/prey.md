@@ -1,5 +1,7 @@
 # Prey
 
+[Compare across authors](../../compare/?t=film-prey_853588)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 26m • German • Thriller • mobe1969**

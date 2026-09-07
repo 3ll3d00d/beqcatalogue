@@ -1,5 +1,7 @@
 # Bad Day for the Cut
 
+[Compare across authors](../../compare/?t=film-bad-day-for-the-cut_430043)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 39m • Thriller, Drama, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # We Die Young
 
+[Compare across authors](../../compare/?t=film-we-die-young_538207)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 33m • Action, Drama, Crime, Thriller • mobe1969**

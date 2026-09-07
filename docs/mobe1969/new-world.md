@@ -1,5 +1,7 @@
 # New World
 
+[Compare across authors](../../compare/?t=film-new-world_165213)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 2h 14m • Korean • Thriller • mobe1969**

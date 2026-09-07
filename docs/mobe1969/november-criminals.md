@@ -1,5 +1,7 @@
 # November Criminals
 
+[Compare across authors](../../compare/?t=film-november-criminals_317091)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG-13 • 1h 26m • Crime, Drama, Mystery, Thriller • mobe1969**

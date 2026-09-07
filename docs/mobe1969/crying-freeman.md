@@ -1,5 +1,7 @@
 # Crying Freeman
 
+[Compare across authors](../../compare/?t=film-crying-freeman_9501)
+
 ## DTS-HD MA 5.1
 
 **1995 • 18 • 1h 42m • Action, Crime • mobe1969**

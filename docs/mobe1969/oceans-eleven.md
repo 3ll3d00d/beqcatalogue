@@ -1,5 +1,7 @@
 # Ocean's Eleven
 
+[Compare across authors](../../compare/?t=film-oceans-eleven_161)
+
 ## DD 5.1
 
 **2001 • PG-13 • 1h 56m • Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # The Sky Crawlers
 
+[Compare across authors](../../compare/?t=film-the-sky-crawlers_15877)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG-13 • 2h 1m • Japanese • Action, Adventure, Animation, War • mobe1969**

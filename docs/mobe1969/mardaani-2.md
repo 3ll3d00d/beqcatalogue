@@ -1,5 +1,7 @@
 # Mardaani 2
 
+[Compare across authors](../../compare/?t=film-mardaani-2_591101)
+
 ## DD+ 5.1
 
 **2019 • 15 • 1h 43m • Hindi • Action, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Lincoln Lawyer
 
+[Compare across authors](../../compare/?t=film-the-lincoln-lawyer_50348)
+
 ## Atmos
 
 **2011 • R • 1h 59m • Thriller, Drama, Crime • mobe1969**

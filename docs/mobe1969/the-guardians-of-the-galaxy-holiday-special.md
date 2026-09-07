@@ -1,5 +1,7 @@
 # The Guardians of the Galaxy Holiday Special
 
+[Compare across authors](../../compare/?t=film-the-guardians-of-the-galaxy-holiday-special_774752)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 0h 45m • Comedy, Science Fiction, Adventure • mobe1969**

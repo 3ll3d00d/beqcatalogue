@@ -1,5 +1,7 @@
 # Emergency Declaration
 
+[Compare across authors](../../compare/?t=film-emergency-declaration_626872)
+
 ## Atmos
 
 **2022 • NR • 2h 20m • Korean • Action, Drama, Mystery, Thriller • mobe1969**

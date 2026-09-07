@@ -1,5 +1,7 @@
 # The Guardian
 
+[Compare across authors](../../compare/?t=film-the-guardian_4643)
+
 ## LPCM 5.1
 
 **2006 • PG-13 • 2h 19m • Drama, Action • mobe1969**

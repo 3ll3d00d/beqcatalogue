@@ -1,5 +1,7 @@
 # Old School
 
+[Compare across authors](../../compare/?t=film-old-school_11635)
+
 ## TrueHD 5.1
 
 Unrated Cut

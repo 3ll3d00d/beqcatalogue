@@ -1,5 +1,7 @@
 # DC League of Super-Pets
 
+[Compare across authors](../../compare/?t=film-dc-league-of-super-pets_539681)
+
 ## Atmos
 
 **2022 • PG • 1h 45m • Animation, Action, Family, Comedy, Science Fiction • mobe1969**

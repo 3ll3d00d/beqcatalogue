@@ -1,5 +1,7 @@
 # Walking Tall: The Payback
 
+[Compare across authors](../../compare/?t=film-walking-tall-the-payback_15066)
+
 ## DD+ 5.1
 
 **2007 • R • 1h 34m • Crime, Adventure, Action • mobe1969**

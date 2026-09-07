@@ -1,5 +1,7 @@
 # Invasion of the Body Snatchers
 
+[Compare across authors](../../compare/?t=film-invasion-of-the-body-snatchers_11850)
+
 ## DTS-HD MA 5.1
 
 **1978 • PG • 1h 56m • Horror, Mystery, Science Fiction • mobe1969**

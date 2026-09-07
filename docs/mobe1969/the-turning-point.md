@@ -1,5 +1,7 @@
 # The Turning Point
 
+[Compare across authors](../../compare/?t=film-the-turning-point_828588)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 30m • Italian • Drama • mobe1969**

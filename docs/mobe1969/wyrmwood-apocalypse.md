@@ -1,5 +1,7 @@
 # Wyrmwood: Apocalypse
 
+[Compare across authors](../../compare/?t=film-wyrmwood-apocalypse_879957)
+
 ## DTS-HD MA 5.1
 
 **2022 • 15 • 1h 28m • Horror, Adventure, Action, Comedy • mobe1969**

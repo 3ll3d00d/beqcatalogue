@@ -1,5 +1,7 @@
 # The House on the Hill
 
+[Compare across authors](../../compare/?t=film-the-house-on-the-hill_700516)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 23m • Thriller, TV Movie • mobe1969**

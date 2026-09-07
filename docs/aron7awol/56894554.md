@@ -1,5 +1,7 @@
 # Terminator Salvation
 
+[Compare across authors](../../compare/?t=film-terminator-salvation_534)
+
 ## DTS-HD MA 5.1
 
 Director's Cut

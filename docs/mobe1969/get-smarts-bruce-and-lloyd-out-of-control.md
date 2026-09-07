@@ -1,5 +1,7 @@
 # Get Smart's Bruce and Lloyd Out of Control
 
+[Compare across authors](../../compare/?t=film-get-smarts-bruce-and-lloyd-out-of-control_15531)
+
 ## DD 5.1
 
 **2008 • PG-13 • 1h 11m • Action, Comedy • mobe1969**

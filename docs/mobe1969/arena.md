@@ -1,5 +1,7 @@
 # Arena
 
+[Compare across authors](../../compare/?t=film-arena_71254)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 34m • Science Fiction, Thriller, Action • mobe1969**

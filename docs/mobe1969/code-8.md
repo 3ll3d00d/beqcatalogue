@@ -1,5 +1,7 @@
 # Code 8
 
+[Compare across authors](../../compare/?t=film-code-8_461130)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 39m • Science Fiction, Action, Crime, Thriller, Drama • mobe1969**

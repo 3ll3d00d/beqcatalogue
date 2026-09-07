@@ -1,5 +1,7 @@
 # The Riot Club
 
+[Compare across authors](../../compare/?t=film-the-riot-club_270302)
+
 ## DTS-HD MA 5.1
 
 **2014 • 15 • 1h 47m • Drama, Thriller • mobe1969**

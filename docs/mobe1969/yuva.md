@@ -1,5 +1,7 @@
 # Yuva
 
+[Compare across authors](../../compare/?t=film-yuva_43410)
+
 ## DD+ 5.1
 
 **2004 • NR • 2h 41m • Hindi • Action, Crime • mobe1969**

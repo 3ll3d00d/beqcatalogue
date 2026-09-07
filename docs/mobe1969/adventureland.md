@@ -1,5 +1,7 @@
 # Adventureland
 
+[Compare across authors](../../compare/?t=film-adventureland_16614)
+
 ## DTS-HD MA 5.1
 
 **2009 • R • 1h 47m • Comedy, Drama • mobe1969**

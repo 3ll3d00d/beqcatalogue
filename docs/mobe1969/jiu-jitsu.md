@@ -1,5 +1,7 @@
 # Jiu Jitsu
 
+[Compare across authors](../../compare/?t=film-jiu-jitsu_590706)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 42m • Fantasy, Action, Science Fiction • mobe1969**

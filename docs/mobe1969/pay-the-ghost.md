@@ -1,5 +1,7 @@
 # Pay the Ghost
 
+[Compare across authors](../../compare/?t=film-pay-the-ghost_290637)
+
 ## DTS-HD MA 5.1
 
 **2015 • 16 • 1h 34m • Fantasy, Horror, Mystery, Thriller • mobe1969**

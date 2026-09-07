@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-yeh-kaali-kaali-ankhein_153950)
+
 ## Season 1
 
 * DD+ Atmos

@@ -1,5 +1,7 @@
 # Mission: Impossible - Ghost Protocol
 
+[Compare across authors](../../compare/?t=film-mission-impossible-ghost-protocol_56292)
+
 ## TrueHD 7.1, DD+ 5.1
 
 **2011 • PG-13 • 2h 13m • Action, Thriller, Adventure • mobe1969**

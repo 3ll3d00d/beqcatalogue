@@ -1,5 +1,7 @@
 # Happy Birthday
 
+[Compare across authors](../../compare/?t=film-happy-birthday_920736)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 34m • Telugu • Action, Comedy, Thriller • mobe1969**

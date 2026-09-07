@@ -1,5 +1,7 @@
 # Colonials
 
+[Compare across authors](../../compare/?t=film-colonials_1100964)
+
 ## DD+ 5.1
 
 **2023 • 15 • 1h 20m • Science Fiction, Action • mobe1969**

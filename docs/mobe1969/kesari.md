@@ -1,5 +1,7 @@
 # Kesari
 
+[Compare across authors](../../compare/?t=film-kesari_498448)
+
 ## DD+ 5.1
 
 **2019 • 15 • 2h 31m • Hindi • Action, Drama, History, War • mobe1969**

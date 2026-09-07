@@ -1,5 +1,7 @@
 # Battle: Los Angeles
 
+[Compare across authors](../../compare/?t=film-battle-los-angeles_44943)
+
 ## DD+ 5.1
 
 **2011 • PG-13 • 1h 56m • Science Fiction, Action • mobe1969**

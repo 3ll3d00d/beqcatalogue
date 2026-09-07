@@ -1,5 +1,7 @@
 # Gangnam Zombie
 
+[Compare across authors](../../compare/?t=film-gangnam-zombie_996525)
+
 ## DTS-HD MA 5.1
 
 **2023 • NR • 1h 21m • Korean • Horror, Drama, Action • mobe1969**

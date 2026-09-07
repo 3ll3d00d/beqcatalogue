@@ -1,5 +1,7 @@
 # Source Code
 
+[Compare across authors](../../compare/?t=film-source-code_45612)
+
 ## Atmos
 
 **2011 • PG-13 • 1h 34m • Thriller, Science Fiction, Mystery • mobe1969**

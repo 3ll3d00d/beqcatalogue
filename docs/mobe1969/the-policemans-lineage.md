@@ -1,5 +1,7 @@
 # The Policeman's Lineage
 
+[Compare across authors](../../compare/?t=film-the-policemans-lineage_610321)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 59m • Korean • Crime, Drama • mobe1969**

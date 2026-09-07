@@ -1,5 +1,7 @@
 # Pressure
 
+[Compare across authors](../../compare/?t=film-pressure_252164)
+
 ## TrueHD 5.1
 
 **2015 • R • 1h 31m • Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Killer
 
+[Compare across authors](../../compare/?t=film-the-killer_466190)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 39m • Spanish • Action, Western • mobe1969**

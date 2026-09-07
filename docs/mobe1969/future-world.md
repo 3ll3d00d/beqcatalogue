@@ -1,5 +1,7 @@
 # Future World
 
+[Compare across authors](../../compare/?t=film-future-world_411135)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 28m • Science Fiction • mobe1969**

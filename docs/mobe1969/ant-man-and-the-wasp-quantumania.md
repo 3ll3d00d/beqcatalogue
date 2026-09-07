@@ -1,5 +1,7 @@
 # Ant-Man and the Wasp: Quantumania
 
+[Compare across authors](../../compare/?t=film-ant-man-and-the-wasp-quantumania_640146)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2023 • PG-13 • 2h 5m • Action, Adventure, Science Fiction • mobe1969**

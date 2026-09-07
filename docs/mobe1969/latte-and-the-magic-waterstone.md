@@ -1,5 +1,7 @@
 # Latte and the Magic Waterstone
 
+[Compare across authors](../../compare/?t=film-latte-and-the-magic-waterstone_586954)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 29m • Animation, Adventure, Family, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # G Storm
 
+[Compare across authors](../../compare/?t=film-g-storm_814785)
+
 ## Atmos
 
 **2021 • NR • 1h 33m • Cantonese • Action, Thriller • mobe1969**

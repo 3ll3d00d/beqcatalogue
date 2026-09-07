@@ -1,5 +1,7 @@
 # House of Inequity
 
+[Compare across authors](../../compare/?t=film-house-of-inequity_852910)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 47m • Horror • mobe1969**

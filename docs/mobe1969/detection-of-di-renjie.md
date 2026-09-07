@@ -1,5 +1,7 @@
 # Detection of Di Renjie
 
+[Compare across authors](../../compare/?t=film-detection-of-di-renjie_663442)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 33m • Mandarin • Action, Drama, Thriller • mobe1969**

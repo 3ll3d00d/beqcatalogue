@@ -1,5 +1,7 @@
 # Aftershock
 
+[Compare across authors](../../compare/?t=film-aftershock_123103)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 29m • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Captain Underpants: The First Epic Movie
 
+[Compare across authors](../../compare/?t=film-captain-underpants-the-first-epic-movie_268531)
+
 ## Atmos, DD+ 5.1
 
 **2017 • PG • 1h 29m • Action, Animation, Comedy, Family • mobe1969**

@@ -1,5 +1,7 @@
 # Guy Ritchie's The Covenant
 
+[Compare across authors](../../compare/?t=film-guy-ritchies-the-covenant_882569)
+
 ## Atmos, DD+ Atmos
 
 **2023 • R • 2h 3m • War, Action, Thriller • mobe1969**

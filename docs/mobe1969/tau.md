@@ -1,5 +1,7 @@
 # TAU
 
+[Compare across authors](../../compare/?t=film-tau_411143)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 37m • Science Fiction, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Lonely Hearts
 
+[Compare across authors](../../compare/?t=film-lonely-hearts_1252)
+
 ## DD+ 2.0
 
 **2006 • R • 1h 48m • Drama, Thriller, Crime, Romance • mobe1969**

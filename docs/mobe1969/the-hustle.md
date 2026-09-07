@@ -1,5 +1,7 @@
 # The Hustle
 
+[Compare across authors](../../compare/?t=film-the-hustle_449562)
+
 ## DTS-HD MA 7.1
 
 **2019 • PG-13 • 1h 34m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Police Story: Lockdown
 
+[Compare across authors](../../compare/?t=film-police-story-lockdown_219572)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 48m • Mandarin • Action, Crime, Drama, Thriller • mobe1969**

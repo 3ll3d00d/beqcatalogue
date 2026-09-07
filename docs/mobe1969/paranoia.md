@@ -1,5 +1,7 @@
 # Paranoia
 
+[Compare across authors](../../compare/?t=film-paranoia_115348)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 46m • Drama, Thriller • mobe1969**

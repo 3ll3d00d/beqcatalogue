@@ -1,5 +1,7 @@
 # Veer-Zaara
 
+[Compare across authors](../../compare/?t=film-veer-zaara_4251)
+
 ## DD+ 5.1
 
 **2004 • PG • 3h 12m • Hindi • Drama, Romance • mobe1969**

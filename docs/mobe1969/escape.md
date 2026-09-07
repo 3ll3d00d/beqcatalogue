@@ -1,5 +1,7 @@
 # Escape
 
+[Compare across authors](../../compare/?t=film-escape_136080)
+
 ## DTS-HD MA 5.1
 
 **2012 • 16 • 1h 16m • Norwegian • Action, History • mobe1969**

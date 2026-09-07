@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-las-finest_85385)
+
 ## Season 1
 
 * DD+ 5.1

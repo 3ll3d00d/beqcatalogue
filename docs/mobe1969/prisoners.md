@@ -1,5 +1,7 @@
 # Prisoners
 
+[Compare across authors](../../compare/?t=film-prisoners_146233)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 2h 33m • Drama, Thriller, Crime • mobe1969**

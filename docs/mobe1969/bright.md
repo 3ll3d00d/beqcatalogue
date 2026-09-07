@@ -1,5 +1,7 @@
 # Bright
 
+[Compare across authors](../../compare/?t=film-bright_400106)
+
 ## DD+ Atmos
 
 **2017 • R • 1h 57m • Fantasy, Action, Thriller • mobe1969**

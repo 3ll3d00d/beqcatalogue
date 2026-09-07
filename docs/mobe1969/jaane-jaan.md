@@ -1,5 +1,7 @@
 # Jaane Jaan
 
+[Compare across authors](../../compare/?t=film-jaane-jaan_950071)
+
 ## DD+ Atmos
 
 **2023 • R • 2h 19m • Hindi • Crime, Thriller • mobe1969**

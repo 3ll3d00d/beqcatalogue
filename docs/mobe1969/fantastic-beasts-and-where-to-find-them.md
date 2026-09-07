@@ -1,5 +1,7 @@
 # Fantastic Beasts and Where to Find Them
 
+[Compare across authors](../../compare/?t=film-fantastic-beasts-and-where-to-find-them_259316)
+
 ## Atmos
 
 **2016 • PG-13 • 2h 12m • Fantasy, Adventure, Action • mobe1969**

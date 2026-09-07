@@ -1,5 +1,7 @@
 # National Lampoon's Christmas Vacation
 
+[Compare across authors](../../compare/?t=film-national-lampoons-christmas-vacation_5825)
+
 ## DTS-HD MA 5.1
 
 **1989 • PG-13 • 1h 37m • Comedy • mobe1969**

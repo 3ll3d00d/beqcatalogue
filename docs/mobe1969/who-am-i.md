@@ -1,5 +1,7 @@
 # Who Am I
 
+[Compare across authors](../../compare/?t=film-who-am-i_284427)
+
 ## DD+ 5.1
 
 **2014 • NR • 1h 45m • German • Thriller • mobe1969**

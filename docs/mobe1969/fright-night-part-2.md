@@ -1,5 +1,7 @@
 # Fright Night Part 2
 
+[Compare across authors](../../compare/?t=film-fright-night-part-2_18086)
+
 ## DTS-HD MA 2.0
 
 **1988 • R • 1h 44m • Comedy, Horror • mobe1969**

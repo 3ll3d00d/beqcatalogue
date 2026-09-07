@@ -1,5 +1,7 @@
 # Amigos
 
+[Compare across authors](../../compare/?t=film-amigos_1034587)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 17m • Telugu • Action, Thriller • mobe1969**

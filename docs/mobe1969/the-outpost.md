@@ -1,5 +1,7 @@
 # The Outpost
 
+[Compare across authors](../../compare/?t=film-the-outpost_531876)
+
 ## DD+ 5.1
 
 **2020 • R • 2h 3m • War, Drama, History, Action • mobe1969**

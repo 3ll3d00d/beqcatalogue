@@ -1,5 +1,7 @@
 # Last of the Dogmen
 
+[Compare across authors](../../compare/?t=film-last-of-the-dogmen_30718)
+
 ## DTS-HD MA 5.1
 
 **1995 • PG • 1h 58m • Adventure, Mystery, Thriller, Western • mobe1969**

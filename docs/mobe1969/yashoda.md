@@ -1,5 +1,7 @@
 # Yashoda
 
+[Compare across authors](../../compare/?t=film-yashoda_900222)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 15m • Telugu • Crime, Thriller, Drama • mobe1969**

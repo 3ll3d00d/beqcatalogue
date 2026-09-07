@@ -1,5 +1,7 @@
 # Black Money
 
+[Compare across authors](../../compare/?t=film-black-money_603314)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 53m • Korean • Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Halloween II
 
+[Compare across authors](../../compare/?t=film-halloween-ii_11281)
+
 ## Atmos
 
 **1981 • R • 1h 32m • Horror, Thriller • mobe1969**

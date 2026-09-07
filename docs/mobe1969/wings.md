@@ -1,5 +1,7 @@
 # Wings
 
+[Compare across authors](../../compare/?t=film-wings_132563)
+
 ## DTS-HD MA 5.1
 
 **2012 • G • 1h 24m • Animation, Adventure, Comedy • mobe1969**

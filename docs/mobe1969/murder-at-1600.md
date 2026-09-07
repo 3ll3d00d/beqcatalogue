@@ -1,5 +1,7 @@
 # Murder at 1600
 
+[Compare across authors](../../compare/?t=film-murder-at-1600_9415)
+
 ## DD+ 5.1
 
 **1997 • R • 1h 47m • Action, Drama, Mystery, Thriller, Crime • mobe1969**

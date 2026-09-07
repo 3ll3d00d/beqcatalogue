@@ -1,5 +1,7 @@
 # Don't Listen
 
+[Compare across authors](../../compare/?t=film-dont-listen_726208)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 38m • Spanish • Drama, Horror, Thriller • mobe1969**

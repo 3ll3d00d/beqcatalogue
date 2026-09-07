@@ -1,5 +1,7 @@
 # United 93
 
+[Compare across authors](../../compare/?t=film-united-93_9829)
+
 ## DD+ 5.1
 
 **2006 • R • 1h 51m • Drama, History, Crime, Thriller, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Saints and Soldiers 2: Airborne Creed
 
+[Compare across authors](../../compare/?t=film-saints-and-soldiers-2-airborne-creed_133558)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 34m • Action, War, Drama • mobe1969**

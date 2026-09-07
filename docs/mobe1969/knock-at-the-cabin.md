@@ -1,5 +1,7 @@
 # Knock at the Cabin
 
+[Compare across authors](../../compare/?t=film-knock-at-the-cabin_631842)
+
 ## Atmos
 
 **2023 • R • 1h 40m • Horror • mobe1969**

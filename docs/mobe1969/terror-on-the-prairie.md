@@ -1,5 +1,7 @@
 # Terror on the Prairie
 
+[Compare across authors](../../compare/?t=film-terror-on-the-prairie_884315)
+
 ## DTS-HD MA 5.1
 
 **2022 • 18 • 1h 47m • Western, Action, Thriller • mobe1969**

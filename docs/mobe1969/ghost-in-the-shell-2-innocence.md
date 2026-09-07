@@ -1,5 +1,7 @@
 # Ghost in the Shell 2: Innocence
 
+[Compare across authors](../../compare/?t=film-ghost-in-the-shell-2-innocence_12140)
+
 ## DTS-X
 
 **2004 • PG-13 • 1h 40m • Japanese • Animation, Drama, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # The Texas Chainsaw Massacre
 
+[Compare across authors](../../compare/?t=film-the-texas-chainsaw-massacre_9373)
+
 ## TrueHD 5.1
 
 **2003 • R • 1h 38m • Horror • mobe1969**

@@ -1,5 +1,7 @@
 # WALL·E
 
+[Compare across authors](../../compare/?t=film-walle_10681)
+
 ## Atmos
 
 **2008 • G • 1h 38m • Animation, Family, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Four Christmases
 
+[Compare across authors](../../compare/?t=film-four-christmases_12193)
+
 ## TrueHD 5.1
 
 **2008 • PG-13 • 1h 28m • Comedy, Romance, Drama • mobe1969**

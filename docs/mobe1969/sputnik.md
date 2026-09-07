@@ -1,5 +1,7 @@
 # Sputnik
 
+[Compare across authors](../../compare/?t=film-sputnik_594718)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 53m • Russian • Science Fiction, Drama, Horror • mobe1969**

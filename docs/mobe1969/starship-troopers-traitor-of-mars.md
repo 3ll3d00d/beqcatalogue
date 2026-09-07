@@ -1,5 +1,7 @@
 # Starship Troopers: Traitor of Mars
 
+[Compare across authors](../../compare/?t=film-starship-troopers-traitor-of-mars_460790)
+
 ## Atmos
 
 **2017 • R • 1h 27m • Action, Animation, Science Fiction • mobe1969**

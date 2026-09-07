@@ -1,5 +1,7 @@
 # Backcountry
 
+[Compare across authors](../../compare/?t=film-backcountry_228973)
+
 ## DTS-HD MA 7.1
 
 **2014 • R • 1h 32m • Thriller, Drama, Horror • mobe1969**

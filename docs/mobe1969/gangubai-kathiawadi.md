@@ -1,5 +1,7 @@
 # Gangubai Kathiawadi
 
+[Compare across authors](../../compare/?t=film-gangubai-kathiawadi_664332)
+
 ## DD+ 5.1
 
 **2022 • MA15+ • 2h 37m • Hindi • Crime, Drama, History • mobe1969**

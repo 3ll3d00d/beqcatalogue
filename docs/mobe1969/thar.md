@@ -1,5 +1,7 @@
 # Thar
 
+[Compare across authors](../../compare/?t=film-thar_941596)
+
 ## DD+ Atmos
 
 **2022 • 18 • 1h 48m • Hindi • Western, Action, Thriller, Drama, Crime • mobe1969**

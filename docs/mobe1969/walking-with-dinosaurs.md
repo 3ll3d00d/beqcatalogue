@@ -1,5 +1,7 @@
 # Walking with Dinosaurs
 
+[Compare across authors](../../compare/?t=film-walking-with-dinosaurs_77951)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG • 1h 27m • Animation, Family, Adventure • mobe1969**

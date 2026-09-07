@@ -1,5 +1,7 @@
 # Summer of 84
 
+[Compare across authors](../../compare/?t=film-summer-of-84_470229)
+
 ## DTS-HD MA 5.1
 
 **2018 • MA15+ • 1h 45m • Drama, Horror, Thriller, Mystery • mobe1969**

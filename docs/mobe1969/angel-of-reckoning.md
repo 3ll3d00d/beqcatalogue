@@ -1,5 +1,7 @@
 # Angel of Reckoning
 
+[Compare across authors](../../compare/?t=film-angel-of-reckoning_417033)
+
 ## DD+ 2.0
 
 **2016 • NR • 1h 44m • Action, Horror, Thriller • mobe1969**

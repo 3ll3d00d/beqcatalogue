@@ -1,5 +1,7 @@
 # Against the Ice
 
+[Compare across authors](../../compare/?t=film-against-the-ice_836009)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 41m • Adventure, History, Drama • mobe1969**

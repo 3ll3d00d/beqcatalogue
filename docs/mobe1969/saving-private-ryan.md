@@ -1,5 +1,7 @@
 # Saving Private Ryan
 
+[Compare across authors](../../compare/?t=film-saving-private-ryan_857)
+
 ## Atmos
 
 **1998 • R • 2h 49m • War, History, Drama • mobe1969**

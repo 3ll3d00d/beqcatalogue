@@ -1,5 +1,7 @@
 # Scrooged
 
+[Compare across authors](../../compare/?t=film-scrooged_9647)
+
 ## DD+ 5.1
 
 **1988 • PG-13 • 1h 41m • Fantasy, Comedy, Drama • mobe1969**

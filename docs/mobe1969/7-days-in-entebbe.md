@@ -1,5 +1,7 @@
 # 7 Days in Entebbe
 
+[Compare across authors](../../compare/?t=film-7-days-in-entebbe_433627)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 47m • Thriller, Drama, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Twin Peaks
 
+[Compare across authors](../../compare/?t=film-twin-peaks_452522)
+
 ## DTS-HD MA 7.1
 
 **1990 • NR • 1h 56m • Crime, Drama, Mystery, TV Movie • mobe1969**

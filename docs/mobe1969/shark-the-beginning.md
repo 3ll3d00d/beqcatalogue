@@ -1,5 +1,7 @@
 # Shark: The Beginning
 
+[Compare across authors](../../compare/?t=film-shark-the-beginning_801604)
+
 ## DD 5.1
 
 **2021 • NR • 1h 48m • Korean • Action • mobe1969**

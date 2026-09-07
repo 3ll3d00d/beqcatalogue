@@ -1,5 +1,7 @@
 # The Peacemaker
 
+[Compare across authors](../../compare/?t=film-the-peacemaker_6623)
+
 ## DTS-HD MA 5.1
 
 **1997 • R • 2h 4m • Action, Thriller • mobe1969**

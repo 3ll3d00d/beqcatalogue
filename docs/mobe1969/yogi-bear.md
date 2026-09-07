@@ -1,5 +1,7 @@
 # Yogi Bear
 
+[Compare across authors](../../compare/?t=film-yogi-bear_41515)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG • 1h 20m • Comedy, Family, Animation, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Ron's Gone Wrong
 
+[Compare across authors](../../compare/?t=film-rons-gone-wrong_482321)
+
 ## Atmos, DD+ Atmos
 
 **2021 • PG • 1h 47m • Animation, Science Fiction, Family, Comedy • mobe1969**

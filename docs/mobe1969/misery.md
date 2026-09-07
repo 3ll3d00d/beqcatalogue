@@ -1,5 +1,7 @@
 # Misery
 
+[Compare across authors](../../compare/?t=film-misery_1700)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 1h 47m • Drama, Thriller • mobe1969**

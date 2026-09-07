@@ -1,5 +1,7 @@
 # Jawan
 
+[Compare across authors](../../compare/?t=film-jawan_872906)
+
 ## DD+ 5.1
 
 Extended Cut

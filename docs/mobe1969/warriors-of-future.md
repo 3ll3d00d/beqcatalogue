@@ -1,5 +1,7 @@
 # Warriors of Future
 
+[Compare across authors](../../compare/?t=film-warriors-of-future_518896)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 1h 41m • Cantonese • Science Fiction, Action • mobe1969**

@@ -1,5 +1,7 @@
 # A Tourist's Guide to Love
 
+[Compare across authors](../../compare/?t=film-a-tourists-guide-to-love_813726)
+
 ## DD+ Atmos
 
 **2023 • PG • 1h 36m • Romance • mobe1969**

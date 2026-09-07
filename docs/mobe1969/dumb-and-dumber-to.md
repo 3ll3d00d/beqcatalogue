@@ -1,5 +1,7 @@
 # Dumb and Dumber To
 
+[Compare across authors](../../compare/?t=film-dumb-and-dumber-to_100042)
+
 ## DTS-HD MA 5.1
 
 **2014 • PG-13 • 1h 50m • Comedy • mobe1969**

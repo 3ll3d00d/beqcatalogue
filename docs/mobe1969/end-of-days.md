@@ -1,5 +1,7 @@
 # End of Days
 
+[Compare across authors](../../compare/?t=film-end-of-days_9946)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 2h 1m • Action, Mystery, Horror, Fantasy • mobe1969**

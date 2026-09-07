@@ -1,5 +1,7 @@
 # Black Christmas
 
+[Compare across authors](../../compare/?t=film-black-christmas_9656)
+
 ## TrueHD 5.1
 
 **2006 • R • 1h 24m • Horror, Thriller, Mystery • mobe1969**

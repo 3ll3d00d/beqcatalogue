@@ -1,5 +1,7 @@
 # Three Kings
 
+[Compare across authors](../../compare/?t=film-three-kings_6415)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 54m • Action, Comedy, War • mobe1969**

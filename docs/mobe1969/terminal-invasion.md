@@ -1,5 +1,7 @@
 # Terminal Invasion
 
+[Compare across authors](../../compare/?t=film-terminal-invasion_40217)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 1h 24m • Horror, Science Fiction, Thriller, TV Movie • mobe1969**

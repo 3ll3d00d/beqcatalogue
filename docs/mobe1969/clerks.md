@@ -1,5 +1,7 @@
 # Clerks
 
+[Compare across authors](../../compare/?t=film-clerks_2292)
+
 ## DTS-HD MA 5.1
 
 **1994 • R • 1h 32m • Comedy • mobe1969**

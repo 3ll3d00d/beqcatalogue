@@ -1,5 +1,7 @@
 # Kantara
 
+[Compare across authors](../../compare/?t=film-kantara_858485)
+
 ## DD+ 5.1
 
 **2022 • NR • 2h 27m • Hindi • Mystery, Action, Thriller • mobe1969**

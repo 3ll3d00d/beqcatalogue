@@ -1,5 +1,7 @@
 # Dragon Ball Super: Super Hero
 
+[Compare across authors](../../compare/?t=film-dragon-ball-super-super-hero_610150)
+
 ## Atmos
 
 **2022 • PG-13 • 1h 39m • Japanese • Animation, Science Fiction, Action • mobe1969**

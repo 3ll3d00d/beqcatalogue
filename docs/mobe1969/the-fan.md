@@ -1,5 +1,7 @@
 # The Fan
 
+[Compare across authors](../../compare/?t=film-the-fan_9566)
+
 ## DTS-HD MA 5.1
 
 **1996 • R • 1h 56m • Action, Thriller • mobe1969**

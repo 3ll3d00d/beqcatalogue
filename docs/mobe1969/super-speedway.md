@@ -1,5 +1,7 @@
 # Super Speedway
 
+[Compare across authors](../../compare/?t=film-super-speedway_21749)
+
 ## DTS-HD MA 5.1
 
 **1997 • NR • 0h 50m • Documentary • mobe1969**

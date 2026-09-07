@@ -1,5 +1,7 @@
 # Miss Bala
 
+[Compare across authors](../../compare/?t=film-miss-bala_500852)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG-13 • 1h 44m • Action • mobe1969**

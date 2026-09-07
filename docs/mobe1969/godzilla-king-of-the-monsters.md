@@ -1,5 +1,7 @@
 # Godzilla: King of the Monsters
 
+[Compare across authors](../../compare/?t=film-godzilla-king-of-the-monsters_373571)
+
 ## Atmos, DD+ Atmos
 
 **2019 • PG-13 • 2h 12m • Science Fiction, Action • mobe1969**

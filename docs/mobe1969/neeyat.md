@@ -1,5 +1,7 @@
 # Neeyat
 
+[Compare across authors](../../compare/?t=film-neeyat_968748)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 12m • Hindi • Crime, Thriller, Mystery • mobe1969**

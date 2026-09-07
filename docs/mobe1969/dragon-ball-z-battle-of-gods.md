@@ -1,5 +1,7 @@
 # Dragon Ball Z: Battle of Gods
 
+[Compare across authors](../../compare/?t=film-dragon-ball-z-battle-of-gods_126963)
+
 ## DD+ 5.1
 
 Extended Cut

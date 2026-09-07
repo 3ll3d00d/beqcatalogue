@@ -1,5 +1,7 @@
 # The Child's Eye
 
+[Compare across authors](../../compare/?t=film-the-childs-eye_51322)
+
 ## DTS-HD MA 7.1
 
 **2010 • NR • 1h 37m • Cantonese • Horror • mobe1969**

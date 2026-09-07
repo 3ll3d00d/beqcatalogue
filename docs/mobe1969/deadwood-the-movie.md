@@ -1,5 +1,7 @@
 # Deadwood: The Movie
 
+[Compare across authors](../../compare/?t=film-deadwood-the-movie_538225)
+
 ## DD 5.1
 
 **2019 • R • 1h 50m • TV Movie, Western, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Les Misérables
 
+[Compare across authors](../../compare/?t=film-les-miserables_4415)
+
 ## DTS-HD MA 5.1
 
 **1998 • PG-13 • 2h 14m • Crime, Drama, History, Romance • mobe1969**

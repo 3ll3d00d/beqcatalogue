@@ -1,5 +1,7 @@
 # The Possession
 
+[Compare across authors](../../compare/?t=film-the-possession_77883)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 32m • Thriller, Horror • mobe1969**

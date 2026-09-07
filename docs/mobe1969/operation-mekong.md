@@ -1,5 +1,7 @@
 # Operation Mekong
 
+[Compare across authors](../../compare/?t=film-operation-mekong_415214)
+
 ## DTS-X
 
 **2016 • R • 2h 4m • Mandarin • Action, Adventure, Crime, War • mobe1969**

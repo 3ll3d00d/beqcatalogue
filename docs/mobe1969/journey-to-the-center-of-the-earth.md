@@ -1,5 +1,7 @@
 # Journey to the Center of the Earth
 
+[Compare across authors](../../compare/?t=film-journey-to-the-center-of-the-earth_88751)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG • 1h 33m • Action, Science Fiction, Adventure, Comedy, Family • mobe1969**

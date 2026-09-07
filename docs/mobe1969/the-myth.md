@@ -1,5 +1,7 @@
 # The Myth
 
+[Compare across authors](../../compare/?t=film-the-myth_11653)
+
 ## DD+ 5.1
 
 **2005 • PG-13 • 1h 58m • Cantonese • Action, Adventure, Comedy, Drama, Fantasy • mobe1969**

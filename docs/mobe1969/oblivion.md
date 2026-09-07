@@ -1,5 +1,7 @@
 # Oblivion
 
+[Compare across authors](../../compare/?t=film-oblivion_75612)
+
 ## Atmos
 
 **2013 • PG-13 • 2h 4m • Action, Science Fiction, Adventure, Mystery • mobe1969**

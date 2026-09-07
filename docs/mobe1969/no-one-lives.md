@@ -1,5 +1,7 @@
 # No One Lives
 
+[Compare across authors](../../compare/?t=film-no-one-lives_123109)
+
 ## TrueHD 5.1
 
 **2012 • R • 1h 26m • Horror, Thriller • mobe1969**

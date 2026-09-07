@@ -1,5 +1,7 @@
 # City of War
 
+[Compare across authors](../../compare/?t=film-city-of-war_5937)
+
 ## DTS-HD MA 5.1
 
 **2009 • 15 • 2h 14m • War, Drama, History • mobe1969**

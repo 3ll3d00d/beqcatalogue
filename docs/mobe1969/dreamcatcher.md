@@ -1,5 +1,7 @@
 # Dreamcatcher
 
+[Compare across authors](../../compare/?t=film-dreamcatcher_6171)
+
 ## DTS-HD MA 5.1
 
 **2003 • R • 2h 16m • Thriller, Science Fiction, Horror, Drama • mobe1969**

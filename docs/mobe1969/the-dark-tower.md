@@ -1,5 +1,7 @@
 # The Dark Tower
 
+[Compare across authors](../../compare/?t=film-the-dark-tower_353491)
+
 ## Atmos, DD+ 5.1
 
 **2017 • PG-13 • 1h 35m • Fantasy, Action, Science Fiction • mobe1969**

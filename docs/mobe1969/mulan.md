@@ -1,5 +1,7 @@
 # Mulan
 
+[Compare across authors](../../compare/?t=film-mulan_337401)
+
 ## Atmos, DTS-HD MA 7.1
 
 **2020 • PG-13 • 1h 55m • Adventure, Fantasy, Drama, Action • mobe1969**

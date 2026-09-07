@@ -1,5 +1,7 @@
 # Blade
 
+[Compare across authors](../../compare/?t=film-blade_36647)
+
 ## Atmos
 
 **1998 • R • 2h 0m • Horror, Action • mobe1969**

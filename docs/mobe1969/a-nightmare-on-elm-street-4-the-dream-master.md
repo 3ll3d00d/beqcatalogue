@@ -1,5 +1,7 @@
 # A Nightmare on Elm Street 4: The Dream Master
 
+[Compare across authors](../../compare/?t=film-a-nightmare-on-elm-street-4-the-dream-master_10131)
+
 ## DTS-HD MA 5.1
 
 **1988 • R • 1h 34m • Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Bluebeard
 
+[Compare across authors](../../compare/?t=film-bluebeard_435809)
+
 ## DTS-X
 
 **2017 • NR • 1h 57m • Korean • Mystery • mobe1969**

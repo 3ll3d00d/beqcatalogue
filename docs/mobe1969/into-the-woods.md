@@ -1,5 +1,7 @@
 # Into The Woods
 
+[Compare across authors](../../compare/?t=film-into-the-woods_224141)
+
 ## DTS-HD MA 7.1
 
 **2014 • PG • 2h 5m • Fantasy, Comedy • mobe1969**

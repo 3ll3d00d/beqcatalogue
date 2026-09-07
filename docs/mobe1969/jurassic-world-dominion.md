@@ -1,5 +1,7 @@
 # Jurassic World Dominion
 
+[Compare across authors](../../compare/?t=film-jurassic-world-dominion_507086)
+
 ## DD+ Atmos, DD+ 5.1
 
 Theatrical Cut

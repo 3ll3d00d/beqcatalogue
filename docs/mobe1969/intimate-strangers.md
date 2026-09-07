@@ -1,5 +1,7 @@
 # Intimate Strangers
 
+[Compare across authors](../../compare/?t=film-intimate-strangers_548352)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 55m • Korean • Drama, Comedy • mobe1969**

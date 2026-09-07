@@ -1,5 +1,7 @@
 # Kingdom II: Far and Away
 
+[Compare across authors](../../compare/?t=film-kingdom-ii-far-and-away_961420)
+
 ## DD+ 5.1
 
 **2022 • 15 • 2h 14m • Japanese • Action, Adventure, History, War • mobe1969**

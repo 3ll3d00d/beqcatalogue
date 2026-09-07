@@ -1,5 +1,7 @@
 # Forbidden Ground
 
+[Compare across authors](../../compare/?t=film-forbidden-ground_215814)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 35m • War, Drama, Action • mobe1969**

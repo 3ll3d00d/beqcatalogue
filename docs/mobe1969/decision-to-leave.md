@@ -1,5 +1,7 @@
 # Decision to Leave
 
+[Compare across authors](../../compare/?t=film-decision-to-leave_705996)
+
 ## Atmos
 
 **2022 • NR • 2h 18m • Korean • Thriller, Crime, Mystery, Drama, Romance • mobe1969**

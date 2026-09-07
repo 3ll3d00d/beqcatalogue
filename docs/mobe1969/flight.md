@@ -1,5 +1,7 @@
 # Flight
 
+[Compare across authors](../../compare/?t=film-flight_87502)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 2h 18m • Drama • mobe1969**

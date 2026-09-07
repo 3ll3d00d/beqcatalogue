@@ -1,5 +1,7 @@
 # Felon
 
+[Compare across authors](../../compare/?t=film-felon_13012)
+
 ## TrueHD 5.1
 
 **2008 • R • 1h 43m • Action, Crime, Drama, Mystery • mobe1969**

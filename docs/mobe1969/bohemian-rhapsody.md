@@ -1,5 +1,7 @@
 # Bohemian Rhapsody
 
+[Compare across authors](../../compare/?t=film-bohemian-rhapsody_424694)
+
 ## Atmos
 
 **2018 • PG-13 • 2h 15m • Music, Drama, History • mobe1969**

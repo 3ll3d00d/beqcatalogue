@@ -1,5 +1,7 @@
 # Son of a Gun
 
+[Compare across authors](../../compare/?t=film-son-of-a-gun_294652)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 48m • Action, Crime, Drama, Thriller • mobe1969**

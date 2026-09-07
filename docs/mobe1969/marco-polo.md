@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-marco-polo_60699)
+
 ## Season 1
 
 * DD+ 5.1

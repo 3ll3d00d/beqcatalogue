@@ -1,5 +1,7 @@
 # Wolf Hound
 
+[Compare across authors](../../compare/?t=film-wolf-hound_542196)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 2h 7m • War, Action • mobe1969**

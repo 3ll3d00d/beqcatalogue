@@ -1,5 +1,7 @@
 # Valhalla Rising
 
+[Compare across authors](../../compare/?t=film-valhalla-rising_37861)
+
 ## DTS-HD MA 5.1
 
 **2009 • NR • 1h 33m • Adventure, Drama, Action, Fantasy • mobe1969**

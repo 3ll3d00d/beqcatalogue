@@ -1,5 +1,7 @@
 # Salyut-7
 
+[Compare across authors](../../compare/?t=film-salyut-7_438740)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG-13 • 1h 51m • Russian • Action, Drama, Adventure • mobe1969**

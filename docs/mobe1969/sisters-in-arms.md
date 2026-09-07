@@ -1,5 +1,7 @@
 # Sisters in Arms
 
+[Compare across authors](../../compare/?t=film-sisters-in-arms_618326)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 52m • Action, Drama, War • mobe1969**

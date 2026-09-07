@@ -1,5 +1,7 @@
 # Ferry
 
+[Compare across authors](../../compare/?t=film-ferry_717192)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 46m • Dutch • Action, Crime, Drama • mobe1969**

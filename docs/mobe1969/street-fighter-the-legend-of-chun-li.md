@@ -1,5 +1,7 @@
 # Street Fighter: The Legend of Chun-Li
 
+[Compare across authors](../../compare/?t=film-street-fighter-the-legend-of-chun-li_15268)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

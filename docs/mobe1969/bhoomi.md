@@ -1,5 +1,7 @@
 # Bhoomi
 
+[Compare across authors](../../compare/?t=film-bhoomi_456567)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 15m • Hindi • Action, Drama • mobe1969**

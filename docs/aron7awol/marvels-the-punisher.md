@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-marvels-the-punisher_67178)
+
 ## Season 1
 
 * DD+ Atmos

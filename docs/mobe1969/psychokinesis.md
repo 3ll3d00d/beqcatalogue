@@ -1,5 +1,7 @@
 # Psychokinesis
 
+[Compare across authors](../../compare/?t=film-psychokinesis_452015)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 41m • Korean • Fantasy, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Imaginarium of Doctor Parnassus
 
+[Compare across authors](../../compare/?t=film-imaginarium-of-doctor-parnassus_8054)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 2h 3m • Adventure, Fantasy, Mystery • mobe1969**

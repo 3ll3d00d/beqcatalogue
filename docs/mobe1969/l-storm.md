@@ -1,5 +1,7 @@
 # L Storm
 
+[Compare across authors](../../compare/?t=film-l-storm_506492)
+
 ## Atmos
 
 **2018 • NR • 1h 37m • Cantonese • Action, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Disquiet
 
+[Compare across authors](../../compare/?t=film-disquiet_1072074)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 25m • Thriller, Horror, Mystery • mobe1969**

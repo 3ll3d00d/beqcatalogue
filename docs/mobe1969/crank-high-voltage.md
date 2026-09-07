@@ -1,5 +1,7 @@
 # Crank: High Voltage
 
+[Compare across authors](../../compare/?t=film-crank-high-voltage_15092)
+
 ## DTS-HD MA 7.1
 
 **2009 • R • 1h 36m • Action, Thriller, Crime • mobe1969**

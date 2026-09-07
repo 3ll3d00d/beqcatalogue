@@ -1,5 +1,7 @@
 # 2099: The Soldier Protocol
 
+[Compare across authors](../../compare/?t=film-2099-the-soldier-protocol_630737)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 22m • Action, Science Fiction • mobe1969**

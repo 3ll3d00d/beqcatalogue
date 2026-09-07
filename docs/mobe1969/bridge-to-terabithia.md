@@ -1,5 +1,7 @@
 # Bridge to Terabithia
 
+[Compare across authors](../../compare/?t=film-bridge-to-terabithia_1265)
+
 ## LPCM 5.1
 
 **2007 • PG • 1h 36m • Adventure, Drama, Family • mobe1969**

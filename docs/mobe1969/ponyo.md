@@ -1,5 +1,7 @@
 # Ponyo
 
+[Compare across authors](../../compare/?t=film-ponyo_12429)
+
 ## DTS-HD MA 5.1
 
 **2008 • G • 1h 40m • Japanese • Animation, Family • mobe1969**

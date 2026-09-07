@@ -1,5 +1,7 @@
 # Scouts Guide to the Zombie Apocalypse
 
+[Compare across authors](../../compare/?t=film-scouts-guide-to-the-zombie-apocalypse_273477)
+
 ## DD+ 5.1
 
 **2015 • R • 1h 33m • Comedy, Horror • mobe1969**

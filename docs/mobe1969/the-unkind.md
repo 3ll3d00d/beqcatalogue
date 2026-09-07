@@ -1,5 +1,7 @@
 # The Unkind
 
+[Compare across authors](../../compare/?t=film-the-unkind_891983)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 45m • Horror • mobe1969**

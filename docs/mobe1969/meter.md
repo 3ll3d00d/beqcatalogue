@@ -1,5 +1,7 @@
 # Meter
 
+[Compare across authors](../../compare/?t=film-meter_1001261)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 7m • Telugu • Comedy, Action, Romance • mobe1969**

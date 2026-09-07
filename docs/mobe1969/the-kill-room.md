@@ -1,5 +1,7 @@
 # The Kill Room
 
+[Compare across authors](../../compare/?t=film-the-kill-room_958006)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 38m • Crime, Thriller, Action • mobe1969**

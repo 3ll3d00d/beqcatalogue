@@ -1,5 +1,7 @@
 # Mind Blown
 
+[Compare across authors](../../compare/?t=film-mind-blown_429691)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 22m • Science Fiction, TV Movie • mobe1969**

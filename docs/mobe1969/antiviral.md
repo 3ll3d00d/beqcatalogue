@@ -1,5 +1,7 @@
 # Antiviral
 
+[Compare across authors](../../compare/?t=film-antiviral_125490)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 50m • Science Fiction, Horror • mobe1969**

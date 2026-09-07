@@ -1,5 +1,7 @@
 # Batman & Robin
 
+[Compare across authors](../../compare/?t=film-batman-robin_415)
+
 ## Atmos
 
 **1997 • PG-13 • 2h 5m • Science Fiction, Action, Fantasy • mobe1969**

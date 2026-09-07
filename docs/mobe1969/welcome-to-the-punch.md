@@ -1,5 +1,7 @@
 # Welcome to the Punch
 
+[Compare across authors](../../compare/?t=film-welcome-to-the-punch_93828)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 39m • Crime, Adventure, Action • mobe1969**

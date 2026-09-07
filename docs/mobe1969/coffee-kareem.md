@@ -1,5 +1,7 @@
 # Coffee & Kareem
 
+[Compare across authors](../../compare/?t=film-coffee-kareem_615177)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 28m • Comedy, Action, Crime • mobe1969**

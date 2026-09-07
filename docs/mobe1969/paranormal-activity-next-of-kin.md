@@ -1,5 +1,7 @@
 # Paranormal Activity: Next of Kin
 
+[Compare across authors](../../compare/?t=film-paranormal-activity-next-of-kin_609972)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 38m • Horror, Mystery, Thriller • mobe1969**

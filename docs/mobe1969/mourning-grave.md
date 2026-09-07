@@ -1,5 +1,7 @@
 # Mourning Grave
 
+[Compare across authors](../../compare/?t=film-mourning-grave_284063)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 1h 30m • Korean • Thriller, Horror • mobe1969**

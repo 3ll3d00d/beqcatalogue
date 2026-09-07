@@ -1,5 +1,7 @@
 # Pandora
 
+[Compare across authors](../../compare/?t=film-pandora_429450)
+
 ## DD+ 5.1
 
 **2016 • R • 2h 16m • Korean • Thriller, Drama, Action • mobe1969**

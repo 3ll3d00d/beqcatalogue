@@ -1,5 +1,7 @@
 # District B13
 
+[Compare across authors](../../compare/?t=film-district-b13_10045)
+
 ## DTS-HD MA 5.1
 
 **2004 • R • 1h 24m • French • Action, Thriller, Science Fiction • mobe1969**

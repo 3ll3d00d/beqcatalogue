@@ -1,5 +1,7 @@
 # Army of One
 
+[Compare across authors](../../compare/?t=film-army-of-one_336445)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 32m • Comedy • mobe1969**

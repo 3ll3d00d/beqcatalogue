@@ -1,5 +1,7 @@
 # The Hollow Point
 
+[Compare across authors](../../compare/?t=film-the-hollow-point_262982)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 34m • Action, Drama, Thriller • mobe1969**

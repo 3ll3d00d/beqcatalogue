@@ -1,5 +1,7 @@
 # The Con is On
 
+[Compare across authors](../../compare/?t=film-the-con-is-on_353576)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 30m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Dream Girl 2
 
+[Compare across authors](../../compare/?t=film-dream-girl-2_1025067)
+
 ## DD+ 5.1
 
 **2023 • 12A • 2h 14m • Hindi • Comedy, Romance • mobe1969**

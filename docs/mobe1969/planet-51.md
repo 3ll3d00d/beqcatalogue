@@ -1,5 +1,7 @@
 # Planet 51
 
+[Compare across authors](../../compare/?t=film-planet-51_16866)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG • 1h 31m • Animation, Family, Comedy, Science Fiction, Adventure • mobe1969**

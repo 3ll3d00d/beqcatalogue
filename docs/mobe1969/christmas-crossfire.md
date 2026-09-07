@@ -1,5 +1,7 @@
 # Christmas Crossfire
 
+[Compare across authors](../../compare/?t=film-christmas-crossfire_765123)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 45m • German • Comedy, Crime, Thriller • mobe1969**

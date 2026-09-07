@@ -1,5 +1,7 @@
 # Sinister
 
+[Compare across authors](../../compare/?t=film-sinister_82507)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 50m • Horror, Mystery, Thriller • mobe1969**

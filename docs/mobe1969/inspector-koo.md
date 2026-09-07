@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-inspector-koo_129475)
+
 ## Season 1
 
 * DD+ 2.0

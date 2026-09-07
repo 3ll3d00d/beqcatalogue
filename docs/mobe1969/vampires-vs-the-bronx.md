@@ -1,5 +1,7 @@
 # Vampires vs. the Bronx
 
+[Compare across authors](../../compare/?t=film-vampires-vs-the-bronx_567971)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 26m • Comedy, Horror • mobe1969**

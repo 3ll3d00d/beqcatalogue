@@ -1,5 +1,7 @@
 # The Addams Family
 
+[Compare across authors](../../compare/?t=film-the-addams-family_2907)
+
 ## DD+ 5.1
 
 **1991 • PG-13 • 1h 42m • Comedy, Fantasy • mobe1969**

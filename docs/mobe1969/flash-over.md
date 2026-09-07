@@ -1,5 +1,7 @@
 # Flash Over
 
+[Compare across authors](../../compare/?t=film-flash-over_949698)
+
 ## AAC 2.0
 
 **2023 • NR • 1h 54m • Mandarin • Drama, Action • mobe1969**

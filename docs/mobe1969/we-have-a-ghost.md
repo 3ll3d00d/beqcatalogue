@@ -1,5 +1,7 @@
 # We Have a Ghost
 
+[Compare across authors](../../compare/?t=film-we-have-a-ghost_852096)
+
 ## DD+ Atmos
 
 **2023 • PG-13 • 2h 7m • Adventure, Fantasy, Family, Comedy • mobe1969**

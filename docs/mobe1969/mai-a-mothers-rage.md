@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-mai-a-mothers-rage_195900)
+
 ## Season 1
 
 * DD+ Atmos

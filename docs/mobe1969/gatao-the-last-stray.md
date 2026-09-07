@@ -1,5 +1,7 @@
 # Gatao: The Last Stray
 
+[Compare across authors](../../compare/?t=film-gatao-the-last-stray_779221)
+
 ## DD+ 5.1
 
 **2021 • 15 • 2h 0m • Mandarin • Crime, Action • mobe1969**

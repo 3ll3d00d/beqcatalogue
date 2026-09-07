@@ -1,5 +1,7 @@
 # Jay and Silent Bob Strike Back
 
+[Compare across authors](../../compare/?t=film-jay-and-silent-bob-strike-back_2294)
+
 ## LPCM 5.1
 
 **2001 • R • 1h 44m • Comedy • mobe1969**

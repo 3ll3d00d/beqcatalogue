@@ -1,5 +1,7 @@
 # Die Hard: With a Vengeance
 
+[Compare across authors](../../compare/?t=film-die-hard-with-a-vengeance_1572)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 2h 8m • Thriller, Action • mobe1969**

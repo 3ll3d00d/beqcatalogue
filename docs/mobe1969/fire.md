@@ -1,5 +1,7 @@
 # Fire
 
+[Compare across authors](../../compare/?t=film-fire_585257)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 2h 11m • Russian • Action, Drama • mobe1969**

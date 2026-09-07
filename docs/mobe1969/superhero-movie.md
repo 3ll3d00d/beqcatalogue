@@ -1,5 +1,7 @@
 # Superhero Movie
 
+[Compare across authors](../../compare/?t=film-superhero-movie_11918)
+
 ## DD+ 5.1
 
 **2008 • PG-13 • 1h 25m • Action, Comedy, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Abigail
 
+[Compare across authors](../../compare/?t=film-abigail_575094)
+
 ## DD+ 5.1
 
 **2019 • PG • 1h 50m • Adventure, Fantasy, Mystery • mobe1969**

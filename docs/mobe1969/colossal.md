@@ -1,5 +1,7 @@
 # Colossal
 
+[Compare across authors](../../compare/?t=film-colossal_339967)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 49m • Drama, Fantasy, Science Fiction • mobe1969**

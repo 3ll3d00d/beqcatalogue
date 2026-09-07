@@ -1,5 +1,7 @@
 # The Matchmaker
 
+[Compare across authors](../../compare/?t=film-the-matchmaker_1102935)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 21m • Drama, Mystery, Thriller • mobe1969**

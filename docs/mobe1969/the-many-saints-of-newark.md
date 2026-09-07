@@ -1,5 +1,7 @@
 # The Many Saints of Newark
 
+[Compare across authors](../../compare/?t=film-the-many-saints-of-newark_524369)
+
 ## Atmos
 
 **2021 • R • 2h 0m • Crime, Drama • mobe1969**

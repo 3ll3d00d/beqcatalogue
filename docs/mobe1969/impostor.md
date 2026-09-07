@@ -1,5 +1,7 @@
 # Impostor
 
+[Compare across authors](../../compare/?t=film-impostor_1213)
+
 ## DTS-HD MA 5.1
 
 **2000 • R • 2h 19m • Thriller, Crime, Drama • mobe1969**

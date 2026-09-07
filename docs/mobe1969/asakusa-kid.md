@@ -1,5 +1,7 @@
 # Asakusa Kid
 
+[Compare across authors](../../compare/?t=film-asakusa-kid_768147)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • 15 • 2h 3m • Japanese • Drama • mobe1969**

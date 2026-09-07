@@ -1,5 +1,7 @@
 # The Heat
 
+[Compare across authors](../../compare/?t=film-the-heat_136795)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

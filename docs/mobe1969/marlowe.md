@@ -1,5 +1,7 @@
 # Marlowe
 
+[Compare across authors](../../compare/?t=film-marlowe_844417)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • R • 1h 49m • Mystery, Thriller, Crime • mobe1969**

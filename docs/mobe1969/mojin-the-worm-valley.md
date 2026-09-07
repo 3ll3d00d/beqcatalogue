@@ -1,5 +1,7 @@
 # Mojin: The Worm Valley
 
+[Compare across authors](../../compare/?t=film-mojin-the-worm-valley_571446)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 1h 50m • Mandarin • Action, Fantasy, Adventure • mobe1969**

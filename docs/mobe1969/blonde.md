@@ -1,5 +1,7 @@
 # Blonde
 
+[Compare across authors](../../compare/?t=film-blonde_301502)
+
 ## DD+ Atmos
 
 **2022 • NC-17 • 2h 47m • Drama • mobe1969**

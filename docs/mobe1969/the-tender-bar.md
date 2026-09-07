@@ -1,5 +1,7 @@
 # The Tender Bar
 
+[Compare across authors](../../compare/?t=film-the-tender-bar_727293)
+
 ## DD+ 5.1
 
 **2021 • R • 1h 44m • Drama • mobe1969**

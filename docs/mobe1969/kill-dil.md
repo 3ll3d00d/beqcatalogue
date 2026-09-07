@@ -1,5 +1,7 @@
 # Kill Dil
 
+[Compare across authors](../../compare/?t=film-kill-dil_296690)
+
 ## DD+ 5.1_to_mono
 
 **2014 • PG-13 • 2h 7m • Hindi • Action, Drama, Romance • mobe1969**

@@ -1,5 +1,7 @@
 # Hard Target 2
 
+[Compare across authors](../../compare/?t=film-hard-target-2_402331)
+
 ## DTS-HD MA 5.1
 
 **2016 • 15 • 1h 44m • Action, Thriller • mobe1969**

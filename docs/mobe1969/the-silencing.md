@@ -1,5 +1,7 @@
 # The Silencing
 
+[Compare across authors](../../compare/?t=film-the-silencing_603119)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 33m • Action, Crime, Thriller • mobe1969**

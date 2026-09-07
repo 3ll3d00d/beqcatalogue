@@ -1,5 +1,7 @@
 # The Apparition
 
+[Compare across authors](../../compare/?t=film-the-apparition_79694)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 22m • Horror, Thriller • mobe1969**

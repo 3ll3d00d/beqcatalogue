@@ -1,5 +1,7 @@
 # Ivanna
 
+[Compare across authors](../../compare/?t=film-ivanna_786535)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 43m • Indonesian • Horror • mobe1969**

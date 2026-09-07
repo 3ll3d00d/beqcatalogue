@@ -1,5 +1,7 @@
 # Lionheart
 
+[Compare across authors](../../compare/?t=film-lionheart_9399)
+
 ## DD+ 2.0
 
 **1990 • R • 1h 45m • Action • mobe1969**

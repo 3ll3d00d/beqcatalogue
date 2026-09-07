@@ -1,5 +1,7 @@
 # Bullet
 
+[Compare across authors](../../compare/?t=film-bullet_169298)
+
 ## TrueHD 5.1
 
 **2014 • R • 1h 27m • Action, Crime, Thriller • mobe1969**

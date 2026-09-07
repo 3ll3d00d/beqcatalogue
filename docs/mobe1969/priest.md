@@ -1,5 +1,7 @@
 # Priest
 
+[Compare across authors](../../compare/?t=film-priest_38321)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 27m • Horror, Action, Thriller • mobe1969**

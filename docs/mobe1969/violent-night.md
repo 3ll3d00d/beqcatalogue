@@ -1,5 +1,7 @@
 # Violent Night
 
+[Compare across authors](../../compare/?t=film-violent-night_899112)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 52m • Action, Comedy, Crime, Thriller • mobe1969**

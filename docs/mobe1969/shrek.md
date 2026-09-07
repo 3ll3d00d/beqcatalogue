@@ -1,5 +1,7 @@
 # Shrek
 
+[Compare across authors](../../compare/?t=film-shrek_808)
+
 ## DTS-X
 
 **2001 • PG • 1h 30m • Animation, Comedy, Fantasy, Adventure, Family • mobe1969**

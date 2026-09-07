@@ -1,5 +1,7 @@
 # Drishyam
 
+[Compare across authors](../../compare/?t=film-drishyam_352173)
+
 ## DD+ 5.1
 
 **2015 • R • 2h 43m • Hindi • Crime, Drama, Thriller, Mystery • mobe1969**

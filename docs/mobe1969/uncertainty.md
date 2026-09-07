@@ -1,5 +1,7 @@
 # Uncertainty
 
+[Compare across authors](../../compare/?t=film-uncertainty_28520)
+
 ## DTS-HD MA 5.1
 
 **2009 • NR • 1h 41m • Drama, Thriller, Romance • mobe1969**

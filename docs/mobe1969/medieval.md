@@ -1,5 +1,7 @@
 # Medieval
 
+[Compare across authors](../../compare/?t=film-medieval_551271)
+
 ## DD+ 5.1
 
 **2022 • R • 2h 6m • History, Drama, Action • mobe1969**

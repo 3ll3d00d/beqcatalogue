@@ -1,5 +1,7 @@
 # Edge of Winter
 
+[Compare across authors](../../compare/?t=film-edge-of-winter_402446)
+
 ## DD 5.1
 
 **2016 • NR • 1h 29m • Drama, Thriller • mobe1969**

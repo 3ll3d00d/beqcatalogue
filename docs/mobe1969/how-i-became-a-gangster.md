@@ -1,5 +1,7 @@
 # How I Became a Gangster
 
+[Compare across authors](../../compare/?t=film-how-i-became-a-gangster_660033)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 20m • Polish • Crime • mobe1969**

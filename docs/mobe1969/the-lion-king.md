@@ -1,5 +1,7 @@
 # The Lion King
 
+[Compare across authors](../../compare/?t=film-the-lion-king_420818)
+
 ## DTS-HD MA 7.1, Atmos, DD+ Atmos
 
 **2019 • PG • 1h 58m • Adventure, Drama, Family, Animation • mobe1969**

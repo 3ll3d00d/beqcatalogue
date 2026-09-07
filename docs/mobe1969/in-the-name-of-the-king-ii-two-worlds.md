@@ -1,5 +1,7 @@
 # In the Name of the King II: Two Worlds
 
+[Compare across authors](../../compare/?t=film-in-the-name-of-the-king-ii-two-worlds_80410)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 36m • Adventure, Fantasy, Drama, Action • mobe1969**

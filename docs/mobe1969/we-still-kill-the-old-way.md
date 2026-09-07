@@ -1,5 +1,7 @@
 # We Still Kill the Old Way
 
+[Compare across authors](../../compare/?t=film-we-still-kill-the-old-way_309049)
+
 ## DD+ 5.1
 
 **2014 • 18 • 1h 34m • Crime • mobe1969**

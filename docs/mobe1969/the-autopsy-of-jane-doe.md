@@ -1,5 +1,7 @@
 # The Autopsy of Jane Doe
 
+[Compare across authors](../../compare/?t=film-the-autopsy-of-jane-doe_397243)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 26m • Mystery, Horror • mobe1969**

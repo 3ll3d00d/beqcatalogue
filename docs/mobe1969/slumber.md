@@ -1,5 +1,7 @@
 # Slumber
 
+[Compare across authors](../../compare/?t=film-slumber_463602)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 24m • Horror • mobe1969**

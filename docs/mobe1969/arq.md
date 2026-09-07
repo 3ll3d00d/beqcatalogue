@@ -1,5 +1,7 @@
 # ARQ
 
+[Compare across authors](../../compare/?t=film-arq_410199)
+
 ## DD+ 5.1
 
 **2016 • R • 1h 28m • Science Fiction, Thriller • mobe1969**

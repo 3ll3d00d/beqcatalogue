@@ -1,5 +1,7 @@
 # The Sorcerer's Apprentice
 
+[Compare across authors](../../compare/?t=film-the-sorcerers-apprentice_27022)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG • 1h 49m • Fantasy, Action, Adventure • mobe1969**

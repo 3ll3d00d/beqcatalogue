@@ -1,5 +1,7 @@
 # BlacKkKlansman
 
+[Compare across authors](../../compare/?t=film-blackkklansman_487558)
+
 ## Atmos
 
 **2018 • R • 2h 15m • Comedy, Crime, Drama, History • mobe1969**

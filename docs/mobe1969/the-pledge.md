@@ -1,5 +1,7 @@
 # The Pledge
 
+[Compare across authors](../../compare/?t=film-the-pledge_5955)
+
 ## DD+ 5.1
 
 **2001 • R • 2h 3m • Crime, Drama, Mystery, Thriller • mobe1969**

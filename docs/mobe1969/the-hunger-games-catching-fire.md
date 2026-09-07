@@ -1,5 +1,7 @@
 # The Hunger Games: Catching Fire
 
+[Compare across authors](../../compare/?t=film-the-hunger-games-catching-fire_101299)
+
 ## Atmos
 
 **2013 • PG-13 • 2h 26m • Adventure, Action, Science Fiction • mobe1969**

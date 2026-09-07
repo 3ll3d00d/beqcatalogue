@@ -1,5 +1,7 @@
 # Classmates Minus
 
+[Compare across authors](../../compare/?t=film-classmates-minus_739267)
+
 ## DD+ 5.1
 
 **2020 • R • 2h 2m • Mandarin • Comedy, Drama • mobe1969**

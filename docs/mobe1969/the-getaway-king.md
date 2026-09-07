@@ -1,5 +1,7 @@
 # The Getaway King
 
+[Compare across authors](../../compare/?t=film-the-getaway-king_859453)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 36m • Polish • Comedy, Crime, Action • mobe1969**

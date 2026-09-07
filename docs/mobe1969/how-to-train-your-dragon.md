@@ -1,5 +1,7 @@
 # How to Train Your Dragon
 
+[Compare across authors](../../compare/?t=film-how-to-train-your-dragon_10191)
+
 ## DTS-X
 
 **2010 • PG • 1h 38m • Fantasy, Adventure, Animation, Family • mobe1969**

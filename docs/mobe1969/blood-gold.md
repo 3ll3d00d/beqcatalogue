@@ -1,5 +1,7 @@
 # Blood & Gold
 
+[Compare across authors](../../compare/?t=film-blood-gold_1098110)
+
 ## DD+ Atmos
 
 **2023 • NR • 1h 40m • German • Drama, War • mobe1969**

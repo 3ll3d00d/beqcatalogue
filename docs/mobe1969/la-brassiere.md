@@ -1,5 +1,7 @@
 # La Brassiere
 
+[Compare across authors](../../compare/?t=film-la-brassiere_45411)
+
 ## TrueHD 7.1
 
 **2001 • NR • 1h 45m • Cantonese • Drama, Comedy, Romance • mobe1969**

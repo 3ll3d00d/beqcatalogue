@@ -1,5 +1,7 @@
 # Daddy's Home
 
+[Compare across authors](../../compare/?t=film-daddys-home_274167)
+
 ## DTS-X
 
 **2015 • PG-13 • 1h 36m • Comedy • mobe1969**

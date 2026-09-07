@@ -1,5 +1,7 @@
 # Rambo: Last Blood
 
+[Compare across authors](../../compare/?t=film-rambo-last-blood_522938)
+
 ## Atmos
 
 Extended Cut

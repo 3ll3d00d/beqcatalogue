@@ -1,5 +1,7 @@
 # Pet Sematary
 
+[Compare across authors](../../compare/?t=film-pet-sematary_8913)
+
 ## DTS-HD MA 5.1
 
 **1989 • R • 1h 43m • Horror • mobe1969**

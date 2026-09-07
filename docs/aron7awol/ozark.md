@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-ozark_69740)
+
 ## Season 1
 
 * DD 5.1

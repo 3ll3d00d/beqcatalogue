@@ -1,5 +1,7 @@
 # Tunnel Rats
 
+[Compare across authors](../../compare/?t=film-tunnel-rats_20181)
+
 ## DTS-HD HR 5.1
 
 **2008 • R • 1h 32m • Drama, Action, War • mobe1969**

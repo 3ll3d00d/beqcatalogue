@@ -1,5 +1,7 @@
 # Operation Red Sea
 
+[Compare across authors](../../compare/?t=film-operation-red-sea_460555)
+
 ## DTS-X
 
 **2018 • R • 2h 19m • Mandarin • Action, Thriller, War, Drama • mobe1969**

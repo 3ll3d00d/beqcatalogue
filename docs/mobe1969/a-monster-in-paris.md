@@ -1,5 +1,7 @@
 # A Monster in Paris
 
+[Compare across authors](../../compare/?t=film-a-monster-in-paris_77459)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG • 1h 30m • Adventure, Animation, Comedy, Family, Fantasy • mobe1969**

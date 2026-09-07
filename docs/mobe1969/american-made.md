@@ -1,5 +1,7 @@
 # American Made
 
+[Compare across authors](../../compare/?t=film-american-made_337170)
+
 ## DTS-X, DD+ 5.1
 
 **2017 • R • 1h 55m • Action, Crime, Comedy • mobe1969**

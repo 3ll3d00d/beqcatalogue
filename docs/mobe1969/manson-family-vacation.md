@@ -1,5 +1,7 @@
 # Manson Family Vacation
 
+[Compare across authors](../../compare/?t=film-manson-family-vacation_323679)
+
 ## DD+ 5.1
 
 **2015 • NR • 1h 25m • Mystery, Comedy, Drama • mobe1969**

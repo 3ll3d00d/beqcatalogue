@@ -1,5 +1,7 @@
 # Ambush
 
+[Compare across authors](../../compare/?t=film-ambush_1074034)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 44m • Action, War, Thriller • mobe1969**

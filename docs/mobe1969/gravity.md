@@ -1,5 +1,7 @@
 # Gravity
 
+[Compare across authors](../../compare/?t=film-gravity_49047)
+
 ## Atmos
 
 **2013 • PG-13 • 1h 31m • Science Fiction, Thriller, Drama • mobe1969**

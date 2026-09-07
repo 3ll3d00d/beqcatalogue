@@ -1,5 +1,7 @@
 # Death Race: Inferno
 
+[Compare across authors](../../compare/?t=film-death-race-inferno_156717)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 45m • Science Fiction, Action, Thriller • mobe1969**

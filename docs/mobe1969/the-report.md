@@ -1,5 +1,7 @@
 # The Report
 
+[Compare across authors](../../compare/?t=film-the-report_524348)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 58m • Thriller, Drama • mobe1969**

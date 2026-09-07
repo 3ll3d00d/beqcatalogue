@@ -1,5 +1,7 @@
 # Coming to America
 
+[Compare across authors](../../compare/?t=film-coming-to-america_9602)
+
 ## DD+ 5.1
 
 **1988 • R • 1h 57m • Comedy, Romance • mobe1969**

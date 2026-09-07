@@ -1,5 +1,7 @@
 # The Tenants Downstairs
 
+[Compare across authors](../../compare/?t=film-the-tenants-downstairs_403032)
+
 ## TrueHD 5.1
 
 **2016 • NC-17 • 1h 56m • Mandarin • Drama, Mystery • mobe1969**

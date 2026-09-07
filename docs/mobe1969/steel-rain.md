@@ -1,5 +1,7 @@
 # Steel Rain
 
+[Compare across authors](../../compare/?t=film-steel-rain_435841)
+
 ## DD+ 5.1
 
 **2017 • NR • 2h 19m • Korean • Action, Thriller • mobe1969**

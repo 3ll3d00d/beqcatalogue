@@ -1,5 +1,7 @@
 # Chicken Little
 
+[Compare across authors](../../compare/?t=film-chicken-little_9982)
+
 ## DTS-HD MA 5.1
 
 **2005 • G • 1h 21m • Animation, Family, Comedy • mobe1969**

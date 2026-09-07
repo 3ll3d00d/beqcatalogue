@@ -1,5 +1,7 @@
 # A Private War
 
+[Compare across authors](../../compare/?t=film-a-private-war_475132)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 46m • War, Drama • mobe1969**

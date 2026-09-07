@@ -1,5 +1,7 @@
 # A Choo
 
+[Compare across authors](../../compare/?t=film-a-choo_288287)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 41m • Mandarin • Comedy, Romance • mobe1969**

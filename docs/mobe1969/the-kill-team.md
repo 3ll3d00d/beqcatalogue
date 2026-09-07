@@ -1,5 +1,7 @@
 # The Kill Team
 
+[Compare across authors](../../compare/?t=film-the-kill-team_489245)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 27m • Action, Drama, Thriller • mobe1969**

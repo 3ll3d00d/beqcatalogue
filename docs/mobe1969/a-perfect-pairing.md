@@ -1,5 +1,7 @@
 # A Perfect Pairing
 
+[Compare across authors](../../compare/?t=film-a-perfect-pairing_934761)
+
 ## DD+ Atmos
 
 **2022 • PG • 1h 41m • Comedy, Romance • mobe1969**

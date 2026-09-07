@@ -1,5 +1,7 @@
 # Neelavelicham
 
+[Compare across authors](../../compare/?t=film-neelavelicham_834660)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 14m • Malayalam • Horror, Romance • mobe1969**

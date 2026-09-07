@@ -1,5 +1,7 @@
 # Paradise City
 
+[Compare across authors](../../compare/?t=film-paradise-city_829799)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 33m • Action, Crime, Thriller • mobe1969**

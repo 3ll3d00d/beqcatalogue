@@ -1,5 +1,7 @@
 # Star Trek: Insurrection
 
+[Compare across authors](../../compare/?t=film-star-trek-insurrection_200)
+
 ## TrueHD 5.1
 
 **1998 • PG • 1h 43m • Science Fiction, Action, Adventure, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Avalon
 
+[Compare across authors](../../compare/?t=film-avalon_10881)
+
 ## TrueHD 5.1
 
 **2001 • R • 1h 47m • Polish • Action, Science Fiction • mobe1969**

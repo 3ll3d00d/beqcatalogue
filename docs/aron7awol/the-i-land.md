@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-the-i-land_90755)
+
 ## Season 1
 
 * DD+ Atmos

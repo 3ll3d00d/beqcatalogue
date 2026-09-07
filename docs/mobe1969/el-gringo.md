@@ -1,5 +1,7 @@
 # El Gringo
 
+[Compare across authors](../../compare/?t=film-el-gringo_102629)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 38m • Drama, Action, Adventure, Thriller • mobe1969**

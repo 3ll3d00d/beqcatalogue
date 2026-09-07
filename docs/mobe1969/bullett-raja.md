@@ -1,5 +1,7 @@
 # Bullett Raja
 
+[Compare across authors](../../compare/?t=film-bullett-raja_220495)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 2h 16m • Hindi • Action, Crime, Drama • mobe1969**

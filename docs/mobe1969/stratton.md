@@ -1,5 +1,7 @@
 # Stratton
 
+[Compare across authors](../../compare/?t=film-stratton_348389)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 34m • Action, Thriller • mobe1969**

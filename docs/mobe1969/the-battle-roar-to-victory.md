@@ -1,5 +1,7 @@
 # The Battle: Roar to Victory
 
+[Compare across authors](../../compare/?t=film-the-battle-roar-to-victory_573791)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 2h 15m • Korean • History, Action, War • mobe1969**

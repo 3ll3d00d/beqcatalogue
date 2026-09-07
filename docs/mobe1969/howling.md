@@ -1,5 +1,7 @@
 # Howling
 
+[Compare across authors](../../compare/?t=film-howling_116227)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 1h 54m • Korean • Mystery, Thriller • mobe1969**

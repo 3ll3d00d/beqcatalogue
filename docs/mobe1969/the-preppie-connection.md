@@ -1,5 +1,7 @@
 # The Preppie Connection
 
+[Compare across authors](../../compare/?t=film-the-preppie-connection_362478)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 35m • Drama, Crime • mobe1969**

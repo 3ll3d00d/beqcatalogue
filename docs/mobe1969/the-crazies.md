@@ -1,5 +1,7 @@
 # The Crazies
 
+[Compare across authors](../../compare/?t=film-the-crazies_29427)
+
 ## LPCM 5.1
 
 **2010 • R • 1h 41m • Mystery, Action, Horror • mobe1969**

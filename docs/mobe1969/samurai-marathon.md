@@ -1,5 +1,7 @@
 # Samurai Marathon
 
+[Compare across authors](../../compare/?t=film-samurai-marathon_578514)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 45m • Japanese • Action, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Holiday on Mars
 
+[Compare across authors](../../compare/?t=film-holiday-on-mars_727246)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 33m • Italian • Comedy, Science Fiction • mobe1969**

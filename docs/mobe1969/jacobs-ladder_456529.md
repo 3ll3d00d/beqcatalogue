@@ -1,5 +1,7 @@
 # Jacob's Ladder
 
+[Compare across authors](../../compare/?t=film-jacobs-ladder_456529)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 29m • Mystery, Horror, Thriller • mobe1969**

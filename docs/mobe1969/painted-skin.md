@@ -1,5 +1,7 @@
 # Painted Skin
 
+[Compare across authors](../../compare/?t=film-painted-skin_17808)
+
 ## DTS-HD MA 5.1
 
 **2008 • NR • 1h 58m • Mandarin • Fantasy, Action, Drama, Thriller • mobe1969**

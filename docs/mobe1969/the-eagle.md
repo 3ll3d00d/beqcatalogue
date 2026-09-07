@@ -1,5 +1,7 @@
 # The Eagle
 
+[Compare across authors](../../compare/?t=film-the-eagle_49494)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 54m • Drama, Adventure • mobe1969**

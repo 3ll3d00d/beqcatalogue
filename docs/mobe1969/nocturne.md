@@ -1,5 +1,7 @@
 # Nocturne
 
+[Compare across authors](../../compare/?t=film-nocturne_643550)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 30m • Horror, Mystery, Thriller, Music • mobe1969**

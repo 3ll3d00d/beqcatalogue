@@ -1,5 +1,7 @@
 # Neighbors
 
+[Compare across authors](../../compare/?t=film-neighbors_195589)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 37m • Comedy • mobe1969**

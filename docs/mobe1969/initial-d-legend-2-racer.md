@@ -1,5 +1,7 @@
 # Initial D Legend 2: Racer
 
+[Compare across authors](../../compare/?t=film-initial-d-legend-2-racer_321487)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 2m • Japanese • Animation, Drama, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Pontypool
 
+[Compare across authors](../../compare/?t=film-pontypool_23963)
+
 ## DTS-HD MA 5.1
 
 **2008 • 15 • 1h 36m • Mystery, Horror, Science Fiction • mobe1969**

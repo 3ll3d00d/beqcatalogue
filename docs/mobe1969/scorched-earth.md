@@ -1,5 +1,7 @@
 # Scorched Earth
 
+[Compare across authors](../../compare/?t=film-scorched-earth_347111)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 33m • Action, Science Fiction • mobe1969**

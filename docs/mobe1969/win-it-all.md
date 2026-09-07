@@ -1,5 +1,7 @@
 # Win It All
 
+[Compare across authors](../../compare/?t=film-win-it-all_397442)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 28m • Comedy • mobe1969**

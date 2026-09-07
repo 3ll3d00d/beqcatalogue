@@ -1,5 +1,7 @@
 # A Family
 
+[Compare across authors](../../compare/?t=film-a-family_736146)
+
 ## DD+ 5.1
 
 **2021 • R • 2h 16m • Japanese • Crime, Drama • mobe1969**

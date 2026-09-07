@@ -1,5 +1,7 @@
 # Lethal Weapon
 
+[Compare across authors](../../compare/?t=film-lethal-weapon_941)
+
 ## DTS-HD MA 5.1
 
 **1987 • R • 1h 50m • Thriller, Adventure, Comedy, Action, Crime • mobe1969**

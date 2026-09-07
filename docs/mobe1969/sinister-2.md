@@ -1,5 +1,7 @@
 # Sinister 2
 
+[Compare across authors](../../compare/?t=film-sinister-2_283445)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 37m • Horror • mobe1969**

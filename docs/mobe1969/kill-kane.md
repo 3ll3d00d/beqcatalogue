@@ -1,5 +1,7 @@
 # Kill Kane
 
+[Compare across authors](../../compare/?t=film-kill-kane_378092)
+
 ## DD+ 5.1
 
 **2016 • R • 1h 14m • Thriller, Crime • mobe1969**

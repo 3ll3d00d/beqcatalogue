@@ -1,5 +1,7 @@
 # The Bang Bang Club
 
+[Compare across authors](../../compare/?t=film-the-bang-bang-club_60011)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 46m • Romance, Drama • mobe1969**

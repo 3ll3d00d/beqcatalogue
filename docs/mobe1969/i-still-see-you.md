@@ -1,5 +1,7 @@
 # I Still See You
 
+[Compare across authors](../../compare/?t=film-i-still-see-you_448095)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 38m • Thriller, Fantasy • mobe1969**

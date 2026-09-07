@@ -1,5 +1,7 @@
 # Road House
 
+[Compare across authors](../../compare/?t=film-road-house_10135)
+
 ## DTS-HD MA 5.1
 
 **1989 • R • 1h 54m • Action, Thriller • mobe1969**

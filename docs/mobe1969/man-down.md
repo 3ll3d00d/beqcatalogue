@@ -1,5 +1,7 @@
 # Man Down
 
+[Compare across authors](../../compare/?t=film-man-down_296523)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 30m • Thriller, Drama • mobe1969**

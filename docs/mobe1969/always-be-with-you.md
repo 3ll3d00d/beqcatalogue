@@ -1,5 +1,7 @@
 # Always Be With You
 
+[Compare across authors](../../compare/?t=film-always-be-with-you_484290)
+
 ## TrueHD 5.1
 
 **2017 • NR • 1h 38m • Cantonese • Horror, Mystery • mobe1969**

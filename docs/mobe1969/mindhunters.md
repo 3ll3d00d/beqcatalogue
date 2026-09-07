@@ -1,5 +1,7 @@
 # Mindhunters
 
+[Compare across authors](../../compare/?t=film-mindhunters_16617)
+
 ## DD+ 5.1
 
 **2004 • R • 1h 46m • Mystery, Thriller, Crime • mobe1969**

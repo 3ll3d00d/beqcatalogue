@@ -1,5 +1,7 @@
 # Sahara
 
+[Compare across authors](../../compare/?t=film-sahara_7364)
+
 ## DTS 5.1
 
 **2005 • PG-13 • 2h 4m • Mystery, Action, Comedy, Drama, Adventure • mobe1969**

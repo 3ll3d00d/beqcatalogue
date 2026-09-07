@@ -1,5 +1,7 @@
 # The King of Staten Island
 
+[Compare across authors](../../compare/?t=film-the-king-of-staten-island_579583)
+
 ## Atmos
 
 **2020 • R • 2h 17m • Comedy, Drama • mobe1969**

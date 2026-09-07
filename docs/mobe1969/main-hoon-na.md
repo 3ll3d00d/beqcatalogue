@@ -1,5 +1,7 @@
 # Main Hoon Na
 
+[Compare across authors](../../compare/?t=film-main-hoon-na_14134)
+
 ## DD+ 5.1
 
 **2004 • PG • 2h 59m • Hindi • Drama • mobe1969**

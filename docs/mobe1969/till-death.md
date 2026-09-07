@@ -1,5 +1,7 @@
 # Till Death
 
+[Compare across authors](../../compare/?t=film-till-death_672741)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 29m • Horror, Thriller • mobe1969**

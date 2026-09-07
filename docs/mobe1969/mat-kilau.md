@@ -1,5 +1,7 @@
 # Mat Kilau
 
+[Compare across authors](../../compare/?t=film-mat-kilau_988595)
+
 ## DD+ 5.1
 
 **2022 • 15 • 1h 58m • Malay • Action • mobe1969**

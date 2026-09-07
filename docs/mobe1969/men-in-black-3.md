@@ -1,5 +1,7 @@
 # Men in Black 3
 
+[Compare across authors](../../compare/?t=film-men-in-black-3_41154)
+
 ## Atmos
 
 **2012 • PG-13 • 1h 46m • Action, Comedy, Science Fiction • mobe1969**

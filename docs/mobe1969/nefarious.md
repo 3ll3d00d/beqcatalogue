@@ -1,5 +1,7 @@
 # Nefarious
 
+[Compare across authors](../../compare/?t=film-nefarious_913673)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 38m • Horror, Thriller • mobe1969**

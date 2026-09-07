@@ -1,5 +1,7 @@
 # Midnight
 
+[Compare across authors](../../compare/?t=film-midnight_628704)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 40m • Korean • Thriller • mobe1969**

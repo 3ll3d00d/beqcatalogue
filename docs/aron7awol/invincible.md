@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-invincible_95557)
+
 ## Season 1
 
 * DD+

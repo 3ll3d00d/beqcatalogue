@@ -1,5 +1,7 @@
 # The Guard
 
+[Compare across authors](../../compare/?t=film-the-guard_67913)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 36m • Action, Comedy, Thriller, Crime • mobe1969**

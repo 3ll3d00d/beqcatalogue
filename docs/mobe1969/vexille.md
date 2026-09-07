@@ -1,5 +1,7 @@
 # Vexille
 
+[Compare across authors](../../compare/?t=film-vexille_13391)
+
 ## TrueHD 5.1
 
 **2007 • PG-13 • 1h 49m • Japanese • Science Fiction, Animation • mobe1969**

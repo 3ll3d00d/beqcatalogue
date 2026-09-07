@@ -1,5 +1,7 @@
 # Star Wars: The Last Jedi
 
+[Compare across authors](../../compare/?t=film-star-wars-the-last-jedi_181808)
+
 ## Atmos
 
 **2017 • PG-13 • 2h 32m • Adventure, Action, Science Fiction • mobe1969**

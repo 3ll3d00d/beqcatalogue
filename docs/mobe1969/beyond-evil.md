@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-beyond-evil_116612)
+
 ## Season 1
 
 * DD+ 2.0

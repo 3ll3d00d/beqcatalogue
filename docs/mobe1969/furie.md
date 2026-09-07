@@ -1,5 +1,7 @@
 # Furie
 
+[Compare across authors](../../compare/?t=film-furie_622654)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 37m • French • Thriller • mobe1969**

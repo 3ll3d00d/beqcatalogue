@@ -1,5 +1,7 @@
 # The Cat's Meow
 
+[Compare across authors](../../compare/?t=film-the-cats-meow_35080)
+
 ## DTS-HD MA 2.0
 
 **2011 • PG-13 • 1h 54m • Korean • Drama, Mystery, Thriller • mobe1969**

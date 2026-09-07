@@ -1,5 +1,7 @@
 # Blackstock Boneyard
 
+[Compare across authors](../../compare/?t=film-blackstock-boneyard_835292)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 20m • Horror, Thriller • mobe1969**

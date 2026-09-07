@@ -1,5 +1,7 @@
 # Street Flow
 
+[Compare across authors](../../compare/?t=film-street-flow_614488)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 35m • French • Drama, Crime • mobe1969**

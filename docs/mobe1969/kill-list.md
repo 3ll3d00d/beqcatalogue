@@ -1,5 +1,7 @@
 # Kill List
 
+[Compare across authors](../../compare/?t=film-kill-list_74725)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 35m • Horror, Crime, Thriller • mobe1969**

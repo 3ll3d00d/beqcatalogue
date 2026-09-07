@@ -1,5 +1,7 @@
 # The Hate U Give
 
+[Compare across authors](../../compare/?t=film-the-hate-u-give_470044)
+
 ## DTS-HD MA 7.1
 
 **2018 • PG-13 • 2h 13m • Crime, Drama • mobe1969**

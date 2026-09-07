@@ -1,5 +1,7 @@
 # Double Impact
 
+[Compare across authors](../../compare/?t=film-double-impact_9594)
+
 ## DTS-HD MA 2.0
 
 **1991 • R • 1h 50m • Drama, Action, Crime, Thriller • mobe1969**

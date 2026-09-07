@@ -1,5 +1,7 @@
 # Commando 3
 
+[Compare across authors](../../compare/?t=film-commando-3_606599)
+
 ## DD 2.0
 
 **2019 • NR • 2h 13m • Action, Thriller • mobe1969**

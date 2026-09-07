@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-shadow-and-bone_85720)
+
 ## Season 1
 
 * DD+ Atmos

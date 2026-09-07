@@ -1,5 +1,7 @@
 # One Day as a Lion
 
+[Compare across authors](../../compare/?t=film-one-day-as-a-lion_1070777)
+
 ## DD+ 5.1
 
 **2023 • R • 1h 27m • Action, Thriller, Crime • mobe1969**

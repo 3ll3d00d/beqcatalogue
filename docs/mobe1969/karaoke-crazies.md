@@ -1,5 +1,7 @@
 # Karaoke Crazies
 
+[Compare across authors](../../compare/?t=film-karaoke-crazies_381067)
+
 ## TrueHD 5.1
 
 **2016 • NR • 1h 46m • Korean • Mystery, Fantasy • mobe1969**

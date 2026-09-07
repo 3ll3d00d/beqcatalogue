@@ -1,5 +1,7 @@
 # Look Away
 
+[Compare across authors](../../compare/?t=film-look-away_526051)
+
 ## DD+ 5.1
 
 **2018 • R • 1h 43m • Horror, Thriller, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # The Score
 
+[Compare across authors](../../compare/?t=film-the-score_11371)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 2h 4m • Action, Crime, Thriller, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # The Howling
 
+[Compare across authors](../../compare/?t=film-the-howling_11298)
+
 ## DTS-HD MA 5.1
 
 Blu-Ray

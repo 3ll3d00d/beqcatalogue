@@ -1,5 +1,7 @@
 # Flashback
 
+[Compare across authors](../../compare/?t=film-flashback_522406)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 37m • Thriller, Drama, Mystery • mobe1969**

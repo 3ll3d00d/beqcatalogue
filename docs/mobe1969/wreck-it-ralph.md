@@ -1,5 +1,7 @@
 # Wreck-It Ralph
 
+[Compare across authors](../../compare/?t=film-wreck-it-ralph_82690)
+
 ## Atmos
 
 **2012 • PG • 1h 41m • Family, Animation, Comedy, Adventure • mobe1969**

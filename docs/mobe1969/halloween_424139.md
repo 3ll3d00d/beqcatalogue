@@ -1,5 +1,7 @@
 # Halloween
 
+[Compare across authors](../../compare/?t=film-halloween_424139)
+
 ## DTS-X, DD+ 5.1
 
 **2018 • R • 1h 46m • Horror, Thriller • mobe1969**

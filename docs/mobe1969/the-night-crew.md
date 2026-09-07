@@ -1,5 +1,7 @@
 # The Night Crew
 
+[Compare across authors](../../compare/?t=film-the-night-crew_251387)
+
 ## DTS-HD MA 5.1
 
 **2015 • NR • 1h 29m • Thriller, Action, Mystery • mobe1969**

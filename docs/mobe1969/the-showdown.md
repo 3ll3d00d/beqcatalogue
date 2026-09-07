@@ -1,5 +1,7 @@
 # The Showdown
 
+[Compare across authors](../../compare/?t=film-the-showdown_52421)
+
 ## DTS-HD MA 2.0
 
 **2011 • NR • 1h 51m • Korean • Action, Drama • mobe1969**

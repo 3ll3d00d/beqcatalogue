@@ -1,5 +1,7 @@
 # Get Carter
 
+[Compare across authors](../../compare/?t=film-get-carter_10461)
+
 ## DTS-HD MA 5.1
 
 **2000 • R • 1h 42m • Action, Drama, Thriller, Crime • mobe1969**

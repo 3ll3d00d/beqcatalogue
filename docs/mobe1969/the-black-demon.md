@@ -1,5 +1,7 @@
 # The Black Demon
 
+[Compare across authors](../../compare/?t=film-the-black-demon_890771)
+
 ## DTS-HD MA 5.1
 
 **2023 • R • 1h 41m • Horror, Thriller • mobe1969**

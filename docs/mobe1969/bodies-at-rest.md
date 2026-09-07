@@ -1,5 +1,7 @@
 # Bodies at Rest
 
+[Compare across authors](../../compare/?t=film-bodies-at-rest_531368)
+
 ## TrueHD 5.1
 
 **2019 • NR • 1h 33m • Cantonese • Action, Crime, Thriller • mobe1969**

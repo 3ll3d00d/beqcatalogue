@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-marvel-studios-legends_114695)
+
 ## Season 1
 
 * DD+ Atmos

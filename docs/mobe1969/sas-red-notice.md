@@ -1,5 +1,7 @@
 # SAS: Red Notice
 
+[Compare across authors](../../compare/?t=film-sas-red-notice_595743)
+
 ## DD+ Atmos
 
 **2021 • 15 • 2h 0m • Drama, Action, Thriller • mobe1969**

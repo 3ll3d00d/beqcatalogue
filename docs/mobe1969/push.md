@@ -1,5 +1,7 @@
 # Push
 
+[Compare across authors](../../compare/?t=film-push_13455)
+
 ## Atmos
 
 **2009 • PG-13 • 1h 51m • Science Fiction, Action • mobe1969**

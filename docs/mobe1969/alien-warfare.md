@@ -1,5 +1,7 @@
 # Alien Warfare
 
+[Compare across authors](../../compare/?t=film-alien-warfare_593035)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 28m • Action, Science Fiction, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Headshot
 
+[Compare across authors](../../compare/?t=film-headshot_403605)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 57m • Indonesian • Action, Thriller • mobe1969**

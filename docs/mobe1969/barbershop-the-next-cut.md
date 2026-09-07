@@ -1,5 +1,7 @@
 # Barbershop: The Next Cut
 
+[Compare across authors](../../compare/?t=film-barbershop-the-next-cut_326423)
+
 ## DD+ 5.1
 
 **2016 • PG-13 • 1h 52m • Comedy, Drama • mobe1969**

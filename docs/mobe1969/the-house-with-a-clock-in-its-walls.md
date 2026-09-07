@@ -1,5 +1,7 @@
 # The House with a Clock in Its Walls
 
+[Compare across authors](../../compare/?t=film-the-house-with-a-clock-in-its-walls_463821)
+
 ## Atmos
 
 **2018 • PG • 1h 45m • Fantasy, Family, Comedy • mobe1969**

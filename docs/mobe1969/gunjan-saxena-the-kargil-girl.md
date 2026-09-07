@@ -1,5 +1,7 @@
 # Gunjan Saxena: The Kargil Girl
 
+[Compare across authors](../../compare/?t=film-gunjan-saxena-the-kargil-girl_645489)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 52m • Hindi • Action, Drama • mobe1969**

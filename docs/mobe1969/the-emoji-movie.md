@@ -1,5 +1,7 @@
 # The Emoji Movie
 
+[Compare across authors](../../compare/?t=film-the-emoji-movie_378236)
+
 ## Atmos
 
 **2017 • PG • 1h 26m • Animation, Family, Comedy • mobe1969**

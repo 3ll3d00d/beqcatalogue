@@ -1,5 +1,7 @@
 # Cocaine Bear
 
+[Compare across authors](../../compare/?t=film-cocaine-bear_804150)
+
 ## Atmos
 
 **2023 • R • 1h 36m • Thriller, Comedy, Crime • mobe1969**

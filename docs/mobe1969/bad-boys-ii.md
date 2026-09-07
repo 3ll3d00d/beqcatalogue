@@ -1,5 +1,7 @@
 # Bad Boys II
 
+[Compare across authors](../../compare/?t=film-bad-boys-ii_8961)
+
 ## Atmos
 
 **2003 • R • 2h 27m • Adventure, Action, Comedy, Thriller, Crime • mobe1969**

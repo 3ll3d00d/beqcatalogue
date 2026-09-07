@@ -1,5 +1,7 @@
 # The Soul
 
+[Compare across authors](../../compare/?t=film-the-soul_773569)
+
 ## DD+ 5.1
 
 **2021 • R • 2h 10m • Mandarin • Mystery, Science Fiction, Thriller • mobe1969**

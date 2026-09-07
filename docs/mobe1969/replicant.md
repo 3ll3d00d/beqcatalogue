@@ -1,5 +1,7 @@
 # Replicant
 
+[Compare across authors](../../compare/?t=film-replicant_10596)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 1h 40m • Science Fiction, Action, Thriller, Adventure • mobe1969**

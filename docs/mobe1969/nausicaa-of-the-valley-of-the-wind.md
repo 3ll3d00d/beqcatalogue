@@ -1,5 +1,7 @@
 # Nausicaä of the Valley of the Wind
 
+[Compare across authors](../../compare/?t=film-nausicaa-of-the-valley-of-the-wind_81)
+
 ## LPCM 2.0
 
 **1984 • PG • 1h 57m • Adventure, Animation, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Take Point
 
+[Compare across authors](../../compare/?t=film-take-point_557972)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 2h 4m • Korean • Action • mobe1969**

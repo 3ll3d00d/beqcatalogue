@@ -1,5 +1,7 @@
 # Legend of The Naga Pearls
 
+[Compare across authors](../../compare/?t=film-legend-of-the-naga-pearls_466438)
+
 ## TrueHD 7.1
 
 **2017 • NR • 1h 48m • Mandarin • Romance, Adventure, Fantasy, Comedy • mobe1969**

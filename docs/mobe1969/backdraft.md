@@ -1,5 +1,7 @@
 # Backdraft
 
+[Compare across authors](../../compare/?t=film-backdraft_2924)
+
 ## DTS-X
 
 **1991 • R • 2h 17m • Crime, Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Khuda Haafiz
 
+[Compare across authors](../../compare/?t=film-khuda-haafiz_719949)
+
 ## DD+ 5.1
 
 **2020 • NR • 2h 14m • Hindi • Action, Thriller • mobe1969**

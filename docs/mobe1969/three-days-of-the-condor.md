@@ -1,5 +1,7 @@
 # Three Days of the Condor
 
+[Compare across authors](../../compare/?t=film-three-days-of-the-condor_11963)
+
 ## DTS-HD MA 5.1
 
 **1975 • R • 1h 57m • Thriller, Mystery • mobe1969**

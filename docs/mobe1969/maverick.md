@@ -1,5 +1,7 @@
 # Maverick
 
+[Compare across authors](../../compare/?t=film-maverick_9359)
+
 ## DTS-HD MA 2.0
 
 **1994 • PG • 2h 7m • Action, Adventure, Comedy, Drama, Western • mobe1969**

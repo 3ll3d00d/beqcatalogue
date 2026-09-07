@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-letter-for-the-king_99356)
+
 ## Season 1
 
 * DD+ 5.1

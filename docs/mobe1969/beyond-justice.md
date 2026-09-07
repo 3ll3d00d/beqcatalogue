@@ -1,5 +1,7 @@
 # Beyond Justice
 
+[Compare across authors](../../compare/?t=film-beyond-justice_288818)
+
 ## DD 5.1
 
 **2014 • R • 1h 26m • Thriller, Action • mobe1969**

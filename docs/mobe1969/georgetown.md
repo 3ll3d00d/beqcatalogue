@@ -1,5 +1,7 @@
 # Georgetown
 
+[Compare across authors](../../compare/?t=film-georgetown_339395)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 39m • Crime, Drama • mobe1969**

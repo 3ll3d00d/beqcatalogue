@@ -1,5 +1,7 @@
 # The Bourne Supremacy
 
+[Compare across authors](../../compare/?t=film-the-bourne-supremacy_2502)
+
 ## DD+ 5.1
 
 **2004 • PG-13 • 1h 48m • Action, Drama, Thriller • mobe1969**

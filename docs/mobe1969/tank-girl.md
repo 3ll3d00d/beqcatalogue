@@ -1,5 +1,7 @@
 # Tank Girl
 
+[Compare across authors](../../compare/?t=film-tank-girl_9067)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 1h 38m • Action, Comedy, Fantasy, Science Fiction • mobe1969**

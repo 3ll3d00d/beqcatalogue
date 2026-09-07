@@ -1,5 +1,7 @@
 # Bushwick
 
+[Compare across authors](../../compare/?t=film-bushwick_430354)
+
 ## DTS-HD MA 5.1
 
 **2017 • 12A • 1h 34m • Action, Thriller • mobe1969**

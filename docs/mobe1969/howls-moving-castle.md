@@ -1,5 +1,7 @@
 # Howl's Moving Castle
 
+[Compare across authors](../../compare/?t=film-howls-moving-castle_4935)
+
 ## DTS-HD MA 5.1
 
 **2004 • PG • 1h 59m • Fantasy, Animation, Adventure • mobe1969**

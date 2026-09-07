@@ -1,5 +1,7 @@
 # The Sorcerer and the White Snake
 
+[Compare across authors](../../compare/?t=film-the-sorcerer-and-the-white-snake_75948)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 40m • Mandarin • Action, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # Hand Rolled Cigarette
 
+[Compare across authors](../../compare/?t=film-hand-rolled-cigarette_741328)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 41m • Cantonese • Drama, Crime, Thriller • mobe1969**

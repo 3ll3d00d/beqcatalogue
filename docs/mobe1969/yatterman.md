@@ -1,5 +1,7 @@
 # Yatterman
 
+[Compare across authors](../../compare/?t=film-yatterman_24561)
+
 ## DTS-HD MA 5.1
 
 **2009 • NR • 1h 51m • Japanese • Action, Comedy • mobe1969**

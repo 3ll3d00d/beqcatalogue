@@ -1,5 +1,7 @@
 # Pet Sematary
 
+[Compare across authors](../../compare/?t=film-pet-sematary_157433)
+
 ## Atmos
 
 **2019 • R • 1h 41m • Horror, Thriller • mobe1969**

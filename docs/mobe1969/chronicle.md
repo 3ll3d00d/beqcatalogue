@@ -1,5 +1,7 @@
 # Chronicle
 
+[Compare across authors](../../compare/?t=film-chronicle_76726)
+
 ## DTS-HD MA 5.1
 
 **2012 • PG-13 • 1h 24m • Science Fiction, Drama, Thriller • mobe1969**

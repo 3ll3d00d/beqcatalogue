@@ -1,5 +1,7 @@
 # Viking Wolf
 
+[Compare across authors](../../compare/?t=film-viking-wolf_788752)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 37m • Norwegian • Horror, Thriller • mobe1969**

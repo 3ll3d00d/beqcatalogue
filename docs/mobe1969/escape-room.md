@@ -1,5 +1,7 @@
 # Escape Room
 
+[Compare across authors](../../compare/?t=film-escape-room_431259)
+
 ## DD+ 5.1
 
 **2017 • 15 • 1h 30m • Horror, Thriller, Fantasy • mobe1969**

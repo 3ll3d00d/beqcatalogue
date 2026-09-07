@@ -1,5 +1,7 @@
 # Just Call Me Nobody
 
+[Compare across authors](../../compare/?t=film-just-call-me-nobody_58365)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 39m • Mandarin • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # The Door into Summer
 
+[Compare across authors](../../compare/?t=film-the-door-into-summer_722798)
+
 ## DD+ 2.0
 
 **2021 • 12 • 1h 58m • Japanese • Science Fiction, Drama • mobe1969**

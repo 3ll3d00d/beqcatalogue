@@ -1,5 +1,7 @@
 # Battlefield Heroes
 
+[Compare across authors](../../compare/?t=film-battlefield-heroes_65881)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 57m • Korean • War, Comedy, History • mobe1969**

@@ -1,5 +1,7 @@
 # Raid 2
 
+[Compare across authors](../../compare/?t=film-raid-2_180299)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 2h 30m • Indonesian • Action, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Weekend Away
 
+[Compare across authors](../../compare/?t=film-the-weekend-away_840882)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2022 • NR • 1h 29m • Thriller, Mystery • mobe1969**

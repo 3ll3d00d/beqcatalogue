@@ -1,5 +1,7 @@
 # Operator
 
+[Compare across authors](../../compare/?t=film-operator_362185)
+
 ## TrueHD 5.1
 
 **2015 • 16 • 1h 28m • Thriller, Action, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Hydra
 
+[Compare across authors](../../compare/?t=film-hydra_606216)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 17m • Japanese • Thriller, Action, Crime, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Hitman: Agent 47
 
+[Compare across authors](../../compare/?t=film-hitman-agent-47_249070)
+
 ## DTS-HD MA 7.1
 
 **2015 • R • 1h 36m • Action, Crime, Thriller • mobe1969**

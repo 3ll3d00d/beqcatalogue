@@ -1,5 +1,7 @@
 # Geo-Disaster
 
+[Compare across authors](../../compare/?t=film-geo-disaster_479475)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 27m • Action, Science Fiction, TV Movie • mobe1969**

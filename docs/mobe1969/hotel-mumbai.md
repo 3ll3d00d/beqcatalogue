@@ -1,5 +1,7 @@
 # Hotel Mumbai
 
+[Compare across authors](../../compare/?t=film-hotel-mumbai_416144)
+
 ## DD+ 5.1
 
 **2019 • R • 2h 3m • Thriller, History, Drama, Action • mobe1969**

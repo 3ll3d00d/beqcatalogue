@@ -1,5 +1,7 @@
 # Radhe
 
+[Compare across authors](../../compare/?t=film-radhe_679844)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 49m • Hindi • Action, Crime, Drama, Thriller • mobe1969**

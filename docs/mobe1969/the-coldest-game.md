@@ -1,5 +1,7 @@
 # The Coldest Game
 
+[Compare across authors](../../compare/?t=film-the-coldest-game_585759)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 44m • Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # American Hero
 
+[Compare across authors](../../compare/?t=film-american-hero_367551)
+
 ## DD+ 5.1
 
 **2015 • R • 1h 26m • Action, Comedy, Science Fiction • mobe1969**

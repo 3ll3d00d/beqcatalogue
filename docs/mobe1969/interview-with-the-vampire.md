@@ -1,5 +1,7 @@
 # Interview with the Vampire
 
+[Compare across authors](../../compare/?t=film-interview-with-the-vampire_628)
+
 ## DTS-HD MA 5.1
 
 **1994 • R • 2h 3m • Horror, Drama, Fantasy • mobe1969**

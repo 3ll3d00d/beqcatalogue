@@ -1,5 +1,7 @@
 # Eye in the Sky
 
+[Compare across authors](../../compare/?t=film-eye-in-the-sky_333352)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 42m • Thriller, War, Drama • mobe1969**

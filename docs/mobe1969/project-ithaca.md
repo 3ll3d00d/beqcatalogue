@@ -1,5 +1,7 @@
 # Project Ithaca
 
+[Compare across authors](../../compare/?t=film-project-ithaca_600836)
+
 ## DD+ 5.1
 
 **2019 • R • 1h 25m • Science Fiction, Thriller • mobe1969**

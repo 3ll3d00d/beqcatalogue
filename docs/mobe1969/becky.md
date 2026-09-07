@@ -1,5 +1,7 @@
 # Becky
 
+[Compare across authors](../../compare/?t=film-becky_601844)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2020 • R • 1h 33m • Horror, Crime, Thriller • mobe1969**

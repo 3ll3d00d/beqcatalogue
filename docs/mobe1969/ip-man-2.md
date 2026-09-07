@@ -1,5 +1,7 @@
 # Ip Man 2
 
+[Compare across authors](../../compare/?t=film-ip-man-2_37472)
+
 ## Atmos
 
 **2010 • R • 1h 48m • Cantonese • Action, History, Drama • mobe1969**

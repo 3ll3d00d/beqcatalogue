@@ -1,5 +1,7 @@
 # Skyline
 
+[Compare across authors](../../compare/?t=film-skyline_42684)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 32m • Action, Science Fiction • mobe1969**

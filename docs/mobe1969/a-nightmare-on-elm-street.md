@@ -1,5 +1,7 @@
 # A Nightmare on Elm Street
 
+[Compare across authors](../../compare/?t=film-a-nightmare-on-elm-street_377)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 36m • Horror • mobe1969**

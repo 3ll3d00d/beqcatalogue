@@ -1,5 +1,7 @@
 # Carlos The Jackal
 
+[Compare across authors](../../compare/?t=film-carlos-the-jackal_43434)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 5h 39m • Drama, Thriller, Crime, History • mobe1969**

@@ -1,5 +1,7 @@
 # Elite Squad: The Enemy Within
 
+[Compare across authors](../../compare/?t=film-elite-squad-the-enemy-within_47931)
+
 ## DTS-HD MA 5.1
 
 **2010 • 18 • 1h 55m • Portuguese • Drama, Crime, Action • mobe1969**

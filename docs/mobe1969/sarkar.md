@@ -1,5 +1,7 @@
 # Sarkar
 
+[Compare across authors](../../compare/?t=film-sarkar_504231)
+
 ## DD+ 5.1
 
 **2018 • 12A • 2h 44m • Tamil • Action, Drama • mobe1969**

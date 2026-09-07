@@ -1,5 +1,7 @@
 # Bordertown
 
+[Compare across authors](../../compare/?t=film-bordertown_4351)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 52m • Crime, Drama, Mystery, Thriller • mobe1969**

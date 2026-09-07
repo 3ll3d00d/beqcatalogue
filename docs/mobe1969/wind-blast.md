@@ -1,5 +1,7 @@
 # Wind Blast
 
+[Compare across authors](../../compare/?t=film-wind-blast_50005)
+
 ## DTS-HD MA 7.1
 
 **2010 • NR • 1h 56m • Mandarin • Action, Western, Thriller • mobe1969**

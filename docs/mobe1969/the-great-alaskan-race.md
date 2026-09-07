@@ -1,5 +1,7 @@
 # The Great Alaskan Race
 
+[Compare across authors](../../compare/?t=film-the-great-alaskan-race_543025)
+
 ## DD+ 5.1
 
 **2019 • PG • 1h 27m • Adventure, History • mobe1969**

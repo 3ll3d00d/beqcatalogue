@@ -1,5 +1,7 @@
 # Monstrum
 
+[Compare across authors](../../compare/?t=film-monstrum_523593)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 1h 45m • Korean • Action, Horror, Drama, Fantasy • mobe1969**

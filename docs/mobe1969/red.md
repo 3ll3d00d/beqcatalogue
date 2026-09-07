@@ -1,5 +1,7 @@
 # RED
 
+[Compare across authors](../../compare/?t=film-red_39514)
+
 ## Atmos
 
 **2010 • PG-13 • 1h 51m • Action, Adventure, Comedy, Crime, Thriller • mobe1969**

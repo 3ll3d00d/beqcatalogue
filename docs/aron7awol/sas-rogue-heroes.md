@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-sas-rogue-heroes_93870)
+
 ## Season 1
 
 * DD+

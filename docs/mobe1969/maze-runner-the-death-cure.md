@@ -1,5 +1,7 @@
 # Maze Runner: The Death Cure
 
+[Compare across authors](../../compare/?t=film-maze-runner-the-death-cure_336843)
+
 ## Atmos
 
 **2018 • PG-13 • 2h 23m • Science Fiction, Action, Adventure, Thriller • mobe1969**

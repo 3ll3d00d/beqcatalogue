@@ -1,5 +1,7 @@
 # Hanna
 
+[Compare across authors](../../compare/?t=film-hanna_50456)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 51m • Action, Thriller, Adventure • mobe1969**

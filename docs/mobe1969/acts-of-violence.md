@@ -1,5 +1,7 @@
 # Acts of Violence
 
+[Compare across authors](../../compare/?t=film-acts-of-violence_479040)
+
 ## DTS-HD MA 5.1
 
 **2018 • R • 1h 26m • Action • mobe1969**

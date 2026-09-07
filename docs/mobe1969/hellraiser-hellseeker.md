@@ -1,5 +1,7 @@
 # Hellraiser: Hellseeker
 
+[Compare across authors](../../compare/?t=film-hellraiser-hellseeker_11246)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 1h 29m • Horror, Thriller, Mystery • mobe1969**

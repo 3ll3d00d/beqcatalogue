@@ -1,5 +1,7 @@
 # Black Water
 
+[Compare across authors](../../compare/?t=film-black-water_454615)
+
 ## LPCM 5.1
 
 **2018 • R • 1h 45m • Action, Thriller • mobe1969**

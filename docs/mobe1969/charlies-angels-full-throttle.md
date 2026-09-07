@@ -1,5 +1,7 @@
 # Charlie's Angels: Full Throttle
 
+[Compare across authors](../../compare/?t=film-charlies-angels-full-throttle_9471)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

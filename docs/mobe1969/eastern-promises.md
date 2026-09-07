@@ -1,5 +1,7 @@
 # Eastern Promises
 
+[Compare across authors](../../compare/?t=film-eastern-promises_2252)
+
 ## DTS-HD MA 5.1
 
 **2007 • R • 1h 40m • Thriller, Crime, Mystery • mobe1969**

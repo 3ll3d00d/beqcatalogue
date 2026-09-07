@@ -1,5 +1,7 @@
 # Kathal: A Jackfruit Mystery
 
+[Compare across authors](../../compare/?t=film-kathal-a-jackfruit-mystery_946025)
+
 ## DD+ Atmos
 
 **2023 • NR • 1h 55m • Hindi • Drama, Comedy, Crime • mobe1969**

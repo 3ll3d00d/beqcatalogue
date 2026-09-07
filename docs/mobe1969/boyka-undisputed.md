@@ -1,5 +1,7 @@
 # Boyka Undisputed
 
+[Compare across authors](../../compare/?t=film-boyka-undisputed_348893)
+
 ## DTS-HD MA 5.1
 
 **2016 • 18 • 1h 27m • Drama, Action • mobe1969**

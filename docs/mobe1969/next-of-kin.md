@@ -1,5 +1,7 @@
 # Next of Kin
 
+[Compare across authors](../../compare/?t=film-next-of-kin_27418)
+
 ## DTS-HD MA 2.0
 
 **1989 • R • 1h 48m • Adventure, Action, Thriller • mobe1969**

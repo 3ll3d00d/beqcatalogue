@@ -1,5 +1,7 @@
 # Downrange
 
+[Compare across authors](../../compare/?t=film-downrange_469916)
+
 ## DTS-HD MA 5.1
 
 **2017 • 18 • 1h 30m • Thriller, Horror • mobe1969**

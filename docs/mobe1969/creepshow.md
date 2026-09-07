@@ -1,5 +1,7 @@
 # Creepshow
 
+[Compare across authors](../../compare/?t=film-creepshow_16281)
+
 ## TrueHD 5.1
 
 **1982 • R • 2h 0m • Comedy, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Night of the Living Dead
 
+[Compare across authors](../../compare/?t=film-night-of-the-living-dead_19185)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 1h 28m • Horror • mobe1969**

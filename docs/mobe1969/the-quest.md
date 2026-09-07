@@ -1,5 +1,7 @@
 # The Quest
 
+[Compare across authors](../../compare/?t=film-the-quest_9103)
+
 ## DTS-HD MA 5.1
 
 **1996 • PG-13 • 1h 35m • Action, Adventure • mobe1969**

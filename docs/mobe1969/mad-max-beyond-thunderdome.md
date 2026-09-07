@@ -1,5 +1,7 @@
 # Mad Max Beyond Thunderdome
 
+[Compare across authors](../../compare/?t=film-mad-max-beyond-thunderdome_9355)
+
 ## Atmos
 
 **1985 • PG-13 • 1h 47m • Action, Adventure, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # The Last Son
 
+[Compare across authors](../../compare/?t=film-the-last-son_729577)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 36m • Action, Drama, Western, Adventure • mobe1969**

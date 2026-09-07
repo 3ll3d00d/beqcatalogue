@@ -1,5 +1,7 @@
 # (500) Days of Summer
 
+[Compare across authors](../../compare/?t=film-500-days-of-summer_19913)
+
 ## DD+ 5.1
 
 **2009 • PG-13 • 1h 35m • Comedy, Drama, Romance • mobe1969**

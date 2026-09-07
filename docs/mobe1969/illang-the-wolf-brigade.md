@@ -1,5 +1,7 @@
 # Illang: The Wolf Brigade
 
+[Compare across authors](../../compare/?t=film-illang-the-wolf-brigade_467824)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • R • 2h 20m • Korean • Science Fiction, Action, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # xXx: State of the Union
 
+[Compare across authors](../../compare/?t=film-xxx-state-of-the-union_11679)
+
 ## TrueHD 5.1
 
 **2005 • PG-13 • 1h 41m • Action, Adventure, Crime, Mystery, Thriller • mobe1969**

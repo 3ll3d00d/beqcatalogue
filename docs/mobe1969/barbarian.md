@@ -1,5 +1,7 @@
 # Barbarian
 
+[Compare across authors](../../compare/?t=film-barbarian_913290)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 42m • Horror, Mystery, Thriller • mobe1969**

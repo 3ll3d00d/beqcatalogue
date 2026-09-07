@@ -1,5 +1,7 @@
 # Fear Street: 1978
 
+[Compare across authors](../../compare/?t=film-fear-street-1978_591274)
+
 ## DD+ Atmos
 
 **2021 • R • 1h 50m • Mystery, Horror • mobe1969**

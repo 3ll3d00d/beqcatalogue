@@ -1,5 +1,7 @@
 # The Expendables 2
 
+[Compare across authors](../../compare/?t=film-the-expendables-2_76163)
+
 ## Atmos
 
 **2012 • R • 1h 43m • Action, Adventure, Thriller • mobe1969**

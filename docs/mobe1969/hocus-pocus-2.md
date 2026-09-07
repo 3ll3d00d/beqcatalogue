@@ -1,5 +1,7 @@
 # Hocus Pocus 2
 
+[Compare across authors](../../compare/?t=film-hocus-pocus-2_642885)
+
 ## DD+ 5.1
 
 **2022 • PG • 1h 47m • Fantasy, Comedy, Family • mobe1969**

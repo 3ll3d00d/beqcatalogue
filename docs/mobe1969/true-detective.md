@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-true-detective_46648)
+
 ## Season 1 Episode 1
 
 * DTS-HD MA 5.1

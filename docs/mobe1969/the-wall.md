@@ -1,5 +1,7 @@
 # The Wall
 
+[Compare across authors](../../compare/?t=film-the-wall_405775)
+
 ## DD+ 5.1
 
 **2017 • R • 1h 30m • War, Thriller, Drama • mobe1969**

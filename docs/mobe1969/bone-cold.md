@@ -1,5 +1,7 @@
 # Bone Cold
 
+[Compare across authors](../../compare/?t=film-bone-cold_1124272)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 49m • Action, Thriller, Horror • mobe1969**

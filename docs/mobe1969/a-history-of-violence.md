@@ -1,5 +1,7 @@
 # A History of Violence
 
+[Compare across authors](../../compare/?t=film-a-history-of-violence_59)
+
 ## TrueHD 5.1, DD+ 5.1
 
 **2005 • R • 1h 36m • Drama, Thriller, Crime • mobe1969**

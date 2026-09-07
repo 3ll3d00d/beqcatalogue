@@ -1,5 +1,7 @@
 # Barbershop 2: Back in Business
 
+[Compare across authors](../../compare/?t=film-barbershop-2-back-in-business_21301)
+
 ## DD+ 5.1
 
 **2004 • PG-13 • 1h 46m • Comedy, Drama • mobe1969**

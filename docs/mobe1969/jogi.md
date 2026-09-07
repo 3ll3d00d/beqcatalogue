@@ -1,5 +1,7 @@
 # Jogi
 
+[Compare across authors](../../compare/?t=film-jogi_1014386)
+
 ## DD+ 5.1
 
 **2022 • NR • 1h 56m • Hindi • Crime, Drama • mobe1969**

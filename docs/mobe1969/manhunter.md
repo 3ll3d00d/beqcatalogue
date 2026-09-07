@@ -1,5 +1,7 @@
 # Manhunter
 
+[Compare across authors](../../compare/?t=film-manhunter_11454)
+
 ## DTS-HD MA 5.1
 
 **1986 • R • 2h 2m • Crime, Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # A Writer's Odyssey
 
+[Compare across authors](../../compare/?t=film-a-writers-odyssey_611698)
+
 ## Atmos
 
 **2021 • NR • 2h 10m • Mandarin • Drama, Action, Fantasy • mobe1969**

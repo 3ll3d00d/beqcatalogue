@@ -1,5 +1,7 @@
 # Nightbreed
 
+[Compare across authors](../../compare/?t=film-nightbreed_20481)
+
 ## DTS-HD MA 5.1
 
 **1990 • R • 1h 42m • Action, Fantasy, Horror, Drama • mobe1969**

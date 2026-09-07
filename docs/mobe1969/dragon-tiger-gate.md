@@ -1,5 +1,7 @@
 # Dragon Tiger Gate
 
+[Compare across authors](../../compare/?t=film-dragon-tiger-gate_15860)
+
 ## DTS-HD MA 7.1
 
 **2006 • NR • 1h 34m • Cantonese • Action, Thriller • mobe1969**

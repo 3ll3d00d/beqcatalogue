@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-wandavision_85271)
+
 ## Season 6.5
 
 * DD+ Atmos

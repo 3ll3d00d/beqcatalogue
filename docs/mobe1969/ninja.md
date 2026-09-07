@@ -1,5 +1,7 @@
 # Ninja
 
+[Compare across authors](../../compare/?t=film-ninja_25602)
+
 ## TrueHD 5.1
 
 **2009 • R • 1h 23m • Action, Crime, Drama, Thriller • mobe1969**

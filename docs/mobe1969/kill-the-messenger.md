@@ -1,5 +1,7 @@
 # Kill the Messenger
 
+[Compare across authors](../../compare/?t=film-kill-the-messenger_245916)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 52m • Drama, Crime, Mystery, Thriller • mobe1969**

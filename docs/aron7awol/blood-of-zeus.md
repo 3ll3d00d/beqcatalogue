@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-blood-of-zeus_111111)
+
 ## Season 1
 
 * DTS-HD MA 7.1, DD+

@@ -1,5 +1,7 @@
 # The Spy Who Dumped Me
 
+[Compare across authors](../../compare/?t=film-the-spy-who-dumped-me_454992)
+
 ## Atmos
 
 **2018 • R • 1h 57m • Action, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Peter Rabbit 2: The Runaway
 
+[Compare across authors](../../compare/?t=film-peter-rabbit-2-the-runaway_522478)
+
 ## DD+ 5.1
 
 **2021 • PG • 1h 33m • Family, Comedy, Adventure, Animation, Fantasy • mobe1969**

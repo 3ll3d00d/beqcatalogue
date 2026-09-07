@@ -1,5 +1,7 @@
 # Legendary
 
+[Compare across authors](../../compare/?t=film-legendary_226672)
+
 ## DTS-HD MA 5.1
 
 **2013 • NR • 1h 40m • Action, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Devotion
 
+[Compare across authors](../../compare/?t=film-devotion_653851)
+
 ## DD+ Atmos
 
 **2022 • PG-13 • 2h 19m • War, History, Drama • mobe1969**

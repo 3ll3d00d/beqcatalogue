@@ -1,5 +1,7 @@
 # Spider-Man: No Way Home
 
+[Compare across authors](../../compare/?t=film-spider-man-no-way-home_634649)
+
 ## Atmos
 
 Theatrical Cut

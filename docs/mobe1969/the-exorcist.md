@@ -1,5 +1,7 @@
 # The Exorcist
 
+[Compare across authors](../../compare/?t=film-the-exorcist_9552)
+
 ## Atmos
 
 Director's Cut

@@ -1,5 +1,7 @@
 # The Banana Splits Movie
 
+[Compare across authors](../../compare/?t=film-the-banana-splits-movie_608654)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 30m • Horror, Thriller, Science Fiction, Comedy • mobe1969**

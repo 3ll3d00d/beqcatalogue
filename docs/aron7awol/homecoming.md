@@ -2,6 +2,8 @@
 
 * Author: aron7awol
 
+[Compare across authors](../../compare/?t=TV-homecoming_80335)
+
 ## Season 2
 
 * DD+

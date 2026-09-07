@@ -1,5 +1,7 @@
 # Choose or Die
 
+[Compare across authors](../../compare/?t=film-choose-or-die_838484)
+
 ## DD+ Atmos
 
 **2022 • NR • 1h 25m • Horror, Thriller, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # The Flu
 
+[Compare across authors](../../compare/?t=film-the-flu_200085)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 2h 2m • Korean • Action, Drama, Science Fiction • mobe1969**

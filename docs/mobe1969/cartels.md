@@ -1,5 +1,7 @@
 # Cartels
 
+[Compare across authors](../../compare/?t=film-cartels_412678)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 1h 39m • Action, Crime • mobe1969**

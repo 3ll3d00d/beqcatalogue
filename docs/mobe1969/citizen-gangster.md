@@ -1,5 +1,7 @@
 # Citizen Gangster
 
+[Compare across authors](../../compare/?t=film-citizen-gangster_92493)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 45m • Drama, Crime • mobe1969**

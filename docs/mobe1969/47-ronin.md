@@ -1,5 +1,7 @@
 # 47 Ronin
 
+[Compare across authors](../../compare/?t=film-47-ronin_64686)
+
 ## DTS-X
 
 **2013 • PG-13 • 1h 59m • Drama, Action, Adventure, Fantasy • mobe1969**

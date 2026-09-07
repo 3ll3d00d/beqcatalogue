@@ -1,5 +1,7 @@
 # The Number 23
 
+[Compare across authors](../../compare/?t=film-the-number-23_3594)
+
 ## DTS-HD MA 5.1
 
 Unrated Cut

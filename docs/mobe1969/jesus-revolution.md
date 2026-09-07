@@ -1,5 +1,7 @@
 # Jesus Revolution
 
+[Compare across authors](../../compare/?t=film-jesus-revolution_719256)
+
 ## DD+ 5.1
 
 **2023 • PG-13 • 2h 0m • Drama, History • mobe1969**

@@ -1,5 +1,7 @@
 # The Breakfast Club
 
+[Compare across authors](../../compare/?t=film-the-breakfast-club_2108)
+
 ## DTS-HD MA 5.1
 
 **1985 • R • 1h 38m • Comedy, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Freaks Out
 
+[Compare across authors](../../compare/?t=film-freaks-out_571468)
+
 ## DTS-HD MA 7.1
 
 **2021 • PG-13 • 2h 21m • Italian • Adventure, Fantasy, Drama • mobe1969**

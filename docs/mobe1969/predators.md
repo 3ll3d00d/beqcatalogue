@@ -1,5 +1,7 @@
 # Predators
 
+[Compare across authors](../../compare/?t=film-predators_34851)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 47m • Science Fiction, Action, Thriller • mobe1969**

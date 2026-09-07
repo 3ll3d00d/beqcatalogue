@@ -1,5 +1,7 @@
 # Taxi Driver
 
+[Compare across authors](../../compare/?t=film-taxi-driver_103)
+
 ## DTS-HD MA 5.1
 
 **1976 • R • 1h 54m • Crime, Drama • mobe1969**

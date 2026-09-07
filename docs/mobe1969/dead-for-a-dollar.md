@@ -1,5 +1,7 @@
 # Dead for a Dollar
 
+[Compare across authors](../../compare/?t=film-dead-for-a-dollar_843380)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 46m • Western, Thriller • mobe1969**

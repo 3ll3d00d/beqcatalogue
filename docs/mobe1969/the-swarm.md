@@ -1,5 +1,7 @@
 # The Swarm
 
+[Compare across authors](../../compare/?t=film-the-swarm_661930)
+
 ## DD+ 5.1
 
 **2020 • M • 1h 41m • French • Horror, Drama, Fantasy • mobe1969**

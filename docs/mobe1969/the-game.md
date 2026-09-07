@@ -1,5 +1,7 @@
 # The Game
 
+[Compare across authors](../../compare/?t=film-the-game_2649)
+
 ## DTS-HD MA 5.1
 
 **1997 • R • 2h 9m • Drama, Thriller, Mystery • mobe1969**

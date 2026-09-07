@@ -1,5 +1,7 @@
 # The Prodigy: World's On Fire
 
+[Compare across authors](../../compare/?t=film-the-prodigy-worlds-on-fire_65330)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 9m • Music • mobe1969**

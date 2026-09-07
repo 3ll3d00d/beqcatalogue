@@ -1,5 +1,7 @@
 # Come Away
 
+[Compare across authors](../../compare/?t=film-come-away_527400)
+
 ## DD+ 5.1
 
 **2021 • PG • 1h 34m • Fantasy, Adventure • mobe1969**

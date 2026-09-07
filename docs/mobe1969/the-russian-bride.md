@@ -1,5 +1,7 @@
 # The Russian Bride
 
+[Compare across authors](../../compare/?t=film-the-russian-bride_524787)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 31m • Horror, Thriller • mobe1969**

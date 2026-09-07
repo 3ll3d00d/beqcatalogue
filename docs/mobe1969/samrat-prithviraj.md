@@ -1,5 +1,7 @@
 # Samrat Prithviraj
 
+[Compare across authors](../../compare/?t=film-samrat-prithviraj_611598)
+
 ## DD+ 5.1
 
 **2022 • 12A • 2h 16m • Hindi • Action, Drama, History • mobe1969**

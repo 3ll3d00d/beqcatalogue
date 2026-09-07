@@ -1,5 +1,7 @@
 # Grudge
 
+[Compare across authors](../../compare/?t=film-grudge_874948)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 44m • Turkish • Crime, Drama, Thriller • mobe1969**

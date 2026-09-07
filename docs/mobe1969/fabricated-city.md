@@ -1,5 +1,7 @@
 # Fabricated City
 
+[Compare across authors](../../compare/?t=film-fabricated-city_435366)
+
 ## TrueHD 5.1
 
 **2017 • NR • 2h 6m • Korean • Action, Thriller, Crime • mobe1969**

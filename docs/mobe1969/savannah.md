@@ -1,5 +1,7 @@
 # Savannah
 
+[Compare across authors](../../compare/?t=film-savannah_207871)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 41m • Romance, History, Drama, Family • mobe1969**

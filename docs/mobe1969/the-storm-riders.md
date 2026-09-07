@@ -1,5 +1,7 @@
 # The Storm Riders
 
+[Compare across authors](../../compare/?t=film-the-storm-riders_2137)
+
 ## DTS-HD MA 5.1
 
 **1998 • NR • 2h 8m • Cantonese • Fantasy, Action, Adventure • mobe1969**

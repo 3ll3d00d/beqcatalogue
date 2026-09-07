@@ -1,5 +1,7 @@
 # No Exit
 
+[Compare across authors](../../compare/?t=film-no-exit_833425)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 36m • Horror, Thriller • mobe1969**

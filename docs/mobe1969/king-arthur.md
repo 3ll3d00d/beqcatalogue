@@ -1,5 +1,7 @@
 # King Arthur
 
+[Compare across authors](../../compare/?t=film-king-arthur_9477)
+
 ## LPCM 5.1
 
 Director's Cut

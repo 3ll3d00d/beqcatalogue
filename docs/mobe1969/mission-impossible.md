@@ -1,5 +1,7 @@
 # Mission: Impossible
 
+[Compare across authors](../../compare/?t=film-mission-impossible_954)
+
 ## TrueHD 5.1
 
 **1996 • PG-13 • 1h 50m • Adventure, Action, Thriller • mobe1969**

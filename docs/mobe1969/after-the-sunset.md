@@ -1,5 +1,7 @@
 # After the Sunset
 
+[Compare across authors](../../compare/?t=film-after-the-sunset_10589)
+
 ## DD+ 5.1
 
 **2004 • PG-13 • 1h 37m • Action, Comedy, Crime, Drama • mobe1969**

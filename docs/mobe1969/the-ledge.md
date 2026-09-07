@@ -1,5 +1,7 @@
 # The Ledge
 
+[Compare across authors](../../compare/?t=film-the-ledge_924482)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 26m • Thriller, Adventure, Mystery, Action, Crime • mobe1969**

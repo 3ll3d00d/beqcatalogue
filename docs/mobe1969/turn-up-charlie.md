@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-turn-up-charlie_85486)
+
 ## Season 1
 
 * DD+ Atmos

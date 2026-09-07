@@ -1,5 +1,7 @@
 # Undisputed III: Redemption
 
+[Compare across authors](../../compare/?t=film-undisputed-iii-redemption_38234)
+
 ## DTS-HD MA 5.1
 
 **2010 • R • 1h 36m • Action, Thriller • mobe1969**

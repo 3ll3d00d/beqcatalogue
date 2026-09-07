@@ -1,5 +1,7 @@
 # Kasargold
 
+[Compare across authors](../../compare/?t=film-kasargold_1028730)
+
 ## DD+ 5.1
 
 **2023 • 15 • 2h 17m • Malayalam • Action, Crime, Drama • mobe1969**

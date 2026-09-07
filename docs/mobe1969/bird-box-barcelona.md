@@ -1,5 +1,7 @@
 # Bird Box Barcelona
 
+[Compare across authors](../../compare/?t=film-bird-box-barcelona_805320)
+
 ## DD+ Atmos
 
 **2023 • R • 2h 4m • Spanish • Thriller, Horror • mobe1969**

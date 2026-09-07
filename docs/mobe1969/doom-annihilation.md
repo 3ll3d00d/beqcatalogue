@@ -1,5 +1,7 @@
 # Doom: Annihilation
 
+[Compare across authors](../../compare/?t=film-doom-annihilation_520901)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 37m • Science Fiction, Action, Mystery, Horror • mobe1969**

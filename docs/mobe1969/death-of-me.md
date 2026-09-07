@@ -1,5 +1,7 @@
 # Death of Me
 
+[Compare across authors](../../compare/?t=film-death-of-me_595149)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 35m • Horror, Mystery • mobe1969**

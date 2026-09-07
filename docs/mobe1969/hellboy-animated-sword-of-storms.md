@@ -1,5 +1,7 @@
 # Hellboy Animated: Sword of Storms
 
+[Compare across authors](../../compare/?t=film-hellboy-animated-sword-of-storms_16774)
+
 ## Atmos
 
 **2006 • PG • 1h 17m • TV Movie, Fantasy, Animation, Action, Thriller, Science Fiction, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Onward
 
+[Compare across authors](../../compare/?t=film-onward_508439)
+
 ## Atmos
 
 **2020 • PG • 1h 43m • Family, Animation, Adventure, Comedy, Fantasy • mobe1969**

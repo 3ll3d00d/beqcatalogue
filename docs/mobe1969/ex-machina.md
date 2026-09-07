@@ -1,5 +1,7 @@
 # Ex Machina
 
+[Compare across authors](../../compare/?t=film-ex-machina_264660)
+
 ## DTS-X
 
 **2015 • R • 1h 48m • Drama, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # The Puppetman
 
+[Compare across authors](../../compare/?t=film-the-puppetman_1146143)
+
 ## DD+ 5.1
 
 **2023 • NR • 0h 0m • Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Confidential Assignment
 
+[Compare across authors](../../compare/?t=film-confidential-assignment_434119)
+
 ## TrueHD 5.1
 
 **2017 • NR • 2h 5m • Korean • Action • mobe1969**

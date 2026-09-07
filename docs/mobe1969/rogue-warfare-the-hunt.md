@@ -1,5 +1,7 @@
 # Rogue Warfare: The Hunt
 
+[Compare across authors](../../compare/?t=film-rogue-warfare-the-hunt_635776)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 43m • Action • mobe1969**

@@ -1,5 +1,7 @@
 # Doom
 
+[Compare across authors](../../compare/?t=film-doom_8814)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 45m • Action, Horror, Science Fiction • mobe1969**

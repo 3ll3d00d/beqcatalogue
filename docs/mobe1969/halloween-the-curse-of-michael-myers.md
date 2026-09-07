@@ -1,5 +1,7 @@
 # Halloween: The Curse of Michael Myers
 
+[Compare across authors](../../compare/?t=film-halloween-the-curse-of-michael-myers_10987)
+
 ## DTS-HD MA 5.1
 
 **1995 • R • 1h 28m • Horror, Thriller • mobe1969**

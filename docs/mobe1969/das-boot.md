@@ -1,5 +1,7 @@
 # Das Boot
 
+[Compare across authors](../../compare/?t=film-das-boot_387)
+
 ## DTS-HD MA 5.1
 
 **1981 • R • 2h 30m • German • Drama, History, War • mobe1969**

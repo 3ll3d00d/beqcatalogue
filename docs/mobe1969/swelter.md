@@ -1,5 +1,7 @@
 # Swelter
 
+[Compare across authors](../../compare/?t=film-swelter_256687)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 36m • Drama, Thriller, Action • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-king-of-stonks_204852)
+
 ## Season 1
 
 * DD+ Atmos

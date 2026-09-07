@@ -1,5 +1,7 @@
 # The Brink
 
+[Compare across authors](../../compare/?t=film-the-brink_458257)
+
 ## TrueHD 7.1
 
 **2017 • NR • 1h 40m • Cantonese • Thriller, Crime, Action • mobe1969**

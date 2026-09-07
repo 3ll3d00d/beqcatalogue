@@ -1,5 +1,7 @@
 # Insidious: The Last Key
 
+[Compare across authors](../../compare/?t=film-insidious-the-last-key_406563)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • PG-13 • 1h 43m • Horror, Mystery, Thriller • mobe1969**

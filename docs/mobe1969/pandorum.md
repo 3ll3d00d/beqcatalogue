@@ -1,5 +1,7 @@
 # Pandorum
 
+[Compare across authors](../../compare/?t=film-pandorum_19898)
+
 ## TrueHD 5.1
 
 **2009 • NR • 1h 48m • Action, Horror, Mystery, Science Fiction, Thriller • mobe1969**

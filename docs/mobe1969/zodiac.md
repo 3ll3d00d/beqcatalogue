@@ -1,5 +1,7 @@
 # Zodiac
 
+[Compare across authors](../../compare/?t=film-zodiac_1949)
+
 ## TrueHD 5.1, DD+ 5.1
 
 **2007 • R • 2h 38m • Thriller, Drama, Mystery, Crime • mobe1969**

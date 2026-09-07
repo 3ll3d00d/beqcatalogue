@@ -1,5 +1,7 @@
 # Ghost Rider: Spirit of Vengeance
 
+[Compare across authors](../../compare/?t=film-ghost-rider-spirit-of-vengeance_71676)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2011 • PG-13 • 1h 36m • Action, Fantasy, Thriller • mobe1969**

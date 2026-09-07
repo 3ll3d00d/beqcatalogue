@@ -1,5 +1,7 @@
 # Midway
 
+[Compare across authors](../../compare/?t=film-midway_11422)
+
 ## DTS-HD MA 5.1
 
 **1976 • PG • 2h 12m • History, War, Action, Drama • mobe1969**

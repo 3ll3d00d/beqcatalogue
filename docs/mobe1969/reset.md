@@ -1,5 +1,7 @@
 # Reset
 
+[Compare across authors](../../compare/?t=film-reset_457832)
+
 ## DTS-X
 
 **2017 • R • 1h 46m • Mandarin • Action, Science Fiction • mobe1969**

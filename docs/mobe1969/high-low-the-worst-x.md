@@ -1,5 +1,7 @@
 # High & Low The Worst X
 
+[Compare across authors](../../compare/?t=film-high-low-the-worst-x_965731)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 1h 59m • Japanese • Action, Drama, Crime, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # The Monster Squad
 
+[Compare across authors](../../compare/?t=film-the-monster-squad_13509)
+
 ## DTS-HD MA 5.1
 
 **1987 • PG-13 • 1h 22m • Comedy, Action, Fantasy • mobe1969**

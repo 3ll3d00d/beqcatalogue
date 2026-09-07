@@ -1,5 +1,7 @@
 # Amityville Uprising
 
+[Compare across authors](../../compare/?t=film-amityville-uprising_898774)
+
 ## DD 5.1
 
 **2022 • R • 1h 25m • Horror, Action, Thriller • mobe1969**

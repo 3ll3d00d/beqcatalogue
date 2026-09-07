@@ -1,5 +1,7 @@
 # Lifeline
 
+[Compare across authors](../../compare/?t=film-lifeline_118442)
+
 ## DTS-HD MA 5.1
 
 **1997 • NR • 1h 48m • Cantonese • Action, Thriller • mobe1969**

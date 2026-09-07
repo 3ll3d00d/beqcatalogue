@@ -1,5 +1,7 @@
 # Super Troopers
 
+[Compare across authors](../../compare/?t=film-super-troopers_39939)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 1h 40m • Comedy, Crime, Mystery • mobe1969**

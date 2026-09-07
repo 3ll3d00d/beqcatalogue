@@ -1,5 +1,7 @@
 # Killers Anonymous
 
+[Compare across authors](../../compare/?t=film-killers-anonymous_535265)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 35m • Mystery, Thriller, Action, Crime • mobe1969**

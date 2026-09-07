@@ -1,5 +1,7 @@
 # Battle Drone
 
+[Compare across authors](../../compare/?t=film-battle-drone_508648)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 33m • Science Fiction • mobe1969**

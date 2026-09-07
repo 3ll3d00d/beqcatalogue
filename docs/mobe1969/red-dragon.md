@@ -1,5 +1,7 @@
 # Red Dragon
 
+[Compare across authors](../../compare/?t=film-red-dragon_9533)
+
 ## DTS-HD MA 5.1
 
 **2002 • R • 2h 4m • Mystery, Crime, Drama, Horror, Thriller • mobe1969**

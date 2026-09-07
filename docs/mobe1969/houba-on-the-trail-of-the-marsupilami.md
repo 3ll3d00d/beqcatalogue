@@ -1,5 +1,7 @@
 # HOUBA! On the Trail of the Marsupilami
 
+[Compare across authors](../../compare/?t=film-houba-on-the-trail-of-the-marsupilami_102207)
+
 ## DD+ 5.1
 
 **2012 • PG-13 • 1h 45m • French • Family, Adventure, Comedy • mobe1969**

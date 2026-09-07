@@ -1,5 +1,7 @@
 # Lucky Them
 
+[Compare across authors](../../compare/?t=film-lucky-them_214096)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 36m • Drama • mobe1969**

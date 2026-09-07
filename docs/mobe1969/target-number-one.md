@@ -1,5 +1,7 @@
 # Target Number One
 
+[Compare across authors](../../compare/?t=film-target-number-one_526973)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 2h 15m • Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # The Kid Detective
 
+[Compare across authors](../../compare/?t=film-the-kid-detective_720755)
+
 ## DD+ 5.1
 
 **2020 • R • 1h 39m • Comedy, Drama, Mystery • mobe1969**

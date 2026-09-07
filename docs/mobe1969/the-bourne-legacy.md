@@ -1,5 +1,7 @@
 # The Bourne Legacy
 
+[Compare across authors](../../compare/?t=film-the-bourne-legacy_49040)
+
 ## DD+ 5.1
 
 **2012 • PG-13 • 2h 15m • Action, Thriller • mobe1969**

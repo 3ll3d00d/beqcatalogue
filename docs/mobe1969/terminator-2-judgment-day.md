@@ -1,5 +1,7 @@
 # Terminator 2: Judgment Day
 
+[Compare across authors](../../compare/?t=film-terminator-2-judgment-day_280)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

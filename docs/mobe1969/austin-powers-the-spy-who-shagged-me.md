@@ -1,5 +1,7 @@
 # Austin Powers: The Spy Who Shagged Me
 
+[Compare across authors](../../compare/?t=film-austin-powers-the-spy-who-shagged-me_817)
+
 ## DD+ 5.1
 
 **1999 • PG-13 • 1h 35m • Adventure, Comedy, Crime, Science Fiction • mobe1969**

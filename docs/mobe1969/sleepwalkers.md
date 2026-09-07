@@ -1,5 +1,7 @@
 # Sleepwalkers
 
+[Compare across authors](../../compare/?t=film-sleepwalkers_11428)
+
 ## DTS-HD MA 2.0
 
 **1992 • R • 1h 31m • Fantasy, Horror, Thriller • mobe1969**

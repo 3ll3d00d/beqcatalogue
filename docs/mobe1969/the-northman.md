@@ -1,5 +1,7 @@
 # The Northman
 
+[Compare across authors](../../compare/?t=film-the-northman_639933)
+
 ## Atmos
 
 **2022 • R • 2h 17m • Action, Adventure, Fantasy, Thriller • mobe1969**

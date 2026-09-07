@@ -1,5 +1,7 @@
 # Detective Knight: Redemption
 
+[Compare across authors](../../compare/?t=film-detective-knight-redemption_1035803)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 33m • Action, Thriller • mobe1969**

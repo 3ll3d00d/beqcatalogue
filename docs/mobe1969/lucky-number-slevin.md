@@ -1,5 +1,7 @@
 # Lucky Number Slevin
 
+[Compare across authors](../../compare/?t=film-lucky-number-slevin_186)
+
 ## DTS-HD MA 5.1
 
 **2006 • R • 1h 50m • Drama, Mystery, Crime, Thriller • mobe1969**

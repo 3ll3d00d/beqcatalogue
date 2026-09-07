@@ -1,5 +1,7 @@
 # Thoda Pyaar Thoda Magic
 
+[Compare across authors](../../compare/?t=film-thoda-pyaar-thoda-magic_14214)
+
 ## DD+ 5.1
 
 **2008 • NR • 2h 25m • Hindi • Drama, Comedy • mobe1969**

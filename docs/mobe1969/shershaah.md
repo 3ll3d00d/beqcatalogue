@@ -1,5 +1,7 @@
 # Shershaah
 
+[Compare across authors](../../compare/?t=film-shershaah_599925)
+
 ## DD+ 5.1, DD 5.1
 
 **2021 • NR • 2h 15m • Hindi • Action, Drama, Thriller, War • mobe1969**

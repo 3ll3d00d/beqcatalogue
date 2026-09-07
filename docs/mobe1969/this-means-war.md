@@ -1,5 +1,7 @@
 # This Means War
 
+[Compare across authors](../../compare/?t=film-this-means-war_59962)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

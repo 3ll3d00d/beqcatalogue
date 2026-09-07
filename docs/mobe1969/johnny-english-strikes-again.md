@@ -1,5 +1,7 @@
 # Johnny English Strikes Again
 
+[Compare across authors](../../compare/?t=film-johnny-english-strikes-again_463272)
+
 ## DTS-X
 
 **2018 • PG • 1h 29m • Action, Adventure, Comedy • mobe1969**

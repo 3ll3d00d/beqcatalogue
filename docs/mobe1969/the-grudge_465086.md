@@ -1,5 +1,7 @@
 # The Grudge
 
+[Compare across authors](../../compare/?t=film-the-grudge_465086)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 33m • Horror, Mystery • mobe1969**

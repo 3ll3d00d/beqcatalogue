@@ -1,5 +1,7 @@
 # Pulp Fiction
 
+[Compare across authors](../../compare/?t=film-pulp-fiction_680)
+
 ## DTS-HD MA 5.1
 
 **1994 • R • 2h 34m • Thriller, Crime • mobe1969**

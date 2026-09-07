@@ -1,5 +1,7 @@
 # Brothers by Blood
 
+[Compare across authors](../../compare/?t=film-brothers-by-blood_592656)
+
 ## TrueHD 5.1
 
 **2020 • R • 1h 45m • Crime, Action, Drama • mobe1969**

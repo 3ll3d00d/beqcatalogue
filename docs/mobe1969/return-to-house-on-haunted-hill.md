@@ -1,5 +1,7 @@
 # Return to House on Haunted Hill
 
+[Compare across authors](../../compare/?t=film-return-to-house-on-haunted-hill_13564)
+
 ## DD 5.1
 
 **2007 • R • 1h 21m • Thriller, Horror • mobe1969**

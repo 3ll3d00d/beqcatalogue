@@ -1,5 +1,7 @@
 # Pegasus
 
+[Compare across authors](../../compare/?t=film-pegasus_575219)
+
 ## DD 5.1, AAC 5.1
 
 **2019 • NR • 1h 38m • Mandarin • Comedy, Action, Adventure • mobe1969**

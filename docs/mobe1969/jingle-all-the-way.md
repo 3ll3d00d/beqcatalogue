@@ -1,5 +1,7 @@
 # Jingle All the Way
 
+[Compare across authors](../../compare/?t=film-jingle-all-the-way_9279)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

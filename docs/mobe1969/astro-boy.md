@@ -1,5 +1,7 @@
 # Astro Boy
 
+[Compare across authors](../../compare/?t=film-astro-boy_16577)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG • 1h 34m • Animation, Action, Family, Science Fiction • mobe1969**

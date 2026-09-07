@@ -1,5 +1,7 @@
 # Sherlock Gnomes
 
+[Compare across authors](../../compare/?t=film-sherlock-gnomes_370567)
+
 ## DD+ 5.1
 
 **2018 • PG • 1h 26m • Animation, Family, Fantasy, Comedy, Adventure, Mystery • mobe1969**

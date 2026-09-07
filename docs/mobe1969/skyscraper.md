@@ -1,5 +1,7 @@
 # Skyscraper
 
+[Compare across authors](../../compare/?t=film-skyscraper_447200)
+
 ## Atmos
 
 **2018 • PG-13 • 1h 42m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Gold Brick
 
+[Compare across authors](../../compare/?t=film-gold-brick_1140056)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 35m • French • Comedy • mobe1969**

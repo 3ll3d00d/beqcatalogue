@@ -1,5 +1,7 @@
 # The Man Standing Next
 
+[Compare across authors](../../compare/?t=film-the-man-standing-next_566397)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 54m • Korean • Drama • mobe1969**

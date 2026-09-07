@@ -1,5 +1,7 @@
 # The Shadow In My Eye
 
+[Compare across authors](../../compare/?t=film-the-shadow-in-my-eye_650031)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 47m • Danish • War, Drama, History • mobe1969**

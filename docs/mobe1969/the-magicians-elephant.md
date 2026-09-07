@@ -1,5 +1,7 @@
 # The Magician's Elephant
 
+[Compare across authors](../../compare/?t=film-the-magicians-elephant_776835)
+
 ## DD+ Atmos
 
 **2023 • PG • 1h 39m • Adventure, Animation, Family, Fantasy • mobe1969**

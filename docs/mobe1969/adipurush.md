@@ -1,5 +1,7 @@
 # Adipurush
 
+[Compare across authors](../../compare/?t=film-adipurush_734253)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 59m • Hindi • Action, Adventure, Drama, Fantasy, History • mobe1969**

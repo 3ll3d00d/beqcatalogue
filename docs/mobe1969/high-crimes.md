@@ -1,5 +1,7 @@
 # High Crimes
 
+[Compare across authors](../../compare/?t=film-high-crimes_11560)
+
 ## DD+ 2.0
 
 **2002 • PG-13 • 1h 55m • Drama, Mystery, Thriller, Crime • mobe1969**

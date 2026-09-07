@@ -1,5 +1,7 @@
 # Evil Eye
 
+[Compare across authors](../../compare/?t=film-evil-eye_29514)
+
 ## DD+ 5.1
 
 **2021 • R • 2h 0m • Horror • mobe1969**

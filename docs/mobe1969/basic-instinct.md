@@ -1,5 +1,7 @@
 # Basic Instinct
 
+[Compare across authors](../../compare/?t=film-basic-instinct_402)
+
 ## DTS-HD MA 5.1
 
 **1992 • R • 2h 7m • Thriller, Mystery • mobe1969**

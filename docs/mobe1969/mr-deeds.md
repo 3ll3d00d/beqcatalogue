@@ -1,5 +1,7 @@
 # Mr. Deeds
 
+[Compare across authors](../../compare/?t=film-mr-deeds_2022)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG-13 • 1h 36m • Comedy, Romance • mobe1969**

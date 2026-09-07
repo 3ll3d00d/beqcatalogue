@@ -1,5 +1,7 @@
 # xXx
 
+[Compare across authors](../../compare/?t=film-xxx_7451)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG-13 • 2h 4m • Action, Adventure, Thriller • mobe1969**

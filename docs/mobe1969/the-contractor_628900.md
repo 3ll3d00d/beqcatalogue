@@ -1,5 +1,7 @@
 # The Contractor
 
+[Compare across authors](../../compare/?t=film-the-contractor_628900)
+
 ## DTS-HD MA 7.1, DD+ 5.1
 
 **2022 • R • 1h 43m • Action, Thriller • mobe1969**

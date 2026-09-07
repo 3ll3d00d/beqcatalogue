@@ -1,5 +1,7 @@
 # Beasts Clawing at Straws
 
+[Compare across authors](../../compare/?t=film-beasts-clawing-at-straws_571648)
+
 ## TrueHD 5.1
 
 **2020 • NR • 1h 48m • Korean • Mystery, Thriller, Crime, Comedy, Drama • mobe1969**

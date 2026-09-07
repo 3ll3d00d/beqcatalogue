@@ -1,5 +1,7 @@
 # Escape From Mogadishu
 
+[Compare across authors](../../compare/?t=film-escape-from-mogadishu_607844)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 2h 1m • Korean • War, Drama, Action • mobe1969**

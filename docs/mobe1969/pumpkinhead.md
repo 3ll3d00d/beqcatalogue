@@ -1,5 +1,7 @@
 # Pumpkinhead
 
+[Compare across authors](../../compare/?t=film-pumpkinhead_26515)
+
 ## DTS-HD MA 5.1
 
 **1988 • R • 1h 26m • Fantasy, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Jackass: The Movie
 
+[Compare across authors](../../compare/?t=film-jackass-the-movie_9012)
+
 ## DD 5.1
 
 **2002 • R • 1h 28m • Comedy, Documentary • mobe1969**

@@ -1,5 +1,7 @@
 # Sniper: Ghost Shooter
 
+[Compare across authors](../../compare/?t=film-sniper-ghost-shooter_407375)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 40m • Action, Drama, War • mobe1969**

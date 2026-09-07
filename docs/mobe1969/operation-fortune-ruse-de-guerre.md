@@ -1,5 +1,7 @@
 # Operation Fortune: Ruse de Guerre
 
+[Compare across authors](../../compare/?t=film-operation-fortune-ruse-de-guerre_739405)
+
 ## Atmos
 
 **2023 • R • 1h 54m • Action, Comedy, Adventure, Thriller • mobe1969**

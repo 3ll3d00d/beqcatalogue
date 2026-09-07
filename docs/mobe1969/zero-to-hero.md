@@ -1,5 +1,7 @@
 # Zero to Hero
 
+[Compare across authors](../../compare/?t=film-zero-to-hero_741318)
+
 ## DD+ 5.1
 
 **2021 • 12 • 1h 42m • Cantonese • Drama • mobe1969**

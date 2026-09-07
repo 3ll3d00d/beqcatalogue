@@ -1,5 +1,7 @@
 # City Under Siege
 
+[Compare across authors](../../compare/?t=film-city-under-siege_44263)
+
 ## DTS-HD MA 7.1, TrueHD 7.1, LPCM 7.1
 
 **2010 • NR • 1h 51m • Cantonese • Science Fiction, Action, Thriller • mobe1969**

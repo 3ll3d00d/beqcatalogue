@@ -1,5 +1,7 @@
 # Forbidden Empire
 
+[Compare across authors](../../compare/?t=film-forbidden-empire_208763)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 2h 8m • Thriller, Adventure, Mystery, Fantasy, Horror, Science Fiction • mobe1969**

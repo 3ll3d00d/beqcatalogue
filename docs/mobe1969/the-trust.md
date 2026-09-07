@@ -1,5 +1,7 @@
 # The Trust
 
+[Compare across authors](../../compare/?t=film-the-trust_301608)
+
 ## DTS-HD MA 5.1
 
 **2016 • R • 1h 33m • Thriller, Comedy, Crime, Mystery • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-afro-samurai_19544)
+
 ## Season 1
 
 * TrueHD 5.1

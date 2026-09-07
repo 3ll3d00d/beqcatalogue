@@ -1,5 +1,7 @@
 # Fool's Gold
 
+[Compare across authors](../../compare/?t=film-fools-gold_8676)
+
 ## DD 5.1
 
 **2008 • PG-13 • 1h 52m • Comedy, Adventure, Romance • mobe1969**

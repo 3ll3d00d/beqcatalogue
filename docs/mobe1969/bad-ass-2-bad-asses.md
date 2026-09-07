@@ -1,5 +1,7 @@
 # Bad Ass 2: Bad Asses
 
+[Compare across authors](../../compare/?t=film-bad-ass-2-bad-asses_255268)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 31m • Action • mobe1969**

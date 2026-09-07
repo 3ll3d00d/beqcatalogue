@@ -1,5 +1,7 @@
 # Diamonds Are Forever
 
+[Compare across authors](../../compare/?t=film-diamonds-are-forever_681)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1971 • PG • 2h 0m • Adventure, Action, Thriller • mobe1969**

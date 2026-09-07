@@ -1,5 +1,7 @@
 # 5 Days of War
 
+[Compare across authors](../../compare/?t=film-5-days-of-war_50601)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 53m • War, Drama • mobe1969**

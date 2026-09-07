@@ -1,5 +1,7 @@
 # Double Tap
 
+[Compare across authors](../../compare/?t=film-double-tap_127849)
+
 ## TrueHD 5.1
 
 **2000 • NR • 1h 36m • Cantonese • Action, Thriller, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # Rise of the Legend
 
+[Compare across authors](../../compare/?t=film-rise-of-the-legend_294993)
+
 ## DTS-HD MA 5.1
 
 **2014 • NR • 2h 11m • Mandarin • Action, Drama • mobe1969**

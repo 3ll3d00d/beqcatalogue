@@ -1,5 +1,7 @@
 # Mars Attacks!
 
+[Compare across authors](../../compare/?t=film-mars-attacks_75)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **1996 • PG-13 • 1h 46m • Comedy, Fantasy, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Corrective Measures
 
+[Compare across authors](../../compare/?t=film-corrective-measures_872177)
+
 ## DTS-HD MA 5.1
 
 **2022 • 15 • 1h 46m • Science Fiction, Action • mobe1969**

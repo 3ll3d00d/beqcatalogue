@@ -1,5 +1,7 @@
 # Double Jeopardy
 
+[Compare across authors](../../compare/?t=film-double-jeopardy_10398)
+
 ## DTS-HD MA 5.1
 
 **1999 • R • 1h 45m • Thriller • mobe1969**

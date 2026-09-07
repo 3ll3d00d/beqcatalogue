@@ -1,5 +1,7 @@
 # Rogue Cell
 
+[Compare across authors](../../compare/?t=film-rogue-cell_631985)
+
 ## DD+ 2.0
 
 **2019 • NR • 1h 15m • Action, Crime, Science Fiction • mobe1969**

@@ -1,5 +1,7 @@
 # Enemy
 
+[Compare across authors](../../compare/?t=film-enemy_181886)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 31m • Thriller, Mystery • mobe1969**

@@ -1,5 +1,7 @@
 # Three Billboards Outside Ebbing, Missouri
 
+[Compare across authors](../../compare/?t=film-three-billboards-outside-ebbing-missouri_359940)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 55m • Crime, Drama • mobe1969**

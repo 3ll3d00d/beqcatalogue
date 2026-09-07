@@ -1,5 +1,7 @@
 # The Lighthouse
 
+[Compare across authors](../../compare/?t=film-the-lighthouse_503919)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 49m • Drama, Fantasy, Thriller, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Swordfish
 
+[Compare across authors](../../compare/?t=film-swordfish_9705)
+
 ## DD 5.1
 
 **2001 • R • 1h 39m • Crime, Thriller, Action • mobe1969**

@@ -1,5 +1,7 @@
 # God of War
 
+[Compare across authors](../../compare/?t=film-god-of-war_455043)
+
 ## DTS-X
 
 **2017 • NR • 2h 10m • Mandarin • Action, History • mobe1969**

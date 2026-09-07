@@ -1,5 +1,7 @@
 # Forgotten
 
+[Compare across authors](../../compare/?t=film-forgotten_488623)
+
 ## DD+ 5.1
 
 **2017 • NR • 1h 48m • Korean • Thriller, Mystery, Drama, Horror, Crime • mobe1969**

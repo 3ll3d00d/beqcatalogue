@@ -1,5 +1,7 @@
 # The Tracker
 
+[Compare across authors](../../compare/?t=film-the-tracker_565214)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 30m • Action, Thriller • mobe1969**

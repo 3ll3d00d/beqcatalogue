@@ -1,5 +1,7 @@
 # Woody Woodpecker
 
+[Compare across authors](../../compare/?t=film-woody-woodpecker_462883)
+
 ## DD+ 5.1
 
 **2017 • PG • 1h 31m • Comedy, Family, Animation • mobe1969**

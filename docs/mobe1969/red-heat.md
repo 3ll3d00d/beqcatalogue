@@ -1,5 +1,7 @@
 # Red Heat
 
+[Compare across authors](../../compare/?t=film-red-heat_9604)
+
 ## DTS-HD MA 5.1
 
 **1988 • R • 1h 44m • Action, Crime • mobe1969**

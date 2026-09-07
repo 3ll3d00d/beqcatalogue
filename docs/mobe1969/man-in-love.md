@@ -1,5 +1,7 @@
 # Man in Love
 
+[Compare across authors](../../compare/?t=film-man-in-love_797787)
+
 ## DD+ 5.1
 
 **2021 • 15 • 1h 55m • Mandarin • Romance • mobe1969**

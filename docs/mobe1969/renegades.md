@@ -1,5 +1,7 @@
 # Renegades
 
+[Compare across authors](../../compare/?t=film-renegades_335788)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG-13 • 1h 45m • Thriller, Action • mobe1969**

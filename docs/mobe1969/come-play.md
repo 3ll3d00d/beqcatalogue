@@ -1,5 +1,7 @@
 # Come Play
 
+[Compare across authors](../../compare/?t=film-come-play_571384)
+
 ## DD+ 5.1
 
 **2020 • PG-13 • 1h 36m • Horror • mobe1969**

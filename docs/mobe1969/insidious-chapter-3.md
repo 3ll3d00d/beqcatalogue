@@ -1,5 +1,7 @@
 # Insidious: Chapter 3
 
+[Compare across authors](../../compare/?t=film-insidious-chapter-3_280092)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2015 • PG-13 • 1h 37m • Horror, Drama, Thriller • mobe1969**

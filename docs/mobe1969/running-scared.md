@@ -1,5 +1,7 @@
 # Running Scared
 
+[Compare across authors](../../compare/?t=film-running-scared_7304)
+
 ## DTS-HD MA 5.1
 
 **2006 • R • 2h 2m • Crime, Action, Thriller, Drama • mobe1969**

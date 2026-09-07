@@ -1,5 +1,7 @@
 # The Four 3
 
+[Compare across authors](../../compare/?t=film-the-four-3_299738)
+
 ## TrueHD 5.1
 
 **2014 • M • 1h 47m • Mandarin • Action, Crime • mobe1969**

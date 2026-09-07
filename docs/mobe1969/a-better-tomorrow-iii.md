@@ -1,5 +1,7 @@
 # A Better Tomorrow III
 
+[Compare across authors](../../compare/?t=film-a-better-tomorrow-iii_41244)
+
 ## DTS-HD MA 7.1
 
 **1989 • NR • 1h 54m • Cantonese • War, Action, Thriller • mobe1969**

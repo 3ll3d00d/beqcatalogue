@@ -1,5 +1,7 @@
 # Sucker Punch
 
+[Compare across authors](../../compare/?t=film-sucker-punch_23629)
+
 ## DTS-HD MA 5.1
 
 Extended Cut

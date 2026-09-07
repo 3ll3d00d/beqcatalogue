@@ -1,5 +1,7 @@
 # Life of the Party
 
+[Compare across authors](../../compare/?t=film-life-of-the-party_399796)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 45m • Comedy • mobe1969**

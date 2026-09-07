@@ -1,5 +1,7 @@
 # The Rite
 
+[Compare across authors](../../compare/?t=film-the-rite_48171)
+
 ## DD+ 5.1
 
 **2011 • PG-13 • 1h 54m • Drama, Thriller, Horror • mobe1969**

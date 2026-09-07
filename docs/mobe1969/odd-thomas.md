@@ -1,5 +1,7 @@
 # Odd Thomas
 
+[Compare across authors](../../compare/?t=film-odd-thomas_179826)
+
 ## DTS-HD MA 5.1
 
 **2013 • PG-13 • 1h 40m • Mystery, Thriller • mobe1969**

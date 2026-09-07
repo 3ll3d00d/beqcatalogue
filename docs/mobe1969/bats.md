@@ -1,5 +1,7 @@
 # Bats
 
+[Compare across authors](../../compare/?t=film-bats_792101)
+
 ## DD+ 5.1
 
 **2021 • 18 • 1h 23m • Horror • mobe1969**

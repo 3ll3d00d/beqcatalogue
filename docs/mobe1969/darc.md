@@ -1,5 +1,7 @@
 # Darc
 
+[Compare across authors](../../compare/?t=film-darc_521647)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 37m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Small Town Crime
 
+[Compare across authors](../../compare/?t=film-small-town-crime_412000)
+
 ## DTS-HD MA 5.1
 
 **2017 • R • 1h 31m • Mystery, Thriller, Crime • mobe1969**

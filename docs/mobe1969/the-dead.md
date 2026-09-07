@@ -1,5 +1,7 @@
 # The Dead
 
+[Compare across authors](../../compare/?t=film-the-dead_924)
+
 ## TrueHD 5.1
 
 **2010 • R • 1h 33m • Horror, Science Fiction • mobe1969**

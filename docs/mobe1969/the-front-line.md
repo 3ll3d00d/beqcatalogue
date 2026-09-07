@@ -1,5 +1,7 @@
 # The Front Line
 
+[Compare across authors](../../compare/?t=film-the-front-line_79553)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 2h 13m • Korean • Drama, Action, War • mobe1969**

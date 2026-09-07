@@ -1,5 +1,7 @@
 # Senior Year
 
+[Compare across authors](../../compare/?t=film-senior-year_800937)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2022 • R • 1h 53m • Comedy • mobe1969**

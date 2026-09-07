@@ -1,5 +1,7 @@
 # The Scorpion King 4: Quest for Power
 
+[Compare across authors](../../compare/?t=film-the-scorpion-king-4-quest-for-power_297291)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 45m • Action, Adventure, Fantasy • mobe1969**

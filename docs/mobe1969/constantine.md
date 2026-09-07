@@ -1,5 +1,7 @@
 # Constantine
 
+[Compare across authors](../../compare/?t=film-constantine_561)
+
 ## TrueHD 5.1
 
 **2005 • R • 2h 1m • Fantasy, Action, Horror • mobe1969**

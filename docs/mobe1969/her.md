@@ -1,5 +1,7 @@
 # Her
 
+[Compare across authors](../../compare/?t=film-her_152601)
+
 ## DD+ 5.1
 
 **2013 • R • 2h 6m • Romance, Science Fiction, Drama • mobe1969**

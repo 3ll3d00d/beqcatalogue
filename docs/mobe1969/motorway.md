@@ -1,5 +1,7 @@
 # Motorway
 
+[Compare across authors](../../compare/?t=film-motorway_117506)
+
 ## TrueHD 7.1, DTS-HD MA 7.1
 
 **2012 • NR • 1h 29m • Cantonese • Action, Crime • mobe1969**

@@ -1,5 +1,7 @@
 # The Lair
 
+[Compare across authors](../../compare/?t=film-the-lair_760204)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 33m • Action, Horror • mobe1969**

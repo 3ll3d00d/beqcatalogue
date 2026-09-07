@@ -1,5 +1,7 @@
 # Ragini MMS 2
 
+[Compare across authors](../../compare/?t=film-ragini-mms-2_260266)
+
 ## DTS-HD MA 5.1
 
 **2014 • 15 • 2h 0m • Hindi • Horror • mobe1969**

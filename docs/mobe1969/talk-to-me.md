@@ -1,5 +1,7 @@
 # Talk to Me
 
+[Compare across authors](../../compare/?t=film-talk-to-me_1008042)
+
 ## Atmos
 
 **2023 • R • 1h 35m • Horror, Thriller • mobe1969**

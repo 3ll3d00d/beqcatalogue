@@ -1,5 +1,7 @@
 # Edge of Fear
 
+[Compare across authors](../../compare/?t=film-edge-of-fear_539619)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 31m • Action, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Drifting Home
 
+[Compare across authors](../../compare/?t=film-drifting-home_877957)
+
 ## DD+ 5.1
 
 **2022 • PG • 1h 59m • Japanese • Animation, Drama, Mystery, Fantasy • mobe1969**

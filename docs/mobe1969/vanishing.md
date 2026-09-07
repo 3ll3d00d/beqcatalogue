@@ -1,5 +1,7 @@
 # Vanishing
 
+[Compare across authors](../../compare/?t=film-vanishing_680071)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 28m • Mixed • Thriller, Crime, Mystery • mobe1969**

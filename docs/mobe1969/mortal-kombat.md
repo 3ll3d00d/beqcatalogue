@@ -1,5 +1,7 @@
 # Mortal Kombat
 
+[Compare across authors](../../compare/?t=film-mortal-kombat_460465)
+
 ## Atmos, DD+ Atmos
 
 **2021 • R • 1h 50m • Action, Fantasy, Adventure • mobe1969**

@@ -1,5 +1,7 @@
 # Lakshya
 
+[Compare across authors](../../compare/?t=film-lakshya_21175)
+
 ## DD+ 5.1
 
 **2004 • 12A • 3h 6m • Hindi • War, Action, Drama, Romance • mobe1969**

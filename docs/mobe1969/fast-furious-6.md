@@ -1,5 +1,7 @@
 # Fast & Furious 6
 
+[Compare across authors](../../compare/?t=film-fast-furious-6_82992)
+
 ## DTS 5.1
 
 Extended Cut

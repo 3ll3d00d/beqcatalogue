@@ -1,5 +1,7 @@
 # Student of the Year
 
+[Compare across authors](../../compare/?t=film-student-of-the-year_138122)
+
 ## DD+ 5.1
 
 **2012 • 12A • 2h 26m • Hindi • Comedy, Drama, Romance • mobe1969**

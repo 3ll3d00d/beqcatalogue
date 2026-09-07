@@ -1,5 +1,7 @@
 # The Lazarus Effect
 
+[Compare across authors](../../compare/?t=film-the-lazarus-effect_243940)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 23m • Thriller, Horror, Science Fiction, Mystery • mobe1969**

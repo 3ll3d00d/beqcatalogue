@@ -1,5 +1,7 @@
 # Gentleman
 
+[Compare across authors](../../compare/?t=film-gentleman_848198)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 2h 3m • Korean • Action, Crime • mobe1969**

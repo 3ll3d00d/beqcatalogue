@@ -1,5 +1,7 @@
 # Halo: Nightfall
 
+[Compare across authors](../../compare/?t=film-halo-nightfall_487186)
+
 ## DTS-HD MA 7.1
 
 **2014 • 12 • 1h 59m • Science Fiction • mobe1969**

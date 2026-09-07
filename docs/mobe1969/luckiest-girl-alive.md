@@ -1,5 +1,7 @@
 # Luckiest Girl Alive
 
+[Compare across authors](../../compare/?t=film-luckiest-girl-alive_799546)
+
 ## DD+ Atmos
 
 **2022 • R • 1h 53m • Mystery, Thriller, Drama • mobe1969**

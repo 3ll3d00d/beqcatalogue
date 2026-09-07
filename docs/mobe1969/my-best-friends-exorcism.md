@@ -1,5 +1,7 @@
 # My Best Friend's Exorcism
 
+[Compare across authors](../../compare/?t=film-my-best-friends-exorcism_816952)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 36m • Horror, Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # Earwig and the Witch
 
+[Compare across authors](../../compare/?t=film-earwig-and-the-witch_683127)
+
 ## DTS-HD MA 5.1
 
 **2020 • PG • 1h 22m • Japanese • Animation, Fantasy, Family • mobe1969**

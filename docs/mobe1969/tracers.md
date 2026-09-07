@@ -1,5 +1,7 @@
 # Tracers
 
+[Compare across authors](../../compare/?t=film-tracers_290764)
+
 ## DTS-HD MA 5.1
 
 **2015 • PG-13 • 1h 34m • Action, Crime, Drama • mobe1969**

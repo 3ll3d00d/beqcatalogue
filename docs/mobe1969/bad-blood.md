@@ -1,5 +1,7 @@
 # Bad Blood
 
+[Compare across authors](../../compare/?t=film-bad-blood_34777)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 31m • Cantonese • Action, Thriller • mobe1969**

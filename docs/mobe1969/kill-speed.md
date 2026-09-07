@@ -1,5 +1,7 @@
 # Kill Speed
 
+[Compare across authors](../../compare/?t=film-kill-speed_47467)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 1h 53m • Crime, Action, Thriller • mobe1969**

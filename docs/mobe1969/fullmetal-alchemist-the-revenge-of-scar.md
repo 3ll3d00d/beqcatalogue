@@ -1,5 +1,7 @@
 # Fullmetal Alchemist The Revenge of Scar
 
+[Compare across authors](../../compare/?t=film-fullmetal-alchemist-the-revenge-of-scar_960700)
+
 ## DD+ 5.1
 
 **2022 • PG-13 • 2h 5m • Japanese • Action, Adventure, Fantasy • mobe1969**

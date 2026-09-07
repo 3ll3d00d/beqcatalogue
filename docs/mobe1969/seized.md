@@ -1,5 +1,7 @@
 # Seized
 
+[Compare across authors](../../compare/?t=film-seized_572751)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 25m • Action, Thriller • mobe1969**

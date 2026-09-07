@@ -1,5 +1,7 @@
 # Dus
 
+[Compare across authors](../../compare/?t=film-dus_58302)
+
 ## DD+ 5.1
 
 **2005 • NR • 2h 26m • Hindi • Action, Crime, Thriller • mobe1969**

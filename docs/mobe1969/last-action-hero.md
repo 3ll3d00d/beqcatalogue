@@ -1,5 +1,7 @@
 # Last Action Hero
 
+[Compare across authors](../../compare/?t=film-last-action-hero_9593)
+
 ## Atmos
 
 **1993 • PG-13 • 2h 10m • Adventure, Fantasy, Action, Comedy, Family • mobe1969**

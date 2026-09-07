@@ -1,5 +1,7 @@
 # Final Score
 
+[Compare across authors](../../compare/?t=film-final-score_421658)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2018 • R • 1h 45m • Action, Thriller • mobe1969**

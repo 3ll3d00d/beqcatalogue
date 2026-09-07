@@ -1,5 +1,7 @@
 # Valley of the Gods
 
+[Compare across authors](../../compare/?t=film-valley-of-the-gods_331044)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 2h 11m • Drama • mobe1969**

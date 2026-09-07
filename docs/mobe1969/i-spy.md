@@ -1,5 +1,7 @@
 # I Spy
 
+[Compare across authors](../../compare/?t=film-i-spy_8427)
+
 ## DTS-HD MA 5.1
 
 **2002 • PG-13 • 1h 37m • Thriller, Adventure, Action, Comedy • mobe1969**

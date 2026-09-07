@@ -1,5 +1,7 @@
 # Salt
 
+[Compare across authors](../../compare/?t=film-salt_27576)
+
 ## Atmos
 
 Theatrical Cut

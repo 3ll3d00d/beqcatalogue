@@ -1,5 +1,7 @@
 # Con Air
 
+[Compare across authors](../../compare/?t=film-con-air_1701)
+
 ## LPCM 5.1, DD+ 5.1, DD 5.1
 
 **1997 • R • 1h 56m • Action, Thriller, Crime • mobe1969**

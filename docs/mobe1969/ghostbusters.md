@@ -1,5 +1,7 @@
 # Ghostbusters
 
+[Compare across authors](../../compare/?t=film-ghostbusters_620)
+
 ## Atmos
 
 **1984 • PG • 1h 47m • Comedy, Fantasy • mobe1969**

@@ -1,5 +1,7 @@
 # The Town That Dreaded Sundown
 
+[Compare across authors](../../compare/?t=film-the-town-that-dreaded-sundown_287084)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 25m • Thriller, Horror • mobe1969**

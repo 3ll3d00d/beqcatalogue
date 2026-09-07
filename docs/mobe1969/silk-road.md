@@ -1,5 +1,7 @@
 # Silk Road
 
+[Compare across authors](../../compare/?t=film-silk-road_579051)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 56m • Crime, Thriller, Drama • mobe1969**

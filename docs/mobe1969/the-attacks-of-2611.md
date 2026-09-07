@@ -1,5 +1,7 @@
 # The Attacks Of 26/11
 
+[Compare across authors](../../compare/?t=film-the-attacks-of-2611_171879)
+
 ## DD 5.1
 
 **2013 • 18 • 1h 56m • Hindi • Action, Crime, History, Thriller • mobe1969**

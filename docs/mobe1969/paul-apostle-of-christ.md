@@ -1,5 +1,7 @@
 # Paul, Apostle of Christ
 
+[Compare across authors](../../compare/?t=film-paul-apostle-of-christ_476968)
+
 ## DTS-HD MA 5.1
 
 **2018 • PG-13 • 1h 48m • Drama, History • mobe1969**

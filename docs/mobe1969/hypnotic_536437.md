@@ -1,5 +1,7 @@
 # Hypnotic
 
+[Compare across authors](../../compare/?t=film-hypnotic_536437)
+
 ## DTS-HD MA 5.1
 
 **2023 • R • 1h 34m • Mystery, Thriller, Science Fiction • mobe1969**

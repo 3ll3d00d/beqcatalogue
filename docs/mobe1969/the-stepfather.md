@@ -1,5 +1,7 @@
 # The Stepfather
 
+[Compare across authors](../../compare/?t=film-the-stepfather_19904)
+
 ## DTS-HD MA 5.1
 
 **2009 • PG-13 • 1h 41m • Thriller, Horror • mobe1969**

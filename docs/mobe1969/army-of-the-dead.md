@@ -1,5 +1,7 @@
 # Army of the Dead
 
+[Compare across authors](../../compare/?t=film-army-of-the-dead_503736)
+
 ## DD+ Atmos
 
 **2021 • R • 2h 28m • Action, Crime, Horror, Thriller • mobe1969**

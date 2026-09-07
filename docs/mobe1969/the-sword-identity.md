@@ -1,5 +1,7 @@
 # The Sword Identity
 
+[Compare across authors](../../compare/?t=film-the-sword-identity_120460)
+
 ## DD+ 5.1
 
 **2011 • NR • 1h 50m • Mandarin • Drama, Action • mobe1969**

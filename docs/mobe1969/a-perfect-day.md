@@ -1,5 +1,7 @@
 # A Perfect Day
 
+[Compare across authors](../../compare/?t=film-a-perfect-day_321751)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 46m • Drama, War, Comedy • mobe1969**

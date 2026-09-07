@@ -1,5 +1,7 @@
 # A Day To Die
 
+[Compare across authors](../../compare/?t=film-a-day-to-die_864116)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2022 • R • 1h 41m • Action, Thriller, Crime • mobe1969**

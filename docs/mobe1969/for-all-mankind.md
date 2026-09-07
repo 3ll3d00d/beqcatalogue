@@ -1,5 +1,7 @@
 # For All Mankind
 
+[Compare across authors](../../compare/?t=film-for-all-mankind_20423)
+
 ## DTS-HD MA 5.1
 
 **1989 • NR • 1h 20m • History, Documentary • mobe1969**

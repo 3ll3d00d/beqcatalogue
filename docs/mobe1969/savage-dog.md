@@ -1,5 +1,7 @@
 # Savage Dog
 
+[Compare across authors](../../compare/?t=film-savage-dog_437291)
+
 ## DTS-HD MA 5.1
 
 **2017 • NR • 1h 34m • Action • mobe1969**

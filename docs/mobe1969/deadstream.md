@@ -1,5 +1,7 @@
 # Deadstream
 
+[Compare across authors](../../compare/?t=film-deadstream_886083)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 27m • Horror, Comedy • mobe1969**

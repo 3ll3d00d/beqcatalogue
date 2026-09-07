@@ -1,5 +1,7 @@
 # Horrible Bosses 2
 
+[Compare across authors](../../compare/?t=film-horrible-bosses-2_227159)
+
 ## DTS-HD MA 5.1
 
 Theatrical Cut

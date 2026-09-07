@@ -1,5 +1,7 @@
 # The 9th Precinct
 
+[Compare across authors](../../compare/?t=film-the-9th-precinct_615137)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 34m • Mandarin • Fantasy, Thriller, Crime • mobe1969**

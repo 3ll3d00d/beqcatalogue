@@ -1,5 +1,7 @@
 # Backtrack
 
+[Compare across authors](../../compare/?t=film-backtrack_332704)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 30m • Horror, Thriller • mobe1969**

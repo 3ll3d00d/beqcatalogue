@@ -1,5 +1,7 @@
 # Above the Shadows
 
+[Compare across authors](../../compare/?t=film-above-the-shadows_609734)
+
 ## DTS-HD MA 5.1
 
 **2019 • NR • 1h 51m • Fantasy, Romance • mobe1969**

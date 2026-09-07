@@ -1,5 +1,7 @@
 # Svaha: The Sixth Finger
 
+[Compare across authors](../../compare/?t=film-svaha-the-sixth-finger_556509)
+
 ## DD+ 5.1
 
 **2019 • NR • 2h 2m • Korean • Mystery, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Before I Go to Sleep
 
+[Compare across authors](../../compare/?t=film-before-i-go-to-sleep_204922)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 32m • Mystery, Thriller • mobe1969**

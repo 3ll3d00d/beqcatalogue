@@ -1,5 +1,7 @@
 # Inside Man: Most Wanted
 
+[Compare across authors](../../compare/?t=film-inside-man-most-wanted_619278)
+
 ## DTS-HD MA 5.1
 
 **2019 • R • 1h 46m • Action, Thriller • mobe1969**

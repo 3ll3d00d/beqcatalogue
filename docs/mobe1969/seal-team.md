@@ -1,5 +1,7 @@
 # Seal Team
 
+[Compare across authors](../../compare/?t=film-seal-team_823610)
+
 ## DD+ Atmos
 
 **2021 • PG • 1h 38m • Animation, Family, Comedy • mobe1969**

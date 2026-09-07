@@ -1,5 +1,7 @@
 # Paradox
 
+[Compare across authors](../../compare/?t=film-paradox_452558)
+
 ## TrueHD 5.1
 
 **2017 • NR • 1h 41m • Cantonese • Crime, Action, Drama • mobe1969**

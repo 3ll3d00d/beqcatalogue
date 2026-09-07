@@ -1,5 +1,7 @@
 # Serpico
 
+[Compare across authors](../../compare/?t=film-serpico_9040)
+
 ## LPCM 2.0
 
 **1973 • R • 2h 10m • Crime, History, Drama • mobe1969**

@@ -1,5 +1,7 @@
 # Kolaiyuthir Kaalam
 
+[Compare across authors](../../compare/?t=film-kolaiyuthir-kaalam_496029)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 49m • Tamil • Crime, Thriller, Horror • mobe1969**

@@ -1,5 +1,7 @@
 # A Breath Away
 
+[Compare across authors](../../compare/?t=film-a-breath-away_477489)
+
 ## DTS-HD MA 5.1
 
 **2018 • 12 • 1h 30m • French • Drama, Science Fiction, Thriller • mobe1969**

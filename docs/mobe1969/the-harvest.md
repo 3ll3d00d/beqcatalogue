@@ -1,5 +1,7 @@
 # The Harvest
 
+[Compare across authors](../../compare/?t=film-the-harvest_229182)
+
 ## DTS-HD MA 5.1
 
 **2013 • 16 • 1h 44m • Horror, Thriller • mobe1969**

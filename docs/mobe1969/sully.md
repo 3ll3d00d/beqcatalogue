@@ -1,5 +1,7 @@
 # Sully
 
+[Compare across authors](../../compare/?t=film-sully_363676)
+
 ## Atmos
 
 **2016 • PG-13 • 1h 36m • Drama, History • mobe1969**

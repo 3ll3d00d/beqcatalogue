@@ -1,5 +1,7 @@
 # Batman Ninja
 
+[Compare across authors](../../compare/?t=film-batman-ninja_485942)
+
 ## DD+ 5.1
 
 **2018 • PG-13 • 1h 25m • Japanese • Animation, Action, Science Fiction • mobe1969**

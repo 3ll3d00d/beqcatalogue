@@ -1,5 +1,7 @@
 # Romancing the Stone
 
+[Compare across authors](../../compare/?t=film-romancing-the-stone_9326)
+
 ## DTS-HD MA 5.1
 
 **1984 • PG • 1h 46m • Adventure, Action, Romance, Comedy • mobe1969**

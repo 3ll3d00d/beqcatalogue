@@ -1,5 +1,7 @@
 # Mark of the Devil
 
+[Compare across authors](../../compare/?t=film-mark-of-the-devil_586265)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 22m • Spanish • Horror • mobe1969**

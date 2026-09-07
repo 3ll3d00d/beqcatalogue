@@ -1,5 +1,7 @@
 # The Hot Spot
 
+[Compare across authors](../../compare/?t=film-the-hot-spot_14864)
+
 ## DTS-HD MA 5.1
 
 **1990 • NR • 2h 10m • Romance, Crime, Thriller • mobe1969**

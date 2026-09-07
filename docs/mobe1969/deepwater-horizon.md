@@ -1,5 +1,7 @@
 # Deepwater Horizon
 
+[Compare across authors](../../compare/?t=film-deepwater-horizon_296524)
+
 ## Atmos
 
 **2016 • PG-13 • 1h 47m • Drama, Action • mobe1969**

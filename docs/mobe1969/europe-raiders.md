@@ -1,5 +1,7 @@
 # Europe Raiders
 
+[Compare across authors](../../compare/?t=film-europe-raiders_420644)
+
 ## TrueHD 7.1
 
 **2018 • NR • 1h 41m • Cantonese • Drama, Action, Adventure, Thriller • mobe1969**

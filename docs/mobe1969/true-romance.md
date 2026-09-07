@@ -1,5 +1,7 @@
 # True Romance
 
+[Compare across authors](../../compare/?t=film-true-romance_319)
+
 ## DTS-HD MA 5.1
 
 **1993 • R • 1h 58m • Action, Thriller, Crime, Romance • mobe1969**

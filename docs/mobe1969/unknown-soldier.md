@@ -1,5 +1,7 @@
 # Unknown Soldier
 
+[Compare across authors](../../compare/?t=film-unknown-soldier_400728)
+
 ## Atmos
 
 **2018 • NR • 2h 59m • Finnish • Drama, War • mobe1969**

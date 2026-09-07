@@ -1,5 +1,7 @@
 # Detective Dee: The Four Heavenly Kings
 
+[Compare across authors](../../compare/?t=film-detective-dee-the-four-heavenly-kings_506763)
+
 ## DTS-HD MA 5.1
 
 **2018 • NR • 2h 12m • Mandarin • Mystery, Fantasy, Adventure, Action • mobe1969**

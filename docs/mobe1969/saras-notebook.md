@@ -1,5 +1,7 @@
 # Sara's Notebook
 
+[Compare across authors](../../compare/?t=film-saras-notebook_449019)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 55m • Spanish • Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Miraculous: Ladybug & Cat Noir, The Movie
 
+[Compare across authors](../../compare/?t=film-miraculous-ladybug-cat-noir-the-movie_496450)
+
 ## DD+ 5.1
 
 **2023 • PG • 1h 47m • Animation, Family, Action, Fantasy, Romance • mobe1969**

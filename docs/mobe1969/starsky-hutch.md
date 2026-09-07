@@ -1,5 +1,7 @@
 # Starsky & Hutch
 
+[Compare across authors](../../compare/?t=film-starsky-hutch_9384)
+
 ## LPCM 5.1
 
 **2004 • PG-13 • 1h 41m • Comedy, Crime • mobe1969**

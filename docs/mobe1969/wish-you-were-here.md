@@ -1,5 +1,7 @@
 # Wish You Were Here
 
+[Compare across authors](../../compare/?t=film-wish-you-were-here_60270)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 33m • Drama, Thriller, Mystery • mobe1969**

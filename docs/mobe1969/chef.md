@@ -1,5 +1,7 @@
 # Chef
 
+[Compare across authors](../../compare/?t=film-chef_212778)
+
 ## DTS-HD MA 5.1
 
 **2014 • R • 1h 54m • Comedy • mobe1969**

@@ -1,5 +1,7 @@
 # TRON: Legacy
 
+[Compare across authors](../../compare/?t=film-tron-legacy_20526)
+
 ## DTS-HD MA 7.1
 
 **2010 • PG • 2h 5m • Adventure, Action, Science Fiction • mobe1969**

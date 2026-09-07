@@ -1,5 +1,7 @@
 # No Limit
 
+[Compare across authors](../../compare/?t=film-no-limit_911129)
+
 ## DD+ 5.1
 
 **2022 • NR • 0h 0m • French • Drama • mobe1969**

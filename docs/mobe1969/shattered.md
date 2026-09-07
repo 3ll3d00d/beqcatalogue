@@ -1,5 +1,7 @@
 # Shattered
 
+[Compare across authors](../../compare/?t=film-shattered_844398)
+
 ## DTS-HD MA 5.1
 
 **2022 • R • 1h 32m • Thriller • mobe1969**

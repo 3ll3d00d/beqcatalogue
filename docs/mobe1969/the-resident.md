@@ -1,5 +1,7 @@
 # The Resident
 
+[Compare across authors](../../compare/?t=film-the-resident_50671)
+
 ## DTS-HD MA 5.1
 
 **2011 • R • 1h 31m • Mystery, Thriller • mobe1969**

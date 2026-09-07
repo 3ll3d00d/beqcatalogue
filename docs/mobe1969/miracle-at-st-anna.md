@@ -1,5 +1,7 @@
 # Miracle at St. Anna
 
+[Compare across authors](../../compare/?t=film-miracle-at-st-anna_12412)
+
 ## DTS-HD MA 5.1
 
 **2008 • R • 2h 40m • Drama, War • mobe1969**

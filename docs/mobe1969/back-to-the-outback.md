@@ -1,5 +1,7 @@
 # Back to the Outback
 
+[Compare across authors](../../compare/?t=film-back-to-the-outback_770254)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2021 • PG • 1h 32m • Animation, Adventure, Comedy, Family • mobe1969**

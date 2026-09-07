@@ -1,5 +1,7 @@
 # The Man from U.N.C.L.E.
 
+[Compare across authors](../../compare/?t=film-the-man-from-uncle_203801)
+
 ## Atmos, DD+ 5.1, DD 5.1
 
 **2015 • PG-13 • 1h 56m • Comedy, Action, Adventure • mobe1969**

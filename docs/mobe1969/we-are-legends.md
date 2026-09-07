@@ -1,5 +1,7 @@
 # We Are Legends
 
+[Compare across authors](../../compare/?t=film-we-are-legends_589677)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 48m • Cantonese • Action • mobe1969**

@@ -1,5 +1,7 @@
 # The Last of the Mohicans
 
+[Compare across authors](../../compare/?t=film-the-last-of-the-mohicans_9361)
+
 ## DTS-HD MA 5.1
 
 Director's Cut

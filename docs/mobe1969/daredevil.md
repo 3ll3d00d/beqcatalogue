@@ -1,5 +1,7 @@
 # Daredevil
 
+[Compare across authors](../../compare/?t=film-daredevil_9480)
+
 ## DD+ 5.1
 
 Theatrical Cut

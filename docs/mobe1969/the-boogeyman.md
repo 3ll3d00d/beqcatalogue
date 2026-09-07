@@ -1,5 +1,7 @@
 # The Boogeyman
 
+[Compare across authors](../../compare/?t=film-the-boogeyman_532408)
+
 ## DD+ Atmos
 
 **2023 • PG-13 • 1h 39m • Horror, Mystery, Fantasy • mobe1969**

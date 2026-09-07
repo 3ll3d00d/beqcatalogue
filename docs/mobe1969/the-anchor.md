@@ -1,5 +1,7 @@
 # The Anchor
 
+[Compare across authors](../../compare/?t=film-the-anchor_626129)
+
 ## DTS-HD MA 5.1
 
 **2022 • NR • 1h 51m • Korean • Thriller, Mystery • mobe1969**

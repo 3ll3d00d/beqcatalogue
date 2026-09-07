@@ -1,5 +1,7 @@
 # The Angry Birds Movie 2
 
+[Compare across authors](../../compare/?t=film-the-angry-birds-movie-2_454640)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG • 1h 37m • Animation, Comedy, Adventure, Family • mobe1969**

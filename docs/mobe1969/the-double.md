@@ -1,5 +1,7 @@
 # The Double
 
+[Compare across authors](../../compare/?t=film-the-double_73499)
+
 ## DTS-HD MA 5.1
 
 **2011 • PG-13 • 1h 38m • Crime, Drama, Action • mobe1969**

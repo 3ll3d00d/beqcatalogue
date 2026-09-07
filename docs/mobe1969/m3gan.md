@@ -1,5 +1,7 @@
 # M3GAN
 
+[Compare across authors](../../compare/?t=film-m3gan_536554)
+
 ## Atmos
 
 Unrated Cut

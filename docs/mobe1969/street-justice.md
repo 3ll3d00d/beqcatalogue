@@ -1,5 +1,7 @@
 # Street Justice
 
+[Compare across authors](../../compare/?t=film-street-justice_490017)
+
 ## DTS-HD MA 5.1
 
 **2017 • 15 • 1h 36m • Action, Thriller • mobe1969**

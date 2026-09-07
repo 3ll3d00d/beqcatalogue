@@ -1,5 +1,7 @@
 # Your Son
 
+[Compare across authors](../../compare/?t=film-your-son_534939)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 43m • Spanish • Drama, Thriller • mobe1969**

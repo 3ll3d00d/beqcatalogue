@@ -1,5 +1,7 @@
 # Criminal Activities
 
+[Compare across authors](../../compare/?t=film-criminal-activities_334527)
+
 ## DTS-HD MA 5.1, DD+ 5.1
 
 **2015 • R • 1h 34m • Thriller, Crime, Drama • mobe1969**

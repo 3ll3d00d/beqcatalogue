@@ -1,5 +1,7 @@
 # Thiruvin Kural
 
+[Compare across authors](../../compare/?t=film-thiruvin-kural_1089204)
+
 ## DD+ 5.1
 
 **2023 • NR • 2h 2m • Tamil • Drama, Thriller, Action • mobe1969**

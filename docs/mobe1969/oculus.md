@@ -1,5 +1,7 @@
 # Oculus
 
+[Compare across authors](../../compare/?t=film-oculus_157547)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 44m • Horror • mobe1969**

@@ -1,5 +1,7 @@
 # Faraaz
 
+[Compare across authors](../../compare/?t=film-faraaz_1019638)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 50m • Hindi • Action, Thriller • mobe1969**

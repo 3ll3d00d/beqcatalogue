@@ -1,5 +1,7 @@
 # Slate
 
+[Compare across authors](../../compare/?t=film-slate_747984)
+
 ## LPCM 2.0
 
 **2020 • NR • 1h 39m • Korean • Action, Comedy • mobe1969**

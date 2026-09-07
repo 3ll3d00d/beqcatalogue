@@ -1,5 +1,7 @@
 # The Legacy of a Whitetail Deer Hunter
 
+[Compare across authors](../../compare/?t=film-the-legacy-of-a-whitetail-deer-hunter_311307)
+
 ## DD+ 5.1
 
 **2018 • NR • 1h 23m • Comedy • mobe1969**

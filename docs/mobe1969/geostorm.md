@@ -1,5 +1,7 @@
 # Geostorm
 
+[Compare across authors](../../compare/?t=film-geostorm_274855)
+
 ## DTS-HD MA 5.1
 
 **2017 • PG-13 • 1h 49m • Action, Science Fiction, Thriller • mobe1969**

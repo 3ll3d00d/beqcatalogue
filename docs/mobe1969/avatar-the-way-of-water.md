@@ -1,5 +1,7 @@
 # Avatar: The Way of Water
 
+[Compare across authors](../../compare/?t=film-avatar-the-way-of-water_76600)
+
 ## Atmos, DTS-HD MA 7.1, DTS-HD MA 5.1
 
 **2022 • PG-13 • 3h 12m • Science Fiction, Adventure, Action • mobe1969**

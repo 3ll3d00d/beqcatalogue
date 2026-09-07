@@ -1,5 +1,7 @@
 # The Father Who Moves Mountains
 
+[Compare across authors](../../compare/?t=film-the-father-who-moves-mountains_840427)
+
 ## DD+ 5.1
 
 **2021 • PG-13 • 1h 48m • Romanian • Drama, Thriller • mobe1969**

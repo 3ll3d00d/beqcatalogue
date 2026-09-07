@@ -1,5 +1,7 @@
 # StarDog and TurboCat
 
+[Compare across authors](../../compare/?t=film-stardog-and-turbocat_515789)
+
 ## DTS-HD MA 5.1
 
 **2019 • PG • 1h 28m • Animation, Comedy, Family • mobe1969**

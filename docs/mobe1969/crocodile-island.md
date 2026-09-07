@@ -1,5 +1,7 @@
 # Crocodile Island
 
+[Compare across authors](../../compare/?t=film-crocodile-island_669748)
+
 ## DTS-HD MA 5.1
 
 **2020 • NR • 1h 26m • Mandarin • Adventure, Fantasy, Action, Thriller • mobe1969**

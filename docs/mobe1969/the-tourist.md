@@ -1,5 +1,7 @@
 # The Tourist
 
+[Compare across authors](../../compare/?t=film-the-tourist_37710)
+
 ## DTS-HD MA 5.1
 
 **2010 • PG-13 • 1h 43m • Action, Thriller, Romance • mobe1969**

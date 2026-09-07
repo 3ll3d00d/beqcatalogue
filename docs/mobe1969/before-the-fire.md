@@ -1,5 +1,7 @@
 # Before the Fire
 
+[Compare across authors](../../compare/?t=film-before-the-fire_671145)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 32m • Drama, Thriller • mobe1969**

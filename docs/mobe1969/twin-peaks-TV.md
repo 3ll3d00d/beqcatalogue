@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-twin-peaks_1920)
+
 ## Season 3
 
 * TrueHD 5.1

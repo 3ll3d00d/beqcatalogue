@@ -1,5 +1,7 @@
 # Ooops! Noah Is Gone...
 
+[Compare across authors](../../compare/?t=film-ooops-noah-is-gone_326215)
+
 ## DTS-HD MA 5.1
 
 **2015 • G • 1h 25m • Animation, Adventure, Comedy, Family • mobe1969**

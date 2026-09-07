@@ -1,5 +1,7 @@
 # Edge of Darkness
 
+[Compare across authors](../../compare/?t=film-edge-of-darkness_12201)
+
 ## DTS-HD MA 5.1, TrueHD 5.1
 
 **2010 • R • 1h 57m • Crime, Drama, Mystery, Thriller • mobe1969**

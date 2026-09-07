@@ -1,5 +1,7 @@
 # Halloween
 
+[Compare across authors](../../compare/?t=film-halloween_2082)
+
 ## TrueHD 5.1
 
 Director's Cut

@@ -1,5 +1,7 @@
 # Battle Royale II: Requiem
 
+[Compare across authors](../../compare/?t=film-battle-royale-ii-requiem_3177)
+
 ## TrueHD 5.1
 
 **2003 • 18 • 2h 35m • Japanese • Action, Thriller • mobe1969**

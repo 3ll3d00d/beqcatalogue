@@ -1,5 +1,7 @@
 # Boiling Point
 
+[Compare across authors](../../compare/?t=film-boiling-point_26936)
+
 ## LPCM 2.0
 
 **1990 • NR • 1h 36m • Japanese • Crime, Comedy, Drama • mobe1969**

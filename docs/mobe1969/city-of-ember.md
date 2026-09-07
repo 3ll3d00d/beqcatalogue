@@ -1,5 +1,7 @@
 # City of Ember
 
+[Compare across authors](../../compare/?t=film-city-of-ember_13600)
+
 ## DTS-HD MA 5.1
 
 **2008 • PG • 1h 30m • Fantasy, Family, Adventure • mobe1969**

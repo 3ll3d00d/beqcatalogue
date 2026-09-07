@@ -1,5 +1,7 @@
 # Tenacious D in The Pick of Destiny
 
+[Compare across authors](../../compare/?t=film-tenacious-d-in-the-pick-of-destiny_2179)
+
 ## DD 2.0
 
 **2006 • R • 1h 33m • Comedy, Music • mobe1969**

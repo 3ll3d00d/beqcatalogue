@@ -1,5 +1,7 @@
 # I Am Lisa
 
+[Compare across authors](../../compare/?t=film-i-am-lisa_728773)
+
 ## DD+ 5.1
 
 **2020 • 15 • 1h 32m • Horror, Thriller • mobe1969**

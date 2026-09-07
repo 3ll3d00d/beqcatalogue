@@ -1,5 +1,7 @@
 # Luck
 
+[Compare across authors](../../compare/?t=film-luck_585511)
+
 ## DD+ Atmos
 
 **2022 • G • 1h 45m • Animation, Adventure, Comedy, Fantasy • mobe1969**

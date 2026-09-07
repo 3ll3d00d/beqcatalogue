@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-hunters_79622)
+
 ## Season 1
 
 * DD+ 5.1

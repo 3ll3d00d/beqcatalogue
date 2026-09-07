@@ -1,5 +1,7 @@
 # Need for Speed
 
+[Compare across authors](../../compare/?t=film-need-for-speed_136797)
+
 ## DTS-HD MA 7.1
 
 **2014 • PG-13 • 2h 12m • Action, Crime, Drama, Thriller • mobe1969**

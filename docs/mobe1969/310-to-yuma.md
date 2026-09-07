@@ -1,5 +1,7 @@
 # 3:10 to Yuma
 
+[Compare across authors](../../compare/?t=film-310-to-yuma_5176)
+
 ## DTS-X
 
 **2007 • R • 2h 2m • Western • mobe1969**

@@ -1,5 +1,7 @@
 # Tales from Earthsea
 
+[Compare across authors](../../compare/?t=film-tales-from-earthsea_37933)
+
 ## DTS-HD MA 6.1
 
 **2006 • PG-13 • 1h 55m • Japanese • Animation, Fantasy, Adventure • mobe1969**

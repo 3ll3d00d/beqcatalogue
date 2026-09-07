@@ -1,5 +1,7 @@
 # The Silence
 
+[Compare across authors](../../compare/?t=film-the-silence_527261)
+
 ## DD+ 5.1
 
 **2019 • PG-13 • 1h 31m • Horror, Drama, Thriller, Fantasy • mobe1969**

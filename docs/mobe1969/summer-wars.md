@@ -1,5 +1,7 @@
 # Summer Wars
 
+[Compare across authors](../../compare/?t=film-summer-wars_28874)
+
 ## TrueHD 5.1
 
 **2009 • PG • 1h 54m • Japanese • Animation • mobe1969**

@@ -1,5 +1,7 @@
 # Embattled
 
+[Compare across authors](../../compare/?t=film-embattled_592643)
+
 ## DTS-HD MA 5.1
 
 **2020 • R • 1h 57m • Action, Drama • mobe1969**

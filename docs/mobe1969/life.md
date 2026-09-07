@@ -1,5 +1,7 @@
 # Life
 
+[Compare across authors](../../compare/?t=film-life_395992)
+
 ## Atmos, DD+ 5.1
 
 **2017 • R • 1h 44m • Horror, Science Fiction, Thriller • mobe1969**

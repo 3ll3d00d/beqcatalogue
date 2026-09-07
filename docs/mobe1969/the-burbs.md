@@ -1,5 +1,7 @@
 # The 'Burbs
 
+[Compare across authors](../../compare/?t=film-the-burbs_11974)
+
 ## DTS-HD MA 2.0
 
 **1989 • PG • 1h 42m • Comedy, Horror, Thriller • mobe1969**

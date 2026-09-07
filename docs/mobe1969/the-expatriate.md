@@ -1,5 +1,7 @@
 # The Expatriate
 
+[Compare across authors](../../compare/?t=film-the-expatriate_106021)
+
 ## DTS-HD MA 5.1
 
 **2012 • R • 1h 40m • Thriller, Action • mobe1969**

@@ -1,5 +1,7 @@
 # Freddy's Dead: The Final Nightmare
 
+[Compare across authors](../../compare/?t=film-freddys-dead-the-final-nightmare_11284)
+
 ## DTS-HD MA 5.1
 
 **1991 • R • 1h 29m • Horror, Thriller, Comedy • mobe1969**

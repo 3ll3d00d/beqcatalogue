@@ -1,5 +1,7 @@
 # Conan the Barbarian
 
+[Compare across authors](../../compare/?t=film-conan-the-barbarian_37430)
+
 ## DTS-HD MA 7.1
 
 **2011 • R • 1h 53m • Adventure, Fantasy, Action • mobe1969**

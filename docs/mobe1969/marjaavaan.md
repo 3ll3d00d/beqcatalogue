@@ -1,5 +1,7 @@
 # Marjaavaan
 
+[Compare across authors](../../compare/?t=film-marjaavaan_627715)
+
 ## DD+ 5.1
 
 **2019 • 15 • 2h 13m • Hindi • Romance, Action • mobe1969**

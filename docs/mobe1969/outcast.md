@@ -1,5 +1,7 @@
 # Outcast
 
+[Compare across authors](../../compare/?t=film-outcast_289720)
+
 ## DTS-HD MA 5.1
 
 **2014 • 15 • 1h 38m • Action • mobe1969**

@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-imperfects_203555)
+
 ## Season 1
 
 * DD+ Atmos

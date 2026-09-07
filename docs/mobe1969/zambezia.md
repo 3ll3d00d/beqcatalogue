@@ -1,5 +1,7 @@
 # Zambezia
 
+[Compare across authors](../../compare/?t=film-zambezia_133931)
+
 ## DTS-HD MA 5.1
 
 **2012 • G • 1h 23m • Comedy, Animation, Adventure, Family • mobe1969**

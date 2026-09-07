@@ -1,5 +1,7 @@
 # Sea Rex 3D: Journey to a Prehistoric World
 
+[Compare across authors](../../compare/?t=film-sea-rex-3d-journey-to-a-prehistoric-world_78394)
+
 ## DTS-HD MA 5.1
 
 **2010 • NR • 0h 41m • Documentary • mobe1969**

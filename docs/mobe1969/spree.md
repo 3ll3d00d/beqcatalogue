@@ -1,5 +1,7 @@
 # Spree
 
+[Compare across authors](../../compare/?t=film-spree_653598)
+
 ## DD+ 5.1
 
 **2020 • NR • 1h 33m • Horror, Comedy, Crime, Thriller • mobe1969**

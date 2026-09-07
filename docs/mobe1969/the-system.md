@@ -1,5 +1,7 @@
 # The System
 
+[Compare across authors](../../compare/?t=film-the-system_1024627)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 39m • Action, Crime, Thriller • mobe1969**

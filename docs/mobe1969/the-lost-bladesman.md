@@ -1,5 +1,7 @@
 # The Lost Bladesman
 
+[Compare across authors](../../compare/?t=film-the-lost-bladesman_62977)
+
 ## DTS-HD MA 5.1
 
 **2011 • NR • 1h 47m • Mandarin • History, Drama, Action, War • mobe1969**

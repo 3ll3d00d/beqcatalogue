@@ -1,5 +1,7 @@
 # Pokémon the Movie: Hoopa and the Clash of Ages
 
+[Compare across authors](../../compare/?t=film-pokemon-the-movie-hoopa-and-the-clash-of-ages_350499)
+
 ## LPCM 2.0
 
 **2015 • G • 1h 13m • Family, Adventure, Animation, Action, Fantasy • mobe1969**

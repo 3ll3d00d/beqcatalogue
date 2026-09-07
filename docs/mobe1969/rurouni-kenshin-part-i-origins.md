@@ -1,5 +1,7 @@
 # Rurouni Kenshin Part I: Origins
 
+[Compare across authors](../../compare/?t=film-rurouni-kenshin-part-i-origins_127533)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 2h 14m • Japanese • Action, Adventure, Drama, History • mobe1969**

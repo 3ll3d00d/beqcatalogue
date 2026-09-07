@@ -1,5 +1,7 @@
 # Striking Distance
 
+[Compare across authors](../../compare/?t=film-striking-distance_11074)
+
 ## TrueHD 5.1
 
 **1993 • R • 1h 42m • Mystery, Crime, Thriller, Action • mobe1969**

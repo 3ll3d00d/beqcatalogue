@@ -1,5 +1,7 @@
 # The Hunt
 
+[Compare across authors](../../compare/?t=film-the-hunt_152578)
+
 ## DTS-HD MA 5.1
 
 **2012 • NR • 0h 0m • Danish • Action, Horror, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Bangkok Dangerous
 
+[Compare across authors](../../compare/?t=film-bangkok-dangerous_13184)
+
 ## DTS-HD MA 7.1
 
 **2008 • R • 1h 39m • Action, Crime, Thriller • mobe1969**

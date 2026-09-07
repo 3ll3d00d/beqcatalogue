@@ -1,5 +1,7 @@
 # Miss Congeniality
 
+[Compare across authors](../../compare/?t=film-miss-congeniality_1493)
+
 ## DTS-HD MA 5.1
 
 **2000 • PG-13 • 1h 51m • Comedy, Crime, Action • mobe1969**

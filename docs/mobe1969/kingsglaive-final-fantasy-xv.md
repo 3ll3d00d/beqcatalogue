@@ -1,5 +1,7 @@
 # Kingsglaive: Final Fantasy XV
 
+[Compare across authors](../../compare/?t=film-kingsglaive-final-fantasy-xv_390734)
+
 ## DTS-HD MA 5.1
 
 **2016 • PG-13 • 1h 55m • Animation, Science Fiction, Action • mobe1969**

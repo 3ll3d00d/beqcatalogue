@@ -1,5 +1,7 @@
 # Saw X
 
+[Compare across authors](../../compare/?t=film-saw-x_951491)
+
 ## DD+ Atmos
 
 **2023 • R • 1h 58m • Horror, Thriller • mobe1969**

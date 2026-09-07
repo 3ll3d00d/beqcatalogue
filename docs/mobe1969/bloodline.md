@@ -1,5 +1,7 @@
 # Bloodline
 
+[Compare across authors](../../compare/?t=film-bloodline_543917)
+
 ## DTS-HD MA 5.1
 
 **2018 • 18 • 1h 35m • Horror, Crime, Thriller • mobe1969**

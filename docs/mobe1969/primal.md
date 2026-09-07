@@ -1,5 +1,7 @@
 # Primal
 
+[Compare across authors](../../compare/?t=film-primal_500916)
+
 ## DTS-HD MA 5.1
 
 **2019 • 15 • 1h 37m • Action • mobe1969**

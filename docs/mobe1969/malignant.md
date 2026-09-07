@@ -1,5 +1,7 @@
 # Malignant
 
+[Compare across authors](../../compare/?t=film-malignant_619778)
+
 ## DTS-HD MA 5.1
 
 **2021 • R • 1h 51m • Thriller, Horror, Mystery • mobe1969**

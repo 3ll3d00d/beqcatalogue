@@ -1,5 +1,7 @@
 # Endgame
 
+[Compare across authors](../../compare/?t=film-endgame_752803)
+
 ## Atmos
 
 **2021 • NR • 1h 59m • Mandarin • Comedy, Crime • mobe1969**

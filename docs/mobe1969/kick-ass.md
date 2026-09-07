@@ -1,5 +1,7 @@
 # Kick-Ass
 
+[Compare across authors](../../compare/?t=film-kick-ass_23483)
+
 ## Atmos, DTS-X, DTS-HD MA 7.1
 
 **2010 • R • 1h 57m • Action, Crime • mobe1969**

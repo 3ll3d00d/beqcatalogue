@@ -1,5 +1,7 @@
 # The Villainess
 
+[Compare across authors](../../compare/?t=film-the-villainess_437109)
+
 ## DTS-HD MA 5.1
 
 **2017 • MA15+ • 2h 9m • Korean • Drama, Action • mobe1969**

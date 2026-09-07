@@ -1,5 +1,7 @@
 # Witness
 
+[Compare across authors](../../compare/?t=film-witness_9281)
+
 ## DD+ 5.1
 
 **1985 • R • 1h 52m • Crime, Drama, Romance, Thriller • mobe1969**

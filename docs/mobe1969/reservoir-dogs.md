@@ -1,5 +1,7 @@
 # Reservoir Dogs
 
+[Compare across authors](../../compare/?t=film-reservoir-dogs_500)
+
 ## TrueHD 5.1
 
 **1992 • R • 1h 39m • Crime, Thriller • mobe1969**

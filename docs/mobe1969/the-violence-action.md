@@ -1,5 +1,7 @@
 # The Violence Action
 
+[Compare across authors](../../compare/?t=film-the-violence-action_961327)
+
 ## DD+ 5.1
 
 **2022 • NR • 0h 0m • Japanese • Action, Drama • mobe1969**

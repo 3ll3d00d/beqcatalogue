@@ -1,5 +1,7 @@
 # Lila & Eve
 
+[Compare across authors](../../compare/?t=film-lila-eve_309581)
+
 ## DD+ 5.1
 
 **2016 • R • 1h 34m • Thriller, Drama • mobe1969**

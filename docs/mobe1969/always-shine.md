@@ -1,5 +1,7 @@
 # Always Shine
 
+[Compare across authors](../../compare/?t=film-always-shine_385737)
+
 ## DD+ 5.1
 
 **2016 • NR • 1h 25m • Thriller, Drama, Horror, Mystery • mobe1969**

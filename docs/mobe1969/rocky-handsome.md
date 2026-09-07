@@ -1,5 +1,7 @@
 # Rocky Handsome
 
+[Compare across authors](../../compare/?t=film-rocky-handsome_376873)
+
 ## DD 5.1
 
 **2016 • R • 2h 6m • Hindi • Action, Thriller • mobe1969**

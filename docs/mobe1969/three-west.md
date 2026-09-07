@@ -1,5 +1,7 @@
 # Three West
 
+[Compare across authors](../../compare/?t=film-three-west_381018)
+
 ## DTS-HD MA 5.1
 
 **2016 • 16 • 1h 26m • Thriller • mobe1969**

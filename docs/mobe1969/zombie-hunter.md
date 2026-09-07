@@ -1,5 +1,7 @@
 # Zombie Hunter
 
+[Compare across authors](../../compare/?t=film-zombie-hunter_206213)
+
 ## DTS-HD MA 5.1
 
 **2013 • 18 • 1h 33m • Comedy, Thriller, Action, Science Fiction • mobe1969**

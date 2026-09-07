@@ -1,5 +1,7 @@
 # Next Friday
 
+[Compare across authors](../../compare/?t=film-next-friday_10471)
+
 ## DD+ 5.1
 
 **2000 • R • 1h 38m • Comedy • mobe1969**

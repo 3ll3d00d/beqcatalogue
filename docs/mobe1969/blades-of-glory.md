@@ -1,5 +1,7 @@
 # Blades of Glory
 
+[Compare across authors](../../compare/?t=film-blades-of-glory_9955)
+
 ## LPCM 5.1
 
 **2007 • PG-13 • 1h 33m • Comedy • mobe1969**

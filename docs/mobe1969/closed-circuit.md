@@ -1,5 +1,7 @@
 # Closed Circuit
 
+[Compare across authors](../../compare/?t=film-closed-circuit_146223)
+
 ## DTS-HD MA 5.1
 
 **2013 • R • 1h 36m • Thriller, Drama, Crime, Mystery • mobe1969**

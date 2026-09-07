@@ -1,5 +1,7 @@
 # The Last Days of American Crime
 
+[Compare across authors](../../compare/?t=film-the-last-days-of-american-crime_339095)
+
 ## DD+ Atmos, DD+ 5.1
 
 **2020 • NR • 2h 29m • Action, Crime, Thriller • mobe1969**

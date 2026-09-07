@@ -1,5 +1,7 @@
 # Wild Things
 
+[Compare across authors](../../compare/?t=film-wild-things_617)
+
 ## DTS-HD MA 5.1
 
 **1998 • R • 1h 48m • Mystery, Thriller, Drama • mobe1969**

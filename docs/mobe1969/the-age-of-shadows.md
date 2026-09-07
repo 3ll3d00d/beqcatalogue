@@ -1,5 +1,7 @@
 # The Age of Shadows
 
+[Compare across authors](../../compare/?t=film-the-age-of-shadows_363579)
+
 ## DTS-HD MA 5.1
 
 **2016 • 15 • 2h 20m • Korean • Action, Drama, Thriller • mobe1969**

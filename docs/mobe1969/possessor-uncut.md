@@ -1,5 +1,7 @@
 # Possessor Uncut
 
+[Compare across authors](../../compare/?t=film-possessor-uncut_435615)
+
 ## Atmos
 
 **2020 • R • 1h 44m • Horror, Thriller, Science Fiction • mobe1969**

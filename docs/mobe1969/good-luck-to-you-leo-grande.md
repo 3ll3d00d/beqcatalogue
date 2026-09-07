@@ -1,5 +1,7 @@
 # Good Luck to You, Leo Grande
 
+[Compare across authors](../../compare/?t=film-good-luck-to-you-leo-grande_758330)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 37m • Comedy, Romance, Drama • mobe1969**

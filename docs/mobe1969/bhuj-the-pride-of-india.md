@@ -1,5 +1,7 @@
 # Bhuj: The Pride of India
 
+[Compare across authors](../../compare/?t=film-bhuj-the-pride-of-india_590397)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 53m • Hindi • War, History, Action, Drama • mobe1969**

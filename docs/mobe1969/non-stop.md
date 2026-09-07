@@ -1,5 +1,7 @@
 # Non-Stop
 
+[Compare across authors](../../compare/?t=film-non-stop_225574)
+
 ## DD+ 5.1
 
 **2014 • PG-13 • 1h 46m • Action, Thriller, Mystery • mobe1969**

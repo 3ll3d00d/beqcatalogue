@@ -1,5 +1,7 @@
 # Bound to Vengeance
 
+[Compare across authors](../../compare/?t=film-bound-to-vengeance_310137)
+
 ## TrueHD 5.1
 
 **2015 • NR • 1h 20m • Thriller, Horror • mobe1969**

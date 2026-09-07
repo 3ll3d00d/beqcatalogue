@@ -1,5 +1,7 @@
 # Kiss Kiss Bang Bang
 
+[Compare across authors](../../compare/?t=film-kiss-kiss-bang-bang_5236)
+
 ## DD 5.1
 
 **2005 • R • 1h 43m • Action, Crime, Comedy • mobe1969**

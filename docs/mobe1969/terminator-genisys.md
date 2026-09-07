@@ -1,5 +1,7 @@
 # Terminator Genisys
 
+[Compare across authors](../../compare/?t=film-terminator-genisys_87101)
+
 ## Atmos, DD+ 5.1
 
 **2015 • PG-13 • 2h 6m • Science Fiction, Action, Thriller, Adventure • mobe1969**

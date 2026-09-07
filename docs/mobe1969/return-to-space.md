@@ -1,5 +1,7 @@
 # Return to Space
 
+[Compare across authors](../../compare/?t=film-return-to-space_950445)
+
 ## DD+ Atmos
 
 **2022 • 15 • 2h 8m • Documentary • mobe1969**

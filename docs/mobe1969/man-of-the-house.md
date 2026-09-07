@@ -1,5 +1,7 @@
 # Man of the House
 
+[Compare across authors](../../compare/?t=film-man-of-the-house_13498)
+
 ## DD+ 5.1
 
 **2005 • PG-13 • 1h 40m • Comedy, Action • mobe1969**

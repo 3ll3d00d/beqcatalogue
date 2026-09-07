@@ -1,5 +1,7 @@
 # Mortdecai
 
+[Compare across authors](../../compare/?t=film-mortdecai_210860)
+
 ## DTS-HD MA 5.1
 
 **2015 • R • 1h 46m • Comedy, Adventure • mobe1969**

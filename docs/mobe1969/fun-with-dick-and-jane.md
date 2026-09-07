@@ -1,5 +1,7 @@
 # Fun with Dick and Jane
 
+[Compare across authors](../../compare/?t=film-fun-with-dick-and-jane_7552)
+
 ## DD+ 5.1
 
 **2005 • PG-13 • 1h 30m • Comedy • mobe1969**

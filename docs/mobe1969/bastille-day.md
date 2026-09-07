@@ -1,5 +1,7 @@
 # Bastille Day
 
+[Compare across authors](../../compare/?t=film-bastille-day_333669)
+
 ## Atmos
 
 **2016 • R • 1h 32m • Action • mobe1969**

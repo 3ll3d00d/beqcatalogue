@@ -1,5 +1,7 @@
 # Feast
 
+[Compare across authors](../../compare/?t=film-feast_10070)
+
 ## DTS-HD MA 5.1
 
 **2005 • R • 1h 35m • Horror, Action, Thriller • mobe1969**

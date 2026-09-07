@@ -1,5 +1,7 @@
 # Aegis
 
+[Compare across authors](../../compare/?t=film-aegis_159535)
+
 ## DTS-HD MA 5.1
 
 **2005 • NR • 2h 7m • Japanese • Action, Drama • mobe1969**

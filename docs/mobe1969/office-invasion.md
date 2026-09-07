@@ -1,5 +1,7 @@
 # Office Invasion
 
+[Compare across authors](../../compare/?t=film-office-invasion_1006851)
+
 ## DD+ 5.1
 
 **2022 • R • 1h 52m • Comedy, Science Fiction • mobe1969**

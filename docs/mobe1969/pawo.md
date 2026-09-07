@@ -1,5 +1,7 @@
 # Pawo
 
+[Compare across authors](../../compare/?t=film-pawo_520929)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 2h 2m • History, Drama • mobe1969**

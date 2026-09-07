@@ -1,5 +1,7 @@
 # Space Cowboys
 
+[Compare across authors](../../compare/?t=film-space-cowboys_5551)
+
 ## DD 5.1
 
 **2000 • PG-13 • 2h 10m • Action, Adventure, Thriller • mobe1969**

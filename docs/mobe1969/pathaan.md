@@ -1,5 +1,7 @@
 # Pathaan
 
+[Compare across authors](../../compare/?t=film-pathaan_864692)
+
 ## DD 5.1
 
 Theatrical Cut

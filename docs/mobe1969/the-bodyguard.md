@@ -1,5 +1,7 @@
 # The Bodyguard
 
+[Compare across authors](../../compare/?t=film-the-bodyguard_315669)
+
 ## DTS-HD MA 5.1
 
 **2016 • NR • 1h 39m • Cantonese • Action, Drama, Crime • mobe1969**

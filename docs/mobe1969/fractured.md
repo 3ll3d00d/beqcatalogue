@@ -1,5 +1,7 @@
 # Fractured
 
+[Compare across authors](../../compare/?t=film-fractured_568091)
+
 ## DD+ Atmos
 
 **2019 • R • 1h 39m • Thriller • mobe1969**

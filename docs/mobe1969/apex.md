@@ -1,5 +1,7 @@
 # Apex
 
+[Compare across authors](../../compare/?t=film-apex_763164)
+
 ## DTS-HD MA 5.1
 
 **2021 • PG-13 • 1h 33m • Action, Thriller, Science Fiction • mobe1969**

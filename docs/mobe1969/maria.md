@@ -1,5 +1,7 @@
 # Maria
 
+[Compare across authors](../../compare/?t=film-maria_591121)
+
 ## DD+ 5.1
 
 **2019 • NR • 1h 29m • Tagalog • Action, Crime • mobe1969**

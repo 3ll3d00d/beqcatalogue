@@ -1,5 +1,7 @@
 # Spy Game
 
+[Compare across authors](../../compare/?t=film-spy-game_1535)
+
 ## DTS-HD MA 5.1
 
 **2001 • R • 2h 6m • Action, Crime, Thriller • mobe1969**

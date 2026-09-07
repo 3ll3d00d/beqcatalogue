@@ -1,5 +1,7 @@
 # Homunculus
 
+[Compare across authors](../../compare/?t=film-homunculus_741434)
+
 ## DD+ 5.1
 
 **2021 • NR • 1h 59m • Japanese • Drama, Thriller • mobe1969**

@@ -1,5 +1,7 @@
 # Simulant
 
+[Compare across authors](../../compare/?t=film-simulant_942199)
+
 ## DD+ 5.1
 
 **2023 • NR • 1h 35m • Science Fiction, Thriller • mobe1969**

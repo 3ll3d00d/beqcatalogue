@@ -2,6 +2,8 @@
 
 * Author: mobe1969
 
+[Compare across authors](../../compare/?t=TV-the-little-drummer-girl_76887)
+
 ## Season 1
 
 * DTS-HD MA 5.1

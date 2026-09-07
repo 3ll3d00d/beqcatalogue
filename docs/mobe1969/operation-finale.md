@@ -1,5 +1,7 @@
 # Operation Finale
 
+[Compare across authors](../../compare/?t=film-operation-finale_493551)
+
 ## DD+ 5.1
 
 **2018 • PG-13 • 2h 4m • Drama, History, Thriller • mobe1969**

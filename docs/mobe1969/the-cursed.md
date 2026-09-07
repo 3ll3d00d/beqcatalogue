@@ -1,5 +1,7 @@
 # The Cursed
 
+[Compare across authors](../../compare/?t=film-the-cursed_630392)
+
 ## DTS-HD MA 5.1
 
 **2021 • NR • 1h 51m • Horror, Fantasy, Mystery • mobe1969**

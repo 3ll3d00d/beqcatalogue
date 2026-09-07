@@ -1,5 +1,7 @@
 # Dragonheart: Vengeance
 
+[Compare across authors](../../compare/?t=film-dragonheart-vengeance_666750)
+
 ## DTS-HD MA 5.1
 
 **2020 • PG-13 • 1h 37m • Fantasy, Action, Adventure • mobe1969**

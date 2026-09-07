@@ -1,5 +1,7 @@
 # True Memoirs of an International Assassin
 
+[Compare across authors](../../compare/?t=film-true-memoirs-of-an-international-assassin_339396)
+
 ## DD+ 5.1
 
 **2016 • 15 • 1h 38m • Comedy, Action • mobe1969**
