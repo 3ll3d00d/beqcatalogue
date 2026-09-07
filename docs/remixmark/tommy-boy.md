@@ -14,7 +14,7 @@ To save the family business, two ne’er-do-well traveling salesmen hit the road
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1587?post_id=63994175#post-63994175)  [TMDB](https://www.themoviedb.org/movie/11381)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1587?post_id=63994175#post-63994175)  [TMDB](https://www.themoviedb.org/movie/11381)  [Compare across authors](../../compare/?t=film-tommy-boy_11381)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Tommy%20Boy%20(1995)%20(%2B4%20gain)%20TrueHD%205.1.jpg)

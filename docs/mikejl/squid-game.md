@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-squid-game_93405)
+
 * Production Year: 2021
 
 
@@ -20,6 +22,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-squid-game_93405)
+
 * Production Year: 2021
 
 
@@ -32,6 +36,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-squid-game_93405)
 
 * Production Year: 2021
 

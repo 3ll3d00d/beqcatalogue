@@ -10,6 +10,8 @@
 KO
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-the-8-show_156484)
+
 * Production Year: 2024
 
 

@@ -10,7 +10,7 @@ An archeologist noticed that the texture of the relics discovered during the exc
 cmn
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1116465)
+[TMDB](https://www.themoviedb.org/movie/1116465)  [Compare across authors](../../compare/?t=film-a-legend_1116465)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/A%20Legend%20(2024)%20(cmn)%20DTS-HD%20MA%205..jpg)

@@ -11,7 +11,7 @@ Dr Ryan Stone, an engineer on her first space mission, and Matt Kowalski, an ast
 
 **MV Adjustment:** -3.0 dB
 
-[Discuss](https://www.avsforum.com/posts/62981175/)  [TMDB](https://www.themoviedb.org/movie/49047)
+[Discuss](https://www.avsforum.com/posts/62981175/)  [TMDB](https://www.themoviedb.org/movie/49047)  [Compare across authors](../../compare/?t=film-gravity_49047)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Gravity%20(2013)%20(-3%20gain)%20DLE%20Atmos.jpg)

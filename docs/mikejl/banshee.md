@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-banshee_41727)
+
 * Production Year: 2013
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-banshee_41727)
 
 * Production Year: 2013
 
@@ -33,6 +37,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-banshee_41727)
+
 * Production Year: 2013
 
 
@@ -45,6 +51,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-banshee_41727)
 
 * Production Year: 2013
 

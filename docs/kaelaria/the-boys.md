@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2019
 
 

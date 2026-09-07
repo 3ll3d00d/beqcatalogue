@@ -12,7 +12,7 @@ When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El
 +5dB Dialnorm Compensation - DD+ Atmos/DD+
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1081003)
+[TMDB](https://www.themoviedb.org/movie/1081003)  [Compare across authors](../../compare/?t=film-supergirl_1081003)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Supergirl%20(2026)%20(-1%20gain)%20Atmos.jpg)

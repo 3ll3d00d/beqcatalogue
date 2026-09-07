@@ -7,7 +7,7 @@
 Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1049471)
+[TMDB](https://www.themoviedb.org/movie/1049471)  [Compare across authors](../../compare/?t=film-outcome_1049471)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Outcome/Outcome%20(2026)%20DD%2B%20Atmos.jpg)

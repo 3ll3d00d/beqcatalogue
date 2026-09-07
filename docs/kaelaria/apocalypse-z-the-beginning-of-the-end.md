@@ -10,7 +10,7 @@ When a kind of rabies that transforms people into aggressive creatures spreads a
 SPA
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1118031)
+[TMDB](https://www.themoviedb.org/movie/1118031)  [Compare across authors](../../compare/?t=film-apocalypse-z-the-beginning-of-the-end_1118031)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Apocalypse%20Z%20-%20The%20Beginning%20of%20the%20End%20(es)%20(2024)%20DD%2B%20Atmos.jpg)

@@ -7,7 +7,7 @@
 After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1495)
+[TMDB](https://www.themoviedb.org/movie/1495)  [Compare across authors](../../compare/?t=film-kingdom-of-heaven_1495)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Kingdom%20of%20Heaven%20(2005)%20TrueHD%20Atmos.jpg)

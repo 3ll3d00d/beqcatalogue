@@ -11,7 +11,7 @@ Duets is a road-trip comedy which revolves around the little known world of kara
 
 **MV Adjustment:** +8.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/18074)
+[TMDB](https://www.themoviedb.org/movie/18074)  [Compare across authors](../../compare/?t=film-duets_18074)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Duets%20(2000)%20(%2B8%20Gain)%20DTS-HD%20MA%205.1.png)

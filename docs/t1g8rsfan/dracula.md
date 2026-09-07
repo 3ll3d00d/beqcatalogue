@@ -9,7 +9,7 @@ When a 15th-century prince denounces God after the devastating loss of his wife,
 
 **MV Adjustment:** +3.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/1246049)
+[TMDB](https://www.themoviedb.org/movie/1246049)  [Compare across authors](../../compare/?t=film-dracula_1246049)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Dracula%20(2025)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

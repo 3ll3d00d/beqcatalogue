@@ -11,7 +11,7 @@ An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornad
 
 **MV Adjustment:** -5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1477?post_id=63409976#post-63409976)  [TMDB](https://www.themoviedb.org/movie/664)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1477?post_id=63409976#post-63409976)  [TMDB](https://www.themoviedb.org/movie/664)  [Compare across authors](../../compare/?t=film-twister_664)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Twister%20(1996)%20(-5.5%20gain)%20Atmos.jpg)

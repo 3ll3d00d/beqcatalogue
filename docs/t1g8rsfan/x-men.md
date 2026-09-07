@@ -9,7 +9,7 @@ Two mutants, Rogue and Wolverine, come to a private academy for their kind whose
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/36657)
+[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/36657)  [Compare across authors](../../compare/?t=film-x-men_36657)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/X-Men%20(2000)%20(-2%20gain)%20DTS-HD%20MA%205.1.jpg)

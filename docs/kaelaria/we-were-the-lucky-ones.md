@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-we-were-the-lucky-ones_200908)
+
 * Production Year: 2024
 
 

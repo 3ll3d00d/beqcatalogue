@@ -9,7 +9,7 @@ One man's campaign for vengeance takes on national stakes after he is revealed t
 
 **MV Adjustment:** +3.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/866398)
+[TMDB](https://www.themoviedb.org/movie/866398)  [Compare across authors](../../compare/?t=film-the-beekeeper_866398)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/The%20Beekeeper%20(2024)%20THD%20Atmos%20PvA.jpg)

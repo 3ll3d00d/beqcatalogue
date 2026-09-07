@@ -11,7 +11,7 @@ Terminal Island, New York: 2020. Overcrowding in the US penal system has reached
 
 **MV Adjustment:** -3.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/10483)
+[TMDB](https://www.themoviedb.org/movie/10483)  [Compare across authors](../../compare/?t=film-death-race_10483)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Death%20Race%20(2008)%20(-3%20gain)%20DTS-HD%20MA%205.1.jpg)

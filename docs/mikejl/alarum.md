@@ -7,7 +7,7 @@
 Two married spies caught in the crosshairs of an international intelligence network will stop at nothing to obtain a critical asset. Joe and Lara are agents living off the grid whose quiet retreat at a winter resort is blown to shreds when members of the old guard suspect the two may have joined an elite team of rogue spies, known as Alarum.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1249289)
+[TMDB](https://www.themoviedb.org/movie/1249289)  [Compare across authors](../../compare/?t=film-alarum_1249289)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Alarum/Alarum%20(2025)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ Two married spies caught in the crosshairs of an international intelligence netw
 Two married spies caught in the crosshairs of an international intelligence network will stop at nothing to obtain a critical asset. Joe and Lara are agents living off the grid whose quiet retreat at a winter resort is blown to shreds when members of the old guard suspect the two may have joined an elite team of rogue spies, known as Alarum.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1249289)
+[TMDB](https://www.themoviedb.org/movie/1249289)  [Compare across authors](../../compare/?t=film-alarum_1249289)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Alarum/Alarum%20(2025)%20DTS-HD%20MA%205.1.jpg)

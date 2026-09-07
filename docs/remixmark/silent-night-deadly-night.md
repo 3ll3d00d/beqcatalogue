@@ -9,7 +9,7 @@ After witnessing his parents' brutal murder on Christmas Eve, Billy transforms i
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1715?post_id=64486563#post-64486563)  [TMDB](https://www.themoviedb.org/movie/801937)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1715?post_id=64486563#post-64486563)  [TMDB](https://www.themoviedb.org/movie/801937)  [Compare across authors](../../compare/?t=film-silent-night-deadly-night_801937)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Silent%20Night%2C%20Deadly%20Night%20(2025)%20DTS-HD%20MA%205.1.jpg)

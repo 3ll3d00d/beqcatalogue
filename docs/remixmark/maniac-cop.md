@@ -9,7 +9,7 @@ A killer dressed in a police uniform begins murdering innocent people on the str
 
 **MV Adjustment:** +15.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64311290#post-64311290)  [TMDB](https://www.themoviedb.org/movie/14240)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64311290#post-64311290)  [TMDB](https://www.themoviedb.org/movie/14240)  [Compare across authors](../../compare/?t=film-maniac-cop_14240)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Maniac%20Cop%20(1988)%20(%2B15%20gain)%20DTS-HD%20MA%202.0.jpg)

@@ -7,6 +7,8 @@
 * Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-planet-earth-iii_116156)
+
 * Production Year: 2023
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-planet-earth-iii_116156)
 
 * Production Year: 2023
 

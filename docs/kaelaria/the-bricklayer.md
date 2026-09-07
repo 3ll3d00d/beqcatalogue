@@ -7,7 +7,7 @@
 Someone is blackmailing the CIA by assassinating foreign journalists and making it look like the agency is responsible. As the world begins to unite against the U.S., the CIA must lure its most brilliant – and rebellious – operative out of retirement, forcing him to confront his checkered past while unraveling an international conspiracy.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/927107)
+[TMDB](https://www.themoviedb.org/movie/927107)  [Compare across authors](../../compare/?t=film-the-bricklayer_927107)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Bricklaye%20(2023)%20DD%2B%205.1.jpg)

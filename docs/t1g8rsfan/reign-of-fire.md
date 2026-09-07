@@ -12,7 +12,7 @@ In post-apocalyptic England, an American volunteer and a British survivor team u
 Japanese release with English TrueHD 5.1 track...
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63042109)  [TMDB](https://www.themoviedb.org/movie/6278)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63042109)  [TMDB](https://www.themoviedb.org/movie/6278)  [Compare across authors](../../compare/?t=film-reign-of-fire_6278)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Reign%20of%20Fire%20(2002)%20(-4%20gain)%20TrueHD%205.1.jpg)

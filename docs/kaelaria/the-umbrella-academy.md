@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-umbrella-academy_75006)
+
 * Production Year: 2019
 
 

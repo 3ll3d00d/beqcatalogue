@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-residence_242054)
+
 * Production Year: 2025
 
 

@@ -12,7 +12,7 @@ Returning to her home planet, an infamous bounty hunter forms an unexpected alli
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63513298/)  [TMDB](https://www.themoviedb.org/movie/365177)
+[Discuss](https://www.avsforum.com/posts/63513298/)  [TMDB](https://www.themoviedb.org/movie/365177)  [Compare across authors](../../compare/?t=film-borderlands_365177)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Borderlands%20(2024)%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)

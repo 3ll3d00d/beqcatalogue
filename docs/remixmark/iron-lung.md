@@ -9,7 +9,7 @@ In a post-apocalyptic future where an event known as "The Quiet Rapture" caused 
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64636755#post-64636755)  [TMDB](https://www.themoviedb.org/movie/1116201)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64636755#post-64636755)  [TMDB](https://www.themoviedb.org/movie/1116201)  [Compare across authors](../../compare/?t=film-iron-lung_1116201)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Iron%20Lung%20(2026)%20(%2B2.5%20gain)%20DD%2B.jpg)

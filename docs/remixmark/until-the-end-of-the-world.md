@@ -11,7 +11,7 @@ In 1999, a woman's life is forever changed after she survives a car crash with t
 
 **MV Adjustment:** +7.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64008998#post-64008998)  [TMDB](https://www.themoviedb.org/movie/10341)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64008998#post-64008998)  [TMDB](https://www.themoviedb.org/movie/10341)  [Compare across authors](../../compare/?t=film-until-the-end-of-the-world_10341)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Until%20the%20End%20of%20the%20World%20(1991)%20(%2B7.5%20gain)%20DTS-HD%20MA%205.1%20Directors%20Cut.jpg)

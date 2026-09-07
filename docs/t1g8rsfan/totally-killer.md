@@ -10,7 +10,7 @@ When the infamous "Sweet Sixteen Killer" returns 35 years after his first murder
 +6dB Dialnorm Compensation - DD+ Atmos​ / +5.5 MV - DD+ (No Dialnorm Compensation)
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866030)  [TMDB](https://www.themoviedb.org/movie/974931)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866030)  [TMDB](https://www.themoviedb.org/movie/974931)  [Compare across authors](../../compare/?t=film-totally-killer_974931)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Totally%20Killer%20(2023)%20DD%2B%20Atmos%20PvA.jpg)

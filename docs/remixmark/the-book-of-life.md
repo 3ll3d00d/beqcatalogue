@@ -9,7 +9,7 @@ The journey of Manolo, a young man who is torn between fulfilling the expectatio
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1661?post_id=64237533#post-64237533)  [TMDB](https://www.themoviedb.org/movie/228326)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1661?post_id=64237533#post-64237533)  [TMDB](https://www.themoviedb.org/movie/228326)  [Compare across authors](../../compare/?t=film-the-book-of-life_228326)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Book%20of%20Life%20(2014)%20(%2B2.5%20gain)%20DTS-HD%20MA%207.1.jpg)

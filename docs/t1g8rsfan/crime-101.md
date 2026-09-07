@@ -12,7 +12,7 @@ When an elusive thief whose high-stakes heists unfold along the iconic 101 freew
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1171145)
+[TMDB](https://www.themoviedb.org/movie/1171145)  [Compare across authors](../../compare/?t=film-crime-101_1171145)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Crime%20101%20(2026)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

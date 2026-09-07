@@ -7,6 +7,8 @@
 * TrueHD 5.1
 
 
+* [Compare across authors](../../compare/?t=TV-stranger-things_66732)
+
 * Production Year: 2016
 
 
@@ -19,6 +21,8 @@
 
 * DD+ 5.1
 
+
+* [Compare across authors](../../compare/?t=TV-stranger-things_66732)
 
 * Production Year: 2016
 
@@ -33,6 +37,8 @@
 * DD+ 5.1
 
 
+* [Compare across authors](../../compare/?t=TV-stranger-things_66732)
+
 * Production Year: 2016
 
 
@@ -46,6 +52,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-stranger-things_66732)
+
 * Production Year: 2016
 
 
@@ -58,6 +66,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-stranger-things_66732)
 
 * Production Year: 2016
 

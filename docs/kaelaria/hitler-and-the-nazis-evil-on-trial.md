@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-hitler-and-the-nazis-evil-on-trial_253990)
+
 * Production Year: 2024
 
 

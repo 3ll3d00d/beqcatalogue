@@ -12,6 +12,8 @@
 Dialnorm Compensation: E01 +6dB, E02 +4dB, E03 +6dB, E04-E06 +5dB, E07-E08 +4dB
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-the-gentlemen_236235)
+
 * Production Year: 2024
 
 

@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-genie-make-a-wish_228689)
+
 * Production Year: 2025
 
 

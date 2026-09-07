@@ -7,7 +7,7 @@
 A biopic of 20-year-old Francis Ouimet who defeated his golfing idol and 1900 US Open Champion, Harry Vardon.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/15487)
+[TMDB](https://www.themoviedb.org/movie/15487)  [Compare across authors](../../compare/?t=film-the-greatest-game-ever-played_15487)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/the.greatest.game.ever.played.2005.jpg)

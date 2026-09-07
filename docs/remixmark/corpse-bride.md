@@ -9,7 +9,7 @@ In a 19th-century European village, a young man about to be married is whisked a
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1648?post_id=64214079#post-64214079)  [TMDB](https://www.themoviedb.org/movie/3933)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1648?post_id=64214079#post-64214079)  [TMDB](https://www.themoviedb.org/movie/3933)  [Compare across authors](../../compare/?t=film-corpse-bride_3933)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Corpse%20Bride%20(2005)%20(%2B2%20gain)%20Atmos.jpg)
@@ -27,7 +27,7 @@ Set in a 19th-century European village, this stop-motion animation feature follo
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1505?post_id=63565374#post-63565374)  [TMDB](https://www.themoviedb.org/movie/3933)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1505?post_id=63565374#post-63565374)  [TMDB](https://www.themoviedb.org/movie/3933)  [Compare across authors](../../compare/?t=film-corpse-bride_3933)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Corpse%20Bride%20(2005)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@ Suspicious of the events ensnaring their former colleagues, Nite Owl and Silk Sp
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1533?post_id=63680760#post-63680760)  [TMDB](https://www.themoviedb.org/movie/1299652)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1533?post_id=63680760#post-63680760)  [TMDB](https://www.themoviedb.org/movie/1299652)  [Compare across authors](../../compare/?t=film-watchmen-chapter-ii_1299652)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Watchmen%20Chapter%20II%20(2024)%20(%2B4%20gain)%20DD%2B.jpg)

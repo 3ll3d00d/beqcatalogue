@@ -11,7 +11,7 @@ Annie's life is a mess. But when she finds out her lifetime best friend is engag
 
 **MV Adjustment:** +8.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1738?post_id=64602298#post-64602298)  [TMDB](https://www.themoviedb.org/movie/55721)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1738?post_id=64602298#post-64602298)  [TMDB](https://www.themoviedb.org/movie/55721)  [Compare across authors](../../compare/?t=film-bridesmaids_55721)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Bridesmaids%20(2011)%20(%2B8.5%20gain)%20UHD%20Atmos.jpg)

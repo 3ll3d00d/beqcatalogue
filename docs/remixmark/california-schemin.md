@@ -9,7 +9,7 @@ In the late 1990s, Gavin Bain and Billy Boyd had their musical ambitions consist
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1754?post_id=64701045#post-64701045)  [TMDB](https://www.themoviedb.org/movie/1193550)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1754?post_id=64701045#post-64701045)  [TMDB](https://www.themoviedb.org/movie/1193550)  [Compare across authors](../../compare/?t=film-california-schemin_1193550)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/California%20Schemin'%20(2026)%20(-1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

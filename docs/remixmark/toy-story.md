@@ -9,7 +9,7 @@ Led by Woody, Andy's toys live happily in his room until Andy's birthday brings 
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64492920#post-64492920)  [TMDB](https://www.themoviedb.org/movie/862)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64492920#post-64492920)  [TMDB](https://www.themoviedb.org/movie/862)  [Compare across authors](../../compare/?t=film-toy-story_862)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Toy%20Story%20(1995)%20(%2B1.5%20gain)%20DTS-ES.jpg)

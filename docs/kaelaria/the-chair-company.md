@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-chair-company_271267)
+
 * Production Year: 2025
 
 

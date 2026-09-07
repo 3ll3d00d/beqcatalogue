@@ -12,7 +12,7 @@
 +1dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63029361)  [TMDB](https://www.themoviedb.org/movie/695721)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63029361)  [TMDB](https://www.themoviedb.org/movie/695721)  [Compare across authors](../../compare/?t=film-the-hunger-games-the-ballad-of-songbirds-snakes_695721)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Hunger%20Games%20BoSS%20(2023)%20(%2B5%20gain)%20Atmos.jpg)

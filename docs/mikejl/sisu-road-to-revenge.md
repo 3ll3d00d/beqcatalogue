@@ -7,7 +7,7 @@
 Returning to the house where his family was brutally murdered during the war, "the man who refuses to die" dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1223601)
+[TMDB](https://www.themoviedb.org/movie/1223601)  [Compare across authors](../../compare/?t=film-sisu-road-to-revenge_1223601)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Sisu/Sisu%202%20(2025)%20Atmos.jpg)

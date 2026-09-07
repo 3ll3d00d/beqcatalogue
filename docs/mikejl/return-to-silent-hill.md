@@ -7,7 +7,7 @@
 When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/680493)
+[TMDB](https://www.themoviedb.org/movie/680493)  [Compare across authors](../../compare/?t=film-return-to-silent-hill_680493)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Return%20to%20Silent%20Hill/Return%20to%20Silent%20Hill%20(2026)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ When James receives a mysterious letter from his lost love Mary, he is drawn to 
 When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/680493)
+[TMDB](https://www.themoviedb.org/movie/680493)  [Compare across authors](../../compare/?t=film-return-to-silent-hill_680493)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Return%20to%20Silent%20Hill/Return%20to%20Silent%20Hill%20(2026)%20DTS-HD%20MA%205.1.jpg)

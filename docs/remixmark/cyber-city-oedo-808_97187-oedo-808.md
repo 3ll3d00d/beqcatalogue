@@ -9,7 +9,7 @@ In the city of Oedo 2808a.d., three Cyber criminals are given two choices, to ei
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64293907#post-64293907)  [TMDB](https://www.themoviedb.org/movie/97187-oedo-808)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64293907#post-64293907)  [TMDB](https://www.themoviedb.org/movie/97187-oedo-808)  [Compare across authors](../../compare/?t=film-cyber-city-oedo-808_97187-oedo-808)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyber%20City%20Oedo%20808%20(1990)%20(%2B4.5%20gain)%20JA%20PCM%202.0.jpg)

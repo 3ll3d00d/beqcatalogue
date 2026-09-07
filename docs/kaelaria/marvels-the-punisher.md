@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-marvels-the-punisher_67178)
+
 * Production Year: 2017
 
 
@@ -19,6 +21,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-marvels-the-punisher_67178)
 
 * Production Year: 2017
 

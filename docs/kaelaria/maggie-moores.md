@@ -7,7 +7,7 @@
 The chief of police in a quiet Arizona town is suddenly faced with the back-to-back murders of two women with the same name.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/800089)
+[TMDB](https://www.themoviedb.org/movie/800089)  [Compare across authors](../../compare/?t=film-maggie-moores_800089)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Maggie%20Moores%20(2023)%20%20DTS-HD%20MA%205.1.jpg)

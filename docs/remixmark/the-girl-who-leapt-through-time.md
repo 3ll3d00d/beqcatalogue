@@ -12,7 +12,7 @@ When 17-year-old Makoto Konno gains the ability to, quite literally, "leap" back
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1449?post_id=63297869#post-63297869)  [TMDB](https://www.themoviedb.org/movie/14069)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1449?post_id=63297869#post-63297869)  [TMDB](https://www.themoviedb.org/movie/14069)  [Compare across authors](../../compare/?t=film-the-girl-who-leapt-through-time_14069)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Girl%20Who%20Lept%20Through%20Time%20(2006)%20(Ja)%20(%2B6%20gain)%20DTS-HD%20MA.jpg)

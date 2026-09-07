@@ -14,6 +14,8 @@ Dialnorm Compensation: 13dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1672?post_id=64276861#post-64276861)
 
+* [Compare across authors](../../compare/?t=TV-it-welcome-to-derry_200875)
+
 * Production Year: 2025
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 5dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1674?post_id=64284554#post-64284554)
+
+* [Compare across authors](../../compare/?t=TV-it-welcome-to-derry_200875)
 
 * Production Year: 2025
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: 12dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1678?post_id=64299844#post-64299844)
 
+* [Compare across authors](../../compare/?t=TV-it-welcome-to-derry_200875)
+
 * Production Year: 2025
 
 
@@ -74,6 +80,8 @@ Dialnorm Compensation: 12dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64311175#post-64311175)
 
+* [Compare across authors](../../compare/?t=TV-it-welcome-to-derry_200875)
+
 * Production Year: 2025
 
 
@@ -91,6 +99,8 @@ Dialnorm Compensation: 13dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64323001#post-64323001)
+
+* [Compare across authors](../../compare/?t=TV-it-welcome-to-derry_200875)
 
 * Production Year: 2025
 
@@ -112,6 +122,8 @@ Dialnorm Compensation: 11dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1685?post_id=64334167#post-64334167)
 
+* [Compare across authors](../../compare/?t=TV-it-welcome-to-derry_200875)
+
 * Production Year: 2025
 
 
@@ -129,6 +141,8 @@ Dialnorm Compensation: 8dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1686?post_id=64346985#post-64346985)
+
+* [Compare across authors](../../compare/?t=TV-it-welcome-to-derry_200875)
 
 * Production Year: 2025
 
@@ -149,6 +163,8 @@ Dialnorm Compensation: 9dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1689?post_id=64357942#post-64357942)
+
+* [Compare across authors](../../compare/?t=TV-it-welcome-to-derry_200875)
 
 * Production Year: 2025
 

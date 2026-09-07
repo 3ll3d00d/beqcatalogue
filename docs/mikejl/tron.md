@@ -7,7 +7,7 @@
 When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world...And becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/97)
+[TMDB](https://www.themoviedb.org/movie/97)  [Compare across authors](../../compare/?t=film-tron_97)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Tron/Tron%20(1982)%20Atmos.jpg)

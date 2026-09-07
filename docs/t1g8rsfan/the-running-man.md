@@ -12,7 +12,7 @@ Desperate to save his sick daughter, working-class Ben Richards is convinced by 
 +5dB Dialnorm Compensation - DD+ Atmos (iTunes)
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/798645)
+[TMDB](https://www.themoviedb.org/movie/798645)  [Compare across authors](../../compare/?t=film-the-running-man_798645)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Running%20Man%20(2025)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

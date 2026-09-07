@@ -9,7 +9,7 @@ Set in the future on a war-ravaged Earth, four exhausted soldiers man Sentinel -
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63002850)  [TMDB](https://www.themoviedb.org/movie/516806)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63002850)  [TMDB](https://www.themoviedb.org/movie/516806)  [Compare across authors](../../compare/?t=film-last-sentinel_516806)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Last%20Sentinel%20(2023)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

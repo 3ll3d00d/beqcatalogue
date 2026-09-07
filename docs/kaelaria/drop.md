@@ -7,7 +7,7 @@
 Violet, a widowed mother on her first date in years, arrives at an upscale restaurant where she is relieved that her date, Henry, is more charming and handsome than she expected. But their chemistry begins to curdle as Violet begins being irritated and then terrorized by a series of anonymous drops to her phone.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1249213)
+[TMDB](https://www.themoviedb.org/movie/1249213)  [Compare across authors](../../compare/?t=film-drop_1249213)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Drop%20(2025)%20TrueHD%20Atmos.jpg)
@@ -21,7 +21,7 @@ Violet, a widowed mother on her first date in years, arrives at an upscale resta
 Violet, a widowed mother on her first date in years, arrives at an upscale restaurant where she is relieved that her date, Henry, is more charming and handsome than she expected. But their chemistry begins to curdle as Violet begins being irritated and then terrorized by a series of anonymous drops to her phone.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1249213)
+[TMDB](https://www.themoviedb.org/movie/1249213)  [Compare across authors](../../compare/?t=film-drop_1249213)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Drop%20(2025)%20DD%2B.jpg)

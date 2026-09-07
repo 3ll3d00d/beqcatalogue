@@ -10,7 +10,7 @@ A stranger arrives in a little village and soon after a mysterious sickness star
 Korean
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/293670)
+[TMDB](https://www.themoviedb.org/movie/293670)  [Compare across authors](../../compare/?t=film-the-wailing_293670)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/the%20wailing%20(2016)%20DTS-HD%20MA%205.1.jpg)

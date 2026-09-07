@@ -9,7 +9,7 @@ A tough-on-crime street cop must protect the only surviving witness to a strange
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1547?post_id=63743665#post-63743665)  [TMDB](https://www.themoviedb.org/movie/9874)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1547?post_id=63743665#post-63743665)  [TMDB](https://www.themoviedb.org/movie/9874)  [Compare across authors](../../compare/?t=film-cobra_9874)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cobra%20(1986)%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)

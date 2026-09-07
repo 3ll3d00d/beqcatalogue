@@ -9,7 +9,7 @@ Following the murder of his fiancée, Mitch Rapp trains under the instruction of
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/posts/63080191/)  [TMDB](https://www.themoviedb.org/movie/415842)
+[Discuss](https://www.avsforum.com/posts/63080191/)  [TMDB](https://www.themoviedb.org/movie/415842)  [Compare across authors](../../compare/?t=film-american-assassin_415842)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/American%20Assassin%20(2017)%20(-0.5%20gain)%20Atmos.jpg)

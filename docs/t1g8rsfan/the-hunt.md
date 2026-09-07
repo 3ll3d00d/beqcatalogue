@@ -9,7 +9,7 @@ Twelve strangers wake up in a clearing. They don't know where they are—or how 
 
 **MV Adjustment:** +0.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/514847)
+[TMDB](https://www.themoviedb.org/movie/514847)  [Compare across authors](../../compare/?t=film-the-hunt_514847)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Hunt%20(2020)%20(.5%20gain)%20Atmos.jpg)

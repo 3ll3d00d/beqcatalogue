@@ -7,7 +7,7 @@
 A treasure-hunting mastermind assembles a team for a life-changing adventure. But to outwit and outrun threats at every turn, he'll need someone even smarter than he is: his estranged sister.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1098006)
+[TMDB](https://www.themoviedb.org/movie/1098006)  [Compare across authors](../../compare/?t=film-fountain-of-youth_1098006)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Fountain%20of%20Youth/Fountain%20of%20Youth%20(2025)%20DD%2B%20Atmos.jpg)

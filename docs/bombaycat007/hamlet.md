@@ -9,7 +9,7 @@ Hamlet, Prince of Denmark, returns home to find his father murdered and his moth
 
 **MV Adjustment:** +10.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/10549)
+[TMDB](https://www.themoviedb.org/movie/10549)  [Compare across authors](../../compare/?t=film-hamlet_10549)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/main/Images/Hamlet%20(1996)%20(%2B10%20Gain)%20AAC%205.1.png)

@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-furious_287238)
+
 * Production Year: 2026
 
 

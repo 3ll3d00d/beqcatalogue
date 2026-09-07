@@ -9,7 +9,7 @@ Cobb, a skilled thief who commits corporate espionage by infiltrating the subcon
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1557?post_id=63823284#post-63823284)  [TMDB](https://www.themoviedb.org/movie/27205)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1557?post_id=63823284#post-63823284)  [TMDB](https://www.themoviedb.org/movie/27205)  [Compare across authors](../../compare/?t=film-inception_27205)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Inception%20(2010)%20(-1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

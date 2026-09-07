@@ -14,6 +14,8 @@ DD+ 2.0
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1573?post_id=63926717#post-63926717)
 
+* [Compare across authors](../../compare/?t=TV-solo-leveling_127532)
+
 * Production Year: 2024
 
 
@@ -27,6 +29,8 @@ DD+ 2.0
 **MV Adjustment:** +2.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63844402#post-63844402)
+
+* [Compare across authors](../../compare/?t=TV-solo-leveling_127532)
 
 * Production Year: 2024
 

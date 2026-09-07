@@ -1,0 +1,1 @@
+[{"author":"mikejl","audioTypes":["DD+ Atmos"],"content_type":"TV","season":"01","episode":"","edition":"","filters":[{"type":"LowShelf","freq":15.0,"gain":7.5,"q":0.75,"count":1},{"type":"LowShelf","freq":15.0,"gain":7.5,"q":0.75,"count":1},{"type":"PeakingEQ","freq":26.0,"gain":-1.0,"q":2.6,"count":1},{"type":"PeakingEQ","freq":80.0,"gain":0.1,"q":1.0,"count":1}]}]

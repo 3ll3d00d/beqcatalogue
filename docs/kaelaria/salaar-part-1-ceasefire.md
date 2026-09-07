@@ -10,7 +10,7 @@ Set in the fictional dystopian city-state of Khansaar, the film follows the frie
 Hi
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/770906)
+[TMDB](https://www.themoviedb.org/movie/770906)  [Compare across authors](../../compare/?t=film-salaar-part-1-ceasefire_770906)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Salaar%20Part%201%20-%20Ceasefire%20(2023)%20(hi)%20DD%2B%205.1.jpg)

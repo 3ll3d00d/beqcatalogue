@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-pitt_250307)
+
 * Production Year: 2025
 
 
@@ -19,6 +21,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-the-pitt_250307)
 
 * Production Year: 2025
 

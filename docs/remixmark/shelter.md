@@ -9,7 +9,7 @@ A man living in self-imposed exile on a remote island rescues a young girl from 
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1715?post_id=64485770#post-64485770)  [TMDB](https://www.themoviedb.org/movie/1290821)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1715?post_id=64485770#post-64485770)  [TMDB](https://www.themoviedb.org/movie/1290821)  [Compare across authors](../../compare/?t=film-shelter_1290821)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Shelter%20(2026).%20(%2B1%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ A man living in self-imposed exile on a remote island rescues a young girl from 
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1732?post_id=64563350#post-64563350)  [TMDB](https://www.themoviedb.org/movie/1290821)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1732?post_id=64563350#post-64563350)  [TMDB](https://www.themoviedb.org/movie/1290821)  [Compare across authors](../../compare/?t=film-shelter_1290821)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Shelter%20(2026)%20(%2B3.5%20gain)%20TrueHD%205.1.jpg)

@@ -7,7 +7,7 @@
 Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1272837)
+[TMDB](https://www.themoviedb.org/movie/1272837)  [Compare across authors](../../compare/?t=film-28-years-later-the-bone-temple_1272837)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/28%20Years%20Later%20-%20The%20Bone%20Temple/28%20Years%20Later%20-%20The%20Bone%20Temple%20(2026)%20Atmos.jpg)

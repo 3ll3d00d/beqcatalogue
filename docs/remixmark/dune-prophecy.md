@@ -14,6 +14,8 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1529?post_id=63657215#post-63657215)
 
+* [Compare across authors](../../compare/?t=TV-dune-prophecy_90228)
+
 * Production Year: 2024
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 3dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1531?post_id=63674328#post-63674328)
+
+* [Compare across authors](../../compare/?t=TV-dune-prophecy_90228)
 
 * Production Year: 2024
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1534?post_id=63685689#post-63685689)
 
+* [Compare across authors](../../compare/?t=TV-dune-prophecy_90228)
+
 * Production Year: 2024
 
 
@@ -73,6 +79,8 @@ Dialnorm Compensation: 3dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1538?post_id=63702337#post-63702337)
+
+* [Compare across authors](../../compare/?t=TV-dune-prophecy_90228)
 
 * Production Year: 2024
 
@@ -94,6 +102,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63712560#post-63712560)
 
+* [Compare across authors](../../compare/?t=TV-dune-prophecy_90228)
+
 * Production Year: 2024
 
 
@@ -113,6 +123,8 @@ Dialnorm Compensation: 2dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1544?post_id=63726700#post-63726700)
+
+* [Compare across authors](../../compare/?t=TV-dune-prophecy_90228)
 
 * Production Year: 2024
 

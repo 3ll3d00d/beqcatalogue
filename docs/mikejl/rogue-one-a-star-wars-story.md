@@ -7,7 +7,7 @@
 A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/330459)
+[TMDB](https://www.themoviedb.org/movie/330459)  [Compare across authors](../../compare/?t=film-rogue-one-a-star-wars-story_330459)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Rogue%20One%20-%20A%20Star%20Wars%20Story/Rogue%20One%20-%20A%20Star%20Wars%20Story%20(2016)%20Atmos.jpg)

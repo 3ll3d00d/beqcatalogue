@@ -7,7 +7,7 @@
 Cash is trying to live an honest and quiet life, but when Big Cat forces him back into her services, he proves capable of anything to protect the town and the only family he has left.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1227816)
+[TMDB](https://www.themoviedb.org/movie/1227816)  [Compare across authors](../../compare/?t=film-red-right-hand_1227816)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Red%20Right%20Hand%20(2024)%20DD%2B%205.1.jpg)

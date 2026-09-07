@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-day-of-the-jackal_222766)
+
 * Production Year: 2024
 
 

@@ -7,7 +7,7 @@
 Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner – the firm's frontman – has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm – truths that conflict with his values of helping the poor and dispossessed – and finds himself in an existential crisis that leads to extreme actions.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/413362)
+[TMDB](https://www.themoviedb.org/movie/413362)  [Compare across authors](../../compare/?t=film-roman-j-israel-esq_413362)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Roman.J.Israel.Esq%20(2017)%20DTS-HD%20MA%205.1.jpg)

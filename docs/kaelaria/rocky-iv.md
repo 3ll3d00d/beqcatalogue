@@ -7,7 +7,7 @@
 Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Ivan Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1374)
+[TMDB](https://www.themoviedb.org/movie/1374)  [Compare across authors](../../compare/?t=film-rocky-iv_1374)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/rocky-iv-58a47ac533968.jpg)

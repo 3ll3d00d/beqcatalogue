@@ -12,7 +12,7 @@ Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1670?post_id=64266288#post-64266288)  [TMDB](https://www.themoviedb.org/movie/507244)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1670?post_id=64266288#post-64266288)  [TMDB](https://www.themoviedb.org/movie/507244)  [Compare across authors](../../compare/?t=film-afterburn_507244)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Afterburn%20(2025)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)
@@ -28,7 +28,7 @@ Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1675?post_id=64285292#post-64285292)  [TMDB](https://www.themoviedb.org/movie/507244)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1675?post_id=64285292#post-64285292)  [TMDB](https://www.themoviedb.org/movie/507244)  [Compare across authors](../../compare/?t=film-afterburn_507244)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Afterburn%20(2025)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

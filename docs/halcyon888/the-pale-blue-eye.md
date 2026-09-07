@@ -12,7 +12,7 @@ West Point, New York, 1830. When a cadet at the burgeoning military academy is f
 +3dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62864171)  [TMDB](https://www.themoviedb.org/movie/800815)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62864171)  [TMDB](https://www.themoviedb.org/movie/800815)  [Compare across authors](../../compare/?t=film-the-pale-blue-eye_800815)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Pale%20Blue%20Eye%20(2022)%20PvA.jpg)

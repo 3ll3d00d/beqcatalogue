@@ -11,7 +11,7 @@ A gothic tale of obsession between a haunted young woman and the terrifying vamp
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1559?post_id=63838731#post-63838731)  [TMDB](https://www.themoviedb.org/movie/426063)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1559?post_id=63838731#post-63838731)  [TMDB](https://www.themoviedb.org/movie/426063)  [Compare across authors](../../compare/?t=film-nosferatu_426063)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nosferatu%20(2024)%20(%2B1.5%20gain)%20extended%20Atmos.png)
@@ -30,7 +30,7 @@ A gothic tale of obsession between a haunted young woman and the terrifying vamp
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1553?post_id=63794061#post-63794061)  [TMDB](https://www.themoviedb.org/movie/426063)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1553?post_id=63794061#post-63794061)  [TMDB](https://www.themoviedb.org/movie/426063)  [Compare across authors](../../compare/?t=film-nosferatu_426063)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nosferatu%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

@@ -9,7 +9,7 @@ Postwar Japan is at its lowest point when a new crisis emerges in the form of a 
 
 **MV Adjustment:** -5.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63343424/)  [TMDB](https://www.themoviedb.org/movie/940721)
+[Discuss](https://www.avsforum.com/posts/63343424/)  [TMDB](https://www.themoviedb.org/movie/940721)  [Compare across authors](../../compare/?t=film-godzilla-minus-one_940721)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Godzilla%20-1%20(2023)%20(-5%20gain)%20Atmos(Jap).jpg)
@@ -28,7 +28,7 @@ In postwar Japan, Godzilla brings new devastation to an already scorched landsca
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63343424/)  [TMDB](https://www.themoviedb.org/movie/940721)
+[Discuss](https://www.avsforum.com/posts/63343424/)  [TMDB](https://www.themoviedb.org/movie/940721)  [Compare across authors](../../compare/?t=film-godzilla-minus-one_940721)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Godzilla%20-1%20(2023)%20(-3.5%20gain)%20DD%2B.jpg)

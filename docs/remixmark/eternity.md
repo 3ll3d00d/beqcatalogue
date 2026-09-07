@@ -12,7 +12,7 @@ In an afterlife where souls have one week to decide where to spend eternity, Joa
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1692?post_id=64375804#post-64375804)  [TMDB](https://www.themoviedb.org/movie/1259102)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1692?post_id=64375804#post-64375804)  [TMDB](https://www.themoviedb.org/movie/1259102)  [Compare across authors](../../compare/?t=film-eternity_1259102)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Eternity%20(2025)%20(%2B6%20gain)%20DD%2B%20Atmos.jpg)
@@ -28,7 +28,7 @@ In an afterlife where souls have one week to decide where to spend eternity, Joa
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64460453#post-64460453)  [TMDB](https://www.themoviedb.org/movie/1259102)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64460453#post-64460453)  [TMDB](https://www.themoviedb.org/movie/1259102)  [Compare across authors](../../compare/?t=film-eternity_1259102)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Eternity%20(2025)%20(%2B6%20gain)%20DTS-HD%20MA%205.1.jpg)

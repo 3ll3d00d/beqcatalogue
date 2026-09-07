@@ -11,7 +11,7 @@ In an American desert town circa 1955, the itinerary of a Junior Stargazer/Space
 
 **MV Adjustment:** +6.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/747188)
+[TMDB](https://www.themoviedb.org/movie/747188)  [Compare across authors](../../compare/?t=film-asteroid-city_747188)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Asteroid%20City%20(2023)%20(%2B6%20Gain)%20DTS-HD%20MA%207.1.png)

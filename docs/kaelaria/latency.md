@@ -7,7 +7,7 @@
 When professional gamer Hana, who suffers from acute agoraphobia, receives new equipment that enhances her game, she begins to wonder if it is reading her mind – or controlling it.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1042657)
+[TMDB](https://www.themoviedb.org/movie/1042657)  [Compare across authors](../../compare/?t=film-latency_1042657)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Latency%20(2024)%20DD%2B.jpg)
@@ -21,7 +21,7 @@ When professional gamer Hana, who suffers from acute agoraphobia, receives new e
 When professional gamer Hana, who suffers from acute agoraphobia, receives new equipment that enhances her game, she begins to wonder if it is reading her mind – or controlling it.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1042657)
+[TMDB](https://www.themoviedb.org/movie/1042657)  [Compare across authors](../../compare/?t=film-latency_1042657)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Latency%20(2024)%20DTS-HD%20MA%205.1.jpg)

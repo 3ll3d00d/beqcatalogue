@@ -9,7 +9,7 @@ Two top CIA operatives wage an epic battle against one another after they discov
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62722304)  [TMDB](https://www.themoviedb.org/movie/59962)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62722304)  [TMDB](https://www.themoviedb.org/movie/59962)  [Compare across authors](../../compare/?t=film-this-means-war_59962)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/This%20Means%20War%20(2012)%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)

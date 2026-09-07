@@ -12,7 +12,7 @@ A highly sophisticated Program called Ares is sent from the digital world into t
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/533533)
+[TMDB](https://www.themoviedb.org/movie/533533)  [Compare across authors](../../compare/?t=film-tron-ares_533533)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Tron%20Ares%20(2025)%20(-1.5%20gain)%20Atmos.jpg)

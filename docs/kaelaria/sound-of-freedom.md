@@ -7,7 +7,7 @@
 The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/678512)
+[TMDB](https://www.themoviedb.org/movie/678512)  [Compare across authors](../../compare/?t=film-sound-of-freedom_678512)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Sound%20of%20Freedom%20(2023)%20DTS-HD%20MA%205.1.jpg)

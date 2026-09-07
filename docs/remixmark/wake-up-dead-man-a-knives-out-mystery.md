@@ -12,7 +12,7 @@ When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsign
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1688?post_id=64353550#post-64353550)  [TMDB](https://www.themoviedb.org/movie/812583)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1688?post_id=64353550#post-64353550)  [TMDB](https://www.themoviedb.org/movie/812583)  [Compare across authors](../../compare/?t=film-wake-up-dead-man-a-knives-out-mystery_812583)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Wake%20Up%20Dead%20Man%20A%20Knives%20Out%20Mystery%20(2025)%20(%2B6%20gain)%20DD%2B%20Atmos.jpg)

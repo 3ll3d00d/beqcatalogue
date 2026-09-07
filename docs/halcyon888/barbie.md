@@ -12,7 +12,7 @@ Barbie and Ken are having the time of their lives in the colorful and seemingly 
 +7dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62811920)  [TMDB](https://www.themoviedb.org/movie/346698)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62811920)  [TMDB](https://www.themoviedb.org/movie/346698)  [Compare across authors](../../compare/?t=film-barbie_346698)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Barbie%20(2023)%20DD%2B%20Atmos%20PvA%20v2.jpg)

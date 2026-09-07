@@ -12,7 +12,7 @@ Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creatur
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64295645#post-64295645)  [TMDB](https://www.themoviedb.org/movie/1062722)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64295645#post-64295645)  [TMDB](https://www.themoviedb.org/movie/1062722)  [Compare across authors](../../compare/?t=film-frankenstein_1062722)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Frankenstein%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

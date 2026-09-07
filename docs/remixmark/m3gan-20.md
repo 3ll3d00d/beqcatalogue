@@ -9,7 +9,7 @@ After the underlying tech for M3GAN is stolen and misused by a powerful defense 
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1667?post_id=64252449#post-64252449)  [TMDB](https://www.themoviedb.org/movie/1071585)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1667?post_id=64252449#post-64252449)  [TMDB](https://www.themoviedb.org/movie/1071585)  [Compare across authors](../../compare/?t=film-m3gan-20_1071585)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/M3GAN%202.0%20(2025)%20(%2B6%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ After the underlying tech for M3GAN is stolen and misused by a powerful defense 
 Dialnorm Compensation: 2dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1617?post_id=64098035#post-64098035)  [TMDB](https://www.themoviedb.org/movie/1071585)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1617?post_id=64098035#post-64098035)  [TMDB](https://www.themoviedb.org/movie/1071585)  [Compare across authors](../../compare/?t=film-m3gan-20_1071585)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/M3GAN%202.0%20(2025)%20(%2B6.5%20gain)%20DD%2B%20Atmos.jpg)

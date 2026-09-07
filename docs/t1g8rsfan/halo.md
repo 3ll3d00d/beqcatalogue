@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63139333)
 
+* [Compare across authors](../../compare/?t=TV-halo_2022)
+
 * Production Year: 2022
 
 
@@ -24,6 +26,8 @@
 **MV Adjustment:** +4.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63139333)
+
+* [Compare across authors](../../compare/?t=TV-halo_2022)
 
 * Production Year: 2022
 
@@ -41,6 +45,8 @@
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63138867)
+
+* [Compare across authors](../../compare/?t=TV-halo_2024)
 
 * Production Year: 2024
 

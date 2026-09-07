@@ -9,7 +9,7 @@ Fletcher Reed, a fast-talking, habitual liar, divorced father, is an incredibly 
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1491?post_id=63481865#post-63481865)  [TMDB](https://www.themoviedb.org/movie/1624)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1491?post_id=63481865#post-63481865)  [TMDB](https://www.themoviedb.org/movie/1624)  [Compare across authors](../../compare/?t=film-liar-liar_1624)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Liar%20Liar%20(1997)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

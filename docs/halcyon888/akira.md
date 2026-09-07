@@ -11,7 +11,7 @@ A secret military project endangers Neo-Tokyo when it turns a biker gang member 
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62804981)  [TMDB](https://www.themoviedb.org/movie/149)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62804981)  [TMDB](https://www.themoviedb.org/movie/149)  [Compare across authors](../../compare/?t=film-akira_149)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Akira%20(1988)%20(UHD)%20(Eng%20Dub)%20THD%20and%20DTS-HD%20MA%205.1%20PvA.jpg)

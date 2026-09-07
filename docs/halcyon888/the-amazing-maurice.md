@@ -9,7 +9,7 @@ Maurice is a streetwise ginger cat who comes up with a money-making scam by befr
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62729864)  [TMDB](https://www.themoviedb.org/movie/676710)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62729864)  [TMDB](https://www.themoviedb.org/movie/676710)  [Compare across authors](../../compare/?t=film-the-amazing-maurice_676710)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Amazing%20Maurice%20(2022)%20DTS-HD%20MA%205.1%20PvA.jpg)

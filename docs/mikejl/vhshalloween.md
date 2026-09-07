@@ -7,7 +7,7 @@
 A collection of Halloween-themed videotapes unleashes a series of twisted, blood-soaked tales, turning trick-or-treat into a struggle for survival.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1373445)
+[TMDB](https://www.themoviedb.org/movie/1373445)  [Compare across authors](../../compare/?t=film-vhshalloween_1373445)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/V%20H%20S%20Halloween/V%20H%20S%20Halloween%20(2025)%20DD%2B%205.1.jpg)

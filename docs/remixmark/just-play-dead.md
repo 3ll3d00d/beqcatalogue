@@ -12,7 +12,7 @@ A criminal mastermind plans to fake his death for insurance money while framing 
 Dialnorm Compensation: 1dB AI Created
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1771#post-64816611)  [TMDB](https://www.themoviedb.org/movie/1480574)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1771#post-64816611)  [TMDB](https://www.themoviedb.org/movie/1480574)  [Compare across authors](../../compare/?t=film-just-play-dead_1480574)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Just%20Play%20Dead%20%282026%29%20%28%2B7.5%20gain%29%20DD%2B%205.1.jpg)

@@ -9,7 +9,7 @@ The story of J. Robert Oppenheimer’s role in the development of the atomic bom
 
 **MV Adjustment:** -3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62938062)  [TMDB](https://www.themoviedb.org/movie/872585)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62938062)  [TMDB](https://www.themoviedb.org/movie/872585)  [Compare across authors](../../compare/?t=film-oppenheimer_872585)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Oppenheimer%20(2023)%20DTS-HD%20MA%205.1%20PvA.jpg)

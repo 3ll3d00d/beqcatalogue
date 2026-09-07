@@ -11,7 +11,7 @@ John Anderton is a top 'Precrime' cop in the late-21st century, when technology 
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1693?post_id=64379427#post-64379427)  [TMDB](https://www.themoviedb.org/movie/180)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1693?post_id=64379427#post-64379427)  [TMDB](https://www.themoviedb.org/movie/180)  [Compare across authors](../../compare/?t=film-minority-report_180)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Minority%20Report%20(2002)%20UHD%20(%2B2.5%20gain)%20DTS-HD%20MA%205.1.jpg)

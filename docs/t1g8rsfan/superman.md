@@ -12,7 +12,7 @@ Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryp
 +7dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1061474)
+[TMDB](https://www.themoviedb.org/movie/1061474)  [Compare across authors](../../compare/?t=film-superman_1061474)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Superman%20(2025)%20(-1.5%20gain)%20Atmos.jpg)

@@ -9,7 +9,7 @@ A Russian missile submarine disappears without trace during a secret mission in 
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64492486#post-64492486)  [TMDB](https://www.themoviedb.org/movie/1258151)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64492486#post-64492486)  [TMDB](https://www.themoviedb.org/movie/1258151)  [Compare across authors](../../compare/?t=film-kraken_1258151)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Kraken%20(2025)%20RU%20(-1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1505?post_id=63560168#post-63560168)  [TMDB](https://www.themoviedb.org/movie/856)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1505?post_id=63560168#post-63560168)  [TMDB](https://www.themoviedb.org/movie/856)  [Compare across authors](../../compare/?t=film-who-framed-roger-rabbit_856)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Who%20Framed%20Roger%20Rabbit%20(1988)%20(%2B4.5%20gain)%20Atmos.jpg)

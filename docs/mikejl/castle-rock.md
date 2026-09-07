@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-castle-rock_71116)
+
 * Production Year: 2018
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-castle-rock_71116)
 
 * Production Year: 2018
 

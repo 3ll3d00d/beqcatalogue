@@ -12,7 +12,7 @@ In 1969, a young Jud Crandall has dreams of leaving his hometown of Ludlow, Main
 +5dB Dialnorm Compensation​
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866024)  [TMDB](https://www.themoviedb.org/movie/830764)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866024)  [TMDB](https://www.themoviedb.org/movie/830764)  [Compare across authors](../../compare/?t=film-pet-sematary-bloodlines_830764)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Pet%20Sematary%20Bloodlines%20(2023)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)

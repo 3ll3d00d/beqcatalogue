@@ -7,7 +7,7 @@
 Two troubled men face their terrible destinies and events of their past as they join together on a mission to find the Holy Grail and thus to save themselves.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/177)
+[TMDB](https://www.themoviedb.org/movie/177)  [Compare across authors](../../compare/?t=film-the-fisher-king_177)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/The%20Fisher%20King%20(1991)%20DTS-HD%20MA%205.1.jpg)

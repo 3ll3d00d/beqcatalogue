@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62560292)
 
+* [Compare across authors](../../compare/?t=TV-blade-runner-black-lotus_84553)
+
 * Production Year: 2021
 
 
@@ -28,6 +30,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62560292)
 
+* [Compare across authors](../../compare/?t=TV-blade-runner-black-lotus_84553)
+
 * Production Year: 2021
 
 
@@ -42,6 +46,8 @@
 
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62560292)
+
+* [Compare across authors](../../compare/?t=TV-blade-runner-black-lotus_84553)
 
 * Production Year: 2021
 
@@ -60,6 +66,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62560292)
 
+* [Compare across authors](../../compare/?t=TV-blade-runner-black-lotus_84553)
+
 * Production Year: 2021
 
 
@@ -76,6 +84,8 @@
 **MV Adjustment:** +5.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62560292)
+
+* [Compare across authors](../../compare/?t=TV-blade-runner-black-lotus_84553)
 
 * Production Year: 2021
 

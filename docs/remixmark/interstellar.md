@@ -9,7 +9,7 @@ The adventures of a group of explorers who make use of a newly discovered wormho
 
 **MV Adjustment:** -5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1557?post_id=63822852#post-63822852)  [TMDB](https://www.themoviedb.org/movie/157336)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1557?post_id=63822852#post-63822852)  [TMDB](https://www.themoviedb.org/movie/157336)  [Compare across authors](../../compare/?t=film-interstellar_157336)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Interstellar%20(2014)%20(-5.5%20gain)%20DTS-HD%20MA%205.1.jpg)

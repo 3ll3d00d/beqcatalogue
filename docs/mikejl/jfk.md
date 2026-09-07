@@ -9,7 +9,7 @@ Director's Cut
 Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/820)
+[TMDB](https://www.themoviedb.org/movie/820)  [Compare across authors](../../compare/?t=film-jfk_820)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/JFK/JFK%20(1991)%20(DC)%20DTS-HD%20MA%205.1.jpg)

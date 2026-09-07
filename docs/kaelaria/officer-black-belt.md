@@ -10,7 +10,7 @@ A talented martial artist who can't walk past a person in need unites with a pro
 KO
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1139817)
+[TMDB](https://www.themoviedb.org/movie/1139817)  [Compare across authors](../../compare/?t=film-officer-black-belt_1139817)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Officer%20Black%20Belt%20(2024)%20%20DD%2B%20Atmos.jpg)

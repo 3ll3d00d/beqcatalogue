@@ -12,7 +12,7 @@ A family suddenly sealed inside their home must work together to survive against
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1763?post_id=64747826#post-64747826)  [TMDB](https://www.themoviedb.org/movie/1284041)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1763?post_id=64747826#post-64747826)  [TMDB](https://www.themoviedb.org/movie/1284041)  [Compare across authors](../../compare/?t=film-the-last-house_1284041)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Last%20House%20(2026)%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)

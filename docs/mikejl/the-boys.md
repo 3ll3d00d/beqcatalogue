@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2019
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
 
 * Production Year: 2019
 
@@ -33,6 +37,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2019
 
 
@@ -46,6 +52,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
+
 * Production Year: 2019
 
 
@@ -58,6 +66,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-the-boys_76479)
 
 * Production Year: 2019
 

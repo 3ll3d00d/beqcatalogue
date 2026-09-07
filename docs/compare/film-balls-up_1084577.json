@@ -1,0 +1,1 @@
+[{"author":"remixmark","audioTypes":["DD+ Atmos"],"content_type":"film","season":"","episode":"","edition":"","filters":[{"type":"LowShelf","freq":18.0,"gain":7.5,"q":1.0,"count":1},{"type":"LowShelf","freq":18.0,"gain":7.5,"q":1.0,"count":1},{"type":"PeakingEQ","freq":23.4,"gain":-5.0,"q":10.0,"count":1},{"type":"PeakingEQ","freq":45.0,"gain":0.9,"q":1.0,"count":1}]}]

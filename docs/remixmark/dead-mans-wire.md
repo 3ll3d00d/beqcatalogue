@@ -9,7 +9,7 @@ In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on 
 
 **MV Adjustment:** +8.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64490442#post-64490442)  [TMDB](https://www.themoviedb.org/movie/1263012)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64490442#post-64490442)  [TMDB](https://www.themoviedb.org/movie/1263012)  [Compare across authors](../../compare/?t=film-dead-mans-wire_1263012)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dead%20Man's%20Wire%20(2025)%20(%2B8%20gain)%20DD%2B.jpg)

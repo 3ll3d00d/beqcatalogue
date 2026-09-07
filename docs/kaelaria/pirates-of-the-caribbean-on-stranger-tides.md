@@ -10,7 +10,7 @@ Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure
 HR From 3D Blu-Ray
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1865)
+[TMDB](https://www.themoviedb.org/movie/1865)  [Compare across authors](../../compare/?t=film-pirates-of-the-caribbean-on-stranger-tides_1865)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Pirates%20of%20the%20Caribbean-%20On%20Stranger%20Tides%20(2011)%20DTS-HD%20HR%207.1.jpg)

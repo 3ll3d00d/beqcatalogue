@@ -10,7 +10,7 @@ In 200,000 years of existence, man has upset the balance on which the Earth had 
 FR
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/62320)
+[TMDB](https://www.themoviedb.org/movie/62320)  [Compare across authors](../../compare/?t=film-home_62320)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Home%20(2009)%20DTS-HD%20MA%205.1.jpg)

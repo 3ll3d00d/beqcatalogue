@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-prehistoric-planet_95171)
+
 * Production Year: 2022
 
 
@@ -19,6 +21,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-prehistoric-planet_95171)
 
 * Production Year: 2022
 

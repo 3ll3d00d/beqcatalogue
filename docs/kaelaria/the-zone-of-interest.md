@@ -7,7 +7,7 @@
 The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/467244)
+[TMDB](https://www.themoviedb.org/movie/467244)  [Compare across authors](../../compare/?t=film-the-zone-of-interest_467244)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Zone%20of%20Interest%20(2023)%20DD%2B%20Atmos.jpg)

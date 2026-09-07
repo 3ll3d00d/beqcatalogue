@@ -9,7 +9,7 @@ Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62852912)  [TMDB](https://www.themoviedb.org/movie/756999)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62852912)  [TMDB](https://www.themoviedb.org/movie/756999)  [Compare across authors](../../compare/?t=film-the-black-phone_756999)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Black%20Phone%20(2022)%20THD%20Atmos%20PvA.jpg)

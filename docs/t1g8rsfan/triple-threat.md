@@ -9,7 +9,7 @@ A crime syndicate places a hit on a billionaire's daughter, making her the targe
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63500096/)  [TMDB](https://www.themoviedb.org/movie/449985)
+[Discuss](https://www.avsforum.com/posts/63500096/)  [TMDB](https://www.themoviedb.org/movie/449985)  [Compare across authors](../../compare/?t=film-triple-threat_449985)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Triple%20Threat%20(2019)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -7,7 +7,7 @@
 The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/931285)
+[TMDB](https://www.themoviedb.org/movie/931285)  [Compare across authors](../../compare/?t=film-mortal-kombat-ii_931285)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mortal%20Kombat/Mortal%20Kombat%20II%20(2026)%20Atmos.jpg)
@@ -21,7 +21,7 @@ The fan favorite champions—now joined by Johnny Cage himself—are pitted agai
 The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/931285)
+[TMDB](https://www.themoviedb.org/movie/931285)  [Compare across authors](../../compare/?t=film-mortal-kombat-ii_931285)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mortal%20Kombat/Mortal%20Kombat%20II%20(2026)%20DD%2B%20Atmos.jpg)

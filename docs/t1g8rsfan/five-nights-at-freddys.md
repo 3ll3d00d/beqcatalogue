@@ -12,7 +12,7 @@ Recently fired and desperate for work, a troubled young man named Mike agrees to
 +5dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62974989)  [TMDB](https://www.themoviedb.org/movie/507089)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62974989)  [TMDB](https://www.themoviedb.org/movie/507089)  [Compare across authors](../../compare/?t=film-five-nights-at-freddys_507089)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Five%20Nights%20at%20Freddys%20(2023)%20(%2B2%20gain)%20Atmos.jpg)

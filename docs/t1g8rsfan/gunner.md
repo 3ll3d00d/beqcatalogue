@@ -9,7 +9,7 @@ While on a camping trip in order to reconnect, war veteran Colonel Lee Gunner mu
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/posts/63487402/)  [TMDB](https://www.themoviedb.org/movie/5492)
+[Discuss](https://www.avsforum.com/posts/63487402/)  [TMDB](https://www.themoviedb.org/movie/5492)  [Compare across authors](../../compare/?t=film-gunner_5492)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Gunner%20(2024)%20(%2B5.5%20gain)%20DD%2B.jpg)

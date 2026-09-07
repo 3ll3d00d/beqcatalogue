@@ -7,7 +7,7 @@
 For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/455980)
+[TMDB](https://www.themoviedb.org/movie/455980)  [Compare across authors](../../compare/?t=film-tag_455980)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Tag/Tag%20(2018)%20DTS-HD%20MA%205.1.jpg)

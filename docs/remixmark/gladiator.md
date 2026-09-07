@@ -11,7 +11,7 @@ After the death of Emperor Marcus Aurelius, his devious son takes power and demo
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1585?post_id=63981265#post-63981265)  [TMDB](https://www.themoviedb.org/movie/98)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1585?post_id=63981265#post-63981265)  [TMDB](https://www.themoviedb.org/movie/98)  [Compare across authors](../../compare/?t=film-gladiator_98)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Gladiator%20(2000)%20(-2%20gain)%20DTS%20X%20Extended.jpg)

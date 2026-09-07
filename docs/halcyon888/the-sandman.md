@@ -12,6 +12,8 @@
 Dialnorm Compensation: E01 +5dB; E02 +3dB; E10 +4dB
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-the-sandman_90802)
+
 * Production Year: 2022
 
 
@@ -30,6 +32,8 @@ Dialnorm Compensation: E01 +5dB; E02 +3dB; E10 +4dB
 Dialnorm Compensation: E03 +4dB; E05 +5dB; E07 +3dB; E08 +3dB; E09 +4dB
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-the-sandman_90802)
+
 * Production Year: 2022
 
 
@@ -47,6 +51,8 @@ Dialnorm Compensation: E03 +4dB; E05 +5dB; E07 +3dB; E08 +3dB; E09 +4dB
 
 +5dB Dialnorm Compensation
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-the-sandman_90802)
 
 * Production Year: 2022
 

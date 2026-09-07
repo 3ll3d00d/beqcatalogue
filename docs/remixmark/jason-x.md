@@ -11,7 +11,7 @@ In the year 2455, Old Earth is now a contaminated planet abandoned for centuries
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1592?post_id=64010105#post-64010105)  [TMDB](https://www.themoviedb.org/movie/11470)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1592?post_id=64010105#post-64010105)  [TMDB](https://www.themoviedb.org/movie/11470)  [Compare across authors](../../compare/?t=film-jason-x_11470)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jason%20X%20(2001)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)

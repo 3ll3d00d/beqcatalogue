@@ -14,6 +14,8 @@ Dialnorm Compensation: E01 +3dB; E02 +3dB; E03 +3dB; E04 +3dB; E05 +4dB; E06 +5d
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62623665)
 
+* [Compare across authors](../../compare/?t=TV-travelers_67683)
+
 * Production Year: 2016
 
 
@@ -34,6 +36,8 @@ Dialnorm Compensation: E1-6 +3dB; E7 +4dB; E8 +3dB; E9 +2dB; E10 +4dB; E11 +3dB;
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62638212)
 
+* [Compare across authors](../../compare/?t=TV-travelers_67683)
+
 * Production Year: 2016
 
 
@@ -53,6 +57,8 @@ Dialnorm Compensation: E01 +4dB; E02 +5dB; E03 +5dB; E04-E07 +6dB; E08 +4dB; E09
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62823393)
+
+* [Compare across authors](../../compare/?t=TV-travelers_67683)
 
 * Production Year: 2016
 

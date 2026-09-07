@@ -12,7 +12,7 @@ When an international covert mission unravels a deadly conspiracy, Ryan is force
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1380291)
+[TMDB](https://www.themoviedb.org/movie/1380291)  [Compare across authors](../../compare/?t=film-tom-clancys-jack-ryan-ghost-war_1380291)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Jack%20Ryan%20GW%20(2026)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

@@ -9,7 +9,7 @@ Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was
 
 **MV Adjustment:** +1.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/507244)
+[TMDB](https://www.themoviedb.org/movie/507244)  [Compare across authors](../../compare/?t=film-afterburn_507244)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Afterburn%20(2025)%20(%2B1%20gain)%20DD%2B.jpg)

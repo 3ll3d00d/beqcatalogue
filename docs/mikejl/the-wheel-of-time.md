@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-wheel-of-time_71914)
+
 * Production Year: 2021
 
 
@@ -20,6 +22,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-wheel-of-time_71914)
+
 * Production Year: 2021
 
 
@@ -32,6 +36,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-the-wheel-of-time_71914)
 
 * Production Year: 2021
 

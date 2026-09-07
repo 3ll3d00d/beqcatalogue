@@ -7,7 +7,7 @@
 Helena, a woman living a seemingly ordinary life, hides a dark secret: her father is the infamous “Marsh King,” the man who kept her and her mother captive in the wilderness for years. After a lifetime of trying to escape her past, Helena is forced to face her demons when her father unexpectedly escapes from prison.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/798362)
+[TMDB](https://www.themoviedb.org/movie/798362)  [Compare across authors](../../compare/?t=film-the-marsh-kings-daughter_798362)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The.Marsh.Kings.Daughter.2023.jpg)

@@ -9,7 +9,7 @@ Andy Stitzer has a pleasant life with a nice apartment and a job stamping invoic
 
 **MV Adjustment:** +6.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1626?post_id=64139264#post-64139264)  [TMDB](https://www.themoviedb.org/movie/6957)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1626?post_id=64139264#post-64139264)  [TMDB](https://www.themoviedb.org/movie/6957)  [Compare across authors](../../compare/?t=film-the-40-year-old-virgin_6957)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%2040%20Year%20Old%20Virgin%20(2005)%20(%2B6.5%20gain)%20Atmos.jpg)

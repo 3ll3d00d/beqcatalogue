@@ -14,6 +14,8 @@ Dialnorm Compensation: E06 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62562422)
 
+* [Compare across authors](../../compare/?t=TV-citadel_114922)
+
 * Production Year: 2023
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: E03 +3dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62562422)
+
+* [Compare across authors](../../compare/?t=TV-citadel_114922)
 
 * Production Year: 2023
 

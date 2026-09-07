@@ -7,7 +7,7 @@
 After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1071215)
+[TMDB](https://www.themoviedb.org/movie/1071215)  [Compare across authors](../../compare/?t=film-thanksgiving_1071215)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Thanksgiving/Thanksgiving%20(2023)%20Atmos.jpg)

@@ -9,7 +9,7 @@ After their bank heist goes wrong, a desperate criminal, his out-of-control brot
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1446#post-63288804)  [TMDB](https://www.themoviedb.org/movie/1140692)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1446#post-63288804)  [TMDB](https://www.themoviedb.org/movie/1140692)  [Compare across authors](../../compare/?t=film-the-channel_1140692)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Channel%20(2023)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

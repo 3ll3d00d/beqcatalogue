@@ -7,7 +7,7 @@
 John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/561)
+[TMDB](https://www.themoviedb.org/movie/561)  [Compare across authors](../../compare/?t=film-constantine_561)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Constantine%20(2005)%20TrueHD%20Atmos.jpg)
@@ -21,7 +21,7 @@ John Constantine has literally been to Hell and back. When he teams up with a po
 John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/561)
+[TMDB](https://www.themoviedb.org/movie/561)  [Compare across authors](../../compare/?t=film-constantine_561)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/CONSTANTINE%20(2005)%20DTS-HD%20MA%205.1.jpg)

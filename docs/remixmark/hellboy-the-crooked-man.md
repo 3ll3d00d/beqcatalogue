@@ -12,7 +12,7 @@ Hellboy and a rookie BPRD agent get stranded in 1950s rural Appalachia. There, t
 Dialnorm Compensation: 11dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1511?post_id=63583862#post-63583862)  [TMDB](https://www.themoviedb.org/movie/1087822)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1511?post_id=63583862#post-63583862)  [TMDB](https://www.themoviedb.org/movie/1087822)  [Compare across authors](../../compare/?t=film-hellboy-the-crooked-man_1087822)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Hellboy%20The%20Crooked%20Man%20(2024)%20(-1%20gain)%20DD.jpg)
@@ -28,7 +28,7 @@ Hellboy and a rookie BPRD agent get stranded in 1950s rural Appalachia. There, t
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1563?post_id=63863248#post-63863248)  [TMDB](https://www.themoviedb.org/movie/1087822)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1563?post_id=63863248#post-63863248)  [TMDB](https://www.themoviedb.org/movie/1087822)  [Compare across authors](../../compare/?t=film-hellboy-the-crooked-man_1087822)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Hellboy%20The%20Crooked%20Man%20(2024)%20(-1%20gain)%20DTS-HD%20MA%205.1.jpg)

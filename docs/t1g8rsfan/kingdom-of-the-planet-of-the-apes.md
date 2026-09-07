@@ -12,7 +12,7 @@ Several generations following Caesar's reign, apes – now the dominant species 
 +11dB Dialnorm Compensation​ - DD+ Atmos (iTunes)
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63415894/)  [TMDB](https://www.themoviedb.org/movie/653346)
+[Discuss](https://www.avsforum.com/posts/63415894/)  [TMDB](https://www.themoviedb.org/movie/653346)  [Compare across authors](../../compare/?t=film-kingdom-of-the-planet-of-the-apes_653346)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Kingdom%20of%20the%20Planet%20of%20the%20Apes%20(2024)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)

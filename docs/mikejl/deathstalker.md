@@ -7,7 +7,7 @@
 A powerful swordsman known as Deathstalker recovers a cursed amulet from a corpse-strewn battlefield. Marked by dark magic and hunted by monstrous assassins, he must face the rising evil and break the curse.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1253000)
+[TMDB](https://www.themoviedb.org/movie/1253000)  [Compare across authors](../../compare/?t=film-deathstalker_1253000)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Deathstalker/Deathstalker%20(2025)%20DTS-HD%20MA%205.1.jpg)

@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-terminal-list-dark-wolf_219760)
+
 * Production Year: 2025
 
 

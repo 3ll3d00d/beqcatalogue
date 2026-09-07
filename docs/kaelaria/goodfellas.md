@@ -7,7 +7,7 @@
 The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/769)
+[TMDB](https://www.themoviedb.org/movie/769)  [Compare across authors](../../compare/?t=film-goodfellas_769)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/GoodFellas%20(1990)%20DTS-HD%20MA%205.1.jpg)

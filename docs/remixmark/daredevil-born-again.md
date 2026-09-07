@@ -14,6 +14,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63939386#post-63939386)
 
+* [Compare across authors](../../compare/?t=TV-daredevil-born-again_202555)
+
 * Production Year: 2025
 
 
@@ -31,6 +33,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1573?post_id=63926850#post-63926850)
 
+* [Compare across authors](../../compare/?t=TV-daredevil-born-again_202555)
+
 * Production Year: 2025
 
 
@@ -47,6 +51,8 @@ Dialnorm Compensation: 4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1573?post_id=63926972#post-63926972)
+
+* [Compare across authors](../../compare/?t=TV-daredevil-born-again_202555)
 
 * Production Year: 2025
 
@@ -68,6 +74,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1574?post_id=63927026#post-63927026)
 
+* [Compare across authors](../../compare/?t=TV-daredevil-born-again_202555)
+
 * Production Year: 2025
 
 
@@ -87,6 +95,8 @@ Dialnorm Compensation: 4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1580?post_id=63957255#post-63957255)
+
+* [Compare across authors](../../compare/?t=TV-daredevil-born-again_202555)
 
 * Production Year: 2025
 

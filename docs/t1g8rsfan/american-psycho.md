@@ -14,7 +14,7 @@ A wealthy New York investment banking executive hides his alternate psychopathic
 Ultra HD Blu-ray™
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1359)
+[TMDB](https://www.themoviedb.org/movie/1359)  [Compare across authors](../../compare/?t=film-american-psycho_1359)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/American%20Psycho%20(2000)%20Uncut%20(%2B3%20gain)%20Atmos.jpg)

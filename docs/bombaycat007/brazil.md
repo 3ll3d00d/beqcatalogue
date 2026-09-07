@@ -11,7 +11,7 @@ Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life throu
 
 **MV Adjustment:** +3.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/68)
+[TMDB](https://www.themoviedb.org/movie/68)  [Compare across authors](../../compare/?t=film-brazil_68)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/main/Images/Brazil%20(1985)%20(%2B3.5%20Gain)%20DTS-HD%20MA%202.0.png)

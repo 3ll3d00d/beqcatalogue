@@ -12,7 +12,7 @@ This is the rambunctious, ridiculous and totally true story of how the Minions c
 Dialnorm Compensation: 0dB AI Created
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1772#post-64819243)  [TMDB](https://www.themoviedb.org/movie/1315772)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1772#post-64819243)  [TMDB](https://www.themoviedb.org/movie/1315772)  [Compare across authors](../../compare/?t=film-minions-monsters_1315772)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Minions%20%26%20Monsters%20%282026%29%20%28%2B5.0%20gain%29%20Atmos.jpg)
@@ -31,7 +31,7 @@ This is the rambunctious, ridiculous and totally true story of how the Minions c
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1764?post_id=64748111#post-64748111)  [TMDB](https://www.themoviedb.org/movie/1315772)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1764?post_id=64748111#post-64748111)  [TMDB](https://www.themoviedb.org/movie/1315772)  [Compare across authors](../../compare/?t=film-minions-monsters_1315772)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Minions%20%26%20Monsters%20(2026)%20(%2B4.5%20gain)%20DD%2B%20Atnos.jpg)

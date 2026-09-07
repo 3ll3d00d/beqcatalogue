@@ -7,7 +7,7 @@
 A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/4232)
+[TMDB](https://www.themoviedb.org/movie/4232)  [Compare across authors](../../compare/?t=film-scream_4232)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%20(1996)%20DTS-HD%20MA%205.1.jpg)

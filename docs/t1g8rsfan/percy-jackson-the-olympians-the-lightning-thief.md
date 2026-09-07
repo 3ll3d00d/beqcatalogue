@@ -9,7 +9,7 @@ Accident prone teenager, Percy discovers he's actually a demi-God, the son of Po
 
 **MV Adjustment:** -1.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/32657)
+[TMDB](https://www.themoviedb.org/movie/32657)  [Compare across authors](../../compare/?t=film-percy-jackson-the-olympians-the-lightning-thief_32657)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Percy%20Jackson%20and%20the%20Lightning%20Thief%20(2010)%20(-1%20gain)%20DTS-HD%20MA%205.1.jpg)

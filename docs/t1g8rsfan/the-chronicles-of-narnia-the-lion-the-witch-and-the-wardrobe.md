@@ -12,7 +12,7 @@ Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find 
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/411)
+[TMDB](https://www.themoviedb.org/movie/411)  [Compare across authors](../../compare/?t=film-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe_411)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/NarniaTLTWATW%20(2005)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

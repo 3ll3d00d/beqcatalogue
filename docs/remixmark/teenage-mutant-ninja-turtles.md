@@ -9,7 +9,7 @@ A quartet of humanoid turtles, trained by their mentor in ninjitsu, must learn t
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1623?post_id=64130558#post-64130558)  [TMDB](https://www.themoviedb.org/movie/1498)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1623?post_id=64130558#post-64130558)  [TMDB](https://www.themoviedb.org/movie/1498)  [Compare across authors](../../compare/?t=film-teenage-mutant-ninja-turtles_1498)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Teenage%20Mutant%20Ninja%20Turtles%20(1990)%20(%2B1.5%20gain)%20TrueHD%205.1.jpg)

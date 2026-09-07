@@ -9,7 +9,7 @@ Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist
 
 **MV Adjustment:** -6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63168896)  [TMDB](https://www.themoviedb.org/movie/7131)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63168896)  [TMDB](https://www.themoviedb.org/movie/7131)  [Compare across authors](../../compare/?t=film-van-helsing_7131)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Van%20Helsing%20(2004)%20(-6%20gain)%20DTS-X.jpg)

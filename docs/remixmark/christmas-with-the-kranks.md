@@ -9,7 +9,7 @@ When their only daughter Blair leaves the family nest, Luther and Nora Krank dec
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63714894#post-63714894)  [TMDB](https://www.themoviedb.org/movie/13673)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63714894#post-63714894)  [TMDB](https://www.themoviedb.org/movie/13673)  [Compare across authors](../../compare/?t=film-christmas-with-the-kranks_13673)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Christmas%20with%20the%20Kranks%20(2004)%20(%2B4%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
+
 * Production Year: 2025
 
 

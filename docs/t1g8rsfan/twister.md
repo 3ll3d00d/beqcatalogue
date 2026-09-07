@@ -9,7 +9,7 @@ An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornad
 
 **MV Adjustment:** -3.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63413637/)  [TMDB](https://www.themoviedb.org/movie/664)
+[Discuss](https://www.avsforum.com/posts/63413637/)  [TMDB](https://www.themoviedb.org/movie/664)  [Compare across authors](../../compare/?t=film-twister_664)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Twister%20(1996)%20(-3%20gain)%20Atmos.jpg)

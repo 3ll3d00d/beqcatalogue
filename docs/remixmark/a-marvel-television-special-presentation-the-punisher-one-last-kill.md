@@ -12,7 +12,7 @@ As Frank Castle searches for meaning beyond revenge, an unexpected force pulls h
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1740?post_id=64607772#post-64607772)  [TMDB](https://www.themoviedb.org/movie/1439930)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1740?post_id=64607772#post-64607772)  [TMDB](https://www.themoviedb.org/movie/1439930)  [Compare across authors](../../compare/?t=film-a-marvel-television-special-presentation-the-punisher-one-last-kill_1439930)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/A%20Marvel%20Television%20Special%20Presentation%20-%20The%20Punisher%20One%20Last%20Kill%20(2026)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)

@@ -9,7 +9,7 @@ An unassuming substitute sheriff with a troubled past responds to a bank robbery
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1754?post_id=64701016#post-64701016)  [TMDB](https://www.themoviedb.org/movie/1242332)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1754?post_id=64701016#post-64701016)  [TMDB](https://www.themoviedb.org/movie/1242332)  [Compare across authors](../../compare/?t=film-normal_1242332)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Normal%20(2026)%20(%2B1.5%20gain)%20Atmos.jpg)
@@ -25,7 +25,7 @@ Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1742?post_id=64617341#post-64617341)  [TMDB](https://www.themoviedb.org/movie/1242332)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1742?post_id=64617341#post-64617341)  [TMDB](https://www.themoviedb.org/movie/1242332)  [Compare across authors](../../compare/?t=film-normal_1242332)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Normal%20(2026)%20(%2B2.5%20gain)%20DD%2B.jpg)

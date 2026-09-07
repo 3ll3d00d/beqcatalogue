@@ -10,7 +10,7 @@ An extended version of "The Silent Service" depicting Shiro Kaieda's story on a 
 JA
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/244814)
+[TMDB](https://www.themoviedb.org/movie/244814)  [Compare across authors](../../compare/?t=film-the-silent-service_244814)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Silent%20Service%20(2024)%20S01%20DD%2B%20Atmos.jpg)

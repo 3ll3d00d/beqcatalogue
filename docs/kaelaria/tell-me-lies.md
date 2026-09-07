@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-tell-me-lies_130464)
+
 * Production Year: 2022
 
 

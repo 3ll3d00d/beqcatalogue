@@ -9,7 +9,7 @@ When a team of mercenaries breaks into a wealthy family compound on Christmas Ev
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62941592)  [TMDB](https://www.themoviedb.org/movie/899112)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62941592)  [TMDB](https://www.themoviedb.org/movie/899112)  [Compare across authors](../../compare/?t=film-violent-night_899112)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Violent%20Night%20(2022)%20(%2B6%20gain)%20Atmos.jpg)

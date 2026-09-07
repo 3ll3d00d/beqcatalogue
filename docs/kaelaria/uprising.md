@@ -10,7 +10,7 @@ In the Joseon Dynasty, two friends who grew up together — one the master and o
 KO
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1075676)
+[TMDB](https://www.themoviedb.org/movie/1075676)  [Compare across authors](../../compare/?t=film-uprising_1075676)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Uprising%20(2024)%20(ko)%20DD%2B%20Atmos.jpg)

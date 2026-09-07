@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63171601)
 
+* [Compare across authors](../../compare/?t=TV-star-wars-the-bad-batch_105971)
+
 * Production Year: 2021
 
 
@@ -24,6 +26,8 @@
 **MV Adjustment:** +0.5 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63171601)
+
+* [Compare across authors](../../compare/?t=TV-star-wars-the-bad-batch_105971)
 
 * Production Year: 2021
 
@@ -39,6 +43,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63171601)
 
+* [Compare across authors](../../compare/?t=TV-star-wars-the-bad-batch_105971)
+
 * Production Year: 2021
 
 
@@ -51,6 +57,8 @@
 
 +4dB Dialnorm Compensation​
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-star-wars-the-bad-batch_2022)
 
 * Production Year: 2022
 
@@ -66,6 +74,8 @@
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63171729)
+
+* [Compare across authors](../../compare/?t=TV-star-wars-the-bad-batch_2022)
 
 * Production Year: 2022
 
@@ -84,6 +94,8 @@
 
 * [Forum Post](https://www.avsforum.com/posts/63171879/)
 
+* [Compare across authors](../../compare/?t=TV-star-wars-the-bad-batch_2024)
+
 * Production Year: 2024
 
 
@@ -100,6 +112,8 @@
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/posts/63171879/)
+
+* [Compare across authors](../../compare/?t=TV-star-wars-the-bad-batch_2024)
 
 * Production Year: 2024
 

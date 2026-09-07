@@ -9,7 +9,7 @@ European mercenaries searching for black powder become embroiled in the defense 
 
 **MV Adjustment:** -3.5 dB
 
-[Discuss](https://www.avsforum.com/posts/63087025/)  [TMDB](https://www.themoviedb.org/movie/311324)
+[Discuss](https://www.avsforum.com/posts/63087025/)  [TMDB](https://www.themoviedb.org/movie/311324)  [Compare across authors](../../compare/?t=film-the-great-wall_311324)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Great%20Wall%20(2016)%20(-3.5%20gain)%20Atmos.jpg)

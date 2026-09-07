@@ -7,7 +7,7 @@
 Covert security company Vanguard is the last hope of survival for an accountant after he is targeted by the world's deadliest mercenary organization.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/604822)
+[TMDB](https://www.themoviedb.org/movie/604822)  [Compare across authors](../../compare/?t=film-vanguard_604822)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Vanguard/Vanguard%20(2020%20)%20(ma)%20DTS-HD%20MA%205.1.jpg)

@@ -9,7 +9,7 @@ A listless Wade Wilson toils away in civilian life with his days as the morally 
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1516?post_id=63601809#post-63601809)  [TMDB](https://www.themoviedb.org/movie/533535)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1516?post_id=63601809#post-63601809)  [TMDB](https://www.themoviedb.org/movie/533535)  [Compare across authors](../../compare/?t=film-deadpool-wolverine_533535)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Deadpool%20%26%20Wolverine%20(2024)%20(%2B.5%20gain)%20DTS-HD%20MA%207.1.jpg)
@@ -28,7 +28,7 @@ A listless Wade Wilson toils away in civilian life with his days as the morally 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1506?post_id=63568247#post-63568247)  [TMDB](https://www.themoviedb.org/movie/533535)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1506?post_id=63568247#post-63568247)  [TMDB](https://www.themoviedb.org/movie/533535)  [Compare across authors](../../compare/?t=film-deadpool-wolverine_533535)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Deadpool%20%26%20Wolverine%20(2024)%20(%2B.5%20gain)%20DD%2B%20Atmos.jpg)

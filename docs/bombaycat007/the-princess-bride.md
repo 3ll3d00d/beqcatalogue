@@ -11,7 +11,7 @@ In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and th
 
 **MV Adjustment:** +6.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/2493)
+[TMDB](https://www.themoviedb.org/movie/2493)  [Compare across authors](../../compare/?t=film-the-princess-bride_2493)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/The%20Princess%20Bride%20(1987)%20(%2B6%20Gain)%20DTS-HD%20MA%205.1.png)

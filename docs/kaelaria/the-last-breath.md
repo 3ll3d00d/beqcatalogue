@@ -7,7 +7,7 @@
 A group of old college friends reunite on a Caribbean scuba diving trip exploring the wreckage of a WWII battleship and find themselves trapped inside the underwater labyrinth of rusted metal surrounded by great white sharks.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1241674)
+[TMDB](https://www.themoviedb.org/movie/1241674)  [Compare across authors](../../compare/?t=film-the-last-breath_1241674)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The%20Last%20Breath%20(2024)%202K%20DTS-HD%20MA%205.1.jpg)

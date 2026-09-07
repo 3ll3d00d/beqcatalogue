@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-talamasca-the-secret-order_256624)
+
 * Production Year: 2025
 
 

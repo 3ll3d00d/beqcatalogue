@@ -14,6 +14,8 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1536?post_id=63691797#post-63691797)
 
+* [Compare across authors](../../compare/?t=TV-secret-world-of-sound_245782)
+
 * Production Year: 2024
 
 
@@ -34,6 +36,8 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1536?post_id=63692067#post-63692067)
 
+* [Compare across authors](../../compare/?t=TV-secret-world-of-sound_245782)
+
 * Production Year: 2024
 
 
@@ -53,6 +57,8 @@ Dialnorm Compensation: 4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1536?post_id=63692074#post-63692074)
+
+* [Compare across authors](../../compare/?t=TV-secret-world-of-sound_245782)
 
 * Production Year: 2024
 

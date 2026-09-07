@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-tokyo-vice_90296)
+
 * Production Year: 2022
 
 

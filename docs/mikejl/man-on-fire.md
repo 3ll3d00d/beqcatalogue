@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-man-on-fire_223386)
+
 * Production Year: 2026
 
 

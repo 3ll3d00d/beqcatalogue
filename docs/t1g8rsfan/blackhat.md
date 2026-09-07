@@ -11,7 +11,7 @@ Nicholas Hathaway, a furloughed convict, and his American and Chinese partners h
 
 **MV Adjustment:** +2.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/201088)
+[TMDB](https://www.themoviedb.org/movie/201088)  [Compare across authors](../../compare/?t=film-blackhat_201088)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Blackhat%20(2016)%20US%20Cut%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)

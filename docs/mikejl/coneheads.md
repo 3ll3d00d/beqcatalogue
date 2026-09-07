@@ -9,7 +9,7 @@ UHD
 A pair of aliens arrive on Earth to prepare for invasion, but crash instead. With enormous cone-shaped heads, robotlike walks and an appetite for toilet paper, aliens Beldar and Prymatt don't exactly blend in with the population of Paramus, N.J. But for some reason, everyone believes them when they say they're from France.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9612)
+[TMDB](https://www.themoviedb.org/movie/9612)  [Compare across authors](../../compare/?t=film-coneheads_9612)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Coneheads/Coneheads%20(1993)%20DTS-HD%20MA%205.1.jpg)

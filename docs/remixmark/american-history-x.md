@@ -9,7 +9,7 @@ Derek Vineyard is paroled after serving 3 years in prison for killing two Africa
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1675?post_id=64285251#post-64285251)  [TMDB](https://www.themoviedb.org/movie/73)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1675?post_id=64285251#post-64285251)  [TMDB](https://www.themoviedb.org/movie/73)  [Compare across authors](../../compare/?t=film-american-history-x_73)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/American%20History%20X%20(1998)%20(%2B4.5%20gain)%20DTS-HD%20MA%207.1.jpg)

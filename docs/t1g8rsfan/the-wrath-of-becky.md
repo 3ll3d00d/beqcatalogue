@@ -9,7 +9,7 @@ Two years after she escaped a violent attack on her family, 16-year-old Becky at
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/posts/63329662/)  [TMDB](https://www.themoviedb.org/movie/986070)
+[Discuss](https://www.avsforum.com/posts/63329662/)  [TMDB](https://www.themoviedb.org/movie/986070)  [Compare across authors](../../compare/?t=film-the-wrath-of-becky_986070)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Wrath%20of%20Becky%20(2023)%20(%2B7%20gain)%20DTS-HD%20MA%207.1.jpg)

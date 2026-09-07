@@ -5,6 +5,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-gundam-requiem-for-vengeance_229906)
+
 * Production Year: 2024
 
 

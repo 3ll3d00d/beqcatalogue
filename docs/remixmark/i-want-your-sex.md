@@ -12,7 +12,7 @@ When fresh-faced Elliot lands an exciting job for renowned artist, icon and prov
 Dialnorm Compensation: 1dB AI Created
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1772#post-64819069)  [TMDB](https://www.themoviedb.org/movie/1288059)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1772#post-64819069)  [TMDB](https://www.themoviedb.org/movie/1288059)  [Compare across authors](../../compare/?t=film-i-want-your-sex_1288059)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/I%20Want%20Your%20Sex%20%282026%29%20%28%2B9.0%20gain%29%20DD%2B%205.1.jpg)

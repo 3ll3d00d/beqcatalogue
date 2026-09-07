@@ -12,7 +12,7 @@ In 1989, a misunderstood teenager has a high school crush — who just happens t
 +2dB Dialnorm Compensation​
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63172623)  [TMDB](https://www.themoviedb.org/movie/993784)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63172623)  [TMDB](https://www.themoviedb.org/movie/993784)  [Compare across authors](../../compare/?t=film-lisa-frankenstein_993784)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Lisa%20Frsnkenstein%20(2024)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

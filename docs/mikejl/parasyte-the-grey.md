@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-parasyte-the-grey_208825)
+
 * Production Year: 2024
 
 

@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1577?post_id=63948358#post-63948358)
 
+* [Compare across authors](../../compare/?t=TV-mobland_247718)
+
 * Production Year: 2025
 
 
@@ -25,6 +27,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1580?post_id=63957280#post-63957280)
 
+* [Compare across authors](../../compare/?t=TV-mobland_247718)
+
 * Production Year: 2025
 
 
@@ -38,6 +42,8 @@
 **MV Adjustment:** +3.5 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1585?post_id=63981073#post-63981073)
+
+* [Compare across authors](../../compare/?t=TV-mobland_247718)
 
 * Production Year: 2025
 
@@ -56,6 +62,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1585?post_id=63981085#post-63981085)
 
+* [Compare across authors](../../compare/?t=TV-mobland_247718)
+
 * Production Year: 2025
 
 
@@ -73,6 +81,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64003682#post-64003682)
 
+* [Compare across authors](../../compare/?t=TV-mobland_247718)
+
 * Production Year: 2025
 
 
@@ -86,6 +96,8 @@
 **MV Adjustment:** +5.5 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1594?post_id=64016232#post-64016232)
+
+* [Compare across authors](../../compare/?t=TV-mobland_247718)
 
 * Production Year: 2025
 
@@ -103,6 +115,8 @@
 **MV Adjustment:** +7.5 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1597?post_id=64029774#post-64029774)
+
+* [Compare across authors](../../compare/?t=TV-mobland_247718)
 
 * Production Year: 2025
 

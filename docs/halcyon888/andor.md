@@ -12,6 +12,8 @@
 Dialnorm Compensation: E01-E03 +4dB
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-andor_83867)
+
 * Production Year: 2022
 
 
@@ -29,6 +31,8 @@ Dialnorm Compensation: E01-E03 +4dB
 
 Dialnorm Compensation: E10-E12 +4dB
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-andor_83867)
 
 * Production Year: 2022
 
@@ -48,6 +52,8 @@ Dialnorm Compensation: E10-E12 +4dB
 Dialnorm Compensation: E04-E06 +4dB
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-andor_83867)
+
 * Production Year: 2022
 
 
@@ -65,6 +71,8 @@ Dialnorm Compensation: E04-E06 +4dB
 
 Dialnorm Compensation: E07-E09 +4dB
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-andor_83867)
 
 * Production Year: 2022
 

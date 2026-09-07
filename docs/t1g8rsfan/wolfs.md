@@ -12,7 +12,7 @@ Hired to cover up a high-profile crime, a fixer soon finds his night spiralling 
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63563999/)  [TMDB](https://www.themoviedb.org/movie/877817)
+[Discuss](https://www.avsforum.com/posts/63563999/)  [TMDB](https://www.themoviedb.org/movie/877817)  [Compare across authors](../../compare/?t=film-wolfs_877817)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Wolfs%20(2024)%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)

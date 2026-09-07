@@ -7,7 +7,7 @@
 When a tech blogger lands an interview with a tech guru and stops an attack on him, he finds a mysterious ring that takes him back 57 seconds into the past.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/937249)
+[TMDB](https://www.themoviedb.org/movie/937249)  [Compare across authors](../../compare/?t=film-57-seconds_937249)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/57%20Seconds/57%20Seconds%20(2023)%20DD%2B%205.1.jpg)

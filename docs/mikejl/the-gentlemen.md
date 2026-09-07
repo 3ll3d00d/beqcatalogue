@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-gentlemen_236235)
+
 * Production Year: 2024
 
 
@@ -19,6 +21,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-the-gentlemen_236235)
 
 * Production Year: 2024
 

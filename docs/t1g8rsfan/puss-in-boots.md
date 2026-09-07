@@ -9,7 +9,7 @@ Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in B
 
 **MV Adjustment:** +4.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/417859)
+[TMDB](https://www.themoviedb.org/movie/417859)  [Compare across authors](../../compare/?t=film-puss-in-boots_417859)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Puss%20in%20Boots%20(2011)%20(%2B4.5%20gain)%20DTS-X.jpg)

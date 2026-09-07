@@ -9,7 +9,7 @@ Alice, now 19 years old, returns to the whimsical world she first entered as a c
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1637?post_id=64168049#post-64168049)  [TMDB](https://www.themoviedb.org/movie/12155)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1637?post_id=64168049#post-64168049)  [TMDB](https://www.themoviedb.org/movie/12155)  [Compare across authors](../../compare/?t=film-alice-in-wonderland_12155)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Alice%20in%20Wonderland%20(2010)%20(%2B1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

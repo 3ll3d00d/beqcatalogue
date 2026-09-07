@@ -12,7 +12,7 @@ After the death of his father, a boy growing up on a lunar mining colony takes a
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62854618)  [TMDB](https://www.themoviedb.org/movie/620705)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62854618)  [TMDB](https://www.themoviedb.org/movie/620705)  [Compare across authors](../../compare/?t=film-crater_620705)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Crater%20(2023)%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)

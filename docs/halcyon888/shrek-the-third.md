@@ -9,7 +9,7 @@ The King of Far Far Away has died and Shrek and Fiona are to become King & Queen
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62806359)  [TMDB](https://www.themoviedb.org/movie/810)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62806359)  [TMDB](https://www.themoviedb.org/movie/810)  [Compare across authors](../../compare/?t=film-shrek-the-third_810)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Shrek%20the%20Third%20(2007)%20DTS-HD%20MA%207.1%20PvA%20v2.jpg)

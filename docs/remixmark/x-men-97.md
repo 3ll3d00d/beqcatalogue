@@ -14,6 +14,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1755?post_id=64712136#post-64712136)
 
+* [Compare across authors](../../compare/?t=TV-x-men-97_138502)
+
 * Production Year: 2024
 
 

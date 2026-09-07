@@ -14,7 +14,7 @@ Princess Leia is captured and held hostage by the evil Imperial forces in their 
 5.1 DTS-HD-MA (1977 70mm six track mix 2018)
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1521?post_id=63610142#post-63610142)  [TMDB](https://www.themoviedb.org/movie/11)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1521?post_id=63610142#post-63610142)  [TMDB](https://www.themoviedb.org/movie/11)  [Compare across authors](../../compare/?t=film-star-wars_11)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Star%20Wars%20(1977)%20(%2B2.5%20gain)%20DTS-HD%20MA%205.1%20(1977%2070mm%20six%20track%20mix%202018).jpg)

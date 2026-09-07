@@ -7,7 +7,7 @@
 Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/497698)
+[TMDB](https://www.themoviedb.org/movie/497698)  [Compare across authors](../../compare/?t=film-black-widow_497698)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Black%20Widow%20(2021)%20DTS-HD%20MA%207.1.jpg)

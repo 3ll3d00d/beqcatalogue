@@ -12,7 +12,7 @@ Years after witnessing the death of the revered hero Maximus at the hands of his
 +4dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/558449)
+[TMDB](https://www.themoviedb.org/movie/558449)  [Compare across authors](../../compare/?t=film-gladiator-ii_558449)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Gladiator%20II%20(2024)%20(%2B3%20gain)%20Atmos.jpg)

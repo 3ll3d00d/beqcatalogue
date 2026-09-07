@@ -7,7 +7,7 @@
 Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe – just maybe – her son's science teacher.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1272149)
+[TMDB](https://www.themoviedb.org/movie/1272149)  [Compare across authors](../../compare/?t=film-bridget-jones-mad-about-the-boy_1272149)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Bridget%20Jones%20-%20Mad%20About%20the%20Boy/Bridget%20Jones%20-%20Mad%20About%20The%20Boy%20(2025)%20Atmos.jpg)

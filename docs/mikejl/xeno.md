@@ -7,7 +7,7 @@
 A teenage girl develops an otherworldly bond with an alien after it crash-lands in the desert. As government agents close in, she must protect her new friend, while uncovering a secret that could change the fate of both their worlds.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1119377)
+[TMDB](https://www.themoviedb.org/movie/1119377)  [Compare across authors](../../compare/?t=film-xeno_1119377)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/X/Xeno/Xeno%20(2025)%20DTS-HD%20MA%205.1.jpg)

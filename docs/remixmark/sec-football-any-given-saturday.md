@@ -14,6 +14,8 @@ Dialnorm Compensation: 1,5,7-5dB 2,3,4,6-4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1626?post_id=64134885#post-64134885)
 
+* [Compare across authors](../../compare/?t=TV-sec-football-any-given-saturday_296069)
+
 * Production Year: 2025
 
 

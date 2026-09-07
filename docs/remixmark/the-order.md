@@ -7,7 +7,7 @@
 A string of violent robberies in the Pacific Northwest leads veteran FBI agent Terry Husk into a white supremacist plot to overthrow the federal government.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63843612#post-63843612)  [TMDB](https://www.themoviedb.org/movie/1082195)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63843612#post-63843612)  [TMDB](https://www.themoviedb.org/movie/1082195)  [Compare across authors](../../compare/?t=film-the-order_1082195)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Order%20(2024)%20DD%205.1.jpg)
@@ -23,7 +23,7 @@ A string of violent robberies in the Pacific Northwest leads veteran FBI agent T
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63843732#post-63843732)  [TMDB](https://www.themoviedb.org/movie/1082195)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63843732#post-63843732)  [TMDB](https://www.themoviedb.org/movie/1082195)  [Compare across authors](../../compare/?t=film-the-order_1082195)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Order%20(2024)%20(%2B2.5%20gain)%20DD%20%2B.jpg)
@@ -37,7 +37,7 @@ A string of violent robberies in the Pacific Northwest leads veteran FBI agent T
 A string of violent robberies in the Pacific Northwest leads veteran FBI agent Terry Husk into a white supremacist plot to overthrow the federal government.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1561?post_id=63845379#post-63845379)  [TMDB](https://www.themoviedb.org/movie/1082195)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1561?post_id=63845379#post-63845379)  [TMDB](https://www.themoviedb.org/movie/1082195)  [Compare across authors](../../compare/?t=film-the-order_1082195)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Order%20(2024)%20PCM.jpg)

@@ -7,7 +7,7 @@
 Heeding a prophecy, a warlord trains two orphans after killing their parents. But the skills he teaches could lead to his downfall.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/2137)
+[TMDB](https://www.themoviedb.org/movie/2137)  [Compare across authors](../../compare/?t=film-the-storm-riders_2137)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Storm%20Riders/The%20Storm%20Riders%20(1998)%20(yue)%20DTS-HD%20MA%205.1.jpg)

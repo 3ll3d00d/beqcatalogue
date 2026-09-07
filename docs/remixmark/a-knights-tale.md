@@ -11,7 +11,7 @@ William Thatcher, a knight's peasant apprentice, gets a chance at glory when the
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1594?post_id=64020209#post-64020209)  [TMDB](https://www.themoviedb.org/movie/9476)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1594?post_id=64020209#post-64020209)  [TMDB](https://www.themoviedb.org/movie/9476)  [Compare across authors](../../compare/?t=film-a-knights-tale_9476)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/A%20Knight's%20Tale%20(2001)%20(-2%20gain)%20Atmos.jpg)

@@ -9,7 +9,7 @@ An endless army of shadow demons bent on the destruction of all reality swarms o
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63072666/)  [TMDB](https://www.themoviedb.org/movie/1209288)
+[Discuss](https://www.avsforum.com/posts/63072666/)  [TMDB](https://www.themoviedb.org/movie/1209288)  [Compare across authors](../../compare/?t=film-justice-league-crisis-on-infinite-earths-part-two_1209288)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/JL-%20CoIEP2%20(2024)%20(%2B6%20gain)%20DTS-HD%20MA%205.1.jpg)

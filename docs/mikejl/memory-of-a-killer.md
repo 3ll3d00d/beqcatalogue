@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-memory-of-a-killer_291339)
+
 * Production Year: 2026
 
 

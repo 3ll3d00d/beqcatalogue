@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-sweet-tooth_103768)
+
 * Production Year: 2021
 
 

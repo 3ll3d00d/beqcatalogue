@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.imdb.com/title/tt0121955/)
 
+* [Compare across authors](../../compare/?t=TV-south-park_2190)
+
 * Production Year: 1997
 
 
@@ -27,6 +29,8 @@
 **MV Adjustment:** +5.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1625?post_id=64134286#post-64134286)
+
+* [Compare across authors](../../compare/?t=TV-south-park_2190)
 
 * Production Year: 1997
 
@@ -45,6 +49,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1635?post_id=64160519#post-64160519)
 
+* [Compare across authors](../../compare/?t=TV-south-park_2190)
+
 * Production Year: 1997
 
 
@@ -62,6 +68,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1655?post_id=64224253#post-64224253)
 
+* [Compare across authors](../../compare/?t=TV-south-park_2190)
+
 * Production Year: 1997
 
 
@@ -78,6 +86,8 @@
 **MV Adjustment:** +4.5 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1668?post_id=64258706#post-64258706)
+
+* [Compare across authors](../../compare/?t=TV-south-park_2190)
 
 * Production Year: 1997
 
@@ -99,6 +109,8 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1675?post_id=64287356#post-64287356)
 
+* [Compare across authors](../../compare/?t=TV-south-park_2190)
+
 * Production Year: 1997
 
 
@@ -115,6 +127,8 @@ Dialnorm Compensation: 5dB
 **MV Adjustment:** +4.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64304712#post-64304712)
+
+* [Compare across authors](../../compare/?t=TV-south-park_2190)
 
 * Production Year: 1997
 

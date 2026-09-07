@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-fortitude_61335)
+
 * Production Year: 2015
 
 
@@ -20,6 +22,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-fortitude_61335)
+
 * Production Year: 2015
 
 
@@ -32,6 +36,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-fortitude_61335)
 
 * Production Year: 2015
 

@@ -7,7 +7,7 @@
 A flying saucer lands in the backyard of an elderly suburbanite with memory problems, who forms a bond with the scared alien inside.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1072371)
+[TMDB](https://www.themoviedb.org/movie/1072371)  [Compare across authors](../../compare/?t=film-jules_1072371)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Jules%20(2023)%20DD%2B.jpg)

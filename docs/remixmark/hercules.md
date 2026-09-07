@@ -9,7 +9,7 @@ Bestowed with superhuman strength, a young mortal named Hercules sets out to pro
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1467?post_id=63344990#post-63344990)  [TMDB](https://www.themoviedb.org/movie/11970)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1467?post_id=63344990#post-63344990)  [TMDB](https://www.themoviedb.org/movie/11970)  [Compare across authors](../../compare/?t=film-hercules_11970)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Hercules%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)

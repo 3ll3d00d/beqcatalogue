@@ -9,7 +9,7 @@ After suffering a potentially career-ending brain trauma, Cameron Cade receives 
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1676?post_id=64292716#post-64292716)  [TMDB](https://www.themoviedb.org/movie/986097)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1676?post_id=64292716#post-64292716)  [TMDB](https://www.themoviedb.org/movie/986097)  [Compare across authors](../../compare/?t=film-him_986097)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/HIM%20(2025)%20(%2B2%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ After suffering a potentially career-ending brain trauma, Cameron Cade receives 
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1663?post_id=64242693#post-64242693)  [TMDB](https://www.themoviedb.org/movie/986097)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1663?post_id=64242693#post-64242693)  [TMDB](https://www.themoviedb.org/movie/986097)  [Compare across authors](../../compare/?t=film-him_986097)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/HIM%20(2025)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

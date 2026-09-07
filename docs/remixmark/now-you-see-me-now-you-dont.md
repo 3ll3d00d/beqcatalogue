@@ -6,7 +6,7 @@
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1714?post_id=64474475#post-64474475)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1714?post_id=64474475#post-64474475)  [Compare across authors](../../compare/?t=film-now-you-see-me-now-you-dont_2025)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Now%20You%20See%20Me%20Now%20You%20Don't%20(2025)%20(%2B4%20gain)%20Atmos.jpg)

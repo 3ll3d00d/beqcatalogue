@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-conversations-with-a-killer-the-son-of-sam-tapes_294611)
+
 * Production Year: 2025
 
 

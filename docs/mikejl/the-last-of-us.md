@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-last-of-us_100088)
+
 * Production Year: 2023
 
 
@@ -19,6 +21,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-the-last-of-us_100088)
 
 * Production Year: 2023
 

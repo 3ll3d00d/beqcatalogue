@@ -5,6 +5,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-swapped_1007757)
+
 * Production Year: 2026
 
 

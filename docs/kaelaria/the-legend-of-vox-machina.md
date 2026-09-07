@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-legend-of-vox-machina_135934)
+
 * Production Year: 2022
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-the-legend-of-vox-machina_135934)
 
 * Production Year: 2022
 

@@ -9,7 +9,7 @@ Brad and Kate have made something of an art form out of avoiding their families 
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1533?post_id=63680234#post-63680234)  [TMDB](https://www.themoviedb.org/movie/12193)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1533?post_id=63680234#post-63680234)  [TMDB](https://www.themoviedb.org/movie/12193)  [Compare across authors](../../compare/?t=film-four-christmases_12193)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Four%20Christmases%20(2008)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

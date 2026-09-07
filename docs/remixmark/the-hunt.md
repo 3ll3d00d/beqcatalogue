@@ -12,7 +12,7 @@ Twelve strangers wake up in a clearing. They don't know where they are—or how 
 Dialnorm Compensation: 7dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1573?post_id=63923713#post-63923713)  [TMDB](https://www.themoviedb.org/movie/514847)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1573?post_id=63923713#post-63923713)  [TMDB](https://www.themoviedb.org/movie/514847)  [Compare across authors](../../compare/?t=film-the-hunt_514847)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Hunt%20(2020)%20(%2B.5)%20Atmos.jpg)

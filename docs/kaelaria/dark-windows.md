@@ -7,7 +7,7 @@
 A group of teenagers take a trip to an isolated summerhouse in the countryside. What starts as a peaceful getaway turns into a horrific nightmare when a masked man begins to terrorize them in the most gruesome ways.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1089228)
+[TMDB](https://www.themoviedb.org/movie/1089228)  [Compare across authors](../../compare/?t=film-dark-windows_1089228)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Dark%20Windows%20(2023)%202K%20DTS-HD%20MA%205.1.jpg)

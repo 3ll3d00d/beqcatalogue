@@ -10,7 +10,7 @@ Gon, Killua, Kurapika and Leorio reunite to face a dangerous opponent who was on
 ja
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/211755)
+[TMDB](https://www.themoviedb.org/movie/211755)  [Compare across authors](../../compare/?t=film-hunter-x-hunter-phantom-rouge_211755)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Hunter%20x%20Hunter%20-%20Phantom.Rouge%20(2013)%20(ja)%20DD%2B%205.1.jpg)

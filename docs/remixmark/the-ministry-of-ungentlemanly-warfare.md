@@ -12,7 +12,7 @@ A true story about a secret British World War II organization; the Special Opera
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1452?post_id=63302509#post-63302509)  [TMDB](https://www.themoviedb.org/movie/799583)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1452?post_id=63302509#post-63302509)  [TMDB](https://www.themoviedb.org/movie/799583)  [Compare across authors](../../compare/?t=film-the-ministry-of-ungentlemanly-warfare_799583)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Ministry%20of%20Ungentlemanly%20Warfare%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

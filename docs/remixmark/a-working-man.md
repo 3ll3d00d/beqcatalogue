@@ -9,7 +9,7 @@ Levon Cade left behind a decorated military career in the black ops to live a si
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1597?post_id=64031782#post-64031782)  [TMDB](https://www.themoviedb.org/movie/1197306)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1597?post_id=64031782#post-64031782)  [TMDB](https://www.themoviedb.org/movie/1197306)  [Compare across authors](../../compare/?t=film-a-working-man_1197306)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/A%20Working%20Man%20(2025)%20(%2B1.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Levon Cade left behind a decorated military career in the black ops to live a si
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1577?post_id=63949324#post-63949324)  [TMDB](https://www.themoviedb.org/movie/1197306)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1577?post_id=63949324#post-63949324)  [TMDB](https://www.themoviedb.org/movie/1197306)  [Compare across authors](../../compare/?t=film-a-working-man_1197306)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/A%20Working%20Man%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

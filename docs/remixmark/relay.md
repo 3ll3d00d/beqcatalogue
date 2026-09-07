@@ -9,7 +9,7 @@ Tom, a world class "fixer", specializes in brokering lucrative payoffs between c
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1644?post_id=64205244#post-64205244)  [TMDB](https://www.themoviedb.org/movie/1088166)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1644?post_id=64205244#post-64205244)  [TMDB](https://www.themoviedb.org/movie/1088166)  [Compare across authors](../../compare/?t=film-relay_1088166)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Relay%20(2025)%20(%2B5.5%20gain)%20DD%2B.jpg)

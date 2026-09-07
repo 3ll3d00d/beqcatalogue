@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-hell-motel_290511)
+
 * Production Year: 2025
 
 

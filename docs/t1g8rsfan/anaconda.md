@@ -12,7 +12,7 @@ A group of friends facing mid-life crises head to the rainforest with the intent
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1234731)
+[TMDB](https://www.themoviedb.org/movie/1234731)  [Compare across authors](../../compare/?t=film-anaconda_1234731)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Anaconda%20(2026)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)

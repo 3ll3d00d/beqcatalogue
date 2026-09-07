@@ -14,6 +14,8 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1575?post_id=63932330#post-63932330)
 
+* [Compare across authors](../../compare/?t=TV-reacher_108978)
+
 * Production Year: 2022
 
 
@@ -30,6 +32,8 @@ Dialnorm Compensation: 5dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1571?post_id=63904984#post-63904984)
+
+* [Compare across authors](../../compare/?t=TV-reacher_108978)
 
 * Production Year: 2022
 
@@ -51,6 +55,8 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800875#post-64800875)
 
+* [Compare across authors](../../compare/?t=TV-reacher_108978)
+
 * Production Year: 2022
 
 
@@ -70,6 +76,8 @@ Dialnorm Compensation: 6dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800881#post-64800881)
+
+* [Compare across authors](../../compare/?t=TV-reacher_108978)
 
 * Production Year: 2022
 
@@ -91,6 +99,8 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800885#post-64800885)
 
+* [Compare across authors](../../compare/?t=TV-reacher_108978)
+
 * Production Year: 2022
 
 
@@ -111,6 +121,8 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800889#post-64800889)
 
+* [Compare across authors](../../compare/?t=TV-reacher_108978)
+
 * Production Year: 2022
 
 
@@ -130,6 +142,8 @@ Dialnorm Compensation: 5dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800895#post-64800895)
+
+* [Compare across authors](../../compare/?t=TV-reacher_108978)
 
 * Production Year: 2022
 

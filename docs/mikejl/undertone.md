@@ -7,7 +7,7 @@
 The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1480387)
+[TMDB](https://www.themoviedb.org/movie/1480387)  [Compare across authors](../../compare/?t=film-undertone_1480387)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/U/Undertone/Undertone%20(2025)%20DD%2B%20Atmos.jpg)

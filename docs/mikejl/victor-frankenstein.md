@@ -7,7 +7,7 @@
 Eccentric scientist Victor Von Frankenstein creates a grotesque creature in an unorthodox scientific experiment.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/228066)
+[TMDB](https://www.themoviedb.org/movie/228066)  [Compare across authors](../../compare/?t=film-victor-frankenstein_228066)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Victor%20Frankenstein/Victor%20Frankenstein%20(2015)%20DTS-HD%20MA%207.1.jpg)

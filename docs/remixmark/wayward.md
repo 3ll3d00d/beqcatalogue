@@ -14,6 +14,8 @@ Dialnorm Compensation: Ep: 2,5,6-5dB Ep: 1,3,4,7,8-4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1660?post_id=64235115#post-64235115)
 
+* [Compare across authors](../../compare/?t=TV-wayward_255859)
+
 * Production Year: 2025
 
 

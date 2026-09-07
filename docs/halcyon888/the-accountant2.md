@@ -12,7 +12,7 @@ When an old acquaintance is murdered, Wolff is compelled to solve the case. Real
 Dialnorm Compensation: +4dB
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/870028)
+[TMDB](https://www.themoviedb.org/movie/870028)  [Compare across authors](../../compare/?t=film-the-accountant2_870028)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/Accountant%202%20DDP%20Atmos%20PvA.jpg)

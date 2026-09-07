@@ -14,6 +14,8 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1686?post_id=64341337#post-64341337)
 
+* [Compare across authors](../../compare/?t=TV-spartacus-house-of-ashur_240459)
+
 * Production Year: 2025
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 5dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1686?post_id=64341357#post-64341357)
+
+* [Compare across authors](../../compare/?t=TV-spartacus-house-of-ashur_240459)
 
 * Production Year: 2025
 
@@ -54,6 +58,8 @@ Dialnorm Compensation:5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1688?post_id=64354388#post-64354388)
 
+* [Compare across authors](../../compare/?t=TV-spartacus-house-of-ashur_240459)
+
 * Production Year: 2025
 
 
@@ -73,6 +79,8 @@ Dialnorm Compensation: 5dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1691?post_id=64366451#post-64366451)
+
+* [Compare across authors](../../compare/?t=TV-spartacus-house-of-ashur_240459)
 
 * Production Year: 2025
 
@@ -94,6 +102,8 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1693?post_id=64379401#post-64379401)
 
+* [Compare across authors](../../compare/?t=TV-spartacus-house-of-ashur_240459)
+
 * Production Year: 2025
 
 
@@ -113,6 +123,8 @@ Dialnorm Compensation: 4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1697?post_id=64391440#post-64391440)
+
+* [Compare across authors](../../compare/?t=TV-spartacus-house-of-ashur_240459)
 
 * Production Year: 2025
 
@@ -134,6 +146,8 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1700?post_id=64406470#post-64406470)
 
+* [Compare across authors](../../compare/?t=TV-spartacus-house-of-ashur_240459)
+
 * Production Year: 2025
 
 
@@ -153,6 +167,8 @@ Dialnorm Compenation: 6dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1703?post_id=64434013#post-64434013)
+
+* [Compare across authors](../../compare/?t=TV-spartacus-house-of-ashur_240459)
 
 * Production Year: 2025
 
@@ -174,6 +190,8 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1706?post_id=64446438#post-64446438)
 
+* [Compare across authors](../../compare/?t=TV-spartacus-house-of-ashur_240459)
+
 * Production Year: 2025
 
 
@@ -190,6 +208,8 @@ Dialnorm Compensation: 6dB
 **MV Adjustment:** +6.0 dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1715?post_id=64480833#post-64480833)
+
+* [Compare across authors](../../compare/?t=TV-spartacus-house-of-ashur_240459)
 
 * Production Year: 2025
 

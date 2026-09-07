@@ -12,6 +12,8 @@
 +7dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-it-welcome-to-derry_200875)
+
 * Production Year: 2025
 
 
@@ -26,6 +28,8 @@
 
 +8dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-it-welcome-to-derry_200875)
 
 * Production Year: 2025
 

@@ -9,7 +9,7 @@ A family's vacation to a remote getaway takes an unexpected turn when they disco
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1549?post_id=63771093#post-63771093)  [TMDB](https://www.themoviedb.org/movie/1201753)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1549?post_id=63771093#post-63771093)  [TMDB](https://www.themoviedb.org/movie/1201753)  [Compare across authors](../../compare/?t=film-get-away_1201753)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Get%20Away%20(2024)%20(%2B4.5%20gain)%20DD%2B.jpg)

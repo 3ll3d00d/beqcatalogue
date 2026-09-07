@@ -12,7 +12,7 @@ After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tomm
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/875828)
+[TMDB](https://www.themoviedb.org/movie/875828)  [Compare across authors](../../compare/?t=film-peaky-blinders-the-immortal-man_875828)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Peaky%20Blinders%20The%20Immortal%20Man%20(2026)%20(-1%20gain)%20DD%2B%20Atmos.jpg)

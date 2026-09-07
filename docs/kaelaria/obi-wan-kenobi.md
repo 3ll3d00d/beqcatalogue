@@ -7,6 +7,8 @@
 * Atmos, DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-obi-wan-kenobi_92830)
+
 * Production Year: 2022
 
 

@@ -14,6 +14,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63165211)
 
+* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_2024)
+
 * Production Year: 2024
 
 
@@ -28,6 +30,8 @@
 
 +5dB Dialnorm Compensation
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_2025)
 
 * Production Year: 2025
 

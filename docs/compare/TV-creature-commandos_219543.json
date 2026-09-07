@@ -1,0 +1,1 @@
+[{"author":"remixmark","audioTypes":["DD+"],"content_type":"TV","season":"01E01-07","episode":"","edition":"","filters":[{"type":"LowShelf","freq":10.0,"gain":-1.3,"q":0.9,"count":1},{"type":"LowShelf","freq":33.0,"gain":5.4,"q":0.9,"count":1},{"type":"LowShelf","freq":33.0,"gain":5.4,"q":0.9,"count":1},{"type":"PeakingEQ","freq":68.0,"gain":0.5,"q":0.8,"count":1}]}]

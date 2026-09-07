@@ -14,6 +14,8 @@ Dialnorm Compensation: Ep1,3-7: 4dB Ep 2: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1545?post_id=63732455#post-63732455)
 
+* [Compare across authors](../../compare/?t=TV-squid-game_93405)
+
 * Production Year: 2021
 
 
@@ -30,6 +32,8 @@ Dialnorm Compensation: 4dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1608?post_id=64068841#post-64068841)
+
+* [Compare across authors](../../compare/?t=TV-squid-game_93405)
 
 * Production Year: 2021
 

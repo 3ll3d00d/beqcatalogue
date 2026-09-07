@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-star-trek-starfleet-academy_223530)
+
 * Production Year: 2026
 
 

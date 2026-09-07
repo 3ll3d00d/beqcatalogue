@@ -11,7 +11,7 @@ After years of outrunning ruthless bounty hunters, escaped convict Riddick sudde
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/posts/63535861/)  [TMDB](https://www.themoviedb.org/movie/2789)
+[Discuss](https://www.avsforum.com/posts/63535861/)  [TMDB](https://www.themoviedb.org/movie/2789)  [Compare across authors](../../compare/?t=film-the-chronicles-of-riddick_2789)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Chronicles%20of%20Riddick%20(2004)%20(-2%20gain)%20Atmos.jpg)

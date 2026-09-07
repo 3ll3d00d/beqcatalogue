@@ -9,7 +9,7 @@ In 26 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman emp
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1712?post_id=64470485#post-64470485)  [TMDB](https://www.themoviedb.org/movie/665)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1712?post_id=64470485#post-64470485)  [TMDB](https://www.themoviedb.org/movie/665)  [Compare across authors](../../compare/?t=film-ben-hur_665)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Ben-Hur%20(1959)%20(-1%20gain)%20Atmos.jpg)
@@ -25,7 +25,7 @@ In 26 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman emp
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1714?post_id=64477823#post-64477823)  [TMDB](https://www.themoviedb.org/movie/665)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1714?post_id=64477823#post-64477823)  [TMDB](https://www.themoviedb.org/movie/665)  [Compare across authors](../../compare/?t=film-ben-hur_665)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Ben-Hur%20(1959)%20(-.5%20gain)%20DD%2B%20Atmos.jpg)

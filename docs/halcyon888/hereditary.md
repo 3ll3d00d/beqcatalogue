@@ -9,7 +9,7 @@ When Ellen, the matriarch of the Graham family, passes away, her daughter's fami
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62758741)  [TMDB](https://www.themoviedb.org/movie/493922)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62758741)  [TMDB](https://www.themoviedb.org/movie/493922)  [Compare across authors](../../compare/?t=film-hereditary_493922)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hereditary%202018%20DTS-HD%20MA%205.1%20PvA.jpg)

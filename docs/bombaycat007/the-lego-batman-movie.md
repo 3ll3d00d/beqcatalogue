@@ -11,7 +11,7 @@ A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to
 
 **MV Adjustment:** +3.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/324849)
+[TMDB](https://www.themoviedb.org/movie/324849)  [Compare across authors](../../compare/?t=film-the-lego-batman-movie_324849)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/The%20Lego%20Batman%20Movie%20(2017)%20(%2B3%20Gain)%203D%20DTS-HD%20MA%205.1.png)

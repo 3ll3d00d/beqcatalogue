@@ -12,7 +12,7 @@ An exiled anxiety-ridden homebody must battle an alien who's found its way into 
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62840829)  [TMDB](https://www.themoviedb.org/movie/820609)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62840829)  [TMDB](https://www.themoviedb.org/movie/820609)  [Compare across authors](../../compare/?t=film-no-one-will-save-you_820609)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/No%20One%20Will%20Save%20You%20(2023)%20DDP%20Atmos%20PvA.jpg)

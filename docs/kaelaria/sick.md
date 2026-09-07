@@ -7,7 +7,7 @@
 While quarantining at her family's lake house during the pandemic, Parker and her best friend are threatened by an unexpected visitor.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/829410)
+[TMDB](https://www.themoviedb.org/movie/829410)  [Compare across authors](../../compare/?t=film-sick_829410)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Sick%20(2022)%20Atmos.jpg)

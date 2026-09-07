@@ -9,7 +9,7 @@ Set in the 22nd century, The Matrix tells the story of a computer hacker who joi
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1669?post_id=64261540#post-64261540)  [TMDB](https://www.themoviedb.org/movie/603)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1669?post_id=64261540#post-64261540)  [TMDB](https://www.themoviedb.org/movie/603)  [Compare across authors](../../compare/?t=film-the-matrix_603)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Matrix%20(1999)%20(-2.5%20gain)%20Atmos.jpg)

@@ -9,7 +9,7 @@ Vlad Tepes is a great hero, but when he learns the Sultan is preparing for battl
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62823107)  [TMDB](https://www.themoviedb.org/movie/49017)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62823107)  [TMDB](https://www.themoviedb.org/movie/49017)  [Compare across authors](../../compare/?t=film-dracula-untold_49017)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Dracula%20Untold%20(2014)%20(-1%20gain)%20DTS-X.jpg)

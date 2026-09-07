@@ -9,7 +9,7 @@ A teenage fugitive with an incredible secret races to stay one step ahead of the
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/posts/62984023/)  [TMDB](https://www.themoviedb.org/movie/46529)
+[Discuss](https://www.avsforum.com/posts/62984023/)  [TMDB](https://www.themoviedb.org/movie/46529)  [Compare across authors](../../compare/?t=film-i-am-number-four_46529)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/I%20am%20Number%20Four%20(2011)%20(-1%20gain)%20DTS-HD%20MA%205.1.jpg)

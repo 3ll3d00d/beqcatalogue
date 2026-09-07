@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-serpent-queen_118189)
+
 * Production Year: 2022
 
 

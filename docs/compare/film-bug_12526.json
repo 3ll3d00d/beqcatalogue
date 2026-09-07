@@ -1,0 +1,1 @@
+[{"author":"mikejl","audioTypes":["DTS-HD MA 5.1"],"content_type":"film","season":"","episode":"","edition":"","filters":[{"type":"LowShelf","freq":10.0,"gain":-7.7,"q":0.75,"count":1},{"type":"LowShelf","freq":30.0,"gain":6.4,"q":0.75,"count":1},{"type":"LowShelf","freq":30.0,"gain":6.4,"q":0.75,"count":1},{"type":"PeakingEQ","freq":43.0,"gain":-1.9,"q":2.6,"count":1}]}]

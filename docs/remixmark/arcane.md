@@ -14,6 +14,8 @@ Dialnorm Compensation:Ep 1-4: 6dB Ep 5-8: 5dB Ep 9: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1531?post_id=63670468#post-63670468)
 
+* [Compare across authors](../../compare/?t=TV-arcane_94605)
+
 * Production Year: 2021
 
 

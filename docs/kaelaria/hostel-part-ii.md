@@ -7,7 +7,7 @@
 Three American college students studying abroad are lured to a Slovakian hostel, and discover the grim reality behind it.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1691)
+[TMDB](https://www.themoviedb.org/movie/1691)  [Compare across authors](../../compare/?t=film-hostel-part-ii_1691)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Hostel%20Part%20II%20(2007)%20(Unrated)%20DTS-HD%20MA%205.1.jpg)

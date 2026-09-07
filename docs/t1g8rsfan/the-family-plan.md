@@ -12,7 +12,7 @@ Dan Morgan is many things: a devoted husband, a loving father, a celebrated car 
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63018885)  [TMDB](https://www.themoviedb.org/movie/1029575)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63018885)  [TMDB](https://www.themoviedb.org/movie/1029575)  [Compare across authors](../../compare/?t=film-the-family-plan_1029575)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Family%20Plan%20(2023)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)

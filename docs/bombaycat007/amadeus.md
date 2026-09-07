@@ -11,7 +11,7 @@ Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and re
 
 **MV Adjustment:** +3.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/279)
+[TMDB](https://www.themoviedb.org/movie/279)  [Compare across authors](../../compare/?t=film-amadeus_279)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/main/Images/Amadeus%20(1984)%20(%2B3.5%20Gain)%20DTS-HD%20MA%205.1.png)

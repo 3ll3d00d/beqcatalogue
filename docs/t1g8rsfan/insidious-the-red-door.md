@@ -12,7 +12,7 @@ To put their demons to rest once and for all, Josh Lambert and a college-aged Da
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62722295)  [TMDB](https://www.themoviedb.org/movie/614479)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62722295)  [TMDB](https://www.themoviedb.org/movie/614479)  [Compare across authors](../../compare/?t=film-insidious-the-red-door_614479)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Insidious%20The%20Red%20Door%20(2023)%20(%2B2%20gain)%20DD%2BAtmos.jpg)

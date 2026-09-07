@@ -7,7 +7,7 @@
 A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1234731)
+[TMDB](https://www.themoviedb.org/movie/1234731)  [Compare across authors](../../compare/?t=film-anaconda_1234731)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Anaconda/Anaconda%20(2025)%20Atmos.jpg)
@@ -21,7 +21,7 @@ A group of friends facing mid-life crises head to the rainforest with the intent
 A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1234731)
+[TMDB](https://www.themoviedb.org/movie/1234731)  [Compare across authors](../../compare/?t=film-anaconda_1234731)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Anaconda/Anaconda%20(2025)%20HDR%20DD%2B%20Atmos.jpg)

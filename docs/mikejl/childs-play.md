@@ -7,7 +7,7 @@
 Karen, a single mother, gifts her son Andy a Buddi doll for his birthday, unaware of its more sinister nature. A contemporary re-imagining of the 1988 horror classic.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/533642)
+[TMDB](https://www.themoviedb.org/movie/533642)  [Compare across authors](../../compare/?t=film-childs-play_533642)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Childs%20Play/Childs%20Play%20(2019)%20DTS-HD%20MA%205.1.jpg)

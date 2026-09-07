@@ -7,7 +7,7 @@
 A small-town Oregon teacher and her brother, the local sheriff, discover a young student is harbouring a dangerous secret that could have frightening consequences.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/516329)
+[TMDB](https://www.themoviedb.org/movie/516329)  [Compare across authors](../../compare/?t=film-antlers_516329)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Antlers/Antlers%20(2021)%20DTS-HD%20MA%205.1.jpg)

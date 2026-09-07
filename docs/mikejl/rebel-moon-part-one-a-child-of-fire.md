@@ -9,7 +9,7 @@ Director's Cut
 When the ruthless forces of the Motherworld threaten a quiet farming village on a distant moon, a mysterious outsider becomes its best hope for survival.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/848326)
+[TMDB](https://www.themoviedb.org/movie/848326)  [Compare across authors](../../compare/?t=film-rebel-moon-part-one-a-child-of-fire_848326)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Rebel%20Moon%20-%20Part%20One/Rebel%20Moon%20-%20Part%20One%20-%20A%20Child%20of%20Fire%20(2023)%20(DC)%20DD%2B%20Atmos.jpg)

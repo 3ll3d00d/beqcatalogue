@@ -5,6 +5,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-gorge_950396)
+
 * Production Year: 2025
 
 

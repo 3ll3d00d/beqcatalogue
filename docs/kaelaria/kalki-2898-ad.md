@@ -10,7 +10,7 @@ In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears 
 HI
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/801688)
+[TMDB](https://www.themoviedb.org/movie/801688)  [Compare across authors](../../compare/?t=film-kalki-2898-ad_801688)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Kalki%202898%20AD%20(2024)%20DD%2B%205.1.jpg)

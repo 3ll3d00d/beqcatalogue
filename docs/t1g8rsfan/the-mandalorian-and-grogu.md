@@ -12,7 +12,7 @@ The evil Empire has fallen, and Imperial warlords remain scattered throughout th
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1228710)
+[TMDB](https://www.themoviedb.org/movie/1228710)  [Compare across authors](../../compare/?t=film-the-mandalorian-and-grogu_1228710)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Mandalorian%20and%20Grogu%20(2026)%20(-1%20gain)%20Atmos.jpg)

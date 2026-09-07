@@ -7,7 +7,7 @@
 A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1325734)
+[TMDB](https://www.themoviedb.org/movie/1325734)  [Compare across authors](../../compare/?t=film-the-drama_1325734)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Drama/The%20Drama%20(2026)%20Atmos.jpg)

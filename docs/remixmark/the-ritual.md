@@ -9,7 +9,7 @@ Two priests, one in crisis with his faith and the other confronting a turbulent 
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1610?post_id=64071660#post-64071660)  [TMDB](https://www.themoviedb.org/movie/1278950)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1610?post_id=64071660#post-64071660)  [TMDB](https://www.themoviedb.org/movie/1278950)  [Compare across authors](../../compare/?t=film-the-ritual_1278950)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Ritual%20(2025)%20(%2B3%20gain)%20DD%2B.jpg)
@@ -28,7 +28,7 @@ Two priests, one in crisis with his faith and the other confronting a turbulent 
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1620?post_id=64107364#post-64107364)  [TMDB](https://www.themoviedb.org/movie/1278950)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1620?post_id=64107364#post-64107364)  [TMDB](https://www.themoviedb.org/movie/1278950)  [Compare across authors](../../compare/?t=film-the-ritual_1278950)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Ritual%20(2025)%20(%2B2.5%20gain)%20DTS-HD%20MA%205.1.jpg)

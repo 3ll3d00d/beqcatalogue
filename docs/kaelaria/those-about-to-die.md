@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-those-about-to-die_218589)
+
 * Production Year: 2024
 
 

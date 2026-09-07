@@ -7,7 +7,7 @@
 A former police officer puts aside his differences with the force in order to track down his brother's murderer. He teams with a younger detective to bring the case home.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1100094)
+[TMDB](https://www.themoviedb.org/movie/1100094)  [Compare across authors](../../compare/?t=film-escalation_1100094)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Escalation%20(2023)%20DTS-HD%20MA%205.1.jpg)

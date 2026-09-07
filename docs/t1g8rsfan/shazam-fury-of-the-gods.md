@@ -12,7 +12,7 @@ Billy Batson and his foster siblings, who transform into superheroes by saying "
 +6.5dB MV Adjustment - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/594767)
+[TMDB](https://www.themoviedb.org/movie/594767)  [Compare across authors](../../compare/?t=film-shazam-fury-of-the-gods_594767)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Shazam%20Fury%20of%20the%20Gods%20(2023)%20(%2B6%20gain)%20Atmos.jpg)

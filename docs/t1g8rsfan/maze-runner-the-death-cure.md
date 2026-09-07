@@ -9,7 +9,7 @@ Thomas leads his group of escaped Gladers on their final and most dangerous miss
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62785543)  [TMDB](https://www.themoviedb.org/movie/336843)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62785543)  [TMDB](https://www.themoviedb.org/movie/336843)  [Compare across authors](../../compare/?t=film-maze-runner-the-death-cure_336843)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Maze%20Runner%20The%20Death%20Cure%20(2018)%20(-1.5%20gain)%20Atmos.jpg)

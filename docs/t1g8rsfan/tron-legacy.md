@@ -9,7 +9,7 @@ Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father
 
 **MV Adjustment:** -1.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/20526)
+[TMDB](https://www.themoviedb.org/movie/20526)  [Compare across authors](../../compare/?t=film-tron-legacy_20526)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Tron%20Legacy%20(2010)%20(-1.5%20gain)%20Atmos.jpg)

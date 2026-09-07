@@ -12,7 +12,7 @@ The original Four Horsemen reunite with a new generation of illusionists to take
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/425274)
+[TMDB](https://www.themoviedb.org/movie/425274)  [Compare across authors](../../compare/?t=film-now-you-see-me-now-you-dont_425274)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/NowYouSeeMe%20(2025)%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)

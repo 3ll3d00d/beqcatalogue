@@ -14,6 +14,8 @@ Dialnorm Compensation: Ep 1, 2, 4, 5, 6, 7, 8 : 4dB Ep. 3, 9, 10: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1734?post_id=64577218#post-64577218)
 
+* [Compare across authors](../../compare/?t=TV-stranger-things-tales-from-85_224263)
+
 * Production Year: 2026
 
 

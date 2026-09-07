@@ -10,7 +10,7 @@ A secret military project endangers Neo-Tokyo when it turns a biker gang member 
 ja
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/149)
+[TMDB](https://www.themoviedb.org/movie/149)  [Compare across authors](../../compare/?t=film-akira_149)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Akira%20(1988)%20TrueHD%20Atmos.jpg)

@@ -12,7 +12,7 @@ In a city where fire, water, land and air residents live together, a fiery young
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62751813)  [TMDB](https://www.themoviedb.org/movie/976573)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62751813)  [TMDB](https://www.themoviedb.org/movie/976573)  [Compare across authors](../../compare/?t=film-elemental_976573)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Elemental%202023%20DDP%20Atmos%20PvA.jpg)

@@ -7,7 +7,7 @@
 In the 1870s, a young Harvard dropout seeks his destiny out West by tying his fate to a team of buffalo hunters led by a man named Miller. Together, they embark on a harrowing journey risking life and sanity.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/843846)
+[TMDB](https://www.themoviedb.org/movie/843846)  [Compare across authors](../../compare/?t=film-butchers-crossing_843846)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Butchers%20Crossing%20(2022)%20DTS-HD%20MA%205.1.jpg)

@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-for-all-mankind_87917)
+
 * Production Year: 2019
 
 

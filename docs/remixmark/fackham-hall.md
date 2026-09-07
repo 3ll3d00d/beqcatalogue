@@ -9,7 +9,7 @@ A new porter embarks on an unlikely relationship with the youngest daughter of a
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1692?post_id=64378041#post-64378041)  [TMDB](https://www.themoviedb.org/movie/1175174)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1692?post_id=64378041#post-64378041)  [TMDB](https://www.themoviedb.org/movie/1175174)  [Compare across authors](../../compare/?t=film-fackham-hall_1175174)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Fackham%20Hall%20(2025)%20(%2B4%20gain)%20DD%2B.jpg)

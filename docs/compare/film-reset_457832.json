@@ -1,0 +1,1 @@
+[{"author":"mobe1969","audioTypes":["DTS:X"],"content_type":"film","season":"","episode":"","edition":"","filters":[{"type":"PeakingEQ","freq":13.0,"gain":3.0,"q":4.0,"count":1},{"type":"LowShelf","freq":17.0,"gain":4.0,"q":0.8,"count":1},{"type":"PeakingEQ","freq":30.0,"gain":4.0,"q":1.0,"count":1},{"type":"PeakingEQ","freq":49.0,"gain":3.0,"q":9.0,"count":1}]}]

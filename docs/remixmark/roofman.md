@@ -9,7 +9,7 @@ A former Army Ranger and struggling father turns to robbing McDonald’s restaur
 
 **MV Adjustment:** +11.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1678?post_id=64301460#post-64301460)  [TMDB](https://www.themoviedb.org/movie/1242419)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1678?post_id=64301460#post-64301460)  [TMDB](https://www.themoviedb.org/movie/1242419)  [Compare across authors](../../compare/?t=film-roofman_1242419)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Roofman%20(2025)%20(%2B11%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ A former Army Ranger and struggling father turns to robbing McDonald’s restaur
 
 **MV Adjustment:** +8.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1703?post_id=64434513#post-64434513)  [TMDB](https://www.themoviedb.org/movie/1242419)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1703?post_id=64434513#post-64434513)  [TMDB](https://www.themoviedb.org/movie/1242419)  [Compare across authors](../../compare/?t=film-roofman_1242419)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Roofman%20(2025)%20(%2B8%20gain)%20TrueHD%205.1.jpg)

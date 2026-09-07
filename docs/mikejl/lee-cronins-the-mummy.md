@@ -7,7 +7,7 @@
 The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1304313)
+[TMDB](https://www.themoviedb.org/movie/1304313)  [Compare across authors](../../compare/?t=film-lee-cronins-the-mummy_1304313)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lee%20Cronin's%20The%20Mummy/Lee%20Cronin's%20The%20Mummy%20(2026)%20Atmos.jpg)
@@ -21,7 +21,7 @@ The young daughter of a journalist disappears into the desert without a trace—
 The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1304313)
+[TMDB](https://www.themoviedb.org/movie/1304313)  [Compare across authors](../../compare/?t=film-lee-cronins-the-mummy_1304313)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lee%20Cronin's%20The%20Mummy/Lee%20Cronin's%20The%20Mummy%20(2026)%20DD%2B%205.1.jpg)
@@ -35,7 +35,7 @@ The young daughter of a journalist disappears into the desert without a trace—
 The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1304313)
+[TMDB](https://www.themoviedb.org/movie/1304313)  [Compare across authors](../../compare/?t=film-lee-cronins-the-mummy_1304313)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lee%20Cronin's%20The%20Mummy/Lee%20Cronin's%20-%20The%20Mummy%20(2026)%204K%20HDR%20DD%2B%20Atmos.jpg)

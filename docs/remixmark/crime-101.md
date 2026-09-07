@@ -12,7 +12,7 @@ When an elusive thief whose high-stakes heists unfold along the iconic 101 freew
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1729?post_id=64545835#post-64545835)  [TMDB](https://www.themoviedb.org/movie/1171145)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1729?post_id=64545835#post-64545835)  [TMDB](https://www.themoviedb.org/movie/1171145)  [Compare across authors](../../compare/?t=film-crime-101_1171145)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crime%20101%20(2026)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

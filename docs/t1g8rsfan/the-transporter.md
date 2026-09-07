@@ -9,7 +9,7 @@ Former Special Forces officer Frank Martin will deliver anything to anyone for t
 
 **MV Adjustment:** -2.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/4108)
+[TMDB](https://www.themoviedb.org/movie/4108)  [Compare across authors](../../compare/?t=film-the-transporter_4108)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Transporter%20(2002)%20(-2.5%20gain)%20TrueHD%205.1.jpg)

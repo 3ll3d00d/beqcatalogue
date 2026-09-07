@@ -9,7 +9,7 @@ A young man believes that his country's leaders are actually toxic reptilian ali
 
 **MV Adjustment:** +10.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1714?post_id=64476602#post-64476602)  [TMDB](https://www.themoviedb.org/movie/11297)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1714?post_id=64476602#post-64476602)  [TMDB](https://www.themoviedb.org/movie/11297)  [Compare across authors](../../compare/?t=film-save-the-green-planet_11297)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Save%20the%20Green%20Planet!%20(2003)%20(%2B10.5%20gain)%20KO%20DTS-HD%20MA%205.1.jpg)

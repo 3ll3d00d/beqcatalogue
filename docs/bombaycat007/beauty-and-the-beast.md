@@ -14,7 +14,7 @@ Follow the adventures of Belle, a bright young woman who finds herself in the ca
 Dialnorm Compensation :  4dB
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/10020)
+[TMDB](https://www.themoviedb.org/movie/10020)  [Compare across authors](../../compare/?t=film-beauty-and-the-beast_10020)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Beauty%20and%20The%20Beast%20(1991)%20(Dialnorm%20Compensation: 4dB)%20(%2B5%20Gain)%20Atmos.png)
@@ -32,7 +32,7 @@ Follow the adventures of Belle, a bright young woman who finds herself in the ca
 
 **MV Adjustment:** +3.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/10020)
+[TMDB](https://www.themoviedb.org/movie/10020)  [Compare across authors](../../compare/?t=film-beauty-and-the-beast_10020)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Beauty%20and%20The%20Beast%20(1991)%20(%2B3%20Gain)%20DTS-HD%20MA%207.1.png)

@@ -11,7 +11,7 @@ Two newly paired cops who are complete opposites must put aside their difference
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1613?post_id=64075867#post-64075867)  [TMDB](https://www.themoviedb.org/movie/941)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1613?post_id=64075867#post-64075867)  [TMDB](https://www.themoviedb.org/movie/941)  [Compare across authors](../../compare/?t=film-lethal-weapon_941)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lethal%20Weapon%20(1987)%20Atmos.jpg)

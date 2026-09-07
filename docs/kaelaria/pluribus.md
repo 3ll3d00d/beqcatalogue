@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-pluribus_225171)
+
 * Production Year: 2025
 
 

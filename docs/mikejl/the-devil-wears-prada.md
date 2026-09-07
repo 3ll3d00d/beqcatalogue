@@ -7,7 +7,7 @@
 A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/350)
+[TMDB](https://www.themoviedb.org/movie/350)  [Compare across authors](../../compare/?t=film-the-devil-wears-prada_350)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Devil%20Wears%20Prada/The%20Devil%20Wears%20Prada%20(2006)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ A young woman from the Midwest gets more than she bargained for when she moves t
 A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/350)
+[TMDB](https://www.themoviedb.org/movie/350)  [Compare across authors](../../compare/?t=film-the-devil-wears-prada_350)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Devil%20Wears%20Prada/The%20Devil%20Wears%20Prada%20(2006)%20DTS-HD%20MA%205.1.jpg)

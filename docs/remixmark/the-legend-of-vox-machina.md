@@ -11,6 +11,8 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1522?post_id=63618755#post-63618755)
 
+* [Compare across authors](../../compare/?t=TV-the-legend-of-vox-machina_135934)
+
 * Production Year: 2022
 
 

@@ -14,6 +14,8 @@
 
 * [Forum Post](https://www.avsforum.com/posts/63518742/)
 
+* [Compare across authors](../../compare/?t=TV-terminator-zero_239287)
+
 * Production Year: 2024
 
 
@@ -30,6 +32,8 @@
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/posts/63518742/)
+
+* [Compare across authors](../../compare/?t=TV-terminator-zero_239287)
 
 * Production Year: 2024
 

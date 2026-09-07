@@ -12,7 +12,7 @@ Forced to confront revelations about her past, paramedic Cassandra Webb forges a
 +5dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63203834)  [TMDB](https://www.themoviedb.org/movie/634492)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63203834)  [TMDB](https://www.themoviedb.org/movie/634492)  [Compare across authors](../../compare/?t=film-madame-web_634492)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Madame%20Web%20(2024)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

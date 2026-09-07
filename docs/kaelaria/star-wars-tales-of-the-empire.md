@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-star-wars-tales-of-the-empire_251091)
+
 * Production Year: 2024
 
 

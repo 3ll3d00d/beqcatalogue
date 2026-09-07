@@ -12,7 +12,7 @@ A young Donald Trump, eager to make his name as a hungry scion of a wealthy fami
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1524?post_id=63626165#post-63626165)  [TMDB](https://www.themoviedb.org/movie/1182047)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1524?post_id=63626165#post-63626165)  [TMDB](https://www.themoviedb.org/movie/1182047)  [Compare across authors](../../compare/?t=film-the-apprentice_1182047)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Apprentice%20(2024)%20(%2B4%20gain)%20DD.jpg)

@@ -12,7 +12,7 @@ When a massive, gilled monster emerges from the deep and tears through the city,
 Dialnorm Coompensation (TrueHD 3.1 only): 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1684?post_id=64331141#post-64331141)  [TMDB](https://www.themoviedb.org/movie/315011)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1684?post_id=64331141#post-64331141)  [TMDB](https://www.themoviedb.org/movie/315011)  [Compare across authors](../../compare/?t=film-shin-godzilla_315011)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Shin%20Godzilla%20(2016)%20JA%20DTS-HD%20MA%203.1.jpg)

@@ -12,7 +12,7 @@ This original animated anthology follows three of the fiercest warriors in human
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1598?post_id=64035084#post-64035084)  [TMDB](https://www.themoviedb.org/movie/1376434)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1598?post_id=64035084#post-64035084)  [TMDB](https://www.themoviedb.org/movie/1376434)  [Compare across authors](../../compare/?t=film-predator-killer-of-killers_1376434)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Predator%20Killer%20of%20Killers%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-house-of-david_243881)
+
 * Production Year: 2025
 
 

@@ -9,7 +9,7 @@ A victim of his own anger, the Kid is a Minneapolis musician on the rise with hi
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1693?post_id=64379374#post-64379374)  [TMDB](https://www.themoviedb.org/movie/13763)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1693?post_id=64379374#post-64379374)  [TMDB](https://www.themoviedb.org/movie/13763)  [Compare across authors](../../compare/?t=film-purple-rain_13763)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Purple%20Rain%20(1984)%20(-2.5%20gain)%20DTS-HD%20MA%205.1.jpg)

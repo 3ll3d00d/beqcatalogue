@@ -14,6 +14,8 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1701?post_id=64419354#post-64419354)
 
+* [Compare across authors](../../compare/?t=TV-fallout_106379)
+
 * Production Year: 2024
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 6dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1701?post_id=64419369#post-64419369)
+
+* [Compare across authors](../../compare/?t=TV-fallout_106379)
 
 * Production Year: 2024
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1701?post_id=64419478#post-64419478)
 
+* [Compare across authors](../../compare/?t=TV-fallout_106379)
+
 * Production Year: 2024
 
 
@@ -73,6 +79,8 @@ Dialnorm Compensation: 6dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1701?post_id=64419486#post-64419486)
+
+* [Compare across authors](../../compare/?t=TV-fallout_106379)
 
 * Production Year: 2024
 
@@ -94,6 +102,8 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1701?post_id=64419498#post-64419498)
 
+* [Compare across authors](../../compare/?t=TV-fallout_106379)
+
 * Production Year: 2024
 
 
@@ -114,6 +124,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1705?post_id=64441580#post-64441580)
 
+* [Compare across authors](../../compare/?t=TV-fallout_106379)
+
 * Production Year: 2024
 
 
@@ -131,6 +143,8 @@ Dialnorm Compensation: 4dB
 
 Dialnorm Compensation: 5dB
 { data-search-exclude }
+
+* [Compare across authors](../../compare/?t=TV-fallout_106379)
 
 * Production Year: 2024
 
@@ -151,6 +165,8 @@ Dialnorm Compensation: 5dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1711?post_id=64463133#post-64463133)
+
+* [Compare across authors](../../compare/?t=TV-fallout_106379)
 
 * Production Year: 2024
 

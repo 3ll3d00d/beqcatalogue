@@ -7,7 +7,7 @@
 The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/283995)
+[TMDB](https://www.themoviedb.org/movie/283995)  [Compare across authors](../../compare/?t=film-guardians-of-the-galaxy-vol-2_283995)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Guardians%20of%20the%20Galaxy/Guardians%20of%20the%20Galaxy%20Vol%202%20(2017)%20Atmos.jpg)

@@ -9,7 +9,7 @@ In the winter of 1820, the New England whaling ship Essex is assaulted by someth
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62776963)  [TMDB](https://www.themoviedb.org/movie/205775)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62776963)  [TMDB](https://www.themoviedb.org/movie/205775)  [Compare across authors](../../compare/?t=film-in-the-heart-of-the-sea_205775)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/In%20the%20Heart%20of%20the%20Sea%20(2015)%20(-1%20gain)%20Atmos.jpg)

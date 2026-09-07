@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-ransom-canyon_240993)
+
 * Production Year: 2025
 
 
@@ -19,6 +21,8 @@
 
 * DD+ Atmos
 
+
+* [Compare across authors](../../compare/?t=TV-ransom-canyon_240993)
 
 * Production Year: 2025
 

@@ -10,6 +10,8 @@
 English / Japanese
 { data-search-exclude }
 
+* [Compare across authors](../../compare/?t=TV-yu-yu-hakusho_121659)
+
 * Production Year: 2023
 
 

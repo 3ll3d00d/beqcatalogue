@@ -7,7 +7,7 @@
 Rebecca must unlock the terror behind her little brother's experiences that once tested her sanity, bringing her face to face with a supernatural spirit attached to their mother.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/345911)
+[TMDB](https://www.themoviedb.org/movie/345911)  [Compare across authors](../../compare/?t=film-lights-out_345911)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lights%20Out/Lights%20Out%20(2016)%20DTS-HD%20MA%205.1.jpg)

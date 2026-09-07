@@ -12,7 +12,7 @@ Four undying warriors who've secretly protected humanity for centuries become ta
 +4dB dialnorm compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/547016)
+[TMDB](https://www.themoviedb.org/movie/547016)  [Compare across authors](../../compare/?t=film-the-old-guard_547016)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Old%20Guard%20(2020)%20DDP%20Atmos%20PvA.jpg)

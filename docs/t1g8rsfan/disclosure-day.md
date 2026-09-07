@@ -12,7 +12,7 @@ A cybersecurity expert becomes a whistleblower after uncovering secrets about al
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1275779)
+[TMDB](https://www.themoviedb.org/movie/1275779)  [Compare across authors](../../compare/?t=film-disclosure-day_1275779)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Disclosure%20Day%20(2026)%20(%2B4%20gain)%20Atmos.jpg)

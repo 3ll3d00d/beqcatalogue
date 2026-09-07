@@ -9,7 +9,7 @@ Edmond Dantes becomes the target of a sinister plot and is arrested on his weddi
 
 **MV Adjustment:** +5.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/1084736)
+[TMDB](https://www.themoviedb.org/movie/1084736)  [Compare across authors](../../compare/?t=film-the-count-of-monte-cristo_1084736)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Count%20of%20Monte%20Cristo%20(2024)%20(%2B5.5%20gain)%20Atmos.jpg)

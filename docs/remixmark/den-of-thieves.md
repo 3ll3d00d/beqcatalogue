@@ -9,7 +9,7 @@ A gritty crime saga which follows the lives of an elite unit of the LA County Sh
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1574?post_id=63929536#post-63929536)  [TMDB](https://www.themoviedb.org/movie/449443)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1574?post_id=63929536#post-63929536)  [TMDB](https://www.themoviedb.org/movie/449443)  [Compare across authors](../../compare/?t=film-den-of-thieves_449443)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Den%20of%20Thieves%20(2018)%20(%2B.5%20gain)%20Atmos.jpg)

@@ -9,7 +9,7 @@ In the depths of an ancient forest, something has been growing. Something older 
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1551?post_id=63778890#post-63778890)  [TMDB](https://www.themoviedb.org/movie/795853)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1551?post_id=63778890#post-63778890)  [TMDB](https://www.themoviedb.org/movie/795853)  [Compare across authors](../../compare/?t=film-gaia_795853)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Gaia%20(2021)%20(%2B1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

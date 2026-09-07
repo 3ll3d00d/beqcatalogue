@@ -12,7 +12,7 @@ The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galact
 '80 70mm 6-Track Reconstruction Track
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1891)
+[TMDB](https://www.themoviedb.org/movie/1891)  [Compare across authors](../../compare/?t=film-the-empire-strikes-back_1891)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Star%20Wars%20The%20Empire%20Strikes%20Back%20(1980)%20DTS-HD%20MA%205.1.jpg)

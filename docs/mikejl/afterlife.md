@@ -7,7 +7,7 @@
 Following a terrible car crash, a woman awakes to find an enigmatic mortician preparing her for burial.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/36419)
+[TMDB](https://www.themoviedb.org/movie/36419)  [Compare across authors](../../compare/?t=film-afterlife_36419)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/After%20Life/After%20Life%20(2009)%20DD%2B%205.1.jpg)

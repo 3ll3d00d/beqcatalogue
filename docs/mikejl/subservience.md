@@ -7,7 +7,7 @@
 With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1064028)
+[TMDB](https://www.themoviedb.org/movie/1064028)  [Compare across authors](../../compare/?t=film-subservience_1064028)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Subservience/Subservience%20(2024)%20DTS-HD%20MA%205.1.jpg)

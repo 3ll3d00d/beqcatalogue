@@ -14,7 +14,7 @@ Isolated bell-ringer Quasimodo wishes to leave Notre Dame tower against the wish
 (+2.5 MV Adjustment)
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1719#replies)  [TMDB](https://www.themoviedb.org/movie/10545)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1719#replies)  [TMDB](https://www.themoviedb.org/movie/10545)  [Compare across authors](../../compare/?t=film-the-hunchback-of-notre-dame_10545)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/The%20Hunchback%20of%20Notre%20Dame%20(1996)%20(%2B2.5%20Gain)%20DTS-HD%20MA%205.1.png)

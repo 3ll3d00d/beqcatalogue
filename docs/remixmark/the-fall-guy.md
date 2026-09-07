@@ -9,7 +9,7 @@ Fresh off an almost career-ending accident, stuntman Colt Seavers has to track d
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1481?post_id=63426458#post-63426458)  [TMDB](https://www.themoviedb.org/movie/746036)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1481?post_id=63426458#post-63426458)  [TMDB](https://www.themoviedb.org/movie/746036)  [Compare across authors](../../compare/?t=film-the-fall-guy_746036)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Fall%20Guy%20(2024)%20(%2B1.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Fresh off an almost career-ending accident, stuntman Colt Seavers has to track d
 Dial Normalization: +7dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1461?post_id=63321191#post-63321191)  [TMDB](https://www.themoviedb.org/movie/746036)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1461?post_id=63321191#post-63321191)  [TMDB](https://www.themoviedb.org/movie/746036)  [Compare across authors](../../compare/?t=film-the-fall-guy_746036)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/The%20Fall%20Guy%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

@@ -9,7 +9,7 @@ When danger threatens her camp, the fierce and highly skilled Comanche warrior N
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62849151)  [TMDB](https://www.themoviedb.org/movie/766507)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62849151)  [TMDB](https://www.themoviedb.org/movie/766507)  [Compare across authors](../../compare/?t=film-prey_766507)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Prey%20(2022)%20THD%20Atmos%20PvA.jpg)

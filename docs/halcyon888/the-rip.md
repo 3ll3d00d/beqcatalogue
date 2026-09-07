@@ -12,7 +12,7 @@ Trust frays when a team of Miami cops discovers millions in cash inside a run-do
 Dialnorm Compensation: +4dB
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1306368)
+[TMDB](https://www.themoviedb.org/movie/1306368)  [Compare across authors](../../compare/?t=film-the-rip_1306368)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/The%20Rip%20(2026)%20DDP%20Atmos%20PvA.png)

@@ -7,7 +7,7 @@
 An action historical drama depicting the story of Joseon's best swordsman Yi Nan in front of an irreversible fate.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/890154)
+[TMDB](https://www.themoviedb.org/movie/890154)  [Compare across authors](../../compare/?t=film-the-assassin_890154)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Assassin/The%20Assassin%20(2023)%20(ko)%20DTS-HD%20MA%205.1.jpg)

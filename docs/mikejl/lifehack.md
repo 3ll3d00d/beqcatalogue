@@ -7,7 +7,7 @@
 Four teenage slackers attempt a multi-million-dollar Bitcoin heist from their bedrooms, only to spiral into the darkest corners of the internet-and a danger beyond their computer screens.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1285669)
+[TMDB](https://www.themoviedb.org/movie/1285669)  [Compare across authors](../../compare/?t=film-lifehack_1285669)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LifeHack/LifeHack%20(2025)%20DD%2B%205.1.jpg)

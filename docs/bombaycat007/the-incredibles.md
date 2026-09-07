@@ -7,7 +7,7 @@
 Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9806)
+[TMDB](https://www.themoviedb.org/movie/9806)  [Compare across authors](../../compare/?t=film-the-incredibles_9806)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/main/Images/The%20Incredibles%20(2004)%20DTS-HD%20MA%205.1%20ES.png)

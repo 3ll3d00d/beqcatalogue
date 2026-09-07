@@ -12,7 +12,7 @@ The story centres on three brothers and their violent father who live in a remot
 UHD Blu-Ray (Hindi Track)
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63588671/)  [TMDB](https://www.themoviedb.org/movie/1160018)
+[Discuss](https://www.avsforum.com/posts/63588671/)  [TMDB](https://www.themoviedb.org/movie/1160018)  [Compare across authors](../../compare/?t=film-kill_1160018)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Kill%20(2023)%20(%2B3.5%20gain)%20Atmos%20(Hindi).jpg)

@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-running-point_244623)
+
 * Production Year: 2025
 
 

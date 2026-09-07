@@ -9,7 +9,7 @@ While Po and his father are visiting a secret panda village, an evil spirit thre
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1720?post_id=64499890#post-64499890)  [TMDB](https://www.themoviedb.org/movie/140300)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1720?post_id=64499890#post-64499890)  [TMDB](https://www.themoviedb.org/movie/140300)  [Compare across authors](../../compare/?t=film-kung-fu-panda-3_140300)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Kung%20Fu%20Panda%203%20(2016)%20(%2B4%20gain)%20Atmos.jpg)

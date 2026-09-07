@@ -9,7 +9,7 @@ The spirit of a recently deceased expert pilot mentors a newer pilot while watch
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1683?post_id=64326145#post-64326145)  [TMDB](https://www.themoviedb.org/movie/11352)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1683?post_id=64326145#post-64326145)  [TMDB](https://www.themoviedb.org/movie/11352)  [Compare across authors](../../compare/?t=film-always_11352)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Always%20(1989)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

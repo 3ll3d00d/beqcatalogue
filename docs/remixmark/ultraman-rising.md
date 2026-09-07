@@ -12,7 +12,7 @@ With Tokyo under attack from kaiju, Ultraman discovers his greatest challenge is
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1474?post_id=63385125#post-63385125)  [TMDB](https://www.themoviedb.org/movie/829402)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1474?post_id=63385125#post-63385125)  [TMDB](https://www.themoviedb.org/movie/829402)  [Compare across authors](../../compare/?t=film-ultraman-rising_829402)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Ultraman%20Rising%20(2024)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

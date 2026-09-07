@@ -12,7 +12,7 @@ As students at Shadyside High are preparing for the 1988 prom, the "It Girls" ar
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1593?post_id=64012017#post-64012017)  [TMDB](https://www.themoviedb.org/movie/1001414)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1593?post_id=64012017#post-64012017)  [TMDB](https://www.themoviedb.org/movie/1001414)  [Compare across authors](../../compare/?t=film-fear-street-prom-queen_1001414)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Fear%20Street%20Prom%20Queen%20(2025)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

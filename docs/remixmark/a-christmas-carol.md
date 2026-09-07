@@ -9,7 +9,7 @@ Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1691?post_id=64374387#post-64374387)  [TMDB](https://www.themoviedb.org/movie/17979)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1691?post_id=64374387#post-64374387)  [TMDB](https://www.themoviedb.org/movie/17979)  [Compare across authors](../../compare/?t=film-a-christmas-carol_17979)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/A%20Christmas%20Carol%20(2009)%20DTS-HD%20MA%205.1.jpg)

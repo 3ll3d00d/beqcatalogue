@@ -9,7 +9,7 @@ Director's Cut
 Three high school students make an incredible discovery, leading to their developing uncanny powers beyond their understanding. As they learn to control their abilities and use them to their advantage, their lives start to spin out of control, and their darker sides begin to take over.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/76726)
+[TMDB](https://www.themoviedb.org/movie/76726)  [Compare across authors](../../compare/?t=film-chronicle_76726)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Chronicle/Chronicle%20(2012)%20(DC)%20DTS-HD%20MA%205.1.jpg)

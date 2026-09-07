@@ -12,7 +12,7 @@ Set in Han Imperial China, the plot follows the adventures of enslaved girl Ping
 Dialnorm Compensation: 2dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1517?post_id=63603841#post-63603841)  [TMDB](https://www.themoviedb.org/movie/588648)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1517?post_id=63603841#post-63603841)  [TMDB](https://www.themoviedb.org/movie/588648)  [Compare across authors](../../compare/?t=film-dragonkeeper_588648)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dragonkeeper%20(2024)%20(%2B4.5%20gain)%20DD.jpg)

@@ -9,7 +9,7 @@ Pulled in by a series of strange and unexplainable video clips, a brother and si
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1686?post_id=64345267#post-64345267)  [TMDB](https://www.themoviedb.org/movie/1465986)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1686?post_id=64345267#post-64345267)  [TMDB](https://www.themoviedb.org/movie/1465986)  [Compare across authors](../../compare/?t=film-man-finds-tape_1465986)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Man%20Finds%20Tape%20(2025)%20(%2B5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ Pulled in by a series of strange and unexplainable video clips, a brother and si
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1718?post_id=64493090#post-64493090)  [TMDB](https://www.themoviedb.org/movie/1465986)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1718?post_id=64493090#post-64493090)  [TMDB](https://www.themoviedb.org/movie/1465986)  [Compare across authors](../../compare/?t=film-man-finds-tape_1465986)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Man%20Finds%20Tape%20(2025)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

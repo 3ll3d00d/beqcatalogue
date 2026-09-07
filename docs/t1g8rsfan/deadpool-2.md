@@ -9,7 +9,7 @@ Theatrical
 Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/383498)
+[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/383498)  [Compare across authors](../../compare/?t=film-deadpool-2_383498)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Deadpool%202%20(2018)%20Atmos%20PvA.jpg)

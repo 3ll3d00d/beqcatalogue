@@ -12,7 +12,7 @@ Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about t
 Dialnorm Compensation: 8dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1478?post_id=63415514#post-63415514)  [TMDB](https://www.themoviedb.org/movie/748783)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1478?post_id=63415514#post-63415514)  [TMDB](https://www.themoviedb.org/movie/748783)  [Compare across authors](../../compare/?t=film-the-garfield-movie_748783)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Garfield%20Movie%20(2024)%20(%2B2%20gain)%20DD%2B.jpg)

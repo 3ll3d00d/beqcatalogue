@@ -9,7 +9,7 @@ After being separated for 15 years, the Sword of Power leads Prince Adam back to
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1756?post_id=64716524#post-64716524)  [TMDB](https://www.themoviedb.org/movie/454639)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1756?post_id=64716524#post-64716524)  [TMDB](https://www.themoviedb.org/movie/454639)  [Compare across authors](../../compare/?t=film-masters-of-the-universe_454639)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Masters%20of%20the%20Universe%20(2026)%20(-2%20gain)%20DD%2B.jpg)
@@ -28,7 +28,7 @@ After being separated for 15 years, the Sword of Power leads Prince Adam back to
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1756?post_id=64717132#post-64717132)  [TMDB](https://www.themoviedb.org/movie/454639)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1756?post_id=64717132#post-64717132)  [TMDB](https://www.themoviedb.org/movie/454639)  [Compare across authors](../../compare/?t=film-masters-of-the-universe_454639)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Masters%20of%20the%20Universe%20(2026)%20(-.5%20gain)%20DD%2B%20Atmos.jpg)

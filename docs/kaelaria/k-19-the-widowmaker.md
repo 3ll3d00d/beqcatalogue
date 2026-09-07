@@ -7,7 +7,7 @@
 When Russia's first nuclear submarine malfunctions on its maiden voyage, the crew must race to save the ship and prevent a nuclear disaster.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/8665)
+[TMDB](https://www.themoviedb.org/movie/8665)  [Compare across authors](../../compare/?t=film-k-19-the-widowmaker_8665)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/K-19%20The%20Widowmaker%20(2002)%20DTS-HD%20MA%205.1.jpg)

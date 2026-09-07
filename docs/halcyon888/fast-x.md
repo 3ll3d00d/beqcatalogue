@@ -9,7 +9,7 @@ Over many missions and against impossible odds, Dom Toretto and his family have 
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62606957)  [TMDB](https://www.themoviedb.org/movie/385687)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62606957)  [TMDB](https://www.themoviedb.org/movie/385687)  [Compare across authors](../../compare/?t=film-fast-x_385687)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Fast%20X%202023%20THD%20Atmos%20PvA.jpg)
@@ -28,7 +28,7 @@ Over many missions and against impossible odds, Dom Toretto and his family have 
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62606957)  [TMDB](https://www.themoviedb.org/movie/385687)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62606957)  [TMDB](https://www.themoviedb.org/movie/385687)  [Compare across authors](../../compare/?t=film-fast-x_385687)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Fast%20X%202023%20PvA.jpg)

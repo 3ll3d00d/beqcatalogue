@@ -12,7 +12,7 @@ A troupe of ballerinas find themselves fighting for survival as they attempt to 
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1727?post_id=64532140#post-64532140)  [TMDB](https://www.themoviedb.org/movie/1084187)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1727?post_id=64532140#post-64532140)  [TMDB](https://www.themoviedb.org/movie/1084187)  [Compare across authors](../../compare/?t=film-pretty-lethal_1084187)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Pretty%20Lethal%20(2026)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

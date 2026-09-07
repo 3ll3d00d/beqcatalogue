@@ -7,7 +7,7 @@
 Boyfriends Josh and Rohan plan a weekend getaway to introduce their parents, only to discover that their rental is home to a 400-year-old poltergeist.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/850920)
+[TMDB](https://www.themoviedb.org/movie/850920)  [Compare across authors](../../compare/?t=film-the-parenting_850920)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Parenting/The%20Parenting%20(2025)%20DD%2B%20Atmos.jpg)

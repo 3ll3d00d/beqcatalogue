@@ -7,7 +7,7 @@
 To save the family business, two ne’er-do-well traveling salesmen hit the road with disastrously funny consequences.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/11381)
+[TMDB](https://www.themoviedb.org/movie/11381)  [Compare across authors](../../compare/?t=film-tommy-boy_11381)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Tommy%20Boy%20(1995)%20TrueHD.jpg)

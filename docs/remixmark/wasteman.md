@@ -9,7 +9,7 @@ Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's a
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1731?post_id=64555059#post-64555059)  [TMDB](https://www.themoviedb.org/movie/1307373)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1731?post_id=64555059#post-64555059)  [TMDB](https://www.themoviedb.org/movie/1307373)  [Compare across authors](../../compare/?t=film-wasteman_1307373)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Wasteman%20(2026)%20(-.5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's a
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1749?post_id=64673586#post-64673586)  [TMDB](https://www.themoviedb.org/movie/1307373)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1749?post_id=64673586#post-64673586)  [TMDB](https://www.themoviedb.org/movie/1307373)  [Compare across authors](../../compare/?t=film-wasteman_1307373)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Wasteman%20(2026)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

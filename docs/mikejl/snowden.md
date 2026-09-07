@@ -9,7 +9,7 @@ UHD
 CIA employee Edward Snowden leaks thousands of classified documents to the press.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/302401)
+[TMDB](https://www.themoviedb.org/movie/302401)  [Compare across authors](../../compare/?t=film-snowden_302401)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Snowden/Snowden%20(2016)%20DTS-HD%20MA%205.1.jpg)

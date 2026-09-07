@@ -7,6 +7,8 @@
 * Atmos, DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-star-wars-andor_83867)
+
 * Production Year: 2022
 
 

@@ -14,6 +14,8 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1552?post_id=63785344#post-63785344)
 
+* [Compare across authors](../../compare/?t=TV-severance_95396)
+
 * Production Year: 2022
 
 
@@ -33,6 +35,8 @@ Dialnorm Compensation: 2dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1554?post_id=63802592#post-63802592)
+
+* [Compare across authors](../../compare/?t=TV-severance_95396)
 
 * Production Year: 2022
 
@@ -54,6 +58,8 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1556?post_id=63818840#post-63818840)
 
+* [Compare across authors](../../compare/?t=TV-severance_95396)
+
 * Production Year: 2022
 
 
@@ -73,6 +79,8 @@ Dialnorm Compensation: 6dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1558?post_id=63828387#post-63828387)
+
+* [Compare across authors](../../compare/?t=TV-severance_95396)
 
 * Production Year: 2022
 
@@ -94,6 +102,8 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1561?post_id=63846586#post-63846586)
 
+* [Compare across authors](../../compare/?t=TV-severance_95396)
+
 * Production Year: 2022
 
 
@@ -113,6 +123,8 @@ Dialnorm Compensation: 2dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1562?post_id=63853881#post-63853881)
+
+* [Compare across authors](../../compare/?t=TV-severance_95396)
 
 * Production Year: 2022
 
@@ -134,6 +146,8 @@ Dialnorm Compensation: 2dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1564?post_id=63866892#post-63866892)
 
+* [Compare across authors](../../compare/?t=TV-severance_95396)
+
 * Production Year: 2022
 
 
@@ -153,6 +167,8 @@ Dialnorm Compensation: 10dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1566?post_id=63881923#post-63881923)
+
+* [Compare across authors](../../compare/?t=TV-severance_95396)
 
 * Production Year: 2022
 
@@ -174,6 +190,8 @@ Dialnorm Compensation: 8dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1570?post_id=63904887#post-63904887)
 
+* [Compare across authors](../../compare/?t=TV-severance_95396)
+
 * Production Year: 2022
 
 
@@ -193,6 +211,8 @@ Dialnorm Compensation: 6dB
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1571?post_id=63904907#post-63904907)
+
+* [Compare across authors](../../compare/?t=TV-severance_95396)
 
 * Production Year: 2022
 

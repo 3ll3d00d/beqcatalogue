@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-the-tattooist-of-auschwitz_222405)
+
 * Production Year: 2024
 
 

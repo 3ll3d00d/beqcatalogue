@@ -7,7 +7,7 @@
 Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/541671)
+[TMDB](https://www.themoviedb.org/movie/541671)  [Compare across authors](../../compare/?t=film-ballerina_541671)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Ballerina/Ballerina%20(2025)%20Atmos.jpg)
@@ -21,7 +21,7 @@ Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macar
 Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/541671)
+[TMDB](https://www.themoviedb.org/movie/541671)  [Compare across authors](../../compare/?t=film-ballerina_541671)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Ballerina/Ballerina%20(2025)%20DD%2B%205.1.jpg)
@@ -35,7 +35,7 @@ Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macar
 Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/541671)
+[TMDB](https://www.themoviedb.org/movie/541671)  [Compare across authors](../../compare/?t=film-ballerina_541671)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Ballerina/Ballerina%20(2025)%20DD%2B%20Atmos.jpg)

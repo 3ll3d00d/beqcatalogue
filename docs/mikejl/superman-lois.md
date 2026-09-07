@@ -7,6 +7,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-superman-lois_95057)
+
 * Production Year: 2021
 
 
@@ -19,6 +21,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-superman-lois_95057)
 
 * Production Year: 2021
 
@@ -33,6 +37,8 @@
 * DD+
 
 
+* [Compare across authors](../../compare/?t=TV-superman-lois_95057)
+
 * Production Year: 2021
 
 
@@ -45,6 +51,8 @@
 
 * DD+
 
+
+* [Compare across authors](../../compare/?t=TV-superman-lois_95057)
 
 * Production Year: 2021
 

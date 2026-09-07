@@ -9,7 +9,7 @@ After experiencing a traumatic misfortune, Jasmine French, a wealthy woman from 
 
 **MV Adjustment:** +10.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1624?post_id=64133526#post-64133526)  [TMDB](https://www.themoviedb.org/movie/160588)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1624?post_id=64133526#post-64133526)  [TMDB](https://www.themoviedb.org/movie/160588)  [Compare across authors](../../compare/?t=film-blue-jasmine_160588)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blue%20Jasmine%20(2013)%20(%2B10%20gain)%20TrueHD%205.1.jpg)

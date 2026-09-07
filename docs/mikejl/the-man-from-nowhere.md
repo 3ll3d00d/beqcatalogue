@@ -5,6 +5,8 @@
 * DTS-HD MA 5.1
 
 
+* [Compare across authors](../../compare/?t=TV-the-man-from-nowhere_51608)
+
 * Production Year: 2010
 
 

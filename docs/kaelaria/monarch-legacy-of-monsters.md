@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+
 * Production Year: 2023
 
 

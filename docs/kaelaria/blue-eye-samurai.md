@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-blue-eye-samurai_225180)
+
 * Production Year: 2023
 
 

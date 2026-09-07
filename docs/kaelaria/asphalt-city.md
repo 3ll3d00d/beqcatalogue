@@ -7,7 +7,7 @@
 ASPHALT CITY is a gritty drama about a young New York City paramedic, Ollie Cross (Tye Sheridan), and his grizzled partner, Gene Rutkovsky (Sean Penn). The two respond to calls across the city, and as Ollie matures over his first year on the job, he sees more of the rougher side of living in New York.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/628922)
+[TMDB](https://www.themoviedb.org/movie/628922)  [Compare across authors](../../compare/?t=film-asphalt-city_628922)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Asphalt%20City%20(2023)%20DD%2B%205.1.jpg)

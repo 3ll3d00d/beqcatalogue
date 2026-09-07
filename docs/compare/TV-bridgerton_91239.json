@@ -1,0 +1,1 @@
+[{"author":"kaelaria","audioTypes":["DD+ Atmos"],"content_type":"TV","season":"03E01-04","episode":"","edition":"","filters":[{"type":"LowShelf","freq":20.0,"gain":6.0,"q":0.75,"count":1},{"type":"LowShelf","freq":20.0,"gain":6.0,"q":0.75,"count":1},{"type":"PeakingEQ","freq":30.0,"gain":-1.1,"q":3.0,"count":1}]}]

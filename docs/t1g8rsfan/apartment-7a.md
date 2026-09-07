@@ -12,7 +12,7 @@ A struggling young dancer finds herself drawn in by dark forces when a peculiar,
 +3dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63564270/)  [TMDB](https://www.themoviedb.org/movie/807339)
+[Discuss](https://www.avsforum.com/posts/63564270/)  [TMDB](https://www.themoviedb.org/movie/807339)  [Compare across authors](../../compare/?t=film-apartment-7a_807339)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Apartment%207A%20(2024)%20(%2B7%20gain)%20DD%2B%20Atmos.jpg)

@@ -9,7 +9,7 @@ A young glassworker-in-training living with his pacifist father finds his appren
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1699?post_id=64396332#post-64396332)  [TMDB](https://www.themoviedb.org/movie/629078)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1699?post_id=64396332#post-64396332)  [TMDB](https://www.themoviedb.org/movie/629078)  [Compare across authors](../../compare/?t=film-the-glassworker_629078)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Glassworker%20(2024)%20(%2B7%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-blood-of-zeus_111111)
+
 * Production Year: 2020
 
 

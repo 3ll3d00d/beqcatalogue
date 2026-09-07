@@ -7,7 +7,7 @@
 When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of "The Schwartz." Can he master it in time to save the day?
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/957)
+[TMDB](https://www.themoviedb.org/movie/957)  [Compare across authors](../../compare/?t=film-spaceballs_957)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Spaceballs%20(1987)%20DTS-HD%20MA%205.1.jpg)

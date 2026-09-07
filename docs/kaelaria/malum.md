@@ -7,7 +7,7 @@
 A rookie police officer willingly takes the last shift at a newly decommissioned police station in an attempt to uncover the mysterious connection between her father's death and a vicious cult.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1094403)
+[TMDB](https://www.themoviedb.org/movie/1094403)  [Compare across authors](../../compare/?t=film-malum_1094403)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Malum%20(2023)%20DTS-HD%20MA%205.1.jpg)

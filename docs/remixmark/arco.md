@@ -9,7 +9,7 @@
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64490484#post-64490484)  [TMDB](https://www.themoviedb.org/movie/804370)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64490484#post-64490484)  [TMDB](https://www.themoviedb.org/movie/804370)  [Compare across authors](../../compare/?t=film-arco_804370)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Arco%20(2025)%20(-.5%20gain)%20DD%2B.jpg)

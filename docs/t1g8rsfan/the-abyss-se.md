@@ -14,7 +14,7 @@ A civilian oil rig crew is recruited to conduct a search and rescue effort when 
 +4dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63011151)  [TMDB](https://www.themoviedb.org/movie/2756)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63011151)  [TMDB](https://www.themoviedb.org/movie/2756)  [Compare across authors](../../compare/?t=film-the-abyss-se_2756)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Abyss%20(1989)%20Special%20Edition%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

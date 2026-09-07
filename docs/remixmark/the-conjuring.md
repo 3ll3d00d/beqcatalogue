@@ -11,7 +11,7 @@ Paranormal investigators Ed and Lorraine Warren work to help a family terrorized
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1633?post_id=64158327#post-64158327)  [TMDB](https://www.themoviedb.org/movie/138843)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1633?post_id=64158327#post-64158327)  [TMDB](https://www.themoviedb.org/movie/138843)  [Compare across authors](../../compare/?t=film-the-conjuring_138843)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Conjuring%20(2013)%20UHD%20(-2.5%20gain)%20DTS-HD%20MA%205.1.jpg)

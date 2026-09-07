@@ -7,6 +7,8 @@
 * DD+ Atmos
 
 
+* [Compare across authors](../../compare/?t=TV-the-continental-from-the-world-of-john-wick_72710)
+
 * Production Year: 2023
 
 

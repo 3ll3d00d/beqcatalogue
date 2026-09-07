@@ -9,7 +9,7 @@ Unable to conceive, a couple seeks to build a family with a young orphan, surviv
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1664?post_id=64245369#post-64245369)  [TMDB](https://www.themoviedb.org/movie/1162858)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1664?post_id=64245369#post-64245369)  [TMDB](https://www.themoviedb.org/movie/1162858)  [Compare across authors](../../compare/?t=film-the-other_1162858)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Other%20(2025)%20(%2B5.5%20gain)%20DTS-HD%20MA%205.1.jpg)

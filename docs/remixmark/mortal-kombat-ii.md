@@ -12,7 +12,7 @@ The fan favorite champions—now joined by Johnny Cage himself—are pitted agai
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1746?post_id=64651580#post-64651580)  [TMDB](https://www.themoviedb.org/movie/931285)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1746?post_id=64651580#post-64651580)  [TMDB](https://www.themoviedb.org/movie/931285)  [Compare across authors](../../compare/?t=film-mortal-kombat-ii_931285)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Mortal%20Kombat%20II%20(2026)%20(-.5%20gain)%20DD%2B%20Atmos.jpg)

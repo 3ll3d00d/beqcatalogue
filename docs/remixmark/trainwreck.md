@@ -11,7 +11,7 @@ Having thought that monogamy was never possible, a commitment-phobic career woma
 
 **MV Adjustment:** +7.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1689?post_id=64356670#post-64356670)  [TMDB](https://www.themoviedb.org/movie/271718)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1689?post_id=64356670#post-64356670)  [TMDB](https://www.themoviedb.org/movie/271718)  [Compare across authors](../../compare/?t=film-trainwreck_271718)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Trainwreck%202015%20(Unrated)%20(%2B7.5%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -7,7 +7,7 @@
 The wolves are howling once again, as a terrifying ancient evil emerges in Beacon Hills. Scott McCall, no longer a teenager yet still an Alpha, must gather new allies and reunite trusted friends to fight back against this powerful and deadly enemy.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/877703)
+[TMDB](https://www.themoviedb.org/movie/877703)  [Compare across authors](../../compare/?t=film-teen-wolf-the-movie_877703)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Teen%20Wolf%20The%20Movie/Teen%20Wolf%20The%20Movie%20(2023)%20DD%2B%205.1.jpg)

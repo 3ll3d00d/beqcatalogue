@@ -11,7 +11,7 @@ Factory worker Doug Quaid takes a virtual mind-trip vacation with the Rekall com
 
 **MV Adjustment:** -1.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/64635)
+[TMDB](https://www.themoviedb.org/movie/64635)  [Compare across authors](../../compare/?t=film-total-recall_64635)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Total%20Recall%20(2012)%20(-1%20gain)%20TrueHD%205.1.jpg)

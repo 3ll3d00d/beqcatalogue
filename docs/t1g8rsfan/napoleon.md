@@ -12,7 +12,7 @@ An epic that details the checkered rise and fall of French Emperor Napoleon Bona
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63072654)  [TMDB](https://www.themoviedb.org/movie/753342)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63072654)  [TMDB](https://www.themoviedb.org/movie/753342)  [Compare across authors](../../compare/?t=film-napoleon_753342)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Napoleon%20(2023)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

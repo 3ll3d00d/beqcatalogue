@@ -12,7 +12,7 @@ Cast out from his clan, a young Predator finds an unlikely ally in a damaged and
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1242898)
+[TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../../compare/?t=film-predator-badlands_1242898)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Predator%20Badlands%20(2025)%20(%2B1%20gain)%20Atmos.jpg)

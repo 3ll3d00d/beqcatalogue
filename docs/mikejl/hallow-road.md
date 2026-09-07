@@ -7,7 +7,7 @@
 Two parents enter a race against time when they receive a distressing late-night phone call from their daughter after she caused a tragic car accident.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1205656)
+[TMDB](https://www.themoviedb.org/movie/1205656)  [Compare across authors](../../compare/?t=film-hallow-road_1205656)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hallow%20Road/Hallow%20Road%202025)%20DTS-HD%20MA%205.1.jpg)

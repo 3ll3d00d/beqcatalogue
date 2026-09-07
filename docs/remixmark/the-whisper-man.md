@@ -12,7 +12,7 @@ When his young son vanishes, a widower enlists help from his estranged father, a
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1768?post_id=64796397#post-64796397)  [TMDB](https://www.themoviedb.org/movie/860508)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1768?post_id=64796397#post-64796397)  [TMDB](https://www.themoviedb.org/movie/860508)  [Compare across authors](../../compare/?t=film-the-whisper-man_860508)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Whisper%20Man%20(2026)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

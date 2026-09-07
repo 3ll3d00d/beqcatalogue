@@ -7,7 +7,7 @@
 In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1259102)
+[TMDB](https://www.themoviedb.org/movie/1259102)  [Compare across authors](../../compare/?t=film-eternity_1259102)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/E/Eternity/Eternity%20(2025)%20DD%2B%20Atmos.jpg)
@@ -21,7 +21,7 @@ In an afterlife where souls have one week to decide where to spend eternity, Joa
 In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1259102)
+[TMDB](https://www.themoviedb.org/movie/1259102)  [Compare across authors](../../compare/?t=film-eternity_1259102)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/E/Eternity/Eternity%20(2025)%20DTS-HD%20MA%205.1.jpg)
