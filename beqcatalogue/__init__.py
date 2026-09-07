@@ -203,6 +203,15 @@ def get_title_suffix(meta):
     return suffix
 
 
+def compute_compare_key(title: str, content_type: str, the_movie_db: str = '', year: str = '') -> str:
+    ''' a stable, cross-author key for a title used to group filter comparison data;
+    mirrors the theMovieDB/year suffix scheme used for per-author page slugs so that
+    the same film/show maps to the same key regardless of which author submitted it '''
+    suffix = the_movie_db or year or ''
+    base = f"{title}_{suffix}" if suffix else title
+    return f"{content_type}-{slugify(base.casefold(), '-')}"
+
+
 def extract_root(xml):
     import xml.etree.ElementTree as ET
     et_tree = ET.parse(str(xml))
@@ -443,6 +452,9 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                 if 'theMovieDB' in meta:
                     tmdb_url = make_tmdb_url('film', parse.quote(meta['title']), meta['theMovieDB'])
                     links.append(f"[TMDB]({tmdb_url})")
+                compare_key = compute_compare_key(meta['title'], 'film', meta.get('theMovieDB', ''),
+                                                  meta.get('year', ''))
+                links.append(f"[Compare across authors](../../compare/?t={compare_key})")
                 if links:
                     print('', file=content_md)
                     print('  '.join(links), file=content_md)
@@ -597,6 +609,9 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
         if 'avs' in meta:
             print('', file=content_md)
             print(f"* [Forum Post]({meta['avs']})", file=content_md)
+        compare_key = compute_compare_key(meta['title'], 'TV', meta.get('theMovieDB', ''), meta.get('year', ''))
+        print('', file=content_md)
+        print(f"* [Compare across authors](../../compare/?t={compare_key})", file=content_md)
         if 'year' in meta:
             print('', file=content_md)
             print(f"* Production Year: {meta['year']}", file=content_md)
@@ -753,6 +768,64 @@ def dump_audio_types(json_catalogue):
     print(f"Found {len(audio_types)} audio types- {sorted(list(audio_types))}")
 
 
+def build_compare_data(json_catalogue: list[dict], out_dir: str = 'docs/compare'):
+    ''' groups catalogue entries by cross-author title key and writes:
+      - one slim <key>.json per title, holding just enough per-entry data (author, format,
+        season/episode, and freq/gain/q/count per filter) to compute+plot a frequency response
+        client side, so a comparison view never has to load the full catalogue
+      - a single titles.json index (title/year/authors) used to populate a title picker
+    biquad coefficients are intentionally dropped here since the client recomputes the same
+    response from freq/gain/q/type (see docs/javascripts/biquad.js) '''
+    from pathlib import Path
+    groups = defaultdict(list)
+    for entry in json_catalogue:
+        if not entry.get('title') or not entry.get('filters'):
+            continue
+        key = compute_compare_key(entry['title'], entry.get('content_type', ''), entry.get('theMovieDB', ''),
+                                  entry.get('year', ''))
+        groups[key].append(entry)
+
+    Path(out_dir).mkdir(parents=True, exist_ok=True)
+    index = []
+    for key, entries in groups.items():
+        slim = [{
+            'author': e['author'],
+            'audioTypes': e.get('audioTypes', []),
+            'content_type': e.get('content_type', ''),
+            'season': e.get('season', ''),
+            'episode': e.get('episode', ''),
+            'edition': e.get('edition', ''),
+            'filters': [
+                {'type': f['type'], 'freq': f['freq'], 'gain': f['gain'], 'q': f['q'], 'count': f.get('count', 1)}
+                for f in e.get('filters', [])
+            ]
+        } for e in entries]
+        with open(f'{out_dir}/{key}.json', 'w') as f:
+            json.dump(slim, f, separators=(',', ':'))
+        sample = entries[0]
+        index.append({
+            'key': key,
+            'title': sample['title'],
+            'year': sample.get('year', ''),
+            'content_type': sample.get('content_type', ''),
+            'authors': sorted(set(e['author'] for e in entries))
+        })
+
+    with open(f'{out_dir}/titles.json', 'w') as f:
+        json.dump(sorted(index, key=lambda i: i['title'].casefold()), f, separators=(',', ':'))
+
+    # remove compare files for titles that no longer exist (renamed/removed since the last run)
+    # so stale data doesn't linger indefinitely alongside the live titles.json index
+    live_files = {f'{key}.json' for key in groups} | {'titles.json'}
+    removed = 0
+    for existing in Path(out_dir).glob('*.json'):
+        if existing.name not in live_files:
+            existing.unlink()
+            removed += 1
+
+    print(f"Wrote {len(index)} compare title files to {out_dir}, removed {removed} stale file(s)")
+
+
 def dump_excess_files(pages_touched: list[str]):
     import glob
     existing_pages = sorted(glob.glob(f"docs/*/*.md", recursive=True))
@@ -882,6 +955,7 @@ if __name__ == '__main__':
     detect_duplicate_hashes()
     dump_audio_types(json_catalogue)
     dump_excess_files(pages_touched)
+    build_compare_data(json_catalogue)
 
     for author, errors in error_files.items():
         with open(f'meta/{author}.errors', 'w') as f:
