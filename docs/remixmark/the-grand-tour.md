@@ -2,7 +2,7 @@
 
 * Author: remixmark
 
-## Season S01E01
+## Season 01E01
 
 * DD+ 5.1
 
@@ -24,7 +24,7 @@ Dialnorm Compensation: 6dB AI Created
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Grand%20Tour%20%282026%29%20%28Season%20S01E01%29%20%28%2B3.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
 
-## Season S01E02
+## Season 01E02
 
 * DD+ 5.1
 
@@ -46,7 +46,7 @@ Dialnorm Compensation: 6dB AI Created
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Grand%20Tour%20%282026%29%20%28Season%20S01E02%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
 
-## Season S01E03
+## Season 01E03
 
 * DD+ 5.1
 
@@ -68,7 +68,7 @@ Dialnorm Compensation: 6dB AI Created
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Grand%20Tour%20%282026%29%20%28Season%20S01E03%29%20%28%2B6.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
 
-## Season S01E04
+## Season 01E04
 
 * DD+ 5.1
 
@@ -90,7 +90,7 @@ Dialnorm Compensation: 6dB AI Created
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Grand%20Tour%20%282026%29%20%28Season%20S01E04%29%20%28%2B4.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
 
-## Season S01E05
+## Season 01E05
 
 * DD+ 5.1
 
@@ -112,7 +112,7 @@ Dialnorm Compensation: 5dB AI Created
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Grand%20Tour%20%282026%29%20%28Season%20S01E05%29%20%28%2B6.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
 
-## Season S01E06
+## Season 01E06
 
 * DD+ 5.1
 
