@@ -7,7 +7,7 @@
 In 2176, a Martian police unit is sent to pick up a highly dangerous criminal at a remote mining post. Upon arrival, the cops find the post deserted and something far more dangerous than any criminal — the original inhabitants of Mars, hellbent on getting their planet back.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/10016)  [Compare across authors](../../compare/?t=film-ghosts-of-mars_10016)
+[TMDB](https://www.themoviedb.org/movie/10016)  [Compare across authors](../compare/index.md?t=film-ghosts-of-mars_10016)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Ghosts%20of%20Mars/Ghosts%20of%20Mars%20(2001)%20DTS-HD%20MA%205.1.jpg)

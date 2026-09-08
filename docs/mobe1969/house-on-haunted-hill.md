@@ -1,6 +1,6 @@
 # House on Haunted Hill
 
-[Compare across authors](../../compare/?t=film-house-on-haunted-hill_11377)
+[Compare across authors](../compare/index.md?t=film-house-on-haunted-hill_11377)
 
 ## DTS-HD MA 5.1
 

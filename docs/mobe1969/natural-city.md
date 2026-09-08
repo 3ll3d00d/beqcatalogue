@@ -1,6 +1,6 @@
 # Natural City
 
-[Compare across authors](../../compare/?t=film-natural-city_14573)
+[Compare across authors](../compare/index.md?t=film-natural-city_14573)
 
 ## DTS-HD MA 5.1
 

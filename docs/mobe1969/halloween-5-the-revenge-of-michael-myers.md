@@ -1,6 +1,6 @@
 # Halloween 5: The Revenge of Michael Myers
 
-[Compare across authors](../../compare/?t=film-halloween-5-the-revenge-of-michael-myers_11361)
+[Compare across authors](../compare/index.md?t=film-halloween-5-the-revenge-of-michael-myers_11361)
 
 ## Atmos
 

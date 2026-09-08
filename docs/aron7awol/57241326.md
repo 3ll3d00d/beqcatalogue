@@ -1,6 +1,6 @@
 # Smallfoot
 
-[Compare across authors](../../compare/?t=film-smallfoot_446894)
+[Compare across authors](../compare/index.md?t=film-smallfoot_446894)
 
 ## DTS-HD MA 5.1
 

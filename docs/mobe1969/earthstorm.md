@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-earthstorm_211942)
+[Compare across authors](../compare/index.md?t=TV-earthstorm_211942)
 
 ## Season 1
 

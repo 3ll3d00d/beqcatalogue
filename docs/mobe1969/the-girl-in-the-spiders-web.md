@@ -1,6 +1,6 @@
 # The Girl in the Spider's Web
 
-[Compare across authors](../../compare/?t=film-the-girl-in-the-spiders-web_446807)
+[Compare across authors](../compare/index.md?t=film-the-girl-in-the-spiders-web_446807)
 
 ## Atmos
 

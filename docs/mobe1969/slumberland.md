@@ -1,6 +1,6 @@
 # Slumberland
 
-[Compare across authors](../../compare/?t=film-slumberland_668461)
+[Compare across authors](../compare/index.md?t=film-slumberland_668461)
 
 ## DD+ Atmos
 

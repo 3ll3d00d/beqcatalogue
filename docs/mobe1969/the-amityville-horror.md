@@ -1,6 +1,6 @@
 # The Amityville Horror
 
-[Compare across authors](../../compare/?t=film-the-amityville-horror_10065)
+[Compare across authors](../compare/index.md?t=film-the-amityville-horror_10065)
 
 ## DTS-HD MA 5.1
 

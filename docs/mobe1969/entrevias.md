@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-entrevias_128015)
+[Compare across authors](../compare/index.md?t=TV-entrevias_128015)
 
 ## Season 1
 

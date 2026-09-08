@@ -1,6 +1,6 @@
 # Jiu Jitsu
 
-[Compare across authors](../../compare/?t=film-jiu-jitsu_590706)
+[Compare across authors](../compare/index.md?t=film-jiu-jitsu_590706)
 
 ## DTS-HD MA 5.1
 

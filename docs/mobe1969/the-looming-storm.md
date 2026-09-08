@@ -1,6 +1,6 @@
 # The Looming Storm
 
-[Compare across authors](../../compare/?t=film-the-looming-storm_487786)
+[Compare across authors](../compare/index.md?t=film-the-looming-storm_487786)
 
 ## DTS-HD MA 5.1
 

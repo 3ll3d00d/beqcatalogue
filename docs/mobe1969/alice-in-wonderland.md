@@ -1,6 +1,6 @@
 # Alice in Wonderland
 
-[Compare across authors](../../compare/?t=film-alice-in-wonderland_12155)
+[Compare across authors](../compare/index.md?t=film-alice-in-wonderland_12155)
 
 ## DTS-HD MA 5.1
 

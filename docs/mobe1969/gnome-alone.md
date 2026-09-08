@@ -1,6 +1,6 @@
 # Gnome Alone
 
-[Compare across authors](../../compare/?t=film-gnome-alone_466876)
+[Compare across authors](../compare/index.md?t=film-gnome-alone_466876)
 
 ## DD+ 5.1
 

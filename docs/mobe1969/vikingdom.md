@@ -1,6 +1,6 @@
 # Vikingdom
 
-[Compare across authors](../../compare/?t=film-vikingdom_100542)
+[Compare across authors](../compare/index.md?t=film-vikingdom_100542)
 
 ## DTS-HD MA 5.1
 

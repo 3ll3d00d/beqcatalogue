@@ -1,6 +1,6 @@
 # Ghostbusters: Afterlife
 
-[Compare across authors](../../compare/?t=film-ghostbusters-afterlife_425909)
+[Compare across authors](../compare/index.md?t=film-ghostbusters-afterlife_425909)
 
 ## Atmos
 

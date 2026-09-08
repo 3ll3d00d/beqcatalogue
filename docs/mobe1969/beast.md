@@ -1,6 +1,6 @@
 # Beast
 
-[Compare across authors](../../compare/?t=film-beast_760741)
+[Compare across authors](../compare/index.md?t=film-beast_760741)
 
 ## Atmos, DD+ Atmos, DD+ 5.1
 

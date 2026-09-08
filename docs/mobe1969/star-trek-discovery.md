@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-star-trek-discovery_67198)
+[Compare across authors](../compare/index.md?t=TV-star-trek-discovery_67198)
 
 ## Season 1
 

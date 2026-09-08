@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-freud_99509)
+[Compare across authors](../compare/index.md?t=TV-freud_99509)
 
 ## Season 1
 

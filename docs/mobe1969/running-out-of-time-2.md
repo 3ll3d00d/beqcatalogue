@@ -1,6 +1,6 @@
 # Running Out of Time 2
 
-[Compare across authors](../../compare/?t=film-running-out-of-time-2_45303)
+[Compare across authors](../compare/index.md?t=film-running-out-of-time-2_45303)
 
 ## TrueHD 7.1
 

@@ -1,6 +1,6 @@
 # Breakdown
 
-[Compare across authors](../../compare/?t=film-breakdown_794921)
+[Compare across authors](../compare/index.md?t=film-breakdown_794921)
 
 ## DD+ 5.1
 

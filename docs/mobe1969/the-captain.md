@@ -1,6 +1,6 @@
 # The Captain
 
-[Compare across authors](../../compare/?t=film-the-captain_475094)
+[Compare across authors](../compare/index.md?t=film-the-captain_475094)
 
 ## DD+ 5.1
 

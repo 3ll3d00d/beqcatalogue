@@ -1,6 +1,6 @@
 # Bloodshot
 
-[Compare across authors](../../compare/?t=film-bloodshot_338762)
+[Compare across authors](../compare/index.md?t=film-bloodshot_338762)
 
 ## Atmos
 

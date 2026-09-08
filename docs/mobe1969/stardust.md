@@ -1,6 +1,6 @@
 # Stardust
 
-[Compare across authors](../../compare/?t=film-stardust_2270)
+[Compare across authors](../compare/index.md?t=film-stardust_2270)
 
 ## DTS-HD MA 5.1
 

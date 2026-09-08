@@ -1,6 +1,6 @@
 # The Boss Baby: Family Business
 
-[Compare across authors](../../compare/?t=film-the-boss-baby-family-business_459151)
+[Compare across authors](../compare/index.md?t=film-the-boss-baby-family-business_459151)
 
 ## Atmos
 

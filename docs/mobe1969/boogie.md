@@ -1,6 +1,6 @@
 # Boogie
 
-[Compare across authors](../../compare/?t=film-boogie_35837)
+[Compare across authors](../compare/index.md?t=film-boogie_35837)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Flight 666
 
-[Compare across authors](../../compare/?t=film-flight-666_527642)
+[Compare across authors](../compare/index.md?t=film-flight-666_527642)
 
 ## DD+ 5.1
 

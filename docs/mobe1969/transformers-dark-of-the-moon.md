@@ -1,6 +1,6 @@
 # Transformers: Dark of the Moon
 
-[Compare across authors](../../compare/?t=film-transformers-dark-of-the-moon_38356)
+[Compare across authors](../compare/index.md?t=film-transformers-dark-of-the-moon_38356)
 
 ## Atmos, DD+ 5.1
 

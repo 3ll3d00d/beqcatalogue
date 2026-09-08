@@ -7,7 +7,7 @@
 A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/520758)  [Compare across authors](../../compare/?t=film-chicken-run-dawn-of-the-nugget_520758)
+[TMDB](https://www.themoviedb.org/movie/520758)  [Compare across authors](../compare/index.md?t=film-chicken-run-dawn-of-the-nugget_520758)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Chicken%20Run%20-%20Dawn%20of%20the%20Nugget%20(2023)%20DD%2B%20Atmos.jpg)

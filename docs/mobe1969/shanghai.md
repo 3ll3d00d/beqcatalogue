@@ -1,6 +1,6 @@
 # Shanghai
 
-[Compare across authors](../../compare/?t=film-shanghai_38407)
+[Compare across authors](../compare/index.md?t=film-shanghai_38407)
 
 ## DD+ 5.1
 

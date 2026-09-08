@@ -1,6 +1,6 @@
 # Zoom
 
-[Compare across authors](../../compare/?t=film-zoom_14113)
+[Compare across authors](../compare/index.md?t=film-zoom_14113)
 
 ## DD+ 5.1
 

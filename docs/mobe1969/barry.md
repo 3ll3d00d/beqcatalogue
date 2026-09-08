@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-barry_73107)
+[Compare across authors](../compare/index.md?t=TV-barry_73107)
 
 ## Season 1
 

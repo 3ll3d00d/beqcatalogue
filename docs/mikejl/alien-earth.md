@@ -7,7 +7,7 @@
 * DD+ 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-alien-earth_157239)
+* [Compare across authors](../compare/index.md?t=TV-alien-earth_157239)
 
 * Production Year: 2025
 

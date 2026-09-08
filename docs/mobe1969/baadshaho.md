@@ -1,6 +1,6 @@
 # Baadshaho
 
-[Compare across authors](../../compare/?t=film-baadshaho_441894)
+[Compare across authors](../compare/index.md?t=film-baadshaho_441894)
 
 ## DD+ 5.1
 

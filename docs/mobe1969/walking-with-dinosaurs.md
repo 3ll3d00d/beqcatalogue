@@ -1,6 +1,6 @@
 # Walking with Dinosaurs
 
-[Compare across authors](../../compare/?t=film-walking-with-dinosaurs_77951)
+[Compare across authors](../compare/index.md?t=film-walking-with-dinosaurs_77951)
 
 ## DTS-HD MA 5.1
 

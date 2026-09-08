@@ -1,6 +1,6 @@
 # The Most Dangerous Game
 
-[Compare across authors](../../compare/?t=film-the-most-dangerous-game_994702)
+[Compare across authors](../compare/index.md?t=film-the-most-dangerous-game_994702)
 
 ## DD+ 2.0
 

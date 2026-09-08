@@ -1,6 +1,6 @@
 # Mercury Rising
 
-[Compare across authors](../../compare/?t=film-mercury-rising_8838)
+[Compare across authors](../compare/index.md?t=film-mercury-rising_8838)
 
 ## DTS-HD MA 5.1
 

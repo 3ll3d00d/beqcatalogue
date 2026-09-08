@@ -1,6 +1,6 @@
 # Carlos The Jackal
 
-[Compare across authors](../../compare/?t=film-carlos-the-jackal_43434)
+[Compare across authors](../compare/index.md?t=film-carlos-the-jackal_43434)
 
 ## DTS-HD MA 5.1
 

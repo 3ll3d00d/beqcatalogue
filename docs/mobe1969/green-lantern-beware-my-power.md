@@ -1,6 +1,6 @@
 # Green Lantern: Beware My Power
 
-[Compare across authors](../../compare/?t=film-green-lantern-beware-my-power_887357)
+[Compare across authors](../compare/index.md?t=film-green-lantern-beware-my-power_887357)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

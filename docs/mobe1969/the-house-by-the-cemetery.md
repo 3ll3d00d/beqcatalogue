@@ -1,6 +1,6 @@
 # The House by the Cemetery
 
-[Compare across authors](../../compare/?t=film-the-house-by-the-cemetery_28794)
+[Compare across authors](../compare/index.md?t=film-the-house-by-the-cemetery_28794)
 
 ## Atmos
 

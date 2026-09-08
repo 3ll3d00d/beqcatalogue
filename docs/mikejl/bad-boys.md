@@ -7,7 +7,7 @@
 Marcus Burnett is a henpecked family man. Mike Lowrey is a footloose and fancy free ladies' man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9737)  [Compare across authors](../../compare/?t=film-bad-boys_9737)
+[TMDB](https://www.themoviedb.org/movie/9737)  [Compare across authors](../compare/index.md?t=film-bad-boys_9737)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Bad%20Boys/Bad%20Boys%20(1995)%202K%20DD%2B%20Atmos.jpg)

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-ncis-tony-ziva_247732)
+* [Compare across authors](../compare/index.md?t=TV-ncis-tony-ziva_247732)
 
 * Production Year: 2025
 

@@ -1,6 +1,6 @@
 # American Muscle
 
-[Compare across authors](../../compare/?t=film-american-muscle_287950)
+[Compare across authors](../compare/index.md?t=film-american-muscle_287950)
 
 ## DTS-HD MA 5.1
 

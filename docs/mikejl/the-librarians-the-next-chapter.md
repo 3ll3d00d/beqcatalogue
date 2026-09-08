@@ -7,7 +7,7 @@
 * DTS-HD MA 5.1, DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-librarians-the-next-chapter_226749)
+* [Compare across authors](../compare/index.md?t=TV-the-librarians-the-next-chapter_226749)
 
 * Production Year: 2025
 

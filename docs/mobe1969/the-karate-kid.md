@@ -1,6 +1,6 @@
 # The Karate Kid
 
-[Compare across authors](../../compare/?t=film-the-karate-kid_38575)
+[Compare across authors](../compare/index.md?t=film-the-karate-kid_38575)
 
 ## DTS-HD MA 5.1
 

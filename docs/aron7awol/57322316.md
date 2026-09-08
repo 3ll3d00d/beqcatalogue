@@ -1,6 +1,6 @@
 # Galveston
 
-[Compare across authors](../../compare/?t=film-galveston_283601)
+[Compare across authors](../compare/index.md?t=film-galveston_283601)
 
 ## DTS-HD MA 5.1
 

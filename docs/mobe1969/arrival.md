@@ -1,6 +1,6 @@
 # Arrival
 
-[Compare across authors](../../compare/?t=film-arrival_329865)
+[Compare across authors](../compare/index.md?t=film-arrival_329865)
 
 ## DTS-HD MA 7.1, DD+ 5.1
 

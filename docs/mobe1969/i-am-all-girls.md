@@ -1,6 +1,6 @@
 # I Am All Girls
 
-[Compare across authors](../../compare/?t=film-i-am-all-girls_823855)
+[Compare across authors](../compare/index.md?t=film-i-am-all-girls_823855)
 
 ## DD+ 5.1
 

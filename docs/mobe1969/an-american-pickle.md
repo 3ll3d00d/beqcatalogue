@@ -1,6 +1,6 @@
 # An American Pickle
 
-[Compare across authors](../../compare/?t=film-an-american-pickle_628917)
+[Compare across authors](../compare/index.md?t=film-an-american-pickle_628917)
 
 ## DD+ 5.1
 

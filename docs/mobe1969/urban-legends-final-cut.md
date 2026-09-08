@@ -1,6 +1,6 @@
 # Urban Legends: Final Cut
 
-[Compare across authors](../../compare/?t=film-urban-legends-final-cut_12212)
+[Compare across authors](../compare/index.md?t=film-urban-legends-final-cut_12212)
 
 ## TrueHD 5.1
 

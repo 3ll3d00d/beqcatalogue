@@ -1,6 +1,6 @@
 # The Godfather
 
-[Compare across authors](../../compare/?t=film-the-godfather_238)
+[Compare across authors](../compare/index.md?t=film-the-godfather_238)
 
 ## TrueHD 5.1
 

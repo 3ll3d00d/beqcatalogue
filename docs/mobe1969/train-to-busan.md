@@ -1,6 +1,6 @@
 # Train to Busan
 
-[Compare across authors](../../compare/?t=film-train-to-busan_396535)
+[Compare across authors](../compare/index.md?t=film-train-to-busan_396535)
 
 ## Atmos
 

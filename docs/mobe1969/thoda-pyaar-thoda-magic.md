@@ -1,6 +1,6 @@
 # Thoda Pyaar Thoda Magic
 
-[Compare across authors](../../compare/?t=film-thoda-pyaar-thoda-magic_14214)
+[Compare across authors](../compare/index.md?t=film-thoda-pyaar-thoda-magic_14214)
 
 ## DD+ 5.1
 

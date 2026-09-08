@@ -1,6 +1,6 @@
 # Inside Men
 
-[Compare across authors](../../compare/?t=film-inside-men_293413)
+[Compare across authors](../compare/index.md?t=film-inside-men_293413)
 
 ## TrueHD 5.1
 

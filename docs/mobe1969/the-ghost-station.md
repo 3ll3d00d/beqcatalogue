@@ -1,6 +1,6 @@
 # The Ghost Station
 
-[Compare across authors](../../compare/?t=film-the-ghost-station_844386)
+[Compare across authors](../compare/index.md?t=film-the-ghost-station_844386)
 
 ## DD+ 5.1
 

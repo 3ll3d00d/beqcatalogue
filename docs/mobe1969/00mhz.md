@@ -1,6 +1,6 @@
 # 0.0MHz
 
-[Compare across authors](../../compare/?t=film-00mhz_584586)
+[Compare across authors](../compare/index.md?t=film-00mhz_584586)
 
 ## TrueHD 7.1
 

@@ -1,6 +1,6 @@
 # The Equalizer
 
-[Compare across authors](../../compare/?t=film-the-equalizer_156022)
+[Compare across authors](../compare/index.md?t=film-the-equalizer_156022)
 
 ## Atmos
 

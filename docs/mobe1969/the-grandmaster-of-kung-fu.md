@@ -1,6 +1,6 @@
 # The Grandmaster of Kung Fu
 
-[Compare across authors](../../compare/?t=film-the-grandmaster-of-kung-fu_799718)
+[Compare across authors](../compare/index.md?t=film-the-grandmaster-of-kung-fu_799718)
 
 ## DD+ 5.1
 

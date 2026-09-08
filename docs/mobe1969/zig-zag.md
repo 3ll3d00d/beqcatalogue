@@ -1,6 +1,6 @@
 # Zig Zag
 
-[Compare across authors](../../compare/?t=film-zig-zag_13442)
+[Compare across authors](../compare/index.md?t=film-zig-zag_13442)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Collective Invention
 
-[Compare across authors](../../compare/?t=film-collective-invention_356201)
+[Compare across authors](../compare/index.md?t=film-collective-invention_356201)
 
 ## TrueHD 5.1
 

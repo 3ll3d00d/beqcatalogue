@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-sharp-objects_70453)
+* [Compare across authors](../compare/index.md?t=TV-sharp-objects_70453)
 
 * Production Year: 2018
 

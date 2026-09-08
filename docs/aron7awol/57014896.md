@@ -1,6 +1,6 @@
 # Indiana Jones and the Temple of Doom
 
-[Compare across authors](../../compare/?t=film-indiana-jones-and-the-temple-of-doom_87)
+[Compare across authors](../compare/index.md?t=film-indiana-jones-and-the-temple-of-doom_87)
 
 ## Atmos
 

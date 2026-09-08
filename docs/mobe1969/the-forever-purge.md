@@ -1,6 +1,6 @@
 # The Forever Purge
 
-[Compare across authors](../../compare/?t=film-the-forever-purge_602223)
+[Compare across authors](../compare/index.md?t=film-the-forever-purge_602223)
 
 ## Atmos
 

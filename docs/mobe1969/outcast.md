@@ -1,6 +1,6 @@
 # Outcast
 
-[Compare across authors](../../compare/?t=film-outcast_289720)
+[Compare across authors](../compare/index.md?t=film-outcast_289720)
 
 ## DTS-HD MA 5.1
 

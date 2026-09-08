@@ -1,6 +1,6 @@
 # The Ant Bully
 
-[Compare across authors](../../compare/?t=film-the-ant-bully_9906)
+[Compare across authors](../compare/index.md?t=film-the-ant-bully_9906)
 
 ## DD+ 5.1
 

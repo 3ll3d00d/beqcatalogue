@@ -1,6 +1,6 @@
 # The Condemned 2
 
-[Compare across authors](../../compare/?t=film-the-condemned-2_353610)
+[Compare across authors](../compare/index.md?t=film-the-condemned-2_353610)
 
 ## DTS-HD MA 5.1
 

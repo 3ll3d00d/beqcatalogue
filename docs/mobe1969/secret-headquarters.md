@@ -1,6 +1,6 @@
 # Secret Headquarters
 
-[Compare across authors](../../compare/?t=film-secret-headquarters_791155)
+[Compare across authors](../compare/index.md?t=film-secret-headquarters_791155)
 
 ## Atmos, DD+ Atmos
 

@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-calls_119934)
+[Compare across authors](../compare/index.md?t=TV-calls_119934)
 
 ## Season 1
 

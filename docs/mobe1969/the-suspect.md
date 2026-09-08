@@ -1,6 +1,6 @@
 # The Suspect
 
-[Compare across authors](../../compare/?t=film-the-suspect_242454)
+[Compare across authors](../compare/index.md?t=film-the-suspect_242454)
 
 ## DTS-HD MA 5.1
 

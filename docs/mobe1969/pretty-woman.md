@@ -1,6 +1,6 @@
 # Pretty Woman
 
-[Compare across authors](../../compare/?t=film-pretty-woman_114)
+[Compare across authors](../compare/index.md?t=film-pretty-woman_114)
 
 ## DTS-HD MA 5.1
 

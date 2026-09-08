@@ -1,6 +1,6 @@
 # Terminator: Dark Fate
 
-[Compare across authors](../../compare/?t=film-terminator-dark-fate_290859)
+[Compare across authors](../compare/index.md?t=film-terminator-dark-fate_290859)
 
 ## Atmos
 

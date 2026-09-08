@@ -1,6 +1,6 @@
 # Cold Case
 
-[Compare across authors](../../compare/?t=film-cold-case_838609)
+[Compare across authors](../compare/index.md?t=film-cold-case_838609)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Damned
 
-[Compare across authors](../../compare/?t=film-the-damned_258086)
+[Compare across authors](../compare/index.md?t=film-the-damned_258086)
 
 ## DTS-HD MA 5.1
 

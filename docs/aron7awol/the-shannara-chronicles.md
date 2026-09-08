@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-shannara-chronicles_64122)
+[Compare across authors](../compare/index.md?t=TV-the-shannara-chronicles_64122)
 
 ## Season 1
 

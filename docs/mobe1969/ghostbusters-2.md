@@ -1,6 +1,6 @@
 # Ghostbusters 2
 
-[Compare across authors](../../compare/?t=film-ghostbusters-2_2978)
+[Compare across authors](../compare/index.md?t=film-ghostbusters-2_2978)
 
 ## Atmos
 

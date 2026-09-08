@@ -1,6 +1,6 @@
 # The Tournament
 
-[Compare across authors](../../compare/?t=film-the-tournament_24056)
+[Compare across authors](../compare/index.md?t=film-the-tournament_24056)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Tuxedo
 
-[Compare across authors](../../compare/?t=film-the-tuxedo_10771)
+[Compare across authors](../compare/index.md?t=film-the-tuxedo_10771)
 
 ## TrueHD 5.1
 

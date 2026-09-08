@@ -1,6 +1,6 @@
 # The Strangers: Prey at Night
 
-[Compare across authors](../../compare/?t=film-the-strangers-prey-at-night_371608)
+[Compare across authors](../compare/index.md?t=film-the-strangers-prey-at-night_371608)
 
 ## DTS-HD MA 5.1
 

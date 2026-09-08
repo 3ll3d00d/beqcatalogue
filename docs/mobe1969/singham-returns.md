@@ -1,6 +1,6 @@
 # Singham Returns
 
-[Compare across authors](../../compare/?t=film-singham-returns_285803)
+[Compare across authors](../compare/index.md?t=film-singham-returns_285803)
 
 ## DTS-HD MA 5.1
 

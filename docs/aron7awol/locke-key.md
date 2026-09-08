@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-locke-key_86423)
+[Compare across authors](../compare/index.md?t=TV-locke-key_86423)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Anchorman: The Legend of Ron Burgundy
 
-[Compare across authors](../../compare/?t=film-anchorman-the-legend-of-ron-burgundy_8699)
+[Compare across authors](../compare/index.md?t=film-anchorman-the-legend-of-ron-burgundy_8699)
 
 ## DTS-HD MA 5.1
 

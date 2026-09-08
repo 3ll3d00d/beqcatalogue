@@ -1,6 +1,6 @@
 # Don't Listen
 
-[Compare across authors](../../compare/?t=film-dont-listen_726208)
+[Compare across authors](../compare/index.md?t=film-dont-listen_726208)
 
 ## DD+ 5.1
 

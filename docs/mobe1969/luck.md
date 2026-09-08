@@ -1,6 +1,6 @@
 # Luck
 
-[Compare across authors](../../compare/?t=film-luck_585511)
+[Compare across authors](../compare/index.md?t=film-luck_585511)
 
 ## DD+ Atmos
 

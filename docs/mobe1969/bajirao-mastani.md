@@ -1,6 +1,6 @@
 # Bajirao Mastani
 
-[Compare across authors](../../compare/?t=film-bajirao-mastani_362045)
+[Compare across authors](../compare/index.md?t=film-bajirao-mastani_362045)
 
 ## Atmos, DTS-HD MA 7.1
 

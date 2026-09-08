@@ -1,6 +1,6 @@
 # Lethal Weapon 3
 
-[Compare across authors](../../compare/?t=film-lethal-weapon-3_943)
+[Compare across authors](../compare/index.md?t=film-lethal-weapon-3_943)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-aranyak_128217)
+[Compare across authors](../compare/index.md?t=TV-aranyak_128217)
 
 ## Season 1
 

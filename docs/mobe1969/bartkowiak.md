@@ -1,6 +1,6 @@
 # Bartkowiak
 
-[Compare across authors](../../compare/?t=film-bartkowiak_809968)
+[Compare across authors](../compare/index.md?t=film-bartkowiak_809968)
 
 ## DD+ 5.1
 

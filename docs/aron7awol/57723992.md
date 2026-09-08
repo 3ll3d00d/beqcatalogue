@@ -1,6 +1,6 @@
 # Harry Brown
 
-[Compare across authors](../../compare/?t=film-harry-brown_25941)
+[Compare across authors](../compare/index.md?t=film-harry-brown_25941)
 
 ## DTS-HD MA 5.1
 

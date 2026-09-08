@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-y-the-last-man_86550)
+[Compare across authors](../compare/index.md?t=TV-y-the-last-man_86550)
 
 ## Season 1 Episodes 1-5
 

@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-his-dark-materials_68507)
+[Compare across authors](../compare/index.md?t=TV-his-dark-materials_68507)
 
 ## Season 1
 

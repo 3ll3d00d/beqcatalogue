@@ -1,6 +1,6 @@
 # Alvin and the Chipmunks
 
-[Compare across authors](../../compare/?t=film-alvin-and-the-chipmunks_6477)
+[Compare across authors](../compare/index.md?t=film-alvin-and-the-chipmunks_6477)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

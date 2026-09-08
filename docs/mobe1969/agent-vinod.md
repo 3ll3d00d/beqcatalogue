@@ -1,6 +1,6 @@
 # Agent Vinod
 
-[Compare across authors](../../compare/?t=film-agent-vinod_85050)
+[Compare across authors](../compare/index.md?t=film-agent-vinod_85050)
 
 ## DD 5.1
 

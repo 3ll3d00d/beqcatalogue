@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-wolf_75365)
+[Compare across authors](../compare/index.md?t=TV-wolf_75365)
 
 ## Season 1
 

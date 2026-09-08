@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-military-prosecutor-doberman_135652)
+[Compare across authors](../compare/index.md?t=TV-military-prosecutor-doberman_135652)
 
 ## Season 1
 

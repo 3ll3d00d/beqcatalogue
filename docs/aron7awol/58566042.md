@@ -1,6 +1,6 @@
 # Colombiana
 
-[Compare across authors](../../compare/?t=film-colombiana_62835)
+[Compare across authors](../compare/index.md?t=film-colombiana_62835)
 
 ## DTS-HD MA 5.1
 

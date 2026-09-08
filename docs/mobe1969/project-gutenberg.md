@@ -1,6 +1,6 @@
 # Project Gutenberg
 
-[Compare across authors](../../compare/?t=film-project-gutenberg_531384)
+[Compare across authors](../compare/index.md?t=film-project-gutenberg_531384)
 
 ## Atmos
 

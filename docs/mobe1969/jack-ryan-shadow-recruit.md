@@ -1,6 +1,6 @@
 # Jack Ryan: Shadow Recruit
 
-[Compare across authors](../../compare/?t=film-jack-ryan-shadow-recruit_137094)
+[Compare across authors](../compare/index.md?t=film-jack-ryan-shadow-recruit_137094)
 
 ## DTS-HD MA 7.1
 

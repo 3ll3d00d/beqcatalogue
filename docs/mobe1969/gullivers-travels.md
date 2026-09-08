@@ -1,6 +1,6 @@
 # Gulliver's Travels
 
-[Compare across authors](../../compare/?t=film-gullivers-travels_38745)
+[Compare across authors](../compare/index.md?t=film-gullivers-travels_38745)
 
 ## DTS-HD MA 5.1
 

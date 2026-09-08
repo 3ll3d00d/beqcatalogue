@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-glory_136283)
+[Compare across authors](../compare/index.md?t=TV-the-glory_136283)
 
 ## Season 1
 

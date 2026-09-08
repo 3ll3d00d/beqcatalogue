@@ -1,6 +1,6 @@
 # Nightbooks
 
-[Compare across authors](../../compare/?t=film-nightbooks_739990)
+[Compare across authors](../compare/index.md?t=film-nightbooks_739990)
 
 ## DD+ Atmos, DD+ 5.1
 

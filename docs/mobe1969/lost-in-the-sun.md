@@ -1,6 +1,6 @@
 # Lost in the Sun
 
-[Compare across authors](../../compare/?t=film-lost-in-the-sun_360203)
+[Compare across authors](../compare/index.md?t=film-lost-in-the-sun_360203)
 
 ## DTS-HD MA 5.1
 

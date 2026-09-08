@@ -1,6 +1,6 @@
 # The Storm Warriors
 
-[Compare across authors](../../compare/?t=film-the-storm-warriors_32654)
+[Compare across authors](../compare/index.md?t=film-the-storm-warriors_32654)
 
 ## TrueHD 7.1, LPCM 7.1, DTS-HD MA 7.1
 

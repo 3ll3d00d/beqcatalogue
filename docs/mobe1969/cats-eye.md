@@ -1,6 +1,6 @@
 # Cat's Eye
 
-[Compare across authors](../../compare/?t=film-cats-eye_10552)
+[Compare across authors](../compare/index.md?t=film-cats-eye_10552)
 
 ## DTS-HD MA 5.1
 

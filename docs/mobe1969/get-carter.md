@@ -1,6 +1,6 @@
 # Get Carter
 
-[Compare across authors](../../compare/?t=film-get-carter_1485)
+[Compare across authors](../compare/index.md?t=film-get-carter_1485)
 
 ## LPCM 1.0
 

@@ -1,6 +1,6 @@
 # True Spirit
 
-[Compare across authors](../../compare/?t=film-true-spirit_739986)
+[Compare across authors](../compare/index.md?t=film-true-spirit_739986)
 
 ## DD+ Atmos
 

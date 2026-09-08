@@ -11,7 +11,7 @@ Two co-dependent high school seniors are forced to deal with separation anxiety 
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1616?post_id=64091165#post-64091165)  [TMDB](https://www.themoviedb.org/movie/8363)  [Compare across authors](../../compare/?t=film-superbad_8363)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1616?post_id=64091165#post-64091165)  [TMDB](https://www.themoviedb.org/movie/8363)  [Compare across authors](../compare/index.md?t=film-superbad_8363)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Superbad%20(2007)%20Unrated%20%26%20Extended%20(%2B5.5%20gain)%20TrueHD%205.1.jpg)

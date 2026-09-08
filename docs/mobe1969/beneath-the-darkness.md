@@ -1,6 +1,6 @@
 # Beneath the Darkness
 
-[Compare across authors](../../compare/?t=film-beneath-the-darkness_78461)
+[Compare across authors](../compare/index.md?t=film-beneath-the-darkness_78461)
 
 ## DTS-HD MA 5.1
 

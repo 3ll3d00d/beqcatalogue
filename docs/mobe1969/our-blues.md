@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-our-blues_135840)
+[Compare across authors](../compare/index.md?t=TV-our-blues_135840)
 
 ## Season 1
 

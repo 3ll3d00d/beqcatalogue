@@ -1,6 +1,6 @@
 # The Lost City of Z
 
-[Compare across authors](../../compare/?t=film-the-lost-city-of-z_314095)
+[Compare across authors](../compare/index.md?t=film-the-lost-city-of-z_314095)
 
 ## DTS-HD MA 5.1
 

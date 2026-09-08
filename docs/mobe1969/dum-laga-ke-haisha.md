@@ -1,6 +1,6 @@
 # Dum Laga Ke Haisha
 
-[Compare across authors](../../compare/?t=film-dum-laga-ke-haisha_325138)
+[Compare across authors](../compare/index.md?t=film-dum-laga-ke-haisha_325138)
 
 ## DD+ 5.1
 

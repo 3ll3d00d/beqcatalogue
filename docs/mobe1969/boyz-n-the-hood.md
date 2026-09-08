@@ -1,6 +1,6 @@
 # Boyz n the Hood
 
-[Compare across authors](../../compare/?t=film-boyz-n-the-hood_650)
+[Compare across authors](../compare/index.md?t=film-boyz-n-the-hood_650)
 
 ## Atmos
 

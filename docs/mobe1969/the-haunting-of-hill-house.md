@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-haunting-of-hill-house_72844)
+[Compare across authors](../compare/index.md?t=TV-the-haunting-of-hill-house_72844)
 
 ## Season 1
 

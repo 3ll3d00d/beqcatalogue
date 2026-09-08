@@ -1,6 +1,6 @@
 # Son of a Gun
 
-[Compare across authors](../../compare/?t=film-son-of-a-gun_294652)
+[Compare across authors](../compare/index.md?t=film-son-of-a-gun_294652)
 
 ## DTS-HD MA 5.1
 

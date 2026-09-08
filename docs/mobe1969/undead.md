@@ -1,6 +1,6 @@
 # Undead
 
-[Compare across authors](../../compare/?t=film-undead_8991)
+[Compare across authors](../compare/index.md?t=film-undead_8991)
 
 ## DTS-HD MA 5.1
 

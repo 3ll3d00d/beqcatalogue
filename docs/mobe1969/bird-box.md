@@ -1,6 +1,6 @@
 # Bird Box
 
-[Compare across authors](../../compare/?t=film-bird-box_405774)
+[Compare across authors](../compare/index.md?t=film-bird-box_405774)
 
 ## DD+ Atmos
 

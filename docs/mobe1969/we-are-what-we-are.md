@@ -1,6 +1,6 @@
 # We Are What We Are
 
-[Compare across authors](../../compare/?t=film-we-are-what-we-are_159128)
+[Compare across authors](../compare/index.md?t=film-we-are-what-we-are_159128)
 
 ## DTS-HD MA 5.1
 

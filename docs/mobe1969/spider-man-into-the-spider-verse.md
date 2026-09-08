@@ -1,6 +1,6 @@
 # Spider-Man: Into the Spider-Verse
 
-[Compare across authors](../../compare/?t=film-spider-man-into-the-spider-verse_324857)
+[Compare across authors](../compare/index.md?t=film-spider-man-into-the-spider-verse_324857)
 
 ## Atmos, DTS-HD MA 5.1
 

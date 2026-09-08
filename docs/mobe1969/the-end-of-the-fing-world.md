@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-end-of-the-fing-world_74577)
+[Compare across authors](../compare/index.md?t=TV-the-end-of-the-fing-world_74577)
 
 ## Season 1
 

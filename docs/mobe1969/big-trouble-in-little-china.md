@@ -1,6 +1,6 @@
 # Big Trouble in Little China
 
-[Compare across authors](../../compare/?t=film-big-trouble-in-little-china_6978)
+[Compare across authors](../compare/index.md?t=film-big-trouble-in-little-china_6978)
 
 ## DTS-HD MA 5.1
 

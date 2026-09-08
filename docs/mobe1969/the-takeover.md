@@ -1,6 +1,6 @@
 # The Takeover
 
-[Compare across authors](../../compare/?t=film-the-takeover_944864)
+[Compare across authors](../compare/index.md?t=film-the-takeover_944864)
 
 ## DD+ 5.1
 

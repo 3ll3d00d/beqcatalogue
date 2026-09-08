@@ -1,6 +1,6 @@
 # Nightfall
 
-[Compare across authors](../../compare/?t=film-nightfall_96664)
+[Compare across authors](../compare/index.md?t=film-nightfall_96664)
 
 ## TrueHD 7.1, DTS-HD MA 7.1
 

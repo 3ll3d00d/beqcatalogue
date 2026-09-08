@@ -7,7 +7,7 @@
 An ex-mercenary turned smuggler. A Mende fisherman. Amid the explosive civil war overtaking 1999 Sierra Leone, these men join for two desperate missions: recovering a rare pink diamond of immense value and rescuing the fisherman's son, conscripted as a child soldier into the brutal rebel forces ripping a swath of torture and bloodshed countrywide.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1372)  [Compare across authors](../../compare/?t=film-blood-diamond_1372)
+[TMDB](https://www.themoviedb.org/movie/1372)  [Compare across authors](../compare/index.md?t=film-blood-diamond_1372)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Blood%20Diamond%20(2006)%20DTS-HD%20MA%205.1.jpg)

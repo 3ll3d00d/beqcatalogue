@@ -1,6 +1,6 @@
 # Mark Antony
 
-[Compare across authors](../../compare/?t=film-mark-antony_922087)
+[Compare across authors](../compare/index.md?t=film-mark-antony_922087)
 
 ## DD+ 5.1
 

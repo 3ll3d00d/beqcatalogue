@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-jungle_208120)
+[Compare across authors](../compare/index.md?t=TV-jungle_208120)
 
 ## Season 1
 

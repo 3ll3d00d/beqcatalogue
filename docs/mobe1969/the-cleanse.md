@@ -1,6 +1,6 @@
 # The Cleanse
 
-[Compare across authors](../../compare/?t=film-the-cleanse_298096)
+[Compare across authors](../compare/index.md?t=film-the-cleanse_298096)
 
 ## DD+ 5.1
 

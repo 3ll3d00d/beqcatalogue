@@ -1,6 +1,6 @@
 # Vehicle 19
 
-[Compare across authors](../../compare/?t=film-vehicle-19_180948)
+[Compare across authors](../compare/index.md?t=film-vehicle-19_180948)
 
 ## DTS-HD MA 5.1
 

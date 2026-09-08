@@ -1,6 +1,6 @@
 # Escape from New York
 
-[Compare across authors](../../compare/?t=film-escape-from-new-york_1103)
+[Compare across authors](../compare/index.md?t=film-escape-from-new-york_1103)
 
 ## Atmos
 

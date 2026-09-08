@@ -1,6 +1,6 @@
 # A Horrible Way to Die
 
-[Compare across authors](../../compare/?t=film-a-horrible-way-to-die_44950)
+[Compare across authors](../compare/index.md?t=film-a-horrible-way-to-die_44950)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-high-water_130477)
+[Compare across authors](../compare/index.md?t=TV-high-water_130477)
 
 ## Season 1
 

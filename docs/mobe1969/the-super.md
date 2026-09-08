@@ -1,6 +1,6 @@
 # The Super
 
-[Compare across authors](../../compare/?t=film-the-super_463022)
+[Compare across authors](../compare/index.md?t=film-the-super_463022)
 
 ## DD+ 5.1
 

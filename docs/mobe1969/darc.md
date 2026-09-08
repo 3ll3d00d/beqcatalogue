@@ -1,6 +1,6 @@
 # Darc
 
-[Compare across authors](../../compare/?t=film-darc_521647)
+[Compare across authors](../compare/index.md?t=film-darc_521647)
 
 ## DD+ 5.1
 

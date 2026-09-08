@@ -7,7 +7,7 @@
 King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/617653)  [Compare across authors](../../compare/?t=film-the-last-duel_617653)
+[TMDB](https://www.themoviedb.org/movie/617653)  [Compare across authors](../compare/index.md?t=film-the-last-duel_617653)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Last%20Duel/The%20Last%20Duel%20(2021)%20Atmos.jpg)

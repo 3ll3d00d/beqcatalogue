@@ -7,7 +7,7 @@
 Adam searches for redemption as he returns to his old neighborhood to put his demons to rest, while the brother of the man he killed seeks revenge.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1079346)  [Compare across authors](../../compare/?t=film-5lbs-of-pressure_1079346)
+[TMDB](https://www.themoviedb.org/movie/1079346)  [Compare across authors](../compare/index.md?t=film-5lbs-of-pressure_1079346)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/5lbs%20Of%20Pressure%20(2024)%20DD%2B%205.1.jpg)

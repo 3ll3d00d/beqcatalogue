@@ -1,6 +1,6 @@
 # The Festival of Troubadours
 
-[Compare across authors](../../compare/?t=film-the-festival-of-troubadours_879080)
+[Compare across authors](../compare/index.md?t=film-the-festival-of-troubadours_879080)
 
 ## DD+ 5.1
 

@@ -7,7 +7,7 @@
 Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/664574)  [Compare across authors](../../compare/?t=film-silent-night_664574)
+[TMDB](https://www.themoviedb.org/movie/664574)  [Compare across authors](../compare/index.md?t=film-silent-night_664574)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silent%20Night/Silent%20Night%20(2021)%20DTS-HD%20MA%205.1.jpg)

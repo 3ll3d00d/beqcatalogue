@@ -1,6 +1,6 @@
 # Sleepy Hollow
 
-[Compare across authors](../../compare/?t=film-sleepy-hollow_2668)
+[Compare across authors](../compare/index.md?t=film-sleepy-hollow_2668)
 
 ## DTS-HD MA 5.1
 

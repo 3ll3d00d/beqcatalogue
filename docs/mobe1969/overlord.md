@@ -1,6 +1,6 @@
 # Overlord
 
-[Compare across authors](../../compare/?t=film-overlord_438799)
+[Compare across authors](../compare/index.md?t=film-overlord_438799)
 
 ## Atmos, DD+ 5.1
 

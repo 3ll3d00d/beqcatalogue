@@ -1,6 +1,6 @@
 # Rough Night
 
-[Compare across authors](../../compare/?t=film-rough-night_397422)
+[Compare across authors](../compare/index.md?t=film-rough-night_397422)
 
 ## Atmos
 

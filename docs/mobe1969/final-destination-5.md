@@ -1,6 +1,6 @@
 # Final Destination 5
 
-[Compare across authors](../../compare/?t=film-final-destination-5_55779)
+[Compare across authors](../compare/index.md?t=film-final-destination-5_55779)
 
 ## DTS-HD MA 5.1
 

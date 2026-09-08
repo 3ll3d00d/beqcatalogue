@@ -14,7 +14,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1535?post_id=63689434#post-63689434)
 
-* [Compare across authors](../../compare/?t=TV-star-wars-skeleton-crew_202879)
+* [Compare across authors](../compare/index.md?t=TV-star-wars-skeleton-crew_202879)
 
 * Production Year: 2024
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1535?post_id=63689448#post-63689448)
 
-* [Compare across authors](../../compare/?t=TV-star-wars-skeleton-crew_202879)
+* [Compare across authors](../compare/index.md?t=TV-star-wars-skeleton-crew_202879)
 
 * Production Year: 2024
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63707074#post-63707074)
 
-* [Compare across authors](../../compare/?t=TV-star-wars-skeleton-crew_202879)
+* [Compare across authors](../compare/index.md?t=TV-star-wars-skeleton-crew_202879)
 
 * Production Year: 2024
 
@@ -80,7 +80,7 @@ Dialnorm Compenstation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1541?post_id=63719102#post-63719102)
 
-* [Compare across authors](../../compare/?t=TV-star-wars-skeleton-crew_202879)
+* [Compare across authors](../compare/index.md?t=TV-star-wars-skeleton-crew_202879)
 
 * Production Year: 2024
 
@@ -102,7 +102,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1544?post_id=63732292#post-63732292)
 
-* [Compare across authors](../../compare/?t=TV-star-wars-skeleton-crew_202879)
+* [Compare across authors](../compare/index.md?t=TV-star-wars-skeleton-crew_202879)
 
 * Production Year: 2024
 
@@ -124,7 +124,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1548?post_id=63750079#post-63750079)
 
-* [Compare across authors](../../compare/?t=TV-star-wars-skeleton-crew_202879)
+* [Compare across authors](../compare/index.md?t=TV-star-wars-skeleton-crew_202879)
 
 * Production Year: 2024
 
@@ -146,7 +146,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1549?post_id=63764850#post-63764850)
 
-* [Compare across authors](../../compare/?t=TV-star-wars-skeleton-crew_202879)
+* [Compare across authors](../compare/index.md?t=TV-star-wars-skeleton-crew_202879)
 
 * Production Year: 2024
 
@@ -168,7 +168,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1552?post_id=63785653#post-63785653)
 
-* [Compare across authors](../../compare/?t=TV-star-wars-skeleton-crew_202879)
+* [Compare across authors](../compare/index.md?t=TV-star-wars-skeleton-crew_202879)
 
 * Production Year: 2024
 

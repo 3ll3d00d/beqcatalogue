@@ -1,6 +1,6 @@
 # Rampant
 
-[Compare across authors](../../compare/?t=film-rampant_537190)
+[Compare across authors](../compare/index.md?t=film-rampant_537190)
 
 ## DTS-HD MA 5.1
 

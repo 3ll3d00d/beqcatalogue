@@ -1,6 +1,6 @@
 # And Tomorrow the Entire World
 
-[Compare across authors](../../compare/?t=film-and-tomorrow-the-entire-world_728113)
+[Compare across authors](../compare/index.md?t=film-and-tomorrow-the-entire-world_728113)
 
 ## DD+ 5.1
 

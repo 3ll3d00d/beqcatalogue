@@ -1,6 +1,6 @@
 # Dragonheart: Battle for the Heartfire
 
-[Compare across authors](../../compare/?t=film-dragonheart-battle-for-the-heartfire_451644)
+[Compare across authors](../compare/index.md?t=film-dragonheart-battle-for-the-heartfire_451644)
 
 ## DTS-HD MA 5.1
 

@@ -9,7 +9,7 @@ The ultimate X-Men ensemble fights a war for the survival of the species across 
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/127585)  [Compare across authors](../../compare/?t=film-x-men-days-of-future-past_127585)
+[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/127585)  [Compare across authors](../compare/index.md?t=film-x-men-days-of-future-past_127585)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/X-Men%20DoFP%20(2014)%20(-1%20gain)%20DTS-HD%20MA%207.1.jpg)
@@ -27,7 +27,7 @@ The ultimate X-Men ensemble fights a war for the survival of the species across 
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/posts/62941550/)  [TMDB](https://www.themoviedb.org/movie/127585)  [Compare across authors](../../compare/?t=film-x-men-days-of-future-past_127585)
+[Discuss](https://www.avsforum.com/posts/62941550/)  [TMDB](https://www.themoviedb.org/movie/127585)  [Compare across authors](../compare/index.md?t=film-x-men-days-of-future-past_127585)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/X-Men%20Days%20of%20Future%20Past%20(2014)%20(-1%20gain)%20The%20Rogue%20Cut%20DTS-HD%20MA%207.1.jpg)

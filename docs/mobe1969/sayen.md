@@ -1,6 +1,6 @@
 # Sayen
 
-[Compare across authors](../../compare/?t=film-sayen_850871)
+[Compare across authors](../compare/index.md?t=film-sayen_850871)
 
 ## DD+ 5.1
 

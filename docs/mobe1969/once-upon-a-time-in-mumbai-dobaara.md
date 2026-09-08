@@ -1,6 +1,6 @@
 # Once Upon a Time in Mumbai Dobaara!
 
-[Compare across authors](../../compare/?t=film-once-upon-a-time-in-mumbai-dobaara_208540)
+[Compare across authors](../compare/index.md?t=film-once-upon-a-time-in-mumbai-dobaara_208540)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Seven Psychopaths
 
-[Compare across authors](../../compare/?t=film-seven-psychopaths_86838)
+[Compare across authors](../compare/index.md?t=film-seven-psychopaths_86838)
 
 ## DTS-HD MA 5.1
 

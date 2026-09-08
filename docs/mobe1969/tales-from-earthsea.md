@@ -1,6 +1,6 @@
 # Tales from Earthsea
 
-[Compare across authors](../../compare/?t=film-tales-from-earthsea_37933)
+[Compare across authors](../compare/index.md?t=film-tales-from-earthsea_37933)
 
 ## DTS-HD MA 6.1
 

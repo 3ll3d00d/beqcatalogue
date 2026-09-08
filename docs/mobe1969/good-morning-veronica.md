@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-good-morning-veronica_110115)
+[Compare across authors](../compare/index.md?t=TV-good-morning-veronica_110115)
 
 ## Season 1
 

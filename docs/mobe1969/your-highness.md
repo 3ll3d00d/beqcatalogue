@@ -1,6 +1,6 @@
 # Your Highness
 
-[Compare across authors](../../compare/?t=film-your-highness_38319)
+[Compare across authors](../compare/index.md?t=film-your-highness_38319)
 
 ## DTS-HD MA 5.1
 

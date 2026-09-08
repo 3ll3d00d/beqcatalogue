@@ -1,6 +1,6 @@
 # Running with the Devil
 
-[Compare across authors](../../compare/?t=film-running-with-the-devil_523077)
+[Compare across authors](../compare/index.md?t=film-running-with-the-devil_523077)
 
 ## DTS-HD MA 5.1
 

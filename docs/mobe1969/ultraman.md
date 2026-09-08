@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ultraman_80795)
+[Compare across authors](../compare/index.md?t=TV-ultraman_80795)
 
 ## Season 1
 

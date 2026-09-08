@@ -1,6 +1,6 @@
 # Hard to Kill
 
-[Compare across authors](../../compare/?t=film-hard-to-kill_9569)
+[Compare across authors](../compare/index.md?t=film-hard-to-kill_9569)
 
 ## DTS-HD MA 5.1
 

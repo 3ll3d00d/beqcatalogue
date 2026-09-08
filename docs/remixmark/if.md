@@ -9,7 +9,7 @@ A young girl who goes through a difficult experience begins to see everyone's im
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1473?post_id=63377735#post-63377735)  [TMDB](https://www.themoviedb.org/movie/639720)  [Compare across authors](../../compare/?t=film-if_639720)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1473?post_id=63377735#post-63377735)  [TMDB](https://www.themoviedb.org/movie/639720)  [Compare across authors](../compare/index.md?t=film-if_639720)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/IF%20(2024)%20(%2B4%20gain)%20DD%2B.jpg)

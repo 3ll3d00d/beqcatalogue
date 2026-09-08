@@ -1,6 +1,6 @@
 # District B13
 
-[Compare across authors](../../compare/?t=film-district-b13_10045)
+[Compare across authors](../compare/index.md?t=film-district-b13_10045)
 
 ## DTS-HD MA 5.1
 

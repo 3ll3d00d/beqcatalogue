@@ -9,7 +9,7 @@ When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1468?post_id=63345199#post-63345199)  [TMDB](https://www.themoviedb.org/movie/44896)  [Compare across authors](../../compare/?t=film-rango_44896)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1468?post_id=63345199#post-63345199)  [TMDB](https://www.themoviedb.org/movie/44896)  [Compare across authors](../compare/index.md?t=film-rango_44896)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Rango%20(2011)%20(%2B1%20gain)%20DTS-HD%20MA.jpg)

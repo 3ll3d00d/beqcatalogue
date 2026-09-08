@@ -12,7 +12,7 @@ A New Jersey construction worker goes from regular guy to aspiring spy when his 
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1493?post_id=63493647#post-63493647)  [TMDB](https://www.themoviedb.org/movie/704239)  [Compare across authors](../../compare/?t=film-the-union_704239)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1493?post_id=63493647#post-63493647)  [TMDB](https://www.themoviedb.org/movie/704239)  [Compare across authors](../compare/index.md?t=film-the-union_704239)
 { data-search-exclude }
 
 ![img 0](https://github.com/remixmark/images/blob/main/The%20Union%20(2024)%20(+2%20gain)%20DD+%20Atmos.jpg?raw=true)

@@ -1,6 +1,6 @@
 # Wonder Woman
 
-[Compare across authors](../../compare/?t=film-wonder-woman_297762)
+[Compare across authors](../compare/index.md?t=film-wonder-woman_297762)
 
 ## Atmos
 

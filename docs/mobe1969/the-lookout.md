@@ -1,6 +1,6 @@
 # The Lookout
 
-[Compare across authors](../../compare/?t=film-the-lookout_8270)
+[Compare across authors](../compare/index.md?t=film-the-lookout_8270)
 
 ## LPCM 5.1
 

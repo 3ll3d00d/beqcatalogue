@@ -1,6 +1,6 @@
 # Director's Cut
 
-[Compare across authors](../../compare/?t=film-directors-cut_355536)
+[Compare across authors](../compare/index.md?t=film-directors-cut_355536)
 
 ## DD+ 5.1
 

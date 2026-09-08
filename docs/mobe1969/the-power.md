@@ -1,6 +1,6 @@
 # The Power
 
-[Compare across authors](../../compare/?t=film-the-power_784167)
+[Compare across authors](../compare/index.md?t=film-the-power_784167)
 
 ## DD+ 5.1
 

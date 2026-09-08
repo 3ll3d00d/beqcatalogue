@@ -1,6 +1,6 @@
 # Aankhen
 
-[Compare across authors](../../compare/?t=film-aankhen_21982)
+[Compare across authors](../compare/index.md?t=film-aankhen_21982)
 
 ## DD+ 5.1
 

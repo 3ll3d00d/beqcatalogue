@@ -1,6 +1,6 @@
 # Escape From L.A.
 
-[Compare across authors](../../compare/?t=film-escape-from-la_10061)
+[Compare across authors](../compare/index.md?t=film-escape-from-la_10061)
 
 ## DTS-HD MA 5.1
 

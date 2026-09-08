@@ -1,6 +1,6 @@
 # Student of the Year
 
-[Compare across authors](../../compare/?t=film-student-of-the-year_138122)
+[Compare across authors](../compare/index.md?t=film-student-of-the-year_138122)
 
 ## DD+ 5.1
 

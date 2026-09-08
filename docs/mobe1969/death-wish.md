@@ -1,6 +1,6 @@
 # Death Wish
 
-[Compare across authors](../../compare/?t=film-death-wish_395990)
+[Compare across authors](../compare/index.md?t=film-death-wish_395990)
 
 ## DD+ 5.1
 

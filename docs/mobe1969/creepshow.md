@@ -1,6 +1,6 @@
 # Creepshow
 
-[Compare across authors](../../compare/?t=film-creepshow_16281)
+[Compare across authors](../compare/index.md?t=film-creepshow_16281)
 
 ## TrueHD 5.1
 

@@ -7,7 +7,7 @@
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/284052)  [Compare across authors](../../compare/?t=film-doctor-strange_284052)
+[TMDB](https://www.themoviedb.org/movie/284052)  [Compare across authors](../compare/index.md?t=film-doctor-strange_284052)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Doctor%20Strange/Doctor%20Strange%20(2016)%20Atmos.jpg)

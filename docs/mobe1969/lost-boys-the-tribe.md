@@ -1,6 +1,6 @@
 # Lost Boys: The Tribe
 
-[Compare across authors](../../compare/?t=film-lost-boys-the-tribe_13489)
+[Compare across authors](../compare/index.md?t=film-lost-boys-the-tribe_13489)
 
 ## DD 5.1
 

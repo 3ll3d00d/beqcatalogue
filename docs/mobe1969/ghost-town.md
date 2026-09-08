@@ -1,6 +1,6 @@
 # Ghost Town
 
-[Compare across authors](../../compare/?t=film-ghost-town_12797)
+[Compare across authors](../compare/index.md?t=film-ghost-town_12797)
 
 ## TrueHD 5.1
 

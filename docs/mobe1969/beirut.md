@@ -1,6 +1,6 @@
 # Beirut
 
-[Compare across authors](../../compare/?t=film-beirut_399248)
+[Compare across authors](../compare/index.md?t=film-beirut_399248)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-me_256693)
+* [Compare across authors](../compare/index.md?t=TV-me_256693)
 
 * Production Year: 2024
 

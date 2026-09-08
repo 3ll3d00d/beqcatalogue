@@ -1,6 +1,6 @@
 # Brazen
 
-[Compare across authors](../../compare/?t=film-brazen_916740)
+[Compare across authors](../compare/index.md?t=film-brazen_916740)
 
 ## DD+ Atmos, DD+ 5.1
 

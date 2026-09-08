@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-monsieur-spade_209479)
+* [Compare across authors](../compare/index.md?t=TV-monsieur-spade_209479)
 
 * Production Year: 2024
 

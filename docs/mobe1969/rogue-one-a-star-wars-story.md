@@ -1,6 +1,6 @@
 # Rogue One: A Star Wars Story
 
-[Compare across authors](../../compare/?t=film-rogue-one-a-star-wars-story_330459)
+[Compare across authors](../compare/index.md?t=film-rogue-one-a-star-wars-story_330459)
 
 ## Atmos
 

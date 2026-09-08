@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-criminal-minds_4057)
+* [Compare across authors](../compare/index.md?t=TV-criminal-minds_4057)
 
 * Production Year: 2005
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-criminal-minds_4057)
+* [Compare across authors](../compare/index.md?t=TV-criminal-minds_4057)
 
 * Production Year: 2005
 

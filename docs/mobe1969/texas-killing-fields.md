@@ -1,6 +1,6 @@
 # Texas Killing Fields
 
-[Compare across authors](../../compare/?t=film-texas-killing-fields_72477)
+[Compare across authors](../compare/index.md?t=film-texas-killing-fields_72477)
 
 ## TrueHD 7.1
 

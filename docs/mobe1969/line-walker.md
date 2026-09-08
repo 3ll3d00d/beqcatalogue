@@ -1,6 +1,6 @@
 # Line Walker
 
-[Compare across authors](../../compare/?t=film-line-walker_411268)
+[Compare across authors](../compare/index.md?t=film-line-walker_411268)
 
 ## TrueHD 7.1
 

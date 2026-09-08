@@ -1,6 +1,6 @@
 # The Fall
 
-[Compare across authors](../../compare/?t=film-the-fall_14784)
+[Compare across authors](../compare/index.md?t=film-the-fall_14784)
 
 ## DTS-HD MA 5.1
 

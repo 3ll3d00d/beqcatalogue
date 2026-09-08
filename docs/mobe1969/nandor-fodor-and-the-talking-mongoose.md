@@ -1,6 +1,6 @@
 # Nandor Fodor and the Talking Mongoose
 
-[Compare across authors](../../compare/?t=film-nandor-fodor-and-the-talking-mongoose_979287)
+[Compare across authors](../compare/index.md?t=film-nandor-fodor-and-the-talking-mongoose_979287)
 
 ## DD+ 5.1
 

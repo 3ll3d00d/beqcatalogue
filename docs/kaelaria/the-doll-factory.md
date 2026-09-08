@@ -5,7 +5,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-doll-factory_214191)
+* [Compare across authors](../compare/index.md?t=TV-the-doll-factory_214191)
 
 * Production Year: 2023
 

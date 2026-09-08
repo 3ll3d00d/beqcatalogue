@@ -7,7 +7,7 @@
 A former special forces agent is trapped in a time loop and relives his death over and over again. To escape the terrible situation, he must track down those responsible and stop them.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/513310)  [Compare across authors](../../compare/?t=film-boss-level_513310)
+[TMDB](https://www.themoviedb.org/movie/513310)  [Compare across authors](../compare/index.md?t=film-boss-level_513310)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Boss%20Level/Boss%20Level%20(2021)%20DTS-HD%20MA%205.1.jpg)

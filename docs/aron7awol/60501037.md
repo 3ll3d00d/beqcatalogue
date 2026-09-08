@@ -1,6 +1,6 @@
 # The Swordsman
 
-[Compare across authors](../../compare/?t=film-the-swordsman_492008)
+[Compare across authors](../compare/index.md?t=film-the-swordsman_492008)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Guns of Banaras
 
-[Compare across authors](../../compare/?t=film-guns-of-banaras_678960)
+[Compare across authors](../compare/index.md?t=film-guns-of-banaras_678960)
 
 ## DD+ 5.1
 

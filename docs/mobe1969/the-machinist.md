@@ -1,6 +1,6 @@
 # The Machinist
 
-[Compare across authors](../../compare/?t=film-the-machinist_4553)
+[Compare across authors](../compare/index.md?t=film-the-machinist_4553)
 
 ## TrueHD 5.1
 

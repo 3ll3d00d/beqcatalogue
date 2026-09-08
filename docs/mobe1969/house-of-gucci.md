@@ -1,6 +1,6 @@
 # House of Gucci
 
-[Compare across authors](../../compare/?t=film-house-of-gucci_644495)
+[Compare across authors](../compare/index.md?t=film-house-of-gucci_644495)
 
 ## Atmos, DTS-HD MA 7.1, DTS-HD MA 5.1
 

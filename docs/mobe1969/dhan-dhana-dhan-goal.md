@@ -1,6 +1,6 @@
 # Dhan Dhana Dhan Goal
 
-[Compare across authors](../../compare/?t=film-dhan-dhana-dhan-goal_41511)
+[Compare across authors](../compare/index.md?t=film-dhan-dhana-dhan-goal_41511)
 
 ## DD+ 5.1
 

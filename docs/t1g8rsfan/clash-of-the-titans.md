@@ -12,7 +12,7 @@ Born of a god but raised as a man, Perseus is helpless to save his family from H
 Ultra HD & Standard Blu-Ray - No MV Adjustment on Standard Blu-ray
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63469605/)  [TMDB](https://www.themoviedb.org/movie/18823)  [Compare across authors](../../compare/?t=film-clash-of-the-titans_18823)
+[Discuss](https://www.avsforum.com/posts/63469605/)  [TMDB](https://www.themoviedb.org/movie/18823)  [Compare across authors](../compare/index.md?t=film-clash-of-the-titans_18823)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Clash%20of%20the%20Titans%20(2010)%204K%20(-1%20gain)%20DTS-HD%20MA%205.1.jpg)

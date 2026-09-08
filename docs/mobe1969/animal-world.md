@@ -1,6 +1,6 @@
 # Animal World
 
-[Compare across authors](../../compare/?t=film-animal-world_518764)
+[Compare across authors](../compare/index.md?t=film-animal-world_518764)
 
 ## DD+ 5.1
 

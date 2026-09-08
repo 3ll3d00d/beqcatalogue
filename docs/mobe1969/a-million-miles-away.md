@@ -1,6 +1,6 @@
 # A Million Miles Away
 
-[Compare across authors](../../compare/?t=film-a-million-miles-away_1002185)
+[Compare across authors](../compare/index.md?t=film-a-million-miles-away_1002185)
 
 ## DD+ Atmos, DD+ 5.1
 

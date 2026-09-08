@@ -1,6 +1,6 @@
 # Hollywood Adventures
 
-[Compare across authors](../../compare/?t=film-hollywood-adventures_343059)
+[Compare across authors](../compare/index.md?t=film-hollywood-adventures_343059)
 
 ## DTS-HD MA 5.1
 

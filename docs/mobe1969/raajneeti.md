@@ -1,6 +1,6 @@
 # Raajneeti
 
-[Compare across authors](../../compare/?t=film-raajneeti_37951)
+[Compare across authors](../compare/index.md?t=film-raajneeti_37951)
 
 ## DD+ 5.1
 

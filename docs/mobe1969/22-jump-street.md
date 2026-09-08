@@ -1,6 +1,6 @@
 # 22 Jump Street
 
-[Compare across authors](../../compare/?t=film-22-jump-street_187017)
+[Compare across authors](../compare/index.md?t=film-22-jump-street_187017)
 
 ## Atmos
 

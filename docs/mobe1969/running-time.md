@@ -1,6 +1,6 @@
 # Running Time
 
-[Compare across authors](../../compare/?t=film-running-time_81048)
+[Compare across authors](../compare/index.md?t=film-running-time_81048)
 
 ## DTS-HD MA 2.0
 

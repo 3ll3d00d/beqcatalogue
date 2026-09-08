@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-welcome-to-eden_128010)
+[Compare across authors](../compare/index.md?t=TV-welcome-to-eden_128010)
 
 ## Season 1
 

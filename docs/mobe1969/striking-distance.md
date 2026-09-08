@@ -1,6 +1,6 @@
 # Striking Distance
 
-[Compare across authors](../../compare/?t=film-striking-distance_11074)
+[Compare across authors](../compare/index.md?t=film-striking-distance_11074)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Black Site
 
-[Compare across authors](../../compare/?t=film-black-site_848123)
+[Compare across authors](../compare/index.md?t=film-black-site_848123)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Coin Heist
 
-[Compare across authors](../../compare/?t=film-coin-heist_429238)
+[Compare across authors](../compare/index.md?t=film-coin-heist_429238)
 
 ## DD+ 5.1
 

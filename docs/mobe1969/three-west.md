@@ -1,6 +1,6 @@
 # Three West
 
-[Compare across authors](../../compare/?t=film-three-west_381018)
+[Compare across authors](../compare/index.md?t=film-three-west_381018)
 
 ## DTS-HD MA 5.1
 

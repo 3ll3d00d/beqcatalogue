@@ -1,6 +1,6 @@
 # Look Away
 
-[Compare across authors](../../compare/?t=film-look-away_526051)
+[Compare across authors](../compare/index.md?t=film-look-away_526051)
 
 ## DD+ 5.1
 

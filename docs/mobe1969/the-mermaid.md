@@ -1,6 +1,6 @@
 # The Mermaid
 
-[Compare across authors](../../compare/?t=film-the-mermaid_381890)
+[Compare across authors](../compare/index.md?t=film-the-mermaid_381890)
 
 ## TrueHD 5.1
 

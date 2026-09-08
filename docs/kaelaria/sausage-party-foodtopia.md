@@ -10,7 +10,7 @@ Get ready for sloppy seconds as we follow Frank, Brenda, Barry, and Sammy during
 S01
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1311777)  [Compare across authors](../../compare/?t=film-sausage-party-foodtopia_1311777)
+[TMDB](https://www.themoviedb.org/movie/1311777)  [Compare across authors](../compare/index.md?t=film-sausage-party-foodtopia_1311777)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/SausageParty%20Foodtopia%20(2024)%20S01%20DD%2B.jpg)

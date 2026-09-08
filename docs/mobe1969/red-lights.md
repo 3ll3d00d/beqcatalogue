@@ -1,6 +1,6 @@
 # Red Lights
 
-[Compare across authors](../../compare/?t=film-red-lights_75638)
+[Compare across authors](../compare/index.md?t=film-red-lights_75638)
 
 ## DTS-HD MA 5.1
 

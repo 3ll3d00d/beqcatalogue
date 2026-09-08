@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-good-girls_71715)
+[Compare across authors](../compare/index.md?t=TV-good-girls_71715)
 
 ## Season 1
 

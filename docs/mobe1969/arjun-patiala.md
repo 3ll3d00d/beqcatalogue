@@ -1,6 +1,6 @@
 # Arjun Patiala
 
-[Compare across authors](../../compare/?t=film-arjun-patiala_531601)
+[Compare across authors](../compare/index.md?t=film-arjun-patiala_531601)
 
 ## DD+ 5.1
 

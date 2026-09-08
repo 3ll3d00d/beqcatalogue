@@ -1,6 +1,6 @@
 # Kingmaker
 
-[Compare across authors](../../compare/?t=film-kingmaker_573787)
+[Compare across authors](../compare/index.md?t=film-kingmaker_573787)
 
 ## DTS-HD MA 5.1
 

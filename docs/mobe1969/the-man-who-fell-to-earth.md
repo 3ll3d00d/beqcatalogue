@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-man-who-fell-to-earth_118663)
+[Compare across authors](../compare/index.md?t=TV-the-man-who-fell-to-earth_118663)
 
 ## Season 1
 

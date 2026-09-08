@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-yellowstone_73586)
+* [Compare across authors](../compare/index.md?t=TV-yellowstone_73586)
 
 * Production Year: 2018
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-yellowstone_73586)
+* [Compare across authors](../compare/index.md?t=TV-yellowstone_73586)
 
 * Production Year: 2018
 
@@ -37,7 +37,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-yellowstone_73586)
+* [Compare across authors](../compare/index.md?t=TV-yellowstone_73586)
 
 * Production Year: 2018
 
@@ -52,7 +52,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-yellowstone_73586)
+* [Compare across authors](../compare/index.md?t=TV-yellowstone_73586)
 
 * Production Year: 2018
 
@@ -67,7 +67,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-yellowstone_73586)
+* [Compare across authors](../compare/index.md?t=TV-yellowstone_73586)
 
 * Production Year: 2018
 

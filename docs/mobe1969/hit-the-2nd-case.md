@@ -1,6 +1,6 @@
 # HIT: The 2nd Case
 
-[Compare across authors](../../compare/?t=film-hit-the-2nd-case_811945)
+[Compare across authors](../compare/index.md?t=film-hit-the-2nd-case_811945)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # mother!
 
-[Compare across authors](../../compare/?t=film-mother_381283)
+[Compare across authors](../compare/index.md?t=film-mother_381283)
 
 ## Atmos
 

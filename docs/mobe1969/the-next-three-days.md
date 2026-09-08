@@ -1,6 +1,6 @@
 # The Next Three Days
 
-[Compare across authors](../../compare/?t=film-the-next-three-days_43539)
+[Compare across authors](../compare/index.md?t=film-the-next-three-days_43539)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

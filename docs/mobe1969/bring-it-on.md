@@ -1,6 +1,6 @@
 # Bring It On
 
-[Compare across authors](../../compare/?t=film-bring-it-on_1588)
+[Compare across authors](../compare/index.md?t=film-bring-it-on_1588)
 
 ## DTS-HD MA 5.1
 

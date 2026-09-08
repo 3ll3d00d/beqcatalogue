@@ -1,6 +1,6 @@
 # Mercy
 
-[Compare across authors](../../compare/?t=film-mercy_401060)
+[Compare across authors](../compare/index.md?t=film-mercy_401060)
 
 ## DD+ 5.1
 

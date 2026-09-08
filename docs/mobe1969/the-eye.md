@@ -1,6 +1,6 @@
 # The Eye
 
-[Compare across authors](../../compare/?t=film-the-eye_9030)
+[Compare across authors](../compare/index.md?t=film-the-eye_9030)
 
 ## DTS-HD MA 7.1
 

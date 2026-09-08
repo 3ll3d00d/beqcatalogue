@@ -1,6 +1,6 @@
 # Child's Play
 
-[Compare across authors](../../compare/?t=film-childs-play_533642)
+[Compare across authors](../compare/index.md?t=film-childs-play_533642)
 
 ## DTS-HD MA 5.1
 

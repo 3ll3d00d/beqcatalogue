@@ -9,7 +9,7 @@ During routine manoeuvres near Hawaii in 1980, the aircraft-carrier USS Nimitz i
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1750?post_id=64677453#post-64677453)  [TMDB](https://www.themoviedb.org/movie/8738)  [Compare across authors](../../compare/?t=film-the-final-countdown_8738)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1750?post_id=64677453#post-64677453)  [TMDB](https://www.themoviedb.org/movie/8738)  [Compare across authors](../compare/index.md?t=film-the-final-countdown_8738)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Final%20Countdown%20(1980)%20(%2B4%20gain)%20Atmos.jpg)

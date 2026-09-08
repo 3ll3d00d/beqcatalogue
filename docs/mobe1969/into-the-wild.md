@@ -1,6 +1,6 @@
 # Into The Wild
 
-[Compare across authors](../../compare/?t=film-into-the-wild_5915)
+[Compare across authors](../compare/index.md?t=film-into-the-wild_5915)
 
 ## DTS-HD MA 5.1
 

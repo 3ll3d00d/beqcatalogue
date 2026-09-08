@@ -1,6 +1,6 @@
 # Along with the Gods: The Last 49 Days
 
-[Compare across authors](../../compare/?t=film-along-with-the-gods-the-last-49-days_518068)
+[Compare across authors](../compare/index.md?t=film-along-with-the-gods-the-last-49-days_518068)
 
 ## DTS-X
 

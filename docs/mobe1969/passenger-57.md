@@ -1,6 +1,6 @@
 # Passenger 57
 
-[Compare across authors](../../compare/?t=film-passenger-57_10538)
+[Compare across authors](../compare/index.md?t=film-passenger-57_10538)
 
 ## DTS-HD MA 5.1
 

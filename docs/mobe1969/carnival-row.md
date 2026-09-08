@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-carnival-row_90027)
+[Compare across authors](../compare/index.md?t=TV-carnival-row_90027)
 
 ## Season 1
 

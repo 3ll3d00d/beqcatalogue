@@ -12,7 +12,7 @@ A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist D
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1730?post_id=64550133#post-64550133)  [TMDB](https://www.themoviedb.org/movie/1159831)  [Compare across authors](../../compare/?t=film-the-bride_1159831)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1730?post_id=64550133#post-64550133)  [TMDB](https://www.themoviedb.org/movie/1159831)  [Compare across authors](../compare/index.md?t=film-the-bride_1159831)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Bride!%20(2026)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)

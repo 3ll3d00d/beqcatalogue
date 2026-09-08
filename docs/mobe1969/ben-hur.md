@@ -1,6 +1,6 @@
 # Ben-Hur
 
-[Compare across authors](../../compare/?t=film-ben-hur_271969)
+[Compare across authors](../compare/index.md?t=film-ben-hur_271969)
 
 ## DTS-HD MA 7.1, DD+ 5.1
 

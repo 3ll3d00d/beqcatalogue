@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-transatlantic_195359)
+[Compare across authors](../compare/index.md?t=TV-transatlantic_195359)
 
 ## Season 1
 

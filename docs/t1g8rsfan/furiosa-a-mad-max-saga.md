@@ -12,7 +12,7 @@ As the world fell, young Furiosa is snatched from the Green Place of Many Mother
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63390554/)  [TMDB](https://www.themoviedb.org/movie/786892)  [Compare across authors](../../compare/?t=film-furiosa-a-mad-max-saga_786892)
+[Discuss](https://www.avsforum.com/posts/63390554/)  [TMDB](https://www.themoviedb.org/movie/786892)  [Compare across authors](../compare/index.md?t=film-furiosa-a-mad-max-saga_786892)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Furiosa%20(2024)%20(-1%20gain)%20DD%2B%20Atmos.jpg)

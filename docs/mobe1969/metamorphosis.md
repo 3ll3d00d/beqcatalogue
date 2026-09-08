@@ -1,6 +1,6 @@
 # Metamorphosis
 
-[Compare across authors](../../compare/?t=film-metamorphosis_581531)
+[Compare across authors](../compare/index.md?t=film-metamorphosis_581531)
 
 ## DTS-HD MA 5.1
 

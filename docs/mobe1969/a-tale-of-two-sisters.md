@@ -1,6 +1,6 @@
 # A Tale of Two Sisters
 
-[Compare across authors](../../compare/?t=film-a-tale-of-two-sisters_4552)
+[Compare across authors](../compare/index.md?t=film-a-tale-of-two-sisters_4552)
 
 ## DTS-HD MA 5.1
 

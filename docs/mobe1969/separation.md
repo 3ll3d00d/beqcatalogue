@@ -1,6 +1,6 @@
 # Separation
 
-[Compare across authors](../../compare/?t=film-separation_760195)
+[Compare across authors](../compare/index.md?t=film-separation_760195)
 
 ## DD+ 5.1
 

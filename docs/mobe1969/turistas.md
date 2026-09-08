@@ -1,6 +1,6 @@
 # Turistas
 
-[Compare across authors](../../compare/?t=film-turistas_9796)
+[Compare across authors](../compare/index.md?t=film-turistas_9796)
 
 ## DTS-HD MA 5.1
 

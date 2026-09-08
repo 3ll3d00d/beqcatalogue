@@ -1,6 +1,6 @@
 # The Titan
 
-[Compare across authors](../../compare/?t=film-the-titan_476926)
+[Compare across authors](../compare/index.md?t=film-the-titan_476926)
 
 ## DD+ 5.1
 

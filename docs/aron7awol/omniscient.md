@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-omniscient_98510)
+[Compare across authors](../compare/index.md?t=TV-omniscient_98510)
 
 ## Season 1
 

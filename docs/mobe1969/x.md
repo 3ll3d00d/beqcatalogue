@@ -1,6 +1,6 @@
 # X
 
-[Compare across authors](../../compare/?t=film-x_760104)
+[Compare across authors](../compare/index.md?t=film-x_760104)
 
 ## Atmos
 

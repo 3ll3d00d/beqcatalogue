@@ -1,6 +1,6 @@
 # Sakra
 
-[Compare across authors](../../compare/?t=film-sakra_990140)
+[Compare across authors](../compare/index.md?t=film-sakra_990140)
 
 ## Atmos, TrueHD 7.1, DTS-HD MA 5.1
 

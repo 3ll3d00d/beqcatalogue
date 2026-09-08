@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-we-are-the-wave_94660)
+[Compare across authors](../compare/index.md?t=TV-we-are-the-wave_94660)
 
 ## Season 1
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-grotesquerie_247518)
+* [Compare across authors](../compare/index.md?t=TV-grotesquerie_247518)
 
 * Production Year: 2024
 

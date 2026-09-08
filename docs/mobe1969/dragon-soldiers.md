@@ -1,6 +1,6 @@
 # Dragon Soldiers
 
-[Compare across authors](../../compare/?t=film-dragon-soldiers_702691)
+[Compare across authors](../compare/index.md?t=film-dragon-soldiers_702691)
 
 ## DTS-HD MA 5.1
 

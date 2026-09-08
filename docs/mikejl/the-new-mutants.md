@@ -7,7 +7,7 @@
 Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/340102)  [Compare across authors](../../compare/?t=film-the-new-mutants_340102)
+[TMDB](https://www.themoviedb.org/movie/340102)  [Compare across authors](../compare/index.md?t=film-the-new-mutants_340102)
 { data-search-exclude }
 
 ![img 0](https://github.com/MikejLarson/Images/blob/main/T/The%20New%20Mutants/The%20New%20Mutants%20(2020)%20Atmos.jpg)

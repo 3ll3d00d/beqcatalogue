@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-insatiable_80743)
+[Compare across authors](../compare/index.md?t=TV-insatiable_80743)
 
 ## Season 1
 

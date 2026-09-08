@@ -9,7 +9,7 @@ A hitman, his boss, an art dealer and a money-laundering scheme that accidentall
 
 **MV Adjustment:** +7.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62932143)  [TMDB](https://www.themoviedb.org/movie/958006)  [Compare across authors](../../compare/?t=film-the-kill-room_958006)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62932143)  [TMDB](https://www.themoviedb.org/movie/958006)  [Compare across authors](../compare/index.md?t=film-the-kill-room_958006)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Kill%20Room%20(2023)%20DDP%205.1%20PvA.jpg)

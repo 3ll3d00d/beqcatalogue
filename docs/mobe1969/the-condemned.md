@@ -1,6 +1,6 @@
 # The Condemned
 
-[Compare across authors](../../compare/?t=film-the-condemned_14636)
+[Compare across authors](../compare/index.md?t=film-the-condemned_14636)
 
 ## DTS-HD HR 7.1
 

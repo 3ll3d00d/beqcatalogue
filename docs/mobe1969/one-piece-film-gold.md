@@ -1,6 +1,6 @@
 # One Piece Film: GOLD
 
-[Compare across authors](../../compare/?t=film-one-piece-film-gold_374205)
+[Compare across authors](../compare/index.md?t=film-one-piece-film-gold_374205)
 
 ## DD+ 5.1
 

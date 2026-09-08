@@ -1,6 +1,6 @@
 # Santana
 
-[Compare across authors](../../compare/?t=film-santana_734309)
+[Compare across authors](../compare/index.md?t=film-santana_734309)
 
 ## DD+ 5.1
 

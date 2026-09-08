@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-brooklyn-nine-nine_48891)
+[Compare across authors](../compare/index.md?t=TV-brooklyn-nine-nine_48891)
 
 ## Season 8
 

@@ -1,6 +1,6 @@
 # X-Men: First Class
 
-[Compare across authors](../../compare/?t=film-x-men-first-class_49538)
+[Compare across authors](../compare/index.md?t=film-x-men-first-class_49538)
 
 ## DTS-HD MA 5.1
 

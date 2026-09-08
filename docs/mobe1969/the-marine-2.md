@@ -1,6 +1,6 @@
 # The Marine 2
 
-[Compare across authors](../../compare/?t=film-the-marine-2_27310)
+[Compare across authors](../compare/index.md?t=film-the-marine-2_27310)
 
 ## DTS-HD MA 5.1
 

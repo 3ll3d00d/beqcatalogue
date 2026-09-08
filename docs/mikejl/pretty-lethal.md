@@ -7,7 +7,7 @@
 A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1084187)  [Compare across authors](../../compare/?t=film-pretty-lethal_1084187)
+[TMDB](https://www.themoviedb.org/movie/1084187)  [Compare across authors](../compare/index.md?t=film-pretty-lethal_1084187)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Pretty%20Lethal/Pretty%20Lethal%20(2026)%20DD%2B%20Atmos.jpg)

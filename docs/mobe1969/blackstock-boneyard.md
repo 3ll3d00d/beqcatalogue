@@ -1,6 +1,6 @@
 # Blackstock Boneyard
 
-[Compare across authors](../../compare/?t=film-blackstock-boneyard_835292)
+[Compare across authors](../compare/index.md?t=film-blackstock-boneyard_835292)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Braveheart
 
-[Compare across authors](../../compare/?t=film-braveheart_197)
+[Compare across authors](../compare/index.md?t=film-braveheart_197)
 
 ## Atmos
 

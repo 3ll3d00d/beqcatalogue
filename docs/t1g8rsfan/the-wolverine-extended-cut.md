@@ -6,7 +6,7 @@
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63109737/)  [Compare across authors](../../compare/?t=film-the-wolverine-extended-cut_2013)
+[Discuss](https://www.avsforum.com/posts/63109737/)  [Compare across authors](../compare/index.md?t=film-the-wolverine-extended-cut_2013)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Wolverine%20(2013)%20Extended%20(-2%20gain)%20DTS-HD%20MA%207.1.jpg)

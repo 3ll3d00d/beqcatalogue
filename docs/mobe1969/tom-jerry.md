@@ -1,6 +1,6 @@
 # Tom & Jerry
 
-[Compare across authors](../../compare/?t=film-tom-jerry_587807)
+[Compare across authors](../compare/index.md?t=film-tom-jerry_587807)
 
 ## Atmos
 

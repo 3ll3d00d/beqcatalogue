@@ -1,6 +1,6 @@
 # Dead Silence
 
-[Compare across authors](../../compare/?t=film-dead-silence_14001)
+[Compare across authors](../compare/index.md?t=film-dead-silence_14001)
 
 ## DTS-HD MA 5.1
 

@@ -12,7 +12,7 @@
 Dialnorm Compensation: E01 +6dB; E02-E03 +5dB; E04 0dB; E06 +4dB; E07 +5dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-the-terminal-list-dark-wolf_219760)
+* [Compare across authors](../compare/index.md?t=TV-the-terminal-list-dark-wolf_219760)
 
 * Production Year: 2025
 
@@ -30,7 +30,7 @@ Dialnorm Compensation: E01 +6dB; E02-E03 +5dB; E04 0dB; E06 +4dB; E07 +5dB
 Dialnorm Compensation: +6dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-the-terminal-list-dark-wolf_219760)
+* [Compare across authors](../compare/index.md?t=TV-the-terminal-list-dark-wolf_219760)
 
 * Production Year: 2025
 

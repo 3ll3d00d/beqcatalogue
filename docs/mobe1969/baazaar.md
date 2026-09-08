@@ -1,6 +1,6 @@
 # Baazaar
 
-[Compare across authors](../../compare/?t=film-baazaar_556907)
+[Compare across authors](../compare/index.md?t=film-baazaar_556907)
 
 ## DD+ 5.1
 

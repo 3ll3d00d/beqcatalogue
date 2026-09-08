@@ -1,6 +1,6 @@
 # I Want You Back
 
-[Compare across authors](../../compare/?t=film-i-want-you-back_680860)
+[Compare across authors](../compare/index.md?t=film-i-want-you-back_680860)
 
 ## DD+ 5.1
 

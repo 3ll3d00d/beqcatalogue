@@ -1,6 +1,6 @@
 # The Prophecy II
 
-[Compare across authors](../../compare/?t=film-the-prophecy-ii_9033)
+[Compare across authors](../compare/index.md?t=film-the-prophecy-ii_9033)
 
 ## DTS-HD MA 2.0
 

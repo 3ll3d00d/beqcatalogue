@@ -1,6 +1,6 @@
 # Berlin Syndrome
 
-[Compare across authors](../../compare/?t=film-berlin-syndrome_363126)
+[Compare across authors](../compare/index.md?t=film-berlin-syndrome_363126)
 
 ## DTS-HD MA 5.1
 

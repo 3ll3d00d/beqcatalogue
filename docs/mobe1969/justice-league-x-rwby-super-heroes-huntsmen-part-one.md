@@ -1,6 +1,6 @@
 # Justice League x RWBY: Super Heroes & Huntsmen, Part One
 
-[Compare across authors](../../compare/?t=film-justice-league-x-rwby-super-heroes-huntsmen-part-one_997776)
+[Compare across authors](../compare/index.md?t=film-justice-league-x-rwby-super-heroes-huntsmen-part-one_997776)
 
 ## DTS-HD 5.1
 

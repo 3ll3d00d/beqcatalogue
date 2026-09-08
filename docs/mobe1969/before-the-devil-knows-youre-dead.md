@@ -1,6 +1,6 @@
 # Before the Devil Knows You're Dead
 
-[Compare across authors](../../compare/?t=film-before-the-devil-knows-youre-dead_7972)
+[Compare across authors](../compare/index.md?t=film-before-the-devil-knows-youre-dead_7972)
 
 ## DTS-HD MA 5.1
 

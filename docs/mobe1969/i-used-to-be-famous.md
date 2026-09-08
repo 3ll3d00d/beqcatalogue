@@ -1,6 +1,6 @@
 # I Used to Be Famous
 
-[Compare across authors](../../compare/?t=film-i-used-to-be-famous_1013228)
+[Compare across authors](../compare/index.md?t=film-i-used-to-be-famous_1013228)
 
 ## DD+ Atmos
 

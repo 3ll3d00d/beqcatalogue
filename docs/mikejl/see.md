@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-see_80752)
+* [Compare across authors](../compare/index.md?t=TV-see_80752)
 
 * Production Year: 2019
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-see_80752)
+* [Compare across authors](../compare/index.md?t=TV-see_80752)
 
 * Production Year: 2019
 
@@ -37,7 +37,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-see_80752)
+* [Compare across authors](../compare/index.md?t=TV-see_80752)
 
 * Production Year: 2019
 

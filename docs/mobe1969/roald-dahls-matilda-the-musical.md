@@ -1,6 +1,6 @@
 # Roald Dahl's Matilda The Musical
 
-[Compare across authors](../../compare/?t=film-roald-dahls-matilda-the-musical_668482)
+[Compare across authors](../compare/index.md?t=film-roald-dahls-matilda-the-musical_668482)
 
 ## DD+ Atmos
 

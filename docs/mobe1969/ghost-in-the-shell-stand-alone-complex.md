@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ghost-in-the-shell-stand-alone-complex_1095)
+[Compare across authors](../compare/index.md?t=TV-ghost-in-the-shell-stand-alone-complex_1095)
 
 ## Season 1
 

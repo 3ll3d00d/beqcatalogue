@@ -1,6 +1,6 @@
 # Pet Sematary: Bloodlines
 
-[Compare across authors](../../compare/?t=film-pet-sematary-bloodlines_830764)
+[Compare across authors](../compare/index.md?t=film-pet-sematary-bloodlines_830764)
 
 ## DD+ Atmos
 

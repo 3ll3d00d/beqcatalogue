@@ -1,6 +1,6 @@
 # Crimson Tide
 
-[Compare across authors](../../compare/?t=film-crimson-tide_8963)
+[Compare across authors](../compare/index.md?t=film-crimson-tide_8963)
 
 ## LPCM 5.1
 

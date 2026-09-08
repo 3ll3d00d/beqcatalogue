@@ -1,6 +1,6 @@
 # RED
 
-[Compare across authors](../../compare/?t=film-red_39514)
+[Compare across authors](../compare/index.md?t=film-red_39514)
 
 ## Atmos
 

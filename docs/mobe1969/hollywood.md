@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-hollywood_87050)
+[Compare across authors](../compare/index.md?t=TV-hollywood_87050)
 
 ## Season 1
 

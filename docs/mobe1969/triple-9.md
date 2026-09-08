@@ -1,6 +1,6 @@
 # Triple 9
 
-[Compare across authors](../../compare/?t=film-triple-9_146198)
+[Compare across authors](../compare/index.md?t=film-triple-9_146198)
 
 ## DTS-HD MA 5.1
 

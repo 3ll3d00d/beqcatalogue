@@ -1,6 +1,6 @@
 # Pathu Thala
 
-[Compare across authors](../../compare/?t=film-pathu-thala_882392)
+[Compare across authors](../compare/index.md?t=film-pathu-thala_882392)
 
 ## DD+ 5.1
 

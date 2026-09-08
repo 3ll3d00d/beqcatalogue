@@ -1,6 +1,6 @@
 # That Demon Within
 
-[Compare across authors](../../compare/?t=film-that-demon-within_253622)
+[Compare across authors](../compare/index.md?t=film-that-demon-within_253622)
 
 ## DD+ 5.1
 

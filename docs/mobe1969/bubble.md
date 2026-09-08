@@ -1,6 +1,6 @@
 # Bubble
 
-[Compare across authors](../../compare/?t=film-bubble_912598)
+[Compare across authors](../compare/index.md?t=film-bubble_912598)
 
 ## DD+ 5.1
 

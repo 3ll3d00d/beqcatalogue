@@ -1,6 +1,6 @@
 # The Machine
 
-[Compare across authors](../../compare/?t=film-the-machine_647250)
+[Compare across authors](../compare/index.md?t=film-the-machine_647250)
 
 ## DD+ 5.1
 

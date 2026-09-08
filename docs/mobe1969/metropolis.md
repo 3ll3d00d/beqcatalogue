@@ -1,6 +1,6 @@
 # Metropolis
 
-[Compare across authors](../../compare/?t=film-metropolis_9606)
+[Compare across authors](../compare/index.md?t=film-metropolis_9606)
 
 ## DTS-HD MA 5.1
 

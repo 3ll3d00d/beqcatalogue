@@ -1,6 +1,6 @@
 # Beau Is Afraid
 
-[Compare across authors](../../compare/?t=film-beau-is-afraid_798286)
+[Compare across authors](../compare/index.md?t=film-beau-is-afraid_798286)
 
 ## DTS-HD MA 7.1
 

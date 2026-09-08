@@ -7,7 +7,7 @@
 Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/558449)  [Compare across authors](../../compare/?t=film-gladiator-ii_558449)
+[TMDB](https://www.themoviedb.org/movie/558449)  [Compare across authors](../compare/index.md?t=film-gladiator-ii_558449)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Gladiator%20II%20(2024)%20TrueHD%20Atmos.jpg)
@@ -21,7 +21,7 @@ Years after witnessing the death of the revered hero Maximus at the hands of his
 Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/558449)  [Compare across authors](../../compare/?t=film-gladiator-ii_558449)
+[TMDB](https://www.themoviedb.org/movie/558449)  [Compare across authors](../compare/index.md?t=film-gladiator-ii_558449)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Gladiator%20II%20(2024)%20DD%2B%20Atmos.jpg)

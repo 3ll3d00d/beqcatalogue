@@ -1,6 +1,6 @@
 # 3:10 to Yuma
 
-[Compare across authors](../../compare/?t=film-310-to-yuma_5176)
+[Compare across authors](../compare/index.md?t=film-310-to-yuma_5176)
 
 ## DTS-X
 

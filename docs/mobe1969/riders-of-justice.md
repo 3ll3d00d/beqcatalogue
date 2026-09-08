@@ -1,6 +1,6 @@
 # Riders of Justice
 
-[Compare across authors](../../compare/?t=film-riders-of-justice_663870)
+[Compare across authors](../compare/index.md?t=film-riders-of-justice_663870)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

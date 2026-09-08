@@ -1,6 +1,6 @@
 # Close Enemies
 
-[Compare across authors](../../compare/?t=film-close-enemies_484901)
+[Compare across authors](../compare/index.md?t=film-close-enemies_484901)
 
 ## DD+ 5.1
 

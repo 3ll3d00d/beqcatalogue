@@ -1,6 +1,6 @@
 # Son
 
-[Compare across authors](../../compare/?t=film-son_754934)
+[Compare across authors](../compare/index.md?t=film-son_754934)
 
 ## DTS-HD MA 5.1
 

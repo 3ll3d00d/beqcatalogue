@@ -1,6 +1,6 @@
 # Karaoke Crazies
 
-[Compare across authors](../../compare/?t=film-karaoke-crazies_381067)
+[Compare across authors](../compare/index.md?t=film-karaoke-crazies_381067)
 
 ## TrueHD 5.1
 

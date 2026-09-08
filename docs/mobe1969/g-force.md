@@ -1,6 +1,6 @@
 # G-Force
 
-[Compare across authors](../../compare/?t=film-g-force_19585)
+[Compare across authors](../compare/index.md?t=film-g-force_19585)
 
 ## DTS-HD MA 5.1
 

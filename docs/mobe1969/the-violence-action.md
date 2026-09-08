@@ -1,6 +1,6 @@
 # The Violence Action
 
-[Compare across authors](../../compare/?t=film-the-violence-action_961327)
+[Compare across authors](../compare/index.md?t=film-the-violence-action_961327)
 
 ## DD+ 5.1
 

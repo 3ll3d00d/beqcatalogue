@@ -1,6 +1,6 @@
 # Shadow in the Cloud
 
-[Compare across authors](../../compare/?t=film-shadow-in-the-cloud_675327)
+[Compare across authors](../compare/index.md?t=film-shadow-in-the-cloud_675327)
 
 ## DTS-HD MA 5.1
 

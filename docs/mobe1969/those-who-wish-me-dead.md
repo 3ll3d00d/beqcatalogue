@@ -1,6 +1,6 @@
 # Those Who Wish Me Dead
 
-[Compare across authors](../../compare/?t=film-those-who-wish-me-dead_578701)
+[Compare across authors](../compare/index.md?t=film-those-who-wish-me-dead_578701)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

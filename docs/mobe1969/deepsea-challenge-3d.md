@@ -1,6 +1,6 @@
 # Deepsea Challenge 3D
 
-[Compare across authors](../../compare/?t=film-deepsea-challenge-3d_276909)
+[Compare across authors](../compare/index.md?t=film-deepsea-challenge-3d_276909)
 
 ## DTS-HD MA 5.1
 

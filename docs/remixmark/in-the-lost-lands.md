@@ -9,7 +9,7 @@ A queen sends the powerful and feared sorceress Gray Alys to the ghostly wildern
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63937994#post-63937994)  [TMDB](https://www.themoviedb.org/movie/324544)  [Compare across authors](../../compare/?t=film-in-the-lost-lands_324544)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63937994#post-63937994)  [TMDB](https://www.themoviedb.org/movie/324544)  [Compare across authors](../compare/index.md?t=film-in-the-lost-lands_324544)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/In%20the%20Lost%20Lands%20(2025)%20(%2B1.5%20gain)%20DD%2B.jpg)

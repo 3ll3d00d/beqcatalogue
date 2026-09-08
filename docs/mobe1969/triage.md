@@ -1,6 +1,6 @@
 # Triage
 
-[Compare across authors](../../compare/?t=film-triage_33195)
+[Compare across authors](../compare/index.md?t=film-triage_33195)
 
 ## DTS-HD MA 5.1
 

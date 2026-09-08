@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-who-killed-sara_120168)
+[Compare across authors](../compare/index.md?t=TV-who-killed-sara_120168)
 
 ## Season 1
 

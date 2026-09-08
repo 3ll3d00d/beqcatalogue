@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-jekyll-and-hyde_47224)
+* [Compare across authors](../compare/index.md?t=TV-jekyll-and-hyde_47224)
 
 * Production Year: 2015
 

@@ -1,6 +1,6 @@
 # The Day of the Lord
 
-[Compare across authors](../../compare/?t=film-the-day-of-the-lord_676844)
+[Compare across authors](../compare/index.md?t=film-the-day-of-the-lord_676844)
 
 ## DD+ Atmos
 

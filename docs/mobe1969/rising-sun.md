@@ -1,6 +1,6 @@
 # Rising Sun
 
-[Compare across authors](../../compare/?t=film-rising-sun_7007)
+[Compare across authors](../compare/index.md?t=film-rising-sun_7007)
 
 ## DTS-HD MA 5.1
 

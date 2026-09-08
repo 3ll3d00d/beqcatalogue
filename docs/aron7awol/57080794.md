@@ -1,6 +1,6 @@
 # Law Abiding Citizen
 
-[Compare across authors](../../compare/?t=film-law-abiding-citizen_22803)
+[Compare across authors](../compare/index.md?t=film-law-abiding-citizen_22803)
 
 ## Atmos
 

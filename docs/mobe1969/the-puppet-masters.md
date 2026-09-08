@@ -1,6 +1,6 @@
 # The Puppet Masters
 
-[Compare across authors](../../compare/?t=film-the-puppet-masters_25557)
+[Compare across authors](../compare/index.md?t=film-the-puppet-masters_25557)
 
 ## DTS-HD MA 5.1
 

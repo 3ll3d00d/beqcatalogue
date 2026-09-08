@@ -1,6 +1,6 @@
 # The Dark Crystal
 
-[Compare across authors](../../compare/?t=film-the-dark-crystal_11639)
+[Compare across authors](../compare/index.md?t=film-the-dark-crystal_11639)
 
 ## Atmos
 

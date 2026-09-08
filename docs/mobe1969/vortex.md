@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-vortex_206344)
+[Compare across authors](../compare/index.md?t=TV-vortex_206344)
 
 ## Season 1
 

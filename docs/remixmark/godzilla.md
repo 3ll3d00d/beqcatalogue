@@ -12,7 +12,7 @@ Ford Brody, a Navy bomb expert, has just reunited with his family in San Francis
 Dialnorm Compensation: +4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1473?post_id=63376324#post-63376324)  [TMDB](https://www.themoviedb.org/movie/124905)  [Compare across authors](../../compare/?t=film-godzilla_124905)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1473?post_id=63376324#post-63376324)  [TMDB](https://www.themoviedb.org/movie/124905)  [Compare across authors](../compare/index.md?t=film-godzilla_124905)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20(2014)%20(-2.5%20gain)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # Justice League vs. the Fatal Five
 
-[Compare across authors](../../compare/?t=film-justice-league-vs-the-fatal-five_537059)
+[Compare across authors](../compare/index.md?t=film-justice-league-vs-the-fatal-five_537059)
 
 ## DTS-HD MA 5.1
 

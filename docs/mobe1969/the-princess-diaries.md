@@ -1,6 +1,6 @@
 # The Princess Diaries
 
-[Compare across authors](../../compare/?t=film-the-princess-diaries_9880)
+[Compare across authors](../compare/index.md?t=film-the-princess-diaries_9880)
 
 ## DTS-HD MA 5.1
 

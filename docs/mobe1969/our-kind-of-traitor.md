@@ -1,6 +1,6 @@
 # Our Kind of Traitor
 
-[Compare across authors](../../compare/?t=film-our-kind-of-traitor_205588)
+[Compare across authors](../compare/index.md?t=film-our-kind-of-traitor_205588)
 
 ## DTS-HD MA 5.1
 

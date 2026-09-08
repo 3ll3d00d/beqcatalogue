@@ -1,6 +1,6 @@
 # Emperor
 
-[Compare across authors](../../compare/?t=film-emperor_666219)
+[Compare across authors](../compare/index.md?t=film-emperor_666219)
 
 ## DD+ 5.1
 

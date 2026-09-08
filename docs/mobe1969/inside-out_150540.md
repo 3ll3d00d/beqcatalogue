@@ -1,6 +1,6 @@
 # Inside Out
 
-[Compare across authors](../../compare/?t=film-inside-out_150540)
+[Compare across authors](../compare/index.md?t=film-inside-out_150540)
 
 ## Atmos, DTS-HD MA 7.1
 

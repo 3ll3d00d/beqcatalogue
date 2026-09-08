@@ -12,7 +12,7 @@ The fifth and final installment to Jackass franchise where the crew go on one la
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1765?post_id=64750247#post-64750247)  [TMDB](https://www.themoviedb.org/movie/1612018)  [Compare across authors](../../compare/?t=film-jackass-best-and-last_1612018)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1765?post_id=64750247#post-64750247)  [TMDB](https://www.themoviedb.org/movie/1612018)  [Compare across authors](../compare/index.md?t=film-jackass-best-and-last_1612018)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jackass%20Best%20and%20Last%20(2026)%20(%2B4.5%20gain)%20DD%2B.jpg)

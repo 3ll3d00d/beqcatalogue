@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-butterfly_227114)
+* [Compare across authors](../compare/index.md?t=TV-butterfly_227114)
 
 * Production Year: 2025
 

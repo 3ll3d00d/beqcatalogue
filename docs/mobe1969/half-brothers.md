@@ -1,6 +1,6 @@
 # Half Brothers
 
-[Compare across authors](../../compare/?t=film-half-brothers_652962)
+[Compare across authors](../compare/index.md?t=film-half-brothers_652962)
 
 ## DD+ 5.1
 

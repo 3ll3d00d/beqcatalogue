@@ -12,7 +12,7 @@ Fresh off an almost career-ending accident, stuntman Colt Seavers has to track d
 +6dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63322862/)  [TMDB](https://www.themoviedb.org/movie/746036)  [Compare across authors](../../compare/?t=film-the-fall-guy_746036)
+[Discuss](https://www.avsforum.com/posts/63322862/)  [TMDB](https://www.themoviedb.org/movie/746036)  [Compare across authors](../compare/index.md?t=film-the-fall-guy_746036)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Fall%20Guy%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

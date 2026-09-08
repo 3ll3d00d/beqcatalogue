@@ -9,7 +9,7 @@ In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fa
 
 **MV Adjustment:** -3.0 dB
 
-[Discuss](https://www.avsforum.com/posts/62776970/)  [TMDB](https://www.themoviedb.org/movie/96721)  [Compare across authors](../../compare/?t=film-rush_96721)
+[Discuss](https://www.avsforum.com/posts/62776970/)  [TMDB](https://www.themoviedb.org/movie/96721)  [Compare across authors](../compare/index.md?t=film-rush_96721)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Rush%20(2013)%20(-3%20gain)%20Atmos.jpg)
@@ -25,7 +25,7 @@ A biographical drama centered on the rivalry between Formula 1 drivers James Hun
 
 **MV Adjustment:** -4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62776970)  [TMDB](https://www.themoviedb.org/movie/96721)  [Compare across authors](../../compare/?t=film-rush_96721)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62776970)  [TMDB](https://www.themoviedb.org/movie/96721)  [Compare across authors](../compare/index.md?t=film-rush_96721)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Rush%20(2013)%20(-4%20gain)%20DTS-HD%20MA%205.1.jpg)

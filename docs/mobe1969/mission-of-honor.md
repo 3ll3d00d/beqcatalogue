@@ -1,6 +1,6 @@
 # Mission of Honor
 
-[Compare across authors](../../compare/?t=film-mission-of-honor_335788)
+[Compare across authors](../compare/index.md?t=film-mission-of-honor_335788)
 
 ## DTS-HD MA 5.1
 

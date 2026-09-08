@@ -1,6 +1,6 @@
 # Spy Kids All the Time in the World
 
-[Compare across authors](../../compare/?t=film-spy-kids-all-the-time-in-the-world_56288)
+[Compare across authors](../compare/index.md?t=film-spy-kids-all-the-time-in-the-world_56288)
 
 ## DTS-HD MA 5.1
 

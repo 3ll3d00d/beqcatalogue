@@ -1,6 +1,6 @@
 # A Man Apart
 
-[Compare across authors](../../compare/?t=film-a-man-apart_8409)
+[Compare across authors](../compare/index.md?t=film-a-man-apart_8409)
 
 ## DTS-HD MA 5.1
 

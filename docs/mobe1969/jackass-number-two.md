@@ -1,6 +1,6 @@
 # Jackass Number Two
 
-[Compare across authors](../../compare/?t=film-jackass-number-two_12094)
+[Compare across authors](../compare/index.md?t=film-jackass-number-two_12094)
 
 ## DD+ 5.1
 

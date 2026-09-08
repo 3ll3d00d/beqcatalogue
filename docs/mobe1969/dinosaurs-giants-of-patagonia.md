@@ -1,6 +1,6 @@
 # Dinosaurs: Giants of Patagonia
 
-[Compare across authors](../../compare/?t=film-dinosaurs-giants-of-patagonia_53264)
+[Compare across authors](../compare/index.md?t=film-dinosaurs-giants-of-patagonia_53264)
 
 ## DTS-HD MA 5.1
 

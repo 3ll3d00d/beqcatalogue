@@ -14,7 +14,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1524?post_id=63623238#post-63623238)
 
-* [Compare across authors](../../compare/?t=TV-teacup_247721)
+* [Compare across authors](../compare/index.md?t=TV-teacup_247721)
 
 * Production Year: 2024
 
@@ -33,7 +33,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1524?post_id=63623256#post-63623256)
 
-* [Compare across authors](../../compare/?t=TV-teacup_247721)
+* [Compare across authors](../compare/index.md?t=TV-teacup_247721)
 
 * Production Year: 2024
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-queen-sono_96676)
+[Compare across authors](../compare/index.md?t=TV-queen-sono_96676)
 
 ## Season 1
 

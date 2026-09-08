@@ -1,6 +1,6 @@
 # Sye Raa Narasimha Reddy
 
-[Compare across authors](../../compare/?t=film-sye-raa-narasimha-reddy_496495)
+[Compare across authors](../compare/index.md?t=film-sye-raa-narasimha-reddy_496495)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Tunnel Rats
 
-[Compare across authors](../../compare/?t=film-tunnel-rats_20181)
+[Compare across authors](../compare/index.md?t=film-tunnel-rats_20181)
 
 ## DTS-HD HR 5.1
 

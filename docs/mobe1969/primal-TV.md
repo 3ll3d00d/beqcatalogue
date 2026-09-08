@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-primal_89456)
+[Compare across authors](../compare/index.md?t=TV-primal_89456)
 
 ## Season 2
 

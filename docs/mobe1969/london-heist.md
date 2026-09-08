@@ -1,6 +1,6 @@
 # London Heist
 
-[Compare across authors](../../compare/?t=film-london-heist_453759)
+[Compare across authors](../compare/index.md?t=film-london-heist_453759)
 
 ## DTS-HD MA 5.1
 

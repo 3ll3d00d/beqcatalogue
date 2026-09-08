@@ -1,6 +1,6 @@
 # Battle Drone
 
-[Compare across authors](../../compare/?t=film-battle-drone_508648)
+[Compare across authors](../compare/index.md?t=film-battle-drone_508648)
 
 ## DD+ 5.1
 

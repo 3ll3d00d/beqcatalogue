@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-hijack_198102)
+* [Compare across authors](../compare/index.md?t=TV-hijack_198102)
 
 * Production Year: 2023
 

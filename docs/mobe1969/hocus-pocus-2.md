@@ -1,6 +1,6 @@
 # Hocus Pocus 2
 
-[Compare across authors](../../compare/?t=film-hocus-pocus-2_642885)
+[Compare across authors](../compare/index.md?t=film-hocus-pocus-2_642885)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Shadow In My Eye
 
-[Compare across authors](../../compare/?t=film-the-shadow-in-my-eye_650031)
+[Compare across authors](../compare/index.md?t=film-the-shadow-in-my-eye_650031)
 
 ## DD+ 5.1
 

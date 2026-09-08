@@ -1,6 +1,6 @@
 # Transfusion
 
-[Compare across authors](../../compare/?t=film-transfusion_842544)
+[Compare across authors](../compare/index.md?t=film-transfusion_842544)
 
 ## DTS-HD MA 5.1
 

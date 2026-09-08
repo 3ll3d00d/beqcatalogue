@@ -1,6 +1,6 @@
 # The A-Team
 
-[Compare across authors](../../compare/?t=film-the-a-team_34544)
+[Compare across authors](../compare/index.md?t=film-the-a-team_34544)
 
 ## DTS-HD MA 5.1
 

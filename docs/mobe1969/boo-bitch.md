@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-boo-bitch_132188)
+[Compare across authors](../compare/index.md?t=TV-boo-bitch_132188)
 
 ## Season 1
 

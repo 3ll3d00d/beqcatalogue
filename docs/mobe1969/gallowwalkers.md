@@ -1,6 +1,6 @@
 # Gallowwalkers
 
-[Compare across authors](../../compare/?t=film-gallowwalkers_46429)
+[Compare across authors](../compare/index.md?t=film-gallowwalkers_46429)
 
 ## DTS-HD MA 5.1
 

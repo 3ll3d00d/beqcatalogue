@@ -1,6 +1,6 @@
 # Manikarnika: The Queen of Jhansi
 
-[Compare across authors](../../compare/?t=film-manikarnika-the-queen-of-jhansi_491622)
+[Compare across authors](../compare/index.md?t=film-manikarnika-the-queen-of-jhansi_491622)
 
 ## DD+ 5.1
 

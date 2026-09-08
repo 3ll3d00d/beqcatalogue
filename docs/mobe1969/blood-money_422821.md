@@ -1,6 +1,6 @@
 # Blood Money
 
-[Compare across authors](../../compare/?t=film-blood-money_422821)
+[Compare across authors](../compare/index.md?t=film-blood-money_422821)
 
 ## DTS-HD MA 5.1
 

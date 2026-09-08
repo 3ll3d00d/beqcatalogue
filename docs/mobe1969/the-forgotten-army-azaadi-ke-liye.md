@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-forgotten-army-azaadi-ke-liye_96853)
+[Compare across authors](../compare/index.md?t=TV-the-forgotten-army-azaadi-ke-liye_96853)
 
 ## Season 1
 

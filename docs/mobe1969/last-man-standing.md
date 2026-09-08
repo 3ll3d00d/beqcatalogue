@@ -1,6 +1,6 @@
 # Last Man Standing
 
-[Compare across authors](../../compare/?t=film-last-man-standing_9333)
+[Compare across authors](../compare/index.md?t=film-last-man-standing_9333)
 
 ## DTS-HD MA 5.1
 

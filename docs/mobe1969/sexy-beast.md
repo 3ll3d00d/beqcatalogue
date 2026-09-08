@@ -1,6 +1,6 @@
 # Sexy Beast
 
-[Compare across authors](../../compare/?t=film-sexy-beast_11826)
+[Compare across authors](../compare/index.md?t=film-sexy-beast_11826)
 
 ## DTS-HD HR 5.1
 

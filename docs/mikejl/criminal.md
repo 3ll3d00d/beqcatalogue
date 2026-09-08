@@ -7,7 +7,7 @@
 CIA Agent Bill Pope is on a mission to track down a shadowy hacker named 'The Dutchman'. When he gets mysteriously killed, an experimental procedure transfers his memories into a dangerous ex-convict. When he wakes up Pope's memories, his mission is to eliminate The Dutchman before the hacker launches ICBMs and starts World War III.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/302156)  [Compare across authors](../../compare/?t=film-criminal_302156)
+[TMDB](https://www.themoviedb.org/movie/302156)  [Compare across authors](../compare/index.md?t=film-criminal_302156)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Criminal/Criminal%20(2016)%20DTS-HD%20MA%205.1.jpg)

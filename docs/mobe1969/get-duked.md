@@ -1,6 +1,6 @@
 # Get Duked!
 
-[Compare across authors](../../compare/?t=film-get-duked_580629)
+[Compare across authors](../compare/index.md?t=film-get-duked_580629)
 
 ## DD+ 5.1
 

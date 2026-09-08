@@ -1,6 +1,6 @@
 # Us and Them
 
-[Compare across authors](../../compare/?t=film-us-and-them_438466)
+[Compare across authors](../compare/index.md?t=film-us-and-them_438466)
 
 ## DD+ 5.1
 

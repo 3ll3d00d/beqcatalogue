@@ -1,6 +1,6 @@
 # Tashan
 
-[Compare across authors](../../compare/?t=film-tashan_14193)
+[Compare across authors](../compare/index.md?t=film-tashan_14193)
 
 ## DD+ 5.1
 

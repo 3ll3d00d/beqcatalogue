@@ -1,6 +1,6 @@
 # Tales from the Crypt: Demon Knight
 
-[Compare across authors](../../compare/?t=film-tales-from-the-crypt-demon-knight_9059)
+[Compare across authors](../compare/index.md?t=film-tales-from-the-crypt-demon-knight_9059)
 
 ## DTS-HD MA 5.1
 

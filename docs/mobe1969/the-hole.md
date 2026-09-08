@@ -1,6 +1,6 @@
 # The Hole
 
-[Compare across authors](../../compare/?t=film-the-hole_45650)
+[Compare across authors](../compare/index.md?t=film-the-hole_45650)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Tooth Fairy
 
-[Compare across authors](../../compare/?t=film-tooth-fairy_23023)
+[Compare across authors](../compare/index.md?t=film-tooth-fairy_23023)
 
 ## DTS-HD MA 5.1
 

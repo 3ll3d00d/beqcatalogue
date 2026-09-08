@@ -1,6 +1,6 @@
 # My Bossy Girl
 
-[Compare across authors](../../compare/?t=film-my-bossy-girl_640793)
+[Compare across authors](../compare/index.md?t=film-my-bossy-girl_640793)
 
 ## DD+ 2.0
 

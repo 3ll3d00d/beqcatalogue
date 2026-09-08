@@ -1,6 +1,6 @@
 # The Walk
 
-[Compare across authors](../../compare/?t=film-the-walk_285783)
+[Compare across authors](../compare/index.md?t=film-the-walk_285783)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Tomorrow War
 
-[Compare across authors](../../compare/?t=film-the-tomorrow-war_588228)
+[Compare across authors](../compare/index.md?t=film-the-tomorrow-war_588228)
 
 ## DD+ 5.1, DD+ Atmos
 

@@ -12,7 +12,7 @@
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-star-wars-maul-shadow-lord_289219)
+* [Compare across authors](../compare/index.md?t=TV-star-wars-maul-shadow-lord_289219)
 
 * Production Year: 2026
 

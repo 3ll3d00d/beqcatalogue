@@ -1,6 +1,6 @@
 # Wolf Hound
 
-[Compare across authors](../../compare/?t=film-wolf-hound_542196)
+[Compare across authors](../compare/index.md?t=film-wolf-hound_542196)
 
 ## DTS-HD MA 5.1
 

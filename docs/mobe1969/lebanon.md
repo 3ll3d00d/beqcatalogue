@@ -1,6 +1,6 @@
 # Lebanon
 
-[Compare across authors](../../compare/?t=film-lebanon_32084)
+[Compare across authors](../compare/index.md?t=film-lebanon_32084)
 
 ## DTS-HD MA 5.1
 

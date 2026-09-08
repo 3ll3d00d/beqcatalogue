@@ -1,6 +1,6 @@
 # Born to Raise Hell
 
-[Compare across authors](../../compare/?t=film-born-to-raise-hell_46103)
+[Compare across authors](../compare/index.md?t=film-born-to-raise-hell_46103)
 
 ## DTS-HD MA 5.1
 

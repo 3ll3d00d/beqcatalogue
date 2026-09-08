@@ -1,6 +1,6 @@
 # The Viral Factor
 
-[Compare across authors](../../compare/?t=film-the-viral-factor_83706)
+[Compare across authors](../compare/index.md?t=film-the-viral-factor_83706)
 
 ## DTS-HD MA 5.1
 

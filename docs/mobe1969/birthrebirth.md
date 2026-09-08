@@ -1,6 +1,6 @@
 # Birth/Rebirth
 
-[Compare across authors](../../compare/?t=film-birthrebirth_1058638)
+[Compare across authors](../compare/index.md?t=film-birthrebirth_1058638)
 
 ## DD+ 5.1
 

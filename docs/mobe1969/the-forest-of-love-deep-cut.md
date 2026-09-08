@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-forest-of-love-deep-cut_102846)
+[Compare across authors](../compare/index.md?t=TV-the-forest-of-love-deep-cut_102846)
 
 ## Season 1
 

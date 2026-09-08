@@ -1,6 +1,6 @@
 # Elite Squad: The Enemy Within
 
-[Compare across authors](../../compare/?t=film-elite-squad-the-enemy-within_47931)
+[Compare across authors](../compare/index.md?t=film-elite-squad-the-enemy-within_47931)
 
 ## DTS-HD MA 5.1
 

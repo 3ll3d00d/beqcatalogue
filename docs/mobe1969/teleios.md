@@ -1,6 +1,6 @@
 # Teleios
 
-[Compare across authors](../../compare/?t=film-teleios_421443)
+[Compare across authors](../compare/index.md?t=film-teleios_421443)
 
 ## DD+ 2.0
 

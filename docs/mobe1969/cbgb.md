@@ -1,6 +1,6 @@
 # CBGB
 
-[Compare across authors](../../compare/?t=film-cbgb_111479)
+[Compare across authors](../compare/index.md?t=film-cbgb_111479)
 
 ## DD+ 5.1
 

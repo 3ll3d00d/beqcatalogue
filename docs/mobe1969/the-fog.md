@@ -1,6 +1,6 @@
 # The Fog
 
-[Compare across authors](../../compare/?t=film-the-fog_790)
+[Compare across authors](../compare/index.md?t=film-the-fog_790)
 
 ## Atmos
 

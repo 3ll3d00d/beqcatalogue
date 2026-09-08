@@ -1,6 +1,6 @@
 # Dreamland
 
-[Compare across authors](../../compare/?t=film-dreamland_480434)
+[Compare across authors](../compare/index.md?t=film-dreamland_480434)
 
 ## DD+ 5.1
 

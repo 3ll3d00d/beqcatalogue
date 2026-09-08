@@ -1,6 +1,6 @@
 # City of Lies
 
-[Compare across authors](../../compare/?t=film-city-of-lies_433501)
+[Compare across authors](../compare/index.md?t=film-city-of-lies_433501)
 
 ## DTS-HD MA 5.1
 

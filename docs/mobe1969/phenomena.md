@@ -1,6 +1,6 @@
 # Phenomena
 
-[Compare across authors](../../compare/?t=film-phenomena_1073413)
+[Compare across authors](../compare/index.md?t=film-phenomena_1073413)
 
 ## DD+ Atmos
 

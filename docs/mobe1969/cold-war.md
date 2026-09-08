@@ -1,6 +1,6 @@
 # Cold War
 
-[Compare across authors](../../compare/?t=film-cold-war_137409)
+[Compare across authors](../compare/index.md?t=film-cold-war_137409)
 
 ## DTS-HD MA 7.1, TrueHD 7.1
 

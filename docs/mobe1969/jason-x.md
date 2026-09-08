@@ -1,6 +1,6 @@
 # Jason X
 
-[Compare across authors](../../compare/?t=film-jason-x_11470)
+[Compare across authors](../compare/index.md?t=film-jason-x_11470)
 
 ## DD+ 5.1
 

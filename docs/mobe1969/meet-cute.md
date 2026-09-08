@@ -1,6 +1,6 @@
 # Meet Cute
 
-[Compare across authors](../../compare/?t=film-meet-cute_843543)
+[Compare across authors](../compare/index.md?t=film-meet-cute_843543)
 
 ## DD+ 5.1
 

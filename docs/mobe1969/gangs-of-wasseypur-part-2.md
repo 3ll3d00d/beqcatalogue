@@ -1,6 +1,6 @@
 # Gangs of Wasseypur - Part 2
 
-[Compare across authors](../../compare/?t=film-gangs-of-wasseypur-part-2_126400)
+[Compare across authors](../compare/index.md?t=film-gangs-of-wasseypur-part-2_126400)
 
 ## DD+ 5.1
 

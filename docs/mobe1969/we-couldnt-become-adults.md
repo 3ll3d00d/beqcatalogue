@@ -1,6 +1,6 @@
 # We Couldn't Become Adults
 
-[Compare across authors](../../compare/?t=film-we-couldnt-become-adults_785544)
+[Compare across authors](../compare/index.md?t=film-we-couldnt-become-adults_785544)
 
 ## DD+ 5.1
 

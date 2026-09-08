@@ -1,6 +1,6 @@
 # Golmaal 3
 
-[Compare across authors](../../compare/?t=film-golmaal-3_44978)
+[Compare across authors](../compare/index.md?t=film-golmaal-3_44978)
 
 ## DD 5.1
 

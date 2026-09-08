@@ -1,6 +1,6 @@
 # Hard Target
 
-[Compare across authors](../../compare/?t=film-hard-target_2019)
+[Compare across authors](../compare/index.md?t=film-hard-target_2019)
 
 ## DTS-HD MA 5.1
 

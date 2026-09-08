@@ -1,6 +1,6 @@
 # Neelavelicham
 
-[Compare across authors](../../compare/?t=film-neelavelicham_834660)
+[Compare across authors](../compare/index.md?t=film-neelavelicham_834660)
 
 ## DD+ 5.1
 

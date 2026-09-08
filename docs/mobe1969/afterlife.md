@@ -1,6 +1,6 @@
 # After.Life
 
-[Compare across authors](../../compare/?t=film-afterlife_36419)
+[Compare across authors](../compare/index.md?t=film-afterlife_36419)
 
 ## LPCM 5.1, DD+ 5.1
 

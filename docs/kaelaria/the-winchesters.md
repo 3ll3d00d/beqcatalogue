@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-winchesters_128113)
+* [Compare across authors](../compare/index.md?t=TV-the-winchesters_128113)
 
 * Production Year: 2022
 

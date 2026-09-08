@@ -1,6 +1,6 @@
 # Inherit the Viper
 
-[Compare across authors](../../compare/?t=film-inherit-the-viper_634904)
+[Compare across authors](../compare/index.md?t=film-inherit-the-viper_634904)
 
 ## DTS-HD MA 5.1
 

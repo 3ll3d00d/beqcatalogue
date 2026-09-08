@@ -9,7 +9,7 @@ As an American civilian truck driver working in Iraq, Paul Conroy's convoy is at
 
 **MV Adjustment:** +7.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1744?post_id=64638552#post-64638552)  [TMDB](https://www.themoviedb.org/movie/26388)  [Compare across authors](../../compare/?t=film-buried_26388)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1744?post_id=64638552#post-64638552)  [TMDB](https://www.themoviedb.org/movie/26388)  [Compare across authors](../compare/index.md?t=film-buried_26388)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Buried%20(2010)%20(%2B7.5%20gain)%20DTS-HD%20MA%207.1.jpg)

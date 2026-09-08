@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-choona_230418)
+[Compare across authors](../compare/index.md?t=TV-choona_230418)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # The Finest Hours
 
-[Compare across authors](../../compare/?t=film-the-finest-hours_300673)
+[Compare across authors](../compare/index.md?t=film-the-finest-hours_300673)
 
 ## DTS-HD MA 7.1
 

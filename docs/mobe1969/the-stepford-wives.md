@@ -1,6 +1,6 @@
 # The Stepford Wives
 
-[Compare across authors](../../compare/?t=film-the-stepford-wives_9890)
+[Compare across authors](../compare/index.md?t=film-the-stepford-wives_9890)
 
 ## DTS-HD MA 5.1
 

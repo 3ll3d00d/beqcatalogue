@@ -1,6 +1,6 @@
 # The Decline
 
-[Compare across authors](../../compare/?t=film-the-decline_674607)
+[Compare across authors](../compare/index.md?t=film-the-decline_674607)
 
 ## DD+ 5.1
 

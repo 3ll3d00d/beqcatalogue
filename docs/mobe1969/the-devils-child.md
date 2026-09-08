@@ -1,6 +1,6 @@
 # The Devil's Child
 
-[Compare across authors](../../compare/?t=film-the-devils-child_818883)
+[Compare across authors](../compare/index.md?t=film-the-devils-child_818883)
 
 ## DD+ 5.1
 

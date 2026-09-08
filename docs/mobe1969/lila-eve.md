@@ -1,6 +1,6 @@
 # Lila & Eve
 
-[Compare across authors](../../compare/?t=film-lila-eve_309581)
+[Compare across authors](../compare/index.md?t=film-lila-eve_309581)
 
 ## DD+ 5.1
 

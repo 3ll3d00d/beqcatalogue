@@ -7,7 +7,7 @@
 While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/945961)  [Compare across authors](../../compare/?t=film-alien-romulus_945961)
+[TMDB](https://www.themoviedb.org/movie/945961)  [Compare across authors](../compare/index.md?t=film-alien-romulus_945961)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Alien%20Romulus%20(2024)%20TrueHD%20Atmos.jpg)
@@ -21,7 +21,7 @@ While scavenging the deep ends of a derelict space station, a group of young spa
 While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/945961)  [Compare across authors](../../compare/?t=film-alien-romulus_945961)
+[TMDB](https://www.themoviedb.org/movie/945961)  [Compare across authors](../compare/index.md?t=film-alien-romulus_945961)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Alien%20Romulus%20(2024)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # Black Money
 
-[Compare across authors](../../compare/?t=film-black-money_603314)
+[Compare across authors](../compare/index.md?t=film-black-money_603314)
 
 ## DTS-HD MA 5.1
 

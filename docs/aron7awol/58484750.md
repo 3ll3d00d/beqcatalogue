@@ -1,6 +1,6 @@
 # Highlander
 
-[Compare across authors](../../compare/?t=film-highlander_8009)
+[Compare across authors](../compare/index.md?t=film-highlander_8009)
 
 ## DTS-HD MA 5.1
 

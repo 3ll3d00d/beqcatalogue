@@ -1,6 +1,6 @@
 # The Woman King
 
-[Compare across authors](../../compare/?t=film-the-woman-king_724495)
+[Compare across authors](../compare/index.md?t=film-the-woman-king_724495)
 
 ## DD+ Atmos, DD+ 7.1
 

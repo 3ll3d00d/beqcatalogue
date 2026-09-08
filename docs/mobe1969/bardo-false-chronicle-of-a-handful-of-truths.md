@@ -1,6 +1,6 @@
 # BARDO, False Chronicle of a Handful of Truths
 
-[Compare across authors](../../compare/?t=film-bardo-false-chronicle-of-a-handful-of-truths_685691)
+[Compare across authors](../compare/index.md?t=film-bardo-false-chronicle-of-a-handful-of-truths_685691)
 
 ## DD+ Atmos
 

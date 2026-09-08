@@ -1,6 +1,6 @@
 # The Omen
 
-[Compare across authors](../../compare/?t=film-the-omen_806)
+[Compare across authors](../compare/index.md?t=film-the-omen_806)
 
 ## DTS-HD MA 5.1
 

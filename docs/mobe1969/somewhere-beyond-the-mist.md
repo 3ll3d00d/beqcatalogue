@@ -1,6 +1,6 @@
 # Somewhere Beyond the Mist
 
-[Compare across authors](../../compare/?t=film-somewhere-beyond-the-mist_484365)
+[Compare across authors](../compare/index.md?t=film-somewhere-beyond-the-mist_484365)
 
 ## TrueHD 5.1
 

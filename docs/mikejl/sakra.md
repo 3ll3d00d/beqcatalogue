@@ -7,7 +7,7 @@
 Qiao Feng is the respected leader of a roving band of martial artists. After he is wrongfully accused of murder and subsequently exiled, Qiao Feng goes on the run in search of answers about his own mysterious origin story—and the unknown enemies working to destroy him from the shadows.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/990140)  [Compare across authors](../../compare/?t=film-sakra_990140)
+[TMDB](https://www.themoviedb.org/movie/990140)  [Compare across authors](../compare/index.md?t=film-sakra_990140)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Sakra/Sakra%20(2023)%20(CA)%20Atmos.jpg)

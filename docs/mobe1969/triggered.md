@@ -1,6 +1,6 @@
 # Triggered
 
-[Compare across authors](../../compare/?t=film-triggered_715239)
+[Compare across authors](../compare/index.md?t=film-triggered_715239)
 
 ## DD+ 5.1
 

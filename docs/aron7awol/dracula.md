@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-dracula_86850)
+[Compare across authors](../compare/index.md?t=TV-dracula_86850)
 
 ## Season 1
 

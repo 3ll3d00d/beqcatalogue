@@ -1,6 +1,6 @@
 # The Sixth Secret
 
-[Compare across authors](../../compare/?t=film-the-sixth-secret_964237)
+[Compare across authors](../compare/index.md?t=film-the-sixth-secret_964237)
 
 ## DD+ 5.1
 

@@ -12,7 +12,7 @@ Dave Lizewski is an unnoticed high school student and comic book fan who one day
 German release with English DTS:X track.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62817601)  [TMDB](https://www.themoviedb.org/movie/23483)  [Compare across authors](../../compare/?t=film-kick-ass_23483)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62817601)  [TMDB](https://www.themoviedb.org/movie/23483)  [Compare across authors](../compare/index.md?t=film-kick-ass_23483)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Kick-Ass%20(2010)%20(%2B0.5%20gain)%20DTS-X.jpg)

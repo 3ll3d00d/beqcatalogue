@@ -1,6 +1,6 @@
 # Stand by Me
 
-[Compare across authors](../../compare/?t=film-stand-by-me_235)
+[Compare across authors](../compare/index.md?t=film-stand-by-me_235)
 
 ## Atmos
 

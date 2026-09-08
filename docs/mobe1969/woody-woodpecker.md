@@ -1,6 +1,6 @@
 # Woody Woodpecker
 
-[Compare across authors](../../compare/?t=film-woody-woodpecker_462883)
+[Compare across authors](../compare/index.md?t=film-woody-woodpecker_462883)
 
 ## DD+ 5.1
 

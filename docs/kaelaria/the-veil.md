@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-veil_207334)
+* [Compare across authors](../compare/index.md?t=TV-the-veil_207334)
 
 * Production Year: 2024
 

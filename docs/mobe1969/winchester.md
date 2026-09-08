@@ -1,6 +1,6 @@
 # Winchester
 
-[Compare across authors](../../compare/?t=film-winchester_416234)
+[Compare across authors](../compare/index.md?t=film-winchester_416234)
 
 ## DTS-HD MA 5.1
 

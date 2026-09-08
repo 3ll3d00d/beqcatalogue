@@ -1,6 +1,6 @@
 # The Room
 
-[Compare across authors](../../compare/?t=film-the-room_582913)
+[Compare across authors](../compare/index.md?t=film-the-room_582913)
 
 ## DTS-HD MA 5.1
 

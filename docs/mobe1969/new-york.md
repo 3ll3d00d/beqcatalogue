@@ -1,6 +1,6 @@
 # New York
 
-[Compare across authors](../../compare/?t=film-new-york_19616)
+[Compare across authors](../compare/index.md?t=film-new-york_19616)
 
 ## DD+ 5.1
 

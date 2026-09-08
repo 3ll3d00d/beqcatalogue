@@ -1,6 +1,6 @@
 # The Black Phone
 
-[Compare across authors](../../compare/?t=film-the-black-phone_756999)
+[Compare across authors](../compare/index.md?t=film-the-black-phone_756999)
 
 ## Atmos, DD+ 5.1
 

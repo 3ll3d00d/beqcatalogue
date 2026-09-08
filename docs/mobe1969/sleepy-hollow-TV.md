@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sleepy-hollow_50825)
+[Compare across authors](../compare/index.md?t=TV-sleepy-hollow_50825)
 
 ## Season 1
 

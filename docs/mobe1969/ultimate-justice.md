@@ -1,6 +1,6 @@
 # Ultimate Justice
 
-[Compare across authors](../../compare/?t=film-ultimate-justice_479924)
+[Compare across authors](../compare/index.md?t=film-ultimate-justice_479924)
 
 ## DD+ 2.0
 

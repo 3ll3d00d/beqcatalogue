@@ -1,6 +1,6 @@
 # Liberation
 
-[Compare across authors](../../compare/?t=film-liberation_611690)
+[Compare across authors](../compare/index.md?t=film-liberation_611690)
 
 ## DD+ 5.1
 

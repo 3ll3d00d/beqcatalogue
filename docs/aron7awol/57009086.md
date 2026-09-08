@@ -1,6 +1,6 @@
 # The Incredibles
 
-[Compare across authors](../../compare/?t=film-the-incredibles_9806)
+[Compare across authors](../compare/index.md?t=film-the-incredibles_9806)
 
 ## Atmos
 

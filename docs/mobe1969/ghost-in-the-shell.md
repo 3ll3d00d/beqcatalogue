@@ -1,6 +1,6 @@
 # Ghost in the Shell
 
-[Compare across authors](../../compare/?t=film-ghost-in-the-shell_9323)
+[Compare across authors](../compare/index.md?t=film-ghost-in-the-shell_9323)
 
 ## Atmos
 

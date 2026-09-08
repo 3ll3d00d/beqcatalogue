@@ -1,6 +1,6 @@
 # Blind
 
-[Compare across authors](../../compare/?t=film-blind_79374)
+[Compare across authors](../compare/index.md?t=film-blind_79374)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Black Friday
 
-[Compare across authors](../../compare/?t=film-black-friday_765869)
+[Compare across authors](../compare/index.md?t=film-black-friday_765869)
 
 ## DTS-HD MA 5.1
 

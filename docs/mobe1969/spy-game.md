@@ -1,6 +1,6 @@
 # Spy Game
 
-[Compare across authors](../../compare/?t=film-spy-game_1535)
+[Compare across authors](../compare/index.md?t=film-spy-game_1535)
 
 ## DTS-HD MA 5.1
 

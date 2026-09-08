@@ -1,6 +1,6 @@
 # Star Trek III: The Search for Spock
 
-[Compare across authors](../../compare/?t=film-star-trek-iii-the-search-for-spock_157)
+[Compare across authors](../compare/index.md?t=film-star-trek-iii-the-search-for-spock_157)
 
 ## TrueHD 7.1
 

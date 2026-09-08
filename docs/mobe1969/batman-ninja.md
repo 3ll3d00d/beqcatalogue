@@ -1,6 +1,6 @@
 # Batman Ninja
 
-[Compare across authors](../../compare/?t=film-batman-ninja_485942)
+[Compare across authors](../compare/index.md?t=film-batman-ninja_485942)
 
 ## DD+ 5.1
 

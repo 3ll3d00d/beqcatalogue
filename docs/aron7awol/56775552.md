@@ -1,6 +1,6 @@
 # Now You See Me
 
-[Compare across authors](../../compare/?t=film-now-you-see-me_75656)
+[Compare across authors](../compare/index.md?t=film-now-you-see-me_75656)
 
 ## Atmos
 

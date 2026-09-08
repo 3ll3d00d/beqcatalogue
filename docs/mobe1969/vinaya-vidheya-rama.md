@@ -1,6 +1,6 @@
 # Vinaya Vidheya Rama
 
-[Compare across authors](../../compare/?t=film-vinaya-vidheya-rama_566402)
+[Compare across authors](../compare/index.md?t=film-vinaya-vidheya-rama_566402)
 
 ## DD+ 5.1
 

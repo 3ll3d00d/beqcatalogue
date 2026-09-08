@@ -1,6 +1,6 @@
 # Sher Shivraj
 
-[Compare across authors](../../compare/?t=film-sher-shivraj_959834)
+[Compare across authors](../compare/index.md?t=film-sher-shivraj_959834)
 
 ## DD+ 5.1
 

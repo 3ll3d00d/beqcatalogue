@@ -1,6 +1,6 @@
 # The Toll
 
-[Compare across authors](../../compare/?t=film-the-toll_638045)
+[Compare across authors](../compare/index.md?t=film-the-toll_638045)
 
 ## DTS-HD MA 5.1
 

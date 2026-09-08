@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-while-you-were-sleeping_70649)
+[Compare across authors](../compare/index.md?t=TV-while-you-were-sleeping_70649)
 
 ## Season 1
 

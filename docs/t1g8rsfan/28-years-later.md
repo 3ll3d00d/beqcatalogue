@@ -9,7 +9,7 @@ Twenty-eight years since the rage virus escaped a biological weapons laboratory,
 
 **MV Adjustment:** +5.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/1100988)  [Compare across authors](../../compare/?t=film-28-years-later_1100988)
+[TMDB](https://www.themoviedb.org/movie/1100988)  [Compare across authors](../compare/index.md?t=film-28-years-later_1100988)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/28%20Years%20Later%20(2025)%20(%2B5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Twenty-eight years since the rage virus escaped a biological weapons laboratory,
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1100988)  [Compare across authors](../../compare/?t=film-28-years-later_1100988)
+[TMDB](https://www.themoviedb.org/movie/1100988)  [Compare across authors](../compare/index.md?t=film-28-years-later_1100988)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/28%20Years%20Later%20(2025)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

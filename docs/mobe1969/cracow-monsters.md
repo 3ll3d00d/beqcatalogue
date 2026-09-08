@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-cracow-monsters_158396)
+[Compare across authors](../compare/index.md?t=TV-cracow-monsters_158396)
 
 ## Season 1
 

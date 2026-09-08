@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-defiant-ones_72141)
+[Compare across authors](../compare/index.md?t=TV-the-defiant-ones_72141)
 
 ## Season 1
 

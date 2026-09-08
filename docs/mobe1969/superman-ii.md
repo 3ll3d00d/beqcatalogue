@@ -1,6 +1,6 @@
 # Superman II
 
-[Compare across authors](../../compare/?t=film-superman-ii_8536)
+[Compare across authors](../compare/index.md?t=film-superman-ii_8536)
 
 ## Atmos
 

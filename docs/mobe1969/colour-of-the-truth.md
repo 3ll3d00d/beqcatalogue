@@ -1,6 +1,6 @@
 # Colour of the Truth
 
-[Compare across authors](../../compare/?t=film-colour-of-the-truth_78194)
+[Compare across authors](../compare/index.md?t=film-colour-of-the-truth_78194)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Slow West
 
-[Compare across authors](../../compare/?t=film-slow-west_223485)
+[Compare across authors](../compare/index.md?t=film-slow-west_223485)
 
 ## DTS-HD MA 5.1
 

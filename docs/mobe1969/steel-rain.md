@@ -1,6 +1,6 @@
 # Steel Rain
 
-[Compare across authors](../../compare/?t=film-steel-rain_435841)
+[Compare across authors](../compare/index.md?t=film-steel-rain_435841)
 
 ## DD+ 5.1
 

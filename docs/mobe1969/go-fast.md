@@ -1,6 +1,6 @@
 # Go Fast
 
-[Compare across authors](../../compare/?t=film-go-fast_15942)
+[Compare across authors](../compare/index.md?t=film-go-fast_15942)
 
 ## DTS-HD MA 5.1
 

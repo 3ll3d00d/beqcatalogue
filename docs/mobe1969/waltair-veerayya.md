@@ -1,6 +1,6 @@
 # Waltair Veerayya
 
-[Compare across authors](../../compare/?t=film-waltair-veerayya_989017)
+[Compare across authors](../compare/index.md?t=film-waltair-veerayya_989017)
 
 ## DD+ 5.1
 

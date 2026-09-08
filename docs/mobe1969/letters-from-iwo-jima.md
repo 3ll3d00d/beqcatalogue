@@ -1,6 +1,6 @@
 # Letters from Iwo Jima
 
-[Compare across authors](../../compare/?t=film-letters-from-iwo-jima_1251)
+[Compare across authors](../compare/index.md?t=film-letters-from-iwo-jima_1251)
 
 ## TrueHD 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-stateless_89446)
+[Compare across authors](../compare/index.md?t=TV-stateless_89446)
 
 ## Season 1
 

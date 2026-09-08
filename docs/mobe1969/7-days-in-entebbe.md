@@ -1,6 +1,6 @@
 # 7 Days in Entebbe
 
-[Compare across authors](../../compare/?t=film-7-days-in-entebbe_433627)
+[Compare across authors](../compare/index.md?t=film-7-days-in-entebbe_433627)
 
 ## DTS-HD MA 5.1
 

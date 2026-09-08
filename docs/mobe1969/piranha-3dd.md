@@ -1,6 +1,6 @@
 # Piranha 3DD
 
-[Compare across authors](../../compare/?t=film-piranha-3dd_71668)
+[Compare across authors](../compare/index.md?t=film-piranha-3dd_71668)
 
 ## DTS-HD MA 5.1
 

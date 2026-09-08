@@ -1,6 +1,6 @@
 # From Dusk Till Dawn
 
-[Compare across authors](../../compare/?t=film-from-dusk-till-dawn_755)
+[Compare across authors](../compare/index.md?t=film-from-dusk-till-dawn_755)
 
 ## DTS-HD MA 5.1
 

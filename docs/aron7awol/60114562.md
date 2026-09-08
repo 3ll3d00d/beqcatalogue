@@ -1,6 +1,6 @@
 # Target Number One
 
-[Compare across authors](../../compare/?t=film-target-number-one_526973)
+[Compare across authors](../compare/index.md?t=film-target-number-one_526973)
 
 ## DTS-HD MA 5.1
 

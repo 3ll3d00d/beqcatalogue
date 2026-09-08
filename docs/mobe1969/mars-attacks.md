@@ -1,6 +1,6 @@
 # Mars Attacks!
 
-[Compare across authors](../../compare/?t=film-mars-attacks_75)
+[Compare across authors](../compare/index.md?t=film-mars-attacks_75)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

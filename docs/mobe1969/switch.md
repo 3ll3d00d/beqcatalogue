@@ -1,6 +1,6 @@
 # Switch
 
-[Compare across authors](../../compare/?t=film-switch_69225)
+[Compare across authors](../compare/index.md?t=film-switch_69225)
 
 ## DD+ 5.1
 

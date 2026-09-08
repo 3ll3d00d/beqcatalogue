@@ -1,6 +1,6 @@
 # Freaks
 
-[Compare across authors](../../compare/?t=film-freaks_539892)
+[Compare across authors](../compare/index.md?t=film-freaks_539892)
 
 ## DTS-HD MA 5.1
 

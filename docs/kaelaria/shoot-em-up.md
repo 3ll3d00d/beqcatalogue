@@ -7,7 +7,7 @@
 A man named Mr. Smith delivers a woman's baby during a shootout, and is then called upon to protect the newborn from the army of gunmen.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/4141)  [Compare across authors](../../compare/?t=film-shoot-em-up_4141)
+[TMDB](https://www.themoviedb.org/movie/4141)  [Compare across authors](../compare/index.md?t=film-shoot-em-up_4141)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Shoot%20Em%20Up%20(2007)%20DTS-HD%20MA%207.1.jpg)

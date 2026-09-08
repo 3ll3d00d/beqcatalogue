@@ -14,7 +14,7 @@ Dialnorm Compensation: E01 +2dB, E02 +3dB, E03 +2dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62681992)
 
-* [Compare across authors](../../compare/?t=TV-my-adventures-with-superman_125928)
+* [Compare across authors](../compare/index.md?t=TV-my-adventures-with-superman_125928)
 
 * Production Year: 2023
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mayor-of-kingstown_97951)
+[Compare across authors](../compare/index.md?t=TV-mayor-of-kingstown_97951)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Dealer/Healer
 
-[Compare across authors](../../compare/?t=film-dealerhealer_458266)
+[Compare across authors](../compare/index.md?t=film-dealerhealer_458266)
 
 ## TrueHD 7.1
 

@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-penny-dreadful-city-of-angels_83685)
+[Compare across authors](../compare/index.md?t=TV-penny-dreadful-city-of-angels_83685)
 
 ## Season 1
 

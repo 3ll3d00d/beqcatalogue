@@ -1,6 +1,6 @@
 # Fighting
 
-[Compare across authors](../../compare/?t=film-fighting_17336)
+[Compare across authors](../compare/index.md?t=film-fighting_17336)
 
 ## DTS-HD MA 5.1
 

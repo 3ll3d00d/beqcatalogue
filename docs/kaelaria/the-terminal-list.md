@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-terminal-list_120911)
+* [Compare across authors](../compare/index.md?t=TV-the-terminal-list_120911)
 
 * Production Year: 2022
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-katla_104157)
+[Compare across authors](../compare/index.md?t=TV-katla_104157)
 
 ## Season 1
 

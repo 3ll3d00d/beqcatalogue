@@ -1,6 +1,6 @@
 # The Scary House
 
-[Compare across authors](../../compare/?t=film-the-scary-house_735595)
+[Compare across authors](../compare/index.md?t=film-the-scary-house_735595)
 
 ## DD+ 5.1
 

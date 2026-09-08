@@ -1,6 +1,6 @@
 # Accident Man
 
-[Compare across authors](../../compare/?t=film-accident-man_455236)
+[Compare across authors](../compare/index.md?t=film-accident-man_455236)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Kill Chain
 
-[Compare across authors](../../compare/?t=film-kill-chain_531299)
+[Compare across authors](../compare/index.md?t=film-kill-chain_531299)
 
 ## DTS-HD MA 5.1
 

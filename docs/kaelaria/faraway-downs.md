@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-faraway-downs_204999)
+* [Compare across authors](../compare/index.md?t=TV-faraway-downs_204999)
 
 * Production Year: 2023
 

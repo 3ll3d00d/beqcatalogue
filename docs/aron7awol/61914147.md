@@ -1,6 +1,6 @@
 # Top Gun: Maverick
 
-[Compare across authors](../../compare/?t=film-top-gun-maverick_361743)
+[Compare across authors](../compare/index.md?t=film-top-gun-maverick_361743)
 
 ## Atmos
 

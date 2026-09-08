@@ -1,6 +1,6 @@
 # Clueless
 
-[Compare across authors](../../compare/?t=film-clueless_9603)
+[Compare across authors](../compare/index.md?t=film-clueless_9603)
 
 ## DD+ 5.1
 

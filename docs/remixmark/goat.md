@@ -9,7 +9,7 @@ A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1735?post_id=64584375#post-64584375)  [TMDB](https://www.themoviedb.org/movie/1297842)  [Compare across authors](../../compare/?t=film-goat_1297842)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1735?post_id=64584375#post-64584375)  [TMDB](https://www.themoviedb.org/movie/1297842)  [Compare across authors](../compare/index.md?t=film-goat_1297842)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/GOAT%20(2026)%20(%2B3%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and
 Dialnorm Compensation:7dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1726?post_id=64531336#post-64531336)  [TMDB](https://www.themoviedb.org/movie/1297842)  [Compare across authors](../../compare/?t=film-goat_1297842)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1726?post_id=64531336#post-64531336)  [TMDB](https://www.themoviedb.org/movie/1297842)  [Compare across authors](../compare/index.md?t=film-goat_1297842)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/GOAT%20(2026)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

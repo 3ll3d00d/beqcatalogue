@@ -1,6 +1,6 @@
 # The Reservoir Game
 
-[Compare across authors](../../compare/?t=film-the-reservoir-game_477767)
+[Compare across authors](../compare/index.md?t=film-the-reservoir-game_477767)
 
 ## DD+ 5.1
 

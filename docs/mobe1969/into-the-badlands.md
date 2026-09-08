@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-into-the-badlands_47450)
+[Compare across authors](../compare/index.md?t=TV-into-the-badlands_47450)
 
 ## Season 1
 

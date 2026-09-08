@@ -1,6 +1,6 @@
 # Batla House
 
-[Compare across authors](../../compare/?t=film-batla-house_550485)
+[Compare across authors](../compare/index.md?t=film-batla-house_550485)
 
 ## DD+ 5.1
 

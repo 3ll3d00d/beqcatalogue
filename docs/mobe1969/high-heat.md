@@ -1,6 +1,6 @@
 # High Heat
 
-[Compare across authors](../../compare/?t=film-high-heat_1015963)
+[Compare across authors](../compare/index.md?t=film-high-heat_1015963)
 
 ## DTS-HD MA 5.1
 

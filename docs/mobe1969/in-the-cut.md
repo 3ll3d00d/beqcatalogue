@@ -1,6 +1,6 @@
 # In the Cut
 
-[Compare across authors](../../compare/?t=film-in-the-cut_10944)
+[Compare across authors](../compare/index.md?t=film-in-the-cut_10944)
 
 ## DD+ 5.1
 

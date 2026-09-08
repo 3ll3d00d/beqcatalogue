@@ -1,6 +1,6 @@
 # Homeward
 
-[Compare across authors](../../compare/?t=film-homeward_674942)
+[Compare across authors](../compare/index.md?t=film-homeward_674942)
 
 ## DTS-HD MA 5.1
 

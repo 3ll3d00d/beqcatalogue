@@ -1,6 +1,6 @@
 # Bullet Proof
 
-[Compare across authors](../../compare/?t=film-bullet-proof_993145)
+[Compare across authors](../compare/index.md?t=film-bullet-proof_993145)
 
 ## DTS-HD MA 5.1
 

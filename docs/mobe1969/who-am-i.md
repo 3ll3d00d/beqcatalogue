@@ -1,6 +1,6 @@
 # Who Am I
 
-[Compare across authors](../../compare/?t=film-who-am-i_284427)
+[Compare across authors](../compare/index.md?t=film-who-am-i_284427)
 
 ## DD+ 5.1
 

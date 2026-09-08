@@ -1,6 +1,6 @@
 # Howling
 
-[Compare across authors](../../compare/?t=film-howling_116227)
+[Compare across authors](../compare/index.md?t=film-howling_116227)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Death Proof
 
-[Compare across authors](../../compare/?t=film-death-proof_1991)
+[Compare across authors](../compare/index.md?t=film-death-proof_1991)
 
 ## TrueHD 5.1
 

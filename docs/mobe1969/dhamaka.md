@@ -1,6 +1,6 @@
 # Dhamaka
 
-[Compare across authors](../../compare/?t=film-dhamaka_767377)
+[Compare across authors](../compare/index.md?t=film-dhamaka_767377)
 
 ## DD+ Atmos
 

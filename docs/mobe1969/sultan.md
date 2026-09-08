@@ -1,6 +1,6 @@
 # Sultan
 
-[Compare across authors](../../compare/?t=film-sultan_376812)
+[Compare across authors](../compare/index.md?t=film-sultan_376812)
 
 ## Atmos
 

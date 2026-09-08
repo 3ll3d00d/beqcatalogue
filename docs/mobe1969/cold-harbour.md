@@ -1,6 +1,6 @@
 # Cold Harbour
 
-[Compare across authors](../../compare/?t=film-cold-harbour_233444)
+[Compare across authors](../compare/index.md?t=film-cold-harbour_233444)
 
 ## DD+ 5.1
 

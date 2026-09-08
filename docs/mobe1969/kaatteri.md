@@ -1,6 +1,6 @@
 # Kaatteri
 
-[Compare across authors](../../compare/?t=film-kaatteri_533660)
+[Compare across authors](../compare/index.md?t=film-kaatteri_533660)
 
 ## DD+ 5.1
 

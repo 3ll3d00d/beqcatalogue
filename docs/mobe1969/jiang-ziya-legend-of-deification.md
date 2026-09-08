@@ -1,6 +1,6 @@
 # Jiang Ziya: Legend of Deification
 
-[Compare across authors](../../compare/?t=film-jiang-ziya-legend-of-deification_635389)
+[Compare across authors](../compare/index.md?t=film-jiang-ziya-legend-of-deification_635389)
 
 ## DTS-HD MA 5.1
 

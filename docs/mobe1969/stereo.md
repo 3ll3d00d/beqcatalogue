@@ -1,6 +1,6 @@
 # Stereo
 
-[Compare across authors](../../compare/?t=film-stereo_256311)
+[Compare across authors](../compare/index.md?t=film-stereo_256311)
 
 ## DD+ 5.1
 

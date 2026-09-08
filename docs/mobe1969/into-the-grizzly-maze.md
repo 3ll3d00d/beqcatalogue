@@ -1,6 +1,6 @@
 # Into the Grizzly Maze
 
-[Compare across authors](../../compare/?t=film-into-the-grizzly-maze_244316)
+[Compare across authors](../compare/index.md?t=film-into-the-grizzly-maze_244316)
 
 ## DTS-HD MA 5.1
 

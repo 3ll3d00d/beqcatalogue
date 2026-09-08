@@ -1,6 +1,6 @@
 # Delhi Belly
 
-[Compare across authors](../../compare/?t=film-delhi-belly_67109)
+[Compare across authors](../compare/index.md?t=film-delhi-belly_67109)
 
 ## DD+ 5.1
 

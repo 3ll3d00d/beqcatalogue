@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-murderville_155594)
+[Compare across authors](../compare/index.md?t=TV-murderville_155594)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Age of Heroes
 
-[Compare across authors](../../compare/?t=film-age-of-heroes_38540)
+[Compare across authors](../compare/index.md?t=film-age-of-heroes_38540)
 
 ## DTS-HD MA 5.1
 

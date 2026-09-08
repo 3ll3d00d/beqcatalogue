@@ -1,6 +1,6 @@
 # Aiyaary
 
-[Compare across authors](../../compare/?t=film-aiyaary_493620)
+[Compare across authors](../compare/index.md?t=film-aiyaary_493620)
 
 ## DD+ 5.1
 

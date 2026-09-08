@@ -1,6 +1,6 @@
 # Aliens in the Attic
 
-[Compare across authors](../../compare/?t=film-aliens-in-the-attic_20856)
+[Compare across authors](../compare/index.md?t=film-aliens-in-the-attic_20856)
 
 ## DD+ 5.1
 

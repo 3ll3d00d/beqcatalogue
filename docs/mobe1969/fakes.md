@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-fakes_207841)
+[Compare across authors](../compare/index.md?t=TV-fakes_207841)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Army of Thieves
 
-[Compare across authors](../../compare/?t=film-army-of-thieves_796499)
+[Compare across authors](../compare/index.md?t=film-army-of-thieves_796499)
 
 ## DD+ Atmos
 

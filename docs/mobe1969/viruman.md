@@ -1,6 +1,6 @@
 # Viruman
 
-[Compare across authors](../../compare/?t=film-viruman_870769)
+[Compare across authors](../compare/index.md?t=film-viruman_870769)
 
 ## DD+ 5.1
 

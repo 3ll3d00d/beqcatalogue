@@ -1,6 +1,6 @@
 # Shadow
 
-[Compare across authors](../../compare/?t=film-shadow_641684)
+[Compare across authors](../compare/index.md?t=film-shadow_641684)
 
 ## Atmos
 

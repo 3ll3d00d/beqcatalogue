@@ -1,6 +1,6 @@
 # Starship Troopers: Traitor of Mars
 
-[Compare across authors](../../compare/?t=film-starship-troopers-traitor-of-mars_460790)
+[Compare across authors](../compare/index.md?t=film-starship-troopers-traitor-of-mars_460790)
 
 ## Atmos
 

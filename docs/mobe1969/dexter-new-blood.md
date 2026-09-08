@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dexter-new-blood_131927)
+[Compare across authors](../compare/index.md?t=TV-dexter-new-blood_131927)
 
 ## Season 1
 

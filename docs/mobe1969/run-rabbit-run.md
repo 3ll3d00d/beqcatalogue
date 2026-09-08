@@ -1,6 +1,6 @@
 # Run Rabbit Run
 
-[Compare across authors](../../compare/?t=film-run-rabbit-run_714669)
+[Compare across authors](../compare/index.md?t=film-run-rabbit-run_714669)
 
 ## DD+ 5.1
 

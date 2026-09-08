@@ -1,6 +1,6 @@
 # As The Light Goes Out
 
-[Compare across authors](../../compare/?t=film-as-the-light-goes-out_247954)
+[Compare across authors](../compare/index.md?t=film-as-the-light-goes-out_247954)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Showdown
 
-[Compare across authors](../../compare/?t=film-the-showdown_52421)
+[Compare across authors](../compare/index.md?t=film-the-showdown_52421)
 
 ## DTS-HD MA 2.0
 

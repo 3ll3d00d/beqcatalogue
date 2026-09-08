@@ -7,7 +7,7 @@
 Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/666750)  [Compare across authors](../../compare/?t=film-dragonheart-vengeance_666750)
+[TMDB](https://www.themoviedb.org/movie/666750)  [Compare across authors](../compare/index.md?t=film-dragonheart-vengeance_666750)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dragonheart/Dragonheart%20Vengeance%20(2020)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ Lukas, a young farmer whose family is killed by savage raiders in the countrysid
 Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/666750)  [Compare across authors](../../compare/?t=film-dragonheart-vengeance_666750)
+[TMDB](https://www.themoviedb.org/movie/666750)  [Compare across authors](../compare/index.md?t=film-dragonheart-vengeance_666750)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dragonheart/Dragonheart%20Vengeance%20(2020)%20DTS-HD%20MA%205.1.jpg)

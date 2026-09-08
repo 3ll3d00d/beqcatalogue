@@ -1,6 +1,6 @@
 # Mute
 
-[Compare across authors](../../compare/?t=film-mute_401371)
+[Compare across authors](../compare/index.md?t=film-mute_401371)
 
 ## DD+ 5.1
 

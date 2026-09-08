@@ -1,6 +1,6 @@
 # Guilt
 
-[Compare across authors](../../compare/?t=film-guilt_741018)
+[Compare across authors](../compare/index.md?t=film-guilt_741018)
 
 ## DD+ 5.1
 

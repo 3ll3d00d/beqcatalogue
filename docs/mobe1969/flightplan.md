@@ -1,6 +1,6 @@
 # Flightplan
 
-[Compare across authors](../../compare/?t=film-flightplan_9315)
+[Compare across authors](../compare/index.md?t=film-flightplan_9315)
 
 ## LPCM 5.1
 

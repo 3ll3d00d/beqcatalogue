@@ -1,6 +1,6 @@
 # Evil Eye
 
-[Compare across authors](../../compare/?t=film-evil-eye_29514)
+[Compare across authors](../compare/index.md?t=film-evil-eye_29514)
 
 ## DD+ 5.1
 

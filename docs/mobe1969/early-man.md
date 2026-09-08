@@ -1,6 +1,6 @@
 # Early Man
 
-[Compare across authors](../../compare/?t=film-early-man_387592)
+[Compare across authors](../compare/index.md?t=film-early-man_387592)
 
 ## Atmos
 

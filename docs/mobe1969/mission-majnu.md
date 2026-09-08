@@ -1,6 +1,6 @@
 # Mission Majnu
 
-[Compare across authors](../../compare/?t=film-mission-majnu_778946)
+[Compare across authors](../compare/index.md?t=film-mission-majnu_778946)
 
 ## DD+ 5.1
 

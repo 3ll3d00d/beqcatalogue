@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-chief-of-war_196890)
+* [Compare across authors](../compare/index.md?t=TV-chief-of-war_196890)
 
 * Production Year: 2025
 

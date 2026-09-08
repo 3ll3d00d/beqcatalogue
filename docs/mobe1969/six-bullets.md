@@ -1,6 +1,6 @@
 # Six Bullets
 
-[Compare across authors](../../compare/?t=film-six-bullets_127521)
+[Compare across authors](../compare/index.md?t=film-six-bullets_127521)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

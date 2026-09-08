@@ -1,6 +1,6 @@
 # Logan
 
-[Compare across authors](../../compare/?t=film-logan_263115)
+[Compare across authors](../compare/index.md?t=film-logan_263115)
 
 ## Atmos
 

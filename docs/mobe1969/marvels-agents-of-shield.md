@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-marvels-agents-of-shield_1403)
+[Compare across authors](../compare/index.md?t=TV-marvels-agents-of-shield_1403)
 
 ## Season 1
 

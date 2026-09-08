@@ -1,6 +1,6 @@
 # Exit Humanity
 
-[Compare across authors](../../compare/?t=film-exit-humanity_86305)
+[Compare across authors](../compare/index.md?t=film-exit-humanity_86305)
 
 ## DD 5.1
 

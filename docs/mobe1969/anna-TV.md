@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-anna_196268)
+[Compare across authors](../compare/index.md?t=TV-anna_196268)
 
 ## Season 1
 

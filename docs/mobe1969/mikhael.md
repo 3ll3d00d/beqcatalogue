@@ -1,6 +1,6 @@
 # Mikhael
 
-[Compare across authors](../../compare/?t=film-mikhael_573257)
+[Compare across authors](../compare/index.md?t=film-mikhael_573257)
 
 ## DD+ 5.1
 

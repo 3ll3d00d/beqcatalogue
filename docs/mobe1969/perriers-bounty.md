@@ -1,6 +1,6 @@
 # Perrier's Bounty
 
-[Compare across authors](../../compare/?t=film-perriers-bounty_41009)
+[Compare across authors](../compare/index.md?t=film-perriers-bounty_41009)
 
 ## DD 5.1
 

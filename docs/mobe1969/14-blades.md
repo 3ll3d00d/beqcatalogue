@@ -1,6 +1,6 @@
 # 14 Blades
 
-[Compare across authors](../../compare/?t=film-14-blades_34179)
+[Compare across authors](../compare/index.md?t=film-14-blades_34179)
 
 ## DTS-HD MA 7.1
 

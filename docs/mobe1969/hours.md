@@ -1,6 +1,6 @@
 # Hours
 
-[Compare across authors](../../compare/?t=film-hours_172803)
+[Compare across authors](../compare/index.md?t=film-hours_172803)
 
 ## DTS-HD MA 5.1
 

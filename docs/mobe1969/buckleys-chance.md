@@ -1,6 +1,6 @@
 # Buckley's Chance
 
-[Compare across authors](../../compare/?t=film-buckleys-chance_813152)
+[Compare across authors](../compare/index.md?t=film-buckleys-chance_813152)
 
 ## DD+ 5.1
 

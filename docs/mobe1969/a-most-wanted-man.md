@@ -1,6 +1,6 @@
 # A Most Wanted Man
 
-[Compare across authors](../../compare/?t=film-a-most-wanted-man_157849)
+[Compare across authors](../compare/index.md?t=film-a-most-wanted-man_157849)
 
 ## DTS-HD MA 5.1
 

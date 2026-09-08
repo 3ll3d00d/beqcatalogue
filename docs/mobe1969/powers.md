@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-powers_42531)
+[Compare across authors](../compare/index.md?t=TV-powers_42531)
 
 ## Season 1
 

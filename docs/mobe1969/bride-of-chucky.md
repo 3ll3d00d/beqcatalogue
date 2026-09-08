@@ -1,6 +1,6 @@
 # Bride of Chucky
 
-[Compare across authors](../../compare/?t=film-bride-of-chucky_11932)
+[Compare across authors](../compare/index.md?t=film-bride-of-chucky_11932)
 
 ## DTS-HD MA 5.1
 

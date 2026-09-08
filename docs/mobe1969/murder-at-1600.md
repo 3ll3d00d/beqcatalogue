@@ -1,6 +1,6 @@
 # Murder at 1600
 
-[Compare across authors](../../compare/?t=film-murder-at-1600_9415)
+[Compare across authors](../compare/index.md?t=film-murder-at-1600_9415)
 
 ## DD+ 5.1
 

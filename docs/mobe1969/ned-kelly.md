@@ -1,6 +1,6 @@
 # Ned Kelly
 
-[Compare across authors](../../compare/?t=film-ned-kelly_10544)
+[Compare across authors](../compare/index.md?t=film-ned-kelly_10544)
 
 ## DTS-HD MA 5.1
 

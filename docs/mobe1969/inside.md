@@ -1,6 +1,6 @@
 # Inside
 
-[Compare across authors](../../compare/?t=film-inside_365995)
+[Compare across authors](../compare/index.md?t=film-inside_365995)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-descendants-of-the-sun_65143)
+[Compare across authors](../compare/index.md?t=TV-descendants-of-the-sun_65143)
 
 ## Season 1
 

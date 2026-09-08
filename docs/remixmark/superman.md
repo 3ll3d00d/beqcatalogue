@@ -9,7 +9,7 @@ Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryp
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1644?post_id=64205802#post-64205802)  [TMDB](https://www.themoviedb.org/movie/1061474)  [Compare across authors](../../compare/?t=film-superman_1061474)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1644?post_id=64205802#post-64205802)  [TMDB](https://www.themoviedb.org/movie/1061474)  [Compare across authors](../compare/index.md?t=film-superman_1061474)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Superman%20(2025)%20(-2%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryp
 Dialnorm Compensation: 7dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1628?post_id=64147670#post-64147670)  [TMDB](https://www.themoviedb.org/movie/1061474)  [Compare across authors](../../compare/?t=film-superman_1061474)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1628?post_id=64147670#post-64147670)  [TMDB](https://www.themoviedb.org/movie/1061474)  [Compare across authors](../compare/index.md?t=film-superman_1061474)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Superman%20(2025)%20(-1.5%20gain)%20DD%2B%20Atmos.jpg)

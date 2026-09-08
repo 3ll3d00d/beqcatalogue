@@ -1,6 +1,6 @@
 # Miserere
 
-[Compare across authors](../../compare/?t=film-miserere_201759)
+[Compare across authors](../compare/index.md?t=film-miserere_201759)
 
 ## DD+ 5.1
 

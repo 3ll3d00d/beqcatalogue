@@ -1,6 +1,6 @@
 # Rocky Handsome
 
-[Compare across authors](../../compare/?t=film-rocky-handsome_376873)
+[Compare across authors](../compare/index.md?t=film-rocky-handsome_376873)
 
 ## DD 5.1
 

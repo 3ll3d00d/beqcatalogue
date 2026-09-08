@@ -1,6 +1,6 @@
 # The Little Stranger
 
-[Compare across authors](../../compare/?t=film-the-little-stranger_455108)
+[Compare across authors](../compare/index.md?t=film-the-little-stranger_455108)
 
 ## DTS-HD MA 5.1
 

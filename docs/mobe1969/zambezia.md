@@ -1,6 +1,6 @@
 # Zambezia
 
-[Compare across authors](../../compare/?t=film-zambezia_133931)
+[Compare across authors](../compare/index.md?t=film-zambezia_133931)
 
 ## DTS-HD MA 5.1
 

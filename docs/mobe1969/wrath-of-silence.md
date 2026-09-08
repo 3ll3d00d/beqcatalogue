@@ -1,6 +1,6 @@
 # Wrath of Silence
 
-[Compare across authors](../../compare/?t=film-wrath-of-silence_473328)
+[Compare across authors](../compare/index.md?t=film-wrath-of-silence_473328)
 
 ## DD+ 5.1
 

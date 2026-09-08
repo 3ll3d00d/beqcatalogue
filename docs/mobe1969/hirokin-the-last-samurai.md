@@ -1,6 +1,6 @@
 # Hirokin: The Last Samurai
 
-[Compare across authors](../../compare/?t=film-hirokin-the-last-samurai_103551)
+[Compare across authors](../compare/index.md?t=film-hirokin-the-last-samurai_103551)
 
 ## DTS-HD MA 5.1
 

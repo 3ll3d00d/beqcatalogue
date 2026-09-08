@@ -12,7 +12,7 @@ Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1662?post_id=64240084#post-64240084)  [TMDB](https://www.themoviedb.org/movie/617126)  [Compare across authors](../../compare/?t=film-the-fantastic-4-first-steps_617126)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1662?post_id=64240084#post-64240084)  [TMDB](https://www.themoviedb.org/movie/617126)  [Compare across authors](../compare/index.md?t=film-the-fantastic-4-first-steps_617126)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Fantastic%204%20First%20Steps%20(2025)%20(%2B1.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1649?post_id=64215743#post-64215743)  [TMDB](https://www.themoviedb.org/movie/617126)  [Compare across authors](../../compare/?t=film-the-fantastic-4-first-steps_617126)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1649?post_id=64215743#post-64215743)  [TMDB](https://www.themoviedb.org/movie/617126)  [Compare across authors](../compare/index.md?t=film-the-fantastic-4-first-steps_617126)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Fantastic%204%20First%20Steps%20(2025)%20(-.5%20gain).jpg)
@@ -47,7 +47,7 @@ Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1649?post_id=64216252#post-64216252)  [TMDB](https://www.themoviedb.org/movie/617126)  [Compare across authors](../../compare/?t=film-the-fantastic-4-first-steps_617126)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1649?post_id=64216252#post-64216252)  [TMDB](https://www.themoviedb.org/movie/617126)  [Compare across authors](../compare/index.md?t=film-the-fantastic-4-first-steps_617126)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Fantastic%204%20First%20Steps%20(2025)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

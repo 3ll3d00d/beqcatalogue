@@ -1,6 +1,6 @@
 # Boarding School
 
-[Compare across authors](../../compare/?t=film-boarding-school_531145)
+[Compare across authors](../compare/index.md?t=film-boarding-school_531145)
 
 ## TrueHD 5.1
 

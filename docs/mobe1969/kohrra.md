@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-kohrra_230034)
+[Compare across authors](../compare/index.md?t=TV-kohrra_230034)
 
 ## Season 1
 

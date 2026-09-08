@@ -1,6 +1,6 @@
 # Brotherhood of the Wolf
 
-[Compare across authors](../../compare/?t=film-brotherhood-of-the-wolf_6312)
+[Compare across authors](../compare/index.md?t=film-brotherhood-of-the-wolf_6312)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Paint
 
-[Compare across authors](../../compare/?t=film-paint_821890)
+[Compare across authors](../compare/index.md?t=film-paint_821890)
 
 ## DD+ 5.1
 

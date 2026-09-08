@@ -7,7 +7,7 @@
 After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/573435)  [Compare across authors](../../compare/?t=film-bad-boys-ride-or-die_573435)
+[TMDB](https://www.themoviedb.org/movie/573435)  [Compare across authors](../compare/index.md?t=film-bad-boys-ride-or-die_573435)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Bad.Boys.Ride.Or.Die.2024.DV.2160p.WEB.h265-ETHEL_s1_5.1(side)_to_mono.jpg)

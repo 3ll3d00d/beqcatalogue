@@ -1,6 +1,6 @@
 # In the Name of the King II: Two Worlds
 
-[Compare across authors](../../compare/?t=film-in-the-name-of-the-king-ii-two-worlds_80410)
+[Compare across authors](../compare/index.md?t=film-in-the-name-of-the-king-ii-two-worlds_80410)
 
 ## DTS-HD MA 5.1
 

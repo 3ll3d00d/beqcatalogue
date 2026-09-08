@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-flash_60735)
+[Compare across authors](../compare/index.md?t=TV-the-flash_60735)
 
 ## Season 9
 

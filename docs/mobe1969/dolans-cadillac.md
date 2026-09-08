@@ -1,6 +1,6 @@
 # Dolan's Cadillac
 
-[Compare across authors](../../compare/?t=film-dolans-cadillac_19823)
+[Compare across authors](../compare/index.md?t=film-dolans-cadillac_19823)
 
 ## DTS-HD MA 5.1
 

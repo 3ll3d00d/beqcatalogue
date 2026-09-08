@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-queen-charlotte-a-bridgerton-story_196454)
+[Compare across authors](../compare/index.md?t=TV-queen-charlotte-a-bridgerton-story_196454)
 
 ## Season 1
 

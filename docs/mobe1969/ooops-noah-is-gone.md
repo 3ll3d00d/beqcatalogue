@@ -1,6 +1,6 @@
 # Ooops! Noah Is Gone...
 
-[Compare across authors](../../compare/?t=film-ooops-noah-is-gone_326215)
+[Compare across authors](../compare/index.md?t=film-ooops-noah-is-gone_326215)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Children of the Sea
 
-[Compare across authors](../../compare/?t=film-children-of-the-sea_585077)
+[Compare across authors](../compare/index.md?t=film-children-of-the-sea_585077)
 
 ## DTS-HD MA 5.1
 

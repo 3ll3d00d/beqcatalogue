@@ -1,6 +1,6 @@
 # Errementari: The Blacksmith and the Devil
 
-[Compare across authors](../../compare/?t=film-errementari-the-blacksmith-and-the-devil_477033)
+[Compare across authors](../compare/index.md?t=film-errementari-the-blacksmith-and-the-devil_477033)
 
 ## DD+ 5.1
 

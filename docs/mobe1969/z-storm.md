@@ -1,6 +1,6 @@
 # Z Storm
 
-[Compare across authors](../../compare/?t=film-z-storm_277519)
+[Compare across authors](../compare/index.md?t=film-z-storm_277519)
 
 ## TrueHD 5.1
 

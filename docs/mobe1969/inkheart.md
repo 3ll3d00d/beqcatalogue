@@ -1,6 +1,6 @@
 # Inkheart
 
-[Compare across authors](../../compare/?t=film-inkheart_2309)
+[Compare across authors](../compare/index.md?t=film-inkheart_2309)
 
 ## TrueHD 5.1
 

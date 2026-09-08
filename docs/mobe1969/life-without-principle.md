@@ -1,6 +1,6 @@
 # Life Without Principle
 
-[Compare across authors](../../compare/?t=film-life-without-principle_90147)
+[Compare across authors](../compare/index.md?t=film-life-without-principle_90147)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # National Treasure: Book of Secrets
 
-[Compare across authors](../../compare/?t=film-national-treasure-book-of-secrets_6637)
+[Compare across authors](../compare/index.md?t=film-national-treasure-book-of-secrets_6637)
 
 ## DD+ Atmos
 

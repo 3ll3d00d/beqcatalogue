@@ -1,6 +1,6 @@
 # Ad Astra
 
-[Compare across authors](../../compare/?t=film-ad-astra_419704)
+[Compare across authors](../compare/index.md?t=film-ad-astra_419704)
 
 ## Atmos
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sneaky-pete_64199)
+[Compare across authors](../compare/index.md?t=TV-sneaky-pete_64199)
 
 ## Season 1
 

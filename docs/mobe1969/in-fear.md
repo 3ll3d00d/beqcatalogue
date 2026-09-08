@@ -1,6 +1,6 @@
 # In Fear
 
-[Compare across authors](../../compare/?t=film-in-fear_159095)
+[Compare across authors](../compare/index.md?t=film-in-fear_159095)
 
 ## DTS-HD MA 5.1
 

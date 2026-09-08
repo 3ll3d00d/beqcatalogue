@@ -1,6 +1,6 @@
 # Faster
 
-[Compare across authors](../../compare/?t=film-faster_41283)
+[Compare across authors](../compare/index.md?t=film-faster_41283)
 
 ## DD+ 5.1
 

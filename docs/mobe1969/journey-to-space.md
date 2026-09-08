@@ -1,6 +1,6 @@
 # Journey to Space
 
-[Compare across authors](../../compare/?t=film-journey-to-space_325263)
+[Compare across authors](../compare/index.md?t=film-journey-to-space_325263)
 
 ## Atmos
 

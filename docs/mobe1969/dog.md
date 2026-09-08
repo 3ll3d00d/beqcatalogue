@@ -1,6 +1,6 @@
 # Dog
 
-[Compare across authors](../../compare/?t=film-dog_626735)
+[Compare across authors](../compare/index.md?t=film-dog_626735)
 
 ## DD+ 5.1
 

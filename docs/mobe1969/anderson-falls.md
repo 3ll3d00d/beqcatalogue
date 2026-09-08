@@ -1,6 +1,6 @@
 # Anderson Falls
 
-[Compare across authors](../../compare/?t=film-anderson-falls_534928)
+[Compare across authors](../compare/index.md?t=film-anderson-falls_534928)
 
 ## DTS-HD MA 5.1
 

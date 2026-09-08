@@ -1,6 +1,6 @@
 # See You Yesterday
 
-[Compare across authors](../../compare/?t=film-see-you-yesterday_582607)
+[Compare across authors](../compare/index.md?t=film-see-you-yesterday_582607)
 
 ## DD+ 5.1
 

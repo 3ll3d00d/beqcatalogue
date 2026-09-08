@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-scoop_226531)
+[Compare across authors](../compare/index.md?t=TV-scoop_226531)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # The Hunt for Red October
 
-[Compare across authors](../../compare/?t=film-the-hunt-for-red-october_1669)
+[Compare across authors](../compare/index.md?t=film-the-hunt-for-red-october_1669)
 
 ## TrueHD 5.1
 

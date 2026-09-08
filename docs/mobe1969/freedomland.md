@@ -1,6 +1,6 @@
 # Freedomland
 
-[Compare across authors](../../compare/?t=film-freedomland_9959)
+[Compare across authors](../compare/index.md?t=film-freedomland_9959)
 
 ## TrueHD 5.1
 

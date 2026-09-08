@@ -1,6 +1,6 @@
 # Journey's End
 
-[Compare across authors](../../compare/?t=film-journeys-end_438259)
+[Compare across authors](../compare/index.md?t=film-journeys-end_438259)
 
 ## DTS-HD MA 5.1
 

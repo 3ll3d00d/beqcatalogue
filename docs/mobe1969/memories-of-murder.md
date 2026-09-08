@@ -1,6 +1,6 @@
 # Memories of Murder
 
-[Compare across authors](../../compare/?t=film-memories-of-murder_11423)
+[Compare across authors](../compare/index.md?t=film-memories-of-murder_11423)
 
 ## DTS-HD MA 5.1
 

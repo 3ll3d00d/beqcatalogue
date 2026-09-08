@@ -1,6 +1,6 @@
 # The Himalayas
 
-[Compare across authors](../../compare/?t=film-the-himalayas_374111)
+[Compare across authors](../compare/index.md?t=film-the-himalayas_374111)
 
 ## TrueHD 5.1
 

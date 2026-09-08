@@ -1,6 +1,6 @@
 # The Babymakers
 
-[Compare across authors](../../compare/?t=film-the-babymakers_98066)
+[Compare across authors](../compare/index.md?t=film-the-babymakers_98066)
 
 ## TrueHD 5.1
 

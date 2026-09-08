@@ -1,6 +1,6 @@
 # High Flying Bird
 
-[Compare across authors](../../compare/?t=film-high-flying-bird_510498)
+[Compare across authors](../compare/index.md?t=film-high-flying-bird_510498)
 
 ## DD+ 5.1
 

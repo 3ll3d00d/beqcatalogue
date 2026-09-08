@@ -1,6 +1,6 @@
 # The Bag Man
 
-[Compare across authors](../../compare/?t=film-the-bag-man_242076)
+[Compare across authors](../compare/index.md?t=film-the-bag-man_242076)
 
 ## DD+ 5.1
 

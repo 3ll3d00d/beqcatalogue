@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-kingdom_130364)
+[Compare across authors](../compare/index.md?t=TV-the-kingdom_130364)
 
 ## Season 1
 

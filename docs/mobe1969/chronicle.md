@@ -1,6 +1,6 @@
 # Chronicle
 
-[Compare across authors](../../compare/?t=film-chronicle_76726)
+[Compare across authors](../compare/index.md?t=film-chronicle_76726)
 
 ## DTS-HD MA 5.1
 

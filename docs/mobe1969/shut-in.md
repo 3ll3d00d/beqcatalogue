@@ -1,6 +1,6 @@
 # Shut In
 
-[Compare across authors](../../compare/?t=film-shut-in_629015)
+[Compare across authors](../compare/index.md?t=film-shut-in_629015)
 
 ## DD+ 5.1
 

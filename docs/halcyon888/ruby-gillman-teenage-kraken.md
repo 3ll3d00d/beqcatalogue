@@ -12,7 +12,7 @@ Ruby Gillman, a sweet and awkward high school student, discovers she's a direct 
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62788697)  [TMDB](https://www.themoviedb.org/movie/1040148)  [Compare across authors](../../compare/?t=film-ruby-gillman-teenage-kraken_1040148)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62788697)  [TMDB](https://www.themoviedb.org/movie/1040148)  [Compare across authors](../compare/index.md?t=film-ruby-gillman-teenage-kraken_1040148)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Ruby%20Gillman%2C%20Teenage%20Kraken%20(2023)%20DD%2B%20Atmos%20PvA.jpg)

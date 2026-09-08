@@ -1,6 +1,6 @@
 # Robin Hood: The Rebellion
 
-[Compare across authors](../../compare/?t=film-robin-hood-the-rebellion_549165)
+[Compare across authors](../compare/index.md?t=film-robin-hood-the-rebellion_549165)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Corrective Measures
 
-[Compare across authors](../../compare/?t=film-corrective-measures_872177)
+[Compare across authors](../compare/index.md?t=film-corrective-measures_872177)
 
 ## DTS-HD MA 5.1
 

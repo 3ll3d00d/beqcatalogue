@@ -7,7 +7,7 @@
 Desperate to keep custody of his daughter, a mixed martial arts fighter abandons a big match and races across Berlin to attend her birthday party.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1212073)  [Compare across authors](../../compare/?t=film-sixty-minutes_1212073)
+[TMDB](https://www.themoviedb.org/movie/1212073)  [Compare across authors](../compare/index.md?t=film-sixty-minutes_1212073)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Sixty%20Minutes/Sixty%20Minutes%20(2024)%20(de)%20DD%2B%20Atmos.jpg)

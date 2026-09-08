@@ -1,6 +1,6 @@
 # The Last Frontier
 
-[Compare across authors](../../compare/?t=film-the-last-frontier_579831)
+[Compare across authors](../compare/index.md?t=film-the-last-frontier_579831)
 
 ## DTS-HD MA 5.1
 

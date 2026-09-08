@@ -1,6 +1,6 @@
 # Hellboy Animated: Blood and Iron
 
-[Compare across authors](../../compare/?t=film-hellboy-animated-blood-and-iron_13204)
+[Compare across authors](../compare/index.md?t=film-hellboy-animated-blood-and-iron_13204)
 
 ## Atmos
 

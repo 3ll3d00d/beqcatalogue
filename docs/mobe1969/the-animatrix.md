@@ -1,6 +1,6 @@
 # The Animatrix
 
-[Compare across authors](../../compare/?t=film-the-animatrix_55931)
+[Compare across authors](../compare/index.md?t=film-the-animatrix_55931)
 
 ## TrueHD 5.1
 

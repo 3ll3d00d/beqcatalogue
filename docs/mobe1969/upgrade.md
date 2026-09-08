@@ -1,6 +1,6 @@
 # Upgrade
 
-[Compare across authors](../../compare/?t=film-upgrade_500664)
+[Compare across authors](../compare/index.md?t=film-upgrade_500664)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Lost Time
 
-[Compare across authors](../../compare/?t=film-lost-time_291347)
+[Compare across authors](../compare/index.md?t=film-lost-time_291347)
 
 ## DD 5.1
 

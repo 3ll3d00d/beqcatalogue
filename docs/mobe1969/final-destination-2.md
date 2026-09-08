@@ -1,6 +1,6 @@
 # Final Destination 2
 
-[Compare across authors](../../compare/?t=film-final-destination-2_9358)
+[Compare across authors](../compare/index.md?t=film-final-destination-2_9358)
 
 ## TrueHD 5.1
 

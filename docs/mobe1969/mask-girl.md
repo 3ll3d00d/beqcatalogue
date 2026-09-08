@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mask-girl_156888)
+[Compare across authors](../compare/index.md?t=TV-mask-girl_156888)
 
 ## Season 1
 

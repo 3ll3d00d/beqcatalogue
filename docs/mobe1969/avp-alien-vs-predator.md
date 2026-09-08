@@ -1,6 +1,6 @@
 # AVP: Alien vs. Predator
 
-[Compare across authors](../../compare/?t=film-avp-alien-vs-predator_395)
+[Compare across authors](../compare/index.md?t=film-avp-alien-vs-predator_395)
 
 ## DTS-HD MA 5.1
 

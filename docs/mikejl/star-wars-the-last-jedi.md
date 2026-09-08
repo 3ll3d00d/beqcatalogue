@@ -7,7 +7,7 @@
 Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/181808)  [Compare across authors](../../compare/?t=film-star-wars-the-last-jedi_181808)
+[TMDB](https://www.themoviedb.org/movie/181808)  [Compare across authors](../compare/index.md?t=film-star-wars-the-last-jedi_181808)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Star%20Wars%20-%20The%20Last%20Jedi/Star%20Wars%20-%20The%20Last%20Jedi%20(2017)%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # Tucker and Dale vs. Evil
 
-[Compare across authors](../../compare/?t=film-tucker-and-dale-vs-evil_46838)
+[Compare across authors](../compare/index.md?t=film-tucker-and-dale-vs-evil_46838)
 
 ## DTS-HD MA 5.1
 

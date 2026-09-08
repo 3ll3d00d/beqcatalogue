@@ -1,6 +1,6 @@
 # A Haunting in Venice
 
-[Compare across authors](../../compare/?t=film-a-haunting-in-venice_945729)
+[Compare across authors](../compare/index.md?t=film-a-haunting-in-venice_945729)
 
 ## DD+ 5.1
 

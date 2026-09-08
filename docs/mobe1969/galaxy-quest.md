@@ -1,6 +1,6 @@
 # Galaxy Quest
 
-[Compare across authors](../../compare/?t=film-galaxy-quest_926)
+[Compare across authors](../compare/index.md?t=film-galaxy-quest_926)
 
 ## TrueHD 5.1
 

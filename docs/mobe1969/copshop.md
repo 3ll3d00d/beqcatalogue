@@ -1,6 +1,6 @@
 # Copshop
 
-[Compare across authors](../../compare/?t=film-copshop_738652)
+[Compare across authors](../compare/index.md?t=film-copshop_738652)
 
 ## DD+ 5.1
 

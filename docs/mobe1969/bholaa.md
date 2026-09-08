@@ -1,6 +1,6 @@
 # Bholaa
 
-[Compare across authors](../../compare/?t=film-bholaa_965606)
+[Compare across authors](../compare/index.md?t=film-bholaa_965606)
 
 ## DD+ 5.1
 

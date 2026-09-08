@@ -1,6 +1,6 @@
 # Jailbreak
 
-[Compare across authors](../../compare/?t=film-jailbreak_433623)
+[Compare across authors](../compare/index.md?t=film-jailbreak_433623)
 
 ## DD+ 5.1
 

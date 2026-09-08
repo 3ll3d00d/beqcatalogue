@@ -1,6 +1,6 @@
 # 26 Years
 
-[Compare across authors](../../compare/?t=film-26-years_140380)
+[Compare across authors](../compare/index.md?t=film-26-years_140380)
 
 ## DD+ 5.1
 

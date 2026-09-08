@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-tom-clancys-jack-ryan_73375)
+[Compare across authors](../compare/index.md?t=TV-tom-clancys-jack-ryan_73375)
 
 ## Season 1
 

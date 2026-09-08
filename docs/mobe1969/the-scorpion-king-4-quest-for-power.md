@@ -1,6 +1,6 @@
 # The Scorpion King 4: Quest for Power
 
-[Compare across authors](../../compare/?t=film-the-scorpion-king-4-quest-for-power_297291)
+[Compare across authors](../compare/index.md?t=film-the-scorpion-king-4-quest-for-power_297291)
 
 ## DTS-HD MA 5.1
 

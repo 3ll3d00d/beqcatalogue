@@ -1,6 +1,6 @@
 # The Meg
 
-[Compare across authors](../../compare/?t=film-the-meg_345940)
+[Compare across authors](../compare/index.md?t=film-the-meg_345940)
 
 ## Atmos
 

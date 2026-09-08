@@ -1,6 +1,6 @@
 # Dragonheart: Vengeance
 
-[Compare across authors](../../compare/?t=film-dragonheart-vengeance_666750)
+[Compare across authors](../compare/index.md?t=film-dragonheart-vengeance_666750)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Ice Twisters
 
-[Compare across authors](../../compare/?t=film-ice-twisters_34559)
+[Compare across authors](../compare/index.md?t=film-ice-twisters_34559)
 
 ## DD+ 5.1
 

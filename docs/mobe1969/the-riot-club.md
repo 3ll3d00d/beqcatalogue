@@ -1,6 +1,6 @@
 # The Riot Club
 
-[Compare across authors](../../compare/?t=film-the-riot-club_270302)
+[Compare across authors](../compare/index.md?t=film-the-riot-club_270302)
 
 ## DTS-HD MA 5.1
 

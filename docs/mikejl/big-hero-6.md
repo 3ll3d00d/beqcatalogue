@@ -7,7 +7,7 @@
 A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/177572)  [Compare across authors](../../compare/?t=film-big-hero-6_177572)
+[TMDB](https://www.themoviedb.org/movie/177572)  [Compare across authors](../compare/index.md?t=film-big-hero-6_177572)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Big%20Hero%206/Big%20Hero%206%20(2014)%20DD%2B%20Atmos.jpg)

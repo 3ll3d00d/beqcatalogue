@@ -1,6 +1,6 @@
 # Free Solo
 
-[Compare across authors](../../compare/?t=film-free-solo_515042)
+[Compare across authors](../compare/index.md?t=film-free-solo_515042)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Ghost in the Shell Arise - Border 4: Ghost Stands Alone
 
-[Compare across authors](../../compare/?t=film-ghost-in-the-shell-arise-border-4-ghost-stands-alone_279254)
+[Compare across authors](../compare/index.md?t=film-ghost-in-the-shell-arise-border-4-ghost-stands-alone_279254)
 
 ## TrueHD 5.1
 

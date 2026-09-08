@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-tulsa-king_153312)
+[Compare across authors](../compare/index.md?t=TV-tulsa-king_153312)
 
 ## Season 1
 

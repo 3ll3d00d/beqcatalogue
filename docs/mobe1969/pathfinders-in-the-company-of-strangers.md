@@ -1,6 +1,6 @@
 # Pathfinders: In the Company of Strangers
 
-[Compare across authors](../../compare/?t=film-pathfinders-in-the-company-of-strangers_61346)
+[Compare across authors](../compare/index.md?t=film-pathfinders-in-the-company-of-strangers_61346)
 
 ## DTS-HD MA 5.1
 

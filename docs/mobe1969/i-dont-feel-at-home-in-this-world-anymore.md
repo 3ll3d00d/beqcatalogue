@@ -1,6 +1,6 @@
 # I Don't Feel at Home in This World Anymore
 
-[Compare across authors](../../compare/?t=film-i-dont-feel-at-home-in-this-world-anymore_425591)
+[Compare across authors](../compare/index.md?t=film-i-dont-feel-at-home-in-this-world-anymore_425591)
 
 ## DD+ 5.1
 

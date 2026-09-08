@@ -1,6 +1,6 @@
 # The Ice Age Adventures of Buck Wild
 
-[Compare across authors](../../compare/?t=film-the-ice-age-adventures-of-buck-wild_774825)
+[Compare across authors](../compare/index.md?t=film-the-ice-age-adventures-of-buck-wild_774825)
 
 ## DD+ Atmos
 

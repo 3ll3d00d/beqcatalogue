@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-la-brea_128839)
+* [Compare across authors](../compare/index.md?t=TV-la-brea_128839)
 
 * Production Year: 2021
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-la-brea_128839)
+* [Compare across authors](../compare/index.md?t=TV-la-brea_128839)
 
 * Production Year: 2021
 
@@ -37,7 +37,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-la-brea_128839)
+* [Compare across authors](../compare/index.md?t=TV-la-brea_128839)
 
 * Production Year: 2021
 

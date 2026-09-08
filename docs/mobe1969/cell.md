@@ -1,6 +1,6 @@
 # Cell
 
-[Compare across authors](../../compare/?t=film-cell_168098)
+[Compare across authors](../compare/index.md?t=film-cell_168098)
 
 ## DTS-HD MA 5.1
 

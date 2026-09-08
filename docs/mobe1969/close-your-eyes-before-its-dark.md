@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-close-your-eyes-before-its-dark_81900)
+[Compare across authors](../compare/index.md?t=TV-close-your-eyes-before-its-dark_81900)
 
 ## Season 1
 

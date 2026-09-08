@@ -1,6 +1,6 @@
 # Talladega Nights
 
-[Compare across authors](../../compare/?t=film-talladega-nights_9718)
+[Compare across authors](../compare/index.md?t=film-talladega-nights_9718)
 
 ## DTS-HD MA 5.1
 

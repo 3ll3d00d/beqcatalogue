@@ -1,6 +1,6 @@
 # Alien Abduction
 
-[Compare across authors](../../compare/?t=film-alien-abduction_258193)
+[Compare across authors](../compare/index.md?t=film-alien-abduction_258193)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-between_62433)
+[Compare across authors](../compare/index.md?t=TV-between_62433)
 
 ## Season 1
 

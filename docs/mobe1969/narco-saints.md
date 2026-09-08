@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-narco-saints_97970)
+[Compare across authors](../compare/index.md?t=TV-narco-saints_97970)
 
 ## Season 1
 

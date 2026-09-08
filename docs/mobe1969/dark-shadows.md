@@ -1,6 +1,6 @@
 # Dark Shadows
 
-[Compare across authors](../../compare/?t=film-dark-shadows_62213)
+[Compare across authors](../compare/index.md?t=film-dark-shadows_62213)
 
 ## DTS-HD MA 5.1
 

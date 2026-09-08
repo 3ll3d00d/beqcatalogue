@@ -1,6 +1,6 @@
 # A Dark Place
 
-[Compare across authors](../../compare/?t=film-a-dark-place_412157)
+[Compare across authors](../compare/index.md?t=film-a-dark-place_412157)
 
 ## DD+ 5.1
 

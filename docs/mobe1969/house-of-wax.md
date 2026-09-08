@@ -1,6 +1,6 @@
 # House of Wax
 
-[Compare across authors](../../compare/?t=film-house-of-wax_10066)
+[Compare across authors](../compare/index.md?t=film-house-of-wax_10066)
 
 ## DD 5.1
 

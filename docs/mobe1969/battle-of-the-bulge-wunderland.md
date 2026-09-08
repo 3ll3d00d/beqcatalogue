@@ -1,6 +1,6 @@
 # Battle of the Bulge Wunderland
 
-[Compare across authors](../../compare/?t=film-battle-of-the-bulge-wunderland_480465)
+[Compare across authors](../compare/index.md?t=film-battle-of-the-bulge-wunderland_480465)
 
 ## DTS-HD MA 5.1
 

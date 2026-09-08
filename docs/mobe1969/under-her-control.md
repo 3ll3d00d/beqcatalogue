@@ -1,6 +1,6 @@
 # Under Her Control
 
-[Compare across authors](../../compare/?t=film-under-her-control_946703)
+[Compare across authors](../compare/index.md?t=film-under-her-control_946703)
 
 ## DD+ 5.1
 

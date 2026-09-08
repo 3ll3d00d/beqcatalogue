@@ -1,6 +1,6 @@
 # Solo
 
-[Compare across authors](../../compare/?t=film-solo_224950)
+[Compare across authors](../compare/index.md?t=film-solo_224950)
 
 ## DD+ 5.1
 

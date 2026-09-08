@@ -1,6 +1,6 @@
 # Afterlife of the Party
 
-[Compare across authors](../../compare/?t=film-afterlife-of-the-party_785457)
+[Compare across authors](../compare/index.md?t=film-afterlife-of-the-party_785457)
 
 ## DD+ Atmos, DD+ 5.1
 

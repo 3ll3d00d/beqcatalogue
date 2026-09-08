@@ -1,6 +1,6 @@
 # Star Wars: The Rise of Skywalker
 
-[Compare across authors](../../compare/?t=film-star-wars-the-rise-of-skywalker_181812)
+[Compare across authors](../compare/index.md?t=film-star-wars-the-rise-of-skywalker_181812)
 
 ## Atmos
 

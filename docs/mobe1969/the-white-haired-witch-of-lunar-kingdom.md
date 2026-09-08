@@ -1,6 +1,6 @@
 # The White Haired Witch of Lunar Kingdom
 
-[Compare across authors](../../compare/?t=film-the-white-haired-witch-of-lunar-kingdom_257648)
+[Compare across authors](../compare/index.md?t=film-the-white-haired-witch-of-lunar-kingdom_257648)
 
 ## TrueHD 5.1, DD+ 5.1
 

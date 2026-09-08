@@ -1,6 +1,6 @@
 # True Legend
 
-[Compare across authors](../../compare/?t=film-true-legend_37034)
+[Compare across authors](../compare/index.md?t=film-true-legend_37034)
 
 ## DTS-HD MA 5.1
 

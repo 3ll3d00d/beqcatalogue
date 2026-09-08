@@ -1,6 +1,6 @@
 # Centurion
 
-[Compare across authors](../../compare/?t=film-centurion_23759)
+[Compare across authors](../compare/index.md?t=film-centurion_23759)
 
 ## DTS-HD MA 7.1
 

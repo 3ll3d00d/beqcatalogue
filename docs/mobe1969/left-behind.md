@@ -1,6 +1,6 @@
 # Left Behind
 
-[Compare across authors](../../compare/?t=film-left-behind_218043)
+[Compare across authors](../compare/index.md?t=film-left-behind_218043)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 A savvy and free-spirited surfer is abducted by a shark-obsessed serial killer. Held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1285965)  [Compare across authors](../../compare/?t=film-dangerous-animals_1285965)
+[TMDB](https://www.themoviedb.org/movie/1285965)  [Compare across authors](../compare/index.md?t=film-dangerous-animals_1285965)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dangerous%20Animals/Dangerous%20Animals%20(2025)%20DTS-HD%20MA%205.1.jpg)

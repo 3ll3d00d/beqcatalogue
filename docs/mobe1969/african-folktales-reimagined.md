@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-african-folktales-reimagined_223428)
+[Compare across authors](../compare/index.md?t=TV-african-folktales-reimagined_223428)
 
 ## Season 1
 

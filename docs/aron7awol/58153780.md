@@ -1,6 +1,6 @@
 # Warrior
 
-[Compare across authors](../../compare/?t=film-warrior_59440)
+[Compare across authors](../compare/index.md?t=film-warrior_59440)
 
 ## Atmos
 

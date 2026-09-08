@@ -9,7 +9,7 @@ When all but one child from the same class mysteriously vanish on the same night
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1665?post_id=64246867#post-64246867)  [TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../../compare/?t=film-weapons_1078605)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1665?post_id=64246867#post-64246867)  [TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../compare/index.md?t=film-weapons_1078605)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B6%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ When all but one child from the same class mysteriously vanish on the same night
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1642?post_id=64192775#post-64192775)  [TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../../compare/?t=film-weapons_1078605)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1642?post_id=64192775#post-64192775)  [TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../compare/index.md?t=film-weapons_1078605)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B2.5)%20DD.jpg)
@@ -47,7 +47,7 @@ When all but one child from the same class mysteriously vanish on the same night
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1642?post_id=64193979#post-64193979)  [TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../../compare/?t=film-weapons_1078605)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1642?post_id=64193979#post-64193979)  [TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../compare/index.md?t=film-weapons_1078605)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Weapons%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # Geo-Disaster
 
-[Compare across authors](../../compare/?t=film-geo-disaster_479475)
+[Compare across authors](../compare/index.md?t=film-geo-disaster_479475)
 
 ## DD+ 5.1
 

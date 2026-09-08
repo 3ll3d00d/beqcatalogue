@@ -1,6 +1,6 @@
 # Aladdin
 
-[Compare across authors](../../compare/?t=film-aladdin_812)
+[Compare across authors](../compare/index.md?t=film-aladdin_812)
 
 ## Atmos
 

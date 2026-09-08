@@ -1,6 +1,6 @@
 # All The Old Knives
 
-[Compare across authors](../../compare/?t=film-all-the-old-knives_294793)
+[Compare across authors](../compare/index.md?t=film-all-the-old-knives_294793)
 
 ## DD+ 5.1
 

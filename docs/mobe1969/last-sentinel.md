@@ -1,6 +1,6 @@
 # Last Sentinel
 
-[Compare across authors](../../compare/?t=film-last-sentinel_516806)
+[Compare across authors](../compare/index.md?t=film-last-sentinel_516806)
 
 ## DD+ 5.1
 

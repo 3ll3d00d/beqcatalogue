@@ -1,6 +1,6 @@
 # Behind Enemy Lines
 
-[Compare across authors](../../compare/?t=film-behind-enemy-lines_8007)
+[Compare across authors](../compare/index.md?t=film-behind-enemy-lines_8007)
 
 ## DTS-HD MA 5.1
 

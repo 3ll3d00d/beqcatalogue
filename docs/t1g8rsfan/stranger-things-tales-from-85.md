@@ -7,7 +7,7 @@
 
 **MV Adjustment:** +2.0 dB
 
-* [Compare across authors](../../compare/?t=TV-stranger-things-tales-from-85_224263)
+* [Compare across authors](../compare/index.md?t=TV-stranger-things-tales-from-85_224263)
 
 * Production Year: 2026
 

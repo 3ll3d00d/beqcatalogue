@@ -1,6 +1,6 @@
 # Shaft
 
-[Compare across authors](../../compare/?t=film-shaft_479)
+[Compare across authors](../compare/index.md?t=film-shaft_479)
 
 ## DTS-HD MA 5.1
 

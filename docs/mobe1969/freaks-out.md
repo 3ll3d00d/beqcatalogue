@@ -1,6 +1,6 @@
 # Freaks Out
 
-[Compare across authors](../../compare/?t=film-freaks-out_571468)
+[Compare across authors](../compare/index.md?t=film-freaks-out_571468)
 
 ## DTS-HD MA 7.1
 

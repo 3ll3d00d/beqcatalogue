@@ -1,6 +1,6 @@
 # Rendel
 
-[Compare across authors](../../compare/?t=film-rendel_397852)
+[Compare across authors](../compare/index.md?t=film-rendel_397852)
 
 ## DTS-HD MA 5.1
 

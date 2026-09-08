@@ -1,6 +1,6 @@
 # Volition
 
-[Compare across authors](../../compare/?t=film-volition_600348)
+[Compare across authors](../compare/index.md?t=film-volition_600348)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Jumanji
 
-[Compare across authors](../../compare/?t=film-jumanji_8844)
+[Compare across authors](../compare/index.md?t=film-jumanji_8844)
 
 ## Atmos
 

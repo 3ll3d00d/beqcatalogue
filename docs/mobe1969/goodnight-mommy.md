@@ -1,6 +1,6 @@
 # Goodnight Mommy
 
-[Compare across authors](../../compare/?t=film-goodnight-mommy_814800)
+[Compare across authors](../compare/index.md?t=film-goodnight-mommy_814800)
 
 ## DD+ 5.1
 

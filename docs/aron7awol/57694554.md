@@ -1,6 +1,6 @@
 # Midnight Special
 
-[Compare across authors](../../compare/?t=film-midnight-special_245703)
+[Compare across authors](../compare/index.md?t=film-midnight-special_245703)
 
 ## DTS-HD MA 5.1
 

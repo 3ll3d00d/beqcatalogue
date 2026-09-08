@@ -1,6 +1,6 @@
 # Justice League
 
-[Compare across authors](../../compare/?t=film-justice-league_141052)
+[Compare across authors](../compare/index.md?t=film-justice-league_141052)
 
 ## Atmos
 

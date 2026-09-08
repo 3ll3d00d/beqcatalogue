@@ -1,6 +1,6 @@
 # Connected
 
-[Compare across authors](../../compare/?t=film-connected_19611)
+[Compare across authors](../compare/index.md?t=film-connected_19611)
 
 ## DD+ 5.1
 

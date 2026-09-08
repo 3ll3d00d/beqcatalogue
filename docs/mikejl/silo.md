@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-silo_125988)
+* [Compare across authors](../compare/index.md?t=TV-silo_125988)
 
 * Production Year: 2023
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-silo_125988)
+* [Compare across authors](../compare/index.md?t=TV-silo_125988)
 
 * Production Year: 2023
 
@@ -37,7 +37,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-silo_125988)
+* [Compare across authors](../compare/index.md?t=TV-silo_125988)
 
 * Production Year: 2023
 

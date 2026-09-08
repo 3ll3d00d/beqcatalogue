@@ -1,6 +1,6 @@
 # Revolver
 
-[Compare across authors](../../compare/?t=film-revolver_10851)
+[Compare across authors](../compare/index.md?t=film-revolver_10851)
 
 ## TrueHD 5.1
 

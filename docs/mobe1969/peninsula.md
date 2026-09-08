@@ -1,6 +1,6 @@
 # Peninsula
 
-[Compare across authors](../../compare/?t=film-peninsula_581392)
+[Compare across authors](../compare/index.md?t=film-peninsula_581392)
 
 ## Atmos
 

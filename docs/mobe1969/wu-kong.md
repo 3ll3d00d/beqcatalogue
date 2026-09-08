@@ -1,6 +1,6 @@
 # Wu Kong
 
-[Compare across authors](../../compare/?t=film-wu-kong_452910)
+[Compare across authors](../compare/index.md?t=film-wu-kong_452910)
 
 ## TrueHD 7.1
 

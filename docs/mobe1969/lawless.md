@@ -1,6 +1,6 @@
 # Lawless
 
-[Compare across authors](../../compare/?t=film-lawless_82633)
+[Compare across authors](../compare/index.md?t=film-lawless_82633)
 
 ## DTS-HD MA 5.1
 

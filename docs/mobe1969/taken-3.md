@@ -1,6 +1,6 @@
 # Taken 3
 
-[Compare across authors](../../compare/?t=film-taken-3_260346)
+[Compare across authors](../compare/index.md?t=film-taken-3_260346)
 
 ## Atmos
 

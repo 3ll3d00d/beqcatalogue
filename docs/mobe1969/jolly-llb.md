@@ -1,6 +1,6 @@
 # Jolly LLB
 
-[Compare across authors](../../compare/?t=film-jolly-llb_177358)
+[Compare across authors](../compare/index.md?t=film-jolly-llb_177358)
 
 ## TrueHD 5.1, DTS-HD MA 5.1
 

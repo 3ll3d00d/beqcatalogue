@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-live_77283)
+[Compare across authors](../compare/index.md?t=TV-live_77283)
 
 ## Season 1
 

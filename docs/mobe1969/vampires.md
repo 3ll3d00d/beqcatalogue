@@ -1,6 +1,6 @@
 # Vampires
 
-[Compare across authors](../../compare/?t=film-vampires_9945)
+[Compare across authors](../compare/index.md?t=film-vampires_9945)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Legend of the Guardians: The Owls of Ga'Hoole
 
-[Compare across authors](../../compare/?t=film-legend-of-the-guardians-the-owls-of-gahoole_41216)
+[Compare across authors](../compare/index.md?t=film-legend-of-the-guardians-the-owls-of-gahoole_41216)
 
 ## DTS-HD MA 5.1
 

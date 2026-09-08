@@ -1,6 +1,6 @@
 # Secret Magic Control Agency
 
-[Compare across authors](../../compare/?t=film-secret-magic-control-agency_797394)
+[Compare across authors](../compare/index.md?t=film-secret-magic-control-agency_797394)
 
 ## DD+ 5.1
 

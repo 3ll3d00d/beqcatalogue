@@ -1,6 +1,6 @@
 # The Monster Squad
 
-[Compare across authors](../../compare/?t=film-the-monster-squad_13509)
+[Compare across authors](../compare/index.md?t=film-the-monster-squad_13509)
 
 ## DTS-HD MA 5.1
 

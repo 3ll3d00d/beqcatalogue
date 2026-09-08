@@ -1,6 +1,6 @@
 # Hard Night Falling
 
-[Compare across authors](../../compare/?t=film-hard-night-falling_605368)
+[Compare across authors](../compare/index.md?t=film-hard-night-falling_605368)
 
 ## DTS-HD MA 5.1
 

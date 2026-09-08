@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-hanna_54155)
+[Compare across authors](../compare/index.md?t=TV-hanna_54155)
 
 ## Season 1
 

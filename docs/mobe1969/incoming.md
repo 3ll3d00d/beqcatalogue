@@ -1,6 +1,6 @@
 # Incoming
 
-[Compare across authors](../../compare/?t=film-incoming_522964)
+[Compare across authors](../compare/index.md?t=film-incoming_522964)
 
 ## DTS-HD MA 5.1
 

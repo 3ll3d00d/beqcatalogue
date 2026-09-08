@@ -7,7 +7,7 @@
 After the death of his father, a boy growing up on a lunar mining colony takes a trip to explore a legendary crater, along with his four best friends, prior to being permanently relocated to another planet.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/620705)  [Compare across authors](../../compare/?t=film-crater_620705)
+[TMDB](https://www.themoviedb.org/movie/620705)  [Compare across authors](../compare/index.md?t=film-crater_620705)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crater/Crater%20(2023)%20DD%2B%20Atmos.jpg)

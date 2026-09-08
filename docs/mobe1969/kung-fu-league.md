@@ -1,6 +1,6 @@
 # Kung Fu League
 
-[Compare across authors](../../compare/?t=film-kung-fu-league_523873)
+[Compare across authors](../compare/index.md?t=film-kung-fu-league_523873)
 
 ## DTS-HD MA 5.1
 

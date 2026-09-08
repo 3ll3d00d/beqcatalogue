@@ -14,7 +14,7 @@ Dialnorm Compensation: Ep. 1: 7dB, Ep. 2: 5dB,  Ep. 3-8: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64631081#post-64631081)
 
-* [Compare across authors](../../compare/?t=TV-spider-noir_1703288)
+* [Compare across authors](../compare/index.md?t=TV-spider-noir_1703288)
 
 * Production Year: 2026
 

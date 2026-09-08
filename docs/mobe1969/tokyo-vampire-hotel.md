@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-tokyo-vampire-hotel_71495)
+[Compare across authors](../compare/index.md?t=TV-tokyo-vampire-hotel_71495)
 
 ## Season 1
 

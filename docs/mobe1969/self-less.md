@@ -1,6 +1,6 @@
 # Self-Less
 
-[Compare across authors](../../compare/?t=film-self-less_238615)
+[Compare across authors](../compare/index.md?t=film-self-less_238615)
 
 ## DTS-HD MA 5.1
 

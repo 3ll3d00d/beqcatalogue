@@ -14,7 +14,7 @@ Dialnorm Compensation: Ep1-4dB Ep3-3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1674?post_id=64284638#post-64284638)
 
-* [Compare across authors](../../compare/?t=TV-dark-matter_196322)
+* [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
 
 * Production Year: 2024
 
@@ -33,7 +33,7 @@ Dialnorm Compensation: Ep2-4dB Ep9-8dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1674?post_id=64284780#post-64284780)
 
-* [Compare across authors](../../compare/?t=TV-dark-matter_196322)
+* [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
 
 * Production Year: 2024
 
@@ -52,7 +52,7 @@ Dialnorm Compensation: Ep3-3dB Ep7-4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1674?post_id=64284798#post-64284798)
 
-* [Compare across authors](../../compare/?t=TV-dark-matter_196322)
+* [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
 
 * Production Year: 2024
 
@@ -71,7 +71,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1674?post_id=64284825#post-64284825)
 
-* [Compare across authors](../../compare/?t=TV-dark-matter_196322)
+* [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
 
 * Production Year: 2024
 
@@ -93,7 +93,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1674?post_id=64284839#post-64284839)
 
-* [Compare across authors](../../compare/?t=TV-dark-matter_196322)
+* [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
 
 * Production Year: 2024
 
@@ -115,7 +115,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1675?post_id=64284845#post-64284845)
 
-* [Compare across authors](../../compare/?t=TV-dark-matter_196322)
+* [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
 
 * Production Year: 2024
 
@@ -137,7 +137,7 @@ Dialnorm Compensation: 11dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1675?post_id=64284845#post-64284845)
 
-* [Compare across authors](../../compare/?t=TV-dark-matter_196322)
+* [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
 
 * Production Year: 2024
 
@@ -159,7 +159,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1767?post_id=64794987#post-64794987)
 
-* [Compare across authors](../../compare/?t=TV-dark-matter_196322)
+* [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
 
 * Production Year: 2024
 
@@ -181,7 +181,7 @@ Dialnorm Compensation: 3dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1772#post-64818987)
 
-* [Compare across authors](../../compare/?t=TV-dark-matter_196322)
+* [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
 
 * Production Year: 2024
 

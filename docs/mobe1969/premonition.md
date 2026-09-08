@@ -1,6 +1,6 @@
 # Premonition
 
-[Compare across authors](../../compare/?t=film-premonition_9963)
+[Compare across authors](../compare/index.md?t=film-premonition_9963)
 
 ## LPCM 5.1
 

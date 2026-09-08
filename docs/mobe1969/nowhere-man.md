@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-nowhere-man_94384)
+[Compare across authors](../compare/index.md?t=TV-nowhere-man_94384)
 
 ## Season 1
 

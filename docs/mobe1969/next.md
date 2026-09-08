@@ -1,6 +1,6 @@
 # Next
 
-[Compare across authors](../../compare/?t=film-next_1738)
+[Compare across authors](../compare/index.md?t=film-next_1738)
 
 ## DTS-HD HR 5.1
 

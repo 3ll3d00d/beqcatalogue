@@ -1,6 +1,6 @@
 # The Hangover Part II
 
-[Compare across authors](../../compare/?t=film-the-hangover-part-ii_45243)
+[Compare across authors](../compare/index.md?t=film-the-hangover-part-ii_45243)
 
 ## DTS-HD MA 5.1
 

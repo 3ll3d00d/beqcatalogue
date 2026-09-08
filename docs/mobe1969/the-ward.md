@@ -1,6 +1,6 @@
 # The Ward
 
-[Compare across authors](../../compare/?t=film-the-ward_45657)
+[Compare across authors](../compare/index.md?t=film-the-ward_45657)
 
 ## TrueHD 5.1
 

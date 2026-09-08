@@ -1,6 +1,6 @@
 # What Happened to Mr Cha?
 
-[Compare across authors](../../compare/?t=film-what-happened-to-mr-cha_629277)
+[Compare across authors](../compare/index.md?t=film-what-happened-to-mr-cha_629277)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Killer Elite
 
-[Compare across authors](../../compare/?t=film-killer-elite_49021)
+[Compare across authors](../compare/index.md?t=film-killer-elite_49021)
 
 ## DTS-HD MA 5.1
 

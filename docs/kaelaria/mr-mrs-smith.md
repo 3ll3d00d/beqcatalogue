@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-mr-mrs-smith_118642)
+* [Compare across authors](../compare/index.md?t=TV-mr-mrs-smith_118642)
 
 * Production Year: 2024
 

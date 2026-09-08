@@ -1,6 +1,6 @@
 # Along with the Gods: The Two Worlds
 
-[Compare across authors](../../compare/?t=film-along-with-the-gods-the-two-worlds_397567)
+[Compare across authors](../compare/index.md?t=film-along-with-the-gods-the-two-worlds_397567)
 
 ## DTS-HD MA 5.1
 

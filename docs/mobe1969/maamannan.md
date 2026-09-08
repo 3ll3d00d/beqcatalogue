@@ -1,6 +1,6 @@
 # Maamannan
 
-[Compare across authors](../../compare/?t=film-maamannan_906223)
+[Compare across authors](../compare/index.md?t=film-maamannan_906223)
 
 ## DD+ 5.1
 

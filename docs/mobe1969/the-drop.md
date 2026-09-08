@@ -1,6 +1,6 @@
 # The Drop
 
-[Compare across authors](../../compare/?t=film-the-drop_154400)
+[Compare across authors](../compare/index.md?t=film-the-drop_154400)
 
 ## DTS-HD MA 5.1
 

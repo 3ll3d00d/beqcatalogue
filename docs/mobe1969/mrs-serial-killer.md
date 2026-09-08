@@ -1,6 +1,6 @@
 # Mrs. Serial Killer
 
-[Compare across authors](../../compare/?t=film-mrs-serial-killer_601807)
+[Compare across authors](../compare/index.md?t=film-mrs-serial-killer_601807)
 
 ## DD+ Atmos
 

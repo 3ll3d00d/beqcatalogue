@@ -1,6 +1,6 @@
 # (500) Days of Summer
 
-[Compare across authors](../../compare/?t=film-500-days-of-summer_19913)
+[Compare across authors](../compare/index.md?t=film-500-days-of-summer_19913)
 
 ## DD+ 5.1
 

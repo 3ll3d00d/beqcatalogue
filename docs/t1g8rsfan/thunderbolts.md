@@ -12,7 +12,7 @@ After finding themselves ensnared in a death trap, seven disillusioned castoffs 
 +5dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/986056)  [Compare across authors](../../compare/?t=film-thunderbolts_986056)
+[TMDB](https://www.themoviedb.org/movie/986056)  [Compare across authors](../compare/index.md?t=film-thunderbolts_986056)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Thunderbolts%20(2025)%20(%2B2%20gain)%20Atmos.jpg)

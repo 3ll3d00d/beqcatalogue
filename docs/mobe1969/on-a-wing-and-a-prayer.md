@@ -1,6 +1,6 @@
 # On a Wing and a Prayer
 
-[Compare across authors](../../compare/?t=film-on-a-wing-and-a-prayer_878375)
+[Compare across authors](../compare/index.md?t=film-on-a-wing-and-a-prayer_878375)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

@@ -10,7 +10,7 @@ D'Artagnan, on a quest to rescue the abducted Constance, runs into the mysteriou
 French
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/845111)  [Compare across authors](../../compare/?t=film-the-three-musketeers-milady_845111)
+[TMDB](https://www.themoviedb.org/movie/845111)  [Compare across authors](../compare/index.md?t=film-the-three-musketeers-milady_845111)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Three%20Musketeers-Part%20II%20-%20Milady%20(2023)%20(fre)%20Atmos.jpg)

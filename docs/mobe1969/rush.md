@@ -1,6 +1,6 @@
 # Rush
 
-[Compare across authors](../../compare/?t=film-rush_96721)
+[Compare across authors](../compare/index.md?t=film-rush_96721)
 
 ## DTS-HD MA 5.1
 

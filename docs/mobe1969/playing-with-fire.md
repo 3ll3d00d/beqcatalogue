@@ -1,6 +1,6 @@
 # Playing with Fire
 
-[Compare across authors](../../compare/?t=film-playing-with-fire_554241)
+[Compare across authors](../compare/index.md?t=film-playing-with-fire_554241)
 
 ## DD+ 5.1
 

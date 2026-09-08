@@ -1,6 +1,6 @@
 # Falling Down
 
-[Compare across authors](../../compare/?t=film-falling-down_37094)
+[Compare across authors](../compare/index.md?t=film-falling-down_37094)
 
 ## DTS-HD MA 5.1
 

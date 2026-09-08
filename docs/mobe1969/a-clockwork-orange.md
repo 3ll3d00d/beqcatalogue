@@ -1,6 +1,6 @@
 # A Clockwork Orange
 
-[Compare across authors](../../compare/?t=film-a-clockwork-orange_185)
+[Compare across authors](../compare/index.md?t=film-a-clockwork-orange_185)
 
 ## DTS-HD MA 5.1
 

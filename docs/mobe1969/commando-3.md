@@ -1,6 +1,6 @@
 # Commando 3
 
-[Compare across authors](../../compare/?t=film-commando-3_606599)
+[Compare across authors](../compare/index.md?t=film-commando-3_606599)
 
 ## DD 2.0
 

@@ -1,6 +1,6 @@
 # 47 Meters Down
 
-[Compare across authors](../../compare/?t=film-47-meters-down_403119)
+[Compare across authors](../compare/index.md?t=film-47-meters-down_403119)
 
 ## LPCM 5.1
 

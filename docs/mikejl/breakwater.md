@@ -7,7 +7,7 @@
 A young ex-con risks his newfound freedom to track down the estranged daughter of a fellow inmate, and unknowingly brings a devil from her past straight to her doorstep.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1006228)  [Compare across authors](../../compare/?t=film-breakwater_1006228)
+[TMDB](https://www.themoviedb.org/movie/1006228)  [Compare across authors](../compare/index.md?t=film-breakwater_1006228)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Breakwater/Breakwater%20(2023)%20DTS-HD%20MA%205.1.jpg)

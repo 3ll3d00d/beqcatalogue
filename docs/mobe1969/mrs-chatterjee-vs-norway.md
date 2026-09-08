@@ -1,6 +1,6 @@
 # Mrs. Chatterjee vs Norway
 
-[Compare across authors](../../compare/?t=film-mrs-chatterjee-vs-norway_986594)
+[Compare across authors](../compare/index.md?t=film-mrs-chatterjee-vs-norway_986594)
 
 ## DD+ 5.1
 

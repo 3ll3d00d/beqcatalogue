@@ -1,6 +1,6 @@
 # Eye in the Sky
 
-[Compare across authors](../../compare/?t=film-eye-in-the-sky_37984)
+[Compare across authors](../compare/index.md?t=film-eye-in-the-sky_37984)
 
 ## TrueHD 5.1
 

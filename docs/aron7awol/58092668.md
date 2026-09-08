@@ -1,6 +1,6 @@
 # Pan
 
-[Compare across authors](../../compare/?t=film-pan_266647)
+[Compare across authors](../compare/index.md?t=film-pan_266647)
 
 ## Atmos
 

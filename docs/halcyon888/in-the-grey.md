@@ -12,7 +12,7 @@ A covert team of elite operatives are living in the shadows. When a ruthless des
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1122573)  [Compare across authors](../../compare/?t=film-in-the-grey_1122573)
+[TMDB](https://www.themoviedb.org/movie/1122573)  [Compare across authors](../compare/index.md?t=film-in-the-grey_1122573)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/In%20the%20Grey%20(2026)%20DDP%20Atmos%20PvA.jpg)

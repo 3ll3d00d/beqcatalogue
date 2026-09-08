@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-shadow-and-bone_85720)
+[Compare across authors](../compare/index.md?t=TV-shadow-and-bone_85720)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Se7en
 
-[Compare across authors](../../compare/?t=film-se7en_807)
+[Compare across authors](../compare/index.md?t=film-se7en_807)
 
 ## DTS-HD MA 7.1
 

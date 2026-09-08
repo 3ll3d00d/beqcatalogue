@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-lioness_113962)
+* [Compare across authors](../compare/index.md?t=TV-lioness_113962)
 
 * Production Year: 2023
 

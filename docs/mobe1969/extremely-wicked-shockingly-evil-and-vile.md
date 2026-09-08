@@ -1,6 +1,6 @@
 # Extremely Wicked, Shockingly Evil and Vile
 
-[Compare across authors](../../compare/?t=film-extremely-wicked-shockingly-evil-and-vile_457799)
+[Compare across authors](../compare/index.md?t=film-extremely-wicked-shockingly-evil-and-vile_457799)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

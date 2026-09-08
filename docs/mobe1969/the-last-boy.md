@@ -1,6 +1,6 @@
 # The Last Boy
 
-[Compare across authors](../../compare/?t=film-the-last-boy_573632)
+[Compare across authors](../compare/index.md?t=film-the-last-boy_573632)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # A Deadly Place
 
-[Compare across authors](../../compare/?t=film-a-deadly-place_765236)
+[Compare across authors](../compare/index.md?t=film-a-deadly-place_765236)
 
 ## DD+ 5.1
 

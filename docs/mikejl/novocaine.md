@@ -7,7 +7,7 @@
 When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1195506)  [Compare across authors](../../compare/?t=film-novocaine_1195506)
+[TMDB](https://www.themoviedb.org/movie/1195506)  [Compare across authors](../compare/index.md?t=film-novocaine_1195506)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Novocaine/Novocaine%20(2025)%20Atmos.jpg)
@@ -21,7 +21,7 @@ When the girl of his dreams is kidnapped, everyman Nate turns his inability to f
 When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1195506)  [Compare across authors](../../compare/?t=film-novocaine_1195506)
+[TMDB](https://www.themoviedb.org/movie/1195506)  [Compare across authors](../compare/index.md?t=film-novocaine_1195506)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Novocaine/Novocaine%20(2025)%20DD%2B%20Atmos.jpg)

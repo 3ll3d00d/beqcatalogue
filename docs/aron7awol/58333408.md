@@ -1,6 +1,6 @@
 # E.T. the Extra-Terrestrial
 
-[Compare across authors](../../compare/?t=film-et-the-extra-terrestrial_601)
+[Compare across authors](../compare/index.md?t=film-et-the-extra-terrestrial_601)
 
 ## DTS-X
 

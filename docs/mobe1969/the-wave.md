@@ -1,6 +1,6 @@
 # The Wave
 
-[Compare across authors](../../compare/?t=film-the-wave_336882)
+[Compare across authors](../compare/index.md?t=film-the-wave_336882)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # A Good Lawyer's Wife
 
-[Compare across authors](../../compare/?t=film-a-good-lawyers-wife_61952)
+[Compare across authors](../compare/index.md?t=film-a-good-lawyers-wife_61952)
 
 ## DTS-HD MA 2.0
 

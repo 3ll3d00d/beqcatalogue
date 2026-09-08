@@ -1,6 +1,6 @@
 # Riders
 
-[Compare across authors](../../compare/?t=film-riders_12577)
+[Compare across authors](../compare/index.md?t=film-riders_12577)
 
 ## DD+ 2.0
 

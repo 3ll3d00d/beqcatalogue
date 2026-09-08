@@ -9,7 +9,7 @@ In the near future, on a decimated Earth, Paul and his twin sons face terror at 
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1495?post_id=63503638#post-63503638)  [TMDB](https://www.themoviedb.org/movie/1051896)  [Compare across authors](../../compare/?t=film-arcadian_1051896)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1495?post_id=63503638#post-63503638)  [TMDB](https://www.themoviedb.org/movie/1051896)  [Compare across authors](../compare/index.md?t=film-arcadian_1051896)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Arcadian%20(2024)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)

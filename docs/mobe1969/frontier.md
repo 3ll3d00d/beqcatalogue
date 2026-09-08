@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-frontier_64555)
+[Compare across authors](../compare/index.md?t=TV-frontier_64555)
 
 ## Season 1
 

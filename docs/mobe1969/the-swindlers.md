@@ -1,6 +1,6 @@
 # The Swindlers
 
-[Compare across authors](../../compare/?t=film-the-swindlers_478187)
+[Compare across authors](../compare/index.md?t=film-the-swindlers_478187)
 
 ## DTS-HD MA 5.1
 

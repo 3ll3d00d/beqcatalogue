@@ -9,7 +9,7 @@ UHD
 After discovering that he has HIV, Gabriel decides to tell everyone.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/640947)  [Compare across authors](../../compare/?t=film-event-horizon_640947)
+[TMDB](https://www.themoviedb.org/movie/640947)  [Compare across authors](../compare/index.md?t=film-event-horizon_640947)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Event%20Horizon%20(1997)%20TrueHD%205.1.jpg)

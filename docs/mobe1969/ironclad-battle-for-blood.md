@@ -1,6 +1,6 @@
 # Ironclad: Battle for Blood
 
-[Compare across authors](../../compare/?t=film-ironclad-battle-for-blood_258251)
+[Compare across authors](../compare/index.md?t=film-ironclad-battle-for-blood_258251)
 
 ## DTS-HD MA 5.1
 

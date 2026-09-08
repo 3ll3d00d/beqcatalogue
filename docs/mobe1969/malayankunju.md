@@ -1,6 +1,6 @@
 # Malayankunju
 
-[Compare across authors](../../compare/?t=film-malayankunju_816586)
+[Compare across authors](../compare/index.md?t=film-malayankunju_816586)
 
 ## DD+ 5.1
 

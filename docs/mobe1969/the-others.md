@@ -1,6 +1,6 @@
 # The Others
 
-[Compare across authors](../../compare/?t=film-the-others_1933)
+[Compare across authors](../compare/index.md?t=film-the-others_1933)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Rangoon
 
-[Compare across authors](../../compare/?t=film-rangoon_392271)
+[Compare across authors](../compare/index.md?t=film-rangoon_392271)
 
 ## Atmos
 

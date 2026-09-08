@@ -1,6 +1,6 @@
 # Deep Sea
 
-[Compare across authors](../../compare/?t=film-deep-sea_667717)
+[Compare across authors](../compare/index.md?t=film-deep-sea_667717)
 
 ## Atmos
 

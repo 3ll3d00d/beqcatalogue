@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-vikings_44217)
+[Compare across authors](../compare/index.md?t=TV-vikings_44217)
 
 ## Season 1
 

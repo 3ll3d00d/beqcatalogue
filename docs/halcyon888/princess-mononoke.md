@@ -9,7 +9,7 @@ Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized b
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62942159)  [TMDB](https://www.themoviedb.org/movie/128)  [Compare across authors](../../compare/?t=film-princess-mononoke_128)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62942159)  [TMDB](https://www.themoviedb.org/movie/128)  [Compare across authors](../compare/index.md?t=film-princess-mononoke_128)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Princess%20Mononoke%20(1997)%20EN%20DTS-HD%20MA%205.1%20PvA.jpg)
@@ -25,7 +25,7 @@ Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized b
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62942159)  [TMDB](https://www.themoviedb.org/movie/128)  [Compare across authors](../../compare/?t=film-princess-mononoke_128)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62942159)  [TMDB](https://www.themoviedb.org/movie/128)  [Compare across authors](../compare/index.md?t=film-princess-mononoke_128)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Princess%20Mononoke%20(1997)%20JP%20DTS-HD%20MA%205.1%20PvA.jpg)

@@ -1,6 +1,6 @@
 # Heatstroke
 
-[Compare across authors](../../compare/?t=film-heatstroke_278334)
+[Compare across authors](../compare/index.md?t=film-heatstroke_278334)
 
 ## DTS-HD MA 5.1
 

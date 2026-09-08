@@ -1,6 +1,6 @@
 # The Wave
 
-[Compare across authors](../../compare/?t=film-the-wave_619263)
+[Compare across authors](../compare/index.md?t=film-the-wave_619263)
 
 ## DTS-HD MA 5.1
 

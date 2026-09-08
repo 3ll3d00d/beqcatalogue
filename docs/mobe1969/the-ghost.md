@@ -1,6 +1,6 @@
 # The Ghost
 
-[Compare across authors](../../compare/?t=film-the-ghost_868666)
+[Compare across authors](../compare/index.md?t=film-the-ghost_868666)
 
 ## DD+ 5.1
 

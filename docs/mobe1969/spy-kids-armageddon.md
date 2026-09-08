@@ -1,6 +1,6 @@
 # Spy Kids: Armageddon
 
-[Compare across authors](../../compare/?t=film-spy-kids-armageddon_790493)
+[Compare across authors](../compare/index.md?t=film-spy-kids-armageddon_790493)
 
 ## DD+ Atmos
 

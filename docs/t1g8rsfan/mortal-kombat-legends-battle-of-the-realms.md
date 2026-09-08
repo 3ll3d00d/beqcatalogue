@@ -9,7 +9,7 @@ The Earthrealm heroes must journey to the Outworld and fight for the survival of
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62913587)  [TMDB](https://www.themoviedb.org/movie/841755)  [Compare across authors](../../compare/?t=film-mortal-kombat-legends-battle-of-the-realms_841755)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62913587)  [TMDB](https://www.themoviedb.org/movie/841755)  [Compare across authors](../compare/index.md?t=film-mortal-kombat-legends-battle-of-the-realms_841755)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/MKL%20Battle%20of%20the%20Realms%20(2021)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)

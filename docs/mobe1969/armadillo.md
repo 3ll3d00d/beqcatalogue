@@ -1,6 +1,6 @@
 # Armadillo
 
-[Compare across authors](../../compare/?t=film-armadillo_37828)
+[Compare across authors](../compare/index.md?t=film-armadillo_37828)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Wolf of Snow Hollow
 
-[Compare across authors](../../compare/?t=film-the-wolf-of-snow-hollow_652004)
+[Compare across authors](../compare/index.md?t=film-the-wolf-of-snow-hollow_652004)
 
 ## DTS-HD MA 5.1
 

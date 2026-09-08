@@ -1,6 +1,6 @@
 # November Criminals
 
-[Compare across authors](../../compare/?t=film-november-criminals_317091)
+[Compare across authors](../compare/index.md?t=film-november-criminals_317091)
 
 ## DTS-HD MA 5.1
 

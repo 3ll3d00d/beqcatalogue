@@ -1,6 +1,6 @@
 # StarDog and TurboCat
 
-[Compare across authors](../../compare/?t=film-stardog-and-turbocat_515789)
+[Compare across authors](../compare/index.md?t=film-stardog-and-turbocat_515789)
 
 ## DTS-HD MA 5.1
 

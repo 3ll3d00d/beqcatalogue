@@ -1,6 +1,6 @@
 # The Untouchables
 
-[Compare across authors](../../compare/?t=film-the-untouchables_117)
+[Compare across authors](../compare/index.md?t=film-the-untouchables_117)
 
 ## Atmos
 

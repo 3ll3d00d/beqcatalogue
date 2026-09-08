@@ -1,6 +1,6 @@
 # Khatta Meetha
 
-[Compare across authors](../../compare/?t=film-khatta-meetha_44565)
+[Compare across authors](../compare/index.md?t=film-khatta-meetha_44565)
 
 ## DD 5.1
 

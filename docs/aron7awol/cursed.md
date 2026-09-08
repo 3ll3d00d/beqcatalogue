@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-cursed_83125)
+[Compare across authors](../compare/index.md?t=TV-cursed_83125)
 
 ## Season 1
 

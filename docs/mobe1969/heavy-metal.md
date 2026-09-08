@@ -1,6 +1,6 @@
 # Heavy Metal
 
-[Compare across authors](../../compare/?t=film-heavy-metal_11827)
+[Compare across authors](../compare/index.md?t=film-heavy-metal_11827)
 
 ## Atmos
 

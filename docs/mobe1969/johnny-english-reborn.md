@@ -1,6 +1,6 @@
 # Johnny English Reborn
 
-[Compare across authors](../../compare/?t=film-johnny-english-reborn_58233)
+[Compare across authors](../compare/index.md?t=film-johnny-english-reborn_58233)
 
 ## DTS-HD MA 5.1
 

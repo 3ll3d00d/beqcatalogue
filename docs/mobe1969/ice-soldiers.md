@@ -1,6 +1,6 @@
 # Ice Soldiers
 
-[Compare across authors](../../compare/?t=film-ice-soldiers_255692)
+[Compare across authors](../compare/index.md?t=film-ice-soldiers_255692)
 
 ## DTS-HD MA 5.1
 

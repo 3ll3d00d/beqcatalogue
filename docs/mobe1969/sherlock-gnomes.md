@@ -1,6 +1,6 @@
 # Sherlock Gnomes
 
-[Compare across authors](../../compare/?t=film-sherlock-gnomes_370567)
+[Compare across authors](../compare/index.md?t=film-sherlock-gnomes_370567)
 
 ## DD+ 5.1
 

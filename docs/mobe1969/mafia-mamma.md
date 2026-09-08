@@ -1,6 +1,6 @@
 # Mafia Mamma
 
-[Compare across authors](../../compare/?t=film-mafia-mamma_809787)
+[Compare across authors](../compare/index.md?t=film-mafia-mamma_809787)
 
 ## DD+ 5.1
 

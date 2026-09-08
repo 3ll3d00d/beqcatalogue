@@ -1,6 +1,6 @@
 # John Dies at the End
 
-[Compare across authors](../../compare/?t=film-john-dies-at-the-end_75761)
+[Compare across authors](../compare/index.md?t=film-john-dies-at-the-end_75761)
 
 ## DTS-HD MA 5.1
 

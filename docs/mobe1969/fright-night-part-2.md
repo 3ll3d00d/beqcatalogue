@@ -1,6 +1,6 @@
 # Fright Night Part 2
 
-[Compare across authors](../../compare/?t=film-fright-night-part-2_18086)
+[Compare across authors](../compare/index.md?t=film-fright-night-part-2_18086)
 
 ## DTS-HD MA 2.0
 

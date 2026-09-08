@@ -1,6 +1,6 @@
 # End of a Gun
 
-[Compare across authors](../../compare/?t=film-end-of-a-gun_411632)
+[Compare across authors](../compare/index.md?t=film-end-of-a-gun_411632)
 
 ## DTS-HD MA 5.1
 

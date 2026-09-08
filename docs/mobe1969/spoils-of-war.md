@@ -1,6 +1,6 @@
 # Spoils of War
 
-[Compare across authors](../../compare/?t=film-spoils-of-war_35460)
+[Compare across authors](../compare/index.md?t=film-spoils-of-war_35460)
 
 ## DTS-HD MA 5.1
 

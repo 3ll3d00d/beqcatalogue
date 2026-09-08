@@ -1,6 +1,6 @@
 # DC League of Super-Pets
 
-[Compare across authors](../../compare/?t=film-dc-league-of-super-pets_539681)
+[Compare across authors](../compare/index.md?t=film-dc-league-of-super-pets_539681)
 
 ## Atmos
 

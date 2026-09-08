@@ -1,6 +1,6 @@
 # Monster Run
 
-[Compare across authors](../../compare/?t=film-monster-run_734355)
+[Compare across authors](../compare/index.md?t=film-monster-run_734355)
 
 ## DD+ 5.1
 

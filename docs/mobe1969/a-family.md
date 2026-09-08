@@ -1,6 +1,6 @@
 # A Family
 
-[Compare across authors](../../compare/?t=film-a-family_736146)
+[Compare across authors](../compare/index.md?t=film-a-family_736146)
 
 ## DD+ 5.1
 

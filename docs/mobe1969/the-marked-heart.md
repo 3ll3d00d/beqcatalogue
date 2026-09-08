@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-marked-heart_158916)
+[Compare across authors](../compare/index.md?t=TV-the-marked-heart_158916)
 
 ## Season 1
 

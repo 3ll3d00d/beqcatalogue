@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-bad-guy_158050)
+[Compare across authors](../compare/index.md?t=TV-the-bad-guy_158050)
 
 ## Season 1
 

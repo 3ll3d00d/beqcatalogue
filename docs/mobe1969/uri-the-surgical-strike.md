@@ -1,6 +1,6 @@
 # URI: The Surgical Strike
 
-[Compare across authors](../../compare/?t=film-uri-the-surgical-strike_554600)
+[Compare across authors](../compare/index.md?t=film-uri-the-surgical-strike_554600)
 
 ## DTS-HD MA 5.1
 

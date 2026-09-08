@@ -1,6 +1,6 @@
 # Dead Awake
 
-[Compare across authors](../../compare/?t=film-dead-awake_406107)
+[Compare across authors](../compare/index.md?t=film-dead-awake_406107)
 
 ## DD+ 5.1
 

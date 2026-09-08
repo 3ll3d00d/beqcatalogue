@@ -1,6 +1,6 @@
 # The Factory
 
-[Compare across authors](../../compare/?t=film-the-factory_136911)
+[Compare across authors](../compare/index.md?t=film-the-factory_136911)
 
 ## DTS-HD MA 5.1
 

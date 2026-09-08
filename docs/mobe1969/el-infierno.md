@@ -1,6 +1,6 @@
 # El Infierno
 
-[Compare across authors](../../compare/?t=film-el-infierno_52629)
+[Compare across authors](../compare/index.md?t=film-el-infierno_52629)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Furies
 
-[Compare across authors](../../compare/?t=film-the-furies_528091)
+[Compare across authors](../compare/index.md?t=film-the-furies_528091)
 
 ## DTS-HD MA 5.1
 

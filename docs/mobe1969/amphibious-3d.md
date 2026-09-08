@@ -1,6 +1,6 @@
 # Amphibious 3D
 
-[Compare across authors](../../compare/?t=film-amphibious-3d_83877)
+[Compare across authors](../compare/index.md?t=film-amphibious-3d_83877)
 
 ## DD 5.1
 

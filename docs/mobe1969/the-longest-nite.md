@@ -1,6 +1,6 @@
 # The Longest Nite
 
-[Compare across authors](../../compare/?t=film-the-longest-nite_41158)
+[Compare across authors](../compare/index.md?t=film-the-longest-nite_41158)
 
 ## DTS-HD MA 5.1
 

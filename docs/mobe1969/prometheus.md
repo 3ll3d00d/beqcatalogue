@@ -1,6 +1,6 @@
 # Prometheus
 
-[Compare across authors](../../compare/?t=film-prometheus_70981)
+[Compare across authors](../compare/index.md?t=film-prometheus_70981)
 
 ## DTS-HD MA 7.1
 

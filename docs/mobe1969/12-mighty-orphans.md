@@ -1,6 +1,6 @@
 # 12 Mighty Orphans
 
-[Compare across authors](../../compare/?t=film-12-mighty-orphans_625169)
+[Compare across authors](../compare/index.md?t=film-12-mighty-orphans_625169)
 
 ## DD+ 5.1
 

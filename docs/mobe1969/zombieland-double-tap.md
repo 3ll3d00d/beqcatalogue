@@ -1,6 +1,6 @@
 # Zombieland: Double Tap
 
-[Compare across authors](../../compare/?t=film-zombieland-double-tap_338967)
+[Compare across authors](../compare/index.md?t=film-zombieland-double-tap_338967)
 
 ## Atmos
 

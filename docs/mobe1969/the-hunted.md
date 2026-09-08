@@ -1,6 +1,6 @@
 # The Hunted
 
-[Compare across authors](../../compare/?t=film-the-hunted_10632)
+[Compare across authors](../compare/index.md?t=film-the-hunted_10632)
 
 ## DTS-HD MA 5.1
 

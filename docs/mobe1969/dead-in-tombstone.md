@@ -1,6 +1,6 @@
 # Dead in Tombstone
 
-[Compare across authors](../../compare/?t=film-dead-in-tombstone_151933)
+[Compare across authors](../compare/index.md?t=film-dead-in-tombstone_151933)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # 100 Bloody Acres
 
-[Compare across authors](../../compare/?t=film-100-bloody-acres_126757)
+[Compare across authors](../compare/index.md?t=film-100-bloody-acres_126757)
 
 ## DD+ 5.1
 

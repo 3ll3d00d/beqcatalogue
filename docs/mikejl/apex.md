@@ -7,7 +7,7 @@
 A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1318447)  [Compare across authors](../../compare/?t=film-apex_1318447)
+[TMDB](https://www.themoviedb.org/movie/1318447)  [Compare across authors](../compare/index.md?t=film-apex_1318447)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Apex/Apex%20(2026)%20DD%2B%20Atmos.jpg)

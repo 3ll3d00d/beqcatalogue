@@ -1,6 +1,6 @@
 # The Fanatic
 
-[Compare across authors](../../compare/?t=film-the-fanatic_509853)
+[Compare across authors](../compare/index.md?t=film-the-fanatic_509853)
 
 ## DD+ 5.1, DD 5.1
 

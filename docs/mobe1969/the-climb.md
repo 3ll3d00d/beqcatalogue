@@ -1,6 +1,6 @@
 # The Climb
 
-[Compare across authors](../../compare/?t=film-the-climb_421447)
+[Compare across authors](../compare/index.md?t=film-the-climb_421447)
 
 ## DD+ 5.1
 

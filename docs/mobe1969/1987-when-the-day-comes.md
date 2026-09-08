@@ -1,6 +1,6 @@
 # 1987: When the Day Comes
 
-[Compare across authors](../../compare/?t=film-1987-when-the-day-comes_437103)
+[Compare across authors](../compare/index.md?t=film-1987-when-the-day-comes_437103)
 
 ## TrueHD 5.1
 

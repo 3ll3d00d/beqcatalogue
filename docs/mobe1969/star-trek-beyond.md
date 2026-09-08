@@ -1,6 +1,6 @@
 # Star Trek Beyond
 
-[Compare across authors](../../compare/?t=film-star-trek-beyond_188927)
+[Compare across authors](../compare/index.md?t=film-star-trek-beyond_188927)
 
 ## Atmos
 

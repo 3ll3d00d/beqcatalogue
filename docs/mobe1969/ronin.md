@@ -1,6 +1,6 @@
 # Ronin
 
-[Compare across authors](../../compare/?t=film-ronin_8195)
+[Compare across authors](../compare/index.md?t=film-ronin_8195)
 
 ## DTS-HD MA 5.1
 

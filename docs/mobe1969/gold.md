@@ -1,6 +1,6 @@
 # Gold
 
-[Compare across authors](../../compare/?t=film-gold_478682)
+[Compare across authors](../compare/index.md?t=film-gold_478682)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Breakdown
 
-[Compare across authors](../../compare/?t=film-breakdown_2163)
+[Compare across authors](../compare/index.md?t=film-breakdown_2163)
 
 ## DTS-HD MA 5.1
 

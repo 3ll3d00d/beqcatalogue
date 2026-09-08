@@ -1,6 +1,6 @@
 # House of Darkness
 
-[Compare across authors](../../compare/?t=film-house-of-darkness_942890)
+[Compare across authors](../compare/index.md?t=film-house-of-darkness_942890)
 
 ## DD+ 5.1
 

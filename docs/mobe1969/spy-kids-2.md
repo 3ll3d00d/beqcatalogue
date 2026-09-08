@@ -1,6 +1,6 @@
 # Spy Kids 2
 
-[Compare across authors](../../compare/?t=film-spy-kids-2_9488)
+[Compare across authors](../compare/index.md?t=film-spy-kids-2_9488)
 
 ## DTS-HD MA 5.1
 

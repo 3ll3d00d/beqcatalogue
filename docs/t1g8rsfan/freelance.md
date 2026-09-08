@@ -9,7 +9,7 @@ An ex-special forces operative takes a job to provide security for a journalist 
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62981591)  [TMDB](https://www.themoviedb.org/movie/897087)  [Compare across authors](../../compare/?t=film-freelance_897087)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62981591)  [TMDB](https://www.themoviedb.org/movie/897087)  [Compare across authors](../compare/index.md?t=film-freelance_897087)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Freelance%20(2023)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

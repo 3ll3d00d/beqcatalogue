@@ -1,6 +1,6 @@
 # The Christmas Chronicles
 
-[Compare across authors](../../compare/?t=film-the-christmas-chronicles_527435)
+[Compare across authors](../compare/index.md?t=film-the-christmas-chronicles_527435)
 
 ## DD+ Atmos, DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Dark Places
 
-[Compare across authors](../../compare/?t=film-dark-places_182560)
+[Compare across authors](../compare/index.md?t=film-dark-places_182560)
 
 ## DTS-HD MA 5.1
 

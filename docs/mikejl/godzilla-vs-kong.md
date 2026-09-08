@@ -7,7 +7,7 @@
 In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/399566)  [Compare across authors](../../compare/?t=film-godzilla-vs-kong_399566)
+[TMDB](https://www.themoviedb.org/movie/399566)  [Compare across authors](../compare/index.md?t=film-godzilla-vs-kong_399566)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Godzilla%20vs%20Kong/Godzilla%20vs%20Kong%20(2021)%20Atmos.jpg)

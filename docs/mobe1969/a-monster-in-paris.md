@@ -1,6 +1,6 @@
 # A Monster in Paris
 
-[Compare across authors](../../compare/?t=film-a-monster-in-paris_77459)
+[Compare across authors](../compare/index.md?t=film-a-monster-in-paris_77459)
 
 ## DTS-HD MA 5.1
 

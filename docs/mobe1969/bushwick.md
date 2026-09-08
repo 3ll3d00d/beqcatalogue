@@ -1,6 +1,6 @@
 # Bushwick
 
-[Compare across authors](../../compare/?t=film-bushwick_430354)
+[Compare across authors](../compare/index.md?t=film-bushwick_430354)
 
 ## DTS-HD MA 5.1
 

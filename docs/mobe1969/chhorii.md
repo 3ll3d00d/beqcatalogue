@@ -1,6 +1,6 @@
 # Chhorii
 
-[Compare across authors](../../compare/?t=film-chhorii_711643)
+[Compare across authors](../compare/index.md?t=film-chhorii_711643)
 
 ## DD+ 5.1
 

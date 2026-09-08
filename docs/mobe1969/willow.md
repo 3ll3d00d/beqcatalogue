@@ -1,6 +1,6 @@
 # Willow
 
-[Compare across authors](../../compare/?t=film-willow_847)
+[Compare across authors](../compare/index.md?t=film-willow_847)
 
 ## DTS-HD MA 5.1
 

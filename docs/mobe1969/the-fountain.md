@@ -1,6 +1,6 @@
 # The Fountain
 
-[Compare across authors](../../compare/?t=film-the-fountain_1381)
+[Compare across authors](../compare/index.md?t=film-the-fountain_1381)
 
 ## DTS-HD MA 5.1
 

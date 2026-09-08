@@ -12,7 +12,7 @@ Two marketing executives go "balls out" and pitch a bold full‑coverage condom 
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1733?post_id=64572573#post-64572573)  [TMDB](https://www.themoviedb.org/movie/1084577)  [Compare across authors](../../compare/?t=film-balls-up_1084577)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1733?post_id=64572573#post-64572573)  [TMDB](https://www.themoviedb.org/movie/1084577)  [Compare across authors](../compare/index.md?t=film-balls-up_1084577)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Balls%20Up%20(2026)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

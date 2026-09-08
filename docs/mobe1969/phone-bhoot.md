@@ -1,6 +1,6 @@
 # Phone Bhoot
 
-[Compare across authors](../../compare/?t=film-phone-bhoot_726207)
+[Compare across authors](../compare/index.md?t=film-phone-bhoot_726207)
 
 ## DD+ 5.1
 

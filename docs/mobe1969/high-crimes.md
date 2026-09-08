@@ -1,6 +1,6 @@
 # High Crimes
 
-[Compare across authors](../../compare/?t=film-high-crimes_11560)
+[Compare across authors](../compare/index.md?t=film-high-crimes_11560)
 
 ## DD+ 2.0
 

@@ -1,6 +1,6 @@
 # The Young and Prodigious T.S. Spivet
 
-[Compare across authors](../../compare/?t=film-the-young-and-prodigious-ts-spivet_157841)
+[Compare across authors](../compare/index.md?t=film-the-young-and-prodigious-ts-spivet_157841)
 
 ## TrueHD 5.1
 

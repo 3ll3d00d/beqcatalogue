@@ -1,6 +1,6 @@
 # Reservoir Dogs
 
-[Compare across authors](../../compare/?t=film-reservoir-dogs_500)
+[Compare across authors](../compare/index.md?t=film-reservoir-dogs_500)
 
 ## TrueHD 5.1
 

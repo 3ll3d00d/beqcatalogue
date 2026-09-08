@@ -1,6 +1,6 @@
 # The Lone Ranger
 
-[Compare across authors](../../compare/?t=film-the-lone-ranger_57201)
+[Compare across authors](../compare/index.md?t=film-the-lone-ranger_57201)
 
 ## DTS-HD MA 7.1
 

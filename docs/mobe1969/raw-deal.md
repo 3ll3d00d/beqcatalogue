@@ -1,6 +1,6 @@
 # Raw Deal
 
-[Compare across authors](../../compare/?t=film-raw-deal_2099)
+[Compare across authors](../compare/index.md?t=film-raw-deal_2099)
 
 ## DTS-HD MA 5.1
 

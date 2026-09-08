@@ -1,6 +1,6 @@
 # Sniper: Ghost Shooter
 
-[Compare across authors](../../compare/?t=film-sniper-ghost-shooter_407375)
+[Compare across authors](../compare/index.md?t=film-sniper-ghost-shooter_407375)
 
 ## DD+ 5.1
 

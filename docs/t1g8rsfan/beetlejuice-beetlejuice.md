@@ -12,7 +12,7 @@ After a family tragedy, three generations of the Deetz family return home to Win
 +3dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63583997/)  [TMDB](https://www.themoviedb.org/movie/917496)  [Compare across authors](../../compare/?t=film-beetlejuice-beetlejuice_917496)
+[Discuss](https://www.avsforum.com/posts/63583997/)  [TMDB](https://www.themoviedb.org/movie/917496)  [Compare across authors](../compare/index.md?t=film-beetlejuice-beetlejuice_917496)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Beetlejuice%20Beetlejuice%20(2024)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

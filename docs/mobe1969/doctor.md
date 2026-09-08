@@ -1,6 +1,6 @@
 # Doctor
 
-[Compare across authors](../../compare/?t=film-doctor_673692)
+[Compare across authors](../compare/index.md?t=film-doctor_673692)
 
 ## DD+ 5.1
 

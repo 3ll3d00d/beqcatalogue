@@ -1,6 +1,6 @@
 # War of the Worlds
 
-[Compare across authors](../../compare/?t=film-war-of-the-worlds_74)
+[Compare across authors](../compare/index.md?t=film-war-of-the-worlds_74)
 
 ## Atmos
 

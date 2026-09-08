@@ -10,7 +10,7 @@ Near future. Lera Arabova is a 15-year-old girl who lives with her family in Vla
 RU
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/864101)  [Compare across authors](../../compare/?t=film-mira_864101)
+[TMDB](https://www.themoviedb.org/movie/864101)  [Compare across authors](../compare/index.md?t=film-mira_864101)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Mira%20(2022)%20DTS-HD%20MA.5.1.jpg)

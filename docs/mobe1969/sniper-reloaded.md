@@ -1,6 +1,6 @@
 # Sniper: Reloaded
 
-[Compare across authors](../../compare/?t=film-sniper-reloaded_58767)
+[Compare across authors](../compare/index.md?t=film-sniper-reloaded_58767)
 
 ## DTS-HD MA 5.1
 

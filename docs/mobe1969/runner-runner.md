@@ -1,6 +1,6 @@
 # Runner Runner
 
-[Compare across authors](../../compare/?t=film-runner-runner_146238)
+[Compare across authors](../compare/index.md?t=film-runner-runner_146238)
 
 ## DTS-HD MA 5.1
 

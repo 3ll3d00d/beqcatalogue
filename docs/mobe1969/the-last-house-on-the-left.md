@@ -1,6 +1,6 @@
 # The Last House on the Left
 
-[Compare across authors](../../compare/?t=film-the-last-house-on-the-left_18405)
+[Compare across authors](../compare/index.md?t=film-the-last-house-on-the-left_18405)
 
 ## DTS-HD MA 5.1
 

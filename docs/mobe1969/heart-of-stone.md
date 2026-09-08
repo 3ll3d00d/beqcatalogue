@@ -1,6 +1,6 @@
 # Heart of Stone
 
-[Compare across authors](../../compare/?t=film-heart-of-stone_724209)
+[Compare across authors](../compare/index.md?t=film-heart-of-stone_724209)
 
 ## DD+ Atmos
 

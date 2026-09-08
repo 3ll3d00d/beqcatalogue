@@ -1,6 +1,6 @@
 # They Shall Not Grow Old
 
-[Compare across authors](../../compare/?t=film-they-shall-not-grow-old_543580)
+[Compare across authors](../compare/index.md?t=film-they-shall-not-grow-old_543580)
 
 ## DTS-HD MA 5.1
 

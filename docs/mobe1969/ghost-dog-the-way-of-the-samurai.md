@@ -1,6 +1,6 @@
 # Ghost Dog: The Way of the Samurai
 
-[Compare across authors](../../compare/?t=film-ghost-dog-the-way-of-the-samurai_4816)
+[Compare across authors](../compare/index.md?t=film-ghost-dog-the-way-of-the-samurai_4816)
 
 ## DTS-HD MA 5.1
 

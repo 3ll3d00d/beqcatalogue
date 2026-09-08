@@ -1,6 +1,6 @@
 # Somebody I Used To Know
 
-[Compare across authors](../../compare/?t=film-somebody-i-used-to-know_869112)
+[Compare across authors](../compare/index.md?t=film-somebody-i-used-to-know_869112)
 
 ## DD+ 5.1
 

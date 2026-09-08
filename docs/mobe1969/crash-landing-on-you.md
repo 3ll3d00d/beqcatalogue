@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-crash-landing-on-you_94796)
+[Compare across authors](../compare/index.md?t=TV-crash-landing-on-you_94796)
 
 ## Season 1
 

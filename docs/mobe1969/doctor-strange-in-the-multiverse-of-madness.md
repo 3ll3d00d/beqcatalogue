@@ -1,6 +1,6 @@
 # Doctor Strange in the Multiverse of Madness
 
-[Compare across authors](../../compare/?t=film-doctor-strange-in-the-multiverse-of-madness_453395)
+[Compare across authors](../compare/index.md?t=film-doctor-strange-in-the-multiverse-of-madness_453395)
 
 ## Atmos
 

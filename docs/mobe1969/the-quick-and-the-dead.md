@@ -1,6 +1,6 @@
 # The Quick and the Dead
 
-[Compare across authors](../../compare/?t=film-the-quick-and-the-dead_12106)
+[Compare across authors](../compare/index.md?t=film-the-quick-and-the-dead_12106)
 
 ## Atmos
 

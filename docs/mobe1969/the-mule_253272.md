@@ -1,6 +1,6 @@
 # The Mule
 
-[Compare across authors](../../compare/?t=film-the-mule_253272)
+[Compare across authors](../compare/index.md?t=film-the-mule_253272)
 
 ## DD+ 5.1
 

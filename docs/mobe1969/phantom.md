@@ -1,6 +1,6 @@
 # Phantom
 
-[Compare across authors](../../compare/?t=film-phantom_152259)
+[Compare across authors](../compare/index.md?t=film-phantom_152259)
 
 ## DTS-HD MA 5.1
 

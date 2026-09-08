@@ -1,6 +1,6 @@
 # Soul Snatcher
 
-[Compare across authors](../../compare/?t=film-soul-snatcher_755594)
+[Compare across authors](../compare/index.md?t=film-soul-snatcher_755594)
 
 ## TrueHD 5.1
 

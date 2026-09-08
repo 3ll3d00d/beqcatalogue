@@ -9,7 +9,7 @@ A father and teen daughter attend a pop concert, where they realize they're at t
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1518?post_id=63604125#post-63604125)  [TMDB](https://www.themoviedb.org/movie/1032823)  [Compare across authors](../../compare/?t=film-trap_1032823)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1518?post_id=63604125#post-63604125)  [TMDB](https://www.themoviedb.org/movie/1032823)  [Compare across authors](../compare/index.md?t=film-trap_1032823)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Trap%20(2024)%20(%2B5.5%20gain)%20Atmos.jpg)

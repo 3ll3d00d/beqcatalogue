@@ -14,7 +14,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1711?post_id=64461516#post-64461516)
 
-* [Compare across authors](../../compare/?t=TV-wonder-man_198178)
+* [Compare across authors](../compare/index.md?t=TV-wonder-man_198178)
 
 * Production Year: 2026
 

@@ -1,6 +1,6 @@
 # That Girl in Yellow Boots
 
-[Compare across authors](../../compare/?t=film-that-girl-in-yellow-boots_77864)
+[Compare across authors](../compare/index.md?t=film-that-girl-in-yellow-boots_77864)
 
 ## DD+ 5.1
 

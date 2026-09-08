@@ -1,6 +1,6 @@
 # Oblivion
 
-[Compare across authors](../../compare/?t=film-oblivion_75612)
+[Compare across authors](../compare/index.md?t=film-oblivion_75612)
 
 ## Atmos
 

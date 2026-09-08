@@ -1,6 +1,6 @@
 # The Last Samurai
 
-[Compare across authors](../../compare/?t=film-the-last-samurai_616)
+[Compare across authors](../compare/index.md?t=film-the-last-samurai_616)
 
 ## DD 5.1
 

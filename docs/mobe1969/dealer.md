@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dealer_118241)
+[Compare across authors](../compare/index.md?t=TV-dealer_118241)
 
 ## Season 1
 

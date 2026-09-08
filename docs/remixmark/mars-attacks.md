@@ -9,7 +9,7 @@ A fleet of Martian spacecraft surrounds the world's major cities and all of huma
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1766?post_id=64767409#post-64767409)  [TMDB](https://www.themoviedb.org/movie/75)  [Compare across authors](../../compare/?t=film-mars-attacks_75)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1766?post_id=64767409#post-64767409)  [TMDB](https://www.themoviedb.org/movie/75)  [Compare across authors](../compare/index.md?t=film-mars-attacks_75)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Mars%20Attacks!%20(1996)%20(-1.5%20gain)%20Atmos.jpg)

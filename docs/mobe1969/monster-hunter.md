@@ -1,6 +1,6 @@
 # Monster Hunter
 
-[Compare across authors](../../compare/?t=film-monster-hunter_458576)
+[Compare across authors](../compare/index.md?t=film-monster-hunter_458576)
 
 ## Atmos, DD+ 5.1
 

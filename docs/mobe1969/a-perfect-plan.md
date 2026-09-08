@@ -1,6 +1,6 @@
 # A Perfect Plan
 
-[Compare across authors](../../compare/?t=film-a-perfect-plan_699046)
+[Compare across authors](../compare/index.md?t=film-a-perfect-plan_699046)
 
 ## DD+ 2.0
 

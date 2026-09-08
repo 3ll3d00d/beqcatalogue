@@ -1,6 +1,6 @@
 # Emily the Criminal
 
-[Compare across authors](../../compare/?t=film-emily-the-criminal_862965)
+[Compare across authors](../compare/index.md?t=film-emily-the-criminal_862965)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

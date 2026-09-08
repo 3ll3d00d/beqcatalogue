@@ -1,6 +1,6 @@
 # Sword of the Stranger
 
-[Compare across authors](../../compare/?t=film-sword-of-the-stranger_13980)
+[Compare across authors](../compare/index.md?t=film-sword-of-the-stranger_13980)
 
 ## TrueHD 5.1
 

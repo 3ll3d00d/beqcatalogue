@@ -1,6 +1,6 @@
 # Yaksha: Ruthless Operations
 
-[Compare across authors](../../compare/?t=film-yaksha-ruthless-operations_606402)
+[Compare across authors](../compare/index.md?t=film-yaksha-ruthless-operations_606402)
 
 ## DD+ 5.1
 

@@ -5,7 +5,7 @@
 * DTS-HD MA 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-the-toll_638045)
+* [Compare across authors](../compare/index.md?t=TV-the-toll_638045)
 
 * Production Year: 2020
 

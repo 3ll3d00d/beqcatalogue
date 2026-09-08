@@ -7,7 +7,7 @@
 After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/845781)  [Compare across authors](../../compare/?t=film-red-one_845781)
+[TMDB](https://www.themoviedb.org/movie/845781)  [Compare across authors](../compare/index.md?t=film-red-one_845781)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Red%20One%20(2024)%204K%20HDR%20DD%2B%20Atmos.jpg)
@@ -21,7 +21,7 @@ After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Sec
 After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/845781)  [Compare across authors](../../compare/?t=film-red-one_845781)
+[TMDB](https://www.themoviedb.org/movie/845781)  [Compare across authors](../compare/index.md?t=film-red-one_845781)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Red%20One%20(2024)%204K%20HDR%20DD%2B%20Atmos.jpg)

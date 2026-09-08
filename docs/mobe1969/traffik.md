@@ -1,6 +1,6 @@
 # Traffik
 
-[Compare across authors](../../compare/?t=film-traffik_473149)
+[Compare across authors](../compare/index.md?t=film-traffik_473149)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

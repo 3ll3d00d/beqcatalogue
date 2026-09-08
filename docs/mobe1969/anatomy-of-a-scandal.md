@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-anatomy-of-a-scandal_113984)
+[Compare across authors](../compare/index.md?t=TV-anatomy-of-a-scandal_113984)
 
 ## Season 1
 

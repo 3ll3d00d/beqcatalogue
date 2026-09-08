@@ -1,6 +1,6 @@
 # The New Mutants
 
-[Compare across authors](../../compare/?t=film-the-new-mutants_340102)
+[Compare across authors](../compare/index.md?t=film-the-new-mutants_340102)
 
 ## Atmos
 

@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-bodkin_241257)
+* [Compare across authors](../compare/index.md?t=TV-bodkin_241257)
 
 * Production Year: 2024
 

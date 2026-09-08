@@ -1,6 +1,6 @@
 # #Alive
 
-[Compare across authors](../../compare/?t=film-alive_614696)
+[Compare across authors](../compare/index.md?t=film-alive_614696)
 
 ## Atmos, DD+ Atmos
 

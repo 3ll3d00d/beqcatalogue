@@ -1,6 +1,6 @@
 # The Wailing
 
-[Compare across authors](../../compare/?t=film-the-wailing_293670)
+[Compare across authors](../compare/index.md?t=film-the-wailing_293670)
 
 ## DTS-HD MA 5.1
 

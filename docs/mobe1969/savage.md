@@ -1,6 +1,6 @@
 # Savage
 
-[Compare across authors](../../compare/?t=film-savage_591051)
+[Compare across authors](../compare/index.md?t=film-savage_591051)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

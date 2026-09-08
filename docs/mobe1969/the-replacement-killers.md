@@ -1,6 +1,6 @@
 # The Replacement Killers
 
-[Compare across authors](../../compare/?t=film-the-replacement-killers_11702)
+[Compare across authors](../compare/index.md?t=film-the-replacement-killers_11702)
 
 ## DTS-HD MA 5.1
 

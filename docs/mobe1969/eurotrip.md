@@ -1,6 +1,6 @@
 # EuroTrip
 
-[Compare across authors](../../compare/?t=film-eurotrip_9352)
+[Compare across authors](../compare/index.md?t=film-eurotrip_9352)
 
 ## DTS-HD MA 5.1
 

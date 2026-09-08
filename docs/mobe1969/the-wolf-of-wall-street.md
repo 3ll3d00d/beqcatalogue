@@ -1,6 +1,6 @@
 # The Wolf of Wall Street
 
-[Compare across authors](../../compare/?t=film-the-wolf-of-wall-street_106646)
+[Compare across authors](../compare/index.md?t=film-the-wolf-of-wall-street_106646)
 
 ## DTS-HD MA 5.1
 

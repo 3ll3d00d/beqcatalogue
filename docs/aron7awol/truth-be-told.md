@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-truth-be-told_80054)
+[Compare across authors](../compare/index.md?t=TV-truth-be-told_80054)
 
 ## Season 1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-medal-of-honor_83109)
+[Compare across authors](../compare/index.md?t=TV-medal-of-honor_83109)
 
 ## Season 1
 

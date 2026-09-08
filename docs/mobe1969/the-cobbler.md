@@ -1,6 +1,6 @@
 # The Cobbler
 
-[Compare across authors](../../compare/?t=film-the-cobbler_238215)
+[Compare across authors](../compare/index.md?t=film-the-cobbler_238215)
 
 ## DD+ 5.1
 

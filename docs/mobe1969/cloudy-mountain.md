@@ -1,6 +1,6 @@
 # Cloudy Mountain
 
-[Compare across authors](../../compare/?t=film-cloudy-mountain_862855)
+[Compare across authors](../compare/index.md?t=film-cloudy-mountain_862855)
 
 ## TrueHD 5.1
 

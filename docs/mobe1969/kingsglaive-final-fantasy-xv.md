@@ -1,6 +1,6 @@
 # Kingsglaive: Final Fantasy XV
 
-[Compare across authors](../../compare/?t=film-kingsglaive-final-fantasy-xv_390734)
+[Compare across authors](../compare/index.md?t=film-kingsglaive-final-fantasy-xv_390734)
 
 ## DTS-HD MA 5.1
 

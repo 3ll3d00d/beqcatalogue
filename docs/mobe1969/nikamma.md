@@ -1,6 +1,6 @@
 # Nikamma
 
-[Compare across authors](../../compare/?t=film-nikamma_693841)
+[Compare across authors](../compare/index.md?t=film-nikamma_693841)
 
 ## DD+ 5.1
 

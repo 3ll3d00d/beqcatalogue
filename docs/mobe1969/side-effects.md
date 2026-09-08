@@ -1,6 +1,6 @@
 # Side Effects
 
-[Compare across authors](../../compare/?t=film-side-effects_109421)
+[Compare across authors](../compare/index.md?t=film-side-effects_109421)
 
 ## DTS-HD MA 5.1
 

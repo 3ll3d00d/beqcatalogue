@@ -1,6 +1,6 @@
 # The Tiger
 
-[Compare across authors](../../compare/?t=film-the-tiger_363093)
+[Compare across authors](../compare/index.md?t=film-the-tiger_363093)
 
 ## DTS-HD MA 5.1
 

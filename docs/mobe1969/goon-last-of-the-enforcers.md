@@ -1,6 +1,6 @@
 # Goon: Last of the Enforcers
 
-[Compare across authors](../../compare/?t=film-goon-last-of-the-enforcers_336890)
+[Compare across authors](../compare/index.md?t=film-goon-last-of-the-enforcers_336890)
 
 ## DTS-HD MA 5.1
 

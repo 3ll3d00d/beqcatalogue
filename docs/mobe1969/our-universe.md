@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-our-universe_213608)
+[Compare across authors](../compare/index.md?t=TV-our-universe_213608)
 
 ## Season 1
 

@@ -7,7 +7,7 @@
 Four friends find themselves trapped in their small hometown after they discover their friends and neighbors going quickly and horrifically insane.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/29427)  [Compare across authors](../../compare/?t=film-the-crazies_29427)
+[TMDB](https://www.themoviedb.org/movie/29427)  [Compare across authors](../compare/index.md?t=film-the-crazies_29427)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Crazies/The%20Crazies%20(2010)%20Atmos.jpg)

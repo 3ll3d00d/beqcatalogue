@@ -1,6 +1,6 @@
 # Rogue Cell
 
-[Compare across authors](../../compare/?t=film-rogue-cell_631985)
+[Compare across authors](../compare/index.md?t=film-rogue-cell_631985)
 
 ## DD+ 2.0
 

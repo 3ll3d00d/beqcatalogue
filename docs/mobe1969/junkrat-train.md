@@ -1,6 +1,6 @@
 # Junkrat Train
 
-[Compare across authors](../../compare/?t=film-junkrat-train_783701)
+[Compare across authors](../compare/index.md?t=film-junkrat-train_783701)
 
 ## DTS-HD MA 2.0
 

@@ -12,7 +12,7 @@ Recent college grad Jaime Reyes returns home full of aspirations for his future,
 +2dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62828750)  [TMDB](https://www.themoviedb.org/movie/565770)  [Compare across authors](../../compare/?t=film-blue-beetle_565770)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62828750)  [TMDB](https://www.themoviedb.org/movie/565770)  [Compare across authors](../compare/index.md?t=film-blue-beetle_565770)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Blue%20Beetle%20(2023)%20(%2B4%20gain)%20Atmos.jpg)

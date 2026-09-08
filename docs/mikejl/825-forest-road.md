@@ -7,7 +7,7 @@
 After a family tragedy, Chuck Wilson hopes to start a new life in Ashland Falls with his wife Maria and little sister Elizabeth, but he quickly discovers that the town has a dark history of being haunted by a ghostly woman who drives residents to suicide.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1282980)  [Compare across authors](../../compare/?t=film-825-forest-road_1282980)
+[TMDB](https://www.themoviedb.org/movie/1282980)  [Compare across authors](../compare/index.md?t=film-825-forest-road_1282980)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/825%20Forest%20Road/825%20Forest%20Road%20(2025)%20DTS-HD%20MA%205.1.jpg)

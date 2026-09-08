@@ -1,6 +1,6 @@
 # War Dogs
 
-[Compare across authors](../../compare/?t=film-war-dogs_308266)
+[Compare across authors](../compare/index.md?t=film-war-dogs_308266)
 
 ## DTS-HD MA 5.1
 

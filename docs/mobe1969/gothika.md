@@ -1,6 +1,6 @@
 # Gothika
 
-[Compare across authors](../../compare/?t=film-gothika_4970)
+[Compare across authors](../compare/index.md?t=film-gothika_4970)
 
 ## LPCM 5.1
 

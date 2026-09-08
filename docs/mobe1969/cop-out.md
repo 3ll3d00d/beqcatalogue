@@ -1,6 +1,6 @@
 # Cop Out
 
-[Compare across authors](../../compare/?t=film-cop-out_23742)
+[Compare across authors](../compare/index.md?t=film-cop-out_23742)
 
 ## DTS-HD MA 5.1
 

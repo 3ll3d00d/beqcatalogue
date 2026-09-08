@@ -1,6 +1,6 @@
 # Knight of Cups
 
-[Compare across authors](../../compare/?t=film-knight-of-cups_86835)
+[Compare across authors](../compare/index.md?t=film-knight-of-cups_86835)
 
 ## DTS-HD MA 5.1
 

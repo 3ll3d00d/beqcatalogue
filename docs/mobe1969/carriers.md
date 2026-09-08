@@ -1,6 +1,6 @@
 # Carriers
 
-[Compare across authors](../../compare/?t=film-carriers_25769)
+[Compare across authors](../compare/index.md?t=film-carriers_25769)
 
 ## TrueHD 5.1
 

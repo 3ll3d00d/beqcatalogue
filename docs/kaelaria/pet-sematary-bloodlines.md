@@ -7,7 +7,7 @@
 In 1969, a young Jud Crandall has dreams of leaving his hometown of Ludlow, Maine behind, but soon discovers sinister secrets buried within and is forced to confront a dark family history that will forever keep him connected to Ludlow.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/830764)  [Compare across authors](../../compare/?t=film-pet-sematary-bloodlines_830764)
+[TMDB](https://www.themoviedb.org/movie/830764)  [Compare across authors](../compare/index.md?t=film-pet-sematary-bloodlines_830764)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Pet%20Sematary%20Bloodlines%20(2023)%20TrueHD%20Atmos.jpg)

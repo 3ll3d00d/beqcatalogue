@@ -1,6 +1,6 @@
 # Dabangg 3
 
-[Compare across authors](../../compare/?t=film-dabangg-3_496339)
+[Compare across authors](../compare/index.md?t=film-dabangg-3_496339)
 
 ## DD+ 5.1
 

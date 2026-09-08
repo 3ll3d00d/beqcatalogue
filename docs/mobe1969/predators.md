@@ -1,6 +1,6 @@
 # Predators
 
-[Compare across authors](../../compare/?t=film-predators_34851)
+[Compare across authors](../compare/index.md?t=film-predators_34851)
 
 ## DTS-HD MA 5.1
 

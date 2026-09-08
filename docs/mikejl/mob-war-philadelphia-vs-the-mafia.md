@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-mob-war-philadelphia-vs-the-mafia_301498)
+* [Compare across authors](../compare/index.md?t=TV-mob-war-philadelphia-vs-the-mafia_301498)
 
 * Production Year: 2025
 

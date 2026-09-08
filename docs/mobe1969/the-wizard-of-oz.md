@@ -1,6 +1,6 @@
 # The Wizard of Oz
 
-[Compare across authors](../../compare/?t=film-the-wizard-of-oz_630)
+[Compare across authors](../compare/index.md?t=film-the-wizard-of-oz_630)
 
 ## DD+ 5.1
 

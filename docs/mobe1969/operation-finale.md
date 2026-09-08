@@ -1,6 +1,6 @@
 # Operation Finale
 
-[Compare across authors](../../compare/?t=film-operation-finale_493551)
+[Compare across authors](../compare/index.md?t=film-operation-finale_493551)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Deathwatch
 
-[Compare across authors](../../compare/?t=film-deathwatch_12576)
+[Compare across authors](../compare/index.md?t=film-deathwatch_12576)
 
 ## DD+ 5.1
 

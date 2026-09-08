@@ -1,6 +1,6 @@
 # Fantastic Beasts and Where to Find Them
 
-[Compare across authors](../../compare/?t=film-fantastic-beasts-and-where-to-find-them_259316)
+[Compare across authors](../compare/index.md?t=film-fantastic-beasts-and-where-to-find-them_259316)
 
 ## Atmos
 

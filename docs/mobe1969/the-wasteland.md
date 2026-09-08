@@ -1,6 +1,6 @@
 # The Wasteland
 
-[Compare across authors](../../compare/?t=film-the-wasteland_800410)
+[Compare across authors](../compare/index.md?t=film-the-wasteland_800410)
 
 ## DD+ 5.1
 

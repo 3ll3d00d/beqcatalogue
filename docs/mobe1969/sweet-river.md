@@ -1,6 +1,6 @@
 # Sweet River
 
-[Compare across authors](../../compare/?t=film-sweet-river_717942)
+[Compare across authors](../compare/index.md?t=film-sweet-river_717942)
 
 ## DD+ 5.1
 

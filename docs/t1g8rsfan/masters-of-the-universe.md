@@ -12,7 +12,7 @@ After being separated for 15 years, the Sword of Power leads Prince Adam back to
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/454639)  [Compare across authors](../../compare/?t=film-masters-of-the-universe_454639)
+[TMDB](https://www.themoviedb.org/movie/454639)  [Compare across authors](../compare/index.md?t=film-masters-of-the-universe_454639)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Masters%20of%20the%20Universe%20(2026)%20(-0.5%20gain)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # The House on the Hill
 
-[Compare across authors](../../compare/?t=film-the-house-on-the-hill_700516)
+[Compare across authors](../compare/index.md?t=film-the-house-on-the-hill_700516)
 
 ## DD+ 5.1
 

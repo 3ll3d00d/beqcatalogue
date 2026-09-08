@@ -1,6 +1,6 @@
 # Super Troopers 2
 
-[Compare across authors](../../compare/?t=film-super-troopers-2_50022)
+[Compare across authors](../compare/index.md?t=film-super-troopers-2_50022)
 
 ## DTS-HD MA 5.1
 

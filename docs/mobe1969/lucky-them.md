@@ -1,6 +1,6 @@
 # Lucky Them
 
-[Compare across authors](../../compare/?t=film-lucky-them_214096)
+[Compare across authors](../compare/index.md?t=film-lucky-them_214096)
 
 ## DTS-HD MA 5.1
 

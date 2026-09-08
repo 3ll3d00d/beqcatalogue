@@ -1,6 +1,6 @@
 # Mighty Morphin Power Rangers: Once & Always
 
-[Compare across authors](../../compare/?t=film-mighty-morphin-power-rangers-once-always_1068141)
+[Compare across authors](../compare/index.md?t=film-mighty-morphin-power-rangers-once-always_1068141)
 
 ## DD+ Atmos
 

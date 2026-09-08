@@ -1,6 +1,6 @@
 # Restart The Earth
 
-[Compare across authors](../../compare/?t=film-restart-the-earth_870096)
+[Compare across authors](../compare/index.md?t=film-restart-the-earth_870096)
 
 ## DTS-HD MA 5.1
 

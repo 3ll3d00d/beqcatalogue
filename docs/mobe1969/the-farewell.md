@@ -1,6 +1,6 @@
 # The Farewell
 
-[Compare across authors](../../compare/?t=film-the-farewell_565310)
+[Compare across authors](../compare/index.md?t=film-the-farewell_565310)
 
 ## DD+ 5.1
 

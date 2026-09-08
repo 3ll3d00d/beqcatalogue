@@ -1,6 +1,6 @@
 # The League of Extraordinary Gentlemen
 
-[Compare across authors](../../compare/?t=film-the-league-of-extraordinary-gentlemen_8698)
+[Compare across authors](../compare/index.md?t=film-the-league-of-extraordinary-gentlemen_8698)
 
 ## DTS-HD MA 5.1
 

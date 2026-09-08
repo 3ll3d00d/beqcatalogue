@@ -1,6 +1,6 @@
 # Tai Chi Zero
 
-[Compare across authors](../../compare/?t=film-tai-chi-zero_121823)
+[Compare across authors](../compare/index.md?t=film-tai-chi-zero_121823)
 
 ## DTS-HD MA 5.1
 

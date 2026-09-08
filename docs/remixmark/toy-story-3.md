@@ -9,7 +9,7 @@ Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1718?post_id=64493035#post-64493035)  [TMDB](https://www.themoviedb.org/movie/10193)  [Compare across authors](../../compare/?t=film-toy-story-3_10193)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1718?post_id=64493035#post-64493035)  [TMDB](https://www.themoviedb.org/movie/10193)  [Compare across authors](../compare/index.md?t=film-toy-story-3_10193)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Toy%20Story%203%20(2010)%20DTS-HD%20MA%207.1.jpg)

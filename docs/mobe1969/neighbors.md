@@ -1,6 +1,6 @@
 # Neighbors
 
-[Compare across authors](../../compare/?t=film-neighbors_195589)
+[Compare across authors](../compare/index.md?t=film-neighbors_195589)
 
 ## DTS-HD MA 5.1
 

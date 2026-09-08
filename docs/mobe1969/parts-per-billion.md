@@ -1,6 +1,6 @@
 # Parts Per Billion
 
-[Compare across authors](../../compare/?t=film-parts-per-billion_270654)
+[Compare across authors](../compare/index.md?t=film-parts-per-billion_270654)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Abyss
 
-[Compare across authors](../../compare/?t=film-the-abyss_2756)
+[Compare across authors](../compare/index.md?t=film-the-abyss_2756)
 
 ## DD 5.1
 

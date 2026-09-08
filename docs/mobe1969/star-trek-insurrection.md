@@ -1,6 +1,6 @@
 # Star Trek: Insurrection
 
-[Compare across authors](../../compare/?t=film-star-trek-insurrection_200)
+[Compare across authors](../compare/index.md?t=film-star-trek-insurrection_200)
 
 ## TrueHD 5.1
 

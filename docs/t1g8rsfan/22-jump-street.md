@@ -9,7 +9,7 @@ After making their way through high school (twice), big changes are in store for
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62746415)  [TMDB](https://www.themoviedb.org/movie/187017)  [Compare across authors](../../compare/?t=film-22-jump-street_187017)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62746415)  [TMDB](https://www.themoviedb.org/movie/187017)  [Compare across authors](../compare/index.md?t=film-22-jump-street_187017)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/22%20Jump%20Street%20(2014)%20(%2B1%20gain)%20Atmos.jpg)

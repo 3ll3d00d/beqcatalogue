@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-bear_136315)
+* [Compare across authors](../compare/index.md?t=TV-the-bear_136315)
 
 * Production Year: 2022
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-bear_136315)
+* [Compare across authors](../compare/index.md?t=TV-the-bear_136315)
 
 * Production Year: 2022
 
@@ -37,7 +37,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-bear_136315)
+* [Compare across authors](../compare/index.md?t=TV-the-bear_136315)
 
 * Production Year: 2022
 

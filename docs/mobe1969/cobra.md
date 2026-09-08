@@ -1,6 +1,6 @@
 # Cobra
 
-[Compare across authors](../../compare/?t=film-cobra_9874)
+[Compare across authors](../compare/index.md?t=film-cobra_9874)
 
 ## DTS-HD MA 5.1
 

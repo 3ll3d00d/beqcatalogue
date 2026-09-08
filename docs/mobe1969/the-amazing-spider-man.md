@@ -1,6 +1,6 @@
 # The Amazing Spider-Man
 
-[Compare across authors](../../compare/?t=film-the-amazing-spider-man_1930)
+[Compare across authors](../compare/index.md?t=film-the-amazing-spider-man_1930)
 
 ## Atmos, DTS-HD MA 5.1, DD+ 5.1
 

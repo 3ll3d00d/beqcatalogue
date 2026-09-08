@@ -1,6 +1,6 @@
 # John Wick: Chapter 2
 
-[Compare across authors](../../compare/?t=film-john-wick-chapter-2_324552)
+[Compare across authors](../compare/index.md?t=film-john-wick-chapter-2_324552)
 
 ## Atmos
 

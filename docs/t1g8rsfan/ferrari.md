@@ -12,7 +12,7 @@ Set during the summer of 1957. Ex-racecar driver, Enzo Ferrari, is in crisis. Ba
 +3dB Dialnorm Compensation​
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63102834)  [TMDB](https://www.themoviedb.org/movie/365620)  [Compare across authors](../../compare/?t=film-ferrari_365620)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63102834)  [TMDB](https://www.themoviedb.org/movie/365620)  [Compare across authors](../compare/index.md?t=film-ferrari_365620)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Ferrari%20(2023)%20(-0.5%20gain)%20DD%2B%20Atmos.jpg)

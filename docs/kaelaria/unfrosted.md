@@ -7,7 +7,7 @@
 In a time when milk and cereal ruled breakfast, a fierce corporate battle begins over a revolutionary new pastry.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/844185)  [Compare across authors](../../compare/?t=film-unfrosted_844185)
+[TMDB](https://www.themoviedb.org/movie/844185)  [Compare across authors](../compare/index.md?t=film-unfrosted_844185)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Unfrosted%20(2024)%20DD%2B%20Atmos.jpg)

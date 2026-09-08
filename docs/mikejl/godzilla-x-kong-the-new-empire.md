@@ -7,7 +7,7 @@
 Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/823464)  [Compare across authors](../../compare/?t=film-godzilla-x-kong-the-new-empire_823464)
+[TMDB](https://www.themoviedb.org/movie/823464)  [Compare across authors](../compare/index.md?t=film-godzilla-x-kong-the-new-empire_823464)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Godzilla%20x%20Kong%20-%20The%20New%20Empire/Godzilla%20x%20Kong%20-%20The%20New%20Empire%20(2024)%20Atmos.jpg)

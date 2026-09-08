@@ -9,7 +9,7 @@ A nightclub owner is on the verge of leaving his dangerous past behind for retir
 
 **MV Adjustment:** +11.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1752?post_id=64688722#post-64688722)  [TMDB](https://www.themoviedb.org/movie/1279493)  [Compare across authors](../../compare/?t=film-the-get-out_1279493)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1752?post_id=64688722#post-64688722)  [TMDB](https://www.themoviedb.org/movie/1279493)  [Compare across authors](../compare/index.md?t=film-the-get-out_1279493)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Get%20Out%20(2026)%20(%2B11%20gain)%20DD%2B.jpg)

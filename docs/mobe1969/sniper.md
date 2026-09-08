@@ -1,6 +1,6 @@
 # Sniper
 
-[Compare across authors](../../compare/?t=film-sniper_9545)
+[Compare across authors](../compare/index.md?t=film-sniper_9545)
 
 ## DTS-HD MA 5.1
 

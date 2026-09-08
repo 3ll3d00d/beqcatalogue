@@ -1,6 +1,6 @@
 # Strangerland
 
-[Compare across authors](../../compare/?t=film-strangerland_245846)
+[Compare across authors](../compare/index.md?t=film-strangerland_245846)
 
 ## DTS-HD MA 5.1
 

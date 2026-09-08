@@ -1,6 +1,6 @@
 # Monster Trucks
 
-[Compare across authors](../../compare/?t=film-monster-trucks_262841)
+[Compare across authors](../compare/index.md?t=film-monster-trucks_262841)
 
 ## Atmos
 

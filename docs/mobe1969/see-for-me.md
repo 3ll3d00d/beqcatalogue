@@ -1,6 +1,6 @@
 # See for Me
 
-[Compare across authors](../../compare/?t=film-see-for-me_825808)
+[Compare across authors](../compare/index.md?t=film-see-for-me_825808)
 
 ## DD+ 5.1
 

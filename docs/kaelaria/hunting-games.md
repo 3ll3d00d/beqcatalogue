@@ -7,7 +7,7 @@
 When a group of ex-military members is hired to retrieve a lost bag of stolen money, their mission becomes more difficult after a lone hunter finds the bag first.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1115396)  [Compare across authors](../../compare/?t=film-hunting-games_1115396)
+[TMDB](https://www.themoviedb.org/movie/1115396)  [Compare across authors](../compare/index.md?t=film-hunting-games_1115396)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Hunting%20Games%20(2023)%20DD%2B%205.1.jpg)

@@ -1,6 +1,6 @@
 # Force
 
-[Compare across authors](../../compare/?t=film-force_75745)
+[Compare across authors](../compare/index.md?t=film-force_75745)
 
 ## DD 5.1
 

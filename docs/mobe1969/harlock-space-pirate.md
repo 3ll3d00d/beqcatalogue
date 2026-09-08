@@ -1,6 +1,6 @@
 # Harlock Space Pirate
 
-[Compare across authors](../../compare/?t=film-harlock-space-pirate_192577)
+[Compare across authors](../compare/index.md?t=film-harlock-space-pirate_192577)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-criminal-spain_93878)
+[Compare across authors](../compare/index.md?t=TV-criminal-spain_93878)
 
 ## Season 1
 

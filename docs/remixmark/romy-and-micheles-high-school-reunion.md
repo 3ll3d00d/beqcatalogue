@@ -9,7 +9,7 @@ Two not-too-bright party girls reinvent themselves for their high school reunion
 
 **MV Adjustment:** +4.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/9611)  [Compare across authors](../../compare/?t=film-romy-and-micheles-high-school-reunion_9611)
+[TMDB](https://www.themoviedb.org/movie/9611)  [Compare across authors](../compare/index.md?t=film-romy-and-micheles-high-school-reunion_9611)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Romy%20and%20Michele's%20High%20School%20Reunion%20(1997)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

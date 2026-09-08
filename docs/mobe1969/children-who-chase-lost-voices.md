@@ -1,6 +1,6 @@
 # Children Who Chase Lost Voices
 
-[Compare across authors](../../compare/?t=film-children-who-chase-lost-voices_79707)
+[Compare across authors](../compare/index.md?t=film-children-who-chase-lost-voices_79707)
 
 ## DTS-HD MA 5.1
 

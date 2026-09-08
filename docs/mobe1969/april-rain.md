@@ -1,6 +1,6 @@
 # April Rain
 
-[Compare across authors](../../compare/?t=film-april-rain_268823)
+[Compare across authors](../compare/index.md?t=film-april-rain_268823)
 
 ## DTS-HD MA 5.1
 

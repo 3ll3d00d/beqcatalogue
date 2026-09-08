@@ -1,6 +1,6 @@
 # The Paramedic
 
-[Compare across authors](../../compare/?t=film-the-paramedic_701175)
+[Compare across authors](../compare/index.md?t=film-the-paramedic_701175)
 
 ## DD+ 5.1
 

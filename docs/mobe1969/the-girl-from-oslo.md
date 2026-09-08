@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-girl-from-oslo_121241)
+[Compare across authors](../compare/index.md?t=TV-the-girl-from-oslo_121241)
 
 ## Season 1
 

@@ -7,7 +7,7 @@
 Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/11969)  [Compare across authors](../../compare/?t=film-tombstone_11969)
+[TMDB](https://www.themoviedb.org/movie/11969)  [Compare across authors](../compare/index.md?t=film-tombstone_11969)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Tombstone%20(1993)%20DTS-HD%20MA%205.1.jpg)

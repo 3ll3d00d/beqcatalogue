@@ -9,7 +9,7 @@ A familiar-looking group of teenagers find themselves being stalked by a more-th
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1672?post_id=64273044#post-64273044)  [TMDB](https://www.themoviedb.org/movie/4247)  [Compare across authors](../../compare/?t=film-scary-movie_4247)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1672?post_id=64273044#post-64273044)  [TMDB](https://www.themoviedb.org/movie/4247)  [Compare across authors](../compare/index.md?t=film-scary-movie_4247)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scary%20Movie%20(2000)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)

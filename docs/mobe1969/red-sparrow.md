@@ -1,6 +1,6 @@
 # Red Sparrow
 
-[Compare across authors](../../compare/?t=film-red-sparrow_401981)
+[Compare across authors](../compare/index.md?t=film-red-sparrow_401981)
 
 ## Atmos, DTS-HD MA 7.1
 

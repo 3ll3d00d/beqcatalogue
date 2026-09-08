@@ -1,6 +1,6 @@
 # Housefull 2
 
-[Compare across authors](../../compare/?t=film-housefull-2_85052)
+[Compare across authors](../compare/index.md?t=film-housefull-2_85052)
 
 ## DD 5.1
 

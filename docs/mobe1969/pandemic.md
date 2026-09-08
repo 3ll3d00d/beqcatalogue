@@ -1,6 +1,6 @@
 # Pandemic
 
-[Compare across authors](../../compare/?t=film-pandemic_41813)
+[Compare across authors](../compare/index.md?t=film-pandemic_41813)
 
 ## DTS-HD MA 5.1
 

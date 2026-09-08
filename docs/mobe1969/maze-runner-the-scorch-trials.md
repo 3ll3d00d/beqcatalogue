@@ -1,6 +1,6 @@
 # Maze Runner: The Scorch Trials
 
-[Compare across authors](../../compare/?t=film-maze-runner-the-scorch-trials_294254)
+[Compare across authors](../compare/index.md?t=film-maze-runner-the-scorch-trials_294254)
 
 ## DTS-HD MA 7.1
 

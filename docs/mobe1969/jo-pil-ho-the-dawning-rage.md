@@ -1,6 +1,6 @@
 # Jo Pil-ho: The Dawning Rage
 
-[Compare across authors](../../compare/?t=film-jo-pil-ho-the-dawning-rage_574303)
+[Compare across authors](../compare/index.md?t=film-jo-pil-ho-the-dawning-rage_574303)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

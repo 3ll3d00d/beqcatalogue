@@ -1,6 +1,6 @@
 # Into the Ashes
 
-[Compare across authors](../../compare/?t=film-into-the-ashes_609189)
+[Compare across authors](../compare/index.md?t=film-into-the-ashes_609189)
 
 ## DTS-HD MA 5.1
 

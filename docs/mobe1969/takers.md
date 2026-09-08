@@ -1,6 +1,6 @@
 # Takers
 
-[Compare across authors](../../compare/?t=film-takers_22907)
+[Compare across authors](../compare/index.md?t=film-takers_22907)
 
 ## DTS-HD MA 5.1
 

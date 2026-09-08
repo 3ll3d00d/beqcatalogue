@@ -12,7 +12,7 @@ After a migrating duck family alights on their pond with thrilling tales of far-
 +5dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63102842)  [TMDB](https://www.themoviedb.org/movie/940551)  [Compare across authors](../../compare/?t=film-migration_940551)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63102842)  [TMDB](https://www.themoviedb.org/movie/940551)  [Compare across authors](../compare/index.md?t=film-migration_940551)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Migration%20(2023)%20(%2B5%20gain)%20Atmos.jpg)

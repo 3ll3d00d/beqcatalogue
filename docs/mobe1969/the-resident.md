@@ -1,6 +1,6 @@
 # The Resident
 
-[Compare across authors](../../compare/?t=film-the-resident_50671)
+[Compare across authors](../compare/index.md?t=film-the-resident_50671)
 
 ## DTS-HD MA 5.1
 

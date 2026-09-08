@@ -9,7 +9,7 @@ While vacationing at a remote cabin, a young girl and her two fathers are taken 
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1453?post_id=63304068#post-63304068)  [TMDB](https://www.themoviedb.org/movie/631842)  [Compare across authors](../../compare/?t=film-knock-at-the-cabin_631842)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1453?post_id=63304068#post-63304068)  [TMDB](https://www.themoviedb.org/movie/631842)  [Compare across authors](../compare/index.md?t=film-knock-at-the-cabin_631842)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Knock%20at%20the%20Cabin%20(2023)%20(%2B5%20gain)%20Atmos.jpg)

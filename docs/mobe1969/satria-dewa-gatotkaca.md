@@ -1,6 +1,6 @@
 # Satria Dewa: Gatotkaca
 
-[Compare across authors](../../compare/?t=film-satria-dewa-gatotkaca_667062)
+[Compare across authors](../compare/index.md?t=film-satria-dewa-gatotkaca_667062)
 
 ## DD+ Atmos
 

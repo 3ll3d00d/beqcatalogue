@@ -1,6 +1,6 @@
 # Nanny
 
-[Compare across authors](../../compare/?t=film-nanny_843932)
+[Compare across authors](../compare/index.md?t=film-nanny_843932)
 
 ## DD+ 5.1
 

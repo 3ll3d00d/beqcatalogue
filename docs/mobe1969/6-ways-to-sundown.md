@@ -1,6 +1,6 @@
 # 6 Ways to Sundown
 
-[Compare across authors](../../compare/?t=film-6-ways-to-sundown_346079)
+[Compare across authors](../compare/index.md?t=film-6-ways-to-sundown_346079)
 
 ## DTS-HD MA 5.1
 

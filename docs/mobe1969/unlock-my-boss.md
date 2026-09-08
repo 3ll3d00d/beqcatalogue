@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-unlock-my-boss_155459)
+[Compare across authors](../compare/index.md?t=TV-unlock-my-boss_155459)
 
 ## Season 1
 

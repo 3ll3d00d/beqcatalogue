@@ -1,6 +1,6 @@
 # Changeling
 
-[Compare across authors](../../compare/?t=film-changeling_3580)
+[Compare across authors](../compare/index.md?t=film-changeling_3580)
 
 ## DTS-HD MA 5.1
 

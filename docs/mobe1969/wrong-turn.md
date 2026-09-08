@@ -1,6 +1,6 @@
 # Wrong Turn
 
-[Compare across authors](../../compare/?t=film-wrong-turn_9902)
+[Compare across authors](../compare/index.md?t=film-wrong-turn_9902)
 
 ## DTS-HD MA 5.1
 

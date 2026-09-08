@@ -1,6 +1,6 @@
 # It's a Disaster
 
-[Compare across authors](../../compare/?t=film-its-a-disaster_114779)
+[Compare across authors](../compare/index.md?t=film-its-a-disaster_114779)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Anti Matter
 
-[Compare across authors](../../compare/?t=film-anti-matter_429101)
+[Compare across authors](../compare/index.md?t=film-anti-matter_429101)
 
 ## DD+ 2.0
 

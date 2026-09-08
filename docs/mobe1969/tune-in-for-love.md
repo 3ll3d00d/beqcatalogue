@@ -1,6 +1,6 @@
 # Tune in for Love
 
-[Compare across authors](../../compare/?t=film-tune-in-for-love_570503)
+[Compare across authors](../compare/index.md?t=film-tune-in-for-love_570503)
 
 ## DD+ 5.1
 

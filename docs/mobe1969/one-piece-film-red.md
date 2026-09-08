@@ -1,6 +1,6 @@
 # One Piece Film Red
 
-[Compare across authors](../../compare/?t=film-one-piece-film-red_900667)
+[Compare across authors](../compare/index.md?t=film-one-piece-film-red_900667)
 
 ## DTS-HD MA 5.1
 

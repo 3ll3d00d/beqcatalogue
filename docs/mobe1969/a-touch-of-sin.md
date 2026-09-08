@@ -1,6 +1,6 @@
 # A Touch of Sin
 
-[Compare across authors](../../compare/?t=film-a-touch-of-sin_187022)
+[Compare across authors](../compare/index.md?t=film-a-touch-of-sin_187022)
 
 ## DTS-HD MA 5.1
 

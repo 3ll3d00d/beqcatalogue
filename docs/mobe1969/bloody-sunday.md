@@ -1,6 +1,6 @@
 # Bloody Sunday
 
-[Compare across authors](../../compare/?t=film-bloody-sunday_4107)
+[Compare across authors](../compare/index.md?t=film-bloody-sunday_4107)
 
 ## DTS-HD MA 5.1
 

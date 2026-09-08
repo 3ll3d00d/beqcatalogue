@@ -1,6 +1,6 @@
 # Contagion
 
-[Compare across authors](../../compare/?t=film-contagion_39538)
+[Compare across authors](../compare/index.md?t=film-contagion_39538)
 
 ## DTS-HD MA 5.1
 

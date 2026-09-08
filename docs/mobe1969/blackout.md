@@ -1,6 +1,6 @@
 # Blackout
 
-[Compare across authors](../../compare/?t=film-blackout_759507)
+[Compare across authors](../compare/index.md?t=film-blackout_759507)
 
 ## DD+ 5.1
 

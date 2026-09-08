@@ -7,7 +7,7 @@
 Reporters Loretta McLaughlin and Jean Cole bravely pursue the story of the Boston Strangler at great personal risk, putting their own lives on the line in their quest to uncover the truth.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/881164)  [Compare across authors](../../compare/?t=film-boston-strangler_881164)
+[TMDB](https://www.themoviedb.org/movie/881164)  [Compare across authors](../compare/index.md?t=film-boston-strangler_881164)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Boston%20Strangler/Boston%20Strangler%20(2023)%20DD%2B%205.1.Atmos.jpg)

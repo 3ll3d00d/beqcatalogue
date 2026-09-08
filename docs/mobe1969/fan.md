@@ -1,6 +1,6 @@
 # Fan
 
-[Compare across authors](../../compare/?t=film-fan_377985)
+[Compare across authors](../compare/index.md?t=film-fan_377985)
 
 ## DD+ 5.1
 

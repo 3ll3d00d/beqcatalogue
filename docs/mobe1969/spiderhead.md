@@ -1,6 +1,6 @@
 # Spiderhead
 
-[Compare across authors](../../compare/?t=film-spiderhead_615469)
+[Compare across authors](../compare/index.md?t=film-spiderhead_615469)
 
 ## DD+ Atmos
 

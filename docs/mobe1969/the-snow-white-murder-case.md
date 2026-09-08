@@ -1,6 +1,6 @@
 # The Snow White Murder Case
 
-[Compare across authors](../../compare/?t=film-the-snow-white-murder-case_253454)
+[Compare across authors](../compare/index.md?t=film-the-snow-white-murder-case_253454)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Riverdance: The Animated Adventure
 
-[Compare across authors](../../compare/?t=film-riverdance-the-animated-adventure_756403)
+[Compare across authors](../compare/index.md?t=film-riverdance-the-animated-adventure_756403)
 
 ## DD+ Atmos
 

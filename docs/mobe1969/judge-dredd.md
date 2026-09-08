@@ -1,6 +1,6 @@
 # Judge Dredd
 
-[Compare across authors](../../compare/?t=film-judge-dredd_9482)
+[Compare across authors](../compare/index.md?t=film-judge-dredd_9482)
 
 ## DTS-HD MA 5.1
 

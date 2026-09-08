@@ -1,6 +1,6 @@
 # All About Steve
 
-[Compare across authors](../../compare/?t=film-all-about-steve_23706)
+[Compare across authors](../compare/index.md?t=film-all-about-steve_23706)
 
 ## DTS-HD MA 5.1
 

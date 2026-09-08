@@ -1,6 +1,6 @@
 # Payback
 
-[Compare across authors](../../compare/?t=film-payback_2112)
+[Compare across authors](../compare/index.md?t=film-payback_2112)
 
 ## TrueHD 5.1
 

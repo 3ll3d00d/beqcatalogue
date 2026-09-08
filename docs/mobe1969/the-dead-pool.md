@@ -1,6 +1,6 @@
 # The Dead Pool
 
-[Compare across authors](../../compare/?t=film-the-dead-pool_10651)
+[Compare across authors](../compare/index.md?t=film-the-dead-pool_10651)
 
 ## TrueHD 5.1
 

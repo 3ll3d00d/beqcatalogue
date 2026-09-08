@@ -1,6 +1,6 @@
 # Above the Law
 
-[Compare across authors](../../compare/?t=film-above-the-law_9395)
+[Compare across authors](../compare/index.md?t=film-above-the-law_9395)
 
 ## TrueHD 5.1
 

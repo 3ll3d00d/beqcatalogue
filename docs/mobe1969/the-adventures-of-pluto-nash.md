@@ -1,6 +1,6 @@
 # The Adventures of Pluto Nash
 
-[Compare across authors](../../compare/?t=film-the-adventures-of-pluto-nash_11692)
+[Compare across authors](../compare/index.md?t=film-the-adventures-of-pluto-nash_11692)
 
 ## DD+ 5.1
 

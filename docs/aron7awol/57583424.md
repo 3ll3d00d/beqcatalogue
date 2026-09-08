@@ -1,6 +1,6 @@
 # Hook
 
-[Compare across authors](../../compare/?t=film-hook_879)
+[Compare across authors](../compare/index.md?t=film-hook_879)
 
 ## Atmos
 

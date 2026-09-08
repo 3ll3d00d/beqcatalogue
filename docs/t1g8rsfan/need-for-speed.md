@@ -9,7 +9,7 @@ The film revolves around a local street-racer who partners with a rich and arrog
 
 **MV Adjustment:** -5.0 dB
 
-[Discuss](https://www.avsforum.com/posts/62618193/)  [TMDB](https://www.themoviedb.org/movie/136797)  [Compare across authors](../../compare/?t=film-need-for-speed_136797)
+[Discuss](https://www.avsforum.com/posts/62618193/)  [TMDB](https://www.themoviedb.org/movie/136797)  [Compare across authors](../compare/index.md?t=film-need-for-speed_136797)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Need%20for%20Speed%20(2014)%20(-5%20gain)%20DTS-HD%20MA%207.1.jpg)

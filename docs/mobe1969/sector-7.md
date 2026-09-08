@@ -1,6 +1,6 @@
 # Sector 7
 
-[Compare across authors](../../compare/?t=film-sector-7_75821)
+[Compare across authors](../compare/index.md?t=film-sector-7_75821)
 
 ## DTS-HD MA 5.1
 

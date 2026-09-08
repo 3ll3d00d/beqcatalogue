@@ -1,6 +1,6 @@
 # Win It All
 
-[Compare across authors](../../compare/?t=film-win-it-all_397442)
+[Compare across authors](../compare/index.md?t=film-win-it-all_397442)
 
 ## DD+ 5.1
 

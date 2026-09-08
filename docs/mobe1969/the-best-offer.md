@@ -1,6 +1,6 @@
 # The Best Offer
 
-[Compare across authors](../../compare/?t=film-the-best-offer_152742)
+[Compare across authors](../compare/index.md?t=film-the-best-offer_152742)
 
 ## DTS-HD MA 5.1
 

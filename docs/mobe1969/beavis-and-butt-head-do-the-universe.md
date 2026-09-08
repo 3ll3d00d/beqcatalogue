@@ -1,6 +1,6 @@
 # Beavis and Butt-Head Do the Universe
 
-[Compare across authors](../../compare/?t=film-beavis-and-butt-head-do-the-universe_828947)
+[Compare across authors](../compare/index.md?t=film-beavis-and-butt-head-do-the-universe_828947)
 
 ## DD+ 5.1
 

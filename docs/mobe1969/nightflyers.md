@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-nightflyers_78183)
+[Compare across authors](../compare/index.md?t=TV-nightflyers_78183)
 
 ## Season 1
 

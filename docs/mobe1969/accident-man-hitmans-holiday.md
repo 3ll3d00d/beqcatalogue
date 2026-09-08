@@ -1,6 +1,6 @@
 # Accident Man: Hitman's Holiday
 
-[Compare across authors](../../compare/?t=film-accident-man-hitmans-holiday_879444)
+[Compare across authors](../compare/index.md?t=film-accident-man-hitmans-holiday_879444)
 
 ## DD 5.1
 

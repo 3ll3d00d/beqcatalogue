@@ -1,6 +1,6 @@
 # Godzilla
 
-[Compare across authors](../../compare/?t=film-godzilla_929)
+[Compare across authors](../compare/index.md?t=film-godzilla_929)
 
 ## Atmos
 

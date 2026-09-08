@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-barbarians_93785)
+[Compare across authors](../compare/index.md?t=TV-barbarians_93785)
 
 ## Season 1
 

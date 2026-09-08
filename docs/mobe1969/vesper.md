@@ -1,6 +1,6 @@
 # Vesper
 
-[Compare across authors](../../compare/?t=film-vesper_976720)
+[Compare across authors](../compare/index.md?t=film-vesper_976720)
 
 ## DTS-HD MA 7.1, DD+ 7.1
 

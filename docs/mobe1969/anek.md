@@ -1,6 +1,6 @@
 # Anek
 
-[Compare across authors](../../compare/?t=film-anek_888268)
+[Compare across authors](../compare/index.md?t=film-anek_888268)
 
 ## DD+ 5.1
 

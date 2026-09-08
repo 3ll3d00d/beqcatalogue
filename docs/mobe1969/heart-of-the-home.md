@@ -1,6 +1,6 @@
 # Heart of the Home
 
-[Compare across authors](../../compare/?t=film-heart-of-the-home_785174)
+[Compare across authors](../compare/index.md?t=film-heart-of-the-home_785174)
 
 ## DD 5.1
 

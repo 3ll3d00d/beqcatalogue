@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-abyss_88328)
+[Compare across authors](../compare/index.md?t=TV-abyss_88328)
 
 ## Season 1
 

@@ -12,7 +12,7 @@ Author Ben Mears returns to his childhood home of Jerusalem's Lot only to discov
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1522?post_id=63616945#post-63616945)  [TMDB](https://www.themoviedb.org/movie/748230)  [Compare across authors](../../compare/?t=film-salems-lot_748230)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1522?post_id=63616945#post-63616945)  [TMDB](https://www.themoviedb.org/movie/748230)  [Compare across authors](../compare/index.md?t=film-salems-lot_748230)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Salem's%20Lot%20(2024)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)

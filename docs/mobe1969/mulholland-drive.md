@@ -1,6 +1,6 @@
 # Mulholland Drive
 
-[Compare across authors](../../compare/?t=film-mulholland-drive_1018)
+[Compare across authors](../compare/index.md?t=film-mulholland-drive_1018)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # God Bless America
 
-[Compare across authors](../../compare/?t=film-god-bless-america_74306)
+[Compare across authors](../compare/index.md?t=film-god-bless-america_74306)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Bound to Vengeance
 
-[Compare across authors](../../compare/?t=film-bound-to-vengeance_310137)
+[Compare across authors](../compare/index.md?t=film-bound-to-vengeance_310137)
 
 ## TrueHD 5.1
 

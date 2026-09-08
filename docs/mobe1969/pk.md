@@ -1,6 +1,6 @@
 # PK
 
-[Compare across authors](../../compare/?t=film-pk_297222)
+[Compare across authors](../compare/index.md?t=film-pk_297222)
 
 ## DD+ 5.1
 

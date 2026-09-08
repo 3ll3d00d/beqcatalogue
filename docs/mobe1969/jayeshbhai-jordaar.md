@@ -1,6 +1,6 @@
 # Jayeshbhai Jordaar
 
-[Compare across authors](../../compare/?t=film-jayeshbhai-jordaar_678999)
+[Compare across authors](../compare/index.md?t=film-jayeshbhai-jordaar_678999)
 
 ## DD+ 5.1
 

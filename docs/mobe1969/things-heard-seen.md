@@ -1,6 +1,6 @@
 # Things Heard & Seen
 
-[Compare across authors](../../compare/?t=film-things-heard-seen_631060)
+[Compare across authors](../compare/index.md?t=film-things-heard-seen_631060)
 
 ## DD+ Atmos, DD+ 5.1
 

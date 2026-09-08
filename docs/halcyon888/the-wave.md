@@ -9,7 +9,7 @@ A man on the verge of a promotion takes a mysterious hallucinogenic drug that be
 
 **MV Adjustment:** +2.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/619263)  [Compare across authors](../../compare/?t=film-the-wave_619263)
+[TMDB](https://www.themoviedb.org/movie/619263)  [Compare across authors](../compare/index.md?t=film-the-wave_619263)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/the%20wave%202019%20PvA%20v1.jpg)

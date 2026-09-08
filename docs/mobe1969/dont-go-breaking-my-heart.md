@@ -1,6 +1,6 @@
 # Don't Go Breaking My Heart
 
-[Compare across authors](../../compare/?t=film-dont-go-breaking-my-heart_67793)
+[Compare across authors](../compare/index.md?t=film-dont-go-breaking-my-heart_67793)
 
 ## DD+ 2.0
 

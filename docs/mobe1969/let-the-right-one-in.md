@@ -1,6 +1,6 @@
 # Let the Right One In
 
-[Compare across authors](../../compare/?t=film-let-the-right-one-in_13310)
+[Compare across authors](../compare/index.md?t=film-let-the-right-one-in_13310)
 
 ## DTS-HD MA 5.1
 

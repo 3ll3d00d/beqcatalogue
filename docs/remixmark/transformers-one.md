@@ -9,7 +9,7 @@ The untold origin story of Optimus Prime and Megatron, better known as sworn ene
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1536?post_id=63691637#post-63691637)  [TMDB](https://www.themoviedb.org/movie/698687)  [Compare across authors](../../compare/?t=film-transformers-one_698687)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1536?post_id=63691637#post-63691637)  [TMDB](https://www.themoviedb.org/movie/698687)  [Compare across authors](../compare/index.md?t=film-transformers-one_698687)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Transformers%20One%20(2024)%20(%2B2%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ The untold origin story of Optimus Prime and Megatron, better known as sworn ene
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1520?post_id=63607850#post-63607850)  [TMDB](https://www.themoviedb.org/movie/698687)  [Compare across authors](../../compare/?t=film-transformers-one_698687)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1520?post_id=63607850#post-63607850)  [TMDB](https://www.themoviedb.org/movie/698687)  [Compare across authors](../compare/index.md?t=film-transformers-one_698687)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Transformers%20One%20(2024)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

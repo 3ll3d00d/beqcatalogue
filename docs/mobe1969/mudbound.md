@@ -1,6 +1,6 @@
 # Mudbound
 
-[Compare across authors](../../compare/?t=film-mudbound_414425)
+[Compare across authors](../compare/index.md?t=film-mudbound_414425)
 
 ## DD+ 5.1
 

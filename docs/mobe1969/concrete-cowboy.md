@@ -1,6 +1,6 @@
 # Concrete Cowboy
 
-[Compare across authors](../../compare/?t=film-concrete-cowboy_621954)
+[Compare across authors](../compare/index.md?t=film-concrete-cowboy_621954)
 
 ## DD+ 5.1
 

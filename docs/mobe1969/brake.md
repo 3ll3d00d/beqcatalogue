@@ -1,6 +1,6 @@
 # Brake
 
-[Compare across authors](../../compare/?t=film-brake_85414)
+[Compare across authors](../compare/index.md?t=film-brake_85414)
 
 ## DTS-HD MA 5.1
 

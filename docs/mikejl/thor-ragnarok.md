@@ -7,7 +7,7 @@
 Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/284053)  [Compare across authors](../../compare/?t=film-thor-ragnarok_284053)
+[TMDB](https://www.themoviedb.org/movie/284053)  [Compare across authors](../compare/index.md?t=film-thor-ragnarok_284053)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Thor/Thor%20-%20Ragnarok%20(2017)%20DTS-HD%20MA%207.1hm.jpg)

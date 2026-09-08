@@ -7,7 +7,7 @@
 * DTS-HD MA 5.1, DD+
 
 
-* [Compare across authors](../../compare/?t=TV-star-trek-picard_85949)
+* [Compare across authors](../compare/index.md?t=TV-star-trek-picard_85949)
 
 * Production Year: 2020
 

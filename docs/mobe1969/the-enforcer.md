@@ -1,6 +1,6 @@
 # The Enforcer
 
-[Compare across authors](../../compare/?t=film-the-enforcer_846433)
+[Compare across authors](../compare/index.md?t=film-the-enforcer_846433)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Warriors of Future
 
-[Compare across authors](../../compare/?t=film-warriors-of-future_518896)
+[Compare across authors](../compare/index.md?t=film-warriors-of-future_518896)
 
 ## DD+ 5.1
 

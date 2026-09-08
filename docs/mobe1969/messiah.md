@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-messiah_81292)
+[Compare across authors](../compare/index.md?t=TV-messiah_81292)
 
 ## Season 1
 

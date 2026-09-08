@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-pentaverate_88584)
+[Compare across authors](../compare/index.md?t=TV-the-pentaverate_88584)
 
 ## Season 1
 

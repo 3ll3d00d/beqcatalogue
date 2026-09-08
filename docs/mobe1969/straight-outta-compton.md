@@ -1,6 +1,6 @@
 # Straight Outta Compton
 
-[Compare across authors](../../compare/?t=film-straight-outta-compton_277216)
+[Compare across authors](../compare/index.md?t=film-straight-outta-compton_277216)
 
 ## DTS-X
 

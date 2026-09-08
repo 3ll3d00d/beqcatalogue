@@ -1,6 +1,6 @@
 # The Craft
 
-[Compare across authors](../../compare/?t=film-the-craft_9100)
+[Compare across authors](../compare/index.md?t=film-the-craft_9100)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Mars Needs Moms
 
-[Compare across authors](../../compare/?t=film-mars-needs-moms_50321)
+[Compare across authors](../compare/index.md?t=film-mars-needs-moms_50321)
 
 ## DTS-HD MA 7.1
 

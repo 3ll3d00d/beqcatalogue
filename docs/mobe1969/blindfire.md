@@ -1,6 +1,6 @@
 # Blindfire
 
-[Compare across authors](../../compare/?t=film-blindfire_758935)
+[Compare across authors](../compare/index.md?t=film-blindfire_758935)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Smile
 
-[Compare across authors](../../compare/?t=film-smile_882598)
+[Compare across authors](../compare/index.md?t=film-smile_882598)
 
 ## Atmos, DD+ Atmos, DD+ 5.1
 

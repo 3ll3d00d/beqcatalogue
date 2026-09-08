@@ -1,6 +1,6 @@
 # Batman: The Doom That Came to Gotham
 
-[Compare across authors](../../compare/?t=film-batman-the-doom-that-came-to-gotham_1003579)
+[Compare across authors](../compare/index.md?t=film-batman-the-doom-that-came-to-gotham_1003579)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

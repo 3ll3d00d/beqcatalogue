@@ -1,6 +1,6 @@
 # Dasvi
 
-[Compare across authors](../../compare/?t=film-dasvi_799713)
+[Compare across authors](../compare/index.md?t=film-dasvi_799713)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Out for Justice
 
-[Compare across authors](../../compare/?t=film-out-for-justice_14362)
+[Compare across authors](../compare/index.md?t=film-out-for-justice_14362)
 
 ## DD 5.1
 

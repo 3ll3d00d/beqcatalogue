@@ -9,7 +9,7 @@ Director's Cut
 A psychotherapist journeys inside a comatose serial killer in the hopes of saving his latest victim.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/8843)  [Compare across authors](../../compare/?t=film-the-cell_8843)
+[TMDB](https://www.themoviedb.org/movie/8843)  [Compare across authors](../compare/index.md?t=film-the-cell_8843)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/THE%20CELL%20(2000)%20DTS-HD%20MA%205.1.jpg)
@@ -25,7 +25,7 @@ Theatrical
 A psychotherapist journeys inside a comatose serial killer in the hopes of saving his latest victim.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/8843)  [Compare across authors](../../compare/?t=film-the-cell_8843)
+[TMDB](https://www.themoviedb.org/movie/8843)  [Compare across authors](../compare/index.md?t=film-the-cell_8843)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/THE%20CELL%20(2000)%20DTS-HD%20MA%205.1.jpg)

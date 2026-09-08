@@ -1,6 +1,6 @@
 # The Sitter
 
-[Compare across authors](../../compare/?t=film-the-sitter_57431)
+[Compare across authors](../compare/index.md?t=film-the-sitter_57431)
 
 ## DTS-HD MA 5.1
 

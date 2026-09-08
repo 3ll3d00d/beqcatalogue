@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-bodyguard_80307)
+[Compare across authors](../compare/index.md?t=TV-bodyguard_80307)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # High Life
 
-[Compare across authors](../../compare/?t=film-high-life_376865)
+[Compare across authors](../compare/index.md?t=film-high-life_376865)
 
 ## DTS-HD MA 5.1
 

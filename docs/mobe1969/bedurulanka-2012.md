@@ -1,6 +1,6 @@
 # Bedurulanka 2012
 
-[Compare across authors](../../compare/?t=film-bedurulanka-2012_1055200)
+[Compare across authors](../compare/index.md?t=film-bedurulanka-2012_1055200)
 
 ## DD+ 5.1
 

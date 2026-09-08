@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-into-the-badlands_47450)
+* [Compare across authors](../compare/index.md?t=TV-into-the-badlands_47450)
 
 * Production Year: 2015
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-into-the-badlands_47450)
+* [Compare across authors](../compare/index.md?t=TV-into-the-badlands_47450)
 
 * Production Year: 2015
 
@@ -37,7 +37,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-into-the-badlands_47450)
+* [Compare across authors](../compare/index.md?t=TV-into-the-badlands_47450)
 
 * Production Year: 2015
 

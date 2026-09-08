@@ -1,6 +1,6 @@
 # Paradise Lost
 
-[Compare across authors](../../compare/?t=film-paradise-lost_9796)
+[Compare across authors](../compare/index.md?t=film-paradise-lost_9796)
 
 ## DTS-HD MA 5.1
 

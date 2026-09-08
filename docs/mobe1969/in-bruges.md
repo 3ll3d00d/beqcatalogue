@@ -1,6 +1,6 @@
 # In Bruges
 
-[Compare across authors](../../compare/?t=film-in-bruges_8321)
+[Compare across authors](../compare/index.md?t=film-in-bruges_8321)
 
 ## DD+ 5.1, DTS-HD MA 5.1
 

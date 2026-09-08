@@ -1,6 +1,6 @@
 # The Burial
 
-[Compare across authors](../../compare/?t=film-the-burial_763165)
+[Compare across authors](../compare/index.md?t=film-the-burial_763165)
 
 ## DD+ Atmos, DD+ 5.1
 

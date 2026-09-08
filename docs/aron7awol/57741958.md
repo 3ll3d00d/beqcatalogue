@@ -1,6 +1,6 @@
 # The Patriot
 
-[Compare across authors](../../compare/?t=film-the-patriot_2024)
+[Compare across authors](../compare/index.md?t=film-the-patriot_2024)
 
 ## Atmos
 

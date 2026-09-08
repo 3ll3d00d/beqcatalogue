@@ -1,6 +1,6 @@
 # Ninja: Shadow of a Tear
 
-[Compare across authors](../../compare/?t=film-ninja-shadow-of-a-tear_180894)
+[Compare across authors](../compare/index.md?t=film-ninja-shadow-of-a-tear_180894)
 
 ## DTS-HD MA 5.1
 

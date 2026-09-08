@@ -1,6 +1,6 @@
 # Pain Hustlers
 
-[Compare across authors](../../compare/?t=film-pain-hustlers_862968)
+[Compare across authors](../compare/index.md?t=film-pain-hustlers_862968)
 
 ## DD+ Atmos
 

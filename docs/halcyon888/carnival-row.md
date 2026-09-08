@@ -12,7 +12,7 @@
 Dialnorm Compensation: E01 +4dB, E04 +4dB, E08 +5dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-carnival-row_90027)
+* [Compare across authors](../compare/index.md?t=TV-carnival-row_90027)
 
 * Production Year: 2019
 
@@ -32,7 +32,7 @@ Dialnorm Compensation: E01 +4dB, E04 +4dB, E08 +5dB
 Dialnorm Compensation: E02 +2dB, E03 +3dB, E06 +3dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-carnival-row_90027)
+* [Compare across authors](../compare/index.md?t=TV-carnival-row_90027)
 
 * Production Year: 2019
 
@@ -52,7 +52,7 @@ Dialnorm Compensation: E02 +2dB, E03 +3dB, E06 +3dB
 Dialnorm Compensation: E05 +5dB, E10 +5dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-carnival-row_90027)
+* [Compare across authors](../compare/index.md?t=TV-carnival-row_90027)
 
 * Production Year: 2019
 
@@ -72,7 +72,7 @@ Dialnorm Compensation: E05 +5dB, E10 +5dB
 Dialnorm Compensation: E07 +5dB, E09 +3dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-carnival-row_90027)
+* [Compare across authors](../compare/index.md?t=TV-carnival-row_90027)
 
 * Production Year: 2019
 

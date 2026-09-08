@@ -1,6 +1,6 @@
 # Gambit
 
-[Compare across authors](../../compare/?t=film-gambit_97434)
+[Compare across authors](../compare/index.md?t=film-gambit_97434)
 
 ## DTS-HD MA 5.1
 

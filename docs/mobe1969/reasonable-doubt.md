@@ -1,6 +1,6 @@
 # Reasonable Doubt
 
-[Compare across authors](../../compare/?t=film-reasonable-doubt_240916)
+[Compare across authors](../compare/index.md?t=film-reasonable-doubt_240916)
 
 ## DTS-HD MA 5.1
 

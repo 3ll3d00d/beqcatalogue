@@ -1,6 +1,6 @@
 # House of Flying Daggers
 
-[Compare across authors](../../compare/?t=film-house-of-flying-daggers_9550)
+[Compare across authors](../compare/index.md?t=film-house-of-flying-daggers_9550)
 
 ## DTS-HD MA 5.1
 

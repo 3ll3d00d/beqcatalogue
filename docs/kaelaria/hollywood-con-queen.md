@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-hollywood-con-queen_251927)
+* [Compare across authors](../compare/index.md?t=TV-hollywood-con-queen_251927)
 
 * Production Year: 2024
 

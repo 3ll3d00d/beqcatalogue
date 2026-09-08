@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-horror-of-dolores-roach_217825)
+[Compare across authors](../compare/index.md?t=TV-the-horror-of-dolores-roach_217825)
 
 ## Season 1
 

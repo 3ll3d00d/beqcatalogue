@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-luther_1426)
+[Compare across authors](../compare/index.md?t=TV-luther_1426)
 
 ## Season 1
 

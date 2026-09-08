@@ -7,7 +7,7 @@
 A struggling painter is possessed by satanic forces after he and his young family move into their dream home in rural Texas.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/354216)  [Compare across authors](../../compare/?t=film-the-devils-candy_354216)
+[TMDB](https://www.themoviedb.org/movie/354216)  [Compare across authors](../compare/index.md?t=film-the-devils-candy_354216)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Devil's%20Candy/The%20Devils%20Candy%20(2015)%20DTS-HD%20MA%205.1.jpg)

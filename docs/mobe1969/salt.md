@@ -1,6 +1,6 @@
 # Salt
 
-[Compare across authors](../../compare/?t=film-salt_27576)
+[Compare across authors](../compare/index.md?t=film-salt_27576)
 
 ## Atmos
 

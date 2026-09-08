@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-servant_88055)
+[Compare across authors](../compare/index.md?t=TV-servant_88055)
 
 ## Season 1
 

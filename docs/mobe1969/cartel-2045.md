@@ -1,6 +1,6 @@
 # Cartel 2045
 
-[Compare across authors](../../compare/?t=film-cartel-2045_458478)
+[Compare across authors](../compare/index.md?t=film-cartel-2045_458478)
 
 ## DD 5.1
 

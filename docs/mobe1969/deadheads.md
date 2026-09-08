@@ -1,6 +1,6 @@
 # DeadHeads
 
-[Compare across authors](../../compare/?t=film-deadheads_77067)
+[Compare across authors](../compare/index.md?t=film-deadheads_77067)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Breakfast Club
 
-[Compare across authors](../../compare/?t=film-the-breakfast-club_2108)
+[Compare across authors](../compare/index.md?t=film-the-breakfast-club_2108)
 
 ## DTS-HD MA 5.1
 

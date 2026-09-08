@@ -1,6 +1,6 @@
 # The Darkness
 
-[Compare across authors](../../compare/?t=film-the-darkness_257345)
+[Compare across authors](../compare/index.md?t=film-the-darkness_257345)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Amélie
 
-[Compare across authors](../../compare/?t=film-amelie_194)
+[Compare across authors](../compare/index.md?t=film-amelie_194)
 
 ## DTS-HD MA 5.1
 

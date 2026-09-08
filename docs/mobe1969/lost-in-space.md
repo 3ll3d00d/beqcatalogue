@@ -1,6 +1,6 @@
 # Lost in Space
 
-[Compare across authors](../../compare/?t=film-lost-in-space_2157)
+[Compare across authors](../compare/index.md?t=film-lost-in-space_2157)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

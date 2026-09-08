@@ -1,6 +1,6 @@
 # Raat Akeli Hai
 
-[Compare across authors](../../compare/?t=film-raat-akeli-hai_589615)
+[Compare across authors](../compare/index.md?t=film-raat-akeli-hai_589615)
 
 ## DD+ Atmos
 

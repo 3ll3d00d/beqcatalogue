@@ -1,6 +1,6 @@
 # Fright Night
 
-[Compare across authors](../../compare/?t=film-fright-night_58151)
+[Compare across authors](../compare/index.md?t=film-fright-night_58151)
 
 ## DTS-HD MA 7.1
 

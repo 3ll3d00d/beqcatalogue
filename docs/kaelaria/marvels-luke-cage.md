@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-marvels-luke-cage_62126)
+* [Compare across authors](../compare/index.md?t=TV-marvels-luke-cage_62126)
 
 * Production Year: 2016
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-marvels-luke-cage_62126)
+* [Compare across authors](../compare/index.md?t=TV-marvels-luke-cage_62126)
 
 * Production Year: 2016
 

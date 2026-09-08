@@ -1,6 +1,6 @@
 # Saints and Soldiers 2: Airborne Creed
 
-[Compare across authors](../../compare/?t=film-saints-and-soldiers-2-airborne-creed_133558)
+[Compare across authors](../compare/index.md?t=film-saints-and-soldiers-2-airborne-creed_133558)
 
 ## DTS-HD MA 5.1
 

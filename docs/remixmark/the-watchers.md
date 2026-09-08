@@ -9,7 +9,7 @@ A young artist gets stranded in an extensive, immaculate forest in western Irela
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1496?post_id=63508494#post-63508494)  [TMDB](https://www.themoviedb.org/movie/1086747)  [Compare across authors](../../compare/?t=film-the-watchers_1086747)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1496?post_id=63508494#post-63508494)  [TMDB](https://www.themoviedb.org/movie/1086747)  [Compare across authors](../compare/index.md?t=film-the-watchers_1086747)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Watchers%20(2024)%20(%2B6%20gain)%20Atmos.jpg)

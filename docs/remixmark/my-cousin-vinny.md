@@ -9,7 +9,7 @@ Two carefree pals traveling through rural Alabama on their way back to college a
 
 **MV Adjustment:** +8.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1741?post_id=64610714#post-64610714)  [TMDB](https://www.themoviedb.org/movie/10377)  [Compare across authors](../../compare/?t=film-my-cousin-vinny_10377)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1741?post_id=64610714#post-64610714)  [TMDB](https://www.themoviedb.org/movie/10377)  [Compare across authors](../compare/index.md?t=film-my-cousin-vinny_10377)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/My%20Cousin%20Vinny%20(1992)%20(%2B8.5%20gain)%20DTS-HD%20MA%205.1.jpg)

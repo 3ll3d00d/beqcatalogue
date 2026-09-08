@@ -1,6 +1,6 @@
 # Eraser
 
-[Compare across authors](../../compare/?t=film-eraser_9268)
+[Compare across authors](../compare/index.md?t=film-eraser_9268)
 
 ## TrueHD 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-possessed_86640)
+[Compare across authors](../compare/index.md?t=TV-possessed_86640)
 
 ## Season 1
 

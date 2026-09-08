@@ -1,6 +1,6 @@
 # Assassination Games
 
-[Compare across authors](../../compare/?t=film-assassination-games_71677)
+[Compare across authors](../compare/index.md?t=film-assassination-games_71677)
 
 ## DTS-HD MA 5.1
 

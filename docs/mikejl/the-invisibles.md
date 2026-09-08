@@ -7,7 +7,7 @@
 A couple facing the end of marriage, when the husband starts to disappear. As he fades from existence he discovers a new world of people who have disappeared just like him.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1193077)  [Compare across authors](../../compare/?t=film-the-invisibles_1193077)
+[TMDB](https://www.themoviedb.org/movie/1193077)  [Compare across authors](../compare/index.md?t=film-the-invisibles_1193077)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Invisibles/The%20Invisibles%20(2024)%20DD%2B%205.1.jpg)

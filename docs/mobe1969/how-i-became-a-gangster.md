@@ -1,6 +1,6 @@
 # How I Became a Gangster
 
-[Compare across authors](../../compare/?t=film-how-i-became-a-gangster_660033)
+[Compare across authors](../compare/index.md?t=film-how-i-became-a-gangster_660033)
 
 ## DD+ 5.1
 

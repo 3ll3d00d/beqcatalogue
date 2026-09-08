@@ -1,6 +1,6 @@
 # Happy Feet Two
 
-[Compare across authors](../../compare/?t=film-happy-feet-two_65759)
+[Compare across authors](../compare/index.md?t=film-happy-feet-two_65759)
 
 ## DTS-HD MA 5.1
 

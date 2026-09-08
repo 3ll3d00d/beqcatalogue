@@ -9,7 +9,7 @@ Plagued by a violent recurring nightmare, college student Stefanie heads home to
 
 **MV Adjustment:** -1.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/574475)  [Compare across authors](../../compare/?t=film-final-destination-bloodlines_574475)
+[TMDB](https://www.themoviedb.org/movie/574475)  [Compare across authors](../compare/index.md?t=film-final-destination-bloodlines_574475)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Final%20Destination%20Bloodlines%20(2025)%20(-1%20gain)%20DD%2B%20Atmos.jpg)

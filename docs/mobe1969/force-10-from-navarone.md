@@ -1,6 +1,6 @@
 # Force 10 from Navarone
 
-[Compare across authors](../../compare/?t=film-force-10-from-navarone_17339)
+[Compare across authors](../compare/index.md?t=film-force-10-from-navarone_17339)
 
 ## DTS-HD MA 5.1
 

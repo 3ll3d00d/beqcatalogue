@@ -1,6 +1,6 @@
 # Beneath Hill 60
 
-[Compare across authors](../../compare/?t=film-beneath-hill-60_43418)
+[Compare across authors](../compare/index.md?t=film-beneath-hill-60_43418)
 
 ## DTS-HD MA 5.1
 

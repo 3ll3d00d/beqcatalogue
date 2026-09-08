@@ -1,6 +1,6 @@
 # Sherni
 
-[Compare across authors](../../compare/?t=film-sherni_830891)
+[Compare across authors](../compare/index.md?t=film-sherni_830891)
 
 ## DD+ 5.1
 

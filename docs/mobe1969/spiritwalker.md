@@ -1,6 +1,6 @@
 # Spiritwalker
 
-[Compare across authors](../../compare/?t=film-spiritwalker_602295)
+[Compare across authors](../compare/index.md?t=film-spiritwalker_602295)
 
 ## DTS-HD MA 5.1
 

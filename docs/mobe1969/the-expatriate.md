@@ -1,6 +1,6 @@
 # The Expatriate
 
-[Compare across authors](../../compare/?t=film-the-expatriate_106021)
+[Compare across authors](../compare/index.md?t=film-the-expatriate_106021)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Perdida
 
-[Compare across authors](../../compare/?t=film-perdida_638943)
+[Compare across authors](../compare/index.md?t=film-perdida_638943)
 
 ## DD+ 5.1
 

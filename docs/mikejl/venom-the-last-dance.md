@@ -7,7 +7,7 @@
 Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/912649)  [Compare across authors](../../compare/?t=film-venom-the-last-dance_912649)
+[TMDB](https://www.themoviedb.org/movie/912649)  [Compare across authors](../compare/index.md?t=film-venom-the-last-dance_912649)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Venom%20-%20The%20Last%20Dance/Venom%20The%20Last%20Dance%20(2024)%20HDR%20Atmos.jpg)

@@ -7,7 +7,7 @@
 Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/507244)  [Compare across authors](../../compare/?t=film-afterburn_507244)
+[TMDB](https://www.themoviedb.org/movie/507244)  [Compare across authors](../compare/index.md?t=film-afterburn_507244)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Afterburn/Afterburn%20(2025)%20DD%2B%205.1.jpg)

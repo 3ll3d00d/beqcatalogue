@@ -1,6 +1,6 @@
 # The 8th Night
 
-[Compare across authors](../../compare/?t=film-the-8th-night_604360)
+[Compare across authors](../compare/index.md?t=film-the-8th-night_604360)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Out-Laws
 
-[Compare across authors](../../compare/?t=film-the-out-laws_921636)
+[Compare across authors](../compare/index.md?t=film-the-out-laws_921636)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Happy New Year
 
-[Compare across authors](../../compare/?t=film-happy-new-year_277432)
+[Compare across authors](../compare/index.md?t=film-happy-new-year_277432)
 
 ## DD+ 5.1
 

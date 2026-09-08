@@ -1,6 +1,6 @@
 # The Bad Batch
 
-[Compare across authors](../../compare/?t=film-the-bad-batch_316154)
+[Compare across authors](../compare/index.md?t=film-the-bad-batch_316154)
 
 ## DD+ 5.1
 

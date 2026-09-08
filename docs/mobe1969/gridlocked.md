@@ -1,6 +1,6 @@
 # Gridlocked
 
-[Compare across authors](../../compare/?t=film-gridlocked_356334)
+[Compare across authors](../compare/index.md?t=film-gridlocked_356334)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Monster High: The Movie
 
-[Compare across authors](../../compare/?t=film-monster-high-the-movie_335795)
+[Compare across authors](../compare/index.md?t=film-monster-high-the-movie_335795)
 
 ## DD+ 5.1
 

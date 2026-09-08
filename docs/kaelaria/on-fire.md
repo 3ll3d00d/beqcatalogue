@@ -7,7 +7,7 @@
 Inspired by true and harrowing events, an ordinary man finds his world suddenly torn apart as devastating wildfires rip through the surrounding countryside. With precious moments ticking by, he must flee with his son and pregnant wife if they have any hope of surviving the rapid forces of mother nature.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/900409)  [Compare across authors](../../compare/?t=film-on-fire_900409)
+[TMDB](https://www.themoviedb.org/movie/900409)  [Compare across authors](../compare/index.md?t=film-on-fire_900409)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/On.Fire%20(2023)%20DD%2B%205.1.jpg)

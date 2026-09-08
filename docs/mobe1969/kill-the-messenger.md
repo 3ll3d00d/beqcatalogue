@@ -1,6 +1,6 @@
 # Kill the Messenger
 
-[Compare across authors](../../compare/?t=film-kill-the-messenger_245916)
+[Compare across authors](../compare/index.md?t=film-kill-the-messenger_245916)
 
 ## DTS-HD MA 5.1
 

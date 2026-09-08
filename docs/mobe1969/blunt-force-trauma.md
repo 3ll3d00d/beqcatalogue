@@ -1,6 +1,6 @@
 # Blunt Force Trauma
 
-[Compare across authors](../../compare/?t=film-blunt-force-trauma_360387)
+[Compare across authors](../compare/index.md?t=film-blunt-force-trauma_360387)
 
 ## DTS-HD MA 5.1
 

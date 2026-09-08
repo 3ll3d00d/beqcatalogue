@@ -1,6 +1,6 @@
 # The Ridiculous 6
 
-[Compare across authors](../../compare/?t=film-the-ridiculous-6_347969)
+[Compare across authors](../compare/index.md?t=film-the-ridiculous-6_347969)
 
 ## DD+ 5.1
 

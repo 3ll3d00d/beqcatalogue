@@ -1,6 +1,6 @@
 # Double World
 
-[Compare across authors](../../compare/?t=film-double-world_611395)
+[Compare across authors](../compare/index.md?t=film-double-world_611395)
 
 ## DD+ 5.1
 

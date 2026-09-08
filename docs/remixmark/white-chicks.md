@@ -9,7 +9,7 @@ Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1733?post_id=64567906#post-64567906)  [TMDB](https://www.themoviedb.org/movie/12153)  [Compare across authors](../../compare/?t=film-white-chicks_12153)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1733?post_id=64567906#post-64567906)  [TMDB](https://www.themoviedb.org/movie/12153)  [Compare across authors](../compare/index.md?t=film-white-chicks_12153)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/White%20Chicks%20(2004)%20(%2B4.5%20gain)%20DD.jpg)
@@ -25,7 +25,7 @@ Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1490?post_id=63473752#post-63473752)  [TMDB](https://www.themoviedb.org/movie/12153)  [Compare across authors](../../compare/?t=film-white-chicks_12153)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1490?post_id=63473752#post-63473752)  [TMDB](https://www.themoviedb.org/movie/12153)  [Compare across authors](../compare/index.md?t=film-white-chicks_12153)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/White%20Chicks%20(2004)%20(%2B4%20gain)%20DD%2B.jpg)

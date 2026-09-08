@@ -7,7 +7,7 @@
 An astronaut struggles to maintain his grip on reality aboard a possibly fatally compromised mission to Saturn's moon, Titan.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/916728)  [Compare across authors](../../compare/?t=film-slingshot_916728)
+[TMDB](https://www.themoviedb.org/movie/916728)  [Compare across authors](../compare/index.md?t=film-slingshot_916728)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Slingshot%20(2024)%20DD%2B.jpg)

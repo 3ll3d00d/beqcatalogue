@@ -1,6 +1,6 @@
 # Das Boot
 
-[Compare across authors](../../compare/?t=film-das-boot_387)
+[Compare across authors](../compare/index.md?t=film-das-boot_387)
 
 ## DTS-HD MA 5.1
 

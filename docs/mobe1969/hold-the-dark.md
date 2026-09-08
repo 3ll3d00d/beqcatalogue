@@ -1,6 +1,6 @@
 # Hold the Dark
 
-[Compare across authors](../../compare/?t=film-hold-the-dark_395841)
+[Compare across authors](../compare/index.md?t=film-hold-the-dark_395841)
 
 ## DD+ 5.1
 

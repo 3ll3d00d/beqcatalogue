@@ -1,6 +1,6 @@
 # Beast Stalker
 
-[Compare across authors](../../compare/?t=film-beast-stalker_18060)
+[Compare across authors](../compare/index.md?t=film-beast-stalker_18060)
 
 ## DTS-HD MA 5.1
 

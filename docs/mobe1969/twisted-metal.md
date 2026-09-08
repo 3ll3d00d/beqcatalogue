@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-twisted-metal_133748)
+[Compare across authors](../compare/index.md?t=TV-twisted-metal_133748)
 
 ## Season 1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-gen-v_205715)
+[Compare across authors](../compare/index.md?t=TV-gen-v_205715)
 
 ## Season 1
 

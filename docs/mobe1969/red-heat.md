@@ -1,6 +1,6 @@
 # Red Heat
 
-[Compare across authors](../../compare/?t=film-red-heat_9604)
+[Compare across authors](../compare/index.md?t=film-red-heat_9604)
 
 ## DTS-HD MA 5.1
 

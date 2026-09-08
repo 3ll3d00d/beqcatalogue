@@ -14,7 +14,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/63467616/)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_2024)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_2024)
 
 * Production Year: 2024
 
@@ -33,7 +33,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/63467616/)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2026
 

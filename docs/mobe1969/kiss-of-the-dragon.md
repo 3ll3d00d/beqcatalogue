@@ -1,6 +1,6 @@
 # Kiss of the Dragon
 
-[Compare across authors](../../compare/?t=film-kiss-of-the-dragon_2140)
+[Compare across authors](../compare/index.md?t=film-kiss-of-the-dragon_2140)
 
 ## DTS-HD MA 5.1
 

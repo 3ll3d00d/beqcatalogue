@@ -1,6 +1,6 @@
 # Luka Chuppi
 
-[Compare across authors](../../compare/?t=film-luka-chuppi_585062)
+[Compare across authors](../compare/index.md?t=film-luka-chuppi_585062)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # In the Line of Fire
 
-[Compare across authors](../../compare/?t=film-in-the-line-of-fire_9386)
+[Compare across authors](../compare/index.md?t=film-in-the-line-of-fire_9386)
 
 ## Atmos
 

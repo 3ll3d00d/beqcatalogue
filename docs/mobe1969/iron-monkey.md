@@ -1,6 +1,6 @@
 # Iron Monkey
 
-[Compare across authors](../../compare/?t=film-iron-monkey_12780)
+[Compare across authors](../compare/index.md?t=film-iron-monkey_12780)
 
 ## TrueHD 7.1
 

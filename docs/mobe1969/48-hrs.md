@@ -1,6 +1,6 @@
 # 48 Hrs.
 
-[Compare across authors](../../compare/?t=film-48-hrs_150)
+[Compare across authors](../compare/index.md?t=film-48-hrs_150)
 
 ## TrueHD 5.1
 

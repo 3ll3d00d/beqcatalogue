@@ -1,6 +1,6 @@
 # Blow The Man Down
 
-[Compare across authors](../../compare/?t=film-blow-the-man-down_586451)
+[Compare across authors](../compare/index.md?t=film-blow-the-man-down_586451)
 
 ## DD+ 5.1
 

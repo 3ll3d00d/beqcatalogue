@@ -1,6 +1,6 @@
 # Gandeevadhari Arjuna
 
-[Compare across authors](../../compare/?t=film-gandeevadhari-arjuna_1034155)
+[Compare across authors](../compare/index.md?t=film-gandeevadhari-arjuna_1034155)
 
 ## DD+ 5.1
 

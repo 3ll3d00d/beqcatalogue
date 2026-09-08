@@ -1,6 +1,6 @@
 # Get Smart's Bruce and Lloyd Out of Control
 
-[Compare across authors](../../compare/?t=film-get-smarts-bruce-and-lloyd-out-of-control_15531)
+[Compare across authors](../compare/index.md?t=film-get-smarts-bruce-and-lloyd-out-of-control_15531)
 
 ## DD 5.1
 

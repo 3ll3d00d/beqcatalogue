@@ -1,6 +1,6 @@
 # Ghost in the Shell: Stand Alone Complex – Individual Eleven
 
-[Compare across authors](../../compare/?t=film-ghost-in-the-shell-stand-alone-complex-individual-eleven_111224)
+[Compare across authors](../compare/index.md?t=film-ghost-in-the-shell-stand-alone-complex-individual-eleven_111224)
 
 ## TrueHD 5.1
 

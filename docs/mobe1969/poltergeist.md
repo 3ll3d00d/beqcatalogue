@@ -1,6 +1,6 @@
 # Poltergeist
 
-[Compare across authors](../../compare/?t=film-poltergeist_609)
+[Compare across authors](../compare/index.md?t=film-poltergeist_609)
 
 ## DTS-HD MA 5.1
 

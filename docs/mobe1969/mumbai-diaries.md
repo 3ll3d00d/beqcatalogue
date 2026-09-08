@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mumbai-diaries_115466)
+[Compare across authors](../compare/index.md?t=TV-mumbai-diaries_115466)
 
 ## Season 1
 

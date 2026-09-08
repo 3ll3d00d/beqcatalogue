@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-yu-yu-hakusho_121659)
+* [Compare across authors](../compare/index.md?t=TV-yu-yu-hakusho_121659)
 
 * Production Year: 2023
 

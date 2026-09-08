@@ -1,6 +1,6 @@
 # I Kill Giants
 
-[Compare across authors](../../compare/?t=film-i-kill-giants_419831)
+[Compare across authors](../compare/index.md?t=film-i-kill-giants_419831)
 
 ## DD+ 5.1
 

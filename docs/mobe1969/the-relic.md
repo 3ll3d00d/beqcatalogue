@@ -1,6 +1,6 @@
 # The Relic
 
-[Compare across authors](../../compare/?t=film-the-relic_11015)
+[Compare across authors](../compare/index.md?t=film-the-relic_11015)
 
 ## DTS-HD MA 7.1
 

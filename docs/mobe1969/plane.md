@@ -1,6 +1,6 @@
 # Plane
 
-[Compare across authors](../../compare/?t=film-plane_646389)
+[Compare across authors](../compare/index.md?t=film-plane_646389)
 
 ## Atmos, DD+ 5.1
 

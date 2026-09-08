@@ -1,6 +1,6 @@
 # Couples Retreat
 
-[Compare across authors](../../compare/?t=film-couples-retreat_19899)
+[Compare across authors](../compare/index.md?t=film-couples-retreat_19899)
 
 ## DTS-HD MA 5.1
 

@@ -9,7 +9,7 @@ A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance
 
 **MV Adjustment:** +5.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/839033)  [Compare across authors](../../compare/?t=film-the-lord-of-the-rings-the-war-of-the-rohirrim_839033)
+[TMDB](https://www.themoviedb.org/movie/839033)  [Compare across authors](../compare/index.md?t=film-the-lord-of-the-rings-the-war-of-the-rohirrim_839033)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/TLotR%20The%20War%20of%20the%20Rohirrim%20(2024)%20(%2B5%20gain)%20Atmos.jpg)

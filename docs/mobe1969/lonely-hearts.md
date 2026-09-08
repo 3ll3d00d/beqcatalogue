@@ -1,6 +1,6 @@
 # Lonely Hearts
 
-[Compare across authors](../../compare/?t=film-lonely-hearts_1252)
+[Compare across authors](../compare/index.md?t=film-lonely-hearts_1252)
 
 ## DD+ 2.0
 

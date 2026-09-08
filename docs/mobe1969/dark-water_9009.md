@@ -1,6 +1,6 @@
 # Dark Water
 
-[Compare across authors](../../compare/?t=film-dark-water_9009)
+[Compare across authors](../compare/index.md?t=film-dark-water_9009)
 
 ## LPCM 5.1
 

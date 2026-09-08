@@ -1,6 +1,6 @@
 # White Elephant
 
-[Compare across authors](../../compare/?t=film-white-elephant_843633)
+[Compare across authors](../compare/index.md?t=film-white-elephant_843633)
 
 ## DD+ 5.1
 

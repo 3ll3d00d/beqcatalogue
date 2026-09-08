@@ -1,6 +1,6 @@
 # Europa Report
 
-[Compare across authors](../../compare/?t=film-europa-report_174772)
+[Compare across authors](../compare/index.md?t=film-europa-report_174772)
 
 ## DTS-HD MA 5.1
 

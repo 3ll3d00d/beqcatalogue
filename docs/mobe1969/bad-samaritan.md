@@ -1,6 +1,6 @@
 # Bad Samaritan
 
-[Compare across authors](../../compare/?t=film-bad-samaritan_467632)
+[Compare across authors](../compare/index.md?t=film-bad-samaritan_467632)
 
 ## DD+ 5.1
 

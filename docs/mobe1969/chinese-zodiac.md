@@ -1,6 +1,6 @@
 # Chinese Zodiac
 
-[Compare across authors](../../compare/?t=film-chinese-zodiac_98567)
+[Compare across authors](../compare/index.md?t=film-chinese-zodiac_98567)
 
 ## DTS-HD MA 5.1
 

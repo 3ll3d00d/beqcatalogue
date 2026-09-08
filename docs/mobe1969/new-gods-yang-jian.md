@@ -1,6 +1,6 @@
 # New Gods: Yang Jian
 
-[Compare across authors](../../compare/?t=film-new-gods-yang-jian_844075)
+[Compare across authors](../compare/index.md?t=film-new-gods-yang-jian_844075)
 
 ## DTS-HD MA 5.1
 

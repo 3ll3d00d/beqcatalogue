@@ -1,6 +1,6 @@
 # From Beijing with Love
 
-[Compare across authors](../../compare/?t=film-from-beijing-with-love_41387)
+[Compare across authors](../compare/index.md?t=film-from-beijing-with-love_41387)
 
 ## DTS-HD MA 5.1
 

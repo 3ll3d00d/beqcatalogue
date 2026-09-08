@@ -1,6 +1,6 @@
 # The Limehouse Golem
 
-[Compare across authors](../../compare/?t=film-the-limehouse-golem_369300)
+[Compare across authors](../compare/index.md?t=film-the-limehouse-golem_369300)
 
 ## DTS-HD MA 5.1
 

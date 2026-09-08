@@ -1,6 +1,6 @@
 # Safe
 
-[Compare across authors](../../compare/?t=film-safe_72387)
+[Compare across authors](../compare/index.md?t=film-safe_72387)
 
 ## DD+ 5.1
 

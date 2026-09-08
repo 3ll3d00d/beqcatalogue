@@ -1,6 +1,6 @@
 # At the Devil's Door
 
-[Compare across authors](../../compare/?t=film-at-the-devils-door_254188)
+[Compare across authors](../compare/index.md?t=film-at-the-devils-door_254188)
 
 ## DTS-HD MA 5.1
 

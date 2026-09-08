@@ -1,6 +1,6 @@
 # The Boxtrolls
 
-[Compare across authors](../../compare/?t=film-the-boxtrolls_170687)
+[Compare across authors](../compare/index.md?t=film-the-boxtrolls_170687)
 
 ## DTS-HD MA 5.1
 

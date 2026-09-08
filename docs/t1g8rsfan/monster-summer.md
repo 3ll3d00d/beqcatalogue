@@ -9,7 +9,7 @@ When a mysterious force begins to disrupt their big summer fun, Noah and his fri
 
 **MV Adjustment:** +5.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/928480)  [Compare across authors](../../compare/?t=film-monster-summer_928480)
+[TMDB](https://www.themoviedb.org/movie/928480)  [Compare across authors](../compare/index.md?t=film-monster-summer_928480)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Monster%20Summer%20(2024)%20(%2B5.5%20gain)%20DTS-HD%20MA%205.1.jpg)

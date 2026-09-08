@@ -1,6 +1,6 @@
 # Infernal Affairs III
 
-[Compare across authors](../../compare/?t=film-infernal-affairs-iii_14310)
+[Compare across authors](../compare/index.md?t=film-infernal-affairs-iii_14310)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Lakshya
 
-[Compare across authors](../../compare/?t=film-lakshya_21175)
+[Compare across authors](../compare/index.md?t=film-lakshya_21175)
 
 ## DD+ 5.1
 

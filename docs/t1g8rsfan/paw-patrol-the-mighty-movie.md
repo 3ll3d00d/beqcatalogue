@@ -12,7 +12,7 @@ A magical meteor crash lands in Adventure City and gives the PAW Patrol pups sup
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62956437)  [TMDB](https://www.themoviedb.org/movie/893723)  [Compare across authors](../../compare/?t=film-paw-patrol-the-mighty-movie_893723)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62956437)  [TMDB](https://www.themoviedb.org/movie/893723)  [Compare across authors](../compare/index.md?t=film-paw-patrol-the-mighty-movie_893723)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Paw%20Patrol%20The%20Mighty%20Movie%20(2023)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

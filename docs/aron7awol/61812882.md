@@ -1,6 +1,6 @@
 # Chip 'n Dale: Rescue Rangers
 
-[Compare across authors](../../compare/?t=film-chip-n-dale-rescue-rangers_420821)
+[Compare across authors](../compare/index.md?t=film-chip-n-dale-rescue-rangers_420821)
 
 ## DD+ Atmos
 

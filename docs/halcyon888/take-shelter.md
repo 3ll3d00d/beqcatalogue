@@ -9,7 +9,7 @@ Plagued by a series of apocalyptic visions, a young husband and father questions
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62772138)  [TMDB](https://www.themoviedb.org/movie/64720)  [Compare across authors](../../compare/?t=film-take-shelter_64720)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62772138)  [TMDB](https://www.themoviedb.org/movie/64720)  [Compare across authors](../compare/index.md?t=film-take-shelter_64720)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Take%20Shelter%20(2011)%20PvA%20v2.jpg)

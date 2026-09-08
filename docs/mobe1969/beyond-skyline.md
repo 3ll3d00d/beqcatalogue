@@ -1,6 +1,6 @@
 # Beyond Skyline
 
-[Compare across authors](../../compare/?t=film-beyond-skyline_271404)
+[Compare across authors](../compare/index.md?t=film-beyond-skyline_271404)
 
 ## DD+ 5.1
 

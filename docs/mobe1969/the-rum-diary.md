@@ -1,6 +1,6 @@
 # The Rum Diary
 
-[Compare across authors](../../compare/?t=film-the-rum-diary_23514)
+[Compare across authors](../compare/index.md?t=film-the-rum-diary_23514)
 
 ## DTS-HD MA 5.1
 

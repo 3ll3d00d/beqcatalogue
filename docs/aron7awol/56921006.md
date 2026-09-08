@@ -1,6 +1,6 @@
 # Hansel & Gretel: Witch Hunters
 
-[Compare across authors](../../compare/?t=film-hansel-gretel-witch-hunters_60304)
+[Compare across authors](../compare/index.md?t=film-hansel-gretel-witch-hunters_60304)
 
 ## TrueHD 5.1
 

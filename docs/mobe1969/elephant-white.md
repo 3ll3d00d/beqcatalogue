@@ -1,6 +1,6 @@
 # Elephant White
 
-[Compare across authors](../../compare/?t=film-elephant-white_57585)
+[Compare across authors](../compare/index.md?t=film-elephant-white_57585)
 
 ## DTS-HD MA 5.1
 

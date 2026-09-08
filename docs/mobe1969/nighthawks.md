@@ -1,6 +1,6 @@
 # Nighthawks
 
-[Compare across authors](../../compare/?t=film-nighthawks_21610)
+[Compare across authors](../compare/index.md?t=film-nighthawks_21610)
 
 ## DTS-HD MA 2.0
 

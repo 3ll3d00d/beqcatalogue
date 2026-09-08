@@ -1,6 +1,6 @@
 # The Prey
 
-[Compare across authors](../../compare/?t=film-the-prey_545572)
+[Compare across authors](../compare/index.md?t=film-the-prey_545572)
 
 ## DD+ 2.0
 

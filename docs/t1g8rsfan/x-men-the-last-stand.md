@@ -9,7 +9,7 @@ When a cure is found to treat mutations, lines are drawn amongst the X-Men—led
 
 **MV Adjustment:** -1.5 dB
 
-[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/36668)  [Compare across authors](../../compare/?t=film-x-men-the-last-stand_36668)
+[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/36668)  [Compare across authors](../compare/index.md?t=film-x-men-the-last-stand_36668)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/X-Men%20The%20Last%20Stand%20(2006)%20(-1.5%20gain)%20DTS-HD%20MA%206.1.jpg)

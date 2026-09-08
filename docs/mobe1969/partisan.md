@@ -1,6 +1,6 @@
 # Partisan
 
-[Compare across authors](../../compare/?t=film-partisan_306482)
+[Compare across authors](../compare/index.md?t=film-partisan_306482)
 
 ## DTS-HD MA 5.1
 

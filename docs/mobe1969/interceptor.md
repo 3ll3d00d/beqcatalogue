@@ -1,6 +1,6 @@
 # Interceptor
 
-[Compare across authors](../../compare/?t=film-interceptor_831946)
+[Compare across authors](../compare/index.md?t=film-interceptor_831946)
 
 ## DD+ Atmos
 

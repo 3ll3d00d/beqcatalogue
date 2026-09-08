@@ -1,6 +1,6 @@
 # Hellhole
 
-[Compare across authors](../../compare/?t=film-hellhole_1032950)
+[Compare across authors](../compare/index.md?t=film-hellhole_1032950)
 
 ## DD+ 5.1
 

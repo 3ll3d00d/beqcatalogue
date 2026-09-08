@@ -1,6 +1,6 @@
 # Montage
 
-[Compare across authors](../../compare/?t=film-montage_195276)
+[Compare across authors](../compare/index.md?t=film-montage_195276)
 
 ## DTS-HD MA 5.1
 

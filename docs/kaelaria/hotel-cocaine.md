@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-hotel-cocaine_211169)
+* [Compare across authors](../compare/index.md?t=TV-hotel-cocaine_211169)
 
 * Production Year: 2024
 

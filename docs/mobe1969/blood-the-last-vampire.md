@@ -1,6 +1,6 @@
 # Blood: The Last Vampire
 
-[Compare across authors](../../compare/?t=film-blood-the-last-vampire_1450)
+[Compare across authors](../compare/index.md?t=film-blood-the-last-vampire_1450)
 
 ## DTS-HD MA 5.1
 

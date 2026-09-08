@@ -1,6 +1,6 @@
 # The Tomorrow Job
 
-[Compare across authors](../../compare/?t=film-the-tomorrow-job_1064912)
+[Compare across authors](../compare/index.md?t=film-the-tomorrow-job_1064912)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Gamer
 
-[Compare across authors](../../compare/?t=film-gamer_18501)
+[Compare across authors](../compare/index.md?t=film-gamer_18501)
 
 ## DTS-HD MA 5.1
 

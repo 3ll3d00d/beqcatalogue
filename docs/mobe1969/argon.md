@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-argon_73453)
+[Compare across authors](../compare/index.md?t=TV-argon_73453)
 
 ## Season 1
 

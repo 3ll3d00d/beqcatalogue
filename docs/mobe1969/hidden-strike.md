@@ -1,6 +1,6 @@
 # Hidden Strike
 
-[Compare across authors](../../compare/?t=film-hidden-strike_457332)
+[Compare across authors](../compare/index.md?t=film-hidden-strike_457332)
 
 ## DD+ 5.1
 

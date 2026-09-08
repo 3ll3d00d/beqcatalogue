@@ -1,6 +1,6 @@
 # Alien Code
 
-[Compare across authors](../../compare/?t=film-alien-code_529358)
+[Compare across authors](../compare/index.md?t=film-alien-code_529358)
 
 ## DD+ 5.1
 

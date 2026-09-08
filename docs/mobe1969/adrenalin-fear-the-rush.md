@@ -1,6 +1,6 @@
 # Adrenalin: Fear the Rush
 
-[Compare across authors](../../compare/?t=film-adrenalin-fear-the-rush_55687)
+[Compare across authors](../compare/index.md?t=film-adrenalin-fear-the-rush_55687)
 
 ## DTS 5.1
 

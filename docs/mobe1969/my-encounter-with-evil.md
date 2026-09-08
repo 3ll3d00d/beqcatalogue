@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-my-encounter-with-evil_213288)
+[Compare across authors](../compare/index.md?t=TV-my-encounter-with-evil_213288)
 
 ## Season 1
 

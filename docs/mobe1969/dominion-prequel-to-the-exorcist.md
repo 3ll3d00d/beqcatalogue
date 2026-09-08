@@ -1,6 +1,6 @@
 # Dominion: Prequel to the Exorcist
 
-[Compare across authors](../../compare/?t=film-dominion-prequel-to-the-exorcist_12700)
+[Compare across authors](../compare/index.md?t=film-dominion-prequel-to-the-exorcist_12700)
 
 ## DTS-HD MA 5.1
 

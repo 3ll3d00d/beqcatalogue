@@ -1,6 +1,6 @@
 # Satyameva Jayate
 
-[Compare across authors](../../compare/?t=film-satyameva-jayate_531597)
+[Compare across authors](../compare/index.md?t=film-satyameva-jayate_531597)
 
 ## DD+ 5.1
 

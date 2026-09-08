@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-narcos-mexico_80968)
+[Compare across authors](../compare/index.md?t=TV-narcos-mexico_80968)
 
 ## Season 1
 

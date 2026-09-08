@@ -1,6 +1,6 @@
 # New World Order: The End Has Come
 
-[Compare across authors](../../compare/?t=film-new-world-order-the-end-has-come_278024)
+[Compare across authors](../compare/index.md?t=film-new-world-order-the-end-has-come_278024)
 
 ## DD+ 5.1
 

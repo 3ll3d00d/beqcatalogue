@@ -1,6 +1,6 @@
 # Tunnel
 
-[Compare across authors](../../compare/?t=film-tunnel_390497)
+[Compare across authors](../compare/index.md?t=film-tunnel_390497)
 
 ## DTS-HD MA 5.1
 

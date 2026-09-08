@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-avatar-the-last-airbender_246)
+[Compare across authors](../compare/index.md?t=TV-avatar-the-last-airbender_246)
 
 ## Season 1
 

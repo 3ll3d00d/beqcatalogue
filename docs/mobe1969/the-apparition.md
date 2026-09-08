@@ -1,6 +1,6 @@
 # The Apparition
 
-[Compare across authors](../../compare/?t=film-the-apparition_79694)
+[Compare across authors](../compare/index.md?t=film-the-apparition_79694)
 
 ## DTS-HD MA 5.1
 

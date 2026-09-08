@@ -1,6 +1,6 @@
 # The Deer Hunter
 
-[Compare across authors](../../compare/?t=film-the-deer-hunter_11778)
+[Compare across authors](../compare/index.md?t=film-the-deer-hunter_11778)
 
 ## DTS-HD MA 5.1
 

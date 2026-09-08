@@ -1,6 +1,6 @@
 # Ride On
 
-[Compare across authors](../../compare/?t=film-ride-on_931102)
+[Compare across authors](../compare/index.md?t=film-ride-on_931102)
 
 ## DTS-HD 5.1
 

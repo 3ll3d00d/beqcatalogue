@@ -1,6 +1,6 @@
 # Austin Powers in Goldmember
 
-[Compare across authors](../../compare/?t=film-austin-powers-in-goldmember_818)
+[Compare across authors](../compare/index.md?t=film-austin-powers-in-goldmember_818)
 
 ## DD+ 5.1
 

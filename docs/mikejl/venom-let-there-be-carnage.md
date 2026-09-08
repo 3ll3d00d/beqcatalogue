@@ -7,7 +7,7 @@
 After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/580489)  [Compare across authors](../../compare/?t=film-venom-let-there-be-carnage_580489)
+[TMDB](https://www.themoviedb.org/movie/580489)  [Compare across authors](../compare/index.md?t=film-venom-let-there-be-carnage_580489)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Venom%20-%20Let%20There%20Be%20Carnage/Venom%20-%20Let%20There%20Be%20Carnage%20(2021)%20Atmos.jpg)

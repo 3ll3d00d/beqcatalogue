@@ -1,6 +1,6 @@
 # Hardcore Henry
 
-[Compare across authors](../../compare/?t=film-hardcore-henry_325348)
+[Compare across authors](../compare/index.md?t=film-hardcore-henry_325348)
 
 ## Atmos
 

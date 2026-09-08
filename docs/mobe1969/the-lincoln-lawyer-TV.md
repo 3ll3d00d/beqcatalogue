@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-lincoln-lawyer_116799)
+[Compare across authors](../compare/index.md?t=TV-the-lincoln-lawyer_116799)
 
 ## Season 1
 

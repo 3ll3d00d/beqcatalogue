@@ -1,6 +1,6 @@
 # Superhero Movie
 
-[Compare across authors](../../compare/?t=film-superhero-movie_11918)
+[Compare across authors](../compare/index.md?t=film-superhero-movie_11918)
 
 ## DD+ 5.1
 

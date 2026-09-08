@@ -1,6 +1,6 @@
 # Lara Croft: Tomb Raider - The Cradle of Life
 
-[Compare across authors](../../compare/?t=film-lara-croft-tomb-raider-the-cradle-of-life_1996)
+[Compare across authors](../compare/index.md?t=film-lara-croft-tomb-raider-the-cradle-of-life_1996)
 
 ## DTS-HD MA 5.1
 

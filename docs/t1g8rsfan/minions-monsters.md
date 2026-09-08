@@ -12,7 +12,7 @@ This is the rambunctious, ridiculous and totally true story of how the Minions c
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1315772)  [Compare across authors](../../compare/?t=film-minions-monsters_1315772)
+[TMDB](https://www.themoviedb.org/movie/1315772)  [Compare across authors](../compare/index.md?t=film-minions-monsters_1315772)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Minions%20and%20Monsters%20(2026)%20(%2B4.5%20gain)%20Atmos.jpg)

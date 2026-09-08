@@ -1,6 +1,6 @@
 # Loving Adults
 
-[Compare across authors](../../compare/?t=film-loving-adults_990691)
+[Compare across authors](../compare/index.md?t=film-loving-adults_990691)
 
 ## DD+ 5.1
 

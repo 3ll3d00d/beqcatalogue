@@ -1,6 +1,6 @@
 # Valerian and the City of a Thousand Planets
 
-[Compare across authors](../../compare/?t=film-valerian-and-the-city-of-a-thousand-planets_339964)
+[Compare across authors](../compare/index.md?t=film-valerian-and-the-city-of-a-thousand-planets_339964)
 
 ## Atmos, DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Signal
 
-[Compare across authors](../../compare/?t=film-the-signal_13059)
+[Compare across authors](../compare/index.md?t=film-the-signal_13059)
 
 ## DTS-HD MA 5.1
 

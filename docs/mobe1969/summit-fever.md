@@ -1,6 +1,6 @@
 # Summit Fever
 
-[Compare across authors](../../compare/?t=film-summit-fever_994441)
+[Compare across authors](../compare/index.md?t=film-summit-fever_994441)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Monsters vs. Aliens
 
-[Compare across authors](../../compare/?t=film-monsters-vs-aliens_15512)
+[Compare across authors](../compare/index.md?t=film-monsters-vs-aliens_15512)
 
 ## TrueHD 5.1, DD+ 5.1
 

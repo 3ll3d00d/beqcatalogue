@@ -1,6 +1,6 @@
 # Elemental
 
-[Compare across authors](../../compare/?t=film-elemental_976573)
+[Compare across authors](../compare/index.md?t=film-elemental_976573)
 
 ## Atmos, DD+ Atmos
 

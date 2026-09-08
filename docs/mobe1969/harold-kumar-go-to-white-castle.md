@@ -1,6 +1,6 @@
 # Harold & Kumar Go to White Castle
 
-[Compare across authors](../../compare/?t=film-harold-kumar-go-to-white-castle_11282)
+[Compare across authors](../compare/index.md?t=film-harold-kumar-go-to-white-castle_11282)
 
 ## DTS-HD MA 7.1
 

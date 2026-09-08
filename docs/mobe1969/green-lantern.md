@@ -1,6 +1,6 @@
 # Green Lantern
 
-[Compare across authors](../../compare/?t=film-green-lantern_44912)
+[Compare across authors](../compare/index.md?t=film-green-lantern_44912)
 
 ## DTS-HD MA 5.1
 

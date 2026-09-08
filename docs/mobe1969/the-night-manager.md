@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-night-manager_61859)
+[Compare across authors](../compare/index.md?t=TV-the-night-manager_61859)
 
 ## Season 1
 

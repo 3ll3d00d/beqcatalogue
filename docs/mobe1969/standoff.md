@@ -1,6 +1,6 @@
 # Standoff
 
-[Compare across authors](../../compare/?t=film-standoff_344041)
+[Compare across authors](../compare/index.md?t=film-standoff_344041)
 
 ## DTS-HD MA 5.1
 

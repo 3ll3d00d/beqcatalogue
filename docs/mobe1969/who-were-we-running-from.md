@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-who-were-we-running-from_219064)
+[Compare across authors](../compare/index.md?t=TV-who-were-we-running-from_219064)
 
 ## Season 1
 

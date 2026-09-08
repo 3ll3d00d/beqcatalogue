@@ -1,6 +1,6 @@
 # New World
 
-[Compare across authors](../../compare/?t=film-new-world_165213)
+[Compare across authors](../compare/index.md?t=film-new-world_165213)
 
 ## DTS-HD MA 5.1
 

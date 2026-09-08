@@ -1,6 +1,6 @@
 # Fists of Legend
 
-[Compare across authors](../../compare/?t=film-fists-of-legend_180651)
+[Compare across authors](../compare/index.md?t=film-fists-of-legend_180651)
 
 ## DTS-HD MA 5.1
 

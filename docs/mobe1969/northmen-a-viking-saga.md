@@ -1,6 +1,6 @@
 # Northmen: A Viking Saga
 
-[Compare across authors](../../compare/?t=film-northmen-a-viking-saga_286873)
+[Compare across authors](../compare/index.md?t=film-northmen-a-viking-saga_286873)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Molly's Game
 
-[Compare across authors](../../compare/?t=film-mollys-game_396371)
+[Compare across authors](../compare/index.md?t=film-mollys-game_396371)
 
 ## DD+ 5.1
 

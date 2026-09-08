@@ -1,6 +1,6 @@
 # The Secret Life of Pets 2
 
-[Compare across authors](../../compare/?t=film-the-secret-life-of-pets-2_412117)
+[Compare across authors](../compare/index.md?t=film-the-secret-life-of-pets-2_412117)
 
 ## Atmos
 

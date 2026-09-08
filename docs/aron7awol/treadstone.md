@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-treadstone_83949)
+[Compare across authors](../compare/index.md?t=TV-treadstone_83949)
 
 ## Season 1
 

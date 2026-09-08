@@ -1,6 +1,6 @@
 # The Sum of All Fears
 
-[Compare across authors](../../compare/?t=film-the-sum-of-all-fears_4614)
+[Compare across authors](../compare/index.md?t=film-the-sum-of-all-fears_4614)
 
 ## TrueHD 5.1
 

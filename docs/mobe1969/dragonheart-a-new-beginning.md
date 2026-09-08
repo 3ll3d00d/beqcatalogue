@@ -1,6 +1,6 @@
 # Dragonheart: A New Beginning
 
-[Compare across authors](../../compare/?t=film-dragonheart-a-new-beginning_10473)
+[Compare across authors](../compare/index.md?t=film-dragonheart-a-new-beginning_10473)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Infinity Pool
 
-[Compare across authors](../../compare/?t=film-infinity-pool_667216)
+[Compare across authors](../compare/index.md?t=film-infinity-pool_667216)
 
 ## DD+ 5.1
 

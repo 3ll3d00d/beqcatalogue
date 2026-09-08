@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-bulgasal-immortal-souls_137520)
+[Compare across authors](../compare/index.md?t=TV-bulgasal-immortal-souls_137520)
 
 ## Season 1
 

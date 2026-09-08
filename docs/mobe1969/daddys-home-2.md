@@ -1,6 +1,6 @@
 # Daddy's Home 2
 
-[Compare across authors](../../compare/?t=film-daddys-home-2_419680)
+[Compare across authors](../compare/index.md?t=film-daddys-home-2_419680)
 
 ## Atmos
 

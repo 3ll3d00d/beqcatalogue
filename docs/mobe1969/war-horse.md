@@ -1,6 +1,6 @@
 # War Horse
 
-[Compare across authors](../../compare/?t=film-war-horse_57212)
+[Compare across authors](../compare/index.md?t=film-war-horse_57212)
 
 ## DTS-HD MA 7.1
 

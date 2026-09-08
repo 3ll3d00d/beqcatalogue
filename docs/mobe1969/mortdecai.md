@@ -1,6 +1,6 @@
 # Mortdecai
 
-[Compare across authors](../../compare/?t=film-mortdecai_210860)
+[Compare across authors](../compare/index.md?t=film-mortdecai_210860)
 
 ## DTS-HD MA 5.1
 

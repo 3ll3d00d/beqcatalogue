@@ -1,6 +1,6 @@
 # Proud Mary
 
-[Compare across authors](../../compare/?t=film-proud-mary_442064)
+[Compare across authors](../compare/index.md?t=film-proud-mary_442064)
 
 ## DD+ 5.1
 

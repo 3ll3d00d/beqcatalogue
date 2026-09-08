@@ -1,6 +1,6 @@
 # Come True
 
-[Compare across authors](../../compare/?t=film-come-true_515454)
+[Compare across authors](../compare/index.md?t=film-come-true_515454)
 
 ## DD+ 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-a-perfect-day-for-arsenide_120226)
+[Compare across authors](../compare/index.md?t=TV-a-perfect-day-for-arsenide_120226)
 
 ## Season 1
 

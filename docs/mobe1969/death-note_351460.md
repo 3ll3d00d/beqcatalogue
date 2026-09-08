@@ -1,6 +1,6 @@
 # Death Note
 
-[Compare across authors](../../compare/?t=film-death-note_351460)
+[Compare across authors](../compare/index.md?t=film-death-note_351460)
 
 ## DD+ 5.1
 

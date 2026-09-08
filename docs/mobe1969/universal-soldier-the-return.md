@@ -1,6 +1,6 @@
 # Universal Soldier: The Return
 
-[Compare across authors](../../compare/?t=film-universal-soldier-the-return_10366)
+[Compare across authors](../compare/index.md?t=film-universal-soldier-the-return_10366)
 
 ## TrueHD 5.1
 

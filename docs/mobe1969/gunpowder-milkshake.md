@@ -1,6 +1,6 @@
 # Gunpowder Milkshake
 
-[Compare across authors](../../compare/?t=film-gunpowder-milkshake_574060)
+[Compare across authors](../compare/index.md?t=film-gunpowder-milkshake_574060)
 
 ## Atmos
 

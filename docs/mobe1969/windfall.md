@@ -1,6 +1,6 @@
 # Windfall
 
-[Compare across authors](../../compare/?t=film-windfall_850018)
+[Compare across authors](../compare/index.md?t=film-windfall_850018)
 
 ## DD+ 5.1
 

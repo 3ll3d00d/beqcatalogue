@@ -1,6 +1,6 @@
 # How the Grinch Stole Christmas
 
-[Compare across authors](../../compare/?t=film-how-the-grinch-stole-christmas_8871)
+[Compare across authors](../compare/index.md?t=film-how-the-grinch-stole-christmas_8871)
 
 ## DTS-HD MA 7.1
 

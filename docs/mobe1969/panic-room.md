@@ -1,6 +1,6 @@
 # Panic Room
 
-[Compare across authors](../../compare/?t=film-panic-room_4547)
+[Compare across authors](../compare/index.md?t=film-panic-room_4547)
 
 ## DD 5.1
 

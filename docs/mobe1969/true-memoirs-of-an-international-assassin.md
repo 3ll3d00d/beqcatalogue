@@ -1,6 +1,6 @@
 # True Memoirs of an International Assassin
 
-[Compare across authors](../../compare/?t=film-true-memoirs-of-an-international-assassin_339396)
+[Compare across authors](../compare/index.md?t=film-true-memoirs-of-an-international-assassin_339396)
 
 ## DD+ 5.1
 

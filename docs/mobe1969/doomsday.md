@@ -1,6 +1,6 @@
 # Doomsday
 
-[Compare across authors](../../compare/?t=film-doomsday_13460)
+[Compare across authors](../compare/index.md?t=film-doomsday_13460)
 
 ## DTS-HD MA 5.1
 

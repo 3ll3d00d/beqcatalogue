@@ -1,6 +1,6 @@
 # The Legend of Jack and Jill
 
-[Compare across authors](../../compare/?t=film-the-legend-of-jack-and-jill_879917)
+[Compare across authors](../compare/index.md?t=film-the-legend-of-jack-and-jill_879917)
 
 ## DD+ 5.1
 

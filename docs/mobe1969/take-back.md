@@ -1,6 +1,6 @@
 # Take Back
 
-[Compare across authors](../../compare/?t=film-take-back_695282)
+[Compare across authors](../compare/index.md?t=film-take-back_695282)
 
 ## DTS-HD MA 5.1
 

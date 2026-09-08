@@ -1,6 +1,6 @@
 # Railway Heroes
 
-[Compare across authors](../../compare/?t=film-railway-heroes_889227)
+[Compare across authors](../compare/index.md?t=film-railway-heroes_889227)
 
 ## AAC 5.1
 

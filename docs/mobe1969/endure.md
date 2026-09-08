@@ -1,6 +1,6 @@
 # Endure
 
-[Compare across authors](../../compare/?t=film-endure_63273)
+[Compare across authors](../compare/index.md?t=film-endure_63273)
 
 ## DD+ 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-utopia_46511)
+[Compare across authors](../compare/index.md?t=TV-utopia_46511)
 
 ## Season 1
 

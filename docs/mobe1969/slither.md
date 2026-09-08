@@ -1,6 +1,6 @@
 # Slither
 
-[Compare across authors](../../compare/?t=film-slither_9035)
+[Compare across authors](../compare/index.md?t=film-slither_9035)
 
 ## DTS-HD MA 5.1
 

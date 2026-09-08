@@ -1,6 +1,6 @@
 # The Take
 
-[Compare across authors](../../compare/?t=film-the-take_18056)
+[Compare across authors](../compare/index.md?t=film-the-take_18056)
 
 ## DD 5.1
 

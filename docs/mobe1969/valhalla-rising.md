@@ -1,6 +1,6 @@
 # Valhalla Rising
 
-[Compare across authors](../../compare/?t=film-valhalla-rising_37861)
+[Compare across authors](../compare/index.md?t=film-valhalla-rising_37861)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Airlift
 
-[Compare across authors](../../compare/?t=film-airlift_375290)
+[Compare across authors](../compare/index.md?t=film-airlift_375290)
 
 ## Atmos, DTS-EX 5.1
 

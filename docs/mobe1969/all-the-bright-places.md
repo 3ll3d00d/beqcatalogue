@@ -1,6 +1,6 @@
 # All The Bright Places
 
-[Compare across authors](../../compare/?t=film-all-the-bright-places_342470)
+[Compare across authors](../compare/index.md?t=film-all-the-bright-places_342470)
 
 ## DD+ Atmos
 

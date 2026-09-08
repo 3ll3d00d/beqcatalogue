@@ -1,6 +1,6 @@
 # Valley of the Dead
 
-[Compare across authors](../../compare/?t=film-valley-of-the-dead_613093)
+[Compare across authors](../compare/index.md?t=film-valley-of-the-dead_613093)
 
 ## DD+ 5.1
 

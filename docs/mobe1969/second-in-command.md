@@ -1,6 +1,6 @@
 # Second in Command
 
-[Compare across authors](../../compare/?t=film-second-in-command_19167)
+[Compare across authors](../compare/index.md?t=film-second-in-command_19167)
 
 ## DTS-HD MA 5.1
 

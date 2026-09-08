@@ -1,6 +1,6 @@
 # My Best Friend's Wedding
 
-[Compare across authors](../../compare/?t=film-my-best-friends-wedding_409289)
+[Compare across authors](../compare/index.md?t=film-my-best-friends-wedding_409289)
 
 ## DD+ 5.1
 

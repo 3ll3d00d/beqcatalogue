@@ -1,6 +1,6 @@
 # American Woman
 
-[Compare across authors](../../compare/?t=film-american-woman_339976)
+[Compare across authors](../compare/index.md?t=film-american-woman_339976)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-peacemaker_110492)
+[Compare across authors](../compare/index.md?t=TV-peacemaker_110492)
 
 ## Season 1
 

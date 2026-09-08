@@ -12,7 +12,7 @@ When all but one child from the same class mysteriously vanish on the same night
 +4dB Dialnorm Compensation - DD+ Atmos​
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../../compare/?t=film-weapons_1078605)
+[TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../compare/index.md?t=film-weapons_1078605)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Weapons%20(2025)%20(%2B2%20gain)%20Atmos.jpg)

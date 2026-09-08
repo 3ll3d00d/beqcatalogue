@@ -1,6 +1,6 @@
 # Noise
 
-[Compare across authors](../../compare/?t=film-noise_1057577)
+[Compare across authors](../compare/index.md?t=film-noise_1057577)
 
 ## DD+ Atmos
 

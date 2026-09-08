@@ -1,6 +1,6 @@
 # Fire Birds
 
-[Compare across authors](../../compare/?t=film-fire-birds_6470)
+[Compare across authors](../compare/index.md?t=film-fire-birds_6470)
 
 ## DTS-HD MA 5.1
 

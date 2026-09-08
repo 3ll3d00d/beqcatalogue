@@ -1,6 +1,6 @@
 # The Banshees of Inisherin
 
-[Compare across authors](../../compare/?t=film-the-banshees-of-inisherin_674324)
+[Compare across authors](../compare/index.md?t=film-the-banshees-of-inisherin_674324)
 
 ## DD+ 5.1
 

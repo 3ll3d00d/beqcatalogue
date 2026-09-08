@@ -1,6 +1,6 @@
 # Dark Crimes
 
-[Compare across authors](../../compare/?t=film-dark-crimes_340674)
+[Compare across authors](../compare/index.md?t=film-dark-crimes_340674)
 
 ## DTS-HD MA 5.1
 

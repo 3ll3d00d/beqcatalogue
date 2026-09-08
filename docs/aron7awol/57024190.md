@@ -1,6 +1,6 @@
 # Everest
 
-[Compare across authors](../../compare/?t=film-everest_253412)
+[Compare across authors](../compare/index.md?t=film-everest_253412)
 
 ## Atmos
 

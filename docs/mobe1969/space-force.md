@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-space-force_85922)
+[Compare across authors](../compare/index.md?t=TV-space-force_85922)
 
 ## Season 1
 

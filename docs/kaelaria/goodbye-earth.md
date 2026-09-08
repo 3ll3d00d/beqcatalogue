@@ -7,7 +7,7 @@
 * DD+, DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-goodbye-earth_139547)
+* [Compare across authors](../compare/index.md?t=TV-goodbye-earth_139547)
 
 * Production Year: 2024
 

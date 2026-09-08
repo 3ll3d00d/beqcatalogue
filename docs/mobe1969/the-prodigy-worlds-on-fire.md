@@ -1,6 +1,6 @@
 # The Prodigy: World's On Fire
 
-[Compare across authors](../../compare/?t=film-the-prodigy-worlds-on-fire_65330)
+[Compare across authors](../compare/index.md?t=film-the-prodigy-worlds-on-fire_65330)
 
 ## DTS-HD MA 5.1
 

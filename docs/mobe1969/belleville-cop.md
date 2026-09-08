@@ -1,6 +1,6 @@
 # Belleville Cop
 
-[Compare across authors](../../compare/?t=film-belleville-cop_495673)
+[Compare across authors](../compare/index.md?t=film-belleville-cop_495673)
 
 ## DD+ 5.1
 

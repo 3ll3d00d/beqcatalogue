@@ -7,7 +7,7 @@
 A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/838)  [Compare across authors](../../compare/?t=film-american-graffiti_838)
+[TMDB](https://www.themoviedb.org/movie/838)  [Compare across authors](../compare/index.md?t=film-american-graffiti_838)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/American%20Graffiti%20(1973)%20DTS-HD%20MA%205.1.jpg)

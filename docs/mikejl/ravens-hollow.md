@@ -7,7 +7,7 @@
 West Point cadet Edgar Allan Poe and four other cadets on a training exercise in upstate New York are drawn by a gruesome discovery into a forgotten community where they find a township guarding a frightening secret.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/996581)  [Compare across authors](../../compare/?t=film-ravens-hollow_996581)
+[TMDB](https://www.themoviedb.org/movie/996581)  [Compare across authors](../compare/index.md?t=film-ravens-hollow_996581)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Raven's%20Hollow/Raven's%20Hollow%20(2022)%20DTS-HD%20MA%205.1.jpg)

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-godless_73467)
+[Compare across authors](../compare/index.md?t=TV-godless_73467)
 
 ## Season 1
 

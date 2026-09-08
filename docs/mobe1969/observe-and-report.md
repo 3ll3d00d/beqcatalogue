@@ -1,6 +1,6 @@
 # Observe and Report
 
-[Compare across authors](../../compare/?t=film-observe-and-report_16991)
+[Compare across authors](../compare/index.md?t=film-observe-and-report_16991)
 
 ## TrueHD 5.1
 

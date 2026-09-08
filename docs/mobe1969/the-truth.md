@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-truth_15633)
+[Compare across authors](../compare/index.md?t=TV-the-truth_15633)
 
 ## Season 1
 

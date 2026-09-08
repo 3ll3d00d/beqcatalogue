@@ -1,6 +1,6 @@
 # Requiem for a Killer
 
-[Compare across authors](../../compare/?t=film-requiem-for-a-killer_68280)
+[Compare across authors](../compare/index.md?t=film-requiem-for-a-killer_68280)
 
 ## TrueHD 5.1
 

@@ -14,7 +14,7 @@ Dialnorm Compensation: Episodes 2-4 8dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1518?post_id=63603876#post-63603876)
 
-* [Compare across authors](../../compare/?t=TV-uzumaki_93241)
+* [Compare across authors](../compare/index.md?t=TV-uzumaki_93241)
 
 * Production Year: 2024
 
@@ -33,7 +33,7 @@ Dialnorm Compensation: Episodes 2-4 8dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1517?post_id=63603856#post-63603856)
 
-* [Compare across authors](../../compare/?t=TV-uzumaki_93241)
+* [Compare across authors](../compare/index.md?t=TV-uzumaki_93241)
 
 * Production Year: 2024
 

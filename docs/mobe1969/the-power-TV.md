@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-power_95558)
+[Compare across authors](../compare/index.md?t=TV-the-power_95558)
 
 ## Season 1
 

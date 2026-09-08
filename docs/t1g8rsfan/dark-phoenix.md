@@ -9,7 +9,7 @@ The X-Men face their most formidable and powerful foe when one of their own, Jea
 
 **MV Adjustment:** -3.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/320288)  [Compare across authors](../../compare/?t=film-dark-phoenix_320288)
+[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/320288)  [Compare across authors](../compare/index.md?t=film-dark-phoenix_320288)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Dark%20Phoenix%20(2019)%20(-3%20gain)%20Atmos.jpg)

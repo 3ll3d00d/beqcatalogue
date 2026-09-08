@@ -1,6 +1,6 @@
 # The Handmaiden
 
-[Compare across authors](../../compare/?t=film-the-handmaiden_290098)
+[Compare across authors](../compare/index.md?t=film-the-handmaiden_290098)
 
 ## DTS-HD MA 5.1
 

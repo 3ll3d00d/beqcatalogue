@@ -1,6 +1,6 @@
 # Magnum Force
 
-[Compare across authors](../../compare/?t=film-magnum-force_10648)
+[Compare across authors](../compare/index.md?t=film-magnum-force_10648)
 
 ## TrueHD 5.1
 

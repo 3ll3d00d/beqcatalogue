@@ -1,6 +1,6 @@
 # There's Someone Inside Your House
 
-[Compare across authors](../../compare/?t=film-theres-someone-inside-your-house_512025)
+[Compare across authors](../compare/index.md?t=film-theres-someone-inside-your-house_512025)
 
 ## DD+ 5.1
 

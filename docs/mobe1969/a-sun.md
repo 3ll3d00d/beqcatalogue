@@ -1,6 +1,6 @@
 # A Sun
 
-[Compare across authors](../../compare/?t=film-a-sun_622951)
+[Compare across authors](../compare/index.md?t=film-a-sun_622951)
 
 ## DD+ 5.1
 

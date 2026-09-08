@@ -12,7 +12,7 @@ A listless Wade Wilson toils away in civilian life with his days as the morally 
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63569182/)  [TMDB](https://www.themoviedb.org/movie/533535)  [Compare across authors](../../compare/?t=film-deadpool-wolverine_533535)
+[Discuss](https://www.avsforum.com/posts/63569182/)  [TMDB](https://www.themoviedb.org/movie/533535)  [Compare across authors](../compare/index.md?t=film-deadpool-wolverine_533535)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Deadpool%20%26%20Wolverine%20(2024)%20(%2B0.5%20gain)%20DD%2B%20Atmos.jpg)

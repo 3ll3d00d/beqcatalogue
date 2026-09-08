@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-stranger-things_66732)
+* [Compare across authors](../compare/index.md?t=TV-stranger-things_66732)
 
 * Production Year: 2016
 

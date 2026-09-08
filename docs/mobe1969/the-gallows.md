@@ -1,6 +1,6 @@
 # The Gallows
 
-[Compare across authors](../../compare/?t=film-the-gallows_299245)
+[Compare across authors](../compare/index.md?t=film-the-gallows_299245)
 
 ## DTS-HD MA 5.1
 

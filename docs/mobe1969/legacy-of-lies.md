@@ -1,6 +1,6 @@
 # Legacy of Lies
 
-[Compare across authors](../../compare/?t=film-legacy-of-lies_601165)
+[Compare across authors](../compare/index.md?t=film-legacy-of-lies_601165)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

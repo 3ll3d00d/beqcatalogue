@@ -1,6 +1,6 @@
 # Deep Trap
 
-[Compare across authors](../../compare/?t=film-deep-trap_361539)
+[Compare across authors](../compare/index.md?t=film-deep-trap_361539)
 
 ## TrueHD 5.1
 

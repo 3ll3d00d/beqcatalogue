@@ -1,6 +1,6 @@
 # Stir of Echoes
 
-[Compare across authors](../../compare/?t=film-stir-of-echoes_11601)
+[Compare across authors](../compare/index.md?t=film-stir-of-echoes_11601)
 
 ## DTS-HD HR 6.1, DD+ 5.1
 

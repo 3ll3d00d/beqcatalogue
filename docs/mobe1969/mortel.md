@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mortel_94801)
+[Compare across authors](../compare/index.md?t=TV-mortel_94801)
 
 ## Season 1
 

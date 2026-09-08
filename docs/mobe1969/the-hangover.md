@@ -1,6 +1,6 @@
 # The Hangover
 
-[Compare across authors](../../compare/?t=film-the-hangover_18785)
+[Compare across authors](../compare/index.md?t=film-the-hangover_18785)
 
 ## TrueHD 5.1
 

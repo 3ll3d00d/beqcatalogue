@@ -1,6 +1,6 @@
 # Kelly's Heroes
 
-[Compare across authors](../../compare/?t=film-kellys-heroes_11589)
+[Compare across authors](../compare/index.md?t=film-kellys-heroes_11589)
 
 ## DTS-HD MA 5.1
 

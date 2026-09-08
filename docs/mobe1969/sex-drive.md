@@ -1,6 +1,6 @@
 # Sex Drive
 
-[Compare across authors](../../compare/?t=film-sex-drive_13523)
+[Compare across authors](../compare/index.md?t=film-sex-drive_13523)
 
 ## DTS-HD MA 5.1
 

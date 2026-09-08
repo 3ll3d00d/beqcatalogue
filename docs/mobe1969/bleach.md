@@ -1,6 +1,6 @@
 # Bleach
 
-[Compare across authors](../../compare/?t=film-bleach_420426)
+[Compare across authors](../compare/index.md?t=film-bleach_420426)
 
 ## DD+ 5.1
 

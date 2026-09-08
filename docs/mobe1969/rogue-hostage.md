@@ -1,6 +1,6 @@
 # Rogue Hostage
 
-[Compare across authors](../../compare/?t=film-rogue-hostage_825997)
+[Compare across authors](../compare/index.md?t=film-rogue-hostage_825997)
 
 ## DTS-HD MA 5.1
 

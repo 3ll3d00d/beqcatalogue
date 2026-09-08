@@ -1,6 +1,6 @@
 # Bhoot: Part One - The Haunted Ship
 
-[Compare across authors](../../compare/?t=film-bhoot-part-one-the-haunted-ship_616880)
+[Compare across authors](../compare/index.md?t=film-bhoot-part-one-the-haunted-ship_616880)
 
 ## DD+ 5.1
 

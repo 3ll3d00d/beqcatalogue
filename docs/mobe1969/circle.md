@@ -1,6 +1,6 @@
 # Circle
 
-[Compare across authors](../../compare/?t=film-circle_335866)
+[Compare across authors](../compare/index.md?t=film-circle_335866)
 
 ## DD+ 5.1
 

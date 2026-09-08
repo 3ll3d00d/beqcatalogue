@@ -1,6 +1,6 @@
 # Pokémon Detective Pikachu
 
-[Compare across authors](../../compare/?t=film-pokemon-detective-pikachu_447404)
+[Compare across authors](../compare/index.md?t=film-pokemon-detective-pikachu_447404)
 
 ## Atmos, DD+ Atmos
 

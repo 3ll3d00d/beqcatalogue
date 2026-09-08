@@ -1,6 +1,6 @@
 # Waiting for the Barbarians
 
-[Compare across authors](../../compare/?t=film-waiting-for-the-barbarians_505707)
+[Compare across authors](../compare/index.md?t=film-waiting-for-the-barbarians_505707)
 
 ## DTS-HD MA 5.1
 

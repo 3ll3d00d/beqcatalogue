@@ -1,6 +1,6 @@
 # Special Forces
 
-[Compare across authors](../../compare/?t=film-special-forces_74513)
+[Compare across authors](../compare/index.md?t=film-special-forces_74513)
 
 ## DTS-HD MA 5.1
 

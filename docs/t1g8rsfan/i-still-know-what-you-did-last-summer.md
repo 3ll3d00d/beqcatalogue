@@ -9,7 +9,7 @@ Ever since killing the Fisherman one year ago, Julie James is still haunted by i
 
 **MV Adjustment:** +1.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/3600)  [Compare across authors](../../compare/?t=film-i-still-know-what-you-did-last-summer_3600)
+[TMDB](https://www.themoviedb.org/movie/3600)  [Compare across authors](../compare/index.md?t=film-i-still-know-what-you-did-last-summer_3600)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/I%20Still%20Know%20What%20You%20Did%20Last%20Summer%20(1998)%20(%2B1%20gain)%20Atmos.jpg)

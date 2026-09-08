@@ -1,6 +1,6 @@
 # Gladiator
 
-[Compare across authors](../../compare/?t=film-gladiator_98)
+[Compare across authors](../compare/index.md?t=film-gladiator_98)
 
 ## DTS-X
 

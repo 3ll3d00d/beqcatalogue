@@ -1,6 +1,6 @@
 # Tokarev
 
-[Compare across authors](../../compare/?t=film-tokarev_242310)
+[Compare across authors](../compare/index.md?t=film-tokarev_242310)
 
 ## DTS-HD MA 5.1
 

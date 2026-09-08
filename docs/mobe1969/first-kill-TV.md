@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-first-kill_111616)
+[Compare across authors](../compare/index.md?t=TV-first-kill_111616)
 
 ## Season 1
 

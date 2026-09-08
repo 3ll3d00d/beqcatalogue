@@ -1,6 +1,6 @@
 # Jumper
 
-[Compare across authors](../../compare/?t=film-jumper_8247)
+[Compare across authors](../compare/index.md?t=film-jumper_8247)
 
 ## DTS-HD MA 5.1
 

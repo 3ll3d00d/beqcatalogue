@@ -1,6 +1,6 @@
 # Madagascar 3: Europe's Most Wanted
 
-[Compare across authors](../../compare/?t=film-madagascar-3-europes-most-wanted_80321)
+[Compare across authors](../compare/index.md?t=film-madagascar-3-europes-most-wanted_80321)
 
 ## TrueHD 7.1
 

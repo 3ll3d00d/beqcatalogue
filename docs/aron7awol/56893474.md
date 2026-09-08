@@ -1,6 +1,6 @@
 # Before I Wake
 
-[Compare across authors](../../compare/?t=film-before-i-wake_301804)
+[Compare across authors](../compare/index.md?t=film-before-i-wake_301804)
 
 ## DTS-HD MA 5.1
 

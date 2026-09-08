@@ -1,6 +1,6 @@
 # The Guillotines
 
-[Compare across authors](../../compare/?t=film-the-guillotines_167449)
+[Compare across authors](../compare/index.md?t=film-the-guillotines_167449)
 
 ## DTS-HD MA 7.1
 

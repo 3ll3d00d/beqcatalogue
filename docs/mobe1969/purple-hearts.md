@@ -1,6 +1,6 @@
 # Purple Hearts
 
-[Compare across authors](../../compare/?t=film-purple-hearts_762975)
+[Compare across authors](../compare/index.md?t=film-purple-hearts_762975)
 
 ## DD+ Atmos
 

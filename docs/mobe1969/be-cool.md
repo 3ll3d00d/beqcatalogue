@@ -1,6 +1,6 @@
 # Be Cool
 
-[Compare across authors](../../compare/?t=film-be-cool_4551)
+[Compare across authors](../compare/index.md?t=film-be-cool_4551)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Dumb and Dumber To
 
-[Compare across authors](../../compare/?t=film-dumb-and-dumber-to_100042)
+[Compare across authors](../compare/index.md?t=film-dumb-and-dumber-to_100042)
 
 ## DTS-HD MA 5.1
 

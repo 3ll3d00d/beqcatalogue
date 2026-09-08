@@ -1,6 +1,6 @@
 # Child 44
 
-[Compare across authors](../../compare/?t=film-child-44_181283)
+[Compare across authors](../compare/index.md?t=film-child-44_181283)
 
 ## DTS-HD MA 5.1
 

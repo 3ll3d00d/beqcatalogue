@@ -1,6 +1,6 @@
 # Cursed
 
-[Compare across authors](../../compare/?t=film-cursed_10012)
+[Compare across authors](../compare/index.md?t=film-cursed_10012)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Babylon A.D.
 
-[Compare across authors](../../compare/?t=film-babylon-ad_9381)
+[Compare across authors](../compare/index.md?t=film-babylon-ad_9381)
 
 ## DTS-HD MA 5.1
 

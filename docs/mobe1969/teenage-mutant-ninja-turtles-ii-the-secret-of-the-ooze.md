@@ -1,6 +1,6 @@
 # Teenage Mutant Ninja Turtles II: The Secret of the Ooze
 
-[Compare across authors](../../compare/?t=film-teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze_1497)
+[Compare across authors](../compare/index.md?t=film-teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze_1497)
 
 ## DD+ 5.1
 

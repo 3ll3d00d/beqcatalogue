@@ -14,7 +14,7 @@ Dialnorm Compensation: E01 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
 
-* [Compare across authors](../../compare/?t=TV-the-witcher_71912)
+* [Compare across authors](../compare/index.md?t=TV-the-witcher_71912)
 
 * Production Year: 2019
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: E02 +4dB, E04 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
 
-* [Compare across authors](../../compare/?t=TV-the-witcher_71912)
+* [Compare across authors](../compare/index.md?t=TV-the-witcher_71912)
 
 * Production Year: 2019
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: E03 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
 
-* [Compare across authors](../../compare/?t=TV-the-witcher_71912)
+* [Compare across authors](../compare/index.md?t=TV-the-witcher_71912)
 
 * Production Year: 2019
 
@@ -80,7 +80,7 @@ Dialnorm Compensation: E05 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
 
-* [Compare across authors](../../compare/?t=TV-the-witcher_71912)
+* [Compare across authors](../compare/index.md?t=TV-the-witcher_71912)
 
 * Production Year: 2019
 
@@ -102,7 +102,7 @@ Dialnorm Compensation: E06, E07 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
 
-* [Compare across authors](../../compare/?t=TV-the-witcher_71912)
+* [Compare across authors](../compare/index.md?t=TV-the-witcher_71912)
 
 * Production Year: 2019
 
@@ -124,7 +124,7 @@ Dialnorm Compensation: E08 +6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62649799)
 
-* [Compare across authors](../../compare/?t=TV-the-witcher_71912)
+* [Compare across authors](../compare/index.md?t=TV-the-witcher_71912)
 
 * Production Year: 2019
 

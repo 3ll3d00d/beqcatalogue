@@ -12,7 +12,7 @@ Black Manta, still driven by the need to avenge his father's death and wielding 
 +7dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63102828)  [TMDB](https://www.themoviedb.org/movie/572802)  [Compare across authors](../../compare/?t=film-aquaman-and-the-lost-kingdom_572802)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63102828)  [TMDB](https://www.themoviedb.org/movie/572802)  [Compare across authors](../compare/index.md?t=film-aquaman-and-the-lost-kingdom_572802)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Aquaman%20atLK%20(2023)%20(-0.5%20gain)%20DD%2B%20Atmos.jpg)

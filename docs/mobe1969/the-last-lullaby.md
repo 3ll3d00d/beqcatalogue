@@ -1,6 +1,6 @@
 # The Last Lullaby
 
-[Compare across authors](../../compare/?t=film-the-last-lullaby_67362)
+[Compare across authors](../compare/index.md?t=film-the-last-lullaby_67362)
 
 ## DD+ 2.0
 

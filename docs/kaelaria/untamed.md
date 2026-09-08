@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-untamed_248852)
+* [Compare across authors](../compare/index.md?t=TV-untamed_248852)
 
 * Production Year: 2025
 

@@ -1,6 +1,6 @@
 # The Detective
 
-[Compare across authors](../../compare/?t=film-the-detective_56329)
+[Compare across authors](../compare/index.md?t=film-the-detective_56329)
 
 ## DTS-HD MA 7.1
 

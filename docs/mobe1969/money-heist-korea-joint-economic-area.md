@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-money-heist-korea-joint-economic-area_112836)
+[Compare across authors](../compare/index.md?t=TV-money-heist-korea-joint-economic-area_112836)
 
 ## Season 1
 

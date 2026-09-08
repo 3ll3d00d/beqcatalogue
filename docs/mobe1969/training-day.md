@@ -1,6 +1,6 @@
 # Training Day
 
-[Compare across authors](../../compare/?t=film-training-day_2034)
+[Compare across authors](../compare/index.md?t=film-training-day_2034)
 
 ## Atmos
 

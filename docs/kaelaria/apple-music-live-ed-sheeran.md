@@ -7,7 +7,7 @@
 Ed Sheeran performs his new album live from London.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1125575)  [Compare across authors](../../compare/?t=film-apple-music-live-ed-sheeran_1125575)
+[TMDB](https://www.themoviedb.org/movie/1125575)  [Compare across authors](../compare/index.md?t=film-apple-music-live-ed-sheeran_1125575)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Apple%20music%20live%20ed%20sheeran%20(2023)%20DD%2B%20Atmos.jpg)

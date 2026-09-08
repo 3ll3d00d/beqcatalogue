@@ -1,6 +1,6 @@
 # American Ultra
 
-[Compare across authors](../../compare/?t=film-american-ultra_261392)
+[Compare across authors](../compare/index.md?t=film-american-ultra_261392)
 
 ## DD+ 5.1
 

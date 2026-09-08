@@ -1,6 +1,6 @@
 # Planes
 
-[Compare across authors](../../compare/?t=film-planes_151960)
+[Compare across authors](../compare/index.md?t=film-planes_151960)
 
 ## DTS-HD MA 7.1
 

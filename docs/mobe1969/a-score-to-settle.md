@@ -1,6 +1,6 @@
 # A Score to Settle
 
-[Compare across authors](../../compare/?t=film-a-score-to-settle_500922)
+[Compare across authors](../compare/index.md?t=film-a-score-to-settle_500922)
 
 ## DTS-HD MA 5.1
 

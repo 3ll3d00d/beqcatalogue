@@ -1,6 +1,6 @@
 # Tag
 
-[Compare across authors](../../compare/?t=film-tag_340176)
+[Compare across authors](../compare/index.md?t=film-tag_340176)
 
 ## DTS-HD MA 5.1
 

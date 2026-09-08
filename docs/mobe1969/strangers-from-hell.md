@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-strangers-from-hell_89959)
+[Compare across authors](../compare/index.md?t=TV-strangers-from-hell_89959)
 
 ## Season 1
 

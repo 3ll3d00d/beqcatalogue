@@ -1,6 +1,6 @@
 # Captive State
 
-[Compare across authors](../../compare/?t=film-captive-state_429471)
+[Compare across authors](../compare/index.md?t=film-captive-state_429471)
 
 ## DTS-HD MA 5.1
 

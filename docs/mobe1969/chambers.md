@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-chambers_80055)
+[Compare across authors](../compare/index.md?t=TV-chambers_80055)
 
 ## Season 1
 

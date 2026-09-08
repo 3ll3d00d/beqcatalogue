@@ -1,6 +1,6 @@
 # Robin Hood: Prince of Thieves
 
-[Compare across authors](../../compare/?t=film-robin-hood-prince-of-thieves_8367)
+[Compare across authors](../compare/index.md?t=film-robin-hood-prince-of-thieves_8367)
 
 ## DTS-HD MA 5.1
 

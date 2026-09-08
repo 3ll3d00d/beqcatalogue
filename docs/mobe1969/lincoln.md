@@ -1,6 +1,6 @@
 # Lincoln
 
-[Compare across authors](../../compare/?t=film-lincoln_72976)
+[Compare across authors](../compare/index.md?t=film-lincoln_72976)
 
 ## DTS-HD MA 7.1
 

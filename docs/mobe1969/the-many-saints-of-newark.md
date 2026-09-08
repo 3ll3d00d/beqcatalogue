@@ -1,6 +1,6 @@
 # The Many Saints of Newark
 
-[Compare across authors](../../compare/?t=film-the-many-saints-of-newark_524369)
+[Compare across authors](../compare/index.md?t=film-the-many-saints-of-newark_524369)
 
 ## Atmos
 

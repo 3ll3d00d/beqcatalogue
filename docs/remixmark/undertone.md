@@ -12,7 +12,7 @@ The host of a popular paranormal podcast becomes haunted by terrifying recording
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1732?post_id=64561931#post-64561931)  [TMDB](https://www.themoviedb.org/movie/1480387)  [Compare across authors](../../compare/?t=film-undertone_1480387)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1732?post_id=64561931#post-64561931)  [TMDB](https://www.themoviedb.org/movie/1480387)  [Compare across authors](../compare/index.md?t=film-undertone_1480387)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Undertone%20(2026)%20(%2B6%20gain)%20DD%2B%20Atmos.jpg)

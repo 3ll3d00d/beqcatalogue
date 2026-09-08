@@ -1,6 +1,6 @@
 # Revolt
 
-[Compare across authors](../../compare/?t=film-revolt_313943)
+[Compare across authors](../compare/index.md?t=film-revolt_313943)
 
 ## DTS-HD MA 5.1
 

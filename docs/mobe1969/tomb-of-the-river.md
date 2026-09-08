@@ -1,6 +1,6 @@
 # Tomb of the River
 
-[Compare across authors](../../compare/?t=film-tomb-of-the-river_752886)
+[Compare across authors](../compare/index.md?t=film-tomb-of-the-river_752886)
 
 ## LPCM 5.1
 

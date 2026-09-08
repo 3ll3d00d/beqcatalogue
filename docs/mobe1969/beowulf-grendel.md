@@ -1,6 +1,6 @@
 # Beowulf & Grendel
 
-[Compare across authors](../../compare/?t=film-beowulf-grendel_5471)
+[Compare across authors](../compare/index.md?t=film-beowulf-grendel_5471)
 
 ## LPCM 5.1
 

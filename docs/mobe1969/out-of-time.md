@@ -1,6 +1,6 @@
 # Out of Time
 
-[Compare across authors](../../compare/?t=film-out-of-time_2116)
+[Compare across authors](../compare/index.md?t=film-out-of-time_2116)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Hot Blooded
 
-[Compare across authors](../../compare/?t=film-hot-blooded_599333)
+[Compare across authors](../compare/index.md?t=film-hot-blooded_599333)
 
 ## DD+ 5.1
 

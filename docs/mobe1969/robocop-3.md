@@ -1,6 +1,6 @@
 # RoboCop 3
 
-[Compare across authors](../../compare/?t=film-robocop-3_5550)
+[Compare across authors](../compare/index.md?t=film-robocop-3_5550)
 
 ## DTS-HD MA 5.1
 

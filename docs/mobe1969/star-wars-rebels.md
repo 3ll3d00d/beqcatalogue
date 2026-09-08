@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-star-wars-rebels_60554)
+[Compare across authors](../compare/index.md?t=TV-star-wars-rebels_60554)
 
 ## Season 1
 

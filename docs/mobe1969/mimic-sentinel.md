@@ -1,6 +1,6 @@
 # Mimic: Sentinel
 
-[Compare across authors](../../compare/?t=film-mimic-sentinel_33005)
+[Compare across authors](../compare/index.md?t=film-mimic-sentinel_33005)
 
 ## DTS-HD MA 5.1
 

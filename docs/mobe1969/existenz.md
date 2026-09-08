@@ -1,6 +1,6 @@
 # eXistenZ
 
-[Compare across authors](../../compare/?t=film-existenz_1946)
+[Compare across authors](../compare/index.md?t=film-existenz_1946)
 
 ## LPCM 5.1
 

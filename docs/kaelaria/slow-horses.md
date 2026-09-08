@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-slow-horses_95480)
+* [Compare across authors](../compare/index.md?t=TV-slow-horses_95480)
 
 * Production Year: 2022
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-slow-horses_95480)
+* [Compare across authors](../compare/index.md?t=TV-slow-horses_95480)
 
 * Production Year: 2022
 
@@ -37,7 +37,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-slow-horses_95480)
+* [Compare across authors](../compare/index.md?t=TV-slow-horses_95480)
 
 * Production Year: 2022
 
@@ -52,7 +52,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-slow-horses_95480)
+* [Compare across authors](../compare/index.md?t=TV-slow-horses_95480)
 
 * Production Year: 2022
 
@@ -67,7 +67,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-slow-horses_95480)
+* [Compare across authors](../compare/index.md?t=TV-slow-horses_95480)
 
 * Production Year: 2022
 

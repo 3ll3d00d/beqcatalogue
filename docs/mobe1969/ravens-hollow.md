@@ -1,6 +1,6 @@
 # Raven's Hollow
 
-[Compare across authors](../../compare/?t=film-ravens-hollow_996581)
+[Compare across authors](../compare/index.md?t=film-ravens-hollow_996581)
 
 ## DTS-HD MA 5.1
 

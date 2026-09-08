@@ -1,6 +1,6 @@
 # Mission: Impossible - Fallout
 
-[Compare across authors](../../compare/?t=film-mission-impossible-fallout_353081)
+[Compare across authors](../compare/index.md?t=film-mission-impossible-fallout_353081)
 
 ## Atmos
 

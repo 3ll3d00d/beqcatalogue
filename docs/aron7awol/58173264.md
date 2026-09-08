@@ -1,6 +1,6 @@
 # Don't Breathe
 
-[Compare across authors](../../compare/?t=film-dont-breathe_300669)
+[Compare across authors](../compare/index.md?t=film-dont-breathe_300669)
 
 ## DTS-HD MA 5.1
 

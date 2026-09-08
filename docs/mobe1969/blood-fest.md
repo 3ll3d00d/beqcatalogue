@@ -1,6 +1,6 @@
 # Blood Fest
 
-[Compare across authors](../../compare/?t=film-blood-fest_472226)
+[Compare across authors](../compare/index.md?t=film-blood-fest_472226)
 
 ## DD+ 5.1
 

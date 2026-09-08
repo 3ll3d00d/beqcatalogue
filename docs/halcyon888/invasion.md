@@ -10,7 +10,7 @@
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-invasion_127235)
+* [Compare across authors](../compare/index.md?t=TV-invasion_127235)
 
 * Production Year: 2021
 
@@ -30,7 +30,7 @@
 Dialnorm Compensation: E10 +4dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-invasion_127235)
+* [Compare across authors](../compare/index.md?t=TV-invasion_127235)
 
 * Production Year: 2021
 
@@ -50,7 +50,7 @@ Dialnorm Compensation: E10 +4dB
 Dialnorm Compensation: E02-E03 +3dB, E04 +4dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-invasion_127235)
+* [Compare across authors](../compare/index.md?t=TV-invasion_127235)
 
 * Production Year: 2021
 
@@ -70,7 +70,7 @@ Dialnorm Compensation: E02-E03 +3dB, E04 +4dB
 Dialnorm Compensation: E05 +3dB, E06 +4dB, E08 +3dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-invasion_127235)
+* [Compare across authors](../compare/index.md?t=TV-invasion_127235)
 
 * Production Year: 2021
 
@@ -90,7 +90,7 @@ Dialnorm Compensation: E05 +3dB, E06 +4dB, E08 +3dB
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-invasion_127235)
+* [Compare across authors](../compare/index.md?t=TV-invasion_127235)
 
 * Production Year: 2021
 
@@ -110,7 +110,7 @@ Dialnorm Compensation: E05 +3dB, E06 +4dB, E08 +3dB
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-invasion_127235)
+* [Compare across authors](../compare/index.md?t=TV-invasion_127235)
 
 * Production Year: 2021
 

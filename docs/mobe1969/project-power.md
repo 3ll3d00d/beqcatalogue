@@ -1,6 +1,6 @@
 # Project Power
 
-[Compare across authors](../../compare/?t=film-project-power_605116)
+[Compare across authors](../compare/index.md?t=film-project-power_605116)
 
 ## DD+ Atmos
 

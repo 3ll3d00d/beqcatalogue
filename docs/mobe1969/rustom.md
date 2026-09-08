@@ -1,6 +1,6 @@
 # Rustom
 
-[Compare across authors](../../compare/?t=film-rustom_392572)
+[Compare across authors](../compare/index.md?t=film-rustom_392572)
 
 ## Atmos
 

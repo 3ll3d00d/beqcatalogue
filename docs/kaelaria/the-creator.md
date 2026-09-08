@@ -7,7 +7,7 @@
 Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/670292)  [Compare across authors](../../compare/?t=film-the-creator_670292)
+[TMDB](https://www.themoviedb.org/movie/670292)  [Compare across authors](../compare/index.md?t=film-the-creator_670292)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Creator%20(2023)%20DD%2B%20Atmos.png)

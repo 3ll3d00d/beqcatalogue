@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-marvels-daredevil_61889)
+[Compare across authors](../compare/index.md?t=TV-marvels-daredevil_61889)
 
 ## Season 3
 

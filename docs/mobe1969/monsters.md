@@ -1,6 +1,6 @@
 # Monsters
 
-[Compare across authors](../../compare/?t=film-monsters_43933)
+[Compare across authors](../compare/index.md?t=film-monsters_43933)
 
 ## DTS-HD MA 7.1
 

@@ -1,6 +1,6 @@
 # A War
 
-[Compare across authors](../../compare/?t=film-a-war_348674)
+[Compare across authors](../compare/index.md?t=film-a-war_348674)
 
 ## DTS-HD MA 5.1
 

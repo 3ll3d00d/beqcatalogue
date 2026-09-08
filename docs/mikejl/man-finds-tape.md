@@ -7,7 +7,7 @@
 Pulled in by a series of strange and unexplainable video clips, a brother and sister team up to investigate the events captured in the footage, only to discover a shocking secret that’s overtaking their small-town Texas community.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1465986)  [Compare across authors](../../compare/?t=film-man-finds-tape_1465986)
+[TMDB](https://www.themoviedb.org/movie/1465986)  [Compare across authors](../compare/index.md?t=film-man-finds-tape_1465986)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Man%20Finds%20Tape/Man%20Finds%20Tape%20(2025)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ Pulled in by a series of strange and unexplainable video clips, a brother and si
 Pulled in by a series of strange and unexplainable video clips, a brother and sister team up to investigate the events captured in the footage, only to discover a shocking secret that’s overtaking their small-town Texas community.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1465986)  [Compare across authors](../../compare/?t=film-man-finds-tape_1465986)
+[TMDB](https://www.themoviedb.org/movie/1465986)  [Compare across authors](../compare/index.md?t=film-man-finds-tape_1465986)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Man%20Finds%20Tape/Man%20Finds%20Tape%20(2025)%20DTS-HD%20MA%205.1.jpg)

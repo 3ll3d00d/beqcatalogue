@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-collateral_76796)
+[Compare across authors](../compare/index.md?t=TV-collateral_76796)
 
 ## Season 1
 

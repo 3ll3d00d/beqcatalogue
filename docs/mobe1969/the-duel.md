@@ -1,6 +1,6 @@
 # The Duel
 
-[Compare across authors](../../compare/?t=film-the-duel_333386)
+[Compare across authors](../compare/index.md?t=film-the-duel_333386)
 
 ## DTS-HD MA 5.1
 

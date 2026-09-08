@@ -1,6 +1,6 @@
 # Bigbug
 
-[Compare across authors](../../compare/?t=film-bigbug_665828)
+[Compare across authors](../compare/index.md?t=film-bigbug_665828)
 
 ## DD+ 5.1
 

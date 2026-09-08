@@ -1,6 +1,6 @@
 # Lucid Dream
 
-[Compare across authors](../../compare/?t=film-lucid-dream_436994)
+[Compare across authors](../compare/index.md?t=film-lucid-dream_436994)
 
 ## DD+ 5.1
 

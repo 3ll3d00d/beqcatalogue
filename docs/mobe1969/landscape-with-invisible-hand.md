@@ -1,6 +1,6 @@
 # Landscape With Invisible Hand
 
-[Compare across authors](../../compare/?t=film-landscape-with-invisible-hand_777411)
+[Compare across authors](../compare/index.md?t=film-landscape-with-invisible-hand_777411)
 
 ## DD+ 5.1
 

@@ -9,7 +9,7 @@ King T'Challa returns home to the reclusive, technologically advanced African na
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62759627)  [TMDB](https://www.themoviedb.org/movie/284054)  [Compare across authors](../../compare/?t=film-black-panther_284054)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62759627)  [TMDB](https://www.themoviedb.org/movie/284054)  [Compare across authors](../compare/index.md?t=film-black-panther_284054)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Black%20Panther%20(2018)%20(%2B6%20gain)%20Atmos.jpg)

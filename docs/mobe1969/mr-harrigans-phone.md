@@ -1,6 +1,6 @@
 # Mr. Harrigan's Phone
 
-[Compare across authors](../../compare/?t=film-mr-harrigans-phone_723419)
+[Compare across authors](../compare/index.md?t=film-mr-harrigans-phone_723419)
 
 ## DD+ Atmos
 

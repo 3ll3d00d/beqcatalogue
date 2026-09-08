@@ -1,6 +1,6 @@
 # Lady Vengeance
 
-[Compare across authors](../../compare/?t=film-lady-vengeance_4550)
+[Compare across authors](../compare/index.md?t=film-lady-vengeance_4550)
 
 ## DTS-HD MA 5.1
 

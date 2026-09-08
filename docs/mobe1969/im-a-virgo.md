@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-im-a-virgo_105169)
+[Compare across authors](../compare/index.md?t=TV-im-a-virgo_105169)
 
 ## Season 1
 

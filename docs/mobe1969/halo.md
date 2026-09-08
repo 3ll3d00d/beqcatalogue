@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-halo_52814)
+[Compare across authors](../compare/index.md?t=TV-halo_52814)
 
 ## Season 1
 

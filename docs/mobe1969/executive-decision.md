@@ -1,6 +1,6 @@
 # Executive Decision
 
-[Compare across authors](../../compare/?t=film-executive-decision_2320)
+[Compare across authors](../compare/index.md?t=film-executive-decision_2320)
 
 ## DD+ 5.1
 

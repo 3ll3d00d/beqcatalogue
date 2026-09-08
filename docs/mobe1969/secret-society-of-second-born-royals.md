@@ -1,6 +1,6 @@
 # Secret Society of Second Born Royals
 
-[Compare across authors](../../compare/?t=film-secret-society-of-second-born-royals_621870)
+[Compare across authors](../compare/index.md?t=film-secret-society-of-second-born-royals_621870)
 
 ## DD+ Atmos
 

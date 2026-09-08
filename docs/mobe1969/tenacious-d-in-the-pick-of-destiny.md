@@ -1,6 +1,6 @@
 # Tenacious D in The Pick of Destiny
 
-[Compare across authors](../../compare/?t=film-tenacious-d-in-the-pick-of-destiny_2179)
+[Compare across authors](../compare/index.md?t=film-tenacious-d-in-the-pick-of-destiny_2179)
 
 ## DD 2.0
 

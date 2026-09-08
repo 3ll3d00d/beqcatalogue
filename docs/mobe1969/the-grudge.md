@@ -1,6 +1,6 @@
 # The Grudge
 
-[Compare across authors](../../compare/?t=film-the-grudge_1970)
+[Compare across authors](../compare/index.md?t=film-the-grudge_1970)
 
 ## TrueHD 5.1
 

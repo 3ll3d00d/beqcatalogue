@@ -1,6 +1,6 @@
 # Zodiac
 
-[Compare across authors](../../compare/?t=film-zodiac_1949)
+[Compare across authors](../compare/index.md?t=film-zodiac_1949)
 
 ## TrueHD 5.1, DD+ 5.1
 

@@ -9,7 +9,7 @@ Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1700?post_id=64408665#post-64408665)  [TMDB](https://www.themoviedb.org/movie/1054867)  [Compare across authors](../../compare/?t=film-one-battle-after-another_1054867)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1700?post_id=64408665#post-64408665)  [TMDB](https://www.themoviedb.org/movie/1054867)  [Compare across authors](../compare/index.md?t=film-one-battle-after-another_1054867)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/One%20Battle%20After%20Another%20(2025)%20(%2B4%20gain)%20Atmos.jpg)
@@ -25,7 +25,7 @@ Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64304760#post-64304760)  [TMDB](https://www.themoviedb.org/movie/1054867)  [Compare across authors](../../compare/?t=film-one-battle-after-another_1054867)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64304760#post-64304760)  [TMDB](https://www.themoviedb.org/movie/1054867)  [Compare across authors](../compare/index.md?t=film-one-battle-after-another_1054867)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/One%20Battle%20After%20Another%20(2025)%20(-1%20gain)%20DD%2B.jpg)
@@ -44,7 +44,7 @@ Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64305385#post-64305385)  [TMDB](https://www.themoviedb.org/movie/1054867)  [Compare across authors](../../compare/?t=film-one-battle-after-another_1054867)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1679?post_id=64305385#post-64305385)  [TMDB](https://www.themoviedb.org/movie/1054867)  [Compare across authors](../compare/index.md?t=film-one-battle-after-another_1054867)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/One%20Battle%20After%20Another%20(2025)%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)

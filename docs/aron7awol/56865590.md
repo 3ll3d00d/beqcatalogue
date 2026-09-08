@@ -1,6 +1,6 @@
 # The Lego Ninjago Movie
 
-[Compare across authors](../../compare/?t=film-the-lego-ninjago-movie_274862)
+[Compare across authors](../compare/index.md?t=film-the-lego-ninjago-movie_274862)
 
 ## Atmos
 

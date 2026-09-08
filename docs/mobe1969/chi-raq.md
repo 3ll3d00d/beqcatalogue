@@ -1,6 +1,6 @@
 # CHI-RAQ
 
-[Compare across authors](../../compare/?t=film-chi-raq_340275)
+[Compare across authors](../compare/index.md?t=film-chi-raq_340275)
 
 ## DD+ 5.1
 

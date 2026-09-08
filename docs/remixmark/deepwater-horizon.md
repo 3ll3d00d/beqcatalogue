@@ -12,7 +12,7 @@ A story set on the offshore drilling rig Deepwater Horizon, which exploded durin
 Dialnorm Compensation: 11db
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1583?post_id=63966196#post-63966196)  [TMDB](https://www.themoviedb.org/movie/296524)  [Compare across authors](../../compare/?t=film-deepwater-horizon_296524)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1583?post_id=63966196#post-63966196)  [TMDB](https://www.themoviedb.org/movie/296524)  [Compare across authors](../compare/index.md?t=film-deepwater-horizon_296524)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Deepwater%20Horizon%20(2016)%20(-3.5%20gain)%20DD%2B%20Atmos.jpg)

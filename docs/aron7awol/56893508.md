@@ -1,6 +1,6 @@
 # Crouching Tiger, Hidden Dragon
 
-[Compare across authors](../../compare/?t=film-crouching-tiger-hidden-dragon_146)
+[Compare across authors](../compare/index.md?t=film-crouching-tiger-hidden-dragon_146)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Killing Season
 
-[Compare across authors](../../compare/?t=film-killing-season_77663)
+[Compare across authors](../compare/index.md?t=film-killing-season_77663)
 
 ## DTS-HD MA 5.1
 

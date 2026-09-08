@@ -1,6 +1,6 @@
 # Bad Country
 
-[Compare across authors](../../compare/?t=film-bad-country_256731)
+[Compare across authors](../compare/index.md?t=film-bad-country_256731)
 
 ## DD+ 5.1
 

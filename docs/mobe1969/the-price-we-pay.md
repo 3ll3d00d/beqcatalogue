@@ -1,6 +1,6 @@
 # The Price We Pay
 
-[Compare across authors](../../compare/?t=film-the-price-we-pay_996727)
+[Compare across authors](../compare/index.md?t=film-the-price-we-pay_996727)
 
 ## DTS-HD MA 5.1
 

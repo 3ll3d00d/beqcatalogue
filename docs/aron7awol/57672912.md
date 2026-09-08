@@ -1,6 +1,6 @@
 # Commando
 
-[Compare across authors](../../compare/?t=film-commando_10999)
+[Compare across authors](../compare/index.md?t=film-commando_10999)
 
 ## DTS-HD MA 5.1
 

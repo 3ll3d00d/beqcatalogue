@@ -1,6 +1,6 @@
 # Thir13en Ghosts
 
-[Compare across authors](../../compare/?t=film-thir13en-ghosts_9378)
+[Compare across authors](../compare/index.md?t=film-thir13en-ghosts_9378)
 
 ## DTS-HD MA 5.1
 

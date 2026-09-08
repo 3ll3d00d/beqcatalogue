@@ -1,6 +1,6 @@
 # My Way
 
-[Compare across authors](../../compare/?t=film-my-way_94047)
+[Compare across authors](../compare/index.md?t=film-my-way_94047)
 
 ## DTS-HD MA 5.1
 

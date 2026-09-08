@@ -1,6 +1,6 @@
 # Billy Lynn's Long Halftime Walk
 
-[Compare across authors](../../compare/?t=film-billy-lynns-long-halftime-walk_293767)
+[Compare across authors](../compare/index.md?t=film-billy-lynns-long-halftime-walk_293767)
 
 ## Atmos
 

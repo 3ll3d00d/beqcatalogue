@@ -1,6 +1,6 @@
 # DreamKatcher
 
-[Compare across authors](../../compare/?t=film-dreamkatcher_639247)
+[Compare across authors](../compare/index.md?t=film-dreamkatcher_639247)
 
 ## DD+ 5.1
 

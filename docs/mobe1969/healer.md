@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-healer_61670)
+[Compare across authors](../compare/index.md?t=TV-healer_61670)
 
 ## Season 1
 

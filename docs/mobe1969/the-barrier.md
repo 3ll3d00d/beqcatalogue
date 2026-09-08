@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-barrier_93522)
+[Compare across authors](../compare/index.md?t=TV-the-barrier_93522)
 
 ## Season 1
 

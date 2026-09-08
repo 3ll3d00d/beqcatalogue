@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-alienist_71769)
+[Compare across authors](../compare/index.md?t=TV-the-alienist_71769)
 
 ## Season 1
 

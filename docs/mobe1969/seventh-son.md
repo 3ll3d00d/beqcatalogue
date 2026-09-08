@@ -1,6 +1,6 @@
 # Seventh Son
 
-[Compare across authors](../../compare/?t=film-seventh-son_68737)
+[Compare across authors](../compare/index.md?t=film-seventh-son_68737)
 
 ## DTS-HD MA 7.1
 

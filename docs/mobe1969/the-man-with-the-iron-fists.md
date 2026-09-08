@@ -1,6 +1,6 @@
 # The Man with the Iron Fists
 
-[Compare across authors](../../compare/?t=film-the-man-with-the-iron-fists_97430)
+[Compare across authors](../compare/index.md?t=film-the-man-with-the-iron-fists_97430)
 
 ## DTS-HD MA 5.1
 

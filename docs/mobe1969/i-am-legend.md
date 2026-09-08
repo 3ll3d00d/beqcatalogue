@@ -1,6 +1,6 @@
 # I Am Legend
 
-[Compare across authors](../../compare/?t=film-i-am-legend_6479)
+[Compare across authors](../compare/index.md?t=film-i-am-legend_6479)
 
 ## DTS-HD MA 5.1
 

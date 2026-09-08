@@ -1,6 +1,6 @@
 # In the Earth
 
-[Compare across authors](../../compare/?t=film-in-the-earth_748853)
+[Compare across authors](../compare/index.md?t=film-in-the-earth_748853)
 
 ## DTS-HD MA 5.1
 

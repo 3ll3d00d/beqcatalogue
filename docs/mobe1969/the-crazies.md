@@ -1,6 +1,6 @@
 # The Crazies
 
-[Compare across authors](../../compare/?t=film-the-crazies_29427)
+[Compare across authors](../compare/index.md?t=film-the-crazies_29427)
 
 ## LPCM 5.1
 

@@ -1,6 +1,6 @@
 # Unearthed
 
-[Compare across authors](../../compare/?t=film-unearthed_15426)
+[Compare across authors](../compare/index.md?t=film-unearthed_15426)
 
 ## DTS-HD MA 5.1
 

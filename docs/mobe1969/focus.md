@@ -1,6 +1,6 @@
 # Focus
 
-[Compare across authors](../../compare/?t=film-focus_256591)
+[Compare across authors](../compare/index.md?t=film-focus_256591)
 
 ## DTS-HD MA 7.1
 

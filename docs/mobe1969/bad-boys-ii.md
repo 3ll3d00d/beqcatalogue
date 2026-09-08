@@ -1,6 +1,6 @@
 # Bad Boys II
 
-[Compare across authors](../../compare/?t=film-bad-boys-ii_8961)
+[Compare across authors](../compare/index.md?t=film-bad-boys-ii_8961)
 
 ## Atmos
 

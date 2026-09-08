@@ -12,7 +12,7 @@ As storm season intensifies, the paths of former storm chaser Kate Carter and re
 +1dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63478926/)  [TMDB](https://www.themoviedb.org/movie/718821)  [Compare across authors](../../compare/?t=film-twisters_718821)
+[Discuss](https://www.avsforum.com/posts/63478926/)  [TMDB](https://www.themoviedb.org/movie/718821)  [Compare across authors](../compare/index.md?t=film-twisters_718821)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Twisters%20(2024)%20(%2B4%20gain)%20Atmos.jpg)

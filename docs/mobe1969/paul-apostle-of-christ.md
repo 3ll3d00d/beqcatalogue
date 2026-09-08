@@ -1,6 +1,6 @@
 # Paul, Apostle of Christ
 
-[Compare across authors](../../compare/?t=film-paul-apostle-of-christ_476968)
+[Compare across authors](../compare/index.md?t=film-paul-apostle-of-christ_476968)
 
 ## DTS-HD MA 5.1
 

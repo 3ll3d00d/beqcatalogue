@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-community-squad_219066)
+[Compare across authors](../compare/index.md?t=TV-community-squad_219066)
 
 ## Season 1
 

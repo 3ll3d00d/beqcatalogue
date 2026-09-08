@@ -7,7 +7,7 @@
 The triumphant underdog story of the University of Washington men's rowing team, who stunned the world by winning gold at the 1936 Berlin Olympics.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/823452)  [Compare across authors](../../compare/?t=film-the-boys-in-the-boat_823452)
+[TMDB](https://www.themoviedb.org/movie/823452)  [Compare across authors](../compare/index.md?t=film-the-boys-in-the-boat_823452)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Boys%20In%20The%20Boat%20(2023)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # The Legend of Speed
 
-[Compare across authors](../../compare/?t=film-the-legend-of-speed_49199)
+[Compare across authors](../compare/index.md?t=film-the-legend-of-speed_49199)
 
 ## TrueHD 7.1
 

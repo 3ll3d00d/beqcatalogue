@@ -12,7 +12,7 @@ Finding himself in a new era, and approaching retirement, Indy wrestles with fit
 +4dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62785519)  [TMDB](https://www.themoviedb.org/movie/335977)  [Compare across authors](../../compare/?t=film-indiana-jones-and-the-dial-of-destiny_335977)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62785519)  [TMDB](https://www.themoviedb.org/movie/335977)  [Compare across authors](../compare/index.md?t=film-indiana-jones-and-the-dial-of-destiny_335977)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Indiana%20Jones%20atDoD%20(2023)%20(%2B2%20gain)%20Atmos.jpg)

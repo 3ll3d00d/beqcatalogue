@@ -11,7 +11,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318001#post-64318001)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 
@@ -30,7 +30,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64317466#post-64317466)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 
@@ -49,7 +49,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318464#post-64318464)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 
@@ -68,7 +68,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64317482#post-64317482)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 
@@ -87,7 +87,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318473#post-64318473)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 
@@ -106,7 +106,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64317499#post-64317499)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 
@@ -125,7 +125,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318476#post-64318476)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 
@@ -144,7 +144,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318480#post-64318480)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 
@@ -163,7 +163,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64317539#post-64317539)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 
@@ -182,7 +182,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64318485#post-64318485)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 
@@ -201,7 +201,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64317565#post-64317565)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 
@@ -220,7 +220,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1681?post_id=64317516#post-64317516)
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 

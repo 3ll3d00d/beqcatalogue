@@ -1,6 +1,6 @@
 # The Transformers: The Movie
 
-[Compare across authors](../../compare/?t=film-the-transformers-the-movie_1857)
+[Compare across authors](../compare/index.md?t=film-the-transformers-the-movie_1857)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Samaritan
 
-[Compare across authors](../../compare/?t=film-samaritan_629176)
+[Compare across authors](../compare/index.md?t=film-samaritan_629176)
 
 ## DD+ 5.1
 

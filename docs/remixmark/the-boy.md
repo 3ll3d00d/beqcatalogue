@@ -9,7 +9,7 @@ A young American woman takes a job as a nanny in a remote English village, soon 
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1735?post_id=64584478#post-64584478)  [TMDB](https://www.themoviedb.org/movie/321258)  [Compare across authors](../../compare/?t=film-the-boy_321258)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1735?post_id=64584478#post-64584478)  [TMDB](https://www.themoviedb.org/movie/321258)  [Compare across authors](../compare/index.md?t=film-the-boy_321258)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Boy%20(2016)%20(%2B5.5%20gain)%20Atmos.jpg)

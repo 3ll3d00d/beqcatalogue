@@ -1,6 +1,6 @@
 # The Eternal Zero
 
-[Compare across authors](../../compare/?t=film-the-eternal-zero_248087)
+[Compare across authors](../compare/index.md?t=film-the-eternal-zero_248087)
 
 ## DTS-HD MA 6.1
 

@@ -1,6 +1,6 @@
 # Diamonds Are Forever
 
-[Compare across authors](../../compare/?t=film-diamonds-are-forever_681)
+[Compare across authors](../compare/index.md?t=film-diamonds-are-forever_681)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

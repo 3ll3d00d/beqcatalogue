@@ -1,6 +1,6 @@
 # Without a Paddle
 
-[Compare across authors](../../compare/?t=film-without-a-paddle_10762)
+[Compare across authors](../compare/index.md?t=film-without-a-paddle_10762)
 
 ## DD+ 5.1
 

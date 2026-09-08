@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-thai-cave-rescue_206903)
+[Compare across authors](../compare/index.md?t=TV-thai-cave-rescue_206903)
 
 ## Season 1
 

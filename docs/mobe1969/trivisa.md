@@ -1,6 +1,6 @@
 # Trivisa
 
-[Compare across authors](../../compare/?t=film-trivisa_380762)
+[Compare across authors](../compare/index.md?t=film-trivisa_380762)
 
 ## TrueHD 5.1
 

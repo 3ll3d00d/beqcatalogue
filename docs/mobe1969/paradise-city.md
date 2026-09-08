@@ -1,6 +1,6 @@
 # Paradise City
 
-[Compare across authors](../../compare/?t=film-paradise-city_829799)
+[Compare across authors](../compare/index.md?t=film-paradise-city_829799)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Vanilla Sky
 
-[Compare across authors](../../compare/?t=film-vanilla-sky_1903)
+[Compare across authors](../compare/index.md?t=film-vanilla-sky_1903)
 
 ## DTS-HD MA 5.1
 

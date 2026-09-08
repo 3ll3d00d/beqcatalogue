@@ -1,6 +1,6 @@
 # OMG 2
 
-[Compare across authors](../../compare/?t=film-omg-2_888710)
+[Compare across authors](../compare/index.md?t=film-omg-2_888710)
 
 ## DD+ 5.1
 

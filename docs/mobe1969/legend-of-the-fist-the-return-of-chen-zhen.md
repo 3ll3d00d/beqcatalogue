@@ -1,6 +1,6 @@
 # Legend of the Fist: The Return of Chen Zhen
 
-[Compare across authors](../../compare/?t=film-legend-of-the-fist-the-return-of-chen-zhen_47854)
+[Compare across authors](../compare/index.md?t=film-legend-of-the-fist-the-return-of-chen-zhen_47854)
 
 ## TrueHD 7.1
 

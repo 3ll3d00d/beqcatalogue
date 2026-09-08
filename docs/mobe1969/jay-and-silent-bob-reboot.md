@@ -1,6 +1,6 @@
 # Jay and Silent Bob Reboot
 
-[Compare across authors](../../compare/?t=film-jay-and-silent-bob-reboot_440762)
+[Compare across authors](../compare/index.md?t=film-jay-and-silent-bob-reboot_440762)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # I, Frankenstein
 
-[Compare across authors](../../compare/?t=film-i-frankenstein_100241)
+[Compare across authors](../compare/index.md?t=film-i-frankenstein_100241)
 
 ## DTS-HD MA 5.1
 

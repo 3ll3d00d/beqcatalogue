@@ -10,7 +10,7 @@ Daryl is a normal 10-year-old boy in many ways. However, unbeknown to his foster
 STEREO
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/16248)  [Compare across authors](../../compare/?t=film-daryl_16248)
+[TMDB](https://www.themoviedb.org/movie/16248)  [Compare across authors](../compare/index.md?t=film-daryl_16248)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/D.A.R.Y.L.1985_s1_stereo_to_mono.jpg)

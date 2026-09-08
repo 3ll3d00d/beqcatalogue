@@ -1,6 +1,6 @@
 # Wonder Woman 1984
 
-[Compare across authors](../../compare/?t=film-wonder-woman-1984_464052)
+[Compare across authors](../compare/index.md?t=film-wonder-woman-1984_464052)
 
 ## Atmos
 

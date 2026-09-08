@@ -1,6 +1,6 @@
 # Fast Five
 
-[Compare across authors](../../compare/?t=film-fast-five_51497)
+[Compare across authors](../compare/index.md?t=film-fast-five_51497)
 
 ## DTS-HD MA 5.1
 

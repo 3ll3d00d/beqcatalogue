@@ -7,7 +7,7 @@
 Two of New York's most notorious organized crime bosses, Frank Costello and Vito Genovese, vie for control of the city's streets. Once the best of friends, petty jealousies and a series of betrayals place them on a deadly collision course that will reshape the Mafia (and America) forever.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1013601)  [Compare across authors](../../compare/?t=film-the-alto-knights_1013601)
+[TMDB](https://www.themoviedb.org/movie/1013601)  [Compare across authors](../compare/index.md?t=film-the-alto-knights_1013601)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Alto%20Knights/The%20Alto%20Knights%20(2025)%20Atmos.jpg)

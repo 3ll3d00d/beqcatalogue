@@ -1,6 +1,6 @@
 # Pacific Rim: Uprising
 
-[Compare across authors](../../compare/?t=film-pacific-rim-uprising_268896)
+[Compare across authors](../compare/index.md?t=film-pacific-rim-uprising_268896)
 
 ## Atmos
 

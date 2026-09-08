@@ -11,7 +11,7 @@ A small but growing Texas town, filled with strange and musical characters, cele
 
 **MV Adjustment:** +6.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/24798)  [Compare across authors](../../compare/?t=film-true-stories_24798)
+[TMDB](https://www.themoviedb.org/movie/24798)  [Compare across authors](../compare/index.md?t=film-true-stories_24798)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/True%20Stories%20(1986)%20(%2B6%20Gain)%20DTS-HD%20MA%205.1.png)

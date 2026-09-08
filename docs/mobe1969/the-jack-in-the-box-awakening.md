@@ -1,6 +1,6 @@
 # The Jack in the Box: Awakening
 
-[Compare across authors](../../compare/?t=film-the-jack-in-the-box-awakening_801071)
+[Compare across authors](../compare/index.md?t=film-the-jack-in-the-box-awakening_801071)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Coming to America
 
-[Compare across authors](../../compare/?t=film-coming-to-america_9602)
+[Compare across authors](../compare/index.md?t=film-coming-to-america_9602)
 
 ## DD+ 5.1
 

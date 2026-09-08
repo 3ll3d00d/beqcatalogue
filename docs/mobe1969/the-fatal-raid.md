@@ -1,6 +1,6 @@
 # The Fatal Raid
 
-[Compare across authors](../../compare/?t=film-the-fatal-raid_608845)
+[Compare across authors](../compare/index.md?t=film-the-fatal-raid_608845)
 
 ## TrueHD 5.1
 

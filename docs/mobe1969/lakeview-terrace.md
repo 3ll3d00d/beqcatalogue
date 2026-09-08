@@ -1,6 +1,6 @@
 # Lakeview Terrace
 
-[Compare across authors](../../compare/?t=film-lakeview-terrace_13279)
+[Compare across authors](../compare/index.md?t=film-lakeview-terrace_13279)
 
 ## TrueHD 5.1
 

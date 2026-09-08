@@ -1,6 +1,6 @@
 # Bell Bottom
 
-[Compare across authors](../../compare/?t=film-bell-bottom_721048)
+[Compare across authors](../compare/index.md?t=film-bell-bottom_721048)
 
 ## DD+ 5.1
 

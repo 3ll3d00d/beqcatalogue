@@ -1,6 +1,6 @@
 # The Terror Live
 
-[Compare across authors](../../compare/?t=film-the-terror-live_209764)
+[Compare across authors](../compare/index.md?t=film-the-terror-live_209764)
 
 ## DTS-HD MA 5.1
 

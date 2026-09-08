@@ -1,6 +1,6 @@
 # Brothers by Blood
 
-[Compare across authors](../../compare/?t=film-brothers-by-blood_592656)
+[Compare across authors](../compare/index.md?t=film-brothers-by-blood_592656)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Kubo and the Two Strings
 
-[Compare across authors](../../compare/?t=film-kubo-and-the-two-strings_313297)
+[Compare across authors](../compare/index.md?t=film-kubo-and-the-two-strings_313297)
 
 ## Atmos, DTS-HD MA 5.1
 

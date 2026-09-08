@@ -12,7 +12,7 @@ Willy Wonka – chock-full of ideas and determined to change the world one delec
 +5dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63096139)  [TMDB](https://www.themoviedb.org/movie/787699)  [Compare across authors](../../compare/?t=film-wonka_787699)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63096139)  [TMDB](https://www.themoviedb.org/movie/787699)  [Compare across authors](../compare/index.md?t=film-wonka_787699)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Wonka%20(2023)%20(%2B5.5%20gain)%20DD%2B%20Atmos.jpg)

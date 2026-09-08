@@ -1,6 +1,6 @@
 # Solo: A Star Wars Story
 
-[Compare across authors](../../compare/?t=film-solo-a-star-wars-story_348350)
+[Compare across authors](../compare/index.md?t=film-solo-a-star-wars-story_348350)
 
 ## Atmos
 

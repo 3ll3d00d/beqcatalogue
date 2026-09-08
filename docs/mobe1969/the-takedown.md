@@ -1,6 +1,6 @@
 # The Takedown
 
-[Compare across authors](../../compare/?t=film-the-takedown_785985)
+[Compare across authors](../compare/index.md?t=film-the-takedown_785985)
 
 ## DD+ 5.1
 

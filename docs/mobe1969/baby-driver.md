@@ -1,6 +1,6 @@
 # Baby Driver
 
-[Compare across authors](../../compare/?t=film-baby-driver_339403)
+[Compare across authors](../compare/index.md?t=film-baby-driver_339403)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # xXx: Return of Xander Cage
 
-[Compare across authors](../../compare/?t=film-xxx-return-of-xander-cage_47971)
+[Compare across authors](../compare/index.md?t=film-xxx-return-of-xander-cage_47971)
 
 ## Atmos
 

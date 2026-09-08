@@ -1,6 +1,6 @@
 # Dante's Peak
 
-[Compare across authors](../../compare/?t=film-dantes-peak_9619)
+[Compare across authors](../compare/index.md?t=film-dantes-peak_9619)
 
 ## DTS-HD MA 5.1
 

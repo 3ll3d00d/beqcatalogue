@@ -1,6 +1,6 @@
 # Exorcist II: The Heretic
 
-[Compare across authors](../../compare/?t=film-exorcist-ii-the-heretic_11586)
+[Compare across authors](../compare/index.md?t=film-exorcist-ii-the-heretic_11586)
 
 ## DTS-HD MA 1.0
 

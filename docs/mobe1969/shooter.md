@@ -1,6 +1,6 @@
 # Shooter
 
-[Compare across authors](../../compare/?t=film-shooter_7485)
+[Compare across authors](../compare/index.md?t=film-shooter_7485)
 
 ## DD 5.1
 

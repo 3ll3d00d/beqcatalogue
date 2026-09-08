@@ -1,6 +1,6 @@
 # The Preppie Connection
 
-[Compare across authors](../../compare/?t=film-the-preppie-connection_362478)
+[Compare across authors](../compare/index.md?t=film-the-preppie-connection_362478)
 
 ## DTS-HD MA 5.1
 

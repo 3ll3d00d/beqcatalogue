@@ -1,6 +1,6 @@
 # Guardians of the Galaxy Vol. 2
 
-[Compare across authors](../../compare/?t=film-guardians-of-the-galaxy-vol-2_283995)
+[Compare across authors](../compare/index.md?t=film-guardians-of-the-galaxy-vol-2_283995)
 
 ## Atmos
 

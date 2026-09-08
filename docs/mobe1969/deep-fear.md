@@ -1,6 +1,6 @@
 # Deep Fear
 
-[Compare across authors](../../compare/?t=film-deep-fear_899445)
+[Compare across authors](../compare/index.md?t=film-deep-fear_899445)
 
 ## DD+ 5.1
 

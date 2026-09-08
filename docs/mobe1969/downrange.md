@@ -1,6 +1,6 @@
 # Downrange
 
-[Compare across authors](../../compare/?t=film-downrange_469916)
+[Compare across authors](../compare/index.md?t=film-downrange_469916)
 
 ## DTS-HD MA 5.1
 

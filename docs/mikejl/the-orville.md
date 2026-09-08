@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-orville_71738)
+* [Compare across authors](../compare/index.md?t=TV-the-orville_71738)
 
 * Production Year: 2017
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-orville_71738)
+* [Compare across authors](../compare/index.md?t=TV-the-orville_71738)
 
 * Production Year: 2017
 
@@ -37,7 +37,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-orville_71738)
+* [Compare across authors](../compare/index.md?t=TV-the-orville_71738)
 
 * Production Year: 2017
 

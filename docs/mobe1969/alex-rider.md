@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-alex-rider_99799)
+[Compare across authors](../compare/index.md?t=TV-alex-rider_99799)
 
 ## Season 1
 

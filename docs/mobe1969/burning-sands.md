@@ -1,6 +1,6 @@
 # Burning Sands
 
-[Compare across authors](../../compare/?t=film-burning-sands_426265)
+[Compare across authors](../compare/index.md?t=film-burning-sands_426265)
 
 ## DD+ 5.1
 

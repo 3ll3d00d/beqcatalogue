@@ -1,6 +1,6 @@
 # 10 Days of a Good Man
 
-[Compare across authors](../../compare/?t=film-10-days-of-a-good-man_1073337)
+[Compare across authors](../compare/index.md?t=film-10-days-of-a-good-man_1073337)
 
 ## DD+ 5.1
 

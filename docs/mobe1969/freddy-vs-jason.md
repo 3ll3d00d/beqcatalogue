@@ -1,6 +1,6 @@
 # Freddy vs. Jason
 
-[Compare across authors](../../compare/?t=film-freddy-vs-jason_6466)
+[Compare across authors](../compare/index.md?t=film-freddy-vs-jason_6466)
 
 ## TrueHD 5.1
 

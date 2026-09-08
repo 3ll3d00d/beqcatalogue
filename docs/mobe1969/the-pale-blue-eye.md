@@ -1,6 +1,6 @@
 # The Pale Blue Eye
 
-[Compare across authors](../../compare/?t=film-the-pale-blue-eye_800815)
+[Compare across authors](../compare/index.md?t=film-the-pale-blue-eye_800815)
 
 ## DD+ Atmos
 

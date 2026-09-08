@@ -1,6 +1,6 @@
 # Once a Gangster
 
-[Compare across authors](../../compare/?t=film-once-a-gangster_41980)
+[Compare across authors](../compare/index.md?t=film-once-a-gangster_41980)
 
 ## DD+ 2.0
 

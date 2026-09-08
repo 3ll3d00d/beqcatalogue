@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mr-midnight-beware-the-monsters_212284)
+[Compare across authors](../compare/index.md?t=TV-mr-midnight-beware-the-monsters_212284)
 
 ## Season 1
 

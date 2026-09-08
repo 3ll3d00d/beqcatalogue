@@ -1,6 +1,6 @@
 # Village
 
-[Compare across authors](../../compare/?t=film-village_1038515)
+[Compare across authors](../compare/index.md?t=film-village_1038515)
 
 ## DD+ 5.1
 

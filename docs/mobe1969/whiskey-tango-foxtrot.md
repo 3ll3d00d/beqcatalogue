@@ -1,6 +1,6 @@
 # Whiskey Tango Foxtrot
 
-[Compare across authors](../../compare/?t=film-whiskey-tango-foxtrot_279641)
+[Compare across authors](../compare/index.md?t=film-whiskey-tango-foxtrot_279641)
 
 ## DTS-X
 

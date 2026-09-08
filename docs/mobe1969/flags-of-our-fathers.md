@@ -1,6 +1,6 @@
 # Flags of Our Fathers
 
-[Compare across authors](../../compare/?t=film-flags-of-our-fathers_3683)
+[Compare across authors](../compare/index.md?t=film-flags-of-our-fathers_3683)
 
 ## LPCM 5.1
 

@@ -1,6 +1,6 @@
 # Big Brother
 
-[Compare across authors](../../compare/?t=film-big-brother_504056)
+[Compare across authors](../compare/index.md?t=film-big-brother_504056)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Road Trip
 
-[Compare across authors](../../compare/?t=film-road-trip_9285)
+[Compare across authors](../compare/index.md?t=film-road-trip_9285)
 
 ## DTS-HD MA 5.1
 

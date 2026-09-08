@@ -1,6 +1,6 @@
 # All Nighter
 
-[Compare across authors](../../compare/?t=film-all-nighter_352501)
+[Compare across authors](../compare/index.md?t=film-all-nighter_352501)
 
 ## DD+ 5.1
 

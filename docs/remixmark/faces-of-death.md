@@ -9,7 +9,7 @@ A woman, employed as a website content moderator, comes across a series of viole
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1758?post_id=64724438#post-64724438)  [TMDB](https://www.themoviedb.org/movie/855435)  [Compare across authors](../../compare/?t=film-faces-of-death_855435)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1758?post_id=64724438#post-64724438)  [TMDB](https://www.themoviedb.org/movie/855435)  [Compare across authors](../compare/index.md?t=film-faces-of-death_855435)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Faces%20of%20Death%20(2026)%20(%2B4%20gain)%20DD%2B.jpg)

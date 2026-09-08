@@ -1,6 +1,6 @@
 # American Pie 2
 
-[Compare across authors](../../compare/?t=film-american-pie-2_2770)
+[Compare across authors](../compare/index.md?t=film-american-pie-2_2770)
 
 ## DTS-HD MA 5.1
 

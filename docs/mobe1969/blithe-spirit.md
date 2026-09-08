@@ -1,6 +1,6 @@
 # Blithe Spirit
 
-[Compare across authors](../../compare/?t=film-blithe-spirit_644831)
+[Compare across authors](../compare/index.md?t=film-blithe-spirit_644831)
 
 ## DD+ 5.1
 

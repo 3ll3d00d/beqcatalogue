@@ -1,6 +1,6 @@
 # Silent Hill Revelation
 
-[Compare across authors](../../compare/?t=film-silent-hill-revelation_61012)
+[Compare across authors](../compare/index.md?t=film-silent-hill-revelation_61012)
 
 ## DTS-HD MA 5.1
 

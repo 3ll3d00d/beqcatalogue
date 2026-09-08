@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-maya-and-the-three_132141)
+[Compare across authors](../compare/index.md?t=TV-maya-and-the-three_132141)
 
 ## Season 1
 

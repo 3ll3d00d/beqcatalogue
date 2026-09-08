@@ -1,6 +1,6 @@
 # Money Train
 
-[Compare across authors](../../compare/?t=film-money-train_11517)
+[Compare across authors](../compare/index.md?t=film-money-train_11517)
 
 ## DTS-HD MA 5.1
 

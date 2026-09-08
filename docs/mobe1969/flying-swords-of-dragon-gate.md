@@ -1,6 +1,6 @@
 # Flying Swords of Dragon Gate
 
-[Compare across authors](../../compare/?t=film-flying-swords-of-dragon-gate_81870)
+[Compare across authors](../compare/index.md?t=film-flying-swords-of-dragon-gate_81870)
 
 ## TrueHD 5.1
 

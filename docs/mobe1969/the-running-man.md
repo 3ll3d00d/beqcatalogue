@@ -1,6 +1,6 @@
 # The Running Man
 
-[Compare across authors](../../compare/?t=film-the-running-man_865)
+[Compare across authors](../compare/index.md?t=film-the-running-man_865)
 
 ## DTS-HD MA 5.1
 

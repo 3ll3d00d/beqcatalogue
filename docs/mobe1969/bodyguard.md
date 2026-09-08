@@ -1,6 +1,6 @@
 # Bodyguard
 
-[Compare across authors](../../compare/?t=film-bodyguard_73582)
+[Compare across authors](../compare/index.md?t=film-bodyguard_73582)
 
 ## DTS-HD MA 5.1, LPCM 5.1
 

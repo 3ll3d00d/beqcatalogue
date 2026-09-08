@@ -1,6 +1,6 @@
 # Random Acts of Violence
 
-[Compare across authors](../../compare/?t=film-random-acts-of-violence_582049)
+[Compare across authors](../compare/index.md?t=film-random-acts-of-violence_582049)
 
 ## DTS-HD MA 5.1
 

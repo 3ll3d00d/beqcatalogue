@@ -1,6 +1,6 @@
 # Student of the Year 2
 
-[Compare across authors](../../compare/?t=film-student-of-the-year-2_503129)
+[Compare across authors](../compare/index.md?t=film-student-of-the-year-2_503129)
 
 ## DD+ 5.1
 

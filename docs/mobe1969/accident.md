@@ -1,6 +1,6 @@
 # Accident
 
-[Compare across authors](../../compare/?t=film-accident_25474)
+[Compare across authors](../compare/index.md?t=film-accident_25474)
 
 ## TrueHD 7.1
 

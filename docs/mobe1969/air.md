@@ -1,6 +1,6 @@
 # AIR
 
-[Compare across authors](../../compare/?t=film-air_964980)
+[Compare across authors](../compare/index.md?t=film-air_964980)
 
 ## DD+ 5.1
 

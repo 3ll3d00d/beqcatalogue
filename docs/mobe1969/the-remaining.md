@@ -1,6 +1,6 @@
 # The Remaining
 
-[Compare across authors](../../compare/?t=film-the-remaining_280002)
+[Compare across authors](../compare/index.md?t=film-the-remaining_280002)
 
 ## DD+ 5.1
 

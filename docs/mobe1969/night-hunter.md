@@ -1,6 +1,6 @@
 # Night Hunter
 
-[Compare across authors](../../compare/?t=film-night-hunter_441282)
+[Compare across authors](../compare/index.md?t=film-night-hunter_441282)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Unforgivable
 
-[Compare across authors](../../compare/?t=film-the-unforgivable_645886)
+[Compare across authors](../compare/index.md?t=film-the-unforgivable_645886)
 
 ## DD+ 5.1
 

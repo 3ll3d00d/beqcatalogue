@@ -1,6 +1,6 @@
 # Kuttey
 
-[Compare across authors](../../compare/?t=film-kuttey_864573)
+[Compare across authors](../compare/index.md?t=film-kuttey_864573)
 
 ## DD+ Atmos
 

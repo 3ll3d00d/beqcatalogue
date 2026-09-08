@@ -1,6 +1,6 @@
 # First Man
 
-[Compare across authors](../../compare/?t=film-first-man_369972)
+[Compare across authors](../compare/index.md?t=film-first-man_369972)
 
 ## Atmos
 

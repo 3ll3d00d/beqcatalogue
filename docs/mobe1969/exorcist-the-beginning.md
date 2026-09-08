@@ -1,6 +1,6 @@
 # Exorcist: The Beginning
 
-[Compare across authors](../../compare/?t=film-exorcist-the-beginning_11026)
+[Compare across authors](../compare/index.md?t=film-exorcist-the-beginning_11026)
 
 ## DTS-HD MA 5.1
 

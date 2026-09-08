@@ -1,6 +1,6 @@
 # Outside the Law
 
-[Compare across authors](../../compare/?t=film-outside-the-law_47904)
+[Compare across authors](../compare/index.md?t=film-outside-the-law_47904)
 
 ## DTS-HD MA 5.1
 

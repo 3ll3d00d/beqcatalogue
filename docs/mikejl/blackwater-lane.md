@@ -7,7 +7,7 @@
 Late one night a woman drives by a stranded motorist who is later revealed to have been murdered. After a series of terrifying events the woman believes she is the killer's next victim.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1215918)  [Compare across authors](../../compare/?t=film-blackwater-lane_1215918)
+[TMDB](https://www.themoviedb.org/movie/1215918)  [Compare across authors](../compare/index.md?t=film-blackwater-lane_1215918)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Backwater%20Lane/Blackwater%20Lane%20(2024)%20DD%2B%205.1.jpg)

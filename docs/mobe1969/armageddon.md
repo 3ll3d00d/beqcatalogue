@@ -1,6 +1,6 @@
 # Armageddon
 
-[Compare across authors](../../compare/?t=film-armageddon_95)
+[Compare across authors](../compare/index.md?t=film-armageddon_95)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

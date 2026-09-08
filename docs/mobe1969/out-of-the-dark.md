@@ -1,6 +1,6 @@
 # Out Of The Dark
 
-[Compare across authors](../../compare/?t=film-out-of-the-dark_283686)
+[Compare across authors](../compare/index.md?t=film-out-of-the-dark_283686)
 
 ## DTS-HD MA 5.1
 

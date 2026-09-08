@@ -1,6 +1,6 @@
 # The Conference
 
-[Compare across authors](../../compare/?t=film-the-conference_1161048)
+[Compare across authors](../compare/index.md?t=film-the-conference_1161048)
 
 ## DD+ Atmos
 

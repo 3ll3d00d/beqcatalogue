@@ -1,6 +1,6 @@
 # Believer
 
-[Compare across authors](../../compare/?t=film-believer_518963)
+[Compare across authors](../compare/index.md?t=film-believer_518963)
 
 ## Atmos
 

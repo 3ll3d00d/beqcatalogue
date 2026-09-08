@@ -1,6 +1,6 @@
 # Lieutenant Jangles
 
-[Compare across authors](../../compare/?t=film-lieutenant-jangles_515768)
+[Compare across authors](../compare/index.md?t=film-lieutenant-jangles_515768)
 
 ## DTS-HD MA 2.0
 

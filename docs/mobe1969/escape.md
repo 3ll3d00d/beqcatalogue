@@ -1,6 +1,6 @@
 # Escape
 
-[Compare across authors](../../compare/?t=film-escape_136080)
+[Compare across authors](../compare/index.md?t=film-escape_136080)
 
 ## DTS-HD MA 5.1
 

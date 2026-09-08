@@ -1,6 +1,6 @@
 # Final Fantasy: The Spirits Within
 
-[Compare across authors](../../compare/?t=film-final-fantasy-the-spirits-within_2114)
+[Compare across authors](../compare/index.md?t=film-final-fantasy-the-spirits-within_2114)
 
 ## Atmos
 

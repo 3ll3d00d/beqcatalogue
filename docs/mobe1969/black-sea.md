@@ -1,6 +1,6 @@
 # Black Sea
 
-[Compare across authors](../../compare/?t=film-black-sea_246080)
+[Compare across authors](../compare/index.md?t=film-black-sea_246080)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Night Crew
 
-[Compare across authors](../../compare/?t=film-the-night-crew_251387)
+[Compare across authors](../compare/index.md?t=film-the-night-crew_251387)
 
 ## DTS-HD MA 5.1
 

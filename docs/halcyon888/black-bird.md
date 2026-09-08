@@ -12,7 +12,7 @@
 Dialnorm Compensation: E01 +5dB; E02 +3dB; E03 +4dB; E04 +5dB; E05 +4dB; E06 +5dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-black-bird_155537)
+* [Compare across authors](../compare/index.md?t=TV-black-bird_155537)
 
 * Production Year: 2022
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-you_78191)
+[Compare across authors](../compare/index.md?t=TV-you_78191)
 
 ## Season 1
 

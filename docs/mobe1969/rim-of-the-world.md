@@ -1,6 +1,6 @@
 # Rim of the World
 
-[Compare across authors](../../compare/?t=film-rim-of-the-world_531306)
+[Compare across authors](../compare/index.md?t=film-rim-of-the-world_531306)
 
 ## DD+ Atmos, DD+ 5.1
 

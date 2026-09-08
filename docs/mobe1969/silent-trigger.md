@@ -1,6 +1,6 @@
 # Silent Trigger
 
-[Compare across authors](../../compare/?t=film-silent-trigger_24206)
+[Compare across authors](../compare/index.md?t=film-silent-trigger_24206)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Hotel Transylvania 2
 
-[Compare across authors](../../compare/?t=film-hotel-transylvania-2_159824)
+[Compare across authors](../compare/index.md?t=film-hotel-transylvania-2_159824)
 
 ## DTS-HD MA 5.1
 

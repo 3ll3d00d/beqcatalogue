@@ -1,6 +1,6 @@
 # Ne Zha
 
-[Compare across authors](../../compare/?t=film-ne-zha_615453)
+[Compare across authors](../compare/index.md?t=film-ne-zha_615453)
 
 ## Atmos
 

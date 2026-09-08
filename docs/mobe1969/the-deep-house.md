@@ -1,6 +1,6 @@
 # The Deep House
 
-[Compare across authors](../../compare/?t=film-the-deep-house_672582)
+[Compare across authors](../compare/index.md?t=film-the-deep-house_672582)
 
 ## Atmos
 

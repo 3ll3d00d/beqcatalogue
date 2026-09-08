@@ -1,6 +1,6 @@
 # A Bridge Too Far
 
-[Compare across authors](../../compare/?t=film-a-bridge-too-far_5902)
+[Compare across authors](../compare/index.md?t=film-a-bridge-too-far_5902)
 
 ## DTS-HD MA 5.1
 

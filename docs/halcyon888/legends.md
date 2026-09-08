@@ -12,7 +12,7 @@
 Dialnorm Compensation: E1-E3 +4dB; E4 +5dB; E5-E6 +4dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-legends_262280)
+* [Compare across authors](../compare/index.md?t=TV-legends_262280)
 
 * Production Year: 2026
 

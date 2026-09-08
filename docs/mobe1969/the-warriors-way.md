@@ -1,6 +1,6 @@
 # The Warrior's Way
 
-[Compare across authors](../../compare/?t=film-the-warriors-way_46528)
+[Compare across authors](../compare/index.md?t=film-the-warriors-way_46528)
 
 ## DTS-HD MA 5.1
 

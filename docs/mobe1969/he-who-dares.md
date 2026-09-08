@@ -1,6 +1,6 @@
 # He Who Dares
 
-[Compare across authors](../../compare/?t=film-he-who-dares_233487)
+[Compare across authors](../compare/index.md?t=film-he-who-dares_233487)
 
 ## DD+ 5.1
 

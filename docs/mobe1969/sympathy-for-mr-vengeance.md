@@ -1,6 +1,6 @@
 # Sympathy for Mr. Vengeance
 
-[Compare across authors](../../compare/?t=film-sympathy-for-mr-vengeance_4689)
+[Compare across authors](../compare/index.md?t=film-sympathy-for-mr-vengeance_4689)
 
 ## DTS-HD MA 5.1
 

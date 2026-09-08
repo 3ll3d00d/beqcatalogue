@@ -1,6 +1,6 @@
 # The Aviary
 
-[Compare across authors](../../compare/?t=film-the-aviary_952374)
+[Compare across authors](../compare/index.md?t=film-the-aviary_952374)
 
 ## DD+ 5.1
 

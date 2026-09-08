@@ -1,6 +1,6 @@
 # Cemetery Junction
 
-[Compare across authors](../../compare/?t=film-cemetery-junction_36801)
+[Compare across authors](../compare/index.md?t=film-cemetery-junction_36801)
 
 ## DTS-HD MA 5.1
 

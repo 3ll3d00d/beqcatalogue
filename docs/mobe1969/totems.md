@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-totems_121462)
+[Compare across authors](../compare/index.md?t=TV-totems_121462)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Legionnaire
 
-[Compare across authors](../../compare/?t=film-legionnaire_3513)
+[Compare across authors](../compare/index.md?t=film-legionnaire_3513)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mob-psycho-100_75867)
+[Compare across authors](../compare/index.md?t=TV-mob-psycho-100_75867)
 
 ## Season 1
 

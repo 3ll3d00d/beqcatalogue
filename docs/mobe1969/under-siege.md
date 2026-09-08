@@ -1,6 +1,6 @@
 # Under Siege
 
-[Compare across authors](../../compare/?t=film-under-siege_8845)
+[Compare across authors](../compare/index.md?t=film-under-siege_8845)
 
 ## DD 5.1
 

@@ -1,6 +1,6 @@
 # Sister Death
 
-[Compare across authors](../../compare/?t=film-sister-death_955531)
+[Compare across authors](../compare/index.md?t=film-sister-death_955531)
 
 ## DD+ Atmos
 

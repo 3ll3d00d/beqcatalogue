@@ -1,6 +1,6 @@
 # Cold War II
 
-[Compare across authors](../../compare/?t=film-cold-war-ii_416249)
+[Compare across authors](../compare/index.md?t=film-cold-war-ii_416249)
 
 ## DTS-HD MA 7.1
 

@@ -1,6 +1,6 @@
 # Unbeatable
 
-[Compare across authors](../../compare/?t=film-unbeatable_213015)
+[Compare across authors](../compare/index.md?t=film-unbeatable_213015)
 
 ## TrueHD 7.1
 

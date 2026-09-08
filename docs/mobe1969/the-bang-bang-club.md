@@ -1,6 +1,6 @@
 # The Bang Bang Club
 
-[Compare across authors](../../compare/?t=film-the-bang-bang-club_60011)
+[Compare across authors](../compare/index.md?t=film-the-bang-bang-club_60011)
 
 ## DTS-HD MA 5.1
 

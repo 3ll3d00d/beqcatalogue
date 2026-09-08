@@ -1,6 +1,6 @@
 # The Net
 
-[Compare across authors](../../compare/?t=film-the-net_1642)
+[Compare across authors](../compare/index.md?t=film-the-net_1642)
 
 ## DTS-HD MA 5.1
 

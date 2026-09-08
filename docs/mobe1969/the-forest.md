@@ -1,6 +1,6 @@
 # The Forest
 
-[Compare across authors](../../compare/?t=film-the-forest_329440)
+[Compare across authors](../compare/index.md?t=film-the-forest_329440)
 
 ## DTS-HD MA 5.1
 

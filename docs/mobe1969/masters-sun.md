@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-masters-sun_57646)
+[Compare across authors](../compare/index.md?t=TV-masters-sun_57646)
 
 ## Season 1
 

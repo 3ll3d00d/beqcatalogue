@@ -1,6 +1,6 @@
 # Shaolin
 
-[Compare across authors](../../compare/?t=film-shaolin_55292)
+[Compare across authors](../compare/index.md?t=film-shaolin_55292)
 
 ## DTS-HD MA 7.1, TrueHD 7.1
 

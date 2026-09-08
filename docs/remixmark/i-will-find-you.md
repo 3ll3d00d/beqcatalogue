@@ -14,7 +14,7 @@ Dialnorm Compensation: Ep 1 - 6dB, Ep 2, 5, 6, 7, 8 - 4dB, Ep 3 -3dB, Ep 4 - 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1748?post_id=64667819#post-64667819)
 
-* [Compare across authors](../../compare/?t=TV-i-will-find-you_278178)
+* [Compare across authors](../compare/index.md?t=TV-i-will-find-you_278178)
 
 * Production Year: 2026
 

@@ -1,6 +1,6 @@
 # Butterfly on a Wheel
 
-[Compare across authors](../../compare/?t=film-butterfly-on-a-wheel_13250)
+[Compare across authors](../compare/index.md?t=film-butterfly-on-a-wheel_13250)
 
 ## DTS-HD MA 5.1
 

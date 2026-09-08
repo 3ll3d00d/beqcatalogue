@@ -1,6 +1,6 @@
 # Dirty Harry
 
-[Compare across authors](../../compare/?t=film-dirty-harry_984)
+[Compare across authors](../compare/index.md?t=film-dirty-harry_984)
 
 ## TrueHD 5.1
 

@@ -9,7 +9,7 @@ Death is coming. Worse than death: oblivion. Not just for our Earth, but for eve
 
 **MV Adjustment:** +7.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63072666)  [TMDB](https://www.themoviedb.org/movie/1155089)  [Compare across authors](../../compare/?t=film-justice-league-crisis-on-infinite-earths-part-one_1155089)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63072666)  [TMDB](https://www.themoviedb.org/movie/1155089)  [Compare across authors](../compare/index.md?t=film-justice-league-crisis-on-infinite-earths-part-one_1155089)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Justice%20League-%20CoIEP1%20(2024)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)

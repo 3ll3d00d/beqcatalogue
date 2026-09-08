@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-i-am-not-okay-with-this_90260)
+[Compare across authors](../compare/index.md?t=TV-i-am-not-okay-with-this_90260)
 
 ## Season 1
 

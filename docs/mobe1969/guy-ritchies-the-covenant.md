@@ -1,6 +1,6 @@
 # Guy Ritchie's The Covenant
 
-[Compare across authors](../../compare/?t=film-guy-ritchies-the-covenant_882569)
+[Compare across authors](../compare/index.md?t=film-guy-ritchies-the-covenant_882569)
 
 ## Atmos, DD+ Atmos
 

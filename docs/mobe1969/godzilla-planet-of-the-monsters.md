@@ -1,6 +1,6 @@
 # Godzilla: Planet of the Monsters
 
-[Compare across authors](../../compare/?t=film-godzilla-planet-of-the-monsters_449574)
+[Compare across authors](../compare/index.md?t=film-godzilla-planet-of-the-monsters_449574)
 
 ## DD+ 5.1
 

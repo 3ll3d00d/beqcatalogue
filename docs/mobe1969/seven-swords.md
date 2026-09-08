@@ -1,6 +1,6 @@
 # Seven Swords
 
-[Compare across authors](../../compare/?t=film-seven-swords_10703)
+[Compare across authors](../compare/index.md?t=film-seven-swords_10703)
 
 ## TrueHD 7.1
 

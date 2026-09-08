@@ -1,6 +1,6 @@
 # World Trade Center
 
-[Compare across authors](../../compare/?t=film-world-trade-center_1852)
+[Compare across authors](../compare/index.md?t=film-world-trade-center_1852)
 
 ## DD 5.1
 

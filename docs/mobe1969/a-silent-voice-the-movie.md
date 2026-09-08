@@ -1,6 +1,6 @@
 # A Silent Voice: The Movie
 
-[Compare across authors](../../compare/?t=film-a-silent-voice-the-movie_378064)
+[Compare across authors](../compare/index.md?t=film-a-silent-voice-the-movie_378064)
 
 ## DTS-HD MA 5.1
 

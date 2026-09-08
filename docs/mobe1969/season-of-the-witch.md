@@ -1,6 +1,6 @@
 # Season of the Witch
 
-[Compare across authors](../../compare/?t=film-season-of-the-witch_23047)
+[Compare across authors](../compare/index.md?t=film-season-of-the-witch_23047)
 
 ## DTS-HD MA 5.1
 

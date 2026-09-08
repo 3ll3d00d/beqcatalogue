@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-bosch_60585)
+[Compare across authors](../compare/index.md?t=TV-bosch_60585)
 
 ## Season 6 Episodes 1-9
 

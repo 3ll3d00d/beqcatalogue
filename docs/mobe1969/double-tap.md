@@ -1,6 +1,6 @@
 # Double Tap
 
-[Compare across authors](../../compare/?t=film-double-tap_127849)
+[Compare across authors](../compare/index.md?t=film-double-tap_127849)
 
 ## TrueHD 5.1
 

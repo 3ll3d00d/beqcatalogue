@@ -1,6 +1,6 @@
 # Time Trap
 
-[Compare across authors](../../compare/?t=film-time-trap_455839)
+[Compare across authors](../compare/index.md?t=film-time-trap_455839)
 
 ## DD+ 5.1
 

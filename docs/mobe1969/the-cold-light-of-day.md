@@ -1,6 +1,6 @@
 # The Cold Light of Day
 
-[Compare across authors](../../compare/?t=film-the-cold-light-of-day_77948)
+[Compare across authors](../compare/index.md?t=film-the-cold-light-of-day_77948)
 
 ## TrueHD 5.1
 

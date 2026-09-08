@@ -1,6 +1,6 @@
 # The Ice Road
 
-[Compare across authors](../../compare/?t=film-the-ice-road_646207)
+[Compare across authors](../compare/index.md?t=film-the-ice-road_646207)
 
 ## DD+ 5.1
 

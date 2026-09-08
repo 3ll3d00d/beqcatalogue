@@ -1,6 +1,6 @@
 # Ghost in the Shell
 
-[Compare across authors](../../compare/?t=film-ghost-in-the-shell_315837)
+[Compare across authors](../compare/index.md?t=film-ghost-in-the-shell_315837)
 
 ## Atmos, DD+ 5.1
 

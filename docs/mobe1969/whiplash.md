@@ -1,6 +1,6 @@
 # Whiplash
 
-[Compare across authors](../../compare/?t=film-whiplash_244786)
+[Compare across authors](../compare/index.md?t=film-whiplash_244786)
 
 ## Atmos
 

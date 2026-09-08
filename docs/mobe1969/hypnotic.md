@@ -1,6 +1,6 @@
 # Hypnotic
 
-[Compare across authors](../../compare/?t=film-hypnotic_864873)
+[Compare across authors](../compare/index.md?t=film-hypnotic_864873)
 
 ## DD+ 5.1
 

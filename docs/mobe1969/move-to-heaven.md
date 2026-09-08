@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-move-to-heaven_96571)
+[Compare across authors](../compare/index.md?t=TV-move-to-heaven_96571)
 
 ## Season 1
 

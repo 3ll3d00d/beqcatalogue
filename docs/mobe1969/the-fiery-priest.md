@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-fiery-priest_86830)
+[Compare across authors](../compare/index.md?t=TV-the-fiery-priest_86830)
 
 ## Season 1
 

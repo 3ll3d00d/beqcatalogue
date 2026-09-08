@@ -1,6 +1,6 @@
 # Dangerous Game: The Legacy Murders
 
-[Compare across authors](../../compare/?t=film-dangerous-game-the-legacy-murders_1027385)
+[Compare across authors](../compare/index.md?t=film-dangerous-game-the-legacy-murders_1027385)
 
 ## DD+ 5.1
 

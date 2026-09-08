@@ -1,6 +1,6 @@
 # The Sisters Brothers
 
-[Compare across authors](../../compare/?t=film-the-sisters-brothers_440161)
+[Compare across authors](../compare/index.md?t=film-the-sisters-brothers_440161)
 
 ## DTS-HD MA 5.1
 

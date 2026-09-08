@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-star-wars-tales-of-the-underworld_288055)
+* [Compare across authors](../compare/index.md?t=TV-star-wars-tales-of-the-underworld_288055)
 
 * Production Year: 2025
 

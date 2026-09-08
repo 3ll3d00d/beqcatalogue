@@ -1,6 +1,6 @@
 # Journey to Greenland
 
-[Compare across authors](../../compare/?t=film-journey-to-greenland_396920)
+[Compare across authors](../compare/index.md?t=film-journey-to-greenland_396920)
 
 ## DD+ 5.1
 

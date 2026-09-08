@@ -1,6 +1,6 @@
 # Anniyan
 
-[Compare across authors](../../compare/?t=film-anniyan_19978)
+[Compare across authors](../compare/index.md?t=film-anniyan_19978)
 
 ## DD+ 5.1
 

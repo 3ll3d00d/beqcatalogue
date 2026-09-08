@@ -1,6 +1,6 @@
 # Insomnia
 
-[Compare across authors](../../compare/?t=film-insomnia_320)
+[Compare across authors](../compare/index.md?t=film-insomnia_320)
 
 ## DTS-HD MA 5.1
 

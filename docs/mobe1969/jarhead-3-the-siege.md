@@ -1,6 +1,6 @@
 # Jarhead 3: The Siege
 
-[Compare across authors](../../compare/?t=film-jarhead-3-the-siege_378385)
+[Compare across authors](../compare/index.md?t=film-jarhead-3-the-siege_378385)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Tracker
 
-[Compare across authors](../../compare/?t=film-the-tracker_565214)
+[Compare across authors](../compare/index.md?t=film-the-tracker_565214)
 
 ## DTS-HD MA 5.1
 

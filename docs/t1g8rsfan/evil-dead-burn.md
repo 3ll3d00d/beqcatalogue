@@ -12,7 +12,7 @@ After her husband's abrupt death, Alice seeks solace with his remaining family â
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1212763)  [Compare across authors](../../compare/?t=film-evil-dead-burn_1212763)
+[TMDB](https://www.themoviedb.org/movie/1212763)  [Compare across authors](../compare/index.md?t=film-evil-dead-burn_1212763)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Evil%20Dead%20Burn%20(2026)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-erased_74939)
+[Compare across authors](../compare/index.md?t=TV-erased_74939)
 
 ## Season 1
 

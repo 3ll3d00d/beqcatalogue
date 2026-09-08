@@ -1,6 +1,6 @@
 # Horns
 
-[Compare across authors](../../compare/?t=film-horns_149509)
+[Compare across authors](../compare/index.md?t=film-horns_149509)
 
 ## DTS-HD MA 5.1
 

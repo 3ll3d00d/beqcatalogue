@@ -1,6 +1,6 @@
 # The Hitman's Bodyguard
 
-[Compare across authors](../../compare/?t=film-the-hitmans-bodyguard_390043)
+[Compare across authors](../compare/index.md?t=film-the-hitmans-bodyguard_390043)
 
 ## Atmos
 

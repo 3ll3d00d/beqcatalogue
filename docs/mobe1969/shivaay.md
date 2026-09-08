@@ -1,6 +1,6 @@
 # Shivaay
 
-[Compare across authors](../../compare/?t=film-shivaay_370992)
+[Compare across authors](../compare/index.md?t=film-shivaay_370992)
 
 ## DD+ 5.1
 

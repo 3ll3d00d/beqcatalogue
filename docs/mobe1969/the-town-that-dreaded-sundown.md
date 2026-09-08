@@ -1,6 +1,6 @@
 # The Town That Dreaded Sundown
 
-[Compare across authors](../../compare/?t=film-the-town-that-dreaded-sundown_287084)
+[Compare across authors](../compare/index.md?t=film-the-town-that-dreaded-sundown_287084)
 
 ## DTS-HD MA 5.1
 

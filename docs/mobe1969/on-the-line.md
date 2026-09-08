@@ -1,6 +1,6 @@
 # On the Line
 
-[Compare across authors](../../compare/?t=film-on-the-line_644714)
+[Compare across authors](../compare/index.md?t=film-on-the-line_644714)
 
 ## DTS-HD MA 5.1
 

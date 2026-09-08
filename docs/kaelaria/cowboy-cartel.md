@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-cowboy-cartel_259684)
+* [Compare across authors](../compare/index.md?t=TV-cowboy-cartel_259684)
 
 * Production Year: 2024
 

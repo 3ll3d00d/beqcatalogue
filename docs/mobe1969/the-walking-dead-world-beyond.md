@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-walking-dead-world-beyond_94305)
+[Compare across authors](../compare/index.md?t=TV-the-walking-dead-world-beyond_94305)
 
 ## Season 1
 

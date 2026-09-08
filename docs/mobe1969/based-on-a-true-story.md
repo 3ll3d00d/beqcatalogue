@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-based-on-a-true-story_197373)
+[Compare across authors](../compare/index.md?t=TV-based-on-a-true-story_197373)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Nameless Gangster
 
-[Compare across authors](../../compare/?t=film-nameless-gangster_89501)
+[Compare across authors](../compare/index.md?t=film-nameless-gangster_89501)
 
 ## DTS-HD MA 5.1
 

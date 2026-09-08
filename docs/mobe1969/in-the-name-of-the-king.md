@@ -1,6 +1,6 @@
 # In the Name of the King
 
-[Compare across authors](../../compare/?t=film-in-the-name-of-the-king_2312)
+[Compare across authors](../compare/index.md?t=film-in-the-name-of-the-king_2312)
 
 ## DTS-HD MA 5.1
 

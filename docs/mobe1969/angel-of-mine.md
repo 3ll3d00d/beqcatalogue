@@ -1,6 +1,6 @@
 # Angel of Mine
 
-[Compare across authors](../../compare/?t=film-angel-of-mine_515741)
+[Compare across authors](../compare/index.md?t=film-angel-of-mine_515741)
 
 ## DTS-HD MA 5.1
 

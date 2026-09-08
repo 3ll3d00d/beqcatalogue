@@ -1,6 +1,6 @@
 # Awareness
 
-[Compare across authors](../../compare/?t=film-awareness_1067820)
+[Compare across authors](../compare/index.md?t=film-awareness_1067820)
 
 ## DD+ 5.1
 

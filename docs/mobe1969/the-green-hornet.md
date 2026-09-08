@@ -1,6 +1,6 @@
 # The Green Hornet
 
-[Compare across authors](../../compare/?t=film-the-green-hornet_40805)
+[Compare across authors](../compare/index.md?t=film-the-green-hornet_40805)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Blades of Blood
 
-[Compare across authors](../../compare/?t=film-blades-of-blood_45075)
+[Compare across authors](../compare/index.md?t=film-blades-of-blood_45075)
 
 ## DTS-HD MA 5.1
 

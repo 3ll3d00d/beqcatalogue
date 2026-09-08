@@ -1,6 +1,6 @@
 # The Hangover Part III
 
-[Compare across authors](../../compare/?t=film-the-hangover-part-iii_109439)
+[Compare across authors](../compare/index.md?t=film-the-hangover-part-iii_109439)
 
 ## DTS-HD MA 5.1
 

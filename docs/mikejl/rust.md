@@ -7,7 +7,7 @@
 Infamous outlaw Harland Rust breaks his estranged grandson Lucas out of prison, after Lucas is convicted to hang for an accidental murder. The two must outrun legendary U.S Marshal Wood Helm and bounty hunter Fenton "Preacher" Lang who are hot on their tails. Deeply buried secrets rise from the ashes and an unexpected familial bond begins to form as the mismatched duo tries to survive the merciless American Frontier.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/710258)  [Compare across authors](../../compare/?t=film-rust_710258)
+[TMDB](https://www.themoviedb.org/movie/710258)  [Compare across authors](../compare/index.md?t=film-rust_710258)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Rust/Rust%20(2025)%20DTS-HD%20MA%205.1.jpg)

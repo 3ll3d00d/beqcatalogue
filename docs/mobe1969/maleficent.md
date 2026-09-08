@@ -1,6 +1,6 @@
 # Maleficent
 
-[Compare across authors](../../compare/?t=film-maleficent_102651)
+[Compare across authors](../compare/index.md?t=film-maleficent_102651)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Black Widow
 
-[Compare across authors](../../compare/?t=film-black-widow_497698)
+[Compare across authors](../compare/index.md?t=film-black-widow_497698)
 
 ## Atmos
 

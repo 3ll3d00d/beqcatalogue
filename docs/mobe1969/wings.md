@@ -1,6 +1,6 @@
 # Wings
 
-[Compare across authors](../../compare/?t=film-wings_132563)
+[Compare across authors](../compare/index.md?t=film-wings_132563)
 
 ## DTS-HD MA 5.1
 

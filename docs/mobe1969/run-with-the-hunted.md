@@ -1,6 +1,6 @@
 # Run with the Hunted
 
-[Compare across authors](../../compare/?t=film-run-with-the-hunted_591774)
+[Compare across authors](../compare/index.md?t=film-run-with-the-hunted_591774)
 
 ## DD+ 5.1
 

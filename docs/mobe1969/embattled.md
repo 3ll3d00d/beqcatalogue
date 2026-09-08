@@ -1,6 +1,6 @@
 # Embattled
 
-[Compare across authors](../../compare/?t=film-embattled_592643)
+[Compare across authors](../compare/index.md?t=film-embattled_592643)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Machete Kills
 
-[Compare across authors](../../compare/?t=film-machete-kills_106747)
+[Compare across authors](../compare/index.md?t=film-machete-kills_106747)
 
 ## DTS-HD MA 5.1
 

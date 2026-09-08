@@ -1,6 +1,6 @@
 # Neerja
 
-[Compare across authors](../../compare/?t=film-neerja_376869)
+[Compare across authors](../compare/index.md?t=film-neerja_376869)
 
 ## DTS-HD MA 5.1
 

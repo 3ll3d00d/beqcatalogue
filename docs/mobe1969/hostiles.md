@@ -1,6 +1,6 @@
 # Hostiles
 
-[Compare across authors](../../compare/?t=film-hostiles_384680)
+[Compare across authors](../compare/index.md?t=film-hostiles_384680)
 
 ## DTS-HD MA 5.1
 

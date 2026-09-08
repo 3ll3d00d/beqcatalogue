@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-rig_112581)
+* [Compare across authors](../compare/index.md?t=TV-the-rig_112581)
 
 * Production Year: 2023
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-rig_112581)
+* [Compare across authors](../compare/index.md?t=TV-the-rig_112581)
 
 * Production Year: 2023
 

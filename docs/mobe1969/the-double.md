@@ -1,6 +1,6 @@
 # The Double
 
-[Compare across authors](../../compare/?t=film-the-double_73499)
+[Compare across authors](../compare/index.md?t=film-the-double_73499)
 
 ## DTS-HD MA 5.1
 

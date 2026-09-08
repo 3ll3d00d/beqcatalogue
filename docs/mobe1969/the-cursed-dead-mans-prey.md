@@ -1,6 +1,6 @@
 # The Cursed: Dead Man’s Prey
 
-[Compare across authors](../../compare/?t=film-the-cursed-dead-mans-prey_724885)
+[Compare across authors](../compare/index.md?t=film-the-cursed-dead-mans-prey_724885)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # K.G.F: Chapter 1
 
-[Compare across authors](../../compare/?t=film-kgf-chapter-1_564147)
+[Compare across authors](../compare/index.md?t=film-kgf-chapter-1_564147)
 
 ## DD+ 5.1
 

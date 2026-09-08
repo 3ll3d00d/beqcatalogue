@@ -1,6 +1,6 @@
 # Starship Troopers 2: Hero of the Federation
 
-[Compare across authors](../../compare/?t=film-starship-troopers-2-hero-of-the-federation_10304)
+[Compare across authors](../compare/index.md?t=film-starship-troopers-2-hero-of-the-federation_10304)
 
 ## TrueHD 5.1
 

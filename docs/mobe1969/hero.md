@@ -1,6 +1,6 @@
 # Hero
 
-[Compare across authors](../../compare/?t=film-hero_79)
+[Compare across authors](../compare/index.md?t=film-hero_79)
 
 ## DTS-HD MA 5.1
 

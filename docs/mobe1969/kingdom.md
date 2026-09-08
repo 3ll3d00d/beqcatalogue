@@ -1,6 +1,6 @@
 # Kingdom
 
-[Compare across authors](../../compare/?t=film-kingdom_554805)
+[Compare across authors](../compare/index.md?t=film-kingdom_554805)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

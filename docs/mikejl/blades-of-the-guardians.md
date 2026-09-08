@@ -7,7 +7,7 @@
 Dao Ma, the "second most wanted fugitive," is entrusted by his benefactor, the chief of Mo family clan, to take on a mysterious escort mission-escorting the "most wanted fugitive" to Chang'an.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1305781)  [Compare across authors](../../compare/?t=film-blades-of-the-guardians_1305781)
+[TMDB](https://www.themoviedb.org/movie/1305781)  [Compare across authors](../compare/index.md?t=film-blades-of-the-guardians_1305781)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blades%20of%20the%20Guardians/Blades%20of%20the%20Guardians%20(2026)%20Atmos.jpg)

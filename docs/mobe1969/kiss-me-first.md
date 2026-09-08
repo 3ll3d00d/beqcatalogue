@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-kiss-me-first_76604)
+[Compare across authors](../compare/index.md?t=TV-kiss-me-first_76604)
 
 ## Season 1
 

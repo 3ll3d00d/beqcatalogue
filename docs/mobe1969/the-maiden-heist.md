@@ -1,6 +1,6 @@
 # The Maiden Heist
 
-[Compare across authors](../../compare/?t=film-the-maiden-heist_24271)
+[Compare across authors](../compare/index.md?t=film-the-maiden-heist_24271)
 
 ## DTS-HD MA 5.1
 

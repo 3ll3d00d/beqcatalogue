@@ -1,6 +1,6 @@
 # WALL·E
 
-[Compare across authors](../../compare/?t=film-walle_10681)
+[Compare across authors](../compare/index.md?t=film-walle_10681)
 
 ## Atmos
 

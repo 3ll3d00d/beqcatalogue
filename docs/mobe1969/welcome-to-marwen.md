@@ -1,6 +1,6 @@
 # Welcome to Marwen
 
-[Compare across authors](../../compare/?t=film-welcome-to-marwen_351044)
+[Compare across authors](../compare/index.md?t=film-welcome-to-marwen_351044)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Metal Lords
 
-[Compare across authors](../../compare/?t=film-metal-lords_739993)
+[Compare across authors](../compare/index.md?t=film-metal-lords_739993)
 
 ## DD+ Atmos
 

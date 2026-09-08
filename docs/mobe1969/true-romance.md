@@ -1,6 +1,6 @@
 # True Romance
 
-[Compare across authors](../../compare/?t=film-true-romance_319)
+[Compare across authors](../compare/index.md?t=film-true-romance_319)
 
 ## DTS-HD MA 5.1
 

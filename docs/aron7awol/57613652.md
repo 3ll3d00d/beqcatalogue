@@ -1,6 +1,6 @@
 # The Hunger Games: Catching Fire
 
-[Compare across authors](../../compare/?t=film-the-hunger-games-catching-fire_101299)
+[Compare across authors](../compare/index.md?t=film-the-hunger-games-catching-fire_101299)
 
 ## Atmos
 

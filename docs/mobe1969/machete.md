@@ -1,6 +1,6 @@
 # Machete
 
-[Compare across authors](../../compare/?t=film-machete_23631)
+[Compare across authors](../compare/index.md?t=film-machete_23631)
 
 ## DTS-HD MA 5.1
 

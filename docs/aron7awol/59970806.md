@@ -1,6 +1,6 @@
 # Black Mass
 
-[Compare across authors](../../compare/?t=film-black-mass_261023)
+[Compare across authors](../compare/index.md?t=film-black-mass_261023)
 
 ## DTS-HD MA 5.1
 

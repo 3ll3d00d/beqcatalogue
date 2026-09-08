@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-heaven-officials-blessing_112398)
+[Compare across authors](../compare/index.md?t=TV-heaven-officials-blessing_112398)
 
 ## Season 1
 

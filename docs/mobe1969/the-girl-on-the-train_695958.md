@@ -1,6 +1,6 @@
 # The Girl on the Train
 
-[Compare across authors](../../compare/?t=film-the-girl-on-the-train_695958)
+[Compare across authors](../compare/index.md?t=film-the-girl-on-the-train_695958)
 
 ## DD+ Atmos
 

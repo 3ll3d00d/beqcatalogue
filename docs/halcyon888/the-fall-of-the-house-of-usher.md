@@ -14,7 +14,7 @@ Dialnorm Compensation: +4dB E01,E07-E08
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62910836)
 
-* [Compare across authors](../../compare/?t=TV-the-fall-of-the-house-of-usher_157065)
+* [Compare across authors](../compare/index.md?t=TV-the-fall-of-the-house-of-usher_157065)
 
 * Production Year: 2023
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: +4dB E01,E07-E08
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62910836)
 
-* [Compare across authors](../../compare/?t=TV-the-fall-of-the-house-of-usher_157065)
+* [Compare across authors](../compare/index.md?t=TV-the-fall-of-the-house-of-usher_157065)
 
 * Production Year: 2023
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: +4dB E01,E07-E08
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62910836)
 
-* [Compare across authors](../../compare/?t=TV-the-fall-of-the-house-of-usher_157065)
+* [Compare across authors](../compare/index.md?t=TV-the-fall-of-the-house-of-usher_157065)
 
 * Production Year: 2023
 

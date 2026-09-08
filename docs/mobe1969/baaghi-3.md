@@ -1,6 +1,6 @@
 # Baaghi 3
 
-[Compare across authors](../../compare/?t=film-baaghi-3_594669)
+[Compare across authors](../compare/index.md?t=film-baaghi-3_594669)
 
 ## DTS-HD MA 5.1
 

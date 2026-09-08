@@ -1,6 +1,6 @@
 # Safe House
 
-[Compare across authors](../../compare/?t=film-safe-house_59961)
+[Compare across authors](../compare/index.md?t=film-safe-house_59961)
 
 ## DTS-HD MA 5.1
 

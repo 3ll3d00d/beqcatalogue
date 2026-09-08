@@ -1,6 +1,6 @@
 # Animals United
 
-[Compare across authors](../../compare/?t=film-animals-united_50135)
+[Compare across authors](../compare/index.md?t=film-animals-united_50135)
 
 ## DTS-HD MA 5.1
 

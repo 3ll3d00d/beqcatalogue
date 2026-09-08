@@ -1,6 +1,6 @@
 # Good Luck to You, Leo Grande
 
-[Compare across authors](../../compare/?t=film-good-luck-to-you-leo-grande_758330)
+[Compare across authors](../compare/index.md?t=film-good-luck-to-you-leo-grande_758330)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Fire with Fire
 
-[Compare across authors](../../compare/?t=film-fire-with-fire_139567)
+[Compare across authors](../compare/index.md?t=film-fire-with-fire_139567)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Monuments Men
 
-[Compare across authors](../../compare/?t=film-the-monuments-men_152760)
+[Compare across authors](../compare/index.md?t=film-the-monuments-men_152760)
 
 ## DTS-HD MA 5.1
 

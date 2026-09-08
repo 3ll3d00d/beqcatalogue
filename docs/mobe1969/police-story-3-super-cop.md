@@ -1,6 +1,6 @@
 # Police Story 3: Super Cop
 
-[Compare across authors](../../compare/?t=film-police-story-3-super-cop_11134)
+[Compare across authors](../compare/index.md?t=film-police-story-3-super-cop_11134)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # The Monkey King 3
 
-[Compare across authors](../../compare/?t=film-the-monkey-king-3_437543)
+[Compare across authors](../compare/index.md?t=film-the-monkey-king-3_437543)
 
 ## Atmos
 

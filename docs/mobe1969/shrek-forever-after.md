@@ -1,6 +1,6 @@
 # Shrek Forever After
 
-[Compare across authors](../../compare/?t=film-shrek-forever-after_10192)
+[Compare across authors](../compare/index.md?t=film-shrek-forever-after_10192)
 
 ## TrueHD 7.1
 

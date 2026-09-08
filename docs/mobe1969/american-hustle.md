@@ -1,6 +1,6 @@
 # American Hustle
 
-[Compare across authors](../../compare/?t=film-american-hustle_168672)
+[Compare across authors](../compare/index.md?t=film-american-hustle_168672)
 
 ## DTS-HD MA 5.1
 

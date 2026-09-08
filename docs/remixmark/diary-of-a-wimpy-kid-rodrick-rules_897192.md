@@ -12,7 +12,7 @@ A new school year, his brother Rodrick teases him over and over and over and ove
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64006216#post-64006216)  [TMDB](https://www.themoviedb.org/movie/897192)  [Compare across authors](../../compare/?t=film-diary-of-a-wimpy-kid-rodrick-rules_897192)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64006216#post-64006216)  [TMDB](https://www.themoviedb.org/movie/897192)  [Compare across authors](../compare/index.md?t=film-diary-of-a-wimpy-kid-rodrick-rules_897192)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Diary%20of%20a%20Wimpy%20Kid%20Rodrick%20Rules%20(2022)%20(%2B6.5%20gain)%20DD%2B%20Atmos.jpg)

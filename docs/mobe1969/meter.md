@@ -1,6 +1,6 @@
 # Meter
 
-[Compare across authors](../../compare/?t=film-meter_1001261)
+[Compare across authors](../compare/index.md?t=film-meter_1001261)
 
 ## DD+ 5.1
 

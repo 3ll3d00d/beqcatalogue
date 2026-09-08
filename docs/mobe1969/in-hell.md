@@ -1,6 +1,6 @@
 # In Hell
 
-[Compare across authors](../../compare/?t=film-in-hell_19277)
+[Compare across authors](../compare/index.md?t=film-in-hell_19277)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sweet-home_96648)
+[Compare across authors](../compare/index.md?t=TV-sweet-home_96648)
 
 ## Season 1
 

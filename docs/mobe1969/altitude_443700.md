@@ -1,6 +1,6 @@
 # Altitude
 
-[Compare across authors](../../compare/?t=film-altitude_443700)
+[Compare across authors](../compare/index.md?t=film-altitude_443700)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Ultimate Heist
 
-[Compare across authors](../../compare/?t=film-ultimate-heist_15638)
+[Compare across authors](../compare/index.md?t=film-ultimate-heist_15638)
 
 ## DTS-HD MA 5.1
 

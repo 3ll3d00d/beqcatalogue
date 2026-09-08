@@ -1,6 +1,6 @@
 # Scary Stories to Tell in the Dark
 
-[Compare across authors](../../compare/?t=film-scary-stories-to-tell-in-the-dark_417384)
+[Compare across authors](../compare/index.md?t=film-scary-stories-to-tell-in-the-dark_417384)
 
 ## DD+ 5.1
 

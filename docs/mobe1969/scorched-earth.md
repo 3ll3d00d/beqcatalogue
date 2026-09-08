@@ -1,6 +1,6 @@
 # Scorched Earth
 
-[Compare across authors](../../compare/?t=film-scorched-earth_347111)
+[Compare across authors](../compare/index.md?t=film-scorched-earth_347111)
 
 ## DD+ 5.1
 

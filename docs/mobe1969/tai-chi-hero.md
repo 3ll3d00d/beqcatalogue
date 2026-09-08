@@ -1,6 +1,6 @@
 # Tai Chi Hero
 
-[Compare across authors](../../compare/?t=film-tai-chi-hero_149085)
+[Compare across authors](../compare/index.md?t=film-tai-chi-hero_149085)
 
 ## DTS-HD MA 5.1
 

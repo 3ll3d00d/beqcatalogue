@@ -1,6 +1,6 @@
 # Charlie's Angels
 
-[Compare across authors](../../compare/?t=film-charlies-angels_4327)
+[Compare across authors](../compare/index.md?t=film-charlies-angels_4327)
 
 ## Atmos
 

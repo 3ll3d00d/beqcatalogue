@@ -1,6 +1,6 @@
 # War Pigs
 
-[Compare across authors](../../compare/?t=film-war-pigs_348811)
+[Compare across authors](../compare/index.md?t=film-war-pigs_348811)
 
 ## DTS-HD MA 5.1
 

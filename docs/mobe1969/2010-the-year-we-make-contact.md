@@ -1,6 +1,6 @@
 # 2010: The Year We Make Contact
 
-[Compare across authors](../../compare/?t=film-2010-the-year-we-make-contact_4437)
+[Compare across authors](../compare/index.md?t=film-2010-the-year-we-make-contact_4437)
 
 ## TrueHD 5.1
 

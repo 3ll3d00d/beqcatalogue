@@ -1,6 +1,6 @@
 # The Legend of Tarzan
 
-[Compare across authors](../../compare/?t=film-the-legend-of-tarzan_258489)
+[Compare across authors](../compare/index.md?t=film-the-legend-of-tarzan_258489)
 
 ## Atmos
 

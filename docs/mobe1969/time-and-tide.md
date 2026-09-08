@@ -1,6 +1,6 @@
 # Time and Tide
 
-[Compare across authors](../../compare/?t=film-time-and-tide_49291)
+[Compare across authors](../compare/index.md?t=film-time-and-tide_49291)
 
 ## DTS-HD MA 5.1
 

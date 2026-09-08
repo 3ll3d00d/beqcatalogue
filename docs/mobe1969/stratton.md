@@ -1,6 +1,6 @@
 # Stratton
 
-[Compare across authors](../../compare/?t=film-stratton_348389)
+[Compare across authors](../compare/index.md?t=film-stratton_348389)
 
 ## DTS-HD MA 5.1
 

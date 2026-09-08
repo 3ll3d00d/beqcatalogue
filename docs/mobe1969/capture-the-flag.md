@@ -1,6 +1,6 @@
 # Capture the Flag
 
-[Compare across authors](../../compare/?t=film-capture-the-flag_300602)
+[Compare across authors](../compare/index.md?t=film-capture-the-flag_300602)
 
 ## DD+ 5.1
 

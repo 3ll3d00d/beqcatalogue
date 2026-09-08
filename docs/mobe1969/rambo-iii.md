@@ -1,6 +1,6 @@
 # Rambo III
 
-[Compare across authors](../../compare/?t=film-rambo-iii_1370)
+[Compare across authors](../compare/index.md?t=film-rambo-iii_1370)
 
 ## DTS-HD MA 5.1
 

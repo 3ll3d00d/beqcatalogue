@@ -1,6 +1,6 @@
 # Do Your Worst
 
-[Compare across authors](../../compare/?t=film-do-your-worst_1095940)
+[Compare across authors](../compare/index.md?t=film-do-your-worst_1095940)
 
 ## DD+ 5.1
 

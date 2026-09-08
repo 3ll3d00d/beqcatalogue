@@ -1,6 +1,6 @@
 # Europe Raiders
 
-[Compare across authors](../../compare/?t=film-europe-raiders_420644)
+[Compare across authors](../compare/index.md?t=film-europe-raiders_420644)
 
 ## TrueHD 7.1
 

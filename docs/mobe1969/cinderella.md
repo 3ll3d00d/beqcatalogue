@@ -1,6 +1,6 @@
 # Cinderella
 
-[Compare across authors](../../compare/?t=film-cinderella_11224)
+[Compare across authors](../compare/index.md?t=film-cinderella_11224)
 
 ## DTS-HD MA 5.1
 

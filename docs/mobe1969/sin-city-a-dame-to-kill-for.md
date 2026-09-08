@@ -1,6 +1,6 @@
 # Sin City: A Dame to Kill For
 
-[Compare across authors](../../compare/?t=film-sin-city-a-dame-to-kill-for_189)
+[Compare across authors](../compare/index.md?t=film-sin-city-a-dame-to-kill-for_189)
 
 ## DTS-HD MA 5.1
 

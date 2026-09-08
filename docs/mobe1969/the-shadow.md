@@ -1,6 +1,6 @@
 # The Shadow
 
-[Compare across authors](../../compare/?t=film-the-shadow_8850)
+[Compare across authors](../compare/index.md?t=film-the-shadow_8850)
 
 ## DTS-HD.MA.5.1
 

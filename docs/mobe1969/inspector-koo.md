@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-inspector-koo_129475)
+[Compare across authors](../compare/index.md?t=TV-inspector-koo_129475)
 
 ## Season 1
 

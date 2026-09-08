@@ -1,6 +1,6 @@
 # Little Big Soldier
 
-[Compare across authors](../../compare/?t=film-little-big-soldier_35138)
+[Compare across authors](../compare/index.md?t=film-little-big-soldier_35138)
 
 ## DTS-HD MA 5.1
 

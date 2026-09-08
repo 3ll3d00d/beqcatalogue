@@ -1,6 +1,6 @@
 # The Call
 
-[Compare across authors](../../compare/?t=film-the-call_575604)
+[Compare across authors](../compare/index.md?t=film-the-call_575604)
 
 ## DD+ 5.1
 

@@ -12,7 +12,7 @@ When tech billionaire Slater King meets cocktail waitress Frida at his fundraisi
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1504?post_id=63546480#post-63546480)  [TMDB](https://www.themoviedb.org/movie/840705)  [Compare across authors](../../compare/?t=film-blink-twice_840705)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1504?post_id=63546480#post-63546480)  [TMDB](https://www.themoviedb.org/movie/840705)  [Compare across authors](../compare/index.md?t=film-blink-twice_840705)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Blink%20Twice%20(2024)%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)

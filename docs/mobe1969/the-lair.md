@@ -1,6 +1,6 @@
 # The Lair
 
-[Compare across authors](../../compare/?t=film-the-lair_760204)
+[Compare across authors](../compare/index.md?t=film-the-lair_760204)
 
 ## DTS-HD MA 5.1
 

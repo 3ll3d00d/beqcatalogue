@@ -1,6 +1,6 @@
 # Ek Tha Tiger
 
-[Compare across authors](../../compare/?t=film-ek-tha-tiger_85985)
+[Compare across authors](../compare/index.md?t=film-ek-tha-tiger_85985)
 
 ## DD+ 5.1
 

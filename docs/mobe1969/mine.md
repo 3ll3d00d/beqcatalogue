@@ -1,6 +1,6 @@
 # Mine
 
-[Compare across authors](../../compare/?t=film-mine_345009)
+[Compare across authors](../compare/index.md?t=film-mine_345009)
 
 ## DTS-HD MA 5.1
 

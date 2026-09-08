@@ -1,6 +1,6 @@
 # Romans
 
-[Compare across authors](../../compare/?t=film-romans_451764)
+[Compare across authors](../compare/index.md?t=film-romans_451764)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-fauda_69557)
+[Compare across authors](../compare/index.md?t=TV-fauda_69557)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Jackass Forever
 
-[Compare across authors](../../compare/?t=film-jackass-forever_656663)
+[Compare across authors](../compare/index.md?t=film-jackass-forever_656663)
 
 ## DTS-HD MA 5.1
 

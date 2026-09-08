@@ -1,6 +1,6 @@
 # Mercury Plains
 
-[Compare across authors](../../compare/?t=film-mercury-plains_376003)
+[Compare across authors](../compare/index.md?t=film-mercury-plains_376003)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # 10 Cloverfield Lane
 
-[Compare across authors](../../compare/?t=film-10-cloverfield-lane_333371)
+[Compare across authors](../compare/index.md?t=film-10-cloverfield-lane_333371)
 
 ## Atmos
 

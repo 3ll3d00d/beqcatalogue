@@ -1,6 +1,6 @@
 # The Machine
 
-[Compare across authors](../../compare/?t=film-the-machine_174675)
+[Compare across authors](../compare/index.md?t=film-the-machine_174675)
 
 ## DTS-HD MA 5.1
 

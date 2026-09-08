@@ -9,7 +9,7 @@ Follows a ruthless hitman who, after narrowly escaping a fatal attempt on his li
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1744?post_id=64637552#post-64637552)  [TMDB](https://www.themoviedb.org/movie/1491902)  [Compare across authors](../../compare/?t=film-bang_1491902)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1744?post_id=64637552#post-64637552)  [TMDB](https://www.themoviedb.org/movie/1491902)  [Compare across authors](../compare/index.md?t=film-bang_1491902)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Bang%20(2025)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

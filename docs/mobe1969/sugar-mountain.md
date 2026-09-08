@@ -1,6 +1,6 @@
 # Sugar Mountain
 
-[Compare across authors](../../compare/?t=film-sugar-mountain_423377)
+[Compare across authors](../compare/index.md?t=film-sugar-mountain_423377)
 
 ## DTS-HD MA 5.1
 

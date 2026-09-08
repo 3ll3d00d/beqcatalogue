@@ -1,6 +1,6 @@
 # The Night Before
 
-[Compare across authors](../../compare/?t=film-the-night-before_296100)
+[Compare across authors](../compare/index.md?t=film-the-night-before_296100)
 
 ## DTS-HD MA 5.1
 

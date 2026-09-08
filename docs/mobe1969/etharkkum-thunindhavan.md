@@ -1,6 +1,6 @@
 # Etharkkum Thunindhavan
 
-[Compare across authors](../../compare/?t=film-etharkkum-thunindhavan_855397)
+[Compare across authors](../compare/index.md?t=film-etharkkum-thunindhavan_855397)
 
 ## DD+ Atmos
 

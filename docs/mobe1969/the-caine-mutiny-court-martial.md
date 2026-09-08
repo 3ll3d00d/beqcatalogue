@@ -1,6 +1,6 @@
 # The Caine Mutiny Court-Martial
 
-[Compare across authors](../../compare/?t=film-the-caine-mutiny-court-martial_1018332)
+[Compare across authors](../compare/index.md?t=film-the-caine-mutiny-court-martial_1018332)
 
 ## DD+ 5.1
 

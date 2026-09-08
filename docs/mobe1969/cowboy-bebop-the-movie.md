@@ -1,6 +1,6 @@
 # Cowboy Bebop: The Movie
 
-[Compare across authors](../../compare/?t=film-cowboy-bebop-the-movie_11299)
+[Compare across authors](../compare/index.md?t=film-cowboy-bebop-the-movie_11299)
 
 ## DD 5.1
 

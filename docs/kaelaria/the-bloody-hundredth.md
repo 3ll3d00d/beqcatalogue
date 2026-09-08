@@ -7,7 +7,7 @@
 Meet the real-life airmen who inspired Masters of the Air as they share the harrowing and transformative events of the 100th Bomb Group.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1251636)  [Compare across authors](../../compare/?t=film-the-bloody-hundredth_1251636)
+[TMDB](https://www.themoviedb.org/movie/1251636)  [Compare across authors](../compare/index.md?t=film-the-bloody-hundredth_1251636)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20bloody%20hundredth%20(2024)%20DD%2B%20Atmos.jpg)

@@ -14,7 +14,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1676?post_id=64293451#post-64293451)
 
-* [Compare across authors](../../compare/?t=TV-death-by-lightning_245219)
+* [Compare across authors](../compare/index.md?t=TV-death-by-lightning_245219)
 
 * Production Year: 2025
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1676?post_id=64293478#post-64293478)
 
-* [Compare across authors](../../compare/?t=TV-death-by-lightning_245219)
+* [Compare across authors](../compare/index.md?t=TV-death-by-lightning_245219)
 
 * Production Year: 2025
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64293493#post-64293493)
 
-* [Compare across authors](../../compare/?t=TV-death-by-lightning_245219)
+* [Compare across authors](../compare/index.md?t=TV-death-by-lightning_245219)
 
 * Production Year: 2025
 
@@ -80,7 +80,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64293529#post-64293529)
 
-* [Compare across authors](../../compare/?t=TV-death-by-lightning_245219)
+* [Compare across authors](../compare/index.md?t=TV-death-by-lightning_245219)
 
 * Production Year: 2025
 

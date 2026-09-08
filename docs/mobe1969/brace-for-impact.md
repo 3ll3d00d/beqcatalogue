@@ -1,6 +1,6 @@
 # Brace for Impact
 
-[Compare across authors](../../compare/?t=film-brace-for-impact_399912)
+[Compare across authors](../compare/index.md?t=film-brace-for-impact_399912)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Always Be With You
 
-[Compare across authors](../../compare/?t=film-always-be-with-you_484290)
+[Compare across authors](../compare/index.md?t=film-always-be-with-you_484290)
 
 ## TrueHD 5.1
 

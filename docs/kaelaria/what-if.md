@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-what-if_91363)
+* [Compare across authors](../compare/index.md?t=TV-what-if_91363)
 
 * Production Year: 2021
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-what-if_91363)
+* [Compare across authors](../compare/index.md?t=TV-what-if_91363)
 
 * Production Year: 2021
 

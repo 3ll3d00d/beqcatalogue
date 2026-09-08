@@ -1,6 +1,6 @@
 # Lucky Number Slevin
 
-[Compare across authors](../../compare/?t=film-lucky-number-slevin_186)
+[Compare across authors](../compare/index.md?t=film-lucky-number-slevin_186)
 
 ## DTS-HD MA 5.1
 

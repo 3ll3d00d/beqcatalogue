@@ -1,6 +1,6 @@
 # Overdrive
 
-[Compare across authors](../../compare/?t=film-overdrive_404733)
+[Compare across authors](../compare/index.md?t=film-overdrive_404733)
 
 ## DTS-HD MA 5.1
 

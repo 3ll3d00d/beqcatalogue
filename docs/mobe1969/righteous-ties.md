@@ -1,6 +1,6 @@
 # Righteous Ties
 
-[Compare across authors](../../compare/?t=film-righteous-ties_55765)
+[Compare across authors](../compare/index.md?t=film-righteous-ties_55765)
 
 ## DTS 5.1, DD 5.1
 

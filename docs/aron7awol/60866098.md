@@ -1,6 +1,6 @@
 # Scott Pilgrim vs. the World
 
-[Compare across authors](../../compare/?t=film-scott-pilgrim-vs-the-world_22538)
+[Compare across authors](../compare/index.md?t=film-scott-pilgrim-vs-the-world_22538)
 
 ## Atmos
 

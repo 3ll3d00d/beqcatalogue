@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-avatar-the-last-airbender_82452)
+* [Compare across authors](../compare/index.md?t=TV-avatar-the-last-airbender_82452)
 
 * Production Year: 2024
 

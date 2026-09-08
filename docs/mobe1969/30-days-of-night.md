@@ -1,6 +1,6 @@
 # 30 Days of Night
 
-[Compare across authors](../../compare/?t=film-30-days-of-night_4513)
+[Compare across authors](../compare/index.md?t=film-30-days-of-night_4513)
 
 ## TrueHD 5.1, DTS 5.1
 

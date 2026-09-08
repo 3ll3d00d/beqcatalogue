@@ -1,6 +1,6 @@
 # Paradox
 
-[Compare across authors](../../compare/?t=film-paradox_452558)
+[Compare across authors](../compare/index.md?t=film-paradox_452558)
 
 ## TrueHD 5.1
 

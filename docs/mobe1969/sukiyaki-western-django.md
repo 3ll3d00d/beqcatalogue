@@ -1,6 +1,6 @@
 # Sukiyaki Western Django
 
-[Compare across authors](../../compare/?t=film-sukiyaki-western-django_13637)
+[Compare across authors](../compare/index.md?t=film-sukiyaki-western-django_13637)
 
 ## TrueHD 5.1
 

@@ -11,7 +11,7 @@ Life for former United Nations investigator Gerry Lane and his family seems cont
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62745328)  [TMDB](https://www.themoviedb.org/movie/72190)  [Compare across authors](../../compare/?t=film-world-war-z_72190)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62745328)  [TMDB](https://www.themoviedb.org/movie/72190)  [Compare across authors](../compare/index.md?t=film-world-war-z_72190)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/World%20War%20Z%20(2013)%20Unrated%20(-1%20gain)%20DTS-HD%20MA%207.1.jpg)

@@ -1,6 +1,6 @@
 # Dead Drop
 
-[Compare across authors](../../compare/?t=film-dead-drop_227229)
+[Compare across authors](../compare/index.md?t=film-dead-drop_227229)
 
 ## DTS-HD MA 5.1
 

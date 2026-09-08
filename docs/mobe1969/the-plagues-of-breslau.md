@@ -1,6 +1,6 @@
 # The Plagues of Breslau
 
-[Compare across authors](../../compare/?t=film-the-plagues-of-breslau_557336)
+[Compare across authors](../compare/index.md?t=film-the-plagues-of-breslau_557336)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Seoul Station
 
-[Compare across authors](../../compare/?t=film-seoul-station_389868)
+[Compare across authors](../compare/index.md?t=film-seoul-station_389868)
 
 ## DTS-HD MA 5.1
 

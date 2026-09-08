@@ -1,6 +1,6 @@
 # Sinam
 
-[Compare across authors](../../compare/?t=film-sinam_1022011)
+[Compare across authors](../compare/index.md?t=film-sinam_1022011)
 
 ## DD+ 5.1
 

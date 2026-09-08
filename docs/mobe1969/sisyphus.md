@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sisyphus_113622)
+[Compare across authors](../compare/index.md?t=TV-sisyphus_113622)
 
 ## Season 1
 

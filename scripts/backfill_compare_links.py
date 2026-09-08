@@ -78,7 +78,7 @@ def main():
             skipped_existing += 1
             continue
 
-        link_line = f"[Compare across authors](../../compare/?t={key})"
+        link_line = f"[Compare across authors](../compare/index.md?t={key})"
         with open(md_path, 'w') as f:
             f.write(insert_link(content, link_line))
         patched += 1

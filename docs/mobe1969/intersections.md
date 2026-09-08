@@ -1,6 +1,6 @@
 # Intersections
 
-[Compare across authors](../../compare/?t=film-intersections_158426)
+[Compare across authors](../compare/index.md?t=film-intersections_158426)
 
 ## DTS-HD MA 5.1
 

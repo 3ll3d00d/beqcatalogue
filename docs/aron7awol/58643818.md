@@ -1,6 +1,6 @@
 # In the Tall Grass
 
-[Compare across authors](../../compare/?t=film-in-the-tall-grass_523139)
+[Compare across authors](../compare/index.md?t=film-in-the-tall-grass_523139)
 
 ## DD+ Atmos
 

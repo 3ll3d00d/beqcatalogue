@@ -1,6 +1,6 @@
 # No Limit
 
-[Compare across authors](../../compare/?t=film-no-limit_911129)
+[Compare across authors](../compare/index.md?t=film-no-limit_911129)
 
 ## DD+ 5.1
 

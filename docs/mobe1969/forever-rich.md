@@ -1,6 +1,6 @@
 # Forever Rich
 
-[Compare across authors](../../compare/?t=film-forever-rich_785527)
+[Compare across authors](../compare/index.md?t=film-forever-rich_785527)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Flame & Citron
 
-[Compare across authors](../../compare/?t=film-flame-citron_8883)
+[Compare across authors](../compare/index.md?t=film-flame-citron_8883)
 
 ## DTS-HD MA 5.1
 

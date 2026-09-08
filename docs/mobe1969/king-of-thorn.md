@@ -1,6 +1,6 @@
 # King of Thorn
 
-[Compare across authors](../../compare/?t=film-king-of-thorn_50388)
+[Compare across authors](../compare/index.md?t=film-king-of-thorn_50388)
 
 ## TrueHD 5.1
 

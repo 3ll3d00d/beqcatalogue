@@ -1,6 +1,6 @@
 # A Million Ways to Die in the West
 
-[Compare across authors](../../compare/?t=film-a-million-ways-to-die-in-the-west_188161)
+[Compare across authors](../compare/index.md?t=film-a-million-ways-to-die-in-the-west_188161)
 
 ## DTS-HD MA 5.1
 

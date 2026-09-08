@@ -1,6 +1,6 @@
 # Suspect X
 
-[Compare across authors](../../compare/?t=film-suspect-x_42341)
+[Compare across authors](../compare/index.md?t=film-suspect-x_42341)
 
 ## DTS-HD MA 5.1
 

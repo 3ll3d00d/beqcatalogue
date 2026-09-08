@@ -1,6 +1,6 @@
 # Sword in the Moon
 
-[Compare across authors](../../compare/?t=film-sword-in-the-moon_13512)
+[Compare across authors](../compare/index.md?t=film-sword-in-the-moon_13512)
 
 ## DTS-HD MA 5.1
 

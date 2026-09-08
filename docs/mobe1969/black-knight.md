@@ -1,6 +1,6 @@
 # Black Knight
 
-[Compare across authors](../../compare/?t=film-black-knight_11469)
+[Compare across authors](../compare/index.md?t=film-black-knight_11469)
 
 ## DD+ 5.1
 

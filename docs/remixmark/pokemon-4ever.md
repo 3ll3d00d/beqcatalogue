@@ -9,7 +9,7 @@ In order to escape a greedy Pokémon hunter, Celebi must use the last of its ene
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1448?post_id=63296859#post-63296859)  [TMDB](https://www.themoviedb.org/movie/12600)  [Compare across authors](../../compare/?t=film-pokemon-4ever_12600)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1448?post_id=63296859#post-63296859)  [TMDB](https://www.themoviedb.org/movie/12600)  [Compare across authors](../compare/index.md?t=film-pokemon-4ever_12600)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Pokemon%204ever%20(2001)%20(%2B6%20gain).jpg)

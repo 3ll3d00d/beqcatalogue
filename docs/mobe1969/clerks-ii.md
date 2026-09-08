@@ -1,6 +1,6 @@
 # Clerks II
 
-[Compare across authors](../../compare/?t=film-clerks-ii_2295)
+[Compare across authors](../compare/index.md?t=film-clerks-ii_2295)
 
 ## TrueHD 5.1
 

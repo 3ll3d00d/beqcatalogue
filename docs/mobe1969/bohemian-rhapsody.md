@@ -1,6 +1,6 @@
 # Bohemian Rhapsody
 
-[Compare across authors](../../compare/?t=film-bohemian-rhapsody_424694)
+[Compare across authors](../compare/index.md?t=film-bohemian-rhapsody_424694)
 
 ## Atmos
 

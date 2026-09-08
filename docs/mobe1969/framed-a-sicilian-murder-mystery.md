@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-framed-a-sicilian-murder-mystery_154535)
+[Compare across authors](../compare/index.md?t=TV-framed-a-sicilian-murder-mystery_154535)
 
 ## Season 1
 

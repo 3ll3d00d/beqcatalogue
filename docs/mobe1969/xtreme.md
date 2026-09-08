@@ -1,6 +1,6 @@
 # Xtreme
 
-[Compare across authors](../../compare/?t=film-xtreme_726429)
+[Compare across authors](../compare/index.md?t=film-xtreme_726429)
 
 ## DD+ 5.1
 

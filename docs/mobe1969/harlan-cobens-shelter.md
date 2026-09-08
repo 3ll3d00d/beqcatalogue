@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-harlan-cobens-shelter_210787)
+[Compare across authors](../compare/index.md?t=TV-harlan-cobens-shelter_210787)
 
 ## Season 1
 

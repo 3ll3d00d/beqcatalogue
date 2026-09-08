@@ -1,6 +1,6 @@
 # The Punisher
 
-[Compare across authors](../../compare/?t=film-the-punisher_7220)
+[Compare across authors](../compare/index.md?t=film-the-punisher_7220)
 
 ## Atmos
 

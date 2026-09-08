@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-matador_61225)
+[Compare across authors](../compare/index.md?t=TV-matador_61225)
 
 ## Season 1
 

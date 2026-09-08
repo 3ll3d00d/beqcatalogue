@@ -1,6 +1,6 @@
 # A Day and a Half
 
-[Compare across authors](../../compare/?t=film-a-day-and-a-half_978783)
+[Compare across authors](../compare/index.md?t=film-a-day-and-a-half_978783)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Descent: Part 2
 
-[Compare across authors](../../compare/?t=film-the-descent-part-2_34480)
+[Compare across authors](../compare/index.md?t=film-the-descent-part-2_34480)
 
 ## DTS-HD MA 5.1, LPCM 5.1
 

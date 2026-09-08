@@ -1,6 +1,6 @@
 # Final Score
 
-[Compare across authors](../../compare/?t=film-final-score_421658)
+[Compare across authors](../compare/index.md?t=film-final-score_421658)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

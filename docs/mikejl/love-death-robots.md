@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -37,7 +37,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -52,7 +52,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 

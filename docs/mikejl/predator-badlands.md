@@ -7,7 +7,7 @@
 Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../../compare/?t=film-predator-badlands_1242898)
+[TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../compare/index.md?t=film-predator-badlands_1242898)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Predator%20-%20Badlands/Predator%20Badlands%20(2025)%20Atmos.jpg)
@@ -21,7 +21,7 @@ Cast out from his clan, a young Predator finds an unlikely ally in a damaged and
 Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../../compare/?t=film-predator-badlands_1242898)
+[TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../compare/index.md?t=film-predator-badlands_1242898)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Predator%20-%20Badlands/Predator%20-%20Badlands%20(2025)%20DD%2B%205.1.jpg)
@@ -35,7 +35,7 @@ Cast out from his clan, a young Predator finds an unlikely ally in a damaged and
 Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../../compare/?t=film-predator-badlands_1242898)
+[TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../compare/index.md?t=film-predator-badlands_1242898)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Predator%20-%20Badlands/Predator%20Badlands%20(2025)%20DD%2B%20Atmos.jpg)
@@ -49,7 +49,7 @@ Cast out from his clan, a young Predator finds an unlikely ally in a damaged and
 Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../../compare/?t=film-predator-badlands_1242898)
+[TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../compare/index.md?t=film-predator-badlands_1242898)
 { data-search-exclude }
 
 ![img 6](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Predator%20-%20Badlands/Predator%20Badlands%20(2025)%20DTS-HD%20MA%207.1.jpg)

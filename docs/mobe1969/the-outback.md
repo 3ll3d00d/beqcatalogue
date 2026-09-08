@@ -1,6 +1,6 @@
 # The Outback
 
-[Compare across authors](../../compare/?t=film-the-outback_136405)
+[Compare across authors](../compare/index.md?t=film-the-outback_136405)
 
 ## DTS-HD MA 5.1
 

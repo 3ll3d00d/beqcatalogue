@@ -1,6 +1,6 @@
 # The Yin-Yang Master: Dream of Eternity
 
-[Compare across authors](../../compare/?t=film-the-yin-yang-master-dream-of-eternity_757860)
+[Compare across authors](../compare/index.md?t=film-the-yin-yang-master-dream-of-eternity_757860)
 
 ## DD+ 5.1
 

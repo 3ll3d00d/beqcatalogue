@@ -9,7 +9,7 @@ An idealistic FBI agent is enlisted by a government task force to aid in the esc
 
 **MV Adjustment:** +2.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/273481)  [Compare across authors](../../compare/?t=film-sicario_273481)
+[TMDB](https://www.themoviedb.org/movie/273481)  [Compare across authors](../compare/index.md?t=film-sicario_273481)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Sicario%20THD%20Atmos%20PvA.png)

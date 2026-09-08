@@ -1,6 +1,6 @@
 # Hansel & Gretel
 
-[Compare across authors](../../compare/?t=film-hansel-gretel_25597)
+[Compare across authors](../compare/index.md?t=film-hansel-gretel_25597)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Soulcatcher
 
-[Compare across authors](../../compare/?t=film-soulcatcher_1149381)
+[Compare across authors](../compare/index.md?t=film-soulcatcher_1149381)
 
 ## DD+ Atmos
 

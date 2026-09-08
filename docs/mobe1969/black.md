@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-black_73944)
+[Compare across authors](../compare/index.md?t=TV-black_73944)
 
 ## Season 1
 

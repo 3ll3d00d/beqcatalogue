@@ -1,6 +1,6 @@
 # The Matrix Revolutions
 
-[Compare across authors](../../compare/?t=film-the-matrix-revolutions_605)
+[Compare across authors](../compare/index.md?t=film-the-matrix-revolutions_605)
 
 ## Atmos
 

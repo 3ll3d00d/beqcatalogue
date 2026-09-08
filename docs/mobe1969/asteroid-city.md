@@ -1,6 +1,6 @@
 # Asteroid City
 
-[Compare across authors](../../compare/?t=film-asteroid-city_747188)
+[Compare across authors](../compare/index.md?t=film-asteroid-city_747188)
 
 ## DD+ Atmos
 

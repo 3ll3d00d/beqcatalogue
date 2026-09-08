@@ -9,7 +9,7 @@ A priest with a haunted past and a novice on the threshold of her final vows are
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1557?post_id=63822174#post-63822174)  [TMDB](https://www.themoviedb.org/movie/439079)  [Compare across authors](../../compare/?t=film-the-nun_439079)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1557?post_id=63822174#post-63822174)  [TMDB](https://www.themoviedb.org/movie/439079)  [Compare across authors](../compare/index.md?t=film-the-nun_439079)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Nun%20(2018)%20(-.5%20gain)%20Atmos.jpg)

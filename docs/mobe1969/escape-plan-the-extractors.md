@@ -1,6 +1,6 @@
 # Escape Plan: The Extractors
 
-[Compare across authors](../../compare/?t=film-escape-plan-the-extractors_480042)
+[Compare across authors](../compare/index.md?t=film-escape-plan-the-extractors_480042)
 
 ## DTS-HD MA 5.1
 

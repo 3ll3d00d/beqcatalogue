@@ -1,6 +1,6 @@
 # Syriana
 
-[Compare across authors](../../compare/?t=film-syriana_231)
+[Compare across authors](../compare/index.md?t=film-syriana_231)
 
 ## DD 5.1
 

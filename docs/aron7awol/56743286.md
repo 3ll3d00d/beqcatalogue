@@ -1,6 +1,6 @@
 # American Sniper
 
-[Compare across authors](../../compare/?t=film-american-sniper_190859)
+[Compare across authors](../compare/index.md?t=film-american-sniper_190859)
 
 ## Atmos
 

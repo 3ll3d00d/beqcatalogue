@@ -1,6 +1,6 @@
 # Blame
 
-[Compare across authors](../../compare/?t=film-blame_422128)
+[Compare across authors](../compare/index.md?t=film-blame_422128)
 
 ## DD+ 2.0
 

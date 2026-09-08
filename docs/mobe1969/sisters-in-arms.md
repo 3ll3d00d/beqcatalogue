@@ -1,6 +1,6 @@
 # Sisters in Arms
 
-[Compare across authors](../../compare/?t=film-sisters-in-arms_618326)
+[Compare across authors](../compare/index.md?t=film-sisters-in-arms_618326)
 
 ## DTS-HD MA 5.1
 

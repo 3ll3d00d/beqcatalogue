@@ -1,6 +1,6 @@
 # Open 24 Hours
 
-[Compare across authors](../../compare/?t=film-open-24-hours_532638)
+[Compare across authors](../compare/index.md?t=film-open-24-hours_532638)
 
 ## DTS-HD MA 5.1
 

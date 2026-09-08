@@ -7,7 +7,7 @@
 When the body of Army Capt. Elisabeth Campbell is found on a Georgia military base, two investigators, Warrant Officers Paul Brenner and Sara Sunhill, are ordered to solve her murder. What they uncover is anything but clear-cut. Unseemly details emerge about Campbell's life, leading to allegations of a possible military coverup of her death and the involvement of her father, Lt. Gen. Joseph Campbell.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/2275)  [Compare across authors](../../compare/?t=film-the-generals-daughter_2275)
+[TMDB](https://www.themoviedb.org/movie/2275)  [Compare across authors](../compare/index.md?t=film-the-generals-daughter_2275)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/The%20Generals%20Daughter%20(1999)%20DTS-HD%20MA%205.1.jpg)

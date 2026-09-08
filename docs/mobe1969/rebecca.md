@@ -1,6 +1,6 @@
 # Rebecca
 
-[Compare across authors](../../compare/?t=film-rebecca_505379)
+[Compare across authors](../compare/index.md?t=film-rebecca_505379)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # The Tenants Downstairs
 
-[Compare across authors](../../compare/?t=film-the-tenants-downstairs_403032)
+[Compare across authors](../compare/index.md?t=film-the-tenants-downstairs_403032)
 
 ## TrueHD 5.1
 

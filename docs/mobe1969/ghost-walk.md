@@ -1,6 +1,6 @@
 # Ghost Walk
 
-[Compare across authors](../../compare/?t=film-ghost-walk_541682)
+[Compare across authors](../compare/index.md?t=film-ghost-walk_541682)
 
 ## DD+ 2.0
 

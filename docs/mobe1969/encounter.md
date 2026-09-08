@@ -1,6 +1,6 @@
 # Encounter
 
-[Compare across authors](../../compare/?t=film-encounter_529483)
+[Compare across authors](../compare/index.md?t=film-encounter_529483)
 
 ## DD 5.1
 

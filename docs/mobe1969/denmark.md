@@ -1,6 +1,6 @@
 # Denmark
 
-[Compare across authors](../../compare/?t=film-denmark_489162)
+[Compare across authors](../compare/index.md?t=film-denmark_489162)
 
 ## DD+ 5.1
 

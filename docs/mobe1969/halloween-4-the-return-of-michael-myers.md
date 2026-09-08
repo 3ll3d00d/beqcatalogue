@@ -1,6 +1,6 @@
 # Halloween 4: The Return of Michael Myers
 
-[Compare across authors](../../compare/?t=film-halloween-4-the-return-of-michael-myers_11357)
+[Compare across authors](../compare/index.md?t=film-halloween-4-the-return-of-michael-myers_11357)
 
 ## Atmos
 

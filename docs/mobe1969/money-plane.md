@@ -1,6 +1,6 @@
 # Money Plane
 
-[Compare across authors](../../compare/?t=film-money-plane_694919)
+[Compare across authors](../compare/index.md?t=film-money-plane_694919)
 
 ## DD+ 5.1
 

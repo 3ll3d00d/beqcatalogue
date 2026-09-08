@@ -1,6 +1,6 @@
 # Stretch
 
-[Compare across authors](../../compare/?t=film-stretch_227300)
+[Compare across authors](../compare/index.md?t=film-stretch_227300)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Traitor
 
-[Compare across authors](../../compare/?t=film-traitor_13291)
+[Compare across authors](../compare/index.md?t=film-traitor_13291)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # After the Sunset
 
-[Compare across authors](../../compare/?t=film-after-the-sunset_10589)
+[Compare across authors](../compare/index.md?t=film-after-the-sunset_10589)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Ludo
 
-[Compare across authors](../../compare/?t=film-ludo_658412)
+[Compare across authors](../compare/index.md?t=film-ludo_658412)
 
 ## DD+ 5.1
 

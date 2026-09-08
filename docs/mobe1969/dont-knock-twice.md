@@ -1,6 +1,6 @@
 # Don't Knock Twice
 
-[Compare across authors](../../compare/?t=film-dont-knock-twice_420245)
+[Compare across authors](../compare/index.md?t=film-dont-knock-twice_420245)
 
 ## DTS-HD MA 5.1
 

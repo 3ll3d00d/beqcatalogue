@@ -9,7 +9,7 @@ In the ruins of a strange city, a young girl takes care of a large egg she holds
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1688?post_id=64354473#post-64354473)  [TMDB](https://www.themoviedb.org/movie/15916)  [Compare across authors](../../compare/?t=film-angels-egg_15916)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1688?post_id=64354473#post-64354473)  [TMDB](https://www.themoviedb.org/movie/15916)  [Compare across authors](../compare/index.md?t=film-angels-egg_15916)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Angel's%20Egg%20(1985)%20(%2B3.5%20gain)%20JA%20DTS-HD%20MA%205.1.jpg)

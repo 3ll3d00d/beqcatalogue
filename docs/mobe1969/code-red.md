@@ -1,6 +1,6 @@
 # Code Red
 
-[Compare across authors](../../compare/?t=film-code-red_252455)
+[Compare across authors](../compare/index.md?t=film-code-red_252455)
 
 ## DD+ 5.1
 

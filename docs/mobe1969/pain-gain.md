@@ -1,6 +1,6 @@
 # Pain & Gain
 
-[Compare across authors](../../compare/?t=film-pain-gain_134374)
+[Compare across authors](../compare/index.md?t=film-pain-gain_134374)
 
 ## TrueHD 7.1
 

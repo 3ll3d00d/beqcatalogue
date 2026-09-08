@@ -10,7 +10,7 @@ In 1942, a convoy of 35 civilian ships, carrying vital supplies from Iceland to 
 NO
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/983044)  [Compare across authors](../../compare/?t=film-convoy_983044)
+[TMDB](https://www.themoviedb.org/movie/983044)  [Compare across authors](../compare/index.md?t=film-convoy_983044)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Konvoi.2023.1080p.Blu-ray.Remux.AVC.DTS-HD.MA.5.1-SPHD_s1_5.1(side)_to_mono.jpg)

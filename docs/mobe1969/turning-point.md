@@ -1,6 +1,6 @@
 # Turning Point
 
-[Compare across authors](../../compare/?t=film-turning-point_44133)
+[Compare across authors](../compare/index.md?t=film-turning-point_44133)
 
 ## TrueHD 5.1
 

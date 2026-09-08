@@ -1,6 +1,6 @@
 # 13 Hours: The Secret Soldiers of Benghazi
 
-[Compare across authors](../../compare/?t=film-13-hours-the-secret-soldiers-of-benghazi_300671)
+[Compare across authors](../compare/index.md?t=film-13-hours-the-secret-soldiers-of-benghazi_300671)
 
 ## Atmos
 

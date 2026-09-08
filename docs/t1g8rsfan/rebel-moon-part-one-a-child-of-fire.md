@@ -10,7 +10,7 @@ When a peaceful colony on the edge of the galaxy finds itself threatened by the 
 +3dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63036232)  [TMDB](https://www.themoviedb.org/movie/848326)  [Compare across authors](../../compare/?t=film-rebel-moon-part-one-a-child-of-fire_848326)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63036232)  [TMDB](https://www.themoviedb.org/movie/848326)  [Compare across authors](../compare/index.md?t=film-rebel-moon-part-one-a-child-of-fire_848326)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Rebel%20Moon%20Pt1%20(2023)%20DD%2B%20Atmos%20PvA.jpg)

@@ -1,6 +1,6 @@
 # The Legacy of the Bones
 
-[Compare across authors](../../compare/?t=film-the-legacy-of-the-bones_613099)
+[Compare across authors](../compare/index.md?t=film-the-legacy-of-the-bones_613099)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Cold Skin
 
-[Compare across authors](../../compare/?t=film-cold-skin_428399)
+[Compare across authors](../compare/index.md?t=film-cold-skin_428399)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Victim
 
-[Compare across authors](../../compare/?t=film-victim_26499)
+[Compare across authors](../compare/index.md?t=film-victim_26499)
 
 ## TrueHD 5.1
 

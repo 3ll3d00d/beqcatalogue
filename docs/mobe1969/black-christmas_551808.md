@@ -1,6 +1,6 @@
 # Black Christmas
 
-[Compare across authors](../../compare/?t=film-black-christmas_551808)
+[Compare across authors](../compare/index.md?t=film-black-christmas_551808)
 
 ## DTS-HD MA 5.1
 

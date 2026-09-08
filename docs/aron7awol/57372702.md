@@ -1,6 +1,6 @@
 # The Mechanic
 
-[Compare across authors](../../compare/?t=film-the-mechanic_27582)
+[Compare across authors](../compare/index.md?t=film-the-mechanic_27582)
 
 ## DTS-HD MA 5.1
 

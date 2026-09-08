@@ -1,6 +1,6 @@
 # An Inspector Calls
 
-[Compare across authors](../../compare/?t=film-an-inspector-calls_334281)
+[Compare across authors](../compare/index.md?t=film-an-inspector-calls_334281)
 
 ## TrueHD 5.1
 

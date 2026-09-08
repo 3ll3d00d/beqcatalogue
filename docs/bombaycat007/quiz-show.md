@@ -12,7 +12,7 @@ Herbert Stempel's transformation into an unexpected television personality unfol
 (+7.5 MV Adjustment)
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/11450)  [Compare across authors](../../compare/?t=film-quiz-show_11450)
+[TMDB](https://www.themoviedb.org/movie/11450)  [Compare across authors](../compare/index.md?t=film-quiz-show_11450)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Quiz%20Show%20(1994)%20(%2B7.5%20Gain)%20AAC%205.1.png)

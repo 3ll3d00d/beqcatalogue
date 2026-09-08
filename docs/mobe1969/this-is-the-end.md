@@ -1,6 +1,6 @@
 # This Is the End
 
-[Compare across authors](../../compare/?t=film-this-is-the-end_109414)
+[Compare across authors](../compare/index.md?t=film-this-is-the-end_109414)
 
 ## DTS-HD MA 5.1
 

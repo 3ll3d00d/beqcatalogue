@@ -1,6 +1,6 @@
 # Husband Killers
 
-[Compare across authors](../../compare/?t=film-husband-killers_459254)
+[Compare across authors](../compare/index.md?t=film-husband-killers_459254)
 
 ## TrueHD 5.1
 

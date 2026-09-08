@@ -1,6 +1,6 @@
 # Green Book
 
-[Compare across authors](../../compare/?t=film-green-book_490132)
+[Compare across authors](../compare/index.md?t=film-green-book_490132)
 
 ## Atmos
 

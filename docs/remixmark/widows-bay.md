@@ -11,7 +11,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1747?post_id=64665206#post-64665206)
 
-* [Compare across authors](../../compare/?t=TV-widows-bay_270476)
+* [Compare across authors](../compare/index.md?t=TV-widows-bay_270476)
 
 * Production Year: 2026
 

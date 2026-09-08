@@ -1,6 +1,6 @@
 # Air Force The Movie: Selagi Bernyawa
 
-[Compare across authors](../../compare/?t=film-air-force-the-movie-selagi-bernyawa_988294)
+[Compare across authors](../compare/index.md?t=film-air-force-the-movie-selagi-bernyawa_988294)
 
 ## DD+ 5.1
 

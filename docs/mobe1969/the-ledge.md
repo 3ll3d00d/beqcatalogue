@@ -1,6 +1,6 @@
 # The Ledge
 
-[Compare across authors](../../compare/?t=film-the-ledge_924482)
+[Compare across authors](../compare/index.md?t=film-the-ledge_924482)
 
 ## DTS-HD MA 5.1
 

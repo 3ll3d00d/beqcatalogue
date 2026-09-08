@@ -1,6 +1,6 @@
 # My Bloody Valentine
 
-[Compare across authors](../../compare/?t=film-my-bloody-valentine_14435)
+[Compare across authors](../compare/index.md?t=film-my-bloody-valentine_14435)
 
 ## DTS-HD MA 7.1
 

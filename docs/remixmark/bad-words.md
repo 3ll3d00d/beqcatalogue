@@ -9,7 +9,7 @@ Forty-year-old misanthrope, Guy Trilby, enters the National Golden Quill Spellin
 
 **MV Adjustment:** +6.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1570?post_id=63904258#post-63904258)  [TMDB](https://www.themoviedb.org/movie/209403)  [Compare across authors](../../compare/?t=film-bad-words_209403)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1570?post_id=63904258#post-63904258)  [TMDB](https://www.themoviedb.org/movie/209403)  [Compare across authors](../compare/index.md?t=film-bad-words_209403)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Bad%20Words%20(2013)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1.jpg)

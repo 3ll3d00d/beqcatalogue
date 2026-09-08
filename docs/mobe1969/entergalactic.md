@@ -1,6 +1,6 @@
 # Entergalactic
 
-[Compare across authors](../../compare/?t=film-entergalactic_1027014)
+[Compare across authors](../compare/index.md?t=film-entergalactic_1027014)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # The Trip
 
-[Compare across authors](../../compare/?t=film-the-trip_760747)
+[Compare across authors](../compare/index.md?t=film-the-trip_760747)
 
 ## DD+ 5.1
 

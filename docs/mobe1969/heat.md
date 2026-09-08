@@ -1,6 +1,6 @@
 # Heat
 
-[Compare across authors](../../compare/?t=film-heat_949)
+[Compare across authors](../compare/index.md?t=film-heat_949)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

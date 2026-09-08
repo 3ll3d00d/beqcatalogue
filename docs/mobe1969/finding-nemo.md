@@ -1,6 +1,6 @@
 # Finding Nemo
 
-[Compare across authors](../../compare/?t=film-finding-nemo_12)
+[Compare across authors](../compare/index.md?t=film-finding-nemo_12)
 
 ## Atmos
 

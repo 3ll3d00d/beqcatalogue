@@ -1,6 +1,6 @@
 # The Mechanik
 
-[Compare across authors](../../compare/?t=film-the-mechanik_26116)
+[Compare across authors](../compare/index.md?t=film-the-mechanik_26116)
 
 ## DD+ 2.0
 

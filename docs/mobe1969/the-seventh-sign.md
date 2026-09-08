@@ -1,6 +1,6 @@
 # The Seventh Sign
 
-[Compare across authors](../../compare/?t=film-the-seventh-sign_11082)
+[Compare across authors](../compare/index.md?t=film-the-seventh-sign_11082)
 
 ## DD 2.0
 

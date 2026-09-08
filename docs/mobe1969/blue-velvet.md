@@ -1,6 +1,6 @@
 # Blue Velvet
 
-[Compare across authors](../../compare/?t=film-blue-velvet_793)
+[Compare across authors](../compare/index.md?t=film-blue-velvet_793)
 
 ## DTS-HD MA 5.1
 

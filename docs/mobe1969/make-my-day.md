@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-make-my-day_217710)
+[Compare across authors](../compare/index.md?t=TV-make-my-day_217710)
 
 ## Season 1
 

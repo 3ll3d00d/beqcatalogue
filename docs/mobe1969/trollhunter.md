@@ -1,6 +1,6 @@
 # Trollhunter
 
-[Compare across authors](../../compare/?t=film-trollhunter_46146)
+[Compare across authors](../compare/index.md?t=film-trollhunter_46146)
 
 ## DTS-HD MA 5.1
 

@@ -9,7 +9,7 @@ Limited Edition UHD
 A young man believes that his country's leaders are actually toxic reptilian aliens sent down to launch a takeover of his beloved Earth. So he decides to abduct them and force the truth out on camera in his basement that doubles as a film studio and torture chamber.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/11297)  [Compare across authors](../../compare/?t=film-save-the-green-planet_11297)
+[TMDB](https://www.themoviedb.org/movie/11297)  [Compare across authors](../compare/index.md?t=film-save-the-green-planet_11297)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Save%20the%20Green%20Planet!/Save%20the%20Green%20Planet!%20(2003)%20(ko)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # Ouija
 
-[Compare across authors](../../compare/?t=film-ouija_242512)
+[Compare across authors](../compare/index.md?t=film-ouija_242512)
 
 ## DTS-HD MA 5.1
 

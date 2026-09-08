@@ -7,7 +7,7 @@
 When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../../compare/?t=film-weapons_1078605)
+[TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../compare/index.md?t=film-weapons_1078605)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Weapons/Weapons%20(2025)%20Atmos.jpg)
@@ -21,7 +21,7 @@ When all but one child from the same class mysteriously vanish on the same night
 When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../../compare/?t=film-weapons_1078605)
+[TMDB](https://www.themoviedb.org/movie/1078605)  [Compare across authors](../compare/index.md?t=film-weapons_1078605)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Weapons/Weapons%20(2025)%20DD%2B%20Atmos.jpg)

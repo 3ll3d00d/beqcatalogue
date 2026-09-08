@@ -1,6 +1,6 @@
 # Nina of the Woods
 
-[Compare across authors](../../compare/?t=film-nina-of-the-woods_702292)
+[Compare across authors](../compare/index.md?t=film-nina-of-the-woods_702292)
 
 ## DD 5.1
 

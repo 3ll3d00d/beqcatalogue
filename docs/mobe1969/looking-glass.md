@@ -1,6 +1,6 @@
 # Looking Glass
 
-[Compare across authors](../../compare/?t=film-looking-glass_437375)
+[Compare across authors](../compare/index.md?t=film-looking-glass_437375)
 
 ## DTS-HD MA 5.1
 

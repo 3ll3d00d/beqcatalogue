@@ -1,6 +1,6 @@
 # Twin Peaks: Fire Walk with Me
 
-[Compare across authors](../../compare/?t=film-twin-peaks-fire-walk-with-me_1923)
+[Compare across authors](../compare/index.md?t=film-twin-peaks-fire-walk-with-me_1923)
 
 ## DTS-HD MA 7.1
 

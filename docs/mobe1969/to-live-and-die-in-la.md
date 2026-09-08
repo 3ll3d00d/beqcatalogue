@@ -1,6 +1,6 @@
 # To Live and Die in L.A.
 
-[Compare across authors](../../compare/?t=film-to-live-and-die-in-la_9846)
+[Compare across authors](../compare/index.md?t=film-to-live-and-die-in-la_9846)
 
 ## DTS-HD MA 5.1
 

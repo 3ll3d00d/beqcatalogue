@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-clickbait_129495)
+[Compare across authors](../compare/index.md?t=TV-clickbait_129495)
 
 ## Season 1
 

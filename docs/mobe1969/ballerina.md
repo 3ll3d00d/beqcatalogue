@@ -1,6 +1,6 @@
 # Ballerina
 
-[Compare across authors](../../compare/?t=film-ballerina_961268)
+[Compare across authors](../compare/index.md?t=film-ballerina_961268)
 
 ## DD+ Atmos
 

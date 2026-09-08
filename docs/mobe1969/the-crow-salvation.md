@@ -1,6 +1,6 @@
 # The Crow: Salvation
 
-[Compare across authors](../../compare/?t=film-the-crow-salvation_9456)
+[Compare across authors](../compare/index.md?t=film-the-crow-salvation_9456)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Library Wars: The Last Mission
 
-[Compare across authors](../../compare/?t=film-library-wars-the-last-mission_363354)
+[Compare across authors](../compare/index.md?t=film-library-wars-the-last-mission_363354)
 
 ## DTS-HD MA 5.1
 

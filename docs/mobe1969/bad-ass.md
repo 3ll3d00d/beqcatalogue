@@ -1,6 +1,6 @@
 # Bad Ass
 
-[Compare across authors](../../compare/?t=film-bad-ass_94380)
+[Compare across authors](../compare/index.md?t=film-bad-ass_94380)
 
 ## DTS-HD MA 5.1
 

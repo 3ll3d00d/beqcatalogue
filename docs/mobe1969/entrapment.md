@@ -1,6 +1,6 @@
 # Entrapment
 
-[Compare across authors](../../compare/?t=film-entrapment_1844)
+[Compare across authors](../compare/index.md?t=film-entrapment_1844)
 
 ## DD+ 5.1
 

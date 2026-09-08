@@ -1,6 +1,6 @@
 # The Chaperone
 
-[Compare across authors](../../compare/?t=film-the-chaperone_54557)
+[Compare across authors](../compare/index.md?t=film-the-chaperone_54557)
 
 ## DTS-HD MA 5.1
 

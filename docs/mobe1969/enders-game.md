@@ -1,6 +1,6 @@
 # Ender's Game
 
-[Compare across authors](../../compare/?t=film-enders-game_80274)
+[Compare across authors](../compare/index.md?t=film-enders-game_80274)
 
 ## Atmos
 

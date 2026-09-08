@@ -1,6 +1,6 @@
 # The Package
 
-[Compare across authors](../../compare/?t=film-the-package_146578)
+[Compare across authors](../compare/index.md?t=film-the-package_146578)
 
 ## TrueHD 5.1
 

@@ -9,7 +9,7 @@ Po is gearing up to become the spiritual leader of his Valley of Peace, but also
 
 **MV Adjustment:** +6.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1464?post_id=63333894#post-63333894)  [TMDB](https://www.themoviedb.org/movie/1011985)  [Compare across authors](../../compare/?t=film-kung-fu-panda-4_1011985)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1464?post_id=63333894#post-63333894)  [TMDB](https://www.themoviedb.org/movie/1011985)  [Compare across authors](../compare/index.md?t=film-kung-fu-panda-4_1011985)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Kung%20Fu%20Panda%204%20(%2B6.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Po is gearing up to become the spiritual leader of his Valley of Peace, but also
 +1dB Dialnorma Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1441#post-63273681)  [TMDB](https://www.themoviedb.org/movie/1011985)  [Compare across authors](../../compare/?t=film-kung-fu-panda-4_1011985)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1441#post-63273681)  [TMDB](https://www.themoviedb.org/movie/1011985)  [Compare across authors](../compare/index.md?t=film-kung-fu-panda-4_1011985)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/Kung%20Fu%20Panda%204%20(2024)%20(%2B6.5%20gain)%20DD%2B%20Atmos.jpg)

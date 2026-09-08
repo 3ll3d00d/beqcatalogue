@@ -1,6 +1,6 @@
 # V for Vendetta
 
-[Compare across authors](../../compare/?t=film-v-for-vendetta_752)
+[Compare across authors](../compare/index.md?t=film-v-for-vendetta_752)
 
 ## Atmos
 

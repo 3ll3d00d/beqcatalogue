@@ -9,7 +9,7 @@ After being coerced into working for a crime boss, a young getaway driver finds 
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/posts/62965044/)  [TMDB](https://www.themoviedb.org/movie/339403)  [Compare across authors](../../compare/?t=film-baby-driver_339403)
+[Discuss](https://www.avsforum.com/posts/62965044/)  [TMDB](https://www.themoviedb.org/movie/339403)  [Compare across authors](../compare/index.md?t=film-baby-driver_339403)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Baby%20Driver%20(2017)%20(-2%20gain)%20Atmos.jpg)

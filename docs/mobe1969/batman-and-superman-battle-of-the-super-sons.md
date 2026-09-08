@@ -1,6 +1,6 @@
 # Batman and Superman: Battle of the Super Sons
 
-[Compare across authors](../../compare/?t=film-batman-and-superman-battle-of-the-super-sons_886396)
+[Compare across authors](../compare/index.md?t=film-batman-and-superman-battle-of-the-super-sons_886396)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

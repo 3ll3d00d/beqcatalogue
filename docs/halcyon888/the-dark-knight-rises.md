@@ -9,7 +9,7 @@ Following the death of District Attorney Harvey Dent, Batman assumes responsibil
 
 **MV Adjustment:** -6.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/49026)  [Compare across authors](../../compare/?t=film-the-dark-knight-rises_49026)
+[TMDB](https://www.themoviedb.org/movie/49026)  [Compare across authors](../compare/index.md?t=film-the-dark-knight-rises_49026)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Dark%20Knight%20Rises%20(2012)%20DTS-HD%20MA%205.1%20PvA.jpg)

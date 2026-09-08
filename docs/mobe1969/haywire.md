@@ -1,6 +1,6 @@
 # Haywire
 
-[Compare across authors](../../compare/?t=film-haywire_70435)
+[Compare across authors](../compare/index.md?t=film-haywire_70435)
 
 ## DTS-HD MA 5.1
 

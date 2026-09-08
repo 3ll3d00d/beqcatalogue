@@ -1,6 +1,6 @@
 # Overheard 3
 
-[Compare across authors](../../compare/?t=film-overheard-3_262137)
+[Compare across authors](../compare/index.md?t=film-overheard-3_262137)
 
 ## Atmos
 

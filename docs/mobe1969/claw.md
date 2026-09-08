@@ -1,6 +1,6 @@
 # Claw
 
-[Compare across authors](../../compare/?t=film-claw_736506)
+[Compare across authors](../compare/index.md?t=film-claw_736506)
 
 ## DD+ 5.1
 

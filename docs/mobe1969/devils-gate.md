@@ -1,6 +1,6 @@
 # Devil's Gate
 
-[Compare across authors](../../compare/?t=film-devils-gate_355193)
+[Compare across authors](../compare/index.md?t=film-devils-gate_355193)
 
 ## DD+ 5.1
 

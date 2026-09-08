@@ -1,6 +1,6 @@
 # The Killer Inside Me
 
-[Compare across authors](../../compare/?t=film-the-killer-inside-me_37414)
+[Compare across authors](../compare/index.md?t=film-the-killer-inside-me_37414)
 
 ## DTS-HD MA 5.1
 

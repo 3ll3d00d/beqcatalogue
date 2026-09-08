@@ -1,6 +1,6 @@
 # The Hurricane Heist
 
-[Compare across authors](../../compare/?t=film-the-hurricane-heist_430040)
+[Compare across authors](../compare/index.md?t=film-the-hurricane-heist_430040)
 
 ## Atmos
 

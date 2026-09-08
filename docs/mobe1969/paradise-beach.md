@@ -1,6 +1,6 @@
 # Paradise Beach
 
-[Compare across authors](../../compare/?t=film-paradise-beach_571650)
+[Compare across authors](../compare/index.md?t=film-paradise-beach_571650)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Aliens
 
-[Compare across authors](../../compare/?t=film-aliens_679)
+[Compare across authors](../compare/index.md?t=film-aliens_679)
 
 ## DTS-HD MA 5.1
 

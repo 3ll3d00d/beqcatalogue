@@ -1,6 +1,6 @@
 # The Eliminator
 
-[Compare across authors](../../compare/?t=film-the-eliminator_48454)
+[Compare across authors](../compare/index.md?t=film-the-eliminator_48454)
 
 ## DD+ 2.0
 

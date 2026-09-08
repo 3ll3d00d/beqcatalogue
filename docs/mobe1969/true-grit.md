@@ -1,6 +1,6 @@
 # True Grit
 
-[Compare across authors](../../compare/?t=film-true-grit_44264)
+[Compare across authors](../compare/index.md?t=film-true-grit_44264)
 
 ## DTS-HD MA 5.1
 

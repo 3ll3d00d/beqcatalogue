@@ -1,6 +1,6 @@
 # A Private War
 
-[Compare across authors](../../compare/?t=film-a-private-war_475132)
+[Compare across authors](../compare/index.md?t=film-a-private-war_475132)
 
 ## DTS-HD MA 5.1
 

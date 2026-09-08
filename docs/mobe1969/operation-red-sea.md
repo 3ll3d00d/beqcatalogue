@@ -1,6 +1,6 @@
 # Operation Red Sea
 
-[Compare across authors](../../compare/?t=film-operation-red-sea_460555)
+[Compare across authors](../compare/index.md?t=film-operation-red-sea_460555)
 
 ## DTS-X
 

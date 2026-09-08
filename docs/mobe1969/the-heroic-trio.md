@@ -1,6 +1,6 @@
 # The Heroic Trio
 
-[Compare across authors](../../compare/?t=film-the-heroic-trio_43636)
+[Compare across authors](../compare/index.md?t=film-the-heroic-trio_43636)
 
 ## DTS-HD MA 5.1
 

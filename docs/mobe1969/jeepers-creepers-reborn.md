@@ -1,6 +1,6 @@
 # Jeepers Creepers: Reborn
 
-[Compare across authors](../../compare/?t=film-jeepers-creepers-reborn_717728)
+[Compare across authors](../compare/index.md?t=film-jeepers-creepers-reborn_717728)
 
 ## DTS-HD MA 5.1
 

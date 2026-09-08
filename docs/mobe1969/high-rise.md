@@ -1,6 +1,6 @@
 # High-Rise
 
-[Compare across authors](../../compare/?t=film-high-rise_254302)
+[Compare across authors](../compare/index.md?t=film-high-rise_254302)
 
 ## DTS-HD MA 5.1
 

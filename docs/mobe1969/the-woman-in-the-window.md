@@ -1,6 +1,6 @@
 # The Woman in the Window
 
-[Compare across authors](../../compare/?t=film-the-woman-in-the-window_520663)
+[Compare across authors](../compare/index.md?t=film-the-woman-in-the-window_520663)
 
 ## DD+ Atmos, DD+ 5.1
 

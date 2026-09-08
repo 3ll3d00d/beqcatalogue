@@ -1,6 +1,6 @@
 # Dongalunnaru Jagratha
 
-[Compare across authors](../../compare/?t=film-dongalunnaru-jagratha_982447)
+[Compare across authors](../compare/index.md?t=film-dongalunnaru-jagratha_982447)
 
 ## DD+ 5.1
 

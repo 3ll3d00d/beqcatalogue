@@ -1,6 +1,6 @@
 # The King of Staten Island
 
-[Compare across authors](../../compare/?t=film-the-king-of-staten-island_579583)
+[Compare across authors](../compare/index.md?t=film-the-king-of-staten-island_579583)
 
 ## Atmos
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-murdoch-mysteries_12786)
+* [Compare across authors](../compare/index.md?t=TV-murdoch-mysteries_12786)
 
 * Production Year: 2008
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-murdoch-mysteries_12786)
+* [Compare across authors](../compare/index.md?t=TV-murdoch-mysteries_12786)
 
 * Production Year: 2008
 

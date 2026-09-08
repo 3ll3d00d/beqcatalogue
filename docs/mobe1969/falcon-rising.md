@@ -1,6 +1,6 @@
 # Falcon Rising
 
-[Compare across authors](../../compare/?t=film-falcon-rising_270938)
+[Compare across authors](../compare/index.md?t=film-falcon-rising_270938)
 
 ## DTS-HD MA 5.1
 

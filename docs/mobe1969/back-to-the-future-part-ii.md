@@ -1,6 +1,6 @@
 # Back to the Future Part II
 
-[Compare across authors](../../compare/?t=film-back-to-the-future-part-ii_165)
+[Compare across authors](../compare/index.md?t=film-back-to-the-future-part-ii_165)
 
 ## DTS-HD MA 5.1
 

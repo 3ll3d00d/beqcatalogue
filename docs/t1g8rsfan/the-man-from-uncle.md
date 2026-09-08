@@ -9,7 +9,7 @@ At the height of the Cold War, a mysterious criminal organization plans to use n
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62745312)  [TMDB](https://www.themoviedb.org/movie/203801)  [Compare across authors](../../compare/?t=film-the-man-from-uncle_203801)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62745312)  [TMDB](https://www.themoviedb.org/movie/203801)  [Compare across authors](../compare/index.md?t=film-the-man-from-uncle_203801)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Man%20from%20U.N.C.L.E.%20(2015)%20(-1%20gain)%20Atmos.jpg)

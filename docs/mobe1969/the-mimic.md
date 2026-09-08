@@ -1,6 +1,6 @@
 # The Mimic
 
-[Compare across authors](../../compare/?t=film-the-mimic_437108)
+[Compare across authors](../compare/index.md?t=film-the-mimic_437108)
 
 ## DTS-HD MA 5.1
 

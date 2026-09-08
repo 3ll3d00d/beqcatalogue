@@ -1,6 +1,6 @@
 # Detective K: Secret of Virtuous Widow
 
-[Compare across authors](../../compare/?t=film-detective-k-secret-of-virtuous-widow_64931)
+[Compare across authors](../compare/index.md?t=film-detective-k-secret-of-virtuous-widow_64931)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Spy Kids
 
-[Compare across authors](../../compare/?t=film-spy-kids_10054)
+[Compare across authors](../compare/index.md?t=film-spy-kids_10054)
 
 ## DTS-HD MA 5.1
 

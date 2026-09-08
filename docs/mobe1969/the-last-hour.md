@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-last-hour_125481)
+[Compare across authors](../compare/index.md?t=TV-the-last-hour_125481)
 
 ## Season 1
 

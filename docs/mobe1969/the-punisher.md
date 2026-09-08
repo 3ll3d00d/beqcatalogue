@@ -1,6 +1,6 @@
 # The Punisher
 
-[Compare across authors](../../compare/?t=film-the-punisher_8867)
+[Compare across authors](../compare/index.md?t=film-the-punisher_8867)
 
 ## DTS-HD MA 5.1
 

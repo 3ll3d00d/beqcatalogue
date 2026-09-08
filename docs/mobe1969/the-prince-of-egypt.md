@@ -1,6 +1,6 @@
 # The Prince of Egypt
 
-[Compare across authors](../../compare/?t=film-the-prince-of-egypt_9837)
+[Compare across authors](../compare/index.md?t=film-the-prince-of-egypt_9837)
 
 ## DTS-X
 

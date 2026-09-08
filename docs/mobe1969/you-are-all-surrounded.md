@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-you-are-all-surrounded_61173)
+[Compare across authors](../compare/index.md?t=TV-you-are-all-surrounded_61173)
 
 ## Season 1
 

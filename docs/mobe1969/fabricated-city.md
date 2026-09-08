@@ -1,6 +1,6 @@
 # Fabricated City
 
-[Compare across authors](../../compare/?t=film-fabricated-city_435366)
+[Compare across authors](../compare/index.md?t=film-fabricated-city_435366)
 
 ## TrueHD 5.1
 

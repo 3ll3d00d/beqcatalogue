@@ -1,6 +1,6 @@
 # The Fourth Kind
 
-[Compare across authors](../../compare/?t=film-the-fourth-kind_22824)
+[Compare across authors](../compare/index.md?t=film-the-fourth-kind_22824)
 
 ## DTS-HD MA 5.1
 

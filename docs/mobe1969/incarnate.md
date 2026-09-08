@@ -1,6 +1,6 @@
 # Incarnate
 
-[Compare across authors](../../compare/?t=film-incarnate_241258)
+[Compare across authors](../compare/index.md?t=film-incarnate_241258)
 
 ## DTS-HD MA 5.1
 

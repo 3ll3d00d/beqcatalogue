@@ -1,6 +1,6 @@
 # Gangster Payday
 
-[Compare across authors](../../compare/?t=film-gangster-payday_294991)
+[Compare across authors](../compare/index.md?t=film-gangster-payday_294991)
 
 ## DTS-HD MA 5.1
 

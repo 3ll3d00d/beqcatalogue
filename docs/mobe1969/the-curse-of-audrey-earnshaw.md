@@ -1,6 +1,6 @@
 # The Curse of Audrey Earnshaw
 
-[Compare across authors](../../compare/?t=film-the-curse-of-audrey-earnshaw_688343)
+[Compare across authors](../compare/index.md?t=film-the-curse-of-audrey-earnshaw_688343)
 
 ## DD+ 5.1
 

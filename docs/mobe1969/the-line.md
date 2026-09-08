@@ -1,6 +1,6 @@
 # The Line
 
-[Compare across authors](../../compare/?t=film-the-line_17334)
+[Compare across authors](../compare/index.md?t=film-the-line_17334)
 
 ## DTS-HD MA 5.1
 

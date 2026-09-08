@@ -1,6 +1,6 @@
 # The Great Alaskan Race
 
-[Compare across authors](../../compare/?t=film-the-great-alaskan-race_543025)
+[Compare across authors](../compare/index.md?t=film-the-great-alaskan-race_543025)
 
 ## DD+ 5.1
 

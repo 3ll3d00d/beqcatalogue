@@ -1,6 +1,6 @@
 # Nurse 3-D
 
-[Compare across authors](../../compare/?t=film-nurse-3-d_78383)
+[Compare across authors](../compare/index.md?t=film-nurse-3-d_78383)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Ek Villain
 
-[Compare across authors](../../compare/?t=film-ek-villain_276935)
+[Compare across authors](../compare/index.md?t=film-ek-villain_276935)
 
 ## DD 5.1
 

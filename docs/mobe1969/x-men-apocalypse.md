@@ -1,6 +1,6 @@
 # X-Men: Apocalypse
 
-[Compare across authors](../../compare/?t=film-x-men-apocalypse_246655)
+[Compare across authors](../compare/index.md?t=film-x-men-apocalypse_246655)
 
 ## Atmos, DTS-HD MA 7.1
 

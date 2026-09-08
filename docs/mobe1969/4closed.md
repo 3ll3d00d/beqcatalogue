@@ -1,6 +1,6 @@
 # 4Closed
 
-[Compare across authors](../../compare/?t=film-4closed_223899)
+[Compare across authors](../compare/index.md?t=film-4closed_223899)
 
 ## DD+ 5.1
 

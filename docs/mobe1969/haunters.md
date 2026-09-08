@@ -1,6 +1,6 @@
 # Haunters
 
-[Compare across authors](../../compare/?t=film-haunters_68252)
+[Compare across authors](../compare/index.md?t=film-haunters_68252)
 
 ## DTS-HD MA 5.1
 

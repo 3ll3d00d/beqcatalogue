@@ -1,6 +1,6 @@
 # Last Action Hero
 
-[Compare across authors](../../compare/?t=film-last-action-hero_9593)
+[Compare across authors](../compare/index.md?t=film-last-action-hero_9593)
 
 ## Atmos
 

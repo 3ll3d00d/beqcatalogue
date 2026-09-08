@@ -1,6 +1,6 @@
 # The Discovery
 
-[Compare across authors](../../compare/?t=film-the-discovery_376134)
+[Compare across authors](../compare/index.md?t=film-the-discovery_376134)
 
 ## DD+ 5.1
 

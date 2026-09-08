@@ -1,6 +1,6 @@
 # D-Day
 
-[Compare across authors](../../compare/?t=film-d-day_206851)
+[Compare across authors](../compare/index.md?t=film-d-day_206851)
 
 ## TrueHD 5.1, DTS-HD MA 5.1
 

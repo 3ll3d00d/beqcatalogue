@@ -1,6 +1,6 @@
 # Bright: Samurai Soul
 
-[Compare across authors](../../compare/?t=film-bright-samurai-soul_839100)
+[Compare across authors](../compare/index.md?t=film-bright-samurai-soul_839100)
 
 ## DD+ Atmos, DD+ 5.1
 

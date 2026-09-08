@@ -1,6 +1,6 @@
 # Bodies Bodies Bodies
 
-[Compare across authors](../../compare/?t=film-bodies-bodies-bodies_520023)
+[Compare across authors](../compare/index.md?t=film-bodies-bodies-bodies_520023)
 
 ## Atmos
 

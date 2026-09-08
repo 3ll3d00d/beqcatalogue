@@ -1,6 +1,6 @@
 # The Bridge on the River Kwai
 
-[Compare across authors](../../compare/?t=film-the-bridge-on-the-river-kwai_826)
+[Compare across authors](../compare/index.md?t=film-the-bridge-on-the-river-kwai_826)
 
 ## Atmos
 

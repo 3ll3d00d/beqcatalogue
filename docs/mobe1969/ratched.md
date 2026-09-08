@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ratched_81354)
+[Compare across authors](../compare/index.md?t=TV-ratched_81354)
 
 ## Season 1
 

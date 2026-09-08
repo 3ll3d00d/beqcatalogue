@@ -1,6 +1,6 @@
 # The Postcard Killings
 
-[Compare across authors](../../compare/?t=film-the-postcard-killings_449756)
+[Compare across authors](../compare/index.md?t=film-the-postcard-killings_449756)
 
 ## DTS-HD MA 5.1
 

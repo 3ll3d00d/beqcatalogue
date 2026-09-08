@@ -1,6 +1,6 @@
 # A Frozen Flower
 
-[Compare across authors](../../compare/?t=film-a-frozen-flower_17903)
+[Compare across authors](../compare/index.md?t=film-a-frozen-flower_17903)
 
 ## DTS-HD MA 5.1
 

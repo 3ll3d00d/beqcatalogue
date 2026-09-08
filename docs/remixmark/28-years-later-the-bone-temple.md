@@ -9,7 +9,7 @@ Dr. Kelson finds himself in a shocking new relationship - with consequences that
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1733?post_id=64567887#post-64567887)  [TMDB](https://www.themoviedb.org/movie/1272837)  [Compare across authors](../../compare/?t=film-28-years-later-the-bone-temple_1272837)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1733?post_id=64567887#post-64567887)  [TMDB](https://www.themoviedb.org/movie/1272837)  [Compare across authors](../compare/index.md?t=film-28-years-later-the-bone-temple_1272837)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/28%20Years%20Later%20The%20Bone%20Temple%20(2026)%20(-2.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Dr. Kelson finds himself in a shocking new relationship - with consequences that
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1714?post_id=64474501#post-64474501)  [TMDB](https://www.themoviedb.org/movie/1272837)  [Compare across authors](../../compare/?t=film-28-years-later-the-bone-temple_1272837)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1714?post_id=64474501#post-64474501)  [TMDB](https://www.themoviedb.org/movie/1272837)  [Compare across authors](../compare/index.md?t=film-28-years-later-the-bone-temple_1272837)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/28%20Years%20Later%20The%20Bone%20Temple%20(2026)%20(-2.5%20gain)%20DD%2B%20Atmos.jpg)

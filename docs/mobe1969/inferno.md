@@ -1,6 +1,6 @@
 # Inferno
 
-[Compare across authors](../../compare/?t=film-inferno_10908)
+[Compare across authors](../compare/index.md?t=film-inferno_10908)
 
 ## DTS-HD MA 5.1
 

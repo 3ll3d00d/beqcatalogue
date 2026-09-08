@@ -1,6 +1,6 @@
 # Pig
 
-[Compare across authors](../../compare/?t=film-pig_635731)
+[Compare across authors](../compare/index.md?t=film-pig_635731)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Fast & Furious
 
-[Compare across authors](../../compare/?t=film-fast-furious_13804)
+[Compare across authors](../compare/index.md?t=film-fast-furious_13804)
 
 ## DTS-HD MA 5.1
 

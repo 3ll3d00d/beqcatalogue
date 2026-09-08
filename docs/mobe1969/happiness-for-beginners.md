@@ -1,6 +1,6 @@
 # Happiness for Beginners
 
-[Compare across authors](../../compare/?t=film-happiness-for-beginners_881209)
+[Compare across authors](../compare/index.md?t=film-happiness-for-beginners_881209)
 
 ## DD+ Atmos
 

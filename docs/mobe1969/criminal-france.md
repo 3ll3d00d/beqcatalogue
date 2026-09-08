@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-criminal-france_93888)
+[Compare across authors](../compare/index.md?t=TV-criminal-france_93888)
 
 ## Season 1
 

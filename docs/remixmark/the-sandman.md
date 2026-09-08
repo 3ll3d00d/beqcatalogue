@@ -14,7 +14,7 @@ Dialnorm Compensation: 1,2-5dB 3-4dB 4,5,6-3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1614?post_id=64078911#post-64078911)
 
-* [Compare across authors](../../compare/?t=TV-the-sandman_90802)
+* [Compare across authors](../compare/index.md?t=TV-the-sandman_90802)
 
 * Production Year: 2022
 
@@ -33,7 +33,7 @@ Dialnorm Compensation: 7,9-3dB 8,11-2dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1620?post_id=64111650#post-64111650)
 
-* [Compare across authors](../../compare/?t=TV-the-sandman_90802)
+* [Compare across authors](../compare/index.md?t=TV-the-sandman_90802)
 
 * Production Year: 2022
 
@@ -52,7 +52,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1620?post_id=64111671#post-64111671)
 
-* [Compare across authors](../../compare/?t=TV-the-sandman_90802)
+* [Compare across authors](../compare/index.md?t=TV-the-sandman_90802)
 
 * Production Year: 2022
 

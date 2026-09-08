@@ -1,6 +1,6 @@
 # Escaflowne
 
-[Compare across authors](../../compare/?t=film-escaflowne_16990)
+[Compare across authors](../compare/index.md?t=film-escaflowne_16990)
 
 ## TrueHD 5.1
 

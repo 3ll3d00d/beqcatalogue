@@ -1,6 +1,6 @@
 # Don't Worry Darling
 
-[Compare across authors](../../compare/?t=film-dont-worry-darling_619730)
+[Compare across authors](../compare/index.md?t=film-dont-worry-darling_619730)
 
 ## DD+ 5.1
 

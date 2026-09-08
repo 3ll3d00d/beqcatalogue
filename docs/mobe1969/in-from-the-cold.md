@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-in-from-the-cold_146173)
+[Compare across authors](../compare/index.md?t=TV-in-from-the-cold_146173)
 
 ## Season 1
 

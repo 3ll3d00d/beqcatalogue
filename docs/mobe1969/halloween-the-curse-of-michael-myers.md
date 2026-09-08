@@ -1,6 +1,6 @@
 # Halloween: The Curse of Michael Myers
 
-[Compare across authors](../../compare/?t=film-halloween-the-curse-of-michael-myers_10987)
+[Compare across authors](../compare/index.md?t=film-halloween-the-curse-of-michael-myers_10987)
 
 ## DTS-HD MA 5.1
 

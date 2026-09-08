@@ -1,6 +1,6 @@
 # Mat Kilau
 
-[Compare across authors](../../compare/?t=film-mat-kilau_988595)
+[Compare across authors](../compare/index.md?t=film-mat-kilau_988595)
 
 ## DD+ 5.1
 

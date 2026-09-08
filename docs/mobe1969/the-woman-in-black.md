@@ -1,6 +1,6 @@
 # The Woman in Black
 
-[Compare across authors](../../compare/?t=film-the-woman-in-black_65086)
+[Compare across authors](../compare/index.md?t=film-the-woman-in-black_65086)
 
 ## DTS-HD MA 5.1
 

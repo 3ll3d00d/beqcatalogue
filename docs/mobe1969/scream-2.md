@@ -1,6 +1,6 @@
 # Scream 2
 
-[Compare across authors](../../compare/?t=film-scream-2_4233)
+[Compare across authors](../compare/index.md?t=film-scream-2_4233)
 
 ## DTS-HD MA 5.1
 

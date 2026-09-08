@@ -1,6 +1,6 @@
 # AKA
 
-[Compare across authors](../../compare/?t=film-aka_1102776)
+[Compare across authors](../compare/index.md?t=film-aka_1102776)
 
 ## DD+ 5.1
 

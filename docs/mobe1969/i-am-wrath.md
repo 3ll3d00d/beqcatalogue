@@ -1,6 +1,6 @@
 # I Am Wrath
 
-[Compare across authors](../../compare/?t=film-i-am-wrath_332411)
+[Compare across authors](../compare/index.md?t=film-i-am-wrath_332411)
 
 ## DTS-HD MA 5.1
 

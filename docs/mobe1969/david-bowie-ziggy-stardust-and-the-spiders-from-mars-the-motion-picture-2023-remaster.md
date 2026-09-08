@@ -1,6 +1,6 @@
 # David Bowie Ziggy Stardust and The Spiders From Mars - The Motion Picture (2023 Remaster)
 
-[Compare across authors](../../compare/?t=film-david-bowie-ziggy-stardust-and-the-spiders-from-mars-the-motion-picture-2023-remaster_1165016)
+[Compare across authors](../compare/index.md?t=film-david-bowie-ziggy-stardust-and-the-spiders-from-mars-the-motion-picture-2023-remaster_1165016)
 
 ## DTS-HD MA 5.1
 

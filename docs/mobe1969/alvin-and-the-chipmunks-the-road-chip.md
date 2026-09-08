@@ -1,6 +1,6 @@
 # Alvin and the Chipmunks: The Road Chip
 
-[Compare across authors](../../compare/?t=film-alvin-and-the-chipmunks-the-road-chip_258509)
+[Compare across authors](../compare/index.md?t=film-alvin-and-the-chipmunks-the-road-chip_258509)
 
 ## DD+ 5.1
 

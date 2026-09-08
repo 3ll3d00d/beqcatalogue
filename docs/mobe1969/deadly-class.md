@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-deadly-class_75663)
+[Compare across authors](../compare/index.md?t=TV-deadly-class_75663)
 
 ## Season 1
 

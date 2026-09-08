@@ -1,6 +1,6 @@
 # Ratchet & Clank
 
-[Compare across authors](../../compare/?t=film-ratchet-clank_234004)
+[Compare across authors](../compare/index.md?t=film-ratchet-clank_234004)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Nausicaä of the Valley of the Wind
 
-[Compare across authors](../../compare/?t=film-nausicaa-of-the-valley-of-the-wind_81)
+[Compare across authors](../compare/index.md?t=film-nausicaa-of-the-valley-of-the-wind_81)
 
 ## LPCM 2.0
 

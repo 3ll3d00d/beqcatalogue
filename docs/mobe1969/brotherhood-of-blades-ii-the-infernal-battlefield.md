@@ -1,6 +1,6 @@
 # Brotherhood of Blades II: The Infernal Battlefield
 
-[Compare across authors](../../compare/?t=film-brotherhood-of-blades-ii-the-infernal-battlefield_457837)
+[Compare across authors](../compare/index.md?t=film-brotherhood-of-blades-ii-the-infernal-battlefield_457837)
 
 ## Atmos
 

@@ -9,7 +9,7 @@ Revisited-The Final Cut
 Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1966)  [Compare across authors](../../compare/?t=film-alexander_1966)
+[TMDB](https://www.themoviedb.org/movie/1966)  [Compare across authors](../compare/index.md?t=film-alexander_1966)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Alexander/Alexander%20Revisited%20-%20The%20Final%20Cut%20(2004)%20Atmos.jpg)

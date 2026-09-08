@@ -1,6 +1,6 @@
 # Night at the Eagle Inn
 
-[Compare across authors](../../compare/?t=film-night-at-the-eagle-inn_854529)
+[Compare across authors](../compare/index.md?t=film-night-at-the-eagle-inn_854529)
 
 ## DD 5.1
 

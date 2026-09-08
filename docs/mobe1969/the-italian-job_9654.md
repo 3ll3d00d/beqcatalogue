@@ -1,6 +1,6 @@
 # The Italian Job
 
-[Compare across authors](../../compare/?t=film-the-italian-job_9654)
+[Compare across authors](../compare/index.md?t=film-the-italian-job_9654)
 
 ## DD 5.1
 

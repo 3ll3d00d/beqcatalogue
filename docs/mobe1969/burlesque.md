@@ -1,6 +1,6 @@
 # Burlesque
 
-[Compare across authors](../../compare/?t=film-burlesque_42297)
+[Compare across authors](../compare/index.md?t=film-burlesque_42297)
 
 ## DTS-HD MA 5.1
 

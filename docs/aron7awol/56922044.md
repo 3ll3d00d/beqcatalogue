@@ -1,6 +1,6 @@
 # Resident Evil: The Final Chapter
 
-[Compare across authors](../../compare/?t=film-resident-evil-the-final-chapter_173897)
+[Compare across authors](../compare/index.md?t=film-resident-evil-the-final-chapter_173897)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Hangman
 
-[Compare across authors](../../compare/?t=film-hangman_323368)
+[Compare across authors](../compare/index.md?t=film-hangman_323368)
 
 ## DTS-HD MA 5.1
 

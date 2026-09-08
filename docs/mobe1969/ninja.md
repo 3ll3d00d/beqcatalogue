@@ -1,6 +1,6 @@
 # Ninja
 
-[Compare across authors](../../compare/?t=film-ninja_25602)
+[Compare across authors](../compare/index.md?t=film-ninja_25602)
 
 ## TrueHD 5.1
 

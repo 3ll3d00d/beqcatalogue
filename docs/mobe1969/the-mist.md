@@ -1,6 +1,6 @@
 # The Mist
 
-[Compare across authors](../../compare/?t=film-the-mist_5876)
+[Compare across authors](../compare/index.md?t=film-the-mist_5876)
 
 ## Atmos
 

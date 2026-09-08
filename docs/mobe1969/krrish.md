@@ -1,6 +1,6 @@
 # Krrish
 
-[Compare across authors](../../compare/?t=film-krrish_32740)
+[Compare across authors](../compare/index.md?t=film-krrish_32740)
 
 ## DD+ 5.1
 

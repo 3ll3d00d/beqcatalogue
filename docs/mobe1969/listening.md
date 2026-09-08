@@ -1,6 +1,6 @@
 # Listening
 
-[Compare across authors](../../compare/?t=film-listening_331592)
+[Compare across authors](../compare/index.md?t=film-listening_331592)
 
 ## DTS-HD MA 5.1
 

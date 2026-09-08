@@ -1,6 +1,6 @@
 # Titanic
 
-[Compare across authors](../../compare/?t=film-titanic_597)
+[Compare across authors](../compare/index.md?t=film-titanic_597)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Hercules
 
-[Compare across authors](../../compare/?t=film-hercules_184315)
+[Compare across authors](../compare/index.md?t=film-hercules_184315)
 
 ## DTS-HD MA 7.1
 

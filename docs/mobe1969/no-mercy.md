@@ -1,6 +1,6 @@
 # No Mercy
 
-[Compare across authors](../../compare/?t=film-no-mercy_569016)
+[Compare across authors](../compare/index.md?t=film-no-mercy_569016)
 
 ## DTS-HD MA 5.1
 

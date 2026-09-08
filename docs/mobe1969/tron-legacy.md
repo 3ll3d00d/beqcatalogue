@@ -1,6 +1,6 @@
 # TRON: Legacy
 
-[Compare across authors](../../compare/?t=film-tron-legacy_20526)
+[Compare across authors](../compare/index.md?t=film-tron-legacy_20526)
 
 ## DTS-HD MA 7.1
 

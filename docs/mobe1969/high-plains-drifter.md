@@ -1,6 +1,6 @@
 # High Plains Drifter
 
-[Compare across authors](../../compare/?t=film-high-plains-drifter_11901)
+[Compare across authors](../compare/index.md?t=film-high-plains-drifter_11901)
 
 ## DTS-HD MA 5.1
 

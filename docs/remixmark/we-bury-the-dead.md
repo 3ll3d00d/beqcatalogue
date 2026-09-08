@@ -9,7 +9,7 @@ After a catastrophic military disaster, the dead don't just rise—they hunt. Th
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1708?post_id=64451587#post-64451587)  [TMDB](https://www.themoviedb.org/movie/1198984)  [Compare across authors](../../compare/?t=film-we-bury-the-dead_1198984)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1708?post_id=64451587#post-64451587)  [TMDB](https://www.themoviedb.org/movie/1198984)  [Compare across authors](../compare/index.md?t=film-we-bury-the-dead_1198984)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/We%20Bury%20the%20Dead%20(2026)%20(%2B3%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ After a catastrophic military disaster, the dead don't just rise—they hunt. Th
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1723?post_id=64517368#post-64517368)  [TMDB](https://www.themoviedb.org/movie/1198984)  [Compare across authors](../../compare/?t=film-we-bury-the-dead_1198984)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1723?post_id=64517368#post-64517368)  [TMDB](https://www.themoviedb.org/movie/1198984)  [Compare across authors](../compare/index.md?t=film-we-bury-the-dead_1198984)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/We%20Bury%20the%20Dead%20(2026)%20(%2B2.5%20gain)%20DTS-HD%20MA%205.1.jpg)
@@ -43,7 +43,7 @@ After a catastrophic military disaster reanimates the dead, Ava searches for her
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1747?post_id=64664061#post-64664061)  [TMDB](https://www.themoviedb.org/movie/1198984)  [Compare across authors](../../compare/?t=film-we-bury-the-dead_1198984)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1747?post_id=64664061#post-64664061)  [TMDB](https://www.themoviedb.org/movie/1198984)  [Compare across authors](../compare/index.md?t=film-we-bury-the-dead_1198984)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/We%20Bury%20the%20Dead%20(2026)%20(%2B1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

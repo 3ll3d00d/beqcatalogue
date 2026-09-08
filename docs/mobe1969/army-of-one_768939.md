@@ -1,6 +1,6 @@
 # Army of One
 
-[Compare across authors](../../compare/?t=film-army-of-one_768939)
+[Compare across authors](../compare/index.md?t=film-army-of-one_768939)
 
 ## DD+ 2.0
 

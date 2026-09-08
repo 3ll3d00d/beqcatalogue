@@ -1,6 +1,6 @@
 # Blitz Patrollie
 
-[Compare across authors](../../compare/?t=film-blitz-patrollie_198444)
+[Compare across authors](../compare/index.md?t=film-blitz-patrollie_198444)
 
 ## DD+ 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-blockbuster_201874)
+[Compare across authors](../compare/index.md?t=TV-blockbuster_201874)
 
 ## Season 1
 

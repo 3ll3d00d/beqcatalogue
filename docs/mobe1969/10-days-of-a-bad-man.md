@@ -1,6 +1,6 @@
 # 10 Days of a Bad Man
 
-[Compare across authors](../../compare/?t=film-10-days-of-a-bad-man_1074262)
+[Compare across authors](../compare/index.md?t=film-10-days-of-a-bad-man_1074262)
 
 ## DD+ 5.1
 

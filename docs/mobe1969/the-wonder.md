@@ -1,6 +1,6 @@
 # The Wonder
 
-[Compare across authors](../../compare/?t=film-the-wonder_823766)
+[Compare across authors](../compare/index.md?t=film-the-wonder_823766)
 
 ## DD+ Atmos
 

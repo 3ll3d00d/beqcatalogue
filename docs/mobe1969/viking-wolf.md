@@ -1,6 +1,6 @@
 # Viking Wolf
 
-[Compare across authors](../../compare/?t=film-viking-wolf_788752)
+[Compare across authors](../compare/index.md?t=film-viking-wolf_788752)
 
 ## DD+ 5.1
 

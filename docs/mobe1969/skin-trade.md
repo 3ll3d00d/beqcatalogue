@@ -1,6 +1,6 @@
 # Skin Trade
 
-[Compare across authors](../../compare/?t=film-skin-trade_327833)
+[Compare across authors](../compare/index.md?t=film-skin-trade_327833)
 
 ## DTS-HD MA 5.1
 

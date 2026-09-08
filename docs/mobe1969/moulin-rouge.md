@@ -1,6 +1,6 @@
 # Moulin Rouge!
 
-[Compare across authors](../../compare/?t=film-moulin-rouge_824)
+[Compare across authors](../compare/index.md?t=film-moulin-rouge_824)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Crown Vic
 
-[Compare across authors](../../compare/?t=film-crown-vic_524659)
+[Compare across authors](../compare/index.md?t=film-crown-vic_524659)
 
 ## DTS-HD MA 5.1
 

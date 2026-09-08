@@ -1,6 +1,6 @@
 # The Devil's Backbone
 
-[Compare across authors](../../compare/?t=film-the-devils-backbone_1433)
+[Compare across authors](../compare/index.md?t=film-the-devils-backbone_1433)
 
 ## DTS-HD MA 5.1
 

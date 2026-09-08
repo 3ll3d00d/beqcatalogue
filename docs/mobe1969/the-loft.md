@@ -1,6 +1,6 @@
 # The Loft
 
-[Compare across authors](../../compare/?t=film-the-loft_72784)
+[Compare across authors](../compare/index.md?t=film-the-loft_72784)
 
 ## DTS-HD MA 5.1
 

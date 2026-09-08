@@ -1,6 +1,6 @@
 # A Bittersweet Life
 
-[Compare across authors](../../compare/?t=film-a-bittersweet-life_11344)
+[Compare across authors](../compare/index.md?t=film-a-bittersweet-life_11344)
 
 ## DTS-HD MA 5.1
 

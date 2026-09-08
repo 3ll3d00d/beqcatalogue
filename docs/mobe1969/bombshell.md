@@ -1,6 +1,6 @@
 # Bombshell
 
-[Compare across authors](../../compare/?t=film-bombshell_525661)
+[Compare across authors](../compare/index.md?t=film-bombshell_525661)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

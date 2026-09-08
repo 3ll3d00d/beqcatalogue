@@ -1,6 +1,6 @@
 # New Police Story
 
-[Compare across authors](../../compare/?t=film-new-police-story_11636)
+[Compare across authors](../compare/index.md?t=film-new-police-story_11636)
 
 ## DD 5.1
 

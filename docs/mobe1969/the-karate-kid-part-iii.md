@@ -1,6 +1,6 @@
 # The Karate Kid Part III
 
-[Compare across authors](../../compare/?t=film-the-karate-kid-part-iii_10495)
+[Compare across authors](../compare/index.md?t=film-the-karate-kid-part-iii_10495)
 
 ## Atmos
 

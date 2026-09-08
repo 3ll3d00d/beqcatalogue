@@ -1,6 +1,6 @@
 # Gods of Egypt
 
-[Compare across authors](../../compare/?t=film-gods-of-egypt_205584)
+[Compare across authors](../compare/index.md?t=film-gods-of-egypt_205584)
 
 ## DTS-X
 

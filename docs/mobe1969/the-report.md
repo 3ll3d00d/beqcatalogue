@@ -1,6 +1,6 @@
 # The Report
 
-[Compare across authors](../../compare/?t=film-the-report_524348)
+[Compare across authors](../compare/index.md?t=film-the-report_524348)
 
 ## DD+ 5.1
 

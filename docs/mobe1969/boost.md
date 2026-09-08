@@ -1,6 +1,6 @@
 # Boost
 
-[Compare across authors](../../compare/?t=film-boost_391484)
+[Compare across authors](../compare/index.md?t=film-boost_391484)
 
 ## DD+ 5.1
 

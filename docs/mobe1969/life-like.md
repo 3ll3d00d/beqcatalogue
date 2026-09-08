@@ -1,6 +1,6 @@
 # Life Like
 
-[Compare across authors](../../compare/?t=film-life-like_586707)
+[Compare across authors](../compare/index.md?t=film-life-like_586707)
 
 ## DD+ 5.1
 

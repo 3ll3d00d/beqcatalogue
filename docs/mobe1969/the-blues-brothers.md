@@ -1,6 +1,6 @@
 # The Blues Brothers
 
-[Compare across authors](../../compare/?t=film-the-blues-brothers_525)
+[Compare across authors](../compare/index.md?t=film-the-blues-brothers_525)
 
 ## DTS-X
 

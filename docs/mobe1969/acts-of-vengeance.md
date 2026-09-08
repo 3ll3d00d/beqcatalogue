@@ -1,6 +1,6 @@
 # Acts of Vengeance
 
-[Compare across authors](../../compare/?t=film-acts-of-vengeance_445954)
+[Compare across authors](../compare/index.md?t=film-acts-of-vengeance_445954)
 
 ## DTS-HD MA 5.1
 

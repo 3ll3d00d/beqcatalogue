@@ -1,6 +1,6 @@
 # 100% Wolf
 
-[Compare across authors](../../compare/?t=film-100-wolf_520946)
+[Compare across authors](../compare/index.md?t=film-100-wolf_520946)
 
 ## DD+ 5.1
 

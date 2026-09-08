@@ -1,6 +1,6 @@
 # Wrath of the Titans
 
-[Compare across authors](../../compare/?t=film-wrath-of-the-titans_57165)
+[Compare across authors](../compare/index.md?t=film-wrath-of-the-titans_57165)
 
 ## DTS-HD MA 5.1
 

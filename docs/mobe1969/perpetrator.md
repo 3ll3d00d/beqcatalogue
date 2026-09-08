@@ -1,6 +1,6 @@
 # Perpetrator
 
-[Compare across authors](../../compare/?t=film-perpetrator_1061656)
+[Compare across authors](../compare/index.md?t=film-perpetrator_1061656)
 
 ## DD+ 5.1
 

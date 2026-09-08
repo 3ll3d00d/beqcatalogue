@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-tale-of-the-nine-tailed_108284)
+[Compare across authors](../compare/index.md?t=TV-tale-of-the-nine-tailed_108284)
 
 ## Season 1
 

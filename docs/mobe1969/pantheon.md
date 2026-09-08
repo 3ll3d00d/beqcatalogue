@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-pantheon_195339)
+[Compare across authors](../compare/index.md?t=TV-pantheon_195339)
 
 ## Season 1
 

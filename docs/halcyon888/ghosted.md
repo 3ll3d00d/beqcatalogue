@@ -12,7 +12,7 @@ Salt-of-the-earth Cole falls head over heels for enigmatic Sadie — but then ma
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/868759)  [Compare across authors](../../compare/?t=film-ghosted_868759)
+[TMDB](https://www.themoviedb.org/movie/868759)  [Compare across authors](../compare/index.md?t=film-ghosted_868759)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/ghosted%202023%20PvA%20v2.jpg)

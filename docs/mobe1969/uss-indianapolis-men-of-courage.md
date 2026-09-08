@@ -1,6 +1,6 @@
 # USS Indianapolis: Men of Courage
 
-[Compare across authors](../../compare/?t=film-uss-indianapolis-men-of-courage_340945)
+[Compare across authors](../compare/index.md?t=film-uss-indianapolis-men-of-courage_340945)
 
 ## DTS-HD MA 5.1
 

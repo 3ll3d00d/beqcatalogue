@@ -9,7 +9,7 @@ After returning from her first space mission, astronaut Sam Walker is placed und
 
 **MV Adjustment:** +12.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1669?post_id=64262251#post-64262251)  [TMDB](https://www.themoviedb.org/movie/1086260)  [Compare across authors](../../compare/?t=film-the-astronaut_1086260)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1669?post_id=64262251#post-64262251)  [TMDB](https://www.themoviedb.org/movie/1086260)  [Compare across authors](../compare/index.md?t=film-the-astronaut_1086260)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Astronaut%20(2025)%20(%2B12.5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ After returning from her first space mission, astronaut Sam Walker is placed und
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1673?post_id=64279722#post-64279722)  [TMDB](https://www.themoviedb.org/movie/1086260)  [Compare across authors](../../compare/?t=film-the-astronaut_1086260)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1673?post_id=64279722#post-64279722)  [TMDB](https://www.themoviedb.org/movie/1086260)  [Compare across authors](../compare/index.md?t=film-the-astronaut_1086260)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Astronaut%20(2025)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

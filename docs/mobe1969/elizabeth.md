@@ -1,6 +1,6 @@
 # Elizabeth
 
-[Compare across authors](../../compare/?t=film-elizabeth_4518)
+[Compare across authors](../compare/index.md?t=film-elizabeth_4518)
 
 ## DTS-HD MA 5.1
 

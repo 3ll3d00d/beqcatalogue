@@ -1,6 +1,6 @@
 # The Good Liar
 
-[Compare across authors](../../compare/?t=film-the-good-liar_511322)
+[Compare across authors](../compare/index.md?t=film-the-good-liar_511322)
 
 ## DD 5.1
 

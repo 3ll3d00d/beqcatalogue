@@ -1,6 +1,6 @@
 # Shadow People
 
-[Compare across authors](../../compare/?t=film-shadow-people_176570)
+[Compare across authors](../compare/index.md?t=film-shadow-people_176570)
 
 ## TrueHD 5.1
 

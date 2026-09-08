@@ -1,6 +1,6 @@
 # Flight 7500
 
-[Compare across authors](../../compare/?t=film-flight-7500_82657)
+[Compare across authors](../compare/index.md?t=film-flight-7500_82657)
 
 ## DTS-HD MA 5.1
 

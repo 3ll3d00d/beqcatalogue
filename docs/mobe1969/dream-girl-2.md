@@ -1,6 +1,6 @@
 # Dream Girl 2
 
-[Compare across authors](../../compare/?t=film-dream-girl-2_1025067)
+[Compare across authors](../compare/index.md?t=film-dream-girl-2_1025067)
 
 ## DD+ 5.1
 

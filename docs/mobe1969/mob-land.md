@@ -1,6 +1,6 @@
 # Mob Land
 
-[Compare across authors](../../compare/?t=film-mob-land_979275)
+[Compare across authors](../compare/index.md?t=film-mob-land_979275)
 
 ## DD+ 5.1
 

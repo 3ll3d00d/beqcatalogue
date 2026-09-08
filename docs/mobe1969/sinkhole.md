@@ -1,6 +1,6 @@
 # Sinkhole
 
-[Compare across authors](../../compare/?t=film-sinkhole_623135)
+[Compare across authors](../compare/index.md?t=film-sinkhole_623135)
 
 ## DTS-HD MA 5.1
 

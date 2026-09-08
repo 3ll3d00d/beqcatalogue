@@ -7,7 +7,7 @@
 As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1439930)  [Compare across authors](../../compare/?t=film-the-punisher-one-last-kill_1439930)
+[TMDB](https://www.themoviedb.org/movie/1439930)  [Compare across authors](../compare/index.md?t=film-the-punisher-one-last-kill_1439930)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Punisher/The%20Punisher%20-%20One%20Last%20Kill%20(2026)%20DD%2B%20Atmos.jpg)

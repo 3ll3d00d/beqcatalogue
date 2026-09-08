@@ -1,6 +1,6 @@
 # Club Dread
 
-[Compare across authors](../../compare/?t=film-club-dread_11217)
+[Compare across authors](../compare/index.md?t=film-club-dread_11217)
 
 ## DD+ 2.0
 

@@ -1,6 +1,6 @@
 # Shanghai Noon
 
-[Compare across authors](../../compare/?t=film-shanghai-noon_8584)
+[Compare across authors](../compare/index.md?t=film-shanghai-noon_8584)
 
 ## DD 5.1
 

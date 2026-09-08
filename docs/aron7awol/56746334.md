@@ -1,6 +1,6 @@
 # Office Christmas Party
 
-[Compare across authors](../../compare/?t=film-office-christmas-party_384682)
+[Compare across authors](../compare/index.md?t=film-office-christmas-party_384682)
 
 ## DTS-HD MA 7.1
 

@@ -1,6 +1,6 @@
 # The Jackal
 
-[Compare across authors](../../compare/?t=film-the-jackal_4824)
+[Compare across authors](../compare/index.md?t=film-the-jackal_4824)
 
 ## DTS-HD MA 5.1
 

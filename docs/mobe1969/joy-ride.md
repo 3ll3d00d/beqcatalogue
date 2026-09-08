@@ -1,6 +1,6 @@
 # Joy Ride
 
-[Compare across authors](../../compare/?t=film-joy-ride_10866)
+[Compare across authors](../compare/index.md?t=film-joy-ride_10866)
 
 ## DTS-HD MA 5.1
 

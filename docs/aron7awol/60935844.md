@@ -1,6 +1,6 @@
 # Trollhunters: Rise of the Titans
 
-[Compare across authors](../../compare/?t=film-trollhunters-rise-of-the-titans_730840)
+[Compare across authors](../compare/index.md?t=film-trollhunters-rise-of-the-titans_730840)
 
 ## DD+ Atmos
 

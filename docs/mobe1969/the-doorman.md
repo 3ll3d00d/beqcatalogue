@@ -1,6 +1,6 @@
 # The Doorman
 
-[Compare across authors](../../compare/?t=film-the-doorman_737568)
+[Compare across authors](../compare/index.md?t=film-the-doorman_737568)
 
 ## DTS-HD MA 5.1
 

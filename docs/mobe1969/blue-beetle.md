@@ -1,6 +1,6 @@
 # Blue Beetle
 
-[Compare across authors](../../compare/?t=film-blue-beetle_565770)
+[Compare across authors](../compare/index.md?t=film-blue-beetle_565770)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Wolf Warrior
 
-[Compare across authors](../../compare/?t=film-wolf-warrior_335462)
+[Compare across authors](../compare/index.md?t=film-wolf-warrior_335462)
 
 ## TrueHD 7.1
 

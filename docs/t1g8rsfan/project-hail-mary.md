@@ -9,7 +9,7 @@ Science teacher Ryland Grace wakes up on a spaceship light years from home with 
 
 **MV Adjustment:** +1.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/687163)  [Compare across authors](../../compare/?t=film-project-hail-mary_687163)
+[TMDB](https://www.themoviedb.org/movie/687163)  [Compare across authors](../compare/index.md?t=film-project-hail-mary_687163)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Project%20Hail%20Mary%20(2026)%20(%2B1.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Science teacher Ryland Grace wakes up on a spaceship light years from home with 
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/687163)  [Compare across authors](../../compare/?t=film-project-hail-mary_687163)
+[TMDB](https://www.themoviedb.org/movie/687163)  [Compare across authors](../compare/index.md?t=film-project-hail-mary_687163)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Project%20Hail%20Mary%20(2026)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

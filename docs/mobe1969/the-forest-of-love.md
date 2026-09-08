@@ -1,6 +1,6 @@
 # The Forest of Love
 
-[Compare across authors](../../compare/?t=film-the-forest-of-love_631997)
+[Compare across authors](../compare/index.md?t=film-the-forest-of-love_631997)
 
 ## DD+ 5.1
 

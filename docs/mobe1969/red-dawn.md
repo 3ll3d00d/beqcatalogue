@@ -1,6 +1,6 @@
 # Red Dawn
 
-[Compare across authors](../../compare/?t=film-red-dawn_1880)
+[Compare across authors](../compare/index.md?t=film-red-dawn_1880)
 
 ## DTS-HD MA 5.1
 

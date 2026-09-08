@@ -1,6 +1,6 @@
 # Blood and Bone
 
-[Compare across authors](../../compare/?t=film-blood-and-bone_22164)
+[Compare across authors](../compare/index.md?t=film-blood-and-bone_22164)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-when-heroes-fly_79720)
+[Compare across authors](../compare/index.md?t=TV-when-heroes-fly_79720)
 
 ## Season 1
 

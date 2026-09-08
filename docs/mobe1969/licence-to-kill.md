@@ -1,6 +1,6 @@
 # Licence to Kill
 
-[Compare across authors](../../compare/?t=film-licence-to-kill_709)
+[Compare across authors](../compare/index.md?t=film-licence-to-kill_709)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

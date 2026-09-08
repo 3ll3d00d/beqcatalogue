@@ -1,6 +1,6 @@
 # Jack the Giant Slayer
 
-[Compare across authors](../../compare/?t=film-jack-the-giant-slayer_81005)
+[Compare across authors](../compare/index.md?t=film-jack-the-giant-slayer_81005)
 
 ## DTS-HD MA 5.1
 

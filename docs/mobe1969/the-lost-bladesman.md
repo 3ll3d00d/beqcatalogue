@@ -1,6 +1,6 @@
 # The Lost Bladesman
 
-[Compare across authors](../../compare/?t=film-the-lost-bladesman_62977)
+[Compare across authors](../compare/index.md?t=film-the-lost-bladesman_62977)
 
 ## DTS-HD MA 5.1
 

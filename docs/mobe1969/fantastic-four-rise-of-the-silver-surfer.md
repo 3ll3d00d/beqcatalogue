@@ -1,6 +1,6 @@
 # Fantastic Four: Rise of the Silver Surfer
 
-[Compare across authors](../../compare/?t=film-fantastic-four-rise-of-the-silver-surfer_1979)
+[Compare across authors](../compare/index.md?t=film-fantastic-four-rise-of-the-silver-surfer_1979)
 
 ## DTS-HD MA 5.1
 

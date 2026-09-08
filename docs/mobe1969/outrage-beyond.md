@@ -1,6 +1,6 @@
 # Outrage Beyond
 
-[Compare across authors](../../compare/?t=film-outrage-beyond_121828)
+[Compare across authors](../compare/index.md?t=film-outrage-beyond_121828)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Gray Man
 
-[Compare across authors](../../compare/?t=film-the-gray-man_725201)
+[Compare across authors](../compare/index.md?t=film-the-gray-man_725201)
 
 ## DD+ Atmos
 

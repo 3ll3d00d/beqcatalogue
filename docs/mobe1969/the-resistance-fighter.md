@@ -1,6 +1,6 @@
 # The Resistance Fighter
 
-[Compare across authors](../../compare/?t=film-the-resistance-fighter_582494)
+[Compare across authors](../compare/index.md?t=film-the-resistance-fighter_582494)
 
 ## DTS-HD MA 5.1
 

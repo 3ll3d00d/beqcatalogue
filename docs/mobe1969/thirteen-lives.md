@@ -1,6 +1,6 @@
 # Thirteen Lives
 
-[Compare across authors](../../compare/?t=film-thirteen-lives_698948)
+[Compare across authors](../compare/index.md?t=film-thirteen-lives_698948)
 
 ## DD+ 5.1
 

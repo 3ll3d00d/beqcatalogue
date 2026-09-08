@@ -1,6 +1,6 @@
 # Luther: The Fallen Sun
 
-[Compare across authors](../../compare/?t=film-luther-the-fallen-sun_722149)
+[Compare across authors](../compare/index.md?t=film-luther-the-fallen-sun_722149)
 
 ## DD+ Atmos
 

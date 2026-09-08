@@ -1,6 +1,6 @@
 # The Railway Man
 
-[Compare across authors](../../compare/?t=film-the-railway-man_127560)
+[Compare across authors](../compare/index.md?t=film-the-railway-man_127560)
 
 ## DTS-HD MA 5.1
 

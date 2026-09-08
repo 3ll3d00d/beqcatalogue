@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-avengers_2473)
+[Compare across authors](../compare/index.md?t=TV-the-avengers_2473)
 
 ## Season 4
 

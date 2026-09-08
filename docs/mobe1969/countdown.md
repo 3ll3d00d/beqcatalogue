@@ -1,6 +1,6 @@
 # Countdown
 
-[Compare across authors](../../compare/?t=film-countdown_599975)
+[Compare across authors](../compare/index.md?t=film-countdown_599975)
 
 ## DTS-HD MA 5.1
 

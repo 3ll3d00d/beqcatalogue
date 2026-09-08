@@ -1,6 +1,6 @@
 # Ghost Ship
 
-[Compare across authors](../../compare/?t=film-ghost-ship_9645)
+[Compare across authors](../compare/index.md?t=film-ghost-ship_9645)
 
 ## TrueHD 5.1
 

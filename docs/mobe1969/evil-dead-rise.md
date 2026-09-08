@@ -1,6 +1,6 @@
 # Evil Dead Rise
 
-[Compare across authors](../../compare/?t=film-evil-dead-rise_713704)
+[Compare across authors](../compare/index.md?t=film-evil-dead-rise_713704)
 
 ## Atmos, DD+ Atmos
 

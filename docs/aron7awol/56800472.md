@@ -1,6 +1,6 @@
 # Christine
 
-[Compare across authors](../../compare/?t=film-christine_8769)
+[Compare across authors](../compare/index.md?t=film-christine_8769)
 
 ## Atmos
 

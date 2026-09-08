@@ -1,6 +1,6 @@
 # Halloween II
 
-[Compare across authors](../../compare/?t=film-halloween-ii_11281)
+[Compare across authors](../compare/index.md?t=film-halloween-ii_11281)
 
 ## Atmos
 

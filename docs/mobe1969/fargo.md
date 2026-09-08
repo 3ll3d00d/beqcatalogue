@@ -1,6 +1,6 @@
 # Fargo
 
-[Compare across authors](../../compare/?t=film-fargo_275)
+[Compare across authors](../compare/index.md?t=film-fargo_275)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Smoking Gun
 
-[Compare across authors](../../compare/?t=film-smoking-gun_414018)
+[Compare across authors](../compare/index.md?t=film-smoking-gun_414018)
 
 ## DTS-HD MA 5.1
 

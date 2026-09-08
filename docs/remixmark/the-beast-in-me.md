@@ -14,7 +14,7 @@ Dialnorm Compensation: Ep. 1-6,8: 5dB Ep. 7: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64318581#post-64318581)
 
-* [Compare across authors](../../compare/?t=TV-the-beast-in-me_250504)
+* [Compare across authors](../compare/index.md?t=TV-the-beast-in-me_250504)
 
 * Production Year: 2025
 

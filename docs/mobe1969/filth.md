@@ -1,6 +1,6 @@
 # Filth
 
-[Compare across authors](../../compare/?t=film-filth_85889)
+[Compare across authors](../compare/index.md?t=film-filth_85889)
 
 ## DTS-HD MA 5.1
 

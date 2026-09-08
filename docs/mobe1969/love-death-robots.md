@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+[Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 ## Season 1
 

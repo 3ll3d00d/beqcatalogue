@@ -1,6 +1,6 @@
 # Despicable Me 3
 
-[Compare across authors](../../compare/?t=film-despicable-me-3_324852)
+[Compare across authors](../compare/index.md?t=film-despicable-me-3_324852)
 
 ## DTS-X
 

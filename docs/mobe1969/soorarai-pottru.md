@@ -1,6 +1,6 @@
 # Soorarai Pottru
 
-[Compare across authors](../../compare/?t=film-soorarai-pottru_595228)
+[Compare across authors](../compare/index.md?t=film-soorarai-pottru_595228)
 
 ## DD+ 5.1
 

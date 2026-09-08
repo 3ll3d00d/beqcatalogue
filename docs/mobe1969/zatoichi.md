@@ -1,6 +1,6 @@
 # Zatoichi
 
-[Compare across authors](../../compare/?t=film-zatoichi_246)
+[Compare across authors](../compare/index.md?t=film-zatoichi_246)
 
 ## DTS-HD MA 5.1
 

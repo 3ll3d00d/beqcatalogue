@@ -1,6 +1,6 @@
 # Invisible Target
 
-[Compare across authors](../../compare/?t=film-invisible-target_19528)
+[Compare across authors](../compare/index.md?t=film-invisible-target_19528)
 
 ## DTS-HD MA 7.1
 

@@ -1,6 +1,6 @@
 # Love Hard
 
-[Compare across authors](../../compare/?t=film-love-hard_734265)
+[Compare across authors](../compare/index.md?t=film-love-hard_734265)
 
 ## DD+ Atmos
 

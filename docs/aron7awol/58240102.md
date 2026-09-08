@@ -1,6 +1,6 @@
 # Pet Sematary
 
-[Compare across authors](../../compare/?t=film-pet-sematary_157433)
+[Compare across authors](../compare/index.md?t=film-pet-sematary_157433)
 
 ## Atmos
 

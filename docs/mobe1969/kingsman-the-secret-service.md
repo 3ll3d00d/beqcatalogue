@@ -1,6 +1,6 @@
 # Kingsman: The Secret Service
 
-[Compare across authors](../../compare/?t=film-kingsman-the-secret-service_207703)
+[Compare across authors](../compare/index.md?t=film-kingsman-the-secret-service_207703)
 
 ## DTS-HD MA 7.1
 

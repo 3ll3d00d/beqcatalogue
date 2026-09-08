@@ -1,6 +1,6 @@
 # Natural Born Killers
 
-[Compare across authors](../../compare/?t=film-natural-born-killers_241)
+[Compare across authors](../compare/index.md?t=film-natural-born-killers_241)
 
 ## DTS-HD MA 5.1
 

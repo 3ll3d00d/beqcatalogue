@@ -1,6 +1,6 @@
 # Supernova
 
-[Compare across authors](../../compare/?t=film-supernova_10384)
+[Compare across authors](../compare/index.md?t=film-supernova_10384)
 
 ## DTS-HD MA 5.1
 

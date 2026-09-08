@@ -1,6 +1,6 @@
 # Labyrinth
 
-[Compare across authors](../../compare/?t=film-labyrinth_13597)
+[Compare across authors](../compare/index.md?t=film-labyrinth_13597)
 
 ## Atmos
 

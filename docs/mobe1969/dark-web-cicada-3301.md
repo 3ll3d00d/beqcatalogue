@@ -1,6 +1,6 @@
 # Dark Web: Cicada 3301
 
-[Compare across authors](../../compare/?t=film-dark-web-cicada-3301_791469)
+[Compare across authors](../compare/index.md?t=film-dark-web-cicada-3301_791469)
 
 ## DTS-HD MA 5.1
 

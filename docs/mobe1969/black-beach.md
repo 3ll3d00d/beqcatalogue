@@ -1,6 +1,6 @@
 # Black Beach
 
-[Compare across authors](../../compare/?t=film-black-beach_735129)
+[Compare across authors](../compare/index.md?t=film-black-beach_735129)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Drink Drank Drunk
 
-[Compare across authors](../../compare/?t=film-drink-drank-drunk_427883)
+[Compare across authors](../compare/index.md?t=film-drink-drank-drunk_427883)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Extraction 2
 
-[Compare across authors](../../compare/?t=film-extraction-2_697843)
+[Compare across authors](../compare/index.md?t=film-extraction-2_697843)
 
 ## DD+ Atmos
 

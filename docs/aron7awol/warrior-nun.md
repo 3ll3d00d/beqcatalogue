@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-warrior-nun_87689)
+[Compare across authors](../compare/index.md?t=TV-warrior-nun_87689)
 
 ## Season 1
 

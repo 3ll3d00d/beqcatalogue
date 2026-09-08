@@ -9,7 +9,7 @@ Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine y
 
 **MV Adjustment:** +11.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1561?post_id=63849516#post-63849516)  [TMDB](https://www.themoviedb.org/movie/745)  [Compare across authors](../../compare/?t=film-the-sixth-sense_745)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1561?post_id=63849516#post-63849516)  [TMDB](https://www.themoviedb.org/movie/745)  [Compare across authors](../compare/index.md?t=film-the-sixth-sense_745)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Sixth%20Sense%20(1999)%20DTS-HD%20MA%205.1.jpg)

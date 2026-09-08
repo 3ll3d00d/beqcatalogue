@@ -1,6 +1,6 @@
 # Jurassic Park
 
-[Compare across authors](../../compare/?t=film-jurassic-park_329)
+[Compare across authors](../compare/index.md?t=film-jurassic-park_329)
 
 ## DD+ 5.1
 

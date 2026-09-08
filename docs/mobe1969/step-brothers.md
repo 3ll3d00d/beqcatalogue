@@ -1,6 +1,6 @@
 # Step Brothers
 
-[Compare across authors](../../compare/?t=film-step-brothers_12133)
+[Compare across authors](../compare/index.md?t=film-step-brothers_12133)
 
 ## Atmos
 

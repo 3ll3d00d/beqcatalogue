@@ -1,6 +1,6 @@
 # Urban Legends: Bloody Mary
 
-[Compare across authors](../../compare/?t=film-urban-legends-bloody-mary_10292)
+[Compare across authors](../compare/index.md?t=film-urban-legends-bloody-mary_10292)
 
 ## DD 2.0
 

@@ -1,6 +1,6 @@
 # Glass
 
-[Compare across authors](../../compare/?t=film-glass_450465)
+[Compare across authors](../compare/index.md?t=film-glass_450465)
 
 ## Atmos
 

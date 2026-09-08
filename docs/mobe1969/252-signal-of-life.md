@@ -1,6 +1,6 @@
 # 252: Signal of Life
 
-[Compare across authors](../../compare/?t=film-252-signal-of-life_81391)
+[Compare across authors](../compare/index.md?t=film-252-signal-of-life_81391)
 
 ## DTS-HD MA 5.1
 

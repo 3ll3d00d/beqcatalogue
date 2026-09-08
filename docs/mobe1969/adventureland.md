@@ -1,6 +1,6 @@
 # Adventureland
 
-[Compare across authors](../../compare/?t=film-adventureland_16614)
+[Compare across authors](../compare/index.md?t=film-adventureland_16614)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Chor Nikal Ke Bhaga
 
-[Compare across authors](../../compare/?t=film-chor-nikal-ke-bhaga_1018228)
+[Compare across authors](../compare/index.md?t=film-chor-nikal-ke-bhaga_1018228)
 
 ## DD+ Atmos
 

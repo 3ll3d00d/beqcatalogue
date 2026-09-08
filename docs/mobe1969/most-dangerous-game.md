@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-most-dangerous-game_90795)
+[Compare across authors](../compare/index.md?t=TV-most-dangerous-game_90795)
 
 ## Season 1
 

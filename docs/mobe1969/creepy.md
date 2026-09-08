@@ -1,6 +1,6 @@
 # Creepy
 
-[Compare across authors](../../compare/?t=film-creepy_380620)
+[Compare across authors](../compare/index.md?t=film-creepy_380620)
 
 ## DTS-HD MA 5.1
 

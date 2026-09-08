@@ -1,6 +1,6 @@
 # Only the Brave
 
-[Compare across authors](../../compare/?t=film-only-the-brave_31101)
+[Compare across authors](../compare/index.md?t=film-only-the-brave_31101)
 
 ## DTS-HD MA 5.1
 

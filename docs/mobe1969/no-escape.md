@@ -1,6 +1,6 @@
 # No Escape
 
-[Compare across authors](../../compare/?t=film-no-escape_192141)
+[Compare across authors](../compare/index.md?t=film-no-escape_192141)
 
 ## DTS-HD MA 5.1
 

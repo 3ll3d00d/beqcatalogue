@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-welcome-to-earth_127700)
+[Compare across authors](../compare/index.md?t=TV-welcome-to-earth_127700)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Boyka Undisputed
 
-[Compare across authors](../../compare/?t=film-boyka-undisputed_348893)
+[Compare across authors](../compare/index.md?t=film-boyka-undisputed_348893)
 
 ## DTS-HD MA 5.1
 

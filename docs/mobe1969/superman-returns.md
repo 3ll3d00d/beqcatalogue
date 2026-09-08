@@ -1,6 +1,6 @@
 # Superman Returns
 
-[Compare across authors](../../compare/?t=film-superman-returns_1452)
+[Compare across authors](../compare/index.md?t=film-superman-returns_1452)
 
 ## DTS-HD MA 5.1
 

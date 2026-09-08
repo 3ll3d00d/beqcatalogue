@@ -1,6 +1,6 @@
 # Every Breath You Take
 
-[Compare across authors](../../compare/?t=film-every-breath-you-take_803923)
+[Compare across authors](../compare/index.md?t=film-every-breath-you-take_803923)
 
 ## DTS-HD MA 5.1
 

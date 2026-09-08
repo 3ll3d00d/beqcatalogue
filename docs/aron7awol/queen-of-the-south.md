@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-queen-of-the-south_66676)
+[Compare across authors](../compare/index.md?t=TV-queen-of-the-south_66676)
 
 ## Season 5 Episode 1
 

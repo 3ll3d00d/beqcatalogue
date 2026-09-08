@@ -12,7 +12,7 @@
 Dialnorm Compensation: E01 +7dB; E03 +4dB; E05 +4dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-moon-knight_92749)
+* [Compare across authors](../compare/index.md?t=TV-moon-knight_92749)
 
 * Production Year: 2022
 
@@ -32,7 +32,7 @@ Dialnorm Compensation: E01 +7dB; E03 +4dB; E05 +4dB
 Dialnorm Compensation: +4dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-moon-knight_92749)
+* [Compare across authors](../compare/index.md?t=TV-moon-knight_92749)
 
 * Production Year: 2022
 
@@ -52,7 +52,7 @@ Dialnorm Compensation: +4dB
 Dialnorm Compensation: +4dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-moon-knight_92749)
+* [Compare across authors](../compare/index.md?t=TV-moon-knight_92749)
 
 * Production Year: 2022
 
@@ -72,7 +72,7 @@ Dialnorm Compensation: +4dB
 Dialnorm Compensation: +4dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-moon-knight_92749)
+* [Compare across authors](../compare/index.md?t=TV-moon-knight_92749)
 
 * Production Year: 2022
 

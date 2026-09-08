@@ -1,6 +1,6 @@
 # Revenger
 
-[Compare across authors](../../compare/?t=film-revenger_557968)
+[Compare across authors](../compare/index.md?t=film-revenger_557968)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # New Gods: Nezha Reborn
 
-[Compare across authors](../../compare/?t=film-new-gods-nezha-reborn_663558)
+[Compare across authors](../compare/index.md?t=film-new-gods-nezha-reborn_663558)
 
 ## DD+ 5.1
 

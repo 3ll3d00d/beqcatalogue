@@ -1,6 +1,6 @@
 # Citizen Gangster
 
-[Compare across authors](../../compare/?t=film-citizen-gangster_92493)
+[Compare across authors](../compare/index.md?t=film-citizen-gangster_92493)
 
 ## DTS-HD MA 5.1
 

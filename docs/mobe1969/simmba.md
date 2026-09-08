@@ -1,6 +1,6 @@
 # Simmba
 
-[Compare across authors](../../compare/?t=film-simmba_496524)
+[Compare across authors](../compare/index.md?t=film-simmba_496524)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Fatherhood
 
-[Compare across authors](../../compare/?t=film-fatherhood_607259)
+[Compare across authors](../compare/index.md?t=film-fatherhood_607259)
 
 ## DD+ Atmos
 

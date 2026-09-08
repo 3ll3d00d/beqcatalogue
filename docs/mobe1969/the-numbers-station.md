@@ -1,6 +1,6 @@
 # The Numbers Station
 
-[Compare across authors](../../compare/?t=film-the-numbers-station_77234)
+[Compare across authors](../compare/index.md?t=film-the-numbers-station_77234)
 
 ## DTS-HD MA 5.1
 

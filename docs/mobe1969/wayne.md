@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-wayne_84231)
+[Compare across authors](../compare/index.md?t=TV-wayne_84231)
 
 ## Season 1
 

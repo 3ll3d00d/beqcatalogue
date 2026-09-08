@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-seven-worlds-one-planet_90790)
+[Compare across authors](../compare/index.md?t=TV-seven-worlds-one-planet_90790)
 
 ## Season 1
 

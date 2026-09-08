@@ -11,7 +11,7 @@ In the final days of World War II, the Nazis attempt to use black magic to aid t
 
 **MV Adjustment:** -3.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63020652/)  [TMDB](https://www.themoviedb.org/movie/1487)  [Compare across authors](../../compare/?t=film-hellboy_1487)
+[Discuss](https://www.avsforum.com/posts/63020652/)  [TMDB](https://www.themoviedb.org/movie/1487)  [Compare across authors](../compare/index.md?t=film-hellboy_1487)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Hellboy%20(2004)%20(-3%20gain)%20DC%20Atmos.jpg)

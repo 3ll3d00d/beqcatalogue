@@ -1,6 +1,6 @@
 # Doom: Annihilation
 
-[Compare across authors](../../compare/?t=film-doom-annihilation_520901)
+[Compare across authors](../compare/index.md?t=film-doom-annihilation_520901)
 
 ## DTS-HD MA 5.1
 

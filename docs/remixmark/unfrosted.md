@@ -12,7 +12,7 @@ In a time when milk and cereal ruled breakfast, a fierce corporate battle begins
 Dialnorm Compensation: +4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1447?post_id=63293395#post-63293395)  [TMDB](https://www.themoviedb.org/movie/844185)  [Compare across authors](../../compare/?t=film-unfrosted_844185)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1447?post_id=63293395#post-63293395)  [TMDB](https://www.themoviedb.org/movie/844185)  [Compare across authors](../compare/index.md?t=film-unfrosted_844185)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Unfrosted%20(2024)%20(%2B6.5%20gain).jpg)

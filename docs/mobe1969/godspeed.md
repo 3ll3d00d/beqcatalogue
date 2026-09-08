@@ -1,6 +1,6 @@
 # Godspeed
 
-[Compare across authors](../../compare/?t=film-godspeed_411005)
+[Compare across authors](../compare/index.md?t=film-godspeed_411005)
 
 ## DTS-HD MA 5.1
 

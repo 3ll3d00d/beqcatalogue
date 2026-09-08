@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-boy-swallows-universe_209332)
+* [Compare across authors](../compare/index.md?t=TV-boy-swallows-universe_209332)
 
 * Production Year: 2024
 

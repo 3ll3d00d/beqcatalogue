@@ -1,6 +1,6 @@
 # Why Him?
 
-[Compare across authors](../../compare/?t=film-why-him_356305)
+[Compare across authors](../compare/index.md?t=film-why-him_356305)
 
 ## DTS-HD MA 7.1
 

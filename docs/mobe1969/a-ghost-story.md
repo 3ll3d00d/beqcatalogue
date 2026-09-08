@@ -1,6 +1,6 @@
 # A Ghost Story
 
-[Compare across authors](../../compare/?t=film-a-ghost-story_428449)
+[Compare across authors](../compare/index.md?t=film-a-ghost-story_428449)
 
 ## DTS-HD MA 5.1
 

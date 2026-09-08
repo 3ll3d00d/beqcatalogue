@@ -1,6 +1,6 @@
 # I Spy
 
-[Compare across authors](../../compare/?t=film-i-spy_8427)
+[Compare across authors](../compare/index.md?t=film-i-spy_8427)
 
 ## DTS-HD MA 5.1
 

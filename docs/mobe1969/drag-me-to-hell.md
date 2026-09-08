@@ -1,6 +1,6 @@
 # Drag Me to Hell
 
-[Compare across authors](../../compare/?t=film-drag-me-to-hell_16871)
+[Compare across authors](../compare/index.md?t=film-drag-me-to-hell_16871)
 
 ## DTS-HD MA 5.1
 

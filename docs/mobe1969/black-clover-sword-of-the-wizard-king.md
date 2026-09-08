@@ -1,6 +1,6 @@
 # Black Clover: Sword of the Wizard King
 
-[Compare across authors](../../compare/?t=film-black-clover-sword-of-the-wizard-king_812225)
+[Compare across authors](../compare/index.md?t=film-black-clover-sword-of-the-wizard-king_812225)
 
 ## DD+ 5.1
 

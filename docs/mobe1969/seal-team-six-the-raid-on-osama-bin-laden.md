@@ -1,6 +1,6 @@
 # Seal Team Six: The Raid on Osama Bin Laden
 
-[Compare across authors](../../compare/?t=film-seal-team-six-the-raid-on-osama-bin-laden_130267)
+[Compare across authors](../compare/index.md?t=film-seal-team-six-the-raid-on-osama-bin-laden_130267)
 
 ## DTS-HD MA 5.1
 

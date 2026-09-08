@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-citadel_114922)
+[Compare across authors](../compare/index.md?t=TV-citadel_114922)
 
 ## Season 1
 

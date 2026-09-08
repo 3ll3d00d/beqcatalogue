@@ -9,7 +9,7 @@ When an IMF mission ends badly, the world is faced with dire consequences. As Et
 
 **MV Adjustment:** -4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62655264)  [TMDB](https://www.themoviedb.org/movie/353081)  [Compare across authors](../../compare/?t=film-mission-impossible-fallout_353081)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62655264)  [TMDB](https://www.themoviedb.org/movie/353081)  [Compare across authors](../compare/index.md?t=film-mission-impossible-fallout_353081)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Mission%20Impossible%20Fallout%20PvA.jpg)

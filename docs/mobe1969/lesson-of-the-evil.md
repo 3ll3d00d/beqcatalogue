@@ -1,6 +1,6 @@
 # Lesson of the Evil
 
-[Compare across authors](../../compare/?t=film-lesson-of-the-evil_120852)
+[Compare across authors](../compare/index.md?t=film-lesson-of-the-evil_120852)
 
 ## DTS-HD MA 5.1
 

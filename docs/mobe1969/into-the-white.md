@@ -1,6 +1,6 @@
 # Into the White
 
-[Compare across authors](../../compare/?t=film-into-the-white_78215)
+[Compare across authors](../compare/index.md?t=film-into-the-white_78215)
 
 ## DTS-HD MA 5.1
 

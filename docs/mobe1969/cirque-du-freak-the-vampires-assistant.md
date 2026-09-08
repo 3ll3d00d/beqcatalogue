@@ -1,6 +1,6 @@
 # Cirque du Freak: The Vampire's Assistant
 
-[Compare across authors](../../compare/?t=film-cirque-du-freak-the-vampires-assistant_24418)
+[Compare across authors](../compare/index.md?t=film-cirque-du-freak-the-vampires-assistant_24418)
 
 ## DTS-HD MA 5.1
 

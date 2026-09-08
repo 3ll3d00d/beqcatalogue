@@ -7,7 +7,7 @@
 As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/302946)  [Compare across authors](../../compare/?t=film-the-accountant_302946)
+[TMDB](https://www.themoviedb.org/movie/302946)  [Compare across authors](../compare/index.md?t=film-the-accountant_302946)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Accountant/The%20Accountant%20(2016)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ As a math savant uncooks the books for a new client, the Treasury Department clo
 As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/302946)  [Compare across authors](../../compare/?t=film-the-accountant_302946)
+[TMDB](https://www.themoviedb.org/movie/302946)  [Compare across authors](../compare/index.md?t=film-the-accountant_302946)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Accountant/The%20Accountant%20(2016)%20DTS-HD%207.1.jpg)

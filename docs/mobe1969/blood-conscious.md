@@ -1,6 +1,6 @@
 # Blood Conscious
 
-[Compare across authors](../../compare/?t=film-blood-conscious_799640)
+[Compare across authors](../compare/index.md?t=film-blood-conscious_799640)
 
 ## DTS-HD MA 5.1
 

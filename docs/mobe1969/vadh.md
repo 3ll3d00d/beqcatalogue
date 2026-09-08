@@ -1,6 +1,6 @@
 # Vadh
 
-[Compare across authors](../../compare/?t=film-vadh_1046991)
+[Compare across authors](../compare/index.md?t=film-vadh_1046991)
 
 ## DD+ 5.1
 

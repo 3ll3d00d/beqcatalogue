@@ -1,6 +1,6 @@
 # Evidence
 
-[Compare across authors](../../compare/?t=film-evidence_198210)
+[Compare across authors](../compare/index.md?t=film-evidence_198210)
 
 ## DTS-HD MA 5.1
 

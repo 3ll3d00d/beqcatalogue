@@ -1,6 +1,6 @@
 # The House of Magic
 
-[Compare across authors](../../compare/?t=film-the-house-of-magic_202575)
+[Compare across authors](../compare/index.md?t=film-the-house-of-magic_202575)
 
 ## DTS-HD MA 5.1
 

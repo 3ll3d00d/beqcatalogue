@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-beauty_273160)
+* [Compare across authors](../compare/index.md?t=TV-the-beauty_273160)
 
 * Production Year: 2026
 

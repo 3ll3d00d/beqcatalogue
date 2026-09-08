@@ -7,7 +7,7 @@
 At work, she's a renowned assassin. At home, she's a single mom to a teenage daughter. Killing? That's easy. It's parenting that's the hard part.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/849869)  [Compare across authors](../../compare/?t=film-kill-boksoon_849869)
+[TMDB](https://www.themoviedb.org/movie/849869)  [Compare across authors](../compare/index.md?t=film-kill-boksoon_849869)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Kill%20Boksoon/Kill%20Boksoon%20(2023)%20DD%2B%20Atmos.jpg)

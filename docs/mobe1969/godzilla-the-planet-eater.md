@@ -1,6 +1,6 @@
 # Godzilla: The Planet Eater
 
-[Compare across authors](../../compare/?t=film-godzilla-the-planet-eater_536115)
+[Compare across authors](../compare/index.md?t=film-godzilla-the-planet-eater_536115)
 
 ## DD+ 5.1
 

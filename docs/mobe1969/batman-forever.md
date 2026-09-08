@@ -1,6 +1,6 @@
 # Batman Forever
 
-[Compare across authors](../../compare/?t=film-batman-forever_414)
+[Compare across authors](../compare/index.md?t=film-batman-forever_414)
 
 ## Atmos
 

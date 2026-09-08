@@ -1,6 +1,6 @@
 # Team America: World Police
 
-[Compare across authors](../../compare/?t=film-team-america-world-police_3989)
+[Compare across authors](../compare/index.md?t=film-team-america-world-police_3989)
 
 ## DTS-HD MA 5.1
 

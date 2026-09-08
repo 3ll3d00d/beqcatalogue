@@ -1,6 +1,6 @@
 # Mr. Woodcock
 
-[Compare across authors](../../compare/?t=film-mr-woodcock_13257)
+[Compare across authors](../compare/index.md?t=film-mr-woodcock_13257)
 
 ## DTS-HD MA 7.1
 

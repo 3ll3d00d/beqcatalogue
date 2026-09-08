@@ -1,6 +1,6 @@
 # Laputa Castle in the Sky
 
-[Compare across authors](../../compare/?t=film-laputa-castle-in-the-sky_10515)
+[Compare across authors](../compare/index.md?t=film-laputa-castle-in-the-sky_10515)
 
 ## LPCM 2.0
 

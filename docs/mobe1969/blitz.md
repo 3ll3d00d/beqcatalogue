@@ -1,6 +1,6 @@
 # Blitz
 
-[Compare across authors](../../compare/?t=film-blitz_55846)
+[Compare across authors](../compare/index.md?t=film-blitz_55846)
 
 ## TrueHD 5.1, DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Babylon 5: The Road Home
 
-[Compare across authors](../../compare/?t=film-babylon-5-the-road-home_1121575)
+[Compare across authors](../compare/index.md?t=film-babylon-5-the-road-home_1121575)
 
 ## DTS-HD MA 5.1
 

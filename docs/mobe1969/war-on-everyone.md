@@ -1,6 +1,6 @@
 # War on Everyone
 
-[Compare across authors](../../compare/?t=film-war-on-everyone_333663)
+[Compare across authors](../compare/index.md?t=film-war-on-everyone_333663)
 
 ## DTS-HD MA 5.1
 

@@ -11,7 +11,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63022652)
 
-* [Compare across authors](../../compare/?t=TV-planet-earth-iii_116156)
+* [Compare across authors](../compare/index.md?t=TV-planet-earth-iii_116156)
 
 * Production Year: 2023
 
@@ -28,7 +28,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63022652)
 
-* [Compare across authors](../../compare/?t=TV-planet-earth-iii_116156)
+* [Compare across authors](../compare/index.md?t=TV-planet-earth-iii_116156)
 
 * Production Year: 2023
 

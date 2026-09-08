@@ -9,7 +9,7 @@ Years after witnessing the death of the revered hero Maximus at the hands of his
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1562?post_id=63856943#post-63856943)  [TMDB](https://www.themoviedb.org/movie/558449)  [Compare across authors](../../compare/?t=film-gladiator-ii_558449)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1562?post_id=63856943#post-63856943)  [TMDB](https://www.themoviedb.org/movie/558449)  [Compare across authors](../compare/index.md?t=film-gladiator-ii_558449)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Gladiator%20II%20(2024)%20(%2B2.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Years after witnessing the death of the revered hero Maximus at the hands of his
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1542?post_id=63722161#post-63722161)  [TMDB](https://www.themoviedb.org/movie/558449)  [Compare across authors](../../compare/?t=film-gladiator-ii_558449)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1542?post_id=63722161#post-63722161)  [TMDB](https://www.themoviedb.org/movie/558449)  [Compare across authors](../compare/index.md?t=film-gladiator-ii_558449)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Gladiator%20II%20(2024)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)

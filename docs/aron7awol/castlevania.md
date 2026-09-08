@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-castlevania_71024)
+[Compare across authors](../compare/index.md?t=TV-castlevania_71024)
 
 ## Season 3
 

@@ -1,6 +1,6 @@
 # The Treasure Hunter
 
-[Compare across authors](../../compare/?t=film-the-treasure-hunter_37848)
+[Compare across authors](../compare/index.md?t=film-the-treasure-hunter_37848)
 
 ## DD 2.0
 

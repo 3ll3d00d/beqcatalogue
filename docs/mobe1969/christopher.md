@@ -1,6 +1,6 @@
 # Christopher
 
-[Compare across authors](../../compare/?t=film-christopher_992589)
+[Compare across authors](../compare/index.md?t=film-christopher_992589)
 
 ## DD+ 5.1
 

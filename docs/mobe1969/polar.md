@@ -1,6 +1,6 @@
 # Polar
 
-[Compare across authors](../../compare/?t=film-polar_483906)
+[Compare across authors](../compare/index.md?t=film-polar_483906)
 
 ## DD+ Atmos
 

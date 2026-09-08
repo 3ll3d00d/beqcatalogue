@@ -1,6 +1,6 @@
 # Eddie the Eagle
 
-[Compare across authors](../../compare/?t=film-eddie-the-eagle_319888)
+[Compare across authors](../compare/index.md?t=film-eddie-the-eagle_319888)
 
 ## Atmos
 

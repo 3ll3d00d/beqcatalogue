@@ -1,6 +1,6 @@
 # The Water Diviner
 
-[Compare across authors](../../compare/?t=film-the-water-diviner_256917)
+[Compare across authors](../compare/index.md?t=film-the-water-diviner_256917)
 
 ## DTS-HD MA 5.1
 

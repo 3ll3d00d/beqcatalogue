@@ -1,6 +1,6 @@
 # Red Dragon
 
-[Compare across authors](../../compare/?t=film-red-dragon_9533)
+[Compare across authors](../compare/index.md?t=film-red-dragon_9533)
 
 ## DTS-HD MA 5.1
 

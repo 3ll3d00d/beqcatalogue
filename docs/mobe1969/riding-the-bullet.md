@@ -1,6 +1,6 @@
 # Riding the Bullet
 
-[Compare across authors](../../compare/?t=film-riding-the-bullet_12483)
+[Compare across authors](../compare/index.md?t=film-riding-the-bullet_12483)
 
 ## DD 5.1
 

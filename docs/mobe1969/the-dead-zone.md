@@ -1,6 +1,6 @@
 # The Dead Zone
 
-[Compare across authors](../../compare/?t=film-the-dead-zone_11336)
+[Compare across authors](../compare/index.md?t=film-the-dead-zone_11336)
 
 ## TrueHD 5.1
 

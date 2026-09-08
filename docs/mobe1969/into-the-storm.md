@@ -1,6 +1,6 @@
 # Into the Storm
 
-[Compare across authors](../../compare/?t=film-into-the-storm_216282)
+[Compare across authors](../compare/index.md?t=film-into-the-storm_216282)
 
 ## DTS-HD MA 5.1
 

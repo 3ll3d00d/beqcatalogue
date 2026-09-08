@@ -1,6 +1,6 @@
 # Chasing the Dragon
 
-[Compare across authors](../../compare/?t=film-chasing-the-dragon_449927)
+[Compare across authors](../compare/index.md?t=film-chasing-the-dragon_449927)
 
 ## TrueHD 7.1
 

@@ -1,6 +1,6 @@
 # Deadpool
 
-[Compare across authors](../../compare/?t=film-deadpool_293660)
+[Compare across authors](../compare/index.md?t=film-deadpool_293660)
 
 ## Atmos
 

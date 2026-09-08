@@ -11,7 +11,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63706949#post-63706949)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -30,7 +30,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63706960#post-63706960)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -49,7 +49,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63706983#post-63706983)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -68,7 +68,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63707004#post-63707004)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -87,7 +87,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63707014#post-63707014)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -106,7 +106,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63711268#post-63711268)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -125,7 +125,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1543?post_id=63724914#post-63724914)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -144,7 +144,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1546?post_id=63738148#post-63738148)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -163,7 +163,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1548?post_id=63756391#post-63756391)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -182,7 +182,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1550?post_id=63773608#post-63773608)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -201,7 +201,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64309674#post-64309674)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -223,7 +223,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64321843#post-64321843)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -242,7 +242,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1685?post_id=64338343#post-64338343)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -261,7 +261,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1689?post_id=64356574#post-64356574)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -280,7 +280,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1689?post_id=64356595#post-64356595)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -299,7 +299,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1694?post_id=64382821#post-64382821)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -318,7 +318,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1694?post_id=64382849#post-64382849)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -337,7 +337,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1699?post_id=64395000#post-64395000)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -356,7 +356,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1700?post_id=64408705#post-64408705)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 
@@ -375,7 +375,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1702?post_id=64424791#post-64424791)
 
-* [Compare across authors](../../compare/?t=TV-landman_157741)
+* [Compare across authors](../compare/index.md?t=TV-landman_157741)
 
 * Production Year: 2024
 

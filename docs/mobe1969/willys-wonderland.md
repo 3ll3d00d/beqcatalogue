@@ -1,6 +1,6 @@
 # Willy's Wonderland
 
-[Compare across authors](../../compare/?t=film-willys-wonderland_643586)
+[Compare across authors](../compare/index.md?t=film-willys-wonderland_643586)
 
 ## DTS-HD MA 5.1
 

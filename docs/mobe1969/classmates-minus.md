@@ -1,6 +1,6 @@
 # Classmates Minus
 
-[Compare across authors](../../compare/?t=film-classmates-minus_739267)
+[Compare across authors](../compare/index.md?t=film-classmates-minus_739267)
 
 ## DD+ 5.1
 

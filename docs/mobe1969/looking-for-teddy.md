@@ -1,6 +1,6 @@
 # Looking for Teddy
 
-[Compare across authors](../../compare/?t=film-looking-for-teddy_486520)
+[Compare across authors](../compare/index.md?t=film-looking-for-teddy_486520)
 
 ## DD+ 5.1
 

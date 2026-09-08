@@ -1,6 +1,6 @@
 # Willow Creek
 
-[Compare across authors](../../compare/?t=film-willow-creek_185460)
+[Compare across authors](../compare/index.md?t=film-willow-creek_185460)
 
 ## DTS-HD MA 5.1
 

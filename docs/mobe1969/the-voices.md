@@ -1,6 +1,6 @@
 # The Voices
 
-[Compare across authors](../../compare/?t=film-the-voices_244458)
+[Compare across authors](../compare/index.md?t=film-the-voices_244458)
 
 ## DD+ 5.1
 

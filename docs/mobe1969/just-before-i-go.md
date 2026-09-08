@@ -1,6 +1,6 @@
 # Just Before I Go
 
-[Compare across authors](../../compare/?t=film-just-before-i-go_258099)
+[Compare across authors](../compare/index.md?t=film-just-before-i-go_258099)
 
 ## TrueHD 5.1
 

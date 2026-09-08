@@ -1,6 +1,6 @@
 # Zero to Hero
 
-[Compare across authors](../../compare/?t=film-zero-to-hero_741318)
+[Compare across authors](../compare/index.md?t=film-zero-to-hero_741318)
 
 ## DD+ 5.1
 

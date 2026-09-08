@@ -1,6 +1,6 @@
 # HollyBlood
 
-[Compare across authors](../../compare/?t=film-hollyblood_821133)
+[Compare across authors](../compare/index.md?t=film-hollyblood_821133)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Kingdom: Ashin of the North
 
-[Compare across authors](../../compare/?t=film-kingdom-ashin-of-the-north_845222)
+[Compare across authors](../compare/index.md?t=film-kingdom-ashin-of-the-north_845222)
 
 ## DD+ 5.1
 

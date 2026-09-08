@@ -1,6 +1,6 @@
 # Moonbound
 
-[Compare across authors](../../compare/?t=film-moonbound_809717)
+[Compare across authors](../compare/index.md?t=film-moonbound_809717)
 
 ## DD+ 5.1
 

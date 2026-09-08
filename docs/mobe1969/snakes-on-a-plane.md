@@ -1,6 +1,6 @@
 # Snakes on a Plane
 
-[Compare across authors](../../compare/?t=film-snakes-on-a-plane_326)
+[Compare across authors](../compare/index.md?t=film-snakes-on-a-plane_326)
 
 ## DD 5.1
 

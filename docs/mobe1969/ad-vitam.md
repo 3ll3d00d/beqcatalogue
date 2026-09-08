@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ad-vitam_81951)
+[Compare across authors](../compare/index.md?t=TV-ad-vitam_81951)
 
 ## Season 1
 

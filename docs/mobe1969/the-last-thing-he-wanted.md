@@ -1,6 +1,6 @@
 # The Last Thing He Wanted
 
-[Compare across authors](../../compare/?t=film-the-last-thing-he-wanted_505225)
+[Compare across authors](../compare/index.md?t=film-the-last-thing-he-wanted_505225)
 
 ## DD+ 5.1
 

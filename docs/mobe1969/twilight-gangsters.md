@@ -1,6 +1,6 @@
 # Twilight Gangsters
 
-[Compare across authors](../../compare/?t=film-twilight-gangsters_52120)
+[Compare across authors](../compare/index.md?t=film-twilight-gangsters_52120)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-cobra-kai_77169)
+* [Compare across authors](../compare/index.md?t=TV-cobra-kai_77169)
 
 * Production Year: 2018
 

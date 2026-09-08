@@ -9,7 +9,7 @@ The story of Oakland Athletics general manager Billy Beane's successful attempt 
 
 **MV Adjustment:** +12.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1600?post_id=64047487#post-64047487)  [TMDB](https://www.themoviedb.org/movie/60308)  [Compare across authors](../../compare/?t=film-moneyball_60308)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1600?post_id=64047487#post-64047487)  [TMDB](https://www.themoviedb.org/movie/60308)  [Compare across authors](../compare/index.md?t=film-moneyball_60308)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Moneyball%20(2011)%20(%2B12%20gain)%20DTS-HD%20MA%205.1.jpg)

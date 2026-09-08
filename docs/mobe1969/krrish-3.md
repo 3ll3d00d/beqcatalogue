@@ -1,6 +1,6 @@
 # Krrish 3
 
-[Compare across authors](../../compare/?t=film-krrish-3_204435)
+[Compare across authors](../compare/index.md?t=film-krrish-3_204435)
 
 ## DTS-HD MA 5.1
 

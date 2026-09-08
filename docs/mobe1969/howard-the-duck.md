@@ -1,6 +1,6 @@
 # Howard the Duck
 
-[Compare across authors](../../compare/?t=film-howard-the-duck_10658)
+[Compare across authors](../compare/index.md?t=film-howard-the-duck_10658)
 
 ## DTS-HD MA 7.1
 

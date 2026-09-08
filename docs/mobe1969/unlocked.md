@@ -1,6 +1,6 @@
 # Unlocked
 
-[Compare across authors](../../compare/?t=film-unlocked_291276)
+[Compare across authors](../compare/index.md?t=film-unlocked_291276)
 
 ## TrueHD 5.1, DD+ 5.1
 

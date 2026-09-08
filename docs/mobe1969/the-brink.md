@@ -1,6 +1,6 @@
 # The Brink
 
-[Compare across authors](../../compare/?t=film-the-brink_458257)
+[Compare across authors](../compare/index.md?t=film-the-brink_458257)
 
 ## TrueHD 7.1
 

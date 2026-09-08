@@ -1,6 +1,6 @@
 # Song of the Assassins
 
-[Compare across authors](../../compare/?t=film-song-of-the-assassins_504071)
+[Compare across authors](../compare/index.md?t=film-song-of-the-assassins_504071)
 
 ## DTS-HD MA 5.1
 

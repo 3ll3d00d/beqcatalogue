@@ -1,6 +1,6 @@
 # Look Both Ways
 
-[Compare across authors](../../compare/?t=film-look-both-ways_805327)
+[Compare across authors](../compare/index.md?t=film-look-both-ways_805327)
 
 ## DD+ Atmos
 

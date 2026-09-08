@@ -1,6 +1,6 @@
 # Delicatessen
 
-[Compare across authors](../../compare/?t=film-delicatessen_892)
+[Compare across authors](../compare/index.md?t=film-delicatessen_892)
 
 ## DTS-HD MA 2.0
 

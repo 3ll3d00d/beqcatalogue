@@ -1,6 +1,6 @@
 # A Beautiful Life
 
-[Compare across authors](../../compare/?t=film-a-beautiful-life_72502)
+[Compare across authors](../compare/index.md?t=film-a-beautiful-life_72502)
 
 ## DD+ 5.1
 

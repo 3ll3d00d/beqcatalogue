@@ -10,7 +10,7 @@
 **--Filter Hits -11dB at 14Hz--**
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-detective-hole_249597)
+* [Compare across authors](../compare/index.md?t=TV-detective-hole_249597)
 
 * Production Year: 2026
 

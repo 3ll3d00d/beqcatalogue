@@ -1,6 +1,6 @@
 # Ek Villain Returns
 
-[Compare across authors](../../compare/?t=film-ek-villain-returns_682401)
+[Compare across authors](../compare/index.md?t=film-ek-villain-returns_682401)
 
 ## DD+ 5.1
 

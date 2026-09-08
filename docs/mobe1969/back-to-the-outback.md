@@ -1,6 +1,6 @@
 # Back to the Outback
 
-[Compare across authors](../../compare/?t=film-back-to-the-outback_770254)
+[Compare across authors](../compare/index.md?t=film-back-to-the-outback_770254)
 
 ## DD+ Atmos, DD+ 5.1
 

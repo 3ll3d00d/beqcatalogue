@@ -12,7 +12,7 @@ Nora, Andreas and Captain Kris leap back into action when a dangerous new troll 
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1685?post_id=64334149#post-64334149)  [TMDB](https://www.themoviedb.org/movie/1180831)  [Compare across authors](../../compare/?t=film-troll-2_1180831)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1685?post_id=64334149#post-64334149)  [TMDB](https://www.themoviedb.org/movie/1180831)  [Compare across authors](../compare/index.md?t=film-troll-2_1180831)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Troll%202%20(2025)%20(-2%20gain)%20DD%2B%20Atmos.jpg)
@@ -31,7 +31,7 @@ When a dangerous new troll unleashes devastation across their homeland, Nora, An
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1685?post_id=64335660#post-64335660)  [TMDB](https://www.themoviedb.org/movie/1180831)  [Compare across authors](../../compare/?t=film-troll-2_1180831)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1685?post_id=64335660#post-64335660)  [TMDB](https://www.themoviedb.org/movie/1180831)  [Compare across authors](../compare/index.md?t=film-troll-2_1180831)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Troll%202%20(2025)%20(-2%20gain)%20EN%20DD%2B%20Atmos.jpg)

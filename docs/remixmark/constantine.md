@@ -9,7 +9,7 @@ John Constantine has literally been to Hell and back. When he teams up with a po
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1564?post_id=63864212#post-63864212)  [TMDB](https://www.themoviedb.org/movie/561)  [Compare across authors](../../compare/?t=film-constantine_561)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1564?post_id=63864212#post-63864212)  [TMDB](https://www.themoviedb.org/movie/561)  [Compare across authors](../compare/index.md?t=film-constantine_561)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Constantine%20(2005)%20(-2%20gain)%20Atmos.jpg)

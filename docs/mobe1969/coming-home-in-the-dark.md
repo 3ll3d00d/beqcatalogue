@@ -1,6 +1,6 @@
 # Coming Home in the Dark
 
-[Compare across authors](../../compare/?t=film-coming-home-in-the-dark_711963)
+[Compare across authors](../compare/index.md?t=film-coming-home-in-the-dark_711963)
 
 ## DD+ 5.1
 

@@ -11,7 +11,7 @@ Vampires and werewolves have waged a nocturnal war against each other for centur
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/posts/62956466/)  [TMDB](https://www.themoviedb.org/movie/277)  [Compare across authors](../../compare/?t=film-underworld_277)
+[Discuss](https://www.avsforum.com/posts/62956466/)  [TMDB](https://www.themoviedb.org/movie/277)  [Compare across authors](../compare/index.md?t=film-underworld_277)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Underworld%20(2003)%20UR%20(-2.5%20gain)%20Atmos.jpg)

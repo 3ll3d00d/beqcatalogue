@@ -1,6 +1,6 @@
 # Moana
 
-[Compare across authors](../../compare/?t=film-moana_277834)
+[Compare across authors](../compare/index.md?t=film-moana_277834)
 
 ## Atmos
 

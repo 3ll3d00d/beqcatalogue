@@ -1,6 +1,6 @@
 # Marakkar: Lion of the Arabian Sea
 
-[Compare across authors](../../compare/?t=film-marakkar-lion-of-the-arabian-sea_617405)
+[Compare across authors](../compare/index.md?t=film-marakkar-lion-of-the-arabian-sea_617405)
 
 ## DD+ 5.1
 

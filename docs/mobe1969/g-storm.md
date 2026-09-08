@@ -1,6 +1,6 @@
 # G Storm
 
-[Compare across authors](../../compare/?t=film-g-storm_814785)
+[Compare across authors](../compare/index.md?t=film-g-storm_814785)
 
 ## Atmos
 

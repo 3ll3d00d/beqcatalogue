@@ -1,6 +1,6 @@
 # Deadwood: The Movie
 
-[Compare across authors](../../compare/?t=film-deadwood-the-movie_538225)
+[Compare across authors](../compare/index.md?t=film-deadwood-the-movie_538225)
 
 ## DD 5.1
 

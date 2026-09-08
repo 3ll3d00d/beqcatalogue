@@ -1,6 +1,6 @@
 # Kilo Two Bravo
 
-[Compare across authors](../../compare/?t=film-kilo-two-bravo_306650)
+[Compare across authors](../compare/index.md?t=film-kilo-two-bravo_306650)
 
 ## DTS-HD MA 5.1
 

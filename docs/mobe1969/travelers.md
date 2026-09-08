@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-travelers_67683)
+[Compare across authors](../compare/index.md?t=TV-travelers_67683)
 
 ## Season 1
 

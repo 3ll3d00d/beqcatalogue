@@ -1,6 +1,6 @@
 # Hara-Kiri: Death of a Samurai
 
-[Compare across authors](../../compare/?t=film-hara-kiri-death-of-a-samurai_85836)
+[Compare across authors](../compare/index.md?t=film-hara-kiri-death-of-a-samurai_85836)
 
 ## DTS-HD MA 5.1
 

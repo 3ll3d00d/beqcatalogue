@@ -1,6 +1,6 @@
 # Witness
 
-[Compare across authors](../../compare/?t=film-witness_9281)
+[Compare across authors](../compare/index.md?t=film-witness_9281)
 
 ## DD+ 5.1
 

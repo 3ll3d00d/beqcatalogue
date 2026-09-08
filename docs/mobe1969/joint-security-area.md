@@ -1,6 +1,6 @@
 # Joint Security Area
 
-[Compare across authors](../../compare/?t=film-joint-security-area_2440)
+[Compare across authors](../compare/index.md?t=film-joint-security-area_2440)
 
 ## DTS-HD MA 5.1
 

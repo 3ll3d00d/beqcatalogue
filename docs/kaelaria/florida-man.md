@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-florida-man_123856)
+* [Compare across authors](../compare/index.md?t=TV-florida-man_123856)
 
 * Production Year: 2023
 

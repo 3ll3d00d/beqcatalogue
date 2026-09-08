@@ -7,7 +7,7 @@
 A hardened special forces agent fights to protect a young woman from a sinister criminal gang. At the same time, he feels a special connection to the young woman, like they have met in a different life.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/460648)  [Compare across authors](../../compare/?t=film-bleeding-steel_460648)
+[TMDB](https://www.themoviedb.org/movie/460648)  [Compare across authors](../compare/index.md?t=film-bleeding-steel_460648)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Bleeding%20Steel/Bleeding%20Steel%20(2017)%20(zh)%20DTS-HD%20MA%205.1.jpg)

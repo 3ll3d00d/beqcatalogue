@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-american-primeval_215866)
+* [Compare across authors](../compare/index.md?t=TV-american-primeval_215866)
 
 * Production Year: 2025
 

@@ -9,7 +9,7 @@ A modern family relocates to the countryside where the children discover a magic
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1742?post_id=64620455#post-64620455)  [TMDB](https://www.themoviedb.org/movie/1140521)  [Compare across authors](../../compare/?t=film-the-magic-faraway-tree_1140521)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1742?post_id=64620455#post-64620455)  [TMDB](https://www.themoviedb.org/movie/1140521)  [Compare across authors](../compare/index.md?t=film-the-magic-faraway-tree_1140521)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Magic%20Faraway%20Tree%20(2026)%20(%2B2.5%20gain)%20DD%2B.jpg)

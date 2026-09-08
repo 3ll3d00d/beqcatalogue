@@ -1,6 +1,6 @@
 # Bhoothnath Returns
 
-[Compare across authors](../../compare/?t=film-bhoothnath-returns_264085)
+[Compare across authors](../compare/index.md?t=film-bhoothnath-returns_264085)
 
 ## DTS-HD MA 5.1
 

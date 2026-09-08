@@ -1,6 +1,6 @@
 # Wild Wild West
 
-[Compare across authors](../../compare/?t=film-wild-wild-west_8487)
+[Compare across authors](../compare/index.md?t=film-wild-wild-west_8487)
 
 ## DD+ 5.1
 

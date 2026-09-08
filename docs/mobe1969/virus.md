@@ -1,6 +1,6 @@
 # Virus
 
-[Compare across authors](../../compare/?t=film-virus_9423)
+[Compare across authors](../compare/index.md?t=film-virus_9423)
 
 ## DTS-HD MA 5.1
 

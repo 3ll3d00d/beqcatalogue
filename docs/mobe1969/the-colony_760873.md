@@ -1,6 +1,6 @@
 # The Colony
 
-[Compare across authors](../../compare/?t=film-the-colony_760873)
+[Compare across authors](../compare/index.md?t=film-the-colony_760873)
 
 ## DTS-HD MA 5.1
 

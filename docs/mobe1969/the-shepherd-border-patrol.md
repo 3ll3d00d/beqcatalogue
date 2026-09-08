@@ -1,6 +1,6 @@
 # The Shepherd: Border Patrol
 
-[Compare across authors](../../compare/?t=film-the-shepherd-border-patrol_24411)
+[Compare across authors](../compare/index.md?t=film-the-shepherd-border-patrol_24411)
 
 ## DD 5.1
 

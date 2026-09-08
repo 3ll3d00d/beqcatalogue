@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-halo-the-fall-of-reach_77184)
+[Compare across authors](../compare/index.md?t=TV-halo-the-fall-of-reach_77184)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Sherlock Holmes
 
-[Compare across authors](../../compare/?t=film-sherlock-holmes_10528)
+[Compare across authors](../compare/index.md?t=film-sherlock-holmes_10528)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

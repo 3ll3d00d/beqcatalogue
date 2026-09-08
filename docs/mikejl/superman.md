@@ -7,7 +7,7 @@
 Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1061474)  [Compare across authors](../../compare/?t=film-superman_1061474)
+[TMDB](https://www.themoviedb.org/movie/1061474)  [Compare across authors](../compare/index.md?t=film-superman_1061474)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Superman/Superman%20(2025)%20Atmos.jpg)
@@ -21,7 +21,7 @@ Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryp
 Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1061474)  [Compare across authors](../../compare/?t=film-superman_1061474)
+[TMDB](https://www.themoviedb.org/movie/1061474)  [Compare across authors](../compare/index.md?t=film-superman_1061474)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Superman/Superman%20(2025)%20DD%2B%20Atmos.jpg)

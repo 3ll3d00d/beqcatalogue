@@ -1,6 +1,6 @@
 # Jailer
 
-[Compare across authors](../../compare/?t=film-jailer_937020)
+[Compare across authors](../compare/index.md?t=film-jailer_937020)
 
 ## DD+ 5.1
 

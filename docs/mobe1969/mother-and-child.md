@@ -1,6 +1,6 @@
 # Mother and Child
 
-[Compare across authors](../../compare/?t=film-mother-and-child_37080)
+[Compare across authors](../compare/index.md?t=film-mother-and-child_37080)
 
 ## DTS-HD MA 5.1
 

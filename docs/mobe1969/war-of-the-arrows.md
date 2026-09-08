@@ -1,6 +1,6 @@
 # War of the Arrows
 
-[Compare across authors](../../compare/?t=film-war-of-the-arrows_79224)
+[Compare across authors](../compare/index.md?t=film-war-of-the-arrows_79224)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-skylines_92150)
+[Compare across authors](../compare/index.md?t=TV-skylines_92150)
 
 ## Season 1
 

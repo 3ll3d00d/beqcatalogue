@@ -1,6 +1,6 @@
 # Journey to the Center of the Earth
 
-[Compare across authors](../../compare/?t=film-journey-to-the-center-of-the-earth_88751)
+[Compare across authors](../compare/index.md?t=film-journey-to-the-center-of-the-earth_88751)
 
 ## DTS-HD MA 5.1
 

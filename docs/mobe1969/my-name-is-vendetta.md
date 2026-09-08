@@ -1,6 +1,6 @@
 # My Name is Vendetta
 
-[Compare across authors](../../compare/?t=film-my-name-is-vendetta_873126)
+[Compare across authors](../compare/index.md?t=film-my-name-is-vendetta_873126)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Luca
 
-[Compare across authors](../../compare/?t=film-luca_508943)
+[Compare across authors](../compare/index.md?t=film-luca_508943)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Raees
 
-[Compare across authors](../../compare/?t=film-raees_363343)
+[Compare across authors](../compare/index.md?t=film-raees_363343)
 
 ## DD+ 5.1
 

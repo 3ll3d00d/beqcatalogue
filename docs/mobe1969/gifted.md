@@ -1,6 +1,6 @@
 # Gifted
 
-[Compare across authors](../../compare/?t=film-gifted_314569)
+[Compare across authors](../compare/index.md?t=film-gifted_314569)
 
 ## DTS-HD MA 5.1
 

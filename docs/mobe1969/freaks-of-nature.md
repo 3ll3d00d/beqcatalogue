@@ -1,6 +1,6 @@
 # Freaks of Nature
 
-[Compare across authors](../../compare/?t=film-freaks-of-nature_218784)
+[Compare across authors](../compare/index.md?t=film-freaks-of-nature_218784)
 
 ## DTS-HD MA 5.1
 

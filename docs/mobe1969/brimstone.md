@@ -1,6 +1,6 @@
 # Brimstone
 
-[Compare across authors](../../compare/?t=film-brimstone_324560)
+[Compare across authors](../compare/index.md?t=film-brimstone_324560)
 
 ## DTS-HD MA 5.1
 

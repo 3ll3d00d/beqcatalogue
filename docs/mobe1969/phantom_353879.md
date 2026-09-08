@@ -1,6 +1,6 @@
 # Phantom
 
-[Compare across authors](../../compare/?t=film-phantom_353879)
+[Compare across authors](../compare/index.md?t=film-phantom_353879)
 
 ## Atmos
 

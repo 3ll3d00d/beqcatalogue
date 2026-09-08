@@ -1,6 +1,6 @@
 # Full Metal Jacket
 
-[Compare across authors](../../compare/?t=film-full-metal-jacket_600)
+[Compare across authors](../compare/index.md?t=film-full-metal-jacket_600)
 
 ## DTS-HD MA 5.1
 

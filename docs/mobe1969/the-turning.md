@@ -1,6 +1,6 @@
 # The Turning
 
-[Compare across authors](../../compare/?t=film-the-turning_492611)
+[Compare across authors](../compare/index.md?t=film-the-turning_492611)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # These Final Hours
 
-[Compare across authors](../../compare/?t=film-these-final-hours_199575)
+[Compare across authors](../compare/index.md?t=film-these-final-hours_199575)
 
 ## DTS-HD MA 5.1
 

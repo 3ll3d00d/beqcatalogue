@@ -1,6 +1,6 @@
 # Batman & Robin
 
-[Compare across authors](../../compare/?t=film-batman-robin_415)
+[Compare across authors](../compare/index.md?t=film-batman-robin_415)
 
 ## Atmos
 

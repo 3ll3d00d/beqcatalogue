@@ -1,6 +1,6 @@
 # Triangle of Sadness
 
-[Compare across authors](../../compare/?t=film-triangle-of-sadness_497828)
+[Compare across authors](../compare/index.md?t=film-triangle-of-sadness_497828)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Mary and the Witch's Flower
 
-[Compare across authors](../../compare/?t=film-mary-and-the-witchs-flower_430447)
+[Compare across authors](../compare/index.md?t=film-mary-and-the-witchs-flower_430447)
 
 ## DTS-HD MA 5.1
 

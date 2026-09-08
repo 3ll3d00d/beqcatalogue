@@ -1,6 +1,6 @@
 # The Priests
 
-[Compare across authors](../../compare/?t=film-the-priests_360551)
+[Compare across authors](../compare/index.md?t=film-the-priests_360551)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Air Force One
 
-[Compare across authors](../../compare/?t=film-air-force-one_9772)
+[Compare across authors](../compare/index.md?t=film-air-force-one_9772)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # American Warships
 
-[Compare across authors](../../compare/?t=film-american-warships_97632)
+[Compare across authors](../compare/index.md?t=film-american-warships_97632)
 
 ## DD+ 5.1
 

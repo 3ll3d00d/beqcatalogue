@@ -1,6 +1,6 @@
 # Whiteout
 
-[Compare across authors](../../compare/?t=film-whiteout_22787)
+[Compare across authors](../compare/index.md?t=film-whiteout_22787)
 
 ## TrueHD 5.1
 

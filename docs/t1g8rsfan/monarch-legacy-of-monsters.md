@@ -14,7 +14,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62957349)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -31,7 +31,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62957349)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -50,7 +50,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62957349)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -69,7 +69,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62957349)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -88,7 +88,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62957349)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -107,7 +107,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62957349)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -124,7 +124,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62957349/)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2026
 
@@ -141,7 +141,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62957349/)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2026
 
@@ -160,7 +160,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62957349/)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2026
 
@@ -179,7 +179,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62957349/)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2026
 

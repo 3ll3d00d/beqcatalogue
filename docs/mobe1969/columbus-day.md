@@ -1,6 +1,6 @@
 # Columbus Day
 
-[Compare across authors](../../compare/?t=film-columbus-day_14142)
+[Compare across authors](../compare/index.md?t=film-columbus-day_14142)
 
 ## DTS-HD MA 5.1
 

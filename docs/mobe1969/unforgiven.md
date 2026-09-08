@@ -1,6 +1,6 @@
 # Unforgiven
 
-[Compare across authors](../../compare/?t=film-unforgiven_33)
+[Compare across authors](../compare/index.md?t=film-unforgiven_33)
 
 ## DTS-HD MA 5.1
 

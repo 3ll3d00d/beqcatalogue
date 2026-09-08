@@ -1,6 +1,6 @@
 # A Witness Out of the Blue
 
-[Compare across authors](../../compare/?t=film-a-witness-out-of-the-blue_629919)
+[Compare across authors](../compare/index.md?t=film-a-witness-out-of-the-blue_629919)
 
 ## TrueHD 7.1
 

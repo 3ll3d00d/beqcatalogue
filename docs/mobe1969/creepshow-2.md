@@ -1,6 +1,6 @@
 # Creepshow 2
 
-[Compare across authors](../../compare/?t=film-creepshow-2_16288)
+[Compare across authors](../compare/index.md?t=film-creepshow-2_16288)
 
 ## DTS-HD MA 5.1
 

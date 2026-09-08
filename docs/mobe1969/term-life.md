@@ -1,6 +1,6 @@
 # Term Life
 
-[Compare across authors](../../compare/?t=film-term-life_257440)
+[Compare across authors](../compare/index.md?t=film-term-life_257440)
 
 ## DTS-HD MA 5.1
 

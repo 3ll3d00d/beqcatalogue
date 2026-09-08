@@ -1,6 +1,6 @@
 # Hubble
 
-[Compare across authors](../../compare/?t=film-hubble_44992)
+[Compare across authors](../compare/index.md?t=film-hubble_44992)
 
 ## DTS-HD MA 5.1
 

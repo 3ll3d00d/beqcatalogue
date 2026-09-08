@@ -1,6 +1,6 @@
 # Wolf Warrior II
 
-[Compare across authors](../../compare/?t=film-wolf-warrior-ii_452557)
+[Compare across authors](../compare/index.md?t=film-wolf-warrior-ii_452557)
 
 ## Atmos
 

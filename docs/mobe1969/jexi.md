@@ -1,6 +1,6 @@
 # Jexi
 
-[Compare across authors](../../compare/?t=film-jexi_620725)
+[Compare across authors](../compare/index.md?t=film-jexi_620725)
 
 ## DD+ 5.1
 

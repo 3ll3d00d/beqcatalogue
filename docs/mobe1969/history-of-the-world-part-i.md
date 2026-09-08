@@ -1,6 +1,6 @@
 # History of the World: Part I
 
-[Compare across authors](../../compare/?t=film-history-of-the-world-part-i_10156)
+[Compare across authors](../compare/index.md?t=film-history-of-the-world-part-i_10156)
 
 ## DTS-HD MA 5.1
 

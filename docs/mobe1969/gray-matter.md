@@ -1,6 +1,6 @@
 # Gray Matter
 
-[Compare across authors](../../compare/?t=film-gray-matter_1093796)
+[Compare across authors](../compare/index.md?t=film-gray-matter_1093796)
 
 ## DD+ 5.1
 

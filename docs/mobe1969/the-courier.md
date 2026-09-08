@@ -1,6 +1,6 @@
 # The Courier
 
-[Compare across authors](../../compare/?t=film-the-courier_97512)
+[Compare across authors](../compare/index.md?t=film-the-courier_97512)
 
 ## DTS-HD MA 5.1
 

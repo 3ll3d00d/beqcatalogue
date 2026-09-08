@@ -1,6 +1,6 @@
 # Get Carter
 
-[Compare across authors](../../compare/?t=film-get-carter_10461)
+[Compare across authors](../compare/index.md?t=film-get-carter_10461)
 
 ## DTS-HD MA 5.1
 

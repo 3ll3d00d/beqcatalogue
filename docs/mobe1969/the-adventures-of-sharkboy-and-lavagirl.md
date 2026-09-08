@@ -1,6 +1,6 @@
 # The Adventures of Sharkboy and Lavagirl
 
-[Compare across authors](../../compare/?t=film-the-adventures-of-sharkboy-and-lavagirl_14199)
+[Compare across authors](../compare/index.md?t=film-the-adventures-of-sharkboy-and-lavagirl_14199)
 
 ## DD+ 5.1
 

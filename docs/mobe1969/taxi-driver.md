@@ -1,6 +1,6 @@
 # Taxi Driver
 
-[Compare across authors](../../compare/?t=film-taxi-driver_103)
+[Compare across authors](../compare/index.md?t=film-taxi-driver_103)
 
 ## DTS-HD MA 5.1
 

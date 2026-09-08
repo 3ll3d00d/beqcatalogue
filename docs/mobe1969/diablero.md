@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-diablero_83300)
+[Compare across authors](../compare/index.md?t=TV-diablero_83300)
 
 ## Season 1
 

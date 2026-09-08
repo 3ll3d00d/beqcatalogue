@@ -9,7 +9,7 @@ A Japanese police unit who use giant anthropomorphic robots (called Labors) is c
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1441#post-63272597)  [TMDB](https://www.themoviedb.org/movie/14572)  [Compare across authors](../../compare/?t=film-patlabor-2-the-movie_14572)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1441#post-63272597)  [TMDB](https://www.themoviedb.org/movie/14572)  [Compare across authors](../compare/index.md?t=film-patlabor-2-the-movie_14572)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Patlabor%202%20The%20Movie%20(1993)%20DTS-HD%20MA%205.1%20(JA)%20(%2B3.5%20gain).jpg)

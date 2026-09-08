@@ -1,6 +1,6 @@
 # Smokin' Aces
 
-[Compare across authors](../../compare/?t=film-smokin-aces_7516)
+[Compare across authors](../compare/index.md?t=film-smokin-aces_7516)
 
 ## DTS-HD MA 5.1
 

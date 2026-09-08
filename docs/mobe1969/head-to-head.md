@@ -1,6 +1,6 @@
 # Head to Head
 
-[Compare across authors](../../compare/?t=film-head-to-head_1153366)
+[Compare across authors](../compare/index.md?t=film-head-to-head_1153366)
 
 ## DD+ Atmos
 

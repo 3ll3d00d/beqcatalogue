@@ -1,6 +1,6 @@
 # Tae Guk Gi: The Brotherhood of War
 
-[Compare across authors](../../compare/?t=film-tae-guk-gi-the-brotherhood-of-war_11658)
+[Compare across authors](../compare/index.md?t=film-tae-guk-gi-the-brotherhood-of-war_11658)
 
 ## DTS-HD MA 5.1
 

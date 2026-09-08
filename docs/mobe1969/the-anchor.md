@@ -1,6 +1,6 @@
 # The Anchor
 
-[Compare across authors](../../compare/?t=film-the-anchor_626129)
+[Compare across authors](../compare/index.md?t=film-the-anchor_626129)
 
 ## DTS-HD MA 5.1
 

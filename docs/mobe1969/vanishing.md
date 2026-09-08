@@ -1,6 +1,6 @@
 # Vanishing
 
-[Compare across authors](../../compare/?t=film-vanishing_680071)
+[Compare across authors](../compare/index.md?t=film-vanishing_680071)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Sky Hunter
 
-[Compare across authors](../../compare/?t=film-sky-hunter_478826)
+[Compare across authors](../compare/index.md?t=film-sky-hunter_478826)
 
 ## TrueHD 5.1
 

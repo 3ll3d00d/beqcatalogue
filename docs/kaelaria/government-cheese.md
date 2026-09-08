@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-government-cheese_241491)
+* [Compare across authors](../compare/index.md?t=TV-government-cheese_241491)
 
 * Production Year: 2025
 

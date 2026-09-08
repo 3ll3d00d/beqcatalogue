@@ -1,6 +1,6 @@
 # Harry Potter and the Chamber of Secrets
 
-[Compare across authors](../../compare/?t=film-harry-potter-and-the-chamber-of-secrets_672)
+[Compare across authors](../compare/index.md?t=film-harry-potter-and-the-chamber-of-secrets_672)
 
 ## DD+ 5.1
 

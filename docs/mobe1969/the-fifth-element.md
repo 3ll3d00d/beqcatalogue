@@ -1,6 +1,6 @@
 # The Fifth Element
 
-[Compare across authors](../../compare/?t=film-the-fifth-element_18)
+[Compare across authors](../compare/index.md?t=film-the-fifth-element_18)
 
 ## Atmos
 

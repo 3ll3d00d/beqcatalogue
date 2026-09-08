@@ -1,6 +1,6 @@
 # The Sword Identity
 
-[Compare across authors](../../compare/?t=film-the-sword-identity_120460)
+[Compare across authors](../compare/index.md?t=film-the-sword-identity_120460)
 
 ## DD+ 5.1
 

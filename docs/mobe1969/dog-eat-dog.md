@@ -1,6 +1,6 @@
 # Dog Eat Dog
 
-[Compare across authors](../../compare/?t=film-dog-eat-dog_354979)
+[Compare across authors](../compare/index.md?t=film-dog-eat-dog_354979)
 
 ## DTS-HD MA 5.1
 

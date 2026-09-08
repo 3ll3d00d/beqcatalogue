@@ -1,6 +1,6 @@
 # The Hustle
 
-[Compare across authors](../../compare/?t=film-the-hustle_449562)
+[Compare across authors](../compare/index.md?t=film-the-hustle_449562)
 
 ## DTS-HD MA 7.1
 

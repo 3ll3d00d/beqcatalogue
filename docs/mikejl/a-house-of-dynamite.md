@@ -7,7 +7,7 @@
 When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1290159)  [Compare across authors](../../compare/?t=film-a-house-of-dynamite_1290159)
+[TMDB](https://www.themoviedb.org/movie/1290159)  [Compare across authors](../compare/index.md?t=film-a-house-of-dynamite_1290159)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20House%20of%20Dynamite/A%20House%20of%20Dynamite%20(2025)%202K%20DD%2B%20Atmos.jpg)

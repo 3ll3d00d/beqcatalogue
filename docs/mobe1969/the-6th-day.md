@@ -1,6 +1,6 @@
 # The 6th Day
 
-[Compare across authors](../../compare/?t=film-the-6th-day_8452)
+[Compare across authors](../compare/index.md?t=film-the-6th-day_8452)
 
 ## TrueHD 5.1
 

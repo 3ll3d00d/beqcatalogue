@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-fubar_221300)
+[Compare across authors](../compare/index.md?t=TV-fubar_221300)
 
 ## Season 1
 

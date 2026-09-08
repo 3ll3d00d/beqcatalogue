@@ -1,6 +1,6 @@
 # The Blob
 
-[Compare across authors](../../compare/?t=film-the-blob_9599)
+[Compare across authors](../compare/index.md?t=film-the-blob_9599)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Postman
 
-[Compare across authors](../../compare/?t=film-the-postman_9922)
+[Compare across authors](../compare/index.md?t=film-the-postman_9922)
 
 ## TrueHD 5.1
 

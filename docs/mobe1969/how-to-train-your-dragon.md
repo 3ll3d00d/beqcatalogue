@@ -1,6 +1,6 @@
 # How to Train Your Dragon
 
-[Compare across authors](../../compare/?t=film-how-to-train-your-dragon_10191)
+[Compare across authors](../compare/index.md?t=film-how-to-train-your-dragon_10191)
 
 ## DTS-X
 

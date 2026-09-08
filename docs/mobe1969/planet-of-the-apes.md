@@ -1,6 +1,6 @@
 # Planet of the Apes
 
-[Compare across authors](../../compare/?t=film-planet-of-the-apes_871)
+[Compare across authors](../compare/index.md?t=film-planet-of-the-apes_871)
 
 ## DTS-HD MA 5.1
 

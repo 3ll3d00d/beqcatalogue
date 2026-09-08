@@ -1,6 +1,6 @@
 # Insurgent
 
-[Compare across authors](../../compare/?t=film-insurgent_262500)
+[Compare across authors](../compare/index.md?t=film-insurgent_262500)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Pad Man
 
-[Compare across authors](../../compare/?t=film-pad-man_447856)
+[Compare across authors](../compare/index.md?t=film-pad-man_447856)
 
 ## DD+ 5.1
 

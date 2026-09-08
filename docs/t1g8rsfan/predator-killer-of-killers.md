@@ -12,7 +12,7 @@ While three of the fiercest warriors in human history—a Viking raider, a ninja
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1376434)  [Compare across authors](../../compare/?t=film-predator-killer-of-killers_1376434)
+[TMDB](https://www.themoviedb.org/movie/1376434)  [Compare across authors](../compare/index.md?t=film-predator-killer-of-killers_1376434)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Predator%20Killer%20of%20Killers%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

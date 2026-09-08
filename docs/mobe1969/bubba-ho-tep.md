@@ -1,6 +1,6 @@
 # Bubba Ho-Tep
 
-[Compare across authors](../../compare/?t=film-bubba-ho-tep_9707)
+[Compare across authors](../compare/index.md?t=film-bubba-ho-tep_9707)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Kingdom II: Far and Away
 
-[Compare across authors](../../compare/?t=film-kingdom-ii-far-and-away_961420)
+[Compare across authors](../compare/index.md?t=film-kingdom-ii-far-and-away_961420)
 
 ## DD+ 5.1
 

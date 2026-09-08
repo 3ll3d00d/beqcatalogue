@@ -1,6 +1,6 @@
 # Jungle Cruise
 
-[Compare across authors](../../compare/?t=film-jungle-cruise_451048)
+[Compare across authors](../compare/index.md?t=film-jungle-cruise_451048)
 
 ## Atmos
 

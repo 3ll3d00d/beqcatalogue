@@ -1,6 +1,6 @@
 # Chhalaang
 
-[Compare across authors](../../compare/?t=film-chhalaang_667585)
+[Compare across authors](../compare/index.md?t=film-chhalaang_667585)
 
 ## DD+ 5.1
 

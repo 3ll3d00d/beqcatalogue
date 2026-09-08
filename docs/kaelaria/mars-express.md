@@ -10,7 +10,7 @@ In 2200, private detective Aline Ruby and her android partner Carlos Rivera are 
 FRE
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/586810)  [Compare across authors](../../compare/?t=film-mars-express_586810)
+[TMDB](https://www.themoviedb.org/movie/586810)  [Compare across authors](../compare/index.md?t=film-mars-express_586810)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Mars%20Express%20(2023)%20(fre)%20DTS-HD%20MA%205.1.jpg)

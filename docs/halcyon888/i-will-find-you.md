@@ -12,7 +12,7 @@
 Dialnorm Compensation: E1: +6dB; E2: +4dB; E3 +3dB; E4 +5dB; E5-E8 +4dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-i-will-find-you_278178)
+* [Compare across authors](../compare/index.md?t=TV-i-will-find-you_278178)
 
 * Production Year: 2026
 

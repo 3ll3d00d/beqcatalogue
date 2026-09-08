@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mad-dog_74076)
+[Compare across authors](../compare/index.md?t=TV-mad-dog_74076)
 
 ## Season 1
 

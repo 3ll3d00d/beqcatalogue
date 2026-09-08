@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-bastard-son-the-devil-himself_210235)
+[Compare across authors](../compare/index.md?t=TV-the-bastard-son-the-devil-himself_210235)
 
 ## Season 1
 

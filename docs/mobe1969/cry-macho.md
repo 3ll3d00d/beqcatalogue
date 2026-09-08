@@ -1,6 +1,6 @@
 # Cry Macho
 
-[Compare across authors](../../compare/?t=film-cry-macho_749274)
+[Compare across authors](../compare/index.md?t=film-cry-macho_749274)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Brother
 
-[Compare across authors](../../compare/?t=film-brother_570137)
+[Compare across authors](../compare/index.md?t=film-brother_570137)
 
 ## DD+ 5.1
 

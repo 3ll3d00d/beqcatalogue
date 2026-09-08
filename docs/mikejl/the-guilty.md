@@ -7,7 +7,7 @@
 A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/567748)  [Compare across authors](../../compare/?t=film-the-guilty_567748)
+[TMDB](https://www.themoviedb.org/movie/567748)  [Compare across authors](../compare/index.md?t=film-the-guilty_567748)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Guilty/The%20Guilty%20(2021)%20DD%2B%20Atmos.jpg)

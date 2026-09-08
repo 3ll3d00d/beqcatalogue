@@ -1,6 +1,6 @@
 # Planes, Trains and Automobiles
 
-[Compare across authors](../../compare/?t=film-planes-trains-and-automobiles_2609)
+[Compare across authors](../compare/index.md?t=film-planes-trains-and-automobiles_2609)
 
 ## DTS-HD MA 5.1
 

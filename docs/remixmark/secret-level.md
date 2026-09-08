@@ -12,7 +12,7 @@ Dialnorm Compensation: E1: 5dB, E2: 3dB, E3: 2dB, E4: 13dB, E5: 16dB, E7: 6dB, E
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1538?post_id=63702313#post-63702313)
 
-* [Compare across authors](../../compare/?t=TV-secret-level_261579)
+* [Compare across authors](../compare/index.md?t=TV-secret-level_261579)
 
 * Production Year: 2024
 
@@ -31,7 +31,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63704279#post-63704279)
 
-* [Compare across authors](../../compare/?t=TV-secret-level_261579)
+* [Compare across authors](../compare/index.md?t=TV-secret-level_261579)
 
 * Production Year: 2024
 
@@ -50,7 +50,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63717593#post-63717593)
 
-* [Compare across authors](../../compare/?t=TV-secret-level_261579)
+* [Compare across authors](../compare/index.md?t=TV-secret-level_261579)
 
 * Production Year: 2024
 
@@ -72,7 +72,7 @@ Dialnorm Compensation: E10: 5db E11: 2dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63717629#post-63717629)
 
-* [Compare across authors](../../compare/?t=TV-secret-level_261579)
+* [Compare across authors](../compare/index.md?t=TV-secret-level_261579)
 
 * Production Year: 2024
 
@@ -89,7 +89,7 @@ Dialnorm Compensation: E10: 5db E11: 2dB
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-secret-level_2024)
+* [Compare across authors](../compare/index.md?t=TV-secret-level_2024)
 
 * Production Year: 2024
 
@@ -111,7 +111,7 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1541?post_id=63717752#post-63717752)
 
-* [Compare across authors](../../compare/?t=TV-secret-level_261579)
+* [Compare across authors](../compare/index.md?t=TV-secret-level_261579)
 
 * Production Year: 2024
 
@@ -133,7 +133,7 @@ Dialnorm Compensation: E14: 4dB E15: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1541?post_id=63717678#post-63717678)
 
-* [Compare across authors](../../compare/?t=TV-secret-level_261579)
+* [Compare across authors](../compare/index.md?t=TV-secret-level_261579)
 
 * Production Year: 2024
 

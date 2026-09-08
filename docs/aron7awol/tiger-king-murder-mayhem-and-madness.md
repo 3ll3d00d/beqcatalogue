@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-tiger-king-murder-mayhem-and-madness_100698)
+[Compare across authors](../compare/index.md?t=TV-tiger-king-murder-mayhem-and-madness_100698)
 
 ## Season 1
 

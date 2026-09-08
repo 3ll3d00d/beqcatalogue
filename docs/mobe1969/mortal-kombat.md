@@ -1,6 +1,6 @@
 # Mortal Kombat
 
-[Compare across authors](../../compare/?t=film-mortal-kombat_460465)
+[Compare across authors](../compare/index.md?t=film-mortal-kombat_460465)
 
 ## Atmos, DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Force of Nature
 
-[Compare across authors](../../compare/?t=film-force-of-nature_619592)
+[Compare across authors](../compare/index.md?t=film-force-of-nature_619592)
 
 ## DTS-HD MA 5.1
 

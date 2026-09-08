@@ -1,6 +1,6 @@
 # Space Cowboys
 
-[Compare across authors](../../compare/?t=film-space-cowboys_5551)
+[Compare across authors](../compare/index.md?t=film-space-cowboys_5551)
 
 ## DD 5.1
 

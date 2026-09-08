@@ -1,6 +1,6 @@
 # Green Snake
 
-[Compare across authors](../../compare/?t=film-green-snake_795607)
+[Compare across authors](../compare/index.md?t=film-green-snake_795607)
 
 ## DD+ 5.1
 

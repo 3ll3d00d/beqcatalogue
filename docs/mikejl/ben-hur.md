@@ -9,7 +9,7 @@ UHD
 In 26 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/665)  [Compare across authors](../../compare/?t=film-ben-hur_665)
+[TMDB](https://www.themoviedb.org/movie/665)  [Compare across authors](../compare/index.md?t=film-ben-hur_665)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Ben-Hur/Ben-Hur%20(1959)%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # Operation Mayfair
 
-[Compare across authors](../../compare/?t=film-operation-mayfair_1103937)
+[Compare across authors](../compare/index.md?t=film-operation-mayfair_1103937)
 
 ## DD+ 5.1
 

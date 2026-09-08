@@ -1,6 +1,6 @@
 # The Chinese Widow
 
-[Compare across authors](../../compare/?t=film-the-chinese-widow_528210)
+[Compare across authors](../compare/index.md?t=film-the-chinese-widow_528210)
 
 ## DTS-HD MA 5.1
 

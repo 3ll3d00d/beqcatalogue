@@ -1,6 +1,6 @@
 # Gold Brick
 
-[Compare across authors](../../compare/?t=film-gold-brick_1140056)
+[Compare across authors](../compare/index.md?t=film-gold-brick_1140056)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Haunted-3D
 
-[Compare across authors](../../compare/?t=film-haunted-3d_68758)
+[Compare across authors](../compare/index.md?t=film-haunted-3d_68758)
 
 ## AAC 5.1
 

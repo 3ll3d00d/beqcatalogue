@@ -1,6 +1,6 @@
 # Frostbite!
 
-[Compare across authors](../../compare/?t=film-frostbite_311482)
+[Compare across authors](../compare/index.md?t=film-frostbite_311482)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Angel of Reckoning
 
-[Compare across authors](../../compare/?t=film-angel-of-reckoning_417033)
+[Compare across authors](../compare/index.md?t=film-angel-of-reckoning_417033)
 
 ## DD+ 2.0
 

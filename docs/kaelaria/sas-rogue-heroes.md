@@ -7,7 +7,7 @@
 * DTS-HD MA 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-sas-rogue-heroes_93870)
+* [Compare across authors](../compare/index.md?t=TV-sas-rogue-heroes_93870)
 
 * Production Year: 2022
 
@@ -22,7 +22,7 @@
 * DTS-HD MA 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-sas-rogue-heroes_93870)
+* [Compare across authors](../compare/index.md?t=TV-sas-rogue-heroes_93870)
 
 * Production Year: 2022
 

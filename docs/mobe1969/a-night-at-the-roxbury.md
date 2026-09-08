@@ -1,6 +1,6 @@
 # A Night at the Roxbury
 
-[Compare across authors](../../compare/?t=film-a-night-at-the-roxbury_9429)
+[Compare across authors](../compare/index.md?t=film-a-night-at-the-roxbury_9429)
 
 ## TrueHD 5.1
 

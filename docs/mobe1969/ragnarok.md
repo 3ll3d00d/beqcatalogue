@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ragnarok_91557)
+[Compare across authors](../compare/index.md?t=TV-ragnarok_91557)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # The Last Stand
 
-[Compare across authors](../../compare/?t=film-the-last-stand_76640)
+[Compare across authors](../compare/index.md?t=film-the-last-stand_76640)
 
 ## DTS-HD MA 7.1
 

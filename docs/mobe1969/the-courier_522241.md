@@ -1,6 +1,6 @@
 # The Courier
 
-[Compare across authors](../../compare/?t=film-the-courier_522241)
+[Compare across authors](../compare/index.md?t=film-the-courier_522241)
 
 ## DD+ 5.1
 

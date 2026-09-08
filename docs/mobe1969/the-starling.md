@@ -1,6 +1,6 @@
 # The Starling
 
-[Compare across authors](../../compare/?t=film-the-starling_468225)
+[Compare across authors](../compare/index.md?t=film-the-starling_468225)
 
 ## DD+ Atmos, DD+ 5.1
 

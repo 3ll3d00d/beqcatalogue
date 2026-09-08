@@ -1,6 +1,6 @@
 # Ecstasy
 
-[Compare across authors](../../compare/?t=film-ecstasy_91902)
+[Compare across authors](../compare/index.md?t=film-ecstasy_91902)
 
 ## DTS-HD MA 5.1
 

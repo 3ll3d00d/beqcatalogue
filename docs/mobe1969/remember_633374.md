@@ -1,6 +1,6 @@
 # Remember
 
-[Compare across authors](../../compare/?t=film-remember_633374)
+[Compare across authors](../compare/index.md?t=film-remember_633374)
 
 ## DTS-HD MA 5.1
 

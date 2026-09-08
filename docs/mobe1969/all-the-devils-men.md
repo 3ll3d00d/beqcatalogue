@@ -1,6 +1,6 @@
 # All the Devil's Men
 
-[Compare across authors](../../compare/?t=film-all-the-devils-men_481203)
+[Compare across authors](../compare/index.md?t=film-all-the-devils-men_481203)
 
 ## DTS-HD MA 5.1
 

@@ -9,7 +9,7 @@ In an attempt to avenge her daughter’s death, Irene Kelly travels through para
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64625613#post-64625613)  [TMDB](https://www.themoviedb.org/movie/1340110)  [Compare across authors](../../compare/?t=film-redux-redux_1340110)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64625613#post-64625613)  [TMDB](https://www.themoviedb.org/movie/1340110)  [Compare across authors](../compare/index.md?t=film-redux-redux_1340110)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Redux%20Redux%20(2025)%20(%2B3.5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ In an attempt to avenge her daughter’s death, Irene Kelly travels through para
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1748?post_id=64668116#post-64668116)  [TMDB](https://www.themoviedb.org/movie/1340110)  [Compare across authors](../../compare/?t=film-redux-redux_1340110)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1748?post_id=64668116#post-64668116)  [TMDB](https://www.themoviedb.org/movie/1340110)  [Compare across authors](../compare/index.md?t=film-redux-redux_1340110)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Redux%20Redux%20(2025)%20(%2B5.5%20gain)%20DTS-HD%20MA%205.1.jpg)

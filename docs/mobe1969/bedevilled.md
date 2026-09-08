@@ -1,6 +1,6 @@
 # Bedevilled
 
-[Compare across authors](../../compare/?t=film-bedevilled_59421)
+[Compare across authors](../compare/index.md?t=film-bedevilled_59421)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Harry Potter and the Deathly Hallows: Part 1
 
-[Compare across authors](../../compare/?t=film-harry-potter-and-the-deathly-hallows-part-1_12444)
+[Compare across authors](../compare/index.md?t=film-harry-potter-and-the-deathly-hallows-part-1_12444)
 
 ## DD+ 5.1
 

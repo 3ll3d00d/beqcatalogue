@@ -1,6 +1,6 @@
 # The Good, the Bad and the Ugly
 
-[Compare across authors](../../compare/?t=film-the-good-the-bad-and-the-ugly_429)
+[Compare across authors](../compare/index.md?t=film-the-good-the-bad-and-the-ugly_429)
 
 ## DTS-HD MA 5.1
 

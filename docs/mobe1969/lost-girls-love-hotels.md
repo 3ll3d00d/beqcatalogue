@@ -1,6 +1,6 @@
 # Lost Girls & Love Hotels
 
-[Compare across authors](../../compare/?t=film-lost-girls-love-hotels_479259)
+[Compare across authors](../compare/index.md?t=film-lost-girls-love-hotels_479259)
 
 ## DD+ 5.1
 

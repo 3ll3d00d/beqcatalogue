@@ -1,6 +1,6 @@
 # Mystery Men
 
-[Compare across authors](../../compare/?t=film-mystery-men_9824)
+[Compare across authors](../compare/index.md?t=film-mystery-men_9824)
 
 ## DTS-HD MA 5.1
 

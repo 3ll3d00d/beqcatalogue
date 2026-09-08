@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-black-butterflies_208691)
+[Compare across authors](../compare/index.md?t=TV-black-butterflies_208691)
 
 ## Season 1
 

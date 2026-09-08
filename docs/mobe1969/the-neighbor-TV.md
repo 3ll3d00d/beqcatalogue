@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-neighbor_96425)
+[Compare across authors](../compare/index.md?t=TV-the-neighbor_96425)
 
 ## Season 1
 

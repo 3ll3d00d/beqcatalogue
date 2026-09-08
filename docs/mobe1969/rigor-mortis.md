@@ -1,6 +1,6 @@
 # Rigor Mortis
 
-[Compare across authors](../../compare/?t=film-rigor-mortis_210911)
+[Compare across authors](../compare/index.md?t=film-rigor-mortis_210911)
 
 ## TrueHD 5.1
 

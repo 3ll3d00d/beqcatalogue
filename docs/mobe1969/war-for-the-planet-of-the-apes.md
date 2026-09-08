@@ -1,6 +1,6 @@
 # War for the Planet of the Apes
 
-[Compare across authors](../../compare/?t=film-war-for-the-planet-of-the-apes_281338)
+[Compare across authors](../compare/index.md?t=film-war-for-the-planet-of-the-apes_281338)
 
 ## Atmos, DTS-HD MA 7.1
 

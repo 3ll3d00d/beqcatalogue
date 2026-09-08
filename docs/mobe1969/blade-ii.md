@@ -1,6 +1,6 @@
 # Blade II
 
-[Compare across authors](../../compare/?t=film-blade-ii_36586)
+[Compare across authors](../compare/index.md?t=film-blade-ii_36586)
 
 ## DTS-HD MA 7.1
 

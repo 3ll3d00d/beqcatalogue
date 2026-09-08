@@ -1,6 +1,6 @@
 # The Trade
 
-[Compare across authors](../../compare/?t=film-the-trade_1101365)
+[Compare across authors](../compare/index.md?t=film-the-trade_1101365)
 
 ## DD+ 5.1
 

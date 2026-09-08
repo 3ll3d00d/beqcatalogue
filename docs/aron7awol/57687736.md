@@ -1,6 +1,6 @@
 # Rise of the Planet of the Apes
 
-[Compare across authors](../../compare/?t=film-rise-of-the-planet-of-the-apes_61791)
+[Compare across authors](../compare/index.md?t=film-rise-of-the-planet-of-the-apes_61791)
 
 ## DTS-HD MA 5.1
 

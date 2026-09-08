@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-flower-of-evil_99494)
+[Compare across authors](../compare/index.md?t=TV-flower-of-evil_99494)
 
 ## Season 1
 

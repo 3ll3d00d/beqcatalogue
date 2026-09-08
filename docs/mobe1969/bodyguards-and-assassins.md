@@ -1,6 +1,6 @@
 # Bodyguards and Assassins
 
-[Compare across authors](../../compare/?t=film-bodyguards-and-assassins_30596)
+[Compare across authors](../compare/index.md?t=film-bodyguards-and-assassins_30596)
 
 ## DTS-HD MA 5.1
 

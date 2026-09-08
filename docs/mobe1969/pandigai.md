@@ -1,6 +1,6 @@
 # Pandigai
 
-[Compare across authors](../../compare/?t=film-pandigai_413166)
+[Compare across authors](../compare/index.md?t=film-pandigai_413166)
 
 ## DD+ 5.1
 

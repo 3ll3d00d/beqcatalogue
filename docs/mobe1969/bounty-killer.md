@@ -1,6 +1,6 @@
 # Bounty Killer
 
-[Compare across authors](../../compare/?t=film-bounty-killer_209504)
+[Compare across authors](../compare/index.md?t=film-bounty-killer_209504)
 
 ## DTS-HD MA 5.1
 

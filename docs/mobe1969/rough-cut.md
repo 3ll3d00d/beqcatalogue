@@ -1,6 +1,6 @@
 # Rough Cut
 
-[Compare across authors](../../compare/?t=film-rough-cut_17593)
+[Compare across authors](../compare/index.md?t=film-rough-cut_17593)
 
 ## DTS-HD MA 5.1
 

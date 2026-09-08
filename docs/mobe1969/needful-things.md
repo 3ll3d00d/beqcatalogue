@@ -1,6 +1,6 @@
 # Needful Things
 
-[Compare across authors](../../compare/?t=film-needful-things_10657)
+[Compare across authors](../compare/index.md?t=film-needful-things_10657)
 
 ## DTS-HD MA 5.1
 

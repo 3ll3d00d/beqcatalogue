@@ -12,7 +12,7 @@ In the near future, a group of war journalists attempt to survive while reportin
 +5dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63327634/)  [TMDB](https://www.themoviedb.org/movie/929590)  [Compare across authors](../../compare/?t=film-civil-war_929590)
+[Discuss](https://www.avsforum.com/posts/63327634/)  [TMDB](https://www.themoviedb.org/movie/929590)  [Compare across authors](../compare/index.md?t=film-civil-war_929590)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Civil%20War%20(2024)%20(%2B0.5%20gain)%20DD%2B%20Atmos.jpg)

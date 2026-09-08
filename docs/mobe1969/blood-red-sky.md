@@ -1,6 +1,6 @@
 # Blood Red Sky
 
-[Compare across authors](../../compare/?t=film-blood-red-sky_760883)
+[Compare across authors](../compare/index.md?t=film-blood-red-sky_760883)
 
 ## DD+ 5.1
 

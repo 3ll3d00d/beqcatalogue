@@ -1,6 +1,6 @@
 # Go Goa Gone
 
-[Compare across authors](../../compare/?t=film-go-goa-gone_191562)
+[Compare across authors](../compare/index.md?t=film-go-goa-gone_191562)
 
 ## DD 5.1
 

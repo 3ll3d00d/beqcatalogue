@@ -1,6 +1,6 @@
 # Aged
 
-[Compare across authors](../../compare/?t=film-aged_1130571)
+[Compare across authors](../compare/index.md?t=film-aged_1130571)
 
 ## DD+ 5.1
 

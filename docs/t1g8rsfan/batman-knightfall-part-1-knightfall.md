@@ -12,7 +12,7 @@ Arkham Asylum has been destroyed, and all its inmates have been unleashed upon G
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1560520)  [Compare across authors](../../compare/?t=film-batman-knightfall-part-1-knightfall_1560520)
+[TMDB](https://www.themoviedb.org/movie/1560520)  [Compare across authors](../compare/index.md?t=film-batman-knightfall-part-1-knightfall_1560520)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Batman%20Knightfall%20Pt%201%20(2026)%20(%2B2%20gain)%20DD%2B.jpg)

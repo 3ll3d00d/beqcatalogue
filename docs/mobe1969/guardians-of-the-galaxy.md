@@ -1,6 +1,6 @@
 # Guardians of the Galaxy
 
-[Compare across authors](../../compare/?t=film-guardians-of-the-galaxy_118340)
+[Compare across authors](../compare/index.md?t=film-guardians-of-the-galaxy_118340)
 
 ## Atmos
 

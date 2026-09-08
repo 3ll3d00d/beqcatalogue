@@ -1,6 +1,6 @@
 # Haeundae
 
-[Compare across authors](../../compare/?t=film-haeundae_33196)
+[Compare across authors](../compare/index.md?t=film-haeundae_33196)
 
 ## DTS-HD MA 5.1
 

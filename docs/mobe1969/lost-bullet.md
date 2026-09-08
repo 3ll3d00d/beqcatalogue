@@ -1,6 +1,6 @@
 # Lost Bullet
 
-[Compare across authors](../../compare/?t=film-lost-bullet_706503)
+[Compare across authors](../compare/index.md?t=film-lost-bullet_706503)
 
 ## DD+ 5.1
 

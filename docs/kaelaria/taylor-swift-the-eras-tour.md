@@ -9,7 +9,7 @@ Taylors Version
 The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1160164)  [Compare across authors](../../compare/?t=film-taylor-swift-the-eras-tour_1160164)
+[TMDB](https://www.themoviedb.org/movie/1160164)  [Compare across authors](../compare/index.md?t=film-taylor-swift-the-eras-tour_1160164)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/taylor%20swift%20the%20eras%20tour%20taylors%20version%20(2023)%20DD%2B%20Atmos.jpg)

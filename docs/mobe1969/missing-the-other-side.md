@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-missing-the-other-side_106761)
+[Compare across authors](../compare/index.md?t=TV-missing-the-other-side_106761)
 
 ## Season 1
 

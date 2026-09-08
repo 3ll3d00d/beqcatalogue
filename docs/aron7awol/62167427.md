@@ -1,6 +1,6 @@
 # Troll
 
-[Compare across authors](../../compare/?t=film-troll_736526)
+[Compare across authors](../compare/index.md?t=film-troll_736526)
 
 ## DD+ Atmos
 

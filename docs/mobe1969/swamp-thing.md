@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-swamp-thing_79240)
+[Compare across authors](../compare/index.md?t=TV-swamp-thing_79240)
 
 ## Season 1
 

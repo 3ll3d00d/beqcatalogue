@@ -1,6 +1,6 @@
 # Dybbuk
 
-[Compare across authors](../../compare/?t=film-dybbuk_886440)
+[Compare across authors](../compare/index.md?t=film-dybbuk_886440)
 
 ## DD+ 5.1
 

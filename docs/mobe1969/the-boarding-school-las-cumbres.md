@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-boarding-school-las-cumbres_97513)
+[Compare across authors](../compare/index.md?t=TV-the-boarding-school-las-cumbres_97513)
 
 ## Season 1
 

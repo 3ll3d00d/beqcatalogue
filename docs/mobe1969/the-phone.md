@@ -1,6 +1,6 @@
 # The Phone
 
-[Compare across authors](../../compare/?t=film-the-phone_367882)
+[Compare across authors](../compare/index.md?t=film-the-phone_367882)
 
 ## DTS-HD MA 5.1
 

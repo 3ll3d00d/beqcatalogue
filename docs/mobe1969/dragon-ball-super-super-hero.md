@@ -1,6 +1,6 @@
 # Dragon Ball Super: Super Hero
 
-[Compare across authors](../../compare/?t=film-dragon-ball-super-super-hero_610150)
+[Compare across authors](../compare/index.md?t=film-dragon-ball-super-super-hero_610150)
 
 ## Atmos
 

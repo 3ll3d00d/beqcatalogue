@@ -1,6 +1,6 @@
 # Mr. Car and the Knights Templar
 
-[Compare across authors](../../compare/?t=film-mr-car-and-the-knights-templar_1059638)
+[Compare across authors](../compare/index.md?t=film-mr-car-and-the-knights-templar_1059638)
 
 ## DD+ 5.1
 

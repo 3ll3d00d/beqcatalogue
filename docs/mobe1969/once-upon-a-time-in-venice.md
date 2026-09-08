@@ -1,6 +1,6 @@
 # Once Upon a Time in Venice
 
-[Compare across authors](../../compare/?t=film-once-upon-a-time-in-venice_345915)
+[Compare across authors](../compare/index.md?t=film-once-upon-a-time-in-venice_345915)
 
 ## DTS-HD MA 5.1
 

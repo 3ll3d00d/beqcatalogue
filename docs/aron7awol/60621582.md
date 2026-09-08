@@ -1,6 +1,6 @@
 # Godzilla vs. Kong
 
-[Compare across authors](../../compare/?t=film-godzilla-vs-kong_399566)
+[Compare across authors](../compare/index.md?t=film-godzilla-vs-kong_399566)
 
 ## Atmos
 

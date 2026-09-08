@@ -1,6 +1,6 @@
 # Child's Play 3
 
-[Compare across authors](../../compare/?t=film-childs-play-3_11187)
+[Compare across authors](../compare/index.md?t=film-childs-play-3_11187)
 
 ## Atmos
 

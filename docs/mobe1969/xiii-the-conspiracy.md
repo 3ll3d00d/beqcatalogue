@@ -1,6 +1,6 @@
 # XIII: The Conspiracy
 
-[Compare across authors](../../compare/?t=film-xiii-the-conspiracy_817122)
+[Compare across authors](../compare/index.md?t=film-xiii-the-conspiracy_817122)
 
 ## DD 5.1
 

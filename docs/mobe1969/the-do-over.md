@@ -1,6 +1,6 @@
 # The Do-Over
 
-[Compare across authors](../../compare/?t=film-the-do-over_389053)
+[Compare across authors](../compare/index.md?t=film-the-do-over_389053)
 
 ## DD+ 5.1
 

@@ -7,7 +7,7 @@
 A hitman, his boss, an art dealer and a money-laundering scheme that accidentally turns the assassin into an overnight avant-garde sensation, one that forces her to play the art world against the underworld.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/958006)  [Compare across authors](../../compare/?t=film-the-kill-room_958006)
+[TMDB](https://www.themoviedb.org/movie/958006)  [Compare across authors](../compare/index.md?t=film-the-kill-room_958006)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Kill%20Room%20(2023)%20DTS-HD%20MA.5.1.jpg)

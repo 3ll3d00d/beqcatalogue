@@ -9,7 +9,7 @@ In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to com
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1586?post_id=63989601#post-63989601)  [TMDB](https://www.themoviedb.org/movie/1284120)  [Compare across authors](../../compare/?t=film-the-ugly-stepsister_1284120)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1586?post_id=63989601#post-63989601)  [TMDB](https://www.themoviedb.org/movie/1284120)  [Compare across authors](../compare/index.md?t=film-the-ugly-stepsister_1284120)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Ugly%20Stepsister%20(2025)%20(%2B5.5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to com
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1641?post_id=64183597#post-64183597)  [TMDB](https://www.themoviedb.org/movie/1284120)  [Compare across authors](../../compare/?t=film-the-ugly-stepsister_1284120)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1641?post_id=64183597#post-64183597)  [TMDB](https://www.themoviedb.org/movie/1284120)  [Compare across authors](../compare/index.md?t=film-the-ugly-stepsister_1284120)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Ugly%20Stepsister%20(2025)%20(%2B5%20gaiin)%20DTS-HD%20MA%205.1.jpg)

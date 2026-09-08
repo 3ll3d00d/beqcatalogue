@@ -12,7 +12,7 @@ The young daughter of a journalist disappears into the desert without a trace—
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1304313)  [Compare across authors](../../compare/?t=film-lee-cronins-the-mummy_1304313)
+[TMDB](https://www.themoviedb.org/movie/1304313)  [Compare across authors](../compare/index.md?t=film-lee-cronins-the-mummy_1304313)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Lee%20Cronins%20The%20Mummy%20(2026)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # R.I.P.D. 2: Rise of the Damned
 
-[Compare across authors](../../compare/?t=film-ripd-2-rise-of-the-damned_1013860)
+[Compare across authors](../compare/index.md?t=film-ripd-2-rise-of-the-damned_1013860)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

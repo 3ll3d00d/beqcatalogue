@@ -9,7 +9,7 @@ In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men ch
 
 **MV Adjustment:** +7.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1586?post_id=63989689#post-63989689)  [TMDB](https://www.themoviedb.org/movie/598)  [Compare across authors](../../compare/?t=film-city-of-god_598)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1586?post_id=63989689#post-63989689)  [TMDB](https://www.themoviedb.org/movie/598)  [Compare across authors](../compare/index.md?t=film-city-of-god_598)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/City%20of%20God%20(2002)%20(%2B7.5%20gain)%20DTS-HD%20MA%205.1.jpg)

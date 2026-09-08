@@ -1,6 +1,6 @@
 # Indiana Jones and the Last Crusade
 
-[Compare across authors](../../compare/?t=film-indiana-jones-and-the-last-crusade_89)
+[Compare across authors](../compare/index.md?t=film-indiana-jones-and-the-last-crusade_89)
 
 ## Atmos
 

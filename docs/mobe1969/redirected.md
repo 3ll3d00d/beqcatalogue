@@ -1,6 +1,6 @@
 # Redirected
 
-[Compare across authors](../../compare/?t=film-redirected_190469)
+[Compare across authors](../compare/index.md?t=film-redirected_190469)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Emoji Movie
 
-[Compare across authors](../../compare/?t=film-the-emoji-movie_378236)
+[Compare across authors](../compare/index.md?t=film-the-emoji-movie_378236)
 
 ## Atmos
 

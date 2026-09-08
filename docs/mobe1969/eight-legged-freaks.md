@@ -1,6 +1,6 @@
 # Eight Legged Freaks
 
-[Compare across authors](../../compare/?t=film-eight-legged-freaks_8869)
+[Compare across authors](../compare/index.md?t=film-eight-legged-freaks_8869)
 
 ## DTS-HD MA 5.1
 

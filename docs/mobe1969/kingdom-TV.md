@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-kingdom_70593)
+[Compare across authors](../compare/index.md?t=TV-kingdom_70593)
 
 ## Season 1
 

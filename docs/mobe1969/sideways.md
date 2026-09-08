@@ -1,6 +1,6 @@
 # Sideways
 
-[Compare across authors](../../compare/?t=film-sideways_9675)
+[Compare across authors](../compare/index.md?t=film-sideways_9675)
 
 ## DTS-HD MA 5.1
 

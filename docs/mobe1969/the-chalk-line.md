@@ -1,6 +1,6 @@
 # The Chalk Line
 
-[Compare across authors](../../compare/?t=film-the-chalk-line_960875)
+[Compare across authors](../compare/index.md?t=film-the-chalk-line_960875)
 
 ## DD+ 5.1
 

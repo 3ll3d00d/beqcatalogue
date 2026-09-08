@@ -1,6 +1,6 @@
 # The Woman
 
-[Compare across authors](../../compare/?t=film-the-woman_65599)
+[Compare across authors](../compare/index.md?t=film-the-woman_65599)
 
 ## DTS-HD MA 5.1
 

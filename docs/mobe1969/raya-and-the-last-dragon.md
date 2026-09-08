@@ -1,6 +1,6 @@
 # Raya and the Last Dragon
 
-[Compare across authors](../../compare/?t=film-raya-and-the-last-dragon_527774)
+[Compare across authors](../compare/index.md?t=film-raya-and-the-last-dragon_527774)
 
 ## Atmos
 

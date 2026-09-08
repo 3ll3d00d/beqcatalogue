@@ -12,7 +12,7 @@ When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1758?post_id=64724654#post-64724654)  [TMDB](https://www.themoviedb.org/movie/1081003)  [Compare across authors](../../compare/?t=film-supergirl_1081003)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1758?post_id=64724654#post-64724654)  [TMDB](https://www.themoviedb.org/movie/1081003)  [Compare across authors](../compare/index.md?t=film-supergirl_1081003)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Supergirl%20(2026)%20(-1%20gain)%20DD%2B.jpg)
@@ -31,7 +31,7 @@ When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1759?post_id=64727318#post-64727318)  [TMDB](https://www.themoviedb.org/movie/1081003)  [Compare across authors](../../compare/?t=film-supergirl_1081003)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1759?post_id=64727318#post-64727318)  [TMDB](https://www.themoviedb.org/movie/1081003)  [Compare across authors](../compare/index.md?t=film-supergirl_1081003)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Supergirl%20(2026)%20(-1%20gain)%20DD%2B%20Atmos.jpg)

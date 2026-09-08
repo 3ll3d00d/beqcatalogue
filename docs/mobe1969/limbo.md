@@ -1,6 +1,6 @@
 # Limbo
 
-[Compare across authors](../../compare/?t=film-limbo_591222)
+[Compare across authors](../compare/index.md?t=film-limbo_591222)
 
 ## TrueHD 7.1, DTS-HD MA 5.1
 

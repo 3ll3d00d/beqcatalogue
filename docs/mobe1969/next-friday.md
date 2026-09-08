@@ -1,6 +1,6 @@
 # Next Friday
 
-[Compare across authors](../../compare/?t=film-next-friday_10471)
+[Compare across authors](../compare/index.md?t=film-next-friday_10471)
 
 ## DD+ 5.1
 

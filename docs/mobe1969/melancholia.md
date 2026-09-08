@@ -1,6 +1,6 @@
 # Melancholia
 
-[Compare across authors](../../compare/?t=film-melancholia_62215)
+[Compare across authors](../compare/index.md?t=film-melancholia_62215)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Double Jeopardy
 
-[Compare across authors](../../compare/?t=film-double-jeopardy_10398)
+[Compare across authors](../compare/index.md?t=film-double-jeopardy_10398)
 
 ## DTS-HD MA 5.1
 

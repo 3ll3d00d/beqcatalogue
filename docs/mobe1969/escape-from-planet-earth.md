@@ -1,6 +1,6 @@
 # Escape from Planet Earth
 
-[Compare across authors](../../compare/?t=film-escape-from-planet-earth_68179)
+[Compare across authors](../compare/index.md?t=film-escape-from-planet-earth_68179)
 
 ## DTS-HD MA 5.1
 

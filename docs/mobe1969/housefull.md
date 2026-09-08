@@ -1,6 +1,6 @@
 # Housefull
 
-[Compare across authors](../../compare/?t=film-housefull_58051)
+[Compare across authors](../compare/index.md?t=film-housefull_58051)
 
 ## DTS 5.1
 

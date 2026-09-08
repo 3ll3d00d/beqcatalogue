@@ -1,6 +1,6 @@
 # Murder on the Orient Express
 
-[Compare across authors](../../compare/?t=film-murder-on-the-orient-express_392044)
+[Compare across authors](../compare/index.md?t=film-murder-on-the-orient-express_392044)
 
 ## Atmos, DD+ Atmos
 

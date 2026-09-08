@@ -7,7 +7,7 @@
 * Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-tom-clancys-jack-ryan_73375)
+* [Compare across authors](../compare/index.md?t=TV-tom-clancys-jack-ryan_73375)
 
 * Production Year: 2018
 
@@ -22,7 +22,7 @@
 * Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-tom-clancys-jack-ryan_73375)
+* [Compare across authors](../compare/index.md?t=TV-tom-clancys-jack-ryan_73375)
 
 * Production Year: 2018
 
@@ -37,7 +37,7 @@
 * Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-tom-clancys-jack-ryan_73375)
+* [Compare across authors](../compare/index.md?t=TV-tom-clancys-jack-ryan_73375)
 
 * Production Year: 2018
 
@@ -52,7 +52,7 @@
 * Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-tom-clancys-jack-ryan_73375)
+* [Compare across authors](../compare/index.md?t=TV-tom-clancys-jack-ryan_73375)
 
 * Production Year: 2018
 

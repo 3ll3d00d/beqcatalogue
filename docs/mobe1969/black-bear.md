@@ -1,6 +1,6 @@
 # Black Bear
 
-[Compare across authors](../../compare/?t=film-black-bear_624788)
+[Compare across authors](../compare/index.md?t=film-black-bear_624788)
 
 ## DD+ 5.1
 

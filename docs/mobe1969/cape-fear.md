@@ -1,6 +1,6 @@
 # Cape Fear
 
-[Compare across authors](../../compare/?t=film-cape-fear_1598)
+[Compare across authors](../compare/index.md?t=film-cape-fear_1598)
 
 ## DTS-HD MA 5.1
 

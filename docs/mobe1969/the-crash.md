@@ -1,6 +1,6 @@
 # The Crash
 
-[Compare across authors](../../compare/?t=film-the-crash_362202)
+[Compare across authors](../compare/index.md?t=film-the-crash_362202)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

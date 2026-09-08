@@ -1,6 +1,6 @@
 # Roujin Z
 
-[Compare across authors](../../compare/?t=film-roujin-z_35648)
+[Compare across authors](../compare/index.md?t=film-roujin-z_35648)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Killers Anonymous
 
-[Compare across authors](../../compare/?t=film-killers-anonymous_535265)
+[Compare across authors](../compare/index.md?t=film-killers-anonymous_535265)
 
 ## DTS-HD MA 5.1
 

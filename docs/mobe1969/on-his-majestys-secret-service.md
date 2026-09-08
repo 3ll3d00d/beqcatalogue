@@ -1,6 +1,6 @@
 # On His Majesty's Secret Service
 
-[Compare across authors](../../compare/?t=film-on-his-majestys-secret-service_26929)
+[Compare across authors](../compare/index.md?t=film-on-his-majestys-secret-service_26929)
 
 ## TrueHD 5.1
 

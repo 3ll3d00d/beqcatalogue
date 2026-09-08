@@ -1,6 +1,6 @@
 # The Adventures of Tintin
 
-[Compare across authors](../../compare/?t=film-the-adventures-of-tintin_17578)
+[Compare across authors](../compare/index.md?t=film-the-adventures-of-tintin_17578)
 
 ## DTS-HD MA 7.1
 

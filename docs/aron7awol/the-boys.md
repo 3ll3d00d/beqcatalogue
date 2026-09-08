@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-boys_76479)
+[Compare across authors](../compare/index.md?t=TV-the-boys_76479)
 
 ## Season 1
 

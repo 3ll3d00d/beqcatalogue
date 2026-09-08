@@ -10,7 +10,7 @@ Celebrated sleuth Hercule Poirot, now retired and living in self-imposed exile i
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62919295)  [TMDB](https://www.themoviedb.org/movie/945729)  [Compare across authors](../../compare/?t=film-a-haunting-in-venice_945729)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62919295)  [TMDB](https://www.themoviedb.org/movie/945729)  [Compare across authors](../compare/index.md?t=film-a-haunting-in-venice_945729)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/A%20Haunting%20in%20Venice%20(2023)%20DDP%20Atmos%20PvA.jpg)

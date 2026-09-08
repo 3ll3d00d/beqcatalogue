@@ -1,6 +1,6 @@
 # Diablo
 
-[Compare across authors](../../compare/?t=film-diablo_362703)
+[Compare across authors](../compare/index.md?t=film-diablo_362703)
 
 ## DTS-HD MA 5.1
 

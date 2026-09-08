@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-lies-within_94425)
+[Compare across authors](../compare/index.md?t=TV-the-lies-within_94425)
 
 ## Season 1
 

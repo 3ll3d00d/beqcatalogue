@@ -1,6 +1,6 @@
 # Miracle at St. Anna
 
-[Compare across authors](../../compare/?t=film-miracle-at-st-anna_12412)
+[Compare across authors](../compare/index.md?t=film-miracle-at-st-anna_12412)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Bad Ass 2: Bad Asses
 
-[Compare across authors](../../compare/?t=film-bad-ass-2-bad-asses_255268)
+[Compare across authors](../compare/index.md?t=film-bad-ass-2-bad-asses_255268)
 
 ## DTS-HD MA 5.1
 

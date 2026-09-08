@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-nautilus_131835)
+* [Compare across authors](../compare/index.md?t=TV-nautilus_131835)
 
 * Production Year: 2024
 

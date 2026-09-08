@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-marseille_65466)
+[Compare across authors](../compare/index.md?t=TV-marseille_65466)
 
 ## Season 1
 

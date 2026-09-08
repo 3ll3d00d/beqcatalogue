@@ -1,6 +1,6 @@
 # Zero Tolerance
 
-[Compare across authors](../../compare/?t=film-zero-tolerance_273238)
+[Compare across authors](../compare/index.md?t=film-zero-tolerance_273238)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Debt Collector
 
-[Compare across authors](../../compare/?t=film-the-debt-collector_513691)
+[Compare across authors](../compare/index.md?t=film-the-debt-collector_513691)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

@@ -1,6 +1,6 @@
 # 2099: The Soldier Protocol
 
-[Compare across authors](../../compare/?t=film-2099-the-soldier-protocol_630737)
+[Compare across authors](../compare/index.md?t=film-2099-the-soldier-protocol_630737)
 
 ## DD+ 5.1
 

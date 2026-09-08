@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-only-murders-in-the-building_107113)
+* [Compare across authors](../compare/index.md?t=TV-only-murders-in-the-building_107113)
 
 * Production Year: 2021
 

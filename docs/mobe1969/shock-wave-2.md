@@ -1,6 +1,6 @@
 # Shock Wave 2
 
-[Compare across authors](../../compare/?t=film-shock-wave-2_559974)
+[Compare across authors](../compare/index.md?t=film-shock-wave-2_559974)
 
 ## Atmos
 

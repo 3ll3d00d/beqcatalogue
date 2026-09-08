@@ -1,6 +1,6 @@
 # Redline
 
-[Compare across authors](../../compare/?t=film-redline_71883)
+[Compare across authors](../compare/index.md?t=film-redline_71883)
 
 ## TrueHD 5.1
 

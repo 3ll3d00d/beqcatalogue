@@ -1,6 +1,6 @@
 # Transformers: Revenge of the Fallen
 
-[Compare across authors](../../compare/?t=film-transformers-revenge-of-the-fallen_8373)
+[Compare across authors](../compare/index.md?t=film-transformers-revenge-of-the-fallen_8373)
 
 ## Atmos, DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Get Him to the Greek
 
-[Compare across authors](../../compare/?t=film-get-him-to-the-greek_32823)
+[Compare across authors](../compare/index.md?t=film-get-him-to-the-greek_32823)
 
 ## DTS-HD MA 5.1
 

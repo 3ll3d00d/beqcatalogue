@@ -1,6 +1,6 @@
 # Ponniyin Selvan: Part II
 
-[Compare across authors](../../compare/?t=film-ponniyin-selvan-part-ii_858082)
+[Compare across authors](../compare/index.md?t=film-ponniyin-selvan-part-ii_858082)
 
 ## DD+ 5.1
 

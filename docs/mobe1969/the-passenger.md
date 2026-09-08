@@ -1,6 +1,6 @@
 # The Passenger
 
-[Compare across authors](../../compare/?t=film-the-passenger_957314)
+[Compare across authors](../compare/index.md?t=film-the-passenger_957314)
 
 ## DD+ 5.1
 

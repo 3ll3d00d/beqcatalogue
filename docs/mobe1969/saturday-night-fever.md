@@ -1,6 +1,6 @@
 # Saturday Night Fever
 
-[Compare across authors](../../compare/?t=film-saturday-night-fever_11009)
+[Compare across authors](../compare/index.md?t=film-saturday-night-fever_11009)
 
 ## TrueHD 5.1
 

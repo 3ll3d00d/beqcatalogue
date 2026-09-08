@@ -10,7 +10,7 @@ It’s 2041 and the gaps in social and economic inequality have left the world o
 CS
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1071815)  [Compare across authors](../../compare/?t=film-restore-point_1071815)
+[TMDB](https://www.themoviedb.org/movie/1071815)  [Compare across authors](../compare/index.md?t=film-restore-point_1071815)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Restore%20Point%20(2023)%20DTS-HD%20MA%205.1.jpg)

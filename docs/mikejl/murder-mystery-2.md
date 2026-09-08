@@ -7,7 +7,7 @@
 After starting their own detective agency, Nick and Audrey Spitz land a career-making case when their billionaire pal is kidnapped from his wedding.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/638974)  [Compare across authors](../../compare/?t=film-murder-mystery-2_638974)
+[TMDB](https://www.themoviedb.org/movie/638974)  [Compare across authors](../compare/index.md?t=film-murder-mystery-2_638974)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Murder%20Mystery/Murder%20Mystery%202%20(2023)%20DD%2B%20Atmos.jpg)

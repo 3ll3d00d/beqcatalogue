@@ -1,6 +1,6 @@
 # You People
 
-[Compare across authors](../../compare/?t=film-you-people_866413)
+[Compare across authors](../compare/index.md?t=film-you-people_866413)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # The Dyatlov Pass Incident
 
-[Compare across authors](../../compare/?t=film-the-dyatlov-pass-incident_169219)
+[Compare across authors](../compare/index.md?t=film-the-dyatlov-pass-incident_169219)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Lamb
 
-[Compare across authors](../../compare/?t=film-lamb_788929)
+[Compare across authors](../compare/index.md?t=film-lamb_788929)
 
 ## DTS-HD MA 5.1
 

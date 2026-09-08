@@ -12,7 +12,7 @@ Scientists have discovered how to 'hop' human consciousness into lifelike roboti
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1735?post_id=64584463#post-64584463)  [TMDB](https://www.themoviedb.org/movie/1327819)  [Compare across authors](../../compare/?t=film-hoppers_1327819)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1735?post_id=64584463#post-64584463)  [TMDB](https://www.themoviedb.org/movie/1327819)  [Compare across authors](../compare/index.md?t=film-hoppers_1327819)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Hoppers%20(2026)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)
@@ -31,7 +31,7 @@ Scientists have discovered how to 'hop' human consciousness into lifelike roboti
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64629276#post-64629276)  [TMDB](https://www.themoviedb.org/movie/1327819)  [Compare across authors](../../compare/?t=film-hoppers_1327819)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64629276#post-64629276)  [TMDB](https://www.themoviedb.org/movie/1327819)  [Compare across authors](../compare/index.md?t=film-hoppers_1327819)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Hoopers%20(2026)%20(%2B5%20gain)%20DTS-HD%20MA%207.1.jpg)

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-tick_67487)
+[Compare across authors](../compare/index.md?t=TV-the-tick_67487)
 
 ## Season 1
 

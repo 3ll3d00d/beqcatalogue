@@ -1,6 +1,6 @@
 # The Quest
 
-[Compare across authors](../../compare/?t=film-the-quest_9103)
+[Compare across authors](../compare/index.md?t=film-the-quest_9103)
 
 ## DTS-HD MA 5.1
 

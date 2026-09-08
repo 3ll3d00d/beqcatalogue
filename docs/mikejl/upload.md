@@ -7,7 +7,7 @@
 * DD+ 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-upload_86248)
+* [Compare across authors](../compare/index.md?t=TV-upload_86248)
 
 * Production Year: 2020
 
@@ -22,7 +22,7 @@
 * DD+ 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-upload_86248)
+* [Compare across authors](../compare/index.md?t=TV-upload_86248)
 
 * Production Year: 2020
 
@@ -37,7 +37,7 @@
 * DD+ 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-upload_86248)
+* [Compare across authors](../compare/index.md?t=TV-upload_86248)
 
 * Production Year: 2020
 
@@ -52,7 +52,7 @@
 * DD+ 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-upload_86248)
+* [Compare across authors](../compare/index.md?t=TV-upload_86248)
 
 * Production Year: 2020
 

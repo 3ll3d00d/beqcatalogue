@@ -1,6 +1,6 @@
 # Land of the Lost
 
-[Compare across authors](../../compare/?t=film-land-of-the-lost_18162)
+[Compare across authors](../compare/index.md?t=film-land-of-the-lost_18162)
 
 ## DTS-HD MA 5.1
 

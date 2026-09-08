@@ -1,6 +1,6 @@
 # Return of the Jedi
 
-[Compare across authors](../../compare/?t=film-return-of-the-jedi_1892)
+[Compare across authors](../compare/index.md?t=film-return-of-the-jedi_1892)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Man Down
 
-[Compare across authors](../../compare/?t=film-man-down_296523)
+[Compare across authors](../compare/index.md?t=film-man-down_296523)
 
 ## DTS-HD MA 5.1
 

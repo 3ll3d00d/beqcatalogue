@@ -1,6 +1,6 @@
 # Mimic 2
 
-[Compare across authors](../../compare/?t=film-mimic-2_10706)
+[Compare across authors](../compare/index.md?t=film-mimic-2_10706)
 
 ## DTS-HD MA 5.1
 

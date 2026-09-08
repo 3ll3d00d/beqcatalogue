@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-rain_76719)
+[Compare across authors](../compare/index.md?t=TV-the-rain_76719)
 
 ## Season 1
 

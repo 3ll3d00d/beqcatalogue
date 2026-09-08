@@ -1,6 +1,6 @@
 # The Killing Machine
 
-[Compare across authors](../../compare/?t=film-the-killing-machine_35402)
+[Compare across authors](../compare/index.md?t=film-the-killing-machine_35402)
 
 ## DTS-HD MA 5.1
 

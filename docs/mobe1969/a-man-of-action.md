@@ -1,6 +1,6 @@
 # A Man of Action
 
-[Compare across authors](../../compare/?t=film-a-man-of-action_945897)
+[Compare across authors](../compare/index.md?t=film-a-man-of-action_945897)
 
 ## DD+ 5.1
 

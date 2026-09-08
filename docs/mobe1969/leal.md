@@ -1,6 +1,6 @@
 # Leal
 
-[Compare across authors](../../compare/?t=film-leal_540871)
+[Compare across authors](../compare/index.md?t=film-leal_540871)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Case 39
 
-[Compare across authors](../../compare/?t=film-case-39_28355)
+[Compare across authors](../compare/index.md?t=film-case-39_28355)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Iron Protector
 
-[Compare across authors](../../compare/?t=film-iron-protector_399300)
+[Compare across authors](../compare/index.md?t=film-iron-protector_399300)
 
 ## DTS-HD MA 5.1
 

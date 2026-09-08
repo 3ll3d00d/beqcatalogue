@@ -1,6 +1,6 @@
 # Willed to Kill
 
-[Compare across authors](../../compare/?t=film-willed-to-kill_158689)
+[Compare across authors](../compare/index.md?t=film-willed-to-kill_158689)
 
 ## DD+ 5.1
 

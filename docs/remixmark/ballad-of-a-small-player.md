@@ -12,7 +12,7 @@ Amid the glittering casinos of Macau, a gambler running from his past — and hi
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1675?post_id=64285279#post-64285279)  [TMDB](https://www.themoviedb.org/movie/1272166)  [Compare across authors](../../compare/?t=film-ballad-of-a-small-player_1272166)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1675?post_id=64285279#post-64285279)  [TMDB](https://www.themoviedb.org/movie/1272166)  [Compare across authors](../compare/index.md?t=film-ballad-of-a-small-player_1272166)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Ballad%20of%20a%20Small%20Player%20(2025)%20(%2B4%20gain)%20DD%2B%20Atmos.jpg)

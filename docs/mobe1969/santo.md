@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-santo_128013)
+[Compare across authors](../compare/index.md?t=TV-santo_128013)
 
 ## Season 1
 

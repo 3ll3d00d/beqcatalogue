@@ -1,6 +1,6 @@
 # No One Will Save You
 
-[Compare across authors](../../compare/?t=film-no-one-will-save-you_820609)
+[Compare across authors](../compare/index.md?t=film-no-one-will-save-you_820609)
 
 ## DD+ Atmos, DD+ 5.1
 

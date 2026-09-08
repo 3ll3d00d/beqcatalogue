@@ -1,6 +1,6 @@
 # Inglourious Basterds
 
-[Compare across authors](../../compare/?t=film-inglourious-basterds_16869)
+[Compare across authors](../compare/index.md?t=film-inglourious-basterds_16869)
 
 ## DTS-HD MA 5.1
 

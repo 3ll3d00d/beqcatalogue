@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-teacup_247721)
+* [Compare across authors](../compare/index.md?t=TV-teacup_247721)
 
 * Production Year: 2024
 

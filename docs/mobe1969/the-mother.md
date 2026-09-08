@@ -1,6 +1,6 @@
 # The Mother
 
-[Compare across authors](../../compare/?t=film-the-mother_552688)
+[Compare across authors](../compare/index.md?t=film-the-mother_552688)
 
 ## DD+ Atmos
 

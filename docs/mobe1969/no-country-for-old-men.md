@@ -1,6 +1,6 @@
 # No Country for Old Men
 
-[Compare across authors](../../compare/?t=film-no-country-for-old-men_6977)
+[Compare across authors](../compare/index.md?t=film-no-country-for-old-men_6977)
 
 ## LPCM 5.1
 

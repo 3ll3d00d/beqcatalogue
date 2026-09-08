@@ -1,6 +1,6 @@
 # Jungle
 
-[Compare across authors](../../compare/?t=film-jungle_390062)
+[Compare across authors](../compare/index.md?t=film-jungle_390062)
 
 ## DTS-HD MA 5.1
 

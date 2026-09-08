@@ -1,6 +1,6 @@
 # John Carter
 
-[Compare across authors](../../compare/?t=film-john-carter_49529)
+[Compare across authors](../compare/index.md?t=film-john-carter_49529)
 
 ## DTS-HD HR 7.1
 

@@ -1,6 +1,6 @@
 # The Hunt
 
-[Compare across authors](../../compare/?t=film-the-hunt_152578)
+[Compare across authors](../compare/index.md?t=film-the-hunt_152578)
 
 ## DTS-HD MA 5.1
 

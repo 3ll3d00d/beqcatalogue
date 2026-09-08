@@ -1,6 +1,6 @@
 # Northern Limit Line
 
-[Compare across authors](../../compare/?t=film-northern-limit-line_343843)
+[Compare across authors](../compare/index.md?t=film-northern-limit-line_343843)
 
 ## DTS-HD MA 5.1
 

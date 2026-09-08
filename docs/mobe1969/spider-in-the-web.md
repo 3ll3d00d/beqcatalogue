@@ -1,6 +1,6 @@
 # Spider in the Web
 
-[Compare across authors](../../compare/?t=film-spider-in-the-web_513413)
+[Compare across authors](../compare/index.md?t=film-spider-in-the-web_513413)
 
 ## DTS-HD MA 5.1
 

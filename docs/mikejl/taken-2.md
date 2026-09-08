@@ -9,7 +9,7 @@ Unrated Extended Cut
 In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/82675)  [Compare across authors](../../compare/?t=film-taken-2_82675)
+[TMDB](https://www.themoviedb.org/movie/82675)  [Compare across authors](../compare/index.md?t=film-taken-2_82675)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Taken/Taken%202%20(2012)%20(Unrated%20Ext)%20DTS-HD%20MA%205.1.jpg)

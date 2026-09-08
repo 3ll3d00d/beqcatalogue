@@ -1,6 +1,6 @@
 # Transporter 3
 
-[Compare across authors](../../compare/?t=film-transporter-3_13387)
+[Compare across authors](../compare/index.md?t=film-transporter-3_13387)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Spree
 
-[Compare across authors](../../compare/?t=film-spree_653598)
+[Compare across authors](../compare/index.md?t=film-spree_653598)
 
 ## DD+ 5.1
 

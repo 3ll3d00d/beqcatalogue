@@ -1,6 +1,6 @@
 # Legend of the Millennium Dragon
 
-[Compare across authors](../../compare/?t=film-legend-of-the-millennium-dragon_74842)
+[Compare across authors](../compare/index.md?t=film-legend-of-the-millennium-dragon_74842)
 
 ## DTS-HD MA 5.1
 

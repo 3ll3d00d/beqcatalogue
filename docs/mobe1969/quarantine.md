@@ -1,6 +1,6 @@
 # Quarantine
 
-[Compare across authors](../../compare/?t=film-quarantine_13812)
+[Compare across authors](../compare/index.md?t=film-quarantine_13812)
 
 ## TrueHD 5.1
 

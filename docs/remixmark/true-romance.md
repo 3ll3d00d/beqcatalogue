@@ -9,7 +9,7 @@ Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1768?post_id=64798165#post-64798165)  [TMDB](https://www.themoviedb.org/movie/319)  [Compare across authors](../../compare/?t=film-true-romance_319)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1768?post_id=64798165#post-64798165)  [TMDB](https://www.themoviedb.org/movie/319)  [Compare across authors](../compare/index.md?t=film-true-romance_319)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/True%20Romance%20%281993%29%20%28-2.5%20gain%29%20DTS-HD%20MA%205.1.jpg)

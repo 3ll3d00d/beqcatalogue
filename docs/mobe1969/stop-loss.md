@@ -1,6 +1,6 @@
 # Stop-Loss
 
-[Compare across authors](../../compare/?t=film-stop-loss_8988)
+[Compare across authors](../compare/index.md?t=film-stop-loss_8988)
 
 ## DTS-HD MA 5.1
 

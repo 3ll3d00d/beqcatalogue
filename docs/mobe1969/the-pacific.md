@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-pacific_16997)
+[Compare across authors](../compare/index.md?t=TV-the-pacific_16997)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Valley of the Gods
 
-[Compare across authors](../../compare/?t=film-valley-of-the-gods_331044)
+[Compare across authors](../compare/index.md?t=film-valley-of-the-gods_331044)
 
 ## DTS-HD MA 5.1
 

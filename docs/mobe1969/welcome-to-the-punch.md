@@ -1,6 +1,6 @@
 # Welcome to the Punch
 
-[Compare across authors](../../compare/?t=film-welcome-to-the-punch_93828)
+[Compare across authors](../compare/index.md?t=film-welcome-to-the-punch_93828)
 
 ## DTS-HD MA 5.1
 

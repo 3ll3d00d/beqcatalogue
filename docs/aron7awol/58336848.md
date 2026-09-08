@@ -1,6 +1,6 @@
 # A Good Day to Die Hard
 
-[Compare across authors](../../compare/?t=film-a-good-day-to-die-hard_47964)
+[Compare across authors](../compare/index.md?t=film-a-good-day-to-die-hard_47964)
 
 ## DTS-HD MA 7.1
 

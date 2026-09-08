@@ -1,6 +1,6 @@
 # Sivaji: The Boss
 
-[Compare across authors](../../compare/?t=film-sivaji-the-boss_24049)
+[Compare across authors](../compare/index.md?t=film-sivaji-the-boss_24049)
 
 ## DD+ 5.1
 

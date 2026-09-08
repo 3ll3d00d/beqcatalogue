@@ -1,6 +1,6 @@
 # Bad Times at the El Royale
 
-[Compare across authors](../../compare/?t=film-bad-times-at-the-el-royale_446021)
+[Compare across authors](../compare/index.md?t=film-bad-times-at-the-el-royale_446021)
 
 ## Atmos
 

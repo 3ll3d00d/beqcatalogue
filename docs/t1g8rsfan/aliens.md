@@ -11,7 +11,7 @@ Special Edition / Theatrical Cut
 Theatrical Cut (-1.5 MV)
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63042100)  [Compare across authors](../../compare/?t=film-aliens_1986)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63042100)  [Compare across authors](../compare/index.md?t=film-aliens_1986)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Aliens%20(1986)%20SE%20(-0.1%20gain)%20Atmos.jpg)

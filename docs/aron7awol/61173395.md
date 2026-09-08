@@ -1,6 +1,6 @@
 # Red Notice
 
-[Compare across authors](../../compare/?t=film-red-notice_512195)
+[Compare across authors](../compare/index.md?t=film-red-notice_512195)
 
 ## DD+ Atmos
 

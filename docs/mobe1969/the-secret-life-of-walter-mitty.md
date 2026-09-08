@@ -1,6 +1,6 @@
 # The Secret Life of Walter Mitty
 
-[Compare across authors](../../compare/?t=film-the-secret-life-of-walter-mitty_116745)
+[Compare across authors](../compare/index.md?t=film-the-secret-life-of-walter-mitty_116745)
 
 ## DTS-HD MA 7.1
 

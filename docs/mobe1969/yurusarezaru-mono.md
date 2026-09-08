@@ -1,6 +1,6 @@
 # Yurusarezaru Mono
 
-[Compare across authors](../../compare/?t=film-yurusarezaru-mono_141819)
+[Compare across authors](../compare/index.md?t=film-yurusarezaru-mono_141819)
 
 ## DTS-HD MA 5.1
 

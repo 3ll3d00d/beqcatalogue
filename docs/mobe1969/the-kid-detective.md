@@ -1,6 +1,6 @@
 # The Kid Detective
 
-[Compare across authors](../../compare/?t=film-the-kid-detective_720755)
+[Compare across authors](../compare/index.md?t=film-the-kid-detective_720755)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Vindicta
 
-[Compare across authors](../../compare/?t=film-vindicta_1175873)
+[Compare across authors](../compare/index.md?t=film-vindicta_1175873)
 
 ## DD+ 5.1
 

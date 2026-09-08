@@ -1,6 +1,6 @@
 # The Purge: Election Year
 
-[Compare across authors](../../compare/?t=film-the-purge-election-year_316727)
+[Compare across authors](../compare/index.md?t=film-the-purge-election-year_316727)
 
 ## DD+ 5.1
 

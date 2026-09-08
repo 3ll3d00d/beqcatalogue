@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-stranger-things_66732)
+[Compare across authors](../compare/index.md?t=TV-stranger-things_66732)
 
 ## Season 1
 

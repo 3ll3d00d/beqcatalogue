@@ -1,6 +1,6 @@
 # The Virtuoso
 
-[Compare across authors](../../compare/?t=film-the-virtuoso_808023)
+[Compare across authors](../compare/index.md?t=film-the-virtuoso_808023)
 
 ## DTS-HD MA 5.1
 

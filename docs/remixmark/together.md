@@ -12,7 +12,7 @@ With a move to the countryside already testing the limits of a couple's relation
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1637?post_id=64167696#post-64167696)  [TMDB](https://www.themoviedb.org/movie/1242011)  [Compare across authors](../../compare/?t=film-together_1242011)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1637?post_id=64167696#post-64167696)  [TMDB](https://www.themoviedb.org/movie/1242011)  [Compare across authors](../compare/index.md?t=film-together_1242011)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Together%20(2025)%20(%2B4%20gain)%20DD%2B.jpg)

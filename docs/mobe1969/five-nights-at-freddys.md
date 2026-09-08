@@ -1,6 +1,6 @@
 # Five Nights at Freddy's
 
-[Compare across authors](../../compare/?t=film-five-nights-at-freddys_507089)
+[Compare across authors](../compare/index.md?t=film-five-nights-at-freddys_507089)
 
 ## DD+ 5.1
 

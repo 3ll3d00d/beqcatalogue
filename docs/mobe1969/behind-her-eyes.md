@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-behind-her-eyes_97173)
+[Compare across authors](../compare/index.md?t=TV-behind-her-eyes_97173)
 
 ## Season 1
 

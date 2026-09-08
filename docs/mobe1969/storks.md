@@ -1,6 +1,6 @@
 # Storks
 
-[Compare across authors](../../compare/?t=film-storks_332210)
+[Compare across authors](../compare/index.md?t=film-storks_332210)
 
 ## DTS-HD MA 7.1
 

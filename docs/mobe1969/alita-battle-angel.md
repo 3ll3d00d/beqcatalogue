@@ -1,6 +1,6 @@
 # Alita: Battle Angel
 
-[Compare across authors](../../compare/?t=film-alita-battle-angel_399579)
+[Compare across authors](../compare/index.md?t=film-alita-battle-angel_399579)
 
 ## Atmos
 

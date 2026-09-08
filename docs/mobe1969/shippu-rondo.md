@@ -1,6 +1,6 @@
 # Shippu-Rondo
 
-[Compare across authors](../../compare/?t=film-shippu-rondo_417817)
+[Compare across authors](../compare/index.md?t=film-shippu-rondo_417817)
 
 ## TrueHD 5.1
 

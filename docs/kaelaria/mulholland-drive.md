@@ -7,7 +7,7 @@
 Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1018)  [Compare across authors](../../compare/?t=film-mulholland-drive_1018)
+[TMDB](https://www.themoviedb.org/movie/1018)  [Compare across authors](../compare/index.md?t=film-mulholland-drive_1018)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Mulholland%20Drive%20(2001)%20DTS-HD%20MA%205.1.jpg)

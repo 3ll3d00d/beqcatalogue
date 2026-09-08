@@ -1,6 +1,6 @@
 # Point Blank
 
-[Compare across authors](../../compare/?t=film-point-blank_61404)
+[Compare across authors](../compare/index.md?t=film-point-blank_61404)
 
 ## DTS-HD MA 5.1
 

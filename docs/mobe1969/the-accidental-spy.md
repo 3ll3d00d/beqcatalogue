@@ -1,6 +1,6 @@
 # The Accidental Spy
 
-[Compare across authors](../../compare/?t=film-the-accidental-spy_11847)
+[Compare across authors](../compare/index.md?t=film-the-accidental-spy_11847)
 
 ## DTS-HD MA 5.1
 

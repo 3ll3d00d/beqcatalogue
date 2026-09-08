@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-hellbound_106651)
+[Compare across authors](../compare/index.md?t=TV-hellbound_106651)
 
 ## Season 1
 

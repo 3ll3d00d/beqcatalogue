@@ -9,7 +9,7 @@ After the re-emergence of the world's first mutant, world-destroyer Apocalypse, 
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/246655)  [Compare across authors](../../compare/?t=film-x-men-apocalypse_246655)
+[Discuss](https://www.avsforum.com/posts/63109737/)  [TMDB](https://www.themoviedb.org/movie/246655)  [Compare across authors](../compare/index.md?t=film-x-men-apocalypse_246655)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/X-Men%20Apocalypse%20(2016)%20(-2%20gain)%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # Halloween
 
-[Compare across authors](../../compare/?t=film-halloween_2082)
+[Compare across authors](../compare/index.md?t=film-halloween_2082)
 
 ## TrueHD 5.1
 

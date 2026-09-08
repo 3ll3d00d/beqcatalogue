@@ -1,6 +1,6 @@
 # The Whistleblower
 
-[Compare across authors](../../compare/?t=film-the-whistleblower_622832)
+[Compare across authors](../compare/index.md?t=film-the-whistleblower_622832)
 
 ## DD+ 5.1
 

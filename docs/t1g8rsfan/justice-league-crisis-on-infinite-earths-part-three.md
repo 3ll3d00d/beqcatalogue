@@ -9,7 +9,7 @@ Now fully revealed as the ultimate threat to existence, the Anti-Monitor wages a
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/posts/63072666/)  [TMDB](https://www.themoviedb.org/movie/1209290)  [Compare across authors](../../compare/?t=film-justice-league-crisis-on-infinite-earths-part-three_1209290)
+[Discuss](https://www.avsforum.com/posts/63072666/)  [TMDB](https://www.themoviedb.org/movie/1209290)  [Compare across authors](../compare/index.md?t=film-justice-league-crisis-on-infinite-earths-part-three_1209290)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Justice%20League%20CoIEP3%20(2024)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

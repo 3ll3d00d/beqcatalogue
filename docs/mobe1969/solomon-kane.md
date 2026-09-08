@@ -1,6 +1,6 @@
 # Solomon Kane
 
-[Compare across authors](../../compare/?t=film-solomon-kane_32985)
+[Compare across authors](../compare/index.md?t=film-solomon-kane_32985)
 
 ## DTS-HD MA 5.1
 

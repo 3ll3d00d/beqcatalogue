@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-star-wars-skeleton-crew_202879)
+* [Compare across authors](../compare/index.md?t=TV-star-wars-skeleton-crew_202879)
 
 * Production Year: 2024
 

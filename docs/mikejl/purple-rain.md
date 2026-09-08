@@ -10,7 +10,7 @@ A victim of his own anger, the Kid is a Minneapolis musician on the rise with hi
 UHD
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/13763)  [Compare across authors](../../compare/?t=film-purple-rain_13763)
+[TMDB](https://www.themoviedb.org/movie/13763)  [Compare across authors](../compare/index.md?t=film-purple-rain_13763)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Purple%20Rain/Purple%20Rain%20(1984)%20DTS-HD%20MA%205.1.jpg)

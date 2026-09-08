@@ -1,6 +1,6 @@
 # Father & Soldier
 
-[Compare across authors](../../compare/?t=film-father-soldier_967874)
+[Compare across authors](../compare/index.md?t=film-father-soldier_967874)
 
 ## DTS-HD MA 5.1
 

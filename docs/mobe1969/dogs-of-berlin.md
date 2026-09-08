@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dogs-of-berlin_76652)
+[Compare across authors](../compare/index.md?t=TV-dogs-of-berlin_76652)
 
 ## Season 1
 

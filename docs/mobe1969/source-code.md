@@ -1,6 +1,6 @@
 # Source Code
 
-[Compare across authors](../../compare/?t=film-source-code_45612)
+[Compare across authors](../compare/index.md?t=film-source-code_45612)
 
 ## Atmos
 

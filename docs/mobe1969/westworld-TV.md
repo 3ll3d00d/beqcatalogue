@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-westworld_63247)
+[Compare across authors](../compare/index.md?t=TV-westworld_63247)
 
 ## Season 3
 

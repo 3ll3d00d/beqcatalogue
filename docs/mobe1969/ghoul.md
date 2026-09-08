@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ghoul_80707)
+[Compare across authors](../compare/index.md?t=TV-ghoul_80707)
 
 ## Season 1
 

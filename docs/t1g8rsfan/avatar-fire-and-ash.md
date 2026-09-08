@@ -12,7 +12,7 @@ In the wake of the devastating war against the RDA and the loss of their eldest 
 +4dB Dialnorm Compensation - DD+ Atmos (iTunes)
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../../compare/?t=film-avatar-fire-and-ash_83533)
+[TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../compare/index.md?t=film-avatar-fire-and-ash_83533)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Avatar%20Fire%20and%20Ash%20(2025)%20(%2B2%20gain)%20Atmos.jpg)

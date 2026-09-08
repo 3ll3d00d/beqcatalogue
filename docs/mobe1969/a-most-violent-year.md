@@ -1,6 +1,6 @@
 # A Most Violent Year
 
-[Compare across authors](../../compare/?t=film-a-most-violent-year_241239)
+[Compare across authors](../compare/index.md?t=film-a-most-violent-year_241239)
 
 ## DTS-HD MA 5.1
 

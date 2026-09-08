@@ -1,6 +1,6 @@
 # Bajrangi Bhaijaan
 
-[Compare across authors](../../compare/?t=film-bajrangi-bhaijaan_348892)
+[Compare across authors](../compare/index.md?t=film-bajrangi-bhaijaan_348892)
 
 ## DTS-HD MA 7.1
 

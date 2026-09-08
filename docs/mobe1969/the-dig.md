@@ -1,6 +1,6 @@
 # The Dig
 
-[Compare across authors](../../compare/?t=film-the-dig_532865)
+[Compare across authors](../compare/index.md?t=film-the-dig_532865)
 
 ## DD+ Atmos
 

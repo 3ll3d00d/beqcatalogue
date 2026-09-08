@@ -1,6 +1,6 @@
 # Paranormal Activity: Next of Kin
 
-[Compare across authors](../../compare/?t=film-paranormal-activity-next-of-kin_609972)
+[Compare across authors](../compare/index.md?t=film-paranormal-activity-next-of-kin_609972)
 
 ## DD+ 5.1
 

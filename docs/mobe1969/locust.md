@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-locust_95488)
+[Compare across authors](../compare/index.md?t=TV-locust_95488)
 
 ## Season 1
 

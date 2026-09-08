@@ -1,6 +1,6 @@
 # The Hunter's Prayer
 
-[Compare across authors](../../compare/?t=film-the-hunters-prayer_302150)
+[Compare across authors](../compare/index.md?t=film-the-hunters-prayer_302150)
 
 ## DTS-HD MA 5.1
 

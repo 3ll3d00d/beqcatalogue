@@ -1,6 +1,6 @@
 # Anthropoid
 
-[Compare across authors](../../compare/?t=film-anthropoid_351339)
+[Compare across authors](../compare/index.md?t=film-anthropoid_351339)
 
 ## DTS-HD MA 5.1
 

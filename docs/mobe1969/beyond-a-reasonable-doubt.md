@@ -1,6 +1,6 @@
 # Beyond a Reasonable Doubt
 
-[Compare across authors](../../compare/?t=film-beyond-a-reasonable-doubt_25137)
+[Compare across authors](../compare/index.md?t=film-beyond-a-reasonable-doubt_25137)
 
 ## LPCM 5.1
 

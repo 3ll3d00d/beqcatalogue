@@ -1,6 +1,6 @@
 # The Last Rifleman
 
-[Compare across authors](../../compare/?t=film-the-last-rifleman_763144)
+[Compare across authors](../compare/index.md?t=film-the-last-rifleman_763144)
 
 ## DD+ 5.1
 

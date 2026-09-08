@@ -1,6 +1,6 @@
 # The Last Voyage of the Demeter
 
-[Compare across authors](../../compare/?t=film-the-last-voyage-of-the-demeter_635910)
+[Compare across authors](../compare/index.md?t=film-the-last-voyage-of-the-demeter_635910)
 
 ## Atmos
 

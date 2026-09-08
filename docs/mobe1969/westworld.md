@@ -1,6 +1,6 @@
 # Westworld
 
-[Compare across authors](../../compare/?t=film-westworld_2362)
+[Compare across authors](../compare/index.md?t=film-westworld_2362)
 
 ## DTS-HD MA 5.1
 

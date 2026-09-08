@@ -1,6 +1,6 @@
 # AWOL-72
 
-[Compare across authors](../../compare/?t=film-awol-72_342502)
+[Compare across authors](../compare/index.md?t=film-awol-72_342502)
 
 ## DTS-HD MA 5.1
 

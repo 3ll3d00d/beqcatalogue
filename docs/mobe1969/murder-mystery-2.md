@@ -1,6 +1,6 @@
 # Murder Mystery 2
 
-[Compare across authors](../../compare/?t=film-murder-mystery-2_638974)
+[Compare across authors](../compare/index.md?t=film-murder-mystery-2_638974)
 
 ## DD+ Atmos
 

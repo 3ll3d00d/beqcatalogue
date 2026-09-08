@@ -1,6 +1,6 @@
 # Daredevil
 
-[Compare across authors](../../compare/?t=film-daredevil_9480)
+[Compare across authors](../compare/index.md?t=film-daredevil_9480)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Heartbreak Ridge
 
-[Compare across authors](../../compare/?t=film-heartbreak-ridge_10015)
+[Compare across authors](../compare/index.md?t=film-heartbreak-ridge_10015)
 
 ## DTS-HD MA 5.1
 

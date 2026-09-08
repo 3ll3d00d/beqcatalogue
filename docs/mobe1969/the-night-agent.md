@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-night-agent_129552)
+[Compare across authors](../compare/index.md?t=TV-the-night-agent_129552)
 
 ## Season 1
 

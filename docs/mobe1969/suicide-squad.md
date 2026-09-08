@@ -1,6 +1,6 @@
 # Suicide Squad
 
-[Compare across authors](../../compare/?t=film-suicide-squad_297761)
+[Compare across authors](../compare/index.md?t=film-suicide-squad_297761)
 
 ## Atmos
 

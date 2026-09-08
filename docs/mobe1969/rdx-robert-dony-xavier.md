@@ -1,6 +1,6 @@
 # RDX: Robert Dony Xavier
 
-[Compare across authors](../../compare/?t=film-rdx-robert-dony-xavier_997391)
+[Compare across authors](../compare/index.md?t=film-rdx-robert-dony-xavier_997391)
 
 ## DD+ 5.1
 

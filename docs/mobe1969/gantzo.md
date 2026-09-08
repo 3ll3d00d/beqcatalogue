@@ -1,6 +1,6 @@
 # Gantz:O
 
-[Compare across authors](../../compare/?t=film-gantzo_396263)
+[Compare across authors](../compare/index.md?t=film-gantzo_396263)
 
 ## TrueHD 5.1
 

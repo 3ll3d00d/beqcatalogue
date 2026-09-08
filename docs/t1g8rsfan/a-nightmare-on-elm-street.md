@@ -9,7 +9,7 @@ Teenagers in a small town are dropping like flies, apparently in the grip of mas
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/posts/62816284/)  [TMDB](https://www.themoviedb.org/movie/377)  [Compare across authors](../../compare/?t=film-a-nightmare-on-elm-street_377)
+[Discuss](https://www.avsforum.com/posts/62816284/)  [TMDB](https://www.themoviedb.org/movie/377)  [Compare across authors](../compare/index.md?t=film-a-nightmare-on-elm-street_377)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/A%20Nightmare%20on%20Elm%20Street%20(2010)%20(%2B1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # Yavarum Nalam
 
-[Compare across authors](../../compare/?t=film-yavarum-nalam_19950)
+[Compare across authors](../compare/index.md?t=film-yavarum-nalam_19950)
 
 ## DD+ 5.1
 

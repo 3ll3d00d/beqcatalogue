@@ -1,6 +1,6 @@
 # Disquiet
 
-[Compare across authors](../../compare/?t=film-disquiet_1072074)
+[Compare across authors](../compare/index.md?t=film-disquiet_1072074)
 
 ## DD+ 5.1
 

@@ -9,7 +9,7 @@ In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial g
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1597?post_id=64030079#post-64030079)  [TMDB](https://www.themoviedb.org/movie/2649)  [Compare across authors](../../compare/?t=film-the-game_2649)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1597?post_id=64030079#post-64030079)  [TMDB](https://www.themoviedb.org/movie/2649)  [Compare across authors](../compare/index.md?t=film-the-game_2649)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Game%20(1997)%20(%2B5.5%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # Gridiron Gang
 
-[Compare across authors](../../compare/?t=film-gridiron-gang_9766)
+[Compare across authors](../compare/index.md?t=film-gridiron-gang_9766)
 
 ## DTS-HD MA 5.1
 

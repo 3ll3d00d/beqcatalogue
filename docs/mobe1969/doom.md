@@ -1,6 +1,6 @@
 # Doom
 
-[Compare across authors](../../compare/?t=film-doom_8814)
+[Compare across authors](../compare/index.md?t=film-doom_8814)
 
 ## DTS-HD MA 5.1
 

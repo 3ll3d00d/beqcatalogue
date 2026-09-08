@@ -1,6 +1,6 @@
 # The Dead
 
-[Compare across authors](../../compare/?t=film-the-dead_924)
+[Compare across authors](../compare/index.md?t=film-the-dead_924)
 
 ## TrueHD 5.1
 

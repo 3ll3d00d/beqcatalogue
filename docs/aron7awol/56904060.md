@@ -1,6 +1,6 @@
 # Star Wars: Episode III - Revenge of the Sith
 
-[Compare across authors](../../compare/?t=film-star-wars-episode-iii-revenge-of-the-sith_1895)
+[Compare across authors](../compare/index.md?t=film-star-wars-episode-iii-revenge-of-the-sith_1895)
 
 ## Atmos
 

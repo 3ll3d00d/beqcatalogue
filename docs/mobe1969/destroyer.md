@@ -1,6 +1,6 @@
 # Destroyer
 
-[Compare across authors](../../compare/?t=film-destroyer_471507)
+[Compare across authors](../compare/index.md?t=film-destroyer_471507)
 
 ## DTS-HD MA 5.1
 

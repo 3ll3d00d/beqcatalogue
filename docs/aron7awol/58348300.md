@@ -1,6 +1,6 @@
 # Patriot Games
 
-[Compare across authors](../../compare/?t=film-patriot-games_9869)
+[Compare across authors](../compare/index.md?t=film-patriot-games_9869)
 
 ## TrueHD 5.1
 

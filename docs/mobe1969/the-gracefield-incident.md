@@ -1,6 +1,6 @@
 # The Gracefield Incident
 
-[Compare across authors](../../compare/?t=film-the-gracefield-incident_327253)
+[Compare across authors](../compare/index.md?t=film-the-gracefield-incident_327253)
 
 ## DTS-HD MA 5.1
 

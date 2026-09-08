@@ -1,6 +1,6 @@
 # From Russia with Love
 
-[Compare across authors](../../compare/?t=film-from-russia-with-love_657)
+[Compare across authors](../compare/index.md?t=film-from-russia-with-love_657)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

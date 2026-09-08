@@ -1,6 +1,6 @@
 # Omen III: The Final Conflict
 
-[Compare across authors](../../compare/?t=film-omen-iii-the-final-conflict_10768)
+[Compare across authors](../compare/index.md?t=film-omen-iii-the-final-conflict_10768)
 
 ## DTS-HD MA 5.1
 

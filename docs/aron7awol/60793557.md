@@ -1,6 +1,6 @@
 # Spiral: From the Book of Saw
 
-[Compare across authors](../../compare/?t=film-spiral-from-the-book-of-saw_602734)
+[Compare across authors](../compare/index.md?t=film-spiral-from-the-book-of-saw_602734)
 
 ## Atmos
 

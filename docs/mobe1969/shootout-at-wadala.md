@@ -1,6 +1,6 @@
 # Shootout at Wadala
 
-[Compare across authors](../../compare/?t=film-shootout-at-wadala_188640)
+[Compare across authors](../compare/index.md?t=film-shootout-at-wadala_188640)
 
 ## DD 5.1
 

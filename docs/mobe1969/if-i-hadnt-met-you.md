@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-if-i-hadnt-met-you_87611)
+[Compare across authors](../compare/index.md?t=TV-if-i-hadnt-met-you_87611)
 
 ## Season 1
 

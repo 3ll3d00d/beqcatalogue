@@ -1,6 +1,6 @@
 # Minari
 
-[Compare across authors](../../compare/?t=film-minari_615643)
+[Compare across authors](../compare/index.md?t=film-minari_615643)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Fury
 
-[Compare across authors](../../compare/?t=film-fury_228150)
+[Compare across authors](../compare/index.md?t=film-fury_228150)
 
 ## Atmos
 

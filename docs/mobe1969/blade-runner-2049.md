@@ -1,6 +1,6 @@
 # Blade Runner 2049
 
-[Compare across authors](../../compare/?t=film-blade-runner-2049_335984)
+[Compare across authors](../compare/index.md?t=film-blade-runner-2049_335984)
 
 ## Atmos, DD+ 5.1
 

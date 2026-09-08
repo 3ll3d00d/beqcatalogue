@@ -1,6 +1,6 @@
 # The Town
 
-[Compare across authors](../../compare/?t=film-the-town_23168)
+[Compare across authors](../compare/index.md?t=film-the-town_23168)
 
 ## DTS-HD MA 5.1
 

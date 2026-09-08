@@ -1,6 +1,6 @@
 # Chappie
 
-[Compare across authors](../../compare/?t=film-chappie_198184)
+[Compare across authors](../compare/index.md?t=film-chappie_198184)
 
 ## Atmos
 

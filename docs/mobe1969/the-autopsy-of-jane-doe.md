@@ -1,6 +1,6 @@
 # The Autopsy of Jane Doe
 
-[Compare across authors](../../compare/?t=film-the-autopsy-of-jane-doe_397243)
+[Compare across authors](../compare/index.md?t=film-the-autopsy-of-jane-doe_397243)
 
 ## DTS-HD MA 5.1
 

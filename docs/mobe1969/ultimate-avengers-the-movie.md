@@ -1,6 +1,6 @@
 # Ultimate Avengers: The Movie
 
-[Compare across authors](../../compare/?t=film-ultimate-avengers-the-movie_14609)
+[Compare across authors](../compare/index.md?t=film-ultimate-avengers-the-movie_14609)
 
 ## LPCM 7.1
 

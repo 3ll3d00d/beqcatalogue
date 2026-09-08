@@ -1,6 +1,6 @@
 # Rocky IV
 
-[Compare across authors](../../compare/?t=film-rocky-iv_1374)
+[Compare across authors](../compare/index.md?t=film-rocky-iv_1374)
 
 ## DTS-HD MA 5.1
 

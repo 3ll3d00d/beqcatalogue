@@ -1,6 +1,6 @@
 # Ghost Rider
 
-[Compare across authors](../../compare/?t=film-ghost-rider_1250)
+[Compare across authors](../compare/index.md?t=film-ghost-rider_1250)
 
 ## DD+ 5.1
 

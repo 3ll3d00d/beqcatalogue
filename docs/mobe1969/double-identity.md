@@ -1,6 +1,6 @@
 # Double Identity
 
-[Compare across authors](../../compare/?t=film-double-identity_31453)
+[Compare across authors](../compare/index.md?t=film-double-identity_31453)
 
 ## TrueHD 5.1
 

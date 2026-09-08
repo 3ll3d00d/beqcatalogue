@@ -1,6 +1,6 @@
 # Kal Ho Naa Ho
 
-[Compare across authors](../../compare/?t=film-kal-ho-naa-ho_4254)
+[Compare across authors](../compare/index.md?t=film-kal-ho-naa-ho_4254)
 
 ## DD+ 5.1
 

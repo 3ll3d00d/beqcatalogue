@@ -1,6 +1,6 @@
 # Dark Waters
 
-[Compare across authors](../../compare/?t=film-dark-waters_552178)
+[Compare across authors](../compare/index.md?t=film-dark-waters_552178)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Mohenjo Daro
 
-[Compare across authors](../../compare/?t=film-mohenjo-daro_402672)
+[Compare across authors](../compare/index.md?t=film-mohenjo-daro_402672)
 
 ## DD+ 5.1
 

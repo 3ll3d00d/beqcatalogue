@@ -1,6 +1,6 @@
 # Elizabeth: The Golden Age
 
-[Compare across authors](../../compare/?t=film-elizabeth-the-golden-age_4517)
+[Compare across authors](../compare/index.md?t=film-elizabeth-the-golden-age_4517)
 
 ## DTS-HD MA 5.1
 

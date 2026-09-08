@@ -14,7 +14,7 @@ Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches o
 5.1 Mix 2018 Version (New for 4K83)
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1521?post_id=63610186#post-63610186)  [TMDB](https://www.themoviedb.org/movie/1892)  [Compare across authors](../../compare/?t=film-return-of-the-jedi_1892)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1521?post_id=63610186#post-63610186)  [TMDB](https://www.themoviedb.org/movie/1892)  [Compare across authors](../compare/index.md?t=film-return-of-the-jedi_1892)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Return%20of%20the%20Jedi%20(1983)%20(%2B1%20gain)%20DTS-HD%20MA%205.1%20Mix%202018%20Version%20(New%20for%204K83).jpg)

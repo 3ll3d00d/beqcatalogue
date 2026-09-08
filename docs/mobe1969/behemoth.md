@@ -1,6 +1,6 @@
 # Behemoth
 
-[Compare across authors](../../compare/?t=film-behemoth_352202)
+[Compare across authors](../compare/index.md?t=film-behemoth_352202)
 
 ## DTS-HD MA 5.1
 

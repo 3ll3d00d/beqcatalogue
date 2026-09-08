@@ -1,6 +1,6 @@
 # Darlin'
 
-[Compare across authors](../../compare/?t=film-darlin_529149)
+[Compare across authors](../compare/index.md?t=film-darlin_529149)
 
 ## DTS-HD MA 5.1
 

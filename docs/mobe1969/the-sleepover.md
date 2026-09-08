@@ -1,6 +1,6 @@
 # The Sleepover
 
-[Compare across authors](../../compare/?t=film-the-sleepover_626393)
+[Compare across authors](../compare/index.md?t=film-the-sleepover_626393)
 
 ## DD+ 5.1
 

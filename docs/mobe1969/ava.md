@@ -1,6 +1,6 @@
 # Ava
 
-[Compare across authors](../../compare/?t=film-ava_539885)
+[Compare across authors](../compare/index.md?t=film-ava_539885)
 
 ## DD+ 5.1
 

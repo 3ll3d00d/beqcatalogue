@@ -1,6 +1,6 @@
 # Seoul Vibe
 
-[Compare across authors](../../compare/?t=film-seoul-vibe_773867)
+[Compare across authors](../compare/index.md?t=film-seoul-vibe_773867)
 
 ## DD+ Atmos
 

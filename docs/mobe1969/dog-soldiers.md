@@ -1,6 +1,6 @@
 # Dog Soldiers
 
-[Compare across authors](../../compare/?t=film-dog-soldiers_11880)
+[Compare across authors](../compare/index.md?t=film-dog-soldiers_11880)
 
 ## DTS-HD MA 5.1
 

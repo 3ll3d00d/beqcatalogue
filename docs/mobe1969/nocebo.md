@@ -1,6 +1,6 @@
 # Nocebo
 
-[Compare across authors](../../compare/?t=film-nocebo_782936)
+[Compare across authors](../compare/index.md?t=film-nocebo_782936)
 
 ## DTS-HD MA 5.1
 

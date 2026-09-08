@@ -1,6 +1,6 @@
 # In the Heart of the Sea
 
-[Compare across authors](../../compare/?t=film-in-the-heart-of-the-sea_205775)
+[Compare across authors](../compare/index.md?t=film-in-the-heart-of-the-sea_205775)
 
 ## Atmos
 

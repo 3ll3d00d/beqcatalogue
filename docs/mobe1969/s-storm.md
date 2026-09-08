@@ -1,6 +1,6 @@
 # S Storm
 
-[Compare across authors](../../compare/?t=film-s-storm_367195)
+[Compare across authors](../compare/index.md?t=film-s-storm_367195)
 
 ## DD+ 5.1
 

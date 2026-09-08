@@ -1,6 +1,6 @@
 # Disco Inferno
 
-[Compare across authors](../../compare/?t=film-disco-inferno_1191902)
+[Compare across authors](../compare/index.md?t=film-disco-inferno_1191902)
 
 ## DD+ 5.1
 

@@ -12,7 +12,7 @@ In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a 
 +4dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62603556)  [TMDB](https://www.themoviedb.org/movie/19995)  [Compare across authors](../../compare/?t=film-avatar_19995)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62603556)  [TMDB](https://www.themoviedb.org/movie/19995)  [Compare across authors](../compare/index.md?t=film-avatar_19995)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Avatar%20(2009)%20(%2B1%20gain)%20Atmos.jpg)
@@ -33,7 +33,7 @@ In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a 
 Ultra HD Blu-ray™ Version
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63063460)  [TMDB](https://www.themoviedb.org/movie/19995)  [Compare across authors](../../compare/?t=film-avatar_19995)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63063460)  [TMDB](https://www.themoviedb.org/movie/19995)  [Compare across authors](../compare/index.md?t=film-avatar_19995)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Avatar%20(2009)%20Extended%20(UHD)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)

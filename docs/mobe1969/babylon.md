@@ -1,6 +1,6 @@
 # Babylon
 
-[Compare across authors](../../compare/?t=film-babylon_615777)
+[Compare across authors](../compare/index.md?t=film-babylon_615777)
 
 ## Atmos
 

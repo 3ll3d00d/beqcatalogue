@@ -9,7 +9,7 @@ Eight year old Peter is plagued by a mysterious, constant tapping from inside hi
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62836936)  [TMDB](https://www.themoviedb.org/movie/709631)  [Compare across authors](../../compare/?t=film-cobweb_709631)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62836936)  [TMDB](https://www.themoviedb.org/movie/709631)  [Compare across authors](../compare/index.md?t=film-cobweb_709631)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Cobweb%20(2023)%20DDP%205.1%20PvA.jpg)
@@ -25,7 +25,7 @@ Eight year old Peter is plagued by a mysterious, constant tapping from inside hi
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62836936)  [TMDB](https://www.themoviedb.org/movie/709631)  [Compare across authors](../../compare/?t=film-cobweb_709631)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62836936)  [TMDB](https://www.themoviedb.org/movie/709631)  [Compare across authors](../compare/index.md?t=film-cobweb_709631)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Cobweb%20(2023)%20DTS-HD%20MA%205.1%20PvA.jpg)

@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-dead-boy-detectives_132750)
+* [Compare across authors](../compare/index.md?t=TV-dead-boy-detectives_132750)
 
 * Production Year: 2024
 

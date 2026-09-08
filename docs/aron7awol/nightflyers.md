@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-nightflyers_78183)
+[Compare across authors](../compare/index.md?t=TV-nightflyers_78183)
 
 ## Season 1 Episodes 2-10
 

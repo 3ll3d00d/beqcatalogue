@@ -1,6 +1,6 @@
 # GodFather
 
-[Compare across authors](../../compare/?t=film-godfather_863931)
+[Compare across authors](../compare/index.md?t=film-godfather_863931)
 
 ## DD+ 5.1
 

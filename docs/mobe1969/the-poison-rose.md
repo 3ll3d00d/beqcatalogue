@@ -1,6 +1,6 @@
 # The Poison Rose
 
-[Compare across authors](../../compare/?t=film-the-poison-rose_529983)
+[Compare across authors](../compare/index.md?t=film-the-poison-rose_529983)
 
 ## DTS-HD MA 5.1
 

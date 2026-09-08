@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-marvels-iron-fist_62127)
+[Compare across authors](../compare/index.md?t=TV-marvels-iron-fist_62127)
 
 ## Season 2
 

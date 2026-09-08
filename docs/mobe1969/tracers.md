@@ -1,6 +1,6 @@
 # Tracers
 
-[Compare across authors](../../compare/?t=film-tracers_290764)
+[Compare across authors](../compare/index.md?t=film-tracers_290764)
 
 ## DTS-HD MA 5.1
 

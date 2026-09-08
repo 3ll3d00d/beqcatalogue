@@ -1,6 +1,6 @@
 # Surrogates
 
-[Compare across authors](../../compare/?t=film-surrogates_19959)
+[Compare across authors](../compare/index.md?t=film-surrogates_19959)
 
 ## DTS-HD MA 5.1
 

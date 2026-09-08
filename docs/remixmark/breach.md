@@ -9,7 +9,7 @@ Eric O'Neill, a low-level surveillance expert with the FBI, believes he is accom
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1741?post_id=64610668#post-64610668)  [TMDB](https://www.themoviedb.org/movie/4169)  [Compare across authors](../../compare/?t=film-breach_4169)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1741?post_id=64610668#post-64610668)  [TMDB](https://www.themoviedb.org/movie/4169)  [Compare across authors](../compare/index.md?t=film-breach_4169)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Breach.(2007)%20(%2B2.5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ Eric O'Neill, a low-level surveillance expert with the FBI, believes he is accom
 
 **MV Adjustment:** +11.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1741?post_id=64610549#post-64610549)  [TMDB](https://www.themoviedb.org/movie/4169)  [Compare across authors](../../compare/?t=film-breach_4169)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1741?post_id=64610549#post-64610549)  [TMDB](https://www.themoviedb.org/movie/4169)  [Compare across authors](../compare/index.md?t=film-breach_4169)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Breach%20(2007)%20(%2B11%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # The Secret World of Arrietty
 
-[Compare across authors](../../compare/?t=film-the-secret-world-of-arrietty_51739)
+[Compare across authors](../compare/index.md?t=film-the-secret-world-of-arrietty_51739)
 
 ## DTS-HD MA 5.1
 

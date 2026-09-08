@@ -1,6 +1,6 @@
 # Steel Rain 2: Summit
 
-[Compare across authors](../../compare/?t=film-steel-rain-2-summit_606906)
+[Compare across authors](../compare/index.md?t=film-steel-rain-2-summit_606906)
 
 ## DTS-HD MA 5.1
 

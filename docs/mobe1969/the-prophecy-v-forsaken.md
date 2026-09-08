@@ -1,6 +1,6 @@
 # The Prophecy V: Forsaken
 
-[Compare across authors](../../compare/?t=film-the-prophecy-v-forsaken_37529)
+[Compare across authors](../compare/index.md?t=film-the-prophecy-v-forsaken_37529)
 
 ## DTS-HD MA 5.1
 

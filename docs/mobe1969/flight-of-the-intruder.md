@@ -1,6 +1,6 @@
 # Flight of the Intruder
 
-[Compare across authors](../../compare/?t=film-flight-of-the-intruder_18886)
+[Compare across authors](../compare/index.md?t=film-flight-of-the-intruder_18886)
 
 ## DTS-HD MA 5.1
 

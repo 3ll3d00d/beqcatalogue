@@ -1,6 +1,6 @@
 # Midnight
 
-[Compare across authors](../../compare/?t=film-midnight_628704)
+[Compare across authors](../compare/index.md?t=film-midnight_628704)
 
 ## DTS-HD MA 5.1
 

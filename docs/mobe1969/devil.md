@@ -1,6 +1,6 @@
 # Devil
 
-[Compare across authors](../../compare/?t=film-devil_44040)
+[Compare across authors](../compare/index.md?t=film-devil_44040)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

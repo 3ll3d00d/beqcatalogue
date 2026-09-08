@@ -1,6 +1,6 @@
 # Romeo Akbar Walter
 
-[Compare across authors](../../compare/?t=film-romeo-akbar-walter_585862)
+[Compare across authors](../compare/index.md?t=film-romeo-akbar-walter_585862)
 
 ## DD+ 5.1
 

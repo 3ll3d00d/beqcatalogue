@@ -1,6 +1,6 @@
 # Cinderella II: Dreams Come True
 
-[Compare across authors](../../compare/?t=film-cinderella-ii-dreams-come-true_14128)
+[Compare across authors](../compare/index.md?t=film-cinderella-ii-dreams-come-true_14128)
 
 ## DD+ 5.1
 

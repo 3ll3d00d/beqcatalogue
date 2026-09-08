@@ -1,6 +1,6 @@
 # Scarface
 
-[Compare across authors](../../compare/?t=film-scarface_111)
+[Compare across authors](../compare/index.md?t=film-scarface_111)
 
 ## DTS-X
 

@@ -1,6 +1,6 @@
 # Gumraah
 
-[Compare across authors](../../compare/?t=film-gumraah_974025)
+[Compare across authors](../compare/index.md?t=film-gumraah_974025)
 
 ## DD+ 5.1
 

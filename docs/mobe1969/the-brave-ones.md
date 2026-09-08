@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-brave-ones_209390)
+[Compare across authors](../compare/index.md?t=TV-the-brave-ones_209390)
 
 ## Season 1
 

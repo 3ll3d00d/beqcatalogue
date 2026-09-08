@@ -1,6 +1,6 @@
 # Wildcat
 
-[Compare across authors](../../compare/?t=film-wildcat_762735)
+[Compare across authors](../compare/index.md?t=film-wildcat_762735)
 
 ## DD+ 5.1
 

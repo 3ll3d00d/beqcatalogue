@@ -1,6 +1,6 @@
 # Kill Bill: Vol. 1
 
-[Compare across authors](../../compare/?t=film-kill-bill-vol-1_24)
+[Compare across authors](../compare/index.md?t=film-kill-bill-vol-1_24)
 
 ## LPCM 5.1, DTS-HD MA 5.1
 

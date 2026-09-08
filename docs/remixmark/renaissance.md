@@ -12,7 +12,7 @@ To find Ilona and unlock the secrets of her disappearance, Karas must plunge dee
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1706?post_id=64446453#post-64446453)  [TMDB](https://www.themoviedb.org/movie/9389)  [Compare across authors](../../compare/?t=film-renaissance_9389)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1706?post_id=64446453#post-64446453)  [TMDB](https://www.themoviedb.org/movie/9389)  [Compare across authors](../compare/index.md?t=film-renaissance_9389)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Renaissance%20(2006)%20(%2B2.5%20gain)%20DTS-HD%20MA%205.1.jpg)

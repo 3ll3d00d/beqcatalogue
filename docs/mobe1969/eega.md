@@ -1,6 +1,6 @@
 # Eega
 
-[Compare across authors](../../compare/?t=film-eega_148265)
+[Compare across authors](../compare/index.md?t=film-eega_148265)
 
 ## DD+ 5.1
 

@@ -12,7 +12,7 @@ An exploratory dive into the deepest depths of the ocean of a daring research te
 +2dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62773999)  [TMDB](https://www.themoviedb.org/movie/615656)  [Compare across authors](../../compare/?t=film-meg-2-the-trench_615656)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62773999)  [TMDB](https://www.themoviedb.org/movie/615656)  [Compare across authors](../compare/index.md?t=film-meg-2-the-trench_615656)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Meg%202%20-%20The%20Trench%202023%20DDP%20Atmos%20PvA%20v1.jpg)

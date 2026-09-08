@@ -1,6 +1,6 @@
 # Jamesy Boy
 
-[Compare across authors](../../compare/?t=film-jamesy-boy_233470)
+[Compare across authors](../compare/index.md?t=film-jamesy-boy_233470)
 
 ## DD+ 5.1
 

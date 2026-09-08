@@ -1,6 +1,6 @@
 # Bleeding Heart
 
-[Compare across authors](../../compare/?t=film-bleeding-heart_332706)
+[Compare across authors](../compare/index.md?t=film-bleeding-heart_332706)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Harry Potter and the Philosopher's Stone
 
-[Compare across authors](../../compare/?t=film-harry-potter-and-the-philosophers-stone_671)
+[Compare across authors](../compare/index.md?t=film-harry-potter-and-the-philosophers-stone_671)
 
 ## DD+ 5.1
 

@@ -12,7 +12,7 @@ Six months into a solo mission, a lonely astronaut confronts the cracks in his m
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1488?post_id=63465328#post-63465328)  [TMDB](https://www.themoviedb.org/movie/636706)  [Compare across authors](../../compare/?t=film-spaceman_636706)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1488?post_id=63465328#post-63465328)  [TMDB](https://www.themoviedb.org/movie/636706)  [Compare across authors](../compare/index.md?t=film-spaceman_636706)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Spaceman%20(2024)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # Against the Dark
 
-[Compare across authors](../../compare/?t=film-against-the-dark_15039)
+[Compare across authors](../compare/index.md?t=film-against-the-dark_15039)
 
 ## DD+ 5.1
 

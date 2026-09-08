@@ -1,6 +1,6 @@
 # The Good Mother
 
-[Compare across authors](../../compare/?t=film-the-good-mother_104301)
+[Compare across authors](../compare/index.md?t=film-the-good-mother_104301)
 
 ## DTS-HD MA 2.0
 

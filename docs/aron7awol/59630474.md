@@ -1,6 +1,6 @@
 # Turbo Kid
 
-[Compare across authors](../../compare/?t=film-turbo-kid_310135)
+[Compare across authors](../compare/index.md?t=film-turbo-kid_310135)
 
 ## DTS-HD MA 5.1
 

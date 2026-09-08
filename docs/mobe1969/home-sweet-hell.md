@@ -1,6 +1,6 @@
 # Home Sweet Hell
 
-[Compare across authors](../../compare/?t=film-home-sweet-hell_276839)
+[Compare across authors](../compare/index.md?t=film-home-sweet-hell_276839)
 
 ## DTS-HD MA 5.1
 

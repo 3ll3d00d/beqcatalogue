@@ -1,6 +1,6 @@
 # Catwoman
 
-[Compare across authors](../../compare/?t=film-catwoman_314)
+[Compare across authors](../compare/index.md?t=film-catwoman_314)
 
 ## TrueHD 5.1
 

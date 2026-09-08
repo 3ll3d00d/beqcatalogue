@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-superstition_74104)
+[Compare across authors](../compare/index.md?t=TV-superstition_74104)
 
 ## Season 1
 

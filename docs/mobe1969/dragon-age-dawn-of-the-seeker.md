@@ -1,6 +1,6 @@
 # Dragon Age: Dawn of the Seeker
 
-[Compare across authors](../../compare/?t=film-dragon-age-dawn-of-the-seeker_103173)
+[Compare across authors](../compare/index.md?t=film-dragon-age-dawn-of-the-seeker_103173)
 
 ## TrueHD 5.1
 

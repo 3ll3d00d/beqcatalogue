@@ -1,6 +1,6 @@
 # Father Stu
 
-[Compare across authors](../../compare/?t=film-father-stu_809140)
+[Compare across authors](../compare/index.md?t=film-father-stu_809140)
 
 ## DD+ 5.1
 

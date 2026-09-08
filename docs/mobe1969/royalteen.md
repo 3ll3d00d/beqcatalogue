@@ -1,6 +1,6 @@
 # Royalteen
 
-[Compare across authors](../../compare/?t=film-royalteen_996518)
+[Compare across authors](../compare/index.md?t=film-royalteen_996518)
 
 ## DD+ Atmos
 

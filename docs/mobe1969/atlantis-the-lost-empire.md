@@ -1,6 +1,6 @@
 # Atlantis: The Lost Empire
 
-[Compare across authors](../../compare/?t=film-atlantis-the-lost-empire_10865)
+[Compare across authors](../compare/index.md?t=film-atlantis-the-lost-empire_10865)
 
 ## DTS-HD MA 5.1
 

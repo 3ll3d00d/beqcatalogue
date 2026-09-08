@@ -1,6 +1,6 @@
 # IO
 
-[Compare across authors](../../compare/?t=film-io_433249)
+[Compare across authors](../compare/index.md?t=film-io_433249)
 
 ## DD+ 5.1
 

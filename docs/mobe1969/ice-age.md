@@ -1,6 +1,6 @@
 # Ice Age
 
-[Compare across authors](../../compare/?t=film-ice-age_425)
+[Compare across authors](../compare/index.md?t=film-ice-age_425)
 
 ## DTS-HD MA 5.1
 

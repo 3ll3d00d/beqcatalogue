@@ -1,6 +1,6 @@
 # The Exorcist
 
-[Compare across authors](../../compare/?t=film-the-exorcist_9552)
+[Compare across authors](../compare/index.md?t=film-the-exorcist_9552)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Ruby Gillman, Teenage Kraken
 
-[Compare across authors](../../compare/?t=film-ruby-gillman-teenage-kraken_1040148)
+[Compare across authors](../compare/index.md?t=film-ruby-gillman-teenage-kraken_1040148)
 
 ## DD+ 5.1
 

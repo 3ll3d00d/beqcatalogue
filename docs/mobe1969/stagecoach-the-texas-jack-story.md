@@ -1,6 +1,6 @@
 # Stagecoach: The Texas Jack Story
 
-[Compare across authors](../../compare/?t=film-stagecoach-the-texas-jack-story_412894)
+[Compare across authors](../compare/index.md?t=film-stagecoach-the-texas-jack-story_412894)
 
 ## DTS-HD MA 5.1
 

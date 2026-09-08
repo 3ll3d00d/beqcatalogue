@@ -1,6 +1,6 @@
 # Zathura: A Space Adventure
 
-[Compare across authors](../../compare/?t=film-zathura-a-space-adventure_6795)
+[Compare across authors](../compare/index.md?t=film-zathura-a-space-adventure_6795)
 
 ## DTS-HD MA 5.1
 

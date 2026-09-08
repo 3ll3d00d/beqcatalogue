@@ -1,6 +1,6 @@
 # Behind the Line: Escape to Dunkirk
 
-[Compare across authors](../../compare/?t=film-behind-the-line-escape-to-dunkirk_726876)
+[Compare across authors](../compare/index.md?t=film-behind-the-line-escape-to-dunkirk_726876)
 
 ## DD+ 5.1
 

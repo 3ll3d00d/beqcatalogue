@@ -1,6 +1,6 @@
 # Bestseller
 
-[Compare across authors](../../compare/?t=film-bestseller_42507)
+[Compare across authors](../compare/index.md?t=film-bestseller_42507)
 
 ## DTS-HD MA 5.1
 

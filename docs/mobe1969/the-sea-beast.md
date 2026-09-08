@@ -1,6 +1,6 @@
 # The Sea Beast
 
-[Compare across authors](../../compare/?t=film-the-sea-beast_560057)
+[Compare across authors](../compare/index.md?t=film-the-sea-beast_560057)
 
 ## DD+ Atmos
 

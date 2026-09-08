@@ -1,6 +1,6 @@
 # Brij Mohan Amar Rahe!
 
-[Compare across authors](../../compare/?t=film-brij-mohan-amar-rahe_539470)
+[Compare across authors](../compare/index.md?t=film-brij-mohan-amar-rahe_539470)
 
 ## DD+ 5.1
 

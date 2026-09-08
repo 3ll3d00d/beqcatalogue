@@ -10,7 +10,7 @@ When an army commando finds out his true love is engaged against her will, he bo
 HI
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1160018)  [Compare across authors](../../compare/?t=film-kill_1160018)
+[TMDB](https://www.themoviedb.org/movie/1160018)  [Compare across authors](../compare/index.md?t=film-kill_1160018)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Kill%20(2023)%20(HI)%20Atmos.jpg)
@@ -27,7 +27,7 @@ When an army commando finds out his true love is engaged against her will, he bo
 Hindi
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1160018)  [Compare across authors](../../compare/?t=film-kill_1160018)
+[TMDB](https://www.themoviedb.org/movie/1160018)  [Compare across authors](../compare/index.md?t=film-kill_1160018)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Kill%20(2024)%20DD%2B%20Atmos.jpg)

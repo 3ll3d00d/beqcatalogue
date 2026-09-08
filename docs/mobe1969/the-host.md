@@ -1,6 +1,6 @@
 # The Host
 
-[Compare across authors](../../compare/?t=film-the-host_1255)
+[Compare across authors](../compare/index.md?t=film-the-host_1255)
 
 ## DTS-HD HR 5.1
 

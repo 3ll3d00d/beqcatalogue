@@ -1,6 +1,6 @@
 # Bhool Bhulaiyaa 2
 
-[Compare across authors](../../compare/?t=film-bhool-bhulaiyaa-2_695962)
+[Compare across authors](../compare/index.md?t=film-bhool-bhulaiyaa-2_695962)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Divine Fury
 
-[Compare across authors](../../compare/?t=film-the-divine-fury_571627)
+[Compare across authors](../compare/index.md?t=film-the-divine-fury_571627)
 
 ## DTS-HD MA 5.1
 

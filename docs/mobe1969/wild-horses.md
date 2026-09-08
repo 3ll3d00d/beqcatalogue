@@ -1,6 +1,6 @@
 # Wild Horses
 
-[Compare across authors](../../compare/?t=film-wild-horses_324333)
+[Compare across authors](../compare/index.md?t=film-wild-horses_324333)
 
 ## DTS-HD MA 5.1
 

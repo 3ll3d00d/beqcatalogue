@@ -1,6 +1,6 @@
 # Nowhere to Run
 
-[Compare across authors](../../compare/?t=film-nowhere-to-run_10413)
+[Compare across authors](../compare/index.md?t=film-nowhere-to-run_10413)
 
 ## LPCM 2.0
 

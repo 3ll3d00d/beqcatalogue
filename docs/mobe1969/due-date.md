@@ -1,6 +1,6 @@
 # Due Date
 
-[Compare across authors](../../compare/?t=film-due-date_41733)
+[Compare across authors](../compare/index.md?t=film-due-date_41733)
 
 ## DTS-HD MA 5.1
 

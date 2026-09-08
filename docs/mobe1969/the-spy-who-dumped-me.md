@@ -1,6 +1,6 @@
 # The Spy Who Dumped Me
 
-[Compare across authors](../../compare/?t=film-the-spy-who-dumped-me_454992)
+[Compare across authors](../compare/index.md?t=film-the-spy-who-dumped-me_454992)
 
 ## Atmos
 

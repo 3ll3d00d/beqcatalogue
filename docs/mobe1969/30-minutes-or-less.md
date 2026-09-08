@@ -1,6 +1,6 @@
 # 30 Minutes or Less
 
-[Compare across authors](../../compare/?t=film-30-minutes-or-less_62206)
+[Compare across authors](../compare/index.md?t=film-30-minutes-or-less_62206)
 
 ## DTS-HD MA 5.1
 

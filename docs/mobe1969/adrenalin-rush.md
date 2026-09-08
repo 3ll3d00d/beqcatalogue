@@ -1,6 +1,6 @@
 # Adrenalin Rush
 
-[Compare across authors](../../compare/?t=film-adrenalin-rush_77175)
+[Compare across authors](../compare/index.md?t=film-adrenalin-rush_77175)
 
 ## DTS-HD MA 5.1
 

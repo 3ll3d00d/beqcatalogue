@@ -1,6 +1,6 @@
 # Here Are The Young Men
 
-[Compare across authors](../../compare/?t=film-here-are-the-young-men_540248)
+[Compare across authors](../compare/index.md?t=film-here-are-the-young-men_540248)
 
 ## DD+ 5.1
 

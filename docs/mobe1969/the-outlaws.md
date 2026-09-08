@@ -1,6 +1,6 @@
 # The Outlaws
 
-[Compare across authors](../../compare/?t=film-the-outlaws_479718)
+[Compare across authors](../compare/index.md?t=film-the-outlaws_479718)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Extinct
 
-[Compare across authors](../../compare/?t=film-extinct_664236)
+[Compare across authors](../compare/index.md?t=film-extinct_664236)
 
 ## DD+ 5.1
 

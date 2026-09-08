@@ -1,6 +1,6 @@
 # Us
 
-[Compare across authors](../../compare/?t=film-us_458723)
+[Compare across authors](../compare/index.md?t=film-us_458723)
 
 ## Atmos
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-daybreak_83478)
+[Compare across authors](../compare/index.md?t=TV-daybreak_83478)
 
 ## Season 1
 

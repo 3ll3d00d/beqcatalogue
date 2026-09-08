@@ -1,6 +1,6 @@
 # King of Killers
 
-[Compare across authors](../../compare/?t=film-king-of-killers_1024127)
+[Compare across authors](../compare/index.md?t=film-king-of-killers_1024127)
 
 ## DTS-HD MA 5.1
 

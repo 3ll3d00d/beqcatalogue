@@ -1,6 +1,6 @@
 # Occupation
 
-[Compare across authors](../../compare/?t=film-occupation_503346)
+[Compare across authors](../compare/index.md?t=film-occupation_503346)
 
 ## DTS-HD MA 5.1
 

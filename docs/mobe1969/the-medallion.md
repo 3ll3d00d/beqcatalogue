@@ -1,6 +1,6 @@
 # The Medallion
 
-[Compare across authors](../../compare/?t=film-the-medallion_10610)
+[Compare across authors](../compare/index.md?t=film-the-medallion_10610)
 
 ## DD 5.1
 

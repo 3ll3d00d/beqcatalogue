@@ -1,6 +1,6 @@
 # Orbiter 9
 
-[Compare across authors](../../compare/?t=film-orbiter-9_437311)
+[Compare across authors](../compare/index.md?t=film-orbiter-9_437311)
 
 ## DD+ 5.1
 

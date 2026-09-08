@@ -7,7 +7,7 @@
 * DD 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-seal-team_71789)
+* [Compare across authors](../compare/index.md?t=TV-seal-team_71789)
 
 * Production Year: 2017
 

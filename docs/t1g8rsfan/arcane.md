@@ -11,7 +11,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/63589729/)
 
-* [Compare across authors](../../compare/?t=TV-arcane_94605)
+* [Compare across authors](../compare/index.md?t=TV-arcane_94605)
 
 * Production Year: 2021
 
@@ -27,7 +27,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/63589729/)
 
-* [Compare across authors](../../compare/?t=TV-arcane_94605)
+* [Compare across authors](../compare/index.md?t=TV-arcane_94605)
 
 * Production Year: 2024
 

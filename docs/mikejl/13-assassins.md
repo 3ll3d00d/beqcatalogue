@@ -7,7 +7,7 @@
 A bravado period action film set at the end of Japan's feudal era in which a group of unemployed samurai are enlisted to bring down a sadistic lord and prevent him from ascending to the throne and plunging the country into a war-torn future.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/58857)  [Compare across authors](../../compare/?t=film-13-assassins_58857)
+[TMDB](https://www.themoviedb.org/movie/58857)  [Compare across authors](../compare/index.md?t=film-13-assassins_58857)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/13%20Assassins/13%20Assassins%20(2010)%20DTS-HD%20MA%205.1.jpg)

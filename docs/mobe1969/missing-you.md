@@ -1,6 +1,6 @@
 # Missing You
 
-[Compare across authors](../../compare/?t=film-missing-you_390433)
+[Compare across authors](../compare/index.md?t=film-missing-you_390433)
 
 ## DTS-HD MA 5.1
 

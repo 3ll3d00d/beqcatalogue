@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-inside-man_121710)
+[Compare across authors](../compare/index.md?t=TV-inside-man_121710)
 
 ## Season 1
 

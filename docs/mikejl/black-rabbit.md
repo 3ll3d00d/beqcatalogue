@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-black-rabbit_249039)
+* [Compare across authors](../compare/index.md?t=TV-black-rabbit_249039)
 
 * Production Year: 2025
 

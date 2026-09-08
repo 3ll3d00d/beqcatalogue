@@ -1,6 +1,6 @@
 # Pietà
 
-[Compare across authors](../../compare/?t=film-pieta_123377)
+[Compare across authors](../compare/index.md?t=film-pieta_123377)
 
 ## DTS-HD MA 5.1
 

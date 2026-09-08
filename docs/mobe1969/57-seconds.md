@@ -1,6 +1,6 @@
 # 57 Seconds
 
-[Compare across authors](../../compare/?t=film-57-seconds_937249)
+[Compare across authors](../compare/index.md?t=film-57-seconds_937249)
 
 ## DD+ 5.1
 

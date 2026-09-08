@@ -1,6 +1,6 @@
 # Bullets Over Summer
 
-[Compare across authors](../../compare/?t=film-bullets-over-summer_68623)
+[Compare across authors](../compare/index.md?t=film-bullets-over-summer_68623)
 
 ## TrueHD 5.1
 

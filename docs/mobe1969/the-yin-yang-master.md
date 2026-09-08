@@ -1,6 +1,6 @@
 # The Yin Yang Master
 
-[Compare across authors](../../compare/?t=film-the-yin-yang-master_758902)
+[Compare across authors](../compare/index.md?t=film-the-yin-yang-master_758902)
 
 ## DD+ 5.1
 

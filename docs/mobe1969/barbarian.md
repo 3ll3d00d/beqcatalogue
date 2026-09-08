@@ -1,6 +1,6 @@
 # Barbarian
 
-[Compare across authors](../../compare/?t=film-barbarian_913290)
+[Compare across authors](../compare/index.md?t=film-barbarian_913290)
 
 ## DD+ 5.1
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-hit-monkey_133903)
+* [Compare across authors](../compare/index.md?t=TV-hit-monkey_133903)
 
 * Production Year: 2021
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-hit-monkey_133903)
+* [Compare across authors](../compare/index.md?t=TV-hit-monkey_133903)
 
 * Production Year: 2021
 

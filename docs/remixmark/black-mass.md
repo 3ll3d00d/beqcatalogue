@@ -11,7 +11,7 @@ The true story of Whitey Bulger, the brother of a state senator and the most inf
 
 **MV Adjustment:** +6.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1492?post_id=63491249#post-63491249)  [TMDB](https://www.themoviedb.org/movie/261023)  [Compare across authors](../../compare/?t=film-black-mass_261023)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1492?post_id=63491249#post-63491249)  [TMDB](https://www.themoviedb.org/movie/261023)  [Compare across authors](../compare/index.md?t=film-black-mass_261023)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Black%20Mass%20(2015)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1.jpg)

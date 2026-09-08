@@ -7,7 +7,7 @@
 A desperate young journalist turns to podcasting to salvage her career, but her rush to make headlines leads her to an alien conspiracy.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1024721)  [Compare across authors](../../compare/?t=film-monolith_1024721)
+[TMDB](https://www.themoviedb.org/movie/1024721)  [Compare across authors](../compare/index.md?t=film-monolith_1024721)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Monolith%20(2023)%20DTS-HD%20MA%205.1.jpg)

@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-nero-the-assassin_249551)
+* [Compare across authors](../compare/index.md?t=TV-nero-the-assassin_249551)
 
 * Production Year: 2025
 

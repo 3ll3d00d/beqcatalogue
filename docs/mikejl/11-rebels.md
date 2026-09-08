@@ -7,7 +7,7 @@
 When the brutal Boshin War breaks out in Japan, a group of inmates on death row unite to defend a fortress against the Imperial army.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1310682)  [Compare across authors](../../compare/?t=film-11-rebels_1310682)
+[TMDB](https://www.themoviedb.org/movie/1310682)  [Compare across authors](../compare/index.md?t=film-11-rebels_1310682)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/11%20Rebels/11%20Rebels%20(2024)%20Atmos.jpg)

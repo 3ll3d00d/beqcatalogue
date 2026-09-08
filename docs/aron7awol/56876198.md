@@ -1,6 +1,6 @@
 # Zero Dark Thirty
 
-[Compare across authors](../../compare/?t=film-zero-dark-thirty_97630)
+[Compare across authors](../compare/index.md?t=film-zero-dark-thirty_97630)
 
 ## Atmos
 

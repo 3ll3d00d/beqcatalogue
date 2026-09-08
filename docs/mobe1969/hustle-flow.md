@@ -1,6 +1,6 @@
 # Hustle & Flow
 
-[Compare across authors](../../compare/?t=film-hustle-flow_10476)
+[Compare across authors](../compare/index.md?t=film-hustle-flow_10476)
 
 ## TrueHD 5.1
 

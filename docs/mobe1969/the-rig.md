@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-rig_112581)
+[Compare across authors](../compare/index.md?t=TV-the-rig_112581)
 
 ## Season 1
 

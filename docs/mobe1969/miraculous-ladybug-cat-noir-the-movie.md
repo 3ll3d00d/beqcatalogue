@@ -1,6 +1,6 @@
 # Miraculous: Ladybug & Cat Noir, The Movie
 
-[Compare across authors](../../compare/?t=film-miraculous-ladybug-cat-noir-the-movie_496450)
+[Compare across authors](../compare/index.md?t=film-miraculous-ladybug-cat-noir-the-movie_496450)
 
 ## DD+ 5.1
 

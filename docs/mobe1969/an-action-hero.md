@@ -1,6 +1,6 @@
 # An Action Hero
 
-[Compare across authors](../../compare/?t=film-an-action-hero_882826)
+[Compare across authors](../compare/index.md?t=film-an-action-hero_882826)
 
 ## DD+ 5.1
 

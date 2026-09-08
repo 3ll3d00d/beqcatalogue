@@ -1,6 +1,6 @@
 # Sudden Impact
 
-[Compare across authors](../../compare/?t=film-sudden-impact_10650)
+[Compare across authors](../compare/index.md?t=film-sudden-impact_10650)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Die Hard
 
-[Compare across authors](../../compare/?t=film-die-hard_562)
+[Compare across authors](../compare/index.md?t=film-die-hard_562)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Decision to Leave
 
-[Compare across authors](../../compare/?t=film-decision-to-leave_705996)
+[Compare across authors](../compare/index.md?t=film-decision-to-leave_705996)
 
 ## Atmos
 

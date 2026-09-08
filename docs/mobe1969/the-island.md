@@ -1,6 +1,6 @@
 # The Island
 
-[Compare across authors](../../compare/?t=film-the-island_535170)
+[Compare across authors](../compare/index.md?t=film-the-island_535170)
 
 ## DTS-HD MA 5.1
 

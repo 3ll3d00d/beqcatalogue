@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-dark-crystal-age-of-resistance_71809)
+[Compare across authors](../compare/index.md?t=TV-the-dark-crystal-age-of-resistance_71809)
 
 ## Season 1
 

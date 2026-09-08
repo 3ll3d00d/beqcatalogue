@@ -1,6 +1,6 @@
 # The Perfect Storm
 
-[Compare across authors](../../compare/?t=film-the-perfect-storm_2133)
+[Compare across authors](../compare/index.md?t=film-the-perfect-storm_2133)
 
 ## TrueHD 5.1
 

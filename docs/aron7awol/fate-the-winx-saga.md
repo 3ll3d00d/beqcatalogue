@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-fate-the-winx-saga_97175)
+[Compare across authors](../compare/index.md?t=TV-fate-the-winx-saga_97175)
 
 ## Season 1 Episodes 1, 3-5
 

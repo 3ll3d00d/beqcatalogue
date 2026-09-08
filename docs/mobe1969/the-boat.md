@@ -1,6 +1,6 @@
 # The Boat
 
-[Compare across authors](../../compare/?t=film-the-boat_543915)
+[Compare across authors](../compare/index.md?t=film-the-boat_543915)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Maze Runner
 
-[Compare across authors](../../compare/?t=film-the-maze-runner_198663)
+[Compare across authors](../compare/index.md?t=film-the-maze-runner_198663)
 
 ## DTS-HD MA 7.1
 

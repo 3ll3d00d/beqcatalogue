@@ -1,6 +1,6 @@
 # Mother/Android
 
-[Compare across authors](../../compare/?t=film-motherandroid_739413)
+[Compare across authors](../compare/index.md?t=film-motherandroid_739413)
 
 ## DD+ 5.1
 

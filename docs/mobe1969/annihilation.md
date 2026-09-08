@@ -1,6 +1,6 @@
 # Annihilation
 
-[Compare across authors](../../compare/?t=film-annihilation_300668)
+[Compare across authors](../compare/index.md?t=film-annihilation_300668)
 
 ## Atmos
 

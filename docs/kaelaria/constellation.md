@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-constellation_197125)
+* [Compare across authors](../compare/index.md?t=TV-constellation_197125)
 
 * Production Year: 2024
 

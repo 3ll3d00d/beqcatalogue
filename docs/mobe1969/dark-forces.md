@@ -1,6 +1,6 @@
 # Dark Forces
 
-[Compare across authors](../../compare/?t=film-dark-forces_735110)
+[Compare across authors](../compare/index.md?t=film-dark-forces_735110)
 
 ## DD+ 5.1
 

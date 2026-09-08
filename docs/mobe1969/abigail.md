@@ -1,6 +1,6 @@
 # Abigail
 
-[Compare across authors](../../compare/?t=film-abigail_575094)
+[Compare across authors](../compare/index.md?t=film-abigail_575094)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Captive
 
-[Compare across authors](../../compare/?t=film-captive_331190)
+[Compare across authors](../compare/index.md?t=film-captive_331190)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # All's Well, Ends Well 2009
 
-[Compare across authors](../../compare/?t=film-alls-well-ends-well-2009_22193)
+[Compare across authors](../compare/index.md?t=film-alls-well-ends-well-2009_22193)
 
 ## DD+ 2.0
 

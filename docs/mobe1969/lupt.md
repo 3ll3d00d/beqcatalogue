@@ -1,6 +1,6 @@
 # Lupt
 
-[Compare across authors](../../compare/?t=film-lupt_538126)
+[Compare across authors](../compare/index.md?t=film-lupt_538126)
 
 ## DD 5.1
 

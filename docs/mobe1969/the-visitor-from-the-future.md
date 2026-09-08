@@ -1,6 +1,6 @@
 # The Visitor from the Future
 
-[Compare across authors](../../compare/?t=film-the-visitor-from-the-future_810389)
+[Compare across authors](../compare/index.md?t=film-the-visitor-from-the-future_810389)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Dumb and Dumber
 
-[Compare across authors](../../compare/?t=film-dumb-and-dumber_8467)
+[Compare across authors](../compare/index.md?t=film-dumb-and-dumber_8467)
 
 ## TrueHD 5.1
 

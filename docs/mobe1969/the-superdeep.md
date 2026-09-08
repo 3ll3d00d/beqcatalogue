@@ -1,6 +1,6 @@
 # The Superdeep
 
-[Compare across authors](../../compare/?t=film-the-superdeep_579828)
+[Compare across authors](../compare/index.md?t=film-the-superdeep_579828)
 
 ## DTS-HD MA 5.1
 

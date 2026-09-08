@@ -1,6 +1,6 @@
 # Sanako
 
-[Compare across authors](../../compare/?t=film-sanako_1018993)
+[Compare across authors](../compare/index.md?t=film-sanako_1018993)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Godspeed
 
-[Compare across authors](../../compare/?t=film-godspeed_971647)
+[Compare across authors](../compare/index.md?t=film-godspeed_971647)
 
 ## DD+ Atmos
 

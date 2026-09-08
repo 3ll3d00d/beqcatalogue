@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-holy-family_156883)
+[Compare across authors](../compare/index.md?t=TV-holy-family_156883)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Skiptrace
 
-[Compare across authors](../../compare/?t=film-skiptrace_270774)
+[Compare across authors](../compare/index.md?t=film-skiptrace_270774)
 
 ## DTS-HD MA 5.1
 

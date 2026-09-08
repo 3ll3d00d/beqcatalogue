@@ -1,6 +1,6 @@
 # The Sacrifice
 
-[Compare across authors](../../compare/?t=film-the-sacrifice_748685)
+[Compare across authors](../compare/index.md?t=film-the-sacrifice_748685)
 
 ## TrueHD 5.1
 

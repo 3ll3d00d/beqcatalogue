@@ -1,6 +1,6 @@
 # The Marine 4: Moving Target
 
-[Compare across authors](../../compare/?t=film-the-marine-4-moving-target_329540)
+[Compare across authors](../compare/index.md?t=film-the-marine-4-moving-target_329540)
 
 ## DTS-HD MA 5.1
 

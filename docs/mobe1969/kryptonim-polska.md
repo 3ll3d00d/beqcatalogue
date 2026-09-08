@@ -1,6 +1,6 @@
 # Kryptonim Polska
 
-[Compare across authors](../../compare/?t=film-kryptonim-polska_1011367)
+[Compare across authors](../compare/index.md?t=film-kryptonim-polska_1011367)
 
 ## DD+ 5.1
 

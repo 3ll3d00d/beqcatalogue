@@ -1,6 +1,6 @@
 # The Mortal Instruments: City of Bones
 
-[Compare across authors](../../compare/?t=film-the-mortal-instruments-city-of-bones_123553)
+[Compare across authors](../compare/index.md?t=film-the-mortal-instruments-city-of-bones_123553)
 
 ## DTS-HD MA 5.1
 

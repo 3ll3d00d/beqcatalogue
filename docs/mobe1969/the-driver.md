@@ -1,6 +1,6 @@
 # The Driver
 
-[Compare across authors](../../compare/?t=film-the-driver_648043)
+[Compare across authors](../compare/index.md?t=film-the-driver_648043)
 
 ## DD+ 5.1
 

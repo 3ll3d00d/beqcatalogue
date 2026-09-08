@@ -1,6 +1,6 @@
 # Blood Diamond
 
-[Compare across authors](../../compare/?t=film-blood-diamond_1372)
+[Compare across authors](../compare/index.md?t=film-blood-diamond_1372)
 
 ## LPCM 5.1
 

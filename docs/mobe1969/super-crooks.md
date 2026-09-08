@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-super-crooks_127599)
+[Compare across authors](../compare/index.md?t=TV-super-crooks_127599)
 
 ## Season 1
 

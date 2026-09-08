@@ -1,6 +1,6 @@
 # Jagame Thandhiram
 
-[Compare across authors](../../compare/?t=film-jagame-thandhiram_656113)
+[Compare across authors](../compare/index.md?t=film-jagame-thandhiram_656113)
 
 ## DD+ Atmos
 

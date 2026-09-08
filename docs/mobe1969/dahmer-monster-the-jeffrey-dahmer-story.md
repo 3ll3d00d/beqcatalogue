@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dahmer-monster-the-jeffrey-dahmer-story_113988)
+[Compare across authors](../compare/index.md?t=TV-dahmer-monster-the-jeffrey-dahmer-story_113988)
 
 ## Season 1
 

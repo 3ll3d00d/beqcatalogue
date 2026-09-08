@@ -1,6 +1,6 @@
 # A Violent Separation
 
-[Compare across authors](../../compare/?t=film-a-violent-separation_506815)
+[Compare across authors](../compare/index.md?t=film-a-violent-separation_506815)
 
 ## DD+ 5.1
 

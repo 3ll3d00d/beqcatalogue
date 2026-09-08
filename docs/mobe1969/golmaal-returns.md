@@ -1,6 +1,6 @@
 # Golmaal Returns
 
-[Compare across authors](../../compare/?t=film-golmaal-returns_14546)
+[Compare across authors](../compare/index.md?t=film-golmaal-returns_14546)
 
 ## DD+ 5.1
 

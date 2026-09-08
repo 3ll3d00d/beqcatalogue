@@ -1,6 +1,6 @@
 # Feast
 
-[Compare across authors](../../compare/?t=film-feast_10070)
+[Compare across authors](../compare/index.md?t=film-feast_10070)
 
 ## DTS-HD MA 5.1
 

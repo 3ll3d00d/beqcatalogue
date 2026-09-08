@@ -1,6 +1,6 @@
 # Nekrotronic
 
-[Compare across authors](../../compare/?t=film-nekrotronic_506775)
+[Compare across authors](../compare/index.md?t=film-nekrotronic_506775)
 
 ## DTS-HD MA 5.1
 

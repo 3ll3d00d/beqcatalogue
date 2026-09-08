@@ -7,7 +7,7 @@
 The new found married bliss of Bella Swan and vampire Edward Cullen is cut short when a series of betrayals and misfortunes threatens to destroy their world.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/50619)  [Compare across authors](../../compare/?t=film-the-twilight-saga-breaking-dawn-part-1_50619)
+[TMDB](https://www.themoviedb.org/movie/50619)  [Compare across authors](../compare/index.md?t=film-the-twilight-saga-breaking-dawn-part-1_50619)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Twilight%20Saga%20Breaking%20Dawn%20Part1%20(2011)%20Atmos.jpg)

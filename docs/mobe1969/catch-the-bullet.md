@@ -1,6 +1,6 @@
 # Catch the Bullet
 
-[Compare across authors](../../compare/?t=film-catch-the-bullet_859860)
+[Compare across authors](../compare/index.md?t=film-catch-the-bullet_859860)
 
 ## DD+ 5.1
 

@@ -9,7 +9,7 @@ Expecting the usual tedium that accompanies a summer in the Catskills with her f
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1555?post_id=63808897#post-63808897)  [TMDB](https://www.themoviedb.org/movie/88)  [Compare across authors](../../compare/?t=film-dirty-dancing_88)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1555?post_id=63808897#post-63808897)  [TMDB](https://www.themoviedb.org/movie/88)  [Compare across authors](../compare/index.md?t=film-dirty-dancing_88)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dirty%20Dancing%20(1987)%20(%2B1%20gain)%20Atmos.jpg)

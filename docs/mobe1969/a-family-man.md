@@ -1,6 +1,6 @@
 # A Family Man
 
-[Compare across authors](../../compare/?t=film-a-family-man_375183)
+[Compare across authors](../compare/index.md?t=film-a-family-man_375183)
 
 ## DD+ 5.1
 

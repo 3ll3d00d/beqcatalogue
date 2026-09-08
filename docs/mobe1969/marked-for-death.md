@@ -1,6 +1,6 @@
 # Marked For Death
 
-[Compare across authors](../../compare/?t=film-marked-for-death_10173)
+[Compare across authors](../compare/index.md?t=film-marked-for-death_10173)
 
 ## DTS-HD MA 5.1
 

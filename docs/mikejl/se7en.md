@@ -10,7 +10,7 @@ Two homicide detectives are on a desperate hunt for a serial killer whose crimes
 UHD
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/807)  [Compare across authors](../../compare/?t=film-se7en_807)
+[TMDB](https://www.themoviedb.org/movie/807)  [Compare across authors](../compare/index.md?t=film-se7en_807)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Se7en/Se7en%20(1995)%20DTS-HD%20MA%205.1.jpg)

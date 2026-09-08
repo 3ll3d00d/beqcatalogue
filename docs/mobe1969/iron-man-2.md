@@ -1,6 +1,6 @@
 # Iron Man 2
 
-[Compare across authors](../../compare/?t=film-iron-man-2_10138)
+[Compare across authors](../compare/index.md?t=film-iron-man-2_10138)
 
 ## Atmos
 

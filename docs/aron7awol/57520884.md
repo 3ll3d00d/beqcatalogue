@@ -1,6 +1,6 @@
 # King of Thieves
 
-[Compare across authors](../../compare/?t=film-king-of-thieves_520360)
+[Compare across authors](../compare/index.md?t=film-king-of-thieves_520360)
 
 ## DTS-HD MA 5.1
 

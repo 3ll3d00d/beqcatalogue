@@ -1,6 +1,6 @@
 # Bhool Bhulaiyaa
 
-[Compare across authors](../../compare/?t=film-bhool-bhulaiyaa_19025)
+[Compare across authors](../compare/index.md?t=film-bhool-bhulaiyaa_19025)
 
 ## DTS-HD MA 5.1
 

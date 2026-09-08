@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-strong-woman-do-bong-soon_68814)
+[Compare across authors](../compare/index.md?t=TV-strong-woman-do-bong-soon_68814)
 
 ## Season 1
 

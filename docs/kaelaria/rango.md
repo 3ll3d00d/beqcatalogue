@@ -7,7 +7,7 @@
 When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/44896)  [Compare across authors](../../compare/?t=film-rango_44896)
+[TMDB](https://www.themoviedb.org/movie/44896)  [Compare across authors](../compare/index.md?t=film-rango_44896)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Rango%20(2011)%20DTS-HD%20MA%205.1.jpg)

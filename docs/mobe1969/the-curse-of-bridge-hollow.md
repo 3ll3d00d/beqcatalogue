@@ -1,6 +1,6 @@
 # The Curse of Bridge Hollow
 
-[Compare across authors](../../compare/?t=film-the-curse-of-bridge-hollow_864959)
+[Compare across authors](../compare/index.md?t=film-the-curse-of-bridge-hollow_864959)
 
 ## DD+ Atmos
 

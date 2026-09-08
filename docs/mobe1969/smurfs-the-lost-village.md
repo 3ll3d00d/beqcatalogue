@@ -1,6 +1,6 @@
 # Smurfs: The Lost Village
 
-[Compare across authors](../../compare/?t=film-smurfs-the-lost-village_137116)
+[Compare across authors](../compare/index.md?t=film-smurfs-the-lost-village_137116)
 
 ## Atmos, DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Extraction
 
-[Compare across authors](../../compare/?t=film-extraction_326425)
+[Compare across authors](../compare/index.md?t=film-extraction_326425)
 
 ## DTS-HD MA 5.1
 

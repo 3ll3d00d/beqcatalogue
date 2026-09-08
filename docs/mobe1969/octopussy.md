@@ -1,6 +1,6 @@
 # Octopussy
 
-[Compare across authors](../../compare/?t=film-octopussy_700)
+[Compare across authors](../compare/index.md?t=film-octopussy_700)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

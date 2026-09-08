@@ -1,6 +1,6 @@
 # The Trough
 
-[Compare across authors](../../compare/?t=film-the-trough_521288)
+[Compare across authors](../compare/index.md?t=film-the-trough_521288)
 
 ## TrueHD 5.1
 

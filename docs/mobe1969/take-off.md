@@ -1,6 +1,6 @@
 # Take Off
 
-[Compare across authors](../../compare/?t=film-take-off_37870)
+[Compare across authors](../compare/index.md?t=film-take-off_37870)
 
 ## TrueHD 5.1
 

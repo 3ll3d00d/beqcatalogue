@@ -10,7 +10,7 @@ When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spi
 Dialnorm Compensation: 7dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1672?post_id=64273590#post-64273590)  [TMDB](https://www.themoviedb.org/movie/854)  [Compare across authors](../../compare/?t=film-the-mask_854)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1672?post_id=64273590#post-64273590)  [TMDB](https://www.themoviedb.org/movie/854)  [Compare across authors](../compare/index.md?t=film-the-mask_854)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mask%20(1994)%20Atmos.jpg)
@@ -26,7 +26,7 @@ When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spi
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1475?post_id=63393945#post-63393945)  [TMDB](https://www.themoviedb.org/movie/854)  [Compare across authors](../../compare/?t=film-the-mask_854)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1475?post_id=63393945#post-63393945)  [TMDB](https://www.themoviedb.org/movie/854)  [Compare across authors](../compare/index.md?t=film-the-mask_854)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/The%20Mask%20(1994)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)

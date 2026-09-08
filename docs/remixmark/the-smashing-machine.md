@@ -9,7 +9,7 @@ In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to becom
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1694?post_id=64380294#post-64380294)  [TMDB](https://www.themoviedb.org/movie/760329)  [Compare across authors](../../compare/?t=film-the-smashing-machine_760329)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1694?post_id=64380294#post-64380294)  [TMDB](https://www.themoviedb.org/movie/760329)  [Compare across authors](../compare/index.md?t=film-the-smashing-machine_760329)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Smashing%20Machine%20(2025)%20(%2B1%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to becom
 Dialnorm Compensation: 2dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1676?post_id=64290245#post-64290245)  [TMDB](https://www.themoviedb.org/movie/760329)  [Compare across authors](../../compare/?t=film-the-smashing-machine_760329)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1676?post_id=64290245#post-64290245)  [TMDB](https://www.themoviedb.org/movie/760329)  [Compare across authors](../compare/index.md?t=film-the-smashing-machine_760329)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Smashing%20Machine%20(2025)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

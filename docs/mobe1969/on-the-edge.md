@@ -1,6 +1,6 @@
 # On the Edge
 
-[Compare across authors](../../compare/?t=film-on-the-edge_36931)
+[Compare across authors](../compare/index.md?t=film-on-the-edge_36931)
 
 ## DTS-HD MA 7.1
 

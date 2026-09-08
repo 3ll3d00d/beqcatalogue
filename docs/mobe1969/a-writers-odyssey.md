@@ -1,6 +1,6 @@
 # A Writer's Odyssey
 
-[Compare across authors](../../compare/?t=film-a-writers-odyssey_611698)
+[Compare across authors](../compare/index.md?t=film-a-writers-odyssey_611698)
 
 ## Atmos
 

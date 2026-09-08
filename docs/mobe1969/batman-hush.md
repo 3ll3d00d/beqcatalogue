@@ -1,6 +1,6 @@
 # Batman: Hush
 
-[Compare across authors](../../compare/?t=film-batman-hush_537056)
+[Compare across authors](../compare/index.md?t=film-batman-hush_537056)
 
 ## DTS-HD MA 5.1
 

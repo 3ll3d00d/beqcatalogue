@@ -1,6 +1,6 @@
 # Immersion
 
-[Compare across authors](../../compare/?t=film-immersion_842725)
+[Compare across authors](../compare/index.md?t=film-immersion_842725)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Kingdom of Heaven
 
-[Compare across authors](../../compare/?t=film-kingdom-of-heaven_1495)
+[Compare across authors](../compare/index.md?t=film-kingdom-of-heaven_1495)
 
 ## DTS-HD MA 5.1
 

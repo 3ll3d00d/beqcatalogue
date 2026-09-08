@@ -1,6 +1,6 @@
 # Underworld: Rise of the Lycans
 
-[Compare across authors](../../compare/?t=film-underworld-rise-of-the-lycans_12437)
+[Compare across authors](../compare/index.md?t=film-underworld-rise-of-the-lycans_12437)
 
 ## Atmos
 

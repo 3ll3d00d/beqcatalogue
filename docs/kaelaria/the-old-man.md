@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-old-man_111800)
+* [Compare across authors](../compare/index.md?t=TV-the-old-man_111800)
 
 * Production Year: 2022
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-old-man_111800)
+* [Compare across authors](../compare/index.md?t=TV-the-old-man_111800)
 
 * Production Year: 2022
 

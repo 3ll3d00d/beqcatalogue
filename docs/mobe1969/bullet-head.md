@@ -1,6 +1,6 @@
 # Bullet Head
 
-[Compare across authors](../../compare/?t=film-bullet-head_480572)
+[Compare across authors](../compare/index.md?t=film-bullet-head_480572)
 
 ## DTS-HD MA 5.1
 

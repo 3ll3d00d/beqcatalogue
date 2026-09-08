@@ -1,6 +1,6 @@
 # Gentleman
 
-[Compare across authors](../../compare/?t=film-gentleman_848198)
+[Compare across authors](../compare/index.md?t=film-gentleman_848198)
 
 ## DTS-HD MA 5.1
 

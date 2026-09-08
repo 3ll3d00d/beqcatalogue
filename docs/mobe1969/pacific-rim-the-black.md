@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-pacific-rim-the-black_112162)
+[Compare across authors](../compare/index.md?t=TV-pacific-rim-the-black_112162)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # The Jack in the Box
 
-[Compare across authors](../../compare/?t=film-the-jack-in-the-box_622420)
+[Compare across authors](../compare/index.md?t=film-the-jack-in-the-box_622420)
 
 ## DD+ 5.1
 

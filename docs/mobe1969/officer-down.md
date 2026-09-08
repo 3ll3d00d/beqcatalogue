@@ -1,6 +1,6 @@
 # Officer Down
 
-[Compare across authors](../../compare/?t=film-officer-down_100544)
+[Compare across authors](../compare/index.md?t=film-officer-down_100544)
 
 ## TrueHD 5.1
 

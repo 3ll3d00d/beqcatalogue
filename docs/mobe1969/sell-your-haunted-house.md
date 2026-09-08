@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sell-your-haunted-house_121695)
+[Compare across authors](../compare/index.md?t=TV-sell-your-haunted-house_121695)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Incredibles 2
 
-[Compare across authors](../../compare/?t=film-incredibles-2_260513)
+[Compare across authors](../compare/index.md?t=film-incredibles-2_260513)
 
 ## Atmos
 

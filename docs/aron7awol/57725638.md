@@ -1,6 +1,6 @@
 # Black Hawk Down
 
-[Compare across authors](../../compare/?t=film-black-hawk-down_855)
+[Compare across authors](../compare/index.md?t=film-black-hawk-down_855)
 
 ## Atmos
 

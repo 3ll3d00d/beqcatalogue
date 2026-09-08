@@ -1,6 +1,6 @@
 # Avengers: Endgame
 
-[Compare across authors](../../compare/?t=film-avengers-endgame_299534)
+[Compare across authors](../compare/index.md?t=film-avengers-endgame_299534)
 
 ## Atmos
 

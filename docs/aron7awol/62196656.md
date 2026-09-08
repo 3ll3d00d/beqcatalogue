@@ -1,6 +1,6 @@
 # Violent Night
 
-[Compare across authors](../../compare/?t=film-violent-night_899112)
+[Compare across authors](../compare/index.md?t=film-violent-night_899112)
 
 ## DD+ Atmos
 

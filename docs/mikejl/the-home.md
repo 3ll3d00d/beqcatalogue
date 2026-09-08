@@ -7,7 +7,7 @@
 A troubled man starts working at a retirement home and realizes its residents and caretakers harbor sinister secrets. As he investigates the building and its forbidden fourth floor, he starts to uncover connections to his own past and upbringing as a foster child.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/926606)  [Compare across authors](../../compare/?t=film-the-home_926606)
+[TMDB](https://www.themoviedb.org/movie/926606)  [Compare across authors](../compare/index.md?t=film-the-home_926606)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Home/The%20Home%20(2025)%20Atmos.jpg)
@@ -21,7 +21,7 @@ A troubled man starts working at a retirement home and realizes its residents an
 A troubled man starts working at a retirement home and realizes its residents and caretakers harbor sinister secrets. As he investigates the building and its forbidden fourth floor, he starts to uncover connections to his own past and upbringing as a foster child.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/926606)  [Compare across authors](../../compare/?t=film-the-home_926606)
+[TMDB](https://www.themoviedb.org/movie/926606)  [Compare across authors](../compare/index.md?t=film-the-home_926606)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Home/The%20Home%20(2025)%20DD%2B%20Atmos.jpg)

@@ -7,7 +7,7 @@
 A retired assassin is pulled back into action when his friend uncovers a dangerous conspiracy at the heart of the South African government.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1181548)  [Compare across authors](../../compare/?t=film-heart-of-the-hunter_1181548)
+[TMDB](https://www.themoviedb.org/movie/1181548)  [Compare across authors](../compare/index.md?t=film-heart-of-the-hunter_1181548)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Heart%20Of%20The%20Hunter%20(2024)%20DD%2B%20Atmos.jpg)

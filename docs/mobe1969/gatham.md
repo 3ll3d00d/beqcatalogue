@@ -1,6 +1,6 @@
 # Gatham
 
-[Compare across authors](../../compare/?t=film-gatham_760981)
+[Compare across authors](../compare/index.md?t=film-gatham_760981)
 
 ## DD+ 5.1
 

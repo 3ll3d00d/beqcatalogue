@@ -1,6 +1,6 @@
 # Hickok
 
-[Compare across authors](../../compare/?t=film-hickok_455675)
+[Compare across authors](../compare/index.md?t=film-hickok_455675)
 
 ## DTS-HD MA 5.1
 

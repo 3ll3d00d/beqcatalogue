@@ -1,6 +1,6 @@
 # Bloodline
 
-[Compare across authors](../../compare/?t=film-bloodline_543917)
+[Compare across authors](../compare/index.md?t=film-bloodline_543917)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Railroad Tigers
 
-[Compare across authors](../../compare/?t=film-railroad-tigers_377447)
+[Compare across authors](../compare/index.md?t=film-railroad-tigers_377447)
 
 ## DTS-X
 

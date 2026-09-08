@@ -1,6 +1,6 @@
 # Van Helsing
 
-[Compare across authors](../../compare/?t=film-van-helsing_7131)
+[Compare across authors](../compare/index.md?t=film-van-helsing_7131)
 
 ## DTS-X
 

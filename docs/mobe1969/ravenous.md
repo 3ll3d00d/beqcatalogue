@@ -1,6 +1,6 @@
 # Ravenous
 
-[Compare across authors](../../compare/?t=film-ravenous_415010)
+[Compare across authors](../compare/index.md?t=film-ravenous_415010)
 
 ## DD+ 5.1
 

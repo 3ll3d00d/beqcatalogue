@@ -1,6 +1,6 @@
 # I Still See You
 
-[Compare across authors](../../compare/?t=film-i-still-see-you_448095)
+[Compare across authors](../compare/index.md?t=film-i-still-see-you_448095)
 
 ## DTS-HD MA 5.1
 

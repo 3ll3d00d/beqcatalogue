@@ -1,6 +1,6 @@
 # Mr. Church
 
-[Compare across authors](../../compare/?t=film-mr-church_374461)
+[Compare across authors](../compare/index.md?t=film-mr-church_374461)
 
 ## DD+ 5.1
 

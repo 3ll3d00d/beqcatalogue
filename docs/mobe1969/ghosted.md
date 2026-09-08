@@ -1,6 +1,6 @@
 # Ghosted
 
-[Compare across authors](../../compare/?t=film-ghosted_868759)
+[Compare across authors](../compare/index.md?t=film-ghosted_868759)
 
 ## DD+ 5.1 Atmos
 

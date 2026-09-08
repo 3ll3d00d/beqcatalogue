@@ -9,7 +9,7 @@ In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced 
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1598?post_id=64035534#post-64035534)  [TMDB](https://www.themoviedb.org/movie/402431)  [Compare across authors](../../compare/?t=film-wicked_402431)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1598?post_id=64035534#post-64035534)  [TMDB](https://www.themoviedb.org/movie/402431)  [Compare across authors](../compare/index.md?t=film-wicked_402431)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Wicked%20(2024)%20(%2B2%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced 
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1547?post_id=63742359#post-63742359)  [TMDB](https://www.themoviedb.org/movie/402431)  [Compare across authors](../../compare/?t=film-wicked_402431)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1547?post_id=63742359#post-63742359)  [TMDB](https://www.themoviedb.org/movie/402431)  [Compare across authors](../compare/index.md?t=film-wicked_402431)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Wicked%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

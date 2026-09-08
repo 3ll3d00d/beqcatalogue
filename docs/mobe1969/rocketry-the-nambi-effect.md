@@ -1,6 +1,6 @@
 # Rocketry: The Nambi Effect
 
-[Compare across authors](../../compare/?t=film-rocketry-the-nambi-effect_607145)
+[Compare across authors](../compare/index.md?t=film-rocketry-the-nambi-effect_607145)
 
 ## DD+ 5.1
 

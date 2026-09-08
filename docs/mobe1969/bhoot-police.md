@@ -1,6 +1,6 @@
 # Bhoot Police
 
-[Compare across authors](../../compare/?t=film-bhoot-police_739146)
+[Compare across authors](../compare/index.md?t=film-bhoot-police_739146)
 
 ## DD+ 5.1
 

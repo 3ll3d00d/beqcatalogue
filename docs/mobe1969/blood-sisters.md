@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-blood-sisters_197428)
+[Compare across authors](../compare/index.md?t=TV-blood-sisters_197428)
 
 ## Season 1
 

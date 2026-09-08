@@ -1,6 +1,6 @@
 # Knock at the Cabin
 
-[Compare across authors](../../compare/?t=film-knock-at-the-cabin_631842)
+[Compare across authors](../compare/index.md?t=film-knock-at-the-cabin_631842)
 
 ## Atmos
 

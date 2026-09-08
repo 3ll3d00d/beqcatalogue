@@ -1,6 +1,6 @@
 # Library Wars
 
-[Compare across authors](../../compare/?t=film-library-wars_193502)
+[Compare across authors](../compare/index.md?t=film-library-wars_193502)
 
 ## TrueHD 5.1
 

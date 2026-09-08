@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-outer-range_113985)
+* [Compare across authors](../compare/index.md?t=TV-outer-range_113985)
 
 * Production Year: 2022
 

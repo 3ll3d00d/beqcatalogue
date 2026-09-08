@@ -1,6 +1,6 @@
 # S.W.A.T.: Under Siege
 
-[Compare across authors](../../compare/?t=film-swat-under-siege_461053)
+[Compare across authors](../compare/index.md?t=film-swat-under-siege_461053)
 
 ## DTS-HD MA 5.1
 

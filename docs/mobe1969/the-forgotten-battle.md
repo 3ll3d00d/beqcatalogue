@@ -1,6 +1,6 @@
 # The Forgotten Battle
 
-[Compare across authors](../../compare/?t=film-the-forgotten-battle_633515)
+[Compare across authors](../compare/index.md?t=film-the-forgotten-battle_633515)
 
 ## DD+ 5.1
 

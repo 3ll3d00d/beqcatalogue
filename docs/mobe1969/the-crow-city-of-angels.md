@@ -1,6 +1,6 @@
 # The Crow: City of Angels
 
-[Compare across authors](../../compare/?t=film-the-crow-city-of-angels_10546)
+[Compare across authors](../compare/index.md?t=film-the-crow-city-of-angels_10546)
 
 ## DTS-HD MA 5.1
 

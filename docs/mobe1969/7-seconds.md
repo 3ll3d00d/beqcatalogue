@@ -1,6 +1,6 @@
 # 7 Seconds
 
-[Compare across authors](../../compare/?t=film-7-seconds_9721)
+[Compare across authors](../compare/index.md?t=film-7-seconds_9721)
 
 ## TrueHD 5.1
 

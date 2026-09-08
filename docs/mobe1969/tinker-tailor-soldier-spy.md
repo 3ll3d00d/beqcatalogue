@@ -1,6 +1,6 @@
 # Tinker Tailor Soldier Spy
 
-[Compare across authors](../../compare/?t=film-tinker-tailor-soldier-spy_49517)
+[Compare across authors](../compare/index.md?t=film-tinker-tailor-soldier-spy_49517)
 
 ## DTS-HD MA 5.1
 

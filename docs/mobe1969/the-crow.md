@@ -1,6 +1,6 @@
 # The Crow
 
-[Compare across authors](../../compare/?t=film-the-crow_9495)
+[Compare across authors](../compare/index.md?t=film-the-crow_9495)
 
 ## DTS-HD MA 5.1
 

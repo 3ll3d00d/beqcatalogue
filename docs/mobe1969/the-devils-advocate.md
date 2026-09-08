@@ -1,6 +1,6 @@
 # The Devil's Advocate
 
-[Compare across authors](../../compare/?t=film-the-devils-advocate_1813)
+[Compare across authors](../compare/index.md?t=film-the-devils-advocate_1813)
 
 ## DTS-HD 5.1
 

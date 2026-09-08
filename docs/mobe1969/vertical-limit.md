@@ -1,6 +1,6 @@
 # Vertical Limit
 
-[Compare across authors](../../compare/?t=film-vertical-limit_11678)
+[Compare across authors](../compare/index.md?t=film-vertical-limit_11678)
 
 ## LPCM 5.1
 

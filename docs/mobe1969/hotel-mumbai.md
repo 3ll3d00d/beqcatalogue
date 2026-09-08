@@ -1,6 +1,6 @@
 # Hotel Mumbai
 
-[Compare across authors](../../compare/?t=film-hotel-mumbai_416144)
+[Compare across authors](../compare/index.md?t=film-hotel-mumbai_416144)
 
 ## DD+ 5.1
 

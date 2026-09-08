@@ -1,6 +1,6 @@
 # Blue Streak
 
-[Compare across authors](../../compare/?t=film-blue-streak_11001)
+[Compare across authors](../compare/index.md?t=film-blue-streak_11001)
 
 ## TrueHD 5.1
 

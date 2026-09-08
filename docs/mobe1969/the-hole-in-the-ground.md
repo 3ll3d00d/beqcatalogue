@@ -1,6 +1,6 @@
 # The Hole in the Ground
 
-[Compare across authors](../../compare/?t=film-the-hole-in-the-ground_484437)
+[Compare across authors](../compare/index.md?t=film-the-hole-in-the-ground_484437)
 
 ## DD+ 5.1
 

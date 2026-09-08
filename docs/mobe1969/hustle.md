@@ -1,6 +1,6 @@
 # Hustle
 
-[Compare across authors](../../compare/?t=film-hustle_705861)
+[Compare across authors](../compare/index.md?t=film-hustle_705861)
 
 ## DD+ Atmos
 

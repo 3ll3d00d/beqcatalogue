@@ -1,6 +1,6 @@
 # Mr. Go
 
-[Compare across authors](../../compare/?t=film-mr-go_207052)
+[Compare across authors](../compare/index.md?t=film-mr-go_207052)
 
 ## DTS-HD MA 5.1
 

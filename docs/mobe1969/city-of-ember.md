@@ -1,6 +1,6 @@
 # City of Ember
 
-[Compare across authors](../../compare/?t=film-city-of-ember_13600)
+[Compare across authors](../compare/index.md?t=film-city-of-ember_13600)
 
 ## DTS-HD MA 5.1
 

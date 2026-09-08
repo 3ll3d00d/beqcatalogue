@@ -1,6 +1,6 @@
 # 3 from Hell
 
-[Compare across authors](../../compare/?t=film-3-from-hell_489064)
+[Compare across authors](../compare/index.md?t=film-3-from-hell_489064)
 
 ## TrueHD 7.1
 

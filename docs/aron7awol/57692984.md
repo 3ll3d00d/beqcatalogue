@@ -1,6 +1,6 @@
 # Men in Black 3
 
-[Compare across authors](../../compare/?t=film-men-in-black-3_41154)
+[Compare across authors](../compare/index.md?t=film-men-in-black-3_41154)
 
 ## Atmos
 

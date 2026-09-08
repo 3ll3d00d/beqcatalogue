@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-the-big-cigar_197124)
+* [Compare across authors](../compare/index.md?t=TV-the-big-cigar_197124)
 
 * Production Year: 2024
 

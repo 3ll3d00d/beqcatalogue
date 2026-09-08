@@ -1,6 +1,6 @@
 # Days of Glory
 
-[Compare across authors](../../compare/?t=film-days-of-glory_2016)
+[Compare across authors](../compare/index.md?t=film-days-of-glory_2016)
 
 ## DD 5.1, DTS 5.1
 

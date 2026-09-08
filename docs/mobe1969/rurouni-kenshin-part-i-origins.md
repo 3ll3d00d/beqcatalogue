@@ -1,6 +1,6 @@
 # Rurouni Kenshin Part I: Origins
 
-[Compare across authors](../../compare/?t=film-rurouni-kenshin-part-i-origins_127533)
+[Compare across authors](../compare/index.md?t=film-rurouni-kenshin-part-i-origins_127533)
 
 ## DTS-HD MA 5.1
 

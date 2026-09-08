@@ -1,6 +1,6 @@
 # Ramabanam
 
-[Compare across authors](../../compare/?t=film-ramabanam_1074641)
+[Compare across authors](../compare/index.md?t=film-ramabanam_1074641)
 
 ## DD+ 5.1
 

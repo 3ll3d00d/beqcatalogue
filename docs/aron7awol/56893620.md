@@ -1,6 +1,6 @@
 # Snow White and the Huntsman
 
-[Compare across authors](../../compare/?t=film-snow-white-and-the-huntsman_58595)
+[Compare across authors](../compare/index.md?t=film-snow-white-and-the-huntsman_58595)
 
 ## DTS-X
 

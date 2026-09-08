@@ -1,6 +1,6 @@
 # Unforgettable
 
-[Compare across authors](../../compare/?t=film-unforgettable_418437)
+[Compare across authors](../compare/index.md?t=film-unforgettable_418437)
 
 ## DD+ 5.1
 

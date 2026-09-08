@@ -1,6 +1,6 @@
 # Master Z: Ip Man Legacy
 
-[Compare across authors](../../compare/?t=film-master-z-ip-man-legacy_450001)
+[Compare across authors](../compare/index.md?t=film-master-z-ip-man-legacy_450001)
 
 ## DTS-HD MA 5.1
 

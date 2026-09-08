@@ -1,6 +1,6 @@
 # The Forgiven
 
-[Compare across authors](../../compare/?t=film-the-forgiven_450766)
+[Compare across authors](../compare/index.md?t=film-the-forgiven_450766)
 
 ## DD+ 5.1
 

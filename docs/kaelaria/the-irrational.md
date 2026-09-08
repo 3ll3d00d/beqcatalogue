@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-irrational_217211)
+* [Compare across authors](../compare/index.md?t=TV-the-irrational_217211)
 
 * Production Year: 2023
 

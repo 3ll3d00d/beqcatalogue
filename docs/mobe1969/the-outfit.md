@@ -1,6 +1,6 @@
 # The Outfit
 
-[Compare across authors](../../compare/?t=film-the-outfit_799876)
+[Compare across authors](../compare/index.md?t=film-the-outfit_799876)
 
 ## Atmos, DD+ 5.1
 

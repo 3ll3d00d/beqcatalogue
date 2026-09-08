@@ -1,6 +1,6 @@
 # The Binding
 
-[Compare across authors](../../compare/?t=film-the-binding_741998)
+[Compare across authors](../compare/index.md?t=film-the-binding_741998)
 
 ## DD+ 5.1
 

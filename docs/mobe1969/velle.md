@@ -1,6 +1,6 @@
 # Velle
 
-[Compare across authors](../../compare/?t=film-velle_899439)
+[Compare across authors](../compare/index.md?t=film-velle_899439)
 
 ## DD+ 5.1
 

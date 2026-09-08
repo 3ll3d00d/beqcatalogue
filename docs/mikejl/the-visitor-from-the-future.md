@@ -5,7 +5,7 @@
 * DTS-HD MA 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-the-visitor-from-the-future_810389)
+* [Compare across authors](../compare/index.md?t=TV-the-visitor-from-the-future_810389)
 
 * Production Year: 2022
 

@@ -1,6 +1,6 @@
 # Keep Watching
 
-[Compare across authors](../../compare/?t=film-keep-watching_242606)
+[Compare across authors](../compare/index.md?t=film-keep-watching_242606)
 
 ## DTS-HD MA 5.1
 

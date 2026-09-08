@@ -1,6 +1,6 @@
 # Independence Day
 
-[Compare across authors](../../compare/?t=film-independence-day_602)
+[Compare across authors](../compare/index.md?t=film-independence-day_602)
 
 ## DTS-X
 

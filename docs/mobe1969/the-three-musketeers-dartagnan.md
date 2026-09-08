@@ -1,6 +1,6 @@
 # The Three Musketeers: D'Artagnan
 
-[Compare across authors](../../compare/?t=film-the-three-musketeers-dartagnan_796185)
+[Compare across authors](../compare/index.md?t=film-the-three-musketeers-dartagnan_796185)
 
 ## Atmos
 

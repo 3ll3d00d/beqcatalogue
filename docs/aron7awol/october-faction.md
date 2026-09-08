@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-october-faction_93826)
+[Compare across authors](../compare/index.md?t=TV-october-faction_93826)
 
 ## Season 1
 

@@ -7,7 +7,7 @@
 A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/345940)  [Compare across authors](../../compare/?t=film-the-meg_345940)
+[TMDB](https://www.themoviedb.org/movie/345940)  [Compare across authors](../compare/index.md?t=film-the-meg_345940)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Meg/The%20Meg%20(2018)%20Atmos.jpg)

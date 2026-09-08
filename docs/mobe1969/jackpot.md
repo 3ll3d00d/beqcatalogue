@@ -1,6 +1,6 @@
 # Jackpot
 
-[Compare across authors](../../compare/?t=film-jackpot_86987)
+[Compare across authors](../compare/index.md?t=film-jackpot_86987)
 
 ## DTS-HD MA 5.1
 

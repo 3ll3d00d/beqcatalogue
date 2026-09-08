@@ -1,6 +1,6 @@
 # Athena
 
-[Compare across authors](../../compare/?t=film-athena_852046)
+[Compare across authors](../compare/index.md?t=film-athena_852046)
 
 ## DD+ Atmos
 

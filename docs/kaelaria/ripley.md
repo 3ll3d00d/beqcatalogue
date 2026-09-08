@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-ripley_94028)
+* [Compare across authors](../compare/index.md?t=TV-ripley_94028)
 
 * Production Year: 2024
 

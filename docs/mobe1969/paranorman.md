@@ -1,6 +1,6 @@
 # ParaNorman
 
-[Compare across authors](../../compare/?t=film-paranorman_77174)
+[Compare across authors](../compare/index.md?t=film-paranorman_77174)
 
 ## Atmos
 

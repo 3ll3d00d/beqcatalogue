@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-iris_31505)
+[Compare across authors](../compare/index.md?t=TV-iris_31505)
 
 ## Season 1
 

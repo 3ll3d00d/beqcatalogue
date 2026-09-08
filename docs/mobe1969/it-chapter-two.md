@@ -1,6 +1,6 @@
 # It Chapter Two
 
-[Compare across authors](../../compare/?t=film-it-chapter-two_474350)
+[Compare across authors](../compare/index.md?t=film-it-chapter-two_474350)
 
 ## Atmos
 

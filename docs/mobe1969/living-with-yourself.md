@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-living-with-yourself_81532)
+[Compare across authors](../compare/index.md?t=TV-living-with-yourself_81532)
 
 ## Season 1
 

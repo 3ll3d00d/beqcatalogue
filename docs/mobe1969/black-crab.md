@@ -1,6 +1,6 @@
 # Black Crab
 
-[Compare across authors](../../compare/?t=film-black-crab_760868)
+[Compare across authors](../compare/index.md?t=film-black-crab_760868)
 
 ## DD+ 5.1
 

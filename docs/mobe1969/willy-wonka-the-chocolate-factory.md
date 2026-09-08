@@ -1,6 +1,6 @@
 # Willy Wonka & The Chocolate Factory
 
-[Compare across authors](../../compare/?t=film-willy-wonka-the-chocolate-factory_252)
+[Compare across authors](../compare/index.md?t=film-willy-wonka-the-chocolate-factory_252)
 
 ## DTS-HD MA 5.1
 

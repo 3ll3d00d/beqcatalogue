@@ -7,7 +7,7 @@
 Likeable 6th grader Liam writes to Santa asking him to prove that he's real. But Liam is dyslexic and accidentally sends his letter to Satan instead, who shows up at Liam's house, excited to have his first fanboy letter and wanting a little of Liam's soul.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1097870)  [Compare across authors](../../compare/?t=film-dear-santa_1097870)
+[TMDB](https://www.themoviedb.org/movie/1097870)  [Compare across authors](../compare/index.md?t=film-dear-santa_1097870)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dear%20Santa/Dear%20Santa%20(2024)%20DD%2B%20Atmos.jpg)

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-designated-survivor-60-days_86824)
+[Compare across authors](../compare/index.md?t=TV-designated-survivor-60-days_86824)
 
 ## Season 1
 

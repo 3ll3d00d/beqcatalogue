@@ -1,6 +1,6 @@
 # Crossing Point
 
-[Compare across authors](../../compare/?t=film-crossing-point_391486)
+[Compare across authors](../compare/index.md?t=film-crossing-point_391486)
 
 ## DD 5.1
 

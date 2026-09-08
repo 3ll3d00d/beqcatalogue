@@ -1,6 +1,6 @@
 # One Missed Call 3: Final
 
-[Compare across authors](../../compare/?t=film-one-missed-call-3-final_55470)
+[Compare across authors](../compare/index.md?t=film-one-missed-call-3-final_55470)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dark_70523)
+[Compare across authors](../compare/index.md?t=TV-dark_70523)
 
 ## Season 1
 

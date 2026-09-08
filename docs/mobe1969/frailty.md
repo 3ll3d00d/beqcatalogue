@@ -1,6 +1,6 @@
 # Frailty
 
-[Compare across authors](../../compare/?t=film-frailty_12149)
+[Compare across authors](../compare/index.md?t=film-frailty_12149)
 
 ## DTS-HD MA 7.1
 

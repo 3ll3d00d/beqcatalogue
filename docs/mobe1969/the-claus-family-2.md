@@ -1,6 +1,6 @@
 # The Claus Family 2
 
-[Compare across authors](../../compare/?t=film-the-claus-family-2_881180)
+[Compare across authors](../compare/index.md?t=film-the-claus-family-2_881180)
 
 ## DD+ 5.1
 

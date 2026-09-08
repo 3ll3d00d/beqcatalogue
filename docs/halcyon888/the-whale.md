@@ -9,7 +9,7 @@ A reclusive English teacher suffering from severe obesity attempts to reconnect 
 
 **MV Adjustment:** +8.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62728663)  [TMDB](https://www.themoviedb.org/movie/785084)  [Compare across authors](../../compare/?t=film-the-whale_785084)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62728663)  [TMDB](https://www.themoviedb.org/movie/785084)  [Compare across authors](../compare/index.md?t=film-the-whale_785084)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20Whale%202022%20dts-hd%20ma%207.1%20PvA.jpg)

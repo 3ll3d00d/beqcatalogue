@@ -1,6 +1,6 @@
 # Occupation: Rainfall
 
-[Compare across authors](../../compare/?t=film-occupation-rainfall_688258)
+[Compare across authors](../compare/index.md?t=film-occupation-rainfall_688258)
 
 ## DTS-HD MA 5.1
 

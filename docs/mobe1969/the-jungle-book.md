@@ -1,6 +1,6 @@
 # The Jungle Book
 
-[Compare across authors](../../compare/?t=film-the-jungle-book_278927)
+[Compare across authors](../compare/index.md?t=film-the-jungle-book_278927)
 
 ## Atmos
 

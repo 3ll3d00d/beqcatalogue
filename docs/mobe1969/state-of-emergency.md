@@ -1,6 +1,6 @@
 # State of Emergency
 
-[Compare across authors](../../compare/?t=film-state-of-emergency_136476)
+[Compare across authors](../compare/index.md?t=film-state-of-emergency_136476)
 
 ## DTS-HD MA 5.1
 

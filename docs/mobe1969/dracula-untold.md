@@ -1,6 +1,6 @@
 # Dracula Untold
 
-[Compare across authors](../../compare/?t=film-dracula-untold_49017)
+[Compare across authors](../compare/index.md?t=film-dracula-untold_49017)
 
 ## DTS-X
 

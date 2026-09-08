@@ -12,7 +12,7 @@ A young TSA agent fights to outsmart a mysterious traveler who blackmails him in
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63707030#post-63707030)  [TMDB](https://www.themoviedb.org/movie/1005331)  [Compare across authors](../../compare/?t=film-carry-on_1005331)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1540?post_id=63707030#post-63707030)  [TMDB](https://www.themoviedb.org/movie/1005331)  [Compare across authors](../compare/index.md?t=film-carry-on_1005331)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Carry-On%20(2024)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)

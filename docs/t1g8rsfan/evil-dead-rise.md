@@ -9,7 +9,7 @@ A reunion between two estranged sisters gets cut short by the rise of flesh-poss
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62912173)  [TMDB](https://www.themoviedb.org/movie/713704)  [Compare across authors](../../compare/?t=film-evil-dead-rise_713704)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62912173)  [TMDB](https://www.themoviedb.org/movie/713704)  [Compare across authors](../compare/index.md?t=film-evil-dead-rise_713704)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Evil%20Dead%20Rise%20(2023)%20(%2B2%20gain)%20Atmos.jpg)

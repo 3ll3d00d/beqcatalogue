@@ -1,6 +1,6 @@
 # Stake Land II: The Stakelander
 
-[Compare across authors](../../compare/?t=film-stake-land-ii-the-stakelander_410988)
+[Compare across authors](../compare/index.md?t=film-stake-land-ii-the-stakelander_410988)
 
 ## DTS-HD MA 5.1
 

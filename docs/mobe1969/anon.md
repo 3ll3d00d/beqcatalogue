@@ -1,6 +1,6 @@
 # Anon
 
-[Compare across authors](../../compare/?t=film-anon_396806)
+[Compare across authors](../compare/index.md?t=film-anon_396806)
 
 ## DD+ 5.1
 

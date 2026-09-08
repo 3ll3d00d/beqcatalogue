@@ -1,6 +1,6 @@
 # Shaitan
 
-[Compare across authors](../../compare/?t=film-shaitan_69785)
+[Compare across authors](../compare/index.md?t=film-shaitan_69785)
 
 ## DD+ 5.1
 

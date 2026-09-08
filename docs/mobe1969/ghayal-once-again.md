@@ -1,6 +1,6 @@
 # Ghayal Once Again
 
-[Compare across authors](../../compare/?t=film-ghayal-once-again_381298)
+[Compare across authors](../compare/index.md?t=film-ghayal-once-again_381298)
 
 ## DTS-HD MA 5.1
 

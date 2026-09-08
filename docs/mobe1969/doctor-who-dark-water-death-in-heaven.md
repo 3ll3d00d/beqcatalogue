@@ -1,6 +1,6 @@
 # Doctor Who: Dark Water / Death in Heaven
 
-[Compare across authors](../../compare/?t=film-doctor-who-dark-water-death-in-heaven_357118)
+[Compare across authors](../compare/index.md?t=film-doctor-who-dark-water-death-in-heaven_357118)
 
 ## Atmos
 

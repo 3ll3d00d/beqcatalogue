@@ -1,6 +1,6 @@
 # Asterix & Obelix: God Save Britannia
 
-[Compare across authors](../../compare/?t=film-asterix-obelix-god-save-britannia_99770)
+[Compare across authors](../compare/index.md?t=film-asterix-obelix-god-save-britannia_99770)
 
 ## DTS-HD MA 5.1
 

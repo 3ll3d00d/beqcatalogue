@@ -1,6 +1,6 @@
 # Deserter
 
-[Compare across authors](../../compare/?t=film-deserter_63971)
+[Compare across authors](../compare/index.md?t=film-deserter_63971)
 
 ## DD+ 5.1
 

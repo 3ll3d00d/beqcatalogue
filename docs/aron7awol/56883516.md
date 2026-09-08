@@ -1,6 +1,6 @@
 # The Hobbit: The Battle of the Five Armies
 
-[Compare across authors](../../compare/?t=film-the-hobbit-the-battle-of-the-five-armies_122917)
+[Compare across authors](../compare/index.md?t=film-the-hobbit-the-battle-of-the-five-armies_122917)
 
 ## Atmos
 

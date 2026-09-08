@@ -1,6 +1,6 @@
 # Girl on the Third Floor
 
-[Compare across authors](../../compare/?t=film-girl-on-the-third-floor_580630)
+[Compare across authors](../compare/index.md?t=film-girl-on-the-third-floor_580630)
 
 ## DD+ 5.1
 

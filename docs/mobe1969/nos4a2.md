@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-nos4a2_85273)
+[Compare across authors](../compare/index.md?t=TV-nos4a2_85273)
 
 ## Season 1
 

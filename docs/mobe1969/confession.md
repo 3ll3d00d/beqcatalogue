@@ -1,6 +1,6 @@
 # Confession
 
-[Compare across authors](../../compare/?t=film-confession_634595)
+[Compare across authors](../compare/index.md?t=film-confession_634595)
 
 ## DTS-HD MA 5.1
 

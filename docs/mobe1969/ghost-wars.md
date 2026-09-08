@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ghost-wars_72752)
+[Compare across authors](../compare/index.md?t=TV-ghost-wars_72752)
 
 ## Season 1
 

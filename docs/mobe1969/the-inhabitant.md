@@ -1,6 +1,6 @@
 # The Inhabitant
 
-[Compare across authors](../../compare/?t=film-the-inhabitant_772973)
+[Compare across authors](../compare/index.md?t=film-the-inhabitant_772973)
 
 ## DTS-HD MA 5.1
 

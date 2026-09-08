@@ -1,6 +1,6 @@
 # The Avengers
 
-[Compare across authors](../../compare/?t=film-the-avengers_24428)
+[Compare across authors](../compare/index.md?t=film-the-avengers_24428)
 
 ## Atmos
 

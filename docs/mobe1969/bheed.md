@@ -1,6 +1,6 @@
 # Bheed
 
-[Compare across authors](../../compare/?t=film-bheed_1081726)
+[Compare across authors](../compare/index.md?t=film-bheed_1081726)
 
 ## DD+ 5.1
 

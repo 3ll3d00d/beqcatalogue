@@ -7,7 +7,7 @@
 The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/181812)  [Compare across authors](../../compare/?t=film-star-wars-the-rise-of-skywalker_181812)
+[TMDB](https://www.themoviedb.org/movie/181812)  [Compare across authors](../compare/index.md?t=film-star-wars-the-rise-of-skywalker_181812)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Star%20Wars%20-%20The%20Rise%20of%20Skywalker/Star%20Wars%20-%20The%20Rise%20of%20Skywalker%20(2019)%20Atmos.jpg)

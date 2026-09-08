@@ -1,6 +1,6 @@
 # Almost Famous
 
-[Compare across authors](../../compare/?t=film-almost-famous_786)
+[Compare across authors](../compare/index.md?t=film-almost-famous_786)
 
 ## DTS-HD MA 5.1
 

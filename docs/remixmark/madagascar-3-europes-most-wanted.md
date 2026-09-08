@@ -9,7 +9,7 @@ Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to 
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1734?post_id=64578339#post-64578339)  [TMDB](https://www.themoviedb.org/movie/80321)  [Compare across authors](../../compare/?t=film-madagascar-3-europes-most-wanted_80321)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1734?post_id=64578339#post-64578339)  [TMDB](https://www.themoviedb.org/movie/80321)  [Compare across authors](../compare/index.md?t=film-madagascar-3-europes-most-wanted_80321)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Madagascar%203%20Europe's%20Most%20Wanted%20(2012)%20(%2B5%20gain)%20TrueHD%205.1.jpg)

@@ -1,6 +1,6 @@
 # The Big Bang
 
-[Compare across authors](../../compare/?t=film-the-big-bang_54271)
+[Compare across authors](../compare/index.md?t=film-the-big-bang_54271)
 
 ## TrueHD 5.1
 

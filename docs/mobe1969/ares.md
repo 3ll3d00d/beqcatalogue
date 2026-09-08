@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ares_86769)
+[Compare across authors](../compare/index.md?t=TV-ares_86769)
 
 ## Season 1
 

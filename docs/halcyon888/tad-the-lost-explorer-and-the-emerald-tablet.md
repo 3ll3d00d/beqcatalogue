@@ -12,7 +12,7 @@ Tad accidentally unleashes an ancient spell, endangering the lives of his friend
 +6dB Dialnorm Compensation, English dub
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62573225)  [TMDB](https://www.themoviedb.org/movie/676701)  [Compare across authors](../../compare/?t=film-tad-the-lost-explorer-and-the-emerald-tablet_676701)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62573225)  [TMDB](https://www.themoviedb.org/movie/676701)  [Compare across authors](../compare/index.md?t=film-tad-the-lost-explorer-and-the-emerald-tablet_676701)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Tad%2C%20the%20Lost%20Explorer%20and%20the%20Emerald%20Tablet%20(2022)%20PvA.jpg)

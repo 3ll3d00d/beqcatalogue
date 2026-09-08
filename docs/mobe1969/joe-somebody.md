@@ -1,6 +1,6 @@
 # Joe Somebody
 
-[Compare across authors](../../compare/?t=film-joe-somebody_12312)
+[Compare across authors](../compare/index.md?t=film-joe-somebody_12312)
 
 ## DD+ 5.1
 

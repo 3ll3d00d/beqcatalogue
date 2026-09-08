@@ -1,6 +1,6 @@
 # Edge of Darkness
 
-[Compare across authors](../../compare/?t=film-edge-of-darkness_12201)
+[Compare across authors](../compare/index.md?t=film-edge-of-darkness_12201)
 
 ## DTS-HD MA 5.1, TrueHD 5.1
 

@@ -9,7 +9,7 @@ Until now, the Justice League has been a loose association of superpowered indiv
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62716231)  [TMDB](https://www.themoviedb.org/movie/1003581)  [Compare across authors](../../compare/?t=film-justice-league-warworld_1003581)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62716231)  [TMDB](https://www.themoviedb.org/movie/1003581)  [Compare across authors](../compare/index.md?t=film-justice-league-warworld_1003581)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Justice%20League%20Warworld%20(2023)%20(%2B6%20gain)%20DTS-HD%20MA%205.1.jpg)

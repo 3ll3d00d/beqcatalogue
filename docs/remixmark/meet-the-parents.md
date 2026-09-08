@@ -9,7 +9,7 @@ Greg Focker is ready to marry his girlfriend, Pam, but before he pops the questi
 
 **MV Adjustment:** +11.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1622?post_id=64127795#post-64127795)  [TMDB](https://www.themoviedb.org/movie/1597)  [Compare across authors](../../compare/?t=film-meet-the-parents_1597)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1622?post_id=64127795#post-64127795)  [TMDB](https://www.themoviedb.org/movie/1597)  [Compare across authors](../compare/index.md?t=film-meet-the-parents_1597)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Meet%20the%20Parents%20(2000)%20(%2B11.5%20gain)%20Atmos.jpg)

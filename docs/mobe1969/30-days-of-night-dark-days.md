@@ -1,6 +1,6 @@
 # 30 Days of Night: Dark Days
 
-[Compare across authors](../../compare/?t=film-30-days-of-night-dark-days_42941)
+[Compare across authors](../compare/index.md?t=film-30-days-of-night-dark-days_42941)
 
 ## DTS-HD MA 5.1
 

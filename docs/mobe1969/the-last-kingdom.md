@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-last-kingdom_63333)
+[Compare across authors](../compare/index.md?t=TV-the-last-kingdom_63333)
 
 ## Season 1
 

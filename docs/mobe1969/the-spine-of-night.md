@@ -1,6 +1,6 @@
 # The Spine of Night
 
-[Compare across authors](../../compare/?t=film-the-spine-of-night_795522)
+[Compare across authors](../compare/index.md?t=film-the-spine-of-night_795522)
 
 ## DTS-HD MA 5.1
 

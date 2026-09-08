@@ -1,6 +1,6 @@
 # Sweet Virginia
 
-[Compare across authors](../../compare/?t=film-sweet-virginia_413992)
+[Compare across authors](../compare/index.md?t=film-sweet-virginia_413992)
 
 ## DD+ 5.1
 

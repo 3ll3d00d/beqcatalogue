@@ -1,6 +1,6 @@
 # The Portable Door
 
-[Compare across authors](../../compare/?t=film-the-portable-door_830896)
+[Compare across authors](../compare/index.md?t=film-the-portable-door_830896)
 
 ## DD+ 5.1
 

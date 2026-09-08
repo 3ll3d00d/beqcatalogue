@@ -1,6 +1,6 @@
 # Howl
 
-[Compare across authors](../../compare/?t=film-howl_301846)
+[Compare across authors](../compare/index.md?t=film-howl_301846)
 
 ## TrueHD 5.1
 

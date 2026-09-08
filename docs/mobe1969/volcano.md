@@ -1,6 +1,6 @@
 # Volcano
 
-[Compare across authors](../../compare/?t=film-volcano_10357)
+[Compare across authors](../compare/index.md?t=film-volcano_10357)
 
 ## DTS-HD MA 5.1
 

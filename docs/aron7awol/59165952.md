@@ -1,6 +1,6 @@
 # T2 Trainspotting
 
-[Compare across authors](../../compare/?t=film-t2-trainspotting_180863)
+[Compare across authors](../compare/index.md?t=film-t2-trainspotting_180863)
 
 ## Atmos
 

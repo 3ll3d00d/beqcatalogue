@@ -1,6 +1,6 @@
 # Silent Hill
 
-[Compare across authors](../../compare/?t=film-silent-hill_588)
+[Compare across authors](../compare/index.md?t=film-silent-hill_588)
 
 ## DTS-HD HR 5.1
 

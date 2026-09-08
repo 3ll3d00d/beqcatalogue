@@ -1,6 +1,6 @@
 # Holidate
 
-[Compare across authors](../../compare/?t=film-holidate_615665)
+[Compare across authors](../compare/index.md?t=film-holidate_615665)
 
 ## DD+ Atmos
 

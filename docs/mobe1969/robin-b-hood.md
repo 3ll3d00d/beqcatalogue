@@ -1,6 +1,6 @@
 # Robin-B-Hood
 
-[Compare across authors](../../compare/?t=film-robin-b-hood_25676)
+[Compare across authors](../compare/index.md?t=film-robin-b-hood_25676)
 
 ## DTS-HD MA 5.1
 

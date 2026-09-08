@@ -9,7 +9,7 @@ One year after her sister Melanie mysteriously disappeared, Clover and her frien
 
 **MV Adjustment:** +2.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/1232546)  [Compare across authors](../../compare/?t=film-until-dawn_1232546)
+[TMDB](https://www.themoviedb.org/movie/1232546)  [Compare across authors](../compare/index.md?t=film-until-dawn_1232546)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Until%20Dawn%20(2025)%20(%2B2%20gain)%20Atmos.jpg)

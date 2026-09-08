@@ -1,6 +1,6 @@
 # Kaw
 
-[Compare across authors](../../compare/?t=film-kaw_39158)
+[Compare across authors](../compare/index.md?t=film-kaw_39158)
 
 ## DD+ 5.1
 

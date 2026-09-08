@@ -1,6 +1,6 @@
 # In Order of Disappearance
 
-[Compare across authors](../../compare/?t=film-in-order-of-disappearance_252822)
+[Compare across authors](../compare/index.md?t=film-in-order-of-disappearance_252822)
 
 ## DTS-HD MA 5.1
 

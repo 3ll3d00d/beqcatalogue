@@ -1,6 +1,6 @@
 # The Assassin
 
-[Compare across authors](../../compare/?t=film-the-assassin_253450)
+[Compare across authors](../compare/index.md?t=film-the-assassin_253450)
 
 ## DD+ 5.1
 

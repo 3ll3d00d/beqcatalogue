@@ -1,6 +1,6 @@
 # Kung Fu Dunk
 
-[Compare across authors](../../compare/?t=film-kung-fu-dunk_17108)
+[Compare across authors](../compare/index.md?t=film-kung-fu-dunk_17108)
 
 ## DTS-HD MA 7.1
 

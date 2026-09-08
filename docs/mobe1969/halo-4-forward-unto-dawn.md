@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-halo-4-forward-unto-dawn_56295)
+[Compare across authors](../compare/index.md?t=TV-halo-4-forward-unto-dawn_56295)
 
 ## Season 1
 

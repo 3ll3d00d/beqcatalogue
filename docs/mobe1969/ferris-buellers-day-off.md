@@ -1,6 +1,6 @@
 # Ferris Bueller's Day Off
 
-[Compare across authors](../../compare/?t=film-ferris-buellers-day-off_9377)
+[Compare across authors](../compare/index.md?t=film-ferris-buellers-day-off_9377)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Qodrat
 
-[Compare across authors](../../compare/?t=film-qodrat_1026836)
+[Compare across authors](../compare/index.md?t=film-qodrat_1026836)
 
 ## DD+ 5.1
 

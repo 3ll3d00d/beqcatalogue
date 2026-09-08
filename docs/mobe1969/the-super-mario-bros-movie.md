@@ -1,6 +1,6 @@
 # The Super Mario Bros. Movie
 
-[Compare across authors](../../compare/?t=film-the-super-mario-bros-movie_502356)
+[Compare across authors](../compare/index.md?t=film-the-super-mario-bros-movie_502356)
 
 ## Atmos
 

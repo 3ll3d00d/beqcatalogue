@@ -1,6 +1,6 @@
 # Next of Kin
 
-[Compare across authors](../../compare/?t=film-next-of-kin_27418)
+[Compare across authors](../compare/index.md?t=film-next-of-kin_27418)
 
 ## DTS-HD MA 2.0
 

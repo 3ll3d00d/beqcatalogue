@@ -1,6 +1,6 @@
 # The Card Counter
 
-[Compare across authors](../../compare/?t=film-the-card-counter_643532)
+[Compare across authors](../compare/index.md?t=film-the-card-counter_643532)
 
 ## DD+ 5.1
 

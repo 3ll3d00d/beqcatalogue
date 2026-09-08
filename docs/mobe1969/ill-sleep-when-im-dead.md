@@ -1,6 +1,6 @@
 # I'll Sleep When I'm Dead
 
-[Compare across authors](../../compare/?t=film-ill-sleep-when-im-dead_3515)
+[Compare across authors](../compare/index.md?t=film-ill-sleep-when-im-dead_3515)
 
 ## DTS-HD MA 5.1
 

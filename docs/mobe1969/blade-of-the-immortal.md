@@ -1,6 +1,6 @@
 # Blade of the Immortal
 
-[Compare across authors](../../compare/?t=film-blade-of-the-immortal_426284)
+[Compare across authors](../compare/index.md?t=film-blade-of-the-immortal_426284)
 
 ## DTS-HD MA 5.1
 

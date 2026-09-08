@@ -1,6 +1,6 @@
 # Maggie
 
-[Compare across authors](../../compare/?t=film-maggie_287424)
+[Compare across authors](../compare/index.md?t=film-maggie_287424)
 
 ## DTS-HD MA 5.1
 

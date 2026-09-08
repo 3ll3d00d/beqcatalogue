@@ -1,6 +1,6 @@
 # Bāhubali 2: The Conclusion
 
-[Compare across authors](../../compare/?t=film-bahubali-2-the-conclusion_350312)
+[Compare across authors](../compare/index.md?t=film-bahubali-2-the-conclusion_350312)
 
 ## DD+ 5.1
 

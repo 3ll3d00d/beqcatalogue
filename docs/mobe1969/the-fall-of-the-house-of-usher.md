@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-fall-of-the-house-of-usher_157065)
+[Compare across authors](../compare/index.md?t=TV-the-fall-of-the-house-of-usher_157065)
 
 ## Season 1
 

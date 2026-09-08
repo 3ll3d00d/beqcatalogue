@@ -1,6 +1,6 @@
 # Sara's Notebook
 
-[Compare across authors](../../compare/?t=film-saras-notebook_449019)
+[Compare across authors](../compare/index.md?t=film-saras-notebook_449019)
 
 ## DD+ 5.1
 

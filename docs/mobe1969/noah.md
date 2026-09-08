@@ -1,6 +1,6 @@
 # Noah
 
-[Compare across authors](../../compare/?t=film-noah_86834)
+[Compare across authors](../compare/index.md?t=film-noah_86834)
 
 ## DD+ 5.1
 

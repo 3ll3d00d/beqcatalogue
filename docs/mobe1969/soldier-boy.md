@@ -1,6 +1,6 @@
 # Soldier Boy
 
-[Compare across authors](../../compare/?t=film-soldier-boy_619168)
+[Compare across authors](../compare/index.md?t=film-soldier-boy_619168)
 
 ## DD+ 2.0
 

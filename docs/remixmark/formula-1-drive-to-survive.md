@@ -14,7 +14,7 @@ Dialnorm Compensation: E1-7,10 - 5dB E8,9 - 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1493?post_id=63493874#post-63493874)
 
-* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_87083)
+* [Compare across authors](../compare/index.md?t=TV-formula-1-drive-to-survive_87083)
 
 * Production Year: 2019
 
@@ -33,7 +33,7 @@ Dialnorm Compensation: E01-04 & 05-10 5dB E05 6dB.
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1565?post_id=63880045#post-63880045)
 
-* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_87083)
+* [Compare across authors](../compare/index.md?t=TV-formula-1-drive-to-survive_87083)
 
 * Production Year: 2019
 
@@ -52,7 +52,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1716?post_id=64490274#post-64490274)
 
-* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_87083)
+* [Compare across authors](../compare/index.md?t=TV-formula-1-drive-to-survive_87083)
 
 * Production Year: 2019
 
@@ -74,7 +74,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1716?post_id=64490291#post-64490291)
 
-* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_87083)
+* [Compare across authors](../compare/index.md?t=TV-formula-1-drive-to-survive_87083)
 
 * Production Year: 2019
 
@@ -96,7 +96,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1716?post_id=64490306#post-64490306)
 
-* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_87083)
+* [Compare across authors](../compare/index.md?t=TV-formula-1-drive-to-survive_87083)
 
 * Production Year: 2019
 
@@ -118,7 +118,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1716?post_id=64490345#post-64490345)
 
-* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_87083)
+* [Compare across authors](../compare/index.md?t=TV-formula-1-drive-to-survive_87083)
 
 * Production Year: 2019
 
@@ -140,7 +140,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64490357#post-64490357)
 
-* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_87083)
+* [Compare across authors](../compare/index.md?t=TV-formula-1-drive-to-survive_87083)
 
 * Production Year: 2019
 
@@ -162,7 +162,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64490371#post-64490371)
 
-* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_87083)
+* [Compare across authors](../compare/index.md?t=TV-formula-1-drive-to-survive_87083)
 
 * Production Year: 2019
 
@@ -184,7 +184,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64490394#post-64490394)
 
-* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_87083)
+* [Compare across authors](../compare/index.md?t=TV-formula-1-drive-to-survive_87083)
 
 * Production Year: 2019
 
@@ -206,7 +206,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64490412#post-64490412)
 
-* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_87083)
+* [Compare across authors](../compare/index.md?t=TV-formula-1-drive-to-survive_87083)
 
 * Production Year: 2019
 

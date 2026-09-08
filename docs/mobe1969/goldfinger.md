@@ -1,6 +1,6 @@
 # Goldfinger
 
-[Compare across authors](../../compare/?t=film-goldfinger_658)
+[Compare across authors](../compare/index.md?t=film-goldfinger_658)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

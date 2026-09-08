@@ -1,6 +1,6 @@
 # Mud
 
-[Compare across authors](../../compare/?t=film-mud_103731)
+[Compare across authors](../compare/index.md?t=film-mud_103731)
 
 ## TrueHD 5.1
 

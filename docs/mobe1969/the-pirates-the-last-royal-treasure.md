@@ -1,6 +1,6 @@
 # The Pirates: The Last Royal Treasure
 
-[Compare across authors](../../compare/?t=film-the-pirates-the-last-royal-treasure_591120)
+[Compare across authors](../compare/index.md?t=film-the-pirates-the-last-royal-treasure_591120)
 
 ## DD+ 5.1
 

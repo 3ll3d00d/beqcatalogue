@@ -1,6 +1,6 @@
 # Bullett Raja
 
-[Compare across authors](../../compare/?t=film-bullett-raja_220495)
+[Compare across authors](../compare/index.md?t=film-bullett-raja_220495)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-gamera-rebirth-_214592)
+[Compare across authors](../compare/index.md?t=TV-gamera-rebirth-_214592)
 
 ## Season 1
 

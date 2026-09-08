@@ -1,6 +1,6 @@
 # Death Sentence
 
-[Compare across authors](../../compare/?t=film-death-sentence_11835)
+[Compare across authors](../compare/index.md?t=film-death-sentence_11835)
 
 ## DTS-HD HR 5.1
 

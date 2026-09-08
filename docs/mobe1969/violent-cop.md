@@ -1,6 +1,6 @@
 # Violent Cop
 
-[Compare across authors](../../compare/?t=film-violent-cop_12622)
+[Compare across authors](../compare/index.md?t=film-violent-cop_12622)
 
 ## LPCM 2.0
 

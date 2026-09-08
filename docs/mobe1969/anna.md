@@ -1,6 +1,6 @@
 # Anna
 
-[Compare across authors](../../compare/?t=film-anna_484641)
+[Compare across authors](../compare/index.md?t=film-anna_484641)
 
 ## Atmos, DD+ 5.1
 

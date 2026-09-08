@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-entrapped_209366)
+[Compare across authors](../compare/index.md?t=TV-entrapped_209366)
 
 ## Season 1
 

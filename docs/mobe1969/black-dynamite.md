@@ -1,6 +1,6 @@
 # Black Dynamite
 
-[Compare across authors](../../compare/?t=film-black-dynamite_24804)
+[Compare across authors](../compare/index.md?t=film-black-dynamite_24804)
 
 ## DTS-HD MA 5.1
 

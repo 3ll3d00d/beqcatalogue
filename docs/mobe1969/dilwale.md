@@ -1,6 +1,6 @@
 # Dilwale
 
-[Compare across authors](../../compare/?t=film-dilwale_370665)
+[Compare across authors](../compare/index.md?t=film-dilwale_370665)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Raazi
 
-[Compare across authors](../../compare/?t=film-raazi_491629)
+[Compare across authors](../compare/index.md?t=film-raazi_491629)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

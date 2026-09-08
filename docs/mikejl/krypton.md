@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-krypton_71340)
+* [Compare across authors](../compare/index.md?t=TV-krypton_71340)
 
 * Production Year: 2018
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-krypton_71340)
+* [Compare across authors](../compare/index.md?t=TV-krypton_71340)
 
 * Production Year: 2018
 

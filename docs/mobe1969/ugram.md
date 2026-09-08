@@ -1,6 +1,6 @@
 # Ugram
 
-[Compare across authors](../../compare/?t=film-ugram_1069937)
+[Compare across authors](../compare/index.md?t=film-ugram_1069937)
 
 ## DD+ 5.1
 

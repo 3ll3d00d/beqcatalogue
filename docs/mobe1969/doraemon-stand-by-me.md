@@ -1,6 +1,6 @@
 # Doraemon: Stand By Me
 
-[Compare across authors](../../compare/?t=film-doraemon-stand-by-me_265712)
+[Compare across authors](../compare/index.md?t=film-doraemon-stand-by-me_265712)
 
 ## DTS-HD MA 5.1
 

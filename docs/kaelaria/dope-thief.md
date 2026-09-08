@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-dope-thief_209876)
+* [Compare across authors](../compare/index.md?t=TV-dope-thief_209876)
 
 * Production Year: 2025
 

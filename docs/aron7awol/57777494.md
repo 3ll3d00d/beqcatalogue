@@ -1,6 +1,6 @@
 # Lord of War
 
-[Compare across authors](../../compare/?t=film-lord-of-war_1830)
+[Compare across authors](../compare/index.md?t=film-lord-of-war_1830)
 
 ## Atmos
 

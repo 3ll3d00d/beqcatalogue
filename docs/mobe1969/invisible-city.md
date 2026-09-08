@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-invisible-city_110529)
+[Compare across authors](../compare/index.md?t=TV-invisible-city_110529)
 
 ## Season 1
 

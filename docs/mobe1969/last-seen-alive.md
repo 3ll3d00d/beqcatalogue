@@ -1,6 +1,6 @@
 # Last Seen Alive
 
-[Compare across authors](../../compare/?t=film-last-seen-alive_961484)
+[Compare across authors](../compare/index.md?t=film-last-seen-alive_961484)
 
 ## DTS-HD MA 5.1
 

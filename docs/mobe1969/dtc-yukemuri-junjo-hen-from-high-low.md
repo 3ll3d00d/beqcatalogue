@@ -1,6 +1,6 @@
 # DTC –Yukemuri Junjo Hen– from High & Low
 
-[Compare across authors](../../compare/?t=film-dtc-yukemuri-junjo-hen-from-high-low_551086)
+[Compare across authors](../compare/index.md?t=film-dtc-yukemuri-junjo-hen-from-high-low_551086)
 
 ## DD+ 2.0
 

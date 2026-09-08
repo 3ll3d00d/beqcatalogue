@@ -1,6 +1,6 @@
 # In the Blood
 
-[Compare across authors](../../compare/?t=film-in-the-blood_256474)
+[Compare across authors](../compare/index.md?t=film-in-the-blood_256474)
 
 ## TrueHD 5.1, DD+ 5.1
 

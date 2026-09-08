@@ -1,6 +1,6 @@
 # Wheelman
 
-[Compare across authors](../../compare/?t=film-wheelman_471014)
+[Compare across authors](../compare/index.md?t=film-wheelman_471014)
 
 ## DD+ 5.1
 

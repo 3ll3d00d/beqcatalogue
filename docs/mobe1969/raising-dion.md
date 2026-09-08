@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-raising-dion_93392)
+[Compare across authors](../compare/index.md?t=TV-raising-dion_93392)
 
 ## Season 1
 

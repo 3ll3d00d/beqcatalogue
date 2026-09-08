@@ -1,6 +1,6 @@
 # Elite Squad
 
-[Compare across authors](../../compare/?t=film-elite-squad_7347)
+[Compare across authors](../compare/index.md?t=film-elite-squad_7347)
 
 ## DTS-HD MA 5.1
 

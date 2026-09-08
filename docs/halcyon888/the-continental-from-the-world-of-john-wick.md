@@ -14,7 +14,7 @@ Dialnorm Compensation: E01 +7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62836262)
 
-* [Compare across authors](../../compare/?t=TV-the-continental-from-the-world-of-john-wick_72710)
+* [Compare across authors](../compare/index.md?t=TV-the-continental-from-the-world-of-john-wick_72710)
 
 * Production Year: 2023
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: E02 +7dB​
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62836262)
 
-* [Compare across authors](../../compare/?t=TV-the-continental-from-the-world-of-john-wick_72710)
+* [Compare across authors](../compare/index.md?t=TV-the-continental-from-the-world-of-john-wick_72710)
 
 * Production Year: 2023
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: E03 +7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62836262)
 
-* [Compare across authors](../../compare/?t=TV-the-continental-from-the-world-of-john-wick_72710)
+* [Compare across authors](../compare/index.md?t=TV-the-continental-from-the-world-of-john-wick_72710)
 
 * Production Year: 2023
 

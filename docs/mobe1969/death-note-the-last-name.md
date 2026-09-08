@@ -1,6 +1,6 @@
 # Death Note: The Last Name
 
-[Compare across authors](../../compare/?t=film-death-note-the-last-name_16140)
+[Compare across authors](../compare/index.md?t=film-death-note-the-last-name_16140)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Mike and Dave Need Wedding Dates
 
-[Compare across authors](../../compare/?t=film-mike-and-dave-need-wedding-dates_316023)
+[Compare across authors](../compare/index.md?t=film-mike-and-dave-need-wedding-dates_316023)
 
 ## DTS-HD MA 7.1
 

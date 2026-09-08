@@ -1,6 +1,6 @@
 # Run Hide Fight
 
-[Compare across authors](../../compare/?t=film-run-hide-fight_629017)
+[Compare across authors](../compare/index.md?t=film-run-hide-fight_629017)
 
 ## DTS-HD MA 5.1
 

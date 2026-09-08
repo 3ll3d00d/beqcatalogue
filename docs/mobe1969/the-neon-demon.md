@@ -1,6 +1,6 @@
 # The Neon Demon
 
-[Compare across authors](../../compare/?t=film-the-neon-demon_301365)
+[Compare across authors](../compare/index.md?t=film-the-neon-demon_301365)
 
 ## DTS-HD MA 5.1
 

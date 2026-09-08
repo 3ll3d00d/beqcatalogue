@@ -1,6 +1,6 @@
 # 2 Fast 2 Furious
 
-[Compare across authors](../../compare/?t=film-2-fast-2-furious_584)
+[Compare across authors](../compare/index.md?t=film-2-fast-2-furious_584)
 
 ## DTS-HD MA 5.1
 

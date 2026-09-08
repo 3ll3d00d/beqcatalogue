@@ -1,6 +1,6 @@
 # Fender Bender
 
-[Compare across authors](../../compare/?t=film-fender-bender_397278)
+[Compare across authors](../compare/index.md?t=film-fender-bender_397278)
 
 ## DD+ 5.1
 

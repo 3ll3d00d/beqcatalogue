@@ -1,6 +1,6 @@
 # Fantasy Island
 
-[Compare across authors](../../compare/?t=film-fantasy-island_539537)
+[Compare across authors](../compare/index.md?t=film-fantasy-island_539537)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

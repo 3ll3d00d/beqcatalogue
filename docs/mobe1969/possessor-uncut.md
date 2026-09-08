@@ -1,6 +1,6 @@
 # Possessor Uncut
 
-[Compare across authors](../../compare/?t=film-possessor-uncut_435615)
+[Compare across authors](../compare/index.md?t=film-possessor-uncut_435615)
 
 ## Atmos
 

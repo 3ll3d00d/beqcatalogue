@@ -1,6 +1,6 @@
 # Come Out Fighting
 
-[Compare across authors](../../compare/?t=film-come-out-fighting_1047925)
+[Compare across authors](../compare/index.md?t=film-come-out-fighting_1047925)
 
 ## DTS-HD MA 5.1
 

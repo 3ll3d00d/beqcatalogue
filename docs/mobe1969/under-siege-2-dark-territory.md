@@ -1,6 +1,6 @@
 # Under Siege 2: Dark Territory
 
-[Compare across authors](../../compare/?t=film-under-siege-2-dark-territory_3512)
+[Compare across authors](../compare/index.md?t=film-under-siege-2-dark-territory_3512)
 
 ## DD 5.1
 

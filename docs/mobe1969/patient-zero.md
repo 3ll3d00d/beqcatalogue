@@ -1,6 +1,6 @@
 # Patient Zero
 
-[Compare across authors](../../compare/?t=film-patient-zero_295011)
+[Compare across authors](../compare/index.md?t=film-patient-zero_295011)
 
 ## DTS-HD MA 5.1
 

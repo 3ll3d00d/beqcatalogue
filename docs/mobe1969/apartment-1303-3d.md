@@ -1,6 +1,6 @@
 # Apartment 1303 3D
 
-[Compare across authors](../../compare/?t=film-apartment-1303-3d_160070)
+[Compare across authors](../compare/index.md?t=film-apartment-1303-3d_160070)
 
 ## DTS-HD MA 5.1
 

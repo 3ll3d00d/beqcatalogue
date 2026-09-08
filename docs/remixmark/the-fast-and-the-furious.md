@@ -12,7 +12,7 @@ Dominic Toretto is a Los Angeles street racer suspected of masterminding a serie
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1768?post_id=64798029#post-64798029)  [TMDB](https://www.themoviedb.org/movie/9799)  [Compare across authors](../../compare/?t=film-the-fast-and-the-furious_9799)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1768?post_id=64798029#post-64798029)  [TMDB](https://www.themoviedb.org/movie/9799)  [Compare across authors](../compare/index.md?t=film-the-fast-and-the-furious_9799)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Fast%20and%20the%20Furious%20(2001)%20(-.5%20gain)%20Atmos.jpg)

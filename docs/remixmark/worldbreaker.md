@@ -9,7 +9,7 @@ Five years ago, a tear in the fabric of reality brought creatures to our world f
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1718?post_id=64496774#post-64496774)  [TMDB](https://www.themoviedb.org/movie/1196067)  [Compare across authors](../../compare/?t=film-worldbreaker_1196067)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1718?post_id=64496774#post-64496774)  [TMDB](https://www.themoviedb.org/movie/1196067)  [Compare across authors](../compare/index.md?t=film-worldbreaker_1196067)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Worldbreaker%20(2025)%20(%2B1.5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ Five years ago, a tear in the fabric of reality brought creatures to our world f
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1722?post_id=64510456#post-64510456)  [TMDB](https://www.themoviedb.org/movie/1196067)  [Compare across authors](../../compare/?t=film-worldbreaker_1196067)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1722?post_id=64510456#post-64510456)  [TMDB](https://www.themoviedb.org/movie/1196067)  [Compare across authors](../compare/index.md?t=film-worldbreaker_1196067)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Worldbreaker%20(2025)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # Samrat Prithviraj
 
-[Compare across authors](../../compare/?t=film-samrat-prithviraj_611598)
+[Compare across authors](../compare/index.md?t=film-samrat-prithviraj_611598)
 
 ## DD+ 5.1
 

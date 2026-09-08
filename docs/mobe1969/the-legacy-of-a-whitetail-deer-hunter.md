@@ -1,6 +1,6 @@
 # The Legacy of a Whitetail Deer Hunter
 
-[Compare across authors](../../compare/?t=film-the-legacy-of-a-whitetail-deer-hunter_311307)
+[Compare across authors](../compare/index.md?t=film-the-legacy-of-a-whitetail-deer-hunter_311307)
 
 ## DD+ 5.1
 

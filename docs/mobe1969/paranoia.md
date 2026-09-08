@@ -1,6 +1,6 @@
 # Paranoia
 
-[Compare across authors](../../compare/?t=film-paranoia_115348)
+[Compare across authors](../compare/index.md?t=film-paranoia_115348)
 
 ## DTS-HD MA 5.1
 

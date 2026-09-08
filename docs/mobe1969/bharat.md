@@ -1,6 +1,6 @@
 # Bharat
 
-[Compare across authors](../../compare/?t=film-bharat_569594)
+[Compare across authors](../compare/index.md?t=film-bharat_569594)
 
 ## DD+ 5.1
 

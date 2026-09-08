@@ -1,6 +1,6 @@
 # Cabin Fever
 
-[Compare across authors](../../compare/?t=film-cabin-fever_298584)
+[Compare across authors](../compare/index.md?t=film-cabin-fever_298584)
 
 ## DTS-HD MA 5.1
 

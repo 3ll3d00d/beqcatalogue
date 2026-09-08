@@ -1,6 +1,6 @@
 # Cargo
 
-[Compare across authors](../../compare/?t=film-cargo_34069)
+[Compare across authors](../compare/index.md?t=film-cargo_34069)
 
 ## DTS-HD MA 5.1
 

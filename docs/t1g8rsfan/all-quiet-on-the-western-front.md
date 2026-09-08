@@ -12,7 +12,7 @@ Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of he
 German Audio
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62956754)  [TMDB](https://www.themoviedb.org/movie/49046)  [Compare across authors](../../compare/?t=film-all-quiet-on-the-western-front_49046)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62956754)  [TMDB](https://www.themoviedb.org/movie/49046)  [Compare across authors](../compare/index.md?t=film-all-quiet-on-the-western-front_49046)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/All%20Quiet%20on%20the%20Western%20Front%20(2023)%20(%2B3%20gain)%20Atmos.jpg)
@@ -31,7 +31,7 @@ Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of he
 English Audio
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62956754)  [TMDB](https://www.themoviedb.org/movie/49046)  [Compare across authors](../../compare/?t=film-all-quiet-on-the-western-front_49046)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62956754)  [TMDB](https://www.themoviedb.org/movie/49046)  [Compare across authors](../compare/index.md?t=film-all-quiet-on-the-western-front_49046)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/All%20Quiet%20on%20the%20Western%20Front%20(2023)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

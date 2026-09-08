@@ -1,6 +1,6 @@
 # The Horde
 
-[Compare across authors](../../compare/?t=film-the-horde_37905)
+[Compare across authors](../compare/index.md?t=film-the-horde_37905)
 
 ## DTS 5.1
 

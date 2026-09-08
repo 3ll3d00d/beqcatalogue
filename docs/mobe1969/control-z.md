@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-control-z_102903)
+[Compare across authors](../compare/index.md?t=TV-control-z_102903)
 
 ## Season 1
 

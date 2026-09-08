@@ -1,6 +1,6 @@
 # The Whole Truth
 
-[Compare across authors](../../compare/?t=film-the-whole-truth_331583)
+[Compare across authors](../compare/index.md?t=film-the-whole-truth_331583)
 
 ## DTS-HD MA 5.1
 

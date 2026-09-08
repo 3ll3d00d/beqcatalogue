@@ -12,7 +12,7 @@
 BEQ Note: This BEQ was contributed to the catalogue by AVS Forum member Magly, thanks!
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-the-green-planet_96323)
+* [Compare across authors](../compare/index.md?t=TV-the-green-planet_96323)
 
 * Production Year: 2022
 

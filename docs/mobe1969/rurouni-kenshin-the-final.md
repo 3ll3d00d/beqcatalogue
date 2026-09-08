@@ -1,6 +1,6 @@
 # Rurouni Kenshin: The Final
 
-[Compare across authors](../../compare/?t=film-rurouni-kenshin-the-final_602063)
+[Compare across authors](../compare/index.md?t=film-rurouni-kenshin-the-final_602063)
 
 ## DD+ 5.1
 

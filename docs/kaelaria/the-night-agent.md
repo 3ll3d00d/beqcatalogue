@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-the-night-agent_129552)
+* [Compare across authors](../compare/index.md?t=TV-the-night-agent_129552)
 
 * Production Year: 2023
 

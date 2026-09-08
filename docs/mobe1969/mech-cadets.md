@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mech-cadets_205214)
+[Compare across authors](../compare/index.md?t=TV-mech-cadets_205214)
 
 ## Season 1
 

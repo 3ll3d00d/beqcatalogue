@@ -7,7 +7,7 @@
 In order to escape the police after a robbery, two estranged siblings lay low in a metaphysical farmhouse that hides them away in a different time. There they reckon with a mysterious force that pushes their familial bonds to unnatural breaking points.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1226840)  [Compare across authors](../../compare/?t=film-things-will-be-different_1226840)
+[TMDB](https://www.themoviedb.org/movie/1226840)  [Compare across authors](../compare/index.md?t=film-things-will-be-different_1226840)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Things%20Will%20Be%20Different/Things%20Will%20Be%20Different%20(2024)%20DTS-HD%20MA%205.1.jpg)

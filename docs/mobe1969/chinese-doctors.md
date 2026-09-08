@@ -1,6 +1,6 @@
 # Chinese Doctors
 
-[Compare across authors](../../compare/?t=film-chinese-doctors_848880)
+[Compare across authors](../compare/index.md?t=film-chinese-doctors_848880)
 
 ## TrueHD 5.1
 

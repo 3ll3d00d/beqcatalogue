@@ -1,6 +1,6 @@
 # Unsane
 
-[Compare across authors](../../compare/?t=film-unsane_467660)
+[Compare across authors](../compare/index.md?t=film-unsane_467660)
 
 ## DTS-HD MA 5.1
 

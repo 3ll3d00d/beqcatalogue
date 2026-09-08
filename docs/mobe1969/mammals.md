@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mammals_212512)
+[Compare across authors](../compare/index.md?t=TV-mammals_212512)
 
 ## Season 1
 

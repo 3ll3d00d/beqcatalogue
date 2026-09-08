@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-black-knight_137040)
+[Compare across authors](../compare/index.md?t=TV-black-knight_137040)
 
 ## Season 1
 

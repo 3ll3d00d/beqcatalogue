@@ -1,6 +1,6 @@
 # Yakuza Princess
 
-[Compare across authors](../../compare/?t=film-yakuza-princess_661595)
+[Compare across authors](../compare/index.md?t=film-yakuza-princess_661595)
 
 ## Atmos
 

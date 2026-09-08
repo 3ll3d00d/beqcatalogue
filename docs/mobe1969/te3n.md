@@ -1,6 +1,6 @@
 # Te3n
 
-[Compare across authors](../../compare/?t=film-te3n_377213)
+[Compare across authors](../compare/index.md?t=film-te3n_377213)
 
 ## DTS-HD MA 5.1
 

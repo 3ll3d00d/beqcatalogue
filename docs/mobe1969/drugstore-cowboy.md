@@ -1,6 +1,6 @@
 # Drugstore Cowboy
 
-[Compare across authors](../../compare/?t=film-drugstore-cowboy_476)
+[Compare across authors](../compare/index.md?t=film-drugstore-cowboy_476)
 
 ## LPCM 2.0
 

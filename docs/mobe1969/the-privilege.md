@@ -1,6 +1,6 @@
 # The Privilege
 
-[Compare across authors](../../compare/?t=film-the-privilege_926980)
+[Compare across authors](../compare/index.md?t=film-the-privilege_926980)
 
 ## DD+ 5.1
 

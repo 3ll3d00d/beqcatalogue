@@ -1,6 +1,6 @@
 # The Transporter Refueled
 
-[Compare across authors](../../compare/?t=film-the-transporter-refueled_287948)
+[Compare across authors](../compare/index.md?t=film-the-transporter-refueled_287948)
 
 ## DTS-HD MA 5.1
 

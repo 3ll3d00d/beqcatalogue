@@ -1,6 +1,6 @@
 # The Day the Earth Stood Still
 
-[Compare across authors](../../compare/?t=film-the-day-the-earth-stood-still_10200)
+[Compare across authors](../compare/index.md?t=film-the-day-the-earth-stood-still_10200)
 
 ## DTS-HD MA 5.1
 

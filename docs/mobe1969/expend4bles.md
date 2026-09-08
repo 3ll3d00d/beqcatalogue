@@ -1,6 +1,6 @@
 # Expend4bles
 
-[Compare across authors](../../compare/?t=film-expend4bles_299054)
+[Compare across authors](../compare/index.md?t=film-expend4bles_299054)
 
 ## DD+ Atmos, DD+ 5.1
 

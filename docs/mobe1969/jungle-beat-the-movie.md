@@ -1,6 +1,6 @@
 # Jungle Beat: The Movie
 
-[Compare across authors](../../compare/?t=film-jungle-beat-the-movie_663459)
+[Compare across authors](../compare/index.md?t=film-jungle-beat-the-movie_663459)
 
 ## DD+ 5.1
 

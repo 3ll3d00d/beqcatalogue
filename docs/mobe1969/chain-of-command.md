@@ -1,6 +1,6 @@
 # Chain of Command
 
-[Compare across authors](../../compare/?t=film-chain-of-command_352978)
+[Compare across authors](../compare/index.md?t=film-chain-of-command_352978)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Rurouni Kenshin: The Beginning
 
-[Compare across authors](../../compare/?t=film-rurouni-kenshin-the-beginning_672322)
+[Compare across authors](../compare/index.md?t=film-rurouni-kenshin-the-beginning_672322)
 
 ## DD+ 5.1
 

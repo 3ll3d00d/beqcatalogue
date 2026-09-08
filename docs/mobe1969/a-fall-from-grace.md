@@ -1,6 +1,6 @@
 # A Fall from Grace
 
-[Compare across authors](../../compare/?t=film-a-fall-from-grace_651070)
+[Compare across authors](../compare/index.md?t=film-a-fall-from-grace_651070)
 
 ## DD+ Atmos
 

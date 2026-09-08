@@ -1,6 +1,6 @@
 # Innerspace
 
-[Compare across authors](../../compare/?t=film-innerspace_2614)
+[Compare across authors](../compare/index.md?t=film-innerspace_2614)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Claus Family
 
-[Compare across authors](../../compare/?t=film-the-claus-family_767896)
+[Compare across authors](../compare/index.md?t=film-the-claus-family_767896)
 
 ## DD+ 5.1
 

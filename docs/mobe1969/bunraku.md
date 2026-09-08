@@ -1,6 +1,6 @@
 # Bunraku
 
-[Compare across authors](../../compare/?t=film-bunraku_30618)
+[Compare across authors](../compare/index.md?t=film-bunraku_30618)
 
 ## DTS-HD MA 5.1
 

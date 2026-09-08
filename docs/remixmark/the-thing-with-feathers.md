@@ -12,7 +12,7 @@ After a tragic loss, a grieving father tries to raise his young sons whilst deal
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1690?post_id=64363746#post-64363746)  [TMDB](https://www.themoviedb.org/movie/1127628)  [Compare across authors](../../compare/?t=film-the-thing-with-feathers_1127628)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1690?post_id=64363746#post-64363746)  [TMDB](https://www.themoviedb.org/movie/1127628)  [Compare across authors](../compare/index.md?t=film-the-thing-with-feathers_1127628)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Thing%20with%20Feathers%20(2025)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)
@@ -28,7 +28,7 @@ After a tragic loss, a grieving father tries to raise his young sons whilst deal
 
 **MV Adjustment:** +15.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1708?post_id=64451673#post-64451673)  [TMDB](https://www.themoviedb.org/movie/1127628)  [Compare across authors](../../compare/?t=film-the-thing-with-feathers_1127628)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1708?post_id=64451673#post-64451673)  [TMDB](https://www.themoviedb.org/movie/1127628)  [Compare across authors](../compare/index.md?t=film-the-thing-with-feathers_1127628)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Thing%20with%20Feathers%20(2025)%20(%2B15.5%20gain)%20DTS-HD%20MA%205.1.jpg)

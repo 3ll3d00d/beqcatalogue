@@ -1,6 +1,6 @@
 # Wyrmwood: Apocalypse
 
-[Compare across authors](../../compare/?t=film-wyrmwood-apocalypse_879957)
+[Compare across authors](../compare/index.md?t=film-wyrmwood-apocalypse_879957)
 
 ## DTS-HD MA 5.1
 

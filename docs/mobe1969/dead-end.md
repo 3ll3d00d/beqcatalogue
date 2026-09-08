@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dead-end_214258)
+[Compare across authors](../compare/index.md?t=TV-dead-end_214258)
 
 ## Season 1
 

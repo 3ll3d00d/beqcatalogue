@@ -1,6 +1,6 @@
 # Apollo 10½:  A Space Age Childhood
 
-[Compare across authors](../../compare/?t=film-apollo-1012-a-space-age-childhood_664996)
+[Compare across authors](../compare/index.md?t=film-apollo-1012-a-space-age-childhood_664996)
 
 ## DD+ 5.1
 

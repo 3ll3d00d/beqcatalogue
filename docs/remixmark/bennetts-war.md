@@ -9,7 +9,7 @@ After surviving an IED explosion in combat overseas, a young soldier with the Ar
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1712?post_id=64466941#post-64466941)  [TMDB](https://www.themoviedb.org/movie/603055)  [Compare across authors](../../compare/?t=film-bennetts-war_603055)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1712?post_id=64466941#post-64466941)  [TMDB](https://www.themoviedb.org/movie/603055)  [Compare across authors](../compare/index.md?t=film-bennetts-war_603055)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Bennett's%20War%20(2019)%20(%2B5.5%20gain)%20DD%2B.jpg)

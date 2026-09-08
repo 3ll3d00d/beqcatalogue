@@ -1,6 +1,6 @@
 # Infinitum: Subject Unknown
 
-[Compare across authors](../../compare/?t=film-infinitum-subject-unknown_797861)
+[Compare across authors](../compare/index.md?t=film-infinitum-subject-unknown_797861)
 
 ## DD+ 5.1
 

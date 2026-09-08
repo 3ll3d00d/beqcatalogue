@@ -1,6 +1,6 @@
 # Ayalvaashi
 
-[Compare across authors](../../compare/?t=film-ayalvaashi_1018972)
+[Compare across authors](../compare/index.md?t=film-ayalvaashi_1018972)
 
 ## DD+ 5.1
 

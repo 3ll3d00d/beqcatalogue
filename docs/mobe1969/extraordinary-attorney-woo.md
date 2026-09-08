@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-extraordinary-attorney-woo_197067)
+[Compare across authors](../compare/index.md?t=TV-extraordinary-attorney-woo_197067)
 
 ## Season 1
 

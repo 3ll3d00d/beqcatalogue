@@ -1,6 +1,6 @@
 # Elf
 
-[Compare across authors](../../compare/?t=film-elf_10719)
+[Compare across authors](../compare/index.md?t=film-elf_10719)
 
 ## DTS-HD MA 5.1
 

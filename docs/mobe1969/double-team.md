@@ -1,6 +1,6 @@
 # Double Team
 
-[Compare across authors](../../compare/?t=film-double-team_9405)
+[Compare across authors](../compare/index.md?t=film-double-team_9405)
 
 ## DD 5.1, DTS 5.1
 

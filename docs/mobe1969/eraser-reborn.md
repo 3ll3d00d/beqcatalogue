@@ -1,6 +1,6 @@
 # Eraser: Reborn
 
-[Compare across authors](../../compare/?t=film-eraser-reborn_923597)
+[Compare across authors](../compare/index.md?t=film-eraser-reborn_923597)
 
 ## DTS-HD MA 5.1
 

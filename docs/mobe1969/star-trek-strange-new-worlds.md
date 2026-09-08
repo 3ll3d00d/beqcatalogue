@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-star-trek-strange-new-worlds_103516)
+[Compare across authors](../compare/index.md?t=TV-star-trek-strange-new-worlds_103516)
 
 ## Season 1
 

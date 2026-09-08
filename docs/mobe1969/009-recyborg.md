@@ -1,6 +1,6 @@
 # 009 Re:Cyborg
 
-[Compare across authors](../../compare/?t=film-009-recyborg_127544)
+[Compare across authors](../compare/index.md?t=film-009-recyborg_127544)
 
 ## DTS-HD MA 5.1
 

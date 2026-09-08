@@ -1,6 +1,6 @@
 # Proximity
 
-[Compare across authors](../../compare/?t=film-proximity_693158)
+[Compare across authors](../compare/index.md?t=film-proximity_693158)
 
 ## DTS-HD MA 5.1
 

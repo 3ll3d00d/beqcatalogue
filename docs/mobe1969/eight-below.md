@@ -1,6 +1,6 @@
 # Eight Below
 
-[Compare across authors](../../compare/?t=film-eight-below_9036)
+[Compare across authors](../compare/index.md?t=film-eight-below_9036)
 
 ## LPCM 5.1
 

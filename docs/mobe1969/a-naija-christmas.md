@@ -1,6 +1,6 @@
 # A Naija Christmas
 
-[Compare across authors](../../compare/?t=film-a-naija-christmas_882102)
+[Compare across authors](../compare/index.md?t=film-a-naija-christmas_882102)
 
 ## DD+ 5.1
 

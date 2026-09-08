@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-stained_88448)
+[Compare across authors](../compare/index.md?t=TV-stained_88448)
 
 ## Season 1 Episodes 1-4
 

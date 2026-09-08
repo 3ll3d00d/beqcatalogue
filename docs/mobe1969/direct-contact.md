@@ -1,6 +1,6 @@
 # Direct Contact
 
-[Compare across authors](../../compare/?t=film-direct-contact_20236)
+[Compare across authors](../compare/index.md?t=film-direct-contact_20236)
 
 ## TrueHD 5.1
 

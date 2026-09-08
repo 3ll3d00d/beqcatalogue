@@ -1,6 +1,6 @@
 # Bone Tomahawk
 
-[Compare across authors](../../compare/?t=film-bone-tomahawk_294963)
+[Compare across authors](../compare/index.md?t=film-bone-tomahawk_294963)
 
 ## DTS-HD MA 5.1
 

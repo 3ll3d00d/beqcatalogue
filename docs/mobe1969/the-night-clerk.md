@@ -1,6 +1,6 @@
 # The Night Clerk
 
-[Compare across authors](../../compare/?t=film-the-night-clerk_526007)
+[Compare across authors](../compare/index.md?t=film-the-night-clerk_526007)
 
 ## DTS-HD MA 5.1
 

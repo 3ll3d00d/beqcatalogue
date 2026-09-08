@@ -1,6 +1,6 @@
 # Battle for Skyark
 
-[Compare across authors](../../compare/?t=film-battle-for-skyark_335077)
+[Compare across authors](../compare/index.md?t=film-battle-for-skyark_335077)
 
 ## DTS-HD MA 5.1
 

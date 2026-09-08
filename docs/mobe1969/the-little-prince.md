@@ -1,6 +1,6 @@
 # The Little Prince
 
-[Compare across authors](../../compare/?t=film-the-little-prince_309809)
+[Compare across authors](../compare/index.md?t=film-the-little-prince_309809)
 
 ## DD+ 5.1
 

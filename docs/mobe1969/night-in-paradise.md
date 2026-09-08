@@ -1,6 +1,6 @@
 # Night in Paradise
 
-[Compare across authors](../../compare/?t=film-night-in-paradise_606523)
+[Compare across authors](../compare/index.md?t=film-night-in-paradise_606523)
 
 ## DD+ 5.1
 

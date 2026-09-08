@@ -1,6 +1,6 @@
 # Anjaan
 
-[Compare across authors](../../compare/?t=film-anjaan_278258)
+[Compare across authors](../compare/index.md?t=film-anjaan_278258)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Wall
 
-[Compare across authors](../../compare/?t=film-the-wall_405775)
+[Compare across authors](../compare/index.md?t=film-the-wall_405775)
 
 ## DD+ 5.1
 

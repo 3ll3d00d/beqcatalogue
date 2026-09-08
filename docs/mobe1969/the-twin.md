@@ -1,6 +1,6 @@
 # The Twin
 
-[Compare across authors](../../compare/?t=film-the-twin_477462)
+[Compare across authors](../compare/index.md?t=film-the-twin_477462)
 
 ## DTS-HD MA 5.1
 

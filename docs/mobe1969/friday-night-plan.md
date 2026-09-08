@@ -1,6 +1,6 @@
 # Friday Night Plan
 
-[Compare across authors](../../compare/?t=film-friday-night-plan_1160562)
+[Compare across authors](../compare/index.md?t=film-friday-night-plan_1160562)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # The Merciless
 
-[Compare across authors](../../compare/?t=film-the-merciless_451997)
+[Compare across authors](../compare/index.md?t=film-the-merciless_451997)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # In Time
 
-[Compare across authors](../../compare/?t=film-in-time_49530)
+[Compare across authors](../compare/index.md?t=film-in-time_49530)
 
 ## DTS-HD MA 5.1
 

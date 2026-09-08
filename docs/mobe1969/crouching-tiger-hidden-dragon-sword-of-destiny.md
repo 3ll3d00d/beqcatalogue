@@ -1,6 +1,6 @@
 # Crouching Tiger, Hidden Dragon: Sword of Destiny
 
-[Compare across authors](../../compare/?t=film-crouching-tiger-hidden-dragon-sword-of-destiny_263341)
+[Compare across authors](../compare/index.md?t=film-crouching-tiger-hidden-dragon-sword-of-destiny_263341)
 
 ## DD+ 5.1
 

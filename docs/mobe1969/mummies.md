@@ -1,6 +1,6 @@
 # Mummies
 
-[Compare across authors](../../compare/?t=film-mummies_816904)
+[Compare across authors](../compare/index.md?t=film-mummies_816904)
 
 ## DD+ 5.1
 

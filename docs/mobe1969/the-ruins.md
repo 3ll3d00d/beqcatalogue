@@ -1,6 +1,6 @@
 # The Ruins
 
-[Compare across authors](../../compare/?t=film-the-ruins_11152)
+[Compare across authors](../compare/index.md?t=film-the-ruins_11152)
 
 ## TrueHD 5.1
 

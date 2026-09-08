@@ -1,6 +1,6 @@
 # Hidden Figures
 
-[Compare across authors](../../compare/?t=film-hidden-figures_381284)
+[Compare across authors](../compare/index.md?t=film-hidden-figures_381284)
 
 ## DTS-HD MA 7.1
 

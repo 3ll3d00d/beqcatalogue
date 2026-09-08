@@ -1,6 +1,6 @@
 # The Legend of Bhagat Singh
 
-[Compare across authors](../../compare/?t=film-the-legend-of-bhagat-singh_31525)
+[Compare across authors](../compare/index.md?t=film-the-legend-of-bhagat-singh_31525)
 
 ## DD+ 5.1
 

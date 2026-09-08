@@ -1,6 +1,6 @@
 # National Lampoon's Vacation
 
-[Compare across authors](../../compare/?t=film-national-lampoons-vacation_11153)
+[Compare across authors](../compare/index.md?t=film-national-lampoons-vacation_11153)
 
 ## DTS-HD MA 2.0
 

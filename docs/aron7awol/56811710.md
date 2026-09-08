@@ -1,6 +1,6 @@
 # Thor
 
-[Compare across authors](../../compare/?t=film-thor_10195)
+[Compare across authors](../compare/index.md?t=film-thor_10195)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # The House
 
-[Compare across authors](../../compare/?t=film-the-house_547565)
+[Compare across authors](../compare/index.md?t=film-the-house_547565)
 
 ## DD+ Atmos, DD+ 5.1
 

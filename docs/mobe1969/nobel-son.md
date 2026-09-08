@@ -1,6 +1,6 @@
 # Nobel Son
 
-[Compare across authors](../../compare/?t=film-nobel-son_15676)
+[Compare across authors](../compare/index.md?t=film-nobel-son_15676)
 
 ## DTS-HD MA 5.1
 

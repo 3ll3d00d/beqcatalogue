@@ -1,6 +1,6 @@
 # Nothing Left To Fear
 
-[Compare across authors](../../compare/?t=film-nothing-left-to-fear_209901)
+[Compare across authors](../compare/index.md?t=film-nothing-left-to-fear_209901)
 
 ## DTS-HD MA 5.1
 

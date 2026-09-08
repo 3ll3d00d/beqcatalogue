@@ -1,6 +1,6 @@
 # We Have a Ghost
 
-[Compare across authors](../../compare/?t=film-we-have-a-ghost_852096)
+[Compare across authors](../compare/index.md?t=film-we-have-a-ghost_852096)
 
 ## DD+ Atmos
 

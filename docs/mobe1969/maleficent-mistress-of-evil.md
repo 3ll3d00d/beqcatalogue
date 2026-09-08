@@ -1,6 +1,6 @@
 # Maleficent: Mistress of Evil
 
-[Compare across authors](../../compare/?t=film-maleficent-mistress-of-evil_420809)
+[Compare across authors](../compare/index.md?t=film-maleficent-mistress-of-evil_420809)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Major
 
-[Compare across authors](../../compare/?t=film-major_605153)
+[Compare across authors](../compare/index.md?t=film-major_605153)
 
 ## DD+ 5.1
 

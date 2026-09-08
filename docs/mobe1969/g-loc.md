@@ -1,6 +1,6 @@
 # G-Loc
 
-[Compare across authors](../../compare/?t=film-g-loc_720124)
+[Compare across authors](../compare/index.md?t=film-g-loc_720124)
 
 ## DD+ 5.1
 

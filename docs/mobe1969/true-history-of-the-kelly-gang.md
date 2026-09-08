@@ -1,6 +1,6 @@
 # True History of the Kelly Gang
 
-[Compare across authors](../../compare/?t=film-true-history-of-the-kelly-gang_501395)
+[Compare across authors](../compare/index.md?t=film-true-history-of-the-kelly-gang_501395)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Intrusion
 
-[Compare across authors](../../compare/?t=film-intrusion_785752)
+[Compare across authors](../compare/index.md?t=film-intrusion_785752)
 
 ## DD+ 5.1
 

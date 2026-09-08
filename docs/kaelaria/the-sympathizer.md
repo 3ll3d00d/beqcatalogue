@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-the-sympathizer_129398)
+* [Compare across authors](../compare/index.md?t=TV-the-sympathizer_129398)
 
 * Production Year: 2024
 

@@ -1,6 +1,6 @@
 # The Legend of Zorro
 
-[Compare across authors](../../compare/?t=film-the-legend-of-zorro_1656)
+[Compare across authors](../compare/index.md?t=film-the-legend-of-zorro_1656)
 
 ## Atmos
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-good-detective_99480)
+[Compare across authors](../compare/index.md?t=TV-the-good-detective_99480)
 
 ## Season 1
 

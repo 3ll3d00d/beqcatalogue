@@ -1,6 +1,6 @@
 # Faraway Eyes
 
-[Compare across authors](../../compare/?t=film-faraway-eyes_534038)
+[Compare across authors](../compare/index.md?t=film-faraway-eyes_534038)
 
 ## DD+ 5.1
 

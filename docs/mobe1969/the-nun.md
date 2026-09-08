@@ -1,6 +1,6 @@
 # The Nun
 
-[Compare across authors](../../compare/?t=film-the-nun_439079)
+[Compare across authors](../compare/index.md?t=film-the-nun_439079)
 
 ## Atmos, DD+ 5.1
 

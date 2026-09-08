@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-nightmare-high_67842)
+[Compare across authors](../compare/index.md?t=TV-nightmare-high_67842)
 
 ## Season 1
 

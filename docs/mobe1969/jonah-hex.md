@@ -1,6 +1,6 @@
 # Jonah Hex
 
-[Compare across authors](../../compare/?t=film-jonah-hex_20533)
+[Compare across authors](../compare/index.md?t=film-jonah-hex_20533)
 
 ## DTS-HD MA 5.1
 

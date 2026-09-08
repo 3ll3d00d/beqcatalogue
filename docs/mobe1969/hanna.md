@@ -1,6 +1,6 @@
 # Hanna
 
-[Compare across authors](../../compare/?t=film-hanna_50456)
+[Compare across authors](../compare/index.md?t=film-hanna_50456)
 
 ## DTS-HD MA 5.1
 

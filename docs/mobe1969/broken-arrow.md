@@ -1,6 +1,6 @@
 # Broken Arrow
 
-[Compare across authors](../../compare/?t=film-broken-arrow_9208)
+[Compare across authors](../compare/index.md?t=film-broken-arrow_9208)
 
 ## DTS-HD MA 5.1
 

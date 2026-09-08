@@ -1,6 +1,6 @@
 # 21 Bridges
 
-[Compare across authors](../../compare/?t=film-21-bridges_535292)
+[Compare across authors](../compare/index.md?t=film-21-bridges_535292)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

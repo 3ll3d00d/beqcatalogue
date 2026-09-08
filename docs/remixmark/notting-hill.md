@@ -12,7 +12,7 @@ London bookstore owner William Thacker's quiet life turns upside down when a cha
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1744?post_id=64638710#post-64638710)  [TMDB](https://www.themoviedb.org/movie/509)  [Compare across authors](../../compare/?t=film-notting-hill_509)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1744?post_id=64638710#post-64638710)  [TMDB](https://www.themoviedb.org/movie/509)  [Compare across authors](../compare/index.md?t=film-notting-hill_509)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Notting%20Hill%20(1999)%20(%2B3.5%20gain)%20Atmos.jpg)

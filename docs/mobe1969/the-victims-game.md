@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-victims-game_101146)
+[Compare across authors](../compare/index.md?t=TV-the-victims-game_101146)
 
 ## Season 1
 

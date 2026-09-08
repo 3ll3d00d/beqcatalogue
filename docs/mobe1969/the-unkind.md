@@ -1,6 +1,6 @@
 # The Unkind
 
-[Compare across authors](../../compare/?t=film-the-unkind_891983)
+[Compare across authors](../compare/index.md?t=film-the-unkind_891983)
 
 ## DD+ 5.1
 

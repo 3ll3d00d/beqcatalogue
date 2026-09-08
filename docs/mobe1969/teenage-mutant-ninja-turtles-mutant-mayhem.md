@@ -1,6 +1,6 @@
 # Teenage Mutant Ninja Turtles: Mutant Mayhem
 
-[Compare across authors](../../compare/?t=film-teenage-mutant-ninja-turtles-mutant-mayhem_614930)
+[Compare across authors](../compare/index.md?t=film-teenage-mutant-ninja-turtles-mutant-mayhem_614930)
 
 ## DD+ Atmos, DD+ 5.1
 

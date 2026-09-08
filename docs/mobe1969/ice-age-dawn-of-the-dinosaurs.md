@@ -1,6 +1,6 @@
 # Ice Age: Dawn of the Dinosaurs
 
-[Compare across authors](../../compare/?t=film-ice-age-dawn-of-the-dinosaurs_8355)
+[Compare across authors](../compare/index.md?t=film-ice-age-dawn-of-the-dinosaurs_8355)
 
 ## DTS-HD MA 7.1
 

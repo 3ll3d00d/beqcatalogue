@@ -1,6 +1,6 @@
 # Mozu: The Movie
 
-[Compare across authors](../../compare/?t=film-mozu-the-movie_360552)
+[Compare across authors](../compare/index.md?t=film-mozu-the-movie_360552)
 
 ## TrueHD 5.1
 

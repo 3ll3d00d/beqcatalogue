@@ -1,6 +1,6 @@
 # Pride and Prejudice and Zombies
 
-[Compare across authors](../../compare/?t=film-pride-and-prejudice-and-zombies_58431)
+[Compare across authors](../compare/index.md?t=film-pride-and-prejudice-and-zombies_58431)
 
 ## Atmos
 

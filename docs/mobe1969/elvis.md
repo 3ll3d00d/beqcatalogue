@@ -1,6 +1,6 @@
 # Elvis
 
-[Compare across authors](../../compare/?t=film-elvis_614934)
+[Compare across authors](../compare/index.md?t=film-elvis_614934)
 
 ## Atmos
 

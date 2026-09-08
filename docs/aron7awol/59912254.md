@@ -1,6 +1,6 @@
 # Miami Vice
 
-[Compare across authors](../../compare/?t=film-miami-vice_82)
+[Compare across authors](../compare/index.md?t=film-miami-vice_82)
 
 ## DTS-HD MA 5.1
 

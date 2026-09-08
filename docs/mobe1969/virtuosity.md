@@ -1,6 +1,6 @@
 # Virtuosity
 
-[Compare across authors](../../compare/?t=film-virtuosity_9271)
+[Compare across authors](../compare/index.md?t=film-virtuosity_9271)
 
 ## DTS-HD MA 5.1
 

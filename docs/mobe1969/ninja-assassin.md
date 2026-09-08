@@ -1,6 +1,6 @@
 # Ninja Assassin
 
-[Compare across authors](../../compare/?t=film-ninja-assassin_22832)
+[Compare across authors](../compare/index.md?t=film-ninja-assassin_22832)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Beavis and Butt-Head Do America
 
-[Compare across authors](../../compare/?t=film-beavis-and-butt-head-do-america_3179)
+[Compare across authors](../compare/index.md?t=film-beavis-and-butt-head-do-america_3179)
 
 ## DD 5.1
 

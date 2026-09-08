@@ -1,6 +1,6 @@
 # Detection of Di Renjie
 
-[Compare across authors](../../compare/?t=film-detection-of-di-renjie_663442)
+[Compare across authors](../compare/index.md?t=film-detection-of-di-renjie_663442)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Four
 
-[Compare across authors](../../compare/?t=film-the-four_120143)
+[Compare across authors](../compare/index.md?t=film-the-four_120143)
 
 ## DD 5.1
 

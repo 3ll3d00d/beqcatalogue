@@ -1,6 +1,6 @@
 # Outpost: Black Sun
 
-[Compare across authors](../../compare/?t=film-outpost-black-sun_100183)
+[Compare across authors](../compare/index.md?t=film-outpost-black-sun_100183)
 
 ## DTS-HD MA 5.1
 

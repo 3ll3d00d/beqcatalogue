@@ -12,7 +12,7 @@ Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for de
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1474?post_id=63385662#post-63385662)  [TMDB](https://www.themoviedb.org/movie/1075794)  [Compare across authors](../../compare/?t=film-leo_1075794)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1474?post_id=63385662#post-63385662)  [TMDB](https://www.themoviedb.org/movie/1075794)  [Compare across authors](../compare/index.md?t=film-leo_1075794)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Leo%20(2023)%20(%2B6.5%20gain)%20DD%2B%20Atmos.jpg)

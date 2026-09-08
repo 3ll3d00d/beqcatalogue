@@ -1,6 +1,6 @@
 # First Kill
 
-[Compare across authors](../../compare/?t=film-first-kill_410554)
+[Compare across authors](../compare/index.md?t=film-first-kill_410554)
 
 ## DTS-HD MA 5.1
 

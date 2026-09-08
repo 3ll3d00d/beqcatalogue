@@ -1,6 +1,6 @@
 # Green Room
 
-[Compare across authors](../../compare/?t=film-green-room_313922)
+[Compare across authors](../compare/index.md?t=film-green-room_313922)
 
 ## DTS-HD MA 5.1
 

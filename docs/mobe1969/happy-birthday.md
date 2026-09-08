@@ -1,6 +1,6 @@
 # Happy Birthday
 
-[Compare across authors](../../compare/?t=film-happy-birthday_920736)
+[Compare across authors](../compare/index.md?t=film-happy-birthday_920736)
 
 ## DD+ 5.1
 

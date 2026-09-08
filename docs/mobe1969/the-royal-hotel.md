@@ -1,6 +1,6 @@
 # The Royal Hotel
 
-[Compare across authors](../../compare/?t=film-the-royal-hotel_944952)
+[Compare across authors](../compare/index.md?t=film-the-royal-hotel_944952)
 
 ## DD+ 5.1
 

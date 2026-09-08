@@ -1,6 +1,6 @@
 # Domino
 
-[Compare across authors](../../compare/?t=film-domino_9923)
+[Compare across authors](../compare/index.md?t=film-domino_9923)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # The Magician's Elephant
 
-[Compare across authors](../../compare/?t=film-the-magicians-elephant_776835)
+[Compare across authors](../compare/index.md?t=film-the-magicians-elephant_776835)
 
 ## DD+ Atmos
 

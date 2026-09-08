@@ -12,7 +12,7 @@ A group of shoplifters take aim at a cutthroat fashion maven by stealing from he
 Dialnorm Compensation: 0dB AI Created
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1772#post-64818983)  [TMDB](https://www.themoviedb.org/movie/1227877)  [Compare across authors](../../compare/?t=film-i-love-boosters_1227877)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1772#post-64818983)  [TMDB](https://www.themoviedb.org/movie/1227877)  [Compare across authors](../compare/index.md?t=film-i-love-boosters_1227877)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/I%20Love%20Boosters%20%282026%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1.jpg)

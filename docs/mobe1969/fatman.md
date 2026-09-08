@@ -1,6 +1,6 @@
 # Fatman
 
-[Compare across authors](../../compare/?t=film-fatman_602211)
+[Compare across authors](../compare/index.md?t=film-fatman_602211)
 
 ## DTS-HD MA 5.1
 

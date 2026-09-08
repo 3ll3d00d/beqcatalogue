@@ -12,7 +12,7 @@ Two teenage boys must escape a violent entity that takes the form of the person 
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1759?post_id=64725940#post-64725940)  [TMDB](https://www.themoviedb.org/movie/1564614)  [Compare across authors](../../compare/?t=film-leviticus_1564614)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1759?post_id=64725940#post-64725940)  [TMDB](https://www.themoviedb.org/movie/1564614)  [Compare across authors](../compare/index.md?t=film-leviticus_1564614)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Leviticus%20(2026)%20(%2B4%20gain)%20DD%2B.jpg)

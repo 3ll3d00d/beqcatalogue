@@ -1,6 +1,6 @@
 # Goosebumps 2: Haunted Halloween
 
-[Compare across authors](../../compare/?t=film-goosebumps-2-haunted-halloween_442062)
+[Compare across authors](../compare/index.md?t=film-goosebumps-2-haunted-halloween_442062)
 
 ## Atmos
 

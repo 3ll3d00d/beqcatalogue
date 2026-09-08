@@ -1,6 +1,6 @@
 # The Standoff at Sparrow Creek
 
-[Compare across authors](../../compare/?t=film-the-standoff-at-sparrow-creek_516630)
+[Compare across authors](../compare/index.md?t=film-the-standoff-at-sparrow-creek_516630)
 
 ## DD+ 5.1
 

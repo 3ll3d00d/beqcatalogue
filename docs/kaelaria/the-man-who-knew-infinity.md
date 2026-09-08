@@ -7,7 +7,7 @@
 Growing up poor in Madras, India, Srinivasa Ramanujan Iyengar earns admittance to Cambridge University during WWI, where he becomes a pioneer in mathematical theories with the guidance of his professor, G.H. Hardy.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/353326)  [Compare across authors](../../compare/?t=film-the-man-who-knew-infinity_353326)
+[TMDB](https://www.themoviedb.org/movie/353326)  [Compare across authors](../compare/index.md?t=film-the-man-who-knew-infinity_353326)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/The%20Man%20Who%20Knew%20Infinity%20(2015)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # Hell Hath No Fury
 
-[Compare across authors](../../compare/?t=film-hell-hath-no-fury_877013)
+[Compare across authors](../compare/index.md?t=film-hell-hath-no-fury_877013)
 
 ## DD+ 5.1
 

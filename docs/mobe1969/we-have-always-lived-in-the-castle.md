@@ -1,6 +1,6 @@
 # We Have Always Lived in the Castle
 
-[Compare across authors](../../compare/?t=film-we-have-always-lived-in-the-castle_411144)
+[Compare across authors](../compare/index.md?t=film-we-have-always-lived-in-the-castle_411144)
 
 ## DD+ 5.1
 

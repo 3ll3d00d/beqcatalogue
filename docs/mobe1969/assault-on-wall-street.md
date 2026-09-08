@@ -1,6 +1,6 @@
 # Assault on Wall Street
 
-[Compare across authors](../../compare/?t=film-assault-on-wall-street_184125)
+[Compare across authors](../compare/index.md?t=film-assault-on-wall-street_184125)
 
 ## DTS-HD MA 5.1
 

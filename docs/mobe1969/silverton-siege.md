@@ -1,6 +1,6 @@
 # Silverton Siege
 
-[Compare across authors](../../compare/?t=film-silverton-siege_951470)
+[Compare across authors](../compare/index.md?t=film-silverton-siege_951470)
 
 ## DD+ Atmos, DD+ 5.1
 

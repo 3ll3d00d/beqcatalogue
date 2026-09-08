@@ -1,6 +1,6 @@
 # Collateral Damage
 
-[Compare across authors](../../compare/?t=film-collateral-damage_9884)
+[Compare across authors](../compare/index.md?t=film-collateral-damage_9884)
 
 ## TrueHD 5.1
 

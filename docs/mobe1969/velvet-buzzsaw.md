@@ -1,6 +1,6 @@
 # Velvet Buzzsaw
 
-[Compare across authors](../../compare/?t=film-velvet-buzzsaw_463684)
+[Compare across authors](../compare/index.md?t=film-velvet-buzzsaw_463684)
 
 ## DD+ Atmos
 

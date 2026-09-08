@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-woman-of-the-dead_214088)
+[Compare across authors](../compare/index.md?t=TV-woman-of-the-dead_214088)
 
 ## Season 1
 

@@ -5,7 +5,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-convert_1066262)
+* [Compare across authors](../compare/index.md?t=TV-the-convert_1066262)
 
 * Production Year: 2024
 

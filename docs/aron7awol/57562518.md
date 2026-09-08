@@ -1,6 +1,6 @@
 # Robin Hood
 
-[Compare across authors](../../compare/?t=film-robin-hood_375588)
+[Compare across authors](../compare/index.md?t=film-robin-hood_375588)
 
 ## Atmos
 

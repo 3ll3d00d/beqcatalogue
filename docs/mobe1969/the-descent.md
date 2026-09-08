@@ -1,6 +1,6 @@
 # The Descent
 
-[Compare across authors](../../compare/?t=film-the-descent_9392)
+[Compare across authors](../compare/index.md?t=film-the-descent_9392)
 
 ## DTS-HD MA 5.1
 

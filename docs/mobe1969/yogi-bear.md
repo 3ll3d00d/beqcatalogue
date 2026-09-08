@@ -1,6 +1,6 @@
 # Yogi Bear
 
-[Compare across authors](../../compare/?t=film-yogi-bear_41515)
+[Compare across authors](../compare/index.md?t=film-yogi-bear_41515)
 
 ## DTS-HD MA 5.1
 

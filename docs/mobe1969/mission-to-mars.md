@@ -1,6 +1,6 @@
 # Mission to Mars
 
-[Compare across authors](../../compare/?t=film-mission-to-mars_2067)
+[Compare across authors](../compare/index.md?t=film-mission-to-mars_2067)
 
 ## DTS-HD MA 5.1
 

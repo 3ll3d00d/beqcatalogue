@@ -1,6 +1,6 @@
 # Skyrunners
 
-[Compare across authors](../../compare/?t=film-skyrunners_28729)
+[Compare across authors](../compare/index.md?t=film-skyrunners_28729)
 
 ## DD+ 5.1
 

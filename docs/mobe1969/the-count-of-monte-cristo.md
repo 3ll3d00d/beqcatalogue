@@ -1,6 +1,6 @@
 # The Count of Monte Cristo
 
-[Compare across authors](../../compare/?t=film-the-count-of-monte-cristo_11362)
+[Compare across authors](../compare/index.md?t=film-the-count-of-monte-cristo_11362)
 
 ## DTS-HD MA 5.1
 

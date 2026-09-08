@@ -12,7 +12,7 @@ The young daughter of a journalist disappears into the desert without a trace—
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1742?post_id=64618501#post-64618501)  [TMDB](https://www.themoviedb.org/movie/1304313)  [Compare across authors](../../compare/?t=film-lee-cronins-the-mummy_1304313)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1742?post_id=64618501#post-64618501)  [TMDB](https://www.themoviedb.org/movie/1304313)  [Compare across authors](../compare/index.md?t=film-lee-cronins-the-mummy_1304313)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lee%20Cronin's%20The%20Mummy%20(2026)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

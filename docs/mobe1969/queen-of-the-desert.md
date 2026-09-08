@@ -1,6 +1,6 @@
 # Queen of the Desert
 
-[Compare across authors](../../compare/?t=film-queen-of-the-desert_157843)
+[Compare across authors](../compare/index.md?t=film-queen-of-the-desert_157843)
 
 ## DTS-HD MA 5.1
 

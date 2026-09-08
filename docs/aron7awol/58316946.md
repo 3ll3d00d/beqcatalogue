@@ -1,6 +1,6 @@
 # Push
 
-[Compare across authors](../../compare/?t=film-push_13455)
+[Compare across authors](../compare/index.md?t=film-push_13455)
 
 ## Atmos
 

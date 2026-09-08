@@ -1,6 +1,6 @@
 # The Sky Crawlers
 
-[Compare across authors](../../compare/?t=film-the-sky-crawlers_15877)
+[Compare across authors](../compare/index.md?t=film-the-sky-crawlers_15877)
 
 ## DTS-HD MA 5.1
 

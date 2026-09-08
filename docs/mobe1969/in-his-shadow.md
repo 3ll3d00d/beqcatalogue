@@ -1,6 +1,6 @@
 # In His Shadow
 
-[Compare across authors](../../compare/?t=film-in-his-shadow_948050)
+[Compare across authors](../compare/index.md?t=film-in-his-shadow_948050)
 
 ## DD+ Atmos
 

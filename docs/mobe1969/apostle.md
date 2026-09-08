@@ -1,6 +1,6 @@
 # Apostle
 
-[Compare across authors](../../compare/?t=film-apostle_424121)
+[Compare across authors](../compare/index.md?t=film-apostle_424121)
 
 ## DD+ 5.1
 

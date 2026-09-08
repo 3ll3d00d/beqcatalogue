@@ -1,6 +1,6 @@
 # Ivan the Incredible
 
-[Compare across authors](../../compare/?t=film-ivan-the-incredible_132313)
+[Compare across authors](../compare/index.md?t=film-ivan-the-incredible_132313)
 
 ## DTS-HD MA 5.1
 

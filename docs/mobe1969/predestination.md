@@ -1,6 +1,6 @@
 # Predestination
 
-[Compare across authors](../../compare/?t=film-predestination_206487)
+[Compare across authors](../compare/index.md?t=film-predestination_206487)
 
 ## DD+ 5.1, DTS-HD MA 5.1
 

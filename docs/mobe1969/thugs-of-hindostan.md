@@ -1,6 +1,6 @@
 # Thugs of Hindostan
 
-[Compare across authors](../../compare/?t=film-thugs-of-hindostan_472138)
+[Compare across authors](../compare/index.md?t=film-thugs-of-hindostan_472138)
 
 ## Atmos
 

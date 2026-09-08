@@ -1,6 +1,6 @@
 # TÁR
 
-[Compare across authors](../../compare/?t=film-tar_817758)
+[Compare across authors](../compare/index.md?t=film-tar_817758)
 
 ## Atmos, DD+ Atmos
 

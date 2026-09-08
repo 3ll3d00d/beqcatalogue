@@ -1,6 +1,6 @@
 # Enemy of the State
 
-[Compare across authors](../../compare/?t=film-enemy-of-the-state_9798)
+[Compare across authors](../compare/index.md?t=film-enemy-of-the-state_9798)
 
 ## LPCM 5.1, DD+ 5.1
 

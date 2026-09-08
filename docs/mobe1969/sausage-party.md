@@ -1,6 +1,6 @@
 # Sausage Party
 
-[Compare across authors](../../compare/?t=film-sausage-party_223702)
+[Compare across authors](../compare/index.md?t=film-sausage-party_223702)
 
 ## Atmos
 

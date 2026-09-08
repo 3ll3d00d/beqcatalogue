@@ -1,6 +1,6 @@
 # Oz the Great and Powerful
 
-[Compare across authors](../../compare/?t=film-oz-the-great-and-powerful_68728)
+[Compare across authors](../compare/index.md?t=film-oz-the-great-and-powerful_68728)
 
 ## DTS-HD MA 7.1
 

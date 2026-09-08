@@ -1,6 +1,6 @@
 # Wildlike
 
-[Compare across authors](../../compare/?t=film-wildlike_300654)
+[Compare across authors](../compare/index.md?t=film-wildlike_300654)
 
 ## DD+ 5.1
 

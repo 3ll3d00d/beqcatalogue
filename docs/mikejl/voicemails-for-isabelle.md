@@ -7,7 +7,7 @@
 A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/614945)  [Compare across authors](../../compare/?t=film-voicemails-for-isabelle_614945)
+[TMDB](https://www.themoviedb.org/movie/614945)  [Compare across authors](../compare/index.md?t=film-voicemails-for-isabelle_614945)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Voicemails%20for%20Isabelle/Voicemails%20for%20Isabelle%20(2026)%20DD%2B%20Atmos.jpg)

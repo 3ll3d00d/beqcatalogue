@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dirty-john_83251)
+[Compare across authors](../compare/index.md?t=TV-dirty-john_83251)
 
 ## Season 1
 

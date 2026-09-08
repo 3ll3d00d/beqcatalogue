@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-midnight-mass_97400)
+[Compare across authors](../compare/index.md?t=TV-midnight-mass_97400)
 
 ## Season 1
 

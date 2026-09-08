@@ -1,6 +1,6 @@
 # The Toybox
 
-[Compare across authors](../../compare/?t=film-the-toybox_516784)
+[Compare across authors](../compare/index.md?t=film-the-toybox_516784)
 
 ## DD+ 5.1
 

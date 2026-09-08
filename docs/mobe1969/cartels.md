@@ -1,6 +1,6 @@
 # Cartels
 
-[Compare across authors](../../compare/?t=film-cartels_412678)
+[Compare across authors](../compare/index.md?t=film-cartels_412678)
 
 ## DTS-HD MA 5.1
 

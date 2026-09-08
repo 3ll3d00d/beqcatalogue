@@ -1,6 +1,6 @@
 # Golden Job
 
-[Compare across authors](../../compare/?t=film-golden-job_531380)
+[Compare across authors](../compare/index.md?t=film-golden-job_531380)
 
 ## DTS-HD MA 5.1, TrueHD 5.1
 

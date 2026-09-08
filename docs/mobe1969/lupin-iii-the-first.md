@@ -1,6 +1,6 @@
 # Lupin III: The First
 
-[Compare across authors](../../compare/?t=film-lupin-iii-the-first_614587)
+[Compare across authors](../compare/index.md?t=film-lupin-iii-the-first_614587)
 
 ## DD+ 5.1
 

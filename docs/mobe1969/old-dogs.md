@@ -1,6 +1,6 @@
 # Old Dogs
 
-[Compare across authors](../../compare/?t=film-old-dogs_22949)
+[Compare across authors](../compare/index.md?t=film-old-dogs_22949)
 
 ## DTS-HD MA 5.1
 

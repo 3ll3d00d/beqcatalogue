@@ -1,6 +1,6 @@
 # Dead for a Dollar
 
-[Compare across authors](../../compare/?t=film-dead-for-a-dollar_843380)
+[Compare across authors](../compare/index.md?t=film-dead-for-a-dollar_843380)
 
 ## DTS-HD MA 5.1
 

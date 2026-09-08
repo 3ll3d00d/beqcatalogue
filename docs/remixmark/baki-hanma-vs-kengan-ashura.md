@@ -12,7 +12,7 @@ It's the ultimate showdown. The toughest fighters from "Baki Hanma" and "Kengan 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1476?post_id=63400623#post-63400623)  [TMDB](https://www.themoviedb.org/movie/1263421)  [Compare across authors](../../compare/?t=film-baki-hanma-vs-kengan-ashura_1263421)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1476?post_id=63400623#post-63400623)  [TMDB](https://www.themoviedb.org/movie/1263421)  [Compare across authors](../compare/index.md?t=film-baki-hanma-vs-kengan-ashura_1263421)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Baki%20Hanma%20VS%20Kengan%20Ashura%20(2024)%20(EN)%20(%2B5.5%20gain)%20DD%2B.jpg)
@@ -31,7 +31,7 @@ It's the ultimate showdown. The toughest fighters from "Baki Hanma" and "Kengan 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1476?post_id=63400636#post-63400636)  [TMDB](https://www.themoviedb.org/movie/1263421)  [Compare across authors](../../compare/?t=film-baki-hanma-vs-kengan-ashura_1263421)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1476?post_id=63400636#post-63400636)  [TMDB](https://www.themoviedb.org/movie/1263421)  [Compare across authors](../compare/index.md?t=film-baki-hanma-vs-kengan-ashura_1263421)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/Baki%20Hanma%20VS%20Kengan%20Ashura%20(2024)%20(JA)%20(%2B4.5%20gain)%20DD%2B.jpg)

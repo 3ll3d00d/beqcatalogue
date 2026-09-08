@@ -1,6 +1,6 @@
 # Zoolander
 
-[Compare across authors](../../compare/?t=film-zoolander_9398)
+[Compare across authors](../compare/index.md?t=film-zoolander_9398)
 
 ## DTS-HD MA 5.1
 

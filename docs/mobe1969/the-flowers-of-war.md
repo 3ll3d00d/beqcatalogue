@@ -1,6 +1,6 @@
 # The Flowers of War
 
-[Compare across authors](../../compare/?t=film-the-flowers-of-war_76758)
+[Compare across authors](../compare/index.md?t=film-the-flowers-of-war_76758)
 
 ## DTS-HD MA 5.1
 

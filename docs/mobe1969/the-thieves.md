@@ -1,6 +1,6 @@
 # The Thieves
 
-[Compare across authors](../../compare/?t=film-the-thieves_124157)
+[Compare across authors](../compare/index.md?t=film-the-thieves_124157)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Dostana
 
-[Compare across authors](../../compare/?t=film-dostana_14071)
+[Compare across authors](../compare/index.md?t=film-dostana_14071)
 
 ## DD+ 5.1
 

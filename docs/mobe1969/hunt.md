@@ -1,6 +1,6 @@
 # Hunt
 
-[Compare across authors](../../compare/?t=film-hunt_727340)
+[Compare across authors](../compare/index.md?t=film-hunt_727340)
 
 ## TrueHD 5.1
 

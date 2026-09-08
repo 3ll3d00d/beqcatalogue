@@ -1,6 +1,6 @@
 # Hostage
 
-[Compare across authors](../../compare/?t=film-hostage_2026)
+[Compare across authors](../compare/index.md?t=film-hostage_2026)
 
 ## DTS-HD HA 5.1
 

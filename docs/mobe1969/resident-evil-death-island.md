@@ -1,6 +1,6 @@
 # Resident Evil: Death Island
 
-[Compare across authors](../../compare/?t=film-resident-evil-death-island_1083862)
+[Compare across authors](../compare/index.md?t=film-resident-evil-death-island_1083862)
 
 ## Atmos
 

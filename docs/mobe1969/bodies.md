@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-bodies_233629)
+[Compare across authors](../compare/index.md?t=TV-bodies_233629)
 
 ## Season 1
 

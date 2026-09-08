@@ -1,6 +1,6 @@
 # Timeline
 
-[Compare across authors](../../compare/?t=film-timeline_9562)
+[Compare across authors](../compare/index.md?t=film-timeline_9562)
 
 ## DTS-HD MA 5.1
 

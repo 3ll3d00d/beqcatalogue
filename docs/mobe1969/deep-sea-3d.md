@@ -1,6 +1,6 @@
 # Deep Sea 3D
 
-[Compare across authors](../../compare/?t=film-deep-sea-3d_17700)
+[Compare across authors](../compare/index.md?t=film-deep-sea-3d_17700)
 
 ## DTS-HD MA 5.1
 

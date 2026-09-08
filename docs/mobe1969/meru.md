@@ -1,6 +1,6 @@
 # Meru
 
-[Compare across authors](../../compare/?t=film-meru_318279)
+[Compare across authors](../compare/index.md?t=film-meru_318279)
 
 ## DTS-HD MA 5.1
 

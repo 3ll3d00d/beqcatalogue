@@ -1,6 +1,6 @@
 # The Marine 3: Homefront
 
-[Compare across authors](../../compare/?t=film-the-marine-3-homefront_171581)
+[Compare across authors](../compare/index.md?t=film-the-marine-3-homefront_171581)
 
 ## DTS-HD MA 5.1
 

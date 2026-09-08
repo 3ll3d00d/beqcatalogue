@@ -1,6 +1,6 @@
 # Article 15
 
-[Compare across authors](../../compare/?t=film-article-15_597089)
+[Compare across authors](../compare/index.md?t=film-article-15_597089)
 
 ## DD+ 5.1
 

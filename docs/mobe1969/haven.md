@@ -1,6 +1,6 @@
 # Haven
 
-[Compare across authors](../../compare/?t=film-haven_9830)
+[Compare across authors](../compare/index.md?t=film-haven_9830)
 
 ## DD 5.1
 

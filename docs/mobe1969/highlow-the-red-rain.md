@@ -1,6 +1,6 @@
 # HiGH&LOW: The Red Rain
 
-[Compare across authors](../../compare/?t=film-highlow-the-red-rain_451001)
+[Compare across authors](../compare/index.md?t=film-highlow-the-red-rain_451001)
 
 ## DD+ 5.1
 

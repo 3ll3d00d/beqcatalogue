@@ -1,6 +1,6 @@
 # Stowaway
 
-[Compare across authors](../../compare/?t=film-stowaway_559581)
+[Compare across authors](../compare/index.md?t=film-stowaway_559581)
 
 ## DD+ 5.1
 

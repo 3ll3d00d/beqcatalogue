@@ -1,6 +1,6 @@
 # The Hitchhiker's Guide to the Galaxy
 
-[Compare across authors](../../compare/?t=film-the-hitchhikers-guide-to-the-galaxy_7453)
+[Compare across authors](../compare/index.md?t=film-the-hitchhikers-guide-to-the-galaxy_7453)
 
 ## LPCM 5.1
 

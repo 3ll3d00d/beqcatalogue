@@ -1,6 +1,6 @@
 # Peppermint
 
-[Compare across authors](../../compare/?t=film-peppermint_458594)
+[Compare across authors](../compare/index.md?t=film-peppermint_458594)
 
 ## DTS-HD MA 7.1
 

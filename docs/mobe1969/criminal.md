@@ -1,6 +1,6 @@
 # Criminal
 
-[Compare across authors](../../compare/?t=film-criminal_302156)
+[Compare across authors](../compare/index.md?t=film-criminal_302156)
 
 ## DTS-HD MA 5.1
 

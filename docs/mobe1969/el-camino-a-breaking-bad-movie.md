@@ -1,6 +1,6 @@
 # El Camino: A Breaking Bad Movie
 
-[Compare across authors](../../compare/?t=film-el-camino-a-breaking-bad-movie_559969)
+[Compare across authors](../compare/index.md?t=film-el-camino-a-breaking-bad-movie_559969)
 
 ## DD+ Atmos
 

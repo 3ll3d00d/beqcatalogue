@@ -1,6 +1,6 @@
 # The Sixth Sense
 
-[Compare across authors](../../compare/?t=film-the-sixth-sense_745)
+[Compare across authors](../compare/index.md?t=film-the-sixth-sense_745)
 
 ## LPCM 5.1
 

@@ -1,6 +1,6 @@
 # The Silent War
 
-[Compare across authors](../../compare/?t=film-the-silent-war_129070)
+[Compare across authors](../compare/index.md?t=film-the-silent-war_129070)
 
 ## DTS-HD MA 7.1
 

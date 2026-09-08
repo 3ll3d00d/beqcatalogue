@@ -1,6 +1,6 @@
 # Alone and Distracted
 
-[Compare across authors](../../compare/?t=film-alone-and-distracted_137113)
+[Compare across authors](../compare/index.md?t=film-alone-and-distracted_137113)
 
 ## DTS-HD MA 5.1
 

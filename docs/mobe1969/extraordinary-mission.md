@@ -1,6 +1,6 @@
 # Extraordinary Mission
 
-[Compare across authors](../../compare/?t=film-extraordinary-mission_445224)
+[Compare across authors](../compare/index.md?t=film-extraordinary-mission_445224)
 
 ## TrueHD 5.1
 

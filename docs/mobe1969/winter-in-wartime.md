@@ -1,6 +1,6 @@
 # Winter in Wartime
 
-[Compare across authors](../../compare/?t=film-winter-in-wartime_16564)
+[Compare across authors](../compare/index.md?t=film-winter-in-wartime_16564)
 
 ## DTS-HD MA 5.1
 

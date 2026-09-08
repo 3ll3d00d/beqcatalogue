@@ -1,6 +1,6 @@
 # The Scorpion King 3: Battle for Redemption
 
-[Compare across authors](../../compare/?t=film-the-scorpion-king-3-battle-for-redemption_78049)
+[Compare across authors](../compare/index.md?t=film-the-scorpion-king-3-battle-for-redemption_78049)
 
 ## DTS-HD MA 5.1
 

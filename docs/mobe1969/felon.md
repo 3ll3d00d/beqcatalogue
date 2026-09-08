@@ -1,6 +1,6 @@
 # Felon
 
-[Compare across authors](../../compare/?t=film-felon_13012)
+[Compare across authors](../compare/index.md?t=film-felon_13012)
 
 ## TrueHD 5.1
 

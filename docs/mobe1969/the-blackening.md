@@ -1,6 +1,6 @@
 # The Blackening
 
-[Compare across authors](../../compare/?t=film-the-blackening_1008392)
+[Compare across authors](../compare/index.md?t=film-the-blackening_1008392)
 
 ## Atmos
 

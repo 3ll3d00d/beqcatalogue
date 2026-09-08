@@ -1,6 +1,6 @@
 # Shrek the Halls
 
-[Compare across authors](../../compare/?t=film-shrek-the-halls_13394)
+[Compare across authors](../compare/index.md?t=film-shrek-the-halls_13394)
 
 ## DD+ 5.1
 

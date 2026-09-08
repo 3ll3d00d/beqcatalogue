@@ -1,6 +1,6 @@
 # Rohan at the Louvre
 
-[Compare across authors](../../compare/?t=film-rohan-at-the-louvre_1069813)
+[Compare across authors](../compare/index.md?t=film-rohan-at-the-louvre_1069813)
 
 ## DD+ 5.1
 

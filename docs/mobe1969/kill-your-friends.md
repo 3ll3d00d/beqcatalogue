@@ -1,6 +1,6 @@
 # Kill Your Friends
 
-[Compare across authors](../../compare/?t=film-kill-your-friends_318922)
+[Compare across authors](../compare/index.md?t=film-kill-your-friends_318922)
 
 ## DTS-HD MA 5.1
 

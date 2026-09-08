@@ -1,6 +1,6 @@
 # 400 Days
 
-[Compare across authors](../../compare/?t=film-400-days_332502)
+[Compare across authors](../compare/index.md?t=film-400-days_332502)
 
 ## DTS-HD MA 5.1
 

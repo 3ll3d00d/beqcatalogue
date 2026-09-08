@@ -1,6 +1,6 @@
 # Ran
 
-[Compare across authors](../../compare/?t=film-ran_11645)
+[Compare across authors](../compare/index.md?t=film-ran_11645)
 
 ## DTS-HD MA 5.1
 

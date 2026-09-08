@@ -1,6 +1,6 @@
 # Pokémon: Jirachi - Wish Maker
 
-[Compare across authors](../../compare/?t=film-pokemon-jirachi-wish-maker_36218)
+[Compare across authors](../compare/index.md?t=film-pokemon-jirachi-wish-maker_36218)
 
 ## DD 5.1
 

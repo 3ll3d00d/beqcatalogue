@@ -1,6 +1,6 @@
 # Replicant
 
-[Compare across authors](../../compare/?t=film-replicant_10596)
+[Compare across authors](../compare/index.md?t=film-replicant_10596)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Fright Night
 
-[Compare across authors](../../compare/?t=film-fright-night_11797)
+[Compare across authors](../compare/index.md?t=film-fright-night_11797)
 
 ## Atmos
 

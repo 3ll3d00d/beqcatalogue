@@ -1,6 +1,6 @@
 # Mayhem
 
-[Compare across authors](../../compare/?t=film-mayhem_429733)
+[Compare across authors](../compare/index.md?t=film-mayhem_429733)
 
 ## DTS-HD MA 5.1
 

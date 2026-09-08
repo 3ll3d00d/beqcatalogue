@@ -1,6 +1,6 @@
 # Blue
 
-[Compare across authors](../../compare/?t=film-blue_24595)
+[Compare across authors](../compare/index.md?t=film-blue_24595)
 
 ## DD+ 5.1
 

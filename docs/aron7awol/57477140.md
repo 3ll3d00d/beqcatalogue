@@ -1,6 +1,6 @@
 # Reign of the Supermen
 
-[Compare across authors](../../compare/?t=film-reign-of-the-supermen_487672)
+[Compare across authors](../compare/index.md?t=film-reign-of-the-supermen_487672)
 
 ## DTS-HD MA 5.1
 

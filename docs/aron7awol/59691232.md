@@ -1,6 +1,6 @@
 # Days of Thunder
 
-[Compare across authors](../../compare/?t=film-days-of-thunder_2119)
+[Compare across authors](../compare/index.md?t=film-days-of-thunder_2119)
 
 ## TrueHD 5.1
 

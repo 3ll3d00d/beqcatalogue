@@ -1,6 +1,6 @@
 # Zeros and Ones
 
-[Compare across authors](../../compare/?t=film-zeros-and-ones_762433)
+[Compare across authors](../compare/index.md?t=film-zeros-and-ones_762433)
 
 ## DTS-HD MA 5.1
 

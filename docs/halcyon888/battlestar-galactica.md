@@ -11,7 +11,7 @@ After the destruction of the Twelve Colonies of Mankind, the last major fighter 
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62839088)  [TMDB](https://www.themoviedb.org/movie/148980)  [Compare across authors](../../compare/?t=film-battlestar-galactica_148980)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62839088)  [TMDB](https://www.themoviedb.org/movie/148980)  [Compare across authors](../compare/index.md?t=film-battlestar-galactica_148980)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Battlestar%20Galactica%20(1978)%20DTS-HD%20MA%205.1%20PvA%20v2.jpg)

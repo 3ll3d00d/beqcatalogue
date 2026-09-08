@@ -1,6 +1,6 @@
 # The Losers
 
-[Compare across authors](../../compare/?t=film-the-losers_34813)
+[Compare across authors](../compare/index.md?t=film-the-losers_34813)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Good Shepherd
 
-[Compare across authors](../../compare/?t=film-the-good-shepherd_1247)
+[Compare across authors](../compare/index.md?t=film-the-good-shepherd_1247)
 
 ## DTS-HD MA 5.1
 

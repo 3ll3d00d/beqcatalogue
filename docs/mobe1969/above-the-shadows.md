@@ -1,6 +1,6 @@
 # Above the Shadows
 
-[Compare across authors](../../compare/?t=film-above-the-shadows_609734)
+[Compare across authors](../compare/index.md?t=film-above-the-shadows_609734)
 
 ## DTS-HD MA 5.1
 

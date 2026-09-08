@@ -1,6 +1,6 @@
 # Appleseed
 
-[Compare across authors](../../compare/?t=film-appleseed_11633)
+[Compare across authors](../compare/index.md?t=film-appleseed_11633)
 
 ## DTS 5.1
 

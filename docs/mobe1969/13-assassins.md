@@ -1,6 +1,6 @@
 # 13 Assassins
 
-[Compare across authors](../../compare/?t=film-13-assassins_58857)
+[Compare across authors](../compare/index.md?t=film-13-assassins_58857)
 
 ## DTS-HD MA 5.1
 

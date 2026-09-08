@@ -14,7 +14,7 @@ Dialnorm Compensation: all episodes 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1519?post_id=63605873#post-63605873)
 
-* [Compare across authors](../../compare/?t=TV-hysteria_224361)
+* [Compare across authors](../compare/index.md?t=TV-hysteria_224361)
 
 * Production Year: 2024
 

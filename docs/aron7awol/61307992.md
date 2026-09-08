@@ -1,6 +1,6 @@
 # Seal Team
 
-[Compare across authors](../../compare/?t=film-seal-team_823610)
+[Compare across authors](../compare/index.md?t=film-seal-team_823610)
 
 ## DD+ Atmos
 

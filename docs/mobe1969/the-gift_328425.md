@@ -1,6 +1,6 @@
 # The Gift
 
-[Compare across authors](../../compare/?t=film-the-gift_328425)
+[Compare across authors](../compare/index.md?t=film-the-gift_328425)
 
 ## DTS-HD MA 5.1
 

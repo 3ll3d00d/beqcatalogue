@@ -1,6 +1,6 @@
 # Small Engine Repair
 
-[Compare across authors](../../compare/?t=film-small-engine-repair_665896)
+[Compare across authors](../compare/index.md?t=film-small-engine-repair_665896)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Songbird
 
-[Compare across authors](../../compare/?t=film-songbird_721625)
+[Compare across authors](../compare/index.md?t=film-songbird_721625)
 
 ## DTS-HD MA 5.1
 

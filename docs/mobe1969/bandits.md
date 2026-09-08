@@ -1,6 +1,6 @@
 # Bandits
 
-[Compare across authors](../../compare/?t=film-bandits_3172)
+[Compare across authors](../compare/index.md?t=film-bandits_3172)
 
 ## DD+ 5.1
 

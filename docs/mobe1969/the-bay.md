@@ -1,6 +1,6 @@
 # The Bay
 
-[Compare across authors](../../compare/?t=film-the-bay_123105)
+[Compare across authors](../compare/index.md?t=film-the-bay_123105)
 
 ## DTS-HD MA 5.1
 

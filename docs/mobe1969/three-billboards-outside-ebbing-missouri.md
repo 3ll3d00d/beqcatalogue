@@ -1,6 +1,6 @@
 # Three Billboards Outside Ebbing, Missouri
 
-[Compare across authors](../../compare/?t=film-three-billboards-outside-ebbing-missouri_359940)
+[Compare across authors](../compare/index.md?t=film-three-billboards-outside-ebbing-missouri_359940)
 
 ## DTS-HD MA 5.1
 

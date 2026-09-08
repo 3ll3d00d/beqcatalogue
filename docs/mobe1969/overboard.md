@@ -1,6 +1,6 @@
 # Overboard
 
-[Compare across authors](../../compare/?t=film-overboard_454619)
+[Compare across authors](../compare/index.md?t=film-overboard_454619)
 
 ## DD+ 5.1
 

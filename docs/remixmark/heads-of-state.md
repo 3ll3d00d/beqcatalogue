@@ -12,7 +12,7 @@ The UK Prime Minister and US President have a public rivalry that risks their co
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1613?post_id=64075891#post-64075891)  [TMDB](https://www.themoviedb.org/movie/749170)  [Compare across authors](../../compare/?t=film-heads-of-state_749170)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1613?post_id=64075891#post-64075891)  [TMDB](https://www.themoviedb.org/movie/749170)  [Compare across authors](../compare/index.md?t=film-heads-of-state_749170)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Heads%20of%20State%20(2025)%20(-.5%20gain)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # Always Be My Maybe
 
-[Compare across authors](../../compare/?t=film-always-be-my-maybe_513576)
+[Compare across authors](../compare/index.md?t=film-always-be-my-maybe_513576)
 
 ## DD+ 5.1
 

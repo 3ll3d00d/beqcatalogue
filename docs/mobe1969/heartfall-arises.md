@@ -1,6 +1,6 @@
 # Heartfall Arises
 
-[Compare across authors](../../compare/?t=film-heartfall-arises_416309)
+[Compare across authors](../compare/index.md?t=film-heartfall-arises_416309)
 
 ## TrueHD 5.1
 

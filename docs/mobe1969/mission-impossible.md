@@ -1,6 +1,6 @@
 # Mission: Impossible
 
-[Compare across authors](../../compare/?t=film-mission-impossible_954)
+[Compare across authors](../compare/index.md?t=film-mission-impossible_954)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Kumari
 
-[Compare across authors](../../compare/?t=film-kumari_851731)
+[Compare across authors](../compare/index.md?t=film-kumari_851731)
 
 ## DD+ 5.1
 

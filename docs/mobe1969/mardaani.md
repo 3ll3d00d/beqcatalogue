@@ -1,6 +1,6 @@
 # Mardaani
 
-[Compare across authors](../../compare/?t=film-mardaani_287767)
+[Compare across authors](../compare/index.md?t=film-mardaani_287767)
 
 ## DD+ 5.1
 

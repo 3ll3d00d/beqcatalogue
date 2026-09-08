@@ -1,6 +1,6 @@
 # Persuasion
 
-[Compare across authors](../../compare/?t=film-persuasion_820912)
+[Compare across authors](../compare/index.md?t=film-persuasion_820912)
 
 ## DD+ Atmos
 

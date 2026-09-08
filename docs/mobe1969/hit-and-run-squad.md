@@ -1,6 +1,6 @@
 # Hit-and-Run Squad
 
-[Compare across authors](../../compare/?t=film-hit-and-run-squad_568320)
+[Compare across authors](../compare/index.md?t=film-hit-and-run-squad_568320)
 
 ## DTS-HD MA 5.1
 

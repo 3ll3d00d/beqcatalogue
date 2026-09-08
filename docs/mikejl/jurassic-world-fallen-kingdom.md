@@ -7,7 +7,7 @@
 Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/351286)  [Compare across authors](../../compare/?t=film-jurassic-world-fallen-kingdom_351286)
+[TMDB](https://www.themoviedb.org/movie/351286)  [Compare across authors](../compare/index.md?t=film-jurassic-world-fallen-kingdom_351286)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jurassic%20World/Jurassic%20World%20-%20Fallen%20Kingdom%20(2018)%20DTS-X.jpg)

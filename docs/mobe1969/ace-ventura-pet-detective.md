@@ -1,6 +1,6 @@
 # Ace Ventura: Pet Detective
 
-[Compare across authors](../../compare/?t=film-ace-ventura-pet-detective_3049)
+[Compare across authors](../compare/index.md?t=film-ace-ventura-pet-detective_3049)
 
 ## DTS-HD MA 5.1
 

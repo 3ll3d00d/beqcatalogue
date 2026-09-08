@@ -1,6 +1,6 @@
 # Frozen
 
-[Compare across authors](../../compare/?t=film-frozen_44363)
+[Compare across authors](../compare/index.md?t=film-frozen_44363)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Fair Play
 
-[Compare across authors](../../compare/?t=film-fair-play_910571)
+[Compare across authors](../compare/index.md?t=film-fair-play_910571)
 
 ## DD+ Atmos
 

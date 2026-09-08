@@ -1,6 +1,6 @@
 # Dirty Grandpa
 
-[Compare across authors](../../compare/?t=film-dirty-grandpa_291870)
+[Compare across authors](../compare/index.md?t=film-dirty-grandpa_291870)
 
 ## Atmos
 

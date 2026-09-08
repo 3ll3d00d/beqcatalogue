@@ -1,6 +1,6 @@
 # Gatao: The Last Stray
 
-[Compare across authors](../../compare/?t=film-gatao-the-last-stray_779221)
+[Compare across authors](../compare/index.md?t=film-gatao-the-last-stray_779221)
 
 ## DD+ 5.1
 

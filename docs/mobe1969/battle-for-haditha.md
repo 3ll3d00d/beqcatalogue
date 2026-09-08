@@ -1,6 +1,6 @@
 # Battle for Haditha
 
-[Compare across authors](../../compare/?t=film-battle-for-haditha_14111)
+[Compare across authors](../compare/index.md?t=film-battle-for-haditha_14111)
 
 ## DTS-HD MA 5.1
 

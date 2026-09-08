@@ -1,6 +1,6 @@
 # Flash Over
 
-[Compare across authors](../../compare/?t=film-flash-over_949698)
+[Compare across authors](../compare/index.md?t=film-flash-over_949698)
 
 ## AAC 2.0
 

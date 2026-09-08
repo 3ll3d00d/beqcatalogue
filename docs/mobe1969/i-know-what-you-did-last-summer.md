@@ -1,6 +1,6 @@
 # I Know What You Did Last Summer
 
-[Compare across authors](../../compare/?t=film-i-know-what-you-did-last-summer_3597)
+[Compare across authors](../compare/index.md?t=film-i-know-what-you-did-last-summer_3597)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Kill Speed
 
-[Compare across authors](../../compare/?t=film-kill-speed_47467)
+[Compare across authors](../compare/index.md?t=film-kill-speed_47467)
 
 ## DTS-HD MA 5.1
 

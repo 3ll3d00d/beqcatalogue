@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sense8_61664)
+[Compare across authors](../compare/index.md?t=TV-sense8_61664)
 
 ## Season 1
 

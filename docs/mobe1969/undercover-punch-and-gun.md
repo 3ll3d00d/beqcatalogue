@@ -1,6 +1,6 @@
 # Undercover Punch and Gun
 
-[Compare across authors](../../compare/?t=film-undercover-punch-and-gun_367198)
+[Compare across authors](../compare/index.md?t=film-undercover-punch-and-gun_367198)
 
 ## TrueHD 5.1
 

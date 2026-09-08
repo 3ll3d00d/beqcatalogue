@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-young-sherlock_255661)
+* [Compare across authors](../compare/index.md?t=TV-young-sherlock_255661)
 
 * Production Year: 2026
 

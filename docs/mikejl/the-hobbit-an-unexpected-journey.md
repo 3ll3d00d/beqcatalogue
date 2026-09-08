@@ -7,7 +7,7 @@
 Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/49051)  [Compare across authors](../../compare/?t=film-the-hobbit-an-unexpected-journey_49051)
+[TMDB](https://www.themoviedb.org/movie/49051)  [Compare across authors](../compare/index.md?t=film-the-hobbit-an-unexpected-journey_49051)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Hobbit/The%20Hobbit%20-%20An%20Unexpected%20.Journey%20(2012)%20(EC)%20Atmos.jpg)

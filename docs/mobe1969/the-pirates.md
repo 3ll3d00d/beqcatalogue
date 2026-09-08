@@ -1,6 +1,6 @@
 # The Pirates
 
-[Compare across authors](../../compare/?t=film-the-pirates_285213)
+[Compare across authors](../compare/index.md?t=film-the-pirates_285213)
 
 ## DTS-HD MA 5.1
 

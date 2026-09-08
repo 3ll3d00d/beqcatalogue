@@ -1,6 +1,6 @@
 # Kill Ben Lyk
 
-[Compare across authors](../../compare/?t=film-kill-ben-lyk_555104)
+[Compare across authors](../compare/index.md?t=film-kill-ben-lyk_555104)
 
 ## DD+ 5.1
 

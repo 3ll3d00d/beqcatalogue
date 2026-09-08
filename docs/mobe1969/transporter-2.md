@@ -1,6 +1,6 @@
 # Transporter 2
 
-[Compare across authors](../../compare/?t=film-transporter-2_9335)
+[Compare across authors](../compare/index.md?t=film-transporter-2_9335)
 
 ## DTS-HD MA 5.1
 

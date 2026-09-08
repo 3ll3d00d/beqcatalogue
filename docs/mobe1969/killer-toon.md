@@ -1,6 +1,6 @@
 # Killer Toon
 
-[Compare across authors](../../compare/?t=film-killer-toon_204260)
+[Compare across authors](../compare/index.md?t=film-killer-toon_204260)
 
 ## DTS-HD MA 5.1
 

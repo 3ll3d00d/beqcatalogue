@@ -1,6 +1,6 @@
 # Wish Upon
 
-[Compare across authors](../../compare/?t=film-wish-upon_440597)
+[Compare across authors](../compare/index.md?t=film-wish-upon_440597)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # I Think We're Alone Now
 
-[Compare across authors](../../compare/?t=film-i-think-were-alone-now_451877)
+[Compare across authors](../compare/index.md?t=film-i-think-were-alone-now_451877)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Edge of Fear
 
-[Compare across authors](../../compare/?t=film-edge-of-fear_539619)
+[Compare across authors](../compare/index.md?t=film-edge-of-fear_539619)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Shrek the Third
 
-[Compare across authors](../../compare/?t=film-shrek-the-third_810)
+[Compare across authors](../compare/index.md?t=film-shrek-the-third_810)
 
 ## DTS-X
 

@@ -1,6 +1,6 @@
 # Lamhaa
 
-[Compare across authors](../../compare/?t=film-lamhaa_41107)
+[Compare across authors](../compare/index.md?t=film-lamhaa_41107)
 
 ## DD+ 5.1
 

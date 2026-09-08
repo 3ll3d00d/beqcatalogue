@@ -1,6 +1,6 @@
 # The Boy
 
-[Compare across authors](../../compare/?t=film-the-boy_321258)
+[Compare across authors](../compare/index.md?t=film-the-boy_321258)
 
 ## TrueHD 7.1
 

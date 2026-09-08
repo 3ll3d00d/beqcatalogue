@@ -7,7 +7,7 @@
 An amateur filmmaker, struggling to turn his passion into a career, returns home to Loveland with friends determined to obtain irrefutable proof that the cryptid legend of Frogman exists.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1139937)  [Compare across authors](../../compare/?t=film-frogman_1139937)
+[TMDB](https://www.themoviedb.org/movie/1139937)  [Compare across authors](../compare/index.md?t=film-frogman_1139937)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Frogman%20(2023)%20DD%2B%205.1.jpg)

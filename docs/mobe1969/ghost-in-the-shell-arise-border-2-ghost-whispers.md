@@ -1,6 +1,6 @@
 # Ghost in the Shell Arise - Border 2: Ghost Whispers
 
-[Compare across authors](../../compare/?t=film-ghost-in-the-shell-arise-border-2-ghost-whispers_212168)
+[Compare across authors](../compare/index.md?t=film-ghost-in-the-shell-arise-border-2-ghost-whispers_212168)
 
 ## TrueHD 5.1
 

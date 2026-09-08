@@ -14,7 +14,7 @@ Dialnorm Compensation: Ep.1,3-5-3dB, Ep.2-4dB, Ep.6-5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1579?post_id=63952198#post-63952198)
 
-* [Compare across authors](../../compare/?t=TV-black-mirror_42009)
+* [Compare across authors](../compare/index.md?t=TV-black-mirror_42009)
 
 * Production Year: 2011
 

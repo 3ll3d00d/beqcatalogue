@@ -1,6 +1,6 @@
 # Hunter Killer
 
-[Compare across authors](../../compare/?t=film-hunter-killer_399402)
+[Compare across authors](../compare/index.md?t=film-hunter-killer_399402)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # One Ranger
 
-[Compare across authors](../../compare/?t=film-one-ranger_1093994)
+[Compare across authors](../compare/index.md?t=film-one-ranger_1093994)
 
 ## DD+ 5.1
 

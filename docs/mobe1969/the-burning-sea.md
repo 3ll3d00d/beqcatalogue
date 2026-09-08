@@ -1,6 +1,6 @@
 # The Burning Sea
 
-[Compare across authors](../../compare/?t=film-the-burning-sea_623511)
+[Compare across authors](../compare/index.md?t=film-the-burning-sea_623511)
 
 ## Atmos
 

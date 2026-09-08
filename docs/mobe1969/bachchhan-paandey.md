@@ -1,6 +1,6 @@
 # Bachchhan Paandey
 
-[Compare across authors](../../compare/?t=film-bachchhan-paandey_715765)
+[Compare across authors](../compare/index.md?t=film-bachchhan-paandey_715765)
 
 ## DD+ 5.1
 

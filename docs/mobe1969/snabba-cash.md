@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-snabba-cash_119565)
+[Compare across authors](../compare/index.md?t=TV-snabba-cash_119565)
 
 ## Season 1
 

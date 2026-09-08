@@ -1,6 +1,6 @@
 # Gringo
 
-[Compare across authors](../../compare/?t=film-gringo_340022)
+[Compare across authors](../compare/index.md?t=film-gringo_340022)
 
 ## DTS-HD MA 5.1
 

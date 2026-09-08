@@ -1,6 +1,6 @@
 # The Northman
 
-[Compare across authors](../../compare/?t=film-the-northman_639933)
+[Compare across authors](../compare/index.md?t=film-the-northman_639933)
 
 ## Atmos
 

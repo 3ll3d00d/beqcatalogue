@@ -1,6 +1,6 @@
 # What Happens in Vegas
 
-[Compare across authors](../../compare/?t=film-what-happens-in-vegas_9029)
+[Compare across authors](../compare/index.md?t=film-what-happens-in-vegas_9029)
 
 ## DTS-HD MA 5.1
 

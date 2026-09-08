@@ -1,6 +1,6 @@
 # Iratta
 
-[Compare across authors](../../compare/?t=film-iratta_945167)
+[Compare across authors](../compare/index.md?t=film-iratta_945167)
 
 ## DD+ 5.1
 

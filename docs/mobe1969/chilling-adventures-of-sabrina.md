@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-chilling-adventures-of-sabrina_79242)
+[Compare across authors](../compare/index.md?t=TV-chilling-adventures-of-sabrina_79242)
 
 ## Season 4
 

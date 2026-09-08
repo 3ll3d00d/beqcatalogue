@@ -1,6 +1,6 @@
 # Serpico
 
-[Compare across authors](../../compare/?t=film-serpico_9040)
+[Compare across authors](../compare/index.md?t=film-serpico_9040)
 
 ## LPCM 2.0
 

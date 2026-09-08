@@ -1,6 +1,6 @@
 # Inside Out
 
-[Compare across authors](../../compare/?t=film-inside-out_70877)
+[Compare across authors](../compare/index.md?t=film-inside-out_70877)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Doomsday Book
 
-[Compare across authors](../../compare/?t=film-doomsday-book_118624)
+[Compare across authors](../compare/index.md?t=film-doomsday-book_118624)
 
 ## DTS-HD MA 5.1
 

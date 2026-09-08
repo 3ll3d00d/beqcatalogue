@@ -12,7 +12,7 @@ While scavenging the deep ends of a derelict space station, a group of young spa
 +11dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63594472/)  [TMDB](https://www.themoviedb.org/movie/945961)  [Compare across authors](../../compare/?t=film-alien-romulus_945961)
+[Discuss](https://www.avsforum.com/posts/63594472/)  [TMDB](https://www.themoviedb.org/movie/945961)  [Compare across authors](../compare/index.md?t=film-alien-romulus_945961)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Alien%20Romulus%20(2024)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

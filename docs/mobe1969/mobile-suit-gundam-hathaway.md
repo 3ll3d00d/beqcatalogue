@@ -1,6 +1,6 @@
 # Mobile Suit Gundam Hathaway
 
-[Compare across authors](../../compare/?t=film-mobile-suit-gundam-hathaway_685274)
+[Compare across authors](../compare/index.md?t=film-mobile-suit-gundam-hathaway_685274)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Hwayi: A Monster Boy
 
-[Compare across authors](../../compare/?t=film-hwayi-a-monster-boy_214910)
+[Compare across authors](../compare/index.md?t=film-hwayi-a-monster-boy_214910)
 
 ## DTS-HD MA 5.1
 

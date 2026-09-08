@@ -1,6 +1,6 @@
 # Batman: Under the Red Hood
 
-[Compare across authors](../../compare/?t=film-batman-under-the-red-hood_40662)
+[Compare across authors](../compare/index.md?t=film-batman-under-the-red-hood_40662)
 
 ## DTS-HD MA 5.1
 

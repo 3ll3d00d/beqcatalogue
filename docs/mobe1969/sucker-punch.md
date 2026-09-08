@@ -1,6 +1,6 @@
 # Sucker Punch
 
-[Compare across authors](../../compare/?t=film-sucker-punch_23629)
+[Compare across authors](../compare/index.md?t=film-sucker-punch_23629)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Domestics
 
-[Compare across authors](../../compare/?t=film-the-domestics_426814)
+[Compare across authors](../compare/index.md?t=film-the-domestics_426814)
 
 ## DD+ 5.1
 

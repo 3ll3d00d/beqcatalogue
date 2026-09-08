@@ -1,6 +1,6 @@
 # Batman Returns
 
-[Compare across authors](../../compare/?t=film-batman-returns_364)
+[Compare across authors](../compare/index.md?t=film-batman-returns_364)
 
 ## Atmos
 

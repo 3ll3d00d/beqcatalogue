@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-curon_103849)
+[Compare across authors](../compare/index.md?t=TV-curon_103849)
 
 ## Season 1
 

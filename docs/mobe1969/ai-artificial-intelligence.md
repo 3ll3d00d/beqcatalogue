@@ -1,6 +1,6 @@
 # A.I. Artificial Intelligence
 
-[Compare across authors](../../compare/?t=film-ai-artificial-intelligence_644)
+[Compare across authors](../compare/index.md?t=film-ai-artificial-intelligence_644)
 
 ## DTS-HD MA 5.1
 

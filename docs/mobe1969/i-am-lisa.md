@@ -1,6 +1,6 @@
 # I Am Lisa
 
-[Compare across authors](../../compare/?t=film-i-am-lisa_728773)
+[Compare across authors](../compare/index.md?t=film-i-am-lisa_728773)
 
 ## DD+ 5.1
 

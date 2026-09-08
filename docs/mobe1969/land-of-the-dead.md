@@ -1,6 +1,6 @@
 # Land of the Dead
 
-[Compare across authors](../../compare/?t=film-land-of-the-dead_11683)
+[Compare across authors](../compare/index.md?t=film-land-of-the-dead_11683)
 
 ## DTS-HD MA 5.1
 

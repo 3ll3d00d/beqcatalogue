@@ -7,7 +7,7 @@
 Distraught, confused, and half-wild with fear, Sarah Carter emerges alone from the Appalachian cave system where she encountered unspeakable terrors. Unable to plausibly explain to the authorities what happened - or why she's covered in her friends' blood - Sarah is forced back to the subterranean depths to help locate her five missing companions.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/34480)  [Compare across authors](../../compare/?t=film-the-descent-part-2_34480)
+[TMDB](https://www.themoviedb.org/movie/34480)  [Compare across authors](../compare/index.md?t=film-the-descent-part-2_34480)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Descent/The%20Descent%20Part%202%20(2009)%20DTS-HD%20MA%205.1.jpg)

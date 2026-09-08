@@ -7,7 +7,7 @@
 After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1184918)  [Compare across authors](../../compare/?t=film-the-wild-robot_1184918)
+[TMDB](https://www.themoviedb.org/movie/1184918)  [Compare across authors](../compare/index.md?t=film-the-wild-robot_1184918)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Wild%20Robot/The%20Wild%20Robot%20(2024)%20Atmos.jpg)

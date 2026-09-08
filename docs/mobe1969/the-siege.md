@@ -1,6 +1,6 @@
 # The Siege
 
-[Compare across authors](../../compare/?t=film-the-siege_9882)
+[Compare across authors](../compare/index.md?t=film-the-siege_9882)
 
 ## DTS-HD MA 5.1
 

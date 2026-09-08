@@ -1,6 +1,6 @@
 # The Last Days on Mars
 
-[Compare across authors](../../compare/?t=film-the-last-days-on-mars_190847)
+[Compare across authors](../compare/index.md?t=film-the-last-days-on-mars_190847)
 
 ## DTS-HD MA 5.1
 

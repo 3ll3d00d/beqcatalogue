@@ -1,6 +1,6 @@
 # The Possession of Hannah Grace
 
-[Compare across authors](../../compare/?t=film-the-possession-of-hannah-grace_434555)
+[Compare across authors](../compare/index.md?t=film-the-possession-of-hannah-grace_434555)
 
 ## DD+ 5.1
 

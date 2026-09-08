@@ -1,6 +1,6 @@
 # Jeepers Creepers 2
 
-[Compare across authors](../../compare/?t=film-jeepers-creepers-2_11351)
+[Compare across authors](../compare/index.md?t=film-jeepers-creepers-2_11351)
 
 ## DTS-HD MA 5.1
 

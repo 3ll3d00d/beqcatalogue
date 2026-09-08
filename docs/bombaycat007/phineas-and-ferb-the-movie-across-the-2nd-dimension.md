@@ -9,7 +9,7 @@ Phineas and Ferb get trapped in an alternate dimension where the evil Doofenshmi
 
 **MV Adjustment:** +1.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/71689)  [Compare across authors](../../compare/?t=film-phineas-and-ferb-the-movie-across-the-2nd-dimension_71689)
+[TMDB](https://www.themoviedb.org/movie/71689)  [Compare across authors](../compare/index.md?t=film-phineas-and-ferb-the-movie-across-the-2nd-dimension_71689)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/main/Images/Phineas%20and%20Ferb%20the%20Movie%20Across%20the%202nd%20Dimension%20(2011)%20(Dialnorm%20Compensation-4dB)%20(%2B1%20Gain)%20DD%205.1.png)

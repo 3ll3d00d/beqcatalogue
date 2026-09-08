@@ -7,7 +7,7 @@
 The life of internationally renowned artist and activist Nan Goldin is told through her slideshows, intimate interviews, ground-breaking photography, and rare footage of her personal fight to hold the Sackler family accountable for the overdose crisis.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1004663)  [Compare across authors](../../compare/?t=film-all-the-beauty-and-the-bloodshed_1004663)
+[TMDB](https://www.themoviedb.org/movie/1004663)  [Compare across authors](../compare/index.md?t=film-all-the-beauty-and-the-bloodshed_1004663)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/All%20The%20Beauty%20And%20The%20Bloodshed%20(2022)%20DTS-HD%20MA%205.1.jpg)

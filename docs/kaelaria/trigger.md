@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-trigger_238084)
+* [Compare across authors](../compare/index.md?t=TV-trigger_238084)
 
 * Production Year: 2025
 

@@ -12,7 +12,7 @@ Claire Clauster organizes a special Christmas outing when her family forgets her
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1685?post_id=64338328#post-64338328)  [TMDB](https://www.themoviedb.org/movie/1261825)  [Compare across authors](../../compare/?t=film-oh-what-fun_1261825)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1685?post_id=64338328#post-64338328)  [TMDB](https://www.themoviedb.org/movie/1261825)  [Compare across authors](../compare/index.md?t=film-oh-what-fun_1261825)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Oh.%20What.%20Fun.%20(2025)%20(%2B5.5%20gain)%20DD%2BAtmos.jpg)

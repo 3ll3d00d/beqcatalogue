@@ -1,6 +1,6 @@
 # Batman v Superman: Dawn of Justice
 
-[Compare across authors](../../compare/?t=film-batman-v-superman-dawn-of-justice_209112)
+[Compare across authors](../compare/index.md?t=film-batman-v-superman-dawn-of-justice_209112)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Peter Rabbit 2: The Runaway
 
-[Compare across authors](../../compare/?t=film-peter-rabbit-2-the-runaway_522478)
+[Compare across authors](../compare/index.md?t=film-peter-rabbit-2-the-runaway_522478)
 
 ## DD+ 5.1
 

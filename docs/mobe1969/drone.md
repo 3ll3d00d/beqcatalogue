@@ -1,6 +1,6 @@
 # Drone
 
-[Compare across authors](../../compare/?t=film-drone_452068)
+[Compare across authors](../compare/index.md?t=film-drone_452068)
 
 ## DTS-HD MA 5.1
 

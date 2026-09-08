@@ -1,6 +1,6 @@
 # Monk Comes Down the Mountain
 
-[Compare across authors](../../compare/?t=film-monk-comes-down-the-mountain_345235)
+[Compare across authors](../compare/index.md?t=film-monk-comes-down-the-mountain_345235)
 
 ## DD+ 5.1
 

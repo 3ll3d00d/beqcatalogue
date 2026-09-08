@@ -1,6 +1,6 @@
 # The Rock
 
-[Compare across authors](../../compare/?t=film-the-rock_9802)
+[Compare across authors](../compare/index.md?t=film-the-rock_9802)
 
 ## LPCM 5.1, DD+ 5.1
 

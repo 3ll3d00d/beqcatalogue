@@ -1,6 +1,6 @@
 # Fast X
 
-[Compare across authors](../../compare/?t=film-fast-x_385687)
+[Compare across authors](../compare/index.md?t=film-fast-x_385687)
 
 ## Atmos, DD+ Atmos
 

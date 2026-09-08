@@ -1,6 +1,6 @@
 # Flight
 
-[Compare across authors](../../compare/?t=film-flight_87502)
+[Compare across authors](../compare/index.md?t=film-flight_87502)
 
 ## DTS-HD MA 5.1
 

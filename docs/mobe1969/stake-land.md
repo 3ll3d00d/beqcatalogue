@@ -1,6 +1,6 @@
 # Stake Land
 
-[Compare across authors](../../compare/?t=film-stake-land_52015)
+[Compare across authors](../compare/index.md?t=film-stake-land_52015)
 
 ## DTS-HD MA 5.1
 

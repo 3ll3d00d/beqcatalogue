@@ -1,6 +1,6 @@
 # The Green Knight
 
-[Compare across authors](../../compare/?t=film-the-green-knight_559907)
+[Compare across authors](../compare/index.md?t=film-the-green-knight_559907)
 
 ## Atmos
 

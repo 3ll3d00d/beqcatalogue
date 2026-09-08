@@ -1,6 +1,6 @@
 # Khiladi 786
 
-[Compare across authors](../../compare/?t=film-khiladi-786_147767)
+[Compare across authors](../compare/index.md?t=film-khiladi-786_147767)
 
 ## DD 5.1
 

@@ -1,6 +1,6 @@
 # Kung Fu Hustle
 
-[Compare across authors](../../compare/?t=film-kung-fu-hustle_9470)
+[Compare across authors](../compare/index.md?t=film-kung-fu-hustle_9470)
 
 ## LPCM 5.1
 

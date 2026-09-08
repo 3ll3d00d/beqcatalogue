@@ -1,6 +1,6 @@
 # Friday Night Lights
 
-[Compare across authors](../../compare/?t=film-friday-night-lights_13416)
+[Compare across authors](../compare/index.md?t=film-friday-night-lights_13416)
 
 ## DTS-HD MA 5.1
 

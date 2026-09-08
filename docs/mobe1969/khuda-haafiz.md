@@ -1,6 +1,6 @@
 # Khuda Haafiz
 
-[Compare across authors](../../compare/?t=film-khuda-haafiz_719949)
+[Compare across authors](../compare/index.md?t=film-khuda-haafiz_719949)
 
 ## DD+ 5.1
 

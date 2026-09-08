@@ -12,7 +12,7 @@ Wendy Darling, a young girl afraid to leave her childhood home behind, meets Pet
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/420808)  [Compare across authors](../../compare/?t=film-peter-pan-wendy_420808)
+[TMDB](https://www.themoviedb.org/movie/420808)  [Compare across authors](../compare/index.md?t=film-peter-pan-wendy_420808)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Peter%20Pan%20and%20Wendy%202023%20PvA%20v1.jpg)

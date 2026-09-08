@@ -7,7 +7,7 @@
 On the eve of the Second World War, two of the greatest minds of the twentieth century, C.S. Lewis and Sigmund Freud converge for their own personal battle over the existence of God. The film interweaves the lives of Freud and Lewis, past, present, and through fantasy, bursting from the confines of Freud’s study on a dynamic journey.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1025491)  [Compare across authors](../../compare/?t=film-freuds-last-session_1025491)
+[TMDB](https://www.themoviedb.org/movie/1025491)  [Compare across authors](../compare/index.md?t=film-freuds-last-session_1025491)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/freuds%20last%20session%20(2023)%20DD%2B%205.1.jpg)

@@ -1,6 +1,6 @@
 # Monster House
 
-[Compare across authors](../../compare/?t=film-monster-house_9297)
+[Compare across authors](../compare/index.md?t=film-monster-house_9297)
 
 ## DTS-HD MA 5.1
 

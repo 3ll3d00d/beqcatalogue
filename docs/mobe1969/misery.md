@@ -1,6 +1,6 @@
 # Misery
 
-[Compare across authors](../../compare/?t=film-misery_1700)
+[Compare across authors](../compare/index.md?t=film-misery_1700)
 
 ## DTS-HD MA 5.1
 

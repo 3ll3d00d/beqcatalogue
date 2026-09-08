@@ -12,7 +12,7 @@ Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi 
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1226863)  [Compare across authors](../../compare/?t=film-the-super-mario-galaxy-movie_1226863)
+[TMDB](https://www.themoviedb.org/movie/1226863)  [Compare across authors](../compare/index.md?t=film-the-super-mario-galaxy-movie_1226863)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Super%20Mario%20Galaxy%20Movie%20(2026)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

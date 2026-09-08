@@ -1,6 +1,6 @@
 # Red Joan
 
-[Compare across authors](../../compare/?t=film-red-joan_494974)
+[Compare across authors](../compare/index.md?t=film-red-joan_494974)
 
 ## DD+ 5.1
 

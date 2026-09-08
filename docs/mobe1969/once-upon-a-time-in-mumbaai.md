@@ -1,6 +1,6 @@
 # Once Upon a Time in Mumbaai
 
-[Compare across authors](../../compare/?t=film-once-upon-a-time-in-mumbaai_42966)
+[Compare across authors](../compare/index.md?t=film-once-upon-a-time-in-mumbaai_42966)
 
 ## DTS-HD MA 5.1
 

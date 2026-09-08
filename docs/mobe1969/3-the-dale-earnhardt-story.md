@@ -1,6 +1,6 @@
 # 3: The Dale Earnhardt Story
 
-[Compare across authors](../../compare/?t=film-3-the-dale-earnhardt-story_30762)
+[Compare across authors](../compare/index.md?t=film-3-the-dale-earnhardt-story_30762)
 
 ## DD 5.1
 

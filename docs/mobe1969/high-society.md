@@ -1,6 +1,6 @@
 # High Society
 
-[Compare across authors](../../compare/?t=film-high-society_543753)
+[Compare across authors](../compare/index.md?t=film-high-society_543753)
 
 ## DD+ 5.1
 

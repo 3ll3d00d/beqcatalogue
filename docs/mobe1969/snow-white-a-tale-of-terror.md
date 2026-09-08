@@ -1,6 +1,6 @@
 # Snow White: A Tale of Terror
 
-[Compare across authors](../../compare/?t=film-snow-white-a-tale-of-terror_9092)
+[Compare across authors](../compare/index.md?t=film-snow-white-a-tale-of-terror_9092)
 
 ## TrueHD 5.1
 

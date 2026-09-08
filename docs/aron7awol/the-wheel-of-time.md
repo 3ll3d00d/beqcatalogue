@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-wheel-of-time_71914)
+[Compare across authors](../compare/index.md?t=TV-the-wheel-of-time_71914)
 
 ## Season 1
 

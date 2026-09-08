@@ -1,6 +1,6 @@
 # Cloudy with a Chance of Meatballs 2
 
-[Compare across authors](../../compare/?t=film-cloudy-with-a-chance-of-meatballs-2_109451)
+[Compare across authors](../compare/index.md?t=film-cloudy-with-a-chance-of-meatballs-2_109451)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

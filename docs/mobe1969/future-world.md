@@ -1,6 +1,6 @@
 # Future World
 
-[Compare across authors](../../compare/?t=film-future-world_411135)
+[Compare across authors](../compare/index.md?t=film-future-world_411135)
 
 ## DTS-HD MA 5.1
 

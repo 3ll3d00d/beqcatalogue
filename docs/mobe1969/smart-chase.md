@@ -1,6 +1,6 @@
 # S.M.A.R.T. Chase
 
-[Compare across authors](../../compare/?t=film-smart-chase_473920)
+[Compare across authors](../compare/index.md?t=film-smart-chase_473920)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

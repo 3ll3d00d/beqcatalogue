@@ -1,6 +1,6 @@
 # Night of the Creeps
 
-[Compare across authors](../../compare/?t=film-night-of-the-creeps_15762)
+[Compare across authors](../compare/index.md?t=film-night-of-the-creeps_15762)
 
 ## DTS-HD MA 5.1
 

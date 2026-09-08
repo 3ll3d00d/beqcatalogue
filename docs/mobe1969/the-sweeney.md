@@ -1,6 +1,6 @@
 # The Sweeney
 
-[Compare across authors](../../compare/?t=film-the-sweeney_116613)
+[Compare across authors](../compare/index.md?t=film-the-sweeney_116613)
 
 ## DTS-HD MA 5.1
 

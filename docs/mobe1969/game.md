@@ -1,6 +1,6 @@
 # Game
 
-[Compare across authors](../../compare/?t=film-game_60740)
+[Compare across authors](../compare/index.md?t=film-game_60740)
 
 ## DD+ 5.1
 

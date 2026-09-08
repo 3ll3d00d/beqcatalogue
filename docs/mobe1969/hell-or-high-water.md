@@ -1,6 +1,6 @@
 # Hell or High Water
 
-[Compare across authors](../../compare/?t=film-hell-or-high-water_338766)
+[Compare across authors](../compare/index.md?t=film-hell-or-high-water_338766)
 
 ## DTS-HD MA 5.1
 

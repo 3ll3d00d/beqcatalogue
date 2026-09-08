@@ -1,6 +1,6 @@
 # Ghosts of Mars
 
-[Compare across authors](../../compare/?t=film-ghosts-of-mars_10016)
+[Compare across authors](../compare/index.md?t=film-ghosts-of-mars_10016)
 
 ## TrueHD 5.1
 

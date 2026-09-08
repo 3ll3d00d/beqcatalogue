@@ -1,6 +1,6 @@
 # Aeon Flux
 
-[Compare across authors](../../compare/?t=film-aeon-flux_8202)
+[Compare across authors](../compare/index.md?t=film-aeon-flux_8202)
 
 ## DD 5.1, DTS 5.1
 

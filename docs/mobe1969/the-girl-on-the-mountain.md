@@ -1,6 +1,6 @@
 # The Girl on the Mountain
 
-[Compare across authors](../../compare/?t=film-the-girl-on-the-mountain_754342)
+[Compare across authors](../compare/index.md?t=film-the-girl-on-the-mountain_754342)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Incredible Burt Wonderstone
 
-[Compare across authors](../../compare/?t=film-the-incredible-burt-wonderstone_124459)
+[Compare across authors](../compare/index.md?t=film-the-incredible-burt-wonderstone_124459)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 A mother and her young son release unimaginable horrors from the attic of their rural dream home.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/293452)  [Compare across authors](../../compare/?t=film-the-disappointments-room_293452)
+[TMDB](https://www.themoviedb.org/movie/293452)  [Compare across authors](../compare/index.md?t=film-the-disappointments-room_293452)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The%20Disappointments%20Room%20(2016)%20DTS-HD%20MA%205.1.jpg)

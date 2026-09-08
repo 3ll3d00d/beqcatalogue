@@ -1,6 +1,6 @@
 # A Breath Away
 
-[Compare across authors](../../compare/?t=film-a-breath-away_477489)
+[Compare across authors](../compare/index.md?t=film-a-breath-away_477489)
 
 ## DTS-HD MA 5.1
 

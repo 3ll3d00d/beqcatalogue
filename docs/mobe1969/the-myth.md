@@ -1,6 +1,6 @@
 # The Myth
 
-[Compare across authors](../../compare/?t=film-the-myth_11653)
+[Compare across authors](../compare/index.md?t=film-the-myth_11653)
 
 ## DD+ 5.1
 

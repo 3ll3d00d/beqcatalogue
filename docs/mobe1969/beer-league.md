@@ -1,6 +1,6 @@
 # Beer League
 
-[Compare across authors](../../compare/?t=film-beer-league_14137)
+[Compare across authors](../compare/index.md?t=film-beer-league_14137)
 
 ## DD 5.1
 

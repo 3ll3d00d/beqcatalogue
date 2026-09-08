@@ -1,6 +1,6 @@
 # Death on the Nile
 
-[Compare across authors](../../compare/?t=film-death-on-the-nile_505026)
+[Compare across authors](../compare/index.md?t=film-death-on-the-nile_505026)
 
 ## Atmos, DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Insidious: Chapter 2
 
-[Compare across authors](../../compare/?t=film-insidious-chapter-2_91586)
+[Compare across authors](../compare/index.md?t=film-insidious-chapter-2_91586)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

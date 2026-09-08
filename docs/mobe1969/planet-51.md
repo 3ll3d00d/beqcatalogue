@@ -1,6 +1,6 @@
 # Planet 51
 
-[Compare across authors](../../compare/?t=film-planet-51_16866)
+[Compare across authors](../compare/index.md?t=film-planet-51_16866)
 
 ## DTS-HD MA 5.1
 

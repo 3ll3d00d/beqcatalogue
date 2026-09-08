@@ -1,6 +1,6 @@
 # Hunter Hunter
 
-[Compare across authors](../../compare/?t=film-hunter-hunter_759902)
+[Compare across authors](../compare/index.md?t=film-hunter-hunter_759902)
 
 ## DTS-HD MA 5.1
 

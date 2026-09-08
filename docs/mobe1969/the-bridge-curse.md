@@ -1,6 +1,6 @@
 # The Bridge Curse
 
-[Compare across authors](../../compare/?t=film-the-bridge-curse_678489)
+[Compare across authors](../compare/index.md?t=film-the-bridge-curse_678489)
 
 ## DD+ 5.1
 

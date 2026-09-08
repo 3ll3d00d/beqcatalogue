@@ -1,6 +1,6 @@
 # The Willoughbys
 
-[Compare across authors](../../compare/?t=film-the-willoughbys_560044)
+[Compare across authors](../compare/index.md?t=film-the-willoughbys_560044)
 
 ## DD+ Atmos, DD+ 5.1
 

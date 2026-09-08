@@ -10,7 +10,7 @@ An undercover MI6 agent is sent to Berlin during the Cold War to investigate the
 Dialnorm Compensation: 7dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1687?post_id=64347649#post-64347649)  [TMDB](https://www.themoviedb.org/movie/341013)  [Compare across authors](../../compare/?t=film-atomic-blonde_341013)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1687?post_id=64347649#post-64347649)  [TMDB](https://www.themoviedb.org/movie/341013)  [Compare across authors](../compare/index.md?t=film-atomic-blonde_341013)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Atomic%20Blonde%20(2017)%20DD%2B.jpg)

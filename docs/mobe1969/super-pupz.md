@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-super-pupz_194682)
+[Compare across authors](../compare/index.md?t=TV-super-pupz_194682)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Marauders
 
-[Compare across authors](../../compare/?t=film-marauders_359412)
+[Compare across authors](../compare/index.md?t=film-marauders_359412)
 
 ## DTS-HD MA 5.1
 

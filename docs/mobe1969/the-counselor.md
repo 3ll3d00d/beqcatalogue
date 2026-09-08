@@ -1,6 +1,6 @@
 # The Counselor
 
-[Compare across authors](../../compare/?t=film-the-counselor_109091)
+[Compare across authors](../compare/index.md?t=film-the-counselor_109091)
 
 ## DTS-HD MA 5.1
 

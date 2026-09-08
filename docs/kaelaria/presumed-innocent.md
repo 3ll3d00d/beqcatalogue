@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-presumed-innocent_156933)
+* [Compare across authors](../compare/index.md?t=TV-presumed-innocent_156933)
 
 * Production Year: 2024
 

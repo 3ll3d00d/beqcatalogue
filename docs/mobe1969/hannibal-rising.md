@@ -1,6 +1,6 @@
 # Hannibal Rising
 
-[Compare across authors](../../compare/?t=film-hannibal-rising_1248)
+[Compare across authors](../compare/index.md?t=film-hannibal-rising_1248)
 
 ## DTS-HD MA 5.1
 

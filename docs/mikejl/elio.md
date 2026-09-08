@@ -7,7 +7,7 @@
 Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1022787)  [Compare across authors](../../compare/?t=film-elio_1022787)
+[TMDB](https://www.themoviedb.org/movie/1022787)  [Compare across authors](../compare/index.md?t=film-elio_1022787)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/E/elio/Elio%20(2025)%20Atmos.jpg)

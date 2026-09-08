@@ -1,6 +1,6 @@
 # Jeanne du Barry
 
-[Compare across authors](../../compare/?t=film-jeanne-du-barry_921452)
+[Compare across authors](../compare/index.md?t=film-jeanne-du-barry_921452)
 
 ## DTS-HD MA 5.1
 

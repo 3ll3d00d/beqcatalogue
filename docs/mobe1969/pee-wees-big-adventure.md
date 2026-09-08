@@ -1,6 +1,6 @@
 # Pee-Wee's Big Adventure
 
-[Compare across authors](../../compare/?t=film-pee-wees-big-adventure_5683)
+[Compare across authors](../compare/index.md?t=film-pee-wees-big-adventure_5683)
 
 ## DD+ 5.1
 

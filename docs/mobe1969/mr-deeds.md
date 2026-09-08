@@ -1,6 +1,6 @@
 # Mr. Deeds
 
-[Compare across authors](../../compare/?t=film-mr-deeds_2022)
+[Compare across authors](../compare/index.md?t=film-mr-deeds_2022)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # A Call To Spy
 
-[Compare across authors](../../compare/?t=film-a-call-to-spy_589612)
+[Compare across authors](../compare/index.md?t=film-a-call-to-spy_589612)
 
 ## DD+ 5.1
 

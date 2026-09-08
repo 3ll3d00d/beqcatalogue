@@ -1,6 +1,6 @@
 # Girls Trip
 
-[Compare across authors](../../compare/?t=film-girls-trip_417870)
+[Compare across authors](../compare/index.md?t=film-girls-trip_417870)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

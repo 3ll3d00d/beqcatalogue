@@ -1,6 +1,6 @@
 # Savage Salvation
 
-[Compare across authors](../../compare/?t=film-savage-salvation_740952)
+[Compare across authors](../compare/index.md?t=film-savage-salvation_740952)
 
 ## DTS-HD MA 5.1
 

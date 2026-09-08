@@ -1,6 +1,6 @@
 # The Influence
 
-[Compare across authors](../../compare/?t=film-the-influence_605373)
+[Compare across authors](../compare/index.md?t=film-the-influence_605373)
 
 ## DD+ 5.1
 

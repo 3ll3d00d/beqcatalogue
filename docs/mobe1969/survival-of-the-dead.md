@@ -1,6 +1,6 @@
 # Survival of the Dead
 
-[Compare across authors](../../compare/?t=film-survival-of-the-dead_29426)
+[Compare across authors](../compare/index.md?t=film-survival-of-the-dead_29426)
 
 ## DTS-HD MA 5.1
 

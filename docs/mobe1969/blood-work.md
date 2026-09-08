@@ -1,6 +1,6 @@
 # Blood Work
 
-[Compare across authors](../../compare/?t=film-blood-work_9573)
+[Compare across authors](../compare/index.md?t=film-blood-work_9573)
 
 ## DTS-HD MA 5.1
 

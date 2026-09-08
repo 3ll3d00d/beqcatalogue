@@ -1,6 +1,6 @@
 # Alex Rider: Operation Stormbreaker
 
-[Compare across authors](../../compare/?t=film-alex-rider-operation-stormbreaker_9978)
+[Compare across authors](../compare/index.md?t=film-alex-rider-operation-stormbreaker_9978)
 
 ## DTS-HD MA 5.1
 

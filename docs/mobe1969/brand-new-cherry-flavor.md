@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-brand-new-cherry-flavor_129418)
+[Compare across authors](../compare/index.md?t=TV-brand-new-cherry-flavor_129418)
 
 ## Season 1
 

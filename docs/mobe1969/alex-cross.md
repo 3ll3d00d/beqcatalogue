@@ -1,6 +1,6 @@
 # Alex Cross
 
-[Compare across authors](../../compare/?t=film-alex-cross_94348)
+[Compare across authors](../compare/index.md?t=film-alex-cross_94348)
 
 ## DTS-HD MA 5.1
 

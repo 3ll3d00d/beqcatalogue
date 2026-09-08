@@ -1,6 +1,6 @@
 # The Beguiled
 
-[Compare across authors](../../compare/?t=film-the-beguiled_399019)
+[Compare across authors](../compare/index.md?t=film-the-beguiled_399019)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Nocturne
 
-[Compare across authors](../../compare/?t=film-nocturne_643550)
+[Compare across authors](../compare/index.md?t=film-nocturne_643550)
 
 ## DD+ 5.1
 

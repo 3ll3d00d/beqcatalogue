@@ -1,6 +1,6 @@
 # X-Men Origins: Wolverine
 
-[Compare across authors](../../compare/?t=film-x-men-origins-wolverine_2080)
+[Compare across authors](../compare/index.md?t=film-x-men-origins-wolverine_2080)
 
 ## DTS-HD MA 5.1
 

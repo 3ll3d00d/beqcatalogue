@@ -1,6 +1,6 @@
 # For All Mankind
 
-[Compare across authors](../../compare/?t=film-for-all-mankind_20423)
+[Compare across authors](../compare/index.md?t=film-for-all-mankind_20423)
 
 ## DTS-HD MA 5.1
 

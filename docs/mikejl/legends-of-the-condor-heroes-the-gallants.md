@@ -5,7 +5,7 @@
 * DTS-HD MA 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-legends-of-the-condor-heroes-the-gallants_1185528)
+* [Compare across authors](../compare/index.md?t=TV-legends-of-the-condor-heroes-the-gallants_1185528)
 
 * Production Year: 2025
 

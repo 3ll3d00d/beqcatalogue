@@ -1,6 +1,6 @@
 # Yara
 
-[Compare across authors](../../compare/?t=film-yara_747688)
+[Compare across authors](../compare/index.md?t=film-yara_747688)
 
 ## DD+ 5.1
 

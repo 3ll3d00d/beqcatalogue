@@ -1,6 +1,6 @@
 # The Hot Spot
 
-[Compare across authors](../../compare/?t=film-the-hot-spot_14864)
+[Compare across authors](../compare/index.md?t=film-the-hot-spot_14864)
 
 ## DTS-HD MA 5.1
 

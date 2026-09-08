@@ -1,6 +1,6 @@
 # Blood Out
 
-[Compare across authors](../../compare/?t=film-blood-out_54597)
+[Compare across authors](../compare/index.md?t=film-blood-out_54597)
 
 ## DTS-HD MA 5.1
 

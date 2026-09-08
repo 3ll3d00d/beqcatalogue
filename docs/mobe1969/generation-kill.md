@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-generation-kill_17035)
+[Compare across authors](../compare/index.md?t=TV-generation-kill_17035)
 
 ## Season 1
 

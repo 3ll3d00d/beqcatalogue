@@ -1,6 +1,6 @@
 # Guardians of the Galaxy Vol. 3
 
-[Compare across authors](../../compare/?t=film-guardians-of-the-galaxy-vol-3_447365)
+[Compare across authors](../compare/index.md?t=film-guardians-of-the-galaxy-vol-3_447365)
 
 ## Atmos, DD+ Atmos, DTS-HD MA 7.1
 

@@ -1,6 +1,6 @@
 # Broker
 
-[Compare across authors](../../compare/?t=film-broker_736732)
+[Compare across authors](../compare/index.md?t=film-broker_736732)
 
 ## DTS-HD MA 5.1
 

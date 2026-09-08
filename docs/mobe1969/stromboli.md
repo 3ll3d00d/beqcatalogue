@@ -1,6 +1,6 @@
 # Stromboli
 
-[Compare across authors](../../compare/?t=film-stromboli_1034629)
+[Compare across authors](../compare/index.md?t=film-stromboli_1034629)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Secretly, Greatly
 
-[Compare across authors](../../compare/?t=film-secretly-greatly_199584)
+[Compare across authors](../compare/index.md?t=film-secretly-greatly_199584)
 
 ## DTS-HD MA 5.1
 

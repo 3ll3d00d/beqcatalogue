@@ -14,7 +14,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1720?post_id=64502190#post-64502190)
 
-* [Compare across authors](../../compare/?t=TV-the-dinosaurs_313298)
+* [Compare across authors](../compare/index.md?t=TV-the-dinosaurs_313298)
 
 * Production Year: 2026
 

@@ -1,6 +1,6 @@
 # Scrooge: A Christmas Carol
 
-[Compare across authors](../../compare/?t=film-scrooge-a-christmas-carol_1001865)
+[Compare across authors](../compare/index.md?t=film-scrooge-a-christmas-carol_1001865)
 
 ## DD+ 5.1
 

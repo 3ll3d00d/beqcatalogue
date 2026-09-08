@@ -1,6 +1,6 @@
 # Centauro
 
-[Compare across authors](../../compare/?t=film-centauro_852592)
+[Compare across authors](../compare/index.md?t=film-centauro_852592)
 
 ## DD+ Atmos
 

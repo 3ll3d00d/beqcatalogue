@@ -1,6 +1,6 @@
 # As Above, So Below
 
-[Compare across authors](../../compare/?t=film-as-above-so-below_256274)
+[Compare across authors](../compare/index.md?t=film-as-above-so-below_256274)
 
 ## DTS-HD MA 7.1
 

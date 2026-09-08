@@ -1,6 +1,6 @@
 # Sherlock Holmes: A Game of Shadows
 
-[Compare across authors](../../compare/?t=film-sherlock-holmes-a-game-of-shadows_58574)
+[Compare across authors](../compare/index.md?t=film-sherlock-holmes-a-game-of-shadows_58574)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

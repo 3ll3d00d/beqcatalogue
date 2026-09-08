@@ -9,7 +9,7 @@ Lost in a world reclaimed by nature and overrun by mysterious creatures, Ethan, 
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1569?post_id=63896794#post-63896794)  [TMDB](https://www.themoviedb.org/movie/1141182)  [Compare across authors](../../compare/?t=film-die-alone_1141182)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1569?post_id=63896794#post-63896794)  [TMDB](https://www.themoviedb.org/movie/1141182)  [Compare across authors](../compare/index.md?t=film-die-alone_1141182)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Die%20Alone%20(2024)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

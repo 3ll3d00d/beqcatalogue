@@ -1,6 +1,6 @@
 # Virtuality
 
-[Compare across authors](../../compare/?t=film-virtuality_37178)
+[Compare across authors](../compare/index.md?t=film-virtuality_37178)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Two Popes
 
-[Compare across authors](../../compare/?t=film-the-two-popes_551332)
+[Compare across authors](../compare/index.md?t=film-the-two-popes_551332)
 
 ## DD+ Atmos
 

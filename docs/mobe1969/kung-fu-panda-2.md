@@ -1,6 +1,6 @@
 # Kung Fu Panda 2
 
-[Compare across authors](../../compare/?t=film-kung-fu-panda-2_49444)
+[Compare across authors](../compare/index.md?t=film-kung-fu-panda-2_49444)
 
 ## TrueHD 7.1
 

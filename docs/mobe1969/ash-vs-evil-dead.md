@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ash-vs-evil-dead_62264)
+[Compare across authors](../compare/index.md?t=TV-ash-vs-evil-dead_62264)
 
 ## Season 1 Episode 1
 

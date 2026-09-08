@@ -1,6 +1,6 @@
 # Overhaul
 
-[Compare across authors](../../compare/?t=film-overhaul_818511)
+[Compare across authors](../compare/index.md?t=film-overhaul_818511)
 
 ## DD+ Atmos
 

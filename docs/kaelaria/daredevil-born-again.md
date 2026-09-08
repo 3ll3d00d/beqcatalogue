@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-daredevil-born-again_202555)
+* [Compare across authors](../compare/index.md?t=TV-daredevil-born-again_202555)
 
 * Production Year: 2025
 

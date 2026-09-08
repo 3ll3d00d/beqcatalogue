@@ -1,6 +1,6 @@
 # Jarhead 4: Law of Return
 
-[Compare across authors](../../compare/?t=film-jarhead-4-law-of-return_635744)
+[Compare across authors](../compare/index.md?t=film-jarhead-4-law-of-return_635744)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Operator
 
-[Compare across authors](../../compare/?t=film-operator_362185)
+[Compare across authors](../compare/index.md?t=film-operator_362185)
 
 ## TrueHD 5.1
 

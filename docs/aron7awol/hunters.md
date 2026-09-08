@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-hunters_79622)
+[Compare across authors](../compare/index.md?t=TV-hunters_79622)
 
 ## Season 1
 

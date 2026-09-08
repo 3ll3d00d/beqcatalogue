@@ -1,6 +1,6 @@
 # Out of Sight
 
-[Compare across authors](../../compare/?t=film-out-of-sight_1389)
+[Compare across authors](../compare/index.md?t=film-out-of-sight_1389)
 
 ## DTS-HD MA 5.1
 

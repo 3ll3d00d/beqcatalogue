@@ -1,6 +1,6 @@
 # Pirates of the Caribbean: On Stranger Tides
 
-[Compare across authors](../../compare/?t=film-pirates-of-the-caribbean-on-stranger-tides_1865)
+[Compare across authors](../compare/index.md?t=film-pirates-of-the-caribbean-on-stranger-tides_1865)
 
 ## Atmos
 

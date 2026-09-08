@@ -1,6 +1,6 @@
 # Lady in the Water
 
-[Compare across authors](../../compare/?t=film-lady-in-the-water_9697)
+[Compare across authors](../compare/index.md?t=film-lady-in-the-water_9697)
 
 ## DD 5.1
 

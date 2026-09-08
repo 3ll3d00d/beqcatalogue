@@ -1,6 +1,6 @@
 # Two Men in Town
 
-[Compare across authors](../../compare/?t=film-two-men-in-town_254772)
+[Compare across authors](../compare/index.md?t=film-two-men-in-town_254772)
 
 ## DD+ 5.1
 

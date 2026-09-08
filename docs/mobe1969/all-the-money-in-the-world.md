@@ -1,6 +1,6 @@
 # All the Money in the World
 
-[Compare across authors](../../compare/?t=film-all-the-money-in-the-world_446791)
+[Compare across authors](../compare/index.md?t=film-all-the-money-in-the-world_446791)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Wingwomen
 
-[Compare across authors](../../compare/?t=film-wingwomen_1010928)
+[Compare across authors](../compare/index.md?t=film-wingwomen_1010928)
 
 ## DD+ Atmos
 

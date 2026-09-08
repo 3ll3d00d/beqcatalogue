@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-chief-of-staff_89642)
+[Compare across authors](../compare/index.md?t=TV-chief-of-staff_89642)
 
 ## Season 1
 

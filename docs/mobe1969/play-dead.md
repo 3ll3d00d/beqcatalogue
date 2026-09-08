@@ -1,6 +1,6 @@
 # Play Dead
 
-[Compare across authors](../../compare/?t=film-play-dead_1020696)
+[Compare across authors](../compare/index.md?t=film-play-dead_1020696)
 
 ## DTS-HD MA 5.1
 

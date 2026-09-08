@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-lucky_278624)
+* [Compare across authors](../compare/index.md?t=TV-lucky_278624)
 
 * Production Year: 2026
 

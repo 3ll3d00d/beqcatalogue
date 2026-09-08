@@ -1,6 +1,6 @@
 # Birdman or (The Unexpected Virtue of Ignorance)
 
-[Compare across authors](../../compare/?t=film-birdman-or-the-unexpected-virtue-of-ignorance_194662)
+[Compare across authors](../compare/index.md?t=film-birdman-or-the-unexpected-virtue-of-ignorance_194662)
 
 ## DTS-HD MA 5.1
 

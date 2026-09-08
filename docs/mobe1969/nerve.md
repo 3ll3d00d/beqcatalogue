@@ -1,6 +1,6 @@
 # Nerve
 
-[Compare across authors](../../compare/?t=film-nerve_328387)
+[Compare across authors](../compare/index.md?t=film-nerve_328387)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Wayne's World 2
 
-[Compare across authors](../../compare/?t=film-waynes-world-2_8873)
+[Compare across authors](../compare/index.md?t=film-waynes-world-2_8873)
 
 ## TrueHD 5.1
 

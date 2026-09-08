@@ -1,6 +1,6 @@
 # Chasing the Dragon II: Wild Wild Bunch
 
-[Compare across authors](../../compare/?t=film-chasing-the-dragon-ii-wild-wild-bunch_602661)
+[Compare across authors](../compare/index.md?t=film-chasing-the-dragon-ii-wild-wild-bunch_602661)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # I Am Mother
 
-[Compare across authors](../../compare/?t=film-i-am-mother_505948)
+[Compare across authors](../compare/index.md?t=film-i-am-mother_505948)
 
 ## DD+ 5.1
 

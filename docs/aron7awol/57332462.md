@@ -1,6 +1,6 @@
 # The Martian
 
-[Compare across authors](../../compare/?t=film-the-martian_286217)
+[Compare across authors](../compare/index.md?t=film-the-martian_286217)
 
 ## Atmos
 

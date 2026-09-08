@@ -1,6 +1,6 @@
 # CHiPS
 
-[Compare across authors](../../compare/?t=film-chips_417644)
+[Compare across authors](../compare/index.md?t=film-chips_417644)
 
 ## DTS-HD MA 5.1
 

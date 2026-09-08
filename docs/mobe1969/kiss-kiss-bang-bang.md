@@ -1,6 +1,6 @@
 # Kiss Kiss Bang Bang
 
-[Compare across authors](../../compare/?t=film-kiss-kiss-bang-bang_5236)
+[Compare across authors](../compare/index.md?t=film-kiss-kiss-bang-bang_5236)
 
 ## DD 5.1
 

@@ -7,7 +7,7 @@
 Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother. They must protect the kingdom.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/572802)  [Compare across authors](../../compare/?t=film-aquaman-and-the-lost-kingdom_572802)
+[TMDB](https://www.themoviedb.org/movie/572802)  [Compare across authors](../compare/index.md?t=film-aquaman-and-the-lost-kingdom_572802)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Aquaman%20and%20the%20lost%20kingdom%20(2023)%20TrueHD%20Atmos.jpg)

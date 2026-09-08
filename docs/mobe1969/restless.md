@@ -1,6 +1,6 @@
 # Restless
 
-[Compare across authors](../../compare/?t=film-restless_928381)
+[Compare across authors](../compare/index.md?t=film-restless_928381)
 
 ## DD+ 5.1
 

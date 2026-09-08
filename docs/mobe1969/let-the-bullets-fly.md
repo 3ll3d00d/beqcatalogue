@@ -1,6 +1,6 @@
 # Let the Bullets Fly
 
-[Compare across authors](../../compare/?t=film-let-the-bullets-fly_51533)
+[Compare across authors](../compare/index.md?t=film-let-the-bullets-fly_51533)
 
 ## DTS-HD MA 5.1
 

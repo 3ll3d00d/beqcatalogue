@@ -1,6 +1,6 @@
 # The Big Ugly
 
-[Compare across authors](../../compare/?t=film-the-big-ugly_714521)
+[Compare across authors](../compare/index.md?t=film-the-big-ugly_714521)
 
 ## DTS-HD MA 5.1
 

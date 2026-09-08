@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-ghost-bride_98492)
+[Compare across authors](../compare/index.md?t=TV-the-ghost-bride_98492)
 
 ## Season 1
 

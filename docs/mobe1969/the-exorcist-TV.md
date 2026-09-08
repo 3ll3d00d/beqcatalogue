@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-exorcist_67135)
+[Compare across authors](../compare/index.md?t=TV-the-exorcist_67135)
 
 ## Season 1
 

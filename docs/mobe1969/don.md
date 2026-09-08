@@ -1,6 +1,6 @@
 # Don
 
-[Compare across authors](../../compare/?t=film-don_17501)
+[Compare across authors](../compare/index.md?t=film-don_17501)
 
 ## DD+ 5.1
 

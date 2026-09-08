@@ -1,6 +1,6 @@
 # Rise of the Zombies
 
-[Compare across authors](../../compare/?t=film-rise-of-the-zombies_140174)
+[Compare across authors](../compare/index.md?t=film-rise-of-the-zombies_140174)
 
 ## DTS-HD MA 5.1
 

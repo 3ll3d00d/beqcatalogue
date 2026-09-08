@@ -1,6 +1,6 @@
 # Prey for the Devil
 
-[Compare across authors](../../compare/?t=film-prey-for-the-devil_676547)
+[Compare across authors](../compare/index.md?t=film-prey-for-the-devil_676547)
 
 ## Atmos
 

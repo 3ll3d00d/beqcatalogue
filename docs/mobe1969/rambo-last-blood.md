@@ -1,6 +1,6 @@
 # Rambo: Last Blood
 
-[Compare across authors](../../compare/?t=film-rambo-last-blood_522938)
+[Compare across authors](../compare/index.md?t=film-rambo-last-blood_522938)
 
 ## Atmos
 

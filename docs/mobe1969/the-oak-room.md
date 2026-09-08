@@ -1,6 +1,6 @@
 # The Oak Room
 
-[Compare across authors](../../compare/?t=film-the-oak-room_717021)
+[Compare across authors](../compare/index.md?t=film-the-oak-room_717021)
 
 ## DD+ 5.1
 

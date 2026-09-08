@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-black-sails_47665)
+[Compare across authors](../compare/index.md?t=TV-black-sails_47665)
 
 ## Season 1 Episode 1
 

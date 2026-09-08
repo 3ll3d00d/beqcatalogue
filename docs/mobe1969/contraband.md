@@ -1,6 +1,6 @@
 # Contraband
 
-[Compare across authors](../../compare/?t=film-contraband_77866)
+[Compare across authors](../compare/index.md?t=film-contraband_77866)
 
 ## DTS-HD MA 5.1
 

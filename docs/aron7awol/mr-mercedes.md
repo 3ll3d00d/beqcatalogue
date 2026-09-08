@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-mr-mercedes_70485)
+[Compare across authors](../compare/index.md?t=TV-mr-mercedes_70485)
 
 ## Season 1
 

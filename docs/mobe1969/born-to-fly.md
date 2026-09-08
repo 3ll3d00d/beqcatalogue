@@ -1,6 +1,6 @@
 # Born to Fly
 
-[Compare across authors](../../compare/?t=film-born-to-fly_1012837)
+[Compare across authors](../compare/index.md?t=film-born-to-fly_1012837)
 
 ## DD+ 5.1
 

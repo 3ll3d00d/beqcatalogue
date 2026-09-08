@@ -1,6 +1,6 @@
 # Super Me
 
-[Compare across authors](../../compare/?t=film-super-me_603768)
+[Compare across authors](../compare/index.md?t=film-super-me_603768)
 
 ## DD+ 5.1
 

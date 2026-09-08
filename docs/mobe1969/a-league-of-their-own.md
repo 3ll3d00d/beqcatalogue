@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-a-league-of-their-own_107005)
+[Compare across authors](../compare/index.md?t=TV-a-league-of-their-own_107005)
 
 ## Season 1
 

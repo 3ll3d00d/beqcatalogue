@@ -1,6 +1,6 @@
 # The Peanuts Movie
 
-[Compare across authors](../../compare/?t=film-the-peanuts-movie_227973)
+[Compare across authors](../compare/index.md?t=film-the-peanuts-movie_227973)
 
 ## Atmos
 

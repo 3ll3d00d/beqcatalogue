@@ -1,6 +1,6 @@
 # Wazir
 
-[Compare across authors](../../compare/?t=film-wazir_275269)
+[Compare across authors](../compare/index.md?t=film-wazir_275269)
 
 ## Atmos, DD-EX 6.1
 

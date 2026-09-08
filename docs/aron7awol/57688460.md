@@ -1,6 +1,6 @@
 # Dawn of the Planet of the Apes
 
-[Compare across authors](../../compare/?t=film-dawn-of-the-planet-of-the-apes_119450)
+[Compare across authors](../compare/index.md?t=film-dawn-of-the-planet-of-the-apes_119450)
 
 ## DTS-HD MA 7.1
 

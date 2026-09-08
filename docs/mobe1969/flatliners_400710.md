@@ -1,6 +1,6 @@
 # Flatliners
 
-[Compare across authors](../../compare/?t=film-flatliners_400710)
+[Compare across authors](../compare/index.md?t=film-flatliners_400710)
 
 ## DTS-HD MA 5.1
 

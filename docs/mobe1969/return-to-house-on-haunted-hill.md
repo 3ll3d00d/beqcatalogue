@@ -1,6 +1,6 @@
 # Return to House on Haunted Hill
 
-[Compare across authors](../../compare/?t=film-return-to-house-on-haunted-hill_13564)
+[Compare across authors](../compare/index.md?t=film-return-to-house-on-haunted-hill_13564)
 
 ## DD 5.1
 

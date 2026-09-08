@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-luminaries_95211)
+[Compare across authors](../compare/index.md?t=TV-the-luminaries_95211)
 
 ## Season 1
 

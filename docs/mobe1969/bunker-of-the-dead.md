@@ -1,6 +1,6 @@
 # Bunker of the Dead
 
-[Compare across authors](../../compare/?t=film-bunker-of-the-dead_381214)
+[Compare across authors](../compare/index.md?t=film-bunker-of-the-dead_381214)
 
 ## DTS-HD MA 5.1
 

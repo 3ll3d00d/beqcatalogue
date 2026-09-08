@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-invasion_127235)
+[Compare across authors](../compare/index.md?t=TV-invasion_127235)
 
 ## Season 2
 

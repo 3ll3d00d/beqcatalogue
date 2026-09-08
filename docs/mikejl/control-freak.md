@@ -7,7 +7,7 @@
 A motivational speaker, plagued by an uncontrollable itch on her head, becomes infected with a parasitic demon from her homeland.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1286663)  [Compare across authors](../../compare/?t=film-control-freak_1286663)
+[TMDB](https://www.themoviedb.org/movie/1286663)  [Compare across authors](../compare/index.md?t=film-control-freak_1286663)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Control%20Freak/Control%20Freak%20(2025)%20DD%2B%205.1.jpg)

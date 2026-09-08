@@ -1,6 +1,6 @@
 # Nobody Sleeps in the Woods Tonight 2
 
-[Compare across authors](../../compare/?t=film-nobody-sleeps-in-the-woods-tonight-2_871964)
+[Compare across authors](../compare/index.md?t=film-nobody-sleeps-in-the-woods-tonight-2_871964)
 
 ## DD+ 5.1
 

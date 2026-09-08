@@ -1,6 +1,6 @@
 # Crossing Over
 
-[Compare across authors](../../compare/?t=film-crossing-over_15577)
+[Compare across authors](../compare/index.md?t=film-crossing-over_15577)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # City of Life and Death
 
-[Compare across authors](../../compare/?t=film-city-of-life-and-death_21345)
+[Compare across authors](../compare/index.md?t=film-city-of-life-and-death_21345)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Joy
 
-[Compare across authors](../../compare/?t=film-joy_274479)
+[Compare across authors](../compare/index.md?t=film-joy_274479)
 
 ## DTS-HD MA 5.1
 

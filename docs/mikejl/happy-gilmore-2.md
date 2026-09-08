@@ -7,7 +7,7 @@
 Happy Gilmore isn't done with golf — not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1263256)  [Compare across authors](../../compare/?t=film-happy-gilmore-2_1263256)
+[TMDB](https://www.themoviedb.org/movie/1263256)  [Compare across authors](../compare/index.md?t=film-happy-gilmore-2_1263256)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Happy%20Gilmore/Happy%20Gilmore%202%20(2025)%20DD%2B%20Atmos.jpg)

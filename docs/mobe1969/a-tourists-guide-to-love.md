@@ -1,6 +1,6 @@
 # A Tourist's Guide to Love
 
-[Compare across authors](../../compare/?t=film-a-tourists-guide-to-love_813726)
+[Compare across authors](../compare/index.md?t=film-a-tourists-guide-to-love_813726)
 
 ## DD+ Atmos
 

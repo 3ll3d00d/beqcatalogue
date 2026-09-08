@@ -1,6 +1,6 @@
 # Secret Reunion
 
-[Compare across authors](../../compare/?t=film-secret-reunion_50090)
+[Compare across authors](../compare/index.md?t=film-secret-reunion_50090)
 
 ## DTS-HD MA 5.1
 

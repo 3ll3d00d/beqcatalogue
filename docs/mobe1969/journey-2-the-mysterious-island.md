@@ -1,6 +1,6 @@
 # Journey 2: The Mysterious Island
 
-[Compare across authors](../../compare/?t=film-journey-2-the-mysterious-island_72545)
+[Compare across authors](../compare/index.md?t=film-journey-2-the-mysterious-island_72545)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

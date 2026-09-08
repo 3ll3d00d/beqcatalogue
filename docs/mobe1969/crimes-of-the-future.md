@@ -1,6 +1,6 @@
 # Crimes of the Future
 
-[Compare across authors](../../compare/?t=film-crimes-of-the-future_819876)
+[Compare across authors](../compare/index.md?t=film-crimes-of-the-future_819876)
 
 ## DTS-HD MA 5.1
 

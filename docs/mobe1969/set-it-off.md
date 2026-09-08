@@ -1,6 +1,6 @@
 # Set It Off
 
-[Compare across authors](../../compare/?t=film-set-it-off_9400)
+[Compare across authors](../compare/index.md?t=film-set-it-off_9400)
 
 ## DD+ 5.1
 

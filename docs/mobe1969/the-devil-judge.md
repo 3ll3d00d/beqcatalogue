@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-devil-judge_119772)
+[Compare across authors](../compare/index.md?t=TV-the-devil-judge_119772)
 
 ## Season 1
 

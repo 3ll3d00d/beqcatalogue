@@ -1,6 +1,6 @@
 # The Time Capsule
 
-[Compare across authors](../../compare/?t=film-the-time-capsule_974188)
+[Compare across authors](../compare/index.md?t=film-the-time-capsule_974188)
 
 ## DD+ 5.1
 

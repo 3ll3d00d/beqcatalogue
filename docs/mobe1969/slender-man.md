@@ -1,6 +1,6 @@
 # Slender Man
 
-[Compare across authors](../../compare/?t=film-slender-man_439015)
+[Compare across authors](../compare/index.md?t=film-slender-man_439015)
 
 ## DTS-HD MA 5.1
 

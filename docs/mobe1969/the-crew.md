@@ -1,6 +1,6 @@
 # The Crew
 
-[Compare across authors](../../compare/?t=film-the-crew_393717)
+[Compare across authors](../compare/index.md?t=film-the-crew_393717)
 
 ## DD+ 5.1
 

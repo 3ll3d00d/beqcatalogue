@@ -1,6 +1,6 @@
 # Pixie
 
-[Compare across authors](../../compare/?t=film-pixie_651610)
+[Compare across authors](../compare/index.md?t=film-pixie_651610)
 
 ## DD+ 5.1
 

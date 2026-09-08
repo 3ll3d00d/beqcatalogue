@@ -1,6 +1,6 @@
 # Paul Blart: Mall Cop 2
 
-[Compare across authors](../../compare/?t=film-paul-blart-mall-cop-2_256961)
+[Compare across authors](../compare/index.md?t=film-paul-blart-mall-cop-2_256961)
 
 ## DD+ 5.1
 

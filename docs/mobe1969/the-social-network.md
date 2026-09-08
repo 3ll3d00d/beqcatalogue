@@ -1,6 +1,6 @@
 # The Social Network
 
-[Compare across authors](../../compare/?t=film-the-social-network_37799)
+[Compare across authors](../compare/index.md?t=film-the-social-network_37799)
 
 ## Atmos
 

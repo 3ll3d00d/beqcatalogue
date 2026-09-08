@@ -7,7 +7,7 @@
 Pop superstar Jennifer Lopez performs songs from her new album and some of her all-time biggest hits in Los Angeles.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1247217)  [Compare across authors](../../compare/?t=film-apple-music-live-jennifer-lopez_1247217)
+[TMDB](https://www.themoviedb.org/movie/1247217)  [Compare across authors](../compare/index.md?t=film-apple-music-live-jennifer-lopez_1247217)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Apple%20music%20live%20jennifer%20lopez%20(2024)%20DD%2B%20Atmos.jpg)

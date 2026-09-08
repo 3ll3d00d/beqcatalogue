@@ -1,6 +1,6 @@
 # The Strays
 
-[Compare across authors](../../compare/?t=film-the-strays_1063422)
+[Compare across authors](../compare/index.md?t=film-the-strays_1063422)
 
 ## DD+ Atmos
 

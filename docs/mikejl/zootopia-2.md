@@ -7,7 +7,7 @@
 After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1084242)  [Compare across authors](../../compare/?t=film-zootopia-2_1084242)
+[TMDB](https://www.themoviedb.org/movie/1084242)  [Compare across authors](../compare/index.md?t=film-zootopia-2_1084242)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/Z/Zootopia/Zootopia%202%20(2025)%204K%20HDR%20DD%2B%20Atmos.jpg)
@@ -21,7 +21,7 @@ After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps an
 After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1084242)  [Compare across authors](../../compare/?t=film-zootopia-2_1084242)
+[TMDB](https://www.themoviedb.org/movie/1084242)  [Compare across authors](../compare/index.md?t=film-zootopia-2_1084242)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/Z/Zootopia/Zootopia%202%20(2025)%202K%20DTS-HD%20MA%207.1.jpg)

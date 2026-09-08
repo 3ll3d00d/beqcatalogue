@@ -1,6 +1,6 @@
 # Justice League Dark
 
-[Compare across authors](../../compare/?t=film-justice-league-dark_408220)
+[Compare across authors](../compare/index.md?t=film-justice-league-dark_408220)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Paradise Hills
 
-[Compare across authors](../../compare/?t=film-paradise-hills_487083)
+[Compare across authors](../compare/index.md?t=film-paradise-hills_487083)
 
 ## DD+ 5.1
 

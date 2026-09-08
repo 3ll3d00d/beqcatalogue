@@ -1,6 +1,6 @@
 # The Matrix Reloaded
 
-[Compare across authors](../../compare/?t=film-the-matrix-reloaded_604)
+[Compare across authors](../compare/index.md?t=film-the-matrix-reloaded_604)
 
 ## Atmos
 

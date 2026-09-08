@@ -1,6 +1,6 @@
 # Mom and Dad
 
-[Compare across authors](../../compare/?t=film-mom-and-dad_401561)
+[Compare across authors](../compare/index.md?t=film-mom-and-dad_401561)
 
 ## DTS-HD MA 5.1
 

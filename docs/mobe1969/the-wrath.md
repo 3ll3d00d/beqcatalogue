@@ -1,6 +1,6 @@
 # The Wrath
 
-[Compare across authors](../../compare/?t=film-the-wrath_553350)
+[Compare across authors](../compare/index.md?t=film-the-wrath_553350)
 
 ## TrueHD 7.1
 

@@ -1,6 +1,6 @@
 # Seized
 
-[Compare across authors](../../compare/?t=film-seized_572751)
+[Compare across authors](../compare/index.md?t=film-seized_572751)
 
 ## DTS-HD MA 5.1
 

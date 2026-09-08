@@ -1,6 +1,6 @@
 # Big Hero 6
 
-[Compare across authors](../../compare/?t=film-big-hero-6_177572)
+[Compare across authors](../compare/index.md?t=film-big-hero-6_177572)
 
 ## Atmos
 

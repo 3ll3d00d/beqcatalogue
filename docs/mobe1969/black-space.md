@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-black-space_116569)
+[Compare across authors](../compare/index.md?t=TV-black-space_116569)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Tomb Raider
 
-[Compare across authors](../../compare/?t=film-tomb-raider_338970)
+[Compare across authors](../compare/index.md?t=film-tomb-raider_338970)
 
 ## Atmos
 

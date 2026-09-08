@@ -1,6 +1,6 @@
 # Fatal Move
 
-[Compare across authors](../../compare/?t=film-fatal-move_25655)
+[Compare across authors](../compare/index.md?t=film-fatal-move_25655)
 
 ## DTS-HD MA 5.1
 

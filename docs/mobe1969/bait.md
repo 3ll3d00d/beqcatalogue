@@ -1,6 +1,6 @@
 # Bait
 
-[Compare across authors](../../compare/?t=film-bait_118957)
+[Compare across authors](../compare/index.md?t=film-bait_118957)
 
 ## TrueHD 7.1
 

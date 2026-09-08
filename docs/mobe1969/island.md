@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-island_211747)
+[Compare across authors](../compare/index.md?t=TV-island_211747)
 
 ## Season 1
 

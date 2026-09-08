@@ -1,6 +1,6 @@
 # Winnie the Pooh: Blood and Honey
 
-[Compare across authors](../../compare/?t=film-winnie-the-pooh-blood-and-honey_980078)
+[Compare across authors](../compare/index.md?t=film-winnie-the-pooh-blood-and-honey_980078)
 
 ## DTS-HD 5.1
 

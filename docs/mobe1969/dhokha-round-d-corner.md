@@ -1,6 +1,6 @@
 # Dhokha: Round D Corner
 
-[Compare across authors](../../compare/?t=film-dhokha-round-d-corner_1005581)
+[Compare across authors](../compare/index.md?t=film-dhokha-round-d-corner_1005581)
 
 ## DD+ 5.1
 

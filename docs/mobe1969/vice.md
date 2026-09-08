@@ -1,6 +1,6 @@
 # Vice
 
-[Compare across authors](../../compare/?t=film-vice_307663)
+[Compare across authors](../compare/index.md?t=film-vice_307663)
 
 ## DTS-HD MA 5.1
 

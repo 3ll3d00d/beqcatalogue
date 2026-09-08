@@ -1,6 +1,6 @@
 # Born a Champion
 
-[Compare across authors](../../compare/?t=film-born-a-champion_766931)
+[Compare across authors](../compare/index.md?t=film-born-a-champion_766931)
 
 ## DTS-HD MA 5.1
 

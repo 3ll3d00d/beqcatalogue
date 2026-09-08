@@ -1,6 +1,6 @@
 # HELL DOGS
 
-[Compare across authors](../../compare/?t=film-hell-dogs_910371)
+[Compare across authors](../compare/index.md?t=film-hell-dogs_910371)
 
 ## DD+ 5.1
 

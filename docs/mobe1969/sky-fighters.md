@@ -1,6 +1,6 @@
 # Sky Fighters
 
-[Compare across authors](../../compare/?t=film-sky-fighters_80353)
+[Compare across authors](../compare/index.md?t=film-sky-fighters_80353)
 
 ## TrueHD 5.1
 

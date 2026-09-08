@@ -9,7 +9,7 @@ After breaking the mysterious "One Wish Willow" to win his crush's heart, a hope
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1753?post_id=64692107#post-64692107)  [TMDB](https://www.themoviedb.org/movie/1339713)  [Compare across authors](../../compare/?t=film-obsession_1339713)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1753?post_id=64692107#post-64692107)  [TMDB](https://www.themoviedb.org/movie/1339713)  [Compare across authors](../compare/index.md?t=film-obsession_1339713)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Obsession%20(2026)%20(%2B6%20gain)%20Atmos.jpg)
@@ -27,7 +27,7 @@ After breaking the mysterious "One Wish Willow" to win his crush's heart, a hope
 
 **MV Adjustment:** +8.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1751?post_id=64683970#post-64683970)  [TMDB](https://www.themoviedb.org/movie/1339713)  [Compare across authors](../../compare/?t=film-obsession_1339713)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1751?post_id=64683970#post-64683970)  [TMDB](https://www.themoviedb.org/movie/1339713)  [Compare across authors](../compare/index.md?t=film-obsession_1339713)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Obsession%20(2026)%20(%2B8.5%20gain)%20DD%2B.jpg)
@@ -43,7 +43,7 @@ After breaking the mysterious "One Wish Willow" to win his crush's heart, a hope
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1751?post_id=64684300#post-64684300)  [TMDB](https://www.themoviedb.org/movie/1339713)  [Compare across authors](../../compare/?t=film-obsession_1339713)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1751?post_id=64684300#post-64684300)  [TMDB](https://www.themoviedb.org/movie/1339713)  [Compare across authors](../compare/index.md?t=film-obsession_1339713)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Obsession%20(2026)%20(%2B7%20gain)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # Predator 2
 
-[Compare across authors](../../compare/?t=film-predator-2_169)
+[Compare across authors](../compare/index.md?t=film-predator-2_169)
 
 ## DTS-HD MA 5.1
 

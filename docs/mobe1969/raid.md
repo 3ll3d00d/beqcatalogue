@@ -1,6 +1,6 @@
 # Raid
 
-[Compare across authors](../../compare/?t=film-raid_503838)
+[Compare across authors](../compare/index.md?t=film-raid_503838)
 
 ## DTS-HD MA 5.1
 

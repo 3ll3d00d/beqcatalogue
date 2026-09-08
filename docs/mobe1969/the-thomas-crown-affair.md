@@ -1,6 +1,6 @@
 # The Thomas Crown Affair
 
-[Compare across authors](../../compare/?t=film-the-thomas-crown-affair_913)
+[Compare across authors](../compare/index.md?t=film-the-thomas-crown-affair_913)
 
 ## DTS-HD MA 5.1
 

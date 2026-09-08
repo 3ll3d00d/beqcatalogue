@@ -1,6 +1,6 @@
 # The Climbers
 
-[Compare across authors](../../compare/?t=film-the-climbers_601493)
+[Compare across authors](../compare/index.md?t=film-the-climbers_601493)
 
 ## AAC 5.1
 

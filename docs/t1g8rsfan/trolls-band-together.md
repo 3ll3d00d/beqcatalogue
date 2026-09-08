@@ -12,7 +12,7 @@ When Branch’s brother, Floyd, is kidnapped for his musical talents by a pair o
 +2dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62964931)  [TMDB](https://www.themoviedb.org/movie/901362)  [Compare across authors](../../compare/?t=film-trolls-band-together_901362)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62964931)  [TMDB](https://www.themoviedb.org/movie/901362)  [Compare across authors](../compare/index.md?t=film-trolls-band-together_901362)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Trolls%20Band%20Together%20(2023)%20(%2B6.5%20gain)%20DD%2B%20Atmos.jpg)

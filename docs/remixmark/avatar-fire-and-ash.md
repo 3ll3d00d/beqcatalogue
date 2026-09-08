@@ -12,7 +12,7 @@ In the wake of the devastating war against the RDA and the loss of their eldest 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1742?post_id=64617268#post-64617268)  [TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../../compare/?t=film-avatar-fire-and-ash_83533)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1742?post_id=64617268#post-64617268)  [TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../compare/index.md?t=film-avatar-fire-and-ash_83533)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Avatar%20Fire%20and%20Ash%20(2025)%20(%2B1.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ In the wake of the devastating war against the RDA and the loss of their eldest 
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1729?post_id=64545793#post-64545793)  [TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../../compare/?t=film-avatar-fire-and-ash_83533)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1729?post_id=64545793#post-64545793)  [TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../compare/index.md?t=film-avatar-fire-and-ash_83533)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Avatar%20Fire%20and%20Ash%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
@@ -47,7 +47,7 @@ In the wake of the devastating war against the RDA and the loss of their eldest 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64622159#post-64622159)  [TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../../compare/?t=film-avatar-fire-and-ash_83533)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1743?post_id=64622159#post-64622159)  [TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../compare/index.md?t=film-avatar-fire-and-ash_83533)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Avatar%20Fire%20and%20Ash%20(2025)%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)

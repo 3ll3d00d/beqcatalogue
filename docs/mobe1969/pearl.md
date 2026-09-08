@@ -1,6 +1,6 @@
 # Pearl
 
-[Compare across authors](../../compare/?t=film-pearl_949423)
+[Compare across authors](../compare/index.md?t=film-pearl_949423)
 
 ## DTS-HD MA 5.1, DD+ Atmos
 

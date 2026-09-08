@@ -1,6 +1,6 @@
 # Royal Space Force - The Wings Of Honneamise
 
-[Compare across authors](../../compare/?t=film-royal-space-force-the-wings-of-honneamise_20043)
+[Compare across authors](../compare/index.md?t=film-royal-space-force-the-wings-of-honneamise_20043)
 
 ## TrueHD 5.1
 

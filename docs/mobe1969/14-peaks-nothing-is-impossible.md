@@ -1,6 +1,6 @@
 # 14 Peaks: Nothing Is Impossible
 
-[Compare across authors](../../compare/?t=film-14-peaks-nothing-is-impossible_890825)
+[Compare across authors](../compare/index.md?t=film-14-peaks-nothing-is-impossible_890825)
 
 ## DD+ Atmos
 

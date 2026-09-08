@@ -1,6 +1,6 @@
 # A Classic Horror Story
 
-[Compare across authors](../../compare/?t=film-a-classic-horror-story_768334)
+[Compare across authors](../compare/index.md?t=film-a-classic-horror-story_768334)
 
 ## DD+ 5.1
 

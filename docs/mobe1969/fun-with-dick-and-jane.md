@@ -1,6 +1,6 @@
 # Fun with Dick and Jane
 
-[Compare across authors](../../compare/?t=film-fun-with-dick-and-jane_7552)
+[Compare across authors](../compare/index.md?t=film-fun-with-dick-and-jane_7552)
 
 ## DD+ 5.1
 

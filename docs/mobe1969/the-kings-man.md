@@ -1,6 +1,6 @@
 # The King's Man
 
-[Compare across authors](../../compare/?t=film-the-kings-man_476669)
+[Compare across authors](../compare/index.md?t=film-the-kings-man_476669)
 
 ## Atmos
 

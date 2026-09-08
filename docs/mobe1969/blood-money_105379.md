@@ -1,6 +1,6 @@
 # Blood Money
 
-[Compare across authors](../../compare/?t=film-blood-money_105379)
+[Compare across authors](../compare/index.md?t=film-blood-money_105379)
 
 ## DD+ 5.1
 

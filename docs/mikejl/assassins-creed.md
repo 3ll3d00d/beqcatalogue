@@ -7,7 +7,7 @@
 Through a technology that unlocks the generic memories of his ancestor in 15th century Spain, Callum Lynch discovers he is a descendant of an ancient line of Assassins and amasses lethal skills to take on the oppressive Templar Order.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/121856)  [Compare across authors](../../compare/?t=film-assassins-creed_121856)
+[TMDB](https://www.themoviedb.org/movie/121856)  [Compare across authors](../compare/index.md?t=film-assassins-creed_121856)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Assassins%20Creed/Assassins%20Creed%20(2016)%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # The Black Book
 
-[Compare across authors](../../compare/?t=film-the-black-book_1172009)
+[Compare across authors](../compare/index.md?t=film-the-black-book_1172009)
 
 ## DD+ 5.1
 

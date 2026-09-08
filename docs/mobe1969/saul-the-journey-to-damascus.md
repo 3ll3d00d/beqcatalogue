@@ -1,6 +1,6 @@
 # Saul: The Journey to Damascus
 
-[Compare across authors](../../compare/?t=film-saul-the-journey-to-damascus_301872)
+[Compare across authors](../compare/index.md?t=film-saul-the-journey-to-damascus_301872)
 
 ## DD+ 5.1
 

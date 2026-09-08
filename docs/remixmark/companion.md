@@ -12,7 +12,7 @@ During a weekend getaway at a secluded lakeside estate, a group of friends finds
 DD+ Atmos Only Dialnorm Compensation: 3dB. No main volume adjustment for DD+.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1561?post_id=63848512#post-63848512)  [TMDB](https://www.themoviedb.org/movie/1084199)  [Compare across authors](../../compare/?t=film-companion_1084199)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1561?post_id=63848512#post-63848512)  [TMDB](https://www.themoviedb.org/movie/1084199)  [Compare across authors](../compare/index.md?t=film-companion_1084199)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Companion%20(2025)%20(%2B6%20gain)%20DD%2B%20Atmos.jpg)

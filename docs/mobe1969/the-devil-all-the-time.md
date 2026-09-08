@@ -1,6 +1,6 @@
 # The Devil All The Time
 
-[Compare across authors](../../compare/?t=film-the-devil-all-the-time_499932)
+[Compare across authors](../compare/index.md?t=film-the-devil-all-the-time_499932)
 
 ## DD+ Atmos, DD+ 5.1
 

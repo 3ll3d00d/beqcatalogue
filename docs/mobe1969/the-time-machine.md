@@ -1,6 +1,6 @@
 # The Time Machine
 
-[Compare across authors](../../compare/?t=film-the-time-machine_2135)
+[Compare across authors](../compare/index.md?t=film-the-time-machine_2135)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Exodus: Gods and Kings
 
-[Compare across authors](../../compare/?t=film-exodus-gods-and-kings_147441)
+[Compare across authors](../compare/index.md?t=film-exodus-gods-and-kings_147441)
 
 ## DTS-HD MA 7.1
 

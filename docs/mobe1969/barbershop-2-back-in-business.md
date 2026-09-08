@@ -1,6 +1,6 @@
 # Barbershop 2: Back in Business
 
-[Compare across authors](../../compare/?t=film-barbershop-2-back-in-business_21301)
+[Compare across authors](../compare/index.md?t=film-barbershop-2-back-in-business_21301)
 
 ## DD+ 5.1
 

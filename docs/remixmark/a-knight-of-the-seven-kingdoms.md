@@ -14,7 +14,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1702?post_id=64424824#post-64424824)
 
-* [Compare across authors](../../compare/?t=TV-a-knight-of-the-seven-kingdoms_224372)
+* [Compare across authors](../compare/index.md?t=TV-a-knight-of-the-seven-kingdoms_224372)
 
 * Production Year: 2026
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1705?post_id=64437900#post-64437900)
 
-* [Compare across authors](../../compare/?t=TV-a-knight-of-the-seven-kingdoms_224372)
+* [Compare across authors](../compare/index.md?t=TV-a-knight-of-the-seven-kingdoms_224372)
 
 * Production Year: 2026
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1708?post_id=64449834#post-64449834)
 
-* [Compare across authors](../../compare/?t=TV-a-knight-of-the-seven-kingdoms_224372)
+* [Compare across authors](../compare/index.md?t=TV-a-knight-of-the-seven-kingdoms_224372)
 
 * Production Year: 2026
 
@@ -80,7 +80,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64458307#post-64458307)
 
-* [Compare across authors](../../compare/?t=TV-a-knight-of-the-seven-kingdoms_224372)
+* [Compare across authors](../compare/index.md?t=TV-a-knight-of-the-seven-kingdoms_224372)
 
 * Production Year: 2026
 
@@ -102,7 +102,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1713?post_id=64473012#post-64473012)
 
-* [Compare across authors](../../compare/?t=TV-a-knight-of-the-seven-kingdoms_224372)
+* [Compare across authors](../compare/index.md?t=TV-a-knight-of-the-seven-kingdoms_224372)
 
 * Production Year: 2026
 
@@ -122,7 +122,7 @@ Dialnorm Compensation: 7dB
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-a-knight-of-the-seven-kingdoms_224372)
+* [Compare across authors](../compare/index.md?t=TV-a-knight-of-the-seven-kingdoms_224372)
 
 * Production Year: 2026
 

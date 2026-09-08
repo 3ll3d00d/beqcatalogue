@@ -1,6 +1,6 @@
 # Chicken Little
 
-[Compare across authors](../../compare/?t=film-chicken-little_9982)
+[Compare across authors](../compare/index.md?t=film-chicken-little_9982)
 
 ## DTS-HD MA 5.1
 

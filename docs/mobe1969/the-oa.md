@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-oa_69061)
+[Compare across authors](../compare/index.md?t=TV-the-oa_69061)
 
 ## Season 1
 

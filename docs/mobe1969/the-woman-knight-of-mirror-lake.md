@@ -1,6 +1,6 @@
 # The Woman Knight of Mirror Lake
 
-[Compare across authors](../../compare/?t=film-the-woman-knight-of-mirror-lake_79992)
+[Compare across authors](../compare/index.md?t=film-the-woman-knight-of-mirror-lake_79992)
 
 ## DTS-HD MA 5.1
 

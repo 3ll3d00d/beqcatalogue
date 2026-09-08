@@ -1,6 +1,6 @@
 # TANG AND ME
 
-[Compare across authors](../../compare/?t=film-tang-and-me_961415)
+[Compare across authors](../compare/index.md?t=film-tang-and-me_961415)
 
 ## DD+ 5.1
 

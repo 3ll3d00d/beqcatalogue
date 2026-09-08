@@ -1,6 +1,6 @@
 # Oblivion Island: Haruka and the Magic Mirror
 
-[Compare across authors](../../compare/?t=film-oblivion-island-haruka-and-the-magic-mirror_39544)
+[Compare across authors](../compare/index.md?t=film-oblivion-island-haruka-and-the-magic-mirror_39544)
 
 ## TrueHD 5.1
 

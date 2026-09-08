@@ -1,6 +1,6 @@
 # Out of Death
 
-[Compare across authors](../../compare/?t=film-out-of-death_774714)
+[Compare across authors](../compare/index.md?t=film-out-of-death_774714)
 
 ## DTS-HD MA 5.1
 

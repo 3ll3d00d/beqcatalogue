@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-one-piece_111110)
+[Compare across authors](../compare/index.md?t=TV-one-piece_111110)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Profile
 
-[Compare across authors](../../compare/?t=film-profile_493675)
+[Compare across authors](../compare/index.md?t=film-profile_493675)
 
 ## DD+ 5.1
 

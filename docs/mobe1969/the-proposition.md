@@ -1,6 +1,6 @@
 # The Proposition
 
-[Compare across authors](../../compare/?t=film-the-proposition_16608)
+[Compare across authors](../compare/index.md?t=film-the-proposition_16608)
 
 ## DTS-HD MA 5.1
 

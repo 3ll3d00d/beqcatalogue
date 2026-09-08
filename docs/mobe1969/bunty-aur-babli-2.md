@@ -1,6 +1,6 @@
 # Bunty Aur Babli 2
 
-[Compare across authors](../../compare/?t=film-bunty-aur-babli-2_666390)
+[Compare across authors](../compare/index.md?t=film-bunty-aur-babli-2_666390)
 
 ## DD+ 5.1
 

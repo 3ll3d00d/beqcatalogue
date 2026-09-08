@@ -11,7 +11,7 @@ Jason Voorhees is tracked down and blown to bits by a special FBI task force, re
 
 **MV Adjustment:** -4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1592?post_id=64009885#post-64009885)  [TMDB](https://www.themoviedb.org/movie/10285)  [Compare across authors](../../compare/?t=film-jason-goes-to-hell-the-final-friday_10285)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1592?post_id=64009885#post-64009885)  [TMDB](https://www.themoviedb.org/movie/10285)  [Compare across authors](../compare/index.md?t=film-jason-goes-to-hell-the-final-friday_10285)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jason%20Goes%20to%20Hell%20The%20Final%20Friday%20(1993)%20(-4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

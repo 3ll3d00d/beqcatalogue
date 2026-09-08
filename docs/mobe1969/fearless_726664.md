@@ -1,6 +1,6 @@
 # Fearless
 
-[Compare across authors](../../compare/?t=film-fearless_726664)
+[Compare across authors](../compare/index.md?t=film-fearless_726664)
 
 ## DD+ 5.1
 

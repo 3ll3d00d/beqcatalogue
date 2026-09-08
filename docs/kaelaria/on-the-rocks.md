@@ -7,7 +7,7 @@
 Faced with sudden doubts about her marriage, a young New York mother teams up with her larger-than-life playboy father to tail her husband.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/575417)  [Compare across authors](../../compare/?t=film-on-the-rocks_575417)
+[TMDB](https://www.themoviedb.org/movie/575417)  [Compare across authors](../compare/index.md?t=film-on-the-rocks_575417)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/On%20The%20Rocks%20(2020)%20DD%2B%20Atmos.jpg)

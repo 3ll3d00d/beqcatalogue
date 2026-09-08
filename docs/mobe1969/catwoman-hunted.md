@@ -1,6 +1,6 @@
 # Catwoman: Hunted
 
-[Compare across authors](../../compare/?t=film-catwoman-hunted_862491)
+[Compare across authors](../compare/index.md?t=film-catwoman-hunted_862491)
 
 ## DD+ 5.1
 

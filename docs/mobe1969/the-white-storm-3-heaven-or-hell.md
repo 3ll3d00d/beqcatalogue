@@ -1,6 +1,6 @@
 # The White Storm 3: Heaven or Hell
 
-[Compare across authors](../../compare/?t=film-the-white-storm-3-heaven-or-hell_1093485)
+[Compare across authors](../compare/index.md?t=film-the-white-storm-3-heaven-or-hell_1093485)
 
 ## Atmos
 

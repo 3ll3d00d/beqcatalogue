@@ -1,6 +1,6 @@
 # Peace Breaker
 
-[Compare across authors](../../compare/?t=film-peace-breaker_473256)
+[Compare across authors](../compare/index.md?t=film-peace-breaker_473256)
 
 ## TrueHD 5.1
 

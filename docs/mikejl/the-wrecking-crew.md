@@ -7,7 +7,7 @@
 Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1168190)  [Compare across authors](../../compare/?t=film-the-wrecking-crew_1168190)
+[TMDB](https://www.themoviedb.org/movie/1168190)  [Compare across authors](../compare/index.md?t=film-the-wrecking-crew_1168190)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Wrecking%20Crew/The%20Wrecking%20Crew%20(2026)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ Estranged half-brothers Jonny and James reunite after their father's mysterious 
 Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1168190)  [Compare across authors](../../compare/?t=film-the-wrecking-crew_1168190)
+[TMDB](https://www.themoviedb.org/movie/1168190)  [Compare across authors](../compare/index.md?t=film-the-wrecking-crew_1168190)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Wrecking%20Crew/The%20Wrecking%20Crew%20(2026)%20DD%2B%20Atmos.jpg)

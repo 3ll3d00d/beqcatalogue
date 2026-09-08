@@ -1,6 +1,6 @@
 # Odd Thomas
 
-[Compare across authors](../../compare/?t=film-odd-thomas_179826)
+[Compare across authors](../compare/index.md?t=film-odd-thomas_179826)
 
 ## DTS-HD MA 5.1
 

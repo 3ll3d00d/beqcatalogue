@@ -1,6 +1,6 @@
 # Four Assassins
 
-[Compare across authors](../../compare/?t=film-four-assassins_132236)
+[Compare across authors](../compare/index.md?t=film-four-assassins_132236)
 
 ## DTS-HD MA 5.1
 

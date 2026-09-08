@@ -1,6 +1,6 @@
 # Loving You
 
-[Compare across authors](../../compare/?t=film-loving-you_160342)
+[Compare across authors](../compare/index.md?t=film-loving-you_160342)
 
 ## DTS-HD MA 2.0
 

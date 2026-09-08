@@ -1,6 +1,6 @@
 # Bram Stoker's Dracula
 
-[Compare across authors](../../compare/?t=film-bram-stokers-dracula_6114)
+[Compare across authors](../compare/index.md?t=film-bram-stokers-dracula_6114)
 
 ## Atmos
 

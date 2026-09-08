@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-mindhunter_67744)
+[Compare across authors](../compare/index.md?t=TV-mindhunter_67744)
 
 ## Season 1
 

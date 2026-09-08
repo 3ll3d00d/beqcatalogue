@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-eyes-of-wakanda_241388)
+* [Compare across authors](../compare/index.md?t=TV-eyes-of-wakanda_241388)
 
 * Production Year: 2025
 

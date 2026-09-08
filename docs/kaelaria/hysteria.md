@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-hysteria_224361)
+* [Compare across authors](../compare/index.md?t=TV-hysteria_224361)
 
 * Production Year: 2024
 

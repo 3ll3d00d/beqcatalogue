@@ -1,6 +1,6 @@
 # A Day To Die
 
-[Compare across authors](../../compare/?t=film-a-day-to-die_864116)
+[Compare across authors](../compare/index.md?t=film-a-day-to-die_864116)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

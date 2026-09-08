@@ -1,6 +1,6 @@
 # The Motive
 
-[Compare across authors](../../compare/?t=film-the-motive_437036)
+[Compare across authors](../compare/index.md?t=film-the-motive_437036)
 
 ## DD+ 5.1
 

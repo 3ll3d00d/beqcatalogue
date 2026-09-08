@@ -9,7 +9,7 @@ Extended
 Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/507086)  [Compare across authors](../../compare/?t=film-jurassic-world-dominion_507086)
+[TMDB](https://www.themoviedb.org/movie/507086)  [Compare across authors](../compare/index.md?t=film-jurassic-world-dominion_507086)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jurassic%20World/Jurassic%20World%20-%20Dominion%20(2022)%20(EX)%20DTS-X.jpg)

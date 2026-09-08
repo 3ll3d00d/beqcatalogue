@@ -1,6 +1,6 @@
 # Special 26
 
-[Compare across authors](../../compare/?t=film-special-26_165904)
+[Compare across authors](../compare/index.md?t=film-special-26_165904)
 
 ## DTS-HD MA 5.1
 

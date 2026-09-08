@@ -1,6 +1,6 @@
 # Thank God
 
-[Compare across authors](../../compare/?t=film-thank-god_783723)
+[Compare across authors](../compare/index.md?t=film-thank-god_783723)
 
 ## DD+ 5.1
 

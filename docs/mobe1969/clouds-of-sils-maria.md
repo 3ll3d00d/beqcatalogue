@@ -1,6 +1,6 @@
 # Clouds of Sils Maria
 
-[Compare across authors](../../compare/?t=film-clouds-of-sils-maria_246860)
+[Compare across authors](../compare/index.md?t=film-clouds-of-sils-maria_246860)
 
 ## DTS-HD MA 5.1
 

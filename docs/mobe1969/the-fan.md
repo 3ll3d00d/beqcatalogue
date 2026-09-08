@@ -1,6 +1,6 @@
 # The Fan
 
-[Compare across authors](../../compare/?t=film-the-fan_9566)
+[Compare across authors](../compare/index.md?t=film-the-fan_9566)
 
 ## DTS-HD MA 5.1
 

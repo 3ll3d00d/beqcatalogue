@@ -9,7 +9,7 @@ A solitary cat, displaced by a great flood, finds refuge on a boat with various 
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1549?post_id=63764884#post-63764884)  [TMDB](https://www.themoviedb.org/movie/823219)  [Compare across authors](../../compare/?t=film-flow_823219)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1549?post_id=63764884#post-63764884)  [TMDB](https://www.themoviedb.org/movie/823219)  [Compare across authors](../compare/index.md?t=film-flow_823219)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Flow%20(2024)%20(%2B2%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ A solitary cat, displaced by a great flood, finds refuge on a boat with various 
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1565?post_id=63880845#post-63880845)  [TMDB](https://www.themoviedb.org/movie/823219)  [Compare across authors](../../compare/?t=film-flow_823219)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1565?post_id=63880845#post-63880845)  [TMDB](https://www.themoviedb.org/movie/823219)  [Compare across authors](../compare/index.md?t=film-flow_823219)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Flow%20(2024)%20(-2%20gain)%20DTS-HD%20MA%205.1%20French.jpg)

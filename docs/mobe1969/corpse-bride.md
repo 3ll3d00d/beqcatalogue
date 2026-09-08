@@ -1,6 +1,6 @@
 # Corpse Bride
 
-[Compare across authors](../../compare/?t=film-corpse-bride_3933)
+[Compare across authors](../compare/index.md?t=film-corpse-bride_3933)
 
 ## DTS-HD MA 5.1
 

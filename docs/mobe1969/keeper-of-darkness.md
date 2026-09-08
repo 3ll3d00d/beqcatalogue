@@ -1,6 +1,6 @@
 # Keeper of Darkness
 
-[Compare across authors](../../compare/?t=film-keeper-of-darkness_371451)
+[Compare across authors](../compare/index.md?t=film-keeper-of-darkness_371451)
 
 ## TrueHD 7.1
 

@@ -1,6 +1,6 @@
 # The Assassin
 
-[Compare across authors](../../compare/?t=film-the-assassin_890154)
+[Compare across authors](../compare/index.md?t=film-the-assassin_890154)
 
 ## DTS-HD MA 5.1
 

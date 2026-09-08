@@ -1,6 +1,6 @@
 # The Girl Who Kicked the Hornet's Nest
 
-[Compare across authors](../../compare/?t=film-the-girl-who-kicked-the-hornets-nest_33613)
+[Compare across authors](../compare/index.md?t=film-the-girl-who-kicked-the-hornets-nest_33613)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Pearl Harbor
 
-[Compare across authors](../../compare/?t=film-pearl-harbor_676)
+[Compare across authors](../compare/index.md?t=film-pearl-harbor_676)
 
 ## LPCM 5.1
 

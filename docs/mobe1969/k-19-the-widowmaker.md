@@ -1,6 +1,6 @@
 # K-19: The Widowmaker
 
-[Compare across authors](../../compare/?t=film-k-19-the-widowmaker_8665)
+[Compare across authors](../compare/index.md?t=film-k-19-the-widowmaker_8665)
 
 ## TrueHD 5.1
 

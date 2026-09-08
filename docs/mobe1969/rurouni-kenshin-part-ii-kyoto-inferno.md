@@ -1,6 +1,6 @@
 # Rurouni Kenshin Part II: Kyoto Inferno
 
-[Compare across authors](../../compare/?t=film-rurouni-kenshin-part-ii-kyoto-inferno_221731)
+[Compare across authors](../compare/index.md?t=film-rurouni-kenshin-part-ii-kyoto-inferno_221731)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Code 8
 
-[Compare across authors](../../compare/?t=film-code-8_461130)
+[Compare across authors](../compare/index.md?t=film-code-8_461130)
 
 ## DD+ 5.1
 

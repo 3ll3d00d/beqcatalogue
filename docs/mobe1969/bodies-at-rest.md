@@ -1,6 +1,6 @@
 # Bodies at Rest
 
-[Compare across authors](../../compare/?t=film-bodies-at-rest_531368)
+[Compare across authors](../compare/index.md?t=film-bodies-at-rest_531368)
 
 ## TrueHD 5.1
 

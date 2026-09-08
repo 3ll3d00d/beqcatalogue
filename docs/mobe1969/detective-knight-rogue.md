@@ -1,6 +1,6 @@
 # Detective Knight: Rogue
 
-[Compare across authors](../../compare/?t=film-detective-knight-rogue_1024546)
+[Compare across authors](../compare/index.md?t=film-detective-knight-rogue_1024546)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Khumba
 
-[Compare across authors](../../compare/?t=film-khumba_172391)
+[Compare across authors](../compare/index.md?t=film-khumba_172391)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Security
 
-[Compare across authors](../../compare/?t=film-security_666624)
+[Compare across authors](../compare/index.md?t=film-security_666624)
 
 ## DD+ 5.1
 

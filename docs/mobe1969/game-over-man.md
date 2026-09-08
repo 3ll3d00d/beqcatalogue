@@ -1,6 +1,6 @@
 # Game Over, Man!
 
-[Compare across authors](../../compare/?t=film-game-over-man_456750)
+[Compare across authors](../compare/index.md?t=film-game-over-man_456750)
 
 ## DD+ 5.1
 

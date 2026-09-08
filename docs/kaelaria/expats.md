@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-expats_95556)
+* [Compare across authors](../compare/index.md?t=TV-expats_95556)
 
 * Production Year: 2024
 

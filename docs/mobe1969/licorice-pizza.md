@@ -1,6 +1,6 @@
 # Licorice Pizza
 
-[Compare across authors](../../compare/?t=film-licorice-pizza_718032)
+[Compare across authors](../compare/index.md?t=film-licorice-pizza_718032)
 
 ## DTS-HD MA 5.1
 

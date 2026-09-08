@@ -1,6 +1,6 @@
 # G.I. Joe: The Rise of Cobra
 
-[Compare across authors](../../compare/?t=film-gi-joe-the-rise-of-cobra_14869)
+[Compare across authors](../compare/index.md?t=film-gi-joe-the-rise-of-cobra_14869)
 
 ## DTS-HD MA 5.1
 

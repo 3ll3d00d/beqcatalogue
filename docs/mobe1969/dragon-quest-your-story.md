@@ -1,6 +1,6 @@
 # Dragon Quest: Your Story
 
-[Compare across authors](../../compare/?t=film-dragon-quest-your-story_592867)
+[Compare across authors](../compare/index.md?t=film-dragon-quest-your-story_592867)
 
 ## DD+ 5.1
 

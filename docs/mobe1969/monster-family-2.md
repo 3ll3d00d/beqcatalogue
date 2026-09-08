@@ -1,6 +1,6 @@
 # Monster Family 2
 
-[Compare across authors](../../compare/?t=film-monster-family-2_823609)
+[Compare across authors](../compare/index.md?t=film-monster-family-2_823609)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

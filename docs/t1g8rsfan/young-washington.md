@@ -12,7 +12,7 @@ Before he led a nation, George Washington was a young soldier thrown into a glob
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1308767)  [Compare across authors](../../compare/?t=film-young-washington_1308767)
+[TMDB](https://www.themoviedb.org/movie/1308767)  [Compare across authors](../compare/index.md?t=film-young-washington_1308767)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Young%20Washington%20(2026)%20(%2B3%20gain)%20DD%2B.jpg)

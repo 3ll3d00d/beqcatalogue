@@ -1,6 +1,6 @@
 # Atlantis Down
 
-[Compare across authors](../../compare/?t=film-atlantis-down_105191)
+[Compare across authors](../compare/index.md?t=film-atlantis-down_105191)
 
 ## DTS-HD MA 2.0
 

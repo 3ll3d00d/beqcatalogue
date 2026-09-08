@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-concordia_218703)
+* [Compare across authors](../compare/index.md?t=TV-concordia_218703)
 
 * Production Year: 2024
 

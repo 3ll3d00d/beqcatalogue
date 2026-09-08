@@ -1,6 +1,6 @@
 # National Lampoon's Van Wilder
 
-[Compare across authors](../../compare/?t=film-national-lampoons-van-wilder_11452)
+[Compare across authors](../compare/index.md?t=film-national-lampoons-van-wilder_11452)
 
 ## Atmos
 

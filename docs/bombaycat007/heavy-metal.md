@@ -11,7 +11,7 @@ The embodiment of ultimate evil, a glowing orb terrorizes a young girl with biza
 
 **MV Adjustment:** +0.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/11827)  [Compare across authors](../../compare/?t=film-heavy-metal_11827)
+[TMDB](https://www.themoviedb.org/movie/11827)  [Compare across authors](../compare/index.md?t=film-heavy-metal_11827)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Heavy%20Metal%20(1981)%20(%2B0.5%20Gain)%20Atmos.png)

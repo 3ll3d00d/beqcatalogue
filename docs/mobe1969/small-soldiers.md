@@ -1,6 +1,6 @@
 # Small Soldiers
 
-[Compare across authors](../../compare/?t=film-small-soldiers_11551)
+[Compare across authors](../compare/index.md?t=film-small-soldiers_11551)
 
 ## DD+ 5.1
 

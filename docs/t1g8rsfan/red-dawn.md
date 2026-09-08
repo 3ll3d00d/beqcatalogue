@@ -9,7 +9,7 @@ A city in Washington state awakens to the surreal sight of foreign paratroopers 
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62776969)  [TMDB](https://www.themoviedb.org/movie/60747)  [Compare across authors](../../compare/?t=film-red-dawn_60747)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62776969)  [TMDB](https://www.themoviedb.org/movie/60747)  [Compare across authors](../compare/index.md?t=film-red-dawn_60747)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Red%20Dawn%20(2012)%20(-2%20gain)%20DTS-HD%20MA%205.1.jpg)

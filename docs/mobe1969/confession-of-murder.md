@@ -1,6 +1,6 @@
 # Confession of Murder
 
-[Compare across authors](../../compare/?t=film-confession-of-murder_140212)
+[Compare across authors](../compare/index.md?t=film-confession-of-murder_140212)
 
 ## DTS-HD MA 5.1
 

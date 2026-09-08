@@ -12,7 +12,7 @@ Upon learning that he is from New York City, a wide-eyed boy, who is half human 
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1474?post_id=63385673#post-63385673)  [TMDB](https://www.themoviedb.org/movie/763568)  [Compare across authors](../../compare/?t=film-arlo-the-alligator-boy_763568)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1474?post_id=63385673#post-63385673)  [TMDB](https://www.themoviedb.org/movie/763568)  [Compare across authors](../compare/index.md?t=film-arlo-the-alligator-boy_763568)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Arlo%20the%20Alligator%20Boy%20(2021)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)

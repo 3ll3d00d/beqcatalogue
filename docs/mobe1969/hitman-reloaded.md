@@ -1,6 +1,6 @@
 # Hitman Reloaded
 
-[Compare across authors](../../compare/?t=film-hitman-reloaded_118737)
+[Compare across authors](../compare/index.md?t=film-hitman-reloaded_118737)
 
 ## DTS-HD MA 5.1
 

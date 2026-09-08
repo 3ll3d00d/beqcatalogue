@@ -1,6 +1,6 @@
 # Boston Strangler
 
-[Compare across authors](../../compare/?t=film-boston-strangler_881164)
+[Compare across authors](../compare/index.md?t=film-boston-strangler_881164)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Robert the Bruce
 
-[Compare across authors](../../compare/?t=film-robert-the-bruce_532812)
+[Compare across authors](../compare/index.md?t=film-robert-the-bruce_532812)
 
 ## DTS-HD MA 5.1
 

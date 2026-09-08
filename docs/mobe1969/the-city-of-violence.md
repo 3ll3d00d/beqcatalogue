@@ -1,6 +1,6 @@
 # The City of Violence
 
-[Compare across authors](../../compare/?t=film-the-city-of-violence_20605)
+[Compare across authors](../compare/index.md?t=film-the-city-of-violence_20605)
 
 ## DTS-HD MA 5.1
 

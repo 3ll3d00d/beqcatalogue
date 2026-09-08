@@ -1,6 +1,6 @@
 # Don't Tell a Soul
 
-[Compare across authors](../../compare/?t=film-dont-tell-a-soul_572400)
+[Compare across authors](../compare/index.md?t=film-dont-tell-a-soul_572400)
 
 ## DTS-HD MA 5.1
 

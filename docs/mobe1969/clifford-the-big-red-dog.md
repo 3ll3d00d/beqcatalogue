@@ -1,6 +1,6 @@
 # Clifford the Big Red Dog
 
-[Compare across authors](../../compare/?t=film-clifford-the-big-red-dog_585245)
+[Compare across authors](../compare/index.md?t=film-clifford-the-big-red-dog_585245)
 
 ## DD+ Atmos
 

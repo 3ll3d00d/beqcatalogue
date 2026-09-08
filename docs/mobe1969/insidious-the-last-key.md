@@ -1,6 +1,6 @@
 # Insidious: The Last Key
 
-[Compare across authors](../../compare/?t=film-insidious-the-last-key_406563)
+[Compare across authors](../compare/index.md?t=film-insidious-the-last-key_406563)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

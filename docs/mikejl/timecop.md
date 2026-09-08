@@ -10,7 +10,7 @@ In 2004, an officer for a security agency that regulates time travel must fend f
 Audio from Warner UHD Blu-Ray  - Don't use with  Shout! version
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/8831)  [Compare across authors](../../compare/?t=film-timecop_8831)
+[TMDB](https://www.themoviedb.org/movie/8831)  [Compare across authors](../compare/index.md?t=film-timecop_8831)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Timecop/Timecop%20(1994)%20DTS-HD%20MA%205.1.jpg)

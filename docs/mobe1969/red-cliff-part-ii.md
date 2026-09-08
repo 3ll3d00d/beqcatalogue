@@ -1,6 +1,6 @@
 # Red Cliff Part II
 
-[Compare across authors](../../compare/?t=film-red-cliff-part-ii_15384)
+[Compare across authors](../compare/index.md?t=film-red-cliff-part-ii_15384)
 
 ## DTS-HD MA 5.1
 

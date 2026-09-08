@@ -1,6 +1,6 @@
 # Shamshera
 
-[Compare across authors](../../compare/?t=film-shamshera_539686)
+[Compare across authors](../compare/index.md?t=film-shamshera_539686)
 
 ## DD+ 5.1
 

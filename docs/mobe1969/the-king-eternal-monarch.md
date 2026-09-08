@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-king-eternal-monarch_93846)
+[Compare across authors](../compare/index.md?t=TV-the-king-eternal-monarch_93846)
 
 ## Season 1
 

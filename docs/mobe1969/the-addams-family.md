@@ -1,6 +1,6 @@
 # The Addams Family
 
-[Compare across authors](../../compare/?t=film-the-addams-family_2907)
+[Compare across authors](../compare/index.md?t=film-the-addams-family_2907)
 
 ## DD+ 5.1
 

@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-long-way-home_262594)
+* [Compare across authors](../compare/index.md?t=TV-long-way-home_262594)
 
 * Production Year: 2025
 

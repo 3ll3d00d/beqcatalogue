@@ -1,6 +1,6 @@
 # Eragon
 
-[Compare across authors](../../compare/?t=film-eragon_2486)
+[Compare across authors](../compare/index.md?t=film-eragon_2486)
 
 ## DTS-HD MA 5.1
 

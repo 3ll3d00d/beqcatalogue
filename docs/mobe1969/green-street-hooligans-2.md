@@ -1,6 +1,6 @@
 # Green Street Hooligans 2
 
-[Compare across authors](../../compare/?t=film-green-street-hooligans-2_15809)
+[Compare across authors](../compare/index.md?t=film-green-street-hooligans-2_15809)
 
 ## DTS-HD MA 5.1
 

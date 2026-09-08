@@ -1,6 +1,6 @@
 # Operation Fortune: Ruse de Guerre
 
-[Compare across authors](../../compare/?t=film-operation-fortune-ruse-de-guerre_739405)
+[Compare across authors](../compare/index.md?t=film-operation-fortune-ruse-de-guerre_739405)
 
 ## Atmos
 

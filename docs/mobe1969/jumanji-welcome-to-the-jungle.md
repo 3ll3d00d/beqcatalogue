@@ -1,6 +1,6 @@
 # Jumanji: Welcome to the Jungle
 
-[Compare across authors](../../compare/?t=film-jumanji-welcome-to-the-jungle_353486)
+[Compare across authors](../compare/index.md?t=film-jumanji-welcome-to-the-jungle_353486)
 
 ## Atmos, DD+ 5.1
 

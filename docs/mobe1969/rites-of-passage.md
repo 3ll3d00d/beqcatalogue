@@ -1,6 +1,6 @@
 # Rites of Passage
 
-[Compare across authors](../../compare/?t=film-rites-of-passage_93077)
+[Compare across authors](../compare/index.md?t=film-rites-of-passage_93077)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ganglands_130523)
+[Compare across authors](../compare/index.md?t=TV-ganglands_130523)
 
 ## Season 1
 

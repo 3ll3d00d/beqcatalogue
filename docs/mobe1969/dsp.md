@@ -1,6 +1,6 @@
 # DSP
 
-[Compare across authors](../../compare/?t=film-dsp_806920)
+[Compare across authors](../compare/index.md?t=film-dsp_806920)
 
 ## DD+ 5.1
 

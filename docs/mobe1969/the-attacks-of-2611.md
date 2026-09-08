@@ -1,6 +1,6 @@
 # The Attacks Of 26/11
 
-[Compare across authors](../../compare/?t=film-the-attacks-of-2611_171879)
+[Compare across authors](../compare/index.md?t=film-the-attacks-of-2611_171879)
 
 ## DD 5.1
 

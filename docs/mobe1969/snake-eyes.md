@@ -1,6 +1,6 @@
 # Snake Eyes
 
-[Compare across authors](../../compare/?t=film-snake-eyes_8688)
+[Compare across authors](../compare/index.md?t=film-snake-eyes_8688)
 
 ## DTS-HD MA 5.1
 

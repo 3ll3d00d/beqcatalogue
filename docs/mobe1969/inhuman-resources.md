@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-inhuman-resources_101690)
+[Compare across authors](../compare/index.md?t=TV-inhuman-resources_101690)
 
 ## Season 1
 

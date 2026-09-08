@@ -1,6 +1,6 @@
 # The Frighteners
 
-[Compare across authors](../../compare/?t=film-the-frighteners_10779)
+[Compare across authors](../compare/index.md?t=film-the-frighteners_10779)
 
 ## Atmos
 

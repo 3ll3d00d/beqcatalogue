@@ -1,6 +1,6 @@
 # The Estate
 
-[Compare across authors](../../compare/?t=film-the-estate_910858)
+[Compare across authors](../compare/index.md?t=film-the-estate_910858)
 
 ## DD+ 5.1
 

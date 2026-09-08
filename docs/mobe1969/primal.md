@@ -1,6 +1,6 @@
 # Primal
 
-[Compare across authors](../../compare/?t=film-primal_500916)
+[Compare across authors](../compare/index.md?t=film-primal_500916)
 
 ## DTS-HD MA 5.1
 

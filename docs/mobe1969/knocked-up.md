@@ -1,6 +1,6 @@
 # Knocked Up
 
-[Compare across authors](../../compare/?t=film-knocked-up_4964)
+[Compare across authors](../compare/index.md?t=film-knocked-up_4964)
 
 ## DTS-HD MA 5.1
 

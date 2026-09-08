@@ -1,6 +1,6 @@
 # Cut Bank
 
-[Compare across authors](../../compare/?t=film-cut-bank_276902)
+[Compare across authors](../compare/index.md?t=film-cut-bank_276902)
 
 ## DTS-HD MA 5.1
 

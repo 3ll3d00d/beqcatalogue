@@ -7,7 +7,7 @@
 Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/453395)  [Compare across authors](../../compare/?t=film-doctor-strange-in-the-multiverse-of-madness_453395)
+[TMDB](https://www.themoviedb.org/movie/453395)  [Compare across authors](../compare/index.md?t=film-doctor-strange-in-the-multiverse-of-madness_453395)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Doctor%20Strange/Doctor%20Strange%20-%20Multiverse%20of%20Madness%20(2022)%20Atmos.jpg)

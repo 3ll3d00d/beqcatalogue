@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-cape-fear_277439)
+* [Compare across authors](../compare/index.md?t=TV-cape-fear_277439)
 
 * Production Year: 2026
 

@@ -1,6 +1,6 @@
 # Wu Xia
 
-[Compare across authors](../../compare/?t=film-wu-xia_70057)
+[Compare across authors](../compare/index.md?t=film-wu-xia_70057)
 
 ## DTS-HD MA 5.1
 

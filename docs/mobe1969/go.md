@@ -1,6 +1,6 @@
 # Go
 
-[Compare across authors](../../compare/?t=film-go_9430)
+[Compare across authors](../compare/index.md?t=film-go_9430)
 
 ## TrueHD 5.1
 

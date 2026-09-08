@@ -1,6 +1,6 @@
 # Equal Standard
 
-[Compare across authors](../../compare/?t=film-equal-standard_652385)
+[Compare across authors](../compare/index.md?t=film-equal-standard_652385)
 
 ## DTS-HD MA 5.1
 

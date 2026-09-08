@@ -9,7 +9,7 @@ Unrated
 The world is full of zombies and the survivors have barricaded themselves inside a walled city to keep out the living dead. As the wealthy hide out in skyscrapers and chaos rules the streets, the rest of the survivors must find a way to stop the evolving zombies from breaking into the city.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/11683)  [Compare across authors](../../compare/?t=film-land-of-the-dead_11683)
+[TMDB](https://www.themoviedb.org/movie/11683)  [Compare across authors](../compare/index.md?t=film-land-of-the-dead_11683)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Land%20of%20the%20Dead%20(2005)%20(Unrated)%20Atmos.jpg)

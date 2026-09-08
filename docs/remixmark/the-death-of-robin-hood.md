@@ -12,7 +12,7 @@ Grappling with his past after a life of crime and murder, Robin Hood finds himse
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1761?post_id=64734328#post-64734328)  [TMDB](https://www.themoviedb.org/movie/1284465)  [Compare across authors](../../compare/?t=film-the-death-of-robin-hood_1284465)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1761?post_id=64734328#post-64734328)  [TMDB](https://www.themoviedb.org/movie/1284465)  [Compare across authors](../compare/index.md?t=film-the-death-of-robin-hood_1284465)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Death%20of%20Robin%20Hood%20(2026)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

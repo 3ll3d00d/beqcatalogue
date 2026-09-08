@@ -1,6 +1,6 @@
 # Thunivu
 
-[Compare across authors](../../compare/?t=film-thunivu_904557)
+[Compare across authors](../compare/index.md?t=film-thunivu_904557)
 
 ## DD+ 5.1
 

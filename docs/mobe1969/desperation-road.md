@@ -1,6 +1,6 @@
 # Desperation Road
 
-[Compare across authors](../../compare/?t=film-desperation-road_1039690)
+[Compare across authors](../compare/index.md?t=film-desperation-road_1039690)
 
 ## DD+ 5.1
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-bosch_60585)
+* [Compare across authors](../compare/index.md?t=TV-bosch_60585)
 
 * Production Year: 2015
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-bosch_60585)
+* [Compare across authors](../compare/index.md?t=TV-bosch_60585)
 
 * Production Year: 2015
 
@@ -37,7 +37,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-bosch_60585)
+* [Compare across authors](../compare/index.md?t=TV-bosch_60585)
 
 * Production Year: 2015
 
@@ -52,7 +52,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-bosch_60585)
+* [Compare across authors](../compare/index.md?t=TV-bosch_60585)
 
 * Production Year: 2015
 
@@ -67,7 +67,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-bosch_60585)
+* [Compare across authors](../compare/index.md?t=TV-bosch_60585)
 
 * Production Year: 2015
 
@@ -82,7 +82,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-bosch_60585)
+* [Compare across authors](../compare/index.md?t=TV-bosch_60585)
 
 * Production Year: 2015
 
@@ -97,7 +97,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-bosch_60585)
+* [Compare across authors](../compare/index.md?t=TV-bosch_60585)
 
 * Production Year: 2015
 

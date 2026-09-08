@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-chernobyl_87108)
+[Compare across authors](../compare/index.md?t=TV-chernobyl_87108)
 
 ## Season 1
 

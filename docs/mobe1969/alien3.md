@@ -1,6 +1,6 @@
 # Alien³
 
-[Compare across authors](../../compare/?t=film-alien3_8077)
+[Compare across authors](../compare/index.md?t=film-alien3_8077)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # 25th Hour
 
-[Compare across authors](../../compare/?t=film-25th-hour_1429)
+[Compare across authors](../compare/index.md?t=film-25th-hour_1429)
 
 ## DTS-HD MA 5.1
 

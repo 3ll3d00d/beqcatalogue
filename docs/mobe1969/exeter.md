@@ -1,6 +1,6 @@
 # Exeter
 
-[Compare across authors](../../compare/?t=film-exeter_226458)
+[Compare across authors](../compare/index.md?t=film-exeter_226458)
 
 ## DTS-HD MA 5.1
 

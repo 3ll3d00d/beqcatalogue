@@ -1,6 +1,6 @@
 # Snowden
 
-[Compare across authors](../../compare/?t=film-snowden_302401)
+[Compare across authors](../compare/index.md?t=film-snowden_302401)
 
 ## DTS-HD MA 5.1
 

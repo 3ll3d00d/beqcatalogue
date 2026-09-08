@@ -1,6 +1,6 @@
 # The Block Island Sound
 
-[Compare across authors](../../compare/?t=film-the-block-island-sound_731740)
+[Compare across authors](../compare/index.md?t=film-the-block-island-sound_731740)
 
 ## DD+ 5.1
 

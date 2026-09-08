@@ -7,7 +7,7 @@
 As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/762441)  [Compare across authors](../../compare/?t=film-a-quiet-place-day-one_762441)
+[TMDB](https://www.themoviedb.org/movie/762441)  [Compare across authors](../compare/index.md?t=film-a-quiet-place-day-one_762441)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/A%20Quiet%20Place%20Day%20One%20(2024)%20Atmos.jpg)
@@ -21,7 +21,7 @@ As New York City is invaded by alien creatures who hunt by sound, a woman named 
 As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/762441)  [Compare across authors](../../compare/?t=film-a-quiet-place-day-one_762441)
+[TMDB](https://www.themoviedb.org/movie/762441)  [Compare across authors](../compare/index.md?t=film-a-quiet-place-day-one_762441)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/A%20Quiet%20Place%20Day%20One%20(2024)%20DD%2B%20Atmos.jpg)

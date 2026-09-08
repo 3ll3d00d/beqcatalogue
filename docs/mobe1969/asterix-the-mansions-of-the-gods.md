@@ -1,6 +1,6 @@
 # Asterix: The Mansions of the Gods
 
-[Compare across authors](../../compare/?t=film-asterix-the-mansions-of-the-gods_170522)
+[Compare across authors](../compare/index.md?t=film-asterix-the-mansions-of-the-gods_170522)
 
 ## DTS-HD MA 5.1
 

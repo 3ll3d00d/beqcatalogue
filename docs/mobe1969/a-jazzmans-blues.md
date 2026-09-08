@@ -1,6 +1,6 @@
 # A Jazzman's Blues
 
-[Compare across authors](../../compare/?t=film-a-jazzmans-blues_921643)
+[Compare across authors](../compare/index.md?t=film-a-jazzmans-blues_921643)
 
 ## DD+ Atmos
 

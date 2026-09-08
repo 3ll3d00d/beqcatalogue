@@ -1,6 +1,6 @@
 # Vacancy
 
-[Compare across authors](../../compare/?t=film-vacancy_10294)
+[Compare across authors](../compare/index.md?t=film-vacancy_10294)
 
 ## LPCM 5.1
 

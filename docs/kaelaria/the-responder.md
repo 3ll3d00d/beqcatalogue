@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-responder_155346)
+* [Compare across authors](../compare/index.md?t=TV-the-responder_155346)
 
 * Production Year: 2022
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-responder_155346)
+* [Compare across authors](../compare/index.md?t=TV-the-responder_155346)
 
 * Production Year: 2022
 

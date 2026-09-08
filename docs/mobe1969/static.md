@@ -1,6 +1,6 @@
 # Static
 
-[Compare across authors](../../compare/?t=film-static_165567)
+[Compare across authors](../compare/index.md?t=film-static_165567)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Under Suspicion
 
-[Compare across authors](../../compare/?t=film-under-suspicion_26850)
+[Compare across authors](../compare/index.md?t=film-under-suspicion_26850)
 
 ## LPCM 2.0
 

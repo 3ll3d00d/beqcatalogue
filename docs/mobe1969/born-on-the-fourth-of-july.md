@@ -1,6 +1,6 @@
 # Born on the Fourth of July
 
-[Compare across authors](../../compare/?t=film-born-on-the-fourth-of-july_2604)
+[Compare across authors](../compare/index.md?t=film-born-on-the-fourth-of-july_2604)
 
 ## DTS-HD MA 5.1
 

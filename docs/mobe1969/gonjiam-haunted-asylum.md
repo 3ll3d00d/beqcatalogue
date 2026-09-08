@@ -1,6 +1,6 @@
 # Gonjiam: Haunted Asylum
 
-[Compare across authors](../../compare/?t=film-gonjiam-haunted-asylum_508642)
+[Compare across authors](../compare/index.md?t=film-gonjiam-haunted-asylum_508642)
 
 ## DTS-HD MA 5.1
 

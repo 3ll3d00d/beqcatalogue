@@ -1,6 +1,6 @@
 # Immortality Corridor
 
-[Compare across authors](../../compare/?t=film-immortality-corridor_575333)
+[Compare across authors](../compare/index.md?t=film-immortality-corridor_575333)
 
 ## DD+ 5.1
 

@@ -9,7 +9,7 @@ The infinite playground of forbidden worlds and dangerous lifeforms offered by t
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1518?post_id=63604069#post-63604069)  [TMDB](https://www.themoviedb.org/movie/1190868)  [Compare across authors](../../compare/?t=film-vhsbeyond_1190868)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1518?post_id=63604069#post-63604069)  [TMDB](https://www.themoviedb.org/movie/1190868)  [Compare across authors](../compare/index.md?t=film-vhsbeyond_1190868)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/V%2BH%2BS%2BBeyond%20(2024)%20(%2B7%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ The infinite playground of forbidden worlds and dangerous lifeforms offered by t
 
 **MV Adjustment:** -4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1558?post_id=63828481#post-63828481)  [TMDB](https://www.themoviedb.org/movie/1190868)  [Compare across authors](../../compare/?t=film-vhsbeyond_1190868)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1558?post_id=63828481#post-63828481)  [TMDB](https://www.themoviedb.org/movie/1190868)  [Compare across authors](../compare/index.md?t=film-vhsbeyond_1190868)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/V%2BH%2BS%2BBeyond%20(2024)%20(-4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

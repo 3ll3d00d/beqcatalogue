@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-queenmaker_139280)
+[Compare across authors](../compare/index.md?t=TV-queenmaker_139280)
 
 ## Season 1
 

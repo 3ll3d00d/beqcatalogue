@@ -1,6 +1,6 @@
 # Mr. & Mrs. Smith
 
-[Compare across authors](../../compare/?t=film-mr-mrs-smith_787)
+[Compare across authors](../compare/index.md?t=film-mr-mrs-smith_787)
 
 ## DTS-HD MA 5.1
 

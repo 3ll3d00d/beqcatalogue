@@ -1,6 +1,6 @@
 # Finding 'Ohana
 
-[Compare across authors](../../compare/?t=film-finding-ohana_644092)
+[Compare across authors](../compare/index.md?t=film-finding-ohana_644092)
 
 ## DD+ Atmos
 

@@ -9,7 +9,7 @@ Theatrical | Ultimate Hunter Edition
 A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/106)  [Compare across authors](../../compare/?t=film-predator_106)
+[TMDB](https://www.themoviedb.org/movie/106)  [Compare across authors](../compare/index.md?t=film-predator_106)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Predator%20(1987)%20DTS-HD%20MA%205.1.jpg)

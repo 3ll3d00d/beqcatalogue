@@ -1,6 +1,6 @@
 # Casino
 
-[Compare across authors](../../compare/?t=film-casino_524)
+[Compare across authors](../compare/index.md?t=film-casino_524)
 
 ## DTS-X
 

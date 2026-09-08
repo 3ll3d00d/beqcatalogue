@@ -1,6 +1,6 @@
 # Ashfall
 
-[Compare across authors](../../compare/?t=film-ashfall_581387)
+[Compare across authors](../compare/index.md?t=film-ashfall_581387)
 
 ## TrueHD 5.1
 

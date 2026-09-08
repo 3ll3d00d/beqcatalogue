@@ -1,6 +1,6 @@
 # Attack the Block
 
-[Compare across authors](../../compare/?t=film-attack-the-block_59678)
+[Compare across authors](../compare/index.md?t=film-attack-the-block_59678)
 
 ## DTS-HD MA 5.1
 

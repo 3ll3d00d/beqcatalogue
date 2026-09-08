@@ -1,6 +1,6 @@
 # Wanted
 
-[Compare across authors](../../compare/?t=film-wanted_8909)
+[Compare across authors](../compare/index.md?t=film-wanted_8909)
 
 ## DTS-HD MA 5.1
 

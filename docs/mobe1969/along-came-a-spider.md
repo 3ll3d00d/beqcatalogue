@@ -1,6 +1,6 @@
 # Along Came a Spider
 
-[Compare across authors](../../compare/?t=film-along-came-a-spider_2043)
+[Compare across authors](../compare/index.md?t=film-along-came-a-spider_2043)
 
 ## DTS-HD MA 5.1
 

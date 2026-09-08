@@ -1,6 +1,6 @@
 # Bone Cold
 
-[Compare across authors](../../compare/?t=film-bone-cold_1124272)
+[Compare across authors](../compare/index.md?t=film-bone-cold_1124272)
 
 ## DD+ 5.1
 

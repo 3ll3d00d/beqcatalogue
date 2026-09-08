@@ -1,6 +1,6 @@
 # Brick Mansions
 
-[Compare across authors](../../compare/?t=film-brick-mansions_254473)
+[Compare across authors](../compare/index.md?t=film-brick-mansions_254473)
 
 ## DTS-HD MA 5.1
 

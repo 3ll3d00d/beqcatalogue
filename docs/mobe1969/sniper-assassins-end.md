@@ -1,6 +1,6 @@
 # Sniper: Assassin's End
 
-[Compare across authors](../../compare/?t=film-sniper-assassins-end_702936)
+[Compare across authors](../compare/index.md?t=film-sniper-assassins-end_702936)
 
 ## DTS-HD MA 5.1
 

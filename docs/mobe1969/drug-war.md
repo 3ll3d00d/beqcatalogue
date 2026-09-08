@@ -1,6 +1,6 @@
 # Drug War
 
-[Compare across authors](../../compare/?t=film-drug-war_110410)
+[Compare across authors](../compare/index.md?t=film-drug-war_110410)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # I, Robot
 
-[Compare across authors](../../compare/?t=film-i-robot_2048)
+[Compare across authors](../compare/index.md?t=film-i-robot_2048)
 
 ## DTS-HD MA 5.1
 

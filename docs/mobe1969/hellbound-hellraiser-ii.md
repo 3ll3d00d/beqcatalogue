@@ -1,6 +1,6 @@
 # Hellbound: Hellraiser II
 
-[Compare across authors](../../compare/?t=film-hellbound-hellraiser-ii_9064)
+[Compare across authors](../compare/index.md?t=film-hellbound-hellraiser-ii_9064)
 
 ## DTS-HD MA 5.1
 

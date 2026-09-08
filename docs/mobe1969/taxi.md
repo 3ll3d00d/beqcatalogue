@@ -1,6 +1,6 @@
 # Taxi
 
-[Compare across authors](../../compare/?t=film-taxi_2330)
+[Compare across authors](../compare/index.md?t=film-taxi_2330)
 
 ## DTS-HD MA 5.1
 

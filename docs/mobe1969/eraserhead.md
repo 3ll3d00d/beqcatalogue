@@ -1,6 +1,6 @@
 # Eraserhead
 
-[Compare across authors](../../compare/?t=film-eraserhead_985)
+[Compare across authors](../compare/index.md?t=film-eraserhead_985)
 
 ## LPCM 2.0
 

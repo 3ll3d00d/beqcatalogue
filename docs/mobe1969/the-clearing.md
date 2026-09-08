@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-clearing_202162)
+[Compare across authors](../compare/index.md?t=TV-the-clearing_202162)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Vikram
 
-[Compare across authors](../../compare/?t=film-vikram_743563)
+[Compare across authors](../compare/index.md?t=film-vikram_743563)
 
 ## DD+ Atmos
 

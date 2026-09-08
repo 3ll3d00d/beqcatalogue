@@ -1,6 +1,6 @@
 # Forgetting Sarah Marshall
 
-[Compare across authors](../../compare/?t=film-forgetting-sarah-marshall_9870)
+[Compare across authors](../compare/index.md?t=film-forgetting-sarah-marshall_9870)
 
 ## DTS-HD MA 5.1
 

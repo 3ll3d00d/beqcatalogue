@@ -1,6 +1,6 @@
 # Gangubai Kathiawadi
 
-[Compare across authors](../../compare/?t=film-gangubai-kathiawadi_664332)
+[Compare across authors](../compare/index.md?t=film-gangubai-kathiawadi_664332)
 
 ## DD+ 5.1
 

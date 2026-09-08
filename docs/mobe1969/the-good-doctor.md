@@ -1,6 +1,6 @@
 # The Good Doctor
 
-[Compare across authors](../../compare/?t=film-the-good-doctor_65650)
+[Compare across authors](../compare/index.md?t=film-the-good-doctor_65650)
 
 ## DTS-HD MA 5.1
 

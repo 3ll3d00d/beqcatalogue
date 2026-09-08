@@ -1,6 +1,6 @@
 # Hydra
 
-[Compare across authors](../../compare/?t=film-hydra_606216)
+[Compare across authors](../compare/index.md?t=film-hydra_606216)
 
 ## DTS-HD MA 5.1
 

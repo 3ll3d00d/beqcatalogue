@@ -1,6 +1,6 @@
 # Pi
 
-[Compare across authors](../../compare/?t=film-pi_473)
+[Compare across authors](../compare/index.md?t=film-pi_473)
 
 ## DTS-HD MA 2.0
 

@@ -1,6 +1,6 @@
 # Wonder
 
-[Compare across authors](../../compare/?t=film-wonder_406997)
+[Compare across authors](../compare/index.md?t=film-wonder_406997)
 
 ## TrueHD 7.1
 

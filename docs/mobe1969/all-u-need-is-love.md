@@ -1,6 +1,6 @@
 # All U Need Is Love
 
-[Compare across authors](../../compare/?t=film-all-u-need-is-love_814772)
+[Compare across authors](../compare/index.md?t=film-all-u-need-is-love_814772)
 
 ## TrueHD 7.1
 

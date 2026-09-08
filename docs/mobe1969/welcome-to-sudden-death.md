@@ -1,6 +1,6 @@
 # Welcome to Sudden Death
 
-[Compare across authors](../../compare/?t=film-welcome-to-sudden-death_741067)
+[Compare across authors](../compare/index.md?t=film-welcome-to-sudden-death_741067)
 
 ## DD+ 5.1
 

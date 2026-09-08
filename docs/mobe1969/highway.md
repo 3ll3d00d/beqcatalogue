@@ -1,6 +1,6 @@
 # Highway
 
-[Compare across authors](../../compare/?t=film-highway_252841)
+[Compare across authors](../compare/index.md?t=film-highway_252841)
 
 ## DD 5.1
 

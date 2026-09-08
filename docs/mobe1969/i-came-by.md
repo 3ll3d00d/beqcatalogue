@@ -1,6 +1,6 @@
 # I Came By
 
-[Compare across authors](../../compare/?t=film-i-came-by_852448)
+[Compare across authors](../compare/index.md?t=film-i-came-by_852448)
 
 ## DD+ Atmos
 

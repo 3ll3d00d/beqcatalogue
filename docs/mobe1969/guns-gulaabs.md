@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-guns-gulaabs_156714)
+[Compare across authors](../compare/index.md?t=TV-guns-gulaabs_156714)
 
 ## Season 1
 

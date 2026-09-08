@@ -1,6 +1,6 @@
 # The Boondock Saints II: All Saints Day
 
-[Compare across authors](../../compare/?t=film-the-boondock-saints-ii-all-saints-day_22821)
+[Compare across authors](../compare/index.md?t=film-the-boondock-saints-ii-all-saints-day_22821)
 
 ## DTS-HD MA 5.1
 

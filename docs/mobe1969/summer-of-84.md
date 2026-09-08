@@ -1,6 +1,6 @@
 # Summer of 84
 
-[Compare across authors](../../compare/?t=film-summer-of-84_470229)
+[Compare across authors](../compare/index.md?t=film-summer-of-84_470229)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Rapture-Palooza
 
-[Compare across authors](../../compare/?t=film-rapture-palooza_174188)
+[Compare across authors](../compare/index.md?t=film-rapture-palooza_174188)
 
 ## DTS-HD MA 5.1
 

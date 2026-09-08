@@ -1,6 +1,6 @@
 # Start-Up
 
-[Compare across authors](../../compare/?t=film-start-up_581530)
+[Compare across authors](../compare/index.md?t=film-start-up_581530)
 
 ## DTS-HD MA 5.1
 

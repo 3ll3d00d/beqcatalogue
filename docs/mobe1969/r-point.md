@@ -1,6 +1,6 @@
 # R-Point
 
-[Compare across authors](../../compare/?t=film-r-point_16138)
+[Compare across authors](../compare/index.md?t=film-r-point_16138)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Fired Up!
 
-[Compare across authors](../../compare/?t=film-fired-up_17927)
+[Compare across authors](../compare/index.md?t=film-fired-up_17927)
 
 ## TrueHD 5.1
 

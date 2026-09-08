@@ -1,6 +1,6 @@
 # Knuckle Girl
 
-[Compare across authors](../../compare/?t=film-knuckle-girl_1178734)
+[Compare across authors](../compare/index.md?t=film-knuckle-girl_1178734)
 
 ## DD+ 5.1
 

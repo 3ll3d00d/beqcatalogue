@@ -1,6 +1,6 @@
 # Conan the Destroyer
 
-[Compare across authors](../../compare/?t=film-conan-the-destroyer_9610)
+[Compare across authors](../compare/index.md?t=film-conan-the-destroyer_9610)
 
 ## DTS-HD MA 5.1
 

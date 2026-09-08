@@ -1,6 +1,6 @@
 # S.W.A.T.: Firefight
 
-[Compare across authors](../../compare/?t=film-swat-firefight_54445)
+[Compare across authors](../compare/index.md?t=film-swat-firefight_54445)
 
 ## DTS-HD MA 5.1
 

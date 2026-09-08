@@ -1,6 +1,6 @@
 # Kill the Irishman
 
-[Compare across authors](../../compare/?t=film-kill-the-irishman_51209)
+[Compare across authors](../compare/index.md?t=film-kill-the-irishman_51209)
 
 ## TrueHD 5.1
 

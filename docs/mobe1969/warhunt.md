@@ -1,6 +1,6 @@
 # Warhunt
 
-[Compare across authors](../../compare/?t=film-warhunt_697799)
+[Compare across authors](../compare/index.md?t=film-warhunt_697799)
 
 ## DTS-HD MA 5.1
 

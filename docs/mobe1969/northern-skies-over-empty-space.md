@@ -1,6 +1,6 @@
 # Northern Skies Over Empty Space
 
-[Compare across authors](../../compare/?t=film-northern-skies-over-empty-space_926325)
+[Compare across authors](../compare/index.md?t=film-northern-skies-over-empty-space_926325)
 
 ## DD+ 5.1
 

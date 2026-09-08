@@ -9,7 +9,7 @@ A zombie outbreak has fallen upon the land in this reimagining of Jane Austen's 
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/posts/62912593/)  [TMDB](https://www.themoviedb.org/movie/58431)  [Compare across authors](../../compare/?t=film-pride-and-prejudice-and-zombies_58431)
+[Discuss](https://www.avsforum.com/posts/62912593/)  [TMDB](https://www.themoviedb.org/movie/58431)  [Compare across authors](../compare/index.md?t=film-pride-and-prejudice-and-zombies_58431)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Pride%20and%20Prejudice%20and%20Zombies%20(2016)%20(%2B0.5%20gain)%20Atmos.jpg)

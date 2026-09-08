@@ -1,6 +1,6 @@
 # West Side Story
 
-[Compare across authors](../../compare/?t=film-west-side-story_511809)
+[Compare across authors](../compare/index.md?t=film-west-side-story_511809)
 
 ## Atmos, DD+ 7.1, DD 5.1
 

@@ -1,6 +1,6 @@
 # Oxygen
 
-[Compare across authors](../../compare/?t=film-oxygen_471498)
+[Compare across authors](../compare/index.md?t=film-oxygen_471498)
 
 ## DD+ Atmos, DD+ 5.1
 

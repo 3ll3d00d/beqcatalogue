@@ -1,6 +1,6 @@
 # Deathstroke: Knights & Dragons - The Movie
 
-[Compare across authors](../../compare/?t=film-deathstroke-knights-dragons-the-movie_703771)
+[Compare across authors](../compare/index.md?t=film-deathstroke-knights-dragons-the-movie_703771)
 
 ## DTS-HD MA 5.1
 

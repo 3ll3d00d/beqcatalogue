@@ -1,6 +1,6 @@
 # A Bad Moms Christmas
 
-[Compare across authors](../../compare/?t=film-a-bad-moms-christmas_431530)
+[Compare across authors](../compare/index.md?t=film-a-bad-moms-christmas_431530)
 
 ## DTS-HD MA 5.1
 

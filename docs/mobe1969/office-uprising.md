@@ -1,6 +1,6 @@
 # Office Uprising
 
-[Compare across authors](../../compare/?t=film-office-uprising_381237)
+[Compare across authors](../compare/index.md?t=film-office-uprising_381237)
 
 ## DD+ 5.1
 

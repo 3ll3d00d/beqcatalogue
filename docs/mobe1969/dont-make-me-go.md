@@ -1,6 +1,6 @@
 # Don't Make Me Go
 
-[Compare across authors](../../compare/?t=film-dont-make-me-go_861072)
+[Compare across authors](../compare/index.md?t=film-dont-make-me-go_861072)
 
 ## DD+ 5.1
 

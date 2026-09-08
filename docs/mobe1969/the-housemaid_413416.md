@@ -1,6 +1,6 @@
 # The Housemaid
 
-[Compare across authors](../../compare/?t=film-the-housemaid_413416)
+[Compare across authors](../compare/index.md?t=film-the-housemaid_413416)
 
 ## DTS-HD MA 5.1
 

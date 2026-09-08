@@ -1,6 +1,6 @@
 # Speckles: The Tarbosaurus
 
-[Compare across authors](../../compare/?t=film-speckles-the-tarbosaurus_128475)
+[Compare across authors](../compare/index.md?t=film-speckles-the-tarbosaurus_128475)
 
 ## DTS-HD MA 5.1
 

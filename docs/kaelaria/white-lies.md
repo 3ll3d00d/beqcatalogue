@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-white-lies_221619)
+* [Compare across authors](../compare/index.md?t=TV-white-lies_221619)
 
 * Production Year: 2024
 

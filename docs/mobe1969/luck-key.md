@@ -1,6 +1,6 @@
 # Luck-Key
 
-[Compare across authors](../../compare/?t=film-luck-key_421928)
+[Compare across authors](../compare/index.md?t=film-luck-key_421928)
 
 ## DTS-HD MA 5.1
 

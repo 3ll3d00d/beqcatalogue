@@ -1,6 +1,6 @@
 # Gantz
 
-[Compare across authors](../../compare/?t=film-gantz_56832)
+[Compare across authors](../compare/index.md?t=film-gantz_56832)
 
 ## DTS-HD MA 5.1
 

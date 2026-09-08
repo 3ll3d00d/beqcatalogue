@@ -1,6 +1,6 @@
 # Ghosts of the Abyss
 
-[Compare across authors](../../compare/?t=film-ghosts-of-the-abyss_24982)
+[Compare across authors](../compare/index.md?t=film-ghosts-of-the-abyss_24982)
 
 ## DTS-HD MA 5.1
 

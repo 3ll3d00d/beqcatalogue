@@ -1,6 +1,6 @@
 # Wedding Crashers
 
-[Compare across authors](../../compare/?t=film-wedding-crashers_9522)
+[Compare across authors](../compare/index.md?t=film-wedding-crashers_9522)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Last Passenger
 
-[Compare across authors](../../compare/?t=film-last-passenger_104329)
+[Compare across authors](../compare/index.md?t=film-last-passenger_104329)
 
 ## DD+ 2.0
 

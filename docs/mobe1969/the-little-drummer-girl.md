@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-little-drummer-girl_76887)
+[Compare across authors](../compare/index.md?t=TV-the-little-drummer-girl_76887)
 
 ## Season 1
 

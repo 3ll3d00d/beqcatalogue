@@ -1,6 +1,6 @@
 # Dolittle
 
-[Compare across authors](../../compare/?t=film-dolittle_448119)
+[Compare across authors](../compare/index.md?t=film-dolittle_448119)
 
 ## Atmos
 

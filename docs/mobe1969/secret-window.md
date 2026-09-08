@@ -1,6 +1,6 @@
 # Secret Window
 
-[Compare across authors](../../compare/?t=film-secret-window_1586)
+[Compare across authors](../compare/index.md?t=film-secret-window_1586)
 
 ## LPCM 5.1
 

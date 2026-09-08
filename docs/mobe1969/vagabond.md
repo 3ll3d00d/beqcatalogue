@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-vagabond_92983)
+[Compare across authors](../compare/index.md?t=TV-vagabond_92983)
 
 ## Season 1
 

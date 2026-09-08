@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-walking-dead_1402)
+* [Compare across authors](../compare/index.md?t=TV-the-walking-dead_1402)
 
 * Production Year: 2010
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-walking-dead_1402)
+* [Compare across authors](../compare/index.md?t=TV-the-walking-dead_1402)
 
 * Production Year: 2010
 
@@ -37,7 +37,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-walking-dead_1402)
+* [Compare across authors](../compare/index.md?t=TV-the-walking-dead_1402)
 
 * Production Year: 2010
 

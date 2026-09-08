@@ -1,6 +1,6 @@
 # The Grey
 
-[Compare across authors](../../compare/?t=film-the-grey_75174)
+[Compare across authors](../compare/index.md?t=film-the-grey_75174)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-rana-naidu_203202)
+[Compare across authors](../compare/index.md?t=TV-rana-naidu_203202)
 
 ## Season 1
 

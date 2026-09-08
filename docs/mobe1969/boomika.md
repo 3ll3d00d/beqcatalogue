@@ -1,6 +1,6 @@
 # Boomika
 
-[Compare across authors](../../compare/?t=film-boomika_861818)
+[Compare across authors](../compare/index.md?t=film-boomika_861818)
 
 ## DD+ 5.1
 

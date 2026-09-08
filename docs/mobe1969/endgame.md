@@ -1,6 +1,6 @@
 # Endgame
 
-[Compare across authors](../../compare/?t=film-endgame_752803)
+[Compare across authors](../compare/index.md?t=film-endgame_752803)
 
 ## Atmos
 

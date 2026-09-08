@@ -1,6 +1,6 @@
 # Rumble in the Bronx
 
-[Compare across authors](../../compare/?t=film-rumble-in-the-bronx_33542)
+[Compare across authors](../compare/index.md?t=film-rumble-in-the-bronx_33542)
 
 ## DTS-HD MA 5.1
 

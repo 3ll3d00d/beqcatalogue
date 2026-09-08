@@ -1,6 +1,6 @@
 # Mara
 
-[Compare across authors](../../compare/?t=film-mara_514277)
+[Compare across authors](../compare/index.md?t=film-mara_514277)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Hellboy II: The Golden Army
 
-[Compare across authors](../../compare/?t=film-hellboy-ii-the-golden-army_11253)
+[Compare across authors](../compare/index.md?t=film-hellboy-ii-the-golden-army_11253)
 
 ## DTS-X
 

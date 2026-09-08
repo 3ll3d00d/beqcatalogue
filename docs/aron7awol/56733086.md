@@ -1,6 +1,6 @@
 # Clear and Present Danger
 
-[Compare across authors](../../compare/?t=film-clear-and-present-danger_9331)
+[Compare across authors](../compare/index.md?t=film-clear-and-present-danger_9331)
 
 ## TrueHD 5.1
 

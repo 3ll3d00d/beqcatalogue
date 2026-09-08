@@ -1,6 +1,6 @@
 # King Richard
 
-[Compare across authors](../../compare/?t=film-king-richard_614917)
+[Compare across authors](../compare/index.md?t=film-king-richard_614917)
 
 ## DD+ Atmos, DD+ 5.1
 

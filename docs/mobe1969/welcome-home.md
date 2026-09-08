@@ -1,6 +1,6 @@
 # Welcome Home
 
-[Compare across authors](../../compare/?t=film-welcome-home_525460)
+[Compare across authors](../compare/index.md?t=film-welcome-home_525460)
 
 ## DTS-HD MA 5.1
 

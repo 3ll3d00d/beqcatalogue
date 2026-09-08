@@ -1,6 +1,6 @@
 # Offering to the Storm
 
-[Compare across authors](../../compare/?t=film-offering-to-the-storm_673174)
+[Compare across authors](../compare/index.md?t=film-offering-to-the-storm_673174)
 
 ## DD+ 5.1
 

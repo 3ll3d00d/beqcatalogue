@@ -1,6 +1,6 @@
 # The Knight of Shadows
 
-[Compare across authors](../../compare/?t=film-the-knight-of-shadows_512901)
+[Compare across authors](../compare/index.md?t=film-the-knight-of-shadows_512901)
 
 ## DTS-HD MA 5.1
 

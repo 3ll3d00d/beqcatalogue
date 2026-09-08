@@ -1,6 +1,6 @@
 # What Happened to Monday
 
-[Compare across authors](../../compare/?t=film-what-happened-to-monday_406990)
+[Compare across authors](../compare/index.md?t=film-what-happened-to-monday_406990)
 
 ## DTS-HD MA 5.1
 

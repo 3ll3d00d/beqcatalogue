@@ -1,6 +1,6 @@
 # Sorcerer
 
-[Compare across authors](../../compare/?t=film-sorcerer_38985)
+[Compare across authors](../compare/index.md?t=film-sorcerer_38985)
 
 ## DTS-HD MA 5.1
 

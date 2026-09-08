@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-criminal-germany_93886)
+[Compare across authors](../compare/index.md?t=TV-criminal-germany_93886)
 
 ## Season 1
 

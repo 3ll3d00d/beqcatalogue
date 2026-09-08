@@ -1,6 +1,6 @@
 # Bumblebee
 
-[Compare across authors](../../compare/?t=film-bumblebee_424783)
+[Compare across authors](../compare/index.md?t=film-bumblebee_424783)
 
 ## Atmos
 

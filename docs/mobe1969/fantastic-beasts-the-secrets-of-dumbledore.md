@@ -1,6 +1,6 @@
 # Fantastic Beasts: The Secrets of Dumbledore
 
-[Compare across authors](../../compare/?t=film-fantastic-beasts-the-secrets-of-dumbledore_338953)
+[Compare across authors](../compare/index.md?t=film-fantastic-beasts-the-secrets-of-dumbledore_338953)
 
 ## Atmos, DD+ Atmos, DD+ 5.1
 

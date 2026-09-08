@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-burning-body_229962)
+[Compare across authors](../compare/index.md?t=TV-burning-body_229962)
 
 ## Season 1
 

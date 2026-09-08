@@ -1,6 +1,6 @@
 # Hindi Medium
 
-[Compare across authors](../../compare/?t=film-hindi-medium_456570)
+[Compare across authors](../compare/index.md?t=film-hindi-medium_456570)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # K-20: The Fiend with Twenty Faces
 
-[Compare across authors](../../compare/?t=film-k-20-the-fiend-with-twenty-faces_24410)
+[Compare across authors](../compare/index.md?t=film-k-20-the-fiend-with-twenty-faces_24410)
 
 ## DTS-HD MA 5.1
 

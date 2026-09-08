@@ -1,6 +1,6 @@
 # The Great Battle
 
-[Compare across authors](../../compare/?t=film-the-great-battle_535389)
+[Compare across authors](../compare/index.md?t=film-the-great-battle_535389)
 
 ## DTS-HD MA 5.1
 

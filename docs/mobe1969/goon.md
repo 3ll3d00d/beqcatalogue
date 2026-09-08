@@ -1,6 +1,6 @@
 # Goon
 
-[Compare across authors](../../compare/?t=film-goon_74387)
+[Compare across authors](../compare/index.md?t=film-goon_74387)
 
 ## DTS-HD MA 5.1
 

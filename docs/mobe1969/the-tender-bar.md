@@ -1,6 +1,6 @@
 # The Tender Bar
 
-[Compare across authors](../../compare/?t=film-the-tender-bar_727293)
+[Compare across authors](../compare/index.md?t=film-the-tender-bar_727293)
 
 ## DD+ 5.1
 

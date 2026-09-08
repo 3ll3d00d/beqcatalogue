@@ -1,6 +1,6 @@
 # Instant Family
 
-[Compare across authors](../../compare/?t=film-instant-family_491418)
+[Compare across authors](../compare/index.md?t=film-instant-family_491418)
 
 ## DTS-HD MA 7.1
 

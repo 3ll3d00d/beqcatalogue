@@ -1,6 +1,6 @@
 # Dark Water
 
-[Compare across authors](../../compare/?t=film-dark-water_12205)
+[Compare across authors](../compare/index.md?t=film-dark-water_12205)
 
 ## DTS-HD MA 5.1
 

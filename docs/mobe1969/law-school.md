@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-law-school_119773)
+[Compare across authors](../compare/index.md?t=TV-law-school_119773)
 
 ## Season 1
 

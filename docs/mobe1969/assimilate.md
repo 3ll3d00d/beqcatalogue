@@ -1,6 +1,6 @@
 # Assimilate
 
-[Compare across authors](../../compare/?t=film-assimilate_528985)
+[Compare across authors](../compare/index.md?t=film-assimilate_528985)
 
 ## DD+ 5.1
 

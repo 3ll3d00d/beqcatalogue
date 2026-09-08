@@ -1,6 +1,6 @@
 # The Conjuring: The Devil Made Me Do It
 
-[Compare across authors](../../compare/?t=film-the-conjuring-the-devil-made-me-do-it_423108)
+[Compare across authors](../compare/index.md?t=film-the-conjuring-the-devil-made-me-do-it_423108)
 
 ## Atmos
 

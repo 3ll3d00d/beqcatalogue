@@ -1,6 +1,6 @@
 # Resident Evil: Afterlife
 
-[Compare across authors](../../compare/?t=film-resident-evil-afterlife_35791)
+[Compare across authors](../compare/index.md?t=film-resident-evil-afterlife_35791)
 
 ## Atmos
 

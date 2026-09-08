@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-hijack_198102)
+[Compare across authors](../compare/index.md?t=TV-hijack_198102)
 
 ## Season 1
 

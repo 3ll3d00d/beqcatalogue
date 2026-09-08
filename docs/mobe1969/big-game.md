@@ -1,6 +1,6 @@
 # Big Game
 
-[Compare across authors](../../compare/?t=film-big-game_230179)
+[Compare across authors](../compare/index.md?t=film-big-game_230179)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-man-vs-bee_197588)
+[Compare across authors](../compare/index.md?t=TV-man-vs-bee_197588)
 
 ## Season 1
 

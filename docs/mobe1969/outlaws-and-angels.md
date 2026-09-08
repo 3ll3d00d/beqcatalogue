@@ -1,6 +1,6 @@
 # Outlaws and Angels
 
-[Compare across authors](../../compare/?t=film-outlaws-and-angels_376501)
+[Compare across authors](../compare/index.md?t=film-outlaws-and-angels_376501)
 
 ## DD+ 5.1
 

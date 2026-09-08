@@ -1,6 +1,6 @@
 # 16 Lygis
 
-[Compare across authors](../../compare/?t=film-16-lygis_548066)
+[Compare across authors](../compare/index.md?t=film-16-lygis_548066)
 
 ## DD+ 5.1
 

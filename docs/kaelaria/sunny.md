@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-sunny_157226)
+* [Compare across authors](../compare/index.md?t=TV-sunny_157226)
 
 * Production Year: 2024
 

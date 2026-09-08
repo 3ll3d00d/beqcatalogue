@@ -1,6 +1,6 @@
 # LOLA
 
-[Compare across authors](../../compare/?t=film-lola_941019)
+[Compare across authors](../compare/index.md?t=film-lola_941019)
 
 ## DD+ 5.1
 

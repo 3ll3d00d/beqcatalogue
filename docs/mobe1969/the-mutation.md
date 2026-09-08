@@ -1,6 +1,6 @@
 # The Mutation
 
-[Compare across authors](../../compare/?t=film-the-mutation_801583)
+[Compare across authors](../compare/index.md?t=film-the-mutation_801583)
 
 ## DD+ 5.1
 

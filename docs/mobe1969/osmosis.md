@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-osmosis_85424)
+[Compare across authors](../compare/index.md?t=TV-osmosis_85424)
 
 ## Season 1
 

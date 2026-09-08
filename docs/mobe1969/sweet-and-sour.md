@@ -1,6 +1,6 @@
 # Sweet and Sour
 
-[Compare across authors](../../compare/?t=film-sweet-and-sour_662237)
+[Compare across authors](../compare/index.md?t=film-sweet-and-sour_662237)
 
 ## DD+ 5.1
 

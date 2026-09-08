@@ -1,6 +1,6 @@
 # Enola Holmes 2
 
-[Compare across authors](../../compare/?t=film-enola-holmes-2_829280)
+[Compare across authors](../compare/index.md?t=film-enola-holmes-2_829280)
 
 ## DD+ Atmos
 

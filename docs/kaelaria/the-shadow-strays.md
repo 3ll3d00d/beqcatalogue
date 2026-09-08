@@ -10,7 +10,7 @@ A young assassin defies her mentor and organization, hellbent on rescuing a boy 
 IND
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1151949)  [Compare across authors](../../compare/?t=film-the-shadow-strays_1151949)
+[TMDB](https://www.themoviedb.org/movie/1151949)  [Compare across authors](../compare/index.md?t=film-the-shadow-strays_1151949)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/The%20Shadow%20Strays%20(2024)%20(ind)%20DD%2B%20Atmos.jpg)

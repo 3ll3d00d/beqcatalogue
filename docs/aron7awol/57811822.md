@@ -1,6 +1,6 @@
 # Dragged Across Concrete
 
-[Compare across authors](../../compare/?t=film-dragged-across-concrete_438674)
+[Compare across authors](../compare/index.md?t=film-dragged-across-concrete_438674)
 
 ## DTS-HD MA 5.1
 

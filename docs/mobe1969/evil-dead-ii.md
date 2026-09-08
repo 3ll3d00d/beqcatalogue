@@ -1,6 +1,6 @@
 # Evil Dead II
 
-[Compare across authors](../../compare/?t=film-evil-dead-ii_765)
+[Compare across authors](../compare/index.md?t=film-evil-dead-ii_765)
 
 ## DTS-HD MA 5.1
 

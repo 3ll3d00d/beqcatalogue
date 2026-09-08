@@ -1,6 +1,6 @@
 # The Cleaning Lady
 
-[Compare across authors](../../compare/?t=film-the-cleaning-lady_534271)
+[Compare across authors](../compare/index.md?t=film-the-cleaning-lady_534271)
 
 ## DD+ 5.1
 

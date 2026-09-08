@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-wyatt-earp-and-the-cowboy-war_259709)
+* [Compare across authors](../compare/index.md?t=TV-wyatt-earp-and-the-cowboy-war_259709)
 
 * Production Year: 2024
 

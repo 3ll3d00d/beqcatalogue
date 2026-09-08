@@ -1,6 +1,6 @@
 # Hostile
 
-[Compare across authors](../../compare/?t=film-hostile_461992)
+[Compare across authors](../compare/index.md?t=film-hostile_461992)
 
 ## DD+ 5.1
 

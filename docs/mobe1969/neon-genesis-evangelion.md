@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-neon-genesis-evangelion_890)
+[Compare across authors](../compare/index.md?t=TV-neon-genesis-evangelion_890)
 
 ## Season 1
 

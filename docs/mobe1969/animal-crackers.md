@@ -1,6 +1,6 @@
 # Animal Crackers
 
-[Compare across authors](../../compare/?t=film-animal-crackers_315064)
+[Compare across authors](../compare/index.md?t=film-animal-crackers_315064)
 
 ## DD+ 5.1
 

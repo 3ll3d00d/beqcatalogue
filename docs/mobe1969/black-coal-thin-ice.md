@@ -1,6 +1,6 @@
 # Black Coal, Thin Ice
 
-[Compare across authors](../../compare/?t=film-black-coal-thin-ice_255756)
+[Compare across authors](../compare/index.md?t=film-black-coal-thin-ice_255756)
 
 ## DTS-HD MA 5.1
 

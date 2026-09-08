@@ -1,6 +1,6 @@
 # Trespass
 
-[Compare across authors](../../compare/?t=film-trespass_70578)
+[Compare across authors](../compare/index.md?t=film-trespass_70578)
 
 ## DTS-HD MA 5.1
 

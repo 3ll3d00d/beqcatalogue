@@ -1,6 +1,6 @@
 # The Hobbit: An Unexpected Journey
 
-[Compare across authors](../../compare/?t=film-the-hobbit-an-unexpected-journey_49051)
+[Compare across authors](../compare/index.md?t=film-the-hobbit-an-unexpected-journey_49051)
 
 ## Atmos
 

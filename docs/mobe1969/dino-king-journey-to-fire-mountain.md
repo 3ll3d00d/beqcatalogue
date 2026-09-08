@@ -1,6 +1,6 @@
 # Dino King: Journey to Fire Mountain
 
-[Compare across authors](../../compare/?t=film-dino-king-journey-to-fire-mountain_561974)
+[Compare across authors](../compare/index.md?t=film-dino-king-journey-to-fire-mountain_561974)
 
 ## DD+ 5.1
 

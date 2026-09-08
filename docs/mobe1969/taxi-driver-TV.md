@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-taxi-driver_119769)
+[Compare across authors](../compare/index.md?t=TV-taxi-driver_119769)
 
 ## Season 1
 

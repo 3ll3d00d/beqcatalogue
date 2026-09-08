@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-watership-down_68394)
+[Compare across authors](../compare/index.md?t=TV-watership-down_68394)
 
 ## Season 1
 

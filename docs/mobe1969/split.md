@@ -1,6 +1,6 @@
 # Split
 
-[Compare across authors](../../compare/?t=film-split_381288)
+[Compare across authors](../compare/index.md?t=film-split_381288)
 
 ## DTS-HD MA 5.1
 

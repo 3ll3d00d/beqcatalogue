@@ -1,6 +1,6 @@
 # Revenge of the Green Dragons
 
-[Compare across authors](../../compare/?t=film-revenge-of-the-green-dragons_286709)
+[Compare across authors](../compare/index.md?t=film-revenge-of-the-green-dragons_286709)
 
 ## DTS-HD MA 5.1
 

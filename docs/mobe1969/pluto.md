@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-pluto_91997)
+[Compare across authors](../compare/index.md?t=TV-pluto_91997)
 
 ## Season 1
 

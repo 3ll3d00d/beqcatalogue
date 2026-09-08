@@ -1,6 +1,6 @@
 # Berserk: The Golden Age Arc II - The Battle for Doldrey
 
-[Compare across authors](../../compare/?t=film-berserk-the-golden-age-arc-ii-the-battle-for-doldrey_118412)
+[Compare across authors](../compare/index.md?t=film-berserk-the-golden-age-arc-ii-the-battle-for-doldrey_118412)
 
 ## DTS-HD MA 5.1
 

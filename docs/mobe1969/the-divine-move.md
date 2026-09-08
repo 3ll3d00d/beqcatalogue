@@ -1,6 +1,6 @@
 # The Divine Move
 
-[Compare across authors](../../compare/?t=film-the-divine-move_281298)
+[Compare across authors](../compare/index.md?t=film-the-divine-move_281298)
 
 ## DD 5.1
 

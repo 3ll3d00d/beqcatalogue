@@ -1,6 +1,6 @@
 # Redacted
 
-[Compare across authors](../../compare/?t=film-redacted_11600)
+[Compare across authors](../compare/index.md?t=film-redacted_11600)
 
 ## DTS-HD MA 5.1
 

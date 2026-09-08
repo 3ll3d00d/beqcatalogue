@@ -1,6 +1,6 @@
 # Anikalupo
 
-[Compare across authors](../../compare/?t=film-anikalupo_1023994)
+[Compare across authors](../compare/index.md?t=film-anikalupo_1023994)
 
 ## DD+ 5.1
 

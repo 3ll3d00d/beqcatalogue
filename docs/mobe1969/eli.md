@@ -1,6 +1,6 @@
 # Eli
 
-[Compare across authors](../../compare/?t=film-eli_483202)
+[Compare across authors](../compare/index.md?t=film-eli_483202)
 
 ## DD+ 5.1
 

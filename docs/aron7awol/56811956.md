@@ -1,6 +1,6 @@
 # Fantastic Four
 
-[Compare across authors](../../compare/?t=film-fantastic-four_166424)
+[Compare across authors](../compare/index.md?t=film-fantastic-four_166424)
 
 ## DTS-HD MA 7.1
 

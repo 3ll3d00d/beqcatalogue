@@ -1,6 +1,6 @@
 # Dream Flight
 
-[Compare across authors](../../compare/?t=film-dream-flight_336277)
+[Compare across authors](../compare/index.md?t=film-dream-flight_336277)
 
 ## DTS-HD MA 5.1
 

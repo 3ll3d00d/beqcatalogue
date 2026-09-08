@@ -1,6 +1,6 @@
 # The Bad Guys
 
-[Compare across authors](../../compare/?t=film-the-bad-guys_629542)
+[Compare across authors](../compare/index.md?t=film-the-bad-guys_629542)
 
 ## Atmos
 

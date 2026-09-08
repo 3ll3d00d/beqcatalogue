@@ -1,6 +1,6 @@
 # The Man From Toronto
 
-[Compare across authors](../../compare/?t=film-the-man-from-toronto_667739)
+[Compare across authors](../compare/index.md?t=film-the-man-from-toronto_667739)
 
 ## DD+ Atmos
 

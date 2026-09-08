@@ -7,7 +7,7 @@
 In a futuristic dystopia with enforced beauty standards, a teen awaiting mandatory cosmetic surgery embarks on a journey to find her missing friend.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/748167)  [Compare across authors](../../compare/?t=film-uglies_748167)
+[TMDB](https://www.themoviedb.org/movie/748167)  [Compare across authors](../compare/index.md?t=film-uglies_748167)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/U/Uglies/Uglies%20(2024)%20DD%2B%20Atmos.jpg)

@@ -12,7 +12,7 @@ Inside of his book, adventurous Harold can make anything come to life simply by 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1505?post_id=63565084#post-63565084)  [TMDB](https://www.themoviedb.org/movie/826510)  [Compare across authors](../../compare/?t=film-harold-and-the-purple-crayon_826510)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1505?post_id=63565084#post-63565084)  [TMDB](https://www.themoviedb.org/movie/826510)  [Compare across authors](../compare/index.md?t=film-harold-and-the-purple-crayon_826510)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Harold%20and%20the%20Purple%20Crayon%20(2024)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)
@@ -28,7 +28,7 @@ Inside of his book, adventurous Harold can make anything come to life simply by 
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1510?post_id=63582832#post-63582832)  [TMDB](https://www.themoviedb.org/movie/826510)  [Compare across authors](../../compare/?t=film-harold-and-the-purple-crayon_826510)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1510?post_id=63582832#post-63582832)  [TMDB](https://www.themoviedb.org/movie/826510)  [Compare across authors](../compare/index.md?t=film-harold-and-the-purple-crayon_826510)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Harold%20and%20the%20Purple%20Crayon%20(2024)%20(%2B4%20gain)%20DTS-HD%20MA%205.1.jpg)

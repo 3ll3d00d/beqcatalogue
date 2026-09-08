@@ -7,7 +7,7 @@
 After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/986056)  [Compare across authors](../../compare/?t=film-thunderbolts_986056)
+[TMDB](https://www.themoviedb.org/movie/986056)  [Compare across authors](../compare/index.md?t=film-thunderbolts_986056)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Thunderbolts/Thunderbolts%20(2025)%20Atmos.jpg)
@@ -21,7 +21,7 @@ After finding themselves ensnared in a death trap, seven disillusioned castoffs 
 After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/986056)  [Compare across authors](../../compare/?t=film-thunderbolts_986056)
+[TMDB](https://www.themoviedb.org/movie/986056)  [Compare across authors](../compare/index.md?t=film-thunderbolts_986056)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Thunderbolts/Thunderbolts%20(2025)%20DD%2B%20Atmos.jpg)
@@ -35,7 +35,7 @@ After finding themselves ensnared in a death trap, seven disillusioned castoffs 
 After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/986056)  [Compare across authors](../../compare/?t=film-thunderbolts_986056)
+[TMDB](https://www.themoviedb.org/movie/986056)  [Compare across authors](../compare/index.md?t=film-thunderbolts_986056)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Thunderbolts/Thunderbolts%20(2025)%20DTS-HD%20MA%207.1.jpg)

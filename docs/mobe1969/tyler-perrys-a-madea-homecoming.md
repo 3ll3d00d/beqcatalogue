@@ -1,6 +1,6 @@
 # Tyler Perry's A Madea Homecoming
 
-[Compare across authors](../../compare/?t=film-tyler-perrys-a-madea-homecoming_845404)
+[Compare across authors](../compare/index.md?t=film-tyler-perrys-a-madea-homecoming_845404)
 
 ## DD+ Atmos
 

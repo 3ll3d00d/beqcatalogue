@@ -1,6 +1,6 @@
 # London Boulevard
 
-[Compare across authors](../../compare/?t=film-london-boulevard_48838)
+[Compare across authors](../compare/index.md?t=film-london-boulevard_48838)
 
 ## DTS-HD MA 5.1
 

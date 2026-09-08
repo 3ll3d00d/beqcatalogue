@@ -1,6 +1,6 @@
 # Platoon
 
-[Compare across authors](../../compare/?t=film-platoon_792)
+[Compare across authors](../compare/index.md?t=film-platoon_792)
 
 ## DTS-HD MA 5.1, DD 5.1
 

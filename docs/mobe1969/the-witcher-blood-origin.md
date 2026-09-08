@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-witcher-blood-origin_106541)
+[Compare across authors](../compare/index.md?t=TV-the-witcher-blood-origin_106541)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Rurouni Kenshin Part III: The Legend Ends
 
-[Compare across authors](../../compare/?t=film-rurouni-kenshin-part-iii-the-legend-ends_221732)
+[Compare across authors](../compare/index.md?t=film-rurouni-kenshin-part-iii-the-legend-ends_221732)
 
 ## DTS-HD MA 5.1
 

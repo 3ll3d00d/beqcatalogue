@@ -1,6 +1,6 @@
 # The Unjust
 
-[Compare across authors](../../compare/?t=film-the-unjust_61062)
+[Compare across authors](../compare/index.md?t=film-the-unjust_61062)
 
 ## DTS-HD MA 5.1
 

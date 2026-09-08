@@ -1,6 +1,6 @@
 # The Scorpion King: Book of Souls
 
-[Compare across authors](../../compare/?t=film-the-scorpion-king-book-of-souls_522417)
+[Compare across authors](../compare/index.md?t=film-the-scorpion-king-book-of-souls_522417)
 
 ## DTS-HD MA 5.1
 

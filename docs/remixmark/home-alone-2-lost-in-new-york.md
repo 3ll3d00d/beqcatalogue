@@ -9,7 +9,7 @@ Instead of flying to Florida with his folks, Kevin ends up alone in New York, wh
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1541?post_id=63717795#post-63717795)  [TMDB](https://www.themoviedb.org/movie/772)  [Compare across authors](../../compare/?t=film-home-alone-2-lost-in-new-york_772)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1541?post_id=63717795#post-63717795)  [TMDB](https://www.themoviedb.org/movie/772)  [Compare across authors](../compare/index.md?t=film-home-alone-2-lost-in-new-york_772)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Home%20Alone%202%20Lost%20in%20New%20York%20(1992)%20(%2B6%20gain)%20DTS-HD%20MA%205.1.jpg)

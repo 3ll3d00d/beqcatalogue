@@ -10,7 +10,7 @@ When a gunman enters an Apple Store in the heart of Amsterdam, the police face a
 Spoken Language is "Dutch"
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1371202)  [Compare across authors](../../compare/?t=film-ihostage_1371202)
+[TMDB](https://www.themoviedb.org/movie/1371202)  [Compare across authors](../compare/index.md?t=film-ihostage_1371202)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/iHostage/iHostage%20(2025)%20DD%2B%20Atmos.jpg)

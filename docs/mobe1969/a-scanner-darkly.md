@@ -1,6 +1,6 @@
 # A Scanner Darkly
 
-[Compare across authors](../../compare/?t=film-a-scanner-darkly_3509)
+[Compare across authors](../compare/index.md?t=film-a-scanner-darkly_3509)
 
 ## DD 5.1
 

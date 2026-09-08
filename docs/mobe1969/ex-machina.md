@@ -1,6 +1,6 @@
 # Ex Machina
 
-[Compare across authors](../../compare/?t=film-ex-machina_264660)
+[Compare across authors](../compare/index.md?t=film-ex-machina_264660)
 
 ## DTS-X
 

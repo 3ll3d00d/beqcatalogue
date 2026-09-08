@@ -1,6 +1,6 @@
 # Goodbye World
 
-[Compare across authors](../../compare/?t=film-goodbye-world_201066)
+[Compare across authors](../compare/index.md?t=film-goodbye-world_201066)
 
 ## DTS-HD MA 5.1
 

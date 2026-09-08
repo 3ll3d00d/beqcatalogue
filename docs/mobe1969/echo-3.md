@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-echo-3_106116)
+[Compare across authors](../compare/index.md?t=TV-echo-3_106116)
 
 ## Season 1
 

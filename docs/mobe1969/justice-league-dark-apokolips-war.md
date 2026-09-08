@@ -1,6 +1,6 @@
 # Justice League Dark: Apokolips War
 
-[Compare across authors](../../compare/?t=film-justice-league-dark-apokolips-war_618344)
+[Compare across authors](../compare/index.md?t=film-justice-league-dark-apokolips-war_618344)
 
 ## DTS-HD MA 5.1
 

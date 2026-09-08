@@ -10,7 +10,7 @@ Underwater deep-sea miners encounter a Soviet wreck and bring back a dangerous c
 4k Release
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/14372)  [Compare across authors](../../compare/?t=film-leviathan_14372)
+[TMDB](https://www.themoviedb.org/movie/14372)  [Compare across authors](../compare/index.md?t=film-leviathan_14372)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Leviathan.1989_s1_5.1(side)_to_mono.jpg)

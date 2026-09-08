@@ -1,6 +1,6 @@
 # Hillbilly Elegy
 
-[Compare across authors](../../compare/?t=film-hillbilly-elegy_592984)
+[Compare across authors](../compare/index.md?t=film-hillbilly-elegy_592984)
 
 ## DD+ 5.1
 

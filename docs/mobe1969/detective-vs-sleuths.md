@@ -1,6 +1,6 @@
 # Detective vs. Sleuths
 
-[Compare across authors](../../compare/?t=film-detective-vs-sleuths_543504)
+[Compare across authors](../compare/index.md?t=film-detective-vs-sleuths_543504)
 
 ## Atmos
 

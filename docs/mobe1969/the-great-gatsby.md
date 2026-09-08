@@ -1,6 +1,6 @@
 # The Great Gatsby
 
-[Compare across authors](../../compare/?t=film-the-great-gatsby_64682)
+[Compare across authors](../compare/index.md?t=film-the-great-gatsby_64682)
 
 ## DTS-HD MA 5.1
 

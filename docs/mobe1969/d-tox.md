@@ -1,6 +1,6 @@
 # D-Tox
 
-[Compare across authors](../../compare/?t=film-d-tox_10375)
+[Compare across authors](../compare/index.md?t=film-d-tox_10375)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Never Let Go
 
-[Compare across authors](../../compare/?t=film-never-let-go_347761)
+[Compare across authors](../compare/index.md?t=film-never-let-go_347761)
 
 ## DD+ 5.1
 

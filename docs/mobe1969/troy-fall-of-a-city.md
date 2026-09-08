@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-troy-fall-of-a-city_71181)
+[Compare across authors](../compare/index.md?t=TV-troy-fall-of-a-city_71181)
 
 ## Season 1
 

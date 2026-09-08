@@ -1,6 +1,6 @@
 # Svaha: The Sixth Finger
 
-[Compare across authors](../../compare/?t=film-svaha-the-sixth-finger_556509)
+[Compare across authors](../compare/index.md?t=film-svaha-the-sixth-finger_556509)
 
 ## DD+ 5.1
 

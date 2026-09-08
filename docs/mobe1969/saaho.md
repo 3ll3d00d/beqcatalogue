@@ -1,6 +1,6 @@
 # Saaho
 
-[Compare across authors](../../compare/?t=film-saaho_454292)
+[Compare across authors](../compare/index.md?t=film-saaho_454292)
 
 ## DD+ 5.1
 

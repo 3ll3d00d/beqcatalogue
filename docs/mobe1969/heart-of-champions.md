@@ -1,6 +1,6 @@
 # Heart of Champions
 
-[Compare across authors](../../compare/?t=film-heart-of-champions_647581)
+[Compare across authors](../compare/index.md?t=film-heart-of-champions_647581)
 
 ## DD+ 5.1
 

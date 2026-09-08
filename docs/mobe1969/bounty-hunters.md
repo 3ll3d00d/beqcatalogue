@@ -1,6 +1,6 @@
 # Bounty Hunters
 
-[Compare across authors](../../compare/?t=film-bounty-hunters_388764)
+[Compare across authors](../compare/index.md?t=film-bounty-hunters_388764)
 
 ## TrueHD 5.1
 

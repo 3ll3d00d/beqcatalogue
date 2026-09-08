@@ -1,6 +1,6 @@
 # Paranormal Activity: The Ghost Dimension
 
-[Compare across authors](../../compare/?t=film-paranormal-activity-the-ghost-dimension_146301)
+[Compare across authors](../compare/index.md?t=film-paranormal-activity-the-ghost-dimension_146301)
 
 ## DTS-HD MA 5.1
 

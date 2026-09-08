@@ -1,6 +1,6 @@
 # Drunk Parents
 
-[Compare across authors](../../compare/?t=film-drunk-parents_369560)
+[Compare across authors](../compare/index.md?t=film-drunk-parents_369560)
 
 ## DD+ 5.1
 

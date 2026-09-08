@@ -1,6 +1,6 @@
 # Sword Master
 
-[Compare across authors](../../compare/?t=film-sword-master_367206)
+[Compare across authors](../compare/index.md?t=film-sword-master_367206)
 
 ## DTS-X
 

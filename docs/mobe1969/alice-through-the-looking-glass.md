@@ -1,6 +1,6 @@
 # Alice Through the Looking Glass
 
-[Compare across authors](../../compare/?t=film-alice-through-the-looking-glass_241259)
+[Compare across authors](../compare/index.md?t=film-alice-through-the-looking-glass_241259)
 
 ## DTS-HD MA 7.1
 

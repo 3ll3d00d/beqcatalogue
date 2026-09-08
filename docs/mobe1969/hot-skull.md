@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-hot-skull_212818)
+[Compare across authors](../compare/index.md?t=TV-hot-skull_212818)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # The Eagle's Nest
 
-[Compare across authors](../../compare/?t=film-the-eagles-nest_749824)
+[Compare across authors](../compare/index.md?t=film-the-eagles-nest_749824)
 
 ## DD+ 2.0
 

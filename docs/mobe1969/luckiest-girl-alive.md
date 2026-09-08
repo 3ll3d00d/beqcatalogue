@@ -1,6 +1,6 @@
 # Luckiest Girl Alive
 
-[Compare across authors](../../compare/?t=film-luckiest-girl-alive_799546)
+[Compare across authors](../compare/index.md?t=film-luckiest-girl-alive_799546)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Prom Night
 
-[Compare across authors](../../compare/?t=film-prom-night_8617)
+[Compare across authors](../compare/index.md?t=film-prom-night_8617)
 
 ## TrueHD 5.1
 

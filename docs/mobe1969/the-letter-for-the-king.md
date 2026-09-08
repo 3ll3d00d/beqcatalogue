@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-letter-for-the-king_99356)
+[Compare across authors](../compare/index.md?t=TV-the-letter-for-the-king_99356)
 
 ## Season 1
 

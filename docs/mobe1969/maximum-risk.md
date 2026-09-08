@@ -1,6 +1,6 @@
 # Maximum Risk
 
-[Compare across authors](../../compare/?t=film-maximum-risk_10861)
+[Compare across authors](../compare/index.md?t=film-maximum-risk_10861)
 
 ## TrueHD 5.1
 

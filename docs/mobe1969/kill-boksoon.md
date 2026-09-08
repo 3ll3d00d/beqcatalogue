@@ -1,6 +1,6 @@
 # Kill Boksoon
 
-[Compare across authors](../../compare/?t=film-kill-boksoon_849869)
+[Compare across authors](../compare/index.md?t=film-kill-boksoon_849869)
 
 ## DD+ Atmos
 

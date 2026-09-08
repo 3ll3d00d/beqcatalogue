@@ -1,6 +1,6 @@
 # The Bourne Identity
 
-[Compare across authors](../../compare/?t=film-the-bourne-identity_2501)
+[Compare across authors](../compare/index.md?t=film-the-bourne-identity_2501)
 
 ## DD+ 5.1
 

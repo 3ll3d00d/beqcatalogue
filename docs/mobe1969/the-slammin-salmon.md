@@ -1,6 +1,6 @@
 # The Slammin' Salmon
 
-[Compare across authors](../../compare/?t=film-the-slammin-salmon_34423)
+[Compare across authors](../compare/index.md?t=film-the-slammin-salmon_34423)
 
 ## LPCM 5.1
 

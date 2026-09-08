@@ -1,6 +1,6 @@
 # 6 Days
 
-[Compare across authors](../../compare/?t=film-6-days_347984)
+[Compare across authors](../compare/index.md?t=film-6-days_347984)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

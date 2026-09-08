@@ -1,6 +1,6 @@
 # Idiocracy
 
-[Compare across authors](../../compare/?t=film-idiocracy_7512)
+[Compare across authors](../compare/index.md?t=film-idiocracy_7512)
 
 ## DD 5.1
 

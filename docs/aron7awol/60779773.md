@@ -1,6 +1,6 @@
 # Blue Miracle
 
-[Compare across authors](../../compare/?t=film-blue-miracle_671295)
+[Compare across authors](../compare/index.md?t=film-blue-miracle_671295)
 
 ## DD+ Atmos
 

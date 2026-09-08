@@ -1,6 +1,6 @@
 # My Kingdom
 
-[Compare across authors](../../compare/?t=film-my-kingdom_78022)
+[Compare across authors](../compare/index.md?t=film-my-kingdom_78022)
 
 ## DTS-HD MA 5.1
 

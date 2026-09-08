@@ -1,6 +1,6 @@
 # Robocop
 
-[Compare across authors](../../compare/?t=film-robocop_5548)
+[Compare across authors](../compare/index.md?t=film-robocop_5548)
 
 ## Atmos
 

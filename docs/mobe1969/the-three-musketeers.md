@@ -1,6 +1,6 @@
 # The Three Musketeers
 
-[Compare across authors](../../compare/?t=film-the-three-musketeers_52451)
+[Compare across authors](../compare/index.md?t=film-the-three-musketeers_52451)
 
 ## DTS-HD MA 5.1
 

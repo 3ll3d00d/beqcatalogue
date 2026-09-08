@@ -1,6 +1,6 @@
 # Ravanasura
 
-[Compare across authors](../../compare/?t=film-ravanasura_892269)
+[Compare across authors](../compare/index.md?t=film-ravanasura_892269)
 
 ## DD+ 5.1
 

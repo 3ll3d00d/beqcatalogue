@@ -1,6 +1,6 @@
 # Game Night
 
-[Compare across authors](../../compare/?t=film-game-night_445571)
+[Compare across authors](../compare/index.md?t=film-game-night_445571)
 
 ## DTS-HD MA 5.1
 

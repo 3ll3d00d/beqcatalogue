@@ -1,6 +1,6 @@
 # Sleepless
 
-[Compare across authors](../../compare/?t=film-sleepless_324542)
+[Compare across authors](../compare/index.md?t=film-sleepless_324542)
 
 ## DTS-HD MA 5.1
 

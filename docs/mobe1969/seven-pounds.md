@@ -1,6 +1,6 @@
 # Seven Pounds
 
-[Compare across authors](../../compare/?t=film-seven-pounds_11321)
+[Compare across authors](../compare/index.md?t=film-seven-pounds_11321)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # The Exorcist: Believer
 
-[Compare across authors](../../compare/?t=film-the-exorcist-believer_807172)
+[Compare across authors](../compare/index.md?t=film-the-exorcist-believer_807172)
 
 ## DD+ Atmos
 

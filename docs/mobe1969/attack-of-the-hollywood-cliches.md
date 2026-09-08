@@ -1,6 +1,6 @@
 # Attack of the Hollywood Clichés!
 
-[Compare across authors](../../compare/?t=film-attack-of-the-hollywood-cliches_877657)
+[Compare across authors](../compare/index.md?t=film-attack-of-the-hollywood-cliches_877657)
 
 ## DD+ 5.1
 

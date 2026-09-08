@@ -14,7 +14,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/63440880/)
 
-* [Compare across authors](../../compare/?t=TV-the-acolyte_114479)
+* [Compare across authors](../compare/index.md?t=TV-the-acolyte_114479)
 
 * Production Year: 2024
 

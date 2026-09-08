@@ -1,6 +1,6 @@
 # Paydirt
 
-[Compare across authors](../../compare/?t=film-paydirt_696002)
+[Compare across authors](../compare/index.md?t=film-paydirt_696002)
 
 ## DD 5.1
 

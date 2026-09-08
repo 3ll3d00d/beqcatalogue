@@ -1,6 +1,6 @@
 # Sooryavanshi
 
-[Compare across authors](../../compare/?t=film-sooryavanshi_592508)
+[Compare across authors](../compare/index.md?t=film-sooryavanshi_592508)
 
 ## DD+ 5.1
 

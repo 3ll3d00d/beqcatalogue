@@ -1,6 +1,6 @@
 # Locked Down
 
-[Compare across authors](../../compare/?t=film-locked-down_49261)
+[Compare across authors](../compare/index.md?t=film-locked-down_49261)
 
 ## DTS-HD MA 5.1
 

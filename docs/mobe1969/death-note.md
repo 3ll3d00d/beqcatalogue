@@ -1,6 +1,6 @@
 # Death Note
 
-[Compare across authors](../../compare/?t=film-death-note_16007)
+[Compare across authors](../compare/index.md?t=film-death-note_16007)
 
 ## DTS-HD MA 5.1
 

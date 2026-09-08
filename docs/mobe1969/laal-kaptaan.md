@@ -1,6 +1,6 @@
 # Laal Kaptaan
 
-[Compare across authors](../../compare/?t=film-laal-kaptaan_621003)
+[Compare across authors](../compare/index.md?t=film-laal-kaptaan_621003)
 
 ## DD+ 5.1
 

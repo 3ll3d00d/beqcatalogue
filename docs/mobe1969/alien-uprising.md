@@ -1,6 +1,6 @@
 # Alien Uprising
 
-[Compare across authors](../../compare/?t=film-alien-uprising_146631)
+[Compare across authors](../compare/index.md?t=film-alien-uprising_146631)
 
 ## DTS-HD MA 5.1
 

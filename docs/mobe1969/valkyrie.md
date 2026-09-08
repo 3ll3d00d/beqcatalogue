@@ -1,6 +1,6 @@
 # Valkyrie
 
-[Compare across authors](../../compare/?t=film-valkyrie_2253)
+[Compare across authors](../compare/index.md?t=film-valkyrie_2253)
 
 ## DTS-HD MA 5.1
 

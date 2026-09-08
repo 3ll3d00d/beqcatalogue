@@ -1,6 +1,6 @@
 # Gurudev Hoysala
 
-[Compare across authors](../../compare/?t=film-gurudev-hoysala_927223)
+[Compare across authors](../compare/index.md?t=film-gurudev-hoysala_927223)
 
 ## DD+ 5.1
 

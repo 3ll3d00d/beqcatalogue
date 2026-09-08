@@ -1,6 +1,6 @@
 # Fall
 
-[Compare across authors](../../compare/?t=film-fall_985939)
+[Compare across authors](../compare/index.md?t=film-fall_985939)
 
 ## Atmos
 

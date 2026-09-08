@@ -7,7 +7,7 @@
 A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1241983)  [Compare across authors](../../compare/?t=film-train-dreams_1241983)
+[TMDB](https://www.themoviedb.org/movie/1241983)  [Compare across authors](../compare/index.md?t=film-train-dreams_1241983)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Train%20Dreams/Train%20Dreams%20(2025)%20DD%2B%20Atmos.jpg)

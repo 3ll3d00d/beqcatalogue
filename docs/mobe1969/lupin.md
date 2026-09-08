@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-lupin_96677)
+[Compare across authors](../compare/index.md?t=TV-lupin_96677)
 
 ## Season 1
 

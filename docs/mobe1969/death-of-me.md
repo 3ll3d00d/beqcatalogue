@@ -1,6 +1,6 @@
 # Death of Me
 
-[Compare across authors](../../compare/?t=film-death-of-me_595149)
+[Compare across authors](../compare/index.md?t=film-death-of-me_595149)
 
 ## DTS-HD MA 5.1
 

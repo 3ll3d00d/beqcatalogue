@@ -1,6 +1,6 @@
 # Resident Evil
 
-[Compare across authors](../../compare/?t=film-resident-evil_1576)
+[Compare across authors](../compare/index.md?t=film-resident-evil_1576)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # 7 Prisoners
 
-[Compare across authors](../../compare/?t=film-7-prisoners_785538)
+[Compare across authors](../compare/index.md?t=film-7-prisoners_785538)
 
 ## DD+ Atmos
 

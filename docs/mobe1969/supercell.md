@@ -1,6 +1,6 @@
 # Supercell
 
-[Compare across authors](../../compare/?t=film-supercell_842945)
+[Compare across authors](../compare/index.md?t=film-supercell_842945)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Halloween Ends
 
-[Compare across authors](../../compare/?t=film-halloween-ends_616820)
+[Compare across authors](../compare/index.md?t=film-halloween-ends_616820)
 
 ## Atmos
 

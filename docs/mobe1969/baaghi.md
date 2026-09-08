@@ -1,6 +1,6 @@
 # Baaghi
 
-[Compare across authors](../../compare/?t=film-baaghi_391629)
+[Compare across authors](../compare/index.md?t=film-baaghi_391629)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Swelter
 
-[Compare across authors](../../compare/?t=film-swelter_256687)
+[Compare across authors](../compare/index.md?t=film-swelter_256687)
 
 ## DTS-HD MA 5.1
 

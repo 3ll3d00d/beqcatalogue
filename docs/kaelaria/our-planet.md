@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-our-planet_83880)
+* [Compare across authors](../compare/index.md?t=TV-our-planet_83880)
 
 * Production Year: 2019
 

@@ -1,6 +1,6 @@
 # Do Revenge
 
-[Compare across authors](../../compare/?t=film-do-revenge_762968)
+[Compare across authors](../compare/index.md?t=film-do-revenge_762968)
 
 ## DD+ Atmos
 

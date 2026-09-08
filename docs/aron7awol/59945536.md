@@ -1,6 +1,6 @@
 # Scoob!
 
-[Compare across authors](../../compare/?t=film-scoob_385103)
+[Compare across authors](../compare/index.md?t=film-scoob_385103)
 
 ## DTS-HD MA 5.1
 

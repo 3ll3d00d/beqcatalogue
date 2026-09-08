@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
+* [Compare across authors](../compare/index.md?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
 
 * Production Year: 2022
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
+* [Compare across authors](../compare/index.md?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
 
 * Production Year: 2022
 

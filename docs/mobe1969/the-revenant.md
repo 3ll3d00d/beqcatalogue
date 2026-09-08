@@ -1,6 +1,6 @@
 # The Revenant
 
-[Compare across authors](../../compare/?t=film-the-revenant_79896)
+[Compare across authors](../compare/index.md?t=film-the-revenant_79896)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Jewel of the Nile
 
-[Compare across authors](../../compare/?t=film-the-jewel-of-the-nile_10303)
+[Compare across authors](../compare/index.md?t=film-the-jewel-of-the-nile_10303)
 
 ## DTS-HD MA 5.1
 

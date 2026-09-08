@@ -1,6 +1,6 @@
 # Black Mask 2: City of Masks
 
-[Compare across authors](../../compare/?t=film-black-mask-2-city-of-masks_49516)
+[Compare across authors](../compare/index.md?t=film-black-mask-2-city-of-masks_49516)
 
 ## TrueHD 7.1
 

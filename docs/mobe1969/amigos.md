@@ -1,6 +1,6 @@
 # Amigos
 
-[Compare across authors](../../compare/?t=film-amigos_1034587)
+[Compare across authors](../compare/index.md?t=film-amigos_1034587)
 
 ## DD+ 5.1
 

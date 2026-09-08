@@ -1,6 +1,6 @@
 # REAL
 
-[Compare across authors](../../compare/?t=film-real_437633)
+[Compare across authors](../compare/index.md?t=film-real_437633)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Assault on VA-33
 
-[Compare across authors](../../compare/?t=film-assault-on-va-33_797294)
+[Compare across authors](../compare/index.md?t=film-assault-on-va-33_797294)
 
 ## DTS-HD MA 5.1
 

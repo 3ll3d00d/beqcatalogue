@@ -1,6 +1,6 @@
 # Mirrors
 
-[Compare across authors](../../compare/?t=film-mirrors_13515)
+[Compare across authors](../compare/index.md?t=film-mirrors_13515)
 
 ## DTS-HD MA 5.1
 

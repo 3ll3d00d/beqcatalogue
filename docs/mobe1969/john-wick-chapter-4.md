@@ -1,6 +1,6 @@
 # John Wick: Chapter 4
 
-[Compare across authors](../../compare/?t=film-john-wick-chapter-4_603692)
+[Compare across authors](../compare/index.md?t=film-john-wick-chapter-4_603692)
 
 ## Atmos
 

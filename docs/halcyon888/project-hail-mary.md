@@ -12,7 +12,7 @@ Science teacher Ryland Grace wakes up on a spaceship light years from home with 
 Dialnorm Compensation: +5dB
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/687163)  [Compare across authors](../../compare/?t=film-project-hail-mary_687163)
+[TMDB](https://www.themoviedb.org/movie/687163)  [Compare across authors](../compare/index.md?t=film-project-hail-mary_687163)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/Project%20Hail%20Mary%20DDP%20Atmos%20%20PvA.jpg)

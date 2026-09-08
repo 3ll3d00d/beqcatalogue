@@ -1,6 +1,6 @@
 # Traffickers
 
-[Compare across authors](../../compare/?t=film-traffickers_133603)
+[Compare across authors](../compare/index.md?t=film-traffickers_133603)
 
 ## DTS-HD MA 5.1
 

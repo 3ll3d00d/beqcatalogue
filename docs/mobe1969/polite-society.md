@@ -1,6 +1,6 @@
 # Polite Society
 
-[Compare across authors](../../compare/?t=film-polite-society_977223)
+[Compare across authors](../compare/index.md?t=film-polite-society_977223)
 
 ## DD+ Atmos
 

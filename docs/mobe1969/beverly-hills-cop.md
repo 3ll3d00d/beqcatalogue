@@ -1,6 +1,6 @@
 # Beverly Hills Cop
 
-[Compare across authors](../../compare/?t=film-beverly-hills-cop_90)
+[Compare across authors](../compare/index.md?t=film-beverly-hills-cop_90)
 
 ## DTS-HD MA 5.1
 

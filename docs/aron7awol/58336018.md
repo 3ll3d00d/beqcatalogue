@@ -1,6 +1,6 @@
 # The Doors
 
-[Compare across authors](../../compare/?t=film-the-doors_10537)
+[Compare across authors](../compare/index.md?t=film-the-doors_10537)
 
 ## Atmos
 

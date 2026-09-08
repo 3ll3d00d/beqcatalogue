@@ -1,6 +1,6 @@
 # Iron Mask
 
-[Compare across authors](../../compare/?t=film-iron-mask_428045)
+[Compare across authors](../compare/index.md?t=film-iron-mask_428045)
 
 ## DTS-HD MA 5.1
 

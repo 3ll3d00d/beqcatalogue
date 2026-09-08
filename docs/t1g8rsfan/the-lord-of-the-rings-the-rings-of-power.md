@@ -12,7 +12,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/63574927/)
 
-* [Compare across authors](../../compare/?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
+* [Compare across authors](../compare/index.md?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
 
 * Production Year: 2022
 
@@ -31,7 +31,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/63574942/)
 
-* [Compare across authors](../../compare/?t=TV-the-lord-of-the-rings-the-rings-of-power_2024)
+* [Compare across authors](../compare/index.md?t=TV-the-lord-of-the-rings-the-rings-of-power_2024)
 
 * Production Year: 2024
 

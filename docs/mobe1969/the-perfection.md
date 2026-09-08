@@ -1,6 +1,6 @@
 # The Perfection
 
-[Compare across authors](../../compare/?t=film-the-perfection_529962)
+[Compare across authors](../compare/index.md?t=film-the-perfection_529962)
 
 ## DD+ 5.1
 

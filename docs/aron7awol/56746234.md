@@ -1,6 +1,6 @@
 # Keeping Up with the Joneses
 
-[Compare across authors](../../compare/?t=film-keeping-up-with-the-joneses_331313)
+[Compare across authors](../compare/index.md?t=film-keeping-up-with-the-joneses_331313)
 
 ## DTS-HD MA 7.1
 

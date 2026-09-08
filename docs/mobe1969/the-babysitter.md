@@ -1,6 +1,6 @@
 # The Babysitter
 
-[Compare across authors](../../compare/?t=film-the-babysitter_419479)
+[Compare across authors](../compare/index.md?t=film-the-babysitter_419479)
 
 ## DD+ 5.1
 

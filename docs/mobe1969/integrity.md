@@ -1,6 +1,6 @@
 # Integrity
 
-[Compare across authors](../../compare/?t=film-integrity_575238)
+[Compare across authors](../compare/index.md?t=film-integrity_575238)
 
 ## Atmos
 

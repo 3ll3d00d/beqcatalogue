@@ -1,6 +1,6 @@
 # Initial D Legend 2: Racer
 
-[Compare across authors](../../compare/?t=film-initial-d-legend-2-racer_321487)
+[Compare across authors](../compare/index.md?t=film-initial-d-legend-2-racer_321487)
 
 ## DTS-HD MA 5.1
 

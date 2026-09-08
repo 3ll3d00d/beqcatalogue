@@ -9,7 +9,7 @@ When a sushi chef sees Jerry scurrying around his restaurant, he tells Tom to ea
 
 **MV Adjustment:** +4.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/587807)  [Compare across authors](../../compare/?t=film-tom-jerry_587807)
+[TMDB](https://www.themoviedb.org/movie/587807)  [Compare across authors](../compare/index.md?t=film-tom-jerry_587807)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Tom%20and%20Jerry%20(2021)%20Atmos%20PvA.jpg)

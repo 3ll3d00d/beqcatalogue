@@ -1,6 +1,6 @@
 # Bosch & Rockit
 
-[Compare across authors](../../compare/?t=film-bosch-rockit_863814)
+[Compare across authors](../compare/index.md?t=film-bosch-rockit_863814)
 
 ## DD+ 5.1
 

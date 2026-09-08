@@ -1,6 +1,6 @@
 # The Longest Yard
 
-[Compare across authors](../../compare/?t=film-the-longest-yard_4985)
+[Compare across authors](../compare/index.md?t=film-the-longest-yard_4985)
 
 ## DTS-HD MA 2.0
 

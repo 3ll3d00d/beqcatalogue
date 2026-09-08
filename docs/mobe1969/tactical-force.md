@@ -1,6 +1,6 @@
 # Tactical Force
 
-[Compare across authors](../../compare/?t=film-tactical-force_70008)
+[Compare across authors](../compare/index.md?t=film-tactical-force_70008)
 
 ## DTS-HD MA 5.1
 

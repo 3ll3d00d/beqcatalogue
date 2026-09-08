@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-a-model-family_132171)
+[Compare across authors](../compare/index.md?t=TV-a-model-family_132171)
 
 ## Season 1
 

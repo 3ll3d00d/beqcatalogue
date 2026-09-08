@@ -1,6 +1,6 @@
 # Patlabor 2: The Movie
 
-[Compare across authors](../../compare/?t=film-patlabor-2-the-movie_14572)
+[Compare across authors](../compare/index.md?t=film-patlabor-2-the-movie_14572)
 
 ## TrueHD 5.1
 

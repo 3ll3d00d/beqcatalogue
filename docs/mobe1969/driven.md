@@ -1,6 +1,6 @@
 # Driven
 
-[Compare across authors](../../compare/?t=film-driven_10477)
+[Compare across authors](../compare/index.md?t=film-driven_10477)
 
 ## DTS-HD MA 5.1
 

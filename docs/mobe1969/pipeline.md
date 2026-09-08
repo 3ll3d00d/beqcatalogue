@@ -1,6 +1,6 @@
 # Pipeline
 
-[Compare across authors](../../compare/?t=film-pipeline_618200)
+[Compare across authors](../compare/index.md?t=film-pipeline_618200)
 
 ## DTS-HD MA 5.1
 

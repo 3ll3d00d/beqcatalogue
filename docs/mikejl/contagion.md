@@ -7,7 +7,7 @@
 As an epidemic of a lethal airborne virus - that kills within days - rapidly grows, the worldwide medical community races to find a cure and control the panic that spreads faster than the virus itself.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/39538)  [Compare across authors](../../compare/?t=film-contagion_39538)
+[TMDB](https://www.themoviedb.org/movie/39538)  [Compare across authors](../compare/index.md?t=film-contagion_39538)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Contagion/Contagion%20(2011)%20DTS-HD%20MA%205.1.jpg)

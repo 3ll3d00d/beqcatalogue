@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-that-90s-show_135959)
+[Compare across authors](../compare/index.md?t=TV-that-90s-show_135959)
 
 ## Season 1
 

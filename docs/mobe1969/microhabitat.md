@@ -1,6 +1,6 @@
 # Microhabitat
 
-[Compare across authors](../../compare/?t=film-microhabitat_483297)
+[Compare across authors](../compare/index.md?t=film-microhabitat_483297)
 
 ## DTS-HD MA 2.0
 

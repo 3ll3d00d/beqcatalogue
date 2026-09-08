@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-gyeongseong-creature_135238)
+* [Compare across authors](../compare/index.md?t=TV-gyeongseong-creature_135238)
 
 * Production Year: 2023
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-gyeongseong-creature_135238)
+* [Compare across authors](../compare/index.md?t=TV-gyeongseong-creature_135238)
 
 * Production Year: 2023
 

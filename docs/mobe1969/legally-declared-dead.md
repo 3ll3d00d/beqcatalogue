@@ -1,6 +1,6 @@
 # Legally Declared Dead
 
-[Compare across authors](../../compare/?t=film-legally-declared-dead_647641)
+[Compare across authors](../compare/index.md?t=film-legally-declared-dead_647641)
 
 ## TrueHD 7.1
 

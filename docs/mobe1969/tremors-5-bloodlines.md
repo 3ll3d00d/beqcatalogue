@@ -1,6 +1,6 @@
 # Tremors 5: Bloodlines
 
-[Compare across authors](../../compare/?t=film-tremors-5-bloodlines_339530)
+[Compare across authors](../compare/index.md?t=film-tremors-5-bloodlines_339530)
 
 ## DTS-HD MA 5.1
 

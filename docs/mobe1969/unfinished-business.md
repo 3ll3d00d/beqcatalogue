@@ -1,6 +1,6 @@
 # Unfinished Business
 
-[Compare across authors](../../compare/?t=film-unfinished-business_239573)
+[Compare across authors](../compare/index.md?t=film-unfinished-business_239573)
 
 ## DTS-HD MA 5.1
 

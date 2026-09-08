@@ -1,6 +1,6 @@
 # Sahara
 
-[Compare across authors](../../compare/?t=film-sahara_7364)
+[Compare across authors](../compare/index.md?t=film-sahara_7364)
 
 ## DTS 5.1
 

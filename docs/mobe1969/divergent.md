@@ -1,6 +1,6 @@
 # Divergent
 
-[Compare across authors](../../compare/?t=film-divergent_157350)
+[Compare across authors](../compare/index.md?t=film-divergent_157350)
 
 ## Atmos
 

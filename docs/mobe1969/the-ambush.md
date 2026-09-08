@@ -1,6 +1,6 @@
 # The Ambush
 
-[Compare across authors](../../compare/?t=film-the-ambush_884452)
+[Compare across authors](../compare/index.md?t=film-the-ambush_884452)
 
 ## DTS-HD MA 5.1
 

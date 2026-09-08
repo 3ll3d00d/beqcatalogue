@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-suzhal-the-vortex_200861)
+[Compare across authors](../compare/index.md?t=TV-suzhal-the-vortex_200861)
 
 ## Season 1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-hotel-del-luna_90447)
+[Compare across authors](../compare/index.md?t=TV-hotel-del-luna_90447)
 
 ## Season 1
 

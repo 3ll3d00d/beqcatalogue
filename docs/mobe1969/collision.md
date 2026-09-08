@@ -1,6 +1,6 @@
 # Collision
 
-[Compare across authors](../../compare/?t=film-collision_975714)
+[Compare across authors](../compare/index.md?t=film-collision_975714)
 
 ## DD+ 5.1
 

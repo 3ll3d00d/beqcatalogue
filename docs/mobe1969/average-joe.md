@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-average-joe_228421)
+[Compare across authors](../compare/index.md?t=TV-average-joe_228421)
 
 ## Season 1
 

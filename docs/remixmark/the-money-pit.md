@@ -9,7 +9,7 @@ After being evicted from their Manhattan apartment, a couple buy what looks like
 
 **MV Adjustment:** +11.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1751?post_id=64679608#post-64679608)  [TMDB](https://www.themoviedb.org/movie/10466)  [Compare across authors](../../compare/?t=film-the-money-pit_10466)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1751?post_id=64679608#post-64679608)  [TMDB](https://www.themoviedb.org/movie/10466)  [Compare across authors](../compare/index.md?t=film-the-money-pit_10466)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Money%20Pit%20(1986)%20(%2B11%20gain)%20DTS-HD%20MA%205.1.jpg)

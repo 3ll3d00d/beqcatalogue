@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-marco-polo_60699)
+[Compare across authors](../compare/index.md?t=TV-marco-polo_60699)
 
 ## Season 1
 

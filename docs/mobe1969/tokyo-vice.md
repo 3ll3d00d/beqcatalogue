@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-tokyo-vice_90296)
+[Compare across authors](../compare/index.md?t=TV-tokyo-vice_90296)
 
 ## Season 1
 

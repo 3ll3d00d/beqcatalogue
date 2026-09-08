@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-formula-1-drive-to-survive_87083)
+* [Compare across authors](../compare/index.md?t=TV-formula-1-drive-to-survive_87083)
 
 * Production Year: 2019
 

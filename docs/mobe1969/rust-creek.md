@@ -1,6 +1,6 @@
 # Rust Creek
 
-[Compare across authors](../../compare/?t=film-rust-creek_561362)
+[Compare across authors](../compare/index.md?t=film-rust-creek_561362)
 
 ## DTS-HD MA 5.1
 

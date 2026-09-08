@@ -1,6 +1,6 @@
 # Kiki's Delivery Service
 
-[Compare across authors](../../compare/?t=film-kikis-delivery-service_16859)
+[Compare across authors](../compare/index.md?t=film-kikis-delivery-service_16859)
 
 ## DD+ 5.1
 

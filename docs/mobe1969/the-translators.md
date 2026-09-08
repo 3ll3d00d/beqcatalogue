@@ -1,6 +1,6 @@
 # The Translators
 
-[Compare across authors](../../compare/?t=film-the-translators_477018)
+[Compare across authors](../compare/index.md?t=film-the-translators_477018)
 
 ## TrueHD 5.1
 

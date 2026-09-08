@@ -1,6 +1,6 @@
 # Last Knights
 
-[Compare across authors](../../compare/?t=film-last-knights_308504)
+[Compare across authors](../compare/index.md?t=film-last-knights_308504)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Way of the Gun
 
-[Compare across authors](../../compare/?t=film-the-way-of-the-gun_1619)
+[Compare across authors](../compare/index.md?t=film-the-way-of-the-gun_1619)
 
 ## DTS-HD MA 7.1
 

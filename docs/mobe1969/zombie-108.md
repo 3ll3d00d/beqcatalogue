@@ -1,6 +1,6 @@
 # Zombie 108
 
-[Compare across authors](../../compare/?t=film-zombie-108_119471)
+[Compare across authors](../compare/index.md?t=film-zombie-108_119471)
 
 ## TrueHD 7.1
 

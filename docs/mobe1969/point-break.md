@@ -1,6 +1,6 @@
 # Point Break
 
-[Compare across authors](../../compare/?t=film-point-break_1089)
+[Compare across authors](../compare/index.md?t=film-point-break_1089)
 
 ## DTS-HD MA 5.1
 

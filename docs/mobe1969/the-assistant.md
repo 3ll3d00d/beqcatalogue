@@ -1,6 +1,6 @@
 # The Assistant
 
-[Compare across authors](../../compare/?t=film-the-assistant_962910)
+[Compare across authors](../compare/index.md?t=film-the-assistant_962910)
 
 ## DD+ 5.1
 

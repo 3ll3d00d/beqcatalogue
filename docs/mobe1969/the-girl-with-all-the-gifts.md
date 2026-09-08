@@ -1,6 +1,6 @@
 # The Girl With All The Gifts
 
-[Compare across authors](../../compare/?t=film-the-girl-with-all-the-gifts_375366)
+[Compare across authors](../compare/index.md?t=film-the-girl-with-all-the-gifts_375366)
 
 ## DTS-HD MA 5.1
 

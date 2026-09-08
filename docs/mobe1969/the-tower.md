@@ -1,6 +1,6 @@
 # The Tower
 
-[Compare across authors](../../compare/?t=film-the-tower_154030)
+[Compare across authors](../compare/index.md?t=film-the-tower_154030)
 
 ## DTS-HD MA 5.1
 

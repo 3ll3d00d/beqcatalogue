@@ -10,7 +10,7 @@ The fan favorite champions—now joined by Johnny Cage himself—are pitted agai
 +4dB Dialnorm Compensation - DD+ Atmos (iTunes)
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/931285)  [Compare across authors](../../compare/?t=film-mortal-kombat-ii_931285)
+[TMDB](https://www.themoviedb.org/movie/931285)  [Compare across authors](../compare/index.md?t=film-mortal-kombat-ii_931285)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Mortal%20Kombat%20II%20(2026)%20Atmos%20PvA.jpg)

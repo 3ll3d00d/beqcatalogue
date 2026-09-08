@@ -14,7 +14,7 @@ Dialnorm Compensation: E1-4dB E2-6-3dB E7-5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1486?post_id=63452691#post-63452691)
 
-* [Compare across authors](../../compare/?t=TV-presumed-innocent_156933)
+* [Compare across authors](../compare/index.md?t=TV-presumed-innocent_156933)
 
 * Production Year: 2024
 

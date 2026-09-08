@@ -1,6 +1,6 @@
 # Scarlet Innocence
 
-[Compare across authors](../../compare/?t=film-scarlet-innocence_287649)
+[Compare across authors](../compare/index.md?t=film-scarlet-innocence_287649)
 
 ## TrueHD 5.1
 

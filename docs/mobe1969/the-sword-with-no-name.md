@@ -1,6 +1,6 @@
 # The Sword with No Name
 
-[Compare across authors](../../compare/?t=film-the-sword-with-no-name_41441)
+[Compare across authors](../compare/index.md?t=film-the-sword-with-no-name_41441)
 
 ## DTS-HD MA 5.1
 

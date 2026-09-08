@@ -1,6 +1,6 @@
 # The Monster
 
-[Compare across authors](../../compare/?t=film-the-monster_340103)
+[Compare across authors](../compare/index.md?t=film-the-monster_340103)
 
 ## DTS-HD MA 5.1
 

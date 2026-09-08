@@ -1,6 +1,6 @@
 # Reverse Angle
 
-[Compare across authors](../../compare/?t=film-reverse-angle_67204)
+[Compare across authors](../compare/index.md?t=film-reverse-angle_67204)
 
 ## DD+ 5.1
 

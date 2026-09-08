@@ -12,7 +12,7 @@ When a single, unattributed missile is launched at the United States, a race beg
 Dialnorm Compensation: 2dB
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1290159)  [Compare across authors](../../compare/?t=film-a-house-of-dynamite_1290159)
+[TMDB](https://www.themoviedb.org/movie/1290159)  [Compare across authors](../compare/index.md?t=film-a-house-of-dynamite_1290159)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/A%20House%20of%20Dynamite%20(2025)%20(%2B5.5%20gain)%20DD%2B%20Atmos.jpg)

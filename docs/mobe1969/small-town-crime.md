@@ -1,6 +1,6 @@
 # Small Town Crime
 
-[Compare across authors](../../compare/?t=film-small-town-crime_412000)
+[Compare across authors](../compare/index.md?t=film-small-town-crime_412000)
 
 ## DTS-HD MA 5.1
 

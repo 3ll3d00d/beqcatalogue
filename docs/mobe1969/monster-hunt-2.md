@@ -1,6 +1,6 @@
 # Monster Hunt 2
 
-[Compare across authors](../../compare/?t=film-monster-hunt-2_497984)
+[Compare across authors](../compare/index.md?t=film-monster-hunt-2_497984)
 
 ## TrueHD 7.1
 

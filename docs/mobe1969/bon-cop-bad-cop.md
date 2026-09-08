@@ -1,6 +1,6 @@
 # Bon Cop Bad Cop
 
-[Compare across authors](../../compare/?t=film-bon-cop-bad-cop_15049)
+[Compare across authors](../compare/index.md?t=film-bon-cop-bad-cop_15049)
 
 ## DD+ 5.1
 

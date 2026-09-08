@@ -1,6 +1,6 @@
 # Official Secrets
 
-[Compare across authors](../../compare/?t=film-official-secrets_393624)
+[Compare across authors](../compare/index.md?t=film-official-secrets_393624)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Bhavesh Joshi Superhero
 
-[Compare across authors](../../compare/?t=film-bhavesh-joshi-superhero_527511)
+[Compare across authors](../compare/index.md?t=film-bhavesh-joshi-superhero_527511)
 
 ## DD+ 5.1
 

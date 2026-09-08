@@ -1,6 +1,6 @@
 # The Quiet Ones
 
-[Compare across authors](../../compare/?t=film-the-quiet-ones_193612)
+[Compare across authors](../compare/index.md?t=film-the-quiet-ones_193612)
 
 ## DTS-HD MA 5.1
 

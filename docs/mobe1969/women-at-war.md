@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-women-at-war_155491)
+[Compare across authors](../compare/index.md?t=TV-women-at-war_155491)
 
 ## Season 1
 

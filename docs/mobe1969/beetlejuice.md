@@ -1,6 +1,6 @@
 # Beetlejuice
 
-[Compare across authors](../../compare/?t=film-beetlejuice_4011)
+[Compare across authors](../compare/index.md?t=film-beetlejuice_4011)
 
 ## Atmos
 

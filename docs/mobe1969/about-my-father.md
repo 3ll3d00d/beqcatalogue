@@ -1,6 +1,6 @@
 # About My Father
 
-[Compare across authors](../../compare/?t=film-about-my-father_829051)
+[Compare across authors](../compare/index.md?t=film-about-my-father_829051)
 
 ## DD+ 5.1
 

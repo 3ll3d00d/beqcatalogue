@@ -1,6 +1,6 @@
 # The Outer Wild
 
-[Compare across authors](../../compare/?t=film-the-outer-wild_505860)
+[Compare across authors](../compare/index.md?t=film-the-outer-wild_505860)
 
 ## DD+ 2.0
 

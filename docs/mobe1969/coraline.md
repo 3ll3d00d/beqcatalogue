@@ -1,6 +1,6 @@
 # Coraline
 
-[Compare across authors](../../compare/?t=film-coraline_14836)
+[Compare across authors](../compare/index.md?t=film-coraline_14836)
 
 ## Atmos
 

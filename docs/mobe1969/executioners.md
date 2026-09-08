@@ -1,6 +1,6 @@
 # Executioners
 
-[Compare across authors](../../compare/?t=film-executioners_58311)
+[Compare across authors](../compare/index.md?t=film-executioners_58311)
 
 ## DTS-HD MA 5.1
 

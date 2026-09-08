@@ -1,6 +1,6 @@
 # Antlers
 
-[Compare across authors](../../compare/?t=film-antlers_516329)
+[Compare across authors](../compare/index.md?t=film-antlers_516329)
 
 ## DTS-HD MA 5.1
 

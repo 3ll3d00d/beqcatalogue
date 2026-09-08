@@ -1,6 +1,6 @@
 # Jungleland
 
-[Compare across authors](../../compare/?t=film-jungleland_556501)
+[Compare across authors](../compare/index.md?t=film-jungleland_556501)
 
 ## DD+ 5.1
 

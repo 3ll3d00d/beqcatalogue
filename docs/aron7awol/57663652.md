@@ -1,6 +1,6 @@
 # The Quake
 
-[Compare across authors](../../compare/?t=film-the-quake_416194)
+[Compare across authors](../compare/index.md?t=film-the-quake_416194)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Hocus Pocus
 
-[Compare across authors](../../compare/?t=film-hocus-pocus_10439)
+[Compare across authors](../compare/index.md?t=film-hocus-pocus_10439)
 
 ## DTS-HD MA 5.1
 

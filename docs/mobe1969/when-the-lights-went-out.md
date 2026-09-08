@@ -1,6 +1,6 @@
 # When the Lights Went Out
 
-[Compare across authors](../../compare/?t=film-when-the-lights-went-out_50497)
+[Compare across authors](../compare/index.md?t=film-when-the-lights-went-out_50497)
 
 ## DTS-HD MA 5.1
 

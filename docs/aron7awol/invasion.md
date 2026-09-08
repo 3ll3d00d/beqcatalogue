@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-invasion_127235)
+[Compare across authors](../compare/index.md?t=TV-invasion_127235)
 
 ## Season 1 Episodes 1-3, 5-6, 9-10
 

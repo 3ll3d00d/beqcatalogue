@@ -1,6 +1,6 @@
 # Alan Partridge: Alpha Papa
 
-[Compare across authors](../../compare/?t=film-alan-partridge-alpha-papa_177699)
+[Compare across authors](../compare/index.md?t=film-alan-partridge-alpha-papa_177699)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Alien: Covenant
 
-[Compare across authors](../../compare/?t=film-alien-covenant_126889)
+[Compare across authors](../compare/index.md?t=film-alien-covenant_126889)
 
 ## Atmos
 

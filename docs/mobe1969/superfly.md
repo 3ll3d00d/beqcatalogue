@@ -1,6 +1,6 @@
 # Superfly
 
-[Compare across authors](../../compare/?t=film-superfly_500475)
+[Compare across authors](../compare/index.md?t=film-superfly_500475)
 
 ## DD+ 5.1
 

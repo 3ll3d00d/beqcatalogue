@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-aftershock-everest-and-the-nepal-earthquake_208952)
+[Compare across authors](../compare/index.md?t=TV-aftershock-everest-and-the-nepal-earthquake_208952)
 
 ## Season 1
 

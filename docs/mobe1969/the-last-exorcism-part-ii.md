@@ -1,6 +1,6 @@
 # The Last Exorcism Part II
 
-[Compare across authors](../../compare/?t=film-the-last-exorcism-part-ii_146203)
+[Compare across authors](../compare/index.md?t=film-the-last-exorcism-part-ii_146203)
 
 ## DTS-HD MA 5.1
 

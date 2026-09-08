@@ -1,6 +1,6 @@
 # Special Delivery
 
-[Compare across authors](../../compare/?t=film-special-delivery_606403)
+[Compare across authors](../compare/index.md?t=film-special-delivery_606403)
 
 ## DTS-HD MA 5.1
 

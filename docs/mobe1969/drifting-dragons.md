@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-drifting-dragons_92591)
+[Compare across authors](../compare/index.md?t=TV-drifting-dragons_92591)
 
 ## Season 1
 

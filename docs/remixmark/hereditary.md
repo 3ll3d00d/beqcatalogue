@@ -9,7 +9,7 @@ Following the death of the Leigh family matriarch, Annie and her children uncove
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1756?post_id=64712745#post-64712745)  [TMDB](https://www.themoviedb.org/movie/493922)  [Compare across authors](../../compare/?t=film-hereditary_493922)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1756?post_id=64712745#post-64712745)  [TMDB](https://www.themoviedb.org/movie/493922)  [Compare across authors](../compare/index.md?t=film-hereditary_493922)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Hereditary%20(2018)%20(%2B6%20gain)%20DTS-HD%20MA%205.1.jpg)

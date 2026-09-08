@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-mercy-for-none_232766)
+* [Compare across authors](../compare/index.md?t=TV-mercy-for-none_232766)
 
 * Production Year: 2025
 

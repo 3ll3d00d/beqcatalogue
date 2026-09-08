@@ -1,6 +1,6 @@
 # Suicide Squad: Hell to Pay
 
-[Compare across authors](../../compare/?t=film-suicide-squad-hell-to-pay_487242)
+[Compare across authors](../compare/index.md?t=film-suicide-squad-hell-to-pay_487242)
 
 ## DTS-HD MA 5.1
 

@@ -9,7 +9,7 @@ Fifteen years after the original Woodsboro murders, Sidney Prescott returns home
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1744?post_id=64640064#post-64640064)  [TMDB](https://www.themoviedb.org/movie/41446)  [Compare across authors](../../compare/?t=film-scream-4_41446)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1744?post_id=64640064#post-64640064)  [TMDB](https://www.themoviedb.org/movie/41446)  [Compare across authors](../compare/index.md?t=film-scream-4_41446)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scream%204%20(2011)%20(%2B1.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Ten years after the original Woodsboro murders, one of the survivors returns hom
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64458322#post-64458322)  [TMDB](https://www.themoviedb.org/movie/41446)  [Compare across authors](../../compare/?t=film-scream-4_41446)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64458322#post-64458322)  [TMDB](https://www.themoviedb.org/movie/41446)  [Compare across authors](../compare/index.md?t=film-scream-4_41446)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scream%204%20(2011)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

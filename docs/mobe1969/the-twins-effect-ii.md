@@ -1,6 +1,6 @@
 # The Twins Effect II
 
-[Compare across authors](../../compare/?t=film-the-twins-effect-ii_10257)
+[Compare across authors](../compare/index.md?t=film-the-twins-effect-ii_10257)
 
 ## DD+ 5.1
 

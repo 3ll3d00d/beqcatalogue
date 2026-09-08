@@ -1,6 +1,6 @@
 # Screamers
 
-[Compare across authors](../../compare/?t=film-screamers_9102)
+[Compare across authors](../compare/index.md?t=film-screamers_9102)
 
 ## DD 5.1
 

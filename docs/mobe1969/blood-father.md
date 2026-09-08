@@ -1,6 +1,6 @@
 # Blood Father
 
-[Compare across authors](../../compare/?t=film-blood-father_309886)
+[Compare across authors](../compare/index.md?t=film-blood-father_309886)
 
 ## DTS-HD MA 5.1
 

@@ -12,7 +12,7 @@ Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer trave
 +6dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/62912181/)  [TMDB](https://www.themoviedb.org/movie/951491)  [Compare across authors](../../compare/?t=film-saw-x_951491)
+[Discuss](https://www.avsforum.com/posts/62912181/)  [TMDB](https://www.themoviedb.org/movie/951491)  [Compare across authors](../compare/index.md?t=film-saw-x_951491)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Saw%20X%20(2023)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

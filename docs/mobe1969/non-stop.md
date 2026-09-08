@@ -1,6 +1,6 @@
 # Non-Stop
 
-[Compare across authors](../../compare/?t=film-non-stop_225574)
+[Compare across authors](../compare/index.md?t=film-non-stop_225574)
 
 ## DD+ 5.1
 

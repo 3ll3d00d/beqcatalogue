@@ -1,6 +1,6 @@
 # Late Phases
 
-[Compare across authors](../../compare/?t=film-late-phases_254193)
+[Compare across authors](../compare/index.md?t=film-late-phases_254193)
 
 ## DD 5.1
 

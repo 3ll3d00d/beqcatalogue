@@ -10,7 +10,7 @@ After tracing the origin of a disturbing supernatural affliction to a wealthy fa
 KO
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/838209)  [Compare across authors](../../compare/?t=film-exhuma_838209)
+[TMDB](https://www.themoviedb.org/movie/838209)  [Compare across authors](../compare/index.md?t=film-exhuma_838209)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Exhuma%20(2024)%20(ko)%20Atmos.jpg)

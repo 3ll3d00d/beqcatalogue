@@ -1,6 +1,6 @@
 # Knock Off
 
-[Compare across authors](../../compare/?t=film-knock-off_37498)
+[Compare across authors](../compare/index.md?t=film-knock-off_37498)
 
 ## DTS-HD MA 5.1
 

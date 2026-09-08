@@ -1,6 +1,6 @@
 # The Hard Way
 
-[Compare across authors](../../compare/?t=film-the-hard-way_586347)
+[Compare across authors](../compare/index.md?t=film-the-hard-way_586347)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Clown
 
-[Compare across authors](../../compare/?t=film-clown_112454)
+[Compare across authors](../compare/index.md?t=film-clown_112454)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Birthday Cake
 
-[Compare across authors](../../compare/?t=film-the-birthday-cake_624481)
+[Compare across authors](../compare/index.md?t=film-the-birthday-cake_624481)
 
 ## DD+ 5.1
 

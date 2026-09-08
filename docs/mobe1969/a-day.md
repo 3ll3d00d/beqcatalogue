@@ -1,6 +1,6 @@
 # A Day
 
-[Compare across authors](../../compare/?t=film-a-day_459073)
+[Compare across authors](../compare/index.md?t=film-a-day_459073)
 
 ## DTS-HD MA 5.1
 

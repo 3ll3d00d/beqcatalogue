@@ -1,6 +1,6 @@
 # Ittefaq
 
-[Compare across authors](../../compare/?t=film-ittefaq_464458)
+[Compare across authors](../compare/index.md?t=film-ittefaq_464458)
 
 ## DD+ 5.1
 

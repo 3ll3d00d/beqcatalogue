@@ -1,6 +1,6 @@
 # Tales From The Dark 2
 
-[Compare across authors](../../compare/?t=film-tales-from-the-dark-2_222832)
+[Compare across authors](../compare/index.md?t=film-tales-from-the-dark-2_222832)
 
 ## DD+ 2.0
 

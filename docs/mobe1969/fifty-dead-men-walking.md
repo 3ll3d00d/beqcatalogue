@@ -1,6 +1,6 @@
 # Fifty Dead Men Walking
 
-[Compare across authors](../../compare/?t=film-fifty-dead-men-walking_17622)
+[Compare across authors](../compare/index.md?t=film-fifty-dead-men-walking_17622)
 
 ## TrueHD 5.1
 

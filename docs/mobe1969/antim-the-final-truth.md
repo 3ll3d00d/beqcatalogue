@@ -1,6 +1,6 @@
 # Antim: The Final Truth
 
-[Compare across authors](../../compare/?t=film-antim-the-final-truth_774607)
+[Compare across authors](../compare/index.md?t=film-antim-the-final-truth_774607)
 
 ## AAC 5.1
 

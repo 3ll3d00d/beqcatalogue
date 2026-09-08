@@ -1,6 +1,6 @@
 # Rocky Aur Rani Kii Prem Kahaani
 
-[Compare across authors](../../compare/?t=film-rocky-aur-rani-kii-prem-kahaani_848116)
+[Compare across authors](../compare/index.md?t=film-rocky-aur-rani-kii-prem-kahaani_848116)
 
 ## DD+ 5.1
 

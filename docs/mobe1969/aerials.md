@@ -1,6 +1,6 @@
 # Aerials
 
-[Compare across authors](../../compare/?t=film-aerials_699673)
+[Compare across authors](../compare/index.md?t=film-aerials_699673)
 
 ## DD+ 2.0
 

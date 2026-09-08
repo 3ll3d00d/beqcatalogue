@@ -1,6 +1,6 @@
 # A Wednesday!
 
-[Compare across authors](../../compare/?t=film-a-wednesday_19703)
+[Compare across authors](../compare/index.md?t=film-a-wednesday_19703)
 
 ## DD+ 5.1
 

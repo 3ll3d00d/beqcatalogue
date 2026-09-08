@@ -1,6 +1,6 @@
 # Full Throttle
 
-[Compare across authors](../../compare/?t=film-full-throttle_53720)
+[Compare across authors](../compare/index.md?t=film-full-throttle_53720)
 
 ## TrueHD 7.1
 

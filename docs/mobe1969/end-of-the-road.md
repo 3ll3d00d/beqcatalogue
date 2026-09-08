@@ -1,6 +1,6 @@
 # End of the Road
 
-[Compare across authors](../../compare/?t=film-end-of-the-road_773975)
+[Compare across authors](../compare/index.md?t=film-end-of-the-road_773975)
 
 ## DD+ Atmos
 

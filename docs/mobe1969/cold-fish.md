@@ -1,6 +1,6 @@
 # Cold Fish
 
-[Compare across authors](../../compare/?t=film-cold-fish_68341)
+[Compare across authors](../compare/index.md?t=film-cold-fish_68341)
 
 ## DTS-HD MA 5.1
 

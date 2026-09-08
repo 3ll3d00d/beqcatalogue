@@ -1,6 +1,6 @@
 # Red Family
 
-[Compare across authors](../../compare/?t=film-red-family_241885)
+[Compare across authors](../compare/index.md?t=film-red-family_241885)
 
 ## TrueHD 5.1
 

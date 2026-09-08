@@ -9,7 +9,7 @@ A lone drifter suffering from partial memory loss accepts a job to look after a 
 
 **MV Adjustment:** +6.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1527?post_id=63651169#post-63651169)  [TMDB](https://www.themoviedb.org/movie/744746)  [Compare across authors](../../compare/?t=film-caveat_744746)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1527?post_id=63651169#post-63651169)  [TMDB](https://www.themoviedb.org/movie/744746)  [Compare across authors](../compare/index.md?t=film-caveat_744746)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Caveat%20(2021)%20(%2B6.5%20gain)%20DTS%205.1.jpg)

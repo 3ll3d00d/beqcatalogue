@@ -1,6 +1,6 @@
 # The Cursed Lesson
 
-[Compare across authors](../../compare/?t=film-the-cursed-lesson_759917)
+[Compare across authors](../compare/index.md?t=film-the-cursed-lesson_759917)
 
 ## TrueHD 5.1
 

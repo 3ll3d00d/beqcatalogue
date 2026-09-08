@@ -1,6 +1,6 @@
 # White Noise
 
-[Compare across authors](../../compare/?t=film-white-noise_744594)
+[Compare across authors](../compare/index.md?t=film-white-noise_744594)
 
 ## DD+ Atmos
 

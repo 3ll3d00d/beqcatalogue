@@ -1,6 +1,6 @@
 # Kolaiyuthir Kaalam
 
-[Compare across authors](../../compare/?t=film-kolaiyuthir-kaalam_496029)
+[Compare across authors](../compare/index.md?t=film-kolaiyuthir-kaalam_496029)
 
 ## DD+ 5.1
 

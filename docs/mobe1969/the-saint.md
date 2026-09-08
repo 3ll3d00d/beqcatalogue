@@ -1,6 +1,6 @@
 # The Saint
 
-[Compare across authors](../../compare/?t=film-the-saint_10003)
+[Compare across authors](../compare/index.md?t=film-the-saint_10003)
 
 ## TrueHD 5.1
 

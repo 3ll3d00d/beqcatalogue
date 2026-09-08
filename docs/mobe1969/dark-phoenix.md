@@ -1,6 +1,6 @@
 # Dark Phoenix
 
-[Compare across authors](../../compare/?t=film-dark-phoenix_320288)
+[Compare across authors](../compare/index.md?t=film-dark-phoenix_320288)
 
 ## Atmos
 

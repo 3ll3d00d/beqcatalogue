@@ -1,6 +1,6 @@
 # Grudge
 
-[Compare across authors](../../compare/?t=film-grudge_874948)
+[Compare across authors](../compare/index.md?t=film-grudge_874948)
 
 ## DD+ 5.1
 

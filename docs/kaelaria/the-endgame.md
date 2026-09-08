@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-endgame_134375)
+* [Compare across authors](../compare/index.md?t=TV-the-endgame_134375)
 
 * Production Year: 2022
 

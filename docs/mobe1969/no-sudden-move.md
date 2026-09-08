@@ -1,6 +1,6 @@
 # No Sudden Move
 
-[Compare across authors](../../compare/?t=film-no-sudden-move_649409)
+[Compare across authors](../compare/index.md?t=film-no-sudden-move_649409)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Precious Cargo
 
-[Compare across authors](../../compare/?t=film-precious-cargo_384737)
+[Compare across authors](../compare/index.md?t=film-precious-cargo_384737)
 
 ## DTS-HD MA 5.1
 

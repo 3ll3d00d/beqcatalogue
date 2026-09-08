@@ -1,6 +1,6 @@
 # Desierto
 
-[Compare across authors](../../compare/?t=film-desierto_258363)
+[Compare across authors](../compare/index.md?t=film-desierto_258363)
 
 ## DTS-HD MA 5.1
 

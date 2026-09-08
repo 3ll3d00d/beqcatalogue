@@ -1,6 +1,6 @@
 # I Still Know What You Did Last Summer
 
-[Compare across authors](../../compare/?t=film-i-still-know-what-you-did-last-summer_3600)
+[Compare across authors](../compare/index.md?t=film-i-still-know-what-you-did-last-summer_3600)
 
 ## TrueHD 5.1
 

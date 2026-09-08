@@ -1,6 +1,6 @@
 # Goal of the Dead
 
-[Compare across authors](../../compare/?t=film-goal-of-the-dead_273467)
+[Compare across authors](../compare/index.md?t=film-goal-of-the-dead_273467)
 
 ## DTS-HD MA 5.1
 

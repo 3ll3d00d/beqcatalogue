@@ -1,6 +1,6 @@
 # Monster Family
 
-[Compare across authors](../../compare/?t=film-monster-family_454699)
+[Compare across authors](../compare/index.md?t=film-monster-family_454699)
 
 ## DD+ 5.1, DTS-HD MA 5.1
 

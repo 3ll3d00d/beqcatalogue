@@ -1,6 +1,6 @@
 # The Place Beyond the Pines
 
-[Compare across authors](../../compare/?t=film-the-place-beyond-the-pines_97367)
+[Compare across authors](../compare/index.md?t=film-the-place-beyond-the-pines_97367)
 
 ## DTS-HD MA 5.1
 

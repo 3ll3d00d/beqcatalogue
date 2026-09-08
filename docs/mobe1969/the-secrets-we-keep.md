@@ -1,6 +1,6 @@
 # The Secrets We Keep
 
-[Compare across authors](../../compare/?t=film-the-secrets-we-keep_615115)
+[Compare across authors](../compare/index.md?t=film-the-secrets-we-keep_615115)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Pegasus
 
-[Compare across authors](../../compare/?t=film-pegasus_575219)
+[Compare across authors](../compare/index.md?t=film-pegasus_575219)
 
 ## DD 5.1, AAC 5.1
 

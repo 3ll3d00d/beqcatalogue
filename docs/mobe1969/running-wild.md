@@ -1,6 +1,6 @@
 # Running Wild
 
-[Compare across authors](../../compare/?t=film-running-wild_32160)
+[Compare across authors](../compare/index.md?t=film-running-wild_32160)
 
 ## DTS 5.1, DD 2.0
 

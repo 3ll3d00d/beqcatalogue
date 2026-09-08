@@ -1,6 +1,6 @@
 # The Sentinel
 
-[Compare across authors](../../compare/?t=film-the-sentinel_5820)
+[Compare across authors](../compare/index.md?t=film-the-sentinel_5820)
 
 ## DTS-HD MA 5.1
 

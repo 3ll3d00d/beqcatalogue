@@ -1,6 +1,6 @@
 # The White Storm
 
-[Compare across authors](../../compare/?t=film-the-white-storm_233112)
+[Compare across authors](../compare/index.md?t=film-the-white-storm_233112)
 
 ## DTS-HD MA 7.1
 

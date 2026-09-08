@@ -1,6 +1,6 @@
 # The Book of Life
 
-[Compare across authors](../../compare/?t=film-the-book-of-life_228326)
+[Compare across authors](../compare/index.md?t=film-the-book-of-life_228326)
 
 ## DTS-HD MA 7.1
 

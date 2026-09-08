@@ -1,6 +1,6 @@
 # The Living Daylights
 
-[Compare across authors](../../compare/?t=film-the-living-daylights_708)
+[Compare across authors](../compare/index.md?t=film-the-living-daylights_708)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

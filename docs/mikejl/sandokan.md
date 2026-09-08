@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-sandokan_271855)
+* [Compare across authors](../compare/index.md?t=TV-sandokan_271855)
 
 * Production Year: 2025
 

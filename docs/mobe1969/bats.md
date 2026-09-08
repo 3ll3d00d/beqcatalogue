@@ -1,6 +1,6 @@
 # Bats
 
-[Compare across authors](../../compare/?t=film-bats_792101)
+[Compare across authors](../compare/index.md?t=film-bats_792101)
 
 ## DD+ 5.1
 

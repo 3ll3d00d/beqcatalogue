@@ -1,6 +1,6 @@
 # National Security
 
-[Compare across authors](../../compare/?t=film-national-security_11078)
+[Compare across authors](../compare/index.md?t=film-national-security_11078)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Captain Underpants: The First Epic Movie
 
-[Compare across authors](../../compare/?t=film-captain-underpants-the-first-epic-movie_268531)
+[Compare across authors](../compare/index.md?t=film-captain-underpants-the-first-epic-movie_268531)
 
 ## Atmos, DD+ 5.1
 

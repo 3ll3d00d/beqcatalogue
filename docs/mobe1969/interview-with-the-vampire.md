@@ -1,6 +1,6 @@
 # Interview with the Vampire
 
-[Compare across authors](../../compare/?t=film-interview-with-the-vampire_628)
+[Compare across authors](../compare/index.md?t=film-interview-with-the-vampire_628)
 
 ## DTS-HD MA 5.1
 

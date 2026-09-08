@@ -1,6 +1,6 @@
 # No Exit
 
-[Compare across authors](../../compare/?t=film-no-exit_833425)
+[Compare across authors](../compare/index.md?t=film-no-exit_833425)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Gods and Generals
 
-[Compare across authors](../../compare/?t=film-gods-and-generals_16072)
+[Compare across authors](../compare/index.md?t=film-gods-and-generals_16072)
 
 ## DD+ 5.1
 

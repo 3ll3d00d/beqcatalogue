@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-good-omens_71915)
+[Compare across authors](../compare/index.md?t=TV-good-omens_71915)
 
 ## Season 1
 

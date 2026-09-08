@@ -1,6 +1,6 @@
 # Aftermath
 
-[Compare across authors](../../compare/?t=film-aftermath_188839)
+[Compare across authors](../compare/index.md?t=film-aftermath_188839)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Cyborg
 
-[Compare across authors](../../compare/?t=film-cyborg_10134)
+[Compare across authors](../compare/index.md?t=film-cyborg_10134)
 
 ## DTS-HD MA 2.0
 

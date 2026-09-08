@@ -12,7 +12,7 @@ Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns a
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1731?post_id=64555034#post-64555034)  [TMDB](https://www.themoviedb.org/movie/1049471)  [Compare across authors](../../compare/?t=film-outcome_1049471)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1731?post_id=64555034#post-64555034)  [TMDB](https://www.themoviedb.org/movie/1049471)  [Compare across authors](../compare/index.md?t=film-outcome_1049471)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Outcome%20(2026)%20(%2B7.5%20gain)%20DD%2B%20Atmos.jpg)

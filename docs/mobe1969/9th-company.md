@@ -1,6 +1,6 @@
 # 9th Company
 
-[Compare across authors](../../compare/?t=film-9th-company_14097)
+[Compare across authors](../compare/index.md?t=film-9th-company_14097)
 
 ## DTS-HD MA 5.1
 

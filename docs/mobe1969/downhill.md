@@ -1,6 +1,6 @@
 # Downhill
 
-[Compare across authors](../../compare/?t=film-downhill_560391)
+[Compare across authors](../compare/index.md?t=film-downhill_560391)
 
 ## DD 5.1
 

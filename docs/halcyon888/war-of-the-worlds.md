@@ -9,7 +9,7 @@ Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after hi
 
 **MV Adjustment:** -4.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/74)  [Compare across authors](../../compare/?t=film-war-of-the-worlds_74)
+[TMDB](https://www.themoviedb.org/movie/74)  [Compare across authors](../compare/index.md?t=film-war-of-the-worlds_74)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/War%20of%20the%20Worlds%20(2005)%20DTS-HD%20MA%205.1%20PvA.jpg)

@@ -1,6 +1,6 @@
 # Jawaani Jaaneman
 
-[Compare across authors](../../compare/?t=film-jawaani-jaaneman_607297)
+[Compare across authors](../compare/index.md?t=film-jawaani-jaaneman_607297)
 
 ## DD+ 5.1
 

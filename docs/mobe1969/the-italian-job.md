@@ -1,6 +1,6 @@
 # The Italian Job
 
-[Compare across authors](../../compare/?t=film-the-italian-job_10536)
+[Compare across authors](../compare/index.md?t=film-the-italian-job_10536)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Savages
 
-[Compare across authors](../../compare/?t=film-savages_82525)
+[Compare across authors](../compare/index.md?t=film-savages_82525)
 
 ## DTS-HD MA 5.1
 

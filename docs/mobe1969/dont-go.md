@@ -1,6 +1,6 @@
 # Don't Go
 
-[Compare across authors](../../compare/?t=film-dont-go_542202)
+[Compare across authors](../compare/index.md?t=film-dont-go_542202)
 
 ## DTS-HD MA 5.1
 

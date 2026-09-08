@@ -1,6 +1,6 @@
 # There's Something Wrong with the Children
 
-[Compare across authors](../../compare/?t=film-theres-something-wrong-with-the-children_899579)
+[Compare across authors](../compare/index.md?t=film-theres-something-wrong-with-the-children_899579)
 
 ## DD+ 5.1
 

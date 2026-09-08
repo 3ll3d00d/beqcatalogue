@@ -1,6 +1,6 @@
 # Operation: Endgame
 
-[Compare across authors](../../compare/?t=film-operation-endgame_41135)
+[Compare across authors](../compare/index.md?t=film-operation-endgame_41135)
 
 ## LPCM 5.1
 

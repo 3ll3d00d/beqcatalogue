@@ -1,6 +1,6 @@
 # Vengeance
 
-[Compare across authors](../../compare/?t=film-vengeance_18899)
+[Compare across authors](../compare/index.md?t=film-vengeance_18899)
 
 ## DTS-HD MA 5.1
 

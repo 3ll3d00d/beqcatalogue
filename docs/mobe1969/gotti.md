@@ -1,6 +1,6 @@
 # Gotti
 
-[Compare across authors](../../compare/?t=film-gotti_339103)
+[Compare across authors](../compare/index.md?t=film-gotti_339103)
 
 ## DTS-HD MA 5.1
 

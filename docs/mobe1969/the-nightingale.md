@@ -1,6 +1,6 @@
 # The Nightingale
 
-[Compare across authors](../../compare/?t=film-the-nightingale_400090)
+[Compare across authors](../compare/index.md?t=film-the-nightingale_400090)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-reacher_108978)
+[Compare across authors](../compare/index.md?t=TV-reacher_108978)
 
 ## Season 1
 

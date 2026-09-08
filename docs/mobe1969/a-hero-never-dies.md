@@ -1,6 +1,6 @@
 # A Hero Never Dies
 
-[Compare across authors](../../compare/?t=film-a-hero-never-dies_58776)
+[Compare across authors](../compare/index.md?t=film-a-hero-never-dies_58776)
 
 ## DTS-HD MA 2.0
 

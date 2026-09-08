@@ -1,6 +1,6 @@
 # Man of the House
 
-[Compare across authors](../../compare/?t=film-man-of-the-house_13498)
+[Compare across authors](../compare/index.md?t=film-man-of-the-house_13498)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Premium Rush
 
-[Compare across authors](../../compare/?t=film-premium-rush_49526)
+[Compare across authors](../compare/index.md?t=film-premium-rush_49526)
 
 ## DD 5.1
 

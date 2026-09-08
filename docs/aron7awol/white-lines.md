@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-white-lines_90265)
+[Compare across authors](../compare/index.md?t=TV-white-lines_90265)
 
 ## Season 1
 

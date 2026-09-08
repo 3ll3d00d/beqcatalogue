@@ -1,6 +1,6 @@
 # Monstrum
 
-[Compare across authors](../../compare/?t=film-monstrum_523593)
+[Compare across authors](../compare/index.md?t=film-monstrum_523593)
 
 ## DTS-HD MA 5.1
 

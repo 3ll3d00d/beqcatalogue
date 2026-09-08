@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-one_119284)
+[Compare across authors](../compare/index.md?t=TV-the-one_119284)
 
 ## Season 1
 

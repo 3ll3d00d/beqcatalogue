@@ -1,6 +1,6 @@
 # The World Is Not Enough
 
-[Compare across authors](../../compare/?t=film-the-world-is-not-enough_36643)
+[Compare across authors](../compare/index.md?t=film-the-world-is-not-enough_36643)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

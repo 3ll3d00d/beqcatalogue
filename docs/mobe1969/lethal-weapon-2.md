@@ -1,6 +1,6 @@
 # Lethal Weapon 2
 
-[Compare across authors](../../compare/?t=film-lethal-weapon-2_942)
+[Compare across authors](../compare/index.md?t=film-lethal-weapon-2_942)
 
 ## DTS-HD MA 5.1
 

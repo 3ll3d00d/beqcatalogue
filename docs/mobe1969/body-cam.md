@@ -1,6 +1,6 @@
 # Body Cam
 
-[Compare across authors](../../compare/?t=film-body-cam_513268)
+[Compare across authors](../compare/index.md?t=film-body-cam_513268)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Hancock
 
-[Compare across authors](../../compare/?t=film-hancock_8960)
+[Compare across authors](../compare/index.md?t=film-hancock_8960)
 
 ## Atmos
 

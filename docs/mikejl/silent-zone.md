@@ -7,7 +7,7 @@
 In a zombie-ravaged world, a resourceful teen and her protector fight for survival, facing relentless dangers and testing the limits of hope and loyalty.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1419229)  [Compare across authors](../../compare/?t=film-silent-zone_1419229)
+[TMDB](https://www.themoviedb.org/movie/1419229)  [Compare across authors](../compare/index.md?t=film-silent-zone_1419229)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silent%20Zone/Silent%20Zone%20(2025)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # Enemy
 
-[Compare across authors](../../compare/?t=film-enemy_181886)
+[Compare across authors](../compare/index.md?t=film-enemy_181886)
 
 ## DTS-HD MA 5.1
 

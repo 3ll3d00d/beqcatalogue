@@ -1,6 +1,6 @@
 # Sicario: Day of the Soldado
 
-[Compare across authors](../../compare/?t=film-sicario-day-of-the-soldado_400535)
+[Compare across authors](../compare/index.md?t=film-sicario-day-of-the-soldado_400535)
 
 ## Atmos
 

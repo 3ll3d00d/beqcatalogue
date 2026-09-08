@@ -1,6 +1,6 @@
 # The Drug King
 
-[Compare across authors](../../compare/?t=film-the-drug-king_497370)
+[Compare across authors](../compare/index.md?t=film-the-drug-king_497370)
 
 ## DD+ 5.1
 

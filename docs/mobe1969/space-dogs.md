@@ -1,6 +1,6 @@
 # Space Dogs
 
-[Compare across authors](../../compare/?t=film-space-dogs_36696)
+[Compare across authors](../compare/index.md?t=film-space-dogs_36696)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Harvest
 
-[Compare across authors](../../compare/?t=film-the-harvest_229182)
+[Compare across authors](../compare/index.md?t=film-the-harvest_229182)
 
 ## DTS-HD MA 5.1
 

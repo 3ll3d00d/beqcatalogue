@@ -1,6 +1,6 @@
 # Custody
 
-[Compare across authors](../../compare/?t=film-custody_965203)
+[Compare across authors](../compare/index.md?t=film-custody_965203)
 
 ## DD+ 5.1
 

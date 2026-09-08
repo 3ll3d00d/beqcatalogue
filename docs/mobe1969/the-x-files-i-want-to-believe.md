@@ -1,6 +1,6 @@
 # The X Files: I Want to Believe
 
-[Compare across authors](../../compare/?t=film-the-x-files-i-want-to-believe_8836)
+[Compare across authors](../compare/index.md?t=film-the-x-files-i-want-to-believe_8836)
 
 ## DTS-HD MA 5.1
 

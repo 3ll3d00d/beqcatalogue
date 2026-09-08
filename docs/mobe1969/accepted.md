@@ -1,6 +1,6 @@
 # Accepted
 
-[Compare across authors](../../compare/?t=film-accepted_9788)
+[Compare across authors](../compare/index.md?t=film-accepted_9788)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # We Still Kill the Old Way
 
-[Compare across authors](../../compare/?t=film-we-still-kill-the-old-way_309049)
+[Compare across authors](../compare/index.md?t=film-we-still-kill-the-old-way_309049)
 
 ## DD+ 5.1
 

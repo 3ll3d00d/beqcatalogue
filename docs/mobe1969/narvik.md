@@ -1,6 +1,6 @@
 # Narvik
 
-[Compare across authors](../../compare/?t=film-narvik_619930)
+[Compare across authors](../compare/index.md?t=film-narvik_619930)
 
 ## DD+ 5.1
 

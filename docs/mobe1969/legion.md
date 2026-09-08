@@ -1,6 +1,6 @@
 # Legion
 
-[Compare across authors](../../compare/?t=film-legion_22894)
+[Compare across authors](../compare/index.md?t=film-legion_22894)
 
 ## DTS-HD MA 5.1
 

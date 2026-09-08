@@ -1,6 +1,6 @@
 # Wreck-It Ralph
 
-[Compare across authors](../../compare/?t=film-wreck-it-ralph_82690)
+[Compare across authors](../compare/index.md?t=film-wreck-it-ralph_82690)
 
 ## Atmos
 

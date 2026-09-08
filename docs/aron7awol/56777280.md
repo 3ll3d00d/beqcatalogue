@@ -1,6 +1,6 @@
 # The Cabin in the Woods
 
-[Compare across authors](../../compare/?t=film-the-cabin-in-the-woods_22970)
+[Compare across authors](../compare/index.md?t=film-the-cabin-in-the-woods_22970)
 
 ## Atmos
 

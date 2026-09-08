@@ -1,6 +1,6 @@
 # The Thousand Faces of Dunjia
 
-[Compare across authors](../../compare/?t=film-the-thousand-faces-of-dunjia_460557)
+[Compare across authors](../compare/index.md?t=film-the-thousand-faces-of-dunjia_460557)
 
 ## DTS-X
 

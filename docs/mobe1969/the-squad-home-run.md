@@ -1,6 +1,6 @@
 # The Squad: Home Run
 
-[Compare across authors](../../compare/?t=film-the-squad-home-run_1020394)
+[Compare across authors](../compare/index.md?t=film-the-squad-home-run_1020394)
 
 ## DD+ Atmos
 

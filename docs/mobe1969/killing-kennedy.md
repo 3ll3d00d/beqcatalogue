@@ -1,6 +1,6 @@
 # Killing Kennedy
 
-[Compare across authors](../../compare/?t=film-killing-kennedy_235093)
+[Compare across authors](../compare/index.md?t=film-killing-kennedy_235093)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-man-to-man_70595)
+[Compare across authors](../compare/index.md?t=TV-man-to-man_70595)
 
 ## Season 1
 

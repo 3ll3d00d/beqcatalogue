@@ -1,6 +1,6 @@
 # Assassin Club
 
-[Compare across authors](../../compare/?t=film-assassin-club_876969)
+[Compare across authors](../compare/index.md?t=film-assassin-club_876969)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # A Violent Prosecutor
 
-[Compare across authors](../../compare/?t=film-a-violent-prosecutor_378348)
+[Compare across authors](../compare/index.md?t=film-a-violent-prosecutor_378348)
 
 ## TrueHD 5.1
 

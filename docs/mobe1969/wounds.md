@@ -1,6 +1,6 @@
 # Wounds
 
-[Compare across authors](../../compare/?t=film-wounds_505423)
+[Compare across authors](../compare/index.md?t=film-wounds_505423)
 
 ## DD+ Atmos
 

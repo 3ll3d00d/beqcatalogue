@@ -1,6 +1,6 @@
 # The Shadow Effect
 
-[Compare across authors](../../compare/?t=film-the-shadow-effect_383538)
+[Compare across authors](../compare/index.md?t=film-the-shadow-effect_383538)
 
 ## DTS-HD MA 5.1
 

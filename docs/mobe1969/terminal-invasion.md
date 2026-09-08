@@ -1,6 +1,6 @@
 # Terminal Invasion
 
-[Compare across authors](../../compare/?t=film-terminal-invasion_40217)
+[Compare across authors](../compare/index.md?t=film-terminal-invasion_40217)
 
 ## DTS-HD MA 5.1
 

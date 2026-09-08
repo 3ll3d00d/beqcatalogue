@@ -1,6 +1,6 @@
 # Concussion
 
-[Compare across authors](../../compare/?t=film-concussion_321741)
+[Compare across authors](../compare/index.md?t=film-concussion_321741)
 
 ## Atmos
 

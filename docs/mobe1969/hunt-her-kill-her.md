@@ -1,6 +1,6 @@
 # Hunt Her, Kill Her
 
-[Compare across authors](../../compare/?t=film-hunt-her-kill-her_989872)
+[Compare across authors](../compare/index.md?t=film-hunt-her-kill-her_989872)
 
 ## DTS-HD MA 5.1
 

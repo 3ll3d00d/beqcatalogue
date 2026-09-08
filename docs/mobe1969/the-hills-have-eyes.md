@@ -1,6 +1,6 @@
 # The Hills Have Eyes
 
-[Compare across authors](../../compare/?t=film-the-hills-have-eyes_9792)
+[Compare across authors](../compare/index.md?t=film-the-hills-have-eyes_9792)
 
 ## DTS-HD MA 5.1
 

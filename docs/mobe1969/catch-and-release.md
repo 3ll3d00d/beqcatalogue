@@ -1,6 +1,6 @@
 # Catch and Release
 
-[Compare across authors](../../compare/?t=film-catch-and-release_13668)
+[Compare across authors](../compare/index.md?t=film-catch-and-release_13668)
 
 ## DD+ 5.1
 

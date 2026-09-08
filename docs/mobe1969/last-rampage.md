@@ -1,6 +1,6 @@
 # Last Rampage
 
-[Compare across authors](../../compare/?t=film-last-rampage_423414)
+[Compare across authors](../compare/index.md?t=film-last-rampage_423414)
 
 ## DD+ 5.1
 

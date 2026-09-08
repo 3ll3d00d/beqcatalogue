@@ -1,6 +1,6 @@
 # The Craft: Legacy
 
-[Compare across authors](../../compare/?t=film-the-craft-legacy_590995)
+[Compare across authors](../compare/index.md?t=film-the-craft-legacy_590995)
 
 ## DTS-HD MA 5.1
 

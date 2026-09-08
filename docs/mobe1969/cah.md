@@ -1,6 +1,6 @@
 # Ca$h
 
-[Compare across authors](../../compare/?t=film-cah_27004)
+[Compare across authors](../compare/index.md?t=film-cah_27004)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Invitation
 
-[Compare across authors](../../compare/?t=film-the-invitation_830788)
+[Compare across authors](../compare/index.md?t=film-the-invitation_830788)
 
 ## DTS-HD MA 5.1
 

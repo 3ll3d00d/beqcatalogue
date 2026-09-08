@@ -7,7 +7,7 @@
 Based on the most well-known classical fantasy novel of China, Fengshenyanyi, the trilogy is a magnificent eastern high fantasy epic that recreates the prolonged mythical wars between humans, immortals and monsters, which happened more than three thousand years ago.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/856289)  [Compare across authors](../../compare/?t=film-creation-of-the-gods-i-kingdom-of-storms_856289)
+[TMDB](https://www.themoviedb.org/movie/856289)  [Compare across authors](../compare/index.md?t=film-creation-of-the-gods-i-kingdom-of-storms_856289)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Creation%20of%20the%20Gods%20I%20-%20Kingdom%20of%20Storms/Creation%20of%20the%20Gods%20I%20-%20Kingdom%20of%20Storms%20(2023)%20(ma)%20DTS-HD%20MA%205.1.jpg)
@@ -21,7 +21,7 @@ Based on the most well-known classical fantasy novel of China, Fengshenyanyi, th
 Based on the most well-known classical fantasy novel of China, Fengshenyanyi, the trilogy is a magnificent eastern high fantasy epic that recreates the prolonged mythical wars between humans, immortals and monsters, which happened more than three thousand years ago.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/856289)  [Compare across authors](../../compare/?t=film-creation-of-the-gods-i-kingdom-of-storms_856289)
+[TMDB](https://www.themoviedb.org/movie/856289)  [Compare across authors](../compare/index.md?t=film-creation-of-the-gods-i-kingdom-of-storms_856289)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Creation%20of%20the%20Gods%20I%20-%20Kingdom%20of%20Storms/Creation%20Of%20The%20Gods%20I%20Kingdom%20Of%20Storms%20(2023)%20(ma)%20TrueHD%205.1.jpg)

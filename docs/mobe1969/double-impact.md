@@ -1,6 +1,6 @@
 # Double Impact
 
-[Compare across authors](../../compare/?t=film-double-impact_9594)
+[Compare across authors](../compare/index.md?t=film-double-impact_9594)
 
 ## DTS-HD MA 2.0
 

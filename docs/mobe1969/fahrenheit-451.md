@@ -1,6 +1,6 @@
 # Fahrenheit 451
 
-[Compare across authors](../../compare/?t=film-fahrenheit-451_401905)
+[Compare across authors](../compare/index.md?t=film-fahrenheit-451_401905)
 
 ## DTS-HD MA 5.1
 

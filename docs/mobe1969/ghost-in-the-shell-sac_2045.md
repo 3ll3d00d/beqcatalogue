@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ghost-in-the-shell-sac_2045_90293)
+[Compare across authors](../compare/index.md?t=TV-ghost-in-the-shell-sac_2045_90293)
 
 ## Season 1
 

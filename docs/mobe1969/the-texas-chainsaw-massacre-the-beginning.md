@@ -1,6 +1,6 @@
 # The Texas Chainsaw Massacre: The Beginning
 
-[Compare across authors](../../compare/?t=film-the-texas-chainsaw-massacre-the-beginning_10781)
+[Compare across authors](../compare/index.md?t=film-the-texas-chainsaw-massacre-the-beginning_10781)
 
 ## DTS-HD MA 5.1
 

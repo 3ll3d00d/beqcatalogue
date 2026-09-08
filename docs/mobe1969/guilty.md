@@ -1,6 +1,6 @@
 # Guilty
 
-[Compare across authors](../../compare/?t=film-guilty_337961)
+[Compare across authors](../compare/index.md?t=film-guilty_337961)
 
 ## TrueHD 5.1
 

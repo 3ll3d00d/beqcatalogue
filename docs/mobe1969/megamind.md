@@ -1,6 +1,6 @@
 # Megamind
 
-[Compare across authors](../../compare/?t=film-megamind_38055)
+[Compare across authors](../compare/index.md?t=film-megamind_38055)
 
 ## TrueHD 7.1
 

@@ -1,6 +1,6 @@
 # Damien: Omen II
 
-[Compare across authors](../../compare/?t=film-damien-omen-ii_10766)
+[Compare across authors](../compare/index.md?t=film-damien-omen-ii_10766)
 
 ## DTS-HD MA 5.1
 

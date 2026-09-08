@@ -1,6 +1,6 @@
 # Ladder 49
 
-[Compare across authors](../../compare/?t=film-ladder-49_11128)
+[Compare across authors](../compare/index.md?t=film-ladder-49_11128)
 
 ## LPCM 5.1
 

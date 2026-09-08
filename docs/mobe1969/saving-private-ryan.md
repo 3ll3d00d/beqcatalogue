@@ -1,6 +1,6 @@
 # Saving Private Ryan
 
-[Compare across authors](../../compare/?t=film-saving-private-ryan_857)
+[Compare across authors](../compare/index.md?t=film-saving-private-ryan_857)
 
 ## Atmos
 

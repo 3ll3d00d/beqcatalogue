@@ -1,6 +1,6 @@
 # The Spy Next Door
 
-[Compare across authors](../../compare/?t=film-the-spy-next-door_23172)
+[Compare across authors](../compare/index.md?t=film-the-spy-next-door_23172)
 
 ## TrueHD 5.1
 

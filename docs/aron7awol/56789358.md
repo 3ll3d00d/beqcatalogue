@@ -1,6 +1,6 @@
 # Kong: Skull Island
 
-[Compare across authors](../../compare/?t=film-kong-skull-island_293167)
+[Compare across authors](../compare/index.md?t=film-kong-skull-island_293167)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Minions: The Rise of Gru
 
-[Compare across authors](../../compare/?t=film-minions-the-rise-of-gru_438148)
+[Compare across authors](../compare/index.md?t=film-minions-the-rise-of-gru_438148)
 
 ## Atmos, DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Gardener
 
-[Compare across authors](../../compare/?t=film-the-gardener_894432)
+[Compare across authors](../compare/index.md?t=film-the-gardener_894432)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Black Mountain Side
 
-[Compare across authors](../../compare/?t=film-black-mountain-side_267852)
+[Compare across authors](../compare/index.md?t=film-black-mountain-side_267852)
 
 ## DTS-HD MA 5.1
 

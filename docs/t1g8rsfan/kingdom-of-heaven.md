@@ -11,7 +11,7 @@ After his wife dies, a blacksmith named Balian is thrust into royalty, political
 
 **MV Adjustment:** +0.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/1495)  [Compare across authors](../../compare/?t=film-kingdom-of-heaven_1495)
+[TMDB](https://www.themoviedb.org/movie/1495)  [Compare across authors](../compare/index.md?t=film-kingdom-of-heaven_1495)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Kingdom%20of%20Heaven%20(2005)%20DC%20(%2B0.5%20gain)%20Atmos.jpg)

@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-duster_113959)
+* [Compare across authors](../compare/index.md?t=TV-duster_113959)
 
 * Production Year: 2025
 

@@ -1,6 +1,6 @@
 # The Swimmers
 
-[Compare across authors](../../compare/?t=film-the-swimmers_821881)
+[Compare across authors](../compare/index.md?t=film-the-swimmers_821881)
 
 ## DD+ Atmos
 

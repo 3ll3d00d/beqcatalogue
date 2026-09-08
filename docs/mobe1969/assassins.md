@@ -1,6 +1,6 @@
 # Assassins
 
-[Compare across authors](../../compare/?t=film-assassins_9691)
+[Compare across authors](../compare/index.md?t=film-assassins_9691)
 
 ## DTS-HD MA 5.1
 

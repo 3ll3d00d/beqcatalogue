@@ -14,7 +14,7 @@ Failed hockey player-turned-golf whiz Happy Gilmore — whose unconventional app
 Appears to be the same as the 1080P copy. However this was done with the UHD track so I'm adding that note.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1627?post_id=64143897#post-64143897)  [TMDB](https://www.themoviedb.org/movie/9614)  [Compare across authors](../../compare/?t=film-happy-gilmore_9614)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1627?post_id=64143897#post-64143897)  [TMDB](https://www.themoviedb.org/movie/9614)  [Compare across authors](../compare/index.md?t=film-happy-gilmore_9614)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Happy%20Gilmore%20(1996)%20(%2B5.5%20gain)%20UHD%20DTS-HD%20MA%205.1.jpg)

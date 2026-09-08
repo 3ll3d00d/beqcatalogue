@@ -1,6 +1,6 @@
 # Hi! Dharma!
 
-[Compare across authors](../../compare/?t=film-hi-dharma_68457)
+[Compare across authors](../compare/index.md?t=film-hi-dharma_68457)
 
 ## DTS-HD MA 5.1
 

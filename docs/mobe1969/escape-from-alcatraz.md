@@ -1,6 +1,6 @@
 # Escape from Alcatraz
 
-[Compare across authors](../../compare/?t=film-escape-from-alcatraz_10734)
+[Compare across authors](../compare/index.md?t=film-escape-from-alcatraz_10734)
 
 ## DTS-HD MA 5.1
 

@@ -12,7 +12,7 @@ Following the brutal murder of a young real estate agent, a hardened detective a
 +4dB Dialnorm Compensation -- Note: This BEQ is for safety. However, if your system is capable of reproducing the full bandwidth of this soundtrack, you have the option of not using the BEQ filters and only using the recommended MV adjustment.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62851469)  [TMDB](https://www.themoviedb.org/movie/866463)  [Compare across authors](../../compare/?t=film-reptile_866463)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62851469)  [TMDB](https://www.themoviedb.org/movie/866463)  [Compare across authors](../compare/index.md?t=film-reptile_866463)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Reptile%20(2023)%20PvA.jpg)

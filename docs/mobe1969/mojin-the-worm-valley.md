@@ -1,6 +1,6 @@
 # Mojin: The Worm Valley
 
-[Compare across authors](../../compare/?t=film-mojin-the-worm-valley_571446)
+[Compare across authors](../compare/index.md?t=film-mojin-the-worm-valley_571446)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Midnight In The Switchgrass
 
-[Compare across authors](../../compare/?t=film-midnight-in-the-switchgrass_693113)
+[Compare across authors](../compare/index.md?t=film-midnight-in-the-switchgrass_693113)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

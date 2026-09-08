@@ -1,6 +1,6 @@
 # Foolish Plan
 
-[Compare across authors](../../compare/?t=film-foolish-plan_478569)
+[Compare across authors](../compare/index.md?t=film-foolish-plan_478569)
 
 ## TrueHD 5.1
 

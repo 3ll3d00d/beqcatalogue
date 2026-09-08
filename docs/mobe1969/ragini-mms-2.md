@@ -1,6 +1,6 @@
 # Ragini MMS 2
 
-[Compare across authors](../../compare/?t=film-ragini-mms-2_260266)
+[Compare across authors](../compare/index.md?t=film-ragini-mms-2_260266)
 
 ## DTS-HD MA 5.1
 

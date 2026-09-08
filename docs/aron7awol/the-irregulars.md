@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-irregulars_98187)
+[Compare across authors](../compare/index.md?t=TV-the-irregulars_98187)
 
 ## Season 1
 

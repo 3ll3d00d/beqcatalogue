@@ -1,6 +1,6 @@
 # Beyond the Law
 
-[Compare across authors](../../compare/?t=film-beyond-the-law_650272)
+[Compare across authors](../compare/index.md?t=film-beyond-the-law_650272)
 
 ## DD+ 5.1
 

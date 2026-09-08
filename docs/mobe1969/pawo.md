@@ -1,6 +1,6 @@
 # Pawo
 
-[Compare across authors](../../compare/?t=film-pawo_520929)
+[Compare across authors](../compare/index.md?t=film-pawo_520929)
 
 ## DTS-HD MA 5.1
 

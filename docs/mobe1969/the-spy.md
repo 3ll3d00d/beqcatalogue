@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-spy_91725)
+[Compare across authors](../compare/index.md?t=TV-the-spy_91725)
 
 ## Season 1
 

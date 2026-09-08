@@ -1,6 +1,6 @@
 # Overheard 2
 
-[Compare across authors](../../compare/?t=film-overheard-2_74639)
+[Compare across authors](../compare/index.md?t=film-overheard-2_74639)
 
 ## DTS-HD MA 5.1
 

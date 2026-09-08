@@ -1,6 +1,6 @@
 # The Fugitive
 
-[Compare across authors](../../compare/?t=film-the-fugitive_5503)
+[Compare across authors](../compare/index.md?t=film-the-fugitive_5503)
 
 ## DTS-HD MA 5.1
 

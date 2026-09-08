@@ -1,6 +1,6 @@
 # Twins Mission
 
-[Compare across authors](../../compare/?t=film-twins-mission_15939)
+[Compare across authors](../compare/index.md?t=film-twins-mission_15939)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Insane
 
-[Compare across authors](../../compare/?t=film-insane_393070)
+[Compare across authors](../compare/index.md?t=film-insane_393070)
 
 ## TrueHD 5.1
 

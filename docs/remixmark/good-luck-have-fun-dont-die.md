@@ -9,7 +9,7 @@ A 'Man from the Future' arrives at an LA diner where he must recruit the precise
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1733?post_id=64566244#post-64566244)  [TMDB](https://www.themoviedb.org/movie/1119449)  [Compare across authors](../../compare/?t=film-good-luck-have-fun-dont-die_1119449)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1733?post_id=64566244#post-64566244)  [TMDB](https://www.themoviedb.org/movie/1119449)  [Compare across authors](../compare/index.md?t=film-good-luck-have-fun-dont-die_1119449)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die%20(2026)%20(-.5%20gain)%20Atmos.jpg)
@@ -26,7 +26,7 @@ A man claiming to be from the future takes the patrons of an iconic Los Angeles 
 Dialnorm Compensation:4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1721?post_id=64507143#post-64507143)  [TMDB](https://www.themoviedb.org/movie/1119449)  [Compare across authors](../../compare/?t=film-good-luck-have-fun-dont-die_1119449)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1721?post_id=64507143#post-64507143)  [TMDB](https://www.themoviedb.org/movie/1119449)  [Compare across authors](../compare/index.md?t=film-good-luck-have-fun-dont-die_1119449)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die%20(2026)%20DD%2B%20Atmos.jpg)

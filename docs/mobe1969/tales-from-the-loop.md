@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-tales-from-the-loop_93784)
+[Compare across authors](../compare/index.md?t=TV-tales-from-the-loop_93784)
 
 ## Season 1
 

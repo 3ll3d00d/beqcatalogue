@@ -1,6 +1,6 @@
 # The Roundup: No Way Out
 
-[Compare across authors](../../compare/?t=film-the-roundup-no-way-out_955555)
+[Compare across authors](../compare/index.md?t=film-the-roundup-no-way-out_955555)
 
 ## DD+ 5.1
 

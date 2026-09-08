@@ -1,6 +1,6 @@
 # Monster Hunter: Legends of the Guild
 
-[Compare across authors](../../compare/?t=film-monster-hunter-legends-of-the-guild_851281)
+[Compare across authors](../compare/index.md?t=film-monster-hunter-legends-of-the-guild_851281)
 
 ## DD+ 5.1
 

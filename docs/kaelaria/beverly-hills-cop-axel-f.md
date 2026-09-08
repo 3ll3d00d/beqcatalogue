@@ -7,7 +7,7 @@
 After his daughter's life is threatened, wisecracking detective Axel Foley teams up with a new partner and some old pals to turn up the heat on a conspiracy.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/280180)  [Compare across authors](../../compare/?t=film-beverly-hills-cop-axel-f_280180)
+[TMDB](https://www.themoviedb.org/movie/280180)  [Compare across authors](../compare/index.md?t=film-beverly-hills-cop-axel-f_280180)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Beverly%20Hills%20Cop%20Axel%20F%20(2024)%20DD%2B%20Atmos.jpg)

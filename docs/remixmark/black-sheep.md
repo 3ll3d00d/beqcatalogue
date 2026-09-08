@@ -12,7 +12,7 @@ When dignified Albert Donnelly runs for Governor, his team moves to keep his slo
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1574?post_id=63929497#post-63929497)  [TMDB](https://www.themoviedb.org/movie/13997)  [Compare across authors](../../compare/?t=film-black-sheep_13997)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1574?post_id=63929497#post-63929497)  [TMDB](https://www.themoviedb.org/movie/13997)  [Compare across authors](../compare/index.md?t=film-black-sheep_13997)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Black%20Sheep%20(1996)%20(%2B2%20gain)%20TrueHD.jpg)

@@ -1,6 +1,6 @@
 # Wild Things
 
-[Compare across authors](../../compare/?t=film-wild-things_617)
+[Compare across authors](../compare/index.md?t=film-wild-things_617)
 
 ## DTS-HD MA 5.1
 

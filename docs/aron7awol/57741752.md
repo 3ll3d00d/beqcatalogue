@@ -1,6 +1,6 @@
 # Triple Frontier
 
-[Compare across authors](../../compare/?t=film-triple-frontier_399361)
+[Compare across authors](../compare/index.md?t=film-triple-frontier_399361)
 
 ## DD+ Atmos
 

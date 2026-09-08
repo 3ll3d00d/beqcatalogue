@@ -1,6 +1,6 @@
 # Identity Thief
 
-[Compare across authors](../../compare/?t=film-identity-thief_109431)
+[Compare across authors](../compare/index.md?t=film-identity-thief_109431)
 
 ## DTS-HD MA 5.1
 

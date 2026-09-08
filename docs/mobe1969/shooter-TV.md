@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-shooter_66857)
+[Compare across authors](../compare/index.md?t=TV-shooter_66857)
 
 ## Season 1
 

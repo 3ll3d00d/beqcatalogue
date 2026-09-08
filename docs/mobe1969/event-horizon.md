@@ -1,6 +1,6 @@
 # Event Horizon
 
-[Compare across authors](../../compare/?t=film-event-horizon_8413)
+[Compare across authors](../compare/index.md?t=film-event-horizon_8413)
 
 ## TrueHD 5.1, DD+ 5.1
 

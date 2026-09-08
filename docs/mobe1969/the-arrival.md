@@ -1,6 +1,6 @@
 # The Arrival
 
-[Compare across authors](../../compare/?t=film-the-arrival_10547)
+[Compare across authors](../compare/index.md?t=film-the-arrival_10547)
 
 ## DD+ 5.1
 

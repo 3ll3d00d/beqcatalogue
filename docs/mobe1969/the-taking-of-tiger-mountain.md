@@ -1,6 +1,6 @@
 # The Taking of Tiger Mountain
 
-[Compare across authors](../../compare/?t=film-the-taking-of-tiger-mountain_294992)
+[Compare across authors](../compare/index.md?t=film-the-taking-of-tiger-mountain_294992)
 
 ## TrueHD 5.1
 

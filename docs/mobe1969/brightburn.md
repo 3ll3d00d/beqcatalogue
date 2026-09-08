@@ -1,6 +1,6 @@
 # Brightburn
 
-[Compare across authors](../../compare/?t=film-brightburn_531309)
+[Compare across authors](../compare/index.md?t=film-brightburn_531309)
 
 ## Atmos
 

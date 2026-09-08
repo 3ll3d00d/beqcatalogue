@@ -1,6 +1,6 @@
 # Silence
 
-[Compare across authors](../../compare/?t=film-silence_68730)
+[Compare across authors](../compare/index.md?t=film-silence_68730)
 
 ## DD+ 5.1
 

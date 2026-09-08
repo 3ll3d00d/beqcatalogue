@@ -1,6 +1,6 @@
 # The Fable
 
-[Compare across authors](../../compare/?t=film-the-fable_532267)
+[Compare across authors](../compare/index.md?t=film-the-fable_532267)
 
 ## DD+ 5.1
 

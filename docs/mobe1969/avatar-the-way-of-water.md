@@ -1,6 +1,6 @@
 # Avatar: The Way of Water
 
-[Compare across authors](../../compare/?t=film-avatar-the-way-of-water_76600)
+[Compare across authors](../compare/index.md?t=film-avatar-the-way-of-water_76600)
 
 ## Atmos, DTS-HD MA 7.1, DTS-HD MA 5.1
 

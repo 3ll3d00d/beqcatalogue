@@ -9,7 +9,7 @@ Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1609?post_id=64069457#post-64069457)  [TMDB](https://www.themoviedb.org/movie/870360)  [Compare across authors](../../compare/?t=film-the-day-the-earth-blew-up-a-looney-tunes-movie_870360)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1609?post_id=64069457#post-64069457)  [TMDB](https://www.themoviedb.org/movie/870360)  [Compare across authors](../compare/index.md?t=film-the-day-the-earth-blew-up-a-looney-tunes-movie_870360)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Day%20the%20Earth%20Blew%20Up%20A%20Looney%20Tunes%20Movie%20(2024)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)

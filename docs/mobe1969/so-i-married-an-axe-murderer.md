@@ -1,6 +1,6 @@
 # So I Married an Axe Murderer
 
-[Compare across authors](../../compare/?t=film-so-i-married-an-axe-murderer_10442)
+[Compare across authors](../compare/index.md?t=film-so-i-married-an-axe-murderer_10442)
 
 ## Atmos
 

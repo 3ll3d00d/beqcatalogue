@@ -1,6 +1,6 @@
 # 16 Blocks
 
-[Compare across authors](../../compare/?t=film-16-blocks_2207)
+[Compare across authors](../compare/index.md?t=film-16-blocks_2207)
 
 ## DD 5.1
 

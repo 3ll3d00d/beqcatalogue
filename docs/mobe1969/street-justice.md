@@ -1,6 +1,6 @@
 # Street Justice
 
-[Compare across authors](../../compare/?t=film-street-justice_490017)
+[Compare across authors](../compare/index.md?t=film-street-justice_490017)
 
 ## DTS-HD MA 5.1
 

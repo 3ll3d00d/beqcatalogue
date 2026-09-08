@@ -1,6 +1,6 @@
 # Miss Congeniality
 
-[Compare across authors](../../compare/?t=film-miss-congeniality_1493)
+[Compare across authors](../compare/index.md?t=film-miss-congeniality_1493)
 
 ## DTS-HD MA 5.1
 

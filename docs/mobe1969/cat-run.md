@@ -1,6 +1,6 @@
 # Cat Run
 
-[Compare across authors](../../compare/?t=film-cat-run_57353)
+[Compare across authors](../compare/index.md?t=film-cat-run_57353)
 
 ## DTS-HD MA 5.1
 

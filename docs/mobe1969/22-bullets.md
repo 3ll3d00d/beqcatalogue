@@ -1,6 +1,6 @@
 # 22 Bullets
 
-[Compare across authors](../../compare/?t=film-22-bullets_37645)
+[Compare across authors](../compare/index.md?t=film-22-bullets_37645)
 
 ## DTS-HD MA 5.1
 

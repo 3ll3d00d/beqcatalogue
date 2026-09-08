@@ -1,6 +1,6 @@
 # Detective Dee and the Mystery of the Phantom Flame
 
-[Compare across authors](../../compare/?t=film-detective-dee-and-the-mystery-of-the-phantom-flame_48492)
+[Compare across authors](../compare/index.md?t=film-detective-dee-and-the-mystery-of-the-phantom-flame_48492)
 
 ## DTS-HD MA 5.1
 

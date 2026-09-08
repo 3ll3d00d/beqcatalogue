@@ -1,6 +1,6 @@
 # Chupa
 
-[Compare across authors](../../compare/?t=film-chupa_736790)
+[Compare across authors](../compare/index.md?t=film-chupa_736790)
 
 ## DD+ Atmos
 

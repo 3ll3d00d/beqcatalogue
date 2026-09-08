@@ -1,6 +1,6 @@
 # Thallumaala
 
-[Compare across authors](../../compare/?t=film-thallumaala_863530)
+[Compare across authors](../compare/index.md?t=film-thallumaala_863530)
 
 ## DD+ 5.1
 

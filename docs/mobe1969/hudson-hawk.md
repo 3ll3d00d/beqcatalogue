@@ -1,6 +1,6 @@
 # Hudson Hawk
 
-[Compare across authors](../../compare/?t=film-hudson-hawk_9292)
+[Compare across authors](../compare/index.md?t=film-hudson-hawk_9292)
 
 ## DTS-HD MA 2.0
 

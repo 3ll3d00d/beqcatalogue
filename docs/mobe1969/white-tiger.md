@@ -1,6 +1,6 @@
 # White Tiger
 
-[Compare across authors](../../compare/?t=film-white-tiger_111237)
+[Compare across authors](../compare/index.md?t=film-white-tiger_111237)
 
 ## DTS-HD MA 5.1
 

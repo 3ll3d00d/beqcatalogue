@@ -1,6 +1,6 @@
 # Dragon Ball Z: Resurrection 'F'
 
-[Compare across authors](../../compare/?t=film-dragon-ball-z-resurrection-f_303857)
+[Compare across authors](../compare/index.md?t=film-dragon-ball-z-resurrection-f_303857)
 
 ## DTS-HD MA 5.1
 

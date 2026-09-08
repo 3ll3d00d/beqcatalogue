@@ -1,6 +1,6 @@
 # Amsterdam
 
-[Compare across authors](../../compare/?t=film-amsterdam_664469)
+[Compare across authors](../compare/index.md?t=film-amsterdam_664469)
 
 ## Atmos, DTS-HD MA 7.1
 

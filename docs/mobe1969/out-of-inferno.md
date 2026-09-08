@@ -1,6 +1,6 @@
 # Out of Inferno
 
-[Compare across authors](../../compare/?t=film-out-of-inferno_244339)
+[Compare across authors](../compare/index.md?t=film-out-of-inferno_244339)
 
 ## DTS-HD MA 5.1
 

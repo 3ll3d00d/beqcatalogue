@@ -1,6 +1,6 @@
 # Saints and Soldiers
 
-[Compare across authors](../../compare/?t=film-saints-and-soldiers_10105)
+[Compare across authors](../compare/index.md?t=film-saints-and-soldiers_10105)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/2675)  [Compare across authors](../../compare/?t=film-signs_2675)
+[TMDB](https://www.themoviedb.org/movie/2675)  [Compare across authors](../compare/index.md?t=film-signs_2675)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Signs%20(2002)%20DTS-HD%20MA%205.1.jpg)

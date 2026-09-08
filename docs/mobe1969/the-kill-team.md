@@ -1,6 +1,6 @@
 # The Kill Team
 
-[Compare across authors](../../compare/?t=film-the-kill-team_489245)
+[Compare across authors](../compare/index.md?t=film-the-kill-team_489245)
 
 ## DTS-HD MA 5.1
 

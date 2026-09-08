@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-caliphate_92891)
+[Compare across authors](../compare/index.md?t=TV-caliphate_92891)
 
 ## Season 1
 

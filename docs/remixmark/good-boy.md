@@ -9,7 +9,7 @@ A loyal dog moves to a rural family home with his owner Todd, only to discover s
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1674?post_id=64282962#post-64282962)  [TMDB](https://www.themoviedb.org/movie/1422096)  [Compare across authors](../../compare/?t=film-good-boy_1422096)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1674?post_id=64282962#post-64282962)  [TMDB](https://www.themoviedb.org/movie/1422096)  [Compare across authors](../compare/index.md?t=film-good-boy_1422096)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Good%20Boy%20(2025).%20(%2B5.5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ A loyal dog moves to a rural family home with his owner Todd, only to discover s
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1691?post_id=64374239#post-64374239)  [TMDB](https://www.themoviedb.org/movie/1422096)  [Compare across authors](../../compare/?t=film-good-boy_1422096)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1691?post_id=64374239#post-64374239)  [TMDB](https://www.themoviedb.org/movie/1422096)  [Compare across authors](../compare/index.md?t=film-good-boy_1422096)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Good%20Boy%20(2025)%20DTS-HD%20MA%205.1.jpg)

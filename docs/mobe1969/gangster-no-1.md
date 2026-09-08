@@ -1,6 +1,6 @@
 # Gangster No. 1
 
-[Compare across authors](../../compare/?t=film-gangster-no-1_10394)
+[Compare across authors](../compare/index.md?t=film-gangster-no-1_10394)
 
 ## DTS-HD MA 5.1
 

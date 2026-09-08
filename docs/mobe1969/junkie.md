@@ -1,6 +1,6 @@
 # Junkie
 
-[Compare across authors](../../compare/?t=film-junkie_93094)
+[Compare across authors](../compare/index.md?t=film-junkie_93094)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Brave
 
-[Compare across authors](../../compare/?t=film-the-brave_541768)
+[Compare across authors](../compare/index.md?t=film-the-brave_541768)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Naked
 
-[Compare across authors](../../compare/?t=film-naked_433251)
+[Compare across authors](../compare/index.md?t=film-naked_433251)
 
 ## DD+ 5.1
 

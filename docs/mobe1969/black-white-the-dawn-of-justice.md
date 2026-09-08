@@ -1,6 +1,6 @@
 # Black & White: The Dawn of Justice
 
-[Compare across authors](../../compare/?t=film-black-white-the-dawn-of-justice_296777)
+[Compare across authors](../compare/index.md?t=film-black-white-the-dawn-of-justice_296777)
 
 ## TrueHD 5.1
 

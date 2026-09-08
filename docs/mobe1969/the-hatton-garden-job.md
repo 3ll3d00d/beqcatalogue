@@ -1,6 +1,6 @@
 # The Hatton Garden Job
 
-[Compare across authors](../../compare/?t=film-the-hatton-garden-job_448847)
+[Compare across authors](../compare/index.md?t=film-the-hatton-garden-job_448847)
 
 ## DTS-HD MA 5.1
 

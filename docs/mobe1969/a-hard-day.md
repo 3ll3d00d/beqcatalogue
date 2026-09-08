@@ -1,6 +1,6 @@
 # A Hard Day
 
-[Compare across authors](../../compare/?t=film-a-hard-day_269494)
+[Compare across authors](../compare/index.md?t=film-a-hard-day_269494)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The November Man
 
-[Compare across authors](../../compare/?t=film-the-november-man_254904)
+[Compare across authors](../compare/index.md?t=film-the-november-man_254904)
 
 ## DTS-HD MA 5.1
 

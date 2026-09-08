@@ -1,6 +1,6 @@
 # Disturbia
 
-[Compare across authors](../../compare/?t=film-disturbia_8271)
+[Compare across authors](../compare/index.md?t=film-disturbia_8271)
 
 ## DTS-ES 5.1
 

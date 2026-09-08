@@ -1,6 +1,6 @@
 # The Exorcism of God
 
-[Compare across authors](../../compare/?t=film-the-exorcism-of-god_836225)
+[Compare across authors](../compare/index.md?t=film-the-exorcism-of-god_836225)
 
 ## DD+ 5.1
 

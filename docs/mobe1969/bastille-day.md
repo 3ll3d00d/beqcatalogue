@@ -1,6 +1,6 @@
 # Bastille Day
 
-[Compare across authors](../../compare/?t=film-bastille-day_333669)
+[Compare across authors](../compare/index.md?t=film-bastille-day_333669)
 
 ## Atmos
 

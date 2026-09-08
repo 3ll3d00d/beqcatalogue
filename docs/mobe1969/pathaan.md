@@ -1,6 +1,6 @@
 # Pathaan
 
-[Compare across authors](../../compare/?t=film-pathaan_864692)
+[Compare across authors](../compare/index.md?t=film-pathaan_864692)
 
 ## DD 5.1
 

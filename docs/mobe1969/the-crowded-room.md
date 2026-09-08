@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-crowded-room_123192)
+[Compare across authors](../compare/index.md?t=TV-the-crowded-room_123192)
 
 ## Season 1
 

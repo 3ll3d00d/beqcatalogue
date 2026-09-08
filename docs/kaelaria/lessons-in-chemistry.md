@@ -5,7 +5,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-lessons-in-chemistry_117303)
+* [Compare across authors](../compare/index.md?t=TV-lessons-in-chemistry_117303)
 
 * Production Year: 2023
 

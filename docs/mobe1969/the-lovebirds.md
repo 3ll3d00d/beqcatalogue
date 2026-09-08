@@ -1,6 +1,6 @@
 # The Lovebirds
 
-[Compare across authors](../../compare/?t=film-the-lovebirds_576156)
+[Compare across authors](../compare/index.md?t=film-the-lovebirds_576156)
 
 ## DD+ 5.1
 

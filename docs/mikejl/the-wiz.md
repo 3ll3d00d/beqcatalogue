@@ -7,7 +7,7 @@
 Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/24961)  [Compare across authors](../../compare/?t=film-the-wiz_24961)
+[TMDB](https://www.themoviedb.org/movie/24961)  [Compare across authors](../compare/index.md?t=film-the-wiz_24961)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Wiz/The%20Wiz%20(1978)%20Atmos.jpg)
@@ -21,7 +21,7 @@ Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz 
 Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/24961)  [Compare across authors](../../compare/?t=film-the-wiz_24961)
+[TMDB](https://www.themoviedb.org/movie/24961)  [Compare across authors](../compare/index.md?t=film-the-wiz_24961)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Wiz/The%20Wiz%20(1978)%20DD%2B%205.1.jpg)

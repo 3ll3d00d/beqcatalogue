@@ -1,6 +1,6 @@
 # Magic to Win
 
-[Compare across authors](../../compare/?t=film-magic-to-win_85874)
+[Compare across authors](../compare/index.md?t=film-magic-to-win_85874)
 
 ## DTS-HD MA 5.1
 

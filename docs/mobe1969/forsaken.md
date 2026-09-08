@@ -1,6 +1,6 @@
 # Forsaken
 
-[Compare across authors](../../compare/?t=film-forsaken_354110)
+[Compare across authors](../compare/index.md?t=film-forsaken_354110)
 
 ## DTS-HD MA 5.1
 

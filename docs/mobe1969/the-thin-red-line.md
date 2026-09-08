@@ -1,6 +1,6 @@
 # The Thin Red Line
 
-[Compare across authors](../../compare/?t=film-the-thin-red-line_8741)
+[Compare across authors](../compare/index.md?t=film-the-thin-red-line_8741)
 
 ## DTS-HD MA 5.1
 

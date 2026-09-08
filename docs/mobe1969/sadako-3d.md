@@ -1,6 +1,6 @@
 # Sadako 3D
 
-[Compare across authors](../../compare/?t=film-sadako-3d_140441)
+[Compare across authors](../compare/index.md?t=film-sadako-3d_140441)
 
 ## DTS-HD MA 5.1
 

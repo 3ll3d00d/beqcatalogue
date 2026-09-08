@@ -9,7 +9,7 @@ A new father going through a marital separation joins a dating app and matches w
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1498?post_id=63514962#post-63514962)  [TMDB](https://www.themoviedb.org/movie/1130276)  [Compare across authors](../../compare/?t=film-succubus_1130276)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1498?post_id=63514962#post-63514962)  [TMDB](https://www.themoviedb.org/movie/1130276)  [Compare across authors](../compare/index.md?t=film-succubus_1130276)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Succubus%20(2024)%20DTS-HD%20MA%205.1.jpg)

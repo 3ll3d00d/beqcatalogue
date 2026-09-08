@@ -1,6 +1,6 @@
 # Cash Truck
 
-[Compare across authors](../../compare/?t=film-cash-truck_21776)
+[Compare across authors](../compare/index.md?t=film-cash-truck_21776)
 
 ## DTS-HD MA 5.1
 

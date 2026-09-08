@@ -1,6 +1,6 @@
 # Assassin's Creed
 
-[Compare across authors](../../compare/?t=film-assassins-creed_121856)
+[Compare across authors](../compare/index.md?t=film-assassins-creed_121856)
 
 ## Atmos
 

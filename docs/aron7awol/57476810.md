@@ -1,6 +1,6 @@
 # First Blood
 
-[Compare across authors](../../compare/?t=film-first-blood_1368)
+[Compare across authors](../compare/index.md?t=film-first-blood_1368)
 
 ## DTS-HD MA 5.1
 

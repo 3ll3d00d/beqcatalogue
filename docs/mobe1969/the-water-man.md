@@ -1,6 +1,6 @@
 # The Water Man
 
-[Compare across authors](../../compare/?t=film-the-water-man_346687)
+[Compare across authors](../compare/index.md?t=film-the-water-man_346687)
 
 ## DD+ 5.1
 

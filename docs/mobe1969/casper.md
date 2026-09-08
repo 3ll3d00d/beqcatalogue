@@ -1,6 +1,6 @@
 # Casper
 
-[Compare across authors](../../compare/?t=film-casper_8839)
+[Compare across authors](../compare/index.md?t=film-casper_8839)
 
 ## DD+ 5.1
 

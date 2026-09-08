@@ -1,6 +1,6 @@
 # The Ring
 
-[Compare across authors](../../compare/?t=film-the-ring_565)
+[Compare across authors](../compare/index.md?t=film-the-ring_565)
 
 ## DTS-HD MA 5.1
 

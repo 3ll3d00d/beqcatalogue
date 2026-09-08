@@ -1,6 +1,6 @@
 # Invincible: Atom Eve
 
-[Compare across authors](../../compare/?t=film-invincible-atom-eve_1154863)
+[Compare across authors](../compare/index.md?t=film-invincible-atom-eve_1154863)
 
 ## DD+ 5.1
 

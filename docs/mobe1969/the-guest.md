@@ -1,6 +1,6 @@
 # The Guest
 
-[Compare across authors](../../compare/?t=film-the-guest_241848)
+[Compare across authors](../compare/index.md?t=film-the-guest_241848)
 
 ## DTS-HD MA 5.1
 

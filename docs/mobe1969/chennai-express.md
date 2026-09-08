@@ -1,6 +1,6 @@
 # Chennai Express
 
-[Compare across authors](../../compare/?t=film-chennai-express_205022)
+[Compare across authors](../compare/index.md?t=film-chennai-express_205022)
 
 ## DD+ 5.1
 

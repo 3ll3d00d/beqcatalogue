@@ -1,6 +1,6 @@
 # DOA: Dead or Alive
 
-[Compare across authors](../../compare/?t=film-doa-dead-or-alive_9053)
+[Compare across authors](../compare/index.md?t=film-doa-dead-or-alive_9053)
 
 ## DTS-HD MA 5.1
 

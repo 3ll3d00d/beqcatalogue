@@ -1,6 +1,6 @@
 # League of Gods
 
-[Compare across authors](../../compare/?t=film-league-of-gods_406429)
+[Compare across authors](../compare/index.md?t=film-league-of-gods_406429)
 
 ## DD+ 5.1
 

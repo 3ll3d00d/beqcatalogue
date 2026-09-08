@@ -1,6 +1,6 @@
 # The Killer
 
-[Compare across authors](../../compare/?t=film-the-killer_466190)
+[Compare across authors](../compare/index.md?t=film-the-killer_466190)
 
 ## DD+ 5.1
 

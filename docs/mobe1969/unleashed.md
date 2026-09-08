@@ -1,6 +1,6 @@
 # Unleashed
 
-[Compare across authors](../../compare/?t=film-unleashed_10027)
+[Compare across authors](../compare/index.md?t=film-unleashed_10027)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Wind River
 
-[Compare across authors](../../compare/?t=film-wind-river_395834)
+[Compare across authors](../compare/index.md?t=film-wind-river_395834)
 
 ## DTS-HD MA 5.1
 

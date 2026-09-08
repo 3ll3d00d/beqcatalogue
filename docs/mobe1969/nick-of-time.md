@@ -1,6 +1,6 @@
 # Nick of Time
 
-[Compare across authors](../../compare/?t=film-nick-of-time_2086)
+[Compare across authors](../compare/index.md?t=film-nick-of-time_2086)
 
 ## DD+ 5.1
 

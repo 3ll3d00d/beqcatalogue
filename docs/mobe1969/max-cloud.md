@@ -1,6 +1,6 @@
 # Max Cloud
 
-[Compare across authors](../../compare/?t=film-max-cloud_647781)
+[Compare across authors](../compare/index.md?t=film-max-cloud_647781)
 
 ## DTS-HD MA 5.1
 

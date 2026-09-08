@@ -1,6 +1,6 @@
 # The Kill Room
 
-[Compare across authors](../../compare/?t=film-the-kill-room_958006)
+[Compare across authors](../compare/index.md?t=film-the-kill-room_958006)
 
 ## DD+ 5.1
 

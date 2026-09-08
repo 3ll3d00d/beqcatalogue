@@ -1,6 +1,6 @@
 # Dogma
 
-[Compare across authors](../../compare/?t=film-dogma_1832)
+[Compare across authors](../compare/index.md?t=film-dogma_1832)
 
 ## TrueHD 5.1
 

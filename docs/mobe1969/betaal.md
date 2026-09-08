@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-betaal_103759)
+[Compare across authors](../compare/index.md?t=TV-betaal_103759)
 
 ## Season 1
 

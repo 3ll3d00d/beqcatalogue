@@ -1,6 +1,6 @@
 # A Perfect Pairing
 
-[Compare across authors](../../compare/?t=film-a-perfect-pairing_934761)
+[Compare across authors](../compare/index.md?t=film-a-perfect-pairing_934761)
 
 ## DD+ Atmos
 

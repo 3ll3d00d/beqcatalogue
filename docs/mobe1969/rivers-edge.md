@@ -1,6 +1,6 @@
 # River's Edge
 
-[Compare across authors](../../compare/?t=film-rivers-edge_487358)
+[Compare across authors](../compare/index.md?t=film-rivers-edge_487358)
 
 ## DD+ 5.1
 

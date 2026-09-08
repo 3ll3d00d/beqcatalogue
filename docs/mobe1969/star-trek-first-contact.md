@@ -1,6 +1,6 @@
 # Star Trek: First Contact
 
-[Compare across authors](../../compare/?t=film-star-trek-first-contact_199)
+[Compare across authors](../compare/index.md?t=film-star-trek-first-contact_199)
 
 ## TrueHD 5.1
 

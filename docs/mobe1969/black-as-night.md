@@ -1,6 +1,6 @@
 # Black As Night
 
-[Compare across authors](../../compare/?t=film-black-as-night_767504)
+[Compare across authors](../compare/index.md?t=film-black-as-night_767504)
 
 ## DD+ 5.1
 

@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-agatha-christies-seven-dials_250505)
+* [Compare across authors](../compare/index.md?t=TV-agatha-christies-seven-dials_250505)
 
 * Production Year: 2026
 

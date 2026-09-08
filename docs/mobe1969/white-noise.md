@@ -1,6 +1,6 @@
 # White Noise
 
-[Compare across authors](../../compare/?t=film-white-noise_11804)
+[Compare across authors](../compare/index.md?t=film-white-noise_11804)
 
 ## DTS-HD MA 5.1
 

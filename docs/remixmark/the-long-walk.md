@@ -9,7 +9,7 @@ In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boy
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64314198#post-64314198)  [TMDB](https://www.themoviedb.org/movie/604079)  [Compare across authors](../../compare/?t=film-the-long-walk_604079)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64314198#post-64314198)  [TMDB](https://www.themoviedb.org/movie/604079)  [Compare across authors](../compare/index.md?t=film-the-long-walk_604079)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Long%20Walk%20(2025)%20(%2B6%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boy
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1670?post_id=64266259#post-64266259)  [TMDB](https://www.themoviedb.org/movie/604079)  [Compare across authors](../../compare/?t=film-the-long-walk_604079)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1670?post_id=64266259#post-64266259)  [TMDB](https://www.themoviedb.org/movie/604079)  [Compare across authors](../compare/index.md?t=film-the-long-walk_604079)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Long%20Walk%20(2025)%20(%2B6%20gain)%20DD%2B%20Atmos.jpg)

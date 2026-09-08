@@ -1,6 +1,6 @@
 # Medellín
 
-[Compare across authors](../../compare/?t=film-medellin_961718)
+[Compare across authors](../compare/index.md?t=film-medellin_961718)
 
 ## DD+ 5.1
 

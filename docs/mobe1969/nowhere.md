@@ -1,6 +1,6 @@
 # Nowhere
 
-[Compare across authors](../../compare/?t=film-nowhere_1151534)
+[Compare across authors](../compare/index.md?t=film-nowhere_1151534)
 
 ## DD+ Atmos
 

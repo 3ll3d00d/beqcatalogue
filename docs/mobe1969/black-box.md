@@ -1,6 +1,6 @@
 # Black Box
 
-[Compare across authors](../../compare/?t=film-black-box_716258)
+[Compare across authors](../compare/index.md?t=film-black-box_716258)
 
 ## DD+ 5.1
 

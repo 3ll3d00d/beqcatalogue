@@ -1,6 +1,6 @@
 # Wyatt Earp
 
-[Compare across authors](../../compare/?t=film-wyatt-earp_12160)
+[Compare across authors](../compare/index.md?t=film-wyatt-earp_12160)
 
 ## DD 5.1
 

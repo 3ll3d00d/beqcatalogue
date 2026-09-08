@@ -1,6 +1,6 @@
 # Marjaavaan
 
-[Compare across authors](../../compare/?t=film-marjaavaan_627715)
+[Compare across authors](../compare/index.md?t=film-marjaavaan_627715)
 
 ## DD+ 5.1
 

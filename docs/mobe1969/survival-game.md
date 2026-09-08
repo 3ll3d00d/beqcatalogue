@@ -1,6 +1,6 @@
 # Survival Game
 
-[Compare across authors](../../compare/?t=film-survival-game_375108)
+[Compare across authors](../compare/index.md?t=film-survival-game_375108)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Ice Age: The Meltdown
 
-[Compare across authors](../../compare/?t=film-ice-age-the-meltdown_950)
+[Compare across authors](../compare/index.md?t=film-ice-age-the-meltdown_950)
 
 ## DTS-HD MA 5.1
 

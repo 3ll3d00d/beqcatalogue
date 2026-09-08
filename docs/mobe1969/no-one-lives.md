@@ -1,6 +1,6 @@
 # No One Lives
 
-[Compare across authors](../../compare/?t=film-no-one-lives_123109)
+[Compare across authors](../compare/index.md?t=film-no-one-lives_123109)
 
 ## TrueHD 5.1
 

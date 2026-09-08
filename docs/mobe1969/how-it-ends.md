@@ -1,6 +1,6 @@
 # How It Ends
 
-[Compare across authors](../../compare/?t=film-how-it-ends_475210)
+[Compare across authors](../compare/index.md?t=film-how-it-ends_475210)
 
 ## DD+ 5.1
 

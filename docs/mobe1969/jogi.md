@@ -1,6 +1,6 @@
 # Jogi
 
-[Compare across authors](../../compare/?t=film-jogi_1014386)
+[Compare across authors](../compare/index.md?t=film-jogi_1014386)
 
 ## DD+ 5.1
 

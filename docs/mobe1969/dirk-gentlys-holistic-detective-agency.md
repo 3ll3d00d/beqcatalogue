@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dirk-gentlys-holistic-detective-agency_67773)
+[Compare across authors](../compare/index.md?t=TV-dirk-gentlys-holistic-detective-agency_67773)
 
 ## Season 1
 

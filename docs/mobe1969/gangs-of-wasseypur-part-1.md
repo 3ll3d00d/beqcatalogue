@@ -1,6 +1,6 @@
 # Gangs of Wasseypur - Part 1
 
-[Compare across authors](../../compare/?t=film-gangs-of-wasseypur-part-1_117691)
+[Compare across authors](../compare/index.md?t=film-gangs-of-wasseypur-part-1_117691)
 
 ## DD+ 5.1
 

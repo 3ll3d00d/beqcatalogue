@@ -1,6 +1,6 @@
 # Ichi
 
-[Compare across authors](../../compare/?t=film-ichi_19506)
+[Compare across authors](../compare/index.md?t=film-ichi_19506)
 
 ## TrueHD 5.1
 

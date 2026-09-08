@@ -8,7 +8,7 @@
 Reduced boost at 18Hz from -5 to -15 to keep at safe levels.
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-hellfire_1088434)
+* [Compare across authors](../compare/index.md?t=TV-hellfire_1088434)
 
 * Production Year: 2026
 

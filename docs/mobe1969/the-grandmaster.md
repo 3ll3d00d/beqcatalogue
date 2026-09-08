@@ -1,6 +1,6 @@
 # The Grandmaster
 
-[Compare across authors](../../compare/?t=film-the-grandmaster_44865)
+[Compare across authors](../compare/index.md?t=film-the-grandmaster_44865)
 
 ## DTS-HD MA 5.1
 

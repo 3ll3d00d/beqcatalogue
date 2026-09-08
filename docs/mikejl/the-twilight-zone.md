@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-twilight-zone_83135)
+* [Compare across authors](../compare/index.md?t=TV-the-twilight-zone_83135)
 
 * Production Year: 2019
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-twilight-zone_83135)
+* [Compare across authors](../compare/index.md?t=TV-the-twilight-zone_83135)
 
 * Production Year: 2019
 

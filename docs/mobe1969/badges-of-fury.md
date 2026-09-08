@@ -1,6 +1,6 @@
 # Badges of Fury
 
-[Compare across authors](../../compare/?t=film-badges-of-fury_202220)
+[Compare across authors](../compare/index.md?t=film-badges-of-fury_202220)
 
 ## DTS-HD MA 5.1
 

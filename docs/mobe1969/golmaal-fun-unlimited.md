@@ -1,6 +1,6 @@
 # Golmaal - Fun Unlimited
 
-[Compare across authors](../../compare/?t=film-golmaal-fun-unlimited_19670)
+[Compare across authors](../compare/index.md?t=film-golmaal-fun-unlimited_19670)
 
 ## DD+ 5.1
 

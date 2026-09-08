@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-yong-pal_63311)
+[Compare across authors](../compare/index.md?t=TV-yong-pal_63311)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Killing Them Softly
 
-[Compare across authors](../../compare/?t=film-killing-them-softly_64689)
+[Compare across authors](../compare/index.md?t=film-killing-them-softly_64689)
 
 ## DTS-HD MA 5.1
 

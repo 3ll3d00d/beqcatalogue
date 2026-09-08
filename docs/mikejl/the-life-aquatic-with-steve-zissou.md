@@ -7,7 +7,7 @@
 Renowned oceanographer Steve Zissou has sworn vengeance upon the rare shark that devoured a member of his crew. In addition to his regular team, he is joined on his boat by Ned, a man who believes Zissou to be his father, and Jane, a journalist pregnant by a married man. They travel the sea, all too often running into pirates and, perhaps more traumatically, various figures from Zissou's past, including his estranged wife, Eleanor.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/421)  [Compare across authors](../../compare/?t=film-the-life-aquatic-with-steve-zissou_421)
+[TMDB](https://www.themoviedb.org/movie/421)  [Compare across authors](../compare/index.md?t=film-the-life-aquatic-with-steve-zissou_421)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Life%20Aquatic%20with%20Steve%20Zissou/The%20Life%20Aquatic%20with%20Steve%20Zissou%20(2005)%20DTS-HD%20MA%205.1.jpg)

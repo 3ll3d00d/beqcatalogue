@@ -1,6 +1,6 @@
 # Cellular
 
-[Compare across authors](../../compare/?t=film-cellular_9759)
+[Compare across authors](../compare/index.md?t=film-cellular_9759)
 
 ## DTS-HD MA 5.1
 

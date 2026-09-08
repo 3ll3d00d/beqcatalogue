@@ -1,6 +1,6 @@
 # Blood & Gold
 
-[Compare across authors](../../compare/?t=film-blood-gold_1098110)
+[Compare across authors](../compare/index.md?t=film-blood-gold_1098110)
 
 ## DD+ Atmos
 

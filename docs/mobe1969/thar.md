@@ -1,6 +1,6 @@
 # Thar
 
-[Compare across authors](../../compare/?t=film-thar_941596)
+[Compare across authors](../compare/index.md?t=film-thar_941596)
 
 ## DD+ Atmos
 

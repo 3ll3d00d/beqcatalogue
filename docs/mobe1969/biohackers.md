@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-biohackers_100074)
+[Compare across authors](../compare/index.md?t=TV-biohackers_100074)
 
 ## Season 1
 

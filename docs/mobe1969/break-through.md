@@ -1,6 +1,6 @@
 # Break Through
 
-[Compare across authors](../../compare/?t=film-break-through_870026)
+[Compare across authors](../compare/index.md?t=film-break-through_870026)
 
 ## DTS-HD MA 5.1
 

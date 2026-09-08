@@ -1,6 +1,6 @@
 # The Rundown
 
-[Compare across authors](../../compare/?t=film-the-rundown_10159)
+[Compare across authors](../compare/index.md?t=film-the-rundown_10159)
 
 ## DD+ 5.1
 

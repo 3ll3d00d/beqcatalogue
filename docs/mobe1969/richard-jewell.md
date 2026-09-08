@@ -1,6 +1,6 @@
 # Richard Jewell
 
-[Compare across authors](../../compare/?t=film-richard-jewell_292011)
+[Compare across authors](../compare/index.md?t=film-richard-jewell_292011)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Crazy Rich Asians
 
-[Compare across authors](../../compare/?t=film-crazy-rich-asians_455207)
+[Compare across authors](../compare/index.md?t=film-crazy-rich-asians_455207)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

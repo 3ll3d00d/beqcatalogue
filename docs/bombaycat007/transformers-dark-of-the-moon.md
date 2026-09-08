@@ -11,7 +11,7 @@ The Autobots continue to work for NEST, now no longer in secret. But after disco
 
 **MV Adjustment:** -2.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/38356)  [Compare across authors](../../compare/?t=film-transformers-dark-of-the-moon_38356)
+[TMDB](https://www.themoviedb.org/movie/38356)  [Compare across authors](../compare/index.md?t=film-transformers-dark-of-the-moon_38356)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Transformers%20-%20Dark%20of%20the%20Moon%20(2011)%203D%20TrueHD%207.1.png)

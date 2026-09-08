@@ -9,7 +9,7 @@ In a future where a failed global-warming experiment kills off most life on the 
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1555?post_id=63807076#post-63807076)  [TMDB](https://www.themoviedb.org/movie/110415)  [Compare across authors](../../compare/?t=film-snowpiercer_110415)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1555?post_id=63807076#post-63807076)  [TMDB](https://www.themoviedb.org/movie/110415)  [Compare across authors](../compare/index.md?t=film-snowpiercer_110415)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Snowpiercer%20(2013)%20(-2%20gain)%20Atmos.jpg)

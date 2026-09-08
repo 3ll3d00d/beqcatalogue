@@ -12,7 +12,7 @@
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-x-men-97_138502)
+* [Compare across authors](../compare/index.md?t=TV-x-men-97_138502)
 
 * Production Year: 2024
 
@@ -29,7 +29,7 @@
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-x-men-97_138502)
+* [Compare across authors](../compare/index.md?t=TV-x-men-97_138502)
 
 * Production Year: 2024
 

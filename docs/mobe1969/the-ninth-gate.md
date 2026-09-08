@@ -1,6 +1,6 @@
 # The Ninth Gate
 
-[Compare across authors](../../compare/?t=film-the-ninth-gate_622)
+[Compare across authors](../compare/index.md?t=film-the-ninth-gate_622)
 
 ## DD+ 5.1
 

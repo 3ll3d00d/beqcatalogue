@@ -9,7 +9,7 @@ A deranged media mogul is staging international incidents to pit the world's sup
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62731868)  [TMDB](https://www.themoviedb.org/movie/714)  [Compare across authors](../../compare/?t=film-tomorrow-never-dies_714)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62731868)  [TMDB](https://www.themoviedb.org/movie/714)  [Compare across authors](../compare/index.md?t=film-tomorrow-never-dies_714)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Tomorrow%20Never%20Dies%201997%20PvA.jpg)

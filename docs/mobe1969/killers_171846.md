@@ -1,6 +1,6 @@
 # Killers
 
-[Compare across authors](../../compare/?t=film-killers_171846)
+[Compare across authors](../compare/index.md?t=film-killers_171846)
 
 ## DTS-HD MA 5.1
 

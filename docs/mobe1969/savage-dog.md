@@ -1,6 +1,6 @@
 # Savage Dog
 
-[Compare across authors](../../compare/?t=film-savage-dog_437291)
+[Compare across authors](../compare/index.md?t=film-savage-dog_437291)
 
 ## DTS-HD MA 5.1
 

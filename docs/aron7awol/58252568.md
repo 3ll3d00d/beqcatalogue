@@ -1,6 +1,6 @@
 # Escape Plan
 
-[Compare across authors](../../compare/?t=film-escape-plan_107846)
+[Compare across authors](../compare/index.md?t=film-escape-plan_107846)
 
 ## Atmos
 

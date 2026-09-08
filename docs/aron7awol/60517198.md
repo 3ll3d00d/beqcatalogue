@@ -1,6 +1,6 @@
 # Warm Bodies
 
-[Compare across authors](../../compare/?t=film-warm-bodies_82654)
+[Compare across authors](../compare/index.md?t=film-warm-bodies_82654)
 
 ## Atmos
 

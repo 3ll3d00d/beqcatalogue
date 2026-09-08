@@ -9,7 +9,7 @@ A struggling writer in the midst of a divorce befriends a retired serial killer 
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1708?post_id=64451601#post-64451601)  [TMDB](https://www.themoviedb.org/movie/681434)  [Compare across authors](../../compare/?t=film-psycho-therapy-the-shallow-tale-of-a-writer-who-decided-to-write-about-a-serial-killer_681434)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1708?post_id=64451601#post-64451601)  [TMDB](https://www.themoviedb.org/movie/681434)  [Compare across authors](../compare/index.md?t=film-psycho-therapy-the-shallow-tale-of-a-writer-who-decided-to-write-about-a-serial-killer_681434)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Psycho%20Therapy%20The%20Shallow%20Tale%20of%20a%20Writer%20Who%20Decided%20to%20Write%20About%20a%20Serial%20Killer%20(2025)%20(%2B3.5%20gain)%20DD.jpg)
@@ -25,7 +25,7 @@ A struggling writer in the midst of a divorce befriends a retired serial killer 
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1709?post_id=64454494#post-64454494)  [TMDB](https://www.themoviedb.org/movie/681434)  [Compare across authors](../../compare/?t=film-psycho-therapy-the-shallow-tale-of-a-writer-who-decided-to-write-about-a-serial-killer_681434)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1709?post_id=64454494#post-64454494)  [TMDB](https://www.themoviedb.org/movie/681434)  [Compare across authors](../compare/index.md?t=film-psycho-therapy-the-shallow-tale-of-a-writer-who-decided-to-write-about-a-serial-killer_681434)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Psycho%20Therapy%20The%20Shallow%20Tale%20of%20a%20Writer%20Who%20Decided%20to%20Write%20About%20a%20Serial%20Killer%20(2025)%20(%2B5.5%20gain)%20DTS-HD%20MA%205.1.jpg)

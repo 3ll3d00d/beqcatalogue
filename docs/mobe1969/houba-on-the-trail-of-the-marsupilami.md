@@ -1,6 +1,6 @@
 # HOUBA! On the Trail of the Marsupilami
 
-[Compare across authors](../../compare/?t=film-houba-on-the-trail-of-the-marsupilami_102207)
+[Compare across authors](../compare/index.md?t=film-houba-on-the-trail-of-the-marsupilami_102207)
 
 ## DD+ 5.1
 

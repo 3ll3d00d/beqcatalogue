@@ -1,6 +1,6 @@
 # Come Back Home
 
-[Compare across authors](../../compare/?t=film-come-back-home_973211)
+[Compare across authors](../compare/index.md?t=film-come-back-home_973211)
 
 ## DD+ 5.1
 

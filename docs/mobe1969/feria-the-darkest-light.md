@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-feria-the-darkest-light_119105)
+[Compare across authors](../compare/index.md?t=TV-feria-the-darkest-light_119105)
 
 ## Season 1
 

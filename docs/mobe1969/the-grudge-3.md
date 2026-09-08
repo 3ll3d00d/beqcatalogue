@@ -1,6 +1,6 @@
 # The Grudge 3
 
-[Compare across authors](../../compare/?t=film-the-grudge-3_1977)
+[Compare across authors](../compare/index.md?t=film-the-grudge-3_1977)
 
 ## DTS-HD MA 5.1
 

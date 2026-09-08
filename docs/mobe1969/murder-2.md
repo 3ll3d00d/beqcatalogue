@@ -1,6 +1,6 @@
 # Murder 2
 
-[Compare across authors](../../compare/?t=film-murder-2_69775)
+[Compare across authors](../compare/index.md?t=film-murder-2_69775)
 
 ## DTS-HD MA 5.1
 

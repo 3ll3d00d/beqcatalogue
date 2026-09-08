@@ -1,6 +1,6 @@
 # Take Shelter
 
-[Compare across authors](../../compare/?t=film-take-shelter_64720)
+[Compare across authors](../compare/index.md?t=film-take-shelter_64720)
 
 ## DTS-HD MA 5.1
 

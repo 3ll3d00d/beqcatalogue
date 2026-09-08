@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-kill-me-love-me_243073)
+* [Compare across authors](../compare/index.md?t=TV-kill-me-love-me_243073)
 
 * Production Year: 2024
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-kill-me-love-me_243073)
+* [Compare across authors](../compare/index.md?t=TV-kill-me-love-me_243073)
 
 * Production Year: 2024
 

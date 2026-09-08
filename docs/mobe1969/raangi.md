@@ -1,6 +1,6 @@
 # Raangi
 
-[Compare across authors](../../compare/?t=film-raangi_618907)
+[Compare across authors](../compare/index.md?t=film-raangi_618907)
 
 ## DD+ Atmos
 

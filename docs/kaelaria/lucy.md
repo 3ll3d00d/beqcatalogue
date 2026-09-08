@@ -7,7 +7,7 @@
 A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/240832)  [Compare across authors](../../compare/?t=film-lucy_240832)
+[TMDB](https://www.themoviedb.org/movie/240832)  [Compare across authors](../compare/index.md?t=film-lucy_240832)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Lucy_s1_5.1(side)_to_mono.jpg)

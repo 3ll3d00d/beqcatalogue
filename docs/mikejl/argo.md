@@ -7,7 +7,7 @@
 As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/68734)  [Compare across authors](../../compare/?t=film-argo_68734)
+[TMDB](https://www.themoviedb.org/movie/68734)  [Compare across authors](../compare/index.md?t=film-argo_68734)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Argo/Argo%20(2012)%20DTS-HD%20MA%205.1.jpg)

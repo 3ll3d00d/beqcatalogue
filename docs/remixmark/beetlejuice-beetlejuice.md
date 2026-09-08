@@ -9,7 +9,7 @@ After a family tragedy, three generations of the Deetz family return home to Win
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1527?post_id=63651223#post-63651223)  [TMDB](https://www.themoviedb.org/movie/917496)  [Compare across authors](../../compare/?t=film-beetlejuice-beetlejuice_917496)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1527?post_id=63651223#post-63651223)  [TMDB](https://www.themoviedb.org/movie/917496)  [Compare across authors](../compare/index.md?t=film-beetlejuice-beetlejuice_917496)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Beetlejuice%20Beetlejuice%20(2024)%20(%2B5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ After a family tragedy, three generations of the Deetz family return home to Win
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1510?post_id=63582901#post-63582901)  [TMDB](https://www.themoviedb.org/movie/917496)  [Compare across authors](../../compare/?t=film-beetlejuice-beetlejuice_917496)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1510?post_id=63582901#post-63582901)  [TMDB](https://www.themoviedb.org/movie/917496)  [Compare across authors](../compare/index.md?t=film-beetlejuice-beetlejuice_917496)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Beetlejuice%20Beetlejuice%20(2024)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

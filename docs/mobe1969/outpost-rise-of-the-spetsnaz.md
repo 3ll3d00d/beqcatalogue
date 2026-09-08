@@ -1,6 +1,6 @@
 # Outpost: Rise of the Spetsnaz
 
-[Compare across authors](../../compare/?t=film-outpost-rise-of-the-spetsnaz_164377)
+[Compare across authors](../compare/index.md?t=film-outpost-rise-of-the-spetsnaz_164377)
 
 ## DTS-HD MA 5.1
 

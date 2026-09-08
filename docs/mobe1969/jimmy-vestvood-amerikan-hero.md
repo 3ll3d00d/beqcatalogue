@@ -1,6 +1,6 @@
 # Jimmy Vestvood: Amerikan Hero
 
-[Compare across authors](../../compare/?t=film-jimmy-vestvood-amerikan-hero_299641)
+[Compare across authors](../compare/index.md?t=film-jimmy-vestvood-amerikan-hero_299641)
 
 ## DTS-HD MA 5.1
 

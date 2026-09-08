@@ -1,6 +1,6 @@
 # Legend
 
-[Compare across authors](../../compare/?t=film-legend_11976)
+[Compare across authors](../compare/index.md?t=film-legend_11976)
 
 ## DTS-HD MA 5.1
 

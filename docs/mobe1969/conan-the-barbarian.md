@@ -1,6 +1,6 @@
 # Conan the Barbarian
 
-[Compare across authors](../../compare/?t=film-conan-the-barbarian_9387)
+[Compare across authors](../compare/index.md?t=film-conan-the-barbarian_9387)
 
 ## Atmos
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-muted_221291)
+[Compare across authors](../compare/index.md?t=TV-muted_221291)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # The King
 
-[Compare across authors](../../compare/?t=film-the-king_434724)
+[Compare across authors](../compare/index.md?t=film-the-king_434724)
 
 ## Atmos
 

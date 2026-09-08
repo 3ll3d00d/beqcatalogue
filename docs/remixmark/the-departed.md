@@ -12,7 +12,7 @@ To take down South Boston's Irish Mafia, the police send in one of their own to 
 UHD
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1441#post-63271721)  [TMDB](https://www.themoviedb.org/movie/1422)  [Compare across authors](../../compare/?t=film-the-departed_1422)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1441#post-63271721)  [TMDB](https://www.themoviedb.org/movie/1422)  [Compare across authors](../compare/index.md?t=film-the-departed_1422)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Departed%20(2006)%20(%2B3.5%20gain)%20DTS-HD%20MA%205.1.jpg)

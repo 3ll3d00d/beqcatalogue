@@ -1,6 +1,6 @@
 # Lara Croft: Tomb Raider
 
-[Compare across authors](../../compare/?t=film-lara-croft-tomb-raider_1995)
+[Compare across authors](../compare/index.md?t=film-lara-croft-tomb-raider_1995)
 
 ## DTS-HD MA 5.1
 

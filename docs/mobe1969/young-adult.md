@@ -1,6 +1,6 @@
 # Young Adult
 
-[Compare across authors](../../compare/?t=film-young-adult_57157)
+[Compare across authors](../compare/index.md?t=film-young-adult_57157)
 
 ## DTS-HD MA 5.1
 

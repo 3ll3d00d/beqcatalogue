@@ -1,6 +1,6 @@
 # The Skeleton Key
 
-[Compare across authors](../../compare/?t=film-the-skeleton-key_9913)
+[Compare across authors](../compare/index.md?t=film-the-skeleton-key_9913)
 
 ## DTS-HD MA 5.1
 

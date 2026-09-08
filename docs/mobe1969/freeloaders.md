@@ -1,6 +1,6 @@
 # Freeloaders
 
-[Compare across authors](../../compare/?t=film-freeloaders_121147)
+[Compare across authors](../compare/index.md?t=film-freeloaders_121147)
 
 ## DD 5.1
 

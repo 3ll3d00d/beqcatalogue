@@ -1,6 +1,6 @@
 # Tokyo Raiders
 
-[Compare across authors](../../compare/?t=film-tokyo-raiders_45438)
+[Compare across authors](../compare/index.md?t=film-tokyo-raiders_45438)
 
 ## TrueHD 5.1
 

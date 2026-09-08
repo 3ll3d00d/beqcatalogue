@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-to-the-lake_95202)
+[Compare across authors](../compare/index.md?t=TV-to-the-lake_95202)
 
 ## Season 1
 

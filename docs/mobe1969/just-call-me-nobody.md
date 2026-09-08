@@ -1,6 +1,6 @@
 # Just Call Me Nobody
 
-[Compare across authors](../../compare/?t=film-just-call-me-nobody_58365)
+[Compare across authors](../compare/index.md?t=film-just-call-me-nobody_58365)
 
 ## DTS-HD MA 5.1
 

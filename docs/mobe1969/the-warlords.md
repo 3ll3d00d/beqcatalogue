@@ -1,6 +1,6 @@
 # The Warlords
 
-[Compare across authors](../../compare/?t=film-the-warlords_14392)
+[Compare across authors](../compare/index.md?t=film-the-warlords_14392)
 
 ## DTS-HD MA 5.1
 

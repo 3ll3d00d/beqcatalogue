@@ -1,6 +1,6 @@
 # Robinson Crusoe
 
-[Compare across authors](../../compare/?t=film-robinson-crusoe_368940)
+[Compare across authors](../compare/index.md?t=film-robinson-crusoe_368940)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Four 2
 
-[Compare across authors](../../compare/?t=film-the-four-2_251749)
+[Compare across authors](../compare/index.md?t=film-the-four-2_251749)
 
 ## TrueHD 5.1
 

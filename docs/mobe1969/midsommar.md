@@ -1,6 +1,6 @@
 # Midsommar
 
-[Compare across authors](../../compare/?t=film-midsommar_530385)
+[Compare across authors](../compare/index.md?t=film-midsommar_530385)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Samurai Marathon
 
-[Compare across authors](../../compare/?t=film-samurai-marathon_578514)
+[Compare across authors](../compare/index.md?t=film-samurai-marathon_578514)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Inferno
 
-[Compare across authors](../../compare/?t=film-inferno_207932)
+[Compare across authors](../compare/index.md?t=film-inferno_207932)
 
 ## Atmos
 

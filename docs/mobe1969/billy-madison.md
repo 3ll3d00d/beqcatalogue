@@ -1,6 +1,6 @@
 # Billy Madison
 
-[Compare across authors](../../compare/?t=film-billy-madison_11017)
+[Compare across authors](../compare/index.md?t=film-billy-madison_11017)
 
 ## DTS-HD MA 5.1
 

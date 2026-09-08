@@ -1,6 +1,6 @@
 # Fractured
 
-[Compare across authors](../../compare/?t=film-fractured_568091)
+[Compare across authors](../compare/index.md?t=film-fractured_568091)
 
 ## DD+ Atmos
 

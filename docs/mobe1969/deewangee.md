@@ -1,6 +1,6 @@
 # Deewangee
 
-[Compare across authors](../../compare/?t=film-deewangee_78827)
+[Compare across authors](../compare/index.md?t=film-deewangee_78827)
 
 ## DD+ 5.1
 

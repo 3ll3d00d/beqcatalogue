@@ -1,6 +1,6 @@
 # Hick
 
-[Compare across authors](../../compare/?t=film-hick_94363)
+[Compare across authors](../compare/index.md?t=film-hick_94363)
 
 ## DTS-HD MA 5.1
 

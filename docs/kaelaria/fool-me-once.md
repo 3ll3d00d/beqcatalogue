@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-fool-me-once_220801)
+* [Compare across authors](../compare/index.md?t=TV-fool-me-once_220801)
 
 * Production Year: 2024
 

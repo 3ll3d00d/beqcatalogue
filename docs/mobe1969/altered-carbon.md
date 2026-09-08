@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-altered-carbon_68421)
+[Compare across authors](../compare/index.md?t=TV-altered-carbon_68421)
 
 ## Season 1
 

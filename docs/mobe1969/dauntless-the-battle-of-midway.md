@@ -1,6 +1,6 @@
 # Dauntless: The Battle of Midway
 
-[Compare across authors](../../compare/?t=film-dauntless-the-battle-of-midway_604837)
+[Compare across authors](../compare/index.md?t=film-dauntless-the-battle-of-midway_604837)
 
 ## DTS-HD MA 5.1
 

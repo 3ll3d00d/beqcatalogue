@@ -454,7 +454,7 @@ def generate_film_content_page(page_name, metas, content_md, index_entries, auth
                     links.append(f"[TMDB]({tmdb_url})")
                 compare_key = compute_compare_key(meta['title'], 'film', meta.get('theMovieDB', ''),
                                                   meta.get('year', ''))
-                links.append(f"[Compare across authors](../../compare/?t={compare_key})")
+                links.append(f"[Compare across authors](../compare/index.md?t={compare_key})")
                 if links:
                     print('', file=content_md)
                     print('  '.join(links), file=content_md)
@@ -611,7 +611,7 @@ def generate_tv_content_page(page_name, metas, content_md, index_entries, author
             print(f"* [Forum Post]({meta['avs']})", file=content_md)
         compare_key = compute_compare_key(meta['title'], 'TV', meta.get('theMovieDB', ''), meta.get('year', ''))
         print('', file=content_md)
-        print(f"* [Compare across authors](../../compare/?t={compare_key})", file=content_md)
+        print(f"* [Compare across authors](../compare/index.md?t={compare_key})", file=content_md)
         if 'year' in meta:
             print('', file=content_md)
             print(f"* Production Year: {meta['year']}", file=content_md)

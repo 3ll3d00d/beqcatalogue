@@ -1,6 +1,6 @@
 # Wood Job!
 
-[Compare across authors](../../compare/?t=film-wood-job_274817)
+[Compare across authors](../compare/index.md?t=film-wood-job_274817)
 
 ## DTS-HD MA 5.1
 

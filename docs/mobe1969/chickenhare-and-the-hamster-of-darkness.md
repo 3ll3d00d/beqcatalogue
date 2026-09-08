@@ -1,6 +1,6 @@
 # Chickenhare and the Hamster of Darkness
 
-[Compare across authors](../../compare/?t=film-chickenhare-and-the-hamster-of-darkness_778855)
+[Compare across authors](../compare/index.md?t=film-chickenhare-and-the-hamster-of-darkness_778855)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Interview
 
-[Compare across authors](../../compare/?t=film-the-interview_228967)
+[Compare across authors](../compare/index.md?t=film-the-interview_228967)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Takkar
 
-[Compare across authors](../../compare/?t=film-takkar_657731)
+[Compare across authors](../compare/index.md?t=film-takkar_657731)
 
 ## DD+ 5.1
 

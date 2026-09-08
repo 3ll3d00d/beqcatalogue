@@ -1,6 +1,6 @@
 # City of War
 
-[Compare across authors](../../compare/?t=film-city-of-war_5937)
+[Compare across authors](../compare/index.md?t=film-city-of-war_5937)
 
 ## DTS-HD MA 5.1
 

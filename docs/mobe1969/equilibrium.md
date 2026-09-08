@@ -1,6 +1,6 @@
 # Equilibrium
 
-[Compare across authors](../../compare/?t=film-equilibrium_7299)
+[Compare across authors](../compare/index.md?t=film-equilibrium_7299)
 
 ## TrueHD 5.1
 

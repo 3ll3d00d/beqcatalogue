@@ -1,6 +1,6 @@
 # The Wretched
 
-[Compare across authors](../../compare/?t=film-the-wretched_605804)
+[Compare across authors](../compare/index.md?t=film-the-wretched_605804)
 
 ## DTS-HD MA 5.1
 

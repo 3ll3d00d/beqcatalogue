@@ -1,6 +1,6 @@
 # Pizza 3: The Mummy
 
-[Compare across authors](../../compare/?t=film-pizza-3-the-mummy_807606)
+[Compare across authors](../compare/index.md?t=film-pizza-3-the-mummy_807606)
 
 ## DD+ 5.1
 

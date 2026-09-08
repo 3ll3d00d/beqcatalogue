@@ -1,6 +1,6 @@
 # Incendies
 
-[Compare across authors](../../compare/?t=film-incendies_46738)
+[Compare across authors](../compare/index.md?t=film-incendies_46738)
 
 ## DTS-HD MA 5.1
 

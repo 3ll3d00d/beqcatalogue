@@ -7,7 +7,7 @@
 An infamous terrorist has evaded capture for a long time by being extremely clever and ruthless. Things get interesting when he hijacks a plane carrying famous security expert John Cutter, who isn't about to stand for this sort of thing.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/10538)  [Compare across authors](../../compare/?t=film-passenger-57_10538)
+[TMDB](https://www.themoviedb.org/movie/10538)  [Compare across authors](../compare/index.md?t=film-passenger-57_10538)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Passenger%2057%20(1992)%20DTS-HD%20MA%205.1.jpg)

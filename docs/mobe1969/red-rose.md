@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-red-rose_207878)
+[Compare across authors](../compare/index.md?t=TV-red-rose_207878)
 
 ## Season 1
 

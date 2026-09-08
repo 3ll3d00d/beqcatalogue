@@ -7,7 +7,7 @@
 A former Marine confronts corruption in a small town when local law enforcement unjustly seizes the bag of cash he needs to post his cousin's bail.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/646097)  [Compare across authors](../../compare/?t=film-rebel-ridge_646097)
+[TMDB](https://www.themoviedb.org/movie/646097)  [Compare across authors](../compare/index.md?t=film-rebel-ridge_646097)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Rebel%20Ridge%20(2024)%20DD%2B%20Atmos.jpg)

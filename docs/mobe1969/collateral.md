@@ -1,6 +1,6 @@
 # Collateral
 
-[Compare across authors](../../compare/?t=film-collateral_1538)
+[Compare across authors](../compare/index.md?t=film-collateral_1538)
 
 ## DTS-HD MA 5.1
 

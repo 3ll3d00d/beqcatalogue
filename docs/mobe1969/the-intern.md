@@ -1,6 +1,6 @@
 # The Intern
 
-[Compare across authors](../../compare/?t=film-the-intern_257211)
+[Compare across authors](../compare/index.md?t=film-the-intern_257211)
 
 ## DTS-HD MA 5.1
 

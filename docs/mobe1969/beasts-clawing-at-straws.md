@@ -1,6 +1,6 @@
 # Beasts Clawing at Straws
 
-[Compare across authors](../../compare/?t=film-beasts-clawing-at-straws_571648)
+[Compare across authors](../compare/index.md?t=film-beasts-clawing-at-straws_571648)
 
 ## TrueHD 5.1
 

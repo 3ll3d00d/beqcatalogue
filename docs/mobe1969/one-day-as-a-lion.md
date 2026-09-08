@@ -1,6 +1,6 @@
 # One Day as a Lion
 
-[Compare across authors](../../compare/?t=film-one-day-as-a-lion_1070777)
+[Compare across authors](../compare/index.md?t=film-one-day-as-a-lion_1070777)
 
 ## DD+ 5.1
 

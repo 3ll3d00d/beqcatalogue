@@ -1,6 +1,6 @@
 # The Art of War II: Betrayal
 
-[Compare across authors](../../compare/?t=film-the-art-of-war-ii-betrayal_13988)
+[Compare across authors](../compare/index.md?t=film-the-art-of-war-ii-betrayal_13988)
 
 ## DD 5.1
 

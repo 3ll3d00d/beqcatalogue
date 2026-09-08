@@ -1,6 +1,6 @@
 # Smokey and the Bandit
 
-[Compare across authors](../../compare/?t=film-smokey-and-the-bandit_11006)
+[Compare across authors](../compare/index.md?t=film-smokey-and-the-bandit_11006)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Kasargold
 
-[Compare across authors](../../compare/?t=film-kasargold_1028730)
+[Compare across authors](../compare/index.md?t=film-kasargold_1028730)
 
 ## DD+ 5.1
 

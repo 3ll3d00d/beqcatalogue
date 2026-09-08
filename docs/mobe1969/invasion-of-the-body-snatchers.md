@@ -1,6 +1,6 @@
 # Invasion of the Body Snatchers
 
-[Compare across authors](../../compare/?t=film-invasion-of-the-body-snatchers_11850)
+[Compare across authors](../compare/index.md?t=film-invasion-of-the-body-snatchers_11850)
 
 ## DTS-HD MA 5.1
 

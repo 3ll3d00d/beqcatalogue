@@ -1,6 +1,6 @@
 # Summer Time Machine Blues
 
-[Compare across authors](../../compare/?t=film-summer-time-machine-blues_26130)
+[Compare across authors](../compare/index.md?t=film-summer-time-machine-blues_26130)
 
 ## DTS-HD MA 5.1
 

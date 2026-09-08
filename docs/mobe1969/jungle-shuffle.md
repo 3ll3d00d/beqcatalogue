@@ -1,6 +1,6 @@
 # Jungle Shuffle
 
-[Compare across authors](../../compare/?t=film-jungle-shuffle_283671)
+[Compare across authors](../compare/index.md?t=film-jungle-shuffle_283671)
 
 ## DTS-HD MA 5.1
 

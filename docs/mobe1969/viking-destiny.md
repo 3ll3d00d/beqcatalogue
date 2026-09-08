@@ -1,6 +1,6 @@
 # Viking Destiny
 
-[Compare across authors](../../compare/?t=film-viking-destiny_537347)
+[Compare across authors](../compare/index.md?t=film-viking-destiny_537347)
 
 ## DTS-HD MA 5.1
 

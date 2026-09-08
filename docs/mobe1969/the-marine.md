@@ -1,6 +1,6 @@
 # The Marine
 
-[Compare across authors](../../compare/?t=film-the-marine_8975)
+[Compare across authors](../compare/index.md?t=film-the-marine_8975)
 
 ## DTS-HD MA 5.1
 

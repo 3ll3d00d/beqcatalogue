@@ -1,6 +1,6 @@
 # Incantation
 
-[Compare across authors](../../compare/?t=film-incantation_864370)
+[Compare across authors](../compare/index.md?t=film-incantation_864370)
 
 ## DD+ 5.1
 

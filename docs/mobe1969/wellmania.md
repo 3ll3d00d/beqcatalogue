@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-wellmania_195841)
+[Compare across authors](../compare/index.md?t=TV-wellmania_195841)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # The Manchurian Candidate
 
-[Compare across authors](../../compare/?t=film-the-manchurian-candidate_982)
+[Compare across authors](../compare/index.md?t=film-the-manchurian-candidate_982)
 
 ## DTS 5.1, DD 5.1
 

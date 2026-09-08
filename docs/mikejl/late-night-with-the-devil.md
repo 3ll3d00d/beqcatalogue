@@ -7,7 +7,7 @@
 A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/938614)  [Compare across authors](../../compare/?t=film-late-night-with-the-devil_938614)
+[TMDB](https://www.themoviedb.org/movie/938614)  [Compare across authors](../compare/index.md?t=film-late-night-with-the-devil_938614)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Late%20Night%20With%20the%20Devil/Late%20Night%20With%20the%20Devil%20(2023)%20DTS-HD%20MA%205.1.jpg)

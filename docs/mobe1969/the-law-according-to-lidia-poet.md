@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-law-according-to-lidia-poet_218896)
+[Compare across authors](../compare/index.md?t=TV-the-law-according-to-lidia-poet_218896)
 
 ## Season 1
 

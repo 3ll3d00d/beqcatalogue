@@ -1,6 +1,6 @@
 # Tomorrow, When The War Began
 
-[Compare across authors](../../compare/?t=film-tomorrow-when-the-war-began_43930)
+[Compare across authors](../compare/index.md?t=film-tomorrow-when-the-war-began_43930)
 
 ## DTS-HD MA 5.1
 

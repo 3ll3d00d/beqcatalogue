@@ -1,6 +1,6 @@
 # Tiger Cage
 
-[Compare across authors](../../compare/?t=film-tiger-cage_58409)
+[Compare across authors](../compare/index.md?t=film-tiger-cage_58409)
 
 ## LPCM 2.0
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-afro-samurai_19544)
+[Compare across authors](../compare/index.md?t=TV-afro-samurai_19544)
 
 ## Season 1
 

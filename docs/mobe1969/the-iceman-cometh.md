@@ -1,6 +1,6 @@
 # The Iceman Cometh
 
-[Compare across authors](../../compare/?t=film-the-iceman-cometh_45454)
+[Compare across authors](../compare/index.md?t=film-the-iceman-cometh_45454)
 
 ## TrueHD 5.1
 

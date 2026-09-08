@@ -1,6 +1,6 @@
 # Vengeance: A Love Story
 
-[Compare across authors](../../compare/?t=film-vengeance-a-love-story_397415)
+[Compare across authors](../compare/index.md?t=film-vengeance-a-love-story_397415)
 
 ## DD 5.1
 

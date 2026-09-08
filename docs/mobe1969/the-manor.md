@@ -1,6 +1,6 @@
 # The Manor
 
-[Compare across authors](../../compare/?t=film-the-manor_761388)
+[Compare across authors](../compare/index.md?t=film-the-manor_761388)
 
 ## DD+ 5.1
 

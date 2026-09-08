@@ -1,6 +1,6 @@
 # Vanishing on 7th Street
 
-[Compare across authors](../../compare/?t=film-vanishing-on-7th-street_43552)
+[Compare across authors](../compare/index.md?t=film-vanishing-on-7th-street_43552)
 
 ## DTS-HD MA 7.1
 

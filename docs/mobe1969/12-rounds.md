@@ -1,6 +1,6 @@
 # 12 Rounds
 
-[Compare across authors](../../compare/?t=film-12-rounds_17134)
+[Compare across authors](../compare/index.md?t=film-12-rounds_17134)
 
 ## DTS-HD MA 5.1
 

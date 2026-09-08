@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dark-winds_128904)
+[Compare across authors](../compare/index.md?t=TV-dark-winds_128904)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Cujo
 
-[Compare across authors](../../compare/?t=film-cujo_10489)
+[Compare across authors](../compare/index.md?t=film-cujo_10489)
 
 ## DTS-HD MA 5.1
 

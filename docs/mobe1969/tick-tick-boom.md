@@ -1,6 +1,6 @@
 # tick, tick... BOOM!
 
-[Compare across authors](../../compare/?t=film-tick-tick-boom_537116)
+[Compare across authors](../compare/index.md?t=film-tick-tick-boom_537116)
 
 ## DD+ Atmos
 

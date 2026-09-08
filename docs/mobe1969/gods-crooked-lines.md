@@ -1,6 +1,6 @@
 # God's Crooked Lines
 
-[Compare across authors](../../compare/?t=film-gods-crooked-lines_890980)
+[Compare across authors](../compare/index.md?t=film-gods-crooked-lines_890980)
 
 ## DD+ 5.1
 

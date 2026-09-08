@@ -1,6 +1,6 @@
 # House of Inequity
 
-[Compare across authors](../../compare/?t=film-house-of-inequity_852910)
+[Compare across authors](../compare/index.md?t=film-house-of-inequity_852910)
 
 ## DD+ 5.1
 

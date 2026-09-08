@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-top-boy_93544)
+[Compare across authors](../compare/index.md?t=TV-top-boy_93544)
 
 ## Season 1
 

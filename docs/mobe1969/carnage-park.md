@@ -1,6 +1,6 @@
 # Carnage Park
 
-[Compare across authors](../../compare/?t=film-carnage-park_369032)
+[Compare across authors](../compare/index.md?t=film-carnage-park_369032)
 
 ## DTS-HD MA 5.1
 

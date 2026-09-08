@@ -1,6 +1,6 @@
 # Expect the Unexpected
 
-[Compare across authors](../../compare/?t=film-expect-the-unexpected_72897)
+[Compare across authors](../compare/index.md?t=film-expect-the-unexpected_72897)
 
 ## DTS-HD MA 5.1
 

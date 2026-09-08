@@ -1,6 +1,6 @@
 # In Darkness
 
-[Compare across authors](../../compare/?t=film-in-darkness_417643)
+[Compare across authors](../compare/index.md?t=film-in-darkness_417643)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

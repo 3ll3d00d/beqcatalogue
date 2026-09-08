@@ -1,6 +1,6 @@
 # Emergency
 
-[Compare across authors](../../compare/?t=film-emergency_819309)
+[Compare across authors](../compare/index.md?t=film-emergency_819309)
 
 ## DD+ 5.1
 

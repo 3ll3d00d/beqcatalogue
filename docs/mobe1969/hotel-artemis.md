@@ -1,6 +1,6 @@
 # Hotel Artemis
 
-[Compare across authors](../../compare/?t=film-hotel-artemis_406761)
+[Compare across authors](../compare/index.md?t=film-hotel-artemis_406761)
 
 ## DTS-HD MA 5.1
 

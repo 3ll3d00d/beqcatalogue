@@ -1,6 +1,6 @@
 # Three
 
-[Compare across authors](../../compare/?t=film-three_373922)
+[Compare across authors](../compare/index.md?t=film-three_373922)
 
 ## DTS-X
 

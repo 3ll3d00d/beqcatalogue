@@ -7,7 +7,7 @@
 A small town is taken over by an alien plague, turning residents into zombies and all forms of mutant monsters.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9035)  [Compare across authors](../../compare/?t=film-slither_9035)
+[TMDB](https://www.themoviedb.org/movie/9035)  [Compare across authors](../compare/index.md?t=film-slither_9035)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Slither/Slither%20(2006)%20DTS-HD%20MA%205.1.jpg)

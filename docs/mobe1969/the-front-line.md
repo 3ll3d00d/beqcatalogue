@@ -1,6 +1,6 @@
 # The Front Line
 
-[Compare across authors](../../compare/?t=film-the-front-line_79553)
+[Compare across authors](../compare/index.md?t=film-the-front-line_79553)
 
 ## DTS-HD MA 5.1
 

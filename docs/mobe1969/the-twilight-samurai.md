@@ -1,6 +1,6 @@
 # The Twilight Samurai
 
-[Compare across authors](../../compare/?t=film-the-twilight-samurai_12496)
+[Compare across authors](../compare/index.md?t=film-the-twilight-samurai_12496)
 
 ## TrueHD 5.1
 

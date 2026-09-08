@@ -1,6 +1,6 @@
 # Aquarela
 
-[Compare across authors](../../compare/?t=film-aquarela_539016)
+[Compare across authors](../compare/index.md?t=film-aquarela_539016)
 
 ## TrueHD 7.1
 

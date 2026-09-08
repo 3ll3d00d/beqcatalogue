@@ -1,6 +1,6 @@
 # The Good, The Bad, The Weird
 
-[Compare across authors](../../compare/?t=film-the-good-the-bad-the-weird_15067)
+[Compare across authors](../compare/index.md?t=film-the-good-the-bad-the-weird_15067)
 
 ## DTS-HD MA 5.1
 

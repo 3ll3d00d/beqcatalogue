@@ -1,6 +1,6 @@
 # The Bubble
 
-[Compare across authors](../../compare/?t=film-the-bubble_765119)
+[Compare across authors](../compare/index.md?t=film-the-bubble_765119)
 
 ## DD+ 5.1
 

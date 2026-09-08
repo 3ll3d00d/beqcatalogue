@@ -1,6 +1,6 @@
 # Nightbreed
 
-[Compare across authors](../../compare/?t=film-nightbreed_20481)
+[Compare across authors](../compare/index.md?t=film-nightbreed_20481)
 
 ## DTS-HD MA 5.1
 

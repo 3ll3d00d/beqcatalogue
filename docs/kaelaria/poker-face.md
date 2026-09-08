@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-poker-face_120998)
+* [Compare across authors](../compare/index.md?t=TV-poker-face_120998)
 
 * Production Year: 2023
 

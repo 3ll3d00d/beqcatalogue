@@ -1,6 +1,6 @@
 # The Star
 
-[Compare across authors](../../compare/?t=film-the-star_355547)
+[Compare across authors](../compare/index.md?t=film-the-star_355547)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Arthur Christmas
 
-[Compare across authors](../../compare/?t=film-arthur-christmas_51052)
+[Compare across authors](../compare/index.md?t=film-arthur-christmas_51052)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Dive
 
-[Compare across authors](../../compare/?t=film-the-dive_1109534)
+[Compare across authors](../compare/index.md?t=film-the-dive_1109534)
 
 ## DD+ 5.1
 

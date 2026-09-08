@@ -1,6 +1,6 @@
 # All Hail
 
-[Compare across authors](../../compare/?t=film-all-hail_682344)
+[Compare across authors](../compare/index.md?t=film-all-hail_682344)
 
 ## DD+ 5.1
 

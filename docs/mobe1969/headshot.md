@@ -1,6 +1,6 @@
 # Headshot
 
-[Compare across authors](../../compare/?t=film-headshot_403605)
+[Compare across authors](../compare/index.md?t=film-headshot_403605)
 
 ## DD+ 5.1
 

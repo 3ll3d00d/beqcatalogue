@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ahsoka_114461)
+[Compare across authors](../compare/index.md?t=TV-ahsoka_114461)
 
 ## Season 1
 

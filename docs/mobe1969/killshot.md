@@ -1,6 +1,6 @@
 # Killshot
 
-[Compare across authors](../../compare/?t=film-killshot_16164)
+[Compare across authors](../compare/index.md?t=film-killshot_16164)
 
 ## DTS-HD MA 5.1
 

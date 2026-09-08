@@ -1,6 +1,6 @@
 # Cars
 
-[Compare across authors](../../compare/?t=film-cars_920)
+[Compare across authors](../compare/index.md?t=film-cars_920)
 
 ## Atmos
 

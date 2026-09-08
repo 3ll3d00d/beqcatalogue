@@ -1,6 +1,6 @@
 # Master
 
-[Compare across authors](../../compare/?t=film-master_382220)
+[Compare across authors](../compare/index.md?t=film-master_382220)
 
 ## TrueHD 5.1
 

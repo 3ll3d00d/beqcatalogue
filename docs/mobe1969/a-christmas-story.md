@@ -1,6 +1,6 @@
 # A Christmas Story
 
-[Compare across authors](../../compare/?t=film-a-christmas-story_850)
+[Compare across authors](../compare/index.md?t=film-a-christmas-story_850)
 
 ## DTS-HD MA 2.0
 

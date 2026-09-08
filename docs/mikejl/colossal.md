@@ -7,7 +7,7 @@
 A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/339967)  [Compare across authors](../../compare/?t=film-colossal_339967)
+[TMDB](https://www.themoviedb.org/movie/339967)  [Compare across authors](../compare/index.md?t=film-colossal_339967)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Colossal/Colossal.%20(2017)%20DD%2B%205.1.jpg)

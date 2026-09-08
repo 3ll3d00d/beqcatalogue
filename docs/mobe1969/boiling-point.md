@@ -1,6 +1,6 @@
 # Boiling Point
 
-[Compare across authors](../../compare/?t=film-boiling-point_26936)
+[Compare across authors](../compare/index.md?t=film-boiling-point_26936)
 
 ## LPCM 2.0
 

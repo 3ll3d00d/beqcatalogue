@@ -1,6 +1,6 @@
 # Dunkirk
 
-[Compare across authors](../../compare/?t=film-dunkirk_374720)
+[Compare across authors](../compare/index.md?t=film-dunkirk_374720)
 
 ## DTS-HD MA 5.1
 

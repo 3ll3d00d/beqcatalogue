@@ -1,6 +1,6 @@
 # The Father Who Moves Mountains
 
-[Compare across authors](../../compare/?t=film-the-father-who-moves-mountains_840427)
+[Compare across authors](../compare/index.md?t=film-the-father-who-moves-mountains_840427)
 
 ## DD+ 5.1
 

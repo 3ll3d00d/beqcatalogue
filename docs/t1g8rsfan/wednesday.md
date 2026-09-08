@@ -12,7 +12,7 @@
 +3dB Dialnorm Compensation
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-wednesday_119051)
+* [Compare across authors](../compare/index.md?t=TV-wednesday_119051)
 
 * Production Year: 2022
 
@@ -29,7 +29,7 @@
 +2dB Dialnorm Compensation
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-wednesday_119051)
+* [Compare across authors](../compare/index.md?t=TV-wednesday_119051)
 
 * Production Year: 2025
 

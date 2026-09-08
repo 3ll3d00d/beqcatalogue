@@ -1,6 +1,6 @@
 # Chronicles of the Ghostly Tribe
 
-[Compare across authors](../../compare/?t=film-chronicles-of-the-ghostly-tribe_364324)
+[Compare across authors](../compare/index.md?t=film-chronicles-of-the-ghostly-tribe_364324)
 
 ## TrueHD 5.1
 

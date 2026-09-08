@@ -1,6 +1,6 @@
 # Eye in the Sky
 
-[Compare across authors](../../compare/?t=film-eye-in-the-sky_333352)
+[Compare across authors](../compare/index.md?t=film-eye-in-the-sky_333352)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/634492)  [Compare across authors](../../compare/?t=film-madame-web_634492)
+[TMDB](https://www.themoviedb.org/movie/634492)  [Compare across authors](../compare/index.md?t=film-madame-web_634492)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Madame%20WEB%20(2024)%20DD%2B%20Atmos1.jpg)

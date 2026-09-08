@@ -1,6 +1,6 @@
 # Spell
 
-[Compare across authors](../../compare/?t=film-spell_621151)
+[Compare across authors](../compare/index.md?t=film-spell_621151)
 
 ## DD+ 5.1
 

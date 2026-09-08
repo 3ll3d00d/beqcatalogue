@@ -1,6 +1,6 @@
 # The Happening
 
-[Compare across authors](../../compare/?t=film-the-happening_8645)
+[Compare across authors](../compare/index.md?t=film-the-happening_8645)
 
 ## DTS-HD MA 5.1
 

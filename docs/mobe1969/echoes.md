@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-echoes_129612)
+[Compare across authors](../compare/index.md?t=TV-echoes_129612)
 
 ## Season 1
 

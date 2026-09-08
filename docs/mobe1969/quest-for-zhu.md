@@ -1,6 +1,6 @@
 # Quest for Zhu
 
-[Compare across authors](../../compare/?t=film-quest-for-zhu_75421)
+[Compare across authors](../compare/index.md?t=film-quest-for-zhu_75421)
 
 ## DTS-HD MA 5.1
 

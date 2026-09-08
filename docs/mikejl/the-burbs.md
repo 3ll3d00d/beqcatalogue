@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-burbs_270600)
+* [Compare across authors](../compare/index.md?t=TV-the-burbs_270600)
 
 * Production Year: 2026
 

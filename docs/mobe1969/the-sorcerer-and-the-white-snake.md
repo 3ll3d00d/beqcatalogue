@@ -1,6 +1,6 @@
 # The Sorcerer and the White Snake
 
-[Compare across authors](../../compare/?t=film-the-sorcerer-and-the-white-snake_75948)
+[Compare across authors](../compare/index.md?t=film-the-sorcerer-and-the-white-snake_75948)
 
 ## DTS-HD MA 5.1
 

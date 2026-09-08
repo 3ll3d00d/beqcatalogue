@@ -1,6 +1,6 @@
 # Moonfall
 
-[Compare across authors](../../compare/?t=film-moonfall_406759)
+[Compare across authors](../compare/index.md?t=film-moonfall_406759)
 
 ## Atmos
 

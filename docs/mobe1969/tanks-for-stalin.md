@@ -1,6 +1,6 @@
 # Tanks for Stalin
 
-[Compare across authors](../../compare/?t=film-tanks-for-stalin_506750)
+[Compare across authors](../compare/index.md?t=film-tanks-for-stalin_506750)
 
 ## DD+ 5.1
 

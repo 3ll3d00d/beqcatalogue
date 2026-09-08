@@ -1,6 +1,6 @@
 # Midnight Runners
 
-[Compare across authors](../../compare/?t=film-midnight-runners_453127)
+[Compare across authors](../compare/index.md?t=film-midnight-runners_453127)
 
 ## TrueHD 5.1
 

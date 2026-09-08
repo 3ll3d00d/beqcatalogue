@@ -1,6 +1,6 @@
 # Clerks III
 
-[Compare across authors](../../compare/?t=film-clerks-iii_635891)
+[Compare across authors](../compare/index.md?t=film-clerks-iii_635891)
 
 ## Atmos, DD+ 5.1
 

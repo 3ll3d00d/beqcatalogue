@@ -10,7 +10,7 @@ During the war in Afghanistan, a local interpreter risks his own life to carry a
 +8dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/62543897/)  [TMDB](https://www.themoviedb.org/movie/882569)  [Compare across authors](../../compare/?t=film-guy-ritchies-the-covenant_882569)
+[Discuss](https://www.avsforum.com/posts/62543897/)  [TMDB](https://www.themoviedb.org/movie/882569)  [Compare across authors](../compare/index.md?t=film-guy-ritchies-the-covenant_882569)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Guy%20Ritchies%20The%20Covenant%20(2023)%201080p%20Atmos.jpg)

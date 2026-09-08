@@ -1,6 +1,6 @@
 # Unnatural
 
-[Compare across authors](../../compare/?t=film-unnatural_356483)
+[Compare across authors](../compare/index.md?t=film-unnatural_356483)
 
 ## DD+ 5.1
 

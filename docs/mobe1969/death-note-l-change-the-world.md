@@ -1,6 +1,6 @@
 # Death Note: L: Change the WorLD
 
-[Compare across authors](../../compare/?t=film-death-note-l-change-the-world_20329)
+[Compare across authors](../compare/index.md?t=film-death-note-l-change-the-world_20329)
 
 ## DTS-HD MA 5.1
 

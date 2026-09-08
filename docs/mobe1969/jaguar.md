@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-jaguar_127425)
+[Compare across authors](../compare/index.md?t=TV-jaguar_127425)
 
 ## Season 1
 

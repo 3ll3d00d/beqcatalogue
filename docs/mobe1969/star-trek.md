@@ -1,6 +1,6 @@
 # Star Trek
 
-[Compare across authors](../../compare/?t=film-star-trek_13475)
+[Compare across authors](../compare/index.md?t=film-star-trek_13475)
 
 ## Atmos
 

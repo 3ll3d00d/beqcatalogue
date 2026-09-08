@@ -1,6 +1,6 @@
 # Pixels
 
-[Compare across authors](../../compare/?t=film-pixels_257344)
+[Compare across authors](../compare/index.md?t=film-pixels_257344)
 
 ## Atmos
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-unknown-soldier_84706)
+[Compare across authors](../compare/index.md?t=TV-unknown-soldier_84706)
 
 ## Season 1 Episode 1
 

@@ -7,7 +7,7 @@
 Toward the end of World War II, Russian soldiers pushing into eastern Germany stumble across a secret Nazi lab, one that has unearthed and begun experimenting with the journal of one Dr. Victor Frankenstein. The scientists have used the legendary Frankenstein's work to assemble an army of super-soldiers stitched together from the body parts of their fallen comrades -- a desperate Hitler's last ghastly ploy to escape defeat
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/153738)  [Compare across authors](../../compare/?t=film-frankensteins-army_153738)
+[TMDB](https://www.themoviedb.org/movie/153738)  [Compare across authors](../compare/index.md?t=film-frankensteins-army_153738)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Frankenstein's%20Army%20(2013).jpg)

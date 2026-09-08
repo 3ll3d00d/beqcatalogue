@@ -1,6 +1,6 @@
 # Dr. No
 
-[Compare across authors](../../compare/?t=film-dr-no_646)
+[Compare across authors](../compare/index.md?t=film-dr-no_646)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

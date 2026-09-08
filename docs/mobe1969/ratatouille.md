@@ -1,6 +1,6 @@
 # Ratatouille
 
-[Compare across authors](../../compare/?t=film-ratatouille_2062)
+[Compare across authors](../compare/index.md?t=film-ratatouille_2062)
 
 ## Atmos
 

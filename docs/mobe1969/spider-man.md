@@ -1,6 +1,6 @@
 # Spider-Man
 
-[Compare across authors](../../compare/?t=film-spider-man_557)
+[Compare across authors](../compare/index.md?t=film-spider-man_557)
 
 ## Atmos
 

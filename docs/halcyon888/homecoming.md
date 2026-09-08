@@ -11,7 +11,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62686319)
 
-* [Compare across authors](../../compare/?t=TV-homecoming_80335)
+* [Compare across authors](../compare/index.md?t=TV-homecoming_80335)
 
 * Production Year: 2018
 

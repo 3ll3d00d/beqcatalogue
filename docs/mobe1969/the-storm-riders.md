@@ -1,6 +1,6 @@
 # The Storm Riders
 
-[Compare across authors](../../compare/?t=film-the-storm-riders_2137)
+[Compare across authors](../compare/index.md?t=film-the-storm-riders_2137)
 
 ## DTS-HD MA 5.1
 

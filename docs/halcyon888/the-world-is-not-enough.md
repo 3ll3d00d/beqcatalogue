@@ -9,7 +9,7 @@ Greed, revenge, world dominance and high-tech terrorism – it's all in a day's 
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62822419)  [TMDB](https://www.themoviedb.org/movie/36643)  [Compare across authors](../../compare/?t=film-the-world-is-not-enough_36643)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62822419)  [TMDB](https://www.themoviedb.org/movie/36643)  [Compare across authors](../compare/index.md?t=film-the-world-is-not-enough_36643)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/The%20World%20Is%20Not%20Enough%20(1999)%20PvA.jpg)

@@ -1,6 +1,6 @@
 # Die in a Gunfight
 
-[Compare across authors](../../compare/?t=film-die-in-a-gunfight_481879)
+[Compare across authors](../compare/index.md?t=film-die-in-a-gunfight_481879)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Miss & Mrs. Cops
 
-[Compare across authors](../../compare/?t=film-miss-mrs-cops_571786)
+[Compare across authors](../compare/index.md?t=film-miss-mrs-cops_571786)
 
 ## TrueHD 5.1
 

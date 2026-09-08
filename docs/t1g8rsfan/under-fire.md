@@ -9,7 +9,7 @@ Story unfolds in the scorching heat of the Mexico border, where rival drug deale
 
 **MV Adjustment:** +2.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/1511556)  [Compare across authors](../../compare/?t=film-under-fire_1511556)
+[TMDB](https://www.themoviedb.org/movie/1511556)  [Compare across authors](../compare/index.md?t=film-under-fire_1511556)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Under%20Fire%20(2025)%20(%2B2.5%20gain)%20DD%2B.jpg)

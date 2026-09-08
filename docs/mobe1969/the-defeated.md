@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-defeated_93781)
+[Compare across authors](../compare/index.md?t=TV-the-defeated_93781)
 
 ## Season 1
 

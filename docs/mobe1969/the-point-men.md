@@ -1,6 +1,6 @@
 # The Point Men
 
-[Compare across authors](../../compare/?t=film-the-point-men_606400)
+[Compare across authors](../compare/index.md?t=film-the-point-men_606400)
 
 ## TrueHD 5.1
 

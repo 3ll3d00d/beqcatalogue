@@ -1,6 +1,6 @@
 # Abduction
 
-[Compare across authors](../../compare/?t=film-abduction_589594)
+[Compare across authors](../compare/index.md?t=film-abduction_589594)
 
 ## DTS-HD MA 5.1
 

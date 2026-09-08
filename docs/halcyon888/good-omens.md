@@ -14,7 +14,7 @@ Dialnorm Compensation: E1-E5 +6dB, E6 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62714139)
 
-* [Compare across authors](../../compare/?t=TV-good-omens_71915)
+* [Compare across authors](../compare/index.md?t=TV-good-omens_71915)
 
 * Production Year: 2019
 

@@ -1,6 +1,6 @@
 # The Lazarus Project
 
-[Compare across authors](../../compare/?t=film-the-lazarus-project_13825)
+[Compare across authors](../compare/index.md?t=film-the-lazarus-project_13825)
 
 ## DTS-HD HR 5.1
 

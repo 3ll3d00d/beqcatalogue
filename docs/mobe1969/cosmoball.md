@@ -1,6 +1,6 @@
 # Cosmoball
 
-[Compare across authors](../../compare/?t=film-cosmoball_517096)
+[Compare across authors](../compare/index.md?t=film-cosmoball_517096)
 
 ## DTS-HD MA 5.1
 

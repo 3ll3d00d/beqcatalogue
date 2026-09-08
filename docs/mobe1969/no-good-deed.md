@@ -1,6 +1,6 @@
 # No Good Deed
 
-[Compare across authors](../../compare/?t=film-no-good-deed_136835)
+[Compare across authors](../compare/index.md?t=film-no-good-deed_136835)
 
 ## DTS-HD MA 5.1
 

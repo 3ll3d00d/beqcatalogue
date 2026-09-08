@@ -1,6 +1,6 @@
 # Battle Royale
 
-[Compare across authors](../../compare/?t=film-battle-royale_3176)
+[Compare across authors](../compare/index.md?t=film-battle-royale_3176)
 
 ## DTS-HD MA 5.1
 

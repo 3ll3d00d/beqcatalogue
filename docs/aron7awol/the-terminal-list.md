@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-terminal-list_120911)
+[Compare across authors](../compare/index.md?t=TV-the-terminal-list_120911)
 
 ## Season 1
 

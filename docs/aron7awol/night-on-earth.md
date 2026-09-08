@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-night-on-earth_97861)
+[Compare across authors](../compare/index.md?t=TV-night-on-earth_97861)
 
 ## Season 1
 

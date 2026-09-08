@@ -9,7 +9,7 @@ Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a m
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63940929#post-63940929)  [TMDB](https://www.themoviedb.org/movie/939243)  [Compare across authors](../../compare/?t=film-sonic-the-hedgehog-3_939243)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63940929#post-63940929)  [TMDB](https://www.themoviedb.org/movie/939243)  [Compare across authors](../compare/index.md?t=film-sonic-the-hedgehog-3_939243)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sonic%20the%20Hedgehog%203%20(2024)%20(%2B2.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a m
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1553?post_id=63794027#post-63794027)  [TMDB](https://www.themoviedb.org/movie/939243)  [Compare across authors](../../compare/?t=film-sonic-the-hedgehog-3_939243)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1553?post_id=63794027#post-63794027)  [TMDB](https://www.themoviedb.org/movie/939243)  [Compare across authors](../compare/index.md?t=film-sonic-the-hedgehog-3_939243)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sonic%20the%20Hedgehog%203%20(2024)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

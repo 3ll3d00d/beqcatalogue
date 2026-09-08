@@ -1,6 +1,6 @@
 # Sing 2
 
-[Compare across authors](../../compare/?t=film-sing-2_438695)
+[Compare across authors](../compare/index.md?t=film-sing-2_438695)
 
 ## Atmos
 

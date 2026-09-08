@@ -1,6 +1,6 @@
 # Blue Bayou
 
-[Compare across authors](../../compare/?t=film-blue-bayou_644089)
+[Compare across authors](../compare/index.md?t=film-blue-bayou_644089)
 
 ## DD+ 5.1
 

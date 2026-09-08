@@ -1,6 +1,6 @@
 # Beast of Burden
 
-[Compare across authors](../../compare/?t=film-beast-of-burden_454650)
+[Compare across authors](../compare/index.md?t=film-beast-of-burden_454650)
 
 ## DD+ 5.1
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-mayfair-witches_207863)
+* [Compare across authors](../compare/index.md?t=TV-mayfair-witches_207863)
 
 * Production Year: 2023
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-mayfair-witches_207863)
+* [Compare across authors](../compare/index.md?t=TV-mayfair-witches_207863)
 
 * Production Year: 2023
 

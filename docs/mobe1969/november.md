@@ -1,6 +1,6 @@
 # November
 
-[Compare across authors](../../compare/?t=film-november_823951)
+[Compare across authors](../compare/index.md?t=film-november_823951)
 
 ## DTS-HD MA 5.1
 

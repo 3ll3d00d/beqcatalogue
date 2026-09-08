@@ -1,6 +1,6 @@
 # Automata
 
-[Compare across authors](../../compare/?t=film-automata_262543)
+[Compare across authors](../compare/index.md?t=film-automata_262543)
 
 ## TrueHD 5.1
 

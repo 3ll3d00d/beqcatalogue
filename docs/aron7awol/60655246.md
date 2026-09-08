@@ -1,6 +1,6 @@
 # We Were Soldiers
 
-[Compare across authors](../../compare/?t=film-we-were-soldiers_10590)
+[Compare across authors](../compare/index.md?t=film-we-were-soldiers_10590)
 
 ## DTS-HD MA 5.1
 

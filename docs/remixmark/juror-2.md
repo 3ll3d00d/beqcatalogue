@@ -12,7 +12,7 @@ While serving as a juror in a high profile murder trial, family man Justin Kemp 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1535?post_id=63687072#post-63687072)  [TMDB](https://www.themoviedb.org/movie/1106739)  [Compare across authors](../../compare/?t=film-juror-2_1106739)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1535?post_id=63687072#post-63687072)  [TMDB](https://www.themoviedb.org/movie/1106739)  [Compare across authors](../compare/index.md?t=film-juror-2_1106739)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Juror%20%232%20(2024)%20(%2B6%20gain)%20DD.jpg)
@@ -28,7 +28,7 @@ While serving as a juror in a high profile murder trial, family man Justin Kemp 
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1535?post_id=63687411#post-63687411)  [TMDB](https://www.themoviedb.org/movie/1106739)  [Compare across authors](../../compare/?t=film-juror-2_1106739)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1535?post_id=63687411#post-63687411)  [TMDB](https://www.themoviedb.org/movie/1106739)  [Compare across authors](../compare/index.md?t=film-juror-2_1106739)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Juror%20%232%20(2024)%20(%2B1%20gain)%20DD%2B.jpg)

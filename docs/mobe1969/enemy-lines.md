@@ -1,6 +1,6 @@
 # Enemy Lines
 
-[Compare across authors](../../compare/?t=film-enemy-lines_679796)
+[Compare across authors](../compare/index.md?t=film-enemy-lines_679796)
 
 ## DD+ 5.1
 

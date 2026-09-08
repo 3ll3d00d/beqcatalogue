@@ -1,6 +1,6 @@
 # War
 
-[Compare across authors](../../compare/?t=film-war_10431)
+[Compare across authors](../compare/index.md?t=film-war_10431)
 
 ## LPCM 7.1
 

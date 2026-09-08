@@ -1,6 +1,6 @@
 # Halloween Kills
 
-[Compare across authors](../../compare/?t=film-halloween-kills_610253)
+[Compare across authors](../compare/index.md?t=film-halloween-kills_610253)
 
 ## Atmos
 

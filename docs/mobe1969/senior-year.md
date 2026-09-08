@@ -1,6 +1,6 @@
 # Senior Year
 
-[Compare across authors](../../compare/?t=film-senior-year_800937)
+[Compare across authors](../compare/index.md?t=film-senior-year_800937)
 
 ## DD+ Atmos, DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Man from Earth
 
-[Compare across authors](../../compare/?t=film-the-man-from-earth_13363)
+[Compare across authors](../compare/index.md?t=film-the-man-from-earth_13363)
 
 ## DD+ 5.1
 

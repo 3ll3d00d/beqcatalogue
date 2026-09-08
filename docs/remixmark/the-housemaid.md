@@ -9,7 +9,7 @@ Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid 
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1718?post_id=64494763#post-64494763)  [TMDB](https://www.themoviedb.org/movie/1368166)  [Compare across authors](../../compare/?t=film-the-housemaid_1368166)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1718?post_id=64494763#post-64494763)  [TMDB](https://www.themoviedb.org/movie/1368166)  [Compare across authors](../compare/index.md?t=film-the-housemaid_1368166)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Housemaid%20(2025)%20(%2B5.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid 
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1708?post_id=64451703#post-64451703)  [TMDB](https://www.themoviedb.org/movie/1368166)  [Compare across authors](../../compare/?t=film-the-housemaid_1368166)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1708?post_id=64451703#post-64451703)  [TMDB](https://www.themoviedb.org/movie/1368166)  [Compare across authors](../compare/index.md?t=film-the-housemaid_1368166)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Housemaid%20(2025)%20(%2B5.5%20gain)%20DD%2B%20Atmos.jpg)

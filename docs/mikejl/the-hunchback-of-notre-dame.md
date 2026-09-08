@@ -7,7 +7,7 @@
 Isolated bell-ringer Quasimodo wishes to leave Notre Dame tower against the wishes of Judge Claude Frollo, his stern guardian and Paris' strait-laced Minister of Justice. His first venture to the outside world finds him Esmeralda, a kind-hearted and fearless Romani woman who openly stands up to Frollo's tyranny.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/10545)  [Compare across authors](../../compare/?t=film-the-hunchback-of-notre-dame_10545)
+[TMDB](https://www.themoviedb.org/movie/10545)  [Compare across authors](../compare/index.md?t=film-the-hunchback-of-notre-dame_10545)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hunchback%20of%20Notre%20Dame/The%20Hunchback%20of%20Notre%20Dame%20(1996)%20DTS-HD%20MA%205.1.jpg)

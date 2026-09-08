@@ -1,6 +1,6 @@
 # Shock Wave
 
-[Compare across authors](../../compare/?t=film-shock-wave_441531)
+[Compare across authors](../compare/index.md?t=film-shock-wave_441531)
 
 ## Atmos
 

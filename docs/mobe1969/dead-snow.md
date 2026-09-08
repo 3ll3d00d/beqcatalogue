@@ -1,6 +1,6 @@
 # Dead Snow
 
-[Compare across authors](../../compare/?t=film-dead-snow_14451)
+[Compare across authors](../compare/index.md?t=film-dead-snow_14451)
 
 ## DTS-HD MA 5.1
 

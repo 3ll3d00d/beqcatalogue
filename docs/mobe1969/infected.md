@@ -1,6 +1,6 @@
 # Infected
 
-[Compare across authors](../../compare/?t=film-infected_126962)
+[Compare across authors](../compare/index.md?t=film-infected_126962)
 
 ## DD+ 2.0
 

@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-palm-royale_157367)
+* [Compare across authors](../compare/index.md?t=TV-palm-royale_157367)
 
 * Production Year: 2024
 

@@ -1,6 +1,6 @@
 # Cliffhanger
 
-[Compare across authors](../../compare/?t=film-cliffhanger_9350)
+[Compare across authors](../compare/index.md?t=film-cliffhanger_9350)
 
 ## Atmos
 

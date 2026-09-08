@@ -1,6 +1,6 @@
 # The Curious Case of Benjamin Button
 
-[Compare across authors](../../compare/?t=film-the-curious-case-of-benjamin-button_4922)
+[Compare across authors](../compare/index.md?t=film-the-curious-case-of-benjamin-button_4922)
 
 ## TrueHD 5.1
 

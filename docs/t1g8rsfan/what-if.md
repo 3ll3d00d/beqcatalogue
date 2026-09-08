@@ -14,7 +14,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63054540)
 
-* [Compare across authors](../../compare/?t=TV-what-if_2023)
+* [Compare across authors](../compare/index.md?t=TV-what-if_2023)
 
 * Production Year: 2023
 
@@ -33,7 +33,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63054540)
 
-* [Compare across authors](../../compare/?t=TV-what-if_2023)
+* [Compare across authors](../compare/index.md?t=TV-what-if_2023)
 
 * Production Year: 2023
 

@@ -1,6 +1,6 @@
 # The Initiated
 
-[Compare across authors](../../compare/?t=film-the-initiated_1133923)
+[Compare across authors](../compare/index.md?t=film-the-initiated_1133923)
 
 ## DD+ 5.1
 

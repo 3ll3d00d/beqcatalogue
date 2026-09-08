@@ -1,6 +1,6 @@
 # Another 48 Hrs.
 
-[Compare across authors](../../compare/?t=film-another-48-hrs_11595)
+[Compare across authors](../compare/index.md?t=film-another-48-hrs_11595)
 
 ## TrueHD 5.1
 

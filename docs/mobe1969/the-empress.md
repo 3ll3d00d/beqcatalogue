@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-empress_131488)
+[Compare across authors](../compare/index.md?t=TV-the-empress_131488)
 
 ## Season 1
 

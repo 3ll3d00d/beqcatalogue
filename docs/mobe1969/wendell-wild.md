@@ -1,6 +1,6 @@
 # Wendell & Wild
 
-[Compare across authors](../../compare/?t=film-wendell-wild_511817)
+[Compare across authors](../compare/index.md?t=film-wendell-wild_511817)
 
 ## DD+ Atmos
 

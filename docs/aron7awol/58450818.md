@@ -1,6 +1,6 @@
 # Repo Men
 
-[Compare across authors](../../compare/?t=film-repo-men_31867)
+[Compare across authors](../compare/index.md?t=film-repo-men_31867)
 
 ## DTS-HD MA 5.1
 

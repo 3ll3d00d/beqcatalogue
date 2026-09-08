@@ -1,6 +1,6 @@
 # The Bounty Hunter
 
-[Compare across authors](../../compare/?t=film-the-bounty-hunter_27573)
+[Compare across authors](../compare/index.md?t=film-the-bounty-hunter_27573)
 
 ## DTS-HD MA 5.1
 

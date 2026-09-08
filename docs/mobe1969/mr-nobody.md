@@ -1,6 +1,6 @@
 # Mr. Nobody
 
-[Compare across authors](../../compare/?t=film-mr-nobody_31011)
+[Compare across authors](../compare/index.md?t=film-mr-nobody_31011)
 
 ## DTS-HD MA 5.1
 

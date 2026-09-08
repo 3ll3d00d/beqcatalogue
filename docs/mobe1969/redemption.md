@@ -1,6 +1,6 @@
 # Redemption
 
-[Compare across authors](../../compare/?t=film-redemption_220820)
+[Compare across authors](../compare/index.md?t=film-redemption_220820)
 
 ## DTS-HD MA 5.1
 

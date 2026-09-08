@@ -1,6 +1,6 @@
 # Stillwater
 
-[Compare across authors](../../compare/?t=film-stillwater_616651)
+[Compare across authors](../compare/index.md?t=film-stillwater_616651)
 
 ## DD+ 5.1
 

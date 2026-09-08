@@ -1,6 +1,6 @@
 # Midway
 
-[Compare across authors](../../compare/?t=film-midway_11422)
+[Compare across authors](../compare/index.md?t=film-midway_11422)
 
 ## DTS-HD MA 5.1
 

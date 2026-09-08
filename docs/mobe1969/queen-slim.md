@@ -1,6 +1,6 @@
 # Queen & Slim
 
-[Compare across authors](../../compare/?t=film-queen-slim_536743)
+[Compare across authors](../compare/index.md?t=film-queen-slim_536743)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Blockers
 
-[Compare across authors](../../compare/?t=film-blockers_437557)
+[Compare across authors](../compare/index.md?t=film-blockers_437557)
 
 ## DTS-HD MA 5.1, DR+ 5.1
 

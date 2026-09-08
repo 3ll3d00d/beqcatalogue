@@ -1,6 +1,6 @@
 # Operation Mekong
 
-[Compare across authors](../../compare/?t=film-operation-mekong_415214)
+[Compare across authors](../compare/index.md?t=film-operation-mekong_415214)
 
 ## DTS-X
 

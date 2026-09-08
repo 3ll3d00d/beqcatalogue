@@ -1,6 +1,6 @@
 # The Bob's Burgers Movie
 
-[Compare across authors](../../compare/?t=film-the-bobs-burgers-movie_504827)
+[Compare across authors](../compare/index.md?t=film-the-bobs-burgers-movie_504827)
 
 ## DTS-HD MA 5.1
 

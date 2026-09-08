@@ -1,6 +1,6 @@
 # Coming 2 America
 
-[Compare across authors](../../compare/?t=film-coming-2-america_484718)
+[Compare across authors](../compare/index.md?t=film-coming-2-america_484718)
 
 ## DD+ 5.1
 

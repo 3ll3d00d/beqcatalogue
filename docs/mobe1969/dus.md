@@ -1,6 +1,6 @@
 # Dus
 
-[Compare across authors](../../compare/?t=film-dus_58302)
+[Compare across authors](../compare/index.md?t=film-dus_58302)
 
 ## DD+ 5.1
 

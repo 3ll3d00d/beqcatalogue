@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-based-on-a-true-story_197373)
+* [Compare across authors](../compare/index.md?t=TV-based-on-a-true-story_197373)
 
 * Production Year: 2023
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-based-on-a-true-story_197373)
+* [Compare across authors](../compare/index.md?t=TV-based-on-a-true-story_197373)
 
 * Production Year: 2023
 

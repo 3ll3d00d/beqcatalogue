@@ -1,6 +1,6 @@
 # Jacob's Ladder
 
-[Compare across authors](../../compare/?t=film-jacobs-ladder_2291)
+[Compare across authors](../compare/index.md?t=film-jacobs-ladder_2291)
 
 ## DTS-HD MA 5.1
 

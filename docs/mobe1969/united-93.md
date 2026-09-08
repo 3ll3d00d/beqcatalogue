@@ -1,6 +1,6 @@
 # United 93
 
-[Compare across authors](../../compare/?t=film-united-93_9829)
+[Compare across authors](../compare/index.md?t=film-united-93_9829)
 
 ## DD+ 5.1
 

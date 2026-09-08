@@ -1,6 +1,6 @@
 # Paul
 
-[Compare across authors](../../compare/?t=film-paul_39513)
+[Compare across authors](../compare/index.md?t=film-paul_39513)
 
 ## DTS-HD MA 5.1
 

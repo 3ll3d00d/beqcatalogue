@@ -1,6 +1,6 @@
 # Mission: Impossible - Dead Reckoning Part One
 
-[Compare across authors](../../compare/?t=film-mission-impossible-dead-reckoning-part-one_575264)
+[Compare across authors](../compare/index.md?t=film-mission-impossible-dead-reckoning-part-one_575264)
 
 ## Atmos
 

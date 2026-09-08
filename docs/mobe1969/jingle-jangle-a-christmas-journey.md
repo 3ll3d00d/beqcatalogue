@@ -1,6 +1,6 @@
 # Jingle Jangle: A Christmas Journey
 
-[Compare across authors](../../compare/?t=film-jingle-jangle-a-christmas-journey_622855)
+[Compare across authors](../compare/index.md?t=film-jingle-jangle-a-christmas-journey_622855)
 
 ## DD+ Atmos
 

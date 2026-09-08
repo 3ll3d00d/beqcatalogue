@@ -7,7 +7,7 @@
 When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1159559)  [Compare across authors](../../compare/?t=film-scream-7_1159559)
+[TMDB](https://www.themoviedb.org/movie/1159559)  [Compare across authors](../compare/index.md?t=film-scream-7_1159559)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%207%20(2026)%20Atmos.jpg)

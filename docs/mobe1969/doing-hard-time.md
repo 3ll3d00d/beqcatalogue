@@ -1,6 +1,6 @@
 # Doing Hard Time
 
-[Compare across authors](../../compare/?t=film-doing-hard-time_32812)
+[Compare across authors](../compare/index.md?t=film-doing-hard-time_32812)
 
 ## DD+ 5.1
 

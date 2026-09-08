@@ -1,6 +1,6 @@
 # Dil Dhadakne Do
 
-[Compare across authors](../../compare/?t=film-dil-dhadakne-do_338065)
+[Compare across authors](../compare/index.md?t=film-dil-dhadakne-do_338065)
 
 ## DD+ 5.1
 

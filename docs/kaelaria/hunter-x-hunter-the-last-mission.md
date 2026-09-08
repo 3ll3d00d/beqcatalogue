@@ -10,7 +10,7 @@ Isaac Netero is the chairman of the Hunter Association. Decades ago he sealed aw
 ja
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/239523)  [Compare across authors](../../compare/?t=film-hunter-x-hunter-the-last-mission_239523)
+[TMDB](https://www.themoviedb.org/movie/239523)  [Compare across authors](../compare/index.md?t=film-hunter-x-hunter-the-last-mission_239523)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Hunter%20x%20Hunter%20-The%20Last%20Mission%20(2013)%20(ja)%20DD%2B%205.1.jpg)

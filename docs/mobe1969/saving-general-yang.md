@@ -1,6 +1,6 @@
 # Saving General Yang
 
-[Compare across authors](../../compare/?t=film-saving-general-yang_181009)
+[Compare across authors](../compare/index.md?t=film-saving-general-yang_181009)
 
 ## DTS-HD MA 5.1
 

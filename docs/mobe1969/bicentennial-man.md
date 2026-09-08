@@ -1,6 +1,6 @@
 # Bicentennial Man
 
-[Compare across authors](../../compare/?t=film-bicentennial-man_2277)
+[Compare across authors](../compare/index.md?t=film-bicentennial-man_2277)
 
 ## DD+ 5.1
 

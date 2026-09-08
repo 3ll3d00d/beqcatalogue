@@ -1,6 +1,6 @@
 # Bingo Hell
 
-[Compare across authors](../../compare/?t=film-bingo-hell_802226)
+[Compare across authors](../compare/index.md?t=film-bingo-hell_802226)
 
 ## DD+ 5.1
 

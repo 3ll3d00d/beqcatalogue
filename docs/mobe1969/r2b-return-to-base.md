@@ -1,6 +1,6 @@
 # R2B: Return to Base
 
-[Compare across authors](../../compare/?t=film-r2b-return-to-base_124294)
+[Compare across authors](../compare/index.md?t=film-r2b-return-to-base_124294)
 
 ## DTS-HD MA 5.1
 

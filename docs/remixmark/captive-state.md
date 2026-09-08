@@ -9,7 +9,7 @@ Nearly a decade after occupation by an extraterrestrial force, the lives of a Ch
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1747?post_id=64662807#post-64662807)  [TMDB](https://www.themoviedb.org/movie/429471)  [Compare across authors](../../compare/?t=film-captive-state_429471)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1747?post_id=64662807#post-64662807)  [TMDB](https://www.themoviedb.org/movie/429471)  [Compare across authors](../compare/index.md?t=film-captive-state_429471)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Captive%20State%20(2019)%20(%2B2.5%20gain)%20DD%2B.jpg)

@@ -1,6 +1,6 @@
 # Blood Brother
 
-[Compare across authors](../../compare/?t=film-blood-brother_552858)
+[Compare across authors](../compare/index.md?t=film-blood-brother_552858)
 
 ## DTS-HD MA 5.1
 

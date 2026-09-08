@@ -1,6 +1,6 @@
 # We Are Your Friends
 
-[Compare across authors](../../compare/?t=film-we-are-your-friends_301351)
+[Compare across authors](../compare/index.md?t=film-we-are-your-friends_301351)
 
 ## DD 5.1
 

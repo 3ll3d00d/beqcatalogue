@@ -1,6 +1,6 @@
 # Ferry
 
-[Compare across authors](../../compare/?t=film-ferry_717192)
+[Compare across authors](../compare/index.md?t=film-ferry_717192)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Dragon Eyes
 
-[Compare across authors](../../compare/?t=film-dragon-eyes_100683)
+[Compare across authors](../compare/index.md?t=film-dragon-eyes_100683)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Kundo: Age of the Rampant
 
-[Compare across authors](../../compare/?t=film-kundo-age-of-the-rampant_281780)
+[Compare across authors](../compare/index.md?t=film-kundo-age-of-the-rampant_281780)
 
 ## DTS-HD MA 5.1
 

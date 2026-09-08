@@ -1,6 +1,6 @@
 # Kaithi
 
-[Compare across authors](../../compare/?t=film-kaithi_587030)
+[Compare across authors](../compare/index.md?t=film-kaithi_587030)
 
 ## DD+ 5.1
 

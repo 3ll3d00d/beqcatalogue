@@ -1,6 +1,6 @@
 # The Contractor
 
-[Compare across authors](../../compare/?t=film-the-contractor_15071)
+[Compare across authors](../compare/index.md?t=film-the-contractor_15071)
 
 ## DTS-HD MA 5.1
 

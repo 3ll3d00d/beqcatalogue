@@ -1,6 +1,6 @@
 # Sugar Hill
 
-[Compare across authors](../../compare/?t=film-sugar-hill_39349)
+[Compare across authors](../compare/index.md?t=film-sugar-hill_39349)
 
 ## DD+ 2.0
 

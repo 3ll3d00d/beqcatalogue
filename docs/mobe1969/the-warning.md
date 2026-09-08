@@ -1,6 +1,6 @@
 # The Warning
 
-[Compare across authors](../../compare/?t=film-the-warning_508018)
+[Compare across authors](../compare/index.md?t=film-the-warning_508018)
 
 ## DD+ 5.1
 

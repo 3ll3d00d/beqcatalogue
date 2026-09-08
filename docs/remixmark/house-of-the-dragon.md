@@ -14,7 +14,7 @@ Dialnorm Compensation: +2dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1472?post_id=63374888#post-63374888)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1475?post_id=63389219#post-63389219)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -56,7 +56,7 @@ Dialnorm Compensation: 3dB
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -78,7 +78,7 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1478?post_id=63414142#post-63414142)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -100,7 +100,7 @@ Dialnorm Compensation: 2dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1482?post_id=63426825#post-63426825)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -122,7 +122,7 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1484?post_id=63439061#post-63439061)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -144,7 +144,7 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1486?post_id=63452036#post-63452036)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -166,7 +166,7 @@ Dialnorm Compensation: 2dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1488?post_id=63465546#post-63465546)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -188,7 +188,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1749?post_id=64672551#post-64672551)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -210,7 +210,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1751?post_id=64682510#post-64682510)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -232,7 +232,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1753?post_id=64692877#post-64692877)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -254,7 +254,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1754?post_id=64702913#post-64702913)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -276,7 +276,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1756?post_id=64713327#post-64713327)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -298,7 +298,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1758?post_id=64724416#post-64724416)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -320,7 +320,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1760?post_id=64734311#post-64734311)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 
@@ -340,7 +340,7 @@ Dialnorm Compensation: 8dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1763?post_id=64743889#post-64743889)
 
-* [Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+* [Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 * Production Year: 2022
 

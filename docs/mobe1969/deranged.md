@@ -1,6 +1,6 @@
 # Deranged
 
-[Compare across authors](../../compare/?t=film-deranged_121491)
+[Compare across authors](../compare/index.md?t=film-deranged_121491)
 
 ## DTS-HD MA 5.1
 

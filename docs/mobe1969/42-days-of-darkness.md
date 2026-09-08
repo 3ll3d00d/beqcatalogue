@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-42-days-of-darkness_197190)
+[Compare across authors](../compare/index.md?t=TV-42-days-of-darkness_197190)
 
 ## Season 1
 

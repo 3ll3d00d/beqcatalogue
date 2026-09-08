@@ -1,6 +1,6 @@
 # Red Dot
 
-[Compare across authors](../../compare/?t=film-red-dot_649087)
+[Compare across authors](../compare/index.md?t=film-red-dot_649087)
 
 ## DD+ 5.1
 

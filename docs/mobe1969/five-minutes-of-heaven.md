@@ -1,6 +1,6 @@
 # Five Minutes of Heaven
 
-[Compare across authors](../../compare/?t=film-five-minutes-of-heaven_16759)
+[Compare across authors](../compare/index.md?t=film-five-minutes-of-heaven_16759)
 
 ## DD 5.1
 

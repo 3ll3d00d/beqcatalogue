@@ -1,6 +1,6 @@
 # Fear Street: 1978
 
-[Compare across authors](../../compare/?t=film-fear-street-1978_591274)
+[Compare across authors](../compare/index.md?t=film-fear-street-1978_591274)
 
 ## DD+ Atmos
 

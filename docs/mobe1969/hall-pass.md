@@ -1,6 +1,6 @@
 # Hall Pass
 
-[Compare across authors](../../compare/?t=film-hall-pass_48988)
+[Compare across authors](../compare/index.md?t=film-hall-pass_48988)
 
 ## DTS-HD MA 5.1
 

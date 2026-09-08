@@ -1,6 +1,6 @@
 # Bad Boys
 
-[Compare across authors](../../compare/?t=film-bad-boys_9737)
+[Compare across authors](../compare/index.md?t=film-bad-boys_9737)
 
 ## Atmos
 

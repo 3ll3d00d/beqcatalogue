@@ -1,6 +1,6 @@
 # Wild Dog
 
-[Compare across authors](../../compare/?t=film-wild-dog_802068)
+[Compare across authors](../compare/index.md?t=film-wild-dog_802068)
 
 ## DD+ 5.1
 

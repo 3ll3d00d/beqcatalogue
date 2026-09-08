@@ -1,6 +1,6 @@
 # The Strangers
 
-[Compare across authors](../../compare/?t=film-the-strangers_10665)
+[Compare across authors](../compare/index.md?t=film-the-strangers_10665)
 
 ## DTS-HD MA 5.1
 

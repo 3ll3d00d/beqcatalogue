@@ -1,6 +1,6 @@
 # Habit
 
-[Compare across authors](../../compare/?t=film-habit_682376)
+[Compare across authors](../compare/index.md?t=film-habit_682376)
 
 ## DD+ 5.1
 

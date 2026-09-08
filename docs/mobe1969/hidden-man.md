@@ -1,6 +1,6 @@
 # Hidden Man
 
-[Compare across authors](../../compare/?t=film-hidden-man_503235)
+[Compare across authors](../compare/index.md?t=film-hidden-man_503235)
 
 ## TrueHD 5.1
 

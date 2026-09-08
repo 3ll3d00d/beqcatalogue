@@ -1,6 +1,6 @@
 # Onward
 
-[Compare across authors](../../compare/?t=film-onward_508439)
+[Compare across authors](../compare/index.md?t=film-onward_508439)
 
 ## Atmos
 

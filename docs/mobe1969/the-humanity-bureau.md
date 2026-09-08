@@ -1,6 +1,6 @@
 # The Humanity Bureau
 
-[Compare across authors](../../compare/?t=film-the-humanity-bureau_456048)
+[Compare across authors](../compare/index.md?t=film-the-humanity-bureau_456048)
 
 ## DTS-HD MA 5.1
 

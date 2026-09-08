@@ -1,6 +1,6 @@
 # La Brassiere
 
-[Compare across authors](../../compare/?t=film-la-brassiere_45411)
+[Compare across authors](../compare/index.md?t=film-la-brassiere_45411)
 
 ## TrueHD 7.1
 

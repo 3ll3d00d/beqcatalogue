@@ -9,7 +9,7 @@ Blu-Ray
 An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornado chasers, headed by Dr. Jo Harding, attempt to release a groundbreaking device that will allow them to track them and create a more advanced warning system. They are joined by Jo's soon to be ex-husband Bill, a former tornado chaser himself, and his girlfriend Melissa.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/664)  [Compare across authors](../../compare/?t=film-twister_664)
+[TMDB](https://www.themoviedb.org/movie/664)  [Compare across authors](../compare/index.md?t=film-twister_664)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Twister%20(1996)%20TrueHD%20Atmos.jpg)
@@ -25,7 +25,7 @@ UHD
 An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornado chasers, headed by Dr. Jo Harding, attempt to release a groundbreaking device that will allow them to track them and create a more advanced warning system. They are joined by Jo's soon to be ex-husband Bill, a former tornado chaser himself, and his girlfriend Melissa.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/664)  [Compare across authors](../../compare/?t=film-twister_664)
+[TMDB](https://www.themoviedb.org/movie/664)  [Compare across authors](../compare/index.md?t=film-twister_664)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Twister%20(1996)%204k%20TrueHD%20Atmos.jpg)

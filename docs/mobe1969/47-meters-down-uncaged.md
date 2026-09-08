@@ -1,6 +1,6 @@
 # 47 Meters Down: Uncaged
 
-[Compare across authors](../../compare/?t=film-47-meters-down-uncaged_480105)
+[Compare across authors](../compare/index.md?t=film-47-meters-down-uncaged_480105)
 
 ## DD+ 5.1
 

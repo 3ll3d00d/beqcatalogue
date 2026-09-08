@@ -1,6 +1,6 @@
 # Evangelion: 1.11 You Are (Not) Alone
 
-[Compare across authors](../../compare/?t=film-evangelion-111-you-are-not-alone_15137)
+[Compare across authors](../compare/index.md?t=film-evangelion-111-you-are-not-alone_15137)
 
 ## TrueHD 6.1
 

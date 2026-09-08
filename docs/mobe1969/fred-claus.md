@@ -1,6 +1,6 @@
 # Fred Claus
 
-[Compare across authors](../../compare/?t=film-fred-claus_5375)
+[Compare across authors](../compare/index.md?t=film-fred-claus_5375)
 
 ## DD+ 5.1
 

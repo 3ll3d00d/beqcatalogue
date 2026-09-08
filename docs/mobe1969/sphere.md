@@ -1,6 +1,6 @@
 # Sphere
 
-[Compare across authors](../../compare/?t=film-sphere_10153)
+[Compare across authors](../compare/index.md?t=film-sphere_10153)
 
 ## TrueHD 5.1
 

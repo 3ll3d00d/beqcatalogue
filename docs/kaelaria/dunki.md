@@ -10,7 +10,7 @@ Four friends from a sleepy little village in Punjab share a common dream: to go 
 Hindi
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/960876)  [Compare across authors](../../compare/?t=film-dunki_960876)
+[TMDB](https://www.themoviedb.org/movie/960876)  [Compare across authors](../compare/index.md?t=film-dunki_960876)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Dunki%20(2023)%20(HI)%20DD%2B%205.1.jpg)

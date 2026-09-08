@@ -1,6 +1,6 @@
 # Friday
 
-[Compare across authors](../../compare/?t=film-friday_10634)
+[Compare across authors](../compare/index.md?t=film-friday_10634)
 
 ## TrueHD 7.1
 

@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-squid-game_93405)
+[Compare across authors](../compare/index.md?t=TV-squid-game_93405)
 
 ## Season 1
 

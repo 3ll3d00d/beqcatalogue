@@ -1,6 +1,6 @@
 # Collide
 
-[Compare across authors](../../compare/?t=film-collide_195590)
+[Compare across authors](../compare/index.md?t=film-collide_195590)
 
 ## DTS-HD MA 5.1
 

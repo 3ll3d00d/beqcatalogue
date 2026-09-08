@@ -1,6 +1,6 @@
 # Elektra
 
-[Compare across authors](../../compare/?t=film-elektra_9947)
+[Compare across authors](../compare/index.md?t=film-elektra_9947)
 
 ## DD+ 5.1
 

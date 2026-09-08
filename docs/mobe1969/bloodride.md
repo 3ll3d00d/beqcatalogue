@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-bloodride_100043)
+[Compare across authors](../compare/index.md?t=TV-bloodride_100043)
 
 ## Season 1
 

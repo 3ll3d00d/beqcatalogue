@@ -1,6 +1,6 @@
 # What Comes Around
 
-[Compare across authors](../../compare/?t=film-what-comes-around_1005731)
+[Compare across authors](../compare/index.md?t=film-what-comes-around_1005731)
 
 ## DD+ 5.1
 

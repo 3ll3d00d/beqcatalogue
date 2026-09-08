@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-what-if_91363)
+[Compare across authors](../compare/index.md?t=TV-what-if_91363)
 
 ## Season 1 Episode 1
 

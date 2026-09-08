@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-into-the-night_93811)
+[Compare across authors](../compare/index.md?t=TV-into-the-night_93811)
 
 ## Season 1
 

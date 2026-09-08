@@ -1,6 +1,6 @@
 # Crawl
 
-[Compare across authors](../../compare/?t=film-crawl_511987)
+[Compare across authors](../compare/index.md?t=film-crawl_511987)
 
 ## DTS-HD MA 7.1
 

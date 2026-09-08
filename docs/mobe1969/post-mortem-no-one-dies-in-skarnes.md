@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-post-mortem-no-one-dies-in-skarnes_129933)
+[Compare across authors](../compare/index.md?t=TV-post-mortem-no-one-dies-in-skarnes_129933)
 
 ## Season 1
 

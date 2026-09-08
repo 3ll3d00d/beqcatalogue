@@ -1,6 +1,6 @@
 # Eye of the Storm
 
-[Compare across authors](../../compare/?t=film-eye-of-the-storm_1040284)
+[Compare across authors](../compare/index.md?t=film-eye-of-the-storm_1040284)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Colossal
 
-[Compare across authors](../../compare/?t=film-colossal_339967)
+[Compare across authors](../compare/index.md?t=film-colossal_339967)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-manhunt_72597)
+[Compare across authors](../compare/index.md?t=TV-manhunt_72597)
 
 ## Season 1
 

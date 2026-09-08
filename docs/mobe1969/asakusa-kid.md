@@ -1,6 +1,6 @@
 # Asakusa Kid
 
-[Compare across authors](../../compare/?t=film-asakusa-kid_768147)
+[Compare across authors](../compare/index.md?t=film-asakusa-kid_768147)
 
 ## DD+ Atmos, DD+ 5.1
 

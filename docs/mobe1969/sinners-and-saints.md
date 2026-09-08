@@ -1,6 +1,6 @@
 # Sinners and Saints
 
-[Compare across authors](../../compare/?t=film-sinners-and-saints_66193)
+[Compare across authors](../compare/index.md?t=film-sinners-and-saints_66193)
 
 ## DTS-HD MA 5.1
 

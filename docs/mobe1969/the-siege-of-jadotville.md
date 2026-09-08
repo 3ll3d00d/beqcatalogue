@@ -1,6 +1,6 @@
 # The Siege of Jadotville
 
-[Compare across authors](../../compare/?t=film-the-siege-of-jadotville_334517)
+[Compare across authors](../compare/index.md?t=film-the-siege-of-jadotville_334517)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Moss
 
-[Compare across authors](../../compare/?t=film-moss_49087)
+[Compare across authors](../compare/index.md?t=film-moss_49087)
 
 ## DTS-HD MA 5.1
 

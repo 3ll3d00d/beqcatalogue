@@ -1,6 +1,6 @@
 # Transformers: Rise of the Beasts
 
-[Compare across authors](../../compare/?t=film-transformers-rise-of-the-beasts_667538)
+[Compare across authors](../compare/index.md?t=film-transformers-rise-of-the-beasts_667538)
 
 ## Atmos
 

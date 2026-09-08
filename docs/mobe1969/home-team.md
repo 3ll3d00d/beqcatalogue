@@ -1,6 +1,6 @@
 # Home Team
 
-[Compare across authors](../../compare/?t=film-home-team_817648)
+[Compare across authors](../compare/index.md?t=film-home-team_817648)
 
 ## DD+ Atmos, DD+ 5.1
 

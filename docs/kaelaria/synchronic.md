@@ -7,7 +7,7 @@
 Two New Orleans paramedics' lives are ripped apart after encountering a series of horrific deaths linked to a designer drug with bizarre, otherworldly effects.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/549294)  [Compare across authors](../../compare/?t=film-synchronic_549294)
+[TMDB](https://www.themoviedb.org/movie/549294)  [Compare across authors](../compare/index.md?t=film-synchronic_549294)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Synchronic%20(2019)%20DTS-HD%20MA%205.1.jpg)

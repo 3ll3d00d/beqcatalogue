@@ -1,6 +1,6 @@
 # American Animals
 
-[Compare across authors](../../compare/?t=film-american-animals_489931)
+[Compare across authors](../compare/index.md?t=film-american-animals_489931)
 
 ## DTS-HD MA 5.1
 

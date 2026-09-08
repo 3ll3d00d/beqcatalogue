@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-supernatural-academy_153268)
+[Compare across authors](../compare/index.md?t=TV-supernatural-academy_153268)
 
 ## Season 1
 

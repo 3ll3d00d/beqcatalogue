@@ -1,6 +1,6 @@
 # Captain America: Civil War
 
-[Compare across authors](../../compare/?t=film-captain-america-civil-war_271110)
+[Compare across authors](../compare/index.md?t=film-captain-america-civil-war_271110)
 
 ## Atmos
 

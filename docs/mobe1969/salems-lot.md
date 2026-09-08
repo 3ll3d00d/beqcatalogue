@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-salems-lot_16118)
+[Compare across authors](../compare/index.md?t=TV-salems-lot_16118)
 
 ## Season 1
 

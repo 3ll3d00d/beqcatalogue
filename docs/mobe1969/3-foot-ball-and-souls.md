@@ -1,6 +1,6 @@
 # 3 Foot Ball and Souls
 
-[Compare across authors](../../compare/?t=film-3-foot-ball-and-souls_470116)
+[Compare across authors](../compare/index.md?t=film-3-foot-ball-and-souls_470116)
 
 ## DD+ 2.0
 

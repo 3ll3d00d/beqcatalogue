@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-new-legends-of-monkey_71577)
+[Compare across authors](../compare/index.md?t=TV-the-new-legends-of-monkey_71577)
 
 ## Season 1
 

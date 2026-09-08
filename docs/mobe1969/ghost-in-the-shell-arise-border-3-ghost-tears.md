@@ -1,6 +1,6 @@
 # Ghost in the Shell Arise - Border 3: Ghost Tears
 
-[Compare across authors](../../compare/?t=film-ghost-in-the-shell-arise-border-3-ghost-tears_240341)
+[Compare across authors](../compare/index.md?t=film-ghost-in-the-shell-arise-border-3-ghost-tears_240341)
 
 ## TrueHD 5.1
 

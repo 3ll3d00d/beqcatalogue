@@ -1,6 +1,6 @@
 # Inside Man
 
-[Compare across authors](../../compare/?t=film-inside-man_1020662)
+[Compare across authors](../compare/index.md?t=film-inside-man_1020662)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Silent Witness
 
-[Compare across authors](../../compare/?t=film-silent-witness_225877)
+[Compare across authors](../compare/index.md?t=film-silent-witness_225877)
 
 ## TrueHD 5.1
 

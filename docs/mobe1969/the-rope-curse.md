@@ -1,6 +1,6 @@
 # The Rope Curse
 
-[Compare across authors](../../compare/?t=film-the-rope-curse_552737)
+[Compare across authors](../compare/index.md?t=film-the-rope-curse_552737)
 
 ## TrueHD 7.1
 

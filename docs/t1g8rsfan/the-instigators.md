@@ -12,7 +12,7 @@ Rory and Cobby are unlikely partners thrown together for a heist. But when it go
 +8dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1059064)  [Compare across authors](../../compare/?t=film-the-instigators_1059064)
+[TMDB](https://www.themoviedb.org/movie/1059064)  [Compare across authors](../compare/index.md?t=film-the-instigators_1059064)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Instigators%20(2024)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

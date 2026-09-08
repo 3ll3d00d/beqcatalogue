@@ -1,6 +1,6 @@
 # Dolphin Tale 2
 
-[Compare across authors](../../compare/?t=film-dolphin-tale-2_227735)
+[Compare across authors](../compare/index.md?t=film-dolphin-tale-2_227735)
 
 ## DD+ 5.1
 

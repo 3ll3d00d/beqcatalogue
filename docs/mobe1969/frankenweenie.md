@@ -1,6 +1,6 @@
 # Frankenweenie
 
-[Compare across authors](../../compare/?t=film-frankenweenie_62214)
+[Compare across authors](../compare/index.md?t=film-frankenweenie_62214)
 
 ## DTS-HD MA 7.1
 

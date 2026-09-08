@@ -1,6 +1,6 @@
 # Route 10
 
-[Compare across authors](../../compare/?t=film-route-10_912770)
+[Compare across authors](../compare/index.md?t=film-route-10_912770)
 
 ## DD+ 5.1
 

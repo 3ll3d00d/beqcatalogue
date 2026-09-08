@@ -1,6 +1,6 @@
 # Wander
 
-[Compare across authors](../../compare/?t=film-wander_646593)
+[Compare across authors](../compare/index.md?t=film-wander_646593)
 
 ## DD+ 5.1
 

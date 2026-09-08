@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-you-are-my-spring_126698)
+[Compare across authors](../compare/index.md?t=TV-you-are-my-spring_126698)
 
 ## Season 1
 

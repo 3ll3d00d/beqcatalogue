@@ -1,6 +1,6 @@
 # Dobaaraa
 
-[Compare across authors](../../compare/?t=film-dobaaraa_796207)
+[Compare across authors](../compare/index.md?t=film-dobaaraa_796207)
 
 ## DD+ 5.1
 

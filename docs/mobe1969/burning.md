@@ -1,6 +1,6 @@
 # Burning
 
-[Compare across authors](../../compare/?t=film-burning_491584)
+[Compare across authors](../compare/index.md?t=film-burning_491584)
 
 ## DTS-HD MA 5.1
 

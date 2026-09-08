@@ -7,7 +7,7 @@
 When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/799882)  [Compare across authors](../../compare/?t=film-the-bluff_799882)
+[TMDB](https://www.themoviedb.org/movie/799882)  [Compare across authors](../compare/index.md?t=film-the-bluff_799882)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Bluff/The%20Bluff%20(2026)%20DD%2B%205.1.jpg)

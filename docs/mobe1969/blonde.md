@@ -1,6 +1,6 @@
 # Blonde
 
-[Compare across authors](../../compare/?t=film-blonde_301502)
+[Compare across authors](../compare/index.md?t=film-blonde_301502)
 
 ## DD+ Atmos
 

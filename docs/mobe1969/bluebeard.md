@@ -1,6 +1,6 @@
 # Bluebeard
 
-[Compare across authors](../../compare/?t=film-bluebeard_435809)
+[Compare across authors](../compare/index.md?t=film-bluebeard_435809)
 
 ## DTS-X
 

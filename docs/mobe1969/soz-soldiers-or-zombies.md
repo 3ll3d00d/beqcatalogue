@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-soz-soldiers-or-zombies_95281)
+[Compare across authors](../compare/index.md?t=TV-soz-soldiers-or-zombies_95281)
 
 ## Season 1
 

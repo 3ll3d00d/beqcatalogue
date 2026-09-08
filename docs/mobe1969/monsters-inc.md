@@ -1,6 +1,6 @@
 # Monsters, Inc.
 
-[Compare across authors](../../compare/?t=film-monsters-inc_585)
+[Compare across authors](../compare/index.md?t=film-monsters-inc_585)
 
 ## Atmos
 

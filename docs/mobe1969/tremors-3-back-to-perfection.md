@@ -1,6 +1,6 @@
 # Tremors 3: Back to Perfection
 
-[Compare across authors](../../compare/?t=film-tremors-3-back-to-perfection_10829)
+[Compare across authors](../compare/index.md?t=film-tremors-3-back-to-perfection_10829)
 
 ## DTS-HD MA 5.1
 

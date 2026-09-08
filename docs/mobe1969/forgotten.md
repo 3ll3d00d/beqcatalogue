@@ -1,6 +1,6 @@
 # Forgotten
 
-[Compare across authors](../../compare/?t=film-forgotten_488623)
+[Compare across authors](../compare/index.md?t=film-forgotten_488623)
 
 ## DD+ 5.1
 

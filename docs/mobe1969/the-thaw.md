@@ -1,6 +1,6 @@
 # The Thaw
 
-[Compare across authors](../../compare/?t=film-the-thaw_23410)
+[Compare across authors](../compare/index.md?t=film-the-thaw_23410)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-a-gentleman-in-moscow_208942)
+* [Compare across authors](../compare/index.md?t=TV-a-gentleman-in-moscow_208942)
 
 * Production Year: 2024
 

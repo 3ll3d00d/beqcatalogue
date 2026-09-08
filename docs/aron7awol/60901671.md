@@ -1,6 +1,6 @@
 # The Magnificent Seven
 
-[Compare across authors](../../compare/?t=film-the-magnificent-seven_333484)
+[Compare across authors](../compare/index.md?t=film-the-magnificent-seven_333484)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Adipurush
 
-[Compare across authors](../../compare/?t=film-adipurush_734253)
+[Compare across authors](../compare/index.md?t=film-adipurush_734253)
 
 ## DD+ 5.1
 

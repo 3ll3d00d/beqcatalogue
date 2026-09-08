@@ -1,6 +1,6 @@
 # Sonic the Hedgehog 2
 
-[Compare across authors](../../compare/?t=film-sonic-the-hedgehog-2_675353)
+[Compare across authors](../compare/index.md?t=film-sonic-the-hedgehog-2_675353)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # FullMetal Alchemist
 
-[Compare across authors](../../compare/?t=film-fullmetal-alchemist_426285)
+[Compare across authors](../compare/index.md?t=film-fullmetal-alchemist_426285)
 
 ## DD+ 5.1
 

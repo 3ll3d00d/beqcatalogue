@@ -9,7 +9,7 @@ Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62882208)  [TMDB](https://www.themoviedb.org/movie/575264)  [Compare across authors](../../compare/?t=film-mission-impossible-dead-reckoning-part-one_575264)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62882208)  [TMDB](https://www.themoviedb.org/movie/575264)  [Compare across authors](../compare/index.md?t=film-mission-impossible-dead-reckoning-part-one_575264)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/MI%20Dead%20Reckoning%20Pt%201%20(2023)%20(-1%20gain)%20Atmos.jpg)

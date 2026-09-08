@@ -1,6 +1,6 @@
 # Monica, O My Darling
 
-[Compare across authors](../../compare/?t=film-monica-o-my-darling_915831)
+[Compare across authors](../compare/index.md?t=film-monica-o-my-darling_915831)
 
 ## DD+ Atmos
 

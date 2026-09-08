@@ -1,6 +1,6 @@
 # The Clovehitch Killer
 
-[Compare across authors](../../compare/?t=film-the-clovehitch-killer_544431)
+[Compare across authors](../compare/index.md?t=film-the-clovehitch-killer_544431)
 
 ## DD+ 5.1
 

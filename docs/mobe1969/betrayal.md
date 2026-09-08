@@ -1,6 +1,6 @@
 # Betrayal
 
-[Compare across authors](../../compare/?t=film-betrayal_279205)
+[Compare across authors](../compare/index.md?t=film-betrayal_279205)
 
 ## DD+ 5.1
 

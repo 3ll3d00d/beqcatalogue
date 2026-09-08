@@ -1,6 +1,6 @@
 # You're Next
 
-[Compare across authors](../../compare/?t=film-youre-next_83899)
+[Compare across authors](../compare/index.md?t=film-youre-next_83899)
 
 ## DTS-HD MA 5.1
 

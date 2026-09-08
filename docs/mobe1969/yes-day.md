@@ -1,6 +1,6 @@
 # Yes Day
 
-[Compare across authors](../../compare/?t=film-yes-day_638597)
+[Compare across authors](../compare/index.md?t=film-yes-day_638597)
 
 ## DD+ Atmos
 

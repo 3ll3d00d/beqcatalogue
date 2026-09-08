@@ -1,6 +1,6 @@
 # Splinter
 
-[Compare across authors](../../compare/?t=film-splinter_13220)
+[Compare across authors](../compare/index.md?t=film-splinter_13220)
 
 ## DTS-HD MA 5.1
 

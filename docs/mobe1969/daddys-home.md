@@ -1,6 +1,6 @@
 # Daddy's Home
 
-[Compare across authors](../../compare/?t=film-daddys-home_274167)
+[Compare across authors](../compare/index.md?t=film-daddys-home_274167)
 
 ## DTS-X
 

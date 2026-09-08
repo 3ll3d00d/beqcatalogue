@@ -1,6 +1,6 @@
 # The Constable
 
-[Compare across authors](../../compare/?t=film-the-constable_240106)
+[Compare across authors](../compare/index.md?t=film-the-constable_240106)
 
 ## DTS-HD MA 5.1
 

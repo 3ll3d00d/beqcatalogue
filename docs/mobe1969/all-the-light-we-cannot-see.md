@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-all-the-light-we-cannot-see_155421)
+[Compare across authors](../compare/index.md?t=TV-all-the-light-we-cannot-see_155421)
 
 ## Season 1
 

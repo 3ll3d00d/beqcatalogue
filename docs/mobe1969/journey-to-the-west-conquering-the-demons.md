@@ -1,6 +1,6 @@
 # Journey to the West: Conquering the Demons
 
-[Compare across authors](../../compare/?t=film-journey-to-the-west-conquering-the-demons_170657)
+[Compare across authors](../compare/index.md?t=film-journey-to-the-west-conquering-the-demons_170657)
 
 ## DTS-HD MA 5.1
 

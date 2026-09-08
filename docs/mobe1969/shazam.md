@@ -1,6 +1,6 @@
 # Shazam!
 
-[Compare across authors](../../compare/?t=film-shazam_287947)
+[Compare across authors](../compare/index.md?t=film-shazam_287947)
 
 ## Atmos, DD+ Atmos
 

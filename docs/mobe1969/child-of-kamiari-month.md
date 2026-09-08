@@ -1,6 +1,6 @@
 # Child of Kamiari Month
 
-[Compare across authors](../../compare/?t=film-child-of-kamiari-month_628964)
+[Compare across authors](../compare/index.md?t=film-child-of-kamiari-month_628964)
 
 ## DD+ 5.1
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-matlock_226174)
+* [Compare across authors](../compare/index.md?t=TV-matlock_226174)
 
 * Production Year: 2025
 

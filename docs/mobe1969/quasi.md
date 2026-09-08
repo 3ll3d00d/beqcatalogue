@@ -1,6 +1,6 @@
 # Quasi
 
-[Compare across authors](../../compare/?t=film-quasi_893752)
+[Compare across authors](../compare/index.md?t=film-quasi_893752)
 
 ## DD+ 5.1
 

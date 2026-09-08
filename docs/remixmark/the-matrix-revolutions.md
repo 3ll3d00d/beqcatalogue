@@ -9,7 +9,7 @@ The human city of Zion defends itself against the massive invasion of the machin
 
 **MV Adjustment:** -4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1517?post_id=63603455#post-63603455)  [TMDB](https://www.themoviedb.org/movie/605)  [Compare across authors](../../compare/?t=film-the-matrix-revolutions_605)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1517?post_id=63603455#post-63603455)  [TMDB](https://www.themoviedb.org/movie/605)  [Compare across authors](../compare/index.md?t=film-the-matrix-revolutions_605)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Matrix%20Revolutions%20(2003)%20(-4%20gain)%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # 8mm
 
-[Compare across authors](../../compare/?t=film-8mm_8224)
+[Compare across authors](../compare/index.md?t=film-8mm_8224)
 
 ## DTS-HD MA 2.0
 

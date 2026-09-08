@@ -1,6 +1,6 @@
 # The Roundup
 
-[Compare across authors](../../compare/?t=film-the-roundup_619803)
+[Compare across authors](../compare/index.md?t=film-the-roundup_619803)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

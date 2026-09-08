@@ -1,6 +1,6 @@
 # Day of the Dead
 
-[Compare across authors](../../compare/?t=film-day-of-the-dead_13613)
+[Compare across authors](../compare/index.md?t=film-day-of-the-dead_13613)
 
 ## DTS-HD MA 5.1
 

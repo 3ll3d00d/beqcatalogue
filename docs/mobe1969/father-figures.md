@@ -1,6 +1,6 @@
 # Father Figures
 
-[Compare across authors](../../compare/?t=film-father-figures_354861)
+[Compare across authors](../compare/index.md?t=film-father-figures_354861)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Wild At Heart
 
-[Compare across authors](../../compare/?t=film-wild-at-heart_483)
+[Compare across authors](../compare/index.md?t=film-wild-at-heart_483)
 
 ## DTS-HD MA 5.1
 

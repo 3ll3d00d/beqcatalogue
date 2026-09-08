@@ -1,6 +1,6 @@
 # Guest House
 
-[Compare across authors](../../compare/?t=film-guest-house_594084)
+[Compare across authors](../compare/index.md?t=film-guest-house_594084)
 
 ## DD+ 5.1
 

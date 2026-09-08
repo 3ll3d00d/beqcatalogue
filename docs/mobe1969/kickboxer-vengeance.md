@@ -1,6 +1,6 @@
 # Kickboxer: Vengeance
 
-[Compare across authors](../../compare/?t=film-kickboxer-vengeance_308529)
+[Compare across authors](../compare/index.md?t=film-kickboxer-vengeance_308529)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sparta_81007)
+[Compare across authors](../compare/index.md?t=TV-sparta_81007)
 
 ## Season 1
 

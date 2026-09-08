@@ -1,6 +1,6 @@
 # The Silencing
 
-[Compare across authors](../../compare/?t=film-the-silencing_603119)
+[Compare across authors](../compare/index.md?t=film-the-silencing_603119)
 
 ## DTS-HD MA 5.1
 

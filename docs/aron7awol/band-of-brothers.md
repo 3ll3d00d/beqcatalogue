@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-band-of-brothers_4613)
+[Compare across authors](../compare/index.md?t=TV-band-of-brothers_4613)
 
 ## Season 1
 

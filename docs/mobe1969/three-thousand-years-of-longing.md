@@ -1,6 +1,6 @@
 # Three Thousand Years of Longing
 
-[Compare across authors](../../compare/?t=film-three-thousand-years-of-longing_556694)
+[Compare across authors](../compare/index.md?t=film-three-thousand-years-of-longing_556694)
 
 ## Atmos, DD+ 5.1
 

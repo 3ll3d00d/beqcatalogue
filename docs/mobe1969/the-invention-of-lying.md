@@ -1,6 +1,6 @@
 # The Invention of Lying
 
-[Compare across authors](../../compare/?t=film-the-invention-of-lying_23082)
+[Compare across authors](../compare/index.md?t=film-the-invention-of-lying_23082)
 
 ## DTS-HD MA 5.1
 

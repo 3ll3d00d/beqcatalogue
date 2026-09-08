@@ -9,7 +9,7 @@ A man gets lost in an underground passage. He follows the "guide" through the pa
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64458273#post-64458273)  [TMDB](https://www.themoviedb.org/movie/1408208)  [Compare across authors](../../compare/?t=film-exit-8_1408208)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64458273#post-64458273)  [TMDB](https://www.themoviedb.org/movie/1408208)  [Compare across authors](../compare/index.md?t=film-exit-8_1408208)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Exit%208%20(2025)%20(JA)%20DTS-HD%20MA%205.1.jpg)

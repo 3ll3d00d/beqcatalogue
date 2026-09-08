@@ -1,6 +1,6 @@
 # Apollo 13
 
-[Compare across authors](../../compare/?t=film-apollo-13_568)
+[Compare across authors](../compare/index.md?t=film-apollo-13_568)
 
 ## DTS-X
 

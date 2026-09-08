@@ -1,6 +1,6 @@
 # Cleanskin
 
-[Compare across authors](../../compare/?t=film-cleanskin_95516)
+[Compare across authors](../compare/index.md?t=film-cleanskin_95516)
 
 ## DTS-HD MA 5.1
 

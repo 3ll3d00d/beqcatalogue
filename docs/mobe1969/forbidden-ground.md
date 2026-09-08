@@ -1,6 +1,6 @@
 # Forbidden Ground
 
-[Compare across authors](../../compare/?t=film-forbidden-ground_215814)
+[Compare across authors](../compare/index.md?t=film-forbidden-ground_215814)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # X-Men
 
-[Compare across authors](../../compare/?t=film-x-men_36657)
+[Compare across authors](../compare/index.md?t=film-x-men_36657)
 
 ## DTS-HD MA 5.1
 

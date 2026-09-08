@@ -1,6 +1,6 @@
 # Die Hard: With a Vengeance
 
-[Compare across authors](../../compare/?t=film-die-hard-with-a-vengeance_1572)
+[Compare across authors](../compare/index.md?t=film-die-hard-with-a-vengeance_1572)
 
 ## DTS-HD MA 5.1
 

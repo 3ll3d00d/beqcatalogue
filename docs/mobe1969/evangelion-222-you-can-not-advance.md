@@ -1,6 +1,6 @@
 # Evangelion: 2.22 You Can (Not) Advance
 
-[Compare across authors](../../compare/?t=film-evangelion-222-you-can-not-advance_22843)
+[Compare across authors](../compare/index.md?t=film-evangelion-222-you-can-not-advance_22843)
 
 ## TrueHD 6.1
 

@@ -1,6 +1,6 @@
 # Dhoom
 
-[Compare across authors](../../compare/?t=film-dhoom_17478)
+[Compare across authors](../compare/index.md?t=film-dhoom_17478)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Always Shine
 
-[Compare across authors](../../compare/?t=film-always-shine_385737)
+[Compare across authors](../compare/index.md?t=film-always-shine_385737)
 
 ## DD+ 5.1
 

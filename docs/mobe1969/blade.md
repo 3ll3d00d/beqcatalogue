@@ -1,6 +1,6 @@
 # Blade
 
-[Compare across authors](../../compare/?t=film-blade_36647)
+[Compare across authors](../compare/index.md?t=film-blade_36647)
 
 ## Atmos
 

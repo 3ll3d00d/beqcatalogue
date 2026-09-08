@@ -1,6 +1,6 @@
 # Love in the Villa
 
-[Compare across authors](../../compare/?t=film-love-in-the-villa_934756)
+[Compare across authors](../compare/index.md?t=film-love-in-the-villa_934756)
 
 ## DD+ Atmos
 

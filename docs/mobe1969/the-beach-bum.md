@@ -1,6 +1,6 @@
 # The Beach Bum
 
-[Compare across authors](../../compare/?t=film-the-beach-bum_441384)
+[Compare across authors](../compare/index.md?t=film-the-beach-bum_441384)
 
 ## DTS-HD MA 5.1
 

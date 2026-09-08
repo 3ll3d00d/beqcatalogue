@@ -1,6 +1,6 @@
 # Closed Circuit
 
-[Compare across authors](../../compare/?t=film-closed-circuit_146223)
+[Compare across authors](../compare/index.md?t=film-closed-circuit_146223)
 
 ## DTS-HD MA 5.1
 

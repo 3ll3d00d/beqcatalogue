@@ -12,7 +12,7 @@ After an earthquake destroys their underwater station, six researchers must navi
 +9dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/443791)  [Compare across authors](../../compare/?t=film-underwater_443791)
+[TMDB](https://www.themoviedb.org/movie/443791)  [Compare across authors](../compare/index.md?t=film-underwater_443791)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Underwater%20(2020)%20(-2%20gain)%20DD%2B%20Atmos.jpg)

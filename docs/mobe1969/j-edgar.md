@@ -1,6 +1,6 @@
 # J. Edgar
 
-[Compare across authors](../../compare/?t=film-j-edgar_88794)
+[Compare across authors](../compare/index.md?t=film-j-edgar_88794)
 
 ## DTS-HD MA 5.1
 

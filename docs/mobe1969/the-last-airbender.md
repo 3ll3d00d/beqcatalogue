@@ -1,6 +1,6 @@
 # The Last Airbender
 
-[Compare across authors](../../compare/?t=film-the-last-airbender_10196)
+[Compare across authors](../compare/index.md?t=film-the-last-airbender_10196)
 
 ## DTS-HD MA 5.1
 

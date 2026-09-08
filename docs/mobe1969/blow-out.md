@@ -1,6 +1,6 @@
 # Blow Out
 
-[Compare across authors](../../compare/?t=film-blow-out_11644)
+[Compare across authors](../compare/index.md?t=film-blow-out_11644)
 
 ## DTS-HD MA 2.0
 

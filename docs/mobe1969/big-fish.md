@@ -1,6 +1,6 @@
 # Big Fish
 
-[Compare across authors](../../compare/?t=film-big-fish_587)
+[Compare across authors](../compare/index.md?t=film-big-fish_587)
 
 ## Atmos
 

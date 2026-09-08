@@ -1,6 +1,6 @@
 # Koi Jaane Na
 
-[Compare across authors](../../compare/?t=film-koi-jaane-na_794008)
+[Compare across authors](../compare/index.md?t=film-koi-jaane-na_794008)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Hulk
 
-[Compare across authors](../../compare/?t=film-hulk_1927)
+[Compare across authors](../compare/index.md?t=film-hulk_1927)
 
 ## DTS-X
 

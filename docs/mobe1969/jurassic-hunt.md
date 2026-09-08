@@ -1,6 +1,6 @@
 # Jurassic Hunt
 
-[Compare across authors](../../compare/?t=film-jurassic-hunt_848278)
+[Compare across authors](../compare/index.md?t=film-jurassic-hunt_848278)
 
 ## DD+ 5.1
 

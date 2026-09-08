@@ -1,6 +1,6 @@
 # To the Wonder
 
-[Compare across authors](../../compare/?t=film-to-the-wonder_60281)
+[Compare across authors](../compare/index.md?t=film-to-the-wonder_60281)
 
 ## DTS-HD MA 5.1
 

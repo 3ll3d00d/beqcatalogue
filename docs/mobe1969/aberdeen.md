@@ -1,6 +1,6 @@
 # Aberdeen
 
-[Compare across authors](../../compare/?t=film-aberdeen_257642)
+[Compare across authors](../compare/index.md?t=film-aberdeen_257642)
 
 ## TrueHD 5.1
 

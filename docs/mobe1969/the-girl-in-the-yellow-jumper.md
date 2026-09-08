@@ -1,6 +1,6 @@
 # The Girl in the Yellow Jumper
 
-[Compare across authors](../../compare/?t=film-the-girl-in-the-yellow-jumper_881274)
+[Compare across authors](../compare/index.md?t=film-the-girl-in-the-yellow-jumper_881274)
 
 ## DD+ 5.1
 

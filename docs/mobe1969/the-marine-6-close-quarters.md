@@ -1,6 +1,6 @@
 # The Marine 6: Close Quarters
 
-[Compare across authors](../../compare/?t=film-the-marine-6-close-quarters_548928)
+[Compare across authors](../compare/index.md?t=film-the-marine-6-close-quarters_548928)
 
 ## DTS-HD MA 5.1
 

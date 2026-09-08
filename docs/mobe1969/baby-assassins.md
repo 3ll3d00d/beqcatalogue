@@ -1,6 +1,6 @@
 # Baby Assassins
 
-[Compare across authors](../../compare/?t=film-baby-assassins_847143)
+[Compare across authors](../compare/index.md?t=film-baby-assassins_847143)
 
 ## DTS-HD MA 5.1
 

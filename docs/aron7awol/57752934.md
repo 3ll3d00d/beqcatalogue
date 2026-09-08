@@ -1,6 +1,6 @@
 # Road to Perdition
 
-[Compare across authors](../../compare/?t=film-road-to-perdition_4147)
+[Compare across authors](../compare/index.md?t=film-road-to-perdition_4147)
 
 ## DTS-HD MA 5.1
 

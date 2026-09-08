@@ -9,7 +9,7 @@ After a chance encounter, headstrong Kathy is drawn to Benny, member of Midweste
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1565?post_id=63877984#post-63877984)  [TMDB](https://www.themoviedb.org/movie/1008409)  [Compare across authors](../../compare/?t=film-the-bikeriders_1008409)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1565?post_id=63877984#post-63877984)  [TMDB](https://www.themoviedb.org/movie/1008409)  [Compare across authors](../compare/index.md?t=film-the-bikeriders_1008409)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Bikeriders%20(2024)%20(%2B2.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ After a chance encounter, headstrong Kathy is drawn to Benny, member of Midweste
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1486?post_id=63455408#post-63455408)  [TMDB](https://www.themoviedb.org/movie/1008409)  [Compare across authors](../../compare/?t=film-the-bikeriders_1008409)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1486?post_id=63455408#post-63455408)  [TMDB](https://www.themoviedb.org/movie/1008409)  [Compare across authors](../compare/index.md?t=film-the-bikeriders_1008409)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/The%20Bikeriders%20(2024)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)

@@ -9,7 +9,7 @@ When a group of radical activists take over an energy company's annual gala, sei
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1574?post_id=63931463#post-63931463)  [TMDB](https://www.themoviedb.org/movie/1125899)  [Compare across authors](../../compare/?t=film-cleaner_1125899)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1574?post_id=63931463#post-63931463)  [TMDB](https://www.themoviedb.org/movie/1125899)  [Compare across authors](../compare/index.md?t=film-cleaner_1125899)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cleaner%20(2025)%20(%2B4%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ When a group of radical activists take over an energy company's annual gala, sei
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1639?post_id=64171479#post-64171479)  [TMDB](https://www.themoviedb.org/movie/1125899)  [Compare across authors](../../compare/?t=film-cleaner_1125899)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1639?post_id=64171479#post-64171479)  [TMDB](https://www.themoviedb.org/movie/1125899)  [Compare across authors](../compare/index.md?t=film-cleaner_1125899)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cleaner%20(2025)%20(%2B5.5%20gain)%20DTS-HD%20MA%205.1.jpg)

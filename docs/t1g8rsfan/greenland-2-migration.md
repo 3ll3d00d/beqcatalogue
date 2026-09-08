@@ -12,7 +12,7 @@ Having found the safety of the Greenland bunker after the comet Clarke decimated
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/840464)  [Compare across authors](../../compare/?t=film-greenland-2-migration_840464)
+[TMDB](https://www.themoviedb.org/movie/840464)  [Compare across authors](../compare/index.md?t=film-greenland-2-migration_840464)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Greenland%202%20(2026)%20(%2B3.5%20gain)%20DD%2B%20Atmos.jpg)

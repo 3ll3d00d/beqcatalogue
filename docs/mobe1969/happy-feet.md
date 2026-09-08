@@ -1,6 +1,6 @@
 # Happy Feet
 
-[Compare across authors](../../compare/?t=film-happy-feet_9836)
+[Compare across authors](../compare/index.md?t=film-happy-feet_9836)
 
 ## DD+ 5.1, DD 5.1
 

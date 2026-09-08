@@ -1,6 +1,6 @@
 # State of Play
 
-[Compare across authors](../../compare/?t=film-state-of-play_16995)
+[Compare across authors](../compare/index.md?t=film-state-of-play_16995)
 
 ## DTS-HD MA 5.1
 

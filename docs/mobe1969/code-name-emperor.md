@@ -1,6 +1,6 @@
 # Code Name: Emperor
 
-[Compare across authors](../../compare/?t=film-code-name-emperor_769636)
+[Compare across authors](../compare/index.md?t=film-code-name-emperor_769636)
 
 ## DD+ 5.1
 

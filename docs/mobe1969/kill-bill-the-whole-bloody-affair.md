@@ -1,6 +1,6 @@
 # Kill Bill: The Whole Bloody Affair
 
-[Compare across authors](../../compare/?t=film-kill-bill-the-whole-bloody-affair_414419)
+[Compare across authors](../compare/index.md?t=film-kill-bill-the-whole-bloody-affair_414419)
 
 ## DD 5.1
 

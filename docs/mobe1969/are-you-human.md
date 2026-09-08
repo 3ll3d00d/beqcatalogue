@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-are-you-human_72548)
+[Compare across authors](../compare/index.md?t=TV-are-you-human_72548)
 
 ## Season 1
 

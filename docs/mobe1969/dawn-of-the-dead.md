@@ -1,6 +1,6 @@
 # Dawn of the Dead
 
-[Compare across authors](../../compare/?t=film-dawn-of-the-dead_924)
+[Compare across authors](../compare/index.md?t=film-dawn-of-the-dead_924)
 
 ## DTS-HD MA 5.1
 

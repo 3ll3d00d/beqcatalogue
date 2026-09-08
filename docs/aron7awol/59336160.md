@@ -1,6 +1,6 @@
 # A Bug's Life
 
-[Compare across authors](../../compare/?t=film-a-bugs-life_9487)
+[Compare across authors](../compare/index.md?t=film-a-bugs-life_9487)
 
 ## Atmos
 

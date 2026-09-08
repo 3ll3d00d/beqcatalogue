@@ -1,6 +1,6 @@
 # Appendage
 
-[Compare across authors](../../compare/?t=film-appendage_1081662)
+[Compare across authors](../compare/index.md?t=film-appendage_1081662)
 
 ## DD+ 5.1
 

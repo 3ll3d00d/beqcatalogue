@@ -1,6 +1,6 @@
 # Ghost in the Shell: The New Movie
 
-[Compare across authors](../../compare/?t=film-ghost-in-the-shell-the-new-movie_334376)
+[Compare across authors](../compare/index.md?t=film-ghost-in-the-shell-the-new-movie_334376)
 
 ## TrueHD 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-outlaws_136044)
+[Compare across authors](../compare/index.md?t=TV-the-outlaws_136044)
 
 ## Season 1
 

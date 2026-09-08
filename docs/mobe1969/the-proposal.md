@@ -1,6 +1,6 @@
 # The Proposal
 
-[Compare across authors](../../compare/?t=film-the-proposal_18240)
+[Compare across authors](../compare/index.md?t=film-the-proposal_18240)
 
 ## DTS-HD MA 5.1
 

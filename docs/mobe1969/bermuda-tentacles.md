@@ -1,6 +1,6 @@
 # Bermuda Tentacles
 
-[Compare across authors](../../compare/?t=film-bermuda-tentacles_260372)
+[Compare across authors](../compare/index.md?t=film-bermuda-tentacles_260372)
 
 ## DD+ 5.1
 

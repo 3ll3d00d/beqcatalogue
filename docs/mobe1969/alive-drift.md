@@ -1,6 +1,6 @@
 # Alive Drift
 
-[Compare across authors](../../compare/?t=film-alive-drift_983866)
+[Compare across authors](../compare/index.md?t=film-alive-drift_983866)
 
 ## DD+ 5.1
 

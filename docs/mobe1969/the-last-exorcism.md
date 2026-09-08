@@ -1,6 +1,6 @@
 # The Last Exorcism
 
-[Compare across authors](../../compare/?t=film-the-last-exorcism_38358)
+[Compare across authors](../compare/index.md?t=film-the-last-exorcism_38358)
 
 ## DTS-HD MA 5.1
 

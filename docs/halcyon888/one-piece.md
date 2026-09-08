@@ -14,7 +14,7 @@ Dialnorm Compensation: E01-E02 +6dB, E08 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62789152)
 
-* [Compare across authors](../../compare/?t=TV-one-piece_111110)
+* [Compare across authors](../compare/index.md?t=TV-one-piece_111110)
 
 * Production Year: 2023
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: E03 +3dB, E06 +5dB, E07 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62789152)
 
-* [Compare across authors](../../compare/?t=TV-one-piece_111110)
+* [Compare across authors](../compare/index.md?t=TV-one-piece_111110)
 
 * Production Year: 2023
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: E04 +6dB, E05 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62789152)
 
-* [Compare across authors](../../compare/?t=TV-one-piece_111110)
+* [Compare across authors](../compare/index.md?t=TV-one-piece_111110)
 
 * Production Year: 2023
 

@@ -1,6 +1,6 @@
 # The School for Good and Evil
 
-[Compare across authors](../../compare/?t=film-the-school-for-good-and-evil_779782)
+[Compare across authors](../compare/index.md?t=film-the-school-for-good-and-evil_779782)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Special Correspondents
 
-[Compare across authors](../../compare/?t=film-special-correspondents_355008)
+[Compare across authors](../compare/index.md?t=film-special-correspondents_355008)
 
 ## DD+ 5.1
 

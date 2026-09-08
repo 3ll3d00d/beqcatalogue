@@ -1,6 +1,6 @@
 # Big Kill
 
-[Compare across authors](../../compare/?t=film-big-kill_524124)
+[Compare across authors](../compare/index.md?t=film-big-kill_524124)
 
 ## DTS-HD MA 5.1
 

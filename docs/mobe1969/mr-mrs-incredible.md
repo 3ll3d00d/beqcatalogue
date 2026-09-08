@@ -1,6 +1,6 @@
 # Mr. & Mrs. Incredible
 
-[Compare across authors](../../compare/?t=film-mr-mrs-incredible_59499)
+[Compare across authors](../compare/index.md?t=film-mr-mrs-incredible_59499)
 
 ## TrueHD 5.1
 

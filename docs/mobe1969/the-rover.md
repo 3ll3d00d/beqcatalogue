@@ -1,6 +1,6 @@
 # The Rover
 
-[Compare across authors](../../compare/?t=film-the-rover_157845)
+[Compare across authors](../compare/index.md?t=film-the-rover_157845)
 
 ## DTS-HD MA 5.1
 

@@ -9,7 +9,7 @@ After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Bei
 
 **MV Adjustment:** +3.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/1011477)  [Compare across authors](../../compare/?t=film-karate-kid-legends_1011477)
+[TMDB](https://www.themoviedb.org/movie/1011477)  [Compare across authors](../compare/index.md?t=film-karate-kid-legends_1011477)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Karate%20Kid%20Legends%20(2025)%20(%2B3.5%20gain)%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # The Expendables 3
 
-[Compare across authors](../../compare/?t=film-the-expendables-3_138103)
+[Compare across authors](../compare/index.md?t=film-the-expendables-3_138103)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Scary Bride
 
-[Compare across authors](../../compare/?t=film-scary-bride_752834)
+[Compare across authors](../compare/index.md?t=film-scary-bride_752834)
 
 ## DD+ 5.1
 

@@ -9,7 +9,7 @@ Greg Heffley is headed for big things, but first he has to survive the scariest,
 
 **MV Adjustment:** +7.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64320210#post-64320210)  [TMDB](https://www.themoviedb.org/movie/33217)  [Compare across authors](../../compare/?t=film-diary-of-a-wimpy-kid_33217)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64320210#post-64320210)  [TMDB](https://www.themoviedb.org/movie/33217)  [Compare across authors](../compare/index.md?t=film-diary-of-a-wimpy-kid_33217)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Diary%20of%20a%20Wimpy%20Kid%20(2010)%20(%2B7.5%20gain)%20DTS-HD%20MA%205.1.jpg)

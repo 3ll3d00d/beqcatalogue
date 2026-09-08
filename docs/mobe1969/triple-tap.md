@@ -1,6 +1,6 @@
 # Triple Tap
 
-[Compare across authors](../../compare/?t=film-triple-tap_44245)
+[Compare across authors](../compare/index.md?t=film-triple-tap_44245)
 
 ## DTS-HD MA 5.1
 

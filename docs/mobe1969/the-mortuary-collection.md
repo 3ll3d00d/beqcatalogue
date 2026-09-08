@@ -1,6 +1,6 @@
 # The Mortuary Collection
 
-[Compare across authors](../../compare/?t=film-the-mortuary-collection_524216)
+[Compare across authors](../compare/index.md?t=film-the-mortuary-collection_524216)
 
 ## DTS-HD MA 5.1
 

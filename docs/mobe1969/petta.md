@@ -1,6 +1,6 @@
 # Petta
 
-[Compare across authors](../../compare/?t=film-petta_534993)
+[Compare across authors](../compare/index.md?t=film-petta_534993)
 
 ## DD+ 5.1
 

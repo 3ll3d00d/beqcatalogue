@@ -1,6 +1,6 @@
 # Infamous
 
-[Compare across authors](../../compare/?t=film-infamous_703134)
+[Compare across authors](../compare/index.md?t=film-infamous_703134)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Transporter
 
-[Compare across authors](../../compare/?t=film-the-transporter_4108)
+[Compare across authors](../compare/index.md?t=film-the-transporter_4108)
 
 ## DD+ 5.1
 

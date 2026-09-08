@@ -1,6 +1,6 @@
 # The System
 
-[Compare across authors](../../compare/?t=film-the-system_1024627)
+[Compare across authors](../compare/index.md?t=film-the-system_1024627)
 
 ## DD+ 5.1
 

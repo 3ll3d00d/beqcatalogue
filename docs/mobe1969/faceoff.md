@@ -1,6 +1,6 @@
 # Face/Off
 
-[Compare across authors](../../compare/?t=film-faceoff_754)
+[Compare across authors](../compare/index.md?t=film-faceoff_754)
 
 ## DD 5.1
 

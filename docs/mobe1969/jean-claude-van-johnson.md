@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-jean-claude-van-johnson_67497)
+[Compare across authors](../compare/index.md?t=TV-jean-claude-van-johnson_67497)
 
 ## Season 1
 

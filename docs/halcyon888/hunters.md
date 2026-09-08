@@ -11,7 +11,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62683661)
 
-* [Compare across authors](../../compare/?t=TV-hunters_79622)
+* [Compare across authors](../compare/index.md?t=TV-hunters_79622)
 
 * Production Year: 2023
 

@@ -1,6 +1,6 @@
 # Roman J. Israel, Esq.
 
-[Compare across authors](../../compare/?t=film-roman-j-israel-esq_413362)
+[Compare across authors](../compare/index.md?t=film-roman-j-israel-esq_413362)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # A Better Tomorrow III
 
-[Compare across authors](../../compare/?t=film-a-better-tomorrow-iii_41244)
+[Compare across authors](../compare/index.md?t=film-a-better-tomorrow-iii_41244)
 
 ## DTS-HD MA 7.1
 

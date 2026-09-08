@@ -1,6 +1,6 @@
 # Gun Shy
 
-[Compare across authors](../../compare/?t=film-gun-shy_430682)
+[Compare across authors](../compare/index.md?t=film-gun-shy_430682)
 
 ## DTS-HD MA 5.1
 

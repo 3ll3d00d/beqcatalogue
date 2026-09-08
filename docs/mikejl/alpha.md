@@ -7,7 +7,7 @@
 When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1122030)  [Compare across authors](../../compare/?t=film-alpha_1122030)
+[TMDB](https://www.themoviedb.org/movie/1122030)  [Compare across authors](../compare/index.md?t=film-alpha_1122030)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Alpha/Alpha%20(2026)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # Kannai Nambathe
 
-[Compare across authors](../../compare/?t=film-kannai-nambathe_904717)
+[Compare across authors](../compare/index.md?t=film-kannai-nambathe_904717)
 
 ## DD+ 5.1
 

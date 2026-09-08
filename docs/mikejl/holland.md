@@ -7,7 +7,7 @@
 Teacher Nancy's life with her husband in Holland, Michigan, tumbles into a twisted tale when she and a colleague become suspicious of a secret.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/257094)  [Compare across authors](../../compare/?t=film-holland_257094)
+[TMDB](https://www.themoviedb.org/movie/257094)  [Compare across authors](../compare/index.md?t=film-holland_257094)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Holland/Holland%20(2025)%20DD%2B%20Atmos.jpg)

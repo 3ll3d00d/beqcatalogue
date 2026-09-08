@@ -1,6 +1,6 @@
 # Dungeons & Dragons: Honor Among Thieves
 
-[Compare across authors](../../compare/?t=film-dungeons-dragons-honor-among-thieves_493529)
+[Compare across authors](../compare/index.md?t=film-dungeons-dragons-honor-among-thieves_493529)
 
 ## Atmos
 

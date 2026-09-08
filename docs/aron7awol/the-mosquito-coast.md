@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-mosquito-coast_93716)
+[Compare across authors](../compare/index.md?t=TV-the-mosquito-coast_93716)
 
 ## Season 1
 

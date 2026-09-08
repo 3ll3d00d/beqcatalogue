@@ -1,6 +1,6 @@
 # The Knight of Shadows: Between Yin and Yang
 
-[Compare across authors](../../compare/?t=film-the-knight-of-shadows-between-yin-and-yang_512901)
+[Compare across authors](../compare/index.md?t=film-the-knight-of-shadows-between-yin-and-yang_512901)
 
 ## DD+ 5.1
 

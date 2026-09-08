@@ -1,6 +1,6 @@
 # Beverly Hills Cop III
 
-[Compare across authors](../../compare/?t=film-beverly-hills-cop-iii_306)
+[Compare across authors](../compare/index.md?t=film-beverly-hills-cop-iii_306)
 
 ## DTS-HD MA 5.1
 

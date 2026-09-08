@@ -12,7 +12,7 @@ In the city of Oedo 2808a.d., three Cyber criminals are given two choices, to ei
 Bit rate: 814 kb/s
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64294480#post-64294480)  [TMDB](https://www.themoviedb.org/movie/97187)  [Compare across authors](../../compare/?t=film-cyber-city-oedo-808_97187)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64294480#post-64294480)  [TMDB](https://www.themoviedb.org/movie/97187)  [Compare across authors](../compare/index.md?t=film-cyber-city-oedo-808_97187)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyber%20City%20Oedo%20808%20(1990)%20(%2B3%20gain)%20DTS-HD%20MA%202.0.jpg)
@@ -31,7 +31,7 @@ In the city of Oedo 2808a.d., three Cyber criminals are given two choices, to ei
 Bitrate: 1,124 kb/s
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64294508#post-64294508)  [TMDB](https://www.themoviedb.org/movie/97187)  [Compare across authors](../../compare/?t=film-cyber-city-oedo-808_97187)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64294508#post-64294508)  [TMDB](https://www.themoviedb.org/movie/97187)  [Compare across authors](../compare/index.md?t=film-cyber-city-oedo-808_97187)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyber%20City%20Oedo%20808%20(1990)%20(%2B5.5%20gain)%20DTS-HD%20MA%202.0.jpg)

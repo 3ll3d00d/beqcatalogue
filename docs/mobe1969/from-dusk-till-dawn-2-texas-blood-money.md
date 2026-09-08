@@ -1,6 +1,6 @@
 # From Dusk Till Dawn 2: Texas Blood Money
 
-[Compare across authors](../../compare/?t=film-from-dusk-till-dawn-2-texas-blood-money_12095)
+[Compare across authors](../compare/index.md?t=film-from-dusk-till-dawn-2-texas-blood-money_12095)
 
 ## DTS-HD MA 5.1
 

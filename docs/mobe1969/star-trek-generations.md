@@ -1,6 +1,6 @@
 # Star Trek: Generations
 
-[Compare across authors](../../compare/?t=film-star-trek-generations_193)
+[Compare across authors](../compare/index.md?t=film-star-trek-generations_193)
 
 ## TrueHD 5.1
 

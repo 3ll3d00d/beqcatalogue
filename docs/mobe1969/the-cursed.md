@@ -1,6 +1,6 @@
 # The Cursed
 
-[Compare across authors](../../compare/?t=film-the-cursed_630392)
+[Compare across authors](../compare/index.md?t=film-the-cursed_630392)
 
 ## DTS-HD MA 5.1
 

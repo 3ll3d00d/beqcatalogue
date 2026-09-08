@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-amazing-stories_98178)
+[Compare across authors](../compare/index.md?t=TV-amazing-stories_98178)
 
 ## Season 1
 

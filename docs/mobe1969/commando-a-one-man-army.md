@@ -1,6 +1,6 @@
 # Commando - A One Man Army
 
-[Compare across authors](../../compare/?t=film-commando-a-one-man-army_185640)
+[Compare across authors](../compare/index.md?t=film-commando-a-one-man-army_185640)
 
 ## DTS-HD MA 5.1
 

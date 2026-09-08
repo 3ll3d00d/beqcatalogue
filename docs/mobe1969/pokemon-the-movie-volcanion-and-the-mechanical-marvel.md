@@ -1,6 +1,6 @@
 # Pokémon the Movie: Volcanion and the Mechanical Marvel
 
-[Compare across authors](../../compare/?t=film-pokemon-the-movie-volcanion-and-the-mechanical-marvel_382190)
+[Compare across authors](../compare/index.md?t=film-pokemon-the-movie-volcanion-and-the-mechanical-marvel_382190)
 
 ## DTS-HD MA 5.1
 

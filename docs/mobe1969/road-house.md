@@ -1,6 +1,6 @@
 # Road House
 
-[Compare across authors](../../compare/?t=film-road-house_10135)
+[Compare across authors](../compare/index.md?t=film-road-house_10135)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Gangster's Paradise: Jerusalema
 
-[Compare across authors](../../compare/?t=film-gangsters-paradise-jerusalema_22600)
+[Compare across authors](../compare/index.md?t=film-gangsters-paradise-jerusalema_22600)
 
 ## DD+ 5.1
 

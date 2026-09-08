@@ -1,6 +1,6 @@
 # Ghost in the Shell Arise - Border 5: Pyrophoric Cult
 
-[Compare across authors](../../compare/?t=film-ghost-in-the-shell-arise-border-5-pyrophoric-cult_802809)
+[Compare across authors](../compare/index.md?t=film-ghost-in-the-shell-arise-border-5-pyrophoric-cult_802809)
 
 ## TrueHD 5.1
 

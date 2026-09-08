@@ -1,6 +1,6 @@
 # Tiger Cage II
 
-[Compare across authors](../../compare/?t=film-tiger-cage-ii_58412)
+[Compare across authors](../compare/index.md?t=film-tiger-cage-ii_58412)
 
 ## LPCM 2.0
 

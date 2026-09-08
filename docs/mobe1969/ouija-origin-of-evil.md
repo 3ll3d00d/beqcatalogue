@@ -1,6 +1,6 @@
 # Ouija: Origin of Evil
 
-[Compare across authors](../../compare/?t=film-ouija-origin-of-evil_335796)
+[Compare across authors](../compare/index.md?t=film-ouija-origin-of-evil_335796)
 
 ## DTS-HD MA 5.1
 

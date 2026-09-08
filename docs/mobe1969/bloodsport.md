@@ -1,6 +1,6 @@
 # Bloodsport
 
-[Compare across authors](../../compare/?t=film-bloodsport_11690)
+[Compare across authors](../compare/index.md?t=film-bloodsport_11690)
 
 ## Atmos
 

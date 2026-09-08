@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-she-hulk-attorney-at-law_92783)
+[Compare across authors](../compare/index.md?t=TV-she-hulk-attorney-at-law_92783)
 
 ## Season 1 Episode 1
 

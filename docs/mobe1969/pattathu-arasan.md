@@ -1,6 +1,6 @@
 # Pattathu Arasan
 
-[Compare across authors](../../compare/?t=film-pattathu-arasan_1046902)
+[Compare across authors](../compare/index.md?t=film-pattathu-arasan_1046902)
 
 ## DD+ 5.1
 

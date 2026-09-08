@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ludik_206910)
+[Compare across authors](../compare/index.md?t=TV-ludik_206910)
 
 ## Season 1
 

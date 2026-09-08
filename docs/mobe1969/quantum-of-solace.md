@@ -1,6 +1,6 @@
 # Quantum of Solace
 
-[Compare across authors](../../compare/?t=film-quantum-of-solace_10764)
+[Compare across authors](../compare/index.md?t=film-quantum-of-solace_10764)
 
 ## DD+ 5.1
 

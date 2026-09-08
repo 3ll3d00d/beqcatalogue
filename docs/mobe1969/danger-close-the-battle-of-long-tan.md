@@ -1,6 +1,6 @@
 # Danger Close: The Battle of Long Tan
 
-[Compare across authors](../../compare/?t=film-danger-close-the-battle-of-long-tan_508664)
+[Compare across authors](../compare/index.md?t=film-danger-close-the-battle-of-long-tan_508664)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

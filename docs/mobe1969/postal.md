@@ -1,6 +1,6 @@
 # Postal
 
-[Compare across authors](../../compare/?t=film-postal_2728)
+[Compare across authors](../compare/index.md?t=film-postal_2728)
 
 ## DTS-HD MA 5.1
 

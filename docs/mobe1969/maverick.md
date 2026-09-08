@@ -1,6 +1,6 @@
 # Maverick
 
-[Compare across authors](../../compare/?t=film-maverick_9359)
+[Compare across authors](../compare/index.md?t=film-maverick_9359)
 
 ## DTS-HD MA 2.0
 

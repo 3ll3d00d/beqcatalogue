@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-goedam_107851)
+[Compare across authors](../compare/index.md?t=TV-goedam_107851)
 
 ## Season 1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-scams_94830)
+[Compare across authors](../compare/index.md?t=TV-scams_94830)
 
 ## Season 1
 

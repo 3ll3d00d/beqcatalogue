@@ -1,6 +1,6 @@
 # The Stepfather
 
-[Compare across authors](../../compare/?t=film-the-stepfather_19904)
+[Compare across authors](../compare/index.md?t=film-the-stepfather_19904)
 
 ## DTS-HD MA 5.1
 

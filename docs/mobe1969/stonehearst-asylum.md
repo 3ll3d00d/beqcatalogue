@@ -1,6 +1,6 @@
 # Stonehearst Asylum
 
-[Compare across authors](../../compare/?t=film-stonehearst-asylum_207933)
+[Compare across authors](../compare/index.md?t=film-stonehearst-asylum_207933)
 
 ## TrueHD 5.1
 

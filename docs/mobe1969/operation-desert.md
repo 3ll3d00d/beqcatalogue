@@ -1,6 +1,6 @@
 # Operation Desert
 
-[Compare across authors](../../compare/?t=film-operation-desert_14878)
+[Compare across authors](../compare/index.md?t=film-operation-desert_14878)
 
 ## DTS-HD MA 5.1
 

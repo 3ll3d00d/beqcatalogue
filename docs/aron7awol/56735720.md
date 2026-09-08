@@ -1,6 +1,6 @@
 # Black Panther
 
-[Compare across authors](../../compare/?t=film-black-panther_284054)
+[Compare across authors](../compare/index.md?t=film-black-panther_284054)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Talk to Me
 
-[Compare across authors](../../compare/?t=film-talk-to-me_1008042)
+[Compare across authors](../compare/index.md?t=film-talk-to-me_1008042)
 
 ## Atmos
 

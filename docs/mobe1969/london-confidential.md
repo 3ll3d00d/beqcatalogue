@@ -1,6 +1,6 @@
 # London Confidential
 
-[Compare across authors](../../compare/?t=film-london-confidential_734819)
+[Compare across authors](../compare/index.md?t=film-london-confidential_734819)
 
 ## DD+ 5.1
 

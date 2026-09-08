@@ -1,6 +1,6 @@
 # Broad Peak
 
-[Compare across authors](../../compare/?t=film-broad-peak_999127)
+[Compare across authors](../compare/index.md?t=film-broad-peak_999127)
 
 ## DD+ Atmos
 

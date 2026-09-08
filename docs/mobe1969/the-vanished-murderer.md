@@ -1,6 +1,6 @@
 # The Vanished Murderer
 
-[Compare across authors](../../compare/?t=film-the-vanished-murderer_373067)
+[Compare across authors](../compare/index.md?t=film-the-vanished-murderer_373067)
 
 ## TrueHD 7.1
 

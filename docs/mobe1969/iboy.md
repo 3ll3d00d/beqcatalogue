@@ -1,6 +1,6 @@
 # iBOY
 
-[Compare across authors](../../compare/?t=film-iboy_414190)
+[Compare across authors](../compare/index.md?t=film-iboy_414190)
 
 ## DD+ 5.1
 

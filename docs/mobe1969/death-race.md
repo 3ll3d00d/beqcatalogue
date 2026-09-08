@@ -1,6 +1,6 @@
 # Death Race
 
-[Compare across authors](../../compare/?t=film-death-race_10483)
+[Compare across authors](../compare/index.md?t=film-death-race_10483)
 
 ## DTS-HD MA 5.1
 

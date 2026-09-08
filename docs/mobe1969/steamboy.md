@@ -1,6 +1,6 @@
 # Steamboy
 
-[Compare across authors](../../compare/?t=film-steamboy_8953)
+[Compare across authors](../compare/index.md?t=film-steamboy_8953)
 
 ## DTS-HD MA 5.1
 

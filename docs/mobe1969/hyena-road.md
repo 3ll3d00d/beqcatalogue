@@ -1,6 +1,6 @@
 # Hyena Road
 
-[Compare across authors](../../compare/?t=film-hyena-road_316042)
+[Compare across authors](../compare/index.md?t=film-hyena-road_316042)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

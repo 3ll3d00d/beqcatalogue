@@ -1,6 +1,6 @@
 # Parmanu: The Story of Pokhran
 
-[Compare across authors](../../compare/?t=film-parmanu-the-story-of-pokhran_465642)
+[Compare across authors](../compare/index.md?t=film-parmanu-the-story-of-pokhran_465642)
 
 ## AAC 2.0
 

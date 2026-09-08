@@ -1,6 +1,6 @@
 # Bull
 
-[Compare across authors](../../compare/?t=film-bull_821792)
+[Compare across authors](../compare/index.md?t=film-bull_821792)
 
 ## DD+ 5.1
 

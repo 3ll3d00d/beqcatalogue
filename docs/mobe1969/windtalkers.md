@@ -1,6 +1,6 @@
 # Windtalkers
 
-[Compare across authors](../../compare/?t=film-windtalkers_12100)
+[Compare across authors](../compare/index.md?t=film-windtalkers_12100)
 
 ## DD 5.1
 

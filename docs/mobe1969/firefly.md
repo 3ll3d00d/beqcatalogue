@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-firefly_1437)
+[Compare across authors](../compare/index.md?t=TV-firefly_1437)
 
 ## Season 1 Episode 1
 

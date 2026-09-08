@@ -1,6 +1,6 @@
 # Atomic Blonde
 
-[Compare across authors](../../compare/?t=film-atomic-blonde_341013)
+[Compare across authors](../compare/index.md?t=film-atomic-blonde_341013)
 
 ## DTS-HD MA 5.1
 

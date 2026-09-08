@@ -9,7 +9,7 @@ Billy Madison is the 27 year-old son of Bryan Madison, a very rich man who has m
 
 **MV Adjustment:** +6.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1617?post_id=64097022#post-64097022)  [TMDB](https://www.themoviedb.org/movie/11017)  [Compare across authors](../../compare/?t=film-billy-madison_11017)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1617?post_id=64097022#post-64097022)  [TMDB](https://www.themoviedb.org/movie/11017)  [Compare across authors](../compare/index.md?t=film-billy-madison_11017)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Billy%20Madison%20(1995)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1.jpg)
@@ -27,7 +27,7 @@ Billy Madison is the 27 year-old son of Bryan Madison, a very rich man who has m
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1627?post_id=64143897#post-64143897)  [TMDB](https://www.themoviedb.org/movie/11017)  [Compare across authors](../../compare/?t=film-billy-madison_11017)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1627?post_id=64143897#post-64143897)  [TMDB](https://www.themoviedb.org/movie/11017)  [Compare across authors](../compare/index.md?t=film-billy-madison_11017)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Happy%20Gilmore%20(1996)%20(%2B5.5%20gain)%20UHD%20DTS-HD%20MA%205.1.jpg)

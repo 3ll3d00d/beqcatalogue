@@ -1,6 +1,6 @@
 # Kill List
 
-[Compare across authors](../../compare/?t=film-kill-list_74725)
+[Compare across authors](../compare/index.md?t=film-kill-list_74725)
 
 ## DTS-HD MA 5.1
 

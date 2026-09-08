@@ -1,6 +1,6 @@
 # Commando 2 -  The Black Money Trail
 
-[Compare across authors](../../compare/?t=film-commando-2-the-black-money-trail_444713)
+[Compare across authors](../compare/index.md?t=film-commando-2-the-black-money-trail_444713)
 
 ## DD 5.1
 

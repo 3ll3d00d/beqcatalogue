@@ -1,6 +1,6 @@
 # Bandit
 
-[Compare across authors](../../compare/?t=film-bandit_842942)
+[Compare across authors](../compare/index.md?t=film-bandit_842942)
 
 ## DD+ 5.1
 

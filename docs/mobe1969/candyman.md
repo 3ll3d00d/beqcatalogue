@@ -1,6 +1,6 @@
 # Candyman
 
-[Compare across authors](../../compare/?t=film-candyman_9529)
+[Compare across authors](../compare/index.md?t=film-candyman_9529)
 
 ## Atmos
 

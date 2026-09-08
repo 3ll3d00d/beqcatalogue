@@ -1,6 +1,6 @@
 # Firestorm
 
-[Compare across authors](../../compare/?t=film-firestorm_244114)
+[Compare across authors](../compare/index.md?t=film-firestorm_244114)
 
 ## TrueHD 7.1
 

@@ -1,6 +1,6 @@
 # JCVD
 
-[Compare across authors](../../compare/?t=film-jcvd_13672)
+[Compare across authors](../compare/index.md?t=film-jcvd_13672)
 
 ## TrueHD 5.1
 

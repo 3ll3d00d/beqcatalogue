@@ -7,7 +7,7 @@
 John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garritys experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/524047)  [Compare across authors](../../compare/?t=film-greenland_524047)
+[TMDB](https://www.themoviedb.org/movie/524047)  [Compare across authors](../compare/index.md?t=film-greenland_524047)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Greenland/Greenland%20(2020)%20Atmos.jpg)
@@ -21,7 +21,7 @@ John Garrity, his estranged wife and their young son embark on a perilous journe
 John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garritys experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/524047)  [Compare across authors](../../compare/?t=film-greenland_524047)
+[TMDB](https://www.themoviedb.org/movie/524047)  [Compare across authors](../compare/index.md?t=film-greenland_524047)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Greenland/Greenland%20(2020)%20DTS-HD%20MA%205.1.jpg)

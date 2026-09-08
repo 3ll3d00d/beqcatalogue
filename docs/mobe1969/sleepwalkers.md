@@ -1,6 +1,6 @@
 # Sleepwalkers
 
-[Compare across authors](../../compare/?t=film-sleepwalkers_11428)
+[Compare across authors](../compare/index.md?t=film-sleepwalkers_11428)
 
 ## DTS-HD MA 2.0
 

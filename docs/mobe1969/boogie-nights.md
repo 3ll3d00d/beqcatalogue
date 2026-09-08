@@ -1,6 +1,6 @@
 # Boogie Nights
 
-[Compare across authors](../../compare/?t=film-boogie-nights_940164)
+[Compare across authors](../compare/index.md?t=film-boogie-nights_940164)
 
 ## DD+ 5.1
 

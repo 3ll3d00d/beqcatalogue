@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-home-before-dark_98161)
+[Compare across authors](../compare/index.md?t=TV-home-before-dark_98161)
 
 ## Season 1
 

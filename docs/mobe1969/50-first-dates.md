@@ -1,6 +1,6 @@
 # 50 First Dates
 
-[Compare across authors](../../compare/?t=film-50-first-dates_1824)
+[Compare across authors](../compare/index.md?t=film-50-first-dates_1824)
 
 ## DD 5.1
 

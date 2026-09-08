@@ -1,6 +1,6 @@
 # Superman III
 
-[Compare across authors](../../compare/?t=film-superman-iii_9531)
+[Compare across authors](../compare/index.md?t=film-superman-iii_9531)
 
 ## Atmos
 

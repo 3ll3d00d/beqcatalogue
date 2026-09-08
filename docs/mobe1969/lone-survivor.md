@@ -1,6 +1,6 @@
 # Lone Survivor
 
-[Compare across authors](../../compare/?t=film-lone-survivor_193756)
+[Compare across authors](../compare/index.md?t=film-lone-survivor_193756)
 
 ## DTS-X
 

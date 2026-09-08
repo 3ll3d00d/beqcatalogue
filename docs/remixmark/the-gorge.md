@@ -12,7 +12,7 @@ Two highly trained operatives grow close from a distance after being sent to gua
 Dialnorm Compensation: 15dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63843484#post-63843484)  [TMDB](https://www.themoviedb.org/movie/950396)  [Compare across authors](../../compare/?t=film-the-gorge_950396)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1560?post_id=63843484#post-63843484)  [TMDB](https://www.themoviedb.org/movie/950396)  [Compare across authors](../compare/index.md?t=film-the-gorge_950396)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Gorge%20(2025)%20(-1.5%20gain)%20DD%2B%20Atmos.jpg)

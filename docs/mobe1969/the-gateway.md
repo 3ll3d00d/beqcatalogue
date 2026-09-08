@@ -1,6 +1,6 @@
 # The Gateway
 
-[Compare across authors](../../compare/?t=film-the-gateway_472744)
+[Compare across authors](../compare/index.md?t=film-the-gateway_472744)
 
 ## DD+ 5.1
 

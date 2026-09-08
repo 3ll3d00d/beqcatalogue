@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-see_80752)
+[Compare across authors](../compare/index.md?t=TV-see_80752)
 
 ## Season 1
 

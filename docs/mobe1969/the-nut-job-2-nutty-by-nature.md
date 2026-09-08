@@ -1,6 +1,6 @@
 # The Nut Job 2: Nutty by Nature
 
-[Compare across authors](../../compare/?t=film-the-nut-job-2-nutty-by-nature_335777)
+[Compare across authors](../compare/index.md?t=film-the-nut-job-2-nutty-by-nature_335777)
 
 ## DTS-HD MA 5.1
 

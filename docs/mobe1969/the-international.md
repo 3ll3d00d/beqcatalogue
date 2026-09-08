@@ -1,6 +1,6 @@
 # The International
 
-[Compare across authors](../../compare/?t=film-the-international_4959)
+[Compare across authors](../compare/index.md?t=film-the-international_4959)
 
 ## TrueHD 5.1
 

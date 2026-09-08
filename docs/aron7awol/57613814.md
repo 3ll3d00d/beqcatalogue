@@ -1,6 +1,6 @@
 # The Hunger Games: Mockingjay - Part 1
 
-[Compare across authors](../../compare/?t=film-the-hunger-games-mockingjay-part-1_131631)
+[Compare across authors](../compare/index.md?t=film-the-hunger-games-mockingjay-part-1_131631)
 
 ## Atmos
 

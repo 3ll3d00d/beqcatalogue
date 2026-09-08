@@ -1,6 +1,6 @@
 # Underworld: Evolution
 
-[Compare across authors](../../compare/?t=film-underworld-evolution_834)
+[Compare across authors](../compare/index.md?t=film-underworld-evolution_834)
 
 ## Atmos
 

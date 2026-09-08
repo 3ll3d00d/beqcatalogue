@@ -1,6 +1,6 @@
 # Clash of the Titans
 
-[Compare across authors](../../compare/?t=film-clash-of-the-titans_18823)
+[Compare across authors](../compare/index.md?t=film-clash-of-the-titans_18823)
 
 ## DTS-HD MA 5.1
 

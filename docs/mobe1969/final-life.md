@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-final-life_74146)
+[Compare across authors](../compare/index.md?t=TV-final-life_74146)
 
 ## Season 1
 

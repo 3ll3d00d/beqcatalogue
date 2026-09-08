@@ -1,6 +1,6 @@
 # Hugo
 
-[Compare across authors](../../compare/?t=film-hugo_44826)
+[Compare across authors](../compare/index.md?t=film-hugo_44826)
 
 ## DTS-HD MA 7.1
 

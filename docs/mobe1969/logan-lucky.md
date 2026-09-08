@@ -1,6 +1,6 @@
 # Logan Lucky
 
-[Compare across authors](../../compare/?t=film-logan-lucky_399170)
+[Compare across authors](../compare/index.md?t=film-logan-lucky_399170)
 
 ## DTS-HD MA 5.1
 

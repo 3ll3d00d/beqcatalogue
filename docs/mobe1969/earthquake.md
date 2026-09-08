@@ -1,6 +1,6 @@
 # Earthquake
 
-[Compare across authors](../../compare/?t=film-earthquake_11123)
+[Compare across authors](../compare/index.md?t=film-earthquake_11123)
 
 ## DTS-HD MA 2.1
 

@@ -1,6 +1,6 @@
 # Truth or Consequences, N.M.
 
-[Compare across authors](../../compare/?t=film-truth-or-consequences-nm_31017)
+[Compare across authors](../compare/index.md?t=film-truth-or-consequences-nm_31017)
 
 ## DTS-HD MA 5.1
 

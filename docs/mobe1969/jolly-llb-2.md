@@ -1,6 +1,6 @@
 # Jolly LLB 2
 
-[Compare across authors](../../compare/?t=film-jolly-llb-2_412090)
+[Compare across authors](../compare/index.md?t=film-jolly-llb-2_412090)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Cats
 
-[Compare across authors](../../compare/?t=film-cats_513386)
+[Compare across authors](../compare/index.md?t=film-cats_513386)
 
 ## TrueHD 5.1
 

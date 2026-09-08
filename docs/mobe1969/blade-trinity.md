@@ -1,6 +1,6 @@
 # Blade: Trinity
 
-[Compare across authors](../../compare/?t=film-blade-trinity_36648)
+[Compare across authors](../compare/index.md?t=film-blade-trinity_36648)
 
 ## DTS-HD MA 6.1
 

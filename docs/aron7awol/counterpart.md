@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-counterpart_63646)
+[Compare across authors](../compare/index.md?t=TV-counterpart_63646)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Kidnapping Stella
 
-[Compare across authors](../../compare/?t=film-kidnapping-stella_611468)
+[Compare across authors](../compare/index.md?t=film-kidnapping-stella_611468)
 
 ## DD+ 5.1
 

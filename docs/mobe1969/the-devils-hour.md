@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-devils-hour_157061)
+[Compare across authors](../compare/index.md?t=TV-the-devils-hour_157061)
 
 ## Season 1
 

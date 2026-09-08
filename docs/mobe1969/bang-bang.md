@@ -1,6 +1,6 @@
 # Bang Bang!
 
-[Compare across authors](../../compare/?t=film-bang-bang_283589)
+[Compare across authors](../compare/index.md?t=film-bang-bang_283589)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Apollo 11
 
-[Compare across authors](../../compare/?t=film-apollo-11_549559)
+[Compare across authors](../compare/index.md?t=film-apollo-11_549559)
 
 ## DTS-HD MA 5.1
 

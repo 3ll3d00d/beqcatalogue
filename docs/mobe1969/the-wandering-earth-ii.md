@@ -1,6 +1,6 @@
 # The Wandering Earth II
 
-[Compare across authors](../../compare/?t=film-the-wandering-earth-ii_842675)
+[Compare across authors](../compare/index.md?t=film-the-wandering-earth-ii_842675)
 
 ## DD+ 5.1
 

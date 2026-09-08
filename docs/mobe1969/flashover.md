@@ -1,6 +1,6 @@
 # Flashover
 
-[Compare across authors](../../compare/?t=film-flashover_949698)
+[Compare across authors](../compare/index.md?t=film-flashover_949698)
 
 ## DTS-HD MA 7.1
 

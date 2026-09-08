@@ -1,6 +1,6 @@
 # Rogue Cell: Shadow Warrior
 
-[Compare across authors](../../compare/?t=film-rogue-cell-shadow-warrior_802960)
+[Compare across authors](../compare/index.md?t=film-rogue-cell-shadow-warrior_802960)
 
 ## DD+ 2.0
 

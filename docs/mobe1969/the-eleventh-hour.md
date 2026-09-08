@@ -1,6 +1,6 @@
 # The Eleventh Hour
 
-[Compare across authors](../../compare/?t=film-the-eleventh-hour_65515)
+[Compare across authors](../compare/index.md?t=film-the-eleventh-hour_65515)
 
 ## DD+ 5.1
 

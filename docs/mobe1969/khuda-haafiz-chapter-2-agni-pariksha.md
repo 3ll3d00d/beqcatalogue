@@ -1,6 +1,6 @@
 # Khuda Haafiz Chapter 2: Agni Pariksha
 
-[Compare across authors](../../compare/?t=film-khuda-haafiz-chapter-2-agni-pariksha_965653)
+[Compare across authors](../compare/index.md?t=film-khuda-haafiz-chapter-2-agni-pariksha_965653)
 
 ## DD+ 5.1
 

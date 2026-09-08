@@ -1,6 +1,6 @@
 # Bright
 
-[Compare across authors](../../compare/?t=film-bright_400106)
+[Compare across authors](../compare/index.md?t=film-bright_400106)
 
 ## DD+ Atmos
 

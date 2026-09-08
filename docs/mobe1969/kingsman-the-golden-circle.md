@@ -1,6 +1,6 @@
 # Kingsman: The Golden Circle
 
-[Compare across authors](../../compare/?t=film-kingsman-the-golden-circle_343668)
+[Compare across authors](../compare/index.md?t=film-kingsman-the-golden-circle_343668)
 
 ## Atmos
 

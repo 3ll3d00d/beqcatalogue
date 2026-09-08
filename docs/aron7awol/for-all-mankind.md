@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-for-all-mankind_87917)
+[Compare across authors](../compare/index.md?t=TV-for-all-mankind_87917)
 
 ## Season 1
 

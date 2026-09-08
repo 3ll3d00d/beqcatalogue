@@ -7,7 +7,7 @@
 A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1032823)  [Compare across authors](../../compare/?t=film-trap_1032823)
+[TMDB](https://www.themoviedb.org/movie/1032823)  [Compare across authors](../compare/index.md?t=film-trap_1032823)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Trap/Trap%20(2024)%204K%20Atmos.jpg)

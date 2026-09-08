@@ -1,6 +1,6 @@
 # Reign of Fire
 
-[Compare across authors](../../compare/?t=film-reign-of-fire_6278)
+[Compare across authors](../compare/index.md?t=film-reign-of-fire_6278)
 
 ## LPCM 5.1
 

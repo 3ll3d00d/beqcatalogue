@@ -5,7 +5,7 @@
 * Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-backrooms_1083381)
+* [Compare across authors](../compare/index.md?t=TV-backrooms_1083381)
 
 * Production Year: 2026
 

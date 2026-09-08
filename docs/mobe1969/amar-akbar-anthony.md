@@ -1,6 +1,6 @@
 # Amar Akbar Anthony
 
-[Compare across authors](../../compare/?t=film-amar-akbar-anthony_535169)
+[Compare across authors](../compare/index.md?t=film-amar-akbar-anthony_535169)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Bird Box Barcelona
 
-[Compare across authors](../../compare/?t=film-bird-box-barcelona_805320)
+[Compare across authors](../compare/index.md?t=film-bird-box-barcelona_805320)
 
 ## DD+ Atmos
 

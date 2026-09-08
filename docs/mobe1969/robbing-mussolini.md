@@ -1,6 +1,6 @@
 # Robbing Mussolini
 
-[Compare across authors](../../compare/?t=film-robbing-mussolini_873125)
+[Compare across authors](../compare/index.md?t=film-robbing-mussolini_873125)
 
 ## DD+ 5.1
 

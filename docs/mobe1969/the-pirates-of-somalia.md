@@ -1,6 +1,6 @@
 # The Pirates of Somalia
 
-[Compare across authors](../../compare/?t=film-the-pirates-of-somalia_394537)
+[Compare across authors](../compare/index.md?t=film-the-pirates-of-somalia_394537)
 
 ## DD+ 5.1
 

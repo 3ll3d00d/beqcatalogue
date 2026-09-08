@@ -1,6 +1,6 @@
 # Big
 
-[Compare across authors](../../compare/?t=film-big_2280)
+[Compare across authors](../compare/index.md?t=film-big_2280)
 
 ## DTS-HD MA 5.1
 

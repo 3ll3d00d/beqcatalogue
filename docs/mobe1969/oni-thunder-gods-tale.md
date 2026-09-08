@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-oni-thunder-gods-tale_201213)
+[Compare across authors](../compare/index.md?t=TV-oni-thunder-gods-tale_201213)
 
 ## Season 1
 

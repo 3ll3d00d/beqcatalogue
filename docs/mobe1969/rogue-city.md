@@ -1,6 +1,6 @@
 # Rogue City
 
-[Compare across authors](../../compare/?t=film-rogue-city_671039)
+[Compare across authors](../compare/index.md?t=film-rogue-city_671039)
 
 ## DD+ 5.1
 

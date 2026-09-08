@@ -1,6 +1,6 @@
 # Afro Samurai: Resurrection
 
-[Compare across authors](../../compare/?t=film-afro-samurai-resurrection_14711)
+[Compare across authors](../compare/index.md?t=film-afro-samurai-resurrection_14711)
 
 ## TrueHD 5.1
 

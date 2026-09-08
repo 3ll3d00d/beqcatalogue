@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-legend-of-exorcism_105644)
+[Compare across authors](../compare/index.md?t=TV-legend-of-exorcism_105644)
 
 ## Season 1
 

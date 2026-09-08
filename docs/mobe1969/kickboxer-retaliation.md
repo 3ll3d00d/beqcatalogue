@@ -1,6 +1,6 @@
 # Kickboxer: Retaliation
 
-[Compare across authors](../../compare/?t=film-kickboxer-retaliation_447665)
+[Compare across authors](../compare/index.md?t=film-kickboxer-retaliation_447665)
 
 ## DTS-HD MA 5.1
 

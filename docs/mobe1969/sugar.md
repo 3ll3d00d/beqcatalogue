@@ -1,6 +1,6 @@
 # Sugar
 
-[Compare across authors](../../compare/?t=film-sugar_1041623)
+[Compare across authors](../compare/index.md?t=film-sugar_1041623)
 
 ## DD+ 5.1
 

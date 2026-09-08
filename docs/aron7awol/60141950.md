@@ -1,6 +1,6 @@
 # The Tax Collector
 
-[Compare across authors](../../compare/?t=film-the-tax-collector_531499)
+[Compare across authors](../compare/index.md?t=film-the-tax-collector_531499)
 
 ## DTS-HD MA 5.1
 

@@ -9,7 +9,7 @@ A woman's obsessive search for her missing sister leads her into a terrifying my
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64314158#post-64314158)  [TMDB](https://www.themoviedb.org/movie/937941)  [Compare across authors](../../compare/?t=film-shelby-oaks_937941)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1680?post_id=64314158#post-64314158)  [TMDB](https://www.themoviedb.org/movie/937941)  [Compare across authors](../compare/index.md?t=film-shelby-oaks_937941)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Shelby%20Oaks%20(2025)%20(%2B1.5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ A woman's obsessive search for her missing sister leads her into a terrifying my
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1699?post_id=64403168#post-64403168)  [TMDB](https://www.themoviedb.org/movie/937941)  [Compare across authors](../../compare/?t=film-shelby-oaks_937941)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1699?post_id=64403168#post-64403168)  [TMDB](https://www.themoviedb.org/movie/937941)  [Compare across authors](../compare/index.md?t=film-shelby-oaks_937941)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Shelby%20Oaks%20(2024)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

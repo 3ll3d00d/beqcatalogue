@@ -14,7 +14,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1668?post_id=64254789#post-64254789)
 
-* [Compare across authors](../../compare/?t=TV-splinter-cell-deathwatch_127366)
+* [Compare across authors](../compare/index.md?t=TV-splinter-cell-deathwatch_127366)
 
 * Production Year: 2025
 
@@ -33,7 +33,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1668?post_id=64254868#post-64254868)
 
-* [Compare across authors](../../compare/?t=TV-splinter-cell-deathwatch_127366)
+* [Compare across authors](../compare/index.md?t=TV-splinter-cell-deathwatch_127366)
 
 * Production Year: 2025
 
@@ -55,7 +55,7 @@ Dialnorm Compensation: 03-4db 07-6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1668?post_id=64254885#post-64254885)
 
-* [Compare across authors](../../compare/?t=TV-splinter-cell-deathwatch_127366)
+* [Compare across authors](../compare/index.md?t=TV-splinter-cell-deathwatch_127366)
 
 * Production Year: 2025
 
@@ -74,7 +74,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1668?post_id=64254848#post-64254848)
 
-* [Compare across authors](../../compare/?t=TV-splinter-cell-deathwatch_127366)
+* [Compare across authors](../compare/index.md?t=TV-splinter-cell-deathwatch_127366)
 
 * Production Year: 2025
 
@@ -96,7 +96,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1668?post_id=64254829#post-64254829)
 
-* [Compare across authors](../../compare/?t=TV-splinter-cell-deathwatch_127366)
+* [Compare across authors](../compare/index.md?t=TV-splinter-cell-deathwatch_127366)
 
 * Production Year: 2025
 
@@ -118,7 +118,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1668?post_id=64254804#post-64254804)
 
-* [Compare across authors](../../compare/?t=TV-splinter-cell-deathwatch_127366)
+* [Compare across authors](../compare/index.md?t=TV-splinter-cell-deathwatch_127366)
 
 * Production Year: 2025
 

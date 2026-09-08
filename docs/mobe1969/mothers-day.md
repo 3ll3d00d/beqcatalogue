@@ -1,6 +1,6 @@
 # Mother's Day
 
-[Compare across authors](../../compare/?t=film-mothers-day_1107872)
+[Compare across authors](../compare/index.md?t=film-mothers-day_1107872)
 
 ## DD+ 5.1
 

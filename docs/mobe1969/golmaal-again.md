@@ -1,6 +1,6 @@
 # Golmaal Again
 
-[Compare across authors](../../compare/?t=film-golmaal-again_472123)
+[Compare across authors](../compare/index.md?t=film-golmaal-again_472123)
 
 ## DD+ 5.1
 

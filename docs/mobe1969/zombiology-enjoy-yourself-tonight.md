@@ -1,6 +1,6 @@
 # Zombiology: Enjoy Yourself Tonight
 
-[Compare across authors](../../compare/?t=film-zombiology-enjoy-yourself-tonight_455650)
+[Compare across authors](../compare/index.md?t=film-zombiology-enjoy-yourself-tonight_455650)
 
 ## TrueHD 5.1
 

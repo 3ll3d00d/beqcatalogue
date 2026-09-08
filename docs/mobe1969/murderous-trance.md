@@ -1,6 +1,6 @@
 # Murderous Trance
 
-[Compare across authors](../../compare/?t=film-murderous-trance_480531)
+[Compare across authors](../compare/index.md?t=film-murderous-trance_480531)
 
 ## DTS-HD MA 5.1
 

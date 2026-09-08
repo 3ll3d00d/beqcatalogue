@@ -1,6 +1,6 @@
 # Evangelion: Death (True)²
 
-[Compare across authors](../../compare/?t=film-evangelion-death-true2_857862)
+[Compare across authors](../compare/index.md?t=film-evangelion-death-true2_857862)
 
 ## DD+ 5.1
 

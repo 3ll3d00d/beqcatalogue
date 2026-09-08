@@ -1,6 +1,6 @@
 # Life of Pi
 
-[Compare across authors](../../compare/?t=film-life-of-pi_87827)
+[Compare across authors](../compare/index.md?t=film-life-of-pi_87827)
 
 ## DTS-HD MA 7.1
 

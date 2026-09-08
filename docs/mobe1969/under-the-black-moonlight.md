@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-under-the-black-moonlight_84569)
+[Compare across authors](../compare/index.md?t=TV-under-the-black-moonlight_84569)
 
 ## Season 1
 

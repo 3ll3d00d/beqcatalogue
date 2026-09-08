@@ -7,7 +7,7 @@
 Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/5503)  [Compare across authors](../../compare/?t=film-the-fugitive_5503)
+[TMDB](https://www.themoviedb.org/movie/5503)  [Compare across authors](../compare/index.md?t=film-the-fugitive_5503)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Fugitive%20(1993)%20TrueHD%20Atmos.jpg)

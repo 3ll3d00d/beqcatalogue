@@ -1,6 +1,6 @@
 # Girlfriend's Day
 
-[Compare across authors](../../compare/?t=film-girlfriends-day_346650)
+[Compare across authors](../compare/index.md?t=film-girlfriends-day_346650)
 
 ## DD+ 5.1
 

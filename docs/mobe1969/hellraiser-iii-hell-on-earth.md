@@ -1,6 +1,6 @@
 # Hellraiser III: Hell on Earth
 
-[Compare across authors](../../compare/?t=film-hellraiser-iii-hell-on-earth_11569)
+[Compare across authors](../compare/index.md?t=film-hellraiser-iii-hell-on-earth_11569)
 
 ## DTS-HD MA 5.1
 

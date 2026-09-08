@@ -14,7 +14,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1577?post_id=63948324#post-63948324)
 
-* [Compare across authors](../../compare/?t=TV-the-last-of-us_100088)
+* [Compare across authors](../compare/index.md?t=TV-the-last-of-us_100088)
 
 * Production Year: 2023
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: 8dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1580?post_id=63959374#post-63959374)
 
-* [Compare across authors](../../compare/?t=TV-the-last-of-us_100088)
+* [Compare across authors](../compare/index.md?t=TV-the-last-of-us_100088)
 
 * Production Year: 2023
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1583?post_id=63970861#post-63970861)
 
-* [Compare across authors](../../compare/?t=TV-the-last-of-us_100088)
+* [Compare across authors](../compare/index.md?t=TV-the-last-of-us_100088)
 
 * Production Year: 2023
 
@@ -80,7 +80,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1585?post_id=63982859#post-63982859)
 
-* [Compare across authors](../../compare/?t=TV-the-last-of-us_100088)
+* [Compare across authors](../compare/index.md?t=TV-the-last-of-us_100088)
 
 * Production Year: 2023
 
@@ -102,7 +102,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1587?post_id=63993886#post-63993886)
 
-* [Compare across authors](../../compare/?t=TV-the-last-of-us_100088)
+* [Compare across authors](../compare/index.md?t=TV-the-last-of-us_100088)
 
 * Production Year: 2023
 
@@ -124,7 +124,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64004819#post-64004819)
 
-* [Compare across authors](../../compare/?t=TV-the-last-of-us_100088)
+* [Compare across authors](../compare/index.md?t=TV-the-last-of-us_100088)
 
 * Production Year: 2023
 
@@ -146,7 +146,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1594?post_id=64016205#post-64016205)
 
-* [Compare across authors](../../compare/?t=TV-the-last-of-us_100088)
+* [Compare across authors](../compare/index.md?t=TV-the-last-of-us_100088)
 
 * Production Year: 2023
 

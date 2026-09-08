@@ -7,7 +7,7 @@
 After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/10439)  [Compare across authors](../../compare/?t=film-hocus-pocus_10439)
+[TMDB](https://www.themoviedb.org/movie/10439)  [Compare across authors](../compare/index.md?t=film-hocus-pocus_10439)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hocu%20Pocus/Hocus%20Pocus%20(1993)%20DD%2B%205.1.jpg)

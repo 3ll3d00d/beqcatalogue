@@ -1,6 +1,6 @@
 # The Man with the Golden Gun
 
-[Compare across authors](../../compare/?t=film-the-man-with-the-golden-gun_682)
+[Compare across authors](../compare/index.md?t=film-the-man-with-the-golden-gun_682)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

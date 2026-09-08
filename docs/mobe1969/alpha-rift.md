@@ -1,6 +1,6 @@
 # Alpha Rift
 
-[Compare across authors](../../compare/?t=film-alpha-rift_786798)
+[Compare across authors](../compare/index.md?t=film-alpha-rift_786798)
 
 ## DD+ 5.1
 

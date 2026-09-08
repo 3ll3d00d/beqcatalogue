@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-marvel-zombies_138505)
+* [Compare across authors](../compare/index.md?t=TV-marvel-zombies_138505)
 
 * Production Year: 2025
 

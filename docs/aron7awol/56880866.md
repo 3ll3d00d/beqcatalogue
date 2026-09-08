@@ -1,6 +1,6 @@
 # Baywatch
 
-[Compare across authors](../../compare/?t=film-baywatch_339846)
+[Compare across authors](../compare/index.md?t=film-baywatch_339846)
 
 ## Atmos
 

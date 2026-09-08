@@ -1,6 +1,6 @@
 # A History of Violence
 
-[Compare across authors](../../compare/?t=film-a-history-of-violence_59)
+[Compare across authors](../compare/index.md?t=film-a-history-of-violence_59)
 
 ## TrueHD 5.1, DD+ 5.1
 

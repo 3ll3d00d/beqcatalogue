@@ -9,7 +9,7 @@ Extended Cut
 A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/426063)  [Compare across authors](../../compare/?t=film-nosferatu_426063)
+[TMDB](https://www.themoviedb.org/movie/426063)  [Compare across authors](../compare/index.md?t=film-nosferatu_426063)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Nosferatu%20(2024)%20Atmos.jpg)
@@ -23,7 +23,7 @@ A gothic tale of obsession between a haunted young woman and the terrifying vamp
 A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/426063)  [Compare across authors](../../compare/?t=film-nosferatu_426063)
+[TMDB](https://www.themoviedb.org/movie/426063)  [Compare across authors](../compare/index.md?t=film-nosferatu_426063)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Nosferatu%20(2024)%20Atmos.jpg)
@@ -37,7 +37,7 @@ A gothic tale of obsession between a haunted young woman and the terrifying vamp
 A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/426063)  [Compare across authors](../../compare/?t=film-nosferatu_426063)
+[TMDB](https://www.themoviedb.org/movie/426063)  [Compare across authors](../compare/index.md?t=film-nosferatu_426063)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Nosferatu%20(2024)%20DD%2B%20Atmos.jpg)

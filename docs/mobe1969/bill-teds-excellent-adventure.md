@@ -1,6 +1,6 @@
 # Bill & Ted's Excellent Adventure
 
-[Compare across authors](../../compare/?t=film-bill-teds-excellent-adventure_1648)
+[Compare across authors](../compare/index.md?t=film-bill-teds-excellent-adventure_1648)
 
 ## DTS-HD MA 5.1
 

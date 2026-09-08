@@ -1,6 +1,6 @@
 # Holmes & Watson
 
-[Compare across authors](../../compare/?t=film-holmes-watson_426563)
+[Compare across authors](../compare/index.md?t=film-holmes-watson_426563)
 
 ## DD+ Atmos, DD 5.1
 

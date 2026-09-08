@@ -1,6 +1,6 @@
 # Meow
 
-[Compare across authors](../../compare/?t=film-meow_466924)
+[Compare across authors](../compare/index.md?t=film-meow_466924)
 
 ## DTS-HD MA 7.1
 

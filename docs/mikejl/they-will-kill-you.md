@@ -7,7 +7,7 @@
 A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1292695)  [Compare across authors](../../compare/?t=film-they-will-kill-you_1292695)
+[TMDB](https://www.themoviedb.org/movie/1292695)  [Compare across authors](../compare/index.md?t=film-they-will-kill-you_1292695)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/They%20Will%20Kill%20You/They%20Will%20Kill%20You%20(2026)%20Atmos.jpg)
@@ -21,7 +21,7 @@ A woman answers a help wanted ad to be a housekeeper in a mysterious New York Ci
 A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1292695)  [Compare across authors](../../compare/?t=film-they-will-kill-you_1292695)
+[TMDB](https://www.themoviedb.org/movie/1292695)  [Compare across authors](../compare/index.md?t=film-they-will-kill-you_1292695)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/They%20Will%20Kill%20You/They%20Will%20Kill%20You%20(2026)%20DD%2B%205.1.jpg)

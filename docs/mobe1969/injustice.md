@@ -1,6 +1,6 @@
 # Injustice
 
-[Compare across authors](../../compare/?t=film-injustice_831405)
+[Compare across authors](../compare/index.md?t=film-injustice_831405)
 
 ## DD+ 5.1
 

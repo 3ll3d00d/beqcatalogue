@@ -1,6 +1,6 @@
 # Serenity
 
-[Compare across authors](../../compare/?t=film-serenity_16320)
+[Compare across authors](../compare/index.md?t=film-serenity_16320)
 
 ## DTS-X
 

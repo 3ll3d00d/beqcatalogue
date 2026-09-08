@@ -1,6 +1,6 @@
 # High & Low The Worst X
 
-[Compare across authors](../../compare/?t=film-high-low-the-worst-x_965731)
+[Compare across authors](../compare/index.md?t=film-high-low-the-worst-x_965731)
 
 ## DD+ 5.1
 

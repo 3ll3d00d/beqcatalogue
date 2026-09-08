@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-tandav_114796)
+[Compare across authors](../compare/index.md?t=TV-tandav_114796)
 
 ## Season 1
 

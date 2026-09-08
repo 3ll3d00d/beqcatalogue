@@ -9,7 +9,7 @@ Casper is a kind young ghost who peacefully haunts a mansion in Maine. When spec
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1640?post_id=64173560#post-64173560)  [TMDB](https://www.themoviedb.org/movie/8839)  [Compare across authors](../../compare/?t=film-casper_8839)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1640?post_id=64173560#post-64173560)  [TMDB](https://www.themoviedb.org/movie/8839)  [Compare across authors](../compare/index.md?t=film-casper_8839)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Casper%20(1995)%20(%2B6%20gain)%20Atmos.jpg)

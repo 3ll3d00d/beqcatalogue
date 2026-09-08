@@ -1,6 +1,6 @@
 # Jackass 3D
 
-[Compare across authors](../../compare/?t=film-jackass-3d_16290)
+[Compare across authors](../compare/index.md?t=film-jackass-3d_16290)
 
 ## DTS-HD 5.1
 

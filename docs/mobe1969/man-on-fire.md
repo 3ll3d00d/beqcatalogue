@@ -1,6 +1,6 @@
 # Man on Fire
 
-[Compare across authors](../../compare/?t=film-man-on-fire_9509)
+[Compare across authors](../compare/index.md?t=film-man-on-fire_9509)
 
 ## DTS-HD MA 5.1
 

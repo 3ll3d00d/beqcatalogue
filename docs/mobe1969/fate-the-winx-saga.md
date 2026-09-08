@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-fate-the-winx-saga_97175)
+[Compare across authors](../compare/index.md?t=TV-fate-the-winx-saga_97175)
 
 ## Season 1
 

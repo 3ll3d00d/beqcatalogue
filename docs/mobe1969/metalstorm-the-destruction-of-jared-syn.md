@@ -1,6 +1,6 @@
 # Metalstorm: The Destruction of Jared-Syn
 
-[Compare across authors](../../compare/?t=film-metalstorm-the-destruction-of-jared-syn_47364)
+[Compare across authors](../compare/index.md?t=film-metalstorm-the-destruction-of-jared-syn_47364)
 
 ## DTS-HD MA 5.1
 

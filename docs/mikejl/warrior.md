@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-warrior_73544)
+* [Compare across authors](../compare/index.md?t=TV-warrior_73544)
 
 * Production Year: 2019
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-warrior_73544)
+* [Compare across authors](../compare/index.md?t=TV-warrior_73544)
 
 * Production Year: 2019
 
@@ -37,7 +37,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-warrior_73544)
+* [Compare across authors](../compare/index.md?t=TV-warrior_73544)
 
 * Production Year: 2019
 

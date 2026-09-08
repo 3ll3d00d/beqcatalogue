@@ -1,6 +1,6 @@
 # The Main Event
 
-[Compare across authors](../../compare/?t=film-the-main-event_637157)
+[Compare across authors](../compare/index.md?t=film-the-main-event_637157)
 
 ## DD+ Atmos
 

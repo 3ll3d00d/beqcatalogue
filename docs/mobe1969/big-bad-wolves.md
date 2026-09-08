@@ -1,6 +1,6 @@
 # Big Bad Wolves
 
-[Compare across authors](../../compare/?t=film-big-bad-wolves_171540)
+[Compare across authors](../compare/index.md?t=film-big-bad-wolves_171540)
 
 ## DTS-HD MA 5.1
 

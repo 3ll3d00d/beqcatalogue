@@ -1,6 +1,6 @@
 # The Edge
 
-[Compare across authors](../../compare/?t=film-the-edge_9433)
+[Compare across authors](../compare/index.md?t=film-the-edge_9433)
 
 ## DTS-HD MA 5.1
 

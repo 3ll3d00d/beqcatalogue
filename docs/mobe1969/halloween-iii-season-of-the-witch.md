@@ -1,6 +1,6 @@
 # Halloween III: Season of the Witch
 
-[Compare across authors](../../compare/?t=film-halloween-iii-season-of-the-witch_10676)
+[Compare across authors](../compare/index.md?t=film-halloween-iii-season-of-the-witch_10676)
 
 ## Atmos
 

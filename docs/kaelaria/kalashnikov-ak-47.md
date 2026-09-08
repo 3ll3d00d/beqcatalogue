@@ -10,7 +10,7 @@ Tank commander Kalashnikov is severely injured in battle in 1941. The accident l
 RU
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/592279)  [Compare across authors](../../compare/?t=film-kalashnikov-ak-47_592279)
+[TMDB](https://www.themoviedb.org/movie/592279)  [Compare across authors](../compare/index.md?t=film-kalashnikov-ak-47_592279)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Kalashnikov%20(2020)%20DTS-HD%20MA%205.1.jpg)

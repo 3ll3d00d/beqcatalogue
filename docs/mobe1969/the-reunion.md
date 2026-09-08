@@ -1,6 +1,6 @@
 # The Reunion
 
-[Compare across authors](../../compare/?t=film-the-reunion_77879)
+[Compare across authors](../compare/index.md?t=film-the-reunion_77879)
 
 ## DTS-HD MA 5.1
 

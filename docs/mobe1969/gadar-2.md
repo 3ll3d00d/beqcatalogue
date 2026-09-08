@@ -1,6 +1,6 @@
 # Gadar 2
 
-[Compare across authors](../../compare/?t=film-gadar-2_885331)
+[Compare across authors](../compare/index.md?t=film-gadar-2_885331)
 
 ## DD+ Atmos
 

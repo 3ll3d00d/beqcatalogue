@@ -1,6 +1,6 @@
 # The Puppetman
 
-[Compare across authors](../../compare/?t=film-the-puppetman_1146143)
+[Compare across authors](../compare/index.md?t=film-the-puppetman_1146143)
 
 ## DD+ 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-knightfall_73117)
+[Compare across authors](../compare/index.md?t=TV-knightfall_73117)
 
 ## Season 1
 

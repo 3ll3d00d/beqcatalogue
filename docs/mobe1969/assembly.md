@@ -1,6 +1,6 @@
 # Assembly
 
-[Compare across authors](../../compare/?t=film-assembly_14044)
+[Compare across authors](../compare/index.md?t=film-assembly_14044)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Naam Shabana
 
-[Compare across authors](../../compare/?t=film-naam-shabana_441071)
+[Compare across authors](../compare/index.md?t=film-naam-shabana_441071)
 
 ## DD+ 5.1
 

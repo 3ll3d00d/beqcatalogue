@@ -1,6 +1,6 @@
 # The Reef: Stalked
 
-[Compare across authors](../../compare/?t=film-the-reef-stalked_730167)
+[Compare across authors](../compare/index.md?t=film-the-reef-stalked_730167)
 
 ## DTS-HD MA 5.1
 

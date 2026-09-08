@@ -1,6 +1,6 @@
 # Time
 
-[Compare across authors](../../compare/?t=film-time_806443)
+[Compare across authors](../compare/index.md?t=film-time_806443)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Outsider
 
-[Compare across authors](../../compare/?t=film-the-outsider_199928)
+[Compare across authors](../compare/index.md?t=film-the-outsider_199928)
 
 ## DD+ 5.1
 

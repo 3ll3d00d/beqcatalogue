@@ -1,6 +1,6 @@
 # Garm Wars: The Last Druid
 
-[Compare across authors](../../compare/?t=film-garm-wars-the-last-druid_302026)
+[Compare across authors](../compare/index.md?t=film-garm-wars-the-last-druid_302026)
 
 ## DTS-HD MA 5.1
 

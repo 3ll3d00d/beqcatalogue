@@ -1,6 +1,6 @@
 # Kathal: A Jackfruit Mystery
 
-[Compare across authors](../../compare/?t=film-kathal-a-jackfruit-mystery_946025)
+[Compare across authors](../compare/index.md?t=film-kathal-a-jackfruit-mystery_946025)
 
 ## DD+ Atmos
 

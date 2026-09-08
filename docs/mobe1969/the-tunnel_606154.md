@@ -1,6 +1,6 @@
 # The Tunnel
 
-[Compare across authors](../../compare/?t=film-the-tunnel_606154)
+[Compare across authors](../compare/index.md?t=film-the-tunnel_606154)
 
 ## Atmos
 

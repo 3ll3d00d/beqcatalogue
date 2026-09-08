@@ -1,6 +1,6 @@
 # OMG: Oh My God!
 
-[Compare across authors](../../compare/?t=film-omg-oh-my-god_135718)
+[Compare across authors](../compare/index.md?t=film-omg-oh-my-god_135718)
 
 ## DD+ 5.1
 

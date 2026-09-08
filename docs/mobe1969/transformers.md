@@ -1,6 +1,6 @@
 # Transformers
 
-[Compare across authors](../../compare/?t=film-transformers_1858)
+[Compare across authors](../compare/index.md?t=film-transformers_1858)
 
 ## Atmos, DD+ 5.1
 

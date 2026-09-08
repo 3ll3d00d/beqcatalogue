@@ -9,7 +9,7 @@ Science teacher Ryland Grace wakes up on a spaceship light years from home with 
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1758?post_id=64724872#post-64724872)  [TMDB](https://www.themoviedb.org/movie/687163)  [Compare across authors](../../compare/?t=film-project-hail-mary_687163)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1758?post_id=64724872#post-64724872)  [TMDB](https://www.themoviedb.org/movie/687163)  [Compare across authors](../compare/index.md?t=film-project-hail-mary_687163)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Project%20Hail%20Mary%20(2026)%20(%2B1.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Science teacher Ryland Grace wakes up on a spaceship light years from home with 
 Dialnorm Compensation : 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1739?post_id=64602438#post-64602438)  [TMDB](https://www.themoviedb.org/movie/687163)  [Compare across authors](../../compare/?t=film-project-hail-mary_687163)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1739?post_id=64602438#post-64602438)  [TMDB](https://www.themoviedb.org/movie/687163)  [Compare across authors](../compare/index.md?t=film-project-hail-mary_687163)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Project%20Hail%20Mary%20(2026)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

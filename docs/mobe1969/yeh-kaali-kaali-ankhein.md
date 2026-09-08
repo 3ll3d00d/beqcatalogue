@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-yeh-kaali-kaali-ankhein_153950)
+[Compare across authors](../compare/index.md?t=TV-yeh-kaali-kaali-ankhein_153950)
 
 ## Season 1
 

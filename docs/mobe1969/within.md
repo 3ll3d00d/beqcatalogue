@@ -1,6 +1,6 @@
 # Within
 
-[Compare across authors](../../compare/?t=film-within_291413)
+[Compare across authors](../compare/index.md?t=film-within_291413)
 
 ## DD+ 5.1
 

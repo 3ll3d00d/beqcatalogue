@@ -1,6 +1,6 @@
 # Psychokinesis
 
-[Compare across authors](../../compare/?t=film-psychokinesis_452015)
+[Compare across authors](../compare/index.md?t=film-psychokinesis_452015)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Sonatine
 
-[Compare across authors](../../compare/?t=film-sonatine_7500)
+[Compare across authors](../compare/index.md?t=film-sonatine_7500)
 
 ## LPCM 2.0
 

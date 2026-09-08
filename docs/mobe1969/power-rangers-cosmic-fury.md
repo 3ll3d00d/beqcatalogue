@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-power-rangers-cosmic-fury_236136)
+[Compare across authors](../compare/index.md?t=TV-power-rangers-cosmic-fury_236136)
 
 ## Season 1
 

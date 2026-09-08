@@ -7,7 +7,7 @@
 When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1171145)  [Compare across authors](../../compare/?t=film-crime-101_1171145)
+[TMDB](https://www.themoviedb.org/movie/1171145)  [Compare across authors](../compare/index.md?t=film-crime-101_1171145)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crime%20101/Crime%20101%20(2026)%20Atmos.jpg)

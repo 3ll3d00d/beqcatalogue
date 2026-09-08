@@ -1,6 +1,6 @@
 # The Witness
 
-[Compare across authors](../../compare/?t=film-the-witness_529569)
+[Compare across authors](../compare/index.md?t=film-the-witness_529569)
 
 ## DTS-HD MA 5.1
 

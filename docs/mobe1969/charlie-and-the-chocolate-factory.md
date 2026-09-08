@@ -1,6 +1,6 @@
 # Charlie and the Chocolate Factory
 
-[Compare across authors](../../compare/?t=film-charlie-and-the-chocolate-factory_118)
+[Compare across authors](../compare/index.md?t=film-charlie-and-the-chocolate-factory_118)
 
 ## TrueHD 5.1
 

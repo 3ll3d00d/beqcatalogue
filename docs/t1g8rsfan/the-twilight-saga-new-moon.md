@@ -9,7 +9,7 @@ Forks, Washington resident Bella Swan is reeling from the departure of her vampi
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62968438)  [TMDB](https://www.themoviedb.org/movie/18239)  [Compare across authors](../../compare/?t=film-the-twilight-saga-new-moon_18239)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62968438)  [TMDB](https://www.themoviedb.org/movie/18239)  [Compare across authors](../compare/index.md?t=film-the-twilight-saga-new-moon_18239)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Twilight%20New%20Moon%20(2009)%20(%2B2.5%20gain)%20Atmos.jpg)

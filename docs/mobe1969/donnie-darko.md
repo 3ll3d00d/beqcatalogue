@@ -1,6 +1,6 @@
 # Donnie Darko
 
-[Compare across authors](../../compare/?t=film-donnie-darko_141)
+[Compare across authors](../compare/index.md?t=film-donnie-darko_141)
 
 ## DTS-HD MA 5.1
 

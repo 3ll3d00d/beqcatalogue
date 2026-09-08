@@ -1,6 +1,6 @@
 # Defiance
 
-[Compare across authors](../../compare/?t=film-defiance_13813)
+[Compare across authors](../compare/index.md?t=film-defiance_13813)
 
 ## TrueHD 5.1
 

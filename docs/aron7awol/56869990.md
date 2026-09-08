@@ -1,6 +1,6 @@
 # Project Almanac
 
-[Compare across authors](../../compare/?t=film-project-almanac_227719)
+[Compare across authors](../compare/index.md?t=film-project-almanac_227719)
 
 ## DTS-HD MA 5.1
 

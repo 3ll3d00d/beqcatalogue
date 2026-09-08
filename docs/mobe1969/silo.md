@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-silo_125988)
+[Compare across authors](../compare/index.md?t=TV-silo_125988)
 
 ## Season 1 Episodes 1-3
 

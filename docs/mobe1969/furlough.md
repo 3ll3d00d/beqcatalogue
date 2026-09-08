@@ -1,6 +1,6 @@
 # Furlough
 
-[Compare across authors](../../compare/?t=film-furlough_502426)
+[Compare across authors](../compare/index.md?t=film-furlough_502426)
 
 ## DD+ 5.1
 

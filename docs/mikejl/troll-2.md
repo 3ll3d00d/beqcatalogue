@@ -5,7 +5,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-troll-2_1180831)
+* [Compare across authors](../compare/index.md?t=TV-troll-2_1180831)
 
 * Production Year: 2025
 

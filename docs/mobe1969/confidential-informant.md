@@ -1,6 +1,6 @@
 # Confidential Informant
 
-[Compare across authors](../../compare/?t=film-confidential-informant_1070802)
+[Compare across authors](../compare/index.md?t=film-confidential-informant_1070802)
 
 ## DD+ 5.1
 

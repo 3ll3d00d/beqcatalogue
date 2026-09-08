@@ -1,6 +1,6 @@
 # Pressure
 
-[Compare across authors](../../compare/?t=film-pressure_252164)
+[Compare across authors](../compare/index.md?t=film-pressure_252164)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Rampage
 
-[Compare across authors](../../compare/?t=film-rampage_427641)
+[Compare across authors](../compare/index.md?t=film-rampage_427641)
 
 ## Atmos, DTS-HD MA 5.1, DD+ 5.1
 

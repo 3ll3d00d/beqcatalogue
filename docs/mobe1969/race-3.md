@@ -1,6 +1,6 @@
 # Race 3
 
-[Compare across authors](../../compare/?t=film-race-3_496320)
+[Compare across authors](../compare/index.md?t=film-race-3_496320)
 
 ## DD+ 5.1, DD 5.1
 

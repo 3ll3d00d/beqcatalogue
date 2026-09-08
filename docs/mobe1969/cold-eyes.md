@@ -1,6 +1,6 @@
 # Cold Eyes
 
-[Compare across authors](../../compare/?t=film-cold-eyes_204553)
+[Compare across authors](../compare/index.md?t=film-cold-eyes_204553)
 
 ## DTS-HD MA 7.1
 

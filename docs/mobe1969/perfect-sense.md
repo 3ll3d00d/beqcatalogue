@@ -1,6 +1,6 @@
 # Perfect Sense
 
-[Compare across authors](../../compare/?t=film-perfect-sense_51999)
+[Compare across authors](../compare/index.md?t=film-perfect-sense_51999)
 
 ## LPCM 5.1
 

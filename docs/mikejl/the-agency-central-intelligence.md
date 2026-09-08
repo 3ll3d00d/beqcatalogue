@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-agency-central-intelligence_219971)
+* [Compare across authors](../compare/index.md?t=TV-the-agency-central-intelligence_219971)
 
 * Production Year: 2024
 

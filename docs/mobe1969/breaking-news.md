@@ -1,6 +1,6 @@
 # Breaking News
 
-[Compare across authors](../../compare/?t=film-breaking-news_12543)
+[Compare across authors](../compare/index.md?t=film-breaking-news_12543)
 
 ## DTS-HD MA 5.1
 

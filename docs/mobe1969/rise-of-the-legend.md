@@ -1,6 +1,6 @@
 # Rise of the Legend
 
-[Compare across authors](../../compare/?t=film-rise-of-the-legend_294993)
+[Compare across authors](../compare/index.md?t=film-rise-of-the-legend_294993)
 
 ## DTS-HD MA 5.1
 

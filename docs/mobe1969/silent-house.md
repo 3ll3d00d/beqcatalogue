@@ -1,6 +1,6 @@
 # Silent House
 
-[Compare across authors](../../compare/?t=film-silent-house_92182)
+[Compare across authors](../compare/index.md?t=film-silent-house_92182)
 
 ## DTS-HD MA 5.1
 

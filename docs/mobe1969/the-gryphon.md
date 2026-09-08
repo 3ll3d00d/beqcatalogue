@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-gryphon_221871)
+[Compare across authors](../compare/index.md?t=TV-the-gryphon_221871)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Derailed
 
-[Compare across authors](../../compare/?t=film-derailed_17774)
+[Compare across authors](../compare/index.md?t=film-derailed_17774)
 
 ## DTS-HD MA 5.1
 

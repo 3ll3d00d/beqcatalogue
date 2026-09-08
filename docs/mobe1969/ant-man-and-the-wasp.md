@@ -1,6 +1,6 @@
 # Ant-Man and the Wasp
 
-[Compare across authors](../../compare/?t=film-ant-man-and-the-wasp_363088)
+[Compare across authors](../compare/index.md?t=film-ant-man-and-the-wasp_363088)
 
 ## Atmos
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-secret-of-the-greco-family_213803)
+[Compare across authors](../compare/index.md?t=TV-the-secret-of-the-greco-family_213803)
 
 ## Season 1
 

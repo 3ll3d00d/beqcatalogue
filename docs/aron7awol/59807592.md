@@ -1,6 +1,6 @@
 # Da 5 Bloods
 
-[Compare across authors](../../compare/?t=film-da-5-bloods_581859)
+[Compare across authors](../compare/index.md?t=film-da-5-bloods_581859)
 
 ## DD+ Atmos
 

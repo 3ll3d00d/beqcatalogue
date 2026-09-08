@@ -1,6 +1,6 @@
 # A Better Tomorrow
 
-[Compare across authors](../../compare/?t=film-a-better-tomorrow_497768)
+[Compare across authors](../compare/index.md?t=film-a-better-tomorrow_497768)
 
 ## TrueHD 5.1
 

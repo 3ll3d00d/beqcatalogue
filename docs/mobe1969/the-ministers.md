@@ -1,6 +1,6 @@
 # The Ministers
 
-[Compare across authors](../../compare/?t=film-the-ministers_26861)
+[Compare across authors](../compare/index.md?t=film-the-ministers_26861)
 
 ## DTS-HD MA 5.1
 

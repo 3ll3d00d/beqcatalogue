@@ -1,6 +1,6 @@
 # Captain America: The Winter Soldier
 
-[Compare across authors](../../compare/?t=film-captain-america-the-winter-soldier_100402)
+[Compare across authors](../compare/index.md?t=film-captain-america-the-winter-soldier_100402)
 
 ## Atmos
 

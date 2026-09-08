@@ -1,6 +1,6 @@
 # Open Grave
 
-[Compare across authors](../../compare/?t=film-open-grave_215830)
+[Compare across authors](../compare/index.md?t=film-open-grave_215830)
 
 ## DTS-HD MA 5.1
 

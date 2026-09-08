@@ -1,6 +1,6 @@
 # Salaam Namaste
 
-[Compare across authors](../../compare/?t=film-salaam-namaste_15084)
+[Compare across authors](../compare/index.md?t=film-salaam-namaste_15084)
 
 ## DD+ 5.1
 

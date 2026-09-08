@@ -1,6 +1,6 @@
 # Road to Paloma
 
-[Compare across authors](../../compare/?t=film-road-to-paloma_268060)
+[Compare across authors](../compare/index.md?t=film-road-to-paloma_268060)
 
 ## TrueHD 5.1
 

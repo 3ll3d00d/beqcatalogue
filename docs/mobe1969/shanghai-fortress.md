@@ -1,6 +1,6 @@
 # Shanghai Fortress
 
-[Compare across authors](../../compare/?t=film-shanghai-fortress_559957)
+[Compare across authors](../compare/index.md?t=film-shanghai-fortress_559957)
 
 ## DD+ 5.1
 

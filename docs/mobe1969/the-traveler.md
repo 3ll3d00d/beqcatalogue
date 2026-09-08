@@ -1,6 +1,6 @@
 # The Traveler
 
-[Compare across authors](../../compare/?t=film-the-traveler_32612)
+[Compare across authors](../compare/index.md?t=film-the-traveler_32612)
 
 ## DTS-HD MA 5.1
 

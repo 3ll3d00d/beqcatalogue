@@ -1,6 +1,6 @@
 # Cadaver
 
-[Compare across authors](../../compare/?t=film-cadaver_692969)
+[Compare across authors](../compare/index.md?t=film-cadaver_692969)
 
 ## DD+ 5.1
 

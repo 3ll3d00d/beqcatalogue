@@ -1,6 +1,6 @@
 # Munich
 
-[Compare across authors](../../compare/?t=film-munich_612)
+[Compare across authors](../compare/index.md?t=film-munich_612)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Spirited Away
 
-[Compare across authors](../../compare/?t=film-spirited-away_129)
+[Compare across authors](../compare/index.md?t=film-spirited-away_129)
 
 ## DTS-HD MA 5.1
 

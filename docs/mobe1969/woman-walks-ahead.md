@@ -1,6 +1,6 @@
 # Woman Walks Ahead
 
-[Compare across authors](../../compare/?t=film-woman-walks-ahead_396373)
+[Compare across authors](../compare/index.md?t=film-woman-walks-ahead_396373)
 
 ## DTS-HD MA 5.1
 

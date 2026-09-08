@@ -1,6 +1,6 @@
 # Foxtrot Six
 
-[Compare across authors](../../compare/?t=film-foxtrot-six_491854)
+[Compare across authors](../compare/index.md?t=film-foxtrot-six_491854)
 
 ## DD+ 5.1
 

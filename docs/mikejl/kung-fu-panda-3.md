@@ -7,7 +7,7 @@
 While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/140300)  [Compare across authors](../../compare/?t=film-kung-fu-panda-3_140300)
+[TMDB](https://www.themoviedb.org/movie/140300)  [Compare across authors](../compare/index.md?t=film-kung-fu-panda-3_140300)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Kung%20Fu%20Panda/Kung%20Fu%20Panda%203%20(2016)%20Atmos.jpg)

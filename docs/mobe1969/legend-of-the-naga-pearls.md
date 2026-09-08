@@ -1,6 +1,6 @@
 # Legend of The Naga Pearls
 
-[Compare across authors](../../compare/?t=film-legend-of-the-naga-pearls_466438)
+[Compare across authors](../compare/index.md?t=film-legend-of-the-naga-pearls_466438)
 
 ## TrueHD 7.1
 

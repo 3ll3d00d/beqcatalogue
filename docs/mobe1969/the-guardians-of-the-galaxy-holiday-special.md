@@ -1,6 +1,6 @@
 # The Guardians of the Galaxy Holiday Special
 
-[Compare across authors](../../compare/?t=film-the-guardians-of-the-galaxy-holiday-special_774752)
+[Compare across authors](../compare/index.md?t=film-the-guardians-of-the-galaxy-holiday-special_774752)
 
 ## DD+ Atmos
 

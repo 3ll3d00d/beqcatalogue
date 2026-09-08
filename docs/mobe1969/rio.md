@@ -1,6 +1,6 @@
 # Rio
 
-[Compare across authors](../../compare/?t=film-rio_46195)
+[Compare across authors](../compare/index.md?t=film-rio_46195)
 
 ## DTS-HD MA 5.1
 

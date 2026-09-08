@@ -1,6 +1,6 @@
 # Day of the Dead: Bloodline
 
-[Compare across authors](../../compare/?t=film-day-of-the-dead-bloodline_485415)
+[Compare across authors](../compare/index.md?t=film-day-of-the-dead-bloodline_485415)
 
 ## DD+ 5.1
 

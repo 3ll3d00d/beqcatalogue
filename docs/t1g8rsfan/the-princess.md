@@ -12,7 +12,7 @@ A beautiful, strong-willed young royal refuses to wed the cruel sociopath to who
 +4dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62946839)  [TMDB](https://www.themoviedb.org/movie/759175)  [Compare across authors](../../compare/?t=film-the-princess_759175)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62946839)  [TMDB](https://www.themoviedb.org/movie/759175)  [Compare across authors](../compare/index.md?t=film-the-princess_759175)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Princess%20(2022)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg)

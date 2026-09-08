@@ -1,6 +1,6 @@
 # Wine War
 
-[Compare across authors](../../compare/?t=film-wine-war_462605)
+[Compare across authors](../compare/index.md?t=film-wine-war_462605)
 
 ## TrueHD 7.1
 

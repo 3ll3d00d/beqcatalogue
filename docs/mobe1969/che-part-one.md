@@ -1,6 +1,6 @@
 # Che: Part One
 
-[Compare across authors](../../compare/?t=film-che-part-one_8881)
+[Compare across authors](../compare/index.md?t=film-che-part-one_8881)
 
 ## DTS-HD MA 5.1
 

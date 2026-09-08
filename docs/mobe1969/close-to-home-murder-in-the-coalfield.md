@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-close-to-home-murder-in-the-coalfield_208855)
+[Compare across authors](../compare/index.md?t=TV-close-to-home-murder-in-the-coalfield_208855)
 
 ## Season 1
 

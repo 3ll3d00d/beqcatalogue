@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-detention_105555)
+[Compare across authors](../compare/index.md?t=TV-detention_105555)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Basic
 
-[Compare across authors](../../compare/?t=film-basic_10782)
+[Compare across authors](../compare/index.md?t=film-basic_10782)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Mary
 
-[Compare across authors](../../compare/?t=film-mary_419706)
+[Compare across authors](../compare/index.md?t=film-mary_419706)
 
 ## DTS-HD MA 5.1
 

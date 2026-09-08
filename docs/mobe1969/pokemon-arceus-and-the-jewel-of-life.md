@@ -1,6 +1,6 @@
 # Pokémon: Arceus and the Jewel of Life
 
-[Compare across authors](../../compare/?t=film-pokemon-arceus-and-the-jewel-of-life_39057)
+[Compare across authors](../compare/index.md?t=film-pokemon-arceus-and-the-jewel-of-life_39057)
 
 ## DTS-HD MA 5.1
 

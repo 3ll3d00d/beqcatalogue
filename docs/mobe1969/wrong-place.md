@@ -1,6 +1,6 @@
 # Wrong Place
 
-[Compare across authors](../../compare/?t=film-wrong-place_921353)
+[Compare across authors](../compare/index.md?t=film-wrong-place_921353)
 
 ## DTS-HD MA 5.1
 

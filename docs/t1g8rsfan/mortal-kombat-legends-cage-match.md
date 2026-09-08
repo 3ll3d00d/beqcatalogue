@@ -9,7 +9,7 @@ In 1980s Hollywood, action star Johnny Cage is looking to become an A-list actor
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62913599)  [TMDB](https://www.themoviedb.org/movie/1034062)  [Compare across authors](../../compare/?t=film-mortal-kombat-legends-cage-match_1034062)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62913599)  [TMDB](https://www.themoviedb.org/movie/1034062)  [Compare across authors](../compare/index.md?t=film-mortal-kombat-legends-cage-match_1034062)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/MKL%20Cage%20Match%20(2023)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)

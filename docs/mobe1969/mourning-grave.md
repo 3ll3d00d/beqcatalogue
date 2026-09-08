@@ -1,6 +1,6 @@
 # Mourning Grave
 
-[Compare across authors](../../compare/?t=film-mourning-grave_284063)
+[Compare across authors](../compare/index.md?t=film-mourning-grave_284063)
 
 ## DTS-HD MA 5.1
 

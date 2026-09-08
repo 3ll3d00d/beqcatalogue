@@ -1,6 +1,6 @@
 # Range Runners
 
-[Compare across authors](../../compare/?t=film-range-runners_594089)
+[Compare across authors](../compare/index.md?t=film-range-runners_594089)
 
 ## DD+ 5.1
 

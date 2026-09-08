@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-undone_86340)
+[Compare across authors](../compare/index.md?t=TV-undone_86340)
 
 ## Season 1
 

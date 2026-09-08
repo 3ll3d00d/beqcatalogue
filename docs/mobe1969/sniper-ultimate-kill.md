@@ -1,6 +1,6 @@
 # Sniper: Ultimate Kill
 
-[Compare across authors](../../compare/?t=film-sniper-ultimate-kill_464889)
+[Compare across authors](../compare/index.md?t=film-sniper-ultimate-kill_464889)
 
 ## DTS-HD MA 5.1
 

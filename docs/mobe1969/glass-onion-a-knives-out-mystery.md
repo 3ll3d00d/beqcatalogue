@@ -1,6 +1,6 @@
 # Glass Onion: A Knives Out Mystery
 
-[Compare across authors](../../compare/?t=film-glass-onion-a-knives-out-mystery_661374)
+[Compare across authors](../compare/index.md?t=film-glass-onion-a-knives-out-mystery_661374)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Star Trek V: The Final Frontier
 
-[Compare across authors](../../compare/?t=film-star-trek-v-the-final-frontier_172)
+[Compare across authors](../compare/index.md?t=film-star-trek-v-the-final-frontier_172)
 
 ## TrueHD 7.1
 

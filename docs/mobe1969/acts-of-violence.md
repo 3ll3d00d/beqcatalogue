@@ -1,6 +1,6 @@
 # Acts of Violence
 
-[Compare across authors](../../compare/?t=film-acts-of-violence_479040)
+[Compare across authors](../compare/index.md?t=film-acts-of-violence_479040)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Lights Out
 
-[Compare across authors](../../compare/?t=film-lights-out_345911)
+[Compare across authors](../compare/index.md?t=film-lights-out_345911)
 
 ## DTS-HD MA 5.1
 

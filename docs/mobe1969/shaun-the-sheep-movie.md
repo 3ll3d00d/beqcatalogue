@@ -1,6 +1,6 @@
 # Shaun the Sheep Movie
 
-[Compare across authors](../../compare/?t=film-shaun-the-sheep-movie_263109)
+[Compare across authors](../compare/index.md?t=film-shaun-the-sheep-movie_263109)
 
 ## DTS-HD MA 5.1
 

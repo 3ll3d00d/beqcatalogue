@@ -1,6 +1,6 @@
 # Pokemon the Movie: Mewtwo Strikes Back - Evolution
 
-[Compare across authors](../../compare/?t=film-pokemon-the-movie-mewtwo-strikes-back-evolution_571891)
+[Compare across authors](../compare/index.md?t=film-pokemon-the-movie-mewtwo-strikes-back-evolution_571891)
 
 ## DD+ 5.1
 

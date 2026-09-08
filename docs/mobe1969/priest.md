@@ -1,6 +1,6 @@
 # Priest
 
-[Compare across authors](../../compare/?t=film-priest_38321)
+[Compare across authors](../compare/index.md?t=film-priest_38321)
 
 ## DTS-HD MA 5.1
 

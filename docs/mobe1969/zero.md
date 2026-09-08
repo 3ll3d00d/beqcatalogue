@@ -1,6 +1,6 @@
 # Zero
 
-[Compare across authors](../../compare/?t=film-zero_496076)
+[Compare across authors](../compare/index.md?t=film-zero_496076)
 
 ## DD+ 5.1
 

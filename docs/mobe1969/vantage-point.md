@@ -1,6 +1,6 @@
 # Vantage Point
 
-[Compare across authors](../../compare/?t=film-vantage-point_7461)
+[Compare across authors](../compare/index.md?t=film-vantage-point_7461)
 
 ## TrueHD 5.1
 

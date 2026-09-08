@@ -1,6 +1,6 @@
 # A Nightmare on Elm Street
 
-[Compare across authors](../../compare/?t=film-a-nightmare-on-elm-street_377)
+[Compare across authors](../compare/index.md?t=film-a-nightmare-on-elm-street_377)
 
 ## DTS-HD MA 5.1
 

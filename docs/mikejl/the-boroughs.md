@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-the-boroughs_224941)
+* [Compare across authors](../compare/index.md?t=TV-the-boroughs_224941)
 
 * Production Year: 2026
 

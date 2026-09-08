@@ -1,6 +1,6 @@
 # Wedding Season
 
-[Compare across authors](../../compare/?t=film-wedding-season_818612)
+[Compare across authors](../compare/index.md?t=film-wedding-season_818612)
 
 ## DD+ Atmos
 

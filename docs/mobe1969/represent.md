@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-represent_194899)
+[Compare across authors](../compare/index.md?t=TV-represent_194899)
 
 ## Season 1
 

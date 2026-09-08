@@ -1,6 +1,6 @@
 # Underworld
 
-[Compare across authors](../../compare/?t=film-underworld_277)
+[Compare across authors](../compare/index.md?t=film-underworld_277)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Aegis
 
-[Compare across authors](../../compare/?t=film-aegis_159535)
+[Compare across authors](../compare/index.md?t=film-aegis_159535)
 
 ## DTS-HD MA 5.1
 

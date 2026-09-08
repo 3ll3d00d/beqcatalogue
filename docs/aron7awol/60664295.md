@@ -1,6 +1,6 @@
 # Nobody
 
-[Compare across authors](../../compare/?t=film-nobody_615457)
+[Compare across authors](../compare/index.md?t=film-nobody_615457)
 
 ## Atmos
 

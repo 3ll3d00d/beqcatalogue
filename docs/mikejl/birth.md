@@ -7,7 +7,7 @@
 It took Anna 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph, and finally moving on. However, on the night of her engagement party, a young boy named Sean turns up, saying he is her dead husband reincarnated. At first she ignores the child, but his knowledge of her former husband's life is uncanny, leading her to believe that he might be telling the truth.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/10740)  [Compare across authors](../../compare/?t=film-birth_10740)
+[TMDB](https://www.themoviedb.org/movie/10740)  [Compare across authors](../compare/index.md?t=film-birth_10740)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Birth/Birth%20(2004)%20DTS-HD%20MA%205.1.jpg)

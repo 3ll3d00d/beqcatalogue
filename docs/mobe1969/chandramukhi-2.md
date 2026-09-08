@@ -1,6 +1,6 @@
 # Chandramukhi 2
 
-[Compare across authors](../../compare/?t=film-chandramukhi-2_987580)
+[Compare across authors](../compare/index.md?t=film-chandramukhi-2_987580)
 
 ## DD+ 5.1
 

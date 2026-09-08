@@ -1,6 +1,6 @@
 # Kung Fu Panda 3
 
-[Compare across authors](../../compare/?t=film-kung-fu-panda-3_140300)
+[Compare across authors](../compare/index.md?t=film-kung-fu-panda-3_140300)
 
 ## DTS-HD MA 7.1
 

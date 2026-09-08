@@ -1,6 +1,6 @@
 # AINBO: Spirit of the Amazon
 
-[Compare across authors](../../compare/?t=film-ainbo-spirit-of-the-amazon_588921)
+[Compare across authors](../compare/index.md?t=film-ainbo-spirit-of-the-amazon_588921)
 
 ## DD+ 5.1
 

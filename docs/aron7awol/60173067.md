@@ -1,6 +1,6 @@
 # A Babysitter's Guide to Monster Hunting
 
-[Compare across authors](../../compare/?t=film-a-babysitters-guide-to-monster-hunting_624963)
+[Compare across authors](../compare/index.md?t=film-a-babysitters-guide-to-monster-hunting_624963)
 
 ## DD+ Atmos
 

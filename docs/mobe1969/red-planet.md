@@ -1,6 +1,6 @@
 # Red Planet
 
-[Compare across authors](../../compare/?t=film-red-planet_8870)
+[Compare across authors](../compare/index.md?t=film-red-planet_8870)
 
 ## DTS-HD MA 5.1
 

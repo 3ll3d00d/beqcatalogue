@@ -1,6 +1,6 @@
 # Flag Day
 
-[Compare across authors](../../compare/?t=film-flag-day_662712)
+[Compare across authors](../compare/index.md?t=film-flag-day_662712)
 
 ## DTS-HD MA 7.1
 

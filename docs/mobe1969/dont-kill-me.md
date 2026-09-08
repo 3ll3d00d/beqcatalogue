@@ -1,6 +1,6 @@
 # Don't Kill Me
 
-[Compare across authors](../../compare/?t=film-dont-kill-me_734796)
+[Compare across authors](../compare/index.md?t=film-dont-kill-me_734796)
 
 ## DD+ 5.1
 

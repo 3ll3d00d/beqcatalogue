@@ -1,6 +1,6 @@
 # The Collective
 
-[Compare across authors](../../compare/?t=film-the-collective_1060090)
+[Compare across authors](../compare/index.md?t=film-the-collective_1060090)
 
 ## DD+ 5.1
 

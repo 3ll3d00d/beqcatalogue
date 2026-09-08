@@ -1,6 +1,6 @@
 # Painted Skin
 
-[Compare across authors](../../compare/?t=film-painted-skin_17808)
+[Compare across authors](../compare/index.md?t=film-painted-skin_17808)
 
 ## DTS-HD MA 5.1
 

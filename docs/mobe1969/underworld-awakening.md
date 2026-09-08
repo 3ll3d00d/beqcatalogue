@@ -1,6 +1,6 @@
 # Underworld: Awakening
 
-[Compare across authors](../../compare/?t=film-underworld-awakening_52520)
+[Compare across authors](../compare/index.md?t=film-underworld-awakening_52520)
 
 ## Atmos
 

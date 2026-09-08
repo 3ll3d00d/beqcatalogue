@@ -1,6 +1,6 @@
 # The Last Days of American Crime
 
-[Compare across authors](../../compare/?t=film-the-last-days-of-american-crime_339095)
+[Compare across authors](../compare/index.md?t=film-the-last-days-of-american-crime_339095)
 
 ## DD+ Atmos, DD+ 5.1
 

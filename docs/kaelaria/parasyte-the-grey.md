@@ -10,7 +10,7 @@
 KO
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-parasyte-the-grey_208825)
+* [Compare across authors](../compare/index.md?t=TV-parasyte-the-grey_208825)
 
 * Production Year: 2024
 

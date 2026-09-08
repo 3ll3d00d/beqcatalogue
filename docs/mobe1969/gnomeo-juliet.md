@@ -1,6 +1,6 @@
 # Gnomeo & Juliet
 
-[Compare across authors](../../compare/?t=film-gnomeo-juliet_45772)
+[Compare across authors](../compare/index.md?t=film-gnomeo-juliet_45772)
 
 ## DTS-HD MA 5.1
 

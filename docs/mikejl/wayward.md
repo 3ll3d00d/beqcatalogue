@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-wayward_255859)
+* [Compare across authors](../compare/index.md?t=TV-wayward_255859)
 
 * Production Year: 2025
 

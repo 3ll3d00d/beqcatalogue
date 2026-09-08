@@ -1,6 +1,6 @@
 # Ordinary Love
 
-[Compare across authors](../../compare/?t=film-ordinary-love_588787)
+[Compare across authors](../compare/index.md?t=film-ordinary-love_588787)
 
 ## DTS-HD MA 5.1
 

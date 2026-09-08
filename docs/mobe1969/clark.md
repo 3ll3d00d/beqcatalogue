@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-clark_157008)
+[Compare across authors](../compare/index.md?t=TV-clark_157008)
 
 ## Season 1
 

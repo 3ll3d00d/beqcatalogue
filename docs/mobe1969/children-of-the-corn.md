@@ -1,6 +1,6 @@
 # Children of the Corn
 
-[Compare across authors](../../compare/?t=film-children-of-the-corn_10823)
+[Compare across authors](../compare/index.md?t=film-children-of-the-corn_10823)
 
 ## DTS-HD MA 5.1
 

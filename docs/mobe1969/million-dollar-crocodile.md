@@ -1,6 +1,6 @@
 # Million Dollar Crocodile
 
-[Compare across authors](../../compare/?t=film-million-dollar-crocodile_115738)
+[Compare across authors](../compare/index.md?t=film-million-dollar-crocodile_115738)
 
 ## DD 5.1
 

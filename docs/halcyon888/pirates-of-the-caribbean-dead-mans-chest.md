@@ -12,7 +12,7 @@ Captain Jack Sparrow works his way out of a blood debt with the ghostly Davy Jon
 BEQ Note: This BEQ was contributed to the catalogue by AVS Forum member Magly, thank you!
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/58)  [Compare across authors](../../compare/?t=film-pirates-of-the-caribbean-dead-mans-chest_58)
+[TMDB](https://www.themoviedb.org/movie/58)  [Compare across authors](../compare/index.md?t=film-pirates-of-the-caribbean-dead-mans-chest_58)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Pirates%20of%20the%20Caribbean%20Dead%20Mans%20Chest%20(2006)%20Atmos%20PvA.png)
@@ -28,7 +28,7 @@ Jack's got a blood debt to pay: he owes his soul to the legendary Davy Jones, gh
 
 **MV Adjustment:** +0.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/58)  [Compare across authors](../../compare/?t=film-pirates-of-the-caribbean-dead-mans-chest_58)
+[TMDB](https://www.themoviedb.org/movie/58)  [Compare across authors](../compare/index.md?t=film-pirates-of-the-caribbean-dead-mans-chest_58)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/Pirates%20of%20the%20Caribbean%20-%20Dead%20Mans%20Chest%20(2006)%20LPCM5.1%20PvA.jpg)

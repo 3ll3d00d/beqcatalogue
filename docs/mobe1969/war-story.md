@@ -1,6 +1,6 @@
 # War Story
 
-[Compare across authors](../../compare/?t=film-war-story_246013)
+[Compare across authors](../compare/index.md?t=film-war-story_246013)
 
 ## DD 5.1
 

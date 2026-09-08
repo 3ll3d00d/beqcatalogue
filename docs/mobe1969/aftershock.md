@@ -1,6 +1,6 @@
 # Aftershock
 
-[Compare across authors](../../compare/?t=film-aftershock_44560)
+[Compare across authors](../compare/index.md?t=film-aftershock_44560)
 
 ## DTS-HD MA 5.1
 

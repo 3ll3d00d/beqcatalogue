@@ -1,6 +1,6 @@
 # Warhorse One
 
-[Compare across authors](../../compare/?t=film-warhorse-one_1076487)
+[Compare across authors](../compare/index.md?t=film-warhorse-one_1076487)
 
 ## DD+ 5.1
 

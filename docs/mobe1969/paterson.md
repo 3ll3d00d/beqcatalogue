@@ -1,6 +1,6 @@
 # Paterson
 
-[Compare across authors](../../compare/?t=film-paterson_370755)
+[Compare across authors](../compare/index.md?t=film-paterson_370755)
 
 ## DTS-HD MA 5.1
 

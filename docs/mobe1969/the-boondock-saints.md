@@ -1,6 +1,6 @@
 # The Boondock Saints
 
-[Compare across authors](../../compare/?t=film-the-boondock-saints_8374)
+[Compare across authors](../compare/index.md?t=film-the-boondock-saints_8374)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 Roger Cobb, a divorced horror novelist coming to terms with the disappearance of his young son, inherits an old mansion home to malevolent supernatural residents.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/11415)  [Compare across authors](../../compare/?t=film-house_11415)
+[TMDB](https://www.themoviedb.org/movie/11415)  [Compare across authors](../compare/index.md?t=film-house_11415)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/House%20(1985)%20DTS-HD%20MA%205.1.jpg)

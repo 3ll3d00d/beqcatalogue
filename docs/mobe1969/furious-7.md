@@ -1,6 +1,6 @@
 # Furious 7
 
-[Compare across authors](../../compare/?t=film-furious-7_168259)
+[Compare across authors](../compare/index.md?t=film-furious-7_168259)
 
 ## DTS-HD MA 7.1
 

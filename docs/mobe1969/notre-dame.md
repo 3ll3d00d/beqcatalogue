@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-notre-dame_129057)
+[Compare across authors](../compare/index.md?t=TV-notre-dame_129057)
 
 ## Season 1
 

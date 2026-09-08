@@ -1,6 +1,6 @@
 # Deliver Us From Evil
 
-[Compare across authors](../../compare/?t=film-deliver-us-from-evil_581526)
+[Compare across authors](../compare/index.md?t=film-deliver-us-from-evil_581526)
 
 ## DTS-HD MA 5.1
 

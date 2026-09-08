@@ -1,6 +1,6 @@
 # Bulletproof Monk
 
-[Compare across authors](../../compare/?t=film-bulletproof-monk_11817)
+[Compare across authors](../compare/index.md?t=film-bulletproof-monk_11817)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Hellraiser
 
-[Compare across authors](../../compare/?t=film-hellraiser_9003)
+[Compare across authors](../compare/index.md?t=film-hellraiser_9003)
 
 ## DTS-HD MA 5.1
 

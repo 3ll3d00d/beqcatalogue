@@ -1,6 +1,6 @@
 # Tenet
 
-[Compare across authors](../../compare/?t=film-tenet_577922)
+[Compare across authors](../compare/index.md?t=film-tenet_577922)
 
 ## DTS-HD MA 5.1
 

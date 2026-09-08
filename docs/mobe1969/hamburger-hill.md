@@ -1,6 +1,6 @@
 # Hamburger Hill
 
-[Compare across authors](../../compare/?t=film-hamburger-hill_10652)
+[Compare across authors](../compare/index.md?t=film-hamburger-hill_10652)
 
 ## DTS-HD MA 5.1
 

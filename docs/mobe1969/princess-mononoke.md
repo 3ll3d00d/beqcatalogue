@@ -1,6 +1,6 @@
 # Princess Mononoke
 
-[Compare across authors](../../compare/?t=film-princess-mononoke_128)
+[Compare across authors](../compare/index.md?t=film-princess-mononoke_128)
 
 ## DTS-HD MA 5.1
 

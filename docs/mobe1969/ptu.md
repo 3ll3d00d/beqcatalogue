@@ -1,6 +1,6 @@
 # PTU
 
-[Compare across authors](../../compare/?t=film-ptu_25536)
+[Compare across authors](../compare/index.md?t=film-ptu_25536)
 
 ## DTS-HD MA 5.1
 

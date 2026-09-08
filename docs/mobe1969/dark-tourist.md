@@ -1,6 +1,6 @@
 # Dark Tourist
 
-[Compare across authors](../../compare/?t=film-dark-tourist_204882)
+[Compare across authors](../compare/index.md?t=film-dark-tourist_204882)
 
 ## DTS-HD MA 5.1
 

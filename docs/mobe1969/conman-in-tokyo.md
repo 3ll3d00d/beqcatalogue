@@ -1,6 +1,6 @@
 # Conman in Tokyo
 
-[Compare across authors](../../compare/?t=film-conman-in-tokyo_75697)
+[Compare across authors](../compare/index.md?t=film-conman-in-tokyo_75697)
 
 ## TrueHD 5.1
 

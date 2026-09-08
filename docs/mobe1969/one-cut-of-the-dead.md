@@ -1,6 +1,6 @@
 # One Cut of the Dead
 
-[Compare across authors](../../compare/?t=film-one-cut-of-the-dead_513434)
+[Compare across authors](../compare/index.md?t=film-one-cut-of-the-dead_513434)
 
 ## DTS-HD MA 2.0
 

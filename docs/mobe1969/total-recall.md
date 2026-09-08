@@ -1,6 +1,6 @@
 # Total Recall
 
-[Compare across authors](../../compare/?t=film-total-recall_64635)
+[Compare across authors](../compare/index.md?t=film-total-recall_64635)
 
 ## DD+ 5.1
 

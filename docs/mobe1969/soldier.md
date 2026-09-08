@@ -1,6 +1,6 @@
 # Soldier
 
-[Compare across authors](../../compare/?t=film-soldier_9425)
+[Compare across authors](../compare/index.md?t=film-soldier_9425)
 
 ## DTS-HD MA 5.1
 

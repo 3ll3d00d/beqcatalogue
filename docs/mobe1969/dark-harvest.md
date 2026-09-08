@@ -1,6 +1,6 @@
 # Dark Harvest
 
-[Compare across authors](../../compare/?t=film-dark-harvest_675531)
+[Compare across authors](../compare/index.md?t=film-dark-harvest_675531)
 
 ## DD+ 5.1
 

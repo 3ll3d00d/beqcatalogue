@@ -1,6 +1,6 @@
 # Passchendaele
 
-[Compare across authors](../../compare/?t=film-passchendaele_14582)
+[Compare across authors](../compare/index.md?t=film-passchendaele_14582)
 
 ## DTS-HD MA 5.1
 

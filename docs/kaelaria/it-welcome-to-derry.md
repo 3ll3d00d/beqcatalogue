@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-it-welcome-to-derry_200875)
+* [Compare across authors](../compare/index.md?t=TV-it-welcome-to-derry_200875)
 
 * Production Year: 2025
 

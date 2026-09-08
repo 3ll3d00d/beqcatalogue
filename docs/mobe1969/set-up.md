@@ -1,6 +1,6 @@
 # Set Up
 
-[Compare across authors](../../compare/?t=film-set-up_70586)
+[Compare across authors](../compare/index.md?t=film-set-up_70586)
 
 ## DTS-HD MA 5.1
 

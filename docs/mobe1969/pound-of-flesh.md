@@ -1,6 +1,6 @@
 # Pound of Flesh
 
-[Compare across authors](../../compare/?t=film-pound-of-flesh_326284)
+[Compare across authors](../compare/index.md?t=film-pound-of-flesh_326284)
 
 ## DTS-HD MA 5.1
 

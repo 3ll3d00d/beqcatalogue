@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-lost_4607)
+* [Compare across authors](../compare/index.md?t=TV-lost_4607)
 
 * Production Year: 2004
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-lost_4607)
+* [Compare across authors](../compare/index.md?t=TV-lost_4607)
 
 * Production Year: 2004
 
@@ -37,7 +37,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-lost_4607)
+* [Compare across authors](../compare/index.md?t=TV-lost_4607)
 
 * Production Year: 2004
 
@@ -52,7 +52,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-lost_4607)
+* [Compare across authors](../compare/index.md?t=TV-lost_4607)
 
 * Production Year: 2004
 
@@ -67,7 +67,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-lost_4607)
+* [Compare across authors](../compare/index.md?t=TV-lost_4607)
 
 * Production Year: 2004
 
@@ -82,7 +82,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-lost_4607)
+* [Compare across authors](../compare/index.md?t=TV-lost_4607)
 
 * Production Year: 2004
 

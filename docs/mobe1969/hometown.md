@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-hometown_128184)
+[Compare across authors](../compare/index.md?t=TV-hometown_128184)
 
 ## Season 1
 

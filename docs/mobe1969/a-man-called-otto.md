@@ -1,6 +1,6 @@
 # A Man Called Otto
 
-[Compare across authors](../../compare/?t=film-a-man-called-otto_937278)
+[Compare across authors](../compare/index.md?t=film-a-man-called-otto_937278)
 
 ## DD+ 5.1
 

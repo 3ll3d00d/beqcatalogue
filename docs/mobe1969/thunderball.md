@@ -1,6 +1,6 @@
 # Thunderball
 
-[Compare across authors](../../compare/?t=film-thunderball_660)
+[Compare across authors](../compare/index.md?t=film-thunderball_660)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Bourne Ultimatum
 
-[Compare across authors](../../compare/?t=film-the-bourne-ultimatum_2503)
+[Compare across authors](../compare/index.md?t=film-the-bourne-ultimatum_2503)
 
 ## DD+ 5.1
 

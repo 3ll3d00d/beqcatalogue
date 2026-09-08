@@ -1,6 +1,6 @@
 # Little Monsters
 
-[Compare across authors](../../compare/?t=film-little-monsters_503125)
+[Compare across authors](../compare/index.md?t=film-little-monsters_503125)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # American Sicario
 
-[Compare across authors](../../compare/?t=film-american-sicario_893297)
+[Compare across authors](../compare/index.md?t=film-american-sicario_893297)
 
 ## DD+ 5.1
 

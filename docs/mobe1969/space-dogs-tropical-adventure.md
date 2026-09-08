@@ -1,6 +1,6 @@
 # Space Dogs: Tropical Adventure
 
-[Compare across authors](../../compare/?t=film-space-dogs-tropical-adventure_579824)
+[Compare across authors](../compare/index.md?t=film-space-dogs-tropical-adventure_579824)
 
 ## DD+ 5.1
 

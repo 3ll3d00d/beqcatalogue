@@ -1,6 +1,6 @@
 # Batman: Bad Blood
 
-[Compare across authors](../../compare/?t=film-batman-bad-blood_366924)
+[Compare across authors](../compare/index.md?t=film-batman-bad-blood_366924)
 
 ## DTS-HD MA 5.1
 

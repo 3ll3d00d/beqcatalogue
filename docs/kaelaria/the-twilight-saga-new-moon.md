@@ -7,7 +7,7 @@
 Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/18239)  [Compare across authors](../../compare/?t=film-the-twilight-saga-new-moon_18239)
+[TMDB](https://www.themoviedb.org/movie/18239)  [Compare across authors](../compare/index.md?t=film-the-twilight-saga-new-moon_18239)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Twilight%20Saga%20New%20Moon%20(2009)%20Atmos.jpg)

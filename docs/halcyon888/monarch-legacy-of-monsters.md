@@ -14,7 +14,7 @@ Dialnorm Compensation: E01 +6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62955174)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -34,7 +34,7 @@ Dialnorm Compensation: E10 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62955174)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -56,7 +56,7 @@ Dialnorm Compensation: E02 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62955174)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -78,7 +78,7 @@ Dialnorm Compensation: E03 +6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62955174)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -100,7 +100,7 @@ Dialnorm Compensation: E04 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62955174)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -122,7 +122,7 @@ Dialnorm Compensation: E05 +3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62955174)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -144,7 +144,7 @@ Dialnorm Compensation: E06 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62955174)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -166,7 +166,7 @@ Dialnorm Compensation: E07 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62955174)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -188,7 +188,7 @@ Dialnorm Compensation: E08 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62955174)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 
@@ -210,7 +210,7 @@ Dialnorm Compensation: E09 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62955174)
 
-* [Compare across authors](../../compare/?t=TV-monarch-legacy-of-monsters_202411)
+* [Compare across authors](../compare/index.md?t=TV-monarch-legacy-of-monsters_202411)
 
 * Production Year: 2023
 

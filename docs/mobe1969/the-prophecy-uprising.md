@@ -1,6 +1,6 @@
 # The Prophecy: Uprising
 
-[Compare across authors](../../compare/?t=film-the-prophecy-uprising_19564)
+[Compare across authors](../compare/index.md?t=film-the-prophecy-uprising_19564)
 
 ## DTS-HD MA 5.1
 

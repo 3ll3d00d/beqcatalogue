@@ -1,6 +1,6 @@
 # Hot Fuzz
 
-[Compare across authors](../../compare/?t=film-hot-fuzz_4638)
+[Compare across authors](../compare/index.md?t=film-hot-fuzz_4638)
 
 ## DTS-X
 

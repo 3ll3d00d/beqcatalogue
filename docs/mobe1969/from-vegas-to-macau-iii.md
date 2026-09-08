@@ -1,6 +1,6 @@
 # From Vegas to Macau III
 
-[Compare across authors](../../compare/?t=film-from-vegas-to-macau-iii_381002)
+[Compare across authors](../compare/index.md?t=film-from-vegas-to-macau-iii_381002)
 
 ## Atmos
 

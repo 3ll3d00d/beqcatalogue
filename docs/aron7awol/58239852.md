@@ -1,6 +1,6 @@
 # xXx
 
-[Compare across authors](../../compare/?t=film-xxx_7451)
+[Compare across authors](../compare/index.md?t=film-xxx_7451)
 
 ## DTS-HD MA 5.1
 

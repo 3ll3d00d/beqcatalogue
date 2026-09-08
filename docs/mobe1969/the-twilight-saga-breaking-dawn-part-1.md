@@ -1,6 +1,6 @@
 # The Twilight Saga: Breaking Dawn - Part 1
 
-[Compare across authors](../../compare/?t=film-the-twilight-saga-breaking-dawn-part-1_50619)
+[Compare across authors](../compare/index.md?t=film-the-twilight-saga-breaking-dawn-part-1_50619)
 
 ## DD+ 5.1
 

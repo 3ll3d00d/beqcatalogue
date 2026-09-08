@@ -9,7 +9,7 @@ Over many missions and against impossible odds, Dom Toretto and his family have 
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62607897)  [TMDB](https://www.themoviedb.org/movie/385687)  [Compare across authors](../../compare/?t=film-fast-x_385687)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62607897)  [TMDB](https://www.themoviedb.org/movie/385687)  [Compare across authors](../compare/index.md?t=film-fast-x_385687)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Fast%20X%20(2023)%20(-2.5%20gain)%20Atmos.jpg)
@@ -26,7 +26,7 @@ Over many missions and against impossible odds, Dom Toretto and his family have 
 +6dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62607897)  [TMDB](https://www.themoviedb.org/movie/385687)  [Compare across authors](../../compare/?t=film-fast-x_385687)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62607897)  [TMDB](https://www.themoviedb.org/movie/385687)  [Compare across authors](../compare/index.md?t=film-fast-x_385687)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Fast%20X%20(2023)%20DD%2B%20Atmos.jpg)

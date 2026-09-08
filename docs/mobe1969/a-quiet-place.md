@@ -1,6 +1,6 @@
 # A Quiet Place
 
-[Compare across authors](../../compare/?t=film-a-quiet-place_447332)
+[Compare across authors](../compare/index.md?t=film-a-quiet-place_447332)
 
 ## Atmos, DD+ 5.1
 

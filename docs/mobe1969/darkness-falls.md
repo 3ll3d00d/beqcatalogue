@@ -1,6 +1,6 @@
 # Darkness Falls
 
-[Compare across authors](../../compare/?t=film-darkness-falls_10727)
+[Compare across authors](../compare/index.md?t=film-darkness-falls_10727)
 
 ## DD+ 5.1
 

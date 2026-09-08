@@ -9,7 +9,7 @@ Two young men meet in a twin bereavement support group and form an unlikely brom
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1684?post_id=64327461#post-64327461)  [TMDB](https://www.themoviedb.org/movie/1245347)  [Compare across authors](../../compare/?t=film-twinless_1245347)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1684?post_id=64327461#post-64327461)  [TMDB](https://www.themoviedb.org/movie/1245347)  [Compare across authors](../compare/index.md?t=film-twinless_1245347)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Twinless%20(2025)%20(%2B1%20gain)%20DD%2B.jpg)

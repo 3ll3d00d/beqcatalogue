@@ -1,6 +1,6 @@
 # Come to Daddy
 
-[Compare across authors](../../compare/?t=film-come-to-daddy_586592)
+[Compare across authors](../compare/index.md?t=film-come-to-daddy_586592)
 
 ## DTS-HD MA 5.1
 

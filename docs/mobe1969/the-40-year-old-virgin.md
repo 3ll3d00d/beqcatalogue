@@ -1,6 +1,6 @@
 # The 40 Year Old Virgin
 
-[Compare across authors](../../compare/?t=film-the-40-year-old-virgin_6957)
+[Compare across authors](../compare/index.md?t=film-the-40-year-old-virgin_6957)
 
 ## DTS-HD MA 5.1
 

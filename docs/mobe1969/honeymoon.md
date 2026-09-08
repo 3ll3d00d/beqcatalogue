@@ -1,6 +1,6 @@
 # Honeymoon
 
-[Compare across authors](../../compare/?t=film-honeymoon_254191)
+[Compare across authors](../compare/index.md?t=film-honeymoon_254191)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Panama
 
-[Compare across authors](../../compare/?t=film-panama_628878)
+[Compare across authors](../compare/index.md?t=film-panama_628878)
 
 ## DTS-HD MA 5.1
 

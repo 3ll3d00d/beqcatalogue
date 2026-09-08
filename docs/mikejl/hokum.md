@@ -7,7 +7,7 @@
 When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1430077)  [Compare across authors](../../compare/?t=film-hokum_1430077)
+[TMDB](https://www.themoviedb.org/movie/1430077)  [Compare across authors](../compare/index.md?t=film-hokum_1430077)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hokum/Hokum%20(2026)%20DTS-HD%20MA%205.1.jpg)

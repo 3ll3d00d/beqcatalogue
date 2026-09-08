@@ -1,6 +1,6 @@
 # Recurrence
 
-[Compare across authors](../../compare/?t=film-recurrence_798223)
+[Compare across authors](../compare/index.md?t=film-recurrence_798223)
 
 ## DD+ 5.1
 

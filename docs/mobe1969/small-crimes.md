@@ -1,6 +1,6 @@
 # Small Crimes
 
-[Compare across authors](../../compare/?t=film-small-crimes_411405)
+[Compare across authors](../compare/index.md?t=film-small-crimes_411405)
 
 ## DD+ 5.1
 

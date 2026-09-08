@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-falcon-and-the-winter-soldier_88396)
+[Compare across authors](../compare/index.md?t=TV-the-falcon-and-the-winter-soldier_88396)
 
 ## Season 1
 

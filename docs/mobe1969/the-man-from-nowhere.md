@@ -1,6 +1,6 @@
 # The Man from Nowhere
 
-[Compare across authors](../../compare/?t=film-the-man-from-nowhere_51608)
+[Compare across authors](../compare/index.md?t=film-the-man-from-nowhere_51608)
 
 ## DTS-HD MA 5.1
 

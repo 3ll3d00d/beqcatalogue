@@ -1,6 +1,6 @@
 # The Captive
 
-[Compare across authors](../../compare/?t=film-the-captive_244761)
+[Compare across authors](../compare/index.md?t=film-the-captive_244761)
 
 ## DTS-HD MA 5.1
 

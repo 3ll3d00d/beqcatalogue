@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-underground-railroad_80039)
+[Compare across authors](../compare/index.md?t=TV-the-underground-railroad_80039)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # The Art of War
 
-[Compare across authors](../../compare/?t=film-the-art-of-war_11398)
+[Compare across authors](../compare/index.md?t=film-the-art-of-war_11398)
 
 ## DTS-HD MA 5.1
 

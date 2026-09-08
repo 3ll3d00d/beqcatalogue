@@ -1,6 +1,6 @@
 # Bruised
 
-[Compare across authors](../../compare/?t=film-bruised_718633)
+[Compare across authors](../compare/index.md?t=film-bruised_718633)
 
 ## DD+ Atmos, DD+ 5.1
 

@@ -9,7 +9,7 @@ Set in a post-apocalyptic world, young Thomas is deposited in a community of boy
 
 **MV Adjustment:** -2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62745320)  [TMDB](https://www.themoviedb.org/movie/198663)  [Compare across authors](../../compare/?t=film-the-maze-runner_198663)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62745320)  [TMDB](https://www.themoviedb.org/movie/198663)  [Compare across authors](../compare/index.md?t=film-the-maze-runner_198663)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Maze%20Runner%20(2014)%20(-2.5%20gain)%20DTS-HD%20MA%207.1.jpg)

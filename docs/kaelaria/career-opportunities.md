@@ -7,7 +7,7 @@
 Josie, the daughter of the town's wealthiest businessman, faces problems at home and wishes to leave town but is disoriented. Her decision is finalized after she falls asleep in a Target dressing room. She awakens to find herself locked in the store overnight with the janitor, Jim, the town "no hoper" and liar.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/16270)  [Compare across authors](../../compare/?t=film-career-opportunities_16270)
+[TMDB](https://www.themoviedb.org/movie/16270)  [Compare across authors](../compare/index.md?t=film-career-opportunities_16270)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Career%20Opportunities%20(1991)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # Hostage: Missing Celebrity
 
-[Compare across authors](../../compare/?t=film-hostage-missing-celebrity_602463)
+[Compare across authors](../compare/index.md?t=film-hostage-missing-celebrity_602463)
 
 ## DTS-HD MA 5.1
 

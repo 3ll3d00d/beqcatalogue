@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-order_82104)
+[Compare across authors](../compare/index.md?t=TV-the-order_82104)
 
 ## Season 1
 

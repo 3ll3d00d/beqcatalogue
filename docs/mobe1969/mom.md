@@ -1,6 +1,6 @@
 # Mom
 
-[Compare across authors](../../compare/?t=film-mom_404604)
+[Compare across authors](../compare/index.md?t=film-mom_404604)
 
 ## DD+ 5.1
 

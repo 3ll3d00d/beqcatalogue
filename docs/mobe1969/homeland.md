@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-homeland_1407)
+[Compare across authors](../compare/index.md?t=TV-homeland_1407)
 
 ## Season 8
 

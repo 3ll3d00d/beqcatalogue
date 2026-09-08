@@ -1,6 +1,6 @@
 # Sentinelle
 
-[Compare across authors](../../compare/?t=film-sentinelle_1000081)
+[Compare across authors](../compare/index.md?t=film-sentinelle_1000081)
 
 ## DD+ 5.1
 

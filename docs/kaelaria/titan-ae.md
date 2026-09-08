@@ -7,7 +7,7 @@
 A young man finds out that he holds the key to restoring hope and ensuring survival for the human race, while an alien species called the Drej are bent on mankind's destruction.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/7450)  [Compare across authors](../../compare/?t=film-titan-ae_7450)
+[TMDB](https://www.themoviedb.org/movie/7450)  [Compare across authors](../compare/index.md?t=film-titan-ae_7450)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Titan%20A.E.%20(2000)%20DD%205.1.jpg)

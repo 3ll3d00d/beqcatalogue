@@ -1,6 +1,6 @@
 # Bullet to the Head
 
-[Compare across authors](../../compare/?t=film-bullet-to-the-head_70074)
+[Compare across authors](../compare/index.md?t=film-bullet-to-the-head_70074)
 
 ## DTS-HD MA 5.1
 

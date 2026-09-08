@@ -1,6 +1,6 @@
 # Fight Club
 
-[Compare across authors](../../compare/?t=film-fight-club_550)
+[Compare across authors](../compare/index.md?t=film-fight-club_550)
 
 ## DTS-HD MA 5.1
 

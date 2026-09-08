@@ -1,6 +1,6 @@
 # Dark Was the Night
 
-[Compare across authors](../../compare/?t=film-dark-was-the-night_300467)
+[Compare across authors](../compare/index.md?t=film-dark-was-the-night_300467)
 
 ## DTS-HD MA 5.1
 

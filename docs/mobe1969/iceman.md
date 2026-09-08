@@ -1,6 +1,6 @@
 # Iceman
 
-[Compare across authors](../../compare/?t=film-iceman_105001)
+[Compare across authors](../compare/index.md?t=film-iceman_105001)
 
 ## TrueHD 5.1, DTS-HD MA 5.1
 

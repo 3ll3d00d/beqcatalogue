@@ -1,6 +1,6 @@
 # The Silence of the Lambs
 
-[Compare across authors](../../compare/?t=film-the-silence-of-the-lambs_274)
+[Compare across authors](../compare/index.md?t=film-the-silence-of-the-lambs_274)
 
 ## DTS-HD MA 5.1
 

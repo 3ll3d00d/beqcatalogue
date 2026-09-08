@@ -1,6 +1,6 @@
 # Power Rangers
 
-[Compare across authors](../../compare/?t=film-power-rangers_305470)
+[Compare across authors](../compare/index.md?t=film-power-rangers_305470)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Kesari
 
-[Compare across authors](../../compare/?t=film-kesari_498448)
+[Compare across authors](../compare/index.md?t=film-kesari_498448)
 
 ## DD+ 5.1
 

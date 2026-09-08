@@ -1,6 +1,6 @@
 # Monster Hunt
 
-[Compare across authors](../../compare/?t=film-monster-hunt_334298)
+[Compare across authors](../compare/index.md?t=film-monster-hunt_334298)
 
 ## TrueHD 7.1
 

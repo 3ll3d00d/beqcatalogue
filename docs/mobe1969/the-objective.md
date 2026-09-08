@@ -1,6 +1,6 @@
 # The Objective
 
-[Compare across authors](../../compare/?t=film-the-objective_14878)
+[Compare across authors](../compare/index.md?t=film-the-objective_14878)
 
 ## DTS-HD MA 5.1
 

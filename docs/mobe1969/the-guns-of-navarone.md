@@ -1,6 +1,6 @@
 # The Guns of Navarone
 
-[Compare across authors](../../compare/?t=film-the-guns-of-navarone_10911)
+[Compare across authors](../compare/index.md?t=film-the-guns-of-navarone_10911)
 
 ## Atmos
 

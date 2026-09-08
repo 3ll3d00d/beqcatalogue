@@ -7,7 +7,7 @@
 An L.A. cop discovers a local task force is hiding a secret that puts the residents of his childhood neighborhood in danger.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1323625)  [Compare across authors](../../compare/?t=film-night-patrol_1323625)
+[TMDB](https://www.themoviedb.org/movie/1323625)  [Compare across authors](../compare/index.md?t=film-night-patrol_1323625)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Night%20Patrol/Night%20Patrol%20(2025)%20DD%2B5.1.jpg)
@@ -21,7 +21,7 @@ An L.A. cop discovers a local task force is hiding a secret that puts the reside
 An L.A. cop discovers a local task force is hiding a secret that puts the residents of his childhood neighborhood in danger.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1323625)  [Compare across authors](../../compare/?t=film-night-patrol_1323625)
+[TMDB](https://www.themoviedb.org/movie/1323625)  [Compare across authors](../compare/index.md?t=film-night-patrol_1323625)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Night%20Patrol/Night%20Patrol%20(2026)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # Ocean's Eleven
 
-[Compare across authors](../../compare/?t=film-oceans-eleven_161)
+[Compare across authors](../compare/index.md?t=film-oceans-eleven_161)
 
 ## DD 5.1
 

@@ -1,6 +1,6 @@
 # Warning: Do Not Play
 
-[Compare across authors](../../compare/?t=film-warning-do-not-play_602508)
+[Compare across authors](../compare/index.md?t=film-warning-do-not-play_602508)
 
 ## DTS-HD MA 5.1
 

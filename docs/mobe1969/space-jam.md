@@ -1,6 +1,6 @@
 # Space Jam
 
-[Compare across authors](../../compare/?t=film-space-jam_2300)
+[Compare across authors](../compare/index.md?t=film-space-jam_2300)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Dino Time
 
-[Compare across authors](../../compare/?t=film-dino-time_136793)
+[Compare across authors](../compare/index.md?t=film-dino-time_136793)
 
 ## DTS-HD MA 5.1
 

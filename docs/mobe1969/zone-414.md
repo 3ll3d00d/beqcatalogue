@@ -1,6 +1,6 @@
 # Zone 414
 
-[Compare across authors](../../compare/?t=film-zone-414_675319)
+[Compare across authors](../compare/index.md?t=film-zone-414_675319)
 
 ## DTS-HD MA 5.1
 

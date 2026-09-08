@@ -1,6 +1,6 @@
 # Lost Highway
 
-[Compare across authors](../../compare/?t=film-lost-highway_638)
+[Compare across authors](../compare/index.md?t=film-lost-highway_638)
 
 ## DTS-HD MA 5.1
 

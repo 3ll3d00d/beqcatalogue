@@ -1,6 +1,6 @@
 # Assassination Nation
 
-[Compare across authors](../../compare/?t=film-assassination-nation_446101)
+[Compare across authors](../compare/index.md?t=film-assassination-nation_446101)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Naai Sekar Returns
 
-[Compare across authors](../../compare/?t=film-naai-sekar-returns_882397)
+[Compare across authors](../compare/index.md?t=film-naai-sekar-returns_882397)
 
 ## DD+ 5.1
 

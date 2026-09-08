@@ -1,6 +1,6 @@
 # Captain Marvel
 
-[Compare across authors](../../compare/?t=film-captain-marvel_299537)
+[Compare across authors](../compare/index.md?t=film-captain-marvel_299537)
 
 ## Atmos
 

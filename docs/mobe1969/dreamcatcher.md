@@ -1,6 +1,6 @@
 # Dreamcatcher
 
-[Compare across authors](../../compare/?t=film-dreamcatcher_6171)
+[Compare across authors](../compare/index.md?t=film-dreamcatcher_6171)
 
 ## DTS-HD MA 5.1
 

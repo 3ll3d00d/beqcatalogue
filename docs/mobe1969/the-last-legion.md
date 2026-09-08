@@ -1,6 +1,6 @@
 # The Last Legion
 
-[Compare across authors](../../compare/?t=film-the-last-legion_9703)
+[Compare across authors](../compare/index.md?t=film-the-last-legion_9703)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # American Hero
 
-[Compare across authors](../../compare/?t=film-american-hero_367551)
+[Compare across authors](../compare/index.md?t=film-american-hero_367551)
 
 ## DD+ 5.1
 

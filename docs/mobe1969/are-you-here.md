@@ -1,6 +1,6 @@
 # Are You Here
 
-[Compare across authors](../../compare/?t=film-are-you-here_380087)
+[Compare across authors](../compare/index.md?t=film-are-you-here_380087)
 
 ## TrueHD 5.1
 

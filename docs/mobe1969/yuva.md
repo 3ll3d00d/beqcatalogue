@@ -1,6 +1,6 @@
 # Yuva
 
-[Compare across authors](../../compare/?t=film-yuva_43410)
+[Compare across authors](../compare/index.md?t=film-yuva_43410)
 
 ## DD+ 5.1
 

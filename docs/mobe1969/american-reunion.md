@@ -1,6 +1,6 @@
 # American Reunion
 
-[Compare across authors](../../compare/?t=film-american-reunion_71552)
+[Compare across authors](../compare/index.md?t=film-american-reunion_71552)
 
 ## DTS-HD MA 5.1
 

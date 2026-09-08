@@ -9,7 +9,7 @@ Rising executive Tim Conrad works for a boss who hosts a monthly dinner in which
 
 **MV Adjustment:** +10.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1741?post_id=64612665#post-64612665)  [TMDB](https://www.themoviedb.org/movie/38778)  [Compare across authors](../../compare/?t=film-dinner-for-schmucks_38778)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1741?post_id=64612665#post-64612665)  [TMDB](https://www.themoviedb.org/movie/38778)  [Compare across authors](../compare/index.md?t=film-dinner-for-schmucks_38778)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dinner%20for%20Schmucks%20(2010)%20(%2B10.5%20gain)%20DTS-HD%20MA%205.1.jpg)

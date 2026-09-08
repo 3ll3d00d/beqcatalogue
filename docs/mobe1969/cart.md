@@ -1,6 +1,6 @@
 # Cart
 
-[Compare across authors](../../compare/?t=film-cart_287647)
+[Compare across authors](../compare/index.md?t=film-cart_287647)
 
 ## TrueHD 5.1
 

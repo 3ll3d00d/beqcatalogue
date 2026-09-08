@@ -1,6 +1,6 @@
 # Tron
 
-[Compare across authors](../../compare/?t=film-tron_97)
+[Compare across authors](../compare/index.md?t=film-tron_97)
 
 ## DTS-HD MA 5.1
 

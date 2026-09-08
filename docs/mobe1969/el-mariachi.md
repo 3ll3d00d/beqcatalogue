@@ -1,6 +1,6 @@
 # El Mariachi
 
-[Compare across authors](../../compare/?t=film-el-mariachi_9367)
+[Compare across authors](../compare/index.md?t=film-el-mariachi_9367)
 
 ## DTS-HD MA 2.0
 

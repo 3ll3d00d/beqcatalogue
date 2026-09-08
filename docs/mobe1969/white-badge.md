@@ -1,6 +1,6 @@
 # White Badge
 
-[Compare across authors](../../compare/?t=film-white-badge_200482)
+[Compare across authors](../compare/index.md?t=film-white-badge_200482)
 
 ## DTS-HD MA 3.1
 

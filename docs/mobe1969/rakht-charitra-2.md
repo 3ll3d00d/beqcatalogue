@@ -1,6 +1,6 @@
 # Rakht Charitra 2
 
-[Compare across authors](../../compare/?t=film-rakht-charitra-2_55808)
+[Compare across authors](../compare/index.md?t=film-rakht-charitra-2_55808)
 
 ## DD+ 5.1
 

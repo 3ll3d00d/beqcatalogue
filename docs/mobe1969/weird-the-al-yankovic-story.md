@@ -1,6 +1,6 @@
 # Weird: The Al Yankovic Story
 
-[Compare across authors](../../compare/?t=film-weird-the-al-yankovic-story_928344)
+[Compare across authors](../compare/index.md?t=film-weird-the-al-yankovic-story_928344)
 
 ## DTS-HD MA 5.1
 

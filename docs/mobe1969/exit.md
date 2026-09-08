@@ -1,6 +1,6 @@
 # EXIT
 
-[Compare across authors](../../compare/?t=film-exit_572164)
+[Compare across authors](../compare/index.md?t=film-exit_572164)
 
 ## TrueHD 5.1
 

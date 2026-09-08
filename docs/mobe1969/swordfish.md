@@ -1,6 +1,6 @@
 # Swordfish
 
-[Compare across authors](../../compare/?t=film-swordfish_9705)
+[Compare across authors](../compare/index.md?t=film-swordfish_9705)
 
 ## DD 5.1
 

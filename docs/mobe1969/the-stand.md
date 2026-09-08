@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-stand_86382)
+[Compare across authors](../compare/index.md?t=TV-the-stand_86382)
 
 ## Season 1
 

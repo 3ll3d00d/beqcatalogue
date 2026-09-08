@@ -1,6 +1,6 @@
 # Allegiant
 
-[Compare across authors](../../compare/?t=film-allegiant_262504)
+[Compare across authors](../compare/index.md?t=film-allegiant_262504)
 
 ## Atmos
 

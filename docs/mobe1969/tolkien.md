@@ -1,6 +1,6 @@
 # Tolkien
 
-[Compare across authors](../../compare/?t=film-tolkien_468224)
+[Compare across authors](../compare/index.md?t=film-tolkien_468224)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Police Story 2
 
-[Compare across authors](../../compare/?t=film-police-story-2_10753)
+[Compare across authors](../compare/index.md?t=film-police-story-2_10753)
 
 ## DTS-HD MA 5.1
 

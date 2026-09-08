@@ -11,7 +11,7 @@ A group of people are trapped in an elevator high above Philadelphia, and one of
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1730?post_id=64551550#post-64551550)  [TMDB](https://www.themoviedb.org/movie/44040)  [Compare across authors](../../compare/?t=film-devil_44040)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1730?post_id=64551550#post-64551550)  [TMDB](https://www.themoviedb.org/movie/44040)  [Compare across authors](../compare/index.md?t=film-devil_44040)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Devil%20(2010)%20(%2B4%20gain)%20DTS-HD%20MA%205.1.jpg)

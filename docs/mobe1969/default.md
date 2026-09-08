@@ -1,6 +1,6 @@
 # Default
 
-[Compare across authors](../../compare/?t=film-default_554137)
+[Compare across authors](../compare/index.md?t=film-default_554137)
 
 ## TrueHD 7.1
 

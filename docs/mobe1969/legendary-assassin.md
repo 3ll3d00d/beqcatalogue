@@ -1,6 +1,6 @@
 # Legendary Assassin
 
-[Compare across authors](../../compare/?t=film-legendary-assassin_26010)
+[Compare across authors](../compare/index.md?t=film-legendary-assassin_26010)
 
 ## DTS-HD MA 5.1
 

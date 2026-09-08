@@ -1,6 +1,6 @@
 # Terminator Genisys
 
-[Compare across authors](../../compare/?t=film-terminator-genisys_87101)
+[Compare across authors](../compare/index.md?t=film-terminator-genisys_87101)
 
 ## Atmos, DD+ 5.1
 

@@ -10,7 +10,7 @@ Postwar Japan is at its lowest point when a new crisis emerges in the form of a 
 ENG/JAP
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/940721)  [Compare across authors](../../compare/?t=film-godzilla-minus-one_940721)
+[TMDB](https://www.themoviedb.org/movie/940721)  [Compare across authors](../compare/index.md?t=film-godzilla-minus-one_940721)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Godzilla%20Minus%20One%20(2023)%20DD%2B.jpg)

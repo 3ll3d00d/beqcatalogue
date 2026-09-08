@@ -1,6 +1,6 @@
 # The Lie
 
-[Compare across authors](../../compare/?t=film-the-lie_539649)
+[Compare across authors](../compare/index.md?t=film-the-lie_539649)
 
 ## DD+ 5.1
 

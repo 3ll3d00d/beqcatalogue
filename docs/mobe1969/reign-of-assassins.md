@@ -1,6 +1,6 @@
 # Reign of Assassins
 
-[Compare across authors](../../compare/?t=film-reign-of-assassins_44092)
+[Compare across authors](../compare/index.md?t=film-reign-of-assassins_44092)
 
 ## DD+ 5.1
 

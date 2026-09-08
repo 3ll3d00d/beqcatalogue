@@ -7,7 +7,7 @@
 When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62814213)  [TMDB](https://www.themoviedb.org/movie/1008042)  [Compare across authors](../../compare/?t=film-talk-to-me_1008042)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62814213)  [TMDB](https://www.themoviedb.org/movie/1008042)  [Compare across authors](../compare/index.md?t=film-talk-to-me_1008042)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Talk%20to%20Me%20(2023)%20THD%20Atmos%20PvA.jpg)
@@ -23,7 +23,7 @@ When a group of friends discover how to conjure spirits using an embalmed hand, 
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62814213)  [TMDB](https://www.themoviedb.org/movie/1008042)  [Compare across authors](../../compare/?t=film-talk-to-me_1008042)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62814213)  [TMDB](https://www.themoviedb.org/movie/1008042)  [Compare across authors](../compare/index.md?t=film-talk-to-me_1008042)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Talk%20to%20Me%20(2023)%20DD%2B%205.1%20PvA%20v1.jpg)

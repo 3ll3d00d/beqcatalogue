@@ -7,7 +7,7 @@
 A former Marine and his old war buddy face off against the Mexican cartel behind the disappearance of his daughter.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/982932)  [Compare across authors](../../compare/?t=film-shrapnel_982932)
+[TMDB](https://www.themoviedb.org/movie/982932)  [Compare across authors](../compare/index.md?t=film-shrapnel_982932)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Shrapnel%20(2023)%20DTS-HD%20MA%205.1.jpg)

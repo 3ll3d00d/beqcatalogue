@@ -1,6 +1,6 @@
 # Kidnapping Mr. Heineken
 
-[Compare across authors](../../compare/?t=film-kidnapping-mr-heineken_228968)
+[Compare across authors](../compare/index.md?t=film-kidnapping-mr-heineken_228968)
 
 ## DTS-HD MA 5.1
 

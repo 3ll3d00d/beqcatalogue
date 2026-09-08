@@ -1,6 +1,6 @@
 # Zombieland
 
-[Compare across authors](../../compare/?t=film-zombieland_19908)
+[Compare across authors](../compare/index.md?t=film-zombieland_19908)
 
 ## Atmos
 

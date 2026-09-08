@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-severance_95396)
+[Compare across authors](../compare/index.md?t=TV-severance_95396)
 
 ## Season 1
 

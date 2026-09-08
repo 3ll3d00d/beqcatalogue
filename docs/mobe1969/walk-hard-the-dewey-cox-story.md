@@ -1,6 +1,6 @@
 # Walk Hard: The Dewey Cox Story
 
-[Compare across authors](../../compare/?t=film-walk-hard-the-dewey-cox-story_6575)
+[Compare across authors](../compare/index.md?t=film-walk-hard-the-dewey-cox-story_6575)
 
 ## TrueHD 5.1
 

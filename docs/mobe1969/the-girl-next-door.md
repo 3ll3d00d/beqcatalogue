@@ -1,6 +1,6 @@
 # The Girl Next Door
 
-[Compare across authors](../../compare/?t=film-the-girl-next-door_10591)
+[Compare across authors](../compare/index.md?t=film-the-girl-next-door_10591)
 
 ## DD+ 5.1
 

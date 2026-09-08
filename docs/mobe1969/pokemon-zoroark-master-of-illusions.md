@@ -1,6 +1,6 @@
 # Pokémon: Zoroark - Master of Illusions
 
-[Compare across authors](../../compare/?t=film-pokemon-zoroark-master-of-illusions_50087)
+[Compare across authors](../compare/index.md?t=film-pokemon-zoroark-master-of-illusions_50087)
 
 ## DTS-HD MA 5.1
 

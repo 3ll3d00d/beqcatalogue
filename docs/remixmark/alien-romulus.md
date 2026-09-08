@@ -12,7 +12,7 @@ While scavenging the deep ends of a derelict space station, a group of young spa
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1532?post_id=63675902#post-63675902)  [TMDB](https://www.themoviedb.org/movie/945961)  [Compare across authors](../../compare/?t=film-alien-romulus_945961)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1532?post_id=63675902#post-63675902)  [TMDB](https://www.themoviedb.org/movie/945961)  [Compare across authors](../compare/index.md?t=film-alien-romulus_945961)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Alien%20Romulus%20(2024)%20(%2B1.5%20gain)%20Atmos.jpg)
@@ -31,7 +31,7 @@ While scavenging the deep ends of a derelict space station, a group of young spa
 Dialnorm Compensation: 11dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1513?post_id=63593989#post-63593989)  [TMDB](https://www.themoviedb.org/movie/945961)  [Compare across authors](../../compare/?t=film-alien-romulus_945961)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1513?post_id=63593989#post-63593989)  [TMDB](https://www.themoviedb.org/movie/945961)  [Compare across authors](../compare/index.md?t=film-alien-romulus_945961)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Alien%20Romulus%20(2024)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

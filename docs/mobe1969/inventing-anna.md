@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-inventing-anna_95665)
+[Compare across authors](../compare/index.md?t=TV-inventing-anna_95665)
 
 ## Season 1
 

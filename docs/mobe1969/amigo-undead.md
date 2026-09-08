@@ -1,6 +1,6 @@
 # Amigo Undead
 
-[Compare across authors](../../compare/?t=film-amigo-undead_339191)
+[Compare across authors](../compare/index.md?t=film-amigo-undead_339191)
 
 ## DTS-HD MA 2.0
 

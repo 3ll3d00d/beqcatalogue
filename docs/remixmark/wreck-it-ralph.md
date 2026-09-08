@@ -9,7 +9,7 @@ Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game nam
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64009059#post-64009059)  [TMDB](https://www.themoviedb.org/movie/82690)  [Compare across authors](../../compare/?t=film-wreck-it-ralph_82690)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64009059#post-64009059)  [TMDB](https://www.themoviedb.org/movie/82690)  [Compare across authors](../compare/index.md?t=film-wreck-it-ralph_82690)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Wreck-It%20Ralph%20(2012)%20(%2B3%20gain)%20Atmos.jpg)

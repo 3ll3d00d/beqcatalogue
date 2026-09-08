@@ -1,6 +1,6 @@
 # Nocturnal Animals
 
-[Compare across authors](../../compare/?t=film-nocturnal-animals_340666)
+[Compare across authors](../compare/index.md?t=film-nocturnal-animals_340666)
 
 ## DTS-HD MA 5.1
 

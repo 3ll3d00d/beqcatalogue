@@ -1,6 +1,6 @@
 # Bhuj: The Pride of India
 
-[Compare across authors](../../compare/?t=film-bhuj-the-pride-of-india_590397)
+[Compare across authors](../compare/index.md?t=film-bhuj-the-pride-of-india_590397)
 
 ## DD+ 5.1
 

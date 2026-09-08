@@ -1,6 +1,6 @@
 # The Exorcist III
 
-[Compare across authors](../../compare/?t=film-the-exorcist-iii_11587)
+[Compare across authors](../compare/index.md?t=film-the-exorcist-iii_11587)
 
 ## DTS-HD MA 5.1
 

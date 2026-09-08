@@ -1,6 +1,6 @@
 # I Spit on Your Grave
 
-[Compare across authors](../../compare/?t=film-i-spit-on-your-grave_43947)
+[Compare across authors](../compare/index.md?t=film-i-spit-on-your-grave_43947)
 
 ## TrueHD 5.1
 

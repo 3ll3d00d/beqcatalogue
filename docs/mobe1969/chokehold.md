@@ -1,6 +1,6 @@
 # Chokehold
 
-[Compare across authors](../../compare/?t=film-chokehold_944152)
+[Compare across authors](../compare/index.md?t=film-chokehold_944152)
 
 ## DD+ 5.1
 

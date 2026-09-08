@@ -1,6 +1,6 @@
 # Jawan
 
-[Compare across authors](../../compare/?t=film-jawan_872906)
+[Compare across authors](../compare/index.md?t=film-jawan_872906)
 
 ## DD+ 5.1
 

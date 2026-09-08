@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-unusual-suspects_125309)
+[Compare across authors](../compare/index.md?t=TV-the-unusual-suspects_125309)
 
 ## Season 1
 

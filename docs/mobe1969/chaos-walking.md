@@ -1,6 +1,6 @@
 # Chaos Walking
 
-[Compare across authors](../../compare/?t=film-chaos-walking_412656)
+[Compare across authors](../compare/index.md?t=film-chaos-walking_412656)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Superintelligence
 
-[Compare across authors](../../compare/?t=film-superintelligence_521007)
+[Compare across authors](../compare/index.md?t=film-superintelligence_521007)
 
 ## DD+ 5.1
 

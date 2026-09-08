@@ -1,6 +1,6 @@
 # We Die Young
 
-[Compare across authors](../../compare/?t=film-we-die-young_538207)
+[Compare across authors](../compare/index.md?t=film-we-die-young_538207)
 
 ## DTS-HD MA 5.1
 

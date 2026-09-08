@@ -1,6 +1,6 @@
 # The SpongeBob Movie: Sponge on the Run
 
-[Compare across authors](../../compare/?t=film-the-spongebob-movie-sponge-on-the-run_400160)
+[Compare across authors](../compare/index.md?t=film-the-spongebob-movie-sponge-on-the-run_400160)
 
 ## DD+ Atmos
 

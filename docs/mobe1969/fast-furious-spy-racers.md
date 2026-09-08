@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-fast-furious-spy-racers_95594)
+[Compare across authors](../compare/index.md?t=TV-fast-furious-spy-racers_95594)
 
 ## Season 1
 

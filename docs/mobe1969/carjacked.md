@@ -1,6 +1,6 @@
 # Carjacked
 
-[Compare across authors](../../compare/?t=film-carjacked_72912)
+[Compare across authors](../compare/index.md?t=film-carjacked_72912)
 
 ## TrueHD 5.1
 

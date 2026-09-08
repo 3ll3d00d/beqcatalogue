@@ -1,6 +1,6 @@
 # Reptile
 
-[Compare across authors](../../compare/?t=film-reptile_866463)
+[Compare across authors](../compare/index.md?t=film-reptile_866463)
 
 ## DD+ Atmos
 

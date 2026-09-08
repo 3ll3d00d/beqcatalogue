@@ -1,6 +1,6 @@
 # The Little Things
 
-[Compare across authors](../../compare/?t=film-the-little-things_602269)
+[Compare across authors](../compare/index.md?t=film-the-little-things_602269)
 
 ## DD+ Atmos
 

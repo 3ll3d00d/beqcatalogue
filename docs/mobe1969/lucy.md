@@ -1,6 +1,6 @@
 # Lucy
 
-[Compare across authors](../../compare/?t=film-lucy_240832)
+[Compare across authors](../compare/index.md?t=film-lucy_240832)
 
 ## Atmos
 

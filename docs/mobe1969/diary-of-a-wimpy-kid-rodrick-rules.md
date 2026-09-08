@@ -1,6 +1,6 @@
 # Diary of a Wimpy Kid: Rodrick Rules
 
-[Compare across authors](../../compare/?t=film-diary-of-a-wimpy-kid-rodrick-rules_897192)
+[Compare across authors](../compare/index.md?t=film-diary-of-a-wimpy-kid-rodrick-rules_897192)
 
 ## DD+ Atmos
 

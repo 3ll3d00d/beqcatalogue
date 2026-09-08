@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-bad-monkey_130853)
+* [Compare across authors](../compare/index.md?t=TV-bad-monkey_130853)
 
 * Production Year: 2024
 

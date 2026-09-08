@@ -1,6 +1,6 @@
 # 3000 Miles to Graceland
 
-[Compare across authors](../../compare/?t=film-3000-miles-to-graceland_12138)
+[Compare across authors](../compare/index.md?t=film-3000-miles-to-graceland_12138)
 
 ## DD+ 5.1
 

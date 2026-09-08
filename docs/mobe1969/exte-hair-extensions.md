@@ -1,6 +1,6 @@
 # Exte: Hair Extensions
 
-[Compare across authors](../../compare/?t=film-exte-hair-extensions_21784)
+[Compare across authors](../compare/index.md?t=film-exte-hair-extensions_21784)
 
 ## DD 5.1
 

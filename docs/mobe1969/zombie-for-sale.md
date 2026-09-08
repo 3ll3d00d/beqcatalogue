@@ -1,6 +1,6 @@
 # Zombie For Sale
 
-[Compare across authors](../../compare/?t=film-zombie-for-sale_572151)
+[Compare across authors](../compare/index.md?t=film-zombie-for-sale_572151)
 
 ## TrueHD 5.1
 

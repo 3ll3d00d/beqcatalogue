@@ -1,6 +1,6 @@
 # Dassehra
 
-[Compare across authors](../../compare/?t=film-dassehra_550488)
+[Compare across authors](../compare/index.md?t=film-dassehra_550488)
 
 ## DD+ 5.1
 

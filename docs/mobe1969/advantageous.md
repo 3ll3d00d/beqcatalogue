@@ -1,6 +1,6 @@
 # Advantageous
 
-[Compare across authors](../../compare/?t=film-advantageous_308457)
+[Compare across authors](../compare/index.md?t=film-advantageous_308457)
 
 ## DD+ 5.1
 

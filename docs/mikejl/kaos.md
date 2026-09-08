@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-kaos_102621)
+* [Compare across authors](../compare/index.md?t=TV-kaos_102621)
 
 * Production Year: 2024
 

@@ -1,6 +1,6 @@
 # The Kid
 
-[Compare across authors](../../compare/?t=film-the-kid_492565)
+[Compare across authors](../compare/index.md?t=film-the-kid_492565)
 
 ## DTS-HD MA 5.1
 

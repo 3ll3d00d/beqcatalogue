@@ -7,7 +7,7 @@
 A court-martialed general rallies together 1200 inmates to rise against the system that put him away.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/2100)  [Compare across authors](../../compare/?t=film-the-last-castle_2100)
+[TMDB](https://www.themoviedb.org/movie/2100)  [Compare across authors](../compare/index.md?t=film-the-last-castle_2100)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Last%20Castle%20(2001)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # John Wick: Chapter 3 - Parabellum
 
-[Compare across authors](../../compare/?t=film-john-wick-chapter-3-parabellum_458156)
+[Compare across authors](../compare/index.md?t=film-john-wick-chapter-3-parabellum_458156)
 
 ## Atmos
 

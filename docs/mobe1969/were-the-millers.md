@@ -1,6 +1,6 @@
 # We're the Millers
 
-[Compare across authors](../../compare/?t=film-were-the-millers_138832)
+[Compare across authors](../compare/index.md?t=film-were-the-millers_138832)
 
 ## DTS-HD MA 5.1
 

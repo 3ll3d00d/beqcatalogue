@@ -1,6 +1,6 @@
 # Survive the Game
 
-[Compare across authors](../../compare/?t=film-survive-the-game_787310)
+[Compare across authors](../compare/index.md?t=film-survive-the-game_787310)
 
 ## DTS-HD MA 5.1
 

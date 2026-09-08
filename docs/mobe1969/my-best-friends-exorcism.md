@@ -1,6 +1,6 @@
 # My Best Friend's Exorcism
 
-[Compare across authors](../../compare/?t=film-my-best-friends-exorcism_816952)
+[Compare across authors](../compare/index.md?t=film-my-best-friends-exorcism_816952)
 
 ## DD+ 5.1
 

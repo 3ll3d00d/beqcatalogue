@@ -12,7 +12,7 @@ A routine cash pickup takes a wild turn when mismatched armored truck drivers Ru
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1624?post_id=64133459#post-64133459)  [TMDB](https://www.themoviedb.org/movie/1106289)  [Compare across authors](../../compare/?t=film-the-pickup_1106289)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1624?post_id=64133459#post-64133459)  [TMDB](https://www.themoviedb.org/movie/1106289)  [Compare across authors](../compare/index.md?t=film-the-pickup_1106289)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Pickup%20(2025)%20(%2B.5%20gain)%20DD%2B%20Atmos.jpg)

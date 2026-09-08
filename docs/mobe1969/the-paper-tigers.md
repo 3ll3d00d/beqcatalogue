@@ -1,6 +1,6 @@
 # The Paper Tigers
 
-[Compare across authors](../../compare/?t=film-the-paper-tigers_731738)
+[Compare across authors](../compare/index.md?t=film-the-paper-tigers_731738)
 
 ## DTS-HD MA 5.1
 

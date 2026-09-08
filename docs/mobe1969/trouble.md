@@ -1,6 +1,6 @@
 # Trouble
 
-[Compare across authors](../../compare/?t=film-trouble_570480)
+[Compare across authors](../compare/index.md?t=film-trouble_570480)
 
 ## DD+ 5.1
 

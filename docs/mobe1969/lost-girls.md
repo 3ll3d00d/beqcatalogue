@@ -1,6 +1,6 @@
 # Lost Girls
 
-[Compare across authors](../../compare/?t=film-lost-girls_567970)
+[Compare across authors](../compare/index.md?t=film-lost-girls_567970)
 
 ## DD+ Atmos
 

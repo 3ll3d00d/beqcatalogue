@@ -1,6 +1,6 @@
 # Ride Along 2
 
-[Compare across authors](../../compare/?t=film-ride-along-2_323675)
+[Compare across authors](../compare/index.md?t=film-ride-along-2_323675)
 
 ## DTS-HD MA 5.1
 

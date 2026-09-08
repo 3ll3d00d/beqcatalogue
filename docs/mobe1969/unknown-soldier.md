@@ -1,6 +1,6 @@
 # Unknown Soldier
 
-[Compare across authors](../../compare/?t=film-unknown-soldier_400728)
+[Compare across authors](../compare/index.md?t=film-unknown-soldier_400728)
 
 ## Atmos
 

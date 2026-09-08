@@ -7,7 +7,7 @@
 Ten years after the original Woodsboro murders, one of the survivors returns home to promote their new book about surviving trauma, only for a new Ghostface killer to emerge, targeting a new group of teens.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/41446)  [Compare across authors](../../compare/?t=film-scream-4_41446)
+[TMDB](https://www.themoviedb.org/movie/41446)  [Compare across authors](../compare/index.md?t=film-scream-4_41446)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%204%20(2011)%20DD%2B%20Atmos.jpg)
@@ -21,7 +21,7 @@ Ten years after the original Woodsboro murders, one of the survivors returns hom
 Ten years have passed, and Sidney Prescott has put herself back together thanks to her writing. However, her return to Woodsboro sparks the return of the Ghostface Killer.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/41446)  [Compare across authors](../../compare/?t=film-scream-4_41446)
+[TMDB](https://www.themoviedb.org/movie/41446)  [Compare across authors](../compare/index.md?t=film-scream-4_41446)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Scream/Scream%204%20(2011)%20DTS-HD%20MA%205.1.jpg)

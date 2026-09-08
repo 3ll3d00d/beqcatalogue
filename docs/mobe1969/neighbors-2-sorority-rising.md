@@ -1,6 +1,6 @@
 # Neighbors 2: Sorority Rising
 
-[Compare across authors](../../compare/?t=film-neighbors-2-sorority-rising_325133)
+[Compare across authors](../compare/index.md?t=film-neighbors-2-sorority-rising_325133)
 
 ## DTS-HD MA 5.1
 

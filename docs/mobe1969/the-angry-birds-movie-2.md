@@ -1,6 +1,6 @@
 # The Angry Birds Movie 2
 
-[Compare across authors](../../compare/?t=film-the-angry-birds-movie-2_454640)
+[Compare across authors](../compare/index.md?t=film-the-angry-birds-movie-2_454640)
 
 ## DTS-HD MA 5.1
 

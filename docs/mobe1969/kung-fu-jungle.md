@@ -1,6 +1,6 @@
 # Kung Fu Jungle
 
-[Compare across authors](../../compare/?t=film-kung-fu-jungle_290864)
+[Compare across authors](../compare/index.md?t=film-kung-fu-jungle_290864)
 
 ## DTS-HD MA 7.1
 

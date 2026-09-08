@@ -1,6 +1,6 @@
 # The Laundromat
 
-[Compare across authors](../../compare/?t=film-the-laundromat_517909)
+[Compare across authors](../compare/index.md?t=film-the-laundromat_517909)
 
 ## DD+ 5.1
 

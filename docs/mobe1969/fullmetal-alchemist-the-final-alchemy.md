@@ -1,6 +1,6 @@
 # Fullmetal Alchemist: The Final Alchemy
 
-[Compare across authors](../../compare/?t=film-fullmetal-alchemist-the-final-alchemy_960704)
+[Compare across authors](../compare/index.md?t=film-fullmetal-alchemist-the-final-alchemy_960704)
 
 ## DD+ 5.1
 

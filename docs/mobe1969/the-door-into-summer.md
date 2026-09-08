@@ -1,6 +1,6 @@
 # The Door into Summer
 
-[Compare across authors](../../compare/?t=film-the-door-into-summer_722798)
+[Compare across authors](../compare/index.md?t=film-the-door-into-summer_722798)
 
 ## DD+ 2.0
 

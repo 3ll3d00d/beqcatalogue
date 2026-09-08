@@ -1,6 +1,6 @@
 # xXx: State of the Union
 
-[Compare across authors](../../compare/?t=film-xxx-state-of-the-union_11679)
+[Compare across authors](../compare/index.md?t=film-xxx-state-of-the-union_11679)
 
 ## TrueHD 5.1
 

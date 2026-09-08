@@ -1,6 +1,6 @@
 # American Refugee
 
-[Compare across authors](../../compare/?t=film-american-refugee_827315)
+[Compare across authors](../compare/index.md?t=film-american-refugee_827315)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Emancipation
 
-[Compare across authors](../../compare/?t=film-emancipation_715931)
+[Compare across authors](../compare/index.md?t=film-emancipation_715931)
 
 ## DD+ Atmos
 

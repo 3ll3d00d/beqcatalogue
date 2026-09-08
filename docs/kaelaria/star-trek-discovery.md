@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-star-trek-discovery_67198)
+* [Compare across authors](../compare/index.md?t=TV-star-trek-discovery_67198)
 
 * Production Year: 2017
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-star-trek-discovery_67198)
+* [Compare across authors](../compare/index.md?t=TV-star-trek-discovery_67198)
 
 * Production Year: 2017
 
@@ -37,7 +37,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-star-trek-discovery_67198)
+* [Compare across authors](../compare/index.md?t=TV-star-trek-discovery_67198)
 
 * Production Year: 2017
 
@@ -52,7 +52,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-star-trek-discovery_67198)
+* [Compare across authors](../compare/index.md?t=TV-star-trek-discovery_67198)
 
 * Production Year: 2017
 
@@ -67,7 +67,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-star-trek-discovery_67198)
+* [Compare across authors](../compare/index.md?t=TV-star-trek-discovery_67198)
 
 * Production Year: 2017
 

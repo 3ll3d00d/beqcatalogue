@@ -1,6 +1,6 @@
 # Action
 
-[Compare across authors](../../compare/?t=film-action_623364)
+[Compare across authors](../compare/index.md?t=film-action_623364)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Colonials
 
-[Compare across authors](../../compare/?t=film-colonials_1100964)
+[Compare across authors](../compare/index.md?t=film-colonials_1100964)
 
 ## DD+ 5.1
 

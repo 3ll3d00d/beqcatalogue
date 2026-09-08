@@ -1,6 +1,6 @@
 # Atrangi Re
 
-[Compare across authors](../../compare/?t=film-atrangi-re_618911)
+[Compare across authors](../compare/index.md?t=film-atrangi-re_618911)
 
 ## AAC 5.1
 

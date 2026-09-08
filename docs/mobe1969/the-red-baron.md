@@ -1,6 +1,6 @@
 # The Red Baron
 
-[Compare across authors](../../compare/?t=film-the-red-baron_8349)
+[Compare across authors](../compare/index.md?t=film-the-red-baron_8349)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Looper
 
-[Compare across authors](../../compare/?t=film-looper_59967)
+[Compare across authors](../compare/index.md?t=film-looper_59967)
 
 ## Atmos
 

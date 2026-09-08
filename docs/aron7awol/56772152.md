@@ -1,6 +1,6 @@
 # Doctor Strange
 
-[Compare across authors](../../compare/?t=film-doctor-strange_284052)
+[Compare across authors](../compare/index.md?t=film-doctor-strange_284052)
 
 ## Atmos
 

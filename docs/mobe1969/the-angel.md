@@ -1,6 +1,6 @@
 # The Angel
 
-[Compare across authors](../../compare/?t=film-the-angel_468362)
+[Compare across authors](../compare/index.md?t=film-the-angel_468362)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # One Hour Photo
 
-[Compare across authors](../../compare/?t=film-one-hour-photo_9357)
+[Compare across authors](../compare/index.md?t=film-one-hour-photo_9357)
 
 ## DTS-HD MA 5.1
 

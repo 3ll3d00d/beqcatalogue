@@ -1,6 +1,6 @@
 # PAW Patrol: The Movie
 
-[Compare across authors](../../compare/?t=film-paw-patrol-the-movie_675445)
+[Compare across authors](../compare/index.md?t=film-paw-patrol-the-movie_675445)
 
 ## Atmos, DD+ Atmos
 

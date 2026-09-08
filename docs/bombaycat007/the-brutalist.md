@@ -14,7 +14,7 @@ When an innovative modern architect flees post-war Europe, he is given the oppor
 +5.5 MV Adjust
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/549509)  [Compare across authors](../../compare/?t=film-the-brutalist_549509)
+[TMDB](https://www.themoviedb.org/movie/549509)  [Compare across authors](../compare/index.md?t=film-the-brutalist_549509)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/The%20Brutalist%20(2024)%20(%2B5.5%20Gain)%20DTS-HD%20MA%205.1.png)

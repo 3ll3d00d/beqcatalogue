@@ -9,7 +9,7 @@ Following the death of their father, a brother and sister are introduced to thei
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1627?post_id=64146888#post-64146888)  [TMDB](https://www.themoviedb.org/movie/1151031)  [Compare across authors](../../compare/?t=film-bring-her-back_1151031)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1627?post_id=64146888#post-64146888)  [TMDB](https://www.themoviedb.org/movie/1151031)  [Compare across authors](../compare/index.md?t=film-bring-her-back_1151031)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Bring%20Her%20Back%20(2025)%20(%2B4%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Following the death of their father, a brother and sister are introduced to thei
 DIalnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1611?post_id=64073604#post-64073604https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1611?post_id=64073604#post-64073604)  [TMDB](https://www.themoviedb.org/movie/1151031)  [Compare across authors](../../compare/?t=film-bring-her-back_1151031)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1611?post_id=64073604#post-64073604https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1611?post_id=64073604#post-64073604)  [TMDB](https://www.themoviedb.org/movie/1151031)  [Compare across authors](../compare/index.md?t=film-bring-her-back_1151031)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Bring%20Her%20Back%20(2025)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)

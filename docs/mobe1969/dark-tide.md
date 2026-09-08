@@ -1,6 +1,6 @@
 # Dark Tide
 
-[Compare across authors](../../compare/?t=film-dark-tide_59963)
+[Compare across authors](../compare/index.md?t=film-dark-tide_59963)
 
 ## DTS-HD MA 5.1
 

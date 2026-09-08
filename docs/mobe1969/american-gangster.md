@@ -1,6 +1,6 @@
 # American Gangster
 
-[Compare across authors](../../compare/?t=film-american-gangster_4982)
+[Compare across authors](../compare/index.md?t=film-american-gangster_4982)
 
 ## DTS-X
 

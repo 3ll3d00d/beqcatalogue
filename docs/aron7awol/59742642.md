@@ -1,6 +1,6 @@
 # Turbo
 
-[Compare across authors](../../compare/?t=film-turbo_77950)
+[Compare across authors](../compare/index.md?t=film-turbo_77950)
 
 ## DTS-HD MA 7.1
 

@@ -1,6 +1,6 @@
 # The Hateful Eight
 
-[Compare across authors](../../compare/?t=film-the-hateful-eight_273248)
+[Compare across authors](../compare/index.md?t=film-the-hateful-eight_273248)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-jinn_88589)
+[Compare across authors](../compare/index.md?t=TV-jinn_88589)
 
 ## Season 1
 

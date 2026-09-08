@@ -1,6 +1,6 @@
 # The Internship
 
-[Compare across authors](../../compare/?t=film-the-internship_116741)
+[Compare across authors](../compare/index.md?t=film-the-internship_116741)
 
 ## DTS-HD MA 5.1
 

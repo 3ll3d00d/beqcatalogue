@@ -1,6 +1,6 @@
 # Hellboy Animated: Sword of Storms
 
-[Compare across authors](../../compare/?t=film-hellboy-animated-sword-of-storms_16774)
+[Compare across authors](../compare/index.md?t=film-hellboy-animated-sword-of-storms_16774)
 
 ## Atmos
 

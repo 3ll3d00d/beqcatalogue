@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-taboo_65708)
+[Compare across authors](../compare/index.md?t=TV-taboo_65708)
 
 * DTS-HD MA 5.1
 

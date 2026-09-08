@@ -1,6 +1,6 @@
 # Into the Blue
 
-[Compare across authors](../../compare/?t=film-into-the-blue_11968)
+[Compare across authors](../compare/index.md?t=film-into-the-blue_11968)
 
 ## DD+ 5.1
 

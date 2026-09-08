@@ -9,7 +9,7 @@ As storm season intensifies, the paths of former storm chaser Kate Carter and re
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1513?post_id=63591651#post-63591651)  [TMDB](https://www.themoviedb.org/movie/718821)  [Compare across authors](../../compare/?t=film-twisters_718821)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1513?post_id=63591651#post-63591651)  [TMDB](https://www.themoviedb.org/movie/718821)  [Compare across authors](../compare/index.md?t=film-twisters_718821)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Twisters%20(2024)%20(%2B4.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ As storm season intensifies, the paths of former storm chaser Kate Carter and re
 Dialnorm Compensation: 1dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1491?post_id=63478261#post-63478261)  [TMDB](https://www.themoviedb.org/movie/718821)  [Compare across authors](../../compare/?t=film-twisters_718821)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1491?post_id=63478261#post-63478261)  [TMDB](https://www.themoviedb.org/movie/718821)  [Compare across authors](../compare/index.md?t=film-twisters_718821)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/main/Twisters%20(2024)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)

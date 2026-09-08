@@ -1,6 +1,6 @@
 # Mowgli: Legend of the Jungle
 
-[Compare across authors](../../compare/?t=film-mowgli-legend-of-the-jungle_407436)
+[Compare across authors](../compare/index.md?t=film-mowgli-legend-of-the-jungle_407436)
 
 ## DD+ Atmos
 

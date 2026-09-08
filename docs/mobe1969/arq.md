@@ -1,6 +1,6 @@
 # ARQ
 
-[Compare across authors](../../compare/?t=film-arq_410199)
+[Compare across authors](../compare/index.md?t=film-arq_410199)
 
 ## DD+ 5.1
 

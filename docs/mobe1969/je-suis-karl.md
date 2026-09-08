@@ -1,6 +1,6 @@
 # Je suis Karl
 
-[Compare across authors](../../compare/?t=film-je-suis-karl_683641)
+[Compare across authors](../compare/index.md?t=film-je-suis-karl_683641)
 
 ## DD+ 5.1
 

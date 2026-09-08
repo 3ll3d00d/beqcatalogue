@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-jupiters-legacy_93484)
+[Compare across authors](../compare/index.md?t=TV-jupiters-legacy_93484)
 
 ## Season 1
 

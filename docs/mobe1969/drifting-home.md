@@ -1,6 +1,6 @@
 # Drifting Home
 
-[Compare across authors](../../compare/?t=film-drifting-home_877957)
+[Compare across authors](../compare/index.md?t=film-drifting-home_877957)
 
 ## DD+ 5.1
 

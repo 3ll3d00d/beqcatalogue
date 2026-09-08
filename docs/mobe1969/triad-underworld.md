@@ -1,6 +1,6 @@
 # Triad Underworld
 
-[Compare across authors](../../compare/?t=film-triad-underworld_38030)
+[Compare across authors](../compare/index.md?t=film-triad-underworld_38030)
 
 ## DTS-HD MA 5.1
 

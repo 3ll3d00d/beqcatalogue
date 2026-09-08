@@ -1,6 +1,6 @@
 # Lost in Hong Kong
 
-[Compare across authors](../../compare/?t=film-lost-in-hong-kong_361613)
+[Compare across authors](../compare/index.md?t=film-lost-in-hong-kong_361613)
 
 ## DTS-HD MA 5.1
 

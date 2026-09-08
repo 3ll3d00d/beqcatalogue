@@ -1,6 +1,6 @@
 # Confidential Assignment 2: International
 
-[Compare across authors](../../compare/?t=film-confidential-assignment-2-international_736820)
+[Compare across authors](../compare/index.md?t=film-confidential-assignment-2-international_736820)
 
 ## DTS-HD MA 5.1
 

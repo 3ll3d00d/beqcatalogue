@@ -1,6 +1,6 @@
 # Matchstick Men
 
-[Compare across authors](../../compare/?t=film-matchstick-men_7270)
+[Compare across authors](../compare/index.md?t=film-matchstick-men_7270)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # True Lies
 
-[Compare across authors](../../compare/?t=film-true-lies_36955)
+[Compare across authors](../compare/index.md?t=film-true-lies_36955)
 
 ## DTS-HD MA 5.1
 

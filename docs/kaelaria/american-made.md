@@ -7,7 +7,7 @@
 The true story of pilot Barry Seal, who transported contraband for the CIA and the Medellin cartel in the 1980s.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/337170)  [Compare across authors](../../compare/?t=film-american-made_337170)
+[TMDB](https://www.themoviedb.org/movie/337170)  [Compare across authors](../compare/index.md?t=film-american-made_337170)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/American.Made%20(2017)%20DTS-X.jpg)

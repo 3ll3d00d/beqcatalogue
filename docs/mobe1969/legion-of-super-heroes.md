@@ -1,6 +1,6 @@
 # Legion of Super-Heroes
 
-[Compare across authors](../../compare/?t=film-legion-of-super-heroes_1003580)
+[Compare across authors](../compare/index.md?t=film-legion-of-super-heroes_1003580)
 
 ## DTS-HD MA 5.1
 

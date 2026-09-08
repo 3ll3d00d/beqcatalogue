@@ -1,6 +1,6 @@
 # How to Train Your Dragon 2
 
-[Compare across authors](../../compare/?t=film-how-to-train-your-dragon-2_82702)
+[Compare across authors](../compare/index.md?t=film-how-to-train-your-dragon-2_82702)
 
 ## DTS-HD MA 7.1
 

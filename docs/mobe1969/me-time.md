@@ -1,6 +1,6 @@
 # Me Time
 
-[Compare across authors](../../compare/?t=film-me-time_862551)
+[Compare across authors](../compare/index.md?t=film-me-time_862551)
 
 ## DD+ Atmos
 

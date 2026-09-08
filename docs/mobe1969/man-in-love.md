@@ -1,6 +1,6 @@
 # Man in Love
 
-[Compare across authors](../../compare/?t=film-man-in-love_797787)
+[Compare across authors](../compare/index.md?t=film-man-in-love_797787)
 
 ## DD+ 5.1
 

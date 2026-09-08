@@ -1,6 +1,6 @@
 # Blood Ties
 
-[Compare across authors](../../compare/?t=film-blood-ties_190955)
+[Compare across authors](../compare/index.md?t=film-blood-ties_190955)
 
 ## DTS-HD MA 5.1
 

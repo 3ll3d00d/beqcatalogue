@@ -1,6 +1,6 @@
 # The Bling Ring
 
-[Compare across authors](../../compare/?t=film-the-bling-ring_96936)
+[Compare across authors](../compare/index.md?t=film-the-bling-ring_96936)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Against the Sun
 
-[Compare across authors](../../compare/?t=film-against-the-sun_302828)
+[Compare across authors](../compare/index.md?t=film-against-the-sun_302828)
 
 ## DTS-HD MA 5.1
 

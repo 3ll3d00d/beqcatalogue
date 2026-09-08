@@ -1,6 +1,6 @@
 # Austin Powers: The Spy Who Shagged Me
 
-[Compare across authors](../../compare/?t=film-austin-powers-the-spy-who-shagged-me_817)
+[Compare across authors](../compare/index.md?t=film-austin-powers-the-spy-who-shagged-me_817)
 
 ## DD+ 5.1
 

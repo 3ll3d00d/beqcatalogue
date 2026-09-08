@@ -1,6 +1,6 @@
 # Attack
 
-[Compare across authors](../../compare/?t=film-attack_799155)
+[Compare across authors](../compare/index.md?t=film-attack_799155)
 
 ## DD+ 5.1
 

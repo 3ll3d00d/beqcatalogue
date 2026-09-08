@@ -1,6 +1,6 @@
 # Eastern Bandits
 
-[Compare across authors](../../compare/?t=film-eastern-bandits_134770)
+[Compare across authors](../compare/index.md?t=film-eastern-bandits_134770)
 
 ## DTS-HD MA 5.1
 

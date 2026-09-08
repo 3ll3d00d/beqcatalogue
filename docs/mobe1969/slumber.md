@@ -1,6 +1,6 @@
 # Slumber
 
-[Compare across authors](../../compare/?t=film-slumber_463602)
+[Compare across authors](../compare/index.md?t=film-slumber_463602)
 
 ## DTS-HD MA 5.1
 

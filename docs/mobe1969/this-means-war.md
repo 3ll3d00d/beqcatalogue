@@ -1,6 +1,6 @@
 # This Means War
 
-[Compare across authors](../../compare/?t=film-this-means-war_59962)
+[Compare across authors](../compare/index.md?t=film-this-means-war_59962)
 
 ## DTS-HD MA 5.1
 

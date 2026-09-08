@@ -1,6 +1,6 @@
 # Revenge
 
-[Compare across authors](../../compare/?t=film-revenge_14249)
+[Compare across authors](../compare/index.md?t=film-revenge_14249)
 
 ## LPCM 5.1
 

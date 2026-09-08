@@ -1,6 +1,6 @@
 # Vezham
 
-[Compare across authors](../../compare/?t=film-vezham_972830)
+[Compare across authors](../compare/index.md?t=film-vezham_972830)
 
 ## DD+ 5.1
 

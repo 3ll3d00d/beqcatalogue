@@ -1,6 +1,6 @@
 # The Negotiator
 
-[Compare across authors](../../compare/?t=film-the-negotiator_9631)
+[Compare across authors](../compare/index.md?t=film-the-negotiator_9631)
 
 ## TrueHD 5.1
 

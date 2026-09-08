@@ -1,6 +1,6 @@
 # Retribution
 
-[Compare across authors](../../compare/?t=film-retribution_762430)
+[Compare across authors](../compare/index.md?t=film-retribution_762430)
 
 ## DD+ Atmos, DD+ 5.1
 

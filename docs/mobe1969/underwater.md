@@ -1,6 +1,6 @@
 # Underwater
 
-[Compare across authors](../../compare/?t=film-underwater_443791)
+[Compare across authors](../compare/index.md?t=film-underwater_443791)
 
 ## DTS-HD MA 7.1, DD+ Atmos, DD+ 5.1, DD 5.1
 

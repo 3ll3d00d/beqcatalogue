@@ -1,6 +1,6 @@
 # Trinity and Beyond: The Atomic Bomb Movie
 
-[Compare across authors](../../compare/?t=film-trinity-and-beyond-the-atomic-bomb-movie_21846)
+[Compare across authors](../compare/index.md?t=film-trinity-and-beyond-the-atomic-bomb-movie_21846)
 
 ## DD 5.1
 

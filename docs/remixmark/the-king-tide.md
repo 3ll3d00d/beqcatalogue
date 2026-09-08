@@ -9,7 +9,7 @@ After the mayor of an idyllic island village discovers a child with mysterious p
 
 **MV Adjustment:** +10.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1493?post_id=63493941#post-63493941)  [TMDB](https://www.themoviedb.org/movie/1159477)  [Compare across authors](../../compare/?t=film-the-king-tide_1159477)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1493?post_id=63493941#post-63493941)  [TMDB](https://www.themoviedb.org/movie/1159477)  [Compare across authors](../compare/index.md?t=film-the-king-tide_1159477)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20King%20Tide%20(2024)%20(%2B10%20gain)%20TrueHD.jpg)

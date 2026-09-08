@@ -1,6 +1,6 @@
 # Love and Leashes
 
-[Compare across authors](../../compare/?t=film-love-and-leashes_760517)
+[Compare across authors](../compare/index.md?t=film-love-and-leashes_760517)
 
 ## DD+ Atmos, DD+ 5.1
 

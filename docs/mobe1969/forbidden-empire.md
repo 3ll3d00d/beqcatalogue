@@ -1,6 +1,6 @@
 # Forbidden Empire
 
-[Compare across authors](../../compare/?t=film-forbidden-empire_208763)
+[Compare across authors](../compare/index.md?t=film-forbidden-empire_208763)
 
 ## DTS-HD MA 5.1
 

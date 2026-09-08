@@ -1,6 +1,6 @@
 # Treasure Planet
 
-[Compare across authors](../../compare/?t=film-treasure-planet_9016)
+[Compare across authors](../compare/index.md?t=film-treasure-planet_9016)
 
 ## DTS-HD MA 5.1
 

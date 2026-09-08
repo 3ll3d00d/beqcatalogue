@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-invincible_95557)
+[Compare across authors](../compare/index.md?t=TV-invincible_95557)
 
 ## Season 1
 

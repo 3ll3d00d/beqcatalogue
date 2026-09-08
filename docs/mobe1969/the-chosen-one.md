@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-chosen-one_223400)
+[Compare across authors](../compare/index.md?t=TV-the-chosen-one_223400)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Antiviral
 
-[Compare across authors](../../compare/?t=film-antiviral_125490)
+[Compare across authors](../compare/index.md?t=film-antiviral_125490)
 
 ## DTS-HD MA 5.1
 

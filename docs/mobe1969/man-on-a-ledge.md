@@ -1,6 +1,6 @@
 # Man on a Ledge
 
-[Compare across authors](../../compare/?t=film-man-on-a-ledge_49527)
+[Compare across authors](../compare/index.md?t=film-man-on-a-ledge_49527)
 
 ## Atmos
 

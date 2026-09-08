@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-uncanny-counter_113268)
+[Compare across authors](../compare/index.md?t=TV-the-uncanny-counter_113268)
 
 ## Season 1
 

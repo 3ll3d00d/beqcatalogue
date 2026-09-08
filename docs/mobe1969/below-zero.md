@@ -1,6 +1,6 @@
 # Below Zero
 
-[Compare across authors](../../compare/?t=film-below-zero_587996)
+[Compare across authors](../compare/index.md?t=film-below-zero_587996)
 
 ## DD+ 5.1
 

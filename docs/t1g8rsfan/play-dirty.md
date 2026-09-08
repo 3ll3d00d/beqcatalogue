@@ -9,7 +9,7 @@ Expert thief Parker gets a shot at a major heist, but to pull it off he and his 
 
 **MV Adjustment:** +1.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/941109)  [Compare across authors](../../compare/?t=film-play-dirty_941109)
+[TMDB](https://www.themoviedb.org/movie/941109)  [Compare across authors](../compare/index.md?t=film-play-dirty_941109)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Play%20Dirty%20(2025)%20(%2B1%20gain)%20DD%2B.jpg)

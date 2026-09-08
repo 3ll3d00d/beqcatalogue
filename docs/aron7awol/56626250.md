@@ -1,6 +1,6 @@
 # G.I. Joe: Retaliation
 
-[Compare across authors](../../compare/?t=film-gi-joe-retaliation_72559)
+[Compare across authors](../compare/index.md?t=film-gi-joe-retaliation_72559)
 
 ## TrueHD 7.1
 

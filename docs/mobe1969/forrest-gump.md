@@ -1,6 +1,6 @@
 # Forrest Gump
 
-[Compare across authors](../../compare/?t=film-forrest-gump_13)
+[Compare across authors](../compare/index.md?t=film-forrest-gump_13)
 
 ## Atmos
 

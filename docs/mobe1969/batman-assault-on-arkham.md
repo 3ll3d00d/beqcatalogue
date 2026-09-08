@@ -1,6 +1,6 @@
 # Batman: Assault on Arkham
 
-[Compare across authors](../../compare/?t=film-batman-assault-on-arkham_242643)
+[Compare across authors](../compare/index.md?t=film-batman-assault-on-arkham_242643)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-smoke_215995)
+* [Compare across authors](../compare/index.md?t=TV-smoke_215995)
 
 * Production Year: 2025
 

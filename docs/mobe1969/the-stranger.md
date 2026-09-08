@@ -1,6 +1,6 @@
 # The Stranger
 
-[Compare across authors](../../compare/?t=film-the-stranger_38166)
+[Compare across authors](../compare/index.md?t=film-the-stranger_38166)
 
 ## LPCM 5.1
 

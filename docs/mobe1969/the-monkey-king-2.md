@@ -1,6 +1,6 @@
 # The Monkey King 2
 
-[Compare across authors](../../compare/?t=film-the-monkey-king-2_381902)
+[Compare across authors](../compare/index.md?t=film-the-monkey-king-2_381902)
 
 ## DTS-HD MA 5.1, DTS-HD MA 7.1
 

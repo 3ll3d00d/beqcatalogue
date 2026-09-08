@@ -1,6 +1,6 @@
 # Initial D Legend 1: Awakening
 
-[Compare across authors](../../compare/?t=film-initial-d-legend-1-awakening_271709)
+[Compare across authors](../compare/index.md?t=film-initial-d-legend-1-awakening_271709)
 
 ## DTS-HD MA 5.1
 

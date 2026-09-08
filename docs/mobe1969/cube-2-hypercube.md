@@ -1,6 +1,6 @@
 # Cube 2: Hypercube
 
-[Compare across authors](../../compare/?t=film-cube-2-hypercube_437)
+[Compare across authors](../compare/index.md?t=film-cube-2-hypercube_437)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Barbie
 
-[Compare across authors](../../compare/?t=film-barbie_346698)
+[Compare across authors](../compare/index.md?t=film-barbie_346698)
 
 ## Atmos
 

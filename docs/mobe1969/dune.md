@@ -1,6 +1,6 @@
 # Dune
 
-[Compare across authors](../../compare/?t=film-dune_841)
+[Compare across authors](../compare/index.md?t=film-dune_841)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-away_89233)
+[Compare across authors](../compare/index.md?t=TV-away_89233)
 
 ## Season 1
 

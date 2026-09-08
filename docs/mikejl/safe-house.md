@@ -7,7 +7,7 @@
 Trapped in a high-security safe house after a terrorist attack in downtown Los Angeles, six government agents realize they must survive not just the enemy outside, but the potential traitor among them.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1522923)  [Compare across authors](../../compare/?t=film-safe-house_1522923)
+[TMDB](https://www.themoviedb.org/movie/1522923)  [Compare across authors](../compare/index.md?t=film-safe-house_1522923)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Safe%20House/Safe%20House%20(2025)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ Trapped in a high-security safe house after a terrorist attack in downtown Los A
 Trapped in a high-security safe house after a terrorist attack in downtown Los Angeles, six government agents realize they must survive not just the enemy outside, but the potential traitor among them.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1522923)  [Compare across authors](../../compare/?t=film-safe-house_1522923)
+[TMDB](https://www.themoviedb.org/movie/1522923)  [Compare across authors](../compare/index.md?t=film-safe-house_1522923)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Safe%20House/Safe%20House%20(2025)%20DTS-HD%20MA%205.1.jpg)

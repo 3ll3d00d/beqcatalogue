@@ -1,6 +1,6 @@
 # Roohi
 
-[Compare across authors](../../compare/?t=film-roohi_694103)
+[Compare across authors](../compare/index.md?t=film-roohi_694103)
 
 ## DD+ 5.1
 

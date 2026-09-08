@@ -1,6 +1,6 @@
 # Scream 3
 
-[Compare across authors](../../compare/?t=film-scream-3_4234)
+[Compare across authors](../compare/index.md?t=film-scream-3_4234)
 
 ## DTS-HD MA 5.1
 

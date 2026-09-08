@@ -12,7 +12,7 @@ When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're u
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1609?post_id=64069119#post-64069119)  [TMDB](https://www.themoviedb.org/movie/803796)  [Compare across authors](../../compare/?t=film-kpop-demon-hunters_803796)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1609?post_id=64069119#post-64069119)  [TMDB](https://www.themoviedb.org/movie/803796)  [Compare across authors](../compare/index.md?t=film-kpop-demon-hunters_803796)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/KPop%20Demon%20Hunters%20(2025)(%2B1.5%20gain)%20DD%2B%20Atmos.jpg)

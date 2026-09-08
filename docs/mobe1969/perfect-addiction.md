@@ -1,6 +1,6 @@
 # Perfect Addiction
 
-[Compare across authors](../../compare/?t=film-perfect-addiction_845659)
+[Compare across authors](../compare/index.md?t=film-perfect-addiction_845659)
 
 ## DD+ 5.1
 

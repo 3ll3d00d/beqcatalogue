@@ -1,6 +1,6 @@
 # Ray Donovan: The Movie
 
-[Compare across authors](../../compare/?t=film-ray-donovan-the-movie_800425)
+[Compare across authors](../compare/index.md?t=film-ray-donovan-the-movie_800425)
 
 ## DD+ 5.1
 

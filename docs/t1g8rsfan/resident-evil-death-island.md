@@ -9,7 +9,7 @@ In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-V
 
 **MV Adjustment:** -3.5 dB
 
-[Discuss](https://www.avsforum.com/posts/62745299/)  [TMDB](https://www.themoviedb.org/movie/1083862)  [Compare across authors](../../compare/?t=film-resident-evil-death-island_1083862)
+[Discuss](https://www.avsforum.com/posts/62745299/)  [TMDB](https://www.themoviedb.org/movie/1083862)  [Compare across authors](../compare/index.md?t=film-resident-evil-death-island_1083862)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Resident%20Evil%20Death%20Island%20(2023)%20(-3.5%20gain)%20Atmos.jpg)

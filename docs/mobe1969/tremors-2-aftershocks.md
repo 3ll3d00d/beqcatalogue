@@ -1,6 +1,6 @@
 # Tremors 2: Aftershocks
 
-[Compare across authors](../../compare/?t=film-tremors-2-aftershocks_11069)
+[Compare across authors](../compare/index.md?t=film-tremors-2-aftershocks_11069)
 
 ## DTS-HD MA 2.0
 

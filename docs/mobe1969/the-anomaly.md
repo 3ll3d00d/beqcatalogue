@@ -1,6 +1,6 @@
 # The Anomaly
 
-[Compare across authors](../../compare/?t=film-the-anomaly_269173)
+[Compare across authors](../compare/index.md?t=film-the-anomaly_269173)
 
 ## DTS-HD MA 5.1
 

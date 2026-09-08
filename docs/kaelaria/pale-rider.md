@@ -7,7 +7,7 @@
 A mysterious preacher protects a humble prospector village from a greedy mining company trying to encroach on their land.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/8879)  [Compare across authors](../../compare/?t=film-pale-rider_8879)
+[TMDB](https://www.themoviedb.org/movie/8879)  [Compare across authors](../compare/index.md?t=film-pale-rider_8879)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Pale%20Rider%20(1985)%20TrueHD%20Atmos.jpg)

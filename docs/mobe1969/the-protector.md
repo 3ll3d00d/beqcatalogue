@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-protector_79026)
+[Compare across authors](../compare/index.md?t=TV-the-protector_79026)
 
 ## Season 1
 

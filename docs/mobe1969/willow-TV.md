@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-willow_111837)
+[Compare across authors](../compare/index.md?t=TV-willow_111837)
 
 ## Season 1
 

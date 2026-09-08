@@ -12,7 +12,7 @@ Cast out from his clan, a young Predator finds an unlikely ally in a damaged and
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64459739#post-64459739)  [TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../../compare/?t=film-predator-badlands_1242898)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64459739#post-64459739)  [TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../compare/index.md?t=film-predator-badlands_1242898)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Predator%20Badlands%20(2025)%20(%2B1%20gain)%20Atmos.jpg)
@@ -26,7 +26,7 @@ Dialnorm Compensation: 4dB
 Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1699?post_id=64394912#post-64394912)  [TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../../compare/?t=film-predator-badlands_1242898)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1699?post_id=64394912#post-64394912)  [TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../compare/index.md?t=film-predator-badlands_1242898)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Predator%20Badlands%20(2025)%20DD%2B.jpg)
@@ -45,7 +45,7 @@ Cast out from his clan, a young Predator finds an unlikely ally in a damaged and
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1699?post_id=64395440#post-64395440)  [TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../../compare/?t=film-predator-badlands_1242898)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1699?post_id=64395440#post-64395440)  [TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../compare/index.md?t=film-predator-badlands_1242898)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Predator%20Badlands%20(2025)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)
@@ -64,7 +64,7 @@ Cast out from his clan, a young Predator finds an unlikely ally in a damaged and
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64458907#post-64458907)  [TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../../compare/?t=film-predator-badlands_1242898)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64458907#post-64458907)  [TMDB](https://www.themoviedb.org/movie/1242898)  [Compare across authors](../compare/index.md?t=film-predator-badlands_1242898)
 { data-search-exclude }
 
 ![img 6](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Predator%20Badlands%20(2025)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)

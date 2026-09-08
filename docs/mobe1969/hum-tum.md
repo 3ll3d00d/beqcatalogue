@@ -1,6 +1,6 @@
 # Hum Tum
 
-[Compare across authors](../../compare/?t=film-hum-tum_4253)
+[Compare across authors](../compare/index.md?t=film-hum-tum_4253)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Beowulf
 
-[Compare across authors](../../compare/?t=film-beowulf_2310)
+[Compare across authors](../compare/index.md?t=film-beowulf_2310)
 
 ## DTS-HD MA 5.1
 

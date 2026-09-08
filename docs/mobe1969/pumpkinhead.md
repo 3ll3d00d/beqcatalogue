@@ -1,6 +1,6 @@
 # Pumpkinhead
 
-[Compare across authors](../../compare/?t=film-pumpkinhead_26515)
+[Compare across authors](../compare/index.md?t=film-pumpkinhead_26515)
 
 ## DTS-HD MA 5.1
 

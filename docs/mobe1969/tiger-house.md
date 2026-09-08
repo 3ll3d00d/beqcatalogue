@@ -1,6 +1,6 @@
 # Tiger House
 
-[Compare across authors](../../compare/?t=film-tiger-house_341077)
+[Compare across authors](../compare/index.md?t=film-tiger-house_341077)
 
 ## DTS-HD MA 5.1
 

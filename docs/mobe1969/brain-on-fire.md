@@ -1,6 +1,6 @@
 # Brain on Fire
 
-[Compare across authors](../../compare/?t=film-brain-on-fire_340027)
+[Compare across authors](../compare/index.md?t=film-brain-on-fire_340027)
 
 ## DD+ 5.1
 

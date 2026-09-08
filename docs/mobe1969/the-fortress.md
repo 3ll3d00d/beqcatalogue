@@ -1,6 +1,6 @@
 # The Fortress
 
-[Compare across authors](../../compare/?t=film-the-fortress_437081)
+[Compare across authors](../compare/index.md?t=film-the-fortress_437081)
 
 ## DTS-HD MA 5.1
 

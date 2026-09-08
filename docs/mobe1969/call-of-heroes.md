@@ -1,6 +1,6 @@
 # Call of Heroes
 
-[Compare across authors](../../compare/?t=film-call-of-heroes_413198)
+[Compare across authors](../compare/index.md?t=film-call-of-heroes_413198)
 
 ## Atmos
 

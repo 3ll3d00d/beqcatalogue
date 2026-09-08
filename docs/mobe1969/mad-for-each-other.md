@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mad-for-each-other_125350)
+[Compare across authors](../compare/index.md?t=TV-mad-for-each-other_125350)
 
 ## Season 1
 

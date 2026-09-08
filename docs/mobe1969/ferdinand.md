@@ -1,6 +1,6 @@
 # Ferdinand
 
-[Compare across authors](../../compare/?t=film-ferdinand_364689)
+[Compare across authors](../compare/index.md?t=film-ferdinand_364689)
 
 ## Atmos
 

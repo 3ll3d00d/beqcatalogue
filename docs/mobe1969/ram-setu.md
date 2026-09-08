@@ -1,6 +1,6 @@
 # Ram Setu
 
-[Compare across authors](../../compare/?t=film-ram-setu_764081)
+[Compare across authors](../compare/index.md?t=film-ram-setu_764081)
 
 ## DD+ 5.1
 

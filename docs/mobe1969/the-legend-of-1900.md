@@ -1,6 +1,6 @@
 # The Legend of 1900
 
-[Compare across authors](../../compare/?t=film-the-legend-of-1900_10376)
+[Compare across authors](../compare/index.md?t=film-the-legend-of-1900_10376)
 
 ## DTS-HD MA 5.1
 

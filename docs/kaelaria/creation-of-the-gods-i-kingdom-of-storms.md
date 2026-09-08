@@ -10,7 +10,7 @@ Based on the most well-known classical fantasy novel of China, Fengshenyanyi, th
 ZH
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/856289)  [Compare across authors](../../compare/?t=film-creation-of-the-gods-i-kingdom-of-storms_856289)
+[TMDB](https://www.themoviedb.org/movie/856289)  [Compare across authors](../compare/index.md?t=film-creation-of-the-gods-i-kingdom-of-storms_856289)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Creation%20of%20the%20Gods%20I%20-%20Kingdom%20of%20Storms%20(2023)%20(zh)%20DTS-HD%20MA%205.1.jpg)
@@ -27,7 +27,7 @@ Based on the most well-known classical fantasy novel of China, Fengshenyanyi, th
 Chinese
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/856289)  [Compare across authors](../../compare/?t=film-creation-of-the-gods-i-kingdom-of-storms_856289)
+[TMDB](https://www.themoviedb.org/movie/856289)  [Compare across authors](../compare/index.md?t=film-creation-of-the-gods-i-kingdom-of-storms_856289)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/main/Creation%20Of%20The%20Gods%20I%20Kingdom%20Of%20Storms%20(2023)(Ma)%20TrueHD%205.1.jpg)

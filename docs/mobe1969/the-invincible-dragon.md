@@ -1,6 +1,6 @@
 # The Invincible Dragon
 
-[Compare across authors](../../compare/?t=film-the-invincible-dragon_449998)
+[Compare across authors](../compare/index.md?t=film-the-invincible-dragon_449998)
 
 ## DTS-HD MA 5.1
 

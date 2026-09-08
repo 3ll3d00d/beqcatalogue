@@ -1,6 +1,6 @@
 # Unknown
 
-[Compare across authors](../../compare/?t=film-unknown_48138)
+[Compare across authors](../compare/index.md?t=film-unknown_48138)
 
 ## DTS-HD MA 5.1
 

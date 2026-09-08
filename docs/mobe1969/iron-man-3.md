@@ -1,6 +1,6 @@
 # Iron Man 3
 
-[Compare across authors](../../compare/?t=film-iron-man-3_68721)
+[Compare across authors](../compare/index.md?t=film-iron-man-3_68721)
 
 ## Atmos
 

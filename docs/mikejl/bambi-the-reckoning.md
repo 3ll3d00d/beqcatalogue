@@ -7,7 +7,7 @@
 After a mother and son get in a car wreck, they soon become hunted by Bambi, a mutated grief-stricken deer on a deadly rampage seeking revenge for the death of his mother and wife.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1049942)  [Compare across authors](../../compare/?t=film-bambi-the-reckoning_1049942)
+[TMDB](https://www.themoviedb.org/movie/1049942)  [Compare across authors](../compare/index.md?t=film-bambi-the-reckoning_1049942)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Bambi%20-%20The%20Reckoning/Bambi%20-%20The%20Reckoning%20(2025)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ After a mother and son get in a car wreck, they soon become hunted by Bambi, a m
 After a mother and son get in a car wreck, they soon become hunted by Bambi, a mutated grief-stricken deer on a deadly rampage seeking revenge for the death of his mother and wife.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1049942)  [Compare across authors](../../compare/?t=film-bambi-the-reckoning_1049942)
+[TMDB](https://www.themoviedb.org/movie/1049942)  [Compare across authors](../compare/index.md?t=film-bambi-the-reckoning_1049942)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Bambi%20-%20The%20Reckoning/Bambi%20-%20The%20Reckoning%20(2025)%20DTS-HD%20MA%205.1.jpg)

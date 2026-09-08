@@ -1,6 +1,6 @@
 # Sicario
 
-[Compare across authors](../../compare/?t=film-sicario_273481)
+[Compare across authors](../compare/index.md?t=film-sicario_273481)
 
 ## Atmos
 

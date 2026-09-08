@@ -1,6 +1,6 @@
 # Seed of Chucky
 
-[Compare across authors](../../compare/?t=film-seed-of-chucky_11249)
+[Compare across authors](../compare/index.md?t=film-seed-of-chucky_11249)
 
 ## DTS-HD MA 5.1
 

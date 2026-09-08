@@ -11,7 +11,7 @@ A young girl, Chihiro, becomes trapped in a strange new world of spirits. When h
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62728205)  [TMDB](https://www.themoviedb.org/movie/129)  [Compare across authors](../../compare/?t=film-spirited-away_129)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62728205)  [TMDB](https://www.themoviedb.org/movie/129)  [Compare across authors](../compare/index.md?t=film-spirited-away_129)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Spirited%20Away%202001%20%20Eng%20DTS-HD%20MA%205.1%20PvA.jpg)
@@ -29,7 +29,7 @@ A young girl, Chihiro, becomes trapped in a strange new world of spirits. When h
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62728205)  [TMDB](https://www.themoviedb.org/movie/129)  [Compare across authors](../../compare/?t=film-spirited-away_129)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62728205)  [TMDB](https://www.themoviedb.org/movie/129)  [Compare across authors](../compare/index.md?t=film-spirited-away_129)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Spirited%20Away%202001%20Ja%20DTS-HD%20MA%206.1%20PvA.jpg)

@@ -1,6 +1,6 @@
 # The Lego Movie 2: The Second Part
 
-[Compare across authors](../../compare/?t=film-the-lego-movie-2-the-second-part_280217)
+[Compare across authors](../compare/index.md?t=film-the-lego-movie-2-the-second-part_280217)
 
 ## Atmos, DD+ Atmos
 

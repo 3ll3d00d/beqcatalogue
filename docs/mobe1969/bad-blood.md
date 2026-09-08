@@ -1,6 +1,6 @@
 # Bad Blood
 
-[Compare across authors](../../compare/?t=film-bad-blood_34777)
+[Compare across authors](../compare/index.md?t=film-bad-blood_34777)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Accountant
 
-[Compare across authors](../../compare/?t=film-the-accountant_302946)
+[Compare across authors](../compare/index.md?t=film-the-accountant_302946)
 
 ## DTS-HD MA 7.1
 

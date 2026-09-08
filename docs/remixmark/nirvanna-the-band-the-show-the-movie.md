@@ -9,7 +9,7 @@ When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay a
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1725?post_id=64526823#post-64526823)  [TMDB](https://www.themoviedb.org/movie/1154538)  [Compare across authors](../../compare/?t=film-nirvanna-the-band-the-show-the-movie_1154538)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1725?post_id=64526823#post-64526823)  [TMDB](https://www.themoviedb.org/movie/1154538)  [Compare across authors](../compare/index.md?t=film-nirvanna-the-band-the-show-the-movie_1154538)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nirvanna%20the%20Band%20the%20Show%20the%20Movie%20(2026)%20(%2B1.5%20gain)%20DD%2B.jpg)
@@ -28,7 +28,7 @@ When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay a
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1745?post_id=64641682#post-64641682)  [TMDB](https://www.themoviedb.org/movie/1154538)  [Compare across authors](../../compare/?t=film-nirvanna-the-band-the-show-the-movie_1154538)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1745?post_id=64641682#post-64641682)  [TMDB](https://www.themoviedb.org/movie/1154538)  [Compare across authors](../compare/index.md?t=film-nirvanna-the-band-the-show-the-movie_1154538)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Nirvanna%20the%20Band%20the%20Show%20the%20Movie%20(2026)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)

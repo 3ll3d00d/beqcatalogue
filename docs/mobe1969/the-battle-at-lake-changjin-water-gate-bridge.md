@@ -1,6 +1,6 @@
 # The Battle at Lake Changjin: Water Gate Bridge
 
-[Compare across authors](../../compare/?t=film-the-battle-at-lake-changjin-water-gate-bridge_928123)
+[Compare across authors](../compare/index.md?t=film-the-battle-at-lake-changjin-water-gate-bridge_928123)
 
 ## DTS-HD MA 5.1
 

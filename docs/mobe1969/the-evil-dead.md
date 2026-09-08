@@ -1,6 +1,6 @@
 # The Evil Dead
 
-[Compare across authors](../../compare/?t=film-the-evil-dead_764)
+[Compare across authors](../compare/index.md?t=film-the-evil-dead_764)
 
 ## TrueHD 5.1
 

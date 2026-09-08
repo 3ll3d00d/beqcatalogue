@@ -1,6 +1,6 @@
 # Kite
 
-[Compare across authors](../../compare/?t=film-kite_192712)
+[Compare across authors](../compare/index.md?t=film-kite_192712)
 
 ## TrueHD 5.1
 

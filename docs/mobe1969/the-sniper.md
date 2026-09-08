@@ -1,6 +1,6 @@
 # The Sniper
 
-[Compare across authors](../../compare/?t=film-the-sniper_17082)
+[Compare across authors](../compare/index.md?t=film-the-sniper_17082)
 
 ## TrueHD 7.1
 

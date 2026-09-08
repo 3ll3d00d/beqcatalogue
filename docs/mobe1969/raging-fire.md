@@ -1,6 +1,6 @@
 # Raging Fire
 
-[Compare across authors](../../compare/?t=film-raging-fire_513692)
+[Compare across authors](../compare/index.md?t=film-raging-fire_513692)
 
 ## Atmos
 

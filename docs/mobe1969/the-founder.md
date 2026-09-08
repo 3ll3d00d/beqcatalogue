@@ -1,6 +1,6 @@
 # The Founder
 
-[Compare across authors](../../compare/?t=film-the-founder_310307)
+[Compare across authors](../compare/index.md?t=film-the-founder_310307)
 
 ## DTS-HD MA 5.1
 

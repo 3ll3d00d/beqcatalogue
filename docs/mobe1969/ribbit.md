@@ -1,6 +1,6 @@
 # Ribbit
 
-[Compare across authors](../../compare/?t=film-ribbit_256690)
+[Compare across authors](../compare/index.md?t=film-ribbit_256690)
 
 ## DTS-HD MA 5.1
 

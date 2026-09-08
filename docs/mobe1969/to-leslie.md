@@ -1,6 +1,6 @@
 # To Leslie
 
-[Compare across authors](../../compare/?t=film-to-leslie_823147)
+[Compare across authors](../compare/index.md?t=film-to-leslie_823147)
 
 ## DTS-HD-MA 5.1
 

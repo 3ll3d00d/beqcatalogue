@@ -1,6 +1,6 @@
 # Wish Dragon
 
-[Compare across authors](../../compare/?t=film-wish-dragon_550205)
+[Compare across authors](../compare/index.md?t=film-wish-dragon_550205)
 
 ## DD+ Atmos
 

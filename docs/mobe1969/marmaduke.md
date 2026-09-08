@@ -1,6 +1,6 @@
 # Marmaduke
 
-[Compare across authors](../../compare/?t=film-marmaduke_678287)
+[Compare across authors](../compare/index.md?t=film-marmaduke_678287)
 
 ## DD+ Atmos
 

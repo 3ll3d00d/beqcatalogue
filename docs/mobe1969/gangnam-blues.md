@@ -1,6 +1,6 @@
 # Gangnam Blues
 
-[Compare across authors](../../compare/?t=film-gangnam-blues_297721)
+[Compare across authors](../compare/index.md?t=film-gangnam-blues_297721)
 
 ## TrueHD 5.1
 

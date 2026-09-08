@@ -1,6 +1,6 @@
 # Skyline
 
-[Compare across authors](../../compare/?t=film-skyline_42684)
+[Compare across authors](../compare/index.md?t=film-skyline_42684)
 
 ## DTS-HD MA 5.1
 

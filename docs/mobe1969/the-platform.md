@@ -1,6 +1,6 @@
 # The Platform
 
-[Compare across authors](../../compare/?t=film-the-platform_619264)
+[Compare across authors](../compare/index.md?t=film-the-platform_619264)
 
 ## DD+ 5.1
 

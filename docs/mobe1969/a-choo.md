@@ -1,6 +1,6 @@
 # A Choo
 
-[Compare across authors](../../compare/?t=film-a-choo_288287)
+[Compare across authors](../compare/index.md?t=film-a-choo_288287)
 
 ## DD+ 5.1
 

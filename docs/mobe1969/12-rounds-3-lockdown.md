@@ -1,6 +1,6 @@
 # 12 Rounds 3: Lockdown
 
-[Compare across authors](../../compare/?t=film-12-rounds-3-lockdown_351901)
+[Compare across authors](../compare/index.md?t=film-12-rounds-3-lockdown_351901)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Requin
 
-[Compare across authors](../../compare/?t=film-the-requin_803114)
+[Compare across authors](../compare/index.md?t=film-the-requin_803114)
 
 ## DD+ 5.1
 

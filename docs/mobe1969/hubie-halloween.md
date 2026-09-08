@@ -1,6 +1,6 @@
 # Hubie Halloween
 
-[Compare across authors](../../compare/?t=film-hubie-halloween_617505)
+[Compare across authors](../compare/index.md?t=film-hubie-halloween_617505)
 
 ## DD+ Atmos, DD+ 5.1
 

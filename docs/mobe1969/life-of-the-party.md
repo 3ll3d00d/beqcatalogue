@@ -1,6 +1,6 @@
 # Life of the Party
 
-[Compare across authors](../../compare/?t=film-life-of-the-party_399796)
+[Compare across authors](../compare/index.md?t=film-life-of-the-party_399796)
 
 ## DTS-HD MA 5.1
 

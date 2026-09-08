@@ -9,7 +9,7 @@ When Van Helsing's mysterious invention, the "Monsterfication Ray," goes haywire
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62819049)  [TMDB](https://www.themoviedb.org/movie/585083)  [Compare across authors](../../compare/?t=film-hotel-transylvania-transformania_585083)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62819049)  [TMDB](https://www.themoviedb.org/movie/585083)  [Compare across authors](../compare/index.md?t=film-hotel-transylvania-transformania_585083)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Hotel%20Transylvania%20Transformania%20(2022)%20PvA.jpg)

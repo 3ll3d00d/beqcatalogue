@@ -1,6 +1,6 @@
 # The Soul
 
-[Compare across authors](../../compare/?t=film-the-soul_773569)
+[Compare across authors](../compare/index.md?t=film-the-soul_773569)
 
 ## DD+ 5.1
 

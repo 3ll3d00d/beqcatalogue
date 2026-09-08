@@ -1,6 +1,6 @@
 # The Banana Splits Movie
 
-[Compare across authors](../../compare/?t=film-the-banana-splits-movie_608654)
+[Compare across authors](../compare/index.md?t=film-the-banana-splits-movie_608654)
 
 ## DTS-HD MA 5.1
 

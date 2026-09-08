@@ -1,6 +1,6 @@
 # The Ones You Didn’t Burn
 
-[Compare across authors](../../compare/?t=film-the-ones-you-didnt-burn_974264)
+[Compare across authors](../compare/index.md?t=film-the-ones-you-didnt-burn_974264)
 
 ## DD+ 5.1
 

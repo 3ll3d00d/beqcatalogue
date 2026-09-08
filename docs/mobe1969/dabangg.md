@@ -1,6 +1,6 @@
 # Dabangg
 
-[Compare across authors](../../compare/?t=film-dabangg_44425)
+[Compare across authors](../compare/index.md?t=film-dabangg_44425)
 
 ## DD 5.1
 

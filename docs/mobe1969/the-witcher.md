@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-witcher_71912)
+[Compare across authors](../compare/index.md?t=TV-the-witcher_71912)
 
 ## Season 1
 

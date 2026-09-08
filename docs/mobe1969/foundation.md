@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-foundation_93740)
+[Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 ## Season 1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-jurassic-world-camp-cretaceous_93741)
+[Compare across authors](../compare/index.md?t=TV-jurassic-world-camp-cretaceous_93741)
 
 ## Season 1
 

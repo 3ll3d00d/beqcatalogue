@@ -1,6 +1,6 @@
 # Superman
 
-[Compare across authors](../../compare/?t=film-superman_1924)
+[Compare across authors](../compare/index.md?t=film-superman_1924)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # TAU
 
-[Compare across authors](../../compare/?t=film-tau_411143)
+[Compare across authors](../compare/index.md?t=film-tau_411143)
 
 ## DD+ 5.1
 

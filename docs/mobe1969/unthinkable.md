@@ -1,6 +1,6 @@
 # Unthinkable
 
-[Compare across authors](../../compare/?t=film-unthinkable_38199)
+[Compare across authors](../compare/index.md?t=film-unthinkable_38199)
 
 ## DTS-HD MA 5.1
 

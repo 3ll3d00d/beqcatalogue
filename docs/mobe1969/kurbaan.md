@@ -1,6 +1,6 @@
 # Kurbaan
 
-[Compare across authors](../../compare/?t=film-kurbaan_24613)
+[Compare across authors](../compare/index.md?t=film-kurbaan_24613)
 
 ## DTS-HD MA 5.1
 

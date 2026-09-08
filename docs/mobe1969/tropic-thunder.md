@@ -1,6 +1,6 @@
 # Tropic Thunder
 
-[Compare across authors](../../compare/?t=film-tropic-thunder_7446)
+[Compare across authors](../compare/index.md?t=film-tropic-thunder_7446)
 
 ## DTS-HD MA 5.1
 

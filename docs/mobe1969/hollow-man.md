@@ -1,6 +1,6 @@
 # Hollow Man
 
-[Compare across authors](../../compare/?t=film-hollow-man_9383)
+[Compare across authors](../compare/index.md?t=film-hollow-man_9383)
 
 ## LPCM 5.1
 

@@ -10,7 +10,7 @@ The world has been reduced to rubble by a massive earthquake. While no one knows
 KO
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/729854)  [Compare across authors](../../compare/?t=film-concrete-utopia_729854)
+[TMDB](https://www.themoviedb.org/movie/729854)  [Compare across authors](../compare/index.md?t=film-concrete-utopia_729854)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Concrete.Utopia.2023.jpg)

@@ -1,6 +1,6 @@
 # Sarkar
 
-[Compare across authors](../../compare/?t=film-sarkar_504231)
+[Compare across authors](../compare/index.md?t=film-sarkar_504231)
 
 ## DD+ 5.1
 

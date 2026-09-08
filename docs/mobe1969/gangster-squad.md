@@ -1,6 +1,6 @@
 # Gangster Squad
 
-[Compare across authors](../../compare/?t=film-gangster-squad_82682)
+[Compare across authors](../compare/index.md?t=film-gangster-squad_82682)
 
 ## DTS-HD MA 5.1
 

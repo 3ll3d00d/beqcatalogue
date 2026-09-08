@@ -1,6 +1,6 @@
 # Sadako 3D 2
 
-[Compare across authors](../../compare/?t=film-sadako-3d-2_257527)
+[Compare across authors](../compare/index.md?t=film-sadako-3d-2_257527)
 
 ## DTS-HD MA 5.1
 

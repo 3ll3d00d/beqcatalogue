@@ -1,6 +1,6 @@
 # Alvin and the Chipmunks: The Squeakquel
 
-[Compare across authors](../../compare/?t=film-alvin-and-the-chipmunks-the-squeakquel_23398)
+[Compare across authors](../compare/index.md?t=film-alvin-and-the-chipmunks-the-squeakquel_23398)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

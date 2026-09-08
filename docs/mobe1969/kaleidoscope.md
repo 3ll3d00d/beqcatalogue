@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-kaleidoscope_156902)
+[Compare across authors](../compare/index.md?t=TV-kaleidoscope_156902)
 
 ## Season 1
 

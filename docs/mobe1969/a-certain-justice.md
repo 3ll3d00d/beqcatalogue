@@ -1,6 +1,6 @@
 # A Certain Justice
 
-[Compare across authors](../../compare/?t=film-a-certain-justice_252830)
+[Compare across authors](../compare/index.md?t=film-a-certain-justice_252830)
 
 ## DTS-HD MA 5.1
 

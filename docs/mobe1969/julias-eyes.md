@@ -1,6 +1,6 @@
 # Julia's Eyes
 
-[Compare across authors](../../compare/?t=film-julias-eyes_52274)
+[Compare across authors](../compare/index.md?t=film-julias-eyes_52274)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-rabbit-hole_156819)
+[Compare across authors](../compare/index.md?t=TV-rabbit-hole_156819)
 
 ## Season 1
 

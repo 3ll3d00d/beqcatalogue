@@ -9,7 +9,7 @@ With the Griffins stuck at home during a blackout, Peter tells the story of "Sta
 
 **MV Adjustment:** +2.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/653528)  [Compare across authors](../../compare/?t=film-family-guy-presents-blue-harvest_653528)
+[TMDB](https://www.themoviedb.org/movie/653528)  [Compare across authors](../compare/index.md?t=film-family-guy-presents-blue-harvest_653528)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/(2007)%20Family%20Guy%20Presents%20Blue%20Harvest%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)

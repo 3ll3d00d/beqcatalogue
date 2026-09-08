@@ -1,6 +1,6 @@
 # Spy Kids 3-D Game Over
 
-[Compare across authors](../../compare/?t=film-spy-kids-3-d-game-over_12279)
+[Compare across authors](../compare/index.md?t=film-spy-kids-3-d-game-over_12279)
 
 ## DTS-HD MA 5.1
 

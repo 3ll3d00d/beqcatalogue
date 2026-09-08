@@ -1,6 +1,6 @@
 # Tales of Vesperia: The First Strike
 
-[Compare across authors](../../compare/?t=film-tales-of-vesperia-the-first-strike_39319)
+[Compare across authors](../compare/index.md?t=film-tales-of-vesperia-the-first-strike_39319)
 
 ## TrueHD 5.1
 

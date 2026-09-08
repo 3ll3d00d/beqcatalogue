@@ -1,6 +1,6 @@
 # Fast & Furious Presents: Hobbs & Shaw
 
-[Compare across authors](../../compare/?t=film-fast-furious-presents-hobbs-shaw_384018)
+[Compare across authors](../compare/index.md?t=film-fast-furious-presents-hobbs-shaw_384018)
 
 ## Atmos
 

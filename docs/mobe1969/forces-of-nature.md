@@ -1,6 +1,6 @@
 # Forces of Nature
 
-[Compare across authors](../../compare/?t=film-forces-of-nature_1641)
+[Compare across authors](../compare/index.md?t=film-forces-of-nature_1641)
 
 ## DD+ 5.1
 

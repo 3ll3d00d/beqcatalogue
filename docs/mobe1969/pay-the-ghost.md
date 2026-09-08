@@ -1,6 +1,6 @@
 # Pay the Ghost
 
-[Compare across authors](../../compare/?t=film-pay-the-ghost_290637)
+[Compare across authors](../compare/index.md?t=film-pay-the-ghost_290637)
 
 ## DTS-HD MA 5.1
 

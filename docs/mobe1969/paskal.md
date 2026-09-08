@@ -1,6 +1,6 @@
 # Paskal
 
-[Compare across authors](../../compare/?t=film-paskal_546230)
+[Compare across authors](../compare/index.md?t=film-paskal_546230)
 
 ## DD+ 5.1
 

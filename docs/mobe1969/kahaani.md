@@ -1,6 +1,6 @@
 # Kahaani
 
-[Compare across authors](../../compare/?t=film-kahaani_82825)
+[Compare across authors](../compare/index.md?t=film-kahaani_82825)
 
 ## TrueHD 5.1
 

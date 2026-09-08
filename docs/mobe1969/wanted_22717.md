@@ -1,6 +1,6 @@
 # Wanted
 
-[Compare across authors](../../compare/?t=film-wanted_22717)
+[Compare across authors](../compare/index.md?t=film-wanted_22717)
 
 ## DD 5.1
 

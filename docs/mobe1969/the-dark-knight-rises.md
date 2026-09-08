@@ -1,6 +1,6 @@
 # The Dark Knight Rises
 
-[Compare across authors](../../compare/?t=film-the-dark-knight-rises_49026)
+[Compare across authors](../compare/index.md?t=film-the-dark-knight-rises_49026)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

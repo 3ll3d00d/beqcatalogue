@@ -1,6 +1,6 @@
 # Edge of Tomorrow
 
-[Compare across authors](../../compare/?t=film-edge-of-tomorrow_137113)
+[Compare across authors](../compare/index.md?t=film-edge-of-tomorrow_137113)
 
 ## Atmos
 

@@ -9,7 +9,7 @@ Bella once again finds herself surrounded by danger as Seattle is ravaged by a s
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62968447)  [TMDB](https://www.themoviedb.org/movie/24021)  [Compare across authors](../../compare/?t=film-the-twilight-saga-eclipse_24021)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62968447)  [TMDB](https://www.themoviedb.org/movie/24021)  [Compare across authors](../compare/index.md?t=film-the-twilight-saga-eclipse_24021)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Twilight%20Eclipse%20(2010)%20(%2B3%20gain)%20Atmos.jpg)

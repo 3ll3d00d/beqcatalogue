@@ -1,6 +1,6 @@
 # Under the Skin
 
-[Compare across authors](../../compare/?t=film-under-the-skin_97370)
+[Compare across authors](../compare/index.md?t=film-under-the-skin_97370)
 
 ## DTS-HD MA 5.1
 

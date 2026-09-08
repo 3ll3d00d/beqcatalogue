@@ -1,6 +1,6 @@
 # The Recruit
 
-[Compare across authors](../../compare/?t=film-the-recruit_1647)
+[Compare across authors](../compare/index.md?t=film-the-recruit_1647)
 
 ## LPCM 5.1
 

@@ -1,6 +1,6 @@
 # Speed 2: Cruise Control
 
-[Compare across authors](../../compare/?t=film-speed-2-cruise-control_1639)
+[Compare across authors](../compare/index.md?t=film-speed-2-cruise-control_1639)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Beauty and the Beast
 
-[Compare across authors](../../compare/?t=film-beauty-and-the-beast_10020)
+[Compare across authors](../compare/index.md?t=film-beauty-and-the-beast_10020)
 
 ## Atmos
 

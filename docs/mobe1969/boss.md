@@ -1,6 +1,6 @@
 # Boss
 
-[Compare across authors](../../compare/?t=film-boss_228355)
+[Compare across authors](../compare/index.md?t=film-boss_228355)
 
 ## DD+ 5.1
 

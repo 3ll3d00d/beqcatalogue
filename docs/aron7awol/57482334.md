@@ -1,6 +1,6 @@
 # Cloverfield
 
-[Compare across authors](../../compare/?t=film-cloverfield_7191)
+[Compare across authors](../compare/index.md?t=film-cloverfield_7191)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Code Name Banshee
 
-[Compare across authors](../../compare/?t=film-code-name-banshee_916719)
+[Compare across authors](../compare/index.md?t=film-code-name-banshee_916719)
 
 ## DTS-HD MA 5.1
 

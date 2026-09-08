@@ -1,6 +1,6 @@
 # Ransom
 
-[Compare across authors](../../compare/?t=film-ransom_3595)
+[Compare across authors](../compare/index.md?t=film-ransom_3595)
 
 ## DTS-HD MA 5.1
 

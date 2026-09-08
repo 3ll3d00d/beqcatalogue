@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-true-story_134029)
+[Compare across authors](../compare/index.md?t=TV-true-story_134029)
 
 ## Season 1
 

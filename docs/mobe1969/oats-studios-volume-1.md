@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-oats-studios-volume-1_135353)
+[Compare across authors](../compare/index.md?t=TV-oats-studios-volume-1_135353)
 
 ## Season 1 Episodes 1-5, 7-10
 

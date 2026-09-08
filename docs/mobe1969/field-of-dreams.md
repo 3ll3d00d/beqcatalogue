@@ -1,6 +1,6 @@
 # Field of Dreams
 
-[Compare across authors](../../compare/?t=film-field-of-dreams_2323)
+[Compare across authors](../compare/index.md?t=film-field-of-dreams_2323)
 
 ## DTS-X
 

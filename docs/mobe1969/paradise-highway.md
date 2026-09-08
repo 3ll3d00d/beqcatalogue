@@ -1,6 +1,6 @@
 # Paradise Highway
 
-[Compare across authors](../../compare/?t=film-paradise-highway_939979)
+[Compare across authors](../compare/index.md?t=film-paradise-highway_939979)
 
 ## DD+ 5.1
 

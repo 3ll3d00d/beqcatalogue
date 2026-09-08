@@ -1,6 +1,6 @@
 # Mama
 
-[Compare across authors](../../compare/?t=film-mama_132232)
+[Compare across authors](../compare/index.md?t=film-mama_132232)
 
 ## DTS-HD MA 5.1
 

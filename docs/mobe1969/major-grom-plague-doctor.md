@@ -1,6 +1,6 @@
 # Major Grom: Plague Doctor
 
-[Compare across authors](../../compare/?t=film-major-grom-plague-doctor_529106)
+[Compare across authors](../compare/index.md?t=film-major-grom-plague-doctor_529106)
 
 ## DD+ 5.1
 

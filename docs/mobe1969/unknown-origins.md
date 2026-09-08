@@ -1,6 +1,6 @@
 # Unknown Origins
 
-[Compare across authors](../../compare/?t=film-unknown-origins_438396)
+[Compare across authors](../compare/index.md?t=film-unknown-origins_438396)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Hellraiser: Hellseeker
 
-[Compare across authors](../../compare/?t=film-hellraiser-hellseeker_11246)
+[Compare across authors](../compare/index.md?t=film-hellraiser-hellseeker_11246)
 
 ## DTS-HD MA 5.1
 

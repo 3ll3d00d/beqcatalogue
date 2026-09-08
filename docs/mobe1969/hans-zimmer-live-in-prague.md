@@ -1,6 +1,6 @@
 # Hans Zimmer: Live in Prague
 
-[Compare across authors](../../compare/?t=film-hans-zimmer-live-in-prague_435011)
+[Compare across authors](../compare/index.md?t=film-hans-zimmer-live-in-prague_435011)
 
 ## Atmos
 

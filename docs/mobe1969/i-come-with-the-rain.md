@@ -1,6 +1,6 @@
 # I Come with the Rain
 
-[Compare across authors](../../compare/?t=film-i-come-with-the-rain_31166)
+[Compare across authors](../compare/index.md?t=film-i-come-with-the-rain_31166)
 
 ## DTS-HD MA 5.1
 

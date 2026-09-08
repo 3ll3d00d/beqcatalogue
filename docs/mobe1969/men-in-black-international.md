@@ -1,6 +1,6 @@
 # Men in Black: International
 
-[Compare across authors](../../compare/?t=film-men-in-black-international_479455)
+[Compare across authors](../compare/index.md?t=film-men-in-black-international_479455)
 
 ## Atmos
 

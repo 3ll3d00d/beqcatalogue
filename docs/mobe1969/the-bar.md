@@ -1,6 +1,6 @@
 # The Bar
 
-[Compare across authors](../../compare/?t=film-the-bar_420648)
+[Compare across authors](../compare/index.md?t=film-the-bar_420648)
 
 ## DD+ 5.1
 

@@ -9,7 +9,7 @@ Moments after surviving an all-out attack from the Le Domas family, Grace discov
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1737?post_id=64594483#post-64594483)  [TMDB](https://www.themoviedb.org/movie/1266127)  [Compare across authors](../../compare/?t=film-ready-or-not-2-here-i-come_1266127)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1737?post_id=64594483#post-64594483)  [TMDB](https://www.themoviedb.org/movie/1266127)  [Compare across authors](../compare/index.md?t=film-ready-or-not-2-here-i-come_1266127)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Ready%20or%20Not%202%20Here%20I%20Come%20(2026)%20(%2B3%20gain)%20DD%2B.jpg)

@@ -1,6 +1,6 @@
 # Tommy Boy
 
-[Compare across authors](../../compare/?t=film-tommy-boy_11381)
+[Compare across authors](../compare/index.md?t=film-tommy-boy_11381)
 
 ## TrueHD 5.1
 

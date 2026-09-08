@@ -9,7 +9,7 @@ A virus spreads through an office complex causing white collar workers to act ou
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1732?post_id=64557414#post-64557414)  [TMDB](https://www.themoviedb.org/movie/429733)  [Compare across authors](../../compare/?t=film-mayhem_429733)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1732?post_id=64557414#post-64557414)  [TMDB](https://www.themoviedb.org/movie/429733)  [Compare across authors](../compare/index.md?t=film-mayhem_429733)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Mayhem%20(2017)%20(-1%20gain)%20DTS-HD%20MA%205.1.jpg)

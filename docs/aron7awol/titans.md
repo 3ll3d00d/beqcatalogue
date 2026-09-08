@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-titans_75450)
+[Compare across authors](../compare/index.md?t=TV-titans_75450)
 
 ## Season 1
 

@@ -12,7 +12,7 @@ In the mystical Scottish Highlands, Merida is the princess of a kingdom ruled by
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1664?post_id=64242787#post-64242787)  [TMDB](https://www.themoviedb.org/movie/62177)  [Compare across authors](../../compare/?t=film-brave_62177)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1664?post_id=64242787#post-64242787)  [TMDB](https://www.themoviedb.org/movie/62177)  [Compare across authors](../compare/index.md?t=film-brave_62177)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Brave%20(2012)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)

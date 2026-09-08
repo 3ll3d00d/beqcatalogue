@@ -1,6 +1,6 @@
 # Mortal Kombat: Annihilation
 
-[Compare across authors](../../compare/?t=film-mortal-kombat-annihilation_9823)
+[Compare across authors](../compare/index.md?t=film-mortal-kombat-annihilation_9823)
 
 ## DD+ 5.1
 

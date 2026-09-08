@@ -1,6 +1,6 @@
 # Super 8
 
-[Compare across authors](../../compare/?t=film-super-8_37686)
+[Compare across authors](../compare/index.md?t=film-super-8_37686)
 
 ## TrueHD 7.1
 

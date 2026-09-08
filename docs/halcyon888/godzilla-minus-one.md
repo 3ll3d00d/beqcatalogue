@@ -7,7 +7,7 @@
 Postwar Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/940721)  [Compare across authors](../../compare/?t=film-godzilla-minus-one_940721)
+[TMDB](https://www.themoviedb.org/movie/940721)  [Compare across authors](../compare/index.md?t=film-godzilla-minus-one_940721)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Godzilla%20Minus%20One%20THD%20Atmos%20PvA.png)

@@ -9,7 +9,7 @@ A daredevil driver is determined to compete in Redline, the most popular race in
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1585?post_id=63987026#post-63987026)  [TMDB](https://www.themoviedb.org/movie/71883)  [Compare across authors](../../compare/?t=film-redline_71883)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1585?post_id=63987026#post-63987026)  [TMDB](https://www.themoviedb.org/movie/71883)  [Compare across authors](../compare/index.md?t=film-redline_71883)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Redline%20(2009)%20(%2B2%20gain)%20%20En%20TrueHD.jpg)
@@ -25,7 +25,7 @@ A daredevil driver is determined to compete in Redline, the most popular race in
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1585?post_id=63987014#post-63987014)  [TMDB](https://www.themoviedb.org/movie/71883)  [Compare across authors](../../compare/?t=film-redline_71883)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1585?post_id=63987014#post-63987014)  [TMDB](https://www.themoviedb.org/movie/71883)  [Compare across authors](../compare/index.md?t=film-redline_71883)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Redline%20(2009)%20(%2B2%20gain)%20%20En%20TrueHD.jpg)

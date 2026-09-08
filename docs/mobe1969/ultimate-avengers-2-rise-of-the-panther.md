@@ -1,6 +1,6 @@
 # Ultimate Avengers 2: Rise of the Panther
 
-[Compare across authors](../../compare/?t=film-ultimate-avengers-2-rise-of-the-panther_14611)
+[Compare across authors](../compare/index.md?t=film-ultimate-avengers-2-rise-of-the-panther_14611)
 
 ## LPCM 7.1
 

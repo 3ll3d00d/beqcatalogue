@@ -1,6 +1,6 @@
 # The Game Plan
 
-[Compare across authors](../../compare/?t=film-the-game-plan_13680)
+[Compare across authors](../compare/index.md?t=film-the-game-plan_13680)
 
 ## DD+ 5.1
 

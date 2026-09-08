@@ -1,6 +1,6 @@
 # The Possession
 
-[Compare across authors](../../compare/?t=film-the-possession_77883)
+[Compare across authors](../compare/index.md?t=film-the-possession_77883)
 
 ## DTS-HD MA 5.1
 

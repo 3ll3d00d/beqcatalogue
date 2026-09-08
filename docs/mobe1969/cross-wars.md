@@ -1,6 +1,6 @@
 # Cross Wars
 
-[Compare across authors](../../compare/?t=film-cross-wars_412452)
+[Compare across authors](../compare/index.md?t=film-cross-wars_412452)
 
 ## DTS-HD MA 5.1
 

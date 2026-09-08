@@ -1,6 +1,6 @@
 # Rings
 
-[Compare across authors](../../compare/?t=film-rings_14564)
+[Compare across authors](../compare/index.md?t=film-rings_14564)
 
 ## DTS-HD MA 7.1
 

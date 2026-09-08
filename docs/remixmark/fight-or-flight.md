@@ -12,7 +12,7 @@ A mercenary takes on the job of tracking down a target on a plane but must prote
 Dialnorm Compensation: 8dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63944646#post-63944646)  [TMDB](https://www.themoviedb.org/movie/1212855)  [Compare across authors](../../compare/?t=film-fight-or-flight_1212855)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1576?post_id=63944646#post-63944646)  [TMDB](https://www.themoviedb.org/movie/1212855)  [Compare across authors](../compare/index.md?t=film-fight-or-flight_1212855)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Fight%20or%20Flight%20(2025)%20(%2B7%20gain)%20DD%2B.jpg)
@@ -31,7 +31,7 @@ A mercenary takes on the job of tracking down a target on a plane but must prote
 Dialnorm Compensation: 2dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1610?post_id=64071518#post-64071518)  [TMDB](https://www.themoviedb.org/movie/1212855)  [Compare across authors](../../compare/?t=film-fight-or-flight_1212855)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1610?post_id=64071518#post-64071518)  [TMDB](https://www.themoviedb.org/movie/1212855)  [Compare across authors](../compare/index.md?t=film-fight-or-flight_1212855)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Fight%20or%20Flight%20(2025)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

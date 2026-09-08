@@ -1,6 +1,6 @@
 # Altitude
 
-[Compare across authors](../../compare/?t=film-altitude_44678)
+[Compare across authors](../compare/index.md?t=film-altitude_44678)
 
 ## TrueHD 5.1
 

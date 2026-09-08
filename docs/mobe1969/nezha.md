@@ -1,6 +1,6 @@
 # Nezha
 
-[Compare across authors](../../compare/?t=film-nezha_781456)
+[Compare across authors](../compare/index.md?t=film-nezha_781456)
 
 ## TrueHD 5.1
 

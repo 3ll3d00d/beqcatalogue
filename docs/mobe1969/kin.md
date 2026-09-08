@@ -1,6 +1,6 @@
 # Kin
 
-[Compare across authors](../../compare/?t=film-kin_425505)
+[Compare across authors](../compare/index.md?t=film-kin_425505)
 
 ## Atmos
 

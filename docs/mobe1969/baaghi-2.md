@@ -1,6 +1,6 @@
 # Baaghi 2
 
-[Compare across authors](../../compare/?t=film-baaghi-2_496316)
+[Compare across authors](../compare/index.md?t=film-baaghi-2_496316)
 
 ## DD 5.1
 

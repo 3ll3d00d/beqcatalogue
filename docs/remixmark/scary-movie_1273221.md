@@ -12,7 +12,7 @@ Twenty-six years after outrunning a suspiciously familiar masked killer, the Cor
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1759?post_id=64724910#post-64724910)  [TMDB](https://www.themoviedb.org/movie/1273221)  [Compare across authors](../../compare/?t=film-scary-movie_1273221)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1759?post_id=64724910#post-64724910)  [TMDB](https://www.themoviedb.org/movie/1273221)  [Compare across authors](../compare/index.md?t=film-scary-movie_1273221)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scary%20Movie%20(2026)%20(%2B4.5%20gain)%20DD%2B%20Atmos.jpg)

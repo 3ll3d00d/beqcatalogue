@@ -1,6 +1,6 @@
 # Arthur
 
-[Compare across authors](../../compare/?t=film-arthur_49012)
+[Compare across authors](../compare/index.md?t=film-arthur_49012)
 
 ## DTS-HD MA 5.1
 

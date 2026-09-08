@@ -1,6 +1,6 @@
 # Snitch
 
-[Compare across authors](../../compare/?t=film-snitch_134411)
+[Compare across authors](../compare/index.md?t=film-snitch_134411)
 
 ## Atmos
 

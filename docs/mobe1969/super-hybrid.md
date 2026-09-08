@@ -1,6 +1,6 @@
 # Super Hybrid
 
-[Compare across authors](../../compare/?t=film-super-hybrid_69270)
+[Compare across authors](../compare/index.md?t=film-super-hybrid_69270)
 
 ## DTS-HD MA 5.1
 

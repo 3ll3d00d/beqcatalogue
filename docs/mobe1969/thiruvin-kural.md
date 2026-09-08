@@ -1,6 +1,6 @@
 # Thiruvin Kural
 
-[Compare across authors](../../compare/?t=film-thiruvin-kural_1089204)
+[Compare across authors](../compare/index.md?t=film-thiruvin-kural_1089204)
 
 ## DD+ 5.1
 

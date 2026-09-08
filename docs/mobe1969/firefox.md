@@ -1,6 +1,6 @@
 # Firefox
 
-[Compare across authors](../../compare/?t=film-firefox_10724)
+[Compare across authors](../compare/index.md?t=film-firefox_10724)
 
 ## DTS-HD MA 5.1
 

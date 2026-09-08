@@ -1,6 +1,6 @@
 # HOMESTAY
 
-[Compare across authors](../../compare/?t=film-homestay_899686)
+[Compare across authors](../compare/index.md?t=film-homestay_899686)
 
 ## DD+ 5.1
 

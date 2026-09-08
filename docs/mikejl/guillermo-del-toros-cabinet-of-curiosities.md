@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-guillermo-del-toros-cabinet-of-curiosities_83659)
+* [Compare across authors](../compare/index.md?t=TV-guillermo-del-toros-cabinet-of-curiosities_83659)
 
 * Production Year: 2022
 

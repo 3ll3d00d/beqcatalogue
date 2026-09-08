@@ -1,6 +1,6 @@
 # The Witch: Part 2. The Other One
 
-[Compare across authors](../../compare/?t=film-the-witch-part-2-the-other-one_615173)
+[Compare across authors](../compare/index.md?t=film-the-witch-part-2-the-other-one_615173)
 
 ## DTS-HD MA 5.1
 

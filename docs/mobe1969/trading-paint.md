@@ -1,6 +1,6 @@
 # Trading Paint
 
-[Compare across authors](../../compare/?t=film-trading-paint_474214)
+[Compare across authors](../compare/index.md?t=film-trading-paint_474214)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Kill 'em All
 
-[Compare across authors](../../compare/?t=film-kill-em-all_449503)
+[Compare across authors](../compare/index.md?t=film-kill-em-all_449503)
 
 ## DTS-HD MA 5.1
 

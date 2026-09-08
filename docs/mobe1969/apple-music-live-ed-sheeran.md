@@ -1,6 +1,6 @@
 # Apple Music Live: Ed Sheeran
 
-[Compare across authors](../../compare/?t=film-apple-music-live-ed-sheeran_1125575)
+[Compare across authors](../compare/index.md?t=film-apple-music-live-ed-sheeran_1125575)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Bad Karma
 
-[Compare across authors](../../compare/?t=film-bad-karma_122796)
+[Compare across authors](../compare/index.md?t=film-bad-karma_122796)
 
 ## DTS-HD MA 5.1
 

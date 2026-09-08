@@ -1,6 +1,6 @@
 # Johnny Gaddaar
 
-[Compare across authors](../../compare/?t=film-johnny-gaddaar_20129)
+[Compare across authors](../compare/index.md?t=film-johnny-gaddaar_20129)
 
 ## DD+ 5.1
 

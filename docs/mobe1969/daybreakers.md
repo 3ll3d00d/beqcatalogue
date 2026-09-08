@@ -1,6 +1,6 @@
 # Daybreakers
 
-[Compare across authors](../../compare/?t=film-daybreakers_19901)
+[Compare across authors](../compare/index.md?t=film-daybreakers_19901)
 
 ## Atmos
 

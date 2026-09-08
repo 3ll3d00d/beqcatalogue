@@ -1,6 +1,6 @@
 # Sky High
 
-[Compare across authors](../../compare/?t=film-sky-high_651589)
+[Compare across authors](../compare/index.md?t=film-sky-high_651589)
 
 ## DD+ 5.1
 

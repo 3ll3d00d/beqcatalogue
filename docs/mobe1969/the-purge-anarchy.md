@@ -1,6 +1,6 @@
 # The Purge: Anarchy
 
-[Compare across authors](../../compare/?t=film-the-purge-anarchy_238636)
+[Compare across authors](../compare/index.md?t=film-the-purge-anarchy_238636)
 
 ## DTS-X, DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Saving Sally
 
-[Compare across authors](../../compare/?t=film-saving-sally_406492)
+[Compare across authors](../compare/index.md?t=film-saving-sally_406492)
 
 ## DD+ 5.1
 

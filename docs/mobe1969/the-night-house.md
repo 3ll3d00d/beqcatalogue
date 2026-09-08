@@ -1,6 +1,6 @@
 # The Night House
 
-[Compare across authors](../../compare/?t=film-the-night-house_547565)
+[Compare across authors](../compare/index.md?t=film-the-night-house_547565)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Avengers: Age of Ultron
 
-[Compare across authors](../../compare/?t=film-avengers-age-of-ultron_99861)
+[Compare across authors](../compare/index.md?t=film-avengers-age-of-ultron_99861)
 
 ## Atmos
 

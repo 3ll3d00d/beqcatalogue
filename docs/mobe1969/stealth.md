@@ -1,6 +1,6 @@
 # Stealth
 
-[Compare across authors](../../compare/?t=film-stealth_10048)
+[Compare across authors](../compare/index.md?t=film-stealth_10048)
 
 ## LPCM 5.1
 

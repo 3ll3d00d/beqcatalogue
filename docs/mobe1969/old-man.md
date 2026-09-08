@@ -1,6 +1,6 @@
 # Old Man
 
-[Compare across authors](../../compare/?t=film-old-man_766220)
+[Compare across authors](../compare/index.md?t=film-old-man_766220)
 
 ## DTS-HD MA 5.1
 

@@ -10,7 +10,7 @@ In the Summer of 2024, Paris is hosting the World Triathlon Championships on the
 Fre
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1001311)  [Compare across authors](../../compare/?t=film-under-paris_1001311)
+[TMDB](https://www.themoviedb.org/movie/1001311)  [Compare across authors](../compare/index.md?t=film-under-paris_1001311)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Under%20Paris%20(2024)%20DD%2B%20Atmos.jpg)
@@ -27,7 +27,7 @@ In the Summer of 2024, Paris is hosting the World Triathlon Championships on the
 Ita
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1001311)  [Compare across authors](../../compare/?t=film-under-paris_1001311)
+[TMDB](https://www.themoviedb.org/movie/1001311)  [Compare across authors](../compare/index.md?t=film-under-paris_1001311)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Under%20Paris%20(2024)%20DD%2B.jpg)

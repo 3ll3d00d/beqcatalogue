@@ -1,6 +1,6 @@
 # The Last Son
 
-[Compare across authors](../../compare/?t=film-the-last-son_729577)
+[Compare across authors](../compare/index.md?t=film-the-last-son_729577)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Rescue
 
-[Compare across authors](../../compare/?t=film-the-rescue_613658)
+[Compare across authors](../compare/index.md?t=film-the-rescue_613658)
 
 ## Atmos
 

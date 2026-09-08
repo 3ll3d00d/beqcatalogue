@@ -9,7 +9,7 @@ Fueled by cheap whiskey, greed and hatred, Willie Soke teams up with his angry l
 
 **MV Adjustment:** +9.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1541?post_id=63717955#post-63717955)  [TMDB](https://www.themoviedb.org/movie/338964)  [Compare across authors](../../compare/?t=film-bad-santa-2_338964)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1541?post_id=63717955#post-63717955)  [TMDB](https://www.themoviedb.org/movie/338964)  [Compare across authors](../compare/index.md?t=film-bad-santa-2_338964)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Bad%20Santa%202%20(2016)%20(%2B9%20gain)%20DTS-HD%20MA%205.1.jpg)

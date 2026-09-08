@@ -1,6 +1,6 @@
 # Marco Polo: One Hundred Eyes
 
-[Compare across authors](../../compare/?t=film-marco-polo-one-hundred-eyes_372981)
+[Compare across authors](../compare/index.md?t=film-marco-polo-one-hundred-eyes_372981)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Uncertainty
 
-[Compare across authors](../../compare/?t=film-uncertainty_28520)
+[Compare across authors](../compare/index.md?t=film-uncertainty_28520)
 
 ## DTS-HD MA 5.1
 

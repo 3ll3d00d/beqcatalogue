@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-star-trek-prodigy_106393)
+[Compare across authors](../compare/index.md?t=TV-star-trek-prodigy_106393)
 
 ## Season 1
 

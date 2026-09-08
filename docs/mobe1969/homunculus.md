@@ -1,6 +1,6 @@
 # Homunculus
 
-[Compare across authors](../../compare/?t=film-homunculus_741434)
+[Compare across authors](../compare/index.md?t=film-homunculus_741434)
 
 ## DD+ 5.1
 

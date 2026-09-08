@@ -1,6 +1,6 @@
 # Appleseed Alpha
 
-[Compare across authors](../../compare/?t=film-appleseed-alpha_269650)
+[Compare across authors](../compare/index.md?t=film-appleseed-alpha_269650)
 
 ## DTS-HD MA 5.1
 

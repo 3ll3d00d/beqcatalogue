@@ -10,7 +10,7 @@
 KOR
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-hellbound_106651)
+* [Compare across authors](../compare/index.md?t=TV-hellbound_106651)
 
 * Production Year: 2021
 

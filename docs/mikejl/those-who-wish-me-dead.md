@@ -7,7 +7,7 @@
 A young boy finds himself pursued by two assassins in the Montana wilderness, with a survival expert determined to protect him, and a forest fire threatening to consume them all.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/578701)  [Compare across authors](../../compare/?t=film-those-who-wish-me-dead_578701)
+[TMDB](https://www.themoviedb.org/movie/578701)  [Compare across authors](../compare/index.md?t=film-those-who-wish-me-dead_578701)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Those%20Who%20Wish%20Me%20Dead/Those%20Who%20Wish%20Me%20Dead%20(2022)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ A young boy finds himself pursued by two assassins in the Montana wilderness, wi
 A young boy finds himself pursued by two assassins in the Montana wilderness, with a survival expert determined to protect him, and a forest fire threatening to consume them all.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/578701)  [Compare across authors](../../compare/?t=film-those-who-wish-me-dead_578701)
+[TMDB](https://www.themoviedb.org/movie/578701)  [Compare across authors](../compare/index.md?t=film-those-who-wish-me-dead_578701)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Those%20Who%20Wish%20Me%20Dead/Those%20Who%20Wish%20Me%20Dead%20(2021)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # Mr. Holmes
 
-[Compare across authors](../../compare/?t=film-mr-holmes_280996)
+[Compare across authors](../compare/index.md?t=film-mr-holmes_280996)
 
 ## DTS-HD MA 5.1
 

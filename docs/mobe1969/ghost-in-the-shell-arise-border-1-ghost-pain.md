@@ -1,6 +1,6 @@
 # Ghost in the Shell Arise - Border 1: Ghost Pain
 
-[Compare across authors](../../compare/?t=film-ghost-in-the-shell-arise-border-1-ghost-pain_196750)
+[Compare across authors](../compare/index.md?t=film-ghost-in-the-shell-arise-border-1-ghost-pain_196750)
 
 ## TrueHD 5.1
 

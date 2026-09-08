@@ -1,6 +1,6 @@
 # The Dirt
 
-[Compare across authors](../../compare/?t=film-the-dirt_327331)
+[Compare across authors](../compare/index.md?t=film-the-dirt_327331)
 
 ## DD+ Atmos
 

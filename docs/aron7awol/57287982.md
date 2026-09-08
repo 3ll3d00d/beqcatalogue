@@ -1,6 +1,6 @@
 # Hitman
 
-[Compare across authors](../../compare/?t=film-hitman_1620)
+[Compare across authors](../compare/index.md?t=film-hitman_1620)
 
 ## DTS-HD MA 5.1
 

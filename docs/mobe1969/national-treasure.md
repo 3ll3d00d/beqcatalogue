@@ -1,6 +1,6 @@
 # National Treasure
 
-[Compare across authors](../../compare/?t=film-national-treasure_2059)
+[Compare across authors](../compare/index.md?t=film-national-treasure_2059)
 
 ## DD+ 5.1, DD 5.1
 

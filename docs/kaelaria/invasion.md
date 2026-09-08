@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-invasion_127235)
+* [Compare across authors](../compare/index.md?t=TV-invasion_127235)
 
 * Production Year: 2021
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-invasion_127235)
+* [Compare across authors](../compare/index.md?t=TV-invasion_127235)
 
 * Production Year: 2021
 

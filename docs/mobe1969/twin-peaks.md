@@ -1,6 +1,6 @@
 # Twin Peaks
 
-[Compare across authors](../../compare/?t=film-twin-peaks_452522)
+[Compare across authors](../compare/index.md?t=film-twin-peaks_452522)
 
 ## DTS-HD MA 7.1
 

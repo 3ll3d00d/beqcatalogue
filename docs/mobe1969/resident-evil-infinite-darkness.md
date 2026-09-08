@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-resident-evil-infinite-darkness_110642)
+[Compare across authors](../compare/index.md?t=TV-resident-evil-infinite-darkness_110642)
 
 ## Season 1
 

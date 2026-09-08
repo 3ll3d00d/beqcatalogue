@@ -1,6 +1,6 @@
 # Wild Is the Wind
 
-[Compare across authors](../../compare/?t=film-wild-is-the-wind_1033107)
+[Compare across authors](../compare/index.md?t=film-wild-is-the-wind_1033107)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Patriots Day
 
-[Compare across authors](../../compare/?t=film-patriots-day_388399)
+[Compare across authors](../compare/index.md?t=film-patriots-day_388399)
 
 ## DTS-X, DD+ 5.1
 

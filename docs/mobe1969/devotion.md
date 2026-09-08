@@ -1,6 +1,6 @@
 # Devotion
 
-[Compare across authors](../../compare/?t=film-devotion_653851)
+[Compare across authors](../compare/index.md?t=film-devotion_653851)
 
 ## DD+ Atmos
 

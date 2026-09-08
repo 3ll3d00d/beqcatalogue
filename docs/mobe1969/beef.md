@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-beef_154385)
+[Compare across authors](../compare/index.md?t=TV-beef_154385)
 
 ## Season 1
 

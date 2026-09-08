@@ -1,6 +1,6 @@
 # Burn Out
 
-[Compare across authors](../../compare/?t=film-burn-out_460059)
+[Compare across authors](../compare/index.md?t=film-burn-out_460059)
 
 ## DD+ 5.1
 

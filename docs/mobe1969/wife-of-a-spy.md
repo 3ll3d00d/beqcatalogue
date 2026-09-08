@@ -1,6 +1,6 @@
 # Wife of a Spy
 
-[Compare across authors](../../compare/?t=film-wife-of-a-spy_688301)
+[Compare across authors](../compare/index.md?t=film-wife-of-a-spy_688301)
 
 ## DTS-HD MA 5.1
 

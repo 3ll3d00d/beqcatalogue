@@ -1,6 +1,6 @@
 # Into The Woods
 
-[Compare across authors](../../compare/?t=film-into-the-woods_224141)
+[Compare across authors](../compare/index.md?t=film-into-the-woods_224141)
 
 ## DTS-HD MA 7.1
 

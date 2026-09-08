@@ -1,6 +1,6 @@
 # Jurassic Park III
 
-[Compare across authors](../../compare/?t=film-jurassic-park-iii_331)
+[Compare across authors](../compare/index.md?t=film-jurassic-park-iii_331)
 
 ## DTS-X, DD+ 5.1
 

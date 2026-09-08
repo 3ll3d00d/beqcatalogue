@@ -1,6 +1,6 @@
 # Tiger Zinda Hai
 
-[Compare across authors](../../compare/?t=film-tiger-zinda-hai_441909)
+[Compare across authors](../compare/index.md?t=film-tiger-zinda-hai_441909)
 
 ## Atmos
 

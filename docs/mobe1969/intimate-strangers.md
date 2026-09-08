@@ -1,6 +1,6 @@
 # Intimate Strangers
 
-[Compare across authors](../../compare/?t=film-intimate-strangers_548352)
+[Compare across authors](../compare/index.md?t=film-intimate-strangers_548352)
 
 ## DTS-HD MA 5.1
 

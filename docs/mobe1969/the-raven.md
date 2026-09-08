@@ -1,6 +1,6 @@
 # The Raven
 
-[Compare across authors](../../compare/?t=film-the-raven_70436)
+[Compare across authors](../compare/index.md?t=film-the-raven_70436)
 
 ## DTS-HD MA 5.1
 

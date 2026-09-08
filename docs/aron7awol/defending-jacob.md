@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-defending-jacob_87784)
+[Compare across authors](../compare/index.md?t=TV-defending-jacob_87784)
 
 ## Season 1
 

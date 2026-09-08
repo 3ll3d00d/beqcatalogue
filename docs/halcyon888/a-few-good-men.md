@@ -11,7 +11,7 @@ When cocky military lawyer Lt. Daniel Kaffee and his co-counsel, Lt. Cmdr. JoAnn
 
 **MV Adjustment:** +9.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/881)  [Compare across authors](../../compare/?t=film-a-few-good-men_881)
+[TMDB](https://www.themoviedb.org/movie/881)  [Compare across authors](../compare/index.md?t=film-a-few-good-men_881)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/A%20Few%20Good%20Men%20(1992)%20THD%20Atmos%20PvA.png)

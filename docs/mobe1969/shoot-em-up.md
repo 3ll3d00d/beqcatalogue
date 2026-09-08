@@ -1,6 +1,6 @@
 # Shoot 'Em Up
 
-[Compare across authors](../../compare/?t=film-shoot-em-up_4141)
+[Compare across authors](../compare/index.md?t=film-shoot-em-up_4141)
 
 ## DTS-HD MA 7.1
 

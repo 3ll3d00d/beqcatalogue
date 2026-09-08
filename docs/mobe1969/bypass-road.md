@@ -1,6 +1,6 @@
 # Bypass Road
 
-[Compare across authors](../../compare/?t=film-bypass-road_645370)
+[Compare across authors](../compare/index.md?t=film-bypass-road_645370)
 
 ## DD+ 5.1
 

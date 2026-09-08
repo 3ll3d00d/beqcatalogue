@@ -1,6 +1,6 @@
 # Darkest Hour
 
-[Compare across authors](../../compare/?t=film-darkest-hour_399404)
+[Compare across authors](../compare/index.md?t=film-darkest-hour_399404)
 
 ## Atmos
 

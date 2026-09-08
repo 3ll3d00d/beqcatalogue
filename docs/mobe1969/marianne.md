@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-marianne_92916)
+[Compare across authors](../compare/index.md?t=TV-marianne_92916)
 
 ## Season 1
 

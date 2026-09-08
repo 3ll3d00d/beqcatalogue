@@ -1,6 +1,6 @@
 # Miss Congeniality 2: Armed and Fabulous
 
-[Compare across authors](../../compare/?t=film-miss-congeniality-2-armed-and-fabulous_10040)
+[Compare across authors](../compare/index.md?t=film-miss-congeniality-2-armed-and-fabulous_10040)
 
 ## DTS-HD MA 5.1
 

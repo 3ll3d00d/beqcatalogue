@@ -1,6 +1,6 @@
 # Demolition Man
 
-[Compare across authors](../../compare/?t=film-demolition-man_9739)
+[Compare across authors](../compare/index.md?t=film-demolition-man_9739)
 
 ## DTS-HD MA 5.1
 

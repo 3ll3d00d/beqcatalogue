@@ -1,6 +1,6 @@
 # Star Trek: Nemesis
 
-[Compare across authors](../../compare/?t=film-star-trek-nemesis_201)
+[Compare across authors](../compare/index.md?t=film-star-trek-nemesis_201)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Yuddham Sharanam
 
-[Compare across authors](../../compare/?t=film-yuddham-sharanam_474955)
+[Compare across authors](../compare/index.md?t=film-yuddham-sharanam_474955)
 
 ## DD+ 5.1
 

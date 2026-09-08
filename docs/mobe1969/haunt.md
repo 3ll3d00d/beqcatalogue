@@ -1,6 +1,6 @@
 # Haunt
 
-[Compare across authors](../../compare/?t=film-haunt_146243)
+[Compare across authors](../compare/index.md?t=film-haunt_146243)
 
 ## DTS-HD MA 5.1
 

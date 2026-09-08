@@ -10,7 +10,7 @@
 Fr
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-furies_212588)
+* [Compare across authors](../compare/index.md?t=TV-furies_212588)
 
 * Production Year: 2024
 

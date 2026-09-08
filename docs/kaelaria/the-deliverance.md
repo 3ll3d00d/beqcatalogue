@@ -7,7 +7,7 @@
 Ebony Jackson, a struggling single mother fighting her personal demons, moves her family into a new home for a fresh start. But when strange occurrences inside the home raise the suspicions of Child Protective Services and threaten to tear the family apart, Ebony soon finds herself locked in a battle for her life and the souls of her children.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/930600)  [Compare across authors](../../compare/?t=film-the-deliverance_930600)
+[TMDB](https://www.themoviedb.org/movie/930600)  [Compare across authors](../compare/index.md?t=film-the-deliverance_930600)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The%20Deliverance%20(2024)%20DD%2B%20Atmos.jpg)

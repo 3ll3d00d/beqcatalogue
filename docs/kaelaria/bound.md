@@ -7,7 +7,7 @@
 Corky, a tough female ex-convict working on an apartment renovation in a Chicago building, meets a couple living next door, Caesar, a paranoid mobster, and Violet, his seductive girlfriend, who is immediately attracted to her.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9303)  [Compare across authors](../../compare/?t=film-bound_9303)
+[TMDB](https://www.themoviedb.org/movie/9303)  [Compare across authors](../compare/index.md?t=film-bound_9303)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Bound%20(1996)%20DTS-HD%20MA%205.1.jpg)

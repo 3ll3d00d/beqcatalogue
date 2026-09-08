@@ -1,6 +1,6 @@
 # Star Wars: The Last Jedi
 
-[Compare across authors](../../compare/?t=film-star-wars-the-last-jedi_181808)
+[Compare across authors](../compare/index.md?t=film-star-wars-the-last-jedi_181808)
 
 ## Atmos
 

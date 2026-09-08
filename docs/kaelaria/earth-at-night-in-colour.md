@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-earth-at-night-in-colour_110818)
+* [Compare across authors](../compare/index.md?t=TV-earth-at-night-in-colour_110818)
 
 * Production Year: 2020
 

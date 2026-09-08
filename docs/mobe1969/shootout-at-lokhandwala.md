@@ -1,6 +1,6 @@
 # Shootout at Lokhandwala
 
-[Compare across authors](../../compare/?t=film-shootout-at-lokhandwala_20742)
+[Compare across authors](../compare/index.md?t=film-shootout-at-lokhandwala_20742)
 
 ## DTS-HD MA 5.1
 

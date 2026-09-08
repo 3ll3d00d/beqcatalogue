@@ -9,7 +9,7 @@ In high school, Schmidt was a dork and Jenko was the popular jock. After graduat
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62746408)  [TMDB](https://www.themoviedb.org/movie/64688)  [Compare across authors](../../compare/?t=film-21-jump-street_64688)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62746408)  [TMDB](https://www.themoviedb.org/movie/64688)  [Compare across authors](../compare/index.md?t=film-21-jump-street_64688)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/21%20Jump%20Street%20(2012)%20(%2B1%20gain)%20Atmos.jpg)

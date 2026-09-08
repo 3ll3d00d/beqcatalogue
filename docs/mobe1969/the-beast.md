@@ -1,6 +1,6 @@
 # The Beast
 
-[Compare across authors](../../compare/?t=film-the-beast_575754)
+[Compare across authors](../compare/index.md?t=film-the-beast_575754)
 
 ## DTS-HD MA 5.1
 

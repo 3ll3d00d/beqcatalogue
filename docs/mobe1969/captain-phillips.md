@@ -1,6 +1,6 @@
 # Captain Phillips
 
-[Compare across authors](../../compare/?t=film-captain-phillips_109424)
+[Compare across authors](../compare/index.md?t=film-captain-phillips_109424)
 
 ## DTS-HD MA 5.1
 

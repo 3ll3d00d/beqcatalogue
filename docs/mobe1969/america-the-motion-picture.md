@@ -1,6 +1,6 @@
 # America: The Motion Picture
 
-[Compare across authors](../../compare/?t=film-america-the-motion-picture_739542)
+[Compare across authors](../compare/index.md?t=film-america-the-motion-picture_739542)
 
 ## DD+ 5.1
 

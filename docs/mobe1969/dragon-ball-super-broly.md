@@ -1,6 +1,6 @@
 # Dragon Ball Super: Broly
 
-[Compare across authors](../../compare/?t=film-dragon-ball-super-broly_503314)
+[Compare across authors](../compare/index.md?t=film-dragon-ball-super-broly_503314)
 
 ## DTS-HD MA 5.1
 

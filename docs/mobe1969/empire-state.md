@@ -1,6 +1,6 @@
 # Empire State
 
-[Compare across authors](../../compare/?t=film-empire-state_169209)
+[Compare across authors](../compare/index.md?t=film-empire-state_169209)
 
 ## DTS-HD MA 5.1
 

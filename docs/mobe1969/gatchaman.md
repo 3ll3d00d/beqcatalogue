@@ -1,6 +1,6 @@
 # Gatchaman
 
-[Compare across authors](../../compare/?t=film-gatchaman_225145)
+[Compare across authors](../compare/index.md?t=film-gatchaman_225145)
 
 ## TrueHD 5.1
 

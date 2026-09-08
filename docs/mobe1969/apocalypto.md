@@ -1,6 +1,6 @@
 # Apocalypto
 
-[Compare across authors](../../compare/?t=film-apocalypto_1579)
+[Compare across authors](../compare/index.md?t=film-apocalypto_1579)
 
 ## LPCM 5.1
 

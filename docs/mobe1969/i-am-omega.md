@@ -1,6 +1,6 @@
 # I Am Omega
 
-[Compare across authors](../../compare/?t=film-i-am-omega_30778)
+[Compare across authors](../compare/index.md?t=film-i-am-omega_30778)
 
 ## DTS-HD MA 5.1
 

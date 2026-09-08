@@ -1,6 +1,6 @@
 # Force of Execution
 
-[Compare across authors](../../compare/?t=film-force-of-execution_227359)
+[Compare across authors](../compare/index.md?t=film-force-of-execution_227359)
 
 ## DTS-HD MA 5.1
 

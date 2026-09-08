@@ -1,6 +1,6 @@
 # Get Smart
 
-[Compare across authors](../../compare/?t=film-get-smart_11665)
+[Compare across authors](../compare/index.md?t=film-get-smart_11665)
 
 ## DD 5.1
 

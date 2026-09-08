@@ -1,6 +1,6 @@
 # Star Trek into Darkness
 
-[Compare across authors](../../compare/?t=film-star-trek-into-darkness_54138)
+[Compare across authors](../compare/index.md?t=film-star-trek-into-darkness_54138)
 
 ## Atmos
 

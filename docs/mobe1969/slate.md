@@ -1,6 +1,6 @@
 # Slate
 
-[Compare across authors](../../compare/?t=film-slate_747984)
+[Compare across authors](../compare/index.md?t=film-slate_747984)
 
 ## LPCM 2.0
 

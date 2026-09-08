@@ -1,6 +1,6 @@
 # The Watch
 
-[Compare across authors](../../compare/?t=film-the-watch_80035)
+[Compare across authors](../compare/index.md?t=film-the-watch_80035)
 
 ## DTS-HD MA 5.1
 

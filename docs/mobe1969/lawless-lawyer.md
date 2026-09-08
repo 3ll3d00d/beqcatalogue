@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-lawless-lawyer_78796)
+[Compare across authors](../compare/index.md?t=TV-lawless-lawyer_78796)
 
 ## Season 1
 

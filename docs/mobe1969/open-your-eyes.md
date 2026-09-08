@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-open-your-eyes_129676)
+[Compare across authors](../compare/index.md?t=TV-open-your-eyes_129676)
 
 ## Season 1
 

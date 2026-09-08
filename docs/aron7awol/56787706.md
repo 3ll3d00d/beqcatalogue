@@ -1,6 +1,6 @@
 # The Sorcerer's Apprentice
 
-[Compare across authors](../../compare/?t=film-the-sorcerers-apprentice_27022)
+[Compare across authors](../compare/index.md?t=film-the-sorcerers-apprentice_27022)
 
 ## DTS-HD MA 5.1
 

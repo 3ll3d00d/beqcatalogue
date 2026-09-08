@@ -1,6 +1,6 @@
 # Don 2
 
-[Compare across authors](../../compare/?t=film-don-2_41109)
+[Compare across authors](../compare/index.md?t=film-don-2_41109)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

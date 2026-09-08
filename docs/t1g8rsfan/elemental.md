@@ -9,7 +9,7 @@ In a city where fire, water, land and air residents live together, a fiery young
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62871421)  [TMDB](https://www.themoviedb.org/movie/976573)  [Compare across authors](../../compare/?t=film-elemental_976573)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62871421)  [TMDB](https://www.themoviedb.org/movie/976573)  [Compare across authors](../compare/index.md?t=film-elemental_976573)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Elemental%20(2023)%20(%2B5.5%20gain)%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # The Silence
 
-[Compare across authors](../../compare/?t=film-the-silence_527261)
+[Compare across authors](../compare/index.md?t=film-the-silence_527261)
 
 ## DD+ 5.1
 

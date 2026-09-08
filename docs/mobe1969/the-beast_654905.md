@@ -1,6 +1,6 @@
 # The Beast
 
-[Compare across authors](../../compare/?t=film-the-beast_654905)
+[Compare across authors](../compare/index.md?t=film-the-beast_654905)
 
 ## DD+ 5.1
 

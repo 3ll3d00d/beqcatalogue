@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-beyond-evil_116612)
+[Compare across authors](../compare/index.md?t=TV-beyond-evil_116612)
 
 ## Season 1
 

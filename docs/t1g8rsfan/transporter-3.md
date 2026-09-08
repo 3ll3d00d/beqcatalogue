@@ -9,7 +9,7 @@ Frank Martin puts the driving gloves on to deliver Valentina, the kidnapped daug
 
 **MV Adjustment:** -0.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/13387)  [Compare across authors](../../compare/?t=film-transporter-3_13387)
+[TMDB](https://www.themoviedb.org/movie/13387)  [Compare across authors](../compare/index.md?t=film-transporter-3_13387)
 { data-search-exclude }
 
 ![img 0](https://github.com/T1G8RS-FAN/BEQImages/blob/main/Images/Transporter%203%20(2008)%20(-0.5%20gain)%20Atmos.jpg?raw=true)

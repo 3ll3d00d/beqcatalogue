@@ -1,6 +1,6 @@
 # Mirage
 
-[Compare across authors](../../compare/?t=film-mirage_529216)
+[Compare across authors](../compare/index.md?t=film-mirage_529216)
 
 ## DD+ 5.1
 

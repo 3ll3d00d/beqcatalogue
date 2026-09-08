@@ -1,6 +1,6 @@
 # Jai Ho
 
-[Compare across authors](../../compare/?t=film-jai-ho_244237)
+[Compare across authors](../compare/index.md?t=film-jai-ho_244237)
 
 ## DTS 5.1
 

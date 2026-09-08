@@ -1,6 +1,6 @@
 # The Babysitter: Killer Queen
 
-[Compare across authors](../../compare/?t=film-the-babysitter-killer-queen_623491)
+[Compare across authors](../compare/index.md?t=film-the-babysitter-killer-queen_623491)
 
 ## DD+ 5.1
 

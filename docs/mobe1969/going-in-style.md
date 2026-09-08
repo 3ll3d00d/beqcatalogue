@@ -1,6 +1,6 @@
 # Going in Style
 
-[Compare across authors](../../compare/?t=film-going-in-style_353070)
+[Compare across authors](../compare/index.md?t=film-going-in-style_353070)
 
 ## DTS-HD MA 5.1
 

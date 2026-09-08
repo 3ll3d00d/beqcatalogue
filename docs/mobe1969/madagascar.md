@@ -1,6 +1,6 @@
 # Madagascar
 
-[Compare across authors](../../compare/?t=film-madagascar_953)
+[Compare across authors](../compare/index.md?t=film-madagascar_953)
 
 ## TrueHD 5.1, DD+ 5.1
 

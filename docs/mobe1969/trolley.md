@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-trolley_196526)
+[Compare across authors](../compare/index.md?t=TV-trolley_196526)
 
 ## Season 1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-slasher_65784)
+[Compare across authors](../compare/index.md?t=TV-slasher_65784)
 
 ## Season 1
 

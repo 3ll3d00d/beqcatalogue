@@ -1,6 +1,6 @@
 # Kalaga Thalaivan
 
-[Compare across authors](../../compare/?t=film-kalaga-thalaivan_1004554)
+[Compare across authors](../compare/index.md?t=film-kalaga-thalaivan_1004554)
 
 ## DD+ 5.1
 

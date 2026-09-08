@@ -1,6 +1,6 @@
 # Central Intelligence
 
-[Compare across authors](../../compare/?t=film-central-intelligence_302699)
+[Compare across authors](../compare/index.md?t=film-central-intelligence_302699)
 
 ## DTS-HD MA 5.1
 

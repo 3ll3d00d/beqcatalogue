@@ -1,6 +1,6 @@
 # Lay the Favorite
 
-[Compare across authors](../../compare/?t=film-lay-the-favorite_84305)
+[Compare across authors](../compare/index.md?t=film-lay-the-favorite_84305)
 
 ## DTS-HD MA 5.1
 

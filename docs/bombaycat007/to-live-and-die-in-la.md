@@ -11,7 +11,7 @@ When his longtime partner on the force is killed, reckless U.S. Secret Service a
 
 **MV Adjustment:** +3.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/9846)  [Compare across authors](../../compare/?t=film-to-live-and-die-in-la_9846)
+[TMDB](https://www.themoviedb.org/movie/9846)  [Compare across authors](../compare/index.md?t=film-to-live-and-die-in-la_9846)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/To%20Live%20and%20Die%20in%20L.A.%20(1985)%20(%2B3.5%20Gain)%20LPCM%202.0.png)

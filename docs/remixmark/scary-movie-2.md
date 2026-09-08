@@ -9,7 +9,7 @@ While the original parodied slasher flicks like Scream, Keenen Ivory Wayans's se
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1672?post_id=64272883#post-64272883)  [TMDB](https://www.themoviedb.org/movie/4248)  [Compare across authors](../../compare/?t=film-scary-movie-2_4248)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1672?post_id=64272883#post-64272883)  [TMDB](https://www.themoviedb.org/movie/4248)  [Compare across authors](../compare/index.md?t=film-scary-movie-2_4248)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scary%20Movie%202%20(2001)%20(%2B2.5%20gain)%20DTS-HD%20MA%205.1.jpg)

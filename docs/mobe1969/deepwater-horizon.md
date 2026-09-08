@@ -1,6 +1,6 @@
 # Deepwater Horizon
 
-[Compare across authors](../../compare/?t=film-deepwater-horizon_296524)
+[Compare across authors](../compare/index.md?t=film-deepwater-horizon_296524)
 
 ## Atmos
 

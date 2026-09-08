@@ -1,6 +1,6 @@
 # Terror on the Prairie
 
-[Compare across authors](../../compare/?t=film-terror-on-the-prairie_884315)
+[Compare across authors](../compare/index.md?t=film-terror-on-the-prairie_884315)
 
 ## DTS-HD MA 5.1
 

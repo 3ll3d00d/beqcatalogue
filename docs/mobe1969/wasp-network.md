@@ -1,6 +1,6 @@
 # Wasp Network
 
-[Compare across authors](../../compare/?t=film-wasp-network_451184)
+[Compare across authors](../compare/index.md?t=film-wasp-network_451184)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Alienoid
 
-[Compare across authors](../../compare/?t=film-alienoid_601796)
+[Compare across authors](../compare/index.md?t=film-alienoid_601796)
 
 ## Atmos
 

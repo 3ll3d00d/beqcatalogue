@@ -1,6 +1,6 @@
 # Gerald's Game
 
-[Compare across authors](../../compare/?t=film-geralds-game_343674)
+[Compare across authors](../compare/index.md?t=film-geralds-game_343674)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Infiltrator
 
-[Compare across authors](../../compare/?t=film-the-infiltrator_325789)
+[Compare across authors](../compare/index.md?t=film-the-infiltrator_325789)
 
 ## DTS-HD MA 5.1
 

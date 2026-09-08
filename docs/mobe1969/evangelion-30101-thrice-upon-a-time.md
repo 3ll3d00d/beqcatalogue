@@ -1,6 +1,6 @@
 # Evangelion 3.0+1.01 Thrice Upon a Time
 
-[Compare across authors](../../compare/?t=film-evangelion-30101-thrice-upon-a-time_283566)
+[Compare across authors](../compare/index.md?t=film-evangelion-30101-thrice-upon-a-time_283566)
 
 ## DD+ 5.1
 

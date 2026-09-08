@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-pi-meena_201089)
+[Compare across authors](../compare/index.md?t=TV-pi-meena_201089)
 
 ## Season 1
 

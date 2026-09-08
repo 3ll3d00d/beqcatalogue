@@ -1,6 +1,6 @@
 # The Chaser
 
-[Compare across authors](../../compare/?t=film-the-chaser_13855)
+[Compare across authors](../compare/index.md?t=film-the-chaser_13855)
 
 ## DTS-HD MA 5.1
 

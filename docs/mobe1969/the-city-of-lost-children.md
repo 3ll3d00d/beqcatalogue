@@ -1,6 +1,6 @@
 # The City of Lost Children
 
-[Compare across authors](../../compare/?t=film-the-city-of-lost-children_902)
+[Compare across authors](../compare/index.md?t=film-the-city-of-lost-children_902)
 
 ## DTS-HD MA 5.1
 

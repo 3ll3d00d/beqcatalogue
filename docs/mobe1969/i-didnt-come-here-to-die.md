@@ -1,6 +1,6 @@
 # I Didn't Come Here to Die
 
-[Compare across authors](../../compare/?t=film-i-didnt-come-here-to-die_157161)
+[Compare across authors](../compare/index.md?t=film-i-didnt-come-here-to-die_157161)
 
 ## DTS-HD MA 5.1
 

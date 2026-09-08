@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-anxious-people_139155)
+[Compare across authors](../compare/index.md?t=TV-anxious-people_139155)
 
 ## Season 1
 

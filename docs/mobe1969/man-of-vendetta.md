@@ -1,6 +1,6 @@
 # Man of Vendetta
 
-[Compare across authors](../../compare/?t=film-man-of-vendetta_50210)
+[Compare across authors](../compare/index.md?t=film-man-of-vendetta_50210)
 
 ## DTS-HD MA 5.1
 

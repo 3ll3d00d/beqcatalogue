@@ -1,6 +1,6 @@
 # The Hurt Locker
 
-[Compare across authors](../../compare/?t=film-the-hurt-locker_12162)
+[Compare across authors](../compare/index.md?t=film-the-hurt-locker_12162)
 
 ## Atmos
 

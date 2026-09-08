@@ -1,6 +1,6 @@
 # Moon Man
 
-[Compare across authors](../../compare/?t=film-moon-man_801803)
+[Compare across authors](../compare/index.md?t=film-moon-man_801803)
 
 ## AAC 2.0
 

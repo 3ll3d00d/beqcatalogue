@@ -1,6 +1,6 @@
 # Buba
 
-[Compare across authors](../../compare/?t=film-buba_997703)
+[Compare across authors](../compare/index.md?t=film-buba_997703)
 
 ## DD+ Atmos
 

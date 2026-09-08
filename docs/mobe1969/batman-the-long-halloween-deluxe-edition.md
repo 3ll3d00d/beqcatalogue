@@ -1,6 +1,6 @@
 # Batman: The Long Halloween Deluxe Edition
 
-[Compare across authors](../../compare/?t=film-batman-the-long-halloween-deluxe-edition_1010830)
+[Compare across authors](../compare/index.md?t=film-batman-the-long-halloween-deluxe-edition_1010830)
 
 ## DTS-HD MA 5.1
 

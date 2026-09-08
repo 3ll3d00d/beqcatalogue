@@ -1,6 +1,6 @@
 # Lupin the Third: Voyage to Danger
 
-[Compare across authors](../../compare/?t=film-lupin-the-third-voyage-to-danger_76190)
+[Compare across authors](../compare/index.md?t=film-lupin-the-third-voyage-to-danger_76190)
 
 ## DD+ 5.1
 

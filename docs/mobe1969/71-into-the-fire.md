@@ -1,6 +1,6 @@
 # 71: Into The Fire
 
-[Compare across authors](../../compare/?t=film-71-into-the-fire_51200)
+[Compare across authors](../compare/index.md?t=film-71-into-the-fire_51200)
 
 ## DTS-HD MA 5.1
 

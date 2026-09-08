@@ -1,6 +1,6 @@
 # Vanguard
 
-[Compare across authors](../../compare/?t=film-vanguard_604822)
+[Compare across authors](../compare/index.md?t=film-vanguard_604822)
 
 ## DTS-HD MA 5.1
 

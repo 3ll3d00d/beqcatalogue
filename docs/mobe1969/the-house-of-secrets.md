@@ -1,6 +1,6 @@
 # The House of Secrets
 
-[Compare across authors](../../compare/?t=film-the-house-of-secrets_1146676)
+[Compare across authors](../compare/index.md?t=film-the-house-of-secrets_1146676)
 
 ## DD+ 5.1
 

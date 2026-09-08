@@ -1,6 +1,6 @@
 # Evangelion: 3.33 You Can (Not) Redo
 
-[Compare across authors](../../compare/?t=film-evangelion-333-you-can-not-redo_75629)
+[Compare across authors](../compare/index.md?t=film-evangelion-333-you-can-not-redo_75629)
 
 ## TrueHD 5.1
 

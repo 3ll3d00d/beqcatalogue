@@ -1,6 +1,6 @@
 # 44 Inch Chest
 
-[Compare across authors](../../compare/?t=film-44-inch-chest_29182)
+[Compare across authors](../compare/index.md?t=film-44-inch-chest_29182)
 
 ## DTS-HD MA 5.1
 

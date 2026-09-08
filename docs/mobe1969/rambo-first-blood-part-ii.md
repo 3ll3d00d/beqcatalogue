@@ -1,6 +1,6 @@
 # Rambo: First Blood Part II
 
-[Compare across authors](../../compare/?t=film-rambo-first-blood-part-ii_1369)
+[Compare across authors](../compare/index.md?t=film-rambo-first-blood-part-ii_1369)
 
 ## DTS-HD MA 5.1
 

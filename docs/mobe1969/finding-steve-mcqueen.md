@@ -1,6 +1,6 @@
 # Finding Steve McQueen
 
-[Compare across authors](../../compare/?t=film-finding-steve-mcqueen_433499)
+[Compare across authors](../compare/index.md?t=film-finding-steve-mcqueen_433499)
 
 ## DD+ 5.1
 

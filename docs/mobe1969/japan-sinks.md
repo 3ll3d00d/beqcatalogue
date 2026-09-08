@@ -1,6 +1,6 @@
 # Japan Sinks
 
-[Compare across authors](../../compare/?t=film-japan-sinks_16766)
+[Compare across authors](../compare/index.md?t=film-japan-sinks_16766)
 
 ## DTS-ES 6.1, DD-EX 6.1
 

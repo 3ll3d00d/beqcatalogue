@@ -1,6 +1,6 @@
 # Versus
 
-[Compare across authors](../../compare/?t=film-versus_5842)
+[Compare across authors](../compare/index.md?t=film-versus_5842)
 
 ## DTS-HD MA 5.1
 

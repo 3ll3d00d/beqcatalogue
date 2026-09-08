@@ -1,6 +1,6 @@
 # Meet the Blacks
 
-[Compare across authors](../../compare/?t=film-meet-the-blacks_377587)
+[Compare across authors](../compare/index.md?t=film-meet-the-blacks_377587)
 
 ## DTS-HD MA 5.1
 

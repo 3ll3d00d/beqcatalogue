@@ -1,6 +1,6 @@
 # Pacific Rim
 
-[Compare across authors](../../compare/?t=film-pacific-rim_68726)
+[Compare across authors](../compare/index.md?t=film-pacific-rim_68726)
 
 ## Atmos
 

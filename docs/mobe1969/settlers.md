@@ -1,6 +1,6 @@
 # Settlers
 
-[Compare across authors](../../compare/?t=film-settlers_791568)
+[Compare across authors](../compare/index.md?t=film-settlers_791568)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Shark Tale
 
-[Compare across authors](../../compare/?t=film-shark-tale_10555)
+[Compare across authors](../compare/index.md?t=film-shark-tale_10555)
 
 ## DD+ 5.1
 

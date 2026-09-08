@@ -1,6 +1,6 @@
 # Criminal Activities
 
-[Compare across authors](../../compare/?t=film-criminal-activities_334527)
+[Compare across authors](../compare/index.md?t=film-criminal-activities_334527)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

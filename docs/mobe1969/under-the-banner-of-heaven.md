@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-under-the-banner-of-heaven_128095)
+[Compare across authors](../compare/index.md?t=TV-under-the-banner-of-heaven_128095)
 
 ## Season 1
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-death-and-other-details_133813)
+* [Compare across authors](../compare/index.md?t=TV-death-and-other-details_133813)
 
 * Production Year: 2024
 

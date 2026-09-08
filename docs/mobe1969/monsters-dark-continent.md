@@ -1,6 +1,6 @@
 # Monsters: Dark Continent
 
-[Compare across authors](../../compare/?t=film-monsters-dark-continent_145221)
+[Compare across authors](../compare/index.md?t=film-monsters-dark-continent_145221)
 
 ## DTS-HD MA 5.1
 

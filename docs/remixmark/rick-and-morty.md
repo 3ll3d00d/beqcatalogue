@@ -11,7 +11,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1442#post-63277208)
 
-* [Compare across authors](../../compare/?t=TV-rick-and-morty_60625)
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
 
 * Production Year: 2013
 
@@ -27,7 +27,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1442#post-63277159)
 
-* [Compare across authors](../../compare/?t=TV-rick-and-morty_60625)
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
 
 * Production Year: 2013
 
@@ -43,7 +43,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1442#post-63277225)
 
-* [Compare across authors](../../compare/?t=TV-rick-and-morty_60625)
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
 
 * Production Year: 2013
 
@@ -59,7 +59,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1442#post-63275386)
 
-* [Compare across authors](../../compare/?t=TV-rick-and-morty_60625)
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
 
 * Production Year: 2013
 
@@ -75,7 +75,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1617?post_id=64097488#post-64097488)
 
-* [Compare across authors](../../compare/?t=TV-rick-and-morty_60625)
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
 
 * Production Year: 2013
 
@@ -94,7 +94,7 @@ Dialnorm Compensation: Ep 5-6 - 6dB, Ep 7-10 - 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1760?post_id=64728613#post-64728613)
 
-* [Compare across authors](../../compare/?t=TV-rick-and-morty_60625)
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
 
 * Production Year: 2013
 
@@ -113,7 +113,7 @@ Dialnorm Compensation: Ep 5-6 - 6dB, Ep 7-8 - 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1755?post_id=64712148#post-64712148)
 
-* [Compare across authors](../../compare/?t=TV-rick-and-morty_60625)
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
 
 * Production Year: 2013
 

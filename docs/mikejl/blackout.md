@@ -7,7 +7,7 @@
 A man wakes in a hospital with no memory, and quickly finds himself on the run in a locked down hospital with the Cartel on his tail.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/759507)  [Compare across authors](../../compare/?t=film-blackout_759507)
+[TMDB](https://www.themoviedb.org/movie/759507)  [Compare across authors](../compare/index.md?t=film-blackout_759507)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blackout/Blackout%20(2022)%20DTS-HD%20MA%205.1.jpg)

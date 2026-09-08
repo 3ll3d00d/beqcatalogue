@@ -1,6 +1,6 @@
 # Where Eagles Dare
 
-[Compare across authors](../../compare/?t=film-where-eagles-dare_11046)
+[Compare across authors](../compare/index.md?t=film-where-eagles-dare_11046)
 
 ## DTS-HD MA 5.1
 

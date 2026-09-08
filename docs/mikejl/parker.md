@@ -7,7 +7,7 @@
 A thief with a unique code of professional ethics is double-crossed by his crew and left for dead. Assuming a new disguise and forming an unlikely alliance with a woman on the inside, he looks to hijack the score of the crew's latest heist.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/119283)  [Compare across authors](../../compare/?t=film-parker_119283)
+[TMDB](https://www.themoviedb.org/movie/119283)  [Compare across authors](../compare/index.md?t=film-parker_119283)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Parker/Parker%20(2013)%20DD%205.1.jpg)

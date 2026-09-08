@@ -1,6 +1,6 @@
 # The Witch: Part 1. The Subversion
 
-[Compare across authors](../../compare/?t=film-the-witch-part-1-the-subversion_530254)
+[Compare across authors](../compare/index.md?t=film-the-witch-part-1-the-subversion_530254)
 
 ## DTS-HD MA 5.1
 

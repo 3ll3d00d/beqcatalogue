@@ -1,6 +1,6 @@
 # The Omega Man
 
-[Compare across authors](../../compare/?t=film-the-omega-man_11234)
+[Compare across authors](../compare/index.md?t=film-the-omega-man_11234)
 
 ## DD 1.0
 

@@ -1,6 +1,6 @@
 # Sacrifice
 
-[Compare across authors](../../compare/?t=film-sacrifice_394661)
+[Compare across authors](../compare/index.md?t=film-sacrifice_394661)
 
 ## DD+ 5.1
 

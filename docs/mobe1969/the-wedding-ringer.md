@@ -1,6 +1,6 @@
 # The Wedding Ringer
 
-[Compare across authors](../../compare/?t=film-the-wedding-ringer_252838)
+[Compare across authors](../compare/index.md?t=film-the-wedding-ringer_252838)
 
 ## DTS-HD MA 5.1
 

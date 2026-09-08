@@ -1,6 +1,6 @@
 # Human Capital
 
-[Compare across authors](../../compare/?t=film-human-capital_569711)
+[Compare across authors](../compare/index.md?t=film-human-capital_569711)
 
 ## DD+ 5.1
 

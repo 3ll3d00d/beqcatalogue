@@ -12,7 +12,7 @@ Grace and her partner Jackson move into an old country house. She pursues her dr
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1687?post_id=64348908#post-64348908)  [TMDB](https://www.themoviedb.org/movie/1033148)  [Compare across authors](../../compare/?t=film-die-my-love_1033148)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1687?post_id=64348908#post-64348908)  [TMDB](https://www.themoviedb.org/movie/1033148)  [Compare across authors](../compare/index.md?t=film-die-my-love_1033148)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Die%20My%20Love%20(2025)%20(%2B5%20gain)%20DD%2B.jpg)
@@ -28,7 +28,7 @@ After inheriting a remote Montana house, Jackson moves there from New York with 
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1713?post_id=64470511#post-64470511)  [TMDB](https://www.themoviedb.org/movie/1033148)  [Compare across authors](../../compare/?t=film-die-my-love_1033148)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1713?post_id=64470511#post-64470511)  [TMDB](https://www.themoviedb.org/movie/1033148)  [Compare across authors](../compare/index.md?t=film-die-my-love_1033148)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Die%20My%20Love%20(2025)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

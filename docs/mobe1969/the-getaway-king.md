@@ -1,6 +1,6 @@
 # The Getaway King
 
-[Compare across authors](../../compare/?t=film-the-getaway-king_859453)
+[Compare across authors](../compare/index.md?t=film-the-getaway-king_859453)
 
 ## DD+ 5.1
 

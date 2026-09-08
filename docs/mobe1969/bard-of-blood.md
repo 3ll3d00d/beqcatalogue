@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-bard-of-blood_91016)
+[Compare across authors](../compare/index.md?t=TV-bard-of-blood_91016)
 
 ## Season 1
 

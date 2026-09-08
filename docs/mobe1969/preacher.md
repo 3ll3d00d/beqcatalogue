@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-preacher_64230)
+[Compare across authors](../compare/index.md?t=TV-preacher_64230)
 
 ## Season 1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-zerozerozero_92137)
+[Compare across authors](../compare/index.md?t=TV-zerozerozero_92137)
 
 ## Season 1 Episodes 1-3
 

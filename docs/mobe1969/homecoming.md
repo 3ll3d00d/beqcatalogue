@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-homecoming_80335)
+[Compare across authors](../compare/index.md?t=TV-homecoming_80335)
 
 ## Season 1
 

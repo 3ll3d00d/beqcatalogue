@@ -1,6 +1,6 @@
 # The Ugly Truth
 
-[Compare across authors](../../compare/?t=film-the-ugly-truth_20943)
+[Compare across authors](../compare/index.md?t=film-the-ugly-truth_20943)
 
 ## DTS-HD MA 5.1
 

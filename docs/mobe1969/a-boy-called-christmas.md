@@ -1,6 +1,6 @@
 # A Boy Called Christmas
 
-[Compare across authors](../../compare/?t=film-a-boy-called-christmas_615666)
+[Compare across authors](../compare/index.md?t=film-a-boy-called-christmas_615666)
 
 ## DD+ 5.1
 

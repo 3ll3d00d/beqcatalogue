@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-yasuke_112166)
+[Compare across authors](../compare/index.md?t=TV-yasuke_112166)
 
 ## Season 1
 

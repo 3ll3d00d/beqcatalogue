@@ -1,6 +1,6 @@
 # Undisputed III: Redemption
 
-[Compare across authors](../../compare/?t=film-undisputed-iii-redemption_38234)
+[Compare across authors](../compare/index.md?t=film-undisputed-iii-redemption_38234)
 
 ## DTS-HD MA 5.1
 

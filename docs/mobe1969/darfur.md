@@ -1,6 +1,6 @@
 # Darfur
 
-[Compare across authors](../../compare/?t=film-darfur_46217)
+[Compare across authors](../compare/index.md?t=film-darfur_46217)
 
 ## DTS-HD MA 5.1
 

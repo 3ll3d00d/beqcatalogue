@@ -11,7 +11,7 @@ U.S. Navy SEAL Chris Kyle takes his sole mission—protect his comrades—to hea
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1450?post_id=63299990#post-63299990)  [TMDB](https://www.themoviedb.org/movie/190859)  [Compare across authors](../../compare/?t=film-american-sniper_190859)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1450?post_id=63299990#post-63299990)  [TMDB](https://www.themoviedb.org/movie/190859)  [Compare across authors](../compare/index.md?t=film-american-sniper_190859)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/American%20Sniper%20(2014)%20(%2B1%20gain)%20Atmos%20UHD.jpg)

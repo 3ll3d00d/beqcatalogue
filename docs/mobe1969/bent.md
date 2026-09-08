@@ -1,6 +1,6 @@
 # Bent
 
-[Compare across authors](../../compare/?t=film-bent_505579)
+[Compare across authors](../compare/index.md?t=film-bent_505579)
 
 ## DTS-HD MA 5.1
 

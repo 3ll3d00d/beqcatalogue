@@ -14,7 +14,7 @@ Dialnorm Compensation: 8dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1765?post_id=64760447#post-64760447)
 
-* [Compare across authors](../../compare/?t=TV-lanterns_95350)
+* [Compare across authors](../compare/index.md?t=TV-lanterns_95350)
 
 * Production Year: 2026
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: 9dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1766?post_id=64779211#post-64779211)
 
-* [Compare across authors](../../compare/?t=TV-lanterns_95350)
+* [Compare across authors](../compare/index.md?t=TV-lanterns_95350)
 
 * Production Year: 2026
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: 7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800155#post-64800155)
 
-* [Compare across authors](../../compare/?t=TV-lanterns_95350)
+* [Compare across authors](../compare/index.md?t=TV-lanterns_95350)
 
 * Production Year: 2026
 
@@ -80,7 +80,7 @@ Dialnorm Compensation: 8dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1773#post-64821619)
 
-* [Compare across authors](../../compare/?t=TV-lanterns_95350)
+* [Compare across authors](../compare/index.md?t=TV-lanterns_95350)
 
 * Production Year: 2026
 

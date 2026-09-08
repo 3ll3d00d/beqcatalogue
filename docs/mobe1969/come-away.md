@@ -1,6 +1,6 @@
 # Come Away
 
-[Compare across authors](../../compare/?t=film-come-away_527400)
+[Compare across authors](../compare/index.md?t=film-come-away_527400)
 
 ## DD+ 5.1
 

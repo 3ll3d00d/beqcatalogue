@@ -1,6 +1,6 @@
 # American Girl
 
-[Compare across authors](../../compare/?t=film-american-girl_878987)
+[Compare across authors](../compare/index.md?t=film-american-girl_878987)
 
 ## DD+ 5.1
 

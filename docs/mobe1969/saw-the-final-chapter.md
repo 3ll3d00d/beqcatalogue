@@ -1,6 +1,6 @@
 # Saw: The Final Chapter
 
-[Compare across authors](../../compare/?t=film-saw-the-final-chapter_41439)
+[Compare across authors](../compare/index.md?t=film-saw-the-final-chapter_41439)
 
 ## DTS-HD MA 7.1
 

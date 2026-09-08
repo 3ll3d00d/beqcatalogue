@@ -1,6 +1,6 @@
 # When We First Met
 
-[Compare across authors](../../compare/?t=film-when-we-first-met_433310)
+[Compare across authors](../compare/index.md?t=film-when-we-first-met_433310)
 
 ## DD+ 5.1
 

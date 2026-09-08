@@ -1,6 +1,6 @@
 # Hesher
 
-[Compare across authors](../../compare/?t=film-hesher_44835)
+[Compare across authors](../compare/index.md?t=film-hesher_44835)
 
 ## DD+ 5.1
 

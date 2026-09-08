@@ -1,6 +1,6 @@
 # Arizona
 
-[Compare across authors](../../compare/?t=film-arizona_490004)
+[Compare across authors](../compare/index.md?t=film-arizona_490004)
 
 ## DTS-HD MA 5.1
 

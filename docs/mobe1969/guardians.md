@@ -1,6 +1,6 @@
 # Guardians
 
-[Compare across authors](../../compare/?t=film-guardians_354556)
+[Compare across authors](../compare/index.md?t=film-guardians_354556)
 
 ## DTS-HD MA 5.1
 

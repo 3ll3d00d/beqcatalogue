@@ -1,6 +1,6 @@
 # Jaane Jaan
 
-[Compare across authors](../../compare/?t=film-jaane-jaan_950071)
+[Compare across authors](../compare/index.md?t=film-jaane-jaan_950071)
 
 ## DD+ Atmos
 

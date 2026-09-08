@@ -1,6 +1,6 @@
 # The Post-Truth World
 
-[Compare across authors](../../compare/?t=film-the-post-truth-world_1007962)
+[Compare across authors](../compare/index.md?t=film-the-post-truth-world_1007962)
 
 ## DD+ 5.1
 

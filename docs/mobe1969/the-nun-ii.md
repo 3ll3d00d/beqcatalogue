@@ -1,6 +1,6 @@
 # The Nun II
 
-[Compare across authors](../../compare/?t=film-the-nun-ii_968051)
+[Compare across authors](../compare/index.md?t=film-the-nun-ii_968051)
 
 ## DD+ Atmos
 

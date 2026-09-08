@@ -1,6 +1,6 @@
 # The Village
 
-[Compare across authors](../../compare/?t=film-the-village_6947)
+[Compare across authors](../compare/index.md?t=film-the-village_6947)
 
 ## DD+ 5.1
 

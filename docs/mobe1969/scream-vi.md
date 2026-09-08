@@ -1,6 +1,6 @@
 # Scream VI
 
-[Compare across authors](../../compare/?t=film-scream-vi_934433)
+[Compare across authors](../compare/index.md?t=film-scream-vi_934433)
 
 ## Atmos
 

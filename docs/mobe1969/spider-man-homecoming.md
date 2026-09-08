@@ -1,6 +1,6 @@
 # Spider-Man: Homecoming
 
-[Compare across authors](../../compare/?t=film-spider-man-homecoming_315635)
+[Compare across authors](../compare/index.md?t=film-spider-man-homecoming_315635)
 
 ## Atmos, DTS-HD MA 5.1
 

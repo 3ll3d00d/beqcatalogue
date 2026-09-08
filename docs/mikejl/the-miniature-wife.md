@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-the-miniature-wife_250220)
+* [Compare across authors](../compare/index.md?t=TV-the-miniature-wife_250220)
 
 * Production Year: 2026
 

@@ -1,6 +1,6 @@
 # Stuber
 
-[Compare across authors](../../compare/?t=film-stuber_513045)
+[Compare across authors](../compare/index.md?t=film-stuber_513045)
 
 ## Atmos, DTS-HD MA 7.1
 

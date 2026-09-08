@@ -1,6 +1,6 @@
 # Dabangg 2
 
-[Compare across authors](../../compare/?t=film-dabangg-2_147405)
+[Compare across authors](../compare/index.md?t=film-dabangg-2_147405)
 
 ## DTS 5.1
 

@@ -1,6 +1,6 @@
 # The Whale
 
-[Compare across authors](../../compare/?t=film-the-whale_785084)
+[Compare across authors](../compare/index.md?t=film-the-whale_785084)
 
 ## DTS-HD MA 5.1
 

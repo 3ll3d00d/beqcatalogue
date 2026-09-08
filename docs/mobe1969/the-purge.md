@@ -1,6 +1,6 @@
 # The Purge
 
-[Compare across authors](../../compare/?t=film-the-purge_158015)
+[Compare across authors](../compare/index.md?t=film-the-purge_158015)
 
 ## DTS-X, DD+ 5.1
 

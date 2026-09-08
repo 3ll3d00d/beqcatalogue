@@ -1,6 +1,6 @@
 # Bill & Ted's Bogus Journey
 
-[Compare across authors](../../compare/?t=film-bill-teds-bogus-journey_1649)
+[Compare across authors](../compare/index.md?t=film-bill-teds-bogus-journey_1649)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

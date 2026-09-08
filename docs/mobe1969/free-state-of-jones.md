@@ -1,6 +1,6 @@
 # Free State of Jones
 
-[Compare across authors](../../compare/?t=film-free-state-of-jones_316152)
+[Compare across authors](../compare/index.md?t=film-free-state-of-jones_316152)
 
 ## DTS-HD MA 5.1
 

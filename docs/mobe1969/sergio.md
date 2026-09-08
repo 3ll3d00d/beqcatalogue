@@ -1,6 +1,6 @@
 # Sergio
 
-[Compare across authors](../../compare/?t=film-sergio_653744)
+[Compare across authors](../compare/index.md?t=film-sergio_653744)
 
 ## DD+ Atmos
 

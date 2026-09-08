@@ -1,6 +1,6 @@
 # Action Jackson
 
-[Compare across authors](../../compare/?t=film-action-jackson_308165)
+[Compare across authors](../compare/index.md?t=film-action-jackson_308165)
 
 ## DD 5.1
 

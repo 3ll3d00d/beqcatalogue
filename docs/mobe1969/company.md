@@ -1,6 +1,6 @@
 # Company
 
-[Compare across authors](../../compare/?t=film-company_15761)
+[Compare across authors](../compare/index.md?t=film-company_15761)
 
 ## DD+ 5.1
 

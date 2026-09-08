@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-yakitori-soldiers-of-misfortune_223119)
+[Compare across authors](../compare/index.md?t=TV-yakitori-soldiers-of-misfortune_223119)
 
 ## Season 1
 

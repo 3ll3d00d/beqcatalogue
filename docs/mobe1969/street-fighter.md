@@ -1,6 +1,6 @@
 # Street Fighter
 
-[Compare across authors](../../compare/?t=film-street-fighter_11667)
+[Compare across authors](../compare/index.md?t=film-street-fighter_11667)
 
 ## TrueHD 5.1
 

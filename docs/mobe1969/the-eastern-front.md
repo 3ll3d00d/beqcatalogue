@@ -1,6 +1,6 @@
 # The Eastern Front
 
-[Compare across authors](../../compare/?t=film-the-eastern-front_716145)
+[Compare across authors](../compare/index.md?t=film-the-eastern-front_716145)
 
 ## DD+ 5.1
 

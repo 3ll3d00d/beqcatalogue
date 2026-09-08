@@ -1,6 +1,6 @@
 # Offspring
 
-[Compare across authors](../../compare/?t=film-offspring_24868)
+[Compare across authors](../compare/index.md?t=film-offspring_24868)
 
 ## DTS-HD MA 5.1
 

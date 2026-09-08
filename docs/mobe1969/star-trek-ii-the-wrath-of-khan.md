@@ -1,6 +1,6 @@
 # Star Trek II: The Wrath of Khan
 
-[Compare across authors](../../compare/?t=film-star-trek-ii-the-wrath-of-khan_154)
+[Compare across authors](../compare/index.md?t=film-star-trek-ii-the-wrath-of-khan_154)
 
 ## TrueHD 7.1
 

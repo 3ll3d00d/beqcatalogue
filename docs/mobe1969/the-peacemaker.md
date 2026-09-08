@@ -1,6 +1,6 @@
 # The Peacemaker
 
-[Compare across authors](../../compare/?t=film-the-peacemaker_6623)
+[Compare across authors](../compare/index.md?t=film-the-peacemaker_6623)
 
 ## DTS-HD MA 5.1
 

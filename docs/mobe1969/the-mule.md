@@ -1,6 +1,6 @@
 # The Mule
 
-[Compare across authors](../../compare/?t=film-the-mule_146955)
+[Compare across authors](../compare/index.md?t=film-the-mule_146955)
 
 ## DTS-HD MA 5.1
 

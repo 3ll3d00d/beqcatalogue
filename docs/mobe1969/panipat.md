@@ -1,6 +1,6 @@
 # Panipat
 
-[Compare across authors](../../compare/?t=film-panipat_577332)
+[Compare across authors](../compare/index.md?t=film-panipat_577332)
 
 ## DD+ 5.1
 

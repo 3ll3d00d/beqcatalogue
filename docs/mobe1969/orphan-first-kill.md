@@ -1,6 +1,6 @@
 # Orphan: First Kill
 
-[Compare across authors](../../compare/?t=film-orphan-first-kill_760161)
+[Compare across authors](../compare/index.md?t=film-orphan-first-kill_760161)
 
 ## DD+ 5.1
 

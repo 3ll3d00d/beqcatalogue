@@ -1,6 +1,6 @@
 # WXIII: Patlabor The Movie 3
 
-[Compare across authors](../../compare/?t=film-wxiii-patlabor-the-movie-3_16402)
+[Compare across authors](../compare/index.md?t=film-wxiii-patlabor-the-movie-3_16402)
 
 ## TrueHD 5.1
 

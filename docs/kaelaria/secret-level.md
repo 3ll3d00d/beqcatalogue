@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-secret-level_261579)
+* [Compare across authors](../compare/index.md?t=TV-secret-level_261579)
 
 * Production Year: 2024
 

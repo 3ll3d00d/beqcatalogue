@@ -9,7 +9,7 @@ When her tranquil life on a remote island is shattered by the return of her veng
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1718?post_id=64493080#post-64493080)  [TMDB](https://www.themoviedb.org/movie/799882)  [Compare across authors](../../compare/?t=film-the-bluff_799882)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1718?post_id=64493080#post-64493080)  [TMDB](https://www.themoviedb.org/movie/799882)  [Compare across authors](../compare/index.md?t=film-the-bluff_799882)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Bluff%20(2026)%20(%2B1%20gain)%20DD%2B.jpg)

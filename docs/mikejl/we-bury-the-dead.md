@@ -7,7 +7,7 @@
 After a catastrophic military disaster, the dead don't just rise—they hunt. The military insists they are harmless and slow-moving, offering hope to grieving families. But when Ava enters a quarantine zone searching for her missing husband, she uncovers the horrifying truth: the undead are growing more violent, more relentless, and more dangerous with every passing hour.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1198984)  [Compare across authors](../../compare/?t=film-we-bury-the-dead_1198984)
+[TMDB](https://www.themoviedb.org/movie/1198984)  [Compare across authors](../compare/index.md?t=film-we-bury-the-dead_1198984)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/We%20Bury%20the%20Dead/We%20Bury%20The%20Dead%20(2026)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ After a catastrophic military disaster, the dead don't just rise—they hunt. Th
 After a catastrophic military disaster, the dead don't just rise—they hunt. The military insists they are harmless and slow-moving, offering hope to grieving families. But when Ava enters a quarantine zone searching for her missing husband, she uncovers the horrifying truth: the undead are growing more violent, more relentless, and more dangerous with every passing hour.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1198984)  [Compare across authors](../../compare/?t=film-we-bury-the-dead_1198984)
+[TMDB](https://www.themoviedb.org/movie/1198984)  [Compare across authors](../compare/index.md?t=film-we-bury-the-dead_1198984)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/We%20Bury%20the%20Dead/We%20Bury%20The%20Dead%20(2024)%20DTS-HD%20MA%205.1.jpg)

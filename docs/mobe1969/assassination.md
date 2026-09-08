@@ -1,6 +1,6 @@
 # Assassination
 
-[Compare across authors](../../compare/?t=film-assassination_291549)
+[Compare across authors](../compare/index.md?t=film-assassination_291549)
 
 ## DTS-HD MA 5.1
 

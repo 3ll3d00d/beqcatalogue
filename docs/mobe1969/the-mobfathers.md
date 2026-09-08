@@ -1,6 +1,6 @@
 # The Mobfathers
 
-[Compare across authors](../../compare/?t=film-the-mobfathers_391477)
+[Compare across authors](../compare/index.md?t=film-the-mobfathers_391477)
 
 ## TrueHD 5.1
 

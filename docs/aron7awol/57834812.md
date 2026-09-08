@@ -1,6 +1,6 @@
 # The Highwaymen
 
-[Compare across authors](../../compare/?t=film-the-highwaymen_500682)
+[Compare across authors](../compare/index.md?t=film-the-highwaymen_500682)
 
 ## DD+ Atmos
 

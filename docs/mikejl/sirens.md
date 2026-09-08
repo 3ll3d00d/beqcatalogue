@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-sirens_246992)
+* [Compare across authors](../compare/index.md?t=TV-sirens_246992)
 
 * Production Year: 2025
 

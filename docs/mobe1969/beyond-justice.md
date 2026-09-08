@@ -1,6 +1,6 @@
 # Beyond Justice
 
-[Compare across authors](../../compare/?t=film-beyond-justice_288818)
+[Compare across authors](../compare/index.md?t=film-beyond-justice_288818)
 
 ## DD 5.1
 

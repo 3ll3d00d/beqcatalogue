@@ -1,6 +1,6 @@
 # Bobby Z
 
-[Compare across authors](../../compare/?t=film-bobby-z_10425)
+[Compare across authors](../compare/index.md?t=film-bobby-z_10425)
 
 ## TrueHD 5.1
 

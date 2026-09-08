@@ -1,6 +1,6 @@
 # The Name of the Rose
 
-[Compare across authors](../../compare/?t=film-the-name-of-the-rose_192)
+[Compare across authors](../compare/index.md?t=film-the-name-of-the-rose_192)
 
 ## DTS-HD MA 5.1
 

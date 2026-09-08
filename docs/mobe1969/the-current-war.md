@@ -1,6 +1,6 @@
 # The Current War
 
-[Compare across authors](../../compare/?t=film-the-current-war_418879)
+[Compare across authors](../compare/index.md?t=film-the-current-war_418879)
 
 ## DTS-HD MA 5.1
 

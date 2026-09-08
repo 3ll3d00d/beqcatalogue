@@ -1,6 +1,6 @@
 # The Visit
 
-[Compare across authors](../../compare/?t=film-the-visit_298312)
+[Compare across authors](../compare/index.md?t=film-the-visit_298312)
 
 ## DTS-HD MA 5.1
 

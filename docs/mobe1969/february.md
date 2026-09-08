@@ -1,6 +1,6 @@
 # February
 
-[Compare across authors](../../compare/?t=film-february_334536)
+[Compare across authors](../compare/index.md?t=film-february_334536)
 
 ## DTS-HD MA 5.1
 

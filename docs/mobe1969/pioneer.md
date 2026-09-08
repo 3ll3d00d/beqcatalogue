@@ -1,6 +1,6 @@
 # Pioneer
 
-[Compare across authors](../../compare/?t=film-pioneer_168399)
+[Compare across authors](../compare/index.md?t=film-pioneer_168399)
 
 ## DTS-HD MA 7.1
 

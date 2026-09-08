@@ -1,6 +1,6 @@
 # The Kingdom
 
-[Compare across authors](../../compare/?t=film-the-kingdom_4349)
+[Compare across authors](../compare/index.md?t=film-the-kingdom_4349)
 
 ## DTS-HD MA 5.1
 

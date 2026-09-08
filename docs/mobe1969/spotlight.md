@@ -1,6 +1,6 @@
 # Spotlight
 
-[Compare across authors](../../compare/?t=film-spotlight_314365)
+[Compare across authors](../compare/index.md?t=film-spotlight_314365)
 
 ## DTS-HD MA 5.1
 

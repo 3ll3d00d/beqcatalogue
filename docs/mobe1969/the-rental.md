@@ -1,6 +1,6 @@
 # The Rental
 
-[Compare across authors](../../compare/?t=film-the-rental_587496)
+[Compare across authors](../compare/index.md?t=film-the-rental_587496)
 
 ## DD+ 5.1
 

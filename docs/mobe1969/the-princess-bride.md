@@ -1,6 +1,6 @@
 # The Princess Bride
 
-[Compare across authors](../../compare/?t=film-the-princess-bride_2493)
+[Compare across authors](../compare/index.md?t=film-the-princess-bride_2493)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Nutty Professor
 
-[Compare across authors](../../compare/?t=film-the-nutty-professor_18331)
+[Compare across authors](../compare/index.md?t=film-the-nutty-professor_18331)
 
 ## DTS-HD MA 5.1
 

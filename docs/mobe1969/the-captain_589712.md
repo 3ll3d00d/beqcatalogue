@@ -1,6 +1,6 @@
 # The Captain
 
-[Compare across authors](../../compare/?t=film-the-captain_589712)
+[Compare across authors](../compare/index.md?t=film-the-captain_589712)
 
 ## TrueHD 5.1
 

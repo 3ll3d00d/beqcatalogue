@@ -1,6 +1,6 @@
 # American Pastoral
 
-[Compare across authors](../../compare/?t=film-american-pastoral_326285)
+[Compare across authors](../compare/index.md?t=film-american-pastoral_326285)
 
 ## DTS-HD MA 5.1
 

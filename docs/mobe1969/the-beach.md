@@ -1,6 +1,6 @@
 # The Beach
 
-[Compare across authors](../../compare/?t=film-the-beach_1907)
+[Compare across authors](../compare/index.md?t=film-the-beach_1907)
 
 ## DD 5.1
 

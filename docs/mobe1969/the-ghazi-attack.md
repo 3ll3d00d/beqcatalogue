@@ -1,6 +1,6 @@
 # The Ghazi Attack
 
-[Compare across authors](../../compare/?t=film-the-ghazi-attack_442405)
+[Compare across authors](../compare/index.md?t=film-the-ghazi-attack_442405)
 
 ## Atmos
 

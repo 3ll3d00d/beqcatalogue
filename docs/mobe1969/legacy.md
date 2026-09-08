@@ -1,6 +1,6 @@
 # Legacy
 
-[Compare across authors](../../compare/?t=film-legacy_696007)
+[Compare across authors](../compare/index.md?t=film-legacy_696007)
 
 ## DTS-HD MA 5.1
 

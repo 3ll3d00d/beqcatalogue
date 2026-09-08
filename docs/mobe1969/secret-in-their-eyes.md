@@ -1,6 +1,6 @@
 # Secret in Their Eyes
 
-[Compare across authors](../../compare/?t=film-secret-in-their-eyes_290751)
+[Compare across authors](../compare/index.md?t=film-secret-in-their-eyes_290751)
 
 ## DD+ 5.1
 

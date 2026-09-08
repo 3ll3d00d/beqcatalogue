@@ -1,6 +1,6 @@
 # Avalon
 
-[Compare across authors](../../compare/?t=film-avalon_10881)
+[Compare across authors](../compare/index.md?t=film-avalon_10881)
 
 ## TrueHD 5.1
 

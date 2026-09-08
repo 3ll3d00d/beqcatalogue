@@ -1,6 +1,6 @@
 # Prisoners of the Ghostland
 
-[Compare across authors](../../compare/?t=film-prisoners-of-the-ghostland_523638)
+[Compare across authors](../compare/index.md?t=film-prisoners-of-the-ghostland_523638)
 
 ## DTS-HD MA 5.1, DD+ Atmos
 

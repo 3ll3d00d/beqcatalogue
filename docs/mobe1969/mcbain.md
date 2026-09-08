@@ -1,6 +1,6 @@
 # McBain
 
-[Compare across authors](../../compare/?t=film-mcbain_27350)
+[Compare across authors](../compare/index.md?t=film-mcbain_27350)
 
 ## DD+ 2.0
 

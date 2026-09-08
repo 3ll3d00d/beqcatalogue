@@ -1,6 +1,6 @@
 # San Andreas
 
-[Compare across authors](../../compare/?t=film-san-andreas_254128)
+[Compare across authors](../compare/index.md?t=film-san-andreas_254128)
 
 ## Atmos
 

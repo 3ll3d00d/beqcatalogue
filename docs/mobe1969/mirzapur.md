@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mirzapur_84105)
+[Compare across authors](../compare/index.md?t=TV-mirzapur_84105)
 
 ## Season 1
 

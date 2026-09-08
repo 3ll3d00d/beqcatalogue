@@ -1,6 +1,6 @@
 # The Princess Diaries 2: Royal Engagement
 
-[Compare across authors](../../compare/?t=film-the-princess-diaries-2-royal-engagement_11130)
+[Compare across authors](../compare/index.md?t=film-the-princess-diaries-2-royal-engagement_11130)
 
 ## DTS-HD MA 5.1
 

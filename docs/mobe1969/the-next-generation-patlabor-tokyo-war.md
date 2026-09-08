@@ -1,6 +1,6 @@
 # The Next Generation Patlabor: Tokyo War
 
-[Compare across authors](../../compare/?t=film-the-next-generation-patlabor-tokyo-war_254538)
+[Compare across authors](../compare/index.md?t=film-the-next-generation-patlabor-tokyo-war_254538)
 
 ## Atmos
 

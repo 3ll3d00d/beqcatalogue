@@ -1,6 +1,6 @@
 # The Trust
 
-[Compare across authors](../../compare/?t=film-the-trust_301608)
+[Compare across authors](../compare/index.md?t=film-the-trust_301608)
 
 ## DTS-HD MA 5.1
 

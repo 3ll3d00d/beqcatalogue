@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-skull-island_117678)
+[Compare across authors](../compare/index.md?t=TV-skull-island_117678)
 
 ## Season 1
 

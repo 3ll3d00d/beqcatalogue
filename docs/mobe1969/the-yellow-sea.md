@@ -1,6 +1,6 @@
 # The Yellow Sea
 
-[Compare across authors](../../compare/?t=film-the-yellow-sea_57361)
+[Compare across authors](../compare/index.md?t=film-the-yellow-sea_57361)
 
 ## DTS-HD MA 5.1
 

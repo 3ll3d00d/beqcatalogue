@@ -1,6 +1,6 @@
 # The Lego Batman Movie
 
-[Compare across authors](../../compare/?t=film-the-lego-batman-movie_324849)
+[Compare across authors](../compare/index.md?t=film-the-lego-batman-movie_324849)
 
 ## Atmos
 

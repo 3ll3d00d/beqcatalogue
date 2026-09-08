@@ -1,6 +1,6 @@
 # A View to a Kill
 
-[Compare across authors](../../compare/?t=film-a-view-to-a-kill_707)
+[Compare across authors](../compare/index.md?t=film-a-view-to-a-kill_707)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

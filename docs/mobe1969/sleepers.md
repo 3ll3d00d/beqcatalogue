@@ -1,6 +1,6 @@
 # Sleepers
 
-[Compare across authors](../../compare/?t=film-sleepers_819)
+[Compare across authors](../compare/index.md?t=film-sleepers_819)
 
 ## DD+ 5.1
 

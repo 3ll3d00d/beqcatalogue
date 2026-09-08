@@ -1,6 +1,6 @@
 # Siberia
 
-[Compare across authors](../../compare/?t=film-siberia_446574)
+[Compare across authors](../compare/index.md?t=film-siberia_446574)
 
 ## DTS-HD MA 5.1
 

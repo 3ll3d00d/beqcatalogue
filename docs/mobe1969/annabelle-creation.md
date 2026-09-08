@@ -1,6 +1,6 @@
 # Annabelle: Creation
 
-[Compare across authors](../../compare/?t=film-annabelle-creation_396422)
+[Compare across authors](../compare/index.md?t=film-annabelle-creation_396422)
 
 ## Atmos, DD+ 5.1
 

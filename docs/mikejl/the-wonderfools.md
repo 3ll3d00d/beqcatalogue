@@ -9,7 +9,7 @@
 
 * [Forum Post](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Wonderfools/The%20Wonderfools%20S01E01-08%20(2026)%20(ko)%20DD%2B%20Atmos.jpg)
 
-* [Compare across authors](../../compare/?t=TV-the-wonderfools_259837)
+* [Compare across authors](../compare/index.md?t=TV-the-wonderfools_259837)
 
 * Production Year: 2026
 

@@ -1,6 +1,6 @@
 # The Shed
 
-[Compare across authors](../../compare/?t=film-the-shed_551994)
+[Compare across authors](../compare/index.md?t=film-the-shed_551994)
 
 ## DTS-HD MA 5.1
 

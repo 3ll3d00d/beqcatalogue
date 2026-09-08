@@ -1,6 +1,6 @@
 # John Wick
 
-[Compare across authors](../../compare/?t=film-john-wick_245891)
+[Compare across authors](../compare/index.md?t=film-john-wick_245891)
 
 ## Atmos
 

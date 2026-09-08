@@ -1,6 +1,6 @@
 # Astro Boy
 
-[Compare across authors](../../compare/?t=film-astro-boy_16577)
+[Compare across authors](../compare/index.md?t=film-astro-boy_16577)
 
 ## DTS-HD MA 5.1
 

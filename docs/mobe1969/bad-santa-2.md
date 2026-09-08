@@ -1,6 +1,6 @@
 # Bad Santa 2
 
-[Compare across authors](../../compare/?t=film-bad-santa-2_338964)
+[Compare across authors](../compare/index.md?t=film-bad-santa-2_338964)
 
 ## DTS-HD MA 5.1
 

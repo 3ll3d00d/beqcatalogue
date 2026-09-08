@@ -1,6 +1,6 @@
 # American Psycho
 
-[Compare across authors](../../compare/?t=film-american-psycho_1359)
+[Compare across authors](../compare/index.md?t=film-american-psycho_1359)
 
 ## Atmos
 

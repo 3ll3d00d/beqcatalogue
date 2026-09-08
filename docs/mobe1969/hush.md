@@ -1,6 +1,6 @@
 # Hush
 
-[Compare across authors](../../compare/?t=film-hush_376570)
+[Compare across authors](../compare/index.md?t=film-hush_376570)
 
 ## DD+ 5.1
 

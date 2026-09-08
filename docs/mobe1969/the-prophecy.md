@@ -1,6 +1,6 @@
 # The Prophecy
 
-[Compare across authors](../../compare/?t=film-the-prophecy_11980)
+[Compare across authors](../compare/index.md?t=film-the-prophecy_11980)
 
 ## DTS-HD MA 5.1
 

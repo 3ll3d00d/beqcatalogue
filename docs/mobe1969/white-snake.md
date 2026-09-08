@@ -1,6 +1,6 @@
 # White Snake
 
-[Compare across authors](../../compare/?t=film-white-snake_573699)
+[Compare across authors](../compare/index.md?t=film-white-snake_573699)
 
 ## DTS-HD MA 5.1
 

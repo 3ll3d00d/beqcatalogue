@@ -1,6 +1,6 @@
 # Wrong Place, Wrong Time
 
-[Compare across authors](../../compare/?t=film-wrong-place-wrong-time_818972)
+[Compare across authors](../compare/index.md?t=film-wrong-place-wrong-time_818972)
 
 ## DD+ 5.1
 

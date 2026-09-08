@@ -1,6 +1,6 @@
 # Gone with the Bullets
 
-[Compare across authors](../../compare/?t=film-gone-with-the-bullets_312408)
+[Compare across authors](../compare/index.md?t=film-gone-with-the-bullets_312408)
 
 ## DD 5.1
 

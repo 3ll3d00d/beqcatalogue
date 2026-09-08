@@ -12,7 +12,7 @@ A logger leads a life of quiet grace as he experiences love and loss during an e
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1685?post_id=64334920#post-64334920)  [TMDB](https://www.themoviedb.org/movie/1241983)  [Compare across authors](../../compare/?t=film-train-dreams_1241983)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1685?post_id=64334920#post-64334920)  [TMDB](https://www.themoviedb.org/movie/1241983)  [Compare across authors](../compare/index.md?t=film-train-dreams_1241983)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Train%20Dreams%20(2025)%20(%2B6%20gain)%20DD%2B%20Atmos.jpg)

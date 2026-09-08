@@ -1,6 +1,6 @@
 # Angels & Demons
 
-[Compare across authors](../../compare/?t=film-angels-demons_13448)
+[Compare across authors](../compare/index.md?t=film-angels-demons_13448)
 
 ## Atmos
 

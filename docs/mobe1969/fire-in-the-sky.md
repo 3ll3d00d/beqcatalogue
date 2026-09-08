@@ -1,6 +1,6 @@
 # Fire in the Sky
 
-[Compare across authors](../../compare/?t=film-fire-in-the-sky_15613)
+[Compare across authors](../compare/index.md?t=film-fire-in-the-sky_15613)
 
 ## DTS-HD MA 5.1
 

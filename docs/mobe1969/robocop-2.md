@@ -1,6 +1,6 @@
 # RoboCop 2
 
-[Compare across authors](../../compare/?t=film-robocop-2_5549)
+[Compare across authors](../compare/index.md?t=film-robocop-2_5549)
 
 ## DTS-HD MA 5.1
 

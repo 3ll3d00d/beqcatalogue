@@ -1,6 +1,6 @@
 # Bhoomi
 
-[Compare across authors](../../compare/?t=film-bhoomi_456567)
+[Compare across authors](../compare/index.md?t=film-bhoomi_456567)
 
 ## DD+ 5.1
 

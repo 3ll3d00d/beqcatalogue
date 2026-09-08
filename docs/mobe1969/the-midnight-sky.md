@@ -1,6 +1,6 @@
 # The Midnight Sky
 
-[Compare across authors](../../compare/?t=film-the-midnight-sky_614911)
+[Compare across authors](../compare/index.md?t=film-the-midnight-sky_614911)
 
 ## DD+ 5.1
 

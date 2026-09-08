@@ -1,6 +1,6 @@
 # Housefull 3
 
-[Compare across authors](../../compare/?t=film-housefull-3_391779)
+[Compare across authors](../compare/index.md?t=film-housefull-3_391779)
 
 ## DD 5.1
 

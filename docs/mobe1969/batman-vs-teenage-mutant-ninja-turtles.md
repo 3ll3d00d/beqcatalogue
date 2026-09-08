@@ -1,6 +1,6 @@
 # Batman vs. Teenage Mutant Ninja Turtles
 
-[Compare across authors](../../compare/?t=film-batman-vs-teenage-mutant-ninja-turtles_581997)
+[Compare across authors](../compare/index.md?t=film-batman-vs-teenage-mutant-ninja-turtles_581997)
 
 ## DTS-HD MA 5.1
 

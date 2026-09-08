@@ -1,6 +1,6 @@
 # Pan's Labyrinth
 
-[Compare across authors](../../compare/?t=film-pans-labyrinth_1417)
+[Compare across authors](../compare/index.md?t=film-pans-labyrinth_1417)
 
 ## DTS-HD MA 5.1
 

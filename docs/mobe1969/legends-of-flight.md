@@ -1,6 +1,6 @@
 # Legends of Flight
 
-[Compare across authors](../../compare/?t=film-legends-of-flight_58731)
+[Compare across authors](../compare/index.md?t=film-legends-of-flight_58731)
 
 ## DTS-HD MA 5.1
 

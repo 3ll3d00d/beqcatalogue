@@ -1,6 +1,6 @@
 # Triumph in the Skies
 
-[Compare across authors](../../compare/?t=film-triumph-in-the-skies_320132)
+[Compare across authors](../compare/index.md?t=film-triumph-in-the-skies_320132)
 
 ## DD+ 5.1
 

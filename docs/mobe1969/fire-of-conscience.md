@@ -1,6 +1,6 @@
 # Fire of Conscience
 
-[Compare across authors](../../compare/?t=film-fire-of-conscience_38264)
+[Compare across authors](../compare/index.md?t=film-fire-of-conscience_38264)
 
 ## TrueHD 7.1
 

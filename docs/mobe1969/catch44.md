@@ -1,6 +1,6 @@
 # Catch.44
 
-[Compare across authors](../../compare/?t=film-catch44_75736)
+[Compare across authors](../compare/index.md?t=film-catch44_75736)
 
 ## TrueHD 5.1
 

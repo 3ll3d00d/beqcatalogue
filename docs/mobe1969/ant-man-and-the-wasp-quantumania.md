@@ -1,6 +1,6 @@
 # Ant-Man and the Wasp: Quantumania
 
-[Compare across authors](../../compare/?t=film-ant-man-and-the-wasp-quantumania_640146)
+[Compare across authors](../compare/index.md?t=film-ant-man-and-the-wasp-quantumania_640146)
 
 ## Atmos, DTS-HD MA 7.1
 

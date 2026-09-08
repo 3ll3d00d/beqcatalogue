@@ -1,6 +1,6 @@
 # Exit Speed
 
-[Compare across authors](../../compare/?t=film-exit-speed_17144)
+[Compare across authors](../compare/index.md?t=film-exit-speed_17144)
 
 ## DTS-HD MA 5.1
 

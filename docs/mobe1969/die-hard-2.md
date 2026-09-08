@@ -1,6 +1,6 @@
 # Die Hard 2
 
-[Compare across authors](../../compare/?t=film-die-hard-2_1573)
+[Compare across authors](../compare/index.md?t=film-die-hard-2_1573)
 
 ## DTS-HD MA 5.1
 

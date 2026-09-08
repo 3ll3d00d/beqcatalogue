@@ -1,6 +1,6 @@
 # Maria
 
-[Compare across authors](../../compare/?t=film-maria_591121)
+[Compare across authors](../compare/index.md?t=film-maria_591121)
 
 ## DD+ 5.1
 

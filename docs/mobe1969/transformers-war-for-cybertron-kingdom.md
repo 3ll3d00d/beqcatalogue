@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-transformers-war-for-cybertron-kingdom_128255)
+[Compare across authors](../compare/index.md?t=TV-transformers-war-for-cybertron-kingdom_128255)
 
 ## Season 1
 

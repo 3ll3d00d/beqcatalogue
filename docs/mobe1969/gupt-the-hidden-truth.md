@@ -1,6 +1,6 @@
 # Gupt: The Hidden Truth
 
-[Compare across authors](../../compare/?t=film-gupt-the-hidden-truth_21906)
+[Compare across authors](../compare/index.md?t=film-gupt-the-hidden-truth_21906)
 
 ## LPCM 5.1, DD+ 5.1
 

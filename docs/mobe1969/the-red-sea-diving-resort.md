@@ -1,6 +1,6 @@
 # The Red Sea Diving Resort
 
-[Compare across authors](../../compare/?t=film-the-red-sea-diving-resort_465003)
+[Compare across authors](../compare/index.md?t=film-the-red-sea-diving-resort_465003)
 
 ## DD+ 5.1
 

@@ -7,7 +7,7 @@
 When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/870028)  [Compare across authors](../../compare/?t=film-the-accountant2_870028)
+[TMDB](https://www.themoviedb.org/movie/870028)  [Compare across authors](../compare/index.md?t=film-the-accountant2_870028)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Accountant/The%20Accountant%202%20(2025)%20Atmos.jpg)
@@ -21,7 +21,7 @@ When an old acquaintance is murdered, Wolff is compelled to solve the case. Real
 When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/870028)  [Compare across authors](../../compare/?t=film-the-accountant2_870028)
+[TMDB](https://www.themoviedb.org/movie/870028)  [Compare across authors](../compare/index.md?t=film-the-accountant2_870028)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Accountant/The%20Accountant%202%20(2025)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # DragonHeart
 
-[Compare across authors](../../compare/?t=film-dragonheart_8840)
+[Compare across authors](../compare/index.md?t=film-dragonheart_8840)
 
 ## Atmos
 

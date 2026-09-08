@@ -1,6 +1,6 @@
 # Captain America: The First Avenger
 
-[Compare across authors](../../compare/?t=film-captain-america-the-first-avenger_1771)
+[Compare across authors](../compare/index.md?t=film-captain-america-the-first-avenger_1771)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Suddenly
 
-[Compare across authors](../../compare/?t=film-suddenly_217896)
+[Compare across authors](../compare/index.md?t=film-suddenly_217896)
 
 ## DD+ 2.0
 

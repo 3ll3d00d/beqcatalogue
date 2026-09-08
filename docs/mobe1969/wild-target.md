@@ -1,6 +1,6 @@
 # Wild Target
 
-[Compare across authors](../../compare/?t=film-wild-target_44147)
+[Compare across authors](../compare/index.md?t=film-wild-target_44147)
 
 ## DTS-HD MA 5.1
 

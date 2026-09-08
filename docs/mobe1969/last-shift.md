@@ -1,6 +1,6 @@
 # Last Shift
 
-[Compare across authors](../../compare/?t=film-last-shift_296065)
+[Compare across authors](../compare/index.md?t=film-last-shift_296065)
 
 ## DTS-HD MA 5.1
 

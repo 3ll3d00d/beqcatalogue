@@ -1,6 +1,6 @@
 # Holiday on Mars
 
-[Compare across authors](../../compare/?t=film-holiday-on-mars_727246)
+[Compare across authors](../compare/index.md?t=film-holiday-on-mars_727246)
 
 ## DD+ 5.1
 

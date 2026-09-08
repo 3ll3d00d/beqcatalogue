@@ -9,7 +9,7 @@ When a massive, gilled monster emerges from the deep and tears through the city,
 
 **MV Adjustment:** +2.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/315011)  [Compare across authors](../../compare/?t=film-shin-godzilla_315011)
+[TMDB](https://www.themoviedb.org/movie/315011)  [Compare across authors](../compare/index.md?t=film-shin-godzilla_315011)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Shin%20Gojira%20(2016)%20(%2B2.5%20gain)%20DTS-HD%20MA%203.1.jpg)

@@ -1,6 +1,6 @@
 # Radhe
 
-[Compare across authors](../../compare/?t=film-radhe_679844)
+[Compare across authors](../compare/index.md?t=film-radhe_679844)
 
 ## DD+ 5.1
 

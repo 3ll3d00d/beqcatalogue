@@ -1,6 +1,6 @@
 # Ultraviolet
 
-[Compare across authors](../../compare/?t=film-ultraviolet_9920)
+[Compare across authors](../compare/index.md?t=film-ultraviolet_9920)
 
 ## LPCM 5.1
 

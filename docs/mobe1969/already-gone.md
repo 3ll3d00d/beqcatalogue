@@ -1,6 +1,6 @@
 # Already Gone
 
-[Compare across authors](../../compare/?t=film-already-gone_623582)
+[Compare across authors](../compare/index.md?t=film-already-gone_623582)
 
 ## DTS-HD MA 5.1
 

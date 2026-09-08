@@ -1,6 +1,6 @@
 # House of the Rising Sun
 
-[Compare across authors](../../compare/?t=film-house-of-the-rising-sun_68472)
+[Compare across authors](../compare/index.md?t=film-house-of-the-rising-sun_68472)
 
 ## DTS-HD MA 5.1
 

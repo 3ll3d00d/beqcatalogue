@@ -1,6 +1,6 @@
 # Terminal
 
-[Compare across authors](../../compare/?t=film-terminal_385332)
+[Compare across authors](../compare/index.md?t=film-terminal_385332)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Son of Sardaar
 
-[Compare across authors](../../compare/?t=film-son-of-sardaar_140896)
+[Compare across authors](../compare/index.md?t=film-son-of-sardaar_140896)
 
 ## DD 5.1
 

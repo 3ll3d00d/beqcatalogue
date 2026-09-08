@@ -1,6 +1,6 @@
 # Miss Bala
 
-[Compare across authors](../../compare/?t=film-miss-bala_500852)
+[Compare across authors](../compare/index.md?t=film-miss-bala_500852)
 
 ## DTS-HD MA 5.1
 

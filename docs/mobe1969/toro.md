@@ -1,6 +1,6 @@
 # Toro
 
-[Compare across authors](../../compare/?t=film-toro_364615)
+[Compare across authors](../compare/index.md?t=film-toro_364615)
 
 ## DD+ 5.1
 

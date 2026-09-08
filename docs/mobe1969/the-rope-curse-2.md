@@ -1,6 +1,6 @@
 # The Rope Curse 2
 
-[Compare across authors](../../compare/?t=film-the-rope-curse-2_737519)
+[Compare across authors](../compare/index.md?t=film-the-rope-curse-2_737519)
 
 ## DD+ 5.1
 

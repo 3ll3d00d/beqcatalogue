@@ -1,6 +1,6 @@
 # Les Misérables
 
-[Compare across authors](../../compare/?t=film-les-miserables_4415)
+[Compare across authors](../compare/index.md?t=film-les-miserables_4415)
 
 ## DTS-HD MA 5.1
 

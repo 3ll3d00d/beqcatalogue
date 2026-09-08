@@ -14,7 +14,7 @@ Dialnorm Compensation Episode 1: +4dB Episode 2: +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1443#post-63280281)
 
-* [Compare across authors](../../compare/?t=TV-3-body-problem_108545)
+* [Compare across authors](../compare/index.md?t=TV-3-body-problem_108545)
 
 * Production Year: 2024
 
@@ -33,7 +33,7 @@ Dialnorm Compensation +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1444#post-63285838)
 
-* [Compare across authors](../../compare/?t=TV-3-body-problem_108545)
+* [Compare across authors](../compare/index.md?t=TV-3-body-problem_108545)
 
 * Production Year: 2024
 
@@ -52,7 +52,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1444#post-63285877)
 
-* [Compare across authors](../../compare/?t=TV-3-body-problem_108545)
+* [Compare across authors](../compare/index.md?t=TV-3-body-problem_108545)
 
 * Production Year: 2024
 
@@ -74,7 +74,7 @@ Dialnorm Compensation Episode 5: +6dB Episode 8: +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1444#post-63285826)
 
-* [Compare across authors](../../compare/?t=TV-3-body-problem_108545)
+* [Compare across authors](../compare/index.md?t=TV-3-body-problem_108545)
 
 * Production Year: 2024
 
@@ -93,7 +93,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1444?post_id=63285906#post-63285906)
 
-* [Compare across authors](../../compare/?t=TV-3-body-problem_108545)
+* [Compare across authors](../compare/index.md?t=TV-3-body-problem_108545)
 
 * Production Year: 2024
 

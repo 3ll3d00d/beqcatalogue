@@ -1,6 +1,6 @@
 # Tumbbad
 
-[Compare across authors](../../compare/?t=film-tumbbad_538858)
+[Compare across authors](../compare/index.md?t=film-tumbbad_538858)
 
 ## DD+ 5.1
 

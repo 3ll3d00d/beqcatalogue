@@ -1,6 +1,6 @@
 # Knockaround Guys
 
-[Compare across authors](../../compare/?t=film-knockaround-guys_7501)
+[Compare across authors](../compare/index.md?t=film-knockaround-guys_7501)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Cowboys & Aliens
 
-[Compare across authors](../../compare/?t=film-cowboys-aliens_49849)
+[Compare across authors](../compare/index.md?t=film-cowboys-aliens_49849)
 
 ## DTS-HD MA 5.1
 

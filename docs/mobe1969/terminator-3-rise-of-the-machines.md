@@ -1,6 +1,6 @@
 # Terminator 3: Rise of the Machines
 
-[Compare across authors](../../compare/?t=film-terminator-3-rise-of-the-machines_296)
+[Compare across authors](../compare/index.md?t=film-terminator-3-rise-of-the-machines_296)
 
 ## DD 5.1
 

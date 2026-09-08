@@ -9,7 +9,7 @@ Burned-out ex-baseball player Hank Thompson unexpectedly finds himself embroiled
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1676?post_id=64292694#post-64292694)  [TMDB](https://www.themoviedb.org/movie/1245993)  [Compare across authors](../../compare/?t=film-caught-stealing_1245993)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1676?post_id=64292694#post-64292694)  [TMDB](https://www.themoviedb.org/movie/1245993)  [Compare across authors](../compare/index.md?t=film-caught-stealing_1245993)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Caught%20Stealing%20(2025)%20(1.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Burned-out ex-baseball player Hank Thompson unexpectedly finds himself embroiled
 Dialnorm Compensation: 7dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1658?post_id=64229800#post-64229800)  [TMDB](https://www.themoviedb.org/movie/1245993)  [Compare across authors](../../compare/?t=film-caught-stealing_1245993)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1658?post_id=64229800#post-64229800)  [TMDB](https://www.themoviedb.org/movie/1245993)  [Compare across authors](../compare/index.md?t=film-caught-stealing_1245993)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Caught%20Stealing%20(2025)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)

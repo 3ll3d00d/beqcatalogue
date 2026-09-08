@@ -1,6 +1,6 @@
 # Roald Dahl's The Witches
 
-[Compare across authors](../../compare/?t=film-roald-dahls-the-witches_531219)
+[Compare across authors](../compare/index.md?t=film-roald-dahls-the-witches_531219)
 
 ## DTS-HD MA 5.1
 

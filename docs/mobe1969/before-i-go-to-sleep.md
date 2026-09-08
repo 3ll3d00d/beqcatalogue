@@ -1,6 +1,6 @@
 # Before I Go to Sleep
 
-[Compare across authors](../../compare/?t=film-before-i-go-to-sleep_204922)
+[Compare across authors](../compare/index.md?t=film-before-i-go-to-sleep_204922)
 
 ## DTS-HD MA 5.1
 

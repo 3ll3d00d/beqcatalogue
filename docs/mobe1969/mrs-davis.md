@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-mrs-davis_197548)
+[Compare across authors](../compare/index.md?t=TV-mrs-davis_197548)
 
 ## Season 1
 

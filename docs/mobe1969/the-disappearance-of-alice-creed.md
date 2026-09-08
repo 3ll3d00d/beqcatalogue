@@ -1,6 +1,6 @@
 # The Disappearance of Alice Creed
 
-[Compare across authors](../../compare/?t=film-the-disappearance-of-alice-creed_38542)
+[Compare across authors](../compare/index.md?t=film-the-disappearance-of-alice-creed_38542)
 
 ## DTS-HD MA 5.1
 

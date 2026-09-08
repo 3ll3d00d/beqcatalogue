@@ -1,6 +1,6 @@
 # Gone in Sixty Seconds
 
-[Compare across authors](../../compare/?t=film-gone-in-sixty-seconds_9679)
+[Compare across authors](../compare/index.md?t=film-gone-in-sixty-seconds_9679)
 
 ## DD+ 5.1
 

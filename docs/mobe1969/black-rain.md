@@ -1,6 +1,6 @@
 # Black Rain
 
-[Compare across authors](../../compare/?t=film-black-rain_4105)
+[Compare across authors](../compare/index.md?t=film-black-rain_4105)
 
 ## DD 5.1
 

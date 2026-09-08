@@ -1,6 +1,6 @@
 # The Bank Job
 
-[Compare across authors](../../compare/?t=film-the-bank-job_8848)
+[Compare across authors](../compare/index.md?t=film-the-bank-job_8848)
 
 ## DTS-HD MA 7.1
 

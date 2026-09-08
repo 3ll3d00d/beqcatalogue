@@ -1,6 +1,6 @@
 # Terrifier
 
-[Compare across authors](../../compare/?t=film-terrifier_420634)
+[Compare across authors](../compare/index.md?t=film-terrifier_420634)
 
 ## DD+ 5.1
 

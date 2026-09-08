@@ -1,6 +1,6 @@
 # Skyfire
 
-[Compare across authors](../../compare/?t=film-skyfire_604872)
+[Compare across authors](../compare/index.md?t=film-skyfire_604872)
 
 ## DTS-HD MA 5.1
 

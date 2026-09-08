@@ -12,7 +12,7 @@ Former assassin Hutch Mansell takes his family on a nostalgic vacation to a smal
 +5dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1007734)  [Compare across authors](../../compare/?t=film-nobody-2_1007734)
+[TMDB](https://www.themoviedb.org/movie/1007734)  [Compare across authors](../compare/index.md?t=film-nobody-2_1007734)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Nobody%202%20(2025)%20(%2B1%20gain)%20Atmos.jpg)

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-big-beasts_223528)
+[Compare across authors](../compare/index.md?t=TV-big-beasts_223528)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Outside the Wire
 
-[Compare across authors](../../compare/?t=film-outside-the-wire_775996)
+[Compare across authors](../compare/index.md?t=film-outside-the-wire_775996)
 
 ## DD+ Atmos
 

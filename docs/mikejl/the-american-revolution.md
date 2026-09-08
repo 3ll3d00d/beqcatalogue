@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-american-revolution_258023)
+* [Compare across authors](../compare/index.md?t=TV-the-american-revolution_258023)
 
 * Production Year: 2025
 

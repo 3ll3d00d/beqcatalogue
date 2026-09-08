@@ -1,6 +1,6 @@
 # Point of No Return
 
-[Compare across authors](../../compare/?t=film-point-of-no-return_10498)
+[Compare across authors](../compare/index.md?t=film-point-of-no-return_10498)
 
 ## TrueHD 5.1
 

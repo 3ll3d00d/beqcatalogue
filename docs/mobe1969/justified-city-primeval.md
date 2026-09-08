@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-justified-city-primeval_201304)
+[Compare across authors](../compare/index.md?t=TV-justified-city-primeval_201304)
 
 ## Season 1
 

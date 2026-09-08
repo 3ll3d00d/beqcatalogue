@@ -1,6 +1,6 @@
 # Nacho Libre
 
-[Compare across authors](../../compare/?t=film-nacho-libre_9353)
+[Compare across authors](../compare/index.md?t=film-nacho-libre_9353)
 
 ## DD 5.1
 

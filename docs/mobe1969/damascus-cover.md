@@ -1,6 +1,6 @@
 # Damascus Cover
 
-[Compare across authors](../../compare/?t=film-damascus-cover_324538)
+[Compare across authors](../compare/index.md?t=film-damascus-cover_324538)
 
 ## DTS-HD MA 5.1
 

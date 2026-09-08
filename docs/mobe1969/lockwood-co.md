@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-lockwood-co_213241)
+[Compare across authors](../compare/index.md?t=TV-lockwood-co_213241)
 
 ## Season 1
 

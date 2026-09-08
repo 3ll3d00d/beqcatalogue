@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-tooth-pari-when-love-bites_224333)
+[Compare across authors](../compare/index.md?t=TV-tooth-pari-when-love-bites_224333)
 
 ## Season 1
 

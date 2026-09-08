@@ -1,6 +1,6 @@
 # Av: The Hunt
 
-[Compare across authors](../../compare/?t=film-av-the-hunt_706085)
+[Compare across authors](../compare/index.md?t=film-av-the-hunt_706085)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Kabul Express
 
-[Compare across authors](../../compare/?t=film-kabul-express_30244)
+[Compare across authors](../compare/index.md?t=film-kabul-express_30244)
 
 ## DD+ 5.1
 

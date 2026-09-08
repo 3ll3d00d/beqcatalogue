@@ -1,6 +1,6 @@
 # Unhinged
 
-[Compare across authors](../../compare/?t=film-unhinged_625568)
+[Compare across authors](../compare/index.md?t=film-unhinged_625568)
 
 ## Atmos
 

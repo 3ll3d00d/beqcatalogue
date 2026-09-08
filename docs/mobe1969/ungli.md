@@ -1,6 +1,6 @@
 # Ungli
 
-[Compare across authors](../../compare/?t=film-ungli_303904)
+[Compare across authors](../compare/index.md?t=film-ungli_303904)
 
 ## DD+ 5.1
 

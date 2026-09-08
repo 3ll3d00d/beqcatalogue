@@ -1,6 +1,6 @@
 # Don't Breathe 2
 
-[Compare across authors](../../compare/?t=film-dont-breathe-2_482373)
+[Compare across authors](../compare/index.md?t=film-dont-breathe-2_482373)
 
 ## Atmos
 

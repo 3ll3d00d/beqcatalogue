@@ -1,6 +1,6 @@
 # The Guard Post
 
-[Compare across authors](../../compare/?t=film-the-guard-post_16882)
+[Compare across authors](../compare/index.md?t=film-the-guard-post_16882)
 
 ## DD 5.1
 

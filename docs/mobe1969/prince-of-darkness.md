@@ -1,6 +1,6 @@
 # Prince of Darkness
 
-[Compare across authors](../../compare/?t=film-prince-of-darkness_8852)
+[Compare across authors](../compare/index.md?t=film-prince-of-darkness_8852)
 
 ## Atmos
 

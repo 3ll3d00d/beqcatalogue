@@ -9,7 +9,7 @@ Salvatore "Sal" Fragione is the Italian owner of a pizzeria in Brooklyn. A neigh
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1694?post_id=64383659#post-64383659)  [TMDB](https://www.themoviedb.org/movie/925)  [Compare across authors](../../compare/?t=film-do-the-right-thing_925)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1694?post_id=64383659#post-64383659)  [TMDB](https://www.themoviedb.org/movie/925)  [Compare across authors](../compare/index.md?t=film-do-the-right-thing_925)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Do%20the%20Right%20Thing%20(1989)%20(%2B.5%20gain)%20DTS-X.jpg)

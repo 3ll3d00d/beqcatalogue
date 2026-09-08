@@ -1,6 +1,6 @@
 # Live and Let Die
 
-[Compare across authors](../../compare/?t=film-live-and-let-die_253)
+[Compare across authors](../compare/index.md?t=film-live-and-let-die_253)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

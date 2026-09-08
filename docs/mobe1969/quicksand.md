@@ -1,6 +1,6 @@
 # Quicksand
 
-[Compare across authors](../../compare/?t=film-quicksand_47517)
+[Compare across authors](../compare/index.md?t=film-quicksand_47517)
 
 ## DD+ 2.0
 

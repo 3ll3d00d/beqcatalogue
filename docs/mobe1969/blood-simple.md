@@ -1,6 +1,6 @@
 # Blood Simple
 
-[Compare across authors](../../compare/?t=film-blood-simple_11368)
+[Compare across authors](../compare/index.md?t=film-blood-simple_11368)
 
 ## DTS-HD MA 5.1
 

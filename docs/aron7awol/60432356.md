@@ -1,6 +1,6 @@
 # News of the World
 
-[Compare across authors](../../compare/?t=film-news-of-the-world_581032)
+[Compare across authors](../compare/index.md?t=film-news-of-the-world_581032)
 
 ## Atmos
 

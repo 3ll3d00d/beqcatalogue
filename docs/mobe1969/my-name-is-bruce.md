@@ -1,6 +1,6 @@
 # My Name Is Bruce
 
-[Compare across authors](../../compare/?t=film-my-name-is-bruce_1961)
+[Compare across authors](../compare/index.md?t=film-my-name-is-bruce_1961)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Death Race: Beyond Anarchy
 
-[Compare across authors](../../compare/?t=film-death-race-beyond-anarchy_401478)
+[Compare across authors](../compare/index.md?t=film-death-race-beyond-anarchy_401478)
 
 ## DTS-HD MA 5.1
 

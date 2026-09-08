@@ -1,6 +1,6 @@
 # The Lobster
 
-[Compare across authors](../../compare/?t=film-the-lobster_254320)
+[Compare across authors](../compare/index.md?t=film-the-lobster_254320)
 
 ## DD+ 5.1
 

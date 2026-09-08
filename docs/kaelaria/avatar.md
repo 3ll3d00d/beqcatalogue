@@ -7,7 +7,7 @@
 In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/19995)  [Compare across authors](../../compare/?t=film-avatar_19995)
+[TMDB](https://www.themoviedb.org/movie/19995)  [Compare across authors](../compare/index.md?t=film-avatar_19995)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Avatar%20(2009)%20TrueHD%20Atmos.jpg)
@@ -23,7 +23,7 @@ Extended Collector's Edition
 In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/19995)  [Compare across authors](../../compare/?t=film-avatar_19995)
+[TMDB](https://www.themoviedb.org/movie/19995)  [Compare across authors](../compare/index.md?t=film-avatar_19995)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/main/Avatar%202009%20Extended%20Collector's%20Edition%20DTS-HD%20MA%205.1.jpg)

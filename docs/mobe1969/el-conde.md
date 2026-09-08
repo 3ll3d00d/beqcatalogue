@@ -1,6 +1,6 @@
 # El Conde
 
-[Compare across authors](../../compare/?t=film-el-conde_991708)
+[Compare across authors](../compare/index.md?t=film-el-conde_991708)
 
 ## DD+ Atmos
 

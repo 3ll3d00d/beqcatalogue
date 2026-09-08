@@ -1,6 +1,6 @@
 # Alkhallat+
 
-[Compare across authors](../../compare/?t=film-alkhallat_1064450)
+[Compare across authors](../compare/index.md?t=film-alkhallat_1064450)
 
 ## DD+ 5.1
 

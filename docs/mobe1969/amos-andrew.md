@@ -1,6 +1,6 @@
 # Amos & Andrew
 
-[Compare across authors](../../compare/?t=film-amos-andrew_31000)
+[Compare across authors](../compare/index.md?t=film-amos-andrew_31000)
 
 ## DTS-HD MA 2.0
 

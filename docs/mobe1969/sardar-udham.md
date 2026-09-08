@@ -1,6 +1,6 @@
 # Sardar Udham
 
-[Compare across authors](../../compare/?t=film-sardar-udham_598826)
+[Compare across authors](../compare/index.md?t=film-sardar-udham_598826)
 
 ## DD+ 5.1
 

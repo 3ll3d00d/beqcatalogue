@@ -1,6 +1,6 @@
 # Yellowbird
 
-[Compare across authors](../../compare/?t=film-yellowbird_292795)
+[Compare across authors](../compare/index.md?t=film-yellowbird_292795)
 
 ## DTS-HD MA 5.1
 

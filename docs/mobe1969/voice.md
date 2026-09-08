@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-voice_69087)
+[Compare across authors](../compare/index.md?t=TV-voice_69087)
 
 ## Season 1
 

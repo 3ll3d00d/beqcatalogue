@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-cross_213306)
+* [Compare across authors](../compare/index.md?t=TV-cross_213306)
 
 * Production Year: 2024
 

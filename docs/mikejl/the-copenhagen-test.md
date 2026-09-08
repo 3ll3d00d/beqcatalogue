@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-copenhagen-test_246412)
+* [Compare across authors](../compare/index.md?t=TV-the-copenhagen-test_246412)
 
 * Production Year: 2025
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-alpha-males_215092)
+[Compare across authors](../compare/index.md?t=TV-alpha-males_215092)
 
 ## Season 1
 

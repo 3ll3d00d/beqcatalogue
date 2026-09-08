@@ -1,6 +1,6 @@
 # Parker
 
-[Compare across authors](../../compare/?t=film-parker_119283)
+[Compare across authors](../compare/index.md?t=film-parker_119283)
 
 ## DTS-HD MA 5.1
 

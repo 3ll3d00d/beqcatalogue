@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-endless-night_171396)
+[Compare across authors](../compare/index.md?t=TV-endless-night_171396)
 
 ## Season 1
 

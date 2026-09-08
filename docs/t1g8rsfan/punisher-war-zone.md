@@ -9,7 +9,7 @@ Waging his one-man war on the world of organized crime, ruthless vigilante-hero 
 
 **MV Adjustment:** -0.5 dB
 
-[Discuss](https://www.avsforum.com/posts/62645456/)  [TMDB](https://www.themoviedb.org/movie/13056)  [Compare across authors](../../compare/?t=film-punisher-war-zone_13056)
+[Discuss](https://www.avsforum.com/posts/62645456/)  [TMDB](https://www.themoviedb.org/movie/13056)  [Compare across authors](../compare/index.md?t=film-punisher-war-zone_13056)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Punisher%20War%20Zone%20(2008)%20(-0.5%20gain)%20Atmos.jpg)

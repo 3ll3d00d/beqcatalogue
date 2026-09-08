@@ -1,6 +1,6 @@
 # Ice Age: Continental Drift
 
-[Compare across authors](../../compare/?t=film-ice-age-continental-drift_57800)
+[Compare across authors](../compare/index.md?t=film-ice-age-continental-drift_57800)
 
 ## DTS-HD MA 5.1
 

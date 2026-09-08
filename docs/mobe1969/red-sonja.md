@@ -1,6 +1,6 @@
 # Red Sonja
 
-[Compare across authors](../../compare/?t=film-red-sonja_9626)
+[Compare across authors](../compare/index.md?t=film-red-sonja_9626)
 
 ## DTS-HD MA 5.1
 

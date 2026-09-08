@@ -1,6 +1,6 @@
 # A Cure for Wellness
 
-[Compare across authors](../../compare/?t=film-a-cure-for-wellness_340837)
+[Compare across authors](../compare/index.md?t=film-a-cure-for-wellness_340837)
 
 ## DTS-HD MA 7.1
 

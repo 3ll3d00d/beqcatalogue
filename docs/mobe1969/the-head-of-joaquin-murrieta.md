@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-head-of-joaquin-murrieta_135502)
+[Compare across authors](../compare/index.md?t=TV-the-head-of-joaquin-murrieta_135502)
 
 ## Season 1
 

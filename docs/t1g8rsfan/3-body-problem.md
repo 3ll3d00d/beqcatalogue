@@ -14,7 +14,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/63344540/)
 
-* [Compare across authors](../../compare/?t=TV-3-body-problem_108545)
+* [Compare across authors](../compare/index.md?t=TV-3-body-problem_108545)
 
 * Production Year: 2024
 

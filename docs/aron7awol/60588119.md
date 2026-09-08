@@ -1,6 +1,6 @@
 # Zack Snyder's Justice League
 
-[Compare across authors](../../compare/?t=film-zack-snyders-justice-league_791373)
+[Compare across authors](../compare/index.md?t=film-zack-snyders-justice-league_791373)
 
 ## Atmos
 

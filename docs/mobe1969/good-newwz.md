@@ -1,6 +1,6 @@
 # Good Newwz
 
-[Compare across authors](../../compare/?t=film-good-newwz_643534)
+[Compare across authors](../compare/index.md?t=film-good-newwz_643534)
 
 ## DD+ 5.1
 

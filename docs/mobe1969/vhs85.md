@@ -1,6 +1,6 @@
 # V/H/S/85
 
-[Compare across authors](../../compare/?t=film-vhs85_1032948)
+[Compare across authors](../compare/index.md?t=film-vhs85_1032948)
 
 ## DD+ 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-true-detective_46648)
+[Compare across authors](../compare/index.md?t=TV-true-detective_46648)
 
 ## Season 1 Episode 1
 

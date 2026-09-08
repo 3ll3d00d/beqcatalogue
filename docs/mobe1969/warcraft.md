@@ -1,6 +1,6 @@
 # Warcraft
 
-[Compare across authors](../../compare/?t=film-warcraft_68735)
+[Compare across authors](../compare/index.md?t=film-warcraft_68735)
 
 ## Atmos
 

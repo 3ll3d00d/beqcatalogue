@@ -1,6 +1,6 @@
 # Ip Man
 
-[Compare across authors](../../compare/?t=film-ip-man_14756)
+[Compare across authors](../compare/index.md?t=film-ip-man_14756)
 
 ## Atmos
 

@@ -7,7 +7,7 @@
 Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/696506)  [Compare across authors](../../compare/?t=film-mickey-17_696506)
+[TMDB](https://www.themoviedb.org/movie/696506)  [Compare across authors](../compare/index.md?t=film-mickey-17_696506)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Mickey%2017%20(2025)%20DD%2B%20Atmos.jpg)

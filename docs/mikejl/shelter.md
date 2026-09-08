@@ -7,7 +7,7 @@
 A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1290821)  [Compare across authors](../../compare/?t=film-shelter_1290821)
+[TMDB](https://www.themoviedb.org/movie/1290821)  [Compare across authors](../compare/index.md?t=film-shelter_1290821)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Shelter/Shelter%20(2026)%20DD%2B%205.1.jpg)
@@ -21,7 +21,7 @@ A man living in self-imposed exile on a remote island rescues a young girl from 
 A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1290821)  [Compare across authors](../../compare/?t=film-shelter_1290821)
+[TMDB](https://www.themoviedb.org/movie/1290821)  [Compare across authors](../compare/index.md?t=film-shelter_1290821)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Shelter/Shelter%20(2026)%20TrueHD%205.1.jpg)

@@ -1,6 +1,6 @@
 # Flight of the Phoenix
 
-[Compare across authors](../../compare/?t=film-flight-of-the-phoenix_11866)
+[Compare across authors](../compare/index.md?t=film-flight-of-the-phoenix_11866)
 
 ## DTS-HD MA 5.1
 

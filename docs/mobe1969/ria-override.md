@@ -1,6 +1,6 @@
 # R.I.A (Override)
 
-[Compare across authors](../../compare/?t=film-ria-override_694938)
+[Compare across authors](../compare/index.md?t=film-ria-override_694938)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Legend of the Demon Cat
 
-[Compare across authors](../../compare/?t=film-legend-of-the-demon-cat_434221)
+[Compare across authors](../compare/index.md?t=film-legend-of-the-demon-cat_434221)
 
 ## Atmos
 

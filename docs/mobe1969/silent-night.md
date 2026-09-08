@@ -1,6 +1,6 @@
 # Silent Night
 
-[Compare across authors](../../compare/?t=film-silent-night_664574)
+[Compare across authors](../compare/index.md?t=film-silent-night_664574)
 
 ## DTS-HD MA 5.1
 

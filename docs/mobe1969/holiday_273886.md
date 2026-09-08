@@ -1,6 +1,6 @@
 # Holiday
 
-[Compare across authors](../../compare/?t=film-holiday_273886)
+[Compare across authors](../compare/index.md?t=film-holiday_273886)
 
 ## DTS-HD MA 5.1
 

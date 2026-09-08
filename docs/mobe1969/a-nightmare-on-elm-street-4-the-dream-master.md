@@ -1,6 +1,6 @@
 # A Nightmare on Elm Street 4: The Dream Master
 
-[Compare across authors](../../compare/?t=film-a-nightmare-on-elm-street-4-the-dream-master_10131)
+[Compare across authors](../compare/index.md?t=film-a-nightmare-on-elm-street-4-the-dream-master_10131)
 
 ## DTS-HD MA 5.1
 

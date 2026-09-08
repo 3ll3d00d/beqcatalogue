@@ -1,6 +1,6 @@
 # Alien Outpost
 
-[Compare across authors](../../compare/?t=film-alien-outpost_312526)
+[Compare across authors](../compare/index.md?t=film-alien-outpost_312526)
 
 ## DTS-HD MA 5.1
 

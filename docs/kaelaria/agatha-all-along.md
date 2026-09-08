@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-agatha-all-along_138501)
+* [Compare across authors](../compare/index.md?t=TV-agatha-all-along_138501)
 
 * Production Year: 2024
 

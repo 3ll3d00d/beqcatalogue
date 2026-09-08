@@ -1,6 +1,6 @@
 # Star Wars Episode IV A New Hope
 
-[Compare across authors](../../compare/?t=film-star-wars-episode-iv-a-new-hope_11)
+[Compare across authors](../compare/index.md?t=film-star-wars-episode-iv-a-new-hope_11)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Stree
 
-[Compare across authors](../../compare/?t=film-stree_533991)
+[Compare across authors](../compare/index.md?t=film-stree_533991)
 
 ## DD+ 5.1
 

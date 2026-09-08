@@ -1,6 +1,6 @@
 # The Chase
 
-[Compare across authors](../../compare/?t=film-the-chase_488621)
+[Compare across authors](../compare/index.md?t=film-the-chase_488621)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Z for Zachariah
 
-[Compare across authors](../../compare/?t=film-z-for-zachariah_193687)
+[Compare across authors](../compare/index.md?t=film-z-for-zachariah_193687)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Jesus Revolution
 
-[Compare across authors](../../compare/?t=film-jesus-revolution_719256)
+[Compare across authors](../compare/index.md?t=film-jesus-revolution_719256)
 
 ## DD+ 5.1
 

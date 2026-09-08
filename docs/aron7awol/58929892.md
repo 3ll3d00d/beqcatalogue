@@ -1,6 +1,6 @@
 # Abominable
 
-[Compare across authors](../../compare/?t=film-abominable_431580)
+[Compare across authors](../compare/index.md?t=film-abominable_431580)
 
 ## Atmos
 

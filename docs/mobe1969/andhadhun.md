@@ -1,6 +1,6 @@
 # Andhadhun
 
-[Compare across authors](../../compare/?t=film-andhadhun_534780)
+[Compare across authors](../compare/index.md?t=film-andhadhun_534780)
 
 ## DD+ 5.1
 

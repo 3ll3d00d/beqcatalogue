@@ -9,7 +9,7 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1554?post_id=63802674#post-63802674)  [TMDB](https://www.themoviedb.org/movie/438148)  [Compare across authors](../../compare/?t=film-minions-the-rise-of-gru_438148)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1554?post_id=63802674#post-63802674)  [TMDB](https://www.themoviedb.org/movie/438148)  [Compare across authors](../compare/index.md?t=film-minions-the-rise-of-gru_438148)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Minions%20The%20Rise%20of%20Gru%20(2022)%20(%2B5.5%20gain)%20Atmos.jpg)

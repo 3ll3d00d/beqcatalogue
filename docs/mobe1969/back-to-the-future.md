@@ -1,6 +1,6 @@
 # Back to the Future
 
-[Compare across authors](../../compare/?t=film-back-to-the-future_105)
+[Compare across authors](../compare/index.md?t=film-back-to-the-future_105)
 
 ## DTS-HD MA 5.1
 

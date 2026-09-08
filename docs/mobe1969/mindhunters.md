@@ -1,6 +1,6 @@
 # Mindhunters
 
-[Compare across authors](../../compare/?t=film-mindhunters_16617)
+[Compare across authors](../compare/index.md?t=film-mindhunters_16617)
 
 ## DD+ 5.1
 

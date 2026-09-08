@@ -1,6 +1,6 @@
 # Arsenal
 
-[Compare across authors](../../compare/?t=film-arsenal_388202)
+[Compare across authors](../compare/index.md?t=film-arsenal_388202)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Sinbad: Legend of the Seven Seas
 
-[Compare across authors](../../compare/?t=film-sinbad-legend-of-the-seven-seas_14411)
+[Compare across authors](../compare/index.md?t=film-sinbad-legend-of-the-seven-seas_14411)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Berserk: The Golden Age Arc I - The Egg of the King
 
-[Compare across authors](../../compare/?t=film-berserk-the-golden-age-arc-i-the-egg-of-the-king_113082)
+[Compare across authors](../compare/index.md?t=film-berserk-the-golden-age-arc-i-the-egg-of-the-king_113082)
 
 ## DTS-HD MA 5.1
 

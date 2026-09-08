@@ -1,6 +1,6 @@
 # Mumbai Saga
 
-[Compare across authors](../../compare/?t=film-mumbai-saga_608746)
+[Compare across authors](../compare/index.md?t=film-mumbai-saga_608746)
 
 ## DD+ 5.1
 

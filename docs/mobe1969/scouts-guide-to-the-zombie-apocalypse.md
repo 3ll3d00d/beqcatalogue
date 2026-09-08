@@ -1,6 +1,6 @@
 # Scouts Guide to the Zombie Apocalypse
 
-[Compare across authors](../../compare/?t=film-scouts-guide-to-the-zombie-apocalypse_273477)
+[Compare across authors](../compare/index.md?t=film-scouts-guide-to-the-zombie-apocalypse_273477)
 
 ## DD+ 5.1
 

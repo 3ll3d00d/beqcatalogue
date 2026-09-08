@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-awaken_113113)
+[Compare across authors](../compare/index.md?t=TV-awaken_113113)
 
 ## Season 1
 

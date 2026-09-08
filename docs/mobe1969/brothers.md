@@ -1,6 +1,6 @@
 # Brothers
 
-[Compare across authors](../../compare/?t=film-brothers_7445)
+[Compare across authors](../compare/index.md?t=film-brothers_7445)
 
 ## DTS-HD MA 5.1
 

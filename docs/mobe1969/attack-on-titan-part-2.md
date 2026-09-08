@@ -1,6 +1,6 @@
 # Attack on Titan Part 2
 
-[Compare across authors](../../compare/?t=film-attack-on-titan-part-2_340382)
+[Compare across authors](../compare/index.md?t=film-attack-on-titan-part-2_340382)
 
 ## DTS-HD MA 5.1
 

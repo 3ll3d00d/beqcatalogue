@@ -9,7 +9,7 @@ Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after 
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62561277)  [TMDB](https://www.themoviedb.org/movie/840326)  [Compare across authors](../../compare/?t=film-sisu_840326)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62561277)  [TMDB](https://www.themoviedb.org/movie/840326)  [Compare across authors](../compare/index.md?t=film-sisu_840326)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Sisu%20(2023)%20(%2B5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after 
 +3dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62561277)  [TMDB](https://www.themoviedb.org/movie/840326)  [Compare across authors](../../compare/?t=film-sisu_840326)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62561277)  [TMDB](https://www.themoviedb.org/movie/840326)  [Compare across authors](../compare/index.md?t=film-sisu_840326)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Sisu%20(2022)%20Amazon%20DD%2B%20Atmos.jpg)
@@ -44,7 +44,7 @@ Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after 
 
 **MV Adjustment:** +6.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62561277)  [TMDB](https://www.themoviedb.org/movie/840326)  [Compare across authors](../../compare/?t=film-sisu_840326)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62561277)  [TMDB](https://www.themoviedb.org/movie/840326)  [Compare across authors](../compare/index.md?t=film-sisu_840326)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Sisu%20(2022)%20(%2B6%20gain)%20TrueHD%205.1.jpg)

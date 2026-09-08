@@ -7,7 +7,7 @@
 As an evil takes over the world beyond their front doorstep, the only protection for a mother and her twin sons is their house and their family’s protective bond.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/814889)  [Compare across authors](../../compare/?t=film-never-let-go_814889)
+[TMDB](https://www.themoviedb.org/movie/814889)  [Compare across authors](../compare/index.md?t=film-never-let-go_814889)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Never%20Let%20Go%20(2024)%20%20DD%2B%20Atmos.jpg)

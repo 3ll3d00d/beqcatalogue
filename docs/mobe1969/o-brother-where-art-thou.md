@@ -1,6 +1,6 @@
 # O Brother, Where Art Thou?
 
-[Compare across authors](../../compare/?t=film-o-brother-where-art-thou_134)
+[Compare across authors](../compare/index.md?t=film-o-brother-where-art-thou_134)
 
 ## DTS-HD MA 5.1
 

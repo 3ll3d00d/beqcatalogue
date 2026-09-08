@@ -1,6 +1,6 @@
 # Wind Blast
 
-[Compare across authors](../../compare/?t=film-wind-blast_50005)
+[Compare across authors](../compare/index.md?t=film-wind-blast_50005)
 
 ## DTS-HD MA 7.1
 

@@ -1,6 +1,6 @@
 # Isoroku Yamamoto, the Commander-in-Chief of the Combined Fleet
 
-[Compare across authors](../../compare/?t=film-isoroku-yamamoto-the-commander-in-chief-of-the-combined-fleet_131739)
+[Compare across authors](../compare/index.md?t=film-isoroku-yamamoto-the-commander-in-chief-of-the-combined-fleet_131739)
 
 ## DTS-HD MA 5.1
 

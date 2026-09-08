@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-payback-money-and-power_209751)
+[Compare across authors](../compare/index.md?t=TV-payback-money-and-power_209751)
 
 ## Season 1
 

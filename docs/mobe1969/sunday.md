@@ -1,6 +1,6 @@
 # Sunday
 
-[Compare across authors](../../compare/?t=film-sunday_20917)
+[Compare across authors](../compare/index.md?t=film-sunday_20917)
 
 ## DD 5.1
 

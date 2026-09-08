@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-cosmos_58474)
+[Compare across authors](../compare/index.md?t=TV-cosmos_58474)
 
 ## Season 2
 

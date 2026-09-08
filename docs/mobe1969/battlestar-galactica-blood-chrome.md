@@ -1,6 +1,6 @@
 # Battlestar Galactica: Blood & Chrome
 
-[Compare across authors](../../compare/?t=film-battlestar-galactica-blood-chrome_257368)
+[Compare across authors](../compare/index.md?t=film-battlestar-galactica-blood-chrome_257368)
 
 ## DTS-HD MA 5.1
 

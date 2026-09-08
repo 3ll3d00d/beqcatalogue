@@ -1,6 +1,6 @@
 # Eliminators
 
-[Compare across authors](../../compare/?t=film-eliminators_421313)
+[Compare across authors](../compare/index.md?t=film-eliminators_421313)
 
 ## DTS-HD MA 5.1
 

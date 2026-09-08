@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-til-death-do-us-part_92829)
+[Compare across authors](../compare/index.md?t=TV-til-death-do-us-part_92829)
 
 ## Season 1
 

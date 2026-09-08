@@ -1,6 +1,6 @@
 # Werewolf by Night
 
-[Compare across authors](../../compare/?t=film-werewolf-by-night_894205)
+[Compare across authors](../compare/index.md?t=film-werewolf-by-night_894205)
 
 ## DD+ 5.1
 

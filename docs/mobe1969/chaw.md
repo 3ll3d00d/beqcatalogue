@@ -1,6 +1,6 @@
 # Chaw
 
-[Compare across authors](../../compare/?t=film-chaw_59450)
+[Compare across authors](../compare/index.md?t=film-chaw_59450)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Black Box
 
-[Compare across authors](../../compare/?t=film-black-box_663260)
+[Compare across authors](../compare/index.md?t=film-black-box_663260)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Singham
 
-[Compare across authors](../../compare/?t=film-singham_70590)
+[Compare across authors](../compare/index.md?t=film-singham_70590)
 
 ## DD+ 5.1
 

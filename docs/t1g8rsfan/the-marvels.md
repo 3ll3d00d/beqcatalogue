@@ -10,7 +10,7 @@ Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannica
 +4dB Dialnorm Compensation​ - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63086072)  [TMDB](https://www.themoviedb.org/movie/609681)  [Compare across authors](../../compare/?t=film-the-marvels_609681)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63086072)  [TMDB](https://www.themoviedb.org/movie/609681)  [Compare across authors](../compare/index.md?t=film-the-marvels_609681)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Marvels%20(2023)%20DD%2B%20Atmos%20PvA.jpg)

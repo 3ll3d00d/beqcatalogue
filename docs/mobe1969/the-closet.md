@@ -1,6 +1,6 @@
 # The Closet
 
-[Compare across authors](../../compare/?t=film-the-closet_571625)
+[Compare across authors](../compare/index.md?t=film-the-closet_571625)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Star Wars: Episode II - Attack of the Clones
 
-[Compare across authors](../../compare/?t=film-star-wars-episode-ii-attack-of-the-clones_1894)
+[Compare across authors](../compare/index.md?t=film-star-wars-episode-ii-attack-of-the-clones_1894)
 
 ## Atmos
 

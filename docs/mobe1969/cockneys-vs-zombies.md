@@ -1,6 +1,6 @@
 # Cockneys vs Zombies
 
-[Compare across authors](../../compare/?t=film-cockneys-vs-zombies_114606)
+[Compare across authors](../compare/index.md?t=film-cockneys-vs-zombies_114606)
 
 ## DTS-HD MA 5.1
 

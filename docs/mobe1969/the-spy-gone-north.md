@@ -1,6 +1,6 @@
 # The Spy Gone North
 
-[Compare across authors](../../compare/?t=film-the-spy-gone-north_517991)
+[Compare across authors](../compare/index.md?t=film-the-spy-gone-north_517991)
 
 ## DTS-HD MA 5.1
 

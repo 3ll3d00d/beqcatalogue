@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-the-penguin_194764)
+* [Compare across authors](../compare/index.md?t=TV-the-penguin_194764)
 
 * Production Year: 2024
 

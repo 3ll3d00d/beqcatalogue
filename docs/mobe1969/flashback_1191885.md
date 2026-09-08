@@ -1,6 +1,6 @@
 # Flashback
 
-[Compare across authors](../../compare/?t=film-flashback_1191885)
+[Compare across authors](../compare/index.md?t=film-flashback_1191885)
 
 ## DD+ Atmos
 

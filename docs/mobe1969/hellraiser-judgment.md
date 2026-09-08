@@ -1,6 +1,6 @@
 # Hellraiser: Judgment
 
-[Compare across authors](../../compare/?t=film-hellraiser-judgment_444149)
+[Compare across authors](../compare/index.md?t=film-hellraiser-judgment_444149)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Bulldozer
 
-[Compare across authors](../../compare/?t=film-bulldozer_957517)
+[Compare across authors](../compare/index.md?t=film-bulldozer_957517)
 
 ## DD+ 5.1
 

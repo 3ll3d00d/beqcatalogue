@@ -1,6 +1,6 @@
 # The Nugget
 
-[Compare across authors](../../compare/?t=film-the-nugget_6382)
+[Compare across authors](../compare/index.md?t=film-the-nugget_6382)
 
 ## DD+ 5.1
 

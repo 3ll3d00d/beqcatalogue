@@ -1,6 +1,6 @@
 # The Rite
 
-[Compare across authors](../../compare/?t=film-the-rite_48171)
+[Compare across authors](../compare/index.md?t=film-the-rite_48171)
 
 ## DD+ 5.1
 

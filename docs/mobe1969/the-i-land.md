@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-i-land_90755)
+[Compare across authors](../compare/index.md?t=TV-the-i-land_90755)
 
 ## Season 1
 

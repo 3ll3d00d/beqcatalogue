@@ -1,6 +1,6 @@
 # The Bay of Silence
 
-[Compare across authors](../../compare/?t=film-the-bay-of-silence_623958)
+[Compare across authors](../compare/index.md?t=film-the-bay-of-silence_623958)
 
 ## DD+ 5.1
 

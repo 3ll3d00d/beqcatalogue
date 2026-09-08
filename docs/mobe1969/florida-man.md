@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-florida-man_123856)
+[Compare across authors](../compare/index.md?t=TV-florida-man_123856)
 
 ## Season 1
 

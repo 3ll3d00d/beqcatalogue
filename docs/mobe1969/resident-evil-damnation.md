@@ -1,6 +1,6 @@
 # Resident Evil: Damnation
 
-[Compare across authors](../../compare/?t=film-resident-evil-damnation_133121)
+[Compare across authors](../compare/index.md?t=film-resident-evil-damnation_133121)
 
 ## DTS-HD MA 5.1
 

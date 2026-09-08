@@ -1,6 +1,6 @@
 # Renegades
 
-[Compare across authors](../../compare/?t=film-renegades_335788)
+[Compare across authors](../compare/index.md?t=film-renegades_335788)
 
 ## DTS-HD MA 5.1
 

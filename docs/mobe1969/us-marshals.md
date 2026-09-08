@@ -1,6 +1,6 @@
 # U.S. Marshals
 
-[Compare across authors](../../compare/?t=film-us-marshals_11808)
+[Compare across authors](../compare/index.md?t=film-us-marshals_11808)
 
 ## DTS-HD MA 5.1
 

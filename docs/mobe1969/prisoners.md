@@ -1,6 +1,6 @@
 # Prisoners
 
-[Compare across authors](../../compare/?t=film-prisoners_146233)
+[Compare across authors](../compare/index.md?t=film-prisoners_146233)
 
 ## DTS-HD MA 5.1
 

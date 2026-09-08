@@ -1,6 +1,6 @@
 # Hard Rain
 
-[Compare across authors](../../compare/?t=film-hard-rain_11258)
+[Compare across authors](../compare/index.md?t=film-hard-rain_11258)
 
 ## DTS-HD MA 5.1
 

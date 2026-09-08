@@ -1,6 +1,6 @@
 # Pagalpanti
 
-[Compare across authors](../../compare/?t=film-pagalpanti_649487)
+[Compare across authors](../compare/index.md?t=film-pagalpanti_649487)
 
 ## DD+ 5.1
 

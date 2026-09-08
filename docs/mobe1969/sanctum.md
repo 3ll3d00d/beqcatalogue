@@ -1,6 +1,6 @@
 # Sanctum
 
-[Compare across authors](../../compare/?t=film-sanctum_48340)
+[Compare across authors](../compare/index.md?t=film-sanctum_48340)
 
 ## DTS-HD MA 5.1
 

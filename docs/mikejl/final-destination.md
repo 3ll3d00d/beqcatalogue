@@ -7,7 +7,7 @@
 After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9532)  [Compare across authors](../../compare/?t=film-final-destination_9532)
+[TMDB](https://www.themoviedb.org/movie/9532)  [Compare across authors](../compare/index.md?t=film-final-destination_9532)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Final%20Destination/Final%20Destination%20(2000)%20DD%2B%205.1.jpg)

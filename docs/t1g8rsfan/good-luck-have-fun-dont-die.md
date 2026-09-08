@@ -7,7 +7,7 @@
 A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1119449)  [Compare across authors](../../compare/?t=film-good-luck-have-fun-dont-die_1119449)
+[TMDB](https://www.themoviedb.org/movie/1119449)  [Compare across authors](../compare/index.md?t=film-good-luck-have-fun-dont-die_1119449)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Good%20Luck%20Have%20Fun%20Dont%20Die%20(2025)%20DD%2B%20Atmos%20PvA.jpg)

@@ -1,6 +1,6 @@
 # Infidel
 
-[Compare across authors](../../compare/?t=film-infidel_649401)
+[Compare across authors](../compare/index.md?t=film-infidel_649401)
 
 ## DTS-HD MA 5.1
 

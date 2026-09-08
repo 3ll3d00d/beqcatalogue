@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-belascoaran-pi_206709)
+[Compare across authors](../compare/index.md?t=TV-belascoaran-pi_206709)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Operation Hyacinth
 
-[Compare across authors](../../compare/?t=film-operation-hyacinth_809970)
+[Compare across authors](../compare/index.md?t=film-operation-hyacinth_809970)
 
 ## DD+ 5.1
 

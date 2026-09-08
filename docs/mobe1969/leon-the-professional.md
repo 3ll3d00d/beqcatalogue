@@ -1,6 +1,6 @@
 # Léon: The Professional
 
-[Compare across authors](../../compare/?t=film-leon-the-professional_101)
+[Compare across authors](../compare/index.md?t=film-leon-the-professional_101)
 
 ## Atmos
 

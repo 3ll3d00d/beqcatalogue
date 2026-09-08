@@ -1,6 +1,6 @@
 # Crossbreed
 
-[Compare across authors](../../compare/?t=film-crossbreed_514755)
+[Compare across authors](../compare/index.md?t=film-crossbreed_514755)
 
 ## DD+ 5.1
 

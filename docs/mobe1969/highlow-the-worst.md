@@ -1,6 +1,6 @@
 # HiGH&LOW THE WORST
 
-[Compare across authors](../../compare/?t=film-highlow-the-worst_727502)
+[Compare across authors](../compare/index.md?t=film-highlow-the-worst_727502)
 
 ## DD+ 5.1
 

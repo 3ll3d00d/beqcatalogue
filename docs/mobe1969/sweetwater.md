@@ -1,6 +1,6 @@
 # Sweetwater
 
-[Compare across authors](../../compare/?t=film-sweetwater_158916)
+[Compare across authors](../compare/index.md?t=film-sweetwater_158916)
 
 ## DTS-HD MA 5.1
 

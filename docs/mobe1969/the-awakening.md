@@ -1,6 +1,6 @@
 # The Awakening
 
-[Compare across authors](../../compare/?t=film-the-awakening_77949)
+[Compare across authors](../compare/index.md?t=film-the-awakening_77949)
 
 ## DTS-HD MA 5.1
 

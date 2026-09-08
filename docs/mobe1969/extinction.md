@@ -1,6 +1,6 @@
 # Extinction
 
-[Compare across authors](../../compare/?t=film-extinction_429415)
+[Compare across authors](../compare/index.md?t=film-extinction_429415)
 
 ## DD+ 5.1
 

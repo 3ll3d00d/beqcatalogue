@@ -1,6 +1,6 @@
 # Cobweb
 
-[Compare across authors](../../compare/?t=film-cobweb_709631)
+[Compare across authors](../compare/index.md?t=film-cobweb_709631)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

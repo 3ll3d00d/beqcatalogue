@@ -1,6 +1,6 @@
 # Beaufort
 
-[Compare across authors](../../compare/?t=film-beaufort_15048)
+[Compare across authors](../compare/index.md?t=film-beaufort_15048)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dragons-dogma_99769)
+[Compare across authors](../compare/index.md?t=TV-dragons-dogma_99769)
 
 ## Season 1
 

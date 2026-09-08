@@ -1,6 +1,6 @@
 # Sisu
 
-[Compare across authors](../../compare/?t=film-sisu_840326)
+[Compare across authors](../compare/index.md?t=film-sisu_840326)
 
 ## DD+ Atmos, DD+ 5.1
 

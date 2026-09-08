@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-rook_79272)
+[Compare across authors](../compare/index.md?t=TV-the-rook_79272)
 
 ## Season 1 Episodes 1, 4-5, 7-8
 

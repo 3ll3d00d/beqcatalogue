@@ -1,6 +1,6 @@
 # Blind Detective
 
-[Compare across authors](../../compare/?t=film-blind-detective_194523)
+[Compare across authors](../compare/index.md?t=film-blind-detective_194523)
 
 ## DD+ 5.1
 

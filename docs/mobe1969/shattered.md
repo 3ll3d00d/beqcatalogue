@@ -1,6 +1,6 @@
 # Shattered
 
-[Compare across authors](../../compare/?t=film-shattered_844398)
+[Compare across authors](../compare/index.md?t=film-shattered_844398)
 
 ## DTS-HD MA 5.1
 

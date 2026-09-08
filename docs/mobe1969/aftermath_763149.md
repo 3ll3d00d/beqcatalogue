@@ -1,6 +1,6 @@
 # Aftermath
 
-[Compare across authors](../../compare/?t=film-aftermath_763149)
+[Compare across authors](../compare/index.md?t=film-aftermath_763149)
 
 ## DD+ 5.1
 

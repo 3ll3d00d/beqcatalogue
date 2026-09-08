@@ -11,7 +11,7 @@ An Irish rogue uses his cunning and wit to work his way up the social classes of
 
 **MV Adjustment:** +6.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/3175)  [Compare across authors](../../compare/?t=film-barry-lyndon_3175)
+[TMDB](https://www.themoviedb.org/movie/3175)  [Compare across authors](../compare/index.md?t=film-barry-lyndon_3175)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/main/Images/Barry%20Lyndon%20(1975)%20(%2B6.5%20Gain)%20DTS-HD%20MA%205.1.png)

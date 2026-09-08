@@ -1,6 +1,6 @@
 # The Detonator
 
-[Compare across authors](../../compare/?t=film-the-detonator_24624)
+[Compare across authors](../compare/index.md?t=film-the-detonator_24624)
 
 ## DD+ 5.1
 

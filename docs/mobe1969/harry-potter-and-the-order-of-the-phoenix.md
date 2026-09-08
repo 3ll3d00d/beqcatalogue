@@ -1,6 +1,6 @@
 # Harry Potter and the Order of the Phoenix
 
-[Compare across authors](../../compare/?t=film-harry-potter-and-the-order-of-the-phoenix_675)
+[Compare across authors](../compare/index.md?t=film-harry-potter-and-the-order-of-the-phoenix_675)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Gemini Man
 
-[Compare across authors](../../compare/?t=film-gemini-man_453405)
+[Compare across authors](../compare/index.md?t=film-gemini-man_453405)
 
 ## Atmos
 

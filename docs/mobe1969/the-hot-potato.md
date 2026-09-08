@@ -1,6 +1,6 @@
 # The Hot Potato
 
-[Compare across authors](../../compare/?t=film-the-hot-potato_120798)
+[Compare across authors](../compare/index.md?t=film-the-hot-potato_120798)
 
 ## DD+ 5.1
 

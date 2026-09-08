@@ -1,6 +1,6 @@
 # American Wedding
 
-[Compare across authors](../../compare/?t=film-american-wedding_8273)
+[Compare across authors](../compare/index.md?t=film-american-wedding_8273)
 
 ## DTS-HD MA 5.1
 

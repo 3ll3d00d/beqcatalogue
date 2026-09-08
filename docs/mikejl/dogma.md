@@ -7,7 +7,7 @@
 An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and reenter Heaven.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1832)  [Compare across authors](../../compare/?t=film-dogma_1832)
+[TMDB](https://www.themoviedb.org/movie/1832)  [Compare across authors](../compare/index.md?t=film-dogma_1832)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dogma/Dogma%20(1999)%20Atmos.jpg)

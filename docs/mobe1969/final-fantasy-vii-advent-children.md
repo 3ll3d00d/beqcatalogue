@@ -1,6 +1,6 @@
 # Final Fantasy VII: Advent Children
 
-[Compare across authors](../../compare/?t=film-final-fantasy-vii-advent-children_824809)
+[Compare across authors](../compare/index.md?t=film-final-fantasy-vii-advent-children_824809)
 
 ## Atmos
 

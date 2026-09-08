@@ -1,6 +1,6 @@
 # Hunter's Moon
 
-[Compare across authors](../../compare/?t=film-hunters-moon_458673)
+[Compare across authors](../compare/index.md?t=film-hunters-moon_458673)
 
 ## DD+ 5.1
 

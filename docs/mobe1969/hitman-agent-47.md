@@ -1,6 +1,6 @@
 # Hitman: Agent 47
 
-[Compare across authors](../../compare/?t=film-hitman-agent-47_249070)
+[Compare across authors](../compare/index.md?t=film-hitman-agent-47_249070)
 
 ## DTS-HD MA 7.1
 

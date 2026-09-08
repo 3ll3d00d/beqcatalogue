@@ -1,6 +1,6 @@
 # Wish You Were Here
 
-[Compare across authors](../../compare/?t=film-wish-you-were-here_60270)
+[Compare across authors](../compare/index.md?t=film-wish-you-were-here_60270)
 
 ## DTS-HD MA 5.1
 

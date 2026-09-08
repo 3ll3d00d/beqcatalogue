@@ -1,6 +1,6 @@
 # The Darkest Hour
 
-[Compare across authors](../../compare/?t=film-the-darkest-hour_71469)
+[Compare across authors](../compare/index.md?t=film-the-darkest-hour_71469)
 
 ## DTS-HD MA 5.1
 

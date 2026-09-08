@@ -1,6 +1,6 @@
 # Baked in Brooklyn
 
-[Compare across authors](../../compare/?t=film-baked-in-brooklyn_417877)
+[Compare across authors](../compare/index.md?t=film-baked-in-brooklyn_417877)
 
 ## DD+ 5.1
 

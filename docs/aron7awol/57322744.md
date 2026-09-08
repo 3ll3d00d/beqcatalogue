@@ -1,6 +1,6 @@
 # Mission: Impossible III
 
-[Compare across authors](../../compare/?t=film-mission-impossible-iii_956)
+[Compare across authors](../compare/index.md?t=film-mission-impossible-iii_956)
 
 ## TrueHD 5.1
 

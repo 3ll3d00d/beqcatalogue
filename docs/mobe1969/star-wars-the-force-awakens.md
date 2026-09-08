@@ -1,6 +1,6 @@
 # Star Wars: The Force Awakens
 
-[Compare across authors](../../compare/?t=film-star-wars-the-force-awakens_140607)
+[Compare across authors](../compare/index.md?t=film-star-wars-the-force-awakens_140607)
 
 ## Atmos
 

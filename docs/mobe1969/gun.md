@@ -1,6 +1,6 @@
 # Gun
 
-[Compare across authors](../../compare/?t=film-gun_51250)
+[Compare across authors](../compare/index.md?t=film-gun_51250)
 
 ## DD+ 5.1
 

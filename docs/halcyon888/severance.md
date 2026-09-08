@@ -12,7 +12,7 @@
 Dialnorm Compensation: E01 +3dB, E02 +2dB, E03 +4dB, E04 +6dB ,E05 +3dB, E06-E07 +2dB, E08 +10dB, E09 +8dB, E10 +6dB
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-severance_95396)
+* [Compare across authors](../compare/index.md?t=TV-severance_95396)
 
 * Production Year: 2022
 

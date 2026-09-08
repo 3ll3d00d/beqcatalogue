@@ -1,6 +1,6 @@
 # Salyut-7
 
-[Compare across authors](../../compare/?t=film-salyut-7_438740)
+[Compare across authors](../compare/index.md?t=film-salyut-7_438740)
 
 ## DTS-HD MA 5.1
 

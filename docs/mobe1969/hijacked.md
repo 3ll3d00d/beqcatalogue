@@ -1,6 +1,6 @@
 # Hijacked
 
-[Compare across authors](../../compare/?t=film-hijacked_119117)
+[Compare across authors](../compare/index.md?t=film-hijacked_119117)
 
 ## TrueHD 5.1
 

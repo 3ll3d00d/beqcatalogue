@@ -1,6 +1,6 @@
 # CBI 5: The Brain
 
-[Compare across authors](../../compare/?t=film-cbi-5-the-brain_569118)
+[Compare across authors](../compare/index.md?t=film-cbi-5-the-brain_569118)
 
 ## DD+ 5.1
 

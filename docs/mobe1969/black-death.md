@@ -1,6 +1,6 @@
 # Black Death
 
-[Compare across authors](../../compare/?t=film-black-death_41215)
+[Compare across authors](../compare/index.md?t=film-black-death_41215)
 
 ## DTS-HD MA 5.1
 

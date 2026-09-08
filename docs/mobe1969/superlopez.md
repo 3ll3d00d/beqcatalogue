@@ -1,6 +1,6 @@
 # Superlopez
 
-[Compare across authors](../../compare/?t=film-superlopez_457915)
+[Compare across authors](../compare/index.md?t=film-superlopez_457915)
 
 ## DD+ 5.1
 

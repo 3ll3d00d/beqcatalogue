@@ -1,6 +1,6 @@
 # Demonic
 
-[Compare across authors](../../compare/?t=film-demonic_774021)
+[Compare across authors](../compare/index.md?t=film-demonic_774021)
 
 ## DTS-HD MA 5.1
 

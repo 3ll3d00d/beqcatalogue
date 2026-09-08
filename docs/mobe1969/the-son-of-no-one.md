@@ -1,6 +1,6 @@
 # The Son of No One
 
-[Compare across authors](../../compare/?t=film-the-son-of-no-one_74536)
+[Compare across authors](../compare/index.md?t=film-the-son-of-no-one_74536)
 
 ## TrueHD 5.1
 

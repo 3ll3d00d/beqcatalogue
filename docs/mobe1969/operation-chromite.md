@@ -1,6 +1,6 @@
 # Operation Chromite
 
-[Compare across authors](../../compare/?t=film-operation-chromite_407887)
+[Compare across authors](../compare/index.md?t=film-operation-chromite_407887)
 
 ## DTS-HD MA 5.1
 

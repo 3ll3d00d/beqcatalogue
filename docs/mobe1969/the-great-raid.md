@@ -1,6 +1,6 @@
 # The Great Raid
 
-[Compare across authors](../../compare/?t=film-the-great-raid_13922)
+[Compare across authors](../compare/index.md?t=film-the-great-raid_13922)
 
 ## LPCM 5.1
 

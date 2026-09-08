@@ -1,6 +1,6 @@
 # Dishoom
 
-[Compare across authors](../../compare/?t=film-dishoom_393441)
+[Compare across authors](../compare/index.md?t=film-dishoom_393441)
 
 ## DD 5.1
 

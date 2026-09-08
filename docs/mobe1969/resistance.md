@@ -1,6 +1,6 @@
 # Resistance
 
-[Compare across authors](../../compare/?t=film-resistance_96944)
+[Compare across authors](../compare/index.md?t=film-resistance_96944)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 In this sequel to "47 Ronin," a new class of warriors emerges among the Samurai clans to keep a sought-after sword from falling into the wrong hands.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/732459)  [Compare across authors](../../compare/?t=film-blade-of-the-47-ronin_732459)
+[TMDB](https://www.themoviedb.org/movie/732459)  [Compare across authors](../compare/index.md?t=film-blade-of-the-47-ronin_732459)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blade%20of%20the%2047%20Ronin/Blade%20of%20the%2047%20Ronin%20(2022)%20DTS-HD%20MA%205.1.jpg)

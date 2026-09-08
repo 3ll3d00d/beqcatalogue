@@ -1,6 +1,6 @@
 # Outrage Coda
 
-[Compare across authors](../../compare/?t=film-outrage-coda_452323)
+[Compare across authors](../compare/index.md?t=film-outrage-coda_452323)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Isle
 
-[Compare across authors](../../compare/?t=film-the-isle_8653)
+[Compare across authors](../compare/index.md?t=film-the-isle_8653)
 
 ## DTS-HD MA 2.0
 

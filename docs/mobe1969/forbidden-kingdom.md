@@ -1,6 +1,6 @@
 # Forbidden Kingdom
 
-[Compare across authors](../../compare/?t=film-forbidden-kingdom_1729)
+[Compare across authors](../compare/index.md?t=film-forbidden-kingdom_1729)
 
 ## DTS-HD MA 7.1
 

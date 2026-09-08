@@ -1,6 +1,6 @@
 # The Chronicles of Narnia: Voyage of the Dawn Treader
 
-[Compare across authors](../../compare/?t=film-the-chronicles-of-narnia-voyage-of-the-dawn-treader_10140)
+[Compare across authors](../compare/index.md?t=film-the-chronicles-of-narnia-voyage-of-the-dawn-treader_10140)
 
 ## DTS-HD MA 5.1
 

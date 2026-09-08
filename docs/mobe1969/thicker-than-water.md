@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-thicker-than-water_222559)
+[Compare across authors](../compare/index.md?t=TV-thicker-than-water_222559)
 
 ## Season 1
 

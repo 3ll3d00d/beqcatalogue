@@ -1,6 +1,6 @@
 # Tad, the Lost Explorer
 
-[Compare across authors](../../compare/?t=film-tad-the-lost-explorer_121734)
+[Compare across authors](../compare/index.md?t=film-tad-the-lost-explorer_121734)
 
 ## DTS-HD MA 5.1
 

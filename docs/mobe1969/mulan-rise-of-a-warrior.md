@@ -1,6 +1,6 @@
 # Mulan: Rise of a Warrior
 
-[Compare across authors](../../compare/?t=film-mulan-rise-of-a-warrior_32909)
+[Compare across authors](../compare/index.md?t=film-mulan-rise-of-a-warrior_32909)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Alien Resurrection
 
-[Compare across authors](../../compare/?t=film-alien-resurrection_8078)
+[Compare across authors](../compare/index.md?t=film-alien-resurrection_8078)
 
 ## DTS-HD MA 5.1
 

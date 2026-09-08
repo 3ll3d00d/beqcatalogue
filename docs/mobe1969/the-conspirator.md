@@ -1,6 +1,6 @@
 # The Conspirator
 
-[Compare across authors](../../compare/?t=film-the-conspirator_60309)
+[Compare across authors](../compare/index.md?t=film-the-conspirator_60309)
 
 ## DTS-HD MA 5.1
 

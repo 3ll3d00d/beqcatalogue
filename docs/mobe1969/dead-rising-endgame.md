@@ -1,6 +1,6 @@
 # Dead Rising: Endgame
 
-[Compare across authors](../../compare/?t=film-dead-rising-endgame_400605)
+[Compare across authors](../compare/index.md?t=film-dead-rising-endgame_400605)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Balkan Line
 
-[Compare across authors](../../compare/?t=film-balkan-line_517093)
+[Compare across authors](../compare/index.md?t=film-balkan-line_517093)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Layer Cake
 
-[Compare across authors](../../compare/?t=film-layer-cake_4836)
+[Compare across authors](../compare/index.md?t=film-layer-cake_4836)
 
 ## LPCM 5.1, DD+ 5.1
 

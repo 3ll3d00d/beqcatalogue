@@ -1,6 +1,6 @@
 # Look for a Star
 
-[Compare across authors](../../compare/?t=film-look-for-a-star_41544)
+[Compare across authors](../compare/index.md?t=film-look-for-a-star_41544)
 
 ## DD+ 2.0
 

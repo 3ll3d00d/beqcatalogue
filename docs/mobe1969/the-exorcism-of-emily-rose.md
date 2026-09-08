@@ -1,6 +1,6 @@
 # The Exorcism of Emily Rose
 
-[Compare across authors](../../compare/?t=film-the-exorcism-of-emily-rose_8643)
+[Compare across authors](../compare/index.md?t=film-the-exorcism-of-emily-rose_8643)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Cam
 
-[Compare across authors](../../compare/?t=film-cam_521935)
+[Compare across authors](../compare/index.md?t=film-cam_521935)
 
 ## DD+ 5.1
 

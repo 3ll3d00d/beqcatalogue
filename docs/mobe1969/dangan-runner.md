@@ -1,6 +1,6 @@
 # Dangan Runner
 
-[Compare across authors](../../compare/?t=film-dangan-runner_105130)
+[Compare across authors](../compare/index.md?t=film-dangan-runner_105130)
 
 ## DTS-HD MA 2.0
 

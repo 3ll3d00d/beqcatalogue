@@ -1,6 +1,6 @@
 # Uncanny
 
-[Compare across authors](../../compare/?t=film-uncanny_137333)
+[Compare across authors](../compare/index.md?t=film-uncanny_137333)
 
 ## DTS-HD MA 5.1
 

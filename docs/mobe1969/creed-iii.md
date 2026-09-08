@@ -1,6 +1,6 @@
 # Creed III
 
-[Compare across authors](../../compare/?t=film-creed-iii_677179)
+[Compare across authors](../compare/index.md?t=film-creed-iii_677179)
 
 ## Atmos
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-interview-with-the-vampire_128098)
+* [Compare across authors](../compare/index.md?t=TV-interview-with-the-vampire_128098)
 
 * Production Year: 2022
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-interview-with-the-vampire_128098)
+* [Compare across authors](../compare/index.md?t=TV-interview-with-the-vampire_128098)
 
 * Production Year: 2022
 

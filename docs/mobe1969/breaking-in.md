@@ -1,6 +1,6 @@
 # Breaking In
 
-[Compare across authors](../../compare/?t=film-breaking-in_497814)
+[Compare across authors](../compare/index.md?t=film-breaking-in_497814)
 
 ## DTS-HD MA 5.1
 

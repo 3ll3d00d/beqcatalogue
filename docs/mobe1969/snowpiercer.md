@@ -1,6 +1,6 @@
 # Snowpiercer
 
-[Compare across authors](../../compare/?t=film-snowpiercer_110415)
+[Compare across authors](../compare/index.md?t=film-snowpiercer_110415)
 
 ## DTS-HD MA 5.1
 

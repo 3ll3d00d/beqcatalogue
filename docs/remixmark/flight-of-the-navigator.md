@@ -9,7 +9,7 @@
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1623?post_id=64131828#post-64131828)  [TMDB](https://www.themoviedb.org/movie/10122)  [Compare across authors](../../compare/?t=film-flight-of-the-navigator_10122)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1623?post_id=64131828#post-64131828)  [TMDB](https://www.themoviedb.org/movie/10122)  [Compare across authors](../compare/index.md?t=film-flight-of-the-navigator_10122)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Flight%20of%20the%20Navigator%20(1986)%20(%2B7%20gain)%20DD%202.0.jpg)

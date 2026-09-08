@@ -1,6 +1,6 @@
 # The Prison
 
-[Compare across authors](../../compare/?t=film-the-prison_438798)
+[Compare across authors](../compare/index.md?t=film-the-prison_438798)
 
 ## DTS-HD MA 5.1
 

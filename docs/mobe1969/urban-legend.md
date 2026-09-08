@@ -1,6 +1,6 @@
 # Urban Legend
 
-[Compare across authors](../../compare/?t=film-urban-legend_9877)
+[Compare across authors](../compare/index.md?t=film-urban-legend_9877)
 
 ## TrueHD 5.1
 

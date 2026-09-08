@@ -7,7 +7,7 @@
 In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../../compare/?t=film-avatar-fire-and-ash_83533)
+[TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../compare/index.md?t=film-avatar-fire-and-ash_83533)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avatar/Avatar%20Fire%20and%20Ash%202025%20Atmos.jpg)

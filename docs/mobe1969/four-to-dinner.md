@@ -1,6 +1,6 @@
 # Four to Dinner
 
-[Compare across authors](../../compare/?t=film-four-to-dinner_832277)
+[Compare across authors](../compare/index.md?t=film-four-to-dinner_832277)
 
 ## DD+ 5.1
 

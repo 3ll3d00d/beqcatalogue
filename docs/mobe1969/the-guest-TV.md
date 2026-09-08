@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-guest_81822)
+[Compare across authors](../compare/index.md?t=TV-the-guest_81822)
 
 ## Season 1
 

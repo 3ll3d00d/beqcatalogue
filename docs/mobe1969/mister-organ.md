@@ -1,6 +1,6 @@
 # Mister Organ
 
-[Compare across authors](../../compare/?t=film-mister-organ_1013602)
+[Compare across authors](../compare/index.md?t=film-mister-organ_1013602)
 
 ## DTS-HD MA 5.1
 

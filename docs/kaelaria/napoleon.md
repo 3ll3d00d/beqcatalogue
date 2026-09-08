@@ -7,7 +7,7 @@
 An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/753342)  [Compare across authors](../../compare/?t=film-napoleon_753342)
+[TMDB](https://www.themoviedb.org/movie/753342)  [Compare across authors](../compare/index.md?t=film-napoleon_753342)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Napoleon%20(2023)%20DD%2B%20Atmos.jpg)

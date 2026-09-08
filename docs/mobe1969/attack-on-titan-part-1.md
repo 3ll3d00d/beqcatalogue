@@ -1,6 +1,6 @@
 # Attack on Titan Part 1
 
-[Compare across authors](../../compare/?t=film-attack-on-titan-part-1_295830)
+[Compare across authors](../compare/index.md?t=film-attack-on-titan-part-1_295830)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-swarm_220116)
+[Compare across authors](../compare/index.md?t=TV-swarm_220116)
 
 ## Season 1
 

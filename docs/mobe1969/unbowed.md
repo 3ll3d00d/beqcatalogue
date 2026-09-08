@@ -1,6 +1,6 @@
 # Unbowed
 
-[Compare across authors](../../compare/?t=film-unbowed_116323)
+[Compare across authors](../compare/index.md?t=film-unbowed_116323)
 
 ## DTS-HD MA 5.1
 

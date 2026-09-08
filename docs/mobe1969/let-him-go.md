@@ -1,6 +1,6 @@
 # Let Him Go
 
-[Compare across authors](../../compare/?t=film-let-him-go_596161)
+[Compare across authors](../compare/index.md?t=film-let-him-go_596161)
 
 ## DD+ 5.1
 

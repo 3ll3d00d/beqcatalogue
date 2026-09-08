@@ -1,6 +1,6 @@
 # Curve
 
-[Compare across authors](../../compare/?t=film-curve_347754)
+[Compare across authors](../compare/index.md?t=film-curve_347754)
 
 ## DD+ 5.1
 

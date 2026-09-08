@@ -9,7 +9,7 @@ In 1987 Oakland, a mysterious force guides The Town's underdogs in four intercon
 
 **MV Adjustment:** +3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1583?post_id=63965876#post-63965876)  [TMDB](https://www.themoviedb.org/movie/979660)  [Compare across authors](../../compare/?t=film-freaky-tales_979660)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1583?post_id=63965876#post-63965876)  [TMDB](https://www.themoviedb.org/movie/979660)  [Compare across authors](../compare/index.md?t=film-freaky-tales_979660)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Freaky%20Tales%20(2025)%20(%2B3.5%20gain)%20DD%2B.jpg)
@@ -25,7 +25,7 @@ In 1987 Oakland, a mysterious force guides The Town's underdogs in four intercon
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1597?post_id=64029719#post-64029719)  [TMDB](https://www.themoviedb.org/movie/979660)  [Compare across authors](../../compare/?t=film-freaky-tales_979660)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1597?post_id=64029719#post-64029719)  [TMDB](https://www.themoviedb.org/movie/979660)  [Compare across authors](../compare/index.md?t=film-freaky-tales_979660)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Freaky%20Tales%20(2025)%20(%2B7%20gain)%20TrueHD%207.1.jpg)

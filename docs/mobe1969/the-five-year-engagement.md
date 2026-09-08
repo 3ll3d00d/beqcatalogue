@@ -1,6 +1,6 @@
 # The Five-Year Engagement
 
-[Compare across authors](../../compare/?t=film-the-five-year-engagement_72207)
+[Compare across authors](../compare/index.md?t=film-the-five-year-engagement_72207)
 
 ## DTS-HD MA 5.1
 

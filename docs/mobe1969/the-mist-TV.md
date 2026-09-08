@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-mist_68315)
+[Compare across authors](../compare/index.md?t=TV-the-mist_68315)
 
 ## Season 1
 

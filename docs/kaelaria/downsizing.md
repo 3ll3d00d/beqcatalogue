@@ -7,7 +7,7 @@
 A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/301337)  [Compare across authors](../../compare/?t=film-downsizing_301337)
+[TMDB](https://www.themoviedb.org/movie/301337)  [Compare across authors](../compare/index.md?t=film-downsizing_301337)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Downsizing%20(2017)%20DTS-HD%20MA%207.1.jpg)

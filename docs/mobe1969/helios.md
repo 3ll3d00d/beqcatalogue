@@ -1,6 +1,6 @@
 # Helios
 
-[Compare across authors](../../compare/?t=film-helios_315509)
+[Compare across authors](../compare/index.md?t=film-helios_315509)
 
 ## Atmos, DD+ 5.1
 

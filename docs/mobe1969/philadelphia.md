@@ -1,6 +1,6 @@
 # Philadelphia
 
-[Compare across authors](../../compare/?t=film-philadelphia_9800)
+[Compare across authors](../compare/index.md?t=film-philadelphia_9800)
 
 ## Atmos
 

@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-girihaji_94659)
+[Compare across authors](../compare/index.md?t=TV-girihaji_94659)
 
 ## Season 1
 

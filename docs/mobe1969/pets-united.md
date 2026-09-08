@@ -1,6 +1,6 @@
 # Pets United
 
-[Compare across authors](../../compare/?t=film-pets-united_638134)
+[Compare across authors](../compare/index.md?t=film-pets-united_638134)
 
 ## DD+ 5.1
 

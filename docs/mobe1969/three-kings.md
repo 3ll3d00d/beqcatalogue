@@ -1,6 +1,6 @@
 # Three Kings
 
-[Compare across authors](../../compare/?t=film-three-kings_6415)
+[Compare across authors](../compare/index.md?t=film-three-kings_6415)
 
 ## DTS-HD MA 5.1
 

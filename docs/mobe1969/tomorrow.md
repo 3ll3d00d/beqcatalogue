@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-tomorrow_136369)
+[Compare across authors](../compare/index.md?t=TV-tomorrow_136369)
 
 ## Season 1
 

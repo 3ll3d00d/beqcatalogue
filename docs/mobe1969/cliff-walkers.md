@@ -1,6 +1,6 @@
 # Cliff Walkers
 
-[Compare across authors](../../compare/?t=film-cliff-walkers_639557)
+[Compare across authors](../compare/index.md?t=film-cliff-walkers_639557)
 
 ## Atmos
 

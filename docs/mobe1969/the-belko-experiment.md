@@ -1,6 +1,6 @@
 # The Belko Experiment
 
-[Compare across authors](../../compare/?t=film-the-belko-experiment_341006)
+[Compare across authors](../compare/index.md?t=film-the-belko-experiment_341006)
 
 ## DTS-HD MA 5.1
 

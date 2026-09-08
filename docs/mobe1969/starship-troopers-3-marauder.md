@@ -1,6 +1,6 @@
 # Starship Troopers 3: Marauder
 
-[Compare across authors](../../compare/?t=film-starship-troopers-3-marauder_11127)
+[Compare across authors](../compare/index.md?t=film-starship-troopers-3-marauder_11127)
 
 ## TrueHD 5.1
 

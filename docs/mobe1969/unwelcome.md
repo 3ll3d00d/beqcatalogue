@@ -1,6 +1,6 @@
 # Unwelcome
 
-[Compare across authors](../../compare/?t=film-unwelcome_758769)
+[Compare across authors](../compare/index.md?t=film-unwelcome_758769)
 
 ## DTS-HD MA 5.1
 

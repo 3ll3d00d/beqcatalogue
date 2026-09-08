@@ -1,6 +1,6 @@
 # Cut Throat City
 
-[Compare across authors](../../compare/?t=film-cut-throat-city_493065)
+[Compare across authors](../compare/index.md?t=film-cut-throat-city_493065)
 
 ## DTS-HD MA 5.1
 

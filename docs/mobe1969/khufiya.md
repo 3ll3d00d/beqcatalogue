@@ -1,6 +1,6 @@
 # Khufiya
 
-[Compare across authors](../../compare/?t=film-khufiya_878926)
+[Compare across authors](../compare/index.md?t=film-khufiya_878926)
 
 ## DD+ Atmos
 

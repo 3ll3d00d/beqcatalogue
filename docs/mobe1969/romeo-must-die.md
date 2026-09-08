@@ -1,6 +1,6 @@
 # Romeo Must Die
 
-[Compare across authors](../../compare/?t=film-romeo-must-die_2085)
+[Compare across authors](../compare/index.md?t=film-romeo-must-die_2085)
 
 ## DD+ 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-silent-sea_96777)
+[Compare across authors](../compare/index.md?t=TV-the-silent-sea_96777)
 
 ## Season 1
 

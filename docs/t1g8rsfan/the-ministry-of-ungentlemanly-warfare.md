@@ -12,7 +12,7 @@ During World War II, the British Army assigns a group of competent soldiers to c
 +5dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63383149/)  [TMDB](https://www.themoviedb.org/movie/799583)  [Compare across authors](../../compare/?t=film-the-ministry-of-ungentlemanly-warfare_799583)
+[Discuss](https://www.avsforum.com/posts/63383149/)  [TMDB](https://www.themoviedb.org/movie/799583)  [Compare across authors](../compare/index.md?t=film-the-ministry-of-ungentlemanly-warfare_799583)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Ministry%20of%20Ungentlemanly%20Warfare%20(2024)%20(%2B1.5%20gain)%20Atmos.jpg)

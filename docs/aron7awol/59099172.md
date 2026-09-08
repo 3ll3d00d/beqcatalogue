@@ -1,6 +1,6 @@
 # The Lighthouse
 
-[Compare across authors](../../compare/?t=film-the-lighthouse_503919)
+[Compare across authors](../compare/index.md?t=film-the-lighthouse_503919)
 
 ## DTS-HD MA 5.1
 

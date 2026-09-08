@@ -14,7 +14,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1589?post_id=63997247#post-63997247)
 
-* [Compare across authors](../../compare/?t=TV-andor_83867)
+* [Compare across authors](../compare/index.md?t=TV-andor_83867)
 
 * Production Year: 2022
 

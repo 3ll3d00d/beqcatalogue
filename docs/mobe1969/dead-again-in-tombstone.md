@@ -1,6 +1,6 @@
 # Dead Again in Tombstone
 
-[Compare across authors](../../compare/?t=film-dead-again-in-tombstone_473165)
+[Compare across authors](../compare/index.md?t=film-dead-again-in-tombstone_473165)
 
 ## DTS-HD MA 5.1
 

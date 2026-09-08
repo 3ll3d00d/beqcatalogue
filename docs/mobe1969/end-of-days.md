@@ -1,6 +1,6 @@
 # End of Days
 
-[Compare across authors](../../compare/?t=film-end-of-days_9946)
+[Compare across authors](../compare/index.md?t=film-end-of-days_9946)
 
 ## DTS-HD MA 5.1
 

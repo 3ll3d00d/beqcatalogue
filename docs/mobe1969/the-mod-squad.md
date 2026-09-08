@@ -1,6 +1,6 @@
 # The Mod Squad
 
-[Compare across authors](../../compare/?t=film-the-mod-squad_16379)
+[Compare across authors](../compare/index.md?t=film-the-mod-squad_16379)
 
 ## DD+ 5.1
 

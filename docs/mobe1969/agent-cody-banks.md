@@ -1,6 +1,6 @@
 # Agent Cody Banks
 
-[Compare across authors](../../compare/?t=film-agent-cody-banks_10923)
+[Compare across authors](../compare/index.md?t=film-agent-cody-banks_10923)
 
 ## DD+ 5.1
 

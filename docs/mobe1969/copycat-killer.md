@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-copycat-killer_158876)
+[Compare across authors](../compare/index.md?t=TV-copycat-killer_158876)
 
 ## Season 1
 

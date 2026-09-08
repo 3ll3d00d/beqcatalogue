@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-murderbot_241554)
+* [Compare across authors](../compare/index.md?t=TV-murderbot_241554)
 
 * Production Year: 2025
 

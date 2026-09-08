@@ -1,6 +1,6 @@
 # Kambakkht Ishq
 
-[Compare across authors](../../compare/?t=film-kambakkht-ishq_10788)
+[Compare across authors](../compare/index.md?t=film-kambakkht-ishq_10788)
 
 ## DTS-HD MA 5.1, DD 5.1
 

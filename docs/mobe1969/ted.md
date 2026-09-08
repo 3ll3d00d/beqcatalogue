@@ -1,6 +1,6 @@
 # Ted
 
-[Compare across authors](../../compare/?t=film-ted_72105)
+[Compare across authors](../compare/index.md?t=film-ted_72105)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-better-than-us_84380)
+[Compare across authors](../compare/index.md?t=TV-better-than-us_84380)
 
 ## Season 1
 

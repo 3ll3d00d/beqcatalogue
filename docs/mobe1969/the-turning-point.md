@@ -1,6 +1,6 @@
 # The Turning Point
 
-[Compare across authors](../../compare/?t=film-the-turning-point_828588)
+[Compare across authors](../compare/index.md?t=film-the-turning-point_828588)
 
 ## DD+ 5.1
 

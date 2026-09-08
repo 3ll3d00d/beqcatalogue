@@ -1,6 +1,6 @@
 # Lord of Illusions
 
-[Compare across authors](../../compare/?t=film-lord-of-illusions_8973)
+[Compare across authors](../compare/index.md?t=film-lord-of-illusions_8973)
 
 ## DTS-HD MA 5.1
 

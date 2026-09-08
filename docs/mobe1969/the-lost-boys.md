@@ -1,6 +1,6 @@
 # The Lost Boys
 
-[Compare across authors](../../compare/?t=film-the-lost-boys_1547)
+[Compare across authors](../compare/index.md?t=film-the-lost-boys_1547)
 
 ## DTS-HD MA 5.1, TrueHD 5.1
 

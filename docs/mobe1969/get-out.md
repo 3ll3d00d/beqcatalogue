@@ -1,6 +1,6 @@
 # Get Out
 
-[Compare across authors](../../compare/?t=film-get-out_419430)
+[Compare across authors](../compare/index.md?t=film-get-out_419430)
 
 ## DTS-X
 

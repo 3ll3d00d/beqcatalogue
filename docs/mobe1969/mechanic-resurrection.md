@@ -1,6 +1,6 @@
 # Mechanic: Resurrection
 
-[Compare across authors](../../compare/?t=film-mechanic-resurrection_278924)
+[Compare across authors](../compare/index.md?t=film-mechanic-resurrection_278924)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Insidious: The Red Door
 
-[Compare across authors](../../compare/?t=film-insidious-the-red-door_614479)
+[Compare across authors](../compare/index.md?t=film-insidious-the-red-door_614479)
 
 ## DD+ Atmos
 

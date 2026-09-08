@@ -1,6 +1,6 @@
 # The Coldest Game
 
-[Compare across authors](../../compare/?t=film-the-coldest-game_585759)
+[Compare across authors](../compare/index.md?t=film-the-coldest-game_585759)
 
 ## DD+ 5.1
 

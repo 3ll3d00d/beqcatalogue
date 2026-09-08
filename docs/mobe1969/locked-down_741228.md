@@ -1,6 +1,6 @@
 # Locked Down
 
-[Compare across authors](../../compare/?t=film-locked-down_741228)
+[Compare across authors](../compare/index.md?t=film-locked-down_741228)
 
 ## DD+ 5.1
 

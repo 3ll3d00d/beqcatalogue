@@ -1,6 +1,6 @@
 # The Death and Return of Superman
 
-[Compare across authors](../../compare/?t=film-the-death-and-return-of-superman_630656)
+[Compare across authors](../compare/index.md?t=film-the-death-and-return-of-superman_630656)
 
 ## DTS-HD MA 5.1
 

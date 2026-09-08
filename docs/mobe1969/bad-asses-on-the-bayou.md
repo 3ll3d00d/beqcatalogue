@@ -1,6 +1,6 @@
 # Bad Asses on the Bayou
 
-[Compare across authors](../../compare/?t=film-bad-asses-on-the-bayou_309887)
+[Compare across authors](../compare/index.md?t=film-bad-asses-on-the-bayou_309887)
 
 ## DD+ 5.1
 

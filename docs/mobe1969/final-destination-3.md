@@ -1,6 +1,6 @@
 # Final Destination 3
 
-[Compare across authors](../../compare/?t=film-final-destination-3_9286)
+[Compare across authors](../compare/index.md?t=film-final-destination-3_9286)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # A Hijacking
 
-[Compare across authors](../../compare/?t=film-a-hijacking_127846)
+[Compare across authors](../compare/index.md?t=film-a-hijacking_127846)
 
 ## DTS-HD MA 5.1
 

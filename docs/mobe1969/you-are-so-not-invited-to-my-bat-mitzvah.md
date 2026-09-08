@@ -1,6 +1,6 @@
 # You Are So Not Invited to My Bat Mitzvah
 
-[Compare across authors](../../compare/?t=film-you-are-so-not-invited-to-my-bat-mitzvah_999644)
+[Compare across authors](../compare/index.md?t=film-you-are-so-not-invited-to-my-bat-mitzvah_999644)
 
 ## DD+ Atmos
 

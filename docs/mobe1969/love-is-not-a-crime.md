@@ -1,6 +1,6 @@
 # Love is Not a Crime
 
-[Compare across authors](../../compare/?t=film-love-is-not-a-crime_79465)
+[Compare across authors](../compare/index.md?t=film-love-is-not-a-crime_79465)
 
 ## DTS-HD MA 5.1
 

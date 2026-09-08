@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-ozark_69740)
+[Compare across authors](../compare/index.md?t=TV-ozark_69740)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Darkman
 
-[Compare across authors](../../compare/?t=film-darkman_9556)
+[Compare across authors](../compare/index.md?t=film-darkman_9556)
 
 ## TrueHD 5.1
 

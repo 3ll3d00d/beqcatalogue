@@ -1,6 +1,6 @@
 # Vikram Vedha
 
-[Compare across authors](../../compare/?t=film-vikram-vedha_432139)
+[Compare across authors](../compare/index.md?t=film-vikram-vedha_432139)
 
 ## DD+ 5.1
 

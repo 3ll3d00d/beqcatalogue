@@ -1,6 +1,6 @@
 # Badmaash Company
 
-[Compare across authors](../../compare/?t=film-badmaash-company_37822)
+[Compare across authors](../compare/index.md?t=film-badmaash-company_37822)
 
 ## DD+ 5.1
 

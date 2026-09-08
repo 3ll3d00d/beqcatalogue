@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-rugal_97766)
+[Compare across authors](../compare/index.md?t=TV-rugal_97766)
 
 ## Season 1
 

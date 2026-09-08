@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ice_68735)
+[Compare across authors](../compare/index.md?t=TV-ice_68735)
 
 ## Season 1
 

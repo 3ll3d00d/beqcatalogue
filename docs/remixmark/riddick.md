@@ -11,7 +11,7 @@ Betrayed by his own kind and left for dead on a desolate planet, Riddick fights 
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1537?post_id=63696707#post-63696707)  [TMDB](https://www.themoviedb.org/movie/87421)  [Compare across authors](../../compare/?t=film-riddick_87421)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1537?post_id=63696707#post-63696707)  [TMDB](https://www.themoviedb.org/movie/87421)  [Compare across authors](../compare/index.md?t=film-riddick_87421)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Riddick%20(2013)%20(%2B1%20gain)%20DTS-HD%20MA%205.1%20UHD.jpg)

@@ -7,7 +7,7 @@
 Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/359410)  [Compare across authors](../../compare/?t=film-road-house_359410)
+[TMDB](https://www.themoviedb.org/movie/359410)  [Compare across authors](../compare/index.md?t=film-road-house_359410)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Road%20House%20(2024)%20DD%2B%205.1.jpg)

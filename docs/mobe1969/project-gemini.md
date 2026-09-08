@@ -1,6 +1,6 @@
 # Project Gemini
 
-[Compare across authors](../../compare/?t=film-project-gemini_575322)
+[Compare across authors](../compare/index.md?t=film-project-gemini_575322)
 
 ## DTS-HD MA 5.1
 

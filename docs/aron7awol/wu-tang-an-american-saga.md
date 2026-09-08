@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-wu-tang-an-american-saga_90870)
+[Compare across authors](../compare/index.md?t=TV-wu-tang-an-american-saga_90870)
 
 ## Season 1
 

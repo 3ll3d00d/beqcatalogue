@@ -1,6 +1,6 @@
 # Kung Fu Monster
 
-[Compare across authors](../../compare/?t=film-kung-fu-monster_569947)
+[Compare across authors](../compare/index.md?t=film-kung-fu-monster_569947)
 
 ## TrueHD 7.1
 

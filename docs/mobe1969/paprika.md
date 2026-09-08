@@ -1,6 +1,6 @@
 # Paprika
 
-[Compare across authors](../../compare/?t=film-paprika_4977)
+[Compare across authors](../compare/index.md?t=film-paprika_4977)
 
 ## DD+ 5.1
 

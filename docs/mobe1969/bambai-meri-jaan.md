@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-bambai-meri-jaan_202237)
+[Compare across authors](../compare/index.md?t=TV-bambai-meri-jaan_202237)
 
 ## Season 1
 

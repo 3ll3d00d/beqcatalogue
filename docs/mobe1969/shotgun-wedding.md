@@ -1,6 +1,6 @@
 # Shotgun Wedding
 
-[Compare across authors](../../compare/?t=film-shotgun-wedding_758009)
+[Compare across authors](../compare/index.md?t=film-shotgun-wedding_758009)
 
 ## Atmos
 

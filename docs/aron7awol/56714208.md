@@ -1,6 +1,6 @@
 # Ocean's Eight
 
-[Compare across authors](../../compare/?t=film-oceans-eight_402900)
+[Compare across authors](../compare/index.md?t=film-oceans-eight_402900)
 
 ## Atmos
 

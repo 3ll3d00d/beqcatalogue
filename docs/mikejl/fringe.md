@@ -7,7 +7,7 @@
 * DD 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-fringe_1705)
+* [Compare across authors](../compare/index.md?t=TV-fringe_1705)
 
 * Production Year: 2008
 
@@ -25,7 +25,7 @@
 No Drop-off to boost - BEQ Placeholder Only
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-fringe_1705)
+* [Compare across authors](../compare/index.md?t=TV-fringe_1705)
 
 * Production Year: 2008
 
@@ -40,7 +40,7 @@ No Drop-off to boost - BEQ Placeholder Only
 * DD 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-fringe_1705)
+* [Compare across authors](../compare/index.md?t=TV-fringe_1705)
 
 * Production Year: 2008
 
@@ -55,7 +55,7 @@ No Drop-off to boost - BEQ Placeholder Only
 * DD 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-fringe_1705)
+* [Compare across authors](../compare/index.md?t=TV-fringe_1705)
 
 * Production Year: 2008
 
@@ -70,7 +70,7 @@ No Drop-off to boost - BEQ Placeholder Only
 * DD 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-fringe_1705)
+* [Compare across authors](../compare/index.md?t=TV-fringe_1705)
 
 * Production Year: 2008
 

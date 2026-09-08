@@ -1,6 +1,6 @@
 # Extreme Job
 
-[Compare across authors](../../compare/?t=film-extreme-job_567646)
+[Compare across authors](../compare/index.md?t=film-extreme-job_567646)
 
 ## DTS-HD MA 5.1
 

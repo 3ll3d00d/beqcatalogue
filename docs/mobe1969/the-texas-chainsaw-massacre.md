@@ -1,6 +1,6 @@
 # The Texas Chainsaw Massacre
 
-[Compare across authors](../../compare/?t=film-the-texas-chainsaw-massacre_9373)
+[Compare across authors](../compare/index.md?t=film-the-texas-chainsaw-massacre_9373)
 
 ## TrueHD 5.1
 

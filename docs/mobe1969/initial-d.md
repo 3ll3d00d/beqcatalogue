@@ -1,6 +1,6 @@
 # Initial D
 
-[Compare across authors](../../compare/?t=film-initial-d_16411)
+[Compare across authors](../compare/index.md?t=film-initial-d_16411)
 
 ## LPCM 5.1
 

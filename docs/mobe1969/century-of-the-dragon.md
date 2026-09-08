@@ -1,6 +1,6 @@
 # Century of the Dragon
 
-[Compare across authors](../../compare/?t=film-century-of-the-dragon_274669)
+[Compare across authors](../compare/index.md?t=film-century-of-the-dragon_274669)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The White Tiger
 
-[Compare across authors](../../compare/?t=film-the-white-tiger_628534)
+[Compare across authors](../compare/index.md?t=film-the-white-tiger_628534)
 
 ## DD+ Atmos
 

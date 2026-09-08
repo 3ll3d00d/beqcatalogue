@@ -1,6 +1,6 @@
 # Outlaw King
 
-[Compare across authors](../../compare/?t=film-outlaw-king_454227)
+[Compare across authors](../compare/index.md?t=film-outlaw-king_454227)
 
 ## DD+ Atmos
 

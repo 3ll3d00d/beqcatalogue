@@ -12,7 +12,7 @@ Tom Lee discovers he is part of a long lineage of magical protectors known as th
 +6 Dialnorm Compensation​
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63131851)  [TMDB](https://www.themoviedb.org/movie/598387)  [Compare across authors](../../compare/?t=film-the-tigers-apprentice_598387)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63131851)  [TMDB](https://www.themoviedb.org/movie/598387)  [Compare across authors](../compare/index.md?t=film-the-tigers-apprentice_598387)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Tigers%20Apprentice%20(2024)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)

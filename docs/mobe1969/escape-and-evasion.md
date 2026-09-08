@@ -1,6 +1,6 @@
 # Escape and Evasion
 
-[Compare across authors](../../compare/?t=film-escape-and-evasion_520939)
+[Compare across authors](../compare/index.md?t=film-escape-and-evasion_520939)
 
 ## DD+ 5.1
 

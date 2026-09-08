@@ -1,6 +1,6 @@
 # Sunshine
 
-[Compare across authors](../../compare/?t=film-sunshine_1272)
+[Compare across authors](../compare/index.md?t=film-sunshine_1272)
 
 ## DTS-HD MA 5.1
 

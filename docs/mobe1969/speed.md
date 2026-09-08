@@ -1,6 +1,6 @@
 # Speed
 
-[Compare across authors](../../compare/?t=film-speed_1637)
+[Compare across authors](../compare/index.md?t=film-speed_1637)
 
 ## DTS-HD MA 5.1
 

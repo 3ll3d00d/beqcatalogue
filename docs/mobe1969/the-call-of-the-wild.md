@@ -1,6 +1,6 @@
 # The Call of the Wild
 
-[Compare across authors](../../compare/?t=film-the-call-of-the-wild_481848)
+[Compare across authors](../compare/index.md?t=film-the-call-of-the-wild_481848)
 
 ## Atmos
 

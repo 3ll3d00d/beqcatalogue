@@ -1,6 +1,6 @@
 # Kill Dil
 
-[Compare across authors](../../compare/?t=film-kill-dil_296690)
+[Compare across authors](../compare/index.md?t=film-kill-dil_296690)
 
 ## DD+ 5.1_to_mono
 

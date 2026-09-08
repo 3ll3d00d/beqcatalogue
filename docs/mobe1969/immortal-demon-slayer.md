@@ -1,6 +1,6 @@
 # Immortal Demon Slayer
 
-[Compare across authors](../../compare/?t=film-immortal-demon-slayer_452910)
+[Compare across authors](../compare/index.md?t=film-immortal-demon-slayer_452910)
 
 ## DTS-HD MA 5.1
 

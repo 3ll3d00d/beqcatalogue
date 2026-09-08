@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-vincenzo_117376)
+[Compare across authors](../compare/index.md?t=TV-vincenzo_117376)
 
 ## Season 1
 

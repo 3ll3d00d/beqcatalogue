@@ -12,7 +12,7 @@ An American actor in Tokyo struggles to find purpose until he lands an unusual g
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1700?post_id=64413725#post-64413725)  [TMDB](https://www.themoviedb.org/movie/1208348)  [Compare across authors](../../compare/?t=film-rental-family_1208348)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1700?post_id=64413725#post-64413725)  [TMDB](https://www.themoviedb.org/movie/1208348)  [Compare across authors](../compare/index.md?t=film-rental-family_1208348)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rental%20Family%20(2025)%20(%2B6.5%20gain)%20DD%2B%20Atmos.jpg)
@@ -31,7 +31,7 @@ An American actor in Tokyo struggles to find purpose until he lands an unusual g
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1208348)  [Compare across authors](../../compare/?t=film-rental-family_1208348)
+[TMDB](https://www.themoviedb.org/movie/1208348)  [Compare across authors](../compare/index.md?t=film-rental-family_1208348)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rental%20Family%20(2025)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1.jpg)

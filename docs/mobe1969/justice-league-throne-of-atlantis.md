@@ -1,6 +1,6 @@
 # Justice League: Throne of Atlantis
 
-[Compare across authors](../../compare/?t=film-justice-league-throne-of-atlantis_297556)
+[Compare across authors](../compare/index.md?t=film-justice-league-throne-of-atlantis_297556)
 
 ## DTS-HD MA 5.1
 

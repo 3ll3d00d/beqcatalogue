@@ -1,6 +1,6 @@
 # We Summon the Darkness
 
-[Compare across authors](../../compare/?t=film-we-summon-the-darkness_546724)
+[Compare across authors](../compare/index.md?t=film-we-summon-the-darkness_546724)
 
 ## TrueHD 5.1
 

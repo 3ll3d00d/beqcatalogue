@@ -1,6 +1,6 @@
 # Bulbbul
 
-[Compare across authors](../../compare/?t=film-bulbbul_714338)
+[Compare across authors](../compare/index.md?t=film-bulbbul_714338)
 
 ## DD+ 5.1
 

@@ -10,7 +10,7 @@ Due to sudden deteriorating weather conditions, visibility on the Airport Bridge
 ko
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/726139)  [Compare across authors](../../compare/?t=film-project-silence_726139)
+[TMDB](https://www.themoviedb.org/movie/726139)  [Compare across authors](../compare/index.md?t=film-project-silence_726139)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Talchul%20-%20Project%20Silence%20(2023)%20(ko)%20Atmos.jpg)

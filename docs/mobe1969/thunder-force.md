@@ -1,6 +1,6 @@
 # Thunder Force
 
-[Compare across authors](../../compare/?t=film-thunder-force_615678)
+[Compare across authors](../compare/index.md?t=film-thunder-force_615678)
 
 ## DD+ 5.1
 

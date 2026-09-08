@@ -1,6 +1,6 @@
 # Bedazzled
 
-[Compare across authors](../../compare/?t=film-bedazzled_1636)
+[Compare across authors](../compare/index.md?t=film-bedazzled_1636)
 
 ## DD+ 5.1
 

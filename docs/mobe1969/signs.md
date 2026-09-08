@@ -1,6 +1,6 @@
 # Signs
 
-[Compare across authors](../../compare/?t=film-signs_2675)
+[Compare across authors](../compare/index.md?t=film-signs_2675)
 
 ## DTS-HD MA 5.1, LPCM 5.1
 

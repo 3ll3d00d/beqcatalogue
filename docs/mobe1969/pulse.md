@@ -1,6 +1,6 @@
 # Pulse
 
-[Compare across authors](../../compare/?t=film-pulse_27324)
+[Compare across authors](../compare/index.md?t=film-pulse_27324)
 
 ## DD 5.1
 

@@ -1,6 +1,6 @@
 # Bridge to Terabithia
 
-[Compare across authors](../../compare/?t=film-bridge-to-terabithia_1265)
+[Compare across authors](../compare/index.md?t=film-bridge-to-terabithia_1265)
 
 ## LPCM 5.1
 

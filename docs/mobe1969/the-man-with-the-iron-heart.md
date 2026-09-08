@@ -1,6 +1,6 @@
 # The Man with the Iron Heart
 
-[Compare across authors](../../compare/?t=film-the-man-with-the-iron-heart_339259)
+[Compare across authors](../compare/index.md?t=film-the-man-with-the-iron-heart_339259)
 
 ## DTS-HD MA 5.1
 

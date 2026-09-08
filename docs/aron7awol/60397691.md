@@ -1,6 +1,6 @@
 # Desperado
 
-[Compare across authors](../../compare/?t=film-desperado_8068)
+[Compare across authors](../compare/index.md?t=film-desperado_8068)
 
 ## DTS-HD MA 5.1
 

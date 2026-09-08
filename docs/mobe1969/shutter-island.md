@@ -1,6 +1,6 @@
 # Shutter Island
 
-[Compare across authors](../../compare/?t=film-shutter-island_11324)
+[Compare across authors](../compare/index.md?t=film-shutter-island_11324)
 
 ## DTS-HD MA 5.1
 

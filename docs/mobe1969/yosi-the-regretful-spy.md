@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-yosi-the-regretful-spy_155646)
+[Compare across authors](../compare/index.md?t=TV-yosi-the-regretful-spy_155646)
 
 ## Season 1
 

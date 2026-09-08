@@ -1,6 +1,6 @@
 # Teenage Mutant Ninja Turtles: Out of the Shadows
 
-[Compare across authors](../../compare/?t=film-teenage-mutant-ninja-turtles-out-of-the-shadows_308531)
+[Compare across authors](../compare/index.md?t=film-teenage-mutant-ninja-turtles-out-of-the-shadows_308531)
 
 ## Atmos
 

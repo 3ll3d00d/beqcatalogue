@@ -1,6 +1,6 @@
 # Venom: Let There Be Carnage
 
-[Compare across authors](../../compare/?t=film-venom-let-there-be-carnage_580489)
+[Compare across authors](../compare/index.md?t=film-venom-let-there-be-carnage_580489)
 
 ## Atmos
 

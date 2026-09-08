@@ -1,6 +1,6 @@
 # IRIS: The Movie
 
-[Compare across authors](../../compare/?t=film-iris-the-movie_53656)
+[Compare across authors](../compare/index.md?t=film-iris-the-movie_53656)
 
 ## DTS-HD MA 5.1
 

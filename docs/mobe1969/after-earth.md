@@ -1,6 +1,6 @@
 # After Earth
 
-[Compare across authors](../../compare/?t=film-after-earth_82700)
+[Compare across authors](../compare/index.md?t=film-after-earth_82700)
 
 ## DTS-HD MA 5.1
 

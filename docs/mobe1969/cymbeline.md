@@ -1,6 +1,6 @@
 # Cymbeline
 
-[Compare across authors](../../compare/?t=film-cymbeline_240745)
+[Compare across authors](../compare/index.md?t=film-cymbeline_240745)
 
 ## DTS-HD MA 5.1
 

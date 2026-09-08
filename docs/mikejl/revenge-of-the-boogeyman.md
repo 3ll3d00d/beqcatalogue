@@ -7,7 +7,7 @@
 A group of friends take their recently sober friend, to the remote Hills to help him stay clean. But when eerie events unfold and people start disappearing, they must question whether it's the Boogeyman or their own unraveling minds.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1446474)  [Compare across authors](../../compare/?t=film-revenge-of-the-boogeyman_1446474)
+[TMDB](https://www.themoviedb.org/movie/1446474)  [Compare across authors](../compare/index.md?t=film-revenge-of-the-boogeyman_1446474)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Revenge%20of%20the%20Boogeyman/Revenge%20of%20the%20Boogeyman%20(2025)%20DD%2B%205.1.jpg)

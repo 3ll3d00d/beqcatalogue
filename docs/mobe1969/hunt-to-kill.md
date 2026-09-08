@@ -1,6 +1,6 @@
 # Hunt to Kill
 
-[Compare across authors](../../compare/?t=film-hunt-to-kill_46713)
+[Compare across authors](../compare/index.md?t=film-hunt-to-kill_46713)
 
 ## TrueHD 5.1
 

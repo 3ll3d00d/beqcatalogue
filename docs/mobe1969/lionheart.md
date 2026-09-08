@@ -1,6 +1,6 @@
 # Lionheart
 
-[Compare across authors](../../compare/?t=film-lionheart_9399)
+[Compare across authors](../compare/index.md?t=film-lionheart_9399)
 
 ## DD+ 2.0
 

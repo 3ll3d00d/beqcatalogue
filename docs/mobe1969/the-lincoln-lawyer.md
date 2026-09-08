@@ -1,6 +1,6 @@
 # The Lincoln Lawyer
 
-[Compare across authors](../../compare/?t=film-the-lincoln-lawyer_50348)
+[Compare across authors](../compare/index.md?t=film-the-lincoln-lawyer_50348)
 
 ## Atmos
 

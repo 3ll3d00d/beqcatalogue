@@ -1,6 +1,6 @@
 # The Mask of Zorro
 
-[Compare across authors](../../compare/?t=film-the-mask-of-zorro_9342)
+[Compare across authors](../compare/index.md?t=film-the-mask-of-zorro_9342)
 
 ## Atmos
 

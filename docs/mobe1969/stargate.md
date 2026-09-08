@@ -1,6 +1,6 @@
 # Stargate
 
-[Compare across authors](../../compare/?t=film-stargate_2164)
+[Compare across authors](../compare/index.md?t=film-stargate_2164)
 
 ## DD+ 5.1
 

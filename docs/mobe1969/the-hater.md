@@ -1,6 +1,6 @@
 # The Hater
 
-[Compare across authors](../../compare/?t=film-the-hater_590854)
+[Compare across authors](../compare/index.md?t=film-the-hater_590854)
 
 ## DD+ 5.1
 

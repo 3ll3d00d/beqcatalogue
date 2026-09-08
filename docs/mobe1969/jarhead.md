@@ -1,6 +1,6 @@
 # Jarhead
 
-[Compare across authors](../../compare/?t=film-jarhead_25)
+[Compare across authors](../compare/index.md?t=film-jarhead_25)
 
 ## DTS-HD MA 5.1
 

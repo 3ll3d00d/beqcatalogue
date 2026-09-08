@@ -1,6 +1,6 @@
 # King Kong
 
-[Compare across authors](../../compare/?t=film-king-kong_10730)
+[Compare across authors](../compare/index.md?t=film-king-kong_10730)
 
 ## DTS-HD MA 5.1
 

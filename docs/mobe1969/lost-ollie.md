@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-lost-ollie_156935)
+[Compare across authors](../compare/index.md?t=TV-lost-ollie_156935)
 
 ## Season 1
 

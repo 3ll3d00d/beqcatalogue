@@ -1,6 +1,6 @@
 # Army of the Dead
 
-[Compare across authors](../../compare/?t=film-army-of-the-dead_503736)
+[Compare across authors](../compare/index.md?t=film-army-of-the-dead_503736)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Crater
 
-[Compare across authors](../../compare/?t=film-crater_620705)
+[Compare across authors](../compare/index.md?t=film-crater_620705)
 
 ## DD+ Atmos
 

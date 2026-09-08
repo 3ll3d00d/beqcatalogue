@@ -1,6 +1,6 @@
 # Poongsan
 
-[Compare across authors](../../compare/?t=film-poongsan_75004)
+[Compare across authors](../compare/index.md?t=film-poongsan_75004)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Night of the Living Dead
 
-[Compare across authors](../../compare/?t=film-night-of-the-living-dead_19185)
+[Compare across authors](../compare/index.md?t=film-night-of-the-living-dead_19185)
 
 ## DTS-HD MA 5.1
 

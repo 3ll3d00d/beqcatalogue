@@ -1,6 +1,6 @@
 # Apt Pupil
 
-[Compare across authors](../../compare/?t=film-apt-pupil_9445)
+[Compare across authors](../compare/index.md?t=film-apt-pupil_9445)
 
 ## DTS-HD MA 2.0
 

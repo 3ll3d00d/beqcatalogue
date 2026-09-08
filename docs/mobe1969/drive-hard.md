@@ -1,6 +1,6 @@
 # Drive Hard
 
-[Compare across authors](../../compare/?t=film-drive-hard_256092)
+[Compare across authors](../compare/index.md?t=film-drive-hard_256092)
 
 ## DTS-HD MA 5.1
 

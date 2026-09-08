@@ -1,6 +1,6 @@
 # Wu Dang
 
-[Compare across authors](../../compare/?t=film-wu-dang_120713)
+[Compare across authors](../compare/index.md?t=film-wu-dang_120713)
 
 ## DTS-HD MA 5.1
 

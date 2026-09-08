@@ -1,6 +1,6 @@
 # The Illusionist
 
-[Compare across authors](../../compare/?t=film-the-illusionist_1491)
+[Compare across authors](../compare/index.md?t=film-the-illusionist_1491)
 
 ## DTS-HD MA 5.1
 

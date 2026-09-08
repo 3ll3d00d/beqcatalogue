@@ -1,6 +1,6 @@
 # SDU: Sex Duties Unit
 
-[Compare across authors](../../compare/?t=film-sdu-sex-duties-unit_210498)
+[Compare across authors](../compare/index.md?t=film-sdu-sex-duties-unit_210498)
 
 ## DD+ 2.0
 

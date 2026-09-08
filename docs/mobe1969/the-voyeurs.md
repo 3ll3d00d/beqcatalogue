@@ -1,6 +1,6 @@
 # The Voyeurs
 
-[Compare across authors](../../compare/?t=film-the-voyeurs_645710)
+[Compare across authors](../compare/index.md?t=film-the-voyeurs_645710)
 
 ## DD+ 5.1
 

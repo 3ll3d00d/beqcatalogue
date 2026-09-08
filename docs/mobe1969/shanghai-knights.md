@@ -1,6 +1,6 @@
 # Shanghai Knights
 
-[Compare across authors](../../compare/?t=film-shanghai-knights_6038)
+[Compare across authors](../compare/index.md?t=film-shanghai-knights_6038)
 
 ## DD 5.1
 

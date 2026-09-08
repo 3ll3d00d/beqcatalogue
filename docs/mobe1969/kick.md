@@ -1,6 +1,6 @@
 # Kick
 
-[Compare across authors](../../compare/?t=film-kick_280690)
+[Compare across authors](../compare/index.md?t=film-kick_280690)
 
 ## DTS-HD MA 5.1
 

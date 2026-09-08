@@ -1,6 +1,6 @@
 # Super Typhoon
 
-[Compare across authors](../../compare/?t=film-super-typhoon_84163)
+[Compare across authors](../compare/index.md?t=film-super-typhoon_84163)
 
 ## DTS-HD MA 2.0
 

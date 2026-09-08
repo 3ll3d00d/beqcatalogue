@@ -1,6 +1,6 @@
 # The Contract
 
-[Compare across authors](../../compare/?t=film-the-contract_1441)
+[Compare across authors](../compare/index.md?t=film-the-contract_1441)
 
 ## DD+ 5.1
 

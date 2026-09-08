@@ -9,7 +9,7 @@ In 1988, young sisters Katie and Kristi befriend an invisible entity who resides
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1640?post_id=64176703#post-64176703)  [TMDB](https://www.themoviedb.org/movie/72571)  [Compare across authors](../../compare/?t=film-paranormal-activity-3_72571)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1640?post_id=64176703#post-64176703)  [TMDB](https://www.themoviedb.org/movie/72571)  [Compare across authors](../compare/index.md?t=film-paranormal-activity-3_72571)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Paranormal%20Activity%203%20(2011)%20(%2B5%20gain)%20DTS-HD%20MA%205.1.jpg)

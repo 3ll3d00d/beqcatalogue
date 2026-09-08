@@ -1,6 +1,6 @@
 # Kiss the Girls
 
-[Compare across authors](../../compare/?t=film-kiss-the-girls_9437)
+[Compare across authors](../compare/index.md?t=film-kiss-the-girls_9437)
 
 ## DTS-HD MA 5.1
 

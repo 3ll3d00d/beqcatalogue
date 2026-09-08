@@ -1,6 +1,6 @@
 # Freddy's Dead: The Final Nightmare
 
-[Compare across authors](../../compare/?t=film-freddys-dead-the-final-nightmare_11284)
+[Compare across authors](../compare/index.md?t=film-freddys-dead-the-final-nightmare_11284)
 
 ## DTS-HD MA 5.1
 

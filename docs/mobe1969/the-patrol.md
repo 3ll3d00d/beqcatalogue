@@ -1,6 +1,6 @@
 # The Patrol
 
-[Compare across authors](../../compare/?t=film-the-patrol_239845)
+[Compare across authors](../compare/index.md?t=film-the-patrol_239845)
 
 ## DTS-HD MA 5.1
 

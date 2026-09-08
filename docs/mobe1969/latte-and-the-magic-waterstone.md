@@ -1,6 +1,6 @@
 # Latte and the Magic Waterstone
 
-[Compare across authors](../../compare/?t=film-latte-and-the-magic-waterstone_586954)
+[Compare across authors](../compare/index.md?t=film-latte-and-the-magic-waterstone_586954)
 
 ## DD+ 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-new-bandits_137883)
+[Compare across authors](../compare/index.md?t=TV-new-bandits_137883)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Rush Hour 2
 
-[Compare across authors](../../compare/?t=film-rush-hour-2_5175)
+[Compare across authors](../compare/index.md?t=film-rush-hour-2_5175)
 
 ## DTS-HD MA 5.1
 

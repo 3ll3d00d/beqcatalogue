@@ -1,6 +1,6 @@
 # Kate
 
-[Compare across authors](../../compare/?t=film-kate_597891)
+[Compare across authors](../compare/index.md?t=film-kate_597891)
 
 ## DD+ Atmos
 

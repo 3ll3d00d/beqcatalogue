@@ -7,7 +7,7 @@
 A family's suburban home is invaded by angry spirits. When the terrifying apparitions escalate their attacks and take the youngest daughter, the family must come together to rescue her.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/243688)  [Compare across authors](../../compare/?t=film-poltergeist_243688)
+[TMDB](https://www.themoviedb.org/movie/243688)  [Compare across authors](../compare/index.md?t=film-poltergeist_243688)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Poltergeist/Poltergeist%20(2015)%202K%20DD%2B%2051.jpg)

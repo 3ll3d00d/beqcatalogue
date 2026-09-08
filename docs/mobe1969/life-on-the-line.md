@@ -1,6 +1,6 @@
 # Life on the Line
 
-[Compare across authors](../../compare/?t=film-life-on-the-line_398289)
+[Compare across authors](../compare/index.md?t=film-life-on-the-line_398289)
 
 ## DTS-HD MA 5.1
 

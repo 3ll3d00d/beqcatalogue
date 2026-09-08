@@ -1,6 +1,6 @@
 # Shinjuku Incident
 
-[Compare across authors](../../compare/?t=film-shinjuku-incident_20083)
+[Compare across authors](../compare/index.md?t=film-shinjuku-incident_20083)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

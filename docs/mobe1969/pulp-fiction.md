@@ -1,6 +1,6 @@
 # Pulp Fiction
 
-[Compare across authors](../../compare/?t=film-pulp-fiction_680)
+[Compare across authors](../compare/index.md?t=film-pulp-fiction_680)
 
 ## DTS-HD MA 5.1
 

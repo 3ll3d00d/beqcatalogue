@@ -1,6 +1,6 @@
 # Reindeer Games
 
-[Compare across authors](../../compare/?t=film-reindeer-games_2155)
+[Compare across authors](../compare/index.md?t=film-reindeer-games_2155)
 
 ## DTS-HD MA 5.1
 

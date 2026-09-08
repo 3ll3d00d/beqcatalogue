@@ -1,6 +1,6 @@
 # Sinister 2
 
-[Compare across authors](../../compare/?t=film-sinister-2_283445)
+[Compare across authors](../compare/index.md?t=film-sinister-2_283445)
 
 ## DTS-HD MA 5.1
 

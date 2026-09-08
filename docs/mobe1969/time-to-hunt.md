@@ -1,6 +1,6 @@
 # Time to Hunt
 
-[Compare across authors](../../compare/?t=film-time-to-hunt_571785)
+[Compare across authors](../compare/index.md?t=film-time-to-hunt_571785)
 
 ## DD+ 5.1
 

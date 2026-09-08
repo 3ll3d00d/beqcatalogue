@@ -1,6 +1,6 @@
 # We Are Legends
 
-[Compare across authors](../../compare/?t=film-we-are-legends_589677)
+[Compare across authors](../compare/index.md?t=film-we-are-legends_589677)
 
 ## DD+ 5.1
 

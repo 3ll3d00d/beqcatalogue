@@ -1,6 +1,6 @@
 # Run
 
-[Compare across authors](../../compare/?t=film-run_546121)
+[Compare across authors](../compare/index.md?t=film-run_546121)
 
 ## DD+ 5.1
 

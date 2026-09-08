@@ -1,6 +1,6 @@
 # Blades of Glory
 
-[Compare across authors](../../compare/?t=film-blades-of-glory_9955)
+[Compare across authors](../compare/index.md?t=film-blades-of-glory_9955)
 
 ## LPCM 5.1
 

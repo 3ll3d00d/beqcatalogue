@@ -1,6 +1,6 @@
 # Wine Country
 
-[Compare across authors](../../compare/?t=film-wine-country_513083)
+[Compare across authors](../compare/index.md?t=film-wine-country_513083)
 
 ## DD+ 5.1
 

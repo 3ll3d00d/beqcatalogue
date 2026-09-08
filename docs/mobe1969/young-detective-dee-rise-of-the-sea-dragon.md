@@ -1,6 +1,6 @@
 # Young Detective Dee: Rise of the Sea Dragon
 
-[Compare across authors](../../compare/?t=film-young-detective-dee-rise-of-the-sea-dragon_217923)
+[Compare across authors](../compare/index.md?t=film-young-detective-dee-rise-of-the-sea-dragon_217923)
 
 ## DTS-HD MA 7.1, DTS 5.1
 

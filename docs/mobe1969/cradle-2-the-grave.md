@@ -1,6 +1,6 @@
 # Cradle 2 the Grave
 
-[Compare across authors](../../compare/?t=film-cradle-2-the-grave_10623)
+[Compare across authors](../compare/index.md?t=film-cradle-2-the-grave_10623)
 
 ## DD+ 5.1
 

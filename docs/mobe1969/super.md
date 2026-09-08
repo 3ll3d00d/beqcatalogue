@@ -1,6 +1,6 @@
 # Super
 
-[Compare across authors](../../compare/?t=film-super_45132)
+[Compare across authors](../compare/index.md?t=film-super_45132)
 
 ## DTS-HD MA 5.1
 

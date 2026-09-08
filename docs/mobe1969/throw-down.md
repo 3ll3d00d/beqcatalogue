@@ -1,6 +1,6 @@
 # Throw Down
 
-[Compare across authors](../../compare/?t=film-throw-down_25664)
+[Compare across authors](../compare/index.md?t=film-throw-down_25664)
 
 ## DTS-HD MA 5.1
 

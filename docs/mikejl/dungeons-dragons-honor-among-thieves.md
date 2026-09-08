@@ -7,7 +7,7 @@
 A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/493529)  [Compare across authors](../../compare/?t=film-dungeons-dragons-honor-among-thieves_493529)
+[TMDB](https://www.themoviedb.org/movie/493529)  [Compare across authors](../compare/index.md?t=film-dungeons-dragons-honor-among-thieves_493529)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dungeons%20and%20Dragons%20-%20Honor%20Among%20Thieves/Dungeons%20and%20Dragons%20-%20Honor%20Among%20Thieves%20(2023)%20Atmos.jpg)

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-life-on-our-planet_213609)
+[Compare across authors](../compare/index.md?t=TV-life-on-our-planet_213609)
 
 ## Season 1
 

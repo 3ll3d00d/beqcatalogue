@@ -1,6 +1,6 @@
 # Hart's War
 
-[Compare across authors](../../compare/?t=film-harts-war_10592)
+[Compare across authors](../compare/index.md?t=film-harts-war_10592)
 
 ## DTS-HD MA 5.1
 

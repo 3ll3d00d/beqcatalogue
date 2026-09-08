@@ -1,6 +1,6 @@
 # The Reef
 
-[Compare across authors](../../compare/?t=film-the-reef_49787)
+[Compare across authors](../compare/index.md?t=film-the-reef_49787)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Star Trek: The Motion Picture
 
-[Compare across authors](../../compare/?t=film-star-trek-the-motion-picture_152)
+[Compare across authors](../compare/index.md?t=film-star-trek-the-motion-picture_152)
 
 ## Atmos
 

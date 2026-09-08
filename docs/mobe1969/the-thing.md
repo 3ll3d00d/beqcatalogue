@@ -1,6 +1,6 @@
 # The Thing
 
-[Compare across authors](../../compare/?t=film-the-thing_1091)
+[Compare across authors](../compare/index.md?t=film-the-thing_1091)
 
 ## DTS-HD MA 4.1
 

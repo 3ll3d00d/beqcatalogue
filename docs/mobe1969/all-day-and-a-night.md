@@ -1,6 +1,6 @@
 # All Day and a Night
 
-[Compare across authors](../../compare/?t=film-all-day-and-a-night_530956)
+[Compare across authors](../compare/index.md?t=film-all-day-and-a-night_530956)
 
 ## DD+ Atmos, DD+ 5.1
 

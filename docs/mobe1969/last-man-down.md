@@ -1,6 +1,6 @@
 # Last Man Down
 
-[Compare across authors](../../compare/?t=film-last-man-down_860623)
+[Compare across authors](../compare/index.md?t=film-last-man-down_860623)
 
 ## DD+ 5.1
 

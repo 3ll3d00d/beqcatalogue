@@ -1,6 +1,6 @@
 # The Cat's Meow
 
-[Compare across authors](../../compare/?t=film-the-cats-meow_35080)
+[Compare across authors](../compare/index.md?t=film-the-cats-meow_35080)
 
 ## DTS-HD MA 2.0
 

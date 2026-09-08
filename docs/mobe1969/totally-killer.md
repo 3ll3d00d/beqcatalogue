@@ -1,6 +1,6 @@
 # Totally Killer
 
-[Compare across authors](../../compare/?t=film-totally-killer_974931)
+[Compare across authors](../compare/index.md?t=film-totally-killer_974931)
 
 ## DD+ 5.1
 

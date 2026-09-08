@@ -1,6 +1,6 @@
 # Rec
 
-[Compare across authors](../../compare/?t=film-rec_8329)
+[Compare across authors](../compare/index.md?t=film-rec_8329)
 
 ## DTS-HD MA 5.1
 

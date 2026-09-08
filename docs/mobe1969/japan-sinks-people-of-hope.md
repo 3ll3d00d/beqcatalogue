@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-japan-sinks-people-of-hope_135144)
+[Compare across authors](../compare/index.md?t=TV-japan-sinks-people-of-hope_135144)
 
 ## Season 1
 

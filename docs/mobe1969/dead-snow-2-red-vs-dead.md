@@ -1,6 +1,6 @@
 # Dead Snow 2: Red vs. Dead
 
-[Compare across authors](../../compare/?t=film-dead-snow-2-red-vs-dead_241842)
+[Compare across authors](../compare/index.md?t=film-dead-snow-2-red-vs-dead_241842)
 
 ## DD 5.1
 

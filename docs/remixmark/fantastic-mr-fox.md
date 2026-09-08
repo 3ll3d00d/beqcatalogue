@@ -11,7 +11,7 @@ The Fantastic Mr. Fox, bored with his current life, plans a heist against the th
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1648?post_id=64214131#post-64214131)  [TMDB](https://www.themoviedb.org/movie/10315)  [Compare across authors](../../compare/?t=film-fantastic-mr-fox_10315)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1648?post_id=64214131#post-64214131)  [TMDB](https://www.themoviedb.org/movie/10315)  [Compare across authors](../compare/index.md?t=film-fantastic-mr-fox_10315)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Fantastic%20Mr.%20Fox%20(2009)%20DTS-HD%20MA%205.1.jpg)

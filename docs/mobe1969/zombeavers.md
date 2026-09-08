@@ -1,6 +1,6 @@
 # Zombeavers
 
-[Compare across authors](../../compare/?t=film-zombeavers_254474)
+[Compare across authors](../compare/index.md?t=film-zombeavers_254474)
 
 ## DTS-HD MA 5.1
 

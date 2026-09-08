@@ -1,6 +1,6 @@
 # Oculus
 
-[Compare across authors](../../compare/?t=film-oculus_157547)
+[Compare across authors](../compare/index.md?t=film-oculus_157547)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # R.A.I.D. Special Unit
 
-[Compare across authors](../../compare/?t=film-raid-special-unit_382597)
+[Compare across authors](../compare/index.md?t=film-raid-special-unit_382597)
 
 ## DD+ 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-extracurricular_90814)
+[Compare across authors](../compare/index.md?t=TV-extracurricular_90814)
 
 ## Season 1
 

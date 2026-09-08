@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-ju-on-origins_103445)
+[Compare across authors](../compare/index.md?t=TV-ju-on-origins_103445)
 
 ## Season 1
 

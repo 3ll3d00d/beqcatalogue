@@ -1,6 +1,6 @@
 # They Live
 
-[Compare across authors](../../compare/?t=film-they-live_8337)
+[Compare across authors](../compare/index.md?t=film-they-live_8337)
 
 ## Atmos
 

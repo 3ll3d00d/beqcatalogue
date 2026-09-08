@@ -1,6 +1,6 @@
 # Superman: Red Son
 
-[Compare across authors](../../compare/?t=film-superman-red-son_618355)
+[Compare across authors](../compare/index.md?t=film-superman-red-son_618355)
 
 ## DTS-HD MA 5.1
 

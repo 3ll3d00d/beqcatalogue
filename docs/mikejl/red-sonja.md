@@ -7,7 +7,7 @@
 A young girl rises from the ashes of tragedy to become the most feared warrior woman of all time: the She-Devil with a Sword.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/13494)  [Compare across authors](../../compare/?t=film-red-sonja_13494)
+[TMDB](https://www.themoviedb.org/movie/13494)  [Compare across authors](../compare/index.md?t=film-red-sonja_13494)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Red%20Sonja/Red%20Sonja%20(2025)%20DTS-HD%20MA%205.1.jpg)

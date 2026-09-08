@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-nightmares-of-nature_298682)
+* [Compare across authors](../compare/index.md?t=TV-nightmares-of-nature_298682)
 
 * Production Year: 2025
 

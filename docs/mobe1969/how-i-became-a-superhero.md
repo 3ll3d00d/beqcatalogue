@@ -1,6 +1,6 @@
 # How I Became a Superhero
 
-[Compare across authors](../../compare/?t=film-how-i-became-a-superhero_641501)
+[Compare across authors](../compare/index.md?t=film-how-i-became-a-superhero_641501)
 
 ## DD+ Atmos, DD+ 5.1
 

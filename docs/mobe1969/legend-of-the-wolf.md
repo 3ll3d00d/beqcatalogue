@@ -1,6 +1,6 @@
 # Legend Of The Wolf
 
-[Compare across authors](../../compare/?t=film-legend-of-the-wolf_33537)
+[Compare across authors](../compare/index.md?t=film-legend-of-the-wolf_33537)
 
 ## LPCM 2.0
 

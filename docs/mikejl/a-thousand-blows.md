@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-a-thousand-blows_208851)
+* [Compare across authors](../compare/index.md?t=TV-a-thousand-blows_208851)
 
 * Production Year: 2025
 

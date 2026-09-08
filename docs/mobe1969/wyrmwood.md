@@ -1,6 +1,6 @@
 # Wyrmwood
 
-[Compare across authors](../../compare/?t=film-wyrmwood_290999)
+[Compare across authors](../compare/index.md?t=film-wyrmwood_290999)
 
 ## DTS-HD MA 7.1
 

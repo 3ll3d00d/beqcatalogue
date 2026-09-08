@@ -7,7 +7,7 @@
 A warrior-assassin is forced to hide in a small town in the American Badlands after refusing a mission.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/46528)  [Compare across authors](../../compare/?t=film-the-warriors-way_46528)
+[TMDB](https://www.themoviedb.org/movie/46528)  [Compare across authors](../compare/index.md?t=film-the-warriors-way_46528)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Warrior's%20Way/The%20Warrior's%20Way%20(2010)%20DTS-HD%20MA%205.1.jpg)

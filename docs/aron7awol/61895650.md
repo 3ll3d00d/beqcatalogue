@@ -1,6 +1,6 @@
 # Day Shift
 
-[Compare across authors](../../compare/?t=film-day-shift_755566)
+[Compare across authors](../compare/index.md?t=film-day-shift_755566)
 
 ## DD+ Atmos
 

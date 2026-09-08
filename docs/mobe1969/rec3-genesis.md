@@ -1,6 +1,6 @@
 # [REC]³ Genesis
 
-[Compare across authors](../../compare/?t=film-rec3-genesis_80280)
+[Compare across authors](../compare/index.md?t=film-rec3-genesis_80280)
 
 ## DTS-HD MA 5.1
 

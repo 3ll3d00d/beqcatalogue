@@ -1,6 +1,6 @@
 # Musudan
 
-[Compare across authors](../../compare/?t=film-musudan_387845)
+[Compare across authors](../compare/index.md?t=film-musudan_387845)
 
 ## DD 2.0
 

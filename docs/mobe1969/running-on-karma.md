@@ -1,6 +1,6 @@
 # Running on Karma
 
-[Compare across authors](../../compare/?t=film-running-on-karma_32233)
+[Compare across authors](../compare/index.md?t=film-running-on-karma_32233)
 
 ## TrueHD 7.1
 

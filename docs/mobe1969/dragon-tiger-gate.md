@@ -1,6 +1,6 @@
 # Dragon Tiger Gate
 
-[Compare across authors](../../compare/?t=film-dragon-tiger-gate_15860)
+[Compare across authors](../compare/index.md?t=film-dragon-tiger-gate_15860)
 
 ## DTS-HD MA 7.1
 

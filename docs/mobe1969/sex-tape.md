@@ -1,6 +1,6 @@
 # Sex Tape
 
-[Compare across authors](../../compare/?t=film-sex-tape_225886)
+[Compare across authors](../compare/index.md?t=film-sex-tape_225886)
 
 ## DTS-HD MA 5.1
 

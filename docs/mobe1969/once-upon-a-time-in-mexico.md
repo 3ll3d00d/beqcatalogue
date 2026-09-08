@@ -1,6 +1,6 @@
 # Once Upon a Time in Mexico
 
-[Compare across authors](../../compare/?t=film-once-upon-a-time-in-mexico_1428)
+[Compare across authors](../compare/index.md?t=film-once-upon-a-time-in-mexico_1428)
 
 ## DTS-HD MA 5.1
 

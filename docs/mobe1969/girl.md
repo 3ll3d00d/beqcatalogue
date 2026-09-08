@@ -1,6 +1,6 @@
 # Girl
 
-[Compare across authors](../../compare/?t=film-girl_717634)
+[Compare across authors](../compare/index.md?t=film-girl_717634)
 
 ## DD+ 5.1
 

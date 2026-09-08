@@ -11,7 +11,7 @@ Navy Lt. Tom Farrell meets a young woman, Susan Atwell , and they share a passio
 
 **MV Adjustment:** +6.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/10083)  [Compare across authors](../../compare/?t=film-no-way-out_10083)
+[TMDB](https://www.themoviedb.org/movie/10083)  [Compare across authors](../compare/index.md?t=film-no-way-out_10083)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/BombayCat007/Images/main/Images/No%20Way%20Out%20(1987)%20(%2B6%20Gain)%20DTS-HD%20MA%205.1.png)

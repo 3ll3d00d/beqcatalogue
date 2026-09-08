@@ -1,6 +1,6 @@
 # Akira
 
-[Compare across authors](../../compare/?t=film-akira_149)
+[Compare across authors](../compare/index.md?t=film-akira_149)
 
 ## DTS-HD MA 5.1
 

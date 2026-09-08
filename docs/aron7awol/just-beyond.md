@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-just-beyond_120734)
+[Compare across authors](../compare/index.md?t=TV-just-beyond_120734)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Return to Space
 
-[Compare across authors](../../compare/?t=film-return-to-space_950445)
+[Compare across authors](../compare/index.md?t=film-return-to-space_950445)
 
 ## DD+ Atmos
 

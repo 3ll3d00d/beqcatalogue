@@ -1,6 +1,6 @@
 # Howl's Moving Castle
 
-[Compare across authors](../../compare/?t=film-howls-moving-castle_4935)
+[Compare across authors](../compare/index.md?t=film-howls-moving-castle_4935)
 
 ## DTS-HD MA 5.1
 

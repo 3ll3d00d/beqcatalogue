@@ -1,6 +1,6 @@
 # Boot Tracks
 
-[Compare across authors](../../compare/?t=film-boot-tracks_150229)
+[Compare across authors](../compare/index.md?t=film-boot-tracks_150229)
 
 ## DTS-HD MA 5.1
 

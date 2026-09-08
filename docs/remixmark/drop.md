@@ -9,7 +9,7 @@ Violet, a widowed mother on her first date in years, arrives at an upscale resta
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/the-cabin-screening-room.3188910/page-12?post_id=64031880#post-64031880)  [TMDB](https://www.themoviedb.org/movie/1249213)  [Compare across authors](../../compare/?t=film-drop_1249213)
+[Discuss](https://www.avsforum.com/threads/the-cabin-screening-room.3188910/page-12?post_id=64031880#post-64031880)  [TMDB](https://www.themoviedb.org/movie/1249213)  [Compare across authors](../compare/index.md?t=film-drop_1249213)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Drop%20(2025)%20(%2B2.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Violet, a widowed mother on her first date in years, arrives at an upscale resta
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1597?post_id=64032018#post-64032018)  [TMDB](https://www.themoviedb.org/movie/1249213)  [Compare across authors](../../compare/?t=film-drop_1249213)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1597?post_id=64032018#post-64032018)  [TMDB](https://www.themoviedb.org/movie/1249213)  [Compare across authors](../compare/index.md?t=film-drop_1249213)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Drop%20(2025)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

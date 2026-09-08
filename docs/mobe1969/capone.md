@@ -1,6 +1,6 @@
 # Capone
 
-[Compare across authors](../../compare/?t=film-capone_429422)
+[Compare across authors](../compare/index.md?t=film-capone_429422)
 
 ## DTS-HD MA 5.1
 

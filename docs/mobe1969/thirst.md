@@ -1,6 +1,6 @@
 # Thirst
 
-[Compare across authors](../../compare/?t=film-thirst_22536)
+[Compare across authors](../compare/index.md?t=film-thirst_22536)
 
 ## DTS-HD MA 5.1
 

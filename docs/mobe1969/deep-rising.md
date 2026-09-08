@@ -1,6 +1,6 @@
 # Deep Rising
 
-[Compare across authors](../../compare/?t=film-deep-rising_9457)
+[Compare across authors](../compare/index.md?t=film-deep-rising_9457)
 
 ## DTS-HD MA 5.1
 

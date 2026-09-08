@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-v-wars_81559)
+[Compare across authors](../compare/index.md?t=TV-v-wars_81559)
 
 ## Season 1
 

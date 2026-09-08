@@ -1,6 +1,6 @@
 # Ghost in the Shell: Stand Alone Complex - Solid State Society
 
-[Compare across authors](../../compare/?t=film-ghost-in-the-shell-stand-alone-complex-solid-state-society_18874)
+[Compare across authors](../compare/index.md?t=film-ghost-in-the-shell-stand-alone-complex-solid-state-society_18874)
 
 ## TrueHD 5.1
 

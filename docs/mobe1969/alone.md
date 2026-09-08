@@ -1,6 +1,6 @@
 # Alone
 
-[Compare across authors](../../compare/?t=film-alone_509635)
+[Compare across authors](../compare/index.md?t=film-alone_509635)
 
 ## DD+ 5.1
 

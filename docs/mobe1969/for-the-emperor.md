@@ -1,6 +1,6 @@
 # For the Emperor
 
-[Compare across authors](../../compare/?t=film-for-the-emperor_280019)
+[Compare across authors](../compare/index.md?t=film-for-the-emperor_280019)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Shot Caller
 
-[Compare across authors](../../compare/?t=film-shot-caller_339692)
+[Compare across authors](../compare/index.md?t=film-shot-caller_339692)
 
 ## TrueHD 5.1
 

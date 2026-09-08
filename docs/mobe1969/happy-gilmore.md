@@ -1,6 +1,6 @@
 # Happy Gilmore
 
-[Compare across authors](../../compare/?t=film-happy-gilmore_9614)
+[Compare across authors](../compare/index.md?t=film-happy-gilmore_9614)
 
 ## DTS-HD MA 5.1
 

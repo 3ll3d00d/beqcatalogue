@@ -1,6 +1,6 @@
 # Stand Up Guys
 
-[Compare across authors](../../compare/?t=film-stand-up-guys_121824)
+[Compare across authors](../compare/index.md?t=film-stand-up-guys_121824)
 
 ## DD+ 5.1
 

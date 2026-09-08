@@ -1,6 +1,6 @@
 # Allied
 
-[Compare across authors](../../compare/?t=film-allied_369885)
+[Compare across authors](../compare/index.md?t=film-allied_369885)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

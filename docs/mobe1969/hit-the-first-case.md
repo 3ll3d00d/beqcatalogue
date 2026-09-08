@@ -1,6 +1,6 @@
 # HIT: The First Case
 
-[Compare across authors](../../compare/?t=film-hit-the-first-case_678391)
+[Compare across authors](../compare/index.md?t=film-hit-the-first-case_678391)
 
 ## DD+ 5.1
 

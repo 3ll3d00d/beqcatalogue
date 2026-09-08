@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-last-samurai-standing_252193)
+* [Compare across authors](../compare/index.md?t=TV-last-samurai-standing_252193)
 
 * Production Year: 2025
 

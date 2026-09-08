@@ -1,6 +1,6 @@
 # Ford v Ferrari
 
-[Compare across authors](../../compare/?t=film-ford-v-ferrari_359724)
+[Compare across authors](../compare/index.md?t=film-ford-v-ferrari_359724)
 
 ## Atmos
 

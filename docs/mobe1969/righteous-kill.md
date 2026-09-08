@@ -1,6 +1,6 @@
 # Righteous Kill
 
-[Compare across authors](../../compare/?t=film-righteous-kill_13389)
+[Compare across authors](../compare/index.md?t=film-righteous-kill_13389)
 
 ## TrueHD 5.1
 

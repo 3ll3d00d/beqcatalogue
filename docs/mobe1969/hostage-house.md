@@ -1,6 +1,6 @@
 # Hostage House
 
-[Compare across authors](../../compare/?t=film-hostage-house_814853)
+[Compare across authors](../compare/index.md?t=film-hostage-house_814853)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Rattlesnake
 
-[Compare across authors](../../compare/?t=film-rattlesnake_560362)
+[Compare across authors](../compare/index.md?t=film-rattlesnake_560362)
 
 ## DD+ Atmos
 

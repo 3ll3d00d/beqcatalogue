@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sky-high-the-series_216322)
+[Compare across authors](../compare/index.md?t=TV-sky-high-the-series_216322)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Eden Lake
 
-[Compare across authors](../../compare/?t=film-eden-lake_13510)
+[Compare across authors](../compare/index.md?t=film-eden-lake_13510)
 
 ## DTS-HD MA 5.1
 

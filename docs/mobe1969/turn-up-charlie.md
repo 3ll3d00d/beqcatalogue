@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-turn-up-charlie_85486)
+[Compare across authors](../compare/index.md?t=TV-turn-up-charlie_85486)
 
 ## Season 1
 

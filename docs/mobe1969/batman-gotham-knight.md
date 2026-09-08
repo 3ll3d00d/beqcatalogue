@@ -1,6 +1,6 @@
 # Batman: Gotham Knight
 
-[Compare across authors](../../compare/?t=film-batman-gotham-knight_13851)
+[Compare across authors](../compare/index.md?t=film-batman-gotham-knight_13851)
 
 ## DD 5.1
 

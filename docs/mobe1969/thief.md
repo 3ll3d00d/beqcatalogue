@@ -1,6 +1,6 @@
 # Thief
 
-[Compare across authors](../../compare/?t=film-thief_11524)
+[Compare across authors](../compare/index.md?t=film-thief_11524)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The King of Fighters
 
-[Compare across authors](../../compare/?t=film-the-king-of-fighters_44571)
+[Compare across authors](../compare/index.md?t=film-the-king-of-fighters_44571)
 
 ## DTS-HD MA 5.1
 

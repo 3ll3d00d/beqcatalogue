@@ -1,6 +1,6 @@
 # The Retirement Plan
 
-[Compare across authors](../../compare/?t=film-the-retirement-plan_866346)
+[Compare across authors](../compare/index.md?t=film-the-retirement-plan_866346)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Pure Japanese
 
-[Compare across authors](../../compare/?t=film-pure-japanese_890316)
+[Compare across authors](../compare/index.md?t=film-pure-japanese_890316)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Locked In
 
-[Compare across authors](../../compare/?t=film-locked-in_1064024)
+[Compare across authors](../compare/index.md?t=film-locked-in_1064024)
 
 ## DD+ Atmos
 

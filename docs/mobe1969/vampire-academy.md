@@ -1,6 +1,6 @@
 # Vampire Academy
 
-[Compare across authors](../../compare/?t=film-vampire-academy_203739)
+[Compare across authors](../compare/index.md?t=film-vampire-academy_203739)
 
 ## DTS-HD MA 5.1
 

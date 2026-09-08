@@ -1,6 +1,6 @@
 # Guillermo del Toro's Pinocchio
 
-[Compare across authors](../../compare/?t=film-guillermo-del-toros-pinocchio_555604)
+[Compare across authors](../compare/index.md?t=film-guillermo-del-toros-pinocchio_555604)
 
 ## DD+ Atmos
 

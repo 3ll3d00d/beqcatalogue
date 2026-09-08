@@ -1,6 +1,6 @@
 # Ravage
 
-[Compare across authors](../../compare/?t=film-ravage_637969)
+[Compare across authors](../compare/index.md?t=film-ravage_637969)
 
 ## DD+ 5.1
 

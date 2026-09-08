@@ -1,6 +1,6 @@
 # God of War
 
-[Compare across authors](../../compare/?t=film-god-of-war_455043)
+[Compare across authors](../compare/index.md?t=film-god-of-war_455043)
 
 ## DTS-X
 

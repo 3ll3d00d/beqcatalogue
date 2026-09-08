@@ -1,6 +1,6 @@
 # Born Wild
 
-[Compare across authors](../../compare/?t=film-born-wild_74274)
+[Compare across authors](../compare/index.md?t=film-born-wild_74274)
 
 ## TrueHD 7.1
 

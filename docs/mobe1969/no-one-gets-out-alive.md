@@ -1,6 +1,6 @@
 # No One Gets Out Alive
 
-[Compare across authors](../../compare/?t=film-no-one-gets-out-alive_740925)
+[Compare across authors](../compare/index.md?t=film-no-one-gets-out-alive_740925)
 
 ## DD+ 5.1
 

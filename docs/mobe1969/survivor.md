@@ -1,6 +1,6 @@
 # Survivor
 
-[Compare across authors](../../compare/?t=film-survivor_334074)
+[Compare across authors](../compare/index.md?t=film-survivor_334074)
 
 ## DTS-HD MA 5.1
 

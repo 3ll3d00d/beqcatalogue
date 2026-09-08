@@ -1,6 +1,6 @@
 # A Single Shot
 
-[Compare across authors](../../compare/?t=film-a-single-shot_159932)
+[Compare across authors](../compare/index.md?t=film-a-single-shot_159932)
 
 ## DTS-HD MA 5.1
 

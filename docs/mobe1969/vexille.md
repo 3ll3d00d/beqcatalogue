@@ -1,6 +1,6 @@
 # Vexille
 
-[Compare across authors](../../compare/?t=film-vexille_13391)
+[Compare across authors](../compare/index.md?t=film-vexille_13391)
 
 ## TrueHD 5.1
 

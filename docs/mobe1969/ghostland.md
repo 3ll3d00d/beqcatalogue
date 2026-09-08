@@ -1,6 +1,6 @@
 # Ghostland
 
-[Compare across authors](../../compare/?t=film-ghostland_476299)
+[Compare across authors](../compare/index.md?t=film-ghostland_476299)
 
 ## DTS-HD MA 5.1
 

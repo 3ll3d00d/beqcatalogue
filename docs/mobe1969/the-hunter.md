@@ -1,6 +1,6 @@
 # The Hunter
 
-[Compare across authors](../../compare/?t=film-the-hunter_70954)
+[Compare across authors](../compare/index.md?t=film-the-hunter_70954)
 
 ## LPCM 5.1
 

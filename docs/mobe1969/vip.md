@@ -1,6 +1,6 @@
 # V.I.P.
 
-[Compare across authors](../../compare/?t=film-vip_435601)
+[Compare across authors](../compare/index.md?t=film-vip_435601)
 
 ## DTS-HD MA 5.1
 

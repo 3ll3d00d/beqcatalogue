@@ -1,6 +1,6 @@
 # Ivanna
 
-[Compare across authors](../../compare/?t=film-ivanna_786535)
+[Compare across authors](../compare/index.md?t=film-ivanna_786535)
 
 ## DD+ 5.1
 

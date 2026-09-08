@@ -1,6 +1,6 @@
 # Battleship
 
-[Compare across authors](../../compare/?t=film-battleship_44833)
+[Compare across authors](../compare/index.md?t=film-battleship_44833)
 
 ## DD+ 5.1
 

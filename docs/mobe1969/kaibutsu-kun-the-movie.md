@@ -1,6 +1,6 @@
 # Kaibutsu-kun: The Movie
 
-[Compare across authors](../../compare/?t=film-kaibutsu-kun-the-movie_219896)
+[Compare across authors](../compare/index.md?t=film-kaibutsu-kun-the-movie_219896)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Disappearance at Clifton Hill
 
-[Compare across authors](../../compare/?t=film-disappearance-at-clifton-hill_598577)
+[Compare across authors](../compare/index.md?t=film-disappearance-at-clifton-hill_598577)
 
 ## DD+ 5.1
 

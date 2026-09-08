@@ -1,6 +1,6 @@
 # Twelve Monkeys
 
-[Compare across authors](../../compare/?t=film-twelve-monkeys_63)
+[Compare across authors](../compare/index.md?t=film-twelve-monkeys_63)
 
 ## DTS-HD MA 5.1
 

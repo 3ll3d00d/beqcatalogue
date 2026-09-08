@@ -1,6 +1,6 @@
 # A Company Man
 
-[Compare across authors](../../compare/?t=film-a-company-man_134126)
+[Compare across authors](../compare/index.md?t=film-a-company-man_134126)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Overdose
 
-[Compare across authors](../../compare/?t=film-overdose_896485)
+[Compare across authors](../compare/index.md?t=film-overdose_896485)
 
 ## DD+ 5.1
 

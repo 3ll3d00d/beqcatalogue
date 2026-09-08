@@ -1,6 +1,6 @@
 # 20th Century Girl
 
-[Compare across authors](../../compare/?t=film-20th-century-girl_851644)
+[Compare across authors](../compare/index.md?t=film-20th-century-girl_851644)
 
 ## DD+ Atmos
 

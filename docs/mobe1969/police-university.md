@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-police-university_127356)
+[Compare across authors](../compare/index.md?t=TV-police-university_127356)
 
 ## Season 1
 

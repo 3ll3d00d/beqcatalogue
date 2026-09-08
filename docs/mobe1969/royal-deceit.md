@@ -1,6 +1,6 @@
 # Royal Deceit
 
-[Compare across authors](../../compare/?t=film-royal-deceit_48791)
+[Compare across authors](../compare/index.md?t=film-royal-deceit_48791)
 
 ## DTS-HD MA 2.0
 

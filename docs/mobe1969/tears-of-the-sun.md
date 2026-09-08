@@ -1,6 +1,6 @@
 # Tears of the Sun
 
-[Compare across authors](../../compare/?t=film-tears-of-the-sun_9567)
+[Compare across authors](../compare/index.md?t=film-tears-of-the-sun_9567)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Chandni Chowk to China
 
-[Compare across authors](../../compare/?t=film-chandni-chowk-to-china_20002)
+[Compare across authors](../compare/index.md?t=film-chandni-chowk-to-china_20002)
 
 ## DD+ 5.1
 

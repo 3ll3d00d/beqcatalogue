@@ -1,6 +1,6 @@
 # The Grudge
 
-[Compare across authors](../../compare/?t=film-the-grudge_465086)
+[Compare across authors](../compare/index.md?t=film-the-grudge_465086)
 
 ## DTS-HD MA 5.1
 

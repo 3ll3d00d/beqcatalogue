@@ -1,6 +1,6 @@
 # Batman: The Killing Joke
 
-[Compare across authors](../../compare/?t=film-batman-the-killing-joke_382322)
+[Compare across authors](../compare/index.md?t=film-batman-the-killing-joke_382322)
 
 ## DTS-HD MA 5.1
 

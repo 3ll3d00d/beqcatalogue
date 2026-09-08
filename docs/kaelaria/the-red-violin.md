@@ -7,7 +7,7 @@
 300 years of a remarkable musical instrument. Crafted by the Italian master Bussotti (Cecchi) in 1681, the red violin has traveled through Austria, England, China, and Canada, leaving both beauty and tragedy in its wake. In Montreal, Samuel L Jackson plays an appraiser going over its complex history.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/14283)  [Compare across authors](../../compare/?t=film-the-red-violin_14283)
+[TMDB](https://www.themoviedb.org/movie/14283)  [Compare across authors](../compare/index.md?t=film-the-red-violin_14283)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/The%20Red%20Violin%20(1998)%20DTS-HD%20MA%205.1.jpg)

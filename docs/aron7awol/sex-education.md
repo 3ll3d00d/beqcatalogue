@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-sex-education_81356)
+[Compare across authors](../compare/index.md?t=TV-sex-education_81356)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Men in Black II
 
-[Compare across authors](../../compare/?t=film-men-in-black-ii_608)
+[Compare across authors](../compare/index.md?t=film-men-in-black-ii_608)
 
 ## Atmos
 

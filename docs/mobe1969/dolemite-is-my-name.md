@@ -1,6 +1,6 @@
 # Dolemite Is My Name
 
-[Compare across authors](../../compare/?t=film-dolemite-is-my-name_528888)
+[Compare across authors](../compare/index.md?t=film-dolemite-is-my-name_528888)
 
 ## DD+ Atmos
 

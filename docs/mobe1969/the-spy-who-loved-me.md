@@ -1,6 +1,6 @@
 # The Spy Who Loved Me
 
-[Compare across authors](../../compare/?t=film-the-spy-who-loved-me_691)
+[Compare across authors](../compare/index.md?t=film-the-spy-who-loved-me_691)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

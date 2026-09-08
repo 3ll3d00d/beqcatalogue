@@ -7,7 +7,7 @@
 When a job goes horribly wrong, an ex-cop and family man who moonlights as a mob henchman has one night to get his family out of the city.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1181540)  [Compare across authors](../../compare/?t=film-guns-up_1181540)
+[TMDB](https://www.themoviedb.org/movie/1181540)  [Compare across authors](../compare/index.md?t=film-guns-up_1181540)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Guns%20Up/Guns%20Up%20(2025)%20DTS-HD%20MA%205.1.jpg)

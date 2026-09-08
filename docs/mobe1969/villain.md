@@ -1,6 +1,6 @@
 # Villain
 
-[Compare across authors](../../compare/?t=film-villain_660549)
+[Compare across authors](../compare/index.md?t=film-villain_660549)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Operation Christmas Drop
 
-[Compare across authors](../../compare/?t=film-operation-christmas-drop_738646)
+[Compare across authors](../compare/index.md?t=film-operation-christmas-drop_738646)
 
 ## DD+ Atmos
 

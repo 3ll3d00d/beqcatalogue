@@ -1,6 +1,6 @@
 # Halla Bol
 
-[Compare across authors](../../compare/?t=film-halla-bol_23848)
+[Compare across authors](../compare/index.md?t=film-halla-bol_23848)
 
 ## DD+ 5.1
 

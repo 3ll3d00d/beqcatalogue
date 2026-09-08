@@ -1,6 +1,6 @@
 # Krampus
 
-[Compare across authors](../../compare/?t=film-krampus_287903)
+[Compare across authors](../compare/index.md?t=film-krampus_287903)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Trick
 
-[Compare across authors](../../compare/?t=film-trick_628707)
+[Compare across authors](../compare/index.md?t=film-trick_628707)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-snow-girl_215333)
+[Compare across authors](../compare/index.md?t=TV-the-snow-girl_215333)
 
 ## Season 1
 

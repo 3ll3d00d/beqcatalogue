@@ -1,6 +1,6 @@
 # Shaun the Sheep: The Flight Before Christmas
 
-[Compare across authors](../../compare/?t=film-shaun-the-sheep-the-flight-before-christmas_785545)
+[Compare across authors](../compare/index.md?t=film-shaun-the-sheep-the-flight-before-christmas_785545)
 
 ## DD+ Atmos
 

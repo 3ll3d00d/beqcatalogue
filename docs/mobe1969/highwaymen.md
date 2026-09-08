@@ -1,6 +1,6 @@
 # Highwaymen
 
-[Compare across authors](../../compare/?t=film-highwaymen_29979)
+[Compare across authors](../compare/index.md?t=film-highwaymen_29979)
 
 ## DTS-HD MA 5.1
 

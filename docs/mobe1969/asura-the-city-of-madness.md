@@ -1,6 +1,6 @@
 # Asura: The City of Madness
 
-[Compare across authors](../../compare/?t=film-asura-the-city-of-madness_408620)
+[Compare across authors](../compare/index.md?t=film-asura-the-city-of-madness_408620)
 
 ## DTS-HD MA 5.1
 

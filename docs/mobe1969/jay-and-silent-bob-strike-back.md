@@ -1,6 +1,6 @@
 # Jay and Silent Bob Strike Back
 
-[Compare across authors](../../compare/?t=film-jay-and-silent-bob-strike-back_2294)
+[Compare across authors](../compare/index.md?t=film-jay-and-silent-bob-strike-back_2294)
 
 ## LPCM 5.1
 

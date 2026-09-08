@@ -7,7 +7,7 @@
 Divorced couple Georgia and David find themselves on a shared mission: they team up and travel to Bali to stop their daughter Lily from making the same mistake they once made 25 years ago.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/800939)  [Compare across authors](../../compare/?t=film-ticket-to-paradise_800939)
+[TMDB](https://www.themoviedb.org/movie/800939)  [Compare across authors](../compare/index.md?t=film-ticket-to-paradise_800939)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/Ticket%20to%20paradise%20(2022)%20TrueHD%20Atmos.jpg)

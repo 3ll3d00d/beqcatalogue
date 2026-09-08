@@ -1,6 +1,6 @@
 # Half Past Dead
 
-[Compare across authors](../../compare/?t=film-half-past-dead_10167)
+[Compare across authors](../compare/index.md?t=film-half-past-dead_10167)
 
 ## DD+ 5.1
 

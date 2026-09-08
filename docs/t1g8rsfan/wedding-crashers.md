@@ -11,7 +11,7 @@ John and his buddy, Jeremy are emotional criminals who know how to use a woman's
 
 **MV Adjustment:** +4.5 dB
 
-[TMDB](https://www.themoviedb.org/movie/9522)  [Compare across authors](../../compare/?t=film-wedding-crashers_9522)
+[TMDB](https://www.themoviedb.org/movie/9522)  [Compare across authors](../compare/index.md?t=film-wedding-crashers_9522)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Wedding%20Crashers%20(2005)%20UNRATED%20(%2B4.5%20gain)%20TrueHD%205.1.jpg)

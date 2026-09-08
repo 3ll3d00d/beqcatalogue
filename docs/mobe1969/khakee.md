@@ -1,6 +1,6 @@
 # Khakee
 
-[Compare across authors](../../compare/?t=film-khakee_21665)
+[Compare across authors](../compare/index.md?t=film-khakee_21665)
 
 ## DD 5.1
 

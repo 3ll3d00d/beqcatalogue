@@ -1,6 +1,6 @@
 # Happy Death Day
 
-[Compare across authors](../../compare/?t=film-happy-death-day_440021)
+[Compare across authors](../compare/index.md?t=film-happy-death-day_440021)
 
 ## DTS-HD MA 5.1
 

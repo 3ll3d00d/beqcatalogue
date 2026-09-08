@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-yellowjackets_117488)
+[Compare across authors](../compare/index.md?t=TV-yellowjackets_117488)
 
 ## Season 1
 

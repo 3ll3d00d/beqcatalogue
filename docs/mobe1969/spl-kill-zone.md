@@ -1,6 +1,6 @@
 # SPL Kill Zone
 
-[Compare across authors](../../compare/?t=film-spl-kill-zone_13127)
+[Compare across authors](../compare/index.md?t=film-spl-kill-zone_13127)
 
 ## DTS-HD MA 5.1
 

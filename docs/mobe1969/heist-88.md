@@ -1,6 +1,6 @@
 # Heist 88
 
-[Compare across authors](../../compare/?t=film-heist-88_1170944)
+[Compare across authors](../compare/index.md?t=film-heist-88_1170944)
 
 ## DD+ 5.1
 

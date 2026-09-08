@@ -1,6 +1,6 @@
 # Moon
 
-[Compare across authors](../../compare/?t=film-moon_17431)
+[Compare across authors](../compare/index.md?t=film-moon_17431)
 
 ## Atmos
 

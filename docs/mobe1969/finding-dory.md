@@ -1,6 +1,6 @@
 # Finding Dory
 
-[Compare across authors](../../compare/?t=film-finding-dory_127380)
+[Compare across authors](../compare/index.md?t=film-finding-dory_127380)
 
 ## DTS-HD MA 7.1
 

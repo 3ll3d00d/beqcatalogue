@@ -1,6 +1,6 @@
 # Night Watch
 
-[Compare across authors](../../compare/?t=film-night-watch_3040)
+[Compare across authors](../compare/index.md?t=film-night-watch_3040)
 
 ## TrueHD 5.1
 

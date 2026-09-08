@@ -1,6 +1,6 @@
 # Mary Queen of Scots
 
-[Compare across authors](../../compare/?t=film-mary-queen-of-scots_457136)
+[Compare across authors](../compare/index.md?t=film-mary-queen-of-scots_457136)
 
 ## Atmos
 

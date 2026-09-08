@@ -12,7 +12,7 @@ Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after 
 +3dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62558488)  [TMDB](https://www.themoviedb.org/movie/840326)  [Compare across authors](../../compare/?t=film-sisu_840326)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62558488)  [TMDB](https://www.themoviedb.org/movie/840326)  [Compare across authors](../compare/index.md?t=film-sisu_840326)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Sisu%202022%20PvA%20v2.jpg)

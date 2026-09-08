@@ -1,6 +1,6 @@
 # The Cloverfield Paradox
 
-[Compare across authors](../../compare/?t=film-the-cloverfield-paradox_384521)
+[Compare across authors](../compare/index.md?t=film-the-cloverfield-paradox_384521)
 
 ## Atmos
 

@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-age-of-samurai-battle-for-japan_93736)
+[Compare across authors](../compare/index.md?t=TV-age-of-samurai-battle-for-japan_93736)
 
 ## Season 1
 

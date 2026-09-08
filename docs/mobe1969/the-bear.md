@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-bear_136315)
+[Compare across authors](../compare/index.md?t=TV-the-bear_136315)
 
 ## Season 1
 

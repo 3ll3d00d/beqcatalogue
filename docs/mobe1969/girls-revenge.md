@@ -1,6 +1,6 @@
 # Girl's Revenge
 
-[Compare across authors](../../compare/?t=film-girls-revenge_720851)
+[Compare across authors](../compare/index.md?t=film-girls-revenge_720851)
 
 ## DD+ 5.1
 

@@ -11,7 +11,7 @@ Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eye
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1746?post_id=64650253#post-64650253)  [TMDB](https://www.themoviedb.org/movie/9340)  [Compare across authors](../../compare/?t=film-the-goonies_9340)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1746?post_id=64650253#post-64650253)  [TMDB](https://www.themoviedb.org/movie/9340)  [Compare across authors](../compare/index.md?t=film-the-goonies_9340)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Goonies%20(1985)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

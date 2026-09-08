@@ -1,6 +1,6 @@
 # Romancing the Stone
 
-[Compare across authors](../../compare/?t=film-romancing-the-stone_9326)
+[Compare across authors](../compare/index.md?t=film-romancing-the-stone_9326)
 
 ## DTS-HD MA 5.1
 

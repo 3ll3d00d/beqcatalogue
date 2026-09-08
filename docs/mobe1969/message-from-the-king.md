@@ -1,6 +1,6 @@
 # Message from the King
 
-[Compare across authors](../../compare/?t=film-message-from-the-king_301355)
+[Compare across authors](../compare/index.md?t=film-message-from-the-king_301355)
 
 ## DD+ 5.1
 

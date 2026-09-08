@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dom_123377)
+[Compare across authors](../compare/index.md?t=TV-dom_123377)
 
 ## Season 1
 

@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2022
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2022
 
@@ -37,7 +37,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2021
 

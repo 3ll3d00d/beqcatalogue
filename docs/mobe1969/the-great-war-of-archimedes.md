@@ -1,6 +1,6 @@
 # The Great War of Archimedes
 
-[Compare across authors](../../compare/?t=film-the-great-war-of-archimedes_605389)
+[Compare across authors](../compare/index.md?t=film-the-great-war-of-archimedes_605389)
 
 ## DTS-HD MA 5.1
 

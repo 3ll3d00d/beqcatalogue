@@ -1,6 +1,6 @@
 # Mortal Engines
 
-[Compare across authors](../../compare/?t=film-mortal-engines_428078)
+[Compare across authors](../compare/index.md?t=film-mortal-engines_428078)
 
 ## Atmos
 

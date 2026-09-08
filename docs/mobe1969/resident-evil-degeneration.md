@@ -1,6 +1,6 @@
 # Resident Evil: Degeneration
 
-[Compare across authors](../../compare/?t=film-resident-evil-degeneration_13648)
+[Compare across authors](../compare/index.md?t=film-resident-evil-degeneration_13648)
 
 ## TrueHD 5.1
 

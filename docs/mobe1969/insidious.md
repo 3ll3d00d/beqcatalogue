@@ -1,6 +1,6 @@
 # Insidious
 
-[Compare across authors](../../compare/?t=film-insidious_49018)
+[Compare across authors](../compare/index.md?t=film-insidious_49018)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # The Messengers
 
-[Compare across authors](../../compare/?t=film-the-messengers_9966)
+[Compare across authors](../compare/index.md?t=film-the-messengers_9966)
 
 ## DD 5.1
 

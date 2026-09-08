@@ -1,6 +1,6 @@
 # Neon Genesis Evangelion: The End of Evangelion
 
-[Compare across authors](../../compare/?t=film-neon-genesis-evangelion-the-end-of-evangelion_18491)
+[Compare across authors](../compare/index.md?t=film-neon-genesis-evangelion-the-end-of-evangelion_18491)
 
 ## DD+ 5.1
 

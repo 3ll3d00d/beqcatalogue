@@ -1,6 +1,6 @@
 # Malang
 
-[Compare across authors](../../compare/?t=film-malang_661043)
+[Compare across authors](../compare/index.md?t=film-malang_661043)
 
 ## DD+ 5.1
 

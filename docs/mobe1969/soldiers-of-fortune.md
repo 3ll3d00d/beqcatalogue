@@ -1,6 +1,6 @@
 # Soldiers of Fortune
 
-[Compare across authors](../../compare/?t=film-soldiers-of-fortune_112304)
+[Compare across authors](../compare/index.md?t=film-soldiers-of-fortune_112304)
 
 ## DD+ 5.1
 

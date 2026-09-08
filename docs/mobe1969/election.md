@@ -1,6 +1,6 @@
 # Election
 
-[Compare across authors](../../compare/?t=film-election_18747)
+[Compare across authors](../compare/index.md?t=film-election_18747)
 
 ## DTS-HD MA 5.1
 

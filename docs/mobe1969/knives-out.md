@@ -1,6 +1,6 @@
 # Knives Out
 
-[Compare across authors](../../compare/?t=film-knives-out_546554)
+[Compare across authors](../compare/index.md?t=film-knives-out_546554)
 
 ## Atmos, DD+ 5.1
 

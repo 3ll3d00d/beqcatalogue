@@ -1,6 +1,6 @@
 # Players
 
-[Compare across authors](../../compare/?t=film-players_83382)
+[Compare across authors](../compare/index.md?t=film-players_83382)
 
 ## DD+ 5.1
 

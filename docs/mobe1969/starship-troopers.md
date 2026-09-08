@@ -1,6 +1,6 @@
 # Starship Troopers
 
-[Compare across authors](../../compare/?t=film-starship-troopers_563)
+[Compare across authors](../compare/index.md?t=film-starship-troopers_563)
 
 ## Atmos
 

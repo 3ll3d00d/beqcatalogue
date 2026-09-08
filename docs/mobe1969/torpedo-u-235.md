@@ -1,6 +1,6 @@
 # Torpedo: U-235
 
-[Compare across authors](../../compare/?t=film-torpedo-u-235_554022)
+[Compare across authors](../compare/index.md?t=film-torpedo-u-235_554022)
 
 ## DD+ 5.1
 

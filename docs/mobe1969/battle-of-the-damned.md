@@ -1,6 +1,6 @@
 # Battle of the Damned
 
-[Compare across authors](../../compare/?t=film-battle-of-the-damned_185471)
+[Compare across authors](../compare/index.md?t=film-battle-of-the-damned_185471)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Isn't It Romantic
 
-[Compare across authors](../../compare/?t=film-isnt-it-romantic_449563)
+[Compare across authors](../compare/index.md?t=film-isnt-it-romantic_449563)
 
 ## DD+ 5.1
 

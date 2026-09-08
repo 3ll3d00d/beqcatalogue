@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-baby-reindeer_241259)
+* [Compare across authors](../compare/index.md?t=TV-baby-reindeer_241259)
 
 * Production Year: 2024
 

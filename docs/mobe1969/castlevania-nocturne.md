@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-castlevania-nocturne_123548)
+[Compare across authors](../compare/index.md?t=TV-castlevania-nocturne_123548)
 
 ## Season 1
 

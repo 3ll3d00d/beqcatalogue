@@ -1,6 +1,6 @@
 # Earwig and the Witch
 
-[Compare across authors](../../compare/?t=film-earwig-and-the-witch_683127)
+[Compare across authors](../compare/index.md?t=film-earwig-and-the-witch_683127)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Calibre
 
-[Compare across authors](../../compare/?t=film-calibre_474051)
+[Compare across authors](../compare/index.md?t=film-calibre_474051)
 
 ## DD+ 5.1
 

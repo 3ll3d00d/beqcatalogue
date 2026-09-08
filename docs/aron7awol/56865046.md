@@ -1,6 +1,6 @@
 # Skyscraper
 
-[Compare across authors](../../compare/?t=film-skyscraper_447200)
+[Compare across authors](../compare/index.md?t=film-skyscraper_447200)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Heroes Return
 
-[Compare across authors](../../compare/?t=film-heroes-return_791900)
+[Compare across authors](../compare/index.md?t=film-heroes-return_791900)
 
 ## TrueHD 5.1
 

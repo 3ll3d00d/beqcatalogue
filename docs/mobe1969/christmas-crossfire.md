@@ -1,6 +1,6 @@
 # Christmas Crossfire
 
-[Compare across authors](../../compare/?t=film-christmas-crossfire_765123)
+[Compare across authors](../compare/index.md?t=film-christmas-crossfire_765123)
 
 ## DD+ 5.1
 

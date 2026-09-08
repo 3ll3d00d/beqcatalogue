@@ -1,6 +1,6 @@
 # Don't Be Afraid of the Dark
 
-[Compare across authors](../../compare/?t=film-dont-be-afraid-of-the-dark_46261)
+[Compare across authors](../compare/index.md?t=film-dont-be-afraid-of-the-dark_46261)
 
 ## DTS-HD MA 5.1
 

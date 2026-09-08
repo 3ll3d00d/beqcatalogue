@@ -1,6 +1,6 @@
 # Legendary
 
-[Compare across authors](../../compare/?t=film-legendary_226672)
+[Compare across authors](../compare/index.md?t=film-legendary_226672)
 
 ## DTS-HD MA 5.1
 

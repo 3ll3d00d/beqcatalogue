@@ -1,6 +1,6 @@
 # Ironclad
 
-[Compare across authors](../../compare/?t=film-ironclad_38543)
+[Compare across authors](../compare/index.md?t=film-ironclad_38543)
 
 ## DTS-HD MA 5.1
 

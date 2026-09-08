@@ -1,6 +1,6 @@
 # Johnny English
 
-[Compare across authors](../../compare/?t=film-johnny-english_9486)
+[Compare across authors](../compare/index.md?t=film-johnny-english_9486)
 
 ## DTS-HD MA 5.1
 

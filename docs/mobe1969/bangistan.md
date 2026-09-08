@@ -1,6 +1,6 @@
 # Bangistan
 
-[Compare across authors](../../compare/?t=film-bangistan_352099)
+[Compare across authors](../compare/index.md?t=film-bangistan_352099)
 
 ## DD+ 5.1
 

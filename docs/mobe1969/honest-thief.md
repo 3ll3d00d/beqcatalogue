@@ -1,6 +1,6 @@
 # Honest Thief
 
-[Compare across authors](../../compare/?t=film-honest-thief_553604)
+[Compare across authors](../compare/index.md?t=film-honest-thief_553604)
 
 ## DTS-HD MA 7.1, DD+ 5.1
 

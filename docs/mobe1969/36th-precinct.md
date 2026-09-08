@@ -1,6 +1,6 @@
 # 36th Precinct
 
-[Compare across authors](../../compare/?t=film-36th-precinct_7291)
+[Compare across authors](../compare/index.md?t=film-36th-precinct_7291)
 
 ## DTS-HD MA 5.1
 

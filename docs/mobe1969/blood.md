@@ -1,6 +1,6 @@
 # Blood
 
-[Compare across authors](../../compare/?t=film-blood_746524)
+[Compare across authors](../compare/index.md?t=film-blood_746524)
 
 ## DTS-HD MA 5.1
 

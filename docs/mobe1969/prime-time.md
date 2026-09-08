@@ -1,6 +1,6 @@
 # Prime Time
 
-[Compare across authors](../../compare/?t=film-prime-time_745078)
+[Compare across authors](../compare/index.md?t=film-prime-time_745078)
 
 ## DD+ 5.1
 

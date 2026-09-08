@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-queens-gambit_87739)
+[Compare across authors](../compare/index.md?t=TV-the-queens-gambit_87739)
 
 ## Season 1
 

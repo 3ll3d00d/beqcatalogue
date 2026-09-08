@@ -1,6 +1,6 @@
 # First Love
 
-[Compare across authors](../../compare/?t=film-first-love_597094)
+[Compare across authors](../compare/index.md?t=film-first-love_597094)
 
 ## DTS-HD MA 5.1
 

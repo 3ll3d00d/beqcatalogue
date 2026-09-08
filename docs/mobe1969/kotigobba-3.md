@@ -1,6 +1,6 @@
 # Kotigobba 3
 
-[Compare across authors](../../compare/?t=film-kotigobba-3_678470)
+[Compare across authors](../compare/index.md?t=film-kotigobba-3_678470)
 
 ## DD+ 5.1
 

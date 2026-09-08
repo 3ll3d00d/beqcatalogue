@@ -1,6 +1,6 @@
 # Toilet: A Love Story
 
-[Compare across authors](../../compare/?t=film-toilet-a-love-story_441875)
+[Compare across authors](../compare/index.md?t=film-toilet-a-love-story_441875)
 
 ## DD+ 5.1
 

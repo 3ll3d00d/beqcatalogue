@@ -1,6 +1,6 @@
 # Madagascar: Escape 2 Africa
 
-[Compare across authors](../../compare/?t=film-madagascar-escape-2-africa_10527)
+[Compare across authors](../compare/index.md?t=film-madagascar-escape-2-africa_10527)
 
 ## TrueHD 5.1
 

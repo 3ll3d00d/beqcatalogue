@@ -1,6 +1,6 @@
 # Arrowhead
 
-[Compare across authors](../../compare/?t=film-arrowhead_360799)
+[Compare across authors](../compare/index.md?t=film-arrowhead_360799)
 
 ## DTS-HD MA 5.1
 

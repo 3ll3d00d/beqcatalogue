@@ -1,6 +1,6 @@
 # Tragic Jungle
 
-[Compare across authors](../../compare/?t=film-tragic-jungle_618746)
+[Compare across authors](../compare/index.md?t=film-tragic-jungle_618746)
 
 ## DD+ 5.1
 

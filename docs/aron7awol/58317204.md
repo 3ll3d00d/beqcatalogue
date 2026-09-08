@@ -1,6 +1,6 @@
 # The Shape of Water
 
-[Compare across authors](../../compare/?t=film-the-shape-of-water_399055)
+[Compare across authors](../compare/index.md?t=film-the-shape-of-water_399055)
 
 ## DTS-HD MA 5.1
 

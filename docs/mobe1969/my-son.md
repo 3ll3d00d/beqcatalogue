@@ -1,6 +1,6 @@
 # My Son
 
-[Compare across authors](../../compare/?t=film-my-son_750253)
+[Compare across authors](../compare/index.md?t=film-my-son_750253)
 
 ## DD+ 5.1
 

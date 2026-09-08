@@ -1,6 +1,6 @@
 # Children of the Corn
 
-[Compare across authors](../../compare/?t=film-children-of-the-corn_25754)
+[Compare across authors](../compare/index.md?t=film-children-of-the-corn_25754)
 
 ## TrueHD 5.1
 

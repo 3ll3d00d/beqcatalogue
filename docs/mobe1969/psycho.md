@@ -1,6 +1,6 @@
 # Psycho
 
-[Compare across authors](../../compare/?t=film-psycho_642889)
+[Compare across authors](../compare/index.md?t=film-psycho_642889)
 
 ## DD+ 5.1
 

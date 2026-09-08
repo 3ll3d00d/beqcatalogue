@@ -9,7 +9,7 @@ Something bizarre has come over the land. The kingdom is deteriorating. People a
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1448?post_id=63295999#post-63295999)  [TMDB](https://www.themoviedb.org/movie/37933)  [Compare across authors](../../compare/?t=film-tales-from-earthsea_37933)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1448?post_id=63295999#post-63295999)  [TMDB](https://www.themoviedb.org/movie/37933)  [Compare across authors](../compare/index.md?t=film-tales-from-earthsea_37933)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Tales%20from%20Earthsea%20(2006)%20(%2B4%20gain)%20DTS-HD%20MA%205.1.jpg)

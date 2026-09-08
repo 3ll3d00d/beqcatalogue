@@ -1,6 +1,6 @@
 # Rescue Dawn
 
-[Compare across authors](../../compare/?t=film-rescue-dawn_9952)
+[Compare across authors](../compare/index.md?t=film-rescue-dawn_9952)
 
 ## DTS-HD MA 5.1
 

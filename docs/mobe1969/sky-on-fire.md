@@ -1,6 +1,6 @@
 # Sky on Fire
 
-[Compare across authors](../../compare/?t=film-sky-on-fire_427433)
+[Compare across authors](../compare/index.md?t=film-sky-on-fire_427433)
 
 ## TrueHD 5.1
 

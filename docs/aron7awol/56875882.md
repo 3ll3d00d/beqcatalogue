@@ -1,6 +1,6 @@
 # The Shallows
 
-[Compare across authors](../../compare/?t=film-the-shallows_332567)
+[Compare across authors](../compare/index.md?t=film-the-shallows_332567)
 
 ## Atmos
 

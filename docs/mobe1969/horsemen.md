@@ -1,6 +1,6 @@
 # Horsemen
 
-[Compare across authors](../../compare/?t=film-horsemen_18476)
+[Compare across authors](../compare/index.md?t=film-horsemen_18476)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Nefarious
 
-[Compare across authors](../../compare/?t=film-nefarious_913673)
+[Compare across authors](../compare/index.md?t=film-nefarious_913673)
 
 ## DD+ 5.1
 

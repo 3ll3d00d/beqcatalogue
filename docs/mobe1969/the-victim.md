@@ -1,6 +1,6 @@
 # The Victim
 
-[Compare across authors](../../compare/?t=film-the-victim_44008)
+[Compare across authors](../compare/index.md?t=film-the-victim_44008)
 
 ## DTS-HD MA 5.1
 

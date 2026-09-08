@@ -1,6 +1,6 @@
 # The Shining
 
-[Compare across authors](../../compare/?t=film-the-shining_694)
+[Compare across authors](../compare/index.md?t=film-the-shining_694)
 
 ## DD+ 5.1
 

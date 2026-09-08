@@ -1,6 +1,6 @@
 # The Son of Bigfoot
 
-[Compare across authors](../../compare/?t=film-the-son-of-bigfoot_413644)
+[Compare across authors](../compare/index.md?t=film-the-son-of-bigfoot_413644)
 
 ## DTS-HD MA 5.1, DD+ 5.1, DD 5.1
 

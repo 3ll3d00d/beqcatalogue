@@ -1,6 +1,6 @@
 # Elimination Game
 
-[Compare across authors](../../compare/?t=film-elimination-game_301730)
+[Compare across authors](../compare/index.md?t=film-elimination-game_301730)
 
 ## DTS-HD MA 5.1
 

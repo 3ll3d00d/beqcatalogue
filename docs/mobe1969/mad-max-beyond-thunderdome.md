@@ -1,6 +1,6 @@
 # Mad Max Beyond Thunderdome
 
-[Compare across authors](../../compare/?t=film-mad-max-beyond-thunderdome_9355)
+[Compare across authors](../compare/index.md?t=film-mad-max-beyond-thunderdome_9355)
 
 ## Atmos
 

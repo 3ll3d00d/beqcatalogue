@@ -1,6 +1,6 @@
 # Bridesmaids
 
-[Compare across authors](../../compare/?t=film-bridesmaids_55721)
+[Compare across authors](../compare/index.md?t=film-bridesmaids_55721)
 
 ## DTS-HD MA 5.1
 

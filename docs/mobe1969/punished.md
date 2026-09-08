@@ -1,6 +1,6 @@
 # Punished
 
-[Compare across authors](../../compare/?t=film-punished_72650)
+[Compare across authors](../compare/index.md?t=film-punished_72650)
 
 ## DTS-HD MA 7.1
 

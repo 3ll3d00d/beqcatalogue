@@ -1,6 +1,6 @@
 # The Invisible Man
 
-[Compare across authors](../../compare/?t=film-the-invisible-man_570670)
+[Compare across authors](../compare/index.md?t=film-the-invisible-man_570670)
 
 ## Atmos
 

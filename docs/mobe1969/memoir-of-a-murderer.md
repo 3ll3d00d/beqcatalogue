@@ -1,6 +1,6 @@
 # Memoir of a Murderer
 
-[Compare across authors](../../compare/?t=film-memoir-of-a-murderer_432836)
+[Compare across authors](../compare/index.md?t=film-memoir-of-a-murderer_432836)
 
 ## DTS-HD MA 5.1
 

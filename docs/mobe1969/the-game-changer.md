@@ -1,6 +1,6 @@
 # The Game Changer
 
-[Compare across authors](../../compare/?t=film-the-game-changer_452103)
+[Compare across authors](../compare/index.md?t=film-the-game-changer_452103)
 
 ## DTS-HD MA 5.1
 

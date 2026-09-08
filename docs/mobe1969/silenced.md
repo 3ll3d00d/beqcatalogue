@@ -1,6 +1,6 @@
 # Silenced
 
-[Compare across authors](../../compare/?t=film-silenced_81481)
+[Compare across authors](../compare/index.md?t=film-silenced_81481)
 
 ## DD+ 5.1
 

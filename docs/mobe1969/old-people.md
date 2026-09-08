@@ -1,6 +1,6 @@
 # Old People
 
-[Compare across authors](../../compare/?t=film-old-people_999722)
+[Compare across authors](../compare/index.md?t=film-old-people_999722)
 
 ## DD+ 5.1
 

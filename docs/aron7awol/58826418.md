@@ -1,6 +1,6 @@
 # Klaus
 
-[Compare across authors](../../compare/?t=film-klaus_508965)
+[Compare across authors](../compare/index.md?t=film-klaus_508965)
 
 ## DD+ Atmos
 

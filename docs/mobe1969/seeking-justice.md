@@ -1,6 +1,6 @@
 # Seeking Justice
 
-[Compare across authors](../../compare/?t=film-seeking-justice_74998)
+[Compare across authors](../compare/index.md?t=film-seeking-justice_74998)
 
 ## DTS-HD MA 5.1
 

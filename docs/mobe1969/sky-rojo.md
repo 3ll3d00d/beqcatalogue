@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sky-rojo_117023)
+[Compare across authors](../compare/index.md?t=TV-sky-rojo_117023)
 
 ## Season 1
 

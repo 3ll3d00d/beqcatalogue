@@ -1,6 +1,6 @@
 # Your Name.
 
-[Compare across authors](../../compare/?t=film-your-name_372058)
+[Compare across authors](../compare/index.md?t=film-your-name_372058)
 
 ## DTS-HD MA 5.1
 

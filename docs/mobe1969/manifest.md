@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-manifest_79696)
+[Compare across authors](../compare/index.md?t=TV-manifest_79696)
 
 ## Season 1
 

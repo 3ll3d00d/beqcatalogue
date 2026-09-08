@@ -1,6 +1,6 @@
 # The Predator
 
-[Compare across authors](../../compare/?t=film-the-predator_346910)
+[Compare across authors](../compare/index.md?t=film-the-predator_346910)
 
 ## Atmos
 

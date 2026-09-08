@@ -10,7 +10,7 @@
 Not rolled off out of the box
 { data-search-exclude }
 
-* [Compare across authors](../../compare/?t=TV-the-spiderwick-chronicles_138492)
+* [Compare across authors](../compare/index.md?t=TV-the-spiderwick-chronicles_138492)
 
 * Production Year: 2024
 

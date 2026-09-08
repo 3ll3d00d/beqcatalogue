@@ -1,6 +1,6 @@
 # Eye for an Eye
 
-[Compare across authors](../../compare/?t=film-eye-for-an-eye_574376)
+[Compare across authors](../compare/index.md?t=film-eye-for-an-eye_574376)
 
 ## DD+ 5.1
 

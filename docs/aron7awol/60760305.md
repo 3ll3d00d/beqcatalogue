@@ -1,6 +1,6 @@
 # Body Brokers
 
-[Compare across authors](../../compare/?t=film-body-brokers_656940)
+[Compare across authors](../compare/index.md?t=film-body-brokers_656940)
 
 ## DTS-HD MA 5.1
 

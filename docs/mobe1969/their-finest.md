@@ -1,6 +1,6 @@
 # Their Finest
 
-[Compare across authors](../../compare/?t=film-their-finest_340101)
+[Compare across authors](../compare/index.md?t=film-their-finest_340101)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Warriors Gate
 
-[Compare across authors](../../compare/?t=film-the-warriors-gate_413658)
+[Compare across authors](../compare/index.md?t=film-the-warriors-gate_413658)
 
 ## DTS-HD MA 5.1
 

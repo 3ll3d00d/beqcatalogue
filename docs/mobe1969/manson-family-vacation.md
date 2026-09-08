@@ -1,6 +1,6 @@
 # Manson Family Vacation
 
-[Compare across authors](../../compare/?t=film-manson-family-vacation_323679)
+[Compare across authors](../compare/index.md?t=film-manson-family-vacation_323679)
 
 ## DD+ 5.1
 

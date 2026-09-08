@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-tron-uprising_34356)
+[Compare across authors](../compare/index.md?t=TV-tron-uprising_34356)
 
 ## Season 0
 

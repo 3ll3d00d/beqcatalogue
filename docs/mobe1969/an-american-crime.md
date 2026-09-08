@@ -1,6 +1,6 @@
 # An American Crime
 
-[Compare across authors](../../compare/?t=film-an-american-crime_13008)
+[Compare across authors](../compare/index.md?t=film-an-american-crime_13008)
 
 ## DD+ 5.1
 

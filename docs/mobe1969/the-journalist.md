@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-journalist_137967)
+[Compare across authors](../compare/index.md?t=TV-the-journalist_137967)
 
 ## Season 1
 

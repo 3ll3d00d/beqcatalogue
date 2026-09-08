@@ -1,6 +1,6 @@
 # Dragon Blade
 
-[Compare across authors](../../compare/?t=film-dragon-blade_300168)
+[Compare across authors](../compare/index.md?t=film-dragon-blade_300168)
 
 ## DTS-HD MA 5.1
 

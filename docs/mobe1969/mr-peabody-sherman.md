@@ -1,6 +1,6 @@
 # Mr. Peabody & Sherman
 
-[Compare across authors](../../compare/?t=film-mr-peabody-sherman_82703)
+[Compare across authors](../compare/index.md?t=film-mr-peabody-sherman_82703)
 
 ## DTS-HD MA 7.1
 

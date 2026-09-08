@@ -1,6 +1,6 @@
 # Iraivan
 
-[Compare across authors](../../compare/?t=film-iraivan_990787)
+[Compare across authors](../compare/index.md?t=film-iraivan_990787)
 
 ## DD+ 5.1
 

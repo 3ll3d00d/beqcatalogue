@@ -1,6 +1,6 @@
 # Greenland
 
-[Compare across authors](../../compare/?t=film-greenland_524047)
+[Compare across authors](../compare/index.md?t=film-greenland_524047)
 
 ## Atmos
 

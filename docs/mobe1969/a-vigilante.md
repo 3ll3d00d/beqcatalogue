@@ -1,6 +1,6 @@
 # A Vigilante
 
-[Compare across authors](../../compare/?t=film-a-vigilante_500904)
+[Compare across authors](../compare/index.md?t=film-a-vigilante_500904)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader’s eight-year-old daughter.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1448560)  [Compare across authors](../../compare/?t=film-wildcat_1448560)
+[TMDB](https://www.themoviedb.org/movie/1448560)  [Compare across authors](../compare/index.md?t=film-wildcat_1448560)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Wildcat/Wildcat%20(2025)%20DD%2B%205.1.jpg)

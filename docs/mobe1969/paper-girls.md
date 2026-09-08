@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-paper-girls_106431)
+[Compare across authors](../compare/index.md?t=TV-paper-girls_106431)
 
 ## Season 1
 

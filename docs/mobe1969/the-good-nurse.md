@@ -1,6 +1,6 @@
 # The Good Nurse
 
-[Compare across authors](../../compare/?t=film-the-good-nurse_541134)
+[Compare across authors](../compare/index.md?t=film-the-good-nurse_541134)
 
 ## DD+ Atmos, DD+ 5.1
 

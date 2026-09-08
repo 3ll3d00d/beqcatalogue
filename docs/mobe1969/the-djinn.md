@@ -1,6 +1,6 @@
 # The Djinn
 
-[Compare across authors](../../compare/?t=film-the-djinn_797946)
+[Compare across authors](../compare/index.md?t=film-the-djinn_797946)
 
 ## DTS-HD MA 5.1
 

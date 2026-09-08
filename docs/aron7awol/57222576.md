@@ -1,6 +1,6 @@
 # The Hunger Games
 
-[Compare across authors](../../compare/?t=film-the-hunger-games_70160)
+[Compare across authors](../compare/index.md?t=film-the-hunger-games_70160)
 
 ## Atmos
 

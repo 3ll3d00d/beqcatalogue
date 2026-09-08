@@ -12,7 +12,7 @@ One man’s campaign for vengeance takes on national stakes after he is revealed
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63117208)  [TMDB](https://www.themoviedb.org/movie/866398)  [Compare across authors](../../compare/?t=film-the-beekeeper_866398)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63117208)  [TMDB](https://www.themoviedb.org/movie/866398)  [Compare across authors](../compare/index.md?t=film-the-beekeeper_866398)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Beekeeper%20(2024)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg)

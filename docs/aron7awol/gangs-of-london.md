@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-gangs-of-london_85021)
+[Compare across authors](../compare/index.md?t=TV-gangs-of-london_85021)
 
 ## Season 1
 

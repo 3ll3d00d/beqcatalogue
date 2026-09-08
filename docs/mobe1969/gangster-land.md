@@ -1,6 +1,6 @@
 # Gangster Land
 
-[Compare across authors](../../compare/?t=film-gangster-land_485337)
+[Compare across authors](../compare/index.md?t=film-gangster-land_485337)
 
 ## DTS-HD MA 5.1
 

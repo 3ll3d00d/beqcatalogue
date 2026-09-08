@@ -1,6 +1,6 @@
 # Police Story: Lockdown
 
-[Compare across authors](../../compare/?t=film-police-story-lockdown_219572)
+[Compare across authors](../compare/index.md?t=film-police-story-lockdown_219572)
 
 ## DTS-HD MA 5.1
 

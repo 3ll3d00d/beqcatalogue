@@ -1,6 +1,6 @@
 # Napoleon Dynamite
 
-[Compare across authors](../../compare/?t=film-napoleon-dynamite_8193)
+[Compare across authors](../compare/index.md?t=film-napoleon-dynamite_8193)
 
 ## DTS-HD MA 5.1
 

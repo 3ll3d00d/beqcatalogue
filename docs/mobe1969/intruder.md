@@ -1,6 +1,6 @@
 # Intruder
 
-[Compare across authors](../../compare/?t=film-intruder_602291)
+[Compare across authors](../compare/index.md?t=film-intruder_602291)
 
 ## DTS-HD MA 5.1
 

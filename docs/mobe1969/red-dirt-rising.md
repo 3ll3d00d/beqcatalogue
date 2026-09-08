@@ -1,6 +1,6 @@
 # Red Dirt Rising
 
-[Compare across authors](../../compare/?t=film-red-dirt-rising_48839)
+[Compare across authors](../compare/index.md?t=film-red-dirt-rising_48839)
 
 ## DD+ 5.1
 

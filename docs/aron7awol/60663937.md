@@ -1,6 +1,6 @@
 # Above Suspicion
 
-[Compare across authors](../../compare/?t=film-above-suspicion_421473)
+[Compare across authors](../compare/index.md?t=film-above-suspicion_421473)
 
 ## DTS-HD MA 5.1
 

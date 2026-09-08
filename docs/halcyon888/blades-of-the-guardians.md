@@ -9,7 +9,7 @@ Dao Ma, the "second most wanted fugitive," is entrusted by his benefactor, the c
 
 **MV Adjustment:** -2.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/1305781)  [Compare across authors](../../compare/?t=film-blades-of-the-guardians_1305781)
+[TMDB](https://www.themoviedb.org/movie/1305781)  [Compare across authors](../compare/index.md?t=film-blades-of-the-guardians_1305781)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/Blades%20of%20the%20Guardians%20(2026)%20THD%20Atmos%20PvA.jpg)

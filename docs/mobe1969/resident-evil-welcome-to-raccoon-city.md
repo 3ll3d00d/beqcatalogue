@@ -1,6 +1,6 @@
 # Resident Evil: Welcome to Raccoon City
 
-[Compare across authors](../../compare/?t=film-resident-evil-welcome-to-raccoon-city_460458)
+[Compare across authors](../compare/index.md?t=film-resident-evil-welcome-to-raccoon-city_460458)
 
 ## Atmos
 

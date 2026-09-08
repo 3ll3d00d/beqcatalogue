@@ -9,7 +9,7 @@ When a team of explorers ventures into the catacombs that lie beneath the street
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62822105)  [TMDB](https://www.themoviedb.org/movie/256274)  [Compare across authors](../../compare/?t=film-as-above-so-below_256274)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62822105)  [TMDB](https://www.themoviedb.org/movie/256274)  [Compare across authors](../compare/index.md?t=film-as-above-so-below_256274)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/As%20Above%2C%20So%20Below%20(2014)%20(%2B2%20gain)%20DTS-HD%20MA%207.1.jpg)

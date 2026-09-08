@@ -1,6 +1,6 @@
 # Hidden Universe
 
-[Compare across authors](../../compare/?t=film-hidden-universe_251522)
+[Compare across authors](../compare/index.md?t=film-hidden-universe_251522)
 
 ## DTS-HD MA 5.1
 

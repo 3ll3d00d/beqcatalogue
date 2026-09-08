@@ -9,7 +9,7 @@ Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn fina
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1594?post_id=64020069#post-64020069)  [TMDB](https://www.themoviedb.org/movie/1584)  [Compare across authors](../../compare/?t=film-school-of-rock_1584)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1594?post_id=64020069#post-64020069)  [TMDB](https://www.themoviedb.org/movie/1584)  [Compare across authors](../compare/index.md?t=film-school-of-rock_1584)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/School%20of%20Rock%20(2003)%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)

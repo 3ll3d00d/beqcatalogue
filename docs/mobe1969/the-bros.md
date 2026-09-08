@@ -1,6 +1,6 @@
 # The Bros
 
-[Compare across authors](../../compare/?t=film-the-bros_485442)
+[Compare across authors](../compare/index.md?t=film-the-bros_485442)
 
 ## DD+ 5.1
 

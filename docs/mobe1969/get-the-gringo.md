@@ -1,6 +1,6 @@
 # Get the Gringo
 
-[Compare across authors](../../compare/?t=film-get-the-gringo_80389)
+[Compare across authors](../compare/index.md?t=film-get-the-gringo_80389)
 
 ## DTS-HD MA 5.1
 

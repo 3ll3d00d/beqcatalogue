@@ -1,6 +1,6 @@
 # Amandla
 
-[Compare across authors](../../compare/?t=film-amandla_926180)
+[Compare across authors](../compare/index.md?t=film-amandla_926180)
 
 ## DD+ 5.1
 

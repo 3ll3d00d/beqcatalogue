@@ -1,6 +1,6 @@
 # Ambulance
 
-[Compare across authors](../../compare/?t=film-ambulance_763285)
+[Compare across authors](../compare/index.md?t=film-ambulance_763285)
 
 ## Atmos
 

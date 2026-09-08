@@ -1,6 +1,6 @@
 # Tango & Cash
 
-[Compare across authors](../../compare/?t=film-tango-cash_9618)
+[Compare across authors](../compare/index.md?t=film-tango-cash_9618)
 
 ## TrueHD 5.1
 

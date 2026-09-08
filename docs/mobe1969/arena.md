@@ -1,6 +1,6 @@
 # Arena
 
-[Compare across authors](../../compare/?t=film-arena_71254)
+[Compare across authors](../compare/index.md?t=film-arena_71254)
 
 ## DTS-HD MA 5.1
 

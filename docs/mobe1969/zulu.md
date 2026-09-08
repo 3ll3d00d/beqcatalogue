@@ -1,6 +1,6 @@
 # Zulu
 
-[Compare across authors](../../compare/?t=film-zulu_185567)
+[Compare across authors](../compare/index.md?t=film-zulu_185567)
 
 ## DTS-HD MA 5.1
 

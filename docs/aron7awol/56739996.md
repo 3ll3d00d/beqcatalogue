@@ -1,6 +1,6 @@
 # King Arthur: Legend of the Sword
 
-[Compare across authors](../../compare/?t=film-king-arthur-legend-of-the-sword_274857)
+[Compare across authors](../compare/index.md?t=film-king-arthur-legend-of-the-sword_274857)
 
 ## Atmos
 

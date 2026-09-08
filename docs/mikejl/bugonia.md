@@ -7,7 +7,7 @@
 Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/701387)  [Compare across authors](../../compare/?t=film-bugonia_701387)
+[TMDB](https://www.themoviedb.org/movie/701387)  [Compare across authors](../compare/index.md?t=film-bugonia_701387)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Bugonia/Bugonia%20(2025)%20Atmos.jpg)
@@ -21,7 +21,7 @@ Two conspiracy obsessed young men kidnap the high-powered CEO of a major company
 Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/701387)  [Compare across authors](../../compare/?t=film-bugonia_701387)
+[TMDB](https://www.themoviedb.org/movie/701387)  [Compare across authors](../compare/index.md?t=film-bugonia_701387)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Bugonia/Bugonia%20(2025)%20DD%2B%20Atmos.jpg)

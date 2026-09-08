@@ -9,7 +9,7 @@ Five years after the events of Jurassic World Dominion, covert operations expert
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1648?post_id=64215169#post-64215169)  [TMDB](https://www.themoviedb.org/movie/1234821)  [Compare across authors](../../compare/?t=film-jurassic-world-rebirth_1234821)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1648?post_id=64215169#post-64215169)  [TMDB](https://www.themoviedb.org/movie/1234821)  [Compare across authors](../compare/index.md?t=film-jurassic-world-rebirth_1234821)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jurassic%20World%20Rebirth%20(2025)%20(%2B.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Five years after the events of Jurassic World Dominion, covert operations expert
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1623?post_id=64130508#post-64130508)  [TMDB](https://www.themoviedb.org/movie/1234821)  [Compare across authors](../../compare/?t=film-jurassic-world-rebirth_1234821)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1623?post_id=64130508#post-64130508)  [TMDB](https://www.themoviedb.org/movie/1234821)  [Compare across authors](../compare/index.md?t=film-jurassic-world-rebirth_1234821)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jurassic%20World%20Rebirth%20(2025)%20(%2B1gain)%20DD%2B%20Atmos.jpg)

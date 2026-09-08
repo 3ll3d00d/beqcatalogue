@@ -1,6 +1,6 @@
 # Crazy Samurai Musashi
 
-[Compare across authors](../../compare/?t=film-crazy-samurai-musashi_675476)
+[Compare across authors](../compare/index.md?t=film-crazy-samurai-musashi_675476)
 
 ## DTS-HD MA 5.1
 

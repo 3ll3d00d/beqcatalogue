@@ -1,6 +1,6 @@
 # My Girlfriend Is an Agent
 
-[Compare across authors](../../compare/?t=film-my-girlfriend-is-an-agent_18374)
+[Compare across authors](../compare/index.md?t=film-my-girlfriend-is-an-agent_18374)
 
 ## DTS-HD MA 5.1
 

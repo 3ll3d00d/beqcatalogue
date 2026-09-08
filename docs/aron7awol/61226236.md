@@ -1,6 +1,6 @@
 # The Last Duel
 
-[Compare across authors](../../compare/?t=film-the-last-duel_617653)
+[Compare across authors](../compare/index.md?t=film-the-last-duel_617653)
 
 ## Atmos, DD+ Atmos
 

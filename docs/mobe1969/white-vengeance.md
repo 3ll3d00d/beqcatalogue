@@ -1,6 +1,6 @@
 # White Vengeance
 
-[Compare across authors](../../compare/?t=film-white-vengeance_81344)
+[Compare across authors](../compare/index.md?t=film-white-vengeance_81344)
 
 ## DTS-HD MA 5.1
 

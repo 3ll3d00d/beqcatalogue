@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-twilight-of-the-gods_97333)
+* [Compare across authors](../compare/index.md?t=TV-twilight-of-the-gods_97333)
 
 * Production Year: 2024
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-agent-elvis_110126)
+[Compare across authors](../compare/index.md?t=TV-agent-elvis_110126)
 
 ## Season 1
 

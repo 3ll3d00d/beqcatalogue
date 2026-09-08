@@ -1,6 +1,6 @@
 # Dear Dictator
 
-[Compare across authors](../../compare/?t=film-dear-dictator_418667)
+[Compare across authors](../compare/index.md?t=film-dear-dictator_418667)
 
 ## DD+ 5.1
 

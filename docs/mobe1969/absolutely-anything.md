@@ -1,6 +1,6 @@
 # Absolutely Anything
 
-[Compare across authors](../../compare/?t=film-absolutely-anything_86828)
+[Compare across authors](../compare/index.md?t=film-absolutely-anything_86828)
 
 ## DTS-HD MA 5.1
 

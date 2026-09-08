@@ -9,7 +9,7 @@ Unrated
 A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/536554)  [Compare across authors](../../compare/?t=film-m3gan_536554)
+[TMDB](https://www.themoviedb.org/movie/536554)  [Compare across authors](../compare/index.md?t=film-m3gan_536554)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/M3GAN/M3GAN%20(2022)%20(Unrated)%20Atmos.jpg)

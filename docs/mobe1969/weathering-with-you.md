@@ -1,6 +1,6 @@
 # Weathering with You
 
-[Compare across authors](../../compare/?t=film-weathering-with-you_568160)
+[Compare across authors](../compare/index.md?t=film-weathering-with-you_568160)
 
 ## DTS-HD MA 5.1
 

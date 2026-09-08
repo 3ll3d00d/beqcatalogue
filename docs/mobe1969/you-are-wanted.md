@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-you-are-wanted_70048)
+[Compare across authors](../compare/index.md?t=TV-you-are-wanted_70048)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Unstoppable
 
-[Compare across authors](../../compare/?t=film-unstoppable_44048)
+[Compare across authors](../compare/index.md?t=film-unstoppable_44048)
 
 ## DTS-HD MA 5.1
 

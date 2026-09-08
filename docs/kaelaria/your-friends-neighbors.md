@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-your-friends-neighbors_241609)
+* [Compare across authors](../compare/index.md?t=TV-your-friends-neighbors_241609)
 
 * Production Year: 2025
 

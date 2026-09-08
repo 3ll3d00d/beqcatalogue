@@ -1,6 +1,6 @@
 # Outrage
 
-[Compare across authors](../../compare/?t=film-outrage_45284)
+[Compare across authors](../compare/index.md?t=film-outrage_45284)
 
 ## DTS-HD MA 5.1
 

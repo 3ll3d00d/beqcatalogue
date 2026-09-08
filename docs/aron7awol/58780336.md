@@ -1,6 +1,6 @@
 # Bridge of Spies
 
-[Compare across authors](../../compare/?t=film-bridge-of-spies_296098)
+[Compare across authors](../compare/index.md?t=film-bridge-of-spies_296098)
 
 ## DTS-HD MA 7.1
 

@@ -1,6 +1,6 @@
 # The Lost Battalion
 
-[Compare across authors](../../compare/?t=film-the-lost-battalion_35583)
+[Compare across authors](../compare/index.md?t=film-the-lost-battalion_35583)
 
 ## DTS-HD MA 5.1
 

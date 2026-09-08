@@ -1,6 +1,6 @@
 # Ready Player One
 
-[Compare across authors](../../compare/?t=film-ready-player-one_333339)
+[Compare across authors](../compare/index.md?t=film-ready-player-one_333339)
 
 ## Atmos
 

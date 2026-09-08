@@ -1,6 +1,6 @@
 # Vampire Cleanup Department
 
-[Compare across authors](../../compare/?t=film-vampire-cleanup-department_446830)
+[Compare across authors](../compare/index.md?t=film-vampire-cleanup-department_446830)
 
 ## TrueHD 5.1
 

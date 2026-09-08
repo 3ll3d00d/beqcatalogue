@@ -12,7 +12,7 @@ With his nephews and niece, everyone's favorite rich uncle, Scrooge McDuck, trek
 Advanced Audio Codec 2.0
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1441#post-63273759)  [TMDB](https://www.themoviedb.org/movie/10837)  [Compare across authors](../../compare/?t=film-ducktales-the-movie-treasure-of-the-lost-lamp_10837)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1441#post-63273759)  [TMDB](https://www.themoviedb.org/movie/10837)  [Compare across authors](../compare/index.md?t=film-ducktales-the-movie-treasure-of-the-lost-lamp_10837)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/DuckTales%20The%20Movie%20Treasure%20of%20the%20Lost%20Lamp%20(1990)%20(%2B6%20gain)%20DD%202.jpg)

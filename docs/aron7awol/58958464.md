@@ -1,6 +1,6 @@
 # Rise of the Guardians
 
-[Compare across authors](../../compare/?t=film-rise-of-the-guardians_81188)
+[Compare across authors](../compare/index.md?t=film-rise-of-the-guardians_81188)
 
 ## TrueHD 7.1
 

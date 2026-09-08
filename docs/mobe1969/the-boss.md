@@ -1,6 +1,6 @@
 # The Boss
 
-[Compare across authors](../../compare/?t=film-the-boss_323676)
+[Compare across authors](../compare/index.md?t=film-the-boss_323676)
 
 ## DTS-HD MA 5.1
 

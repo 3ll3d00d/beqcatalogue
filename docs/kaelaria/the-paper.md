@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-the-paper_253941)
+* [Compare across authors](../compare/index.md?t=TV-the-paper_253941)
 
 * Production Year: 2025
 

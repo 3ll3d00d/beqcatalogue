@@ -1,6 +1,6 @@
 # Fortress: Sniper's Eye
 
-[Compare across authors](../../compare/?t=film-fortress-snipers-eye_883502)
+[Compare across authors](../compare/index.md?t=film-fortress-snipers-eye_883502)
 
 ## DTS-HD MA 5.1
 

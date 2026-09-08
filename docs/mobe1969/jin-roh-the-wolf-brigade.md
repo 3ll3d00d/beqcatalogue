@@ -1,6 +1,6 @@
 # Jin-Roh: The Wolf Brigade
 
-[Compare across authors](../../compare/?t=film-jin-roh-the-wolf-brigade_823)
+[Compare across authors](../compare/index.md?t=film-jin-roh-the-wolf-brigade_823)
 
 ## DTS-HD MA 5.1
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-family-man_93352)
+[Compare across authors](../compare/index.md?t=TV-the-family-man_93352)
 
 ## Season 1
 

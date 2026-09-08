@@ -7,7 +7,7 @@
 Simon Phoenix, a violent criminal cryogenically frozen in 1996, escapes during a parole hearing in 2032 in the utopia of San Angeles. Police are incapable of dealing with his violent ways and turn to his captor, who had also been cryogenically frozen after being wrongfully accused of killing 30 innocent people while apprehending Phoenix.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9739)  [Compare across authors](../../compare/?t=film-demolition-man_9739)
+[TMDB](https://www.themoviedb.org/movie/9739)  [Compare across authors](../compare/index.md?t=film-demolition-man_9739)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Demolition%20Man%20(1993)%20TrueHD%20Atmos.jpg)

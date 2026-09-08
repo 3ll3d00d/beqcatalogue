@@ -1,6 +1,6 @@
 # The Man for the Job
 
-[Compare across authors](../../compare/?t=film-the-man-for-the-job_1022733)
+[Compare across authors](../compare/index.md?t=film-the-man-for-the-job_1022733)
 
 ## DD+ 5.1
 

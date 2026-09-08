@@ -1,6 +1,6 @@
 # Blair Witch
 
-[Compare across authors](../../compare/?t=film-blair-witch_351211)
+[Compare across authors](../compare/index.md?t=film-blair-witch_351211)
 
 ## DD+ 5.1
 

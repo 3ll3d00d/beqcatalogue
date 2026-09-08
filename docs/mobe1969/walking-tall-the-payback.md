@@ -1,6 +1,6 @@
 # Walking Tall: The Payback
 
-[Compare across authors](../../compare/?t=film-walking-tall-the-payback_15066)
+[Compare across authors](../compare/index.md?t=film-walking-tall-the-payback_15066)
 
 ## DD+ 5.1
 

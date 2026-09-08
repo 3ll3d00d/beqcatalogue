@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-snowpiercer_79680)
+[Compare across authors](../compare/index.md?t=TV-snowpiercer_79680)
 
 ## Season 1
 

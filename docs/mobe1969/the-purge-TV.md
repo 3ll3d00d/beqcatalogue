@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-purge_80213)
+[Compare across authors](../compare/index.md?t=TV-the-purge_80213)
 
 ## Season 1
 

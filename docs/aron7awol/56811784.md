@@ -1,6 +1,6 @@
 # Thor: The Dark World
 
-[Compare across authors](../../compare/?t=film-thor-the-dark-world_76338)
+[Compare across authors](../compare/index.md?t=film-thor-the-dark-world_76338)
 
 ## Atmos
 

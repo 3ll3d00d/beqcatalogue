@@ -1,6 +1,6 @@
 # The Eagle
 
-[Compare across authors](../../compare/?t=film-the-eagle_49494)
+[Compare across authors](../compare/index.md?t=film-the-eagle_49494)
 
 ## DTS-HD MA 5.1
 

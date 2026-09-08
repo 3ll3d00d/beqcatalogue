@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-happiness_135340)
+[Compare across authors](../compare/index.md?t=TV-happiness_135340)
 
 ## Season 1
 

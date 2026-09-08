@@ -1,6 +1,6 @@
 # Fantastic Mr. Fox
 
-[Compare across authors](../../compare/?t=film-fantastic-mr-fox_10315)
+[Compare across authors](../compare/index.md?t=film-fantastic-mr-fox_10315)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

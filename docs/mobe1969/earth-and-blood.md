@@ -1,6 +1,6 @@
 # Earth and Blood
 
-[Compare across authors](../../compare/?t=film-earth-and-blood_659067)
+[Compare across authors](../compare/index.md?t=film-earth-and-blood_659067)
 
 ## DD+ 5.1
 

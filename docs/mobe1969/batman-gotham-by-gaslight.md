@@ -1,6 +1,6 @@
 # Batman: Gotham by Gaslight
 
-[Compare across authors](../../compare/?t=film-batman-gotham-by-gaslight_471474)
+[Compare across authors](../compare/index.md?t=film-batman-gotham-by-gaslight_471474)
 
 ## DTS-HD MA 5.1
 

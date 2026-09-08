@@ -1,6 +1,6 @@
 # Goliyon Ki Raasleela Ram-Leela
 
-[Compare across authors](../../compare/?t=film-goliyon-ki-raasleela-ram-leela_235984)
+[Compare across authors](../compare/index.md?t=film-goliyon-ki-raasleela-ram-leela_235984)
 
 ## DTS-HD MA 7.1
 

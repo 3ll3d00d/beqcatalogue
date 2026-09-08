@@ -14,7 +14,7 @@ In year 1250 B.C. during the late Bronze age, two emerging nations begin to clas
 UHD
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1761?post_id=64736418#post-64736418)  [TMDB](https://www.themoviedb.org/movie/652)  [Compare across authors](../../compare/?t=film-troy_652)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1761?post_id=64736418#post-64736418)  [TMDB](https://www.themoviedb.org/movie/652)  [Compare across authors](../compare/index.md?t=film-troy_652)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Troy%20(2004)%20(%2B7.5%20gain)%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # The Bullet Vanishes
 
-[Compare across authors](../../compare/?t=film-the-bullet-vanishes_129850)
+[Compare across authors](../compare/index.md?t=film-the-bullet-vanishes_129850)
 
 ## DTS-HD MA 7.1
 

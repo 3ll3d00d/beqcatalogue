@@ -1,6 +1,6 @@
 # One Missed Call 2
 
-[Compare across authors](../../compare/?t=film-one-missed-call-2_14021)
+[Compare across authors](../compare/index.md?t=film-one-missed-call-2_14021)
 
 ## DTS-HD MA 5.1
 

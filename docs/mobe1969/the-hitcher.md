@@ -1,6 +1,6 @@
 # The Hitcher
 
-[Compare across authors](../../compare/?t=film-the-hitcher_8398)
+[Compare across authors](../compare/index.md?t=film-the-hitcher_8398)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Blasted
 
-[Compare across authors](../../compare/?t=film-blasted_982987)
+[Compare across authors](../compare/index.md?t=film-blasted_982987)
 
 ## DD+ Atmos
 

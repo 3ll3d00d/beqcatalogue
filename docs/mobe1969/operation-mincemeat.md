@@ -1,6 +1,6 @@
 # Operation Mincemeat
 
-[Compare across authors](../../compare/?t=film-operation-mincemeat_661231)
+[Compare across authors](../compare/index.md?t=film-operation-mincemeat_661231)
 
 ## DD+ 5.1
 

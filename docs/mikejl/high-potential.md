@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-high-potential_226637)
+* [Compare across authors](../compare/index.md?t=TV-high-potential_226637)
 
 * Production Year: 2024
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-high-potential_226637)
+* [Compare across authors](../compare/index.md?t=TV-high-potential_226637)
 
 * Production Year: 2024
 

@@ -1,6 +1,6 @@
 # Third Person
 
-[Compare across authors](../../compare/?t=film-third-person_192145)
+[Compare across authors](../compare/index.md?t=film-third-person_192145)
 
 ## DTS-HD MA 5.1
 

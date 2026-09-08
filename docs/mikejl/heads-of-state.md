@@ -7,7 +7,7 @@
 The UK Prime Minister and US President have a public rivalry that risks their countries' alliance. But when they become targets of a powerful enemy, they're forced to rely on each other as they go on a wild, multinational run. Allied with Noel, a brilliant MI6 agent, they must find a way to thwart a conspiracy that threatens the free world.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/749170)  [Compare across authors](../../compare/?t=film-heads-of-state_749170)
+[TMDB](https://www.themoviedb.org/movie/749170)  [Compare across authors](../compare/index.md?t=film-heads-of-state_749170)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Heads%20of%20State/Heads%20of%20State%20(2025)%20DD%2B%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # Deadstream
 
-[Compare across authors](../../compare/?t=film-deadstream_886083)
+[Compare across authors](../compare/index.md?t=film-deadstream_886083)
 
 ## DTS-HD MA 5.1
 

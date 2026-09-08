@@ -1,6 +1,6 @@
 # Penthouse North
 
-[Compare across authors](../../compare/?t=film-penthouse-north_199591)
+[Compare across authors](../compare/index.md?t=film-penthouse-north_199591)
 
 ## DTS-HD MA 5.1
 

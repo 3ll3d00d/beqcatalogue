@@ -1,6 +1,6 @@
 # Asterix & Obelix: The Middle Kingdom
 
-[Compare across authors](../../compare/?t=film-asterix-obelix-the-middle-kingdom_643215)
+[Compare across authors](../compare/index.md?t=film-asterix-obelix-the-middle-kingdom_643215)
 
 ## DD+ Atmos
 

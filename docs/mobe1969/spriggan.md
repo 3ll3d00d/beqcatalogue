@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-spriggan_94925)
+[Compare across authors](../compare/index.md?t=TV-spriggan_94925)
 
 ## Season 1
 

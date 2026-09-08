@@ -1,6 +1,6 @@
 # Pitch Black
 
-[Compare across authors](../../compare/?t=film-pitch-black_2787)
+[Compare across authors](../compare/index.md?t=film-pitch-black_2787)
 
 ## Atmos
 

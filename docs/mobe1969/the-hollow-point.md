@@ -1,6 +1,6 @@
 # The Hollow Point
 
-[Compare across authors](../../compare/?t=film-the-hollow-point_262982)
+[Compare across authors](../compare/index.md?t=film-the-hollow-point_262982)
 
 ## DTS-HD MA 5.1
 

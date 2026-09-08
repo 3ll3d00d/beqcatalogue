@@ -1,6 +1,6 @@
 # Fallen
 
-[Compare across authors](../../compare/?t=film-fallen_9411)
+[Compare across authors](../compare/index.md?t=film-fallen_9411)
 
 ## DTS-HD MA 5.1
 

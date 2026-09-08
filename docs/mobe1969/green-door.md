@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-green-door_87663)
+[Compare across authors](../compare/index.md?t=TV-green-door_87663)
 
 ## Season 1
 

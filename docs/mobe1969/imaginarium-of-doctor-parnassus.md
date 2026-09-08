@@ -1,6 +1,6 @@
 # Imaginarium of Doctor Parnassus
 
-[Compare across authors](../../compare/?t=film-imaginarium-of-doctor-parnassus_8054)
+[Compare across authors](../compare/index.md?t=film-imaginarium-of-doctor-parnassus_8054)
 
 ## DTS-HD MA 5.1
 

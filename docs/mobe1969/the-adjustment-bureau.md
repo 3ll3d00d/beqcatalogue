@@ -1,6 +1,6 @@
 # The Adjustment Bureau
 
-[Compare across authors](../../compare/?t=film-the-adjustment-bureau_38050)
+[Compare across authors](../compare/index.md?t=film-the-adjustment-bureau_38050)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Ghost Writer
 
-[Compare across authors](../../compare/?t=film-the-ghost-writer_11439)
+[Compare across authors](../compare/index.md?t=film-the-ghost-writer_11439)
 
 ## DTS-HD MA 5.1
 

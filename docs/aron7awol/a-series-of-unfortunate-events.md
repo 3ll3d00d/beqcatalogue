@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-a-series-of-unfortunate-events_65294)
+[Compare across authors](../compare/index.md?t=TV-a-series-of-unfortunate-events_65294)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # 6 Below
 
-[Compare across authors](../../compare/?t=film-6-below_423087)
+[Compare across authors](../compare/index.md?t=film-6-below_423087)
 
 ## DTS-HD MA 5.1
 

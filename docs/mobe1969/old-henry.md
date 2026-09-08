@@ -1,6 +1,6 @@
 # Old Henry
 
-[Compare across authors](../../compare/?t=film-old-henry_785663)
+[Compare across authors](../compare/index.md?t=film-old-henry_785663)
 
 ## DD+ 5.1
 

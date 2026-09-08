@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-frank-herberts-children-of-dune_9156)
+[Compare across authors](../compare/index.md?t=TV-frank-herberts-children-of-dune_9156)
 
 ## Season 1
 

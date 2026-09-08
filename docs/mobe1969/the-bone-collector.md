@@ -1,6 +1,6 @@
 # The Bone Collector
 
-[Compare across authors](../../compare/?t=film-the-bone-collector_9481)
+[Compare across authors](../compare/index.md?t=film-the-bone-collector_9481)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Four Christmases
 
-[Compare across authors](../../compare/?t=film-four-christmases_12193)
+[Compare across authors](../compare/index.md?t=film-four-christmases_12193)
 
 ## TrueHD 5.1
 

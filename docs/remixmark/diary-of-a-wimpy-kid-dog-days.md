@@ -9,7 +9,7 @@ It's summertime, and Greg Heffley is looking forward to playing video games and 
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64320888#post-64320888)  [TMDB](https://www.themoviedb.org/movie/82650)  [Compare across authors](../../compare/?t=film-diary-of-a-wimpy-kid-dog-days_82650)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1682?post_id=64320888#post-64320888)  [TMDB](https://www.themoviedb.org/movie/82650)  [Compare across authors](../compare/index.md?t=film-diary-of-a-wimpy-kid-dog-days_82650)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Diary%20of%20a%20Wimpy%20Kid%20Dog%20Days%20(2012)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

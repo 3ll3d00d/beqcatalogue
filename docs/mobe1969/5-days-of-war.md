@@ -1,6 +1,6 @@
 # 5 Days of War
 
-[Compare across authors](../../compare/?t=film-5-days-of-war_50601)
+[Compare across authors](../compare/index.md?t=film-5-days-of-war_50601)
 
 ## DTS-HD MA 5.1
 

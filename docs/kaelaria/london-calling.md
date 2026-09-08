@@ -7,7 +7,7 @@
 After fleeing the UK from a job gone wrong, a down on his luck hitman is forced to babysit the son of his new crime boss and show him how to become a man.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1217602)  [Compare across authors](../../compare/?t=film-london-calling_1217602)
+[TMDB](https://www.themoviedb.org/movie/1217602)  [Compare across authors](../compare/index.md?t=film-london-calling_1217602)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/London%20calling%20(2025)%20DTS-HD%20MA%205.1.jpg)

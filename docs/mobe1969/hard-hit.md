@@ -1,6 +1,6 @@
 # Hard Hit
 
-[Compare across authors](../../compare/?t=film-hard-hit_654739)
+[Compare across authors](../compare/index.md?t=film-hard-hit_654739)
 
 ## DTS-HD MA 5.1
 

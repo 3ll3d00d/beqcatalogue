@@ -9,7 +9,7 @@ The police try to arrest expert hostage negotiator Danny Roman, who insists he's
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/posts/63036304/)  [TMDB](https://www.themoviedb.org/movie/9631)  [Compare across authors](../../compare/?t=film-the-negotiator_9631)
+[Discuss](https://www.avsforum.com/posts/63036304/)  [TMDB](https://www.themoviedb.org/movie/9631)  [Compare across authors](../compare/index.md?t=film-the-negotiator_9631)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Negotiator%20(1998)%20(%2B4%20gain)%20TreuHD%205.1.jpg)

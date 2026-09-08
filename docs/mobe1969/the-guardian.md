@@ -1,6 +1,6 @@
 # The Guardian
 
-[Compare across authors](../../compare/?t=film-the-guardian_4643)
+[Compare across authors](../compare/index.md?t=film-the-guardian_4643)
 
 ## LPCM 5.1
 

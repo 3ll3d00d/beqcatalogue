@@ -1,6 +1,6 @@
 # The Smurfs 2
 
-[Compare across authors](../../compare/?t=film-the-smurfs-2_77931)
+[Compare across authors](../compare/index.md?t=film-the-smurfs-2_77931)
 
 ## Atmos
 

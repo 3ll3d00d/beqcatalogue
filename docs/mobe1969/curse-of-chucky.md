@@ -1,6 +1,6 @@
 # Curse of Chucky
 
-[Compare across authors](../../compare/?t=film-curse-of-chucky_167032)
+[Compare across authors](../compare/index.md?t=film-curse-of-chucky_167032)
 
 ## DTS-HD MA 5.1
 

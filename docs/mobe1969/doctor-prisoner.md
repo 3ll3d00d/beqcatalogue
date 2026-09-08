@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-doctor-prisoner_87187)
+[Compare across authors](../compare/index.md?t=TV-doctor-prisoner_87187)
 
 ## Season 1
 

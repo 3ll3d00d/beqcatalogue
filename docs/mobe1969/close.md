@@ -1,6 +1,6 @@
 # Close
 
-[Compare across authors](../../compare/?t=film-close_460321)
+[Compare across authors](../compare/index.md?t=film-close_460321)
 
 ## DD+ 5.1
 

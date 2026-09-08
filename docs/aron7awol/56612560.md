@@ -1,6 +1,6 @@
 # Underworld: Blood Wars
 
-[Compare across authors](../../compare/?t=film-underworld-blood-wars_346672)
+[Compare across authors](../compare/index.md?t=film-underworld-blood-wars_346672)
 
 ## Atmos
 

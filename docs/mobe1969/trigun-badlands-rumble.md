@@ -1,6 +1,6 @@
 # Trigun: Badlands Rumble
 
-[Compare across authors](../../compare/?t=film-trigun-badlands-rumble_51859)
+[Compare across authors](../compare/index.md?t=film-trigun-badlands-rumble_51859)
 
 ## TrueHD 5.1
 

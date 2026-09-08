@@ -1,6 +1,6 @@
 # Gabbar Is Back
 
-[Compare across authors](../../compare/?t=film-gabbar-is-back_337876)
+[Compare across authors](../compare/index.md?t=film-gabbar-is-back_337876)
 
 ## DD+ 5.1
 

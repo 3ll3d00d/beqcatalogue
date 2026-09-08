@@ -1,6 +1,6 @@
 # Ace Ventura: When Nature Calls
 
-[Compare across authors](../../compare/?t=film-ace-ventura-when-nature-calls_9273)
+[Compare across authors](../compare/index.md?t=film-ace-ventura-when-nature-calls_9273)
 
 ## DTS-HD MA 5.1
 

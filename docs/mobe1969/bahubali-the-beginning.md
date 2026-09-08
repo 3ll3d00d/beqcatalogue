@@ -1,6 +1,6 @@
 # Bāhubali: The Beginning
 
-[Compare across authors](../../compare/?t=film-bahubali-the-beginning_256040)
+[Compare across authors](../compare/index.md?t=film-bahubali-the-beginning_256040)
 
 ## DD+ 5.1
 

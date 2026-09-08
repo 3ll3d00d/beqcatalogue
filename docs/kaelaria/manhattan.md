@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-manhattan_61112)
+* [Compare across authors](../compare/index.md?t=TV-manhattan_61112)
 
 * Production Year: 2014
 
@@ -22,7 +22,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-manhattan_61112)
+* [Compare across authors](../compare/index.md?t=TV-manhattan_61112)
 
 * Production Year: 2014
 

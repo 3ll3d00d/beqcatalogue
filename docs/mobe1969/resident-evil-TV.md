@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-resident-evil_108296)
+[Compare across authors](../compare/index.md?t=TV-resident-evil_108296)
 
 ## Season 1
 

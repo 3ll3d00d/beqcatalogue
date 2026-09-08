@@ -1,6 +1,6 @@
 # Free Guy
 
-[Compare across authors](../../compare/?t=film-free-guy_550988)
+[Compare across authors](../compare/index.md?t=film-free-guy_550988)
 
 ## Atmos, DD+ Atmos, DTS-HD MA 7.1
 

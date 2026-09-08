@@ -1,6 +1,6 @@
 # Unhinged
 
-[Compare across authors](../../compare/?t=film-unhinged_454417)
+[Compare across authors](../compare/index.md?t=film-unhinged_454417)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # An Empress and the Warriors
 
-[Compare across authors](../../compare/?t=film-an-empress-and-the-warriors_14539)
+[Compare across authors](../compare/index.md?t=film-an-empress-and-the-warriors_14539)
 
 ## DTS-HD MA 5.1, TrueHD 5.1
 

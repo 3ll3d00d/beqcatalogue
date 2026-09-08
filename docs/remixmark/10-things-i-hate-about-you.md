@@ -9,7 +9,7 @@ On the first day at his new school, Cameron instantly falls for Bianca, the gorg
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1733?post_id=64567925#post-64567925)  [TMDB](https://www.themoviedb.org/movie/4951)  [Compare across authors](../../compare/?t=film-10-things-i-hate-about-you_4951)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1733?post_id=64567925#post-64567925)  [TMDB](https://www.themoviedb.org/movie/4951)  [Compare across authors](../compare/index.md?t=film-10-things-i-hate-about-you_4951)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/10%20Things%20I%20Hate%20About%20You%20(1999)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

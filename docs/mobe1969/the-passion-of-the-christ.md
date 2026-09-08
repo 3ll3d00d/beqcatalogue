@@ -1,6 +1,6 @@
 # The Passion of the Christ
 
-[Compare across authors](../../compare/?t=film-the-passion-of-the-christ_615)
+[Compare across authors](../compare/index.md?t=film-the-passion-of-the-christ_615)
 
 ## DTS-HD MA 5.1
 

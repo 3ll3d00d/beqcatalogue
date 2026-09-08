@@ -1,6 +1,6 @@
 # The Offering
 
-[Compare across authors](../../compare/?t=film-the-offering_955991)
+[Compare across authors](../compare/index.md?t=film-the-offering_955991)
 
 ## DD+ 5.1
 

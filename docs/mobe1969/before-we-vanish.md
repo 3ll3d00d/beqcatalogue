@@ -1,6 +1,6 @@
 # Before We Vanish
 
-[Compare across authors](../../compare/?t=film-before-we-vanish_446164)
+[Compare across authors](../compare/index.md?t=film-before-we-vanish_446164)
 
 ## DTS-HD MA 7.1
 

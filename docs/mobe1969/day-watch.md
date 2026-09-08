@@ -1,6 +1,6 @@
 # Day Watch
 
-[Compare across authors](../../compare/?t=film-day-watch_2269)
+[Compare across authors](../compare/index.md?t=film-day-watch_2269)
 
 ## TrueHD 5.1
 

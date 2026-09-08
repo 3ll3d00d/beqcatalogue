@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-sugar_203744)
+* [Compare across authors](../compare/index.md?t=TV-sugar_203744)
 
 * Production Year: 2024
 

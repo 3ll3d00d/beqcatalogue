@@ -1,6 +1,6 @@
 # The Skin I Live In
 
-[Compare across authors](../../compare/?t=film-the-skin-i-live-in_63311)
+[Compare across authors](../compare/index.md?t=film-the-skin-i-live-in_63311)
 
 ## DTS-HD MA 5.1
 

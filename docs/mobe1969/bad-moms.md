@@ -1,6 +1,6 @@
 # Bad Moms
 
-[Compare across authors](../../compare/?t=film-bad-moms_376659)
+[Compare across authors](../compare/index.md?t=film-bad-moms_376659)
 
 ## DTS-HD MA 5.1
 

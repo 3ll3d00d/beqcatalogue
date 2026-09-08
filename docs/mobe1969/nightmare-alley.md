@@ -1,6 +1,6 @@
 # Nightmare Alley
 
-[Compare across authors](../../compare/?t=film-nightmare-alley_597208)
+[Compare across authors](../compare/index.md?t=film-nightmare-alley_597208)
 
 ## Atmos
 

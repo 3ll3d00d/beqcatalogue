@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-smoking_81876)
+[Compare across authors](../compare/index.md?t=TV-smoking_81876)
 
 ## Season 1
 

@@ -11,7 +11,7 @@ Speed Racer is a young and brilliant racing driver. When corruption in the racin
 
 **MV Adjustment:** -1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1741?post_id=64611393#post-64611393)  [TMDB](https://www.themoviedb.org/movie/7459)  [Compare across authors](../../compare/?t=film-speed-racer_7459)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1741?post_id=64611393#post-64611393)  [TMDB](https://www.themoviedb.org/movie/7459)  [Compare across authors](../compare/index.md?t=film-speed-racer_7459)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Speed%20Racer%20(2008)%20(-1%20gain)%20Atmos.jpg)

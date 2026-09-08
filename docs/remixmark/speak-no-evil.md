@@ -12,7 +12,7 @@ When an American family is invited to spend the weekend at the idyllic country e
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1534?post_id=63685298#post-63685298)  [TMDB](https://www.themoviedb.org/movie/1114513)  [Compare across authors](../../compare/?t=film-speak-no-evil_1114513)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1534?post_id=63685298#post-63685298)  [TMDB](https://www.themoviedb.org/movie/1114513)  [Compare across authors](../compare/index.md?t=film-speak-no-evil_1114513)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Speak%20No%20Evil%20(2024)%20(%2B4.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ When an American family is invited to spend the weekend at the idyllic country e
 
 **MV Adjustment:** +7.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1507?post_id=63570994#post-63570994)  [TMDB](https://www.themoviedb.org/movie/1114513)  [Compare across authors](../../compare/?t=film-speak-no-evil_1114513)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1507?post_id=63570994#post-63570994)  [TMDB](https://www.themoviedb.org/movie/1114513)  [Compare across authors](../compare/index.md?t=film-speak-no-evil_1114513)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Speak%20No%20Evil%202024%20(%2B7%20gain)%20DD%2B%20Atmos.jpg)

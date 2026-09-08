@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-house-of-the-dragon_94997)
+[Compare across authors](../compare/index.md?t=TV-house-of-the-dragon_94997)
 
 ## Season 1 Episodes 1-6, 8-10
 

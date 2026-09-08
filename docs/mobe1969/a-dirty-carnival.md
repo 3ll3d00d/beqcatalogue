@@ -1,6 +1,6 @@
 # A Dirty Carnival
 
-[Compare across authors](../../compare/?t=film-a-dirty-carnival_23538)
+[Compare across authors](../compare/index.md?t=film-a-dirty-carnival_23538)
 
 ## DTS-HD MA 5.1
 

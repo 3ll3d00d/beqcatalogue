@@ -1,6 +1,6 @@
 # Human, Space, Time and Human
 
-[Compare across authors](../../compare/?t=film-human-space-time-and-human_459267)
+[Compare across authors](../compare/index.md?t=film-human-space-time-and-human_459267)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Immortals
 
-[Compare across authors](../../compare/?t=film-immortals_37958)
+[Compare across authors](../compare/index.md?t=film-immortals_37958)
 
 ## DTS-HD MA 5.1
 

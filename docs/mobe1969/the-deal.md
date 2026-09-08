@@ -1,6 +1,6 @@
 # The Deal
 
-[Compare across authors](../../compare/?t=film-the-deal_718919)
+[Compare across authors](../compare/index.md?t=film-the-deal_718919)
 
 ## DD+ 5.1
 

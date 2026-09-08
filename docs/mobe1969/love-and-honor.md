@@ -1,6 +1,6 @@
 # Love and Honor
 
-[Compare across authors](../../compare/?t=film-love-and-honor_140222)
+[Compare across authors](../compare/index.md?t=film-love-and-honor_140222)
 
 ## DTS-HD MA 5.1
 

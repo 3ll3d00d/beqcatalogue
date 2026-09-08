@@ -1,6 +1,6 @@
 # Death Race: Inferno
 
-[Compare across authors](../../compare/?t=film-death-race-inferno_156717)
+[Compare across authors](../compare/index.md?t=film-death-race-inferno_156717)
 
 ## DTS-HD MA 5.1
 

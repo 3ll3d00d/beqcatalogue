@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-innocents_77400)
+[Compare across authors](../compare/index.md?t=TV-the-innocents_77400)
 
 ## Season 1
 

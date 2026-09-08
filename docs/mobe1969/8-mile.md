@@ -1,6 +1,6 @@
 # 8 Mile
 
-[Compare across authors](../../compare/?t=film-8-mile_65)
+[Compare across authors](../compare/index.md?t=film-8-mile_65)
 
 ## DTS-X
 

@@ -1,6 +1,6 @@
 # Mosul
 
-[Compare across authors](../../compare/?t=film-mosul_594082)
+[Compare across authors](../compare/index.md?t=film-mosul_594082)
 
 ## DTS-HD MA 5.1
 

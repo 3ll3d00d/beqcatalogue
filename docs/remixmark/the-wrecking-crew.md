@@ -12,7 +12,7 @@ Estranged half-brothers Jonny and James reunite after their father's mysterious 
 Dialnorm Compensation: 6dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1705?post_id=64441629#post-64441629)  [TMDB](https://www.themoviedb.org/movie/1168190)  [Compare across authors](../../compare/?t=film-the-wrecking-crew_1168190)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1705?post_id=64441629#post-64441629)  [TMDB](https://www.themoviedb.org/movie/1168190)  [Compare across authors](../compare/index.md?t=film-the-wrecking-crew_1168190)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Wrecking%20Crew%20(2026)%20(-.5%20gain)%20DD%2B%20Atmos.jpg)

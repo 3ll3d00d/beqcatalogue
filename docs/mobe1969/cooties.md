@@ -1,6 +1,6 @@
 # Cooties
 
-[Compare across authors](../../compare/?t=film-cooties_241843)
+[Compare across authors](../compare/index.md?t=film-cooties_241843)
 
 ## DTS-HD MA 5.1
 

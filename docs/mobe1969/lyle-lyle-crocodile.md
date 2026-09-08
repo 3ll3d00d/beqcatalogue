@@ -1,6 +1,6 @@
 # Lyle, Lyle, Crocodile
 
-[Compare across authors](../../compare/?t=film-lyle-lyle-crocodile_830784)
+[Compare across authors](../compare/index.md?t=film-lyle-lyle-crocodile_830784)
 
 ## DD+ 5.1
 

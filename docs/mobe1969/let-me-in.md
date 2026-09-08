@@ -1,6 +1,6 @@
 # Let Me In
 
-[Compare across authors](../../compare/?t=film-let-me-in_41402)
+[Compare across authors](../compare/index.md?t=film-let-me-in_41402)
 
 ## TrueHD 5.1
 

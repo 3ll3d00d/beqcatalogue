@@ -1,6 +1,6 @@
 # Jigsaw
 
-[Compare across authors](../../compare/?t=film-jigsaw_298250)
+[Compare across authors](../compare/index.md?t=film-jigsaw_298250)
 
 ## Atmos
 

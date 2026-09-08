@@ -1,6 +1,6 @@
 # Backdraft
 
-[Compare across authors](../../compare/?t=film-backdraft_2924)
+[Compare across authors](../compare/index.md?t=film-backdraft_2924)
 
 ## DTS-X
 

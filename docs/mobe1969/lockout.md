@@ -1,6 +1,6 @@
 # Lockout
 
-[Compare across authors](../../compare/?t=film-lockout_81796)
+[Compare across authors](../compare/index.md?t=film-lockout_81796)
 
 ## DTS-HD MA 5.1
 

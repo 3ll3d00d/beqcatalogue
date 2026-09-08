@@ -12,7 +12,7 @@ In the wake of the devastating war against the RDA and the loss of their eldest 
 Dialnorm Compensation: +4dB
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../../compare/?t=film-avatar-fire-and-ash_83533)
+[TMDB](https://www.themoviedb.org/movie/83533)  [Compare across authors](../compare/index.md?t=film-avatar-fire-and-ash_83533)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/refs/heads/main/Avatar%20Fire%20and%20Ash%20(2025)%20THD%20Atmos%20PvA.png)

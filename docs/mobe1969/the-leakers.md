@@ -1,6 +1,6 @@
 # The Leakers
 
-[Compare across authors](../../compare/?t=film-the-leakers_526841)
+[Compare across authors](../compare/index.md?t=film-the-leakers_526841)
 
 ## TrueHD 5.1
 

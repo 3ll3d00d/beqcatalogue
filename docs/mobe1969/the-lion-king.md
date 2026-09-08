@@ -1,6 +1,6 @@
 # The Lion King
 
-[Compare across authors](../../compare/?t=film-the-lion-king_420818)
+[Compare across authors](../compare/index.md?t=film-the-lion-king_420818)
 
 ## DTS-HD MA 7.1, Atmos, DD+ Atmos
 

@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-girl-in-the-mirror_127424)
+[Compare across authors](../compare/index.md?t=TV-the-girl-in-the-mirror_127424)
 
 ## Season 1
 

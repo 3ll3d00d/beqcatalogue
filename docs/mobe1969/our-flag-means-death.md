@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-our-flag-means-death_109939)
+[Compare across authors](../compare/index.md?t=TV-our-flag-means-death_109939)
 
 ## Season 1
 

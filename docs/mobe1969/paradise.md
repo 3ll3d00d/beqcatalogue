@@ -1,6 +1,6 @@
 # Paradise
 
-[Compare across authors](../../compare/?t=film-paradise_1140066)
+[Compare across authors](../compare/index.md?t=film-paradise_1140066)
 
 ## DD+ Atmos
 

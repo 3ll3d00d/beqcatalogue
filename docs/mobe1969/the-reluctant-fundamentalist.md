@@ -1,6 +1,6 @@
 # The Reluctant Fundamentalist
 
-[Compare across authors](../../compare/?t=film-the-reluctant-fundamentalist_121677)
+[Compare across authors](../compare/index.md?t=film-the-reluctant-fundamentalist_121677)
 
 ## DTS-HD MA 5.1
 

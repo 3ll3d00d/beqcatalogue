@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-you-dont-know-me_139686)
+[Compare across authors](../compare/index.md?t=TV-you-dont-know-me_139686)
 
 ## Season 1
 

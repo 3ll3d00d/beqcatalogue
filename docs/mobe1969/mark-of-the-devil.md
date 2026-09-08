@@ -1,6 +1,6 @@
 # Mark of the Devil
 
-[Compare across authors](../../compare/?t=film-mark-of-the-devil_586265)
+[Compare across authors](../compare/index.md?t=film-mark-of-the-devil_586265)
 
 ## DD+ 5.1
 

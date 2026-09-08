@@ -1,6 +1,6 @@
 # Point Man
 
-[Compare across authors](../../compare/?t=film-point-man_580431)
+[Compare across authors](../compare/index.md?t=film-point-man_580431)
 
 ## DD+ 2.0
 

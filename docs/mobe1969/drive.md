@@ -1,6 +1,6 @@
 # Drive
 
-[Compare across authors](../../compare/?t=film-drive_25571)
+[Compare across authors](../compare/index.md?t=film-drive_25571)
 
 ## Atmos
 

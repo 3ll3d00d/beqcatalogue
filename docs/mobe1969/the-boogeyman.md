@@ -1,6 +1,6 @@
 # The Boogeyman
 
-[Compare across authors](../../compare/?t=film-the-boogeyman_532408)
+[Compare across authors](../compare/index.md?t=film-the-boogeyman_532408)
 
 ## DD+ Atmos
 

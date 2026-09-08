@@ -1,6 +1,6 @@
 # School Spirits
 
-[Compare across authors](../../compare/?t=film-school-spirits_492034)
+[Compare across authors](../compare/index.md?t=film-school-spirits_492034)
 
 ## DD+ 5.1
 

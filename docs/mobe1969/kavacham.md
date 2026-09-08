@@ -1,6 +1,6 @@
 # Kavacham
 
-[Compare across authors](../../compare/?t=film-kavacham_565277)
+[Compare across authors](../compare/index.md?t=film-kavacham_565277)
 
 ## DD+ 5.1
 

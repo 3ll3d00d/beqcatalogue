@@ -11,7 +11,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62703233)
 
-* [Compare across authors](../../compare/?t=TV-special-ops-lioness_113962)
+* [Compare across authors](../compare/index.md?t=TV-special-ops-lioness_113962)
 
 * Production Year: 2023
 
@@ -30,7 +30,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62703233)
 
-* [Compare across authors](../../compare/?t=TV-special-ops-lioness_113962)
+* [Compare across authors](../compare/index.md?t=TV-special-ops-lioness_113962)
 
 * Production Year: 2023
 
@@ -52,7 +52,7 @@ Dialnorm Compensation: E03 +7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62703233)
 
-* [Compare across authors](../../compare/?t=TV-special-ops-lioness_113962)
+* [Compare across authors](../compare/index.md?t=TV-special-ops-lioness_113962)
 
 * Production Year: 2023
 
@@ -71,7 +71,7 @@ Dialnorm Compensation: E03 +7dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62703233)
 
-* [Compare across authors](../../compare/?t=TV-special-ops-lioness_113962)
+* [Compare across authors](../compare/index.md?t=TV-special-ops-lioness_113962)
 
 * Production Year: 2023
 

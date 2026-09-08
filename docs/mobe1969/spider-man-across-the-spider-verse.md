@@ -1,6 +1,6 @@
 # Spider-Man: Across the Spider-Verse
 
-[Compare across authors](../../compare/?t=film-spider-man-across-the-spider-verse_569094)
+[Compare across authors](../compare/index.md?t=film-spider-man-across-the-spider-verse_569094)
 
 ## Atmos, DTS-HD MA 5.1
 

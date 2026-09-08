@@ -1,6 +1,6 @@
 # Antigang
 
-[Compare across authors](../../compare/?t=film-antigang_348060)
+[Compare across authors](../compare/index.md?t=film-antigang_348060)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Last Kingdom: Seven Kings Must Die
 
-[Compare across authors](../../compare/?t=film-the-last-kingdom-seven-kings-must-die_948713)
+[Compare across authors](../compare/index.md?t=film-the-last-kingdom-seven-kings-must-die_948713)
 
 ## DD+ 5.1
 

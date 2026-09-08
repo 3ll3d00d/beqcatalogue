@@ -1,6 +1,6 @@
 # Cloud Atlas
 
-[Compare across authors](../../compare/?t=film-cloud-atlas_83542)
+[Compare across authors](../compare/index.md?t=film-cloud-atlas_83542)
 
 ## DTS-HD MA 5.1
 

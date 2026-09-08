@@ -1,6 +1,6 @@
 # Flyboys
 
-[Compare across authors](../../compare/?t=film-flyboys_9664)
+[Compare across authors](../compare/index.md?t=film-flyboys_9664)
 
 ## DTS-HD MA 5.1
 

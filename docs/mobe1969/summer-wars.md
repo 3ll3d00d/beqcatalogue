@@ -1,6 +1,6 @@
 # Summer Wars
 
-[Compare across authors](../../compare/?t=film-summer-wars_28874)
+[Compare across authors](../compare/index.md?t=film-summer-wars_28874)
 
 ## TrueHD 5.1
 

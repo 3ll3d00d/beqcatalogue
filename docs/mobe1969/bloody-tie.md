@@ -1,6 +1,6 @@
 # Bloody Tie
 
-[Compare across authors](../../compare/?t=film-bloody-tie_32159)
+[Compare across authors](../compare/index.md?t=film-bloody-tie_32159)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Debt Collectors
 
-[Compare across authors](../../compare/?t=film-debt-collectors_647785)
+[Compare across authors](../compare/index.md?t=film-debt-collectors_647785)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

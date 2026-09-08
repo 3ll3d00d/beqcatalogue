@@ -1,6 +1,6 @@
 # Cube
 
-[Compare across authors](../../compare/?t=film-cube_431)
+[Compare across authors](../compare/index.md?t=film-cube_431)
 
 ## DD+ 5.1
 

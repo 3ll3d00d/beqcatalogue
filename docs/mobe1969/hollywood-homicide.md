@@ -1,6 +1,6 @@
 # Hollywood Homicide
 
-[Compare across authors](../../compare/?t=film-hollywood-homicide_11375)
+[Compare across authors](../compare/index.md?t=film-hollywood-homicide_11375)
 
 ## DTS-HD MA 5.1
 

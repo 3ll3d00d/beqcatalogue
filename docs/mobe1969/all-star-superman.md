@@ -1,6 +1,6 @@
 # All Star Superman
 
-[Compare across authors](../../compare/?t=film-all-star-superman_56590)
+[Compare across authors](../compare/index.md?t=film-all-star-superman_56590)
 
 ## DTS-HD MA 5.1
 

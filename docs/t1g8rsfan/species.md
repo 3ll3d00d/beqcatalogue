@@ -9,7 +9,7 @@ In 1993, the Search for Extra Terrestrial Intelligence Project receives a transm
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63168925)  [TMDB](https://www.themoviedb.org/movie/9348)  [Compare across authors](../../compare/?t=film-species_9348)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63168925)  [TMDB](https://www.themoviedb.org/movie/9348)  [Compare across authors](../compare/index.md?t=film-species_9348)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Species%20(1995)%20(%2B1%20gain)%20DTS-HD%20MA%205.1.jpg)

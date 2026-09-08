@@ -1,6 +1,6 @@
 # Parasite
 
-[Compare across authors](../../compare/?t=film-parasite_496243)
+[Compare across authors](../compare/index.md?t=film-parasite_496243)
 
 ## Atmos
 

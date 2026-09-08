@@ -1,6 +1,6 @@
 # Body of Lies
 
-[Compare across authors](../../compare/?t=film-body-of-lies_12113)
+[Compare across authors](../compare/index.md?t=film-body-of-lies_12113)
 
 ## TrueHD 5.1
 

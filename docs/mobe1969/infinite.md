@@ -1,6 +1,6 @@
 # Infinite
 
-[Compare across authors](../../compare/?t=film-infinite_581726)
+[Compare across authors](../compare/index.md?t=film-infinite_581726)
 
 ## Atmos, DD+ Atmos
 

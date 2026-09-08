@@ -9,7 +9,7 @@ Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorr
 
 **MV Adjustment:** +5.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1632?post_id=64156587#post-64156587)  [TMDB](https://www.themoviedb.org/movie/521029)  [Compare across authors](../../compare/?t=film-annabelle-comes-home_521029)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1632?post_id=64156587#post-64156587)  [TMDB](https://www.themoviedb.org/movie/521029)  [Compare across authors](../compare/index.md?t=film-annabelle-comes-home_521029)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Annabelle%20Comes%20Home%20(2019)%20(%2B5%20gain)%20Atmos.jpg)

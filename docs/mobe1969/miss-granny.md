@@ -1,6 +1,6 @@
 # Miss Granny
 
-[Compare across authors](../../compare/?t=film-miss-granny_253065)
+[Compare across authors](../compare/index.md?t=film-miss-granny_253065)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Gagarin: First in Space
 
-[Compare across authors](../../compare/?t=film-gagarin-first-in-space_199327)
+[Compare across authors](../compare/index.md?t=film-gagarin-first-in-space_199327)
 
 ## DTS-HD MA 5.1
 

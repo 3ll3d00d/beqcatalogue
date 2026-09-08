@@ -1,6 +1,6 @@
 # Yashoda
 
-[Compare across authors](../../compare/?t=film-yashoda_900222)
+[Compare across authors](../compare/index.md?t=film-yashoda_900222)
 
 ## DD+ 5.1
 

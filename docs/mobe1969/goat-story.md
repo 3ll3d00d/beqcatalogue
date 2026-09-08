@@ -1,6 +1,6 @@
 # Goat Story
 
-[Compare across authors](../../compare/?t=film-goat-story_21188)
+[Compare across authors](../compare/index.md?t=film-goat-story_21188)
 
 ## DTS 5.1
 

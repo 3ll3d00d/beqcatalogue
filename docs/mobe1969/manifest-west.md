@@ -1,6 +1,6 @@
 # Manifest West
 
-[Compare across authors](../../compare/?t=film-manifest-west_762895)
+[Compare across authors](../compare/index.md?t=film-manifest-west_762895)
 
 ## DD+ 5.1
 

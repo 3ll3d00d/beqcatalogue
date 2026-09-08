@@ -1,6 +1,6 @@
 # Public Enemies
 
-[Compare across authors](../../compare/?t=film-public-enemies_11322)
+[Compare across authors](../compare/index.md?t=film-public-enemies_11322)
 
 ## DTS-HD MA 5.1
 

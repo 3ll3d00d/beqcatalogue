@@ -1,6 +1,6 @@
 # Getaway Plan
 
-[Compare across authors](../../compare/?t=film-getaway-plan_436827)
+[Compare across authors](../compare/index.md?t=film-getaway-plan_436827)
 
 ## DD+ 5.1
 

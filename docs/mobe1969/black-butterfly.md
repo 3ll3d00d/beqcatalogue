@@ -1,6 +1,6 @@
 # Black Butterfly
 
-[Compare across authors](../../compare/?t=film-black-butterfly_76812)
+[Compare across authors](../compare/index.md?t=film-black-butterfly_76812)
 
 ## DTS-HD MA 5.1
 

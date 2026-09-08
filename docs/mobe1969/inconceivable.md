@@ -1,6 +1,6 @@
 # Inconceivable
 
-[Compare across authors](../../compare/?t=film-inconceivable_433630)
+[Compare across authors](../compare/index.md?t=film-inconceivable_433630)
 
 ## DTS-HD MA 5.1
 

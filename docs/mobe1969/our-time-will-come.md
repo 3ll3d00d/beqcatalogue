@@ -1,6 +1,6 @@
 # Our Time Will Come
 
-[Compare across authors](../../compare/?t=film-our-time-will-come_452400)
+[Compare across authors](../compare/index.md?t=film-our-time-will-come_452400)
 
 ## TrueHD 7.1
 

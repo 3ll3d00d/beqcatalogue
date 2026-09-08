@@ -1,6 +1,6 @@
 # Solitary
 
-[Compare across authors](../../compare/?t=film-solitary_725273)
+[Compare across authors](../compare/index.md?t=film-solitary_725273)
 
 ## DTS-HD MA 5.1
 

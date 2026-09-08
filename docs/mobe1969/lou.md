@@ -1,6 +1,6 @@
 # Lou
 
-[Compare across authors](../../compare/?t=film-lou_429473)
+[Compare across authors](../compare/index.md?t=film-lou_429473)
 
 ## DD+ Atmos
 

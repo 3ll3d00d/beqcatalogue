@@ -11,7 +11,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62563267/)
 
-* [Compare across authors](../../compare/?t=TV-carnival-row_90027)
+* [Compare across authors](../compare/index.md?t=TV-carnival-row_90027)
 
 * Production Year: 2019
 
@@ -27,7 +27,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62563267/)
 
-* [Compare across authors](../../compare/?t=TV-carnival-row_90027)
+* [Compare across authors](../compare/index.md?t=TV-carnival-row_90027)
 
 * Production Year: 2023
 
@@ -43,7 +43,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62563267/)
 
-* [Compare across authors](../../compare/?t=TV-carnival-row_90027)
+* [Compare across authors](../compare/index.md?t=TV-carnival-row_90027)
 
 * Production Year: 2023
 

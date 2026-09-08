@@ -7,7 +7,7 @@
 When a man is eaten alive by an unknown creature, the local Game Warden teams up with a paleontologist from New York to find the beast. Add to the mix an eccentric philanthropist with a penchant for "Crocs", and here we go! This quiet, remote lake is suddenly the focus of an intense search for a crocodile with a taste for live animals...and people!
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/9825)  [Compare across authors](../../compare/?t=film-lake-placid_9825)
+[TMDB](https://www.themoviedb.org/movie/9825)  [Compare across authors](../compare/index.md?t=film-lake-placid_9825)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Lake%20Placid%20(1999)%20DTS-HD%20MA%205.1.jpg)

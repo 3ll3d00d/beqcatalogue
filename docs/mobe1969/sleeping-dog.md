@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sleeping-dog_226772)
+[Compare across authors](../compare/index.md?t=TV-sleeping-dog_226772)
 
 ## Season 1
 

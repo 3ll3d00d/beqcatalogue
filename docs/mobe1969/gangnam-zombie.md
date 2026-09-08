@@ -1,6 +1,6 @@
 # Gangnam Zombie
 
-[Compare across authors](../../compare/?t=film-gangnam-zombie_996525)
+[Compare across authors](../compare/index.md?t=film-gangnam-zombie_996525)
 
 ## DTS-HD MA 5.1
 

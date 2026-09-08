@@ -1,6 +1,6 @@
 # Street Kings
 
-[Compare across authors](../../compare/?t=film-street-kings_1266)
+[Compare across authors](../compare/index.md?t=film-street-kings_1266)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Wicker Man
 
-[Compare across authors](../../compare/?t=film-the-wicker-man_9708)
+[Compare across authors](../compare/index.md?t=film-the-wicker-man_9708)
 
 ## TrueHD 5.1
 

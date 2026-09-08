@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-swimming-with-sharks_156822)
+[Compare across authors](../compare/index.md?t=TV-swimming-with-sharks_156822)
 
 ## Season 1
 

@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-dynasties_82953)
+[Compare across authors](../compare/index.md?t=TV-dynasties_82953)
 
 ## Season 1
 

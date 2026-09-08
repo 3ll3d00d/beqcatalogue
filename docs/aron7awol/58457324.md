@@ -1,6 +1,6 @@
 # Kidnap
 
-[Compare across authors](../../compare/?t=film-kidnap_293768)
+[Compare across authors](../compare/index.md?t=film-kidnap_293768)
 
 ## DTS-HD MA 5.1
 

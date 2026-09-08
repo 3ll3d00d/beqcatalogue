@@ -1,6 +1,6 @@
 # Bullet
 
-[Compare across authors](../../compare/?t=film-bullet_169298)
+[Compare across authors](../compare/index.md?t=film-bullet_169298)
 
 ## TrueHD 5.1
 

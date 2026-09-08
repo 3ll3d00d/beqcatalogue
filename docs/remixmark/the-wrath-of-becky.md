@@ -9,7 +9,7 @@ Two years after she escaped a violent attack on her family, 16-year-old Becky at
 
 **MV Adjustment:** +8.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1462?post_id=63324660#post-63324660)  [TMDB](https://www.themoviedb.org/movie/986070)  [Compare across authors](../../compare/?t=film-the-wrath-of-becky_986070)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1462?post_id=63324660#post-63324660)  [TMDB](https://www.themoviedb.org/movie/986070)  [Compare across authors](../compare/index.md?t=film-the-wrath-of-becky_986070)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/The%20Wrath%20of%20Becky%20(%2B8.5%20gain)%20DTS-HD%20MA%207.1.jpg)

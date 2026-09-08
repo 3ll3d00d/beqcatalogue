@@ -1,6 +1,6 @@
 # Pandorum
 
-[Compare across authors](../../compare/?t=film-pandorum_19898)
+[Compare across authors](../compare/index.md?t=film-pandorum_19898)
 
 ## TrueHD 5.1
 

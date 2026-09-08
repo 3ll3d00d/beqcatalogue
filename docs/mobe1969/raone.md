@@ -1,6 +1,6 @@
 # Ra.One
 
-[Compare across authors](../../compare/?t=film-raone_41517)
+[Compare across authors](../compare/index.md?t=film-raone_41517)
 
 ## DTS-HD MA 5.1
 

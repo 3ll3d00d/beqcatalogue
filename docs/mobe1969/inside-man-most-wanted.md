@@ -1,6 +1,6 @@
 # Inside Man: Most Wanted
 
-[Compare across authors](../../compare/?t=film-inside-man-most-wanted_619278)
+[Compare across authors](../compare/index.md?t=film-inside-man-most-wanted_619278)
 
 ## DTS-HD MA 5.1
 

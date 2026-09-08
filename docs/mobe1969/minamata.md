@@ -1,6 +1,6 @@
 # Minamata
 
-[Compare across authors](../../compare/?t=film-minamata_560008)
+[Compare across authors](../compare/index.md?t=film-minamata_560008)
 
 ## DD+ 5.1
 

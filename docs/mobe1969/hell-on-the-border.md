@@ -1,6 +1,6 @@
 # Hell on the Border
 
-[Compare across authors](../../compare/?t=film-hell-on-the-border_576379)
+[Compare across authors](../compare/index.md?t=film-hell-on-the-border_576379)
 
 ## DD+ 5.1
 

@@ -10,7 +10,7 @@ A brilliant data analyst with a deep distrust of artificial intelligence joins a
 +5dB Dialnorm Compensation
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63328143/)  [TMDB](https://www.themoviedb.org/movie/614933)  [Compare across authors](../../compare/?t=film-atlas_614933)
+[Discuss](https://www.avsforum.com/posts/63328143/)  [TMDB](https://www.themoviedb.org/movie/614933)  [Compare across authors](../compare/index.md?t=film-atlas_614933)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Atlas%20(2024)%20DD%2B%20Atmos%20PvA.jpg)

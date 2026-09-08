@@ -1,6 +1,6 @@
 # Maze Runner: The Death Cure
 
-[Compare across authors](../../compare/?t=film-maze-runner-the-death-cure_336843)
+[Compare across authors](../compare/index.md?t=film-maze-runner-the-death-cure_336843)
 
 ## Atmos
 

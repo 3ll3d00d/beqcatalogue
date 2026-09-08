@@ -1,6 +1,6 @@
 # Sea Fog
 
-[Compare across authors](../../compare/?t=film-sea-fog_272691)
+[Compare across authors](../compare/index.md?t=film-sea-fog_272691)
 
 ## DTS-HD MA 5.1
 

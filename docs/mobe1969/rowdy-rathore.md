@@ -1,6 +1,6 @@
 # Rowdy Rathore
 
-[Compare across authors](../../compare/?t=film-rowdy-rathore_102632)
+[Compare across authors](../compare/index.md?t=film-rowdy-rathore_102632)
 
 ## DD+ 5.1
 

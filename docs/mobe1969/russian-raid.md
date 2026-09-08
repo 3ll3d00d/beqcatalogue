@@ -1,6 +1,6 @@
 # Russian Raid
 
-[Compare across authors](../../compare/?t=film-russian-raid_651793)
+[Compare across authors](../compare/index.md?t=film-russian-raid_651793)
 
 ## DTS-HD MA 5.1
 

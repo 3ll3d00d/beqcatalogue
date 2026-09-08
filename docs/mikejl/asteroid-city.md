@@ -7,7 +7,7 @@
 In an American desert town circa 1955, the itinerary of a Junior Stargazer/Space Cadet convention is spectacularly disrupted by world-changing events.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/747188)  [Compare across authors](../../compare/?t=film-asteroid-city_747188)
+[TMDB](https://www.themoviedb.org/movie/747188)  [Compare across authors](../compare/index.md?t=film-asteroid-city_747188)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Asteroid%20City/Asteroid%20City%20(2023)%20DD%2B%20Atmos.jpg)

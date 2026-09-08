@@ -1,6 +1,6 @@
 # Bad Day for the Cut
 
-[Compare across authors](../../compare/?t=film-bad-day-for-the-cut_430043)
+[Compare across authors](../compare/index.md?t=film-bad-day-for-the-cut_430043)
 
 ## DD+ 5.1
 

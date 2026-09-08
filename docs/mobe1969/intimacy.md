@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-intimacy_123534)
+[Compare across authors](../compare/index.md?t=TV-intimacy_123534)
 
 ## Season 1
 

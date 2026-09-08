@@ -1,6 +1,6 @@
 # Basic Instinct
 
-[Compare across authors](../../compare/?t=film-basic-instinct_402)
+[Compare across authors](../compare/index.md?t=film-basic-instinct_402)
 
 ## DTS-HD MA 5.1
 

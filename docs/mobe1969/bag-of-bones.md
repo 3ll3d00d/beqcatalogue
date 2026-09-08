@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-bag-of-bones_39758)
+[Compare across authors](../compare/index.md?t=TV-bag-of-bones_39758)
 
 ## Season 1 Episode 1
 

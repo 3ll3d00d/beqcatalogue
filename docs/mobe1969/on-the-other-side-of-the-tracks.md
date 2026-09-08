@@ -1,6 +1,6 @@
 # On the Other Side of the Tracks
 
-[Compare across authors](../../compare/?t=film-on-the-other-side-of-the-tracks_146375)
+[Compare across authors](../compare/index.md?t=film-on-the-other-side-of-the-tracks_146375)
 
 ## DTS-HD MA 5.1
 

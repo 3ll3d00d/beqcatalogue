@@ -1,6 +1,6 @@
 # The Jacket
 
-[Compare across authors](../../compare/?t=film-the-jacket_9667)
+[Compare across authors](../compare/index.md?t=film-the-jacket_9667)
 
 ## DD+ 5.1
 

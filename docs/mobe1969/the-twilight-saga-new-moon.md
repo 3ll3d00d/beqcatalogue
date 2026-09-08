@@ -1,6 +1,6 @@
 # The Twilight Saga: New Moon
 
-[Compare across authors](../../compare/?t=film-the-twilight-saga-new-moon_18239)
+[Compare across authors](../compare/index.md?t=film-the-twilight-saga-new-moon_18239)
 
 ## DD+ 5.1
 

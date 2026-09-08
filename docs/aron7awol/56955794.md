@@ -1,6 +1,6 @@
 # Only the Brave
 
-[Compare across authors](../../compare/?t=film-only-the-brave_395991)
+[Compare across authors](../compare/index.md?t=film-only-the-brave_395991)
 
 ## Atmos
 

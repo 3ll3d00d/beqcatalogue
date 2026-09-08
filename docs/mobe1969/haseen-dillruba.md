@@ -1,6 +1,6 @@
 # Haseen Dillruba
 
-[Compare across authors](../../compare/?t=film-haseen-dillruba_695969)
+[Compare across authors](../compare/index.md?t=film-haseen-dillruba_695969)
 
 ## DD+ Atmos
 

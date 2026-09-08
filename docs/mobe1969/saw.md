@@ -1,6 +1,6 @@
 # Saw
 
-[Compare across authors](../../compare/?t=film-saw_176)
+[Compare across authors](../compare/index.md?t=film-saw_176)
 
 ## Atmos
 

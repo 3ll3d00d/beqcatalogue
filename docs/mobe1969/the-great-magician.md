@@ -1,6 +1,6 @@
 # The Great Magician
 
-[Compare across authors](../../compare/?t=film-the-great-magician_83721)
+[Compare across authors](../compare/index.md?t=film-the-great-magician_83721)
 
 ## DD+ 5.1
 

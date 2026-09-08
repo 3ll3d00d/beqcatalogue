@@ -1,6 +1,6 @@
 # Barbershop: The Next Cut
 
-[Compare across authors](../../compare/?t=film-barbershop-the-next-cut_326423)
+[Compare across authors](../compare/index.md?t=film-barbershop-the-next-cut_326423)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Fatale
 
-[Compare across authors](../../compare/?t=film-fatale_549514)
+[Compare across authors](../compare/index.md?t=film-fatale_549514)
 
 ## DD+ 5.1
 

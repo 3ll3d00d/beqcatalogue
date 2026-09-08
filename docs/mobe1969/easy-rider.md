@@ -1,6 +1,6 @@
 # Easy Rider
 
-[Compare across authors](../../compare/?t=film-easy-rider_624)
+[Compare across authors](../compare/index.md?t=film-easy-rider_624)
 
 ## DTS-HD MA 5.1
 

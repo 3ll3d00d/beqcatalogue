@@ -1,6 +1,6 @@
 # Blade Runner
 
-[Compare across authors](../../compare/?t=film-blade-runner_78)
+[Compare across authors](../compare/index.md?t=film-blade-runner_78)
 
 ## Atmos
 

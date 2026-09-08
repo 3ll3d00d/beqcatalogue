@@ -1,6 +1,6 @@
 # Eat Locals
 
-[Compare across authors](../../compare/?t=film-eat-locals_412758)
+[Compare across authors](../compare/index.md?t=film-eat-locals_412758)
 
 ## DD+ 5.1
 

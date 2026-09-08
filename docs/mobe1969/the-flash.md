@@ -1,6 +1,6 @@
 # The Flash
 
-[Compare across authors](../../compare/?t=film-the-flash_298618)
+[Compare across authors](../compare/index.md?t=film-the-flash_298618)
 
 ## Atmos
 

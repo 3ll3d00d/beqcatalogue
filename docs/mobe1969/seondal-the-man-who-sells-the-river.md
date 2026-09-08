@@ -1,6 +1,6 @@
 # Seondal: The Man Who Sells the River
 
-[Compare across authors](../../compare/?t=film-seondal-the-man-who-sells-the-river_385137)
+[Compare across authors](../compare/index.md?t=film-seondal-the-man-who-sells-the-river_385137)
 
 ## TrueHD 5.1
 

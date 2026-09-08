@@ -12,7 +12,7 @@ Two high school nobodies make the decision to crash the last major celebration b
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1544?post_id=63728788#post-63728788)  [TMDB](https://www.themoviedb.org/movie/1094274)  [Compare across authors](../../compare/?t=film-y2k_1094274)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1544?post_id=63728788#post-63728788)  [TMDB](https://www.themoviedb.org/movie/1094274)  [Compare across authors](../compare/index.md?t=film-y2k_1094274)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Y2K%20(2024)%20(%2B5.5%20gain)%20DD%2B%20Atmos.jpg)

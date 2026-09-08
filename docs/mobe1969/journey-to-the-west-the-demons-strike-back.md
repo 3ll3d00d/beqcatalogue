@@ -1,6 +1,6 @@
 # Journey to the West: The Demons Strike Back
 
-[Compare across authors](../../compare/?t=film-journey-to-the-west-the-demons-strike-back_435800)
+[Compare across authors](../compare/index.md?t=film-journey-to-the-west-the-demons-strike-back_435800)
 
 ## DTS-HD MA 5.1
 

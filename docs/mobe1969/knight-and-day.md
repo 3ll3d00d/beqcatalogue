@@ -1,6 +1,6 @@
 # Knight and Day
 
-[Compare across authors](../../compare/?t=film-knight-and-day_37834)
+[Compare across authors](../compare/index.md?t=film-knight-and-day_37834)
 
 ## DTS-HD MA 5.1
 

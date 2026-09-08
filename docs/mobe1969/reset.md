@@ -1,6 +1,6 @@
 # Reset
 
-[Compare across authors](../../compare/?t=film-reset_457832)
+[Compare across authors](../compare/index.md?t=film-reset_457832)
 
 ## DTS-X
 

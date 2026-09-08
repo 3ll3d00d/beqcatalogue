@@ -9,7 +9,7 @@ It's Christmastime, and the Griswolds are preparing for a family seasonal celebr
 
 **MV Adjustment:** +4.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1687?post_id=64350640#post-64350640)  [TMDB](https://www.themoviedb.org/movie/5825)  [Compare across authors](../../compare/?t=film-national-lampoons-christmas-vacation_5825)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1687?post_id=64350640#post-64350640)  [TMDB](https://www.themoviedb.org/movie/5825)  [Compare across authors](../compare/index.md?t=film-national-lampoons-christmas-vacation_5825)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/National%20Lampoon's%20Christmas%20Vacation%20(1989)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)

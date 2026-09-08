@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sacred-games_79352)
+[Compare across authors](../compare/index.md?t=TV-sacred-games_79352)
 
 ## Season 1
 

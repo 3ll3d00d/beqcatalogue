@@ -1,6 +1,6 @@
 # Wild Hogs
 
-[Compare across authors](../../compare/?t=film-wild-hogs_11199)
+[Compare across authors](../compare/index.md?t=film-wild-hogs_11199)
 
 ## LPCM 5.1
 

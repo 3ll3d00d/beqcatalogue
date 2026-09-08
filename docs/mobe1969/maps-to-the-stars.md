@@ -1,6 +1,6 @@
 # Maps to the Stars
 
-[Compare across authors](../../compare/?t=film-maps-to-the-stars_157851)
+[Compare across authors](../compare/index.md?t=film-maps-to-the-stars_157851)
 
 ## DTS-HD MA 5.1
 

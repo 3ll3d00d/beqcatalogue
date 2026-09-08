@@ -1,6 +1,6 @@
 # Escape Room
 
-[Compare across authors](../../compare/?t=film-escape-room_431259)
+[Compare across authors](../compare/index.md?t=film-escape-room_431259)
 
 ## DD+ 5.1
 

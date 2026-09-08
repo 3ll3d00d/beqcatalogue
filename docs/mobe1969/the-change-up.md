@@ -1,6 +1,6 @@
 # The Change-Up
 
-[Compare across authors](../../compare/?t=film-the-change-up_49520)
+[Compare across authors](../compare/index.md?t=film-the-change-up_49520)
 
 ## DTS-HD MA 5.1
 

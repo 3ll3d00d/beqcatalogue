@@ -1,6 +1,6 @@
 # You Only Live Twice
 
-[Compare across authors](../../compare/?t=film-you-only-live-twice_667)
+[Compare across authors](../compare/index.md?t=film-you-only-live-twice_667)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

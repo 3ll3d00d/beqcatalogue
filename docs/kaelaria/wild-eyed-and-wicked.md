@@ -7,7 +7,7 @@
 Lily Pierce is sick of being haunted. She decides to reconnect with her estranged father, a disgraced history professor, and learn how to draw upon a time of steel and blade when armor-clad knights rode out and dueled their monsters to the death.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1197830)  [Compare across authors](../../compare/?t=film-wild-eyed-and-wicked_1197830)
+[TMDB](https://www.themoviedb.org/movie/1197830)  [Compare across authors](../compare/index.md?t=film-wild-eyed-and-wicked_1197830)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Wild%20Eyed%20and%20Wicked%20(2024)%20DD%2B.jpg)

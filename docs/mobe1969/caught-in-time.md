@@ -1,6 +1,6 @@
 # Caught in Time
 
-[Compare across authors](../../compare/?t=film-caught-in-time_751820)
+[Compare across authors](../compare/index.md?t=film-caught-in-time_751820)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Mean Dreams
 
-[Compare across authors](../../compare/?t=film-mean-dreams_393732)
+[Compare across authors](../compare/index.md?t=film-mean-dreams_393732)
 
 ## DTS-HD MA 5.1
 

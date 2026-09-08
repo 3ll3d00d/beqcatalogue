@@ -1,6 +1,6 @@
 # Code Name: Tiranga
 
-[Compare across authors](../../compare/?t=film-code-name-tiranga_1021166)
+[Compare across authors](../compare/index.md?t=film-code-name-tiranga_1021166)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Greyhound
 
-[Compare across authors](../../compare/?t=film-greyhound_516486)
+[Compare across authors](../compare/index.md?t=film-greyhound_516486)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Ma
 
-[Compare across authors](../../compare/?t=film-ma_502416)
+[Compare across authors](../compare/index.md?t=film-ma_502416)
 
 ## DTS-HD MA 5.1
 

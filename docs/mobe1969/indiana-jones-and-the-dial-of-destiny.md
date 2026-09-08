@@ -1,6 +1,6 @@
 # Indiana Jones and the Dial of Destiny
 
-[Compare across authors](../../compare/?t=film-indiana-jones-and-the-dial-of-destiny_335977)
+[Compare across authors](../compare/index.md?t=film-indiana-jones-and-the-dial-of-destiny_335977)
 
 ## DD+ Atmos
 

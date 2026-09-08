@@ -1,6 +1,6 @@
 # One Way Trip
 
-[Compare across authors](../../compare/?t=film-one-way-trip_381375)
+[Compare across authors](../compare/index.md?t=film-one-way-trip_381375)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # The Void
 
-[Compare across authors](../../compare/?t=film-the-void_378018)
+[Compare across authors](../compare/index.md?t=film-the-void_378018)
 
 ## DTS-HD MA 5.1
 

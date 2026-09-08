@@ -1,6 +1,6 @@
 # Peppermint Candy
 
-[Compare across authors](../../compare/?t=film-peppermint-candy_41245)
+[Compare across authors](../compare/index.md?t=film-peppermint-candy_41245)
 
 ## DTS-HD MA 5.1
 

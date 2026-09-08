@@ -1,6 +1,6 @@
 # Captain Nova
 
-[Compare across authors](../../compare/?t=film-captain-nova_881957)
+[Compare across authors](../compare/index.md?t=film-captain-nova_881957)
 
 ## DD+ 5.1
 

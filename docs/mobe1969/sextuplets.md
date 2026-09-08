@@ -1,6 +1,6 @@
 # Sextuplets
 
-[Compare across authors](../../compare/?t=film-sextuplets_582570)
+[Compare across authors](../compare/index.md?t=film-sextuplets_582570)
 
 ## DD+ Atmos
 

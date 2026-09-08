@@ -1,6 +1,6 @@
 # Invasion U.S.A.
 
-[Compare across authors](../../compare/?t=film-invasion-usa_15983)
+[Compare across authors](../compare/index.md?t=film-invasion-usa_15983)
 
 ## DTS-HD MA 5.1
 

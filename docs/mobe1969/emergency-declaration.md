@@ -1,6 +1,6 @@
 # Emergency Declaration
 
-[Compare across authors](../../compare/?t=film-emergency-declaration_626872)
+[Compare across authors](../compare/index.md?t=film-emergency-declaration_626872)
 
 ## Atmos
 

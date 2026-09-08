@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-secret-invasion_114472)
+[Compare across authors](../compare/index.md?t=TV-secret-invasion_114472)
 
 ## Season 1
 

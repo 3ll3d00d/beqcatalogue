@@ -1,6 +1,6 @@
 # Jurassic World: Fallen Kingdom
 
-[Compare across authors](../../compare/?t=film-jurassic-world-fallen-kingdom_351286)
+[Compare across authors](../compare/index.md?t=film-jurassic-world-fallen-kingdom_351286)
 
 ## DTS-X
 

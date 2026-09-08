@@ -11,7 +11,7 @@ After denying a woman the extension she needs to keep her home, loan officer Chr
 
 **MV Adjustment:** -3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1523?post_id=63620216#post-63620216)  [TMDB](https://www.themoviedb.org/movie/16871)  [Compare across authors](../../compare/?t=film-drag-me-to-hell_16871)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1523?post_id=63620216#post-63620216)  [TMDB](https://www.themoviedb.org/movie/16871)  [Compare across authors](../compare/index.md?t=film-drag-me-to-hell_16871)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Drag%20Me%20to%20Hell%20(2009)%20(-3%20gain)%20DTS-HD%20MA%205.1.jpg)
@@ -29,7 +29,7 @@ After denying a woman the extension she needs to keep her home, loan officer Chr
 
 **MV Adjustment:** -2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1524?post_id=63623212#post-63623212)  [TMDB](https://www.themoviedb.org/movie/16871)  [Compare across authors](../../compare/?t=film-drag-me-to-hell_16871)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1524?post_id=63623212#post-63623212)  [TMDB](https://www.themoviedb.org/movie/16871)  [Compare across authors](../compare/index.md?t=film-drag-me-to-hell_16871)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Drag%20Me%20to%20Hell%20(2009)%20(-2%20gain)%20Unrated%20DTS-HD%20MA%205.1.jpg)

@@ -1,6 +1,6 @@
 # Dark Skies
 
-[Compare across authors](../../compare/?t=film-dark-skies_145135)
+[Compare across authors](../compare/index.md?t=film-dark-skies_145135)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Heat
 
-[Compare across authors](../../compare/?t=film-the-heat_136795)
+[Compare across authors](../compare/index.md?t=film-the-heat_136795)
 
 ## DTS-HD MA 5.1
 

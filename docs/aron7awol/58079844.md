@@ -1,6 +1,6 @@
 # Mad Max
 
-[Compare across authors](../../compare/?t=film-mad-max_9659)
+[Compare across authors](../compare/index.md?t=film-mad-max_9659)
 
 ## DTS-HD MA 5.1
 

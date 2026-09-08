@@ -1,6 +1,6 @@
 # Rock Dog
 
-[Compare across authors](../../compare/?t=film-rock-dog_333667)
+[Compare across authors](../compare/index.md?t=film-rock-dog_333667)
 
 ## DD+ 5.1
 

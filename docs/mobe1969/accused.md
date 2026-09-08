@@ -1,6 +1,6 @@
 # Accused
 
-[Compare across authors](../../compare/?t=film-accused_912974)
+[Compare across authors](../compare/index.md?t=film-accused_912974)
 
 ## DD+ 5.1
 

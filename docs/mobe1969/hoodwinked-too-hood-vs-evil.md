@@ -1,6 +1,6 @@
 # Hoodwinked Too! Hood VS. Evil
 
-[Compare across authors](../../compare/?t=film-hoodwinked-too-hood-vs-evil_57089)
+[Compare across authors](../compare/index.md?t=film-hoodwinked-too-hood-vs-evil_57089)
 
 ## DTS-HD MA 5.1
 

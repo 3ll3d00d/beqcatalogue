@@ -1,6 +1,6 @@
 # Beasts of No Nation
 
-[Compare across authors](../../compare/?t=film-beasts-of-no-nation_283587)
+[Compare across authors](../compare/index.md?t=film-beasts-of-no-nation_283587)
 
 ## DD+ 5.1
 

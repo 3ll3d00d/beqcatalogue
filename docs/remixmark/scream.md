@@ -9,7 +9,7 @@ A year after the murder of her mother, a teenage girl is terrorized by a masked 
 
 **MV Adjustment:** +6.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1513?post_id=63591120#post-63591120)  [TMDB](https://www.themoviedb.org/movie/4232)  [Compare across authors](../../compare/?t=film-scream_4232)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1513?post_id=63591120#post-63591120)  [TMDB](https://www.themoviedb.org/movie/4232)  [Compare across authors](../compare/index.md?t=film-scream_4232)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scream%20(1996)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1.jpg)

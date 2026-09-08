@@ -1,6 +1,6 @@
 # Brotherhood of Blades
 
-[Compare across authors](../../compare/?t=film-brotherhood-of-blades_291692)
+[Compare across authors](../compare/index.md?t=film-brotherhood-of-blades_291692)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

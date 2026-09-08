@@ -1,6 +1,6 @@
 # Me and Me
 
-[Compare across authors](../../compare/?t=film-me-and-me_581529)
+[Compare across authors](../compare/index.md?t=film-me-and-me_581529)
 
 ## DTS-HD MA 5.1
 

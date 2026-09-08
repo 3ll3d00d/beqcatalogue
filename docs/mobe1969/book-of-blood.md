@@ -1,6 +1,6 @@
 # Book of Blood
 
-[Compare across authors](../../compare/?t=film-book-of-blood_19599)
+[Compare across authors](../compare/index.md?t=film-book-of-blood_19599)
 
 ## DTS-HD MA 5.1
 

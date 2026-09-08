@@ -1,6 +1,6 @@
 # Gadar: Ek Prem Katha
 
-[Compare across authors](../../compare/?t=film-gadar-ek-prem-katha_80156)
+[Compare across authors](../compare/index.md?t=film-gadar-ek-prem-katha_80156)
 
 ## DD+ 5.1
 

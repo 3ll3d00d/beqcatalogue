@@ -1,6 +1,6 @@
 # Madras Cafe
 
-[Compare across authors](../../compare/?t=film-madras-cafe_215776)
+[Compare across authors](../compare/index.md?t=film-madras-cafe_215776)
 
 ## DD+ 5.1
 

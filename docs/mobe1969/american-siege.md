@@ -1,6 +1,6 @@
 # American Siege
 
-[Compare across authors](../../compare/?t=film-american-siege_766907)
+[Compare across authors](../compare/index.md?t=film-american-siege_766907)
 
 ## DTS-HD MA 5.1
 

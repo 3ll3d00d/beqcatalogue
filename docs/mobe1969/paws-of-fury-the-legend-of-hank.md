@@ -1,6 +1,6 @@
 # Paws of Fury: The Legend of Hank
 
-[Compare across authors](../../compare/?t=film-paws-of-fury-the-legend-of-hank_366672)
+[Compare across authors](../compare/index.md?t=film-paws-of-fury-the-legend-of-hank_366672)
 
 ## Atmos
 

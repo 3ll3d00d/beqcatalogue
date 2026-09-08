@@ -1,6 +1,6 @@
 # Amityville Uprising
 
-[Compare across authors](../../compare/?t=film-amityville-uprising_898774)
+[Compare across authors](../compare/index.md?t=film-amityville-uprising_898774)
 
 ## DD 5.1
 

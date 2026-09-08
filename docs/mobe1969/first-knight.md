@@ -1,6 +1,6 @@
 # First Knight
 
-[Compare across authors](../../compare/?t=film-first-knight_6520)
+[Compare across authors](../compare/index.md?t=film-first-knight_6520)
 
 ## DTS-HD MA 5.1
 

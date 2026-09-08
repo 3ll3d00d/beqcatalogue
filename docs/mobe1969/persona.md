@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-persona_87811)
+[Compare across authors](../compare/index.md?t=TV-persona_87811)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # Wyrmwood: Road of the Dead
 
-[Compare across authors](../../compare/?t=film-wyrmwood-road-of-the-dead_290999)
+[Compare across authors](../compare/index.md?t=film-wyrmwood-road-of-the-dead_290999)
 
 ## DTS-HD MA 5.1
 

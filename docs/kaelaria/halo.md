@@ -7,7 +7,7 @@
 * DD+ Atmos, Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-halo_52814)
+* [Compare across authors](../compare/index.md?t=TV-halo_52814)
 
 * Production Year: 2022
 

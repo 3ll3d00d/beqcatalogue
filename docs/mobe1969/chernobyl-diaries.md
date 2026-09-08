@@ -1,6 +1,6 @@
 # Chernobyl Diaries
 
-[Compare across authors](../../compare/?t=film-chernobyl-diaries_93856)
+[Compare across authors](../compare/index.md?t=film-chernobyl-diaries_93856)
 
 ## DTS-HD MA 5.1
 

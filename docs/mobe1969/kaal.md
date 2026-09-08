@@ -1,6 +1,6 @@
 # Kaal
 
-[Compare across authors](../../compare/?t=film-kaal_20132)
+[Compare across authors](../compare/index.md?t=film-kaal_20132)
 
 ## DD+ 5.1
 

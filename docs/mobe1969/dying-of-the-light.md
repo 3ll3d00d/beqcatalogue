@@ -1,6 +1,6 @@
 # Dying of the Light
 
-[Compare across authors](../../compare/?t=film-dying-of-the-light_297596)
+[Compare across authors](../compare/index.md?t=film-dying-of-the-light_297596)
 
 ## DTS-HD MA 5.1
 

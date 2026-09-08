@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-agent-from-above_213703)
+* [Compare across authors](../compare/index.md?t=TV-agent-from-above_213703)
 
 * Production Year: 2026
 

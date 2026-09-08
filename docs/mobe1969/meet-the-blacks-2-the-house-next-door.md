@@ -1,6 +1,6 @@
 # Meet The Blacks 2: The House Next Door
 
-[Compare across authors](../../compare/?t=film-meet-the-blacks-2-the-house-next-door_583116)
+[Compare across authors](../compare/index.md?t=film-meet-the-blacks-2-the-house-next-door_583116)
 
 ## DTS-HD MA 5.1
 

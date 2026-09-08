@@ -1,6 +1,6 @@
 # The Guilty
 
-[Compare across authors](../../compare/?t=film-the-guilty_567748)
+[Compare across authors](../compare/index.md?t=film-the-guilty_567748)
 
 ## DD+ Atmos
 

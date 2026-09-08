@@ -1,6 +1,6 @@
 # Black Mask
 
-[Compare across authors](../../compare/?t=film-black-mask_9460)
+[Compare across authors](../compare/index.md?t=film-black-mask_9460)
 
 ## TrueHD 7.1
 

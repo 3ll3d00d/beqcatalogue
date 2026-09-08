@@ -1,6 +1,6 @@
 # What Lies Beneath
 
-[Compare across authors](../../compare/?t=film-what-lies-beneath_2655)
+[Compare across authors](../compare/index.md?t=film-what-lies-beneath_2655)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Lies and Illusions
 
-[Compare across authors](../../compare/?t=film-lies-and-illusions_23736)
+[Compare across authors](../compare/index.md?t=film-lies-and-illusions_23736)
 
 ## DTS-HD MA 5.1
 

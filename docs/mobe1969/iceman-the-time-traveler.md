@@ -1,6 +1,6 @@
 # Iceman: The Time Traveler
 
-[Compare across authors](../../compare/?t=film-iceman-the-time-traveler_490214)
+[Compare across authors](../compare/index.md?t=film-iceman-the-time-traveler_490214)
 
 ## TrueHD 5.1
 

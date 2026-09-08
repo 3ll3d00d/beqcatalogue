@@ -1,6 +1,6 @@
 # Kill Kane
 
-[Compare across authors](../../compare/?t=film-kill-kane_378092)
+[Compare across authors](../compare/index.md?t=film-kill-kane_378092)
 
 ## DD+ 5.1
 

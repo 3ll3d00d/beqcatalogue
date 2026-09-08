@@ -1,6 +1,6 @@
 # The Empty Man
 
-[Compare across authors](../../compare/?t=film-the-empty-man_516632)
+[Compare across authors](../compare/index.md?t=film-the-empty-man_516632)
 
 ## DD+ 5.1
 

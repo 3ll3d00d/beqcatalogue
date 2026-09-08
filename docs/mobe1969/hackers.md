@@ -1,6 +1,6 @@
 # Hackers
 
-[Compare across authors](../../compare/?t=film-hackers_10428)
+[Compare across authors](../compare/index.md?t=film-hackers_10428)
 
 ## DTS-HD MA 5.1
 

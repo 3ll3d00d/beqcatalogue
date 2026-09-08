@@ -7,7 +7,7 @@
 Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1315303)  [Compare across authors](../../compare/?t=film-primate_1315303)
+[TMDB](https://www.themoviedb.org/movie/1315303)  [Compare across authors](../compare/index.md?t=film-primate_1315303)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Primate/Primate%20(2026)%202K%20Atmos.jpg)

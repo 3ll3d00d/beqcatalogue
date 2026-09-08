@@ -1,6 +1,6 @@
 # Who Framed Roger Rabbit
 
-[Compare across authors](../../compare/?t=film-who-framed-roger-rabbit_856)
+[Compare across authors](../compare/index.md?t=film-who-framed-roger-rabbit_856)
 
 ## Atmos
 

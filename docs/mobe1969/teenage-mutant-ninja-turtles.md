@@ -1,6 +1,6 @@
 # Teenage Mutant Ninja Turtles
 
-[Compare across authors](../../compare/?t=film-teenage-mutant-ninja-turtles_1498)
+[Compare across authors](../compare/index.md?t=film-teenage-mutant-ninja-turtles_1498)
 
 ## DD+ 5.1
 

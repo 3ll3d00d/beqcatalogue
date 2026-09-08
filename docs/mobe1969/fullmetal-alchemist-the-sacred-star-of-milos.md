@@ -1,6 +1,6 @@
 # Fullmetal Alchemist: The Sacred Star of Milos
 
-[Compare across authors](../../compare/?t=film-fullmetal-alchemist-the-sacred-star-of-milos_80518)
+[Compare across authors](../compare/index.md?t=film-fullmetal-alchemist-the-sacred-star-of-milos_80518)
 
 ## TrueHD 5.1
 

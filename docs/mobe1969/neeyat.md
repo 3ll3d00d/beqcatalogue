@@ -1,6 +1,6 @@
 # Neeyat
 
-[Compare across authors](../../compare/?t=film-neeyat_968748)
+[Compare across authors](../compare/index.md?t=film-neeyat_968748)
 
 ## DD+ 5.1
 

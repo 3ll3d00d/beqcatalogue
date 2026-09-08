@@ -1,6 +1,6 @@
 # Company of Heroes
 
-[Compare across authors](../../compare/?t=film-company-of-heroes_168676)
+[Compare across authors](../compare/index.md?t=film-company-of-heroes_168676)
 
 ## DTS-HD MA 5.1
 

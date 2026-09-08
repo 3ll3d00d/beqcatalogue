@@ -1,6 +1,6 @@
 # The Battle at Lake Changjin
 
-[Compare across authors](../../compare/?t=film-the-battle-at-lake-changjin_779029)
+[Compare across authors](../compare/index.md?t=film-the-battle-at-lake-changjin_779029)
 
 ## TrueHD 5.1
 

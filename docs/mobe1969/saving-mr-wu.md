@@ -1,6 +1,6 @@
 # Saving Mr. Wu
 
-[Compare across authors](../../compare/?t=film-saving-mr-wu_362154)
+[Compare across authors](../compare/index.md?t=film-saving-mr-wu_362154)
 
 ## DTS-HD MA 5.1
 

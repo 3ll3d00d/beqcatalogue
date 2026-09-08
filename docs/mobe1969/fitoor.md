@@ -1,6 +1,6 @@
 # Fitoor
 
-[Compare across authors](../../compare/?t=film-fitoor_376047)
+[Compare across authors](../compare/index.md?t=film-fitoor_376047)
 
 ## DD+ 5.1
 

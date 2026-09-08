@@ -1,6 +1,6 @@
 # The Kid Who Would Be King
 
-[Compare across authors](../../compare/?t=film-the-kid-who-would-be-king_454294)
+[Compare across authors](../compare/index.md?t=film-the-kid-who-would-be-king_454294)
 
 ## Atmos
 

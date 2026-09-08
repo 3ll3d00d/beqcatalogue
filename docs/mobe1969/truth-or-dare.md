@@ -1,6 +1,6 @@
 # Truth or Dare
 
-[Compare across authors](../../compare/?t=film-truth-or-dare_460019)
+[Compare across authors](../compare/index.md?t=film-truth-or-dare_460019)
 
 ## DTS-HD MA 5.1
 

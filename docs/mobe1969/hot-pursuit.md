@@ -1,6 +1,6 @@
 # Hot Pursuit
 
-[Compare across authors](../../compare/?t=film-hot-pursuit_268920)
+[Compare across authors](../compare/index.md?t=film-hot-pursuit_268920)
 
 ## DD+ 5.1
 

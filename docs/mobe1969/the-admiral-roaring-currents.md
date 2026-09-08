@@ -1,6 +1,6 @@
 # The Admiral: Roaring Currents
 
-[Compare across authors](../../compare/?t=film-the-admiral-roaring-currents_282631)
+[Compare across authors](../compare/index.md?t=film-the-admiral-roaring-currents_282631)
 
 ## DTS-HD MA 5.1
 

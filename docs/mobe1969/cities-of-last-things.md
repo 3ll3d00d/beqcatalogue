@@ -1,6 +1,6 @@
 # Cities of Last Things
 
-[Compare across authors](../../compare/?t=film-cities-of-last-things_541340)
+[Compare across authors](../compare/index.md?t=film-cities-of-last-things_541340)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

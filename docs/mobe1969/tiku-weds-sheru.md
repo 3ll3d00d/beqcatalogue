@@ -1,6 +1,6 @@
 # Tiku Weds Sheru
 
-[Compare across authors](../../compare/?t=film-tiku-weds-sheru_919031)
+[Compare across authors](../compare/index.md?t=film-tiku-weds-sheru_919031)
 
 ## DD+ 5.1
 

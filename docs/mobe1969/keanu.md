@@ -1,6 +1,6 @@
 # Keanu
 
-[Compare across authors](../../compare/?t=film-keanu_342521)
+[Compare across authors](../compare/index.md?t=film-keanu_342521)
 
 ## DTS-HD MA 5.1_s1_5.1
 

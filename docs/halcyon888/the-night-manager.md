@@ -9,7 +9,7 @@
 
 **MV Adjustment:** +5.5 dB
 
-* [Compare across authors](../../compare/?t=TV-the-night-manager_61859)
+* [Compare across authors](../compare/index.md?t=TV-the-night-manager_61859)
 
 * Production Year: 2016
 

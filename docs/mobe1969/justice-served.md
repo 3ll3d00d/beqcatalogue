@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-justice-served_205788)
+[Compare across authors](../compare/index.md?t=TV-justice-served_205788)
 
 ## Season 1
 

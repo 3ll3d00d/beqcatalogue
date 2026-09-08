@@ -1,6 +1,6 @@
 # The Lost Patient
 
-[Compare across authors](../../compare/?t=film-the-lost-patient_1006917)
+[Compare across authors](../compare/index.md?t=film-the-lost-patient_1006917)
 
 ## DD+ 5.1
 

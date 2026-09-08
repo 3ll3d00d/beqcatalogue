@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-adolescence_249042)
+* [Compare across authors](../compare/index.md?t=TV-adolescence_249042)
 
 * Production Year: 2025
 

@@ -1,6 +1,6 @@
 # The President's Last Bang
 
-[Compare across authors](../../compare/?t=film-the-presidents-last-bang_41338)
+[Compare across authors](../compare/index.md?t=film-the-presidents-last-bang_41338)
 
 ## DTS-HD MA 5.1
 

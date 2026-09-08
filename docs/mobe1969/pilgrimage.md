@@ -1,6 +1,6 @@
 # Pilgrimage
 
-[Compare across authors](../../compare/?t=film-pilgrimage_340442)
+[Compare across authors](../compare/index.md?t=film-pilgrimage_340442)
 
 ## DTS-HD MA 5.1
 

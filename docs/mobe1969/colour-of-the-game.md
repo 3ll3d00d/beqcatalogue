@@ -1,6 +1,6 @@
 # Colour of the Game
 
-[Compare across authors](../../compare/?t=film-colour-of-the-game_479272)
+[Compare across authors](../compare/index.md?t=film-colour-of-the-game_479272)
 
 ## TrueHD 5.1
 

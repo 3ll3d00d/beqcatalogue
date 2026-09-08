@@ -1,6 +1,6 @@
 # The Harder They Fall
 
-[Compare across authors](../../compare/?t=film-the-harder-they-fall_618162)
+[Compare across authors](../compare/index.md?t=film-the-harder-they-fall_618162)
 
 ## DD+ 5.1
 

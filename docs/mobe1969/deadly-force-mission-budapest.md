@@ -1,6 +1,6 @@
 # Deadly Force Mission Budapest
 
-[Compare across authors](../../compare/?t=film-deadly-force-mission-budapest_546110)
+[Compare across authors](../compare/index.md?t=film-deadly-force-mission-budapest_546110)
 
 ## DTS-HD MA 5.1
 

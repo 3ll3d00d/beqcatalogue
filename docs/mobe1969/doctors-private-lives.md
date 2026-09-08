@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-doctors-private-lives_28481)
+[Compare across authors](../compare/index.md?t=TV-doctors-private-lives_28481)
 
 * DD+ 2.0
 

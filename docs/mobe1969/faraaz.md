@@ -1,6 +1,6 @@
 # Faraaz
 
-[Compare across authors](../../compare/?t=film-faraaz_1019638)
+[Compare across authors](../compare/index.md?t=film-faraaz_1019638)
 
 ## DD+ 5.1
 

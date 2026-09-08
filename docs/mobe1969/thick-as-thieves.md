@@ -1,6 +1,6 @@
 # Thick as Thieves
 
-[Compare across authors](../../compare/?t=film-thick-as-thieves_14979)
+[Compare across authors](../compare/index.md?t=film-thick-as-thieves_14979)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Hell
 
-[Compare across authors](../../compare/?t=film-hell_73262)
+[Compare across authors](../compare/index.md?t=film-hell_73262)
 
 ## DTS-HD MA 5.1
 

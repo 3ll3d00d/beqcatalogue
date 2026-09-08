@@ -1,6 +1,6 @@
 # Sound of Metal
 
-[Compare across authors](../../compare/?t=film-sound-of-metal_502033)
+[Compare across authors](../compare/index.md?t=film-sound-of-metal_502033)
 
 ## DTS-HD MA 5.1
 

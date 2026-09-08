@@ -11,7 +11,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62822058/)
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2021
 
@@ -27,7 +27,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62822058/)
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2021
 
@@ -43,7 +43,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62822058/)
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2021
 
@@ -59,7 +59,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62822058/)
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2023
 
@@ -75,7 +75,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62822058/)
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2023
 
@@ -91,7 +91,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62822058/)
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2023
 
@@ -107,7 +107,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62822058/)
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2025
 
@@ -123,7 +123,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62822058/)
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2025
 
@@ -139,7 +139,7 @@
 
 * [Forum Post](https://www.avsforum.com/posts/62822058/)
 
-* [Compare across authors](../../compare/?t=TV-foundation_93740)
+* [Compare across authors](../compare/index.md?t=TV-foundation_93740)
 
 * Production Year: 2025
 

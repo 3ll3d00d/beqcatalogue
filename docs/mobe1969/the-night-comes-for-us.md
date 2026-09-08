@@ -1,6 +1,6 @@
 # The Night Comes for Us
 
-[Compare across authors](../../compare/?t=film-the-night-comes-for-us_449992)
+[Compare across authors](../compare/index.md?t=film-the-night-comes-for-us_449992)
 
 ## DD+ 5.1
 

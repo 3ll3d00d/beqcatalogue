@@ -1,6 +1,6 @@
 # Wake Up, Ron Burgundy
 
-[Compare across authors](../../compare/?t=film-wake-up-ron-burgundy_9965)
+[Compare across authors](../compare/index.md?t=film-wake-up-ron-burgundy_9965)
 
 ## DTS-HD MA 5.1
 

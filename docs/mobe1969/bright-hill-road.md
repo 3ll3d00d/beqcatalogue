@@ -1,6 +1,6 @@
 # Bright Hill Road
 
-[Compare across authors](../../compare/?t=film-bright-hill-road_744168)
+[Compare across authors](../compare/index.md?t=film-bright-hill-road_744168)
 
 ## DD+ 5.1
 

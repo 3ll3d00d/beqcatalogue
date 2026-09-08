@@ -1,6 +1,6 @@
 # Quarantine 2: Terminal
 
-[Compare across authors](../../compare/?t=film-quarantine-2-terminal_59115)
+[Compare across authors](../compare/index.md?t=film-quarantine-2-terminal_59115)
 
 ## DD 5.1
 

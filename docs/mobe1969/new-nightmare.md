@@ -1,6 +1,6 @@
 # New Nightmare
 
-[Compare across authors](../../compare/?t=film-new-nightmare_11596)
+[Compare across authors](../compare/index.md?t=film-new-nightmare_11596)
 
 ## DTS-HD MA 5.1
 

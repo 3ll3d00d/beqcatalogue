@@ -1,6 +1,6 @@
 # No Tears for the Dead
 
-[Compare across authors](../../compare/?t=film-no-tears-for-the-dead_265851)
+[Compare across authors](../compare/index.md?t=film-no-tears-for-the-dead_265851)
 
 ## DTS-HD MA 5.1
 

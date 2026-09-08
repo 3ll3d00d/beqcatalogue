@@ -1,6 +1,6 @@
 # The Falls
 
-[Compare across authors](../../compare/?t=film-the-falls_852355)
+[Compare across authors](../compare/index.md?t=film-the-falls_852355)
 
 ## DD+ 5.1
 

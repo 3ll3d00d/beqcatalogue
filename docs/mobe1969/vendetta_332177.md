@@ -1,6 +1,6 @@
 # Vendetta
 
-[Compare across authors](../../compare/?t=film-vendetta_332177)
+[Compare across authors](../compare/index.md?t=film-vendetta_332177)
 
 ## DTS-HD MA 5.1
 

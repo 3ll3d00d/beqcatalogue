@@ -9,7 +9,7 @@ Returning to the house where his family was brutally murdered during the war, "t
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64459797#post-64459797)  [TMDB](https://www.themoviedb.org/movie/1223601)  [Compare across authors](../../compare/?t=film-sisu-road-to-revenge_1223601)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1710?post_id=64459797#post-64459797)  [TMDB](https://www.themoviedb.org/movie/1223601)  [Compare across authors](../compare/index.md?t=film-sisu-road-to-revenge_1223601)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sisu%20Road%20to%20Revenge%20(2025)%20(%2B5.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Returning to the house where his family was brutally murdered during the war, 't
 Dialnorm Compensation: 2dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1690?post_id=64360675#post-64360675)  [TMDB](https://www.themoviedb.org/movie/1223601)  [Compare across authors](../../compare/?t=film-sisu-road-to-revenge_1223601)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1690?post_id=64360675#post-64360675)  [TMDB](https://www.themoviedb.org/movie/1223601)  [Compare across authors](../compare/index.md?t=film-sisu-road-to-revenge_1223601)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Sisu%20Road%20to%20Revenge%20(2025)%20(%2B5.5%20gain)%20DD%2B%20Atmos.jpg)

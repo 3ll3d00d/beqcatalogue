@@ -1,6 +1,6 @@
 # Yakuza Apocalypse
 
-[Compare across authors](../../compare/?t=film-yakuza-apocalypse_283127)
+[Compare across authors](../compare/index.md?t=film-yakuza-apocalypse_283127)
 
 ## DTS-HD MA 5.1
 

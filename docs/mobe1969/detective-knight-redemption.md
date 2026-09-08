@@ -1,6 +1,6 @@
 # Detective Knight: Redemption
 
-[Compare across authors](../../compare/?t=film-detective-knight-redemption_1035803)
+[Compare across authors](../compare/index.md?t=film-detective-knight-redemption_1035803)
 
 ## DTS-HD MA 5.1
 

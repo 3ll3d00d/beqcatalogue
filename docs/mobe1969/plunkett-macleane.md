@@ -1,6 +1,6 @@
 # Plunkett & Macleane
 
-[Compare across authors](../../compare/?t=film-plunkett-macleane_10381)
+[Compare across authors](../compare/index.md?t=film-plunkett-macleane_10381)
 
 ## LPCM 5.1
 

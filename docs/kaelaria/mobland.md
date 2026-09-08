@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-mobland_247718)
+* [Compare across authors](../compare/index.md?t=TV-mobland_247718)
 
 * Production Year: 2025
 

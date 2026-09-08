@@ -1,6 +1,6 @@
 # Monsters University
 
-[Compare across authors](../../compare/?t=film-monsters-university_62211)
+[Compare across authors](../compare/index.md?t=film-monsters-university_62211)
 
 ## Atmos, DTS-HD MA 7.1
 

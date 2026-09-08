@@ -1,6 +1,6 @@
 # Bbuddah Hoga Terra Baap
 
-[Compare across authors](../../compare/?t=film-bbuddah-hoga-terra-baap_69774)
+[Compare across authors](../compare/index.md?t=film-bbuddah-hoga-terra-baap_69774)
 
 ## DD+ 5.1
 

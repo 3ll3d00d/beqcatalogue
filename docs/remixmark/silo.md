@@ -14,7 +14,7 @@ Dialnorm Compensation: E1:11dB E2-4,E7:4dB E5,8-9:3dB E6,10:5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1552?post_id=63785405#post-63785405)
 
-* [Compare across authors](../../compare/?t=TV-silo_125988)
+* [Compare across authors](../compare/index.md?t=TV-silo_125988)
 
 * Production Year: 2023
 

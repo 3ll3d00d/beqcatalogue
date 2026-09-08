@@ -9,7 +9,7 @@ Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shi
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64492953#post-64492953)  [TMDB](https://www.themoviedb.org/movie/863)  [Compare across authors](../../compare/?t=film-toy-story-2_863)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1717?post_id=64492953#post-64492953)  [TMDB](https://www.themoviedb.org/movie/863)  [Compare across authors](../compare/index.md?t=film-toy-story-2_863)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Toy%20Story%202%20(1999)%20DTS-ES.jpg)

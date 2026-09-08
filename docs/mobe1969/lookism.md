@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-lookism_210942)
+[Compare across authors](../compare/index.md?t=TV-lookism_210942)
 
 ## Season 1
 

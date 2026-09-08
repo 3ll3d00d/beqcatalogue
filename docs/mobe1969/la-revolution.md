@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-la-revolution_99807)
+[Compare across authors](../compare/index.md?t=TV-la-revolution_99807)
 
 ## Season 1
 

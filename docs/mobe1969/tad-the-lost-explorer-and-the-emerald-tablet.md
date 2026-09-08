@@ -1,6 +1,6 @@
 # Tad, the Lost Explorer and the Emerald Tablet
 
-[Compare across authors](../../compare/?t=film-tad-the-lost-explorer-and-the-emerald-tablet_676701)
+[Compare across authors](../compare/index.md?t=film-tad-the-lost-explorer-and-the-emerald-tablet_676701)
 
 ## DD 5.1
 

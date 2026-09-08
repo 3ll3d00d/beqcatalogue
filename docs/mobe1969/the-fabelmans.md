@@ -1,6 +1,6 @@
 # The Fabelmans
 
-[Compare across authors](../../compare/?t=film-the-fabelmans_804095)
+[Compare across authors](../compare/index.md?t=film-the-fabelmans_804095)
 
 ## TrueHD 7.1, DD+ 7.1
 

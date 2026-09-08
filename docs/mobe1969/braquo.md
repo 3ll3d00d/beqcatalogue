@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-braquo_37363)
+[Compare across authors](../compare/index.md?t=TV-braquo_37363)
 
 ## Season 4 Episode 1
 

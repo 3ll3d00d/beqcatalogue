@@ -1,6 +1,6 @@
 # American Underdog
 
-[Compare across authors](../../compare/?t=film-american-underdog_673309)
+[Compare across authors](../compare/index.md?t=film-american-underdog_673309)
 
 ## Atmos
 

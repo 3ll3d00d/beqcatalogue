@@ -1,6 +1,6 @@
 # Man of Steel
 
-[Compare across authors](../../compare/?t=film-man-of-steel_49521)
+[Compare across authors](../compare/index.md?t=film-man-of-steel_49521)
 
 ## Atmos
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-terminator-zero_239287)
+* [Compare across authors](../compare/index.md?t=TV-terminator-zero_239287)
 
 * Production Year: 2024
 

@@ -1,6 +1,6 @@
 # The Saint
 
-[Compare across authors](../../compare/?t=film-the-saint_463906)
+[Compare across authors](../compare/index.md?t=film-the-saint_463906)
 
 ## DD+ 5.1
 

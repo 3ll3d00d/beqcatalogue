@@ -5,7 +5,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-ironheart_114471)
+* [Compare across authors](../compare/index.md?t=TV-ironheart_114471)
 
 * Production Year: 2025
 

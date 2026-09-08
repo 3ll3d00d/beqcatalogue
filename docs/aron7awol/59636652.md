@@ -1,6 +1,6 @@
 # Brahms: The Boy II
 
-[Compare across authors](../../compare/?t=film-brahms-the-boy-ii_555974)
+[Compare across authors](../compare/index.md?t=film-brahms-the-boy-ii_555974)
 
 ## DTS-HD MA 5.1
 

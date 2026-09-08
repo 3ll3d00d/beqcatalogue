@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-killer-coaster_215636)
+[Compare across authors](../compare/index.md?t=TV-killer-coaster_215636)
 
 ## Season 1
 

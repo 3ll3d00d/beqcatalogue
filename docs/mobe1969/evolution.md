@@ -1,6 +1,6 @@
 # Evolution
 
-[Compare across authors](../../compare/?t=film-evolution_9397)
+[Compare across authors](../compare/index.md?t=film-evolution_9397)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Shaolin Soccer
 
-[Compare across authors](../../compare/?t=film-shaolin-soccer_11770)
+[Compare across authors](../compare/index.md?t=film-shaolin-soccer_11770)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Restless
 
-[Compare across authors](../../compare/?t=film-the-restless_32158)
+[Compare across authors](../compare/index.md?t=film-the-restless_32158)
 
 ## DTS-HD MA 5.1
 

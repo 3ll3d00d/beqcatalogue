@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-revival_1383557)
+* [Compare across authors](../compare/index.md?t=TV-revival_1383557)
 
 * Production Year: 2025
 

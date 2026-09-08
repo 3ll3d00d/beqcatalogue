@@ -1,6 +1,6 @@
 # Delta Farce
 
-[Compare across authors](../../compare/?t=film-delta-farce_14547)
+[Compare across authors](../compare/index.md?t=film-delta-farce_14547)
 
 ## LPCM 7.1
 

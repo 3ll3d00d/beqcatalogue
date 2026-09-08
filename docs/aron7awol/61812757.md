@@ -1,6 +1,6 @@
 # Everything Everywhere All at Once
 
-[Compare across authors](../../compare/?t=film-everything-everywhere-all-at-once_545611)
+[Compare across authors](../compare/index.md?t=film-everything-everywhere-all-at-once_545611)
 
 ## Atmos
 

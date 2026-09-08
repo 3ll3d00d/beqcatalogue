@@ -1,6 +1,6 @@
 # The Last Boy Scout
 
-[Compare across authors](../../compare/?t=film-the-last-boy-scout_9319)
+[Compare across authors](../compare/index.md?t=film-the-last-boy-scout_9319)
 
 ## DTS-HD MA 5.1
 

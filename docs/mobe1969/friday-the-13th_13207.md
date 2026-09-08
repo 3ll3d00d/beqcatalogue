@@ -1,6 +1,6 @@
 # Friday the 13th
 
-[Compare across authors](../../compare/?t=film-friday-the-13th_13207)
+[Compare across authors](../compare/index.md?t=film-friday-the-13th_13207)
 
 ## TrueHD 5.1
 

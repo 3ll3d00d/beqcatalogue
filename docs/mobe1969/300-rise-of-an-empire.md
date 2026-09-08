@@ -1,6 +1,6 @@
 # 300: Rise of an Empire
 
-[Compare across authors](../../compare/?t=film-300-rise-of-an-empire_53182)
+[Compare across authors](../compare/index.md?t=film-300-rise-of-an-empire_53182)
 
 ## DTS-HD MA 7.1
 

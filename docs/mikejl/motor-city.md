@@ -7,7 +7,7 @@
 In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/87513)  [Compare across authors](../../compare/?t=film-motor-city_87513)
+[TMDB](https://www.themoviedb.org/movie/87513)  [Compare across authors](../compare/index.md?t=film-motor-city_87513)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Motor%20City/Motor%20City%20(2026)%204K%20DD%2B%205.1.jpg)

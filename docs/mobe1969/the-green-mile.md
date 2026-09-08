@@ -1,6 +1,6 @@
 # The Green Mile
 
-[Compare across authors](../../compare/?t=film-the-green-mile_497)
+[Compare across authors](../compare/index.md?t=film-the-green-mile_497)
 
 ## Atmos
 

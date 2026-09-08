@@ -1,6 +1,6 @@
 # The Russian Bride
 
-[Compare across authors](../../compare/?t=film-the-russian-bride_524787)
+[Compare across authors](../compare/index.md?t=film-the-russian-bride_524787)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # 1BR
 
-[Compare across authors](../../compare/?t=film-1br_611605)
+[Compare across authors](../compare/index.md?t=film-1br_611605)
 
 ## DD+ 5.1
 

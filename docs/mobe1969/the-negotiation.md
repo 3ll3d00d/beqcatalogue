@@ -1,6 +1,6 @@
 # The Negotiation
 
-[Compare across authors](../../compare/?t=film-the-negotiation_542836)
+[Compare across authors](../compare/index.md?t=film-the-negotiation_542836)
 
 ## TrueHD 5.1
 

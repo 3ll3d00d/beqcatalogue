@@ -1,6 +1,6 @@
 # Universal Soldier
 
-[Compare across authors](../../compare/?t=film-universal-soldier_9349)
+[Compare across authors](../compare/index.md?t=film-universal-soldier_9349)
 
 ## DTS-HD MA 5.1
 

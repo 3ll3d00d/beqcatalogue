@@ -1,6 +1,6 @@
 # I Am Number Four
 
-[Compare across authors](../../compare/?t=film-i-am-number-four_46529)
+[Compare across authors](../compare/index.md?t=film-i-am-number-four_46529)
 
 ## DTS-HD MA 5.1
 

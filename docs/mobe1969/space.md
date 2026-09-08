@@ -1,6 +1,6 @@
 # Space
 
-[Compare across authors](../../compare/?t=film-space_687972)
+[Compare across authors](../compare/index.md?t=film-space_687972)
 
 ## DD+ 2.0
 

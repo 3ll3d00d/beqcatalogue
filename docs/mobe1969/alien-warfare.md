@@ -1,6 +1,6 @@
 # Alien Warfare
 
-[Compare across authors](../../compare/?t=film-alien-warfare_593035)
+[Compare across authors](../compare/index.md?t=film-alien-warfare_593035)
 
 ## DD+ 5.1
 

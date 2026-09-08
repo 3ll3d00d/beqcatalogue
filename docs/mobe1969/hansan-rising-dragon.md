@@ -1,6 +1,6 @@
 # Hansan: Rising Dragon
 
-[Compare across authors](../../compare/?t=film-hansan-rising-dragon_588108)
+[Compare across authors](../compare/index.md?t=film-hansan-rising-dragon_588108)
 
 ## DTS-HD MA 5.1
 

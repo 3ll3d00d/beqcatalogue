@@ -9,7 +9,7 @@ When a new Ghostface killer emerges in the quiet town where Sidney Prescott has 
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1746?post_id=64646407#post-64646407)  [TMDB](https://www.themoviedb.org/movie/1159559)  [Compare across authors](../../compare/?t=film-scream-7_1159559)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1746?post_id=64646407#post-64646407)  [TMDB](https://www.themoviedb.org/movie/1159559)  [Compare across authors](../compare/index.md?t=film-scream-7_1159559)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scream%207%20(2026)%20(%2B.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ When a new Ghostface killer emerges in the quiet town where Sidney Prescott has 
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1729?post_id=64545813#post-64545813)  [TMDB](https://www.themoviedb.org/movie/1159559)  [Compare across authors](../../compare/?t=film-scream-7_1159559)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1729?post_id=64545813#post-64545813)  [TMDB](https://www.themoviedb.org/movie/1159559)  [Compare across authors](../compare/index.md?t=film-scream-7_1159559)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scream%207%20(2026)%20(%2B1%20gain)%20DD%2B%20Atmos.jpg)

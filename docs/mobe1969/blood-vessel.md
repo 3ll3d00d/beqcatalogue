@@ -1,6 +1,6 @@
 # Blood Vessel
 
-[Compare across authors](../../compare/?t=film-blood-vessel_618585)
+[Compare across authors](../compare/index.md?t=film-blood-vessel_618585)
 
 ## DTS-HD MA 5.1
 

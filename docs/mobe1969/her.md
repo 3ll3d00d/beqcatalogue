@@ -1,6 +1,6 @@
 # Her
 
-[Compare across authors](../../compare/?t=film-her_152601)
+[Compare across authors](../compare/index.md?t=film-her_152601)
 
 ## DD+ 5.1
 

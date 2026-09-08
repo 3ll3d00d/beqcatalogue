@@ -1,6 +1,6 @@
 # Burn
 
-[Compare across authors](../../compare/?t=film-burn_508138)
+[Compare across authors](../compare/index.md?t=film-burn_508138)
 
 ## DD+ 5.1
 

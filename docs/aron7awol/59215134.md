@@ -1,6 +1,6 @@
 # Jojo Rabbit
 
-[Compare across authors](../../compare/?t=film-jojo-rabbit_515001)
+[Compare across authors](../compare/index.md?t=film-jojo-rabbit_515001)
 
 ## DTS-HD MA 5.1
 

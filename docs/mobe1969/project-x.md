@@ -1,6 +1,6 @@
 # Project X
 
-[Compare across authors](../../compare/?t=film-project-x_57214)
+[Compare across authors](../compare/index.md?t=film-project-x_57214)
 
 ## DTS-HD MA 5.1
 

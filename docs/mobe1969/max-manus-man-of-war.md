@@ -1,6 +1,6 @@
 # Max Manus: Man of War
 
-[Compare across authors](../../compare/?t=film-max-manus-man-of-war_13752)
+[Compare across authors](../compare/index.md?t=film-max-manus-man-of-war_13752)
 
 ## TrueHD 5.1
 

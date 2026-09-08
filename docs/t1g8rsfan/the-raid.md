@@ -14,7 +14,7 @@ Deep in the heart of Jakarta's slums lies an impenetrable safe house for the wor
 Indonesian Audio Track
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63094312)  [TMDB](https://www.themoviedb.org/movie/94329)  [Compare across authors](../../compare/?t=film-the-raid_94329)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63094312)  [TMDB](https://www.themoviedb.org/movie/94329)  [Compare across authors](../compare/index.md?t=film-the-raid_94329)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Raid%20(2011)%20Unrated%20(-2%20gain)%20IND%20Atmos.jpg)
@@ -33,7 +33,7 @@ Deep in the heart of Jakarta's slums lies an impenetrable safe house for the wor
 English Audio Track
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63094312)  [TMDB](https://www.themoviedb.org/movie/94329)  [Compare across authors](../../compare/?t=film-the-raid_94329)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63094312)  [TMDB](https://www.themoviedb.org/movie/94329)  [Compare across authors](../compare/index.md?t=film-the-raid_94329)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/The%20Raid%20(2011)%20Unrated%20ENG%20DTS-HD%20MA%205.1%20PvA.jpg)

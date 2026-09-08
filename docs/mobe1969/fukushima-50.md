@@ -1,6 +1,6 @@
 # Fukushima 50
 
-[Compare across authors](../../compare/?t=film-fukushima-50_563067)
+[Compare across authors](../compare/index.md?t=film-fukushima-50_563067)
 
 ## DTS-HD MA 5.1
 

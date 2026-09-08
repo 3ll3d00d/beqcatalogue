@@ -7,7 +7,7 @@
 In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past returns from war, a curse begins to take shape through a mysterious knight and threatens to destroy them all.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1242937)  [Compare across authors](../../compare/?t=film-the-dreadful_1242937)
+[TMDB](https://www.themoviedb.org/movie/1242937)  [Compare across authors](../compare/index.md?t=film-the-dreadful_1242937)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Dreadful/The%20Dreadful%20(2026)%20DD%2B%205.1.jpg)

@@ -1,6 +1,6 @@
 # Outlander
 
-[Compare across authors](../../compare/?t=film-outlander_10529)
+[Compare across authors](../compare/index.md?t=film-outlander_10529)
 
 ## DTS-HD MA 5.1
 

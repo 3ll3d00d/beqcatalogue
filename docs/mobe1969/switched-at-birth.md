@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-switched-at-birth_37632)
+[Compare across authors](../compare/index.md?t=TV-switched-at-birth_37632)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # The Perfumier
 
-[Compare across authors](../../compare/?t=film-the-perfumier_1016446)
+[Compare across authors](../compare/index.md?t=film-the-perfumier_1016446)
 
 ## DD+ 5.1
 

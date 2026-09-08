@@ -1,6 +1,6 @@
 # Ant-Man
 
-[Compare across authors](../../compare/?t=film-ant-man_102899)
+[Compare across authors](../compare/index.md?t=film-ant-man_102899)
 
 ## Atmos
 

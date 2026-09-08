@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-devil-in-ohio_133700)
+* [Compare across authors](../compare/index.md?t=TV-devil-in-ohio_133700)
 
 * Production Year: 2022
 

@@ -1,6 +1,6 @@
 # End of Watch
 
-[Compare across authors](../../compare/?t=film-end-of-watch_77016)
+[Compare across authors](../compare/index.md?t=film-end-of-watch_77016)
 
 ## DTS-HD MA 5.1
 

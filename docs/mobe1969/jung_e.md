@@ -1,6 +1,6 @@
 # JUNG_E
 
-[Compare across authors](../../compare/?t=film-jung_e_843794)
+[Compare across authors](../compare/index.md?t=film-jung_e_843794)
 
 ## DD+ Atmos
 

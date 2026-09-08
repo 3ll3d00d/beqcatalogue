@@ -1,6 +1,6 @@
 # Hitmen
 
-[Compare across authors](../../compare/?t=film-hitmen_1063971)
+[Compare across authors](../compare/index.md?t=film-hitmen_1063971)
 
 ## DD+ 5.1
 

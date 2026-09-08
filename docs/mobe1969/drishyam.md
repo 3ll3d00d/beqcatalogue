@@ -1,6 +1,6 @@
 # Drishyam
 
-[Compare across authors](../../compare/?t=film-drishyam_352173)
+[Compare across authors](../compare/index.md?t=film-drishyam_352173)
 
 ## DD+ 5.1
 

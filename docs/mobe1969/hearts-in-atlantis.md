@@ -1,6 +1,6 @@
 # Hearts in Atlantis
 
-[Compare across authors](../../compare/?t=film-hearts-in-atlantis_11313)
+[Compare across authors](../compare/index.md?t=film-hearts-in-atlantis_11313)
 
 ## DD 5.1
 

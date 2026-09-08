@@ -1,6 +1,6 @@
 # The Last Starfighter
 
-[Compare across authors](../../compare/?t=film-the-last-starfighter_11884)
+[Compare across authors](../compare/index.md?t=film-the-last-starfighter_11884)
 
 ## DTS-HD MA 5.1
 

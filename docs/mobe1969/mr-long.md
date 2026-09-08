@@ -1,6 +1,6 @@
 # Mr. Long
 
-[Compare across authors](../../compare/?t=film-mr-long_436350)
+[Compare across authors](../compare/index.md?t=film-mr-long_436350)
 
 ## DTS-HD MA 5.1
 

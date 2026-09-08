@@ -1,6 +1,6 @@
 # Sharper
 
-[Compare across authors](../../compare/?t=film-sharper_717980)
+[Compare across authors](../compare/index.md?t=film-sharper_717980)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Sinister
 
-[Compare across authors](../../compare/?t=film-sinister_82507)
+[Compare across authors](../compare/index.md?t=film-sinister_82507)
 
 ## DTS-HD MA 5.1
 

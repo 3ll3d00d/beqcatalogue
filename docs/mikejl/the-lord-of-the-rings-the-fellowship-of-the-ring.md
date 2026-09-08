@@ -9,7 +9,7 @@ Extended
 Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/120)  [Compare across authors](../../compare/?t=film-the-lord-of-the-rings-the-fellowship-of-the-ring_120)
+[TMDB](https://www.themoviedb.org/movie/120)  [Compare across authors](../compare/index.md?t=film-the-lord-of-the-rings-the-fellowship-of-the-ring_120)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lord%20of%20the%20Rings/LOTR%20-%20The%20Fellowship%20of%20the%20Ring%20(2001%20(Ex)%20Atmos.jpg)
@@ -25,7 +25,7 @@ Extended Edition
 Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/120)  [Compare across authors](../../compare/?t=film-the-lord-of-the-rings-the-fellowship-of-the-ring_120)
+[TMDB](https://www.themoviedb.org/movie/120)  [Compare across authors](../compare/index.md?t=film-the-lord-of-the-rings-the-fellowship-of-the-ring_120)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lord%20of%20the%20Rings/LOTR%20-%20The%20Fellowship%20of%20the%20Ring%20(2001)%20(Extended)%20DD%2B%20Atmos.jpg)

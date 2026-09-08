@@ -1,6 +1,6 @@
 # Detective Byomkesh Bakshy!
 
-[Compare across authors](../../compare/?t=film-detective-byomkesh-bakshy_320295)
+[Compare across authors](../compare/index.md?t=film-detective-byomkesh-bakshy_320295)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Coast Guard
 
-[Compare across authors](../../compare/?t=film-the-coast-guard_1416)
+[Compare across authors](../compare/index.md?t=film-the-coast-guard_1416)
 
 ## DTS-HD MA 5.1
 

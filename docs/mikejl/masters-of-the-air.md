@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-masters-of-the-air_46518)
+* [Compare across authors](../compare/index.md?t=TV-masters-of-the-air_46518)
 
 * Production Year: 2024
 

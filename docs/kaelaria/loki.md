@@ -7,7 +7,7 @@
 * Atmos, DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-loki_84958)
+* [Compare across authors](../compare/index.md?t=TV-loki_84958)
 
 * Production Year: 2021
 
@@ -22,7 +22,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-loki_84958)
+* [Compare across authors](../compare/index.md?t=TV-loki_84958)
 
 * Production Year: 2021
 

@@ -1,6 +1,6 @@
 # The Recall
 
-[Compare across authors](../../compare/?t=film-the-recall_455551)
+[Compare across authors](../compare/index.md?t=film-the-recall_455551)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Champion
 
-[Compare across authors](../../compare/?t=film-champion_520358)
+[Compare across authors](../compare/index.md?t=film-champion_520358)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Cuttputlli
 
-[Compare across authors](../../compare/?t=film-cuttputlli_956757)
+[Compare across authors](../compare/index.md?t=film-cuttputlli_956757)
 
 ## DD+ 5.1
 

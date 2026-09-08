@@ -9,7 +9,7 @@ Thomas and his fellow Gladers face their greatest challenge yet: searching for c
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62785535)  [TMDB](https://www.themoviedb.org/movie/294254)  [Compare across authors](../../compare/?t=film-maze-runner-the-scorch-trials_294254)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62785535)  [TMDB](https://www.themoviedb.org/movie/294254)  [Compare across authors](../compare/index.md?t=film-maze-runner-the-scorch-trials_294254)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Maze%20Runner%20The%20Scorch%20Trials%20(2015)%20(%2B2%20gain)%20Atmos.jpg)

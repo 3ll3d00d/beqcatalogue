@@ -9,7 +9,7 @@ The adventures of two amiably aimless metal-head friends, Wayne and Garth. From 
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1504?post_id=63545080#post-63545080)  [TMDB](https://www.themoviedb.org/movie/8872)  [Compare across authors](../../compare/?t=film-waynes-world_8872)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1504?post_id=63545080#post-63545080)  [TMDB](https://www.themoviedb.org/movie/8872)  [Compare across authors](../compare/index.md?t=film-waynes-world_8872)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/main/Wayne's%20World%20(1992)%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # My Annoying Brother
 
-[Compare across authors](../../compare/?t=film-my-annoying-brother_426166)
+[Compare across authors](../compare/index.md?t=film-my-annoying-brother_426166)
 
 ## TrueHD 5.1
 

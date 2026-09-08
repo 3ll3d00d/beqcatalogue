@@ -1,6 +1,6 @@
 # School of Rock
 
-[Compare across authors](../../compare/?t=film-school-of-rock_1584)
+[Compare across authors](../compare/index.md?t=film-school-of-rock_1584)
 
 ## DTS-HD MA 5.1
 

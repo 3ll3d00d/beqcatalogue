@@ -1,6 +1,6 @@
 # Sympathy For The Devil
 
-[Compare across authors](../../compare/?t=film-sympathy-for-the-devil_1030987)
+[Compare across authors](../compare/index.md?t=film-sympathy-for-the-devil_1030987)
 
 ## DD+ 5.1
 

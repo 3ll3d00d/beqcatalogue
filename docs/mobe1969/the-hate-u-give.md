@@ -1,6 +1,6 @@
 # The Hate U Give
 
-[Compare across authors](../../compare/?t=film-the-hate-u-give_470044)
+[Compare across authors](../compare/index.md?t=film-the-hate-u-give_470044)
 
 ## DTS-HD MA 7.1
 

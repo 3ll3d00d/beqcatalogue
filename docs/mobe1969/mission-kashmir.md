@@ -1,6 +1,6 @@
 # Mission Kashmir
 
-[Compare across authors](../../compare/?t=film-mission-kashmir_46406)
+[Compare across authors](../compare/index.md?t=film-mission-kashmir_46406)
 
 ## DD 5.1
 

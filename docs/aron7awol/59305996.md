@@ -1,6 +1,6 @@
 # Charlie's Angels
 
-[Compare across authors](../../compare/?t=film-charlies-angels_458897)
+[Compare across authors](../compare/index.md?t=film-charlies-angels_458897)
 
 ## DTS-X
 

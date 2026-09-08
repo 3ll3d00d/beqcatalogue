@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-widow_85854)
+[Compare across authors](../compare/index.md?t=TV-the-widow_85854)
 
 ## Season 1
 

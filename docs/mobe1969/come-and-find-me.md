@@ -1,6 +1,6 @@
 # Come and Find Me
 
-[Compare across authors](../../compare/?t=film-come-and-find-me_345918)
+[Compare across authors](../compare/index.md?t=film-come-and-find-me_345918)
 
 ## DD+ 5.1
 

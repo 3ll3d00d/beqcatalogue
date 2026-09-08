@@ -1,6 +1,6 @@
 # Kill Me Three Times
 
-[Compare across authors](../../compare/?t=film-kill-me-three-times_237756)
+[Compare across authors](../compare/index.md?t=film-kill-me-three-times_237756)
 
 ## DTS-HD MA 5.1
 

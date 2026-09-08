@@ -9,7 +9,7 @@ One year after her sister Melanie mysteriously disappeared, Clover and her frien
 
 **MV Adjustment:** +2.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1610?post_id=64071603#post-64071603)  [TMDB](https://www.themoviedb.org/movie/1232546)  [Compare across authors](../../compare/?t=film-until-dawn_1232546)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1610?post_id=64071603#post-64071603)  [TMDB](https://www.themoviedb.org/movie/1232546)  [Compare across authors](../compare/index.md?t=film-until-dawn_1232546)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Until%20Dawn%20(2025)%20(%2B2.5%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ One year after her sister Melanie mysteriously disappeared, Clover and her frien
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1593?post_id=64012246#post-64012246)  [TMDB](https://www.themoviedb.org/movie/1232546)  [Compare across authors](../../compare/?t=film-until-dawn_1232546)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1593?post_id=64012246#post-64012246)  [TMDB](https://www.themoviedb.org/movie/1232546)  [Compare across authors](../compare/index.md?t=film-until-dawn_1232546)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Until%20Dawn%20(2025)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg)
@@ -44,7 +44,7 @@ One year after her sister Melanie mysteriously disappeared, Clover and her frien
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1610?post_id=64071584#post-64071584)  [TMDB](https://www.themoviedb.org/movie/1232546)  [Compare across authors](../../compare/?t=film-until-dawn_1232546)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1610?post_id=64071584#post-64071584)  [TMDB](https://www.themoviedb.org/movie/1232546)  [Compare across authors](../compare/index.md?t=film-until-dawn_1232546)
 { data-search-exclude }
 
 ![img 4](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Until%20Dawn%20(2025)%20(%2B1.5%20gain)%20DTS-HD%20MA%205.1.jpg)

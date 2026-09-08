@@ -1,6 +1,6 @@
 # Decibel
 
-[Compare across authors](../../compare/?t=film-decibel_774548)
+[Compare across authors](../compare/index.md?t=film-decibel_774548)
 
 ## DTS-HD MA 5.1
 

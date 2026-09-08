@@ -9,7 +9,7 @@ When Eddie breaks into a luxury SUV, he steps into a deadly trap set by William,
 
 **MV Adjustment:** +2.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1582?post_id=63964609#post-63964609)  [TMDB](https://www.themoviedb.org/movie/1083968)  [Compare across authors](../../compare/?t=film-locked_1083968)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1582?post_id=63964609#post-63964609)  [TMDB](https://www.themoviedb.org/movie/1083968)  [Compare across authors](../compare/index.md?t=film-locked_1083968)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Locked%20(2025)%20(%2B2%20gain)%20DD%2B.jpg)

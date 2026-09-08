@@ -1,6 +1,6 @@
 # The Boss Baby
 
-[Compare across authors](../../compare/?t=film-the-boss-baby_295693)
+[Compare across authors](../compare/index.md?t=film-the-boss-baby_295693)
 
 ## DTS-HD MA 7.1
 

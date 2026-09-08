@@ -1,6 +1,6 @@
 # Tomorrow is Today
 
-[Compare across authors](../../compare/?t=film-tomorrow-is-today_1029528)
+[Compare across authors](../compare/index.md?t=film-tomorrow-is-today_1029528)
 
 ## DD+ 5.1
 

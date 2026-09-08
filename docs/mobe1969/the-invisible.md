@@ -1,6 +1,6 @@
 # The Invisible
 
-[Compare across authors](../../compare/?t=film-the-invisible_9785)
+[Compare across authors](../compare/index.md?t=film-the-invisible_9785)
 
 ## LPCM 5.1
 

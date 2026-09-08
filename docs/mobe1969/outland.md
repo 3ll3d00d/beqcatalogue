@@ -1,6 +1,6 @@
 # Outland
 
-[Compare across authors](../../compare/?t=film-outland_10540)
+[Compare across authors](../compare/index.md?t=film-outland_10540)
 
 ## DTS-HD MA 5.1
 

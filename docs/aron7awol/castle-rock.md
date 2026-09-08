@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-castle-rock_71116)
+[Compare across authors](../compare/index.md?t=TV-castle-rock_71116)
 
 ## Season 1
 

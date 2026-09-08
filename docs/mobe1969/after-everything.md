@@ -1,6 +1,6 @@
 # After Everything
 
-[Compare across authors](../../compare/?t=film-after-everything_820525)
+[Compare across authors](../compare/index.md?t=film-after-everything_820525)
 
 ## DD+ 5.1
 

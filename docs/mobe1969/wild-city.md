@@ -1,6 +1,6 @@
 # Wild City
 
-[Compare across authors](../../compare/?t=film-wild-city_338421)
+[Compare across authors](../compare/index.md?t=film-wild-city_338421)
 
 ## TrueHD 5.1
 

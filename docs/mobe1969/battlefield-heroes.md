@@ -1,6 +1,6 @@
 # Battlefield Heroes
 
-[Compare across authors](../../compare/?t=film-battlefield-heroes_65881)
+[Compare across authors](../compare/index.md?t=film-battlefield-heroes_65881)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Hotel Transylvania 3: Summer Vacation
 
-[Compare across authors](../../compare/?t=film-hotel-transylvania-3-summer-vacation_400155)
+[Compare across authors](../compare/index.md?t=film-hotel-transylvania-3-summer-vacation_400155)
 
 ## Atmos
 

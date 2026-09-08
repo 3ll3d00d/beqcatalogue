@@ -1,6 +1,6 @@
 # Mindhorn
 
-[Compare across authors](../../compare/?t=film-mindhorn_381518)
+[Compare across authors](../compare/index.md?t=film-mindhorn_381518)
 
 ## DD+ 5.1
 

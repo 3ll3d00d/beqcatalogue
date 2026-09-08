@@ -1,6 +1,6 @@
 # The Matrix
 
-[Compare across authors](../../compare/?t=film-the-matrix_603)
+[Compare across authors](../compare/index.md?t=film-the-matrix_603)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Duckweed
 
-[Compare across authors](../../compare/?t=film-duckweed_438081)
+[Compare across authors](../compare/index.md?t=film-duckweed_438081)
 
 ## TrueHD 5.1
 

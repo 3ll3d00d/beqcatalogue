@@ -1,6 +1,6 @@
 # Saw X
 
-[Compare across authors](../../compare/?t=film-saw-x_951491)
+[Compare across authors](../compare/index.md?t=film-saw-x_951491)
 
 ## DD+ Atmos
 

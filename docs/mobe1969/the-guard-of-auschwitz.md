@@ -1,6 +1,6 @@
 # The Guard of Auschwitz
 
-[Compare across authors](../../compare/?t=film-the-guard-of-auschwitz_598824)
+[Compare across authors](../compare/index.md?t=film-the-guard-of-auschwitz_598824)
 
 ## DD+ 5.1
 

@@ -7,7 +7,7 @@
 * DTS-HD MA 5.1
 
 
-* [Compare across authors](../../compare/?t=TV-the-walking-dead-daryl-dixon_211684)
+* [Compare across authors](../compare/index.md?t=TV-the-walking-dead-daryl-dixon_211684)
 
 * Production Year: 2023
 

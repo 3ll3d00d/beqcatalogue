@@ -1,6 +1,6 @@
 # Ralph Breaks the Internet
 
-[Compare across authors](../../compare/?t=film-ralph-breaks-the-internet_404368)
+[Compare across authors](../compare/index.md?t=film-ralph-breaks-the-internet_404368)
 
 ## Atmos
 

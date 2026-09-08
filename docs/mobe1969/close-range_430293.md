@@ -1,6 +1,6 @@
 # Close Range
 
-[Compare across authors](../../compare/?t=film-close-range_430293)
+[Compare across authors](../compare/index.md?t=film-close-range_430293)
 
 ## DTS-HD MA 5.1
 

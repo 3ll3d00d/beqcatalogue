@@ -1,6 +1,6 @@
 # One More Time
 
-[Compare across authors](../../compare/?t=film-one-more-time_1100962)
+[Compare across authors](../compare/index.md?t=film-one-more-time_1100962)
 
 ## DD+ 5.1
 

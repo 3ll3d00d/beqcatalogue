@@ -1,6 +1,6 @@
 # The Wedding Guest
 
-[Compare across authors](../../compare/?t=film-the-wedding-guest_500899)
+[Compare across authors](../compare/index.md?t=film-the-wedding-guest_500899)
 
 ## DD+ 5.1
 

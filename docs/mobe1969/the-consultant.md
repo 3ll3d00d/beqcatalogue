@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-consultant_139099)
+[Compare across authors](../compare/index.md?t=TV-the-consultant_139099)
 
 ## Season 1
 

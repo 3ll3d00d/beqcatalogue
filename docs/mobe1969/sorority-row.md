@@ -1,6 +1,6 @@
 # Sorority Row
 
-[Compare across authors](../../compare/?t=film-sorority-row_26688)
+[Compare across authors](../compare/index.md?t=film-sorority-row_26688)
 
 ## DTS-HD MA 5.1
 

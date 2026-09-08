@@ -1,6 +1,6 @@
 # Widows
 
-[Compare across authors](../../compare/?t=film-widows_401469)
+[Compare across authors](../compare/index.md?t=film-widows_401469)
 
 ## Atmos
 

@@ -12,7 +12,7 @@ The untold origin story of Optimus Prime and Megatron, better known as sworn ene
 +5dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/posts/63607927/)  [TMDB](https://www.themoviedb.org/movie/698687)  [Compare across authors](../../compare/?t=film-transformers-one_698687)
+[Discuss](https://www.avsforum.com/posts/63607927/)  [TMDB](https://www.themoviedb.org/movie/698687)  [Compare across authors](../compare/index.md?t=film-transformers-one_698687)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Transformers%20One%20(2024)%20(%2B2%20gain)%20Atmos.jpg)

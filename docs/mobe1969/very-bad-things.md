@@ -1,6 +1,6 @@
 # Very Bad Things
 
-[Compare across authors](../../compare/?t=film-very-bad-things_10029)
+[Compare across authors](../compare/index.md?t=film-very-bad-things_10029)
 
 ## DTS-HD MA 5.1
 

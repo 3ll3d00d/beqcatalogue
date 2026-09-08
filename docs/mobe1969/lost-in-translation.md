@@ -1,6 +1,6 @@
 # Lost in Translation
 
-[Compare across authors](../../compare/?t=film-lost-in-translation_153)
+[Compare across authors](../compare/index.md?t=film-lost-in-translation_153)
 
 ## DTS-HD MA 5.1
 

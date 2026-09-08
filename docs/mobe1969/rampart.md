@@ -1,6 +1,6 @@
 # Rampart
 
-[Compare across authors](../../compare/?t=film-rampart_75622)
+[Compare across authors](../compare/index.md?t=film-rampart_75622)
 
 ## DTS-HD MA 5.1
 

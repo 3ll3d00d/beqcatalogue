@@ -1,6 +1,6 @@
 # The Croods: A New Age
 
-[Compare across authors](../../compare/?t=film-the-croods-a-new-age_529203)
+[Compare across authors](../compare/index.md?t=film-the-croods-a-new-age_529203)
 
 ## Atmos
 

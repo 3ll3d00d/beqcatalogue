@@ -1,6 +1,6 @@
 # The Seventh Day
 
-[Compare across authors](../../compare/?t=film-the-seventh-day_645856)
+[Compare across authors](../compare/index.md?t=film-the-seventh-day_645856)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Viking Quest
 
-[Compare across authors](../../compare/?t=film-viking-quest_317960)
+[Compare across authors](../compare/index.md?t=film-viking-quest_317960)
 
 ## DTS-HD MA 5.1
 

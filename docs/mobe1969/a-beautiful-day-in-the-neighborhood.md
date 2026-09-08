@@ -1,6 +1,6 @@
 # A Beautiful Day in the Neighborhood
 
-[Compare across authors](../../compare/?t=film-a-beautiful-day-in-the-neighborhood_501907)
+[Compare across authors](../compare/index.md?t=film-a-beautiful-day-in-the-neighborhood_501907)
 
 ## DTS-X
 

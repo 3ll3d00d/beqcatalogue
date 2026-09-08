@@ -7,7 +7,7 @@
 Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/762509)  [Compare across authors](../../compare/?t=film-mufasa-the-lion-king_762509)
+[TMDB](https://www.themoviedb.org/movie/762509)  [Compare across authors](../compare/index.md?t=film-mufasa-the-lion-king_762509)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Mufasa%20The%20Lion%20King%20(2024)%20DD%2B%20Atmos.jpg)

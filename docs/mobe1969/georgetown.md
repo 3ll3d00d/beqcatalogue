@@ -1,6 +1,6 @@
 # Georgetown
 
-[Compare across authors](../../compare/?t=film-georgetown_339395)
+[Compare across authors](../compare/index.md?t=film-georgetown_339395)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # 13 Going on 30
 
-[Compare across authors](../../compare/?t=film-13-going-on-30_10096)
+[Compare across authors](../compare/index.md?t=film-13-going-on-30_10096)
 
 ## DD+ 5.1
 

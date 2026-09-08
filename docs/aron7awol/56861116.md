@@ -1,6 +1,6 @@
 # X-Men: The Last Stand
 
-[Compare across authors](../../compare/?t=film-x-men-the-last-stand_36668)
+[Compare across authors](../compare/index.md?t=film-x-men-the-last-stand_36668)
 
 ## DTS-HD MA 6.1
 

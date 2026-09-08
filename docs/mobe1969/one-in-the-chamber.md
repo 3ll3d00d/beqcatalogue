@@ -1,6 +1,6 @@
 # One in the Chamber
 
-[Compare across authors](../../compare/?t=film-one-in-the-chamber_122924)
+[Compare across authors](../compare/index.md?t=film-one-in-the-chamber_122924)
 
 ## TrueHD 5.1
 

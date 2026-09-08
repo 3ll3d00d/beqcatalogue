@@ -1,6 +1,6 @@
 # Machine Gun Preacher
 
-[Compare across authors](../../compare/?t=film-machine-gun-preacher_45610)
+[Compare across authors](../compare/index.md?t=film-machine-gun-preacher_45610)
 
 ## DTS-HD MA 5.1
 

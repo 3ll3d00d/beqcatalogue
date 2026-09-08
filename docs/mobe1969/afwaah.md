@@ -1,6 +1,6 @@
 # Afwaah
 
-[Compare across authors](../../compare/?t=film-afwaah_939423)
+[Compare across authors](../compare/index.md?t=film-afwaah_939423)
 
 ## DD+ 5.1
 

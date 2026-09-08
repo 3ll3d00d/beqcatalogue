@@ -1,6 +1,6 @@
 # The Menu
 
-[Compare across authors](../../compare/?t=film-the-menu_423125)
+[Compare across authors](../compare/index.md?t=film-the-menu_423125)
 
 ## TrueHD 5.1
 

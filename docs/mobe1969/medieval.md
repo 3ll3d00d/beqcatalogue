@@ -1,6 +1,6 @@
 # Medieval
 
-[Compare across authors](../../compare/?t=film-medieval_551271)
+[Compare across authors](../compare/index.md?t=film-medieval_551271)
 
 ## DD+ 5.1
 

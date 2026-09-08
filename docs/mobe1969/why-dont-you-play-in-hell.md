@@ -1,6 +1,6 @@
 # Why Don't You Play in Hell?
 
-[Compare across authors](../../compare/?t=film-why-dont-you-play-in-hell_134350)
+[Compare across authors](../compare/index.md?t=film-why-dont-you-play-in-hell_134350)
 
 ## DTS-HD MA 5.1
 

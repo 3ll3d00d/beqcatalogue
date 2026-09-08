@@ -1,6 +1,6 @@
 # Transit
 
-[Compare across authors](../../compare/?t=film-transit_82485)
+[Compare across authors](../compare/index.md?t=film-transit_82485)
 
 ## DTS-HD MA 5.1
 

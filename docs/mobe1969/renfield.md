@@ -1,6 +1,6 @@
 # Renfield
 
-[Compare across authors](../../compare/?t=film-renfield_649609)
+[Compare across authors](../compare/index.md?t=film-renfield_649609)
 
 ## DD+ Atmos, DTS-HD MA 7.1
 

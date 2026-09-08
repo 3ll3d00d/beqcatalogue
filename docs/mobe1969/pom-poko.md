@@ -1,6 +1,6 @@
 # Pom Poko
 
-[Compare across authors](../../compare/?t=film-pom-poko_15283)
+[Compare across authors](../compare/index.md?t=film-pom-poko_15283)
 
 ## DD 2.0
 

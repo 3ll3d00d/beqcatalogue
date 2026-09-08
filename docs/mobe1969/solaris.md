@@ -1,6 +1,6 @@
 # Solaris
 
-[Compare across authors](../../compare/?t=film-solaris_2103)
+[Compare across authors](../compare/index.md?t=film-solaris_2103)
 
 ## DTS-HD MA 5.1
 

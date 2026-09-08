@@ -1,6 +1,6 @@
 # Starsky & Hutch
 
-[Compare across authors](../../compare/?t=film-starsky-hutch_9384)
+[Compare across authors](../compare/index.md?t=film-starsky-hutch_9384)
 
 ## LPCM 5.1
 

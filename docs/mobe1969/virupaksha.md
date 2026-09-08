@@ -1,6 +1,6 @@
 # Virupaksha
 
-[Compare across authors](../../compare/?t=film-virupaksha_1034590)
+[Compare across authors](../compare/index.md?t=film-virupaksha_1034590)
 
 ## DD+ 5.1
 

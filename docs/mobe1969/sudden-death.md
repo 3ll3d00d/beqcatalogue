@@ -1,6 +1,6 @@
 # Sudden Death
 
-[Compare across authors](../../compare/?t=film-sudden-death_9091)
+[Compare across authors](../compare/index.md?t=film-sudden-death_9091)
 
 ## DD+ 5.1
 

@@ -9,7 +9,7 @@ Professional driver, and former Special Forces officer, Frank Martin is living i
 
 **MV Adjustment:** -3.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/9335)  [Compare across authors](../../compare/?t=film-transporter-2_9335)
+[TMDB](https://www.themoviedb.org/movie/9335)  [Compare across authors](../compare/index.md?t=film-transporter-2_9335)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Transporter%202%20(2005)%20(-3%20gain)%20TrueHD%205.1.jpg)

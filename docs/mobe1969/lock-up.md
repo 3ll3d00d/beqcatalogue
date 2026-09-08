@@ -1,6 +1,6 @@
 # Lock Up
 
-[Compare across authors](../../compare/?t=film-lock-up_9972)
+[Compare across authors](../compare/index.md?t=film-lock-up_9972)
 
 ## DTS-HD MA 5.1
 

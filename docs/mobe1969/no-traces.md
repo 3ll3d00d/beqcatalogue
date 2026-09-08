@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-no-traces_219432)
+[Compare across authors](../compare/index.md?t=TV-no-traces_219432)
 
 ## Season 1
 

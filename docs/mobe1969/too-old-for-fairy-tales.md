@@ -1,6 +1,6 @@
 # Too Old for Fairy Tales
 
-[Compare across authors](../../compare/?t=film-too-old-for-fairy-tales_939475)
+[Compare across authors](../compare/index.md?t=film-too-old-for-fairy-tales_939475)
 
 ## DD+ 5.1
 

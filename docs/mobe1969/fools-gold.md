@@ -1,6 +1,6 @@
 # Fool's Gold
 
-[Compare across authors](../../compare/?t=film-fools-gold_8676)
+[Compare across authors](../compare/index.md?t=film-fools-gold_8676)
 
 ## DD 5.1
 

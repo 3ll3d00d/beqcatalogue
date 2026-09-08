@@ -1,6 +1,6 @@
 # Black Water
 
-[Compare across authors](../../compare/?t=film-black-water_454615)
+[Compare across authors](../compare/index.md?t=film-black-water_454615)
 
 ## LPCM 5.1
 

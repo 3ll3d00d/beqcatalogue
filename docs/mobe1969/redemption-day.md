@@ -1,6 +1,6 @@
 # Redemption Day
 
-[Compare across authors](../../compare/?t=film-redemption-day_767304)
+[Compare across authors](../compare/index.md?t=film-redemption-day_767304)
 
 ## DD+ 5.1
 

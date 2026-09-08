@@ -1,6 +1,6 @@
 # The Darkest Minds
 
-[Compare across authors](../../compare/?t=film-the-darkest-minds_445651)
+[Compare across authors](../compare/index.md?t=film-the-darkest-minds_445651)
 
 ## Atmos
 

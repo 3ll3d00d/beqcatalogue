@@ -1,6 +1,6 @@
 # The Big Hit
 
-[Compare across authors](../../compare/?t=film-the-big-hit_9448)
+[Compare across authors](../compare/index.md?t=film-the-big-hit_9448)
 
 ## LPCM 5.1
 

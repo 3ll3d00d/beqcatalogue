@@ -1,6 +1,6 @@
 # Zom 100: Bucket List of the Dead
 
-[Compare across authors](../../compare/?t=film-zom-100-bucket-list-of-the-dead_1070514)
+[Compare across authors](../compare/index.md?t=film-zom-100-bucket-list-of-the-dead_1070514)
 
 ## DD+ Atmos
 

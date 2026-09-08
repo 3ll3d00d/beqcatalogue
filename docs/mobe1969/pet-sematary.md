@@ -1,6 +1,6 @@
 # Pet Sematary
 
-[Compare across authors](../../compare/?t=film-pet-sematary_8913)
+[Compare across authors](../compare/index.md?t=film-pet-sematary_8913)
 
 ## DTS-HD MA 5.1
 

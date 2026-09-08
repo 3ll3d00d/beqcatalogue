@@ -1,6 +1,6 @@
 # R... Rajkumar
 
-[Compare across authors](../../compare/?t=film-r-rajkumar_240614)
+[Compare across authors](../compare/index.md?t=film-r-rajkumar_240614)
 
 ## DD 5.1
 

@@ -1,6 +1,6 @@
 # Ip Man: The Awakening
 
-[Compare across authors](../../compare/?t=film-ip-man-the-awakening_875104)
+[Compare across authors](../compare/index.md?t=film-ip-man-the-awakening_875104)
 
 ## DD+ 5.1
 

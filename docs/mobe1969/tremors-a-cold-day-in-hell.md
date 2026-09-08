@@ -1,6 +1,6 @@
 # Tremors: A Cold Day in Hell
 
-[Compare across authors](../../compare/?t=film-tremors-a-cold-day-in-hell_496704)
+[Compare across authors](../compare/index.md?t=film-tremors-a-cold-day-in-hell_496704)
 
 ## DTS-HD MA 5.1
 

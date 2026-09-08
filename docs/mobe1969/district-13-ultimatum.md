@@ -1,6 +1,6 @@
 # District 13: Ultimatum
 
-[Compare across authors](../../compare/?t=film-district-13-ultimatum_15357)
+[Compare across authors](../compare/index.md?t=film-district-13-ultimatum_15357)
 
 ## DTS-HD MA 5.1
 

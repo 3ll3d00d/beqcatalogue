@@ -14,7 +14,7 @@ Dialnorm Compensation: Ep 1,2,5-5dB Ep 4,7,8-6dB, Ep 6,9-4dB, Ep 3,10-3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1589?post_id=63998244#post-63998244)
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -33,7 +33,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1590?post_id=64002121#post-64002121)
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -55,7 +55,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1590?post_id=64002168#post-64002168q1)
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -77,7 +77,7 @@ Dialnorm Compensation: 3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1590?post_id=64002186#post-64002186)
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -99,7 +99,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1590?post_id=64002195#post-64002195)
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -121,7 +121,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1590?post_id=64002208#post-64002208)
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -143,7 +143,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64002211#post-64002211)
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -165,7 +165,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64002219#post-64002219)
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -187,7 +187,7 @@ Dialnorm Compensation: 6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64002224#post-64002224)
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -209,7 +209,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64002230#post-64002230)
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 
@@ -231,7 +231,7 @@ Dialnorm Compensation:3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1591?post_id=64002237#post-64002237)
 
-* [Compare across authors](../../compare/?t=TV-love-death-robots_86831)
+* [Compare across authors](../compare/index.md?t=TV-love-death-robots_86831)
 
 * Production Year: 2019
 

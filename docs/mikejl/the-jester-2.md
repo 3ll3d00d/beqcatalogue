@@ -7,7 +7,7 @@
 When teen magician Max crosses paths with the sinister Jester on Halloween night, she must outsmart a supernatural killer whose magic is all too real and whose tricks always end up in blood.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1519168)  [Compare across authors](../../compare/?t=film-the-jester-2_1519168)
+[TMDB](https://www.themoviedb.org/movie/1519168)  [Compare across authors](../compare/index.md?t=film-the-jester-2_1519168)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Jester/The%20Jester%202%20(2025)%20DD%2B%205.1.jpg)

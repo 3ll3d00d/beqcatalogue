@@ -1,6 +1,6 @@
 # Reprisal
 
-[Compare across authors](../../compare/?t=film-reprisal_531593)
+[Compare across authors](../compare/index.md?t=film-reprisal_531593)
 
 ## DTS-HD MA 5.1
 

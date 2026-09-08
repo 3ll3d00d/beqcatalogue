@@ -1,6 +1,6 @@
 # Batman: Year One
 
-[Compare across authors](../../compare/?t=film-batman-year-one_69735)
+[Compare across authors](../compare/index.md?t=film-batman-year-one_69735)
 
 ## DTS-HD MA 5.1
 

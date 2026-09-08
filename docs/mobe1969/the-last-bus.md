@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-last-bus_169590)
+[Compare across authors](../compare/index.md?t=TV-the-last-bus_169590)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # The Croods
 
-[Compare across authors](../../compare/?t=film-the-croods_49519)
+[Compare across authors](../compare/index.md?t=film-the-croods_49519)
 
 ## DTS-X, DTS-HD MA 7.1
 

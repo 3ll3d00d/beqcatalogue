@@ -1,6 +1,6 @@
 # Citadel
 
-[Compare across authors](../../compare/?t=film-citadel_52001)
+[Compare across authors](../compare/index.md?t=film-citadel_52001)
 
 ## DTS-HD MA 5.1
 

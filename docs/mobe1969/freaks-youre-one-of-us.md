@@ -1,6 +1,6 @@
 # Freaks - You're One of Us
 
-[Compare across authors](../../compare/?t=film-freaks-youre-one-of-us_658777)
+[Compare across authors](../compare/index.md?t=film-freaks-youre-one-of-us_658777)
 
 ## DD+ 5.1
 

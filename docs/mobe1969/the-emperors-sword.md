@@ -1,6 +1,6 @@
 # The Emperor's Sword
 
-[Compare across authors](../../compare/?t=film-the-emperors-sword_686329)
+[Compare across authors](../compare/index.md?t=film-the-emperors-sword_686329)
 
 ## DTS-HD MA 5.1
 

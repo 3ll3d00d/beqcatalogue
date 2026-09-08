@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-loki_84958)
+[Compare across authors](../compare/index.md?t=TV-loki_84958)
 
 ## Season 1
 

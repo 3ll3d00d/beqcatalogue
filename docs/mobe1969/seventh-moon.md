@@ -1,6 +1,6 @@
 # Seventh Moon
 
-[Compare across authors](../../compare/?t=film-seventh-moon_24330)
+[Compare across authors](../compare/index.md?t=film-seventh-moon_24330)
 
 ## DTS-HD MA 5.1
 

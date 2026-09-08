@@ -1,6 +1,6 @@
 # The Misfits
 
-[Compare across authors](../../compare/?t=film-the-misfits_581644)
+[Compare across authors](../compare/index.md?t=film-the-misfits_581644)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

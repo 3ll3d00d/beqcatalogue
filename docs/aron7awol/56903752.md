@@ -1,6 +1,6 @@
 # Star Wars: Episode I - The Phantom Menace
 
-[Compare across authors](../../compare/?t=film-star-wars-episode-i-the-phantom-menace_1893)
+[Compare across authors](../compare/index.md?t=film-star-wars-episode-i-the-phantom-menace_1893)
 
 ## Atmos
 

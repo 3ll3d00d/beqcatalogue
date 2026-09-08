@@ -9,7 +9,7 @@ Young Dorothy finds herself in a magical world where she makes friends with a li
 
 **MV Adjustment:** +5.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1617?post_id=64095913#post-64095913)  [TMDB](https://www.themoviedb.org/movie/630)  [Compare across authors](../../compare/?t=film-the-wizard-of-oz_630)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1617?post_id=64095913#post-64095913)  [TMDB](https://www.themoviedb.org/movie/630)  [Compare across authors](../compare/index.md?t=film-the-wizard-of-oz_630)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Wizard%20of%20Oz%20(1939)%20(%2B5.5%20gain)%20DTS-HD%20MA%205.1.jpg)

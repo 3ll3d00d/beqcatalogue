@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-dead-to-me_81357)
+[Compare across authors](../compare/index.md?t=TV-dead-to-me_81357)
 
 ## Season 1
 

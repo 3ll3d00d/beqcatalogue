@@ -1,6 +1,6 @@
 # The Iceman
 
-[Compare across authors](../../compare/?t=film-the-iceman_68812)
+[Compare across authors](../compare/index.md?t=film-the-iceman_68812)
 
 ## DTS-HD MA 5.1
 

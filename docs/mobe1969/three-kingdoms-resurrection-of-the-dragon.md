@@ -1,6 +1,6 @@
 # Three Kingdoms: Resurrection of the Dragon
 
-[Compare across authors](../../compare/?t=film-three-kingdoms-resurrection-of-the-dragon_14538)
+[Compare across authors](../compare/index.md?t=film-three-kingdoms-resurrection-of-the-dragon_14538)
 
 ## DTS-HD MA 5.1
 

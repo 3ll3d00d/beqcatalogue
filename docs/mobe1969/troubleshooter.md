@@ -1,6 +1,6 @@
 # Troubleshooter
 
-[Compare across authors](../../compare/?t=film-troubleshooter_56578)
+[Compare across authors](../compare/index.md?t=film-troubleshooter_56578)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Matchmaker
 
-[Compare across authors](../../compare/?t=film-the-matchmaker_1102935)
+[Compare across authors](../compare/index.md?t=film-the-matchmaker_1102935)
 
 ## DD+ 5.1
 

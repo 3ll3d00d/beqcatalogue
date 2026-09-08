@@ -1,6 +1,6 @@
 # The Twilight Saga: Eclipse
 
-[Compare across authors](../../compare/?t=film-the-twilight-saga-eclipse_24021)
+[Compare across authors](../compare/index.md?t=film-the-twilight-saga-eclipse_24021)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Madres
 
-[Compare across authors](../../compare/?t=film-madres_796428)
+[Compare across authors](../compare/index.md?t=film-madres_796428)
 
 ## DD+ 5.1
 

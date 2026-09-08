@@ -1,6 +1,6 @@
 # Star Trek IV: The Voyage Home
 
-[Compare across authors](../../compare/?t=film-star-trek-iv-the-voyage-home_168)
+[Compare across authors](../compare/index.md?t=film-star-trek-iv-the-voyage-home_168)
 
 ## TrueHD 7.1
 

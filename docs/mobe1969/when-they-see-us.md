@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-when-they-see-us_81355)
+[Compare across authors](../compare/index.md?t=TV-when-they-see-us_81355)
 
 ## Season 1
 

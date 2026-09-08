@@ -1,6 +1,6 @@
 # Arctic
 
-[Compare across authors](../../compare/?t=film-arctic_453755)
+[Compare across authors](../compare/index.md?t=film-arctic_453755)
 
 ## DTS-HD MA 5.1
 

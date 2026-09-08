@@ -1,6 +1,6 @@
 # Ghost in the Shell 2: Innocence
 
-[Compare across authors](../../compare/?t=film-ghost-in-the-shell-2-innocence_12140)
+[Compare across authors](../compare/index.md?t=film-ghost-in-the-shell-2-innocence_12140)
 
 ## DTS-X
 

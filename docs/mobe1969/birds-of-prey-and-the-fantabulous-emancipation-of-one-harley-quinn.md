@@ -1,6 +1,6 @@
 # Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
 
-[Compare across authors](../../compare/?t=film-birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn_495764)
+[Compare across authors](../compare/index.md?t=film-birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn_495764)
 
 ## Atmos
 

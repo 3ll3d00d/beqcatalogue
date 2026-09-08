@@ -1,6 +1,6 @@
 # Chronology
 
-[Compare across authors](../../compare/?t=film-chronology_521413)
+[Compare across authors](../compare/index.md?t=film-chronology_521413)
 
 ## DD+ 2.0
 

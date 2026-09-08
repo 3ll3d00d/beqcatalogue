@@ -1,6 +1,6 @@
 # The Reckoning
 
-[Compare across authors](../../compare/?t=film-the-reckoning_587130)
+[Compare across authors](../compare/index.md?t=film-the-reckoning_587130)
 
 ## DTS-HD MA 5.1
 

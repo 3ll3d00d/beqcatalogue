@@ -1,6 +1,6 @@
 # A Perfect Day
 
-[Compare across authors](../../compare/?t=film-a-perfect-day_321751)
+[Compare across authors](../compare/index.md?t=film-a-perfect-day_321751)
 
 ## DTS-HD MA 5.1
 

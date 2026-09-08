@@ -9,7 +9,7 @@ Trying to leave their troubled lives behind, twin brothers return to their homet
 
 **MV Adjustment:** +1.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/1233413)  [Compare across authors](../../compare/?t=film-sinners_1233413)
+[TMDB](https://www.themoviedb.org/movie/1233413)  [Compare across authors](../compare/index.md?t=film-sinners_1233413)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Sinners%20(2025)%20(%2B1%20gain)%20Atmos.jpg)

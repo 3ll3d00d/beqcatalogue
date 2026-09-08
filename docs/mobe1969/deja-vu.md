@@ -1,6 +1,6 @@
 # Déjà Vu
 
-[Compare across authors](../../compare/?t=film-deja-vu_7551)
+[Compare across authors](../compare/index.md?t=film-deja-vu_7551)
 
 ## LPCM 5.1, DD+ 5.1
 

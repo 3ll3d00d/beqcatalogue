@@ -9,7 +9,7 @@ After a traumatic brain injury triggers terrifying visions of extraterrestrials 
 
 **MV Adjustment:** +10.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1628?post_id=64147664#post-64147664)  [TMDB](https://www.themoviedb.org/movie/1422052)  [Compare across authors](../../compare/?t=film-descendent_1422052)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1628?post_id=64147664#post-64147664)  [TMDB](https://www.themoviedb.org/movie/1422052)  [Compare across authors](../compare/index.md?t=film-descendent_1422052)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Descendent%20(2025)%20(%2B10%20gain)%20DD%2B.jpg)

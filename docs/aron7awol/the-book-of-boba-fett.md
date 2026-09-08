@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-the-book-of-boba-fett_115036)
+[Compare across authors](../compare/index.md?t=TV-the-book-of-boba-fett_115036)
 
 ## Season 1
 

@@ -1,6 +1,6 @@
 # tick, tick...BOOM!
 
-[Compare across authors](../../compare/?t=film-tick-tickboom_537116)
+[Compare across authors](../compare/index.md?t=film-tick-tickboom_537116)
 
 ## DD+ 5.1
 

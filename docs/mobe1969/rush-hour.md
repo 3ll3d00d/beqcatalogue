@@ -1,6 +1,6 @@
 # Rush Hour
 
-[Compare across authors](../../compare/?t=film-rush-hour_2109)
+[Compare across authors](../compare/index.md?t=film-rush-hour_2109)
 
 ## DTS-HD MA 7.1
 

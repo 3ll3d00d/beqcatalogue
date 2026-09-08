@@ -1,6 +1,6 @@
 # Superman IV: The Quest for Peace
 
-[Compare across authors](../../compare/?t=film-superman-iv-the-quest-for-peace_11411)
+[Compare across authors](../compare/index.md?t=film-superman-iv-the-quest-for-peace_11411)
 
 ## Atmos
 

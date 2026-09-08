@@ -1,6 +1,6 @@
 # Minions
 
-[Compare across authors](../../compare/?t=film-minions_211672)
+[Compare across authors](../compare/index.md?t=film-minions_211672)
 
 ## Atmos
 

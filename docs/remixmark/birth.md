@@ -9,7 +9,7 @@ It took Anna 10 years to recover from the death of her husband, Sean, but now sh
 
 **MV Adjustment:** +6.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1703?post_id=64434562#post-64434562)  [TMDB](https://www.themoviedb.org/movie/10740)  [Compare across authors](../../compare/?t=film-birth_10740)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1703?post_id=64434562#post-64434562)  [TMDB](https://www.themoviedb.org/movie/10740)  [Compare across authors](../compare/index.md?t=film-birth_10740)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Birth%20(2004)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1.jpg)

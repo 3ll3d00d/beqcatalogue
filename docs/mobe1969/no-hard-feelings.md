@@ -1,6 +1,6 @@
 # No Hard Feelings
 
-[Compare across authors](../../compare/?t=film-no-hard-feelings_884605)
+[Compare across authors](../compare/index.md?t=film-no-hard-feelings_884605)
 
 ## DD 5.1
 

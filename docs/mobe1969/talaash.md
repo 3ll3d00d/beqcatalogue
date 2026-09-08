@@ -1,6 +1,6 @@
 # Talaash
 
-[Compare across authors](../../compare/?t=film-talaash_86004)
+[Compare across authors](../compare/index.md?t=film-talaash_86004)
 
 ## DD+ 5.1
 

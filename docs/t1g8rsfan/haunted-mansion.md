@@ -12,7 +12,7 @@ A woman and her son enlist a motley crew of so-called spiritual experts to help 
 +4dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62862741)  [TMDB](https://www.themoviedb.org/movie/616747)  [Compare across authors](../../compare/?t=film-haunted-mansion_616747)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62862741)  [TMDB](https://www.themoviedb.org/movie/616747)  [Compare across authors](../compare/index.md?t=film-haunted-mansion_616747)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Haunted%20Mansion%20(2023)%20(%2B4.5%20gain)%20Atmos.jpg)

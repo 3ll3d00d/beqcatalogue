@@ -1,6 +1,6 @@
 # Beaten to Death
 
-[Compare across authors](../../compare/?t=film-beaten-to-death_1032949)
+[Compare across authors](../compare/index.md?t=film-beaten-to-death_1032949)
 
 ## DD+ 5.1
 

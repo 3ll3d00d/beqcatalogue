@@ -1,6 +1,6 @@
 # Terminator Salvation
 
-[Compare across authors](../../compare/?t=film-terminator-salvation_534)
+[Compare across authors](../compare/index.md?t=film-terminator-salvation_534)
 
 ## DTS-HD MA 5.1
 

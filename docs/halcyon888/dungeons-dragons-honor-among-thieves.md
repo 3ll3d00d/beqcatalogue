@@ -9,7 +9,7 @@ A charming thief and a band of unlikely adventurers undertake an epic heist to r
 
 **MV Adjustment:** +5.0 dB
 
-[TMDB](https://www.themoviedb.org/movie/493529)  [Compare across authors](../../compare/?t=film-dungeons-dragons-honor-among-thieves_493529)
+[TMDB](https://www.themoviedb.org/movie/493529)  [Compare across authors](../compare/index.md?t=film-dungeons-dragons-honor-among-thieves_493529)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Dungeons%20and%20Dragons%20Honor%20Among%20Thieves%20(2023)%20THD%20Atmos%20PvA%20v1.jpg)
@@ -28,7 +28,7 @@ A charming thief and a band of unlikely adventurers undertake an epic heist to r
 +2dB Dialnorm Compensation
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/493529)  [Compare across authors](../../compare/?t=film-dungeons-dragons-honor-among-thieves_493529)
+[TMDB](https://www.themoviedb.org/movie/493529)  [Compare across authors](../compare/index.md?t=film-dungeons-dragons-honor-among-thieves_493529)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Dungeons%20and%20Dragons%20Honor%20Among%20Thieves%20(2023)%20DD%2B%20Atmos%20PvA%20v1.jpg)

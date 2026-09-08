@@ -1,6 +1,6 @@
 # The 13th Warrior
 
-[Compare across authors](../../compare/?t=film-the-13th-warrior_1911)
+[Compare across authors](../compare/index.md?t=film-the-13th-warrior_1911)
 
 ## DD+ 5.1
 

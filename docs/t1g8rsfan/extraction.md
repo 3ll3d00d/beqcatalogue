@@ -9,7 +9,7 @@ Tyler Rake, a fearless mercenary who offers his services on the black market, em
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62919912)  [TMDB](https://www.themoviedb.org/movie/545609)  [Compare across authors](../../compare/?t=film-extraction_545609)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62919912)  [TMDB](https://www.themoviedb.org/movie/545609)  [Compare across authors](../compare/index.md?t=film-extraction_545609)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Extraction%20(2020)%20(%2B0.5%20gain)%20DD%2B%20Atmos.jpg)

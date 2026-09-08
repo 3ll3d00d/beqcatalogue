@@ -1,6 +1,6 @@
 # Manhunt
 
-[Compare across authors](../../compare/?t=film-manhunt_372782)
+[Compare across authors](../compare/index.md?t=film-manhunt_372782)
 
 ## Atmos, TrueHD 7.1, DD+ 5.1
 

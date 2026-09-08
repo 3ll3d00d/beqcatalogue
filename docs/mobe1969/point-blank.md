@@ -1,6 +1,6 @@
 # Point Blank
 
-[Compare across authors](../../compare/?t=film-point-blank_56125)
+[Compare across authors](../compare/index.md?t=film-point-blank_56125)
 
 ## DD+ 5.1
 

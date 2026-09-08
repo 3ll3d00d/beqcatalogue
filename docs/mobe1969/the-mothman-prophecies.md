@@ -1,6 +1,6 @@
 # The Mothman Prophecies
 
-[Compare across authors](../../compare/?t=film-the-mothman-prophecies_2637)
+[Compare across authors](../compare/index.md?t=film-the-mothman-prophecies_2637)
 
 ## DTS-HD HR 5.1
 

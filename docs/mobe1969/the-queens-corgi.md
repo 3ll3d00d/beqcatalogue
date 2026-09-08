@@ -1,6 +1,6 @@
 # The Queen's Corgi
 
-[Compare across authors](../../compare/?t=film-the-queens-corgi_509730)
+[Compare across authors](../compare/index.md?t=film-the-queens-corgi_509730)
 
 ## DTS-HD MA 5.1
 

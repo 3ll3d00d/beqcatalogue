@@ -14,7 +14,7 @@ Dialnorm Compensation: E1-E2 +4dB, E3 +5dB, E4-E5 +4dB, E7 +3dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62788845)
 
-* [Compare across authors](../../compare/?t=TV-the-wheel-of-time_71914)
+* [Compare across authors](../compare/index.md?t=TV-the-wheel-of-time_71914)
 
 * Production Year: 2021
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: E6 +5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62788845)
 
-* [Compare across authors](../../compare/?t=TV-the-wheel-of-time_71914)
+* [Compare across authors](../compare/index.md?t=TV-the-wheel-of-time_71914)
 
 * Production Year: 2021
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: E8 +6dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62788845)
 
-* [Compare across authors](../../compare/?t=TV-the-wheel-of-time_71914)
+* [Compare across authors](../compare/index.md?t=TV-the-wheel-of-time_71914)
 
 * Production Year: 2021
 
@@ -75,7 +75,7 @@ Dialnorm Compensation: E8 +6dB
 
 **MV Adjustment:** +4.0 dB
 
-* [Compare across authors](../../compare/?t=TV-the-wheel-of-time_71914)
+* [Compare across authors](../compare/index.md?t=TV-the-wheel-of-time_71914)
 
 * Production Year: 2021
 
@@ -92,7 +92,7 @@ Dialnorm Compensation: E8 +6dB
 
 **MV Adjustment:** +2.0 dB
 
-* [Compare across authors](../../compare/?t=TV-the-wheel-of-time_71914)
+* [Compare across authors](../compare/index.md?t=TV-the-wheel-of-time_71914)
 
 * Production Year: 2021
 

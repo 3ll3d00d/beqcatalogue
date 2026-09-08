@@ -1,6 +1,6 @@
 # One Shot
 
-[Compare across authors](../../compare/?t=film-one-shot_811592)
+[Compare across authors](../compare/index.md?t=film-one-shot_811592)
 
 ## DTS-HD MA 5.1
 

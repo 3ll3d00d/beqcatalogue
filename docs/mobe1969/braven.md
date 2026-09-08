@@ -1,6 +1,6 @@
 # Braven
 
-[Compare across authors](../../compare/?t=film-braven_459910)
+[Compare across authors](../compare/index.md?t=film-braven_459910)
 
 ## DTS-HD MA 5.1
 

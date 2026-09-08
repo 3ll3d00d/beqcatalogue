@@ -1,6 +1,6 @@
 # American Night
 
-[Compare across authors](../../compare/?t=film-american-night_695080)
+[Compare across authors](../compare/index.md?t=film-american-night_695080)
 
 ## DTS-HD MA 5.1
 

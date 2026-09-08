@@ -1,6 +1,6 @@
 # Children of Men
 
-[Compare across authors](../../compare/?t=film-children-of-men_9693)
+[Compare across authors](../compare/index.md?t=film-children-of-men_9693)
 
 ## DTS-HD MA 5.1
 

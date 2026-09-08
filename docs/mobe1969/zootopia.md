@@ -1,6 +1,6 @@
 # Zootopia
 
-[Compare across authors](../../compare/?t=film-zootopia_269149)
+[Compare across authors](../compare/index.md?t=film-zootopia_269149)
 
 ## Atmos
 

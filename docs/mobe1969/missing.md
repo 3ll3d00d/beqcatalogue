@@ -1,6 +1,6 @@
 # Missing
 
-[Compare across authors](../../compare/?t=film-missing_768362)
+[Compare across authors](../compare/index.md?t=film-missing_768362)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Infini
 
-[Compare across authors](../../compare/?t=film-infini_301728)
+[Compare across authors](../compare/index.md?t=film-infini_301728)
 
 ## DTS-HD MA 5.1
 

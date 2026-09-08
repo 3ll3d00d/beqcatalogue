@@ -1,6 +1,6 @@
 # The Lord of the Rings: The Return of the King
 
-[Compare across authors](../../compare/?t=film-the-lord-of-the-rings-the-return-of-the-king_122)
+[Compare across authors](../compare/index.md?t=film-the-lord-of-the-rings-the-return-of-the-king_122)
 
 ## Atmos
 

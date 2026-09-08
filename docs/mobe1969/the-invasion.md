@@ -1,6 +1,6 @@
 # The Invasion
 
-[Compare across authors](../../compare/?t=film-the-invasion_4858)
+[Compare across authors](../compare/index.md?t=film-the-invasion_4858)
 
 ## TrueHD 5.1
 

@@ -1,6 +1,6 @@
 # Killer Book Club
 
-[Compare across authors](../../compare/?t=film-killer-book-club_1010826)
+[Compare across authors](../compare/index.md?t=film-killer-book-club_1010826)
 
 ## DD+ 5.1
 

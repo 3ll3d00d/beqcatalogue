@@ -1,6 +1,6 @@
 # Apaharan
 
-[Compare across authors](../../compare/?t=film-apaharan_28805)
+[Compare across authors](../compare/index.md?t=film-apaharan_28805)
 
 ## DD+ 5.1
 

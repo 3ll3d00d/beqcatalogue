@@ -1,6 +1,6 @@
 # Crown Heights
 
-[Compare across authors](../../compare/?t=film-crown-heights_425507)
+[Compare across authors](../compare/index.md?t=film-crown-heights_425507)
 
 ## DD+ 5.1
 

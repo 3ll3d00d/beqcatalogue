@@ -1,6 +1,6 @@
 # Death Note: Light Up the New World
 
-[Compare across authors](../../compare/?t=film-death-note-light-up-the-new-world_382272)
+[Compare across authors](../compare/index.md?t=film-death-note-light-up-the-new-world_382272)
 
 ## DTS-HD MA 5.1
 

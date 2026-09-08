@@ -1,6 +1,6 @@
 # Ta Ra Rum Pum
 
-[Compare across authors](../../compare/?t=film-ta-ra-rum-pum_14165)
+[Compare across authors](../compare/index.md?t=film-ta-ra-rum-pum_14165)
 
 ## DD+ 5.1
 

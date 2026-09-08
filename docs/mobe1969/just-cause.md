@@ -1,6 +1,6 @@
 # Just Cause
 
-[Compare across authors](../../compare/?t=film-just-cause_9061)
+[Compare across authors](../compare/index.md?t=film-just-cause_9061)
 
 ## DTS-HD MA 5.1
 

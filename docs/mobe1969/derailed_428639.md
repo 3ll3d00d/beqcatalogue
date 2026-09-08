@@ -1,6 +1,6 @@
 # Derailed
 
-[Compare across authors](../../compare/?t=film-derailed_428639)
+[Compare across authors](../compare/index.md?t=film-derailed_428639)
 
 ## DD 2.0
 

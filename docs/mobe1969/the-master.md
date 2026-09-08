@@ -1,6 +1,6 @@
 # The Master
 
-[Compare across authors](../../compare/?t=film-the-master_68722)
+[Compare across authors](../compare/index.md?t=film-the-master_68722)
 
 ## DD+ 5.1
 

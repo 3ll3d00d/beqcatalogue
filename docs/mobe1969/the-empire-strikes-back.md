@@ -1,6 +1,6 @@
 # The Empire Strikes Back
 
-[Compare across authors](../../compare/?t=film-the-empire-strikes-back_1891)
+[Compare across authors](../compare/index.md?t=film-the-empire-strikes-back_1891)
 
 ## Atmos
 

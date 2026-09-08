@@ -1,6 +1,6 @@
 # Line Walker 2: Invisible Spy
 
-[Compare across authors](../../compare/?t=film-line-walker-2-invisible-spy_589157)
+[Compare across authors](../compare/index.md?t=film-line-walker-2-invisible-spy_589157)
 
 ## Atmos
 

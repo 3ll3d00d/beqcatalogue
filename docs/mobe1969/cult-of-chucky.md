@@ -1,6 +1,6 @@
 # Cult of Chucky
 
-[Compare across authors](../../compare/?t=film-cult-of-chucky_393345)
+[Compare across authors](../compare/index.md?t=film-cult-of-chucky_393345)
 
 ## DTS-HD MA 5.1
 

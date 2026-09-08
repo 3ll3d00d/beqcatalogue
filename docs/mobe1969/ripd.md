@@ -1,6 +1,6 @@
 # R.I.P.D.
 
-[Compare across authors](../../compare/?t=film-ripd_49524)
+[Compare across authors](../compare/index.md?t=film-ripd_49524)
 
 ## DD+ 5.1
 

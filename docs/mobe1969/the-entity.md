@@ -1,6 +1,6 @@
 # The Entity
 
-[Compare across authors](../../compare/?t=film-the-entity_24740)
+[Compare across authors](../compare/index.md?t=film-the-entity_24740)
 
 ## DTS-HD MA 5.1
 

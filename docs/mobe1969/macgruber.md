@@ -1,6 +1,6 @@
 # MacGruber
 
-[Compare across authors](../../compare/?t=film-macgruber_37931)
+[Compare across authors](../compare/index.md?t=film-macgruber_37931)
 
 ## DTS-HD MA 5.1
 

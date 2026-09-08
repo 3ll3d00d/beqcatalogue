@@ -1,6 +1,6 @@
 # Escape From Mogadishu
 
-[Compare across authors](../../compare/?t=film-escape-from-mogadishu_607844)
+[Compare across authors](../compare/index.md?t=film-escape-from-mogadishu_607844)
 
 ## DTS-HD MA 5.1
 

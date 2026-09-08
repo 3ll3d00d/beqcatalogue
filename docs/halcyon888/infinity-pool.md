@@ -9,7 +9,7 @@ While staying at an isolated island resort, James and Em are enjoying a perfect 
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62739039)  [TMDB](https://www.themoviedb.org/movie/667216)  [Compare across authors](../../compare/?t=film-infinity-pool_667216)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62739039)  [TMDB](https://www.themoviedb.org/movie/667216)  [Compare across authors](../compare/index.md?t=film-infinity-pool_667216)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Infinity%20Pool%20(2023)%20DTS-HD%20MA%205.1%20PvA.jpg)
@@ -27,7 +27,7 @@ While staying at an isolated island resort, James and Em are enjoying a perfect 
 
 **MV Adjustment:** +1.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62739039)  [TMDB](https://www.themoviedb.org/movie/667216)  [Compare across authors](../../compare/?t=film-infinity-pool_667216)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62739039)  [TMDB](https://www.themoviedb.org/movie/667216)  [Compare across authors](../compare/index.md?t=film-infinity-pool_667216)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Infinity%20Pool%20(2023)%20(Uncut)%20DTS-HD%20MA%205.1%20PvA.jpg)

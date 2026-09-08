@@ -1,6 +1,6 @@
 # Baby Boy
 
-[Compare across authors](../../compare/?t=film-baby-boy_16161)
+[Compare across authors](../compare/index.md?t=film-baby-boy_16161)
 
 ## DD+ 5.1
 

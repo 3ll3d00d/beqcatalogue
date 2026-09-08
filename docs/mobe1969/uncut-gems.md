@@ -1,6 +1,6 @@
 # Uncut Gems
 
-[Compare across authors](../../compare/?t=film-uncut-gems_473033)
+[Compare across authors](../compare/index.md?t=film-uncut-gems_473033)
 
 ## DD+ Atmos
 

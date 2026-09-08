@@ -7,7 +7,7 @@
 A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/290250)  [Compare across authors](../../compare/?t=film-the-nice-guys_290250)
+[TMDB](https://www.themoviedb.org/movie/290250)  [Compare across authors](../compare/index.md?t=film-the-nice-guys_290250)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Nice%20Guys/The%20Nice%20Guys%20(2016)%20Atmos.jpg)

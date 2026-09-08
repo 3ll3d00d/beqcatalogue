@@ -1,6 +1,6 @@
 # The Wrestler
 
-[Compare across authors](../../compare/?t=film-the-wrestler_12163)
+[Compare across authors](../compare/index.md?t=film-the-wrestler_12163)
 
 ## DTS-HD MA 5.1
 

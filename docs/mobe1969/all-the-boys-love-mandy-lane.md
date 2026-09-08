@@ -1,6 +1,6 @@
 # All the Boys Love Mandy Lane
 
-[Compare across authors](../../compare/?t=film-all-the-boys-love-mandy-lane_9022)
+[Compare across authors](../compare/index.md?t=film-all-the-boys-love-mandy-lane_9022)
 
 ## DTS-HD MA 5.1
 

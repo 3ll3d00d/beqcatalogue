@@ -1,6 +1,6 @@
 # Air Strike
 
-[Compare across authors](../../compare/?t=film-air-strike_345934)
+[Compare across authors](../compare/index.md?t=film-air-strike_345934)
 
 ## DTS-HD MA 5.1
 

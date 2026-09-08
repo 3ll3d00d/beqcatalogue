@@ -1,6 +1,6 @@
 # Puss in Boots: The Last Wish
 
-[Compare across authors](../../compare/?t=film-puss-in-boots-the-last-wish_315162)
+[Compare across authors](../compare/index.md?t=film-puss-in-boots-the-last-wish_315162)
 
 ## Atmos
 

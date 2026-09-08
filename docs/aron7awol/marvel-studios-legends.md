@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-marvel-studios-legends_114695)
+[Compare across authors](../compare/index.md?t=TV-marvel-studios-legends_114695)
 
 ## Season 1
 

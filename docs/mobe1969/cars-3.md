@@ -1,6 +1,6 @@
 # Cars 3
 
-[Compare across authors](../../compare/?t=film-cars-3_260514)
+[Compare across authors](../compare/index.md?t=film-cars-3_260514)
 
 ## Atmos, DTS-HD MA 7.1
 

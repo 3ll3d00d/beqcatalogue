@@ -1,6 +1,6 @@
 # Mission: Impossible II
 
-[Compare across authors](../../compare/?t=film-mission-impossible-ii_955)
+[Compare across authors](../compare/index.md?t=film-mission-impossible-ii_955)
 
 ## TrueHD 5.1
 

@@ -14,7 +14,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63086834)
 
-* [Compare across authors](../../compare/?t=TV-echo_122226)
+* [Compare across authors](../compare/index.md?t=TV-echo_122226)
 
 * Production Year: 2024
 
@@ -33,7 +33,7 @@
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-63086834)
 
-* [Compare across authors](../../compare/?t=TV-echo_122226)
+* [Compare across authors](../compare/index.md?t=TV-echo_122226)
 
 * Production Year: 2024
 

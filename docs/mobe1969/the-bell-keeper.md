@@ -1,6 +1,6 @@
 # The Bell Keeper
 
-[Compare across authors](../../compare/?t=film-the-bell-keeper_938669)
+[Compare across authors](../compare/index.md?t=film-the-bell-keeper_938669)
 
 ## DD+ 5.1
 

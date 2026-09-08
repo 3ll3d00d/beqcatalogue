@@ -1,6 +1,6 @@
 # White Squall
 
-[Compare across authors](../../compare/?t=film-white-squall_10534)
+[Compare across authors](../compare/index.md?t=film-white-squall_10534)
 
 ## DTS-HD MA 5.1
 

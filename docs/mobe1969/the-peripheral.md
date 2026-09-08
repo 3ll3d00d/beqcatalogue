@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-the-peripheral_95403)
+[Compare across authors](../compare/index.md?t=TV-the-peripheral_95403)
 
 ## Season 1
 

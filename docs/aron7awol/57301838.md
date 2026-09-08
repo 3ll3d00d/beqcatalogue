@@ -1,6 +1,6 @@
 # Johnny English Strikes Again
 
-[Compare across authors](../../compare/?t=film-johnny-english-strikes-again_463272)
+[Compare across authors](../compare/index.md?t=film-johnny-english-strikes-again_463272)
 
 ## DTS-X
 

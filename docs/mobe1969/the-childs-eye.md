@@ -1,6 +1,6 @@
 # The Child's Eye
 
-[Compare across authors](../../compare/?t=film-the-childs-eye_51322)
+[Compare across authors](../compare/index.md?t=film-the-childs-eye_51322)
 
 ## DTS-HD MA 7.1
 

@@ -1,6 +1,6 @@
 # Kung Fu Yoga
 
-[Compare across authors](../../compare/?t=film-kung-fu-yoga_383785)
+[Compare across authors](../compare/index.md?t=film-kung-fu-yoga_383785)
 
 ## DTS-X
 

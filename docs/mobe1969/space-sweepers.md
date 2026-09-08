@@ -1,6 +1,6 @@
 # Space Sweepers
 
-[Compare across authors](../../compare/?t=film-space-sweepers_581389)
+[Compare across authors](../compare/index.md?t=film-space-sweepers_581389)
 
 ## DD+ 5.1
 

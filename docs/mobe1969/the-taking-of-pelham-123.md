@@ -1,6 +1,6 @@
 # The Taking of Pelham 123
 
-[Compare across authors](../../compare/?t=film-the-taking-of-pelham-123_18487)
+[Compare across authors](../compare/index.md?t=film-the-taking-of-pelham-123_18487)
 
 ## DTS-HD MA 5.1
 

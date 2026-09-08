@@ -1,6 +1,6 @@
 # The Happytime Murders
 
-[Compare across authors](../../compare/?t=film-the-happytime-murders_412988)
+[Compare across authors](../compare/index.md?t=film-the-happytime-murders_412988)
 
 ## DTS-HD MA 7.1
 

@@ -1,6 +1,6 @@
 # The Rocketeer
 
-[Compare across authors](../../compare/?t=film-the-rocketeer_10249)
+[Compare across authors](../compare/index.md?t=film-the-rocketeer_10249)
 
 ## DTS-HD MA 5.1
 

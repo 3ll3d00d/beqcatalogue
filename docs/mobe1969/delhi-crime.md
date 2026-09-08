@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-delhi-crime_87508)
+[Compare across authors](../compare/index.md?t=TV-delhi-crime_87508)
 
 ## Season 1
 

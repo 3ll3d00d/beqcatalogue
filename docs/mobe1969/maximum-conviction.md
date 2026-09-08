@@ -1,6 +1,6 @@
 # Maximum Conviction
 
-[Compare across authors](../../compare/?t=film-maximum-conviction_118683)
+[Compare across authors](../compare/index.md?t=film-maximum-conviction_118683)
 
 ## DTS-HD MA 5.1
 

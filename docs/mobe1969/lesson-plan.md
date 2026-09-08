@@ -1,6 +1,6 @@
 # Lesson Plan
 
-[Compare across authors](../../compare/?t=film-lesson-plan_1049233)
+[Compare across authors](../compare/index.md?t=film-lesson-plan_1049233)
 
 ## DD+ Atmos
 

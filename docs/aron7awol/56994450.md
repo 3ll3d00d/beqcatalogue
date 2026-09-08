@@ -1,6 +1,6 @@
 # I, Tonya
 
-[Compare across authors](../../compare/?t=film-i-tonya_389015)
+[Compare across authors](../compare/index.md?t=film-i-tonya_389015)
 
 ## DTS-HD MA 5.1
 

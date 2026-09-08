@@ -9,7 +9,7 @@ Having found the safety of the Greenland bunker after the comet Clarke decimated
 
 **MV Adjustment:** +3.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1724?post_id=64521446#post-64521446)  [TMDB](https://www.themoviedb.org/movie/840464)  [Compare across authors](../../compare/?t=film-greenland-2-migration_840464)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1724?post_id=64521446#post-64521446)  [TMDB](https://www.themoviedb.org/movie/840464)  [Compare across authors](../compare/index.md?t=film-greenland-2-migration_840464)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Greenland%202%20Migration%20(2026)%20(%2B3%20gain)%20Atmos.jpg)
@@ -28,7 +28,7 @@ Having found the safety of the Greenland bunker after the comet Clarke decimated
 Dialnorm Compensation: 5dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1705?post_id=64440808#post-64440808)  [TMDB](https://www.themoviedb.org/movie/840464)  [Compare across authors](../../compare/?t=film-greenland-2-migration_840464)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1705?post_id=64440808#post-64440808)  [TMDB](https://www.themoviedb.org/movie/840464)  [Compare across authors](../compare/index.md?t=film-greenland-2-migration_840464)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Greenland%202%20Migration%20(2026)%20(%2B3.5%20gain)%20DD%2B%20Atmos.jpg)

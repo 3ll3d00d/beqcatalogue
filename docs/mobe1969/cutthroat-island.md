@@ -1,6 +1,6 @@
 # Cutthroat Island
 
-[Compare across authors](../../compare/?t=film-cutthroat-island_1408)
+[Compare across authors](../compare/index.md?t=film-cutthroat-island_1408)
 
 ## DTS-HD MA 5.1
 

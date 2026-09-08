@@ -1,6 +1,6 @@
 # MAL·MO·E: The Secret Mission
 
-[Compare across authors](../../compare/?t=film-malmoe-the-secret-mission_564863)
+[Compare across authors](../compare/index.md?t=film-malmoe-the-secret-mission_564863)
 
 ## DTS-HD MA 5.1
 

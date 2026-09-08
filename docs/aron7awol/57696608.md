@@ -1,6 +1,6 @@
 # Aquaman
 
-[Compare across authors](../../compare/?t=film-aquaman_297802)
+[Compare across authors](../compare/index.md?t=film-aquaman_297802)
 
 ## Atmos
 

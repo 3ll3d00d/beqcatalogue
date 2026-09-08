@@ -1,6 +1,6 @@
 # Goodbye Monster
 
-[Compare across authors](../../compare/?t=film-goodbye-monster_1028318)
+[Compare across authors](../compare/index.md?t=film-goodbye-monster_1028318)
 
 ## DTS-HD MA 5.1
 

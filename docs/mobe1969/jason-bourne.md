@@ -1,6 +1,6 @@
 # Jason Bourne
 
-[Compare across authors](../../compare/?t=film-jason-bourne_324668)
+[Compare across authors](../compare/index.md?t=film-jason-bourne_324668)
 
 ## DTS-X
 

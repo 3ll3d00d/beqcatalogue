@@ -7,7 +7,7 @@
 Following the death of their father, a brother and sister are introduced to their new sibling by their foster mother, only to learn that she has a terrifying secret.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/1151031)  [Compare across authors](../../compare/?t=film-bring-her-back_1151031)
+[TMDB](https://www.themoviedb.org/movie/1151031)  [Compare across authors](../compare/index.md?t=film-bring-her-back_1151031)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Bring%20Her%20Back%20(2025)%20DD%2B%20Atmos.jpg)

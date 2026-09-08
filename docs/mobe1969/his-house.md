@@ -1,6 +1,6 @@
 # His House
 
-[Compare across authors](../../compare/?t=film-his-house_575774)
+[Compare across authors](../compare/index.md?t=film-his-house_575774)
 
 ## DD+ Atmos, DD+ 5.1
 

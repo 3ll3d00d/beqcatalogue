@@ -1,6 +1,6 @@
 # Point Blank
 
-[Compare across authors](../../compare/?t=film-point-blank_531503)
+[Compare across authors](../compare/index.md?t=film-point-blank_531503)
 
 ## DD+ Atmos, DD+ 5.1
 

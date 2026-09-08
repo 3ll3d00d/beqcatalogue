@@ -1,6 +1,6 @@
 # Burning Bright
 
-[Compare across authors](../../compare/?t=film-burning-bright_39957)
+[Compare across authors](../compare/index.md?t=film-burning-bright_39957)
 
 ## DTS-HD MA 5.1
 

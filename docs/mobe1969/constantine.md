@@ -1,6 +1,6 @@
 # Constantine
 
-[Compare across authors](../../compare/?t=film-constantine_561)
+[Compare across authors](../compare/index.md?t=film-constantine_561)
 
 ## TrueHD 5.1
 

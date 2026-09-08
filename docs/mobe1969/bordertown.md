@@ -1,6 +1,6 @@
 # Bordertown
 
-[Compare across authors](../../compare/?t=film-bordertown_4351)
+[Compare across authors](../compare/index.md?t=film-bordertown_4351)
 
 ## DTS-HD MA 5.1
 

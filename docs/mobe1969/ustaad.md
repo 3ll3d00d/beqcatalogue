@@ -1,6 +1,6 @@
 # Ustaad
 
-[Compare across authors](../../compare/?t=film-ustaad_1031983)
+[Compare across authors](../compare/index.md?t=film-ustaad_1031983)
 
 ## DD+ 5.1
 

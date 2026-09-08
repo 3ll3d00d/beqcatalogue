@@ -1,6 +1,6 @@
 # The Chronicles of Narnia: Prince Caspian
 
-[Compare across authors](../../compare/?t=film-the-chronicles-of-narnia-prince-caspian_2454)
+[Compare across authors](../compare/index.md?t=film-the-chronicles-of-narnia-prince-caspian_2454)
 
 ## DTS-HD MA 7.1
 

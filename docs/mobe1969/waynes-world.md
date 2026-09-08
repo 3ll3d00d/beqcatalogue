@@ -1,6 +1,6 @@
 # Wayne's World
 
-[Compare across authors](../../compare/?t=film-waynes-world_8872)
+[Compare across authors](../compare/index.md?t=film-waynes-world_8872)
 
 ## Atmos
 

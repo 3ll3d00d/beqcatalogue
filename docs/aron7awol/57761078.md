@@ -1,6 +1,6 @@
 # Pompeii
 
-[Compare across authors](../../compare/?t=film-pompeii_76649)
+[Compare across authors](../compare/index.md?t=film-pompeii_76649)
 
 ## DTS-HD MA 5.1
 

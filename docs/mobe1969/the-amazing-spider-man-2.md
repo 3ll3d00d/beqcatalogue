@@ -1,6 +1,6 @@
 # The Amazing Spider-Man 2
 
-[Compare across authors](../../compare/?t=film-the-amazing-spider-man-2_102382)
+[Compare across authors](../compare/index.md?t=film-the-amazing-spider-man-2_102382)
 
 ## Atmos, DTS-HD MA 5.1, DD+ 5.1
 

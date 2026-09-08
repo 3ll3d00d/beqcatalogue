@@ -1,6 +1,6 @@
 # Wolf Totem
 
-[Compare across authors](../../compare/?t=film-wolf-totem_309302)
+[Compare across authors](../compare/index.md?t=film-wolf-totem_309302)
 
 ## DTS-HD MA 5.1
 

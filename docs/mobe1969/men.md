@@ -1,6 +1,6 @@
 # Men
 
-[Compare across authors](../../compare/?t=film-men_780609)
+[Compare across authors](../compare/index.md?t=film-men_780609)
 
 ## Atmos, DTS-HD MA 5.1, DD+ 5.1
 

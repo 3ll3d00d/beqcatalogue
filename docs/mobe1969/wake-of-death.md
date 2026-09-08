@@ -1,6 +1,6 @@
 # Wake of Death
 
-[Compare across authors](../../compare/?t=film-wake-of-death_14172)
+[Compare across authors](../compare/index.md?t=film-wake-of-death_14172)
 
 ## DD 5.1
 

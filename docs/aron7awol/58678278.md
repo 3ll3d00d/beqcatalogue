@@ -1,6 +1,6 @@
 # Wonder Woman: Bloodlines
 
-[Compare across authors](../../compare/?t=film-wonder-woman-bloodlines_537055)
+[Compare across authors](../compare/index.md?t=film-wonder-woman-bloodlines_537055)
 
 ## DTS-HD MA 5.1
 

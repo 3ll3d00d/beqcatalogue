@@ -1,6 +1,6 @@
 # HiGH&LOW The Movie 3: Final Mission
 
-[Compare across authors](../../compare/?t=film-highlow-the-movie-3-final-mission_525831)
+[Compare across authors](../compare/index.md?t=film-highlow-the-movie-3-final-mission_525831)
 
 ## DD+ 5.1
 

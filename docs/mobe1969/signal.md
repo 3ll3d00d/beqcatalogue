@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-signal_64840)
+[Compare across authors](../compare/index.md?t=TV-signal_64840)
 
 ## Season 1
 

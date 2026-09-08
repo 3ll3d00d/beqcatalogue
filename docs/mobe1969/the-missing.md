@@ -1,6 +1,6 @@
 # The Missing
 
-[Compare across authors](../../compare/?t=film-the-missing_12146)
+[Compare across authors](../compare/index.md?t=film-the-missing_12146)
 
 ## TrueHD 5.1
 

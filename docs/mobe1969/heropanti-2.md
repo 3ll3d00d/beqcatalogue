@@ -1,6 +1,6 @@
 # Heropanti 2
 
-[Compare across authors](../../compare/?t=film-heropanti-2_678835)
+[Compare across authors](../compare/index.md?t=film-heropanti-2_678835)
 
 ## DD+ 5.1
 

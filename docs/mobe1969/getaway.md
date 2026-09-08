@@ -1,6 +1,6 @@
 # Getaway
 
-[Compare across authors](../../compare/?t=film-getaway_146227)
+[Compare across authors](../compare/index.md?t=film-getaway_146227)
 
 ## DTS-HD MA 5.1
 

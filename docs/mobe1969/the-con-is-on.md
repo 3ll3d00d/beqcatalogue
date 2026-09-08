@@ -1,6 +1,6 @@
 # The Con is On
 
-[Compare across authors](../../compare/?t=film-the-con-is-on_353576)
+[Compare across authors](../compare/index.md?t=film-the-con-is-on_353576)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Seeking a Friend for the End of the World
 
-[Compare across authors](../../compare/?t=film-seeking-a-friend-for-the-end-of-the-world_88005)
+[Compare across authors](../compare/index.md?t=film-seeking-a-friend-for-the-end-of-the-world_88005)
 
 ## DTS-HD MA 5.1
 

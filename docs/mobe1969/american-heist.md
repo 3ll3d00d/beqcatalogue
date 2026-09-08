@@ -1,6 +1,6 @@
 # American Heist
 
-[Compare across authors](../../compare/?t=film-american-heist_250066)
+[Compare across authors](../compare/index.md?t=film-american-heist_250066)
 
 ## DTS-HD MA 5.1
 

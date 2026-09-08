@@ -1,6 +1,6 @@
 # What We Do in the Shadows
 
-[Compare across authors](../../compare/?t=film-what-we-do-in-the-shadows_246741)
+[Compare across authors](../compare/index.md?t=film-what-we-do-in-the-shadows_246741)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Project Ithaca
 
-[Compare across authors](../../compare/?t=film-project-ithaca_600836)
+[Compare across authors](../compare/index.md?t=film-project-ithaca_600836)
 
 ## DD+ 5.1
 

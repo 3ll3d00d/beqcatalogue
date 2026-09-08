@@ -1,6 +1,6 @@
 # Pari
 
-[Compare across authors](../../compare/?t=film-pari_461649)
+[Compare across authors](../compare/index.md?t=film-pari_461649)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # Contact
 
-[Compare across authors](../../compare/?t=film-contact_686)
+[Compare across authors](../compare/index.md?t=film-contact_686)
 
 ## TrueHD 5.1
 

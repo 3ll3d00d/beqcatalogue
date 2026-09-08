@@ -1,6 +1,6 @@
 # Bhediya
 
-[Compare across authors](../../compare/?t=film-bhediya_799177)
+[Compare across authors](../compare/index.md?t=film-bhediya_799177)
 
 ## DD 5.1
 

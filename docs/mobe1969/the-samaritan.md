@@ -1,6 +1,6 @@
 # The Samaritan
 
-[Compare across authors](../../compare/?t=film-the-samaritan_98339)
+[Compare across authors](../compare/index.md?t=film-the-samaritan_98339)
 
 ## DTS-HD MA 5.1
 

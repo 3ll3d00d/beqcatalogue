@@ -1,6 +1,6 @@
 # Until Death
 
-[Compare across authors](../../compare/?t=film-until-death_20411)
+[Compare across authors](../compare/index.md?t=film-until-death_20411)
 
 ## DTS-HD MA 5.1
 

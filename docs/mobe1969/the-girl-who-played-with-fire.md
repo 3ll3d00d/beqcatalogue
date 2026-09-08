@@ -1,6 +1,6 @@
 # The Girl Who Played with Fire
 
-[Compare across authors](../../compare/?t=film-the-girl-who-played-with-fire_24253)
+[Compare across authors](../compare/index.md?t=film-the-girl-who-played-with-fire_24253)
 
 ## DTS-HD MA 5.1
 

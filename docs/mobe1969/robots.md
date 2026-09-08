@@ -1,6 +1,6 @@
 # Robots
 
-[Compare across authors](../../compare/?t=film-robots_723347)
+[Compare across authors](../compare/index.md?t=film-robots_723347)
 
 ## DTS-HD MA 5.1, DD+ 5.1
 

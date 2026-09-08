@@ -9,7 +9,7 @@ After Kick-Ass’ insane bravery inspires a new wave of self-made masked crusade
 
 **MV Adjustment:** +4.0 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62817604)  [TMDB](https://www.themoviedb.org/movie/59859)  [Compare across authors](../../compare/?t=film-kick-ass-2_59859)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62817604)  [TMDB](https://www.themoviedb.org/movie/59859)  [Compare across authors](../compare/index.md?t=film-kick-ass-2_59859)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Kick-Ass%202%20(2013)%20(%2B4%20gain)%20DTS-X.jpg)

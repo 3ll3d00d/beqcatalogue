@@ -1,6 +1,6 @@
 # Den of Thieves
 
-[Compare across authors](../../compare/?t=film-den-of-thieves_449443)
+[Compare across authors](../compare/index.md?t=film-den-of-thieves_449443)
 
 ## DTS-HD MA 5.1
 

@@ -7,7 +7,7 @@
 Researchers on the undersea lab Aquatica have genetically altered the brains of captive sharks to develop a cure for Alzheimer's disease. But there's an unexpected side effect: the sharks got smarter, faster, and more dangerous. After a big storm damages their remote research facility, they must fight for their lives.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/8914)  [Compare across authors](../../compare/?t=film-deep-blue-sea_8914)
+[TMDB](https://www.themoviedb.org/movie/8914)  [Compare across authors](../compare/index.md?t=film-deep-blue-sea_8914)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Deep%20Blue%20Sea/Deep%20Blue%20Sea%20(1999)%20Atmos.jpg)

@@ -1,6 +1,6 @@
 # The Quarry
 
-[Compare across authors](../../compare/?t=film-the-quarry_598215)
+[Compare across authors](../compare/index.md?t=film-the-quarry_598215)
 
 ## DD+ 5.1
 

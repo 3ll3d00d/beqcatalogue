@@ -1,6 +1,6 @@
 # Lavender
 
-[Compare across authors](../../compare/?t=film-lavender_340584)
+[Compare across authors](../compare/index.md?t=film-lavender_340584)
 
 ## DD+ 5.1
 

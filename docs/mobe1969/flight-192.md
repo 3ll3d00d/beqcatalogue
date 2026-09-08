@@ -1,6 +1,6 @@
 # Flight 192
 
-[Compare across authors](../../compare/?t=film-flight-192_455509)
+[Compare across authors](../compare/index.md?t=film-flight-192_455509)
 
 ## DD+ 2.0
 

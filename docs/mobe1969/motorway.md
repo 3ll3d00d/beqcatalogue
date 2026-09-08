@@ -1,6 +1,6 @@
 # Motorway
 
-[Compare across authors](../../compare/?t=film-motorway_117506)
+[Compare across authors](../compare/index.md?t=film-motorway_117506)
 
 ## TrueHD 7.1, DTS-HD MA 7.1
 

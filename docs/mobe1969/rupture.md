@@ -1,6 +1,6 @@
 # Rupture
 
-[Compare across authors](../../compare/?t=film-rupture_345925)
+[Compare across authors](../compare/index.md?t=film-rupture_345925)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # Cube Zero
 
-[Compare across authors](../../compare/?t=film-cube-zero_438)
+[Compare across authors](../compare/index.md?t=film-cube-zero_438)
 
 ## DD+ 5.1
 

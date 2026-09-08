@@ -1,6 +1,6 @@
 # TEKKEN
 
-[Compare across authors](../../compare/?t=film-tekken_42194)
+[Compare across authors](../compare/index.md?t=film-tekken_42194)
 
 ## DTS-HD MA 5.1
 

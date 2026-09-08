@@ -1,6 +1,6 @@
 # Mallrats
 
-[Compare across authors](../../compare/?t=film-mallrats_2293)
+[Compare across authors](../compare/index.md?t=film-mallrats_2293)
 
 ## DTS-HD MA 5.1
 

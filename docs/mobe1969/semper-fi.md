@@ -1,6 +1,6 @@
 # Semper Fi
 
-[Compare across authors](../../compare/?t=film-semper-fi_515724)
+[Compare across authors](../compare/index.md?t=film-semper-fi_515724)
 
 ## DTS-HD MA 5.1
 

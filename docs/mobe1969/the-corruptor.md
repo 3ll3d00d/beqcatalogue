@@ -1,6 +1,6 @@
 # The Corruptor
 
-[Compare across authors](../../compare/?t=film-the-corruptor_9455)
+[Compare across authors](../compare/index.md?t=film-the-corruptor_9455)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Age of Shadows
 
-[Compare across authors](../../compare/?t=film-the-age-of-shadows_363579)
+[Compare across authors](../compare/index.md?t=film-the-age-of-shadows_363579)
 
 ## DTS-HD MA 5.1
 

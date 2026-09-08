@@ -1,6 +1,6 @@
 # The Eight Hundred
 
-[Compare across authors](../../compare/?t=film-the-eight-hundred_508935)
+[Compare across authors](../compare/index.md?t=film-the-eight-hundred_508935)
 
 ## DTS-HD MA 5.1
 

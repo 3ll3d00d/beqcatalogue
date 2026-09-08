@@ -1,6 +1,6 @@
 # The Love Guru
 
-[Compare across authors](../../compare/?t=film-the-love-guru_12177)
+[Compare across authors](../compare/index.md?t=film-the-love-guru_12177)
 
 ## TrueHD 5.1
 

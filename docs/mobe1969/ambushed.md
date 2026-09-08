@@ -1,6 +1,6 @@
 # Ambushed
 
-[Compare across authors](../../compare/?t=film-ambushed_216541)
+[Compare across authors](../compare/index.md?t=film-ambushed_216541)
 
 ## DTS-HD MA 5.1
 

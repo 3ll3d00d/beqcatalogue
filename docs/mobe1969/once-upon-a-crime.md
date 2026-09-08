@@ -1,6 +1,6 @@
 # Once Upon a Crime
 
-[Compare across authors](../../compare/?t=film-once-upon-a-crime_1122634)
+[Compare across authors](../compare/index.md?t=film-once-upon-a-crime_1122634)
 
 ## DD+ 5.1
 

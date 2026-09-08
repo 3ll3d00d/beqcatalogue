@@ -1,6 +1,6 @@
 # Conspirators
 
-[Compare across authors](../../compare/?t=film-conspirators_205575)
+[Compare across authors](../compare/index.md?t=film-conspirators_205575)
 
 ## DTS-HD MA 7.1
 

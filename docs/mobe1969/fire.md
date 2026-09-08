@@ -1,6 +1,6 @@
 # Fire
 
-[Compare across authors](../../compare/?t=film-fire_585257)
+[Compare across authors](../compare/index.md?t=film-fire_585257)
 
 ## DTS-HD MA 5.1
 

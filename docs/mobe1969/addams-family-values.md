@@ -1,6 +1,6 @@
 # Addams Family Values
 
-[Compare across authors](../../compare/?t=film-addams-family-values_2758)
+[Compare across authors](../compare/index.md?t=film-addams-family-values_2758)
 
 ## DD+ 5.1
 

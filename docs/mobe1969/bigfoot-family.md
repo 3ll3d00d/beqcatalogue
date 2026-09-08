@@ -1,6 +1,6 @@
 # Bigfoot Family
 
-[Compare across authors](../../compare/?t=film-bigfoot-family_702525)
+[Compare across authors](../compare/index.md?t=film-bigfoot-family_702525)
 
 ## DD+ 5.1
 

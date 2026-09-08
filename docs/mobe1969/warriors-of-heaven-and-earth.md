@@ -1,6 +1,6 @@
 # Warriors of Heaven and Earth
 
-[Compare across authors](../../compare/?t=film-warriors-of-heaven-and-earth_14797)
+[Compare across authors](../compare/index.md?t=film-warriors-of-heaven-and-earth_14797)
 
 ## DD+ 5.1
 

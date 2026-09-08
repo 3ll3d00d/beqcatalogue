@@ -7,7 +7,7 @@
 Campers at an LGBTQ+ conversion camp endure unsettling psychological techniques while the campsite is stalked by a mysterious killer.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/816977)  [Compare across authors](../../compare/?t=film-theythem_816977)
+[TMDB](https://www.themoviedb.org/movie/816977)  [Compare across authors](../compare/index.md?t=film-theythem_816977)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/They%20Them/They%20Them%20(2022)%20DD%2B%20Atmos.jpg)

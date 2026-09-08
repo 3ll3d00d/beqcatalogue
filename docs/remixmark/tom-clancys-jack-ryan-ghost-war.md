@@ -12,7 +12,7 @@ Jack Ryan is reluctantly pulled back into espionage when an international covert
 Dialnorm Compensation: 4dB
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1742?post_id=64620414#post-64620414)  [TMDB](https://www.themoviedb.org/movie/1380291)  [Compare across authors](../../compare/?t=film-tom-clancys-jack-ryan-ghost-war_1380291)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1742?post_id=64620414#post-64620414)  [TMDB](https://www.themoviedb.org/movie/1380291)  [Compare across authors](../compare/index.md?t=film-tom-clancys-jack-ryan-ghost-war_1380291)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Tom%20Clancy's%20Jack%20Ryan%20Ghost%20War%20(2026)%20(-3%20gain)%20DD%2B%20Atmos.jpg)

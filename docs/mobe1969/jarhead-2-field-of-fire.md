@@ -1,6 +1,6 @@
 # Jarhead 2: Field of Fire
 
-[Compare across authors](../../compare/?t=film-jarhead-2-field-of-fire_285423)
+[Compare across authors](../compare/index.md?t=film-jarhead-2-field-of-fire_285423)
 
 ## DTS-HD MA 5.1
 

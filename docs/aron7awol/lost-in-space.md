@@ -2,7 +2,7 @@
 
 * Author: aron7awol
 
-[Compare across authors](../../compare/?t=TV-lost-in-space_75758)
+[Compare across authors](../compare/index.md?t=TV-lost-in-space_75758)
 
 ## Season 1
 

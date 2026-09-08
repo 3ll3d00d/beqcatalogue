@@ -1,6 +1,6 @@
 # Terminal Velocity
 
-[Compare across authors](../../compare/?t=film-terminal-velocity_9057)
+[Compare across authors](../compare/index.md?t=film-terminal-velocity_9057)
 
 ## DTS-HD MA 5.1
 

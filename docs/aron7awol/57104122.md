@@ -1,6 +1,6 @@
 # Detective Dee: The Four Heavenly Kings
 
-[Compare across authors](../../compare/?t=film-detective-dee-the-four-heavenly-kings_506763)
+[Compare across authors](../compare/index.md?t=film-detective-dee-the-four-heavenly-kings_506763)
 
 ## DTS-HD MA 5.1
 

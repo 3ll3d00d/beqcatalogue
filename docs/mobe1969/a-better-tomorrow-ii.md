@@ -1,6 +1,6 @@
 # A Better Tomorrow II
 
-[Compare across authors](../../compare/?t=film-a-better-tomorrow-ii_18305)
+[Compare across authors](../compare/index.md?t=film-a-better-tomorrow-ii_18305)
 
 ## DTS-HD MA 7.1
 

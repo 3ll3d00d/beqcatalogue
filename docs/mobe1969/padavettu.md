@@ -1,6 +1,6 @@
 # Padavettu
 
-[Compare across authors](../../compare/?t=film-padavettu_657995)
+[Compare across authors](../compare/index.md?t=film-padavettu_657995)
 
 ## DD+ 5.1
 

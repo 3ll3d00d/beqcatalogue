@@ -1,6 +1,6 @@
 # The Four 3
 
-[Compare across authors](../../compare/?t=film-the-four-3_299738)
+[Compare across authors](../compare/index.md?t=film-the-four-3_299738)
 
 ## TrueHD 5.1
 

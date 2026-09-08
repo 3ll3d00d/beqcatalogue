@@ -1,6 +1,6 @@
 # The Last Face
 
-[Compare across authors](../../compare/?t=film-the-last-face_287904)
+[Compare across authors](../compare/index.md?t=film-the-last-face_287904)
 
 ## DTS-HD MA 5.1
 

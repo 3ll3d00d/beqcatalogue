@@ -1,6 +1,6 @@
 # Gran Turismo
 
-[Compare across authors](../../compare/?t=film-gran-turismo_980489)
+[Compare across authors](../compare/index.md?t=film-gran-turismo_980489)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Detroit
 
-[Compare across authors](../../compare/?t=film-detroit_407448)
+[Compare across authors](../compare/index.md?t=film-detroit_407448)
 
 ## DTS-HD MA 5.1
 

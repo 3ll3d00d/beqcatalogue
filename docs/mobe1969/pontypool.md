@@ -1,6 +1,6 @@
 # Pontypool
 
-[Compare across authors](../../compare/?t=film-pontypool_23963)
+[Compare across authors](../compare/index.md?t=film-pontypool_23963)
 
 ## DTS-HD MA 5.1
 

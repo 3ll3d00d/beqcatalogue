@@ -1,6 +1,6 @@
 # ID2: Shadwell Army
 
-[Compare across authors](../../compare/?t=film-id2-shadwell-army_411041)
+[Compare across authors](../compare/index.md?t=film-id2-shadwell-army_411041)
 
 ## DD+ 5.1
 

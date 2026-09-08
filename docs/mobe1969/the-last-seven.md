@@ -1,6 +1,6 @@
 # The Last Seven
 
-[Compare across authors](../../compare/?t=film-the-last-seven_44646)
+[Compare across authors](../compare/index.md?t=film-the-last-seven_44646)
 
 ## DTS-HD MA 5.1
 

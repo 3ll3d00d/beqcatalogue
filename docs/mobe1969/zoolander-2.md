@@ -1,6 +1,6 @@
 # Zoolander 2
 
-[Compare across authors](../../compare/?t=film-zoolander-2_329833)
+[Compare across authors](../compare/index.md?t=film-zoolander-2_329833)
 
 ## DTS-X
 

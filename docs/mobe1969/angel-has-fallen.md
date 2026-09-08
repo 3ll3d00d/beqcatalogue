@@ -1,6 +1,6 @@
 # Angel Has Fallen
 
-[Compare across authors](../../compare/?t=film-angel-has-fallen_423204)
+[Compare across authors](../compare/index.md?t=film-angel-has-fallen_423204)
 
 ## Atmos, DD+ 5.1
 

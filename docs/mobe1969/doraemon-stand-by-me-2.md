@@ -1,6 +1,6 @@
 # Doraemon Stand By Me 2
 
-[Compare across authors](../../compare/?t=film-doraemon-stand-by-me-2_728754)
+[Compare across authors](../compare/index.md?t=film-doraemon-stand-by-me-2_728754)
 
 ## DD+ 5.1
 

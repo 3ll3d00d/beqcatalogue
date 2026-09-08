@@ -1,6 +1,6 @@
 # The Long Kiss Goodnight
 
-[Compare across authors](../../compare/?t=film-the-long-kiss-goodnight_11412)
+[Compare across authors](../compare/index.md?t=film-the-long-kiss-goodnight_11412)
 
 ## DTS-HD MA 5.1
 

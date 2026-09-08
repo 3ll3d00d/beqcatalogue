@@ -1,6 +1,6 @@
 # Men in Black
 
-[Compare across authors](../../compare/?t=film-men-in-black_607)
+[Compare across authors](../compare/index.md?t=film-men-in-black_607)
 
 ## Atmos
 

@@ -1,6 +1,6 @@
 # Open Season
 
-[Compare across authors](../../compare/?t=film-open-season_7484)
+[Compare across authors](../compare/index.md?t=film-open-season_7484)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # They Cloned Tyrone
 
-[Compare across authors](../../compare/?t=film-they-cloned-tyrone_736769)
+[Compare across authors](../compare/index.md?t=film-they-cloned-tyrone_736769)
 
 ## DD+ Atmos
 

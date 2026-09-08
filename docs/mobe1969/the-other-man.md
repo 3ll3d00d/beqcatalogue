@@ -1,6 +1,6 @@
 # The Other Man
 
-[Compare across authors](../../compare/?t=film-the-other-man_17606)
+[Compare across authors](../compare/index.md?t=film-the-other-man_17606)
 
 ## DTS-HD MA 5.1
 

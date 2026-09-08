@@ -1,6 +1,6 @@
 # Dawn of the Beast
 
-[Compare across authors](../../compare/?t=film-dawn-of-the-beast_786584)
+[Compare across authors](../compare/index.md?t=film-dawn-of-the-beast_786584)
 
 ## DD+ 5.1
 

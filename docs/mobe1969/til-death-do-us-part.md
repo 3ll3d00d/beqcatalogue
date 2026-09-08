@@ -1,6 +1,6 @@
 # Til Death Do Us Part
 
-[Compare across authors](../../compare/?t=film-til-death-do-us-part_1126577)
+[Compare across authors](../compare/index.md?t=film-til-death-do-us-part_1126577)
 
 ## DD+ 5.1
 

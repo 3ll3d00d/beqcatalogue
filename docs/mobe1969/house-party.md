@@ -1,6 +1,6 @@
 # House Party
 
-[Compare across authors](../../compare/?t=film-house-party_632065)
+[Compare across authors](../compare/index.md?t=film-house-party_632065)
 
 ## DD+ 5.1
 

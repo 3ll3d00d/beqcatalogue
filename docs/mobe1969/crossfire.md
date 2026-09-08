@@ -1,6 +1,6 @@
 # Crossfire
 
-[Compare across authors](../../compare/?t=film-crossfire_423878)
+[Compare across authors](../compare/index.md?t=film-crossfire_423878)
 
 ## DD+ 5.1
 

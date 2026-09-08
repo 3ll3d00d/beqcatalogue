@@ -1,6 +1,6 @@
 # 7 Below
 
-[Compare across authors](../../compare/?t=film-7-below_84577)
+[Compare across authors](../compare/index.md?t=film-7-below_84577)
 
 ## DTS-HD MA 5.1
 

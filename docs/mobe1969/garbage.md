@@ -1,6 +1,6 @@
 # Garbage
 
-[Compare across authors](../../compare/?t=film-garbage_500788)
+[Compare across authors](../compare/index.md?t=film-garbage_500788)
 
 ## DD+ 5.1
 

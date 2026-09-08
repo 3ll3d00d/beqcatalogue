@@ -1,6 +1,6 @@
 # Veteran
 
-[Compare across authors](../../compare/?t=film-veteran_346646)
+[Compare across authors](../compare/index.md?t=film-veteran_346646)
 
 ## DTS-HD MA 5.1
 

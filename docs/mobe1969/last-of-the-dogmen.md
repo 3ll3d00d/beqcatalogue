@@ -1,6 +1,6 @@
 # Last of the Dogmen
 
-[Compare across authors](../../compare/?t=film-last-of-the-dogmen_30718)
+[Compare across authors](../compare/index.md?t=film-last-of-the-dogmen_30718)
 
 ## DTS-HD MA 5.1
 

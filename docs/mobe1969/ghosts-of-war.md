@@ -1,6 +1,6 @@
 # Ghosts of War
 
-[Compare across authors](../../compare/?t=film-ghosts-of-war_608195)
+[Compare across authors](../compare/index.md?t=film-ghosts-of-war_608195)
 
 ## DTS-HD MA 5.1
 

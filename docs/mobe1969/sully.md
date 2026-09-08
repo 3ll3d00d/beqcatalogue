@@ -1,6 +1,6 @@
 # Sully
 
-[Compare across authors](../../compare/?t=film-sully_363676)
+[Compare across authors](../compare/index.md?t=film-sully_363676)
 
 ## Atmos
 

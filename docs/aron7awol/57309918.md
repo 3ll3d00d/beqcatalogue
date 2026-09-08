@@ -1,6 +1,6 @@
 # Need for Speed
 
-[Compare across authors](../../compare/?t=film-need-for-speed_136797)
+[Compare across authors](../compare/index.md?t=film-need-for-speed_136797)
 
 ## DTS-HD MA 7.1
 

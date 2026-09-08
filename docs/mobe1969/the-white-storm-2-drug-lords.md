@@ -1,6 +1,6 @@
 # The White Storm 2: Drug Lords
 
-[Compare across authors](../../compare/?t=film-the-white-storm-2-drug-lords_512731)
+[Compare across authors](../compare/index.md?t=film-the-white-storm-2-drug-lords_512731)
 
 ## Atmos
 

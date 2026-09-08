@@ -1,6 +1,6 @@
 # 6 Underground
 
-[Compare across authors](../../compare/?t=film-6-underground_509967)
+[Compare across authors](../compare/index.md?t=film-6-underground_509967)
 
 ## DD+ Atmos
 

@@ -1,6 +1,6 @@
 # Hellboy
 
-[Compare across authors](../../compare/?t=film-hellboy_1487)
+[Compare across authors](../compare/index.md?t=film-hellboy_1487)
 
 ## Atmos
 

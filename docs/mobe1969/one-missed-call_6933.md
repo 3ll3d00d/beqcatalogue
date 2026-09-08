@@ -1,6 +1,6 @@
 # One Missed Call
 
-[Compare across authors](../../compare/?t=film-one-missed-call_6933)
+[Compare across authors](../compare/index.md?t=film-one-missed-call_6933)
 
 ## TrueHD 5.1
 

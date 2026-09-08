@@ -1,6 +1,6 @@
 # Backtrace
 
-[Compare across authors](../../compare/?t=film-backtrace_512412)
+[Compare across authors](../compare/index.md?t=film-backtrace_512412)
 
 ## DTS-HD MA 5.1
 

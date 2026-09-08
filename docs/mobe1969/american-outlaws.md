@@ -1,6 +1,6 @@
 # American Outlaws
 
-[Compare across authors](../../compare/?t=film-american-outlaws_13496)
+[Compare across authors](../compare/index.md?t=film-american-outlaws_13496)
 
 ## DD+ 5.1
 

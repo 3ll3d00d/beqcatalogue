@@ -1,6 +1,6 @@
 # The Intruder
 
-[Compare across authors](../../compare/?t=film-the-intruder_524247)
+[Compare across authors](../compare/index.md?t=film-the-intruder_524247)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # The Girl with the Dragon Tattoo
 
-[Compare across authors](../../compare/?t=film-the-girl-with-the-dragon-tattoo_65754)
+[Compare across authors](../compare/index.md?t=film-the-girl-with-the-dragon-tattoo_65754)
 
 ## DTS-HD MA 5.1
 

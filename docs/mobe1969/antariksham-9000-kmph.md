@@ -1,6 +1,6 @@
 # Antariksham 9000 KMPH
 
-[Compare across authors](../../compare/?t=film-antariksham-9000-kmph_566486)
+[Compare across authors](../compare/index.md?t=film-antariksham-9000-kmph_566486)
 
 ## DD+ 5.1
 

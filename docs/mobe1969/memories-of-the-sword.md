@@ -1,6 +1,6 @@
 # Memories of the Sword
 
-[Compare across authors](../../compare/?t=film-memories-of-the-sword_348689)
+[Compare across authors](../compare/index.md?t=film-memories-of-the-sword_348689)
 
 ## DTS-HD MA 5.1
 

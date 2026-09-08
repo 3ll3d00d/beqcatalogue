@@ -1,6 +1,6 @@
 # Agent Cody Banks 2: Destination London
 
-[Compare across authors](../../compare/?t=film-agent-cody-banks-2-destination-london_17047)
+[Compare across authors](../compare/index.md?t=film-agent-cody-banks-2-destination-london_17047)
 
 ## DD+ 5.1
 

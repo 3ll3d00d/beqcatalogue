@@ -1,6 +1,6 @@
 # Sweet Girl
 
-[Compare across authors](../../compare/?t=film-sweet-girl_619297)
+[Compare across authors](../compare/index.md?t=film-sweet-girl_619297)
 
 ## DD+ Atmos
 

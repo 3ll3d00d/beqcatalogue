@@ -1,6 +1,6 @@
 # Good Kill
 
-[Compare across authors](../../compare/?t=film-good-kill_253626)
+[Compare across authors](../compare/index.md?t=film-good-kill_253626)
 
 ## DTS-HD MA 5.1
 

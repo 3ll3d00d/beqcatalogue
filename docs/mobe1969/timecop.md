@@ -1,6 +1,6 @@
 # Timecop
 
-[Compare across authors](../../compare/?t=film-timecop_8831)
+[Compare across authors](../compare/index.md?t=film-timecop_8831)
 
 ## DTS-HD MA 5.1
 

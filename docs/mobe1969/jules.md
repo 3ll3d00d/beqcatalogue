@@ -1,6 +1,6 @@
 # Jules
 
-[Compare across authors](../../compare/?t=film-jules_1072371)
+[Compare across authors](../compare/index.md?t=film-jules_1072371)
 
 ## DD+ 5.1
 

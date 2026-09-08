@@ -1,6 +1,6 @@
 # 15 Minutes of War
 
-[Compare across authors](../../compare/?t=film-15-minutes-of-war_484638)
+[Compare across authors](../compare/index.md?t=film-15-minutes-of-war_484638)
 
 ## DD+ 5.1
 

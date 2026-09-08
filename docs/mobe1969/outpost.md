@@ -1,6 +1,6 @@
 # Outpost
 
-[Compare across authors](../../compare/?t=film-outpost_9017)
+[Compare across authors](../compare/index.md?t=film-outpost_9017)
 
 ## DD 5.1
 

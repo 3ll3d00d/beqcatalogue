@@ -1,6 +1,6 @@
 # Spectral
 
-[Compare across authors](../../compare/?t=film-spectral_324670)
+[Compare across authors](../compare/index.md?t=film-spectral_324670)
 
 ## DD+ 5.1
 

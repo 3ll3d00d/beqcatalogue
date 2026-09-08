@@ -1,6 +1,6 @@
 # Shaun of the Dead
 
-[Compare across authors](../../compare/?t=film-shaun-of-the-dead_747)
+[Compare across authors](../compare/index.md?t=film-shaun-of-the-dead_747)
 
 ## DTS-X
 

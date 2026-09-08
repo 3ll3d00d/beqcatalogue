@@ -1,6 +1,6 @@
 # Backdraft 2
 
-[Compare across authors](../../compare/?t=film-backdraft-2_587808)
+[Compare across authors](../compare/index.md?t=film-backdraft-2_587808)
 
 ## DTS-HD MA 5.1
 

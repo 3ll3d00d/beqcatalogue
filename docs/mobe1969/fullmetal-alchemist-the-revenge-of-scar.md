@@ -1,6 +1,6 @@
 # Fullmetal Alchemist The Revenge of Scar
 
-[Compare across authors](../../compare/?t=film-fullmetal-alchemist-the-revenge-of-scar_960700)
+[Compare across authors](../compare/index.md?t=film-fullmetal-alchemist-the-revenge-of-scar_960700)
 
 ## DD+ 5.1
 

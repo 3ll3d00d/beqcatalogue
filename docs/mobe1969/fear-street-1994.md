@@ -1,6 +1,6 @@
 # Fear Street: 1994
 
-[Compare across authors](../../compare/?t=film-fear-street-1994_591273)
+[Compare across authors](../compare/index.md?t=film-fear-street-1994_591273)
 
 ## DD+ Atmos
 

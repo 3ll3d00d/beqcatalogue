@@ -1,6 +1,6 @@
 # Animas
 
-[Compare across authors](../../compare/?t=film-animas_484436)
+[Compare across authors](../compare/index.md?t=film-animas_484436)
 
 ## DD+ 5.1
 

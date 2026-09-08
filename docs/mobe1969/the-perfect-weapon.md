@@ -1,6 +1,6 @@
 # The Perfect Weapon
 
-[Compare across authors](../../compare/?t=film-the-perfect-weapon_416149)
+[Compare across authors](../compare/index.md?t=film-the-perfect-weapon_416149)
 
 ## DD+ 5.1
 

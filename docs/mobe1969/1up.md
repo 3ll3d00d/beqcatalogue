@@ -1,6 +1,6 @@
 # 1UP
 
-[Compare across authors](../../compare/?t=film-1up_767401)
+[Compare across authors](../compare/index.md?t=film-1up_767401)
 
 ## DD+ 5.1
 

@@ -1,6 +1,6 @@
 # The Missing Lynx
 
-[Compare across authors](../../compare/?t=film-the-missing-lynx_29192)
+[Compare across authors](../compare/index.md?t=film-the-missing-lynx_29192)
 
 ## DTS-HD MA 5.1
 

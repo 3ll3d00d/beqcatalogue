@@ -1,6 +1,6 @@
 # RRR
 
-[Compare across authors](../../compare/?t=film-rrr_579974)
+[Compare across authors](../compare/index.md?t=film-rrr_579974)
 
 ## DD+ Atmos
 

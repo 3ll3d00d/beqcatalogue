@@ -1,6 +1,6 @@
 # Independence Day: Resurgence
 
-[Compare across authors](../../compare/?t=film-independence-day-resurgence_47933)
+[Compare across authors](../compare/index.md?t=film-independence-day-resurgence_47933)
 
 ## Atmos
 

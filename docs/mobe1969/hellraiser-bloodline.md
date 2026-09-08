@@ -1,6 +1,6 @@
 # Hellraiser: Bloodline
 
-[Compare across authors](../../compare/?t=film-hellraiser-bloodline_8766)
+[Compare across authors](../compare/index.md?t=film-hellraiser-bloodline_8766)
 
 ## DD 5.1
 

@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-american-horror-story_1413)
+* [Compare across authors](../compare/index.md?t=TV-american-horror-story_1413)
 
 * Production Year: 2011
 

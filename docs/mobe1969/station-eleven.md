@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-station-eleven_90972)
+[Compare across authors](../compare/index.md?t=TV-station-eleven_90972)
 
 ## Season 1
 

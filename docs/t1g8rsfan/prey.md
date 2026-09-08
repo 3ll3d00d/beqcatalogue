@@ -9,7 +9,7 @@ When danger threatens her camp, the fierce and highly skilled Comanche warrior N
 
 **MV Adjustment:** +1.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62851286)  [TMDB](https://www.themoviedb.org/movie/766507)  [Compare across authors](../../compare/?t=film-prey_766507)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62851286)  [TMDB](https://www.themoviedb.org/movie/766507)  [Compare across authors](../compare/index.md?t=film-prey_766507)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Prey%20(2022)%20(%2B1.5%20gain)%20Atmos.jpg)
@@ -25,7 +25,7 @@ When danger threatens her camp, the fierce and highly skilled Comanche warrior N
 
 **MV Adjustment:** -3.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62851286)  [TMDB](https://www.themoviedb.org/movie/766507)  [Compare across authors](../../compare/?t=film-prey_766507)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62851286)  [TMDB](https://www.themoviedb.org/movie/766507)  [Compare across authors](../compare/index.md?t=film-prey_766507)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/main/Images/Prey%20(2022)%20(-3.5%20gain)%20DTS-HD%20MA%207.1.jpg)

@@ -1,6 +1,6 @@
 # Healing
 
-[Compare across authors](../../compare/?t=film-healing_254143)
+[Compare across authors](../compare/index.md?t=film-healing_254143)
 
 ## DD+ 5.1
 

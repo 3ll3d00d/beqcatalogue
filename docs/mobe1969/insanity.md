@@ -1,6 +1,6 @@
 # Insanity
 
-[Compare across authors](../../compare/?t=film-insanity_334930)
+[Compare across authors](../compare/index.md?t=film-insanity_334930)
 
 ## TrueHD 5.1
 

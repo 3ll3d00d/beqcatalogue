@@ -1,6 +1,6 @@
 # Avengers: Infinity War
 
-[Compare across authors](../../compare/?t=film-avengers-infinity-war_299536)
+[Compare across authors](../compare/index.md?t=film-avengers-infinity-war_299536)
 
 ## Atmos
 

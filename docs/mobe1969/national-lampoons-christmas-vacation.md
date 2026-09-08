@@ -1,6 +1,6 @@
 # National Lampoon's Christmas Vacation
 
-[Compare across authors](../../compare/?t=film-national-lampoons-christmas-vacation_5825)
+[Compare across authors](../compare/index.md?t=film-national-lampoons-christmas-vacation_5825)
 
 ## DTS-HD MA 5.1
 

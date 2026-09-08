@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-night-sky_111894)
+[Compare across authors](../compare/index.md?t=TV-night-sky_111894)
 
 ## Season 1
 

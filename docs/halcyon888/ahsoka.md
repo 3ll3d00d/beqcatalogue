@@ -14,7 +14,7 @@ Dialnorm Compensation: E01-E04 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62770042)
 
-* [Compare across authors](../../compare/?t=TV-ahsoka_114461)
+* [Compare across authors](../compare/index.md?t=TV-ahsoka_114461)
 
 * Production Year: 2023
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: E05, E07 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62770042)
 
-* [Compare across authors](../../compare/?t=TV-ahsoka_114461)
+* [Compare across authors](../compare/index.md?t=TV-ahsoka_114461)
 
 * Production Year: 2023
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: E06 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62770042)
 
-* [Compare across authors](../../compare/?t=TV-ahsoka_114461)
+* [Compare across authors](../compare/index.md?t=TV-ahsoka_114461)
 
 * Production Year: 2023
 
@@ -80,7 +80,7 @@ Dialnorm Compensation: E08 +4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62770042)
 
-* [Compare across authors](../../compare/?t=TV-ahsoka_114461)
+* [Compare across authors](../compare/index.md?t=TV-ahsoka_114461)
 
 * Production Year: 2023
 

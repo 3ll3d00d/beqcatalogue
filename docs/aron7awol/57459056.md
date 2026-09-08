@@ -1,6 +1,6 @@
 # The Polar Express
 
-[Compare across authors](../../compare/?t=film-the-polar-express_5255)
+[Compare across authors](../compare/index.md?t=film-the-polar-express_5255)
 
 ## DTS-HD MA 5.1
 

@@ -1,6 +1,6 @@
 # War Machine
 
-[Compare across authors](../../compare/?t=film-war-machine_354287)
+[Compare across authors](../compare/index.md?t=film-war-machine_354287)
 
 ## DD+ 5.1
 

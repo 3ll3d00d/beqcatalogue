@@ -1,6 +1,6 @@
 # Super Speedway
 
-[Compare across authors](../../compare/?t=film-super-speedway_21749)
+[Compare across authors](../compare/index.md?t=film-super-speedway_21749)
 
 ## DTS-HD MA 5.1
 

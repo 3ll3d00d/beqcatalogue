@@ -1,6 +1,6 @@
 # The Assault
 
-[Compare across authors](../../compare/?t=film-the-assault_59145)
+[Compare across authors](../compare/index.md?t=film-the-assault_59145)
 
 ## DTS-HD MA 5.1
 

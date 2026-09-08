@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../../compare/?t=TV-sanctuary_210269)
+[Compare across authors](../compare/index.md?t=TV-sanctuary_210269)
 
 ## Season 1
 

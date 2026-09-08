@@ -1,6 +1,6 @@
 # The Adventurers
 
-[Compare across authors](../../compare/?t=film-the-adventurers_452551)
+[Compare across authors](../compare/index.md?t=film-the-adventurers_452551)
 
 ## DTS-X
 

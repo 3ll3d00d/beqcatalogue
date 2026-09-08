@@ -1,6 +1,6 @@
 # Happy Death Day 2U
 
-[Compare across authors](../../compare/?t=film-happy-death-day-2u_512196)
+[Compare across authors](../compare/index.md?t=film-happy-death-day-2u_512196)
 
 ## DTS-HD MA 5.1
 

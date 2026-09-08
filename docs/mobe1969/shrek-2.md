@@ -1,6 +1,6 @@
 # Shrek 2
 
-[Compare across authors](../../compare/?t=film-shrek-2_809)
+[Compare across authors](../compare/index.md?t=film-shrek-2_809)
 
 ## DTS-X
 

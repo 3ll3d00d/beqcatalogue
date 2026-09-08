@@ -1,6 +1,6 @@
 # Con Air
 
-[Compare across authors](../../compare/?t=film-con-air_1701)
+[Compare across authors](../compare/index.md?t=film-con-air_1701)
 
 ## LPCM 5.1, DD+ 5.1, DD 5.1
 
