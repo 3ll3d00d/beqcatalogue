@@ -7,7 +7,7 @@
 * DD+ Atmos
 
 
-* [Compare across authors](../../compare/?t=TV-his-hers_259731)
+* [Compare across authors](../compare/index.md?t=TV-his-hers_259731)
 
 * Production Year: 2026
 

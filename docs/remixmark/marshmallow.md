@@ -9,7 +9,7 @@ At a secluded summer camp, timid and introverted 12-year-old Morgan is thrust in
 
 **MV Adjustment:** +0.5 dB
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774?post_id=64824297#post-64824297)  [TMDB](https://www.themoviedb.org/movie/1134048)  [Compare across authors](../../compare/?t=film-marshmallow_1134048)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774?post_id=64824297#post-64824297)  [TMDB](https://www.themoviedb.org/movie/1134048)  [Compare across authors](../compare/index.md?t=film-marshmallow_1134048)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Marshmallow%20(2025)%20(%2B.5%20gain)%20DTS-HD%20MA%205.1.jpg)

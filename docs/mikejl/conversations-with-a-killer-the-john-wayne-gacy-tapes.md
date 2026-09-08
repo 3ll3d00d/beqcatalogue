@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-conversations-with-a-killer-the-john-wayne-gacy-tapes_197248)
+* [Compare across authors](../compare/index.md?t=TV-conversations-with-a-killer-the-john-wayne-gacy-tapes_197248)
 
 * Production Year: 2022
 

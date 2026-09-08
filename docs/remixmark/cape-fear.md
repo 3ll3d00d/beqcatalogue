@@ -14,7 +14,7 @@ Dialnorm Compensation: 5dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774#post-64824593)
 
-* [Compare across authors](../../compare/?t=TV-cape-fear_277439)
+* [Compare across authors](../compare/index.md?t=TV-cape-fear_277439)
 
 * Production Year: 2026
 
@@ -36,7 +36,7 @@ Dialnorm Compensation: 3dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774#post-64824615)
 
-* [Compare across authors](../../compare/?t=TV-cape-fear_277439)
+* [Compare across authors](../compare/index.md?t=TV-cape-fear_277439)
 
 * Production Year: 2026
 
@@ -58,7 +58,7 @@ Dialnorm Compensation: 3dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774#post-64824627)
 
-* [Compare across authors](../../compare/?t=TV-cape-fear_277439)
+* [Compare across authors](../compare/index.md?t=TV-cape-fear_277439)
 
 * Production Year: 2026
 
@@ -80,7 +80,7 @@ Dialnorm Compensation: 4dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774#post-64824667)
 
-* [Compare across authors](../../compare/?t=TV-cape-fear_277439)
+* [Compare across authors](../compare/index.md?t=TV-cape-fear_277439)
 
 * Production Year: 2026
 
@@ -102,7 +102,7 @@ Dialnorm Compensation: 3dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774#post-64824673)
 
-* [Compare across authors](../../compare/?t=TV-cape-fear_277439)
+* [Compare across authors](../compare/index.md?t=TV-cape-fear_277439)
 
 * Production Year: 2026
 
@@ -124,7 +124,7 @@ Dialnorm Compensation: 4dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774#post-64824675)
 
-* [Compare across authors](../../compare/?t=TV-cape-fear_277439)
+* [Compare across authors](../compare/index.md?t=TV-cape-fear_277439)
 
 * Production Year: 2026
 

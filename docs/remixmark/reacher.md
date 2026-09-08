@@ -165,7 +165,7 @@ Dialnorm Compensation: 6dB AI Created
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774#post-64824405)
 
-* [Compare across authors](../../compare/?t=TV-reacher_108978)
+* [Compare across authors](../compare/index.md?t=TV-reacher_108978)
 
 * Production Year: 2022
 

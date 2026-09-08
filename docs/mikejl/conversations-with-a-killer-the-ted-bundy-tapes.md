@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-conversations-with-a-killer-the-ted-bundy-tapes_85833)
+* [Compare across authors](../compare/index.md?t=TV-conversations-with-a-killer-the-ted-bundy-tapes_85833)
 
 * Production Year: 2019
 

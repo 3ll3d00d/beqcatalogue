@@ -31,7 +31,7 @@ Grappling with his past after a life of crime and murder, Robin Hood finds himse
 AI Created
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774#post-64824541)  [TMDB](https://www.themoviedb.org/movie/1284465)  [Compare across authors](../../compare/?t=film-the-death-of-robin-hood_1284465)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774#post-64824541)  [TMDB](https://www.themoviedb.org/movie/1284465)  [Compare across authors](../compare/index.md?t=film-the-death-of-robin-hood_1284465)
 { data-search-exclude }
 
 ![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Death%20of%20Robin%20Hood%20%282026%29%20%28%2B5.0%20gain%29%20DTS-HD%20MA%205.1.jpg)

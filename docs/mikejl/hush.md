@@ -7,7 +7,7 @@
 A deaf woman is stalked by a psychotic killer in her secluded home.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/376570)  [Compare across authors](../../compare/?t=film-hush_376570)
+[TMDB](https://www.themoviedb.org/movie/376570)  [Compare across authors](../compare/index.md?t=film-hush_376570)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hush/Hush%20(2016)%20Atmos.jpg)

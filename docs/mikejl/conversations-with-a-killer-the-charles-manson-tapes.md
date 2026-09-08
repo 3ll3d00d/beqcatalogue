@@ -7,7 +7,7 @@
 * DD+
 
 
-* [Compare across authors](../../compare/?t=TV-conversations-with-a-killer-the-charles-manson-tapes_330320)
+* [Compare across authors](../compare/index.md?t=TV-conversations-with-a-killer-the-charles-manson-tapes_330320)
 
 * Production Year: 2026
 

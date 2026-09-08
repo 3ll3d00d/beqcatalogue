@@ -12,7 +12,7 @@ Teenage Moana answers the Ocean's call and, for the first time, voyages beyond t
 Dialnorm Compensation: 4dB AI Created
 { data-search-exclude }
 
-[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774#post-64824399)  [TMDB](https://www.themoviedb.org/movie/1108427)  [Compare across authors](../../compare/?t=film-moana_1108427)
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1774#post-64824399)  [TMDB](https://www.themoviedb.org/movie/1108427)  [Compare across authors](../compare/index.md?t=film-moana_1108427)
 { data-search-exclude }
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Moana%20%282026%29%20%28%2B3.0%20gain%29%20DD%2B%20Atmos.jpg)
