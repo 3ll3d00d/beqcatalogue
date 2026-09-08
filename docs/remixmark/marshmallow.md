@@ -1,6 +1,6 @@
 # Marshmallow
 
-## DTS-HD MA 6.1
+## DTS-HD MA 5.1
 
 **2025 • NR • 1h 33m • Horror, Science Fiction • remixmark**
 
