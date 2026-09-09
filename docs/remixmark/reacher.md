@@ -175,3 +175,25 @@ Dialnorm Compensation: 6dB AI Created
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Reacher%20%282022%29%20%28Season%20S04E06%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 04E07
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +6.0 dB
+
+Dialnorm Compensation: 5dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1776#post-64827649)
+
+* [Compare across authors](../compare/index.md?t=TV-reacher_108978)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Reacher%20%282022%29%20%28Season%20S04E07%29%20%28%2B6.0%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Reacher%20%282022%29%20%28Season%20S04E07%29%20%28%2B6.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
