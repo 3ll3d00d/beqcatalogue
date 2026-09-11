@@ -169,6 +169,28 @@ Dialnorm Compensation: 5dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20(2024)%20-%20S02E01%20(%2B2.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 02E01
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +2.5 dB
+
+Dialnorm Compensation: 5dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1777#post-64834805)
+
+* [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
+
+* Production Year: 2024
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20%282024%29%20%28Season%20S02E01%29%20%28%2B2.5%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20%282024%29%20%28Season%20S02E01%29%20%28%2B2.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
 ## Season 02E02
 
 * DD+ Atmos
@@ -190,4 +212,26 @@ Dialnorm Compensation: 3dB AI Created
 
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20%282024%29%20%28Season%20S02E02%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 02E03
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +3.0 dB
+
+Dialnorm Compensation: 5dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1777#post-64834801)
+
+* [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
+
+* Production Year: 2024
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20%282024%29%20%28Season%20S02E03%29%20%28%2B3.0%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20%282024%29%20%28Season%20S02E03%29%20%28%2B3.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
