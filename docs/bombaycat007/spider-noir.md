@@ -1,6 +1,6 @@
 # Spider-Noir
 
-## DD+
+## AAC 2.0
 
 The Baliscon Cut
 
