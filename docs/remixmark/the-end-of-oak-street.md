@@ -19,3 +19,22 @@ Dialnorm Compensation: 5dB
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20End%20of%20Oak%20Street%20(2026)%20(%2B3.5%20gain)%20Peak%20Spectrum.jpg)
 
+## DD+ Atmos
+
+**2026 • PG-13 • 1h 40m • Science Fiction, Mystery, Thriller • remixmark**
+
+After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.
+{ data-search-exclude }
+
+**MV Adjustment:** +3.5 dB
+
+Dialnorm Compensation: 7dB AI Created
+{ data-search-exclude }
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64851705)  [TMDB](https://www.themoviedb.org/movie/1101383)  [Compare across authors](../compare/index.md?t=film-the-end-of-oak-street_1101383)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20End%20of%20Oak%20Street%20%282026%29%20%28%2B3.5%20gain%29%20DD%2B%20Atmos.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20End%20of%20Oak%20Street%20%282026%29%20%28%2B3.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
