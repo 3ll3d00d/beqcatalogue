@@ -138,3 +138,25 @@ Dialnorm Compensation: 5dB
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20(1997)%20-%20S28E03%20(%2B4%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## Season 29E01
+
+* DD+ 5.1
+
+
+**MV Adjustment:** +5.5 dB
+
+Dialnorm Compensation: 6dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64852599)
+
+* [Compare across authors](../compare/index.md?t=TV-south-park_2190)
+
+* Production Year: 1997
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20%281997%29%20%28Season%20S29E01%29%20%28%2B5.5%20gain%29%20DD%2B%205.1.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20%281997%29%20%28Season%20S29E01%29%20%28%2B5.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
+
