@@ -16,3 +16,17 @@
 
 ![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Stranger%20Things%20Tales%20From%2085%20S1%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
 
+## Season 2
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +2.0 dB
+
+* [Compare across authors](../compare/index.md?t=TV-stranger-things-tales-from-85_224263)
+
+* Production Year: 2026
+
+
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Stranger%20Things%20Tales%20From%2085%20S2%20(%2B2%20gain)%20DD%2B%20Atmos.jpg)
+
