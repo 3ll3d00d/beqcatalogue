@@ -1,6 +1,6 @@
 # The Sheep Detectives
 
-## DD+ Atmos
+## Atmos
 
 **2026 • PG • 1h 49m • Comedy, Family, Mystery • remixmark**
 
