@@ -19,3 +19,22 @@ Dialnorm Compensation: 5dB
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Batman%20Knightfall%20Part%201%20(2026)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+**2026 • R • 1h 19m • Animation, Action, Adventure, Science Fiction • remixmark**
+
+Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!
+{ data-search-exclude }
+
+**MV Adjustment:** +2.0 dB
+
+AI Created
+{ data-search-exclude }
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1781#post-64861525)  [TMDB](https://www.themoviedb.org/movie/1560520)  [Compare across authors](../compare/index.md?t=film-batman-knightfall-part-1-knightfall_1560520)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Batman%20-%20Knightfall%20Part%201%20-%20Knightfall%20%282026%29%20%28%2B2.0%20gain%29%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Batman%20-%20Knightfall%20Part%201%20-%20Knightfall%20%282026%29%20%28%2B2.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
