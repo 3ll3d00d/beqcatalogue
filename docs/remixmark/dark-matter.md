@@ -223,7 +223,7 @@ Dialnorm Compensation: 5dB AI Created
 Dialnorm Compensation: 5dB AI Created
 { data-search-exclude }
 
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64855117)
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1782#post-64865397)
 
 * [Compare across authors](../compare/index.md?t=TV-dark-matter_196322)
 
