@@ -44,6 +44,7 @@ markdown_extensions:
   - attr_list
   - tables
 nav:
+  - Filter Record Contract: filter-record-contract.md
   - Compare: compare/index.md
   - aron7awol: aron7awol.md
   - mobe1969: mobe1969.md

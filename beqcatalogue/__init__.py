@@ -19,6 +19,10 @@ from iir import xml_to_filt
 
 TWO_WEEKS_AGO = time.time() - (2 * 7 * 24 * 60 * 60)
 
+# Filled by the build entry point; kept module-level because the legacy XML
+# page generators still call ``add_to_catalogue`` indirectly.
+source_record_times = {}
+
 
 def cleanse_audio_types(audio_types: list[str]) -> list[str]:
     def replace(audio_type: str) -> str:
@@ -196,6 +200,44 @@ def extract_from_repo(path1: str, path2: str, content_type: str, author: str):
     return elements
 
 
+def extract_filter_records(path: str, author: str):
+    '''Read BEQDesigner version-1 source records without going through XML.
+
+    ``database.json`` is a convenience cache, so it is intentionally skipped:
+    every individual record is the source of truth.  The returned metadata
+    uses the existing page-generation shape, which keeps XML and JSON inputs
+    on the same catalogue path.
+    '''
+    import glob
+    elements = []
+    for filename in sorted(glob.glob(f"{path}/**/*.json", recursive=True)):
+        if os.path.basename(filename) == 'database.json':
+            continue
+        try:
+            with open(filename, encoding='utf-8') as handle:
+                record = json.load(handle)
+            required = ('title', 'year', 'audioTypes', 'content_type', 'filters', 'mv', 'digest', 'created_at',
+                        'updated_at')
+            if not isinstance(record, dict) or any(key not in record for key in required):
+                raise ValueError('not a version-1 filter record')
+            git_path = os.path.relpath(filename, path).replace(os.sep, '/')
+            file_name = os.path.splitext(os.path.basename(filename))[0]
+            images = record.get('images', [])
+            meta = {**record, 'repo_file': filename, 'git_path': git_path, 'file_name': file_name,
+                    'file_path': os.path.dirname(git_path), 'audioType': record['audioTypes'],
+                    'jsonfilters': record['filters'], 'gain': record['mv'],
+                    'filters': '^'.join(str(f) for f in record['filters'])}
+            meta['pvaURL'] = images[0] if images else ''
+            meta['spectrumURL'] = images[1] if len(images) > 1 else meta['pvaURL']
+            meta['genres'] = [g.get('name', '') if isinstance(g, dict) else g for g in meta.get('genres', [])]
+            source_record_times[(author, git_path)] = (record['created_at'], record['updated_at'])
+            elements.append(meta)
+        except Exception as error:
+            print(f"Unexpected error while reading filter record {filename}: {error}")
+            error_files[author].append(f'{filename}|{error}')
+    return elements
+
+
 def get_title_suffix(meta):
     suffix = meta.get('theMovieDB', None)
     if not suffix:
@@ -283,6 +325,11 @@ def group_film_content(author, content_meta):
 
 def add_to_catalogue(entry: dict, path: str, author: str):
     entry['digest'] = digest(entry)
+    source_times = source_record_times.get((author, path))
+    if source_times is not None:
+        entry['created_at'], entry['updated_at'] = source_times
+        json_catalogue.append(entry)
+        return
     t = times.get(author, [])
     if path in t:
         entry['created_at'] = t[path][0]
@@ -884,8 +931,14 @@ if __name__ == '__main__':
         ('bombaycat007', '.input/bombaycat007/miniDSPBEQ/', 'Movie BEQs', 'TV BEQS')
     ]
 
-    all_authors = [a[0] for a in repo_configs]
+    # Optional local clones containing version-1 per-title JSON records.
+    # Add (author, path) here when a producer repo is onboarded; its records
+    # then take the same page/database generation path as legacy XML input.
+    record_repo_configs = []
+
+    all_authors = [a[0] for a in repo_configs] + [a[0] for a in record_repo_configs]
     times = {a: load_times(a) for a in all_authors}
+    source_record_times = {}
     error_files = {a: [] for a in all_authors}
     film_data = {}
     tv_data = {}
@@ -899,6 +952,12 @@ if __name__ == '__main__':
         except:
             print(f"Failed to extract for {author}")
             traceback.print_exc()
+
+    for author, repo_path in record_repo_configs:
+        records = extract_filter_records(repo_path, author)
+        film_data[author] = [r for r in records if r['content_type'] == 'film']
+        tv_data[author] = [r for r in records if r['content_type'] == 'TV']
+        print(f"Extracted {len(records)} {author} JSON filter records")
 
     retained_rows = retrieve_retained_rows(['aron7awol', 'mobe1969'])
     json_catalogue = retrieve_retained_catalogue(['aron7awol', 'mobe1969'])
