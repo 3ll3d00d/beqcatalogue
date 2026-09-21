@@ -1,6 +1,6 @@
 # Batman: Knightfall Part 1: Knightfall
 
-## DD+
+## DTS-HD MA 5.1, DD+
 
 **2026 • R • 1h 19m • Animation, Action, Adventure, Science Fiction, Crime, Drama • t1g8rsfan**
 
@@ -9,13 +9,13 @@ Arkham Asylum has been destroyed, and all its inmates have been unleashed upon G
 
 **MV Adjustment:** +2.0 dB
 
-+5dB Dialnorm Compensation
++5dB Dialnorm Compensation - DD+
 { data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/1560520)  [Compare across authors](../compare/index.md?t=film-batman-knightfall-part-1-knightfall_1560520)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Batman%20Knightfall%20Pt%201%20(2026)%20(%2B2%20gain)%20DD%2B.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Batman%20Knightfall%20Pt%201%20(2026)%20(%2B2%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Batman%20Knightfall%20Pt%201%20(2026)%20DD%2B.jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Batman%20Knightfall%20Pt%201%20(2026)%20DTS-HD%20MA%205.1.jpg)
 
