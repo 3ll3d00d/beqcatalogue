@@ -120,7 +120,7 @@ Dialnorm Compensation: 4dB
 
 * [Compare across authors](../compare/index.md?t=TV-loki_84958)
 
-* Production Year: 202
+* Production Year: 2021
 
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Loki%20-%20S02E06%20(%2B2%20gain)%20Atmos.jpg)

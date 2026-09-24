@@ -2,7 +2,7 @@
 
 ## Atmos
 
-**202 • R • 1h 50m • Horror, Mystery • remixmark**
+**2025 • R • 1h 50m • Horror, Mystery • remixmark**
 
 Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.
 { data-search-exclude }

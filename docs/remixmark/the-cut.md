@@ -2,7 +2,7 @@
 
 ## DD+
 
-**202 • 1h 39m • Thriller, Drama • remixmark**
+**2025 • 1h 39m • Thriller, Drama • remixmark**
 
 A retired boxer intends to return to the ring for one last shot at the title, but first he must make the weight. Holed up in a room in Las Vegas with an unscrupulous trainer, he embarks on an intensive and illegal weight-cutting program.
 { data-search-exclude }
