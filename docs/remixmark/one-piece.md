@@ -87,3 +87,113 @@ Dialnorm Compensation: 4dB AI Created
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/ONE%20PIECE%20%282023%29%20%28Season%20S02E03%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 02E04
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +5.0 dB
+
+Dialnorm Compensation: 5dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1783#post-64872541)
+
+* [Compare across authors](../compare/index.md?t=TV-one-piece_111110)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/ONE%20PIECE%20%282023%29%20%28Season%20S02E04%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/ONE%20PIECE%20%282023%29%20%28Season%20S02E04%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 02E05
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +4.0 dB
+
+Dialnorm Compensation: 5dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1783#post-64872555)
+
+* [Compare across authors](../compare/index.md?t=TV-one-piece_111110)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/ONE%20PIECE%20%282023%29%20%28Season%20S02E05%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/ONE%20PIECE%20%282023%29%20%28Season%20S02E05%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 02E06
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +5.0 dB
+
+Dialnorm Compensation: 4dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1783#post-64872559)
+
+* [Compare across authors](../compare/index.md?t=TV-one-piece_111110)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/ONE%20PIECE%20%282023%29%20%28Season%20S02E06%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/ONE%20PIECE%20%282023%29%20%28Season%20S02E06%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 02E07
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +6.0 dB
+
+Dialnorm Compensation: 4dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1783#post-64872567)
+
+* [Compare across authors](../compare/index.md?t=TV-one-piece_111110)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/ONE%20PIECE%20%282023%29%20%28Season%20S02E07%29%20%28%2B6.0%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/ONE%20PIECE%20%282023%29%20%28Season%20S02E07%29%20%28%2B6.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 02E08
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +4.0 dB
+
+Dialnorm Compensation: 4dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1783#post-64872571)
+
+* [Compare across authors](../compare/index.md?t=TV-one-piece_111110)
+
+* Production Year: 2023
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/ONE%20PIECE%20%282023%29%20%28Season%20S02E08%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/ONE%20PIECE%20%282023%29%20%28Season%20S02E08%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
