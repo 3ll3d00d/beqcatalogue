@@ -19,6 +19,9 @@ from iir import xml_to_filt
 
 TWO_WEEKS_AGO = time.time() - (2 * 7 * 24 * 60 * 60)
 
+# BEQDesigner version-1 records from the 3ll3d00d filter repository.
+RECORD_REPO_CONFIGS = [('3ll3d00d', '.input/3ll3d00d/beqfilters')]
+
 # Filled by the build entry point; kept module-level because the legacy XML
 # page generators still call ``add_to_catalogue`` indirectly.
 source_record_times = {}
@@ -944,10 +947,8 @@ if __name__ == '__main__':
         ('bombaycat007', '.input/bombaycat007/miniDSPBEQ/', 'Movie BEQs', 'TV BEQS')
     ]
 
-    # Optional local clones containing version-1 per-title JSON records.
-    # Add (author, path) here when a producer repo is onboarded; its records
-    # then take the same page/database generation path as legacy XML input.
-    record_repo_configs = []
+    # Per-title JSON records use the same page/database generation path as XML inputs.
+    record_repo_configs = RECORD_REPO_CONFIGS
 
     all_authors = [a[0] for a in repo_configs] + [a[0] for a in record_repo_configs]
     times = {a: load_times(a) for a in all_authors}

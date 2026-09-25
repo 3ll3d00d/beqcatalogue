@@ -61,3 +61,5 @@ do
   popd || exit
   echo "Processed ${authors[${i}]}"
 done
+
+./update_record_input.sh

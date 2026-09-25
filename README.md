@@ -25,3 +25,12 @@ first.csv generated (v slowly) using
 last.csv generated using
 
     git ls-files -z | xargs -0 -n1 -I{} -- git log -1 --format="\"{}\",%at" {} | sort
+
+## BEQDesigner JSON filter records
+
+The catalogue build fetches `3ll3d00d/beqfilters` into
+`.input/3ll3d00d/beqfilters` through `update_record_input.sh` and reads its
+individual version-1 JSON records under author `3ll3d00d`. The producer's
+`database.json` is a derived cache and is skipped. `3ll3d00d/beqimgs` is the
+separate image repository; source records carry image URLs, so this build does
+not clone the image repository.
