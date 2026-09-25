@@ -200,6 +200,18 @@ def extract_from_repo(path1: str, path2: str, content_type: str, author: str):
     return elements
 
 
+def finalise_catalogue_entry(entry: dict) -> None:
+    '''Add the derived fields written to the public database.json.'''
+    audio_types = cleanse_audio_types(entry['audioTypes'])
+    entry['audioTypes'] = audio_types
+    if audio_types:
+        codec_channels = [parse_audio_format(at) for at in audio_types]
+        entry['audioCodecs'] = [a[0] for a in codec_channels]
+        entry['audioChannelCounts'] = [a[1] for a in codec_channels]
+    entry.pop('audioCodec', None)
+    entry['filterAuthor'] = get_filter_author(entry.get('note', ''))
+
+
 def extract_filter_records(path: str, author: str):
     '''Read BEQDesigner version-1 source records without going through XML.
 
@@ -224,7 +236,8 @@ def extract_filter_records(path: str, author: str):
             file_name = os.path.splitext(os.path.basename(filename))[0]
             images = record.get('images', [])
             meta = {**record, 'repo_file': filename, 'git_path': git_path, 'file_name': file_name,
-                    'file_path': os.path.dirname(git_path), 'audioType': record['audioTypes'],
+                    'file_path': os.path.dirname(git_path), 'page_title': record['title'].casefold(),
+                    'audioType': record['audioTypes'],
                     'jsonfilters': record['filters'], 'gain': record['mv'],
                     'filters': '^'.join(str(f) for f in record['filters'])}
             meta['pvaURL'] = images[0] if images else ''
@@ -1001,14 +1014,7 @@ if __name__ == '__main__':
                 print('', file=index_md)
 
     for entry in json_catalogue:
-        audio_types = cleanse_audio_types(entry['audioTypes'])
-        entry['audioTypes'] = audio_types
-        if audio_types:
-            codec_channels = [parse_audio_format(at) for at in audio_types]
-            entry['audioCodecs'] = [a[0] for a in codec_channels]
-            entry['audioChannelCounts'] = [a[1] for a in codec_channels]
-        entry.pop('audioCodec', None)
-        entry['filterAuthor'] = get_filter_author(entry.get('note', ''))
+        finalise_catalogue_entry(entry)
 
 
     detect_duplicate_hashes()
