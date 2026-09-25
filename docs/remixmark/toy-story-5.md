@@ -1,5 +1,24 @@
 # Toy Story 5
 
+## Atmos
+
+**2026 • PG • 1h 42m • Animation, Family, Comedy, Adventure • remixmark**
+
+When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.
+{ data-search-exclude }
+
+**MV Adjustment:** +7.0 dB
+
+Dialnorm Compensation: 4dB AI Created
+{ data-search-exclude }
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1784#post-64874673)  [TMDB](https://www.themoviedb.org/movie/1084244)  [Compare across authors](../compare/index.md?t=film-toy-story-5_1084244)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Toy%20Story%205%20%282026%29%20%28%2B7.0%20gain%29%20Atmos.jpg)
+
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Toy%20Story%205%20%282026%29%20%28%2B7.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg)
+
 ## DD+ Atmos
 
 **2026 • PG • 1h 42m • Animation, Family, Comedy, Adventure • remixmark**
@@ -15,7 +34,7 @@ Dialnorm Compensation: 4dB
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1765?post_id=64764303#post-64764303)  [TMDB](https://www.themoviedb.org/movie/1084244)  [Compare across authors](../compare/index.md?t=film-toy-story-5_1084244)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Toy%20Story%205%20(2026)%20(%2B6%20gain)%20DD%2B%20Atmos.jpg)
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Toy%20Story%205%20(2026)%20(%2B6%20gain)%20DD%2B%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Toy%20Story%205%20(2026)%20(%2B6%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Toy%20Story%205%20(2026)%20(%2B6%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
