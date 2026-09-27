@@ -19,3 +19,19 @@ Dialnorm Compensation: 6dB
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Invite%20(2026)%20(%2B5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## TrueHD 5.1
+
+**2026 • R • 1h 47m • Comedy, Drama, Romance • remixmark**
+
+Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?
+{ data-search-exclude }
+
+**MV Adjustment:** +5.5 dB
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1782#post-64871147)  [TMDB](https://www.themoviedb.org/movie/950028)  [Compare across authors](../compare/index.md?t=film-the-invite_950028)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Invite%20%282026%29%20%28%2B5.5%20gain%29%20TrueHD%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Invite%20%282026%29%20%28%2B5.5%20gain%29%20TrueHD%205.1%20Peak%20Spectrum.jpg)
+
