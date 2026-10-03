@@ -1,0 +1,19 @@
+# East of Eden
+
+* Author: mikejl
+
+## Season 01
+
+* DD+ Atmos
+
+
+* [Compare across authors](../compare/index.md?t=TV-east-of-eden_258165)
+
+* Production Year: 2026
+
+
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/E/East%20of%20Eden/East%20of%20Eden%20S01E01-07%20(2026)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/E/East%20of%20Eden/East%20of%20Eden%20S01E01-07%20(2026)%20DD%2B%20Atmoshm.jpg)
+
