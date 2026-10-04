@@ -14,3 +14,17 @@ In a climate change-ravaged world, a utopian society optimizes life, including p
 
 ![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Assessment/The%20Assessment%20(2025)%20DD%2B%205.1hm.jpg)
 
+## DTS-HD MA 5.1
+
+**2025 • R • 1h 54m • Science Fiction, Drama, Thriller • mikejl**
+
+In a climate change-ravaged world, a utopian society optimizes life, including parenthood assessments. A successful couple faces scrutiny by an evaluator over seven days to determine their fitness for childbearing.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/1317088)  [Compare across authors](../compare/index.md?t=film-the-assessment_1317088)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Assessment/The%20Assessment%20(2024)%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Assessment/The%20Assessment%20(2024)%20DTS-HD%20MA%205.1hm.jpg)
+
