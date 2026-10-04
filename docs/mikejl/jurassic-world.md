@@ -14,3 +14,17 @@ Twenty-two years after the events of Jurassic Park, Isla Nublar now features a f
 
 ![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jurassic%20World/Jurassic%20World%20(2015)%20Atmoshm.jpg)
 
+## DD+ Atmos
+
+**2015 • PG-13 • 2h 4m • Adventure, Science Fiction, Thriller • mikejl**
+
+Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/135397)  [Compare across authors](../compare/index.md?t=film-jurassic-world_135397)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jurassic%20World/Jurassic%20World%20(2015)%20DD%2B%20Atmos.jpg)
+
+![img 3](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jurassic%20World/Jurassic%20World%20(2015)%20DD%2B%20Atmoshm.jpg)
+
