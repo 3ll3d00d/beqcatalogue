@@ -1,2 +1,3 @@
 database.* -delta
 docs/database.* -delta
+docs/devices/*.json -delta

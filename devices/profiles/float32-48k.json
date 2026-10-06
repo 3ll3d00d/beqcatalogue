@@ -1,0 +1,11 @@
+{
+  "id": "float32-48k",
+  "label": "float32 @ 48 kHz",
+  "description": "Custom biquads stored as float32 at a 48 kHz internal DSP rate",
+  "rate": 48000,
+  "storage": {"type": "float32"},
+  "transport": {"type": "float32"},
+  "settings": {},
+  "revision": 1,
+  "enabled": true
+}
