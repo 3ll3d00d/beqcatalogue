@@ -50,7 +50,7 @@ Dialnorm Compensation: 5dB
 
 **MV Adjustment:** +5.5 dB
 
-Dialnorm Compensation: 5dB
+Dialnorm Compensation: 5dB AI Created
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800875#post-64800875)
@@ -72,7 +72,7 @@ Dialnorm Compensation: 5dB
 
 **MV Adjustment:** +6.0 dB
 
-Dialnorm Compensation: 6dB
+Dialnorm Compensation: 6dB AI Created
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800881#post-64800881)
@@ -94,7 +94,7 @@ Dialnorm Compensation: 6dB
 
 **MV Adjustment:** +6.0 dB
 
-Dialnorm Compensation: 6dB
+Dialnorm Compensation: 6dB AI Created
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800885#post-64800885)
@@ -116,7 +116,7 @@ Dialnorm Compensation: 6dB
 
 **MV Adjustment:** +5.0 dB
 
-Dialnorm Compensation: 5dB
+Dialnorm Compensation: 5dB AI Created
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800889#post-64800889)
@@ -138,7 +138,7 @@ Dialnorm Compensation: 5dB
 
 **MV Adjustment:** +4.0 dB
 
-Dialnorm Compensation: 5dB
+Dialnorm Compensation: 5dB AI Created
 { data-search-exclude }
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1769?post_id=64800895#post-64800895)

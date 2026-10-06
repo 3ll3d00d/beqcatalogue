@@ -9,7 +9,7 @@ A routine domestic flight turns into the flight from hell through a series of in
 
 **MV Adjustment:** +5.0 dB
 
-Dialnorm Compensation: 4dB
+Dialnorm Compensation: 4dB AI Created
 { data-search-exclude }
 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1768?post_id=64798145#post-64798145)  [TMDB](https://www.themoviedb.org/movie/1321008)  [Compare across authors](../compare/index.md?t=film-black-box_1321008)
