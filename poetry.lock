@@ -86,8 +86,10 @@ description = "Audio-derived BEQ design, published filter optimisation and DSP v
 optional = false
 python-versions = "<3.15,>=3.13"
 groups = ["optimiser"]
-files = []
-develop = false
+files = [
+    {file = "beqforge-0.1.0-py3-none-any.whl", hash = "sha256:5149bcb246ab55ce371d130742768bb0379d460f5698bd48cc8dddfcc1b2c3d0"},
+    {file = "beqforge-0.1.0.tar.gz", hash = "sha256:cd0deec2c1a7a6cdf523bae4e58d1ec3b891a4261534fceb602b9a43515f15af"},
+]
 
 [package.dependencies]
 numpy = ">=2.4.0"
@@ -98,12 +100,6 @@ all = ["matplotlib (>=3.10.8)", "pyfar (==0.8.1)", "scipy (>=1.16.3)", "sounddev
 designer = ["matplotlib (>=3.10.8)", "scipy (>=1.16.3)"]
 device-check = ["matplotlib (>=3.10.8)", "pyfar (==0.8.1)", "scipy (>=1.16.3)", "sounddevice (==0.5.6)", "websocket-client (==1.9.2)"]
 optimiser = ["scipy (>=1.16.3)"]
-
-[package.source]
-type = "git"
-url = "https://github.com/3ll3d00d/beqforge.git"
-reference = "53434815158240289b646365beb3bd9196070f6f"
-resolved_reference = "53434815158240289b646365beb3bd9196070f6f"
 
 [[package]]
 name = "cairocffi"
@@ -1861,4 +1857,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13, <3.14"
-content-hash = "41ee9b5baffc358b63531bef6c42793a88e8634f1597cab024c7e4d8b6b27b1e"
+content-hash = "f41f1058a487ff0c732554f5b812c4e11051e34c3705d334130cbb3d5a4c0147"
