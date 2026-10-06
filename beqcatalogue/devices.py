@@ -317,8 +317,9 @@ def update(root: Path, profile_id: str, budget_minutes: float | None = 45, worke
     device_entries = {d: b for d, b in device_entries.items() if d in live}
 
     pending = pending_digests(profile, live, ledger)
-    summary = {'profile': profile_id, 'pending': len(pending), 'pruned': pruned, 'evaluated': 0, 'cache_hits': 0,
-               'computed': 0, 'remaining': 0, 'errors': [], 'outcomes': {c: 0 for c in OUTCOME_CODES.values()}}
+    summary = {'profile': profile_id, 'label': profile['label'], 'pending': len(pending), 'pruned': pruned,
+               'evaluated': 0, 'cache_hits': 0, 'computed': 0, 'remaining': 0, 'errors': [],
+               'outcomes': {c: 0 for c in OUTCOME_CODES.values()}, 'changes': []}
     if pending:
         evaluator = evaluator or evaluate
         version = version or optimiser_version()
@@ -337,6 +338,14 @@ def update(root: Path, profile_id: str, budget_minutes: float | None = 45, worke
             ledger[digest] = {'outcome': r['outcome'], 'revision': profile['revision'],
                               'original_error_db': format_db(r['original_error_db']),
                               'candidate_error_db': format_db(r['candidate_error_db']), 'version': r['version']}
+            entry = by_digest[digest]
+            summary['changes'].append({
+                'digest': digest, 'title': entry.get('title', ''), 'year': entry.get('year', ''),
+                'author': entry.get('author', ''), 'audioTypes': entry.get('audioTypes', []),
+                'outcome': r['outcome'], 'original_error_db': ledger[digest]['original_error_db'],
+                'candidate_error_db': ledger[digest]['candidate_error_db'],
+                'was_published': digest in device_entries,
+            })
             if r['outcome'] == 'R':
                 device_entries[digest] = r['biquads']
             else:
@@ -521,7 +530,12 @@ def bootstrap(root: Path, workers: int, cache_dir: str | None, use_cache: bool, 
 # ---------------------------------------------------------------------------------------------
 # cli
 
-def report(summary: dict):
+OUTCOME_NAMES = {'R': 'replacement', 'W': 'within margin', 'N': 'no replacement', 'U': 'unresolved',
+                 'X': 'unsupported'}
+
+
+def render_summary(summary: dict, max_changes: int = 100) -> str:
+    ''' markdown describing what one profile update did, for GitHub step/run summaries '''
     o = summary['outcomes']
     lines = [
         f"### Device catalogue `{summary['profile']}`",
@@ -531,19 +545,67 @@ def report(summary: dict):
         f"| {summary['pending']} | {summary['evaluated']} | {summary['cache_hits']} | {summary['computed']} | "
         f"{summary['remaining']} | {summary['pruned']} | {summary['catalogue_entries']} |",
         '',
-        f"Outcomes: replacement {o['R']}, within margin {o['W']}, no replacement {o['N']}, unresolved {o['U']}, "
-        f"unsupported {o['X']}",
+        'Outcomes: ' + ', '.join(f'{OUTCOME_NAMES[c]} {o[c]}' for c in OUTCOME_NAMES),
         '',
         f"Written: {', '.join(summary['written']) or 'nothing (unchanged)'}",
     ]
+    changes = summary.get('changes', [])
+    if changes:
+        # replacements first, as they are what gets published
+        ordered = sorted(changes, key=lambda c: (c['outcome'] != 'R', c['title'].casefold(), c['digest']))
+        lines += ['', '| title | author | format | outcome | max error before → optimised (dB) | published |',
+                  '|-|-|-|-|-|-|']
+        for c in ordered[:max_changes]:
+            title = f"{c['title']} ({c['year']})" if c['year'] else c['title']
+            after = f" → {c['candidate_error_db']}" if c['outcome'] == 'R' else ''
+            if c['outcome'] == 'R':
+                published = 'updated' if c['was_published'] else 'added'
+            else:
+                published = 'removed' if c['was_published'] else '–'
+            lines.append(f"| {title} | {c['author']} | {', '.join(c['audioTypes'])} | {OUTCOME_NAMES[c['outcome']]} | "
+                         f"{c['original_error_db'] or '–'}{after} | {published} |")
+        if len(ordered) > max_changes:
+            lines += ['', f'…and {len(ordered) - max_changes} more']
     if summary['errors']:
         lines += ['', f"{len(summary['errors'])} unexpected error(s), will retry next run:", '']
         lines += [f'* `{e}`' for e in summary['errors'][:50]]
-    text = '\n'.join(lines) + '\n'
+    return '\n'.join(lines) + '\n'
+
+
+def commit_line(summary: dict) -> str:
+    o = summary['outcomes']
+    parts = [f"{summary['evaluated']} evaluated"]
+    parts += [f'{o[c]} {OUTCOME_NAMES[c]}' for c in OUTCOME_NAMES if o[c]]
+    added = sum(1 for c in summary.get('changes', []) if c['outcome'] == 'R' and not c['was_published'])
+    removed = sum(1 for c in summary.get('changes', []) if c['outcome'] != 'R' and c['was_published'])
+    parts.append(f'{added} added, {removed} removed, {summary["catalogue_entries"]} published')
+    if summary['pruned']:
+        parts.append(f"{summary['pruned']} pruned")
+    if summary['remaining']:
+        parts.append(f"{summary['remaining']} remaining")
+    return f"{summary['profile']}: " + ', '.join(parts)
+
+
+def report(summary: dict, summary_file: str | None = None):
+    text = render_summary(summary)
     print(text, flush=True)
     if os.environ.get('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as f:
             f.write(text)
+    if summary_file:
+        Path(summary_file).parent.mkdir(parents=True, exist_ok=True)
+        Path(summary_file).write_text(json.dumps(summary, indent=1), encoding='utf-8')
+
+
+def summarise(files: list[str], commit_message: bool = False) -> str:
+    ''' combines per-profile update summaries (from --summary-file) for the publish job '''
+    summaries = sorted((json.loads(Path(f).read_text(encoding='utf-8')) for f in files),
+                       key=lambda s: s['profile'])
+    if commit_message:
+        return '\n'.join(['Updated device catalogues', ''] + [commit_line(s) for s in summaries]) + '\n'
+    if not summaries:
+        return '## Device catalogues\n\nNo profile had new digests to evaluate.\n'
+    return '## Device catalogues\n\n' + '\n'.join(render_summary(s) for s in summaries)
 
 
 def main(argv=None) -> int:
@@ -563,7 +625,12 @@ def main(argv=None) -> int:
         p.add_argument('--cache-dir', help='optimiser result cache (default: BEQOPTIMISER_CACHE_DIR or '
                                            '~/.cache/beqoptimiser)')
         p.add_argument('--no-cache', action='store_true')
+        if name == 'update':
+            p.add_argument('--summary-file', help='also write the run summary as JSON, for `summarise`')
     sub.add_parser('site', help='write the derived website data under docs/devices')
+    p = sub.add_parser('summarise', help='combine update --summary-file outputs into markdown or a commit message')
+    p.add_argument('files', nargs='*')
+    p.add_argument('--commit-message', action='store_true')
     args = parser.parse_args(argv)
     root = args.root
     try:
@@ -571,14 +638,27 @@ def main(argv=None) -> int:
             m = matrix(root)
             print(f'matrix={json.dumps(m, separators=(",", ":"))}')
             print(f'has_work={"true" if m["include"] else "false"}')
+            if os.environ.get('GITHUB_STEP_SUMMARY'):
+                rows = [f"| `{i['profile']}` | {i['pending']} |" for i in m['include']]
+                text = ('## Device profiles with work\n\n| profile | digests to evaluate or prune |\n|-|-|\n'
+                        + '\n'.join(rows) + '\n') if rows else '## Device profiles\n\nNo profile has new work.\n'
+                with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as f:
+                    f.write(text)
         elif args.command == 'update':
             summary = update(root, args.profile, budget_minutes=args.budget_minutes or None, workers=args.workers,
                              cache_dir=args.cache_dir, use_cache=not args.no_cache)
-            report(summary)
+            report(summary, args.summary_file)
         elif args.command == 'bootstrap':
             bootstrap(root, args.workers, args.cache_dir, not args.no_cache, args.allow_cold)
         elif args.command == 'site':
-            print(f'Site: {site(root)}')
+            result = site(root)
+            print(f'Site: {result}')
+            if os.environ.get('GITHUB_STEP_SUMMARY'):
+                with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as f:
+                    f.write(f"\n### Device site data\n\n{result['titles']} optimised titles; {result['written']} "
+                            f"file(s) written, {result['removed']} removed\n")
+        elif args.command == 'summarise':
+            sys.stdout.write(summarise(args.files, args.commit_message))
     except ProfileError as e:
         print(f'ERROR: {e}', file=sys.stderr)
         return 2

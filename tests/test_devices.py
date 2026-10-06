@@ -299,3 +299,38 @@ def test_real_optimiser_on_a_tiny_catalogue(repo):
         for rows in published.values():
             assert all(len(r['b']) == 3 and len(r['a']) == 2 for r in rows)
     assert devices.load_ledger(repo, 'float32-96k')['sharp']['outcome'] == 'R'
+
+
+def test_summaries_describe_what_changed(repo, tmp_path):
+    write_profile(repo, profile())
+    write_db(repo, [entry('d1', title='Kept'), entry('d2', title='Dropped')])
+    run(repo, Fake({'d1': 'R', 'd2': 'R'}))
+    write_profile(repo, profile(revision=2))
+    write_db(repo, [entry('d1', title='Kept'), entry('d2', title='Dropped'), entry('d3', title='New')])
+    s = run(repo, Fake({'d1': 'R', 'd2': 'W', 'd3': 'R'}))
+    published = {c['title']: c['was_published'] for c in s['changes']}
+    assert published == {'Kept': True, 'Dropped': True, 'New': False}
+    text = devices.render_summary(s)
+    assert '| New (2020) | a1 | Atmos | replacement | 1.2346 → 0.1000 | added |' in text
+    assert '| Kept (2020) | a1 | Atmos | replacement | 1.2346 → 0.1000 | updated |' in text
+    assert '| Dropped (2020) | a1 | Atmos | within margin | 1.2346 | removed |' in text
+    assert text.index('New (2020)') < text.index('Dropped (2020)')  # replacements first
+    path = tmp_path / 'float32-96k.json'
+    devices.report(s, str(path))
+    message = devices.summarise([str(path)], commit_message=True)
+    assert message == ('Updated device catalogues\n\nfloat32-96k: 3 evaluated, 2 replacement, 1 within margin, '
+                       '1 added, 1 removed, 2 published\n')
+    assert devices.summarise([str(path)]).startswith('## Device catalogues\n\n### Device catalogue `float32-96k`')
+    assert 'No profile had new digests' in devices.summarise([])
+
+
+def test_step_summaries_are_written(repo, tmp_path, monkeypatch, capsys):
+    summary = tmp_path / 'summary.md'
+    monkeypatch.setenv('GITHUB_STEP_SUMMARY', str(summary))
+    write_profile(repo, profile())
+    write_db(repo, [entry('d1')])
+    devices.main(['--root', str(repo), 'matrix'])
+    assert '| `float32-96k` | 1 |' in summary.read_text()
+    run(repo, Fake({'d1': 'R'}))
+    devices.main(['--root', str(repo), 'site'])
+    assert '1 optimised titles' in summary.read_text()

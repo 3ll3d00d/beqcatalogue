@@ -16,8 +16,11 @@ on:
     types: [ trigger ]
   workflow_dispatch:
     branches: ['*']
+# one run at a time per branch/PR, a newer run superseding an older one; per ref so that PR runs
+# (e.g. dependabot) can't cancel a master run. Device stages tolerate cancellation: anything
+# unfinished is still pending next run.
 concurrency:
-  group: publish
+  group: publish-${{ github.ref }}
   cancel-in-progress: true
 jobs:
   build:
@@ -132,7 +135,8 @@ jobs:
       - name: Update device catalogue
         run: |
           poetry run python beqcatalogue/devices.py update --profile ${{ matrix.profile }} \
-            --cache-dir .cache/beqoptimiser/${{ matrix.profile }} --budget-minutes 45
+            --cache-dir .cache/beqoptimiser/${{ matrix.profile }} --budget-minutes 45 \
+            --summary-file device-summary/${{ matrix.profile }}.json
       # always(): keep progress from failed or cancelled runs
       - name: Save optimiser result cache
         if: always()
@@ -143,18 +147,26 @@ jobs:
       - name: Upload device catalogue
         uses: actions/upload-artifact@v7
         with:
-          name: device-${{ matrix.profile }}
+          name: device-catalogue-${{ matrix.profile }}
           path: |
             docs/devices/${{ matrix.profile }}.json
             meta/devices/${{ matrix.profile }}.tsv
           if-no-files-found: error
+      - name: Upload run summary
+        uses: actions/upload-artifact@v7
+        with:
+          name: device-summary-${{ matrix.profile }}
+          path: device-summary/${{ matrix.profile }}.json
+          if-no-files-found: ignore
 
   # Collects every profile's files (each profile owns its own, so they never clash), regenerates
   # the derived website data and commits once. Runs even with no evaluations, since a title
   # change can move compare keys without changing digests.
   device-publish:
     needs: [build, device-matrix, device-catalogue]
-    if: always() && needs.device-matrix.result == 'success'
+    # !cancelled() rather than always(): still publishes the profiles that succeeded when another
+    # fails (or when none had work), but never after the run was cancelled
+    if: ${{ !cancelled() && needs.device-matrix.result == 'success' }}
     runs-on: ubuntu-latest
     steps:
       # the branch tip, which now includes the catalogue commit pushed by build
@@ -167,14 +179,34 @@ jobs:
           python-version: 3.13
       - name: Download device catalogues
         if: needs.device-matrix.outputs.has_work == 'true'
+        continue-on-error: true  # every profile job failed: nothing to download, site data still refreshes
         uses: actions/download-artifact@v8
         with:
-          pattern: device-*
+          pattern: device-catalogue-*
           merge-multiple: true
           path: .
+      - name: Download run summaries
+        if: needs.device-matrix.outputs.has_work == 'true'
+        continue-on-error: true
+        uses: actions/download-artifact@v8
+        with:
+          pattern: device-summary-*
+          merge-multiple: true
+          path: ${{ runner.temp }}/device-summary
+      - name: Summarise device catalogue updates
+        id: summary
+        run: |
+          shopt -s nullglob
+          files=("$RUNNER_TEMP"/device-summary/*.json)
+          python beqcatalogue/devices.py summarise "${files[@]}" >> "$GITHUB_STEP_SUMMARY"
+          {
+            echo 'message<<EOF_DEVICE_MESSAGE'
+            python beqcatalogue/devices.py summarise --commit-message "${files[@]}"
+            echo 'EOF_DEVICE_MESSAGE'
+          } >> "$GITHUB_OUTPUT"
       - name: Update device site data
         run: python beqcatalogue/devices.py site
       - name: Publish device catalogues
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: Updated device catalogues
+          commit_message: ${{ steps.summary.outputs.message }}
