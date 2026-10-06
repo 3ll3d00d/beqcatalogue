@@ -22,6 +22,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      commit: ${{ steps.pub-cat.outputs.commit_hash || github.sha }}
     steps:
       - uses: actions/checkout@v7
         with:
@@ -42,9 +44,9 @@ jobs:
           key: venv-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('**/poetry.lock') }}
       - name: Install dependencies
         if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
-        run: poetry install --no-interaction --no-root
+        run: poetry install --no-interaction --no-root --without optimiser
       - name: Install project
-        run: poetry install --no-interaction
+        run: poetry install --no-interaction --without optimiser
       - name: Collate inputs
         run: ./update_inputs.sh
       - name: Update Catalogue
@@ -63,3 +65,116 @@ jobs:
           COMMIT_SHA: ${{ steps.pub-cat.outputs.commit_hash }}
         run: |
           poetry run python beqcatalogue/issues.py
+
+  # Computes which committed device profiles (devices/profiles/*.json) have work: digests not yet
+  # evaluated at the profile's revision, or entries to prune. Stdlib only, no dependency install.
+  device-matrix:
+    needs: build
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.matrix.outputs.matrix }}
+      has_work: ${{ steps.matrix.outputs.has_work }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ needs.build.outputs.commit }}
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v7
+        with:
+          python-version: 3.13
+      - name: Compute device matrix
+        id: matrix
+        run: |
+          python beqcatalogue/devices.py matrix | tee -a "$GITHUB_OUTPUT"
+
+  # One job per profile with work, in parallel. Matrix jobs never commit (parallel pushes would
+  # race); each uploads its own files for device-publish.
+  device-catalogue:
+    needs: [build, device-matrix]
+    if: needs.device-matrix.outputs.has_work == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.device-matrix.outputs.matrix) }}
+    name: device-catalogue (${{ matrix.profile }})
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ needs.build.outputs.commit }}
+      - name: Set up Python 3.13
+        id: setup-python
+        uses: actions/setup-python@v7
+        with:
+          python-version: 3.13
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+        with:
+          virtualenvs-in-project: true
+      - name: Load cached optimiser venv
+        id: cached-optimiser-venv
+        uses: actions/cache@v6
+        with:
+          path: .venv
+          key: optimiser-venv-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('**/poetry.lock') }}
+      - name: Install optimiser dependencies
+        if: steps.cached-optimiser-venv.outputs.cache-hit != 'true'
+        run: poetry install --no-interaction --no-root --only optimiser
+      # GitHub cache keys are immutable, so every run saves a new key and restores the newest
+      # with the same prefix; a per-profile directory stops parallel jobs racing to save
+      - name: Restore optimiser result cache
+        uses: actions/cache/restore@v6
+        with:
+          path: .cache/beqoptimiser/${{ matrix.profile }}
+          key: beqopt-${{ matrix.profile }}-${{ hashFiles('poetry.lock', format('devices/profiles/{0}.json', matrix.profile)) }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            beqopt-${{ matrix.profile }}-${{ hashFiles('poetry.lock', format('devices/profiles/{0}.json', matrix.profile)) }}-
+      - name: Update device catalogue
+        run: |
+          poetry run python beqcatalogue/devices.py update --profile ${{ matrix.profile }} \
+            --cache-dir .cache/beqoptimiser/${{ matrix.profile }} --budget-minutes 45
+      # always(): keep progress from failed or cancelled runs
+      - name: Save optimiser result cache
+        if: always()
+        uses: actions/cache/save@v6
+        with:
+          path: .cache/beqoptimiser/${{ matrix.profile }}
+          key: beqopt-${{ matrix.profile }}-${{ hashFiles('poetry.lock', format('devices/profiles/{0}.json', matrix.profile)) }}-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Upload device catalogue
+        uses: actions/upload-artifact@v7
+        with:
+          name: device-${{ matrix.profile }}
+          path: |
+            docs/devices/${{ matrix.profile }}.json
+            meta/devices/${{ matrix.profile }}.tsv
+          if-no-files-found: error
+
+  # Collects every profile's files (each profile owns its own, so they never clash), regenerates
+  # the derived website data and commits once. Runs even with no evaluations, since a title
+  # change can move compare keys without changing digests.
+  device-publish:
+    needs: [build, device-matrix, device-catalogue]
+    if: always() && needs.device-matrix.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      # the branch tip, which now includes the catalogue commit pushed by build
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v7
+        with:
+          python-version: 3.13
+      - name: Download device catalogues
+        if: needs.device-matrix.outputs.has_work == 'true'
+        uses: actions/download-artifact@v8
+        with:
+          pattern: device-*
+          merge-multiple: true
+          path: .
+      - name: Update device site data
+        run: python beqcatalogue/devices.py site
+      - name: Publish device catalogues
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Updated device catalogues
