@@ -16,6 +16,7 @@ from urllib import parse
 from markdown.extensions.toc import slugify
 
 from iir import xml_to_filt
+from keys import compute_compare_key
 
 TWO_WEEKS_AGO = time.time() - (2 * 7 * 24 * 60 * 60)
 
@@ -259,15 +260,6 @@ def get_title_suffix(meta):
     if not suffix:
         suffix = meta.get('year', None)
     return suffix
-
-
-def compute_compare_key(title: str, content_type: str, the_movie_db: str = '', year: str = '') -> str:
-    ''' a stable, cross-author key for a title used to group filter comparison data;
-    mirrors the theMovieDB/year suffix scheme used for per-author page slugs so that
-    the same film/show maps to the same key regardless of which author submitted it '''
-    suffix = the_movie_db or year or ''
-    base = f"{title}_{suffix}" if suffix else title
-    return f"{content_type}-{slugify(base.casefold(), '-')}"
 
 
 def extract_root(xml):

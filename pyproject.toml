@@ -21,7 +21,23 @@ mkdocs = "*"
 mkdocs-materialx = "*"
 pymdown-extensions = ">=10.0"
 requests = ">=2.31.0"
+pytest = ">=8.0"
+
+# Device-specific catalogue optimisation (beqcatalogue/devices.py); not needed by the main build.
+# numpy/scipy are pinned to the identity of beqforge's bundled optimiser result seed.
+[tool.poetry.group.optimiser]
+optional = true
+
+[tool.poetry.group.optimiser.dependencies]
+beqforge = { git = "https://github.com/3ll3d00d/beqforge.git", rev = "53434815158240289b646365beb3bd9196070f6f", extras = ["optimiser"] }
+numpy = "==2.4.2"
+scipy = "==1.18.1"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+# the build scripts import siblings directly (e.g. `from iir import ...`)
+pythonpath = ["beqcatalogue", "."]
+testpaths = ["tests"]
