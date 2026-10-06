@@ -412,6 +412,8 @@ def site(root: Path) -> dict:
             'id': pid, 'label': profile['label'], 'description': profile['description'], 'rate': profile['rate'],
             'storage': profile['storage']['type'], 'transport': profile['transport']['type'],
             'revision': profile['revision'], 'file': f'{pid}.json', 'entries': len(entries),
+            'margin_db': profile['settings'].get('margin_db', 0.5),
+            'band_hz': profile['settings'].get('band_hz', [2.0, 200.0]),
             'sha256': hashlib.sha256(path.read_bytes()).hexdigest() if path.exists() else None,
         })
 

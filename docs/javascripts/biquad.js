@@ -2,12 +2,16 @@
  * Port of beqcatalogue/iir.py's biquad coefficient formulas (RBJ cookbook) so the browser can
  * recompute a filter's frequency response directly from {type, freq, gain, q} without needing
  * the server to ship the exact a/b coefficients for every entry.
+ *
+ * The device view also evaluates explicit published coefficients ({b: [b0,b1,b2], a: [a1,a2]}
+ * decimal strings with additive feedback, as in filters[*].biquads and docs/devices/<id>.json),
+ * optionally rounded to float32 with Math.fround to model what a float32 device stores.
  */
 (function (global) {
   var FS = 96000; // matches the fs used when the catalogue's filters were generated
 
-  function coeffsFor(type, freq, q, gain) {
-    var w0 = 2.0 * Math.PI * freq / FS;
+  function coeffsFor(type, freq, q, gain, fs) {
+    var w0 = 2.0 * Math.PI * freq / (fs || FS);
     var cosW0 = Math.cos(w0);
     var sinW0 = Math.sin(w0);
     var alpha = sinW0 / (2.0 * q);
@@ -43,8 +47,8 @@
     return { b0: b0 / a0, b1: b1 / a0, b2: b2 / a0, a1: a1 / a0, a2: a2 / a0 };
   }
 
-  function magnitudeDb(c, freqHz) {
-    var w = 2.0 * Math.PI * freqHz / FS;
+  function magnitudeDb(c, freqHz, fs) {
+    var w = 2.0 * Math.PI * freqHz / (fs || FS);
     var cos1 = Math.cos(w), sin1 = Math.sin(w);
     var cos2 = Math.cos(2 * w), sin2 = Math.sin(2 * w);
     var numRe = c.b0 + c.b1 * cos1 + c.b2 * cos2;
@@ -69,20 +73,69 @@
 
   // sums the dB contribution (repeated `count` times) of every filter in `filters`
   // across `freqs`, returning one dB value per frequency for the cascaded response
-  function cascadeResponseDb(filters, freqs) {
+  function cascadeResponseDb(filters, freqs, fs) {
     var totals = new Array(freqs.length).fill(0);
     filters.forEach(function (f) {
-      var c = coeffsFor(f.type, f.freq, f.q, f.gain);
+      var c = coeffsFor(f.type, f.freq, f.q, f.gain, fs);
       var count = f.count || 1;
       for (var i = 0; i < freqs.length; i++) {
-        totals[i] += count * magnitudeDb(c, freqs[i]);
+        totals[i] += count * magnitudeDb(c, freqs[i], fs);
       }
+    });
+    return totals;
+  }
+
+  // one coefficient set per section, with counts expanded, from RBJ parameters
+  function sectionsFromParams(filters, fs) {
+    var out = [];
+    filters.forEach(function (f) {
+      var c = coeffsFor(f.type, f.freq, f.q, f.gain, fs);
+      for (var i = 0; i < (f.count || 1); i++) out.push(c);
+    });
+    return out;
+  }
+
+  // published coefficients use additive feedback: y += a1*y[n-1] + a2*y[n-2], so the
+  // denominator is 1 - a1 z^-1 - a2 z^-2
+  function sectionFromPublished(bq) {
+    return { b0: Number(bq.b[0]), b1: Number(bq.b[1]), b2: Number(bq.b[2]), a1: -Number(bq.a[0]), a2: -Number(bq.a[1]) };
+  }
+
+  // the published rate-specific coefficients when every filter has them, else null
+  function sectionsFromPublished(filters, fs) {
+    var out = [];
+    for (var j = 0; j < filters.length; j++) {
+      var f = filters[j];
+      var bq = f.biquads && f.biquads[String(fs)];
+      if (!bq) return null;
+      var c = sectionFromPublished(bq);
+      for (var i = 0; i < (f.count || 1); i++) out.push(c);
+    }
+    return out;
+  }
+
+  function toFloat32(sections) {
+    return sections.map(function (c) {
+      return { b0: Math.fround(c.b0), b1: Math.fround(c.b1), b2: Math.fround(c.b2),
+               a1: Math.fround(c.a1), a2: Math.fround(c.a2) };
+    });
+  }
+
+  function sectionsResponseDb(sections, freqs, fs) {
+    var totals = new Array(freqs.length).fill(0);
+    sections.forEach(function (c) {
+      for (var i = 0; i < freqs.length; i++) totals[i] += magnitudeDb(c, freqs[i], fs);
     });
     return totals;
   }
 
   global.BeqBiquad = {
     logSpace: logSpace,
-    cascadeResponseDb: cascadeResponseDb
+    cascadeResponseDb: cascadeResponseDb,
+    sectionsFromParams: sectionsFromParams,
+    sectionsFromPublished: sectionsFromPublished,
+    sectionFromPublished: sectionFromPublished,
+    toFloat32: toFloat32,
+    sectionsResponseDb: sectionsResponseDb
   };
-})(window);
+})(typeof window !== 'undefined' ? window : globalThis);

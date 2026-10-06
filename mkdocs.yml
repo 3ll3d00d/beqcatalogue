@@ -33,10 +33,13 @@ extra_javascript:
   - javascripts/tables.js
   - javascripts/biquad.js
   - javascripts/compare.js
+  - javascripts/devices.js
+  - javascripts/devices-flag.js
 extra_css:
   - css/extra.css
   - tablefilter/style/tablefilter.css
   - css/compare.css
+  - css/devices.css
 markdown_extensions:
   - toc:
       permalink: true
@@ -46,6 +49,7 @@ markdown_extensions:
 nav:
   - Filter Record Contract: filter-record-contract.md
   - Compare: compare/index.md
+  - Device optimisation: devices/index.md
   - aron7awol: aron7awol.md
   - mobe1969: mobe1969.md
   - halcyon888: halcyon888.md
