@@ -112,3 +112,69 @@ Dialnorm Compensation: 4dB AI Created
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Carrie%20%282026%29%20%28Season%20S01E05%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 01E06
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +2.5 dB
+
+Dialnorm Compensation: 5dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1789#post-64907713)
+
+* [Compare across authors](../compare/index.md?t=TV-carrie_288673)
+
+* Production Year: 2026
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Carrie%20%282026%29%20%28Season%20S01E06%29%20%28%2B2.5%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Carrie%20%282026%29%20%28Season%20S01E06%29%20%28%2B2.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 01E07
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +1.5 dB
+
+Dialnorm Compensation: 4dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1789#post-64907717)
+
+* [Compare across authors](../compare/index.md?t=TV-carrie_288673)
+
+* Production Year: 2026
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Carrie%20%282026%29%20%28Season%20S01E07%29%20%28%2B1.5%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Carrie%20%282026%29%20%28Season%20S01E07%29%20%28%2B1.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 01E08
+
+* DD+ Atmos
+
+
+**MV Adjustment:** -3.0 dB
+
+Dialnorm Compensation: 3dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1789#post-64907719)
+
+* [Compare across authors](../compare/index.md?t=TV-carrie_288673)
+
+* Production Year: 2026
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Carrie%20%282026%29%20%28Season%20S01E08%29%20%28-3.0%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Carrie%20%282026%29%20%28Season%20S01E08%29%20%28-3.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
