@@ -1,4 +1,4 @@
-"""Device catalogue generation: incremental, idempotent, replacement-only, revision-gated."""
+"""Device catalogue generation: incremental, idempotent, publishes only better coefficients, revision-gated."""
 import json
 from pathlib import Path
 
@@ -54,8 +54,10 @@ class Fake:
         if d in self.error:
             return {'digest': d, 'error': 'RuntimeError: boom'}
         o = self.outcomes.get(d, 'W')
-        return {'digest': d, 'outcome': o, 'original_error_db': 1.23456, 'candidate_error_db': 0.1 if o == 'R' else None,
-                'version': '0.1.0', 'biquads': BIQUADS if o == 'R' else None, 'cache_hit': o != 'N'}
+        published = o in ('R', 'I')
+        return {'digest': d, 'outcome': o, 'original_error_db': 1.23456,
+                'candidate_error_db': {'R': 0.1, 'I': 0.9}.get(o), 'version': '0.1.0',
+                'biquads': BIQUADS if published else None, 'cache_hit': o != 'N'}
 
 
 def run(root, fake, pid='float32-96k', **kw):
@@ -71,16 +73,18 @@ def snapshot(root):
     return {p: p.read_bytes() for p in sorted(root.rglob('*')) if p.is_file()}
 
 
-def test_only_replacements_are_published_and_every_outcome_is_ledgered(repo):
-    write_db(repo, [entry('d1'), entry('d2'), entry('d3'), entry('d4'), entry('d5')])
+def test_only_better_coefficients_are_published_and_every_outcome_is_ledgered(repo):
+    write_db(repo, [entry('d1'), entry('d2'), entry('d3'), entry('d4'), entry('d5'), entry('d6')])
     write_profile(repo, profile())
-    s = run(repo, Fake({'d1': 'R', 'd2': 'W', 'd3': 'N', 'd4': 'U', 'd5': 'X'}))
-    assert s['evaluated'] == 5 and s['outcomes'] == {'R': 1, 'W': 1, 'N': 1, 'U': 1, 'X': 1}
+    s = run(repo, Fake({'d1': 'R', 'd2': 'W', 'd3': 'N', 'd4': 'U', 'd5': 'X', 'd6': 'I'}))
+    assert s['evaluated'] == 6 and s['outcomes'] == {'R': 1, 'I': 1, 'W': 1, 'N': 1, 'U': 1, 'X': 1}
     doc = catalogue(repo)
-    assert doc['entries'] == {'d1': BIQUADS}
+    assert doc['entries'] == {'d1': BIQUADS, 'd6': BIQUADS}
     assert doc['profile'] == 'float32-96k' and doc['rate'] == 96000 and doc['revision'] == 1
     ledger = devices.load_ledger(repo, 'float32-96k')
-    assert {d: r['outcome'] for d, r in ledger.items()} == {'d1': 'R', 'd2': 'W', 'd3': 'N', 'd4': 'U', 'd5': 'X'}
+    assert {d: r['outcome'] for d, r in ledger.items()} == {'d1': 'R', 'd2': 'W', 'd3': 'N', 'd4': 'U', 'd5': 'X',
+                                                         'd6': 'I'}
+    assert ledger['d6']['candidate_error_db'] == '0.9000'
     assert ledger['d1']['original_error_db'] == '1.2346' and ledger['d1']['candidate_error_db'] == '0.1000'
     assert ledger['d2']['candidate_error_db'] == ''
 
@@ -334,3 +338,19 @@ def test_step_summaries_are_written(repo, tmp_path, monkeypatch, capsys):
     run(repo, Fake({'d1': 'R'}))
     devices.main(['--root', str(repo), 'site'])
     assert '1 optimised titles' in summary.read_text()
+
+
+def test_revision_bump_publishes_a_former_no_replacement_as_an_improvement(repo):
+    write_db(repo, [entry('d1'), entry('d2')])
+    write_profile(repo, profile())
+    run(repo, Fake({'d1': 'R', 'd2': 'N'}))
+    assert catalogue(repo)['entries'] == {'d1': BIQUADS}
+    write_profile(repo, profile(revision=2))
+    s = run(repo, Fake({'d1': 'R', 'd2': 'I'}))
+    assert s['evaluated'] == 2
+    assert catalogue(repo)['entries'] == {'d1': BIQUADS, 'd2': BIQUADS}
+    assert devices.load_ledger(repo, 'float32-96k')['d2']['outcome'] == 'I'
+    line = devices.commit_line(s)
+    assert '1 improvement' in line and '1 added' in line
+    summary = devices.render_summary(s)
+    assert '| improvement | 1.2346 → 0.9000 | added |' in summary

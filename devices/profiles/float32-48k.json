@@ -6,6 +6,6 @@
   "storage": {"type": "float32"},
   "transport": {"type": "float32"},
   "settings": {},
-  "revision": 1,
+  "revision": 2,
   "enabled": true
 }

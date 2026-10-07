@@ -97,7 +97,7 @@ Per profile:
 
 | Path | Purpose | Contents |
 | --- | --- | --- |
-| `docs/devices/<id>.json` | **Device catalogue** (the consumer contract, e.g. ezbeq) | Only entries with outcome `replacement` |
+| `docs/devices/<id>.json` | **Device catalogue** (the consumer contract, e.g. ezbeq) | Only entries with outcome `replacement` or `improvement` |
 | `meta/devices/<id>.tsv` | **Evaluation ledger**, internal | One line per evaluated digest, whatever the outcome |
 
 Shared and derived (§7), regenerated from the files above plus `database.json`:
@@ -133,7 +133,7 @@ Ledger, one sorted line per digest:
 
 `<digest>\t<outcome>\t<revision>\t<original_error_db>\t<candidate_error_db>\t<beqforge version>`
 
-- `outcome` is one of `R` (replacement), `W` (within margin), `N` (no replacement), `U`
+- `outcome` is one of `R` (replacement), `I` (improvement), `W` (within margin), `N` (no replacement), `U`
   (unresolved) or `X` (unsupported).
 - The error columns hold the optimiser's own validated maximum error over 2–200 Hz (empty
   where not applicable). The website displays these authoritative numbers, so they don't need
@@ -161,7 +161,7 @@ config):
    - Stop taking new work once the time budget runs out (`--budget-minutes`, default 45).
      Unfinished digests stay pending for the next run, so a big backlog drains over several
      runs instead of hitting the 6 h job limit.
-5. Record each finished digest in the ledger with its outcome. Add `R` entries to the
+5. Record each finished digest in the ledger with its outcome. Add `R` and `I` entries to the
    device catalogue, and remove any earlier entry for a digest that is no longer `R`. Every
    other outcome writes a ledger line only. An unexpected exception (not one of the CLI's
    "unsupported" exceptions) writes nothing and is reported. The digest is retried next run,
@@ -467,3 +467,13 @@ new digests, which would be misses in any cache.
 ## Remaining questions
 
 None. Ready to implement on approval.
+
+## Revision 2: publish improvements (2026-10-06)
+
+beqforge's optimiser originally published a candidate only when it met the 0.5 dB margin, discarding
+candidates that were better than the authored coefficients but missed it (the `N` outcome). At
+revision 1 that was 2,366 titles at 96 kHz and 113 at 48 kHz, e.g. a 16.6 dB error improved to
+1.3 dB. beqforge 0.2.0 assesses candidates over the 2-200 Hz matching band only (the out-of-band
+guard no longer rejects anything) and returns a candidate which misses the margin but is strictly
+better than the original as `improvement` (ledger `I`). Both profiles are bumped to revision 2 so
+every digest is re-evaluated, and both `R` and `I` entries are published.
