@@ -10,7 +10,7 @@ Run as a script, like the main build (it must not import the site dependencies):
 Per profile ``devices/profiles/<id>.json`` drives two files:
 
 * ``docs/devices/<id>.json``, the published device catalogue: main catalogue digest -> optimised
-  biquads, holding *only* entries the optimiser replaced.
+  biquads, holding *only* entries the optimiser replaced (within the margin) or improved on.
 * ``meta/devices/<id>.tsv``, the evaluation ledger: every evaluated digest whatever its outcome, so
   nothing is re-optimised until the profile's ``revision`` is bumped.
 
@@ -40,10 +40,12 @@ SCHEMA_VERSION = 1
 LOADING_MODEL = 'additive-feedback-decimal17-v1'
 SHARDS = 256
 
-OUTCOME_CODES = {'replacement': 'R', 'within_margin': 'W', 'no_replacement': 'N', 'unresolved': 'U',
-                 'unsupported': 'X'}
+OUTCOME_CODES = {'replacement': 'R', 'improvement': 'I', 'within_margin': 'W', 'no_replacement': 'N',
+                 'unresolved': 'U', 'unsupported': 'X'}
+# outcomes whose optimised biquads are published: within the margin (R) or merely better than the original (I)
+PUBLISHED = ('R', 'I')
 PRECISION_TYPES = ('float32',)  # optimise_entry is float32-only until beqforge exposes precision
-SETTINGS_KEYS = ('margin_db', 'band_hz', 'guard_margin_db', 'numerical_tolerance_db', 'passes', 'grid_points',
+SETTINGS_KEYS = ('margin_db', 'band_hz', 'numerical_tolerance_db', 'passes', 'grid_points',
                  'validation_points')
 # the exceptions beqoptimiser's own CLI reports as an unsupported entry rather than a failure
 UNSUPPORTED_ERRORS = (ValueError, KeyError, TypeError, OverflowError)
@@ -346,7 +348,7 @@ def update(root: Path, profile_id: str, budget_minutes: float | None = 45, worke
                 'candidate_error_db': ledger[digest]['candidate_error_db'],
                 'was_published': digest in device_entries,
             })
-            if r['outcome'] == 'R':
+            if r['outcome'] in PUBLISHED:
                 device_entries[digest] = r['biquads']
             else:
                 device_entries.pop(digest, None)
@@ -530,8 +532,8 @@ def bootstrap(root: Path, workers: int, cache_dir: str | None, use_cache: bool, 
 # ---------------------------------------------------------------------------------------------
 # cli
 
-OUTCOME_NAMES = {'R': 'replacement', 'W': 'within margin', 'N': 'no replacement', 'U': 'unresolved',
-                 'X': 'unsupported'}
+OUTCOME_NAMES = {'R': 'replacement', 'I': 'improvement', 'W': 'within margin', 'N': 'no replacement',
+                 'U': 'unresolved', 'X': 'unsupported'}
 
 
 def render_summary(summary: dict, max_changes: int = 100) -> str:
@@ -551,14 +553,14 @@ def render_summary(summary: dict, max_changes: int = 100) -> str:
     ]
     changes = summary.get('changes', [])
     if changes:
-        # replacements first, as they are what gets published
-        ordered = sorted(changes, key=lambda c: (c['outcome'] != 'R', c['title'].casefold(), c['digest']))
+        # published outcomes first, as they are what changes the catalogue
+        ordered = sorted(changes, key=lambda c: (c['outcome'] not in PUBLISHED, c['title'].casefold(), c['digest']))
         lines += ['', '| title | author | format | outcome | max error before → optimised (dB) | published |',
                   '|-|-|-|-|-|-|']
         for c in ordered[:max_changes]:
             title = f"{c['title']} ({c['year']})" if c['year'] else c['title']
-            after = f" → {c['candidate_error_db']}" if c['outcome'] == 'R' else ''
-            if c['outcome'] == 'R':
+            after = f" → {c['candidate_error_db']}" if c['outcome'] in PUBLISHED else ''
+            if c['outcome'] in PUBLISHED:
                 published = 'updated' if c['was_published'] else 'added'
             else:
                 published = 'removed' if c['was_published'] else '–'
@@ -576,8 +578,8 @@ def commit_line(summary: dict) -> str:
     o = summary['outcomes']
     parts = [f"{summary['evaluated']} evaluated"]
     parts += [f'{o[c]} {OUTCOME_NAMES[c]}' for c in OUTCOME_NAMES if o[c]]
-    added = sum(1 for c in summary.get('changes', []) if c['outcome'] == 'R' and not c['was_published'])
-    removed = sum(1 for c in summary.get('changes', []) if c['outcome'] != 'R' and c['was_published'])
+    added = sum(1 for c in summary.get('changes', []) if c['outcome'] in PUBLISHED and not c['was_published'])
+    removed = sum(1 for c in summary.get('changes', []) if c['outcome'] not in PUBLISHED and c['was_published'])
     parts.append(f'{added} added, {removed} removed, {summary["catalogue_entries"]} published')
     if summary['pruned']:
         parts.append(f"{summary['pruned']} pruned")

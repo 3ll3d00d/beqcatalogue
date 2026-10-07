@@ -41,8 +41,9 @@ Devices store filter coefficients with finite precision. beqforge's `beqoptimise
 coefficients whose realised response better matches the authored filter. `beqcatalogue/devices.py`
 publishes one catalogue per format profile committed in `devices/profiles/<id>.json`:
 
-* `docs/devices/<id>.json`: main catalogue `digest` -> optimised biquads, only for entries the
-  optimiser replaced
+* `docs/devices/<id>.json`: main catalogue `digest` -> optimised biquads, only for entries where the
+  optimiser found better coefficients, either within the 0.5 dB margin (`replacement`) or simply
+  better than the authored coefficients (`improvement`)
 * `meta/devices/<id>.tsv`: every evaluated digest and its outcome, so nothing is re-optimised
 * `docs/devices/{index,titles}.json`, `compare/`, `pages/`: data for the Device optimisation page
   and the title-page "Optimised for…" badges
