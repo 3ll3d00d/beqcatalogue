@@ -16,7 +16,8 @@
  */
 (function () {
   var CHART_JS_URL = 'https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js';
-  var COLORS = ['#2f6fed', '#e0523c', '#3fae5c', '#c9931f', '#8956d6', '#1fa3a3', '#d64f8a', '#6b7280'];
+  // per profile: [optimised, before] — distinct hues so the dashed "before" line can't be lost against the solid one
+  var COLORS = [['#2f6fed', '#e8871e'], ['#8956d6', '#1fa3a3'], ['#d64f8a', '#c9931f'], ['#e0523c', '#3b82c4']];
   var IDEAL_COLOR = '#6b7280';
   var FREQS = window.BeqBiquad ? window.BeqBiquad.logSpace(1, 200, 240) : [];
   var TICKS = [1, 2, 5, 10, 20, 50, 100, 200];
@@ -54,7 +55,7 @@
     if (!indexPromise) {
       indexPromise = fetchJson('index.json').then(function (index) {
         var byId = {};
-        index.profiles.forEach(function (p, i) { p._color = COLORS[i % COLORS.length]; byId[p.id] = p; });
+        index.profiles.forEach(function (p, i) { p._color = COLORS[i % COLORS.length][0]; p._beforeColor = COLORS[i % COLORS.length][1]; byId[p.id] = p; });
         return byId;
       });
     }
@@ -148,13 +149,14 @@
         var curves = profileCurves(entry, profile, entry.profiles[id]);
         if (!idealShown) {
           response.push(line('Ideal', curves.ideal, IDEAL_COLOR, [], { borderWidth: 3 }));
+          error.push(line('Ideal', FREQS.map(function () { return 0; }), IDEAL_COLOR, [], { borderWidth: 3 }));
           idealShown = true;
         }
         if (state.hidden[id]) return;
-        var c = profile._color;
-        response.push(line(profile.label + ' — before', curves.before, c, [6, 4]));
+        var c = profile._color, cb = profile._beforeColor;
+        response.push(line(profile.label + ' — before', curves.before, cb, [6, 4]));
         response.push(line(profile.label + ' — optimised', curves.after, c));
-        error.push(line(profile.label + ' — before', curves.before.map(function (v, i) { return v - curves.ideal[i]; }), c, [6, 4]));
+        error.push(line(profile.label + ' — before', curves.before.map(function (v, i) { return v - curves.ideal[i]; }), cb, [6, 4]));
         error.push(line(profile.label + ' — optimised', curves.after.map(function (v, i) { return v - curves.ideal[i]; }), c));
         margins[profile.margin_db] = true;
       });
