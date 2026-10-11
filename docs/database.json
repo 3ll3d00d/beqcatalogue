@@ -2165603,6 +2165603,167 @@
 "filterAuthor": "human"
 },
 {
+"title": "Pain Hustlers",
+"year": "2023",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/pain-hustlers/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": 2.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000766470810798",
+"-1.9994359142095954",
+"0.9993628686947942"
+],
+"a": [
+"1.9994359142095954",
+"-0.999439515775874"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006472175187417",
+"-1.9979479439454748",
+"0.9973070086723911"
+],
+"a": [
+"1.9979499045168532",
+"-0.9979522656197546"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 41.0,
+"gain": -2.3,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998516268667982",
+"-1.9987172356120704",
+"0.9988728050185786"
+],
+"a": [
+"1.9987172356120704",
+"-0.9987244318853767"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Pain%20Hustlers/Pain%20Hustlers%20(2023)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Pain%20Hustlers/Pain%20Hustlers%20(2023)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "pain hustlers",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "After losing her job, a single mom falls into a lucrative but ultimately dangerous scheme selling prescription drugs.",
+"theMovieDB": "862968",
+"rating": "R",
+"runtime": "122",
+"genres": [
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Pain Hustlers (2023) (Netflix) BEQ DD+ Atmos",
+"digest": "c0f3e63e41363470e5414c3159aa4c87a223699f7eca573c06e925865c66ff79",
+"created_at": 1791725005,
+"updated_at": 1791725005,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Paradise",
 "year": "2023",
 "audioTypes": [
