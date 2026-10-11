@@ -81,14 +81,14 @@ extras = ["regex"]
 
 [[package]]
 name = "beqforge"
-version = "0.2.0"
+version = "0.2.1"
 description = "Audio-derived BEQ design, published filter optimisation and DSP validation"
 optional = false
 python-versions = "<3.15,>=3.13"
 groups = ["optimiser"]
 files = [
-    {file = "beqforge-0.2.0-py3-none-any.whl", hash = "sha256:16e269fc987c81c21b264a6f84df47b3cd1b8ad8a1866ab47910650879075cc0"},
-    {file = "beqforge-0.2.0.tar.gz", hash = "sha256:67ecef0a34f81be6dacec7459189350c3342093cab67e39e06677839ab9212e9"},
+    {file = "beqforge-0.2.1-py3-none-any.whl", hash = "sha256:9ca9fc9ea6fd6d450025b4b9bdd9f9499aa1e89949eca7d5fde6cf618e2f29b8"},
+    {file = "beqforge-0.2.1.tar.gz", hash = "sha256:074cb7d186b08ceded7f3706c9eeecf8f8a76e92ab94bfb191d36824383a2f9b"},
 ]
 
 [package.dependencies]
@@ -1857,4 +1857,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13, <3.14"
-content-hash = "366f3e322a918c3125434ddd6ad48c86d7fd47921b767fc6610cac687fb7e85f"
+content-hash = "d8e8f95712316a49039008cb53c00b77c092ba2a9b27e41aec3147bcad5a455b"
