@@ -1881072,6 +1881072,171 @@
 "title": "IF",
 "year": "2024",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/if/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.1,
+"gain": 5.98,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000171044593973",
+"-1.99916728784754",
+"0.9989976207501388"
+],
+"a": [
+"1.999167630608228",
+"-0.999168322583423"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.1,
+"gain": 5.98,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000171044593973",
+"-1.99916728784754",
+"0.9989976207501388"
+],
+"a": [
+"1.999167630608228",
+"-0.999168322583423"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.1,
+"gain": 5.98,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000171044593973",
+"-1.99916728784754",
+"0.9989976207501388"
+],
+"a": [
+"1.999167630608228",
+"-0.999168322583423"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.1,
+"gain": 5.98,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000171044593973",
+"-1.99916728784754",
+"0.9989976207501388"
+],
+"a": [
+"1.999167630608228",
+"-0.999168322583423"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0006933266157902",
+"-1.997801837963028",
+"0.9971147931334876"
+],
+"a": [
+"1.9978037983910337",
+"-0.9978061593212723"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.31,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000518377355323",
+"-1.9971398023808864",
+"0.9970948087551016"
+],
+"a": [
+"1.9971398023808864",
+"-0.9971466464906341"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/IF%20%282024%29%20%28%2B4.5%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/IF%20%282024%29%20%28%2B4.5%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1791#post-64922737",
+"sortTitle": "if",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "After discovering she can see everyone's imaginary friends, a girl embarks on a magical adventure to reconnect forgotten imaginary friends with their kids.",
+"theMovieDB": "639720",
+"rating": "PG",
+"runtime": "104",
+"genres": [
+"Comedy",
+"Fantasy",
+"Family"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "IF (2024) (+4.5 gain) BEQ Atmos remixmark",
+"digest": "8b517a73b096644ee892767e525c8039d01b1961e8df08c5b86e28791b0d987c",
+"created_at": 1791828844,
+"updated_at": 1791828844,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "IF",
+"year": "2024",
+"audioTypes": [
 "DD+"
 ],
 "content_type": "film",
