@@ -2168991,6 +2168991,192 @@
 "filterAuthor": "human"
 },
 {
+"title": "Practical Magic 2",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/practical-magic-2/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002156685939154",
+"-1.9993164749644814",
+"0.9991015048746131"
+],
+"a": [
+"1.999316692954531",
+"-0.9993169554784787"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": 1.6,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000482818932486",
+"-1.9995201196150187",
+"0.9994743045333778"
+],
+"a": [
+"1.9995201196150187",
+"-0.9995225864266263"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -2.8,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998696617062861",
+"-1.9990496409674217",
+"0.9991843636756232"
+],
+"a": [
+"1.9990496409674217",
+"-0.9990540253819095"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Practical%20Magic/Practical%20Magic%202%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Practical%20Magic/Practical%20Magic%202%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "practical magic 2",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+"theMovieDB": "1302904",
+"rating": "PG-13",
+"runtime": "130",
+"genres": [
+"Romance",
+"Fantasy",
+"Comedy"
+],
+"altTitle": "",
+"collection": {
+"id": "1354706",
+"name": "Practical Magic Collection"
+},
+"underlying": "Practical Magic 2 (2026) BEQ DD+",
+"digest": "573a79fe0d7815603819e4c43cc01d589130990d3d451843e418a691d6864361",
+"created_at": 1791776174,
+"updated_at": 1791776174,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Predator: Badlands",
 "year": "2025",
 "audioTypes": [
