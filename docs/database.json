@@ -1847673,6 +1847673,189 @@
 "filterAuthor": "human"
 },
 {
+"title": "Buddy",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/buddy/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 9.5,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0001648122641718",
+"-1.9995469549433542",
+"0.9993828826574982"
+],
+"a": [
+"1.999547200998931",
+"-0.9995474488660926"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 6.4,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0001764946147294",
+"-1.9992073047723629",
+"0.9990323946323801"
+],
+"a": [
+"1.999207717821089",
+"-0.999208476198383"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 6.4,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0001764946147294",
+"-1.9992073047723629",
+"0.9990323946323801"
+],
+"a": [
+"1.999207717821089",
+"-0.999208476198383"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 6.4,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0001764946147294",
+"-1.9992073047723629",
+"0.9990323946323801"
+],
+"a": [
+"1.999207717821089",
+"-0.999208476198383"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 20.5,
+"gain": -11.0,
+"q": 10.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999092597987952",
+"-1.9997454987025525",
+"0.9998380388935848"
+],
+"a": [
+"1.9997454987025525",
+"-0.9997472986923802"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": 4.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001418686339278",
+"-1.9995115328679511",
+"0.9993730218255389"
+],
+"a": [
+"1.9995115328679511",
+"-0.9995148904594667"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.3,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002175926543855",
+"-1.997297651817755",
+"0.9970869038140603"
+],
+"a": [
+"1.997297651817755",
+"-0.9973044964684459"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Buddy%20(2026)%20(%2B6%20gain)%20DD%2B.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Buddy%20(2026)%20(%2B6%20gain)%20DD%2B%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "6.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1791?post_id=64925699#post-64925699",
+"sortTitle": "buddy",
+"edition": "",
+"note": "Dialnorm Compensation: 2dB",
+"language": "English",
+"source": "Disc",
+"overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
+"theMovieDB": "1514026",
+"rating": "R",
+"runtime": "95",
+"genres": [
+"Horror",
+"Comedy",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Buddy (2026) (+6.0 gain) BEQ DD+ remixmark",
+"digest": "04e4e9c26a433e25992ab756566757066bd78eb35d3cae6c68d789174e6e22a1",
+"created_at": 1791913132,
+"updated_at": 1791913132,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Bugonia",
 "year": "2025",
 "audioTypes": [
