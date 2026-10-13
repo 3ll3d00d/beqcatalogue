@@ -2177709,6 +2177709,168 @@
 "filterAuthor": "human"
 },
 {
+"title": "Runner",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/runner/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 16.0,
+"gain": 1.8,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000362279699118",
+"-1.9996842454242532",
+"0.9996491139044218"
+],
+"a": [
+"1.9996842454242532",
+"-0.9996853418743334"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": -1.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999599246483305",
+"-1.9993225865827235",
+"0.9993662632965356"
+],
+"a": [
+"1.9993225865827235",
+"-0.999326187944866"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Runner/Runner%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Runner/Runner%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "runner",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+"theMovieDB": "1377237",
+"rating": "PG-13",
+"runtime": "97",
+"genres": [
+"Action",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Runner (2026) BEQ DD+",
+"digest": "681aca6ab8c2da7c8a5b3ee71c69d7becb05ba723cb827fe8e984b6b3a4450d8",
+"created_at": 1791911563,
+"updated_at": 1791911563,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Rupture",
 "year": "2016",
 "audioTypes": [
