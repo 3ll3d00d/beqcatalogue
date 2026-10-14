@@ -1847808,7 +1847808,7 @@
 "mv": "6.0",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1792#post-64926769",
 "sortTitle": "buddy",
-"edition": "",
+"edition": "1080p",
 "note": "Dialnorm Compensation: 2dB AI Created",
 "language": "English",
 "source": "Disc",
@@ -1847826,7 +1847826,7 @@
 "underlying": "Buddy (2026) (+6.0 gain) BEQ DD+ 5.1 remixmark",
 "digest": "791e4297f0acfdbfd64724b2c7d07b06ad685c1446ecb992a21f751652ca0c22",
 "created_at": 1791931368,
-"updated_at": 1791931368,
+"updated_at": 1791987986,
 "audioCodecs": [
 "DD+"
 ],

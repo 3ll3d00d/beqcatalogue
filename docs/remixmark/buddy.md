@@ -2,6 +2,8 @@
 
 ## DD+ 5.1
 
+1080p
+
 **2026 • R • 1h 35m • Horror, Comedy, Fantasy • remixmark**
 
 A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.
