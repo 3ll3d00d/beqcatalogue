@@ -2019167,6 +2019167,149 @@
 "filterAuthor": "model"
 },
 {
+"title": "South Park",
+"year": "1997",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/south-park/#season-29e03",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 1.06,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000299615985702",
+"-1.9990475879395722",
+"0.9990182816905671"
+],
+"a": [
+"1.99904762558429",
+"-0.99904820564442"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 1.06,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000299615985702",
+"-1.9990475879395722",
+"0.9990182816905671"
+],
+"a": [
+"1.99904762558429",
+"-0.99904820564442"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 1.06,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000299615985702",
+"-1.9990475879395722",
+"0.9990182816905671"
+],
+"a": [
+"1.99904762558429",
+"-0.99904820564442"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.94,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002858268062318",
+"-1.9990935884185304",
+"0.9988114370392093"
+],
+"a": [
+"1.9990947354505308",
+"-0.9990961168134406"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 1.45,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0003275697123524",
+"-1.9963901504400643",
+"0.9960664290895609"
+],
+"a": [
+"1.9963901504400643",
+"-0.9963939988019135"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20%281997%29%20%28Season%20S29E03%29%20%28%2B7.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20%281997%29%20%28Season%20S29E03%29%20%28%2B7.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "29E03",
+"episode": "",
+"mv": "7.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1793#post-64933009",
+"sortTitle": "south park",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "When aura battles take over South America, Kyle tries to help his little brother not be cringe.",
+"theMovieDB": "2190",
+"rating": "TV-MA",
+"genres": [
+"Comedy",
+"Animation"
+],
+"underlying": "South Park (1997) (Season S29E03) (+7.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "0d47d2ed969156b2773ebfe3d4844fcbaf798184ba5d70766957102906b8f2b9",
+"created_at": 1792106190,
+"updated_at": 1792106190,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Spartacus: House of Ashur",
 "year": "2025",
 "audioTypes": [
