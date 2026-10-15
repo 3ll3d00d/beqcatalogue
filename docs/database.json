@@ -2006161,6 +2006161,188 @@
 "filterAuthor": "model"
 },
 {
+"title": "MobLand",
+"year": "2025",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/mobland/#season-02e05",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.01,
+"gain": 6.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001356607014409",
+"-1.9994019740223261",
+"0.9992670679996831"
+],
+"a": [
+"1.9994021728231135",
+"-0.999402529900337"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.01,
+"gain": 6.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001356607014409",
+"-1.9994019740223261",
+"0.9992670679996831"
+],
+"a": [
+"1.9994021728231135",
+"-0.999402529900337"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.01,
+"gain": 6.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001356607014409",
+"-1.9994019740223261",
+"0.9992670679996831"
+],
+"a": [
+"1.9994021728231135",
+"-0.999402529900337"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.01,
+"gain": 6.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001356607014409",
+"-1.9994019740223261",
+"0.9992670679996831"
+],
+"a": [
+"1.9994021728231135",
+"-0.999402529900337"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 6.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002847807069526",
+"-1.9987439891561274",
+"0.9984648097363937"
+],
+"a": [
+"1.9987454646716873",
+"-0.998748114927787"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 6.0,
+"q": 1.07,
+"biquads": {
+"96000": {
+"b": [
+"1.0006460578252994",
+"-1.9986978807616094",
+"0.9980556757466789"
+],
+"a": [
+"1.9986978807616094",
+"-0.9987017335719784"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 12.69,
+"gain": -0.32,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999969401953541",
+"-1.9998301246045798",
+"0.9998338741783495"
+],
+"a": [
+"1.9998301246045798",
+"-0.9998308143737035"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E05%29%20%281080p%29%20%28%2B5.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E05%29%20%281080p%29%20%28%2B5.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E05",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1792#post-64930885",
+"sortTitle": "mobland",
+"edition": "1080p",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Conrad declares war, stacking bodies and turning the Cotswolds into a fortress; Maeve plays puppet-master, sending Eddie on a mission before secrets start to spill, and a hit hurtles the Harrigans into all-out chaos.",
+"theMovieDB": "247718",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama"
+],
+"underlying": "MobLand (2025) (Season S02E05) (1080p) (+5.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "08be3f350b07a842a71c1c11450947ac2c41f1f6d938941052b8a158c9da62c5",
+"created_at": 1792063276,
+"updated_at": 1792063276,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Monarch: Legacy of Monsters",
 "year": "2023",
 "audioTypes": [
