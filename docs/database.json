@@ -2006319,7 +2006319,7 @@
 "mv": "5.0",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1792#post-64930885",
 "sortTitle": "mobland",
-"edition": "1080p",
+"edition": "",
 "note": "Dialnorm Compensation: 4dB AI Created",
 "language": "English",
 "source": "Disc",
@@ -2006330,10 +2006330,10 @@
 "Crime",
 "Drama"
 ],
-"underlying": "MobLand (2025) (Season S02E05) (1080p) (+5.0 gain) BEQ DD+ 5.1 remixmark",
+"underlying": "MobLand (2025) (Season S02E05) (+5.0 gain) BEQ DD+ 5.1 remixmark",
 "digest": "08be3f350b07a842a71c1c11450947ac2c41f1f6d938941052b8a158c9da62c5",
-"created_at": 1792063276,
-"updated_at": 1792063276,
+"created_at": 1792064880,
+"updated_at": 1792064880,
 "audioCodecs": [
 "DD+"
 ],
