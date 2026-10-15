@@ -1983733,6 +1983733,208 @@
 "filterAuthor": "human"
 },
 {
+"title": "Crystal Lake",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/crystal-lake/#season-01e01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.58,
+"gain": 3.9,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000077922770972",
+"-1.9993807660859146",
+"0.9993034433190456"
+],
+"a": [
+"1.9993808746076107",
+"-0.9993812575683212"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.58,
+"gain": 3.9,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000077922770972",
+"-1.9993807660859146",
+"0.9993034433190456"
+],
+"a": [
+"1.9993808746076107",
+"-0.9993812575683212"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.58,
+"gain": 3.9,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000077922770972",
+"-1.9993807660859146",
+"0.9993034433190456"
+],
+"a": [
+"1.9993808746076107",
+"-0.9993812575683212"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.58,
+"gain": 3.9,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000077922770972",
+"-1.9993807660859146",
+"0.9993034433190456"
+],
+"a": [
+"1.9993808746076107",
+"-0.9993812575683212"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 3.74,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001632079136247",
+"-1.9986407373889605",
+"0.9984823076862703"
+],
+"a": [
+"1.9986415732660303",
+"-0.9986446797228254"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 6.0,
+"q": 1.39,
+"biquads": {
+"96000": {
+"b": [
+"1.0004973994202773",
+"-1.9989966122944405",
+"0.998503066260385"
+],
+"a": [
+"1.9989966122944405",
+"-0.9990004656806624"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 15.62,
+"gain": -0.11,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999989211715496",
+"-1.9998274995623255",
+"0.9998296234527828"
+],
+"a": [
+"1.9998274995623255",
+"-0.9998285446243325"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.58,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001247455269893",
+"-1.9994581122566795",
+"0.9993339921898972"
+],
+"a": [
+"1.9994582783747257",
+"-0.9994585715988406"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E01%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E01%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E01",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1793#post-64933019",
+"sortTitle": "crystal lake",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Camp Crystal Lake's idyllic summer is cut short by Jason's death; as the town moves on, Pam continues looking for him; Levon invites her to Founder's Day, but it only triggers Pam's pain; as she runs from her present, Pam is soon met with her past.",
+"theMovieDB": "213562",
+"rating": "TV-MA",
+"genres": [
+"Mystery",
+"Drama"
+],
+"underlying": "Crystal Lake (2026) (Season S01E01) (+4.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "10f96724d8d057421bc1afb546620003636ad2918bc50e62648de22973da2ef2",
+"created_at": 1792106482,
+"updated_at": 1792106482,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Daredevil: Born Again",
 "year": "2025",
 "audioTypes": [
