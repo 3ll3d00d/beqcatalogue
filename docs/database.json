@@ -2119131,6 +2119131,150 @@
 "filterAuthor": "human"
 },
 {
+"title": "Hope",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/hope/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001514738774269",
+"-1.9992655597124975",
+"0.9991146906992364"
+],
+"a": [
+"1.9992657105694813",
+"-0.9992660137196796"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -1.4,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999943697653583",
+"-1.9992391781897116",
+"0.9992998653663187"
+],
+"a": [
+"1.9992391781897116",
+"-0.9992435630199018"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000030062545675",
+"-1.9947802614526042",
+"0.9947775432360203"
+],
+"a": [
+"1.9947802614526042",
+"-0.9948076057816954"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hope/Hope%20(2026)%20(ko)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hope/Hope%20(2026)%20(ko)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "hope",
+"edition": "",
+"note": "",
+"language": "Korean",
+"source": "Disc",
+"overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+"theMovieDB": "1058424",
+"rating": "R",
+"runtime": "157",
+"genres": [
+"Science Fiction",
+"Mystery",
+"Action"
+],
+"altTitle": "\ud638\ud504",
+"collection": {},
+"underlying": "Hope (2026) BEQ DD+ Atmos",
+"digest": "a6eb52d890ec8b572244158f6ddbe0ad54a8cc3b0488dc0cf90d68bee7143898",
+"created_at": 1792094153,
+"updated_at": 1792094153,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Hoppers",
 "year": "2026",
 "audioTypes": [
