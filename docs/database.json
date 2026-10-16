@@ -1613101,6 +1613101,150 @@
 "filterAuthor": "human"
 },
 {
+"title": "Tenzing",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "t1g8rsfan",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/t1g8rsfan/tenzing/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 5.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000252701645563",
+"-1.998642840037342",
+"0.9983918363249149"
+],
+"a": [
+"1.9986432383007655",
+"-0.9986441397070546"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 5.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000252701645563",
+"-1.998642840037342",
+"0.9983918363249149"
+],
+"a": [
+"1.9986432383007655",
+"-0.9986441397070546"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 5.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000252701645563",
+"-1.998642840037342",
+"0.9983918363249149"
+],
+"a": [
+"1.9986432383007655",
+"-0.9986441397070546"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 5.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000252701645563",
+"-1.998642840037342",
+"0.9983918363249149"
+],
+"a": [
+"1.9986432383007655",
+"-0.9986441397070546"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -0.5,
+"q": 1.5,
+"biquads": {
+"96000": {
+"b": [
+"0.9999498035909203",
+"-1.9981984724121802",
+"0.9982555165590228"
+],
+"a": [
+"1.9981984724121802",
+"-0.9982053201499431"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Tenzing%20(2026)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Tenzing%20(2026)%20DD%2B%20Atmos.jpg"
+],
+"warning": "",
+"mv": "5.0",
+"avs": "",
+"sortTitle": "tenzing",
+"edition": "",
+"note": "+3dB Dialnorm Compensation",
+"language": "English",
+"source": "Apple TV+",
+"overview": "A determined man embarks on a high-stakes quest\u2014and defies seemingly impossible odds\u2014to fulfill his dream of being the first to reach the summit of Mount Everest.",
+"theMovieDB": "1288069",
+"rating": "PG",
+"runtime": "126",
+"genres": [
+"Drama",
+"History"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Tenzing (2026) (Apple TV+) (+5.0 gain) BEQ DD+ Atmos",
+"digest": "8955f9c4c96d9aad7dc0b6d7f4d86b7a399adb0318520a00a319a414090aab9e",
+"created_at": 1792154206,
+"updated_at": 1792154206,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The 5th Wave",
 "year": "2016",
 "audioTypes": [
