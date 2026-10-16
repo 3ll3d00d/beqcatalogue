@@ -1984703,6 +1984703,310 @@
 "filterAuthor": "model"
 },
 {
+"title": "Crystal Lake",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/crystal-lake/#season-01e06",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 14.89,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.000222603686564",
+"-1.9996714836223288",
+"0.9994498891795159"
+],
+"a": [
+"1.9996718973646743",
+"-0.9996720791237345"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.43,
+"gain": 12.38,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002095903171286",
+"-1.9995964138459879",
+"0.9993879646250338"
+],
+"a": [
+"1.9995968472136154",
+"-0.999597121574535"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 16.07,
+"gain": -2.82,
+"q": 5.01,
+"biquads": {
+"96000": {
+"b": [
+"0.9999657749867717",
+"-1.9997519870765976",
+"0.9997873181923049"
+],
+"a": [
+"1.9997519870765976",
+"-0.9997530931790768"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 31.05,
+"gain": 2.08,
+"q": 1.16,
+"biquads": {
+"96000": {
+"b": [
+"1.0002101023082923",
+"-1.9984428620965136",
+"0.998236886488878"
+],
+"a": [
+"1.9984428620965136",
+"-0.9984469887971702"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 21.31,
+"gain": 3.59,
+"q": 3.78,
+"biquads": {
+"96000": {
+"b": [
+"1.0000767842218676",
+"-1.999698010975896",
+"0.9996231717510518"
+],
+"a": [
+"1.999698010975896",
+"-0.9996999559729194"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E06%29%20%28%2B6.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E06%29%20%28%2B6.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E06",
+"episode": "",
+"mv": "6.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1793#post-64933411",
+"sortTitle": "crystal lake",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Pam thinks Jason is alive; the counselors mourn Willow, but their ceremony soon takes a dark turn when an uninvited guest arrives; Briana receives a mysterious envelope just as the state police step in and take over the case at Crystal Lake.",
+"theMovieDB": "213562",
+"rating": "TV-MA",
+"genres": [
+"Mystery",
+"Drama"
+],
+"underlying": "Crystal Lake (2026) (Season S01E06) (+6.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "d12d8deceb920afc1e121c1e427e4acc6116a9f489337b718863153a3a778ce3",
+"created_at": 1792118598,
+"updated_at": 1792118598,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Crystal Lake",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/crystal-lake/#season-01e07",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.64,
+"gain": 5.09,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000121691276445",
+"-1.9992849946610245",
+"0.9991642204625866"
+],
+"a": [
+"1.9992851980026058",
+"-0.99928570839745"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.64,
+"gain": 5.09,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000121691276445",
+"-1.9992849946610245",
+"0.9991642204625866"
+],
+"a": [
+"1.9992851980026058",
+"-0.99928570839745"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.64,
+"gain": 5.09,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000121691276445",
+"-1.9992849946610245",
+"0.9991642204625866"
+],
+"a": [
+"1.9992851980026058",
+"-0.99928570839745"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.64,
+"gain": 5.09,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000121691276445",
+"-1.9992849946610245",
+"0.9991642204625866"
+],
+"a": [
+"1.9992851980026058",
+"-0.99928570839745"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": 1.25,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001412776606413",
+"-1.9981713748248955",
+"0.9980332171176116"
+],
+"a": [
+"1.9981713748248955",
+"-0.9981744947782532"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 0.23,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000043341936466",
+"-1.9993496030336193",
+"0.9993457027763846"
+],
+"a": [
+"1.9993496087034788",
+"-0.9993500313001713"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E07%29%20%28%2B7.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E07%29%20%28%2B7.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E07",
+"episode": "",
+"mv": "7.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1793#post-64933415",
+"sortTitle": "crystal lake",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A young Pam gives birth to Jason after a complicated pregnancy; Elias climbs the corporate ladder as Jason grows into a young boy; during his 4th birthday party, Jason shows alarming symptoms that lead Pam to question her life.",
+"theMovieDB": "213562",
+"rating": "TV-MA",
+"genres": [
+"Mystery",
+"Drama"
+],
+"underlying": "Crystal Lake (2026) (Season S01E07) (+7.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "d46664d30e954ba14b860203bbe6bf984c3ac8bd7542a6890273760a5bfb2b50",
+"created_at": 1792118670,
+"updated_at": 1792118670,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Daredevil: Born Again",
 "year": "2025",
 "audioTypes": [
