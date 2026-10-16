@@ -1984118,6 +1984118,168 @@
 "filterAuthor": "model"
 },
 {
+"title": "Crystal Lake",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/crystal-lake/#season-01e03",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 9.54,
+"q": 0.88,
+"biquads": {
+"96000": {
+"b": [
+"1.0002068619245716",
+"-1.9994344992963045",
+"0.9992283790141617"
+],
+"a": [
+"1.9994347464759314",
+"-0.9994349937591063"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.05,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0001832017621934",
+"-1.9992678886021922",
+"0.999085329392127"
+],
+"a": [
+"1.9992680671932397",
+"-0.9992683525632731"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.05,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0001832017621934",
+"-1.9992678886021922",
+"0.999085329392127"
+],
+"a": [
+"1.9992680671932397",
+"-0.9992683525632731"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.05,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0001832017621934",
+"-1.9992678886021922",
+"0.999085329392127"
+],
+"a": [
+"1.9992680671932397",
+"-0.9992683525632731"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 18.41,
+"gain": -8.52,
+"q": 6.23,
+"biquads": {
+"96000": {
+"b": [
+"0.9999013096989401",
+"-1.9996827530468937",
+"0.9997828949788916"
+],
+"a": [
+"1.9996827530468937",
+"-0.9996842046778317"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 32.76,
+"gain": 0.49,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000671299624408",
+"-1.9976819743919623",
+"0.997619436433376"
+],
+"a": [
+"1.9976819743919623",
+"-0.9976865663958169"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E03%29%20%28%2B7.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E03%29%20%28%2B7.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E03",
+"episode": "",
+"mv": "7.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1793#post-64933095",
+"sortTitle": "crystal lake",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "The townspeople go bear hunting against Levon's orders; Pam confronts Valerie at work over Grace.",
+"theMovieDB": "213562",
+"rating": "TV-MA",
+"genres": [
+"Mystery",
+"Drama"
+],
+"underlying": "Crystal Lake (2026) (Season S01E03) (+7.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "212848c197aea1b8ef727b8ddd89b9f0316eccb7ad38a9a6029ccf571a118e5d",
+"created_at": 1792109116,
+"updated_at": 1792109116,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Daredevil: Born Again",
 "year": "2025",
 "audioTypes": [
