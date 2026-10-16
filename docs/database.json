@@ -1984522,6 +1984522,187 @@
 "filterAuthor": "model"
 },
 {
+"title": "Crystal Lake",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/crystal-lake/#season-01e05",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 14.21,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003441186681163",
+"-1.9994560753463346",
+"0.9991129270748474"
+],
+"a": [
+"1.9994564660473746",
+"-0.9994566550419237"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.46,
+"gain": 8.87,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0003533054742977",
+"-1.9989393247384808",
+"0.9985867998135477"
+],
+"a": [
+"1.9989395744503697",
+"-0.9989398555759561"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.46,
+"gain": 8.87,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0003533054742977",
+"-1.9989393247384808",
+"0.9985867998135477"
+],
+"a": [
+"1.9989395744503697",
+"-0.9989398555759561"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 18.52,
+"gain": -7.49,
+"q": 5.51,
+"biquads": {
+"96000": {
+"b": [
+"0.9999022008093912",
+"-1.9996600187292681",
+"0.9997592869329779"
+],
+"a": [
+"1.9996600187292681",
+"-0.9996614877423693"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 22.12,
+"gain": -5.46,
+"q": 8.68,
+"biquads": {
+"96000": {
+"b": [
+"0.9999467156562344",
+"-1.9997695420201274",
+"0.9998249221060473"
+],
+"a": [
+"1.9997695420201274",
+"-0.9997716377622815"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 32.99,
+"gain": -1.58,
+"q": 1.63,
+"biquads": {
+"96000": {
+"b": [
+"0.9998794410445053",
+"-1.9985456080624913",
+"0.9986708257401762"
+],
+"a": [
+"1.9985456080624913",
+"-0.9985502667846816"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 0.07,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000001648514345",
+"-1.9991834286188712",
+"0.9991822100268496"
+],
+"a": [
+"1.9991834303442915",
+"-0.9991838568157744"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E05%29%20%28%2B7.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E05%29%20%28%2B7.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E05",
+"episode": "",
+"mv": "7.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1793#post-64933357",
+"sortTitle": "crystal lake",
+"edition": "",
+"note": "Dialnorm Compensation: 3dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Camp Crystal Lake reopens despite the mounting death toll; Pam discovers life-changing news.",
+"theMovieDB": "213562",
+"rating": "TV-MA",
+"genres": [
+"Mystery",
+"Drama"
+],
+"underlying": "Crystal Lake (2026) (Season S01E05) (+7.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "1dd1e708d9995cc8e488d7cda9643b959761ab2cea940b5dc5d773a093f3e5eb",
+"created_at": 1792116823,
+"updated_at": 1792116823,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Daredevil: Born Again",
 "year": "2025",
 "audioTypes": [
