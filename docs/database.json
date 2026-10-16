@@ -2196566,6 +2196566,188 @@
 "filterAuthor": "human"
 },
 {
+"title": "Tenzing",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/tenzing/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.2,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002732728016956",
+"-1.9989355259182227",
+"0.9986637111544093"
+],
+"a": [
+"1.9989359367088542",
+"-0.9989365731654737"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.2,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002732728016956",
+"-1.9989355259182227",
+"0.9986637111544093"
+],
+"a": [
+"1.9989359367088542",
+"-0.9989365731654737"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.2,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002732728016956",
+"-1.9989355259182227",
+"0.9986637111544093"
+],
+"a": [
+"1.9989359367088542",
+"-0.9989365731654737"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.2,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002732728016956",
+"-1.9989355259182227",
+"0.9986637111544093"
+],
+"a": [
+"1.9989359367088542",
+"-0.9989365731654737"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 3.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001135592277017",
+"-1.9994477469126632",
+"0.9993359006860358"
+],
+"a": [
+"1.9994477469126632",
+"-0.9994494599137373"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": -4.4,
+"q": 2.5,
+"biquads": {
+"96000": {
+"b": [
+"0.9998392148295143",
+"-1.9991884303214738",
+"0.9993516818943616"
+],
+"a": [
+"1.9991884303214738",
+"-0.999190896723876"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 65.0,
+"gain": 0.2,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000244641203004",
+"-1.9978813642237538",
+"0.9978749796260832"
+],
+"a": [
+"1.9978813642237538",
+"-0.9978994437463836"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Tenzing/Tenzing%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Tenzing/Tenzing%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "tenzing",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Apple TV+",
+"overview": "A determined man embarks on a high-stakes quest\u2014and defies seemingly impossible odds\u2014to fulfill his dream of being the first to reach the summit of Mount Everest.",
+"theMovieDB": "1288069",
+"rating": "PG",
+"runtime": "126",
+"genres": [
+"Drama",
+"History"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Tenzing (2026) (Apple TV+) BEQ DD+ Atmos",
+"digest": "ead4e0ac0788b28d737239e987416b66269ef501bfae875a055851207baca1f0",
+"created_at": 1792150927,
+"updated_at": 1792150927,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Terrifier",
 "year": "2016",
 "audioTypes": [
