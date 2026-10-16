@@ -1987672,6 +1987672,188 @@
 "filterAuthor": "model"
 },
 {
+"title": "Dark Matter",
+"year": "2024",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/dark-matter/#season-02e08",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.01,
+"gain": 4.82,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001481693232608",
+"-1.9990731751661694",
+"0.9989259623115061"
+],
+"a": [
+"1.9990733788382844",
+"-0.9990739279626517"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.01,
+"gain": 4.82,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001481693232608",
+"-1.9990731751661694",
+"0.9989259623115061"
+],
+"a": [
+"1.9990733788382844",
+"-0.9990739279626517"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.01,
+"gain": 4.82,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001481693232608",
+"-1.9990731751661694",
+"0.9989259623115061"
+],
+"a": [
+"1.9990733788382844",
+"-0.9990739279626517"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.01,
+"gain": 4.82,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001481693232608",
+"-1.9990731751661694",
+"0.9989259623115061"
+],
+"a": [
+"1.9990733788382844",
+"-0.9990739279626517"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.5,
+"gain": 0.53,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000720361652278",
+"-1.9977056589514801",
+"0.9976381422438441"
+],
+"a": [
+"1.9977056589514801",
+"-0.9977101784090717"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 34.0,
+"gain": -0.46,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999970550802916",
+"-1.9988532005726374",
+"0.9988875988774244"
+],
+"a": [
+"1.9988532005726374",
+"-0.9988581496803401"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 0.49,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000115400323597",
+"-1.99919323110615",
+"0.9991821315192391"
+],
+"a": [
+"1.9991932431857207",
+"-0.9991936594720285"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20%282024%29%20%28Season%20S02E08%29%20%28%2B5.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20%282024%29%20%28Season%20S02E08%29%20%28%2B5.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E08",
+"episode": "",
+"mv": "5.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1793#post-64933983",
+"sortTitle": "dark matter",
+"edition": "",
+"note": "Dialnorm Compensation: 6dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "As unexpected reunions unfold, Agent MacNamara sees for himself what the Box can do.",
+"theMovieDB": "196322",
+"rating": "TV-MA",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "Dark Matter (2024) (Season S02E08) (+5.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "46f8a12eb31827a5e728dba77592fbccd2a41637d2c0089809fcfc6786396649",
+"created_at": 1792150685,
+"updated_at": 1792150685,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Death by Lightning",
 "year": "2025",
 "audioTypes": [
