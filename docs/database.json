@@ -1984280,6 +1984280,248 @@
 "filterAuthor": "model"
 },
 {
+"title": "Crystal Lake",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/crystal-lake/#season-01e04",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000144932696802",
+"-1.9993611294403861",
+"0.999216819299864"
+],
+"a": [
+"1.9993612934368823",
+"-0.9993615880001697"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000144932696802",
+"-1.9993611294403861",
+"0.999216819299864"
+],
+"a": [
+"1.9993612934368823",
+"-0.9993615880001697"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000144932696802",
+"-1.9993611294403861",
+"0.999216819299864"
+],
+"a": [
+"1.9993612934368823",
+"-0.9993615880001697"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000144932696802",
+"-1.9993611294403861",
+"0.999216819299864"
+],
+"a": [
+"1.9993612934368823",
+"-0.9993615880001697"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000144932696802",
+"-1.9993611294403861",
+"0.999216819299864"
+],
+"a": [
+"1.9993612934368823",
+"-0.9993615880001697"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 0.18,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000067844748493",
+"-1.9986972277621702",
+"0.9986918447435819"
+],
+"a": [
+"1.9986972421341145",
+"-0.9986986148464864"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 0.18,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000067844748493",
+"-1.9986972277621702",
+"0.9986918447435819"
+],
+"a": [
+"1.9986972421341145",
+"-0.9986986148464864"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 0.18,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000067844748493",
+"-1.9986972277621702",
+"0.9986918447435819"
+],
+"a": [
+"1.9986972421341145",
+"-0.9986986148464864"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": -1.61,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999554652827197",
+"-1.9994714912418396",
+"0.9995180987153448"
+],
+"a": [
+"1.9994714912418396",
+"-0.9994735639980643"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": 1.45,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000710738301797",
+"-1.9992146999490439",
+"0.9991465207546797"
+],
+"a": [
+"1.9992146999490439",
+"-0.9992175945848594"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E04%29%20%28%2B7.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01E04%29%20%28%2B7.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E04",
+"episode": "",
+"mv": "7.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1793#post-64933117",
+"sortTitle": "crystal lake",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Pam visits Levon in the middle of the night; Willow arrives in town searching for her friends but soon fears she's being followed; Pam asks for her job back at the camp where a new group of counselors now work; Briana's research takes an unexpected turn.",
+"theMovieDB": "213562",
+"rating": "TV-MA",
+"genres": [
+"Mystery",
+"Drama"
+],
+"underlying": "Crystal Lake (2026) (Season S01E04) (+7.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "1f87a78f9d068bc5f71d95883341aa882815a885d43eda7bc96b70f780cc5b66",
+"created_at": 1792109718,
+"updated_at": 1792109718,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Daredevil: Born Again",
 "year": "2025",
 "audioTypes": [
