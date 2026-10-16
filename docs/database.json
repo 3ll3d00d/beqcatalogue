@@ -1931038,6 +1931038,150 @@
 "filterAuthor": "human"
 },
 {
+"title": "Tenzing",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/tenzing/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.08,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000172719577721",
+"-1.9991755468460926",
+"0.9990037022538351"
+],
+"a": [
+"1.999175767083293",
+"-0.999176201594355"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.08,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000172719577721",
+"-1.9991755468460926",
+"0.9990037022538351"
+],
+"a": [
+"1.999175767083293",
+"-0.999176201594355"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.08,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000172719577721",
+"-1.9991755468460926",
+"0.9990037022538351"
+],
+"a": [
+"1.999175767083293",
+"-0.999176201594355"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.8,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002840797457089",
+"-1.999099132986858",
+"0.9988186839536065"
+],
+"a": [
+"1.9991002660643138",
+"-0.9991016306218595"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 1.63,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0003683530902296",
+"-1.9964272551897837",
+"0.9960627505329285"
+],
+"a": [
+"1.9964272551897837",
+"-0.996431103623158"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Tenzing%20%282026%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Tenzing%20%282026%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1793#post-64934017",
+"sortTitle": "tenzing",
+"edition": "",
+"note": "Dialnorm Compensation: 3dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A determined man embarks on a high-stakes quest\u2014and defies seemingly impossible odds\u2014to fulfill his dream of being the first to reach the summit of Mount Everest.",
+"theMovieDB": "1288069",
+"rating": "PG",
+"runtime": "126",
+"genres": [
+"Drama",
+"History"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Tenzing (2026) (+5.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "8071584bc45a0dc6c5ca01c3dda5ae0dd94d079538fa6f8a1032ecb6c79b9490",
+"created_at": 1792151595,
+"updated_at": 1792151595,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Terminator 2: Judgment Day",
 "year": "1991",
 "audioTypes": [
