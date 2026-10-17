@@ -1918715,6 +1918715,149 @@
 "filterAuthor": "human"
 },
 {
+"title": "Runner",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/runner/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.6,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001819099546996",
+"-1.9994319175995896",
+"0.9992507102220104"
+],
+"a": [
+"1.9994321383720741",
+"-0.9994323994042258"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 6.0,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002046059948673",
+"-1.999007775076222",
+"0.9988051285895395"
+],
+"a": [
+"1.9990082637900712",
+"-0.9990092458705574"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 6.0,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002046059948673",
+"-1.999007775076222",
+"0.9988051285895395"
+],
+"a": [
+"1.9990082637900712",
+"-0.9990092458705574"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": -4.3,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9998582076545418",
+"-1.999270827463293",
+"0.999415514525833"
+],
+"a": [
+"1.999270827463293",
+"-0.9992737221803748"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 39.0,
+"gain": 1.4,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0001870118831981",
+"-1.9978549609276293",
+"0.9976744575551502"
+],
+"a": [
+"1.9978549609276293",
+"-0.9978614694383483"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Runner%20(2026)%20(%2B5%20gain)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Runner%20(2026)%20(%2B5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1794?post_id=64936485#post-64936485",
+"sortTitle": "runner",
+"edition": "",
+"note": "Dialnorm Compensation: 3dB",
+"language": "English",
+"source": "Disc",
+"overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+"theMovieDB": "1377237",
+"rating": "PG-13",
+"runtime": "97",
+"genres": [
+"Action",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Runner (2026) (+5.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "363ee87d17320bdf3b10ffa9a2ac2852aa50056adddd5d981067942e6ae560b3",
+"created_at": 1792240576,
+"updated_at": 1792240576,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "SLC Punk",
 "year": "1998",
 "audioTypes": [
