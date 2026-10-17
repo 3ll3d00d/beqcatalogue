@@ -2200567,6 +2200567,110 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Autopsy of Jane Doe",
+"year": "2016",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-autopsy-of-jane-doe/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001642391331267",
+"-1.9992760386527828",
+"0.9991124220494404"
+],
+"a": [
+"1.9992762026422997",
+"-0.9992764971930507"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -1.2,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999418514049763",
+"-1.9990931766300608",
+"0.9991568743732123"
+],
+"a": [
+"1.9990931766300608",
+"-0.9990987257781885"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Autopsy%20of%20Jane%20Doe/The%20Autopsy%20of%20Jane%20Doe%20(2016)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Autopsy%20of%20Jane%20Doe/The%20Autopsy%20of%20Jane%20Doe%20(2016)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "autopsy of jane doe",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Father and son coroners receive a mysterious unidentified corpse with no apparent cause of death. As they attempt to examine the \"Jane Doe,\" they discover increasingly bizarre clues that hold the key to her terrifying secrets.",
+"theMovieDB": "397243",
+"rating": "",
+"runtime": "86",
+"genres": [
+"Horror",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Autopsy of Jane Doe (2016) BEQ DTS-HD MA 5.1",
+"digest": "bdcdbe26e619dacf9c856d9edbb55819178a0779876c5d727858a40f802ab594",
+"created_at": 1792208806,
+"updated_at": 1792208806,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The BFG",
 "year": "2016",
 "audioTypes": [
