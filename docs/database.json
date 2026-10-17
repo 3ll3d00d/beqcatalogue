@@ -2303258,6 +2303258,148 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Fix",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-fix-TV",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004781210207638",
+"-1.9980722341193051",
+"0.9975987810541936"
+],
+"a": [
+"1.998073525547532",
+"-0.9980756106467306"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004781210207638",
+"-1.9980722341193051",
+"0.9975987810541936"
+],
+"a": [
+"1.998073525547532",
+"-0.9980756106467306"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004781210207638",
+"-1.9980722341193051",
+"0.9975987810541936"
+],
+"a": [
+"1.998073525547532",
+"-0.9980756106467306"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 44.0,
+"gain": -1.9,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9998873507187429",
+"-1.9988450015408121",
+"0.9989659392706419"
+],
+"a": [
+"1.9988450015408121",
+"-0.9988532899893849"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Fix/The%20Fix%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Fix/The%20Fix%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "fix",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+"theMovieDB": "1228834",
+"rating": "R",
+"genres": [
+"Action",
+"Thriller"
+],
+"underlying": "The Fix (2026) BEQ DD+",
+"digest": "eeb8e01c4bc031fcb86cecfd52c9d4b2ae5bb3a4d80fac66e4c9a4c3c17075cb",
+"created_at": 1792206469,
+"updated_at": 1792206469,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Gentlemen",
 "year": "2024",
 "audioTypes": [
