@@ -2283311,6 +2283311,167 @@
 "filterAuthor": "human"
 },
 {
+"title": "Marble Hall Murders",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/marble-hall-murders/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": 2.8,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001129797417918",
+"-1.9994015852897575",
+"0.9992929907343552"
+],
+"a": [
+"1.9994015852897575",
+"-0.9994059704761468"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 43.0,
+"gain": -3.0,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9997966256257514",
+"-1.9985993684113583",
+"0.9988106577937358"
+],
+"a": [
+"1.9985993684113583",
+"-0.9986072834194873"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Marble%20Hall%20Murders/Marble%20Hall%20Murders%20S01E01-06%20(2026)%20DD%2B5.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Marble%20Hall%20Murders/Marble%20Hall%20Murders%20S01E01-06%20(2026)%20DD%2B5.1hm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "marble hall murders",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Returning to England, Susan Ryeland is reluctantly drawn into a new Atticus P\u00fcnd mystery, this time written by a new, young writer. 'P\u00fcnd\u2019s Last Case\" is a story set in 1955, in an exotic villa in Corfu \u2013 but the identity of a real killer is hidden in the text, and once again Susan is going to find herself in grave danger.",
+"theMovieDB": "283319",
+"rating": "",
+"genres": [
+"Mystery",
+"Crime"
+],
+"underlying": "Marble Hall Murders (2026) (Season 01) BEQ DD+",
+"digest": "818ef748716cba0c2d28fa6fd6ea8f3eefe150b089c1024dd72ff62c58aaa40b",
+"created_at": 1792204262,
+"updated_at": 1792204262,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Marvel Zombies",
 "year": "2025",
 "audioTypes": [
