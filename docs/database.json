@@ -2150609,28 +2150609,29 @@
 "title": "Masters of the Universe",
 "year": "2026",
 "audioTypes": [
+"Atmos",
 "DD+ Atmos",
 "DD+"
 ],
 "content_type": "film",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/masters-of-the-universe/#dd-atmos-dd",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/masters-of-the-universe/#atmos-dd-atmos-dd",
 "filters": [
 {
 "type": "LowShelf",
 "freq": 10.0,
-"gain": 9.5,
+"gain": 8.0,
 "q": 0.75,
 "biquads": {
 "96000": {
 "b": [
-"1.0002416417249285",
-"-1.9993358345469243",
-"0.9990949327221814"
+"1.0002027506418185",
+"-1.9993065836021406",
+"0.9991045116430174"
 ],
 "a": [
-"1.9993360805765215",
-"-0.9993363284175123"
+"1.9993067878492643",
+"-0.9993070580377119"
 ]
 }
 },
@@ -2150639,18 +2150640,18 @@
 {
 "type": "LowShelf",
 "freq": 20.0,
-"gain": 6.0,
+"gain": 8.5,
 "q": 0.75,
 "biquads": {
 "96000": {
 "b": [
-"1.0003029873811276",
-"-1.9985307507915822",
-"0.9982301819794888"
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
 ],
 "a": [
-"1.9985313539981375",
-"-0.9985325661540613"
+"1.9986333277328339",
+"-0.9986343774701348"
 ]
 }
 },
@@ -2150659,45 +2150660,26 @@
 {
 "type": "PeakingEQ",
 "freq": 38.0,
-"gain": -0.3,
+"gain": -0.4,
 "q": 3.0,
 "biquads": {
 "96000": {
 "b": [
-"0.9999856884738269",
-"-1.9991507008190634",
-"0.9991711953719246"
+"0.9999809172738446",
+"-1.9991458355351515",
+"0.9991711012729472"
 ],
 "a": [
-"1.9991507008190634",
-"-0.9991568838457514"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 45.0,
-"gain": 0.1,
-"q": 5.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000033898576046",
-"-1.999405832860933",
-"0.9994111149146262"
-],
-"a": [
-"1.999405832860933",
-"-0.9994145047722308"
+"1.9991458355351515",
+"-0.9991520185467918"
 ]
 }
 }
 }
 ],
 "images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Masters%20of%20the%20Universe/Masters%20of%20the%20Universe%20(2026)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Masters%20of%20the%20Universe/Masters%20of%20the%20Universe%20(2026)%20DD%2B%20Atmoshm.jpg"
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Masters%20of%20the%20Universe/Masters%20of%20the%20Universe%20(2026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Masters%20of%20the%20Universe/Masters%20of%20the%20Universe%20(2026)%20Atmoshm.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -2150718,15 +2150700,17 @@
 ],
 "altTitle": "",
 "collection": {},
-"underlying": "Masters of the Universe (2026) BEQ DD+ Atmos",
-"digest": "fd3868867970daa6e3a5d9fa15d47d3e07e7aeffb1e1c9ac542991190c51fba6",
-"created_at": 1784757010,
-"updated_at": 1784757637,
+"underlying": "Masters of the Universe (2026) BEQ Atmos",
+"digest": "a4b08674dc1e0237938d294aa53a1b69d52235c5174f7db3e8187a7383a9f8c6",
+"created_at": 1792253135,
+"updated_at": 1792253135,
 "audioCodecs": [
+"Atmos",
 "DD+ Atmos",
 "DD+"
 ],
 "audioChannelCounts": [
+"",
 "",
 ""
 ],
