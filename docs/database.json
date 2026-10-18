@@ -1915062,6 +1915062,208 @@
 "filterAuthor": "human"
 },
 {
+"title": "Pulp Fiction",
+"year": "1994",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/pulp-fiction/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 5.49,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003464679877003",
+"-1.998134904905662",
+"0.997793720220058"
+],
+"a": [
+"1.9981361425297461",
+"-0.9981389505836745"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 5.49,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003464679877003",
+"-1.998134904905662",
+"0.997793720220058"
+],
+"a": [
+"1.9981361425297461",
+"-0.9981389505836745"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 5.49,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003464679877003",
+"-1.998134904905662",
+"0.997793720220058"
+],
+"a": [
+"1.9981361425297461",
+"-0.9981389505836745"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 5.49,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003464679877003",
+"-1.998134904905662",
+"0.997793720220058"
+],
+"a": [
+"1.9981361425297461",
+"-0.9981389505836745"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": -1.31,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999177113784354",
+"-1.9988137196088924",
+"0.9989067111323185"
+],
+"a": [
+"1.9988137196088924",
+"-0.9988244225107541"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 54.0,
+"gain": 1.16,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000786823624113",
+"-1.9988861259840518",
+"0.998819927947866"
+],
+"a": [
+"1.9988861259840518",
+"-0.9988986103102772"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 58.0,
+"gain": -0.26,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999971618674052",
+"-1.9980607955464758",
+"0.9981035732944123"
+],
+"a": [
+"1.9980607955464758",
+"-0.9980751919684643"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 72.0,
+"gain": 0.95,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002572571948827",
+"-1.995526184965819",
+"0.9952910849117207"
+],
+"a": [
+"1.995526184965819",
+"-0.9955483421066034"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Pulp%20Fiction%20%281994%29%20%28%2B3.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Pulp%20Fiction%20%281994%29%20%28%2B3.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "3.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1794#post-64938667",
+"sortTitle": "pulp fiction",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+"theMovieDB": "680",
+"rating": "R",
+"runtime": "154",
+"genres": [
+"Thriller",
+"Crime",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Pulp Fiction (1994) (+3.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "2fc16392de23d141038377057a9490c04fd29b73c3160cf7837b397afd6bbf4a",
+"created_at": 1792308302,
+"updated_at": 1792308302,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Purple Rain",
 "year": "1984",
 "audioTypes": [
