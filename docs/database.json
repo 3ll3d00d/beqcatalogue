@@ -2232505,6 +2232505,208 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Storm",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-storm/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004747942464156",
+"-1.9982405413540658",
+"0.9977698663344062"
+],
+"a": [
+"1.9982417324356838",
+"-0.9982434694992033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004747942464156",
+"-1.9982405413540658",
+"0.9977698663344062"
+],
+"a": [
+"1.9982417324356838",
+"-0.9982434694992033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004747942464156",
+"-1.9982405413540658",
+"0.9977698663344062"
+],
+"a": [
+"1.9982417324356838",
+"-0.9982434694992033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": 8.9,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0004551159171233",
+"-1.999487491259778",
+"0.999035270373441"
+],
+"a": [
+"1.999487491259778",
+"-0.9994903862905643"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -6.1,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9996164413089406",
+"-1.9984740528633544",
+"0.9988631589839575"
+],
+"a": [
+"1.9984740528633544",
+"-0.9984796002928982"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Storm/The%20Storm%20(2026)%20(swe)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Storm/The%20Storm%20(2026)%20(swe)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "storm",
+"edition": "",
+"note": "Language = Swedish",
+"language": "Norwegian",
+"source": "Disc",
+"overview": "When a storm traps old university pals at a luxury lodge, their civilized birthday bash spirals into a cyclone of betrayals, grudges and unfiltered chaos.",
+"theMovieDB": "1623256",
+"rating": "R",
+"runtime": "101",
+"genres": [
+"Comedy",
+"Drama"
+],
+"altTitle": "Stormen",
+"collection": {},
+"underlying": "The Storm (2026) BEQ DD+",
+"digest": "5253b1017806ca88679327d78681517aba799fe3bcd59cab40ec5fe2fc64ae3e",
+"created_at": 1792297697,
+"updated_at": 1792297697,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Storm Riders",
 "year": "1998",
 "audioTypes": [
