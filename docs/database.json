@@ -2124894,6 +2124894,108 @@
 "title": "I Want Your Sex",
 "year": "2026",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/i-want-your-sex/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": -1.5,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9999305861917572",
+"-1.9991215736200985",
+"0.9991941088653435"
+],
+"a": [
+"1.9991215736200985",
+"-0.9991246950571007"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Want%20Your%20Sex/I%20Want%20Your%20Sex%20(2026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Want%20Your%20Sex/I%20Want%20Your%20Sex%20(2026)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "i want your sex",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "When a naive young man becomes the sexual muse for a renowned and provocative artist, his dream job quickly turns dangerous as he is drawn into an obsessive world of power, betrayal, and murder.",
+"theMovieDB": "1288059",
+"rating": "R",
+"runtime": "90",
+"genres": [
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "I Want Your Sex (2026) BEQ Atmos",
+"digest": "154e150208a6affa906f6b0253006157b2ed036f4305315ee2b1ff90af111d88",
+"created_at": 1792293194,
+"updated_at": 1792293194,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "I Want Your Sex",
+"year": "2026",
+"audioTypes": [
 "DD+"
 ],
 "content_type": "film",

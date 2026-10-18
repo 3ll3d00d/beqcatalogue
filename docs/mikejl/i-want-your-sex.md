@@ -1,5 +1,19 @@
 # I Want Your Sex
 
+## Atmos
+
+**2026 • R • 1h 30m • Comedy • mikejl**
+
+When a naive young man becomes the sexual muse for a renowned and provocative artist, his dream job quickly turns dangerous as he is drawn into an obsessive world of power, betrayal, and murder.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/1288059)  [Compare across authors](../compare/index.md?t=film-i-want-your-sex_1288059)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Want%20Your%20Sex/I%20Want%20Your%20Sex%20(2026)%20Atmos.jpg)
+
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Want%20Your%20Sex/I%20Want%20Your%20Sex%20(2026)%20Atmoshm.jpg)
+
 ## DD+
 
 **2026 • R • 1h 30m • Comedy • mikejl**
@@ -10,7 +24,7 @@ When fresh-faced Elliot lands an exciting job for renowned artist, icon and prov
 [TMDB](https://www.themoviedb.org/movie/1288059)  [Compare across authors](../compare/index.md?t=film-i-want-your-sex_1288059)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Want%20Your%20Sex/I%20Want%20Your%20Sex%20(2026)%20DD%2B%205.1.jpg)
+![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Want%20Your%20Sex/I%20Want%20Your%20Sex%20(2026)%20DD%2B%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Want%20Your%20Sex/I%20Want%20Your%20Sex%20(2026)%20DD%2B%205.1hm.jpg)
+![img 3](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/I%20Want%20Your%20Sex/I%20Want%20Your%20Sex%20(2026)%20DD%2B%205.1hm.jpg)
 
