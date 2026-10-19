@@ -2264468,6 +2264468,168 @@
 "filterAuthor": "human"
 },
 {
+"title": "Crystal Lake",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/crystal-lake/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002514988190965",
+"-1.9992588184568005",
+"0.999008189482556"
+],
+"a": [
+"1.9992590990629264",
+"-0.9992594076955268"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002514988190965",
+"-1.9992588184568005",
+"0.999008189482556"
+],
+"a": [
+"1.9992590990629264",
+"-0.9992594076955268"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002514988190965",
+"-1.9992588184568005",
+"0.999008189482556"
+],
+"a": [
+"1.9992590990629264",
+"-0.9992594076955268"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002514988190965",
+"-1.9992588184568005",
+"0.999008189482556"
+],
+"a": [
+"1.9992590990629264",
+"-0.9992594076955268"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": -3.1,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999119635880497",
+"-1.9994120120318415",
+"0.9995014359496749"
+],
+"a": [
+"1.9994120120318415",
+"-0.9994133995377246"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.3,
+"q": 1.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0000301164006127",
+"-1.9982791768123516",
+"0.9982559084260725"
+],
+"a": [
+"1.9982791768123516",
+"-0.9982860248266848"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crystal%20Lake/Crystal%20Lake%20S01E01-08%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crystal%20Lake/Crystal%20Lake%20S01E01-08%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "crystal lake",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Peacock",
+"overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+"theMovieDB": "213562",
+"rating": "TV-MA",
+"genres": [
+"Drama",
+"Mystery"
+],
+"underlying": "Crystal Lake (2026) (Season 01) (Peacock) BEQ DD+ Atmos",
+"digest": "214589ebb03308658ff07c90b6393ee6e146dfd7fc6cea4e810b32cfbe1c6a0b",
+"created_at": 1792375574,
+"updated_at": 1792375574,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Daredevil: Born Again",
 "year": "2025",
 "audioTypes": [
