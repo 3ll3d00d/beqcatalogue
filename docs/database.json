@@ -2120208,6 +2120208,130 @@
 "filterAuthor": "human"
 },
 {
+"title": "Her Private Hell",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/her-private-hell/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005303317611092",
+"-1.9974278474949352",
+"0.9969049185275595"
+],
+"a": [
+"1.9974296937989457",
+"-0.9974334039846581"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005303317611092",
+"-1.9974278474949352",
+"0.9969049185275595"
+],
+"a": [
+"1.9974296937989457",
+"-0.9974334039846581"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 48.0,
+"gain": -2.1,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998414926178136",
+"-1.9985140326377153",
+"0.9986824023319048"
+],
+"a": [
+"1.9985140326377153",
+"-0.9985238949497185"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000125450273336",
+"-1.997790436234127",
+"0.9978206814698521"
+],
+"a": [
+"1.997790436234127",
+"-0.9978332264971859"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Her%20Private%20Hell/Her%20Private%20Hell%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Her%20Private%20Hell/Her%20Private%20Hell%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "her private hell",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+"theMovieDB": "1469342",
+"rating": "R",
+"runtime": "110",
+"genres": [
+"Science Fiction",
+"Horror",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Her Private Hell (2026) BEQ DD+",
+"digest": "2837d2c875da64d37a0239608e6155bec43136b2e4fe368d12bf1433bd32f903",
+"created_at": 1792436017,
+"updated_at": 1792436017,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Heretic",
 "year": "2024",
 "audioTypes": [
