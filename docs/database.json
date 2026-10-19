@@ -1896733,6 +1896733,190 @@
 "title": "Masters of the Universe",
 "year": "2026",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/masters-of-the-universe/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.23,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000761796067639",
+"-1.999254349049618",
+"0.9991786851526864"
+],
+"a": [
+"1.9992544291275987",
+"-0.9992547846814696"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.23,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000761796067639",
+"-1.999254349049618",
+"0.9991786851526864"
+],
+"a": [
+"1.9992544291275987",
+"-0.9992547846814696"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.23,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000761796067639",
+"-1.999254349049618",
+"0.9991786851526864"
+],
+"a": [
+"1.9992544291275987",
+"-0.9992547846814696"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.23,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000761796067639",
+"-1.999254349049618",
+"0.9991786851526864"
+],
+"a": [
+"1.9992544291275987",
+"-0.9992547846814696"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 4.55,
+"q": 0.81,
+"biquads": {
+"96000": {
+"b": [
+"1.0003185349066448",
+"-1.9978717535064061",
+"0.9975582229559596"
+],
+"a": [
+"1.997872773786824",
+"-0.9978757375821863"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.3,
+"gain": -1.34,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999915907341043",
+"-1.9988188202138875",
+"0.9989076602095096"
+],
+"a": [
+"1.9988188202138875",
+"-0.9988235675505526"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 15.62,
+"gain": -0.01,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999999019252881",
+"-1.999828483619104",
+"0.9998296267563372"
+],
+"a": [
+"1.999828483619104",
+"-0.9998295286816253"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Masters%20of%20the%20Universe%20%282026%29%20%28-0.5%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Masters%20of%20the%20Universe%20%282026%29%20%28-0.5%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "-0.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1794#post-64941463",
+"sortTitle": "masters of the universe",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man \u2014 the most powerful man in the universe.",
+"theMovieDB": "454639",
+"rating": "PG-13",
+"runtime": "141",
+"genres": [
+"Action",
+"Fantasy",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Masters of the Universe (2026) (-0.5 gain) BEQ Atmos remixmark",
+"digest": "09924828e913df8e098cdd698bf36b792ac80b65d1141349b569d808313726fd",
+"created_at": 1792417278,
+"updated_at": 1792417278,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Masters of the Universe",
+"year": "2026",
+"audioTypes": [
 "DD+"
 ],
 "content_type": "film",
