@@ -2281864,6 +2281864,110 @@
 "filterAuthor": "human"
 },
 {
+"title": "Lisey's Story",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/liseys-story/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 4.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000100701912675",
+"-1.9992220996085963",
+"0.9991219367699489"
+],
+"a": [
+"1.9992221990792516",
+"-0.9992225392119686"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -1.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999623163152367",
+"-1.9993031067614462",
+"0.9993446444232482"
+],
+"a": [
+"1.9993031067614462",
+"-0.9993069607384852"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Liseys%20Story/Liseys%20Story%20S01E01-08%20(2021)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Liseys%20Story/Liseys%20Story%20S01E01-08%20(2021)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "lisey's story",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Apple TV+",
+"overview": "This terrifying thriller follows widow Lisey Landon as a series of disturbing events revives memories of her marriage to author Scott Landon and the darkness that plagued him.",
+"theMovieDB": "95839",
+"rating": "TV-MA",
+"genres": [
+"Mystery",
+"Drama",
+"Sci-Fi & Fantasy"
+],
+"underlying": "Lisey's Story (2021) (Season 01) (Apple TV+) BEQ DD+ Atmos",
+"digest": "9aecef7b4bab66499d8f6e9ebdb273a9cb37950a538ded35711a98b4ca28f503",
+"created_at": 1792414705,
+"updated_at": 1792414705,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Lost",
 "year": "2004",
 "audioTypes": [
