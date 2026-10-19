@@ -2151366,6 +2151366,189 @@
 "filterAuthor": "human"
 },
 {
+"title": "Masterplan",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/masterplan/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003311312431309",
+"-1.9991487868787805",
+"0.9988189424600568"
+],
+"a": [
+"1.9991492268261806",
+"-0.999149633755788"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003311312431309",
+"-1.9991487868787805",
+"0.9988189424600568"
+],
+"a": [
+"1.9991492268261806",
+"-0.999149633755788"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005697958862028",
+"-1.9978883179893954",
+"0.997324452748015"
+],
+"a": [
+"1.997890032845714",
+"-0.997892533777899"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005697958862028",
+"-1.9978883179893954",
+"0.997324452748015"
+],
+"a": [
+"1.997890032845714",
+"-0.997892533777899"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005697958862028",
+"-1.9978883179893954",
+"0.997324452748015"
+],
+"a": [
+"1.997890032845714",
+"-0.997892533777899"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 44.0,
+"gain": -3.0,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9997918993721184",
+"-1.9985666305343028",
+"0.9987830184564584"
+],
+"a": [
+"1.9985666305343028",
+"-0.9985749178285769"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000075110065843",
+"-1.9935081458550943",
+"0.9934757343308118"
+],
+"a": [
+"1.9935081458550943",
+"-0.993550844396655"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Masterplan/Masterplan%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Masterplan/Masterplan%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "masterplan",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Amazon",
+"overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together \u2014 and try not to kill each other \u2014 if they want any chance at pulling off the heist of the century.",
+"theMovieDB": "1561726",
+"rating": "R",
+"runtime": "110",
+"genres": [
+"Action",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Masterplan (2026) (Amazon) BEQ DD+",
+"digest": "6847d2cda2006e5e7bbc827b99036b1cdf0a44e3d798c31bd79c7b4c5d6849c3",
+"created_at": 1792437308,
+"updated_at": 1792437308,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Masters of the Universe",
 "year": "2026",
 "audioTypes": [
