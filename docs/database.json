@@ -2254526,6 +2254526,149 @@
 "filterAuthor": "human"
 },
 {
+"title": "Worldbreaker",
+"year": "2025",
+"audioTypes": [
+"DTS-HD MA 7.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/worldbreaker/#dts-hd-ma-71",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": 4.0,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001064079278834",
+"-1.9996327879858276",
+"0.9995297378530722"
+],
+"a": [
+"1.9996327879858276",
+"-0.9996361457809558"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -2.7,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998547329985468",
+"-1.9989067111320444",
+"0.9990578393033946"
+],
+"a": [
+"1.9989067111320444",
+"-0.9989125723019413"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Worldbreaker/Worldbreaker%20(2025)%20DTS-HD%20MA%207.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Worldbreaker/Worldbreaker%20(2025)%20DTS-HD%20MA%207.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "worldbreaker",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe.",
+"theMovieDB": "1196067",
+"rating": "R",
+"runtime": "95",
+"genres": [
+"Action",
+"Horror",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Worldbreaker (2025) BEQ DTS-HD MA 7.1",
+"digest": "75713841cbb927a331567c8b2cb797515c1f9805135982daa42d2c4c9fc0900e",
+"created_at": 1792373565,
+"updated_at": 1792373565,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"7.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Wormtown",
 "year": "2025",
 "audioTypes": [
