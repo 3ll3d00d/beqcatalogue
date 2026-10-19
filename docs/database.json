@@ -1599674,6 +1599674,298 @@
 "filterAuthor": "human"
 },
 {
+"title": "Masters of the Universe",
+"year": "2026",
+"audioTypes": [
+"Atmos",
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "t1g8rsfan",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/t1g8rsfan/masters-of-the-universe/#atmos-dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.0,
+"gain": 4.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001064649253917",
+"-1.9992000240674292",
+"0.9990942151800474"
+],
+"a": [
+"1.9992001474895538",
+"-0.999200556683314"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.0,
+"gain": 4.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001064649253917",
+"-1.9992000240674292",
+"0.9990942151800474"
+],
+"a": [
+"1.9992001474895538",
+"-0.999200556683314"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 3.5,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001468427621243",
+"-1.9986840555029084",
+"0.9985393072957696"
+],
+"a": [
+"1.9986844028388586",
+"-0.9986858027219435"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 3.5,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001468427621243",
+"-1.9986840555029084",
+"0.9985393072957696"
+],
+"a": [
+"1.9986844028388586",
+"-0.9986858027219435"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.4,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000752381877513",
+"-1.9968002648106813",
+"0.9967318695690974"
+],
+"a": [
+"1.9968002648106813",
+"-0.9968071077568487"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Masters%20of%20the%20Universe%20(2026)%20(-0.5%20gain)%20Atmos.jpg",
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Masters%20of%20the%20Universe%20(2026)%20Atmos.jpg"
+],
+"warning": "",
+"mv": "-0.5",
+"avs": "",
+"sortTitle": "masters of the universe",
+"edition": "",
+"note": "+6dB Dialnorm Compensation - DD+ Atmos",
+"language": "English",
+"source": "Disc",
+"overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man \u2014 the most powerful man in the universe.",
+"theMovieDB": "454639",
+"rating": "PG-13",
+"runtime": "141",
+"genres": [
+"Action",
+"Fantasy",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Masters of the Universe (2026) (-0.5 gain) BEQ Atmos",
+"digest": "8bf8251c27deb29c453446253ae3e70cc9522aef3e2a423695c07e78a2ed46ec",
+"created_at": 1792424280,
+"updated_at": 1792424280,
+"audioCodecs": [
+"Atmos",
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+"",
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Matchbox the Movie",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "t1g8rsfan",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/t1g8rsfan/matchbox-the-movie/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 4.9,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000226524764876",
+"-1.9986093732384518",
+"0.9983855954884121"
+],
+"a": [
+"1.9986099654221494",
+"-0.9986115280695901"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 4.9,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000226524764876",
+"-1.9986093732384518",
+"0.9983855954884121"
+],
+"a": [
+"1.9986099654221494",
+"-0.9986115280695901"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 4.9,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000226524764876",
+"-1.9986093732384518",
+"0.9983855954884121"
+],
+"a": [
+"1.9986099654221494",
+"-0.9986115280695901"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": -2.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999270247357144",
+"-1.9992867702884987",
+"0.9993633468504114"
+],
+"a": [
+"1.9992867702884987",
+"-0.9992903715861258"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 43.0,
+"gain": 0.8,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0001848607505177",
+"-1.9961599178935128",
+"0.995982962490223"
+],
+"a": [
+"1.9961599178935128",
+"-0.9961678232407406"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Matchbox%20The%20Movie%20(2026)%20(%2B3%20gain)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Matchbox%20The%20Movie%20(2026)%20DD%2B%20Atmos.jpg"
+],
+"warning": "",
+"mv": "3.0",
+"avs": "",
+"sortTitle": "matchbox the movie",
+"edition": "",
+"note": "+5 Dialnorm Compensation",
+"language": "English",
+"source": "Apple TV+",
+"overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+"theMovieDB": "1148365",
+"rating": "PG-13",
+"runtime": "127",
+"genres": [
+"Action",
+"Comedy",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Matchbox the Movie (2026) (Apple TV+) (+3.0 gain) BEQ DD+ Atmos",
+"digest": "01cd233d3a27498bde5bd478c8b607b971daaef5c0d0bc09ff68e9d3ede84636",
+"created_at": 1792424280,
+"updated_at": 1792424280,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Mayday",
 "year": "2026",
 "audioTypes": [

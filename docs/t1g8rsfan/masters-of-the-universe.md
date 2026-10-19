@@ -1,6 +1,6 @@
 # Masters of the Universe
 
-## DD+ Atmos
+## Atmos, DD+ Atmos
 
 **2026 • PG-13 • 2h 21m • Action, Fantasy, Science Fiction • t1g8rsfan**
 
@@ -9,13 +9,13 @@ After being separated for 15 years, the Sword of Power leads Prince Adam back to
 
 **MV Adjustment:** -0.5 dB
 
-+6dB Dialnorm Compensation
++6dB Dialnorm Compensation - DD+ Atmos
 { data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/454639)  [Compare across authors](../compare/index.md?t=film-masters-of-the-universe_454639)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Masters%20of%20the%20Universe%20(2026)%20(-0.5%20gain)%20DD%2B%20Atmos.jpg)
+![img 0](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Masters%20of%20the%20Universe%20(2026)%20(-0.5%20gain)%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Masters%20of%20the%20Universe%20(2026)%20DD%2B%20Atmos.jpg)
+![img 1](https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Masters%20of%20the%20Universe%20(2026)%20Atmos.jpg)
 
