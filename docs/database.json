@@ -2169399,11 +2169399,12 @@
 "title": "Over Your Dead Body",
 "year": "2026",
 "audioTypes": [
+"DTS-HD MA 5.1",
 "DD+ Atmos"
 ],
 "content_type": "film",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/over-your-dead-body/#dd-atmos",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/over-your-dead-body/#dts-hd-ma-51-dd-atmos",
 "filters": [
 {
 "type": "LowShelf",
@@ -2169505,8 +2169506,8 @@
 }
 ],
 "images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Over%20Your%20Dead%20Body/Over%20Your%20Dead%20Body%20(2026)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Over%20Your%20Dead%20Body/Over%20Your%20Dead%20Body%20(2026)%20DD%2B%20Atmoshm.jpg"
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Over%20Your%20Dead%20Body/Over%20Your%20Dead%20Body%20(2026)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Over%20Your%20Dead%20Body/Over%20Your%20Dead%20Body%20(2026)%20DTS-HD%20MA%205.1hm.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -2169518,8 +2169519,8 @@
 "source": "Disc",
 "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
 "theMovieDB": "1390300",
-"rating": "",
-"runtime": "106",
+"rating": "R",
+"runtime": "105",
 "genres": [
 "Action",
 "Comedy",
@@ -2169527,14 +2169528,16 @@
 ],
 "altTitle": "",
 "collection": {},
-"underlying": "Over Your Dead Body (2026) BEQ DD+ Atmos",
+"underlying": "Over Your Dead Body (2026) BEQ DTS-HD MA 5.1",
 "digest": "f23621a64e59e9514e582aaf728e92a0065b5a2220347db800592fc3affbfa5c",
-"created_at": 1780371987,
-"updated_at": 1780371987,
+"created_at": 1792438224,
+"updated_at": 1792438224,
 "audioCodecs": [
+"DTS-HD MA",
 "DD+ Atmos"
 ],
 "audioChannelCounts": [
+"5.1",
 ""
 ],
 "filterAuthor": "human"
