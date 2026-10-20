@@ -1888975,6 +1888975,251 @@
 "title": "KPop Demon Hunters",
 "year": "2025",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/kpop-demon-hunters/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 16.18,
+"gain": 3.85,
+"q": 1.19,
+"biquads": {
+"96000": {
+"b": [
+"1.0000988991084947",
+"-1.9992026146534605",
+"0.9991051146533332"
+],
+"a": [
+"1.9992028651300804",
+"-0.9992037632852081"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.18,
+"gain": 3.85,
+"q": 1.19,
+"biquads": {
+"96000": {
+"b": [
+"1.0000988991084947",
+"-1.9992026146534605",
+"0.9991051146533332"
+],
+"a": [
+"1.9992028651300804",
+"-0.9992037632852081"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.18,
+"gain": 3.85,
+"q": 1.19,
+"biquads": {
+"96000": {
+"b": [
+"1.0000988991084947",
+"-1.9992026146534605",
+"0.9991051146533332"
+],
+"a": [
+"1.9992028651300804",
+"-0.9992037632852081"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.18,
+"gain": 3.85,
+"q": 1.19,
+"biquads": {
+"96000": {
+"b": [
+"1.0000988991084947",
+"-1.9992026146534605",
+"0.9991051146533332"
+],
+"a": [
+"1.9992028651300804",
+"-0.9992037632852081"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 3.39,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0003067462730577",
+"-1.9971524187453908",
+"0.996852041683482"
+],
+"a": [
+"1.997153447813126",
+"-0.997157758888804"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 3.39,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0003067462730577",
+"-1.9971524187453908",
+"0.996852041683482"
+],
+"a": [
+"1.997153447813126",
+"-0.997157758888804"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 3.39,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0003067462730577",
+"-1.9971524187453908",
+"0.996852041683482"
+],
+"a": [
+"1.997153447813126",
+"-0.997157758888804"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 3.39,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0003067462730577",
+"-1.9971524187453908",
+"0.996852041683482"
+],
+"a": [
+"1.997153447813126",
+"-0.997157758888804"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 34.99,
+"gain": -2.26,
+"q": 10.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999701266393904",
+"-1.9997339633931648",
+"0.9997690805804881"
+],
+"a": [
+"1.9997339633931648",
+"-0.9997392072198786"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.46,
+"gain": -3.41,
+"q": 3.19,
+"biquads": {
+"96000": {
+"b": [
+"0.9998360846759908",
+"-1.9989833337277179",
+"0.9991542579454386"
+],
+"a": [
+"1.9989833337277179",
+"-0.9989903426214293"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/KPop%20Demon%20Hunters%20%282025%29%20%28%2B3.0%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/KPop%20Demon%20Hunters%20%282025%29%20%28%2B3.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "3.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1794#post-64944793",
+"sortTitle": "kpop demon hunters",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+"theMovieDB": "803796",
+"rating": "PG",
+"runtime": "96",
+"genres": [
+"Fantasy",
+"Music",
+"Comedy",
+"Animation"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "KPop Demon Hunters (2025) (+3.0 gain) BEQ Atmos remixmark",
+"digest": "c719ebfb8fa25faa796003d80a5196867ebc34643a88f111cb0d9277aed03036",
+"created_at": 1792506839,
+"updated_at": 1792506839,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "KPop Demon Hunters",
+"year": "2025",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
