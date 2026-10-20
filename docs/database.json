@@ -1943799,6 +1943799,150 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Green Mile",
+"year": "1999",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-green-mile/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.18,
+"gain": 6.42,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002456426668342",
+"-1.9989007956518414",
+"0.9986576760081834"
+],
+"a": [
+"1.998901454754717",
+"-0.9989026595721419"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.18,
+"gain": 6.42,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002456426668342",
+"-1.9989007956518414",
+"0.9986576760081834"
+],
+"a": [
+"1.998901454754717",
+"-0.9989026595721419"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.18,
+"gain": 6.42,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002456426668342",
+"-1.9989007956518414",
+"0.9986576760081834"
+],
+"a": [
+"1.998901454754717",
+"-0.9989026595721419"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.5,
+"gain": 1.39,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002181646991415",
+"-1.997479778787643",
+"0.9972676304412537"
+],
+"a": [
+"1.997479778787643",
+"-0.9974857951403953"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 17.58,
+"gain": -0.14,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999981456339466",
+"-1.9997667194940154",
+"0.9997698976058607"
+],
+"a": [
+"1.9997667194940154",
+"-0.9997680432398073"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Green%20Mile%20%281999%29%20%28%2B5.0%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Green%20Mile%20%281999%29%20%28%2B5.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1794#post-64946239",
+"sortTitle": "the green mile",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+"theMovieDB": "497",
+"rating": "R",
+"runtime": "189",
+"genres": [
+"Fantasy",
+"Drama",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Green Mile (1999) (+5.0 gain) BEQ Atmos remixmark",
+"digest": "4398f1b4c343d576a39a4260990e0c81727438ef7d9555c638285c106af58f60",
+"created_at": 1792529161,
+"updated_at": 1792529161,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Holdovers",
 "year": "2023",
 "audioTypes": [
