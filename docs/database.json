@@ -1985487,6 +1985487,188 @@
 ],
 "content_type": "TV",
 "author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/crystal-lake/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.64,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001813937785864",
+"-1.9993431183509294",
+"0.9991623893473913"
+],
+"a": [
+"1.9993433128129066",
+"-0.9993435886640003"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.64,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001813937785864",
+"-1.9993431183509294",
+"0.9991623893473913"
+],
+"a": [
+"1.9993433128129066",
+"-0.9993435886640003"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.64,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001813937785864",
+"-1.9993431183509294",
+"0.9991623893473913"
+],
+"a": [
+"1.9993433128129066",
+"-0.9993435886640003"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.64,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001813937785864",
+"-1.9993431183509294",
+"0.9991623893473913"
+],
+"a": [
+"1.9993433128129066",
+"-0.9993435886640003"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.09,
+"gain": 0.24,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.000007029316963",
+"-1.9989894065771463",
+"0.9989836451517738"
+],
+"a": [
+"1.998989423853929",
+"-0.9989906571919541"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 17.3,
+"gain": -9.38,
+"q": 3.18,
+"biquads": {
+"96000": {
+"b": [
+"0.9997983234878589",
+"-1.9993879241723347",
+"0.9995908823561256"
+],
+"a": [
+"1.9993879241723347",
+"-0.9993892058439845"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 34.02,
+"gain": 1.12,
+"q": 1.72,
+"biquads": {
+"96000": {
+"b": [
+"1.0000834690008622",
+"-1.998782073552598",
+"0.998703559307327"
+],
+"a": [
+"1.998782073552598",
+"-0.9987870283081892"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos.png",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "6.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1795#post-64947773",
+"sortTitle": "crystal lake",
+"edition": "",
+"note": "Dialnorm Compensation: E01 5dB; E02 4dB; E03 4dB; E04 4dB; E05 3dB; E06 5dB; E07 4dB; E08 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Camp Crystal Lake's idyllic summer is cut short by Jason's death; as the town moves on, Pam continues looking for him; Levon invites her to Founder's Day, but it only triggers Pam's pain; as she runs from her present, Pam is soon met with her past.",
+"theMovieDB": "213562",
+"rating": "TV-MA",
+"genres": [
+"Mystery",
+"Drama"
+],
+"underlying": "Crystal Lake (2026) (Season S01) (+0.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "b3260bba3c93476aeb6d59bba0ca3b0343ec7ce629b0ae54fa519844e783330e",
+"created_at": 1792587389,
+"updated_at": 1792587389,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Crystal Lake",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/crystal-lake/#season-01e01",
 "filters": [
 {

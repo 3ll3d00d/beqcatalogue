@@ -2,6 +2,28 @@
 
 * Author: remixmark
 
+## Season 01
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +6.5 dB
+
+Dialnorm Compensation: E01 5dB; E02 4dB; E03 4dB; E04 4dB; E05 3dB; E06 5dB; E07 4dB; E08 4dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1795#post-64947773)
+
+* [Compare across authors](../compare/index.md?t=TV-crystal-lake_213562)
+
+* Production Year: 2026
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos.png)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crystal%20Lake%20%282026%29%20%28Season%20S01%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
 ## Season 01E01
 
 * DD+ Atmos
