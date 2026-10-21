@@ -1936904,6 +1936904,151 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Cable Guy",
+"year": "1996",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-cable-guy/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 16.28,
+"gain": 3.18,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000097718176321",
+"-1.9990269902192028",
+"0.9989306347890334"
+],
+"a": [
+"1.9990271991106043",
+"-0.9990281440739525"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.28,
+"gain": 3.18,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000097718176321",
+"-1.9990269902192028",
+"0.9989306347890334"
+],
+"a": [
+"1.9990271991106043",
+"-0.9990281440739525"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.28,
+"gain": 3.18,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000097718176321",
+"-1.9990269902192028",
+"0.9989306347890334"
+],
+"a": [
+"1.9990271991106043",
+"-0.9990281440739525"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.28,
+"gain": 3.18,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000097718176321",
+"-1.9990269902192028",
+"0.9989306347890334"
+],
+"a": [
+"1.9990271991106043",
+"-0.9990281440739525"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": 0.73,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001007596642935",
+"-1.9976969153923725",
+"0.9976008152954766"
+],
+"a": [
+"1.9976969153923725",
+"-0.99770157495977"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Cable%20Guy%20%281996%29%20%28%2B4.0%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Cable%20Guy%20%281996%29%20%28%2B4.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1794#post-64947711",
+"sortTitle": "the cable guy",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "When recently single Steven moves into his new apartment, cable guy Chip comes to hook him up\u2014and doesn't let go. Initially, Chip is just overzealous in his desire to be Steven's pal, but when Steven tries to end the 'friendship', Chip shows his dark side. He begins stalking Steven, who's left to fend for himself because no one else can believe Chip's capable of such behaviour.",
+"theMovieDB": "9894",
+"rating": "PG-13",
+"runtime": "96",
+"genres": [
+"Comedy",
+"Drama",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Cable Guy (1996) (+4.0 gain) BEQ Atmos remixmark",
+"digest": "902babcf3c7ca1fe3b3a0a0246583051979bde3b8e2ce0fa03a03f600b793888",
+"created_at": 1792586193,
+"updated_at": 1792586193,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Cat Returns",
 "year": "2002",
 "audioTypes": [
