@@ -2179553,6 +2179553,389 @@
 "filterAuthor": "human"
 },
 {
+"title": "Resident Evil",
+"year": "2002",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/resident-evil/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9997453625689671",
+"-1.9988364588906473",
+"0.9990913370707373"
+],
+"a": [
+"1.9988361986074932",
+"-0.9988369599228577"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 41.0,
+"gain": -0.5,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999742630831367",
+"-1.9990726265432335",
+"0.9991055610129689"
+],
+"a": [
+"1.9990726265432335",
+"-0.9990798240961055"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20(2002)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20(2002)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "resident evil",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Paramount+",
+"overview": "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+"theMovieDB": "1576",
+"rating": "R",
+"runtime": "100",
+"genres": [
+"Horror",
+"Action",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "17255",
+"name": "Resident Evil Collection"
+},
+"underlying": "Resident Evil (2002) (Paramount+) BEQ DD+",
+"digest": "376c602efe2b1f7604b6433c8eb782e76ce7a39294980dabe77d0857283347a1",
+"created_at": 1792550550,
+"updated_at": 1792550550,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Resident Evil: Afterlife",
+"year": "2010",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/resident-evil-afterlife/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -4.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.999899308227179",
+"-1.9990208938517628",
+"0.9991219257230525"
+],
+"a": [
+"1.9990207943911233",
+"-0.999021333410871"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -0.9,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999612455385496",
+"-1.9992081539077569",
+"0.9992512931313533"
+],
+"a": [
+"1.9992081539077569",
+"-0.9992125386699029"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20-%20Afterlife%20(2010)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20-%20Afterlife%20(2010)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "resident evil: afterlife",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "In a world ravaged by a virus infection, turning its victims into the Undead, Alice continues on her journey to find survivors and lead them to safety. Her deadly battle with the Umbrella Corporation reaches new heights, but Alice gets some unexpected help from an old friend. A new lead that promises a safe haven from the Undead takes them to Los Angeles, but when they arrive the city is overrun by thousands of Undead - and Alice and her comrades are about to step into a deadly trap.",
+"theMovieDB": "35791",
+"rating": "R",
+"runtime": "97",
+"genres": [
+"Action",
+"Adventure",
+"Horror",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "17255",
+"name": "Resident Evil Collection"
+},
+"underlying": "Resident Evil- Afterlife (2010) (Netflix) BEQ DD+",
+"digest": "d33d024816e4da872591e8476f225d87d67b8f274a776c2b9c4fae3786f306f0",
+"created_at": 1792550550,
+"updated_at": 1792550550,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Resident Evil: Apocalypse",
+"year": "2004",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/resident-evil-apocalypse/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9998485490634335",
+"-1.9989629199051702",
+"0.9991146739460226"
+],
+"a": [
+"1.9989627690710337",
+"-0.9989633738435928"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005717245339598",
+"-1.9983145866329366",
+"0.9977473529829284"
+],
+"a": [
+"1.9983160353620346",
+"-0.9983176287877903"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -2.1,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9998731752577731",
+"-1.9988145566455855",
+"0.9989457652867015"
+],
+"a": [
+"1.9988145566455855",
+"-0.9988189405444748"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20-%20Apocalypse%20(2004)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20-%20Apocalypse%20(2004)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "resident evil: apocalypse",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Paramount+",
+"overview": "As the city is locked down under quarantine, Alice finds out that the people that died from the previous incident at the Umbrella Corporation have turned into zombies. She then joins a small band of elite soldiers, who are enlisted to rescue the missing daughter of the creator of the mutating T-virus.  Once lack of luck and resources happen, they begin to wage an exhilarating battle to survive and escape before the Umbrella Corporation erases its experiment from the face of the earth.",
+"theMovieDB": "1577",
+"rating": "R",
+"runtime": "94",
+"genres": [
+"Horror",
+"Action",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "17255",
+"name": "Resident Evil Collection"
+},
+"underlying": "Resident Evil- Apocalypse (2004) (Paramount+) BEQ DD+",
+"digest": "8157b683fa8966747c50e98783dc01fa1650dc7447a9e21eb553f1925b2a79d2",
+"created_at": 1792550550,
+"updated_at": 1792550550,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Resident Evil: Damnation",
 "year": "2012",
 "audioTypes": [
