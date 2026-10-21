@@ -1885063,6 +1885063,478 @@
 "filterAuthor": "human"
 },
 {
+"title": "Jackass: Best and Last",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/jackass-best-and-last/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -7.0,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9998792645585198",
+"-1.999271994861611",
+"0.9993930164962312"
+],
+"a": [
+"1.9992718176048647",
+"-0.9992724583114971"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -7.0,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9998792645585198",
+"-1.999271994861611",
+"0.9993930164962312"
+],
+"a": [
+"1.9992718176048647",
+"-0.9992724583114971"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.6,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0003092857816611",
+"-1.9988726350247334",
+"0.9985648411960908"
+],
+"a": [
+"1.998873070026475",
+"-0.99887369197601"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.6,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0003092857816611",
+"-1.9988726350247334",
+"0.9985648411960908"
+],
+"a": [
+"1.998873070026475",
+"-0.99887369197601"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.6,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0003092857816611",
+"-1.9988726350247334",
+"0.9985648411960908"
+],
+"a": [
+"1.998873070026475",
+"-0.99887369197601"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.6,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0003092857816611",
+"-1.9988726350247334",
+"0.9985648411960908"
+],
+"a": [
+"1.998873070026475",
+"-0.99887369197601"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.6,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0003092857816611",
+"-1.9988726350247334",
+"0.9985648411960908"
+],
+"a": [
+"1.998873070026475",
+"-0.99887369197601"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.6,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0003092857816611",
+"-1.9988726350247334",
+"0.9985648411960908"
+],
+"a": [
+"1.998873070026475",
+"-0.99887369197601"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 38.0,
+"gain": -1.4,
+"q": 1.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998746974732868",
+"-1.9983103468409993",
+"0.9984418297953312"
+],
+"a": [
+"1.9983103468409993",
+"-0.9983165272686181"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jackass%20Best%20and%20Last%20(2026)%20(%2B4.5%20gain)%20DD%2B.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jackass%20Best%20and%20Last%20(2026)%20(%2B4.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1765?post_id=64750247#post-64750247",
+"sortTitle": "jackass: best and last",
+"edition": "",
+"note": "Dialnorm Compensation: 6dB",
+"language": "English",
+"source": "Disc",
+"overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+"theMovieDB": "1612018",
+"rating": "R",
+"runtime": "92",
+"genres": [
+"Action",
+"Comedy",
+"Documentary"
+],
+"altTitle": "",
+"collection": {
+"id": "17178",
+"name": "Jackass Collection"
+},
+"underlying": "Jackass- Best and Last (2026) (+4.5 gain) BEQ DD+ remixmark",
+"digest": "a09c255f959844e2e419ae65d165c578ca49be8417abb76a268e118b2bd41bc8",
+"created_at": 1786668577,
+"updated_at": 1786668577,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Jackass: Best and Last",
+"year": "2026",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/jackass-best-and-last/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 16.06,
+"gain": 4.99,
+"q": 1.06,
+"biquads": {
+"96000": {
+"b": [
+"1.0001430107560132",
+"-1.9991402578489101",
+"0.9989987189710586"
+],
+"a": [
+"1.9991405794622974",
+"-0.9991414081136842"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.06,
+"gain": 4.99,
+"q": 1.06,
+"biquads": {
+"96000": {
+"b": [
+"1.0001430107560132",
+"-1.9991402578489101",
+"0.9989987189710586"
+],
+"a": [
+"1.9991405794622974",
+"-0.9991414081136842"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.06,
+"gain": 4.99,
+"q": 1.06,
+"biquads": {
+"96000": {
+"b": [
+"1.0001430107560132",
+"-1.9991402578489101",
+"0.9989987189710586"
+],
+"a": [
+"1.9991405794622974",
+"-0.9991414081136842"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.06,
+"gain": 4.99,
+"q": 1.06,
+"biquads": {
+"96000": {
+"b": [
+"1.0001430107560132",
+"-1.9991402578489101",
+"0.9989987189710586"
+],
+"a": [
+"1.9991405794622974",
+"-0.9991414081136842"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 2.75,
+"q": 0.66,
+"biquads": {
+"96000": {
+"b": [
+"1.0002749834891465",
+"-1.9967931348467165",
+"0.9965242890834156"
+],
+"a": [
+"1.9967939676803386",
+"-0.9967984397389396"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 2.75,
+"q": 0.66,
+"biquads": {
+"96000": {
+"b": [
+"1.0002749834891465",
+"-1.9967931348467165",
+"0.9965242890834156"
+],
+"a": [
+"1.9967939676803386",
+"-0.9967984397389396"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 2.75,
+"q": 0.66,
+"biquads": {
+"96000": {
+"b": [
+"1.0002749834891465",
+"-1.9967931348467165",
+"0.9965242890834156"
+],
+"a": [
+"1.9967939676803386",
+"-0.9967984397389396"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 2.75,
+"q": 0.66,
+"biquads": {
+"96000": {
+"b": [
+"1.0002749834891465",
+"-1.9967931348467165",
+"0.9965242890834156"
+],
+"a": [
+"1.9967939676803386",
+"-0.9967984397389396"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 34.99,
+"gain": -0.93,
+"q": 10.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999987735613947",
+"-1.9997531823745869",
+"0.9997706906377508"
+],
+"a": [
+"1.9997531823745869",
+"-0.999758426251698"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.52,
+"gain": -2.84,
+"q": 2.54,
+"biquads": {
+"96000": {
+"b": [
+"0.9998286501184752",
+"-1.9987641831449308",
+"0.998942561952592"
+],
+"a": [
+"1.9987641831449308",
+"-0.9987712120710671"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jackass%20-%20Best%20and%20Last%20%282026%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jackass%20-%20Best%20and%20Last%20%282026%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1795#post-64948951",
+"sortTitle": "jackass: best and last",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+"theMovieDB": "1612018",
+"rating": "R",
+"runtime": "92",
+"genres": [
+"Action",
+"Comedy",
+"Documentary"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Jackass - Best and Last (2026) (+4.5 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "3f850574d421f3d64856c5cf3fd164295063f897d1ec32aa0cab74e3b4b8bc83",
+"created_at": 1792611918,
+"updated_at": 1792611918,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Jackass: The Movie",
 "year": "2002",
 "audioTypes": [
@@ -1885750,234 +1886222,6 @@
 "5.1"
 ],
 "filterAuthor": "model"
-},
-{
-"title": "Jackass: Best and Last",
-"year": "2026",
-"audioTypes": [
-"DD+"
-],
-"content_type": "film",
-"author": "remixmark",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/jackass-best-and-last/#dd",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": -7.0,
-"q": 1.1,
-"biquads": {
-"96000": {
-"b": [
-"0.9998792645585198",
-"-1.999271994861611",
-"0.9993930164962312"
-],
-"a": [
-"1.9992718176048647",
-"-0.9992724583114971"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": -7.0,
-"q": 1.1,
-"biquads": {
-"96000": {
-"b": [
-"0.9998792645585198",
-"-1.999271994861611",
-"0.9993930164962312"
-],
-"a": [
-"1.9992718176048647",
-"-0.9992724583114971"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 7.6,
-"q": 0.7,
-"biquads": {
-"96000": {
-"b": [
-"1.0003092857816611",
-"-1.9988726350247334",
-"0.9985648411960908"
-],
-"a": [
-"1.998873070026475",
-"-0.99887369197601"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 7.6,
-"q": 0.7,
-"biquads": {
-"96000": {
-"b": [
-"1.0003092857816611",
-"-1.9988726350247334",
-"0.9985648411960908"
-],
-"a": [
-"1.998873070026475",
-"-0.99887369197601"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 7.6,
-"q": 0.7,
-"biquads": {
-"96000": {
-"b": [
-"1.0003092857816611",
-"-1.9988726350247334",
-"0.9985648411960908"
-],
-"a": [
-"1.998873070026475",
-"-0.99887369197601"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 7.6,
-"q": 0.7,
-"biquads": {
-"96000": {
-"b": [
-"1.0003092857816611",
-"-1.9988726350247334",
-"0.9985648411960908"
-],
-"a": [
-"1.998873070026475",
-"-0.99887369197601"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 7.6,
-"q": 0.7,
-"biquads": {
-"96000": {
-"b": [
-"1.0003092857816611",
-"-1.9988726350247334",
-"0.9985648411960908"
-],
-"a": [
-"1.998873070026475",
-"-0.99887369197601"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 7.6,
-"q": 0.7,
-"biquads": {
-"96000": {
-"b": [
-"1.0003092857816611",
-"-1.9988726350247334",
-"0.9985648411960908"
-],
-"a": [
-"1.998873070026475",
-"-0.99887369197601"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 38.0,
-"gain": -1.4,
-"q": 1.6,
-"biquads": {
-"96000": {
-"b": [
-"0.9998746974732868",
-"-1.9983103468409993",
-"0.9984418297953312"
-],
-"a": [
-"1.9983103468409993",
-"-0.9983165272686181"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jackass%20Best%20and%20Last%20(2026)%20(%2B4.5%20gain)%20DD%2B.jpg",
-"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Jackass%20Best%20and%20Last%20(2026)%20(%2B4.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg"
-],
-"warning": "",
-"mv": "4.5",
-"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1765?post_id=64750247#post-64750247",
-"sortTitle": "jackass: best and last",
-"edition": "",
-"note": "Dialnorm Compensation: 6dB",
-"language": "English",
-"source": "Disc",
-"overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
-"theMovieDB": "1612018",
-"rating": "R",
-"runtime": "92",
-"genres": [
-"Action",
-"Comedy",
-"Documentary"
-],
-"altTitle": "",
-"collection": {
-"id": "17178",
-"name": "Jackass Collection"
-},
-"underlying": "Jackass- Best and Last (2026) (+4.5 gain) BEQ DD+ remixmark",
-"digest": "a09c255f959844e2e419ae65d165c578ca49be8417abb76a268e118b2bd41bc8",
-"created_at": 1786668577,
-"updated_at": 1786668577,
-"audioCodecs": [
-"DD+"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
 },
 {
 "title": "Jackpot!",
