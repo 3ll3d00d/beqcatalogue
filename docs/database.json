@@ -2239577,6 +2239577,130 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Weight",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-weight/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003029873811276",
+"-1.9985307507915822",
+"0.9982301819794888"
+],
+"a": [
+"1.9985313539981375",
+"-0.9985325661540613"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003029873811276",
+"-1.9985307507915822",
+"0.9982301819794888"
+],
+"a": [
+"1.9985313539981375",
+"-0.9985325661540613"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": -1.0,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999555898398397",
+"-1.9991785913533076",
+"0.9992276645368297"
+],
+"a": [
+"1.9991785913533076",
+"-0.9991832543766693"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Weight/The%20Weight%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Weight/The%20Weight%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "weight",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he\u2019ll win his freedom.",
+"theMovieDB": "1433583",
+"rating": "R",
+"runtime": "112",
+"genres": [
+"Drama",
+"Thriller",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Weight (2026) BEQ DD+",
+"digest": "cac1cdcd6ace16f2ee414a6f27e26e84f96a3971a1e08e33ddbc85a8229c4107",
+"created_at": 1792605188,
+"updated_at": 1792605188,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Whisper Man",
 "year": "2026",
 "audioTypes": [
