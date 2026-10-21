@@ -2180193,6 +2180193,172 @@
 "filterAuthor": "human"
 },
 {
+"title": "Resident Evil: Extinction",
+"year": "2007",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/resident-evil-extinction/#dd",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": 4.2,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000191682991382",
+"-1.999381001103001",
+"0.9991917847515961"
+],
+"a": [
+"1.999381001103001",
+"-0.9993834677429779"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.6,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000481226427947",
+"-1.9982455784486037",
+"0.9977684950384352"
+],
+"a": [
+"1.9982467864088596",
+"-0.9982485135061266"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.6,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000481226427947",
+"-1.9982455784486037",
+"0.9977684950384352"
+],
+"a": [
+"1.9982467864088596",
+"-0.9982485135061266"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.6,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000481226427947",
+"-1.9982455784486037",
+"0.9977684950384352"
+],
+"a": [
+"1.9982467864088596",
+"-0.9982485135061266"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -3.8,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9997574578934233",
+"-1.9986251824028225",
+"0.998873584853801"
+],
+"a": [
+"1.9986251824028225",
+"-0.9986310427472243"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20-%20Extinction%20(2007)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20-%20Extinction%20(2007)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "resident evil: extinction",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Paramount+",
+"overview": "Years after the Racoon City catastrophe, survivors travel across the Nevada desert, hoping to make it to Alaska. Alice joins the caravan and their fight against hordes of zombies and the evil Umbrella Corp.",
+"theMovieDB": "7737",
+"rating": "R",
+"runtime": "94",
+"genres": [
+"Horror",
+"Action",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "17255",
+"name": "Resident Evil Collection"
+},
+"underlying": "Resident Evil- Extinction (2007) (Paramount+) BEQ DD+",
+"digest": "5bac471e7243f7c112ae09d76864685dbe1b65ba44c9333da8f7b7357274a4d8",
+"created_at": 1792584660,
+"updated_at": 1792584660,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Resident Evil: Vendetta",
 "year": "2017",
 "audioTypes": [
