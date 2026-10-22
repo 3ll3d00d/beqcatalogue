@@ -1837752,6 +1837752,170 @@
 "filterAuthor": "model"
 },
 {
+"title": "Avengers: Infinity War",
+"year": "2018",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/avengers-infinity-war/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 19.65,
+"gain": 4.25,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001578278359542",
+"-1.9988609342799728",
+"0.9987052177214909"
+],
+"a": [
+"1.9988613427532675",
+"-0.9988626370841507"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.65,
+"gain": 4.25,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001578278359542",
+"-1.9988609342799728",
+"0.9987052177214909"
+],
+"a": [
+"1.9988613427532675",
+"-0.9988626370841507"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.65,
+"gain": 4.25,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001578278359542",
+"-1.9988609342799728",
+"0.9987052177214909"
+],
+"a": [
+"1.9988613427532675",
+"-0.9988626370841507"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.65,
+"gain": 4.25,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001578278359542",
+"-1.9988609342799728",
+"0.9987052177214909"
+],
+"a": [
+"1.9988613427532675",
+"-0.9988626370841507"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.04,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001740121244735",
+"-1.9972570610773188",
+"0.9970898934644334"
+],
+"a": [
+"1.9972570610773188",
+"-0.997263905588907"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 23.44,
+"gain": -0.14,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999979396201788",
+"-1.9997399203365402",
+"0.9997443340116863"
+],
+"a": [
+"1.9997399203365402",
+"-0.999742273631865"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Avengers%20-%20Infinity%20War%20%282018%29%20%28-0.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Avengers%20-%20Infinity%20War%20%282018%29%20%28-0.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "-0.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1796#post-64952105",
+"sortTitle": "avengers: infinity war",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+"theMovieDB": "299536",
+"rating": "PG-13",
+"runtime": "149",
+"genres": [
+"Adventure",
+"Action",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Avengers - Infinity War (2018) (-0.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "54a1074196696ba22c956c4856f20307c4a3fbf9acca75328ee60fcc0d9ec63f",
+"created_at": 1792703126,
+"updated_at": 1792703126,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Azrael",
 "year": "2024",
 "audioTypes": [
@@ -1849317,6 +1849481,91 @@
 "5.1"
 ],
 "filterAuthor": "human"
+},
+{
+"title": "Captain America: The First Avenger",
+"year": "2011",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/captain-america-the-first-avenger/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 2.87,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001251401787923",
+"-1.9986064317906593",
+"0.9984858363392597"
+],
+"a": [
+"1.9986070711857236",
+"-0.9986103371229871"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 5.45,
+"q": 1.77,
+"biquads": {
+"96000": {
+"b": [
+"1.0003536173411829",
+"-1.999185875127189",
+"0.9988361115370622"
+],
+"a": [
+"1.999185875127189",
+"-0.9991897288782452"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Captain%20America%20-%20The%20First%20Avenger%20%282011%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Captain%20America%20-%20The%20First%20Avenger%20%282011%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "0.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1796#post-64952129",
+"sortTitle": "captain america: the first avenger",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull \u2013 Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+"theMovieDB": "1771",
+"rating": "PG-13",
+"runtime": "124",
+"genres": [
+"Action",
+"Adventure",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Captain America - The First Avenger (2011) (+0.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "e5c796d45151fbc950d42e73e166f7dc719f6a1a8ef8d58f72e99ada89c301da",
+"created_at": 1792703653,
+"updated_at": 1792703653,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
 },
 {
 "title": "Captain America: Brave New World",
