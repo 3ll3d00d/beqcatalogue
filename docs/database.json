@@ -2061172,6 +2061172,133 @@
 "filterAuthor": "human"
 },
 {
+"title": "Avengers: Endgame",
+"year": "2019",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/avengers-endgame/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -2.0,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999056452507227",
+"-1.999078618965709",
+"0.9991768272592892"
+],
+"a": [
+"1.999078618965709",
+"-0.9990824725100118"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avengers/Avengers%20-%20Endgame%20(2019)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avengers/Avengers%20-%20Endgame%20(2019)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "avengers: endgame",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+"theMovieDB": "299534",
+"rating": "PG-13",
+"runtime": "181",
+"genres": [
+"Adventure",
+"Science Fiction",
+"Action"
+],
+"altTitle": "",
+"collection": {
+"id": "86311",
+"name": "The Avengers Collection"
+},
+"underlying": "Avengers- Endgame (2019) BEQ DD+ Atmos",
+"digest": "8187ea38c5777781e68b2bae6941a040a05487f69fc3ba79c7d94496b442368b",
+"created_at": 1792703933,
+"updated_at": 1792703933,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "\u00c6on Flux",
 "year": "2005",
 "audioTypes": [
@@ -2078963,6 +2079090,171 @@
 "digest": "7022b7fc6226070d6b02e6b012f7f3aee5f35685a18b2ae4936d0b3bf287d5bd",
 "created_at": 1744685776,
 "updated_at": 1744685776,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Captain America: The First Avenger",
+"year": "2011",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/captain-america-the-first-avenger/#dd-atmos",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": -10.0,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999336873017812",
+"-1.9998056103074562",
+"0.999872351332363"
+],
+"a": [
+"1.9998056103074562",
+"-0.9998060386341442"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": 2.4,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000725516076725",
+"-1.9995416018405192",
+"0.999471517070957"
+],
+"a": [
+"1.9995416018405192",
+"-0.9995440686786297"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -1.8,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999029959187641",
+"-1.9989566123050662",
+"0.999060466722177"
+],
+"a": [
+"1.9989566123050662",
+"-0.9989634626409413"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Captain%20America/Captain%20America%20-%20The%20First%20Avenger%20(2011)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Captain%20America/Captain%20America%20-%20The%20First%20Avenger%20(2011)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "captain america: the first avenger",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull \u2013 Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+"theMovieDB": "1771",
+"rating": "PG-13",
+"runtime": "124",
+"genres": [
+"Action",
+"Adventure",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "131295",
+"name": "Captain America Collection"
+},
+"underlying": "Captain America- The First Avenger (2011) BEQ DD+ Atmos",
+"digest": "cf676d3cf60b736c0a56349249224341640b051777ee7a41a224277c9c851e92",
+"created_at": 1792703933,
+"updated_at": 1792703933,
 "audioCodecs": [
 "DD+ Atmos"
 ],
