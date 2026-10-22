@@ -2180930,6 +2180930,241 @@
 "filterAuthor": "human"
 },
 {
+"title": "Resident Evil: Retribution",
+"year": "2012",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/resident-evil-retribution/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": -0.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999917141292646",
+"-1.9992673175133913",
+"0.9992802666144397"
+],
+"a": [
+"1.9992673175133913",
+"-0.9992719807437042"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20-%20Retribution%20(2012)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20-%20Retribution%20(2012)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "resident evil: retribution",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "The Umbrella Corporation\u2019s deadly T-virus continues to ravage the Earth, transforming the global population into legions of the flesh eating Undead. The human race\u2019s last and only hope, Alice, awakens in the heart of Umbrella\u2019s most clandestine operations facility and unveils more of her mysterious past as she delves further into the complex. Without a safe haven, Alice continues to hunt those responsible for the outbreak; a chase that takes her from Tokyo to New York, Washington, D.C. and Moscow, culminating in a mind-blowing revelation that will force her to rethink everything that she once thought to be true. Aided by new found allies and familiar friends, Alice must fight to survive long enough to escape a hostile world on the brink of oblivion. The countdown has begun.",
+"theMovieDB": "71679",
+"rating": "R",
+"runtime": "95",
+"genres": [
+"Action",
+"Horror",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "17255",
+"name": "Resident Evil Collection"
+},
+"underlying": "Resident Evil- Retribution (2012) (Netflix) BEQ DD+",
+"digest": "f84a4e3c936b81c025c2de0ddd9a4b9b6a42247b2775bb21cf01dfd63bd1003a",
+"created_at": 1792638443,
+"updated_at": 1792638443,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Resident Evil: The Final Chapter",
+"year": "2016",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/resident-evil-the-final-chapter/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004072648713422",
+"-1.9983580210059806",
+"0.9979541439269431"
+],
+"a": [
+"1.9983589582665149",
+"-0.9983604715377506"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004072648713422",
+"-1.9983580210059806",
+"0.9979541439269431"
+],
+"a": [
+"1.9983589582665149",
+"-0.9983604715377506"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 38.0,
+"gain": -1.1,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999437442553041",
+"-1.9990479541266342",
+"0.9991103925802406"
+],
+"a": [
+"1.9990479541266342",
+"-0.9990541368355444"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000100382226949",
+"-1.9982388093327277",
+"0.9982561628486926"
+],
+"a": [
+"1.9982388093327277",
+"-0.9982662010713875"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20-%20The%20Final%20Chapter%20(2016)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20-%20The%20Final%20Chapter%20(2016)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "resident evil: the final chapter",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "Picking up immediately after the events in Resident Evil: Retribution, Alice is the only survivor of what was meant to be humanity's final stand against the undead. Now, she must return to where the nightmare began - The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.",
+"theMovieDB": "173897",
+"rating": "R",
+"runtime": "107",
+"genres": [
+"Action",
+"Horror",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "17255",
+"name": "Resident Evil Collection"
+},
+"underlying": "Resident Evil- The Final Chapter (2016) (Netflix) BEQ DD+",
+"digest": "12f02f012c849ee9e12c94278d6581aee37e68f03639abdea323e6f15569108c",
+"created_at": 1792638443,
+"updated_at": 1792638443,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Resident Evil: Vendetta",
 "year": "2017",
 "audioTypes": [
