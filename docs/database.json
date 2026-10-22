@@ -2009449,6 +2009449,188 @@
 "title": "MobLand",
 "year": "2025",
 "audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/mobland/#season-02e01-e05",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002022004349815",
+"-1.999359151568076",
+"0.9991576496520516"
+],
+"a": [
+"1.9993593695627787",
+"-0.9993596320923301"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002022004349815",
+"-1.999359151568076",
+"0.9991576496520516"
+],
+"a": [
+"1.9993593695627787",
+"-0.9993596320923301"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002022004349815",
+"-1.999359151568076",
+"0.9991576496520516"
+],
+"a": [
+"1.9993593695627787",
+"-0.9993596320923301"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002022004349815",
+"-1.999359151568076",
+"0.9991576496520516"
+],
+"a": [
+"1.9993593695627787",
+"-0.9993596320923301"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.89,
+"gain": 7.38,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0003301015486854",
+"-1.998751987594167",
+"0.9984262744936074"
+],
+"a": [
+"1.9987532436494568",
+"-0.9987551199870033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 46.68,
+"gain": 2.48,
+"q": 1.28,
+"biquads": {
+"96000": {
+"b": [
+"1.0003415555040216",
+"-1.9979234886234962",
+"0.9975912577044601"
+],
+"a": [
+"1.9979234886234962",
+"-0.9979328132084817"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 39.53,
+"gain": -0.87,
+"q": 0.63,
+"biquads": {
+"96000": {
+"b": [
+"0.9997946879940233",
+"-1.9956850015047607",
+"0.9958969928593089"
+],
+"a": [
+"1.9956850015047607",
+"-0.9956916808533323"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01-E05%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01-E05%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E01-E05",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1795#post-64950481",
+"sortTitle": "mobland",
+"edition": "",
+"note": "Dialnorm Compensation: E01 5dB; E02 2dB; E03 4dB; E04 6dB; E05 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+"theMovieDB": "247718",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama"
+],
+"underlying": "MobLand (2025) (Season S02E01-E05) (+0.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "2654296db81aa891ab26563273fd9c3cbe9ef617dc226775335903ba11be22c6",
+"created_at": 1792671812,
+"updated_at": 1792671812,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "MobLand",
+"year": "2025",
+"audioTypes": [
 "DD+ 5.1"
 ],
 "content_type": "TV",
