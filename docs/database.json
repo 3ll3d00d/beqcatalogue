@@ -1837508,6 +1837508,250 @@
 "filterAuthor": "human"
 },
 {
+"title": "Avengers: Endgame",
+"year": "2019",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/avengers-endgame/#dd-atmos",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 14.65,
+"gain": -0.12,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999988961745585",
+"-1.9998381792329067",
+"0.9998402023589534"
+],
+"a": [
+"1.9998381792329067",
+"-0.9998390985335119"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 11.97,
+"gain": 3.06,
+"q": 0.83,
+"biquads": {
+"96000": {
+"b": [
+"1.000083258555807",
+"-1.999135430122656",
+"0.9990529032413424"
+],
+"a": [
+"1.999135538749861",
+"-0.9991360531699447"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.97,
+"gain": 3.06,
+"q": 0.83,
+"biquads": {
+"96000": {
+"b": [
+"1.000083258555807",
+"-1.999135430122656",
+"0.9990529032413424"
+],
+"a": [
+"1.999135538749861",
+"-0.9991360531699447"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.97,
+"gain": 3.06,
+"q": 0.83,
+"biquads": {
+"96000": {
+"b": [
+"1.000083258555807",
+"-1.999135430122656",
+"0.9990529032413424"
+],
+"a": [
+"1.999135538749861",
+"-0.9991360531699447"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.68,
+"gain": 4.83,
+"q": 0.66,
+"biquads": {
+"96000": {
+"b": [
+"1.0004243233117045",
+"-1.99735176249198",
+"0.9969327566302473"
+],
+"a": [
+"1.9973528965555254",
+"-0.997355945878407"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.68,
+"gain": 4.83,
+"q": 0.66,
+"biquads": {
+"96000": {
+"b": [
+"1.0004243233117045",
+"-1.99735176249198",
+"0.9969327566302473"
+],
+"a": [
+"1.9973528965555254",
+"-0.997355945878407"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.68,
+"gain": 4.83,
+"q": 0.66,
+"biquads": {
+"96000": {
+"b": [
+"1.0004243233117045",
+"-1.99735176249198",
+"0.9969327566302473"
+],
+"a": [
+"1.9973528965555254",
+"-0.997355945878407"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": -1.29,
+"q": 1.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9999553886833745",
+"-1.998753394557149",
+"0.9987999295953242"
+],
+"a": [
+"1.998753240551489",
+"-0.998755472284359"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": -1.29,
+"q": 1.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9999553886833745",
+"-1.998753394557149",
+"0.9987999295953242"
+],
+"a": [
+"1.998753240551489",
+"-0.998755472284359"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -5.17,
+"q": 1.45,
+"biquads": {
+"96000": {
+"b": [
+"0.9995233660323051",
+"-1.9978695738870662",
+"0.9983514497875257"
+],
+"a": [
+"1.9978695738870662",
+"-0.9978748158198307"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Avengers%20-%20Endgame%20%282019%29%20%28-0.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Avengers%20-%20Endgame%20%282019%29%20%28-0.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "-0.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1796#post-64952099",
+"sortTitle": "avengers: endgame",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+"theMovieDB": "299534",
+"rating": "PG-13",
+"runtime": "181",
+"genres": [
+"Adventure",
+"Science Fiction",
+"Action"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Avengers - Endgame (2019) (-0.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "1d8f5e41f207122ec61c11b4b45eab90e4647b425b6292cf1a55bbc5a96e1b3e",
+"created_at": 1792703010,
+"updated_at": 1792703010,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Azrael",
 "year": "2024",
 "audioTypes": [
