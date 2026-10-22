@@ -2299484,6 +2299484,169 @@
 "filterAuthor": "human"
 },
 {
+"title": "Slow Horses",
+"year": "2022",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/slow-horses/#season-06",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002635882590576",
+"-1.999098467379178",
+"0.9988360259746726"
+],
+"a": [
+"1.9990988125209435",
+"-0.9990992690919644"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002635882590576",
+"-1.999098467379178",
+"0.9988360259746726"
+],
+"a": [
+"1.9990988125209435",
+"-0.9990992690919644"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -0.9,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999593086244482",
+"-1.999167632686272",
+"0.9992138734166289"
+],
+"a": [
+"1.999167632686272",
+"-0.9991731820410771"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Slow%20Horses/Slow%20Horses%20S06E01-06%20(2022)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Slow%20Horses/Slow%20Horses%20S06E01-06%20(2022)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "06",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "slow horses",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Apple TV+",
+"overview": "Follow a dysfunctional team of MI5 agents\u2014and their obnoxious boss, the notorious Jackson Lamb\u2014as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+"theMovieDB": "95480",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama",
+"Mystery"
+],
+"underlying": "Slow Horses (2022) (Season 06) (Apple TV+) BEQ DD+ Atmos",
+"digest": "98ceadcd8d06d56e51c2e260b414ff892bce273d758c088253a1b58ef03be539",
+"created_at": 1792671050,
+"updated_at": 1792671050,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Something Very Bad is Going to Happen",
 "year": "2026",
 "audioTypes": [
