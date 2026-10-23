@@ -2011701,6 +2011701,168 @@
 "filterAuthor": "model"
 },
 {
+"title": "MobLand",
+"year": "2025",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/mobland/#season-02e06",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.57,
+"gain": 7.03,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001409963446455",
+"-1.999434563169837",
+"0.9992942839496869"
+],
+"a": [
+"1.9994347621204442",
+"-0.9994350813437255"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.57,
+"gain": 7.03,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001409963446455",
+"-1.999434563169837",
+"0.9992942839496869"
+],
+"a": [
+"1.9994347621204442",
+"-0.9994350813437255"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.57,
+"gain": 7.03,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001409963446455",
+"-1.999434563169837",
+"0.9992942839496869"
+],
+"a": [
+"1.9994347621204442",
+"-0.9994350813437255"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.57,
+"gain": 7.03,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001409963446455",
+"-1.999434563169837",
+"0.9992942839496869"
+],
+"a": [
+"1.9994347621204442",
+"-0.9994350813437255"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 22.5,
+"gain": 2.01,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001896061713642",
+"-1.9985414281119642",
+"0.9983539889752664"
+],
+"a": [
+"1.9985414281119642",
+"-0.9985435951466307"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 22.46,
+"gain": -0.23,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999967565344083",
+"-1.999749604324665",
+"0.9997550084321345"
+],
+"a": [
+"1.999749604324665",
+"-0.9997517649665428"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E06%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E06%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E06",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64853525",
+"sortTitle": "mobland",
+"edition": "",
+"note": "Dialnorm Compensation: 6dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+"theMovieDB": "247718",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama"
+],
+"underlying": "MobLand (2025) (Season S02E06) (+5.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "70f027ac76d7c7a8af94b148ba2ab460b3d4d57ecd08d0955e2898ed922552bc",
+"created_at": 1792784162,
+"updated_at": 1792784162,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Monarch: Legacy of Monsters",
 "year": "2023",
 "audioTypes": [
