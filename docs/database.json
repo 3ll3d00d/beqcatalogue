@@ -2232224,6 +2232224,171 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Perfect Storm",
+"year": "2000",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-perfect-storm/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004072648713422",
+"-1.9983580210059806",
+"0.9979541439269431"
+],
+"a": [
+"1.9983589582665149",
+"-0.9983604715377506"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004072648713422",
+"-1.9983580210059806",
+"0.9979541439269431"
+],
+"a": [
+"1.9983589582665149",
+"-0.9983604715377506"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004072648713422",
+"-1.9983580210059806",
+"0.9979541439269431"
+],
+"a": [
+"1.9983589582665149",
+"-0.9983604715377506"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004072648713422",
+"-1.9983580210059806",
+"0.9979541439269431"
+],
+"a": [
+"1.9983589582665149",
+"-0.9983604715377506"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -3.1,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998288656031431",
+"-1.9988544600748601",
+"0.9990308389885878"
+],
+"a": [
+"1.9988544600748601",
+"-0.9988597045917308"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Perfect%20Storm/The%20Perfect%20Storm%20(2000)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Perfect%20Storm/The%20Perfect%20Storm%20(2000)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "perfect storm",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "In October 1991, a confluence of weather conditions combined to form a killer storm in the North Atlantic. Caught in the storm was the sword-fishing boat Andrea Gail.",
+"theMovieDB": "2133",
+"rating": "PG-13",
+"runtime": "130",
+"genres": [
+"Drama",
+"Adventure",
+"Action",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Perfect Storm (2000) BEQ DTS-HD MA 5.1",
+"digest": "85dd2d8be9f9ecac0d7f3974ea848f1037ff183e27d797308a009e78ce1aae72",
+"created_at": 1792756905,
+"updated_at": 1792756905,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Pickup",
 "year": "2025",
 "audioTypes": [
