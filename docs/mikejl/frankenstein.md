@@ -9,7 +9,7 @@ The Reborn Cut
 Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.
 { data-search-exclude }
 
-Critereon Collection
+Criterion Collection
 { data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/1062722)  [Compare across authors](../compare/index.md?t=film-frankenstein_1062722)
