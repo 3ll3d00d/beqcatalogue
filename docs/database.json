@@ -2026017,11 +2026017,15 @@
 "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
 "theMovieDB": "220102",
 "rating": "TV-14",
-"genres": [],
+"genres": [
+"Action & Adventure",
+"Crime",
+"Mystery"
+],
 "underlying": "Spider-Noir (2026) (Season 01E01-08) (+2.5 gain) BEQ DD+ Atmos remixmark",
 "digest": "36fdb54f2f89c88e8a91556e88e33c7e8ade39bba421e8fa62ce449bf2907849",
 "created_at": 1779924250,
-"updated_at": 1792783357,
+"updated_at": 1792783563,
 "audioCodecs": [
 "DD+ Atmos"
 ],
