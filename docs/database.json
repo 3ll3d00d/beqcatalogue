@@ -2061299,6 +2061299,172 @@
 "filterAuthor": "human"
 },
 {
+"title": "Avengers: Infinity War",
+"year": "2018",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/avengers-infinity-war/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0000754525600042",
+"-1.9991994114359322",
+"0.9991244677888477"
+],
+"a": [
+"1.9991994857510142",
+"-0.9991998460337702"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": -2.4,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998904416169914",
+"-1.9990887917145448",
+"0.9992019510385634"
+],
+"a": [
+"1.9990887917145448",
+"-0.9990923926555546"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000075303140679",
+"-1.998683955117732",
+"0.9986918360120328"
+],
+"a": [
+"1.998683955117732",
+"-0.9986993663261007"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000125450273336",
+"-1.997790436234127",
+"0.9978206814698521"
+],
+"a": [
+"1.997790436234127",
+"-0.9978332264971859"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avengers/Avengers%20-%20Infinity%20War%20(2018)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avengers/Avengers%20-%20Infinity%20War%20(2018)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "avengers: infinity war",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+"theMovieDB": "299536",
+"rating": "PG-13",
+"runtime": "149",
+"genres": [
+"Adventure",
+"Action",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "86311",
+"name": "The Avengers Collection"
+},
+"underlying": "Avengers- Infinity War (2018) BEQ DD+ Atmos",
+"digest": "73d9d8d858519d0cf25386e08781b67c3c9ed2f0900bc125f10bd2fcd58f2341",
+"created_at": 1792703933,
+"updated_at": 1792725598,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "\u00c6on Flux",
 "year": "2005",
 "audioTypes": [
