@@ -1949487,10 +1949487,10 @@
 "note": "",
 "language": "English",
 "source": "Disc",
-"overview": "An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.",
-"theMovieDB": "966",
-"rating": "NR",
-"runtime": "127",
+"overview": "Looking to mine for gold, greedy industrialist Bartholomew Bogue seizes control of the Old West town of Rose Creek. With their lives in jeopardy, Emma Cullen and other desperate residents turn to bounty hunter Sam Chisolm for help. Chisolm recruits an eclectic group of gunslingers to take on Bogue and his ruthless henchmen. With a deadly showdown on the horizon, the seven mercenaries soon find themselves fighting for more than just money once the bullets start to fly.",
+"theMovieDB": "333484",
+"rating": "PG-13",
+"runtime": "132",
 "genres": [
 "Western",
 "Action",
@@ -1949504,7 +1949504,7 @@
 "underlying": "The Magnificent Seven (2016) BEQ Atmos remixmark",
 "digest": "ca3f19daddbffbb458a518c1ef01967095280fb6598c51bde53815fe51b3e0aa",
 "created_at": 1738190826,
-"updated_at": 1738190826,
+"updated_at": 1792782917,
 "audioCodecs": [
 "Atmos"
 ],
@@ -2026014,14 +2026014,14 @@
 "note": "Dialnorm Compensation: Ep. 1: 7dB, Ep. 2: 5dB,  Ep. 3-8: 6dB",
 "language": "English",
 "source": "Disc",
-"overview": "The MGM+ live preview for Spider-Noir.",
-"theMovieDB": "1703288",
-"rating": "",
+"overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+"theMovieDB": "220102",
+"rating": "TV-14",
 "genres": [],
 "underlying": "Spider-Noir (2026) (Season 01E01-08) (+2.5 gain) BEQ DD+ Atmos remixmark",
 "digest": "36fdb54f2f89c88e8a91556e88e33c7e8ade39bba421e8fa62ce449bf2907849",
 "created_at": 1779924250,
-"updated_at": 1779924250,
+"updated_at": 1792783357,
 "audioCodecs": [
 "DD+ Atmos"
 ],
