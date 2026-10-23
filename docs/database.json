@@ -2111187,6 +2111187,110 @@
 "title": "Frankenstein",
 "year": "2025",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/frankenstein/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004833690422574",
+"-1.998671122426349",
+"0.9981907120031429"
+],
+"a": [
+"1.9986721062183095",
+"-0.9986730972534394"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -1.3,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999387464478675",
+"-1.9991148399252623",
+"0.9991799470915194"
+],
+"a": [
+"1.9991148399252623",
+"-0.9991186935393866"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000225615978298",
+"-1.9960877761400253",
+"0.9960806057322641"
+],
+"a": [
+"1.9960877761400253",
+"-0.996103167330094"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Frankenstein/Frankenstein%20(2025)%20(The%20Reborn%20Cut)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Frankenstein/Frankenstein%20(2025)%20(The%20Reborn%20Cut)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "frankenstein",
+"edition": "The Reborn Cut",
+"note": "Critereon Collection",
+"language": "English",
+"source": "Disc",
+"overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+"theMovieDB": "1062722",
+"rating": "R",
+"runtime": "150",
+"genres": [
+"Drama",
+"Fantasy",
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Frankenstein (2025) (The Reborn Cut) BEQ Atmos",
+"digest": "2a0003d2921f2a311c7cd16271436978e333aee02957e816e0ff66880d6915bc",
+"created_at": 1792721650,
+"updated_at": 1792721650,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Frankenstein",
+"year": "2025",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
