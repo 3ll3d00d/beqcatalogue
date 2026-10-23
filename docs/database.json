@@ -1953218,6 +1953218,250 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Perfect Storm",
+"year": "2000",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-perfect-storm/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 4.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0001800893139976",
+"-1.998781685929207",
+"0.9986033938215509"
+],
+"a": [
+"1.9987820492684871",
+"-0.9987831197962685"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 4.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0001800893139976",
+"-1.998781685929207",
+"0.9986033938215509"
+],
+"a": [
+"1.9987820492684871",
+"-0.9987831197962685"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 4.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0001800893139976",
+"-1.998781685929207",
+"0.9986033938215509"
+],
+"a": [
+"1.9987820492684871",
+"-0.9987831197962685"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 4.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0001800893139976",
+"-1.998781685929207",
+"0.9986033938215509"
+],
+"a": [
+"1.9987820492684871",
+"-0.9987831197962685"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 1.73,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000978738121546",
+"-1.9981304882515663",
+"0.99803606102645"
+],
+"a": [
+"1.9981307994652389",
+"-0.998133623624932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 1.73,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000978738121546",
+"-1.9981304882515663",
+"0.99803606102645"
+],
+"a": [
+"1.9981307994652389",
+"-0.998133623624932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 1.73,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000978738121546",
+"-1.9981304882515663",
+"0.99803606102645"
+],
+"a": [
+"1.9981307994652389",
+"-0.998133623624932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": -3.73,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9998867458830729",
+"-1.9993487383363115",
+"0.999464459053413"
+],
+"a": [
+"1.9993487383363115",
+"-0.999351204936486"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -4.46,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9998415015945242",
+"-1.9992072854402976",
+"0.999369140926395"
+],
+"a": [
+"1.9992072854402976",
+"-0.9992106425209193"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": 2.55,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000154200717615",
+"-1.9990917953957246",
+"0.9989419791850522"
+],
+"a": [
+"1.9990917953957246",
+"-0.9990961799026673"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Perfect%20Storm%20%282000%29%20%28-2.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Perfect%20Storm%20%282000%29%20%28-2.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "-2.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1796#post-64953703",
+"sortTitle": "the perfect storm",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "In October 1991, a confluence of weather conditions combined to form a killer storm in the North Atlantic. Caught in the storm was the sword-fishing boat Andrea Gail.",
+"theMovieDB": "2133",
+"rating": "PG-13",
+"runtime": "130",
+"genres": [
+"Drama",
+"Adventure",
+"Action",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Perfect Storm (2000) (-2.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "decdcf3ce1cd1031c090c8c65c8706b1d25c93143a9da874a10ebdf7a86663b5",
+"created_at": 1792761698,
+"updated_at": 1792761698,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Phoenician Scheme",
 "year": "2025",
 "audioTypes": [
