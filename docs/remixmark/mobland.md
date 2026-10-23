@@ -192,6 +192,28 @@ Dialnorm Compensation: E01 5dB; E02 2dB; E03 4dB; E04 6dB; E05 4dB AI Created
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01-E05%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
+## Season 02E01-E06
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +5.0 dB
+
+Dialnorm Compensation: 2 dB — S02E02; 4 dB — S02E03, S02E05; 5 dB — S02E01; 6 dB — S02E04, S02E06 AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1796#post-64954937)
+
+* [Compare across authors](../compare/index.md?t=TV-mobland_247718)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01-E06%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01-E06%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
 ## Season 02E02
 
 * DD+ 5.1
