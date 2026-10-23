@@ -2010636,6 +2010636,168 @@
 ],
 "content_type": "TV",
 "author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/mobland/#season-02e01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 14.82,
+"gain": 4.33,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001212641611323",
+"-1.99914308514656",
+"0.9990230276255451"
+],
+"a": [
+"1.9991433219887402",
+"-0.9991440549444974"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.82,
+"gain": 4.33,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001212641611323",
+"-1.99914308514656",
+"0.9990230276255451"
+],
+"a": [
+"1.9991433219887402",
+"-0.9991440549444974"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.82,
+"gain": 4.33,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001212641611323",
+"-1.99914308514656",
+"0.9990230276255451"
+],
+"a": [
+"1.9991433219887402",
+"-0.9991440549444974"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.82,
+"gain": 4.33,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001212641611323",
+"-1.99914308514656",
+"0.9990230276255451"
+],
+"a": [
+"1.9991433219887402",
+"-0.9991440549444974"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.5,
+"gain": 1.04,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001370744563378",
+"-1.997840452247602",
+"0.9977076236931491"
+],
+"a": [
+"1.997840452247602",
+"-0.997844698149487"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 23.44,
+"gain": -0.02,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999997056628855",
+"-1.9997416942832393",
+"0.9997443419177662"
+],
+"a": [
+"1.9997416942832393",
+"-0.9997440475806516"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E01",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64853525",
+"sortTitle": "mobland",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+"theMovieDB": "247718",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama"
+],
+"underlying": "MobLand (2025) (Season S02E01) (+5.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "e02ada4acae883179da77136a2d5d51c6c98fca5610b8a4a6b0d987a922a74b7",
+"created_at": 1792783814,
+"updated_at": 1792783814,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "MobLand",
+"year": "2025",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/mobland/#season-02e01-e05",
 "filters": [
 {
@@ -2088268,6 +2088430,90 @@
 ],
 "audioChannelCounts": [
 "7.1"
+],
+"filterAuthor": "human"
+},
+{
+"title": "Crawlers",
+"year": "2026",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/crawlers/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000686127803216",
+"-1.9979771143225424",
+"0.9972974523045667"
+],
+"a": [
+"1.997979200141575",
+"-0.9979814942887503"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 42.0,
+"gain": -1.6,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999025410112063",
+"-1.998833851040632",
+"0.9989388620631198"
+],
+"a": [
+"1.998833851040632",
+"-0.9988414030743261"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crawlers/Crawlers%20(2026)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crawlers/Crawlers%20(2026)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "crawlers",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
+"theMovieDB": "1376400",
+"rating": "R",
+"runtime": "80",
+"genres": [
+"Horror",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Crawlers (2026) BEQ DTS-HD MA 5.1",
+"digest": "016b584725a154429b803cc6f4608cd32a05bdd1a2387ac8cda314fe61f70b4d",
+"created_at": 1792783784,
+"updated_at": 1792783784,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
 ],
 "filterAuthor": "human"
 },
