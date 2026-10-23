@@ -1989616,6 +1989616,228 @@
 ],
 "content_type": "TV",
 "author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/dark-matter/#season-02e01-e09",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.4,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000802016976478",
+"-1.9992579843223144",
+"0.9991783034069501"
+],
+"a": [
+"1.999258068667438",
+"-0.9992584207594741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.4,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000802016976478",
+"-1.9992579843223144",
+"0.9991783034069501"
+],
+"a": [
+"1.999258068667438",
+"-0.9992584207594741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.4,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000802016976478",
+"-1.9992579843223144",
+"0.9991783034069501"
+],
+"a": [
+"1.999258068667438",
+"-0.9992584207594741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.4,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000802016976478",
+"-1.9992579843223144",
+"0.9991783034069501"
+],
+"a": [
+"1.999258068667438",
+"-0.9992584207594741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.9,
+"gain": 0.82,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0000392301161298",
+"-1.998376653371984",
+"0.9983409160553017"
+],
+"a": [
+"1.99837681069942",
+"-0.998379988843996"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.9,
+"gain": 0.82,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0000392301161298",
+"-1.998376653371984",
+"0.9983409160553017"
+],
+"a": [
+"1.99837681069942",
+"-0.998379988843996"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.9,
+"gain": 0.82,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0000392301161298",
+"-1.998376653371984",
+"0.9983409160553017"
+],
+"a": [
+"1.99837681069942",
+"-0.998379988843996"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 16.64,
+"gain": -4.56,
+"q": 8.84,
+"biquads": {
+"96000": {
+"b": [
+"0.9999672906917727",
+"-1.9998386463300706",
+"0.9998725416503172"
+],
+"a": [
+"1.9998386463300706",
+"-0.99983983234209"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 56.66,
+"gain": 0.27,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000639143829106",
+"-1.9959376124794739",
+"0.9958874223859276"
+],
+"a": [
+"1.9959376124794739",
+"-0.9959513367688382"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20%282024%29%20%28Season%20S02E01-E09%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20%282024%29%20%28Season%20S02E01-E09%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E01-E09",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1796#post-64953193",
+"sortTitle": "dark matter",
+"edition": "",
+"note": "Dialnorm Compensation: 3 dB \u2014 S02E02, S02E05; 4 dB \u2014 S02E06\u2013S02E07; 5 dB \u2014 S02E01, S02E03\u2013S02E04, S02E09; 6 dB \u2014 S02E08 AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "The Dessens receive an unwelcome visitor. Ryan finds Amanda. Leighton finds himself.",
+"theMovieDB": "196322",
+"rating": "TV-MA",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "Dark Matter (2024) (Season S02E01-E09) (+0.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "6ae77570724f8bfdb022bb1b3e41bd6df50c91cdf07ba47ef3a1697fd3e921cd",
+"created_at": 1792744256,
+"updated_at": 1792744256,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Dark Matter",
+"year": "2024",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/dark-matter/#season-02e02",
 "filters": [
 {
