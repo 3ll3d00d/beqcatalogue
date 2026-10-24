@@ -1979665,6 +1979665,150 @@
 "title": "undertone",
 "year": "2026",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/undertone/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 17.9,
+"gain": 5.94,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002014136937154",
+"-1.9990115924076142",
+"0.9988121098325516"
+],
+"a": [
+"1.9990120706865178",
+"-0.9990130452473628"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.9,
+"gain": 5.94,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002014136937154",
+"-1.9990115924076142",
+"0.9988121098325516"
+],
+"a": [
+"1.9990120706865178",
+"-0.9990130452473628"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.9,
+"gain": 5.94,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002014136937154",
+"-1.9990115924076142",
+"0.9988121098325516"
+],
+"a": [
+"1.9990120706865178",
+"-0.9990130452473628"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.9,
+"gain": 5.94,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002014136937154",
+"-1.9990115924076142",
+"0.9988121098325516"
+],
+"a": [
+"1.9990120706865178",
+"-0.9990130452473628"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": 2.01,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002948235091689",
+"-1.9977301570935744",
+"0.9974405751513736"
+],
+"a": [
+"1.9977301570935744",
+"-0.9977353986605425"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/undertone%20%282026%29%20%28%2B6.0%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/undertone%20%282026%29%20%28%2B6.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "6.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64957169",
+"sortTitle": "undertone",
+"edition": "",
+"note": "Dialnorm Compensation: 3dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
+"theMovieDB": "1480387",
+"rating": "R",
+"runtime": "94",
+"genres": [
+"Horror",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "undertone (2026) (+6.0 gain) BEQ Atmos remixmark",
+"digest": "0bccc94bdf41937becec4432d8c9f4ce944890a35655d4eb4d7068274f005398",
+"created_at": 1792870068,
+"updated_at": 1792870068,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "undertone",
+"year": "2026",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
