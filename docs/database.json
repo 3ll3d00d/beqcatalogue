@@ -1849172,6 +1849172,152 @@
 "filterAuthor": "human"
 },
 {
+"title": "By Any Means",
+"year": "2026",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/by-any-means/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 19.76,
+"gain": 7.16,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002686264250693",
+"-1.9989463022216232",
+"0.9986802002227522"
+],
+"a": [
+"1.9989470109155312",
+"-0.9989481179539134"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.76,
+"gain": 7.16,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002686264250693",
+"-1.9989463022216232",
+"0.9986802002227522"
+],
+"a": [
+"1.9989470109155312",
+"-0.9989481179539134"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.76,
+"gain": 7.16,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002686264250693",
+"-1.9989463022216232",
+"0.9986802002227522"
+],
+"a": [
+"1.9989470109155312",
+"-0.9989481179539134"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.76,
+"gain": 7.16,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002686264250693",
+"-1.9989463022216232",
+"0.9986802002227522"
+],
+"a": [
+"1.9989470109155312",
+"-0.9989481179539134"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.89,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003166893017",
+"-1.9973875448083378",
+"0.9970777004653878"
+],
+"a": [
+"1.9973875448083378",
+"-0.9973943897670878"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/By%20Any%20Means%20%282026%29%20%28%2B5.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/By%20Any%20Means%20%282026%29%20%28%2B5.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "5.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64957279",
+"sortTitle": "by any means",
+"edition": "",
+"note": "Dialnorm Compensation: 3dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+"theMovieDB": "1380417",
+"rating": "R",
+"runtime": "107",
+"genres": [
+"Thriller",
+"History",
+"Crime",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "By Any Means (2026) (+5.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "e852c23ffbe94055125c447bfb4778b508bd2e9c18a63d7de3b5407cae6def3b",
+"created_at": 1792872596,
+"updated_at": 1792872596,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Caddo Lake",
 "year": "2024",
 "audioTypes": [
