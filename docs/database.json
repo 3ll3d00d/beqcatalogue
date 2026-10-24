@@ -2079150,6 +2079150,153 @@
 "title": "CODA",
 "year": "2021",
 "audioTypes": [
+"Atmos",
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/coda/#atmos-dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": 5.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.00014639926513",
+"-1.9996215217459667",
+"0.9994773881221717"
+],
+"a": [
+"1.9996215217459667",
+"-0.9996237873873017"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -1.4,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999186392381975",
+"-1.9989010353994985",
+"0.9989882573145555"
+],
+"a": [
+"1.9989010353994985",
+"-0.9989068965527531"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/CODA%20(Children%20of%20Deaf%20People)/CODA%20(2021)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/CODA%20(Children%20of%20Deaf%20People)/CODA%20(2021)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "coda",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+"theMovieDB": "776503",
+"rating": "PG-13",
+"runtime": "112",
+"genres": [
+"Drama",
+"Music",
+"Romance"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "CODA (2021) BEQ Atmos",
+"digest": "161fd60d1ff99237f53e42d057d877bd5762c976b3474cca94c52ae62cb72ffb",
+"created_at": 1792843754,
+"updated_at": 1792843754,
+"audioCodecs": [
+"Atmos",
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+"",
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "CODA",
+"year": "2021",
+"audioTypes": [
 "DD+"
 ],
 "content_type": "film",
@@ -2079283,150 +2079430,6 @@
 "updated_at": 1770510709,
 "audioCodecs": [
 "DD+"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
-"title": "CODA",
-"year": "2021",
-"audioTypes": [
-"DD+ Atmos"
-],
-"content_type": "film",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/coda/#dd-atmos",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 7.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003541280953918",
-"-1.9985723174002294",
-"0.9982207512364719"
-],
-"a": [
-"1.9985730261796337",
-"-0.9985741705524592"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 7.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003541280953918",
-"-1.9985723174002294",
-"0.9982207512364719"
-],
-"a": [
-"1.9985730261796337",
-"-0.9985741705524592"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 7.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003541280953918",
-"-1.9985723174002294",
-"0.9982207512364719"
-],
-"a": [
-"1.9985730261796337",
-"-0.9985741705524592"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 23.0,
-"gain": 5.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.00014639926513",
-"-1.9996215217459667",
-"0.9994773881221717"
-],
-"a": [
-"1.9996215217459667",
-"-0.9996237873873017"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 37.0,
-"gain": -1.4,
-"q": 2.4,
-"biquads": {
-"96000": {
-"b": [
-"0.9999186392381975",
-"-1.9989010353994985",
-"0.9989882573145555"
-],
-"a": [
-"1.9989010353994985",
-"-0.9989068965527531"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/CODA%20(Children%20of%20Deaf%20People)/CODA%20(2021)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/CODA%20(Children%20of%20Deaf%20People)/CODA%20(2021)%20DD%2B%20Atmoshm.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "coda",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
-"theMovieDB": "776503",
-"rating": "PG-13",
-"runtime": "112",
-"genres": [
-"Drama",
-"Music",
-"Romance"
-],
-"altTitle": "",
-"collection": {},
-"underlying": "CODA (2021) BEQ DD+ Atmos",
-"digest": "161fd60d1ff99237f53e42d057d877bd5762c976b3474cca94c52ae62cb72ffb",
-"created_at": 1770512333,
-"updated_at": 1770512333,
-"audioCodecs": [
-"DD+ Atmos"
 ],
 "audioChannelCounts": [
 ""
