@@ -2271686,6 +2271686,149 @@
 "filterAuthor": "human"
 },
 {
+"title": "Cyberpunk: Edgerunners",
+"year": "2022",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/cyberpunk-edgerunners/#season-02",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 11.0,
+"gain": -2.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999695309067538",
+"-1.999727135817795",
+"0.9997581231660152"
+],
+"a": [
+"1.999727135817795",
+"-0.9997276540727691"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -0.9,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999551929215303",
+"-1.999083692383414",
+"0.999134361150723"
+],
+"a": [
+"1.999083692383414",
+"-0.9990895540722532"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Cyberpunk%20-%20Edgerunners/Cyberpunk%20-%20Edgerunners%20S02E01-10%20(2022)%20(en)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Cyberpunk%20-%20Edgerunners/Cyberpunk%20-%20Edgerunners%20S02E01-10%20(2022)%20(en)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "02",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "cyberpunk: edgerunners",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw \u2014 an edgerunner.",
+"theMovieDB": "105248",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Action & Adventure",
+"Sci-Fi & Fantasy",
+"Crime"
+],
+"underlying": "Cyberpunk- Edgerunners (2022) (Season 02) (Netflix) BEQ DD+",
+"digest": "408507d19a1ffa77e1df2e26f7a9e0c237dc8e6a6def0c23464226fb2622ab85",
+"created_at": 1792872243,
+"updated_at": 1792872243,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Daredevil: Born Again",
 "year": "2025",
 "audioTypes": [
