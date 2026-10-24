@@ -1941930,6 +1941930,171 @@
 "title": "The End of Oak Street",
 "year": "2026",
 "audioTypes": [
+"AC3 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-end-of-oak-street/#ac3-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.8,
+"gain": 5.09,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001810386885701",
+"-1.9989362105902828",
+"0.9987572002953461"
+],
+"a": [
+"1.998936660341303",
+"-0.9989377892328962"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.8,
+"gain": 5.09,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001810386885701",
+"-1.9989362105902828",
+"0.9987572002953461"
+],
+"a": [
+"1.998936660341303",
+"-0.9989377892328962"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.8,
+"gain": 5.09,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001810386885701",
+"-1.9989362105902828",
+"0.9987572002953461"
+],
+"a": [
+"1.998936660341303",
+"-0.9989377892328962"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.8,
+"gain": 5.09,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001810386885701",
+"-1.9989362105902828",
+"0.9987572002953461"
+],
+"a": [
+"1.998936660341303",
+"-0.9989377892328962"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.8,
+"gain": 8.49,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0004339119824126",
+"-1.9986225367672954",
+"0.9981910913019864"
+],
+"a": [
+"1.9986233059872174",
+"-0.9986242340644768"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.86,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001438654206622",
+"-1.9972286027738868",
+"0.9970915817672873"
+],
+"a": [
+"1.9972286027738868",
+"-0.9972354471879495"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20End%20of%20Oak%20Street%20%282026%29%20%28-1.0%20gain%29%20AC3%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20End%20of%20Oak%20Street%20%282026%29%20%28-1.0%20gain%29%20AC3%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "-1.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64957225",
+"sortTitle": "the end of oak street",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+"theMovieDB": "1101383",
+"rating": "PG-13",
+"runtime": "100",
+"genres": [
+"Science Fiction",
+"Mystery",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The End of Oak Street (2026) (-1.0 gain) BEQ AC3 5.1 remixmark",
+"digest": "eb28547387fd89b34ffd39b8f7cdd731211ae3ba3520bd54ea0acfb937397c06",
+"created_at": 1792871537,
+"updated_at": 1792871537,
+"audioCodecs": [
+"AC3"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "The End of Oak Street",
+"year": "2026",
+"audioTypes": [
 "DD+"
 ],
 "content_type": "film",
