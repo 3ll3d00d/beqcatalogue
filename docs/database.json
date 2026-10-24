@@ -1869809,6 +1869809,229 @@
 "title": "Frankenstein",
 "year": "2025",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/frankenstein/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -9.07,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"0.9998669974357124",
+"-1.9993460832143142",
+"0.9994793398321764"
+],
+"a": [
+"1.999345849334094",
+"-0.9993465711481085"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -9.07,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"0.9998669974357124",
+"-1.9993460832143142",
+"0.9994793398321764"
+],
+"a": [
+"1.999345849334094",
+"-0.9993465711481085"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.03,
+"gain": 7.47,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0001961498436174",
+"-1.9992696604637088",
+"0.9990744632847484"
+],
+"a": [
+"1.9992699352333876",
+"-0.9992703383586863"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.03,
+"gain": 7.47,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0001961498436174",
+"-1.9992696604637088",
+"0.9990744632847484"
+],
+"a": [
+"1.9992699352333876",
+"-0.9992703383586863"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.03,
+"gain": 7.47,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0001961498436174",
+"-1.9992696604637088",
+"0.9990744632847484"
+],
+"a": [
+"1.9992699352333876",
+"-0.9992703383586863"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.03,
+"gain": 7.47,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0001961498436174",
+"-1.9992696604637088",
+"0.9990744632847484"
+],
+"a": [
+"1.9992699352333876",
+"-0.9992703383586863"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.93,
+"gain": -4.6,
+"q": 8.06,
+"biquads": {
+"96000": {
+"b": [
+"0.9999457730226076",
+"-1.9997335601278614",
+"0.9997904490831739"
+],
+"a": [
+"1.9997335601278614",
+"-0.9997362221057815"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 12.56,
+"gain": -10.55,
+"q": 10.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999469544337295",
+"-1.9998484499171265",
+"0.9999021711987114"
+],
+"a": [
+"1.9998484499171265",
+"-0.9998491256324408"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 16.3,
+"gain": -4.81,
+"q": 3.37,
+"biquads": {
+"96000": {
+"b": [
+"0.999911241182091",
+"-1.9995813917960052",
+"0.9996712885078325"
+],
+"a": [
+"1.9995813917960052",
+"-0.9995825296899236"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Frankenstein%20%282025%29%20%28%2B4.0%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Frankenstein%20%282025%29%20%28%2B4.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1796#post-64956771",
+"sortTitle": "frankenstein",
+"edition": "",
+"note": "Dialnorm Compensation: 9dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+"theMovieDB": "1062722",
+"rating": "R",
+"runtime": "150",
+"genres": [
+"Drama",
+"Fantasy",
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Frankenstein (2025) (+4.0 gain) BEQ Atmos remixmark",
+"digest": "785f1ba68f8697e74b8a53f1037dc5206afe0403299c938f48bd023e3902686a",
+"created_at": 1792859786,
+"updated_at": 1792859786,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Frankenstein",
+"year": "2025",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
