@@ -2218336,6 +2218336,188 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Florida Project",
+"year": "2017",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-florida-project/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 12.0,
+"gain": 6.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001383270262632",
+"-1.9997214122439577",
+"0.9995837019822046"
+],
+"a": [
+"1.9997214122439577",
+"-0.999722029008468"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": -1.9,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999947414200755",
+"-1.9994626316723956",
+"0.9995172902186813"
+],
+"a": [
+"1.9994626316723956",
+"-0.9994647044194361"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Florida%20Project/The%20Florida%20Project%20(2017)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Florida%20Project/The%20Florida%20Project%20(2017)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "florida project",
+"edition": "UHD",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times.",
+"theMovieDB": "394117",
+"rating": "",
+"runtime": "112",
+"genres": [
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Florida Project (2017) (UHD) BEQ DTS-HD MA 5.1",
+"digest": "124692918b26b4f450814efb8620143ee0926d9a778805fd1e9a4cddf5b7bb83",
+"created_at": 1792845148,
+"updated_at": 1792845148,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Forbidden City",
 "year": "2025",
 "audioTypes": [
