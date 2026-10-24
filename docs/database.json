@@ -2294043,6 +2294043,148 @@
 "filterAuthor": "human"
 },
 {
+"title": "Murder in a Small Town",
+"year": "2024",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/murder-in-a-small-town/#season-02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.1,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001796028003476",
+"-1.9992884154885298",
+"0.9991094570990044"
+],
+"a": [
+"1.9992885954175532",
+"-0.9992888799703283"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003820885611732",
+"-1.9990177449462851",
+"0.9986373695008236"
+],
+"a": [
+"1.9990183306367637",
+"-0.9990188723715183"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003820885611732",
+"-1.9990177449462851",
+"0.9986373695008236"
+],
+"a": [
+"1.9990183306367637",
+"-0.9990188723715183"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 3.7,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000842610619687",
+"-1.9996812971075901",
+"0.999598423738377"
+],
+"a": [
+"1.9996812971075901",
+"-0.9996826848003457"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -0.4,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999814192425366",
+"-1.9991684626539998",
+"0.9991929053488646"
+],
+"a": [
+"1.9991684626539998",
+"-0.9991743245914012"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Murder%20in%20a%20Small%20Town/Murder%20in%20a%20Small%20Town%20S02E01-10%20(2024)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Murder%20in%20a%20Small%20Town/Murder%20in%20a%20Small%20Town%20S02E01-10%20(2024)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "02",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "murder in a small town",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disney+",
+"overview": "Karl Alberg moves to a quiet coastal town to soothe a psyche that has been battered by big-city police work but finds himself needing to call upon all his skills to solve the murders that continue to wash up on his shore.",
+"theMovieDB": "241549",
+"rating": "TV-14",
+"genres": [
+"Drama",
+"Crime"
+],
+"underlying": "Murder in a Small Town (2024) (Season 02) (Disney+) BEQ DD+",
+"digest": "ecda4b267eb0c1bb18e2314b9e59cf218b5bbdc83418926736ad7fc528e12f0f",
+"created_at": 1792813120,
+"updated_at": 1792813120,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Murderbot",
 "year": "2025",
 "audioTypes": [
