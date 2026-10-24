@@ -2190314,6 +2190314,130 @@
 "filterAuthor": "human"
 },
 {
+"title": "Sexy Beast",
+"year": "2001",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/sexy-beast/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002848337203765",
+"-1.9989446566761233",
+"0.9986613063985105"
+],
+"a": [
+"1.9989450856161919",
+"-0.998945711178818"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002848337203765",
+"-1.9989446566761233",
+"0.9986613063985105"
+],
+"a": [
+"1.9989450856161919",
+"-0.998945711178818"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -0.7,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999753862181158",
+"-1.9993608623292511",
+"0.9993888334496442"
+],
+"a": [
+"1.9993608623292511",
+"-0.99936421966776"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Sexy%20Beast/Sexy%20Beast%20(2001)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Sexy%20Beast/Sexy%20Beast%20(2001)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "sexy beast",
+"edition": "UHD",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Ex-safecracker Gal Dove has served his time behind bars and is blissfully retired to a Spanish villa paradise with a wife he adores. The idyll is shattered by the arrival of his nemesis Don Logan, intent on persuading Gal to return to London for one last big job.",
+"theMovieDB": "11826",
+"rating": "R",
+"runtime": "89",
+"genres": [
+"Crime",
+"Thriller",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Sexy Beast (2001) (UHD) BEQ DTS-HD MA 5.1",
+"digest": "48d0edc8d48df8dcee4a7bcbbeab433b3a64dc63674c37b72ffd7cac5b047e66",
+"created_at": 1792846203,
+"updated_at": 1792846203,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Shadow",
 "year": "2018",
 "audioTypes": [
