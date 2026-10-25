@@ -1905058,6 +1905058,149 @@
 "title": "Mutiny",
 "year": "2026",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/mutiny/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 4.83,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000913151138067",
+"-1.999430164935471",
+"0.9993394153359855"
+],
+"a": [
+"1.9994302855438792",
+"-0.999430609841384"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 4.83,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000913151138067",
+"-1.999430164935471",
+"0.9993394153359855"
+],
+"a": [
+"1.9994302855438792",
+"-0.999430609841384"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.15,
+"gain": 4.45,
+"q": 1.11,
+"biquads": {
+"96000": {
+"b": [
+"1.000145150963331",
+"-1.9990054593440536",
+"0.9988623369467392"
+],
+"a": [
+"1.9990058659691594",
+"-0.9990070812849646"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 6.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000345745298697",
+"-1.999301363769428",
+"0.9989594724444097"
+],
+"a": [
+"1.999301363769428",
+"-0.9993052177431071"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 18.55,
+"gain": -0.14,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999983694079014",
+"-1.9997945605377685",
+"0.9997976650052064"
+],
+"a": [
+"1.9997945605377685",
+"-0.9997960344131078"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Mutiny%20%282026%29%20%28%2B2.5%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Mutiny%20%282026%29%20%28%2B2.5%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "2.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64958061",
+"sortTitle": "mutiny",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+"theMovieDB": "1288445",
+"rating": "R",
+"runtime": "96",
+"genres": [
+"Action",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Mutiny (2026) (+2.5 gain) BEQ Atmos remixmark",
+"digest": "9f4ae48528f4ba75be3b273295fbefb314172af069f5cb95f47edb8f1b6ec2e0",
+"created_at": 1792896579,
+"updated_at": 1792896579,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Mutiny",
+"year": "2026",
+"audioTypes": [
 "DD+"
 ],
 "content_type": "film",
@@ -1919100,6 +1919243,170 @@
 ""
 ],
 "filterAuthor": "human"
+},
+{
+"title": "Relic",
+"year": "2020",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/relic/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.14,
+"gain": 8.23,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001983950929711",
+"-1.9993451151170152",
+"0.99914742715697"
+],
+"a": [
+"1.999345331604435",
+"-0.9993456057625208"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.14,
+"gain": 8.23,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001983950929711",
+"-1.9993451151170152",
+"0.99914742715697"
+],
+"a": [
+"1.999345331604435",
+"-0.9993456057625208"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.14,
+"gain": 8.23,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001983950929711",
+"-1.9993451151170152",
+"0.99914742715697"
+],
+"a": [
+"1.999345331604435",
+"-0.9993456057625208"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.97,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002862011806466",
+"-1.999092400276226",
+"0.9988098841397458"
+],
+"a": [
+"1.9990935503095921",
+"-0.9990949352870263"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 1.12,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0002528921795957",
+"-1.9963211220983919",
+"0.9960720781475821"
+],
+"a": [
+"1.9963211220983919",
+"-0.9963249703271777"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 38.0,
+"gain": 0.69,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000049376616265",
+"-1.9987994110353098",
+"0.9987562163592545"
+],
+"a": [
+"1.9987994110353098",
+"-0.9988055929755195"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Relic%20%282020%29%20%28%2B5.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Relic%20%282020%29%20%28%2B5.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64958065",
+"sortTitle": "relic",
+"edition": "",
+"note": "AI Created",
+"language": "Unknown",
+"source": "Disc",
+"overview": "When elderly mother Edna inexplicably vanishes, her daughter rushes to the family's decaying home, finding clues of her increasing dementia scattered around the house in her absence.",
+"theMovieDB": "539181",
+"rating": "R",
+"runtime": "89",
+"genres": [
+"Horror",
+"Mystery",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Relic (2020) (+5.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "8d8ba133fc72387d086e6e58f2efe8a74be57bf7f95dffac53a18369deeba18e",
+"created_at": 1792896658,
+"updated_at": 1792896658,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
 },
 {
 "title": "Remarkably Bright Creatures",
