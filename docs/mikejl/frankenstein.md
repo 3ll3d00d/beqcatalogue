@@ -4,7 +4,7 @@
 
 The Reborn Cut
 
-**2025 • R • 2h 30m • Drama, Fantasy, Horror • mikejl**
+**2025 • R • 2h 38m • Drama, Fantasy, Horror • mikejl**
 
 Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.
 { data-search-exclude }
