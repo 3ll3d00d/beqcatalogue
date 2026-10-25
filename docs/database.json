@@ -1989737,6 +1989737,295 @@
 "filterAuthor": "model"
 },
 {
+"title": "Cyberpunk: Edgerunners",
+"year": "2022",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/cyberpunk-edgerunners/#season-02e02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.36,
+"gain": 6.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002262898935184",
+"-1.9990023270958284",
+"0.9987781353993058"
+],
+"a": [
+"1.9990028798120514",
+"-0.9990038725766014"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.36,
+"gain": 6.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002262898935184",
+"-1.9990023270958284",
+"0.9987781353993058"
+],
+"a": [
+"1.9990028798120514",
+"-0.9990038725766014"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 28.31,
+"gain": 3.26,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0002487557174633",
+"-1.997589503740784",
+"0.9973448849131884"
+],
+"a": [
+"1.997590151022484",
+"-0.9975929933489518"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.23,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000384590845532",
+"-1.9971266508211931",
+"0.9970950358013178"
+],
+"a": [
+"1.9971266508211931",
+"-0.9971334948858709"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyberpunk%20-%20Edgerunners%20%282022%29%20%28Season%20S02E02%29%20%28%2B6.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyberpunk%20-%20Edgerunners%20%282022%29%20%28Season%20S02E02%29%20%28%2B6.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E02",
+"episode": "",
+"mv": "6.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959069",
+"sortTitle": "cyberpunk: edgerunners",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw \u2014 an edgerunner.",
+"theMovieDB": "105248",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Action & Adventure",
+"Sci-Fi & Fantasy",
+"Crime"
+],
+"underlying": "Cyberpunk - Edgerunners (2022) (Season S02E02) (+6.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "5142a78208a773e6d02db9ab44704ae9f843a35c28cda4774da2441354a47c85",
+"created_at": 1792943223,
+"updated_at": 1792943223,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Cyberpunk: Edgerunners",
+"year": "2022",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/cyberpunk-edgerunners/#season-02e03",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.78,
+"q": 0.66,
+"biquads": {
+"96000": {
+"b": [
+"1.0002337066435172",
+"-1.999020785083604",
+"0.9987879893327838"
+],
+"a": [
+"1.999021031870903",
+"-0.9990214491890019"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.78,
+"q": 0.66,
+"biquads": {
+"96000": {
+"b": [
+"1.0002337066435172",
+"-1.999020785083604",
+"0.9987879893327838"
+],
+"a": [
+"1.999021031870903",
+"-0.9990214491890019"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.78,
+"q": 0.66,
+"biquads": {
+"96000": {
+"b": [
+"1.0002337066435172",
+"-1.999020785083604",
+"0.9987879893327838"
+],
+"a": [
+"1.999021031870903",
+"-0.9990214491890019"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.32,
+"gain": 7.25,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000227878542058",
+"-1.9996479847581061",
+"0.999422639409895"
+],
+"a": [
+"1.9996479847581061",
+"-0.9996505179519529"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 31.17,
+"gain": -2.94,
+"q": 2.7,
+"biquads": {
+"96000": {
+"b": [
+"0.9998715715238314",
+"-1.999101326082606",
+"0.9992339145885576"
+],
+"a": [
+"1.999101326082606",
+"-0.9991054861123889"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 0.76,
+"q": 0.66,
+"biquads": {
+"96000": {
+"b": [
+"1.0000216927983008",
+"-1.9990298342562693",
+"0.9990085887659328"
+],
+"a": [
+"1.9990298529938906",
+"-0.9990302628266122"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyberpunk%20-%20Edgerunners%20%282022%29%20%28Season%20S02E03%29%20%28%2B5.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyberpunk%20-%20Edgerunners%20%282022%29%20%28Season%20S02E03%29%20%28%2B5.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E03",
+"episode": "",
+"mv": "5.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959069",
+"sortTitle": "cyberpunk: edgerunners",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw \u2014 an edgerunner.",
+"theMovieDB": "105248",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Action & Adventure",
+"Sci-Fi & Fantasy",
+"Crime"
+],
+"underlying": "Cyberpunk - Edgerunners (2022) (Season S02E03) (+5.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "b30c47a7cd05a375518d22234fa8ff38faf1b6bf43e1ee2f7f27973d81135ae1",
+"created_at": 1792943347,
+"updated_at": 1792943347,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Daredevil: Born Again",
 "year": "2025",
 "audioTypes": [
