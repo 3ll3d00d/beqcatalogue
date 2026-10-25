@@ -1987547,6 +1987547,190 @@
 "filterAuthor": "model"
 },
 {
+"title": "Common Side Effects",
+"year": "2025",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/common-side-effects/#season-01e02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 16.62,
+"gain": 8.32,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000263166994901",
+"-1.9991429154999527",
+"0.9988816578897998"
+],
+"a": [
+"1.9991435038699457",
+"-0.9991442365147079"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.62,
+"gain": 8.32,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000263166994901",
+"-1.9991429154999527",
+"0.9988816578897998"
+],
+"a": [
+"1.9991435038699457",
+"-0.9991442365147079"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.62,
+"gain": 8.32,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000263166994901",
+"-1.9991429154999527",
+"0.9988816578897998"
+],
+"a": [
+"1.9991435038699457",
+"-0.9991442365147079"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.62,
+"gain": 0.7,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0000313108390975",
+"-1.9984770048691523",
+"0.9984469250035124"
+],
+"a": [
+"1.9984770525254114",
+"-0.9984781881863511"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.38,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000231011743327",
+"-1.997310019874193",
+"0.9970858528239416"
+],
+"a": [
+"1.997310019874193",
+"-0.9973168645672688"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 1.18,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000222406137023",
+"-1.999367127979362",
+"0.9993453456973682"
+],
+"a": [
+"1.999367157089987",
+"-0.9993675572004449"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 38.0,
+"gain": 0.28,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000200322018566",
+"-1.998770903478021",
+"0.9987570531282047"
+],
+"a": [
+"1.998770903478021",
+"-0.9987770853300615"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E02%29%20%28%2B4.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E02%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E02",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959073",
+"sortTitle": "common side effects",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world\u2019s diseases.",
+"theMovieDB": "228878",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Drama",
+"Comedy",
+"Sci-Fi & Fantasy"
+],
+"underlying": "Common Side Effects (2025) (Season S01E02) (+4.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "7ef416b91a0ad51229440a44d98e87dca8bbd3489000aee84604d1cd7015734a",
+"created_at": 1792943098,
+"updated_at": 1792943098,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Creature Commandos",
 "year": "2024",
 "audioTypes": [
