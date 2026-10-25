@@ -1987554,6 +1987554,91 @@
 ],
 "content_type": "TV",
 "author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/common-side-effects/#season-01e01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 23.47,
+"gain": 6.88,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002358848375963",
+"-1.9990285789050208",
+"0.9987961986234621"
+],
+"a": [
+"1.9990295375805656",
+"-0.9990311247855133"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 1.33,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0003004014120433",
+"-1.9963652002608914",
+"0.9960686471626017"
+],
+"a": [
+"1.9963652002608914",
+"-0.9963690485746451"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E01%29%20%28%2B3.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E01%29%20%28%2B3.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E01",
+"episode": "",
+"mv": "3.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959073",
+"sortTitle": "common side effects",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world\u2019s diseases.",
+"theMovieDB": "228878",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Drama",
+"Comedy",
+"Sci-Fi & Fantasy"
+],
+"underlying": "Common Side Effects (2025) (Season S01E01) (+3.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "19aec6e12a76345a161807393c8df8dfbbf2b00727aeaeba7ec7c1f203dd36d5",
+"created_at": 1792943672,
+"updated_at": 1792943672,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Common Side Effects",
+"year": "2025",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/common-side-effects/#season-01e02",
 "filters": [
 {
@@ -1990017,6 +1990102,231 @@
 "digest": "b30c47a7cd05a375518d22234fa8ff38faf1b6bf43e1ee2f7f27973d81135ae1",
 "created_at": 1792943347,
 "updated_at": 1792943347,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Cyberpunk: Edgerunners",
+"year": "2022",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/cyberpunk-edgerunners/#season-02e04",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 8.46,
+"q": 1.23,
+"biquads": {
+"96000": {
+"b": [
+"1.0001833528991317",
+"-1.9994152716864255",
+"0.9992332847742755"
+],
+"a": [
+"1.9994156968005676",
+"-0.9994162125592649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.54,
+"gain": 5.79,
+"q": 0.72,
+"biquads": {
+"96000": {
+"b": [
+"1.0004953788234605",
+"-1.9974944380327857",
+"0.9970053812744675"
+],
+"a": [
+"1.9974959760263",
+"-0.9974992221044139"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.54,
+"gain": 5.79,
+"q": 0.72,
+"biquads": {
+"96000": {
+"b": [
+"1.0004953788234605",
+"-1.9974944380327857",
+"0.9970053812744675"
+],
+"a": [
+"1.9974959760263",
+"-0.9974992221044139"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.54,
+"gain": 5.79,
+"q": 0.72,
+"biquads": {
+"96000": {
+"b": [
+"1.0004953788234605",
+"-1.9974944380327857",
+"0.9970053812744675"
+],
+"a": [
+"1.9974959760263",
+"-0.9974992221044139"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.46,
+"gain": -0.92,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9999819336221427",
+"-1.9992995166513137",
+"0.9993181164063989"
+],
+"a": [
+"1.9992994868537342",
+"-0.999300079826121"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.46,
+"gain": -0.92,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9999819336221427",
+"-1.9992995166513137",
+"0.9993181164063989"
+],
+"a": [
+"1.9992994868537342",
+"-0.999300079826121"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.46,
+"gain": -0.92,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9999819336221427",
+"-1.9992995166513137",
+"0.9993181164063989"
+],
+"a": [
+"1.9992994868537342",
+"-0.999300079826121"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.46,
+"gain": -0.92,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9999819336221427",
+"-1.9992995166513137",
+"0.9993181164063989"
+],
+"a": [
+"1.9992994868537342",
+"-0.999300079826121"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -4.68,
+"q": 2.58,
+"biquads": {
+"96000": {
+"b": [
+"0.9997234954409912",
+"-1.998665572655122",
+"0.9989489265526256"
+],
+"a": [
+"1.998665572655122",
+"-0.9986724219936169"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyberpunk%20-%20Edgerunners%20%282022%29%20%28Season%20S02E04%29%20%28%2B7.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyberpunk%20-%20Edgerunners%20%282022%29%20%28Season%20S02E04%29%20%28%2B7.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E04",
+"episode": "",
+"mv": "7.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959069",
+"sortTitle": "cyberpunk: edgerunners",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw \u2014 an edgerunner.",
+"theMovieDB": "105248",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Action & Adventure",
+"Sci-Fi & Fantasy",
+"Crime"
+],
+"underlying": "Cyberpunk - Edgerunners (2022) (Season S02E04) (+7.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "6d90a3c8880b5d18722813bf8b8987a2ffdc7f33c18cfba16855b18d92199619",
+"created_at": 1792943466,
+"updated_at": 1792943466,
 "audioCodecs": [
 "DD+"
 ],
