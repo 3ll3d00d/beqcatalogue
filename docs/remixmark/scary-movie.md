@@ -18,6 +18,8 @@ A familiar-looking group of teenagers find themselves being stalked by a more-th
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **2000 • R • 1h 28m • Comedy • remixmark**
 
 A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!

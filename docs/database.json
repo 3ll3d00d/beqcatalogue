@@ -1922460,7 +1922460,7 @@
 "mv": "5.0",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797?post_id=64962969#post-64962969",
 "sortTitle": "scary movie",
-"edition": "",
+"edition": "UHD",
 "note": "AI Created",
 "language": "English",
 "source": "Disc",
@@ -1922476,7 +1922476,7 @@
 "underlying": "Scary Movie (2000) (+5.0 gain) BEQ DTS-HD MA 5.1 remixmark",
 "digest": "8b3c55fa7b97e9f1bc7e1086570334ec500c5411f392d7cf5f5e304b0d1672d0",
 "created_at": 1793053103,
-"updated_at": 1793053103,
+"updated_at": 1793054801,
 "audioCodecs": [
 "DTS-HD MA"
 ],
