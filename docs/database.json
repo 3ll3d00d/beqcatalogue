@@ -1922245,6 +1922245,248 @@
 },
 {
 "title": "Scary Movie",
+"year": "2000",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/scary-movie/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 37.62,
+"gain": 4.15,
+"q": 0.68,
+"biquads": {
+"96000": {
+"b": [
+"1.0004335695493645",
+"-1.996785687446687",
+"0.9963598040248707"
+],
+"a": [
+"1.9967871472166157",
+"-0.9967919138043069"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 37.62,
+"gain": 4.15,
+"q": 0.68,
+"biquads": {
+"96000": {
+"b": [
+"1.0004335695493645",
+"-1.996785687446687",
+"0.9963598040248707"
+],
+"a": [
+"1.9967871472166157",
+"-0.9967919138043069"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 37.62,
+"gain": 4.15,
+"q": 0.68,
+"biquads": {
+"96000": {
+"b": [
+"1.0004335695493645",
+"-1.996785687446687",
+"0.9963598040248707"
+],
+"a": [
+"1.9967871472166157",
+"-0.9967919138043069"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 37.62,
+"gain": 4.15,
+"q": 0.68,
+"biquads": {
+"96000": {
+"b": [
+"1.0004335695493645",
+"-1.996785687446687",
+"0.9963598040248707"
+],
+"a": [
+"1.9967871472166157",
+"-0.9967919138043069"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -0.38,
+"q": 0.49,
+"biquads": {
+"96000": {
+"b": [
+"0.9999853958390842",
+"-1.998650082701434",
+"0.998665105679172"
+],
+"a": [
+"1.9986500733366441",
+"-0.9986505108830466"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -0.38,
+"q": 0.49,
+"biquads": {
+"96000": {
+"b": [
+"0.9999853958390842",
+"-1.998650082701434",
+"0.998665105679172"
+],
+"a": [
+"1.9986500733366441",
+"-0.9986505108830466"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -0.38,
+"q": 0.49,
+"biquads": {
+"96000": {
+"b": [
+"0.9999853958390842",
+"-1.998650082701434",
+"0.998665105679172"
+],
+"a": [
+"1.9986500733366441",
+"-0.9986505108830466"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 44.51,
+"gain": -5.33,
+"q": 2.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9995680706544758",
+"-1.9981079282370449",
+"0.9985483361590539"
+],
+"a": [
+"1.9981079282370449",
+"-0.9981164068135296"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 74.71,
+"gain": -0.51,
+"q": 1.47,
+"biquads": {
+"96000": {
+"b": [
+"0.9999024980342249",
+"-1.996556532721881",
+"0.9966779034931932"
+],
+"a": [
+"1.996556532721881",
+"-0.9965804015274182"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 12.2,
+"gain": -0.53,
+"q": 1.5,
+"biquads": {
+"96000": {
+"b": [
+"0.9999918717297027",
+"-1.9994590002870516",
+"0.999467746815076"
+],
+"a": [
+"1.9994589808371015",
+"-0.9994596379947288"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scary%20Movie%20%282000%29%20%28%2B5.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scary%20Movie%20%282000%29%20%28%2B5.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797?post_id=64962969#post-64962969",
+"sortTitle": "scary movie",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+"theMovieDB": "4247",
+"rating": "R",
+"runtime": "88",
+"genres": [
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Scary Movie (2000) (+5.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "8b3c55fa7b97e9f1bc7e1086570334ec500c5411f392d7cf5f5e304b0d1672d0",
+"created_at": 1793053103,
+"updated_at": 1793053103,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Scary Movie",
 "year": "2026",
 "audioTypes": [
 "DD+ Atmos"

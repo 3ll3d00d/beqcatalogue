@@ -16,3 +16,22 @@ A familiar-looking group of teenagers find themselves being stalked by a more-th
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scary%20Movie%20(2000)%20(%2B3%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
 
+## DTS-HD MA 5.1
+
+**2000 • R • 1h 28m • Comedy • remixmark**
+
+A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!
+{ data-search-exclude }
+
+**MV Adjustment:** +5.0 dB
+
+AI Created
+{ data-search-exclude }
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797?post_id=64962969#post-64962969)  [TMDB](https://www.themoviedb.org/movie/4247)  [Compare across authors](../compare/index.md?t=film-scary-movie_4247)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scary%20Movie%20%282000%29%20%28%2B5.0%20gain%29%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Scary%20Movie%20%282000%29%20%28%2B5.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
