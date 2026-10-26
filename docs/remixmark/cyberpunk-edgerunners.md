@@ -156,6 +156,28 @@ Dialnorm Compensation: 5dB AI Created
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyberpunk%20-%20Edgerunners%20%282022%29%20%28Season%20S02E07%29%20%28%2B6.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
 
+## Season 02E08
+
+* DD+ 5.1
+
+
+**MV Adjustment:** +4.5 dB
+
+Dialnorm Compensation: 5dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959069)
+
+* [Compare across authors](../compare/index.md?t=TV-cyberpunk-edgerunners_105248)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyberpunk%20-%20Edgerunners%20%282022%29%20%28Season%20S02E08%29%20%28%2B4.5%20gain%29%20DD%2B%205.1.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyberpunk%20-%20Edgerunners%20%282022%29%20%28Season%20S02E08%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
+
 ## Season 02E09
 
 * DD+ 5.1

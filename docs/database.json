@@ -1991284,6 +1991284,170 @@
 ],
 "content_type": "TV",
 "author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/cyberpunk-edgerunners/#season-02e08",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 16.6,
+"gain": -0.29,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999996977270576",
+"-1.9998147105328457",
+"0.9998189135650316"
+],
+"a": [
+"1.9998147105328457",
+"-0.9998158908356074"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 7.71,
+"q": 0.84,
+"biquads": {
+"96000": {
+"b": [
+"1.0002441455271627",
+"-1.9991257180088031",
+"0.9988828805596827"
+],
+"a": [
+"1.999126102830093",
+"-0.9991266412655552"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 7.71,
+"q": 0.84,
+"biquads": {
+"96000": {
+"b": [
+"1.0002441455271627",
+"-1.9991257180088031",
+"0.9988828805596827"
+],
+"a": [
+"1.999126102830093",
+"-0.9991266412655552"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 7.67,
+"q": 0.83,
+"biquads": {
+"96000": {
+"b": [
+"1.0006147607259945",
+"-1.9977834714647666",
+"0.9971768619668495"
+],
+"a": [
+"1.9977858617173803",
+"-0.9977892324402305"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.25,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000471211976023",
+"-1.9993842763366494",
+"0.9993440069405077"
+],
+"a": [
+"1.9993842763366494",
+"-0.9993911281381103"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.74,
+"q": 0.84,
+"biquads": {
+"96000": {
+"b": [
+"1.0000615231812084",
+"-1.9992797479714433",
+"0.9992187261632167"
+],
+"a": [
+"1.9992798157927902",
+"-0.999280181523078"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyberpunk%20-%20Edgerunners%20%282022%29%20%28Season%20S02E08%29%20%28%2B4.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Cyberpunk%20-%20Edgerunners%20%282022%29%20%28Season%20S02E08%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E08",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959069",
+"sortTitle": "cyberpunk: edgerunners",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw \u2014 an edgerunner.",
+"theMovieDB": "105248",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Action & Adventure",
+"Sci-Fi & Fantasy",
+"Crime"
+],
+"underlying": "Cyberpunk - Edgerunners (2022) (Season S02E08) (+4.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "413342fcbdf2e00ed67958892512daa33a52c30ff3582ec502bf609f0923fb4d",
+"created_at": 1793037764,
+"updated_at": 1793037764,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Cyberpunk: Edgerunners",
+"year": "2022",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/cyberpunk-edgerunners/#season-02e09",
 "filters": [
 {
