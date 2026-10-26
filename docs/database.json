@@ -1988225,6 +1988225,504 @@
 "filterAuthor": "model"
 },
 {
+"title": "Common Side Effects",
+"year": "2025",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/common-side-effects/#season-01e05",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 24.73,
+"gain": 8.37,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0003033613403216",
+"-1.999019042277892",
+"0.9987199203248168"
+],
+"a": [
+"1.9990203532982354",
+"-0.9990219706447948"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 46.55,
+"gain": 1.61,
+"q": 1.71,
+"biquads": {
+"96000": {
+"b": [
+"1.0001652274329216",
+"-1.9983680595837319",
+"0.9982121069348275"
+],
+"a": [
+"1.9983680595837319",
+"-0.9983773343677491"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E05%29%20%28%2B5.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E05%29%20%28%2B5.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E05",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959073",
+"sortTitle": "common side effects",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world\u2019s diseases.",
+"theMovieDB": "228878",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Drama",
+"Comedy",
+"Sci-Fi & Fantasy"
+],
+"underlying": "Common Side Effects (2025) (Season S01E05) (+5.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "1852a5eee998c1014b4dc66d0a823dec7627e3012a1437ec12dda1caddcf60fa",
+"created_at": 1793038288,
+"updated_at": 1793038288,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Common Side Effects",
+"year": "2025",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/common-side-effects/#season-01e06",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 8.5,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0004527187000458",
+"-1.9985652037549284",
+"0.9981138536086915"
+],
+"a": [
+"1.9985656308549773",
+"-0.9985661452086882"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 8.5,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0006296383228521",
+"-1.9980032082546921",
+"0.9973821210095674"
+],
+"a": [
+"1.9980058768861273",
+"-0.998009090700984"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.01,
+"gain": -2.13,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9999561421508036",
+"-1.9992398931411215",
+"0.9992842973621521"
+],
+"a": [
+"1.999239817220239",
+"-0.9992405154338379"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 52.42,
+"gain": -0.53,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999738391548997",
+"-1.9991043348882365",
+"0.9991422614639095"
+],
+"a": [
+"1.9991043348882365",
+"-0.9991161006188091"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E06%29%20%28%2B4.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E06%29%20%28%2B4.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E06",
+"episode": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959073",
+"sortTitle": "common side effects",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world\u2019s diseases.",
+"theMovieDB": "228878",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Drama",
+"Comedy",
+"Sci-Fi & Fantasy"
+],
+"underlying": "Common Side Effects (2025) (Season S01E06) (+4.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "4b320a3740f0365e88053b2369183b0e9ae1f05e2081272772f8c1bfed5f26ea",
+"created_at": 1793038342,
+"updated_at": 1793038342,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Common Side Effects",
+"year": "2025",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/common-side-effects/#season-01e07",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.77,
+"gain": 5.42,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001309774614207",
+"-1.9992844514502008",
+"0.9991544279787581"
+],
+"a": [
+"1.999284672872869",
+"-0.9992851840175103"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.77,
+"gain": 5.42,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001309774614207",
+"-1.9992844514502008",
+"0.9991544279787581"
+],
+"a": [
+"1.999284672872869",
+"-0.9992851840175103"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.77,
+"gain": 5.42,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001309774614207",
+"-1.9992844514502008",
+"0.9991544279787581"
+],
+"a": [
+"1.999284672872869",
+"-0.9992851840175103"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": 0.97,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001095922198981",
+"-1.998141740311131",
+"0.9980352679983191"
+],
+"a": [
+"1.998141740311131",
+"-0.9981448602182175"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 11.72,
+"gain": -0.83,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999938898081472",
+"-1.9998653187236946",
+"0.9998720172758382"
+],
+"a": [
+"1.9998653187236946",
+"-0.9998659070839854"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E07%29%20%28%2B4.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E07%29%20%28%2B4.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E07",
+"episode": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959073",
+"sortTitle": "common side effects",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world\u2019s diseases.",
+"theMovieDB": "228878",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Drama",
+"Comedy",
+"Sci-Fi & Fantasy"
+],
+"underlying": "Common Side Effects (2025) (Season S01E07) (+4.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "65712ef5072e3c2b03c4bdb11cd7b70d553363be0d1d91193a319b32b28babe5",
+"created_at": 1793038456,
+"updated_at": 1793038456,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Common Side Effects",
+"year": "2025",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/common-side-effects/#season-01e08",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 12.69,
+"gain": -0.11,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999991235240718",
+"-1.9998600142004175",
+"0.999861580455779"
+],
+"a": [
+"1.9998600142004175",
+"-0.9998607039798507"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 13.68,
+"gain": 8.5,
+"q": 1.16,
+"biquads": {
+"96000": {
+"b": [
+"1.0001908702497622",
+"-1.9993949357968614",
+"0.9992053727959166"
+],
+"a": [
+"1.999395343764769",
+"-0.9993958350777711"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 8.5,
+"q": 0.71,
+"biquads": {
+"96000": {
+"b": [
+"1.000797563552528",
+"-1.9974711033808152",
+"0.9966820886287063"
+],
+"a": [
+"1.997473771301545",
+"-0.9974769842605039"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 8.5,
+"q": 0.71,
+"biquads": {
+"96000": {
+"b": [
+"1.000797563552528",
+"-1.9974711033808152",
+"0.9966820886287063"
+],
+"a": [
+"1.997473771301545",
+"-0.9974769842605039"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 53.99,
+"gain": -2.68,
+"q": 3.45,
+"biquads": {
+"96000": {
+"b": [
+"0.9998414543341397",
+"-1.9987931408567507",
+"0.9989641656448792"
+],
+"a": [
+"1.9987931408567507",
+"-0.9988056199790188"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E08%29%20%28%2B4.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E08%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E08",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959073",
+"sortTitle": "common side effects",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world\u2019s diseases.",
+"theMovieDB": "228878",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Drama",
+"Comedy",
+"Sci-Fi & Fantasy"
+],
+"underlying": "Common Side Effects (2025) (Season S01E08) (+4.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "7e427290aa7b6ed114616ee977ab47997dc2f28b7ca54453a5ef83d184dade22",
+"created_at": 1793038560,
+"updated_at": 1793038560,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Creature Commandos",
 "year": "2024",
 "audioTypes": [
