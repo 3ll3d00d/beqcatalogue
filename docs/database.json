@@ -1972630,6 +1972630,189 @@
 "filterAuthor": "human"
 },
 {
+"title": "Verity",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/verity/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.18,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001170793309555",
+"-1.9994518482340857",
+"0.9993353801242079"
+],
+"a": [
+"1.999452003818004",
+"-0.999452303871245"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.18,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001170793309555",
+"-1.9994518482340857",
+"0.9993353801242079"
+],
+"a": [
+"1.999452003818004",
+"-0.999452303871245"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.18,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001170793309555",
+"-1.9994518482340857",
+"0.9993353801242079"
+],
+"a": [
+"1.999452003818004",
+"-0.999452303871245"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.18,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001170793309555",
+"-1.9994518482340857",
+"0.9993353801242079"
+],
+"a": [
+"1.999452003818004",
+"-0.999452303871245"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.79,
+"gain": 4.1,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.000153830211026",
+"-1.9988438426277724",
+"0.9986936179493229"
+],
+"a": [
+"1.9988445209459262",
+"-0.998846769842195"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 45.11,
+"gain": 1.54,
+"q": 1.83,
+"biquads": {
+"96000": {
+"b": [
+"1.0001431048486176",
+"-1.998515891334523",
+"0.998381496966398"
+],
+"a": [
+"1.998515891334523",
+"-0.9985246018150156"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 10.74,
+"gain": -0.43,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999965199932566",
+"-1.9998554067181606",
+"0.9998593808017747"
+],
+"a": [
+"1.9998554067181606",
+"-0.9998559007950314"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Verity%20%282026%29%20%28%2B7.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Verity%20%282026%29%20%28%2B7.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "7.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1798#post-64964021",
+"sortTitle": "verity",
+"edition": "",
+"note": "Dialnorm Compensation: 3dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+"theMovieDB": "1283515",
+"rating": "R",
+"runtime": "114",
+"genres": [
+"Mystery",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Verity (2026) (+7.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "4fec74bbe7a04296d4b483c7fb37132c6000962a0a1a6e41fa1970e953d7647d",
+"created_at": 1793098483,
+"updated_at": 1793098483,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Waiting...",
 "year": "2005",
 "audioTypes": [
