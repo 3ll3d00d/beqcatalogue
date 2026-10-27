@@ -2219769,6 +2219769,190 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Dog Stars",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-dog-stars/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000177038576006",
+"-1.999286367531921",
+"0.9991099696672101"
+],
+"a": [
+"1.999286544789957",
+"-0.9992868309851797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000177038576006",
+"-1.999286367531921",
+"0.9991099696672101"
+],
+"a": [
+"1.999286544789957",
+"-0.9992868309851797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 13.0,
+"gain": 6.1,
+"q": 1.5,
+"biquads": {
+"96000": {
+"b": [
+"1.000203258181741",
+"-1.9996000914117562",
+"0.999397557027815"
+],
+"a": [
+"1.9996000914117562",
+"-0.9996008152095558"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -3.4,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.999836006139407",
+"-1.9989840761974718",
+"0.9991514267638721"
+],
+"a": [
+"1.9989840761974718",
+"-0.9989874329032792"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Dog%20Stars/The%20Dog%20Stars%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Dog%20Stars/The%20Dog%20Stars%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "dog stars",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+"theMovieDB": "1384216",
+"rating": "R",
+"runtime": "119",
+"genres": [
+"Drama",
+"Science Fiction",
+"Thriller",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Dog Stars (2026) BEQ DD+ Atmos",
+"digest": "28dc958841a8ba3c32f3598683234c33853fcc9d8f03c434e1beeec867a829ee",
+"created_at": 1793131260,
+"updated_at": 1793131957,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Dogs",
 "year": "2025",
 "audioTypes": [
