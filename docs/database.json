@@ -1946988,6 +1946988,247 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Incredible Hulk",
+"year": "2008",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-incredible-hulk/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -2.9,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999452899459612",
+"-1.9992883455282033",
+"0.9993434179610396"
+],
+"a": [
+"1.9992882737104583",
+"-0.999288779724746"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 1.45,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0000746144491668",
+"-1.9982855665106805",
+"0.9982151394000115"
+],
+"a": [
+"1.9982858884069494",
+"-0.9982894319529096"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 1.45,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0000746144491668",
+"-1.9982855665106805",
+"0.9982151394000115"
+],
+"a": [
+"1.9982858884069494",
+"-0.9982894319529096"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 1.45,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0000746144491668",
+"-1.9982855665106805",
+"0.9982151394000115"
+],
+"a": [
+"1.9982858884069494",
+"-0.9982894319529096"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 1.45,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0000746144491668",
+"-1.9982855665106805",
+"0.9982151394000115"
+],
+"a": [
+"1.9982858884069494",
+"-0.9982894319529096"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": -1.51,
+"q": 3.5,
+"biquads": {
+"96000": {
+"b": [
+"0.9999837266987864",
+"-1.9997956110813981",
+"0.999812312707158"
+],
+"a": [
+"1.9997956110813981",
+"-0.9997960394059444"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -3.97,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9997738212932462",
+"-1.9987630939659653",
+"0.9989931256087972"
+],
+"a": [
+"1.9987630939659653",
+"-0.9987669469020432"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -0.1,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999949787181259",
+"-1.9991182985141174",
+"0.9991277043610624"
+],
+"a": [
+"1.9991182985141174",
+"-0.9991226830791881"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -0.1,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999949787181259",
+"-1.9991182985141174",
+"0.9991277043610624"
+],
+"a": [
+"1.9991182985141174",
+"-0.9991226830791881"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.73,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002608394346617",
+"-1.997626123843392",
+"0.9973721301850804"
+],
+"a": [
+"1.997626123843392",
+"-0.9976329696197418"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Incredible%20Hulk%20%282008%29%20%28%2B0.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Incredible%20Hulk%20%282008%29%20%28%2B0.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "0.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64963387",
+"sortTitle": "the incredible hulk",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+"theMovieDB": "1724",
+"rating": "PG-13",
+"runtime": "114",
+"genres": [
+"Science Fiction",
+"Action",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Incredible Hulk (2008) (+0.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "32c32eeee8cc0f46f4b4d3ec058d44891d5bc9317efa6d4fc184b399f53df61d",
+"created_at": 1793062435,
+"updated_at": 1793062435,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Instigators",
 "year": "2024",
 "audioTypes": [
