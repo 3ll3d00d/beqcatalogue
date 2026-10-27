@@ -2119720,6 +2119720,153 @@
 "filterAuthor": "human"
 },
 {
+"title": "Ghost in the Cell",
+"year": "2026",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/ghost-in-the-cell/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002655769735582",
+"-1.9989293946365287",
+"0.9986652590064043"
+],
+"a": [
+"1.9989297933960144",
+"-0.9989304372204769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002655769735582",
+"-1.9989293946365287",
+"0.9986652590064043"
+],
+"a": [
+"1.9989297933960144",
+"-0.9989304372204769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002655769735582",
+"-1.9989293946365287",
+"0.9986652590064043"
+],
+"a": [
+"1.9989297933960144",
+"-0.9989304372204769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.0,
+"gain": -3.4,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998872363524988",
+"-1.9993018613483071",
+"0.9994165134418338"
+],
+"a": [
+"1.9993018613483071",
+"-0.9993037497943326"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000225615978298",
+"-1.9960877761400253",
+"0.9960806057322641"
+],
+"a": [
+"1.9960877761400253",
+"-0.996103167330094"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Ghost%20In%20The%20Cell/Ghost%20In%20The%20Cell%20(2026)%20(ind)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Ghost%20In%20The%20Cell/Ghost%20In%20The%20Cell%20(2026)%20(ind)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "ghost in the cell",
+"edition": "",
+"note": "",
+"language": "Indonesian",
+"source": "Disc",
+"overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+"theMovieDB": "1393326",
+"rating": "",
+"runtime": "106",
+"genres": [
+"Horror",
+"Comedy",
+"Thriller"
+],
+"altTitle": "",
+"collection": {
+"id": "1679602",
+"name": "Ghost in the Cell Collection"
+},
+"underlying": "Ghost in the Cell (2026) BEQ Atmos",
+"digest": "a3f2e6c9159ee43dec8fd340b3aae7806c49ac0687daa930db87998646fdea7e",
+"created_at": 1793139816,
+"updated_at": 1793139816,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Ghostbusters: Afterlife",
 "year": "2021",
 "audioTypes": [
