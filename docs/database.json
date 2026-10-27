@@ -1942053,6 +1942053,190 @@
 "filterAuthor": "model"
 },
 {
+"title": "The Dog Stars",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-dog-stars/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 17.55,
+"gain": 6.48,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0002536122409125",
+"-1.9988778008993773",
+"0.9986261034789499"
+],
+"a": [
+"1.9988783042654856",
+"-0.9988792123537538"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.55,
+"gain": 6.48,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0002536122409125",
+"-1.9988778008993773",
+"0.9986261034789499"
+],
+"a": [
+"1.9988783042654856",
+"-0.9988792123537538"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.55,
+"gain": 6.48,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0002536122409125",
+"-1.9988778008993773",
+"0.9986261034789499"
+],
+"a": [
+"1.9988783042654856",
+"-0.9988792123537538"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.55,
+"gain": 6.48,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0002536122409125",
+"-1.9988778008993773",
+"0.9986261034789499"
+],
+"a": [
+"1.9988783042654856",
+"-0.9988792123537538"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.93,
+"gain": 0.3,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0000193196813094",
+"-1.9977817944709926",
+"0.99776496778333"
+],
+"a": [
+"1.9977818367884639",
+"-0.9977842451471686"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.43,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000071908188292",
+"-1.9971594168304219",
+"0.9970943528190954"
+],
+"a": [
+"1.9971594168304219",
+"-0.9971662610073876"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 15.62,
+"gain": -0.25,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999970577115883",
+"-1.999791547414834",
+"0.9997955347464647"
+],
+"a": [
+"1.999791547414834",
+"-0.9997925924580531"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Dog%20Stars%20%282026%29%20%28%2B3.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Dog%20Stars%20%282026%29%20%28%2B3.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "3.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1798#post-64964011",
+"sortTitle": "the dog stars",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+"theMovieDB": "1384216",
+"rating": "R",
+"runtime": "119",
+"genres": [
+"Thriller",
+"Adventure",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Dog Stars (2026) (+3.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "a0d2ff5bc41f0b52feea2fa2f1db123ca59ff9f8e6e5debe7b846e687f0ceadb",
+"created_at": 1793098015,
+"updated_at": 1793098015,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Dutchman",
 "year": "2026",
 "audioTypes": [
