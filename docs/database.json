@@ -1893622,6 +1893622,151 @@
 "filterAuthor": "human"
 },
 {
+"title": "LEGO Marvel Avengers: Code Red",
+"year": "2023",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/lego-marvel-avengers-code-red/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 4.57,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001987477852778",
+"-1.9986787171403104",
+"0.9984829153799721"
+],
+"a": [
+"1.9986793197777497",
+"-0.9986810605278106"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 4.57,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001987477852778",
+"-1.9986787171403104",
+"0.9984829153799721"
+],
+"a": [
+"1.9986793197777497",
+"-0.9986810605278106"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.25,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0006725402472962",
+"-1.9977860404023926",
+"0.99711969213746"
+],
+"a": [
+"1.9977879388268642",
+"-0.9977903339602843"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.36,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000602000212053",
+"-1.9971479914905073",
+"0.9970946356071134"
+],
+"a": [
+"1.9971479914905073",
+"-0.9971548356283187"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 58.0,
+"gain": -0.3,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999672519837474",
+"-1.998056362717805",
+"0.9981035071241068"
+],
+"a": [
+"1.998056362717805",
+"-0.9980707591078541"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/LEGO%20Marvel%20Avengers%20-%20Code%20Red%20%282023%29%20%28%2B5.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/LEGO%20Marvel%20Avengers%20-%20Code%20Red%20%282023%29%20%28%2B5.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "5.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1799#post-64968869",
+"sortTitle": "lego marvel avengers: code red",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "The Avengers gather to celebrate their latest victory, but their celebration is quickly interrupted by the mysterious disappearance of Black Widow's father, Red Guardian. As the Avengers investigate, they discover that Red Guardian isn't the only one missing when they meet a dangerous new foe quite unlike anything they've ever encountered before.",
+"theMovieDB": "1154598",
+"rating": "G",
+"runtime": "48",
+"genres": [
+"Animation",
+"Action",
+"Family",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "LEGO Marvel Avengers - Code Red (2023) (+5.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "f70a8cb4eb1906c2b133781c6094506edeb3138b0208189844908b29f0f35c89",
+"created_at": 1793219612,
+"updated_at": 1793219612,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Lady and the Tramp",
 "year": "2019",
 "audioTypes": [
@@ -1920865,6 +1921010,191 @@
 "filterAuthor": "human"
 },
 {
+"title": "Rio",
+"year": "2011",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/rio/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.2,
+"gain": 3.22,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000619827535295",
+"-1.9993912343851505",
+"0.9993297879040788"
+],
+"a": [
+"1.9993913174430813",
+"-0.9993916875996773"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.2,
+"gain": 3.22,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000619827535295",
+"-1.9993912343851505",
+"0.9993297879040788"
+],
+"a": [
+"1.9993913174430813",
+"-0.9993916875996773"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.2,
+"gain": 3.22,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000619827535295",
+"-1.9993912343851505",
+"0.9993297879040788"
+],
+"a": [
+"1.9993913174430813",
+"-0.9993916875996773"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.2,
+"gain": 3.22,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000619827535295",
+"-1.9993912343851505",
+"0.9993297879040788"
+],
+"a": [
+"1.9993913174430813",
+"-0.9993916875996773"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 28.3,
+"gain": 7.23,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002991999317006",
+"-1.9988398238294327",
+"0.9985458225282582"
+],
+"a": [
+"1.9988412924145862",
+"-0.9988435538748057"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 3.3,
+"q": 0.74,
+"biquads": {
+"96000": {
+"b": [
+"1.0005065241561388",
+"-1.9978042442309683",
+"0.9973015711625709"
+],
+"a": [
+"1.9978042442309683",
+"-0.9978080953187095"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 58.0,
+"gain": -0.29,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999968343669865",
+"-1.998057471880214",
+"0.9981035246083899"
+],
+"a": [
+"1.998057471880214",
+"-0.9980718682782549"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rio%20%282011%29%20%28%2B4.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rio%20%282011%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1799#post-64968857",
+"sortTitle": "rio",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Captured by smugglers when he was just a hatchling, a macaw named Blu never learned to fly and lives a happily domesticated life in Minnesota with his human friend, Linda. Blu is thought to be the last of his kind, but when word comes that Jewel, a lone female, lives in Rio de Janeiro, Blu and Linda go to meet her. Animal smugglers kidnap Blu and Jewel, but the pair soon escape and begin a perilous adventure back to freedom -- and Linda.",
+"theMovieDB": "46195",
+"rating": "G",
+"runtime": "96",
+"genres": [
+"Animation",
+"Adventure",
+"Comedy",
+"Family"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Rio (2011) (+4.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "0dc0a03e412681d05b46f33ee1b49e44da4f504fc15c395a649d7d4258a88c55",
+"created_at": 1793219339,
+"updated_at": 1793219339,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Romy and Michele's High School Reunion",
 "year": "1997",
 "audioTypes": [
@@ -1937764,6 +1938094,230 @@
 ""
 ],
 "filterAuthor": "human"
+},
+{
+"title": "The Book of Life",
+"year": "2014",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-book-of-life/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.08,
+"gain": 8.49,
+"q": 0.79,
+"biquads": {
+"96000": {
+"b": [
+"1.0002470612118304",
+"-1.9992157732503437",
+"0.9989697307025385"
+],
+"a": [
+"1.9992160909358205",
+"-0.9992164742288919"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.08,
+"gain": 8.49,
+"q": 0.79,
+"biquads": {
+"96000": {
+"b": [
+"1.0002470612118304",
+"-1.9992157732503437",
+"0.9989697307025385"
+],
+"a": [
+"1.9992160909358205",
+"-0.9992164742288919"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.08,
+"gain": 8.49,
+"q": 0.79,
+"biquads": {
+"96000": {
+"b": [
+"1.0002470612118304",
+"-1.9992157732503437",
+"0.9989697307025385"
+],
+"a": [
+"1.9992160909358205",
+"-0.9992164742288919"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 5.71,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003003544145281",
+"-1.9984558469323348",
+"0.9981592088322011"
+],
+"a": [
+"1.998456742186727",
+"-0.9984586679923372"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 5.71,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0003003544145281",
+"-1.9984558469323348",
+"0.9981592088322011"
+],
+"a": [
+"1.998456742186727",
+"-0.9984586679923372"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -6.68,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9998848530980045",
+"-1.9992786657828372",
+"0.9993941041996733"
+],
+"a": [
+"1.9992784970329982",
+"-0.9992791260475167"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -6.68,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9998848530980045",
+"-1.9992786657828372",
+"0.9993941041996733"
+],
+"a": [
+"1.9992784970329982",
+"-0.9992791260475167"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 10.72,
+"gain": -5.75,
+"q": 10.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999976351310416",
+"-1.9999018217848574",
+"0.9999259627243122"
+],
+"a": [
+"1.9999018217848574",
+"-0.9999023140347283"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 45.22,
+"gain": 2.13,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000090919995486",
+"-1.9993369290151348",
+"0.9992547656287657"
+],
+"a": [
+"1.9993369290151348",
+"-0.9993456856242517"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Book%20of%20Life%20%282014%29%20%28%2B2.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Book%20of%20Life%20%282014%29%20%28%2B2.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "2.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1799#post-64968863",
+"sortTitle": "the book of life",
+"edition": "",
+"note": "Dialnorm Compensation: 7dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "The journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans fantastical worlds where he must face his greatest fears.",
+"theMovieDB": "228326",
+"rating": "PG",
+"runtime": "95",
+"genres": [
+"Animation",
+"Family",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Book of Life (2014) (+2.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "cf313ac8c7801237f86c9e73cd50c86bf14a43af6a20acbf89d4b7cd0bd7cef3",
+"created_at": 1793219437,
+"updated_at": 1793219437,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
 },
 {
 "title": "The Book of Life",
