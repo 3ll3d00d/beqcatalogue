@@ -2229197,6 +2229197,148 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Hunted",
+"year": "2024",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-hunted/#dd",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": -1.3,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999982843553552",
+"-1.9997523162525797",
+"0.9997703121971068"
+],
+"a": [
+"1.9997523162525797",
+"-0.9997531557506589"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 8.1,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003491010236978",
+"-1.9988242930332916",
+"0.998477164250856"
+],
+"a": [
+"1.9988248910660738",
+"-0.9988256672417711"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 8.1,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003491010236978",
+"-1.9988242930332916",
+"0.998477164250856"
+],
+"a": [
+"1.9988248910660738",
+"-0.9988256672417711"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": -1.9,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999334188388617",
+"-1.9993193442616575",
+"0.9993888202101243"
+],
+"a": [
+"1.9993193442616575",
+"-0.9993222390489859"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.1,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000112917994781",
+"-1.998034277452017",
+"0.9980383918514524"
+],
+"a": [
+"1.998034277452017",
+"-0.9980496836509306"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Hunted/The%20Hunted%20(2024)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Hunted/The%20Hunted%20(2024)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "hunted",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After their boat capsizes in the Mediterranean Sea, a group of refugees are rescued by rich Europeans who offer them shelter on an idyllic island. But the miracle soon becomes a nightmare when the saviors turn into ruthless manhunters.",
+"theMovieDB": "1026819",
+"rating": "R",
+"runtime": "95",
+"genres": [
+"Horror",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Hunted (2024) BEQ DD+",
+"digest": "e2b1f5f5c0128867e5e0b3db163e2b3df529741f1b963a41fde7ba3a6109a0c0",
+"created_at": 1793187371,
+"updated_at": 1793187371,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Hurt Locker",
 "year": "2008",
 "audioTypes": [
@@ -2246218,6 +2246360,150 @@
 "updated_at": 1772902065,
 "audioCodecs": [
 "DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Stunt Driver",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-stunt-driver/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -1.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999442194006242",
+"-1.9991295667063658",
+"0.9991912091290929"
+],
+"a": [
+"1.9991295667063658",
+"-0.9991354285297169"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Stunt%20Driver/The%20Stunt%20Driver%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Stunt%20Driver/The%20Stunt%20Driver%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "stunt driver",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
+"theMovieDB": "1562777",
+"rating": "",
+"runtime": "99",
+"genres": [
+"Comedy",
+"Drama",
+"History"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Stunt Driver (2026) BEQ DD+",
+"digest": "9f7294bc847fb91b9202941c2d5a5b2de4e9dec919946427b2099c6e4228c5c9",
+"created_at": 1793187371,
+"updated_at": 1793187371,
+"audioCodecs": [
+"DD+"
 ],
 "audioChannelCounts": [
 ""
