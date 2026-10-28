@@ -2214994,6 +2214994,128 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Breach",
+"year": "2022",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-breach/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000525968667146",
+"-1.9984495392251842",
+"0.9979273718979971"
+],
+"a": [
+"1.9984507655120065",
+"-0.9984521142783211"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000525968667146",
+"-1.9984495392251842",
+"0.9979273718979971"
+],
+"a": [
+"1.9984507655120065",
+"-0.9984521142783211"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -3.1,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998435265964648",
+"-1.9989530088940781",
+"0.9991138665001628"
+],
+"a": [
+"1.9989530088940781",
+"-0.9989573930966275"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Breach/The%20Breach%20(2022)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Breach/The%20Breach%20(2022)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "breach",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "John Hawkins  is set to retire from his post as police chief of the small town of Lone Crow, that is tucked away in the deep woods of northern Ontario. But following the discovery of a gruesome body with uncanny injuries, he\u2019s pulled into an investigation to solve the horrifying mystery, which evades explanation.",
+"theMovieDB": "805473",
+"rating": "",
+"runtime": "93",
+"genres": [
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Breach (2022) BEQ DTS-HD MA 5.1",
+"digest": "059ed0e7a857a4320f7a6c86da60f251143ca90dec94f132a577d3ee9f283110",
+"created_at": 1793200292,
+"updated_at": 1793200292,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Bricklayer",
 "year": "2023",
 "audioTypes": [
@@ -2249765,6 +2249887,168 @@
 "digest": "cd8688627020122b644f4c0e281a962a82b4f091c5da08a31df8c06ae0ef9e18",
 "created_at": 1746888652,
 "updated_at": 1746889057,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Underdoggs",
+"year": "2024",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-underdoggs/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002027506418185",
+"-1.9993065836021406",
+"0.9991045116430174"
+],
+"a": [
+"1.9993067878492643",
+"-0.9993070580377119"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004426919299572",
+"-1.9982151358979345",
+"0.9977764462728287"
+],
+"a": [
+"1.9982162431684063",
+"-0.9982180309323144"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004426919299572",
+"-1.9982151358979345",
+"0.9977764462728287"
+],
+"a": [
+"1.9982162431684063",
+"-0.9982180309323144"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004426919299572",
+"-1.9982151358979345",
+"0.9977764462728287"
+],
+"a": [
+"1.9982162431684063",
+"-0.9982180309323144"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 46.0,
+"gain": -1.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999422290768384",
+"-1.9989284776253236",
+"0.9989953079985131"
+],
+"a": [
+"1.9989284776253236",
+"-0.9989375370753514"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Underdoggs/The%20Underdoggs%20(2024)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Underdoggs/The%20Underdoggs%20(2024)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "underdoggs",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Jaycen 'Two Js' Jennings is a washed-up former pro football star who has hit rock bottom. When sentenced to community service coaching the Underdoggs, an unruly pee-wee football team in his hometown, he sees it mostly as an opportunity to rebuild his public image. But in the process, he may just turn his life around and rediscover his love of the game.",
+"theMovieDB": "1007826",
+"rating": "R",
+"runtime": "96",
+"genres": [
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Underdoggs (2024) BEQ DD+",
+"digest": "702201ecfdd11f59f058ea18547587435f912c97f407a5463ebebdf2a9b3ead7",
+"created_at": 1793200292,
+"updated_at": 1793200292,
 "audioCodecs": [
 "DD+"
 ],
