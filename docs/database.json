@@ -2221409,6 +2221409,169 @@
 "title": "The End of Oak Street",
 "year": "2026",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-end-of-oak-street/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000362494692242",
+"-1.9990035467795435",
+"0.9986427165865691"
+],
+"a": [
+"1.999004100254313",
+"-0.9990046578040415"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000362494692242",
+"-1.9990035467795435",
+"0.9986427165865691"
+],
+"a": [
+"1.999004100254313",
+"-0.9990046578040415"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000362494692242",
+"-1.9990035467795435",
+"0.9986427165865691"
+],
+"a": [
+"1.999004100254313",
+"-0.9990046578040415"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 16.0,
+"gain": 3.4,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000103111913054",
+"-1.9995684711033441",
+"0.9994664555768902"
+],
+"a": [
+"1.9995684711033441",
+"-0.9995695674899442"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -0.3,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999849355715229",
+"-1.999105678253955",
+"0.9991275935291496"
+],
+"a": [
+"1.999105678253955",
+"-0.9991125291006723"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20End%20of%20Oak%20Street/The%20End%20of%20Oak%20Street%20(2026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20End%20of%20Oak%20Street/The%20End%20of%20Oak%20Street%20(2026)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "end of oak street",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+"theMovieDB": "1101383",
+"rating": "PG-13",
+"runtime": "100",
+"genres": [
+"Science Fiction",
+"Mystery",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The End of Oak Street (2026) BEQ Atmos",
+"digest": "3ddbef42b2845560198e4fa20288dec995b17c9528f408f3ab4b74f64b3e11ab",
+"created_at": 1793145572,
+"updated_at": 1793145572,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The End of Oak Street",
+"year": "2026",
+"audioTypes": [
 "DD+"
 ],
 "content_type": "film",
