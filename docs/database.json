@@ -2298648,6 +2298648,415 @@
 "title": "Lupin",
 "year": "2021",
 "audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/lupin/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000228631392625",
+"-1.999326224609043",
+"0.9990983121206608"
+],
+"a": [
+"1.9993264565227389",
+"-0.9993267115995896"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000228631392625",
+"-1.999326224609043",
+"0.9990983121206608"
+],
+"a": [
+"1.9993264565227389",
+"-0.9993267115995896"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.0,
+"gain": -0.5,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999868147058439",
+"-1.9995266955138071",
+"0.9995417694663565"
+],
+"a": [
+"1.9995266955138071",
+"-0.9995285841722005"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000050213050236",
+"-1.9991258707286692",
+"0.9991277003395616"
+],
+"a": [
+"1.9991258707286692",
+"-0.9991327216445851"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lupin/Lupin%20S01E01-05%20(2021)%20(fr)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lupin/Lupin%20S01E01-05%20(2021)%20(fr)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "lupin",
+"edition": "",
+"note": "",
+"language": "French",
+"source": "Netflix",
+"overview": "Inspired by the adventures of Ars\u00e8ne Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+"theMovieDB": "96677",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama",
+"Mystery"
+],
+"underlying": "Lupin (2021) (Season 01) (Netflix) BEQ DD+",
+"digest": "ea4c74d3a59467047c041ba482411ba472e4ea252785bc3b9eec3d816541199d",
+"created_at": 1793227657,
+"updated_at": 1793227657,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Lupin",
+"year": "2021",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/lupin/#season-02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002433084165672",
+"-1.9991678441332594",
+"0.998925512952058"
+],
+"a": [
+"1.9991681382287392",
+"-0.9991685272731453"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002433084165672",
+"-1.9991678441332594",
+"0.998925512952058"
+],
+"a": [
+"1.9991681382287392",
+"-0.9991685272731453"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002433084165672",
+"-1.9991678441332594",
+"0.998925512952058"
+],
+"a": [
+"1.9991681382287392",
+"-0.9991685272731453"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -0.3,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.999988700418556",
+"-1.999330965303394",
+"0.9993456221731436"
+],
+"a": [
+"1.999330965303394",
+"-0.9993343225916995"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000062759468742",
+"-1.9989053168736326",
+"0.9989097443190893"
+],
+"a": [
+"1.9989053168736326",
+"-0.9989160202659637"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lupin/Lupin%20S02E01-05%20(2021)%20(fr)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lupin/Lupin%20S02E01-05%20(2021)%20(fr)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "02",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "lupin",
+"edition": "",
+"note": "",
+"language": "French",
+"source": "Netflix",
+"overview": "Inspired by the adventures of Ars\u00e8ne Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+"theMovieDB": "96677",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama",
+"Mystery"
+],
+"underlying": "Lupin (2021) (Season 02) (Netflix) BEQ DD+",
+"digest": "d8788a413f34ef9ceea1b5414f8c0fe9b7c4c8fa91b3529f45870cc30e31a774",
+"created_at": 1793227657,
+"updated_at": 1793227657,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Lupin",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/lupin/#season-03",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -1.1,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999585432195879",
+"-1.9992996038802275",
+"0.999344417896283"
+],
+"a": [
+"1.9992996038802275",
+"-0.9993029611158707"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000075303140679",
+"-1.998683955117732",
+"0.9986918360120328"
+],
+"a": [
+"1.998683955117732",
+"-0.9986993663261007"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lupin/Lupin%20S03E01-07%20(2021)%20(fr)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lupin/Lupin%20S03E01-07%20(2021)%20(fr)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "03",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "lupin",
+"edition": "",
+"note": "",
+"language": "French",
+"source": "Netflix",
+"overview": "Inspired by the adventures of Ars\u00e8ne Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+"theMovieDB": "96677",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama",
+"Mystery"
+],
+"underlying": "Lupin (2021) (Season 03) (Netflix) BEQ DD+ Atmos",
+"digest": "05eec1d89002c6f4ac14ae819f8877883fcf556b521493c67fe256a338be45b5",
+"created_at": 1793227657,
+"updated_at": 1793227657,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Lupin",
+"year": "2021",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "TV",
