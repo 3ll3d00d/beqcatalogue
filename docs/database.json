@@ -1832192,6 +1832192,170 @@
 "title": "Alice Through the Looking Glass",
 "year": "2016",
 "audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/alice-through-the-looking-glass/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.29,
+"gain": 5.23,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001117005460807",
+"-1.9993639672958199",
+"0.9992530043433387"
+],
+"a": [
+"1.9993641341224904",
+"-0.9993645380627494"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.29,
+"gain": 5.23,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001117005460807",
+"-1.9993639672958199",
+"0.9992530043433387"
+],
+"a": [
+"1.9993641341224904",
+"-0.9993645380627494"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.29,
+"gain": 5.23,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001117005460807",
+"-1.9993639672958199",
+"0.9992530043433387"
+],
+"a": [
+"1.9993641341224904",
+"-0.9993645380627494"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.84,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0003889382854323",
+"-1.9983876486592207",
+"0.9980001381158523"
+],
+"a": [
+"1.9983880377274565",
+"-0.9983886873330488"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.32,
+"gain": -0.78,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999510523410082",
+"-1.9988554283521875",
+"0.9989091291391261"
+],
+"a": [
+"1.9988554283521875",
+"-0.9988601814801343"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 16.6,
+"gain": -0.24,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999974984667702",
+"-1.9998152396308657",
+"0.9998189214671696"
+],
+"a": [
+"1.9998152396308657",
+"-0.9998164199339398"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Alice%20Through%20the%20Looking%20Glass%20%282016%29%20%28%2B0.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Alice%20Through%20the%20Looking%20Glass%20%282016%29%20%28%2B0.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "0.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1798#post-64966521",
+"sortTitle": "alice through the looking glass",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Alice Kingsleigh returns to Underland and faces a new adventure in saving the Mad Hatter.",
+"theMovieDB": "241259",
+"rating": "PG",
+"runtime": "113",
+"genres": [
+"Adventure",
+"Family",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Alice Through the Looking Glass (2016) (+0.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "65e847df807a43a8d32d90809d6f7e67f45173419fec3852f2ce533f92f1fddd",
+"created_at": 1793151216,
+"updated_at": 1793151216,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Alice Through the Looking Glass",
+"year": "2016",
+"audioTypes": [
 "DTS-HD MA 7.1"
 ],
 "content_type": "film",
@@ -2165643,6 +2165807,110 @@
 "filterAuthor": "human"
 },
 {
+"title": "Moonfall",
+"year": "2022",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/moonfall/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": -0.9,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999694783014995",
+"-1.9993767003477307",
+"0.9994103438815892"
+],
+"a": [
+"1.9993767003477307",
+"-0.999379822183089"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Moonfall/Moonfall%20(2022)%202K%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Moonfall/Moonfall%20(2022)%202K%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "moonfall",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.",
+"theMovieDB": "406759",
+"rating": "PG-13",
+"runtime": "131",
+"genres": [
+"Science Fiction",
+"Action"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Moonfall (2022) BEQ Atmos",
+"digest": "400e3189543c8b18e68bf63cca113cb1edc8b87f46568d8c08e2209bd0dffa79",
+"created_at": 1793159277,
+"updated_at": 1793159277,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Mortal Kombat II",
 "year": "2026",
 "audioTypes": [
@@ -2167913,6 +2168181,129 @@
 "updated_at": 1764049934,
 "audioCodecs": [
 "DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Mutiny",
+"year": "2026",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/mutiny/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002027506418185",
+"-1.9993065836021406",
+"0.9991045116430174"
+],
+"a": [
+"1.9993067878492643",
+"-0.9993070580377119"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 34.0,
+"gain": -1.5,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999260398521683",
+"-1.9990624162973865",
+"0.9991413260709336"
+],
+"a": [
+"1.9990624162973865",
+"-0.999067365923102"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000030062545675",
+"-1.9947802614526042",
+"0.9947775432360203"
+],
+"a": [
+"1.9947802614526042",
+"-0.9948076057816954"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mutiny/Mutiny%20(2026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mutiny/Mutiny%20(2026)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "mutiny",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+"theMovieDB": "1288445",
+"rating": "R",
+"runtime": "96",
+"genres": [
+"Action",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Mutiny (2026) BEQ Atmos",
+"digest": "36921133aa5c3533a5cc4d73a1ba97c4df5fb701a6c9d26df4994aa886e915d5",
+"created_at": 1793159277,
+"updated_at": 1793159277,
+"audioCodecs": [
+"Atmos"
 ],
 "audioChannelCounts": [
 ""
@@ -2267931,6 +2268322,387 @@
 "updated_at": 1777215658,
 "audioCodecs": [
 "Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "X-Men",
+"year": "2000",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/x-men/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000378758967842",
+"-1.9981632082754461",
+"0.9977882276286283"
+],
+"a": [
+"1.9981641506128272",
+"-0.9981660442590887"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000378758967842",
+"-1.9981632082754461",
+"0.9977882276286283"
+],
+"a": [
+"1.9981641506128272",
+"-0.9981660442590887"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": -2.3,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9998697109626111",
+"-1.9988752390639697",
+"0.9990101904171603"
+],
+"a": [
+"1.9988752390639697",
+"-0.9988799013797713"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/X/X-Men/X-Men%20(2000)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/X/X-Men/X-Men%20(2000)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "x-men",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+"theMovieDB": "36657",
+"rating": "PG-13",
+"runtime": "104",
+"genres": [
+"Adventure",
+"Action",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "748",
+"name": "X-Men Collection"
+},
+"underlying": "X-Men (2000) BEQ DTS-HD MA 5.1",
+"digest": "57f59781575e74468cc4804d9da112e86da7e2a6522379451b0c96a91167d308",
+"created_at": 1793159350,
+"updated_at": 1793159350,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
+"title": "X-Men: The Last Stand",
+"year": "2006",
+"audioTypes": [
+"DTS-HD MA 6.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/x-men-the-last-stand/#dts-hd-ma-61",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -1.8,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9999012330982882",
+"-1.9989402418436715",
+"0.9990433929199314"
+],
+"a": [
+"1.9989402418436715",
+"-0.9989446260182195"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/X/X-Men/X-Men%20The%20Last%20Stand%20(2006)%20DTS-HD%20MA%206.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/X/X-Men/X-Men%20The%20Last%20Stand%20(2006)%20DTS-HD%20MA%206.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "x-men: the last stand",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men led by Professor Charles Xavier, and Magneto's Brotherhood of Mutants.",
+"theMovieDB": "36668",
+"rating": "PG-13",
+"runtime": "104",
+"genres": [
+"Adventure",
+"Action",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "748",
+"name": "X-Men Collection"
+},
+"underlying": "X-Men- The Last Stand (2006) BEQ DTS-HD MA 6.1",
+"digest": "90b129366f902c7ab483d826d5a9b34b8ed7c3398580c5de53ad8a31c7b95639",
+"created_at": 1793159350,
+"updated_at": 1793159350,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"6.1"
+],
+"filterAuthor": "human"
+},
+{
+"title": "X2",
+"year": "2003",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/x2/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9997453625689671",
+"-1.9988364588906473",
+"0.9990913370707373"
+],
+"a": [
+"1.9988361986074932",
+"-0.9988369599228577"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 7.9,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000600703542478",
+"-1.9979123761380095",
+"0.9973177414561071"
+],
+"a": [
+"1.9979141885515308",
+"-0.9979166325850636"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 7.9,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000600703542478",
+"-1.9979123761380095",
+"0.9973177414561071"
+],
+"a": [
+"1.9979141885515308",
+"-0.9979166325850636"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 42.0,
+"gain": -2.7,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998213832104379",
+"-1.998655373858575",
+"0.9988415420075052"
+],
+"a": [
+"1.998655373858575",
+"-0.9986629252179431"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000125450273336",
+"-1.997790436234127",
+"0.9978206814698521"
+],
+"a": [
+"1.997790436234127",
+"-0.9978332264971859"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/X/X-Men/X2%20(2003)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/X/X-Men/X2%20(2003)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "x2",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join Magneto and Mystique to unhinge Stryker's scheme to exterminate all mutants.",
+"theMovieDB": "36658",
+"rating": "PG-13",
+"runtime": "133",
+"genres": [
+"Adventure",
+"Action",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "748",
+"name": "X-Men Collection"
+},
+"underlying": "X2 (2003) BEQ DD+",
+"digest": "33f322e4e5be6d840683a422972da4557b4fc6d356f0c186f3383a05effe81a9",
+"created_at": 1793159350,
+"updated_at": 1793159350,
+"audioCodecs": [
+"DD+"
 ],
 "audioChannelCounts": [
 ""
