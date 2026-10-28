@@ -1836364,19 +1836364,19 @@
 "filters": [
 {
 "type": "LowShelf",
-"freq": 10.0,
-"gain": 3.9,
-"q": 0.9,
+"freq": 14.12,
+"gain": 5.02,
+"q": 1.3,
 "biquads": {
 "96000": {
 "b": [
-"1.0000818246777878",
-"-1.9993497680056824",
-"0.999268479341904"
+"1.0001031650808467",
+"-1.9993840518970192",
+"0.9992820266802778"
 ],
 "a": [
-"1.999349864953602",
-"-0.9993502070717722"
+"1.9993843020698474",
+"-0.9993849415882965"
 ]
 }
 },
@@ -1836384,19 +1836384,19 @@
 },
 {
 "type": "LowShelf",
-"freq": 20.0,
-"gain": 6.8,
-"q": 0.9,
+"freq": 14.12,
+"gain": 5.02,
+"q": 1.3,
 "biquads": {
 "96000": {
 "b": [
-"1.0002866562309622",
-"-1.9988029660552562",
-"0.9985188427220004"
+"1.0001031650808467",
+"-1.9993840518970192",
+"0.9992820266802778"
 ],
 "a": [
-"1.998803653625296",
-"-0.9988048113829229"
+"1.9993843020698474",
+"-0.9993849415882965"
 ]
 }
 },
@@ -1836404,19 +1836404,99 @@
 },
 {
 "type": "LowShelf",
-"freq": 20.0,
-"gain": 6.8,
+"freq": 14.12,
+"gain": 5.02,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001031650808467",
+"-1.9993840518970192",
+"0.9992820266802778"
+],
+"a": [
+"1.9993843020698474",
+"-0.9993849415882965"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 29.43,
+"gain": 4.8,
 "q": 0.9,
 "biquads": {
 "96000": {
 "b": [
-"1.0002866562309622",
-"-1.9988029660552562",
-"0.9985188427220004"
+"1.0002968647674457",
+"-1.9981338423155528",
+"0.9978418639949007"
 ],
 "a": [
-"1.998803653625296",
-"-0.9988048113829229"
+"1.9981348796106313",
+"-0.9981376914672679"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 29.43,
+"gain": 4.8,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002968647674457",
+"-1.9981338423155528",
+"0.9978418639949007"
+],
+"a": [
+"1.9981348796106313",
+"-0.9981376914672679"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 29.43,
+"gain": 4.8,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002968647674457",
+"-1.9981338423155528",
+"0.9978418639949007"
+],
+"a": [
+"1.9981348796106313",
+"-0.9981376914672679"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.72,
+"gain": -12.0,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"0.9994598928136534",
+"-1.9978345757694025",
+"0.9983749775349626"
+],
+"a": [
+"1.9978341366885237",
+"-0.9978353094294946"
 ]
 }
 },
@@ -1836424,58 +1836504,79 @@
 },
 {
 "type": "PeakingEQ",
-"freq": 40.0,
-"gain": 0.7,
-"q": 0.8,
+"freq": 14.16,
+"gain": -3.24,
+"q": 5.0,
 "biquads": {
 "96000": {
 "b": [
-"1.0001316944252678",
-"-1.9968548447578809",
-"0.9967299934658235"
+"0.9999652328577479",
+"-1.9997758079758738",
+"0.9998114339244768"
 ],
 "a": [
-"1.9968548447578809",
-"-0.9968616878910915"
+"1.9997758079758738",
+"-0.9997766667822247"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 55.59,
+"gain": 1.89,
+"q": 1.26,
+"biquads": {
+"96000": {
+"b": [
+"1.0003143733481707",
+"-1.9974002241260422",
+"0.9970990712849419"
+],
+"a": [
+"1.9974002241260422",
+"-0.9974134446331124"
 ]
 }
 }
 }
 ],
 "images": [
-"https://raw.githubusercontent.com/remixmark/images/main/Arlo%20the%20Alligator%20Boy%20(2021)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/remixmark/images/main/Arlo%20the%20Alligator%20Boy%20(2021)%20(%2B2.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Arlo%20the%20Alligator%20Boy%20%282021%29%20%28%2B2.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Arlo%20the%20Alligator%20Boy%20%282021%29%20%28%2B2.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
 ],
 "warning": "",
 "mv": "2.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1474?post_id=63385673#post-63385673",
 "sortTitle": "arlo the alligator boy",
 "edition": "",
-"note": "Dialnorm Compensation: 6dB",
+"note": "Dialnorm Compensation: 6dB AI Created",
 "language": "English",
 "source": "Disc",
 "overview": "Upon learning that he is from New York City, a wide-eyed boy, who is half human and half alligator, decides to leave his sheltered life in the swamp and search for his long lost father. A musical adventure.",
 "theMovieDB": "763568",
 "rating": "NR",
-"runtime": "92",
+"runtime": "90",
 "genres": [
 "Animation",
 "Comedy",
-"Family"
+"Family",
+"Music",
+"Adventure"
 ],
 "altTitle": "",
 "collection": {},
 "underlying": "Arlo the Alligator Boy (2021) (+2.5 gain) BEQ DD+ Atmos remixmark",
-"digest": "c57a3344c7d040bab691eb07411f0c0d51b4b3a3aa5fcb68079ca406e3526d08",
+"digest": "dd05c0e36b7226f300a63a956d3fa4a9fc80c0a8d8fc22f618cd67974846764d",
 "created_at": 1719055350,
-"updated_at": 1719055350,
+"updated_at": 1793220483,
 "audioCodecs": [
 "DD+ Atmos"
 ],
 "audioChannelCounts": [
 ""
 ],
-"filterAuthor": "human"
+"filterAuthor": "model"
 },
 {
 "title": "Ash",
