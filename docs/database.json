@@ -2297543,6 +2297543,169 @@
 "filterAuthor": "human"
 },
 {
+"title": "Lupin",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/lupin/#season-04",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -5.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9998739805307161",
+"-1.9989923242208676",
+"0.9991186647592193"
+],
+"a": [
+"1.9989921992801452",
+"-0.9989927702306581"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": -1.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999562759675219",
+"-1.9993186979483968",
+"0.9993660233360128"
+],
+"a": [
+"1.9993186979483968",
+"-0.9993222993035348"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000030062545675",
+"-1.9947802614526042",
+"0.9947775432360203"
+],
+"a": [
+"1.9947802614526042",
+"-0.9948076057816954"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lupin/Lupin%20S04E01-08%20(2021)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lupin/Lupin%20S04E01-08%20(2021)%20(fr)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "04",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "lupin",
+"edition": "",
+"note": "",
+"language": "French",
+"source": "Netflix",
+"overview": "Inspired by the adventures of Ars\u00e8ne Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+"theMovieDB": "96677",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama",
+"Mystery"
+],
+"underlying": "Lupin (2021) (Season 04) (Netflix) BEQ DD+ Atmos",
+"digest": "33437319cc1b23a99619c650da6af7fd76324b653e241f16b3e95ea0e9d46016",
+"created_at": 1793197117,
+"updated_at": 1793197117,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Lord of the Rings: The Rings of Power",
 "year": "2022",
 "audioTypes": [
