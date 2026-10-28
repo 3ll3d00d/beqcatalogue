@@ -2261147,6 +2261147,129 @@
 "filterAuthor": "human"
 },
 {
+"title": "Verity",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/verity/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000341815888556",
+"-1.998733468502064",
+"0.9983937885459018"
+],
+"a": [
+"1.9987340861106495",
+"-0.998734986825872"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000341815888556",
+"-1.998733468502064",
+"0.9983937885459018"
+],
+"a": [
+"1.9987340861106495",
+"-0.998734986825872"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 6.9,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002667950083497",
+"-1.999558428406266",
+"0.9992933464938152"
+],
+"a": [
+"1.999558428406266",
+"-0.9995601415021648"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -2.7,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9998607974540663",
+"-1.998954115796909",
+"0.9990971716471456"
+],
+"a": [
+"1.998954115796909",
+"-0.9989579691012119"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Verity/Verity%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Verity/Verity%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "verity",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+"theMovieDB": "1283515",
+"rating": "R",
+"runtime": "117",
+"genres": [
+"Mystery",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Verity (2026) BEQ DD+ Atmos",
+"digest": "0966e82dacd68e1b6e929683279c52e3e79edab4b7c5d6b395ef56534654964c",
+"created_at": 1793151095,
+"updated_at": 1793151095,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Vicious",
 "year": "2025",
 "audioTypes": [
