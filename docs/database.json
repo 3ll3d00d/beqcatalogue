@@ -2015966,6 +2015966,169 @@
 "filterAuthor": "model"
 },
 {
+"title": "Lupin",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/lupin/#season-03e02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.16,
+"gain": 6.13,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001760766304262",
+"-1.9991675689220263",
+"0.9989928927980037"
+],
+"a": [
+"1.9991679234308688",
+"-0.9991686149195869"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.16,
+"gain": 6.13,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001760766304262",
+"-1.9991675689220263",
+"0.9989928927980037"
+],
+"a": [
+"1.9991679234308688",
+"-0.9991686149195869"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.16,
+"gain": 6.13,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001760766304262",
+"-1.9991675689220263",
+"0.9989928927980037"
+],
+"a": [
+"1.9991679234308688",
+"-0.9991686149195869"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.74,
+"gain": 8.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0003868221135863",
+"-1.9987738966963493",
+"0.9983890314535534"
+],
+"a": [
+"1.9987745073991254",
+"-0.998775242864364"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": 1.04,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001522866915533",
+"-1.997600266051543",
+"0.9974532205861548"
+],
+"a": [
+"1.997600266051543",
+"-0.9976055072777079"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 22.46,
+"gain": -0.08,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999988718658231",
+"-1.9997517382659538",
+"0.9997550270443141"
+],
+"a": [
+"1.9997517382659538",
+"-0.9997538989101372"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lupin%20%282021%29%20%28Season%20S03E02%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lupin%20%282021%29%20%28Season%20S03E02%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "03E02",
+"episode": "",
+"mv": "0.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1799#post-64969775",
+"sortTitle": "lupin",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "French",
+"source": "Disc",
+"overview": "Inspired by the adventures of Ars\u00e8ne Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+"theMovieDB": "96677",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama",
+"Mystery"
+],
+"underlying": "Lupin (2021) (Season S03E02) (+0.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "37ae16844c04f809fbb659b29f3d3f1e99e44faae0c58b3ef5c6514747da358d",
+"created_at": 1793242533,
+"updated_at": 1793242533,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "MobLand",
 "year": "2025",
 "audioTypes": [
@@ -2119064,6 +2119227,91 @@
 "digest": "2a0003d2921f2a311c7cd16271436978e333aee02957e816e0ff66880d6915bc",
 "created_at": 1792721650,
 "updated_at": 1792962818,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Frankenstein",
+"year": "2025",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/frankenstein/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": -1.1,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999537616062265",
+"-1.9992189636720639",
+"0.9992688032413249"
+],
+"a": [
+"1.9992189636720639",
+"-0.9992225648475515"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Frankenstein/Frankenstein%20(2025)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Frankenstein/Frankenstein%20(2025)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "frankenstein",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+"theMovieDB": "1062722",
+"rating": "R",
+"runtime": "150",
+"genres": [
+"Drama",
+"Fantasy",
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Frankenstein (2025) BEQ Atmos",
+"digest": "067a15f61424c2ed68d065d3be800f552986cddcab5ea4f4890f622d9bdd3f86",
+"created_at": 1793242255,
+"updated_at": 1793242255,
 "audioCodecs": [
 "Atmos"
 ],
