@@ -2016417,6 +2016417,189 @@
 "filterAuthor": "model"
 },
 {
+"title": "Lupin",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/lupin/#season-03e05",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 19.53,
+"gain": -0.1,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999987737724187",
+"-1.9997841201598932",
+"0.9997869800982465"
+],
+"a": [
+"1.9997841201598932",
+"-0.9997857538706653"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 6.73,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001375140990922",
+"-1.9994185434213168",
+"0.9992822658311543"
+],
+"a": [
+"1.9994188767923045",
+"-0.9994194465592585"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 6.73,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001375140990922",
+"-1.9994185434213168",
+"0.9992822658311543"
+],
+"a": [
+"1.9994188767923045",
+"-0.9994194465592585"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 8.49,
+"q": 0.6,
+"biquads": {
+"96000": {
+"b": [
+"1.0009421885088874",
+"-1.9970083857674787",
+"0.9960747391601258"
+],
+"a": [
+"1.9970110496860962",
+"-0.9970142637503956"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 8.49,
+"q": 0.6,
+"biquads": {
+"96000": {
+"b": [
+"1.0009421885088874",
+"-1.9970083857674787",
+"0.9960747391601258"
+],
+"a": [
+"1.9970110496860962",
+"-0.9970142637503956"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.7,
+"gain": -12.0,
+"q": 0.84,
+"biquads": {
+"96000": {
+"b": [
+"0.9995690185449739",
+"-1.9982722341487087",
+"0.9987037443427621"
+],
+"a": [
+"1.998271446044232",
+"-0.9982735509922124"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 48.25,
+"gain": -4.15,
+"q": 1.44,
+"biquads": {
+"96000": {
+"b": [
+"0.9994718402813905",
+"-1.9972091214869994",
+"0.997747240011231"
+],
+"a": [
+"1.9972091214869994",
+"-0.9972190802926213"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lupin%20%282021%29%20%28Season%20S03E05%29%20%28%2B3.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lupin%20%282021%29%20%28Season%20S03E05%29%20%28%2B3.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "03E05",
+"episode": "",
+"mv": "3.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1799#post-64969775",
+"sortTitle": "lupin",
+"edition": "",
+"note": "Dialnorm Compensation: 3dB AI Created",
+"language": "French",
+"source": "Disc",
+"overview": "Inspired by the adventures of Ars\u00e8ne Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+"theMovieDB": "96677",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama",
+"Mystery"
+],
+"underlying": "Lupin (2021) (Season S03E05) (+3.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "2a39ba3c174c2f26091870d86490d14a2e0e1c9bfa0eeb5db0cec0107cebc2c9",
+"created_at": 1793245566,
+"updated_at": 1793245566,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "MobLand",
 "year": "2025",
 "audioTypes": [
