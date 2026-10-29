@@ -2208181,6 +2208181,130 @@
 "filterAuthor": "human"
 },
 {
+"title": "Strange Harvest",
+"year": "2024",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/strange-harvest/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006648117607675",
+"-1.997535984256895",
+"0.9968792433453211"
+],
+"a": [
+"1.9975383179570492",
+"-0.997541721405934"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006648117607675",
+"-1.997535984256895",
+"0.9968792433453211"
+],
+"a": [
+"1.9975383179570492",
+"-0.997541721405934"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 45.0,
+"gain": -3.4,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9997365196619439",
+"-1.998364494137119",
+"0.9986366418699326"
+],
+"a": [
+"1.998364494137119",
+"-0.9983731615318764"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Strange%20Harvest/Strange%20Harvest%20(2024)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Strange%20Harvest/Strange%20Harvest%20(2024)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "strange harvest",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Detectives are thrust into a chilling hunt for a sadistic serial killer from the past whose return marks the beginning of a new wave of grotesque, otherworldly crimes tied to a cosmic force.",
+"theMovieDB": "1330443",
+"rating": "R",
+"runtime": "94",
+"genres": [
+"Horror",
+"Crime",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Strange Harvest (2024) BEQ DD+",
+"digest": "8259e2bd4a42ef4886f5d0536a912e35902f076f9940a4a46c78e0b6587984da",
+"created_at": 1793306949,
+"updated_at": 1793306949,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Stripes",
 "year": "1981",
 "audioTypes": [
@@ -2272997,6 +2273121,150 @@
 "digest": "83c863d051e2f02e1f56cd4ace2f1365872499670b029162dbf1274b827ca3d0",
 "created_at": 1760995786,
 "updated_at": 1760995786,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Your Monster",
+"year": "2024",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/your-monster/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003311312431309",
+"-1.9991487868787805",
+"0.9988189424600568"
+],
+"a": [
+"1.9991492268261806",
+"-0.999149633755788"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006472175187417",
+"-1.9979479439454748",
+"0.9973070086723911"
+],
+"a": [
+"1.9979499045168532",
+"-0.9979522656197546"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006472175187417",
+"-1.9979479439454748",
+"0.9973070086723911"
+],
+"a": [
+"1.9979499045168532",
+"-0.9979522656197546"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 39.0,
+"gain": -3.8,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9997443569955032",
+"-1.998550587823149",
+"0.998812741604543"
+],
+"a": [
+"1.998550587823149",
+"-0.9985570986000463"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000075110065843",
+"-1.9935081458550943",
+"0.9934757343308118"
+],
+"a": [
+"1.9935081458550943",
+"-0.993550844396655"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/Y/Your%20Monster/Your%20Monster%20(2024)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/Y/Your%20Monster/Your%20Monster%20(2024)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "your monster",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After her life falls apart, soft-spoken actress Laura Franco finds her voice again when she meets a terrifying, yet weirdly charming, monster living in her closet.",
+"theMovieDB": "1098378",
+"rating": "R",
+"runtime": "104",
+"genres": [
+"Romance",
+"Comedy",
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Your Monster (2024) BEQ DD+",
+"digest": "60218102c361efde7c5688f975c0a20e1751ce6f5c0a3ab8800edc7e92ac3696",
+"created_at": 1793306949,
+"updated_at": 1793306949,
 "audioCodecs": [
 "DD+"
 ],
