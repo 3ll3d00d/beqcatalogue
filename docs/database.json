@@ -2262689,6 +2262689,129 @@
 },
 {
 "title": "undertone",
+"year": "2026",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/undertone/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005717245339598",
+"-1.9983145866329366",
+"0.9977473529829284"
+],
+"a": [
+"1.9983160353620346",
+"-0.9983176287877903"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005717245339598",
+"-1.9983145866329366",
+"0.9977473529829284"
+],
+"a": [
+"1.9983160353620346",
+"-0.9983176287877903"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 38.0,
+"gain": -2.2,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998684884627783",
+"-1.9988183110291782",
+"0.9989560045650638"
+],
+"a": [
+"1.9988183110291782",
+"-0.998824493027842"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 95.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000713661183487",
+"-1.99383376830331",
+"0.9938009438460793"
+],
+"a": [
+"1.99383376830331",
+"-0.9938723099644279"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/U/Undertone/Undertone%20(2026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/U/Undertone/Undertone%20(2026)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "undertone",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
+"theMovieDB": "1480387",
+"rating": "R",
+"runtime": "94",
+"genres": [
+"Horror",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "undertone (2026) BEQ Atmos",
+"digest": "595bf59e9b58c071822764b4bed5d0cb338ec2f867eca165ac2e2d89296664f6",
+"created_at": 1793251172,
+"updated_at": 1793251172,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "undertone",
 "year": "2025",
 "audioTypes": [
 "DD+ Atmos"
