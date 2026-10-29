@@ -2032405,6 +2032405,149 @@
 "filterAuthor": "model"
 },
 {
+"title": "South Park",
+"year": "1997",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/south-park/#season-29e04",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 3.52,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000139594677373",
+"-1.998756826172691",
+"0.9986195434867079"
+],
+"a": [
+"1.9987572113426313",
+"-0.9987587529941402"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 3.52,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000139594677373",
+"-1.998756826172691",
+"0.9986195434867079"
+],
+"a": [
+"1.9987572113426313",
+"-0.9987587529941402"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 3.52,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000139594677373",
+"-1.998756826172691",
+"0.9986195434867079"
+],
+"a": [
+"1.9987572113426313",
+"-0.9987587529941402"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 3.52,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000139594677373",
+"-1.998756826172691",
+"0.9986195434867079"
+],
+"a": [
+"1.9987572113426313",
+"-0.9987587529941402"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": 1.07,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001566853767367",
+"-1.9976043926766498",
+"0.9974529485369054"
+],
+"a": [
+"1.9976043926766498",
+"-0.9976096339136421"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20%281997%29%20%28Season%20S29E04%29%20%28%2B7.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20%281997%29%20%28Season%20S29E04%29%20%28%2B7.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "29E04",
+"episode": "",
+"mv": "7.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64852599",
+"sortTitle": "south park",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+"theMovieDB": "2190",
+"rating": "TV-MA",
+"genres": [
+"Comedy",
+"Animation"
+],
+"underlying": "South Park (1997) (Season S29E04) (+7.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "2d4e410c5538c2ec5e64e59f55b9c066bb0e7e39969691ce2ff1d86cd346a308",
+"created_at": 1793269207,
+"updated_at": 1793269207,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Spartacus: House of Ashur",
 "year": "2025",
 "audioTypes": [
