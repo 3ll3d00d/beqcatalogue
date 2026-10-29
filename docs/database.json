@@ -2015770,6 +2015770,188 @@
 ],
 "content_type": "TV",
 "author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/lupin/#season-03",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 1.06,
+"q": 1.29,
+"biquads": {
+"96000": {
+"b": [
+"1.0000154909367032",
+"-1.9995075744003543",
+"0.9994925386722001"
+],
+"a": [
+"1.9995076005485328",
+"-0.9995080034607245"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.66,
+"gain": 6.0,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001457286246829",
+"-1.999293256115999",
+"0.9991492063496027"
+],
+"a": [
+"1.9992936748339722",
+"-0.9992945162563122"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.66,
+"gain": 6.0,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001457286246829",
+"-1.999293256115999",
+"0.9991492063496027"
+],
+"a": [
+"1.9992936748339722",
+"-0.9992945162563122"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.66,
+"gain": 6.0,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001457286246829",
+"-1.999293256115999",
+"0.9991492063496027"
+],
+"a": [
+"1.9992936748339722",
+"-0.9992945162563122"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.07,
+"gain": -1.12,
+"q": 7.46,
+"biquads": {
+"96000": {
+"b": [
+"0.9999863770437951",
+"-1.9997723037247868",
+"0.9997884082162711"
+],
+"a": [
+"1.9997723037247868",
+"-0.9997747852600664"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.69,
+"gain": 2.46,
+"q": 0.79,
+"biquads": {
+"96000": {
+"b": [
+"1.000360861470817",
+"-1.99779152515884",
+"0.9974346939376683"
+],
+"a": [
+"1.99779152515884",
+"-0.9977955554084853"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 22.16,
+"gain": 1.21,
+"q": 1.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0000673726093379",
+"-1.9990964483223932",
+"0.9990311783336568"
+],
+"a": [
+"1.9990964483223932",
+"-0.9990985509429945"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lupin%20%282021%29%20%28Season%20S03%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20French.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Lupin%20%282021%29%20%28Season%20S03%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20French%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "03",
+"episode": "",
+"mv": "2.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1799#post-64970971",
+"sortTitle": "lupin",
+"edition": "",
+"note": "Dialnorm Compensation: 3 dB \u2014 S03E04\u2013S03E05; 5 dB \u2014 S03E02; 6 dB \u2014 S03E01, S03E03, S03E06\u2013S03E07; 7 dB \u2014 S03E08 AI Created",
+"language": "French",
+"source": "Disc",
+"overview": "Inspired by the adventures of Ars\u00e8ne Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+"theMovieDB": "96677",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama",
+"Mystery"
+],
+"underlying": "Lupin (2021) (Season S03) (+0.0 gain) BEQ DD+ Atmos French remixmark",
+"digest": "0117f80a8fe11991cee51be15fcc6bde2513e8cfcdc043d0840da33edc92b335",
+"created_at": 1793288355,
+"updated_at": 1793288355,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Lupin",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/lupin/#season-03e01",
 "filters": [
 {
