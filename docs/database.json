@@ -1937402,6 +1937402,170 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Autopsy of Jane Doe",
+"year": "2016",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-autopsy-of-jane-doe/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 1.89,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000427633283773",
+"-1.9992558414052315",
+"0.9992137655698212"
+],
+"a": [
+"1.9992559086242552",
+"-0.999256461679175"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 1.89,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000427633283773",
+"-1.9992558414052315",
+"0.9992137655698212"
+],
+"a": [
+"1.9992559086242552",
+"-0.999256461679175"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 1.89,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000427633283773",
+"-1.9992558414052315",
+"0.9992137655698212"
+],
+"a": [
+"1.9992559086242552",
+"-0.999256461679175"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 1.89,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000427633283773",
+"-1.9992558414052315",
+"0.9992137655698212"
+],
+"a": [
+"1.9992559086242552",
+"-0.999256461679175"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.2,
+"gain": 5.4,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001983069547942",
+"-1.9989116484977199",
+"0.9987170516167829"
+],
+"a": [
+"1.998912507320834",
+"-0.9989144997484625"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 1.22,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.000275510336132",
+"-1.9963421779171562",
+"0.9960705158503985"
+],
+"a": [
+"1.9963421779171562",
+"-0.9963460261865305"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Autopsy%20of%20Jane%20Doe%20%282016%29%20%28-0.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Autopsy%20of%20Jane%20Doe%20%282016%29%20%28-0.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "-0.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64974941",
+"sortTitle": "the autopsy of jane doe",
+"edition": "",
+"note": "Dialnorm Compensation: 13dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Father and son coroners receive a mysterious unidentified corpse with no apparent cause of death. As they attempt to examine the \"Jane Doe,\" they discover increasingly bizarre clues that hold the key to her terrifying secrets.",
+"theMovieDB": "397243",
+"rating": "R",
+"runtime": "86",
+"genres": [
+"Horror",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Autopsy of Jane Doe (2016) (-0.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "6813615cfdc285269a2a7771ed77944eabf7a9ab6c2021a3268e22b87aa3ddab",
+"created_at": 1793389555,
+"updated_at": 1793389555,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Bad Guys 2",
 "year": "2025",
 "audioTypes": [
@@ -2054773,6 +2054937,475 @@
 "digest": "d61555c4992bd6709b9b783021e1691c40673fcfcd45069a8ac0594e6d4ff96e",
 "created_at": 1793387511,
 "updated_at": 1793387511,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "VisionQuest",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/visionquest/#season-01e04",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002022004349815",
+"-1.999359151568076",
+"0.9991576496520516"
+],
+"a": [
+"1.9993593695627787",
+"-0.9993596320923301"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.81,
+"gain": 7.44,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002046026683309",
+"-1.9992341772464306",
+"0.9990318996098926"
+],
+"a": [
+"1.999234846135334",
+"-0.9992358333893198"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.91,
+"gain": 1.67,
+"q": 1.56,
+"biquads": {
+"96000": {
+"b": [
+"1.0001328557065905",
+"-1.9987419644411395",
+"0.998613745345001"
+],
+"a": [
+"1.9987419644411395",
+"-0.9987466010515915"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E04%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E04%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E04",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64973735",
+"sortTitle": "visionquest",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+"theMovieDB": "213375",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "VisionQuest (2026) (Season S01E04) (+4.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "1ec6adc38339f157d49b6ffe8b1076c7d7aa00c1820913bf2b1f17402c935a0a",
+"created_at": 1793389734,
+"updated_at": 1793389734,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "VisionQuest",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/visionquest/#season-01e05",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000144932696802",
+"-1.9993611294403861",
+"0.999216819299864"
+],
+"a": [
+"1.9993612934368823",
+"-0.9993615880001697"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000144932696802",
+"-1.9993611294403861",
+"0.999216819299864"
+],
+"a": [
+"1.9993612934368823",
+"-0.9993615880001697"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000144932696802",
+"-1.9993611294403861",
+"0.999216819299864"
+],
+"a": [
+"1.9993612934368823",
+"-0.9993615880001697"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000144932696802",
+"-1.9993611294403861",
+"0.999216819299864"
+],
+"a": [
+"1.9993612934368823",
+"-0.9993615880001697"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.91,
+"q": 0.99,
+"biquads": {
+"96000": {
+"b": [
+"1.0002374887736796",
+"-1.9988275232477617",
+"0.9985926875618074"
+],
+"a": [
+"1.9988281780200627",
+"-0.9988295215631858"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.91,
+"q": 0.99,
+"biquads": {
+"96000": {
+"b": [
+"1.0002374887736796",
+"-1.9988275232477617",
+"0.9985926875618074"
+],
+"a": [
+"1.9988281780200627",
+"-0.9988295215631858"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.91,
+"q": 0.99,
+"biquads": {
+"96000": {
+"b": [
+"1.0002374887736796",
+"-1.9988275232477617",
+"0.9985926875618074"
+],
+"a": [
+"1.9988281780200627",
+"-0.9988295215631858"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 74.74,
+"gain": 0.85,
+"q": 0.82,
+"biquads": {
+"96000": {
+"b": [
+"1.0001461204687754",
+"-1.9941716894182333",
+"0.9940506248760975"
+],
+"a": [
+"1.9941728573255297",
+"-0.9941955774375765"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -4.66,
+"q": 1.5,
+"biquads": {
+"96000": {
+"b": [
+"0.9999412575621415",
+"-1.999500718849723",
+"0.9995597887857729"
+],
+"a": [
+"1.999500602585357",
+"-0.9995011626122806"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 52.0,
+"gain": 0.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000978091149084",
+"-1.9966870701188526",
+"0.996600824950181"
+],
+"a": [
+"1.9966870701188526",
+"-0.9966986340650894"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E05%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E05%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E05",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64973735",
+"sortTitle": "visionquest",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+"theMovieDB": "213375",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "VisionQuest (2026) (Season S01E05) (+5.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "b070220c1c48206b4b834c9cb32b9b711fca312fdceed04b00b1b03784ac3cdc",
+"created_at": 1793389811,
+"updated_at": 1793389811,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "VisionQuest",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/visionquest/#season-01e06",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.16,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001219736880602",
+"-1.9992945910544484",
+"0.9991731936870095"
+],
+"a": [
+"1.9992947201279525",
+"-0.9992950383015657"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.16,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001219736880602",
+"-1.9992945910544484",
+"0.9991731936870095"
+],
+"a": [
+"1.9992947201279525",
+"-0.9992950383015657"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.03,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002869499340326",
+"-1.9990900239698892",
+"0.9988067783522163"
+],
+"a": [
+"1.9990911800177464",
+"-0.999092572238392"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.1,
+"gain": 1.43,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.000377841428168",
+"-1.9957721576006866",
+"0.9953995825674311"
+],
+"a": [
+"1.9957721576006866",
+"-0.9957774239955992"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E06%29%20%28%2B3.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E06%29%20%28%2B3.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E06",
+"episode": "",
+"mv": "3.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64973735",
+"sortTitle": "visionquest",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+"theMovieDB": "213375",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "VisionQuest (2026) (Season S01E06) (+3.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "d445bd885bcf7fa3a5060896502ffbd06b4136730ec52241e195b60c10c3115b",
+"created_at": 1793389881,
+"updated_at": 1793389881,
 "audioCodecs": [
 "DD+ Atmos"
 ],
@@ -2249330,6 +2249963,150 @@
 "updated_at": 1764383018,
 "audioCodecs": [
 "DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Shallows",
+"year": "2016",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-shallows/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": -2.3,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999164645643885",
+"-1.9992791671060075",
+"0.999365378881202"
+],
+"a": [
+"1.9992791671060075",
+"-0.9992818434455907"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 70.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000526281481656",
+"-1.9954602607311576",
+"0.9954285751655713"
+],
+"a": [
+"1.9954602607311576",
+"-0.9954812033137369"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Shallows/The%20Shallows%20(2016)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Shallows/The%20Shallows%20(2016)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "shallows",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "While surfing on a secluded beach, Nancy finds herself in the feeding grounds of a great white shark. Though stranded only 200 yards from shore, survival proves to be the ultimate test of wills, requiring all of her ingenuity, resourcefulness, and fortitude.",
+"theMovieDB": "332567",
+"rating": "PG-13",
+"runtime": "86",
+"genres": [
+"Horror",
+"Drama",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Shallows (2016) BEQ Atmos",
+"digest": "d5bdeae972dff22d750fdf377a7d0884fe97086e2fa16371e81b14962d86c1ab",
+"created_at": 1793389704,
+"updated_at": 1793389704,
+"audioCodecs": [
+"Atmos"
 ],
 "audioChannelCounts": [
 ""
