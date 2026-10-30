@@ -2180108,6 +2180108,89 @@
 "filterAuthor": "human"
 },
 {
+"title": "Oculus",
+"year": "2013",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/oculus/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": -0.8,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999721767294627",
+"-1.9993651084233361",
+"0.9993953983142436"
+],
+"a": [
+"1.9993651084233361",
+"-0.9993675750437063"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Oculus/Oculus%20(2013)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Oculus/Oculus%20(2013)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "oculus",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "A woman tries to exonerate her brother's murder conviction by proving that the crime was committed by a supernatural phenomenon.",
+"theMovieDB": "157547",
+"rating": "R",
+"runtime": "104",
+"genres": [
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Oculus (2013) (Netflix) BEQ DD+",
+"digest": "3067029289d5e7c83411ffd347ba52eeeb63e9b8c5afb59a33c0db8e11c08e83",
+"created_at": 1793387713,
+"updated_at": 1793387713,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Oddity",
 "year": "2024",
 "audioTypes": [
@@ -2218011,6 +2218094,110 @@
 ],
 "audioChannelCounts": [
 "5.1"
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Autopsy of Jane Doe",
+"year": "2016",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-autopsy-of-jane-doe/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001387401634028",
+"-1.9992549285483514",
+"0.9991167760847515"
+],
+"a": [
+"1.9992550663979114",
+"-0.9992553783985948"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -1.1,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999378256865795",
+"-1.9989490754745651",
+"0.9990167985361125"
+],
+"a": [
+"1.9989490754745651",
+"-0.9989546242226921"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Autopsy%20of%20Jane%20Doe/The%20Autopsy%20of%20Jane%20Doe%20(2016)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Autopsy%20of%20Jane%20Doe/The%20Autopsy%20of%20Jane%20Doe%20(2016)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "autopsy of jane doe",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Paramount+",
+"overview": "Father and son coroners receive a mysterious unidentified corpse with no apparent cause of death. As they attempt to examine the \"Jane Doe,\" they discover increasingly bizarre clues that hold the key to her terrifying secrets.",
+"theMovieDB": "397243",
+"rating": "",
+"runtime": "86",
+"genres": [
+"Horror",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Autopsy of Jane Doe (2016) (Paramount+) BEQ DD+",
+"digest": "747031f1815d5cc66524b9dc062f86ae0bcb19f841829d4493b6b10c06e9edf3",
+"created_at": 1793387768,
+"updated_at": 1793387768,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
 ],
 "filterAuthor": "human"
 },
