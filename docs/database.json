@@ -2051178,6 +2051178,207 @@
 ],
 "content_type": "TV",
 "author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/treasure-island/#season-01e01-e03",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.79,
+"gain": 8.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002077198802406",
+"-1.9993005088693199",
+"0.9990935836985038"
+],
+"a": [
+"1.9993007498450552",
+"-0.999301062603009"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.79,
+"gain": 8.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002077198802406",
+"-1.9993005088693199",
+"0.9990935836985038"
+],
+"a": [
+"1.9993007498450552",
+"-0.999301062603009"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.79,
+"gain": 8.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002077198802406",
+"-1.9993005088693199",
+"0.9990935836985038"
+],
+"a": [
+"1.9993007498450552",
+"-0.999301062603009"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.79,
+"gain": 8.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002077198802406",
+"-1.9993005088693199",
+"0.9990935836985038"
+],
+"a": [
+"1.9993007498450552",
+"-0.999301062603009"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.34,
+"gain": 8.5,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0003491190237204",
+"-1.998893290762099",
+"0.9985465206999261"
+],
+"a": [
+"1.9988940238290676",
+"-0.9988949066566783"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 6.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000345745298697",
+"-1.999301363769428",
+"0.9989594724444097"
+],
+"a": [
+"1.999301363769428",
+"-0.9993052177431071"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 0.63,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000148375302498",
+"-1.9991964723223676",
+"0.9991820788021994"
+],
+"a": [
+"1.9991964878546138",
+"-0.9991969008002026"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 58.0,
+"gain": -0.31,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999661602880007",
+"-1.998055252917959",
+"0.998103489012011"
+],
+"a": [
+"1.998055252917959",
+"-0.9980696493000119"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Treasure%20Island%20%282026%29%20%28Season%20S01E01-E03%29%20%28%2B0.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Treasure%20Island%20%282026%29%20%28Season%20S01E01-E03%29%20%28%2B0.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E01-E03",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64974827",
+"sortTitle": "treasure island",
+"edition": "",
+"note": "Dialnorm Compensation: 4 dB \u2014 S01E01\u2013S01E03 AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate\u2019s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+"theMovieDB": "333101",
+"rating": "TV-PG",
+"genres": [
+"Action & Adventure"
+],
+"underlying": "Treasure Island (2026) (Season S01E01-E03) (+0.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "d93a2c02ffdc0da9a25c979fd688ffc0ad143a8930de59f08900b3bf820d1425",
+"created_at": 1793387558,
+"updated_at": 1793387558,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Treasure Island",
+"year": "2026",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/treasure-island/#season-01e02",
 "filters": [
 {
@@ -2054208,6 +2054409,370 @@
 "digest": "1908ec1899211f2900a71e5a683111fbb0c1b490c19fd6e73c50c37be83ea049",
 "created_at": 1793366928,
 "updated_at": 1793366928,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "VisionQuest",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/visionquest/#season-01e02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 17.84,
+"gain": 4.89,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000164991854073",
+"-1.9989847691475413",
+"0.9988215829567014"
+],
+"a": [
+"1.9989851578091273",
+"-0.9989861861491885"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.84,
+"gain": 4.89,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000164991854073",
+"-1.9989847691475413",
+"0.9988215829567014"
+],
+"a": [
+"1.9989851578091273",
+"-0.9989861861491885"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.84,
+"gain": 4.89,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000164991854073",
+"-1.9989847691475413",
+"0.9988215829567014"
+],
+"a": [
+"1.9989851578091273",
+"-0.9989861861491885"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.84,
+"gain": 4.89,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000164991854073",
+"-1.9989847691475413",
+"0.9988215829567014"
+],
+"a": [
+"1.9989851578091273",
+"-0.9989861861491885"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.84,
+"gain": 8.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000412245322018",
+"-1.9986932867052976",
+"0.9982832637896276"
+],
+"a": [
+"1.998693980276755",
+"-0.9986948155401881"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": 1.19,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000174285097097",
+"-1.9976208282662133",
+"0.9974517844492317"
+],
+"a": [
+"1.9976208282662133",
+"-0.9976260695463288"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 26.37,
+"gain": -0.14,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999972186129773",
+"-1.999649106876046",
+"0.9996548665179831"
+],
+"a": [
+"1.999649106876046",
+"-0.9996520851309605"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E02%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E02%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E02",
+"episode": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64973735",
+"sortTitle": "visionquest",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+"theMovieDB": "213375",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "VisionQuest (2026) (Season S01E02) (+4.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "bfb66efaca31760f02ad3e31cf8937af5d999b5246335d1ca49d4d855b67b191",
+"created_at": 1793387531,
+"updated_at": 1793387531,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "VisionQuest",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/visionquest/#season-01e03",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.99,
+"gain": 7.55,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.00022936365684",
+"-1.9991570189535657",
+"0.998929346054416"
+],
+"a": [
+"1.999157509885353",
+"-0.9991582187794688"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.99,
+"gain": 7.55,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.00022936365684",
+"-1.9991570189535657",
+"0.998929346054416"
+],
+"a": [
+"1.999157509885353",
+"-0.9991582187794688"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.99,
+"gain": 7.55,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.00022936365684",
+"-1.9991570189535657",
+"0.998929346054416"
+],
+"a": [
+"1.999157509885353",
+"-0.9991582187794688"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.99,
+"gain": 7.55,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.00022936365684",
+"-1.9991570189535657",
+"0.998929346054416"
+],
+"a": [
+"1.999157509885353",
+"-0.9991582187794688"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.99,
+"gain": 8.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0003694884461583",
+"-1.998828855109592",
+"0.9984611521643855"
+],
+"a": [
+"1.9988294123310464",
+"-0.9988300833890895"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": 1.95,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002859841894864",
+"-1.9977223308375327",
+"0.9974415881944803"
+],
+"a": [
+"1.9977223308375327",
+"-0.9977275723839667"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 21.48,
+"gain": -0.07,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999990559492334",
+"-1.9997627950133907",
+"0.9997657152813392"
+],
+"a": [
+"1.9997627950133907",
+"-0.9997647712305725"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E03%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E03%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E03",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64973735",
+"sortTitle": "visionquest",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+"theMovieDB": "213375",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "VisionQuest (2026) (Season S01E03) (+4.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "d61555c4992bd6709b9b783021e1691c40673fcfcd45069a8ac0594e6d4ff96e",
+"created_at": 1793387511,
+"updated_at": 1793387511,
 "audioCodecs": [
 "DD+ Atmos"
 ],
