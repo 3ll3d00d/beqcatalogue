@@ -2049921,6 +2049921,550 @@
 "filterAuthor": "human"
 },
 {
+"title": "Treasure Island",
+"year": "2026",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/treasure-island/#season-01e01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 8.29,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000236540723168",
+"-1.9992262629159452",
+"0.9989907159078287"
+],
+"a": [
+"1.9992265684660255",
+"-0.9992269510809165"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 8.29,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000236540723168",
+"-1.9992262629159452",
+"0.9989907159078287"
+],
+"a": [
+"1.9992265684660255",
+"-0.9992269510809165"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 8.29,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000236540723168",
+"-1.9992262629159452",
+"0.9989907159078287"
+],
+"a": [
+"1.9992265684660255",
+"-0.9992269510809165"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 8.29,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000236540723168",
+"-1.9992262629159452",
+"0.9989907159078287"
+],
+"a": [
+"1.9992265684660255",
+"-0.9992269510809165"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0003739714535316",
+"-1.998813779265679",
+"0.9984460927802941"
+],
+"a": [
+"1.998815740686695",
+"-0.9988181028128096"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 6.0,
+"q": 1.01,
+"biquads": {
+"96000": {
+"b": [
+"1.000684411105576",
+"-1.9986208092081756",
+"0.9979402507644008"
+],
+"a": [
+"1.9986208092081756",
+"-0.9986246618699767"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Treasure%20Island%20%282026%29%20%28Season%20S01E01%29%20%28%2B5.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Treasure%20Island%20%282026%29%20%28Season%20S01E01%29%20%28%2B5.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E01",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64973677",
+"sortTitle": "treasure island",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate\u2019s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+"theMovieDB": "333101",
+"rating": "TV-PG",
+"genres": [
+"Action & Adventure"
+],
+"underlying": "Treasure Island (2026) (Season S01E01) (+5.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "58afad3e41ef2bc33055ec6660f6d9c0aeb5a945629f700c2c77b082af3120fb",
+"created_at": 1793365134,
+"updated_at": 1793365134,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Treasure Island",
+"year": "2026",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/treasure-island/#season-01e02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.79,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002181780406045",
+"-1.999308501076126",
+"0.9990911362593612"
+],
+"a": [
+"1.9993087548680772",
+"-0.9993090605080139"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.79,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002181780406045",
+"-1.999308501076126",
+"0.9990911362593612"
+],
+"a": [
+"1.9993087548680772",
+"-0.9993090605080139"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.79,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002181780406045",
+"-1.999308501076126",
+"0.9990911362593612"
+],
+"a": [
+"1.9993087548680772",
+"-0.9993090605080139"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.79,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002181780406045",
+"-1.999308501076126",
+"0.9990911362593612"
+],
+"a": [
+"1.9993087548680772",
+"-0.9993090605080139"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.26,
+"gain": 7.13,
+"q": 1.18,
+"biquads": {
+"96000": {
+"b": [
+"1.000289958433537",
+"-1.9988565563070335",
+"0.9985707158725415"
+],
+"a": [
+"1.9988577092480415",
+"-0.9988595213650708"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 47.88,
+"gain": 1.47,
+"q": 1.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000156040273064",
+"-1.9982978173080732",
+"0.9981515890352343"
+],
+"a": [
+"1.9982978173080732",
+"-0.9983076293082982"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.54,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000598725393486",
+"-1.9992394098117472",
+"0.9991800328962109"
+],
+"a": [
+"1.9992394726447638",
+"-0.999239842602543"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 11.72,
+"gain": -0.88,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999935214196907",
+"-1.9998649322433997",
+"0.999871999183886"
+],
+"a": [
+"1.9998649322433997",
+"-0.9998655206035766"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Treasure%20Island%20%282026%29%20%28Season%20S01E02%29%20%28%2B4.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Treasure%20Island%20%282026%29%20%28Season%20S01E02%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E02",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64973677",
+"sortTitle": "treasure island",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate\u2019s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+"theMovieDB": "333101",
+"rating": "TV-PG",
+"genres": [
+"Action & Adventure"
+],
+"underlying": "Treasure Island (2026) (Season S01E02) (+4.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "9ce72cc30205c3822cff0300c7697dc98f9ba9dc8d5529bcbd650f722abbf645",
+"created_at": 1793365283,
+"updated_at": 1793365283,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Treasure Island",
+"year": "2026",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/treasure-island/#season-01e03",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.65,
+"gain": 8.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000188501255932",
+"-1.9994025119280896",
+"0.9992149587401926"
+],
+"a": [
+"1.9994028078023924",
+"-0.999403164121822"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.65,
+"gain": 8.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000188501255932",
+"-1.9994025119280896",
+"0.9992149587401926"
+],
+"a": [
+"1.9994028078023924",
+"-0.999403164121822"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.65,
+"gain": 8.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000188501255932",
+"-1.9994025119280896",
+"0.9992149587401926"
+],
+"a": [
+"1.9994028078023924",
+"-0.999403164121822"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.65,
+"gain": 8.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000188501255932",
+"-1.9994025119280896",
+"0.9992149587401926"
+],
+"a": [
+"1.9994028078023924",
+"-0.999403164121822"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0003739714535316",
+"-1.998813779265679",
+"0.9984460927802941"
+],
+"a": [
+"1.998815740686695",
+"-0.9988181028128096"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 6.0,
+"q": 0.99,
+"biquads": {
+"96000": {
+"b": [
+"1.000698227892563",
+"-1.9985930441453472",
+"0.9978986688610639"
+],
+"a": [
+"1.9985930441453472",
+"-0.9985968967536268"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 18.55,
+"gain": -0.03,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999996505907912",
+"-1.9997958478582356",
+"0.9997976711437325"
+],
+"a": [
+"1.9997958478582356",
+"-0.9997973217345236"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Treasure%20Island%20%282026%29%20%28Season%20S01E03%29%20%28%2B5.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Treasure%20Island%20%282026%29%20%28Season%20S01E03%29%20%28%2B5.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E03",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64973677",
+"sortTitle": "treasure island",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate\u2019s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+"theMovieDB": "333101",
+"rating": "TV-PG",
+"genres": [
+"Action & Adventure"
+],
+"underlying": "Treasure Island (2026) (Season S01E03) (+5.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "bbfe8ee4901d546c767dcc9105e64adf5b44bf0015eceef948f82489a67c7c71",
+"created_at": 1793365349,
+"updated_at": 1793365349,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Twin Peaks",
 "year": "1990",
 "audioTypes": [
