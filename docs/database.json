@@ -1897181,6 +1897181,210 @@
 "filterAuthor": "human"
 },
 {
+"title": "Made",
+"year": "2001",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/made/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 8.39,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002394493485558",
+"-1.9992284821028026",
+"0.9989900322071885"
+],
+"a": [
+"1.9992287916197073",
+"-0.9992291720388392"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 8.39,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002394493485558",
+"-1.9992284821028026",
+"0.9989900322071885"
+],
+"a": [
+"1.9992287916197073",
+"-0.9992291720388392"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 8.39,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002394493485558",
+"-1.9992284821028026",
+"0.9989900322071885"
+],
+"a": [
+"1.9992287916197073",
+"-0.9992291720388392"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 8.39,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002394493485558",
+"-1.9992284821028026",
+"0.9989900322071885"
+],
+"a": [
+"1.9992287916197073",
+"-0.9992291720388392"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0003739714535316",
+"-1.998813779265679",
+"0.9984460927802941"
+],
+"a": [
+"1.998815740686695",
+"-0.9988181028128096"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 6.0,
+"q": 1.01,
+"biquads": {
+"96000": {
+"b": [
+"1.000684411105576",
+"-1.9986208092081756",
+"0.9979402507644008"
+],
+"a": [
+"1.9986208092081756",
+"-0.9986246618699767"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 0.87,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000204909994468",
+"-1.9992019983558824",
+"0.9991819575445579"
+],
+"a": [
+"1.9992020198094989",
+"-0.9992024270903882"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 58.0,
+"gain": -0.33,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999963976866179",
+"-1.9980530314044955",
+"0.9981034509043631"
+],
+"a": [
+"1.9980530314044955",
+"-0.998067427770542"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Made%20%282001%29%20%28%2B2.5%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Made%20%282001%29%20%28%2B2.5%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "2.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64974189",
+"sortTitle": "made",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Two aspiring boxers and lifelong friends get involved in a money-laundering scheme through a low-level organized crime group.",
+"theMovieDB": "15745",
+"rating": "R",
+"runtime": "95",
+"genres": [
+"Comedy",
+"Crime",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Made (2001) (+2.5 gain) BEQ Atmos remixmark",
+"digest": "4a23804bda795d0cdeb531952a4205da4fc035023155762721d81a30f12ec454",
+"created_at": 1793375955,
+"updated_at": 1793375955,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Magellan",
 "year": "2025",
 "audioTypes": [
