@@ -1956138,6 +1956138,189 @@
 "filterAuthor": "model"
 },
 {
+"title": "The Night House",
+"year": "2021",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-night-house/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.07,
+"gain": 3.08,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001050490657648",
+"-1.9989168179361954",
+"0.9988134380327982"
+],
+"a": [
+"1.9989170670959857",
+"-0.9989182379387722"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.07,
+"gain": 3.08,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001050490657648",
+"-1.9989168179361954",
+"0.9988134380327982"
+],
+"a": [
+"1.9989170670959857",
+"-0.9989182379387722"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.07,
+"gain": 3.08,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001050490657648",
+"-1.9989168179361954",
+"0.9988134380327982"
+],
+"a": [
+"1.9989170670959857",
+"-0.9989182379387722"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.07,
+"gain": 3.08,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001050490657648",
+"-1.9989168179361954",
+"0.9988134380327982"
+],
+"a": [
+"1.9989170670959857",
+"-0.9989182379387722"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.8,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001338202981043",
+"-1.9972190511379944",
+"0.99709207522122"
+],
+"a": [
+"1.9972190511379944",
+"-0.9972258955193242"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 10.74,
+"gain": -0.21,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999983005924318",
+"-1.9998572199855864",
+"0.9998594134704732"
+],
+"a": [
+"1.9998572199855864",
+"-0.999857714062905"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.12,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000399751985238",
+"-1.9993840021506513",
+"0.9993445107718536"
+],
+"a": [
+"1.9993840545411568",
+"-0.999384433579872"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Night%20House%20%282021%29%20%28%2B1.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Night%20House%20%282021%29%20%28%2B1.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "1.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64975063",
+"sortTitle": "the night house",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Reeling from the unexpected death of her husband, Beth is left alone in the lakeside home he built for her. Soon she begins to uncover her recently deceased husband's disturbing secrets.",
+"theMovieDB": "547565",
+"rating": "R",
+"runtime": "107",
+"genres": [
+"Horror",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Night House (2021) (+1.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "6be8ece76f1e65b3c9aa1babec50ac184391b568c0812e1fd81da646e835f72e",
+"created_at": 1793391453,
+"updated_at": 1793391453,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Nun",
 "year": "2018",
 "audioTypes": [
