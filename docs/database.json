@@ -1958737,6 +1958737,170 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Santa Clause 2",
+"year": "2002",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-santa-clause-2/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.08,
+"gain": 4.35,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001650989905186",
+"-1.998839320529876",
+"0.9986764389337349"
+],
+"a": [
+"1.9988397573142156",
+"-0.998841101139914"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.08,
+"gain": 4.35,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001650989905186",
+"-1.998839320529876",
+"0.9986764389337349"
+],
+"a": [
+"1.9988397573142156",
+"-0.998841101139914"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.08,
+"gain": 4.35,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001650989905186",
+"-1.998839320529876",
+"0.9986764389337349"
+],
+"a": [
+"1.9988397573142156",
+"-0.998841101139914"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.7,
+"gain": 4.39,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000245228424538",
+"-1.9982938480855759",
+"0.9980509808878539"
+],
+"a": [
+"1.998294316489568",
+"-0.9982957409083996"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.51,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000852905530933",
+"-1.9971724182710855",
+"0.9970939719395132"
+],
+"a": [
+"1.9971724182710855",
+"-0.9971792624926065"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 18.55,
+"gain": -0.36,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999949682634703",
+"-1.9997506535068987",
+"0.9997571590864076"
+],
+"a": [
+"1.9997506535068987",
+"-0.9997521273498778"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Santa%20Clause%202%20%282002%29%20%28%2B3.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Santa%20Clause%202%20%282002%29%20%28%2B3.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "3.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64974375",
+"sortTitle": "the santa clause 2",
+"edition": "",
+"note": "Dialnorm Compensation: 3dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Better watch out! The big guy in red is coming to town once again. This time, Scott Calvin -- also known as Santa Claus -- finds out there's an obscure clause in his contract requiring him to take on a wife. He has to leave the North Pole to fulfill his obligations, or else he'll be forced to give up his Yuletide gig.",
+"theMovieDB": "9021",
+"rating": "G",
+"runtime": "104",
+"genres": [
+"Fantasy",
+"Comedy",
+"Family"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Santa Clause 2 (2002) (+3.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "ad0a5f6c00d34edcc860e768fb9695aaac9d09bb7612f68922adb3a959c9c806",
+"created_at": 1793379105,
+"updated_at": 1793379105,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Secret World of Arrietty",
 "year": "2010",
 "audioTypes": [
