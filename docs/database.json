@@ -1851732,6 +1851732,111 @@
 "filterAuthor": "human"
 },
 {
+"title": "Charlie Wilson's War",
+"year": "2007",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/charlie-wilsons-war/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.1,
+"gain": 4.57,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001563773329347",
+"-1.998960454570245",
+"0.9988059019686331"
+],
+"a": [
+"1.9989608278364035",
+"-0.9989619060354092"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.1,
+"gain": 4.57,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001563773329347",
+"-1.998960454570245",
+"0.9988059019686331"
+],
+"a": [
+"1.9989608278364035",
+"-0.9989619060354092"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.75,
+"gain": 0.97,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001369584751743",
+"-1.9976767398433124",
+"0.9975446550920686"
+],
+"a": [
+"1.9976767398433124",
+"-0.9976816135672428"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Charlie%20Wilson%27s%20War%20%282007%29%20%28UHD%29%20%28%2B9.5%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Charlie%20Wilson%27s%20War%20%282007%29%20%28UHD%29%20%28%2B9.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "9.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64974033",
+"sortTitle": "charlie wilson's war",
+"edition": "UHD",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A Texas congressman sets a series of events in motion when he conspires with a CIA operative to aid Afghan mujahideen rebels fighting the Soviets.",
+"theMovieDB": "6538",
+"rating": "R",
+"runtime": "102",
+"genres": [
+"Comedy",
+"Drama",
+"History"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Charlie Wilson's War (2007) (UHD) (+9.5 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "515ef41fe25bb7e1b58d970a15504292d324761183fe91eb01728b921fa19812",
+"created_at": 1793373055,
+"updated_at": 1793373055,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Charlie's Angels",
 "year": "2019",
 "audioTypes": [
