@@ -1836353,6 +1836353,152 @@
 "filterAuthor": "human"
 },
 {
+"title": "Arlington Road",
+"year": "1999",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/arlington-road/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.91,
+"gain": 6.37,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0003129776108708",
+"-1.9985861989835838",
+"0.9982773680061342"
+],
+"a": [
+"1.9985872765151385",
+"-0.9985892680854507"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.91,
+"gain": 6.37,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0003129776108708",
+"-1.9985861989835838",
+"0.9982773680061342"
+],
+"a": [
+"1.9985872765151385",
+"-0.9985892680854507"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.91,
+"gain": 6.37,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0003129776108708",
+"-1.9985861989835838",
+"0.9982773680061342"
+],
+"a": [
+"1.9985872765151385",
+"-0.9985892680854507"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.91,
+"gain": 6.37,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0003129776108708",
+"-1.9985861989835838",
+"0.9982773680061342"
+],
+"a": [
+"1.9985872765151385",
+"-0.9985892680854507"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 1.47,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000368924700717",
+"-1.995983351871334",
+"0.9956298175555037"
+],
+"a": [
+"1.995983351871334",
+"-0.9959987422562208"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Arlington%20Road%20%281999%29%20%28%2B3.5%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Arlington%20Road%20%281999%29%20%28%2B3.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "3.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64974547",
+"sortTitle": "arlington road",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Bedraggled college professor Michael Faraday has been vexed \u2014 and increasingly paranoid \u2014 since his wife's accidental death in a botched FBI operation. When a seemingly all-American couple set up house next door, Michael begins to suspect there\u2019s more to them than meets the eye.",
+"theMovieDB": "1073",
+"rating": "R",
+"runtime": "117",
+"genres": [
+"Crime",
+"Drama",
+"Thriller",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Arlington Road (1999) (+3.5 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "1584138e7b3427e4ead8b2812fff0b073129f743050f417e3ad1f9411ce8c56f",
+"created_at": 1793381963,
+"updated_at": 1793381963,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Arlo the Alligator Boy",
 "year": "2021",
 "audioTypes": [
