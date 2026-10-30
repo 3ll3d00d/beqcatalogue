@@ -1997523,6 +1997523,129 @@
 "filterAuthor": "model"
 },
 {
+"title": "Dark Matter",
+"year": "2024",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/dark-matter/#season-02e10",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 4.87,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001380911828857",
+"-1.9991463775405316",
+"0.999009102459745"
+],
+"a": [
+"1.999146552667442",
+"-0.9991470185157205"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 4.87,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001380911828857",
+"-1.9991463775405316",
+"0.999009102459745"
+],
+"a": [
+"1.999146552667442",
+"-0.9991470185157205"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.04,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002870747268542",
+"-1.9990896279160169",
+"0.9988062607224389"
+],
+"a": [
+"1.9990907849678137",
+"-0.9990921783974966"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.82,
+"gain": 1.47,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0003632551050798",
+"-1.996055628072788",
+"0.9956969780553919"
+],
+"a": [
+"1.996055628072788",
+"-0.9960602331604718"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20%282024%29%20%28Season%20S02E10%29%20%28%2B1.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Dark%20Matter%20%282024%29%20%28Season%20S02E10%29%20%28%2B1.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E10",
+"episode": "",
+"mv": "1.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1772#post-64818987",
+"sortTitle": "dark matter",
+"edition": "",
+"note": "Dialnorm Compensation: 6dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+"theMovieDB": "196322",
+"rating": "TV-MA",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "Dark Matter (2024) (Season S02E10) (+1.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "51f628160d96c97c13862ed16ed792a3ea4738cdd6927d4c52f72fc5189473d5",
+"created_at": 1793363174,
+"updated_at": 1793363174,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Death by Lightning",
 "year": "2025",
 "audioTypes": [
@@ -2019611,6 +2019734,169 @@
 "digest": "70f027ac76d7c7a8af94b148ba2ab460b3d4d57ecd08d0955e2898ed922552bc",
 "created_at": 1792784162,
 "updated_at": 1792784162,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "MobLand",
+"year": "2025",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/mobland/#season-02e07",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.99,
+"gain": 7.39,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000210273396222",
+"-1.999206661109631",
+"0.9989973296756153"
+],
+"a": [
+"1.9992069309484013",
+"-0.9992073332330668"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.99,
+"gain": 7.39,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000210273396222",
+"-1.999206661109631",
+"0.9989973296756153"
+],
+"a": [
+"1.9992069309484013",
+"-0.9992073332330668"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.99,
+"gain": 7.39,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000210273396222",
+"-1.999206661109631",
+"0.9989973296756153"
+],
+"a": [
+"1.9992069309484013",
+"-0.9992073332330668"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.99,
+"gain": 7.39,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000210273396222",
+"-1.999206661109631",
+"0.9989973296756153"
+],
+"a": [
+"1.9992069309484013",
+"-0.9992073332330668"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 29.38,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0003662273377496",
+"-1.9988383678011699",
+"0.9984781684108694"
+],
+"a": [
+"1.9988402490108332",
+"-0.9988425145389559"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 4.75,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.000624288368618",
+"-1.9982806599917105",
+"0.9976602236292014"
+],
+"a": [
+"1.9982806599917105",
+"-0.9982845119978195"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E07%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E07%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E07",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64853525",
+"sortTitle": "mobland",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+"theMovieDB": "247718",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama"
+],
+"underlying": "MobLand (2025) (Season S02E07) (+5.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "c165434c84f81b70189d72adfd3546f08c51c571e8e67af9dfdf5609710fad86",
+"created_at": 1793363030,
+"updated_at": 1793363030,
 "audioCodecs": [
 "DD+ Atmos"
 ],
