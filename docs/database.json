@@ -2324189,6 +2324189,187 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Lowdown",
+"year": "2025",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-lowdown/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003228212617923",
+"-1.9988038689829022",
+"0.9984829529870148"
+],
+"a": [
+"1.9988044198938695",
+"-0.9988052233378397"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003228212617923",
+"-1.9988038689829022",
+"0.9984829529870148"
+],
+"a": [
+"1.9988044198938695",
+"-0.9988052233378397"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003228212617923",
+"-1.9988038689829022",
+"0.9984829529870148"
+],
+"a": [
+"1.9988044198938695",
+"-0.9988052233378397"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003228212617923",
+"-1.9988038689829022",
+"0.9984829529870148"
+],
+"a": [
+"1.9988044198938695",
+"-0.9988052233378397"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 3.9,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000133324885745",
+"-1.999528124071208",
+"0.9993961867719228"
+],
+"a": [
+"1.999528124071208",
+"-0.9995295116576678"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": -3.8,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.999837722147108",
+"-1.9990809492366137",
+"0.9992463484630768"
+],
+"a": [
+"1.9990809492366137",
+"-0.9990840706101849"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Lowdown/The%20Lowdown%20S01E01-08%20(2025)%20DD%2B5.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Lowdown/The%20Lowdown%20S01E01-08%20(2025)%20DD%2B5.1hm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "lowdown",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Hulu",
+"overview": "Follow the gritty exploits of citizen journalist Lee Raybon, a self-proclaimed Tulsa \"truthstorian\" whose obsession with the truth is always getting him into trouble.",
+"theMovieDB": "273247",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama"
+],
+"underlying": "The Lowdown (2025) (Season 01) (Hulu) BEQ DD+",
+"digest": "709de3b7926ee90f1b30704bedad9257ceba1572c1a32664faef2d1b0440efdb",
+"created_at": 1793322320,
+"updated_at": 1793322320,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Madison",
 "year": "2026",
 "audioTypes": [
