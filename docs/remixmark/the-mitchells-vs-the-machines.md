@@ -1,5 +1,24 @@
 # The Mitchells vs. the Machines
 
+## DD+ 5.1
+
+**2021 • PG • 1h 50m • Animation, Adventure, Comedy • remixmark**
+
+A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.
+{ data-search-exclude }
+
+**MV Adjustment:** +7.0 dB
+
+Dialnorm Compensation: 1dB AI Created
+{ data-search-exclude }
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64974581)  [TMDB](https://www.themoviedb.org/movie/501929)  [Compare across authors](../compare/index.md?t=film-the-mitchells-vs-the-machines_501929)
+{ data-search-exclude }
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mitchells%20vs.%20the%20Machines%20%282021%29%20%28%2B7.0%20gain%29%20DD%2B%205.1.jpg)
+
+![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mitchells%20vs.%20the%20Machines%20%282021%29%20%28%2B7.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
+
 ## DTS-HD MA 5.1
 
 **2021 • PG • 1h 49m • Animation, Adventure, Comedy • remixmark**
@@ -12,7 +31,7 @@ A quirky, dysfunctional family's road trip is upended when they find themselves 
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1661?post_id=64238327#post-64238327)  [TMDB](https://www.themoviedb.org/movie/501929)  [Compare across authors](../compare/index.md?t=film-the-mitchells-vs-the-machines_501929)
 { data-search-exclude }
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mitchells%20vs.%20the%20Machines%20(2021)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mitchells%20vs.%20the%20Machines%20(2021)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mitchells%20vs.%20the%20Machines%20(2021)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mitchells%20vs.%20the%20Machines%20(2021)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
 

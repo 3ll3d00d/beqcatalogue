@@ -1925529,6 +1925529,110 @@
 "filterAuthor": "human"
 },
 {
+"title": "She Rides Shotgun",
+"year": "2025",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/she-rides-shotgun/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.96,
+"gain": 3.29,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001241494177386",
+"-1.9988088706709992",
+"0.9986882079847753"
+],
+"a": [
+"1.9988094203551237",
+"-0.9988118077183896"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 49.33,
+"gain": 0.73,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000678046344338",
+"-1.9984428948962978",
+"0.998385506313762"
+],
+"a": [
+"1.9984428948962978",
+"-0.9984533109481957"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.27,
+"gain": -0.01,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999997719550774",
+"-1.999599693062219",
+"0.9996038453501083"
+],
+"a": [
+"1.999599693062219",
+"-0.9996036173051857"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/She%20Rides%20Shotgun%20%282025%29%20%28%2B10.5%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/She%20Rides%20Shotgun%20%282025%29%20%28%2B10.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "10.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64974573",
+"sortTitle": "she rides shotgun",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 11-year-old daughter, Polly, at all costs. With scant resources and no one to trust, Nate and Polly forge a bond under fire as he shows her how to fight and survive\u2014and she teaches him the true meaning of unconditional love.",
+"theMovieDB": "1196573",
+"rating": "R",
+"runtime": "120",
+"genres": [
+"Action",
+"Thriller",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "She Rides Shotgun (2025) (+10.5 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "e54d4912a20a1a8f7c94ab31c0a3bac983ae24d80f968660c1036bcebee9fce3",
+"created_at": 1793382331,
+"updated_at": 1793382331,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Shelby Oaks",
 "year": "2024",
 "audioTypes": [
@@ -1954147,6 +1954251,247 @@
 ""
 ],
 "filterAuthor": "human"
+},
+{
+"title": "The Mitchells vs. the Machines",
+"year": "2021",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-mitchells-vs-the-machines/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.26,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000768892510088",
+"-1.9992549918638751",
+"0.9991786192142335"
+],
+"a": [
+"1.9992550726943108",
+"-0.9992554276348066"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.26,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000768892510088",
+"-1.9992549918638751",
+"0.9991786192142335"
+],
+"a": [
+"1.9992550726943108",
+"-0.9992554276348066"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.26,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000768892510088",
+"-1.9992549918638751",
+"0.9991786192142335"
+],
+"a": [
+"1.9992550726943108",
+"-0.9992554276348066"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.26,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000768892510088",
+"-1.9992549918638751",
+"0.9991786192142335"
+],
+"a": [
+"1.9992550726943108",
+"-0.9992554276348066"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.5,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0002648829830887",
+"-1.9991602264602057",
+"0.998897606454608"
+],
+"a": [
+"1.999160932693158",
+"-0.9991617832047444"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.48,
+"gain": -3.84,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999895597103063",
+"-1.999413645129446",
+"0.999520023898526"
+],
+"a": [
+"1.999413645129446",
+"-0.999415621001589"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 26.37,
+"gain": -3.23,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9998924514478262",
+"-1.9993043993247364",
+"0.9994149256184212"
+],
+"a": [
+"1.9993043993247364",
+"-0.9993073770662472"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 38.0,
+"gain": 3.53,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002543059647957",
+"-1.99897945901528",
+"0.998731335547551"
+],
+"a": [
+"1.99897945901528",
+"-0.9989856415123468"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 52.0,
+"gain": -0.4,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999673683545741",
+"-1.99853836888374",
+"0.9985825751973227"
+],
+"a": [
+"1.99853836888374",
+"-0.9985499435518966"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.14,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000315865459755",
+"-1.9960967211149574",
+"0.9960805258280225"
+],
+"a": [
+"1.9960967211149574",
+"-0.9961121123739978"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mitchells%20vs.%20the%20Machines%20%282021%29%20%28%2B7.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Mitchells%20vs.%20the%20Machines%20%282021%29%20%28%2B7.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "7.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64974581",
+"sortTitle": "the mitchells vs. the machines",
+"edition": "",
+"note": "Dialnorm Compensation: 1dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+"theMovieDB": "501929",
+"rating": "PG",
+"runtime": "110",
+"genres": [
+"Animation",
+"Adventure",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Mitchells vs. the Machines (2021) (+7.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "c7cd0fd595913c49fb4297765624cbd3c3075905f512601ad9a366311de8ee1c",
+"created_at": 1793382607,
+"updated_at": 1793382607,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
 },
 {
 "title": "The Mitchells vs. the Machines",
