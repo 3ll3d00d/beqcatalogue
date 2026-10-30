@@ -1911567,6 +1911567,69 @@
 "filterAuthor": "human"
 },
 {
+"title": "Oculus",
+"year": "2014",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/oculus/#dd-51",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 23.44,
+"gain": -5.71,
+"q": 10.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999486661532113",
+"-1.9997845533510652",
+"0.9998382405457025"
+],
+"a": [
+"1.9997845533510652",
+"-0.9997869066989138"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Oculus%20%282014%29%20%28%2B4.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Oculus%20%282014%29%20%28%2B4.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64975001",
+"sortTitle": "oculus",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A woman tries to exonerate her brother's murder conviction by proving that the crime was committed by a supernatural phenomenon.",
+"theMovieDB": "157547",
+"rating": "R",
+"runtime": "104",
+"genres": [
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Oculus (2014) (+4.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "2dd64bbc50d57a37e822c9721543306823367419eb79358c7f5edb46848bd1c1",
+"created_at": 1793390419,
+"updated_at": 1793390419,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Oddity",
 "year": "2024",
 "audioTypes": [
@@ -2054573,6 +2054636,148 @@
 "digest": "1908ec1899211f2900a71e5a683111fbb0c1b490c19fd6e73c50c37be83ea049",
 "created_at": 1793366928,
 "updated_at": 1793366928,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "VisionQuest",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/visionquest/#season-01e01-e06",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.12,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0001363689519813",
+"-1.9993541143720843",
+"0.9992183545039656"
+],
+"a": [
+"1.9993542683756844",
+"-0.9993545694523467"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.12,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0001363689519813",
+"-1.9993541143720843",
+"0.9992183545039656"
+],
+"a": [
+"1.9993542683756844",
+"-0.9993545694523467"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.4,
+"gain": 6.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.000174532816405",
+"-1.9992304387106912",
+"0.9990580134841941"
+],
+"a": [
+"1.9992309939012363",
+"-0.9992319911100542"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 1.53,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001331050375144",
+"-1.998614058263231",
+"0.9984848058745042"
+],
+"a": [
+"1.998614058263231",
+"-0.9986179109120186"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 20.51,
+"gain": -0.25,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999961367241612",
+"-1.9997258685628065",
+"0.9997315335673036"
+],
+"a": [
+"1.9997258685628065",
+"-0.9997276702914649"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E01-E06%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E01-E06%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E01-E06",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64974975",
+"sortTitle": "visionquest",
+"edition": "",
+"note": "Dialnorm Compensation: 4 dB \u2014 S01E01\u2013S01E06 AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+"theMovieDB": "213375",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "VisionQuest (2026) (Season S01E01-E06) (+0.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "7ce858511fe1b62f51abd0e7bc878171f7136644205702a955f6ccb89a698793",
+"created_at": 1793390138,
+"updated_at": 1793390138,
 "audioCodecs": [
 "DD+ Atmos"
 ],
