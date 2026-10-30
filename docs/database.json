@@ -2282034,6 +2282034,128 @@
 "filterAuthor": "human"
 },
 {
+"title": "Dark Matter",
+"year": "2024",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/dark-matter/#season-02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002027506418185",
+"-1.9993065836021406",
+"0.9991045116430174"
+],
+"a": [
+"1.9993067878492643",
+"-0.9993070580377119"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": -3.2,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999587818623129",
+"-1.9997312587414986",
+"0.9997737146977079"
+],
+"a": [
+"1.9997312587414986",
+"-0.9997324965600207"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -0.4,
+"q": 2.9,
+"biquads": {
+"96000": {
+"b": [
+"0.9999812980754335",
+"-1.9991633909308804",
+"0.9991876421984778"
+],
+"a": [
+"1.9991633909308804",
+"-0.9991689402739113"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dark%20Matter/Dark%20Matter%20S02E01-10%20(2024)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dark%20Matter/Dark%20Matter%20S02E01-10%20(2024)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "02",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "dark matter",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Apple TV+",
+"overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+"theMovieDB": "196322",
+"rating": "TV-MA",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "Dark Matter (2024) (Season 02) (Apple TV+) BEQ DD+ Atmos",
+"digest": "4f02b6ef309d5fb1a98727dbfa94c87e4bd02b43d906349f757358b204bdecec",
+"created_at": 1793327252,
+"updated_at": 1793327252,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Dark Winds",
 "year": "2022",
 "audioTypes": [
