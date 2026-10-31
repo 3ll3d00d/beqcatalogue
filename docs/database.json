@@ -2065102,6 +2065102,189 @@
 "filterAuthor": "human"
 },
 {
+"title": "A Story of Derry",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/a-story-of-derry/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9997453625689671",
+"-1.9988364588906473",
+"0.9990913370707373"
+],
+"a": [
+"1.9988361986074932",
+"-0.9988369599228577"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -0.8,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999678502568378",
+"-1.9992648491208123",
+"0.9993013837504672"
+],
+"a": [
+"1.9992648491208123",
+"-0.999269234007305"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 65.0,
+"gain": 0.1,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000122317833218",
+"-1.9978692504995827",
+"0.9978750981292698"
+],
+"a": [
+"1.9978692504995827",
+"-0.9978873299125914"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20Story%20of%20Derry/A%20Story%20of%20Derry%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20Story%20of%20Derry/A%20Story%20of%20Derry%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "a story of derry",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "HBOMax",
+"overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+"theMovieDB": "1813355",
+"rating": "R",
+"runtime": "30",
+"genres": [
+"Drama",
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "A Story of Derry (2026) (HBOMax) BEQ DD+ Atmos",
+"digest": "565ee1b8052d28b9867ebe20b6b137f306f461bca1d3f3c8c72c21716ae5817b",
+"created_at": 1793485656,
+"updated_at": 1793485656,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "A Working Man",
 "year": "2025",
 "audioTypes": [
