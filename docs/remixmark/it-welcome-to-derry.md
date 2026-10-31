@@ -2,6 +2,28 @@
 
 * Author: remixmark
 
+## Season 00E13
+
+* DD+ Atmos
+
+
+**MV Adjustment:** -1.0 dB
+
+Dialnorm Compensation: 8dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64977429)
+
+* [Compare across authors](../compare/index.md?t=TV-it-welcome-to-derry_200875)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/IT%20-%20Welcome%20to%20Derry%20%282025%29%20%28Season%20S00E13%29%20%28-1.0%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/IT%20-%20Welcome%20to%20Derry%20%282025%29%20%28Season%20S00E13%29%20%28-1.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
 ## Season 01E01
 
 * DD+ Atmos

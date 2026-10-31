@@ -2010232,6 +2010232,168 @@
 ],
 "content_type": "TV",
 "author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/it-welcome-to-derry/#season-00e13",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 16.97,
+"gain": 5.58,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001792663330151",
+"-1.9990532604028128",
+"0.9988756941742267"
+],
+"a": [
+"1.9990536633128853",
+"-0.9990545575971691"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.97,
+"gain": 5.58,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001792663330151",
+"-1.9990532604028128",
+"0.9988756941742267"
+],
+"a": [
+"1.9990536633128853",
+"-0.9990545575971691"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.97,
+"gain": 5.58,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001792663330151",
+"-1.9990532604028128",
+"0.9988756941742267"
+],
+"a": [
+"1.9990536633128853",
+"-0.9990545575971691"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.97,
+"gain": 5.58,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001792663330151",
+"-1.9990532604028128",
+"0.9988756941742267"
+],
+"a": [
+"1.9990536633128853",
+"-0.9990545575971691"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.25,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002092081665694",
+"-1.9972898928871892",
+"0.9970875293447209"
+],
+"a": [
+"1.9972898928871892",
+"-0.9972967375112904"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 24.41,
+"gain": -0.06,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999990804512159",
+"-1.9997302906681174",
+"0.9997337622994676"
+],
+"a": [
+"1.9997302906681174",
+"-0.9997328427506834"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/IT%20-%20Welcome%20to%20Derry%20%282025%29%20%28Season%20S00E13%29%20%28-1.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/IT%20-%20Welcome%20to%20Derry%20%282025%29%20%28Season%20S00E13%29%20%28-1.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "00E13",
+"episode": "",
+"mv": "-1.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64977429",
+"sortTitle": "it: welcome to derry",
+"edition": "",
+"note": "Dialnorm Compensation: 8dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace \u2013 all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+"theMovieDB": "200875",
+"rating": "TV-MA",
+"genres": [
+"Drama",
+"Mystery"
+],
+"underlying": "IT - Welcome to Derry (2025) (Season S00E13) (-1.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "c0e5d91488670c0d91593e8d31d7b8f7d5ace075b105bb3fbdddd6b0bc3240e2",
+"created_at": 1793477983,
+"updated_at": 1793477983,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "IT: Welcome to Derry",
+"year": "2025",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/it-welcome-to-derry/#season-01e01",
 "filters": [
 {
