@@ -1970240,6 +1970240,250 @@
 "filterAuthor": "human"
 },
 {
+"title": "Transformers: Rise of the Beasts",
+"year": "2023",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/transformers-rise-of-the-beasts/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.79,
+"biquads": {
+"96000": {
+"b": [
+"1.00020475772457",
+"-1.9993510482753705",
+"0.9991469890669266"
+],
+"a": [
+"1.9993512662691897",
+"-0.9993515287976771"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.79,
+"biquads": {
+"96000": {
+"b": [
+"1.00020475772457",
+"-1.9993510482753705",
+"0.9991469890669266"
+],
+"a": [
+"1.9993512662691897",
+"-0.9993515287976771"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.79,
+"biquads": {
+"96000": {
+"b": [
+"1.00020475772457",
+"-1.9993510482753705",
+"0.9991469890669266"
+],
+"a": [
+"1.9993512662691897",
+"-0.9993515287976771"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.03,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0004242774210788",
+"-1.9985551911118633",
+"0.9981351611976901"
+],
+"a": [
+"1.9985564722989904",
+"-0.998558157431642"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.03,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0004242774210788",
+"-1.9985551911118633",
+"0.9981351611976901"
+],
+"a": [
+"1.9985564722989904",
+"-0.998558157431642"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.03,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0004242774210788",
+"-1.9985551911118633",
+"0.9981351611976901"
+],
+"a": [
+"1.9985564722989904",
+"-0.998558157431642"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": -11.18,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"0.9991439079020057",
+"-1.9963926782125445",
+"0.9972496689664939"
+],
+"a": [
+"1.9963914998813839",
+"-0.9963947551996606"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": -11.18,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"0.9991439079020057",
+"-1.9963926782125445",
+"0.9972496689664939"
+],
+"a": [
+"1.9963914998813839",
+"-0.9963947551996606"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.17,
+"gain": -1.61,
+"q": 10.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999871412289443",
+"-1.999846079367466",
+"0.9998608578055664"
+],
+"a": [
+"1.999846079367466",
+"-0.9998479990345106"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 47.15,
+"gain": 4.46,
+"q": 0.99,
+"biquads": {
+"96000": {
+"b": [
+"1.0008081320336244",
+"-1.9975820742701702",
+"0.9967834539120246"
+],
+"a": [
+"1.9975820742701702",
+"-0.9975915859456491"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Transformers%20-%20Rise%20of%20the%20Beasts%20%282023%29%20%28%2B2.5%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Transformers%20-%20Rise%20of%20the%20Beasts%20%282023%29%20%28%2B2.5%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "2.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64975905",
+"sortTitle": "transformers: rise of the beasts",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+"theMovieDB": "667538",
+"rating": "PG-13",
+"runtime": "127",
+"genres": [
+"Science Fiction",
+"Adventure",
+"Action"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Transformers - Rise of the Beasts (2023) (+2.5 gain) BEQ Atmos remixmark",
+"digest": "8063430b71f1346f1bf34d5e1c2c55e0d15250e1d40e3ea8bd7a470ea133551a",
+"created_at": 1793415424,
+"updated_at": 1793415424,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Transformers One",
 "year": "2024",
 "audioTypes": [
