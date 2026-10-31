@@ -2252317,6 +2252317,299 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Santa Clause 2",
+"year": "2002",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-santa-clause-2/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.2,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003643904163222",
+"-1.998580487459288",
+"0.9982186886509838"
+],
+"a": [
+"1.9985812176243316",
+"-0.9985823489022626"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.2,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003643904163222",
+"-1.998580487459288",
+"0.9982186886509838"
+],
+"a": [
+"1.9985812176243316",
+"-0.9985823489022626"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.2,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003643904163222",
+"-1.998580487459288",
+"0.9982186886509838"
+],
+"a": [
+"1.9985812176243316",
+"-0.9985823489022626"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -3.4,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.999836006139407",
+"-1.9989840761974718",
+"0.9991514267638721"
+],
+"a": [
+"1.9989840761974718",
+"-0.9989874329032792"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 55.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000006903164831",
+"-1.9987947369609627",
+"0.9988007841965291"
+],
+"a": [
+"1.9987947369609627",
+"-0.9988076873613604"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Santa%20Clause/The%20Santa%20Clause%202%20(2002)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Santa%20Clause/The%20Santa%20Clause%202%20(2002)%20DD%2B%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "santa clause 2",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disney+",
+"overview": "Better watch out! The big guy in red is coming to town once again. This time, Scott Calvin -- also known as Santa Claus -- finds out there's an obscure clause in his contract requiring him to take on a wife. He has to leave the North Pole to fulfill his obligations, or else he'll be forced to give up his Yuletide gig.",
+"theMovieDB": "9021",
+"rating": "G",
+"runtime": "104",
+"genres": [
+"Fantasy",
+"Comedy",
+"Family"
+],
+"altTitle": "",
+"collection": {
+"id": "53159",
+"name": "The Santa Clause Collection"
+},
+"underlying": "The Santa Clause 2 (2002) (Disney+) BEQ DD+",
+"digest": "5e13fb99e6c996a76a036744a785412a83e65cdd8f000d975dd333f0ba379191",
+"created_at": 1793472217,
+"updated_at": 1793472217,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Santa Clause 3: The Escape Clause",
+"year": "2006",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-santa-clause-3-the-escape-clause/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -3.6,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9998014162925385",
+"-1.9988250892709372",
+"0.9990280569003882"
+],
+"a": [
+"1.9988250892709372",
+"-0.9988294731929269"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000601269835425",
+"-1.994809988069973",
+"0.9947772058230127"
+],
+"a": [
+"1.994809988069973",
+"-0.9948373328065552"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Santa%20Clause/The%20Santa%20Clause%203%20-%20The%20Escape%20Clause%20(2006)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Santa%20Clause/The%20Santa%20Clause%203%20-%20The%20Escape%20Clause%20(2006)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "santa clause 3: the escape clause",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disney+",
+"overview": "Now that Santa and Mrs. Claus have the North Pole running smoothly, the Counsel of Legendary Figures has called an emergency meeting on Christmas Eve! The evil Jack Frost has been making trouble, looking to take over the holiday! So he launches a plan to sabotage the toy factory and compel Scott to invoke the little-known Escape Clause and wish he'd never become Santa.",
+"theMovieDB": "13767",
+"rating": "G",
+"runtime": "92",
+"genres": [
+"Comedy",
+"Family",
+"Adventure"
+],
+"altTitle": "",
+"collection": {
+"id": "53159",
+"name": "The Santa Clause Collection"
+},
+"underlying": "The Santa Clause 3- The Escape Clause (2006) (Disney+) BEQ DD+",
+"digest": "86db6ad67908ffdb7960cabf3f0e02cb596cb1af5b6e75200a7bb8b7a7a48973",
+"created_at": 1793472217,
+"updated_at": 1793472217,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Shadow Strays",
 "year": "2024",
 "audioTypes": [
