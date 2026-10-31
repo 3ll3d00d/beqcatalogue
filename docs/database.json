@@ -2101287,6 +2101287,131 @@
 "filterAuthor": "human"
 },
 {
+"title": "Constantine: City of Demons - The Movie",
+"year": "2018",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/constantine-city-of-demons-the-movie/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003235293787995",
+"-1.9989745272104538",
+"0.9986525691974433"
+],
+"a": [
+"1.9989750176043286",
+"-0.9989756081823677"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003235293787995",
+"-1.9989745272104538",
+"0.9986525691974433"
+],
+"a": [
+"1.9989750176043286",
+"-0.9989756081823677"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": -1.2,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999579985162806",
+"-1.9993461031241173",
+"0.9993909994339091"
+],
+"a": [
+"1.9993461031241173",
+"-0.9993489979501896"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 70.0,
+"gain": 0.1,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000131716131102",
+"-1.9977040366512853",
+"0.9977118311694377"
+],
+"a": [
+"1.9977040366512853",
+"-0.9977250027825482"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Constantine/Constantine%20-%20City%20of%20Demons%20(2018)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Constantine/Constantine%20-%20City%20of%20Demons%20(2018)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "constantine: city of demons - the movie",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A decade after a tragic mistake, family man Chas Chandler and occult detective John Constantine set out to cure his daughter Trish from a mysterious supernatural coma.",
+"theMovieDB": "539517",
+"rating": "R",
+"runtime": "90",
+"genres": [
+"Fantasy",
+"Animation",
+"Horror",
+"Action"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Constantine- City of Demons - The Movie (2018) BEQ DTS-HD MA 5.1",
+"digest": "50e3057df1d8145a5ffc5562e8519ed9adcdf2300011c95209349762c6108d8f",
+"created_at": 1793489556,
+"updated_at": 1793489556,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Contagion",
 "year": "2011",
 "audioTypes": [
