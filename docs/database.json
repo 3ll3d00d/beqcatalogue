@@ -2074882,6 +2074882,189 @@
 "filterAuthor": "human"
 },
 {
+"title": "Atomic Blonde",
+"year": "2017",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/atomic-blonde/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005094982327147",
+"-1.9986900397795948",
+"0.9981835865880542"
+],
+"a": [
+"1.9986910808368978",
+"-0.9986920437634659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005094982327147",
+"-1.9986900397795948",
+"0.9981835865880542"
+],
+"a": [
+"1.9986910808368978",
+"-0.9986920437634659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005094982327147",
+"-1.9986900397795948",
+"0.9981835865880542"
+],
+"a": [
+"1.9986910808368978",
+"-0.9986920437634659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 45.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0008548861650963",
+"-1.9968309859917983",
+"0.9959894367510588"
+],
+"a": [
+"1.996834842386793",
+"-0.9968404665211608"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 45.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0008548861650963",
+"-1.9968309859917983",
+"0.9959894367510588"
+],
+"a": [
+"1.996834842386793",
+"-0.9968404665211608"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 55.0,
+"gain": -4.0,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9996202942236129",
+"-1.9979292671941795",
+"0.9983219177634953"
+],
+"a": [
+"1.9979292671941795",
+"-0.9979422119871081"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 110.0,
+"gain": 0.3,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.00006205810448",
+"-1.9964164277629366",
+"0.9964061104608751"
+],
+"a": [
+"1.9964164277629366",
+"-0.9964681685653549"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Atomic%20Blonde/Atomic%20Blonde%20(2017)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Atomic%20Blonde/Atomic%20Blonde%20(2017)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "atomic blonde",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+"theMovieDB": "341013",
+"rating": "R",
+"runtime": "115",
+"genres": [
+"Action",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Atomic Blonde (2017) BEQ DD+ Atmos",
+"digest": "32e2caab136169942a843880a62a2fdb015386762a0b18f00f6f15b6a1904e6c",
+"created_at": 1793471554,
+"updated_at": 1793471554,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Avatar",
 "year": "2009",
 "audioTypes": [
@@ -2110373,6 +2110556,89 @@
 ],
 "audioChannelCounts": [
 "",
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "District 9",
+"year": "2009",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/district-9/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": -1.2,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.999961725347599",
+"-1.99940468928993",
+"0.9994450366293054"
+],
+"a": [
+"1.99940468928993",
+"-0.9994067619769046"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/District%209/District%209%20(2009)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/District%209/District%209%20(2009)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "district 9",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+"theMovieDB": "17654",
+"rating": "R",
+"runtime": "112",
+"genres": [
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "District 9 (2009) BEQ Atmos",
+"digest": "27b99075db0812c0234c71e4bf14b67a789c778a45737aba4999b58524dbb974",
+"created_at": 1793471609,
+"updated_at": 1793471609,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
 ""
 ],
 "filterAuthor": "human"
