@@ -1948251,6 +1948251,129 @@
 "filterAuthor": "model"
 },
 {
+"title": "The Hangover",
+"year": "2009",
+"audioTypes": [
+"TrueHD 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-hangover/#truehd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 7.87,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002243457180586",
+"-1.999216872016276",
+"0.9989934962716192"
+],
+"a": [
+"1.9992171610148195",
+"-0.999217552991134"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 7.87,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002243457180586",
+"-1.999216872016276",
+"0.9989934962716192"
+],
+"a": [
+"1.9992171610148195",
+"-0.999217552991134"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 29.79,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0003713483739642",
+"-1.9988221079868715",
+"0.9984569569250945"
+],
+"a": [
+"1.9988240420521022",
+"-0.9988263712338282"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 4.91,
+"q": 0.92,
+"biquads": {
+"96000": {
+"b": [
+"1.0006107969305302",
+"-1.9983886788614513",
+"0.9977817341452537"
+],
+"a": [
+"1.9983886788614513",
+"-0.998392531075784"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Hangover%20%282009%29%20%28%2B7.0%20gain%29%20TrueHD%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Hangover%20%282009%29%20%28%2B7.0%20gain%29%20TrueHD%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "7.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64975623",
+"sortTitle": "the hangover",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug \u2013 who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+"theMovieDB": "18785",
+"rating": "R",
+"runtime": "100",
+"genres": [
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Hangover (2009) (+7.0 gain) BEQ TrueHD 5.1 remixmark",
+"digest": "2e430d415b2e932bef0257df2d28140febb8fcc6398c1006c7e06cab0172b331",
+"created_at": 1793404811,
+"updated_at": 1793404811,
+"audioCodecs": [
+"TrueHD"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Holdovers",
 "year": "2023",
 "audioTypes": [
