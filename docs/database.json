@@ -2030936,6 +2030936,664 @@
 "title": "Rick and Morty",
 "year": "2013",
 "audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/rick-and-morty/#season-09e06",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.42,
+"gain": 8.49,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0004124917694919",
+"-1.9986904264480116",
+"0.9982808446901729"
+],
+"a": [
+"1.9986913339782832",
+"-0.9986924289293929"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.42,
+"gain": 8.49,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0004124917694919",
+"-1.9986904264480116",
+"0.9982808446901729"
+],
+"a": [
+"1.9986913339782832",
+"-0.9986924289293929"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.42,
+"gain": 8.49,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0004124917694919",
+"-1.9986904264480116",
+"0.9982808446901729"
+],
+"a": [
+"1.9986913339782832",
+"-0.9986924289293929"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.42,
+"gain": 8.49,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0004124917694919",
+"-1.9986904264480116",
+"0.9982808446901729"
+],
+"a": [
+"1.9986913339782832",
+"-0.9986924289293929"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0006933266157902",
+"-1.997801837963028",
+"0.9971147931334876"
+],
+"a": [
+"1.9978037983910337",
+"-0.9978061593212723"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.07,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000117044732695",
+"-1.9971001658327299",
+"0.9970953053333752"
+],
+"a": [
+"1.9971001658327299",
+"-0.9971070098066449"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 21.48,
+"gain": -0.17,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999977072764485",
+"-1.999761437184868",
+"0.9997657061242595"
+],
+"a": [
+"1.999761437184868",
+"-0.999763413400708"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E06%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E06%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "09E06",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976721",
+"sortTitle": "rick and morty",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+"theMovieDB": "60625",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Comedy",
+"Sci-Fi & Fantasy",
+"Action & Adventure"
+],
+"underlying": "Rick and Morty (2013) (Season S09E06) (+4.5 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "5071a9875f30e017d357ac55a0a7691b3e2728f36c1057bd85193d64542bfdc6",
+"created_at": 1793466535,
+"updated_at": 1793466535,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Rick and Morty",
+"year": "2013",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/rick-and-morty/#season-09e07",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 14.43,
+"gain": 6.15,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001681457794882",
+"-1.9992081399460708",
+"0.9990412645305036"
+],
+"a": [
+"1.9992084622333683",
+"-0.999209088022694"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.43,
+"gain": 6.15,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001681457794882",
+"-1.9992081399460708",
+"0.9990412645305036"
+],
+"a": [
+"1.9992084622333683",
+"-0.999209088022694"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.43,
+"gain": 6.15,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001681457794882",
+"-1.9992081399460708",
+"0.9990412645305036"
+],
+"a": [
+"1.9992084622333683",
+"-0.999209088022694"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.43,
+"gain": 6.15,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001681457794882",
+"-1.9992081399460708",
+"0.9990412645305036"
+],
+"a": [
+"1.9992084622333683",
+"-0.999209088022694"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.5,
+"gain": 1.52,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000200481432218",
+"-1.9978991285061756",
+"0.9977028931005438"
+],
+"a": [
+"1.9978991285061756",
+"-0.9979033745327618"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E07%29%20%28%2B4.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E07%29%20%28%2B4.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "09E07",
+"episode": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976721",
+"sortTitle": "rick and morty",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+"theMovieDB": "60625",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Comedy",
+"Sci-Fi & Fantasy",
+"Action & Adventure"
+],
+"underlying": "Rick and Morty (2013) (Season S09E07) (+4.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "939b7f2cbbaead3ad5badbd338c96816678fac9ad20bc8ffd80fedd0cb1a5160",
+"created_at": 1793466635,
+"updated_at": 1793466635,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Rick and Morty",
+"year": "2013",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/rick-and-morty/#season-09e08",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.8,
+"gain": 6.15,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001841195597965",
+"-1.9991328938979638",
+"0.99895029731521"
+],
+"a": [
+"1.999133280272409",
+"-0.9991340305005612"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.8,
+"gain": 6.15,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001841195597965",
+"-1.9991328938979638",
+"0.99895029731521"
+],
+"a": [
+"1.999133280272409",
+"-0.9991340305005612"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.8,
+"gain": 6.15,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001841195597965",
+"-1.9991328938979638",
+"0.99895029731521"
+],
+"a": [
+"1.999133280272409",
+"-0.9991340305005612"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.8,
+"gain": 6.15,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001841195597965",
+"-1.9991328938979638",
+"0.99895029731521"
+],
+"a": [
+"1.999133280272409",
+"-0.9991340305005612"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 34.5,
+"gain": 1.52,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002195529509346",
+"-1.9976988326821143",
+"0.9974843725286273"
+],
+"a": [
+"1.9976988326821143",
+"-0.9977039254795619"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E08%29%20%28%2B3.5%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E08%29%20%28%2B3.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "09E08",
+"episode": "",
+"mv": "3.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976721",
+"sortTitle": "rick and morty",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+"theMovieDB": "60625",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Comedy",
+"Sci-Fi & Fantasy",
+"Action & Adventure"
+],
+"underlying": "Rick and Morty (2013) (Season S09E08) (+3.5 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "b756053b659e9ad669eaca82657a71a1e48562146df1a4326bffbd18368becef",
+"created_at": 1793466620,
+"updated_at": 1793466620,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Rick and Morty",
+"year": "2013",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/rick-and-morty/#season-09e09",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 16.63,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003363080905712",
+"-1.9989339656027167",
+"0.9985995889045386"
+],
+"a": [
+"1.9989345683541613",
+"-0.9989352942436649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.63,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003363080905712",
+"-1.9989339656027167",
+"0.9985995889045386"
+],
+"a": [
+"1.9989345683541613",
+"-0.9989352942436649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.63,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003363080905712",
+"-1.9989339656027167",
+"0.9985995889045386"
+],
+"a": [
+"1.9989345683541613",
+"-0.9989352942436649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.63,
+"gain": 8.5,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003363080905712",
+"-1.9989339656027167",
+"0.9985995889045386"
+],
+"a": [
+"1.9989345683541613",
+"-0.9989352942436649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.85,
+"gain": 7.71,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0004990406438405",
+"-1.9982127410227797",
+"0.9977174948946408"
+],
+"a": [
+"1.9982138573250032",
+"-0.9982154192362577"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -0.1,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"0.9999832795146512",
+"-1.9970717577458499",
+"0.9970953221077603"
+],
+"a": [
+"1.9970717577458499",
+"-0.9970786016224116"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 13.67,
+"gain": -0.52,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999955360802969",
+"-1.9998455637559411",
+"0.9998508281011294"
+],
+"a": [
+"1.9998455637559411",
+"-0.9998463641814264"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E09%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E09%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "09E09",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976721",
+"sortTitle": "rick and morty",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+"theMovieDB": "60625",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Comedy",
+"Sci-Fi & Fantasy",
+"Action & Adventure"
+],
+"underlying": "Rick and Morty (2013) (Season S09E09) (+4.5 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "22d05454a56f5c69a73b966f31fad36527bd8af4918a8e944a089dc516d04c9a",
+"created_at": 1793466775,
+"updated_at": 1793466775,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Rick and Morty",
+"year": "2013",
+"audioTypes": [
 "DD+"
 ],
 "content_type": "TV",
@@ -2030975,6 +2031633,151 @@
 ""
 ],
 "filterAuthor": "human"
+},
+{
+"title": "Rick and Morty",
+"year": "2013",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/rick-and-morty/#season-09e10",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.7,
+"gain": 6.26,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000162520997551",
+"-1.9992506008176372",
+"0.9990892322003923"
+],
+"a": [
+"1.999250896744748",
+"-0.9992514572708331"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.7,
+"gain": 6.26,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000162520997551",
+"-1.9992506008176372",
+"0.9990892322003923"
+],
+"a": [
+"1.999250896744748",
+"-0.9992514572708331"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.7,
+"gain": 6.26,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000162520997551",
+"-1.9992506008176372",
+"0.9990892322003923"
+],
+"a": [
+"1.999250896744748",
+"-0.9992514572708331"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 13.7,
+"gain": 6.26,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000162520997551",
+"-1.9992506008176372",
+"0.9990892322003923"
+],
+"a": [
+"1.999250896744748",
+"-0.9992514572708331"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 1.55,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000194723112783",
+"-1.9980027046449005",
+"0.997811833002423"
+],
+"a": [
+"1.9980027046449005",
+"-0.9980065561152062"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E10%29%20%28%2B4.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E10%29%20%28%2B4.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "09E10",
+"episode": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976721",
+"sortTitle": "rick and morty",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+"theMovieDB": "60625",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Comedy",
+"Sci-Fi & Fantasy",
+"Action & Adventure"
+],
+"underlying": "Rick and Morty (2013) (Season S09E10) (+4.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "90b2f92ebdc41c9f633f78a6d028a2e85e4dc61acf7e790649374b8dfd735a91",
+"created_at": 1793466755,
+"updated_at": 1793466755,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
 },
 {
 "title": "SEC Football: Any Given Saturday",
