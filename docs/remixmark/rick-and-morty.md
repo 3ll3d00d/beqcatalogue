@@ -104,6 +104,116 @@ AI Created
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09%29%20%28%2B0.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
 
+## Season 09E01
+
+* DTS-HD MA 5.1
+
+
+**MV Adjustment:** +4.5 dB
+
+AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976721)
+
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
+
+* Production Year: 2013
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E01%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E01%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
+## Season 09E02
+
+* DTS-HD MA 5.1
+
+
+**MV Adjustment:** +4.5 dB
+
+AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976721)
+
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
+
+* Production Year: 2013
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E02%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E02%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
+## Season 09E03
+
+* DTS-HD MA 5.1
+
+
+**MV Adjustment:** +4.0 dB
+
+AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976721)
+
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
+
+* Production Year: 2013
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E03%29%20%28%2B4.0%20gain%29%20DTS-HD%20MA%205.1.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E03%29%20%28%2B4.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
+## Season 09E04
+
+* DTS-HD MA 5.1
+
+
+**MV Adjustment:** +5.0 dB
+
+AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976721)
+
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
+
+* Production Year: 2013
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E04%29%20%28%2B5.0%20gain%29%20DTS-HD%20MA%205.1.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E04%29%20%28%2B5.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
+## Season 09E05
+
+* DTS-HD MA 5.1
+
+
+**MV Adjustment:** +4.0 dB
+
+AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976721)
+
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
+
+* Production Year: 2013
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E05%29%20%28%2B4.0%20gain%29%20DTS-HD%20MA%205.1.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09E05%29%20%28%2B4.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
 ## Season 09E1-10
 
 * DD+
