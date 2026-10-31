@@ -2029866,6 +2029866,190 @@
 "title": "Rick and Morty",
 "year": "2013",
 "audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/rick-and-morty/#season-09",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.3,
+"gain": 8.48,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003086599903483",
+"-1.999018715507423",
+"0.9987116885210682"
+],
+"a": [
+"1.9990192244300156",
+"-0.9990198395888236"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.3,
+"gain": 8.48,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003086599903483",
+"-1.999018715507423",
+"0.9987116885210682"
+],
+"a": [
+"1.9990192244300156",
+"-0.9990198395888236"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.3,
+"gain": 8.48,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003086599903483",
+"-1.999018715507423",
+"0.9987116885210682"
+],
+"a": [
+"1.9990192244300156",
+"-0.9990198395888236"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.3,
+"gain": 8.48,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003086599903483",
+"-1.999018715507423",
+"0.9987116885210682"
+],
+"a": [
+"1.9990192244300156",
+"-0.9990198395888236"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 28.74,
+"gain": 8.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0006641980727626",
+"-1.9978942375823674",
+"0.997235804972475"
+],
+"a": [
+"1.9978960368755025",
+"-0.9978982037521021"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -0.5,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"0.999916389336325",
+"-1.9970038115784712",
+"0.9970942658858594"
+],
+"a": [
+"1.9970038115784712",
+"-0.9970106552221842"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 26.37,
+"gain": -0.1,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999980133047223",
+"-1.999649906917971",
+"0.9996548718693548"
+],
+"a": [
+"1.999649906917971",
+"-0.999652885174077"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09%29%20%28%2B0.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09%29%20%28%2B0.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "09",
+"episode": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976691",
+"sortTitle": "rick and morty",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+"theMovieDB": "60625",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Comedy",
+"Sci-Fi & Fantasy",
+"Action & Adventure"
+],
+"underlying": "Rick and Morty (2013) (Season S09) (+0.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "992bcb30620fb460f474ff2ba5a69939d93883022534d722a835be08ab2e22d7",
+"created_at": 1793459451,
+"updated_at": 1793459451,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Rick and Morty",
+"year": "2013",
+"audioTypes": [
 "DD+"
 ],
 "content_type": "TV",

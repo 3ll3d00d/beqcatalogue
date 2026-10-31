@@ -82,6 +82,28 @@
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20(2013)%20Season%208%20(%2B4.5%20gain)%20DD%2B.jpg)
 
+## Season 09
+
+* DTS-HD MA 5.1
+
+
+**MV Adjustment:** +4.0 dB
+
+AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1801#post-64976691)
+
+* [Compare across authors](../compare/index.md?t=TV-rick-and-morty_60625)
+
+* Production Year: 2013
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09%29%20%28%2B0.0%20gain%29%20DTS-HD%20MA%205.1.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20%282013%29%20%28Season%20S09%29%20%28%2B0.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+
 ## Season 09E1-10
 
 * DD+
