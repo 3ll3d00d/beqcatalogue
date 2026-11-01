@@ -2206273,6 +2206273,129 @@
 "filterAuthor": "human"
 },
 {
+"title": "Shaolin",
+"year": "2011",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/shaolin/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003029873811276",
+"-1.9985307507915822",
+"0.9982301819794888"
+],
+"a": [
+"1.9985313539981375",
+"-0.9985325661540613"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003029873811276",
+"-1.9985307507915822",
+"0.9982301819794888"
+],
+"a": [
+"1.9985313539981375",
+"-0.9985325661540613"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 34.0,
+"gain": -0.8,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999658416811624",
+"-1.9992186289241027",
+"0.9992577372554341"
+],
+"a": [
+"1.9992186289241027",
+"-0.9992235789365964"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000075303140679",
+"-1.998683955117732",
+"0.9986918360120328"
+],
+"a": [
+"1.998683955117732",
+"-0.9986993663261007"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Shaolin/Shaolin%20(2011)%20(ma)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Shaolin/Shaolin%20(2011)%20(ma)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "shaolin",
+"edition": "",
+"note": "",
+"language": "Mandarin",
+"source": "Disc",
+"overview": "China is plunged into strife as feuding warlords try to expand their power by warring over neighboring lands. Fuelled by his success on the battlefield, young and arrogant Hao Jie sneers at Shaolin's masters when he beats one of them in a duel. But the pride comes before a fall. When his own family is wiped out by a rival warlord, Hao is forced to take refuge with the monks. As the civil unrest spreads and the people suffer, Hao and the Shaolin masters are forced to take a fiery stand against the evil warlords. They launch a daring plan or rescue and escape.",
+"theMovieDB": "55292",
+"rating": "R",
+"runtime": "131",
+"genres": [
+"Action",
+"Drama"
+],
+"altTitle": "\u65b0\u5c11\u6797\u5bfa",
+"collection": {},
+"underlying": "Shaolin (2011) BEQ DD+ Atmos",
+"digest": "6ef33cfe693c2289ff5b75dc221ed6d8c03aefef27cb23a1f3f98cd53349ed23",
+"created_at": 1793570021,
+"updated_at": 1793570021,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Shark Terror",
 "year": "2025",
 "audioTypes": [
