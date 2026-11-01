@@ -6,14 +6,14 @@
     200.0
    ],
    "description": "Custom biquads stored as float32 at a 48 kHz internal DSP rate",
-   "entries": 4768,
+   "entries": 4769,
    "file": "float32-48k.json",
    "id": "float32-48k",
    "label": "float32 @ 48 kHz",
    "margin_db": 0.5,
    "rate": 48000,
    "revision": 2,
-   "sha256": "6dad85e5e377294107d7e0ff5a9f8036983c34d56fe876a586e23b6d48382170",
+   "sha256": "e467888d539f096cb055f65a42e49228f19487d78ed2e4b91e453bc103e2d451",
    "storage": "float32",
    "transport": "float32"
   },
@@ -23,14 +23,14 @@
     200.0
    ],
    "description": "Custom biquads stored as float32 at a 96 kHz internal DSP rate (e.g. miniDSP 2x4 HD)",
-   "entries": 13018,
+   "entries": 13019,
    "file": "float32-96k.json",
    "id": "float32-96k",
    "label": "float32 @ 96 kHz",
    "margin_db": 0.5,
    "rate": 96000,
    "revision": 2,
-   "sha256": "79f174c8c415f383c7a1b3d87b88051bc2fb40e842d1a377ee0138983812b436",
+   "sha256": "9f24dc0b46be990cbf3ccac3e77cdf9d8451a5dd19d5b9e99ffde5199b3c81e0",
    "storage": "float32",
    "transport": "float32"
   }
