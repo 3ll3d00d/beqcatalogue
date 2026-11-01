@@ -2235242,6 +2235242,149 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Gift",
+"year": "2015",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-gift/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 16.0,
+"gain": 5.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001018488177131",
+"-1.999737175364147",
+"0.9996364230255362"
+],
+"a": [
+"1.999737175364147",
+"-0.9997382718432495"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": -2.8,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998985019682115",
+"-1.9992610781857727",
+"0.9993648414505008"
+],
+"a": [
+"1.9992610781857727",
+"-0.9992633434187123"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 65.0,
+"gain": 0.1,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000122317833218",
+"-1.9978692504995827",
+"0.9978750981292698"
+],
+"a": [
+"1.9978692504995827",
+"-0.9978873299125914"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Gift/The%20Gift%20(2015)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Gift/The%20Gift%20(2015)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "gift",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Simon and Robyn are a young married couple whose life is going as planned until a chance run-in with Simon's high school acquaintance sends their world into a tailspin.",
+"theMovieDB": "328425",
+"rating": "R",
+"runtime": "108",
+"genres": [
+"Thriller",
+"Mystery",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Gift (2015) BEQ DTS-HD MA 5.1",
+"digest": "02731cdfb312d753fd4215e748c89459434f0000fb88af214a9743e69e3430e2",
+"created_at": 1793572318,
+"updated_at": 1793572318,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Great Flood",
 "year": "2025",
 "audioTypes": [
