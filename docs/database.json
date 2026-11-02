@@ -1913156,6 +1913156,150 @@
 "filterAuthor": "human"
 },
 {
+"title": "Paddington in Peru",
+"year": "2024",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/paddington-in-peru/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.63,
+"gain": 6.11,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001682273952324",
+"-1.999201665370104",
+"0.9990342612660104"
+],
+"a": [
+"1.9992018733004684",
+"-0.9992022807308781"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.63,
+"gain": 6.11,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001682273952324",
+"-1.999201665370104",
+"0.9990342612660104"
+],
+"a": [
+"1.9992018733004684",
+"-0.9992022807308781"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 29.46,
+"gain": 8.46,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0003654638147543",
+"-1.9988338633855853",
+"0.9984744464373857"
+],
+"a": [
+"1.998835745254536",
+"-0.9988380283831895"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 4.81,
+"q": 0.93,
+"biquads": {
+"96000": {
+"b": [
+"1.0005916095005802",
+"-1.9983967767427575",
+"0.9978090194721201"
+],
+"a": [
+"1.9983967767427575",
+"-0.9984006289727003"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 58.0,
+"gain": -0.32,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999650685822651",
+"-1.9980541424803115",
+"0.9981034702720983"
+],
+"a": [
+"1.9980541424803115",
+"-0.9980685388543633"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Paddington%20in%20Peru%20%282024%29%20%28%2B3.0%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Paddington%20in%20Peru%20%282024%29%20%28%2B3.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "3.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1802#post-64980525",
+"sortTitle": "paddington in peru",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Paddington travels to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown Family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey through the Amazon rainforest and up to the mountain peaks of Peru.",
+"theMovieDB": "516729",
+"rating": "PG",
+"runtime": "106",
+"genres": [
+"Adventure",
+"Comedy",
+"Family"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Paddington in Peru (2024) (+3.0 gain) BEQ Atmos remixmark",
+"digest": "0c18c4484da18b0ddd79839242369ff7c1172c53f45ecb6bfbf664ad557577a8",
+"created_at": 1793582906,
+"updated_at": 1793582906,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "ParaNorman",
 "year": "2012",
 "audioTypes": [
