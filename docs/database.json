@@ -1965499,6 +1965499,210 @@
 "title": "The Uprising",
 "year": "2026",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-uprising/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -0.17,
+"q": 0.95,
+"biquads": {
+"96000": {
+"b": [
+"0.9999966280510085",
+"-1.999307486358678",
+"0.9993112823575491"
+],
+"a": [
+"1.9993074821680556",
+"-0.9993079145991797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -0.17,
+"q": 0.95,
+"biquads": {
+"96000": {
+"b": [
+"0.9999966280510085",
+"-1.999307486358678",
+"0.9993112823575491"
+],
+"a": [
+"1.9993074821680556",
+"-0.9993079145991797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.78,
+"gain": 6.25,
+"q": 0.94,
+"biquads": {
+"96000": {
+"b": [
+"1.0001862152231833",
+"-1.9991397059529887",
+"0.9989548311146275"
+],
+"a": [
+"1.99914004978346",
+"-0.9991407025073393"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.78,
+"gain": 6.25,
+"q": 0.94,
+"biquads": {
+"96000": {
+"b": [
+"1.0001862152231833",
+"-1.9991397059529887",
+"0.9989548311146275"
+],
+"a": [
+"1.99914004978346",
+"-0.9991407025073393"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.78,
+"gain": 6.25,
+"q": 0.94,
+"biquads": {
+"96000": {
+"b": [
+"1.0001862152231833",
+"-1.9991397059529887",
+"0.9989548311146275"
+],
+"a": [
+"1.99914004978346",
+"-0.9991407025073393"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.78,
+"gain": 6.25,
+"q": 0.94,
+"biquads": {
+"96000": {
+"b": [
+"1.0001862152231833",
+"-1.9991397059529887",
+"0.9989548311146275"
+],
+"a": [
+"1.99914004978346",
+"-0.9991407025073393"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 18.28,
+"gain": -6.48,
+"q": 5.3,
+"biquads": {
+"96000": {
+"b": [
+"0.9999138424016059",
+"-1.9996708225961115",
+"0.9997584113882414"
+],
+"a": [
+"1.9996708225961115",
+"-0.9996722537898471"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 36.35,
+"gain": 1.42,
+"q": 0.91,
+"biquads": {
+"96000": {
+"b": [
+"1.0002136859593949",
+"-1.9975880542048925",
+"0.9973800215588967"
+],
+"a": [
+"1.9975880542048925",
+"-0.9975937075182916"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Uprising%20%282026%29%20%28%2B4.0%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Uprising%20%282026%29%20%28%2B4.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1802#post-64981655",
+"sortTitle": "the uprising",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
+"theMovieDB": "977942",
+"rating": "R",
+"runtime": "128",
+"genres": [
+"Action",
+"Drama",
+"History"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Uprising (2026) (+4.0 gain) BEQ Atmos remixmark",
+"digest": "83b59c22900926ec7d6838e4ca2e402e42efc6eae19489e0b7eeae2998e94f1a",
+"created_at": 1793634772,
+"updated_at": 1793634772,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "The Uprising",
+"year": "2026",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
@@ -1967951,6 +1968155,249 @@
 ""
 ],
 "filterAuthor": "human"
+},
+{
+"title": "There's Something About Mary",
+"year": "1998",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/theres-something-about-mary/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 4.06,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002876019274953",
+"-1.9978147412776144",
+"0.9975320043832884"
+],
+"a": [
+"1.9978156495455812",
+"-0.9978186980428172"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 4.06,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002876019274953",
+"-1.9978147412776144",
+"0.9975320043832884"
+],
+"a": [
+"1.9978156495455812",
+"-0.9978186980428172"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 4.06,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002876019274953",
+"-1.9978147412776144",
+"0.9975320043832884"
+],
+"a": [
+"1.9978156495455812",
+"-0.9978186980428172"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 4.06,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002876019274953",
+"-1.9978147412776144",
+"0.9975320043832884"
+],
+"a": [
+"1.9978156495455812",
+"-0.9978186980428172"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": -0.25,
+"q": 0.64,
+"biquads": {
+"96000": {
+"b": [
+"0.9999852855318491",
+"-1.9979403305244143",
+"0.9979567322450926"
+],
+"a": [
+"1.9979403058900824",
+"-0.9979420424112734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": -0.25,
+"q": 0.64,
+"biquads": {
+"96000": {
+"b": [
+"0.9999852855318491",
+"-1.9979403305244143",
+"0.9979567322450926"
+],
+"a": [
+"1.9979403058900824",
+"-0.9979420424112734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": -0.25,
+"q": 0.64,
+"biquads": {
+"96000": {
+"b": [
+"0.9999852855318491",
+"-1.9979403305244143",
+"0.9979567322450926"
+],
+"a": [
+"1.9979403058900824",
+"-0.9979420424112734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 48.19,
+"gain": -1.07,
+"q": 2.97,
+"biquads": {
+"96000": {
+"b": [
+"0.9999345850133672",
+"-1.9988612675836717",
+"0.9989366248409304"
+],
+"a": [
+"1.9988612675836717",
+"-0.9988712098542977"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 78.58,
+"gain": 0.23,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0000929576190527",
+"-1.9930451479382207",
+"0.99297854958119"
+],
+"a": [
+"1.9930451479382207",
+"-0.9930715072002425"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 22.07,
+"gain": -2.91,
+"q": 0.86,
+"biquads": {
+"96000": {
+"b": [
+"0.9998591089774379",
+"-1.9981731884072822",
+"0.9983158425236163"
+],
+"a": [
+"1.9981728375719718",
+"-0.9981753023363642"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/There%27s%20Something%20About%20Mary%20%281998%29%20%28%2B7.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/There%27s%20Something%20About%20Mary%20%281998%29%20%28%2B7.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "7.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1802#post-64981661",
+"sortTitle": "there's something about mary",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "For Ted, prom night went about as bad as it\u2019s possible for any night to go. Thirteen years later, he finally gets another chance with his old prom date, only to run up against other suitors including the sleazy detective he hired to find her.",
+"theMovieDB": "544",
+"rating": "R",
+"runtime": "120",
+"genres": [
+"Romance",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "There's Something About Mary (1998) (+7.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "0d9794e76ca1d6c2e4c09e8cae6d7bfe2b79cf1794617a3b6d83591ac1bc6af9",
+"created_at": 1793634819,
+"updated_at": 1793634819,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
 },
 {
 "title": "They Will Kill You",
