@@ -1989022,6 +1989022,167 @@
 "filterAuthor": "human"
 },
 {
+"title": "Blue Planet III",
+"year": "2026",
+"audioTypes": [
+"AAC 2.0"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/blue-planet-iii/#season-01e01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 0.0,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0",
+"-1.9986914312424164",
+"0.9986918593304648"
+],
+"a": [
+"1.9986914312424164",
+"-0.9986918593304648"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.57,
+"gain": 0.81,
+"q": 1.23,
+"biquads": {
+"96000": {
+"b": [
+"1.0000218193085342",
+"-1.9990857164488518",
+"0.9990652820213277"
+],
+"a": [
+"1.9990857781027487",
+"-0.9990870396759649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.57,
+"gain": 0.81,
+"q": 1.23,
+"biquads": {
+"96000": {
+"b": [
+"1.0000218193085342",
+"-1.9990857164488518",
+"0.9990652820213277"
+],
+"a": [
+"1.9990857781027487",
+"-0.9990870396759649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.57,
+"gain": 0.81,
+"q": 1.23,
+"biquads": {
+"96000": {
+"b": [
+"1.0000218193085342",
+"-1.9990857164488518",
+"0.9990652820213277"
+],
+"a": [
+"1.9990857781027487",
+"-0.9990870396759649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 12.77,
+"gain": -8.54,
+"q": 8.19,
+"biquads": {
+"96000": {
+"b": [
+"0.9999477908093792",
+"-1.9998324695075396",
+"0.9998853771923715"
+],
+"a": [
+"1.9998324695075396",
+"-0.9998331680017506"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 41.61,
+"gain": 0.16,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0000294631992697",
+"-1.9968230415533597",
+"0.9968009833296259"
+],
+"a": [
+"1.9968230415533597",
+"-0.9968304465288957"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blue%20Planet%20III%20%282026%29%20%28Season%20S01E01%29%20%28%2B5.0%20gain%29%20AAC%202.0.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blue%20Planet%20III%20%282026%29%20%28Season%20S01E01%29%20%28%2B5.0%20gain%29%20AAC%202.0%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E01",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1802#post-64982693",
+"sortTitle": "blue planet iii",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "The third series of this nature documentary uses the very latest in underwater filming techniques to reveal brand new and untold stories from magical underwater worlds focusing on five major underwater habitats: the tropical seas, temperate seas, polar seas, high seas and deep seas.",
+"theMovieDB": "208929",
+"rating": "",
+"genres": [
+"Documentary"
+],
+"underlying": "Blue Planet III (2026) (Season S01E01) (+5.0 gain) BEQ AAC 2.0 remixmark",
+"digest": "9160633f02daebbbc29a1a2eaeb089e046b22ccb61838c2905ab203495bf8137",
+"created_at": 1793656172,
+"updated_at": 1793656172,
+"audioCodecs": [
+"AAC"
+],
+"audioChannelCounts": [
+"2.0"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Cape Fear",
 "year": "2026",
 "audioTypes": [
