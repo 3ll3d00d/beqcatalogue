@@ -2189639,6 +2189639,192 @@
 "filterAuthor": "human"
 },
 {
+"title": "Paddington 2",
+"year": "2017",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/paddington-2/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9997453625689671",
+"-1.9988364588906473",
+"0.9990913370707373"
+],
+"a": [
+"1.9988361986074932",
+"-0.9988369599228577"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005094982327147",
+"-1.9986900397795948",
+"0.9981835865880542"
+],
+"a": [
+"1.9986910808368978",
+"-0.9986920437634659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005094982327147",
+"-1.9986900397795948",
+"0.9981835865880542"
+],
+"a": [
+"1.9986910808368978",
+"-0.9986920437634659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005094982327147",
+"-1.9986900397795948",
+"0.9981835865880542"
+],
+"a": [
+"1.9986910808368978",
+"-0.9986920437634659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -4.0,
+"q": 2.3,
+"biquads": {
+"96000": {
+"b": [
+"0.9998017948052506",
+"-1.9989219880294435",
+"0.9991240464665647"
+],
+"a": [
+"1.9989219880294435",
+"-0.998925841271815"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 55.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000006903164831",
+"-1.9987947369609627",
+"0.9988007841965291"
+],
+"a": [
+"1.9987947369609627",
+"-0.9988076873613604"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Paddington/Paddington%202%20(2017)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Paddington/Paddington%202%20(2017)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "paddington 2",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+"theMovieDB": "346648",
+"rating": "PG",
+"runtime": "104",
+"genres": [
+"Adventure",
+"Comedy",
+"Family"
+],
+"altTitle": "",
+"collection": {
+"id": "488924",
+"name": "Paddington Collection"
+},
+"underlying": "Paddington 2 (2017) BEQ Atmos",
+"digest": "e2148cd113cd41b01fb12dcc3a647921aa102d97fbf44dbe6b206690074745a5",
+"created_at": 1793629668,
+"updated_at": 1793629668,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Paddington in Peru",
 "year": "2024",
 "audioTypes": [
