@@ -1913156,6 +1913156,171 @@
 "filterAuthor": "human"
 },
 {
+"title": "Paddington",
+"year": "2014",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/paddington/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.73,
+"gain": 8.07,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003017105034973",
+"-1.998979174840122",
+"0.9986791501257575"
+],
+"a": [
+"1.9989796848657628",
+"-0.9989803506036137"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.73,
+"gain": 8.07,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003017105034973",
+"-1.998979174840122",
+"0.9986791501257575"
+],
+"a": [
+"1.9989796848657628",
+"-0.9989803506036137"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.73,
+"gain": 8.07,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003017105034973",
+"-1.998979174840122",
+"0.9986791501257575"
+],
+"a": [
+"1.9989796848657628",
+"-0.9989803506036137"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.73,
+"gain": 8.07,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003017105034973",
+"-1.998979174840122",
+"0.9986791501257575"
+],
+"a": [
+"1.9989796848657628",
+"-0.9989803506036137"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.24,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000040131355933",
+"-1.9971282980707294",
+"0.9970950107851193"
+],
+"a": [
+"1.9971282980707294",
+"-0.9971351421410525"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 1.51,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000355725886718",
+"-1.9992165489151552",
+"0.9991814434128538"
+],
+"a": [
+"1.99921658618234",
+"-0.9992169787343405"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Paddington%20%282014%29%20%28%2B2.0%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Paddington%20%282014%29%20%28%2B2.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "2.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1802#post-64980697",
+"sortTitle": "paddington",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+"theMovieDB": "116149",
+"rating": "PG",
+"runtime": "95",
+"genres": [
+"Comedy",
+"Adventure",
+"Family"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Paddington (2014) (+2.0 gain) BEQ Atmos remixmark",
+"digest": "ef1c6cfa86de4533ddb6f0d07ae9aa0d22459e1c30f648329748e2beca929747",
+"created_at": 1793588570,
+"updated_at": 1793588570,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Paddington in Peru",
 "year": "2024",
 "audioTypes": [
