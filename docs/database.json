@@ -1949319,6 +1949319,246 @@
 "filterAuthor": "model"
 },
 {
+"title": "The History of Concrete",
+"year": "2026",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-history-of-concrete/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 4.1,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002151869385427",
+"-1.9983828717390253",
+"0.998171072045034"
+],
+"a": [
+"1.9983835089900897",
+"-0.9983856217325124"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 4.1,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002151869385427",
+"-1.9983828717390253",
+"0.998171072045034"
+],
+"a": [
+"1.9983835089900897",
+"-0.9983856217325124"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 4.1,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002151869385427",
+"-1.9983828717390253",
+"0.998171072045034"
+],
+"a": [
+"1.9983835089900897",
+"-0.9983856217325124"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 39.0,
+"gain": 4.96,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0005224608311098",
+"-1.9968368501386815",
+"0.9963230441762867"
+],
+"a": [
+"1.9968387328453645",
+"-0.9968436223007134"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 39.0,
+"gain": 4.96,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0005224608311098",
+"-1.9968368501386815",
+"0.9963230441762867"
+],
+"a": [
+"1.9968387328453645",
+"-0.9968436223007134"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": 8.07,
+"q": 1.6,
+"biquads": {
+"96000": {
+"b": [
+"1.0004725029538177",
+"-1.9993807739741485",
+"0.9989107376600275"
+],
+"a": [
+"1.9993807739741485",
+"-0.9993832406138451"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": 8.5,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000482967382656",
+"-1.99941476410699",
+"0.9989353982525149"
+],
+"a": [
+"1.99941476410699",
+"-0.9994183656351708"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 39.0,
+"gain": -10.39,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999460641461872",
+"-1.9984472896870942",
+"0.9989931586655998"
+],
+"a": [
+"1.9984472896870942",
+"-0.9984538001274716"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 43.0,
+"gain": 2.54,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001375989264871",
+"-1.9991819068230412",
+"0.9990522252116967"
+],
+"a": [
+"1.9991819068230412",
+"-0.9991898241381838"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 47.0,
+"gain": -3.43,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9996946224463281",
+"-1.9981184890277581",
+"0.9984333203712266"
+],
+"a": [
+"1.9981184890277581",
+"-0.998127942817555"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20History%20of%20Concrete%20%282026%29%20%282160p%29%20%28%2B7.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20History%20of%20Concrete%20%282026%29%20%282160p%29%20%28%2B7.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "7.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1802#post-64984911",
+"sortTitle": "the history of concrete",
+"edition": "2160p",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete.",
+"theMovieDB": "1596296",
+"rating": "NR",
+"runtime": "101",
+"genres": [
+"Documentary",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The History of Concrete (2026) (2160p) (+7.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "bc4faca16aef0208e3ad6d29f9c6bacc64b342c0df87ce23104eab1b568154e6",
+"created_at": 1793722820,
+"updated_at": 1793722820,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Holdovers",
 "year": "2023",
 "audioTypes": [
