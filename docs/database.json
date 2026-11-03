@@ -1921511,6 +1921511,131 @@
 "filterAuthor": "human"
 },
 {
+"title": "Resident Evil",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/resident-evil/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.02,
+"gain": 7.94,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001890159437676",
+"-1.9993474535835511",
+"0.9991591167043924"
+],
+"a": [
+"1.9993476570086552",
+"-0.9993479292230563"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.02,
+"gain": 7.94,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001890159437676",
+"-1.9993474535835511",
+"0.9991591167043924"
+],
+"a": [
+"1.9993476570086552",
+"-0.9993479292230563"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 24.83,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0003094153602605",
+"-1.9990187213095787",
+"0.9987136117927534"
+],
+"a": [
+"1.9990200650827865",
+"-0.9990216833798063"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 46.43,
+"gain": 1.76,
+"q": 1.6,
+"biquads": {
+"96000": {
+"b": [
+"1.000192586225776",
+"-1.998275970757875",
+"0.9980926111339322"
+],
+"a": [
+"1.998275970757875",
+"-0.9982851973597082"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Resident%20Evil%20%282026%29%20%28%2B1.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Resident%20Evil%20%282026%29%20%28%2B1.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "1.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1802#post-64984207",
+"sortTitle": "resident evil",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+"theMovieDB": "1423191",
+"rating": "R",
+"runtime": "95",
+"genres": [
+"Horror",
+"Science Fiction",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Resident Evil (2026) (+1.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "f7617a0a2221f34d515967c9625c467d36e2fb737893062009e155a15dcf8c48",
+"created_at": 1793709598,
+"updated_at": 1793709598,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Return of the Jedi",
 "year": "1983",
 "audioTypes": [
