@@ -2313784,6 +2313784,212 @@
 "filterAuthor": "human"
 },
 {
+"title": "Mistletoe Murders",
+"year": "2024",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/mistletoe-murders/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000177038576006",
+"-1.999286367531921",
+"0.9991099696672101"
+],
+"a": [
+"1.999286544789957",
+"-0.9992868309851797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000177038576006",
+"-1.999286367531921",
+"0.9991099696672101"
+],
+"a": [
+"1.999286544789957",
+"-0.9992868309851797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000177038576006",
+"-1.999286367531921",
+"0.9991099696672101"
+],
+"a": [
+"1.999286544789957",
+"-0.9992868309851797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.0,
+"gain": -0.6,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999841767073576",
+"-1.999523974648288",
+"0.9995416865967538"
+],
+"a": [
+"1.999523974648288",
+"-0.9995258633041113"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mistletoe%20Murders/Mistletoe%20Murders%20S01E01-06%20(2024)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mistletoe%20Murders/Mistletoe%20Murders%20S01E01-06%20(2024)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "mistletoe murders",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "Emily Lane is a good-natured Christmas shop owner with a secret past. When local murders begin to pop up in Fletcher\u2019s Grove, Emily can\u2019t help but to use her unique talents from her past life to help solve murders that affect people in her new life. She crosses paths with Detective Sam Wilner who she starts to make a connection with, until he comes to learn there is more to Emily than meets the eye.",
+"theMovieDB": "261317",
+"rating": "",
+"genres": [
+"Drama",
+"Mystery"
+],
+"underlying": "Mistletoe Murders (2024) (Season 01) (Netflix) BEQ DD+",
+"digest": "f877c36c9e519b732d1d239b8fce4a85509d79968f361e06eaaea29c5900a9e3",
+"created_at": 1793667905,
+"updated_at": 1793667905,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Mistletoe Murders",
+"year": "2024",
+"audioTypes": [
+"DD 5.1"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/mistletoe-murders/#season-02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005094982327147",
+"-1.9986900397795948",
+"0.9981835865880542"
+],
+"a": [
+"1.9986910808368978",
+"-0.9986920437634659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": -1.2,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999415823064278",
+"-1.9990904401311496",
+"0.9991529725784735"
+],
+"a": [
+"1.9990904401311496",
+"-0.9990945548849014"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mistletoe%20Murders/Mistletoe%20Murders%20S02E01-06%20(2024)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mistletoe%20Murders/Mistletoe%20Murders%20S02E01-06%20(2024)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "02",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "mistletoe murders",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "Emily Lane is a good-natured Christmas shop owner with a secret past. When local murders begin to pop up in Fletcher\u2019s Grove, Emily can\u2019t help but to use her unique talents from her past life to help solve murders that affect people in her new life. She crosses paths with Detective Sam Wilner who she starts to make a connection with, until he comes to learn there is more to Emily than meets the eye.",
+"theMovieDB": "261317",
+"rating": "",
+"genres": [
+"Drama",
+"Mystery"
+],
+"underlying": "Mistletoe Murders (2024) (Season 02) (Netflix) BEQ DD 5.1",
+"digest": "8e5a92de65492237567f04e09b6b5e63a62f62c965f6060af66738bd88b2f3e5",
+"created_at": 1793667905,
+"updated_at": 1793667905,
+"audioCodecs": [
+"DD"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Mob War: Philadelphia vs. the Mafia",
 "year": "2025",
 "audioTypes": [
