@@ -2190411,6 +2190411,192 @@
 "filterAuthor": "human"
 },
 {
+"title": "Paddington",
+"year": "2014",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/paddington/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": -3.0,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998908192181258",
+"-1.9992496489461604",
+"0.9993615060281034"
+],
+"a": [
+"1.9992496489461604",
+"-0.9992523252462291"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": 0.3,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000018828789309",
+"-1.9989177183724514",
+"0.9989095930418785"
+],
+"a": [
+"1.9989177183724514",
+"-0.9989284218311878"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000100382226949",
+"-1.9982388093327277",
+"0.9982561628486926"
+],
+"a": [
+"1.9982388093327277",
+"-0.9982662010713875"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Paddington/Paddington%20(2014)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Paddington/Paddington%20(2014)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "paddington",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+"theMovieDB": "116149",
+"rating": "PG",
+"runtime": "95",
+"genres": [
+"Comedy",
+"Adventure",
+"Family"
+],
+"altTitle": "",
+"collection": {
+"id": "488924",
+"name": "Paddington Collection"
+},
+"underlying": "Paddington (2014) BEQ Atmos",
+"digest": "227b86263e89a76d079b74404dc9b0a8c10c3632cda13f134ecd96a7a007d76e",
+"created_at": 1793708233,
+"updated_at": 1793708233,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Paddington 2",
 "year": "2017",
 "audioTypes": [
