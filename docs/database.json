@@ -2200040,6 +2200040,169 @@
 "filterAuthor": "human"
 },
 {
+"title": "Resident Evil",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/resident-evil_1423191/#dd-atmos",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 12.0,
+"gain": -2.4,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999818593199329",
+"-1.9998491015470905",
+"0.9998678590310505"
+],
+"a": [
+"1.9998491015470905",
+"-0.9998497183509832"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": -1.8,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999199643448011",
+"-1.999140115867298",
+"0.9992248144561159"
+],
+"a": [
+"1.999140115867298",
+"-0.999144778800917"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Resident%20Evil/Resident%20Evil%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "resident evil",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+"theMovieDB": "1423191",
+"rating": "R",
+"runtime": "95",
+"genres": [
+"Horror",
+"Science Fiction",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Resident Evil (2026) BEQ DD+ Atmos",
+"digest": "c5d34c5ae09ba218102fec4bc8411118b32c8e1331cec4edabf3b19bf77c129a",
+"created_at": 1793677055,
+"updated_at": 1793677055,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Resident Evil: Afterlife",
 "year": "2010",
 "audioTypes": [
