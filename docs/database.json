@@ -2314974,7 +2314974,7 @@
 "title": "Mistletoe Murders",
 "year": "2024",
 "audioTypes": [
-"DD 5.1"
+"DD+"
 ],
 "content_type": "TV",
 "author": "mikejl",
@@ -2315044,12 +2315044,12 @@
 "underlying": "Mistletoe Murders (2024) (Season 02) (Netflix) BEQ DD 5.1",
 "digest": "8e5a92de65492237567f04e09b6b5e63a62f62c965f6060af66738bd88b2f3e5",
 "created_at": 1793667905,
-"updated_at": 1793667905,
+"updated_at": 1793728967,
 "audioCodecs": [
-"DD"
+"DD+"
 ],
 "audioChannelCounts": [
-"5.1"
+""
 ],
 "filterAuthor": "human"
 },

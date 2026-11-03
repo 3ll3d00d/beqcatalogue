@@ -19,7 +19,7 @@
 
 ## Season 02
 
-* DD 5.1
+* DD+
 
 
 * [Compare across authors](../compare/index.md?t=TV-mistletoe-murders_261317)
