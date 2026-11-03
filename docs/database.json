@@ -2262988,11 +2262988,12 @@
 "title": "The Uprising",
 "year": "2026",
 "audioTypes": [
+"Atmos",
 "DD+ Atmos"
 ],
 "content_type": "film",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-uprising/#dd-atmos",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-uprising/#atmos-dd-atmos",
 "filters": [
 {
 "type": "LowShelf",
@@ -2263152,8 +2263153,8 @@
 }
 ],
 "images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Uprising/The%20Uprising%20(2026)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Uprising/The%20Uprising%20(2026)%20DD%2B%20Atmoshm.jpg"
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Uprising/The%20Uprising%20(2026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Uprising/The%20Uprising%20(2026)%20Atmoshm.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -2263169,19 +2263170,21 @@
 "runtime": "128",
 "genres": [
 "Action",
-"History",
-"Drama"
+"Drama",
+"History"
 ],
 "altTitle": "",
 "collection": {},
-"underlying": "The Uprising (2026) BEQ DD+ Atmos",
+"underlying": "The Uprising (2026) BEQ Atmos",
 "digest": "674118b1d817bcb7193afa2cb3595c54a7a91db4c619c26fee0930c0d676a98b",
-"created_at": 1790728829,
-"updated_at": 1790728829,
+"created_at": 1793728441,
+"updated_at": 1793728441,
 "audioCodecs": [
+"Atmos",
 "DD+ Atmos"
 ],
 "audioChannelCounts": [
+"",
 ""
 ],
 "filterAuthor": "human"
