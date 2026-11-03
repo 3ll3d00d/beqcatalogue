@@ -1989895,6 +1989895,109 @@
 "filterAuthor": "model"
 },
 {
+"title": "Blue Planet III",
+"year": "2026",
+"audioTypes": [
+"AAC 2.0"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/blue-planet-iii/#season-01e01-e03",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.24,
+"gain": 8.37,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000278414079774",
+"-1.9991002576898025",
+"0.9988228821778081"
+],
+"a": [
+"1.999100578864399",
+"-0.9991009750829865"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.24,
+"gain": 8.37,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000278414079774",
+"-1.9991002576898025",
+"0.9988228821778081"
+],
+"a": [
+"1.999100578864399",
+"-0.9991009750829865"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 24.8,
+"gain": -16.19,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"0.9988806000611453",
+"-1.9963077687753787",
+"0.9974282042579475"
+],
+"a": [
+"1.996304947377918",
+"-0.9963116257165533"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blue%20Planet%20III%20%282026%29%20%28Season%20S01E01-E03%29%20%28%2B0.0%20gain%29%20AAC%202.0.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blue%20Planet%20III%20%282026%29%20%28Season%20S01E01-E03%29%20%28%2B0.0%20gain%29%20AAC%202.0%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E01-E03",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1802#post-64985501",
+"sortTitle": "blue planet iii",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "The third series of this nature documentary uses the very latest in underwater filming techniques to reveal brand new and untold stories from magical underwater worlds focusing on five major underwater habitats: the tropical seas, temperate seas, polar seas, high seas and deep seas.",
+"theMovieDB": "208929",
+"rating": "",
+"genres": [
+"Documentary"
+],
+"underlying": "Blue Planet III (2026) (Season S01E01-E03) (+0.0 gain) BEQ AAC 2.0 remixmark",
+"digest": "59601cdace5392a2074a98b77279ce67e154d52b23ebe22f572079b60fa8b529",
+"created_at": 1793732841,
+"updated_at": 1793732841,
+"audioCodecs": [
+"AAC"
+],
+"audioChannelCounts": [
+"2.0"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Cape Fear",
 "year": "2026",
 "audioTypes": [
