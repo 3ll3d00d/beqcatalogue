@@ -1917492,6 +1917492,111 @@
 "filterAuthor": "human"
 },
 {
+"title": "Primetime",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/primetime/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0001759600963094",
+"-1.9992243799224045",
+"0.999049042339794"
+],
+"a": [
+"1.999224543907684",
+"-0.9992248384508241"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0001759600963094",
+"-1.9992243799224045",
+"0.999049042339794"
+],
+"a": [
+"1.999224543907684",
+"-0.9992248384508241"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.69,
+"gain": -11.51,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"0.999505193554745",
+"-1.9979576037759714",
+"0.9984529533084248"
+],
+"a": [
+"1.9979568535815133",
+"-0.9979588970576281"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Primetime%20%282026%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Primetime%20%282026%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1802#post-64984317",
+"sortTitle": "primetime",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+"theMovieDB": "1375441",
+"rating": "R",
+"runtime": "110",
+"genres": [
+"Drama",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Primetime (2026) (+4.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "7ad4c9abd658d17cd822d3c237945c9ee569f67fb6464cc0b314cead8f949ea0",
+"created_at": 1793712216,
+"updated_at": 1793712216,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Primitive War",
 "year": "2025",
 "audioTypes": [
@@ -1948965,6 +1949070,248 @@
 "updated_at": 1793404811,
 "audioCodecs": [
 "TrueHD"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "The History of Concrete",
+"year": "2026",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-history-of-concrete/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 2.64,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000146485665115",
+"-1.9982147416905902",
+"0.9980713699636315"
+],
+"a": [
+"1.9982151497655993",
+"-0.9982174475537376"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 2.64,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000146485665115",
+"-1.9982147416905902",
+"0.9980713699636315"
+],
+"a": [
+"1.9982151497655993",
+"-0.9982174475537376"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 2.64,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000146485665115",
+"-1.9982147416905902",
+"0.9980713699636315"
+],
+"a": [
+"1.9982151497655993",
+"-0.9982174475537376"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 2.64,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000146485665115",
+"-1.9982147416905902",
+"0.9980713699636315"
+],
+"a": [
+"1.9982151497655993",
+"-0.9982174475537376"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 39.0,
+"gain": 5.1,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0004182738210856",
+"-1.9975472520989137",
+"0.9971377062825156"
+],
+"a": [
+"1.9975491901337759",
+"-0.997554042068739"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 39.0,
+"gain": 5.1,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0004182738210856",
+"-1.9975472520989137",
+"0.9971377062825156"
+],
+"a": [
+"1.9975491901337759",
+"-0.997554042068739"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 39.0,
+"gain": 5.1,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0004182738210856",
+"-1.9975472520989137",
+"0.9971377062825156"
+],
+"a": [
+"1.9975491901337759",
+"-0.997554042068739"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 39.0,
+"gain": -4.21,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9997918881421833",
+"-1.9989098951468536",
+"0.9991245189521005"
+],
+"a": [
+"1.9989098951468536",
+"-0.9989164070942838"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 43.0,
+"gain": -9.3,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9994738660772645",
+"-1.9983910263680633",
+"0.9989250744738356"
+],
+"a": [
+"1.9983910263680633",
+"-0.9983989405510998"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 47.0,
+"gain": 5.67,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000510690119601",
+"-1.9988814063496436",
+"0.9983801736294652"
+],
+"a": [
+"1.9988814063496436",
+"-0.9988908637490661"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20History%20of%20Concrete%20%282026%29%20%28%2B7.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20History%20of%20Concrete%20%282026%29%20%28%2B7.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "7.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1802#post-64984309",
+"sortTitle": "the history of concrete",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete.",
+"theMovieDB": "1596296",
+"rating": "NR",
+"runtime": "101",
+"genres": [
+"Documentary",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The History of Concrete (2026) (+7.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "cebebc8766211cc9cdab18077253b128c74c689daffd35ecd3918d809c39782b",
+"created_at": 1793712110,
+"updated_at": 1793712110,
+"audioCodecs": [
+"DD+"
 ],
 "audioChannelCounts": [
 "5.1"
