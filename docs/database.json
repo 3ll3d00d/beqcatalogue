@@ -2198496,6 +2198496,152 @@
 "filterAuthor": "human"
 },
 {
+"title": "Punisher: War Zone",
+"year": "2008",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/punisher-war-zone/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000305653988321",
+"-1.9992142992422137",
+"0.9989097417555192"
+],
+"a": [
+"1.9992146741208972",
+"-0.9992150208651568"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": -4.1,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9997804376508824",
+"-1.998828823989903",
+"0.9990525005542844"
+],
+"a": [
+"1.998828823989903",
+"-0.9988329382051669"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Punisher%20-%20War%20Zone/Punisher%20-%20War%20Zone%20(2008)%204K%20HDR%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Punisher%20-%20War%20Zone/Punisher%20-%20War%20Zone%20(2008)%204K%20HDR%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "punisher: war zone",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Waging his one-man war on the world of organized crime, ruthless vigilante-hero Frank Castle sets his sights on overeager mob boss Billy Russoti. After Russoti is left horribly disfigured by Castle, he sets out for vengeance under his new alias: Jigsaw. With the \"Punisher Task Force\" hot on his trail and the FBI unable to take Jigsaw in, Frank must stand up to the formidable army that Jigsaw has recruited before more of his evil deeds go unpunished.",
+"theMovieDB": "13056",
+"rating": "R",
+"runtime": "102",
+"genres": [
+"Action",
+"Crime"
+],
+"altTitle": "",
+"collection": {
+"id": "635362",
+"name": "The Punisher Collection"
+},
+"underlying": "Punisher- War Zone (2008) BEQ DD+",
+"digest": "4f43216ebbf97904d43fd6dd5b5bf7ff75a90d8df94d41378f63bc116ec2f14f",
+"created_at": 1793826044,
+"updated_at": 1793826044,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Purple Rain",
 "year": "1984",
 "audioTypes": [
