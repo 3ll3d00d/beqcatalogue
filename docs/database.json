@@ -2249364,6 +2249364,188 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Mongoose",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-mongoose/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003820885611732",
+"-1.9990177449462851",
+"0.9986373695008236"
+],
+"a": [
+"1.9990183306367637",
+"-0.9990188723715183"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 16.0,
+"gain": 7.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002167035936358",
+"-1.9996490207959632",
+"0.9994334136330937"
+],
+"a": [
+"1.9996490207959632",
+"-0.9996501172267294"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004840144273304",
+"-1.9987555922772087",
+"0.9982743260893904"
+],
+"a": [
+"1.9987565318621439",
+"-0.9987574009317852"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004840144273304",
+"-1.9987555922772087",
+"0.9982743260893904"
+],
+"a": [
+"1.9987565318621439",
+"-0.9987574009317852"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004840144273304",
+"-1.9987555922772087",
+"0.9982743260893904"
+],
+"a": [
+"1.9987565318621439",
+"-0.9987574009317852"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -4.5,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9997858082908568",
+"-1.998936677744574",
+"0.9991547227244055"
+],
+"a": [
+"1.998936677744574",
+"-0.9989405310152625"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 70.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000526281481656",
+"-1.9954602607311576",
+"0.9954285751655713"
+],
+"a": [
+"1.9954602607311576",
+"-0.9954812033137369"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Mongoose/The%20Mongoose%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Mongoose/The%20Mongoose%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "mongoose",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+"theMovieDB": "1294189",
+"rating": "R",
+"runtime": "99",
+"genres": [
+"Action",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Mongoose (2026) BEQ DD+",
+"digest": "652f45af8ba37682964478fc9db4504d45ef29ebab589fc884d933353ed68247",
+"created_at": 1793821731,
+"updated_at": 1793821731,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Monkey",
 "year": "2025",
 "audioTypes": [
