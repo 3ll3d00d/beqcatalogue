@@ -2282026,27 +2282026,28 @@
 "title": "X-Men: The Last Stand",
 "year": "2006",
 "audioTypes": [
-"DTS-HD MA 6.1"
+"DTS-HD MA 6.1",
+"DD+"
 ],
 "content_type": "film",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/x-men-the-last-stand/#dts-hd-ma-61",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/x-men-the-last-stand/#dts-hd-ma-61-dd",
 "filters": [
 {
 "type": "LowShelf",
 "freq": 25.0,
-"gain": 8.0,
+"gain": 9.0,
 "q": 0.75,
 "biquads": {
 "96000": {
 "b": [
-"1.0005069959941155",
-"-1.9982655815500239",
-"0.9977628251195103"
+"1.0005717245339598",
+"-1.9983145866329366",
+"0.9977473529829284"
 ],
 "a": [
-"1.9982668574314897",
-"-0.9982685452321594"
+"1.9983160353620346",
+"-0.9983176287877903"
 ]
 }
 },
@@ -2282054,19 +2282055,19 @@
 },
 {
 "type": "PeakingEQ",
-"freq": 32.0,
+"freq": 34.0,
 "gain": -1.8,
 "q": 2.2,
 "biquads": {
 "96000": {
 "b": [
-"0.9999012330982882",
-"-1.9989402418436715",
-"0.9990433929199314"
+"0.9998950636376625",
+"-1.9988737530722749",
+"0.9989836385932027"
 ],
 "a": [
-"1.9989402418436715",
-"-0.9989446260182195"
+"1.9988737530722749",
+"-0.9988787022308651"
 ]
 }
 }
@@ -2282118,14 +2282119,16 @@
 "name": "X-Men Collection"
 },
 "underlying": "X-Men- The Last Stand (2006) BEQ DTS-HD MA 6.1",
-"digest": "90b129366f902c7ab483d826d5a9b34b8ed7c3398580c5de53ad8a31c7b95639",
+"digest": "089587c7f7c27e141ecd4b77f8b38a7caa0b00fdffa218c12577a551cb4bc717",
 "created_at": 1793159350,
-"updated_at": 1793159350,
+"updated_at": 1793818519,
 "audioCodecs": [
-"DTS-HD MA"
+"DTS-HD MA",
+"DD+"
 ],
 "audioChannelCounts": [
-"6.1"
+"6.1",
+""
 ],
 "filterAuthor": "human"
 },

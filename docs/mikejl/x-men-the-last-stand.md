@@ -1,6 +1,6 @@
 # X-Men: The Last Stand
 
-## DTS-HD MA 6.1
+## DTS-HD MA 6.1, DD+
 
 **2006 • PG-13 • 1h 44m • Adventure, Action, Science Fiction • mikejl**
 
