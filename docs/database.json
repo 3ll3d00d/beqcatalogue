@@ -2060448,6 +2060448,169 @@
 "filterAuthor": "model"
 },
 {
+"title": "VisionQuest",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/visionquest/#season-01e07",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 19.13,
+"gain": 7.53,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003419955017265",
+"-1.998738966975792",
+"0.9983993881792318"
+],
+"a": [
+"1.9987396675272313",
+"-0.9987406831295194"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.13,
+"gain": 7.53,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003419955017265",
+"-1.998738966975792",
+"0.9983993881792318"
+],
+"a": [
+"1.9987396675272313",
+"-0.9987406831295194"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.13,
+"gain": 7.53,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003419955017265",
+"-1.998738966975792",
+"0.9983993881792318"
+],
+"a": [
+"1.9987396675272313",
+"-0.9987406831295194"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.13,
+"gain": 7.53,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003419955017265",
+"-1.998738966975792",
+"0.9983993881792318"
+],
+"a": [
+"1.9987396675272313",
+"-0.9987406831295194"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 3.96,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0003204421914516",
+"-1.99749634544248",
+"0.9971807395883334"
+],
+"a": [
+"1.997497230807267",
+"-0.9975002964149979"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.53,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000088636442644",
+"-1.997175659313087",
+"0.9970938671030708"
+],
+"a": [
+"1.997175659313087",
+"-0.9971825035457147"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E07%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E07%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E07",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64973735",
+"sortTitle": "visionquest",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+"theMovieDB": "213375",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "VisionQuest (2026) (Season S01E07) (+4.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "6220a77076f62877dee5b74cbaa4bf136738602882a3197e7f8e23526467cd94",
+"created_at": 1793793820,
+"updated_at": 1793793820,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Wayward",
 "year": "2025",
 "audioTypes": [
