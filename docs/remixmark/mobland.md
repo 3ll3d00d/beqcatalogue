@@ -128,28 +128,6 @@
 
 ## Season 02E01
 
-* DD+ 5.1
-
-
-**MV Adjustment:** +5.0 dB
-
-Dialnorm Compensation: 5dB AI Created
-{ data-search-exclude }
-
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64853525)
-
-* [Compare across authors](../compare/index.md?t=TV-mobland_247718)
-
-* Production Year: 2025
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01%29%20%28%2B5.0%20gain%29%20DD%2B%205.1.jpg)
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01%29%20%28%2B5.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
-
-## Season 02E01
-
 * DD+ Atmos
 
 
@@ -169,28 +147,6 @@ Dialnorm Compensation: 5dB AI Created
 
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
-
-## Season 02E01-E05
-
-* DD+ Atmos
-
-
-**MV Adjustment:** +5.0 dB
-
-Dialnorm Compensation: E01 5dB; E02 2dB; E03 4dB; E04 6dB; E05 4dB AI Created
-{ data-search-exclude }
-
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1795#post-64950481)
-
-* [Compare across authors](../compare/index.md?t=TV-mobland_247718)
-
-* Production Year: 2025
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01-E05%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos.jpg)
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01-E05%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
 ## Season 02E01-E06
 
@@ -216,28 +172,6 @@ Dialnorm Compensation: 2 dB — S02E02; 4 dB — S02E03, S02E05; 5 dB — S02E01
 
 ## Season 02E02
 
-* DD+ 5.1
-
-
-**MV Adjustment:** +4.5 dB
-
-Dialnorm Compensation: 2dB AI Created
-{ data-search-exclude }
-
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1783#post-64873959)
-
-* [Compare across authors](../compare/index.md?t=TV-mobland_247718)
-
-* Production Year: 2025
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E02%29%20%28%2B4.5%20gain%29%20DD%2B%205.1.jpg)
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E02%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
-
-## Season 02E02
-
 * DD+ Atmos
 
 
@@ -260,51 +194,7 @@ Dialnorm Compensation: 2dB AI Created
 
 ## Season 02E03
 
-* DD+ 5.1
-
-
-**MV Adjustment:** +4.5 dB
-
-Dialnorm Compensation: 4dB AI Created
-{ data-search-exclude }
-
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1786#post-64893275)
-
-* [Compare across authors](../compare/index.md?t=TV-mobland_247718)
-
-* Production Year: 2025
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E03%29%20%28%2B4.5%20gain%29%20DD%2B%205.1.jpg)
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E03%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
-
-## Season 02E04
-
-* DD+ 5.1
-
-
-**MV Adjustment:** +4.5 dB
-
-Dialnorm Compensation: 6dB AI Created
-{ data-search-exclude }
-
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1789#post-64910879)
-
-* [Compare across authors](../compare/index.md?t=TV-mobland_247718)
-
-* Production Year: 2025
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E04%29%20%28%2B4.5%20gain%29%20DD%2B%205.1.jpg)
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E04%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
-
-## Season 02E05
-
-* DD+ 5.1
+* DD+ Atmos
 
 
 **MV Adjustment:** +5.0 dB
@@ -312,17 +202,39 @@ Dialnorm Compensation: 6dB AI Created
 Dialnorm Compensation: 4dB AI Created
 { data-search-exclude }
 
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1792#post-64930885)
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64853525)
 
 * [Compare across authors](../compare/index.md?t=TV-mobland_247718)
 
 * Production Year: 2025
 
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E05%29%20%281080p%29%20%28%2B5.0%20gain%29%20DD%2B%205.1.jpg)
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E03%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos.jpg)
 
 
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E05%29%20%281080p%29%20%28%2B5.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E03%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
+## Season 02E04
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +4.5 dB
+
+Dialnorm Compensation: 6dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64853525)
+
+* [Compare across authors](../compare/index.md?t=TV-mobland_247718)
+
+* Production Year: 2025
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E04%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E04%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
 
 ## Season 02E06
 
