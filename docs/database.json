@@ -2085017,6 +2085017,170 @@
 "filterAuthor": "human"
 },
 {
+"title": "Beware Boi\u00fana",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/beware-boiuna/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001514738774269",
+"-1.9992655597124975",
+"0.9991146906992364"
+],
+"a": [
+"1.9992657105694813",
+"-0.9992660137196796"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001514738774269",
+"-1.9992655597124975",
+"0.9991146906992364"
+],
+"a": [
+"1.9992657105694813",
+"-0.9992660137196796"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": -3.3,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998281089530705",
+"-1.998907723683707",
+"0.9990842771222079"
+],
+"a": [
+"1.998907723683707",
+"-0.9989123860752783"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Beware%20Boiuna/Beware%20Boiuna%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Beware%20Boiuna/Beware%20Boiuna%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "beware boi\u00fana",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+"theMovieDB": "1244523",
+"rating": "R",
+"runtime": "104",
+"genres": [
+"Horror",
+"Thriller",
+"Action"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Beware Boi\u00fana (2026) BEQ DD+",
+"digest": "2ad9588122cb6c60086ccad1fd12abffcd37f4819abc988e73d16acee2d29e3f",
+"created_at": 1793822514,
+"updated_at": 1793822514,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Big Baby",
 "year": "2026",
 "audioTypes": [
