@@ -2288651,6 +2288651,168 @@
 "filterAuthor": "human"
 },
 {
+"title": "Black Doves",
+"year": "2024",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/black-doves/#season-02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": -7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9997152473867701",
+"-1.9983758807793595",
+"0.9986612587770852"
+],
+"a": [
+"1.9983754519614325",
+"-0.9983769349817818"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": 3.6,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001047101412437",
+"-1.9995899538558406",
+"0.999487509320164"
+],
+"a": [
+"1.9995899538558406",
+"-0.9995922194614077"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -2.7,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998468852202562",
+"-1.998848277584319",
+"0.9990069408323918"
+],
+"a": [
+"1.998848277584319",
+"-0.9988538260526477"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Black%20Doves/Black%20Doves%20S02E01-06%20(2024)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Black%20Doves/Black%20Doves%20S02E01-06%20(2024)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "02",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "black doves",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth \u2014 and vengeance.",
+"theMovieDB": "225385",
+"rating": "TV-MA",
+"genres": [
+"Action & Adventure",
+"Mystery",
+"Crime"
+],
+"underlying": "Black Doves (2024) (Season 02) (Netflix) BEQ DD+ Atmos",
+"digest": "9c5824bad1dea7913fbfb6b9f05cd58ad80914a95b6bd95de1176118125dd19a",
+"created_at": 1793884121,
+"updated_at": 1793884121,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Black Rabbit",
 "year": "2025",
 "audioTypes": [
