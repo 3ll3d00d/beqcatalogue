@@ -1927104,6 +1927104,152 @@
 "filterAuthor": "human"
 },
 {
+"title": "Shrek",
+"year": "2001",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/shrek/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.12,
+"gain": 6.14,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000275347760096",
+"-1.9987007221104578",
+"0.998427842044848"
+],
+"a": [
+"1.9987013474565622",
+"-0.9987025644588391"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.12,
+"gain": 6.14,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000275347760096",
+"-1.9987007221104578",
+"0.998427842044848"
+],
+"a": [
+"1.9987013474565622",
+"-0.9987025644588391"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 26.42,
+"gain": 6.41,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0004584336861873",
+"-1.9979448303530634",
+"0.9974907167000249"
+],
+"a": [
+"1.9979459577102832",
+"-0.9979480230289924"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -0.32,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"0.9999464927125232",
+"-1.9970345804623146",
+"0.9970949314989482"
+],
+"a": [
+"1.9970345804623146",
+"-0.9970414242114716"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 10.74,
+"gain": -0.02,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999999838155441",
+"-1.9998587676178403",
+"0.9998594235401002"
+],
+"a": [
+"1.9998587676178403",
+"-0.9998592616955412"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Shrek%20%282001%29%20%28%2B2.0%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Shrek%20%282001%29%20%28%2B2.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "2.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1803#post-64989217",
+"sortTitle": "shrek",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+"theMovieDB": "808",
+"rating": "PG",
+"runtime": "90",
+"genres": [
+"Animation",
+"Comedy",
+"Fantasy",
+"Adventure",
+"Family"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Shrek (2001) (+2.0 gain) BEQ Atmos remixmark",
+"digest": "52db5e7ac31bc79f10d32a47261a309005fc4a06dbb4c71e2272884e6ec7b479",
+"created_at": 1793844854,
+"updated_at": 1793844854,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Shrek Forever After",
 "year": "2010",
 "audioTypes": [
