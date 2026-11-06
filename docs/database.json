@@ -2264179,6 +2264179,209 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Visitor from the Future",
+"year": "2022",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-visitor-from-the-future/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": -8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9996765752586062",
+"-1.9983284996262076",
+"0.9986525147546328"
+],
+"a": [
+"1.9983280093909384",
+"-0.9983295802485084"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": -8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9996765752586062",
+"-1.9983284996262076",
+"0.9986525147546328"
+],
+"a": [
+"1.9983280093909384",
+"-0.9983295802485084"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": 6.9,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000222337287662",
+"-1.9996307610641406",
+"0.9994111005867239"
+],
+"a": [
+"1.9996307610641406",
+"-0.9996334378743859"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": -3.0,
+"q": 2.3,
+"biquads": {
+"96000": {
+"b": [
+"0.9998371133094328",
+"-1.9988798825156755",
+"0.9990474315328753"
+],
+"a": [
+"1.9988798825156755",
+"-0.9988845448423083"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000100382226949",
+"-1.9982388093327277",
+"0.9982561628486926"
+],
+"a": [
+"1.9982388093327277",
+"-0.9982662010713875"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Visitor%20From%20The%20Future/The%20Visitor%20From%20The%20Future%20(2022)%20(fr)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Visitor%20From%20The%20Future/The%20Visitor%20From%20The%20Future%20(2022)%20(fr)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "visitor from the future",
+"edition": "",
+"note": "",
+"language": "French",
+"source": "Disc",
+"overview": "In a devastated future, the apocalypse threatens the Earth. The last hope lies with a man capable of time travel. His mission: to return to the past and change the course of events. But the time police hunts him down in every era. A race against time begins for the Visitor from the Future...",
+"theMovieDB": "810389",
+"rating": "",
+"runtime": "102",
+"genres": [
+"Science Fiction",
+"Comedy",
+"Adventure"
+],
+"altTitle": "Le Visiteur du futur",
+"collection": {},
+"underlying": "The Visitor from the Future (2022) BEQ DTS-HD MA 5.1",
+"digest": "66726c8a39a522366c2f672c6fcdf86b4392bd9e67a3d2bc54fad41c377bb14b",
+"created_at": 1793968447,
+"updated_at": 1793968447,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Warrior's Way",
 "year": "2010",
 "audioTypes": [
@@ -2340810,208 +2341013,6 @@
 ],
 "audioChannelCounts": [
 ""
-],
-"filterAuthor": "human"
-},
-{
-"title": "The Visitor from the Future",
-"year": "2022",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-visitor-from-the-future",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": -8.5,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"0.9996765752586062",
-"-1.9983284996262076",
-"0.9986525147546328"
-],
-"a": [
-"1.9983280093909384",
-"-0.9983295802485084"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": -8.5,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"0.9996765752586062",
-"-1.9983284996262076",
-"0.9986525147546328"
-],
-"a": [
-"1.9983280093909384",
-"-0.9983295802485084"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000405564975543",
-"-1.998612699125038",
-"0.9982098479400572"
-],
-"a": [
-"1.9986135158305778",
-"-0.9986145962100599"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000405564975543",
-"-1.998612699125038",
-"0.9982098479400572"
-],
-"a": [
-"1.9986135158305778",
-"-0.9986145962100599"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000405564975543",
-"-1.998612699125038",
-"0.9982098479400572"
-],
-"a": [
-"1.9986135158305778",
-"-0.9986145962100599"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 25.0,
-"gain": 6.9,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000222337287662",
-"-1.9996307610641406",
-"0.9994111005867239"
-],
-"a": [
-"1.9996307610641406",
-"-0.9996334378743859"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 33.0,
-"gain": -3.0,
-"q": 2.3,
-"biquads": {
-"96000": {
-"b": [
-"0.9998371133094328",
-"-1.9988798825156755",
-"0.9990474315328753"
-],
-"a": [
-"1.9988798825156755",
-"-0.9988845448423083"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 80.0,
-"gain": 0.1,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000100382226949",
-"-1.9982388093327277",
-"0.9982561628486926"
-],
-"a": [
-"1.9982388093327277",
-"-0.9982662010713875"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Visitor%20From%20The%20Future/The%20Visitor%20From%20The%20Future%20(2022)%20(fr)%20DTS-HD%20MA%205.1.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Visitor%20From%20The%20Future/The%20Visitor%20From%20The%20Future%20(2022)%20(fr)%20DTS-HD%20MA%205.1hm.jpg"
-],
-"warning": "",
-"season": "",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "visitor from the future",
-"edition": "",
-"note": "",
-"language": "French",
-"source": "Disc",
-"overview": "In a devastated future, the apocalypse threatens the Earth. The last hope lies with a man capable of time travel. His mission: to return to the past and change the course of events. But the time police hunts him down in every era. A race against time begins for the Visitor from the Future...",
-"theMovieDB": "810389",
-"rating": "",
-"genres": [
-"Science Fiction",
-"Comedy",
-"Adventure"
-],
-"underlying": "The Visitor from the Future (2022) BEQ DTS-HD MA 5.1",
-"digest": "d3a0f9a27fdc538b46062046e39d2e1458a05b4762868c6edd52e530ff9214de",
-"created_at": 1749957051,
-"updated_at": 1749957051,
-"audioCodecs": [
-"DTS-HD MA"
-],
-"audioChannelCounts": [
-"5.1"
 ],
 "filterAuthor": "human"
 },
