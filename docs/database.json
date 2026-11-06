@@ -1878956,6 +1878956,169 @@
 "filterAuthor": "human"
 },
 {
+"title": "Heart of the Beast",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/heart-of-the-beast/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.87,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001954393202304",
+"-1.9991940488796291",
+"0.9989995252628724"
+],
+"a": [
+"1.9991942991325533",
+"-0.9991947143301787"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.87,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001954393202304",
+"-1.9991940488796291",
+"0.9989995252628724"
+],
+"a": [
+"1.9991942991325533",
+"-0.9991947143301787"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.87,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001954393202304",
+"-1.9991940488796291",
+"0.9989995252628724"
+],
+"a": [
+"1.9991942991325533",
+"-0.9991947143301787"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.54,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002808352924863",
+"-1.9991094296238692",
+"0.9988321427284287"
+],
+"a": [
+"1.9991105370122246",
+"-0.99911187063256"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 1.11,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0002506308626118",
+"-1.9963190098669648",
+"0.9960722272290672"
+],
+"a": [
+"1.9963190098669648",
+"-0.9963228580916789"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 38.0,
+"gain": 0.7,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000500926211187",
+"-1.9988000979810245",
+"0.9987561873022399"
+],
+"a": [
+"1.9988000979810245",
+"-0.9988062799233588"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Heart%20of%20the%20Beast%20%282026%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Heart%20of%20the%20Beast%20%282026%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "0.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1803#post-64993861",
+"sortTitle": "heart of the beast",
+"edition": "",
+"note": "Dialnorm Compensation: 6dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+"theMovieDB": "1263337",
+"rating": "PG-13",
+"runtime": "101",
+"genres": [
+"Adventure",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Heart of the Beast (2026) (+0.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "f0108ac236d4f05070dbe07a880ed6210ab23e8e1f5efacbea57d8abe871e4ba",
+"created_at": 1794001707,
+"updated_at": 1794001707,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Hell of a Summer",
 "year": "2025",
 "audioTypes": [
