@@ -2331539,6 +2331539,128 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Assassin",
+"year": "2025",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-assassin-TV/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -2.4,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998640114302406",
+"-1.998867890265894",
+"0.9990094273584237"
+],
+"a": [
+"1.998867890265894",
+"-0.9988734387886643"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Assassin/The%20Assassin%20S01E01-06%20(2025)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Assassin/The%20Assassin%20S01E01-06%20(2025)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "assassin",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Amazon",
+"overview": "Secluded on a remote Greek island, retired assassin Julie has a somewhat thorny reunion with her estranged son, Edward, visiting from England. Armed with questions around new information on his paternity, Edward battles to find the right time to speak to his frustratingly distant mother. But, when the moment finally presents itself, things take a deadly turn as Julie\u2019s dangerous past catches up with her and they are forced to flee the island and go on the run together.",
+"theMovieDB": "262352",
+"rating": "",
+"genres": [
+"Drama",
+"Action & Adventure"
+],
+"underlying": "The Assassin (2025) (Season 01) (Amazon) BEQ DD+",
+"digest": "e5e5b221858e7006010c06a9589e50554288ca77ef3c2ab3c9a0854278c8e41c",
+"created_at": 1793973219,
+"updated_at": 1793973219,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Beast in Me",
 "year": "2025",
 "audioTypes": [
