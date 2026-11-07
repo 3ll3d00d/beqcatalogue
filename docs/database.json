@@ -2276129,6 +2276129,131 @@
 "filterAuthor": "human"
 },
 {
+"title": "Up",
+"year": "2009",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/up/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -1.7,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999267143829195",
+"-1.999171057380445",
+"0.9992487276783095"
+],
+"a": [
+"1.999171057380445",
+"-0.999175442061229"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/U/Up/Up%20(2009)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/U/Up/Up%20(2009)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "up",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disney+",
+"overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+"theMovieDB": "14160",
+"rating": "PG",
+"runtime": "96",
+"genres": [
+"Animation",
+"Comedy",
+"Family",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Up (2009) (Disney+) BEQ DD+ Atmos",
+"digest": "d12d5cb861dfcd69ffd79505f19283821810ab4bd7084db2fc87139f1e927de9",
+"created_at": 1794087326,
+"updated_at": 1794087326,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Upgrade",
 "year": "2018",
 "audioTypes": [
