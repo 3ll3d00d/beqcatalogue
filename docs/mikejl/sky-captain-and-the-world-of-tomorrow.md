@@ -1,8 +1,8 @@
 # Sky Captain and the World of Tomorrow
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+
 
-**2004 • PG • 1h 47m • Mystery, Action, Thriller, Science Fiction, Adventure • mikejl**
+**2004 • PG • 1h 47m • Science Fiction, Adventure • mikejl**
 
 When gigantic robots attack New York City, "Sky Captain" uses his private air force to fight them off. His ex-girlfriend, reporter Polly Perkins, has been investigating the recent disappearance of prominent scientists. Suspecting a link between the global robot attacks and missing men, Sky Captain and Polly decide to work together. They fly to the Himalayas in pursuit of the mysterious Dr. Totenkopf, the mastermind behind the robots.
 { data-search-exclude }

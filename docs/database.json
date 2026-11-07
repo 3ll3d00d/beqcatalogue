@@ -2213260,11 +2213260,12 @@
 "title": "Sky Captain and the World of Tomorrow",
 "year": "2004",
 "audioTypes": [
-"DTS-HD MA 5.1"
+"DTS-HD MA 5.1",
+"DD+"
 ],
 "content_type": "film",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/sky-captain-and-the-world-of-tomorrow/#dts-hd-ma-51",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/sky-captain-and-the-world-of-tomorrow/#dts-hd-ma-51-dd",
 "filters": [
 {
 "type": "LowShelf",
@@ -2213342,9 +2213343,6 @@
 "rating": "PG",
 "runtime": "107",
 "genres": [
-"Mystery",
-"Action",
-"Thriller",
 "Science Fiction",
 "Adventure"
 ],
@@ -2213353,12 +2213351,14 @@
 "underlying": "Sky Captain and the World of Tomorrow (2004) BEQ DTS-HD MA 5.1",
 "digest": "a7554b3e8280aef564c90d626ead4b8fde65717152771fc79343b3a3ac3c8a7c",
 "created_at": 1755896059,
-"updated_at": 1755896059,
+"updated_at": 1794074026,
 "audioCodecs": [
-"DTS-HD MA"
+"DTS-HD MA",
+"DD+"
 ],
 "audioChannelCounts": [
-"5.1"
+"5.1",
+""
 ],
 "filterAuthor": "human"
 },
