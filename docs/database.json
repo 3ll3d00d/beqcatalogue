@@ -2134071,6 +2134071,208 @@
 "filterAuthor": "human"
 },
 {
+"title": "GoodFellas",
+"year": "1990",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/goodfellas/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": 6.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002535701177984",
+"-1.9994883728826915",
+"0.9992368755386184"
+],
+"a": [
+"1.9994883728826915",
+"-0.9994904456564168"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": 10.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0004575050345215",
+"-1.9995745648597345",
+"0.999119325413344"
+],
+"a": [
+"1.9995745648597345",
+"-0.9995768304478657"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 43.0,
+"gain": -2.8,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998103037457946",
+"-1.998615299668575",
+"0.9988129109940016"
+],
+"a": [
+"1.998615299668575",
+"-0.998623214739796"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Goodfellas/Goodfellas%20(1990)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Goodfellas/Goodfellas%20(1990)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "goodfellas",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+"theMovieDB": "769",
+"rating": "R",
+"runtime": "145",
+"genres": [
+"Drama",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "GoodFellas (1990) BEQ DTS-HD MA 5.1",
+"digest": "3c53cd2e8a993938b0fd10fee4eacea20eaf5c387c73c3b281a2decfc3be7329",
+"created_at": 1794071640,
+"updated_at": 1794071640,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Goody Goody",
 "year": "2026",
 "audioTypes": [
