@@ -2204036,6 +2204036,126 @@
 "filterAuthor": "human"
 },
 {
+"title": "Retribution",
+"year": "2023",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/retribution/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": -3.6,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.999846387512604",
+"-1.9990914290306578",
+"0.9992481629079881"
+],
+"a": [
+"1.9990914290306578",
+"-0.9990945504205921"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Retribution/Retribution%20(2023)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Retribution/Retribution%20(2023)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "retribution",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "",
+"theMovieDB": "",
+"rating": "",
+"runtime": "0",
+"genres": [],
+"altTitle": "",
+"collection": {},
+"underlying": "Retribution (2023) BEQ Atmos",
+"digest": "82c1871e98c9fc5a90b91ffbf251c36f244884fa0502f92d34b6675ad7722370",
+"created_at": 1794081204,
+"updated_at": 1794081204,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Return to Silent Hill",
 "year": "2026",
 "audioTypes": [
