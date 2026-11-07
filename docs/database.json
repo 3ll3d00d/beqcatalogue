@@ -2328890,6 +2328890,147 @@
 "filterAuthor": "human"
 },
 {
+"title": "Stick",
+"year": "2025",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/stick/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 6.3,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004775157666446",
+"-1.9978144465799872",
+"0.9973424654079335"
+],
+"a": [
+"1.9978158740283993",
+"-0.9978185537261659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 6.3,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004775157666446",
+"-1.9978144465799872",
+"0.9973424654079335"
+],
+"a": [
+"1.9978158740283993",
+"-0.9978185537261659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 41.0,
+"gain": -2.3,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.999863033465116",
+"-1.9988152981144278",
+"0.9989594612756871"
+],
+"a": [
+"1.9988152981144278",
+"-0.998822494740803"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 55.0,
+"gain": -0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999930968828221",
+"-1.9987809390466789",
+"0.9988007924748564"
+],
+"a": [
+"1.9987809390466789",
+"-0.9987938893576784"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Stick/Stick%20S01E01-10%20(2025)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Stick/Stick%20S01E01-10%20(2025)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "stick",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Apple TV+",
+"overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi\u2014a teenage phenom with immense potential\u2014and maybe save himself.",
+"theMovieDB": "248830",
+"rating": "TV-MA",
+"genres": [
+"Comedy",
+"Drama"
+],
+"underlying": "Stick (2025) (Season 01) (Apple TV+) BEQ DD+ Atmos",
+"digest": "f18a8bd9d3e45df4c0fbcf8e470d16a403bc880b0b551e9841803623de80abbb",
+"created_at": 1794065843,
+"updated_at": 1794065843,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Stranger Things",
 "year": "2016",
 "audioTypes": [
