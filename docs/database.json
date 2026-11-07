@@ -2179868,6 +2179868,130 @@
 "filterAuthor": "human"
 },
 {
+"title": "Mum, I'm Alien Pregnant",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/mum-im-alien-pregnant/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": -2.0,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999025015876154",
+"-1.999047788134077",
+"0.9991494012124222"
+],
+"a": [
+"1.999047788134077",
+"-0.9990519028000376"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mum%2C%20I'm%20Alien%20Pregnant/Mum%2C%20I'm%20Alien%20Pregnant%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Mum%2C%20I'm%20Alien%20Pregnant/Mum%2C%20I'm%20Alien%20Pregnant%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "mum, i'm alien pregnant",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "When a messy underachiever accidentally gets alien-pregnant, she must overcome skeptical doctors, a useless baby daddy, and her oversharing mum in order to survive and reclaim her life.",
+"theMovieDB": "1596301",
+"rating": "",
+"runtime": "95",
+"genres": [
+"Horror",
+"Science Fiction",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Mum, I'm Alien Pregnant (2026) BEQ DD+",
+"digest": "ad95d269572be2567a6166c58a498de63dd921f2d58432dabd861b73d54aac9f",
+"created_at": 1794075902,
+"updated_at": 1794075902,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Murder Mystery",
 "year": "2019",
 "audioTypes": [
