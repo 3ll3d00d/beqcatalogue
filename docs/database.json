@@ -2204156,6 +2204156,149 @@
 "filterAuthor": "human"
 },
 {
+"title": "Retribution",
+"year": "2023",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/retribution_762430/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005094982327147",
+"-1.9986900397795948",
+"0.9981835865880542"
+],
+"a": [
+"1.9986910808368978",
+"-0.9986920437634659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005094982327147",
+"-1.9986900397795948",
+"0.9981835865880542"
+],
+"a": [
+"1.9986910808368978",
+"-0.9986920437634659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": -4.3,
+"q": 2.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9997974710262671",
+"-1.9989597274392152",
+"0.9991651506795923"
+],
+"a": [
+"1.9989597274392152",
+"-0.9989626217058594"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000150609338863",
+"-1.9986914157741895",
+"0.9986917661061987"
+],
+"a": [
+"1.9986914157741895",
+"-0.9987068270400851"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Retribution/Retribution%20(2023)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/R/Retribution/Retribution%20(2023)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "retribution",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "When a mysterious caller plants a bomb under his car seat, a bank executive begins a high-speed chase across the city to complete a specific series of tasks \u2014 all with his kids trapped in the back seat.",
+"theMovieDB": "762430",
+"rating": "R",
+"runtime": "91",
+"genres": [
+"Thriller",
+"Action",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Retribution (2023) BEQ DD+",
+"digest": "02eaf839a97c964a4d0fdd142b2c0e73fe4b781f565bbde9d8d615e7017a7280",
+"created_at": 1794081793,
+"updated_at": 1794081793,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Return to Silent Hill",
 "year": "2026",
 "audioTypes": [
