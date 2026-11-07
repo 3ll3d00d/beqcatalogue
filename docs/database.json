@@ -2254028,6 +2254028,129 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Night House",
+"year": "2020",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-night-house/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -2.7,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998808955150801",
+"-1.99910506059419",
+"0.999227521988075"
+],
+"a": [
+"1.99910506059419",
+"-0.999108417503155"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000030062545675",
+"-1.9947802614526042",
+"0.9947775432360203"
+],
+"a": [
+"1.9947802614526042",
+"-0.9948076057816954"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Night%20House/The%20Night%20House%20(2020)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Night%20House/The%20Night%20House%20(2020)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "night house",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Reeling from the unexpected death of her husband, Beth is left alone in the lakeside home he built for her. She tries as best she can to keep it together \u2014 but then nightmares come. Disturbing visions of a presence in the house calling to her, beckoning her with a ghostly allure. Against the advice of her friends, she begins digging into her husband's belongings, yearning for answers. What she finds are secrets both strange and disturbing \u2014 a mystery she's determined to unravel.",
+"theMovieDB": "547565",
+"rating": "R",
+"runtime": "107",
+"genres": [
+"Horror",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Night House (2020) BEQ DD+",
+"digest": "794d2bd535d86d2e02599987637240a14bfe1e64bfd9fe5e6e970aef48d01440",
+"created_at": 1794086676,
+"updated_at": 1794086676,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Northman",
 "year": "2022",
 "audioTypes": [
