@@ -2285187,6 +2285187,113 @@
 "filterAuthor": "human"
 },
 {
+"title": "X-Men: First Class",
+"year": "2011",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/x-men-first-class/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 0.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0",
+"-1.9991272878605542",
+"0.9991277160419563"
+],
+"a": [
+"1.9991272878605542",
+"-0.9991277160419563"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": 6.0,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000057640935985",
+"-1.9998837410155135",
+"0.9998265284229507"
+],
+"a": [
+"1.9998837410155135",
+"-0.9998841693589356"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": -0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999971122235347",
+"-1.9994931830329257",
+"0.9994983363053137"
+],
+"a": [
+"1.9994931830329257",
+"-0.9994954485288482"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/X/X-Men/X-Men%20First%20Class%20(2011)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/X/X-Men/X-Men%20First%20Class%20(2011)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "x-men: first class",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+"theMovieDB": "49538",
+"rating": "PG-13",
+"runtime": "132",
+"genres": [
+"Action",
+"Science Fiction",
+"Adventure"
+],
+"altTitle": "",
+"collection": {
+"id": "748",
+"name": "X-Men Collection"
+},
+"underlying": "X-Men- First Class (2011) BEQ DTS-HD MA 5.1",
+"digest": "0a84ce9cce10994b8957258fcacd0c1e77ad7f874284ece4091a3d99f5a3f5c9",
+"created_at": 1794089041,
+"updated_at": 1794089041,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "X-Men: The Last Stand",
 "year": "2006",
 "audioTypes": [
