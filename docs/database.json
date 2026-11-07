@@ -2246949,6 +2246949,149 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Long Game",
+"year": "2024",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-long-game/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000341815888556",
+"-1.998733468502064",
+"0.9983937885459018"
+],
+"a": [
+"1.9987340861106495",
+"-0.998734986825872"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000341815888556",
+"-1.998733468502064",
+"0.9983937885459018"
+],
+"a": [
+"1.9987340861106495",
+"-0.998734986825872"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000341815888556",
+"-1.998733468502064",
+"0.9983937885459018"
+],
+"a": [
+"1.9987340861106495",
+"-0.998734986825872"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": -2.0,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999158023680574",
+"-1.99917764157628",
+"0.999265440309277"
+],
+"a": [
+"1.99917764157628",
+"-0.9991812426773344"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Long%20Game/The%20Long%20Game%20(2024)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Long%20Game/The%20Long%20Game%20(2024)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "long game",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "In a segregated Texas, five Mexican-American teenage caddies were prohibited from playing at the country club where they worked. Against all odds, they formed their own team, built a one-hole course in the fields, and won the 1957 Texas State championship. Based on a true story.",
+"theMovieDB": "1079810",
+"rating": "PG",
+"runtime": "110",
+"genres": [
+"Drama",
+"Family"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Long Game (2024) BEQ DD+",
+"digest": "cdeb8510a1a5987f148305eadf67bb935fc8ce52985b87c5dd6575326631a77a",
+"created_at": 1794066586,
+"updated_at": 1794066586,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Long Walk",
 "year": "2025",
 "audioTypes": [
