@@ -2123424,11 +2123424,12 @@
 "title": "Faces of Death",
 "year": "2026",
 "audioTypes": [
+"Atmos",
 "DTS-HD MA 5.1"
 ],
 "content_type": "film",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/faces-of-death/#dts-hd-ma-51",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/faces-of-death/#atmos-dts-hd-ma-51",
 "filters": [
 {
 "type": "LowShelf",
@@ -2123550,8 +2123551,8 @@
 }
 ],
 "images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Faces%20of%20Death/Faces%20of%20Death%20(2026)%20DTS-HD%20MA%205.1.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Faces%20of%20Death/Faces%20of%20Death%20(2026)%20DTS-HD%20MA%205.1hm.jpg"
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Faces%20of%20Death/Faces%20of%20Death%20(2026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Faces%20of%20Death/Faces%20of%20Death%20(2026)%20Atmoshm.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -2123574,14 +2123575,16 @@
 "id": "97237",
 "name": "Faces of Death Collection"
 },
-"underlying": "Faces of Death (2026) BEQ DTS-HD MA 5.1",
+"underlying": "Faces of Death (2026) BEQ Atmos",
 "digest": "02195879494d0ea2628d71830a70435194c5bcd09c43fd2a459760acb9c6f30f",
-"created_at": 1791072450,
-"updated_at": 1791072450,
+"created_at": 1794068775,
+"updated_at": 1794068775,
 "audioCodecs": [
+"Atmos",
 "DTS-HD MA"
 ],
 "audioChannelCounts": [
+"",
 "5.1"
 ],
 "filterAuthor": "human"
