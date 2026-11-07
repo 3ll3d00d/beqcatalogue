@@ -2285100,6 +2285100,93 @@
 "filterAuthor": "human"
 },
 {
+"title": "X-Men: Apocalypse",
+"year": "2016",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/x-men-apocalypse/#atmos",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": 10.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001326301240003",
+"-1.9998768953464459",
+"0.9997446935644014"
+],
+"a": [
+"1.9998768953464459",
+"-0.9998773236884018"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -0.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999924671399486",
+"-1.9993342882839844",
+"0.9993456751811821"
+],
+"a": [
+"1.9993342882839844",
+"-0.9993381423211307"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/X/X-Men/X-Men%20Apocalypse%20(2016)%20Atmoshm.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/X/X-Men/X-Men%20Apocalypse%20(2016)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "x-men: apocalypse",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+"theMovieDB": "246655",
+"rating": "PG-13",
+"runtime": "144",
+"genres": [
+"Science Fiction",
+"Fantasy",
+"Action"
+],
+"altTitle": "",
+"collection": {
+"id": "748",
+"name": "X-Men Collection"
+},
+"underlying": "X-Men- Apocalypse (2016) BEQ Atmos",
+"digest": "aefc8b48dbb58c11810dc00edae539908f576cc8f0d6afdfd792db29b32aebc8",
+"created_at": 1794088159,
+"updated_at": 1794088159,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "X-Men: The Last Stand",
 "year": "2006",
 "audioTypes": [
