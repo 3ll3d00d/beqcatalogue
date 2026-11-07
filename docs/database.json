@@ -2143509,6 +2143509,150 @@
 "title": "Hope",
 "year": "2026",
 "audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/hope/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 4.3,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001082921614965",
+"-1.9992287794829062",
+"0.9991210357875996"
+],
+"a": [
+"1.9992288865608117",
+"-0.9992292208711913"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": -1.6,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999331919135563",
+"-1.999201667423612",
+"0.9992725904927479"
+],
+"a": [
+"1.999201667423612",
+"-0.9992057824063043"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000030062545675",
+"-1.9947802614526042",
+"0.9947775432360203"
+],
+"a": [
+"1.9947802614526042",
+"-0.9948076057816954"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hope/Hope%20(2026)%20(ko)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hope/Hope%20(2026)%20(ko)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "hope",
+"edition": "",
+"note": "",
+"language": "Korean",
+"source": "Disc",
+"overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+"theMovieDB": "1058424",
+"rating": "R",
+"runtime": "157",
+"genres": [
+"Science Fiction",
+"Mystery",
+"Action"
+],
+"altTitle": "\ud638\ud504",
+"collection": {},
+"underlying": "Hope (2026) BEQ DD+",
+"digest": "fe1d688c5bd7e62f4a215d36081ec0a84e83d8f0b0ca1bb75b99ab0e6544fbe2",
+"created_at": 1794012525,
+"updated_at": 1794012525,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Hope",
+"year": "2026",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
