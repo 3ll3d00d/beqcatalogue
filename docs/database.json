@@ -1738366,6 +1738366,170 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Odyssey",
+"year": "2026",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "kaelaria",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/the-odyssey/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -5.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9998561906510622",
+"-1.998971830274409",
+"0.9991159480088919"
+],
+"a": [
+"1.9989716872567709",
+"-0.9989722816775922"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 6.3,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003023819048777",
+"-1.9986162162298704",
+"0.9983160552006147"
+],
+"a": [
+"1.9986167890243776",
+"-0.9986178643109854"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 6.3,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003023819048777",
+"-1.9986162162298704",
+"0.9983160552006147"
+],
+"a": [
+"1.9986167890243776",
+"-0.9986178643109854"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 6.3,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003023819048777",
+"-1.9986162162298704",
+"0.9983160552006147"
+],
+"a": [
+"1.9986167890243776",
+"-0.9986178643109854"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.0,
+"gain": -1.0,
+"q": 8.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999901055008877",
+"-1.9998161416986813",
+"0.9998279251295841"
+],
+"a": [
+"1.9998161416986813",
+"-0.9998180306304717"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -2.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999169220597471",
+"-1.9992535595738763",
+"0.9993404913956581"
+],
+"a": [
+"1.9992535595738763",
+"-0.9992574134554052"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/The%20Odyssey%20(2026)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/The%20Odyssey%20(2026)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "odyssey",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+"theMovieDB": "1368337",
+"rating": "R",
+"runtime": "173",
+"genres": [
+"Adventure",
+"Action",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Odyssey (2026) BEQ DTS-HD MA 5.1",
+"digest": "5660591692ae42bbce9aaf6215c389df5588d2150f0e2274a0c9128de1478d91",
+"created_at": 1794091945,
+"updated_at": 1794091945,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Old Guard 2",
 "year": "2025",
 "audioTypes": [
@@ -1958061,6 +1958225,151 @@
 ""
 ],
 "filterAuthor": "human"
+},
+{
+"title": "The Odyssey",
+"year": "2026",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-odyssey/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.96,
+"gain": 4.3,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001540827056623",
+"-1.9989025439895027",
+"0.9987504325982088"
+],
+"a": [
+"1.9989029288522653",
+"-0.9989041304411086"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.96,
+"gain": 4.3,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001540827056623",
+"-1.9989025439895027",
+"0.9987504325982088"
+],
+"a": [
+"1.9989029288522653",
+"-0.9989041304411086"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.96,
+"gain": 4.3,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001540827056623",
+"-1.9989025439895027",
+"0.9987504325982088"
+],
+"a": [
+"1.9989029288522653",
+"-0.9989041304411086"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.96,
+"gain": 4.3,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001540827056623",
+"-1.9989025439895027",
+"0.9987504325982088"
+],
+"a": [
+"1.9989029288522653",
+"-0.9989041304411086"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.04,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001740121244735",
+"-1.9972570610773188",
+"0.9970898934644334"
+],
+"a": [
+"1.9972570610773188",
+"-0.997263905588907"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Odyssey%20%282026%29%20%28-4.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Odyssey%20%282026%29%20%28-4.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "-4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1804#post-64996317",
+"sortTitle": "the odyssey",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+"theMovieDB": "1368337",
+"rating": "R",
+"runtime": "173",
+"genres": [
+"Adventure",
+"Action",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Odyssey (2026) (-4.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "b5508a5bf08dbe7232d59d526f2f85d3201055b9178874cebe613239a45945bf",
+"created_at": 1794089202,
+"updated_at": 1794089202,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
 },
 {
 "title": "The Old Guard 2",
