@@ -2140863,6 +2140863,188 @@
 "filterAuthor": "human"
 },
 {
+"title": "Heart of the Beast",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/heart-of-the-beast/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002027506418185",
+"-1.9993065836021406",
+"0.9991045116430174"
+],
+"a": [
+"1.9993067878492643",
+"-0.9993070580377119"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": -3.2,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.999853564050419",
+"-1.9990460379006916",
+"0.9991960747142702"
+],
+"a": [
+"1.9990460379006916",
+"-0.9990496387646892"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000150609338863",
+"-1.9986914157741895",
+"0.9986917661061987"
+],
+"a": [
+"1.9986914157741895",
+"-0.9987068270400851"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Heart%20Of%20the%20Beast/Heart%20of%20the%20Beast%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Heart%20Of%20the%20Beast/Heart%20of%20the%20Beast%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "heart of the beast",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+"theMovieDB": "1263337",
+"rating": "PG-13",
+"runtime": "105",
+"genres": [
+"Adventure",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Heart of the Beast (2026) BEQ DD+ Atmos",
+"digest": "10e4a89682550fe186cd1b56ac33f7f03b7d4661d9bd1d805ba1276ea7673120",
+"created_at": 1794080264,
+"updated_at": 1794080264,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Hell House LLC Origins: The Carmichael Manor",
 "year": "2023",
 "audioTypes": [
