@@ -1,6 +1,6 @@
 # The Odyssey
 
-## DTS-HD MA 5.1
+## DTS-HD MA 5.1, DD+
 
 **2026 • R • 2h 53m • Adventure, Action, Fantasy • mikejl**
 

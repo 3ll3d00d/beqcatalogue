@@ -2253409,11 +2253409,12 @@
 "title": "The Odyssey",
 "year": "2026",
 "audioTypes": [
-"DTS-HD MA 5.1"
+"DTS-HD MA 5.1",
+"DD+"
 ],
 "content_type": "film",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-odyssey/#dts-hd-ma-51",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-odyssey/#dts-hd-ma-51-dd",
 "filters": [
 {
 "type": "LowShelf",
@@ -2253520,12 +2253521,14 @@
 "underlying": "The Odyssey (2026) BEQ DTS-HD MA 5.1",
 "digest": "5bd74c0af63132067848ec8762ef75a199db61aec2b0e459e0f13fd02de55cea",
 "created_at": 1794070304,
-"updated_at": 1794070304,
+"updated_at": 1794072403,
 "audioCodecs": [
-"DTS-HD MA"
+"DTS-HD MA",
+"DD+"
 ],
 "audioChannelCounts": [
-"5.1"
+"5.1",
+""
 ],
 "filterAuthor": "human"
 },
