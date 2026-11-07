@@ -2232396,6 +2232396,94 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Dark Knight",
+"year": "2008",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-dark-knight/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000328523374608",
+"-1.9985516843199689",
+"0.9982256501640028"
+],
+"a": [
+"1.9985523400408225",
+"-0.9985535178177568"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 34.0,
+"gain": -0.6,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999743851079489",
+"-1.9992275131097377",
+"0.9992580780362796"
+],
+"a": [
+"1.9992275131097377",
+"-0.9992324631442284"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Dark%20Knight/The%20Dark%20Knight%20(2008)%20(IMAX)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Dark%20Knight/The%20Dark%20Knight%20(2008)%20(IMAX)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "dark knight",
+"edition": "IMAX",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+"theMovieDB": "155",
+"rating": "PG-13",
+"runtime": "152",
+"genres": [
+"Action",
+"Thriller",
+"Crime"
+],
+"altTitle": "",
+"collection": {
+"id": "263",
+"name": "The Dark Knight Collection"
+},
+"underlying": "The Dark Knight (2008) (IMAX) BEQ DTS-HD MA 5.1",
+"digest": "e63801fd60fe6afdb6b07a83dc71150f93e770ae69b22f3a51c70acb0ff75e57",
+"created_at": 1794084514,
+"updated_at": 1794084514,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Dark and the Wicked",
 "year": "2020",
 "audioTypes": [
