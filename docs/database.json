@@ -2149433,6 +2149433,149 @@
 "filterAuthor": "human"
 },
 {
+"title": "Immortal Combat",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/immortal-combat/#dd",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": -1.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999982411020979",
+"-1.9996756822673512",
+"0.9996941107122804"
+],
+"a": [
+"1.9996756822673512",
+"-0.9996765217332594"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004747942464156",
+"-1.9982405413540658",
+"0.9977698663344062"
+],
+"a": [
+"1.9982417324356838",
+"-0.9982434694992033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004747942464156",
+"-1.9982405413540658",
+"0.9977698663344062"
+],
+"a": [
+"1.9982417324356838",
+"-0.9982434694992033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 42.0,
+"gain": -1.2,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999321650899488",
+"-1.9989410402875432",
+"0.9990164276362729"
+],
+"a": [
+"1.9989410402875432",
+"-0.9989485927262216"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Immortal%20Combat/Immortal%20Combat%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Immortal%20Combat/Immortal%20Combat%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "immortal combat",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "History's greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.",
+"theMovieDB": "1656061",
+"rating": "PG-13",
+"runtime": "88",
+"genres": [
+"Action",
+"Science Fiction",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Immortal Combat (2026) BEQ DD+",
+"digest": "bb73ceda937353b89994d07714cfc4da6244705eaabfecd6d152727362c24ac4",
+"created_at": 1794074723,
+"updated_at": 1794074723,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "In Time",
 "year": "2011",
 "audioTypes": [
