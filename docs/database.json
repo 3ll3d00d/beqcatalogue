@@ -2166657,6 +2166657,130 @@
 "filterAuthor": "human"
 },
 {
+"title": "Legends of the Condor Heroes: The Gallants",
+"year": "2025",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/legends-of-the-condor-heroes-the-gallants/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.8,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000494102936131",
+"-1.998255608972413",
+"0.9977656970490337"
+],
+"a": [
+"1.9982568508108194",
+"-0.9982585581467586"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.8,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000494102936131",
+"-1.998255608972413",
+"0.9977656970490337"
+],
+"a": [
+"1.9982568508108194",
+"-0.9982585581467586"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -2.1,
+"q": 2.5,
+"biquads": {
+"96000": {
+"b": [
+"0.999882681946335",
+"-1.9989016107298665",
+"0.999024789938473"
+],
+"a": [
+"1.9989016107298665",
+"-0.9989074718848081"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Legends%20of%20The%20Condor%20Heroes/Legends%20of%20The%20Condor%20Heroes%20-%20The%20Gallants%20(2025)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Legends%20of%20The%20Condor%20Heroes/Legends%20of%20The%20Condor%20Heroes%20-%20The%20Gallants%20(2025)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "legends of the condor heroes: the gallants",
+"edition": "",
+"note": "",
+"language": "Mandarin",
+"source": "Disc",
+"overview": "Under Genghis Khan, the Mongolian army pushes west to destroy the Jin Dynasty, setting its sights on the Song Dynasty next. Amid internal conflicts among martial arts schools, Guo Jing unites the Central Plains' warriors to defend Xiangyang, embodying courage and loyalty in the fight for the nation.",
+"theMovieDB": "1185528",
+"rating": "R",
+"runtime": "147",
+"genres": [
+"Action",
+"Drama",
+"History"
+],
+"altTitle": "\u5c04\u96d5\u82f1\u96c4\u4f20\uff1a\u4fa0\u4e4b\u5927\u8005",
+"collection": {},
+"underlying": "Legends of the Condor Heroes- The Gallants (2025) BEQ DTS-HD MA 5.1",
+"digest": "597ff84ca5d197e3ce12606c377a9d00fba0423edd98ae8c34ba58d132977878",
+"created_at": 1794167687,
+"updated_at": 1794167687,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Let Us Prey",
 "year": "2014",
 "audioTypes": [
@@ -2313245,129 +2313369,6 @@
 ],
 "audioChannelCounts": [
 ""
-],
-"filterAuthor": "human"
-},
-{
-"title": "Legends of the Condor Heroes: The Gallants",
-"year": "2025",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/legends-of-the-condor-heroes-the-gallants",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 25.0,
-"gain": 7.8,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000494102936131",
-"-1.998255608972413",
-"0.9977656970490337"
-],
-"a": [
-"1.9982568508108194",
-"-0.9982585581467586"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 25.0,
-"gain": 7.8,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000494102936131",
-"-1.998255608972413",
-"0.9977656970490337"
-],
-"a": [
-"1.9982568508108194",
-"-0.9982585581467586"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 37.0,
-"gain": -2.1,
-"q": 2.5,
-"biquads": {
-"96000": {
-"b": [
-"0.999882681946335",
-"-1.9989016107298665",
-"0.999024789938473"
-],
-"a": [
-"1.9989016107298665",
-"-0.9989074718848081"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 90.0,
-"gain": 0.1,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000033809350989",
-"-1.994125862230346",
-"0.9941266492975938"
-],
-"a": [
-"1.994125862230346",
-"-0.9941604586485825"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Legends%20of%20The%20Condor%20Heroes/Legends%20of%20The%20Condor%20Heroes%20-%20The%20Gallants%20(2025)%20DTS-HD%20MA%205.1.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Legends%20of%20The%20Condor%20Heroes/Legends%20of%20The%20Condor%20Heroes%20-%20The%20Gallants%20(2025)%20DTS-HD%20MA%205.1hm.jpg"
-],
-"warning": "",
-"season": "",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "legends of the condor heroes: the gallants",
-"edition": "",
-"note": "",
-"language": "Mandarin",
-"source": "Disc",
-"overview": "Under Genghis Khan, the Mongolian army pushes west to destroy the Jin Dynasty, setting its sights on the Song Dynasty next. Amid internal conflicts among martial arts schools, Guo Jing unites the Central Plains' warriors to defend Xiangyang, embodying courage and loyalty in the fight for the nation.",
-"theMovieDB": "1185528",
-"rating": "R",
-"genres": [
-"Action",
-"Drama",
-"History"
-],
-"underlying": "Legends of the Condor Heroes- The Gallants (2025) BEQ DTS-HD MA 5.1",
-"digest": "c37c79763b667a45ba15b1582bfb3d622a33a5bee30be83b685634b62367fec0",
-"created_at": 1773346397,
-"updated_at": 1773346397,
-"audioCodecs": [
-"DTS-HD MA"
-],
-"audioChannelCounts": [
-"5.1"
 ],
 "filterAuthor": "human"
 },
