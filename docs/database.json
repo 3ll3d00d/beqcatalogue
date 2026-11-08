@@ -2142473,6 +2142473,168 @@
 "filterAuthor": "human"
 },
 {
+"title": "Hellfire",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/hellfire/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001514738774269",
+"-1.9992655597124975",
+"0.9991146906992364"
+],
+"a": [
+"1.9992657105694813",
+"-0.9992660137196796"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": -10.0,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9998806464222851",
+"-1.9996495090116113",
+"0.999770250260022"
+],
+"a": [
+"1.9996495090116113",
+"-0.999650896682307"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 7.3,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005543710156197",
+"-1.9978761838532892",
+"0.9973276755592553"
+],
+"a": [
+"1.997877850275979",
+"-0.9978803801521853"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 7.3,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005543710156197",
+"-1.9978761838532892",
+"0.9973276755592553"
+],
+"a": [
+"1.997877850275979",
+"-0.9978803801521853"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 43.0,
+"gain": -2.2,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998626353089225",
+"-1.9987642593472184",
+"0.9989095396994384"
+],
+"a": [
+"1.9987642593472184",
+"-0.9987721750083611"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hellfire/Hellfire%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hellfire/Hellfire%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "hellfire",
+"edition": "",
+"note": "Reduced boost at 18Hz from -5 to -15 to keep at safe levels.",
+"language": "English",
+"source": "Amazon",
+"overview": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
+"theMovieDB": "1088434",
+"rating": "R",
+"runtime": "94",
+"genres": [
+"Action",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Hellfire (2026) (Amazon) BEQ DD+",
+"digest": "ba92f7da1cfd634be467ae770177d1bf3ff8d0e6884689f0d0ddcbab6c02ebbb",
+"created_at": 1794166929,
+"updated_at": 1794166929,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Helloween",
 "year": "2025",
 "audioTypes": [
@@ -2306903,167 +2307065,6 @@
 "filterAuthor": "human"
 },
 {
-"title": "Hellfire",
-"year": "2026",
-"audioTypes": [
-"DD+"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/hellfire",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 6.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0001514738774269",
-"-1.9992655597124975",
-"0.9991146906992364"
-],
-"a": [
-"1.9992657105694813",
-"-0.9992660137196796"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 18.0,
-"gain": -10.0,
-"q": 6.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9998806464222851",
-"-1.9996495090116113",
-"0.999770250260022"
-],
-"a": [
-"1.9996495090116113",
-"-0.999650896682307"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 30.0,
-"gain": 7.3,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0005543710156197",
-"-1.9978761838532892",
-"0.9973276755592553"
-],
-"a": [
-"1.997877850275979",
-"-0.9978803801521853"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 30.0,
-"gain": 7.3,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0005543710156197",
-"-1.9978761838532892",
-"0.9973276755592553"
-],
-"a": [
-"1.997877850275979",
-"-0.9978803801521853"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 43.0,
-"gain": -2.2,
-"q": 2.6,
-"biquads": {
-"96000": {
-"b": [
-"0.9998626353089225",
-"-1.9987642593472184",
-"0.9989095396994384"
-],
-"a": [
-"1.9987642593472184",
-"-0.9987721750083611"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 100.0,
-"gain": 0.1,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000375537116137",
-"-1.9934710360146628",
-"0.9934761800497618"
-],
-"a": [
-"1.9934710360146628",
-"-0.9935137337613755"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hellfire/Hellfire%20(2026)%20DD%2B%205.1.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hellfire/Hellfire%20(2026)%20DD%2B%205.1hm.jpg"
-],
-"warning": "",
-"season": "",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "hellfire",
-"edition": "",
-"note": "Reduced boost at 18Hz from -5 to -15 to keep at safe levels.",
-"language": "English",
-"source": "Amazon",
-"overview": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
-"theMovieDB": "1088434",
-"rating": "R",
-"genres": [
-"Action",
-"Thriller"
-],
-"underlying": "Hellfire (2026) (Amazon) BEQ DD+",
-"digest": "1078c345cc6cf2913937b307dac2fd24df15de70311e61ef735d43dc75590732",
-"created_at": 1771457710,
-"updated_at": 1771457710,
-"audioCodecs": [
-"DD+"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
 "title": "High Potential",
 "year": "2024",
 "audioTypes": [
@@ -2310556,7 +2310557,7 @@
 ],
 "content_type": "TV",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/ironheart",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/ironheart/#season-01",
 "filters": [
 {
 "type": "LowShelf",
@@ -2310720,7 +2310721,7 @@
 "https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Ironheart/Ironheart%20S01E01-06%204K%20HDR%20DD%2B%20Atmoshm.jpg"
 ],
 "warning": "",
-"season": "",
+"season": "01",
 "episode": "",
 "mv": "0",
 "avs": "",
@@ -2310734,12 +2310735,13 @@
 "rating": "TV-14",
 "genres": [
 "Sci-Fi & Fantasy",
-"Crime"
+"Crime",
+"Action & Adventure"
 ],
-"underlying": "Ironheart (2025) BEQ DD+ Atmos",
-"digest": "160908f832eb5a30ddd0cc4e62132c3b3e5f0ea8aa963d997b1eb853cedf936b",
-"created_at": 1751420935,
-"updated_at": 1751420935,
+"underlying": "Ironheart (2025) (Season 01) BEQ DD+ Atmos",
+"digest": "630a8fde8c559cf54bbcfe1563de67f864923d6049893fde4eba2eb679d23db0",
+"created_at": 1794167444,
+"updated_at": 1794167444,
 "audioCodecs": [
 "DD+ Atmos"
 ],
