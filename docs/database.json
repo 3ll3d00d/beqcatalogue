@@ -2323420,7 +2323420,7 @@
 ],
 "content_type": "TV",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/pluribus",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/pluribus/#season-01",
 "filters": [
 {
 "type": "PeakingEQ",
@@ -2323544,7 +2323544,7 @@
 "https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Pluribus/Pluribus%20S01E01-09%20(2025)%20DD%2B%20Atmoshm.jpg"
 ],
 "warning": "",
-"season": "",
+"season": "01",
 "episode": "",
 "mv": "0",
 "avs": "",
@@ -2323558,13 +2323558,12 @@
 "rating": "TV-MA",
 "genres": [
 "Drama",
-"Sci-Fi & Fantasy",
-"Comedy"
+"Sci-Fi & Fantasy"
 ],
-"underlying": "Pluribus (2025) BEQ DD+ Atmos",
-"digest": "007d8410c5e67630ef159cebccf7cad5ace78bb347d82a2bd151e88d82428471",
-"created_at": 1766613179,
-"updated_at": 1766613179,
+"underlying": "Pluribus (2025) (Season 01) BEQ DD+ Atmos",
+"digest": "d622e033c3b7f481cc27711ece16fd307bfcb9c6485129a225b1437eea8f9bab",
+"created_at": 1794168002,
+"updated_at": 1794168002,
 "audioCodecs": [
 "DD+ Atmos"
 ],
