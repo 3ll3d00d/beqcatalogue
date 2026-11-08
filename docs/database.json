@@ -2099181,6 +2099181,151 @@
 "filterAuthor": "human"
 },
 {
+"title": "Christopher Robin",
+"year": "2018",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/christopher-robin/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": -2.5,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998873594411285",
+"-1.9990951419265426",
+"0.9992118972488436"
+],
+"a": [
+"1.9990951419265426",
+"-0.9990992566899721"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000030062545675",
+"-1.9947802614526042",
+"0.9947775432360203"
+],
+"a": [
+"1.9947802614526042",
+"-0.9948076057816954"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Christopher%20Robin/Christopher%20Robin%20(2018)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Christopher%20Robin/Christopher%20Robin%20(2018)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "christopher robin",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Christopher Robin, the boy who had countless adventures in the Hundred Acre Wood, has grown up and lost his way. Now it\u2019s up to his spirited and loveable stuffed animals, Winnie The Pooh, Tigger, Piglet, and the rest of the gang, to rekindle their friendship and remind him of endless days of childlike wonder and make-believe, when doing nothing was the very best something.",
+"theMovieDB": "420814",
+"rating": "PG",
+"runtime": "104",
+"genres": [
+"Adventure",
+"Comedy",
+"Family",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Christopher Robin (2018) BEQ DD+ Atmos",
+"digest": "d6d758fb5efc39835c5a5e44989ba7f8d3c61bb36bf0e4474e4b3995045e8a5c",
+"created_at": 1794112574,
+"updated_at": 1794112574,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Chronicle",
 "year": "2012",
 "audioTypes": [
