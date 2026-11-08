@@ -2080253,6 +2080253,208 @@
 "title": "Backrooms",
 "year": "2026",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/backrooms/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": -4.2,
+"q": 8.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999660486697447",
+"-1.999821657860213",
+"0.999856847064947"
+],
+"a": [
+"1.999821657860213",
+"-0.9998228957346915"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": -5.6,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9997854384044265",
+"-1.9990952361053662",
+"0.9993115104000045"
+],
+"a": [
+"1.9990952361053662",
+"-0.9990969488044312"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.4,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000030124130031",
+"-1.9987147690754172",
+"0.9986914944524752"
+],
+"a": [
+"1.9987147690754172",
+"-0.9987216185825061"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000601269835425",
+"-1.994809988069973",
+"0.9947772058230127"
+],
+"a": [
+"1.994809988069973",
+"-0.9948373328065552"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Backrooms/Backrooms%20(2026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Backrooms/Backrooms%20(2026)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "backrooms",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A strange doorway appears in the basement of a furniture showroom.",
+"theMovieDB": "1083381",
+"rating": "R",
+"runtime": "111",
+"genres": [
+"Horror",
+"Mystery",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Backrooms (2026) BEQ Atmos",
+"digest": "3dc141fd478f926553ac279bc18ae73b35feef47ea332249fadab762c5dbcd5e",
+"created_at": 1794166070,
+"updated_at": 1794166070,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Backrooms",
+"year": "2026",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
@@ -2103274,6 +2103476,209 @@
 ],
 "audioChannelCounts": [
 ""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Colossal",
+"year": "2017",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/colossal/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 4.9,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002805009261317",
+"-1.9992559635387979",
+"0.9989793164988291"
+],
+"a": [
+"1.9992559635387979",
+"-0.9992598174249605"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -7.4,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9995302407627185",
+"-1.9983560069315711",
+"0.9988313132707205"
+],
+"a": [
+"1.9983560069315711",
+"-0.9983615540334391"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000075110065843",
+"-1.9935081458550943",
+"0.9934757343308118"
+],
+"a": [
+"1.9935081458550943",
+"-0.993550844396655"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Colossal/Colossal%20(2017)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Colossal/Colossal%20(2017)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "colossal",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering.",
+"theMovieDB": "339967",
+"rating": "R",
+"runtime": "109",
+"genres": [
+"Drama",
+"Fantasy",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Colossal (2017) BEQ DTS-HD MA 5.1",
+"digest": "7b27155b0ccbb1427056343c7a0aef513ea028db9d2873636ee89975fbfd95ae",
+"created_at": 1794166141,
+"updated_at": 1794166141,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
 ],
 "filterAuthor": "human"
 },
@@ -2222190,6 +2222595,132 @@
 "filterAuthor": "human"
 },
 {
+"title": "Swapped",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/swapped/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003038272056997",
+"-1.998874265041125",
+"0.9985721256043238"
+],
+"a": [
+"1.9988747530624524",
+"-0.9988754647886955"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003038272056997",
+"-1.998874265041125",
+"0.9985721256043238"
+],
+"a": [
+"1.9988747530624524",
+"-0.9988754647886955"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 19.0,
+"gain": -4.1,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999851944269292",
+"-1.9992114787114488",
+"0.9993610802428348"
+],
+"a": [
+"1.9992114787114488",
+"-0.9992130245121268"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 45.0,
+"gain": 0.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000112975393192",
+"-1.9990212921432413",
+"0.999018664847373"
+],
+"a": [
+"1.9990212921432413",
+"-0.9990299623866924"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Swapped/Swapped%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Swapped/Swapped%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "swapped",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+"theMovieDB": "1007757",
+"rating": "PG",
+"runtime": "102",
+"genres": [
+"Animation",
+"Adventure",
+"Comedy",
+"Family",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Swapped (2026) (Netflix) BEQ DD+ Atmos",
+"digest": "558a71422a08f61409c6a9b4b5cfffc3e63c97c8332c5261fac46194a10d09d9",
+"created_at": 1794166447,
+"updated_at": 1794166447,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Sweet Girl",
 "year": "2021",
 "audioTypes": [
@@ -2237671,170 +2238202,6 @@
 "filterAuthor": "human"
 },
 {
-"title": "The Falcon and the Winter Soldier",
-"year": "2021",
-"audioTypes": [
-"DD+ Atmos"
-],
-"content_type": "film",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-falcon-and-the-winter-soldier/#dd-atmos",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 7.7,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000292552823341",
-"-1.9989507000308198",
-"0.998659647832243"
-],
-"a": [
-"1.9989511411413305",
-"-0.998951759545073"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 7.7,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000292552823341",
-"-1.9989507000308198",
-"0.998659647832243"
-],
-"a": [
-"1.9989511411413305",
-"-0.998951759545073"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 7.7,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000292552823341",
-"-1.9989507000308198",
-"0.998659647832243"
-],
-"a": [
-"1.9989511411413305",
-"-0.998951759545073"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 7.7,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000292552823341",
-"-1.9989507000308198",
-"0.998659647832243"
-],
-"a": [
-"1.9989511411413305",
-"-0.998951759545073"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 33.0,
-"gain": -0.5,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999792830519934",
-"-1.999254640605567",
-"0.9992800207543179"
-],
-"a": [
-"1.999254640605567",
-"-0.9992593038063112"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 90.0,
-"gain": 0.1,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000033809350989",
-"-1.994125862230346",
-"0.9941266492975938"
-],
-"a": [
-"1.994125862230346",
-"-0.9941604586485825"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Falcon%20and%20The%20Winter%20Soldier/The%20Falcon%20and%20The%20Winter%20Soldier%20S01E01-06%20(2021)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Falcon%20and%20The%20Winter%20Soldier/The%20Falcon%20and%20The%20Winter%20Soldier%20S01E01-06%20(2021)%20DD%2B%20Atmoshm.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "falcon and the winter soldier",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "Following the events of \u201cAvengers: Endgame\u201d, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
-"theMovieDB": "88396",
-"rating": "TV-14",
-"runtime": "0",
-"genres": [
-"Action & Adventure",
-"Drama",
-"Sci-Fi & Fantasy"
-],
-"altTitle": "",
-"collection": {},
-"underlying": "The Falcon and the Winter Soldier (2021) (Season 01) BEQ DD+ Atmos",
-"digest": "1d08e7fb6528ec09ec578a0ea16a5012fc2556cc985671208c509cf37fc1a40f",
-"created_at": 1771205963,
-"updated_at": 1771205963,
-"audioCodecs": [
-"DD+ Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
 "title": "The Fall Guy",
 "year": "2024",
 "audioTypes": [
@@ -2240428,6 +2240795,169 @@
 ],
 "audioChannelCounts": [
 "5.1"
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Gorge",
+"year": "2025",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-gorge/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9997453625689671",
+"-1.9988364588906473",
+"0.9990913370707373"
+],
+"a": [
+"1.9988361986074932",
+"-0.9988369599228577"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": 5.4,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000964690326855",
+"-1.999775357053865",
+"0.9996797275289311"
+],
+"a": [
+"1.999775357053865",
+"-0.9997761965616168"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.6,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004170771906091",
+"-1.9981945450451095",
+"0.9977813790153784"
+],
+"a": [
+"1.9981955859318556",
+"-0.9981974153192414"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.6,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004170771906091",
+"-1.9981945450451095",
+"0.9977813790153784"
+],
+"a": [
+"1.9981955859318556",
+"-0.9981974153192414"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -2.0,
+"q": 2.3,
+"biquads": {
+"96000": {
+"b": [
+"0.9998818651445818",
+"-1.998845680775329",
+"0.9989693640918678"
+],
+"a": [
+"1.998845680775329",
+"-0.9988512292364495"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Gorge/The%20Gorge%20(2025)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Gorge/The%20Gorge%20(2025)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "gorge",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+"theMovieDB": "950396",
+"rating": "PG-13",
+"runtime": "127",
+"genres": [
+"Romance",
+"Science Fiction",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Gorge (2025) BEQ DD+ Atmos",
+"digest": "fa013cb1cfb58310aa945915bd8ae34718f4755bca7fae5f8940ffcd4acf08d1",
+"created_at": 1794166297,
+"updated_at": 1794166297,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
 ],
 "filterAuthor": "human"
 },
@@ -2249974,6 +2250504,167 @@
 ],
 "audioChannelCounts": [
 ""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Man from Nowhere",
+"year": "2010",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-man-from-nowhere/#dts-hd-ma-51",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 4.5,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000102850968505",
+"-1.9996955764703253",
+"0.999594113204485"
+],
+"a": [
+"1.9996955764703253",
+"-0.9996969641729898"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006369312862577",
+"-1.9983621913423553",
+"0.9977300171552922"
+],
+"a": [
+"1.998363817728527",
+"-0.9983653220553782"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": 4.8,
+"q": 9.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000054942253071",
+"-1.9998479422394801",
+"0.9997961225575667"
+],
+"a": [
+"1.9998479422394801",
+"-0.9998510648106375"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -3.7,
+"q": 2.3,
+"biquads": {
+"96000": {
+"b": [
+"0.9998168914987403",
+"-1.9989403690937124",
+"0.999127330872776"
+],
+"a": [
+"1.9989403690937124",
+"-0.9989442223715166"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -0.1,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999962336271049",
+"-1.9993350887811405",
+"0.9993457067869328"
+],
+"a": [
+"1.9993350887811405",
+"-0.9993419404140376"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000125450273336",
+"-1.997790436234127",
+"0.9978206814698521"
+],
+"a": [
+"1.997790436234127",
+"-0.9978332264971859"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Man%20from%20Nowhere/The%20Man%20from%20Nowhere%20(2010)%20(ko)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Man%20from%20Nowhere/The%20Man%20from%20Nowhere%20(2010)%20(ko)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "man from nowhere",
+"edition": "",
+"note": "",
+"language": "Korean",
+"source": "Disc",
+"overview": "An ex-special agent is involved in a convoluted drug ring drama. He has to save a drug smuggler's innocent daughter from being the victim of her parents' fight.",
+"theMovieDB": "51608",
+"rating": "R",
+"runtime": "119",
+"genres": [
+"Action",
+"Thriller",
+"Crime"
+],
+"altTitle": "\uc544\uc800\uc528",
+"collection": {},
+"underlying": "The Man from Nowhere (2010) BEQ DTS-HD MA 5.1",
+"digest": "70aa072acc64dfee240d1acf11a3a79a70e6a5d039ceaae5977641193c39acc5",
+"created_at": 1794166353,
+"updated_at": 1794166353,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
 ],
 "filterAuthor": "human"
 },
@@ -2265126,6 +2265817,129 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Toll",
+"year": "2020",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-toll/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005094982327147",
+"-1.9986900397795948",
+"0.9981835865880542"
+],
+"a": [
+"1.9986910808368978",
+"-0.9986920437634659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005094982327147",
+"-1.9986900397795948",
+"0.9981835865880542"
+],
+"a": [
+"1.9986910808368978",
+"-0.9986920437634659"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": -5.1,
+"q": 2.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9997680742854215",
+"-1.9989528389006506",
+"0.9991874405179723"
+],
+"a": [
+"1.9989528389006506",
+"-0.9989555148033938"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000451244479436",
+"-1.99611010016764",
+"0.9960803670818985"
+],
+"a": [
+"1.99611010016764",
+"-0.996125491529842"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Toll/The%20Toll%20(2020)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Toll/The%20Toll%20(2020)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "toll",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A socially awkward driver and a weary passenger try to make it to their destination while being haunted by a supernatural threat.",
+"theMovieDB": "638045",
+"rating": "",
+"runtime": "81",
+"genres": [
+"Thriller",
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Toll (2020) BEQ DTS-HD MA 5.1",
+"digest": "e0e737440731865ff855ce62a2425e93c34abd73785636f6b75401c9380d0953",
+"created_at": 1794166504,
+"updated_at": 1794166504,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Town",
 "year": "2010",
 "audioTypes": [
@@ -2267772,226 +2268586,6 @@
 "updated_at": 1747071326,
 "audioCodecs": [
 "Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
-"title": "The Winchesters",
-"year": "2022",
-"audioTypes": [
-"DD+"
-],
-"content_type": "film",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-winchesters/#dd",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 17.0,
-"gain": 6.7,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001465973258394",
-"-1.9997465991198793",
-"0.9996012396220577"
-],
-"a": [
-"1.9997465991198793",
-"-0.9997478369478974"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003649970184785",
-"-1.998751513437105",
-"0.9983887147412537"
-],
-"a": [
-"1.9987521750144182",
-"-0.9987530501824189"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003649970184785",
-"-1.998751513437105",
-"0.9983887147412537"
-],
-"a": [
-"1.9987521750144182",
-"-0.9987530501824189"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 18.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003649970184785",
-"-1.998751513437105",
-"0.9983887147412537"
-],
-"a": [
-"1.9987521750144182",
-"-0.9987530501824189"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 21.0,
-"gain": -3.7,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999017076976319",
-"-1.9994313719674557",
-"0.999531552838179"
-],
-"a": [
-"1.9994313719674557",
-"-0.9994332605358108"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 25.0,
-"gain": -3.2,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9998989947791507",
-"-1.999341805264746",
-"0.9994454869090292"
-],
-"a": [
-"1.999341805264746",
-"-0.99934448168818"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 30.0,
-"gain": -0.8,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999547961295976",
-"-1.998968659416468",
-"0.9990177166192087"
-],
-"a": [
-"1.998968659416468",
-"-0.9989725127488062"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 45.0,
-"gain": 0.2,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000112975393192",
-"-1.9990212921432413",
-"0.999018664847373"
-],
-"a": [
-"1.9990212921432413",
-"-0.9990299623866924"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 75.0,
-"gain": 0.1,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000281882260136",
-"-1.9951073007243658",
-"0.9951031495070096"
-],
-"a": [
-"1.9951073007243658",
-"-0.9951313377330234"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Winchesters/The%20Winchesters%20S01E01-13%20(2022)%20DD%2B%205.1.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Winchesters/The%20Winchesters%20S01E01-13%20(2022)%20DD%2B%205.1hm.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "winchesters",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "Before Sam and Dean, there was John and Mary. Told from the perspective of narrator Dean Winchester, this is the epic, untold love story of how John met Mary, and how they put it all on the line to not only save their love, but the entire world.",
-"theMovieDB": "128113",
-"rating": "TV-14",
-"runtime": "0",
-"genres": [
-"Action & Adventure",
-"Sci-Fi & Fantasy",
-"Drama"
-],
-"altTitle": "",
-"collection": {},
-"underlying": "The Winchesters (2022) (Season 01) BEQ DD+",
-"digest": "5e429023513dc3945577340717cbcfc3b2e513a83747375476a8475b4b95af54",
-"created_at": 1745518152,
-"updated_at": 1745518152,
-"audioCodecs": [
-"DD+"
 ],
 "audioChannelCounts": [
 ""
@@ -2274357,6 +2274951,172 @@
 "updated_at": 1746404935,
 "audioCodecs": [
 "Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Troll 2",
+"year": "2025",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/troll-2/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001970923755157",
+"-1.9991311992061547",
+"0.9989350032086736"
+],
+"a": [
+"1.999131435333974",
+"-0.9991318594563702"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": 2.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000664717215404",
+"-1.9995363236286128",
+"0.9994723187386709"
+],
+"a": [
+"1.9995363236286128",
+"-0.9995387904602113"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -1.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999488741497865",
+"-1.9991345271351801",
+"0.9991915148232899"
+],
+"a": [
+"1.9991345271351801",
+"-0.9991403889730762"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000169293904633",
+"-1.9970413135631058",
+"0.997059031171525"
+],
+"a": [
+"1.9970413135631058",
+"-0.9970759605619883"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Troll/Troll%202%20(2025)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Troll/Troll%202%20(2025)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "troll 2",
+"edition": "",
+"note": "",
+"language": "Norwegian",
+"source": "Netflix",
+"overview": "Nora, Andreas and Captain Kris leap back into action when a dangerous new troll awakes \u2014 and this time they'll need more help to take it down.",
+"theMovieDB": "1180831",
+"rating": "PG-13",
+"runtime": "0",
+"genres": [
+"Fantasy",
+"Action",
+"Adventure"
+],
+"altTitle": "",
+"collection": {
+"id": "1180834",
+"name": "Troll Collection"
+},
+"underlying": "Troll 2 (2025) (Netflix) BEQ DD+ Atmos",
+"digest": "7d30dfbac6419bb3955708fab6d94e13fca8da0929a51c3713e758443f29f1d8",
+"created_at": 1794166571,
+"updated_at": 1794166571,
+"audioCodecs": [
+"DD+ Atmos"
 ],
 "audioChannelCounts": [
 ""
@@ -2290408,207 +2291168,6 @@
 "filterAuthor": "human"
 },
 {
-"title": "Backrooms",
-"year": "2026",
-"audioTypes": [
-"Atmos"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/backrooms-TV",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003041498537468",
-"-1.9989596998348271",
-"0.9986570767526609"
-],
-"a": [
-"1.99896015931126",
-"-0.9989607671299741"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003041498537468",
-"-1.9989596998348271",
-"0.9986570767526609"
-],
-"a": [
-"1.99896015931126",
-"-0.9989607671299741"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003041498537468",
-"-1.9989596998348271",
-"0.9986570767526609"
-],
-"a": [
-"1.99896015931126",
-"-0.9989607671299741"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003041498537468",
-"-1.9989596998348271",
-"0.9986570767526609"
-],
-"a": [
-"1.99896015931126",
-"-0.9989607671299741"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 17.0,
-"gain": -4.2,
-"q": 8.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999660486697447",
-"-1.999821657860213",
-"0.999856847064947"
-],
-"a": [
-"1.999821657860213",
-"-0.9998228957346915"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 20.0,
-"gain": -5.6,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9997854384044265",
-"-1.9990952361053662",
-"0.9993115104000045"
-],
-"a": [
-"1.9990952361053662",
-"-0.9990969488044312"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 40.0,
-"gain": 0.4,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000030124130031",
-"-1.9987147690754172",
-"0.9986914944524752"
-],
-"a": [
-"1.9987147690754172",
-"-0.9987216185825061"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 80.0,
-"gain": 0.2,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000601269835425",
-"-1.994809988069973",
-"0.9947772058230127"
-],
-"a": [
-"1.994809988069973",
-"-0.9948373328065552"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Backrooms/Backrooms%20(2026)%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Backrooms/Backrooms%20(2026)%20Atmoshm.jpg"
-],
-"warning": "",
-"season": "",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "backrooms",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "A strange doorway appears in the basement of a furniture showroom.",
-"theMovieDB": "1083381",
-"rating": "R",
-"genres": [
-"Horror",
-"Mystery",
-"Science Fiction"
-],
-"underlying": "Backrooms (2026) BEQ Atmos",
-"digest": "ef4778a7a9f89792d9d6e5fd32d545157cc3c8bdd7d11eef3251b4db4caf1e80",
-"created_at": 1787956538,
-"updated_at": 1787956538,
-"audioCodecs": [
-"Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
 "title": "Banshee",
 "year": "2013",
 "audioTypes": [
@@ -2293872,208 +2294431,6 @@
 ],
 "audioChannelCounts": [
 ""
-],
-"filterAuthor": "human"
-},
-{
-"title": "Colossal",
-"year": "2017",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/colossal-TV",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003041498537468",
-"-1.9989596998348271",
-"0.9986570767526609"
-],
-"a": [
-"1.99896015931126",
-"-0.9989607671299741"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003041498537468",
-"-1.9989596998348271",
-"0.9986570767526609"
-],
-"a": [
-"1.99896015931126",
-"-0.9989607671299741"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003041498537468",
-"-1.9989596998348271",
-"0.9986570767526609"
-],
-"a": [
-"1.99896015931126",
-"-0.9989607671299741"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 30.0,
-"gain": 4.9,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0002805009261317",
-"-1.9992559635387979",
-"0.9989793164988291"
-],
-"a": [
-"1.9992559635387979",
-"-0.9992598174249605"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 30.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0006084428963844",
-"-1.997918347186967",
-"0.9973160082053688"
-],
-"a": [
-"1.9979201841382377",
-"-0.9979226141504823"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 30.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0006084428963844",
-"-1.997918347186967",
-"0.9973160082053688"
-],
-"a": [
-"1.9979201841382377",
-"-0.9979226141504823"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 36.0,
-"gain": -7.4,
-"q": 2.2,
-"biquads": {
-"96000": {
-"b": [
-"0.9995302407627185",
-"-1.9983560069315711",
-"0.9988313132707205"
-],
-"a": [
-"1.9983560069315711",
-"-0.9983615540334391"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 100.0,
-"gain": 0.2,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000075110065843",
-"-1.9935081458550943",
-"0.9934757343308118"
-],
-"a": [
-"1.9935081458550943",
-"-0.993550844396655"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Colossal/Colossal%20(2017)%20DTS-HD%20MA%205.1.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Colossal/Colossal%20(2017)%20DTS-HD%20MA%205.1hm.jpg"
-],
-"warning": "",
-"season": "",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "colossal",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering.",
-"theMovieDB": "339967",
-"rating": "R",
-"genres": [
-"Drama",
-"Fantasy",
-"Science Fiction"
-],
-"underlying": "Colossal (2017) BEQ DTS-HD MA 5.1",
-"digest": "a079741d8a24db251ce83df7de9d02bbcbcfe01537e41e047345b44960b78c7c",
-"created_at": 1753641235,
-"updated_at": 1753641235,
-"audioCodecs": [
-"DTS-HD MA"
-],
-"audioChannelCounts": [
-"5.1"
 ],
 "filterAuthor": "human"
 },
@@ -2333096,131 +2333453,6 @@
 "filterAuthor": "human"
 },
 {
-"title": "Swapped",
-"year": "2026",
-"audioTypes": [
-"DD+ Atmos"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/swapped",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 16.0,
-"gain": 7.5,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003038272056997",
-"-1.998874265041125",
-"0.9985721256043238"
-],
-"a": [
-"1.9988747530624524",
-"-0.9988754647886955"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 16.0,
-"gain": 7.5,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003038272056997",
-"-1.998874265041125",
-"0.9985721256043238"
-],
-"a": [
-"1.9988747530624524",
-"-0.9988754647886955"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 19.0,
-"gain": -4.1,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"0.999851944269292",
-"-1.9992114787114488",
-"0.9993610802428348"
-],
-"a": [
-"1.9992114787114488",
-"-0.9992130245121268"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 45.0,
-"gain": 0.2,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000112975393192",
-"-1.9990212921432413",
-"0.999018664847373"
-],
-"a": [
-"1.9990212921432413",
-"-0.9990299623866924"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Swapped/Swapped%20(2026)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Swapped/Swapped%20(2026)%20DD%2B%20Atmoshm.jpg"
-],
-"warning": "",
-"season": "",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "swapped",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Netflix",
-"overview": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
-"theMovieDB": "1007757",
-"rating": "PG",
-"genres": [
-"Animation",
-"Adventure",
-"Comedy",
-"Family",
-"Fantasy"
-],
-"underlying": "Swapped (2026) (Netflix) BEQ DD+ Atmos",
-"digest": "1efa96c574a659beb0f6fc8db6f0d324736e201e4fbfc255a92d02e28d8dcd98",
-"created_at": 1777945020,
-"updated_at": 1777945020,
-"audioCodecs": [
-"DD+ Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
 "title": "Talamasca: The Secret Order",
 "year": "2025",
 "audioTypes": [
@@ -2337022,6 +2337254,169 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Falcon and the Winter Soldier",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-falcon-and-the-winter-soldier/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000292552823341",
+"-1.9989507000308198",
+"0.998659647832243"
+],
+"a": [
+"1.9989511411413305",
+"-0.998951759545073"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000292552823341",
+"-1.9989507000308198",
+"0.998659647832243"
+],
+"a": [
+"1.9989511411413305",
+"-0.998951759545073"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000292552823341",
+"-1.9989507000308198",
+"0.998659647832243"
+],
+"a": [
+"1.9989511411413305",
+"-0.998951759545073"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000292552823341",
+"-1.9989507000308198",
+"0.998659647832243"
+],
+"a": [
+"1.9989511411413305",
+"-0.998951759545073"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": -0.5,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999792830519934",
+"-1.999254640605567",
+"0.9992800207543179"
+],
+"a": [
+"1.999254640605567",
+"-0.9992593038063112"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Falcon%20and%20The%20Winter%20Soldier/The%20Falcon%20and%20The%20Winter%20Soldier%20S01E01-06%20(2021)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Falcon%20and%20The%20Winter%20Soldier/The%20Falcon%20and%20The%20Winter%20Soldier%20S01E01-06%20(2021)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "falcon and the winter soldier",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Following the events of \u201cAvengers: Endgame\u201d, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+"theMovieDB": "88396",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Drama",
+"Sci-Fi & Fantasy"
+],
+"underlying": "The Falcon and the Winter Soldier (2021) (Season 01) BEQ DD+ Atmos",
+"digest": "0086f35ae872fb1114d792ab091f64bdacc011e26f82372adbbba8fbe2d47cb3",
+"created_at": 1794166244,
+"updated_at": 1794166244,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Fix",
 "year": "2026",
 "audioTypes": [
@@ -2337460,168 +2337855,6 @@
 "digest": "ec9b6c14d26e32d94697916748be8910187f111911e342a89ae99fe0b5fc5cae",
 "created_at": 1788486472,
 "updated_at": 1788486472,
-"audioCodecs": [
-"DD+ Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
-"title": "The Gorge",
-"year": "2025",
-"audioTypes": [
-"DD+ Atmos"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-gorge",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": -10.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"0.9997453625689671",
-"-1.9988364588906473",
-"0.9990913370707373"
-],
-"a": [
-"1.9988361986074932",
-"-0.9988369599228577"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 14.0,
-"gain": 5.4,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000964690326855",
-"-1.999775357053865",
-"0.9996797275289311"
-],
-"a": [
-"1.999775357053865",
-"-0.9997761965616168"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 25.0,
-"gain": 6.6,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0004170771906091",
-"-1.9981945450451095",
-"0.9977813790153784"
-],
-"a": [
-"1.9981955859318556",
-"-0.9981974153192414"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 25.0,
-"gain": 6.6,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0004170771906091",
-"-1.9981945450451095",
-"0.9977813790153784"
-],
-"a": [
-"1.9981955859318556",
-"-0.9981974153192414"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 36.0,
-"gain": -2.0,
-"q": 2.3,
-"biquads": {
-"96000": {
-"b": [
-"0.9998818651445818",
-"-1.998845680775329",
-"0.9989693640918678"
-],
-"a": [
-"1.998845680775329",
-"-0.9988512292364495"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 90.0,
-"gain": 0.1,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000033809350989",
-"-1.994125862230346",
-"0.9941266492975938"
-],
-"a": [
-"1.994125862230346",
-"-0.9941604586485825"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Gorge/The%20Gorge%20(2025)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Gorge/The%20Gorge%20(2025)%20DD%2B%20Atmoshm.jpg"
-],
-"warning": "",
-"season": "",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "gorge",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
-"theMovieDB": "950396",
-"rating": "PG-13",
-"genres": [
-"Romance",
-"Science Fiction",
-"Thriller"
-],
-"underlying": "The Gorge (2025) BEQ DD+ Atmos",
-"digest": "90fe218cef15c020d51a39c0727f49710db321f4c7de22715a5ee2646a72d40b",
-"created_at": 1760192425,
-"updated_at": 1760192425,
 "audioCodecs": [
 "DD+ Atmos"
 ],
@@ -2339491,166 +2339724,6 @@
 ],
 "audioChannelCounts": [
 ""
-],
-"filterAuthor": "human"
-},
-{
-"title": "The Man from Nowhere",
-"year": "2010",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-man-from-nowhere",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 18.0,
-"gain": 4.5,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000102850968505",
-"-1.9996955764703253",
-"0.999594113204485"
-],
-"a": [
-"1.9996955764703253",
-"-0.9996969641729898"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 25.0,
-"gain": 10.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0006369312862577",
-"-1.9983621913423553",
-"0.9977300171552922"
-],
-"a": [
-"1.998363817728527",
-"-0.9983653220553782"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 27.0,
-"gain": 4.8,
-"q": 9.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000054942253071",
-"-1.9998479422394801",
-"0.9997961225575667"
-],
-"a": [
-"1.9998479422394801",
-"-0.9998510648106375"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 30.0,
-"gain": -3.7,
-"q": 2.3,
-"biquads": {
-"96000": {
-"b": [
-"0.9998168914987403",
-"-1.9989403690937124",
-"0.999127330872776"
-],
-"a": [
-"1.9989403690937124",
-"-0.9989442223715166"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 40.0,
-"gain": -0.1,
-"q": 4.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999962336271049",
-"-1.9993350887811405",
-"0.9993457067869328"
-],
-"a": [
-"1.9993350887811405",
-"-0.9993419404140376"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 100.0,
-"gain": 0.1,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000125450273336",
-"-1.997790436234127",
-"0.9978206814698521"
-],
-"a": [
-"1.997790436234127",
-"-0.9978332264971859"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Man%20from%20Nowhere/The%20Man%20from%20Nowhere%20(2010)%20(ko)%20DTS-HD%20MA%205.1.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Man%20from%20Nowhere/The%20Man%20from%20Nowhere%20(2010)%20(ko)%20DTS-HD%20MA%205.1hm.jpg"
-],
-"warning": "",
-"season": "",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "man from nowhere",
-"edition": "",
-"note": "",
-"language": "Korean",
-"source": "Disc",
-"overview": "An ex-special agent is involved in a convoluted drug ring drama. He has to save a drug smuggler's innocent daughter from being the victim of her parents' fight.",
-"theMovieDB": "51608",
-"rating": "R",
-"genres": [
-"Action",
-"Thriller",
-"Crime"
-],
-"underlying": "The Man from Nowhere (2010) BEQ DTS-HD MA 5.1",
-"digest": "7630c3a6b86834d29ffc1a445287e2db93c7808f3c566bea3b35920cffcdd4f7",
-"created_at": 1749958474,
-"updated_at": 1749958474,
-"audioCodecs": [
-"DTS-HD MA"
-],
-"audioChannelCounts": [
-"5.1"
 ],
 "filterAuthor": "human"
 },
@@ -2343538,128 +2343611,6 @@
 "filterAuthor": "human"
 },
 {
-"title": "The Toll",
-"year": "2020",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-toll",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 10.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0005094982327147",
-"-1.9986900397795948",
-"0.9981835865880542"
-],
-"a": [
-"1.9986910808368978",
-"-0.9986920437634659"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 10.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0005094982327147",
-"-1.9986900397795948",
-"0.9981835865880542"
-],
-"a": [
-"1.9986910808368978",
-"-0.9986920437634659"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 25.0,
-"gain": -5.1,
-"q": 2.1,
-"biquads": {
-"96000": {
-"b": [
-"0.9997680742854215",
-"-1.9989528389006506",
-"0.9991874405179723"
-],
-"a": [
-"1.9989528389006506",
-"-0.9989555148033938"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 60.0,
-"gain": 0.2,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000451244479436",
-"-1.99611010016764",
-"0.9960803670818985"
-],
-"a": [
-"1.99611010016764",
-"-0.996125491529842"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Toll/The%20Toll%20(2020)%20DTS-HD%20MA%205.1.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Toll/The%20Toll%20(2020)%20DTS-HD%20MA%205.1hm.jpg"
-],
-"warning": "",
-"season": "",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "toll",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "A socially awkward driver and a weary passenger try to make it to their destination while being haunted by a supernatural threat.",
-"theMovieDB": "638045",
-"rating": "",
-"genres": [
-"Thriller",
-"Horror"
-],
-"underlying": "The Toll (2020) BEQ DTS-HD MA 5.1",
-"digest": "8e705e620c90a35256d8f9fb1d94d98d1856e18996b60d723369b6c4ea14b9fc",
-"created_at": 1755174531,
-"updated_at": 1755174531,
-"audioCodecs": [
-"DTS-HD MA"
-],
-"audioChannelCounts": [
-"5.1"
-],
-"filterAuthor": "human"
-},
-{
 "title": "The Twilight Zone",
 "year": "2019",
 "audioTypes": [
@@ -2345115,6 +2345066,225 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Winchesters",
+"year": "2022",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-winchesters/#season-01",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": 6.7,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001465973258394",
+"-1.9997465991198793",
+"0.9996012396220577"
+],
+"a": [
+"1.9997465991198793",
+"-0.9997478369478974"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003649970184785",
+"-1.998751513437105",
+"0.9983887147412537"
+],
+"a": [
+"1.9987521750144182",
+"-0.9987530501824189"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003649970184785",
+"-1.998751513437105",
+"0.9983887147412537"
+],
+"a": [
+"1.9987521750144182",
+"-0.9987530501824189"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003649970184785",
+"-1.998751513437105",
+"0.9983887147412537"
+],
+"a": [
+"1.9987521750144182",
+"-0.9987530501824189"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.0,
+"gain": -3.7,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999017076976319",
+"-1.9994313719674557",
+"0.999531552838179"
+],
+"a": [
+"1.9994313719674557",
+"-0.9994332605358108"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": -3.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9998989947791507",
+"-1.999341805264746",
+"0.9994454869090292"
+],
+"a": [
+"1.999341805264746",
+"-0.99934448168818"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -0.8,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999547961295976",
+"-1.998968659416468",
+"0.9990177166192087"
+],
+"a": [
+"1.998968659416468",
+"-0.9989725127488062"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 45.0,
+"gain": 0.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000112975393192",
+"-1.9990212921432413",
+"0.999018664847373"
+],
+"a": [
+"1.9990212921432413",
+"-0.9990299623866924"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 75.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000281882260136",
+"-1.9951073007243658",
+"0.9951031495070096"
+],
+"a": [
+"1.9951073007243658",
+"-0.9951313377330234"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Winchesters/The%20Winchesters%20S01E01-13%20(2022)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Winchesters/The%20Winchesters%20S01E01-13%20(2022)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "winchesters",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Before Sam and Dean, there was John and Mary. Told from the perspective of narrator Dean Winchester, this is the epic, untold love story of how John met Mary, and how they put it all on the line to not only save their love, but the entire world.",
+"theMovieDB": "128113",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "The Winchesters (2022) (Season 01) BEQ DD+",
+"digest": "8fa3935a7899fec00876bf6873a36a7b46751ab5df9b3f8556b7c663de088909",
+"created_at": 1794166645,
+"updated_at": 1794166645,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Witcher",
 "year": "2019",
 "audioTypes": [
@@ -2345392,168 +2345562,6 @@
 "updated_at": 1790975640,
 "audioCodecs": [
 "DD+"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
-"title": "Troll 2",
-"year": "2025",
-"audioTypes": [
-"DD+ Atmos"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/troll-2",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 12.0,
-"gain": 6.5,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0001970923755157",
-"-1.9991311992061547",
-"0.9989350032086736"
-],
-"a": [
-"1.999131435333974",
-"-0.9991318594563702"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000405564975543",
-"-1.998612699125038",
-"0.9982098479400572"
-],
-"a": [
-"1.9986135158305778",
-"-0.9986145962100599"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000405564975543",
-"-1.998612699125038",
-"0.9982098479400572"
-],
-"a": [
-"1.9986135158305778",
-"-0.9986145962100599"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 24.0,
-"gain": 2.2,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000664717215404",
-"-1.9995363236286128",
-"0.9994723187386709"
-],
-"a": [
-"1.9995363236286128",
-"-0.9995387904602113"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 37.0,
-"gain": -1.1,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999488741497865",
-"-1.9991345271351801",
-"0.9991915148232899"
-],
-"a": [
-"1.9991345271351801",
-"-0.9991403889730762"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 90.0,
-"gain": 0.1,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000169293904633",
-"-1.9970413135631058",
-"0.997059031171525"
-],
-"a": [
-"1.9970413135631058",
-"-0.9970759605619883"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Troll/Troll%202%20(2025)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Troll/Troll%202%20(2025)%20DD%2B%20Atmoshm.jpg"
-],
-"warning": "",
-"season": "",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "troll 2",
-"edition": "",
-"note": "",
-"language": "Norwegian",
-"source": "Netflix",
-"overview": "Nora, Andreas and Captain Kris leap back into action when a dangerous new troll awakes \u2014 and this time they'll need more help to take it down.",
-"theMovieDB": "1180831",
-"rating": "PG-13",
-"genres": [
-"Fantasy",
-"Action",
-"Adventure"
-],
-"underlying": "Troll 2 (2025) (Netflix) BEQ DD+ Atmos",
-"digest": "2d19f43e93a8a3e7a71cec04430be47044ef7bf3d2e7d6829330b3281b6bb59e",
-"created_at": 1764599610,
-"updated_at": 1764599610,
-"audioCodecs": [
-"DD+ Atmos"
 ],
 "audioChannelCounts": [
 ""
