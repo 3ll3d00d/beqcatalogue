@@ -2110564,6 +2110564,149 @@
 "filterAuthor": "human"
 },
 {
+"title": "Dead Howling",
+"year": "2026",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/dead-howling/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -5.9,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9998510974794385",
+"-1.9989658985847651",
+"0.9991151059599067"
+],
+"a": [
+"1.9989657503610023",
+"-0.998966351663108"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006174835103199",
+"-1.998179613277051",
+"0.9975673675813358"
+],
+"a": [
+"1.9981813029609774",
+"-0.9981831614077293"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006174835103199",
+"-1.998179613277051",
+"0.9975673675813358"
+],
+"a": [
+"1.9981813029609774",
+"-0.9981831614077293"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 38.0,
+"gain": -2.9,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9998105266639886",
+"-1.9986588251012543",
+"0.9988544799426674"
+],
+"a": [
+"1.9986588251012543",
+"-0.9986650066066558"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dead%20Howling/Dead%20Howling%20(2026)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dead%20Howling/Dead%20Howling%20(2026)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "dead howling",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A werewolf hunts zombies after losing his family. He meets two humans seeking sanctuary and joins their quest, protecting them with his powers. Their journey grows perilous as zombies start evolving.",
+"theMovieDB": "1532997",
+"rating": "",
+"runtime": "103",
+"genres": [
+"Action",
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Dead Howling (2026) BEQ DTS-HD MA 5.1",
+"digest": "248fdf187ceb6cfaf14fa54376f28f14a0ddd7bce8704517509c9b2bcaefdcd5",
+"created_at": 1794199454,
+"updated_at": 1794199454,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Dead of Winter",
 "year": "2025",
 "audioTypes": [
