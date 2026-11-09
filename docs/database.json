@@ -2355131,6 +2355131,207 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Odyssey",
+"year": "2026",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "bombaycat007",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/bombaycat007/the-odyssey/#dts-hd-ma-51",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": 2.7,
+"q": 7.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000145901502844",
+"-1.9999195342098737",
+"0.9999053724106779"
+],
+"a": [
+"1.9999195342098737",
+"-0.9999199625609624"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": 5.3,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000094626923174",
+"-1.9997740651684728",
+"0.9996802777525081"
+],
+"a": [
+"1.9997740651684728",
+"-0.9997749046756822"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 17.5,
+"gain": 5.9,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0002792318772855",
+"-1.9986188675292433",
+"0.9983414768209417"
+],
+"a": [
+"1.9986193213859516",
+"-0.9986202548415188"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.5,
+"gain": 5.9,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0002792318772855",
+"-1.9986188675292433",
+"0.9983414768209417"
+],
+"a": [
+"1.9986193213859516",
+"-0.9986202548415188"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.5,
+"gain": 5.9,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0002792318772855",
+"-1.9986188675292433",
+"0.9983414768209417"
+],
+"a": [
+"1.9986193213859516",
+"-0.9986202548415188"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 5.4,
+"q": 9.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000413465112277",
+"-1.9999026902694514",
+"0.9998627316046167"
+],
+"a": [
+"1.9999026902694514",
+"-0.9999040781158443"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 21.5,
+"gain": -1.2,
+"q": 10.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999902726064316",
+"-1.9998472502685125",
+"0.9998589576447022"
+],
+"a": [
+"1.9998472502685125",
+"-0.9998492302511337"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -2.2,
+"q": 10.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999750701385213",
+"-1.999773311237484",
+"0.9998020959823962"
+],
+"a": [
+"1.999773311237484",
+"-0.9997771661209175"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/The%20Odyssey%20(2026)%20(-4%20Gain)%20DTS-HD%20MA%205.1.png",
+"https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/The%20Odyssey%20(2026)%20(-4%20Gain)%20DTS-HD%20MA%205.1%20peak%20spectrum.png"
+],
+"warning": "",
+"mv": "-4.0",
+"avs": "",
+"sortTitle": "odyssey",
+"edition": "UHD Blu-ray",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+"theMovieDB": "1368337",
+"rating": "R",
+"runtime": "173",
+"genres": [
+"Adventure",
+"Action",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Odyssey (2026) (UHD Blu-ray) (-4.0 gain) BEQ DTS-HD MA 5.1",
+"digest": "f00117150077c3b7598bed68645f006e6928054b9c7bf1a09f9f4a3be55ebe50",
+"created_at": 1794189534,
+"updated_at": 1794189534,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Princess Bride",
 "year": "1987",
 "audioTypes": [
