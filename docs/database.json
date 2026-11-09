@@ -2218480,6 +2218480,49 @@
 "filterAuthor": "human"
 },
 {
+"title": "South Solitary",
+"year": "2019",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/south-solitary/#dd",
+"filters": [],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/South%20Solitary/South%20Solitary%20(2010)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/South%20Solitary/South%20Solitary%20(2010)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "south solitary",
+"edition": "",
+"note": "Placeholder Only - No Filters Added",
+"language": "English",
+"source": "Disc",
+"overview": "Meredith is a 35 year-old unmarried woman who arrives at a remote lighthouse island 1928 with her uncle the new head keeper.",
+"theMovieDB": "50836",
+"rating": "",
+"runtime": "121",
+"genres": [
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "South Solitary (2019) BEQ DD+",
+"digest": "5f75f646cff21bf15bf1812ea16038b0cfca9759ff1dbd5d19d70b1481176cdf",
+"created_at": 1794183711,
+"updated_at": 1794183711,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Southpaw",
 "year": "2015",
 "audioTypes": [
