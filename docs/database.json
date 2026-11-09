@@ -2186361,6 +2186361,110 @@
 "filterAuthor": "human"
 },
 {
+"title": "Noah",
+"year": "2014",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/noah/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003228212617923",
+"-1.9988038689829022",
+"0.9984829529870148"
+],
+"a": [
+"1.9988044198938695",
+"-0.9988052233378397"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003228212617923",
+"-1.9988038689829022",
+"0.9984829529870148"
+],
+"a": [
+"1.9988044198938695",
+"-0.9988052233378397"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -0.3,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999860649376004",
+"-1.999173200010551",
+"0.9991929970242429"
+],
+"a": [
+"1.999173200010551",
+"-0.9991790619618433"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Noah/Noah%20(2014)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Noah/Noah%20(2014)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "noah",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A man who suffers visions of an apocalyptic deluge takes measures to protect his family from the coming flood.",
+"theMovieDB": "86834",
+"rating": "PG-13",
+"runtime": "138",
+"genres": [
+"Drama",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Noah (2014) BEQ DD+",
+"digest": "f480cf3f9e2fd765a23ff29cc857427c422120b6d4367bcdcebb355375ed8654",
+"created_at": 1794198406,
+"updated_at": 1794198406,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Nobody",
 "year": "2021",
 "audioTypes": [
