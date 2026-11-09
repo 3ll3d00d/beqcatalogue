@@ -2066898,6 +2066898,127 @@
 "filterAuthor": "human"
 },
 {
+"title": "A House on the Bayou",
+"year": "2021",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/a-house-on-the-bayou/#dd",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 19.0,
+"gain": 4.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000962755366913",
+"-1.9996692466057198",
+"0.9995745172236549"
+],
+"a": [
+"1.9996692466057198",
+"-0.9996707927603462"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 10.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0003978414810695",
+"-1.999630303129425",
+"0.9992341748058321"
+],
+"a": [
+"1.999630303129425",
+"-0.9996320162869015"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 43.0,
+"gain": -0.9,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999392579209174",
+"-1.9987578512824868",
+"0.9988265089973346"
+],
+"a": [
+"1.9987578512824868",
+"-0.9987657669182518"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": -0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999323836166903",
+"-1.9940244450412579",
+"0.9941266560833006"
+],
+"a": [
+"1.9940244450412579",
+"-0.9940590396999909"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20House%20on%20the%20Bayou/A%20House%20on%20the%20Bayou%20(2021)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20House%20on%20the%20Bayou/A%20House%20on%20the%20Bayou%20(2021)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "a house on the bayou",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "In an effort to reconnect and mend their relationship, a troubled couple and their preteen daughter seek an idyllic getaway to a remote mansion in rural Louisiana. But when unexpected visitors arrive, their facade of family unity starts to unravel, as terrifying secrets come to light.",
+"theMovieDB": "808090",
+"rating": "NR",
+"runtime": "89",
+"genres": [
+"Horror",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "A House on the Bayou (2021) BEQ DD+",
+"digest": "490850f3c7473e5916b1ad5533db2234297ec64edcff8f2127352ffafdf6b8a0",
+"created_at": 1794200214,
+"updated_at": 1794200214,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "A Legend",
 "year": "2024",
 "audioTypes": [
