@@ -2190338,6 +2190338,171 @@
 "filterAuthor": "human"
 },
 {
+"title": "Once Upon a Time in Venice",
+"year": "2017",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/once-upon-a-time-in-venice/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003820885611732",
+"-1.9990177449462851",
+"0.9986373695008236"
+],
+"a": [
+"1.9990183306367637",
+"-0.9990188723715183"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003820885611732",
+"-1.9990177449462851",
+"0.9986373695008236"
+],
+"a": [
+"1.9990183306367637",
+"-0.9990188723715183"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006648117607675",
+"-1.997535984256895",
+"0.9968792433453211"
+],
+"a": [
+"1.9975383179570492",
+"-0.997541721405934"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006648117607675",
+"-1.997535984256895",
+"0.9968792433453211"
+],
+"a": [
+"1.9975383179570492",
+"-0.997541721405934"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 48.0,
+"gain": -2.7,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998115760950583",
+"-1.998579649289402",
+"0.9987779358301533"
+],
+"a": [
+"1.998579649289402",
+"-0.9985895119252115"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 110.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000412956283398",
+"-1.992815783498633",
+"0.9928261353553952"
+],
+"a": [
+"1.992815783498633",
+"-0.992867430983735"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Once%20Upon%20a%20Time%20in%20Venice/Once%20Upon%20a%20Time%20in%20Venice%20(2017)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Once%20Upon%20a%20Time%20in%20Venice/Once%20Upon%20a%20Time%20in%20Venice%20(2017)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "once upon a time in venice",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Steve Ford is a private detective in Venice Beach, Calif., who's good with the ladies, bad with the punches and wild about his dog Buddy. When local thugs steal Buddy, Ford turns to Spyder, their devious leader, and forges an unlikely alliance. With help from his best friend, Steve pulls out the big guns to retrieve Spyder's stolen cash and cocaine and save Buddy.",
+"theMovieDB": "345915",
+"rating": "R",
+"runtime": "94",
+"genres": [
+"Action",
+"Comedy",
+"Thriller",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Once Upon a Time in Venice (2017) BEQ DTS-HD MA 5.1",
+"digest": "a5eba56d5cb8caaf2a3dafa31e14c39275b397b8d869eacd00e83931467968ad",
+"created_at": 1794192752,
+"updated_at": 1794192752,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "One Battle After Another",
 "year": "2025",
 "audioTypes": [
