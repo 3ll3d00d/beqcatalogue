@@ -2194235,6 +2194235,107 @@
 "filterAuthor": "human"
 },
 {
+"title": "Other Mommy",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/other-mommy/#dd-atmos",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": -1.2,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999841654546578",
+"-1.9997537329458521",
+"0.9997704069898682"
+],
+"a": [
+"1.9997537329458521",
+"-0.9997545724445261"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 7.5,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002913681334828",
+"-1.9995733580301547",
+"0.9992837030053613"
+],
+"a": [
+"1.9995733580301547",
+"-0.9995750711388443"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -1.6,
+"q": 1.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9998994488622434",
+"-1.9988007904569876",
+"0.9989051946034879"
+],
+"a": [
+"1.9988007904569876",
+"-0.9988046434657315"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Other%20Mommy/Other%20Mommy%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/O/Other%20Mommy/Other%20Mommy%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "other mommy",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+"theMovieDB": "1400837",
+"rating": "R",
+"runtime": "93",
+"genres": [
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Other Mommy (2026) BEQ DD+ Atmos",
+"digest": "be98dcfc56629b2ec0581be2ad74195e89ea190c206dba2019d9a6d8036a956e",
+"created_at": 1794336533,
+"updated_at": 1794336533,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Outcome",
 "year": "2026",
 "audioTypes": [
