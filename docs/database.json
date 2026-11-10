@@ -2224154,6 +2224154,148 @@
 "filterAuthor": "human"
 },
 {
+"title": "Swipe Right on the Devil",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/swipe-right-on-the-devil/#dd",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": 1.7,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000470341160337",
+"-1.9995628007681958",
+"0.9995178395030431"
+],
+"a": [
+"1.9995628007681958",
+"-0.9995648736190769"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -3.7,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9997958187070582",
+"-1.9988183357384974",
+"0.999026900938617"
+],
+"a": [
+"1.9988183357384974",
+"-0.9988227196456753"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Swipe%20Right%20on%20the%20Devil/Swipe%20Right%20on%20the%20Devil%20S01E01-03%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Swipe%20Right%20on%20the%20Devil/Swipe%20Right%20on%20the%20Devil%20S01E01-03%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "swipe right on the devil",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Revisits the 2017 murder of 24-year-old Sydney Loofe, who disappeared and was later found dead after going on a Tinder date with Bailey Boswell.",
+"theMovieDB": "337609",
+"rating": "",
+"runtime": "0",
+"genres": [
+"Documentary",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Swipe Right on the Devil (2026) (Season 01) BEQ DD+",
+"digest": "8d25fa784aafda7ffd243ee84852fabc3aa5d17ed72c2bdcdb26f7c5a09639c6",
+"created_at": 1794338162,
+"updated_at": 1794338162,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "TRON: Ares",
 "year": "2025",
 "audioTypes": [
