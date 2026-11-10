@@ -1907293,6 +1907293,150 @@
 "filterAuthor": "human"
 },
 {
+"title": "National Treasure",
+"year": "2004",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/national-treasure/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 24.56,
+"gain": 6.48,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0003018371609629",
+"-1.9986641833514027",
+"0.9983660957859819"
+],
+"a": [
+"1.998665169041357",
+"-0.9986669472569908"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 24.56,
+"gain": 6.48,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0003018371609629",
+"-1.9986641833514027",
+"0.9983660957859819"
+],
+"a": [
+"1.998665169041357",
+"-0.9986669472569908"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 3.68,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000297693415816",
+"-1.997476158131158",
+"0.9971832236767736"
+],
+"a": [
+"1.9974769799177217",
+"-0.9974800953060254"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.31,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002192697735597",
+"-1.997299200933047",
+"0.9970867758154871"
+],
+"a": [
+"1.997299200933047",
+"-0.9973060455890468"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 22.46,
+"gain": -0.09,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999984770550405",
+"-1.9997023553488058",
+"0.9997060388845926"
+],
+"a": [
+"1.9997023553488058",
+"-0.9997045159396332"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/National%20Treasure%20%282004%29%20%28%2B3.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/National%20Treasure%20%282004%29%20%28%2B3.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "3.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1804#post-65003289",
+"sortTitle": "national treasure",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Modern treasure hunters, led by archaeologist Ben Gates, search for a chest of riches rumored to have been stashed away by George Washington, Thomas Jefferson and Benjamin Franklin during the Revolutionary War. The chest's whereabouts may lie in secret clues embedded in the Constitution and the Declaration of Independence, and Gates is in a race to find the gold before his enemies do.",
+"theMovieDB": "2059",
+"rating": "PG",
+"runtime": "131",
+"genres": [
+"Adventure",
+"Action",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "National Treasure (2004) (+3.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "c400a56c149e29f3195ee8699efe3c0a04d43fb11834868da77eac5279299c53",
+"created_at": 1794320533,
+"updated_at": 1794320533,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Night Always Comes",
 "year": "2025",
 "audioTypes": [
