@@ -2125487,6 +2125487,151 @@
 "filterAuthor": "human"
 },
 {
+"title": "Fall 2: Deadpoint",
+"year": "2026",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/fall-2-deadpoint/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -2.9,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998734006398364",
+"-1.9991041511897516",
+"0.9992346041434353"
+],
+"a": [
+"1.9991041511897516",
+"-0.999108004783272"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 75.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000281882260136",
+"-1.9951073007243658",
+"0.9951031495070096"
+],
+"a": [
+"1.9951073007243658",
+"-0.9951313377330234"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Fall/Fall%202%20-%20Deadpoint%20(2026)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Fall/Fall%202%20-%20Deadpoint%20(2026)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "fall 2: deadpoint",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+"theMovieDB": "1101412",
+"rating": "PG-13",
+"runtime": "98",
+"genres": [
+"Thriller"
+],
+"altTitle": "",
+"collection": {
+"id": "1102372",
+"name": "Fall Collection"
+},
+"underlying": "Fall 2- Deadpoint (2026) BEQ DTS-HD MA 5.1",
+"digest": "23eefe6736f250d82891c33720eccce4423c3f8160a79a27392338e615cf4842",
+"created_at": 1794347867,
+"updated_at": 1794347867,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Fantastic Beasts and Where to Find Them",
 "year": "2016",
 "audioTypes": [
