@@ -2252065,6 +2252065,130 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Machine",
+"year": "2023",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-machine/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005393038550634",
+"-1.9982902616225218",
+"0.9977553211825778"
+],
+"a": [
+"1.9982916233627754",
+"-0.998293263297388"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005393038550634",
+"-1.9982902616225218",
+"0.9977553211825778"
+],
+"a": [
+"1.9982916233627754",
+"-0.998293263297388"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -2.7,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9998376111685857",
+"-1.9987791588048196",
+"0.9989467919555322"
+],
+"a": [
+"1.9987791588048196",
+"-0.9987844031241178"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Machine/The%20Machine%20(2023)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Machine/The%20Machine%20(2023)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "machine",
+"edition": "",
+"note": "",
+"language": "Danish",
+"source": "Disc",
+"overview": "Bert Kreischer faces a familial crisis and the arrival of his estranged father when the ghost of his booze-soaked past arrives: a murderous mobster hellbent on kidnapping Bert back to the motherland to atone for his crimes. Together, he and his father must retrace the steps of his younger self in the midst of a war between a sociopathic crime family while they attempt to find common ground.",
+"theMovieDB": "647250",
+"rating": "R",
+"runtime": "112",
+"genres": [
+"Comedy",
+"Action",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Machine (2023) BEQ DD+ Atmos",
+"digest": "a82c1b8ed5222cf368bbcda33702014c25244847732fa747929b27c072c51736",
+"created_at": 1794403058,
+"updated_at": 1794403058,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Magic Faraway Tree",
 "year": "2026",
 "audioTypes": [
@@ -2269069,6 +2269193,168 @@
 "updated_at": 1793200292,
 "audioCodecs": [
 "DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Unforgivable",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-unforgivable/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -1.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999577831977805",
+"-1.9993423033134792",
+"0.9993878774230434"
+],
+"a": [
+"1.9993423033134792",
+"-0.9993456606208236"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -1.4,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999321408483711",
+"-1.9990827451527902",
+"0.9991561534235909"
+],
+"a": [
+"1.9990827451527902",
+"-0.9990882942719619"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Unforgivable/The%20Unforgivable%20(2021)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Unforgivable/The%20Unforgivable%20(2021)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "unforgivable",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A woman is released from prison after serving a sentence for a violent crime and re-enters a society that refuses to forgive her past.",
+"theMovieDB": "645886",
+"rating": "R",
+"runtime": "112",
+"genres": [
+"Drama",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Unforgivable (2021) BEQ DD+ Atmos",
+"digest": "311d6e51ebb36e6d8e3fea1f94822d1d8e3f5516c7635e07b275fdccd593b619",
+"created_at": 1794403058,
+"updated_at": 1794403058,
+"audioCodecs": [
+"DD+ Atmos"
 ],
 "audioChannelCounts": [
 ""
