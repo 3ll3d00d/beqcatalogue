@@ -2334868,6 +2334868,453 @@
 "filterAuthor": "human"
 },
 {
+"title": "SurrealEstate",
+"year": "2017",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/surrealestate/#season-01",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": 6.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001075910061197",
+"-1.9997829541593277",
+"0.999676202664149"
+],
+"a": [
+"1.9997829541593277",
+"-0.9997837936702687"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": -3.4,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998760881863952",
+"-1.9992322400493858",
+"0.9993588281397547"
+],
+"a": [
+"1.9992322400493858",
+"-0.9992349163261499"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000062759468742",
+"-1.9989053168736326",
+"0.9989097443190893"
+],
+"a": [
+"1.9989053168736326",
+"-0.9989160202659637"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000030062545675",
+"-1.9947802614526042",
+"0.9947775432360203"
+],
+"a": [
+"1.9947802614526042",
+"-0.9948076057816954"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/SurrealEstate/SurrealEstate%20S01E01-10%20(2017)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/SurrealEstate/SurrealEstate%20S01E01-10%20(2017)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "surrealestate",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disney+",
+"overview": "Aided by his own remarkable abilities and an eclectic team of associates, real estate agent Luke Roman specializes in \u201cmetaphysically engaged properties,\u201d aka haunted houses. Together they investigate, clear and close the houses nobody else can.",
+"theMovieDB": "106148",
+"rating": "TV-14",
+"genres": [
+"Drama",
+"Mystery",
+"Sci-Fi & Fantasy"
+],
+"underlying": "SurrealEstate (2017) (Season 01) (Disney+) BEQ DD+",
+"digest": "4dd776636145f7e0bc34a54b66b1f9a076ad878a15330521ef33534f75174299",
+"created_at": 1794363620,
+"updated_at": 1794363620,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "SurrealEstate",
+"year": "2017",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/surrealestate/#season-02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004417698531114",
+"-1.998640279146476",
+"0.998201334708927"
+],
+"a": [
+"1.9986411729916933",
+"-0.9986422107168208"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004417698531114",
+"-1.998640279146476",
+"0.998201334708927"
+],
+"a": [
+"1.9986411729916933",
+"-0.9986422107168208"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": -1.9,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.999914516458398",
+"-1.9991257080024925",
+"0.9992153063704385"
+],
+"a": [
+"1.9991257080024925",
+"-0.9991298228288366"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/SurrealEstate/SurrealEstate%20S02E01-10%20(2017)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/SurrealEstate/SurrealEstate%20S02E01-10%20(2017)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "02",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "surrealestate",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disney+",
+"overview": "Aided by his own remarkable abilities and an eclectic team of associates, real estate agent Luke Roman specializes in \u201cmetaphysically engaged properties,\u201d aka haunted houses. Together they investigate, clear and close the houses nobody else can.",
+"theMovieDB": "106148",
+"rating": "TV-14",
+"genres": [
+"Drama",
+"Mystery",
+"Sci-Fi & Fantasy"
+],
+"underlying": "SurrealEstate (2017) (Season 02) (Disney+) BEQ DD+",
+"digest": "350e4dd4eff0823894bfe811e157e49456d12c71f9edb0ac5e59962af7cf284b",
+"created_at": 1794363620,
+"updated_at": 1794363620,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "SurrealEstate",
+"year": "2017",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/surrealestate/#season-03",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": -2.1,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999054769503917",
+"-1.9991156362812432",
+"0.9992142741364649"
+],
+"a": [
+"1.9991156362812432",
+"-0.9991197510868568"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/SurrealEstate/SurrealEstate%20S03E01-10%20(2017)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/SurrealEstate/SurrealEstate%20S03E01-10%20(2017)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "03",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "surrealestate",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disney+",
+"overview": "Aided by his own remarkable abilities and an eclectic team of associates, real estate agent Luke Roman specializes in \u201cmetaphysically engaged properties,\u201d aka haunted houses. Together they investigate, clear and close the houses nobody else can.",
+"theMovieDB": "106148",
+"rating": "TV-14",
+"genres": [
+"Drama",
+"Mystery",
+"Sci-Fi & Fantasy"
+],
+"underlying": "SurrealEstate (2017) (Season 03) (Disney+) BEQ DD+",
+"digest": "e88dce08d353a152ee1da755e6ea72bfc5433250777fd8ea8ad1afcb93163697",
+"created_at": 1794363620,
+"updated_at": 1794363620,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Talamasca: The Secret Order",
 "year": "2025",
 "audioTypes": [
