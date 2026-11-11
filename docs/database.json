@@ -2118772,6 +2118772,129 @@
 "filterAuthor": "human"
 },
 {
+"title": "Drive - The Pretenders",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/drive-the-pretenders/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005717245339598",
+"-1.9983145866329366",
+"0.9977473529829284"
+],
+"a": [
+"1.9983160353620346",
+"-0.9983176287877903"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005717245339598",
+"-1.9983145866329366",
+"0.9977473529829284"
+],
+"a": [
+"1.9983160353620346",
+"-0.9983176287877903"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -2.7,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998468852202562",
+"-1.998848277584319",
+"0.9990069408323918"
+],
+"a": [
+"1.998848277584319",
+"-0.9988538260526477"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Drive%20-%20The%20Pretenders/Drive%20The%20Pretenders%20(2026)%20(de)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Drive%20-%20The%20Pretenders/Drive%20The%20Pretenders%20(2026)%20(de)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "drive - the pretenders",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Amazon",
+"overview": "A young mechanic fakes an engagement with racing's most scandalous star \u2014 officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything \u2014 including what's already become so much more than just a deal.",
+"theMovieDB": "1596275",
+"rating": "R",
+"runtime": "103",
+"genres": [
+"Romance",
+"Thriller"
+],
+"altTitle": "Drive \u2013 The Pretenders",
+"collection": {},
+"underlying": "Drive - The Pretenders (2026) (Amazon) BEQ DD+ Atmos",
+"digest": "0bb7685cccb23a51eebaebd938369e7060457eedc1c8367d5fa759a60e5f7910",
+"created_at": 1794404867,
+"updated_at": 1794404867,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Drop",
 "year": "2025",
 "audioTypes": [
@@ -2135246,6 +2135369,231 @@
 "updated_at": 1763573555,
 "audioCodecs": [
 "Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Godzilla x Kong: The New Empire",
+"year": "2024",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/godzilla-x-kong-the-new-empire/#dd-atmos",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": 8.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000218490732978",
+"-1.9997101299040705",
+"0.9994924786514618"
+],
+"a": [
+"1.9997101299040705",
+"-0.9997109693844399"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000362494692242",
+"-1.9990035467795435",
+"0.9986427165865691"
+],
+"a": [
+"1.999004100254313",
+"-0.9990046578040415"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000362494692242",
+"-1.9990035467795435",
+"0.9986427165865691"
+],
+"a": [
+"1.999004100254313",
+"-0.9990046578040415"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000362494692242",
+"-1.9990035467795435",
+"0.9986427165865691"
+],
+"a": [
+"1.999004100254313",
+"-0.9990046578040415"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -5.2,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9997681233790889",
+"-1.9989671309542472",
+"0.9992023642525112"
+],
+"a": [
+"1.9989671309542472",
+"-0.9989704876316001"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000075303140679",
+"-1.998683955117732",
+"0.9986918360120328"
+],
+"a": [
+"1.998683955117732",
+"-0.9986993663261007"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Godzilla%20x%20Kong%20-%20The%20New%20Empire/Godzilla%20x%20Kong%20-%20The%20New%20Empire%20(2024)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Godzilla%20x%20Kong%20-%20The%20New%20Empire/Godzilla%20x%20Kong%20-%20The%20New%20Empire%20(2024)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "godzilla x kong: the new empire",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence \u2013 and our own.",
+"theMovieDB": "823464",
+"rating": "PG-13",
+"runtime": "115",
+"genres": [
+"Action",
+"Adventure",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "1539140",
+"name": "Godzilla x Kong Collection"
+},
+"underlying": "Godzilla x Kong- The New Empire (2024) BEQ DD+ Atmos",
+"digest": "2d4d7658e9dd6cbcd221f259dcf5faf204302a71b588483ad193e5f73ea9c9de",
+"created_at": 1794404836,
+"updated_at": 1794404836,
+"audioCodecs": [
+"DD+ Atmos"
 ],
 "audioChannelCounts": [
 ""

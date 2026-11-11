@@ -14,3 +14,17 @@ Following their explosive showdown, Godzilla and Kong must reunite against a col
 
 ![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Godzilla%20x%20Kong%20-%20The%20New%20Empire/Godzilla%20x%20Kong%20-%20The%20New%20Empire%20(2024)%20Atmoshm.jpg)
 
+## DD+ Atmos
+
+**2024 • PG-13 • 1h 55m • Action, Adventure, Science Fiction • mikejl**
+
+Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/823464)  [Compare across authors](../compare/index.md?t=film-godzilla-x-kong-the-new-empire_823464)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Godzilla%20x%20Kong%20-%20The%20New%20Empire/Godzilla%20x%20Kong%20-%20The%20New%20Empire%20(2024)%20DD%2B%20Atmos.jpg)
+
+![img 3](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Godzilla%20x%20Kong%20-%20The%20New%20Empire/Godzilla%20x%20Kong%20-%20The%20New%20Empire%20(2024)%20DD%2B%20Atmoshm.jpg)
+
