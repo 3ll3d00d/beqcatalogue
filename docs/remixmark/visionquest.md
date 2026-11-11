@@ -2,6 +2,28 @@
 
 * Author: remixmark
 
+## Season 01
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +4.0 dB
+
+Dialnorm Compensation: 4 dB — S01E01–S01E08 AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1805#post-65006441)
+
+* [Compare across authors](../compare/index.md?t=TV-visionquest_213375)
+
+* Production Year: 2026
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%207a58ffc60744%29.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%207a58ffc60744%29.jpg)
+
 ## Season 01E01
 
 * DD+ Atmos
@@ -23,28 +45,6 @@ Dialnorm Compensation: 4dB AI Created
 
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E01%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
-
-## Season 01E01-E07
-
-* DD+ Atmos
-
-
-**MV Adjustment:** +4.5 dB
-
-Dialnorm Compensation: 4 dB — S01E01–S01E07 AI Created
-{ data-search-exclude }
-
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1803#post-64987359)
-
-* [Compare across authors](../compare/index.md?t=TV-visionquest_213375)
-
-* Production Year: 2026
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E01-E07%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%20832a1ca1a98d%29.jpg)
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E01-E07%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%20832a1ca1a98d%29.jpg)
 
 ## Season 01E02
 

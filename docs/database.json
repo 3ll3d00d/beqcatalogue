@@ -2059839,6 +2059839,168 @@
 ],
 "content_type": "TV",
 "author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/visionquest/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.15,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0001914655138793",
+"-1.999098403458078",
+"0.9989078164286508"
+],
+"a": [
+"1.9990986263267976",
+"-0.999099059073811"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.15,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0001914655138793",
+"-1.999098403458078",
+"0.9989078164286508"
+],
+"a": [
+"1.9990986263267976",
+"-0.999099059073811"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.15,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0001914655138793",
+"-1.999098403458078",
+"0.9989078164286508"
+],
+"a": [
+"1.9990986263267976",
+"-0.999099059073811"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 20.41,
+"gain": 0.51,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000065364444355",
+"-1.9997820418184904",
+"0.99977728962638"
+],
+"a": [
+"1.9997820418184904",
+"-0.9997838260708156"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -0.25,
+"q": 2.79,
+"biquads": {
+"96000": {
+"b": [
+"0.9999898753248655",
+"-1.9992824383330314",
+"0.9992964169453632"
+],
+"a": [
+"1.9992824383330314",
+"-0.9992862922702289"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.16,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0000557788898183",
+"-1.9991573925482855",
+"0.9991020985385514"
+],
+"a": [
+"1.9991574459262826",
+"-0.9991578240503721"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%207a58ffc60744%29.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%207a58ffc60744%29.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1805#post-65006441",
+"sortTitle": "visionquest",
+"edition": "",
+"note": "Dialnorm Compensation: 4 dB \u2014 S01E01\u2013S01E08 AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+"theMovieDB": "213375",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "VisionQuest (2026) (Season S01) BEQ DD+ Atmos remixmark",
+"digest": "0483f174d8df77abb34c1d8453e89df903926277379fb771e302c8ab1e925af0",
+"created_at": 1793801556,
+"updated_at": 1794414043,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "VisionQuest",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/visionquest/#season-01e01",
 "filters": [
 {
@@ -2060045,148 +2060207,6 @@
 "digest": "1908ec1899211f2900a71e5a683111fbb0c1b490c19fd6e73c50c37be83ea049",
 "created_at": 1793366928,
 "updated_at": 1793366928,
-"audioCodecs": [
-"DD+ Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "model"
-},
-{
-"title": "VisionQuest",
-"year": "2026",
-"audioTypes": [
-"DD+ Atmos"
-],
-"content_type": "TV",
-"author": "remixmark",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/visionquest/#season-01e01-e07",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 4.79,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001131695338856",
-"-1.9992870488179928",
-"0.9991744434573955"
-],
-"a": [
-"1.999287168393726",
-"-0.9992874934155479"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 4.79,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001131695338856",
-"-1.9992870488179928",
-"0.9991744434573955"
-],
-"a": [
-"1.999287168393726",
-"-0.9992874934155479"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 17.86,
-"gain": 7.76,
-"q": 1.3,
-"biquads": {
-"96000": {
-"b": [
-"1.000202749031121",
-"-1.999279558997297",
-"0.9990789450947886"
-],
-"a": [
-"1.999280189649531",
-"-0.9992810634736756"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 31.27,
-"gain": 1.49,
-"q": 1.36,
-"biquads": {
-"96000": {
-"b": [
-"1.0001291432831863",
-"-1.9986155968742898",
-"0.9984906393390002"
-],
-"a": [
-"1.9986155968742898",
-"-0.9986197826221863"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 20.51,
-"gain": -0.26,
-"q": 6.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999966517424089",
-"-1.9997711209927114",
-"0.9997762710197328"
-],
-"a": [
-"1.9997711209927114",
-"-0.9997729227621417"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E01-E07%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%20832a1ca1a98d%29.jpg",
-"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E01-E07%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%20832a1ca1a98d%29.jpg"
-],
-"warning": "",
-"season": "01E01-E07",
-"episode": "",
-"mv": "4.5",
-"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1803#post-64987359",
-"sortTitle": "visionquest",
-"edition": "",
-"note": "Dialnorm Compensation: 4 dB \u2014 S01E01\u2013S01E07 AI Created",
-"language": "English",
-"source": "Disc",
-"overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-"theMovieDB": "213375",
-"rating": "TV-14",
-"genres": [
-"Sci-Fi & Fantasy",
-"Drama"
-],
-"underlying": "VisionQuest (2026) (Season S01) BEQ DD+ Atmos remixmark",
-"digest": "f229bf4186ddb0b6a8e148f3ad99826f4087f5c28342617211783f327ba2e619",
-"created_at": 1793801556,
-"updated_at": 1793801556,
 "audioCodecs": [
 "DD+ Atmos"
 ],
