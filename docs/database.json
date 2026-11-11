@@ -2061192,6 +2061192,188 @@
 "filterAuthor": "model"
 },
 {
+"title": "VisionQuest",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/visionquest/#season-01e08",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 3.72,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001053369744781",
+"-1.9991176945540103",
+"0.9990131213946639"
+],
+"a": [
+"1.9991178275997623",
+"-0.9991183253233904"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 3.72,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001053369744781",
+"-1.9991176945540103",
+"0.9990131213946639"
+],
+"a": [
+"1.9991178275997623",
+"-0.9991183253233904"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 3.72,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001053369744781",
+"-1.9991176945540103",
+"0.9990131213946639"
+],
+"a": [
+"1.9991178275997623",
+"-0.9991183253233904"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 3.72,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001053369744781",
+"-1.9991176945540103",
+"0.9990131213946639"
+],
+"a": [
+"1.9991178275997623",
+"-0.9991183253233904"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.82,
+"gain": 8.5,
+"q": 1.29,
+"biquads": {
+"96000": {
+"b": [
+"1.000286528028984",
+"-1.9990913738721612",
+"0.9988084829139913"
+],
+"a": [
+"1.999092508933941",
+"-0.9990938758811948"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 1.55,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0003502223435736",
+"-1.9964108114754315",
+"0.9960644375335342"
+],
+"a": [
+"1.9964108114754315",
+"-0.996414659877108"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 16.6,
+"gain": -0.24,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999974984667702",
+"-1.9998152396308657",
+"0.9998189214671696"
+],
+"a": [
+"1.9998152396308657",
+"-0.9998164199339398"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E08%29%20%28%2B3.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E08%29%20%28%2B3.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E08",
+"episode": "",
+"mv": "3.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1800#post-64973735",
+"sortTitle": "visionquest",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+"theMovieDB": "213375",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "VisionQuest (2026) (Season S01E08) (+3.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "ab451beb5db4726ac798d1484c0e214be71c37de4bae4b30c7ddcf7334eefc5b",
+"created_at": 1794370343,
+"updated_at": 1794370343,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Wayward",
 "year": "2025",
 "audioTypes": [
