@@ -2210013,6 +2210013,255 @@
 "filterAuthor": "human"
 },
 {
+"title": "Salt",
+"year": "2010",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/salt/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.9,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002617323990226",
+"-1.998926315687093",
+"0.9986660163560889"
+],
+"a": [
+"1.9989267084509508",
+"-0.9989273559912536"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.9,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002617323990226",
+"-1.998926315687093",
+"0.9986660163560889"
+],
+"a": [
+"1.9989267084509508",
+"-0.9989273559912536"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 5.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000277514819401",
+"-1.9985095125098304",
+"0.9982343476146929"
+],
+"a": [
+"1.9985100637028437",
+"-0.9985113112410803"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -0.4,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999814192425366",
+"-1.9991684626539998",
+"0.9991929053488646"
+],
+"a": [
+"1.9991684626539998",
+"-0.9991743245914012"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Salt/Salt%20(2010)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Salt/Salt%20(2010)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "salt",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "As a CIA officer, Evelyn Salt swore an oath to duty, honor, and country. Her loyalty will be tested when a Russian defector accuses her of being a Russian sleeper spy. She goes on the run, using all her skills and years of experience as a covert operative to elude capture, protect her husband, and stay one step ahead of her colleagues at the CIA. Her efforts to prove her innocence only serve to cast doubt on her motives, as the hunt to uncover the truth behind her identity continues and the question remains: \"Who is Salt?\"",
+"theMovieDB": "27576",
+"rating": "PG-13",
+"runtime": "100",
+"genres": [
+"Action",
+"Mystery",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Salt (2010) BEQ Atmos",
+"digest": "a8146e76a855ede655898c055b0213a24b32e3f1079fd43d21c2c908aecc3fa3",
+"created_at": 1794364439,
+"updated_at": 1794364439,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Salt",
+"year": "2010",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/salt/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0000754525600042",
+"-1.9991994114359322",
+"0.9991244677888477"
+],
+"a": [
+"1.9991994857510142",
+"-0.9991998460337702"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -0.5,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999774004573038",
+"-1.9991864457049602",
+"0.9992145946546833"
+],
+"a": [
+"1.9991864457049602",
+"-0.9991919951119872"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Salt/Salt%20(2010)%20(Extended%20Cut)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Salt/Salt%20(2010)%20(Extended%20Cut)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "salt",
+"edition": "Extended Cut",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "As a CIA officer, Evelyn Salt swore an oath to duty, honor, and country. Her loyalty will be tested when a Russian defector accuses her of being a Russian sleeper spy. She goes on the run, using all her skills and years of experience as a covert operative to elude capture, protect her husband, and stay one step ahead of her colleagues at the CIA. Her efforts to prove her innocence only serve to cast doubt on her motives, as the hunt to uncover the truth behind her identity continues and the question remains: \"Who is Salt?\"",
+"theMovieDB": "27576",
+"rating": "PG-13",
+"runtime": "100",
+"genres": [
+"Action",
+"Mystery",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Salt (2010) (Extended Cut) BEQ DTS-HD MA 5.1",
+"digest": "22062c61e5dbfb6b328697258d89ae5bf95f7b66af3eaf51e22e7ef349ca8a5c",
+"created_at": 1794364439,
+"updated_at": 1794364439,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Samurai Fury",
 "year": "2025",
 "audioTypes": [
