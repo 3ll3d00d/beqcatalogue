@@ -2074304,6 +2074304,171 @@
 "filterAuthor": "human"
 },
 {
+"title": "Allen",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/allen/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002156685939154",
+"-1.9993164749644814",
+"0.9991015048746131"
+],
+"a": [
+"1.999316692954531",
+"-0.9993169554784787"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002156685939154",
+"-1.9993164749644814",
+"0.9991015048746131"
+],
+"a": [
+"1.999316692954531",
+"-0.9993169554784787"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -0.9,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999581787908964",
+"-1.9991443628115506",
+"0.9991920458873903"
+],
+"a": [
+"1.9991443628115506",
+"-0.999150224678287"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Allen/Allen%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Allen/Allen%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "allen",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated \u2014 and unexpected.",
+"theMovieDB": "1518204",
+"rating": "PG-13",
+"runtime": "105",
+"genres": [
+"Science Fiction",
+"Adventure",
+"Comedy",
+"Family"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Allen (2026) (Netflix) BEQ DD+ Atmos",
+"digest": "3bc27c8e124001aee53b7bec05b5e5ac5ed02d86d41c611506c3b3980fdfa71f",
+"created_at": 1794511797,
+"updated_at": 1794511797,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Alpha",
 "year": "2026",
 "audioTypes": [
