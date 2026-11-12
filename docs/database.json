@@ -2053675,6 +2053675,188 @@
 ],
 "content_type": "TV",
 "author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-lord-of-the-rings-the-rings-of-power/#season-03e01-e04",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 19.03,
+"gain": 3.52,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001264903651228",
+"-1.9988735458866778",
+"0.9987489541959357"
+],
+"a": [
+"1.9988738621994033",
+"-0.9988751282483329"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.03,
+"gain": 3.52,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001264903651228",
+"-1.9988735458866778",
+"0.9987489541959357"
+],
+"a": [
+"1.9988738621994033",
+"-0.9988751282483329"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.03,
+"gain": 3.52,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001264903651228",
+"-1.9988735458866778",
+"0.9987489541959357"
+],
+"a": [
+"1.9988738621994033",
+"-0.9988751282483329"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.03,
+"gain": 3.52,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001264903651228",
+"-1.9988735458866778",
+"0.9987489541959357"
+],
+"a": [
+"1.9988738621994033",
+"-0.9988751282483329"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.03,
+"gain": 4.18,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0002146037303492",
+"-1.998422039526455",
+"0.998209407548554"
+],
+"a": [
+"1.9984224161150042",
+"-0.9984236346903541"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": 1.12,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000164017602691",
+"-1.9976112546061329",
+"0.9974524782584384"
+],
+"a": [
+"1.9976112546061329",
+"-0.9976164958611292"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 22.46,
+"gain": -0.07,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999988154891458",
+"-1.9997026952911081",
+"0.999706040393157"
+],
+"a": [
+"1.9997026952911081",
+"-0.9997048558823028"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E01-E04%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%20982622ea7b9a%29.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E01-E04%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%20982622ea7b9a%29.jpg"
+],
+"warning": "",
+"season": "03E01-E04",
+"episode": "",
+"mv": "2.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1805#post-65008089",
+"sortTitle": "the lord of the rings: the rings of power",
+"edition": "",
+"note": "Dialnorm Compensation: 4 dB \u2014 S03E02; 5 dB \u2014 S03E03\u2013S03E04; 6 dB \u2014 S03E01 AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+"theMovieDB": "84773",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Sci-Fi & Fantasy"
+],
+"underlying": "The Lord of the Rings - The Rings of Power (2022) (Season S03) BEQ DD+ Atmos remixmark",
+"digest": "a7f7ee3789ece3dd46b84035eeb3e94fe7ad2fe1c4c93737a61ecd897fc499cd",
+"created_at": 1794449130,
+"updated_at": 1794449130,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "The Lord of the Rings: The Rings of Power",
+"year": "2022",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-lord-of-the-rings-the-rings-of-power/#season-03e02",
 "filters": [
 {
