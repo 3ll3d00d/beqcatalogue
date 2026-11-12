@@ -2053668,6 +2053668,149 @@
 "filterAuthor": "model"
 },
 {
+"title": "The Lord of the Rings: The Rings of Power",
+"year": "2022",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-lord-of-the-rings-the-rings-of-power/#season-03e02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 3.93,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001559213852733",
+"-1.9987713691444045",
+"0.9986178149832559"
+],
+"a": [
+"1.9987717999048586",
+"-0.9987733056080754"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 3.93,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001559213852733",
+"-1.9987713691444045",
+"0.9986178149832559"
+],
+"a": [
+"1.9987717999048586",
+"-0.9987733056080754"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 3.93,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001559213852733",
+"-1.9987713691444045",
+"0.9986178149832559"
+],
+"a": [
+"1.9987717999048586",
+"-0.9987733056080754"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 3.93,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001559213852733",
+"-1.9987713691444045",
+"0.9986178149832559"
+],
+"a": [
+"1.9987717999048586",
+"-0.9987733056080754"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.25,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002092081665694",
+"-1.9972898928871892",
+"0.9970875293447209"
+],
+"a": [
+"1.9972898928871892",
+"-0.9972967375112904"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E02%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E02%29%20%28%2B4.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "03E02",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1805#post-65007901",
+"sortTitle": "the lord of the rings: the rings of power",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+"theMovieDB": "84773",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Sci-Fi & Fantasy"
+],
+"underlying": "The Lord of the Rings - The Rings of Power (2022) (Season S03E02) (+4.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "dbccd595b22bed9254fa39bc5811f0afc94286aab29eed2a05faa235f09ccc47",
+"created_at": 1794444129,
+"updated_at": 1794444129,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Mighty Nein",
 "year": "2025",
 "audioTypes": [
