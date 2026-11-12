@@ -2184763,6 +2184763,172 @@
 "title": "National Treasure",
 "year": "2004",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/national-treasure/#atmos",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": -5.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999350363482947",
+"-1.9997070057206807",
+"0.9997723976779542"
+],
+"a": [
+"1.9997070057206807",
+"-0.9997074340262491"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 39.0,
+"gain": -2.5,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998465069674028",
+"-1.99876606366074",
+"0.9989260681722005"
+],
+"a": [
+"1.99876606366074",
+"-0.9987725751396033"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/National%20Treasure/National%20Treasure%20(2004)%204K%20HDR%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/National%20Treasure/National%20Treasure%20(2004)%204K%20HDR%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "national treasure",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Modern treasure hunters, led by archaeologist Ben Gates, search for a chest of riches rumored to have been stashed away by George Washington, Thomas Jefferson and Benjamin Franklin during the Revolutionary War. The chest's whereabouts may lie in secret clues embedded in the Constitution and the Declaration of Independence, and Gates is in a race to find the gold before his enemies do.",
+"theMovieDB": "2059",
+"rating": "PG",
+"runtime": "131",
+"genres": [
+"Adventure",
+"Action",
+"Mystery"
+],
+"altTitle": "",
+"collection": {
+"id": "52984",
+"name": "National Treasure Collection"
+},
+"underlying": "National Treasure (2004) BEQ Atmos",
+"digest": "4def5921c2c76a6e27b3fdb1850d11af95ccf7f5fdf228f70f306a30ee176bc9",
+"created_at": 1794445485,
+"updated_at": 1794445485,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "National Treasure",
+"year": "2004",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
