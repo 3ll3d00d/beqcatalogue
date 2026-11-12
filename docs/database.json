@@ -2319552,369 +2319552,6 @@
 "filterAuthor": "human"
 },
 {
-"title": "The Lord of the Rings: The Rings of Power",
-"year": "2022",
-"audioTypes": [
-"DD+ Atmos"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-lord-of-the-rings-the-rings-of-power/#season-01",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 2.1,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0000527827390393",
-"-1.9991784252864686",
-"0.9991261257607689"
-],
-"a": [
-"1.9991784771749717",
-"-0.9991788566113048"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 25.0,
-"gain": 8.8,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0005587422941609",
-"-1.9983048989153969",
-"0.997750596076884"
-],
-"a": [
-"1.9983063127087604",
-"-0.9983079245776812"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 25.0,
-"gain": 8.8,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0005587422941609",
-"-1.9983048989153969",
-"0.997750596076884"
-],
-"a": [
-"1.9983063127087604",
-"-0.9983079245776812"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 28.0,
-"gain": -5.5,
-"q": 9.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999344589986355",
-"-1.999717218366489",
-"0.9997861173047576"
-],
-"a": [
-"1.999717218366489",
-"-0.9997205763033932"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 37.0,
-"gain": -2.3,
-"q": 2.5,
-"biquads": {
-"96000": {
-"b": [
-"0.9998714472155148",
-"-1.998888966878302",
-"0.9990233807806546"
-],
-"a": [
-"1.998888966878302",
-"-0.9988948279961694"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 70.0,
-"gain": 0.1,
-"q": 3.5,
-"biquads": {
-"96000": {
-"b": [
-"1.0000075303070832",
-"-1.9986783911752506",
-"0.9986918372253918"
-],
-"a": [
-"1.9986783911752506",
-"-0.9986993675324751"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 90.0,
-"gain": 0.1,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.000033809350989",
-"-1.994125862230346",
-"0.9941266492975938"
-],
-"a": [
-"1.994125862230346",
-"-0.9941604586485825"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LOTR%20-%20The%20Rings%20of%20Power/LOTR%20-%20The%20Rings%20of%20Power%20S01E01-08%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LOTR%20-%20The%20Rings%20of%20Power/LOTR%20-%20The%20Rings%20of%20Power%20S01E01-08%20DD%2B%20Atmoshm.jpg"
-],
-"warning": "",
-"season": "01",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "lord of the rings: the rings of power",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-"theMovieDB": "84773",
-"rating": "TV-14",
-"genres": [
-"Action & Adventure",
-"Sci-Fi & Fantasy",
-"Drama"
-],
-"underlying": "The Lord of the Rings- The Rings of Power (2022) (Season 01) BEQ DD+ Atmos",
-"digest": "8f53403ecad724968d4f916c5b64e83a0f02a3d9ce476e2deaf1da759a8f8fcf",
-"created_at": 1746404935,
-"updated_at": 1746404935,
-"audioCodecs": [
-"DD+ Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
-"title": "The Lord of the Rings: The Rings of Power",
-"year": "2022",
-"audioTypes": [
-"DD+ Atmos"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-lord-of-the-rings-the-rings-of-power/#season-02",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 6.3,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0001591290766887",
-"-1.9992718652044148",
-"0.9991133515301853"
-],
-"a": [
-"1.9992720239252117",
-"-0.9992723218860775"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 6.3,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0001591290766887",
-"-1.9992718652044148",
-"0.9991133515301853"
-],
-"a": [
-"1.9992720239252117",
-"-0.9992723218860775"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 17.0,
-"gain": -3.2,
-"q": 6.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999656507862162",
-"-1.999775837651145",
-"0.9998114247110449"
-],
-"a": [
-"1.999775837651145",
-"-0.9997770754972612"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 25.0,
-"gain": 5.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003151440526974",
-"-1.9981097560427907",
-"0.9977981788595426"
-],
-"a": [
-"1.9981105365784688",
-"-0.9981125423765619"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 25.0,
-"gain": 5.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003151440526974",
-"-1.9981097560427907",
-"0.9977981788595426"
-],
-"a": [
-"1.9981105365784688",
-"-0.9981125423765619"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 30.0,
-"gain": 5.0,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0001909445811177",
-"-1.9995054617508425",
-"0.9993183715368356"
-],
-"a": [
-"1.9995054617508425",
-"-0.9995093161179531"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 40.0,
-"gain": -1.8,
-"q": 2.7,
-"biquads": {
-"96000": {
-"b": [
-"0.9998994051059473",
-"-1.9989182427969852",
-"0.9990256878954222"
-],
-"a": [
-"1.9989182427969852",
-"-0.9989250930013697"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LOTR%20-%20The%20Rings%20of%20Power/LOTR%20-%20The%20Rings%20of%20Power%20S02E01-08%20(2022)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LOTR%20-%20The%20Rings%20of%20Power/LOTR%20-%20The%20Rings%20of%20Power%20S02E01-08%20(2022)%20DD%2B%20Atmoshm.jpg"
-],
-"warning": "",
-"season": "02",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "lord of the rings: the rings of power",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-"theMovieDB": "84773",
-"rating": "TV-14",
-"genres": [
-"Action & Adventure",
-"Sci-Fi & Fantasy",
-"Drama"
-],
-"underlying": "The Lord of the Rings- The Rings of Power (2022) (Season 02) BEQ DD+ Atmos",
-"digest": "b08c025df8595fd8af21ddd536fb0e88f74edf3514b4c9bf5b1a6a1a4e5b7583",
-"created_at": 1746404935,
-"updated_at": 1746404935,
-"audioCodecs": [
-"DD+ Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
 "title": "M.I.A.",
 "year": "2026",
 "audioTypes": [
@@ -2343327,6 +2342964,369 @@
 ],
 "audioChannelCounts": [
 "5.1",
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Lord of the Rings: The Rings of Power",
+"year": "2022",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-lord-of-the-rings-the-rings-of-power/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.1,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0000527827390393",
+"-1.9991784252864686",
+"0.9991261257607689"
+],
+"a": [
+"1.9991784771749717",
+"-0.9991788566113048"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.8,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005587422941609",
+"-1.9983048989153969",
+"0.997750596076884"
+],
+"a": [
+"1.9983063127087604",
+"-0.9983079245776812"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.8,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005587422941609",
+"-1.9983048989153969",
+"0.997750596076884"
+],
+"a": [
+"1.9983063127087604",
+"-0.9983079245776812"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -5.5,
+"q": 9.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999344589986355",
+"-1.999717218366489",
+"0.9997861173047576"
+],
+"a": [
+"1.999717218366489",
+"-0.9997205763033932"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -2.3,
+"q": 2.5,
+"biquads": {
+"96000": {
+"b": [
+"0.9998714472155148",
+"-1.998888966878302",
+"0.9990233807806546"
+],
+"a": [
+"1.998888966878302",
+"-0.9988948279961694"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 70.0,
+"gain": 0.1,
+"q": 3.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0000075303070832",
+"-1.9986783911752506",
+"0.9986918372253918"
+],
+"a": [
+"1.9986783911752506",
+"-0.9986993675324751"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LOTR%20-%20The%20Rings%20of%20Power/LOTR%20-%20The%20Rings%20of%20Power%20S01E01-08%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LOTR%20-%20The%20Rings%20of%20Power/LOTR%20-%20The%20Rings%20of%20Power%20S01E01-08%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "lord of the rings: the rings of power",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+"theMovieDB": "84773",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "The Lord of the Rings- The Rings of Power (2022) (Season 01) BEQ DD+ Atmos",
+"digest": "8f53403ecad724968d4f916c5b64e83a0f02a3d9ce476e2deaf1da759a8f8fcf",
+"created_at": 1794509719,
+"updated_at": 1794509719,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Lord of the Rings: The Rings of Power",
+"year": "2022",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-lord-of-the-rings-the-rings-of-power/#season-02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.3,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001591290766887",
+"-1.9992718652044148",
+"0.9991133515301853"
+],
+"a": [
+"1.9992720239252117",
+"-0.9992723218860775"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.3,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001591290766887",
+"-1.9992718652044148",
+"0.9991133515301853"
+],
+"a": [
+"1.9992720239252117",
+"-0.9992723218860775"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": -3.2,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999656507862162",
+"-1.999775837651145",
+"0.9998114247110449"
+],
+"a": [
+"1.999775837651145",
+"-0.9997770754972612"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 5.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003151440526974",
+"-1.9981097560427907",
+"0.9977981788595426"
+],
+"a": [
+"1.9981105365784688",
+"-0.9981125423765619"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 5.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003151440526974",
+"-1.9981097560427907",
+"0.9977981788595426"
+],
+"a": [
+"1.9981105365784688",
+"-0.9981125423765619"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 5.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001909445811177",
+"-1.9995054617508425",
+"0.9993183715368356"
+],
+"a": [
+"1.9995054617508425",
+"-0.9995093161179531"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -1.8,
+"q": 2.7,
+"biquads": {
+"96000": {
+"b": [
+"0.9998994051059473",
+"-1.9989182427969852",
+"0.9990256878954222"
+],
+"a": [
+"1.9989182427969852",
+"-0.9989250930013697"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LOTR%20-%20The%20Rings%20of%20Power/LOTR%20-%20The%20Rings%20of%20Power%20S02E01-08%20(2022)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LOTR%20-%20The%20Rings%20of%20Power/LOTR%20-%20The%20Rings%20of%20Power%20S02E01-08%20(2022)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "02",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "lord of the rings: the rings of power",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+"theMovieDB": "84773",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Sci-Fi & Fantasy",
+"Drama"
+],
+"underlying": "The Lord of the Rings- The Rings of Power (2022) (Season 02) BEQ DD+ Atmos",
+"digest": "b08c025df8595fd8af21ddd536fb0e88f74edf3514b4c9bf5b1a6a1a4e5b7583",
+"created_at": 1794509719,
+"updated_at": 1794509719,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
 ""
 ],
 "filterAuthor": "human"
