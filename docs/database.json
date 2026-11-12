@@ -1972504,6 +1972504,227 @@
 "filterAuthor": "human"
 },
 {
+"title": "Train Dreams",
+"year": "2025",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/train-dreams/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.26,
+"q": 1.07,
+"biquads": {
+"96000": {
+"b": [
+"1.000110858812409",
+"-1.9994888459001667",
+"0.999378601141466"
+],
+"a": [
+"1.9994890035869468",
+"-0.9994893022670953"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.26,
+"q": 1.07,
+"biquads": {
+"96000": {
+"b": [
+"1.000110858812409",
+"-1.9994888459001667",
+"0.999378601141466"
+],
+"a": [
+"1.9994890035869468",
+"-0.9994893022670953"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.26,
+"q": 1.07,
+"biquads": {
+"96000": {
+"b": [
+"1.000110858812409",
+"-1.9994888459001667",
+"0.999378601141466"
+],
+"a": [
+"1.9994890035869468",
+"-0.9994893022670953"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 26.73,
+"gain": 1.08,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0000419070726632",
+"-1.9986932258596388",
+"0.9986545736439404"
+],
+"a": [
+"1.9986934161387389",
+"-0.9986962904375034"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 29.0,
+"gain": -4.14,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"0.9996761980489962",
+"-1.996946331256927",
+"0.9972729675367517"
+],
+"a": [
+"1.9969454658716654",
+"-0.9969500309710093"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 19.58,
+"gain": -9.76,
+"q": 10.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999241614524493",
+"-1.9997736220494733",
+"0.9998511026750242"
+],
+"a": [
+"1.9997736220494733",
+"-0.9997752641274734"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 45.63,
+"gain": 0.6,
+"q": 2.45,
+"biquads": {
+"96000": {
+"b": [
+"1.0000420852616179",
+"-1.998814193862676",
+"0.9987810223880391"
+],
+"a": [
+"1.998814193862676",
+"-0.9988231076496571"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 21.0,
+"gain": 7.96,
+"q": 1.96,
+"biquads": {
+"96000": {
+"b": [
+"1.0003326110528907",
+"-1.999554731995426",
+"0.9992240096274105"
+],
+"a": [
+"1.999554731995426",
+"-0.9995566206803014"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 15.37,
+"gain": 7.96,
+"q": 3.84,
+"biquads": {
+"96000": {
+"b": [
+"1.0001242729121897",
+"-1.9998333290453192",
+"0.99971006801309"
+],
+"a": [
+"1.9998333290453192",
+"-0.9998343409252798"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Train%20Dreams%20%282025%29%20%28AI%20revision%29%20%28%2B6.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Train%20Dreams%20%282025%29%20%28AI%20revision%29%20%28%2B6.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "6.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1805#post-65010505",
+"sortTitle": "train dreams",
+"edition": "AI revision",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+"theMovieDB": "1241983",
+"rating": "PG-13",
+"runtime": "102",
+"genres": [
+"Drama",
+"Western"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Train Dreams (2025) (AI revision) (+6.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "f78aeaf9b7e1b9ca0fd055796881da6d8e54c5709b80d7713025b2b4e8c40551",
+"created_at": 1794521287,
+"updated_at": 1794521287,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Train to Busan",
 "year": "2016",
 "audioTypes": [
