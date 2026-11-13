@@ -2198304,6 +2198304,135 @@
 "filterAuthor": "human"
 },
 {
+"title": "PAW Patrol: The Dino Movie",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/paw-patrol-the-dino-movie/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005030919001112",
+"-1.9985170077333512",
+"0.9980173939248208"
+],
+"a": [
+"1.9985181297424108",
+"-0.9985193638158728"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005030919001112",
+"-1.9985170077333512",
+"0.9980173939248208"
+],
+"a": [
+"1.9985181297424108",
+"-0.9985193638158728"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": -3.0,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.999853352673821",
+"-1.9989916381671715",
+"0.9991424000437369"
+],
+"a": [
+"1.9989916381671715",
+"-0.9989957527175579"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 75.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000281882260136",
+"-1.9951073007243658",
+"0.9951031495070096"
+],
+"a": [
+"1.9951073007243658",
+"-0.9951313377330234"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/PAW%20Patrol/PAW%20Patrol%20-%20The%20Dino%20Movie%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/PAW%20Patrol/PAW%20Patrol%20-%20The%20Dino%20Movie%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "paw patrol: the dino movie",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Paramount+",
+"overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+"theMovieDB": "1185806",
+"rating": "PG",
+"runtime": "88",
+"genres": [
+"Animation",
+"Adventure",
+"Family",
+"Fantasy",
+"Comedy"
+],
+"altTitle": "",
+"collection": {
+"id": "893731",
+"name": "PAW Patrol (Theatrical) Collection"
+},
+"underlying": "PAW Patrol- The Dino Movie (2026) (Paramount+) BEQ DD+ Atmos",
+"digest": "51166a2be2ecf2dc60d24cb3126582778c4d9c7bc55935f3490a43692d0a6569",
+"created_at": 1794546794,
+"updated_at": 1794546794,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Paddington",
 "year": "2014",
 "audioTypes": [
