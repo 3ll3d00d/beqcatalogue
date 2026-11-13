@@ -2081644,6 +2081644,153 @@
 "title": "Avengers: Endgame",
 "year": "2019",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/avengers-endgame/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001514738774269",
+"-1.9992655597124975",
+"0.9991146906992364"
+],
+"a": [
+"1.9992657105694813",
+"-0.9992660137196796"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -1.9,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999172728273114",
+"-1.9991540275146056",
+"0.9992406083769593"
+],
+"a": [
+"1.9991540275146056",
+"-0.9991578812042706"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avengers/Avengers%20-%20Endgame%20(2019)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avengers/Avengers%20-%20Endgame%20(2019)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "avengers: endgame",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+"theMovieDB": "299534",
+"rating": "PG-13",
+"runtime": "181",
+"genres": [
+"Adventure",
+"Science Fiction",
+"Action"
+],
+"altTitle": "",
+"collection": {
+"id": "86311",
+"name": "The Avengers Collection"
+},
+"underlying": "Avengers- Endgame (2019) BEQ Atmos",
+"digest": "f4ecd1ff0a4bd1780659e930a74f753c4d75b8ce887bdcdcdc3d384719938e89",
+"created_at": 1794610116,
+"updated_at": 1794610116,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Avengers: Endgame",
+"year": "2019",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
@@ -2110219,6 +2110366,130 @@
 "title": "Criminal",
 "year": "2016",
 "audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/criminal/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002272256809936",
+"-1.9988982012948295",
+"0.9986723363085198"
+],
+"a": [
+"1.9988985406607693",
+"-0.9988992226235734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002272256809936",
+"-1.9988982012948295",
+"0.9986723363085198"
+],
+"a": [
+"1.9988985406607693",
+"-0.9988992226235734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.0,
+"gain": -1.9,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999372588225335",
+"-1.9993594395482384",
+"0.999424069226116"
+],
+"a": [
+"1.9993594395482384",
+"-0.9993613280486495"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000030062545675",
+"-1.9947802614526042",
+"0.9947775432360203"
+],
+"a": [
+"1.9947802614526042",
+"-0.9948076057816954"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Criminal/Criminal%20(2016)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Criminal/Criminal%20(2016)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "criminal",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "CIA Agent Bill Pope is on a mission to track down a shadowy hacker named 'The Dutchman'. When he gets mysteriously killed, an experimental procedure transfers his memories into a dangerous ex-convict. When he wakes up Pope's memories, his mission is to eliminate The Dutchman before the hacker launches ICBMs and starts World War III.",
+"theMovieDB": "302156",
+"rating": "R",
+"runtime": "113",
+"genres": [
+"Action",
+"Crime",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Criminal (2016) BEQ DD+ Atmos",
+"digest": "9c012fda3607af20bfdc67df835e4e960aa97dde478df14c2f96959933201f58",
+"created_at": 1794610116,
+"updated_at": 1794610116,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Criminal",
+"year": "2016",
+"audioTypes": [
 "DTS-HD MA 5.1"
 ],
 "content_type": "film",
@@ -2136938,6 +2137209,169 @@
 ],
 "audioChannelCounts": [
 "5.1"
+],
+"filterAuthor": "human"
+},
+{
+"title": "Girls Like Girls",
+"year": "2026",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/girls-like-girls/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000686127803216",
+"-1.9979771143225424",
+"0.9972974523045667"
+],
+"a": [
+"1.997979200141575",
+"-0.9979814942887503"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000686127803216",
+"-1.9979771143225424",
+"0.9972974523045667"
+],
+"a": [
+"1.997979200141575",
+"-0.9979814942887503"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 43.0,
+"gain": -2.9,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998185761029694",
+"-1.998713805974363",
+"0.9989031453327268"
+],
+"a": [
+"1.998713805974363",
+"-0.9987217214356962"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Girls%20Like%20Girls/Girls%20Like%20Girls%20(2026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Girls%20Like%20Girls/Girls%20Like%20Girls%20(2026)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "girls like girls",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After her mother's passing, 17-year-old Coley navigates new feelings of intimacy with Sonya in rural Oregon, where both girls must overcome their mutual uncertainties and self-doubt to embrace their connection.",
+"theMovieDB": "1397485",
+"rating": "R",
+"runtime": "95",
+"genres": [
+"Romance",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Girls Like Girls (2026) BEQ Atmos",
+"digest": "d148e6cf97b650c02c5922c3b2c448ce25b8a96caf773f72c54fd064818e903f",
+"created_at": 1794610116,
+"updated_at": 1794610116,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
 ],
 "filterAuthor": "human"
 },
