@@ -2025000,6 +2025000,248 @@
 "filterAuthor": "model"
 },
 {
+"title": "MobLand",
+"year": "2025",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/mobland/#season-02e08",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.44,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0002485068797076",
+"-1.9986480760681375",
+"0.9984021512263234"
+],
+"a": [
+"1.998648676954368",
+"-0.9986500572198004"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.44,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0002485068797076",
+"-1.9986480760681375",
+"0.9984021512263234"
+],
+"a": [
+"1.998648676954368",
+"-0.9986500572198004"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.44,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0002485068797076",
+"-1.9986480760681375",
+"0.9984021512263234"
+],
+"a": [
+"1.998648676954368",
+"-0.9986500572198004"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.44,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0002485068797076",
+"-1.9986480760681375",
+"0.9984021512263234"
+],
+"a": [
+"1.998648676954368",
+"-0.9986500572198004"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.0,
+"gain": 6.5,
+"q": 0.76,
+"biquads": {
+"96000": {
+"b": [
+"1.0005188254016872",
+"-1.997712345434431",
+"0.9971998897652524"
+],
+"a": [
+"1.997714023377207",
+"-0.9977170372241634"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.0,
+"gain": 6.5,
+"q": 0.76,
+"biquads": {
+"96000": {
+"b": [
+"1.0005188254016872",
+"-1.997712345434431",
+"0.9971998897652524"
+],
+"a": [
+"1.997714023377207",
+"-0.9977170372241634"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.0,
+"gain": 6.5,
+"q": 0.76,
+"biquads": {
+"96000": {
+"b": [
+"1.0005188254016872",
+"-1.997712345434431",
+"0.9971998897652524"
+],
+"a": [
+"1.997714023377207",
+"-0.9977170372241634"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 48.21,
+"gain": -1.65,
+"q": 1.05,
+"biquads": {
+"96000": {
+"b": [
+"0.9998569845744594",
+"-1.996843738077985",
+"0.996995793272309"
+],
+"a": [
+"1.9968427924947445",
+"-0.9968537234300096"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": -0.56,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999648495420487",
+"-1.9988633651288432",
+"0.9989092187544897"
+],
+"a": [
+"1.9988633651288432",
+"-0.9988740682965382"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 54.0,
+"gain": 0.41,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000277913937705",
+"-1.9988375620117662",
+"0.9988222546409078"
+],
+"a": [
+"1.9988375620117662",
+"-0.9988500460346785"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E08%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E08%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "02E08",
+"episode": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64853525",
+"sortTitle": "mobland",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+"theMovieDB": "247718",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama"
+],
+"underlying": "MobLand (2025) (Season S02E08) (+5.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "053f9d94dae614764d8cf27cf5e447f2e524b4a43d09720f79beeb23530e6678",
+"created_at": 1794585565,
+"updated_at": 1794585565,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Monarch: Legacy of Monsters",
 "year": "2023",
 "audioTypes": [
