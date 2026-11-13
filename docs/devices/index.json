@@ -23,14 +23,14 @@
     200.0
    ],
    "description": "Custom biquads stored as float32 at a 96 kHz internal DSP rate (e.g. miniDSP 2x4 HD)",
-   "entries": 13091,
+   "entries": 13092,
    "file": "float32-96k.json",
    "id": "float32-96k",
    "label": "float32 @ 96 kHz",
    "margin_db": 0.5,
    "rate": 96000,
    "revision": 2,
-   "sha256": "d4fd1a4b9a34ce158c3e3927a6b51d53bcaf9cd7cf23353d8015cd6861f2a41f",
+   "sha256": "3e86d9ab92bc5f4ca0c09c086e860296fb5ab9436337830f9467bf8251cad2f6",
    "storage": "float32",
    "transport": "float32"
   }
