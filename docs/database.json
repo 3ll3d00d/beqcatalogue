@@ -2105596,6 +2105596,209 @@
 "filterAuthor": "human"
 },
 {
+"title": "Collision Course",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/collision-course/#dd-atmos",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 14.0,
+"gain": 8.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000218490732978",
+"-1.9997101299040705",
+"0.9994924786514618"
+],
+"a": [
+"1.9997101299040705",
+"-0.9997109693844399"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003649970184785",
+"-1.998751513437105",
+"0.9983887147412537"
+],
+"a": [
+"1.9987521750144182",
+"-0.9987530501824189"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003649970184785",
+"-1.998751513437105",
+"0.9983887147412537"
+],
+"a": [
+"1.9987521750144182",
+"-0.9987530501824189"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003649970184785",
+"-1.998751513437105",
+"0.9983887147412537"
+],
+"a": [
+"1.9987521750144182",
+"-0.9987530501824189"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003649970184785",
+"-1.998751513437105",
+"0.9983887147412537"
+],
+"a": [
+"1.9987521750144182",
+"-0.9987530501824189"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": -1.9,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999354668195212",
+"-1.9993399646292458",
+"0.9994076195877234"
+],
+"a": [
+"1.9993399646292458",
+"-0.9993430864072446"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -1.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999457263474629",
+"-1.9991532361393003",
+"0.9992130591066801"
+],
+"a": [
+"1.9991532361393003",
+"-0.999158785454143"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Collision%20Course/Collision%20Course%20(2026)%20(es)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Collision%20Course/Collision%20Course%20(2026)%20(es)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "collision course",
+"edition": "",
+"note": "",
+"language": "Spanish",
+"source": "Disc",
+"overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+"theMovieDB": "1571955",
+"rating": "R",
+"runtime": "122",
+"genres": [
+"Thriller",
+"Drama",
+"Crime"
+],
+"altTitle": "Colisi\u00f3n",
+"collection": {},
+"underlying": "Collision Course (2026) BEQ DD+ Atmos",
+"digest": "fe574a201e1363175eb80e026f9fb63ab6118712cec2f41906ff747d41400f7d",
+"created_at": 1794545304,
+"updated_at": 1794545304,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Colony",
 "year": "2026",
 "audioTypes": [
@@ -2111755,6 +2111958,149 @@
 "updated_at": 1749768017,
 "audioCodecs": [
 "Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Dark Harvest",
+"year": "2023",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/dark-harvest/#dd",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": -1.8,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999615096429331",
+"-1.9995874734612342",
+"0.9996272015478215"
+],
+"a": [
+"1.9995874734612342",
+"-0.9995887111907544"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000328523374608",
+"-1.9985516843199689",
+"0.9982256501640028"
+],
+"a": [
+"1.9985523400408225",
+"-0.9985535178177568"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000328523374608",
+"-1.9985516843199689",
+"0.9982256501640028"
+],
+"a": [
+"1.9985523400408225",
+"-0.9985535178177568"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 22.0,
+"gain": 3.3,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001375467711482",
+"-1.9994027150079747",
+"0.9992672409217542"
+],
+"a": [
+"1.9994027150079747",
+"-0.9994047876929023"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -1.9,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999044104254016",
+"-1.9990225644111976",
+"0.9991225383408981"
+],
+"a": [
+"1.9990225644111976",
+"-0.9990269487662996"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dark%20Harvest/Dark%20Harvest%20(2023)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Dark%20Harvest/Dark%20Harvest%20(2023)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "dark harvest",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "In a small Midwestern town, a deadly annual ritual unfolds when the mythical nightmare, Sawtooth Jack, rises from the cornfields and challenges the town\u2019s teenage boys in a bloody battle of survival.",
+"theMovieDB": "675531",
+"rating": "R",
+"runtime": "96",
+"genres": [
+"Horror",
+"Fantasy",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Dark Harvest (2023) BEQ DD+",
+"digest": "3abf2afa7e7d0f7da90541f9546cac7a8b48c5e87f96bb0d06ce5f8ebdd471ef",
+"created_at": 1794545304,
+"updated_at": 1794545304,
+"audioCodecs": [
+"DD+"
 ],
 "audioChannelCounts": [
 ""
@@ -2134446,6 +2134792,313 @@
 "filterAuthor": "human"
 },
 {
+"title": "Fuze",
+"year": "2025",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/fuze/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.0,
+"gain": 3.5,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000092914433885",
+"-1.9996236341936542",
+"0.9995326085097263"
+],
+"a": [
+"1.9996236341936542",
+"-0.999625522943611"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": -2.5,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998779773075196",
+"-1.9990201167600101",
+"0.999146254061495"
+],
+"a": [
+"1.9990201167600101",
+"-0.9990242313690143"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000030062545675",
+"-1.9947802614526042",
+"0.9947775432360203"
+],
+"a": [
+"1.9947802614526042",
+"-0.9948076057816954"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Fuze/Fuze%20(2025)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Fuze/Fuze%20(2025)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "fuze",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+"theMovieDB": "1242265",
+"rating": "R",
+"runtime": "96",
+"genres": [
+"Action",
+"Crime",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Fuze (2025) BEQ DD+",
+"digest": "88f9ccdd43752e3c43810834988e1ed40708d1b172580026f05031dd22b17ec3",
+"created_at": 1794545304,
+"updated_at": 1794545304,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Fuze",
+"year": "2025",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/fuze/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004115926105115",
+"-1.9987868298314426",
+"0.9983775658435835"
+],
+"a": [
+"1.9987875810295208",
+"-0.9987884072560163"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004115926105115",
+"-1.9987868298314426",
+"0.9983775658435835"
+],
+"a": [
+"1.9987875810295208",
+"-0.9987884072560163"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004115926105115",
+"-1.9987868298314426",
+"0.9983775658435835"
+],
+"a": [
+"1.9987875810295208",
+"-0.9987884072560163"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": -2.7,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998861286503525",
+"-1.9991439902336754",
+"0.9992614626237615"
+],
+"a": [
+"1.9991439902336754",
+"-0.9991475912741139"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 70.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000526281481656",
+"-1.9954602607311576",
+"0.9954285751655713"
+],
+"a": [
+"1.9954602607311576",
+"-0.9954812033137369"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Fuze/Fuze%20(2025)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Fuze/Fuze%20(2025)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "fuze",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+"theMovieDB": "1242265",
+"rating": "R",
+"runtime": "96",
+"genres": [
+"Action",
+"Crime",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Fuze (2025) BEQ DTS-HD MA 5.1",
+"digest": "257be68a5eba77203329bd78e63da127ac0175113917bcd2faed980f1c844384",
+"created_at": 1794545304,
+"updated_at": 1794545304,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "G20",
 "year": "2025",
 "audioTypes": [
@@ -2134679,6 +2135332,169 @@
 "updated_at": 1744331876,
 "audioCodecs": [
 "DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Gaslit by My Husband: The Morgan Metzer Story",
+"year": "2024",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/gaslit-by-my-husband-the-morgan-metzer-story/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": 5.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.00014639926513",
+"-1.9996215217459667",
+"0.9994773881221717"
+],
+"a": [
+"1.9996215217459667",
+"-0.9996237873873017"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": -2.8,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998655906275272",
+"-1.9990198154863668",
+"0.9991588875118614"
+],
+"a": [
+"1.9990198154863668",
+"-0.9990244781393889"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Gaslit%20By%20My%20Husband%20-%20The%20Morgan%20Metzer%20Story/Gaslit%20By%20My%20Husband%20-%20The%20Morgan%20Metzer%20Story%20(2024)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Gaslit%20By%20My%20Husband%20-%20The%20Morgan%20Metzer%20Story/Gaslit%20By%20My%20Husband%20-%20The%20Morgan%20Metzer%20Story%20(2024)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "gaslit by my husband: the morgan metzer story",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "After a masked intruder assaults Morgan Metzer in her home, her estranged husband, Rodney, shows up minutes later. Questioned by the authorities, Rodney's story doesn't seem to add up, making him the prime suspect in the attack.",
+"theMovieDB": "1302733",
+"rating": "",
+"runtime": "87",
+"genres": [
+"Drama",
+"Thriller",
+"TV Movie"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Gaslit by My Husband- The Morgan Metzer Story (2024) (Netflix) BEQ DD+",
+"digest": "3a8b2ed7db28ebc483c7fe8b714a7e321c844e83687d286547d80b2356656389",
+"created_at": 1794545304,
+"updated_at": 1794545304,
+"audioCodecs": [
+"DD+"
 ],
 "audioChannelCounts": [
 ""
