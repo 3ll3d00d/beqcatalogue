@@ -2151426,6 +2151426,70 @@
 "filterAuthor": "human"
 },
 {
+"title": "Hunter Killer",
+"year": "2018",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/hunter-killer/#atmos",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 12.0,
+"gain": 3.2,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000727357487447",
+"-1.9996728037507545",
+"0.9996006847515279"
+],
+"a": [
+"1.9996728037507545",
+"-0.9996734205002724"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hunter%20Killer/Hunter%20Killer%20(2018)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hunter%20Killer/Hunter%20Killer%20(2018)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "hunter killer",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Untested American submarine commander, Capt. Joe Glass of the USS Arkansas, is on the hunt for a U.S. sub in distress in the Arctic Ocean. He soon learns a secret Russian coup is in the offing, a conspiracy that threatens to dismantle the world order. With crew and country on the line, Glass must coordinate with an elite group of Navy SEALs to sneak through enemy waters, rescue the kidnapped Russian president, and hopefully prevent World War III.",
+"theMovieDB": "399402",
+"rating": "R",
+"runtime": "121",
+"genres": [
+"Action",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Hunter Killer (2018) BEQ Atmos",
+"digest": "c8eaaeade6b024bca20357158924da100a8a74ab4210e3373830cf6ea7a6bb82",
+"created_at": 1794573533,
+"updated_at": 1794573533,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Hunting Season",
 "year": "2025",
 "audioTypes": [
@@ -2188205,6 +2188269,148 @@
 "digest": "39fe3a70f73d495607b94c57e249b9797c277f1441edf090debc717a4f78cbd7",
 "created_at": 1745946707,
 "updated_at": 1745946707,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Never After Dark",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/never-after-dark/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003882543178737",
+"-1.9987692993276802",
+"0.9983833075447823"
+],
+"a": [
+"1.9987700054225317",
+"-0.9987708557678042"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003882543178737",
+"-1.9987692993276802",
+"0.9983833075447823"
+],
+"a": [
+"1.9987700054225317",
+"-0.9987708557678042"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003882543178737",
+"-1.9987692993276802",
+"0.9983833075447823"
+],
+"a": [
+"1.9987700054225317",
+"-0.9987708557678042"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": -3.3,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.999859347927731",
+"-1.9991069244255284",
+"0.9992506979119262"
+],
+"a": [
+"1.9991069244255284",
+"-0.9991100458396572"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Never%20After%20Dark/Never%20After%20Dark%20(2026)%20(jp)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/N/Never%20After%20Dark/Never%20After%20Dark%20(2026)%20(jp)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "never after dark",
+"edition": "",
+"note": "",
+"language": "Japanese",
+"source": "Disc",
+"overview": "A traveling psychic who helps lost souls cross over encounters a powerful entity at a remote house. While investigating its origins, she uncovers dark secrets and faces a deadly threat from an unexpected source.",
+"theMovieDB": "1629051",
+"rating": "",
+"runtime": "104",
+"genres": [
+"Horror"
+],
+"altTitle": "Never After Dark\uff0f\u30cd\u30d0\u30fc\u30a2\u30d5\u30bf\u30fc\u30c0\u30fc\u30af",
+"collection": {},
+"underlying": "Never After Dark (2026) BEQ DD+",
+"digest": "efe2045fa649cb6649b038ffe11b9660c4fa6d7328036f077c44cf3a568eb8ad",
+"created_at": 1794573533,
+"updated_at": 1794573533,
 "audioCodecs": [
 "DD+"
 ],
@@ -2284356,6 +2284562,189 @@
 ],
 "audioChannelCounts": [
 "5.1"
+],
+"filterAuthor": "human"
+},
+{
+"title": "V for Vendetta",
+"year": "2005",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/v-for-vendetta/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.6,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001924467700694",
+"-1.9992985671052006",
+"0.9991067835664607"
+],
+"a": [
+"1.9992987604804473",
+"-0.9992990369612826"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.6,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001924467700694",
+"-1.9992985671052006",
+"0.9991067835664607"
+],
+"a": [
+"1.9992987604804473",
+"-0.9992990369612826"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": -3.1,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998679647832209",
+"-1.9991171071494491",
+"0.9992522637962565"
+],
+"a": [
+"1.9991171071494491",
+"-0.9991202285794775"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 55.0,
+"gain": 0.1,
+"q": 2.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0000082828102277",
+"-1.9985564465499372",
+"0.9985611125961988"
+],
+"a": [
+"1.9985564465499372",
+"-0.9985693954064264"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/V%20for%20Vendetta/V%20for%20Vendetta%20(2005)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/V%20for%20Vendetta/V%20for%20Vendetta%20(2005)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "v for vendetta",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as \u201cV\u201d conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+"theMovieDB": "752",
+"rating": "R",
+"runtime": "132",
+"genres": [
+"Action",
+"Thriller",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "V for Vendetta (2005) BEQ Atmos",
+"digest": "e1ea00333d830227ba201ab883a23d6adeeaf6235a73f19ea938bc0a1630a556",
+"created_at": 1794573533,
+"updated_at": 1794573533,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
 ],
 "filterAuthor": "human"
 },
