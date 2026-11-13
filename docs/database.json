@@ -2076216,6 +2076216,192 @@
 "filterAuthor": "human"
 },
 {
+"title": "Angel Has Fallen",
+"year": "2019",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/angel-has-fallen/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002655769735582",
+"-1.9989293946365287",
+"0.9986652590064043"
+],
+"a": [
+"1.9989297933960144",
+"-0.9989304372204769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002655769735582",
+"-1.9989293946365287",
+"0.9986652590064043"
+],
+"a": [
+"1.9989297933960144",
+"-0.9989304372204769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -2.4,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9998704836305112",
+"-1.9989202058028075",
+"0.9990565723834077"
+],
+"a": [
+"1.9989202058028075",
+"-0.998927056013919"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Angel%20Has%20Fallen/Angel%20Has%20Fallen%20(2019)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Angel%20Has%20Fallen/Angel%20Has%20Fallen%20(2019)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "angel has fallen",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After a treacherous attack, Secret Service agent Mike Banning is charged with attempting to assassinate President Trumbull. Chased by his own colleagues and the FBI, Banning begins a race against the clock to clear his name.",
+"theMovieDB": "423204",
+"rating": "R",
+"runtime": "122",
+"genres": [
+"Action",
+"Thriller"
+],
+"altTitle": "",
+"collection": {
+"id": "386534",
+"name": "Has Fallen Collection"
+},
+"underlying": "Angel Has Fallen (2019) BEQ DD+ Atmos",
+"digest": "14fed561cb91d2038706f05f64c36770f91e43f44f07968a0ad723eba4f1d20d",
+"created_at": 1794539542,
+"updated_at": 1794539542,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Angels & Demons",
 "year": "2009",
 "audioTypes": [
@@ -2078284,6 +2078470,133 @@
 "digest": "a12e5764c69acff379443e9634ff4ca344997ab4413512ba0d459656bb33632a",
 "created_at": 1777062923,
 "updated_at": 1777062923,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Apocalypse Z: New World",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/apocalypse-z-new-world/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005717245339598",
+"-1.9983145866329366",
+"0.9977473529829284"
+],
+"a": [
+"1.9983160353620346",
+"-0.9983176287877903"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005717245339598",
+"-1.9983145866329366",
+"0.9977473529829284"
+],
+"a": [
+"1.9983160353620346",
+"-0.9983176287877903"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": -4.4,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9997404635435259",
+"-1.998689846486594",
+"0.9989534968722729"
+],
+"a": [
+"1.998689846486594",
+"-0.9986939604157988"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Apocalypse%20Z%20-%20New%20World/Apocalypse%20Z%20-%20New%20World%20(2026)%20(es)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Apocalypse%20Z%20-%20New%20World/Apocalypse%20Z%20-%20New%20World%20(2026)%20(es)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "apocalypse z: new world",
+"edition": "",
+"note": "",
+"language": "Spanish",
+"source": "Disc",
+"overview": "The Canary Islands have become Europe\u2019s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+"theMovieDB": "1507696",
+"rating": "R",
+"runtime": "96",
+"genres": [
+"Action",
+"Thriller",
+"Horror"
+],
+"altTitle": "Apocalipsis Z: Nuevo mundo",
+"collection": {
+"id": "1507701",
+"name": "Apocalypse Z Collection"
+},
+"underlying": "Apocalypse Z- New World (2026) BEQ DD+ Atmos",
+"digest": "c4af762dbffe2268933692731bbe4707c673b19aa467a99fff519e4e28d42c64",
+"created_at": 1794539542,
+"updated_at": 1794539542,
 "audioCodecs": [
 "DD+ Atmos"
 ],
