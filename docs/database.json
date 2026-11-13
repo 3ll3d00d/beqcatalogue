@@ -2153120,11 +2153120,12 @@
 "title": "Ice Cream Man",
 "year": "2026",
 "audioTypes": [
+"DTS-HD MA 5.1",
 "DD+"
 ],
 "content_type": "film",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/ice-cream-man/#dd",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/ice-cream-man/#dts-hd-ma-51-dd",
 "filters": [
 {
 "type": "LowShelf",
@@ -2153285,8 +2153286,8 @@
 }
 ],
 "images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Ice%20Cream%20Man/Ice%20Cream%20Man%20(2026)%20DD%2B%205.1.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Ice%20Cream%20Man/Ice%20Cream%20Man%20(2026)%20DD%2B%205.1hm.jpg"
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Ice%20Cream%20Man/Ice%20Cream%20Man%20(2026)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Ice%20Cream%20Man/Ice%20Cream%20Man%20(2026)%20DTS-HD%20MA%205.1hm.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -2153307,14 +2153308,16 @@
 ],
 "altTitle": "",
 "collection": {},
-"underlying": "Ice Cream Man (2026) BEQ DD+",
+"underlying": "Ice Cream Man (2026) BEQ DTS-HD MA 5.1",
 "digest": "f4b5f02d831c1f35e43312d6aa9e750cc3edcf53ed8e0e1a4ffbccacdcf64396",
-"created_at": 1790209873,
-"updated_at": 1790209873,
+"created_at": 1794590508,
+"updated_at": 1794590508,
 "audioCodecs": [
+"DTS-HD MA",
 "DD+"
 ],
 "audioChannelCounts": [
+"5.1",
 ""
 ],
 "filterAuthor": "human"
