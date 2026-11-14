@@ -1919649,10 +1919649,12 @@
 {
 "title": "Queen Rock Montreal",
 "year": "2024",
-"audioTypes": [],
+"audioTypes": [
+"DD+ Atmos"
+],
 "content_type": "film",
 "author": "remixmark",
-"catalogue_url": "",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/queen-rock-montreal/#dd-atmos",
 "filters": [
 {
 "type": "LowShelf",
@@ -1919782,20 +1919784,29 @@
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1806#post-65013333",
 "sortTitle": "queen rock montreal",
 "edition": "",
-"note": "AI Created",
+"note": "Dialnorm Compensation: 13dB AI Created",
 "language": "English",
 "source": "Disc",
-"overview": "",
+"overview": "The iconic rock band Queen performs their best hits like \"We Will Rock You, \" \"Somebody To Love, \" and \"Bohemian Rhapsody\" in an unforgettable live concert.",
 "theMovieDB": "1534626",
 "rating": "",
-"runtime": "0",
-"genres": [],
+"runtime": "95",
+"genres": [
+"Music",
+"Documentary"
+],
 "altTitle": "",
 "collection": {},
-"underlying": "Queen Rock Montreal (2024) (+0.5 gain) BEQ Unknown Audio remixmark",
+"underlying": "Queen Rock Montreal (2024) (+0.5 gain) BEQ DD+ Atmos remixmark",
 "digest": "9da19e858616860ac2e5afc0c301abdc7002ab4bcdb367058b38dd5c850010ae",
-"created_at": 1794605657,
-"updated_at": 1794605657,
+"created_at": 1794660408,
+"updated_at": 1794660408,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
 "filterAuthor": "model"
 },
 {
