@@ -12,3 +12,5 @@ Science teacher Ryland Grace wakes up on a spaceship light years from home with 
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Project%20Hail%20Mary/Project%20Hail%20Mary%20(2026)%20Atmos.jpg)
 
+![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Project%20Hail%20Mary/Project%20Hail%20Mary%20(2026)%20Atmoshm.jpg)
+

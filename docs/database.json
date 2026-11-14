@@ -2071802,6 +2071802,188 @@
 "filterAuthor": "human"
 },
 {
+"title": "Abraham's Boys: A Dracula Story",
+"year": "2025",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/abrahams-boys-a-dracula-story/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002027506418185",
+"-1.9993065836021406",
+"0.9991045116430174"
+],
+"a": [
+"1.9993067878492643",
+"-0.9993070580377119"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -3.1,
+"q": 2.7,
+"biquads": {
+"96000": {
+"b": [
+"0.9998609044734156",
+"-1.9990688001680434",
+"0.9992122801511363"
+],
+"a": [
+"1.9990688001680434",
+"-0.9990731846245519"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000075110065843",
+"-1.9935081458550943",
+"0.9934757343308118"
+],
+"a": [
+"1.9935081458550943",
+"-0.993550844396655"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Abraham's%20Boys/Abrahams%20Boys%20(2025)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Abraham's%20Boys/Abrahams%20Boys%20(2025)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "abraham's boys: a dracula story",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Max and Rudy Van Helsing have spent their lives under the strict and overprotective rule of their father, Abraham. Unaware of his dark past, they struggle to understand his paranoia and increasingly erratic behavior. But when they begin to uncover the violent truths behind their father\u2019s history with Dracula, their world unravels, forcing them to confront the terrifying legacy they were never meant to inherit.",
+"theMovieDB": "1452176",
+"rating": "R",
+"runtime": "89",
+"genres": [
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Abraham's Boys- A Dracula Story (2025) BEQ DTS-HD MA 5.1",
+"digest": "225a033a566757604b13e002e435a27db08cf1c1fe21df629dbc02ac14ec2e1e",
+"created_at": 1794696693,
+"updated_at": 1794696693,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Accident Man: Hitman's Holiday",
 "year": "2022",
 "audioTypes": [
@@ -2206185,7 +2206367,8 @@
 }
 ],
 "images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Project%20Hail%20Mary/Project%20Hail%20Mary%20(2026)%20Atmos.jpg"
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Project%20Hail%20Mary/Project%20Hail%20Mary%20(2026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Project%20Hail%20Mary/Project%20Hail%20Mary%20(2026)%20Atmoshm.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -2206203,12 +2206386,12 @@
 "Science Fiction",
 "Adventure"
 ],
-"altTitle": "https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/P/Project%20Hail%20Mary/Project%20Hail%20Mary%20(2026)%20Atmoshm.jpg",
+"altTitle": "",
 "collection": {},
 "underlying": "Project Hail Mary (2026) BEQ Atmos",
 "digest": "60f53ef3328808b2d57ecbf8d2309bac665d24a0364745919e5e4c839dc6a532",
 "created_at": 1785342702,
-"updated_at": 1785342702,
+"updated_at": 1794696736,
 "audioCodecs": [
 "Atmos",
 "DD+ Atmos"
