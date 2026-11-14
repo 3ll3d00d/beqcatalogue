@@ -2259167,6 +2259167,131 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Mist",
+"year": "2007",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-mist/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -5.4,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9998638215738207",
+"-1.9989806640021976",
+"0.99911715618719"
+],
+"a": [
+"1.9989805287584794",
+"-0.9989811130047291"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004115926105115",
+"-1.9987868298314426",
+"0.9983775658435835"
+],
+"a": [
+"1.9987875810295208",
+"-0.9987884072560163"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004115926105115",
+"-1.9987868298314426",
+"0.9983775658435835"
+],
+"a": [
+"1.9987875810295208",
+"-0.9987884072560163"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -1.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999557804692256",
+"-1.9992521244004269",
+"0.9993007287897856"
+],
+"a": [
+"1.9992521244004269",
+"-0.9992565092590113"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Mist/The%20Mist%20(2007)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Mist/The%20Mist%20(2007)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "mist",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+"theMovieDB": "5876",
+"rating": "R",
+"runtime": "126",
+"genres": [
+"Horror",
+"Science Fiction",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Mist (2007) BEQ DD+ Atmos",
+"digest": "c60c27fc637325f1e1ff6f9ce683044d91ee0f8367f7dd7ba19effb641145b56",
+"created_at": 1794696181,
+"updated_at": 1794696181,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Mitchells vs. the Machines",
 "year": "2021",
 "audioTypes": [
