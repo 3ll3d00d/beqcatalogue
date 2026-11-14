@@ -1919994,6 +1919994,131 @@
 "filterAuthor": "model"
 },
 {
+"title": "Queen Rock Montreal",
+"year": "2024",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/queen-rock-montreal/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.07,
+"gain": 2.49,
+"q": 2.41,
+"biquads": {
+"96000": {
+"b": [
+"1.0000255087319312",
+"-1.999668913809042",
+"0.9996442494741271"
+],
+"a": [
+"1.9996690190386195",
+"-0.9996696529764807"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.72,
+"gain": 2.01,
+"q": 2.81,
+"biquads": {
+"96000": {
+"b": [
+"1.0000239640805773",
+"-1.9996091919962042",
+"0.9995867376832084"
+],
+"a": [
+"1.9996093479444332",
+"-0.9996105458155569"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.37,
+"gain": 10.85,
+"q": 1.11,
+"biquads": {
+"96000": {
+"b": [
+"1.0006632087149676",
+"-1.9984685855406659",
+"0.9978153769683434"
+],
+"a": [
+"1.998472151852849",
+"-0.9984750193711279"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 81.52,
+"gain": 2.89,
+"q": 0.64,
+"biquads": {
+"96000": {
+"b": [
+"1.0006939664380878",
+"-1.9923293079146853",
+"0.9916688328109864"
+],
+"a": [
+"1.9923340474680735",
+"-0.9923580596956866"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Queen%20Rock%20Montreal%20%282024%29%20%281080p%29%20%28-9.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Queen%20Rock%20Montreal%20%282024%29%20%281080p%29%20%28-9.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "-9.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1806#post-65015441",
+"sortTitle": "queen rock montreal",
+"edition": "1080p",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "The iconic rock band Queen performs their best hits like \"We Will Rock You, \" \"Somebody To Love, \" and \"Bohemian Rhapsody\" in an unforgettable live concert.",
+"theMovieDB": "1534626",
+"rating": "",
+"runtime": "95",
+"genres": [
+"Music",
+"Documentary"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Queen Rock Montreal (2024) (1080p) (-9.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "63d8ebe2c5b63cb16f16d380586aca523e11ca3d1c99c1bc4cd3881c76fe9da9",
+"created_at": 1794689447,
+"updated_at": 1794689447,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Rabbit Trap",
 "year": "2025",
 "audioTypes": [
