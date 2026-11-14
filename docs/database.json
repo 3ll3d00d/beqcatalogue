@@ -2160526,6 +2160526,153 @@
 "filterAuthor": "human"
 },
 {
+"title": "Jailer 2",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/jailer-2/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002272256809936",
+"-1.9988982012948295",
+"0.9986723363085198"
+],
+"a": [
+"1.9988985406607693",
+"-0.9988992226235734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002272256809936",
+"-1.9988982012948295",
+"0.9986723363085198"
+],
+"a": [
+"1.9988985406607693",
+"-0.9988992226235734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 3.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000150919031251",
+"-1.9983985946227234",
+"0.9982497104289463"
+],
+"a": [
+"1.9983988917641544",
+"-0.9984003323187666"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": 3.7,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001755136742636",
+"-1.9993363639983701",
+"0.9991635267402565"
+],
+"a": [
+"1.9993363639983701",
+"-0.9993390404145202"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -1.2,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999321650672952",
+"-1.9989430436437186",
+"0.9990164273078069"
+],
+"a": [
+"1.9989430436437186",
+"-0.9989485923751023"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jailer/Jailer%202%20(2026)%20(hi)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jailer/Jailer%202%20(2026)%20(hi)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "jailer 2",
+"edition": "",
+"note": "",
+"language": "Hindi",
+"source": "Disc",
+"overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
+"theMovieDB": "1234139",
+"rating": "NR",
+"runtime": "163",
+"genres": [
+"Action",
+"Comedy",
+"Drama"
+],
+"altTitle": "\u0b9c\u0bc6\u0baf\u0bbf\u0bb2\u0bb0\u0bcd 2",
+"collection": {
+"id": "1432059",
+"name": "Jailer Collection"
+},
+"underlying": "Jailer 2 (2026) BEQ DD+",
+"digest": "15b6f1133a4cef014d45a023e0f5cae19ec94e5477bb00bcdb013d542e5a647e",
+"created_at": 1794683632,
+"updated_at": 1794683632,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Jane Got a Gun",
 "year": "2015",
 "audioTypes": [
