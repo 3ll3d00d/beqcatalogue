@@ -1907296,6 +1907296,190 @@
 "title": "National Treasure",
 "year": "2004",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/national-treasure/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.92,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0003092023597415",
+"-1.9990779331868558",
+"0.9987715928784971"
+],
+"a": [
+"1.9990788517673457",
+"-0.9990798766577486"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 36.98,
+"gain": 1.78,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0001129589661186",
+"-1.9979058850719196",
+"0.9977994094226007"
+],
+"a": [
+"1.9979064857373336",
+"-0.9979117677233057"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 36.98,
+"gain": 1.78,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0001129589661186",
+"-1.9979058850719196",
+"0.9977994094226007"
+],
+"a": [
+"1.9979064857373336",
+"-0.9979117677233057"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 36.98,
+"gain": 1.78,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0001129589661186",
+"-1.9979058850719196",
+"0.9977994094226007"
+],
+"a": [
+"1.9979064857373336",
+"-0.9979117677233057"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.54,
+"gain": -2.95,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9999162843017518",
+"-1.9989280477806395",
+"0.9990127518172194"
+],
+"a": [
+"1.99892784792396",
+"-0.9989292359756505"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.99,
+"gain": -4.52,
+"q": 7.49,
+"biquads": {
+"96000": {
+"b": [
+"0.9999287548622912",
+"-1.999644672756478",
+"0.9997200311337309"
+],
+"a": [
+"1.999644672756478",
+"-0.9996487859960218"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 65.59,
+"gain": 1.14,
+"q": 1.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0001876913678587",
+"-1.997305066283564",
+"0.9971357788330957"
+],
+"a": [
+"1.997305066283564",
+"-0.9973234702009542"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/National%20Treasure%20%282004%29%20%282160p%29%20%28%2B8.0%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/National%20Treasure%20%282004%29%20%282160p%29%20%28%2B8.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "8.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1806#post-65014835",
+"sortTitle": "national treasure",
+"edition": "2160p",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Modern treasure hunters, led by archaeologist Ben Gates, search for a chest of riches rumored to have been stashed away by George Washington, Thomas Jefferson and Benjamin Franklin during the Revolutionary War. The chest's whereabouts may lie in secret clues embedded in the Constitution and the Declaration of Independence, and Gates is in a race to find the gold before his enemies do.",
+"theMovieDB": "2059",
+"rating": "PG",
+"runtime": "131",
+"genres": [
+"Adventure",
+"Action",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "National Treasure (2004) (2160p) (+8.0 gain) BEQ Atmos remixmark",
+"digest": "879a075f520de2b29807d1c2440be96979b123083fe48380ab52daef0b1d1104",
+"created_at": 1794674306,
+"updated_at": 1794674306,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "National Treasure",
+"year": "2004",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
