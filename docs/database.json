@@ -2352912,6 +2352912,147 @@
 "filterAuthor": "human"
 },
 {
+"title": "Treasure Island",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/treasure-island/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0007643877056815",
+"-1.9980341997167677",
+"0.9972766611145292"
+],
+"a": [
+"1.9980365413301486",
+"-0.9980387072068297"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -2.1,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998678941983249",
+"-1.998762910837918",
+"0.9989018663116618"
+],
+"a": [
+"1.998762910837918",
+"-0.9987697605099864"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Treasure%20Island/Treasure%20Island%20S01E01-06%20(2026)%20DD%2B%2051.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Treasure%20Island/Treasure%20Island%20S01E01-06%20(2026)%20DD%2B%2051hm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "treasure island",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Amazon",
+"overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate\u2019s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+"theMovieDB": "333101",
+"rating": "TV-PG",
+"genres": [
+"Action & Adventure"
+],
+"underlying": "Treasure Island (2026) (Season 01) (Amazon) BEQ DD+",
+"digest": "339b6af908f9fd47c06c28f16b0ffd0ec83927fdaff0460650e64fc0957d205f",
+"created_at": 1794787646,
+"updated_at": 1794787646,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "True Detective",
 "year": "2014",
 "audioTypes": [
