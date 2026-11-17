@@ -2240580,6 +2240580,113 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Death and Return of Superman",
+"year": "2019",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-death-and-return-of-superman/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -4.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.999899308227179",
+"-1.9990208938517628",
+"0.9991219257230525"
+],
+"a": [
+"1.9990207943911233",
+"-0.999021333410871"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006369312862577",
+"-1.9983621913423553",
+"0.9977300171552922"
+],
+"a": [
+"1.998363817728527",
+"-0.9983653220553782"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -1.0,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999461741851012",
+"-1.9990032409207539",
+"0.9990639172313218"
+],
+"a": [
+"1.9990032409207539",
+"-0.9990100914164232"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Death%20and%20Return%20of%20Superman/The%20Death%20and%20Return%20of%20Superman%20(2019)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Death%20and%20Return%20of%20Superman/The%20Death%20and%20Return%20of%20Superman%20(2019)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "death and return of superman",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "The Death of Superman and Reign of the Supermen now presented as an over two-hour unabridged and seamless animated feature. Witness the no-holds-barred battle between the Justice League and an unstoppable alien force known only as Doomsday, a battle that only Superman can finish and will forever change the face of Metropolis.",
+"theMovieDB": "630656",
+"rating": "",
+"runtime": "166",
+"genres": [
+"Science Fiction",
+"Adventure",
+"Animation",
+"Action",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Death and Return of Superman (2019) BEQ DTS-HD MA 5.1",
+"digest": "8260cc1995e4938ea084335e1c79a1c8ee998fd018ae090eb928118110f5f0aa",
+"created_at": 1794875906,
+"updated_at": 1794875906,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Death of Robin Hood",
 "year": "2026",
 "audioTypes": [
