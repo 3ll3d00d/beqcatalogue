@@ -2341293,6 +2341293,129 @@
 "filterAuthor": "human"
 },
 {
+"title": "Terminator: The Sarah Connor Chronicles",
+"year": "2008",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/terminator-the-sarah-connor-chronicles/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000379806853703",
+"-1.998592654274975",
+"0.9982154841895409"
+],
+"a": [
+"1.9985934167011294",
+"-0.998594528617089"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": 2.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000066077634254",
+"-1.9995141285386573",
+"0.9994507275585182"
+],
+"a": [
+"1.9995141285386573",
+"-0.9995168051927722"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -1.3,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999428283517448",
+"-1.999172177978984",
+"0.9992345949777259"
+],
+"a": [
+"1.999172177978984",
+"-0.9991774233294705"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Terminator%20-%20The%20Sarah%20Connor%20Chronicles/Terminator%20-%20The%20Sarah%20Connor%20Chronicles%20S01E01-09%20(2008)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Terminator%20-%20The%20Sarah%20Connor%20Chronicles/Terminator%20-%20The%20Sarah%20Connor%20Chronicles%20S01E01-09%20(2008)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "terminator: the sarah connor chronicles",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "The series picks up four years after the events of Terminator 2: Judgment Day with John and Sarah Connor trying to stay under-the-radar from the government, as they plot to destroy the computer network, Skynet, in hopes of preventing Armageddon.",
+"theMovieDB": "433",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama",
+"Action & Adventure"
+],
+"underlying": "Terminator- The Sarah Connor Chronicles (2008) (Season 01) BEQ DD+",
+"digest": "4cadc5153821b5bd771806288f5f4dca7e468b7315e257c329d7076bf8a41c58",
+"created_at": 1795016504,
+"updated_at": 1795016504,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The 'Burbs",
 "year": "2026",
 "audioTypes": [
