@@ -1897654,6 +1897654,131 @@
 "filterAuthor": "human"
 },
 {
+"title": "Madden",
+"year": "2026",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/madden/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.69,
+"q": 0.98,
+"biquads": {
+"96000": {
+"b": [
+"1.0001294430724232",
+"-1.9994488106092843",
+"0.9993199969671885"
+],
+"a": [
+"1.9994489796384984",
+"-0.9994492710103973"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.4,
+"gain": 15.93,
+"q": 1.13,
+"biquads": {
+"96000": {
+"b": [
+"1.0007547251638984",
+"-1.9989924822428347",
+"0.9982457988307892"
+],
+"a": [
+"1.998995860696366",
+"-0.9989971455411565"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 26.95,
+"gain": 0.25,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000042518777628",
+"-1.9994133176809812",
+"0.999412221228947"
+],
+"a": [
+"1.9994133624439268",
+"-0.9994164283437647"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 24.58,
+"gain": 12.18,
+"q": 0.47,
+"biquads": {
+"96000": {
+"b": [
+"1.0012241949389373",
+"-1.9975889585028985",
+"0.996369975006033"
+],
+"a": [
+"1.9975909231207725",
+"-0.9975922053270968"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Madden%20%282026%29%20%28%2B4.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Madden%20%282026%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1807#post-65028431",
+"sortTitle": "madden",
+"edition": "",
+"note": "Dialnorm Compensation: 7dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
+"theMovieDB": "1131943",
+"rating": "R",
+"runtime": "112",
+"genres": [
+"Drama",
+"History"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Madden (2026) (+4.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "26e9e22117410e8705793730b5499fb89c938a393e7ead2c990ffaa1d45a0cd7",
+"created_at": 1795027434,
+"updated_at": 1795027434,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Made",
 "year": "2001",
 "audioTypes": [
