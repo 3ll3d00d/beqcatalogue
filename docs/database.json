@@ -2142350,6 +2142350,168 @@
 "filterAuthor": "human"
 },
 {
+"title": "Guarding Stars",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/guarding-stars/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004426919299572",
+"-1.9982151358979345",
+"0.9977764462728287"
+],
+"a": [
+"1.9982162431684063",
+"-0.9982180309323144"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004426919299572",
+"-1.9982151358979345",
+"0.9977764462728287"
+],
+"a": [
+"1.9982162431684063",
+"-0.9982180309323144"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004426919299572",
+"-1.9982151358979345",
+"0.9977764462728287"
+],
+"a": [
+"1.9982162431684063",
+"-0.9982180309323144"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": 6.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000215158662593",
+"-1.9995642765820467",
+"0.9993524755995371"
+],
+"a": [
+"1.9995642765820467",
+"-0.99956763426213"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -4.4,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9997488304563915",
+"-1.998730516260626",
+"0.9989872339456775"
+],
+"a": [
+"1.998730516260626",
+"-0.998736064402069"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Guarding%20Stars/Guarding%20Stars%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Guarding%20Stars/Guarding%20Stars%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "guarding stars",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+"theMovieDB": "1551025",
+"rating": "",
+"runtime": "109",
+"genres": [
+"Comedy",
+"Romance"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Guarding Stars (2026) BEQ DD+",
+"digest": "f777e4eeccba3f5d3f3ef1e39aceba25ca7a6ba5fab442da099a81d5a69681b5",
+"created_at": 1795022781,
+"updated_at": 1795022781,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Guns & Moses",
 "year": "2025",
 "audioTypes": [
