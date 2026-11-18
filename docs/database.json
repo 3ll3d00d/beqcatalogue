@@ -2178368,6 +2178368,169 @@
 "filterAuthor": "human"
 },
 {
+"title": "Madden",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/madden/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006472175187417",
+"-1.9979479439454748",
+"0.9973070086723911"
+],
+"a": [
+"1.9979499045168532",
+"-0.9979522656197546"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006472175187417",
+"-1.9979479439454748",
+"0.9973070086723911"
+],
+"a": [
+"1.9979499045168532",
+"-0.9979522656197546"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 48.0,
+"gain": -1.7,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9998900943306736",
+"-1.9987535556355678",
+"0.9988733247989008"
+],
+"a": [
+"1.9987535556355678",
+"-0.9987634191295743"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Madden/Madden%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Madden/Madden%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "madden",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football\u2019s most recognizable voice, to building the worldwide Madden NFL video game.",
+"theMovieDB": "1131943",
+"rating": "R",
+"runtime": "110",
+"genres": [
+"Drama",
+"History"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Madden (2026) BEQ DD+ Atmos",
+"digest": "622e79b200d5029c0b887953aabce45219706223b55f6cf8c554e7bef06d8940",
+"created_at": 1795021943,
+"updated_at": 1795021943,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Maleficent",
 "year": "2014",
 "audioTypes": [
