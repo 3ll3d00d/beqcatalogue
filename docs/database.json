@@ -1854694,6 +1854694,170 @@
 "filterAuthor": "human"
 },
 {
+"title": "Con Air",
+"year": "1997",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/con-air/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 30.01,
+"gain": 1.84,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.00003488349237",
+"-1.9993753693795382",
+"0.9993447734880184"
+],
+"a": [
+"1.9993757786398305",
+"-0.9993792477200962"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.47,
+"gain": 12.82,
+"q": 1.44,
+"biquads": {
+"96000": {
+"b": [
+"1.0002829252921293",
+"-1.9994810466808666",
+"0.9992005513095065"
+],
+"a": [
+"1.999481983950051",
+"-0.9994825393324511"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 24.14,
+"gain": 9.12,
+"q": 2.04,
+"biquads": {
+"96000": {
+"b": [
+"1.0002062665198888",
+"-1.9994016463381106",
+"0.9991995983613234"
+],
+"a": [
+"1.9994030174802764",
+"-0.9994044937390466"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 50.27,
+"gain": 0.05,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000015930128907",
+"-1.9988946379235106",
+"0.9989038953396505"
+],
+"a": [
+"1.9988946690638405",
+"-0.9989054572122106"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.6,
+"gain": 13.0,
+"q": 1.45,
+"biquads": {
+"96000": {
+"b": [
+"1.001243446363952",
+"-1.9992778277510275",
+"0.9980392157567228"
+],
+"a": [
+"1.9992778277510275",
+"-0.9992826621206747"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 10.0,
+"gain": -3.57,
+"q": 0.74,
+"biquads": {
+"96000": {
+"b": [
+"0.9998170562431957",
+"-1.9989139187712914",
+"0.9990972906637974"
+],
+"a": [
+"1.9989139187712914",
+"-0.9989143469069931"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Con%20Air%20%281997%29%20%28%2B2.5%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Con%20Air%20%281997%29%20%28%2B2.5%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "2.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1807#post-65028769",
+"sortTitle": "con air",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Newly-paroled former US Army ranger Cameron Poe is headed back to his wife, but must fly home aboard a prison transport flight dubbed \"Jailbird\" taking the \u201cworst of the worst\u201d prisoners, a group described as \u201cpure predators\u201d, to a new super-prison. Poe faces impossible odds when the transport plane is skyjacked mid-flight by the most vicious criminals in the country led by the mastermind \u2014 genius serial killer Cyrus \"The Virus\" Grissom, and backed by black militant Diamond Dog and psychopath Billy Bedlam.",
+"theMovieDB": "1701",
+"rating": "R",
+"runtime": "116",
+"genres": [
+"Action",
+"Thriller",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Con Air (1997) (+2.5 gain) BEQ Atmos remixmark",
+"digest": "48db617e57eb812e2e1f25b28f15dd476251f33e794647d706b297a709d3ed7c",
+"created_at": 1795035040,
+"updated_at": 1795035040,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Coneheads",
 "year": "1993",
 "audioTypes": [
