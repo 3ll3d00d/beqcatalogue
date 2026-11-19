@@ -2343364,6 +2343364,109 @@
 "filterAuthor": "human"
 },
 {
+"title": "Terminator: The Sarah Connor Chronicles",
+"year": "2008",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/terminator-the-sarah-connor-chronicles/#season-02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006369312862577",
+"-1.9983621913423553",
+"0.9977300171552922"
+],
+"a": [
+"1.998363817728527",
+"-0.9983653220553782"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -1.5,
+"q": 2.3,
+"biquads": {
+"96000": {
+"b": [
+"0.999911482947832",
+"-1.998878255474561",
+"0.9989723210782714"
+],
+"a": [
+"1.998878255474561",
+"-0.9988838040261034"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Terminator%20-%20The%20Sarah%20Connor%20Chronicles/Terminator%20-%20The%20Sarah%20Connor%20Chronicles%20S02E01-22%20(2008)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/Terminator%20-%20The%20Sarah%20Connor%20Chronicles/Terminator%20-%20The%20Sarah%20Connor%20Chronicles%20S02E01-22%20(2008)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "02",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "terminator: the sarah connor chronicles",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "The series picks up four years after the events of Terminator 2: Judgment Day with John and Sarah Connor trying to stay under-the-radar from the government, as they plot to destroy the computer network, Skynet, in hopes of preventing Armageddon.",
+"theMovieDB": "433",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Drama",
+"Action & Adventure"
+],
+"underlying": "Terminator- The Sarah Connor Chronicles (2008) (Season 02) BEQ DD+",
+"digest": "dbeed3c90bbe04b1ca9148cc94a1b682faefd2cbe88b57d212644bb3c7a1d712",
+"created_at": 1795113371,
+"updated_at": 1795113371,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The 'Burbs",
 "year": "2026",
 "audioTypes": [
