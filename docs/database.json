@@ -1678612,6 +1678612,150 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Convert",
+"year": "2024",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "kaelaria",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/the-convert/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -2.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999030817563669",
+"-1.999128457604851",
+"0.9992306210842588"
+],
+"a": [
+"1.999128457604851",
+"-0.9991337028406255"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The%20Convert%20(2024)%20DD%2B.jpg",
+"https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The%20Convert%20(2024)%20DD%2Bhm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "convert",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Munro, a soldier turned lay preacher, comes to New Zealand to minister to the first British colonists, but he is converted by the powerful chief Maianui to serve a different purpose.",
+"theMovieDB": "1066262",
+"rating": "",
+"runtime": "119",
+"genres": [
+"Action",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Convert (2024) BEQ DD+",
+"digest": "75940df053c62b82613f47dbbc70b45400974c910d646a0bad590614b552672b",
+"created_at": 1795130773,
+"updated_at": 1795130773,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Crazies",
 "year": "2010",
 "audioTypes": [
@@ -1790246,149 +1790390,6 @@
 "updated_at": 1712799229,
 "audioCodecs": [
 "DD+ Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
-"title": "The Convert",
-"year": "2024",
-"audioTypes": [
-"DD+"
-],
-"content_type": "TV",
-"author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/the-convert-TV",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000405564975543",
-"-1.998612699125038",
-"0.9982098479400572"
-],
-"a": [
-"1.9986135158305778",
-"-0.9986145962100599"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000405564975543",
-"-1.998612699125038",
-"0.9982098479400572"
-],
-"a": [
-"1.9986135158305778",
-"-0.9986145962100599"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000405564975543",
-"-1.998612699125038",
-"0.9982098479400572"
-],
-"a": [
-"1.9986135158305778",
-"-0.9986145962100599"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000405564975543",
-"-1.998612699125038",
-"0.9982098479400572"
-],
-"a": [
-"1.9986135158305778",
-"-0.9986145962100599"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 35.0,
-"gain": -2.2,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999030817563669",
-"-1.999128457604851",
-"0.9992306210842588"
-],
-"a": [
-"1.999128457604851",
-"-0.9991337028406255"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The%20Convert%20(2024)%20DD%2B.jpg",
-"https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The%20Convert%20(2024)%20DD%2Bhm.jpg"
-],
-"warning": "",
-"season": "",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "convert",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "Munro, a soldier turned lay preacher, comes to New Zealand to minister to the first British colonists, but he is converted by the powerful chief Maianui to serve a different purpose.",
-"theMovieDB": "1066262",
-"rating": "",
-"genres": [
-"Action",
-"Drama"
-],
-"underlying": "The Convert (2024) BEQ DD+",
-"digest": "cfdbe1eebe0f0908199c7cb70c1d1ae2311c8658f462cb132bac970ea05c45bb",
-"created_at": 1720795207,
-"updated_at": 1720795207,
-"audioCodecs": [
-"DD+"
 ],
 "audioChannelCounts": [
 ""

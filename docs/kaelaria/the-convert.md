@@ -14,3 +14,17 @@ Munro, a soldier turned lay preacher, comes to New Zealand to minister to the fi
 
 ![img 1](https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/The%20Convert%20(2024)%20TrueHD%20Atmoshm.jpg)
 
+## DD+
+
+**2024 • 1h 59m • Action, Drama • kaelaria**
+
+Munro, a soldier turned lay preacher, comes to New Zealand to minister to the first British colonists, but he is converted by the powerful chief Maianui to serve a different purpose.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/1066262)  [Compare across authors](../compare/index.md?t=film-the-convert_1066262)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The%20Convert%20(2024)%20DD%2B.jpg)
+
+![img 3](https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The%20Convert%20(2024)%20DD%2Bhm.jpg)
+
