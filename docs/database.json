@@ -1862013,127 +1862013,6 @@
 "filterAuthor": "human"
 },
 {
-"title": "Dolby Core Universe",
-"year": "2019",
-"audioTypes": [
-"Atmos"
-],
-"content_type": "film",
-"author": "remixmark",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/dolby-core-universe/#atmos",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 1.0,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0000209389165164",
-"-1.9992932328787267",
-"0.9992727475526072"
-],
-"a": [
-"1.9992932575424918",
-"-0.9992936618053582"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 6.9,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002453946236127",
-"-1.9989933221936735",
-"0.9987493606861175"
-],
-"a": [
-"1.9989937149706973",
-"-0.9989943625327065"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 15.0,
-"gain": 6.9,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0002453946236127",
-"-1.9989933221936735",
-"0.9987493606861175"
-],
-"a": [
-"1.9989937149706973",
-"-0.9989943625327065"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 60.0,
-"gain": 0.2,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0000563782551761",
-"-1.9951438249615154",
-"0.9951028306179045"
-],
-"a": [
-"1.9951438249615154",
-"-0.9951592088730806"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/remixmark/images/main/Dolby%20Core%20Universe%20Atmos.jpg",
-"https://raw.githubusercontent.com/remixmark/images/main/Dolby%20Core%20Universe%20Atmos%20Peak%20Spectrum.jpg"
-],
-"warning": "",
-"mv": "4.0",
-"avs": "",
-"sortTitle": "dolby core universe",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "",
-"theMovieDB": "",
-"rating": "",
-"runtime": "3",
-"genres": [],
-"altTitle": "",
-"collection": {},
-"underlying": "Dolby Core Universe (2019) (+4.0 gain) BEQ Atmos remixmark",
-"digest": "355e94fd8724b3f6fae3bf86b79c2e171bce2a7606abeeea801660ffcb4af942",
-"created_at": 1726278524,
-"updated_at": 1726278524,
-"audioCodecs": [
-"Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
 "title": "Don't Move",
 "year": "2024",
 "audioTypes": [
@@ -1865036,147 +1864915,6 @@
 ],
 "audioChannelCounts": [
 "4.0"
-],
-"filterAuthor": "human"
-},
-{
-"title": "Element: Introducing Dolby Cinema",
-"year": "2015",
-"audioTypes": [
-"Atmos"
-],
-"content_type": "film",
-"author": "remixmark",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/element-introducing-dolby-cinema/#atmos",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 14.8,
-"gain": 8.9,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002788643046963",
-"-1.9991662202006477",
-"0.9988889214203801"
-],
-"a": [
-"1.9991667220123335",
-"-0.9991672839133899"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 14.8,
-"gain": 8.9,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002788643046963",
-"-1.9991662202006477",
-"0.9988889214203801"
-],
-"a": [
-"1.9991667220123335",
-"-0.9991672839133899"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 14.8,
-"gain": 8.9,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002788643046963",
-"-1.9991662202006477",
-"0.9988889214203801"
-],
-"a": [
-"1.9991667220123335",
-"-0.9991672839133899"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 30.0,
-"gain": 7.4,
-"q": 0.7,
-"biquads": {
-"96000": {
-"b": [
-"1.0006021239112348",
-"-1.9977314642181727",
-"0.9971352364473062"
-],
-"a": [
-"1.9977331547019965",
-"-0.9977356698747176"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 85.0,
-"gain": 0.1,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.000035473855824",
-"-1.9938421111419726",
-"0.9938374919977395"
-],
-"a": [
-"1.9938421111419726",
-"-0.9938729658535633"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Element%20Introducing%20Dolby%20Cinema%20Atmos.jpg",
-"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Element%20Introducing%20Dolby%20Cinema%20Atmos%20Peak%20Spectrum.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "element: introducing dolby cinema",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "",
-"theMovieDB": "",
-"rating": "",
-"runtime": "2",
-"genres": [],
-"altTitle": "",
-"collection": {},
-"underlying": "Element- Introducing Dolby Cinema (2015) BEQ Atmos",
-"digest": "9b4f484c5faf956ca5350da0e61ea72efefa85358aa26bf2b521bf36bb462c2d",
-"created_at": 1790598454,
-"updated_at": 1790598454,
-"audioCodecs": [
-"Atmos"
-],
-"audioChannelCounts": [
-""
 ],
 "filterAuthor": "human"
 },
@@ -1974512,7 +1974250,7 @@
 "language": "English",
 "source": "Disc",
 "overview": "",
-"theMovieDB": "",
+"theMovieDB": "1426703",
 "rating": "",
 "runtime": "0",
 "genres": [],
@@ -1974521,7 +1974259,7 @@
 "underlying": "Trinnov - Experience (2025) (-5.0 gain) BEQ Atmos remixmark",
 "digest": "4e4f9e180aae37c67a21ee6f02c6573548105bf3ee53ca3aaa24069b13dc8395",
 "created_at": 1763318489,
-"updated_at": 1763318489,
+"updated_at": 1795129021,
 "audioCodecs": [
 "Atmos"
 ],
@@ -2003949,6 +2003687,126 @@
 "filterAuthor": "human"
 },
 {
+"title": "Dolby Core Universe",
+"year": "2019",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/dolby-core-universe",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 1.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0000209389165164",
+"-1.9992932328787267",
+"0.9992727475526072"
+],
+"a": [
+"1.9992932575424918",
+"-0.9992936618053582"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.9,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002453946236127",
+"-1.9989933221936735",
+"0.9987493606861175"
+],
+"a": [
+"1.9989937149706973",
+"-0.9989943625327065"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.9,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0002453946236127",
+"-1.9989933221936735",
+"0.9987493606861175"
+],
+"a": [
+"1.9989937149706973",
+"-0.9989943625327065"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.2,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000563782551761",
+"-1.9951438249615154",
+"0.9951028306179045"
+],
+"a": [
+"1.9951438249615154",
+"-0.9951592088730806"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/main/Dolby%20Core%20Universe%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/main/Dolby%20Core%20Universe%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "",
+"episode": "",
+"mv": "4.0",
+"avs": "",
+"sortTitle": "dolby core universe",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "",
+"theMovieDB": "321831",
+"rating": "",
+"genres": [],
+"underlying": "Dolby Core Universe (2019) (+4.0 gain) BEQ Atmos remixmark",
+"digest": "9c7be8913043d01086e12981c11779c49c4b72c610a00f24ed21e2834eed3960",
+"created_at": 1795129236,
+"updated_at": 1795129236,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Dune: Prophecy",
 "year": "2024",
 "audioTypes": [
@@ -2004804,6 +2004662,146 @@
 "updated_at": 1734961688,
 "audioCodecs": [
 "DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Element: Introducing Dolby Cinema",
+"year": "2015",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/element-introducing-dolby-cinema",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 14.8,
+"gain": 8.9,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002788643046963",
+"-1.9991662202006477",
+"0.9988889214203801"
+],
+"a": [
+"1.9991667220123335",
+"-0.9991672839133899"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.8,
+"gain": 8.9,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002788643046963",
+"-1.9991662202006477",
+"0.9988889214203801"
+],
+"a": [
+"1.9991667220123335",
+"-0.9991672839133899"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.8,
+"gain": 8.9,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002788643046963",
+"-1.9991662202006477",
+"0.9988889214203801"
+],
+"a": [
+"1.9991667220123335",
+"-0.9991672839133899"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 7.4,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0006021239112348",
+"-1.9977314642181727",
+"0.9971352364473062"
+],
+"a": [
+"1.9977331547019965",
+"-0.9977356698747176"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 85.0,
+"gain": 0.1,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000035473855824",
+"-1.9938421111419726",
+"0.9938374919977395"
+],
+"a": [
+"1.9938421111419726",
+"-0.9938729658535633"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Element%20Introducing%20Dolby%20Cinema%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Element%20Introducing%20Dolby%20Cinema%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "element: introducing dolby cinema",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "",
+"theMovieDB": "321831",
+"rating": "",
+"genres": [],
+"underlying": "Element- Introducing Dolby Cinema (2015) BEQ Atmos",
+"digest": "b0d081b44cf8852721eddc5ef50c266214f83ab59dbda3f148bf025bcbc20f2b",
+"created_at": 1795129236,
+"updated_at": 1795129236,
+"audioCodecs": [
+"Atmos"
 ],
 "audioChannelCounts": [
 ""

@@ -1,13 +1,17 @@
 # Element: Introducing Dolby Cinema
 
-## Atmos
+* Author: remixmark
 
-**2015 • 0h 2m • remixmark**
+* Atmos
 
-[Compare across authors](../compare/index.md?t=film-element-introducing-dolby-cinema_2015)
-{ data-search-exclude }
+
+* [Compare across authors](../compare/index.md?t=TV-element-introducing-dolby-cinema_321831)
+
+* Production Year: 2015
+
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Element%20Introducing%20Dolby%20Cinema%20Atmos.jpg)
 
-![img 1](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Element%20Introducing%20Dolby%20Cinema%20Atmos%20Peak%20Spectrum.jpg)
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Element%20Introducing%20Dolby%20Cinema%20Atmos%20Peak%20Spectrum.jpg)
 
