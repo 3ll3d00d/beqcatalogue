@@ -2328831,6 +2328831,187 @@
 "filterAuthor": "human"
 },
 {
+"title": "MobLand",
+"year": "2025",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/mobland/#season-02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000228631392625",
+"-1.999326224609043",
+"0.9990983121206608"
+],
+"a": [
+"1.9993264565227389",
+"-0.9993267115995896"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000228631392625",
+"-1.999326224609043",
+"0.9990983121206608"
+],
+"a": [
+"1.9993264565227389",
+"-0.9993267115995896"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 3.4,
+"q": 2.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0001031119024555",
+"-1.9995678544302125",
+"0.9994664556317313"
+],
+"a": [
+"1.9995678544302125",
+"-0.9995695675341868"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005030919001112",
+"-1.9985170077333512",
+"0.9980173939248208"
+],
+"a": [
+"1.9985181297424108",
+"-0.9985193638158728"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005030919001112",
+"-1.9985170077333512",
+"0.9980173939248208"
+],
+"a": [
+"1.9985181297424108",
+"-0.9985193638158728"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -2.1,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999009053834655",
+"-1.9990719331366325",
+"0.9991762728406353"
+],
+"a": [
+"1.9990719331366325",
+"-0.9990771782241006"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/MobLand/MobLand%20S02E01-10%20(2025)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/MobLand/MobLand%20S02E01-10%20(2025)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "02",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "mobland",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Paramount+",
+"overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+"theMovieDB": "247718",
+"rating": "TV-MA",
+"genres": [
+"Crime",
+"Drama"
+],
+"underlying": "MobLand (2025) (Season 02) (Paramount+) BEQ DD+",
+"digest": "d41ffc29139dd793d2f049ee981ab08db01efb1160ce9ab8fe7886a9406ac556",
+"created_at": 1795096067,
+"updated_at": 1795096067,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Monarch: Legacy of Monsters",
 "year": "2023",
 "audioTypes": [
