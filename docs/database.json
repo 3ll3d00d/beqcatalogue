@@ -2357378,6 +2357378,129 @@
 "filterAuthor": "human"
 },
 {
+"title": "WandaVision",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/wandavision/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -2.2,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998961622132518",
+"-1.9990679994491114",
+"0.9991756907596916"
+],
+"a": [
+"1.9990679994491114",
+"-0.9990718529729433"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/WandaVision/WandaVision%20S01E01-09%20(2021)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/WandaVision/WandaVision%20S01E01-09%20(2021)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "wandavision",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disney+",
+"overview": "Wanda Maximoff and Vision\u2014two super-powered beings living idealized suburban lives\u2014begin to suspect that everything is not as it seems.",
+"theMovieDB": "85271",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Mystery",
+"Drama"
+],
+"underlying": "WandaVision (2021) (Season 01) (Disney+) BEQ DD+ Atmos",
+"digest": "17db2be964ec2a330aa75cb622732ff34b42e3e36d08aa3324388252f8ba83ad",
+"created_at": 1795130969,
+"updated_at": 1795130969,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Warrior",
 "year": "2019",
 "audioTypes": [
