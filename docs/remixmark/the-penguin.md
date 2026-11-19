@@ -36,7 +36,7 @@ Dialnorm Compensation: 5dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1506?post_id=63568854#post-63568854)
 
-* [Compare across authors](../compare/index.md?t=TV-the-penguin_2024)
+* [Compare across authors](../compare/index.md?t=TV-the-penguin_194764)
 
 * Production Year: 2024
 
@@ -102,7 +102,7 @@ Dialnorm Compensation: 4dB
 
 * [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1519?post_id=63605915#post-63605915)
 
-* [Compare across authors](../compare/index.md?t=TV-the-penguin_2024)
+* [Compare across authors](../compare/index.md?t=TV-the-penguin_194764)
 
 * Production Year: 2024
 

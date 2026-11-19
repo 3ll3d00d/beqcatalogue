@@ -1987400,146 +1987400,6 @@
 "filterAuthor": "human"
 },
 {
-"title": "the nake gun",
-"year": "2025",
-"audioTypes": [
-"Atmos"
-],
-"content_type": "film",
-"author": "remixmark",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-nake-gun/#atmos",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 20.2,
-"gain": 6.7,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002852130993045",
-"-1.9987875110105828",
-"0.9985048668695307"
-],
-"a": [
-"1.9987882015709388",
-"-0.9987893894084795"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.2,
-"gain": 6.7,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002852130993045",
-"-1.9987875110105828",
-"0.9985048668695307"
-],
-"a": [
-"1.9987882015709388",
-"-0.9987893894084795"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.2,
-"gain": 6.7,
-"q": 0.9,
-"biquads": {
-"96000": {
-"b": [
-"1.0002852130993045",
-"-1.9987875110105828",
-"0.9985048668695307"
-],
-"a": [
-"1.9987882015709388",
-"-0.9987893894084795"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 28.6,
-"gain": -8.4,
-"q": 7.0,
-"biquads": {
-"96000": {
-"b": [
-"0.999865627246291",
-"-1.9995629039308276",
-"0.9997007798047943"
-],
-"a": [
-"1.9995629039308276",
-"-0.9995664070510855"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 44.0,
-"gain": 0.9,
-"q": 0.8,
-"biquads": {
-"96000": {
-"b": [
-"1.0001862608673948",
-"-1.9965795628034275",
-"0.9964015809906942"
-],
-"a": [
-"1.9965795628034275",
-"-0.9965878418580888"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Naked%20Gun%20(2025)%20(%2B5%20gain)%20Atmos.jpg",
-"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Naked%20Gun%20(2025)%20(%2B5%20gain)%20Atmos%20Peak%20Spectrum.jpg"
-],
-"warning": "",
-"mv": "5.0",
-"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1677?post_id=64294641#post-64294641",
-"sortTitle": "nake gun",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "",
-"theMovieDB": "",
-"rating": "",
-"runtime": "0",
-"genres": [],
-"altTitle": "",
-"collection": {},
-"underlying": "the nake gun (2025) (+5.0 gain) BEQ Atmos remixmark",
-"digest": "b62bd982ce5f5b28df04beec52a5c9e8a18d82fc3e717e4abf7a76bc3d816f26",
-"created_at": 1762483075,
-"updated_at": 1762483075,
-"audioCodecs": [
-"Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
 "title": "Tommy Boy",
 "year": "1995",
 "audioTypes": [
@@ -2036871,7 +2036731,7 @@
 "language": "English",
 "source": "Disc",
 "overview": "Adult animated series of original short stories which are set within the worlds of beloved video games. Each episode serves as a gateway to a new adventure, unlocking exciting worlds from beloved gaming classics and highly anticipated new titles.",
-"theMovieDB": "",
+"theMovieDB": "261579",
 "rating": "TV-14",
 "genres": [
 "Animation",
@@ -2036881,7 +2036741,7 @@
 "underlying": "Secret Level (2024) (Season 01E12) (+2.5 gain) BEQ DD+ Atmos remixmark",
 "digest": "a1070f0bb8bdf368e7e7d3760d081753ff4d5d8d3ce776d9e9434911fe68b6dc",
 "created_at": 1734671582,
-"updated_at": 1734711928,
+"updated_at": 1795128323,
 "audioCodecs": [
 "DD+ Atmos"
 ],
@@ -2057597,13 +2057457,13 @@
 "language": "English",
 "source": "Disc",
 "overview": "",
-"theMovieDB": "",
+"theMovieDB": "194764",
 "rating": "",
 "genres": [],
 "underlying": "The Penguin S01E02 (2024) (+4.5 gain) BEQ DD+ Atmos remixmark",
 "digest": "4c6a96bada9c4820fb7719598bfe274a3ca789cf29691f85d2f18392010c79db",
 "created_at": 1727726702,
-"updated_at": 1727731772,
+"updated_at": 1795128532,
 "audioCodecs": [
 "DD+ Atmos"
 ],
@@ -2058023,13 +2057883,13 @@
 "language": "English",
 "source": "Disc",
 "overview": "",
-"theMovieDB": "",
+"theMovieDB": "194764",
 "rating": "",
 "genres": [],
 "underlying": "The Penguin (2024) (Season 01E05) (+4.0 gain) BEQ DD+ Atmos remixmark",
 "digest": "94fbf9a7e99249c6164d572413b58475c9a10902ae64385d30ff310e8cd8f0b5",
 "created_at": 1729554654,
-"updated_at": 1729554654,
+"updated_at": 1795128582,
 "audioCodecs": [
 "DD+ Atmos"
 ],

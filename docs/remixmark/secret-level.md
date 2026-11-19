@@ -89,7 +89,7 @@ Dialnorm Compensation: E10: 5db E11: 2dB
 Dialnorm Compensation: 3dB
 { data-search-exclude }
 
-* [Compare across authors](../compare/index.md?t=TV-secret-level_2024)
+* [Compare across authors](../compare/index.md?t=TV-secret-level_261579)
 
 * Production Year: 2024
 
