@@ -1889354,6 +1889354,169 @@
 "filterAuthor": "human"
 },
 {
+"title": "Joe Dirt",
+"year": "2001",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/joe-dirt/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.58,
+"q": 0.88,
+"biquads": {
+"96000": {
+"b": [
+"1.0000767907015666",
+"-1.9993288596095158",
+"0.9992525951330963"
+],
+"a": [
+"1.9993289484846009",
+"-0.9993292969595781"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.73,
+"gain": 4.92,
+"q": 1.25,
+"biquads": {
+"96000": {
+"b": [
+"1.00019171150135",
+"-1.9988284013583884",
+"0.9986404520665152"
+],
+"a": [
+"1.9988292148522802",
+"-0.9988313500739731"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 53.12,
+"gain": 2.78,
+"q": 1.55,
+"biquads": {
+"96000": {
+"b": [
+"1.0001804514164334",
+"-1.9979193681782845",
+"0.9977530872163463"
+],
+"a": [
+"1.997921308779818",
+"-0.9979315980312465"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 57.14,
+"gain": 8.12,
+"q": 0.6,
+"biquads": {
+"96000": {
+"b": [
+"1.0014697903028638",
+"-1.9950626606897077",
+"0.9936151356444036"
+],
+"a": [
+"1.9950694221481795",
+"-0.9950781644887956"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 14.47,
+"gain": 1.75,
+"q": 1.74,
+"biquads": {
+"96000": {
+"b": [
+"1.0000549096971711",
+"-1.9995070966160804",
+"0.9994530836194864"
+],
+"a": [
+"1.9995070966160804",
+"-0.9995079933166574"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 45.7,
+"gain": -5.08,
+"q": 1.57,
+"biquads": {
+"96000": {
+"b": [
+"0.9994356321486321",
+"-1.9974420600651641",
+"0.9980153629356192"
+],
+"a": [
+"1.9974420600651641",
+"-0.9974509950842512"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Joe%20Dirt%20%282001%29%20%28%2B3.5%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Joe%20Dirt%20%282001%29%20%28%2B3.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "3.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1807#post-65029427",
+"sortTitle": "joe dirt",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Joe Dirt is a janitor with a mullet hairdo, acid-washed jeans and a dream to find the parents that he lost at the Grand Canyon when he was a belligerent, trailer park-raised eight-year-old. Now, blasting Van Halen in his jacked-up economy car, the irrepressibly optimistic Joe hits the road alone in search of his folks.",
+"theMovieDB": "10956",
+"rating": "PG-13",
+"runtime": "92",
+"genres": [
+"Adventure",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Joe Dirt (2001) (+3.5 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "c46330c058929a322cca02962e34fa9618e0c18b90986782cc38d54a728651f0",
+"created_at": 1795051276,
+"updated_at": 1795051276,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Joker: Folie \u00e0 Deux",
 "year": "2024",
 "audioTypes": [
@@ -1996955,6 +1997118,315 @@
 "digest": "7e427290aa7b6ed114616ee977ab47997dc2f28b7ca54453a5ef83d184dade22",
 "created_at": 1793038560,
 "updated_at": 1793038560,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Common Side Effects",
+"year": "2025",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/common-side-effects/#season-01e09",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.41,
+"gain": 2.97,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000086369528622",
+"-1.9990734496380647",
+"0.9989882864543864"
+],
+"a": [
+"1.999073624319726",
+"-0.9990744813013476"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.41,
+"gain": 2.97,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000086369528622",
+"-1.9990734496380647",
+"0.9989882864543864"
+],
+"a": [
+"1.999073624319726",
+"-0.9990744813013476"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.41,
+"gain": 2.97,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000086369528622",
+"-1.9990734496380647",
+"0.9989882864543864"
+],
+"a": [
+"1.999073624319726",
+"-0.9990744813013476"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.44,
+"gain": 8.5,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.0004954526738334",
+"-1.9984294362938504",
+"0.9979371930369996"
+],
+"a": [
+"1.9984304378928677",
+"-0.9984316441118158"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -0.27,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"0.9999604897530755",
+"-1.9974129580718132",
+"0.9974577090534511"
+],
+"a": [
+"1.9974129580718132",
+"-0.9974181988065266"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 16.6,
+"gain": -0.29,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999996977270576",
+"-1.9998147105328457",
+"0.9998189135650316"
+],
+"a": [
+"1.9998147105328457",
+"-0.9998158908356074"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E09%29%20%28%2B4.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E09%29%20%28%2B4.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E09",
+"episode": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959073",
+"sortTitle": "common side effects",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world\u2019s diseases.",
+"theMovieDB": "228878",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Drama",
+"Comedy",
+"Sci-Fi & Fantasy"
+],
+"underlying": "Common Side Effects (2025) (Season S01E09) (+4.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "e5522e92de7a3fe7b993bb960c71fdc63a4c72b161daa9715208b5465f62b60f",
+"created_at": 1795051352,
+"updated_at": 1795051352,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Common Side Effects",
+"year": "2025",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/common-side-effects/#season-01e10",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.19,
+"gain": 3.59,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000947802593",
+"-1.999174185371769",
+"0.9990800643595169"
+],
+"a": [
+"1.9991742969643176",
+"-0.9991747330262689"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.19,
+"gain": 3.59,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000947802593",
+"-1.999174185371769",
+"0.9990800643595169"
+],
+"a": [
+"1.9991742969643176",
+"-0.9991747330262689"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.19,
+"gain": 3.59,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0000947802593",
+"-1.999174185371769",
+"0.9990800643595169"
+],
+"a": [
+"1.9991742969643176",
+"-0.9991747330262689"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 7.9,
+"q": 0.77,
+"biquads": {
+"96000": {
+"b": [
+"1.000585140222876",
+"-1.9979664345557484",
+"0.997387363357656"
+],
+"a": [
+"1.997968247018309",
+"-0.9979706911179712"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.5,
+"gain": -3.14,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9998068331120695",
+"-1.9987220189797212",
+"0.9989197076245788"
+],
+"a": [
+"1.9987220189797212",
+"-0.9987265407366483"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E10%29%20%28%2B3.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Common%20Side%20Effects%20%282025%29%20%28Season%20S01E10%29%20%28%2B3.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E10",
+"episode": "",
+"mv": "3.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1797#post-64959073",
+"sortTitle": "common side effects",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world\u2019s diseases.",
+"theMovieDB": "228878",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Drama",
+"Comedy",
+"Sci-Fi & Fantasy"
+],
+"underlying": "Common Side Effects (2025) (Season S01E10) (+3.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "e3cc4ce137508719f65342f66181a1631c92fa88e59589253534b892dbce80cb",
+"created_at": 1795051427,
+"updated_at": 1795051427,
 "audioCodecs": [
 "DD+"
 ],
