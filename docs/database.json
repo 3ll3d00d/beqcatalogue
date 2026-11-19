@@ -2071372,6 +2071372,91 @@
 "filterAuthor": "human"
 },
 {
+"title": "A Quiet Place: Day One",
+"year": "2024",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/a-quiet-place-day-one/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 3.4,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002138900729864",
+"-1.9980209511875688",
+"0.9978103139933486"
+],
+"a": [
+"1.9980214780189747",
+"-0.9980236772349294"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -0.8,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.999962326882277",
+"-1.9991398336408361",
+"0.9991813604208629"
+],
+"a": [
+"1.9991398336408361",
+"-0.9991436873031401"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20Quiet%20Place/A%20Quiet%20Place%20-%20Day%20One%20(2024)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20Quiet%20Place/A%20Quiet%20Place%20-%20Day%20One%20(2024)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "a quiet place: day one",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+"theMovieDB": "762441",
+"rating": "PG-13",
+"runtime": "100",
+"genres": [
+"Horror",
+"Science Fiction",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "A Quiet Place- Day One (2024) BEQ Atmos",
+"digest": "489e33c15152c321264f50ec70522cd3e222ef974e0f2d6601b27b9f79ebc5b1",
+"created_at": 1795064689,
+"updated_at": 1795064689,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "A Simple Plan",
 "year": "1998",
 "audioTypes": [
@@ -2088778,6 +2088863,208 @@
 "updated_at": 1744066318,
 "audioCodecs": [
 "Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Being Heumann",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/being-heumann/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 19.0,
+"gain": 10.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002519832780785",
+"-1.9997653816890235",
+"0.9995149446399036"
+],
+"a": [
+"1.9997653816890235",
+"-0.9997669279179819"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -2.4,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999028496447461",
+"-1.9991913299065112",
+"0.9992923340233361"
+],
+"a": [
+"1.9991913299065112",
+"-0.9991951836680824"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 75.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000094113488978",
+"-1.998350398451412",
+"0.9983650631839415"
+],
+"a": [
+"1.998350398451412",
+"-0.9983744745328391"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Being%20Heumann/Being%20Heumann%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Being%20Heumann/Being%20Heumann%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "being heumann",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken\u2014not us.",
+"theMovieDB": "1050981",
+"rating": "R",
+"runtime": "127",
+"genres": [
+"Drama",
+"History"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Being Heumann (2026) BEQ DD+ Atmos",
+"digest": "68d37dcace0008fba6d804db68769b8c268a5112c7e03191b871461d4b772b6b",
+"created_at": 1795064689,
+"updated_at": 1795064689,
+"audioCodecs": [
+"DD+ Atmos"
 ],
 "audioChannelCounts": [
 ""
@@ -2115878,6 +2116165,169 @@
 "filterAuthor": "human"
 },
 {
+"title": "Death of Me",
+"year": "2020",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/death-of-me/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002027506418185",
+"-1.9993065836021406",
+"0.9991045116430174"
+],
+"a": [
+"1.9993067878492643",
+"-0.9993070580377119"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": -2.0,
+"q": 2.7,
+"biquads": {
+"96000": {
+"b": [
+"0.9999077410948155",
+"-1.9990981901487734",
+"0.9991951118897863"
+],
+"a": [
+"1.9990981901487734",
+"-0.9991028529846019"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 80.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000030062545675",
+"-1.9947802614526042",
+"0.9947775432360203"
+],
+"a": [
+"1.9947802614526042",
+"-0.9948076057816954"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Death%20of%20Me/Death%20of%20Me%20(2020)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/Death%20of%20Me/Death%20of%20Me%20(2020)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "death of me",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A couple on holiday on a remote South Pacific island awaken one morning with a hang over and no recollection of what transpired. When playing back a video of the previous night, they see they participated in a local ritual that somehow ends with him murdering her.",
+"theMovieDB": "595149",
+"rating": "R",
+"runtime": "95",
+"genres": [
+"Horror",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Death of Me (2020) BEQ DTS-HD MA 5.1",
+"digest": "4688685f8136859dd7a5329f6a57e357bec0d8c6fe80894bfb04dfefa87e55f2",
+"created_at": 1795064689,
+"updated_at": 1795064689,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Death of a Unicorn",
 "year": "2025",
 "audioTypes": [
@@ -2128125,6 +2128575,111 @@
 "updated_at": 1745515535,
 "audioCodecs": [
 "Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Evil Eye",
+"year": "2020",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/evil-eye/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 33.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006693186564843",
+"-1.9977099505429556",
+"0.9970480168563449"
+],
+"a": [
+"1.9977121730231617",
+"-0.9977151130326226"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 33.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006693186564843",
+"-1.9977099505429556",
+"0.9970480168563449"
+],
+"a": [
+"1.9977121730231617",
+"-0.9977151130326226"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 54.0,
+"gain": -1.4,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998904122392256",
+"-1.9985151773140148",
+"0.9986372470842023"
+],
+"a": [
+"1.9985151773140148",
+"-0.9985276593234278"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/E/Evil%20Eye/Evil%20Eye%20(2020)%20(por)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/E/Evil%20Eye/Evil%20Eye%20(2020)%20(por)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "evil eye",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A seemingly perfect romance turns dark when a mother becomes convinced her daughter\u2019s new boyfriend has a sinister connection to her own past.",
+"theMovieDB": "732713",
+"rating": "NR",
+"runtime": "90",
+"genres": [
+"Mystery",
+"Thriller",
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Evil Eye (2020) BEQ DD+ Atmos",
+"digest": "738682198f0ea9b47392839610027f2bcf2fd60bbd537599092c1d497e0383de",
+"created_at": 1795064689,
+"updated_at": 1795064689,
+"audioCodecs": [
+"DD+ Atmos"
 ],
 "audioChannelCounts": [
 ""
@@ -2151728,6 +2152283,132 @@
 "audioChannelCounts": [
 "",
 ""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Hoppers",
+"year": "2026",
+"audioTypes": [
+"DTS-HD MA 7.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/hoppers/#dts-hd-ma-71",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003451036530338",
+"-1.9989061228508036",
+"0.9985628070018002"
+],
+"a": [
+"1.9989066807910056",
+"-0.9989073527146319"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003451036530338",
+"-1.9989061228508036",
+"0.9985628070018002"
+],
+"a": [
+"1.9989066807910056",
+"-0.9989073527146319"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": -0.5,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999778038571571",
+"-1.9992017548509158",
+"0.9992286140711485"
+],
+"a": [
+"1.9992017548509158",
+"-0.9992064179283056"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 65.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000081573945283",
+"-1.998572971388609",
+"0.9985828997753039"
+],
+"a": [
+"1.998572971388609",
+"-0.9985910571698323"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hoppers/Hoppers%20(2026)%20DTS-HD-MA%207.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hoppers/Hoppers%20(2026)%20DTS-HD-MA%207.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "hoppers",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+"theMovieDB": "1327819",
+"rating": "PG",
+"runtime": "104",
+"genres": [
+"Animation",
+"Adventure",
+"Comedy",
+"Family",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Hoppers (2026) BEQ DTS-HD MA 7.1",
+"digest": "a43ad7b94c30a2bb33bc758346f03b83146c30d1989122c2b17e587bf38765b9",
+"created_at": 1795064689,
+"updated_at": 1795064689,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"7.1"
 ],
 "filterAuthor": "human"
 },
