@@ -2,7 +2,7 @@
 
 * Author: remixmark
 
-## Season S1E9
+## Season 1E9
 
 * DD+
 
