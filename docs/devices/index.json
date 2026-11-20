@@ -13,7 +13,7 @@
    "margin_db": 0.5,
    "rate": 48000,
    "revision": 2,
-   "sha256": "4c807db70582ce31bb7d54357228c7ed2677e320fb1f997c33bdfe7ab1ddd54e",
+   "sha256": "7b8449480e7c68cb786fc52c6611630b1cb9dee7d8b9dfb313a0c970bc8afbf8",
    "storage": "float32",
    "transport": "float32"
   },
@@ -30,7 +30,7 @@
    "margin_db": 0.5,
    "rate": 96000,
    "revision": 2,
-   "sha256": "2a38c908aa32b95946b9c07120663fc30ad46598a9a272e0f12eb5178ce2800e",
+   "sha256": "155c44036fbc3146659af20d72b889a7c2bdf60d2478776460b08eb8cc45f97b",
    "storage": "float32",
    "transport": "float32"
   }
