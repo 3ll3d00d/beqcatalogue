@@ -1901713,6 +1901713,172 @@
 "filterAuthor": "human"
 },
 {
+"title": "Megazone 23",
+"year": "1985",
+"audioTypes": [
+"AC3 2.0"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/megazone-23/#ac3-20",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.4,
+"gain": 3.04,
+"q": 1.44,
+"biquads": {
+"96000": {
+"b": [
+"1.000045432782947",
+"-1.9995248128547431",
+"0.999480043087611"
+],
+"a": [
+"1.999524910751326",
+"-0.999525377973975"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 37.24,
+"gain": 2.53,
+"q": 0.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0005903475259348",
+"-1.9924685338710832",
+"0.9918850325401841"
+],
+"a": [
+"1.9924693988582705",
+"-0.9924745150789316"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 37.3,
+"gain": 7.96,
+"q": 1.23,
+"biquads": {
+"96000": {
+"b": [
+"1.0004597666517592",
+"-1.9984162711749855",
+"0.997965921084794"
+],
+"a": [
+"1.9984190964035893",
+"-0.9984228625079492"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 70.9,
+"gain": 2.69,
+"q": 0.89,
+"biquads": {
+"96000": {
+"b": [
+"1.000404784750458",
+"-1.9951644159222226",
+"0.9947847103166244"
+],
+"a": [
+"1.9951677556026683",
+"-0.9951861553866362"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": 2.34,
+"q": 2.66,
+"biquads": {
+"96000": {
+"b": [
+"1.000056504176856",
+"-1.9996332546063258",
+"0.9995779881873281"
+],
+"a": [
+"1.9996332546063258",
+"-0.9996344923641843"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 65.18,
+"gain": -0.92,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999247127419225",
+"-1.9984835968867747",
+"0.9985770694196668"
+],
+"a": [
+"1.9984835968867747",
+"-0.9985017821615894"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Megazone%2023%20%281985%29%20%28%2B1.0%20gain%29%20AC3%202.0.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Megazone%2023%20%281985%29%20%28%2B1.0%20gain%29%20AC3%202.0%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "1.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1808#post-65035107",
+"sortTitle": "megazone 23",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A young biker stumbles onto a prototype motorcycle with a hidden function that has a link to the true nature of his world.",
+"theMovieDB": "155017",
+"rating": "",
+"runtime": "81",
+"genres": [
+"Animation",
+"Action",
+"Science Fiction",
+"Romance",
+"Music"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Megazone 23 (1985) (+1.0 gain) BEQ AC3 2.0 remixmark",
+"digest": "b49544e57b3f703c3a505b8c2f75a2e35676d514100d8786cbee318e25590dd1",
+"created_at": 1795218161,
+"updated_at": 1795218161,
+"audioCodecs": [
+"AC3"
+],
+"audioChannelCounts": [
+"2.0"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Mercy",
 "year": "2026",
 "audioTypes": [
