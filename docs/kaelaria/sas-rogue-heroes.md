@@ -1,4 +1,4 @@
-# SAS Rogue Heroes
+# SAS: Rogue Heroes
 
 * Author: kaelaria
 

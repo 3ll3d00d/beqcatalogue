@@ -1,4 +1,4 @@
-# Shoot Em Up
+# Shoot 'Em Up
 
 ## DTS-HD MA 7.1
 

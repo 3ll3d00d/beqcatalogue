@@ -236,7 +236,7 @@
 "movies/D/Descendants- The Rise of Red (2024) BEQ DD+.xml",1720795721
 "movies/D/Destroy All Neighbors (2024) BEQ DD+.xml",1705007172
 "movies/D/Die Hard (1988) BEQ DTS-HD MA 5.1.xml",1758988136
-"movies/D/Die Hart (2023) BEQ DD+.xml",1717127591
+"movies/D/Die Hart (2023) BEQ DD+.xml",1795189528
 "movies/D/Die Hart 2- Die Harter (2024) BEQ DD+.xml",1717125193
 "movies/D/Dogman (2023) BEQ Atmos.xml",1709236230
 "movies/D/Don't Move (2024) BEQ DD+ Atmos.xml",1729875975
@@ -514,7 +514,7 @@
 "movies/L/Love Lies Bleeding (2024) BEQ DD+.xml",1719626479
 "movies/L/Lovely, Dark, and Deep (2023) BEQ DD+.xml",1708707436
 "movies/L/Lucy (2014) BEQ DTS-HD MA 5.1.xml",1706824401
-"movies/L/Léon- The Professional (1994) (International Cut) BEQ Atmos.xml",1719165551
+"movies/L/Léon- The Professional (1994) (International Cut) BEQ Atmos.xml",1795189528
 "movies/L/The Last Breath (2024) BEQ DTS-HD MA 5.1.xml",1724345910
 "movies/L/The Last Castle (2001) BEQ DTS-HD MA 5.1.xml",1714350041
 "movies/L/The Last Kingdom- Seven Kings Must Die (2023) BEQ DTS-HD MA 5.1.xml",1719322959
@@ -733,7 +733,7 @@
 "movies/S/Shaun of the Dead (2004) BEQ Atmos.xml",1752089210
 "movies/S/She Dies Tomorrow (2020) BEQ DTS-HD MA 5.1.xml",1707142425
 "movies/S/Shock (2023) BEQ DTS-HD MA 5.1.xml",1719499527
-"movies/S/Shoot 'Em Up (2007) BEQ DTS-HD MA 7.1.xml",1712326695
+"movies/S/Shoot 'Em Up (2007) BEQ DTS-HD MA 7.1.xml",1795189528
 "movies/S/Showdown at the Grand (2023) BEQ DTS-HD MA 5.1.xml",1702517646
 "movies/S/Shrapnel (2023) BEQ DTS-HD MA 5.1.xml",1704008445
 "movies/S/Sick (2022) BEQ Atmos.xml",1739380474
@@ -812,7 +812,7 @@
 "movies/S/The Substance (2024) BEQ DD+.xml",1768607795
 "movies/S/The Substance (2024) BEQ DTS-HD MA 5.1.xml",1734198444
 "movies/S/The Surfer (2025) BEQ DD+ Atmos.xml",1752522273
-"movies/T/A Marvel Television Special Presentation - The Punisher- One Last Kill (2026) BEQ DD+ Atmos.xml",1778789906
+"movies/T/A Marvel Television Special Presentation - The Punisher- One Last Kill (2026) BEQ DD+ Atmos.xml",1795189528
 "movies/T/TAYLOR SWIFT THE ERAS TOUR (2023) (Taylors Version) BEQ DD+ Atmos.xml",1710518923
 "movies/T/TRON- Ares (2025) BEQ DD+ Atmos.xml",1766768748
 "movies/T/TRON- Legacy (2010) BEQ Atmos.xml",1757981358
@@ -1088,7 +1088,7 @@
 "tv/L/Landman (2024) (Season 01) BEQ DD+.xml",1736692855
 "tv/L/Landman (2024) (Season 02) BEQ DD+.xml",1763317839
 "tv/L/Lessons in Chemistry (2023) BEQ DD+ Atmos.xml",1700971214
-"tv/L/Lioness (2023) (Season 02) BEQ DD+.xml",1733691384
+"tv/L/Lioness (2023) (Season 02) BEQ DD+.xml",1795189528
 "tv/L/Loki (2021) (Season 01) BEQ Atmos.xml",1702133131
 "tv/L/Loki (2021) BEQ DD+ Atmos.xml",1715039047
 "tv/L/Long Way Home (2025) (Season 01) BEQ DD+ Atmos.xml",1751641218
@@ -1167,9 +1167,9 @@
 "tv/R/The Responder (2022) (Season 01) BEQ DD+.xml",1730324835
 "tv/R/The Responder (2022) (Season 02) BEQ DD+.xml",1730324835
 "tv/R/The Rig (2023) (Season 02) BEQ DD+.xml",1735912672
-"tv/S/Andor (2022) (Season 02) BEQ DD+ Atmos.xml",1747237278
-"tv/S/SAS Rogue Heroes (2022) (Season 01) BEQ DTS-HD MA 5.1.xml",1740363431
-"tv/S/SAS Rogue Heroes (2022) (Season 02) BEQ DTS-HD MA 5.1.xml",1740399543
+"tv/S/Andor (2022) (Season 02) BEQ DD+ Atmos.xml",1795189528
+"tv/S/SAS Rogue Heroes (2022) (Season 01) BEQ DTS-HD MA 5.1.xml",1795189528
+"tv/S/SAS Rogue Heroes (2022) (Season 02) BEQ DTS-HD MA 5.1.xml",1795189528
 "tv/S/SEAL Team (2017) (Season 07) BEQ DD 5.1.xml",1733782334
 "tv/S/School Spirits (2023) (Season 01) BEQ DD+.xml",1708628130
 "tv/S/Secret Level (2024) (Season 01) BEQ DD+ Atmos.xml",1734570169
@@ -1191,14 +1191,14 @@
 "tv/S/Squid Game (2021) (Season 02) BEQ DD+ Atmos.xml",1735226241
 "tv/S/Squid Game (2021) (Season 03) BEQ DD+ Atmos.xml",1751038772
 "tv/S/Star City (2026) (Season 01) BEQ DD+ Atmos.xml",1783741312
-"tv/S/Star Trek- Discovery (2017) (Season 01) BEQ DD+.xml",1716785350
-"tv/S/Star Trek- Discovery (2017) (Season 02) BEQ DD+.xml",1716785350
-"tv/S/Star Trek- Discovery (2017) (Season 03) BEQ DD+.xml",1716785350
+"tv/S/Star Trek- Discovery (2017) (Season 01) BEQ DD+.xml",1795189528
+"tv/S/Star Trek- Discovery (2017) (Season 02) BEQ DD+.xml",1795189528
+"tv/S/Star Trek- Discovery (2017) (Season 03) BEQ DD+.xml",1795189528
 "tv/S/Star Trek- Discovery (2017) (Season 04) BEQ DD+.xml",1716785350
-"tv/S/Star Trek- Discovery (2017) (Season 05) BEQ DD+.xml",1736261761
+"tv/S/Star Trek- Discovery (2017) (Season 05) BEQ DD+.xml",1795189528
 "tv/S/Star Trek- Picard (2020) (Season 3) BEQ DTS-HD MA 5.1.xml",1704670217
-"tv/S/Star Trek- Prodigy (2021) (Season 01) BEQ DD+.xml",1719859735
-"tv/S/Star Trek- Prodigy (2021) (Season 02) BEQ DD+.xml",1719859735
+"tv/S/Star Trek- Prodigy (2021) (Season 01) BEQ DD+.xml",1795189528
+"tv/S/Star Trek- Prodigy (2021) (Season 02) BEQ DD+.xml",1795189528
 "tv/S/Star Trek- Starfleet Academy (2026) (Season 01) BEQ DD+.xml",1768454632
 "tv/S/Star Trek- Strange New Worlds (2022) (Season 01) BEQ DTS-HD MA 5.1.xml",1757612871
 "tv/S/Star Trek- Strange New Worlds (2022) (Season 02) BEQ DTS-HD MA 5.1.xml",1757612871

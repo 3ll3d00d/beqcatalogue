@@ -1682960,14 +1682960,14 @@
 "filterAuthor": "human"
 },
 {
-"title": "Die Hart",
+"title": "Die Hart the Movie",
 "year": "2023",
 "audioTypes": [
 "DD+"
 ],
 "content_type": "film",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/die-hart/#dd",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/die-hart-the-movie/#dd",
 "filters": [
 {
 "type": "LowShelf",
@@ -1683056,9 +1683056,9 @@
 "name": "Die Hart Collection"
 },
 "underlying": "Die Hart (2023) BEQ DD+",
-"digest": "35972db21f034e0be7300616ddfffdf89b4988d14bf02905c910bd2fe283c7a3",
+"digest": "643473e5bb6d49a1806d59f468c7ed139332ff14f9a4fee08707f71edda2f54e",
 "created_at": 1717127591,
-"updated_at": 1717127591,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DD+"
 ],
@@ -1722707,7 +1722707,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Leon The Professional",
+"title": "L\u00e9on: The Professional",
 "year": "1994",
 "audioTypes": [
 "Atmos"
@@ -1722819,9 +1722819,9 @@
 "altTitle": "",
 "collection": {},
 "underlying": "L\u00e9on- The Professional (1994) (International Cut) BEQ Atmos",
-"digest": "2e2cfa7137792cde74b0ba9bc70c2469293eb59f83d04636bca5f08202d31a30",
+"digest": "bcbb7d8cdd785b4feeaebd646aca238847c642417a5587dbdc8cdb09e989074c",
 "created_at": 1719165551,
-"updated_at": 1719165551,
+"updated_at": 1795189528,
 "audioCodecs": [
 "Atmos"
 ],
@@ -1753980,7 +1753980,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Shoot Em Up",
+"title": "Shoot 'Em Up",
 "year": "2007",
 "audioTypes": [
 "DTS-HD MA 7.1"
@@ -1754054,9 +1754054,9 @@
 "altTitle": "",
 "collection": {},
 "underlying": "Shoot 'Em Up (2007) BEQ DTS-HD MA 7.1",
-"digest": "48e1b533e321686d33b6217a2abeb4e38794cc1daded05a87e94083d5eb0e77f",
+"digest": "2f97966704d223fcc1c39212bb69ec5850a878d9f3748fe3cd158355c15495d3",
 "created_at": 1712326695,
-"updated_at": 1712326695,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DTS-HD MA"
 ],
@@ -1765484,14 +1765484,14 @@
 "filterAuthor": "human"
 },
 {
-"title": "The Punisher: One Last Kill",
+"title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
 "year": "2026",
 "audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/the-punisher-one-last-kill/#dd-atmos",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/a-marvel-television-special-presentation-the-punisher-one-last-kill/#dd-atmos",
 "filters": [
 {
 "type": "LowShelf",
@@ -1765656,9 +1765656,9 @@
 "altTitle": "",
 "collection": {},
 "underlying": "A Marvel Television Special Presentation - The Punisher- One Last Kill (2026) BEQ DD+ Atmos",
-"digest": "aa3ed480c0ee2fb54529fa4b3662276ce1847052e7b45e7f5e4fce0c1a36034f",
+"digest": "e6c72b511918a470934e14517e87bb4f277ee26d95c69df616ed2e93d95b69fd",
 "created_at": 1778789906,
-"updated_at": 1778789906,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DD+ Atmos"
 ],
@@ -1803132,14 +1803132,14 @@
 "filterAuthor": "human"
 },
 {
-"title": "Lioness",
+"title": "Special Ops: Lioness",
 "year": "2023",
 "audioTypes": [
 "DD+"
 ],
 "content_type": "TV",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/lioness/#season-02",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/special-ops-lioness/#season-02",
 "filters": [
 {
 "type": "LowShelf",
@@ -1803223,9 +1803223,9 @@
 "War & Politics"
 ],
 "underlying": "Lioness (2023) (Season 02) BEQ DD+",
-"digest": "8d1bfc34392911db7f6dbed1636c1b8d22f828669ad69b8ea88c7651ae16b75c",
+"digest": "43ec45a4314ab7a251024751a819a181cb6455bb484b2dc522d71e5c1de75c2d",
 "created_at": 1733691384,
-"updated_at": 1733691384,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DD+"
 ],
@@ -1813604,14 +1813604,198 @@
 "filterAuthor": "human"
 },
 {
-"title": "Andor",
+"title": "Star Wars: Andor",
+"year": "2022",
+"audioTypes": [
+"Atmos",
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "kaelaria",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/star-wars-andor/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0000754525600042",
+"-1.9991994114359322",
+"0.9991244677888477"
+],
+"a": [
+"1.9991994857510142",
+"-0.9991998460337702"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 14.5,
+"gain": -6.0,
+"q": 10.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999665685642304",
+"-1.9998650553899628",
+"0.9998993874095403"
+],
+"a": [
+"1.9998650553899628",
+"-0.9998659559737708"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 15.0,
+"gain": -6.0,
+"q": 7.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999505955199997",
+"-1.9998009479928622",
+"0.9998513162058786"
+],
+"a": [
+"1.9998009479928622",
+"-0.9998019117258784"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": 1.5,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000240452094644",
+"-1.9997436436026281",
+"0.9997208362193521"
+],
+"a": [
+"1.9997436436026281",
+"-0.9997448814288165"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 5.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000277514819401",
+"-1.9985095125098304",
+"0.9982343476146929"
+],
+"a": [
+"1.9985100637028437",
+"-0.9985113112410803"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 5.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000277514819401",
+"-1.9985095125098304",
+"0.9982343476146929"
+],
+"a": [
+"1.9985100637028437",
+"-0.9985113112410803"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -1.3,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999509928392611",
+"-1.9992910387361706",
+"0.9993438998506855"
+],
+"a": [
+"1.9992910387361706",
+"-0.9992948926899466"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Wars%20Andor%20(2022)%20S01%20TrueHD%20Atmos.jpg",
+"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Wars%20Andor%20(2022)%20S01%20TrueHD%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "star wars: andor",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "The tale of the burgeoning rebellion against the Empire and how people and planets became involved. In an era filled with danger, deception and intrigue, Cassian Andor embarks on the path that is destined to turn him into a rebel hero.",
+"theMovieDB": "83867",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Action & Adventure",
+"Drama"
+],
+"underlying": "Star Wars- Andor (2022) (Season 01) BEQ Atmos",
+"digest": "b96575fe6951c6d30765cabee40f6bf6865b7efad7f2eae4d9c39cd40758411f",
+"created_at": 1714592534,
+"updated_at": 1715616512,
+"audioCodecs": [
+"Atmos",
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+"",
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Star Wars: Andor",
 "year": "2022",
 "audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "TV",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/andor/#season-02",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/star-wars-andor/#season-02",
 "filters": [
 {
 "type": "LowShelf",
@@ -1813780,7 +1813964,7 @@
 "episode": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "andor",
+"sortTitle": "Star Wars: Andor",
 "edition": "",
 "note": "",
 "language": "English",
@@ -1813794,9 +1813978,9 @@
 "Drama"
 ],
 "underlying": "Andor (2022) (Season 02) BEQ DD+ Atmos",
-"digest": "e8a5f0e206bffe82ff99f33a25b22e36980a452a52216c54144d7397a6699b6e",
+"digest": "3bc41300f5c3ff5841b2979581a3055f43e51ffe935f3c7a635e34b166398eac",
 "created_at": 1747237278,
-"updated_at": 1747237278,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DD+ Atmos"
 ],
@@ -1813806,7 +1813990,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "SAS Rogue Heroes",
+"title": "SAS: Rogue Heroes",
 "year": "2022",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -1813918,9 +1814102,9 @@
 "Action & Adventure"
 ],
 "underlying": "SAS Rogue Heroes (2022) (Season 01) BEQ DTS-HD MA 5.1",
-"digest": "9fc87fe1d694a346470d8ca9e8e57506ac0f2f93b051806e551b4a64309204cd",
+"digest": "52257f6d276ef2cdb53987ee6ce2525f777e8b6bc7caa4c515bd6b04b8a13056",
 "created_at": 1740363431,
-"updated_at": 1740363431,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DTS-HD MA"
 ],
@@ -1813930,7 +1814114,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "SAS Rogue Heroes",
+"title": "SAS: Rogue Heroes",
 "year": "2022",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -1814022,9 +1814206,9 @@
 "Action & Adventure"
 ],
 "underlying": "SAS Rogue Heroes (2022) (Season 02) BEQ DTS-HD MA 5.1",
-"digest": "5f5a55d36eebe7f0dfd821f33d97cb7b30a7848cd9c0ce1ede4482b1a26ae366",
+"digest": "728ff9994c141348d0882011e51b83a8bd54b6c5164342b59d6cdba5676bd2ff",
 "created_at": 1740399543,
-"updated_at": 1740399543,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DTS-HD MA"
 ],
@@ -1817159,7 +1817343,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Trek Discovery",
+"title": "Star Trek: Discovery",
 "year": "2017",
 "audioTypes": [
 "DD+"
@@ -1817291,9 +1817475,9 @@
 "Drama"
 ],
 "underlying": "Star Trek- Discovery (2017) (Season 01) BEQ DD+",
-"digest": "ee31786f8930ac5629e66fcb5ccfc4d21e7f79d1cfb5242b72def0fb50e0f861",
+"digest": "8473d070599ce90c0fa3e791a6315132c38257541c7dba2fead004e2fca6e060",
 "created_at": 1716785350,
-"updated_at": 1716785350,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DD+"
 ],
@@ -1817303,7 +1817487,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Trek Discovery",
+"title": "Star Trek: Discovery",
 "year": "2017",
 "audioTypes": [
 "DD+"
@@ -1817395,9 +1817579,9 @@
 "Drama"
 ],
 "underlying": "Star Trek- Discovery (2017) (Season 02) BEQ DD+",
-"digest": "f0987d98283ee02be265d93e58a19f4f7fe41290dbc804f463dc37ad206d3dd3",
+"digest": "d6207b0d53d1b7a1232b23329b28060ce13121c23ba16a4f660492b4eb6613da",
 "created_at": 1716785350,
-"updated_at": 1716785350,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DD+"
 ],
@@ -1817407,7 +1817591,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Trek Discovery",
+"title": "Star Trek: Discovery",
 "year": "2017",
 "audioTypes": [
 "DD+"
@@ -1817539,9 +1817723,132 @@
 "Drama"
 ],
 "underlying": "Star Trek- Discovery (2017) (Season 03) BEQ DD+",
-"digest": "a31ae18809fc6d6d1c12ee57814ad9896569b73e24b08d4432eb2076d4de9321",
+"digest": "368a1e41b6d2f71fc1e6293a0425403d0df53d653196b1aaba3c34b6cfee050a",
 "created_at": 1716785350,
-"updated_at": 1716785350,
+"updated_at": 1795189528,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Star Trek: Discovery",
+"year": "2017",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "kaelaria",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/star-trek-discovery/#season-05",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": -3.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999034799800743",
+"-1.999337789121003",
+"0.9994355467158961"
+],
+"a": [
+"1.999337789121003",
+"-0.9993390266959703"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -0.6,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999736320276926",
+"-1.9992046520521691",
+"0.9992362654601674"
+],
+"a": [
+"1.9992046520521691",
+"-0.9992098974878599"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Trek%20Discovery%20(2017)%20S05%20DD%2B.jpg",
+"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Trek%20Discovery%20(2017)%20S05%20DD%2Bhm.jpg"
+],
+"warning": "",
+"season": "05",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "star trek discovery",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Follow the voyages of Starfleet on their missions to discover new worlds and new life forms, and one Starfleet officer who must learn that to truly understand all things alien, you must first understand yourself.",
+"theMovieDB": "67198",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Action & Adventure",
+"Drama"
+],
+"underlying": "Star Trek- Discovery (2017) (Season 05) BEQ DD+",
+"digest": "bbd16045df70a8ec92571ebdbc6a8875b8abe18e6795bf38cedcac4c755c0aa0",
+"created_at": 1717100128,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DD+"
 ],
@@ -1817684,129 +1817991,6 @@
 "digest": "e51483ea13a10cf5dad95c945053b17bdb8aab7fb3a0ab95140ef70298d4531a",
 "created_at": 1716785350,
 "updated_at": 1716785350,
-"audioCodecs": [
-"DD+"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
-"title": "Star Trek Discovery",
-"year": "2017",
-"audioTypes": [
-"DD+"
-],
-"content_type": "TV",
-"author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/star-trek-discovery/#season-05",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 17.0,
-"gain": -3.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999034799800743",
-"-1.999337789121003",
-"0.9994355467158961"
-],
-"a": [
-"1.999337789121003",
-"-0.9993390266959703"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 7.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003541280953918",
-"-1.9985723174002294",
-"0.9982207512364719"
-],
-"a": [
-"1.9985730261796337",
-"-0.9985741705524592"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 7.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003541280953918",
-"-1.9985723174002294",
-"0.9982207512364719"
-],
-"a": [
-"1.9985730261796337",
-"-0.9985741705524592"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 35.0,
-"gain": -0.6,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999736320276926",
-"-1.9992046520521691",
-"0.9992362654601674"
-],
-"a": [
-"1.9992046520521691",
-"-0.9992098974878599"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Trek%20Discovery%20(2017)%20S05%20DD%2B.jpg",
-"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Trek%20Discovery%20(2017)%20S05%20DD%2Bhm.jpg"
-],
-"warning": "",
-"season": "05",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "star trek discovery",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "Follow the voyages of Starfleet on their missions to discover new worlds and new life forms, and one Starfleet officer who must learn that to truly understand all things alien, you must first understand yourself.",
-"theMovieDB": "67198",
-"rating": "TV-14",
-"genres": [
-"Sci-Fi & Fantasy",
-"Action & Adventure",
-"Drama"
-],
-"underlying": "Star Trek- Discovery (2017) (Season 05) BEQ DD+",
-"digest": "1a16e87c1f698e60f6ef2ee9084b1be7b515ed8a17c5b72c31eae63d5aeb6b81",
-"created_at": 1717100128,
-"updated_at": 1736261761,
 "audioCodecs": [
 "DD+"
 ],
@@ -1818001,7 +1818185,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Trek Prodigy",
+"title": "Star Trek: Prodigy",
 "year": "2021",
 "audioTypes": [
 "DD+"
@@ -1818112,9 +1818296,9 @@
 "Kids"
 ],
 "underlying": "Star Trek- Prodigy (2021) (Season 01) BEQ DD+",
-"digest": "8925843aee6380a240df5b267684db5eae9e4db8fb5a2414a7d96da61f5099f9",
+"digest": "197d03b80e7971a6922b477ec903304b94ca170407434109060e32d0b4221517",
 "created_at": 1719854769,
-"updated_at": 1719859735,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DD+"
 ],
@@ -1818124,7 +1818308,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Trek Prodigy",
+"title": "Star Trek: Prodigy",
 "year": "2021",
 "audioTypes": [
 "DD+"
@@ -1818236,9 +1818420,9 @@
 "Kids"
 ],
 "underlying": "Star Trek- Prodigy (2021) (Season 02) BEQ DD+",
-"digest": "a30006a721c229cc31ddbf32dbdb9d5c3b8bfce4bd0fbbc51eb1a55334c45a6b",
+"digest": "2b890ffc1292eb42876fae53830079f5ddf4a58df9d83c0d03056e4518f3c903",
 "created_at": 1719858372,
-"updated_at": 1719859735,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DD+"
 ],
@@ -1818771,190 +1818955,6 @@
 "DD+"
 ],
 "audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
-"title": "Star Wars: Andor",
-"year": "2022",
-"audioTypes": [
-"Atmos",
-"DD+ Atmos"
-],
-"content_type": "TV",
-"author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/star-wars-andor/#season-01",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 3.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0000754525600042",
-"-1.9991994114359322",
-"0.9991244677888477"
-],
-"a": [
-"1.9991994857510142",
-"-0.9991998460337702"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 14.5,
-"gain": -6.0,
-"q": 10.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999665685642304",
-"-1.9998650553899628",
-"0.9998993874095403"
-],
-"a": [
-"1.9998650553899628",
-"-0.9998659559737708"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 15.0,
-"gain": -6.0,
-"q": 7.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999505955199997",
-"-1.9998009479928622",
-"0.9998513162058786"
-],
-"a": [
-"1.9998009479928622",
-"-0.9998019117258784"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 17.0,
-"gain": 1.5,
-"q": 4.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000240452094644",
-"-1.9997436436026281",
-"0.9997208362193521"
-],
-"a": [
-"1.9997436436026281",
-"-0.9997448814288165"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 5.5,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000277514819401",
-"-1.9985095125098304",
-"0.9982343476146929"
-],
-"a": [
-"1.9985100637028437",
-"-0.9985113112410803"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 5.5,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.000277514819401",
-"-1.9985095125098304",
-"0.9982343476146929"
-],
-"a": [
-"1.9985100637028437",
-"-0.9985113112410803"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 30.0,
-"gain": -1.3,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999509928392611",
-"-1.9992910387361706",
-"0.9993438998506855"
-],
-"a": [
-"1.9992910387361706",
-"-0.9992948926899466"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Wars%20Andor%20(2022)%20S01%20TrueHD%20Atmos.jpg",
-"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Wars%20Andor%20(2022)%20S01%20TrueHD%20Atmoshm.jpg"
-],
-"warning": "",
-"season": "01",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "star wars: andor",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "The tale of the burgeoning rebellion against the Empire and how people and planets became involved. In an era filled with danger, deception and intrigue, Cassian Andor embarks on the path that is destined to turn him into a rebel hero.",
-"theMovieDB": "83867",
-"rating": "TV-14",
-"genres": [
-"Sci-Fi & Fantasy",
-"Action & Adventure",
-"Drama"
-],
-"underlying": "Star Wars- Andor (2022) (Season 01) BEQ Atmos",
-"digest": "b96575fe6951c6d30765cabee40f6bf6865b7efad7f2eae4d9c39cd40758411f",
-"created_at": 1714592534,
-"updated_at": 1715616512,
-"audioCodecs": [
-"Atmos",
-"DD+ Atmos"
-],
-"audioChannelCounts": [
-"",
 ""
 ],
 "filterAuthor": "human"
