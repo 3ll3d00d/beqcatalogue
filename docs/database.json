@@ -1765486,14 +1765486,14 @@
 "filterAuthor": "human"
 },
 {
-"title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+"title": "The Punisher: One Last Kill",
 "year": "2026",
 "audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/a-marvel-television-special-presentation-the-punisher-one-last-kill/#dd-atmos",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/the-punisher-one-last-kill/#dd-atmos",
 "filters": [
 {
 "type": "LowShelf",
@@ -1765658,9 +1765658,9 @@
 "altTitle": "",
 "collection": {},
 "underlying": "A Marvel Television Special Presentation - The Punisher- One Last Kill (2026) BEQ DD+ Atmos",
-"digest": "e6c72b511918a470934e14517e87bb4f277ee26d95c69df616ed2e93d95b69fd",
+"digest": "aa3ed480c0ee2fb54529fa4b3662276ce1847052e7b45e7f5e4fce0c1a36034f",
 "created_at": 1778789906,
-"updated_at": 1795189528,
+"updated_at": 1795210481,
 "audioCodecs": [
 "DD+ Atmos"
 ],
@@ -1786998,7 +1786998,7 @@
 ],
 "content_type": "TV",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/brawn-the-impossible-formula-1-story",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/brawn-the-impossible-formula-1-story/#season-01",
 "filters": [
 {
 "type": "LowShelf",
@@ -1787065,7 +1787065,7 @@
 "https://raw.githubusercontent.com/kaelaria/Beq2/main/Brawn.The.Impossible.Formula.1.Storyhm.jpg"
 ],
 "warning": "",
-"season": "",
+"season": "01",
 "episode": "",
 "mv": "0",
 "avs": "",
@@ -1787081,9 +1787081,9 @@
 "Documentary"
 ],
 "underlying": "Brawn- The Impossible Formula 1 Story (2023) BEQ DD 5.1",
-"digest": "9188c1f618b549f1f511c8a4152f36da1f5a5671070323454e07ca19ad287843",
+"digest": "3105873c9066cc3b04c0c4c48b1197742058b7f8339f59513ae67c9adac7804f",
 "created_at": 1700275926,
-"updated_at": 1700408992,
+"updated_at": 1795210481,
 "audioCodecs": [
 "DD+"
 ],
@@ -1792471,7 +1792471,7 @@
 ],
 "content_type": "TV",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/the-doll-factory",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/the-doll-factory/#season-01",
 "filters": [
 {
 "type": "LowShelf",
@@ -1792538,7 +1792538,7 @@
 "https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Doll%20Factory%20(2023)%20S01%20DD%2B%205.1hm.jpg"
 ],
 "warning": "",
-"season": "",
+"season": "01",
 "episode": "",
 "mv": "0",
 "avs": "",
@@ -1792554,9 +1792554,9 @@
 "Drama"
 ],
 "underlying": "The Doll Factory (2023) BEQ DD+",
-"digest": "1c9eefea6d2db582dd407aab94ab09f33cde996cc525004e0f9b17b70ac6deab",
+"digest": "6fc0d979d03921209fa60f99c567d1555b1cdb27787702b9743224a2e3829761",
 "created_at": 1701732847,
-"updated_at": 1701732847,
+"updated_at": 1795210481,
 "audioCodecs": [
 "DD+"
 ],
@@ -1797835,7 +1797835,7 @@
 ],
 "content_type": "TV",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/gundam-requiem-for-vengeance",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/gundam-requiem-for-vengeance/#season-01",
 "filters": [
 {
 "type": "LowShelf",
@@ -1797902,7 +1797902,7 @@
 "https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Gundam%20-%20Request%20for%20Vengence%20(2024)%20DD%2B%205.1hm.jpg"
 ],
 "warning": "",
-"season": "",
+"season": "01",
 "episode": "",
 "mv": "0",
 "avs": "",
@@ -1797920,9 +1797920,9 @@
 "Animation"
 ],
 "underlying": "Gundam- Requiem for Vengeance (2024) BEQ DD+",
-"digest": "de003de5965334a630b6961a3e66959316f082242cecfc95a77441d1b04d48b6",
+"digest": "d83b5cf2bbdd424206ecec305dbf821d0b3c1dec1369fec635b19229716b1832",
 "created_at": 1729872426,
-"updated_at": 1729872426,
+"updated_at": 1795210481,
 "audioCodecs": [
 "DD+"
 ],
@@ -1803038,7 +1803038,7 @@
 ],
 "content_type": "TV",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/lessons-in-chemistry",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/lessons-in-chemistry/#season-01",
 "filters": [
 {
 "type": "LowShelf",
@@ -1803106,7 +1803106,7 @@
 "https://raw.githubusercontent.com/kaelaria/Beq2/main/Lessons%20In%20Chemistry%20(2023)%20S01%20DD%2B%20AtmosHM.jpg"
 ],
 "warning": "",
-"season": "",
+"season": "01",
 "episode": "",
 "mv": "0",
 "avs": "",
@@ -1803122,9 +1803122,9 @@
 "Drama"
 ],
 "underlying": "Lessons in Chemistry (2023) BEQ DD+ Atmos",
-"digest": "79f1d7175166cfda51f6f57c78e47584e9ec1221125c82523572cc711e87fdc0",
+"digest": "2c71dc40c6c1dd47f4bc048d5b2dad7c054ba7f08688daed0ffa7a487c771db7",
 "created_at": 1700971214,
-"updated_at": 1700971214,
+"updated_at": 1795210481,
 "audioCodecs": [
 "DD+ Atmos"
 ],
@@ -1805314,7 +1805314,7 @@
 ],
 "content_type": "TV",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/a-murder-at-the-end-of-the-world",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/a-murder-at-the-end-of-the-world/#season-01",
 "filters": [
 {
 "type": "LowShelf",
@@ -1805422,7 +1805422,7 @@
 "https://raw.githubusercontent.com/kaelaria/Beq2/main/A.Murder.at.the.End.of.the.World.jpg"
 ],
 "warning": "",
-"season": "",
+"season": "01",
 "episode": "",
 "mv": "0",
 "avs": "",
@@ -1805440,9 +1805440,9 @@
 "Crime"
 ],
 "underlying": "A Murder at the End of the World (2023) BEQ DD+",
-"digest": "9250cebf84688d0006729f605c2aa6f5d7b1a0ae9b3767c33f2917089595bf8f",
+"digest": "ac601edd6d8cc609ff23ab0cbe9befe969b1cfc239c2de960bc64240d2275f0c",
 "created_at": 1700438134,
-"updated_at": 1700438134,
+"updated_at": 1795210481,
 "audioCodecs": [
 "DD+"
 ],
@@ -1813606,7 +1813606,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Wars: Andor",
+"title": "Andor",
 "year": "2022",
 "audioTypes": [
 "Atmos",
@@ -1813614,7 +1813614,7 @@
 ],
 "content_type": "TV",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/star-wars-andor/#season-01",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/andor/#season-01",
 "filters": [
 {
 "type": "LowShelf",
@@ -1813762,7 +1813762,7 @@
 "episode": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "star wars: andor",
+"sortTitle": "andor",
 "edition": "",
 "note": "",
 "language": "English",
@@ -1813776,9 +1813776,9 @@
 "Drama"
 ],
 "underlying": "Star Wars- Andor (2022) (Season 01) BEQ Atmos",
-"digest": "b96575fe6951c6d30765cabee40f6bf6865b7efad7f2eae4d9c39cd40758411f",
+"digest": "a30960ba0c40e5207e9293786505ff2fe8b38daf76f578005b66560f717df49c",
 "created_at": 1714592534,
-"updated_at": 1715616512,
+"updated_at": 1795210481,
 "audioCodecs": [
 "Atmos",
 "DD+ Atmos"
@@ -1813790,14 +1813790,14 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Wars: Andor",
+"title": "Andor",
 "year": "2022",
 "audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "TV",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/star-wars-andor/#season-02",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/andor/#season-02",
 "filters": [
 {
 "type": "LowShelf",
@@ -1813966,7 +1813966,7 @@
 "episode": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "Star Wars: Andor",
+"sortTitle": "Andor",
 "edition": "",
 "note": "",
 "language": "English",
@@ -1813980,9 +1813980,9 @@
 "Drama"
 ],
 "underlying": "Andor (2022) (Season 02) BEQ DD+ Atmos",
-"digest": "3bc41300f5c3ff5841b2979581a3055f43e51ffe935f3c7a635e34b166398eac",
+"digest": "e8a5f0e206bffe82ff99f33a25b22e36980a452a52216c54144d7397a6699b6e",
 "created_at": 1747237278,
-"updated_at": 1795189528,
+"updated_at": 1795210481,
 "audioCodecs": [
 "DD+ Atmos"
 ],
@@ -2213431,7 +2213431,7 @@
 "language": "English",
 "source": "Disc",
 "overview": "",
-"theMovieDB": "",
+"theMovieDB": "762430",
 "rating": "",
 "runtime": "0",
 "genres": [],
@@ -2213440,7 +2213440,7 @@
 "underlying": "Retribution (2023) BEQ Atmos",
 "digest": "82c1871e98c9fc5a90b91ffbf251c36f244884fa0502f92d34b6675ad7722370",
 "created_at": 1794081204,
-"updated_at": 1794081204,
+"updated_at": 1795210484,
 "audioCodecs": [
 "Atmos"
 ],
@@ -2213457,7 +2213457,7 @@
 ],
 "content_type": "film",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/retribution_762430/#dd",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/retribution/#dd",
 "filters": [
 {
 "type": "LowShelf",
