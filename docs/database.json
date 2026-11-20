@@ -1884141,6 +1884141,173 @@
 "filterAuthor": "human"
 },
 {
+"title": "In Your Dreams",
+"year": "2025",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/in-your-dreams/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.39,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000119962668766",
+"-1.9993404202959804",
+"0.9992210416423671"
+],
+"a": [
+"1.9993405553055568",
+"-0.999340869301557"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.39,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000119962668766",
+"-1.9993404202959804",
+"0.9992210416423671"
+],
+"a": [
+"1.9993405553055568",
+"-0.999340869301557"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.39,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000119962668766",
+"-1.9993404202959804",
+"0.9992210416423671"
+],
+"a": [
+"1.9993405553055568",
+"-0.999340869301557"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.39,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.000119962668766",
+"-1.9993404202959804",
+"0.9992210416423671"
+],
+"a": [
+"1.9993405553055568",
+"-0.999340869301557"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 24.49,
+"gain": 6.47,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002313069553561",
+"-1.9989742963741082",
+"0.998746716103413"
+],
+"a": [
+"1.9989752750233183",
+"-0.9989770444095596"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 38.25,
+"gain": 1.34,
+"q": 0.54,
+"biquads": {
+"96000": {
+"b": [
+"1.0003571955036243",
+"-1.9957110733435637",
+"0.9953601317114636"
+],
+"a": [
+"1.9957110733435637",
+"-0.9957173272150879"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/In%20Your%20Dreams%20%282025%29%20%28AI%20revision%29%20%28%2B3.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/In%20Your%20Dreams%20%282025%29%20%28AI%20revision%29%20%28%2B3.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "3.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1807#post-65032721",
+"sortTitle": "in your dreams",
+"edition": "AI revision",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+"theMovieDB": "1117857",
+"rating": "PG",
+"runtime": "87",
+"genres": [
+"Adventure",
+"Animation",
+"Comedy",
+"Family",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "In Your Dreams (2025) (AI revision) (+3.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "72ce5a3fb82d6abb82d7f887b70652f8c25c018e2b8920f82cf166348822241e",
+"created_at": 1795145947,
+"updated_at": 1795145947,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "In the Grey",
 "year": "2026",
 "audioTypes": [
