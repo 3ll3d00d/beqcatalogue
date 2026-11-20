@@ -1817744,129 +1817744,6 @@
 ],
 "content_type": "TV",
 "author": "kaelaria",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/star-trek-discovery/#season-05",
-"filters": [
-{
-"type": "PeakingEQ",
-"freq": 17.0,
-"gain": -3.0,
-"q": 2.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999034799800743",
-"-1.999337789121003",
-"0.9994355467158961"
-],
-"a": [
-"1.999337789121003",
-"-0.9993390266959703"
-]
-}
-}
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 7.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003541280953918",
-"-1.9985723174002294",
-"0.9982207512364719"
-],
-"a": [
-"1.9985730261796337",
-"-0.9985741705524592"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 7.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003541280953918",
-"-1.9985723174002294",
-"0.9982207512364719"
-],
-"a": [
-"1.9985730261796337",
-"-0.9985741705524592"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 35.0,
-"gain": -0.6,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999736320276926",
-"-1.9992046520521691",
-"0.9992362654601674"
-],
-"a": [
-"1.9992046520521691",
-"-0.9992098974878599"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Trek%20Discovery%20(2017)%20S05%20DD%2B.jpg",
-"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Trek%20Discovery%20(2017)%20S05%20DD%2Bhm.jpg"
-],
-"warning": "",
-"season": "05",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "star trek discovery",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "Follow the voyages of Starfleet on their missions to discover new worlds and new life forms, and one Starfleet officer who must learn that to truly understand all things alien, you must first understand yourself.",
-"theMovieDB": "67198",
-"rating": "TV-14",
-"genres": [
-"Sci-Fi & Fantasy",
-"Action & Adventure",
-"Drama"
-],
-"underlying": "Star Trek- Discovery (2017) (Season 05) BEQ DD+",
-"digest": "bbd16045df70a8ec92571ebdbc6a8875b8abe18e6795bf38cedcac4c755c0aa0",
-"created_at": 1717100128,
-"updated_at": 1795189528,
-"audioCodecs": [
-"DD+"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
-"title": "Star Trek Discovery",
-"year": "2017",
-"audioTypes": [
-"DD+"
-],
-"content_type": "TV",
-"author": "kaelaria",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/star-trek-discovery/#season-04",
 "filters": [
 {
@@ -1817990,9 +1817867,132 @@
 "Drama"
 ],
 "underlying": "Star Trek- Discovery (2017) (Season 04) BEQ DD+",
-"digest": "e51483ea13a10cf5dad95c945053b17bdb8aab7fb3a0ab95140ef70298d4531a",
+"digest": "56daae951471d67f61eda02dee5396739ea8ca13585abfa2591ac81905cf9401",
 "created_at": 1716785350,
-"updated_at": 1716785350,
+"updated_at": 1795207909,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Star Trek: Discovery",
+"year": "2017",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "kaelaria",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/kaelaria/star-trek-discovery/#season-05",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": -3.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999034799800743",
+"-1.999337789121003",
+"0.9994355467158961"
+],
+"a": [
+"1.999337789121003",
+"-0.9993390266959703"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -0.6,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999736320276926",
+"-1.9992046520521691",
+"0.9992362654601674"
+],
+"a": [
+"1.9992046520521691",
+"-0.9992098974878599"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Trek%20Discovery%20(2017)%20S05%20DD%2B.jpg",
+"https://raw.githubusercontent.com/kaelaria/Beq2/main/Star%20Trek%20Discovery%20(2017)%20S05%20DD%2Bhm.jpg"
+],
+"warning": "",
+"season": "05",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "star trek discovery",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Follow the voyages of Starfleet on their missions to discover new worlds and new life forms, and one Starfleet officer who must learn that to truly understand all things alien, you must first understand yourself.",
+"theMovieDB": "67198",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy",
+"Action & Adventure",
+"Drama"
+],
+"underlying": "Star Trek- Discovery (2017) (Season 05) BEQ DD+",
+"digest": "bbd16045df70a8ec92571ebdbc6a8875b8abe18e6795bf38cedcac4c755c0aa0",
+"created_at": 1717100128,
+"updated_at": 1795189528,
 "audioCodecs": [
 "DD+"
 ],
