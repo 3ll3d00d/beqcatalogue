@@ -2,7 +2,10 @@
 
 ## Atmos
 
-**2023 • mikejl**
+**2023 • R • 1h 31m • Thriller, Action, Adventure • mikejl**
+
+When a mysterious caller plants a bomb under his car seat, a bank executive begins a high-speed chase across the city to complete a specific series of tasks — all with his kids trapped in the back seat.
+{ data-search-exclude }
 
 [TMDB](https://www.themoviedb.org/movie/762430)  [Compare across authors](../compare/index.md?t=film-retribution_762430)
 { data-search-exclude }

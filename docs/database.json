@@ -2213430,17 +2213430,21 @@
 "note": "",
 "language": "English",
 "source": "Disc",
-"overview": "",
+"overview": "When a mysterious caller plants a bomb under his car seat, a bank executive begins a high-speed chase across the city to complete a specific series of tasks \u2014 all with his kids trapped in the back seat.",
 "theMovieDB": "762430",
-"rating": "",
-"runtime": "0",
-"genres": [],
+"rating": "R",
+"runtime": "91",
+"genres": [
+"Thriller",
+"Action",
+"Adventure"
+],
 "altTitle": "",
 "collection": {},
 "underlying": "Retribution (2023) BEQ Atmos",
 "digest": "82c1871e98c9fc5a90b91ffbf251c36f244884fa0502f92d34b6675ad7722370",
 "created_at": 1794081204,
-"updated_at": 1795210484,
+"updated_at": 1795215693,
 "audioCodecs": [
 "Atmos"
 ],
