@@ -30,7 +30,7 @@
    "margin_db": 0.5,
    "rate": 96000,
    "revision": 2,
-   "sha256": "155c44036fbc3146659af20d72b889a7c2bdf60d2478776460b08eb8cc45f97b",
+   "sha256": "fe6b4e068c76606b46563cc0ad8efe65be54ee3b3c2b3965f78603e21af4765a",
    "storage": "float32",
    "transport": "float32"
   }
