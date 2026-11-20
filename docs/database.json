@@ -2323112,129 +2323112,6 @@
 "filterAuthor": "human"
 },
 {
-"title": "Lioness",
-"year": "2023",
-"audioTypes": [
-"DD+ Atmos"
-],
-"content_type": "TV",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/lioness/#season-03",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": -8.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"0.9997972904576714",
-"-1.998901509285325",
-"0.9991044889613313"
-],
-"a": [
-"1.9989013050796038",
-"-0.9989019836247236"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 6.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003029873811276",
-"-1.9985307507915822",
-"0.9982301819794888"
-],
-"a": [
-"1.9985313539981375",
-"-0.9985325661540613"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 20.0,
-"gain": 6.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0003029873811276",
-"-1.9985307507915822",
-"0.9982301819794888"
-],
-"a": [
-"1.9985313539981375",
-"-0.9985325661540613"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 39.0,
-"gain": -0.5,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999755179902431",
-"-1.9991181783548215",
-"0.9991491729905431"
-],
-"a": [
-"1.9991181783548215",
-"-0.9991246909807862"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lioness/Lioness%20S03E01-08%20(2023)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lioness/Lioness%20S03E01-08%20(2023)%20DD%2B%20Atmoshm.jpg"
-],
-"warning": "",
-"season": "03",
-"episode": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "lioness",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-"theMovieDB": "113962",
-"rating": "TV-MA",
-"genres": [
-"Drama",
-"War & Politics"
-],
-"underlying": "Lioness (2023) (Season 03) BEQ DD+ Atmos",
-"digest": "dcd0523ba39a7394af68afe364c219fe4af164cc33af97cd04d0f23b3b08e2a9",
-"created_at": 1789905724,
-"updated_at": 1789905724,
-"audioCodecs": [
-"DD+ Atmos"
-],
-"audioChannelCounts": [
-""
-],
-"filterAuthor": "human"
-},
-{
 "title": "Lisey's Story",
 "year": "2021",
 "audioTypes": [
@@ -2339234,6 +2339111,129 @@
 "updated_at": 1782661923,
 "audioCodecs": [
 "DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Special Ops: Lioness",
+"year": "2023",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/special-ops-lioness/#season-03",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9997972904576714",
+"-1.998901509285325",
+"0.9991044889613313"
+],
+"a": [
+"1.9989013050796038",
+"-0.9989019836247236"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003029873811276",
+"-1.9985307507915822",
+"0.9982301819794888"
+],
+"a": [
+"1.9985313539981375",
+"-0.9985325661540613"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003029873811276",
+"-1.9985307507915822",
+"0.9982301819794888"
+],
+"a": [
+"1.9985313539981375",
+"-0.9985325661540613"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 39.0,
+"gain": -0.5,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999755179902431",
+"-1.9991181783548215",
+"0.9991491729905431"
+],
+"a": [
+"1.9991181783548215",
+"-0.9991246909807862"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lioness/Lioness%20S03E01-08%20(2023)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Lioness/Lioness%20S03E01-08%20(2023)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "03",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "special ops: lioness",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Paramount+",
+"overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+"theMovieDB": "113962",
+"rating": "TV-MA",
+"genres": [
+"Drama",
+"War & Politics"
+],
+"underlying": "Special Ops- Lioness (2023) (Season 03) (Paramount+) BEQ DD+ Atmos",
+"digest": "0b1d87297627a1cb94456e135e28314fe2fbc5c6cbe7fe7a61033d920aa0a138",
+"created_at": 1795216948,
+"updated_at": 1795216948,
+"audioCodecs": [
+"DD+ Atmos"
 ],
 "audioChannelCounts": [
 ""
