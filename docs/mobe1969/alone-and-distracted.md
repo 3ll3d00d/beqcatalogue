@@ -1,6 +1,6 @@
-# Alone and Distracted
+# Edge of Tomorrow
 
-[Compare across authors](../compare/index.md?t=film-alone-and-distracted_137113)
+[Compare across authors](../compare/index.md?t=film-edge-of-tomorrow_137113)
 
 ## DTS-HD MA 5.1
 

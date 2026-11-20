@@ -1,6 +1,6 @@
 # Mission of Honor
 
-[Compare across authors](../compare/index.md?t=film-mission-of-honor_335788)
+[Compare across authors](../compare/index.md?t=film-mission-of-honor_506863)
 
 ## DTS-HD MA 5.1
 
@@ -9,7 +9,7 @@
 In the midst of the Balkan wars, a squad of Navy SEALs attempts to unravel a long-forgotten mystery after discovering an enormous treasure trove hidden at the bottom of a lake in Serbia.
 { data-search-exclude }
 
-[TMDB](https://www.themoviedb.org/movie/335788)
+[TMDB](https://www.themoviedb.org/movie/506863)
 { data-search-exclude }
 
 ![img 0](https://gitlab.com/Mobe1969/beq-reports/-/raw/master/Movies/M/Mission%20of%20Honor%20%282018%29%20DTS-HD%20MA%205.1.jpg)

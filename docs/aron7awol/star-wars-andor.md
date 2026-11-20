@@ -1,8 +1,8 @@
-# Star Wars: Andor
+# Andor
 
 * Author: aron7awol
 
-[Compare across authors](../compare/index.md?t=TV-star-wars-andor_83867)
+[Compare across authors](../compare/index.md?t=TV-andor_83867)
 
 ## Season 1 Episodes 1-7, 10-12
 

@@ -1,8 +1,8 @@
-# Mythic Quest: Raven's Banquet
+# Mythic Quest
 
 * Author: aron7awol
 
-[Compare across authors](../compare/index.md?t=TV-mythic-quest-ravens-banquet_94951)
+[Compare across authors](../compare/index.md?t=TV-mythic-quest_94951)
 
 ## Season 1
 

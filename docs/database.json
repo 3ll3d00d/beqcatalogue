@@ -60413,7 +60413,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Fear Street Part One: 1994",
+"title": "Fear Street: 1994",
 "year": "2021",
 "audioTypes": [
 "DD+ Atmos"
@@ -60489,7 +60489,7 @@
 "warning": "",
 "mv": "1.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60854980",
-"sortTitle": "fear street part one: 1994",
+"sortTitle": "fear street: 1994",
 "edition": "",
 "note": "",
 "language": "English",
@@ -60521,7 +60521,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Fear Street Part Two: 1978",
+"title": "Fear Street: 1978",
 "year": "2021",
 "audioTypes": [
 "DD+ Atmos"
@@ -96577,7 +96577,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "The Iron Mask",
+"title": "Iron Mask",
 "year": "2019",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -133890,7 +133890,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Possessor Uncut",
+"title": "Possessor",
 "year": "2020",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -134006,7 +134006,7 @@
 "warning": "",
 "mv": "5.0",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60311633",
-"sortTitle": "possessor uncut",
+"sortTitle": "possessor",
 "edition": "Uncut",
 "note": "",
 "language": "English",
@@ -170041,7 +170041,7 @@
 "audioTypes": [
 "DD+"
 ],
-"content_type": "film",
+"content_type": "TV",
 "author": "aron7awol",
 "catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/aron7awol/59447816/#dd",
 "filters": [
@@ -170137,7 +170137,9 @@
 "audioCodecs": [
 "DD+"
 ],
-"filterAuthor": "human"
+"filterAuthor": "human",
+"season": "1",
+"episode": ""
 },
 {
 "title": "Tangled",
@@ -257043,7 +257045,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Jupiters Legacy",
+"title": "Jupiter's Legacy",
 "year": "2021",
 "audioTypes": [
 "DD+ Atmos"
@@ -257120,7 +257122,7 @@
 "episode": "",
 "mv": "0.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60718530",
-"sortTitle": "jupiters legacy",
+"sortTitle": "jupiter's legacy",
 "edition": "",
 "note": "",
 "language": "English",
@@ -260007,7 +260009,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Mythic Quest: Raven's Banquet",
+"title": "Mythic Quest",
 "year": "2020",
 "audioTypes": [
 "DD+ Atmos"
@@ -260084,7 +260086,7 @@
 "episode": "",
 "mv": "3",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-59245344",
-"sortTitle": "mythic quest: raven's banquet",
+"sortTitle": "mythic quest",
 "edition": "",
 "note": "",
 "language": "English",
@@ -265129,7 +265131,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Wars: Andor",
+"title": "Andor",
 "year": "2022",
 "audioTypes": [
 "DD+ Atmos"
@@ -265225,7 +265227,7 @@
 "episode": "1,2,3,4,5,6,7,10,11,12",
 "mv": "4.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-61986711",
-"sortTitle": "star wars: andor",
+"sortTitle": "andor",
 "edition": "",
 "note": "4dB dialnorm compensation",
 "language": "English",
@@ -265251,7 +265253,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Stargirl",
+"title": "DC's Stargirl",
 "year": "2020",
 "audioTypes": [
 "DD+"
@@ -265348,7 +265350,7 @@
 "episode": "",
 "mv": "0.5",
 "avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-60029290",
-"sortTitle": "stargirl",
+"sortTitle": "dc's stargirl",
 "edition": "",
 "note": "",
 "language": "English",
@@ -281391,7 +281393,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "2010: The Year We Make Contact",
+"title": "2010",
 "year": "1984",
 "audioTypes": [
 "TrueHD 5.1"
@@ -305369,7 +305371,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Aeon Flux",
+"title": "\u00c6on Flux",
 "year": "2005",
 "audioTypes": [
 "DD 5.1",
@@ -305444,7 +305446,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "aeon flux",
+"sortTitle": "\u00e6on flux",
 "edition": "",
 "note": "",
 "language": "English",
@@ -319175,7 +319177,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Alone and Distracted",
+"title": "Edge of Tomorrow",
 "year": "2014",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -319290,7 +319292,7 @@
 "warning": "DO NOT USE UNTIL AFTER 40 SECONDS",
 "mv": "0",
 "avs": "",
-"sortTitle": "alone and distracted",
+"sortTitle": "edge of tomorrow",
 "edition": "",
 "note": "This is actually Edge of Tomorrow AFTER 40 seconds...",
 "language": "English",
@@ -328106,7 +328108,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Anderson Falls",
+"title": "Darkness Falls",
 "year": "2020",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -328202,7 +328204,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "anderson falls",
+"sortTitle": "darkness falls",
 "edition": "",
 "note": "",
 "language": "English",
@@ -422386,7 +422388,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Broken Lizard's Club Dread",
+"title": "Club Dread",
 "year": "2004",
 "audioTypes": [
 "DD 2.0"
@@ -422501,7 +422503,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "broken lizard's club dread",
+"sortTitle": "club dread",
 "edition": "",
 "note": "",
 "language": "English",
@@ -558235,7 +558237,7 @@
 "language": "English",
 "source": "Disc",
 "overview": "",
-"theMovieDB": "",
+"theMovieDB": "308638",
 "rating": "",
 "runtime": "0",
 "genres": [],
@@ -560356,7 +560358,7 @@
 "language": "English",
 "source": "Disc",
 "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-"theMovieDB": "924",
+"theMovieDB": "74471",
 "rating": "R",
 "runtime": "93",
 "genres": [
@@ -614803,7 +614805,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Flash Over",
+"title": "Flashover",
 "year": "2023",
 "audioTypes": [
 "AAC 2.0"
@@ -614919,7 +614921,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "flash over",
+"sortTitle": "flashover",
 "edition": "",
 "note": "",
 "language": "Mandarin",
@@ -678697,7 +678699,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "The Godfather Coda: The Death of Michael Corleone",
+"title": "The Godfather: Part III",
 "year": "1990",
 "audioTypes": [
 "TrueHD 5.1"
@@ -678813,7 +678815,7 @@
 "mv": "0",
 "avs": "",
 "sortTitle": "the godfather coda the death of michael corleone",
-"edition": "",
+"edition": "Coda",
 "note": "",
 "language": "English",
 "source": "Disc",
@@ -682883,8 +682885,8 @@
 "filterAuthor": "human"
 },
 {
-"title": "The Grief Tourist",
-"year": "2013",
+"title": "Dark Tourist",
+"year": "2012",
 "audioTypes": [
 "DTS-HD MA 5.1"
 ],
@@ -683018,7 +683020,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "the grief tourist",
+"sortTitle": "dark tourist",
 "edition": "",
 "note": "",
 "language": "English",
@@ -734885,7 +734887,7 @@
 "language": "English",
 "source": "Streaming",
 "overview": "Reeling from the unexpected death of her husband, Beth is left alone in the lakeside home he built for her. Soon she begins to uncover her recently deceased husband's disturbing secrets.",
-"theMovieDB": "547565",
+"theMovieDB": "926899",
 "rating": "R",
 "runtime": "107",
 "genres": [
@@ -745324,7 +745326,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Imaginarium of Doctor Parnassus",
+"title": "The Imaginarium of Doctor Parnassus",
 "year": "2009",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -745460,7 +745462,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "imaginarium of doctor parnassus",
+"sortTitle": "the imaginarium of doctor parnassus",
 "edition": "",
 "note": "",
 "language": "English",
@@ -745669,7 +745671,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Immortal Demon Slayer",
+"title": "Wu Kong",
 "year": "2017",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -745785,7 +745787,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "immortal demon slayer",
+"sortTitle": "wu kong",
 "edition": "",
 "note": "",
 "language": "Mandarin",
@@ -807381,7 +807383,7 @@
 "language": "English",
 "source": "Disc",
 "overview": "When an alien race and factions within Starfleet attempt to take over a planet that has \"regenerative\" properties, it falls upon Captain Picard and the crew of the Enterprise to defend the planet's people as well as the very ideals upon which the Federation itself was founded.",
-"theMovieDB": "200",
+"theMovieDB": "254",
 "rating": "PG-13",
 "runtime": "200",
 "genres": [
@@ -807563,7 +807565,7 @@
 "language": "English",
 "source": "Disc",
 "overview": "When an alien race and factions within Starfleet attempt to take over a planet that has \"regenerative\" properties, it falls upon Captain Picard and the crew of the Enterprise to defend the planet's people as well as the very ideals upon which the Federation itself was founded.",
-"theMovieDB": "200",
+"theMovieDB": "254",
 "rating": "PG-13",
 "runtime": "187",
 "genres": [
@@ -820623,7 +820625,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "The Knight of Shadows",
+"title": "The Knight of Shadows: Between Yin and Yang",
 "year": "2019",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -820738,7 +820740,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "the knight of shadows",
+"sortTitle": "the knight of shadows: between yin and yang",
 "edition": "",
 "note": "",
 "language": "Mandarin",
@@ -820970,7 +820972,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "L'Assaut",
+"title": "The Assault",
 "year": "2010",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -821045,7 +821047,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "l'assaut",
+"sortTitle": "the assault",
 "edition": "",
 "note": "",
 "language": "French",
@@ -831352,7 +831354,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Lesson of Evil",
+"title": "Lesson of the Evil",
 "year": "2012",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -831484,7 +831486,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "lesson of evil",
+"sortTitle": "lesson of the evil",
 "edition": "",
 "note": "",
 "language": "Japanese",
@@ -878102,7 +878104,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Meg 2 The.Trench",
+"title": "Meg 2: The Trench",
 "year": "2023",
 "audioTypes": [
 "DD+ Atmos"
@@ -878236,13 +878238,13 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "meg 2 the.trench",
+"sortTitle": "meg 2: the trench",
 "edition": "",
 "note": "",
 "language": "English",
 "source": "Streaming",
 "overview": "",
-"theMovieDB": "",
+"theMovieDB": "615656",
 "rating": "",
 "runtime": "0",
 "genres": [],
@@ -892536,7 +892538,7 @@
 "language": "English",
 "source": "Disc",
 "overview": "In the midst of the Balkan wars, a squad of Navy SEALs attempts to unravel a long-forgotten mystery after discovering an enormous treasure trove hidden at the bottom of a lake in Serbia.",
-"theMovieDB": "335788",
+"theMovieDB": "506863",
 "rating": "PG-13",
 "runtime": "105",
 "genres": [
@@ -959017,7 +959019,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Operation Desert",
+"title": "The Objective",
 "year": "2008",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -959171,7 +959173,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "operation desert",
+"sortTitle": "the objective",
 "edition": "",
 "note": "",
 "language": "English",
@@ -977861,7 +977863,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Paradise Lost",
+"title": "Turistas",
 "year": "2006",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -977976,7 +977978,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "paradise lost",
+"sortTitle": "turistas",
 "edition": "Unrated Cut",
 "note": "",
 "language": "English",
@@ -1000610,7 +1000612,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Possessor Uncut",
+"title": "Possessor",
 "year": "2020",
 "audioTypes": [
 "Atmos"
@@ -1000685,7 +1000687,7 @@
 "mv": "0",
 "avs": "",
 "sortTitle": "possessor",
-"edition": "",
+"edition": "Uncut",
 "note": "",
 "language": "English",
 "source": "Disc",
@@ -1028514,7 +1028516,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Raid 2",
+"title": "The Raid 2",
 "year": "2014",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -1028610,7 +1028612,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "raid 2",
+"sortTitle": "the raid 2",
 "edition": "",
 "note": "",
 "language": "Indonesian",
@@ -1039597,7 +1039599,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Redemption",
+"title": "Blood of Redemption",
 "year": "2013",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -1039672,7 +1039674,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "redemption",
+"sortTitle": "blood of redemption",
 "edition": "",
 "note": "",
 "language": "English",
@@ -1065016,7 +1065018,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "The Raid: Redemption",
+"title": "The Raid",
 "year": "2011",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -1106012,7 +1106014,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Silent Hill Revelation",
+"title": "Silent Hill: Revelation",
 "year": "2012",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -1106088,7 +1106090,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "silent hill revelation",
+"sortTitle": "silent hill: revelation",
 "edition": "",
 "note": "",
 "language": "English",
@@ -1110252,7 +1110254,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Six Bullets",
+"title": "6 Bullets",
 "year": "2012",
 "audioTypes": [
 "DTS-HD MA 5.1",
@@ -1110309,7 +1110311,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "six bullets",
+"sortTitle": "6 bullets",
 "edition": "",
 "note": "",
 "language": "English",
@@ -1138233,7 +1138235,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Wars Episode IV A New Hope",
+"title": "Star Wars",
 "year": "1977",
 "audioTypes": [
 "Atmos"
@@ -1138348,7 +1138350,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "star wars episode iv a new hope",
+"sortTitle": "star wars",
 "edition": "",
 "note": "",
 "language": "English",
@@ -1181889,7 +1181891,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Talladega Nights",
+"title": "Talladega Nights: The Ballad of Ricky Bobby",
 "year": "2006",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -1181985,7 +1181987,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "talladega nights",
+"sortTitle": "talladega nights: the ballad of ricky bobby",
 "edition": "Theatrical Cut",
 "note": "",
 "language": "English",
@@ -1228932,7 +1228934,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "tick, tick...BOOM!",
+"title": "tick, tick... BOOM!",
 "year": "2021",
 "audioTypes": [
 "DD+ 5.1"
@@ -1288324,7 +1288326,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Woochi : The Demon Slayer",
+"title": "Woochi: The Demon Slayer",
 "year": "2009",
 "audioTypes": [
 "DTS-HD MA 5.1"
@@ -1291680,7 +1291682,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Wyrmwood",
+"title": "Wyrmwood: Road of the Dead",
 "year": "2014",
 "audioTypes": [
 "DTS-HD MA 7.1"
@@ -1291776,7 +1291778,7 @@
 "warning": "",
 "mv": "0",
 "avs": "",
-"sortTitle": "wyrmwood",
+"sortTitle": "wyrmwood: road of the dead",
 "edition": "",
 "note": "",
 "language": "English",
@@ -1411493,7 +1411495,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Anne Rice's Mayfair Witches",
+"title": "Mayfair Witches",
 "year": "2023",
 "audioTypes": [
 "DD+ 5.1"
@@ -1427852,7 +1427854,7 @@
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Private%20Lives%20%282020%29%28Ko%29%28S1-E1-16%29%20DD%2B%202.0.jpg"
 ],
 "warning": "",
-"season": "",
+"season": "1",
 "episode": "",
 "mv": "0",
 "avs": "",
@@ -1433034,7 +1433036,7 @@
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Secret%20Royal%20Inspector%20%26%20Joy%20%282021%29%28Ko%29%28S1%201-16%29%20DD%2B%202.0.jpg"
 ],
 "warning": "",
-"season": "",
+"season": "1",
 "episode": "",
 "mv": "0",
 "avs": "",
@@ -1435582,7 +1435584,7 @@
 "language": "English",
 "source": "Streaming",
 "overview": "In a world cleaved in two by a massive barrier of perpetual darkness, a young soldier uncovers a power that might finally unite her country. But as she struggles to hone her power, dangerous forces plot against her. Thugs, thieves, assassins and saints are at war now, and it will take more than magic to survive.",
-"theMovieDB": "85720",
+"theMovieDB": "87415",
 "rating": "NR",
 "genres": [
 "Sci-Fi & Fantasy"
@@ -1444993,7 +1444995,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Wars: Andor",
+"title": "Andor",
 "year": "2022",
 "audioTypes": [
 "DD+ Atmos"
@@ -1445155,7 +1445157,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Wars: Andor",
+"title": "Andor",
 "year": "2022",
 "audioTypes": [
 "DD+ Atmos"
@@ -1445298,7 +1445300,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Wars: Andor",
+"title": "Andor",
 "year": "2022",
 "audioTypes": [
 "DD+ Atmos"
@@ -1445440,7 +1445442,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Star Wars: Andor",
+"title": "Andor",
 "year": "2022",
 "audioTypes": [
 "DD+ Atmos"
@@ -1451092,8 +1451094,8 @@
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/Taboo/Season%201/Taboo%20%282017%29%28S1-E8%29%20DTS-HD%20MA%205.1.jpg"
 ],
 "warning": "",
-"season": "",
-"episode": "",
+"season": "1",
+"episode": "8",
 "mv": "0",
 "avs": "",
 "sortTitle": "taboo",
@@ -1453949,7 +1453951,7 @@
 "https://gitlab.com/Mobe1969/beq-reports/-/raw/master/TV%20Series/The%20ABC%20Murders%20%282019%29%28S1%29%20DD%2B%205.1.jpg"
 ],
 "warning": "",
-"season": "",
+"season": "1",
 "episode": "",
 "mv": "0",
 "avs": "",
@@ -1511803,7 +1511805,7 @@
 "filterAuthor": "human"
 },
 {
-"title": "Entrev\u00edas",
+"title": "Wrong Side of the Tracks",
 "year": "2022",
 "audioTypes": [
 "DD+ 5.1"

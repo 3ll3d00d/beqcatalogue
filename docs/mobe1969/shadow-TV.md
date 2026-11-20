@@ -2,7 +2,7 @@
 
 * Author: mobe1969
 
-[Compare across authors](../compare/index.md?t=TV-shadow_85720)
+[Compare across authors](../compare/index.md?t=TV-shadow_87415)
 
 ## Season 1
 

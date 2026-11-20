@@ -1,4 +1,4 @@
-# Jupiters Legacy
+# Jupiter's Legacy
 
 * Author: aron7awol
 

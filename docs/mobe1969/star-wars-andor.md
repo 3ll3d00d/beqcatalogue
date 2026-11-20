@@ -1,8 +1,8 @@
-# Star Wars: Andor
+# Andor
 
 * Author: mobe1969
 
-[Compare across authors](../compare/index.md?t=TV-star-wars-andor_83867)
+[Compare across authors](../compare/index.md?t=TV-andor_83867)
 
 ## Season 1
 

@@ -1,0 +1,598 @@
+[
+  {
+    "author": "aron7awol",
+    "underlying": "Tales from the Loop (2020) (Season 1) (Amazon) BEQ DD+",
+    "set": {
+      "content_type": "TV",
+      "season": "1",
+      "episode": ""
+    },
+    "expect": {
+      "content_type": "film",
+      "season": ""
+    },
+    "reason": "Series filed as a film; source is Season 1"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "The Dead (2010) TrueHD 5.1",
+    "set": {
+      "theMovieDB": "74471"
+    },
+    "expect": {
+      "theMovieDB": "924"
+    },
+    "reason": "Had the TMDb id of Dawn of the Dead (2004)"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "King Kong (2005)(EC) DTS-X",
+    "set": {
+      "theMovieDB": "254"
+    },
+    "expect": {
+      "theMovieDB": "200"
+    },
+    "reason": "Had the TMDb id of Star Trek: Insurrection"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "King Kong (2005)(TC) DTS-X",
+    "set": {
+      "theMovieDB": "254"
+    },
+    "expect": {
+      "theMovieDB": "200"
+    },
+    "reason": "Had the TMDb id of Star Trek: Insurrection"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Shadow (2019)(S1-E1-8) DD+ 2.0",
+    "set": {
+      "theMovieDB": "87415"
+    },
+    "expect": {
+      "theMovieDB": "85720"
+    },
+    "reason": "Had the TMDb id of Shadow and Bone"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "The House (2022) DD+ Atmos",
+    "set": {
+      "theMovieDB": "926899"
+    },
+    "expect": {
+      "theMovieDB": "547565"
+    },
+    "reason": "Had the TMDb id of The Night House"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Mission of Honor (2018) DTS-HD MA 5.1",
+    "set": {
+      "theMovieDB": "506863"
+    },
+    "expect": {
+      "theMovieDB": "335788"
+    },
+    "reason": "US title of Hurricane (2018); had the TMDb id of Renegades (2017)"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Meg 2 The.Trench (2023) DD+ Atmos",
+    "set": {
+      "title": "Meg 2: The Trench",
+      "theMovieDB": "615656"
+    },
+    "expect": {
+      "title": "Meg 2 The.Trench",
+      "theMovieDB": ""
+    },
+    "reason": "Typo in title, missing TMDb id"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "The D Train (2014) DTS-HD MA 5.1",
+    "set": {
+      "theMovieDB": "308638"
+    },
+    "expect": {
+      "theMovieDB": ""
+    },
+    "reason": "Missing TMDb id"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Private Lives (2020)(Ko)(S1-E1-16) DD+ 2.0",
+    "set": {
+      "season": "1"
+    },
+    "expect": {
+      "season": ""
+    },
+    "reason": "Season not parsed from (S1-E1-16)"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Secret Royal Inspector & Joy (2021)(Ko)(S1 1-16) DD+ 2.0",
+    "set": {
+      "season": "1"
+    },
+    "expect": {
+      "season": ""
+    },
+    "reason": "Season not parsed from (S1 1-16)"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Taboo (2017)(S1-E8) DTS-HD MA 5.1",
+    "set": {
+      "season": "1",
+      "episode": "8"
+    },
+    "expect": {
+      "season": "",
+      "episode": ""
+    },
+    "reason": "Season/episode not parsed from (S1-E8)"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "The ABC Murders (2019)(S1) DD+ 5.1",
+    "set": {
+      "season": "1"
+    },
+    "expect": {
+      "season": ""
+    },
+    "reason": "Season not parsed from (S1)"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Anderson Falls (2020) DTS-HD MA 5.1",
+    "set": {
+      "title": "Darkness Falls"
+    },
+    "expect": {
+      "title": "Anderson Falls"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "The Grief Tourist (2013) DTS-HD MA 5.1",
+    "set": {
+      "title": "Dark Tourist",
+      "year": "2012"
+    },
+    "expect": {
+      "title": "The Grief Tourist",
+      "year": "2013"
+    },
+    "reason": "Alternate title of Dark Tourist"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Wrong Side of the Tracks (2022)(Es)(S1 E1-8) DD+ 5.1",
+    "set": {
+      "title": "Wrong Side of the Tracks"
+    },
+    "expect": {
+      "title": "Entrevías"
+    },
+    "reason": "Original-language title; TMDb English title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Immortal Demon Slayer (2017)(Ma) DTS-HD MA 5.1",
+    "set": {
+      "title": "Wu Kong"
+    },
+    "expect": {
+      "title": "Immortal Demon Slayer"
+    },
+    "reason": "Alternate title; TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Paradise Lost (2006)(UC) DTS-HD MA 5.1",
+    "set": {
+      "title": "Turistas"
+    },
+    "expect": {
+      "title": "Paradise Lost"
+    },
+    "reason": "UK title of Turistas"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "The Godfather Coda The Death of Michael Corleone (1990) TrueHD 5.1",
+    "set": {
+      "title": "The Godfather: Part III",
+      "edition": "Coda"
+    },
+    "expect": {
+      "title": "The Godfather Coda: The Death of Michael Corleone",
+      "edition": ""
+    },
+    "reason": "Recut of Part III; cut goes in edition"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "2010 The Year We Make Contact (1984) TrueHD 5.1",
+    "set": {
+      "title": "2010"
+    },
+    "expect": {
+      "title": "2010: The Year We Make Contact"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Six Bullets (2012) DTS-HD MA 5.1",
+    "set": {
+      "title": "6 Bullets"
+    },
+    "expect": {
+      "title": "Six Bullets"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Aeon Flux (2005) DTS 5.1",
+    "set": {
+      "title": "Æon Flux"
+    },
+    "expect": {
+      "title": "Aeon Flux"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "aron7awol",
+    "underlying": "Star Wars- Andor (2022) (Season 1) (Disney+) (4.5 gain) BEQ DD+ Atmos",
+    "set": {
+      "title": "Andor"
+    },
+    "expect": {
+      "title": "Star Wars: Andor"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Star Wars Andor (2022)(S1 1-8, 10-12) DD+ Atmos",
+    "set": {
+      "title": "Andor"
+    },
+    "expect": {
+      "title": "Star Wars: Andor"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Star Wars Andor (2022)(S1 10-12) DD+ Atmos",
+    "set": {
+      "title": "Andor"
+    },
+    "expect": {
+      "title": "Star Wars: Andor"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Star Wars Andor (2022)(S1 9) DD+ Atmos",
+    "set": {
+      "title": "Andor"
+    },
+    "expect": {
+      "title": "Star Wars: Andor"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Star Wars Andor (2022)(S1) DD+ Atmos",
+    "set": {
+      "title": "Andor"
+    },
+    "expect": {
+      "title": "Star Wars: Andor"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Mayfair Witches (2023)(S01) DD+ 5.1 ",
+    "set": {
+      "title": "Mayfair Witches"
+    },
+    "expect": {
+      "title": "Anne Rice's Mayfair Witches"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Redemption (2013) DTS-HD MA 5.1",
+    "set": {
+      "title": "Blood of Redemption"
+    },
+    "expect": {
+      "title": "Redemption"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Broken Lizard's Club Dread (2004) AC3 2.0",
+    "set": {
+      "title": "Club Dread"
+    },
+    "expect": {
+      "title": "Broken Lizard's Club Dread"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "aron7awol",
+    "underlying": "Stargirl (2020) (Season 1) (DC Universe) (+0.5 gain) BEQ DD+",
+    "set": {
+      "title": "DC's Stargirl"
+    },
+    "expect": {
+      "title": "Stargirl"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "aron7awol",
+    "underlying": "Fear Street Part One- 1994 (2021) (Netflix) (+1.5 gain) BEQ DD+ Atmos",
+    "set": {
+      "title": "Fear Street: 1994"
+    },
+    "expect": {
+      "title": "Fear Street Part One: 1994"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "aron7awol",
+    "underlying": "Fear Street Part Two- 1978 (2021) (+2.0 gain) BEQ DD+ Atmos",
+    "set": {
+      "title": "Fear Street: 1978"
+    },
+    "expect": {
+      "title": "Fear Street Part Two: 1978"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Flash Over (2023)(Ma) AAC 2.0",
+    "set": {
+      "title": "Flashover"
+    },
+    "expect": {
+      "title": "Flash Over"
+    },
+    "reason": "Spelling"
+  },
+  {
+    "author": "aron7awol",
+    "underlying": "Jupiters Legacy (2021) (Season 1) (Netflix) (+0.5 gain) BEQ DD+ Atmos",
+    "set": {
+      "title": "Jupiter's Legacy"
+    },
+    "expect": {
+      "title": "Jupiters Legacy"
+    },
+    "reason": "Spelling"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "L'Assaut (2010)(Fr) DTS-HD MA 5.1",
+    "set": {
+      "title": "The Assault"
+    },
+    "expect": {
+      "title": "L'Assaut"
+    },
+    "reason": "Original-language title; TMDb English title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Lesson of Evil (2012)(Ja) DTS-HD MA 5.1",
+    "set": {
+      "title": "Lesson of the Evil"
+    },
+    "expect": {
+      "title": "Lesson of Evil"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "aron7awol",
+    "underlying": "Mythic Quest Raven's Banquet (2020) (Season 1) (Apple TV+) (+3 gain) BEQ DD+ Atmos",
+    "set": {
+      "title": "Mythic Quest"
+    },
+    "expect": {
+      "title": "Mythic Quest: Raven's Banquet"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "aron7awol",
+    "underlying": "Possessor (2020) (Uncut) (+5.0 gain) BEQ DTS-HD MA 5.1",
+    "set": {
+      "title": "Possessor"
+    },
+    "expect": {
+      "title": "Possessor Uncut"
+    },
+    "reason": "Cut belongs in edition (already Uncut)"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Possessor (2020) Atmos",
+    "set": {
+      "title": "Possessor",
+      "edition": "Uncut"
+    },
+    "expect": {
+      "title": "Possessor Uncut",
+      "edition": ""
+    },
+    "reason": "Cut belongs in edition"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Star Wars Episode IV A New Hope (1977) Atmos",
+    "set": {
+      "title": "Star Wars"
+    },
+    "expect": {
+      "title": "Star Wars Episode IV A New Hope"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Talladega Nights (2006)(Theatrical) DTS-HD MA 5.1",
+    "set": {
+      "title": "Talladega Nights: The Ballad of Ricky Bobby"
+    },
+    "expect": {
+      "title": "Talladega Nights"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "The Knight of Shadows (2019)(Ma) DTS-HD MA 5.1",
+    "set": {
+      "title": "The Knight of Shadows: Between Yin and Yang"
+    },
+    "expect": {
+      "title": "The Knight of Shadows"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "The Raid Redemption (2011)(In) DTS-HD MA 5.1",
+    "set": {
+      "title": "The Raid"
+    },
+    "expect": {
+      "title": "The Raid: Redemption"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Wyrmwood (2014) DTS-HD MA 7.1",
+    "set": {
+      "title": "Wyrmwood: Road of the Dead"
+    },
+    "expect": {
+      "title": "Wyrmwood"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Imaginarium of Doctor Parnassus (2009) DTS-HD MA 5.1",
+    "set": {
+      "title": "The Imaginarium of Doctor Parnassus"
+    },
+    "expect": {
+      "title": "Imaginarium of Doctor Parnassus"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "aron7awol",
+    "underlying": "Journey to China The Mystery of Iron Mask (2019) (+6.0 gain) BEQ DTS-HD MA 5.1",
+    "set": {
+      "title": "Iron Mask"
+    },
+    "expect": {
+      "title": "The Iron Mask"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Raid 2 (2014)(In) DTS-HD MA 5.1",
+    "set": {
+      "title": "The Raid 2"
+    },
+    "expect": {
+      "title": "Raid 2"
+    },
+    "reason": "TMDb title"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Silent Hill Revelation (2012) DTS-HD MA 5.1",
+    "set": {
+      "title": "Silent Hill: Revelation"
+    },
+    "expect": {
+      "title": "Silent Hill Revelation"
+    },
+    "reason": "Punctuation"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "tick, tick...BOOM! (2021) DD+ 5.1",
+    "set": {
+      "title": "tick, tick... BOOM!"
+    },
+    "expect": {
+      "title": "tick, tick...BOOM!"
+    },
+    "reason": "Punctuation"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Woochi The Demon Slayer (2009)(EC)(Ko) DTS-HD MA 5.1",
+    "set": {
+      "title": "Woochi: The Demon Slayer"
+    },
+    "expect": {
+      "title": "Woochi : The Demon Slayer"
+    },
+    "reason": "Punctuation"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Alone and Distracted (2014) DTS-HD MA 5.1",
+    "set": {
+      "title": "Edge of Tomorrow"
+    },
+    "expect": {
+      "title": "Alone and Distracted"
+    },
+    "reason": "Mislabelled: image and overview are Edge of Tomorrow (2014)(40s)"
+  },
+  {
+    "author": "mobe1969",
+    "underlying": "Operation Desert (2008) DTS-HD MA 5.1",
+    "set": {
+      "title": "The Objective"
+    },
+    "expect": {
+      "title": "Operation Desert"
+    },
+    "reason": "German release title of The Objective (2008)"
+  }
+]

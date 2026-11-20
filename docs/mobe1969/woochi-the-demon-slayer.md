@@ -1,5 +1,7 @@
 # Woochi: The Demon Slayer
 
+[Compare across authors](../compare/index.md?t=film-woochi-the-demon-slayer_40171)
+
 ## DTS-HD MA 5.1
 
 US, UK Blu Ray

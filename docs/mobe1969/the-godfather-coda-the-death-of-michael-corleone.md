@@ -1,6 +1,6 @@
-# The Godfather Coda: The Death of Michael Corleone
+# The Godfather: Part III
 
-[Compare across authors](../compare/index.md?t=film-the-godfather-coda-the-death-of-michael-corleone_242)
+[Compare across authors](../compare/index.md?t=film-the-godfather-part-iii_242)
 
 ## TrueHD 5.1
 

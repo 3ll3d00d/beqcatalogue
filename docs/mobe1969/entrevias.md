@@ -1,8 +1,8 @@
-# Entrevías
+# Wrong Side of the Tracks
 
 * Author: mobe1969
 
-[Compare across authors](../compare/index.md?t=TV-entrevias_128015)
+[Compare across authors](../compare/index.md?t=TV-wrong-side-of-the-tracks_128015)
 
 ## Season 1
 

@@ -1,8 +1,8 @@
-# Anne Rice's Mayfair Witches
+# Mayfair Witches
 
 * Author: mobe1969
 
-[Compare across authors](../compare/index.md?t=TV-anne-rices-mayfair-witches_207863)
+[Compare across authors](../compare/index.md?t=TV-mayfair-witches_207863)
 
 ## Season 1
 

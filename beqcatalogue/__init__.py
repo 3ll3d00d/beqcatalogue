@@ -17,6 +17,7 @@ from markdown.extensions.toc import slugify
 
 from iir import xml_to_filt
 from keys import compute_compare_key
+from patches import apply_entry_patches, load_patches
 
 TWO_WEEKS_AGO = time.time() - (2 * 7 * 24 * 60 * 60)
 
@@ -1005,6 +1006,10 @@ if __name__ == '__main__':
                 for i in sorted(index_entries, key=str.casefold):
                     print(i, file=index_md)
                 print('', file=index_md)
+
+    # corrections for entries that can't be fixed at source (see meta/entry_patches.json); a no-op for
+    # frozen entries already patched in place, a re-fix for anything regenerated from source
+    print(apply_entry_patches(json_catalogue, load_patches()).summary())
 
     for entry in json_catalogue:
         finalise_catalogue_entry(entry)

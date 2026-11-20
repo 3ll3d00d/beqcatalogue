@@ -1,6 +1,6 @@
-# The Raid: Redemption
+# The Raid
 
-[Compare across authors](../compare/index.md?t=film-the-raid-redemption_94329)
+[Compare across authors](../compare/index.md?t=film-the-raid_94329)
 
 ## DTS-HD MA 5.1
 

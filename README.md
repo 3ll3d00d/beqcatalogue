@@ -58,3 +58,15 @@ parallel (time-budgeted, with a cached optimiser result store), and `device-publ
 * **Bootstrap locally** from the optimiser cache (needs `poetry install --with optimiser`):
 
       poetry run python beqcatalogue/devices.py bootstrap --cache-dir ~/.cache/beqoptimiser --workers 12
+
+## Metadata patches for frozen authors
+
+aron7awol and mobe1969 no longer publish, so their entries are carried forward from the previous
+`docs/database.json` and their pages are never regenerated. Data fixes for them (titles, TMDb ids,
+content type, season) live in `meta/entry_patches.json`, keyed by author + `underlying` source file.
+
+* The build re-applies every patch to `database.json` on each run (a no-op once applied).
+* `poetry run python scripts/apply_entry_patches.py [--dry-run]` applies them in place to the frozen
+  pages, author index tables, `database.csv` and `docs/compare`. Re-run it after editing the patch
+  file or regenerating any frozen content.
+* `digest` is left unchanged so ezbeq and the device catalogues keep their identity for each entry.

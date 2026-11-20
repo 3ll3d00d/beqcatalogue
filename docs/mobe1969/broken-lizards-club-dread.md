@@ -1,6 +1,6 @@
-# Broken Lizard's Club Dread
+# Club Dread
 
-[Compare across authors](../compare/index.md?t=film-broken-lizards-club-dread_11217)
+[Compare across authors](../compare/index.md?t=film-club-dread_11217)
 
 ## DD 2.0
 

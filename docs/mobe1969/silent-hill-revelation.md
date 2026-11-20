@@ -1,4 +1,4 @@
-# Silent Hill Revelation
+# Silent Hill: Revelation
 
 [Compare across authors](../compare/index.md?t=film-silent-hill-revelation_61012)
 

@@ -1,6 +1,6 @@
-# Meg 2 The.Trench
+# Meg 2: The Trench
 
-[Compare across authors](../compare/index.md?t=film-meg-2-thetrench_2023)
+[Compare across authors](../compare/index.md?t=film-meg-2-the-trench_615656)
 
 ## DD+ Atmos
 

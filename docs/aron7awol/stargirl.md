@@ -1,8 +1,8 @@
-# Stargirl
+# DC's Stargirl
 
 * Author: aron7awol
 
-[Compare across authors](../compare/index.md?t=TV-stargirl_80986)
+[Compare across authors](../compare/index.md?t=TV-dcs-stargirl_80986)
 
 ## Season 1
 

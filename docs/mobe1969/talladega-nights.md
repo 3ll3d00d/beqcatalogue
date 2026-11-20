@@ -1,6 +1,6 @@
-# Talladega Nights
+# Talladega Nights: The Ballad of Ricky Bobby
 
-[Compare across authors](../compare/index.md?t=film-talladega-nights_9718)
+[Compare across authors](../compare/index.md?t=film-talladega-nights-the-ballad-of-ricky-bobby_9718)
 
 ## DTS-HD MA 5.1
 
