@@ -16,6 +16,25 @@ When a group of friends recklessly violates the sacred rule of Tarot readings th
 
 ![img 1](https://raw.githubusercontent.com/remixmark/images/main/Tarot%20(%2B2.5%20gain)%20DD%2B%20Peak%20Spectrum.jpg)
 
+## DD+ Atmos
+
+**2024 • PG-13 • 1h 32m • Horror • remixmark**
+
+When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.
+{ data-search-exclude }
+
+**MV Adjustment:** +4.0 dB
+
+Dialnorm Compensation: 3dB AI Created
+{ data-search-exclude }
+
+[Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1807#post-65032839)  [TMDB](https://www.themoviedb.org/movie/719221)  [Compare across authors](../compare/index.md?t=film-tarot_719221)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Tarot%20%282024%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos.jpg)
+
+![img 3](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Tarot%20%282024%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
+
 ## DTS-HD MA 5.1
 
 **2024 • PG-13 • 1h 32m • Horror • remixmark**
@@ -28,7 +47,7 @@ When a group of friends recklessly violate the sacred rule of Tarot readings, th
 [Discuss](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1480?post_id=63422433#post-63422433)  [TMDB](https://www.themoviedb.org/movie/719221)  [Compare across authors](../compare/index.md?t=film-tarot_719221)
 { data-search-exclude }
 
-![img 2](https://raw.githubusercontent.com/remixmark/images/main/Tarot%20(2024)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)
+![img 4](https://raw.githubusercontent.com/remixmark/images/main/Tarot%20(2024)%20(%2B3%20gain)%20DTS-HD%20MA%205.1.jpg)
 
-![img 3](https://raw.githubusercontent.com/remixmark/images/main/Tarot%20(2024)%20(%2B3%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
+![img 5](https://raw.githubusercontent.com/remixmark/images/main/Tarot%20(2024)%20(%2B3%20gain)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg)
 

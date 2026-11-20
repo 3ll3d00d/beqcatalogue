@@ -1936419,6 +1936419,188 @@
 "title": "Tarot",
 "year": "2024",
 "audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/tarot/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 17.33,
+"gain": 6.24,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002049482763664",
+"-1.999051300029173",
+"0.998848193409318"
+],
+"a": [
+"1.9990517719274195",
+"-0.9990526697874372"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.33,
+"gain": 6.24,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002049482763664",
+"-1.999051300029173",
+"0.998848193409318"
+],
+"a": [
+"1.9990517719274195",
+"-0.9990526697874372"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.33,
+"gain": 6.24,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002049482763664",
+"-1.999051300029173",
+"0.998848193409318"
+],
+"a": [
+"1.9990517719274195",
+"-0.9990526697874372"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.33,
+"gain": 6.24,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002049482763664",
+"-1.999051300029173",
+"0.998848193409318"
+],
+"a": [
+"1.9990517719274195",
+"-0.9990526697874372"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.51,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002528286776782",
+"-1.9973299972061611",
+"0.9970840132900198"
+],
+"a": [
+"1.9973299972061611",
+"-0.997336841967698"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 10.74,
+"gain": -0.27,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999978150131968",
+"-1.9998567277329737",
+"0.9998594067969736"
+],
+"a": [
+"1.9998567277329737",
+"-0.9998572218101707"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 0.97,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000182813614749",
+"-1.999363295280301",
+"0.9993454667424443"
+],
+"a": [
+"1.9993633192042108",
+"-0.999363724180009"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Tarot%20%282024%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Tarot%20%282024%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1807#post-65032839",
+"sortTitle": "tarot",
+"edition": "",
+"note": "Dialnorm Compensation: 3dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.",
+"theMovieDB": "719221",
+"rating": "PG-13",
+"runtime": "92",
+"genres": [
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Tarot (2024) (+4.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "cbb86e6b58004903938729dd06c7b275e4998417d7a9b34898b9cef4a97457eb",
+"created_at": 1795151044,
+"updated_at": 1795151044,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Tarot",
+"year": "2024",
+"audioTypes": [
 "DTS-HD MA 5.1"
 ],
 "content_type": "film",
