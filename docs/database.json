@@ -2250485,6 +2250485,170 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Highwaymen",
+"year": "2019",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-highwaymen/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001387401634028",
+"-1.9992549285483514",
+"0.9991167760847515"
+],
+"a": [
+"1.9992550663979114",
+"-0.9992553783985948"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.6,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004170771906091",
+"-1.9981945450451095",
+"0.9977813790153784"
+],
+"a": [
+"1.9981955859318556",
+"-0.9981974153192414"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.6,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004170771906091",
+"-1.9981945450451095",
+"0.9977813790153784"
+],
+"a": [
+"1.9981955859318556",
+"-0.9981974153192414"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.6,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004170771906091",
+"-1.9981945450451095",
+"0.9977813790153784"
+],
+"a": [
+"1.9981955859318556",
+"-0.9981974153192414"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -4.5,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9997507803638148",
+"-1.9987628865444502",
+"0.9990164899661991"
+],
+"a": [
+"1.9987628865444502",
+"-0.998767270330014"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Highwaymen/The%20Highwaymen%20(2019)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Highwaymen/The%20Highwaymen%20(2019)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "highwaymen",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "In 1934, Frank Hamer and Manny Gault, two former Texas Rangers, are commissioned to put an end to the wave of vicious crimes perpetrated by Bonnie Parker and Clyde Barrow, a notorious duo of infamous robbers and cold-blooded killers who nevertheless are worshiped by the public.",
+"theMovieDB": "500682",
+"rating": "R",
+"runtime": "133",
+"genres": [
+"Crime",
+"Drama",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Highwaymen (2019) (Netflix) BEQ DD+ Atmos",
+"digest": "c671250c8686d6c6b027b9646cf7aa90ea369725162d9ff451df13810e86f078",
+"created_at": 1795134560,
+"updated_at": 1795134560,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Hobbit: An Unexpected Journey",
 "year": "2012",
 "audioTypes": [
@@ -2269888,6 +2270052,150 @@
 ],
 "audioChannelCounts": [
 ""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Silencing",
+"year": "2020",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-silencing/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002156685939154",
+"-1.9993164749644814",
+"0.9991015048746131"
+],
+"a": [
+"1.999316692954531",
+"-0.9993169554784787"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002156685939154",
+"-1.9993164749644814",
+"0.9991015048746131"
+],
+"a": [
+"1.999316692954531",
+"-0.9993169554784787"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002156685939154",
+"-1.9993164749644814",
+"0.9991015048746131"
+],
+"a": [
+"1.999316692954531",
+"-0.9993169554784787"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 12.0,
+"gain": 8.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001872816445136",
+"-1.9997516375746287",
+"0.9995649727039473"
+],
+"a": [
+"1.9997516375746287",
+"-0.9997522543484609"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": -4.0,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9998825526771694",
+"-1.9993622651319982",
+"0.999480950044947"
+],
+"a": [
+"1.9993622651319982",
+"-0.9993635027221164"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Silencing/The%20Silencing%20(2020)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Silencing/The%20Silencing%20(2020)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "silencing",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
+"theMovieDB": "603119",
+"rating": "R",
+"runtime": "93",
+"genres": [
+"Thriller",
+"Action",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Silencing (2020) BEQ DTS-HD MA 5.1",
+"digest": "c9782c561178dd67acb6b6d1f292c6839fce193b7d03dbb37e55a3ed5596c36b",
+"created_at": 1795134560,
+"updated_at": 1795134560,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
 ],
 "filterAuthor": "human"
 },
