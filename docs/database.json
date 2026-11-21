@@ -1977965,6 +1977965,190 @@
 "filters": [
 {
 "type": "LowShelf",
+"freq": 11.87,
+"gain": 12.0,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.000248976857992",
+"-1.9994993756320487",
+"0.9992516027287951"
+],
+"a": [
+"1.9994998263995392",
+"-0.9995001288192963"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.56,
+"gain": 11.42,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0006494620208175",
+"-1.998600815234117",
+"0.9979601107790748"
+],
+"a": [
+"1.9986040181629743",
+"-0.9986063698710355"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.56,
+"gain": 11.42,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0006494620208175",
+"-1.998600815234117",
+"0.9979601107790748"
+],
+"a": [
+"1.9986040181629743",
+"-0.9986063698710355"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.56,
+"gain": 11.42,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0006494620208175",
+"-1.998600815234117",
+"0.9979601107790748"
+],
+"a": [
+"1.9986040181629743",
+"-0.9986063698710355"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.09,
+"gain": -5.29,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9998171535125037",
+"-1.998607219046309",
+"0.9987913396964361"
+],
+"a": [
+"1.9986066847555444",
+"-0.9986090274997041"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 17.58,
+"gain": -0.34,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999996246848997",
+"-1.9998031370918117",
+"0.999808214012713"
+],
+"a": [
+"1.9998031370918117",
+"-0.9998044608617103"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 67.46,
+"gain": 3.32,
+"q": 1.01,
+"biquads": {
+"96000": {
+"b": [
+"1.0008390408167207",
+"-1.9963760097437415",
+"0.9955564281645214"
+],
+"a": [
+"1.9963760097437415",
+"-0.9963954689812421"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Universal%20Soldier%20%281992%29%20%28%2B1.5%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Universal%20Soldier%20%281992%29%20%28%2B1.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "1.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1809#post-65036065",
+"sortTitle": "universal soldier",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "An American soldier who had been killed during the Vietnam War is revived 25 years later by the military as a semi-android, UniSols, a high-tech soldier of the future. After the failure of the initiative to erase all the soldier's memories, he begins to experience flashbacks that are forcing him to recall his past.",
+"theMovieDB": "9349",
+"rating": "R",
+"runtime": "102",
+"genres": [
+"Thriller",
+"Action",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Universal Soldier (1992) (+1.5 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "b3f7d613b00dc84497878156c35c4b15ef13639196f54e0c2ba7e3b72407b2ae",
+"created_at": 1795272504,
+"updated_at": 1795272504,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "Universal Soldier",
+"year": "1992",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/universal-soldier/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
 "freq": 12.25,
 "gain": 12.0,
 "q": 0.5,
