@@ -2070009,6 +2070009,152 @@
 "filterAuthor": "human"
 },
 {
+"title": "Jaws 3-D",
+"year": "1983",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/jaws-3-d/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": -3.3,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998489342471037",
+"-1.9990405540374032",
+"0.9991952206444193"
+],
+"a": [
+"1.9990405540374032",
+"-0.999044154891523"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jaws/Jaws%203%20(1983)%204K%20HDR%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/J/Jaws/Jaws%203%20(1983)%204K%20HDR%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "jaws 3-d",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A giant thirty-five-foot shark becomes trapped in a SeaWorld theme park and it's up to the sons of police chief Brody to rescue everyone.",
+"theMovieDB": "17692",
+"rating": "PG",
+"runtime": "98",
+"genres": [
+"Thriller",
+"Horror"
+],
+"altTitle": "",
+"collection": {
+"id": "2366",
+"name": "Jaws Collection"
+},
+"underlying": "Jaws 3-D (1983) BEQ DD+ Atmos",
+"digest": "f38f50250544c3eda4b6f567b32dedce0d444b0e64fb18d0a76592f8060a3ae8",
+"created_at": 1795232577,
+"updated_at": 1795232577,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "A Beautiful Mind",
 "year": "2001",
 "audioTypes": [
@@ -2070795,6 +2070941,190 @@
 "digest": "490850f3c7473e5916b1ad5533db2234297ec64edcff8f2127352ffafdf6b8a0",
 "created_at": 1794200214,
 "updated_at": 1794200214,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "A Knight to Remember",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/a-knight-to-remember/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9997453625689671",
+"-1.9988364588906473",
+"0.9990913370707373"
+],
+"a": [
+"1.9988361986074932",
+"-0.9988369599228577"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004314078038012",
+"-1.9986324560703128",
+"0.9982038413288543"
+],
+"a": [
+"1.9986333277328339",
+"-0.9986343774701348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": -7.3,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.999665505194333",
+"-1.9988203037171297",
+"0.9991576925875714"
+],
+"a": [
+"1.9988203037171297",
+"-0.9988231977819043"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 70.0,
+"gain": 0.4,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001052659946423",
+"-1.9955118708920727",
+"0.9954275480216642"
+],
+"a": [
+"1.9955118708920727",
+"-0.9955328140163067"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20Knight%20to%20Remember/A%20Knight%20to%20Remember%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/A%20Knight%20to%20Remember/A%20Knight%20to%20Remember%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "a knight to remember",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A statue of an English knight arrives in Chicago for an art exhibit. While cleaning the statue, museum conservator Emily impulsively kisses the statue, bringing him to life.",
+"theMovieDB": "1744203",
+"rating": "",
+"runtime": "85",
+"genres": [
+"Romance",
+"TV Movie",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "A Knight to Remember (2026) BEQ DD+",
+"digest": "b71c7294ddd05ec690b5bddcd45fdf9459a13cf8b37e6ff067cbd4f36657d327",
+"created_at": 1795232577,
+"updated_at": 1795232577,
 "audioCodecs": [
 "DD+"
 ],
@@ -2116034,6 +2116364,133 @@
 "filterAuthor": "human"
 },
 {
+"title": "De Gaulle: Libert\u00e9",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/de-gaulle-liberte/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003332948299826",
+"-1.998383744822606",
+"0.9980533762464396"
+],
+"a": [
+"1.9983844746489867",
+"-0.9983859412500417"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003332948299826",
+"-1.998383744822606",
+"0.9980533762464396"
+],
+"a": [
+"1.9983844746489867",
+"-0.9983859412500417"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -1.7,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999210795306249",
+"-1.9991076581462148",
+"0.9991909631573238"
+],
+"a": [
+"1.9991076581462148",
+"-0.9991120426879486"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/De%20Gaulle%20Liberte/De%20Gaulle%20Liberte%20(2026)%20(fr)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/De%20Gaulle%20Liberte/De%20Gaulle%20Liberte%20(2026)%20(fr)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "de gaulle: libert\u00e9",
+"edition": "",
+"note": "",
+"language": "French",
+"source": "Amazon",
+"overview": "While World War II is raging, General De Gaulle seeks to convince the world that the battle for France not lost. Reality seems determined to prove him wrong. Yet, little by little, resistance fighters, rebellious students and determined soldiers rise up. Their faith, audacity and thirst for freedom defy what history seemed to have written in advance.",
+"theMovieDB": "1165369",
+"rating": "",
+"runtime": "159",
+"genres": [
+"Drama",
+"War",
+"History"
+],
+"altTitle": "La Bataille de Gaulle : J'\u00e9cris ton nom",
+"collection": {
+"id": "1165374",
+"name": "De Gaulle Collection"
+},
+"underlying": "De Gaulle- Libert\u00e9 (2026) (Amazon) BEQ DD+",
+"digest": "3eb8a2cc04dfbb007f928b0c297733b6fda8fbc30e2ad396b1964d0a609bede5",
+"created_at": 1795232577,
+"updated_at": 1795232577,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Dead Howling",
 "year": "2026",
 "audioTypes": [
@@ -2155404,6 +2155861,131 @@
 "updated_at": 1788890905,
 "audioCodecs": [
 "Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Hustlers",
+"year": "2019",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/hustlers/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 44.0,
+"gain": -1.5,
+"q": 2.8,
+"biquads": {
+"96000": {
+"b": [
+"0.9999111319270858",
+"-1.9988710891138228",
+"0.9989682457434848"
+],
+"a": [
+"1.9988710891138228",
+"-0.9988793776705706"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hustlers/Hustlers%20(2019)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hustlers/Hustlers%20(2019)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "hustlers",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.",
+"theMovieDB": "540901",
+"rating": "R",
+"runtime": "110",
+"genres": [
+"Drama",
+"Comedy",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Hustlers (2019) BEQ DD+",
+"digest": "e67daff48bb5cd75922282f1f073721dc4217c7bb1c0e7131c96f61bed1bf0a4",
+"created_at": 1795232577,
+"updated_at": 1795232577,
+"audioCodecs": [
+"DD+"
 ],
 "audioChannelCounts": [
 ""
@@ -2250268,6 +2250850,129 @@
 ],
 "audioChannelCounts": [
 "5.1"
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Good Lawyer",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-good-lawyer/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003429763140512",
+"-1.998989141855857",
+"0.9986477828041459"
+],
+"a": [
+"1.9989896635738609",
+"-0.9989902374001932"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": -1.9,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999282990750447",
+"-1.999267656065228",
+"0.9993418234903264"
+],
+"a": [
+"1.999267656065228",
+"-0.9992701225653708"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000150508617842",
+"-1.9973935745142481",
+"0.9973853686318775"
+],
+"a": [
+"1.9973935745142481",
+"-0.9974004194936615"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Good%20Lawyer/The%20Good%20Lawyer%20(2026)%20(fr)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Good%20Lawyer/The%20Good%20Lawyer%20(2026)%20(fr)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "good lawyer",
+"edition": "",
+"note": "",
+"language": "French",
+"source": "Netflix",
+"overview": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
+"theMovieDB": "1616419",
+"rating": "R",
+"runtime": "121",
+"genres": [
+"Thriller",
+"Drama"
+],
+"altTitle": "Un bon avocat",
+"collection": {},
+"underlying": "The Good Lawyer (2026) (Netflix) BEQ DD+",
+"digest": "5a2db02e13a47bc85d6c3ec45db6617562d3bf8ad55168cfaab883078947f5c8",
+"created_at": 1795232577,
+"updated_at": 1795232577,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
 ],
 "filterAuthor": "human"
 },
