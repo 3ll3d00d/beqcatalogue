@@ -1977954,6 +1977954,190 @@
 "filterAuthor": "model"
 },
 {
+"title": "Universal Soldier",
+"year": "1992",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/universal-soldier/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.25,
+"gain": 12.0,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0005648334191295",
+"-1.9988646359734004",
+"0.9983010844214338"
+],
+"a": [
+"1.998865115911745",
+"-0.9988654379022184"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.25,
+"gain": 12.0,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0005648334191295",
+"-1.9988646359734004",
+"0.9983010844214338"
+],
+"a": [
+"1.998865115911745",
+"-0.9988654379022184"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 43.8,
+"gain": 8.49,
+"q": 0.76,
+"biquads": {
+"96000": {
+"b": [
+"1.000931640459341",
+"-1.9970409244981582",
+"0.9961226615249726"
+],
+"a": [
+"1.997045096465522",
+"-0.9970501300169501"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 43.8,
+"gain": 8.49,
+"q": 0.76,
+"biquads": {
+"96000": {
+"b": [
+"1.000931640459341",
+"-1.9970409244981582",
+"0.9961226615249726"
+],
+"a": [
+"1.997045096465522",
+"-0.9970501300169501"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 14.65,
+"gain": -1.12,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999896906215736",
+"-1.999828646038476",
+"0.9998398747131255"
+],
+"a": [
+"1.999828646038476",
+"-0.999829565334699"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 50.84,
+"gain": -6.7,
+"q": 2.03,
+"biquads": {
+"96000": {
+"b": [
+"0.9993527995611128",
+"-1.997581286549116",
+"0.998239545707011"
+],
+"a": [
+"1.997581286549116",
+"-0.9975923452681239"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 0.48,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0000180792834592",
+"-1.9987093678557104",
+"0.9986917286576926"
+],
+"a": [
+"1.9987093796858315",
+"-0.9987097961110306"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Universal%20Soldier%20%281992%29%20%28%2B3.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Universal%20Soldier%20%281992%29%20%28%2B3.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "3.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1808#post-65035487",
+"sortTitle": "universal soldier",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "German",
+"source": "Disc",
+"overview": "An American soldier who had been killed during the Vietnam War is revived 25 years later by the military as a semi-android, UniSols, a high-tech soldier of the future. After the failure of the initiative to erase all the soldier's memories, he begins to experience flashbacks that are forcing him to recall his past.",
+"theMovieDB": "9349",
+"rating": "R",
+"runtime": "102",
+"genres": [
+"Thriller",
+"Action",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Universal Soldier (1992) (+3.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "9aed2677f87cb998137330262a4990f71556493f506414f339750c23469aedf4",
+"created_at": 1795230992,
+"updated_at": 1795230992,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Until Dawn",
 "year": "2025",
 "audioTypes": [
