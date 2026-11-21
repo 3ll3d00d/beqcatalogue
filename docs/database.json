@@ -1938382,6 +1938382,191 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Addams Family 2",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-addams-family-2/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.38,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000448851827224",
+"-1.9993885892516954",
+"0.9993441951855218"
+],
+"a": [
+"1.9993886481055612",
+"-0.999389021514378"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.38,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000448851827224",
+"-1.9993885892516954",
+"0.9993441951855218"
+],
+"a": [
+"1.9993886481055612",
+"-0.999389021514378"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.38,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000448851827224",
+"-1.9993885892516954",
+"0.9993441951855218"
+],
+"a": [
+"1.9993886481055612",
+"-0.999389021514378"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 2.38,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000448851827224",
+"-1.9993885892516954",
+"0.9993441951855218"
+],
+"a": [
+"1.9993886481055612",
+"-0.999389021514378"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 4.66,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002035774747657",
+"-1.99867608159328",
+"0.9984775422909332"
+],
+"a": [
+"1.9986771275428532",
+"-0.9986800738161261"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 5.19,
+"q": 1.26,
+"biquads": {
+"96000": {
+"b": [
+"1.0004722508839765",
+"-1.9988409443493556",
+"0.9983725465515261"
+],
+"a": [
+"1.9988409443493556",
+"-0.9988447974355025"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 58.0,
+"gain": -0.36,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999607016522123",
+"-1.9980496943443786",
+"0.9981033890341685"
+],
+"a": [
+"1.9980496943443786",
+"-0.9980640906863808"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Addams%20Family%202%20%282021%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Addams%20Family%202%20%282021%29%20%28%2B4.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1809#post-65036643",
+"sortTitle": "the addams family 2",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.",
+"theMovieDB": "639721",
+"rating": "PG",
+"runtime": "93",
+"genres": [
+"Animation",
+"Family",
+"Comedy",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Addams Family 2 (2021) (+4.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "6255e2973bfe33e39e332afb83747a5fb5da53cd53f5659a5ae218e91ad34243",
+"created_at": 1795288675,
+"updated_at": 1795288675,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Amateur",
 "year": "2025",
 "audioTypes": [
