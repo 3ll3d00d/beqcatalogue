@@ -2326583,6 +2326583,129 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Legend of Vox Machina",
+"year": "2022",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-legend-of-vox-machina/#season-04",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004106823840329",
+"-1.9981893599685532",
+"0.9977825662855115"
+],
+"a": [
+"1.9981903843471638",
+"-0.9981922242909338"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004106823840329",
+"-1.9981893599685532",
+"0.9977825662855115"
+],
+"a": [
+"1.9981903843471638",
+"-0.9981922242909338"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -1.7,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.999908754559598",
+"-1.998967509481505",
+"0.9990646162700761"
+],
+"a": [
+"1.998967509481505",
+"-0.9989733708296741"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Legend%20of%20Vox%20Machina/Legend%20of%20Vox%20Machina%20S04E01-12%20(2022)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Legend%20of%20Vox%20Machina/Legend%20of%20Vox%20Machina%20S04E01-12%20(2022)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "04",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "legend of vox machina",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Amazon",
+"overview": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
+"theMovieDB": "135934",
+"rating": "TV-MA",
+"genres": [
+"Animation",
+"Sci-Fi & Fantasy",
+"Action & Adventure"
+],
+"underlying": "The Legend of Vox Machina (2022) (Season 04) (Amazon) BEQ DD+",
+"digest": "a4e1c25b2c73771304e1369dd147765b5643f151880591dfed010a6363242b5a",
+"created_at": 1795266926,
+"updated_at": 1795266926,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "M.I.A.",
 "year": "2026",
 "audioTypes": [
