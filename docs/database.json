@@ -1867271,6 +1867271,188 @@
 "filterAuthor": "model"
 },
 {
+"title": "Fall 2: Deadpoint",
+"year": "2026",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/fall-2-deadpoint/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.96,
+"gain": 3.13,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001238462296564",
+"-1.9987452282880207",
+"0.9986236341064144"
+],
+"a": [
+"1.9987455689902396",
+"-0.9987471396338518"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.96,
+"gain": 3.13,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001238462296564",
+"-1.9987452282880207",
+"0.9986236341064144"
+],
+"a": [
+"1.9987455689902396",
+"-0.9987471396338518"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.96,
+"gain": 3.13,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001238462296564",
+"-1.9987452282880207",
+"0.9986236341064144"
+],
+"a": [
+"1.9987455689902396",
+"-0.9987471396338518"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.96,
+"gain": 3.13,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001238462296564",
+"-1.9987452282880207",
+"0.9986236341064144"
+],
+"a": [
+"1.9987455689902396",
+"-0.9987471396338518"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.96,
+"gain": 2.89,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000163212301684",
+"-1.9981963817667774",
+"0.9980353900039507"
+],
+"a": [
+"1.9981966960081372",
+"-0.9981982880642747"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 0.58,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000097001736941",
+"-1.9971837456579118",
+"0.9970935881813102"
+],
+"a": [
+"1.9971837456579118",
+"-0.9971905899182513"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 17.58,
+"gain": -0.01,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999998896200439",
+"-1.9998068162029985",
+"0.9998082503552884"
+],
+"a": [
+"1.9998068162029985",
+"-0.9998081399753322"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Fall%202%20-%20Deadpoint%20%282026%29%20%28%2B5.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Fall%202%20-%20Deadpoint%20%282026%29%20%28%2B5.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1809#post-65039249",
+"sortTitle": "fall 2: deadpoint",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+"theMovieDB": "1101412",
+"rating": "PG-13",
+"runtime": "98",
+"genres": [
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Fall 2 - Deadpoint (2026) (+5.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "519bf6f1c9482419163599ff90344ed66ef7c2a5f87c20a7f92b225322d3fbab",
+"created_at": 1795388543,
+"updated_at": 1795388543,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Family",
 "year": "2026",
 "audioTypes": [
