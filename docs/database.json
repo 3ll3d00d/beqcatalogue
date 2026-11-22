@@ -2241303,6 +2241303,190 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Call of the Wild",
+"year": "2020",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-call-of-the-wild/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 6.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000287931129167",
+"-1.9987760800446903",
+"0.9984899684050011"
+],
+"a": [
+"1.9987765691407275",
+"-0.9987774104381311"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 6.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000287931129167",
+"-1.9987760800446903",
+"0.9984899684050011"
+],
+"a": [
+"1.9987765691407275",
+"-0.9987774104381311"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 6.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000287931129167",
+"-1.9987760800446903",
+"0.9984899684050011"
+],
+"a": [
+"1.9987765691407275",
+"-0.9987774104381311"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 6.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000287931129167",
+"-1.9987760800446903",
+"0.9984899684050011"
+],
+"a": [
+"1.9987765691407275",
+"-0.9987774104381311"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 6.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000287931129167",
+"-1.9987760800446903",
+"0.9984899684050011"
+],
+"a": [
+"1.9987765691407275",
+"-0.9987774104381311"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": -3.3,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998701628737099",
+"-1.9991753542110569",
+"0.9993083128583223"
+],
+"a": [
+"1.9991753542110569",
+"-0.9991784757320322"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 55.0,
+"gain": 0.3,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000310566748378",
+"-1.9982195655602208",
+"0.998201455559185"
+],
+"a": [
+"1.9982195655602208",
+"-0.998232512234023"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Call%20of%20the%20Wild/The%20Call%20of%20the%20Wild%20(2020)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Call%20of%20the%20Wild/The%20Call%20of%20the%20Wild%20(2020)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "call of the wild",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disney+",
+"overview": "Buck is a big-hearted dog whose blissful domestic life is turned upside down when he is suddenly uprooted from his California home and transplanted to the exotic wilds of the Yukon during the Gold Rush of the 1890s. As the newest rookie on a mail delivery dog sled team\u2014and later its leader\u2014Buck experiences the adventure of a lifetime, ultimately finding his true place in the world and becoming his own master.",
+"theMovieDB": "481848",
+"rating": "PG",
+"runtime": "100",
+"genres": [
+"Adventure",
+"Family",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Call of the Wild (2020) (Disney+) BEQ DD+ Atmos",
+"digest": "d7d1472eb6c902f827397999c1403b83bea6b4134faee9844a89a101254850a1",
+"created_at": 1795391280,
+"updated_at": 1795391280,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Christmas Chronicles: Part Two",
 "year": "2018",
 "audioTypes": [
