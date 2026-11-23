@@ -2114364,6 +2114364,111 @@
 "filterAuthor": "human"
 },
 {
+"title": "Crypto",
+"year": "2019",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/crypto/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": -3.1,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9997866677049942",
+"-1.998571684341259",
+"0.9987918656530086"
+],
+"a": [
+"1.998571684341259",
+"-0.998578533358003"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crypto/Crypto%20(2019)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Crypto/Crypto%20(2019)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "crypto",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A young agent is tasked with investigating a tangled web of corruption and fraud in New York.",
+"theMovieDB": "567733",
+"rating": "",
+"runtime": "105",
+"genres": [
+"Thriller",
+"Crime",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Crypto (2019) BEQ DD+",
+"digest": "4be486c492534a170469f1bfc3b1164c7cbeb703909191966cc233654779af5d",
+"created_at": 1795455853,
+"updated_at": 1795455853,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Cuckoo",
 "year": "2024",
 "audioTypes": [
