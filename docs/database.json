@@ -1934041,6 +1934041,172 @@
 "filterAuthor": "human"
 },
 {
+"title": "Steps",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/steps/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 17.32,
+"gain": 7.16,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000235432900653",
+"-1.9990765512224071",
+"0.9988430579244493"
+],
+"a": [
+"1.999077095736093",
+"-0.9990779463114166"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.32,
+"gain": 7.16,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000235432900653",
+"-1.9990765512224071",
+"0.9988430579244493"
+],
+"a": [
+"1.999077095736093",
+"-0.9990779463114166"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.32,
+"gain": 7.16,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000235432900653",
+"-1.9990765512224071",
+"0.9988430579244493"
+],
+"a": [
+"1.999077095736093",
+"-0.9990779463114166"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.32,
+"gain": 7.16,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000235432900653",
+"-1.9990765512224071",
+"0.9988430579244493"
+],
+"a": [
+"1.999077095736093",
+"-0.9990779463114166"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.0,
+"gain": 1.69,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002830610599416",
+"-1.9973574131292906",
+"0.9970811969248391"
+],
+"a": [
+"1.9973574131292906",
+"-0.9973642579847806"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 27.34,
+"gain": -0.18,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999962923872393",
+"-1.99963525693256",
+"0.999642165913769"
+],
+"a": [
+"1.99963525693256",
+"-0.9996384583010081"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Steps%20%282026%29%20%28%2B2.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Steps%20%282026%29%20%28%2B2.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "2.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1809#post-65040885",
+"sortTitle": "steps",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+"theMovieDB": "1595124",
+"rating": "PG",
+"runtime": "107",
+"genres": [
+"Animation",
+"Family",
+"Comedy",
+"Adventure",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Steps (2026) (+2.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "2b6cc08d2f777074322ac0fbbd1ad2c5fac8c5ca38f232f2f2e464fad1400ed0",
+"created_at": 1795454632,
+"updated_at": 1795454632,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Stop! That! Train!",
 "year": "2026",
 "audioTypes": [
