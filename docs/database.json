@@ -1855871,6 +1855871,149 @@
 "filterAuthor": "human"
 },
 {
+"title": "Crypto",
+"year": "2019",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/crypto/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 7.26,
+"q": 0.65,
+"biquads": {
+"96000": {
+"b": [
+"1.0002543363367167",
+"-1.9990193568544365",
+"0.9987659569295958"
+],
+"a": [
+"1.999019622088007",
+"-0.9990200280327416"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 7.26,
+"q": 0.65,
+"biquads": {
+"96000": {
+"b": [
+"1.0002543363367167",
+"-1.9990193568544365",
+"0.9987659569295958"
+],
+"a": [
+"1.999019622088007",
+"-0.9990200280327416"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.39,
+"gain": 6.39,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000131647654672",
+"-1.9997557942787731",
+"0.9996261063086238"
+],
+"a": [
+"1.9997557942787731",
+"-0.9997577539632956"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 26.26,
+"gain": 4.5,
+"q": 4.4,
+"biquads": {
+"96000": {
+"b": [
+"1.0001023056022065",
+"-1.9996956174892513",
+"0.9995962654154217"
+],
+"a": [
+"1.9996956174892513",
+"-0.999698571017628"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": -0.64,
+"q": 2.7,
+"biquads": {
+"96000": {
+"b": [
+"0.9999553650523043",
+"-1.9987325700293768",
+"0.9987879074444085"
+],
+"a": [
+"1.9987325700293768",
+"-0.9987432724967127"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crypto%20%282019%29%20%28%2B6.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Crypto%20%282019%29%20%28%2B6.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "6.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1809#post-65040925",
+"sortTitle": "crypto",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A young agent is tasked with investigating a tangled web of corruption and fraud in New York.",
+"theMovieDB": "567733",
+"rating": "R",
+"runtime": "105",
+"genres": [
+"Thriller",
+"Crime",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Crypto (2019) (+6.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "407b3f282cae6e327da4a75cf4771be5c36f3c9be554875ecd0430f13149b169",
+"created_at": 1795455525,
+"updated_at": 1795455525,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Cyber City Oedo 808",
 "year": "1990",
 "audioTypes": [
