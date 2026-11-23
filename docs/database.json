@@ -2178931,6 +2178931,130 @@
 "filterAuthor": "human"
 },
 {
+"title": "Looper",
+"year": "2012",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/looper/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000177038576006",
+"-1.999286367531921",
+"0.9991099696672101"
+],
+"a": [
+"1.999286544789957",
+"-0.9992868309851797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 13.0,
+"gain": -2.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999672805296511",
+"-1.9996811044461442",
+"0.999714547743617"
+],
+"a": [
+"1.9996811044461442",
+"-0.9996818282732681"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003541280953918",
+"-1.9985723174002294",
+"0.9982207512364719"
+],
+"a": [
+"1.9985730261796337",
+"-0.9985741705524592"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": -1.3,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999491086323271",
+"-1.9992646613569236",
+"0.9993186743850166"
+],
+"a": [
+"1.9992646613569236",
+"-0.9992677830173438"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Looper/Looper%20(2012)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/Looper/Looper%20(2012)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "looper",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "In the year 2044, time travel has not yet been invented but in 30 years it will have been. When the mob wants to get rid of someone, they will send their target into the past where a looper, a hired gun, like Joe is waiting to mop up. Joe is getting rich and life is good until the day the mob decides to close the loop, sending back Joe's future self for assassination.",
+"theMovieDB": "59967",
+"rating": "R",
+"runtime": "118",
+"genres": [
+"Action",
+"Thriller",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Looper (2012) BEQ DD+ Atmos",
+"digest": "211940c66e8b8eb89f0477971f9e3981bbc6ae026de82da2d92a85cf8f561f39",
+"created_at": 1795404989,
+"updated_at": 1795404989,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Lord of Illusions",
 "year": "1995",
 "audioTypes": [
@@ -2185966,6 +2186090,112 @@
 "DD+"
 ],
 "audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Melancholia",
+"year": "2011",
+"audioTypes": [
+"DTS-HD MA 5.1",
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/melancholia/#dts-hd-ma-51-dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": -2.0,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9999142193608184",
+"-1.9991631729630805",
+"0.9992516297865695"
+],
+"a": [
+"1.9991631729630805",
+"-0.999165849147388"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Melancholia/Melancholia%20(2011)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Melancholia/Melancholia%20(2011)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "melancholia",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
+"theMovieDB": "62215",
+"rating": "",
+"runtime": "136",
+"genres": [
+"Drama",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Melancholia (2011) BEQ DTS-HD MA 5.1",
+"digest": "871bce196b43bd7f971fc459354308e7246de3c1961693fb95a4696a30ef18f9",
+"created_at": 1795404989,
+"updated_at": 1795404989,
+"audioCodecs": [
+"DTS-HD MA",
+"DD+"
+],
+"audioChannelCounts": [
+"5.1",
 ""
 ],
 "filterAuthor": "human"
