@@ -1883503,6 +1883503,229 @@
 "filterAuthor": "model"
 },
 {
+"title": "I Saw the Devil",
+"year": "2010",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/i-saw-the-devil/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 21.42,
+"gain": 4.3,
+"q": 0.67,
+"biquads": {
+"96000": {
+"b": [
+"1.0002596361082905",
+"-1.9981508269887456",
+"0.9978937059783323"
+],
+"a": [
+"1.998151318015206",
+"-0.9981528510601623"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.42,
+"gain": 4.3,
+"q": 0.67,
+"biquads": {
+"96000": {
+"b": [
+"1.0002596361082905",
+"-1.9981508269887456",
+"0.9978937059783323"
+],
+"a": [
+"1.998151318015206",
+"-0.9981528510601623"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.42,
+"gain": 4.3,
+"q": 0.67,
+"biquads": {
+"96000": {
+"b": [
+"1.0002596361082905",
+"-1.9981508269887456",
+"0.9978937059783323"
+],
+"a": [
+"1.998151318015206",
+"-0.9981528510601623"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.66,
+"gain": 6.14,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0002715571040353",
+"-1.9987183737827712",
+"0.998450830451892"
+],
+"a": [
+"1.9987193909254615",
+"-0.998721370413237"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.66,
+"gain": 6.14,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0002715571040353",
+"-1.9987183737827712",
+"0.998450830451892"
+],
+"a": [
+"1.9987193909254615",
+"-0.998721370413237"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.18,
+"gain": -4.15,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.999834717396256",
+"-1.9984446508539635",
+"0.9986117446169069"
+],
+"a": [
+"1.9984440961855285",
+"-0.9984470166815981"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 23.18,
+"gain": -4.15,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"0.999834717396256",
+"-1.9984446508539635",
+"0.9986117446169069"
+],
+"a": [
+"1.9984440961855285",
+"-0.9984470166815981"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 31.0,
+"gain": -4.4,
+"q": 3.84,
+"biquads": {
+"96000": {
+"b": [
+"0.9998647824519632",
+"-1.99931544291914",
+"0.9994547756840546"
+],
+"a": [
+"1.99931544291914",
+"-0.999319558136018"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 14.65,
+"gain": -0.04,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999999632060651",
+"-1.9998389184484509",
+"0.9998402056887448"
+],
+"a": [
+"1.9998389184484509",
+"-0.999839837749396"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/I%20Saw%20the%20Devil%20%282010%29%20%28%2B0.0%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/I%20Saw%20the%20Devil%20%282010%29%20%28%2B0.0%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "0.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1809#post-65041181",
+"sortTitle": "i saw the devil",
+"edition": "",
+"note": "AI Created",
+"language": "Korean",
+"source": "Disc",
+"overview": "Kyung-chul is a dangerous psychopath who kills for pleasure. Soo-hyeon, a top-secret agent, decides to track down the murderer himself. He promises himself that he will do everything in his power to take vengeance against the killer, even if it means that he must become a monster himself.",
+"theMovieDB": "49797",
+"rating": "",
+"runtime": "144",
+"genres": [
+"Thriller",
+"Horror"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "I Saw the Devil (2010) (+0.0 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "011770fc2627e4c64470a1dbe40646363bd596d569de0c12d91c8001cd837cdb",
+"created_at": 1795460927,
+"updated_at": 1795460927,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "I Saw the TV Glow",
 "year": "2024",
 "audioTypes": [
