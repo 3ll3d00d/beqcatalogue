@@ -2258204,6 +2258204,113 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Last Temptation of Becky",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-last-temptation-of-becky/#dd",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 19.0,
+"gain": 8.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002965077991477",
+"-1.9996062183492038",
+"0.9993112566559487"
+],
+"a": [
+"1.9996062183492038",
+"-0.9996077644550965"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 41.0,
+"gain": -1.3,
+"q": 2.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9999043515216055",
+"-1.9986166288464762",
+"0.9987194732359478"
+],
+"a": [
+"1.9986166288464762",
+"-0.9986238247575533"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Last%20Temptation%20of%20Becky/The%20Last%20Temptation%20of%20Becky%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Last%20Temptation%20of%20Becky/The%20Last%20Temptation%20of%20Becky%20(2026)%20DD%2B%205.1.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "last temptation of becky",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Now working as a field agent for the CIA, Becky is sent undercover to Poland to infiltrate a family of innkeepers running a tourist venture at The Wolf's Lair, Hitler's WWII bunker. After learning that the father, Wilhelm Reuss, is on a mission to bring about the Fourth Reich, Becky takes matters into her own hands.",
+"theMovieDB": "1642568",
+"rating": "",
+"runtime": "89",
+"genres": [
+"Action",
+"Horror",
+"Thriller"
+],
+"altTitle": "",
+"collection": {
+"id": "986072",
+"name": "Becky Collection"
+},
+"underlying": "The Last Temptation of Becky (2026) BEQ DD+",
+"digest": "81f188bacdd1617651e4eaa0680827ec325129a729a9f2460ba9623d6a3f11ae",
+"created_at": 1795396313,
+"updated_at": 1795396313,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Last Voyage of the Demeter",
 "year": "2023",
 "audioTypes": [
