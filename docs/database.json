@@ -2081711,6 +2081711,112 @@
 "filterAuthor": "human"
 },
 {
+"title": "April X",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/april-x/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003029873811276",
+"-1.9985307507915822",
+"0.9982301819794888"
+],
+"a": [
+"1.9985313539981375",
+"-0.9985325661540613"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003029873811276",
+"-1.9985307507915822",
+"0.9982301819794888"
+],
+"a": [
+"1.9985313539981375",
+"-0.9985325661540613"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": -1.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999958549388697",
+"-1.9992330201806159",
+"0.9992791339422344"
+],
+"a": [
+"1.9992330201806159",
+"-0.9992376833309313"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/April%20X/April%20X%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/April%20X/April%20X%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "april x",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "When his twin sister April (Lilly Krug) goes missing, Bax (Connor Storrie) searches every corner of their futuristic, post-Soviet cityscape to find her. Ultimately descending into a violent criminal underworld and madness, Bax is forced to confront the cost of identity, love, and survival.",
+"theMovieDB": "1403676",
+"rating": "NR",
+"runtime": "92",
+"genres": [
+"Action",
+"Thriller",
+"Science Fiction",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "April X (2026) BEQ DD+",
+"digest": "b37d129aeeef3c6bd1590cbbb7314b8c60dd2c3bcf12ed3192778ba9c58079b8",
+"created_at": 1795404465,
+"updated_at": 1795404465,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Argo",
 "year": "2012",
 "audioTypes": [
@@ -2084564,6 +2084670,153 @@
 "digest": "e4eb4005b05d07c43907a85973c36af5f648c71180e8a563c3c843e958288e1f",
 "created_at": 1744041771,
 "updated_at": 1774880261,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Avengers: Age of Ultron",
+"year": "2015",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/avengers-age-of-ultron/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000390100280004",
+"-1.998600707025892",
+"0.9982132740572619"
+],
+"a": [
+"1.9986014910853789",
+"-0.9986025902777785"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000390100280004",
+"-1.998600707025892",
+"0.9982132740572619"
+],
+"a": [
+"1.9986014910853789",
+"-0.9986025902777785"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 7.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000390100280004",
+"-1.998600707025892",
+"0.9982132740572619"
+],
+"a": [
+"1.9986014910853789",
+"-0.9986025902777785"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -2.9,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998628557903222",
+"-1.9990298543119125",
+"0.9991708519718914"
+],
+"a": [
+"1.9990298543119125",
+"-0.9990337077622136"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 75.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000056378173865",
+"-1.9951351785101563",
+"0.9951028376808199"
+],
+"a": [
+"1.9951351785101563",
+"-0.9951592158546846"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avengers/Avengers%20-%20Age%20of%20Ultron%20(2015)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/A/Avengers/Avengers%20-%20Age%20of%20Ultron%20(2015)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "avengers: age of ultron",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+"theMovieDB": "99861",
+"rating": "PG-13",
+"runtime": "141",
+"genres": [
+"Action",
+"Adventure",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {
+"id": "86311",
+"name": "The Avengers Collection"
+},
+"underlying": "Avengers- Age of Ultron (2015) BEQ Atmos",
+"digest": "5a647692c0159e5d7979b3464ecb254883d2d65c26f9f8b37ddc9b758e60eb7c",
+"created_at": 1795404465,
+"updated_at": 1795404465,
 "audioCodecs": [
 "Atmos"
 ],
@@ -2137246,6 +2137499,169 @@
 "filterAuthor": "human"
 },
 {
+"title": "Forbidden Fruits",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/forbidden-fruits/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000228631392625",
+"-1.999326224609043",
+"0.9990983121206608"
+],
+"a": [
+"1.9993264565227389",
+"-0.9993267115995896"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004876626400458",
+"-1.9982506009743144",
+"0.9977671052804489"
+],
+"a": [
+"1.998251825853313",
+"-0.998253543041496"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004876626400458",
+"-1.9982506009743144",
+"0.9977671052804489"
+],
+"a": [
+"1.998251825853313",
+"-0.998253543041496"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.7,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004876626400458",
+"-1.9982506009743144",
+"0.9977671052804489"
+],
+"a": [
+"1.998251825853313",
+"-0.998253543041496"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 34.0,
+"gain": -4.2,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9997737714587639",
+"-1.9988149487852387",
+"0.9990461263394673"
+],
+"a": [
+"1.9988149487852387",
+"-0.9988198977982311"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Forbidden%20Fruits/Forbidden%20Fruits%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/F/Forbidden%20Fruits/Forbidden%20Fruits%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "forbidden fruits",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "At a mall store, Apple leads a secret witch cult with coworkers Cherry and Fig. New hire Pumpkin questions their sisterhood, forcing them to confront inner darkness or meet violent ends.",
+"theMovieDB": "1450527",
+"rating": "R",
+"runtime": "103",
+"genres": [
+"Horror",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Forbidden Fruits (2026) BEQ DD+",
+"digest": "4ee72d5d5d78bfde2d1f6124c483573c152744464a68fec7215fa217aa5d2be2",
+"created_at": 1795404465,
+"updated_at": 1795404465,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Fountain of Youth",
 "year": "2025",
 "audioTypes": [
@@ -2139305,6 +2139721,149 @@
 "updated_at": 1744331876,
 "audioCodecs": [
 "DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Gaskins: The Hitchhiker Killer",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/gaskins-the-hitchhiker-killer/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000686127803216",
+"-1.9979771143225424",
+"0.9972974523045667"
+],
+"a": [
+"1.997979200141575",
+"-0.9979814942887503"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000686127803216",
+"-1.9979771143225424",
+"0.9972974523045667"
+],
+"a": [
+"1.997979200141575",
+"-0.9979814942887503"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000686127803216",
+"-1.9979771143225424",
+"0.9972974523045667"
+],
+"a": [
+"1.997979200141575",
+"-0.9979814942887503"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -8.0,
+"q": 1.9,
+"biquads": {
+"96000": {
+"b": [
+"0.9994254906002968",
+"-1.998085748548297",
+"0.9986655004479553"
+],
+"a": [
+"1.998085748548297",
+"-0.9980909910482523"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.4,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000135255368951",
+"-1.9942255530962036",
+"0.9941248958750425"
+],
+"a": [
+"1.9942255530962036",
+"-0.9942601512439937"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Gaskins%20-%20The%20Hitchhiker%20Killer/Gaskins%20-%20The%20Hitchhiker%20Killer%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Gaskins%20-%20The%20Hitchhiker%20Killer/Gaskins%20-%20The%20Hitchhiker%20Killer%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "gaskins: the hitchhiker killer",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "South Carolina serial killer Donald \u201cPee-Wee\u201d Gaskins carried out a reign of terror marked by extreme brutality. He stabbed, shot, drowned, and poisoned victims from his own community as well as hitchhikers, often targeting the vulnerable. Beneath the rural land near his home, bodies lay hidden in shallow graves, concealing years of violence. His history of crime masked the depth of his cruelty\u2014until authorities uncovered the truth, exposing the full horror of his murders.",
+"theMovieDB": "1748756",
+"rating": "",
+"runtime": "94",
+"genres": [
+"Horror",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Gaskins- The Hitchhiker Killer (2026) BEQ DD+",
+"digest": "d0b3c2c1218c4c2abeb4d8618ca04e08172b3fea399bd2633b97f9d50ca776f9",
+"created_at": 1795404465,
+"updated_at": 1795404465,
+"audioCodecs": [
+"DD+"
 ],
 "audioChannelCounts": [
 ""
@@ -2145224,6 +2145783,149 @@
 "updated_at": 1795022781,
 "audioCodecs": [
 "DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Guarding Stars",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/guarding-stars/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004426919299572",
+"-1.9982151358979345",
+"0.9977764462728287"
+],
+"a": [
+"1.9982162431684063",
+"-0.9982180309323144"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004426919299572",
+"-1.9982151358979345",
+"0.9977764462728287"
+],
+"a": [
+"1.9982162431684063",
+"-0.9982180309323144"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004426919299572",
+"-1.9982151358979345",
+"0.9977764462728287"
+],
+"a": [
+"1.9982162431684063",
+"-0.9982180309323144"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -3.1,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998375116780865",
+"-1.9989117661046747",
+"0.9990798030711504"
+],
+"a": [
+"1.9989117661046747",
+"-0.9989173147492372"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000025090626399",
+"-1.9978028596907451",
+"0.9978205595935006"
+],
+"a": [
+"1.9978028596907451",
+"-0.9978456502198997"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Guarding%20Stars/Guarding%20Stars%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/G/Guarding%20Stars/Guarding%20Stars%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "guarding stars",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+"theMovieDB": "1551025",
+"rating": "",
+"runtime": "109",
+"genres": [
+"Comedy",
+"Romance"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Guarding Stars (2026) BEQ DD+ Atmos",
+"digest": "1c69956a3f8aa654a07e1c3068331d9d884217c1d78bb520b5225053da1d02ff",
+"created_at": 1795404465,
+"updated_at": 1795404465,
+"audioCodecs": [
+"DD+ Atmos"
 ],
 "audioChannelCounts": [
 ""
