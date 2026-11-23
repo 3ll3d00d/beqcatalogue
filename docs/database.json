@@ -2312018,6 +2312018,167 @@
 "filterAuthor": "human"
 },
 {
+"title": "Dig",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/dig/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -8.3,
+"q": 2.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9994283629842212",
+"-1.9981363920399768",
+"0.9987138879669322"
+],
+"a": [
+"1.9981363920399768",
+"-0.9981422509511534"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001690803999397",
+"-1.9942584048214047",
+"0.994123923139205"
+],
+"a": [
+"1.9942584048214047",
+"-0.9942930035391446"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/DIG/DIG%20S01E01-10%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/DIG/DIG%20S01E01-10%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "dig",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Peacock",
+"overview": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
+"theMovieDB": "290826",
+"rating": "",
+"genres": [
+"Comedy"
+],
+"underlying": "Dig (2026) (Season 01) (Peacock) BEQ DD+ Atmos",
+"digest": "167dfa6f80cfe612418a857f97b3eeb8af865bec3a561d6927767c199a990f36",
+"created_at": 1795441948,
+"updated_at": 1795441948,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Dutton Ranch",
 "year": "2026",
 "audioTypes": [
