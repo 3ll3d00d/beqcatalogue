@@ -2172979,6 +2172979,272 @@
 "filterAuthor": "human"
 },
 {
+"title": "Knowing",
+"year": "2009",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/knowing/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003041498537468",
+"-1.9989596998348271",
+"0.9986570767526609"
+],
+"a": [
+"1.99896015931126",
+"-0.9989607671299741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -2.0,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.999918704583762",
+"-1.9992061074180607",
+"0.9992907599129423"
+],
+"a": [
+"1.9992061074180607",
+"-0.9992094644967043"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Knowing/Knowing%20(2009)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Knowing/Knowing%20(2009)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "knowing",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A teacher opens a time capsule that has been dug up at his son's elementary school; in it are some chilling predictions -- some that have already occurred and others that are about to -- that lead him to believe his family plays a role in the events that are about to unfold.",
+"theMovieDB": "13811",
+"rating": "PG-13",
+"runtime": "121",
+"genres": [
+"Science Fiction",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Knowing (2009) BEQ Atmos",
+"digest": "a6aa9e9a9fe57b63b6187b3aab04a6f90b3124fe4d2797f49ad5879ddc4badf3",
+"created_at": 1795409835,
+"updated_at": 1795409835,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Knowing",
+"year": "2009",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/knowing/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002272256809936",
+"-1.9988982012948295",
+"0.9986723363085198"
+],
+"a": [
+"1.9988985406607693",
+"-0.9988992226235734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002272256809936",
+"-1.9988982012948295",
+"0.9986723363085198"
+],
+"a": [
+"1.9988985406607693",
+"-0.9988992226235734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": -2.7,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.999889399447996",
+"-1.9991691809705336",
+"0.9992826760924469"
+],
+"a": [
+"1.9991691809705336",
+"-0.999172075540443"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Knowing/Knowing%20(2009)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/K/Knowing/Knowing%20(2009)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "knowing",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A teacher opens a time capsule that has been dug up at his son's elementary school; in it are some chilling predictions -- some that have already occurred and others that are about to -- that lead him to believe his family plays a role in the events that are about to unfold.",
+"theMovieDB": "13811",
+"rating": "PG-13",
+"runtime": "121",
+"genres": [
+"Science Fiction",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Knowing (2009) BEQ DD+",
+"digest": "7c53ac9ad6c2becbf8904ba02f9224840787bf9aa27c2a840240b24e5837ea89",
+"created_at": 1795409835,
+"updated_at": 1795409835,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Knuckle Girl",
 "year": "2023",
 "audioTypes": [
@@ -2289140,6 +2289406,169 @@
 "updated_at": 1753731770,
 "audioCodecs": [
 "DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Unbearable Christmas",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/unbearable-christmas/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002655769735582",
+"-1.9989293946365287",
+"0.9986652590064043"
+],
+"a": [
+"1.9989297933960144",
+"-0.9989304372204769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002655769735582",
+"-1.9989293946365287",
+"0.9986652590064043"
+],
+"a": [
+"1.9989297933960144",
+"-0.9989304372204769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002655769735582",
+"-1.9989293946365287",
+"0.9986652590064043"
+],
+"a": [
+"1.9989297933960144",
+"-0.9989304372204769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 7.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002655769735582",
+"-1.9989293946365287",
+"0.9986652590064043"
+],
+"a": [
+"1.9989297933960144",
+"-0.9989304372204769"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": -7.8,
+"q": 2.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9997396743079728",
+"-1.9991200537076215",
+"0.9993817667029252"
+],
+"a": [
+"1.9991200537076215",
+"-0.9991214410108981"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": 0.4,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000752381394842",
+"-1.996796417705212",
+"0.9967318716656904"
+],
+"a": [
+"1.996796417705212",
+"-0.9968071098051745"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/U/Unbearable%20Christmas/Unbearable%20Christmas%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/U/Unbearable%20Christmas/Unbearable%20Christmas%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "unbearable christmas",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Out-of-work weatherman Troy Tipton has one Christmas mission: retrieve the beloved teddy bear he pawned for holiday cash. With wife Becca, mother-in-law Dawn, and the kids in tow, Troy hits the road from Ohio to Florida in his old news van. But the family road trip gets even wilder when they discover the cherished bear is actually a priceless Teddy Roosevelt antique worth millions.",
+"theMovieDB": "1458249",
+"rating": "",
+"runtime": "0",
+"genres": [
+"Comedy",
+"Family"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Unbearable Christmas (2026) BEQ DD+",
+"digest": "1279f50c2ab1807b68d8e9d8a047d6340c9f51dd25981ee7a9674bac3e3d5d15",
+"created_at": 1795409835,
+"updated_at": 1795409835,
+"audioCodecs": [
+"DD+"
 ],
 "audioChannelCounts": [
 ""
