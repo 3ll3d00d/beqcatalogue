@@ -2,6 +2,8 @@
 
 ## DTS-HD MA 5.1
 
+UHD
+
 **2010 • 2h 24m • Korean • Thriller, Horror • remixmark**
 
 Kyung-chul is a dangerous psychopath who kills for pleasure. Soo-hyeon, a top-secret agent, decides to track down the murderer himself. He promises himself that he will do everything in his power to take vengeance against the killer, even if it means that he must become a monster himself.
