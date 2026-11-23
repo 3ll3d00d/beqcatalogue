@@ -2223335,6 +2223335,150 @@
 "filterAuthor": "human"
 },
 {
+"title": "Shattered",
+"year": "2022",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/shattered/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000305653988321",
+"-1.9992142992422137",
+"0.9989097417555192"
+],
+"a": [
+"1.9992146741208972",
+"-0.9992150208651568"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000305653988321",
+"-1.9992142992422137",
+"0.9989097417555192"
+],
+"a": [
+"1.9992146741208972",
+"-0.9992150208651568"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 12.0,
+"gain": 10.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001591541913561",
+"-1.9998521734317813",
+"0.9996936360452652"
+],
+"a": [
+"1.9998521734317813",
+"-0.9998527902366214"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": -3.9,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9998788076556646",
+"-1.9993285538783367",
+"0.999451133670639"
+],
+"a": [
+"1.9993285538783367",
+"-0.9993299413263036"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": 0.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000125521407643",
+"-1.9989115354509495",
+"0.9989096867358144"
+],
+"a": [
+"1.9989115354509495",
+"-0.9989222388765785"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Shattered/Shattered%20(2022)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Shattered/Shattered%20(2022)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "shattered",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.",
+"theMovieDB": "844398",
+"rating": "R",
+"runtime": "92",
+"genres": [
+"Thriller",
+"Horror",
+"Crime",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Shattered (2022) BEQ DTS-HD MA 5.1",
+"digest": "2bf699df06464405afafd391f0499e19c32be131987eb6ab9f0907c0b1df865e",
+"created_at": 1795410734,
+"updated_at": 1795410734,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "Shazam!",
 "year": "2019",
 "audioTypes": [
@@ -2225252,6 +2225396,191 @@
 "filterAuthor": "human"
 },
 {
+"title": "Silent Night",
+"year": "2023",
+"audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/silent-night_891699/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001514738774269",
+"-1.9992655597124975",
+"0.9991146906992364"
+],
+"a": [
+"1.9992657105694813",
+"-0.9992660137196796"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001514738774269",
+"-1.9992655597124975",
+"0.9991146906992364"
+],
+"a": [
+"1.9992657105694813",
+"-0.9992660137196796"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001514738774269",
+"-1.9992655597124975",
+"0.9991146906992364"
+],
+"a": [
+"1.9992657105694813",
+"-0.9992660137196796"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 9.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000604264759595",
+"-1.9983385615683136",
+"0.9977389188844537"
+],
+"a": [
+"1.998340098488367",
+"-0.9983416467239953"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 9.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000604264759595",
+"-1.9983385615683136",
+"0.9977389188844537"
+],
+"a": [
+"1.998340098488367",
+"-0.9983416467239953"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 32.0,
+"gain": -4.4,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9997564369430502",
+"-1.9987699579698404",
+"0.9990179048278631"
+],
+"a": [
+"1.9987699579698404",
+"-0.9987743417709134"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silent%20Night/Silent%20Night%20(2023)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Silent%20Night/Silent%20Night%20(2023)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "silent night",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
+"theMovieDB": "891699",
+"rating": "R",
+"runtime": "104",
+"genres": [
+"Action",
+"Thriller",
+"Crime",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Silent Night (2023) BEQ Atmos",
+"digest": "40d23a527630f715024c171c8a1944d604fd4afbf82d38dd597b376a1f3bd454",
+"created_at": 1795410734,
+"updated_at": 1795410734,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Silent Night, Deadly Night",
 "year": "2025",
 "audioTypes": [
@@ -2226368,6 +2226697,110 @@
 ],
 "audioChannelCounts": [
 "5.1"
+],
+"filterAuthor": "human"
+},
+{
+"title": "Sleep",
+"year": "2024",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/sleep/#dd",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": 6.6,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002164425581839",
+"-1.9996183584397058",
+"0.9994031536301599"
+],
+"a": [
+"1.9996183584397058",
+"-0.9996195961883435"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": -3.2,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9998424607767664",
+"-1.998974684842844",
+"0.9991351183543785"
+],
+"a": [
+"1.998974684842844",
+"-0.9989775791311449"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Sleep/Sleep%20(2023)%20(kor)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Sleep/Sleep%20(2023)%20(kor)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "sleep",
+"edition": "",
+"note": "",
+"language": "Korean",
+"source": "Disc",
+"overview": "A pregnant wife who becomes worried about her husband\u2019s sleeping habits. What starts out as some light sleep-talking soon escalates to unexpectedly grotesque behaviour. They consult a sleep clinic without success and as his nightmarish behaviour escalates, they desperately seek help from a shaman.",
+"theMovieDB": "964592",
+"rating": "",
+"runtime": "94",
+"genres": [
+"Horror",
+"Mystery",
+"Thriller"
+],
+"altTitle": "\uc7a0",
+"collection": {},
+"underlying": "Sleep (2024) BEQ DD+",
+"digest": "ad61f5824c8bfc520998f3fe9fe2a3d117800977d124bf1437a2865f3dbb478a",
+"created_at": 1795410734,
+"updated_at": 1795410734,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
 ],
 "filterAuthor": "human"
 },
