@@ -2249355,11 +2249355,12 @@
 "title": "The Dog Stars",
 "year": "2026",
 "audioTypes": [
+"Atmos",
 "DD+ Atmos"
 ],
 "content_type": "film",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-dog-stars/#dd-atmos",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-dog-stars/#atmos-dd-atmos",
 "filters": [
 {
 "type": "LowShelf",
@@ -2249500,8 +2249501,8 @@
 }
 ],
 "images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Dog%20Stars/The%20Dog%20Stars%20(2026)%20DD%2B%20Atmos.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Dog%20Stars/The%20Dog%20Stars%20(2026)%20DD%2B%20Atmoshm.jpg"
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Dog%20Stars/The%20Dog%20Stars%20(2026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Dog%20Stars/The%20Dog%20Stars%20(2026)%20Atmoshm.jpg"
 ],
 "warning": "",
 "mv": "0",
@@ -2249516,21 +2249517,22 @@
 "rating": "R",
 "runtime": "119",
 "genres": [
-"Drama",
-"Science Fiction",
+"Action",
 "Thriller",
-"Adventure"
+"Science Fiction"
 ],
 "altTitle": "",
 "collection": {},
-"underlying": "The Dog Stars (2026) BEQ DD+ Atmos",
+"underlying": "The Dog Stars (2026) BEQ Atmos",
 "digest": "28dc958841a8ba3c32f3598683234c33853fcc9d8f03c434e1beeec867a829ee",
-"created_at": 1793131260,
-"updated_at": 1793131957,
+"created_at": 1795531651,
+"updated_at": 1795531651,
 "audioCodecs": [
+"Atmos",
 "DD+ Atmos"
 ],
 "audioChannelCounts": [
+"",
 ""
 ],
 "filterAuthor": "human"
