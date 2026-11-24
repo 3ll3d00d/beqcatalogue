@@ -1988156,6 +1988156,130 @@
 "filterAuthor": "human"
 },
 {
+"title": "You Can See Everything",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/you-can-see-everything/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 13.8,
+"gain": 5.79,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001512975346165",
+"-1.999234869014914",
+"0.9990847095253321"
+],
+"a": [
+"1.9992351458715807",
+"-0.9992357302032818"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.48,
+"gain": 16.03,
+"q": 0.82,
+"biquads": {
+"96000": {
+"b": [
+"1.000781788511515",
+"-1.9989674104609512",
+"0.998190140545444"
+],
+"a": [
+"1.998969312918965",
+"-0.9989700265989448"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.03,
+"gain": 3.28,
+"q": 1.39,
+"biquads": {
+"96000": {
+"b": [
+"1.000111624213021",
+"-1.9989254500526485",
+"0.9988170655494889"
+],
+"a": [
+"1.9989259595160955",
+"-0.9989281802990626"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 48.58,
+"gain": 1.77,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0003236404590161",
+"-1.9939648245808022",
+"0.9936523443155703"
+],
+"a": [
+"1.9939658533119125",
+"-0.9939749560434759"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/You%20Can%20See%20Everything%20%282026%29%20%28%2B7.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/You%20Can%20See%20Everything%20%282026%29%20%28%2B7.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "7.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65043237",
+"sortTitle": "you can see everything",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+"theMovieDB": "1765072",
+"rating": "R",
+"runtime": "175",
+"genres": [
+"Documentary"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "You Can See Everything (2026) (+7.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "15eb40aea273d0f2bcf9d99f41b687e3235ff2c39f7c3bbe84bca0c380d9f9b1",
+"created_at": 1795531172,
+"updated_at": 1795531172,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Young Washington",
 "year": "2026",
 "audioTypes": [
