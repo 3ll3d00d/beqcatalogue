@@ -1946832,6 +1946832,170 @@
 "title": "The Dog Stars",
 "year": "2026",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-dog-stars/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.16,
+"gain": 8.69,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0002281473956212",
+"-1.999296727634906",
+"0.9990702032193304"
+],
+"a": [
+"1.9992972407356708",
+"-0.9992978375141867"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.16,
+"gain": 8.69,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.0002281473956212",
+"-1.999296727634906",
+"0.9990702032193304"
+],
+"a": [
+"1.9992972407356708",
+"-0.9992978375141867"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 37.95,
+"gain": 3.55,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.00023151842521",
+"-1.9979570880980448",
+"0.9977331301335306"
+],
+"a": [
+"1.9979583563363215",
+"-0.9979633803204639"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 37.95,
+"gain": 3.55,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.00023151842521",
+"-1.9979570880980448",
+"0.9977331301335306"
+],
+"a": [
+"1.9979583563363215",
+"-0.9979633803204639"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 15.62,
+"gain": -0.35,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999965671588185",
+"-1.9998251145890251",
+"0.999829592490967"
+],
+"a": [
+"1.9998251145890251",
+"-0.9998261596497855"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 68.08,
+"gain": 1.42,
+"q": 1.34,
+"biquads": {
+"96000": {
+"b": [
+"1.0002716968723409",
+"-1.9969206294675002",
+"0.9966687565712601"
+],
+"a": [
+"1.9969206294675002",
+"-0.9969404534436007"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Dog%20Stars%20%282026%29%20%28%2B3.0%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Dog%20Stars%20%282026%29%20%28%2B3.0%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "3.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65043359",
+"sortTitle": "the dog stars",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+"theMovieDB": "1384216",
+"rating": "R",
+"runtime": "119",
+"genres": [
+"Action",
+"Thriller",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Dog Stars (2026) (+3.0 gain) BEQ Atmos remixmark",
+"digest": "a0fa676dc9f06f97dd8cb1b4313d0c448bcaeafe104e57da9ea6bb246507b31f",
+"created_at": 1795534452,
+"updated_at": 1795534452,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "The Dog Stars",
+"year": "2026",
+"audioTypes": [
 "DD+ 5.1"
 ],
 "content_type": "film",
@@ -2068568,6 +2068732,209 @@
 ],
 "audioChannelCounts": [
 ""
+],
+"filterAuthor": "human"
+},
+{
+"title": "24 Hour Party People",
+"year": "2002",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/24-hour-party-people/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9997453625689671",
+"-1.9988364588906473",
+"0.9990913370707373"
+],
+"a": [
+"1.9988361986074932",
+"-0.9988369599228577"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": 5.4,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001116264467331",
+"-1.9997379097028893",
+"0.9996294056555082"
+],
+"a": [
+"1.9997379097028893",
+"-0.9997410321022413"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000709905669284",
+"-1.9975709961129842",
+"0.9968693971120273"
+],
+"a": [
+"1.9975734959750353",
+"-0.9975768029192598"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000709905669284",
+"-1.9975709961129842",
+"0.9968693971120273"
+],
+"a": [
+"1.9975734959750353",
+"-0.9975768029192598"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000709905669284",
+"-1.9975709961129842",
+"0.9968693971120273"
+],
+"a": [
+"1.9975734959750353",
+"-0.9975768029192598"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000709905669284",
+"-1.9975709961129842",
+"0.9968693971120273"
+],
+"a": [
+"1.9975734959750353",
+"-0.9975768029192598"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 49.0,
+"gain": -5.3,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9995487676012444",
+"-1.9980138838822714",
+"0.9984753912329374"
+],
+"a": [
+"1.9980138838822714",
+"-0.9980241588341818"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.3,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001126702952992",
+"-1.9935450440575888",
+"0.9934750730941654"
+],
+"a": [
+"1.9935450440575888",
+"-0.9935877433894644"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/24%20Hour%20Party%20People/24%20Hour%20Party%20People%20(2002)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/24%20Hour%20Party%20People/24%20Hour%20Party%20People%20(2002)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "24 hour party people",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Manchester, 1976. Tony Wilson is an ambitious but frustrated local TV news reporter looking for a way to make his mark. After witnessing a life-changing concert by a band known as the Sex Pistols, he persuades his station to televise one of their performances, and soon Manchester's punk groups are clamoring for him to manage them. Riding the wave of a musical revolution, Wilson and his friends create the legendary Factory Records label and The Hacienda club.",
+"theMovieDB": "2750",
+"rating": "",
+"runtime": "117",
+"genres": [
+"Comedy",
+"Drama",
+"Music"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "24 Hour Party People (2002) BEQ DTS-HD MA 5.1",
+"digest": "7e7a9684cdd9525a35c7abd6123d754ddcf474616904bbe7f461f00f8844c1e9",
+"created_at": 1795534433,
+"updated_at": 1795534433,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
 ],
 "filterAuthor": "human"
 },
