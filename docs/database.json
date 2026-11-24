@@ -2231630,6 +2231630,176 @@
 "title": "Spider-Man: Brand New Day",
 "year": "2026",
 "audioTypes": [
+"Atmos",
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/spider-man-brand-new-day/#atmos-dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0000754525600042",
+"-1.9991994114359322",
+"0.9991244677888477"
+],
+"a": [
+"1.9991994857510142",
+"-0.9991998460337702"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 5.8,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002488628187471",
+"-1.9987440399539018",
+"0.9984969047326938"
+],
+"a": [
+"1.998744460743639",
+"-0.9987453467617038"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 5.8,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002488628187471",
+"-1.9987440399539018",
+"0.9984969047326938"
+],
+"a": [
+"1.998744460743639",
+"-0.9987453467617038"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 17.0,
+"gain": 5.8,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002488628187471",
+"-1.9987440399539018",
+"0.9984969047326938"
+],
+"a": [
+"1.998744460743639",
+"-0.9987453467617038"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -1.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999585432230199",
+"-1.9992991072042485",
+"0.9993444179505578"
+],
+"a": [
+"1.9992991072042485",
+"-0.9993029611735779"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000225615978298",
+"-1.9960877761400253",
+"0.9960806057322641"
+],
+"a": [
+"1.9960877761400253",
+"-0.996103167330094"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Spider-Man/Spider-Man%20-%20Brand%20New%20Day%20(%202026)%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Spider-Man/Spider-Man%20-%20Brand%20New%20Day%20(%202026)%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "spider-man: brand new day",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+"theMovieDB": "969681",
+"rating": "PG-13",
+"runtime": "145",
+"genres": [
+"Science Fiction",
+"Action",
+"Adventure"
+],
+"altTitle": "",
+"collection": {
+"id": "531241",
+"name": "Spider-Man (MCU) Collection"
+},
+"underlying": "Spider-Man- Brand New Day (2026) BEQ Atmos",
+"digest": "82ad940e5a679dab699d32b39f3d038bb05870ca4dcb63d66a4ba5c457dc1ffa",
+"created_at": 1795528628,
+"updated_at": 1795528628,
+"audioCodecs": [
+"Atmos",
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"",
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
+"title": "Spider-Man: Brand New Day",
+"year": "2026",
+"audioTypes": [
 "DD+ Atmos",
 "DD+"
 ],
@@ -2231773,173 +2231943,6 @@
 "audioChannelCounts": [
 "",
 ""
-],
-"filterAuthor": "human"
-},
-{
-"title": "Spider-Man: Brand New Day",
-"year": "2026",
-"audioTypes": [
-"DTS-HD MA 5.1"
-],
-"content_type": "film",
-"author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/spider-man-brand-new-day/#dts-hd-ma-51",
-"filters": [
-{
-"type": "LowShelf",
-"freq": 10.0,
-"gain": 3.4,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0000855435514093",
-"-1.999208565269998",
-"0.9991235424879993"
-],
-"a": [
-"1.9992086496130368",
-"-0.9992090016963695"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 17.0,
-"gain": 6.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0002575291740183",
-"-1.9987512321397283",
-"0.9984954505741828"
-],
-"a": [
-"1.9987516680044366",
-"-0.9987525438834928"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 17.0,
-"gain": 6.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0002575291740183",
-"-1.9987512321397283",
-"0.9984954505741828"
-],
-"a": [
-"1.9987516680044366",
-"-0.9987525438834928"
-]
-}
-},
-"count": 1
-},
-{
-"type": "LowShelf",
-"freq": 17.0,
-"gain": 6.0,
-"q": 0.75,
-"biquads": {
-"96000": {
-"b": [
-"1.0002575291740183",
-"-1.9987512321397283",
-"0.9984954505741828"
-],
-"a": [
-"1.9987516680044366",
-"-0.9987525438834928"
-]
-}
-},
-"count": 1
-},
-{
-"type": "PeakingEQ",
-"freq": 30.0,
-"gain": -1.1,
-"q": 3.0,
-"biquads": {
-"96000": {
-"b": [
-"0.9999585432230199",
-"-1.9992991072042485",
-"0.9993444179505578"
-],
-"a": [
-"1.9992991072042485",
-"-0.9993029611735779"
-]
-}
-}
-},
-{
-"type": "PeakingEQ",
-"freq": 60.0,
-"gain": 0.1,
-"q": 1.0,
-"biquads": {
-"96000": {
-"b": [
-"1.0000225615978298",
-"-1.9960877761400253",
-"0.9960806057322641"
-],
-"a": [
-"1.9960877761400253",
-"-0.996103167330094"
-]
-}
-}
-}
-],
-"images": [
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Spider-Man/Spider-Man%20-%20Brand%20New%20Day%20(2026)%20DTS-HD%20MA%205.1.jpg",
-"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Spider-Man/Spider-Man%20-%20Brand%20New%20Day%20(2026)%20DTS-HD%20MA%205.1hm.jpg"
-],
-"warning": "",
-"mv": "0",
-"avs": "",
-"sortTitle": "spider-man: brand new day",
-"edition": "",
-"note": "",
-"language": "English",
-"source": "Disc",
-"overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-"theMovieDB": "969681",
-"rating": "PG-13",
-"runtime": "145",
-"genres": [
-"Science Fiction",
-"Action",
-"Adventure"
-],
-"altTitle": "",
-"collection": {
-"id": "531241",
-"name": "Spider-Man (MCU) Collection"
-},
-"underlying": "Spider-Man- Brand New Day (2026) BEQ DTS-HD MA 5.1",
-"digest": "84d503d97c8051cb8582e00035d12067af61cfe4ead1059a847f3d2f25ee6f21",
-"created_at": 1795492868,
-"updated_at": 1795492868,
-"audioCodecs": [
-"DTS-HD MA"
-],
-"audioChannelCounts": [
-"5.1"
 ],
 "filterAuthor": "human"
 },
