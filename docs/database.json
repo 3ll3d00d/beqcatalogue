@@ -1870391,6 +1870391,192 @@
 "title": "Forgotten Island",
 "year": "2026",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/forgotten-island/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.01,
+"gain": 4.85,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000917874281354",
+"-1.9994299225851053",
+"0.9993387024555678"
+],
+"a": [
+"1.999430043948158",
+"-0.99943036852065"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.01,
+"gain": 4.85,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000917874281354",
+"-1.9994299225851053",
+"0.9993387024555678"
+],
+"a": [
+"1.999430043948158",
+"-0.99943036852065"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.01,
+"gain": 4.85,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000917874281354",
+"-1.9994299225851053",
+"0.9993387024555678"
+],
+"a": [
+"1.999430043948158",
+"-0.99943036852065"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.01,
+"gain": 4.85,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000917874281354",
+"-1.9994299225851053",
+"0.9993387024555678"
+],
+"a": [
+"1.999430043948158",
+"-0.99943036852065"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.31,
+"gain": 8.37,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002490670452548",
+"-1.9991947285450227",
+"0.998948521148295"
+],
+"a": [
+"1.9991956128844748",
+"-0.999196703854098"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.62,
+"gain": 3.3,
+"q": 1.27,
+"biquads": {
+"96000": {
+"b": [
+"1.000301373473233",
+"-1.9986918393693203",
+"0.9983944795896669"
+],
+"a": [
+"1.9986918393693203",
+"-0.9986958530628995"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -0.41,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999845566065325",
+"-1.9993262415263828",
+"0.9993455389414853"
+],
+"a": [
+"1.9993262415263828",
+"-0.9993300955480179"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Forgotten%20Island%20%282026%29%20%28%2B4.5%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Forgotten%20Island%20%282026%29%20%28%2B4.5%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65043521",
+"sortTitle": "forgotten island",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+"theMovieDB": "1465063",
+"rating": "PG",
+"runtime": "109",
+"genres": [
+"Animation",
+"Adventure",
+"Fantasy",
+"Comedy",
+"Family"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Forgotten Island (2026) (+4.5 gain) BEQ Atmos remixmark",
+"digest": "579ff9caf087ea3e4dcfaf91596f147519b86a5274e4c65f491194c19e9b9158",
+"created_at": 1795537312,
+"updated_at": 1795537312,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Forgotten Island",
+"year": "2026",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
