@@ -1933662,6 +1933662,131 @@
 "title": "Spider-Man: Brand New Day",
 "year": "2026",
 "audioTypes": [
+"Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/spider-man-brand-new-day/#atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 5.16,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000146373592892",
+"-1.999153461620069",
+"0.9990079178703687"
+],
+"a": [
+"1.9991536474728127",
+"-0.9991541056105171"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 5.16,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000146373592892",
+"-1.999153461620069",
+"0.9990079178703687"
+],
+"a": [
+"1.9991536474728127",
+"-0.9991541056105171"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.72,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.000233179938878",
+"-1.9992606482668964",
+"0.9990299160875825"
+],
+"a": [
+"1.999261412166878",
+"-0.9992623321264787"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 40.72,
+"gain": 1.49,
+"q": 1.89,
+"biquads": {
+"96000": {
+"b": [
+"1.000121017304562",
+"-1.9986995306715836",
+"0.998585611622224"
+],
+"a": [
+"1.9986995306715836",
+"-0.9987066289267862"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Spider-Man%20-%20Brand%20New%20Day%20%282026%29%20%28%2B0.5%20gain%29%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Spider-Man%20-%20Brand%20New%20Day%20%282026%29%20%28%2B0.5%20gain%29%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "0.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65043703",
+"sortTitle": "spider-man: brand new day",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+"theMovieDB": "969681",
+"rating": "PG-13",
+"runtime": "145",
+"genres": [
+"Science Fiction",
+"Action",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Spider-Man - Brand New Day (2026) (+0.5 gain) BEQ Atmos remixmark",
+"digest": "367ac6414d26cba065a74c85fb8c0dff1890f3b08cdc5da00a5ddd1cd26d0237",
+"created_at": 1795540424,
+"updated_at": 1795540424,
+"audioCodecs": [
+"Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Spider-Man: Brand New Day",
+"year": "2026",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "film",
@@ -1981210,6 +1981335,191 @@
 ],
 "audioChannelCounts": [
 ""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Vivo",
+"year": "2021",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/vivo/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 14.43,
+"gain": 7.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002055814516486",
+"-1.9992382428946625",
+"0.9990340344877945"
+],
+"a": [
+"1.9992386399129616",
+"-0.9992392189211443"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.43,
+"gain": 7.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002055814516486",
+"-1.9992382428946625",
+"0.9990340344877945"
+],
+"a": [
+"1.9992386399129616",
+"-0.9992392189211443"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.43,
+"gain": 7.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002055814516486",
+"-1.9992382428946625",
+"0.9990340344877945"
+],
+"a": [
+"1.9992386399129616",
+"-0.9992392189211443"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.43,
+"gain": 7.5,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002055814516486",
+"-1.9992382428946625",
+"0.9990340344877945"
+],
+"a": [
+"1.9992386399129616",
+"-0.9992392189211443"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 2.87,
+"q": 0.7,
+"biquads": {
+"96000": {
+"b": [
+"1.000231990995897",
+"-1.9974168306394624",
+"0.9971893816658665"
+],
+"a": [
+"1.9974174696539488",
+"-0.9974207336472766"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": 1.23,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001801535392532",
+"-1.9976262816746277",
+"0.9974513694297986"
+],
+"a": [
+"1.9976262816746277",
+"-0.9976315229690517"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 20.51,
+"gain": -0.2,
+"q": 6.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999974244554881",
+"-1.9997719038475374",
+"0.9997762811621849"
+],
+"a": [
+"1.9997719038475374",
+"-0.999773705617673"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Vivo%20%282021%29%20%28%2B2.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Vivo%20%282021%29%20%28%2B2.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "2.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65043711",
+"sortTitle": "vivo",
+"edition": "",
+"note": "Dialnorm Compensation: 7dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "A music-loving kinkajou named Vivo embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.",
+"theMovieDB": "449406",
+"rating": "PG",
+"runtime": "96",
+"genres": [
+"Animation",
+"Family",
+"Comedy",
+"Music"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Vivo (2021) (+2.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "8646ac78249b056931ba386474a77e7b54e0596d14fa0f84aeca56f7e554ec4b",
+"created_at": 1795540527,
+"updated_at": 1795540527,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
 ],
 "filterAuthor": "model"
 },
