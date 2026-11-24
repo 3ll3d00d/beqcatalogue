@@ -1986518,6 +1986518,131 @@
 "filterAuthor": "human"
 },
 {
+"title": "Wicker",
+"year": "2026",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/wicker/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 0.72,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000162837017184",
+"-1.999230389085348",
+"0.9992147480901798"
+],
+"a": [
+"1.9992304146491386",
+"-0.9992310062281077"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 0.72,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000162837017184",
+"-1.999230389085348",
+"0.9992147480901798"
+],
+"a": [
+"1.9992304146491386",
+"-0.9992310062281077"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.17,
+"gain": 4.45,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0001630104840509",
+"-1.9988829515252347",
+"0.9987234452634687"
+],
+"a": [
+"1.9988836539449473",
+"-0.9988857533278068"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 0.95,
+"q": 0.83,
+"biquads": {
+"96000": {
+"b": [
+"1.000129288882317",
+"-1.997758894279718",
+"0.9976334563977232"
+],
+"a": [
+"1.997758894279718",
+"-0.9977627452800402"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Wicker%20%282026%29%20%28%2B5.0%20gain%29%20DD%2B%205.1%20French.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Wicker%20%282026%29%20%28%2B5.0%20gain%29%20DD%2B%205.1%20French%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "5.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65043153",
+"sortTitle": "wicker",
+"edition": "",
+"note": "Dialnorm Compensation: 3dB AI Created",
+"language": "French",
+"source": "Disc",
+"overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+"theMovieDB": "1195803",
+"rating": "R",
+"runtime": "105",
+"genres": [
+"Romance",
+"Fantasy",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Wicker (2026) (+5.0 gain) BEQ DD+ 5.1 French remixmark",
+"digest": "3c6d3cfbbac9ecfd166d8a27ae78b9d8ca102b659261afbe20ee0ac1c5a25581",
+"created_at": 1795529358,
+"updated_at": 1795529358,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Wind River",
 "year": "2017",
 "audioTypes": [
