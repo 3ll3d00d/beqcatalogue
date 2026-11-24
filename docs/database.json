@@ -2259659,6 +2259659,130 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Jungle Book",
+"year": "2016",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-jungle-book/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9997714208677407",
+"-1.9988694522162036",
+"0.9990982863670086"
+],
+"a": [
+"1.9988692203555183",
+"-0.9988699390954342"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": 2.4,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000069529286781",
+"-1.999560796079542",
+"0.9994935323652918"
+],
+"a": [
+"1.999560796079542",
+"-0.9995630616520726"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -1.7,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9999198469472331",
+"-1.9990943209566878",
+"0.9991783275840254"
+],
+"a": [
+"1.9990943209566878",
+"-0.9990981745312585"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Jungle%20Book/The%20Jungle%20Book%20(2016)%204K%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Jungle%20Book/The%20Jungle%20Book%20(2016)%204K%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "jungle book",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disney+",
+"overview": "After a threat from the tiger Shere Khan, Mowgli, a man-cub fostered by wolves, is forced to flee the jungle, and he embarks on a journey of self-discovery with the help of the panther, Bagheera, and the free-spirited bear, Baloo.",
+"theMovieDB": "278927",
+"rating": "PG",
+"runtime": "106",
+"genres": [
+"Adventure",
+"Family",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Jungle Book (2016) (Disney+) BEQ DD+ Atmos",
+"digest": "f90ccec9eecfa25e73ee3aeed08cf96f28ecc22f4fbcde55d7553d1035acdba6",
+"created_at": 1795494906,
+"updated_at": 1795494906,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Killer",
 "year": "2023",
 "audioTypes": [
@@ -2263547,6 +2263671,149 @@
 "updated_at": 1750386015,
 "audioCodecs": [
 "Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Lovely Bones",
+"year": "2009",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-lovely-bones/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0000754525600042",
+"-1.9991994114359322",
+"0.9991244677888477"
+],
+"a": [
+"1.9991994857510142",
+"-0.9991998460337702"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -2.2,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998817923087033",
+"-1.998937547293662",
+"0.9990616162452729"
+],
+"a": [
+"1.998937547293662",
+"-0.9989434085539762"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Lovely%20Bones/The%20Lovely%20Bones%20(2009)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Lovely%20Bones/The%20Lovely%20Bones%20(2009)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "lovely bones",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "After being brutally murdered, 14-year-old Susie Salmon watches from heaven over her grief-stricken family -- and her killer. As she observes their daily lives, she must balance her thirst for revenge with her desire for her family to heal.",
+"theMovieDB": "7980",
+"rating": "PG-13",
+"runtime": "136",
+"genres": [
+"Fantasy",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Lovely Bones (2009) BEQ DD+",
+"digest": "fe8342cf19f60028a70ad97f754eddbb7fe344ad67cf8a14706019468aca601c",
+"created_at": 1795494906,
+"updated_at": 1795494906,
+"audioCodecs": [
+"DD+"
 ],
 "audioChannelCounts": [
 ""
@@ -2267939,6 +2268206,149 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Munsters",
+"year": "2022",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-munsters/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000189874858758",
+"-1.999296548481444",
+"0.9991073330464498"
+],
+"a": [
+"1.999296739154978",
+"-0.9992970172316736"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000189874858758",
+"-1.999296548481444",
+"0.9991073330464498"
+],
+"a": [
+"1.999296739154978",
+"-0.9992970172316736"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 19.0,
+"gain": 4.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001011807676519",
+"-1.9996730143937236",
+"0.9995733797836114"
+],
+"a": [
+"1.9996730143937236",
+"-0.9996745605512631"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 28.0,
+"gain": -1.8,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999268644736887",
+"-1.9992151530520248",
+"0.9992916456721692"
+],
+"a": [
+"1.9992151530520248",
+"-0.9992185101458577"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Munsters/The%20Munsters%20(2022)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Munsters/The%20Munsters%20(2022)%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "munsters",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Lily is a typical 150-year-old lovelorn vampire who's looking for the man of her nightmares -- until she lays her eyes on Herman, a 7-foot-tall green experiment with a heart of gold. It's love at first shock as these two ghouls fall fangs over feet for each other in a Transylvanian romance. Unfortunately, it's not all smooth sailing in the cemetery as Lily's father has other plans for his beloved daughter's future, and they don't involve her new bumbling beau.",
+"theMovieDB": "804413",
+"rating": "PG",
+"runtime": "110",
+"genres": [
+"Comedy",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Munsters (2022) BEQ DTS-HD MA 5.1",
+"digest": "8e0a112b1a6774946c1d16c5c774d6373bd456f1f5fb4805434b1d79c516aa67",
+"created_at": 1795494906,
+"updated_at": 1795494906,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Myth",
 "year": "2005",
 "audioTypes": [
@@ -2270981,6 +2271391,229 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Phantom of the Opera",
+"year": "2004",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-phantom-of-the-opera/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -4.4,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.999771650867719",
+"-1.9988470481980802",
+"0.9990792504282742"
+],
+"a": [
+"1.9988470481980802",
+"-0.9988509012959932"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.1,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000075303140679",
+"-1.998683955117732",
+"0.9986918360120328"
+],
+"a": [
+"1.998683955117732",
+"-0.9986993663261007"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Phantom%20of%20the%20Opera/The%20Phantom%20of%20the%20Opera%20(2004)%20DTS-HD%20MA%205%201.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Phantom%20of%20the%20Opera/The%20Phantom%20of%20the%20Opera%20(2004)%20DTS-HD%20MA%205%201hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "phantom of the opera",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "The deformed Phantom who haunts the Paris Opera House causes murder and mayhem in an attempt to make the woman he loves a star.",
+"theMovieDB": "9833",
+"rating": "PG-13",
+"runtime": "141",
+"genres": [
+"Thriller",
+"Drama",
+"Romance"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Phantom of the Opera (2004) BEQ DTS-HD MA 5.1",
+"digest": "13b5942fa5184cbeb085c9e15711978d7ef733df88e88641e305ffc3d699afe8",
+"created_at": 1795494906,
+"updated_at": 1795494906,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Pickup",
 "year": "2025",
 "audioTypes": [
@@ -2271386,6 +2272019,150 @@
 "digest": "b72f28b22e61de57e189bce636fb98de5f868081933b3622eec1b22546fec72c",
 "created_at": 1744925900,
 "updated_at": 1744925900,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Portable Door",
+"year": "2023",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-portable-door/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 4.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0001208448338539",
+"-1.9990664866227708",
+"0.9989464179951651"
+],
+"a": [
+"1.9990666298493782",
+"-0.9990671196024115"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 41.0,
+"gain": -1.4,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999167796557823",
+"-1.9988747157287254",
+"0.9989651329132481"
+],
+"a": [
+"1.9988747157287254",
+"-0.9988819125690304"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Portable%20Door/The%20Portable%20Door%20(2023)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Portable%20Door/The%20Portable%20Door%20(2023)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "portable door",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Paul and Sophie, interns at a mysterious London firm, become steadily aware their employers Humphrey and Dennis are anything but conventional \u2013 they are disrupting the world of magic by bringing modern corporate strategy to ancient magical practices.",
+"theMovieDB": "830896",
+"rating": "PG-13",
+"runtime": "116",
+"genres": [
+"Fantasy",
+"Adventure",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Portable Door (2023) BEQ DD+ Atmos",
+"digest": "9f8cc38eb390802549db7dbeb8013247965899f87be515303b46c719e9d042b9",
+"created_at": 1795494906,
+"updated_at": 1795494906,
 "audioCodecs": [
 "DD+ Atmos"
 ],
