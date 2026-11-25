@@ -1826913,6 +1826913,210 @@
 "filterAuthor": "human"
 },
 {
+"title": "24 Hour Party People",
+"year": "2002",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/24-hour-party-people/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.89,
+"gain": -2.21,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999834524108734",
+"-1.999722992052981",
+"0.9997400728185178"
+],
+"a": [
+"1.9997229148134321",
+"-0.99972360246894"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.92,
+"gain": 3.26,
+"q": 2.32,
+"biquads": {
+"96000": {
+"b": [
+"1.0000316518854022",
+"-1.9996932686635516",
+"0.9996623509594079"
+],
+"a": [
+"1.999693383537795",
+"-0.9996938879705672"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 43.93,
+"gain": 4.44,
+"q": 1.38,
+"biquads": {
+"96000": {
+"b": [
+"1.0002678035471486",
+"-1.9981596090243616",
+"0.9979024700046198"
+],
+"a": [
+"1.9981617430438794",
+"-0.9981681395322505"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 24.57,
+"gain": 4.77,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"1.0001009969850012",
+"-1.9993603340410286",
+"0.9992627390944667"
+],
+"a": [
+"1.9993610528392356",
+"-0.9993630172812608"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 36.9,
+"gain": 0.9,
+"q": 2.39,
+"biquads": {
+"96000": {
+"b": [
+"1.0000263172279984",
+"-1.9990099859424444",
+"0.9989898085403959"
+],
+"a": [
+"1.999010288110486",
+"-0.9990158236003528"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 53.64,
+"gain": 6.76,
+"q": 0.6,
+"biquads": {
+"96000": {
+"b": [
+"1.0011453582131526",
+"-1.995181677159874",
+"0.9940544636607582"
+],
+"a": [
+"1.9951865835085782",
+"-0.9951949155252071"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.28,
+"gain": 6.22,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0002176343510856",
+"-1.999580862701154",
+"0.9993664155958535"
+],
+"a": [
+"1.999580862701154",
+"-0.9995840499469391"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 10.01,
+"gain": -0.8,
+"q": 0.58,
+"biquads": {
+"96000": {
+"b": [
+"0.9999479935631714",
+"-1.9988174609491083",
+"0.9988698963576371"
+],
+"a": [
+"1.9988174609491083",
+"-0.9988178899208087"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/24%20Hour%20Party%20People%20%282002%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/24%20Hour%20Party%20People%20%282002%29%20%28%2B4.5%20gain%29%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "4.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65045739",
+"sortTitle": "24 hour party people",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Manchester, 1976. Tony Wilson is an ambitious but frustrated local TV news reporter looking for a way to make his mark. After witnessing a life-changing concert by a band known as the Sex Pistols, he persuades his station to televise one of their performances, and soon Manchester's punk groups are clamoring for him to manage them. Riding the wave of a musical revolution, Wilson and his friends create the legendary Factory Records label and The Hacienda club.",
+"theMovieDB": "2750",
+"rating": "R",
+"runtime": "117",
+"genres": [
+"Comedy",
+"Drama",
+"Music"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "24 Hour Party People (2002) (+4.5 gain) BEQ DTS-HD MA 5.1 remixmark",
+"digest": "612bebe0621a345dfcc25abf97992f6078cf106122891f0fc00de0abdfba3137",
+"created_at": 1795609942,
+"updated_at": 1795609942,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "28 Days Later",
 "year": "2002",
 "audioTypes": [
