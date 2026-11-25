@@ -2,6 +2,28 @@
 
 * Author: remixmark
 
+## Season 03
+
+* DD+ Atmos
+
+
+**MV Adjustment:** +1.0 dB
+
+Dialnorm Compensation: 4 dB — S03E02, S03E05–S03E06; 5 dB — S03E03–S03E04, S03E08; 6 dB — S03E01, S03E07 AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1811#post-65046491)
+
+* [Compare across authors](../compare/index.md?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%20264e0e16bd95%29.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%20264e0e16bd95%29.jpg)
+
 ## Season 03E01
 
 * DD+ Atmos
@@ -23,28 +45,6 @@ Dialnorm Compensation: 6dB AI Created
 
 
 ![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E01%29%20%28%2B1.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg)
-
-## Season 03E01-E06
-
-* DD+ Atmos
-
-
-**MV Adjustment:** +2.0 dB
-
-Dialnorm Compensation: 4 dB — S03E02, S03E05–S03E06; 5 dB — S03E03–S03E04; 6 dB — S03E01 AI Created
-{ data-search-exclude }
-
-* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1806#post-65027655)
-
-* [Compare across authors](../compare/index.md?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
-
-* Production Year: 2022
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E01-E06%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%207b0c39dbd58b%29.jpg)
-
-
-![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E01-E06%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%207b0c39dbd58b%29.jpg)
 
 ## Season 03E02
 
