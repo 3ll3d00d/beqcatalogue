@@ -32,3 +32,18 @@
 
 ![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LOTR%20-%20The%20Rings%20of%20Power/LOTR%20-%20The%20Rings%20of%20Power%20S02E01-08%20(2022)%20DD%2B%20Atmoshm.jpg)
 
+## Season 03
+
+* DD+ Atmos
+
+
+* [Compare across authors](../compare/index.md?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
+
+* Production Year: 2026
+
+
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LOTR%20-%20The%20Rings%20of%20Power/LOTR%20-%20The%20Rings%20of%20Power%20S03E01-08%20(2022)%20DD%2B%20Atmos.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/L/LOTR%20-%20The%20Rings%20of%20Power/LOTR%20-%20The%20Rings%20of%20Power%20S03E01-08%20(2022)%20DD%2B%20Atmoshm.jpg)
+
