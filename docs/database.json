@@ -1966329,6 +1966329,249 @@
 "filterAuthor": "model"
 },
 {
+"title": "The Social Reckoning",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-social-reckoning/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 4.34,
+"q": 0.88,
+"biquads": {
+"96000": {
+"b": [
+"1.0000931707799137",
+"-1.9993433625664525",
+"0.9992507415485811"
+],
+"a": [
+"1.9993434706671718",
+"-0.9993438042277756"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 4.34,
+"q": 0.88,
+"biquads": {
+"96000": {
+"b": [
+"1.0000931707799137",
+"-1.9993433625664525",
+"0.9992507415485811"
+],
+"a": [
+"1.9993434706671718",
+"-0.9993438042277756"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 4.34,
+"q": 0.88,
+"biquads": {
+"96000": {
+"b": [
+"1.0000931707799137",
+"-1.9993433625664525",
+"0.9992507415485811"
+],
+"a": [
+"1.9993434706671718",
+"-0.9993438042277756"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 4.34,
+"q": 0.88,
+"biquads": {
+"96000": {
+"b": [
+"1.0000931707799137",
+"-1.9993433625664525",
+"0.9992507415485811"
+],
+"a": [
+"1.9993434706671718",
+"-0.9993438042277756"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 4.63,
+"q": 1.06,
+"biquads": {
+"96000": {
+"b": [
+"1.000165195015542",
+"-1.9989179793150809",
+"0.998755019891851"
+],
+"a": [
+"1.9989184411735081",
+"-0.9989197530489657"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 4.63,
+"q": 1.06,
+"biquads": {
+"96000": {
+"b": [
+"1.000165195015542",
+"-1.9989179793150809",
+"0.998755019891851"
+],
+"a": [
+"1.9989184411735081",
+"-0.9989197530489657"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 4.63,
+"q": 1.06,
+"biquads": {
+"96000": {
+"b": [
+"1.000165195015542",
+"-1.9989179793150809",
+"0.998755019891851"
+],
+"a": [
+"1.9989184411735081",
+"-0.9989197530489657"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 38.0,
+"gain": -3.55,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"0.9998037511625296",
+"-1.9978769715259563",
+"0.9980782573895642"
+],
+"a": [
+"1.9978756999954013",
+"-0.997883280082649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": 0.21,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000131797817329",
+"-1.9989121553442322",
+"0.9989096789914478"
+],
+"a": [
+"1.9989121553442322",
+"-0.9989228587731808"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 52.0,
+"gain": 0.38,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000743297418873",
+"-1.996664224311338",
+"0.9966014583833741"
+],
+"a": [
+"1.996664224311338",
+"-0.9966757881252615"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Social%20Reckoning%20%282026%29%20%282160p%29%20%28%2B11.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Social%20Reckoning%20%282026%29%20%282160p%29%20%28%2B11.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "11.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65045939",
+"sortTitle": "the social reckoning",
+"edition": "2160p",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+"theMovieDB": "1281331",
+"rating": "R",
+"runtime": "113",
+"genres": [
+"Drama",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Social Reckoning (2026) (2160p) (+11.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "612fcdc768471e6e6d201973194e4b0d9add5aa11b4789c05cc0f8a3cd5be1b9",
+"created_at": 1795616699,
+"updated_at": 1795616699,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "The SpongeBob Movie: Search for SquarePants",
 "year": "2025",
 "audioTypes": [
@@ -1995018,6 +1995261,129 @@
 "digest": "812b361ac23caaa36d15153a72c9152a769559ad8368f11993923234340f4ad1",
 "created_at": 1795614409,
 "updated_at": 1795614409,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Blade Runner 2099",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/blade-runner-2099/#season-01e08",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.67,
+"q": 1.13,
+"biquads": {
+"96000": {
+"b": [
+"1.0001119358900323",
+"-1.9995216239802411",
+"0.9994103168191898"
+],
+"a": [
+"1.9995217924856472",
+"-0.9995220842038164"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.64,
+"gain": 4.58,
+"q": 1.16,
+"biquads": {
+"96000": {
+"b": [
+"1.0001616005676999",
+"-1.9989283149143366",
+"0.9987693240998223"
+],
+"a": [
+"1.998928849651355",
+"-0.9989303899305039"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 41.3,
+"gain": 0.61,
+"q": 1.79,
+"biquads": {
+"96000": {
+"b": [
+"1.0000266230318011",
+"-1.998509977966288",
+"0.9984909170803448"
+],
+"a": [
+"1.998510234396876",
+"-0.9985172836815583"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.27,
+"gain": 10.99,
+"q": 0.55,
+"biquads": {
+"96000": {
+"b": [
+"1.0007374336444175",
+"-1.9983281841767557",
+"0.9975937425762171"
+],
+"a": [
+"1.998329258076719",
+"-0.9983301023206714"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blade%20Runner%202099%20%282026%29%20%28Season%20S01E08%29%20%28%2B1.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blade%20Runner%202099%20%282026%29%20%28Season%20S01E08%29%20%28%2B1.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E08",
+"episode": "",
+"mv": "1.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65045799",
+"sortTitle": "blade runner 2099",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
+"theMovieDB": "171802",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy"
+],
+"underlying": "Blade Runner 2099 (2026) (Season S01E08) (+1.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "95e1fbafc97649b29745edd33b1f64908cf5083866ebae06ebae17bc2117a4b2",
+"created_at": 1795614597,
+"updated_at": 1795614597,
 "audioCodecs": [
 "DD+ Atmos"
 ],
@@ -2060369,6 +2060735,292 @@
 "digest": "6806e5f4ca68bafe9a53df01e1a579a4254dc0b433ae5cb4cd90e20a959ce83d",
 "created_at": 1795008945,
 "updated_at": 1795008945,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "The Lord of the Rings: The Rings of Power",
+"year": "2022",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-lord-of-the-rings-the-rings-of-power/#season-03e07",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 14.29,
+"gain": 15.12,
+"q": 0.85,
+"biquads": {
+"96000": {
+"b": [
+"1.0004943631139778",
+"-1.9992869575790837",
+"0.9987946824490535"
+],
+"a": [
+"1.9992878184673406",
+"-0.9992881846747741"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 39.55,
+"gain": 1.39,
+"q": 1.64,
+"biquads": {
+"96000": {
+"b": [
+"1.0000633839442785",
+"-1.9984779550046095",
+"0.9984218242809206"
+],
+"a": [
+"1.9984784913131384",
+"-0.9984846719166702"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 28.99,
+"gain": 0.99,
+"q": 2.45,
+"biquads": {
+"96000": {
+"b": [
+"1.000022164696135",
+"-1.9992439896531466",
+"0.999225634739482"
+],
+"a": [
+"1.9992441948525645",
+"-0.9992475942361982"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 52.48,
+"gain": 3.99,
+"q": 0.65,
+"biquads": {
+"96000": {
+"b": [
+"1.0006081272386516",
+"-1.995287984252906",
+"0.9946946662613871"
+],
+"a": [
+"1.9952907114929122",
+"-0.9953000662600329"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 14.56,
+"gain": -3.37,
+"q": 1.85,
+"biquads": {
+"96000": {
+"b": [
+"0.9998994762669952",
+"-1.999373901575098",
+"0.9994753331374292"
+],
+"a": [
+"1.999373901575098",
+"-0.9993748094044245"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 10.77,
+"gain": -2.9,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999605985916215",
+"-1.9997218882993935",
+"0.9997617865155332"
+],
+"a": [
+"1.9997218882993935",
+"-0.9997223851071546"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E07%29%20%28-2.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E07%29%20%28-2.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "03E07",
+"episode": "",
+"mv": "-2.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1805#post-65007901",
+"sortTitle": "the lord of the rings: the rings of power",
+"edition": "",
+"note": "Dialnorm Compensation: 6dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+"theMovieDB": "84773",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Sci-Fi & Fantasy"
+],
+"underlying": "The Lord of the Rings - The Rings of Power (2022) (Season S03E07) (-2.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "dc0d6478f1c3205c6da58a33157bc8ba25113e62f0f97fb2c094c944859add94",
+"created_at": 1795616841,
+"updated_at": 1795616841,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "The Lord of the Rings: The Rings of Power",
+"year": "2022",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-lord-of-the-rings-the-rings-of-power/#season-03e08",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.18,
+"gain": 1.13,
+"q": 2.13,
+"biquads": {
+"96000": {
+"b": [
+"1.0000152020441073",
+"-1.9995475942496392",
+"0.9995334454101379"
+],
+"a": [
+"1.9995476584892815",
+"-0.9995485832146029"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.98,
+"gain": 8.11,
+"q": 0.78,
+"biquads": {
+"96000": {
+"b": [
+"1.0002368395005408",
+"-1.9992036655019534",
+"0.9989678061865241"
+],
+"a": [
+"1.9992039629404756",
+"-0.9992043482485424"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.69,
+"gain": 7.08,
+"q": 0.97,
+"biquads": {
+"96000": {
+"b": [
+"1.0003837674786349",
+"-1.9984736904784732",
+"0.9980948562415568"
+],
+"a": [
+"1.9984750654016212",
+"-0.9984772487970434"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.06,
+"gain": 6.44,
+"q": 0.63,
+"biquads": {
+"96000": {
+"b": [
+"1.0006789800025488",
+"-1.9969728729177296",
+"0.9963015099242608"
+],
+"a": [
+"1.9969748669326937",
+"-0.9969784959118461"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E08%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E08%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "03E08",
+"episode": "",
+"mv": "0.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1805#post-65007901",
+"sortTitle": "the lord of the rings: the rings of power",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+"theMovieDB": "84773",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Sci-Fi & Fantasy"
+],
+"underlying": "The Lord of the Rings - The Rings of Power (2022) (Season S03E08) (+0.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "063f34428a2d7dfed5a4a99a11f0f77d199a50350b1b30cbd5528b2f8b6cc8e9",
+"created_at": 1795616960,
+"updated_at": 1795616960,
 "audioCodecs": [
 "DD+ Atmos"
 ],
