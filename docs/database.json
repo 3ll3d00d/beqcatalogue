@@ -2297473,6 +2297473,210 @@
 "filterAuthor": "human"
 },
 {
+"title": "Vivo",
+"year": "2021",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/vivo/#dd-atmos",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 13.0,
+"gain": 6.0,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000999067076248",
+"-1.999798511555809",
+"0.9996993287178063"
+],
+"a": [
+"1.999798511555809",
+"-0.9997992354254309"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002838687381523",
+"-1.9990290859461612",
+"0.9987465472417688"
+],
+"a": [
+"1.9990294862150528",
+"-0.9990300157110296"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002838687381523",
+"-1.9990290859461612",
+"0.9987465472417688"
+],
+"a": [
+"1.9990294862150528",
+"-0.9990300157110296"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002838687381523",
+"-1.9990290859461612",
+"0.9987465472417688"
+],
+"a": [
+"1.9990294862150528",
+"-0.9990300157110296"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002838687381523",
+"-1.9990290859461612",
+"0.9987465472417688"
+],
+"a": [
+"1.9990294862150528",
+"-0.9990300157110296"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002838687381523",
+"-1.9990290859461612",
+"0.9987465472417688"
+],
+"a": [
+"1.9990294862150528",
+"-0.9990300157110296"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.0,
+"gain": -5.7,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998087772664986",
+"-1.9992033371292839",
+"0.9993964482157492"
+],
+"a": [
+"1.9992033371292839",
+"-0.9992052254822479"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": 0.3,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000564259031615",
+"-1.9967780146439946",
+"0.9967322807422543"
+],
+"a": [
+"1.9967780146439946",
+"-0.9967887066454159"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Vivo/Vivo%20(2021)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/V/Vivo/Vivo%20(2021)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "vivo",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "A music-loving kinkajou named Vivo embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.",
+"theMovieDB": "449406",
+"rating": "PG",
+"runtime": "96",
+"genres": [
+"Animation",
+"Family",
+"Comedy",
+"Music"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Vivo (2021) (Netflix) BEQ DD+ Atmos",
+"digest": "cd199c0259756adbaa2ef01e1b92791d6988adfbd2b533bbe8318b05f7afc918",
+"created_at": 1795558040,
+"updated_at": 1795579742,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Voicemails for Isabelle",
 "year": "2026",
 "audioTypes": [
