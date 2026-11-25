@@ -1994031,6 +1994031,329 @@
 "filterAuthor": "human"
 },
 {
+"title": "Blade Runner 2099",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/blade-runner-2099/#season-01e01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.14,
+"gain": 5.13,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000983860440893",
+"-1.999427143459522",
+"0.9993293490027638"
+],
+"a": [
+"1.9994272753871811",
+"-0.9994276031191934"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.14,
+"gain": 5.13,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000983860440893",
+"-1.999427143459522",
+"0.9993293490027638"
+],
+"a": [
+"1.9994272753871811",
+"-0.9994276031191934"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.14,
+"gain": 5.13,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000983860440893",
+"-1.999427143459522",
+"0.9993293490027638"
+],
+"a": [
+"1.9994272753871811",
+"-0.9994276031191934"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.14,
+"gain": 5.13,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000983860440893",
+"-1.999427143459522",
+"0.9993293490027638"
+],
+"a": [
+"1.9994272753871811",
+"-0.9994276031191934"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 24.54,
+"gain": 6.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002328673387255",
+"-1.9989730802540748",
+"0.9987439612981048"
+],
+"a": [
+"1.9989740676694427",
+"-0.9989758412214627"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": 1.79,
+"q": 0.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0004046392543997",
+"-1.9964599171129682",
+"0.996059126354904"
+],
+"a": [
+"1.9964599171129682",
+"-0.9964637656093036"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 10.74,
+"gain": -0.25,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999979768755253",
+"-1.9998568920060964",
+"0.9998594092078085"
+],
+"a": [
+"1.9998568920060964",
+"-0.9998573860833337"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 0.32,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000060302288318",
+"-1.9993512839581689",
+"0.9993456899200944"
+],
+"a": [
+"1.9993512918468919",
+"-0.9993517122602038"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blade%20Runner%202099%20%282026%29%20%28Season%20S01E01%29%20%28%2B2.0%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blade%20Runner%202099%20%282026%29%20%28Season%20S01E01%29%20%28%2B2.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E01",
+"episode": "",
+"mv": "2.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65045799",
+"sortTitle": "blade runner 2099",
+"edition": "",
+"note": "Dialnorm Compensation: 6dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
+"theMovieDB": "171802",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy"
+],
+"underlying": "Blade Runner 2099 (2026) (Season S01E01) (+2.0 gain) BEQ DD+ Atmos remixmark",
+"digest": "1142d6bb91c31cc05618cafad3783dc76df14be8d9a3e3690bbfc1daf24ae16e",
+"created_at": 1795611915,
+"updated_at": 1795611915,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
+"title": "Blade Runner 2099",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/blade-runner-2099/#season-01e02",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 5.56,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001578145813437",
+"-1.9991631359887487",
+"0.999006170584241"
+],
+"a": [
+"1.9991633367214738",
+"-0.9991637844328594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 5.56,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001578145813437",
+"-1.9991631359887487",
+"0.999006170584241"
+],
+"a": [
+"1.9991633367214738",
+"-0.9991637844328594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.95,
+"gain": 8.5,
+"q": 1.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0002485217753916",
+"-1.9992119702673026",
+"0.9989662284122037"
+],
+"a": [
+"1.9992128378284355",
+"-0.9992138826264625"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 42.9,
+"gain": 1.52,
+"q": 1.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0001314553975746",
+"-1.9986173672757621",
+"0.9984937901859605"
+],
+"a": [
+"1.9986173672757621",
+"-0.998625245583535"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blade%20Runner%202099%20%282026%29%20%28Season%20S01E02%29%20%28%2B1.5%20gain%29%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Blade%20Runner%202099%20%282026%29%20%28Season%20S01E02%29%20%28%2B1.5%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "01E02",
+"episode": "",
+"mv": "1.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65045799",
+"sortTitle": "blade runner 2099",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
+"theMovieDB": "171802",
+"rating": "TV-14",
+"genres": [
+"Sci-Fi & Fantasy"
+],
+"underlying": "Blade Runner 2099 (2026) (Season S01E02) (+1.5 gain) BEQ DD+ Atmos remixmark",
+"digest": "2b9719cba8c40efa35ee3b386b369ecbf86d39792bd5e51179ad7da928ed7058",
+"created_at": 1795612001,
+"updated_at": 1795612001,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "model"
+},
+{
 "title": "Blue Planet III",
 "year": "2026",
 "audioTypes": [
