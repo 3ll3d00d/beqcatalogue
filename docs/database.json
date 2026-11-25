@@ -1965902,6 +1965902,229 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Social Reckoning",
+"year": "2026",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "film",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-social-reckoning/#dd-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.77,
+"gain": 4.41,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001089713022375",
+"-1.999245765029852",
+"0.9991375583667308"
+],
+"a": [
+"1.9992459172441663",
+"-0.9992463774546542"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.77,
+"gain": 4.41,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001089713022375",
+"-1.999245765029852",
+"0.9991375583667308"
+],
+"a": [
+"1.9992459172441663",
+"-0.9992463774546542"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.77,
+"gain": 4.41,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001089713022375",
+"-1.999245765029852",
+"0.9991375583667308"
+],
+"a": [
+"1.9992459172441663",
+"-0.9992463774546542"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 11.77,
+"gain": 4.41,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001089713022375",
+"-1.999245765029852",
+"0.9991375583667308"
+],
+"a": [
+"1.9992459172441663",
+"-0.9992463774546542"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.36,
+"gain": 2.61,
+"q": 0.72,
+"biquads": {
+"96000": {
+"b": [
+"1.0001528522547498",
+"-1.9981141281173114",
+"0.9979637624377123"
+],
+"a": [
+"1.9981144508035655",
+"-0.9981162920062069"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.36,
+"gain": 2.61,
+"q": 0.72,
+"biquads": {
+"96000": {
+"b": [
+"1.0001528522547498",
+"-1.9981141281173114",
+"0.9979637624377123"
+],
+"a": [
+"1.9981144508035655",
+"-0.9981162920062069"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.36,
+"gain": 2.61,
+"q": 0.72,
+"biquads": {
+"96000": {
+"b": [
+"1.0001528522547498",
+"-1.9981141281173114",
+"0.9979637624377123"
+],
+"a": [
+"1.9981144508035655",
+"-0.9981162920062069"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 23.59,
+"gain": -5.02,
+"q": 4.39,
+"biquads": {
+"96000": {
+"b": [
+"0.9998969715902708",
+"-1.999528187719349",
+"0.9996335993874046"
+],
+"a": [
+"1.999528187719349",
+"-0.9995305709776753"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 27.71,
+"gain": -1.93,
+"q": 5.61,
+"biquads": {
+"96000": {
+"b": [
+"0.9999640159794497",
+"-1.9996355065055746",
+"0.9996747791314935"
+],
+"a": [
+"1.9996355065055746",
+"-0.9996387951109432"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Social%20Reckoning%20%282026%29%20%28%2B11.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Social%20Reckoning%20%282026%29%20%28%2B11.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"mv": "11.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1810#post-65044949",
+"sortTitle": "the social reckoning",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+"theMovieDB": "1281331",
+"rating": "R",
+"runtime": "113",
+"genres": [
+"Drama",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Social Reckoning (2026) (+11.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "1a7a9e6715fea2a3aa5d6f9f609b2adc7d5153fa2c566f925540da243b56f086",
+"created_at": 1795566136,
+"updated_at": 1795566136,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "The SpongeBob Movie: Search for SquarePants",
 "year": "2025",
 "audioTypes": [
