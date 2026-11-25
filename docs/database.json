@@ -2365123,6 +2365123,207 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Westies",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-westies/#season-01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002027506418185",
+"-1.9993065836021406",
+"0.9991045116430174"
+],
+"a": [
+"1.9993067878492643",
+"-0.9993070580377119"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002027506418185",
+"-1.9993065836021406",
+"0.9991045116430174"
+],
+"a": [
+"1.9993067878492643",
+"-0.9993070580377119"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 24.0,
+"gain": 2.9,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000877952909504",
+"-1.9995545346648427",
+"0.9994692062279579"
+],
+"a": [
+"1.9995545346648427",
+"-0.9995570015189083"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -1.9,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999139652137479",
+"-1.9991186622314319",
+"0.9992102462365553"
+],
+"a": [
+"1.9991186622314319",
+"-0.9991242114503031"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Westies/The%20Westies%20S01E01-08%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Westies/The%20Westies%20S01E01-08%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "westies",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Amazon",
+"overview": "As the Javits Center construction project ignites a battle for profit in early 1980s Hell's Kitchen, a generational rift threatens the uneasy peace between violent Irish gang the Westies and the Mafia, and draws FBI heat.",
+"theMovieDB": "286709",
+"rating": "TV-MA",
+"genres": [
+"Drama",
+"Crime"
+],
+"underlying": "The Westies (2026) (Season 01) (Amazon) BEQ DD+",
+"digest": "d3f785b08142b3049b992192c349badf9872dcb0c4b8d46f0777ee26f03cd89e",
+"created_at": 1795638041,
+"updated_at": 1795638041,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Wheel of Time",
 "year": "2021",
 "audioTypes": [
