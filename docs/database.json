@@ -2303112,6 +2303112,130 @@
 "filterAuthor": "human"
 },
 {
+"title": "Wicker",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/wicker/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004106823840329",
+"-1.9981893599685532",
+"0.9977825662855115"
+],
+"a": [
+"1.9981903843471638",
+"-0.9981922242909338"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004106823840329",
+"-1.9981893599685532",
+"0.9977825662855115"
+],
+"a": [
+"1.9981903843471638",
+"-0.9981922242909338"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 34.0,
+"gain": -2.2,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9998716328404417",
+"-1.9988476497407548",
+"0.9989809659942721"
+],
+"a": [
+"1.9988476497407548",
+"-0.998852598834714"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Wicker/Wicker%20(2026)%204K%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/W/Wicker/Wicker%20(2026)%204K%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "wicker",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+"theMovieDB": "1195803",
+"rating": "R",
+"runtime": "105",
+"genres": [
+"Romance",
+"Fantasy",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Wicker (2026) BEQ DD+",
+"digest": "6267695b64fd73a133950aab70f7464f2f599e1b2c0451cc1c7609bda3542c21",
+"created_at": 1795625127,
+"updated_at": 1795625127,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Wildcat",
 "year": "2025",
 "audioTypes": [
