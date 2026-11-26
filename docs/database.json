@@ -2045841,6 +2045841,130 @@
 "filterAuthor": "model"
 },
 {
+"title": "South Park",
+"year": "1997",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/south-park/#season-29e06",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 14.01,
+"gain": 4.68,
+"q": 0.92,
+"biquads": {
+"96000": {
+"b": [
+"1.00013471731895",
+"-1.9991284263796614",
+"0.9989948093437558"
+],
+"a": [
+"1.9991286555438057",
+"-0.9991292974985612"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.44,
+"gain": 1.77,
+"q": 0.3,
+"biquads": {
+"96000": {
+"b": [
+"1.0003597274842688",
+"-1.9932922416134027",
+"0.9929374888739794"
+],
+"a": [
+"1.9932927001784497",
+"-0.9932967577932007"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 35.64,
+"gain": 5.82,
+"q": 1.2,
+"biquads": {
+"96000": {
+"b": [
+"1.000327806001409",
+"-1.9983515562699024",
+"0.9980313506567546"
+],
+"a": [
+"1.9983534119737245",
+"-0.9983573009543408"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 80.93,
+"gain": 0.55,
+"q": 0.95,
+"biquads": {
+"96000": {
+"b": [
+"1.0000884686206106",
+"-1.9944989796038364",
+"0.9944393908608923"
+],
+"a": [
+"1.9944998656090738",
+"-0.9945269734762658"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20%281997%29%20%28Season%20S29E06%29%20%28%2B6.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/South%20Park%20%281997%29%20%28Season%20S29E06%29%20%28%2B6.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "29E06",
+"episode": "",
+"mv": "6.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1780#post-64852599",
+"sortTitle": "south park",
+"edition": "",
+"note": "Dialnorm Compensation: 5dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+"theMovieDB": "2190",
+"rating": "TV-MA",
+"genres": [
+"Comedy",
+"Animation"
+],
+"underlying": "South Park (1997) (Season S29E06) (+6.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "f3d7c3b596a80276dce77030b2b29ab7ccf129439d9bd08d568219cc662ea7d7",
+"created_at": 1795681999,
+"updated_at": 1795681999,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "Spartacus: House of Ashur",
 "year": "2025",
 "audioTypes": [
