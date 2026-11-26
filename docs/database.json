@@ -2071692,6 +2071692,169 @@
 "filterAuthor": "human"
 },
 {
+"title": "2012",
+"year": "2009",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/2012/#dd",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 23.0,
+"gain": 2.2,
+"q": 4.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000477796503333",
+"-1.9996662184388567",
+"0.9996207044805014"
+],
+"a": [
+"1.9996662184388567",
+"-0.9996684841308345"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004106823840329",
+"-1.9981893599685532",
+"0.9977825662855115"
+],
+"a": [
+"1.9981903843471638",
+"-0.9981922242909338"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004106823840329",
+"-1.9981893599685532",
+"0.9977825662855115"
+],
+"a": [
+"1.9981903843471638",
+"-0.9981922242909338"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004106823840329",
+"-1.9981893599685532",
+"0.9977825662855115"
+],
+"a": [
+"1.9981903843471638",
+"-0.9981922242909338"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -2.7,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998547329985468",
+"-1.9989067111320444",
+"0.9990578393033946"
+],
+"a": [
+"1.9989067111320444",
+"-0.9989125723019413"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/2012/2012%20(2009)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/%23/2012/2012%20(2009)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "2012",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Peacock",
+"overview": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build \"arks\" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
+"theMovieDB": "14161",
+"rating": "PG-13",
+"runtime": "158",
+"genres": [
+"Action",
+"Adventure",
+"Science Fiction"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "2012 (2009) (Peacock) BEQ DD+",
+"digest": "539b0ec2ed137f0f0fa88b0d3199548931e59a7073e6f9b04656193bb1d73b64",
+"created_at": 1795668469,
+"updated_at": 1795668469,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "24 Hour Party People",
 "year": "2002",
 "audioTypes": [
@@ -2098668,6 +2098831,210 @@
 "digest": "a2d94e6b222ee36c79ba8a157bb5b53cf2caecad8a1ad866625834f83c42ec2c",
 "created_at": 1773322757,
 "updated_at": 1773322757,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Blacklight",
+"year": "2022",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/blacklight/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002272256809936",
+"-1.9988982012948295",
+"0.9986723363085198"
+],
+"a": [
+"1.9988985406607693",
+"-0.9988992226235734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 6.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002272256809936",
+"-1.9988982012948295",
+"0.9986723363085198"
+],
+"a": [
+"1.9988985406607693",
+"-0.9988992226235734"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -4.7,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9997932809926161",
+"-1.9990068161365675",
+"0.9992173885498428"
+],
+"a": [
+"1.9990068161365675",
+"-0.999010669542459"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.3,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000676892937022",
+"-1.9961322965520407",
+"0.99607999879169"
+],
+"a": [
+"1.9961322965520407",
+"-0.9961476880853919"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blacklight/Blacklight%20(2022)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Blacklight/Blacklight%20(2022)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "blacklight",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disney+",
+"overview": "Travis Block is a shadowy Government agent who specializes in removing operatives whose covers have been exposed. He then has to uncover a deadly conspiracy within his own ranks that reaches the highest echelons of power.",
+"theMovieDB": "823625",
+"rating": "PG-13",
+"runtime": "104",
+"genres": [
+"Action",
+"Thriller",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Blacklight (2022) (Disney+) BEQ DD+",
+"digest": "7302a6578c077b79bc0f5192c91d1180358cfecc0f7e1d2a3a37ec415529b723",
+"created_at": 1795668469,
+"updated_at": 1795668469,
 "audioCodecs": [
 "DD+"
 ],
@@ -2157177,6 +2157544,210 @@
 "updated_at": 1762991288,
 "audioCodecs": [
 "DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Hit Man",
+"year": "2023",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/hit-man/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 45.0,
+"gain": -3.1,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9997969171875948",
+"-1.9986381586912598",
+"0.9988499100853724"
+],
+"a": [
+"1.9986381586912598",
+"-0.9986468272729673"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000075110065843",
+"-1.9935081458550943",
+"0.9934757343308118"
+],
+"a": [
+"1.9935081458550943",
+"-0.993550844396655"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hit%20Man/Hit%20Man%20(2023)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/H/Hit%20Man/Hit%20Man%20(2023)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "hit man",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+"theMovieDB": "974635",
+"rating": "R",
+"runtime": "116",
+"genres": [
+"Comedy",
+"Romance",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Hit Man (2023) (Netflix) BEQ DD+ Atmos",
+"digest": "9d1a77785a38ae0eb5bc01fb37f4ae050ebed02d52d3a0083e69305628b672c7",
+"created_at": 1795668469,
+"updated_at": 1795668469,
+"audioCodecs": [
+"DD+ Atmos"
 ],
 "audioChannelCounts": [
 ""
@@ -2236919,6 +2237490,230 @@
 "filterAuthor": "human"
 },
 {
+"title": "Steps",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/steps/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -5.6,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9998587354488624",
+"-1.9989747833334868",
+"0.9991163580509572"
+],
+"a": [
+"1.9989746429117714",
+"-0.9989752339215348"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 17.0,
+"gain": 4.8,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001037729748645",
+"-1.9997174586977464",
+"0.999614923532862"
+],
+"a": [
+"1.9997174586977464",
+"-0.9997186965077267"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003649970184785",
+"-1.998751513437105",
+"0.9983887147412537"
+],
+"a": [
+"1.9987521750144182",
+"-0.9987530501824189"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003649970184785",
+"-1.998751513437105",
+"0.9983887147412537"
+],
+"a": [
+"1.9987521750144182",
+"-0.9987530501824189"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003649970184785",
+"-1.998751513437105",
+"0.9983887147412537"
+],
+"a": [
+"1.9987521750144182",
+"-0.9987530501824189"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 18.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003649970184785",
+"-1.998751513437105",
+"0.9983887147412537"
+],
+"a": [
+"1.9987521750144182",
+"-0.9987530501824189"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 26.0,
+"gain": -4.9,
+"q": 2.3,
+"biquads": {
+"96000": {
+"b": [
+"0.9997886333723093",
+"-1.9990166206016247",
+"0.9992308815783344"
+],
+"a": [
+"1.9990166206016247",
+"-0.9990195149506438"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 55.0,
+"gain": 0.1,
+"q": 2.5,
+"biquads": {
+"96000": {
+"b": [
+"1.0000082828102277",
+"-1.9985564465499372",
+"0.9985611125961988"
+],
+"a": [
+"1.9985564465499372",
+"-0.9985693954064264"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000067620955594",
+"-1.9941592828797094",
+"0.9941262589221723"
+],
+"a": [
+"1.9941592828797094",
+"-0.9941938798777665"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Steps/Steps%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/S/Steps/Steps%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "steps",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+"theMovieDB": "1595124",
+"rating": "PG",
+"runtime": "107",
+"genres": [
+"Animation",
+"Family",
+"Comedy",
+"Adventure",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Steps (2026) (Netflix) BEQ DD+ Atmos",
+"digest": "534ecc233c04e5f057a4694fda411b136735cc9e3d5f8230e837ed9a22d2a82d",
+"created_at": 1795668469,
+"updated_at": 1795668469,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Sting",
 "year": "2024",
 "audioTypes": [
@@ -2247466,6 +2248261,152 @@
 "digest": "ac54330f070f2de8ca350539138c8a58c577a56679ac09af58bf314d6fd5eb1d",
 "created_at": 1775595524,
 "updated_at": 1775595524,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Brothers Grimm",
+"year": "2005",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-brothers-grimm/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 10.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0002547022877692",
+"-1.9993453067601548",
+"0.9990913659816586"
+],
+"a": [
+"1.9993455671096032",
+"-0.9993458079199797"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": -2.3,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9999031044765202",
+"-1.9991633853086603",
+"0.9992638819075148"
+],
+"a": [
+"1.9991633853086603",
+"-0.9991669863840351"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Brothers%20Grimm/The%20Brothers%20Grimm%20(2005)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Brothers%20Grimm/The%20Brothers%20Grimm%20(2005)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "brothers grimm",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Paramount+",
+"overview": "Folklore collectors and con artists, Jake and Will Grimm, travel from village to village pretending to protect townsfolk from enchanted creatures and performing exorcisms. However, they are put to the test when they encounter a real magical curse in a haunted forest with real magical beings, requiring genuine courage.",
+"theMovieDB": "4442",
+"rating": "PG-13",
+"runtime": "118",
+"genres": [
+"Adventure",
+"Fantasy",
+"Action",
+"Comedy",
+"Thriller"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Brothers Grimm (2005) (Paramount+) BEQ DD+",
+"digest": "8f5a5a6535b22d956e95bcaa961a65dcac17c9c38cef81decc4092ecc34f23aa",
+"created_at": 1795668469,
+"updated_at": 1795668469,
 "audioCodecs": [
 "DD+"
 ],
