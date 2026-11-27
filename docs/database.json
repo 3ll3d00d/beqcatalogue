@@ -2093870,6 +2093870,256 @@
 "filterAuthor": "human"
 },
 {
+"title": "Batman: Soul of the Dragon",
+"year": "2021",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/batman-soul-of-the-dragon/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": -5.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"0.9998739805307161",
+"-1.9989923242208676",
+"0.9991186647592193"
+],
+"a": [
+"1.9989921992801452",
+"-0.9989927702306581"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000405564975543",
+"-1.998612699125038",
+"0.9982098479400572"
+],
+"a": [
+"1.9986135158305778",
+"-0.9986145962100599"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -2.1,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.999908524778317",
+"-1.9991442804107082",
+"0.9992396093032669"
+],
+"a": [
+"1.9991442804107082",
+"-0.999148134081584"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Batman/Batman%20-%20Soul%20of%20the%20Dragon%20(2021)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Batman/Batman%20-%20Soul%20of%20the%20Dragon%20(2021)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "batman: soul of the dragon",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.",
+"theMovieDB": "732450",
+"rating": "R",
+"runtime": "83",
+"genres": [
+"Animation",
+"Action",
+"Adventure",
+"Crime"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Batman- Soul of the Dragon (2021) BEQ DD+",
+"digest": "ea849b84da34854b3946efcdf885bc68296f04f10b625d21cda4fc83df2725fd",
+"created_at": 1795751131,
+"updated_at": 1795751131,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Batman: The Doom That Came to Gotham",
+"year": "2022",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/batman-the-doom-that-came-to-gotham/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004573406993695",
+"-1.9986519291705869",
+"0.9981974631205194"
+],
+"a": [
+"1.9986528565132071",
+"-0.998653876477269"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 25.0,
+"gain": -2.3,
+"q": 2.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9999012827483175",
+"-1.999148648769157",
+"0.9992500421857041"
+],
+"a": [
+"1.999148648769157",
+"-0.9991513249340217"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Batman/Batman%20-%20The%20Doom%20That%20Came%20to%20Gotham%20(2022)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/B/Batman/Batman%20-%20The%20Doom%20That%20Came%20to%20Gotham%20(2022)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "batman: the doom that came to gotham",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Explorer Bruce Wayne accidentally unleashes an ancient evil, and returns to Gotham after being away for two decades. There, Batman battles Lovecraftian supernatural forces and encounters allies and enemies such as Green Arrow, Ra's al Ghul, Mr. Freeze, Killer Croc, Two-Face and James Gordon.",
+"theMovieDB": "1003579",
+"rating": "PG-13",
+"runtime": "86",
+"genres": [
+"Animation",
+"Fantasy",
+"Action",
+"Mystery"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Batman- The Doom That Came to Gotham (2022) BEQ DD+",
+"digest": "a336231cacf030c78b74779b715cedcef152b87d75e8b3db38bd30880d8f3570",
+"created_at": 1795751131,
+"updated_at": 1795751131,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Battle of Oslo",
 "year": "2025",
 "audioTypes": [
@@ -2111090,6 +2111340,188 @@
 "filterAuthor": "human"
 },
 {
+"title": "Clashing Through the Snow",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/clashing-through-the-snow/#dd",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 29.0,
+"gain": -4.0,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999118384581315",
+"-1.9995186131802438",
+"0.999610376437356"
+],
+"a": [
+"1.9995186131802438",
+"-0.9995222148954874"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 30.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0006084428963844",
+"-1.997918347186967",
+"0.9973160082053688"
+],
+"a": [
+"1.9979201841382377",
+"-0.9979226141504823"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 51.0,
+"gain": -2.2,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.999837097780819",
+"-1.9985327758063096",
+"0.99870681176147"
+],
+"a": [
+"1.9985327758063096",
+"-0.9985439095422889"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 110.0,
+"gain": 0.2,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000825943158138",
+"-1.9928565776899618",
+"0.9928256319165064"
+],
+"a": [
+"1.9928565776899618",
+"-0.9929082262323201"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Clashing%20Through%20the%20Snow/Clashing%20Through%20the%20Snow%20(2026)%204K%20HDR%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/C/Clashing%20Through%20the%20Snow/Clashing%20Through%20the%20Snow%20(2026)%204K%20HDR%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "clashing through the snow",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Amazon",
+"overview": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+"theMovieDB": "1611767",
+"rating": "PG-13",
+"runtime": "110",
+"genres": [
+"Romance",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Clashing Through the Snow (2026) (Amazon) BEQ DD+",
+"digest": "2b50cc3433270181c11ae265bdde822e733cacdbc0b437fe5a2ca96c00874b42",
+"created_at": 1795751131,
+"updated_at": 1795751131,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Cleaner",
 "year": "2025",
 "audioTypes": [
@@ -2119555,6 +2119987,132 @@
 "digest": "ca46b61f242aed744a3a6d8bdce8bf897dc7da89c9469ff064935b2f151087df",
 "created_at": 1750697991,
 "updated_at": 1750697991,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "DC Showcase - Batman: Death in the Family",
+"year": "2020",
+"audioTypes": [
+"DD+"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/dc-showcase-batman-death-in-the-family/#dd",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 3.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0000754525600042",
+"-1.9991994114359322",
+"0.9991244677888477"
+],
+"a": [
+"1.9991994857510142",
+"-0.9991998460337702"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 4.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000151999515998",
+"-1.9994785356129596",
+"0.9993282491244134"
+],
+"a": [
+"1.9994785356129596",
+"-0.9994802486404113"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0005069959941155",
+"-1.9982655815500239",
+"0.9977628251195103"
+],
+"a": [
+"1.9982668574314897",
+"-0.9982685452321594"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 36.0,
+"gain": -1.8,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998981483319345",
+"-1.998906115110552",
+"0.9990135154074936"
+],
+"a": [
+"1.998906115110552",
+"-0.998911663739428"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/DC%20Showcase%20-%20Batman%20-%20Death%20in%20the%20Family/DC%20Showcase%20-%20Batman-%20Death%20in%20the%20Family%20(2020)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/D/DC%20Showcase%20-%20Batman%20-%20Death%20in%20the%20Family/DC%20Showcase%20-%20Batman-%20Death%20in%20the%20Family%20(2020)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "dc showcase - batman: death in the family",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Tragedy strikes the Batman's life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.",
+"theMovieDB": "618353",
+"rating": "R",
+"runtime": "31",
+"genres": [
+"Animation",
+"Action"
+],
+"altTitle": "",
+"collection": {
+"id": "1737864",
+"name": "The Red Hood Collection"
+},
+"underlying": "DC Showcase - Batman- Death in the Family (2020) BEQ DD+",
+"digest": "15ca64269ac75002835ad0f54a3d92cf63acc035fc55ade771780d8552a9ab7e",
+"created_at": 1795751131,
+"updated_at": 1795751131,
 "audioCodecs": [
 "DD+"
 ],
@@ -2194102,6 +2194660,168 @@
 "digest": "3064e46594261a0fd242e46548f637382b730caec9820b901fbc3a8c148f7c82",
 "created_at": 1755449403,
 "updated_at": 1755449403,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
+"title": "Misty Green",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/misty-green/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000385280679023",
+"-1.998682108618685",
+"0.9982992772204718"
+],
+"a": [
+"1.9986828457209633",
+"-0.9986838207972161"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000385280679023",
+"-1.998682108618685",
+"0.9982992772204718"
+],
+"a": [
+"1.9986828457209633",
+"-0.9986838207972161"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 8.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000385280679023",
+"-1.998682108618685",
+"0.9982992772204718"
+],
+"a": [
+"1.9986828457209633",
+"-0.9986838207972161"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 5.3,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001351747790181",
+"-1.999676737610375",
+"0.9995432760286159"
+],
+"a": [
+"1.999676737610375",
+"-0.999678450807634"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 30.0,
+"gain": -3.1,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998533013915495",
+"-1.9990186706652575",
+"0.9991692227024507"
+],
+"a": [
+"1.9990186706652575",
+"-0.9990225240940003"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Misty%20Green/Misty%20Green%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/M/Misty%20Green/Misty%20Green%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "misty green",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
+"theMovieDB": "1381221",
+"rating": "R",
+"runtime": "103",
+"genres": [
+"Drama",
+"Comedy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Misty Green (2026) (Netflix) BEQ DD+ Atmos",
+"digest": "8dc37ed1d2851e4bd5960077b4a8718f3f3ee21a5cd450be3dc0a6b0e013d2a6",
+"created_at": 1795751131,
+"updated_at": 1795751131,
 "audioCodecs": [
 "DD+ Atmos"
 ],
