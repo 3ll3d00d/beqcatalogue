@@ -2272991,6 +2272991,227 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Mosquito Bowl",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-mosquito-bowl/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000228631392625",
+"-1.999326224609043",
+"0.9990983121206608"
+],
+"a": [
+"1.9993264565227389",
+"-0.9993267115995896"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.9,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003390813408253",
+"-1.9989862358001527",
+"0.9986487624363604"
+],
+"a": [
+"1.998986751219555",
+"-0.9989873283577825"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.9,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003390813408253",
+"-1.9989862358001527",
+"0.9986487624363604"
+],
+"a": [
+"1.998986751219555",
+"-0.9989873283577825"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.9,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003390813408253",
+"-1.9989862358001527",
+"0.9986487624363604"
+],
+"a": [
+"1.998986751219555",
+"-0.9989873283577825"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 15.0,
+"gain": 8.9,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003390813408253",
+"-1.9989862358001527",
+"0.9986487624363604"
+],
+"a": [
+"1.998986751219555",
+"-0.9989873283577825"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 21.0,
+"gain": -6.2,
+"q": 2.3,
+"biquads": {
+"96000": {
+"b": [
+"0.9997822575698889",
+"-1.9991445899814493",
+"0.9993642207090349"
+],
+"a": [
+"1.9991445899814493",
+"-0.9991464782789237"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": 0.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000008787927223",
+"-1.9992401990135782",
+"0.9992366566153128"
+],
+"a": [
+"1.9992401990135782",
+"-0.9992454445425358"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 50.0,
+"gain": 0.4,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000251061001686",
+"-1.9989238658423623",
+"0.9989094632338477"
+],
+"a": [
+"1.9989238658423623",
+"-0.998934569334016"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 90.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000033809350989",
+"-1.994125862230346",
+"0.9941266492975938"
+],
+"a": [
+"1.994125862230346",
+"-0.9941604586485825"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Mosquito%20Bowl/The%20Mosquito%20Bowl%20(2026)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Mosquito%20Bowl/The%20Mosquito%20Bowl%20(2026)%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "mosquito bowl",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+"theMovieDB": "1458300",
+"rating": "R",
+"runtime": "129",
+"genres": [
+"War",
+"Drama"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Mosquito Bowl (2026) (Netflix) BEQ DD+ Atmos",
+"digest": "e1fab3a6ae8e20f9312be636d7db47894de24f17ecf10a3d9de8d508813fa5df",
+"created_at": 1795740168,
+"updated_at": 1795740168,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Mothman Prophecies",
 "year": "2002",
 "audioTypes": [
