@@ -2372711,6 +2372711,129 @@
 "filterAuthor": "human"
 },
 {
+"title": "YAGA",
+"year": "2026",
+"audioTypes": [
+"DD+"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/yaga/#season-01",
+"filters": [
+{
+"type": "PeakingEQ",
+"freq": 20.0,
+"gain": 3.0,
+"q": 2.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001135592277017",
+"-1.9994477469126632",
+"0.9993359006860358"
+],
+"a": [
+"1.9994477469126632",
+"-0.9994494599137373"
+]
+}
+}
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004106823840329",
+"-1.9981893599685532",
+"0.9977825662855115"
+],
+"a": [
+"1.9981903843471638",
+"-0.9981922242909338"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 6.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004106823840329",
+"-1.9981893599685532",
+"0.9977825662855115"
+],
+"a": [
+"1.9981903843471638",
+"-0.9981922242909338"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 37.0,
+"gain": -2.1,
+"q": 2.6,
+"biquads": {
+"96000": {
+"b": [
+"0.9998871918090505",
+"-1.9989436088470462",
+"0.9990622783160835"
+],
+"a": [
+"1.9989436088470462",
+"-0.9989494701251342"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/Y/Yaga/YAGA%20S01E01-08%20(2026)%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/Y/Yaga/YAGA%20S01E01-08%20(2026)%20DD%2B%205.1hm.jpg"
+],
+"warning": "",
+"season": "01",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "yaga",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Amazon",
+"overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+"theMovieDB": "314360",
+"rating": "TV-MA",
+"genres": [
+"Drama",
+"Sci-Fi & Fantasy",
+"Mystery"
+],
+"underlying": "YAGA (2026) (Season 01) (Amazon) BEQ DD+",
+"digest": "e0c7624e284d7374fd1107b58668fa574ae48d9d4fd5f34704c2e68007350dce",
+"created_at": 1795812696,
+"updated_at": 1795812696,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Yellowjackets",
 "year": "2021",
 "audioTypes": [
