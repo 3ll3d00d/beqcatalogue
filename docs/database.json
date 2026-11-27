@@ -2060625,6 +2060625,130 @@
 "title": "The Lord of the Rings: The Rings of Power",
 "year": "2022",
 "audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-lord-of-the-rings-the-rings-of-power/#season-03e01",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 11.5,
+"gain": 7.6,
+"q": 0.79,
+"biquads": {
+"96000": {
+"b": [
+"1.0002101235720398",
+"-1.9992341113327834",
+"0.9990248648559659"
+],
+"a": [
+"1.9992343670633221",
+"-0.9992347326974667"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 34.8,
+"gain": 5.78,
+"q": 1.01,
+"biquads": {
+"96000": {
+"b": [
+"1.0003774144802975",
+"-1.9980868638621936",
+"0.9977166780999923"
+],
+"a": [
+"1.998088620282918",
+"-0.9980923361595649"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 27.51,
+"gain": 1.98,
+"q": 1.29,
+"biquads": {
+"96000": {
+"b": [
+"1.0000797183416246",
+"-1.9986791709369884",
+"0.9986030834776687"
+],
+"a": [
+"1.998679540997692",
+"-0.998682431758589"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 51.59,
+"gain": 3.01,
+"q": 0.59,
+"biquads": {
+"96000": {
+"b": [
+"1.0004961195306832",
+"-1.9947541598724603",
+"0.9942715629357272"
+],
+"a": [
+"1.994756140045387",
+"-0.9947657022934838"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E01%29%20%28%2B2.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E01%29%20%28%2B2.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "03E01",
+"episode": "",
+"mv": "2.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1812#post-65052171",
+"sortTitle": "the lord of the rings: the rings of power",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+"theMovieDB": "84773",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Sci-Fi & Fantasy"
+],
+"underlying": "The Lord of the Rings - The Rings of Power (2022) (Season S03E01) (+2.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "f280f8c4007aa3ecdb7c14ba11dca48c8cdbd1bf0b6cf5dba258c6e2d9b8332c",
+"created_at": 1795813184,
+"updated_at": 1795813184,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "The Lord of the Rings: The Rings of Power",
+"year": "2022",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "TV",
