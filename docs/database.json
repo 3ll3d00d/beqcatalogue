@@ -2360906,6 +2360906,168 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Hunchback, Soul of Paris",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "TV",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-hunchback-soul-of-paris",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000126035352192",
+"-1.9992441429660108",
+"0.9991186786362914"
+],
+"a": [
+"1.99924426792248",
+"-0.999244589032014"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004747942464156",
+"-1.9982405413540658",
+"0.9977698663344062"
+],
+"a": [
+"1.9982417324356838",
+"-0.9982434694992033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004747942464156",
+"-1.9982405413540658",
+"0.9977698663344062"
+],
+"a": [
+"1.9982417324356838",
+"-0.9982434694992033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004747942464156",
+"-1.9982405413540658",
+"0.9977698663344062"
+],
+"a": [
+"1.9982417324356838",
+"-0.9982434694992033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -3.6,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998008994794758",
+"-1.9988211824734587",
+"0.9990255274235412"
+],
+"a": [
+"1.9988211824734587",
+"-0.998826426903017"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Hunchback%2C%20Soul%20of%20Paris/The%20Hunchback%2C%20Soul%20of%20Paris%20(2026)%202K%20HDR%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Hunchback%2C%20Soul%20of%20Paris/The%20Hunchback%2C%20Soul%20of%20Paris%20(2026)%202K%20HDR%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"season": "",
+"episode": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "hunchback, soul of paris",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Netflix",
+"overview": "Paris, 1830. As cholera threatens to ravage the city, a hunchback hunted for medical experiments is caught between political turmoil and impossible love.",
+"theMovieDB": "1480665",
+"rating": "",
+"genres": [
+"Drama",
+"Romance"
+],
+"underlying": "The Hunchback, Soul of Paris (2026) (Netflix) BEQ DD+ Atmos",
+"digest": "527f479e0d27febb3360d0c8c1a9db0dd8ea7c1b35590dd0aa7859add2e364f3",
+"created_at": 1795814498,
+"updated_at": 1795814498,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Hunting Party",
 "year": "2025",
 "audioTypes": [
