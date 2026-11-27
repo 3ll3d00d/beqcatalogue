@@ -2167903,6 +2167903,174 @@
 "filterAuthor": "human"
 },
 {
+"title": "Insidious: Out of the Further",
+"year": "2026",
+"audioTypes": [
+"DTS-HD MA 5.1",
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/insidious-out-of-the-further/#dts-hd-ma-51-dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003201057721864",
+"-1.9990565688036128",
+"0.9987378718940376"
+],
+"a": [
+"1.9990570232932594",
+"-0.9990575231765777"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003201057721864",
+"-1.9990565688036128",
+"0.9987378718940376"
+],
+"a": [
+"1.9990570232932594",
+"-0.9990575231765777"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 14.0,
+"gain": 9.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0003201057721864",
+"-1.9990565688036128",
+"0.9987378718940376"
+],
+"a": [
+"1.9990570232932594",
+"-0.9990575231765777"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 18.0,
+"gain": 2.8,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000635593956726",
+"-1.9996644271194728",
+"0.9996022554048486"
+],
+"a": [
+"1.9996644271194728",
+"-0.9996658148005212"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 27.0,
+"gain": -1.5,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999490905991218",
+"-1.9993549129851578",
+"0.9994089441873752"
+],
+"a": [
+"1.9993549129851578",
+"-0.9993580347864971"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 60.0,
+"gain": 0.2,
+"q": 3.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000150609338863",
+"-1.9986914157741895",
+"0.9986917661061987"
+],
+"a": [
+"1.9986914157741895",
+"-0.9987068270400851"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Insidious%20-%20Out%20of%20the%20Further/Insidious%20-%20Out%20of%20the%20Further%20(2026)%202K%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Insidious%20-%20Out%20of%20the%20Further/Insidious%20-%20Out%20of%20the%20Further%20(2026)%202K%20DTS-HD%20MA%205.1hm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "insidious: out of the further",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+"theMovieDB": "1291595",
+"rating": "PG-13",
+"runtime": "106",
+"genres": [
+"Horror",
+"Thriller"
+],
+"altTitle": "",
+"collection": {
+"id": "228446",
+"name": "Insidious Collection"
+},
+"underlying": "Insidious- Out of the Further (2026) BEQ DTS-HD MA 5.1",
+"digest": "4ce9014b2b85ead5edf12d8e87bbaece08fbf0ca6b70525f19bd14816967bd47",
+"created_at": 1795738971,
+"updated_at": 1795738971,
+"audioCodecs": [
+"DTS-HD MA",
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+"5.1",
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Interstellar",
 "year": "2014",
 "audioTypes": [

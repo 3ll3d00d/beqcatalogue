@@ -14,3 +14,17 @@ Gemma, a young mother raising her daughter in the house she grew up in, discover
 
 ![img 1](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Insidious%20-%20Out%20of%20the%20Further/Insidious%20-%20Out%20of%20the%20Further%20(2026)%20DD%2B%205.1hm.jpg)
 
+## DTS-HD MA 5.1, DD+ Atmos
+
+**2026 • PG-13 • 1h 46m • Horror, Thriller • mikejl**
+
+Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.
+{ data-search-exclude }
+
+[TMDB](https://www.themoviedb.org/movie/1291595)  [Compare across authors](../compare/index.md?t=film-insidious-out-of-the-further_1291595)
+{ data-search-exclude }
+
+![img 2](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Insidious%20-%20Out%20of%20the%20Further/Insidious%20-%20Out%20of%20the%20Further%20(2026)%202K%20DTS-HD%20MA%205.1.jpg)
+
+![img 3](https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/I/Insidious%20-%20Out%20of%20the%20Further/Insidious%20-%20Out%20of%20the%20Further%20(2026)%202K%20DTS-HD%20MA%205.1hm.jpg)
+
