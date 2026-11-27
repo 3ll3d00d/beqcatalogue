@@ -1612194,6 +1612194,170 @@
 "filterAuthor": "human"
 },
 {
+"title": "Street Fighter",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "t1g8rsfan",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/t1g8rsfan/street-fighter/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 12.0,
+"gain": 6.0,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0001704240510176",
+"-1.999173649586985",
+"0.9990040965004099"
+],
+"a": [
+"1.9991738668110766",
+"-0.9991743033273361"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 4.5,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.000146961748162",
+"-1.999005734559573",
+"0.9988607754788943"
+],
+"a": [
+"1.9990061394367116",
+"-0.9990073323499175"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 4.5,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.000146961748162",
+"-1.999005734559573",
+"0.9988607754788943"
+],
+"a": [
+"1.9990061394367116",
+"-0.9990073323499175"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 4.5,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.000146961748162",
+"-1.999005734559573",
+"0.9988607754788943"
+],
+"a": [
+"1.9990061394367116",
+"-0.9990073323499175"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.0,
+"gain": 4.5,
+"q": 1.1,
+"biquads": {
+"96000": {
+"b": [
+"1.000146961748162",
+"-1.999005734559573",
+"0.9988607754788943"
+],
+"a": [
+"1.9990061394367116",
+"-0.9990073323499175"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 33.0,
+"gain": 2.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.0003267723393054",
+"-1.9976058074954934",
+"0.997283694511079"
+],
+"a": [
+"1.9976058074954934",
+"-0.9976104668503846"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Street%20Fighter%20(2026)%20(%2B2%20gain)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Street%20Fighter%20(2026)%20DD%2B%20Atmos.jpg"
+],
+"warning": "",
+"mv": "2.0",
+"avs": "",
+"sortTitle": "street fighter",
+"edition": "",
+"note": "+5dB Dialnorm Compensation",
+"language": "English",
+"source": "iTunes",
+"overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+"theMovieDB": "1153576",
+"rating": "PG-13",
+"runtime": "120",
+"genres": [
+"Action",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Street Fighter (2026) (iTunes) (+2.0 gain) BEQ DD+ Atmos",
+"digest": "931e4bb54f2f9f71762e2e32eb9c9705e0ee0d3acf2bc2414de22ef08197b88c",
+"created_at": 1795822457,
+"updated_at": 1795822457,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Sunshine",
 "year": "2007",
 "audioTypes": [
