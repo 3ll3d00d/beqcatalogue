@@ -4,6 +4,28 @@
 
 ## Season 03
 
+* DD+ 5.1
+
+
+**MV Adjustment:** +2.0 dB
+
+Dialnorm Compensation: 4 dB — S03E05–S03E06; 5 dB — S03E03 AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1812#post-65053019)
+
+* [Compare across authors](../compare/index.md?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03%29%20%28%2B2.0%20gain%29%20DD%2B%205.1%20%28Revision%2094fd63a2f54e%29.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03%29%20%28%2B2.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum%20%28Revision%2094fd63a2f54e%29.jpg)
+
+## Season 03
+
 * DD+ Atmos
 
 
