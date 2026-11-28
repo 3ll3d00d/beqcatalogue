@@ -158,6 +158,28 @@ Dialnorm Compensation: 4dB AI Created
 
 ## Season 03E06
 
+* DD+ 5.1
+
+
+**MV Adjustment:** +3.0 dB
+
+Dialnorm Compensation: 4dB AI Created
+{ data-search-exclude }
+
+* [Forum Post](https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1812#post-65052171)
+
+* [Compare across authors](../compare/index.md?t=TV-the-lord-of-the-rings-the-rings-of-power_84773)
+
+* Production Year: 2022
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E06%29%20%28%2B3.0%20gain%29%20DD%2B%205.1.jpg)
+
+
+![img 0](https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E06%29%20%28%2B3.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg)
+
+## Season 03E06
+
 * DD+ Atmos
 
 

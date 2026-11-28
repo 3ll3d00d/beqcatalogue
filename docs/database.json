@@ -1608898,19 +1608898,19 @@
 "filters": [
 {
 "type": "LowShelf",
-"freq": 21.0,
+"freq": 10.0,
 "gain": 5.0,
-"q": 0.9,
+"q": 0.7,
 "biquads": {
 "96000": {
 "b": [
-"1.0002206655149872",
-"-1.9986764387932208",
-"0.9984582907741081"
+"1.0001350297716542",
+"-1.9991902068871046",
+"0.999055748122518"
 ],
 "a": [
-"1.9986769896951746",
-"-0.9986784053871409"
+"1.999190331840203",
+"-0.9991906529410738"
 ]
 }
 },
@@ -1608918,19 +1608918,19 @@
 },
 {
 "type": "LowShelf",
-"freq": 21.0,
-"gain": 5.0,
+"freq": 22.0,
+"gain": 4.4,
 "q": 0.9,
 "biquads": {
 "96000": {
 "b": [
-"1.0002206655149872",
-"-1.9986764387932208",
-"0.9984582907741081"
+"1.000203277040086",
+"-1.998589277415405",
+"0.9983886694248277"
 ],
 "a": [
-"1.9986769896951746",
-"-0.9986784053871409"
+"1.998589807809476",
+"-0.9985914160708432"
 ]
 }
 },
@@ -1608938,19 +1608938,39 @@
 },
 {
 "type": "LowShelf",
-"freq": 21.0,
-"gain": 5.0,
+"freq": 22.0,
+"gain": 4.4,
 "q": 0.9,
 "biquads": {
 "96000": {
 "b": [
-"1.0002206655149872",
-"-1.9986764387932208",
-"0.9984582907741081"
+"1.000203277040086",
+"-1.998589277415405",
+"0.9983886694248277"
 ],
 "a": [
-"1.9986769896951746",
-"-0.9986784053871409"
+"1.998589807809476",
+"-0.9985914160708432"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 22.0,
+"gain": 4.4,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.000203277040086",
+"-1.998589277415405",
+"0.9983886694248277"
+],
+"a": [
+"1.998589807809476",
+"-0.9985914160708432"
 ]
 }
 },
@@ -1608959,18 +1608979,18 @@
 {
 "type": "PeakingEQ",
 "freq": 51.0,
-"gain": 0.6,
+"gain": 0.5,
 "q": 0.9,
 "biquads": {
 "96000": {
 "b": [
-"1.0001278943810656",
-"-1.9964123785387808",
-"0.9962956060810567"
+"1.0001065710765646",
+"-1.996391768431846",
+"0.9962963191638049"
 ],
 "a": [
-"1.9964123785387808",
-"-0.9964235004621227"
+"1.996391768431846",
+"-0.9964028902403698"
 ]
 }
 }
@@ -1609000,9 +1609020,9 @@
 "altTitle": "",
 "collection": {},
 "underlying": "Resident Evil (2026) (iTunes) (+1.5 gain) BEQ DD+ Atmos",
-"digest": "63cc3a0278d48a0554885b5b0aa9e1ebae9590b0eb5e46f9e5fd32245288743f",
+"digest": "9bcfd7314c05152c86360904cf0fdbbc06eab5a9f1f54e0e632fcb5a2685736a",
 "created_at": 1795823940,
-"updated_at": 1795823940,
+"updated_at": 1795824640,
 "audioCodecs": [
 "DD+ Atmos"
 ],
@@ -2061747,6 +2061767,230 @@
 ],
 "audioChannelCounts": [
 ""
+],
+"filterAuthor": "model"
+},
+{
+"title": "The Lord of the Rings: The Rings of Power",
+"year": "2022",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-lord-of-the-rings-the-rings-of-power/#season-03e06",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.48,
+"q": 0.88,
+"biquads": {
+"96000": {
+"b": [
+"1.0001395603466916",
+"-1.9993825319914285",
+"0.9992435934913408"
+],
+"a": [
+"1.9993826954618463",
+"-0.9993829903676142"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.48,
+"q": 0.88,
+"biquads": {
+"96000": {
+"b": [
+"1.0001395603466916",
+"-1.9993825319914285",
+"0.9992435934913408"
+],
+"a": [
+"1.9993826954618463",
+"-0.9993829903676142"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.48,
+"q": 0.88,
+"biquads": {
+"96000": {
+"b": [
+"1.0001395603466916",
+"-1.9993825319914285",
+"0.9992435934913408"
+],
+"a": [
+"1.9993826954618463",
+"-0.9993829903676142"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.48,
+"q": 0.88,
+"biquads": {
+"96000": {
+"b": [
+"1.0001395603466916",
+"-1.9993825319914285",
+"0.9992435934913408"
+],
+"a": [
+"1.9993826954618463",
+"-0.9993829903676142"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.83,
+"q": 0.97,
+"biquads": {
+"96000": {
+"b": [
+"1.0002390634862715",
+"-1.9988006549263226",
+"0.998564232302439"
+],
+"a": [
+"1.998801300494272",
+"-0.9988026502207609"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.83,
+"q": 0.97,
+"biquads": {
+"96000": {
+"b": [
+"1.0002390634862715",
+"-1.9988006549263226",
+"0.998564232302439"
+],
+"a": [
+"1.998801300494272",
+"-0.9988026502207609"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.83,
+"q": 0.97,
+"biquads": {
+"96000": {
+"b": [
+"1.0002390634862715",
+"-1.9988006549263226",
+"0.998564232302439"
+],
+"a": [
+"1.998801300494272",
+"-0.9988026502207609"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 78.24,
+"gain": 1.52,
+"q": 0.83,
+"biquads": {
+"96000": {
+"b": [
+"1.0002703515007472",
+"-1.9940856264604896",
+"0.993843811003817"
+],
+"a": [
+"1.9940879170489403",
+"-0.9941118719161137"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 1.7,
+"q": 0.88,
+"biquads": {
+"96000": {
+"b": [
+"1.0000364141719558",
+"-1.9992915878017807",
+"0.999255645870614"
+],
+"a": [
+"1.9992916297739167",
+"-0.9992920180704343"
+]
+}
+},
+"count": 1
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E06%29%20%28%2B3.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E06%29%20%28%2B3.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "03E06",
+"episode": "",
+"mv": "3.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1812#post-65052171",
+"sortTitle": "the lord of the rings: the rings of power",
+"edition": "",
+"note": "Dialnorm Compensation: 4dB AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+"theMovieDB": "84773",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Sci-Fi & Fantasy"
+],
+"underlying": "The Lord of the Rings - The Rings of Power (2022) (Season S03E06) (+3.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "a8f99bf1cfb213aecb5820203f142c6caa8ce0c5a9c585588024105e3a01dd4f",
+"created_at": 1795824549,
+"updated_at": 1795824549,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
 ],
 "filterAuthor": "model"
 },
