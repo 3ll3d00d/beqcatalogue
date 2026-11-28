@@ -2063356,6 +2063356,227 @@
 "filterAuthor": "model"
 },
 {
+"title": "The Lord of the Rings: The Rings of Power",
+"year": "2022",
+"audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-lord-of-the-rings-the-rings-of-power/#season-03e08",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 16.26,
+"gain": 6.5,
+"q": 0.93,
+"biquads": {
+"96000": {
+"b": [
+"1.0002154501756872",
+"-1.9990501724662713",
+"0.9988363679968115"
+],
+"a": [
+"1.9990506059853985",
+"-0.9990513846533718"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.26,
+"gain": 6.5,
+"q": 0.93,
+"biquads": {
+"96000": {
+"b": [
+"1.0002154501756872",
+"-1.9990501724662713",
+"0.9988363679968115"
+],
+"a": [
+"1.9990506059853985",
+"-0.9990513846533718"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 16.26,
+"gain": 6.5,
+"q": 0.93,
+"biquads": {
+"96000": {
+"b": [
+"1.0002154501756872",
+"-1.9990501724662713",
+"0.9988363679968115"
+],
+"a": [
+"1.9990506059853985",
+"-0.9990513846533718"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.69,
+"gain": 6.5,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0005517371422479",
+"-1.9975672476450925",
+"0.9970221574094826"
+],
+"a": [
+"1.9975689986022893",
+"-0.9975721435945331"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 32.69,
+"gain": 6.5,
+"q": 0.73,
+"biquads": {
+"96000": {
+"b": [
+"1.0005517371422479",
+"-1.9975672476450925",
+"0.9970221574094826"
+],
+"a": [
+"1.9975689986022893",
+"-0.9975721435945331"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.75,
+"gain": -4.51,
+"q": 1.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9998454169235249",
+"-1.9986481099829407",
+"0.9988042551004959"
+],
+"a": [
+"1.9986475783126383",
+"-0.9986502036943228"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 30.16,
+"gain": 8.0,
+"q": 8.0,
+"biquads": {
+"96000": {
+"b": [
+"1.000117680653598",
+"-1.999840429824226",
+"0.9997266454133007"
+],
+"a": [
+"1.999840429824226",
+"-0.9998443260668985"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 44.0,
+"gain": -2.9,
+"q": 2.1,
+"biquads": {
+"96000": {
+"b": [
+"0.9997701954286446",
+"-1.9983725538388544",
+"0.9986106448997218"
+],
+"a": [
+"1.9983725538388544",
+"-0.9983808403283665"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 17.58,
+"gain": -0.27,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999996423620453",
+"-1.9997649773620088",
+"0.9997698774861943"
+],
+"a": [
+"1.9997649773620088",
+"-0.9997663011066473"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E08%29%20%28%2B1.0%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E08%29%20%28%2B1.0%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "03E08",
+"episode": "",
+"mv": "1.0",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1812#post-65052171",
+"sortTitle": "the lord of the rings: the rings of power",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+"theMovieDB": "84773",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Sci-Fi & Fantasy"
+],
+"underlying": "The Lord of the Rings - The Rings of Power (2022) (Season S03E08) (+1.0 gain) BEQ DD+ 5.1 remixmark",
+"digest": "ea0d5f3d7bd25b6361859fe1388306c1b62a72764ca76da037f10d2b9b10354e",
+"created_at": 1795829069,
+"updated_at": 1795829069,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
 "title": "The Mighty Nein",
 "year": "2025",
 "audioTypes": [
@@ -2265148,6 +2265369,169 @@
 "filterAuthor": "human"
 },
 {
+"title": "The Hunchback, Soul of Paris",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "mikejl",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-hunchback-soul-of-paris/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 5.0,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.000126035352192",
+"-1.9992441429660108",
+"0.9991186786362914"
+],
+"a": [
+"1.99924426792248",
+"-0.999244589032014"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004747942464156",
+"-1.9982405413540658",
+"0.9977698663344062"
+],
+"a": [
+"1.9982417324356838",
+"-0.9982434694992033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004747942464156",
+"-1.9982405413540658",
+"0.9977698663344062"
+],
+"a": [
+"1.9982417324356838",
+"-0.9982434694992033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 25.0,
+"gain": 7.5,
+"q": 0.75,
+"biquads": {
+"96000": {
+"b": [
+"1.0004747942464156",
+"-1.9982405413540658",
+"0.9977698663344062"
+],
+"a": [
+"1.9982417324356838",
+"-0.9982434694992033"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 35.0,
+"gain": -3.6,
+"q": 2.4,
+"biquads": {
+"96000": {
+"b": [
+"0.9998008994794758",
+"-1.9988211824734587",
+"0.9990255274235412"
+],
+"a": [
+"1.9988211824734587",
+"-0.998826426903017"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 100.0,
+"gain": 0.1,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0000375537116137",
+"-1.9934710360146628",
+"0.9934761800497618"
+],
+"a": [
+"1.9934710360146628",
+"-0.9935137337613755"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Hunchback%2C%20Soul%20of%20Paris/The%20Hunchback%2C%20Soul%20of%20Paris%20(2026)%202K%20HDR%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/MikejLarson/Images/refs/heads/main/T/The%20Hunchback%2C%20Soul%20of%20Paris/The%20Hunchback%2C%20Soul%20of%20Paris%20(2026)%202K%20HDR%20DD%2B%20Atmoshm.jpg"
+],
+"warning": "",
+"mv": "0",
+"avs": "",
+"sortTitle": "hunchback, soul of paris",
+"edition": "",
+"note": "",
+"language": "French",
+"source": "Netflix",
+"overview": "Paris, 1830. As cholera threatens to ravage the city, a hunchback hunted for medical experiments is caught between political turmoil and impossible love.",
+"theMovieDB": "1480665",
+"rating": "",
+"runtime": "106",
+"genres": [
+"Drama",
+"Romance"
+],
+"altTitle": "Quasimodo, l'\u00e2me de Paris",
+"collection": {},
+"underlying": "The Hunchback, Soul of Paris (2026) (Netflix) BEQ DD+ Atmos",
+"digest": "73422b7a233a6874cc414f301d9b72b6af88e860910f65980a34851db009c9c0",
+"created_at": 1795829080,
+"updated_at": 1795829080,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "The Hunger Games: Mockingjay - Part 1",
 "year": "2014",
 "audioTypes": [
@@ -2362522,7 +2362906,7 @@
 ],
 "content_type": "TV",
 "author": "mikejl",
-"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-hunchback-soul-of-paris",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/mikejl/the-hunchback-soul-of-paris-TV",
 "filters": [
 {
 "type": "LowShelf",
