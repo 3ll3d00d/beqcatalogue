@@ -1608887,6 +1608887,131 @@
 "filterAuthor": "human"
 },
 {
+"title": "Resident Evil",
+"year": "2026",
+"audioTypes": [
+"DD+ Atmos"
+],
+"content_type": "film",
+"author": "t1g8rsfan",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/t1g8rsfan/resident-evil/#dd-atmos",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002206655149872",
+"-1.9986764387932208",
+"0.9984582907741081"
+],
+"a": [
+"1.9986769896951746",
+"-0.9986784053871409"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002206655149872",
+"-1.9986764387932208",
+"0.9984582907741081"
+],
+"a": [
+"1.9986769896951746",
+"-0.9986784053871409"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 21.0,
+"gain": 5.0,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0002206655149872",
+"-1.9986764387932208",
+"0.9984582907741081"
+],
+"a": [
+"1.9986769896951746",
+"-0.9986784053871409"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 51.0,
+"gain": 0.6,
+"q": 0.9,
+"biquads": {
+"96000": {
+"b": [
+"1.0001278943810656",
+"-1.9964123785387808",
+"0.9962956060810567"
+],
+"a": [
+"1.9964123785387808",
+"-0.9964235004621227"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Resident%20Evil%20(2026)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg",
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/Resident%20Evil%20(2026)%20DD%2B%20Atmos.jpg"
+],
+"warning": "",
+"mv": "1.5",
+"avs": "",
+"sortTitle": "resident evil",
+"edition": "",
+"note": "+4dB Dialnorm Compensation",
+"language": "English",
+"source": "iTunes",
+"overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+"theMovieDB": "1423191",
+"rating": "R",
+"runtime": "94",
+"genres": [
+"Horror",
+"Science Fiction",
+"Adventure"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "Resident Evil (2026) (iTunes) (+1.5 gain) BEQ DD+ Atmos",
+"digest": "63cc3a0278d48a0554885b5b0aa9e1ebae9590b0eb5e46f9e5fd32245288743f",
+"created_at": 1795823940,
+"updated_at": 1795823940,
+"audioCodecs": [
+"DD+ Atmos"
+],
+"audioChannelCounts": [
+""
+],
+"filterAuthor": "human"
+},
+{
 "title": "Resident Evil: Death Island",
 "year": "2023",
 "audioTypes": [
@@ -1622339,6 +1622464,131 @@
 ],
 "audioChannelCounts": [
 ""
+],
+"filterAuthor": "human"
+},
+{
+"title": "The Odyssey",
+"year": "2026",
+"audioTypes": [
+"DTS-HD MA 5.1"
+],
+"content_type": "film",
+"author": "t1g8rsfan",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/t1g8rsfan/the-odyssey/#dts-hd-ma-51",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 4.8,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001815566717944",
+"-1.998858782779069",
+"0.9986794836176155"
+],
+"a": [
+"1.998859262003435",
+"-0.9988605610650442"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 4.8,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001815566717944",
+"-1.998858782779069",
+"0.9986794836176155"
+],
+"a": [
+"1.998859262003435",
+"-0.9988605610650442"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 20.0,
+"gain": 4.8,
+"q": 1.0,
+"biquads": {
+"96000": {
+"b": [
+"1.0001815566717944",
+"-1.998858782779069",
+"0.9986794836176155"
+],
+"a": [
+"1.998859262003435",
+"-0.9988605610650442"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 38.0,
+"gain": 1.1,
+"q": 0.8,
+"biquads": {
+"96000": {
+"b": [
+"1.000196701270346",
+"-1.9970799639307508",
+"0.996889439282662"
+],
+"a": [
+"1.9970799639307508",
+"-0.9970861405530085"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Odyssey%20(2026)%20(-4%20gain)%20DTS-HD%20MA%205.1.jpg",
+"https://raw.githubusercontent.com/T1G8RS-FAN/BEQImages/refs/heads/main/Images/The%20Odyssey%20(2026)%20DTS-HD%20MA%205.1.jpg"
+],
+"warning": "",
+"mv": "-4.0",
+"avs": "",
+"sortTitle": "odyssey",
+"edition": "",
+"note": "",
+"language": "English",
+"source": "Disc",
+"overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+"theMovieDB": "1368337",
+"rating": "R",
+"runtime": "173",
+"genres": [
+"Adventure",
+"Action",
+"Fantasy"
+],
+"altTitle": "",
+"collection": {},
+"underlying": "The Odyssey (2026) (-4.0 gain) BEQ DTS-HD MA 5.1",
+"digest": "4fc044e1e92b3b5b077f28da1f6afa44c51bc5b935324163923552b314edd334",
+"created_at": 1795823940,
+"updated_at": 1795823940,
+"audioCodecs": [
+"DTS-HD MA"
+],
+"audioChannelCounts": [
+"5.1"
 ],
 "filterAuthor": "human"
 },
