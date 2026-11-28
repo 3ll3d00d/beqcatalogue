@@ -2062832,6 +2062832,247 @@
 "title": "The Lord of the Rings: The Rings of Power",
 "year": "2022",
 "audioTypes": [
+"DD+ 5.1"
+],
+"content_type": "TV",
+"author": "remixmark",
+"catalogue_url": "https://beqcatalogue.readthedocs.io/en/latest/remixmark/the-lord-of-the-rings-the-rings-of-power/#season-03e07",
+"filters": [
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0001416038347843",
+"-1.999375800997898",
+"0.9992348197239616"
+],
+"a": [
+"1.9993759649955976",
+"-0.9993762595610464"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0001416038347843",
+"-1.999375800997898",
+"0.9992348197239616"
+],
+"a": [
+"1.9993759649955976",
+"-0.9993762595610464"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 10.0,
+"gain": 6.5,
+"q": 0.87,
+"biquads": {
+"96000": {
+"b": [
+"1.0001416038347843",
+"-1.999375800997898",
+"0.9992348197239616"
+],
+"a": [
+"1.9993759649955976",
+"-0.9993762595610464"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 39.99,
+"gain": 6.5,
+"q": 0.74,
+"biquads": {
+"96000": {
+"b": [
+"1.0006659109590523",
+"-1.9970635256474634",
+"0.9964075592018775"
+],
+"a": [
+"1.9970661452746632",
+"-0.9970708505337296"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 39.99,
+"gain": 6.5,
+"q": 0.74,
+"biquads": {
+"96000": {
+"b": [
+"1.0006659109590523",
+"-1.9970635256474634",
+"0.9964075592018775"
+],
+"a": [
+"1.9970661452746632",
+"-0.9970708505337296"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 39.99,
+"gain": 6.5,
+"q": 0.74,
+"biquads": {
+"96000": {
+"b": [
+"1.0006659109590523",
+"-1.9970635256474634",
+"0.9964075592018775"
+],
+"a": [
+"1.9970661452746632",
+"-0.9970708505337296"
+]
+}
+},
+"count": 1
+},
+{
+"type": "LowShelf",
+"freq": 19.56,
+"gain": -9.17,
+"q": 1.2,
+"biquads": {
+"96000": {
+"b": [
+"0.9997148915474521",
+"-1.9986100328028458",
+"0.9988961073135304"
+],
+"a": [
+"1.9986091275640616",
+"-0.9986119040997663"
+]
+}
+},
+"count": 1
+},
+{
+"type": "PeakingEQ",
+"freq": 27.48,
+"gain": -8.0,
+"q": 8.0,
+"biquads": {
+"96000": {
+"b": [
+"0.999892787122994",
+"-1.9996405133708628",
+"0.9997509604953172"
+],
+"a": [
+"1.9996405133708628",
+"-0.9996437476183113"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 44.0,
+"gain": -8.0,
+"q": 1.98,
+"biquads": {
+"96000": {
+"b": [
+"0.9993070778718335",
+"-1.997689239576419",
+"0.9983904453606537"
+],
+"a": [
+"1.997689239576419",
+"-0.9976975232324872"
+]
+}
+}
+},
+{
+"type": "PeakingEQ",
+"freq": 10.74,
+"gain": -0.07,
+"q": 5.0,
+"biquads": {
+"96000": {
+"b": [
+"0.9999994335427506",
+"-1.9998583619856534",
+"0.9998594225205035"
+],
+"a": [
+"1.9998583619856534",
+"-0.9998588560632541"
+]
+}
+}
+}
+],
+"images": [
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E07%29%20%28%2B0.5%20gain%29%20DD%2B%205.1.jpg",
+"https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E07%29%20%28%2B0.5%20gain%29%20DD%2B%205.1%20Peak%20Spectrum.jpg"
+],
+"warning": "",
+"season": "03E07",
+"episode": "",
+"mv": "0.5",
+"avs": "https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1812#post-65052171",
+"sortTitle": "the lord of the rings: the rings of power",
+"edition": "",
+"note": "AI Created",
+"language": "English",
+"source": "Disc",
+"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+"theMovieDB": "84773",
+"rating": "TV-14",
+"genres": [
+"Action & Adventure",
+"Sci-Fi & Fantasy"
+],
+"underlying": "The Lord of the Rings - The Rings of Power (2022) (Season S03E07) (+0.5 gain) BEQ DD+ 5.1 remixmark",
+"digest": "b6c361a799da28211d98caf1dfda03f2bfea64ed9ebe3683012c6401dc766131",
+"created_at": 1795828261,
+"updated_at": 1795828261,
+"audioCodecs": [
+"DD+"
+],
+"audioChannelCounts": [
+"5.1"
+],
+"filterAuthor": "model"
+},
+{
+"title": "The Lord of the Rings: The Rings of Power",
+"year": "2022",
+"audioTypes": [
 "DD+ Atmos"
 ],
 "content_type": "TV",
